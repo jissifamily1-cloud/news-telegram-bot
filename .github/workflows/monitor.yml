@@ -21,14 +21,14 @@ jobs:
         with:
           python-version: "3.11"
       - name: Syntax check
-        run: python -m py_compile engine/monitor_bot.py
+        run: python -m py_compile monitor_bot.py
       - name: Run bot
         env:
           TELEGRAM_BOT_TOKEN:  ${{ secrets.TELEGRAM_BOT_TOKEN }}
           NAVER_CLIENT_ID:     ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
           REGISTER_PASSWORD:   ${{ secrets.REGISTER_PASSWORD }}
-        run: python engine/monitor_bot.py
+        run: python monitor_bot.py
       - name: Commit config & state
         run: |
           git config user.name "github-actions[bot]"
