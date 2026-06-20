@@ -30,7 +30,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
 KST = timezone(timedelta(hours=9))
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.path.dirname(os.path.abspath(__file__))
 CONFIG_FILE = os.path.join(ROOT, "config.json")
 STATE_FILE = os.path.join(ROOT, "state.json")
 
