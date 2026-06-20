@@ -1,3 +1,18 @@
 {
- "chats": {}
+ "chats": {
+  "-1004347147762": {
+   "title": "SK그룹 키워드방",
+   "keywords": [
+    "SK"
+   ],
+   "title_only": [],
+   "block": [],
+   "exclude": [],
+   "body_match": true,
+   "recency_minutes": 120,
+   "active": true,
+   "authorized": true,
+   "registered_at": "2026-06-20T16:25:20.965865+09:00"
+  }
+ }
 }
