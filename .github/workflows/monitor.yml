@@ -2,7 +2,8 @@ name: news-bot
 
 on:
   workflow_dispatch:
-  # cron-job.org가 이 워크플로를 POST로 트리거(README 참조).
+  schedule:
+    - cron: "*/5 * * * *"   # 5분마다 자동 실행 (UTC 기준)
 
 permissions:
   contents: write
