@@ -442,12 +442,17 @@
     [
      "2026-06-23T07:15:26.678343+09:00",
      "2명으로 설치 여성이사 감사지원실"
+    ],
+    [
+     "2026-06-23T07:25:21.316086+09:00",
+     "F2텔레콤 KCA파트너스 인수전 배경은 맞손 부상 TNS"
+    ],
+    [
+     "2026-06-23T07:25:21.316086+09:00",
+     "수익 지연 진입 유리기판 2030년 공급망 사이클 구간 CoWoS 연장 한국"
     ]
    ],
    "seen_urls": [
-    "https://www.donga.com/news/Society/article/all/20260619/134146656/1",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=583379",
-    "https://www.dt.co.kr/article/12068476",
     "http://www.inews24.com/view/1978174",
     "https://www.pressian.com/pages/articles/2026061918072145631",
     "https://news.tvchosun.com/site/data/html_dir/2026/06/19/2026061990244.html",
@@ -1944,12 +1949,12 @@
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003245487&CMPT_CD=P0010",
     "http://www.inews24.com/view/1978609",
     "https://www.medicopharma.co.kr/news/articleView.html?idxno=68474",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008622438&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008622438&plink=ORI&cooper=NAVER",
+    "https://www.hankyung.com/article/2026062316327",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606181353522000108580",
+    "https://www.g-enews.com/view.php?ud=202606230707085550fbbec65dfb_1"
    ],
    "seen_titles": [
-    "“메시아버지사망”아르헨티나역대급오보…“진행자퇴출”",
-    "\"메시아버지사망했다\"…아르헨티나뒤집어놓은'가짜뉴스'",
-    "[속보]이정후타율쭉쭉오른다!안타→167km총알2루타폭발…ML타격...",
     "[속보]이정후한국인최초타격왕진짜보인다!마이애미전멀티히트...",
     "[속보]이정후,담장밑에낀2루타'멀티히트'대폭발!완벽도루+역전...",
     "[속보]이정후,방망이끝없이폭발!마이애미전멀티히트작렬→타율...",
@@ -3446,10 +3451,13 @@
     "[손병관의뉴스프레소]전대앞두고'보완수사권폐지'로기운김민석",
     "중동리스크걷히자석화업계구조조정시계다시움직인다",
     "[지배구조보고서][SK바이오사이언스]감사지원실설치·여성이사2명으로...",
-    "[모닝와이드]오늘의주요뉴스"
+    "[모닝와이드]오늘의주요뉴스",
+    "고금리에자영업자연체빚12.6%증가…영업이익률도뒷걸음",
+    "[더벨]'F2텔레콤맞손'KCA파트너스,SKTNS인수전부상배경은",
+    "유리기판2030년지연…CoWoS사이클연장,한국공급망수익구간진입"
    ],
    "initialized": true,
-   "last_run": "2026-06-23T07:20:28.123388+09:00"
+   "last_run": "2026-06-23T07:25:21.316086+09:00"
   }
  },
  "press_names": {
