@@ -234,6 +234,26 @@
     [
      "2026-06-22T18:15:30.783463+09:00",
      "오를것 증시 설문으로 신한투자증권 심리 투자자"
+    ],
+    [
+     "2026-06-22T18:20:31.674679+09:00",
+     "전방위 확대 SK하이닉스 입성 가동 성장전략 나스닥 가시화 생산"
+    ],
+    [
+     "2026-06-22T18:20:31.674679+09:00",
+     "조기 토종 HBM4E 등판 글로벌 장비사 삼전닉스 후공정"
+    ],
+    [
+     "2026-06-22T18:20:31.674679+09:00",
+     "격전지 부상 유통 집결 공룡들 충청"
+    ],
+    [
+     "2026-06-22T18:20:31.674679+09:00",
+     "AI플랫폼 까다로운 격전지 한국 접근 B2G까지 글로벌 데이터"
+    ],
+    [
+     "2026-06-22T18:20:31.674679+09:00",
+     "실리콘밸리 차세대 효자 러브콜 받는 우뚝 글로벌 시장 K딥테크 수출"
     ]
    ],
    "seen_urls": [
@@ -1487,7 +1507,15 @@
     "https://www.g-enews.com/view.php?ud=20260622163204458624debea800_1",
     "https://www.sedaily.com/article/20058737",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260622010007567",
-    "http://www.sisacast.kr/news/articleView.html?idxno=96977"
+    "http://www.sisacast.kr/news/articleView.html?idxno=96977",
+    "https://www.seoul.co.kr/news/economy/finance/2026/06/22/20260622500241?wlog_tag3=naver",
+    "http://www.smarttimes.co.kr/news/articleView.html?idxno=46595",
+    "https://biz.sbs.co.kr/article_hub/20000318070?division=NAVER",
+    "https://www.ajunews.com/view/20260622160321842",
+    "https://www.ajunews.com/view/20260622153740758",
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2283213",
+    "https://www.sedaily.com/article/20058739",
+    "http://www.fnnews.com/news/202606221814069911"
    ],
    "seen_titles": [
     "\"SK하이닉스대신담았는데\"…한달새40%넘게오른기업[종목+]",
@@ -2695,10 +2723,18 @@
     "김정관산업장관,‘착하디착한주유소’찾아유가안정동참격려",
     "“미토스위기가기회”…커지는‘양자보안’시장",
     "[기자의눈]전략자산된AI…'골든타임'이줄어든다",
-    "신한투자증권,설문으로본투자자심리…\"증시더오를것\""
+    "신한투자증권,설문으로본투자자심리…\"증시더오를것\"",
+    "AI메모리로기운증시…SK하이닉스‘대장주’오른이유",
+    "코스피,'9100선'첫돌파…시총1위SK하이닉스등극",
+    "반도체의힘…코스피사상첫9100선안착",
+    "SK하이닉스,전방위성장전략가동...나스닥입성·생산확대가시화",
+    "삼전닉스'HBM4E'조기등판···토종·글로벌장비사,후공정새판짜...",
+    "유통공룡들충청집결…새격전지부상",
+    "데이터접근까다로운B2G까지…글로벌AI플랫폼격전지된한국",
+    "실리콘밸리러브콜받는K딥테크…차세대수출효자우뚝[글로벌시장..."
    ],
    "initialized": true,
-   "last_run": "2026-06-22T18:15:30.783463+09:00"
+   "last_run": "2026-06-22T18:20:31.674679+09:00"
   }
  },
  "press_names": {
@@ -2788,6 +2824,7 @@
   "vop.co.kr": "vop.co.kr",
   "ezyeconomy.com": "이지경제",
   "namdonews.com": "남도일보",
-  "sisacast.kr": "시사캐스트"
+  "sisacast.kr": "시사캐스트",
+  "daejonilbo.com": "대전일보"
  }
 }
