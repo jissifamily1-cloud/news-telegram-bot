@@ -542,6 +542,10 @@
     [
      "2026-06-22T23:05:26.609539+09:00",
      "네덜란드 받은 니어필드 삼성벤처 투자 유치 5200억원 인스트루멘츠"
+    ],
+    [
+     "2026-06-22T23:10:34.326622+09:00",
+     "LG 생성형 삼성 1에이전트 엔비디아 본사로 1인"
     ]
    ],
    "seen_urls": [
@@ -2029,7 +2033,8 @@
     "http://www.4th.kr/news/articleView.html?idxno=2113553",
     "https://www.yna.co.kr/view/AKR20260622134051001?input=1195m",
     "http://www.00news.co.kr/news/articleView.html?idxno=104613",
-    "https://www.econovill.com/news/articleView.html?idxno=743096"
+    "https://www.econovill.com/news/articleView.html?idxno=743096",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260622230738ANF"
    ],
    "seen_titles": [
     "\"SK하이닉스대신담았는데\"…한달새40%넘게오른기업[종목+]",
@@ -3471,10 +3476,11 @@
     "티빙개인정보유출1953만명으로확대…역대네번째규모",
     "靑\"반도체초과세수미래세대위해\"…기업과'지역투자'소통도(종합)",
     "[산업콕!]'뱀머리'의반란...삼성물산·삼성전기·SK스퀘어",
-    "삼성벤처투자받은네덜란드니어필드인스트루멘츠…5200억원유치"
+    "삼성벤처투자받은네덜란드니어필드인스트루멘츠…5200억원유치",
+    "LG,엔비디아본사로…삼성'생성형AI'·SK'1인1에이전트'"
    ],
    "initialized": true,
-   "last_run": "2026-06-22T23:05:26.609539+09:00"
+   "last_run": "2026-06-22T23:10:34.326622+09:00"
   }
  },
  "press_names": {
