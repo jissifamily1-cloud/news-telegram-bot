@@ -282,12 +282,21 @@
     [
      "2026-06-23T05:15:34.045340+09:00",
      "반도체 지적재산 만들자 K특허뱅크 초과세수로 강국의"
+    ],
+    [
+     "2026-06-23T05:35:24.365157+09:00",
+     "ETF로 원전 확대 NH아문디운용 반도체 고성장 틈새서 대형사 존재감"
+    ],
+    [
+     "2026-06-23T05:35:24.365157+09:00",
+     "후회 200만원 샀다 올랐어 SK하닉 이유 너무"
+    ],
+    [
+     "2026-06-23T05:35:24.365157+09:00",
+     "27억원대 동작구 흥행 아르티아 드파인 이어질까 국평"
     ]
    ],
    "seen_urls": [
-    "https://www.donga.com/news/Politics/article/all/20260620/134148762/2",
-    "https://www.econovill.com/news/articleView.html?idxno=742947",
-    "https://www.econovill.com/news/articleView.html?idxno=742943",
     "http://www.intn.co.kr/news/articleView.html?idxno=2051409",
     "https://www.ddaily.co.kr/page/view/2026062012460951655",
     "https://www.sisajournal.com/news/articleView.html?idxno=377181",
@@ -1784,12 +1793,12 @@
     "https://www.joongang.co.kr/article/25438948",
     "https://www.ajunews.com/view/20260622150614658",
     "https://www.g-enews.com/view.php?ud=2026062300405148359a1f309431_1",
-    "https://www.sidae.com/article/2026062122181889717"
+    "https://www.sidae.com/article/2026062122181889717",
+    "https://www.news2day.co.kr/article/20260623500006",
+    "https://www.mt.co.kr/economy/2026/06/23/2026062217152659626",
+    "https://www.newsis.com/view/NISX20260622_0003678528"
    ],
    "seen_titles": [
-    "[속보]홍준표,장동혁향해\"미숙하지만버티니당유지되는것\"",
-    "[속보]강원동해안호우경보확대…미시령149.5㎜·설악산탐방로통제",
-    "[속보]207.5㎜물폭탄설악산통제…“강물불어나갇혀”고립신고",
     "레버리지ETF변동성소멸효과의함정:삼성전자·SK하이닉스단일종목ETF투자전필독",
     "[속보]합수본,투표관리관조사…‘투표용지부족’선관위의사결정추적",
     "[속보]미시령207.5㎜폭우…설악산통제·강릉단오제차질",
@@ -3286,10 +3295,13 @@
     "“삼전사자”초등생도아는데…투자열풍못따라가는학교수업",
     "K-배터리3사,2분기반등기대...정부ESS는물량보다'마진'시험대",
     "앤스로픽계약에마이크론신고가행진",
-    "[시대리포트]\"반도체초과세수로K특허뱅크만들자\"…지적재산강국의..."
+    "[시대리포트]\"반도체초과세수로K특허뱅크만들자\"…지적재산강국의...",
+    "NH아문디운용,대형사틈새서존재감확대…반도체·원전ETF로고성장",
+    "\"SK하닉200만원?너무올랐어\"안샀다후회...돈못번이유\"내탓\"",
+    "동작구'드파인아르티아'국평27억원대…흥행이어질까"
    ],
    "initialized": true,
-   "last_run": "2026-06-23T05:30:40.616089+09:00"
+   "last_run": "2026-06-23T05:35:24.365157+09:00"
   }
  },
  "press_names": {
@@ -3415,6 +3427,7 @@
   "voakorea.com": "Voice of America",
   "ferrotimes.com": "페로타임즈(FerroTimes)",
   "imaeil.com": "매일신문",
-  "sidae.com": "동행미디어 시대"
+  "sidae.com": "동행미디어 시대",
+  "news2day.co.kr": "뉴스투데이"
  }
 }
