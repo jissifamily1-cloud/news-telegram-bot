@@ -342,6 +342,26 @@
     [
      "2026-06-22T18:55:25.332542+09:00",
      "이끌 식품산업 변화로 고창대도약 농생명 혁명적"
+    ],
+    [
+     "2026-06-22T19:00:44.670293+09:00",
+     "팩토리 추가 탄력 완공 공장도 마더 베트남 증설 조기 구미"
+    ],
+    [
+     "2026-06-22T19:00:44.670293+09:00",
+     "최고치 예금 사수하라 이동하는 저축은행 금리 증시로"
+    ],
+    [
+     "2026-06-22T19:00:44.670293+09:00",
+     "키웠다 나스닥행 반도체 기대도 투심 SK하이닉스 힘입은"
+    ],
+    [
+     "2026-06-22T19:00:44.670293+09:00",
+     "눈높이 함께 서비스 발굴 대학생과 나선다 SKT 고객"
+    ],
+    [
+     "2026-06-22T19:00:44.670293+09:00",
+     "원가 유지 급감 부담 케이블TV 이중고 고사위기 매출"
     ]
    ],
    "seen_urls": [
@@ -1649,7 +1669,16 @@
     "http://www.fnnews.com/news/202606221851082551",
     "https://www.hani.co.kr/arti/opinion/editorial/1264757.html",
     "http://www.fnnews.com/news/202606221849551060",
-    "https://sjbnews.com/news/news.php?number=880901"
+    "https://sjbnews.com/news/news.php?number=880901",
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065606819835327",
+    "https://www.ccdn.co.kr/news/articleView.html?idxno=1084441",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1782117419&code=11151200&cp=nv",
+    "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606220193&t=NNv",
+    "https://www.sedaily.com/article/20058763",
+    "http://www.marketnews.co.kr/news/articleView.html?idxno=74182",
+    "https://www.seoul.co.kr/news/economy/finance/2026/06/23/20260623003001?wlog_tag3=naver",
+    "https://www.thepublic.kr/news/articleView.html?idxno=308591",
+    "https://www.topdaily.kr/articles/110652"
    ],
    "seen_titles": [
     "\"SK하이닉스대신담았는데\"…한달새40%넘게오른기업[종목+]",
@@ -2911,10 +2940,19 @@
     "1만피가는길변동성여전…공매도과열종목두달째증가",
     "[사설]뒤늦은금감원장의후회,레버리지대책강구해야",
     "삼전닉스투자상품내는해외거래소...국내거래소는규제에진입가...",
-    "“농생명·식품산업혁명적변화로고창대도약이끌것”"
+    "“농생명·식품산업혁명적변화로고창대도약이끌것”",
+    "\"세노바메이트다음은AI\"…SK바이오팜,인실리코와CNS공략",
+    "코스피,또사상최고치9천114.55마감",
+    "뒤바뀐대장주…하이닉스,코스피맨위에섰다",
+    "증시랠리에도금감원장은걱정…\"레버리지ETF,꼬리가몸통을\"",
+    "구미‘마더팩토리’추가증설탄력...베트남新공장도조기완공",
+    "증시로이동하는예금사수하라!저축은행금리최고치",
+    "반도체힘입은SK하이닉스…나스닥행기대도투심키웠다",
+    "SKT,대학생과함께'고객눈높이'서비스발굴나선다",
+    "'고사위기'케이블TV,원가부담유지속매출급감'이중고'"
    ],
    "initialized": true,
-   "last_run": "2026-06-22T18:55:25.332542+09:00"
+   "last_run": "2026-06-22T19:00:44.670293+09:00"
   }
  },
  "press_names": {
@@ -3008,6 +3046,8 @@
   "daejonilbo.com": "대전일보",
   "joongboo.com": "중부일보 - 경기·인천의 든든한 친구",
   "ggilbo.com": "금강일보",
-  "sjbnews.com": "sjbnews.com"
+  "sjbnews.com": "sjbnews.com",
+  "marketnews.co.kr": "마켓뉴스",
+  "topdaily.kr": "톱데일리"
  }
 }
