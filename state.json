@@ -709,8 +709,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20260619512915?OutUrl=naver",
-    "https://www.segye.com/newsView/20260619503813?OutUrl=naver",
     "https://www.yna.co.kr/view/AKR20260619107800003?input=1195m",
     "https://www.ytn.co.kr/_ln/0102_202606210515449917",
     "https://www.nocutnews.co.kr/news/6536029",
@@ -2208,11 +2206,11 @@
     "https://www.smarttoday.co.kr/ko-kr/articles/108589",
     "https://www.ajunews.com/view/20260623081053399",
     "https://www.tjb.co.kr/news05/bodo/view/id/99852",
-    "http://www.nongaek.com/news/articleView.html?idxno=95819"
+    "http://www.nongaek.com/news/articleView.html?idxno=95819",
+    "https://www.seoultimes.news/news/article.html?no=2000096910",
+    "https://www.munhwa.com/article/11597408"
    ],
    "seen_titles": [
-    "[속보]이란군\"호르무즈다시봉쇄할것…미·이스라엘탓\"",
-    "[속보]이란\"호르무즈해협재봉쇄…美·이스라엘종전합의위반\"",
     "[속보]이란군\"호르무즈다시봉쇄…미·이스라엘탓\"",
     "[속보]이란군\"호르무즈다시봉쇄…미·이스라엘종전MOU위반탓\"",
     "[속보]이란군“호르무즈다시봉쇄…미·이스라엘탓”",
@@ -3710,10 +3708,12 @@
     "[30%룰파훼]②때마침이뤄진업종변경?…삼성AI반도체ETF의절묘한...",
     "[단독]4개월만에韓귀환...HMM컨테이너선·유조선2척오늘호르무즈...",
     "코스피9000시대에도주주친화도제자리…코스닥은후퇴",
-    "[오늘의사설]\"박성재징역25년...내란적극가담철퇴\""
+    "[오늘의사설]\"박성재징역25년...내란적극가담철퇴\"",
+    "최태원의100년인재투자…AI시대‘큰나무’를키운다",
+    "“韓반도체더높은위치가능”…한투증권‘비중확대’유지"
    ],
    "initialized": true,
-   "last_run": "2026-06-23T08:44:46.871809+09:00"
+   "last_run": "2026-06-23T08:45:24.916278+09:00"
   }
  },
  "press_names": {
