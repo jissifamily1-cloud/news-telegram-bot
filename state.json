@@ -262,11 +262,17 @@
     [
      "2026-06-23T05:55:21.889760+09:00",
      "마이크론 계약 앤트로픽과 투자 협약 공급 메모리 AI인프라"
+    ],
+    [
+     "2026-06-23T06:00:46.192095+09:00",
+     "왔나 코스닥 어디서 꼬리표는 2부 리그"
+    ],
+    [
+     "2026-06-23T06:00:46.192095+09:00",
+     "줄어 매출은 자영업자 증가 고금리에 1분기 연체"
     ]
    ],
    "seen_urls": [
-    "https://www.eroun.net/news/articleView.html?idxno=83571",
-    "https://www.spotvnews.co.kr/news/articleView.html?idxno=823750",
     "https://www.mt.co.kr/politics/2026/06/20/2026062013245113926",
     "https://www.news1.kr/politics/president/6203249",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01407126645483688",
@@ -1764,11 +1770,11 @@
     "https://www.enetnews.co.kr/news/articleView.html?idxno=51472",
     "http://www.fnnews.com/news/202606230501213041",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=51008",
-    "https://www.yna.co.kr/view/AKR20260623009600091?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260623009600091?input=1195m",
+    "https://www.newstopkorea.com/news/articleView.html?idxno=45700",
+    "https://www.yna.co.kr/view/AKR20260622133500002?input=1195m"
    ],
    "seen_titles": [
-    "핸드볼H리그남녀챔피언,한일우승팀간슈퍼매치서2전전승(종합)",
-    "[mhn포토]김재희,우승위한부스터챙겨먹기",
     "[mhn포토]김재희,강하게날리는티샷",
     "[mhn포토]김재희,스윙점검",
     "[mhn포토]김재희,출발합니다",
@@ -3266,10 +3272,12 @@
     "[이넷뉴스브랜드평판]삼성SDI,전력저장장치ESS상장기업6월1위...L...",
     "\"불장에서내계좌는왜그대로\"…대형주장세에소외된개미들[월급쟁...",
     "마이크론실적기대에상승…스페이스X급락",
-    "마이크론,앤트로픽과AI인프라협약…메모리공급·투자계약"
+    "마이크론,앤트로픽과AI인프라협약…메모리공급·투자계약",
+    "[코스닥모멘텀]코스닥,'2부리그'꼬리표는어디서왔나",
+    "고금리에1분기자영업자연체빚13%증가…매출은줄어"
    ],
    "initialized": true,
-   "last_run": "2026-06-23T05:55:21.889760+09:00"
+   "last_run": "2026-06-23T06:00:46.192095+09:00"
   }
  },
  "press_names": {
@@ -3397,6 +3405,7 @@
   "imaeil.com": "매일신문",
   "sidae.com": "동행미디어 시대",
   "news2day.co.kr": "뉴스투데이",
-  "enetnews.co.kr": "이넷뉴스"
+  "enetnews.co.kr": "이넷뉴스",
+  "newstopkorea.com": "뉴스톱"
  }
 }
