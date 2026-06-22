@@ -473,9 +473,6 @@
     ]
    ],
    "seen_urls": [
-    "https://economist.co.kr/article/view/ecn202606200012",
-    "https://www.dt.co.kr/article/12068504",
-    "https://magazine.hankyung.com/business/article/202606208085b",
     "https://www.mhns.co.kr/news/articleView.html?idxno=750886",
     "https://www.newsis.com/view/NISX20260620_0003676840",
     "https://www.yna.co.kr/view/PYH20260620026200007?input=1196m",
@@ -1972,12 +1969,12 @@
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255343",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=845578",
     "https://magazine.hankyung.com/business/article/202606168211b",
-    "https://www.ytn.co.kr/_ln/0102_202606230728302397"
+    "https://www.ytn.co.kr/_ln/0102_202606230728302397",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606221628176600107723",
+    "https://www.yna.co.kr/view/AKR20260619094400017?input=1195m",
+    "http://www.fnnews.com/news/202606230730161444"
    ],
    "seen_titles": [
-    "[속보]제천왕암동공장서화학물질누출의심",
-    "[속보]타율1위도전!이정후,첫타석서홈런폭발했던투수만나ABS...",
-    "[속보]한강하구서실종70대어민,하루만에숨진채발견",
     "[속보]“개인합의도달→이적료협상진행중”…‘韓축구초대박’...",
     "[속보]인천시,여성단체협의회'부회장체제'전환통보…비대위\"기존...",
     "[베스트&워스트]서산,184%폭등·유티아이급락…건자재·제약테마순...",
@@ -3474,10 +3471,13 @@
     "[넥스트-샷]빅테크메가캡진흙탕속반도체비웃다···원유는'대반...",
     "SK이노,세갈래승부수…정유·배터리·SMR균형찾기",
     "[2026100대CEO]장용호SK사장,지속가능한SK를향하여",
-    "[스타트경제]이찬진금감원장이제와서후회...\"레버리지ETF드러누워..."
+    "[스타트경제]이찬진금감원장이제와서후회...\"레버리지ETF드러누워...",
+    "[더벨][thebellinterview]SK바이오팜,인실리코와4조AI딜\"메가버스...",
+    "[가보니]바이오USA달군K바이오…한국관에글로벌인파",
+    "李대통령,25일이재용회장과'반도체지방투자'회동"
    ],
    "initialized": true,
-   "last_run": "2026-06-23T07:35:22.947808+09:00"
+   "last_run": "2026-06-23T07:40:27.595454+09:00"
   }
  },
  "press_names": {
