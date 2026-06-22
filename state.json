@@ -238,11 +238,13 @@
     [
      "2026-06-23T04:35:23.433092+09:00",
      "간다 SK하이닉스 역대 430만원 이유 나온 목표가 최고치 전망"
+    ],
+    [
+     "2026-06-23T04:40:30.327985+09:00",
+     "늘리며 전력 찾아라 전세계 데이터센터 탄소 비상 저감할 묘안"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20058116",
-    "https://magazine.hankyung.com/business/article/202606172861b",
     "https://www.getnews.co.kr/news/articleView.html?idxno=872858",
     "https://www.getnews.co.kr/news/articleView.html?idxno=872857",
     "https://magazine.hankyung.com/business/article/202606172409b",
@@ -1740,11 +1742,11 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=263542",
     "https://www.g-enews.com/view.php?ud=2026062219293990242bd56fbc3c_1",
     "https://www.hankookilbo.com/news/article/A2026062214170002179?did=NA",
-    "http://www.fnnews.com/news/202606221609032198"
+    "http://www.fnnews.com/news/202606221609032198",
+    "https://www.donga.com/news/Economy/article/all/20260623/134162003/2",
+    "https://www.donga.com/news/Society/article/all/20260623/134160757/2"
    ],
    "seen_titles": [
-    "SK그룹,'K-뉴딜아카데미'로청년783명AI인재키운다",
-    "SK하이닉스배당확대기대감…SK스퀘어수혜본격화",
     "SK하닉,HBM4E12단샘플공급…삼성추격본격화:네이버블로그",
     "美·이란종전MOU에…삼성·SK\"안심하긴일러,공급망다변화고삐\"[중동전쟁이후K산업계는①]",
     "[속보]미국정보당국“이스라엘레바논작전,미·이란종전합의흔들수있다”",
@@ -3242,10 +3244,12 @@
     "삼성전자파업출혈고통...애널\"새보상'부담커...올해영업익340조...",
     "미301조관세,7월24일D-31…한국'15%상한'지킬수있나",
     "[박일근칼럼]미안하다청춘에게",
-    "\"목표가430만원간다\"…SK하이닉스,역대최고치전망나온이유"
+    "\"목표가430만원간다\"…SK하이닉스,역대최고치전망나온이유",
+    "李,25일이재용과회동…최태원지난주만나",
+    "데이터센터비상…전세계“전력늘리며탄소저감할묘안찾아라”"
    ],
    "initialized": true,
-   "last_run": "2026-06-23T04:35:23.433092+09:00"
+   "last_run": "2026-06-23T04:40:30.327985+09:00"
   }
  },
  "press_names": {
