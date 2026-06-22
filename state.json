@@ -578,6 +578,10 @@
     [
      "2026-06-22T21:15:31.144949+09:00",
      "주목할 종목 CJ제일제당 SK하이닉스 삼성 한전기술"
+    ],
+    [
+     "2026-06-22T21:30:37.992801+09:00",
+     "투자 발표 삼성 전략 29일 최종 조율 지역발전"
     ]
    ],
    "seen_urls": [
@@ -2014,7 +2018,9 @@
     "https://www.ikbc.co.kr/article/view/kbc202606220062",
     "https://www.segye.com/newsView/20260622514774?OutUrl=naver",
     "https://www.segye.com/newsView/20260622514771?OutUrl=naver",
-    "https://www.kgnews.co.kr/news/article.html?no=901045"
+    "https://www.kgnews.co.kr/news/article.html?no=901045",
+    "https://www.insightkorea.co.kr/news/articleView.html?idxno=248609",
+    "https://www.sedaily.com/article/20058797"
    ],
    "seen_titles": [
     "\"SK하이닉스대신담았는데\"…한달새40%넘게오른기업[종목+]",
@@ -3405,10 +3411,12 @@
     "전남광주'반도체투자'임박?...정부발표'주목'",
     "‘대장주’등극SK하이닉스상승률삼성전자3배",
     "이찬진“단일종목레버리지ETF,증권사만배불려”",
-    "산업부장관,'착한주유소'방문…\"유가안정화기여감사\""
+    "산업부장관,'착한주유소'방문…\"유가안정화기여감사\"",
+    "SK바이오팜,인실리코와AI기반CNS신약공동연구계약체결",
+    "李,29일지역발전전략등발표...삼성SK투자최종조율"
    ],
    "initialized": true,
-   "last_run": "2026-06-22T21:25:27.822664+09:00"
+   "last_run": "2026-06-22T21:30:37.992801+09:00"
   }
  },
  "press_names": {
