@@ -522,6 +522,10 @@
     [
      "2026-06-22T21:50:28.937559+09:00",
      "26일 변론 최태원 재산분할 노소영 재개 파기환송심"
+    ],
+    [
+     "2026-06-22T21:56:55.224647+09:00",
+     "전쟁 금지와 수출 피지컬 패권"
     ]
    ],
    "seen_urls": [
@@ -1983,7 +1987,8 @@
     "https://biz.heraldcorp.com/article/10783549",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8592114",
     "http://www.rightknow.co.kr/news/articleView.html?idxno=34306",
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=551805"
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=551805",
+    "http://www.civicnews.com/news/articleView.html?idxno=40058"
    ],
    "seen_titles": [
     "\"SK하이닉스대신담았는데\"…한달새40%넘게오른기업[종목+]",
@@ -3399,10 +3404,11 @@
     "할아버지,할머니도요즘‘토스’에빠졌다…계좌가무려256%급증",
     "SK하이닉스,삼성전자제쳤다…25년만대장주교체",
     "최태원·노소영재산분할파기환송심26일변론재개",
-    "SK하닉,삼전제치고시총1위등극"
+    "SK하닉,삼전제치고시총1위등극",
+    "[권만우칼럼]AI수출금지와피지컬AI패권전쟁"
    ],
    "initialized": true,
-   "last_run": "2026-06-22T21:55:25.151642+09:00"
+   "last_run": "2026-06-22T21:56:55.224647+09:00"
   }
  },
  "press_names": {
@@ -3515,6 +3521,7 @@
   "newsinside.kr": "뉴스인사이드",
   "newstnt.com": "뉴스티앤티",
   "hellot.net": "헬로티",
-  "rightknow.co.kr": "알티케이뉴스"
+  "rightknow.co.kr": "알티케이뉴스",
+  "civicnews.com": "CIVICNEWS(시빅뉴스)"
  }
 }
