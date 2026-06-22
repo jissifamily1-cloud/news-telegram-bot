@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-22T21:30:37.992801+09:00",
-     "투자 발표 삼성 전략 29일 최종 조율 지역발전"
-    ],
-    [
      "2026-06-22T21:35:26.547443+09:00",
      "성장세 국내 고용정체 상태 대기업들"
     ],
@@ -250,10 +246,13 @@
     [
      "2026-06-23T02:10:30.085151+09:00",
      "2만명 4대 성장 감소 1년 고착화 고용없는 직원수"
+    ],
+    [
+     "2026-06-23T03:30:43.787262+09:00",
+     "막았어야 레버리지 금감원장의 드러누워서라도 후회 닉스 삼전"
     ]
    ],
    "seen_urls": [
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tNERCcktPVng0TjJGRWNsWmVGSFJJOTlMVFpWTEtpc3h2Z1E4Q25jRENpX0Y0VmgxMVQtZTFULTBJNFUtcHc0LTZGYXVpMlo2b29DMDNvMzF2dTQxRW11cTVybHAxbWFseHM5V0h6UQ?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNHZzWWtBSm15T3ZGaHhKeUlxQ0pMOG0zaW9oRkt2UDJzZGs0LXJuY2xlaElDSlJKU0pyNTliOW54TUFFQVlmbDV0R0RXcWVuZjFoN19pdHJQY2l1NjJ2ck1jREIxeDE3dmI3bnI5Skl5Mjd2eFBQYi1fa05SOVNmLXluT3ZaeEJnZVBZ?oc=5",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qNHJLRzZXWlRpbmhseXBYYlpEUTRxUGpBaDhnWGVSZzVySmhiMkQwQkpOREdIUEwxcjBuN0hNYkVBNGpDc2Rzb2w2SE9GUWxMbDM3dzF6dDNZMk1wX0duZ1ZDdTZXVmc?oc=5",
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WRm1sQVZDMmpqSUpleFJkLTdXRTVUdW9EUlBPYlEtdnkyZVFCRk1mQUJ0S3lMUUk4TVJ1LV9xbGlydGszMWJBTHEtTDNzWm8?oc=5",
@@ -1752,10 +1751,10 @@
     "https://www.voakorea.com/a/now-in-korea-062226/8163540.html",
     "https://www.segye.com/newsView/20260623500471?OutUrl=naver",
     "https://www.kmib.co.kr/article/view.asp?arcid=1782120555&code=11151400&cp=nv",
-    "https://www.segye.com/newsView/20260622514810?OutUrl=naver"
+    "https://www.segye.com/newsView/20260622514810?OutUrl=naver",
+    "https://www.thescoop.co.kr/news/articleView.html?idxno=310670"
    ],
    "seen_titles": [
-    "[SK스퀘어리밸런싱]자회사매각으로1.4조확보···AI반도체투자사변신",
     "삼성·SK그룹주시총5000조첫돌파···코스피의69%장악",
     "‘주식으로1억’날린미자,또?…“SK하닉재입성”소식에“큰일났다”반응",
     "반도체투톱이이끈‘9300피’…SK하이닉스,시총2000조돌파",
@@ -3254,10 +3253,11 @@
     "[한국은지금]우크라이나외교장관30일방한,북한군포로송환문제...",
     "李대통령,최태원이어이재용만난다…균형발전논의할듯",
     "‘고용없는성장’고착화…4대그룹직원수1년새1.2만명감소",
-    "SK하이닉스,삼전제치고‘시총1위’"
+    "SK하이닉스,삼전제치고‘시총1위’",
+    "삼전·닉스레버리지\"드러누워서라도막았어야\"…금감원장의후회"
    ],
    "initialized": true,
-   "last_run": "2026-06-23T03:25:29.418008+09:00"
+   "last_run": "2026-06-23T03:30:43.787262+09:00"
   }
  },
  "press_names": {
