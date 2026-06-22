@@ -290,6 +290,18 @@
     [
      "2026-06-22T18:30:37.020447+09:00",
      "5천만원 하닉 달라는데 5억 삼전으로 어쩌죠 친언니가"
+    ],
+    [
+     "2026-06-22T18:35:24.675970+09:00",
+     "충청권에 한다 반도체 계약학과 늘려야"
+    ],
+    [
+     "2026-06-22T18:35:24.675970+09:00",
+     "1000조원 빅테크도 채권 찍는다 전쟁 쏟아붓는"
+    ],
+    [
+     "2026-06-22T18:35:24.675970+09:00",
+     "뉴스에도 주가 너드 합병 급락 지표는 널뛰는 대신 봐야 하이닉스"
     ]
    ],
    "seen_urls": [
@@ -1569,7 +1581,13 @@
     "https://www.newspim.com/news/view/20260622001099",
     "https://www.news1.kr/finance/general-stock/6204905",
     "https://www.namdonews.com/news/articleView.html?idxno=914418",
-    "https://www.seoul.co.kr/news/society/2026/06/22/20260622500194?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/society/2026/06/22/20260622500194?wlog_tag3=naver",
+    "https://www.smartbizn.com/news/articleView.html?idxno=146740",
+    "https://www.etnews.com/20260622000441",
+    "https://www.donga.com/news/Economy/article/all/20260622/134159897/1",
+    "https://www.ggilbo.com/news/articleView.html?idxno=1165073",
+    "https://www.econovill.com/news/articleView.html?idxno=743090",
+    "https://www.mk.co.kr/article/12080261"
    ],
    "seen_titles": [
     "\"SK하이닉스대신담았는데\"…한달새40%넘게오른기업[종목+]",
@@ -2803,10 +2821,16 @@
     "[프로축구]김민재의뮌헨,8월4일제주서제주SK와친선경기",
     "'HBM시대'개척한SK하닉'시총1위'…삼성전자재역전조건은",
     "[통합특별시,길을묻다]③산업분야:김성진한국전력거래소이사장...",
-    "하닉·삼전으로5억번女“친언니가5천만원달라는데어쩌죠”"
+    "하닉·삼전으로5억번女“친언니가5천만원달라는데어쩌죠”",
+    "코스피,사상첫9100선안착···SK하닉,삼전제치고시총1위등극",
+    "이찬진금감원장“삼전닉스레버리지ETF,드러누워서라도막았어야”",
+    "금감원장“단일종목레버리지,드러누워서라도막았어야…부작용커”",
+    "[사설]반도체계약학과충청권에더늘려야한다",
+    "1000조원쏟아붓는AI전쟁\"빅테크도채권찍는다\"",
+    "하이닉스합병뉴스에도급락…널뛰는주가대신봐야할지표는?[너드..."
    ],
    "initialized": true,
-   "last_run": "2026-06-22T18:30:37.020447+09:00"
+   "last_run": "2026-06-22T18:35:24.675970+09:00"
   }
  },
  "press_names": {
@@ -2898,6 +2922,7 @@
   "namdonews.com": "남도일보",
   "sisacast.kr": "시사캐스트",
   "daejonilbo.com": "대전일보",
-  "joongboo.com": "중부일보 - 경기·인천의 든든한 친구"
+  "joongboo.com": "중부일보 - 경기·인천의 든든한 친구",
+  "ggilbo.com": "금강일보"
  }
 }
