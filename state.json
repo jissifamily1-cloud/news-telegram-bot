@@ -514,6 +514,22 @@
     [
      "2026-06-22T20:15:32.589122+09:00",
      "편의점 경기도 꺼져간다"
+    ],
+    [
+     "2026-06-22T20:25:24.878014+09:00",
+     "비명 8조 신기루와 코스피 000선 돌파의"
+    ],
+    [
+     "2026-06-22T20:25:24.878014+09:00",
+     "열린다 SMR 11월 국제콘퍼런스 창원서 경남"
+    ],
+    [
+     "2026-06-22T20:25:24.878014+09:00",
+     "월급 세전 입니다 받으세요 상위16"
+    ],
+    [
+     "2026-06-22T20:25:24.878014+09:00",
+     "주의 의정부 깨우는 뜨거운 5시 SK의 화요일 오후 가장 열정을"
     ]
    ],
    "seen_urls": [
@@ -1902,7 +1918,12 @@
     "https://www.g-enews.com/view.php?ud=20260622200849308195c8fcfb13_1",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606220296&t=NN",
     "https://imnews.imbc.com/replay/2026/nwdesk/article/6832027_37004.html",
-    "https://imnews.imbc.com/replay/2026/nwdesk/article/6832026_37004.html"
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6832026_37004.html",
+    "https://www.ajunews.com/view/20260622200542192",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=551696",
+    "https://www.gnnews.co.kr/news/articleView.html?idxno=639535",
+    "https://www.munhwa.com/article/11597337",
+    "https://basketkorea.com/news/newsview.php?ncode=1065611156892945"
    ],
    "seen_titles": [
     "\"SK하이닉스대신담았는데\"…한달새40%넘게오른기업[종목+]",
@@ -3245,10 +3266,15 @@
     "티빙개인정보유출1953만명…역대네번째규모",
     "'내정보도털렸나'…초기추산보다650만명더늘어",
     "시총1위내주고하락전환한삼성전자‥코스피고점신호?",
-    "290만닉스,삼전밀어내고대장주등극‥25년만의지각변동"
+    "290만닉스,삼전밀어내고대장주등극‥25년만의지각변동",
+    "티빙개인정보유출1953만명...역대네번째유출규모",
+    "[윤덕우칼럼]코스피9,000선돌파의신기루와'8조원'의비명",
+    "'2026경남SMR국제콘퍼런스'11월창원서열린다",
+    "“월급세전500받으세요?상위16%입니다”",
+    "화요일오후5시,한주의열정을깨우는의정부SK의가장뜨거운첫쿼..."
    ],
    "initialized": true,
-   "last_run": "2026-06-22T20:20:29.536294+09:00"
+   "last_run": "2026-06-22T20:25:24.878014+09:00"
   }
  },
  "press_names": {
@@ -3351,6 +3377,9 @@
   "kyongbuk.co.kr": "경북일보",
   "jndn.com": "jndmnews",
   "rcast.co.kr": "리얼캐스트",
-  "iusm.co.kr": "울산매일 - 울산최초, 최고의 조간신문"
+  "iusm.co.kr": "울산매일 - 울산최초, 최고의 조간신문",
+  "idaegu.co.kr": "대구신문",
+  "gnnews.co.kr": "경남일보",
+  "basketkorea.com": "바스켓코리아"
  }
 }
