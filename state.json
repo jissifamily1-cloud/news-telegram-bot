@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-22T19:25:24.600753+09:00",
-     "통합특별시 쪼그라드나 전남 서부권 변방"
-    ],
-    [
-     "2026-06-22T19:25:24.600753+09:00",
-     "선정 검증 시장 속도 셀렉트스타 스타트업 신뢰성 공략 초격차"
-    ],
-    [
-     "2026-06-22T19:25:24.600753+09:00",
-     "교보증권 공모 KB금융 ELB 월지급식 기초자산"
-    ],
-    [
-     "2026-06-22T19:25:24.600753+09:00",
-     "에너지 기반 미래 먹거리 교통망 다졌다 확충"
-    ],
-    [
      "2026-06-22T19:35:22.979920+09:00",
      "공급망박람회에 참가한 SK그룹 중국"
     ],
@@ -386,10 +370,13 @@
     [
      "2026-06-23T01:00:56.794472+09:00",
      "쿠팡이 반도체보다 창출엔 일자리 고용 빅4 택배 제치고"
+    ],
+    [
+     "2026-06-23T01:25:25.580150+09:00",
+     "방한 송환 북한군 포로 30일 문제 우크라이나 외교장관"
     ]
    ],
    "seen_urls": [
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84b19NS3RwY0JBdlNWMXNyb0NwdWlYRHpfSTB4UVZqOFJkUjdmTTBPNDZEUldQVEtzSzQ3ckFJRU5CWkxlRGtsU1FRSjNDWXVCWTR6SDhkellzRUJLN3NCcURFdmlkclU?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ3ZvSVNhQ0MwSmdaQnRnNFNVOVk2NDkwQWZRS2JqenBwdVNZbVdaWDI2czZjaGtObzRBSmpCQWhqQURCOURLSzFhc1VIZnBFeGt6QlB0aEt3YUJQWVlxcGhsa05HdERwVGtaSFRaUFZDaVhsYXpTS1FxYm4tR25yV09xdTh3a0k5V0Y5UmV3?oc=5",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GRG1vMGRHbUYzS2JvMXVhazFOdWM1eE5yM3NUNnZKNlhMMXdCamRjTXBnR1BJdEUtbTFqRGsxb3JqVXlWQTJPeUE1ajY3SkpTSnNZWGhnbXNUTHlJc3VpYWNR?oc=5",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYcEg0T09MNXZVRExSR0tyejNBdHBOQWkyY2wtZG5FeHJMUmI2ZkliR0FuWGJIcGhmZGp3MlZjeUcyOFhPeE13LVJuYUpaZzF2MWZYcEpjQkVFX2ZrNVp4RWQwYWZ0aTg?oc=5",
@@ -1888,10 +1875,10 @@
     "https://www.chosun.com/economy/industry-company/2026/06/23/6MNTEUOKHNAZXE3KR3LZOYVOQA/",
     "https://www.chosun.com/economy/money/2026/06/23/OYYVVCPMCFA3LHSHD6ZKWGMDAI/",
     "https://www.chosun.com/economy/stock-finance/2026/06/23/SJM5TUZGOVGIREGOU47QRZYXXQ/",
-    "https://www.chosun.com/economy/industry-company/2026/06/23/XMRH2OZB35DN5EILFQ4A4KCHWM/"
+    "https://www.chosun.com/economy/industry-company/2026/06/23/XMRH2OZB35DN5EILFQ4A4KCHWM/",
+    "https://www.voakorea.com/a/now-in-korea-062226/8163540.html"
    ],
    "seen_titles": [
-    "[인터뷰]이재신SK텔레콤AI사업개발담당“인공지능경쟁,추론으로…AI데이터센터풀스택인프라로승부”-조선비즈",
     "[통신리뷰]SK텔레콤,독파모선행연구기반세미나개최(6월3주차)",
     "[그린인사이드]서로다른HBM'쌓기기술'…삼성vsSK하이닉스최후의승자는",
     "SK하이닉스직원이1억쾌척…사랑의열매고액기부자모임가입",
@@ -3390,10 +3377,11 @@
     "AI에일자리맡겼다…4대그룹고용감소",
     "25년7개월만에…코스피‘왕좌교체’",
     "반도체만집중해HBM선점…美상장기대감도호재",
-    "일자리창출엔반도체보다택배?SK제치고쿠팡이‘고용빅4’로"
+    "일자리창출엔반도체보다택배?SK제치고쿠팡이‘고용빅4’로",
+    "[한국은지금]우크라이나외교장관30일방한,북한군포로송환문제..."
    ],
    "initialized": true,
-   "last_run": "2026-06-23T01:20:42.154477+09:00"
+   "last_run": "2026-06-23T01:25:25.580150+09:00"
   }
  },
  "press_names": {
@@ -3515,6 +3503,7 @@
   "junggi.co.kr": "중기이코노미",
   "newsclaim.co.kr": "뉴스클레임",
   "m.skyedaily.com": "m.skyedaily.com",
-  "wolyo.co.kr": "월요신문"
+  "wolyo.co.kr": "월요신문",
+  "voakorea.com": "Voice of America"
  }
 }
