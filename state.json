@@ -566,6 +566,18 @@
     [
      "2026-06-22T21:10:31.400888+09:00",
      "거래정지 크레오에스지 카카오게임즈 팬오션 예고 서산"
+    ],
+    [
+     "2026-06-22T21:15:31.144949+09:00",
+     "전남광주 민심이 견인 대통령 국정 평가 이재명 부정"
+    ],
+    [
+     "2026-06-22T21:15:31.144949+09:00",
+     "위험자산 퇴직연금 허용 급물살"
+    ],
+    [
+     "2026-06-22T21:15:31.144949+09:00",
+     "주목할 종목 CJ제일제당 SK하이닉스 삼성 한전기술"
     ]
    ],
    "seen_urls": [
@@ -1989,7 +2001,13 @@
     "https://www.mk.co.kr/article/12078480",
     "https://www.hankyung.com/article/202606221408i",
     "https://www.newsinside.kr/news/articleView.html?idxno=4781238",
-    "https://www.newstnt.com/news/articleView.html?idxno=707339"
+    "https://www.newstnt.com/news/articleView.html?idxno=707339",
+    "https://www.globale.co.kr/news/articleView.html?idxno=38939",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260622211126aN6",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=05330006645484344",
+    "http://www.kwangju.co.kr/article.php?aid=1782130200800440004",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=05359526645484344",
+    "https://www.hellot.net/news/article.html?no=113347"
    ],
    "seen_titles": [
     "\"SK하이닉스대신담았는데\"…한달새40%넘게오른기업[종목+]",
@@ -3367,10 +3385,16 @@
     "뜨거운동탄…‘반도체셔세권’효과?[감평사의부동산현장진단]",
     "SK하이닉스2배추종홍콩ETF…펀드비용순자산40%폭증주의보",
     "[금융가산책]우리은행,신용대출1억·마통5000만원한도로제한",
-    "[공시]서산·크레오에스지'거래정지예고',카카오게임즈·팬오션'공..."
+    "[공시]서산·크레오에스지'거래정지예고',카카오게임즈·팬오션'공...",
+    "티빙개인정보유출1,953만명···아이디·비번·계좌몽땅털렸다",
+    "이대통령,이번주이재용삼성전자회장회동…반도체공장논의할듯",
+    "李대통령,이재용삼성회장만난다…지역투자논의",
+    "이재명대통령국정부정평가전남광주민심이견인",
+    "[미리보는이데일리신문]퇴직연금위험자산100%허용급물살",
+    "[헬로스톡]6/22주목할종목:SK하이닉스·CJ제일제당·한전기술·삼성..."
    ],
    "initialized": true,
-   "last_run": "2026-06-22T21:10:31.400888+09:00"
+   "last_run": "2026-06-22T21:15:31.144949+09:00"
   }
  },
  "press_names": {
@@ -3481,6 +3505,7 @@
   "kfenews.co.kr": "한국금융경제신문",
   "phmbc.co.kr": "포항MBC",
   "newsinside.kr": "뉴스인사이드",
-  "newstnt.com": "뉴스티앤티"
+  "newstnt.com": "뉴스티앤티",
+  "hellot.net": "헬로티"
  }
 }
