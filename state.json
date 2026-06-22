@@ -434,6 +434,22 @@
     [
      "2026-06-22T19:20:32.706294+09:00",
      "다시 부산의 청년 키워 살릴 해양수도 경제"
+    ],
+    [
+     "2026-06-22T19:25:24.600753+09:00",
+     "통합특별시 쪼그라드나 전남 서부권 변방"
+    ],
+    [
+     "2026-06-22T19:25:24.600753+09:00",
+     "선정 검증 시장 속도 셀렉트스타 스타트업 신뢰성 공략 초격차"
+    ],
+    [
+     "2026-06-22T19:25:24.600753+09:00",
+     "교보증권 공모 KB금융 ELB 월지급식 기초자산"
+    ],
+    [
+     "2026-06-22T19:25:24.600753+09:00",
+     "에너지 기반 미래 먹거리 교통망 다졌다 확충"
     ]
    ],
    "seen_urls": [
@@ -1774,7 +1790,11 @@
     "https://www.newscj.com/news/articleView.html?idxno=3411202",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4076265",
     "http://www.osen.co.kr/article/G1112826757",
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260623.22019006472"
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260623.22019006472",
+    "http://www.jndn.com/article.php?aid=1782123632434776001",
+    "https://www.venturesquare.net/1092683/",
+    "https://www.rcast.co.kr/news/articleView.html?idxno=31094",
+    "http://www.jndn.com/article.php?aid=1782123426434766001"
    ],
    "seen_titles": [
     "\"SK하이닉스대신담았는데\"…한달새40%넘게오른기업[종목+]",
@@ -3069,10 +3089,14 @@
     "AI가만든새장벽…'포용적AI'글로벌정책화두로",
     "SK텔레콤'내생애첫폰'출범…경북가정위탁아동디지털격차줄인...",
     "[공식발표]제주SK,바이에른뮌헨초청...8월4일제주월드컵경기장서...",
-    "[사설]‘해양수도’‘청년’‘경제’부산의기(氣)다시살릴키워..."
+    "[사설]‘해양수도’‘청년’‘경제’부산의기(氣)다시살릴키워...",
+    "전남서부권,통합특별시‘변방중변방’쪼그라드나",
+    "셀렉트스타,초격차스타트업선정…AI신뢰성검증시장공략속도",
+    "교보증권,KB금융기초자산월지급식ELB공모外",
+    "AI·에너지·교통망확충…미래먹거리기반다졌다"
    ],
    "initialized": true,
-   "last_run": "2026-06-22T19:20:32.706294+09:00"
+   "last_run": "2026-06-22T19:25:24.600753+09:00"
   }
  },
  "press_names": {
@@ -3172,6 +3196,8 @@
   "koreajoongangdaily.com": "koreajoongangdaily",
   "hellodd.com": "헬로디디",
   "newscj.com": "천지일보",
-  "kyongbuk.co.kr": "경북일보"
+  "kyongbuk.co.kr": "경북일보",
+  "jndn.com": "jndmnews",
+  "rcast.co.kr": "리얼캐스트"
  }
 }
