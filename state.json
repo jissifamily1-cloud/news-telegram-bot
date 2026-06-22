@@ -410,6 +410,26 @@
     [
      "2026-06-22T19:10:30.290359+09:00",
      "환율 106일 기름값 전쟁은 후폭풍 국내 물가 끝났지만"
+    ],
+    [
+     "2026-06-22T19:15:29.250706+09:00",
+     "유혹 평등 정책의 균형 한계 발전의"
+    ],
+    [
+     "2026-06-22T19:15:29.250706+09:00",
+     "반도체까지 현장 설계부터 산업 치료 국방 조선 속속"
+    ],
+    [
+     "2026-06-22T19:15:29.250706+09:00",
+     "Four at Revenue Conglomerates Jobs Big Higher Despite Shrink"
+    ],
+    [
+     "2026-06-22T19:15:29.250706+09:00",
+     "장벽 글로벌 만든 포용적 정책 화두로 AI가"
+    ],
+    [
+     "2026-06-22T19:15:29.250706+09:00",
+     "SK텔레콤 아동 줄인 디지털 가정위탁 생애 격차 첫폰 출범 경북"
     ]
    ],
    "seen_urls": [
@@ -1741,7 +1761,14 @@
     "http://www.fnnews.com/news/202606221907435877",
     "https://www.hidomin.com/news/articleView.html?idxno=710405",
     "https://www.thelec.kr/news/articleView.html?idxno=58447",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1782118677&code=11151100&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=1782118677&code=11151100&cp=nv",
+    "https://www.seoul.co.kr/news/economy/2026/06/22/20260622500249?wlog_tag3=naver",
+    "https://en.yna.co.kr/view/AEN20260622010200320?input=2106m",
+    "https://www.kyeonggi.com/article/20260622580529",
+    "http://www.hellodd.com/news/articleView.html?idxno=112198",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=271795",
+    "https://www.newscj.com/news/articleView.html?idxno=3411202",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4076265"
    ],
    "seen_titles": [
     "\"SK하이닉스대신담았는데\"…한달새40%넘게오른기업[종목+]",
@@ -3027,10 +3054,17 @@
     "코스닥승강제내달'윤곽'…프리미엄시장,반도체비중50%까지늘듯",
     "영덕원전건설,이제부터는속도다",
     "SK실트론,2.3조투자한웨이퍼신공장4년만에가동",
-    "106일전쟁은끝났지만…국내기름값·환율·물가‘후폭풍’"
+    "106일전쟁은끝났지만…국내기름값·환율·물가‘후폭풍’",
+    "서른살코스닥전체시총6.8%그쳐…‘반도체랠리’마이크론실적에...",
+    "Concentrationinchips'natural';effortstoimproveforeigners'mar",
+    "[인천시론]평등정책의유혹,균형발전의한계",
+    "암치료설계부터조선·국방·반도체까지···K-AI,산업현장'속속'",
+    "JobsShrinkatBigFourConglomeratesDespiteHigherRevenue",
+    "AI가만든새장벽…'포용적AI'글로벌정책화두로",
+    "SK텔레콤'내생애첫폰'출범…경북가정위탁아동디지털격차줄인..."
    ],
    "initialized": true,
-   "last_run": "2026-06-22T19:10:30.290359+09:00"
+   "last_run": "2026-06-22T19:15:29.250706+09:00"
   }
  },
  "press_names": {
@@ -3127,6 +3161,9 @@
   "sjbnews.com": "sjbnews.com",
   "marketnews.co.kr": "마켓뉴스",
   "topdaily.kr": "톱데일리",
-  "koreajoongangdaily.com": "koreajoongangdaily"
+  "koreajoongangdaily.com": "koreajoongangdaily",
+  "hellodd.com": "헬로디디",
+  "newscj.com": "천지일보",
+  "kyongbuk.co.kr": "경북일보"
  }
 }
