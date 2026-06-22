@@ -474,6 +474,14 @@
     [
      "2026-06-22T19:45:28.292848+09:00",
      "6월 예고 22일"
+    ],
+    [
+     "2026-06-22T19:50:30.396803+09:00",
+     "과거 실패 잡기용 보유세 집값 인상 돌아봐야 검토"
+    ],
+    [
+     "2026-06-22T19:50:30.396803+09:00",
+     "호르무즈 울산 열리나 산업계 숨통 뱃길"
     ]
    ],
    "seen_urls": [
@@ -1830,7 +1838,12 @@
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260623.22010006640",
     "https://biz.heraldcorp.com/article/10783540",
     "https://www.iusm.co.kr/news/articleView.html?idxno=1064413",
-    "https://news.tvchosun.com/site/data/html_dir/2026/06/22/2026062290290.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/06/22/2026062290290.html",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=04939686645484344",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005863666",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=268327",
+    "http://www.fnnews.com/news/202606221945288007",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8591987"
    ],
    "seen_titles": [
     "\"SK하이닉스대신담았는데\"…한달새40%넘게오른기업[종목+]",
@@ -3141,10 +3154,15 @@
     "‘삼전닉스’호황發인플레경고음…저소득층고통은커진다",
     "“구천피?1만2000피까지간다”자신하는이유…“세계에서제일저평...",
     "울산시,제조AI실증기반창업도시생태계조성본격화",
-    "6월22일'뉴스9'예고"
+    "6월22일'뉴스9'예고",
+    "'착하디착한주유소'2곳선정…하나카드캐시백더받는다",
+    "이찬진\"단일레버리지ETF,증권사만배불려…안전장치검토\"",
+    "\"하이닉스가삼전이기면강세장끝\"…'대장주'바뀐코스피경고등켜...",
+    "[사설]집값잡기용보유세인상검토,과거실패돌아봐야",
+    "호르무즈뱃길열리나…울산산업계‘숨통’"
    ],
    "initialized": true,
-   "last_run": "2026-06-22T19:45:28.292848+09:00"
+   "last_run": "2026-06-22T19:50:30.396803+09:00"
   }
  },
  "press_names": {
