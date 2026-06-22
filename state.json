@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-22T18:30:37.020447+09:00",
-     "김성진 분야 산업 이사장 한국전력거래소"
-    ],
-    [
-     "2026-06-22T18:30:37.020447+09:00",
-     "5천만원 하닉 달라는데 5억 삼전으로 어쩌죠 친언니가"
-    ],
-    [
      "2026-06-22T18:35:24.675970+09:00",
      "충청권에 한다 반도체 계약학과 늘려야"
     ],
@@ -482,11 +474,13 @@
     [
      "2026-06-23T00:15:32.034747+09:00",
      "데이터센터 변압기 ESS 산업들 냉각 하나가 부르는"
+    ],
+    [
+     "2026-06-23T00:30:44.144167+09:00",
+     "폐지 주유소 사후정산 공급가 SK에너지"
     ]
    ],
    "seen_urls": [
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEQzX19MZk5TUTJFNVN1cTRkQXlPaUljQVZTWG1FZWF3Z1hzNGx1WnlNWmx2di1JcG1Ga3FDWlozVzM4SDhDMlREVnd0RHpCS083VDg3X1kycFFKQ0tUcFNSVkxId3lfRmpwY0JIUE5uZG9TdnhFWGI3YjN2VlhITjg3LXRFV01NNVdKX2VnOA?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pNmhNaXVJZC1Cei1YaURDQkZCT25DMkl1WWVVMXRjU0JjdGVhWTFGQ2Z5R1JwOUFYLWU0OG81MXMyY0gzSHZPSms2anhnYlZnaE1BRko1YkZOc3lkTXVQMWJCX1VyX25NNDFIelVRSjlhUWtUdDdqetIBeEFVX3lxTE9pNmhNaXVJZC1Cei1YaURDQkZCT25DMkl1WWVVMXRjU0JjdGVhWTFGQ2Z5R1JwOUFYLWU0OG81MXMyY0gzSHZPSms2anhnYlZnaE1BRko1YkZOc3lkTXVQMWJCX1VyX25NNDFIelVRSjlhUWtUdDdqeg?oc=5",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tX3dwN2lyNUtkR2hkTEEzZHlZc1U0LVF6NmxjZzVqRFpoTzIzRFYxNDk5VFJVa0lUa3JhaTJlRnVGQXd3NENTUXdwX1dyeFZmcjlUTGRvTFVoOFlFemZvU2pJYUk?oc=5",
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTdFFod1BncTZrY3huMVc2dXRteFl3U1BBMExsMWdXdHNiRWliMU1oRndMUUR4bHdLQlBTeDBzUHJEWkFnTFhiWmZ5Z05UOFJ4?oc=5",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBseVAzQmNpNVdKT3kxWXpaclhmSExoeEZ2ODlvY0hLS0pQeVRNOEZUb1h3djFfOWFiQzBJSHptLWNmQjVmdWgtbkhyTHNJQmJmWG9TRDZGSWNETmpTUG5Gcw?oc=5",
@@ -1984,7 +1978,9 @@
     "http://www.yonhapnewstv.co.kr/news/MYH20260623001201jVM",
     "https://www.joongang.co.kr/article/25438919",
     "https://www.kwnews.co.kr/page/view/2026062250081900000",
-    "https://www.wolyo.co.kr/news/articleView.html?idxno=313923"
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=313923",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008622323&plink=ORI&cooper=NAVER",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1782120823&code=11151400&cp=nv"
    ],
    "seen_titles": [
     "\"SK하이닉스대신담았는데\"…한달새40%넘게오른기업[종목+]",
@@ -3470,10 +3466,12 @@
     "이대통령,이번주이재용삼성전자회장회동",
     "이대통령,이재용회장25일만난다…AI·균형발전논의할듯",
     "“강릉AI데이터센터변전소없어…아직확정적발표어려워”논란",
-    "[AI의전기요금②]데이터센터하나가부르는산업들…변압기·ESS·냉각..."
+    "[AI의전기요금②]데이터센터하나가부르는산업들…변압기·ESS·냉각...",
+    "\"드러누워서라도막았어야\"…'삼전닉스'레버리지직격",
+    "SK에너지,주유소공급가‘사후정산’폐지"
    ],
    "initialized": true,
-   "last_run": "2026-06-23T00:25:28.179347+09:00"
+   "last_run": "2026-06-23T00:30:44.144167+09:00"
   }
  },
  "press_names": {
