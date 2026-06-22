@@ -254,6 +254,34 @@
     [
      "2026-06-22T18:20:31.674679+09:00",
      "실리콘밸리 차세대 효자 러브콜 받는 우뚝 글로벌 시장 K딥테크 수출"
+    ],
+    [
+     "2026-06-22T18:25:27.161547+09:00",
+     "투자 직접 매달리다 우려한 피폐 종일 금감원장이 하루"
+    ],
+    [
+     "2026-06-22T18:25:27.161547+09:00",
+     "Workers Leave Amid Petrochemical Restructuring"
+    ],
+    [
+     "2026-06-22T18:25:27.161547+09:00",
+     "투자 코스닥은 반도체 찔끔 대형주에 쏠리는 코스피"
+    ],
+    [
+     "2026-06-22T18:25:27.161547+09:00",
+     "천정부지에도 장기 집값 침체로 반도체 광교 특수로 상권은 동탄"
+    ],
+    [
+     "2026-06-22T18:25:27.161547+09:00",
+     "1년반 슈퍼 여전히 반도체 전망은 장밋빛 동안 반도체지수"
+    ],
+    [
+     "2026-06-22T18:25:27.161547+09:00",
+     "대장주 승자 랠리 26년만의 SK하이닉스의 무한질주 교체"
+    ],
+    [
+     "2026-06-22T18:25:27.161547+09:00",
+     "고용지형 뒤집혔다 삼성 뛰고 쿠팡 줄고"
     ]
    ],
    "seen_urls": [
@@ -1515,7 +1543,16 @@
     "https://www.ajunews.com/view/20260622153740758",
     "https://www.daejonilbo.com/news/articleView.html?idxno=2283213",
     "https://www.sedaily.com/article/20058739",
-    "http://www.fnnews.com/news/202606221814069911"
+    "http://www.fnnews.com/news/202606221814069911",
+    "https://www.kizmom.com/news/articleView.html?idxno=111091",
+    "https://www.hitnews.co.kr/news/articleView.html?idxno=77038",
+    "https://www.wikitree.co.kr/articles/1142665",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=271789",
+    "http://www.fnnews.com/news/202606221819107900",
+    "https://www.joongboo.com/news/articleView.html?idxno=363729438",
+    "http://www.fnnews.com/news/202606221819149554",
+    "https://www.ajunews.com/view/20260622143042546",
+    "https://www.goodkyung.com/news/articleView.html?idxno=288415"
    ],
    "seen_titles": [
     "\"SK하이닉스대신담았는데\"…한달새40%넘게오른기업[종목+]",
@@ -2731,10 +2768,19 @@
     "삼전닉스'HBM4E'조기등판···토종·글로벌장비사,후공정새판짜...",
     "유통공룡들충청집결…새격전지부상",
     "데이터접근까다로운B2G까지…글로벌AI플랫폼격전지된한국",
-    "실리콘밸리러브콜받는K딥테크…차세대수출효자우뚝[글로벌시장..."
+    "실리콘밸리러브콜받는K딥테크…차세대수출효자우뚝[글로벌시장...",
+    "\"드러누워서라도막았어야\"…금감원장,레버리지ETF도입공개후회",
+    "[HIT알공]SK바이오팜-인실리코,CNS공동연구계약체결",
+    "\"하루종일매달리다피폐\"…금감원장이직접우려한'이투자'",
+    "1,731PetrochemicalWorkersLeaveAmidRestructuring",
+    "반도체대형주에쏠리는투자…코스피115%뛸때코스닥은4%'찔끔'[...",
+    "반도체특수로동탄·광교집값천정부지에도…상권은장기침체로'공...",
+    "1년반동안561%뛴반도체지수…전망은여전히'장밋빛'[반도체슈퍼...",
+    "26년만의대장주교체…AI랠리승자SK하이닉스의무한질주",
+    "삼성줄고쿠팡뛰고…고용지형뒤집혔다"
    ],
    "initialized": true,
-   "last_run": "2026-06-22T18:20:31.674679+09:00"
+   "last_run": "2026-06-22T18:25:27.161547+09:00"
   }
  },
  "press_names": {
@@ -2825,6 +2871,7 @@
   "ezyeconomy.com": "이지경제",
   "namdonews.com": "남도일보",
   "sisacast.kr": "시사캐스트",
-  "daejonilbo.com": "대전일보"
+  "daejonilbo.com": "대전일보",
+  "joongboo.com": "중부일보 - 경기·인천의 든든한 친구"
  }
 }
