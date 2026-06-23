@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-23T06:15:28.845374+09:00",
-     "미래세대에 반도체 이재용 회동 세수 대통령"
-    ],
-    [
-     "2026-06-23T06:15:28.845374+09:00",
-     "반도체 회사에 쏠림 아냐 싶은 이직하고 투자해야 문제만은"
-    ],
-    [
-     "2026-06-23T06:15:28.845374+09:00",
-     "6천억 규모 고무줄 기관 7억 기업 개인정보유출 vs 과징금"
-    ],
-    [
-     "2026-06-23T06:15:28.845374+09:00",
-     "아파트 7899세대 GS건설 공급 전국 상반기 포스코이앤씨"
-    ],
-    [
-     "2026-06-23T06:15:28.845374+09:00",
-     "최태원의 캐시카우 승부수 곽노정 정재 투트랙"
-    ],
-    [
      "2026-06-23T06:25:21.564848+09:00",
      "갈림길 패권의"
     ],
@@ -1442,15 +1422,17 @@
     [
      "2026-06-23T12:15:28.486374+09:00",
      "집값도 소비심리 오를 달째 금리도"
+    ],
+    [
+     "2026-06-23T12:20:28.016871+09:00",
+     "규모 신약 SK바이오팜 CNS 9조 인실리코와 확장 공동개발"
+    ],
+    [
+     "2026-06-23T12:20:28.016871+09:00",
+     "신한투자증권 시가총액 보통주 삼성전자 추월의 의미 SK하이닉스의"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=263475",
-    "http://www.finomy.com/news/articleView.html?idxno=256089",
-    "http://coinreaders.com/243663",
-    "https://www.kmib.co.kr/article/view.asp?arcid=0030003566&code=61141111&cp=nv",
-    "https://www.bloter.net/news/articleView.html?idxno=666161",
-    "http://woman.chosun.com/news/articleView.html?idxno=126159",
     "https://realty.chosun.com/site/data/html_dir/2026/06/22/2026062202065.html",
     "https://biz.heraldcorp.com/article/10784142",
     "https://biz.chosun.com/stock/stock_general/2026/06/22/LHJYIF4C3BHRLBFMEZZYOGJQF4/",
@@ -2944,15 +2926,15 @@
     "https://www.thelec.kr/news/articleView.html?idxno=58465",
     "http://www.intn.co.kr/news/articleView.html?idxno=2051461",
     "https://www.betanews.net/article/view/beta202606230025",
-    "https://imnews.imbc.com/replay/2026/nw1200/article/6832192_36967.html"
+    "https://imnews.imbc.com/replay/2026/nw1200/article/6832192_36967.html",
+    "http://www.samdailbo.com/news/articleView.html?idxno=266445",
+    "http://www.financialreview.co.kr/news/articleView.html?idxno=43064",
+    "https://www.mt.co.kr/economy/2026/06/23/2026062311083928123",
+    "https://www.mt.co.kr/industry/2026/06/23/2026062311491813662",
+    "https://www.startuptoday.co.kr/news/articleView.html?idxno=804345",
+    "https://www.huffingtonpost.kr/article/258159"
    ],
    "seen_titles": [
-    "SK하이닉스,삼성전자추월…26년만에'왕좌'교체",
-    "보통주만봤더니역전?...삼성·SK'진짜시총'다시셈하니",
-    "[속보]SK하이닉스,삼성전자제쳤다…종가기준시총1위등극",
-    "이찬진금감원장\"증권사만배불리는구조…'삼전닉스'ETF과열우려\"",
-    "'증권사만배불려'…이찬진금감원장,단일종목레버리지ETF불편한심...",
-    "SK에코플랜트,노량진드파인분양···환승없이강남·여의도직결",
     "SK하이닉스,삼성전자밀어내고코스피시총1위등극...135원동전주굴...",
     "반도체가부른‘역대급보너스’…‘초과세수’는어디로가나",
     "롯데바이오로직스,2년만의송도1공장사용승인…적자투자회수시험대",
@@ -4446,10 +4428,16 @@
     "삼성전자,온디바이스AI용모바일낸드개발",
     "최태원회장,AI시대이끌인재생태계키운다",
     "미래에셋운용'TIGER200ETF',수익률'1위'...순자산12조돌파",
-    "집값도금리도\"오를것\"‥소비심리두달째↑"
+    "집값도금리도\"오를것\"‥소비심리두달째↑",
+    "제주SK,바이에른뮌헨과맞대결",
+    "평택아파트시장온기…미분양줄고집값반등,고덕신규분양'주목...",
+    "반도체가기업실적견인…1분기영업이익률13.2%'역대최고'",
+    "삼성·SK,'허허벌판'호남에반도체단지왜?\"상당한시간소요\"",
+    "[이슈]SK바이오팜,인실리코와AI신약공동개발…3.9조규모CNS확장",
+    "SK하이닉스의삼성전자보통주시가총액추월의의미:신한투자증권\"..."
    ],
    "initialized": true,
-   "last_run": "2026-06-23T12:15:28.486374+09:00"
+   "last_run": "2026-06-23T12:20:28.016871+09:00"
   }
  },
  "press_names": {
