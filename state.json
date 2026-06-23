@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-23T12:55:23.197830+09:00",
-     "이재용 이어 독대에 쏠린 최태원"
-    ],
-    [
      "2026-06-23T13:00:39.817917+09:00",
      "정치의 반도체는 미래다 국가의 이상일 아니라 대상이"
     ],
@@ -1534,15 +1530,21 @@
     [
      "2026-06-23T18:50:29.461545+09:00",
      "칼날 죄인가 기업하는 규제 세진"
+    ],
+    [
+     "2026-06-23T18:55:23.304437+09:00",
+     "하루에 610조 발표했길 블랙홀 스페이스X 증발했다 자금 무슨"
+    ],
+    [
+     "2026-06-23T18:55:23.304437+09:00",
+     "셈법 성과급 서다 바꾸나 시스템 갈림길에 삼성전기 EVA"
+    ],
+    [
+     "2026-06-23T18:55:23.304437+09:00",
+     "하이엔드 신혼희망타운 고덕 분당 대단지 노량진"
     ]
    ],
    "seen_urls": [
-    "https://www.discoverynews.kr/news/articleView.html?idxno=1094111",
-    "https://biz.newdaily.co.kr/site/data/html/2026/06/23/2026062300060.html",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=271813",
-    "https://www.asiatime.co.kr/article/20260623500097",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606230329&t=NN",
-    "http://www.issuenbiz.com/news/articleView.html?idxno=77426",
     "https://www.mhns.co.kr/news/articleView.html?idxno=751102",
     "https://www.kmaeil.com/news/articleView.html?idxno=643161",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1713538",
@@ -3036,15 +3038,15 @@
     "https://www.hani.co.kr/arti/opinion/editorial/1264979.html",
     "http://www.kwangju.co.kr/article.php?aid=1782207900800458005",
     "http://www.00news.co.kr/news/articleView.html?idxno=104647",
-    "https://www.dt.co.kr/article/12069130"
+    "https://www.dt.co.kr/article/12069130",
+    "https://www.econovill.com/news/articleView.html?idxno=743214",
+    "https://www.newscj.com/news/articleView.html?idxno=3411531",
+    "https://www.thelec.kr/news/articleView.html?idxno=58513",
+    "https://www.mk.co.kr/article/12081216",
+    "https://www.econovill.com/news/articleView.html?idxno=743213",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=360954"
    ],
    "seen_titles": [
-    "AI로봇도구독시대…SK인텔릭스의승부수",
-    "더본코리아역전우동,SKTTday연계여름철냉모밀할인프로모션실시",
-    "코스닥ETF수익률극과극…반도체'3배급등',미디어·바이오는'반...",
-    "[개장시황]美기술주'수익화경고음'에코스피9,000선붕괴…환율,...",
-    "삼성전자,HBM승기잡나…HBM4매출세계최초10억달러돌파",
-    "\"SK하닉날아오르면더간다\"…시총1위업고'110만→270만원'파격전...",
     "코스피,외인매도세에장중8900선까지하락",
     "변우석,광고촬영장의두얼굴공개",
     "산적한안성현안뒤로하고광주로향하는윤종군의원,누구를위한정...",
@@ -4538,10 +4540,16 @@
     "[사설]호남반도체클러스터,지역균형발전이정표되도록",
     "반도체기대감반영…들썩이는광주·전남자산시장",
     "['클릭'증시]애써키운코스피무너뜨리는한국정치",
-    "[박정일칼럼]더세진규제칼날,기업하는게죄인가"
+    "[박정일칼럼]더세진규제칼날,기업하는게죄인가",
+    "최태원\"큰나무모여숲이루길\"…차세대AI지식생태계키운다",
+    "최태원\"AI시대인재기준달라져…협력할때더큰변화만들어\"",
+    "삼성·SK,용인줄여호남전공정팹투자설'일파만파'",
+    "단하루에610조증발했다…‘자금블랙홀’스페이스X,무슨발표했길...",
+    "'EVA시스템'바꾸나…삼성전기,성과급셈법갈림길에서다",
+    "[이번주분양시장]분당신혼희망타운·노량진하이엔드·고덕대단지..."
    ],
    "initialized": true,
-   "last_run": "2026-06-23T18:50:29.461545+09:00"
+   "last_run": "2026-06-23T18:55:23.304437+09:00"
   }
  },
  "press_names": {
