@@ -1434,13 +1434,13 @@
     [
      "2026-06-23T12:55:23.197830+09:00",
      "이재용 이어 독대에 쏠린 최태원"
+    ],
+    [
+     "2026-06-23T13:00:39.817917+09:00",
+     "정치의 반도체는 미래다 국가의 이상일 아니라 대상이"
     ]
    ],
    "seen_urls": [
-    "http://www.dynews.co.kr/news/articleView.html?idxno=854988",
-    "https://www.donga.com/news/Economy/article/all/20260622/134158164/1",
-    "https://www.sidae.com/article/2026062215290592539",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677017",
     "https://view.asiae.co.kr/article/2026062212041434845",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3067286",
     "https://www.ikbc.co.kr/article/view/kbc202606220048",
@@ -2936,13 +2936,13 @@
     "http://www.globalepic.co.kr/view.php?ud=20260623124818555848439a4874_29",
     "http://www.metroseoul.co.kr/article/20260623500175",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=85934",
-    "http://www.00news.co.kr/news/articleView.html?idxno=104632"
+    "http://www.00news.co.kr/news/articleView.html?idxno=104632",
+    "https://www.sisajournal.com/news/articleView.html?idxno=377396",
+    "http://www.newslock.co.kr/news/articleView.html?idxno=132000",
+    "https://www.dt.co.kr/article/12069019",
+    "http://www.newstown.co.kr/news/articleView.html?idxno=706996"
    ],
    "seen_titles": [
-    "SK오션플랜트,국제표준정보보호'ISO27001'인증획득",
-    "[Invest]20년전워크아웃졸업한SK하이닉스,어떻게삼성전자추월했나",
-    "코스피1위등극코앞SK하이닉스,오늘美나스닥심사통과유력'겹경...",
-    "SK하이닉스,삼성전자제치고코스피시총1위등극",
     "SK에너지,정유업계첫공급가사전고지…기름값예측가능성높인다",
     "[오늘증시]SK하이닉스,삼성전자보통주제치고코스피시총1위",
     "과기정통부,적극행정우수사례7건선정",
@@ -4438,10 +4438,14 @@
     "\"혼자가아닌함께\"-최태원회장의새로운인재육성프레임",
     "최태원회장,AI시대이끌인재생태계구축지원…\"AI시대인재기준...",
     "대한상의·기업뭉쳤다...'쉬었음'청년위한역대급'일자리사다리...",
-    "최태원이어이재용...李독대에쏠린눈"
+    "최태원이어이재용...李독대에쏠린눈",
+    "30억이상고액자산가1년새3배...'삼전닉스·현대차'주로담았다",
+    "미래에셋증권,30억이상고액자산가9500명돌파…1년새3배증가",
+    "용인반도체흔들기아직도?…이상일작심비판“용인시민결코용납안...",
+    "[김병철칼럼]반도체는정치의대상이아니라국가의미래다…이상일..."
    ],
    "initialized": true,
-   "last_run": "2026-06-23T12:55:23.197830+09:00"
+   "last_run": "2026-06-23T13:00:39.817917+09:00"
   }
  },
  "press_names": {
@@ -4636,6 +4640,7 @@
   "niceeconomy.co.kr": "나이스경제",
   "kbench.com": "kbench.com",
   "choicenews.co.kr": "초이스경제",
-  "econotimes.com": "EconoTimes"
+  "econotimes.com": "EconoTimes",
+  "newstown.co.kr": "뉴스타운"
  }
 }
