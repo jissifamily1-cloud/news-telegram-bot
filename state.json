@@ -1370,14 +1370,17 @@
     [
      "2026-06-23T13:05:24.208984+09:00",
      "진출 반도체 협의 대통령 이재용 회장과 이재명 지방투자"
+    ],
+    [
+     "2026-06-23T13:10:27.131775+09:00",
+     "문화축제 여성문화예술인 세계 하나개해수욕장서 인천 한자리에 27일"
+    ],
+    [
+     "2026-06-23T13:10:27.131775+09:00",
+     "썸에이지 유상증자 직접 125억 대표 확정 개인 최대주주 참여로"
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20260622000237",
-    "https://www.yna.co.kr/view/AKR20260622089900017?input=1195m",
-    "https://www.econovill.com/news/articleView.html?idxno=743068",
-    "https://www.newsis.com/view/NISX20260622_0003678037",
-    "http://www.sportsq.co.kr/news/articleView.html?idxno=495565",
     "https://www.sportschosun.com/football/2026-06-22/202606220100153440010074",
     "http://www.inews24.com/view/1978678",
     "https://www.hankyung.com/article/2026062212867",
@@ -2872,14 +2875,14 @@
     "https://www.newscj.com/news/articleView.html?idxno=3411337",
     "https://www.ibabynews.com/news/articleView.html?idxno=152277",
     "http://www.ddanzi.com/886736812",
-    "http://www.globalepic.co.kr/view.php?ud=20260623125703988548439a4874_29"
+    "http://www.globalepic.co.kr/view.php?ud=20260623125703988548439a4874_29",
+    "https://www.naeil.com/news/read/592855",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=03913046645484672",
+    "https://view.asiae.co.kr/article/2026062313072551690",
+    "http://www.incheonnews.com/news/articleView.html?idxno=437566",
+    "https://www.betanews.net/article/view/beta202606230027"
    ],
    "seen_titles": [
-    "금감원장\"스페이스X0주배정이해안돼…미래에셋검사결과공유\"",
-    "[거래소기관]SK하이닉스삼성전기SK스퀘어LG전자'폭풍매수'눈길.....",
-    "(LEAD)SKhynixbeatsSamsungElectronicsinmarketcaptobecomemostv",
-    "[人사이트]김태윤SKT파운데이션모델담당“국민·산업혁신이어AI...",
-    "AI데이터장벽낮추고나노팹통합…과기부우수사례",
     "분쟁의잿더미위에서엘디카본이다시불을켰다",
     "\"AI데이터저작권대못뽑았다\"…과기정통부,우수적극행정선정",
     "서울엔맨시티·ATM,제주엔뮌헨...빅클럽방한물결",
@@ -4374,10 +4377,15 @@
     "3高에자영업자대출·연체증가…매출·이익은동반감소",
     "[나눔트렌드]이마트왕십리점,성동구지역주민을위한여름김장240박...",
     "[뉴공아카이브]박시동경제평론가·12시에만나요진행자,이광수광수...",
-    "이재명대통령,이재용회장과\"반도체지방투자\"진출협의"
+    "이재명대통령,이재용회장과\"반도체지방투자\"진출협의",
+    "금감원스페이스X검사,자산운용사확대",
+    "TIGER200ETF,연초이후수익률145.5%…동종상품1위",
+    "코스피·코스닥,급락에장중매도사이드카후상승전환",
+    "세계여성문화예술인한자리에…27일인천하나개해수욕장서문화축제",
+    "썸에이지125억유상증자확정,개인최대주주및대표직접참여로책..."
    ],
    "initialized": true,
-   "last_run": "2026-06-23T13:05:24.208984+09:00"
+   "last_run": "2026-06-23T13:10:27.131775+09:00"
   }
  },
  "press_names": {
@@ -4576,6 +4584,8 @@
   "newstown.co.kr": "뉴스타운",
   "ibabynews.com": "베이비뉴스",
   "ddanzi.com": "ddanzi.com",
-  "globalepic.co.kr": "글로벌에픽"
+  "globalepic.co.kr": "글로벌에픽",
+  "incheonnews.com": "인천뉴스",
+  "betanews.net": "베타뉴스"
  }
 }
