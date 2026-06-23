@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-23T18:50:29.461545+09:00",
-     "들썩이는 전남 광주 기대감 자산시장 반영 반도체"
-    ],
-    [
-     "2026-06-23T18:50:29.461545+09:00",
-     "키운 정치 한국 코스피 애써 무너뜨리는"
-    ],
-    [
-     "2026-06-23T18:50:29.461545+09:00",
-     "칼날 죄인가 기업하는 규제 세진"
-    ],
-    [
      "2026-06-23T18:55:23.304437+09:00",
      "하루에 610조 발표했길 블랙홀 스페이스X 증발했다 자금 무슨"
     ],
@@ -390,11 +378,13 @@
     [
      "2026-06-24T00:45:39.074615+09:00",
      "반도체 셔세권"
+    ],
+    [
+     "2026-06-24T00:50:32.650572+09:00",
+     "협력 아닌 선택 머스트 한일"
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/stock/2026/06/23/2026062311160793187",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1713545",
     "https://www.dt.co.kr/article/12069003",
     "https://www.kizmom.com/news/articleView.html?idxno=111106",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5033299",
@@ -1892,11 +1882,11 @@
     "https://www.chosun.com/economy/industry-company/2026/06/24/7NJVHTD5QFEKHNUPLATIKJJYFA/",
     "https://www.kmib.co.kr/article/view.asp?arcid=1782204936&code=11151400&cp=nv",
     "https://www.tokenpost.kr/news/market/372172",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1782186004&code=11171211&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=1782186004&code=11171211&cp=nv",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4421485",
+    "https://www.chosun.com/international/international_general/2026/06/24/5UZXOAKDAVCGPGNAXY5JL4SK54/"
    ],
    "seen_titles": [
-    "브이엠,216억규모반도체제조장비공급계약",
-    "삼전닉스5%대동반하락…\"미테크주약세·차익실현\"",
     "[AI3대강국,인프라는준비됐나④]엔비디아의존의덫",
     "“AI발메모리초호황,내년상반기까지…시장규모2100조원”",
     "\"SK하이닉스로12배벌었다\"…미래에셋부자들투자종목보니",
@@ -3394,10 +3384,12 @@
     "한국고등교육재단,신진학자상신설",
     "HBM4매출10억달러돌파…이재용,천안패키징라인찾았다",
     "코스피,단하루만에10%폭락…반도체주조정에시장뒤흔들려",
-    "[한마당]반도체셔세권"
+    "[한마당]반도체셔세권",
+    "뉴욕증시,기술주매도세에하락출발",
+    "“한일협력,선택아닌‘머스트’다”"
    ],
    "initialized": true,
-   "last_run": "2026-06-24T00:45:39.074615+09:00"
+   "last_run": "2026-06-24T00:50:32.650572+09:00"
   }
  },
  "press_names": {
