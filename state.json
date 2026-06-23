@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-23T08:00:38.940995+09:00",
-     "랠리 대장주 승자 SK하이닉스의 26년만의 교체"
-    ],
-    [
-     "2026-06-23T08:00:38.940995+09:00",
-     "집회일정 경기남부경찰청 6월24일"
-    ],
-    [
      "2026-06-23T08:05:21.761068+09:00",
      "반도체 예고 호실적 다올 구간 바텀업 돌아온 랠리"
     ],
@@ -1394,21 +1386,29 @@
     [
      "2026-06-23T13:55:24.248792+09:00",
      "훈풍 보스턴다이내믹스 IPO 로봇주 채비 본격화"
+    ],
+    [
+     "2026-06-23T14:00:40.846505+09:00",
+     "introduce to energy pricing system advance fuel"
+    ],
+    [
+     "2026-06-23T14:00:40.846505+09:00",
+     "급락 에너지주 탑선 살아남은 종목은 우양에이치씨 금양그린파워"
+    ],
+    [
+     "2026-06-23T14:00:40.846505+09:00",
+     "수익률 무섭게 빚투 신용대출 넘길까 금리 치솟는"
+    ],
+    [
+     "2026-06-23T14:00:40.846505+09:00",
+     "자꾸 실패해라 삼성 해라"
+    ],
+    [
+     "2026-06-23T14:00:40.846505+09:00",
+     "공급 마이크론 메모리 앤트로픽에 전략적 스토리지 투자도"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260622_0003678933",
-    "https://www.kbmaeil.com/article/20260622500209",
-    "http://www.fnnews.com/news/202606221810537832",
-    "https://www.g-enews.com/view.php?ud=20260622163204458624debea800_1",
-    "https://www.sedaily.com/article/20058737",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20260622010007567",
-    "http://www.sisacast.kr/news/articleView.html?idxno=96977",
-    "https://www.seoul.co.kr/news/economy/finance/2026/06/22/20260622500241?wlog_tag3=naver",
-    "http://www.smarttimes.co.kr/news/articleView.html?idxno=46595",
-    "https://biz.sbs.co.kr/article_hub/20000318070?division=NAVER",
-    "https://www.ajunews.com/view/20260622160321842",
-    "https://www.ajunews.com/view/20260622153740758",
     "https://www.daejonilbo.com/news/articleView.html?idxno=2283213",
     "https://www.sedaily.com/article/20058739",
     "http://www.fnnews.com/news/202606221814069911",
@@ -2896,21 +2896,21 @@
     "http://www.segyebiz.com/newsView/20260623509886?OutUrl=naver",
     "http://www.econonews.co.kr/news/articleView.html?idxno=440079",
     "https://www.joongangenews.com/news/articleView.html?idxno=527633",
-    "https://biz.sbs.co.kr/article_hub/20000318182?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000318182?division=NAVER",
+    "http://www.sisacast.kr/news/articleView.html?idxno=97003",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1713569",
+    "https://www.viva100.com/article/20260623500522",
+    "http://www.iminju.net/news/articleView.html?idxno=165679",
+    "https://www.veritas-a.com/news/articleView.html?idxno=616062",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=360925",
+    "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202606231106450457",
+    "https://www.mk.co.kr/article/12080790",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462384",
+    "https://www.mediapen.com/news/view/1105972",
+    "https://www.globale.co.kr/news/articleView.html?idxno=38956",
+    "https://www.seoulfn.com/news/articleView.html?idxno=631719"
    ],
    "seen_titles": [
-    "[데스크칼럼]삼성전자發'시총1위논쟁'씁쓸한이유",
-    "이찬진\"스페이스X배정무산이해안돼\"운용사현장검사착수…과장광...",
-    "SK하이닉스시총1위등극...삼성전자25년7개월만에왕좌내줘",
-    "'김민재소속팀'뮌헨,8월4일제주서제주SK와친선경기",
-    "반도체학과쏠림현상의대열풍데자뷔인가",
-    "설계·생산·후공정까지키워온대만...韓도반도체중심AI생태계구축...",
-    "김정관산업장관,‘착하디착한주유소’찾아유가안정동참격려",
-    "“미토스위기가기회”…커지는‘양자보안’시장",
-    "[기자의눈]전략자산된AI…'골든타임'이줄어든다",
-    "신한투자증권,설문으로본투자자심리…\"증시더오를것\"",
-    "AI메모리로기운증시…SK하이닉스‘대장주’오른이유",
-    "코스피,'9100선'첫돌파…시총1위SK하이닉스등극",
     "반도체의힘…코스피사상첫9100선안착",
     "SK하이닉스,전방위성장전략가동...나스닥입성·생산확대가시화",
     "삼전닉스'HBM4E'조기등판···토종·글로벌장비사,후공정새판짜...",
@@ -4398,10 +4398,22 @@
     "삼성전자,HBM매출10억달러돌파…모바일스토리지UFS5.0개발도",
     "SK하이닉스·삼성전자,장중6~8%대낙폭",
     "\"반도체훈풍에\"...1분기기업성장성·수익성큰폭개선",
-    "[시장따라잡기]보스턴다이내믹스IPO채비본격화…로봇주훈풍?"
+    "[시장따라잡기]보스턴다이내믹스IPO채비본격화…로봇주훈풍?",
+    "최태원SK회장\"AI시대연구자역할고민해야\"…KFAS장학생·신진학자...",
+    "\"레버리지ETF실패작\"인정…진퇴양난빠진금융당국",
+    "[사설]금감원장이후회한단일종목레버리지ETF,위험요소제거해야",
+    "[금융계동향]한국투자증권·신한투자증권·미래에셋증권",
+    "고려대–대검찰청'금융/증권전문인력양성계약학과신설협약'체결...",
+    "\"어제는올랐는데\"...반도체매도세에코스피·코스닥매도사이드카",
+    "SK에너지,업계첫주유소공급가사전고지...경유50원할인",
+    "SKenergytointroduceadvancefuelpricingsystem",
+    "에너지주급락속살아남은종목은?...우양에이치씨금양그린파워탑선...",
+    "\"빚투수익률6%넘길까\"무섭게치솟는신용대출금리",
+    "[글로벌칼럼]삼성,실패해라.자꾸해라",
+    "마이크론,앤트로픽에메모리·스토리지공급···전략적투자도"
    ],
    "initialized": true,
-   "last_run": "2026-06-23T13:55:24.248792+09:00"
+   "last_run": "2026-06-23T14:00:40.846505+09:00"
   }
  },
  "press_names": {
@@ -4606,6 +4618,7 @@
   "gukjenews.com": "국제뉴스",
   "ilyoseoul.co.kr": "일요서울i",
   "tournews21.com": "투어코리아",
-  "newswhoplus.com": "뉴스후플러스"
+  "newswhoplus.com": "뉴스후플러스",
+  "globale.co.kr": "글로벌E"
  }
 }
