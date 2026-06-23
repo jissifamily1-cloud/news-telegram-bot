@@ -374,11 +374,13 @@
     [
      "2026-06-24T00:55:23.950409+09:00",
      "장부 아직 565곳 상장사 가치에도 저평가 미치는"
+    ],
+    [
+     "2026-06-24T01:00:57.146368+09:00",
+     "코스피 최악의"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10785063",
-    "https://www.newsway.co.kr/news/view?ud=2026062311242219275",
     "https://www.slist.kr/news/articleView.html?idxno=747095",
     "https://www.yna.co.kr/view/AKR20260623081000008?input=1195m",
     "http://www.fnnews.com/news/202606231124254364",
@@ -1876,11 +1878,11 @@
     "https://www.chosun.com/international/international_general/2026/06/24/5UZXOAKDAVCGPGNAXY5JL4SK54/",
     "https://www.chosun.com/economy/money/2026/06/24/JU3DDBV6VJBW3C2TESIQOXDACA/",
     "https://www.chosun.com/economy/money/2026/06/24/Q6A6F6OUWBEDNEG7RUYOQARCOU/",
-    "https://www.chosun.com/economy/money/2026/06/24/CSJNASO6VJB3LGKU2L6IXULCA4/"
+    "https://www.chosun.com/economy/money/2026/06/24/CSJNASO6VJB3LGKU2L6IXULCA4/",
+    "https://www.chosun.com/economy/industry-company/2026/06/24/UEFC75KO6RAORC3FL45ODMRCYE/",
+    "https://www.chosun.com/economy/money/2026/06/24/2GR4D4UYCZA75BDCAOSW56HVRM/"
    ],
    "seen_titles": [
-    "[바이오브리핑]동아에스티,SK바이오팜,이니바이오",
-    "삼성전자‘온디바이스AI’UFS5.0최초개발",
     "코스피,장중8700선으로급전직하…삼전·닉스5%대하락[장중시황]",
     "SK하이닉스·삼성전자,장중5%대급락…외국인·기관순매도",
     "코스피,4%대급락8,700선…삼전·닉스도5%대하락",
@@ -3378,10 +3380,12 @@
     "“한일협력,선택아닌‘머스트’다”",
     "삼전닉스2~3배오를때,코스피종목70%는떨어져",
     "출렁이는코스피…“파도거꾸로타다가하루25%날려”발동동",
-    "상장사565곳,아직장부가치에도못미치는저평가"
+    "상장사565곳,아직장부가치에도못미치는저평가",
+    "삼성·SK,정부와‘호남반도체공장’조율",
+    "코스피‘최악의날’"
    ],
    "initialized": true,
-   "last_run": "2026-06-24T00:55:23.950409+09:00"
+   "last_run": "2026-06-24T01:00:57.146368+09:00"
   }
  },
  "press_names": {
