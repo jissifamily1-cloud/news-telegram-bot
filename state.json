@@ -1286,15 +1286,17 @@
     [
      "2026-06-23T21:00:45.033669+09:00",
      "금리 프리뷰 선물 공포에 기술주 쇼크 뉴욕증시 나스닥 거품"
+    ],
+    [
+     "2026-06-23T21:05:23.019876+09:00",
+     "몰아주기에 호남 데이터센터 수성알파시티 손뗐다"
+    ],
+    [
+     "2026-06-23T21:05:23.019876+09:00",
+     "Samsung expansion hynix massive investment southwest in of weigh chip"
     ]
    ],
    "seen_urls": [
-    "https://www.mhns.co.kr/news/articleView.html?idxno=751109",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1165133",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=305379",
-    "http://www.metroseoul.co.kr/article/20260623500087",
-    "http://www.seouleconews.com/news/articleView.html?idxno=91967",
-    "https://www.delighti.co.kr/news/articleView.html?idxno=118044",
     "https://www.mt.co.kr/thebio/2026/06/23/2026062310140955464",
     "https://www.newsway.co.kr/news/view?ud=2026062309553652649",
     "https://www.fetv.co.kr/news/articleView.html?idxno=304892",
@@ -2788,15 +2790,15 @@
     "https://www.yeongnam.com/web/view.php?key=20260623020131799",
     "https://www.yna.co.kr/view/AKR20260623169400003?input=1195m",
     "https://www.seoul.co.kr/news/economy/securities/2026/06/23/20260623500231?wlog_tag3=naver",
-    "https://www.newspim.com/news/view/20260623000998"
+    "https://www.newspim.com/news/view/20260623000998",
+    "https://www.hankyung.com/article/2026062338317",
+    "https://www.thepublic.kr/news/articleView.html?idxno=308807",
+    "https://www.newscj.com/news/articleView.html?idxno=3411565",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606230443&t=NN",
+    "https://www.yeongnam.com/web/view.php?key=20260623020171779",
+    "https://www.koreajoongangdaily.com/business/samsung-sk-hynix-weigh-massive-expansion-of-chip-investment-in-southwest-region/12737486"
    ],
    "seen_titles": [
-    "[기업들]글로벌영토넓히고신기술·인재양성집중…다각도시장공...",
-    "대형특수선조기인도에소재매출폭발까지…체질개선증명한SK오션...",
-    "[특징주]\"삼전닉스호남오나\"포럼앞두고들썩…장성부지부각보해...",
-    "국민연금,코스피급등에국내주식매도압력커졌다",
-    "코스피,2%대하락...8800선까지밀려",
-    "최태원,AI시대인재상제시…\"협력과연결이더큰변화만든다\"",
     "코스피9000시대인데…국내상장사주주친화점수는낙제수준",
     "'바이오코리아'방불케한바이오USA…행사장물들인K바이오",
     "\"4개월만에10억달러\"…삼성HBM4,SK하이닉스아성흔들까",
@@ -4290,10 +4292,16 @@
     "반도체팹마저호남몰아주나…민선9기출범전추경호‘대표공약’...",
     "삼성·SK,호남·충청반도체클러스터투자규모수백조원거론",
     "“하이닉스지금이다”11조쓸어담았는데…더큰고비세번이나온다...",
-    "뉴욕증시프리뷰,AI거품·금리공포에기술주쇼크…나스닥선물2%급..."
+    "뉴욕증시프리뷰,AI거품·금리공포에기술주쇼크…나스닥선물2%급...",
+    "삼성·SK,호남·충청반도체투자검토…수백조원규모거론",
+    "미래에셋'TIGER200ETF',코스피200추종ETF중수익률1위",
+    "삼전·닉스12%대동반폭락…시총경쟁하루만에'급랭'",
+    "한국만'10%'역대급폭락…개미비명에\"통과의례\"분석까닭",
+    "[단독]SK,수성알파시티‘AI데이터센터’손뗐다…호남몰아주기에...",
+    "Samsung,SKhynixweighmassiveexpansionofchipinvestmentinsouthw"
    ],
    "initialized": true,
-   "last_run": "2026-06-23T21:00:45.033669+09:00"
+   "last_run": "2026-06-23T21:05:23.019876+09:00"
   }
  },
  "press_names": {
@@ -4541,6 +4549,7 @@
   "hitnews.co.kr": "히트뉴스",
   "nytimes.com": "nytimes.com",
   "fourfourtwo.co.kr": "포포투",
-  "obsnews.co.kr": "OBS경인TV"
+  "obsnews.co.kr": "OBS경인TV",
+  "yeongnam.com": "영남일보"
  }
 }
