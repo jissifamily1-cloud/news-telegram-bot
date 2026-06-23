@@ -289,7 +289,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90103",
     "https://www.munhwa.com/article/11597515",
     "https://biz.sbs.co.kr/article_hub/20000318221?division=NAVER",
     "https://www.tvreport.co.kr/broadcast/article/1056109/",
@@ -1788,10 +1787,10 @@
     "https://www.sjsori.com/news/articleView.html?idxno=86960",
     "https://view.asiae.co.kr/article/2026062405434249555",
     "http://www.jbsori.com/news/articleView.html?idxno=17491",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=01971286645485000"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01971286645485000",
+    "https://www.g-enews.com/view.php?ud=20260624054044384e250e8e188_1"
    ],
    "seen_titles": [
-    "증시급락속코스피변동성지수또'껑충'…장중90선근접",
     "[이선영의나이스샷]올여름젠슨황이남긴것",
     "스페이스XIPO덕분에…‘미국판동탄’배스트럽시뜬다",
     "다음주靑발표앞두고…산업장관\"새반도체단지필요\"",
@@ -3290,10 +3289,11 @@
     "뉴욕증시,AI랠리'숨고르기'…반도체매도세에나스닥2.2%급락",
     "[뉴욕증시]기술주폭락에나스닥2.22%하락마감",
     "삼성·SK하이닉스,광주·전남에수백조'반도체투자'가시화…전북,도...",
-    "AI과열론덮친월가…나스닥2.2%급락·반도체주'뚝'[월스트리트in]"
+    "AI과열론덮친월가…나스닥2.2%급락·반도체주'뚝'[월스트리트in]",
+    "[뉴욕증시]반도체주매도폭탄에나스닥2.2%추락…마이크론13%폭락"
    ],
    "initialized": true,
-   "last_run": "2026-06-24T05:45:30.487094+09:00"
+   "last_run": "2026-06-24T05:50:28.976001+09:00"
   }
  },
  "press_names": {
