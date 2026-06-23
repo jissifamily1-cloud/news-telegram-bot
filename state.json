@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-23T19:10:27.365431+09:00",
-     "이재용 기대 논의 투자 대통령 회동"
-    ],
-    [
      "2026-06-23T19:20:33.275568+09:00",
      "자산 해소 양극화 정부의 코스피발 대책 시급하다"
     ],
@@ -374,11 +370,13 @@
     [
      "2026-06-24T01:00:57.146368+09:00",
      "코스피 최악의"
+    ],
+    [
+     "2026-06-24T01:10:30.511874+09:00",
+     "기술주 동반 매도세에 하락 증시 뉴욕"
     ]
    ],
    "seen_urls": [
-    "https://www.slist.kr/news/articleView.html?idxno=747095",
-    "https://www.yna.co.kr/view/AKR20260623081000008?input=1195m",
     "http://www.fnnews.com/news/202606231124254364",
     "https://www.gokorea.kr/news/articleView.html?idxno=870054",
     "https://www.dailyt.co.kr/newsView/dlt202606230005",
@@ -1876,11 +1874,11 @@
     "https://www.chosun.com/economy/money/2026/06/24/Q6A6F6OUWBEDNEG7RUYOQARCOU/",
     "https://www.chosun.com/economy/money/2026/06/24/CSJNASO6VJB3LGKU2L6IXULCA4/",
     "https://www.chosun.com/economy/industry-company/2026/06/24/UEFC75KO6RAORC3FL45ODMRCYE/",
-    "https://www.chosun.com/economy/money/2026/06/24/2GR4D4UYCZA75BDCAOSW56HVRM/"
+    "https://www.chosun.com/economy/money/2026/06/24/2GR4D4UYCZA75BDCAOSW56HVRM/",
+    "https://imnews.imbc.com/replay/2026/nw2500/article/6832377_36989.html",
+    "https://www.ytn.co.kr/_ln/0104_202606240102567917"
    ],
    "seen_titles": [
-    "코스피,장중8700선으로급전직하…삼전·닉스5%대하락[장중시황]",
-    "SK하이닉스·삼성전자,장중5%대급락…외국인·기관순매도",
     "코스피,4%대급락8,700선…삼전·닉스도5%대하락",
     "\"'시총역전'은고점?\"…코스피,2%대하락하며9000선붕괴[fn오전시황]",
     "삼성전자·SK하이닉스주가두자릿수하락…외국인·기관매도세강화",
@@ -3378,10 +3376,12 @@
     "출렁이는코스피…“파도거꾸로타다가하루25%날려”발동동",
     "상장사565곳,아직장부가치에도못미치는저평가",
     "삼성·SK,정부와‘호남반도체공장’조율",
-    "코스피‘최악의날’"
+    "코스피‘최악의날’",
+    "삼전닉스도'파랗게'‥9.99%급락검은화요일",
+    "뉴욕증시,기술주매도세에동반하락"
    ],
    "initialized": true,
-   "last_run": "2026-06-24T01:05:26.499052+09:00"
+   "last_run": "2026-06-24T01:10:30.511874+09:00"
   }
  },
  "press_names": {
