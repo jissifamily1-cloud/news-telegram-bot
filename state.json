@@ -229,7 +229,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.gokorea.kr/news/articleView.html?idxno=870056",
     "http://www.smarttimes.co.kr/news/articleView.html?idxno=46599",
     "https://www.gokorea.kr/news/articleView.html?idxno=870058",
     "https://www.dizzotv.com/site/data/html_dir/2026/06/23/2026062380040.html",
@@ -1728,10 +1727,10 @@
     "https://www.donga.com/news/Economy/article/all/20260624/134170108/2",
     "https://www.goodkyung.com/news/articleView.html?idxno=288461",
     "https://www.donga.com/news/Economy/article/all/20260624/134170094/2",
-    "http://www.ferrotimes.com/news/articleView.html?idxno=48688"
+    "http://www.ferrotimes.com/news/articleView.html?idxno=48688",
+    "https://www.ytn.co.kr/_ln/0104_202606240447012894"
    ],
    "seen_titles": [
-    "울산시,'2026년창업도시조성사업'본격추진…스타트업모집시작",
     "인공지능시대,협력과인재의역할…최태원회장의새로운메시지",
     "미래에셋자산운용\"'TIGER200ETF'올해수익률1위\"",
     "공공기관개인정보유출…과징금격차논란속공정성도마위에",
@@ -3230,10 +3229,11 @@
     "‘삼전닉스2배ETF’어제25%폭락…수수료에증권사만배불려",
     "F5,AI무기화시대정면돌파…오탐률28%→1%압축한보안플랫폼공개",
     "삼전닉스,광주-전남반도체클러스터만든다",
-    "페로타임즈손바닥뉴스6월23일(화)"
+    "페로타임즈손바닥뉴스6월23일(화)",
+    "\"한국AI주급락에3천억달러레버리지ETF조명\""
    ],
    "initialized": true,
-   "last_run": "2026-06-24T04:45:33.471356+09:00"
+   "last_run": "2026-06-24T04:50:29.919147+09:00"
   }
  },
  "press_names": {
