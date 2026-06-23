@@ -470,15 +470,21 @@
     [
      "2026-06-24T07:10:30.844093+09:00",
      "허물기 SK하이닉스 본질은 상품 음원보다는 수요와 한우 토큰화 국경"
+    ],
+    [
+     "2026-06-24T07:15:26.807184+09:00",
+     "유료방송 성패의 통신사 해답은 활용법 VOD"
+    ],
+    [
+     "2026-06-24T07:15:26.807184+09:00",
+     "Top Korean newspapers headlines in major"
+    ],
+    [
+     "2026-06-24T07:15:26.807184+09:00",
+     "불법 회장 이라는 비상계엄 적십자사 되자"
     ]
    ],
    "seen_urls": [
-    "http://www.incheonnews.com/news/articleView.html?idxno=437566",
-    "https://www.betanews.net/article/view/beta202606230027",
-    "https://www.sedaily.com/article/20059009",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1165208",
-    "https://www.etoday.co.kr/news/view/2596333",
-    "https://www.tokenpost.kr/news/breaking/371993",
     "https://www.seoultimes.news/news/article.html?no=2000096938",
     "https://www.sisajournal.com/news/articleView.html?idxno=377412",
     "https://news.tf.co.kr/read/economy/2335501.htm",
@@ -1972,15 +1978,15 @@
     "https://www.dailian.co.kr/news/view/1659047/?sc=Naver",
     "https://www.dailian.co.kr/news/view/1658992/?sc=Naver",
     "https://www.econotimes.com/Wall-Street-Slides-as-AI-Stocks-Tumble-Following-South-Korea-Tech-Sell-Off-1744962",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=02479686645485000"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02479686645485000",
+    "http://www.osen.co.kr/article/G1112827563",
+    "https://biz.sbs.co.kr/article_hub/20000318435?division=NAVER",
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5201545",
+    "https://www.newsway.co.kr/news/view?ud=2026062316195298309",
+    "https://en.yna.co.kr/view/AEN20260624000500315?input=2106m",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003245806&CMPT_CD=P0010"
    ],
    "seen_titles": [
-    "코스피·코스닥,급락에장중매도사이드카후상승전환",
-    "세계여성문화예술인한자리에…27일인천하나개해수욕장서문화축제",
-    "썸에이지125억유상증자확정,개인최대주주및대표직접참여로책...",
-    "“100억이상초고액자산가,현차·삼전닉스최다보유”",
-    "SK하이닉스주가,'300만닉스'찍고6%대급락...외국인·기관'팔자'",
-    "'급락'코스피,오후8700선공방⋯삼전ㆍSK하닉5%대약세",
     "SK하이닉스6.5%하락…1789.7달러",
     "[비즈인사이트]코스피하루새411조원증발…삼성전자시총1위탈환",
     "1분기기업성장성·수익성큰폭개선…'삼전·닉스'외에도회복세",
@@ -3474,10 +3480,16 @@
     "30년돌고돌아‘제자리’…코스닥성적표뜯어보니",
     "'빚투'건전성위협아니라더니,역대급레버리지에경고음",
     "WallStreetSlidesasAIStocksTumbleFollowingSouthKoreaTechSell-",
-    "\"한우·음원보다는SK하이닉스…토큰화본질은상품수요와국경허물기..."
+    "\"한우·음원보다는SK하이닉스…토큰화본질은상품수요와국경허물기...",
+    "‘고점판독기’미자,하이닉스폭락후악플쏟아졌다“항의많아당...",
+    "[증시전략]韓·美반도체주동반급락…AI는거품일까,가치일까",
+    "6월24일굿모닝MBN주요뉴스",
+    "통신사유료방송성패의해답은'VOD'활용법[NW리포트]",
+    "TopheadlinesinmajorS.Koreannewspapers",
+    "[손병관의뉴스프레소]적십자사회장되자'비상계엄=불법'이라는인..."
    ],
    "initialized": true,
-   "last_run": "2026-06-24T07:10:30.844093+09:00"
+   "last_run": "2026-06-24T07:15:26.807184+09:00"
   }
  },
  "press_names": {
