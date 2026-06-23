@@ -674,19 +674,21 @@
     [
      "2026-06-24T08:20:27.452578+09:00",
      "코스피200 닉스삼전 못할 쏠림에 개미 거래 선물"
+    ],
+    [
+     "2026-06-24T08:25:23.274974+09:00",
+     "SK바이오팜 핵심축 신약개발 오픈이노베이션"
+    ],
+    [
+     "2026-06-24T08:25:23.274974+09:00",
+     "한국콜마 내부 계열회사 에코프로 규제대상 오리온"
+    ],
+    [
+     "2026-06-24T08:25:23.274974+09:00",
+     "밀린 바이오USA 바이오 13조가 기술수출 개막에도 될까 반전카드"
     ]
    ],
    "seen_urls": [
-    "http://www.smarttimes.co.kr/news/articleView.html?idxno=46609",
-    "https://www.thepublic.kr/news/articleView.html?idxno=308730",
-    "https://www.mt.co.kr/stock/2026/06/23/2026062314033577256",
-    "https://www.yna.co.kr/view/AKR20260623094000008?input=1195m",
-    "http://www.dailypop.kr/news/articleView.html?idxno=99940",
-    "https://www.hankyung.com/article/2026062327426",
-    "https://www.mk.co.kr/article/12080802",
-    "https://www.mt.co.kr/stock/2026/06/23/2026062313554026612",
-    "https://www.news1.kr/world/northeast-asia/6205675",
-    "http://www.fnnews.com/news/202606221432429627",
     "https://www.etoday.co.kr/news/view/2596352",
     "https://www.sidae.com/article/2026062314051162483",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=140456",
@@ -2176,19 +2178,19 @@
     "http://www.fntimes.com/html/view.php?ud=202606240730361301141825007d_18",
     "https://www.munhwa.com/article/11597727",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=268410",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4421516"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4421516",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=873127",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=60813",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4421520",
+    "https://www.etoday.co.kr/news/view/2596570",
+    "https://www.mt.co.kr/stock/2026/06/24/2026062408202215375",
+    "https://www.etoday.co.kr/news/view/2596569",
+    "https://www.newspim.com/news/view/20260624000065",
+    "https://www.biospectator.com/view/news_view.php?varAtcId=29114",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=263707",
+    "https://www.newspim.com/news/view/20260623000948"
    ],
    "seen_titles": [
-    "김정관장관“영업이익성과급,노동쟁의대상아니다”",
-    "미래에셋증권\"30억원이상보유고액자산가고객수,1년만에3배이...",
-    "삼성전자넘은SK하이닉스…증시정점신호일까",
-    "미래에셋증권,30억이상고액자산가고객1년만에3배증가",
-    "또'검은화요일'…국내증시6%대급락,변동성확대",
-    "최태원SK회장\"AI시대,큰나무모여숲이루듯'인재생태계'키운다...",
-    "'메모리풍향계'마이크론,역대급실적?…삼전닉스도'풍년'예고[분석...",
-    "[속보]코스피·코스닥동반6%대급락…SK하이닉스9%↓",
-    "삼성전자·SK하이닉스'흔들'…시총2000조아래로",
-    "'SK하이닉스2배'레버지리상품,홍콩증시최대규모로성장",
     "ETF투자유의적출올해만11건...LP호가공백괜찮나",
     "큐픽스,한국AI동맹‘K-AI얼라이언스’합류…공간지능시너지",
     "[티타임]시총2000조내준삼전닉스…코스피도8500선까지후퇴",
@@ -3678,10 +3680,20 @@
     "WhySamsungLostItsMarket-CapCrowntoSKhynix",
     "“삼전닉스아직고점아냐…코스피1만피충분히가능”",
     "[굿모닝!글로벌뉴욕증시]Fed강한금리인상전망에AI수익성악화우...",
-    "닉스삼전쏠림에…美개미,코스피200선물거래못할듯"
+    "닉스삼전쏠림에…美개미,코스피200선물거래못할듯",
+    "블룸버그\"韓AI주급락에2900억달러레버리지ETF시장재조명\"",
+    "[증시전망대]美반도체·AI동반급락직격탄맞은코스피,오늘'기술...",
+    "삼성전자,HBM4로반격…SK하이닉스HBM독주흔드나",
+    "흥국證“SK,목표가100만원으로상향…실적턴어라운드원년”",
+    "SK하이닉스,업황은오히려더좋다…조정은비중확대기회-KB",
+    "[증시키워드]'검은화요일'역대급폭락장에…삼전·SK하닉등주도주...",
+    "[모닝리포트]\"SK하이닉스목표가380만원유지...하반기실적추정치...",
+    "SK바이오팜,신약개발핵심축\"오픈이노베이션·AI\"",
+    "한국콜마67.5%·에코프로63.8%·오리온58.2%…규제대상계열회사'내부...",
+    "바이오USA개막에도밀린바이오株…기술수출13조가반전카드될까"
    ],
    "initialized": true,
-   "last_run": "2026-06-24T08:20:27.452578+09:00"
+   "last_run": "2026-06-24T08:25:23.274974+09:00"
   }
  },
  "press_names": {
@@ -3945,6 +3957,7 @@
   "dailysecu.com": "데일리시큐",
   "ccreview.co.kr": "충청리뷰",
   "public25.com": "퍼블릭타임스",
-  "pennmike.com": "펜앤마이크"
+  "pennmike.com": "펜앤마이크",
+  "biospectator.com": "바이오스펙테이터"
  }
 }
