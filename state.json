@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-23T14:49:02.747858+09:00",
-     "삼성은 대기업 뒷걸음질 쿠팡은 고용 늘고 줄고"
-    ],
-    [
-     "2026-06-23T14:49:02.747858+09:00",
-     "F5 재편 급증 공격 사이버 방어 AI로 전선"
-    ],
-    [
-     "2026-06-23T14:49:02.747858+09:00",
-     "생존 증권사들의 중소형 전문성 몸집 대신"
-    ],
-    [
-     "2026-06-23T14:49:02.747858+09:00",
-     "무너진 진단은 흐름 코스피 시장 9천피"
-    ],
-    [
-     "2026-06-23T14:50:27.389129+09:00",
-     "수율 폼팩터와 SK하이닉스 난제 HBM 테스트 해결 향상 기대"
-    ],
-    [
      "2026-06-23T14:55:21.572352+09:00",
      "코스피 SK하닉도 폭락 브레이커 서킷"
     ],
@@ -1326,15 +1306,21 @@
     [
      "2026-06-23T20:45:28.141197+09:00",
      "3배 1년 코스피 제자리 주주친화 경영"
+    ],
+    [
+     "2026-06-23T20:50:27.392301+09:00",
+     "아침의 비즈니스포스트 주요기사"
+    ],
+    [
+     "2026-06-23T20:50:27.392301+09:00",
+     "급락 진짜 미자 고점지표 하이닉스 사자 인간"
+    ],
+    [
+     "2026-06-23T20:50:27.392301+09:00",
+     "자영업 갚은 살겠다 14조"
     ]
    ],
    "seen_urls": [
-    "http://www.queen.co.kr/news/articleView.html?idxno=459072",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16107742",
-    "https://www.mk.co.kr/article/12080659",
-    "https://www.wikitree.co.kr/articles/1142723",
-    "https://www.techm.kr/news/articleView.html?idxno=152814",
-    "http://www.4th.kr/news/articleView.html?idxno=2113564",
     "http://www.metroseoul.co.kr/article/20260623500072",
     "https://www.newsis.com/view/NISX20260623_0003679700",
     "https://www.kdpress.co.kr/news/articleView.html?idxno=206337",
@@ -2828,15 +2814,15 @@
     "https://www.khan.co.kr/article/202606232038025",
     "https://www.hankyung.com/article/202606233811i",
     "https://www.khan.co.kr/article/202606232039005",
-    "https://www.khan.co.kr/article/202606232044035"
+    "https://www.khan.co.kr/article/202606232044035",
+    "https://www.donga.com/news/Economy/article/all/20260623/134166835/1",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16108356",
+    "https://www.khan.co.kr/article/202606232044015",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=440687",
+    "https://www.mk.co.kr/article/12081317",
+    "https://www.khan.co.kr/article/202606232044045"
    ],
    "seen_titles": [
-    "코스피,장중2%대하락···삼성전자·SK하이닉스동반약세",
-    "삼성전자,SK하이닉스에역전?우선주포함2275조로시총1위'불변'",
-    "SK이터닉스주가,6월23일장중40,400원0.75%상승",
-    "SKhynix,SamsungElectronicsfallonprofit-taking",
-    "리터당2000원돌파한경유…당장오늘부터'이곳'가면더쌉니다",
-    "[글로벌]칩플레이션에PC빅3,중국산D램검토...CXMT점유율8%육박",
     "최태원\"AI와협력할줄아는인재가미래경쟁력\"",
     "[정운영의금융인사이트]ETF란이름이가려버린위험",
     "광주노동청,대기업주도'K-뉴딜아카데미'청년참여자모집",
@@ -4330,10 +4316,16 @@
     "전력인프라기업들,국내데이터센터시장공략잰걸음",
     "글로벌시장강타한나스닥발기술주매도이틀째에는?",
     "코스피1년새3배뛸때‘주주친화경영’은제자리",
-    "코스피8200선‘공포의화요일’"
+    "코스피8200선‘공포의화요일’",
+    "9.99%폭락‘검은화요일’…삼전닉스2배베팅,하루최대60%손실가...",
+    "마이크론실적임박…SK하이닉스·삼성전자HBM수요시험대",
+    "이재용,삼성HBM천안패키징현장점검",
+    "[6월24일자]비즈니스포스트아침의주요기사",
+    "미자,진짜인간고점지표?…SK하이닉스사자급락",
+    "못갚은빚14조…못살겠다,자영업"
    ],
    "initialized": true,
-   "last_run": "2026-06-23T20:47:22.615144+09:00"
+   "last_run": "2026-06-23T20:50:27.392301+09:00"
   }
  },
  "press_names": {
