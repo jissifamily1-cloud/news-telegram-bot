@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-24T00:40:40.714489+09:00",
-     "발주자 줄이고 대신 관리 30년간 70배로 공사비 매출 품질"
-    ],
-    [
-     "2026-06-24T00:40:40.714489+09:00",
-     "공략 K바이오 날개 생산력 시장 글로벌"
-    ],
-    [
      "2026-06-24T00:45:39.074615+09:00",
      "만에 시장 조정에 폭락 뒤흔들려 하루 코스피 반도체주"
     ],
@@ -394,17 +386,17 @@
     [
      "2026-06-24T06:40:27.831375+09:00",
      "1위 LNG 삼성중공업 HD한국 6월 액화천연가스"
+    ],
+    [
+     "2026-06-24T06:45:27.331389+09:00",
+     "216조 해소 빼면 시총 삼성 증발 쏠림 조건은"
+    ],
+    [
+     "2026-06-24T06:45:27.331389+09:00",
+     "결단 SK에너지의 끊어낸 불신 기름값"
     ]
    ],
    "seen_urls": [
-    "http://www.intn.co.kr/news/articleView.html?idxno=2051461",
-    "https://www.betanews.net/article/view/beta202606230025",
-    "https://imnews.imbc.com/replay/2026/nw1200/article/6832192_36967.html",
-    "http://www.samdailbo.com/news/articleView.html?idxno=266445",
-    "http://www.financialreview.co.kr/news/articleView.html?idxno=43064",
-    "https://www.mt.co.kr/economy/2026/06/23/2026062311083928123",
-    "https://www.mt.co.kr/industry/2026/06/23/2026062311491813662",
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=804345",
     "https://www.huffingtonpost.kr/article/258159",
     "http://www.bizwnews.com/news/articleView.html?idxno=139211",
     "https://www.asiatime.co.kr/article/20260623500209",
@@ -1896,17 +1888,17 @@
     "https://it.chosun.com/news/articleView.html?idxno=2023092164427",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=60806",
     "https://www.enetnews.co.kr/news/articleView.html?idxno=51534",
-    "https://www.enetnews.co.kr/news/articleView.html?idxno=51527"
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=51527",
+    "https://www.munhwa.com/article/11597689",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=873122",
+    "https://biz.heraldcorp.com/article/10785811",
+    "https://www.g-enews.com/view.php?ud=202606240635418685e250e8e188_1",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=60799",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=440099",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606231432322420440",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1713612"
    ],
    "seen_titles": [
-    "삼성전자,온디바이스AI용모바일낸드개발",
-    "최태원회장,AI시대이끌인재생태계키운다",
-    "미래에셋운용'TIGER200ETF',수익률'1위'...순자산12조돌파",
-    "집값도금리도\"오를것\"‥소비심리두달째↑",
-    "제주SK,바이에른뮌헨과맞대결",
-    "평택아파트시장온기…미분양줄고집값반등,고덕신규분양'주목...",
-    "반도체가기업실적견인…1분기영업이익률13.2%'역대최고'",
-    "삼성·SK,'허허벌판'호남에반도체단지왜?\"상당한시간소요\"",
     "[이슈]SK바이오팜,인실리코와AI신약공동개발…3.9조규모CNS확장",
     "SK하이닉스의삼성전자보통주시가총액추월의의미:신한투자증권\"...",
     "[자산운용레이더]미래에셋자산운용,삼성자산운용,한화자산운용",
@@ -3398,10 +3390,18 @@
     "급락뇌관'대차잔고'사상최대인데…고객유치열올리는증권사",
     "AI·반도체주에덮친'고점공포'…나스닥2%넘게급락",
     "[브랜드평판]DK아시아,시행사브랜드평판6월1위...BS산업,신영뒤...",
-    "[이넷뉴스브랜드평판]삼성중공업,액화천연가스LNG6월1위...HD한국..."
+    "[이넷뉴스브랜드평판]삼성중공업,액화천연가스LNG6월1위...HD한국...",
+    "코스피폭락여파?뉴욕증시,기술주매도세에다우·나스닥·S&P등일제...",
+    "뉴욕증시,AI·반도체주매도세확대에하락마감...나스닥2.2%↓",
+    "마이크론13%급락…美반도체주투매,AI랠리‘제동’",
+    "한국발'메모리쇼크'에마이크론13%폭락",
+    "삼성·SK,호남·충청에'수백조'반도체클러스터…전공정까지간다",
+    "뉴욕증시,반도체주급락등영향하락⋯엔비디아4%대,테슬라5%대,인...",
+    "삼성·SK빼면시총216조‘증발’,쏠림해소조건은",
+    "[조재범의대댓글]기름값불신끊어낸SK에너지의결단"
    ],
    "initialized": true,
-   "last_run": "2026-06-24T06:40:27.831375+09:00"
+   "last_run": "2026-06-24T06:45:27.331389+09:00"
   }
  },
  "press_names": {
