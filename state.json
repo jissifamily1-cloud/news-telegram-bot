@@ -230,10 +230,13 @@
     [
      "2026-06-24T03:15:40.896879+09:00",
      "인공지능 뉴욕증시 전반적 조정세 급락 기술주"
+    ],
+    [
+     "2026-06-24T03:20:32.284971+09:00",
+     "70달러 이란전 유가 투자 몰리는 기름값 시대 꺾이자 포스트"
     ]
    ],
    "seen_urls": [
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=659152",
     "https://it.chosun.com/news/articleView.html?idxno=2023092164371",
     "https://www.nocutnews.co.kr/news/6537097",
     "https://www.dizzotv.com/site/data/html_dir/2026/06/23/2026062380049.html",
@@ -1732,10 +1735,10 @@
     "https://www.newsis.com/view/NISX20260623_0003680219",
     "https://www.tokenpost.kr/news/market/372191",
     "https://www.kyeonggi.com/article/20260623580668",
-    "https://www.tokenpost.kr/news/market/372196"
+    "https://www.tokenpost.kr/news/market/372196",
+    "https://www.g-enews.com/view.php?ud=202606231421427460fbbec65dfb_1"
    ],
    "seen_titles": [
-    "'두쫀쿠'카페말곤울상...소상공인수익성나빠지고연체도증가",
     "'삼전닉스'성과급·주택가격상승에집값·임금상승기대↑",
     "이스트소프트·SKT·테라코랩스,상담사훈련용AI아바타개발협력",
     "삼성전자,온디바이스AI맞춤형'차세대UFS5.0'메모리최초개발",
@@ -3234,10 +3237,11 @@
     "\"AI수요는끝이없어\"…삼성전자·SK하이닉스목표가줄상향이유",
     "코스피10%급락,반도체·AI투자쏠림부작용드러나",
     "[지지대]역세권보다셔세권",
-    "인공지능기술주급락,뉴욕증시전반적조정세"
+    "인공지능기술주급락,뉴욕증시전반적조정세",
+    "기름값꺾이자돈몰리는곳…'포스트이란전'유가70달러시대투자지..."
    ],
    "initialized": true,
-   "last_run": "2026-06-24T03:15:40.896879+09:00"
+   "last_run": "2026-06-24T03:20:32.284971+09:00"
   }
  },
  "press_names": {
