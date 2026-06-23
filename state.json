@@ -349,7 +349,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.gokorea.kr/news/articleView.html?idxno=870054",
     "https://www.dailyt.co.kr/newsView/dlt202606230005",
     "https://www.cbci.co.kr/news/articleView.html?idxno=583955",
     "https://www.livebiz.today/news/articleView.html?idxno=202806",
@@ -1848,10 +1847,10 @@
     "https://www.chosun.com/economy/money/2026/06/24/2GR4D4UYCZA75BDCAOSW56HVRM/",
     "https://imnews.imbc.com/replay/2026/nw2500/article/6832377_36989.html",
     "https://www.ytn.co.kr/_ln/0104_202606240102567917",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1782200209&code=11171111&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=1782200209&code=11171111&cp=nv",
+    "http://www.fnnews.com/news/202606240131429022"
    ],
    "seen_titles": [
-    "\"'시총역전'은고점?\"…코스피,2%대하락하며9000선붕괴[fn오전시황]",
     "삼성전자·SK하이닉스주가두자릿수하락…외국인·기관매도세강화",
     "개인정보5천명분유출됐는데…공공기관과징금은고작수억원?기업은...",
     "하이엔드주거브랜드평판6월,현대건설디에이치1위…롯데건설르엘...",
@@ -3350,10 +3349,11 @@
     "코스피‘최악의날’",
     "삼전닉스도'파랗게'‥9.99%급락검은화요일",
     "뉴욕증시,기술주매도세에동반하락",
-    "[사설]증시부작용속출하자뒤늦게반성한금감원장"
+    "[사설]증시부작용속출하자뒤늦게반성한금감원장",
+    "마이크론등반도체폭락…메모리공급과잉우려재점화"
    ],
    "initialized": true,
-   "last_run": "2026-06-24T01:35:28.105966+09:00"
+   "last_run": "2026-06-24T01:40:33.389032+09:00"
   }
  },
  "press_names": {
