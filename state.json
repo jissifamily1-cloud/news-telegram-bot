@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-23T14:10:27.607064+09:00",
-     "LP 적출 올해만 투자유의 ETF 괜찮나 11건 호가공백"
-    ],
-    [
-     "2026-06-23T14:10:27.607064+09:00",
-     "합류 동맹 시너지 얼라이언스 한국 큐픽스 공간지능"
-    ],
-    [
-     "2026-06-23T14:10:27.607064+09:00",
-     "2000조 내준 후퇴 시총 삼전닉스 코스피도 8500선까지"
-    ],
-    [
-     "2026-06-23T14:10:27.607064+09:00",
-     "위기감 생존 전략 커진 은행권 머니무브에"
-    ],
-    [
      "2026-06-23T14:15:25.472379+09:00",
      "메운 빈틈 지상파 정보까지 채널가치 재확인 케이블TV 기초의원"
     ],
@@ -1454,13 +1438,13 @@
     [
      "2026-06-23T20:05:23.310454+09:00",
      "흔들어 빗대며 비판 금감원장은 레버리지 몸통 도박 꼬리가"
+    ],
+    [
+     "2026-06-23T20:10:31.133525+09:00",
+     "HBM4 달러 10억 확보 관건은 물량 만에"
     ]
    ],
    "seen_urls": [
-    "https://www.newstree.kr/newsView/ntr202606230003",
-    "https://www.bntnews.co.kr/article/view/bnt202606230130",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=271814",
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=695895",
     "https://biz.newdaily.co.kr/site/data/html/2026/06/23/2026062300078.html",
     "http://www.weeklytoday.com/news/articleView.html?idxno=781283",
     "https://www.dailian.co.kr/news/view/1658708/?sc=Naver",
@@ -2956,13 +2940,13 @@
     "https://www.kyeonggi.com/article/20260623580689",
     "https://www.hankyung.com/article/2026062333366",
     "https://www.hankyung.com/article/2026062336361",
-    "https://imnews.imbc.com/replay/2026/nwdesk/article/6832333_37004.html"
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6832333_37004.html",
+    "https://news.jtbc.co.kr/article/NB12304703?influxDiv=NAVER",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1528434",
+    "http://www.cctimes.kr/news/articleView.html?idxno=913034",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1528436"
    ],
    "seen_titles": [
-    "은행빅데이터,골목상권으로…소상공인지원새무대",
-    "삼성전자'온디바이스AI'에딱맞춘메모리'UFS5.0'개발",
-    "티빙개인정보유출1,953만명…국내역대4번째규모",
-    "[OpeningMarket]KOSPIFallsBelow9,000onTechSelloffAmidWonWeake",
     "고려대,대검찰청금융·증권전문인력양성계약학과신설",
     "독파모3사,8월2차평가앞두고개발마무리…관전포인트는'AI에이...",
     "[증권가소식]미래에셋자산운용ㆍ대신자산신탁ㆍ한국투자증권(6.23)",
@@ -4458,10 +4442,14 @@
     "이준석“李정권,삼성·SK호남행압박…기업흔들기멈춰야”",
     "\"하닉시총,삼전넘으면붕괴\"…'검은화요일'한달전나온신호[돈...",
     "서학개미→전쟁→외인매도→강달러…악재만바뀔뿐,꺾이지않는...",
-    "\"꼬리가몸통흔들어\"‥금감원장은'도박'빗대며레버리지비판"
+    "\"꼬리가몸통흔들어\"‥금감원장은'도박'빗대며레버리지비판",
+    "'다던진외국인'코스피역대급폭락…강세장끝났나?",
+    "'검은화요일'코스피,역대급급락…9.99%↓",
+    "국내유일발달장애인핸드볼리그,진천서13개팀역대최대규모개막",
+    "HBM4넉달만에10억달러…관건은물량확보"
    ],
    "initialized": true,
-   "last_run": "2026-06-23T20:05:23.310454+09:00"
+   "last_run": "2026-06-23T20:10:31.133525+09:00"
   }
  },
  "press_names": {
@@ -4708,6 +4696,7 @@
   "news.skbroadband.com": "B tv news",
   "hitnews.co.kr": "히트뉴스",
   "nytimes.com": "nytimes.com",
-  "fourfourtwo.co.kr": "포포투"
+  "fourfourtwo.co.kr": "포포투",
+  "obsnews.co.kr": "OBS경인TV"
  }
 }
