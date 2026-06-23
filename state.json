@@ -1426,11 +1426,17 @@
     [
      "2026-06-23T12:40:29.763279+09:00",
      "팔릴 풍경 주주총회 매각은 헐값 매국 당시 뻔한 하이닉스"
+    ],
+    [
+     "2026-06-23T12:45:25.782308+09:00",
+     "Slide Stocks Asian Pauses Rally as Chipmakers Regio South Korean Lead"
+    ],
+    [
+     "2026-06-23T12:45:25.782308+09:00",
+     "4년 도정 중심 권력구도 민주당 순풍 시험대 추미애 만난"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/photos/7970781",
-    "https://www.news1.kr/photos/7970778",
     "https://www.news1.kr/photos/7970780",
     "https://economist.co.kr/article/view/ecn202606220041",
     "https://www.news1.kr/photos/7970782",
@@ -2928,11 +2934,11 @@
     "https://www.sportsseoul.com/news/read/1618191",
     "https://view.asiae.co.kr/article/2026062312342104353",
     "https://magazine.hankyung.com/business/article/202606232705b",
-    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5201409"
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5201409",
+    "https://www.econotimes.com/Asian-Stocks-Slide-as-AI-Rally-Pauses-South-Korean-Chipmakers-Lead-Regional-Decline-1744876",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=734775"
    ],
    "seen_titles": [
-    "[마감시황]코스피,0.69%오른9114.55마감…사상최고치경신",
-    "코스피,사상첫9100선안착...SK하이닉스,삼성전자제치고시총1위등...",
     "SK바이오팜,인실리코메디신과손잡고AI기반CNS신약개발나서",
     "이찬진\"삼전하닉레버리지,증권사만배불리는구조\"",
     "코스피종가기준최고치…9114.55마감",
@@ -4430,10 +4436,12 @@
     "이상일“반도체국가산단흔들기용인시민들용납하지않을것”",
     "\"360조반도체프로젝트흔들지말라\"…이상일시장,공론화주장강력...",
     "‘2026년웰빙아파트대상'시상식개최",
-    "美에팔릴뻔한하이닉스…\"헐값매각은매국\"그당시주주총회풍경..."
+    "美에팔릴뻔한하이닉스…\"헐값매각은매국\"그당시주주총회풍경...",
+    "AsianStocksSlideasAIRallyPauses,SouthKoreanChipmakersLeadReg",
+    "순풍만난추미애도정…민주당중심권력구도속4년시험대"
    ],
    "initialized": true,
-   "last_run": "2026-06-23T12:40:29.763279+09:00"
+   "last_run": "2026-06-23T12:45:25.782308+09:00"
   }
  },
  "press_names": {
@@ -4627,6 +4635,7 @@
   "tvreport.co.kr": "TV리포트",
   "niceeconomy.co.kr": "나이스경제",
   "kbench.com": "kbench.com",
-  "choicenews.co.kr": "초이스경제"
+  "choicenews.co.kr": "초이스경제",
+  "econotimes.com": "EconoTimes"
  }
 }
