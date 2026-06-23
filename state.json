@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-23T06:25:21.564848+09:00",
-     "갈림길 패권의"
-    ],
-    [
      "2026-06-23T06:30:37.113943+09:00",
      "회사채 열흘 상장 만에 발행 스페이스X"
     ],
@@ -1430,12 +1426,13 @@
     [
      "2026-06-23T12:20:28.016871+09:00",
      "신한투자증권 시가총액 보통주 삼성전자 추월의 의미 SK하이닉스의"
+    ],
+    [
+     "2026-06-23T12:25:22.343890+09:00",
+     "빼도 1분기 성장 반도체 매출 외감기업"
     ]
    ],
    "seen_urls": [
-    "https://realty.chosun.com/site/data/html_dir/2026/06/22/2026062202065.html",
-    "https://biz.heraldcorp.com/article/10784142",
-    "https://biz.chosun.com/stock/stock_general/2026/06/22/LHJYIF4C3BHRLBFMEZZYOGJQF4/",
     "https://www.eroun.net/news/articleView.html?idxno=83663",
     "https://www.yna.co.kr/view/AKR20260622036651008?input=1195m",
     "https://www.hankyung.com/article/202606220811i",
@@ -2932,12 +2929,12 @@
     "https://www.mt.co.kr/economy/2026/06/23/2026062311083928123",
     "https://www.mt.co.kr/industry/2026/06/23/2026062311491813662",
     "https://www.startuptoday.co.kr/news/articleView.html?idxno=804345",
-    "https://www.huffingtonpost.kr/article/258159"
+    "https://www.huffingtonpost.kr/article/258159",
+    "http://www.bizwnews.com/news/articleView.html?idxno=139211",
+    "https://www.asiatime.co.kr/article/20260623500209",
+    "http://www.joseilbo.com/news/news_read.php?uid=570548&class=18"
    ],
    "seen_titles": [
-    "SK하이닉스,삼성전자밀어내고코스피시총1위등극...135원동전주굴...",
-    "반도체가부른‘역대급보너스’…‘초과세수’는어디로가나",
-    "롯데바이오로직스,2년만의송도1공장사용승인…적자투자회수시험대",
     "서울대제친'삼전닉스'계약학과,의대합격선넘본다",
     "[단독]'SK하이닉스셔세권'톱15개단지리스트…140개수혜단지보니",
     "광주광산평동제일·청주SK오해피,첫‘착하디착한주유소’선정",
@@ -4434,10 +4431,13 @@
     "반도체가기업실적견인…1분기영업이익률13.2%'역대최고'",
     "삼성·SK,'허허벌판'호남에반도체단지왜?\"상당한시간소요\"",
     "[이슈]SK바이오팜,인실리코와AI신약공동개발…3.9조규모CNS확장",
-    "SK하이닉스의삼성전자보통주시가총액추월의의미:신한투자증권\"..."
+    "SK하이닉스의삼성전자보통주시가총액추월의의미:신한투자증권\"...",
+    "[자산운용레이더]미래에셋자산운용,삼성자산운용,한화자산운용",
+    "삼성·SK와손잡은李대통령…29일반도체지역투자프로젝트공개",
+    "1분기외감기업매출13.5%‘쑥’…반도체빼도4.6%‘성장’"
    ],
    "initialized": true,
-   "last_run": "2026-06-23T12:20:28.016871+09:00"
+   "last_run": "2026-06-23T12:25:22.343890+09:00"
   }
  },
  "press_names": {
