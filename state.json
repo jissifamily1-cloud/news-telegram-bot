@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-24T00:20:31.888411+09:00",
-     "양극화 시작 기본사회 전남광주에서 해법"
-    ],
-    [
      "2026-06-24T00:25:26.109353+09:00",
      "흔들리자 즐기다 오를 무책임 주가 반성한다 증시"
     ],
@@ -374,12 +370,17 @@
     [
      "2026-06-24T06:15:27.927612+09:00",
      "반도체 슈퍼사이클 전영현 심화되 부회장 올라탄 삼성전자"
+    ],
+    [
+     "2026-06-24T06:25:23.436627+09:00",
+     "시총 순위 역전당한 삼성전자 경쟁도 순위도 SK하이닉스에"
+    ],
+    [
+     "2026-06-24T06:25:23.436627+09:00",
+     "ELD 낙아웃 완화 증가 경쟁 급등락에도 은행권 2분기 판매액 코스피"
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/economy/2335496.htm",
-    "http://www.nongaek.com/news/articleView.html?idxno=95821",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092164356",
     "https://www.thelec.kr/news/articleView.html?idxno=58450",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=51042",
     "https://www.hani.co.kr/arti/economy/economy_general/1264857.html",
@@ -1876,12 +1877,12 @@
     "http://www.srtimes.kr/news/articleView.html?idxno=205905",
     "https://www.bloter.net/news/articleView.html?idxno=666372",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6832397_37012.html",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8593395"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8593395",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008624503&plink=ORI&cooper=NAVER",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606231609268640471",
+    "https://view.asiae.co.kr/article/2026062311123784361"
    ],
    "seen_titles": [
-    "삼전닉스가쏘아올린13.2%…기업이익률사상첫두자릿수",
-    "공정위,윤활유10곳'6년9개월담합'심의착수",
-    "파죽지세주가에도상장사'주주챙기기'는퇴행…족별경영이낳은폐...",
     "20millionpeoplewererobbed,buttheestimatedpenaltywasonlybilli",
     "[디지털트윈의진화①]제조공정의능동적운영자로진화",
     "삼성전자올해'HBM4'매출100억달러순항",
@@ -3378,10 +3379,13 @@
     "[창간기획]반도체슈퍼사이클올라탄전영현삼성전자부회장…심화되...",
     "\"한국AI주급락에레버리지ETF역할론재점화\"",
     "삼성·SK,호남·충청에투자확대‥수백조거론",
-    "삼전닉스여파에미반도체주도폭락…나스닥2.2%↓"
+    "삼전닉스여파에미반도체주도폭락…나스닥2.2%↓",
+    "뉴욕증시,AI·반도체주매도세에하락…나스닥2.2%↓",
+    "SK하이닉스에시총순위역전당한삼성전자…그룹시총순위도경쟁도...",
+    "코스피급등락에도2분기ELD판매액증가…은행권,낙아웃완화경쟁"
    ],
    "initialized": true,
-   "last_run": "2026-06-24T06:20:28.179488+09:00"
+   "last_run": "2026-06-24T06:25:23.436627+09:00"
   }
  },
  "press_names": {
