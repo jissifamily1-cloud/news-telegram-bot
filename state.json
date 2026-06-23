@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-24T00:35:29.379188+09:00",
-     "반도체 1만보다 호황 코스피 지속되는"
-    ],
-    [
-     "2026-06-24T00:35:29.379188+09:00",
-     "채운다 K바이오가 빈자리 발길 신기술에 접목 북적"
-    ],
-    [
-     "2026-06-24T00:35:29.379188+09:00",
-     "전망 성과급에 만에 반도체 5개월 상승 최고 집값"
-    ],
-    [
      "2026-06-24T00:40:40.714489+09:00",
      "발주자 줄이고 대신 관리 30년간 70배로 공사비 매출 품질"
     ],
@@ -402,12 +390,13 @@
     [
      "2026-06-24T06:35:21.400566+09:00",
      "증권사 뇌관 열올리는 최대인데 급락 유치 사상 고객 대차잔고"
+    ],
+    [
+     "2026-06-24T06:40:27.831375+09:00",
+     "1위 LNG 삼성중공업 HD한국 6월 액화천연가스"
     ]
    ],
    "seen_urls": [
-    "https://www.aitimes.kr/news/articleView.html?idxno=40630",
-    "https://www.hidomin.com/news/articleView.html?idxno=710444",
-    "https://www.thelec.kr/news/articleView.html?idxno=58465",
     "http://www.intn.co.kr/news/articleView.html?idxno=2051461",
     "https://www.betanews.net/article/view/beta202606230025",
     "https://imnews.imbc.com/replay/2026/nw1200/article/6832192_36967.html",
@@ -1904,12 +1893,12 @@
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6832403_37012.html",
     "https://www.news1.kr/industry/general-industry/6206044",
     "https://www.dailian.co.kr/news/view/1659115/?sc=Naver",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092164427"
+    "https://it.chosun.com/news/articleView.html?idxno=2023092164427",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=60806",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=51534",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=51527"
    ],
    "seen_titles": [
-    "외국인매도세에반도체급락…코스피·코스닥동반매도사이드카",
-    "이스트소프트-SKT-테라코랩스,상담사훈련돕는'AI아바타'만든다",
-    "코스피4%·코스닥5%급락…양대시장매도사이드카발동",
     "삼성전자,온디바이스AI용모바일낸드개발",
     "최태원회장,AI시대이끌인재생태계키운다",
     "미래에셋운용'TIGER200ETF',수익률'1위'...순자산12조돌파",
@@ -3406,10 +3395,13 @@
     "쏠림·초단타‥'미친'변동성만드는레버리지",
     "'중질유'찾아삼만리…콜롬비아원유4년11개월만도입",
     "한찬식·보완수사권에당·청삐걱…커져가는민주당내홍등[6/24(수)데...",
-    "급락뇌관'대차잔고'사상최대인데…고객유치열올리는증권사"
+    "급락뇌관'대차잔고'사상최대인데…고객유치열올리는증권사",
+    "AI·반도체주에덮친'고점공포'…나스닥2%넘게급락",
+    "[브랜드평판]DK아시아,시행사브랜드평판6월1위...BS산업,신영뒤...",
+    "[이넷뉴스브랜드평판]삼성중공업,액화천연가스LNG6월1위...HD한국..."
    ],
    "initialized": true,
-   "last_run": "2026-06-24T06:35:21.400566+09:00"
+   "last_run": "2026-06-24T06:40:27.831375+09:00"
   }
  },
  "press_names": {
