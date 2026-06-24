@@ -585,8 +585,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.inews24.com/view/1979249",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=167049",
     "http://www.newstomato.com/ReadNews.aspx?no=1305017&inflow=N",
     "https://biz.heraldcorp.com/article/10786520",
     "https://www.news1.kr/local/gwangju-jeonnam/6206780",
@@ -2084,11 +2082,11 @@
     "https://www.segye.com/newsView/20260624516594?OutUrl=naver",
     "https://www.kdpress.co.kr/news/articleView.html?idxno=206388",
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=430200",
-    "https://www.asiatime.co.kr/article/20260624500414"
+    "https://www.asiatime.co.kr/article/20260624500414",
+    "https://www.tokenpost.kr/news/market/372485",
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=430202"
    ],
    "seen_titles": [
-    "이철우\"기업은정치아닌시장보고투자해야\"호남반도체투자정치...",
-    "이상일용인특례시장,\"삼성전자,용인국가산단팹6기계획대로추진...",
     "“MSCI편입유보파장은제한적…추세적상승여력충분”[韓,MSCI선진...",
     "삼성전자,장초반9%급등하며SK하이닉스추월...시총1위'탈환'",
     "“미국공장있나요?”美파트너로격상된K-바이오",
@@ -3586,10 +3584,12 @@
     "[사설]김정관“성과급,쟁의대상아냐”…시장원칙이자상식이다",
     "[주요공시]삼성전자,SK하이닉스,워트,한화시스템,시큐레터,씨씨에...",
     "SK하이닉스,내달10일나스닥ADR상장목표…글로벌자금조달본격화",
-    "[증권뉴스브리핑]금감원,증권사에\"빚투·유동성관리해야\"/금감원,..."
+    "[증권뉴스브리핑]금감원,증권사에\"빚투·유동성관리해야\"/금감원,...",
+    "코스피,변동성속반등마감…반도체실적주목",
+    "용인시장\"삼성반도체팹지방이전없다…용인국가산단계획그대로..."
    ],
    "initialized": true,
-   "last_run": "2026-06-24T23:40:27.828138+09:00"
+   "last_run": "2026-06-24T23:45:24.887752+09:00"
   }
  },
  "press_names": {
