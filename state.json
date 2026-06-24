@@ -174,11 +174,17 @@
     [
      "2026-06-25T04:00:44.997151+09:00",
      "ETF 나온다 팔아야 삼성 백금 장부에서 하나 지금 현대차 버티면"
+    ],
+    [
+     "2026-06-25T04:04:01.352023+09:00",
+     "안전띠 단단히 요동치는 롤러코스터 코스피"
+    ],
+    [
+     "2026-06-25T04:04:01.352023+09:00",
+     "신고가 동탄 번진 타기 랠리 막차 규제 전역으로"
     ]
    ],
    "seen_urls": [
-    "http://www.newsprime.co.kr/news/article.html?no=737845",
-    "https://www.itbiznews.com/news/articleView.html?idxno=217083",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5201628",
     "https://www.yna.co.kr/view/AKR20260624091500008?input=1195m",
     "https://www.sedaily.com/article/20059506",
@@ -1676,11 +1682,11 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8594486",
     "https://www.ytn.co.kr/_ln/0115_202606250318450575",
     "https://www.newsis.com/view/NISX20260624_0003680891",
-    "https://www.g-enews.com/view.php?ud=202606241531201369fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202606241531201369fbbec65dfb_1",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01416966645485328",
+    "https://www.newsis.com/view/NISX20260624_0003681444"
    ],
    "seen_titles": [
-    "한국콜마,내부거래비중67%로최고...대기업81곳16%",
-    "김용범\"韓,4년뒤G8수준국가\"…반도체쏠림지적엔\"경제파급효과...",
     "김용범\"삼전·닉스영업익,노사협상맞는지…새로운룰필요\"",
     "코스피'검은화요일'딛고반등…삼전다시시총1위",
     "SK하이닉스12%폭락은미자때문?항의DM공개…\"인간고점판독기\"",
@@ -3178,10 +3184,12 @@
     "오픈AI,자체AI칩‘할라페뇨’공개…“블랙웰·TPU와대등성능”",
     "이웃에선'반도체축제'...전북선'200조공수표위기'",
     "반도체머니에들썩이는집값…정부'공급확대'속도낸다",
-    "'백금ETF'지금팔아야하나…버티면삼성·현대차장부에서답나온다"
+    "'백금ETF'지금팔아야하나…버티면삼성·현대차장부에서답나온다",
+    "[사설]요동치는롤러코스터코스피,안전띠더단단히맬때",
+    "규제전막차타기?…동탄전역으로번진신고가랠리"
    ],
    "initialized": true,
-   "last_run": "2026-06-25T04:00:44.997151+09:00"
+   "last_run": "2026-06-25T04:04:01.352023+09:00"
   }
  },
  "press_names": {
