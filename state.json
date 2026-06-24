@@ -1230,13 +1230,25 @@
     [
      "2026-06-24T12:50:28.058385+09:00",
      "1만피 매도 MSCI 흔들리는 불발까지 시나리오 폭탄에 외인"
+    ],
+    [
+     "2026-06-24T12:55:20.244101+09:00",
+     "입찰 3차 평가룰 승부 ESS 가른다"
+    ],
+    [
+     "2026-06-24T12:55:20.244101+09:00",
+     "완도경찰서 합동순찰 전남 SK쉴더스 강화 야간"
+    ],
+    [
+     "2026-06-24T12:55:20.244101+09:00",
+     "입찰 시공자 포스코 하안주공3 4단지 수의계약 관심"
+    ],
+    [
+     "2026-06-24T12:55:20.244101+09:00",
+     "경북함 해양은 해군 호위함 3600t급 우리가 최신예 지킨다 취역"
     ]
    ],
    "seen_urls": [
-    "https://www.thepublic.kr/news/articleView.html?idxno=308752",
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=60779",
-    "https://www.thepublic.kr/news/articleView.html?idxno=308745",
-    "https://www.dailian.co.kr/news/view/1659058/?sc=Naver",
     "https://biz.newdaily.co.kr/site/data/html/2026/06/23/2026062300271.html",
     "https://www.dailian.co.kr/news/view/1659041/?sc=Naver",
     "https://www.thepublic.kr/news/articleView.html?idxno=308732",
@@ -2732,13 +2744,13 @@
     "https://www.chosun.com/national/national_general/2026/06/24/Z6TQGZZTOFCIXKKH5D3RWBMLZY/",
     "https://www.dt.co.kr/article/12069261",
     "https://www.etnews.com/20260624000210",
-    "https://www.newsway.co.kr/news/view?ud=2026062411521939153"
+    "https://www.newsway.co.kr/news/view?ud=2026062411521939153",
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=359218",
+    "https://www.mhns.co.kr/news/articleView.html?idxno=751237",
+    "https://www.arunews.com/news/articleView.html?idxno=64133",
+    "https://view.asiae.co.kr/article/2026062412503845670"
    ],
    "seen_titles": [
-    "\"반도체결실,골목상권으로\"...삼성전자,구매액20%온누리상품권페...",
-    "이상일용인시장,총리실사회대개혁위정면비판",
-    "일자리는반도체보다택배?…4대그룹고용뒷걸음질에도쿠팡은증가...",
-    "\"삼전·닉스레버리지우려\"…금투협회장,금감원장에'맞장구'",
     "역대급폭락속개인들만11조'묻지마'매수…하락장기화시손실눈...",
     "코스피변동성지수다시90선턱밑…급락장에'경고등'",
     "반도체발'53조유동성폭탄'오나…수도권부동산자극'뇌관'우려",
@@ -4234,10 +4246,14 @@
     "강기정광주시장“대기업반도체산업투자는종합세트될것”",
     "이상일용인특례시장“삼전,용인국가산단팹6기계획대로추진…지...",
     "엔코아,실무형AI인재양성코스7월개강",
-    "외인매도폭탄에MSCI불발까지…흔들리는'1만피'시나리오"
+    "외인매도폭탄에MSCI불발까지…흔들리는'1만피'시나리오",
+    "ESS3차입찰,'평가룰'이승부가른다",
+    "전남완도경찰서·SK쉴더스,야간합동순찰강화",
+    "'포스코관심'하안주공3·4단지,시공자수의계약입찰",
+    "\"해양은우리가지킨다\"…해군,최신예3600t급호위함'경북함'취역"
    ],
    "initialized": true,
-   "last_run": "2026-06-24T12:50:28.058385+09:00"
+   "last_run": "2026-06-24T12:55:20.244101+09:00"
   }
  },
  "press_names": {
@@ -4517,6 +4533,7 @@
   "fieldnews.kr": "필드뉴스",
   "babytimes.co.kr": "베이비타임즈",
   "itbiznews.com": "IT비즈뉴스",
-  "naeil.com": "내일신문"
+  "naeil.com": "내일신문",
+  "arunews.com": "위클리한국주택경제신문"
  }
 }
