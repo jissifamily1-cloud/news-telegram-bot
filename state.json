@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-24T23:15:30.176450+09:00",
-     "건국대 40억 수익 넘었다 재발견 캠퍼스 태양광 옥상의"
-    ],
-    [
      "2026-06-24T23:30:37.644879+09:00",
      "SK하이닉스 시큐레터 씨씨에 삼성전자 한화시스템 워트"
     ],
@@ -218,11 +214,13 @@
     [
      "2026-06-25T05:15:28.735429+09:00",
      "투자 정책실장 피지컬AI PK 홀대론에 꺼낸 청와대 대기업"
+    ],
+    [
+     "2026-06-25T05:20:28.913720+09:00",
+     "증시 몸집만 신흥국 멀다 근력은 커지고 한국 수준"
     ]
    ],
    "seen_urls": [
-    "https://www.econotimes.com/South-Koreas-KOSPI-Rebounds-as-Samsung-and-SK-Hynix-Lead-Tech-Stock-Recovery-1744989",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=140521",
     "https://www.goodmorningcc.com/news/articleView.html?idxno=447981",
     "https://www.businesspost.co.kr/BP?command=article_view&num=440726",
     "https://www.news1.kr/local/gwangju-jeonnam/6206861",
@@ -1720,11 +1718,11 @@
     "https://www.joongang.co.kr/article/25439689",
     "https://www.joongang.co.kr/article/25439671",
     "https://www.news1.kr/politics/president/6207533",
-    "https://www.busan.com/view/busan/view.php?code=2026062417580161988"
+    "https://www.busan.com/view/busan/view.php?code=2026062417580161988",
+    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/06/25/20260625027004?wlog_tag3=naver",
+    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/06/25/20260625027007?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "SK하이닉스2분기영업이익률77%'깜짝실적'전망,KB증권\"주가12%급락...",
-    "\"지방반도체단지곧발표‥용인은그대로\"",
     "강기정,“대기업설계·생산반도체종합세트광주에올것”",
     "AI기술,미국종속막으려면'소버린AI'전략정교하게다듬어야",
     "360조용인산단삽도못떴는데…“반도체팹여기저기쪼갠다니”",
@@ -3222,10 +3220,12 @@
     "호남반도체설에…난데없이주류회사주가2.8배폭등,뭔일",
     "“삼전닉스이때팔고떠나라”韓ETF대부,대신픽한4가지",
     "李대통령,이재용회장과회동…'호남반도체클러스터'막판조율",
-    "[사설]대기업투자PK홀대론에피지컬AI꺼낸청와대정책실장"
+    "[사설]대기업투자PK홀대론에피지컬AI꺼낸청와대정책실장",
+    "[사설]반도체광주·전남클러스터…인재·부품생태계확보돼야",
+    "[사설]몸집만커지고근력은신흥국수준…한국증시,갈길멀다"
    ],
    "initialized": true,
-   "last_run": "2026-06-25T05:15:28.735429+09:00"
+   "last_run": "2026-06-25T05:20:28.913720+09:00"
   }
  },
  "press_names": {
