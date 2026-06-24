@@ -1301,10 +1301,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20260624507429?OutUrl=naver",
-    "https://www.newsway.co.kr/news/view?ud=2026062410453302374",
-    "https://www.mk.co.kr/article/12081725",
-    "https://www.kgnews.co.kr/news/article.html?no=901278",
     "https://www.topstarnews.net/news/articleView.html?idxno=16109673",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=844887",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=305455",
@@ -2800,13 +2796,13 @@
     "http://www.kjdaily.com/article.php?aid=1782298855681030002",
     "https://www.segye.com/newsView/20260624519106?OutUrl=naver",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1528565",
-    "http://www.mdilbo.com/detail/0kIA7d/756624"
+    "http://www.mdilbo.com/detail/0kIA7d/756624",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=271950",
+    "http://www.fnnews.com/news/202606241815172945",
+    "http://www.mdilbo.com/detail/0kIA7d/756626",
+    "https://www.inthenews.co.kr/news/article.html?no=88485"
    ],
    "seen_titles": [
-    "수성알파시티AI데이터센터건립좌초위기",
-    "[종목분석]유디엠텍,산업용AI성장성에도반복수주가관건",
-    "고위험회사채혼란속…'뒷배'있는한진·두산등선별주목",
-    "이준석“李정권,팔비틀어삼전닉스호남行…증시폭락영향없었겠나...",
     "보해양조,투자경고에도상한가직행…5거래일연속급등[특징주]",
     "Koreancompanies’growth,profitabilityimproveinQ1:BOKdata",
     "중기부'모두의창업'정보유출,'노출'표현반복에\"책임축소\"비판",
@@ -4302,10 +4298,14 @@
     "“호남등지방반도체클러스터논의마무리단계”",
     "SK하이닉스,‘45조원실탄’확보…7월나스닥상장으로‘글로벌체급...",
     "코스피,하루만에3%대반등…MSCI편입불발",
-    "“이게될까?에서이게되네!”···십수년묵은난제들풀고‘반도체..."
+    "“이게될까?에서이게되네!”···십수년묵은난제들풀고‘반도체...",
+    "SamsungElectronicsMayNeedUpto90TrillionWoninAdditionalShareB",
+    "\"韓·대만,반도체경쟁보다기술동맹으로中추격막아야\"[반도체의...",
+    "“연속성잃으면퇴보”···민선9기,‘핵심정책’이어받아야",
+    "SK하이닉스,내달10일미국ADR상장…최대45조원규모"
    ],
    "initialized": true,
-   "last_run": "2026-06-24T20:20:29.515471+09:00"
+   "last_run": "2026-06-24T20:25:20.709412+09:00"
   }
  },
  "press_names": {
