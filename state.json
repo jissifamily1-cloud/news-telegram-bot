@@ -1390,15 +1390,17 @@
     [
      "2026-06-24T20:00:49.983033+09:00",
      "경북 대구 경제계 데이터센터 배제된 연계한 지역 후보지"
+    ],
+    [
+     "2026-06-24T20:05:20.890292+09:00",
+     "원에 지금은 SK하이닉스 258만 몰라서 2만 100배 수익"
+    ],
+    [
+     "2026-06-24T20:05:20.890292+09:00",
+     "반도체 마이스터고 부산전자공고"
     ]
    ],
    "seen_urls": [
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000044849",
-    "https://www.mediafine.co.kr/news/articleView.html?idxno=81712",
-    "https://www.smartbizn.com/news/articleView.html?idxno=146901",
-    "https://www.donga.com/news/Politics/article/all/20260624/134171992/1",
-    "https://www.joongangenews.com/news/articleView.html?idxno=527868",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1713718",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4421589",
     "https://www.joongangenews.com/news/articleView.html?idxno=527863",
     "https://www.mk.co.kr/article/12081704",
@@ -2892,15 +2894,15 @@
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=271947",
     "https://www.hidomin.com/news/articleView.html?idxno=710743",
     "https://www.kmib.co.kr/article/view.asp?arcid=0030016123&code=61162011&cp=nv",
-    "https://www.idaegu.com/news/articleView.html?idxno=663862"
+    "https://www.idaegu.com/news/articleView.html?idxno=663862",
+    "http://www.finomy.com/news/articleView.html?idxno=256217",
+    "https://www.newsis.com/view/NISX20260624_0003682424",
+    "https://www.globale.co.kr/news/articleView.html?idxno=38983",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6832617_37004.html",
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5201772",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8594173"
    ],
    "seen_titles": [
-    "현대차·기아,한미일경제대화내'사이버보안워킹그룹'출범",
-    "중국CXMT메모리반도체'다크호스'역량증명,삼성전자SK하이닉스HBM...",
-    "김용범“용인반도체클러스터지방이전아냐…제2클러스터추가하는...",
-    "삼전·닉스,마이크론실적가이던스주시…주가향방갈린다",
-    "코스피,전날폭락딛고3%대반등-반도체주중심저가매수세유입",
-    "호남반도체클러스터급부상···삼성·SK'기대와우려교차'",
     "정책실장“용인반도체공장완공시기,10년앞당겨…호남으로옮기는...",
     "SK스퀘어주가,6월24일장중1,769,000원3.44%하락",
     "김용범\"용산반도체클러스터이전아니다…호남권에새로구축\"",
@@ -4394,10 +4396,16 @@
     "[IndustryFocus]BYDTargetsKoreanMarketwithCheaperPHEVs",
     "호남·충청수백조반도체투자'정치적판단'논란가열",
     "한국e스포츠협회,‘2026KEL’FC모바일결선27일부산서개최",
-    "AI데이터센터후보지배제된대구…지역경제계\"대구·경북연계한경..."
+    "AI데이터센터후보지배제된대구…지역경제계\"대구·경북연계한경...",
+    "국제유가31%떨어진뒤찔끔내린기름값···'상생협약이행'무색",
+    "삼전닉스레버리지ETF,코스피변동성키우나…FOMO가키운'반도체베...",
+    "SK하이닉스,내달10일나스닥상장···최대45.4조신주발행",
+    "SK하이닉스\"다음달10일미국ADR상장‥최대45조원규모\"",
+    "2만원에산SK하이닉스,지금은258만원…\"팔줄몰라서\"100배수익난...",
+    "[대담한K]부산전자공고,‘반도체마이스터고’로전환"
    ],
    "initialized": true,
-   "last_run": "2026-06-24T20:00:49.983033+09:00"
+   "last_run": "2026-06-24T20:05:20.890292+09:00"
   }
  },
  "press_names": {
