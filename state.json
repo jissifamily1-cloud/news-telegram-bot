@@ -1477,10 +1477,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sidae.com/article/2026062308334097531",
-    "https://www.mediapen.com/news/view/1106168",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03535846645485000",
-    "https://www.viva100.com/article/20260624500526",
     "https://www.busan.com/view/busan/view.php?code=2026062410380181481",
     "https://www.namdonews.com/news/articleView.html?idxno=914599",
     "https://www.newsis.com/view/NISX20260624_0003681299",
@@ -2976,13 +2972,13 @@
     "https://www.ggilbo.com/news/articleView.html?idxno=1165578",
     "https://news.tvchosun.com/site/data/html_dir/2026/06/24/2026062490254.html",
     "https://www.topstarnews.net/news/articleView.html?idxno=16110350",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=271945"
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=271945",
+    "http://www.fnnews.com/news/202606240819383896",
+    "https://zdnet.co.kr/view/?no=20260624191759",
+    "https://www.hani.co.kr/arti/economy/economy_general/1265191.html",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=05461206645485000"
    ],
    "seen_titles": [
-    "SK이노베이션,소아암어린이들에직업체험제공",
-    "코로나치료제·백신주훨훨…펩트론·리가켐바이오급등에바이오주'...",
-    "저가매수유입에코스피8390대로실적기대감유효…삼성전자6%↑",
-    "[체크!ETF]ETF로번진'삼전닉스'열기…투자금쏠림현상도",
     "호르무즈에서한국선박4척추가통과…남은선박18척",
     "한국선박4척,호르무즈해협통과…18척남았다",
     "SK이노베이션,소아암어린이위한직업체험행사",
@@ -4478,10 +4474,14 @@
     "제2반도체클러스터'호남우선론'……충청도경쟁력여전",
     "SK하이닉스,다음달10일나스닥상장추진…45조원대신주발행",
     "AI경쟁,HBM다음병목은전력…머스크데이터센터증설이던진메시지",
-    "[IndustryFocus]중국BYD,하반기플러그인하이브리드(PHEV)로한국시..."
+    "[IndustryFocus]중국BYD,하반기플러그인하이브리드(PHEV)로한국시...",
+    "\"韓·대만반도체,경쟁보다협력해야…中대응할기술동맹필요\"",
+    "수산아이앤티'디바이스인증서비스'ISO/IEC27001'인증획득",
+    "SK하이닉스,다음달미국증시입성…최대45조원조달",
+    "SK하닉,내달美ADR상장…45조조달해용인·청주투자(재종합)"
    ],
    "initialized": true,
-   "last_run": "2026-06-24T19:15:25.780548+09:00"
+   "last_run": "2026-06-24T19:20:29.578393+09:00"
   }
  },
  "press_names": {
