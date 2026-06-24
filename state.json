@@ -1418,12 +1418,13 @@
     [
      "2026-06-24T19:45:27.142785+09:00",
      "여름 한정 섬에어 특별 진행 프로모션"
+    ],
+    [
+     "2026-06-24T19:50:27.399366+09:00",
+     "데이터센터 강릉 난관 인공지능"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03558806645485000",
-    "https://www.kyeonggi.com/article/20260624580093",
-    "https://sports.donga.com/ent/article/all/20260624/134171892/1",
     "https://www.hani.co.kr/arti/politics/bluehouse/1265046.html",
     "https://www.tvreport.co.kr/entertainment/article/1056365/",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=03614566645485000",
@@ -2920,12 +2921,12 @@
     "https://www.news1.kr/industry/auto-industry/6207517",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=271946",
     "https://www.ggilbo.com/news/articleView.html?idxno=1165572",
-    "https://www.gnnews.co.kr/news/articleView.html?idxno=639751"
+    "https://www.gnnews.co.kr/news/articleView.html?idxno=639751",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=91392",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3616981",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8594118"
    ],
    "seen_titles": [
-    "[심층진단]반도체를제외한한국증시는과연몇점짜리시장인가",
-    "서민재서울시립대교수,국제전기·대한전자공학회'젊은과학기술인상...",
-    "권영진“이재명정부균형발전정책은호남편중”",
     "석화1분기착시실적걷히나…울산구조조정시험대",
     "[속보]김용범\"용인클러스터지방이전아냐…제2클러스터추가하는...",
     "“특기=고점물리기”…아옳이,하이닉스1억넣고3000만원증발",
@@ -4422,10 +4423,13 @@
     "현대차,짙어진파업전운…신차출시'골든타임'놓칠라",
     "SKhynixListsADRsonNasdaqinJuly",
     "[주식마감]美자회사,나스닥상장임박에로킷헬스케어'上'...금호건...",
-    "섬에어,여름한정특별프로모션진행"
+    "섬에어,여름한정특별프로모션진행",
+    "90조자사주매입기대감'쑥'…삼성전자,'왕좌'되찾았다",
+    "이상일용인시장\"수도권배제조항삭제,반도체투자에긍정적영향\"",
+    "강릉인공지능데이터센터‘난관’"
    ],
    "initialized": true,
-   "last_run": "2026-06-24T19:45:27.142785+09:00"
+   "last_run": "2026-06-24T19:50:27.399366+09:00"
   }
  },
  "press_names": {
