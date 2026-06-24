@@ -694,15 +694,13 @@
     [
      "2026-06-25T08:25:23.559268+09:00",
      "너무 부품값 신형 올랐다 장기화로 맥북 메모리 쇼티지 애플 출하가"
+    ],
+    [
+     "2026-06-25T08:30:38.009238+09:00",
+     "배터리 유럽의 240억 기가팩토리 의존 전쟁 유로 BESS 기술"
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0134_202606241444195637",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008625558&plink=ORI&cooper=NAVER",
-    "https://www.newsis.com/view/NISX20260624_0003681889",
-    "http://www.newstomato.com/ReadNews.aspx?no=1305039&inflow=N",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462713",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1713758",
     "https://www.segye.com/newsView/20260624512499?OutUrl=naver",
     "https://www.starnewskorea.com/star/2026/06/24/2026062413511764879",
     "https://www.mydaily.co.kr/page/view/2026062412584257171",
@@ -2196,15 +2194,15 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606250226&t=NN",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000045154",
     "http://www.datanews.co.kr/news/article.html?no=145266",
-    "https://www.ddaily.co.kr/page/view/2026062508193161127"
+    "https://www.ddaily.co.kr/page/view/2026062508193161127",
+    "https://www.etoday.co.kr/news/view/2597032",
+    "https://biz.sbs.co.kr/article_hub/20000318719?division=NAVER",
+    "http://tbs.seoul.kr/news/newsView.do?typ_800=1&idx_800=3537021&seq_800=20529902",
+    "https://www.news1.kr/finance/general-stock/6207654",
+    "https://www.mt.co.kr/politics/2026/06/25/2026062507560070729",
+    "https://www.g-enews.com/view.php?ud=2026062508240491560c8c1c064d_1"
    ],
    "seen_titles": [
-    "SK,SK시그넷에700억원출자…유상증자참여",
-    "SKB,구성원이직접AI에이전트만들어업무투입…네트워크품질혁신",
-    "김용범\"지방반도체클러스터논의완료단계…수도권엔땅없다\"",
-    "김용범“삼성전자성과급세계첫사례…협상룰만들어야”",
-    "삼전닉스급락→세계기술주요동…\"코스피가촉발\"외신도놀랐다",
-    "삼전·닉스,호남수백조투자…충남도\"반도체후공정주도권꼭잡는...",
     "무르익는'호남반도체공장'…3가지조건'전력O용수△인력△'",
     "[자막뉴스]코스피역사상최대낙폭...8천선지킨것도기적?",
     "호남·충청에K-반도체새터전추진…수백조규모다음주발표",
@@ -3698,10 +3696,16 @@
     "'벼락거지면해보자'...주식계좌1.1억개시대",
     "SK하이닉스미국ADR상장초읽기…나스닥100편입'청신호'",
     "SK하이닉스,순현금급증…주주환원관심도↑",
-    "\"부품값너무올랐다\"…애플,메모리쇼티지장기화로신형맥북출하가..."
+    "\"부품값너무올랐다\"…애플,메모리쇼티지장기화로신형맥북출하가...",
+    "[증시키워드]코스피,폭락딛고반등…삼전시총1위탈환",
+    "[어제장오늘장]마이크론,역대급실적발표…삼전·하닉호재될까?",
+    "'불장'에6개월새주식계좌1천만개증가…총1.1억개육박",
+    "삼성證\"SK하이닉스ADR상장,주가재평가…밸류상승기대\"",
+    "한동훈\"반도체,명청대전총알아냐…李정권이'여기가라'지시\"",
+    "유럽의‘240억유로BESS배터리전쟁’…中기술의존속기가팩토리..."
    ],
    "initialized": true,
-   "last_run": "2026-06-25T08:25:23.559268+09:00"
+   "last_run": "2026-06-25T08:30:38.009238+09:00"
   }
  },
  "press_names": {
