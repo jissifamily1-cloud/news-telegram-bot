@@ -206,11 +206,13 @@
     [
      "2026-06-25T03:20:31.113577+09:00",
      "역대 번째 1953만명으로 유출 늘어 규모 티빙 개인정보"
+    ],
+    [
+     "2026-06-25T03:25:21.462270+09:00",
+     "이웃에선 위기 반도체 공수표 전북선 200조 축제"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH20260624115048kzT",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16109736",
     "https://www.hani.co.kr/arti/politics/bluehouse/1265064.html",
     "https://news.tf.co.kr/read/economy/2336000.htm",
     "http://www.newsprime.co.kr/news/article.html?no=737845",
@@ -1708,11 +1710,11 @@
     "https://www.g-enews.com/view.php?ud=202606242121366749fbbec65dfb_1",
     "https://www.g-enews.com/view.php?ud=202606241518129630fbbec65dfb_1",
     "https://www.yna.co.kr/view/AKR20260625003200091?input=1195m",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1165084"
+    "https://www.ggilbo.com/news/articleView.html?idxno=1165084",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8594486",
+    "https://www.ytn.co.kr/_ln/0115_202606250318450575"
    ],
    "seen_titles": [
-    "호남반도체투자설에…경기남부·광주광역시부동산모두촉각",
-    "김용범\"삼성·SK호남권투자논의중…논의막바지\"",
     "(LEAD)PresidentialpolicychiefcallsforaggressiveinvestmentinA",
     "제조넘어가정까지…피지컬AI시장선점전략은",
     "한국콜마,내부거래비중67%로최고...대기업81곳16%",
@@ -3210,10 +3212,12 @@
     "코스피절반이삼성·하이닉스…시장이둘로갈라졌다",
     "HBM·TSMC랠리속소외된중국…자금,'AI인프라'로이동조짐",
     "오픈AI,자체AI칩'할라페뇨'공개…\"블랙웰·TPU와대등성능\"",
-    "티빙개인정보유출1953만명으로늘어…역대네번째규모"
+    "티빙개인정보유출1953만명으로늘어…역대네번째규모",
+    "오픈AI,자체AI칩‘할라페뇨’공개…“블랙웰·TPU와대등성능”",
+    "이웃에선'반도체축제'...전북선'200조공수표위기'"
    ],
    "initialized": true,
-   "last_run": "2026-06-25T03:20:31.113577+09:00"
+   "last_run": "2026-06-25T03:25:21.462270+09:00"
   }
  },
  "press_names": {
