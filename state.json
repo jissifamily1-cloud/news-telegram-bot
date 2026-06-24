@@ -4,38 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-24T15:05:28.390146+09:00",
-     "반도체 찾아라 슈퍼사이클 챔피언을 다음 미증유의"
-    ],
-    [
-     "2026-06-24T15:05:28.390146+09:00",
-     "plus chipmakers discuss Lee W100tr investment chip regional"
-    ],
-    [
-     "2026-06-24T15:05:28.390146+09:00",
-     ""
-    ],
-    [
-     "2026-06-24T15:05:28.390146+09:00",
-     "디지털자산 신속한 정비에 경쟁력 제도 달려 골든타임 성패"
-    ],
-    [
-     "2026-06-24T15:05:28.390146+09:00",
-     "Bi SK키파운드리 SCR 온칩 개발 EMC 기술"
-    ],
-    [
-     "2026-06-24T15:05:28.390146+09:00",
-     "반도체 움직임에 정치권 대구경북 호남공장 설립 반발"
-    ],
-    [
-     "2026-06-24T15:05:28.390146+09:00",
-     "코발트 국가안보 하원의원 경제안보가 전쟁"
-    ],
-    [
-     "2026-06-24T15:05:28.390146+09:00",
-     "첨단 가속화 아시아 동맹 패권에 테크 서방"
-    ],
-    [
      "2026-06-24T15:10:28.041829+09:00",
      "선박 4척 빠져나와 종전 합의 남았다 호르무즈서 18척 한국"
     ],
@@ -1234,12 +1202,13 @@
     [
      "2026-06-24T21:05:25.309537+09:00",
      "코인 거래소 달라졌다 보는 증권사 눈빛이"
+    ],
+    [
+     "2026-06-24T21:10:27.192844+09:00",
+     "비즈니스포스트 주요기사 아침의"
     ]
    ],
    "seen_urls": [
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=82493",
-    "https://economist.co.kr/article/view/ecn202606240024",
-    "https://www.chosun.com/economy/tech_it/2026/06/24/VKUNTJOYVVEDNFEMDYDHTTDBIE/",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=82496",
     "https://www.newsis.com/view/NISX20260624_0003681491",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8593772",
@@ -2736,12 +2705,12 @@
     "http://www.cctimes.kr/news/articleView.html?idxno=913299",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=271951",
     "http://www.e-platform.net/news/articleView.html?idxno=103272",
-    "https://www.mk.co.kr/article/12078518"
+    "https://www.mk.co.kr/article/12078518",
+    "https://www.hankyung.com/article/2026062462917",
+    "https://www.greened.kr/news/articleView.html?idxno=343269",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=440790"
    ],
    "seen_titles": [
-    "[현장수첩-김민아]잘나갈때사고더터진다…과속경쟁이부른청구서",
-    "[카드뉴스]'AI황제'젠슨황은누구인가…대만출생소년에서세계AI...",
-    "김용범\"지방반도체클러스터조성논의마무리단계...용인반도체지...",
     "대기업계열사내부거래비중16%…전년比소폭감소",
     "DK아시아,시행사브랜드평판6월1위…BS산업·신영뒤이어",
     "삼성전자,향후3년간자사주90조원사들인다...역대최대규모매입",
@@ -4238,10 +4207,13 @@
     "삼전·닉스충청권투자실현될까",
     "[SpecialReport]미·중반도체전쟁,美'MATCH법안'으로'EUV'넘어'D...",
     "\"전력수요·재생에너지급증에전력산업대대적변화…전력감독원설치...",
-    "증권사,코인거래소보는눈빛이달라졌다"
+    "증권사,코인거래소보는눈빛이달라졌다",
+    "\"SK하이닉스판건뼈저린실수\"…1조거물의뒤늦은후회",
+    "SK하이닉스,45조원규모ADR발행추진…내달10일나스닥상장목표",
+    "[6월25일자]비즈니스포스트아침의주요기사"
    ],
    "initialized": true,
-   "last_run": "2026-06-24T21:05:25.309537+09:00"
+   "last_run": "2026-06-24T21:10:27.192844+09:00"
   }
  },
  "press_names": {
