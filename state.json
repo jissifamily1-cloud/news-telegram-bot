@@ -205,7 +205,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.hani.co.kr/arti/politics/bluehouse/1265064.html",
     "https://news.tf.co.kr/read/economy/2336000.htm",
     "http://www.newsprime.co.kr/news/article.html?no=737845",
     "https://www.itbiznews.com/news/articleView.html?idxno=217083",
@@ -1704,10 +1703,10 @@
     "https://www.yna.co.kr/view/AKR20260625003200091?input=1195m",
     "https://www.ggilbo.com/news/articleView.html?idxno=1165084",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8594486",
-    "https://www.ytn.co.kr/_ln/0115_202606250318450575"
+    "https://www.ytn.co.kr/_ln/0115_202606250318450575",
+    "https://www.newsis.com/view/NISX20260624_0003680891"
    ],
    "seen_titles": [
-    "(LEAD)PresidentialpolicychiefcallsforaggressiveinvestmentinA",
     "제조넘어가정까지…피지컬AI시장선점전략은",
     "한국콜마,내부거래비중67%로최고...대기업81곳16%",
     "김용범\"韓,4년뒤G8수준국가\"…반도체쏠림지적엔\"경제파급효과...",
@@ -3206,10 +3205,11 @@
     "오픈AI,자체AI칩'할라페뇨'공개…\"블랙웰·TPU와대등성능\"",
     "티빙개인정보유출1953만명으로늘어…역대네번째규모",
     "오픈AI,자체AI칩‘할라페뇨’공개…“블랙웰·TPU와대등성능”",
-    "이웃에선'반도체축제'...전북선'200조공수표위기'"
+    "이웃에선'반도체축제'...전북선'200조공수표위기'",
+    "반도체머니에들썩이는집값…정부'공급확대'속도낸다"
    ],
    "initialized": true,
-   "last_run": "2026-06-25T03:30:38.292160+09:00"
+   "last_run": "2026-06-25T03:35:21.435515+09:00"
   }
  },
  "press_names": {
