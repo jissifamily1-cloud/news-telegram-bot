@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-24T06:25:23.436627+09:00",
-     "시총 순위 역전당한 삼성전자 경쟁도 순위도 SK하이닉스에"
-    ],
-    [
-     "2026-06-24T06:25:23.436627+09:00",
-     "ELD 낙아웃 완화 증가 경쟁 급등락에도 은행권 2분기 판매액 코스피"
-    ],
-    [
      "2026-06-24T06:30:36.289412+09:00",
      ""
     ],
@@ -1277,8 +1269,6 @@
     ]
    ],
    "seen_urls": [
-    "https://economist.co.kr/article/view/ecn202606230046",
-    "https://www.cnbizm.com/news/articleView.html?idxno=306384",
     "https://www.catchnews.kr/news/articleView.html?idxno=125298",
     "https://www.redian.org/news/articleView.html?idxno=256852",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=844818",
@@ -2776,11 +2766,11 @@
     "https://www.energy-news.co.kr/news/articleView.html?idxno=226330",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003245905&CMPT_CD=P0010",
     "https://www.yna.co.kr/view/AKR20260624093000008?input=1195m",
-    "https://www.tvreport.co.kr/entertainment/article/1056417/"
+    "https://www.tvreport.co.kr/entertainment/article/1056417/",
+    "https://www.datanet.co.kr/news/articleView.html?idxno=212587",
+    "http://www.newskr.kr/news/articleView.html?idxno=104905"
    ],
    "seen_titles": [
-    "끝내무너진'삼전닉스'…'외국인매도세'17년만에'최대낙폭'",
-    "코스피,하루만에9000→8200선마감…910포인트급락",
     "\"기술주활황에은행서증권사로머니무브\"미래에셋증권,고액자산가3...",
     "영화'현상수배',안방극장상륙...IPTV·VOD서비스전격개시",
     "[#통신풍향계]이스트-SKT-테라코'AI아바타'개발·LGU+'참전유공자...",
@@ -4278,10 +4268,12 @@
     "리츠2026년6월브랜드평판...SK리츠,롯데리츠,KB스타리츠順",
     "한국증시,선진국편입또불발…'원화폐쇄성'에가로막혔다",
     "코스피,장중하락전환후혼조세…8,100대서등락",
-    "'86세'전원주,증손주향한'무한애정'속…\"다해주고싶진않아\"[RE..."
+    "'86세'전원주,증손주향한'무한애정'속…\"다해주고싶진않아\"[RE...",
+    "수산아이앤티,'디바이스인증서비스'ISO/IEC27001획득",
+    "삼성전자,다시시총1위…반도체주급등에코스피상승"
    ],
    "initialized": true,
-   "last_run": "2026-06-24T12:25:21.830040+09:00"
+   "last_run": "2026-06-24T12:30:35.941576+09:00"
   }
  },
  "press_names": {
