@@ -210,10 +210,13 @@
     [
      "2026-06-25T03:10:29.676865+09:00",
      "HBM TSMC 자금 인프라 중국 이동 조짐 소외된 랠리"
+    ],
+    [
+     "2026-06-25T03:15:26.612830+09:00",
+     "대등 TPU와 블랙웰 성능 할라페뇨 AI칩 오픈AI 공개 자체"
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4421615",
     "http://www.newsfc.co.kr/news/articleView.html?idxno=79491",
     "http://www.yonhapnewstv.co.kr/news/MYH20260624115048kzT",
     "https://www.topstarnews.net/news/articleView.html?idxno=16109736",
@@ -1712,10 +1715,10 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=1782292176&code=11151100&cp=nv",
     "https://www.kyeonggi.com/article/20260624580625",
     "https://www.g-enews.com/view.php?ud=202606242121366749fbbec65dfb_1",
-    "https://www.g-enews.com/view.php?ud=202606241518129630fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202606241518129630fbbec65dfb_1",
+    "https://www.yna.co.kr/view/AKR20260625003200091?input=1195m"
    ],
    "seen_titles": [
-    "김용범\"지방반도체클러스터조성필요...용인은그대로\"",
     "한국인26명탄한국선박4척호르무즈해협통과",
     "호남반도체투자설에…경기남부·광주광역시부동산모두촉각",
     "김용범\"삼성·SK호남권투자논의중…논의막바지\"",
@@ -3214,10 +3217,11 @@
     "AI가흔든월급순위…연구개발·제조업종사자소득늘었다",
     "[사설]‘삼성팹이전없다’고정부가밝혀야한다",
     "코스피절반이삼성·하이닉스…시장이둘로갈라졌다",
-    "HBM·TSMC랠리속소외된중국…자금,'AI인프라'로이동조짐"
+    "HBM·TSMC랠리속소외된중국…자금,'AI인프라'로이동조짐",
+    "오픈AI,자체AI칩'할라페뇨'공개…\"블랙웰·TPU와대등성능\""
    ],
    "initialized": true,
-   "last_run": "2026-06-25T03:10:29.676865+09:00"
+   "last_run": "2026-06-25T03:15:26.612830+09:00"
   }
  },
  "press_names": {
