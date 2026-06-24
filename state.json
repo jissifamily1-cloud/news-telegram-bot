@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-24T18:30:39.334321+09:00",
-     ""
-    ],
-    [
      "2026-06-24T18:35:23.655848+09:00",
      "안봤는데 우려도 마이크론 뭐예요 삼전 이긴 무서워서 계좌"
     ],
@@ -394,12 +390,21 @@
     [
      "2026-06-25T00:30:33.860506+09:00",
      "충청에 그대로 호남 용인도 반도체클러스터"
+    ],
+    [
+     "2026-06-25T00:35:22.076209+09:00",
+     "결의 성과급 이르면 내달 산업부 여부 주총 금융위와 의무화"
+    ],
+    [
+     "2026-06-25T00:35:22.076209+09:00",
+     "HBM4에 생산 능력 절반 삼성전자 할당 HBM"
+    ],
+    [
+     "2026-06-25T00:35:22.076209+09:00",
+     "어른들이 정부 기업 일자리 청년 늘어나게 바꿔줘야"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000318529?division=NAVER",
-    "https://biz.chosun.com/stock/stock_general/2026/06/24/LR2ARI6FANEX3NIHIJDAGCYRH4/",
-    "https://www.joongang.co.kr/article/25439441",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=659213",
     "https://www.etoday.co.kr/news/view/2596743",
     "https://biz.sbs.co.kr/article_hub/20000318535?division=NAVER",
@@ -1896,12 +1901,12 @@
     "https://www.m-i.kr/news/articleView.html?idxno=1385041",
     "https://www.chosun.com/opinion/editorial/2026/06/25/MUVH55M32FD7ZP2RBGXI7NH4VM/",
     "https://www.joongang.co.kr/article/25439660",
-    "https://imnews.imbc.com/replay/2026/nw2500/article/6832660_36989.html"
+    "https://imnews.imbc.com/replay/2026/nw2500/article/6832660_36989.html",
+    "https://www.chosun.com/economy/industry-company/2026/06/25/UXV2QDHFFZGX3PCPV2JJE7IBA4/",
+    "https://www.chosun.com/economy/tech_it/2026/06/25/OFWC7FWEFNAIFM72PHM2T27IC4/",
+    "https://www.donga.com/news/Economy/article/all/20260624/134176690/2"
    ],
    "seen_titles": [
-    "대기업경영베테랑과함께중소기업어려움해결···'2026중소기업...",
-    "이찬진\"10조\"vs황성엽\"500억\"…숫자부터따져보자",
-    "[특징주]외국인'디와이에이·대한항공'담고…기관'삼성전자·SK하이...",
     "집도팔고실버타운들어가더니“CEO도떼돈번다”…전세계초고액...",
     "이시각주요뉴스",
     "두산로보틱스주가,강세...11%대급등",
@@ -3398,10 +3403,13 @@
     "LG트윈스5연승질주...염경엽감독통산700승",
     "[사설]수십년간‘지방불가’외치다갑자기호남으로간다는반도...",
     "[사설]증시변동성키우는레버리지ETF,당장보완해야",
-    "\"호남·충청에반도체클러스터‥용인도그대로\""
+    "\"호남·충청에반도체클러스터‥용인도그대로\"",
+    "‘N%성과급’주총결의의무화여부…산업부,금융위와이르면내달...",
+    "삼성전자,HBM생산능력절반HBM4에할당",
+    "“청년일자리늘어나게,정부-기업-어른들이룰바꿔줘야”"
    ],
    "initialized": true,
-   "last_run": "2026-06-25T00:30:33.860506+09:00"
+   "last_run": "2026-06-25T00:35:22.076209+09:00"
   }
  },
  "press_names": {
