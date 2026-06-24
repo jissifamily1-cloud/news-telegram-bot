@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-24T03:15:40.896879+09:00",
-     "인공지능 뉴욕증시 전반적 조정세 급락 기술주"
-    ],
-    [
      "2026-06-24T03:20:32.284971+09:00",
      "70달러 이란전 유가 투자 몰리는 기름값 시대 꺾이자 포스트"
     ],
@@ -870,14 +866,17 @@
     [
      "2026-06-24T09:15:26.620002+09:00",
      "급등 MSCI 삼성전자 마이크론 악재 선반영"
+    ],
+    [
+     "2026-06-24T09:20:29.784828+09:00",
+     "삼성 라던 주가 이준석 호남행 주가폭 5000은 하이닉스 표몰이"
+    ],
+    [
+     "2026-06-24T09:20:29.784828+09:00",
+     "에듀윌 기대감 실적 반등 청신호 신간 수험서"
     ]
    ],
    "seen_urls": [
-    "https://www.consumuch.com/news/articleView.html?idxno=78366",
-    "http://www.beyondpost.co.kr/view.php?ud=202606231446277275be44c0aacd_30",
-    "https://economist.co.kr/article/view/ecn202606230028",
-    "https://www.kado.net/news/articleView.html?idxno=2057303",
-    "https://www.ddaily.co.kr/page/view/2026062314442762514",
     "https://www.koreaherald.com/article/10785408",
     "http://www.newsprime.co.kr/news/article.html?no=737717",
     "https://www.newsis.com/view/NISX20260623_0003680020",
@@ -2372,14 +2371,14 @@
     "http://www.choicenews.co.kr/news/articleView.html?idxno=167028",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5033659",
     "https://www.mt.co.kr/stock/2026/06/24/2026062409074757815",
-    "https://www.seoul.co.kr/news/economy/securities/2026/06/24/20260624500025?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/economy/securities/2026/06/24/20260624500025?wlog_tag3=naver",
+    "https://biz.heraldcorp.com/article/10786025",
+    "https://www.thepowernews.co.kr/view.php?ud=202606240912315729de3f0aa1be_7",
+    "https://imnews.imbc.com/news/2026/econo/article/6832448_36932.html",
+    "https://www.pressian.com/pages/articles/2026062407233291740",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260624010008302"
    ],
    "seen_titles": [
-    "“시간당자문료시대종말”…‘LES2026’서법률AI생존전략모색",
-    "두산'광모듈용CCL'수요확대…수익성개선기대",
-    "코스피,8%대급락에‘서킷브레이커’발동…20분간매매중단",
-    "[속보]코스피8%↓폭락'서킷브레이커'…SK하닉도-11%'뚝'",
-    "이양수\"개인정보유출과징금규모극심한간극...기업6천억VS기관7억...",
     "코스피8300대까지밀렸다…서킷브레이커발동",
     "AIbreaksKoreamemory'sboom-bustcycle:CLSA",
     "중국빈자리노린K-배터리,미국ESS시장'정조준'",
@@ -3874,10 +3873,15 @@
     "美AI·반도체주'쇼크'속...코스피·코스닥은'상승출발'",
     "LG·두산,내부거래비중50%넘어..1위는67%한국콜마",
     "\"너무떨었나\"실적끄떡없다는리포트에…삼전닉스'불기둥'",
-    "[속보]MSCI·마이크론악재선반영?삼성전자7%대급등"
+    "[속보]MSCI·마이크론악재선반영?삼성전자7%대급등",
+    "“코스피10%폭락?싸게살기회”…1만1500피간다는전망나왔다",
+    "새로대기업된한국콜마,내부거래67.5%‘최고’…오리온도3위",
+    "코스피,약2%상승출발하며반등‥환율4원내린1,534원으로시작",
+    "\"주가5000은표몰이\"라던이준석,'삼성·하이닉스호남행'으로주가폭...",
+    "SK수험서신간기대감↑…에듀윌,실적반등청신호?"
    ],
    "initialized": true,
-   "last_run": "2026-06-24T09:15:26.620002+09:00"
+   "last_run": "2026-06-24T09:20:29.784828+09:00"
   }
  },
  "press_names": {
