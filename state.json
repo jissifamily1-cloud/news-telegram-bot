@@ -386,15 +386,21 @@
     [
      "2026-06-25T06:50:32.958414+09:00",
      "실수 워런 버핏 SK하이닉스 매도 뼈저린 파브라이 제자"
+    ],
+    [
+     "2026-06-25T06:55:21.554321+09:00",
+     "역설 호황이 사이클 만든 구형 HBM 폭등의 피크 신호 D램"
+    ],
+    [
+     "2026-06-25T06:55:21.554321+09:00",
+     "거두며 2026년 7연 NC에 6월 3년 24일 롯데 만에 역전승"
+    ],
+    [
+     "2026-06-25T06:55:21.554321+09:00",
+     "따라 지역 천차만별 참전명예수당"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12081835",
-    "https://www.delighti.co.kr/news/articleView.html?idxno=118111",
-    "https://www.mk.co.kr/article/12081834",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=263814",
-    "https://www.ddaily.co.kr/page/view/2026062413092743585",
-    "https://www.womentimes.co.kr/news/articleView.html?idxno=103862",
     "http://www.fnnews.com/news/202606241341123427",
     "https://byline.network/?p=9004111222609432",
     "https://www.g-enews.com/view.php?ud=202606241103453074112616b072_1",
@@ -1888,15 +1894,15 @@
     "https://biz.sbs.co.kr/article_hub/20000318698?division=NAVER",
     "https://biz.heraldcorp.com/article/10786938",
     "https://www.pressian.com/pages/articles/2026062316234601833",
-    "https://www.joongang.co.kr/article/25439734"
+    "https://www.joongang.co.kr/article/25439734",
+    "http://www.fnnews.com/news/202606250646161697",
+    "https://www.joongang.co.kr/article/25439736",
+    "https://news.bizwatch.co.kr/article/industry/2026/06/24/0042",
+    "https://www.g-enews.com/view.php?ud=202606250633393906fbbec65dfb_1",
+    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=373683",
+    "https://www.ytn.co.kr/_ln/0103_202606250648311573"
    ],
    "seen_titles": [
-    "이상일용인시장\"용인국가산단팹이전없다\"",
-    "AI시대핵심CXL시장성장기대여전…단기조정은기회일까",
-    "[하지수한류이야기]치맥에서HBM까지,젠슨황이본한국의힘",
-    "AI가만든인터넷트래픽,처음으로사람트래픽추월",
-    "[서울데이터랩]삼성전자강세에도반도체대형주엇갈려…코스피시총...",
-    "모빌리티·스마트건설·AI시티…미래국토교통기술,코엑스서한자리에",
     "삼성·SK,호남반도체클러스터논의급물살…김용범\"마무리단계\"",
     "어쨌든AI·반도체…부자들의주식포트폴리오열어보니",
     "\"계획중인용인반도체클러스터지방이전아냐...새로운걸만드는것...",
@@ -3390,10 +3396,16 @@
     "내달나스닥상장사되는SK하이닉스…45조원실탄확보",
     "삼전닉스취업보장에너도나도우르르…반도체고입시지형바꾼다[...",
     "\"반도체초과이익,하청공유·공유부기금설치\"시민60%이상동의",
-    "‘워런버핏제자’파브라이“SK하이닉스매도뼈저린실수”"
+    "‘워런버핏제자’파브라이“SK하이닉스매도뼈저린실수”",
+    "항의하려산하닉주식이100배수익권...김문수뜻밖의재테크",
+    "“AI투자열풍,준버블붕괴조짐”…노벨경제학상수상자,반도체주...",
+    "[인사이드스토리]동전주서시총1위'각축'…SK하닉눈부신비약이의...",
+    "구형D램폭등의역설,HBM호황이만든사이클피크신호",
+    "[게임노트]2026년6월24일…롯데,NC에5-3역전승거두며3년만에7연...",
+    "[스타트브리핑]지역따라'천차만별'참전명예수당"
    ],
    "initialized": true,
-   "last_run": "2026-06-25T06:50:32.958414+09:00"
+   "last_run": "2026-06-25T06:55:21.554321+09:00"
   }
  },
  "press_names": {
@@ -3701,6 +3713,7 @@
   "andongmbc.co.kr": "andongmbc.co.kr",
   "danbinews.com": "단비뉴스",
   "jtv.co.kr": "jtv.co.kr",
-  "jbsori.com": "전북의소리"
+  "jbsori.com": "전북의소리",
+  "thesportstimes.co.kr": "thesportstimes.co.kr"
  }
 }
