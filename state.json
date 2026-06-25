@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-25T07:10:31.640896+09:00",
-     "7월 ADR 상장 SK하이닉스"
-    ],
-    [
      "2026-06-25T07:15:30.340851+09:00",
      "SK실트론까지 태평양 롯데렌탈에 빅딜 징크스"
     ],
@@ -1246,12 +1242,17 @@
     [
      "2026-06-25T13:10:30.617766+09:00",
      "chip selloff may bubb Nobel point to quasi laureate warns economics"
+    ],
+    [
+     "2026-06-25T13:15:29.367538+09:00",
+     "전북 전남광주 재고 상실감 분산 반도체 배치해야 커지는 몰빵"
+    ],
+    [
+     "2026-06-25T13:15:29.367538+09:00",
+     "공개 오픈AI 브로드컴과 자체 AI칩"
     ]
    ],
    "seen_urls": [
-    "https://www.kbmaeil.com/article/20260624500624",
-    "https://www.namdonews.com/news/articleView.html?idxno=914709",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=271944",
     "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160301750536744",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8594032",
     "https://www.news1.kr/industry/general-industry/6207492",
@@ -2748,12 +2749,12 @@
     "https://www.sisajournal.com/news/articleView.html?idxno=377683",
     "https://www.naeil.com/news/read/593121",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4421849",
-    "https://www.koreajoongangdaily.com/business/nobel-economics-laureate-warns-chip-selloff-may-point-to-ai-quasi-bubble-starting-to-burst/12739896"
+    "https://www.koreajoongangdaily.com/business/nobel-economics-laureate-warns-chip-selloff-may-point-to-ai-quasi-bubble-starting-to-burst/12739896",
+    "https://www.joongang.co.kr/article/25439822",
+    "https://www.news1.kr/local/jeonbuk/6208192",
+    "https://www.naeil.com/news/read/593159"
    ],
    "seen_titles": [
-    "SK하이닉스,ADR수요예측뒤나스닥상장…\"제대로기업가치평가\"(종합...",
-    "\"집값더오른다며계약깼다…수도권비규제지역'풍선효과'확산\"",
-    "SKhynixaimstoraise$29BinADRlistingtofundchiprush",
     "SK하이닉스,미국서가치재평가…\"글로벌컴퍼니위상높아질것\"",
     "전주서호텔업주방화로불…새벽대피소동",
     "[기고]경북정치권이지금침묵하면경북은10년을잃는다…'반도체클...",
@@ -4250,10 +4251,13 @@
     "나스닥행확정한SK하이닉스,다음스텝은액면분할?",
     "LGU+,5G속도과장광고행정소송패소",
     "[곽세연의프리즘]'살기위한'달러펀딩에서'판을바꾸는'나스닥으로",
-    "NobeleconomicslaureatewarnschipselloffmaypointtoAI‘quasibubb"
+    "NobeleconomicslaureatewarnschipselloffmaypointtoAI‘quasibubb",
+    "“평당1000원에용지분양”…구미,반도체팹유치파격제안",
+    "반도체상실감커지는전북…\"전남광주몰빵재고,분산배치해야\"",
+    "오픈AI,브로드컴과자체AI칩공개"
    ],
    "initialized": true,
-   "last_run": "2026-06-25T13:10:30.617766+09:00"
+   "last_run": "2026-06-25T13:15:29.367538+09:00"
   }
  },
  "press_names": {
