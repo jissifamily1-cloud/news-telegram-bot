@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-25T18:10:29.080260+09:00",
-     "광고비는 증권사 고공행진 코스피 뒷걸음질"
-    ],
-    [
-     "2026-06-25T18:10:29.080260+09:00",
-     "9천피 코스닥은 붕괴 질주 바짝 900선 SK하닉"
-    ],
-    [
-     "2026-06-25T18:10:29.080260+09:00",
-     "지어 갖춘 노린다 데이터센터 발전소 직접 시너지 GS 비수도권"
-    ],
-    [
-     "2026-06-25T18:10:29.080260+09:00",
-     "수도권 완성 깬다 fn이 해양수도 만난 북극항로로 부산 일극체제"
-    ],
-    [
      "2026-06-25T18:15:27.494512+09:00",
      "비틀 기업 당심 얻으려 호남"
     ],
@@ -566,17 +550,33 @@
     [
      "2026-06-26T00:05:24.148795+09:00",
      "이동평균선 숨고르기 9천 앞둔 코스피 고지 20일"
+    ],
+    [
+     "2026-06-26T00:10:29.873813+09:00",
+     "조치 1550원 환율 눈앞 무엇이든 진정 달러 나와야"
+    ],
+    [
+     "2026-06-26T00:10:29.873813+09:00",
+     "목표가 저평가 코스피 흔든다 430만원 SK하닉 끝낼까 ADR"
+    ],
+    [
+     "2026-06-26T00:10:29.873813+09:00",
+     "언제 역대급 삼성전자 받을까 실적발표 성적표 SK하이닉스 2분기"
+    ],
+    [
+     "2026-06-26T00:10:29.873813+09:00",
+     "분배의 그늘 9000시대 코스피 성장의 빛과"
+    ],
+    [
+     "2026-06-26T00:10:29.873813+09:00",
+     "스페셜리스트냐 제너럴리스트냐 문제인가 그것이"
+    ],
+    [
+     "2026-06-26T00:10:29.873813+09:00",
+     "기업이 정하고 밀었다 정부는 반도체 성공 방정식"
     ]
    ],
    "seen_urls": [
-    "https://www.insight.co.kr/news/560092",
-    "https://www.insight.co.kr/news/560113",
-    "https://www.greened.kr/news/articleView.html?idxno=343318",
-    "https://www.seoul.co.kr/news/economy/securities/2026/06/25/20260625500141?wlog_tag3=naver",
-    "https://www.ytn.co.kr/_ln/0104_202606251254570450",
-    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5201893",
-    "https://www.naeil.com/news/read/593098",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=219149",
     "https://www.viewsnnews.com/article?q=236734",
     "https://www.seoul.co.kr/news/economy/securities/2026/06/25/20260625500140?wlog_tag3=naver",
     "https://www.gokorea.kr/news/articleView.html?idxno=870322",
@@ -2068,17 +2068,17 @@
     "https://www.joongang.co.kr/article/25439974",
     "https://www.news1.kr/society/general-society/6208569",
     "https://www.newsis.com/view/NISX20260625_0003683776",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=80529"
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=80529",
+    "https://www.joongang.co.kr/article/25440017",
+    "https://www.joongang.co.kr/article/25440012",
+    "https://www.hankyung.com/article/2026062585791",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1782378878&code=11151400&cp=nv",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3618252",
+    "http://www.jeollailbo.com/news/articleView.html?idxno=803618",
+    "https://m.skyedaily.com/news_view.html?ID=306584",
+    "https://www.joongang.co.kr/article/25440013"
    ],
    "seen_titles": [
-    "SKBiopharmaceuticalsBetsonEast-WestBridgewithAI",
-    "“평당1000원승부수”던진구미…반도체팹유치총력전",
-    "[투자전략]삼성전자·SK하이닉스,하반기메모리가격시장예상웃돈...",
-    "경기도\"中추격맞서용인클러스터로K-반도체초격차완성\"",
-    "'220조큰손'노르웨이스토어브랜드\"삼성화재·KCC·현대모비스,숨겨...",
-    "JP모건,S&P500연말목표가7800상향...약6%상승여력",
-    "코스피8900선회복...개장하자마자5%폭등",
-    "마이크론,매출4배·영업익15배급증…'삼전닉스'실적기대감확대",
     "[서울데이터랩]반도체·지주사급등에시총상위주강세…SK17%대,SK하이...",
     "'메모리반도체빅3'마이크론,분기매출4배로증가...최고기록경신",
     "마이크론'역대급실적'…삼성·SK하이닉스도'청신호'[프레스룸경제...",
@@ -3570,10 +3570,18 @@
     "'삼전닉스'교육과정평가원장,40억대주식부자군산대부총장",
     "김회천한수원사장재산48.6억…'송파상속'포함서울아파트2채소...",
     "'수능주관'평가원장재산99억…전재경부차관보285억",
-    "[더페어돋보기]코스피9천고지앞둔숨고르기…20일이동평균선'최..."
+    "[더페어돋보기]코스피9천고지앞둔숨고르기…20일이동평균선'최...",
+    "대통령“수도권일극땐위기폭풍온다”…호남반도체속도",
+    "AI칩직접만드는빅테크…오픈AI‘할라페뇨’내놨다",
+    "[사설]원·달러환율1550원눈앞…무엇이든진정조치나와야",
+    "SK하닉ADR‘저평가’끝낼까…목표가430만원,코스피흔든다",
+    "삼성전자·SK하이닉스2분기실적발표언제?역대급성적표받을까",
+    "코스피9000시대,성장의빛과분배의그늘",
+    "[최송목의CEO전략]스페셜리스트냐제너럴리스트냐,그것이문제인가",
+    "기업이정하고정부는밀었다…미·일·중,반도체성공방정식"
    ],
    "initialized": true,
-   "last_run": "2026-06-26T00:05:24.148795+09:00"
+   "last_run": "2026-06-26T00:10:29.873813+09:00"
   }
  },
  "press_names": {
