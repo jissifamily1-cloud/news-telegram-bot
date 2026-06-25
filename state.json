@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-25T18:35:24.460557+09:00",
-     "재선시장 용인시 염원의 탄생은 시민 승리"
-    ],
-    [
-     "2026-06-25T18:35:24.460557+09:00",
-     "SK하이닉스 개선 재무구조 AAA는 한신평 유증 지켜봐야"
-    ],
-    [
-     "2026-06-25T18:35:24.460557+09:00",
-     "갈등으로 투자설에 지역 떠들썩 삼전닉스 번지나 전국이 호남"
-    ],
-    [
-     "2026-06-25T18:35:24.460557+09:00",
-     "소리 반도체 듣는 비틀고 관치경제 호남행"
-    ],
-    [
      "2026-06-25T18:40:30.375674+09:00",
      "선수금 D램 달러 확정 1000억 5년치 최소 고객 낸드 매출 달라"
     ],
@@ -506,10 +490,13 @@
     [
      "2026-06-26T00:35:22.642493+09:00",
      "아이패드 가격 공급난에 맥북 메모리 인상 애플"
+    ],
+    [
+     "2026-06-26T00:40:26.513805+09:00",
+     "오픈AI 배치 공개 올해 데이터센터 반도체 자체 말부터"
     ]
    ],
    "seen_urls": [
-    "https://www.gokorea.kr/news/articleView.html?idxno=870324",
     "https://www.sisajournal.com/news/articleView.html?idxno=377683",
     "https://www.naeil.com/news/read/593121",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4421849",
@@ -2008,10 +1995,10 @@
     "https://www.chosun.com/economy/economy_general/2026/06/26/N2LZSCMKWRC2RLWSR6MGXU2XXQ/",
     "https://www.chosun.com/economy/economy_general/2026/06/26/7OXF74HTWVCFHODU7JUNDRKCYA/",
     "https://www.donga.com/news/Economy/article/all/20260625/134184582/2",
-    "https://www.bloter.net/news/articleView.html?idxno=666594"
+    "https://www.bloter.net/news/articleView.html?idxno=666594",
+    "https://www.chosun.com/economy/tech_it/2026/06/26/SNYFSVCN6RAWXBQFF7UMCZXXBI/"
    ],
    "seen_titles": [
-    "[속보]SK오션플랜트VI발동,주가20%대도약…코스피상승속강세",
     "코스피,반도체훈풍에5%급등…'9000선'재도전",
     "기업이K-청년인재직접키운다…'K-뉴딜아카데미'72개과정확대",
     "삼전닉스로부자늘자…증권사,자산가'가문관리'경쟁",
@@ -3510,10 +3497,11 @@
     "“인공지능경쟁,국가대항전양상…칩·인프라·모델·플랫폼아울러...",
     "‘3高’리스크헤쳐갈경제부처핵심인재들…삼전닉스임원으로이...",
     "삼성전자,1분기D램1위수성…하이닉스와격차9%P로벌려",
-    "애플,메모리공급난에맥북·아이패드가격인상"
+    "애플,메모리공급난에맥북·아이패드가격인상",
+    "오픈AI,자체AI반도체공개…올해말부터데이터센터배치"
    ],
    "initialized": true,
-   "last_run": "2026-06-26T00:35:22.642493+09:00"
+   "last_run": "2026-06-26T00:40:26.513805+09:00"
   }
  },
  "press_names": {
