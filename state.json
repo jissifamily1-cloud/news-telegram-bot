@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-25T22:45:31.650652+09:00",
-     "정치권도 클러스터 시끌 반도체"
-    ],
-    [
-     "2026-06-25T22:45:31.650652+09:00",
-     "어젠 수밖에 이러니 단타 빚투 급등 오늘은 폭락"
-    ],
-    [
      "2026-06-25T22:55:27.364193+09:00",
      "하이닉스 떡상 슬기 안재현 초록우산 예능 깜짝 답변에 초등학생"
     ],
@@ -269,7 +261,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.cstimes.com/news/articleView.html?idxno=711104",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4421853",
     "https://www.widedaily.com/news/articleView.html?idxno=296433",
     "https://biz.sbs.co.kr/article_hub/20000318762?division=NAVER",
@@ -1768,10 +1759,10 @@
     "https://www.hankookilbo.com/news/article/A2026062512250001560?did=NA",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=167119",
     "https://www.pressian.com/pages/articles/2026062516390492247",
-    "https://www.donga.com/news/Economy/article/all/20260626/134185437/2"
+    "https://www.donga.com/news/Economy/article/all/20260626/134185437/2",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01580966645485656"
    ],
    "seen_titles": [
-    "삼성전자,D램2분기연속1위...HBM은SK하이닉스가58%",
     "국힘TK의원들\"반도체클러스터,시장논리로결정해야\"반발",
     "KT,클라우드다시품을까?",
     "삼성D램38%로1위수성…SK하이닉스는HBM선두유지",
@@ -3270,10 +3261,11 @@
     "호남반도체는누가만들까[뉴스룸에서]",
     "뉴욕증시장중,메모리반도체주'뛰고'vs애플'추락'·나스닥'하락'",
     "국민의힘,'호남반도체클러스터'론에부정적…양향자만\"불가피\"",
-    "울고웃는‘칩스피’…마이크론영업익15배뛰자장중9000피탈환"
+    "울고웃는‘칩스피’…마이크론영업익15배뛰자장중9000피탈환",
+    "애플,메모리수급난에맥북등가격줄인상…주가6%↓"
    ],
    "initialized": true,
-   "last_run": "2026-06-26T04:45:24.784390+09:00"
+   "last_run": "2026-06-26T04:50:26.458639+09:00"
   }
  },
  "press_names": {
