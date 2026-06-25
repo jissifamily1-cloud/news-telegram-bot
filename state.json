@@ -302,12 +302,17 @@
     [
      "2026-06-26T05:20:27.667872+09:00",
      "성과급 언제까지 파업 정부 건너 불구경 현대차도"
+    ],
+    [
+     "2026-06-26T05:22:54.039442+09:00",
+     "주가 폭등이 재산분 5배 파기환송심 재개 노소영 최태원 바꾼"
+    ],
+    [
+     "2026-06-26T05:22:54.039442+09:00",
+     "M17 공장 설계 시동 메가 SK하이닉스 청주 착수"
     ]
    ],
    "seen_urls": [
-    "http://www.joseilbo.com/news/news_read.php?uid=570721&class=53",
-    "https://www.newsinside.kr/news/articleView.html?idxno=4791086",
-    "https://www.etoday.co.kr/news/view/2597231",
     "http://www.metroseoul.co.kr/article/20260625500173",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=263927",
     "https://www.nocutnews.co.kr/news/6538541",
@@ -1804,12 +1809,12 @@
     "https://www.newsis.com/view/NISX20260625_0003684005",
     "https://www.imaeil.com/page/view/2026062516394838822",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=263957",
-    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/06/26/20260626027007?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/06/26/20260626027007?wlog_tag3=naver",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606251510454950804",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606251249121260752",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606250916371920687"
    ],
    "seen_titles": [
-    "\"정치논리에좌우\"…여야,호남반도체클러스터놓고정면충돌",
-    "[투자전략]AI에이전트,1800억달러B2B시장이끈다…AI수익화시작",
-    "[이채정의엮어읽기]트레이딩초고수가말했다\"내가왜이겼는지모르...",
     "전기차정체에밀렸던ESS,AI타고돌아올까?",
     "AI?반도체산업벨트확대…‘더웨스트마곡데시앙’",
     "SK하이닉스미국증시데뷔…45조신주ADR로발행",
@@ -3306,10 +3311,13 @@
     "\"신규투자,예산초과시실적악화우려\"SK하이닉스가꼽은사업위험요...",
     "[야고부-한윤조]한국형공포지수",
     "[하계다보스포럼결산③]'알고리즘맹신'이아닌물리적공급망과AI의...",
-    "[사설]현대차도성과급파업…정부,강건너불구경언제까지"
+    "[사설]현대차도성과급파업…정부,강건너불구경언제까지",
+    "최태원의승부수…용인~청주~호남잇는‘초대형AI반도체벨트’",
+    "최태원·노소영파기환송심오늘재개…SK주가5배폭등이바꾼재산분...",
+    "[단독]SK하이닉스메가팹시동…청주M17공장설계착수"
    ],
    "initialized": true,
-   "last_run": "2026-06-26T05:20:27.667872+09:00"
+   "last_run": "2026-06-26T05:22:54.039442+09:00"
   }
  },
  "press_names": {
