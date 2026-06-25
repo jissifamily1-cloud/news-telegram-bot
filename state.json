@@ -541,8 +541,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.gukjenews.com/news/articleView.html?idxno=3617693",
-    "https://biz.chosun.com/industry/company/2026/06/25/IU5T5V6WQJCGFB76RROKWG2GE4/",
     "https://www.mt.co.kr/tech/2026/06/25/2026062508391777399",
     "https://www.naeil.com/news/read/593137",
     "https://www.joongangenews.com/news/articleView.html?idxno=528254",
@@ -2040,11 +2038,11 @@
     "https://www.munhwa.com/article/11598317",
     "https://www.joongang.co.kr/article/25440020",
     "http://www.kwangju.co.kr/article.php?aid=1782400500800554074",
-    "https://www.hankyung.com/article/2026062585401"
+    "https://www.hankyung.com/article/2026062585401",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1782370933&code=11131420&cp=nv",
+    "https://www.chosun.com/opinion/editorial/2026/06/26/K4YUGCKZIJA4HGAH7Z3RKF3FJ4/"
    ],
    "seen_titles": [
-    "전북발끈\"반도체투자'광주몰빵'안돼\"",
-    "[서울데이터랩]삼성전자·SK하이닉스급등속거래집중…보해양조는하...",
     "반도체공장입지,대통령이아니라기업이결정해야한다",
     "구미의1조2,000억승부수,“82만평을평당1,000원에”…반도체지형...",
     "반도체호재에광주·전남상장사주가급등…테마주과열경고",
@@ -3542,10 +3540,12 @@
     "與‘삼전닉스호남투자설’비판에“정치아닌경제적판단”",
     "[권남훈의이코노믹스]반도체호황,흘려보내지말고재투자로성장동...",
     "전남광주반도체투자지역균형발전모델로",
-    "[김수언칼럼]정부안에제2,제3의선관위는없나"
+    "[김수언칼럼]정부안에제2,제3의선관위는없나",
+    "부산기장해상서어선침몰…한국인선장사망",
+    "[사설]民主전대촉발‘반도체정치’,영남·충청에전남·북갈등까..."
    ],
    "initialized": true,
-   "last_run": "2026-06-26T00:20:32.426464+09:00"
+   "last_run": "2026-06-26T00:25:24.146759+09:00"
   }
  },
  "press_names": {
