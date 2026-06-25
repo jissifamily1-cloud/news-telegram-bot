@@ -562,12 +562,13 @@
     [
      "2026-06-26T07:45:24.673786+09:00",
      "삼성물산 등극 폭등에 반사이익 SK스퀘어 삼성전자 제2의"
+    ],
+    [
+     "2026-06-26T07:50:27.284915+09:00",
+     "사용료 브랜드 거래 적정성 공정위 현장조사 한화그룹 상표권 들여다"
     ]
    ],
    "seen_urls": [
-    "https://www.mediapen.com/news/view/1106470",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04480486645485328",
-    "https://news.dealsitetv.com/articles/172387",
     "http://www.metroseoul.co.kr/article/20260625500224",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=80518",
     "https://www.smartbizn.com/news/articleView.html?idxno=147023",
@@ -2064,12 +2065,12 @@
     "https://www.g-enews.com/view.php?ud=202606260725458756fbbec65dfb_1",
     "https://view.asiae.co.kr/article/2026062607423541300",
     "https://slownews.kr/162232",
-    "https://www.mediawatch.kr/news/article.html?no=260194"
+    "https://www.mediawatch.kr/news/article.html?no=260194",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=264020",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02601046645485656",
+    "https://www.news2day.co.kr/article/20260625500167"
    ],
    "seen_titles": [
-    "반도체클러스터지정시'비수도권'우대…기반시설최대100%국가부담",
-    "코스피,기관'사자'에6%대상승…9천피재탈환(상보)",
-    "AI반도체재무전략갈린삼성·SK…자사주소각vsADR상장",
     "코스피,장중6.25%상승'9천포인트'탈환…기관3.9조순매수",
     "부산주요기업2024년연구개발에3842억투자…최근5년내최고",
     "'포모'에보험던진투자자들…보장공백·대출부메랑우려",
@@ -3566,10 +3567,13 @@
     "퀄컴‘HBC’변수…엔비디아·韓메모리동맹흔드는승부수",
     "민기식號1년SK쉴더스,생활안전·돌봄기술역량확대한다",
     "“집단식중독이라도걸렸나”“90분동안뭘본건가”,충격의한국...",
-    "[심층분석]삼성물산,제2의SK스퀘어등극…삼성전자폭등에반사이익..."
+    "[심층분석]삼성물산,제2의SK스퀘어등극…삼성전자폭등에반사이익...",
+    "\"풀스택역량시너지\"…SKT,SK하이닉스미국AI투자법인에7383억출자",
+    "SK하이닉스,일단목표가360만원상향...아직끝아냐-하나",
+    "공정위,한화그룹상표권거래현장조사…브랜드사용료적정성들여다..."
    ],
    "initialized": true,
-   "last_run": "2026-06-26T07:45:24.673786+09:00"
+   "last_run": "2026-06-26T07:50:27.284915+09:00"
   }
  },
  "press_names": {
