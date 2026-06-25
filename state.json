@@ -386,15 +386,25 @@
     [
      "2026-06-26T06:40:25.550563+09:00",
      "성과 지역 산업생태계로 반도체 초호황 환류해야"
+    ],
+    [
+     "2026-06-26T06:50:26.549983+09:00",
+     "야간선물 코스피200 1440선 하락 약세에 빅테크 후퇴"
+    ],
+    [
+     "2026-06-26T06:50:26.549983+09:00",
+     "증권사 강화 빚투 리스크 사상 관리"
+    ],
+    [
+     "2026-06-26T06:50:26.549983+09:00",
+     "열린다 올렸다 1만5000 JP모건 목표치 랠리에 코스피"
+    ],
+    [
+     "2026-06-26T06:50:26.549983+09:00",
+     "730조 셀코리아의 외국인 불었다 팔고도 역설 47조"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH202606251416048EM",
-    "https://m.skyedaily.com/news_view.html?ID=306629",
-    "https://www.news1.kr/local/daegu-gyeongbuk/6208272",
-    "https://www.greened.kr/news/articleView.html?idxno=343341",
-    "https://news.dealsitetv.com/articles/172384",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1713912",
     "https://www.inthenews.co.kr/news/article.html?no=88519",
     "https://www.donga.com/news/Economy/article/all/20260625/134180020/1",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590287268549",
@@ -1888,15 +1898,15 @@
     "https://www.g-enews.com/view.php?ud=202606260631057395e250e8e188_1",
     "https://www.labortoday.co.kr/news/articleView.html?idxno=235368",
     "https://www.joongang.co.kr/article/25440083",
-    "https://www.kbmaeil.com/article/20260626500017"
+    "https://www.kbmaeil.com/article/20260626500017",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1713984",
+    "https://biz.sbs.co.kr/article_hub/20000318986?division=NAVER",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463194",
+    "http://www.bizwnews.com/news/articleView.html?idxno=139415",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1713982",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1713983"
    ],
    "seen_titles": [
-    "“다이소보다싸”...반도체공장부지평당1000원에내놓은구미시",
-    "한국거래소,주식위클리옵션도입연기…시장상황고려",
-    "범야권,'반도체호남클러스터'거론에\"정치논리접근그만\"총공세",
-    "한동훈,‘반도체호남행’에“반도체입지,명청대전전대용총알아...",
-    "[에코플랜트밸류업]⑥비핵심자산정리'재무안정성'확보",
-    "코스피,오후장중6%상승해9,000선눈앞",
     "[사설]호남반도체밸리환영…발목잡기식반대곤란",
     "강명구\"李정부,정치논리로반도체산업미래죽이지말아야\"",
     "[데이터뉴스룸]유통상사50곳올초반영업益성적'양호'…롯데쇼핑...",
@@ -3390,10 +3400,16 @@
     "마이크론호실적'나비효과'…샌디스크·웨스턴디지털등반도체주'훨...",
     "반도체초호황성과,지역산업생태계로환류해야",
     "SK하이닉스신입채용이어54개직무경력직채용나서",
-    "이재명,이재용과청와대회동…호남반도체팹투자최종조율"
+    "이재명,이재용과청와대회동…호남반도체팹투자최종조율",
+    "마이크론폭등,애플급락…AI호황,빅테크마진흔들었다",
+    "반도체투자발표'초읽기'…李대통령-이재용회동",
+    "코스피200야간선물1.45%하락…빅테크약세에1440선후퇴",
+    "\"빚투사상최대\"…증권사,리스크관리강화",
+    "JP모건\"코스피1만5000열린다\"…AI랠리에또목표치올렸다",
+    "\"47조팔고도730조불었다\"…외국인'셀코리아의역설'"
    ],
    "initialized": true,
-   "last_run": "2026-06-26T06:45:23.637930+09:00"
+   "last_run": "2026-06-26T06:50:26.549983+09:00"
   }
  },
  "press_names": {
