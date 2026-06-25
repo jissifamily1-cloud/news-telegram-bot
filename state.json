@@ -1194,14 +1194,13 @@
     [
      "2026-06-25T21:20:30.791957+09:00",
      "비즈니스포스트 주요기사 아침의"
+    ],
+    [
+     "2026-06-25T21:30:36.189756+09:00",
+     "도심 기업 양봉부터 사회책 토공설계까지"
     ]
    ],
    "seen_urls": [
-    "https://www.newdaily.co.kr/site/data/html/2026/06/25/2026062500127.html",
-    "http://www.newsbrite.net/news/articleView.html?idxno=198857",
-    "https://www.ytn.co.kr/_ln/0101_202606251140557500",
-    "https://www.econotimes.com/South-Koreas-KOSPI-Jumps-Over-5-as-Samsung-SK-Hynix-Rally-on-Micron-Earnings-Boost-1745104",
-    "https://www.yna.co.kr/view/AKR20260625083600008?input=1195m",
     "https://www.donga.com/news/Economy/article/all/20260625/134180056/1",
     "https://biz.sbs.co.kr/article_hub/20000318812?division=NAVER",
     "https://www.sedaily.com/article/20060019",
@@ -2696,14 +2695,14 @@
     "https://www.businesspost.co.kr/BP?command=article_view&num=440894",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=552144",
     "https://daily.hankooki.com/news/articleView.html?idxno=1380034",
-    "http://www.newstown.co.kr/news/articleView.html?idxno=707316"
+    "http://www.newstown.co.kr/news/articleView.html?idxno=707316",
+    "https://www.kyeonggi.com/article/20260625580593",
+    "https://www.munhwa.com/article/11598304",
+    "https://www.ngonews.kr/news/articleView.html?idxno=231730",
+    "https://www.chosun.com/national/incident/2026/06/25/MTXXWBGUGVCAJNEGUXMF7LXI2M/",
+    "https://www.smartbizn.com/news/articleView.html?idxno=147075"
    ],
    "seen_titles": [
-    "호남반도체클러스터놓고여야충돌…與\"경제적판단\"野\"관치경제\"",
-    "SKT'A.XK1'철강·차부품공장간다..독자AI로AX시장정조준",
-    "원전과미스매치·정치쟁점화…‘호남반도체’걱정된다[사설]",
-    "\"3위마이크론이정도야?\"…삼전닉스메모리실적랠리'기대'",
-    "안도걸\"국민의힘,광주·전남반도체투자정쟁화대신협력하라\"",
     "경기지사시절'하이닉스살리자'며산주식…김문수100배수익거뒀...",
     "李대통령,이재용회장과오늘비공개회동...반도체·지방투자논의...",
     "민주,'삼전닉스호남투자설'에\"경제적판단...국힘,지역갈등조장\"",
@@ -4198,10 +4197,15 @@
     "[6월26일자]비즈니스포스트아침의주요기사",
     "李대통령\"핵심산업대규모투자,영남등지방확대필수\"",
     "영주SK스페셜티서가스누출신고…\"파악중\"",
-    "이상일용인특례시장\"용인반도체국가산단백지화막았다…관계기관..."
+    "이상일용인특례시장\"용인반도체국가산단백지화막았다…관계기관...",
+    "[속보]영주SK스페셜티서가스누출의심신고…업체\"확인중\"",
+    "영주SK스페셜티서가스누출신고…업체“파악중”",
+    "이재명대통령-이재용삼성전자회장,회동···반도체지방투자논의",
+    "경북영주SK스페셜티서가스누출신고…관계당국“확인중”",
+    "[오늘의건설브리핑]도심양봉부터AI토공설계까지···기업'사회책..."
    ],
    "initialized": true,
-   "last_run": "2026-06-25T21:25:24.544569+09:00"
+   "last_run": "2026-06-25T21:30:36.189756+09:00"
   }
  },
  "press_names": {
