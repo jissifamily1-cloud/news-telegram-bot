@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-26T00:50:29.672907+09:00",
-     "둔화 리스크 스스로 신기술 갈등 SK하닉이 꼽은 미중 투자"
-    ],
-    [
-     "2026-06-26T00:55:19.924750+09:00",
-     "관치 투자 역주행 논란 선진화 외치더니 자본시장"
-    ],
-    [
      "2026-06-26T01:00:37.220712+09:00",
      "공장 지원 반도체 정부 호남 기반 설치비 시설"
     ],
@@ -402,17 +394,25 @@
     [
      "2026-06-26T06:50:26.549983+09:00",
      "730조 셀코리아의 외국인 불었다 팔고도 역설 47조"
+    ],
+    [
+     "2026-06-26T06:55:21.177042+09:00",
+     "부지 반도체 유치전 1000원에 구미시 평당 제공 격화"
+    ],
+    [
+     "2026-06-26T06:55:21.177042+09:00",
+     "JP모 높은데 상승률 SK하이닉스 외친 1만5천피 최선호주 삼성전자"
+    ],
+    [
+     "2026-06-26T06:55:21.177042+09:00",
+     "대신 4조 하이닉스 택한 예금 카드채 담았다"
+    ],
+    [
+     "2026-06-26T06:55:21.177042+09:00",
+     "삼성 까닭 어깨 무거운 확전 국가대항전"
     ]
    ],
    "seen_urls": [
-    "https://www.inthenews.co.kr/news/article.html?no=88519",
-    "https://www.donga.com/news/Economy/article/all/20260625/134180020/1",
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590287268549",
-    "https://view.asiae.co.kr/article/2026062514232653317",
-    "https://www.donga.com/news/Economy/article/all/20260625/134180422/2",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606251053343200735",
-    "https://www.newsis.com/view/NISX20260625_0003683582",
-    "https://news.jtbc.co.kr/article/NB12305017?influxDiv=NAVER",
     "https://www.mt.co.kr/tech/2026/06/25/2026062513545542233",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8594840",
     "https://www.viva100.com/article/20260625500710",
@@ -1904,17 +1904,17 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463194",
     "http://www.bizwnews.com/news/articleView.html?idxno=139415",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1713982",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1713983"
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1713983",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000045509",
+    "https://www.sedaily.com/article/20060363",
+    "https://biz.heraldcorp.com/article/10788743",
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=545203",
+    "https://www.munhwa.com/article/11598351",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606260226&t=NN",
+    "https://www.sedaily.com/article/20060366",
+    "https://news.bizwatch.co.kr/article/industry/2026/06/25/0027"
    ],
    "seen_titles": [
-    "[사설]호남반도체밸리환영…발목잡기식반대곤란",
-    "강명구\"李정부,정치논리로반도체산업미래죽이지말아야\"",
-    "[데이터뉴스룸]유통상사50곳올초반영업益성적'양호'…롯데쇼핑...",
-    "[특징주]엑스페릭스,삼전닉스특허분쟁소식에'급등'…자회사ID'부...",
-    "D램격차9%p벌린삼성,HBM과반휩쓴SK하이닉스",
-    "메모리반도체시장휩쓴한국…D램은삼성전자,HBM은SK하이닉스1위",
-    "오픈AI,첫자체AI칩‘할라페뇨’공개…삼성·SK호재이어지나",
-    "미래에셋ETF20주년,글로벌11위도약…‘TIGER반도체TOP10’12조거...",
     "미래에셋운용,ETF비즈니스20주년…글로벌운용자산428조원",
     "김문수,SK하이닉스100배수익설…2만원대매수했는데“팔줄몰라서...",
     "[반도체풍향계]마이크론,영업이익률81%‘초호황’…삼성·하닉실적...",
@@ -3406,10 +3406,18 @@
     "코스피200야간선물1.45%하락…빅테크약세에1440선후퇴",
     "\"빚투사상최대\"…증권사,리스크관리강화",
     "JP모건\"코스피1만5000열린다\"…AI랠리에또목표치올렸다",
-    "\"47조팔고도730조불었다\"…외국인'셀코리아의역설'"
+    "\"47조팔고도730조불었다\"…외국인'셀코리아의역설'",
+    "이재명-이재용,1시간만나호남반도체클러스터투자논의",
+    "동탄집값올해11%뛰었다…반도체벨트따라경기남부강세확산[집슐...",
+    "김장호구미시장“산업용지평당1000원에제공…반도체팹유치총력...",
+    "SK텔레콤,SK하이닉스낸드사업미국법인에7,384억원출자",
+    "구미시“평당1000원에부지제공”반도체유치전격화?",
+    "SK하이닉스상승률더높은데\"삼성전자최선호주\"…'1만5천피'외친JP모...",
+    "하이닉스,예금대신택한‘카드채’…1.4조담았다",
+    "[반도체신질서]下'국가대항전'으로확전…삼성·SK어깨무거운까닭"
    ],
    "initialized": true,
-   "last_run": "2026-06-26T06:50:26.549983+09:00"
+   "last_run": "2026-06-26T06:55:21.177042+09:00"
   }
  },
  "press_names": {
