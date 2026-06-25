@@ -997,7 +997,6 @@
     ]
    ],
    "seen_urls": [
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5201875",
     "https://www.hankyung.com/article/202606257243i",
     "https://www.munhwa.com/article/11598193",
     "https://www.newscj.com/news/articleView.html?idxno=3411974",
@@ -2496,10 +2495,10 @@
     "https://www.ddaily.co.kr/page/view/2026062522043600383",
     "http://www.yonhapnewstv.co.kr/news/AKR20260625220722Dor",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8595124",
-    "https://www.yna.co.kr/view/AKR20260625167451053?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260625167451053?input=1195m",
+    "https://www.news1.kr/local/daegu-gyeongbuk/6208850"
    ],
    "seen_titles": [
-    "SKT,철강·車부품공장에'독자AI모델'입힌다…제조현장첫적용",
     "SamsungElectronicsmaintainsNo.1spotinglobalDRAMmarketinQ1",
     "미·이란종전합의에바닷길열렸다…韓선박5척호르무즈추가탈출",
     "\"메타차세대서버에탑재\"…퀄컴,전력효율높인드래곤플라이C1000C...",
@@ -3998,10 +3997,11 @@
     "SKT,SK하이닉스美AI투자법인에7384억원출자…AI시너지강화",
     "거래소,개별주식위클리옵션상장연기…\"최근시장상황고려\"",
     "경북영주SK스페셜티공장서수증기누출",
-    "SK스페셜티서화학물질누출오인소동…20분간상공에흰연기(종합)"
+    "SK스페셜티서화학물질누출오인소동…20분간상공에흰연기(종합)",
+    "영주SK스페셜티서가스누출추정사고…영주시\"경위파악중\""
    ],
    "initialized": true,
-   "last_run": "2026-06-25T22:15:28.543518+09:00"
+   "last_run": "2026-06-25T22:20:30.688779+09:00"
   }
  },
  "press_names": {
