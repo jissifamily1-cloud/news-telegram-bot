@@ -886,11 +886,17 @@
     [
      "2026-06-25T22:40:33.200816+09:00",
      "국힘 내달 1일 공방 거취 장동혁 독대"
+    ],
+    [
+     "2026-06-25T22:45:31.650652+09:00",
+     "정치권도 클러스터 시끌 반도체"
+    ],
+    [
+     "2026-06-25T22:45:31.650652+09:00",
+     "어젠 수밖에 이러니 단타 빚투 급등 오늘은 폭락"
     ]
    ],
    "seen_urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=1383162",
-    "https://www.gokorea.kr/news/articleView.html?idxno=870306",
     "https://www.news1.kr/industry/general-industry/6208139",
     "https://www.munhwa.com/article/11598196",
     "https://www.asiatime.co.kr/article/20260625500140",
@@ -2388,11 +2394,11 @@
     "https://www.mk.co.kr/article/12083510",
     "https://www.hankyung.com/article/2026062588237",
     "https://www.newspim.com/news/view/20260625001211",
-    "http://www.yonhapnewstv.co.kr/news/MYH202606252237462ee"
+    "http://www.yonhapnewstv.co.kr/news/MYH202606252237462ee",
+    "http://www.00news.co.kr/news/articleView.html?idxno=104721",
+    "https://biz.heraldcorp.com/article/10788220"
    ],
    "seen_titles": [
-    "마이크론발훈풍에…코스피9,000선회복시도",
-    "대표유고시누가경영하나…제약,경영공백대책잇단정비",
     "[AFTER호르무즈①]전쟁에멈췄던'석화재편시계'다시돈다",
     "[넥스트코리아]RE100높은벽넘어라…국내산업계의친환경서플라이...",
     "국민3명중1명주식시대…감사원,금융당국'투자자보호'감사착수",
@@ -3890,10 +3896,12 @@
     "“놔두면오르는곳은하나뿐”...한국해외주식투자자3분의2가미국",
     "영주SK스페셜티,가스누출오인소동…흰연기는수증기",
     "최태원·이재용연쇄회동李대통령,29일'메가프로젝트국민보고회'",
-    "[투나잇이슈]李·文,내달1일독대…국힘,장동혁거취공방"
+    "[투나잇이슈]李·文,내달1일독대…국힘,장동혁거취공방",
+    "[정치SPOT]정치권도시끌'반도체클러스터'",
+    "“어젠10%급등,오늘은10%폭락”이러니‘단타’할수밖에…‘빚투..."
    ],
    "initialized": true,
-   "last_run": "2026-06-25T22:40:33.200816+09:00"
+   "last_run": "2026-06-25T22:45:31.650652+09:00"
   }
  },
  "press_names": {
