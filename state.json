@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-25T23:15:31.107650+09:00",
-     "10위 코스피 시총 주가 급등 진입"
-    ],
-    [
-     "2026-06-25T23:15:31.107650+09:00",
-     "지금이라도 보완 레버리지 역풍 삼전닉스"
-    ],
-    [
      "2026-06-25T23:40:29.926075+09:00",
      "SK하이닉스처럼 제프리스 ADR 삼성전자 가능성 상장"
     ],
@@ -306,10 +298,13 @@
     [
      "2026-06-26T05:05:19.990866+09:00",
      "공급망과 맹신 알고리즘 아닌 물리적 AI의"
+    ],
+    [
+     "2026-06-26T05:20:27.667872+09:00",
+     "성과급 언제까지 파업 정부 건너 불구경 현대차도"
     ]
    ],
    "seen_urls": [
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606251333588310767",
     "http://www.joseilbo.com/news/news_read.php?uid=570721&class=53",
     "https://www.newsinside.kr/news/articleView.html?idxno=4791086",
     "https://www.etoday.co.kr/news/view/2597231",
@@ -1808,10 +1803,10 @@
     "https://www.imaeil.com/page/view/2026062517365363126",
     "https://www.newsis.com/view/NISX20260625_0003684005",
     "https://www.imaeil.com/page/view/2026062516394838822",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=263957"
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=263957",
+    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/06/26/20260626027007?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "삼성전자,D램점유율38%로1위…SK하이닉스와격차벌려",
     "\"정치논리에좌우\"…여야,호남반도체클러스터놓고정면충돌",
     "[투자전략]AI에이전트,1800억달러B2B시장이끈다…AI수익화시작",
     "[이채정의엮어읽기]트레이딩초고수가말했다\"내가왜이겼는지모르...",
@@ -3310,10 +3305,11 @@
     "[사설]전력,용수,소·부·장모두갖춘TK배제된반도체지도",
     "\"신규투자,예산초과시실적악화우려\"SK하이닉스가꼽은사업위험요...",
     "[야고부-한윤조]한국형공포지수",
-    "[하계다보스포럼결산③]'알고리즘맹신'이아닌물리적공급망과AI의..."
+    "[하계다보스포럼결산③]'알고리즘맹신'이아닌물리적공급망과AI의...",
+    "[사설]현대차도성과급파업…정부,강건너불구경언제까지"
    ],
    "initialized": true,
-   "last_run": "2026-06-26T05:15:23.242817+09:00"
+   "last_run": "2026-06-26T05:20:27.667872+09:00"
   }
  },
  "press_names": {
