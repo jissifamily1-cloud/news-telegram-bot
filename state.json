@@ -313,7 +313,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.metroseoul.co.kr/article/20260625500173",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=263927",
     "https://www.nocutnews.co.kr/news/6538541",
     "https://www.econotimes.com/Kioxia-Targets-US-Listing-as-AI-Chip-Boom-Accelerates-1745123",
@@ -1812,10 +1811,10 @@
     "https://www.seoul.co.kr/news/editOpinion/editorial/2026/06/26/20260626027007?wlog_tag3=naver",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606251510454950804",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606251249121260752",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606250916371920687"
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606250916371920687",
+    "https://www.sjsori.com/news/articleView.html?idxno=87044"
    ],
    "seen_titles": [
-    "전기차정체에밀렸던ESS,AI타고돌아올까?",
     "AI?반도체산업벨트확대…‘더웨스트마곡데시앙’",
     "SK하이닉스미국증시데뷔…45조신주ADR로발행",
     "SK오션플랜트,협력사대상동반성장간담회개최…공급망ESG강화",
@@ -3314,10 +3313,11 @@
     "[사설]현대차도성과급파업…정부,강건너불구경언제까지",
     "최태원의승부수…용인~청주~호남잇는‘초대형AI반도체벨트’",
     "최태원·노소영파기환송심오늘재개…SK주가5배폭등이바꾼재산분...",
-    "[단독]SK하이닉스메가팹시동…청주M17공장설계착수"
+    "[단독]SK하이닉스메가팹시동…청주M17공장설계착수",
+    "뉴욕증시,마이크론훈풍에도애플급락에혼조…코스피'반도체랠리'..."
    ],
    "initialized": true,
-   "last_run": "2026-06-26T05:25:20.651767+09:00"
+   "last_run": "2026-06-26T05:30:32.930261+09:00"
   }
  },
  "press_names": {
