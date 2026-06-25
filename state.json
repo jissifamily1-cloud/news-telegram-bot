@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-25T18:45:27.367949+09:00",
-     "분산배치해야 전북으로 반도체클러스터"
-    ],
-    [
-     "2026-06-25T18:45:27.367949+09:00",
-     "일단 이젠 호남 기업인데 호남이면 적자 8차례 상한가"
-    ],
-    [
-     "2026-06-25T18:45:27.367949+09:00",
-     "반도 컴퍼니 4억8000만달러 출자 SK그룹 SK텔레콤도"
-    ],
-    [
      "2026-06-25T18:50:30.865575+09:00",
      "부담 훈풍 국고10년 유가급락 발행 7bp 환율"
     ],
@@ -478,11 +466,13 @@
     [
      "2026-06-26T00:40:26.513805+09:00",
      "오픈AI 배치 공개 올해 데이터센터 반도체 자체 말부터"
+    ],
+    [
+     "2026-06-26T00:50:29.672907+09:00",
+     "둔화 리스크 스스로 신기술 갈등 SK하닉이 꼽은 미중 투자"
     ]
    ],
    "seen_urls": [
-    "https://www.sisajournal.com/news/articleView.html?idxno=377683",
-    "https://www.naeil.com/news/read/593121",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4421849",
     "https://www.koreajoongangdaily.com/business/nobel-economics-laureate-warns-chip-selloff-may-point-to-ai-quasi-bubble-starting-to-burst/12739896",
     "https://www.joongang.co.kr/article/25439822",
@@ -1980,11 +1970,11 @@
     "https://www.chosun.com/economy/economy_general/2026/06/26/7OXF74HTWVCFHODU7JUNDRKCYA/",
     "https://www.donga.com/news/Economy/article/all/20260625/134184582/2",
     "https://www.bloter.net/news/articleView.html?idxno=666594",
-    "https://www.chosun.com/economy/tech_it/2026/06/26/SNYFSVCN6RAWXBQFF7UMCZXXBI/"
+    "https://www.chosun.com/economy/tech_it/2026/06/26/SNYFSVCN6RAWXBQFF7UMCZXXBI/",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1782376616&code=11151400&cp=nv",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1782374220&code=11151400&cp=nv"
    ],
    "seen_titles": [
-    "코스피,반도체훈풍에5%급등…'9000선'재도전",
-    "기업이K-청년인재직접키운다…'K-뉴딜아카데미'72개과정확대",
     "삼전닉스로부자늘자…증권사,자산가'가문관리'경쟁",
     "AI가다시불붙인메모리슈퍼사이클",
     "정부가반도체공장위치를정해줄수있나",
@@ -3482,10 +3472,12 @@
     "‘3高’리스크헤쳐갈경제부처핵심인재들…삼전닉스임원으로이...",
     "삼성전자,1분기D램1위수성…하이닉스와격차9%P로벌려",
     "애플,메모리공급난에맥북·아이패드가격인상",
-    "오픈AI,자체AI반도체공개…올해말부터데이터센터배치"
+    "오픈AI,자체AI반도체공개…올해말부터데이터센터배치",
+    "마이크론,‘AI과열론’잠재우며사상최고실적",
+    "SK하닉이스스로꼽은‘리스크’…AI투자둔화·신기술·미중갈등"
    ],
    "initialized": true,
-   "last_run": "2026-06-26T00:45:26.833847+09:00"
+   "last_run": "2026-06-26T00:50:29.672907+09:00"
   }
  },
  "press_names": {
