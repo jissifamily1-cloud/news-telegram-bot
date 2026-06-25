@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-26T00:40:26.513805+09:00",
-     "오픈AI 배치 공개 올해 데이터센터 반도체 자체 말부터"
-    ],
-    [
      "2026-06-26T00:50:29.672907+09:00",
      "둔화 리스크 스스로 신기술 갈등 SK하닉이 꼽은 미중 투자"
     ],
@@ -393,8 +389,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.joongang.co.kr/article/25439834",
-    "https://www.bloter.net/news/articleView.html?idxno=666535",
     "http://www.yonhapnewstv.co.kr/news/MYH202606251416048EM",
     "https://m.skyedaily.com/news_view.html?ID=306629",
     "https://www.news1.kr/local/daegu-gyeongbuk/6208272",
@@ -1892,11 +1886,11 @@
     "https://www.sedaily.com/article/20060300",
     "https://www.news2day.co.kr/article/20260625500187",
     "https://www.g-enews.com/view.php?ud=202606260631057395e250e8e188_1",
-    "https://www.labortoday.co.kr/news/articleView.html?idxno=235368"
+    "https://www.labortoday.co.kr/news/articleView.html?idxno=235368",
+    "https://www.joongang.co.kr/article/25440083",
+    "https://www.kbmaeil.com/article/20260626500017"
    ],
    "seen_titles": [
-    "구미시,반도체팹위해평당1천원으로제공...대한민국최대인센티...",
-    "'메모리랠리'9000선향하는코스피…SK하이닉스13%급등[장중시황]",
     "“다이소보다싸”...반도체공장부지평당1000원에내놓은구미시",
     "한국거래소,주식위클리옵션도입연기…시장상황고려",
     "범야권,'반도체호남클러스터'거론에\"정치논리접근그만\"총공세",
@@ -3394,10 +3388,12 @@
     "거래폭증日거래소,주식주문처리두배로확대...“한국보다매력적...",
     "바이오USA성과낸다...K-바이오,수주·신약개발확대가속",
     "마이크론호실적'나비효과'…샌디스크·웨스턴디지털등반도체주'훨...",
-    "반도체초호황성과,지역산업생태계로환류해야"
+    "반도체초호황성과,지역산업생태계로환류해야",
+    "SK하이닉스신입채용이어54개직무경력직채용나서",
+    "이재명,이재용과청와대회동…호남반도체팹투자최종조율"
    ],
    "initialized": true,
-   "last_run": "2026-06-26T06:40:25.550563+09:00"
+   "last_run": "2026-06-26T06:45:23.637930+09:00"
   }
  },
  "press_names": {
