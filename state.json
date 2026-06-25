@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-25T12:50:28.380983+09:00",
-     "주가 체결 SK하이닉스와 브이엠 공급계약 상승"
-    ],
-    [
-     "2026-06-25T12:50:28.380983+09:00",
-     "마이크론 훈풍에 증시 닛케이 환호한"
-    ],
-    [
-     "2026-06-25T12:50:28.380983+09:00",
-     "with Bridge East West on Bets Biopharmaceuticals"
-    ],
-    [
      "2026-06-25T12:55:21.760272+09:00",
      "220조 KCC 삼성화재 숨겨 스토어브랜드 큰손 노르웨이 현대모비스"
     ],
@@ -1478,21 +1466,17 @@
     [
      "2026-06-25T18:45:27.367949+09:00",
      "반도 컴퍼니 4억8000만달러 출자 SK그룹 SK텔레콤도"
+    ],
+    [
+     "2026-06-25T18:50:30.865575+09:00",
+     "부담 훈풍 국고10년 유가급락 발행 7bp 환율"
+    ],
+    [
+     "2026-06-25T18:50:30.865575+09:00",
+     "무덤 코스닥 개미의"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20059979",
-    "http://www.newsdream.kr/news/articleView.html?idxno=113597",
-    "http://www.fnnews.com/news/202606251008085775",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1379805",
-    "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260625505&PRO_CODE=99",
-    "https://dgmbc.com/NewsArticle/847603",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=440817",
-    "https://www.newspim.com/news/view/20260625000396",
-    "https://www.dailian.co.kr/news/view/1659746/?sc=Naver",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=735067",
-    "http://weekly.chosun.com/news/articleView.html?idxno=52872",
-    "https://www.mt.co.kr/stock/2026/06/25/2026062510374725538",
     "https://www.newsis.com/view/NISX20260625_0003683132",
     "https://www.sedaily.com/article/20059981",
     "https://www.inews365.com/news/article.html?no=924928",
@@ -2980,21 +2964,21 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=1782378321&code=11121100&cp=nv",
     "http://www.jjn.co.kr/news/articleView.html?idxno=1044817",
     "https://biz.heraldcorp.com/article/10788209",
-    "https://biz.chosun.com/it-science/ict/2026/06/25/FWSW66QELZDNBHH3DOGK2HOL4A/"
+    "https://biz.chosun.com/it-science/ict/2026/06/25/FWSW66QELZDNBHH3DOGK2HOL4A/",
+    "https://www.industrynews.co.kr/news/articleView.html?idxno=82570",
+    "https://www.namdonews.com/news/articleView.html?idxno=914869",
+    "https://www.newsis.com/view/NISX20260625_0003683354",
+    "https://www.sedaily.com/article/20060299",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=05848246645485328",
+    "https://www.segye.com/newsView/20260625515847?OutUrl=naver",
+    "https://www.mk.co.kr/article/12083339",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=845119",
+    "https://www.thepublic.kr/news/articleView.html?idxno=309104",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=05841686645485328",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4421911",
+    "https://www.sedaily.com/article/20060296"
    ],
    "seen_titles": [
-    "[OpeningMarket]KOSPISurges5.28%toBreak8,900MarkAmidSoaringWo",
-    "\"팔줄몰라서\"그냥뒀더니'잭팟'…김문수,2만원대에산하이닉스수...",
-    "화학사고사상자3년간293명…인적요인사고88%",
-    "메모리값폭등어떻길래…美마이크론영업이익률‘81%’역대최고치",
-    "[특징주]SK,주주환원정책·실적턴어라운드기대감에17%급등",
-    "'삼전닉스'호남투자에..野\"특정지역배려\"반발",
-    "거래소\"개별주식위클리옵션,시장상황고려해상장연기\"",
-    "삼전·닉스투자처거론광주·전남…지역기업주가'훨훨'",
-    "김장호구미시장\"'반도체팹'평당1천원에산업용지분양하겠다\"",
-    "미국슬레이트전기픽업트럭에중국배터리도탑재,SK온제품과투트...",
-    "SKT,'DTW이그나이트2026'서AI자율네트워크전략공개",
-    "\"기업,정치조직아니다\"…국힘TK,'호남반도체클러스터'에일제히...",
     "SKT,통신망운영자동화·제조현장적용추진",
     "17년묵힌하이닉스…2만원에산김문수,100배수익봤나",
     "삼전·닉스·현차·엔솔위클리옵션'다음기회에'…상장일괄연기",
@@ -4482,10 +4466,22 @@
     "이재용만난李,국토균형발전위해첨단산업지방투자논의",
     "반도체클러스터전북으로분산배치해야",
     "호남이면일단‘30%’…적자기업인데8차례상한가?…이젠‘호남테...",
-    "[단독]SK텔레콤도美‘AI컴퍼니’에4억8000만달러출자…SK그룹반도..."
+    "[단독]SK텔레콤도美‘AI컴퍼니’에4억8000만달러출자…SK그룹반도...",
+    "퀄컴,'에이전틱AI'특화데이터센터청사진공개…\"2028년전용CPU출...",
+    "\"정부가모두책임진다\"…호남반도체잇딴청신호",
+    "이재용회장,대통령만나'지방반도체투자'논의…투자규모·지원조...",
+    "“협력사ESG가곧우리경쟁력”…SK오션플랜트상생동맹가동",
+    "SKT,美‘SK하이닉스낸드법인’에7384억출자…“AI시너지확보”",
+    "이틀만에사라진‘반도체공포’…코스피,9000선눈앞에",
+    "“공장베테랑노하우,AI가이어받는다”…SKT,철강·자동차공장에독...",
+    "[#통신풍향계]SKT'자율네트워크전략'발표-'제조AI에이전트MOU'·...",
+    "미래에셋운용,ETF비즈니스20주년…\"글로벌투자플랫폼도약\"",
+    "SK하이닉스,美ADR상장…나스닥100편입전망",
+    "[채권-마감]유가급락훈풍속환율·발행부담…국고10년2.7bp↓",
+    "[여담]개미의무덤‘코스닥’"
    ],
    "initialized": true,
-   "last_run": "2026-06-25T18:45:27.367949+09:00"
+   "last_run": "2026-06-25T18:50:30.865575+09:00"
   }
  },
  "press_names": {
