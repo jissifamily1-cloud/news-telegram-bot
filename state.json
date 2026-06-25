@@ -1409,7 +1409,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.nextdaily.co.kr/news/articleView.html?idxno=250707",
     "https://www.huffingtonpost.kr/article/258236",
     "https://www.newspim.com/news/view/20260625000475",
     "https://www.newsis.com/view/NISX20260625_0003683304",
@@ -2908,10 +2907,10 @@
     "https://m.skyedaily.com/news_view.html?ID=306651",
     "https://www.livebiz.today/news/articleView.html?idxno=202876",
     "https://biz.chosun.com/it-science/ict/2026/06/25/ZQP3HDK2SZBITDSQ4OJDPFKX4E/",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=272018"
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=272018",
+    "https://www.kfenews.co.kr/news/articleView.html?idxno=659293"
    ],
    "seen_titles": [
-    "성과급내홍에수백조투자압박…삼성전자의'호남클러스터'부담",
     "\"AI표준강조\"…SKT,글로벌자율네트워크전략제시",
     "마이크론,또최대실적…매출4배·영업익15배뛰었다",
     "중국도슈퍼사이클?반도체관련주줄줄이신고가경신",
@@ -4410,10 +4409,11 @@
     "HBM도삼성전자가선도…거인이뛰기시작했다",
     "SKT,SK하이닉스미국AI회사에7400억원출자",
     "이재명대통령,이재용회장과회동…반도체지방투자논의",
-    "JPMorganSeesKOSPIRisingto15,000"
+    "JPMorganSeesKOSPIRisingto15,000",
+    "\"300조반도체클러스터,전북또소외되나\"…전북인수위,정부에'새만..."
    ],
    "initialized": true,
-   "last_run": "2026-06-25T20:20:30.391974+09:00"
+   "last_run": "2026-06-25T20:25:22.992559+09:00"
   }
  },
  "press_names": {
