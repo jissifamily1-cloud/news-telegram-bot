@@ -1489,8 +1489,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12082799",
-    "https://www.news2day.co.kr/article/20260625500061",
     "https://www.hidomin.com/news/articleView.html?idxno=710769",
     "https://biz.heraldcorp.com/article/10787891",
     "https://biz.heraldcorp.com/article/10787889",
@@ -2988,11 +2986,11 @@
     "https://www.tokenpost.kr/news/market/372728",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5201978",
     "https://biz.sbs.co.kr/article_hub/20000318963?division=NAVER",
-    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5201973"
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5201973",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1713974",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4421918"
    ],
    "seen_titles": [
-    "TK의원들“반도체산업,정치논리아닌시장·산업경쟁력봐야”",
-    "거래소,개별주식위클리옵션상장연기…“시장상황고려”",
     "'삼전닉스호남행'국민의힘TK'비상'…\"정치논리에좌우안돼\"",
     "40억자산여배우…“친구들은100만원인데”→봉투엔20만원“그쪽...",
     "[N2증시풍향계]신재생에너지훈풍에SK그룹주↑…KCC·와이제이링크...",
@@ -4490,10 +4488,12 @@
     "SK하이닉스,미국ADR나스닥상장…지분희석우려보다가치상승기대",
     "호남반도체클러스터에여야충돌…\"특정지역배려\"\"지역갈등조장...",
     "이대통령-이재용회장비공개회동…반도체지방투자최종논의",
-    "'500조'삼전닉스반도체공장호남행…전력·용수확보넘어야할산"
+    "'500조'삼전닉스반도체공장호남행…전력·용수확보넘어야할산",
+    "반도체지방투자안막판조율...이재용회장,이재명대통령과회동",
+    "SKT,'SK하이닉스美AI투자회사'에7천400억출자"
    ],
    "initialized": true,
-   "last_run": "2026-06-25T19:35:24.343019+09:00"
+   "last_run": "2026-06-25T19:40:29.333579+09:00"
   }
  },
  "press_names": {
