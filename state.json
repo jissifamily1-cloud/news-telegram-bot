@@ -790,15 +790,25 @@
     [
      "2026-06-26T08:55:20.575567+09:00",
      "6월 주요공시 주식시장 25일"
+    ],
+    [
+     "2026-06-26T09:00:38.623112+09:00",
+     "삼성 초호황 합산 마이크론발 영업익"
+    ],
+    [
+     "2026-06-26T09:00:38.623112+09:00",
+     "리체 호재 디에트르 수원이목지구 공급 산업 개발 교통 품은"
+    ],
+    [
+     "2026-06-26T09:00:38.623112+09:00",
+     "백화점 줍줍리포트 현대지에프홀딩스 상승여력 전망 오른다"
+    ],
+    [
+     "2026-06-26T09:00:38.623112+09:00",
+     "2026년 황춘섭 조세일보 애국자 대표 진정한 성실납세자가"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/202606257954h",
-    "https://www.thepublic.kr/news/articleView.html?idxno=309050",
-    "http://www.samdailbo.com/news/articleView.html?idxno=266596",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463073",
-    "https://biz.newdaily.co.kr/site/data/html/2026/06/25/2026062500200.html",
-    "http://www.yonhapnewstv.co.kr/news/AKR20260625151619Hyp",
     "http://www.joseilbo.com/news/news_read.php?uid=570726&class=32",
     "http://www.fnnews.com/news/202606251357463943",
     "https://view.asiae.co.kr/article/2026062515170375028",
@@ -2292,15 +2302,15 @@
     "https://www.naeil.com/news/read/593193",
     "https://www.thescoop.co.kr/news/articleView.html?idxno=310702",
     "https://www.ziksir.com/news/articleView.html?idxno=138085",
-    "https://www.catchnews.kr/news/articleView.html?idxno=125421"
+    "https://www.catchnews.kr/news/articleView.html?idxno=125421",
+    "https://www.ajunews.com/view/20260626085241799",
+    "https://www.munhwa.com/article/11598377",
+    "https://www.viva100.com/article/20260625501069",
+    "http://www.ikld.kr/news/articleView.html?idxno=336597",
+    "https://www.sedaily.com/article/20060396",
+    "http://www.joseilbo.com/news/news_read.php?uid=570766&class=7"
    ],
    "seen_titles": [
-    "삼성전자,1분기글로벌D램점유율38%로선두-SK하이닉스는HBM1위유...",
-    "최태원“韓·대만성장률가른건AI”전문가들“기업·국가함께대...",
-    "광주·전남반도체투자설에전북도반발…\"광주·전남에만집중해선안...",
-    "'반도체벨트'유동성에지역도'엇갈려'…수도권부동산시장'남고북...",
-    "제주,첨단지식산업유치가능할까(?)",
-    "AI기반연구혁신…프레스티지바이오파마,차세대항체플랫폼눈길",
     "SK하이닉스나스닥ADR상장예고…주가향방은",
     "SK하이닉스단일종목레버리지,장중32%급등",
     "'호남반도체클러스터'초읽기...국힘\"관치경제부활\"vs민주\"기업경...",
@@ -3794,10 +3804,16 @@
     "SK가스,지역사회에쌀1000kg기부",
     "\"수도권1극깨겠다\"...삼성도호남에팹세울까",
     "SK렌터카,자동차소비인식전환나서···'차한대만'캠페인전개",
-    "6월25일주식시장주요공시"
+    "6월25일주식시장주요공시",
+    "SK證\"현대지에프홀딩스,백화점지분가치·주주환원기대…목표가↑\"",
+    "[속보]호남투자역대급?“29일대국민보고회‘낯선숫자’나올것”...",
+    "[오늘의브릿지경제1면]마이크론발초호황⋯삼성·SK‘합산영업익...",
+    "교통·산업개발호재품은'수원이목지구디에트르더리체Ⅱ'공급",
+    "“백화점더오른다“현대지에프홀딩스30%상승여력전망[줍줍리포트...",
+    "[기념사]황춘섭조세일보대표\"성실납세자가진정한애국자\"[2026년납..."
    ],
    "initialized": true,
-   "last_run": "2026-06-26T08:55:20.575567+09:00"
+   "last_run": "2026-06-26T09:00:38.623112+09:00"
   }
  },
  "press_names": {
