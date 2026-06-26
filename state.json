@@ -1101,9 +1101,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260626_0003684691",
-    "https://biz.newdaily.co.kr/site/data/html/2026/06/26/2026062600042.html",
-    "https://www.newspim.com/news/view/20260626000277",
     "http://www.popcornnews.net/news/articleView.html?idxno=124896",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=545216",
     "https://www.thepowernews.co.kr/view.php?ud=202606261001493064de3f0aa1be_7",
@@ -2600,12 +2597,12 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8595867",
     "https://www.mediapen.com/news/view/1106843",
     "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000536718",
-    "https://www.ngonews.kr/news/articleView.html?idxno=231792"
+    "https://www.ngonews.kr/news/articleView.html?idxno=231792",
+    "https://www.pennmike.com/news/articleView.html?idxno=122768",
+    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000536724",
+    "https://www.imaeil.com/page/view/2026062619412318476"
    ],
    "seen_titles": [
-    "김어준유튜브나간김용범“반도체투자너무커서이게진짜냐싶을...",
-    "‘호남반도체클러스터’후폭풍…與野갈등으로비화조짐[이런정치...",
-    "[조간브리핑]삼성,역대최대'1000조투자'승부수···'호남반도체...",
     "[특징주]광주신세계,삼전닉스'호남400조반도체투자설'에19%대급등",
     "제이투에이치바이오텍,중기부'2026년유니콘브릿지'사업선정",
     "코스피8700선후퇴…기술주조정에장초반낙폭확대",
@@ -4102,10 +4099,13 @@
     "‘호남권반도체투자발표임박’…TK대응전략은?",
     "이대통령만난일본의원\"한일,핵보유국에둘러싸여...결속해야\"",
     "삼성,호남반도체에1000조투자?…29일투자계획공개",
-    "기업경영의자유를침해하는위헌적반도체입지강요를즉각중단하라"
+    "기업경영의자유를침해하는위헌적반도체입지강요를즉각중단하라",
+    "경북도의회,제2반도체클러스터부지선정제고주창",
+    "최태원-노소영‘재산분할’9년만의마침표…다음달24일선고",
+    "안철수\"李대통령,특정지역점찍어투자요구…명백한직권남용\""
    ],
    "initialized": true,
-   "last_run": "2026-06-26T19:55:20.556493+09:00"
+   "last_run": "2026-06-26T20:00:38.722237+09:00"
   }
  },
  "press_names": {
