@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-26T13:20:26.844178+09:00",
-     "직장 SK하이닉스 이직률 남달라 신의 초임도 신입"
-    ],
-    [
-     "2026-06-26T13:20:26.844178+09:00",
-     "부담 국고 발행 환율 안전선호 5bp 3년 분위기도"
-    ],
-    [
      "2026-06-26T13:25:21.058605+09:00",
      "자금도 쏠림 상품 ETF 간판 지수 삼전닉"
     ],
@@ -1162,13 +1154,17 @@
     [
      "2026-06-26T19:20:25.772087+09:00",
      "심리 투자자 때문 좋았는데 코스피 급락은 분위기 변화"
+    ],
+    [
+     "2026-06-26T19:25:19.624866+09:00",
+     "서킷브레이커 키워 반도체 쏠림이 변동성"
+    ],
+    [
+     "2026-06-26T19:25:19.624866+09:00",
+     "6월27일 알림"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20060455",
-    "https://www.ytn.co.kr/_ln/0102_202606260950585588",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=140648",
-    "https://www.smartbizn.com/news/articleView.html?idxno=147089",
     "https://www.imaeil.com/page/view/2026062515075545985",
     "https://www.kyeonggi.com/article/20260626580045",
     "https://www.news2day.co.kr/article/20260626500021",
@@ -2664,13 +2660,13 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16113524",
     "https://www.kukinews.com/article/view/kuk202606260159",
     "http://sateconomy.co.kr/news/view/1065606764273004",
-    "http://www.inews24.com/view/1980212"
+    "http://www.inews24.com/view/1980212",
+    "https://www.goodkyung.com/news/articleView.html?idxno=288615",
+    "http://www.00news.co.kr/news/articleView.html?idxno=104750",
+    "http://www.yonhapnewstv.co.kr/news/MYH202606261921088N0",
+    "https://www.hani.co.kr/arti/society/ngo/1265575.html"
    ],
    "seen_titles": [
-    "SKC,CEO직속AI조직신설…전사AX전환가속화",
-    "SK가스,지역사회에쌀1톤기부",
-    "금투협,하반기채권·CP최종호가수익률보고회사선정",
-    "[개장시황]코스피,1.31%내린8813.18출발…8700선후퇴",
     "14면/부산기장해상서LPG선·어선충돌…선장사망·인니선원2명실...",
     "코스피,외국인'팔자'에하락출발…8600선후퇴",
     "코스피,장초반3%하락해8600선⋯삼전닉스3%대약세",
@@ -4166,10 +4162,14 @@
     "[공매도브리핑]SK하이닉스공매도1조38억…LG디스플레이비중37.76%",
     "삼전닉스‘호남반도체’승부수띄웠지만…관건은인재모시기",
     "[칼럼]기업의선행은광고보다오래남는다",
-    "분위기좋았는데왜⋯\"코스피급락은'투자자심리변화'때문\""
+    "분위기좋았는데왜⋯\"코스피급락은'투자자심리변화'때문\"",
+    "코스피8400선까지밀린'블랙프라이데이'…반도체쏠림에흔들린증시",
+    "['클릭'증시]싸늘해진증시...AI에울고웃는코스피",
+    "또서킷브레이커…\"반도체쏠림이변동성키워\"",
+    "6월27일알림"
    ],
    "initialized": true,
-   "last_run": "2026-06-26T19:20:25.772087+09:00"
+   "last_run": "2026-06-26T19:25:19.624866+09:00"
   }
  },
  "press_names": {
