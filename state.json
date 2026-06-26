@@ -334,12 +334,21 @@
     [
      "2026-06-27T08:10:28.456995+09:00",
      ""
+    ],
+    [
+     "2026-06-27T08:20:29.031127+09:00",
+     "관리비 아파트 높고 대단지 이어질까 만족도 인기 주거 부담 낮고"
+    ],
+    [
+     "2026-06-27T08:20:29.031127+09:00",
+     "광주엔 공장 주목받는 앰코테크놀로지 이미 반도체 있다"
+    ],
+    [
+     "2026-06-27T08:20:29.031127+09:00",
+     "짚은 3가지 사안 시즌 실적 검증 2분기 메모리 JP모간이"
     ]
    ],
    "seen_urls": [
-    "https://www.yeongnam.com/web/view.php?key=20260626027202324",
-    "https://www.cstimes.com/news/articleView.html?idxno=711242",
-    "http://www.fnnews.com/news/202606261016535082",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=03430886645485656",
     "https://www.joongang.co.kr/article/25440123",
     "http://www.joseilbo.com/news/news_read.php?uid=570788&class=17",
@@ -1836,12 +1845,12 @@
     "https://www.sisajournal.com/news/articleView.html?idxno=377673",
     "https://www.sentv.co.kr/article/view/sentv202606270001",
     "https://www.lecturernews.com/news/articleView.html?idxno=205119",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4422165"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4422165",
+    "https://www.dailian.co.kr/news/view/1660273/?sc=Naver",
+    "https://www.news1.kr/local/gwangju-jeonnam/6209472",
+    "https://www.newspim.com/news/view/20260626000714"
    ],
    "seen_titles": [
-    "하반기최종호가수익률보고회사채권2곳·CP1곳교체",
-    "노동부,SK하이닉스등'불소누출'반도체업체집중점검",
-    "\"언제쯤반등하려나\"…조선주하락에도'장밋빛전망'쏟아진다",
     "SKC,체질전환본격화…AI혁신과재무기반강화투트랙전략",
     "'3중소외'에수백조원호·충반도체투자마저왕따?…'전북4중소외론...",
     "빅파마는AI,중국은자본…K바이오가샌디에이고서마주한현실[바이오...",
@@ -3338,10 +3347,13 @@
     "대한민국은왜하이닉스를욕망하게됐나",
     "HBM1위SK하이닉스,역대최대ADR로나스닥정조준",
     "정부초청외국인장학생(GKS)동문첫교류행사개최…한국정착과미...",
-    "[다음주재정경제부등경제부처일정]"
+    "[다음주재정경제부등경제부처일정]",
+    "주거만족도높고관리비부담낮고…대단지아파트인기이어질까",
+    "광주엔이미반도체공장있다…주목받는앰코테크놀로지",
+    "[GAM]JP모간이짚은메모리2분기실적시즌검증사안3가지"
    ],
    "initialized": true,
-   "last_run": "2026-06-27T08:15:25.836754+09:00"
+   "last_run": "2026-06-27T08:20:29.031127+09:00"
   }
  },
  "press_names": {
