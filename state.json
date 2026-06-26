@@ -1190,13 +1190,13 @@
     [
      "2026-06-26T12:40:26.041204+09:00",
      "대통령 지지율 대표 최저치 징계 장동혁 취임후"
+    ],
+    [
+     "2026-06-26T12:50:24.693377+09:00",
+     "코스피 서킷브레이커 파랗게 삼전닉스 질린"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=05841686645485328",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4421911",
-    "https://www.sedaily.com/article/20060296",
-    "https://m.sports.naver.com/basketball/article/065/0000299039",
     "https://www.ajunews.com/view/20260625152454988",
     "https://www.hani.co.kr/arti/economy/marketing/1265397.html",
     "http://www.jeonmin.co.kr/news/articleView.html?idxno=442224",
@@ -2692,13 +2692,13 @@
     "https://www.sisajournal.com/news/articleView.html?idxno=377796",
     "https://www.etoday.co.kr/news/view/2597615",
     "https://www.g-enews.com/view.php?ud=202606261220412774923c501012_1",
-    "https://www.chosun.com/economy/money/2026/06/26/KM5YM3ITXBB4ZMFF2D3E6XW7DA/"
+    "https://www.chosun.com/economy/money/2026/06/26/KM5YM3ITXBB4ZMFF2D3E6XW7DA/",
+    "https://www.kwnews.co.kr/article/20260626500140",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=723332",
+    "https://www.cstimes.com/news/articleView.html?idxno=711267",
+    "https://www.seoul.co.kr/news/economy/securities/2026/06/26/20260626500137?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "李대통령,이재용회장과만찬회동…지방투자계획논의",
-    "SK쉴더스,AI해커톤한국어트랙2위",
-    "SK텔레콤,글로벌표준기반자율네트워크공개…AI통신망전환속도",
-    "D램·낸드매출최소1000억달러확정...‘5년치달라’선수금낸고객...",
     "SK텔레콤'AX실험'본격화...'AI풀스택'전환시험대",
     "박재범남구청장당선인,주민과첫대화…\"구정에적극반영\"",
     "\"드러누워서라도막았어야\"이찬진,직무유기혐의로피고발",
@@ -4194,10 +4194,14 @@
     "[구미24시]국가산단평당1000원제안한구미시,반도체팹유치나서",
     "코스피,올해5번째서킷브레이커발동⋯삼전ㆍSK하닉9%↓",
     "\"올해5번째\"...코스피,8%급락에서킷브레이커발동",
-    "[속보]코스피8%하락에서킷브레이커발동...삼성전자·SK하이닉스9%대..."
+    "[속보]코스피8%하락에서킷브레이커발동...삼성전자·SK하이닉스9%대...",
+    "[속보]한동훈,‘삼전닉스호남반도체투자설’에“박근혜정부미르...",
+    "코스피,장중8%급락에'서킷브레이커'발동…삼전·닉스9%대↓",
+    "최태원·노소영'세기의재산분할'파기환송심내달24일선고",
+    "파랗게질린코스피…‘삼전닉스’-10%에또서킷브레이커"
    ],
    "initialized": true,
-   "last_run": "2026-06-26T12:45:24.508694+09:00"
+   "last_run": "2026-06-26T12:50:24.693377+09:00"
   }
  },
  "press_names": {
