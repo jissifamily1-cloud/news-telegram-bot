@@ -1193,13 +1193,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260625_0003683354",
-    "https://www.sedaily.com/article/20060299",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=05848246645485328",
-    "https://www.segye.com/newsView/20260625515847?OutUrl=naver",
-    "https://www.mk.co.kr/article/12083339",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=845119",
-    "https://www.thepublic.kr/news/articleView.html?idxno=309104",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05841686645485328",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4421911",
     "https://www.sedaily.com/article/20060296",
@@ -2692,16 +2685,16 @@
     "https://biz.chosun.com/stock/stock_general/2026/06/26/Z22QLCZNGRE4ZHGR2NAS25WKYI/",
     "https://www.dt.co.kr/article/12069680",
     "https://www.wikitree.co.kr/articles/1143397",
-    "https://www.ytn.co.kr/_ln/0101_202606261231470239"
+    "https://www.ytn.co.kr/_ln/0101_202606261231470239",
+    "https://www.sisajournal.com/news/articleView.html?idxno=377862",
+    "https://www.ajunews.com/view/20260626122656226",
+    "https://www.sisajournal.com/news/articleView.html?idxno=377863",
+    "https://www.sisajournal.com/news/articleView.html?idxno=377796",
+    "https://www.etoday.co.kr/news/view/2597615",
+    "https://www.g-enews.com/view.php?ud=202606261220412774923c501012_1",
+    "https://www.chosun.com/economy/money/2026/06/26/KM5YM3ITXBB4ZMFF2D3E6XW7DA/"
    ],
    "seen_titles": [
-    "이대통령,이재용회장과비공개회동…반도체지방투자막판조율",
-    "[기고]용인시재선시장탄생은시민염원의승리",
-    "한신평\"SK하이닉스유증,재무구조개선…AAA는지켜봐야",
-    "'삼전닉스'호남투자설에전국이떠들썩…지역갈등으로번지나",
-    "팔비틀고관치경제소리듣는호남행반도체",
-    "이대통령,이재용회장과비공개회동…반도체투자막판조율",
-    "광주·전남은기대감,전북은위기감…반도체대응시험대오른전북정...",
     "李대통령,이재용회장과만찬회동…지방투자계획논의",
     "SK쉴더스,AI해커톤한국어트랙2위",
     "SK텔레콤,글로벌표준기반자율네트워크공개…AI통신망전환속도",
@@ -4194,10 +4187,17 @@
     "코스피8%넘게폭락…올해5번째서킷브레이커발동",
     "[속보]코스피,급락에서킷브레이커발동…‘삼전닉스’9%이상폭락",
     "한동훈\"반도체투자도권력이결정하나\"…이재명정부에'미르·K스포츠...",
-    "[시사정각]이대통령지지율51%취임후최저치...장동혁대표'징계'칼..."
+    "[시사정각]이대통령지지율51%취임후최저치...장동혁대표'징계'칼...",
+    "안철수\"李대통령,호남점찍어삼전닉스투자요구…직권남용현행범\"",
+    "최태원·노소영재산분할파기환송심내달선고…SK주식분할여부쟁...",
+    "코스피가또…8%대급락에서킷브레이커발동",
+    "[구미24시]국가산단평당1000원제안한구미시,반도체팹유치나서",
+    "코스피,올해5번째서킷브레이커발동⋯삼전ㆍSK하닉9%↓",
+    "\"올해5번째\"...코스피,8%급락에서킷브레이커발동",
+    "[속보]코스피8%하락에서킷브레이커발동...삼성전자·SK하이닉스9%대..."
    ],
    "initialized": true,
-   "last_run": "2026-06-26T12:40:26.041204+09:00"
+   "last_run": "2026-06-26T12:45:24.508694+09:00"
   }
  },
  "press_names": {
