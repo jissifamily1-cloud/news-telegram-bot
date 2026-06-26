@@ -349,11 +349,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03430886645485656",
-    "https://www.joongang.co.kr/article/25440123",
-    "http://www.joseilbo.com/news/news_read.php?uid=570788&class=17",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=359337",
-    "http://www.seouleconews.com/news/articleView.html?idxno=92043",
     "https://news.tf.co.kr/read/life/2336814.htm",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8595581",
     "https://www.newsis.com/view/NISX20260626_0003684866",
@@ -1848,14 +1843,14 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4422165",
     "https://www.dailian.co.kr/news/view/1660273/?sc=Naver",
     "https://www.news1.kr/local/gwangju-jeonnam/6209472",
-    "https://www.newspim.com/news/view/20260626000714"
+    "https://www.newspim.com/news/view/20260626000714",
+    "https://www.bntnews.co.kr/article/view/bnt202606270048",
+    "https://www.tokenpost.kr/news/market/373181",
+    "http://coinreaders.com/244812",
+    "https://www.seoultimes.news/news/article.html?no=2000097105",
+    "https://www.hankyung.com/article/202606271197h"
    ],
    "seen_titles": [
-    "SKC,체질전환본격화…AI혁신과재무기반강화투트랙전략",
-    "'3중소외'에수백조원호·충반도체투자마저왕따?…'전북4중소외론...",
-    "빅파마는AI,중국은자본…K바이오가샌디에이고서마주한현실[바이오...",
-    "\"AI사업시너지가속화\"SK하이닉스,SK텔서7384억자금유치",
-    "노동부,'반복불소누출'SK하이닉스등반도체업계집중점검착수",
     "잇단불소누출사고에...노동부,SK하이닉스등반도체제조업25곳집...",
     "[N2증시풍향계]반도체투자설에호남건설사강세…심텍·마키나락스...",
     "반도체도공공기관도‘호남행’?…반복됐던TK정치권‘뒷북’더이상...",
@@ -3350,10 +3345,15 @@
     "[다음주재정경제부등경제부처일정]",
     "주거만족도높고관리비부담낮고…대단지아파트인기이어질까",
     "광주엔이미반도체공장있다…주목받는앰코테크놀로지",
-    "[GAM]JP모간이짚은메모리2분기실적시즌검증사안3가지"
+    "[GAM]JP모간이짚은메모리2분기실적시즌검증사안3가지",
+    "김민석“용인만으론부족”…호남반도체투자비판론일축",
+    "SK하이닉스레버리지펀드,나스닥상장기대에개인투자자들'눈독'",
+    "美증시,2주저점추락...반도체發폭락도미노,어디까지가나?",
+    "[이슈]최태원·노소영재산분할파기환송심내달24일선고…SK지분최...",
+    "전국적주목받는김장호구미시장의반도체산단1000원공급제안"
    ],
    "initialized": true,
-   "last_run": "2026-06-27T08:20:29.031127+09:00"
+   "last_run": "2026-06-27T08:25:19.974141+09:00"
   }
  },
  "press_names": {
