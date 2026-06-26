@@ -349,7 +349,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/life/2336814.htm",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8595581",
     "https://www.newsis.com/view/NISX20260626_0003684866",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=82582",
@@ -1848,10 +1847,10 @@
     "https://www.tokenpost.kr/news/market/373181",
     "http://coinreaders.com/244812",
     "https://www.seoultimes.news/news/article.html?no=2000097105",
-    "https://www.hankyung.com/article/202606271197h"
+    "https://www.hankyung.com/article/202606271197h",
+    "https://www.sentv.co.kr/article/view/sentv202606270006"
    ],
    "seen_titles": [
-    "잇단불소누출사고에...노동부,SK하이닉스등반도체제조업25곳집...",
     "[N2증시풍향계]반도체투자설에호남건설사강세…심텍·마키나락스...",
     "반도체도공공기관도‘호남행’?…반복됐던TK정치권‘뒷북’더이상...",
     "[특징주]지역건설주,'호남반도체클러스터'기대감에상한가",
@@ -3350,10 +3349,11 @@
     "SK하이닉스레버리지펀드,나스닥상장기대에개인투자자들'눈독'",
     "美증시,2주저점추락...반도체發폭락도미노,어디까지가나?",
     "[이슈]최태원·노소영재산분할파기환송심내달24일선고…SK지분최...",
-    "전국적주목받는김장호구미시장의반도체산단1000원공급제안"
+    "전국적주목받는김장호구미시장의반도체산단1000원공급제안",
+    "국내주유소휘발유·경유가격6주연속하락"
    ],
    "initialized": true,
-   "last_run": "2026-06-27T08:25:19.974141+09:00"
+   "last_run": "2026-06-27T08:30:35.154850+09:00"
   }
  },
  "press_names": {
