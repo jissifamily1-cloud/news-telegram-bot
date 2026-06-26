@@ -326,12 +326,17 @@
     [
      "2026-06-27T08:05:20.032338+09:00",
      "욕망하게 하이닉스를 대한민국은 됐나"
+    ],
+    [
+     "2026-06-27T08:10:28.456995+09:00",
+     "정착과 교류 한국 외국인 정부초청 개최 장학생 행사 동문 GKS"
+    ],
+    [
+     "2026-06-27T08:10:28.456995+09:00",
+     ""
     ]
    ],
    "seen_urls": [
-    "https://www.hankookilbo.com/news/article/A2026062610100001620?did=NA",
-    "https://www.ajunews.com/view/20260626103436040",
-    "https://www.news2day.co.kr/article/20260626500064",
     "https://www.yeongnam.com/web/view.php?key=20260626027202324",
     "https://www.cstimes.com/news/articleView.html?idxno=711242",
     "http://www.fnnews.com/news/202606261016535082",
@@ -1828,12 +1833,12 @@
     "https://view.asiae.co.kr/article/2026062611020160658",
     "https://www.newsis.com/view/NISX20260626_0003685605",
     "https://www.newsis.com/view/NISX20260626_0003685775",
-    "https://www.sisajournal.com/news/articleView.html?idxno=377673"
+    "https://www.sisajournal.com/news/articleView.html?idxno=377673",
+    "https://www.sentv.co.kr/article/view/sentv202606270001",
+    "https://www.lecturernews.com/news/articleView.html?idxno=205119",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4422165"
    ],
    "seen_titles": [
-    "[증시오늘(26일)특징주]코스피8600선후퇴…상승피로감에'매물폭...",
-    "최태원·노소영,재산분할변론재개...양측나란히출석",
-    "최태원·노소영재산분할,조정결렬후파기환송심재개",
     "하반기최종호가수익률보고회사채권2곳·CP1곳교체",
     "노동부,SK하이닉스등'불소누출'반도체업체집중점검",
     "\"언제쯤반등하려나\"…조선주하락에도'장밋빛전망'쏟아진다",
@@ -3330,10 +3335,13 @@
     "[중화학ON]다시멈춘석화구조조정…정부역할론커진다",
     "무조건반도체학과?\"몇년뒤엔어떻게될지모르는데\"…대입도유행따...",
     "\"폭락장주범된삼전닉스\"…꼬리는어떻게몸통을흔들었나[레버리지E...",
-    "대한민국은왜하이닉스를욕망하게됐나"
+    "대한민국은왜하이닉스를욕망하게됐나",
+    "HBM1위SK하이닉스,역대최대ADR로나스닥정조준",
+    "정부초청외국인장학생(GKS)동문첫교류행사개최…한국정착과미...",
+    "[다음주재정경제부등경제부처일정]"
    ],
    "initialized": true,
-   "last_run": "2026-06-27T08:05:20.032338+09:00"
+   "last_run": "2026-06-27T08:10:28.456995+09:00"
   }
  },
  "press_names": {
