@@ -1202,20 +1202,13 @@
     [
      "2026-06-26T12:25:19.470689+09:00",
      "사회대개혁위 이상일 용인시장 용인 신규 국가산단엔 공론화 투자엔"
+    ],
+    [
+     "2026-06-26T12:35:19.948817+09:00",
+     "이형희 오찬사하는 부회장"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/local/busan-gyeongnam/6208774",
-    "https://news.tvchosun.com/site/data/html_dir/2026/06/25/2026062590240.html",
-    "https://www.ajunews.com/view/20260625143103823",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1165866",
-    "https://www.obsnews.co.kr/news/articleView.html?idxno=1528653",
-    "https://www.mediawatch.kr/news/article.html?no=260188",
-    "https://www.betanews.net/article/view/beta202606250071",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1782374960&code=11121100&cp=nv",
-    "https://www.dt.co.kr/article/12069635",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1782378321&code=11121100&cp=nv",
-    "http://www.jjn.co.kr/news/articleView.html?idxno=1044817",
     "https://biz.heraldcorp.com/article/10788209",
     "https://biz.chosun.com/it-science/ict/2026/06/25/FWSW66QELZDNBHH3DOGK2HOL4A/",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=82570",
@@ -2704,19 +2697,20 @@
     "http://www.fieldnews.kr/news/articleView.html?idxno=29544",
     "https://www.cstimes.com/news/articleView.html?idxno=711264",
     "https://www.imaeil.com/page/view/2026062612111361801",
-    "https://www.yna.co.kr/view/AKR20260626071551008?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260626071551008?input=1195m",
+    "https://biz.sbs.co.kr/article_hub/20000319101?division=NAVER",
+    "http://www.weeklytoday.com/news/articleView.html?idxno=782026",
+    "https://www.ikbc.co.kr/article/view/kbc202606260026",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034614",
+    "https://www.hidomin.com/news/articleView.html?idxno=710953",
+    "https://www.newsis.com/view/NISX20260626_0003685075",
+    "https://www.asiatime.co.kr/article/20260626500162",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000045622",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008629111&plink=ORI&cooper=NAVER",
+    "https://www.joongang.co.kr/article/25440137",
+    "https://www.yna.co.kr/view/PYH20260626086600013?input=1196m"
    ],
    "seen_titles": [
-    "데이터센터러시에전력수요전망치상향추진",
-    "\"마이크론도이정도인데…\"삼전닉스실적기대감더커졌다",
-    "年4%대금리에안정성갖춰…‘맞춤형만기’도매력포인트",
-    "\"정부가기업압박해호남에특혜?...수백조프로젝트,자율로결정해...",
-    "부산R&D,르노자동차·창신INC·성우하이텍이주도",
-    "[바이오USA][2026]허남구에임드바이오대표\"베링거L/O마일스톤수...",
-    "용인맞먹는부지'최대강점'…석·박사인재오느냐에성패달려",
-    "Micron'srecordquarterliftsoutlookforSamsung,SKhynix",
-    "‘신의직장’SK하이닉스,20대2500명몰렸다...신입월450만에채용...",
-    "\"반도체산업이정쟁도구냐\"...장동혁,이재명'호남반도체'비판",
     "국민성장펀드,청주심텍에200억지원…차세대메모리기판생산확대",
     "\"삼성·SK현장조언\"평택시,이어드림멘토링마무리",
     "SKT,DTW이그나이트서AI자율네트워크전략공개",
@@ -4206,10 +4200,20 @@
     "이상일용인시장\"사회대개혁위,용인국가산단엔공론화…신규투자엔...",
     "코스피,8%급락...서킷브레이커발동",
     "최태원·노소영'세기의재산분할'파기환송심선고,다음달24일나온다",
-    "코스피8%대급락에사이드카·서킷브레이커잇단발동(종합)"
+    "코스피8%대급락에사이드카·서킷브레이커잇단발동(종합)",
+    "코스피8%급락…사이드카·서킷브레이커잇달아발동",
+    "[위클리오늘]성수석이천시장당선인,반도체특별법시행령'수도권배...",
+    "[속보]코스피8%대급락에사이드카·서킷브레이커잇단발동",
+    "최태원·노소영재산분할운명의날…7월24일파기환송심선고",
+    "코스피8%대급락…사흘만에서킷브레이커재발동",
+    "코스피8.19%급락…사이드카이어서킷브레이커(종합)",
+    "靑김용범“숫자낯설것”…李대통령국민보고회‘대형투자발표’임...",
+    "코스피8400선까지밀렸다…매도사이드카발동",
+    "[속보]코스피,8%대급락에서킷브레이커발동",
+    "오찬사하는이형희SK부회장"
    ],
    "initialized": true,
-   "last_run": "2026-06-26T12:30:33.813452+09:00"
+   "last_run": "2026-06-26T12:35:19.948817+09:00"
   }
  },
  "press_names": {
