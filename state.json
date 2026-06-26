@@ -1189,9 +1189,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.itbiznews.com/news/articleView.html?idxno=217397",
-    "https://view.asiae.co.kr/article/2026062609130640282",
-    "https://www.dailian.co.kr/news/view/1660215/?sc=Naver",
     "https://www.sedaily.com/article/20060453",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=03184886645485656",
     "http://www.segyebiz.com/newsView/20260626504755?OutUrl=naver",
@@ -2688,12 +2685,12 @@
     "http://www.econonews.co.kr/news/articleView.html?idxno=440246",
     "https://www.polinews.co.kr/news/articleView.html?idxno=735297",
     "https://it.donga.com/109094/",
-    "https://www.ajunews.com/view/20260626123541229"
+    "https://www.ajunews.com/view/20260626123541229",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=440247",
+    "https://www.news2day.co.kr/article/20260626500167",
+    "https://www.sedaily.com/article/20060732"
    ],
    "seen_titles": [
-    "삼전닉스하락에이주식들도우르르'파란불'",
-    "\"뉴욕에서주가재평가받겠다\"…SK하이닉스가밝힌'속사정'",
-    "\"반도체초과세수,국부펀드로\"…초과세수공유제토론회열려",
     "미국기술주조정에반도체주약세…삼성전자·SK하이닉스주가나란히...",
     "코스피,외국인'팔자'에하락출발…8800선내줬다[개장시황]",
     "[위클리오늘]빅테크약세에코스피8800선하락출발···환율1540원대",
@@ -4190,10 +4187,13 @@
     "최태원·노소영이혼소송파기환송심변론종결…7월24일선고",
     "오세훈·한동훈\"호남반도체는전당대회용\"vs김민석\"낡은정치가미...",
     "프로젝트글래스윙?네모트론연합?생존위한AI동맹확산",
-    "[오늘의ABC뉴스룸]\"결국소비자지갑만탈탈털립니다\"애플맥북·아..."
+    "[오늘의ABC뉴스룸]\"결국소비자지갑만탈탈털립니다\"애플맥북·아...",
+    "경기준비위사회복지분과,산후조리원·노인복지관·젠더폭력대응단현...",
+    "최태원·노소영재산분할소송변론마침표…다음달24일결론",
+    "반도체쏠림·레버리지의부메랑…작은노이즈에도장중9%휘청"
    ],
    "initialized": true,
-   "last_run": "2026-06-26T18:35:21.992291+09:00"
+   "last_run": "2026-06-26T18:40:25.762618+09:00"
   }
  },
  "press_names": {
