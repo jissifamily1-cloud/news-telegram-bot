@@ -242,11 +242,13 @@
     [
      "2026-06-27T07:35:20.711497+09:00",
      "시대 환율 ADR 고환율 기대감 45조원 SK하이닉스 방패"
+    ],
+    [
+     "2026-06-27T07:45:24.968162+09:00",
+     "2007원 기름값 2001원 휘발유 언제까지 내린 6주째 경유"
     ]
    ],
    "seen_urls": [
-    "http://www.finomy.com/news/articleView.html?idxno=256353",
-    "https://www.news1.kr/photos/7978052",
     "https://www.topstarnews.net/news/articleView.html?idxno=16112917",
     "https://www.news1.kr/photos/7978067",
     "https://www.g-enews.com/view.php?ud=20260626102421576744093b5d4e_1",
@@ -1744,11 +1746,11 @@
     "http://www.osen.co.kr/article/G1112829517",
     "https://www.nocutnews.co.kr/news/6539511",
     "http://www.fnnews.com/news/202606261926254257",
-    "https://www.news1.kr/industry/general-industry/6209692"
+    "https://www.news1.kr/industry/general-industry/6209692",
+    "https://www.hankyung.com/article/2026062711607",
+    "https://www.bntnews.co.kr/article/view/bnt202606270028"
    ],
    "seen_titles": [
-    "스페이스X에혹했던서학개미,다시반도체로턴",
-    "“‘삼전닉스’레버리지에코스피‘출렁’…금융위기때보다변동성...",
     "코스피,급등부담에2%↓8,700대등락…환율1,550원육박",
     "외국인,5월47조순매도에도지분율35%넘어최고수준",
     "코스피,차익실현·외국인'팔자'에3%대하락…반도체주약세",
@@ -3246,10 +3248,12 @@
     "김구라,주식으로얼마벌었길래“청라아파트4천만원손해봤지만괜찮...",
     "美,또다시이란공습…급증하는베네수강진사망자[오늘아침]",
     "韓증시좁았던SK하이닉스,나스닥서'제값'받는다",
-    "SK하이닉스45조원ADR,고환율시대'환율방패'기대감"
+    "SK하이닉스45조원ADR,고환율시대'환율방패'기대감",
+    "주유소기름값6주연속하락…휘발유평균2007.8원",
+    "휘발유2007원·경유2001원…6주째내린기름값,언제까지?"
    ],
    "initialized": true,
-   "last_run": "2026-06-27T07:40:27.416549+09:00"
+   "last_run": "2026-06-27T07:45:24.968162+09:00"
   }
  },
  "press_names": {
