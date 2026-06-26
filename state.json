@@ -1057,7 +1057,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/PYH20260626048200013?input=1196m",
     "https://www.sedaily.com/article/20060442",
     "https://www.sedaily.com/article/20060425",
     "https://www.yna.co.kr/view/PYH20260626048600013?input=1196m",
@@ -2556,10 +2555,10 @@
     "https://www.newsway.co.kr/news/view?ud=2026062620034498013",
     "https://www.ajunews.com/view/20260626200229824",
     "https://www.news1.kr/politics/assembly/6209989",
-    "http://www.wemakenews.co.kr/news/view.php?no=25600"
+    "http://www.wemakenews.co.kr/news/view.php?no=25600",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6833208_37004.html"
    ],
    "seen_titles": [
-    "하나증권목표주가상향\"SK하이닉스360만원간다\"",
     "SK그룹AI시너지확장된다···SK텔레콤,하이닉스美법인출자",
     "삼전닉스레버리지ETF영향?…한국거래소,개별주식위클리옵션상장...",
     "[속보]'반포아파트·삼전하닉720주'…현직고위공직자재산1위는",
@@ -4058,10 +4057,11 @@
     "7월도반도체주도장…증권가\"종목선별중요\"",
     "李대통령\"韓日관계많이개선…'가깝고또가까운나라'되길\"",
     "與\"균형발전\"野\"직권남용\"…'삼전닉스호남투자설'충돌",
-    "삼성,1000조원첨단산업투자…반도체·AI·배터리총망라"
+    "삼성,1000조원첨단산업투자…반도체·AI·배터리총망라",
+    "\"어제는좋다더니\"하루만에5%급락‥계좌녹는개미들어쩌나"
    ],
    "initialized": true,
-   "last_run": "2026-06-26T20:18:08.098358+09:00"
+   "last_run": "2026-06-26T20:20:25.801891+09:00"
   }
  },
  "press_names": {
