@@ -1194,14 +1194,21 @@
     [
      "2026-06-26T18:55:21.518484+09:00",
      "소통 몰렸다 끝나자 TV 화면 따로 경기 입중계"
+    ],
+    [
+     "2026-06-26T19:05:20.651362+09:00",
+     "정도면 진짜 예고할 1000조 규모 투자 놀라지 이상"
+    ],
+    [
+     "2026-06-26T19:05:20.651362+09:00",
+     "제외 32개 넥스트레이드 카카오 종목 3분기 대한항공 빠져"
+    ],
+    [
+     "2026-06-26T19:05:20.651362+09:00",
+     "LG디스플레이 비중 1조38억 SK하이닉스 공매도"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10789027",
-    "http://www.hellodd.com/news/articleView.html?idxno=112258",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1165902",
-    "https://www.insightkorea.co.kr/news/articleView.html?idxno=248925",
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=236783",
     "http://www.newsian.co.kr/news/articleView.html?idxno=91459",
     "https://www.thelec.kr/news/articleView.html?idxno=58661",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=723306",
@@ -2696,14 +2703,14 @@
     "http://www.yonhapnewstv.co.kr/news/MYH20260626185043jYt",
     "https://www.kmib.co.kr/article/view.asp?arcid=1782462077&code=11121600&cp=nv",
     "http://www.newsprime.co.kr/news/article.html?no=738201",
-    "https://www.newsis.com/view/NISX20260626_0003685800"
+    "https://www.newsis.com/view/NISX20260626_0003685800",
+    "https://www.sedaily.com/article/20060745",
+    "https://www.nongmin.com/article/20260626500275",
+    "https://news.jtbc.co.kr/article/NB12305270?influxDiv=NAVER",
+    "http://www.joseilbo.com/news/news_read.php?uid=570834&class=53",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16113524"
    ],
    "seen_titles": [
-    "코스피,삼전·닉스대형주'차익실현'···장중2%대하락",
-    "코스피,외국인매도세에3%대하락...8500선으로밀려[fn오전시황]",
-    "코스피,장초반3%대약세…美혼조세·차익매물출회영향[개장시황]",
-    "빚내도삼성전자만?...'빚투'판이바뀌었다",
-    "김용범정책실장\"투자역대급?29일대국민보고회'낯선숫자'나올것...",
     "저부가버리고고부가올인…심텍,MSAP기판확대로역대급턴어라운드",
     "LGU+,'5G속도과장'공정위과징금불복소송서패소",
     "[오늘의신상]물만부으면게토레이…롯데칠성,분말형제품출시",
@@ -4198,10 +4205,15 @@
     "[DM왔어요]TV경기끝나자'입중계'로몰렸다?…화면따로,소통따로...",
     "靑“기업자율투자”野“기업팔비틀기”",
     "李,다케다료타일한의원연맹회장접견",
-    "SK하이닉스,청주M17공장설계착수"
+    "SK하이닉스,청주M17공장설계착수",
+    "SK가스,이주민아동에쌀1톤후원",
+    "“화재·불소누출땐피해막대”…SK하이닉스포함반도체공장집중점...",
+    "'놀라지마'예고할정도면…투자규모진짜1000조이상?",
+    "넥스트레이드,3분기32개종목제외...카카오·대한항공등빠져",
+    "[공매도브리핑]SK하이닉스공매도1조38억…LG디스플레이비중37.76%"
    ],
    "initialized": true,
-   "last_run": "2026-06-26T19:00:36.838007+09:00"
+   "last_run": "2026-06-26T19:05:20.651362+09:00"
   }
  },
  "press_names": {
