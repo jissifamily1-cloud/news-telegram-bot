@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-26T13:55:19.965502+09:00",
-     "시험대 상장폐지 체력 증시 계기 높일 7월부터 200여곳"
-    ],
-    [
-     "2026-06-26T13:55:19.965502+09:00",
-     "주도권 강화 최태원 앞세워 SK하이닉스 조달 메모리 45조원"
-    ],
-    [
-     "2026-06-26T13:55:19.965502+09:00",
-     "증권주 거래대금 울상 오른다 독주에 옛말 늘면 반도체 증권업종"
-    ],
-    [
-     "2026-06-26T13:55:19.965502+09:00",
-     "교육 풀무원재단 기후행동 서울시 환경상"
-    ],
-    [
      "2026-06-26T14:00:40.877392+09:00",
      "linked approval review plans bonus Profit board shareholder need"
     ],
@@ -1110,11 +1094,13 @@
     [
      "2026-06-26T19:50:27.889240+09:00",
      "대통령 둘러싸여 결속해야 핵보유국에 일본의원 만난 한일"
+    ],
+    [
+     "2026-06-26T19:55:20.556493+09:00",
+     "반도체 즉각 기업경영의 중단하라 자유를 입지 강요를 침해하는 위헌적"
     ]
    ],
    "seen_urls": [
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=723298",
-    "https://biz.heraldcorp.com/article/10789035",
     "https://www.newsis.com/view/NISX20260626_0003684691",
     "https://biz.newdaily.co.kr/site/data/html/2026/06/26/2026062600042.html",
     "https://www.newspim.com/news/view/20260626000277",
@@ -2612,11 +2598,11 @@
     "https://www.joongang.co.kr/article/25440243",
     "https://www.wikitree.co.kr/articles/1143460",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8595867",
-    "https://www.mediapen.com/news/view/1106843"
+    "https://www.mediapen.com/news/view/1106843",
+    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000536718",
+    "https://www.ngonews.kr/news/articleView.html?idxno=231792"
    ],
    "seen_titles": [
-    "SKC,CEO직속AI조직띄웠다…전사AX속도전",
-    "[개장시황]코스피,약보합출발…미국증시혼조·마이크론랠리견인",
     "김어준유튜브나간김용범“반도체투자너무커서이게진짜냐싶을...",
     "‘호남반도체클러스터’후폭풍…與野갈등으로비화조짐[이런정치...",
     "[조간브리핑]삼성,역대최대'1000조투자'승부수···'호남반도체...",
@@ -4114,10 +4100,12 @@
     "李대통령“한일관계많이개선돼가깝고또가까운나라되길”",
     "경북도의회“수백조반도체투자,정치논리안돼\"...성명발표",
     "‘호남권반도체투자발표임박’…TK대응전략은?",
-    "이대통령만난일본의원\"한일,핵보유국에둘러싸여...결속해야\""
+    "이대통령만난일본의원\"한일,핵보유국에둘러싸여...결속해야\"",
+    "삼성,호남반도체에1000조투자?…29일투자계획공개",
+    "기업경영의자유를침해하는위헌적반도체입지강요를즉각중단하라"
    ],
    "initialized": true,
-   "last_run": "2026-06-26T19:50:27.889240+09:00"
+   "last_run": "2026-06-26T19:55:20.556493+09:00"
   }
  },
  "press_names": {
@@ -4470,6 +4458,7 @@
   "thebilliards.kr": "빌리어즈",
   "kormedi.com": "코메디닷컴",
   "newspost.kr": "뉴스포스트",
-  "ilemonde.com": "르몽드디플로마티크(LeMonde Diplomatique"
+  "ilemonde.com": "르몽드디플로마티크(LeMonde Diplomatique",
+  "ngonews.kr": "한국NGO신문"
  }
 }
