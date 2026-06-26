@@ -230,13 +230,13 @@
     [
      "2026-06-27T07:20:29.286616+09:00",
      "지연 시험대로 SK하이닉스 HBM 부상 투자 사이클 회수"
+    ],
+    [
+     "2026-06-27T07:25:21.110862+09:00",
+     "팔지 2조원 가치투자자의 절대 삼성전자 하이닉스 굴리는 마라"
     ]
    ],
    "seen_urls": [
-    "http://www.seouleconews.com/news/articleView.html?idxno=92044",
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=696495",
-    "https://www.youthdaily.co.kr/news/article.html?no=221712",
-    "https://www.ekn.kr/web/view.php?key=20260626023536755",
     "https://www.g-enews.com/view.php?ud=202606261014291347923c501012_1",
     "https://www.sentv.co.kr/article/view/sentv202606260039",
     "https://www.khan.co.kr/article/202606261038001",
@@ -1732,13 +1732,13 @@
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=696645",
     "https://www.bigtanews.co.kr/article/view/big202606260020",
     "https://www.bloter.net/news/articleView.html?idxno=666706",
-    "https://www.g-enews.com/view.php?ud=202606270653338196fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202606270653338196fbbec65dfb_1",
+    "https://www.slist.kr/news/articleView.html?idxno=747997",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=873454",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606270228&t=NN",
+    "https://www.segye.com/newsView/20260627500937?OutUrl=naver"
    ],
    "seen_titles": [
-    "김용범,이대통령보고회'대형투자발표'예고…\"숫자낯설것\"",
-    "[특징주]심텍,국민성장펀드200억지원에6%대'강세'",
-    "SK스퀘어주가,6월26일장중1,756,000원7.53%하락",
-    "대통령이대규모투자계획국민보고..김용범\"나오는숫자낯설것\"",
     "김용범,29일李대통령보고회'대형투자'시사…\"숫자낯설것\"",
     "SK네트웍스주가,6월26일장중9,780원9.44%하락",
     "여름음료시장공략…롯데칠성·이디야,분말신제품출시",
@@ -3234,10 +3234,14 @@
     "삼성1000조·SK수백조투자…대한민국AI·반도체'메가프로젝트'시...",
     "미래에셋증권,6월넷째주삼성물산등3종목매수추천",
     "[유상증자모니터]리가켐,LO매출삼킨R&D…장기자본先확보",
-    "AI투자회수지연,SK하이닉스HBM사이클시험대로부상"
+    "AI투자회수지연,SK하이닉스HBM사이클시험대로부상",
+    "주유소기름값6주째하락…전국평균휘발윳값2천7원대",
+    "주유소기름값6주연속하락…전국평균휘발윳값2007원대",
+    "\"한국서가장핫한고등학교\"…美유력지도집중조명,왜?",
+    "“삼성전자·하이닉스절대팔지마라”…2조원굴리는가치투자자의후..."
    ],
    "initialized": true,
-   "last_run": "2026-06-27T07:20:29.286616+09:00"
+   "last_run": "2026-06-27T07:25:21.110862+09:00"
   }
  },
  "press_names": {
