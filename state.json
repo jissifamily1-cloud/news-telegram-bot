@@ -437,7 +437,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.metroseoul.co.kr/article/20260625500444",
     "https://www.asiatime.co.kr/article/20260626500060",
     "https://www.greened.kr/news/articleView.html?idxno=343418",
     "https://www.mstoday.co.kr/news/articleView.html?idxno=101968",
@@ -1936,10 +1935,10 @@
     "https://www.electimes.com/news/articleView.html?idxno=369631",
     "https://www.ggilbo.com/news/articleView.html?idxno=1165606",
     "https://www.namdonews.com/news/articleView.html?idxno=914834",
-    "https://news.jtbc.co.kr/article/NB12305308?influxDiv=NAVER"
+    "https://news.jtbc.co.kr/article/NB12305308?influxDiv=NAVER",
+    "https://www.donga.com/news/Opinion/article/all/20260626/134191829/2"
    ],
    "seen_titles": [
-    "코스피,단기차익실현에3%대하락…SK하이닉스4%↓",
     "최태원SK그룹회장,파기환송심2차변론출석",
     "파기환송심변론출석하는최태원회장",
     "파기환송심2차변론출석하는최태원회장",
@@ -3438,10 +3437,11 @@
     "'산업다극화'닻올린대한민국…1천조메가프로젝트성패'전력'에달...",
     "섬에어,항공권'최대60%'할인'...여름특별프로모션일정은?",
     "\"부지부터인재확보까지국가지원\"…호남반도체청신호",
-    "이재용·최태원,29일국민보고회참석…천조원투자발표"
+    "이재용·최태원,29일국민보고회참석…천조원투자발표",
+    "[사설]‘미래’선택한도요타노조,‘눈앞의이익’만보는현대차노..."
    ],
    "initialized": true,
-   "last_run": "2026-06-26T23:25:25.142501+09:00"
+   "last_run": "2026-06-26T23:30:33.474805+09:00"
   }
  },
  "press_names": {
