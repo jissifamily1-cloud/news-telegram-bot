@@ -421,7 +421,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03437446645485656",
     "http://www.4th.kr/news/articleView.html?idxno=2113753",
     "https://www.widedaily.com/news/articleView.html?idxno=296537",
     "https://www.dailian.co.kr/news/view/1660260/?sc=Naver",
@@ -1920,10 +1919,10 @@
     "https://www.thepublic.kr/news/articleView.html?idxno=309204",
     "https://www.thepublic.kr/news/articleView.html?idxno=309212",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=422003",
-    "https://www.thepublic.kr/news/articleView.html?idxno=309263"
+    "https://www.thepublic.kr/news/articleView.html?idxno=309263",
+    "https://economist.co.kr/article/view/ecn202606270004"
    ],
    "seen_titles": [
-    "레버리지ETF이어위클리옵션상장도'제동'",
     "[특징주]SK스퀘어,SK하이닉스와美증시하락영향..8%'급락'",
     "\"주가뛰자무섭게팔아치우네\"...삼전닉스털어내는외국인",
     "'조정불발'최태원·노소영재산분할소송재개…崔\"잘마치고오겠다...",
@@ -3422,10 +3421,11 @@
     "\"반도체가이끈코스피반등…양극화·변동성은더커졌다\"",
     "\"2억주고깨도남는다\"…삼성성과급·사내대출호재에동탄'배액배상...",
     "성과급·원청교섭·AI···달라진임단협과마주하는기업들",
-    "'검은금요일'코스피가파랗게질린이유…\"외국인반기말포트폴리오..."
+    "'검은금요일'코스피가파랗게질린이유…\"외국인반기말포트폴리오...",
+    "개인일주일새25조원'홀로매수'…코스피'역대급패닉',왜?"
    ],
    "initialized": true,
-   "last_run": "2026-06-27T09:35:20.471567+09:00"
+   "last_run": "2026-06-27T09:40:29.182821+09:00"
   }
  },
  "press_names": {
