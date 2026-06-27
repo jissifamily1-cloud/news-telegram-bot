@@ -285,7 +285,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newscj.com/news/articleView.html?idxno=3412326",
     "http://www.joseilbo.com/news/news_read.php?uid=570807&class=32",
     "https://www.ngonews.kr/news/articleView.html?idxno=231773",
     "http://www.metroseoul.co.kr/article/20260626500076",
@@ -1784,10 +1783,10 @@
     "https://mhnse.com/news/articleView.html?idxno=1444366",
     "https://mhnse.com/news/articleView.html?idxno=1444374",
     "https://mhnse.com/news/articleView.html?idxno=1444367",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260627180650WDM"
+    "http://www.yonhapnewstv.co.kr/news/MYH20260627180650WDM",
+    "https://www.mt.co.kr/politics/2026/06/27/2026062717443987804"
    ],
    "seen_titles": [
-    "[포토]재판마치고이동하는최태원SK그룹회장",
     "최태원·노소영'세기의재산분할'내달24일결론…1조판결뒤집힐까",
     "[포토]법원나서는최태원SK그룹회장",
     "반도체던지는외국인에…코스피,3거래일만에'또'서킷브레이커",
@@ -3286,10 +3285,11 @@
     "[mhn포토]김재희,방향이다르다",
     "[mhn포토]김재희,좌측은좋지않다",
     "[mhn포토]김재희,컨디션최고에요",
-    "이대통령'호남물부족론'정면반박…\"100만톤공급가능\""
+    "이대통령'호남물부족론'정면반박…\"100만톤공급가능\"",
+    "與\"안철수,호남반도체투자에'대통령직권남용'운운…고발조치\""
    ],
    "initialized": true,
-   "last_run": "2026-06-27T18:10:29.289905+09:00"
+   "last_run": "2026-06-27T18:15:24.271704+09:00"
   }
  },
  "press_names": {
