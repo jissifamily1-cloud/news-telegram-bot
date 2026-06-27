@@ -241,8 +241,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2442736",
-    "https://www.socialvalue.kr/news/view/1065573930036241",
     "http://www.newsian.co.kr/news/articleView.html?idxno=91473",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=309748",
     "http://coinreaders.com/244650",
@@ -1740,11 +1738,11 @@
     "https://www.fntoday.co.kr/news/articleView.html?idxno=387108",
     "https://www.namdonews.com/news/articleView.html?idxno=914922",
     "https://view.asiae.co.kr/article/2026062720410261052",
-    "https://www.khan.co.kr/article/202606272042001"
+    "https://www.khan.co.kr/article/202606272042001",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=387109",
+    "https://www.newsis.com/view/NISX20260627_0003686226"
    ],
    "seen_titles": [
-    "SK엠앤서비스,광주상의와지역중소기업안전관리역량강화지원",
-    "최태원·노소영'재산분할'파기환송심종결…'다음달24일결론'(종합)",
     "SK엠앤서비스,광주기업대상안전보건관리체계구축지원",
     "“지역중소기업안전발판마련”SK엠앤서비스,광주서‘안전365’간...",
     "솔루션부터교육까지···SK엠앤서비스,안전관리방법제안",
@@ -3242,10 +3240,12 @@
     "李대통령\"호남도하루100만t산업용수공급가능\"…'반도체물부족론...",
     "호남반도체클러스터놓고여야정면충돌…정부총력대응",
     "美,앤트로픽'미토스5'자국기업만빗장풀었다",
-    "미국,2주만에미토스5사용제한완화···한국은여전히사용제한될..."
+    "미국,2주만에미토스5사용제한완화···한국은여전히사용제한될...",
+    "與野,'삼전닉스호남투자설'정면충돌…국힘\"외압의혹\"vs민주\"국가...",
+    "李,'호남반도체투자'공세에\"공직자설득으로CEO들결단…칭찬받아..."
    ],
    "initialized": true,
-   "last_run": "2026-06-27T20:45:26.706946+09:00"
+   "last_run": "2026-06-27T20:50:29.781173+09:00"
   }
  },
  "press_names": {
