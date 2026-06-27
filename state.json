@@ -70,10 +70,13 @@
     [
      "2026-06-28T04:05:21.788835+09:00",
      "쏠림 실적주 변곡점 심화 국장"
+    ],
+    [
+     "2026-06-28T04:10:31.012101+09:00",
+     "엔지니어 한국 CXMT로 인재 누수 중국 200명 삼성 하이닉스 갔다"
     ]
    ],
    "seen_urls": [
-    "http://www.4th.kr/news/articleView.html?idxno=2113765",
     "https://www.ikbc.co.kr/article/view/kbc202606250057",
     "https://www.newsis.com/view/NISX20260626_0003685034",
     "http://www.inews24.com/view/1980011",
@@ -1572,10 +1575,10 @@
     "http://www.jeonmin.co.kr/news/articleView.html?idxno=442290",
     "https://www.g-enews.com/view.php?ud=202606271649342348fbbec65dfb_1",
     "https://www.newspim.com/news/view/20260628000002",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=309782"
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=309782",
+    "https://www.g-enews.com/view.php?ud=202606271934461883fbbec65dfb_1"
    ],
    "seen_titles": [
-    "SK렌터카'차한대만'캠페인…렌터카일상화나선다",
     "한동훈\"반도체투자는정치아닌기업판단\"…호남클러스터논쟁재...",
     "코스피한때8%급락에서킷브레이커까지발동‥오늘하락이유는?",
     "\"재활용으로중심축이동\"배터리산업,폐배터리시장급성장",
@@ -3074,10 +3077,11 @@
     "삼전닉스반도체투자전북패싱위기…\"최적지는새만금\"전북상협건...",
     "AI거품공포,실체는'회수지연'…삼성·SK폭락전말",
     "[프로야구]'최고령좌완'고효준,25년프로인생마침표...28일롯데전...",
-    "[코스피UP&DOWN]변곡점선국장...실적주쏠림심화"
+    "[코스피UP&DOWN]변곡점선국장...실적주쏠림심화",
+    "한국엔지니어200명,중국CXMT로갔다…삼성·하이닉스'인재누수'비..."
    ],
    "initialized": true,
-   "last_run": "2026-06-28T04:05:21.788835+09:00"
+   "last_run": "2026-06-28T04:10:31.012101+09:00"
   }
  },
  "press_names": {
