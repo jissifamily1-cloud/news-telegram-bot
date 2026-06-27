@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-27T12:05:20.945807+09:00",
-     "기업 솔루션 최태원 마쳐 대한상의 회장"
-    ],
-    [
-     "2026-06-27T12:05:20.945807+09:00",
-     "천재 인재 각축전 확보 명이 빅테크 바꾼다 기업을 글로벌"
-    ],
-    [
      "2026-06-27T12:15:25.413808+09:00",
      "꼬이는가 투자도 1조 상장 손정의 연기"
     ],
@@ -282,14 +274,17 @@
     [
      "2026-06-27T17:55:20.766831+09:00",
      "정관장 뜨거웠던 결승만 Y리그 이제 삼성 남았다 준결승 일정 종료"
+    ],
+    [
+     "2026-06-27T18:05:21.694448+09:00",
+     "회동 분분 두고 국민의 해석 정치적"
+    ],
+    [
+     "2026-06-27T18:05:21.694448+09:00",
+     "거점 SK바이오팜 플랫폼 키운다 세우고"
     ]
    ],
    "seen_urls": [
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5202119",
-    "https://www.kukinews.com/article/view/kuk202606260068",
-    "http://www.joseilbo.com/news/news_read.php?uid=570805&class=32",
-    "https://www.newsis.com/view/NISX20260626_0003684609",
-    "https://www.wikitree.co.kr/articles/1143387",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=140668",
     "https://www.hankookilbo.com/news/article/A2026062609070000339?did=NA",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=545232",
@@ -1784,14 +1779,14 @@
     "http://www.rookie.co.kr/news/articleView.html?idxno=124190",
     "https://www.slist.kr/news/articleView.html?idxno=748072",
     "https://biz.sbs.co.kr/article_hub/20000319252?division=NAVER",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463586"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463586",
+    "https://www.newsis.com/view/NISX20260627_0003686185",
+    "https://www.idjnews.kr/news/articleView.html?idxno=301320",
+    "https://www.newswhoplus.com/news/articleView.html?idxno=63266",
+    "https://www.dailian.co.kr/news/view/1660592/?sc=Naver",
+    "https://www.startuptoday.co.kr/news/articleView.html?idxno=804819"
    ],
    "seen_titles": [
-    "한동훈\"반도체클러스터호남압박사실이면주주가치훼손\"",
-    "한동훈,'호남반도체'에\"朴정부미르재단때와뭐가다른가\"",
-    "\"메모리수요감소우려\"삼전닉스8%대급락…코스피8250선[장중시황]",
-    "[자동차업계동향]기아ㆍ한국타이어ㆍSK렌터카(6.26)",
-    "최태원·노소영재산분할,내달24일결론…SK주식이변수",
     "한동훈\"정부,호남에반도체지으라압박⋯미르재단과뭐가다른가\"",
     "코스피,장중매도사이드카발동…삼전·닉스7%대급락",
     "[속보]최태원-노소영'재산분할'파기환송심변론종결...내달24일선고",
@@ -3286,10 +3281,15 @@
     "이제결승만남았다!뜨거웠던Y리그준결승일정종료...삼성-정관장,...",
     "안철수\"삼전닉스호남투자강요는직권남용\"…與\"허위사실고발\"",
     "국힘\"호남물충분,근거뒷받침안돼\"…민주\"정쟁소재무책임\"",
-    "삼성·SK대안찾는다…애플,중국CXMT에손내밀었다"
+    "삼성·SK대안찾는다…애플,중국CXMT에손내밀었다",
+    "이대통령,'반도체투자왜호남인가'유승민에\"기다리시면공식공개...",
+    "당진시,GS데이터센터·반도체투자물망에술렁",
+    "\"반도체유치보다물확보가먼저\"…호남클러스터둘러싼인프라검증...",
+    "[데일리안오늘뉴스종합]李·文회동두고정치적해석분분,국민의...",
+    "[기획]SK바이오팜,美거점세우고'AI플랫폼'키운다"
    ],
    "initialized": true,
-   "last_run": "2026-06-27T18:00:39.954758+09:00"
+   "last_run": "2026-06-27T18:05:21.694448+09:00"
   }
  },
  "press_names": {
