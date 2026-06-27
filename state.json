@@ -230,11 +230,13 @@
     [
      "2026-06-27T19:05:21.418067+09:00",
      "저가 경북함 최신예 해군에 호위함 조기 인도된"
+    ],
+    [
+     "2026-06-27T19:15:25.856422+09:00",
+     "김어준이 대주주냐 김용범 유튜브 삼성 비판 출연 한동훈 실장"
     ]
    ],
    "seen_urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034614",
-    "https://www.hidomin.com/news/articleView.html?idxno=710953",
     "https://www.newsis.com/view/NISX20260626_0003685075",
     "https://www.asiatime.co.kr/article/20260626500162",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000045622",
@@ -1732,11 +1734,11 @@
     "https://www.news1.kr/politics/president/6210284",
     "https://www.news2day.co.kr/article/20260627500047",
     "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000536802",
-    "https://news.tvchosun.com/site/data/html_dir/2026/06/27/2026062790124.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/06/27/2026062790124.html",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=04086886645485984",
+    "https://www.news1.kr/politics/assembly/6210287"
    ],
    "seen_titles": [
-    "최태원·노소영'세기의재산분할'파기환송심선고,다음달24일나온다",
-    "코스피8%대급락에사이드카·서킷브레이커잇단발동(종합)",
     "코스피8%급락…사이드카·서킷브레이커잇달아발동",
     "[위클리오늘]성수석이천시장당선인,반도체특별법시행령'수도권배...",
     "[속보]코스피8%대급락에사이드카·서킷브레이커잇단발동",
@@ -3234,10 +3236,12 @@
     "李대통령,유승민'왜반도체투자호남'지적에\"좀기다리면공개\"",
     "[뉴스속무기]해군에조기인도된최신예호위함‘경북함’…저가수...",
     "이대통령“호남에도물충분…돼지눈에는돼지만보인다”",
-    "李,'호남반도체물부족'비판직접반박…野\"명백한직권남용\""
+    "李,'호남반도체물부족'비판직접반박…野\"명백한직권남용\"",
+    "김성환기후부장관,호남반도체산단용수부족부인…다음주공식발...",
+    "한동훈\"김어준이삼성·SK대주주냐\"…김용범靑실장유튜브출연비판"
    ],
    "initialized": true,
-   "last_run": "2026-06-27T19:10:30.782280+09:00"
+   "last_run": "2026-06-27T19:15:25.856422+09:00"
   }
  },
  "press_names": {
