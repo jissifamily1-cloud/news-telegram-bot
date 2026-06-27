@@ -205,7 +205,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202606260931515423",
     "https://www.businesspost.co.kr/BP?command=article_view&num=440868",
     "https://theviewers.co.kr/View.aspx?No=4121787",
     "https://www.munhwa.com/article/11598537",
@@ -1704,10 +1703,10 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008630424&plink=ORI&cooper=NAVER",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04113126645485984",
     "https://swtvnews.com/news/newsview.php?ncode=1065614664743798",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596357"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596357",
+    "https://www.ikbc.co.kr/article/view/kbc202606270028"
    ],
    "seen_titles": [
-    "하반기산업현장···판커진노사갈등",
     "유가공포에애플(AAPL)폭락까지...글로벌시장동시타격",
     "[민주식품가]hy·롯데칠성음료·동아오츠카",
     "[ETF레그플래그]TIME코스닥·코스피액티브ETF,시장에지고있다",
@@ -3206,10 +3205,11 @@
     "미,앤트로픽'미토스5'사용제한자국기업만우선풀어줘",
     "\"반도체,왜호남?\"공세에…李대통령\"CEO들이이익된다고판단해\"",
     "한국여자핸드볼,U-20주니어세계선수권16강진출",
-    "이대통령,‘호남반도체물부족’비판에반박…“하루100만톤공급..."
+    "이대통령,‘호남반도체물부족’비판에반박…“하루100만톤공급...",
+    "李대통령\"'반도체투자임박'호남,산업용수충분\""
    ],
    "initialized": true,
-   "last_run": "2026-06-27T21:20:29.835632+09:00"
+   "last_run": "2026-06-27T21:25:20.604727+09:00"
   }
  },
  "press_names": {
