@@ -198,10 +198,13 @@
     [
      "2026-06-28T06:45:24.550735+09:00",
      "호남인가 발표 반도체 답했다 직접 묻자 공방 앞두고 대통령이"
+    ],
+    [
+     "2026-06-28T06:55:20.978751+09:00",
+     "전국 삼성 도약 투자망 가른다 제조국가"
     ]
    ],
    "seen_urls": [
-    "https://news.bizwatch.co.kr/article/market/2026/06/26/0022",
     "https://www.s-journal.co.kr/news/articleView.html?idxno=42014",
     "https://www.greened.kr/news/articleView.html?idxno=343432",
     "https://www.topdaily.kr/articles/110710",
@@ -1700,10 +1703,10 @@
     "https://www.yna.co.kr/view/AKR20260626128400017?input=1195m",
     "https://www.tokenpost.kr/news/economy/373348",
     "https://www.segye.com/newsView/20260628501407?OutUrl=naver",
-    "https://www.jibs.co.kr/news/articles/articlesDetail/62881?feed=na"
+    "https://www.jibs.co.kr/news/articles/articlesDetail/62881?feed=na",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16114627"
    ],
    "seen_titles": [
-    "하이닉스,나스닥100편입되나…삼전ADR설도‘솔솔’",
     "최태원·노소영재산분할파기환송심종료…내달24일운명의선고",
     "[오후장체크포인트]외국인,오늘까지6거래일연속코스피서매도",
     "SK하이닉스등반도체25개사,화학물질안전관리'도마위'…고용부집...",
@@ -3202,10 +3205,11 @@
     "AI발국토대전환…수도권넘어지역AI경쟁력키운다",
     "원/달러환율,28년만에1,500원대를기록하며고환율지속가능성",
     "“한국이기침하자美반도체가독감?”…코스피10%폭락뒤세계반도...",
-    "“왜호남인가”묻자대통령이직접답했다…발표앞두고반도체공방..."
+    "“왜호남인가”묻자대통령이직접답했다…발표앞두고반도체공방...",
+    "삼성전국투자망,AI제조국가도약가른다"
    ],
    "initialized": true,
-   "last_run": "2026-06-28T06:50:27.561362+09:00"
+   "last_run": "2026-06-28T06:55:20.978751+09:00"
   }
  },
  "press_names": {
