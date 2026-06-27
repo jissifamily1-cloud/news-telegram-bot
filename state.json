@@ -170,12 +170,17 @@
     [
      "2026-06-28T06:10:29.450607+09:00",
      "레버리지 수익률 단일종목 주간 폭발 삼전닉스 싹쓸이 쏠림 톱5"
+    ],
+    [
+     "2026-06-28T06:15:26.496292+09:00",
+     "역사에 롤러코스터 코스피 최고 찍고 남을 폭락 사상"
+    ],
+    [
+     "2026-06-28T06:15:26.496292+09:00",
+     "변수 시도 기대 상승 고용지표 반도체 실적"
     ]
    ],
    "seen_urls": [
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4091543",
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4091545",
-    "https://www.chosun.com/economy/tech_it/2026/06/26/BNYGKPJV6FAPPDNT3LUNUX3EXI/",
     "https://www.gokorea.kr/news/articleView.html?idxno=870462",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=264084",
     "https://biz.heraldcorp.com/article/10789482",
@@ -1672,12 +1677,12 @@
     "https://it.chosun.com/news/articleView.html?idxno=2023092164623",
     "https://www.startuptoday.co.kr/news/articleView.html?idxno=804811",
     "https://www.yna.co.kr/view/AKR20260627020800530?input=1195m",
-    "https://news.mtn.co.kr/news-detail/2026062718323735052"
+    "https://news.mtn.co.kr/news-detail/2026062718323735052",
+    "https://www.newsis.com/view/NISX20260628_0003686307",
+    "https://www.sedaily.com/article/20060891",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092164646"
    ],
    "seen_titles": [
-    "대한전자공학회,하계종합학술대회개최…AI·반도체기술공유",
-    "이재명대통령,반도체·인공지능대규모투자계획발표…삼성·SK주목",
-    "오세훈서울시장,호남반도체투자계획에국정운영사유화비판",
     "최태원·노소영'재산분할소송',내달24일결론",
     "\"반도체투자는산업논리따라야\"…경북도의회'광주·전남제2클러스...",
     "고용노동부,SK하이닉스등반도체25곳불소누출집중점검",
@@ -3174,10 +3179,13 @@
     "고객떠넘기는15XX고객센터통화료…\"전면무료화요망\"",
     "[이슈]내소원은'차한대만'…소비자마음훔친SK렌터카",
     "\"한번터지면수천만명\"…해커에'종합선물세트'된기업개인정보",
-    "'삼전닉스'단일종목레버리지쏠림폭발…주간수익률톱5싹쓸이"
+    "'삼전닉스'단일종목레버리지쏠림폭발…주간수익률톱5싹쓸이",
+    "김준상MBC아나,전직장하이닉스였다\"동기성과급1억2천\"",
+    "사상최고찍고최대폭락…코스피,역사에남을‘롤러코스터한주’...",
+    "반도체실적기대속상승시도…美고용지표등변수[주간증시전망]"
    ],
    "initialized": true,
-   "last_run": "2026-06-28T06:10:29.450607+09:00"
+   "last_run": "2026-06-28T06:15:26.496292+09:00"
   }
  },
  "press_names": {
