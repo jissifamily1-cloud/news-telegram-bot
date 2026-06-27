@@ -329,9 +329,6 @@
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260626004600320?input=2106m",
-    "https://www.youthdaily.co.kr/news/article.html?no=221724",
-    "https://www.hani.co.kr/arti/economy/finance/1265488.html",
     "https://biz.heraldcorp.com/article/10789286",
     "https://www.mt.co.kr/stock/2026/06/26/2026062611291077538",
     "http://www.joseilbo.com/news/news_read.php?uid=570799&class=32",
@@ -1828,12 +1825,12 @@
     "https://www.segye.com/newsView/20260627504541?OutUrl=naver",
     "https://www.khan.co.kr/article/202606271416001",
     "https://www.jibs.co.kr/news/articles/articlesDetail/62869?feed=na",
-    "https://news.tvchosun.com/site/data/html_dir/2026/06/27/2026062790063.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/06/27/2026062790063.html",
+    "https://www.news1.kr/politics/assembly/6210179",
+    "https://www.newsis.com/view/NISX20260627_0003686102",
+    "https://news.mtn.co.kr/news-detail/2026062714155186104"
    ],
    "seen_titles": [
-    "최태원·노소영재산분할파기환송심,내달24일결론",
-    "반복된불소누출에칼빼든노동부…SK하이닉스등반도체25곳집중...",
-    "SK이터닉스주가,6월26일장중42,850원12.64%하락",
     "김용범\"호남반도체투자가팔비틀기?정부가쥐어짠다고기업이하겠...",
     "원익IPS주가장중12%대상승,반도체호황수혜기대에전공정장비주...",
     "SeoulsharessharplydownlateFri.morningonprofittaking",
@@ -3330,10 +3327,13 @@
     "정부,호남‘삼전닉스’반도체투자추진…野,맹공",
     "“제자성과급이교장연봉보다많아”···NYT도조명한‘충북반도...",
     "“삼성·하이닉스가그정도겠나”…이대통령,호남반도체용수부족...",
-    "유시민\"자신감지나쳐\"李대통령직격…李,의미심장SNS"
+    "유시민\"자신감지나쳐\"李대통령직격…李,의미심장SNS",
+    "與\"'삼전닉스호남투자'직권남용주장한안철수즉각고발\"",
+    "한동훈\"김어준이삼성·SK대주주입니까\"…정책실장유튜브출연비판",
+    "李대통령\"호남물충분…하루100만톤산업용수공급가능\""
    ],
    "initialized": true,
-   "last_run": "2026-06-27T14:20:29.831354+09:00"
+   "last_run": "2026-06-27T14:25:20.388670+09:00"
   }
  },
  "press_names": {
