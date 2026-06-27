@@ -205,10 +205,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.naeil.com/news/read/593232",
-    "https://www.veritas-a.com/news/articleView.html?idxno=616696",
-    "https://www.wikitree.co.kr/articles/1143406",
-    "https://www.seoul.co.kr/news/economy/securities/2026/06/26/20260626500143?wlog_tag3=naver",
     "http://www.yonhapnewstv.co.kr/news/MYH20260626131325vZW",
     "https://www.nocutnews.co.kr/news/6539188",
     "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260626508&PRO_CODE=99",
@@ -1704,13 +1700,13 @@
     "https://imnews.imbc.com/news/2026/politics/article/6833363_36911.html",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04129526645485984",
     "https://www.newscj.com/news/articleView.html?idxno=3412609",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=846802"
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=846802",
+    "https://isplus.com/article/view/isp202606270063",
+    "https://www.dt.co.kr/article/12069756",
+    "https://biz.chosun.com/policy/politics/2026/06/27/KSPOKPII3ZCMFJZANV24WFEFRE/",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596374"
    ],
    "seen_titles": [
-    "삼성전자,호남에반도체팹·AI센터역대급투자전망",
-    "SK엠앤서비스,광주중소기업대상디지털안전관리솔루션소개",
-    "'1조3808억원재산분할'다시법정으로…최태원·노소영,조정결렬후...",
-    "'검은화요일'악몽재현…코스피8%급락,거래멈췄다",
     "SKC,전사적인공지능전환가속화",
     "'3대째고려대동문'구용서용현인더스트리회장가족5억원기부..'의...",
     "[기자수첩]오를때도울고,떨어질때도운다…벼락은왜늘개미몫인...",
@@ -3206,10 +3202,14 @@
     "與,국힘'호남반도체'비판에\"못먹는감찔러나보나‥4류정치그만...",
     "김용범\"수도권클러스터만으론AI시대감당어려워\"",
     "NYT가주목한충북반도체고…\"한국서가장핫한학교\"",
-    "'9년만에데뷔첫승'두산김정우\"팬들사랑에보답하겠다\""
+    "'9년만에데뷔첫승'두산김정우\"팬들사랑에보답하겠다\"",
+    "[오피셜]최고령투수고효준,25년선수생활마침표...28일은퇴식진...",
+    "이정현“호남은너무오래기다렸다…‘호남반도체’위축시켜선안...",
+    "이정현“호남반도체검증동의…시작위축돼서는안돼”",
+    "‘호남반도체’비판에“물충분”“국힘벌떼처럼…”"
    ],
    "initialized": true,
-   "last_run": "2026-06-27T22:05:21.678842+09:00"
+   "last_run": "2026-06-27T22:10:28.029177+09:00"
   }
  },
  "press_names": {
