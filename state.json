@@ -229,8 +229,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=309748",
-    "http://coinreaders.com/244650",
     "http://www.iminju.net/news/articleView.html?idxno=165864",
     "https://www.smarttoday.co.kr/ko-kr/articles/108827",
     "http://www.fnnews.com/news/202606260931515423",
@@ -1728,11 +1726,11 @@
     "https://www.khan.co.kr/article/202606272042001",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=387109",
     "https://www.newsis.com/view/NISX20260627_0003686226",
-    "https://www.etoday.co.kr/news/view/2597832"
+    "https://www.etoday.co.kr/news/view/2597832",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008630424&plink=ORI&cooper=NAVER",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=04113126645485984"
    ],
    "seen_titles": [
-    "“지역중소기업안전발판마련”SK엠앤서비스,광주서‘안전365’간...",
-    "솔루션부터교육까지···SK엠앤서비스,안전관리방법제안",
     "365일안전한일터를향한똑똑한동행,SK엠앤서비스‘안전365솔루션’",
     "외인·기관4조순매도에코스피'급락'…사이드카·서킷브레이커발동",
     "하반기산업현장···판커진노사갈등",
@@ -3230,10 +3228,12 @@
     "미국,2주만에미토스5사용제한완화···한국은여전히사용제한될...",
     "與野,'삼전닉스호남투자설'정면충돌…국힘\"외압의혹\"vs민주\"국가...",
     "李,'호남반도체투자'공세에\"공직자설득으로CEO들결단…칭찬받아...",
-    "美,앤트로픽'미토스5'사용제한자국기업만우선완화"
+    "美,앤트로픽'미토스5'사용제한자국기업만우선완화",
+    "미,앤트로픽'미토스5'사용제한자국기업만우선풀어줘",
+    "\"반도체,왜호남?\"공세에…李대통령\"CEO들이이익된다고판단해\""
    ],
    "initialized": true,
-   "last_run": "2026-06-27T21:00:42.286915+09:00"
+   "last_run": "2026-06-27T21:05:19.526061+09:00"
   }
  },
  "press_names": {
