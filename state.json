@@ -262,14 +262,25 @@
     [
      "2026-06-28T07:10:29.468054+09:00",
      "하루 공급 부족 반도체 가능 100만톤"
+    ],
+    [
+     "2026-06-28T07:20:28.407427+09:00",
+     "대란 전력 주주들이 미니 풀린 원자로 봉인 장부서 삼성"
+    ],
+    [
+     "2026-06-28T07:20:28.407427+09:00",
+     "시동 회복 흑자전환 부활하나 2분기 ESS로 배터리 전기차"
+    ],
+    [
+     "2026-06-28T07:20:28.407427+09:00",
+     "국힘 오히려 이정현 보수 SK하이닉스 환영할 호남반도체 결단에"
+    ],
+    [
+     "2026-06-28T07:20:28.407427+09:00",
+     "매입 팔고 반도체주 서학 스페이스X 개미 대량 다시"
     ]
    ],
    "seen_urls": [
-    "https://news.dealsitetv.com/articles/172454",
-    "https://www.thepowernews.co.kr/view.php?ud=20260626140007144de3f0aa1be_7",
-    "https://www.mk.co.kr/article/12083969",
-    "http://www.seouleconews.com/news/articleView.html?idxno=92055",
-    "https://www.newsway.co.kr/news/view?ud=2026062612505261796",
     "https://www.newsis.com/view/NISX20260626_0003685142",
     "https://view.asiae.co.kr/article/2026062614011269046",
     "https://www.newsis.com/view/NISX20260626_0003685187",
@@ -1764,14 +1775,14 @@
     "https://www.yna.co.kr/view/AKR20260626161100008?input=1195m",
     "https://biz.sbs.co.kr/article_hub/20000319255?division=NAVER",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6833380_37012.html",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000045872"
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000045872",
+    "https://www.munhwa.com/article/11598683",
+    "https://www.g-enews.com/view.php?ud=202606280654582572fbbec65dfb_1",
+    "https://www.yna.co.kr/view/AKR20260626053000003?input=1195m",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=264241",
+    "https://www.yna.co.kr/view/AKR20260627030400008?input=1195m"
    ],
    "seen_titles": [
-    "Profit-linkedbonusplansneedboardreview,shareholderapproval",
-    "[fn사설]기업의지역투자,정치바람에휘둘려선안돼",
-    "앰코1조투자본격화…광주반도체후공정확장",
-    "코스피8.19%급락에'서킷브레이커'…삼전닉스9%대↓",
-    "앰코,광주에1조투자…강기정\"반도체도시도약\"",
     "불소누출반복에…노동부,SK하이닉스등반도체25곳점검",
     "李대통령,삼성·SK와연쇄회동…충청·호남반도체투자임박",
     "코스피,반도체주차익실현에8%대급락...사이드카·서킷브레이커잇단...",
@@ -3266,10 +3277,15 @@
     "이를어쩌나…증시변동성'폭탄'된단일종목레버리지",
     "美,앤트로픽'미토스5'사용제한자국기업만우선풀어줘",
     "반도체물부족?‥\"하루100만톤공급가능\"",
-    "'코스피150배'베팅상품출시?…수조원몰렸지만규제권한없어"
+    "'코스피150배'베팅상품출시?…수조원몰렸지만규제권한없어",
+    "증시변동성‘폭탄’된단일종목레버리지",
+    "‘AI전력대란’에봉인풀린미니원자로…삼성·SK주주들이장부서...",
+    "K-배터리,2분기흑자전환시동…전기차회복·ESS로부활하나",
+    "국힘이정현\"호남반도체,오히려환영할일\"...SK하이닉스결단에보수...",
+    "서학개미,스페이스X팔고다시반도체주대량매입"
    ],
    "initialized": true,
-   "last_run": "2026-06-28T07:15:24.536643+09:00"
+   "last_run": "2026-06-28T07:20:28.407427+09:00"
   }
  },
  "press_names": {
