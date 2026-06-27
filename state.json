@@ -257,7 +257,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.fieldnews.kr/news/articleView.html?idxno=29544",
     "https://www.cstimes.com/news/articleView.html?idxno=711264",
     "https://www.imaeil.com/page/view/2026062612111361801",
     "https://www.yna.co.kr/view/AKR20260626071551008?input=1195m",
@@ -1756,10 +1755,10 @@
     "http://www.metroseoul.co.kr/article/20260627500037",
     "https://www.news1.kr/politics/assembly/6210276",
     "https://www.etnews.com/20260627000035",
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260627.99099008246"
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260627.99099008246",
+    "https://www.munhwa.com/article/11598657"
    ],
    "seen_titles": [
-    "김용범정책실장\"반도체투자발표,규모너무커논쟁불가피\"",
     "알뜰폰2026년6월브랜드평판...프리티,KT엠모바일,SK세븐모바일順",
     "매수·매도사이드카반복되는역대급변동성장세...코스피,7%↓",
     "코스피또8%폭락…올해5번째서킷브레이커발동",
@@ -3258,10 +3257,11 @@
     "정점식野원내대표,정부향해\"광주전남반도체클러스터부지선정...",
     "'삼전닉스'호남투자공방…野\"직권남용·외압\"與\"국가균형발전\"",
     "李“호남물충분”…기후부,반도체용수부족론'일축'",
-    "[속보]삼전닉스호남투자에野“국가대계정치도구화”…與“흑색선..."
+    "[속보]삼전닉스호남투자에野“국가대계정치도구화”…與“흑색선...",
+    "청와대·여야,때아닌‘물싸움?’…‘삼전닉스호남투자’두고치열..."
    ],
    "initialized": true,
-   "last_run": "2026-06-27T18:50:30.823019+09:00"
+   "last_run": "2026-06-27T18:55:21.293817+09:00"
   }
  },
  "press_names": {
