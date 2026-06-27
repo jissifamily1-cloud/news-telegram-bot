@@ -345,9 +345,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.donga.com/news/Politics/article/all/20260626/134187527/2",
-    "https://www.ddaily.co.kr/page/view/2026062611334545633",
-    "https://biz.heraldcorp.com/article/10789305",
     "https://www.newscj.com/news/articleView.html?idxno=3412300",
     "http://www.wikileaks-kr.org/news/articleView.html?idxno=189068",
     "https://www.daejonilbo.com/news/articleView.html?idxno=2283994",
@@ -1844,12 +1841,12 @@
     "https://www.hankyung.com/article/2026062713807",
     "https://www.kyeonggi.com/article/20260627580047",
     "https://news.tf.co.kr/read/ptoday/2337145.htm",
-    "https://www.kukinews.com/article/view/kuk202606270019"
+    "https://www.kukinews.com/article/view/kuk202606270019",
+    "http://www.segyebiz.com/newsView/20260627504751?OutUrl=naver",
+    "https://www.namdonews.com/news/articleView.html?idxno=914917",
+    "https://www.munhwa.com/article/11598646"
    ],
    "seen_titles": [
-    "금호건설·남화토건주가장중상한가,삼성전자·SK하이닉스호남투자...",
-    "코스피,5%대급락..올해14번째매도사이드카발동",
-    "최태원·노소영'세기의재산분할'내달24일선고",
     "[포토]재산분할소송파기환송심2차변론기일출석하는최태원",
     "HoldingfirmsrallyonSamsung,SKchipgains",
     "한동훈“삼전닉스호남투자압박,‘미르·K스포츠’와뭐가다른가”",
@@ -3346,10 +3343,13 @@
     "입학문의3배뛰었다…韓반도체호황에외신도주목한'이고등학교'",
     "[속보]한동훈“김어준이삼성·SK대주주냐”…김용범‘유튜브출연...",
     "'호남물부족'선그은이대통령…\"하루에100톤공급가능\"",
-    "李“돼지눈엔돼지만”…호남반도체물논란·유시민비판정조준?"
+    "李“돼지눈엔돼지만”…호남반도체물논란·유시민비판정조준?",
+    "이재명대통령“호남반도체용수충분…하루100만톤공급가능”",
+    "전남도지사\"제2반도체클러스터,전남·광주가최적지\"",
+    "유승민“반도체는물만으로안돼”…호남반도체클러스터추진에“..."
    ],
    "initialized": true,
-   "last_run": "2026-06-27T14:55:20.670776+09:00"
+   "last_run": "2026-06-27T15:00:41.608603+09:00"
   }
  },
  "press_names": {
