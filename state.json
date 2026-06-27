@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-28T00:05:22.192797+09:00",
-     "상장 전력 ETF 잇따라 슈퍼사이클에 인프라 다음은 반도체"
-    ],
-    [
      "2026-06-28T00:35:20.829925+09:00",
      "첨단3지구 반도체 공개 촉각 호남 솔라시도"
     ],
@@ -166,11 +162,17 @@
     [
      "2026-06-28T06:04:40.605595+09:00",
      "소비자 마음 대만 SK렌터카 소원은 훔친"
+    ],
+    [
+     "2026-06-28T06:10:29.450607+09:00",
+     "한번 기업개인정보 터지면 해커에 수천만명 종합선물세트"
+    ],
+    [
+     "2026-06-28T06:10:29.450607+09:00",
+     "레버리지 수익률 단일종목 주간 폭발 삼전닉스 싹쓸이 쏠림 톱5"
     ]
    ],
    "seen_urls": [
-    "https://www.insight.co.kr/news/560316",
-    "http://www.newsprime.co.kr/news/article.html?no=738149",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4091543",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4091545",
     "https://www.chosun.com/economy/tech_it/2026/06/26/BNYGKPJV6FAPPDNT3LUNUX3EXI/",
@@ -1668,11 +1670,11 @@
     "https://www.ekn.kr/web/view.php?key=20260626021316821",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463591",
     "https://it.chosun.com/news/articleView.html?idxno=2023092164623",
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=804811"
+    "https://www.startuptoday.co.kr/news/articleView.html?idxno=804811",
+    "https://www.yna.co.kr/view/AKR20260627020800530?input=1195m",
+    "https://news.mtn.co.kr/news-detail/2026062718323735052"
    ],
    "seen_titles": [
-    "고려대법학전문대학원제1회학술제'AI시대,법교육과연구'..'전문가...",
-    "한·일AI증시'와르르'…애플가격인상·오픈AIIPO연기설",
     "대한전자공학회,하계종합학술대회개최…AI·반도체기술공유",
     "이재명대통령,반도체·인공지능대규모투자계획발표…삼성·SK주목",
     "오세훈서울시장,호남반도체투자계획에국정운영사유화비판",
@@ -3170,10 +3172,12 @@
     "수도권일극깬다…李,첨단산업지도다시그린다",
     "[이번주청약길잡이]'드파인아르티아'등전국6986가구접수",
     "고객떠넘기는15XX고객센터통화료…\"전면무료화요망\"",
-    "[이슈]내소원은'차한대만'…소비자마음훔친SK렌터카"
+    "[이슈]내소원은'차한대만'…소비자마음훔친SK렌터카",
+    "\"한번터지면수천만명\"…해커에'종합선물세트'된기업개인정보",
+    "'삼전닉스'단일종목레버리지쏠림폭발…주간수익률톱5싹쓸이"
    ],
    "initialized": true,
-   "last_run": "2026-06-28T06:04:40.605595+09:00"
+   "last_run": "2026-06-28T06:10:29.450607+09:00"
   }
  },
  "press_names": {
