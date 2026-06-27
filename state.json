@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-27T10:00:39.105551+09:00",
-     "가깝고 가까운 되길 나라 개선 많이 한일 관계 대통령"
-    ],
-    [
      "2026-06-27T10:10:29.505971+09:00",
      "발표 낯설 지방 숫자 김용범 투자 계획"
     ],
@@ -309,8 +305,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0103_202606261138279317",
-    "https://news.tvchosun.com/site/data/html_dir/2026/06/26/2026062690160.html",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=845166",
     "https://mhnse.com/news/articleView.html?idxno=1442021",
     "http://www.breaknews.com/1217085",
@@ -1808,11 +1802,11 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02981526645485984",
     "https://news.tf.co.kr/read/ptoday/2337148.htm",
     "https://www.jibs.co.kr/news/articles/articlesDetail/62876?feed=na",
-    "https://www.tokenpost.kr/news/breaking/373240"
+    "https://www.tokenpost.kr/news/breaking/373240",
+    "https://www.munhwa.com/article/11598648",
+    "https://www.ajunews.com/view/20260627155110999"
    ],
    "seen_titles": [
-    "최태원·노소영‘세기의재산분할’파기환송심,다음달24일결론난다...",
-    "쟁점은‘5배급등’SK주식…최태원-노소영재산분할파기환송심,7월...",
     "노동부,불소누출반복반도체제조업25개소집중점검",
     "최태원-노소영재산분할,내달24일선고…파기환송심마무리(종합)",
     "삼전·닉스'장중급락'에도,반도체장비주'장중활짝'...왜?",
@@ -3310,10 +3304,12 @@
     "민주당,‘李대통령직권남용현행범’언급한안철수의원고발",
     "민주\"안철수,삼성·하이닉스투자에직권남용운운…즉각고발\"",
     "홍준표\"반도체투자부산떨지말라\"...1000조메가프로젝트에쓴소리",
-    "DRAMETF,자오이혁신편입…보유비중2.91%"
+    "DRAMETF,자오이혁신편입…보유비중2.91%",
+    "의대대신반도체고…NYT가주목한한국학교",
+    "李대통령'호남반도체물부족없다'비판에…\"하루100만톤산업용수..."
    ],
    "initialized": true,
-   "last_run": "2026-06-27T15:55:21.103784+09:00"
+   "last_run": "2026-06-27T16:00:40.106066+09:00"
   }
  },
  "press_names": {
