@@ -330,12 +330,17 @@
     [
      "2026-06-27T14:05:22.023848+09:00",
      "부진 분기점 1만1000P 장기화 코스피 코스닥"
+    ],
+    [
+     "2026-06-27T14:15:25.088470+09:00",
+     "7원 지난주보다 부산 휘발유 주유소 평균가 1993원"
+    ],
+    [
+     "2026-06-27T14:15:25.088470+09:00",
+     "삼전닉스 시장 핵심 주가 따라가는 부상 마이크론 코스피"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10789294",
-    "https://www.sidae.com/article/2026062611190353167",
-    "https://www.newscj.com/news/articleView.html?idxno=3412297",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1714063",
     "https://www.safetynews.co.kr/news/articleView.html?idxno=249210",
     "https://www.joongangenews.com/news/articleView.html?idxno=528566",
@@ -1832,12 +1837,12 @@
     "https://www.insight.co.kr/news/560418",
     "http://www.yonhapnewstv.co.kr/news/MYH20260627140222Bbq",
     "https://daily.hankooki.com/news/articleView.html?idxno=1380367",
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2284080"
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2284080",
+    "https://www.hani.co.kr/arti/politics/bluehouse/1265609.html",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260627.99099008239",
+    "https://www.mk.co.kr/article/12084660"
    ],
    "seen_titles": [
-    "[포토]재산분할파기환송심출석하는최태원회장",
-    "김미애\"정부,추가반도체클러스터필요성·로드맵제시해야\"",
-    "[속보]코스피5%대급락'매도사이드카'발동…삼전6%·닉스7%하락",
     "5%대급락코스피,매도사이드카발동…삼전닉스6%가량뚝",
     "[무등의아침]“국힘,‘호남반도체투자’정치적호도…투자골든...",
     "반도체투톱,2분기영업익150조넘어서나",
@@ -3334,10 +3339,13 @@
     "李대통령\"부처눈엔부처,돼지눈엔돼지\"...호남반도체비판정면...",
     "\"휴대전화해지신청,채팅상담·모바일앱도가능\"",
     "코스닥부진장기화…'코스피1만1000P'분기점?",
-    "'호남반도체물부족'비판에李\"하루100만톤공급가능\""
+    "'호남반도체물부족'비판에李\"하루100만톤공급가능\"",
+    "“물공급검토도안했겠나”…이대통령,‘호남반도체용수부족’...",
+    "부산주유소휘발유평균가ℓ당1993원…지난주보다1.7원↓",
+    "“삼전닉스주가따라가는마이크론”…코스피핵심시장부상?"
    ],
    "initialized": true,
-   "last_run": "2026-06-27T14:10:30.623306+09:00"
+   "last_run": "2026-06-27T14:15:25.088470+09:00"
   }
  },
  "press_names": {
