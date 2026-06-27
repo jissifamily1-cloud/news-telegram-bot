@@ -309,7 +309,6 @@
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026062611550660317",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5202071",
     "https://www.koreaherald.com/article/10789340",
     "https://www.tokenpost.kr/news/economy/372950",
@@ -1808,10 +1807,10 @@
     "https://www.hankyung.com/article/202606185415i",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=552216",
     "https://www.etnews.com/20260627000032",
-    "https://view.asiae.co.kr/article/2026062716502919798"
+    "https://view.asiae.co.kr/article/2026062716502919798",
+    "https://biz.chosun.com/policy/politics/2026/06/27/WWSWI4QGWRG55CVER36ZRXNL3Y/"
    ],
    "seen_titles": [
-    "코스피8400까지밀렸다…올해14번째'매도사이드카'발동",
     "제이투에이치바이오텍,중기부'유니콘브릿지'선정…글로벌도약발판...",
     "[다시보기]6월26일(금)오전사이언스투데이",
     "코스피,5%대급락에매도사이드카…8,400대까지밀려",
@@ -3310,10 +3309,11 @@
     "\"삼성·SK하이닉스에'이것'더해라\"…수익률78%낸1위의승부수",
     "경북도의회\"제2반도체클러스터,정치아닌산업논리로결정해야\"",
     "“1년일한제자,성과급만교장연봉보다많아”…美NYT도주목한반도...",
-    "野\"삼전닉스호남투자강요\"…與\"기업자율적결정\""
+    "野\"삼전닉스호남투자강요\"…與\"기업자율적결정\"",
+    "‘삼전닉스’호남투자놓고주말에도與野공방...안철수“청와대가..."
    ],
    "initialized": true,
-   "last_run": "2026-06-27T16:55:21.592095+09:00"
+   "last_run": "2026-06-27T17:00:39.955108+09:00"
   }
  },
  "press_names": {
