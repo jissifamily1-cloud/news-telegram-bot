@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-28T00:35:20.829925+09:00",
-     "첨단3지구 반도체 공개 촉각 호남 솔라시도"
-    ],
-    [
      "2026-06-28T01:25:21.003816+09:00",
      "음성의 집중보도한 고등학교 충북 뉴욕타임스가"
     ],
@@ -190,10 +186,13 @@
     [
      "2026-06-28T06:30:35.290171+09:00",
      "시장 무더위 얼음 정수기 격돌 집에서 선점 즐기는 이른"
+    ],
+    [
+     "2026-06-28T06:35:21.801675+09:00",
+     "넘어 경쟁력 국토 AI발 키운다 대전환 수도권 지역"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12083961",
     "http://weekly.chosun.com/news/articleView.html?idxno=52938",
     "https://biz.sbs.co.kr/article_hub/20000319106?division=NAVER",
     "http://www.newslock.co.kr/news/articleView.html?idxno=132244",
@@ -1692,10 +1691,10 @@
     "https://www.tokenpost.kr/news/cryptocurrency/373347",
     "https://www.mydaily.co.kr/page/view/2026062805343754596",
     "https://www.g-enews.com/view.php?ud=2026062806231820392bd56fbc3c_1",
-    "https://www.news1.kr/industry/sb-founded/6207368"
+    "https://www.news1.kr/industry/sb-founded/6207368",
+    "https://www.yna.co.kr/view/AKR20260626128400017?input=1195m"
    ],
    "seen_titles": [
-    "코스피8%폭락…서킷브레이커발동으로거래중단,투자자초긴장",
     "'최태원-노소영'파기환송심,7월24일선고…SK주식분할여부·기준시...",
     "티이엠씨씨엔에스,252억규모Chemical공급장치공급계약",
     "노동부,'불소누출'SK하이닉스등반도체업체25곳특별점검",
@@ -3194,10 +3193,11 @@
     "바이낸스,초고위험레버리지상품으로국내투자자보호논란",
     "쑥스러운데뷔첫승\"마냥기쁘지는않지만…\"두산김정우[MD잠실]",
     "EU메탄규제2027강행되나…LNG·항공유공급망직격탄",
-    "\"이른무더위집에서즐기는얼음선점\"…정수기시장'격돌'"
+    "\"이른무더위집에서즐기는얼음선점\"…정수기시장'격돌'",
+    "AI발국토대전환…수도권넘어지역AI경쟁력키운다"
    ],
    "initialized": true,
-   "last_run": "2026-06-28T06:30:35.290171+09:00"
+   "last_run": "2026-06-28T06:35:21.801675+09:00"
   }
  },
  "press_names": {
