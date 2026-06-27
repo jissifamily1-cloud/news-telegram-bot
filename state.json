@@ -265,7 +265,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.nocutnews.co.kr/news/6539223",
     "https://news.dealsitetv.com/articles/172454",
     "https://www.thepowernews.co.kr/view.php?ud=20260626140007144de3f0aa1be_7",
     "https://www.mk.co.kr/article/12083969",
@@ -1764,10 +1763,10 @@
     "https://www.news1.kr/industry/general-industry/6209945",
     "https://www.yna.co.kr/view/AKR20260626161100008?input=1195m",
     "https://biz.sbs.co.kr/article_hub/20000319255?division=NAVER",
-    "https://imnews.imbc.com/replay/2026/nwtoday/article/6833380_37012.html"
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6833380_37012.html",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000045872"
    ],
    "seen_titles": [
-    "오세훈\"청와대주도호남반도체투자,대기업팔비틀기…국정운영사...",
     "Profit-linkedbonusplansneedboardreview,shareholderapproval",
     "[fn사설]기업의지역투자,정치바람에휘둘려선안돼",
     "앰코1조투자본격화…광주반도체후공정확장",
@@ -3266,10 +3265,11 @@
     "\"마이크론봤지?\"삼전100조·닉스70조돌파?…2Q실적3대포인트",
     "이를어쩌나…증시변동성'폭탄'된단일종목레버리지",
     "美,앤트로픽'미토스5'사용제한자국기업만우선풀어줘",
-    "반도체물부족?‥\"하루100만톤공급가능\""
+    "반도체물부족?‥\"하루100만톤공급가능\"",
+    "'코스피150배'베팅상품출시?…수조원몰렸지만규제권한없어"
    ],
    "initialized": true,
-   "last_run": "2026-06-28T07:12:20.871604+09:00"
+   "last_run": "2026-06-28T07:15:24.536643+09:00"
   }
  },
  "press_names": {
