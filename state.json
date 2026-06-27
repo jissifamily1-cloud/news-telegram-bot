@@ -302,17 +302,25 @@
     [
      "2026-06-27T15:55:21.103784+09:00",
      "자오이혁신 편입 비중 보유 DRAM ETF"
+    ],
+    [
+     "2026-06-27T16:05:20.759234+09:00",
+     "임팩트는 정교하게 김재희"
+    ],
+    [
+     "2026-06-27T16:05:20.759234+09:00",
+     "차분하게 핀을 조준한다 김재희"
+    ],
+    [
+     "2026-06-27T16:05:20.759234+09:00",
+     "연봉에도 억대 미만 삼성전자 붙잡았다 1만 줄었다 30세"
+    ],
+    [
+     "2026-06-27T16:05:20.759234+09:00",
+     "럭셔리 광고 침대 읽은 불황에 3000만 팔고 시몬스가 1억 찍었다"
     ]
    ],
    "seen_urls": [
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=845166",
-    "https://mhnse.com/news/articleView.html?idxno=1442021",
-    "http://www.breaknews.com/1217085",
-    "https://www.mt.co.kr/politics/2026/06/26/2026062611341448364",
-    "https://www.ytn.co.kr/_ln/0101_202606261147413504",
-    "https://biz.heraldcorp.com/article/10789331",
-    "https://www.newscj.com/news/articleView.html?idxno=3412309",
-    "https://www.newscj.com/news/articleView.html?idxno=3412311",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=263933",
     "https://www.newspim.com/news/view/20260626000502",
     "https://www.ytn.co.kr/_ln/0102_202606261139525432",
@@ -1804,17 +1812,17 @@
     "https://www.jibs.co.kr/news/articles/articlesDetail/62876?feed=na",
     "https://www.tokenpost.kr/news/breaking/373240",
     "https://www.munhwa.com/article/11598648",
-    "https://www.ajunews.com/view/20260627155110999"
+    "https://www.ajunews.com/view/20260627155110999",
+    "https://www.segye.com/newsView/20260627504826?OutUrl=naver",
+    "https://biz.heraldcorp.com/article/10790183",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=723369",
+    "https://www.newsis.com/view/NISX20260626_0003685578",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=03060246645485984",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=03056966645485984",
+    "https://www.jibs.co.kr/news/articles/articlesDetail/62874?feed=na",
+    "https://www.e-science.co.kr/news/articleView.html?idxno=131095"
    ],
    "seen_titles": [
-    "노동부,불소누출반복반도체제조업25개소집중점검",
-    "최태원-노소영재산분할,내달24일선고…파기환송심마무리(종합)",
-    "삼전·닉스'장중급락'에도,반도체장비주'장중활짝'...왜?",
-    "최태원·노소영'세기의재산분할'파기환송심다음달24일선고",
-    "안철수\"삼전닉스호남투자하명?李,직권남용현행범\"",
-    "코스피,5%급락에매도사이드카발동…올들어14번째",
-    "미자,하이닉스진입후마음고생심했나…급등에\"마음고생했어\"[MHN:...",
-    "안철수\"삼전.닉스호남반도체투자,대통령의직권남용.정경유착\"강...",
     "한동훈\"李대통령반도체압박,박근혜'미르·K스포츠'와뭐가다른가...",
     "한동훈\"이재명정권,반도체호남행압박...박근혜때와다른가\"",
     "한동훈“호남반도체클러스터압박‘미르재단식’…법적책임질수도...",
@@ -3306,10 +3314,18 @@
     "홍준표\"반도체투자부산떨지말라\"...1000조메가프로젝트에쓴소리",
     "DRAMETF,자오이혁신편입…보유비중2.91%",
     "의대대신반도체고…NYT가주목한한국학교",
-    "李대통령'호남반도체물부족없다'비판에…\"하루100만톤산업용수..."
+    "李대통령'호남반도체물부족없다'비판에…\"하루100만톤산업용수...",
+    "주유소기름값,6주연속하락…휘발유전국평균2000원대",
+    "‘낯선숫자’쏟아진다…29일靑국민보고회,이재용·최태원도참석",
+    "[증시주간핫리뷰]최고치찍고역대급급락…'롤러코스터'탄코스피",
+    "삼성·SK,AI데이터센터투자본격화…'한국판스타게이트'현실화기대...",
+    "[포토]김재희,임팩트는정교하게",
+    "[포토]김재희,차분하게핀을조준한다",
+    "억대연봉에도못붙잡았다…삼성전자30세미만1만명줄었다",
+    "불황에3000만원침대팔고,광고1억뷰찍었다…시몬스가읽은럭셔리..."
    ],
    "initialized": true,
-   "last_run": "2026-06-27T16:00:40.106066+09:00"
+   "last_run": "2026-06-27T16:05:20.759234+09:00"
   }
  },
  "press_names": {
@@ -3665,6 +3681,7 @@
   "ilemonde.com": "르몽드디플로마티크(LeMonde Diplomatique",
   "ngonews.kr": "한국NGO신문",
   "electimes.com": "전기신문",
-  "fortunekorea.co.kr": "포춘코리아"
+  "fortunekorea.co.kr": "포춘코리아",
+  "e-science.co.kr": "e-science.co.kr"
  }
 }
