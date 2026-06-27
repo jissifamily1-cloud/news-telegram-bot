@@ -129,8 +129,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260626_0003685122",
-    "https://www.nocutnews.co.kr/news/6539194",
     "https://www.econovill.com/news/articleView.html?idxno=743570",
     "https://news.dealsitetv.com/articles/172451",
     "https://www.econovill.com/news/articleView.html?idxno=743562",
@@ -1628,11 +1626,11 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01082406645486312",
     "http://www.osen.co.kr/article/G1112830069",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000045859",
-    "https://www.xportsnews.com/article/2165638"
+    "https://www.xportsnews.com/article/2165638",
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=430287",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008630459&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "[상반기ETF결산]㊥ETF자금도'간판상품'쏠림···美지수·삼전닉...",
-    "급락세이어지는코스피..사이드카이어서킷브레이커발동",
     "[이시각헤드라인]6월26일뉴스현장",
     "'검은화요일'악몽재현…코스피8%급락",
     "\"광주공장증설\"세계적반도체기업'엠코'1조원투자",
@@ -3130,10 +3128,12 @@
     "李대통령,'호남반도체투자'SNS만6개…\"尹정부에서도공식확인\"",
     "노시환,역대17번째·한화최초5G연속홈런“내일도홈런도전,좋은...",
     "李\"호남반도체곧공개\"…첨단3지구·솔라시도촉각",
-    "'1차지명→트레이드'프로9년차투수마침내첫승…\"늘아내에게고..."
+    "'1차지명→트레이드'프로9년차투수마침내첫승…\"늘아내에게고...",
+    "김경진호,IHFU-20여자핸드볼세계선수권2승으로16강안착",
+    "이대통령\"호남반도체산업입지,윤석열정부서이미공식확인\""
    ],
    "initialized": true,
-   "last_run": "2026-06-28T01:10:27.375648+09:00"
+   "last_run": "2026-06-28T01:15:24.157627+09:00"
   }
  },
  "press_names": {
