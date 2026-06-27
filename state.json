@@ -330,10 +330,13 @@
     [
      "2026-06-27T14:35:21.158999+09:00",
      "축하선물은 변호사보다 낫다는 하이닉스 합격"
+    ],
+    [
+     "2026-06-27T14:40:27.120736+09:00",
+     "반도체 고발 민주당 안철수 운운 즉각 직권남용 호남행에"
     ]
    ],
    "seen_urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=1385589",
     "https://economist.co.kr/article/view/ecn202606260003",
     "https://biz.sbs.co.kr/article_hub/20000319080?division=NAVER",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678614",
@@ -1832,10 +1835,10 @@
     "https://biz.heraldcorp.com/article/10790169",
     "https://www.kizmom.com/news/articleView.html?idxno=111203",
     "http://www.fnnews.com/news/202606271301448834",
-    "https://www.news2day.co.kr/article/20260627500023"
+    "https://www.news2day.co.kr/article/20260627500023",
+    "https://imnews.imbc.com/news/2026/politics/article/6833307_36911.html"
    ],
    "seen_titles": [
-    "외국인삼전닉스조단위매도에…코스피,14번째매도사이드카",
     "최태원·노소영,재산분할파기환송심재개...崔\"잘마치고오겠다\"",
     "코스피,매도사이드카발동…8400선까지후퇴",
     "전화통화없이'채팅·앱'으로통신사해지가능해진다",
@@ -3334,10 +3337,11 @@
     "李대통령,호남클러스터비판겨냥“돼지눈에는돼지만보여”",
     "이재명대통령\"삼전닉스호남투자,물충분하다\"…용수부족론정면...",
     "\"회사통장보다싸졌다\"…현금보다시총낮은상장사127곳[레버리지E...",
-    "[재계인사이드]변호사보다낫다는하이닉스합격,축하선물은?"
+    "[재계인사이드]변호사보다낫다는하이닉스합격,축하선물은?",
+    "민주당\"안철수,반도체호남행에'직권남용'운운‥즉각고발\""
    ],
    "initialized": true,
-   "last_run": "2026-06-27T14:35:21.158999+09:00"
+   "last_run": "2026-06-27T14:40:27.120736+09:00"
   }
  },
  "press_names": {
