@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-27T11:55:21.969268+09:00",
-     "쇼크 닛케이도 투자 연기설에 오픈AI 급락 피한 IPO 증시"
-    ],
-    [
-     "2026-06-27T11:55:21.969268+09:00",
-     "성과급 한국 언론 삼전닉스 로또 졸업만 보장되는 하면 학교"
-    ],
-    [
      "2026-06-27T12:05:20.945807+09:00",
      "기업 솔루션 최태원 마쳐 대한상의 회장"
     ],
@@ -293,9 +285,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/general-stock/6209391",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=782014",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000045621",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5202119",
     "https://www.kukinews.com/article/view/kuk202606260068",
     "http://www.joseilbo.com/news/news_read.php?uid=570805&class=32",
@@ -1792,12 +1781,12 @@
     "http://www.seouleconews.com/news/articleView.html?idxno=92067",
     "https://www.kgnews.co.kr/news/article.html?no=901670",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5202406",
-    "http://www.rookie.co.kr/news/articleView.html?idxno=124190"
+    "http://www.rookie.co.kr/news/articleView.html?idxno=124190",
+    "https://www.slist.kr/news/articleView.html?idxno=748072",
+    "https://biz.sbs.co.kr/article_hub/20000319252?division=NAVER",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463586"
    ],
    "seen_titles": [
-    "코스피,5%급락에매도사이드카…8400선까지밀려[KDFKOSPI]",
-    "김용범\"29일발표반도체투자,워낙규모커서'이게진짜냐'할것\"",
-    "외국인관광객급증속...현대백화점·신세계주가'장중강세'",
     "한동훈\"반도체클러스터호남압박사실이면주주가치훼손\"",
     "한동훈,'호남반도체'에\"朴정부미르재단때와뭐가다른가\"",
     "\"메모리수요감소우려\"삼전닉스8%대급락…코스피8250선[장중시황]",
@@ -3294,10 +3283,13 @@
     "李대통령\"호남반도체물하루100만t가능,돼지눈엔돼지만\"",
     "與-안철수,삼성전자·SK하이닉스호남반도체투자놓고고발전태세",
     "코스피,역대급롤러코스터…금융위기때넘어선널뛰기[토요와이드]",
-    "이제결승만남았다!뜨거웠던Y리그준결승일정종료...삼성-정관장,..."
+    "이제결승만남았다!뜨거웠던Y리그준결승일정종료...삼성-정관장,...",
+    "안철수\"삼전닉스호남투자강요는직권남용\"…與\"허위사실고발\"",
+    "국힘\"호남물충분,근거뒷받침안돼\"…민주\"정쟁소재무책임\"",
+    "삼성·SK대안찾는다…애플,중국CXMT에손내밀었다"
    ],
    "initialized": true,
-   "last_run": "2026-06-27T17:55:20.766831+09:00"
+   "last_run": "2026-06-27T18:00:39.954758+09:00"
   }
  },
  "press_names": {
