@@ -86,11 +86,17 @@
     [
      "2026-06-28T03:05:21.635535+09:00",
      "전북상협 최적지는 삼전닉스 패싱 새만금 위기 전북 반도체 투자"
+    ],
+    [
+     "2026-06-28T03:20:28.661981+09:00",
+     "전말 거품 실체는 삼성 폭락 지연 회수 공포"
+    ],
+    [
+     "2026-06-28T03:20:28.661981+09:00",
+     "롯데전 마침표 25년 최고령 좌완 인생 프로 고효준 28일"
     ]
    ],
    "seen_urls": [
-    "https://www.newswhoplus.com/news/articleView.html?idxno=63179",
-    "https://imnews.imbc.com/news/2026/econo/article/6833122_36932.html",
     "https://www.polinews.co.kr/news/articleView.html?idxno=735223",
     "http://www.4th.kr/news/articleView.html?idxno=2113765",
     "https://www.ikbc.co.kr/article/view/kbc202606250057",
@@ -1588,11 +1594,11 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=0030030376&code=61121111&cp=nv",
     "https://www.starnewskorea.com/sports/2026/06/28/2026062801141436074",
     "https://www.g-enews.com/view.php?ud=2026062720365522119a1f309431_1",
-    "http://www.jeonmin.co.kr/news/articleView.html?idxno=442290"
+    "http://www.jeonmin.co.kr/news/articleView.html?idxno=442290",
+    "https://www.g-enews.com/view.php?ud=202606271649342348fbbec65dfb_1",
+    "https://www.newspim.com/news/view/20260628000002"
    ],
    "seen_titles": [
-    "\"상담원채팅으로이동통신해지가능\"...정부,해지절차개선",
-    "SK엠앤서비스,광주중소기업안전보건관리지원나서",
     "오세훈\"李,대기업팔비틀어호남반도체투자…국정운영사유화\"",
     "SK렌터카'차한대만'캠페인…렌터카일상화나선다",
     "한동훈\"반도체투자는정치아닌기업판단\"…호남클러스터논쟁재...",
@@ -3090,10 +3096,12 @@
     "광주·전남반도체클러스터최적지…“경제적당위성증명될것”",
     "'43세최고령좌완'끝내1군부름없었다,결국은퇴선언!28일롯데전...",
     "AI주급락에글로벌증시출렁…반도체주도동반약세",
-    "삼전닉스반도체투자전북패싱위기…\"최적지는새만금\"전북상협건..."
+    "삼전닉스반도체투자전북패싱위기…\"최적지는새만금\"전북상협건...",
+    "AI거품공포,실체는'회수지연'…삼성·SK폭락전말",
+    "[프로야구]'최고령좌완'고효준,25년프로인생마침표...28일롯데전..."
    ],
    "initialized": true,
-   "last_run": "2026-06-28T03:15:25.417705+09:00"
+   "last_run": "2026-06-28T03:20:28.661981+09:00"
   }
  },
  "press_names": {
