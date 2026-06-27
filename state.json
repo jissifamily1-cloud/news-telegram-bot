@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-27T08:40:29.627370+09:00",
-     "K바이오 바이오USA서 역대급 주인공은 존재감 올해"
-    ],
-    [
-     "2026-06-27T08:40:29.627370+09:00",
-     "역대 대기자금 빚투 수급뿐 6조 개인 믿을"
-    ],
-    [
      "2026-06-27T09:05:20.193351+09:00",
      "어떤 삼전닉스 이준석도 가겠나 한동훈 가세 호남 인재가"
     ],
@@ -334,11 +326,13 @@
     [
      "2026-06-27T14:40:27.120736+09:00",
      "반도체 고발 민주당 안철수 운운 즉각 직권남용 호남행에"
+    ],
+    [
+     "2026-06-27T14:45:24.863161+09:00",
+     "SK하이닉스 1000조 변수로 증시 삼성전자 메가투자"
     ]
    ],
    "seen_urls": [
-    "https://economist.co.kr/article/view/ecn202606260003",
-    "https://biz.sbs.co.kr/article_hub/20000319080?division=NAVER",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678614",
     "https://www.newsis.com/view/NISX20260626_0003684999",
     "https://www.businesspost.co.kr/BP?command=article_view&num=440915",
@@ -1836,11 +1830,11 @@
     "https://www.kizmom.com/news/articleView.html?idxno=111203",
     "http://www.fnnews.com/news/202606271301448834",
     "https://www.news2day.co.kr/article/20260627500023",
-    "https://imnews.imbc.com/news/2026/politics/article/6833307_36911.html"
+    "https://imnews.imbc.com/news/2026/politics/article/6833307_36911.html",
+    "https://www.newdaily.co.kr/site/data/html/2026/06/27/2026062700018.html",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16114216"
    ],
    "seen_titles": [
-    "최태원·노소영,재산분할파기환송심재개...崔\"잘마치고오겠다\"",
-    "코스피,매도사이드카발동…8400선까지후퇴",
     "전화통화없이'채팅·앱'으로통신사해지가능해진다",
     "Govt’sHonamchipinvestmentplangainsmomentum",
     "이천시,반도체특별법시행령개정에기대감…\"첨단반도체중심도시도...",
@@ -3338,10 +3332,12 @@
     "이재명대통령\"삼전닉스호남투자,물충분하다\"…용수부족론정면...",
     "\"회사통장보다싸졌다\"…현금보다시총낮은상장사127곳[레버리지E...",
     "[재계인사이드]변호사보다낫다는하이닉스합격,축하선물은?",
-    "민주당\"안철수,반도체호남행에'직권남용'운운‥즉각고발\""
+    "민주당\"안철수,반도체호남행에'직권남용'운운‥즉각고발\"",
+    "李대통령\"호남반도체클러스터물충분…산업용수하루100만톤공...",
+    "삼성전자·SK하이닉스1000조메가투자,증시새변수로"
    ],
    "initialized": true,
-   "last_run": "2026-06-27T14:40:27.120736+09:00"
+   "last_run": "2026-06-27T14:45:24.863161+09:00"
   }
  },
  "press_names": {
