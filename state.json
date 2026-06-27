@@ -330,12 +330,13 @@
     [
      "2026-06-28T08:15:23.900058+09:00",
      "한국인가 K바이오의 BIO 위상 USA서 확인한 달라진"
+    ],
+    [
+     "2026-06-28T08:20:29.319268+09:00",
+     "주역 신화의 마이크론 반도체 산제이 메흐로트라"
     ]
    ],
    "seen_urls": [
-    "http://www.osen.co.kr/article/G1112829085",
-    "https://www.cstimes.com/news/articleView.html?idxno=711278",
-    "https://www.jbnews.com/news/articleView.html?idxno=1506567",
     "https://www.mediapen.com/news/view/1106763",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=723342",
     "https://www.dailian.co.kr/news/view/1660331/?sc=Naver",
@@ -1832,12 +1833,12 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1714171",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463610",
     "https://www.newsway.co.kr/news/view?ud=2026062614465918687",
-    "https://www.etoday.co.kr/news/view/2597844"
+    "https://www.etoday.co.kr/news/view/2597844",
+    "https://www.ikbc.co.kr/article/view/kbc202606280005",
+    "https://www.g-enews.com/view.php?ud=202606280751437885fbbec65dfb_1",
+    "https://www.g-enews.com/view.php?ud=202606261054051583906806b77b_1"
    ],
    "seen_titles": [
-    "나스닥100선물'급락'속..일본증시'장중뚝',7만선이탈",
-    "KOSPI暴跌8%触发熔断机制…今年第5次",
-    "오픈AI,첫추론용AI칩'할라페뇨'공개···엔비디아의존축소",
     "\"메모리비싸서못견뎌\"애플·MS,가격인상에주가급락...수혜는또...",
     "미자,하이닉스13%급등에억울함토로“이제나때문에떨어졌다고...",
     "[특징주]티이엠씨씨엔에스,SK하이닉스와252억공급계약체결에↑…...",
@@ -3334,10 +3335,13 @@
     "서학개미반도체순매수로태세전환…스페이스X팔았다",
     "SK하이닉스,美나스닥출격…ADR상장에글로벌자금몰리나",
     "반도체투톱엇갈린평가…증권가\"삼전보다SK하이닉스더간다\"",
-    "“왜한국인가”…BIOUSA서확인한K바이오의달라진위상[바이오USA]"
+    "“왜한국인가”…BIOUSA서확인한K바이오의달라진위상[바이오USA]",
+    "코스피150배·삼전닉스50배에투자...\"무법지대도박판\"",
+    "美제재대상中메모리카드꺼낸애플…삼성·SK하이닉스압박",
+    "[김대호인물]산제이메흐로트라\"마이크론반도체신화의주역\""
    ],
    "initialized": true,
-   "last_run": "2026-06-28T08:15:45.038429+09:00"
+   "last_run": "2026-06-28T08:20:29.319268+09:00"
   }
  },
  "press_names": {
