@@ -249,8 +249,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.newsprime.co.kr/news/article.html?no=738138",
-    "https://www.busan.com/view/busan/view.php?code=2026062612292472446",
     "http://www.fnnews.com/news/202606261153326814",
     "https://www.sidae.com/article/2026062612475983711",
     "https://www.chosun.com/politics/assembly/2026/06/26/I2RYHPOVQRGP7NFRJDDHOP7YGI/",
@@ -1748,11 +1746,11 @@
     "https://www.kyeonggi.com/article/20260627580158",
     "https://biz.heraldcorp.com/article/10789637",
     "https://www.topstarnews.net/news/articleView.html?idxno=16114359",
-    "https://www.donga.com/news/Politics/article/all/20260627/134193377/2"
+    "https://www.donga.com/news/Politics/article/all/20260627/134193377/2",
+    "https://www.sedaily.com/article/20060880",
+    "http://www.babytimes.co.kr/news/articleView.html?idxno=73407"
    ],
    "seen_titles": [
-    "파랗게질린코스피…‘삼전닉스’-10%에또서킷브레이커",
-    "야권유력주자들\"반도체호남이전\"일제히비판…\"전력·용수·인력...",
     "코스피8%대급락…매도사이드카이어'서킷브레이커'까지잇단발동",
     "\"삼성·SK호남투자압박,미르재단사건과뭐가다른가\"한동훈'반도...",
     "반도체發차익실현에코스피'검은금요일'…사이드카·서킷브레이커발...",
@@ -3250,10 +3248,12 @@
     "[속보]李대통령“정부가기업팔비틀었다?CEO들이이익판단해결단...",
     "M7은끝났다고?…“빅테크지금도너무싸다”는이유[투자360]",
     "\"2승1패조2위\"한국U-20여자핸드볼,세계선수권16강행",
-    "안철수“호남반도체발표하면청와대로고발장배송할것”"
+    "안철수“호남반도체발표하면청와대로고발장배송할것”",
+    "호남반도체용수논란에…김성환“하루100만톤확보가능,다음주계...",
+    "최태원·노소영재산분할파기환송심7월24일선고"
    ],
    "initialized": true,
-   "last_run": "2026-06-27T20:05:22.048942+09:00"
+   "last_run": "2026-06-27T20:10:29.354470+09:00"
   }
  },
  "press_names": {
