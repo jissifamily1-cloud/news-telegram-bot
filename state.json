@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-28T18:10:28.156696+09:00",
-     "해달라 사게 애플 중국산 정부에 SOS"
-    ],
-    [
-     "2026-06-28T18:10:28.156696+09:00",
-     "프로젝트 삼전닉스 나온다"
-    ],
-    [
-     "2026-06-28T18:10:28.156696+09:00",
-     "주말 장애 없는 AI에이전트로 IT 밤낮 해결한다"
-    ],
-    [
-     "2026-06-28T18:10:28.156696+09:00",
-     "매긴다면 세금을 삼전닉스 레버리지에"
-    ],
-    [
      "2026-06-28T18:15:24.598574+09:00",
      "쓴다 GPU 반도체 사고 적금 청년 초과세수 보태고"
     ],
@@ -438,13 +422,17 @@
     [
      "2026-06-29T00:05:21.539994+09:00",
      "빚투 레버리지 단일종목 보완책 서둘러야"
+    ],
+    [
+     "2026-06-29T00:10:28.360180+09:00",
+     "정치논리 반도체투자에 개입"
+    ],
+    [
+     "2026-06-29T00:10:28.360180+09:00",
+     "코스닥 30년 뒤로"
     ]
    ],
    "seen_urls": [
-    "http://www.4th.kr/news/articleView.html?idxno=2113811",
-    "https://www.news2day.co.kr/article/20260627500037",
-    "https://view.asiae.co.kr/article/2026062712423177308",
-    "http://www.boannews.com/media/view.asp?idx=144348&kind=2",
     "https://www.medipana.com/news/articleView.html?idxno=413687",
     "https://www.mk.co.kr/article/12084640",
     "https://magazine.hankyung.com/business/article/202606245664b",
@@ -1940,13 +1928,13 @@
     "http://www.fntimes.com/html/view.php?ud=202606262149144502dd55077bc2_18",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=80662",
     "https://www.g-enews.com/view.php?ud=202606272052315121906806b77b_1",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20260628010009729"
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260628010009729",
+    "https://www.kado.net/news/articleView.html?idxno=2058298",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3619987",
+    "https://www.kado.net/news/articleView.html?idxno=2058275",
+    "https://www.joongang.co.kr/article/25440576"
    ],
    "seen_titles": [
-    "한동훈\"김어준이삼성·SK대주주냐\"…정부정책공개방식직격",
-    "6월4주차SK증권주가2천원대후반서중반으로하락",
-    "李대통령SNS에의미심장글…“돼지눈엔돼지만보이는법”",
-    "이재명\"돼지눈에는돼지\"..반도체호남특혜론반박",
     "반도체팹‘호남·충청행’논란…TK홀대론에구미,평당1000원승부수",
     "'호남물부족론'직접반박한李\"삼성·SK,물부족한지역에공장지...",
     "한국사이버안보학회,AI시대국가사이버안보정책논의...7월9일세미...",
@@ -3442,10 +3430,14 @@
     "CEO1년차SKAX김완종…‘넘버4’탈출비장의승부수",
     "[더페어돋보기]레버리지그늘에갇힌삼성전자·SK하이닉스주가변동...",
     "[김대호진단]VIX공포지수\"한국과미국의차이\"",
-    "[사설]빚투,단일종목레버리지보완책서둘러야"
+    "[사설]빚투,단일종목레버리지보완책서둘러야",
+    "삼전닉스'메가투자'공개…균형발전승부수에강원은?",
+    "'호남반도체클러스터'역대급투자예고...관련주뭐있나?",
+    "[사설]반도체투자에정치논리개입안돼",
+    "1000→851…뒤로간코스닥30년"
    ],
    "initialized": true,
-   "last_run": "2026-06-29T00:05:21.539994+09:00"
+   "last_run": "2026-06-29T00:10:28.360180+09:00"
   }
  },
  "press_names": {
