@@ -526,11 +526,17 @@
     [
      "2026-06-28T10:25:24.307128+09:00",
      "두산선 대반전 외야수 삼성이 류승민의 놓친 복덩이"
+    ],
+    [
+     "2026-06-28T10:30:34.506812+09:00",
+     "코스피 밀린 코스닥 존재감 독주에 사라져"
+    ],
+    [
+     "2026-06-28T10:30:34.506812+09:00",
+     "50L L당 6주 195원 주유 하락 9원 했다는 기름값 절감액 내렸다 연속"
     ]
    ],
    "seen_urls": [
-    "https://www.bloter.net/news/articleView.html?idxno=666653",
-    "http://www.newstomato.com/ReadNews.aspx?no=1305337&inflow=N",
     "https://www.dailian.co.kr/news/view/1660384/?sc=Naver",
     "https://www.bloter.net/news/articleView.html?idxno=666637",
     "https://sports.hankooki.com/news/articleView.html?idxno=6935504",
@@ -2028,11 +2034,11 @@
     "https://www.khan.co.kr/article/202606281021001",
     "https://www.yna.co.kr/view/PYH20260628024600013?input=1196m",
     "https://www.yna.co.kr/view/PYH20260628024500013?input=1196m",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003246899&CMPT_CD=P0010"
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003246899&CMPT_CD=P0010",
+    "https://www.econovill.com/news/articleView.html?idxno=743673",
+    "https://www.greened.kr/news/articleView.html?idxno=343536"
    ],
    "seen_titles": [
-    "애플·오픈AI에꺾인반도체랠리…삼전·SK하닉,6%대급락[장중시황]",
-    "\"하루는폭등,하루는폭락\"...서킷브레이커걸린코스피,'변동성의덫...",
     "SKhynixNasdaqADRlistingseenaspotentialsupportforwonamidprolo",
     "\"AI·AX사업진행시켜!\"LG에너지솔루션·SKT등기업들'CEO가직접챙...",
     "‘기록제조기’최정,이번에는4500루타눈앞…9루타남아→달성시‘...",
@@ -3530,10 +3536,12 @@
     "'집값자극할라'사내대출당국촉각…직접규제는신중",
     "K-AI얼라이언스,회원사50개로늘어…SK“글로벌AI플랫폼본격화”",
     "K-AI얼라이언스,SK글로벌AI플랫폼본격화",
-    "삼성이놓친외야수,두산선'복덩이'...류승민의대반전"
+    "삼성이놓친외야수,두산선'복덩이'...류승민의대반전",
+    "[코스닥출범30년①]코스피독주에밀린코스닥,존재감사라져",
+    "'6주연속하락'했다는기름값,L당3.9원내렸다…50L주유절감액195원"
    ],
    "initialized": true,
-   "last_run": "2026-06-28T10:25:24.307128+09:00"
+   "last_run": "2026-06-28T10:30:34.506812+09:00"
   }
  },
  "press_names": {
