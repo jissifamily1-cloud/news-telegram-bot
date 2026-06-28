@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-28T15:45:24.236029+09:00",
-     "김정관 용인만으론 부족 거점으로 경쟁력 있다 반도체 서남권"
-    ],
-    [
-     "2026-06-28T15:45:24.236029+09:00",
-     "호남반도체 추계 수준으로 130만t 이상 용인산단 물공급"
-    ],
-    [
      "2026-06-28T15:50:28.071614+09:00",
      "조성 호남 반도계 특정 지역 생태계 특혜 대통령 아냐"
     ],
@@ -710,12 +702,17 @@
     [
      "2026-06-28T21:35:23.115102+09:00",
      "삼성 전국이 술렁 역대급 투자에"
+    ],
+    [
+     "2026-06-28T21:45:25.109797+09:00",
+     "미래에셋 30억 이상 자산가 증가 3배"
+    ],
+    [
+     "2026-06-28T21:45:25.109797+09:00",
+     "150원 최고가 전망 인하 1800원대 석유 휘발유"
     ]
    ],
    "seen_urls": [
-    "https://www.econotimes.com/Wall-Street-Ends-Lower-as-AI-Stocks-Drag-Markets-Fed-Rate-Outlook-Shifts-1745301",
-    "https://www.pressian.com/pages/articles/2026062710351411028",
-    "https://www.mt.co.kr/politics/2026/06/27/2026062710240835305",
     "https://www.munhwa.com/article/11598632",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=361161",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1714156",
@@ -2212,12 +2209,12 @@
     "https://www.idaegu.co.kr/news/articleView.html?idxno=552304",
     "https://www.newscj.com/news/articleView.html?idxno=3412731",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=552314",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631308&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631308&plink=ORI&cooper=NAVER",
+    "https://www.ulsanpress.net/news/articleView.html?idxno=578042",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=552322",
+    "https://www.ulsanpress.net/news/articleView.html?idxno=577993"
    ],
    "seen_titles": [
-    "6월4주차SK하이닉스주가변동성확대",
-    "최근5거래일SK스퀘어주가변동성확대",
-    "박지원\"한동훈,호남반도체명청대전총알용?...무슨총알을수백조...",
     "WallStreetEndsLowerasAIStocksDragMarkets,FedRateOutlookShift",
     "이성윤\"삼전닉스반도체클러스터입지'최적지는'새만금'\"",
     "한동훈,김용범정책실장에\"삼성·SK투자문제,왜김어준에보고하냐...",
@@ -3714,10 +3711,13 @@
     "李대통령,오늘호남반도체등'3대메가프로젝트'발표",
     "메가투자승부수띄운李정부…균형발전·AI대전환시험대",
     "삼성·SK,역대급투자에전국이'술렁'",
-    "민주당\"국힘,호남반도체투자지역감정몰아…대안없이발목잡기\""
+    "민주당\"국힘,호남반도체투자지역감정몰아…대안없이발목잡기\"",
+    "'현역최고령'웨일즈고효준,25년프로생활마침표",
+    "미래에셋證\"30억이상자산가3배증가\"",
+    "석유최고가150원인하…휘발유1800원대전망"
    ],
    "initialized": true,
-   "last_run": "2026-06-28T21:40:29.543078+09:00"
+   "last_run": "2026-06-28T21:45:25.109797+09:00"
   }
  },
  "press_names": {
