@@ -453,11 +453,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.betanews.net/article/view/beta202606260095",
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=361125",
-    "https://weekly.khan.co.kr/article/202606261453001",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=204046",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463401",
     "https://www.m-i.kr/news/articleView.html?idxno=1385729",
     "http://www.srtimes.kr/news/articleView.html?idxno=206152",
     "https://www.newsis.com/view/NISX20260626_0003685332",
@@ -1952,14 +1947,14 @@
     "https://www.insight.co.kr/news/560442",
     "https://www.businessplus.kr/news/articleView.html?idxno=113401",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=80667",
-    "https://www.newsis.com/view/NISX20260628_0003686347"
+    "https://www.newsis.com/view/NISX20260628_0003686347",
+    "https://economist.co.kr/article/view/ecn202606280003",
+    "http://www.newstomato.com/ReadNews.aspx?no=1305390&inflow=N",
+    "https://www.viva100.com/article/20260628500196",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01298886645486312",
+    "http://weekly.chosun.com/news/articleView.html?idxno=52975"
    ],
    "seen_titles": [
-    "최태원·노소영이혼파기환송심종료…내달24일선고",
-    "최태원-노소영'재산분할파기환송심'내달24일선고",
-    "나스닥가는SK하이닉스,글로벌AI생태계안착포석",
-    "삼성전자·SK하이닉스호남팹설립거론되지만…용수·소부장'물음표...",
-    "\"SK텔레콤,이익회복국면진입...하반기실적정상화·배당회복기대...",
     "'설상가상'사흘새두번터진서킷...5.5조던진외인에멍드는국장",
     "인공지능신화뒤에숨겨진오염과착취[오늘을생각한다]",
     "[식음료Pick]제철·기능성·간편성으로제품다각화",
@@ -3454,10 +3449,15 @@
     "전직장'SK하이닉스'라고고백한아나운서\"같은연차동기성과급1.2...",
     "SKAI위원회,'K-AI연합체'50개사로확대…글로벌AI플랫폼키운다",
     "SK그룹K-AI얼라이언스,50개사규모로확장…글로벌AI생태계주도나...",
-    "43세최고령투수고효준,25년프로생활마침표…오늘은퇴식"
+    "43세최고령투수고효준,25년프로생활마침표…오늘은퇴식",
+    "李\"尹정권서도확인…서남해안재생에너지풍부\"'호남반도체'전망은",
+    "‘에너지명가’GS의변신…국내첫‘GW급데이터센터’승부수",
+    "SK,K-AI얼라이언스확대⋯글로벌AI플랫폼키운다",
+    "\"밥사고싶다\"…젠슨황가족이韓경찰서에보낸감사편지",
+    "\"밥한번사고싶다\"…젠슨황,서울경찰에감사메일보낸이유"
    ],
    "initialized": true,
-   "last_run": "2026-06-28T09:35:20.839615+09:00"
+   "last_run": "2026-06-28T09:40:27.839858+09:00"
   }
  },
  "press_names": {
