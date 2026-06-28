@@ -601,8 +601,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.newsworker.co.kr/news/articleView.html?idxno=433448",
-    "https://magazine.hankyung.com/business/article/202606260530b",
     "https://biz.newdaily.co.kr/site/data/html/2026/06/26/2026062600176.html",
     "https://www.enetnews.co.kr/news/articleView.html?idxno=51725",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463439",
@@ -2100,11 +2098,11 @@
     "https://www.kyeonggi.com/article/20260628580058",
     "http://www.fntimes.com/html/view.php?ud=202606261918574212179ad43907_18",
     "https://www.viewsnnews.com/article?q=236798",
-    "https://www.busan.com/view/busan/view.php?code=2026062811585127341"
+    "https://www.busan.com/view/busan/view.php?code=2026062811585127341",
+    "https://www.m-i.kr/news/articleView.html?idxno=1385911",
+    "https://www.nocutnews.co.kr/news/6539632"
    ],
    "seen_titles": [
-    "美증시뒤흔든'웬디스랠리'…한국테마주와무엇이닮았나",
-    "개미8조원순매수에도못막았다…코스피8400선마감",
     "최태원·노소영7월24일선고",
     "[체크!해주]마이크론,깜짝실적에16%급등…AI슈퍼사이클'청신호'",
     "경상북도의회\"반도체투자,정치적논리아닌산업논리필요\"",
@@ -3602,10 +3600,12 @@
     "[속보]국힘,‘부처·돼지눈’SNS에총공세…“반도체를표밭다지기...",
     "기관'삼성전기'·외인'HD현대중공업'·개인'SK하이닉스'1위[주간코...",
     "유승민\"삼전닉스,집권초'행정지도'무서워'굴복'\"",
-    "코스피150배·삼전닉스50배상품출시한바이낸스…\"주식판아닌도박..."
+    "코스피150배·삼전닉스50배상품출시한바이낸스…\"주식판아닌도박...",
+    "SK,AI스타트업판키운다…'K-AI얼라이언스2.0'가동",
+    "바이낸스에'코스피150배·삼전·SK50배'베팅상품등장"
    ],
    "initialized": true,
-   "last_run": "2026-06-28T12:05:23.745030+09:00"
+   "last_run": "2026-06-28T12:10:29.010374+09:00"
   }
  },
  "press_names": {
