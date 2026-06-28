@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-28T16:50:29.529196+09:00",
-     "행정수도 과제 재정난 완성 극복 충청권 산적"
-    ],
-    [
      "2026-06-28T16:55:21.662711+09:00",
      "호남 나올 이게 SK하이닉스 거라는 반응 삼성전자 진짜냐 영남 충청"
     ],
@@ -617,8 +613,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12084627",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=723385",
     "https://www.jibs.co.kr/news/articles/articlesDetail/62867?feed=na",
     "https://www.sedaily.com/article/20060714",
     "http://www.fnnews.com/news/202606271026567974",
@@ -2116,11 +2110,11 @@
     "http://www.newslock.co.kr/news/articleView.html?idxno=132308",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596688",
     "https://www.sedaily.com/article/20061096",
-    "https://www.sedaily.com/article/20061099"
+    "https://www.sedaily.com/article/20061099",
+    "http://weekly.chosun.com/news/articleView.html?idxno=52984",
+    "https://www.m-i.kr/news/articleView.html?idxno=1385965"
    ],
    "seen_titles": [
-    "국내기름값6주째하락...원유도입가4개월만에70달러아래",
-    "“삼성·SK하이닉스‘취업복권’노리는10대들”…NYT,충북반도체고...",
     "이천,반도체특별법‘족쇄’풀렸다…성수석당선인“메가클러스터...",
     "“코스피롤러코스터장세”…다음주9500선까지오른다는데",
     "[내집마련캘린더]서울재개발'빅매치'…장위·노량진청약문열린다",
@@ -3618,10 +3612,12 @@
     "SK,'K-AI얼라이언스'50개사로확장...글로벌AI플랫폼시동",
     "호남반도체투자발표임박…정치권공방격화",
     "“용인팹조기완공”밝힌삼성·SK…광주에반도체공장4~6기신설",
-    "[단독]삼성·SK,서남권반도체클러스터최대900조투자"
+    "[단독]삼성·SK,서남권반도체클러스터최대900조투자",
+    "'1000조투자'공개한다…이대통령,삼성·SK와메가프로젝트발표",
+    "강명구국회의원,\"특정지역위한정치논리안돼…반도체구미택하라..."
    ],
    "initialized": true,
-   "last_run": "2026-06-28T22:50:29.002736+09:00"
+   "last_run": "2026-06-28T22:55:19.652653+09:00"
   }
  },
  "press_names": {
