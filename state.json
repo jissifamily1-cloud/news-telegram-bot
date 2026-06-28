@@ -586,10 +586,13 @@
     [
      "2026-06-28T12:45:24.773291+09:00",
      "현대UNICORN SK스퀘어 SK하이닉스밸류체인액 SK하닉 투자하는 집중"
+    ],
+    [
+     "2026-06-28T12:50:28.069251+09:00",
+     "절차 입지 반도체 법으로 기준 윤상현 클러스터 제도화 선정"
     ]
    ],
    "seen_urls": [
-    "https://www.cstimes.com/news/articleView.html?idxno=711301",
     "https://biz.heraldcorp.com/article/10789703",
     "https://www.mt.co.kr/stock/2026/06/26/2026062615582348771",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=60902",
@@ -2088,10 +2091,10 @@
     "https://www.sisajournal-e.com/news/articleView.html?idxno=422038",
     "https://www.ytn.co.kr/_ln/0101_202606281232016307",
     "https://www.joongangenews.com/news/articleView.html?idxno=528799",
-    "http://www.fnnews.com/news/202606280807277064"
+    "http://www.fnnews.com/news/202606280807277064",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1528863"
    ],
    "seen_titles": [
-    "코스피5.8%급락한8411에마감",
     "'역대최초'한달새3번서킷브레이커…극한변동성휩싸인韓증시",
     "오세훈·한동훈,호남반도체클러스터조성사업일제히비판",
     "삼전닉스폭락에코스피5.8%추락…8410선주저앉아",
@@ -3590,10 +3593,11 @@
     "롤러코스피에마통잔액43조돌파···반도체레버리지發빚투확산",
     "여야,호남반도체클러스터공방...여야내홍도계속",
     "[김수현의상한가]외국인·기관정신없는변동성…\"그래도'삼전닉스'...",
-    "'SK하닉·SK스퀘어'에집중투자하는현대UNICORN_SK하이닉스밸류체인액..."
+    "'SK하닉·SK스퀘어'에집중투자하는현대UNICORN_SK하이닉스밸류체인액...",
+    "윤상현\"반도체클러스터입지선정,기준·절차법으로제도화\""
    ],
    "initialized": true,
-   "last_run": "2026-06-28T12:45:24.773291+09:00"
+   "last_run": "2026-06-28T12:50:28.069251+09:00"
   }
  },
  "press_names": {
