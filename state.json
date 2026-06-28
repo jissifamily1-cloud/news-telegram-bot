@@ -634,12 +634,13 @@
     [
      "2026-06-29T07:40:27.290264+09:00",
      "대한민국 대도약 국민보고회 3대 메가프로젝트 카카"
+    ],
+    [
+     "2026-06-29T07:45:23.962342+09:00",
+     "토큰 데이터센터 공장으로 변신"
     ]
    ],
    "seen_urls": [
-    "https://www.dt.co.kr/article/12069756",
-    "https://biz.chosun.com/policy/politics/2026/06/27/KSPOKPII3ZCMFJZANV24WFEFRE/",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596374",
     "https://www.joongang.co.kr/article/25440410",
     "https://www.yna.co.kr/view/AKR20260627046900001?input=1195m",
     "https://www.newsis.com/view/NISX20260627_0003686262",
@@ -2136,12 +2137,12 @@
     "https://magazine.hankyung.com/business/article/202606292726b",
     "http://tbs.seoul.kr/news/newsView.do?typ_800=1&idx_800=3537055&seq_800=20529936",
     "https://www.etoday.co.kr/news/view/2597985",
-    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5202565"
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5202565",
+    "https://www.wikitree.co.kr/articles/1143623",
+    "https://slownews.kr/162333",
+    "https://news.bizwatch.co.kr/article/mobile/2026/06/23/0031"
    ],
    "seen_titles": [
-    "NYT가주목한충북반도체고…\"한국서가장핫한학교\"",
-    "'9년만에데뷔첫승'두산김정우\"팬들사랑에보답하겠다\"",
-    "[오피셜]최고령투수고효준,25년선수생활마침표...28일은퇴식진...",
     "이정현“호남은너무오래기다렸다…‘호남반도체’위축시켜선안...",
     "이정현“호남반도체검증동의…시작위축돼서는안돼”",
     "‘호남반도체’비판에“물충분”“국힘벌떼처럼…”",
@@ -3638,10 +3639,13 @@
     "[속보]이재용·최태원참석...李,삼전닉스'1000조호남투자'공개",
     "이대통령,메가프로젝트보고회…호남반도체투자발표",
     "하나증권\"코스닥30년,AI병목해결기업이이끈다…질적재평가시작...",
-    "[투데이라인업]대한민국대도약3대메가프로젝트국민보고회/카카..."
+    "[투데이라인업]대한민국대도약3대메가프로젝트국민보고회/카카...",
+    "이재명대통령,오늘1000조메가프로젝트공개…이재용·최태원청와대...",
+    "반도체+AI에국가경제올인,2000조원쏟아붓는다:슬로우레터6월29일...",
+    "[AI와토큰]②데이터센터?토큰공장으로변신"
    ],
    "initialized": true,
-   "last_run": "2026-06-29T07:40:27.290264+09:00"
+   "last_run": "2026-06-29T07:45:23.962342+09:00"
   }
  },
  "press_names": {
