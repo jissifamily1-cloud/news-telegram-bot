@@ -597,16 +597,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.kdfnews.com/news/articleView.html?idxno=184622",
-    "https://view.asiae.co.kr/article/2026062617451223396",
-    "http://www.inews24.com/view/1980192",
-    "https://www.catchnews.kr/news/articleView.html?idxno=125461",
-    "https://www.mk.co.kr/article/12084325",
-    "https://www.sedaily.com/article/20060688",
-    "https://biz.heraldcorp.com/article/10789282",
-    "https://www.hankyung.com/article/2026062607591",
-    "https://www.esgeconomy.com/news/articleView.html?idxno=15874",
-    "https://www.mk.co.kr/article/12084324",
     "https://www.thelec.kr/news/articleView.html?idxno=58704",
     "https://www.g-enews.com/view.php?ud=202606261748054906fbbec65dfb_1",
     "https://www.nocutnews.co.kr/news/6539421",
@@ -2096,19 +2086,19 @@
     "https://www.etnews.com/20260626000223",
     "https://www.etnews.com/20260626000152",
     "https://www.etnews.com/20260626000063",
-    "https://www.mk.co.kr/article/12084933"
+    "https://www.mk.co.kr/article/12084933",
+    "https://www.donga.com/news/Inter/article/all/20260628/134195905/1",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4076769",
+    "https://www.ngonews.kr/news/articleView.html?idxno=231832",
+    "https://www.kyeonggi.com/article/20260628580056",
+    "https://www.insight.co.kr/news/560491",
+    "https://www.sedaily.com/article/20060987",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02404246645486312",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260628160359cpa",
+    "https://www.namdonews.com/news/articleView.html?idxno=914961",
+    "http://www.fnnews.com/news/202606271944062626"
    ],
    "seen_titles": [
-    "김용범\"세계1·2등기업들정부가쥐어짠다고투자안해\"",
-    "AI투자감소우려…코스피이번엔'냉탕'",
-    "李대통령미소짓게한일한의원연맹회장한마디는?",
-    "애플,기습인상…3차인플레오나",
-    "하나증권\"7월코스피,변동성의덫…이익·유가·금리보고종목줄여...",
-    "성수석당선인“반도체법‘수도권배제’삭제환영…이천,메가클러...",
-    "SK하이닉스,그룹업무용항공기지분398억원에추가확보",
-    "롯데칠성\"러닝·등산갈때'35g분말게토레이'로가볍게갈증해소하세요...",
-    "'호남반도체투자'때린오세훈·한동훈",
-    "사흘만에또서킷브레이커…코스피5%털썩",
     "“제대로돌았네”‘과열’삼전닉스레버리지,회전율130%돌파[투자...",
     "메모리發물가충격시작…삼성이어애플,가격29%올렸다",
     "SK하이닉스,생산전력31%재생E조달…넷제로실행속도",
@@ -3598,10 +3588,20 @@
     "중소형자산운용사도ETF시장뛰어든다",
     "[바이오USA]달아오른AI신약개발기대감…K바이오존재감커졌다",
     "[이내찬교수의광고로보는통신역사]〈61〉인공지능시대,정부는선도...",
-    "SK,'소상공인지원데이터교류·연구'협약"
+    "SK,'소상공인지원데이터교류·연구'협약",
+    "반도체호황에日키옥시아직원들‘주식대박’…10억엔차익예상",
+    "李대통령,반도체호남투자논란정면반박…\"국가균형발전결실\"",
+    "李대통령,내일삼전닉스와'메가투자'공개…이재용·최태원회장도참...",
+    "한동훈“李대통령,삼성·SK주주냐”…호남반도체공방격화",
+    "스톡옵션으로매각버틴직원600명'100억자산가'만든회사의정체",
+    "‘호남반도체’달래기나선與수도권의원들",
+    "메모리대란에애플·MS도흔든…중소업체는'생존위기'",
+    "민주,유시민'재건축론'에내홍…반도체호남입지논쟁",
+    "[기자현장]호남반도체정쟁으로소비하지말라",
+    "잔뜩풀죽은'원화'···1550원시대의새로운환율문법"
    ],
    "initialized": true,
-   "last_run": "2026-06-28T16:05:23.825950+09:00"
+   "last_run": "2026-06-28T16:10:27.603985+09:00"
   }
  },
  "press_names": {
