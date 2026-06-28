@@ -458,12 +458,13 @@
     [
      "2026-06-29T06:45:24.983641+09:00",
      "줄었는데 일자리가 이끈 갈아타기 늘었다 지역 집값 인구 이사"
+    ],
+    [
+     "2026-06-29T06:50:28.640803+09:00",
+     "발표 역대급 메가투자 2천조원 나온다 투자 3대"
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/politics/2026/06/27/2026062717443987804",
-    "https://news.jtbc.co.kr/article/NB12305380?influxDiv=NAVER",
-    "https://www.kmib.co.kr/article/view.asp?arcid=0030029621&code=61111111&cp=nv",
     "https://news.jtbc.co.kr/article/NB12305379?influxDiv=NAVER",
     "https://www.newscj.com/news/articleView.html?idxno=3412584",
     "https://www.newscj.com/news/articleView.html?idxno=3412588",
@@ -1960,12 +1961,12 @@
     "https://www.mt.co.kr/politics/2026/06/29/2026062821473147944",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1714206",
     "https://www.sedaily.com/article/20061077",
-    "https://www.dailian.co.kr/news/view/1660335/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1660335/?sc=Naver",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631433&plink=ORI&cooper=NAVER",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005867780",
+    "https://biz.sbs.co.kr/article_hub/20000319335?division=NAVER"
    ],
    "seen_titles": [
-    "[mhn포토]김재희,좌측은좋지않다",
-    "[mhn포토]김재희,컨디션최고에요",
-    "이대통령'호남물부족론'정면반박…\"100만톤공급가능\"",
     "與\"안철수,호남반도체투자에'대통령직권남용'운운…고발조치\"",
     "한동훈\"호남전기·용수충분?그렇지않다…반도체만은건들지말라\"",
     "유승민“반도체,왜호남?”…李대통령“기다리시면공개”",
@@ -3462,10 +3463,13 @@
     "\"영남역차별\"vs\"생존위한균형발전\"…'호남반도체'정치파열음",
     "홍콩증시,AI열풍에자금몰렸다…상반기주식조달5년만에최대",
     "반도체훈풍,중견건설사까지번졌다[집슐랭]",
-    "이사줄었는데‘지역갈아타기’는늘었다…집값·일자리가이끈인구..."
+    "이사줄었는데‘지역갈아타기’는늘었다…집값·일자리가이끈인구...",
+    "\"경찰에밥사고싶다\"K-치안에감탄한젠슨황가족",
+    "이대통령,'메가프로젝트보고회'주재…삼성·SK대규모투자계획공...",
+    "'2천조원'역대급투자나온다…오늘'3대메가투자'발표"
    ],
    "initialized": true,
-   "last_run": "2026-06-29T06:45:24.983641+09:00"
+   "last_run": "2026-06-29T06:50:28.640803+09:00"
   }
  },
  "press_names": {
