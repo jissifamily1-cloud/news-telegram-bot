@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-28T07:35:19.073901+09:00",
-     "어디까지 라우터 가격 현실화 쇼크 워치 뛰나 공급 DRAM"
-    ],
-    [
-     "2026-06-28T07:35:19.073901+09:00",
-     "생겨 워커홀릭 일상 열정 티파니 내일을 가득 결혼 마주할"
-    ],
-    [
-     "2026-06-28T07:35:19.073901+09:00",
-     "키우는 정제 핵심광물 한국 포함해야 가공 호주 공급망에"
-    ],
-    [
      "2026-06-28T07:55:19.871325+09:00",
      "랠리 흔들 삼성 산업 켠다 변한 허가 몰리는데"
     ],
@@ -562,14 +550,17 @@
     [
      "2026-06-28T13:30:40.908287+09:00",
      "동탄 매수자 10명 서울 대신 30대 4명 택한"
+    ],
+    [
+     "2026-06-28T13:35:20.740912+09:00",
+     "역량 강화 동반성장 SK오션플랜트 협력사와 지원 ESG 간담회 경영"
+    ],
+    [
+     "2026-06-28T13:35:20.740912+09:00",
+     "Kwang LG decisive Koo of mo but Quiet remaking"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260626122651008?input=1195m",
-    "https://www.mediafine.co.kr/news/articleView.html?idxno=81936",
-    "http://www.newsprime.co.kr/news/article.html?no=738178",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=167172",
-    "https://www.ekn.kr/web/view.php?key=20260626021556911",
     "https://www.insightkorea.co.kr/news/articleView.html?idxno=248963",
     "https://www.hankyung.com/article/202606260039i",
     "https://www.ddaily.co.kr/page/view/2026062615544990091",
@@ -2064,14 +2055,14 @@
     "https://www.g-enews.com/view.php?ud=202606281315143957153ddfb15a_1",
     "https://kpenews.com/View.aspx?No=4128446",
     "https://www.busan.com/view/busan/view.php?code=2026062813273186917",
-    "https://www.mk.co.kr/article/12084865"
+    "https://www.mk.co.kr/article/12084865",
+    "https://www.segye.com/newsView/20260628504214?OutUrl=naver",
+    "https://www.munhwa.com/article/11598729",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463647",
+    "https://www.idomin.com/news/articleView.html?idxno=2008793",
+    "https://www.koreaherald.com/article/10790526"
    ],
    "seen_titles": [
-    "코스피,5%'뚝'8410선후퇴…삼전·하이닉스동반'약세'",
-    "코스피,장중서킷브레이커발동…8410선하락마감",
-    "SK하이닉스그룹항공기지분잇따라양수…\"글로벌사업효율성제고\"",
-    "[시황]코스피8400선하락마감…외인·기관8조'팔자'",
-    "코스피,8400선으로후퇴…삼전5%·닉스8%급락",
     "사이드카에서킷브레이커…코스피5.8%↓8,400대로후퇴(종합)",
     "반도체대형주동반급락···삼성전자5%·SK하이닉스8%하락마감",
     "'검은금요일'코스피,반도체수요둔화우려에'5.81%급락'…사흘만...",
@@ -3566,10 +3557,15 @@
     "투기판된코스피?…해외서최대'150배베팅'등장",
     "SK,AI스타트업판키운다..K-AI얼라이언스그룹협력플랫폼으로확대",
     "삼성전자등‘사내대출’규제사각지대논란에…당국,파장예의주시",
-    "서울대신동탄택한30대…매수자10명중4명‘2030’"
+    "서울대신동탄택한30대…매수자10명중4명‘2030’",
+    "“식사대접하고싶다”…젠슨황가족,한국경찰에감사메일",
+    "오세훈“호남에반도체투자,사실상강요…정부는제도설계에집중해...",
+    "SK\"K-AI얼라이언스,50개사로확대…글로벌AI플랫폼도약\"",
+    "SK오션플랜트,협력사와동반성장간담회…ESG경영역량강화지원",
+    "Quiet,butdecisive:KooKwang-mo'sremakingofLG"
    ],
    "initialized": true,
-   "last_run": "2026-06-28T13:30:40.908287+09:00"
+   "last_run": "2026-06-28T13:35:20.740912+09:00"
   }
  },
  "press_names": {
@@ -3931,6 +3927,7 @@
   "sisafocus.co.kr": "시사포커스",
   "doctorsnews.co.kr": "의협신문",
   "worktoday.co.kr": "워크투데이",
-  "siminilbo.co.kr": "siminilbo.co.kr"
+  "siminilbo.co.kr": "siminilbo.co.kr",
+  "idomin.com": "경남도민일보"
  }
 }
