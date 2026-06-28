@@ -733,9 +733,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12084616",
-    "https://biz.heraldcorp.com/article/10790080",
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5202347",
     "https://www.kwnews.co.kr/article/20260627500046",
     "https://www.chosun.com/economy/money/2026/06/27/THAJ56BUI5DSXCVSAY3NCFHVFE/",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=361160",
@@ -2232,12 +2229,12 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596611",
     "https://www.khan.co.kr/article/202606282116005",
     "https://www.khan.co.kr/article/202606282114005",
-    "http://www.kwangju.co.kr/article.php?aid=1782648900800660277"
+    "http://www.kwangju.co.kr/article.php?aid=1782648900800660277",
+    "https://biz.heraldcorp.com/article/10790720",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=03102886645486312",
+    "https://www.ikbc.co.kr/article/view/kbc202606280032"
    ],
    "seen_titles": [
-    "메타버스의두번째기회…가상공간가고AI에이전트온다",
-    "[슬금슬금]'두배수익'의착시…금감원이경고한'레버리지ETF'",
-    "SK하이닉스,HBM질주계속된다…사상최대실적기대",
     "“우리아이입학할수있나요?”…AI호황에주목받는국내반도체특...",
     "“믿을건삼전닉스뿐?”반도체는어떻게환율을잡을수있을까[Deep...",
     "\"제자성과급이교장연봉보다많다\"…외신이주목한'충북반도체고'",
@@ -3734,10 +3731,13 @@
     "이대통령“지역갈등조장자제해야…호남반도체특혜아냐”",
     "역대최대규모투자제값하려면용인클러스터와‘교통정리’과제",
     "이대통령“서남해안발전서소외,개발부지풍부”…국민의힘‘호남...",
-    "김용범실장“숫자낯설것”…투자규모관심"
+    "김용범실장“숫자낯설것”…투자규모관심",
+    "경북도의회“정부반도체투자,정치아닌산업논리로정해져야”",
+    "[미리보는이데일리신문]삼성·SK,호남충청영남에1500조+a쏟아붓는...",
+    "'호남반도체클러스터'메가프로젝트내일발표"
    ],
    "initialized": true,
-   "last_run": "2026-06-28T21:20:29.437399+09:00"
+   "last_run": "2026-06-28T21:25:19.171892+09:00"
   }
  },
  "press_names": {
