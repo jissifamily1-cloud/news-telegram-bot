@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-29T00:50:28.843238+09:00",
-     "노조도 거세진다 하투 줄줄이 원청 초읽기 파업 하청"
-    ],
-    [
-     "2026-06-29T00:55:20.193916+09:00",
-     "재생에너지로는 널뛰는 전력 자립은 원전 어렵다 호남 가동"
-    ],
-    [
-     "2026-06-29T00:55:20.193916+09:00",
-     "최적 그땐 때도 전남 입지 신청 후공정 광주 호남 평가 여러"
-    ],
-    [
      "2026-06-29T01:15:26.076433+09:00",
      "반도체 HDD 자율주행 CCL 시행 규정 로봇"
     ],
@@ -462,11 +450,13 @@
     [
      "2026-06-29T06:50:28.640803+09:00",
      "발표 역대급 메가투자 2천조원 나온다 투자 3대"
+    ],
+    [
+     "2026-06-29T06:55:22.506112+09:00",
+     "급등 역설 HBM D램 독점의 시장이 말라간다 소비자"
     ]
    ],
    "seen_urls": [
-    "https://news.jtbc.co.kr/article/NB12305379?influxDiv=NAVER",
-    "https://www.newscj.com/news/articleView.html?idxno=3412584",
     "https://www.newscj.com/news/articleView.html?idxno=3412588",
     "http://www.metroseoul.co.kr/article/20260627500037",
     "https://www.news1.kr/politics/assembly/6210276",
@@ -1964,11 +1954,11 @@
     "https://www.dailian.co.kr/news/view/1660335/?sc=Naver",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631433&plink=ORI&cooper=NAVER",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005867780",
-    "https://biz.sbs.co.kr/article_hub/20000319335?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000319335?division=NAVER",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1714207",
+    "https://www.g-enews.com/view.php?ud=202606290647324064fbbec65dfb_1"
    ],
    "seen_titles": [
-    "與\"안철수,호남반도체투자에'대통령직권남용'운운…고발조치\"",
-    "한동훈\"호남전기·용수충분?그렇지않다…반도체만은건들지말라\"",
     "유승민“반도체,왜호남?”…李대통령“기다리시면공개”",
     "정점식\"호남반도체,외압없이는어려워…국회서따질것\"",
     "[이슈논단]삼성·하이닉스투자에왜정치가?…'호남반도체'논란의...",
@@ -3466,10 +3456,12 @@
     "이사줄었는데‘지역갈아타기’는늘었다…집값·일자리가이끈인구...",
     "\"경찰에밥사고싶다\"K-치안에감탄한젠슨황가족",
     "이대통령,'메가프로젝트보고회'주재…삼성·SK대규모투자계획공...",
-    "'2천조원'역대급투자나온다…오늘'3대메가투자'발표"
+    "'2천조원'역대급투자나온다…오늘'3대메가투자'발표",
+    "'실적의시간'온다…7월증시,코스피운명가를다섯가지변수",
+    "‘HBM독점의역설’D램최대50%급등,소비자시장이말라간다"
    ],
    "initialized": true,
-   "last_run": "2026-06-29T06:50:28.640803+09:00"
+   "last_run": "2026-06-29T06:55:22.506112+09:00"
   }
  },
  "press_names": {
