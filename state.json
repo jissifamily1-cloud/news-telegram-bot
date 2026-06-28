@@ -525,10 +525,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=167167",
-    "https://www.etoday.co.kr/news/view/2597680",
-    "https://www.mediapen.com/news/view/1106788",
-    "https://www.todaykorea.co.kr/news/articleView.html?idxno=403134",
     "https://www.pennmike.com/news/articleView.html?idxno=122764",
     "https://www.sidae.com/article/2026062613441953522",
     "https://www.news1.kr/finance/general-stock/6209590",
@@ -2024,13 +2020,13 @@
     "https://www.kado.net/news/articleView.html?idxno=2058122",
     "https://biz.newdaily.co.kr/site/data/html/2026/06/28/2026062800015.html",
     "https://www.mediapen.com/news/view/1106852",
-    "https://kpenews.com/View.aspx?No=4128362"
+    "https://kpenews.com/View.aspx?No=4128362",
+    "https://www.wikitree.co.kr/articles/1143559",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=758298",
+    "https://www.newsis.com/view/NISX20260628_0003686415",
+    "https://www.newspim.com/news/view/20260628000031"
    ],
    "seen_titles": [
-    "韓国・SK会長と元妻の財産分与訴訟来月24日に判決",
-    "韓“호남반도체투자압박,박근혜미르재단사건같다”",
-    "\"지역감정부추긴김용범사퇴해야\"…국민의힘,'호남반도체'투자갈...",
-    "전북상의협의회\"반도체새성장축은전북새만금...클러스터조성촉...",
     "반도체만질주하는코스피…고배당ETF한달새20%가까이‘뚝’",
     "SK증권,에데나코리와디지털자산금융사업MOU",
     "오후장중...韓·中·日·홍콩증시'뚝',亞TECH주'출렁'",
@@ -3526,10 +3522,14 @@
     "개인정보유출갈수록대형화…최근2년새수천만명피해잇따라",
     "코스닥집어삼킨'ETF500조시대'…국내증시흔드는괴물이됐다",
     "프리미엄에서'필수가전'으로…얼음정수기렌털수요↑",
-    "HBM수요커지자삼성전자·SK하이닉스생산거점남하..클러스터발표임..."
+    "HBM수요커지자삼성전자·SK하이닉스생산거점남하..클러스터발표임...",
+    "이대통령\"돼지눈에는돼지가보이는법\"",
+    "SK,K-AI얼라이언스50개사로확대…유영상위원장,\"기술종속피하려...",
+    "차익실현나선서학개미…스페이스X던지고다시반도체담았다",
+    "李대통령\"호남반도체,尹정부서공식확인…국힘의원들이상한말자..."
    ],
    "initialized": true,
-   "last_run": "2026-06-28T10:15:25.038112+09:00"
+   "last_run": "2026-06-28T10:20:30.665798+09:00"
   }
  },
  "press_names": {
