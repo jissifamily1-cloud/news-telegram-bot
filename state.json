@@ -425,7 +425,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.joongang.co.kr/article/25440399",
     "https://www.ytn.co.kr/_ln/0101_202606271730374701",
     "https://www.newdaily.co.kr/site/data/html/2026/06/27/2026062700025.html",
     "https://www.hankookilbo.com/news/article/A2026062716580000874?did=NA",
@@ -1924,10 +1923,10 @@
     "http://www.srtimes.kr/news/articleView.html?idxno=205388",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6833501_37012.html",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000046067",
-    "https://imnews.imbc.com/replay/2026/nwtoday/article/6833503_37012.html"
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6833503_37012.html",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631395&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "\"호남에도물충분\"직접나선李대통령···반도체투자논란정면돌파",
     "李대통령\"부처눈엔부처,돼지눈엔돼지\"…SNS메시지놓고해석...",
     "구미시,반도체팹유치에'1000원땅값'승부수",
     "與“‘삼전닉스호남투자’직권남용주장한안철수즉각고발”",
@@ -3426,10 +3425,11 @@
     "[창간기획]KT박윤영표AX플랫폼…구현모'디지코'·김영섭'AICT'와다...",
     "1부오늘의주요뉴스",
     "애플,중국산메모리칩도입추진…삼성전자·SK하이닉스어쩌나",
-    "'수도권밖첨단산업단지'1천조투자한다"
+    "'수도권밖첨단산업단지'1천조투자한다",
+    "오늘'메가프로젝트'보고회…\"호남반도체특혜아냐\""
    ],
    "initialized": true,
-   "last_run": "2026-06-29T06:15:26.352347+09:00"
+   "last_run": "2026-06-29T06:20:27.911642+09:00"
   }
  },
  "press_names": {
