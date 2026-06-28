@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-28T19:15:25.600714+09:00",
-     "대기업 키운다 ICT 청년취업 동남권 봇물 인재 게임 프로그램"
-    ],
-    [
-     "2026-06-28T19:15:25.600714+09:00",
-     "비호남권에게 역차별이라는"
-    ],
-    [
      "2026-06-28T19:30:38.664684+09:00",
      "없나 데이터센터 유력 충청 문제"
     ],
@@ -350,11 +342,17 @@
     [
      "2026-06-29T00:55:20.193916+09:00",
      "최적 그땐 때도 전남 입지 신청 후공정 광주 호남 평가 여러"
+    ],
+    [
+     "2026-06-29T01:15:26.076433+09:00",
+     "반도체 HDD 자율주행 CCL 시행 규정 로봇"
+    ],
+    [
+     "2026-06-29T01:15:26.076433+09:00",
+     "삼성 익일물 6월 역RP PMI 도입"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1714164",
-    "https://news.tvchosun.com/site/data/html_dir/2026/06/27/2026062790049.html",
     "https://www.etoday.co.kr/news/view/2597807",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606271331595130965",
     "https://www.mhns.co.kr/news/articleView.html?idxno=751560",
@@ -1852,11 +1850,11 @@
     "https://www.chosun.com/politics/assembly/2026/06/29/DEX4N7JVPBHADLLRENFWXA2R6Y/",
     "https://www.chosun.com/politics/politics_general/2026/06/29/ZEHUZYTCOZFUHPGLMQTDMLACJY/",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596713",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596716"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596716",
+    "https://www.newspim.com/news/view/20260629000005",
+    "https://www.newspim.com/news/view/20260629000004"
    ],
    "seen_titles": [
-    "NYT\"한국서가장핫한학교\"…AI반도체붐에뜬충북반도체고",
-    "주유소기름값6주연속하락…전국휘발윳값2007원대",
     "“호남에물충분”이대통령,반도체공장불가론에직접반박",
     "이재명대통령\"호남도용수충분...일100만톤산업용수공급가능\"",
     "\"제자성과급이교장연봉보다많다\"…외신도충북반도체고조명",
@@ -3354,10 +3352,12 @@
     "尹때도호남입지최적평가?광주·전남,그땐‘후공정’신청,여러...",
     "호남반도체투자논란에주말동안폭풍글올린李",
     "이대통령,오늘국민보고회…‘대한민국대도약3대메가프로젝트’발...",
-    "TK정치권,오늘‘호남반도체투자’반발기자회견예고"
+    "TK정치권,오늘‘호남반도체투자’반발기자회견예고",
+    "[중국증시주간포인트]②자율주행규정시행,반도체∙HDD∙로봇∙CCL...",
+    "[중국증시주간포인트]①6월PMI,익일물역RP최초도입,삼성∙SK초..."
    ],
    "initialized": true,
-   "last_run": "2026-06-29T01:10:31.029630+09:00"
+   "last_run": "2026-06-29T01:15:26.076433+09:00"
   }
  },
  "press_names": {
