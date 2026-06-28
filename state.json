@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-28T13:15:23.101294+09:00",
-     "괴리율 어떻게 ETF 하나 관리"
-    ],
-    [
-     "2026-06-28T13:15:23.101294+09:00",
-     "반도체로 용인에서 대한민국 호남까지"
-    ],
-    [
      "2026-06-28T13:25:22.011316+09:00",
      "언제까지 환전창구 공항 갔다가 고환율"
     ],
@@ -818,11 +810,17 @@
     [
      "2026-06-28T19:10:30.222719+09:00",
      "입장 없는 균형발전 일부는 유보 충청 있을 없다"
+    ],
+    [
+     "2026-06-28T19:15:25.600714+09:00",
+     "대기업 키운다 ICT 청년취업 동남권 봇물 인재 게임 프로그램"
+    ],
+    [
+     "2026-06-28T19:15:25.600714+09:00",
+     "비호남권에게 역차별이라는"
     ]
    ],
    "seen_urls": [
-    "https://www.youthdaily.co.kr/news/article.html?no=221713",
-    "https://www.sedaily.com/article/20060809",
     "https://view.asiae.co.kr/article/2026062611263265039",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=723315",
     "http://woman.chosun.com/news/articleView.html?idxno=126178",
@@ -2320,11 +2318,11 @@
     "https://www.kbmaeil.com/article/20260628500274",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255534",
     "https://biz.newdaily.co.kr/site/data/html/2026/06/28/2026062800077.html",
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2284307"
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2284307",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260629.22013008507",
+    "https://www.namdonews.com/news/articleView.html?idxno=915029"
    ],
    "seen_titles": [
-    "[오현승의IT스토리]中CXMT상장초읽기…글로벌메모리시장흔들까",
-    "바이오USA폐막…K-바이오,위상은'증명',사업화안착은'숙제'",
     "정유업계,'공급가사전고지'도입…유통투명성높인다",
     "\"친환경부터사회적책임까지\"…SK하이닉스,ESG경영'광폭행보'",
     "‘초’역세권에신설노선호재까지…수도권분양단지주목",
@@ -3822,10 +3820,12 @@
     "[김진국의정치풍향계]누가지역갈등을조장하나…지역차별인지,지역...",
     "[AI칩지정학]⑫용인너머호남'듀얼AI칩팩토리'···HBM족쇄벗는...",
     "삼성·SK,반도체·AI등첨단산업에2000조투자…호남반도체축뜬다",
-    "\"충청없는균형발전있을수없다\"\"…일부는입장유보"
+    "\"충청없는균형발전있을수없다\"\"…일부는입장유보",
+    "동남권‘AI·ICT·게임’인재키운다…대기업청년취업프로그램봇물",
+    "[데스크시각]역차별이라는비호남권에게"
    ],
    "initialized": true,
-   "last_run": "2026-06-28T19:10:30.222719+09:00"
+   "last_run": "2026-06-28T19:15:25.600714+09:00"
   }
  },
  "press_names": {
