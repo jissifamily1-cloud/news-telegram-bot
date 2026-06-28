@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-28T04:05:21.788835+09:00",
-     "쏠림 실적주 변곡점 심화 국장"
-    ],
-    [
      "2026-06-28T04:10:31.012101+09:00",
      "엔지니어 한국 CXMT로 인재 누수 중국 200명 삼성 하이닉스 갔다"
     ],
@@ -506,15 +502,13 @@
     [
      "2026-06-28T10:05:20.435365+09:00",
      "무색해져 책임론 관리 리스크 환율 당국 레버리 명분 시험대 안정"
+    ],
+    [
+     "2026-06-28T10:10:28.417908+09:00",
+     "경쟁만 지지율 대규모 투자 여야는 당권 데드크로스"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20060610",
-    "https://www.greened.kr/news/articleView.html?idxno=343483",
-    "https://www.joongangenews.com/news/articleView.html?idxno=528620",
-    "https://www.hani.co.kr/arti/economy/finance/1265520.html",
-    "https://www.news1.kr/economy/trend/6209513",
-    "https://view.asiae.co.kr/article/2026062614361031314",
     "https://jp.yna.co.kr/view/AJP20260626002200882?input=1728m",
     "https://biz.chosun.com/policy/politics/assembly/2026/06/26/BZAQPG26YNGHRCUAQAEWOHHLPE/",
     "https://www.dailian.co.kr/news/view/1660399/?sc=Naver",
@@ -2008,15 +2002,15 @@
     "https://www.hankyung.com/article/2026062818597",
     "https://www.etnews.com/20260628000043",
     "http://www.segyebiz.com/newsView/20260628502807?OutUrl=naver",
-    "https://www.newsis.com/view/NISX20260626_0003685770"
+    "https://www.newsis.com/view/NISX20260626_0003685770",
+    "https://www.sedaily.com/article/20060912",
+    "http://www.4th.kr/news/articleView.html?idxno=2113818",
+    "https://www.ajunews.com/view/20260628094412122",
+    "https://www.etoday.co.kr/news/view/2597874",
+    "https://www.viva100.com/article/20260628500250",
+    "https://dgmbc.com/NewsArticle/847942"
    ],
    "seen_titles": [
-    "삼성전자7%,SK하이닉스9%,키옥시아12%↓...한일대만반도체주,일...",
-    "김용범실장\"29일국민보고회...역대최대규모국내투자계획발표\"",
-    "ESG등급이자본시장리스크필터로···기업경쟁력의새기준",
-    "\"1인1시편필수\"반도체직접만드는서강대강의눈길",
-    "[유노유농]'싱가포르·말레이시아·일본·대만연파'노원SK...대만타...",
-    "‘삼전닉스레버리지’열풍에…감사원,금융위·금감원감사",
     "반도체株주춤한데…피에스케이·테스9%급등[이런국장저런주식]",
     "SK하이닉스,'재생에너지'늘렸지만전환율은제자리…호남거점론힘받...",
     "SK네트웍스주가,6월26일장중9,360원13.33%하락",
@@ -3510,10 +3504,16 @@
     "SK하이닉스그만두고MBC입사…\"주식,1000만원어치샀다\"",
     "SK인텔릭스,'나무엑스'1인가구용소형로봇·차세대폼팩터로확장",
     "SKAI위원회,美실리콘밸리서‘유나이트2026’개최",
-    "'환율안정'명분무색해져…당국책임론속리스크관리시험대[레버리..."
+    "'환율안정'명분무색해져…당국책임론속리스크관리시험대[레버리...",
+    "김정관“용인반도체클러스터,삼성전자7년·SK하이닉스12년앞당길...",
+    "SK,AI스타트업플랫폼키운다…'K-AI얼라이언스'글로벌확장",
+    "유영상SKAI위원장\"AI풀스택생태계유기적연결로실질적혁신이끌...",
+    "2분기평균환율1500원↑…외환위기이후28년만",
+    "이대통령,‘호남반도체투자’에“역사적성과비방말길”",
+    "[뉴스ON]지지율'데드크로스'여야는'당권'경쟁만··대규모투자'..."
    ],
    "initialized": true,
-   "last_run": "2026-06-28T10:05:20.435365+09:00"
+   "last_run": "2026-06-28T10:10:28.417908+09:00"
   }
  },
  "press_names": {
