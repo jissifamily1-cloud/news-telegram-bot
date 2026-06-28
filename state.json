@@ -654,10 +654,13 @@
     [
      "2026-06-28T22:15:24.487494+09:00",
      "시동 플랫폼 얼라이언스 확장 50개사로 글로벌"
+    ],
+    [
+     "2026-06-28T22:25:19.105878+09:00",
+     "광주에 신설 용인팹 6기 공장 조기 완공 삼성 반도체 밝힌"
     ]
    ],
    "seen_urls": [
-    "https://economist.co.kr/article/view/ecn202606270007",
     "https://www.segye.com/newsView/20260627500453?OutUrl=naver",
     "https://www.mk.co.kr/article/12084627",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=723385",
@@ -2156,10 +2159,10 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=03119286645486312",
     "http://www.newstown.co.kr/news/articleView.html?idxno=707459",
     "http://www.newslock.co.kr/news/articleView.html?idxno=132308",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596688"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596688",
+    "https://www.sedaily.com/article/20061096"
    ],
    "seen_titles": [
-    "호남반도체클러스터에김영환“중대한범죄행위”",
     "한동훈\"김어준이삼성·SK대주주인가\"…김용범정책실장방송출연비...",
     "국내기름값6주째하락...원유도입가4개월만에70달러아래",
     "“삼성·SK하이닉스‘취업복권’노리는10대들”…NYT,충북반도체고...",
@@ -3658,10 +3661,11 @@
     "“삼전닉스,AI기업비용부담에돈벌어…지속성따져봐야”",
     "성수석이천시장당선인\"반도체메가클러스터완성위한이천역할확...",
     "SK,'K-AI얼라이언스'50개사로확장...글로벌AI플랫폼시동",
-    "호남반도체투자발표임박…정치권공방격화"
+    "호남반도체투자발표임박…정치권공방격화",
+    "“용인팹조기완공”밝힌삼성·SK…광주에반도체공장4~6기신설"
    ],
    "initialized": true,
-   "last_run": "2026-06-28T22:20:27.988453+09:00"
+   "last_run": "2026-06-28T22:25:19.105878+09:00"
   }
  },
  "press_names": {
