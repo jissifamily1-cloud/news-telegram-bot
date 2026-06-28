@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-28T07:10:29.468054+09:00",
-     "사용제한 우선 미토스5 풀어줘 앤트로픽 자국기업만"
-    ],
-    [
-     "2026-06-28T07:10:29.468054+09:00",
-     "하루 공급 부족 반도체 가능 100만톤"
-    ],
-    [
      "2026-06-28T07:20:28.407427+09:00",
      "대란 전력 주주들이 미니 풀린 원자로 봉인 장부서 삼성"
     ],
@@ -570,13 +562,17 @@
     [
      "2026-06-28T13:10:27.462977+09:00",
      "500선 반도체 예상 재개될까 랠리 코스피"
+    ],
+    [
+     "2026-06-28T13:15:23.101294+09:00",
+     "괴리율 어떻게 ETF 하나 관리"
+    ],
+    [
+     "2026-06-28T13:15:23.101294+09:00",
+     "반도체로 용인에서 대한민국 호남까지"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260626_0003685550",
-    "https://www.g-enews.com/view.php?ud=202606261552158641923c501012_1",
-    "http://www.joseilbo.com/news/news_read.php?uid=570826&class=53",
-    "https://www.newsis.com/view/NISX20260626_0003685541",
     "https://biz.sbs.co.kr/article_hub/20000319167?division=NAVER",
     "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90132",
     "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=306995",
@@ -2072,13 +2068,13 @@
     "https://www.m-i.kr/news/articleView.html?idxno=1385894",
     "https://www.m-i.kr/news/articleView.html?idxno=1385632",
     "https://daily.hankooki.com/news/articleView.html?idxno=1380299",
-    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005867467"
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005867467",
+    "https://www.m-i.kr/news/articleView.html?idxno=1385670",
+    "https://www.newsis.com/view/NISX20260628_0003686546",
+    "https://www.m-i.kr/news/articleView.html?idxno=1385720",
+    "https://www.ajunews.com/view/20260628130128360"
    ],
    "seen_titles": [
-    "'반도체호남행'공방…한동훈\"기업압박\"·고민정\"구태\"",
-    "코스피5.81%급락,8410선마감",
-    "메모리비용부담에코스피5.8%급락마감…8400선후퇴[MTN마감시황]",
-    "김용범정책실장\"29일메가프로젝트투자규모,상상초월할것\"",
     "[마감시황]코스피,519.10포인트내린8411.20마감",
     "'검은금요일'코스피,519.09포인트하락한8411.21마감[뉴시스Pic]",
     "코스피연일'출렁'…5.8%하락한8410선마감",
@@ -3574,10 +3570,14 @@
     "[기획]美정부,301조활용가능성…하반기산업계최대변수로",
     "[기자수첩]성과급분쟁,이제야룰만든다는정부",
     "[짚고가자]'신입사원강회장'이주목한전고체…K-배터리미래바꿀까",
-    "[주간증시전망]반도체랠리재개될까…코스피\"8,400~9,500선예상\""
+    "[주간증시전망]반도체랠리재개될까…코스피\"8,400~9,500선예상\"",
+    "ETF500조시대의그늘...괴리율급증에손실우려확대",
+    "'호남반도체흔들기'에대통령·총리·장관·시장당선인작심반박(종...",
+    "ETF괴리율관리어떻게하나",
+    "[아주사설│기본·원칙·상식]용인에서호남까지…반도체로대한민국..."
    ],
    "initialized": true,
-   "last_run": "2026-06-28T13:10:27.462977+09:00"
+   "last_run": "2026-06-28T13:15:23.101294+09:00"
   }
  },
  "press_names": {
