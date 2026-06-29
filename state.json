@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-30T02:05:20.461092+09:00",
-     "전망 증설 영향 메모리주 SK하이닉스 삼성 약세 증시"
-    ],
-    [
-     "2026-06-30T02:10:29.301328+09:00",
-     "삼성 로봇 SK는 포트폴리오 투자 전략 집중 데이터센터"
-    ],
-    [
      "2026-06-30T02:20:29.381924+09:00",
      "말려 싶었지만 인사 큰절하고 참모들 90도 회장에"
     ],
@@ -578,17 +570,21 @@
     [
      "2026-06-30T08:05:20.435232+09:00",
      "목표가 삼성 메가 수혜 프로젝트 기대"
+    ],
+    [
+     "2026-06-30T08:10:39.107072+09:00",
+     "출범하는 조례는 전남광주특별시의회 반도체 1일 7월"
+    ],
+    [
+     "2026-06-30T08:10:39.107072+09:00",
+     "최태원 15GW 하이닉스 호남에 용인 청주 건설 SKT 데이터센터"
+    ],
+    [
+     "2026-06-30T08:10:39.107072+09:00",
+     ""
     ]
    ],
    "seen_urls": [
-    "https://www.smartbizn.com/news/articleView.html?idxno=147275",
-    "https://www.ddaily.co.kr/page/view/2026062916445584021",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=264017",
-    "https://www.businessplus.kr/news/articleView.html?idxno=113466",
-    "https://vop.co.kr/A00001695522.html",
-    "https://www.g-enews.com/view.php?ud=202606291550128403923c501012_1",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=355279",
-    "https://www.seoulfn.com/news/articleView.html?idxno=632178",
     "https://www.techm.kr/news/articleView.html?idxno=152971",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=80799",
     "https://www.ajunews.com/view/20260629152847151",
@@ -2080,17 +2076,17 @@
     "https://www.discoverynews.kr/news/articleView.html?idxno=1094706",
     "https://www.yna.co.kr/view/AKR20260630013500011?input=1195m",
     "https://www.youthdaily.co.kr/news/article.html?no=221859",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=02797846645486968"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02797846645486968",
+    "https://www.newsis.com/view/NISX20260630_0003688697",
+    "https://www.yna.co.kr/view/AKR20260630020900008?input=1195m",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=91574",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02837206645486968",
+    "https://www.news1.kr/world/usa-canada/6212144",
+    "https://www.sedaily.com/article/20061641",
+    "https://www.mediawatch.kr/news/article.html?no=260221",
+    "https://www.insightkorea.co.kr/news/articleView.html?idxno=249123"
    ],
    "seen_titles": [
-    "삼성,10년간국내2655조투자...호남팹에425조원신규투자",
-    "반도체협회\"지방전공정투자환영···AI리더십확보계기될것\"",
-    "SK,AI데이터센터·반도체에2100조투자···전국AI인프라구축",
-    "SK,전국AI인프라·반도체생산벨트구축에1100조원투자",
-    "李대통령,이재용·최태원에\"국민영웅\"…기업투자전폭지원약속",
-    "경제6단체\"반도체∙피지컬AI메가프로젝트환영\"",
-    "삼성·SK가발표한4755조원투자계획",
-    "코스닥,2차전지급등에'활짝'…코스피는낙폭축소마감",
     "이재용·최태원,靑서'초격차투자'발표…반도체·AI인프라'국가벨...",
     "코스피,외국인'팔자'약보합마감···코스닥,8%급등920선회복",
     "금융권의가상자산선점경쟁...키움증권도빗썸'눈독'",
@@ -3582,10 +3578,18 @@
     "[인터뷰]이상일용인특례시장,반도체경쟁력기반으로미래도시완성",
     "[전국주요신문톱뉴스](30일조간)",
     "[재계부]성수4지구'리턴매치'…7월정비사업시장경쟁'점화'",
-    "SK,메가프로젝트수혜기대…목표가↑-삼성"
+    "SK,메가프로젝트수혜기대…목표가↑-삼성",
+    "美기술주반등에프리마켓서삼전·닉스1%안팎강세",
+    "[마켓뷰]美기술주훈풍에…코스피반등시도하나",
+    "[심층분석]4755조원메가프로젝트,'산업정책'넘어대한민국경제지도...",
+    "반도체믿었는데코스닥?…“확산은짧고쏠림은길다”",
+    "美소비자·中企,삼성·하이닉스·마이크론상대'D램담합'소송",
+    "7월1일출범하는전남광주특별시의회첫조례는…“반도체”",
+    "최태원“SKT,15GWAI데이터센터건설...하이닉스,용인·청주·호남에...",
+    "韩国半导体版图扩至湖南圈，政府推动800万亿韩元西南产业基地"
    ],
    "initialized": true,
-   "last_run": "2026-06-30T08:05:20.435232+09:00"
+   "last_run": "2026-06-30T08:10:39.107072+09:00"
   }
  },
  "press_names": {
