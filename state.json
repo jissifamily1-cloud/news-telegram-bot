@@ -902,24 +902,17 @@
     [
      "2026-06-29T09:10:28.417397+09:00",
      "shares open investment Iran plan lower Seoul Samsung by uncertainty on"
+    ],
+    [
+     "2026-06-29T09:15:26.435184+09:00",
+     "기반 에이직랜드 매출 단일판매계약 SK하이닉스와 318억 5천만"
+    ],
+    [
+     "2026-06-29T09:15:26.435184+09:00",
+     "재조명 사고 화재 SK하이닉스 사례까지 발생 청주 사망"
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20260626511917?OutUrl=naver",
-    "https://www.thepublic.kr/news/articleView.html?idxno=309292",
-    "https://www.mk.co.kr/article/12084798",
-    "https://www.sedaily.com/article/20060851",
-    "http://www.fnnews.com/news/202606221013484500",
-    "https://news.bizwatch.co.kr/article/real_estate/2026/06/26/0046",
-    "https://www.yna.co.kr/view/AKR20260627029400091?input=1195m",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2442855",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7171550",
-    "https://www.joongangenews.com/news/articleView.html?idxno=528230",
-    "https://www.etoday.co.kr/news/view/2597845",
-    "https://www.ddaily.co.kr/page/view/2026062808333284449",
-    "https://www.ddaily.co.kr/page/view/2026062803131655373",
-    "http://www.press9.kr/news/articleView.html?idxno=78508",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20260628010009581",
     "https://www.munhwa.com/article/11598698",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255518",
     "https://www.mt.co.kr/thebio/2026/06/28/2026062513325250233",
@@ -2404,24 +2397,24 @@
     "http://www.choicenews.co.kr/news/articleView.html?idxno=167225",
     "https://view.asiae.co.kr/article/2026062909061405617",
     "https://www.news1.kr/local/gwangju-jeonnam/6210946",
-    "https://en.yna.co.kr/view/AEN20260629001300320?input=2106m"
+    "https://en.yna.co.kr/view/AEN20260629001300320?input=2106m",
+    "http://www.metroseoul.co.kr/article/20260629500026",
+    "https://biz.chosun.com/stock/stock_general/2026/06/29/VYYGFFS2QJBYXERPVCMHUGHQSU/",
+    "http://www.popcornnews.net/news/articleView.html?idxno=125001",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02496086645486640",
+    "https://view.asiae.co.kr/article/2026062909131677451",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02486246645486640",
+    "https://biz.heraldcorp.com/article/10790966",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=361202",
+    "http://www.ikld.kr/news/articleView.html?idxno=336701",
+    "http://www.paxetv.com/news/articleView.html?idxno=275802",
+    "http://www.popcornnews.net/news/articleView.html?idxno=124996",
+    "https://view.asiae.co.kr/article/2026062909102853787",
+    "http://www.press9.kr/news/articleView.html?idxno=78525",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16116498",
+    "http://www.popcornnews.net/news/articleView.html?idxno=125000"
    ],
    "seen_titles": [
-    "[르포]‘역세권활성화’업고45층랜드마크로…베일벗은노량진‘...",
-    "방한내내\"HBM더달라\"'슈퍼을'올라선삼전·SK하닉",
-    "SK,K-AI얼라이언스50개사로키웠다…글로벌AI플랫폼본격화",
-    "아무나‘AI에이전트’만든다는데,그다음은요?[나인O'Clock]",
-    "7월증시는어떨까?반도체강세속변동성관리필요",
-    "‘이재명축구’에무슨일있나[노원명에세이]",
-    "SKAI위원장“자강안하면미래없다...AI3강도울것”",
-    "젠슨황이떠난뒤,한국기업의진짜숙제[김문경의리더십테크](18)",
-    "\"닥치고짓겠다\"는정부…'맘카페'목소리도듣겠다",
-    "SKAI위원장\"3대AI강국도약생태계만들것…협력·자강겸비\"",
-    "\"서울막히자동탄으로?\"···풍선효과에계약파기·갭투자까지'급증'",
-    "증시띄우고빚투막은금융당국,은행권'혼선'",
-    "[주간산업나침반]삼성·SK,호남·충청거점검토...현대차노조파업...",
-    "김현철보건산업진흥원미국지사장“美전역으로K바이오지원확대”[...",
-    "AI에이전트도‘사번’받는시대…기업SW,계정관리새과제로",
     "[위클리배터리]美ESS·유럽EV'투트랙'…투트랙전략짠K-배터리",
     "SK,K-AI얼라이언스글로벌협력망확장…회원사50곳체제로",
     "‘호남물부족’우려에김성환장관\"하루100만톤추가확보가능“",
@@ -3906,10 +3899,25 @@
     "美반도체주'급락'속...코스피'하락출발',코스닥은'장초반반등'",
     "SK케미칼,J2H와MASH치료제공동개발나선다",
     "전남광주행정통합뒷받침강위원경제부지사30일퇴임",
-    "SeoulsharesopenloweronIranuncertainty,investmentplanbySamsun"
+    "SeoulsharesopenloweronIranuncertainty,investmentplanbySamsun",
+    "코스피,하락출발하며8200선으로...코스닥2%반등",
+    "출발하자마자외국인1조원매도…코스피1%대하락세",
+    "6월주거커뮤니티브랜드평판순위요동…'로열파크씨티'1위수성속...",
+    "일본도SK하이닉스·삼성성과급에'주목'…\"키옥시아면1인당5000만엔\"",
+    "SK에코플랜트,용인수지삼성2차재건축사업수주",
+    "미·이란노이즈에코스피1%대하락…코스닥은상승",
+    "7월전국아파트3만가구분양…서울은신길·중림동서1000여가구[부동...",
+    "SK에코플랜트,용인수지삼성2차재건축2048억수주…1조클럽복귀가...",
+    "SK에코플랜트,2048억'용인수지삼성2차재건축'수주",
+    "SKAI위원회,K-AI얼라이언스확대…글로벌AI협력강화",
+    "삼성,6월공기청정기브랜드평판1위...LG·코웨이순",
+    "한성크린텍,호남반도체공장추진등AI반도체투자확대수혜기대...",
+    "SK바이오사이언스,'2026ESG보고서'발간…글로벌백신접근성·기후...",
+    "에이직랜드,SK하이닉스와318억5천만원단일판매계약→매출기반강...",
+    "SK하이닉스,사망사고발생…청주화재사례까지재조명"
    ],
    "initialized": true,
-   "last_run": "2026-06-29T09:10:28.417397+09:00"
+   "last_run": "2026-06-29T09:15:26.435184+09:00"
   }
  },
  "press_names": {
