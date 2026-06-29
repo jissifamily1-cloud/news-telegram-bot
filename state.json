@@ -349,10 +349,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.techholic.co.kr/news/articleView.html?idxno=221886",
-    "https://www.tjb.co.kr/news05/bodo/view/id/100132",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606290224&t=NN",
-    "http://www.nongaek.com/news/articleView.html?idxno=95898",
     "https://www.newsis.com/view/NISX20260629_0003688136",
     "https://www.newsis.com/view/NISX20260629_0003688114",
     "https://www.nocutnews.co.kr/news/6540195",
@@ -1848,13 +1844,13 @@
     "https://www.joongang.co.kr/article/25440979",
     "http://www.fnnews.com/news/202606270756598187",
     "https://www.sidae.com/article/2026062915190145773",
-    "https://www.joongang.co.kr/article/25440973"
+    "https://www.joongang.co.kr/article/25440973",
+    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/06/30/20260630027001?wlog_tag3=naver",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633328&plink=ORI&cooper=NAVER",
+    "https://www.busan.com/view/busan/view.php?code=2026062918075367492",
+    "http://www.fnnews.com/news/202606292037115086"
    ],
    "seen_titles": [
-    "반도체·AI센터에1800조투자...李\"직할담당관두고직접챙긴다\"",
-    "'한국형공포지수'VKOSPI,96돌파하며역대최고치경신",
-    "엔키화이트햇,하반기IPO추진…코스닥기술성평가통과",
-    "코스피,8000대약보합-코스닥은8%급등마감",
     "코스피변동성지수,'금융위기이후'최고치또경신",
     "코스닥8%대급등마감…코스피소폭하락",
     "'메가톤급투자'선언한이재용·최태원...호남반도체시대열린다",
@@ -3350,10 +3346,14 @@
     "의대까지넘보는반도체학과…대치동엔‘의·치·한·약·수·반’개설",
     "\"종목추천방,실시간알림,2배ETF\"…'조바심'자극당하는개미들,결...",
     "[시대광장/채인택]반도체·AI몰입투자의위험성과타산지석",
-    "“금팔아레버리지또샀다”…‘홀짝도박판’된코스피"
+    "“금팔아레버리지또샀다”…‘홀짝도박판’된코스피",
+    "[사설]800조‘호남반도체’,산업경쟁력전방위뒷받침이관건",
+    "삼성·SK는4천700조,산업부는1천500조…투자액차이왜",
+    "[사설]호남에대규모반도체공장,부울경은기존투자끼워넣기",
+    "\"무려4700조원푼다\"...이재명대통령90도인사하게만든이재용·최..."
    ],
    "initialized": true,
-   "last_run": "2026-06-30T05:10:35.296935+09:00"
+   "last_run": "2026-06-30T05:15:25.967268+09:00"
   }
  },
  "press_names": {
