@@ -358,14 +358,13 @@
     [
      "2026-06-30T06:10:34.736483+09:00",
      "주요뉴스 오늘의"
+    ],
+    [
+     "2026-06-30T06:15:27.307996+09:00",
+     "순자산 ETF 미래 42조 폭증 12개 삼성자산운용 신규상장 상반기 99개"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026062916231954070",
-    "https://www.m-i.kr/news/articleView.html?idxno=1386344",
-    "https://www.newsis.com/view/NISI20260629_0021342084",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4422390",
-    "https://www.ziksir.com/news/articleView.html?idxno=138370",
     "http://www.iminju.net/news/articleView.html?idxno=165953",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=305832",
     "https://www.newsis.com/view/NISI20260629_0021342083",
@@ -1860,14 +1859,14 @@
     "https://www.segye.com/newsView/20260629518449?OutUrl=naver",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6833764_37012.html",
     "https://www.medipana.com/news/articleView.html?idxno=413776",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633306&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633306&plink=ORI&cooper=NAVER",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=679464",
+    "http://www.inews24.com/view/1980541",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1714371",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6833767_37012.html",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=758334"
    ],
    "seen_titles": [
-    "한국정보산업연합회-SKAX,AI실무인재키운다",
-    "전남광주,제2반도체생산거점으로...800조투자",
-    "광주경제계\"삼성·SK반도체투자환영…전폭지원할것\"",
-    "삼성·SK\"지방정주여건개선\"한목소리…원스톱행정주문도",
-    "[마감시황]반도체독주제동에코스피하락...코스닥은8%폭등하며사...",
     "호남권반도체공장후보지거론되는광주첨단3지구",
     "두산,신용등급A급넘본다…나신평등급전망상향",
     "삼성·SK,반도체·AI투자청사진…대한민국산업지도다시그린다",
@@ -3362,10 +3361,15 @@
     "[청와대스케치]4755조규모AI·반도체‘메가프로젝트’발표…李“...",
     "1부오늘의주요뉴스",
     "SK바사,'임상허가리스크관리'전면에…개발성과중요도확대",
-    "[모닝와이드]오늘의주요뉴스"
+    "[모닝와이드]오늘의주요뉴스",
+    "중국CXMT,텐센트와서버DRAM29.4억달러치장기공급계약",
+    "\"공장보다사람이먼저\"…호남800조성공열쇠는정주여건",
+    "한은\"AI투자사이클이제시작…美데이터센터붐장기화",
+    "용인완공확당기고‥광주전남에'400조'더",
+    "상반기신규상장ETF99개,순자산42조폭증...삼성자산운용12개,미래..."
    ],
    "initialized": true,
-   "last_run": "2026-06-30T06:10:34.736483+09:00"
+   "last_run": "2026-06-30T06:15:27.307996+09:00"
   }
  },
  "press_names": {
