@@ -506,17 +506,25 @@
     [
      "2026-06-30T07:50:35.598777+09:00",
      "찾아올까요 주춤한 반도체 여름 순환매가"
+    ],
+    [
+     "2026-06-30T07:55:19.880641+09:00",
+     "800조 치열한 효과 질주 웃프고도 이재용 미래산업의 정면에"
+    ],
+    [
+     "2026-06-30T07:55:19.880641+09:00",
+     "투자 웃었다 실적은 글쎄 역대급인데 반도체만 성과는"
+    ],
+    [
+     "2026-06-30T07:55:19.880641+09:00",
+     "매출 데브시스터즈 클래식 1위 애플 태국 쿠키런"
+    ],
+    [
+     "2026-06-30T07:55:19.880641+09:00",
+     "외국인 시총 투자 금융 살펴보니 100대기업 반도체"
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463969",
-    "http://www.yonhapnewstv.co.kr/news/AKR20260629164322v2s",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092164795",
-    "https://en.yna.co.kr/view/AEN20260629007352320?input=2106m",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04687126645486640",
-    "https://www.nocutnews.co.kr/news/6540238",
-    "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260629513&PRO_CODE=99",
-    "https://www.chosun.com/national/regional/2026/06/29/XCTLPLBTGNBHHC3PB3WDBQA5BE/",
     "https://www.seoulfn.com/news/articleView.html?idxno=632194",
     "https://zdnet.co.kr/view/?no=20260629160302",
     "https://www.kado.net/news/articleView.html?idxno=2058405",
@@ -2008,17 +2016,17 @@
     "https://news.tvchosun.com/site/data/html_dir/2026/06/30/2026063090010.html",
     "https://www.medicopharma.co.kr/news/articleView.html?idxno=68552",
     "https://www.smarttoday.co.kr/ko-kr/articles/108981",
-    "https://biz.chosun.com/about-investing/2026/06/30/H7OPJNK6OBGDJFQXHOCQXGXXOQ/"
+    "https://biz.chosun.com/about-investing/2026/06/30/H7OPJNK6OBGDJFQXHOCQXGXXOQ/",
+    "https://www.hankyung.com/article/2026063054266",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=51176",
+    "https://www.hankyung.com/article/202606305399g",
+    "https://news.tvchosun.com/site/data/html_dir/2026/06/30/2026063090012.html",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=264468",
+    "https://www.newsway.co.kr/news/view?ud=2026063007433869926",
+    "https://biz.sbs.co.kr/article_hub/20000319600?division=NAVER",
+    "https://www.seoultimes.news/news/article.html?no=2000097175"
    ],
    "seen_titles": [
-    "반도체클러스터도못막은코스피하락…코스닥은8%급등",
-    "이준석·유의동의원\"평택·용인반도체사업차질없이추진해야\"",
-    "李대통령\"반도체·AI·데이터센터삼각축초격차산업강국\"",
-    "이대통령,이재용·최태원에\"국민영웅\"…허리숙여'90도인사'",
-    "李대통령,이재용·최태원에\"국가영웅\"…삼성·SK,4755조투자시동",
-    "(2ndLD)Seoulsharesendtadlowerontechlosses,Iranuncertainty",
-    "SK하닉ADR효과어디까지…\"최대7조유입기대,가격괴리는변수\"",
-    "\"무조건광주로돌아올것\"…800조반도체잭팟에광주'들썩'",
     "李대통령,이재용·최태원에90도인사...\"국민영웅\"",
     "민주당전북도당“삼성·SK반도체호남투자환영…호남내전북소외...",
     "SK,용인·청주·서남권잇는반도체벨트만든다",
@@ -3510,10 +3518,18 @@
     "6월30일'뉴스퍼레이드'오프닝",
     "SK바이오팜세노바메이트·솔리암페톨,中국가의료보험등재신청",
     "대체거래소,7월1일부터미래에셋생명·LG씨앤에스·카카오등32개사매...",
-    "[투자노트]반도체주춤한여름…순환매가찾아올까요"
+    "[투자노트]반도체주춤한여름…순환매가찾아올까요",
+    "\"SK,반도체·AI데이터센터수혜기대…목표가↑\"-삼성",
+    "용인반도체들어설이동·남사보상과전력,용수'감감'",
+    "\"간호사는안뽑나요\"난리나더니…SK하닉'압도적1위'",
+    "호남반도체등1500조투자…구체적계획은'안갯속'",
+    "'이재용800조효과'정면에...025560미래산업의웃프고도치열한질주",
+    "실적은역대급인데투자성과는'글쎄'…반도체만웃었다",
+    "[애프터마켓리뷰]데브시스터즈'쿠키런클래식'태국애플매출1위",
+    "[비즈인사이트]시총100대기업외국인투자살펴보니...\"금융·반도체..."
    ],
    "initialized": true,
-   "last_run": "2026-06-30T07:50:35.598777+09:00"
+   "last_run": "2026-06-30T07:55:19.880641+09:00"
   }
  },
  "press_names": {
