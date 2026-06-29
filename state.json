@@ -1373,11 +1373,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.joongang.co.kr/article/25440518",
-    "https://www.joongang.co.kr/article/25440516",
-    "https://www.ytn.co.kr/_ln/0102_202606281712058343",
-    "https://m.sports.naver.com/basketball/article/065/0000299112",
-    "http://www.inews24.com/view/1980348",
     "https://www.kyeonggi.com/article/20260628580257",
     "https://www.hankookilbo.com/news/article/A2026062817050003477?did=NA",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000046009",
@@ -2872,14 +2867,14 @@
     "https://www.news1.kr/finance/general-stock/6211352",
     "https://www.ceoscoredaily.com/page/view/2026062912152538267",
     "https://www.nocutnews.co.kr/news/6539995",
-    "http://www.newstown.co.kr/news/articleView.html?idxno=707528"
+    "http://www.newstown.co.kr/news/articleView.html?idxno=707528",
+    "https://www.fetv.co.kr/news/articleView.html?idxno=305318",
+    "https://www.news1.kr/local/sejong-chungbuk/6211363",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=80753",
+    "https://www.newdaily.co.kr/site/data/html/2026/06/29/2026062900131.html",
+    "https://www.newsis.com/view/NISX20260629_0003687644"
    ],
    "seen_titles": [
-    "李\"돼지눈엔돼지\"국힘직격…반도체프로젝트부정여론차단",
-    "李대통령“호남반도체는특혜아닌국가생존전략”",
-    "SK,AI생태계강화중장기운영전략첫공개…\"글로벌협력플랫폼으...",
-    "ETF에도밀린코스닥,30주년에‘800스닥’굴욕…하반기체질개선시...",
-    "애플가격인상의역설…물가낮춘다던AI,인플레이션변수로",
     "불어난'빚투'에...'마통'잔액3년8개월만에최대",
     "강동SKU10대표팀,두번째대회에서쌓은값진경험!",
     "젠슨황장녀매디슨황\"서울경찰에감사\"",
@@ -4374,10 +4369,15 @@
     "힘못쓰는삼전닉스,코스피1%약세…코스닥900선회복[장중시황]",
     "삼성·SK,대통령주재국민보고회서대규모지방투자계획공개",
     "충청국민의힘\"호남반도체,정치적결정\"반발",
-    "국민의힘충청권정치인,이재명정부호남반도체투자일방발표비판"
+    "국민의힘충청권정치인,이재명정부호남반도체투자일방발표비판",
+    "SK에코플랜트,용인수지삼성2차재건축수주…2048억규모확보",
+    "'실리콘칼라로간다'…충북반도체고졸업생90%반도체기업취업",
+    "SK바이오사이언스,투명경영가속화…'2026ESG보고서'발간",
+    "국민의힘\"'호남반도체'는관치\"…입지선정공개·국정조사촉구",
+    "삼전닉스레버리지광풍이삼킨증시…출시후상장사95%주가↓"
    ],
    "initialized": true,
-   "last_run": "2026-06-29T12:20:29.559172+09:00"
+   "last_run": "2026-06-29T12:25:19.157964+09:00"
   }
  },
  "press_names": {
