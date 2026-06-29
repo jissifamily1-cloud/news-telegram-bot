@@ -1269,13 +1269,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000319313?division=NAVER",
-    "https://www.namdonews.com/news/articleView.html?idxno=914999",
-    "https://www.imaeil.com/page/view/2026062816370762025",
-    "https://www.joongang.co.kr/article/25440525",
-    "https://www.ajunews.com/view/20260628140244451",
-    "https://www.ajunews.com/view/20260628144826530",
-    "http://www.kwangju.co.kr/article.php?aid=1782637200800622005",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596585",
     "https://biz.chosun.com/policy/policy_sub/2026/06/28/N3725JA4O5GBDCM7CBHULWOKUU/",
     "https://www.idomin.com/news/articleView.html?idxno=2008823",
@@ -2768,16 +2761,16 @@
     "https://www.newsis.com/view/NISX20260629_0003687695",
     "http://www.popcornnews.net/news/articleView.html?idxno=125046",
     "http://www.iminju.net/news/articleView.html?idxno=165934",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463894"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463894",
+    "https://www.etoday.co.kr/news/view/2598213",
+    "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=896065",
+    "https://www.ajunews.com/view/20260629132539724",
+    "https://www.viva100.com/article/20260624500601",
+    "https://www.hankyung.com/article/202606293932r",
+    "https://www.g-enews.com/view.php?ud=202606291319251688153ddfb15a_1",
+    "https://www.hankyung.com/article/202606293958i"
    ],
    "seen_titles": [
-    "靑,29일호남권반도체투자계획발표'촉각'",
-    "[정치평론]반도체돈벼락의빛과그림자",
-    "美\"외국인첨단AI접속국방부가선별\"",
-    "쿠팡·SKT·티빙유출,터졌다하면수천만명…뭐가문제?",
-    "윤석열정부도인정했다…광주·전남반도체인프라저력'재조명'",
-    "'기업투자까지좌우'…여권독주에국정곳곳'전쟁터'",
-    "한미반도체폭등맞춘수퍼개미“다음텐배거이종목서나온다”",
     "삼성·SK,호남넘어충청·영남으로…'AI시대'새산업지도그린다",
     "李·정치권\"호남이반도체최적지…국가대계위한미래투자\"",
     "호남에‘반도체클러스터’…대한민국산업지도바꾼다",
@@ -4270,10 +4263,17 @@
     "추경호대구시정방향발표…실현에난관적지않아",
     "SK하이닉스'ADR'모멘텀담은'TIGER반도체TOP10'ETF출격",
     "靑,'기업팔비틀기'비판에\"세계초거대기업이손해볼일하겠나\"",
-    "전고체배터리주일제히질주…LG에너지솔루션·삼성SDI주가함박웃음"
+    "전고체배터리주일제히질주…LG에너지솔루션·삼성SDI주가함박웃음",
+    "코스닥은7%급등에매수사이드카⋯코스피는‘삼전닉스’약세에8200...",
+    "국힘충청권의원·도지사,'호남반도체투자'비판...\"반도체정치질...",
+    "[食전食후]코스피,삼전닉스약세에1%대하락…코스닥은7%급등·910선...",
+    "반도체이어우주항공까지…ETF시장흔드는‘밸류체인투자’왜?",
+    "1인가구40%서울…세빌스“코리빙·시니어하우징투자확대”",
+    "\"SK하이닉스ADR상장,韓반도체밸류에이션재평가신호탄\"",
+    "\"도민은못느끼는반도체호황\"…추미애,세수개편카드만지작"
    ],
    "initialized": true,
-   "last_run": "2026-06-29T13:25:22.578677+09:00"
+   "last_run": "2026-06-29T13:30:36.606068+09:00"
   }
  },
  "press_names": {
