@@ -353,7 +353,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.nocutnews.co.kr/news/6540195",
     "https://www.newspim.com/news/view/20260629001246",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=846999",
     "https://www.ikbc.co.kr/article/view/kbc202606290045",
@@ -1852,10 +1851,10 @@
     "https://www.busan.com/view/busan/view.php?code=2026062918075367492",
     "http://www.fnnews.com/news/202606292037115086",
     "http://www.medisobizanews.com/news/articleView.html?idxno=139773",
-    "http://www.fnnews.com/news/202606300514405291"
+    "http://www.fnnews.com/news/202606300514405291",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=264464"
    ],
    "seen_titles": [
-    "'메가톤급투자'선언한이재용·최태원...호남반도체시대열린다",
     "경제6단체\"3대메가프로젝트환영…전력·용수적기지원기대\"공동성...",
     "민주전북도당\"삼성·하이닉스호남권투자환영…균형배분필요\"",
     "반도체전남광주800조발표…이젠군공항부지주목",
@@ -3354,10 +3353,11 @@
     "[사설]호남에대규모반도체공장,부울경은기존투자끼워넣기",
     "\"무려4700조원푼다\"...이재명대통령90도인사하게만든이재용·최...",
     "한미약품ㆍ아리바이오등8곳,상반기13조'역대급'기술수출",
-    "[뉴욕증시]나스닥,2%급등…테슬라,8.4%폭등"
+    "[뉴욕증시]나스닥,2%급등…테슬라,8.4%폭등",
+    "\"삼전·닉스레버리지때문에변동성최악?\"...그게아닙니다,고객님"
    ],
    "initialized": true,
-   "last_run": "2026-06-30T05:25:19.385207+09:00"
+   "last_run": "2026-06-30T05:30:39.110236+09:00"
   }
  },
  "press_names": {
