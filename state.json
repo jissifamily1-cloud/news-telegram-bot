@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-30T00:55:24.336508+09:00",
-     "외국인은 투톱 반도체 순매도 넘게 7조"
-    ],
-    [
-     "2026-06-30T00:55:24.336508+09:00",
-     "최태원 곳곳 1000조 계획 데이터센터 주도로"
-    ],
-    [
      "2026-06-30T01:30:36.454225+09:00",
      "벨트 투입해 세운다 삼성 국가 4755조"
     ],
@@ -362,12 +354,17 @@
     [
      "2026-06-30T06:55:21.114097+09:00",
      "차세대 Wi 인프라로 진화 Fi"
+    ],
+    [
+     "2026-06-30T07:00:46.566298+09:00",
+     "left weak won curb What to"
+    ],
+    [
+     "2026-06-30T07:00:46.566298+09:00",
+     "3사 올렸다 메모리 법정 D램값 핑계로 주장"
     ]
    ],
    "seen_urls": [
-    "https://www.gokorea.kr/news/articleView.html?idxno=870720",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=845389",
-    "https://www.econovill.com/news/articleView.html?idxno=743784",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04611686645486640",
     "http://www.yonhapnewstv.co.kr/news/MYH20260629162355y96",
     "https://view.asiae.co.kr/article/2026062916255376587",
@@ -1864,12 +1861,12 @@
     "https://biz.sbs.co.kr/article_hub/20000319584?division=NAVER",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464058",
     "https://www.ytn.co.kr/_ln/0107_202606300650173824",
-    "http://www.itdaily.kr/news/articleView.html?idxno=240072"
+    "http://www.itdaily.kr/news/articleView.html?idxno=240072",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=60979",
+    "https://www.koreatimes.co.kr/path/A2026062915060000895",
+    "https://www.g-enews.com/view.php?ud=202606300644173152fbbec65dfb_1"
    ],
    "seen_titles": [
-    "外人투매...코스피'하락',반도체주'뚝',원화환율'요동'",
-    "李대통령,메가프로젝트발표…與\"새성장축여는균형발전의결실\"",
-    "\"800조원투자폭발…삼전닉스가만드는전남-광주반도체신흥강자\"",
     "삼성·SK,역대급투자발표…李대통령,이재용·최태원에\"국민영웅\"치...",
     "[대한민국대도약전격해부②]\"상품대신지능수출\"15GW데이터센터...",
     "[마켓인]두산,신용등급상향가능성높아졌다…실트론인수는변수",
@@ -3366,10 +3363,13 @@
     "삼성·SK,'AI청사진'에'낯선숫자'4700조원쏟는다",
     "LG에너지솔루션,전기제품브랜드평판1위…삼성SDI제쳤다",
     "[YTN실시간뉴스]축구대표팀본진귀국...홍명보'묵묵부답'",
-    "[무선랜①]'Wi-Fi8',차세대AI인프라로진화"
+    "[무선랜①]'Wi-Fi8',차세대AI인프라로진화",
+    "SK,호남권에400조투입해'AI메모리벨트'완성…AI데이터센터에만...",
+    "What'slefttocurbweakwon?",
+    "\"AI핑계로D램값700%올렸다주장\"…美법정선메모리3사"
    ],
    "initialized": true,
-   "last_run": "2026-06-30T06:55:21.114097+09:00"
+   "last_run": "2026-06-30T07:00:46.566298+09:00"
   }
  },
  "press_names": {
