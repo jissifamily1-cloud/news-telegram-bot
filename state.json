@@ -1250,13 +1250,13 @@
     [
      "2026-06-29T22:20:32.806564+09:00",
      "삼성 가격담합 집단소송 피소 DRAM 마이크론"
+    ],
+    [
+     "2026-06-29T22:25:21.572496+09:00",
+     "뉴욕증시 우려 완화에 긴장 중동 프리뷰 상승 나스닥 메모리"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260629107600054?input=1195m",
-    "http://www.thebigdata.co.kr/view.php?ud=202606291539558564bbceadc3c9_23",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3620786",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=140780",
     "https://www.newspim.com/news/view/20260629001135",
     "https://biz.newdaily.co.kr/site/data/html/2026/06/29/2026062900246.html",
     "https://www.news1.kr/local/gwangju-jeonnam/6211663",
@@ -2752,13 +2752,13 @@
     "https://www.eroun.net/news/articleView.html?idxno=84250",
     "http://www.newstown.co.kr/news/articleView.html?idxno=707595",
     "https://www.segye.com/newsView/20260629518336?OutUrl=naver",
-    "http://www.4th.kr/news/articleView.html?idxno=2113910"
+    "http://www.4th.kr/news/articleView.html?idxno=2113910",
+    "http://www.srtimes.kr/news/articleView.html?idxno=206339",
+    "http://sateconomy.co.kr/news/view/1065619294862912",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=06159846645486640",
+    "https://www.newspim.com/news/view/20260629001442"
    ],
    "seen_titles": [
-    "양자기술이바꾸는금융의미래...이주희·이강일의원양자기술국회...",
-    "SK최태원\"데이터센터1000조·반도체공급확장1100조투자\"",
-    "이대통령\"원스톱행정절차,직접책임지겠다…임기종료때까지챙길...",
-    "[메가프로젝트]최태원\"AIDC·반도체팹신축2100조원투자\"",
     "[주가]6월29일주요제약·바이오·기기5%변동현황-165곳증가,박...",
     "삼성은광주,SK는서남권…반도체생산벨트구축공식화",
     "이재용\"신규반도체단지,광주로계획...HBM팹은충청권집중\"",
@@ -4254,10 +4254,14 @@
     "[이로운정책]삼성2655조·SK2100조…'3대메가프로젝트'에무엇이담겼...",
     "이상일용인특례시장,정부향해\"용인반도체국가산단차질없이추진...",
     "의회외교의정수[더나은경제,SDGs]",
-    "삼성·SK·마이크론,美서DRAM가격담합집단소송피소"
+    "삼성·SK·마이크론,美서DRAM가격담합집단소송피소",
+    "SK,15GW데이터센터·1,100조반도체벨트띄운다",
+    "최태원“AI수출국전환”…SK,데이터센터·메모리에2100조승부수",
+    "[미리보는이데일리신문]5000조투입…전국에‘AI거점’만든다",
+    "뉴욕증시프리뷰,중동긴장완화에나스닥1%상승…AI우려·메모리소..."
    ],
    "initialized": true,
-   "last_run": "2026-06-29T22:20:32.806564+09:00"
+   "last_run": "2026-06-29T22:25:21.572496+09:00"
   }
  },
  "press_names": {
