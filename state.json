@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-29T21:30:39.970728+09:00",
-     "Could Comcast and Deals After NBCUniversal They Do Break Up"
-    ],
-    [
-     "2026-06-29T21:30:39.970728+09:00",
-     "지원도 대통령 재차 역사적 결단 감사 최태원에 이재용 어떤"
-    ],
-    [
-     "2026-06-29T21:30:39.970728+09:00",
-     "데이터로 준비된 반도체 증명된 입지"
-    ],
-    [
      "2026-06-29T21:35:22.311990+09:00",
      "유치 대구 하려던 대기업 불가피 청사진 민선 9기 수정"
     ],
@@ -330,11 +318,17 @@
     [
      "2026-06-30T03:25:22.234890+09:00",
      "계약 텐센트에 D램 창신메모리 대규모 공급"
+    ],
+    [
+     "2026-06-30T03:30:44.711418+09:00",
+     "사례 보여주는 위험 증시 레버리지 상품"
+    ],
+    [
+     "2026-06-30T03:30:44.711418+09:00",
+     "3분기 중간선거 요동친다 HBM 공급망 부상 분기점"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260629030651008?input=1195m",
-    "http://www.kdfnews.com/news/articleView.html?idxno=184686",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1714333",
     "https://www.kukinews.com/article/view/kuk202606280035",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1714316",
@@ -1832,11 +1826,11 @@
     "https://sports.khan.co.kr/article/202606300252003?pt=nv",
     "https://www.kyeonggi.com/article/20260629580689",
     "https://www.cbci.co.kr/news/articleView.html?idxno=585420",
-    "https://biz.sbs.co.kr/article_hub/20000319563?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000319563?division=NAVER",
+    "https://biz.sbs.co.kr/article_hub/20000319565?division=NAVER",
+    "https://www.g-enews.com/view.php?ud=202606291734427333fbbec65dfb_1"
    ],
    "seen_titles": [
-    "李대통령\"서남권이3대메가프로젝트거점\"",
-    "[Invest]효율성대신확장성…韓반도체'초격차'중대기로",
     "호남반도체800조투자…이대통령\"이재용최태원국민영웅\"",
     "이재명대통령\"서남권등대규모신규투자..압도적반도체공급역량...",
     "[일요서울TV]강민국\"반도체묻지마호남행...이재명정권의관치폭주...",
@@ -3334,10 +3328,12 @@
     "이재윤,글로벌드라마‘더시즌(THESEASON)’강렬한활약펼치는존...",
     "[사설]‘반도체용인산단앞당긴다’-정부는이약속만지켜라",
     "호남반도체클러스터성공조건은…전력·용수·인재확보관건",
-    "中창신메모리,텐센트에대규모D램공급계약"
+    "中창신메모리,텐센트에대규모D램공급계약",
+    "\"韓증시,레버리지상품위험보여주는사례\"",
+    "HBM공급망요동친다…미중간선거3분기분기점부상"
    ],
    "initialized": true,
-   "last_run": "2026-06-30T03:25:22.234890+09:00"
+   "last_run": "2026-06-30T03:30:44.711418+09:00"
   }
  },
  "press_names": {
