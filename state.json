@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-29T20:00:44.332232+09:00",
-     "웃고 두얼굴 운다 백화점 철강업 고환율의"
-    ],
-    [
      "2026-06-29T20:05:22.020680+09:00",
      "바꾸나 멈춘 호남 뒷걸음친 성장 충남 메가투자 지역경제"
     ],
@@ -478,11 +474,13 @@
     [
      "2026-06-30T01:50:29.911080+09:00",
      "확보 경제부지사 미래산업 퇴임 강위원 국고 10조 기반 닦고 전남도"
+    ],
+    [
+     "2026-06-30T02:05:20.461092+09:00",
+     "전망 증설 영향 메모리주 SK하이닉스 삼성 약세 증시"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04496886645486640",
-    "https://www.etnews.com/20260629000402",
     "http://www.fnnews.com/news/202606291508359485",
     "https://www.dailian.co.kr/news/view/1661157/?sc=Naver",
     "https://www.viewsnnews.com/article?q=236823",
@@ -1980,11 +1978,11 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=1782721147&code=11171111&cp=nv",
     "https://www.apnews.kr/news/articleView.html?idxno=3049362",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=310032",
-    "https://www.tokenpost.kr/news/market/373725"
+    "https://www.tokenpost.kr/news/market/373725",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1782726255&code=11151400&cp=nv",
+    "https://www.tokenpost.kr/news/breaking/373726"
    ],
    "seen_titles": [
-    "국민영웅社SK하이닉스‘그런데주가는요?’…증권사“실적·ADR양날...",
-    "[마감시황]반도체쏠림풀린순환매에코스닥8%급등",
     "빚투개미'벌벌'…공포지수,금융위기이후사상최고또경신",
     "李대통령\"호남반도체클러스터,확실하게전력요금메리트생기게할...",
     "전남광주,'반도체기지'로거듭난다…균형발전새이정표",
@@ -3482,10 +3480,12 @@
     "[사설]전남광주반도체클러스터,기반시설속도전이관건",
     "호남논란에가린400조계산…최태원이본건'AI골든타임'이었다",
     "강위원전남도경제부지사,국고10조확보·미래산업기반닦고퇴임",
-    "단일종목ETF,반도체주변동성확산주범?시장분석은'아니다'"
+    "단일종목ETF,반도체주변동성확산주범?시장분석은'아니다'",
+    "K-반도체새지도…호남은팹4기,충청패키징,영남소부장",
+    "미증시메모리주약세…삼성·SK하이닉스증설전망영향"
    ],
    "initialized": true,
-   "last_run": "2026-06-30T02:00:41.750817+09:00"
+   "last_run": "2026-06-30T02:05:20.461092+09:00"
   }
  },
  "press_names": {
