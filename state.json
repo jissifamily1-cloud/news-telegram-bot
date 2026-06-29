@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-29T23:55:24.222948+09:00",
-     "헤드라인 29일 6월 모닝뉴스"
-    ],
-    [
-     "2026-06-29T23:55:24.222948+09:00",
-     "용수 듣는다 부총리에게 투자 전력 어떻게 난제 중복"
-    ],
-    [
      "2026-06-30T00:00:47.168092+09:00",
      "급증 발간 거래 신한투자증권 단일종목 리포트 ETF 레버리지 분석"
     ],
@@ -362,13 +354,21 @@
     [
      "2026-06-30T05:55:23.039937+09:00",
      "제외 책임론 도지사 반도체 전북 비난 호남 800조 서남권 고조"
+    ],
+    [
+     "2026-06-30T06:00:46.105068+09:00",
+     "호남행 정치적 나는 압박 이기인 개혁신당 자발적 믿겠다"
+    ],
+    [
+     "2026-06-30T06:00:46.105068+09:00",
+     "투자 김대중 호남 교육감 교육도 바뀐다"
+    ],
+    [
+     "2026-06-30T06:00:46.105068+09:00",
+     "경쟁 커졌다 시장도 뜨자 동전파스 소형첩부제 본격화"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/PYH20260629154100054?input=1196m",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=723478",
-    "http://www.issuenbiz.com/news/articleView.html?idxno=77549",
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=79595",
     "https://www.hankyung.com/article/202606269564i",
     "https://www.mediapen.com/news/view/1107161",
     "http://www.jmbc.co.kr/news/view/65816",
@@ -1864,13 +1864,13 @@
     "https://www.munhwa.com/article/11599058",
     "https://www.enetnews.co.kr/news/articleView.html?idxno=51772",
     "https://www.news1.kr/it-science/general-it/6211826",
-    "http://www.jbsori.com/news/articleView.html?idxno=17512"
+    "http://www.jbsori.com/news/articleView.html?idxno=17512",
+    "https://www.mt.co.kr/world/2026/06/30/2026063005133786430",
+    "https://www.jibs.co.kr/news/articles/articlesDetail/62942?feed=na",
+    "https://www.mhns.co.kr/news/articleView.html?idxno=751735",
+    "https://www.kpanews.co.kr/news/articleView.html?idxno=537676"
    ],
    "seen_titles": [
-    "GPU다음은'전력'…AI데이터센터경쟁,통신사해법도갈렸다",
-    "[K생산적금융을묻다에필로그①]정부가먼저움직이니해외자본이곳...",
-    "마이크론(MU),이익률84%로엔비디아(NVDA)위협...반도체대장주경쟁...",
-    "삼성전자·SK하이닉스반도체공장후보지",
     "코스피,뉴욕발악재에8390선후퇴…코스닥은'매수사이드카'속8%급...",
     "코스피,반도체약세8300선마감...코스닥8%상승",
     "3대메가프로젝트발표\"서남권반도체에800조…충청권에81조투자\"",
@@ -3366,10 +3366,14 @@
     "[속보]뉴욕증시,기술주반등…나스닥2.1%급등",
     "[브랜드평판]LG에너지솔루션,전기제품상장기업6월1위...삼성SDI,에...",
     "'독파모'이어이번엔로봇두뇌…3년내'피지컬AI범파모'만든다",
-    "'호남·서남권800조반도체'전북제외,비난·책임론고조…\"도지사당..."
+    "'호남·서남권800조반도체'전북제외,비난·책임론고조…\"도지사당...",
+    "\"삼전닉스처럼하면우리도4.7억받아야\"...일본서도'N%성과급'논쟁",
+    "개혁신당이기인\"자발적호남행?나는못믿겠다..李,'정치적압박'...",
+    "김대중교육감\"호남투자,교육도바뀐다\"",
+    "'동전파스'뜨자시장도커졌다…소형첩부제경쟁본격화"
    ],
    "initialized": true,
-   "last_run": "2026-06-30T05:55:23.039937+09:00"
+   "last_run": "2026-06-30T06:00:46.105068+09:00"
   }
  },
  "press_names": {
@@ -3764,6 +3768,7 @@
   "mpmbc.co.kr": "목포MBC",
   "wemakenews.co.kr": "wemakenews.co.kr",
   "thedailypost.kr": "데일리포스트",
-  "radiokorea.com": "라디오코리아 뉴스"
+  "radiokorea.com": "라디오코리아 뉴스",
+  "kpanews.co.kr": "약사공론"
  }
 }
