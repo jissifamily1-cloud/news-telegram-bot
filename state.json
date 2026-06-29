@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-29T21:45:25.550321+09:00",
-     "SK이노 협력사 안전 울산CLX 상생 워크숍"
-    ],
-    [
      "2026-06-29T21:50:30.109162+09:00",
      "내렸다지만 6주째 미미 기름값 인하폭 주유소"
     ],
@@ -309,7 +305,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.kukinews.com/article/view/kuk202606280035",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1714316",
     "https://www.nocutnews.co.kr/news/6540182",
     "https://www.ddaily.co.kr/page/view/2026062915512256440",
@@ -1808,10 +1803,10 @@
     "https://biz.sbs.co.kr/article_hub/20000319563?division=NAVER",
     "https://biz.sbs.co.kr/article_hub/20000319565?division=NAVER",
     "https://www.g-enews.com/view.php?ud=202606291734427333fbbec65dfb_1",
-    "https://biz.sbs.co.kr/article_hub/20000319568?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000319568?division=NAVER",
+    "http://www.osen.co.kr/article/G1112830847"
    ],
    "seen_titles": [
-    "이재명대통령\"서남권등대규모신규투자..압도적반도체공급역량...",
     "[일요서울TV]강민국\"반도체묻지마호남행...이재명정권의관치폭주...",
     "[특징주]삼성전자,4%대급락마감…SK하이닉스도1%대하락(종합)",
     "최태원회장\"AI데이터센터15GW구축\"...2035년까지1000조원규모AI인...",
@@ -3310,10 +3305,11 @@
     "中창신메모리,텐센트에대규모D램공급계약",
     "\"韓증시,레버리지상품위험보여주는사례\"",
     "HBM공급망요동친다…미중간선거3분기분기점부상",
-    "[글로벌비즈브리핑]\"韓증시,레버리지상품위험보여주는사례\"外"
+    "[글로벌비즈브리핑]\"韓증시,레버리지상품위험보여주는사례\"外",
+    "\"생계생각하지않을수없었다\"은퇴경기148kmKKK무실점…25년커리..."
    ],
    "initialized": true,
-   "last_run": "2026-06-30T03:40:36.073352+09:00"
+   "last_run": "2026-06-30T03:45:27.298911+09:00"
   }
  },
  "press_names": {
