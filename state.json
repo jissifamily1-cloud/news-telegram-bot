@@ -469,13 +469,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/world/northeast-asia/6211749",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463967",
-    "https://www.mbceg.co.kr/post/137769",
-    "https://www.yna.co.kr/view/AKR20260629132200530?input=1195m",
-    "https://sports.hankooki.com/news/articleView.html?idxno=6935662",
-    "https://www.sedaily.com/article/20061460",
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2284524",
     "https://www.etoday.co.kr/news/view/2598323",
     "http://www.jndn.com/article.php?aid=1782718479435103004",
     "https://www.etoday.co.kr/news/view/2598371",
@@ -1968,16 +1961,16 @@
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=140793",
     "https://www.mk.co.kr/article/12085780",
     "https://biz.sbs.co.kr/article_hub/20000319585?division=NAVER",
-    "https://www.ilyosisa.co.kr/news/article.html?no=256672"
+    "https://www.ilyosisa.co.kr/news/article.html?no=256672",
+    "https://www.segye.com/newsView/20260630502551?OutUrl=naver",
+    "https://www.gosiweek.com/article/1065564789206207",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247416&CMPT_CD=P0010",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1714378",
+    "https://en.yna.co.kr/view/AEN20260630000400315?input=2106m",
+    "https://dealsite.co.kr/articles/164114",
+    "https://biz.sbs.co.kr/article_hub/20000319597?division=NAVER"
    ],
    "seen_titles": [
-    "두달만에기름값1900원대안착…정유사는兆단위'속앓이'",
-    "미국기술주우려에코스피숨고르기",
-    "\"中하반기성장,상반기대비둔화…반도체호황에수출은호조\"",
-    "KB운용'RISE'통했다...37조ETF키운AI·밸류업전략",
-    "GS동해시에AI데이터센터건립,SK강원권추가검토에...강릉물망",
-    "쿠팡개인정보유출분쟁조정신청14만6천여명…역대최대규모",
-    "코스피,장중급락딛고8400선턱밑마감…코스닥은8%대급등",
     "경제6단체“3대메가프로젝트환영…인프라적기지원필요”",
     "박수현\"3대메가프로젝트환영…충남이AI·반도체거점뒷받침\"",
     "용인넘어호남으로…삼성·SK,제2반도체클러스터띄운다",
@@ -3470,10 +3463,17 @@
     "美소비자,삼성전자·SK하이닉스·마이크론상대로집단소송",
     "매경이전하는세상의지식(매-세-지,6월30일)",
     "[증시전략]美빅테크,잔혹한상대평가시즌…과거의명성끝났나?",
-    "<김삼기의시사펀치>800조가바꾸는대한민국산업지도"
+    "<김삼기의시사펀치>800조가바꾸는대한민국산업지도",
+    "‘맥북비싸졌다’美소비자들,삼성·SK하닉·마이크론상대소송",
+    "구직자가가장많이찾은기업은SK하이닉스…삼성전자는4위로밀려",
+    "[손병관의뉴스프레소]서울시장패배로위기의식커진민주당'한강벨...",
+    "4755조'AI국토개조'…삼성은광주,SK는서남권으로간다",
+    "TopheadlinesinmajorS.Koreannewspapers",
+    "한앤코,바이아웃넘어부동산·NPL으로영토확장",
+    "[마켓브리핑]미·이란갈등다시완화…AI수요여전히'견조'"
    ],
    "initialized": true,
-   "last_run": "2026-06-30T07:15:53.638484+09:00"
+   "last_run": "2026-06-30T07:20:36.596551+09:00"
   }
  },
  "press_names": {
@@ -3869,6 +3869,7 @@
   "wemakenews.co.kr": "wemakenews.co.kr",
   "thedailypost.kr": "데일리포스트",
   "radiokorea.com": "라디오코리아 뉴스",
-  "kpanews.co.kr": "약사공론"
+  "kpanews.co.kr": "약사공론",
+  "gosiweek.com": "gosiweek.com"
  }
 }
