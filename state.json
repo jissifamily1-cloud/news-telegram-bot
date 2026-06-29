@@ -294,14 +294,17 @@
     [
      "2026-06-30T04:35:22.529402+09:00",
      "대통령 이재용 최태원 회장보다 숙인 고개"
+    ],
+    [
+     "2026-06-30T04:40:33.533405+09:00",
+     "성장 막으려는 정부가 개입 선정 반도체 입지 관치 국가"
+    ],
+    [
+     "2026-06-30T04:40:33.533405+09:00",
+     "데이터센터에 배터리 AI기판 1000조 투입 구미 부산 로봇 울산"
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0101_202606291607421238",
-    "https://www.kado.net/news/articleView.html?idxno=2058397",
-    "https://biz.heraldcorp.com/article/10791849",
-    "https://www.hankyung.com/article/2026062944927",
-    "https://www.ytn.co.kr/_ln/0105_202606291607564670",
     "https://www.newsis.com/view/NISI20260629_0021342015",
     "https://www.newsis.com/view/NISI20260629_0021342016",
     "https://www.newsis.com/view/NISI20260629_0021342017",
@@ -1796,14 +1799,14 @@
     "https://www.mt.co.kr/industry/2026/06/30/2026062920162275382",
     "https://www.hankookilbo.com/news/article/A2026062913550005995?did=NA",
     "https://www.donga.com/news/Economy/article/all/20260630/134205580/2",
-    "https://www.hankookilbo.com/news/article/A2026062922390003740?did=NA"
+    "https://www.hankookilbo.com/news/article/A2026062922390003740?did=NA",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3621290",
+    "https://www.donga.com/news/Economy/article/all/20260630/134205570/2",
+    "https://www.donga.com/news/Politics/article/all/20260630/134205578/2",
+    "https://www.donga.com/news/Politics/article/all/20260630/134205557/2",
+    "https://www.donga.com/news/Economy/article/all/20260630/134205560/2"
    ],
    "seen_titles": [
-    "\"이재용·최태원회장은'국민영웅'\"…李대통령,기업에전폭지원약속",
-    "외국인7조매도코스피흔들코스닥8%급등",
-    "이대통령,이재용·최태원에\"국가영웅\"…90도인사로감사",
-    "삼성·SK\"광주·서남권에AI반도체1000조투자\"",
-    "호남반도체팹4기…정부2000조원대‘메가프로젝트’시동",
     "이대통령\"초격차산업강국대도약...서남권대규모반도체투자\"",
     "이대통령\"이재용·최태원국민영웅\"…기업투자에'전폭지원'약속",
     "최태원SK회장“AI데이터센터1000조원·반도체공급확장에1100조원...",
@@ -3298,10 +3301,15 @@
     "'왕좌'넘보지못하게…압도적생산으로'추격'의지불식",
     "'사이클산업'반도체,하락은정말먼미래일까...설비과잉우려도",
     "광주에800조,‘팹’4기신설…충청패키징-영남소부장거점으로",
-    "이재용·최태원회장보다고개더숙인李대통령[오늘의1면사진]"
+    "이재용·최태원회장보다고개더숙인李대통령[오늘의1면사진]",
+    "이재명대통령,'대체불가대한민국'원년선언…3대메가프로젝트추...",
+    "삼성-SK,국내반도체-AI에4755조투자한다",
+    "이재용-최태원에“국민영웅”…李,90도허리굽혀먼저인사",
+    "野“반도체관치…정부가입지선정개입”與“국가성장막으려는...",
+    "구미로봇-울산배터리-부산AI기판…데이터센터에1000조투입"
    ],
    "initialized": true,
-   "last_run": "2026-06-30T04:35:22.529402+09:00"
+   "last_run": "2026-06-30T04:40:33.533405+09:00"
   }
  },
  "press_names": {
