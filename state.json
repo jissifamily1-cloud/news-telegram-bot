@@ -741,8 +741,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026062944776",
-    "https://www.yna.co.kr/view/AKR20260629125400001?input=1195m",
     "https://www.segye.com/newsView/20260629512885?OutUrl=naver",
     "https://www.newsis.com/view/NISI20260629_0021342001",
     "https://www.ddaily.co.kr/page/view/2026062915404727466",
@@ -2240,11 +2238,11 @@
     "http://www.econotelling.com/news/articleView.html?idxno=20800",
     "http://coinreaders.com/245137",
     "https://www.newsis.com/view/NISX20260629_0003688569",
-    "https://www.chosun.com/opinion/editorial/2026/06/30/4A5GJZGSIBB2TJQ4NVYJNFEVNA/"
+    "https://www.chosun.com/opinion/editorial/2026/06/30/4A5GJZGSIBB2TJQ4NVYJNFEVNA/",
+    "https://www.joongang.co.kr/article/25440959",
+    "https://www.joongang.co.kr/article/25440957"
    ],
    "seen_titles": [
-    "\"ETF에밀리고코스피에치이고\"…코스닥30년성장의역설[NW리포트]",
-    "최태원\"AI데이터센터10년간1000조원투자\"...35년까지15GW규모",
     "최태원\"서남권400조투자,반도체신규클러스터조성\"",
     "삼성·SK\"원스톱지원·정주여건개선절실\"…李\"대통령이책임질것\"",
     "'반도체클러스터'호남권건설株수혜기대감↑…대거상한가(종합)",
@@ -3742,10 +3740,12 @@
     "코스피,외국인의외면속약세",
     "삼전·닉스,800조원대규모투입...마이크론(MU),한국發AI메모리공...",
     "日서도'삼전닉스급'보너스논쟁…\"성과급안주면인재떠난다\"",
-    "[사설]정치주도’1450조프로젝트‘,물·전력·인재여전히불투명"
+    "[사설]정치주도’1450조프로젝트‘,물·전력·인재여전히불투명",
+    "[사설]4700조메가프로젝트…정부가먼저해결해야할과제들",
+    "강훈식“서남권반도체팹,이재명정부내완공목표”"
    ],
    "initialized": true,
-   "last_run": "2026-06-30T00:25:21.740954+09:00"
+   "last_run": "2026-06-30T00:30:37.653940+09:00"
   }
  },
  "press_names": {
