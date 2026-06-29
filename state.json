@@ -993,7 +993,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.dt.co.kr/article/12070065",
     "https://www.hankyung.com/article/2026062943266",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8597264",
     "https://www.newspim.com/news/view/20260629001163",
@@ -2492,10 +2491,10 @@
     "http://www.yonhapnewstv.co.kr/news/MYH2026062923002187B",
     "https://www.dailian.co.kr/news/view/1661266/?sc=Naver",
     "https://www.dailian.co.kr/news/view/1661279/?sc=Naver",
-    "https://www.segye.com/newsView/20260629514285?OutUrl=naver"
+    "https://www.segye.com/newsView/20260629514285?OutUrl=naver",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260629230955CrJ"
    ],
    "seen_titles": [
-    "코스피8394선마감…개미들이4조들고받아낸'이곳'은?",
     "미래에셋자산운용\"SK하이닉스,미국ADR상장으로7조원유입기대\"",
     "최태원\"10년간연평균100조투자…AI데이터센터·반도체에2천100조투...",
     "코스피반도체약세에하락...코스닥은8%급등",
@@ -3994,10 +3993,11 @@
     "충청권패키징거점으로…\"든든하게뒷받침\"",
     "[메가프로젝트]'호남반도체800조투자'후폭풍…野\"특혜·외압\"與\"...",
     "삼성·SK·마이크론,美서소송휘말려…\"AI호황에가격담합\"",
-    "[사설]호남반도체클러스터…인프라난제타개가관건"
+    "[사설]호남반도체클러스터…인프라난제타개가관건",
+    "'쿠팡개인정보유출'14만6천여명이분쟁조정…역대최대규모"
    ],
    "initialized": true,
-   "last_run": "2026-06-29T23:10:32.324535+09:00"
+   "last_run": "2026-06-29T23:15:24.937323+09:00"
   }
  },
  "press_names": {
