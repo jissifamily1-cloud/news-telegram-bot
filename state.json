@@ -1201,9 +1201,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/local/gwangju-jeonnam/6211663",
-    "https://www.ziksir.com/news/articleView.html?idxno=138357",
-    "http://www.smarttimes.co.kr/news/articleView.html?idxno=46777",
     "https://www.thelec.kr/news/articleView.html?idxno=58754",
     "https://www.dt.co.kr/article/12070064",
     "https://daily.hankooki.com/news/articleView.html?idxno=1380803",
@@ -2700,12 +2697,12 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=06159846645486640",
     "https://www.newspim.com/news/view/20260629001442",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=06182806645486640",
-    "https://zdnet.co.kr/view/?no=20260629222500"
+    "https://zdnet.co.kr/view/?no=20260629222500",
+    "http://sateconomy.co.kr/news/view/1065619583731775",
+    "http://www.00news.co.kr/news/articleView.html?idxno=104787",
+    "https://www.ytn.co.kr/_ln/0101_202606292224186948"
    ],
    "seen_titles": [
-    "이재용\"신규반도체단지,광주로계획...HBM팹은충청권집중\"",
-    "이재명대통령,3대메가프로젝트국민보고회주재…\"미래성장동력강...",
-    "AI시대국부의재배치…'메가프로젝트'의청사진과한계는",
     "李대통령\"3대메가프로젝트신속한원스톱행정,대통령이직접책임\"",
     "최태원,반도체1100조승부수…\"서남권에새클러스터400조투자\"",
     "국힘전남도당,전남·광주반도체산단환영입장\"초당적협력\"",
@@ -4202,10 +4199,13 @@
     "[미리보는이데일리신문]5000조투입…전국에‘AI거점’만든다",
     "뉴욕증시프리뷰,중동긴장완화에나스닥1%상승…AI우려·메모리소...",
     "\"삼전·하닉이담합해가격올랐다\"…집단소송제기한美소비자들",
-    "엔키화이트햇,오펜시브보안기술로코스닥기술성평가통과"
+    "엔키화이트햇,오펜시브보안기술로코스닥기술성평가통과",
+    "이재용의‘속도전’…삼성,광주반도체까지2655조투자",
+    "[정치talk]이재명정부'말많은'반도체승부수",
+    "[포커스]호남반도체800조투자...장동혁거취놓고또설전"
    ],
    "initialized": true,
-   "last_run": "2026-06-29T22:30:39.088759+09:00"
+   "last_run": "2026-06-29T22:35:20.425952+09:00"
   }
  },
  "press_names": {
