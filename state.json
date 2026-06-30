@@ -622,13 +622,21 @@
     [
      "2026-07-01T00:15:28.582352+09:00",
      "들썩 호남 광주로 대학 취직하려면 삼성 벌써"
+    ],
+    [
+     "2026-07-01T00:20:36.260825+09:00",
+     "쉬운 단계 끝났다 가장 발표는 호남반도체의"
+    ],
+    [
+     "2026-07-01T00:20:36.260825+09:00",
+     "국제LPG가격 톤당 급락 해협 호르무즈 200달러 재개방에"
+    ],
+    [
+     "2026-07-01T00:20:36.260825+09:00",
+     "도시가스 우상향 가파른 7월에도 도매요금 LPG가격"
     ]
    ],
    "seen_urls": [
-    "https://www.ibabynews.com/news/articleView.html?idxno=152436",
-    "https://biz.chosun.com/policy/politics/president_office/2026/06/30/POM66GF5ARFXPD3KNUOA7KJXUA/",
-    "https://www.kbsm.net/news/view.php?idx=525009",
-    "http://www.inews24.com/view/1981013",
     "https://www.huffingtonpost.kr/article/258333",
     "https://www.ajunews.com/view/20260630141434826",
     "https://www.khan.co.kr/article/202606301417001",
@@ -2124,13 +2132,13 @@
     "http://www.gjdream.com/news/articleView.html?idxno=670611",
     "http://www.kwangju.co.kr/article.php?aid=1782832200800731087",
     "https://www.newsis.com/view/NISX20260630_0003689838",
-    "https://www.joongang.co.kr/article/25441381"
+    "https://www.joongang.co.kr/article/25441381",
+    "https://www.joongang.co.kr/article/25441388",
+    "https://www.joongang.co.kr/article/25441390",
+    "http://www.e-platform.net/news/articleView.html?idxno=103456",
+    "http://www.e2news.com/news/articleView.html?idxno=331836"
    ],
    "seen_titles": [
-    "SSG,'통산26홈런·40세이브'하재훈방출…\"선수단정비\"",
-    "[이슈체크]반도체클러스터'호남반대론',핵심쟁점은",
-    "이재명대통령,광주·충청·영남순회...권역별첨단산업국민보고회...",
-    "中\"韓AI에국운걸었다\"…4755조메가투자에'AI패권승부수'평가",
     "성장과균형동시겨냥3대메가프로젝트,초격차대한민국도약계기...",
     "SK인텔릭스,웰니스로봇'나무엑스'에AI건강상담서비스탑재…개인...",
     "SK하이닉스,용인반도체클러스터페이즈2폐수처리시스템구축",
@@ -3626,10 +3634,14 @@
     "전남광주'통합'특명'반도체특별시'를완성하라",
     "당랑거철",
     "삼전·닉스대규모투자,고점신호일까…\"이번사이클은다르다\"",
-    "삼성·SK취직하려면광주로?호남대학벌써들썩"
+    "삼성·SK취직하려면광주로?호남대학벌써들썩",
+    "“민주주의지켜온호남에대한보상”",
+    "[고정애의시시각각]호남반도체의가장쉬운단계,발표는끝났다",
+    "호르무즈해협재개방에국제LPG가격톤당200달러급락",
+    "LPG가격·도시가스도매요금7월에도가파른우상향"
    ],
    "initialized": true,
-   "last_run": "2026-07-01T00:15:28.582352+09:00"
+   "last_run": "2026-07-01T00:20:36.260825+09:00"
   }
  },
  "press_names": {
@@ -4052,6 +4064,7 @@
   "pn.or.kr": "평화뉴스",
   "cfnews.kr": "cfnews.kr",
   "news.knn.co.kr": "부산경남대표방송 KNN",
-  "usmbc.co.kr": "울산MBC"
+  "usmbc.co.kr": "울산MBC",
+  "e2news.com": "이투뉴스"
  }
 }
