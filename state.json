@@ -333,7 +333,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.goodkyung.com/news/articleView.html?idxno=288707",
     "https://www.smartbizn.com/news/articleView.html?idxno=147362",
     "https://sateconomy.co.kr/news/view/1065591151605003",
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027490",
@@ -1832,10 +1831,10 @@
     "https://www.seoul.co.kr/news/editOpinion/editorial/2026/07/01/20260701027006?wlog_tag3=naver",
     "https://www.busan.com/view/busan/view.php?code=2026063017565988669",
     "https://www.mt.co.kr/finance/2026/07/01/2026062916261773644",
-    "https://www.mediapen.com/news/view/1107479"
+    "https://www.mediapen.com/news/view/1107479",
+    "https://www.ytn.co.kr/_ln/0115_202607010524554101"
    ],
    "seen_titles": [
-    "공무원노조\"내년임금7.1%인상해야\"..9급초임'월300만원'현실화...",
     "청와대\"이재명대통령,광주·아산·진주서별도국민보고회개최\"",
     "李대통령,광주·아산·진주서릴레이국민보고회…첨단산업청사진제...",
     "SK네트웍스주가,6월30일장중10,170원6.49%상승",
@@ -3334,10 +3333,11 @@
     "[사설]반도체벨트‘셔세권’규제…공급없는뒷북,집값잡겠나",
     "[사설]\"호남투자많지만누적하면조족지혈\"이라는이대통령",
     "[우보세]도박판된증시,이게생산적금융인가",
-    "[美증시특징주]삼전닉스역대급투자에반도체장비주폭풍랠리...KLA..."
+    "[美증시특징주]삼전닉스역대급투자에반도체장비주폭풍랠리...KLA...",
+    "전남·광주첫광역행정통합...인구·예산국내3위특별시출범"
    ],
    "initialized": true,
-   "last_run": "2026-07-01T05:25:20.770638+09:00"
+   "last_run": "2026-07-01T05:30:44.464232+09:00"
   }
  },
  "press_names": {
