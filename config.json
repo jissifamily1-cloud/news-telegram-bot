@@ -109,6 +109,30 @@
    "active": false,
    "authorized": true,
    "registered_at": "2026-06-30T17:55:24.455535+09:00"
+  },
+  "-5200480514": {
+   "title": "[T.ai] SK 그룹 뉴스",
+   "keywords": [],
+   "title_only": [],
+   "block": [],
+   "exclude": [],
+   "body_match": true,
+   "recency_minutes": 120,
+   "active": false,
+   "authorized": true,
+   "registered_at": "2026-06-30T18:05:21.402080+09:00"
+  },
+  "-1003946546117": {
+   "title": "[T.ai] SK 그룹 뉴스",
+   "keywords": [],
+   "title_only": [],
+   "block": [],
+   "exclude": [],
+   "body_match": true,
+   "recency_minutes": 120,
+   "active": false,
+   "authorized": true,
+   "registered_at": "2026-06-30T18:05:21.732299+09:00"
   }
  }
 }
