@@ -13,6 +13,54 @@
    "active": true,
    "authorized": true,
    "registered_at": "2026-06-20T16:25:20.965865+09:00"
+  },
+  "-1003965769876": {
+   "title": "SK 그룹뉴스_임시방",
+   "keywords": [],
+   "title_only": [],
+   "block": [],
+   "exclude": [],
+   "body_match": true,
+   "recency_minutes": 120,
+   "active": false,
+   "authorized": true,
+   "registered_at": "2026-06-30T13:20:34.361683+09:00"
+  },
+  "-1004466810617": {
+   "title": "K 이슈_임시방",
+   "keywords": [],
+   "title_only": [],
+   "block": [],
+   "exclude": [],
+   "body_match": true,
+   "recency_minutes": 120,
+   "active": false,
+   "authorized": true,
+   "registered_at": "2026-06-30T13:20:35.016580+09:00"
+  },
+  "-1004396515533": {
+   "title": "SK 재단_임시방",
+   "keywords": [],
+   "title_only": [],
+   "block": [],
+   "exclude": [],
+   "body_match": true,
+   "recency_minutes": 120,
+   "active": false,
+   "authorized": true,
+   "registered_at": "2026-06-30T13:20:35.681584+09:00"
+  },
+  "-1004483627653": {
+   "title": "SK 패밀리_임시방",
+   "keywords": [],
+   "title_only": [],
+   "block": [],
+   "exclude": [],
+   "body_match": true,
+   "recency_minutes": 120,
+   "active": false,
+   "authorized": true,
+   "registered_at": "2026-06-30T13:20:36.344014+09:00"
   }
  }
 }
