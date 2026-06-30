@@ -1402,12 +1402,17 @@
     [
      "2026-06-30T20:30:43.858595+09:00",
      "강정 약속 투자 확대 동남권"
+    ],
+    [
+     "2026-06-30T20:32:36.293094+09:00",
+     "현장 기반 첨단산업 헬기 대통령 에너지 시설 전남광주 시찰"
+    ],
+    [
+     "2026-06-30T20:32:36.293094+09:00",
+     "최우수상은 주차문제 아이디어 울산시민"
     ]
    ],
    "seen_urls": [
-    "https://www.pressian.com/pages/articles/2026063010362762238",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2443785",
-    "http://www.newsfarm.co.kr/news/articleView.html?idxno=101463",
     "https://www.kukinews.com/article/view/kuk202606300081",
     "https://zdnet.co.kr/view/?no=20260630112325",
     "https://feedapi.cloud.sbs.co.kr/feed-api/article_hub/G20000002441",
@@ -2904,12 +2909,12 @@
     "https://www.khan.co.kr/article/202606302020005",
     "https://www.kukinews.com/article/view/kuk202606300167",
     "https://www.newswhoplus.com/news/articleView.html?idxno=63501",
-    "https://news.knn.co.kr/news/article/189448"
+    "https://news.knn.co.kr/news/article/189448",
+    "https://www.newswhoplus.com/news/articleView.html?idxno=63506",
+    "https://www.namdonews.com/news/articleView.html?idxno=915387",
+    "http://www.ujeil.com/news/articleView.html?idxno=388053"
    ],
    "seen_titles": [
-    "SKT,메가프로젝트15GWAI데이터센터구축로드맵공개",
-    "코스피랠리에100억이상투자자2배…평균자산23%증가",
-    "올상반기구직자최고관심기업은'SK하이닉스'…방산3사톱10진입",
     "[종목분석]LG에너지솔루션,AI데이터센터ESS부상",
     "SM그룹SM하이플러스,주유∙편의점등운전자맞춤34가지'구독패스'...",
     "전기제품상장기업2026년6월브랜드평판...LG에너지솔루션,삼성SDI,에...",
@@ -4406,10 +4411,13 @@
     "[경제직필]AI주식회사한국의위험한미래",
     "환율1550원턱밑…금리·증시·엔화가변수",
     "민주당경기도당,이재명대통령의'3대메가프로젝트'결단환영",
-    "동남권투자확대약속'속빈강정'"
+    "동남권투자확대약속'속빈강정'",
+    "\"서남권900조투자프로젝트\"…균형발전새시험대올랐다",
+    "李대통령,전남광주'첨단산업·에너지기반'시설현장헬기시찰",
+    "'울산시민아이디어'최우수상은'주차문제'"
    ],
    "initialized": true,
-   "last_run": "2026-06-30T20:30:43.858595+09:00"
+   "last_run": "2026-06-30T20:32:36.293094+09:00"
   }
  },
  "press_names": {
