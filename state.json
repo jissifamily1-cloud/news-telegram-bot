@@ -4,34 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-30T14:15:25.522775+09:00",
-     "전국 영남 로봇 호남 배터리 인프라 분산배"
-    ],
-    [
-     "2026-06-30T14:15:25.522775+09:00",
-     "아시아 차익실현은 하반기 강하지만 낙관론"
-    ],
-    [
-     "2026-06-30T14:15:25.522775+09:00",
-     "SKT 높이는 편의 고객 잇따라 결실 사업"
-    ],
-    [
-     "2026-06-30T14:15:25.522775+09:00",
-     "매수세 주의에도 금호건설 금호건설우 투자경고 상한가"
-    ],
-    [
-     "2026-06-30T14:15:25.522775+09:00",
-     "소재 제조업 친환경 늘려라 달라지는 ESG 전략"
-    ],
-    [
-     "2026-06-30T14:15:25.522775+09:00",
-     "schools are hagwon focus majors Semiconductor med Move new over"
-    ],
-    [
-     "2026-06-30T14:15:25.522775+09:00",
-     "MOU 남양주북부경찰서와 육아크루 운영사 다이노즈 체결"
-    ],
-    [
      "2026-06-30T14:20:35.138040+09:00",
      "시행 AI기본법 대신 주파수는 경매 7월 신규 과기정통부 재할당"
     ],
@@ -1486,13 +1458,13 @@
     [
      "2026-06-30T20:05:23.850058+09:00",
      "아르티아 1순위 노량진뉴타운 5대 드파인 경쟁률 청약"
+    ],
+    [
+     "2026-06-30T20:15:27.280870+09:00",
+     "속도 내야 시민들이 국가산단 용인 용인특례시장 이상일 정부가 지킨"
     ]
    ],
    "seen_urls": [
-    "https://www.aitimes.com/news/articleView.html?idxno=212253",
-    "https://www.thepublic.kr/news/articleView.html?idxno=309545",
-    "http://www.worktoday.co.kr/news/articleView.html?idxno=86233",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16118007",
     "https://sports.hankooki.com/news/articleView.html?idxno=6935720",
     "https://www.energy-news.co.kr/news/articleView.html?idxno=226462",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=82208",
@@ -2988,13 +2960,13 @@
     "https://imnews.imbc.com/replay/2026/nwdesk/article/6834013_37004.html",
     "https://www.newsis.com/view/NISX20260630_0003690284",
     "https://www.dkilbo.com/news/articleView.html?idxno=547409",
-    "https://www.ytn.co.kr/_ln/0102_202606302004477615"
+    "https://www.ytn.co.kr/_ln/0102_202606302004477615",
+    "https://www.newscj.com/news/articleView.html?idxno=3413370",
+    "https://www.kyeongin.com/article/1766506",
+    "https://www.gnnews.co.kr/news/articleView.html?idxno=640138",
+    "https://www.cfnews.kr/news/article.html?no=109683"
    ],
    "seen_titles": [
-    "SK하이닉스·삼성전자주도호황,경제전반호황으로이어지기는역부...",
-    "李대통령\"3대메가프로젝트…일극체제극복,모두의성장시대여는핵...",
-    "SKT에이닷,고객센터통화부터일정관리까지AI지원",
-    "한국,반도체초대형투자발표속...중국반응은?",
     "이대통령\"호남투자많아보여도조족지혈…힘합쳐달라\"",
     "[특징주]SK텔레콤,비용부담걷히자실적회복기대…배당·AI성장성...",
     "프로당구PBA팀리그,7월새시즌개막...'PBA직영'브레이커스합류",
@@ -4490,10 +4462,14 @@
     "[알고보니]호남반도체복합단지,재생에너지라서안된다?",
     "노량진뉴타운'드파인아르티아'1순위청약경쟁률16.5대1",
     "'대구패싱'위기속닻올리는민선9기추경호호(號)",
-    "한국반도체미래,서남권에달렸는데...전력·용수어쩌나"
+    "한국반도체미래,서남권에달렸는데...전력·용수어쩌나",
+    "알맹이빠진서남권비전…896조투자에도전남은'에너지기지'로머무...",
+    "이재명대통령“3대메가프로젝트,모두가성장핵심열쇠”",
+    "경남등부울경'반도체소외'강력반발계속…정국후폭풍",
+    "이상일용인특례시장“시민들이지킨용인국가산단,정부가속도내야..."
    ],
    "initialized": true,
-   "last_run": "2026-06-30T20:10:39.523175+09:00"
+   "last_run": "2026-06-30T20:15:27.280870+09:00"
   }
  },
  "press_names": {
@@ -4913,6 +4889,7 @@
   "newsmin.co.kr": "newsmin.co.kr",
   "womennews.co.kr": "여성신문",
   "gamevu.co.kr": "게임뷰",
-  "pn.or.kr": "평화뉴스"
+  "pn.or.kr": "평화뉴스",
+  "cfnews.kr": "cfnews.kr"
  }
 }
