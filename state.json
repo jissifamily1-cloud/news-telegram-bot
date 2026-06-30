@@ -370,11 +370,13 @@
     [
      "2026-07-01T06:20:36.922312+09:00",
      "훌쩍 따져보니 고용은 세수는 경제효과 글쎄 반도체"
+    ],
+    [
+     "2026-07-01T06:25:23.453193+09:00",
+     "토지 뛰었다 삼성 거래액 광주 발표 건당 전에 집슐랭"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000319767?division=NAVER",
-    "https://www.tokenpost.kr/news/market/373891",
     "https://www.newsis.com/view/NISX20260630_0003689623",
     "https://zdnet.co.kr/view/?no=20260630144858",
     "https://www.aitimes.com/news/articleView.html?idxno=212271",
@@ -1872,11 +1874,11 @@
     "https://it.chosun.com/news/articleView.html?idxno=2023092164791",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=758485",
     "https://biz.sbs.co.kr/article_hub/20000319897?division=NAVER",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598962"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598962",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1714568",
+    "https://www.sedaily.com/article/20062102"
    ],
    "seen_titles": [
-    "국세전년대비16%더걷혀...삼전·하이닉스덕법인세불어나나",
-    "[AI대전환中]급팽창‘K-반도체지도’,남행열차오른까닭",
     "빅파마특허만료\"K-바이오웃는다\"...올해기술수출'역대최대'기대",
     "[3대메가프로젝트]전력수요급증...발전·전선·가스업계도'기회'",
     "[산업분석]삼성전자·SK하이닉스,HBM공급난에협상우위",
@@ -3374,10 +3376,12 @@
     "2배수익낸다던ETF…한달후수익률보니[레버리지리스크①]",
     "9대제약사,5대바이오사주가모두'고배'....동국제약홀로12%상승",
     "'코스피수십배레버리지'해외가상자산거래소확산…투자제한전무",
-    "세수는‘훌쩍’고용은‘글쎄’…반도체경제효과따져보니"
+    "세수는‘훌쩍’고용은‘글쎄’…반도체경제효과따져보니",
+    "삼성·SK투자에웃는반도체장비업체…ASML사상최고가",
+    "삼성·SK팹발표전에…광주토지‘건당거래액’42%뛰었다[집슐랭..."
    ],
    "initialized": true,
-   "last_run": "2026-07-01T06:20:36.922312+09:00"
+   "last_run": "2026-07-01T06:25:23.453193+09:00"
   }
  },
  "press_names": {
