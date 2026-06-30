@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-01T00:55:22.323163+09:00",
-     "지원 조례안은 전남광주통합의회 전략투자 반도체 1호"
-    ],
-    [
      "2026-07-01T01:05:23.536308+09:00",
      "차별 보상 견뎌온 역사적 서러웠던 호남"
     ],
@@ -410,10 +406,13 @@
     [
      "2026-07-01T06:55:21.495979+09:00",
      "반도체 시작한 배치 실전"
+    ],
+    [
+     "2026-07-01T07:00:51.191648+09:00",
+     "NDC 12차 이행전략 짜야할 전기본 다시"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10792348",
     "https://biz.chosun.com/policy/policy_sub/2026/06/30/SQ6VJYFMOVGDZMQF6ZRBWSFARI/",
     "https://zdnet.co.kr/view/?no=20260630102426",
     "https://news.mtn.co.kr/news-detail/2026063013590397800",
@@ -1912,10 +1911,10 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1714575",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1714574",
     "https://view.asiae.co.kr/article/2026070106070250006",
-    "http://www.itdaily.kr/news/articleView.html?idxno=240113"
+    "http://www.itdaily.kr/news/articleView.html?idxno=240113",
+    "http://www.e2news.com/news/articleView.html?idxno=331837"
    ],
    "seen_titles": [
-    "Labor,infrastructureremainhurdlesforKorea'sAImegaprojects",
     "SKT,AI영상합성기술세계무대서인정...ECCV2026논문채택",
     "우상호\"데이터센터,강원전체변화에도움되도록노력\"",
     "일본엘피다가남긴반도체의교훈...'관치'보다는'경쟁'",
@@ -3414,10 +3413,11 @@
     "나스닥2분기21%폭등…AI가전쟁도이겼다",
     "﻿AI가한국성장률까지끌어올렸다…S&P\"반도체슈퍼사이클2028년까지...",
     "\"AI데이터센터550兆투자…건설수주사이클온다\"[클릭e종목]",
-    "[AI가속기③]실전배치시작한'K-AI반도체'"
+    "[AI가속기③]실전배치시작한'K-AI반도체'",
+    "[3대메가프로젝트]12차전기본·2035NDC이행전략다시짜야할판"
    ],
    "initialized": true,
-   "last_run": "2026-07-01T06:55:21.495979+09:00"
+   "last_run": "2026-07-01T07:00:51.191648+09:00"
   }
  },
  "press_names": {
