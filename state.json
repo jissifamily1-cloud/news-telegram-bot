@@ -254,10 +254,13 @@
     [
      "2026-07-01T03:50:38.243973+09:00",
      "큰손 바꿨다 삼전닉스에 쏠려 입장 너무 블랙록"
+    ],
+    [
+     "2026-07-01T03:55:21.118035+09:00",
+     "전남광주통합특별시 본회의서 0시 출범 1호 필수법규 대한민국"
     ]
    ],
    "seen_urls": [
-    "http://www.newsprime.co.kr/news/article.html?no=738516",
     "https://www.ikbc.co.kr/article/view/kbc202606300037",
     "http://www.newsworker.co.kr/news/articleView.html?idxno=433895",
     "https://www.kyeonggi.com/article/20260630580270",
@@ -1756,10 +1759,10 @@
     "https://www.news1.kr/local/gwangju-jeonnam/6213538",
     "https://www.g-enews.com/view.php?ud=20260630173307587fbbec65dfb_1",
     "https://www.g-enews.com/view.php?ud=202606301736372396fbbec65dfb_1",
-    "https://biz.sbs.co.kr/article_hub/20000319868?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000319868?division=NAVER",
+    "https://www.khan.co.kr/article/202607010351001"
    ],
    "seen_titles": [
-    "SK증권,IRP·연금저축이전이벤트…최대100만원캐시백",
     "SK2100조메가프로젝트,핵심변수는?'용수인프라'건설",
     "동탄·기흥에구리까지규제...\"거래량급감,풍선효과가능성도\"",
     "[차이나워치]中제조업PMI다시50돌파…AI수출이경기살렸다",
@@ -3258,10 +3261,11 @@
     "'전국1호'민형배통합특별시장\"대통령임기내반도체산단조성\"",
     "800조투자폭탄에도마이크론주가가버텨낸진짜이유",
     "AI브레이크밟은美,흔들리는빅테크멀티플",
-    "\"삼전닉스에너무쏠려\"...'큰손'블랙록,입장바꿨다"
+    "\"삼전닉스에너무쏠려\"...'큰손'블랙록,입장바꿨다",
+    "‘대한민국1호’전남광주통합특별시출범···0시본회의서필수법규..."
    ],
    "initialized": true,
-   "last_run": "2026-07-01T03:50:38.243973+09:00"
+   "last_run": "2026-07-01T03:55:21.118035+09:00"
   }
  },
  "press_names": {
