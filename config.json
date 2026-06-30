@@ -133,6 +133,30 @@
    "active": false,
    "authorized": true,
    "registered_at": "2026-06-30T18:05:21.732299+09:00"
+  },
+  "-5019814657": {
+   "title": "[T.ai] SK 패밀리",
+   "keywords": [],
+   "title_only": [],
+   "block": [],
+   "exclude": [],
+   "body_match": true,
+   "recency_minutes": 120,
+   "active": false,
+   "authorized": true,
+   "registered_at": "2026-06-30T18:10:33.308976+09:00"
+  },
+  "-1004374224765": {
+   "title": "[T.ai] SK 패밀리",
+   "keywords": [],
+   "title_only": [],
+   "block": [],
+   "exclude": [],
+   "body_match": true,
+   "recency_minutes": 120,
+   "active": false,
+   "authorized": true,
+   "registered_at": "2026-06-30T18:10:33.613323+09:00"
   }
  }
 }
