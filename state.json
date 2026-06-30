@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-30T23:55:23.099278+09:00",
-     "제조업 주요 전망 7월 1주"
-    ],
-    [
-     "2026-07-01T00:00:49.131684+09:00",
-     "유승민 메가프로젝트는 수의계 이재명 위한 호남만을"
-    ],
-    [
-     "2026-07-01T00:00:49.131684+09:00",
-     "칩플레이션"
-    ],
-    [
      "2026-07-01T00:05:21.562560+09:00",
      "네티즌 팬심 레이스 개막 어워즈 올랐다 하반기 본격 7월"
     ],
@@ -346,12 +334,17 @@
     [
      "2026-07-01T05:55:21.825763+09:00",
      "외국인이 증권가는 간다 종목 유일하게 300만 쓸어담은"
+    ],
+    [
+     "2026-07-01T06:00:52.102906+09:00",
+     "하루 55만톤 800조 용수 호남반도체 성패는"
+    ],
+    [
+     "2026-07-01T06:00:52.102906+09:00",
+     "조인다 키운 동탄 머니가 반도체 대출부터 집값 정부는"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008634609&plink=ORI&cooper=NAVER",
-    "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160285747846000",
-    "https://www.mk.co.kr/article/12086619",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04920006645486968",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598342",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=595282",
@@ -1848,12 +1841,12 @@
     "https://www.mediapen.com/news/view/1107481",
     "https://www.news1.kr/it-science/security-hacking/6213241",
     "https://www.news1.kr/world/international-economy/6213554",
-    "https://www.sedaily.com/article/20062149"
+    "https://www.sedaily.com/article/20062149",
+    "https://www.seoul.co.kr/news/international/2026/07/01/20260701500004?wlog_tag3=naver",
+    "https://www.newsverse.kr/news/articleView.html?idxno=10843",
+    "https://www.news1.kr/realestate/general/6213417"
    ],
    "seen_titles": [
-    "이대통령2일충남아산찾아반도체투자보고회…30일광주·3일진주",
-    "환경단체\"SK하이닉스청주100조투자,환경비용공론화부터\"",
-    "[아유경제_재건축]SK에코플랜트,2048억원규모수지삼성2차재건축수...",
     "SKT·KT,서비스고도화경쟁…SKT는AI,KT는ESG·고객만족",
     "국민의힘\"반도체투자,강요라면李대통령탄핵\"…국조도거론",
     "李대통령\"AI·반도체,국가성장핵심축으로육성\"",
@@ -3350,10 +3343,13 @@
     "[美증시]반도체로리밸런싱,3대지수동반상승…엔비디아·TSMC·스페...",
     "미토스제한,美기업에만일부해제…韓\"상황예의주시\"",
     "삼성·SK투자에AI장비주'불기둥'…ASML사상최고가",
-    "외국인이유일하게쓸어담은‘이종목’…증권가는“300만원간다”..."
+    "외국인이유일하게쓸어담은‘이종목’…증권가는“300만원간다”...",
+    "“국가적도박…韓,국운걸었다”中도놀란베팅‘3대메가프로젝트...",
+    "[오늘의경제뉴스]800조호남반도체성패는'용수'...하루55만톤'물전...",
+    "반도체머니가키운동탄집값…정부는대출부터조인다"
    ],
    "initialized": true,
-   "last_run": "2026-07-01T05:55:21.825763+09:00"
+   "last_run": "2026-07-01T06:00:52.102906+09:00"
   }
  },
  "press_names": {
