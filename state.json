@@ -642,10 +642,13 @@
     [
      "2026-06-30T23:45:27.388652+09:00",
      "구축된다 데이터센터 세종시에"
+    ],
+    [
+     "2026-06-30T23:55:23.099278+09:00",
+     "제조업 주요 전망 7월 1주"
     ]
    ],
    "seen_urls": [
-    "http://www.weeklytoday.com/news/articleView.html?idxno=782557",
     "https://it.chosun.com/news/articleView.html?idxno=2023092164852",
     "https://www.job-post.co.kr/news/articleView.html?idxno=219617",
     "http://www.dailypop.kr/news/articleView.html?idxno=100043",
@@ -2144,10 +2147,10 @@
     "https://www.news2day.co.kr/article/20260630500303",
     "https://platum.kr/archives/290117",
     "https://www.gasnews.com/news/articleView.html?idxno=125785",
-    "https://www.pressian.com/pages/articles/2026063023413217984"
+    "https://www.pressian.com/pages/articles/2026063023413217984",
+    "https://www.laborplus.co.kr/news/articleView.html?idxno=41057"
    ],
    "seen_titles": [
-    "뉴욕증시,기술주반등해상승‥다우사상최고치",
     "[특징주]뉴보텍,SK하이닉스폐약품용기사업계약사선정에상승세",
     "\"AI가대신상담원기다린다\"...SKT,'에이닷'에이전트기능업데이트",
     "왜호남인가…반도체입지경쟁력키워드는'전력·RE100'",
@@ -3646,10 +3649,11 @@
     "[마켓인사이드]반도체천문학적성과배분놓고키옥시아등글로벌반...",
     "돈은반도체에쏠렸지만,한국이택한승부처는피지컬AI다",
     "7월국내LPG가격50원/kg인상",
-    "[단독]세종시에AI데이터센터구축된다"
+    "[단독]세종시에AI데이터센터구축된다",
+    "7월1주주요제조업전망"
    ],
    "initialized": true,
-   "last_run": "2026-06-30T23:50:36.784109+09:00"
+   "last_run": "2026-06-30T23:55:23.099278+09:00"
   }
  },
  "press_names": {
