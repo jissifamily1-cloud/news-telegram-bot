@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-30T07:30:39.038537+09:00",
-     "변동성 한달 주의 레버리지 멈춰 세운"
-    ],
-    [
      "2026-06-30T07:35:21.322222+09:00",
      "강화 금융 청년 고객 은행권 플랫폼 빅테크 내부통제"
     ],
@@ -1381,9 +1377,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8597592",
-    "https://www.ajunews.com/view/20260629211303748",
-    "https://mpmbc.co.kr/NewsArticle/1525191",
     "http://www.cctimes.kr/news/articleView.html?idxno=914009",
     "https://biz.chosun.com/it-science/ict/2026/06/29/SOFG7AFJYBF5HPPAEGQSXI5SRA/",
     "https://busanmbc.co.kr/01_new/new01_view.asp?idx=286634",
@@ -2880,12 +2873,12 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008634336&plink=ORI&cooper=NAVER",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=723532",
     "https://www.the-stock.kr/news/articleView.html?idxno=32850",
-    "http://www.breaknews.com/1217789"
+    "http://www.breaknews.com/1217789",
+    "https://news.mtn.co.kr/news-detail/2026063007345517977",
+    "https://www.womentimes.co.kr/news/articleView.html?idxno=104006",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008634354&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "경남‘피지컬AI’기대·우려교차",
-    "“서남권반도체에8백조…충청권에도81조”",
-    "“균형발전과AI·반도체거점수요일치…기업손실강요아냐”",
     "\"가격담합\"…미국소비자,삼성·SK하이닉스에집단소송",
     "서남권에'메모리팹4기'구축..800조투자확정",
     "충청권`181조+α'집중투자…반도체거점키운다",
@@ -4382,10 +4375,13 @@
     "이대통령,광주·아산·진주서보고회…'1,588조투자'구체계획발표",
     "李대통령\"호남투자많아보이지만조족지혈,지역차별아니다\"",
     "뉴보텍,SK하이닉스반도체폐자원순환계약",
-    "“삼성전자가4위?”..올상반기취준생사로잡은화제의기업TOP10"
+    "“삼성전자가4위?”..올상반기취준생사로잡은화제의기업TOP10",
+    "SKT,2035년까지15GWAI데이터센터구축…1000조쏟는다",
+    "SKT,에이닷에이전트기능'에이전트콜'로고객편의대폭제고",
+    "동탄·구리·기흥삼중규제…\"이미너무올랐는데\"뒷북지적도"
    ],
    "initialized": true,
-   "last_run": "2026-06-30T13:25:20.117793+09:00"
+   "last_run": "2026-06-30T13:30:40.582372+09:00"
   }
  },
  "press_names": {
