@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-30T22:35:22.636551+09:00",
-     "통신3사 전년 3675억 작년 해킹 정보보호 여파 투자액"
-    ],
-    [
-     "2026-06-30T22:35:22.636551+09:00",
-     "전망 위험 신흥국 경고 블랙록 집중 하향 대만 투자 한국"
-    ],
-    [
      "2026-06-30T22:45:26.822481+09:00",
      "소재 인테리어 유연 확장 협업으로 적용 SK케미칼 데코시트로"
     ],
@@ -286,11 +278,13 @@
     [
      "2026-07-01T04:35:20.498153+09:00",
      "비결 삼성전자 학교의 올해만 반도체 취업 기업 서는 23명"
+    ],
+    [
+     "2026-07-01T04:40:40.575993+09:00",
+     "용인 5기분 2년뒤엔 부족 평택 삼성 증설해도 공급"
     ]
    ],
    "seen_urls": [
-    "https://mhnse.com/news/articleView.html?idxno=1447440",
-    "https://www.joongangenews.com/news/articleView.html?idxno=529182",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7172203",
     "https://www.yna.co.kr/view/AKR20260630102900009?input=1195m",
     "https://daily.hankooki.com/news/articleView.html?idxno=1381211",
@@ -1788,11 +1782,11 @@
     "https://www.hankookilbo.com/news/article/A2026063016340002271?did=NA",
     "https://www.donga.com/news/Politics/article/all/20260701/134213117/2",
     "https://www.donga.com/news/Politics/article/all/20260701/134213113/2",
-    "https://www.hankookilbo.com/news/article/A2026063015150005371?did=NA"
+    "https://www.hankookilbo.com/news/article/A2026063015150005371?did=NA",
+    "https://www.donga.com/news/Society/article/all/20260701/134213098/2",
+    "https://www.donga.com/news/Economy/article/all/20260701/134213094/2"
    ],
    "seen_titles": [
-    "[마켓+]SK하이닉스,'나스닥효과'타고420만원바라보나",
-    "[카드]SK증권,IRP·연금저축이전이벤트…최대100만원캐시백",
     "천하람\"호남800조투자,정청래김어준유시민맞불작전아니냐...순천...",
     "삼전닉스호남반도체클러스터놓고쏟아진목소리…\"기업압박\"vs\"지...",
     "李대통령,권역별국민보고회돌입…첨단산업투자실행본격화",
@@ -3290,10 +3284,12 @@
     "\"여태논뿐인디기대안되겄소\"...호남반도체공장부지는언제",
     "野PK의원들“반도체입지평가표공개하라”",
     "李“광주팹,1개월이라도지연안되게끝까지챙기겠다”",
-    "\"올해만23명삼성전자취업\"…반도체기업줄서는학교의비결"
+    "\"올해만23명삼성전자취업\"…반도체기업줄서는학교의비결",
+    "지방정부민선9기시작…전남광주특별시출범",
+    "“삼성평택-SK용인팹증설해도2년뒤엔팹5기분공급부족”"
    ],
    "initialized": true,
-   "last_run": "2026-07-01T04:35:20.498153+09:00"
+   "last_run": "2026-07-01T04:40:40.575993+09:00"
   }
  },
  "press_names": {
