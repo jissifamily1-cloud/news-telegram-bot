@@ -61,6 +61,18 @@
    "active": false,
    "authorized": true,
    "registered_at": "2026-06-30T13:20:36.344014+09:00"
+  },
+  "-5266207238": {
+   "title": "[T.ai] SK 재단관련",
+   "keywords": [],
+   "title_only": [],
+   "block": [],
+   "exclude": [],
+   "body_match": true,
+   "recency_minutes": 120,
+   "active": false,
+   "authorized": true,
+   "registered_at": "2026-06-30T17:30:40.295133+09:00"
   }
  }
 }
