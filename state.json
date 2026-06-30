@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-30T06:40:33.181090+09:00",
-     "가격 삼성 마이크론에 소비자 집단소송 주장 담합 하이닉스"
-    ],
-    [
-     "2026-06-30T06:40:33.181090+09:00",
-     "쿠팡 분쟁조정 6만명 유출 개인정보 역대"
-    ],
-    [
      "2026-06-30T06:45:24.354499+09:00",
      "삼전 레버리지 부담 주가 하닉 호남 투자에 커지나"
     ],
@@ -1434,14 +1426,21 @@
     [
      "2026-06-30T12:20:32.740369+09:00",
      "건너간 유출 인재 안주면 삼전하닉처럼 언론 바다 일본 성과급"
+    ],
+    [
+     "2026-06-30T12:45:23.593947+09:00",
+     "준비하자 상생을 기회 미래의 훼방 보다 놓기"
+    ],
+    [
+     "2026-06-30T12:45:23.593947+09:00",
+     "걸리면 망한다 꽂는 직할 담당관 청와대 6년 용인처럼 이유"
+    ],
+    [
+     "2026-06-30T12:45:23.593947+09:00",
+     "강자들의 기회로 바람을 거센 역습 숨은"
     ]
    ],
    "seen_urls": [
-    "https://www.joongboo.com/news/articleView.html?idxno=363730074",
-    "https://news.knn.co.kr/news/article/189396",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1714369",
-    "https://www.ytn.co.kr/_ln/0101_202606292026366610",
-    "https://www.ksmnews.co.kr/news/view.php?idx=611319",
     "https://www.ksmnews.co.kr/news/view.php?idx=611318",
     "http://www.yonhapnewstv.co.kr/news/MYH20260629204141Ffj",
     "https://www.gukjenews.com/news/articleView.html?idxno=3621146",
@@ -2936,14 +2935,14 @@
     "http://www.metroseoul.co.kr/article/20260630500200",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260629001522534",
     "https://www.ngonews.kr/news/articleView.html?idxno=231928",
-    "http://www.fnnews.com/news/202606301235038927"
+    "http://www.fnnews.com/news/202606301235038927",
+    "https://www.g-enews.com/view.php?ud=2026063012141568458fbfc802b3_1",
+    "https://www.newstnt.com/news/articleView.html?idxno=708284",
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=430410",
+    "http://www.segyebiz.com/newsView/20260630510174?OutUrl=naver",
+    "https://www.bloter.net/news/articleView.html?idxno=666920"
    ],
    "seen_titles": [
-    "사활걸린'ABC+E'…이재용\"송도바이오집중투자\"",
-    "강훈식\"서남권반도체클러스터속도낸다…2년내기반공사\"",
-    "반도체속도전나선정부…수도권생산능력두배로높인다",
-    "정부'3대메가프로젝트'발표,사실상소외된PK",
-    "[EBN오늘(29일)이슈종합]삼성·SK,호남으로…'초격차지도'다시그...",
     "\"서남권,제2의반도체기지\"...삼전닉스800조투자",
     "'국토균형발전'명분에TK반도체생태계붕괴우려",
     "'800조반도체팹'호남으로…TK반도체생태계'비상'",
@@ -4438,10 +4437,15 @@
     "이대통령\"역사적누적투자량비교시호남은조족지혈…정치권대승...",
     "다이나믹솔루션,HBM수요확대에‘실리카슬러리’생산기지구축",
     "대한민국대도약3대메가프로젝트,제2의원전르네상스를꿈꾸는가",
-    "[속보]李대통령,이번주광주·아산·진주서국민보고회..삼성·SK등참..."
+    "[속보]李대통령,이번주광주·아산·진주서국민보고회..삼성·SK등참...",
+    "[인터뷰]이상일용인특례시장\"용인르네상스2.0,대한민국대표미래...",
+    "SKT,에이닷AI에이전트기능강화…KT는국가서비스대상기념고객이...",
+    "[김성의관풍]'훼방놓기'보다상생을통해'미래의기회'를준비하자",
+    "“용인처럼6년걸리면망한다”…청와대‘직할담당관’꽂는이유",
+    "[해상풍력르네상스]②거센바람을기회로,韓숨은강자들의역습"
    ],
    "initialized": true,
-   "last_run": "2026-06-30T12:40:32.461615+09:00"
+   "last_run": "2026-06-30T12:45:23.593947+09:00"
   }
  },
  "press_names": {
@@ -4847,6 +4851,7 @@
   "besteleven.com": "Best Eleven",
   "nbntv.co.kr": "내외경제TV",
   "hg-times.com": "한강타임즈",
-  "thegolftimes.co.kr": "골프타임즈"
+  "thegolftimes.co.kr": "골프타임즈",
+  "dailysportshankook.co.kr": "데일리스포츠한국"
  }
 }
