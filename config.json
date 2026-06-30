@@ -73,6 +73,18 @@
    "active": false,
    "authorized": true,
    "registered_at": "2026-06-30T17:30:40.295133+09:00"
+  },
+  "-5195597641": {
+   "title": "[T.ai] SK 이슈",
+   "keywords": [],
+   "title_only": [],
+   "block": [],
+   "exclude": [],
+   "body_match": true,
+   "recency_minutes": 120,
+   "active": false,
+   "authorized": true,
+   "registered_at": "2026-06-30T17:35:22.707323+09:00"
   }
  }
 }
