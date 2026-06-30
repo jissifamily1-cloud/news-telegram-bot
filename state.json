@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-30T06:45:24.354499+09:00",
-     "삼전 레버리지 부담 주가 하닉 호남 투자에 커지나"
-    ],
-    [
      "2026-06-30T06:50:32.062650+09:00",
      "반도체 비수도권에 쏟아붓는다 광주 제2 벨트 1천500조 급부상"
     ],
@@ -1438,16 +1434,21 @@
     [
      "2026-06-30T12:45:23.593947+09:00",
      "강자들의 기회로 바람을 거센 역습 숨은"
+    ],
+    [
+     "2026-06-30T12:50:31.302529+09:00",
+     "평균 코스피 자산 2배 증가 이상 100억 랠리에 투자자"
+    ],
+    [
+     "2026-06-30T12:50:31.302529+09:00",
+     "상반기 기업은 구직자 관심 진입 톱10 방산 SK하이닉스 3사 최고"
+    ],
+    [
+     "2026-06-30T12:50:31.302529+09:00",
+     "부상 데이터센터 ESS LG에너지솔루션"
     ]
    ],
    "seen_urls": [
-    "https://www.ksmnews.co.kr/news/view.php?idx=611318",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260629204141Ffj",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3621146",
-    "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160303821169787",
-    "https://kjmbc.co.kr/NewsArticle/1525214",
-    "https://www.news1.kr/politics/pm-bai-comm/6212034",
-    "https://kjmbc.co.kr/NewsArticle/1525216",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606290369&t=NN",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=847123",
     "https://www.pressian.com/pages/articles/2026062919174465973",
@@ -2940,16 +2941,16 @@
     "https://www.newstnt.com/news/articleView.html?idxno=708284",
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=430410",
     "http://www.segyebiz.com/newsView/20260630510174?OutUrl=naver",
-    "https://www.bloter.net/news/articleView.html?idxno=666920"
+    "https://www.bloter.net/news/articleView.html?idxno=666920",
+    "https://www.junggi.co.kr/news/articleView.html?idxno=36950",
+    "https://www.chosun.com/politics/politics_general/2026/06/30/4XTZAYWKOJGP3KDEI3DCZQ3T2Q/",
+    "https://www.thepublic.kr/news/articleView.html?idxno=309535",
+    "https://www.aitimes.com/news/articleView.html?idxno=212253",
+    "https://www.thepublic.kr/news/articleView.html?idxno=309545",
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=86233",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16118007"
    ],
    "seen_titles": [
-    "\"서남권,제2의반도체기지\"...삼전닉스800조투자",
-    "'국토균형발전'명분에TK반도체생태계붕괴우려",
-    "'800조반도체팹'호남으로…TK반도체생태계'비상'",
-    "'제2반도체기지'…삼성·SK,서남권800조투자",
-    "용인국가산단지연에직격탄…'신속추진'촉구한이상일용인시장",
-    "이상일시장\"용인반도체국가산단,실행과속도로정부의지보여줘야...",
-    "\"서남권에반도체800조투자\"...이대통령,\"직접챙기겠다\"",
     "쿠팡개인정보유출분쟁조정약14만6000명신청…역대최대규모",
     "[한걸음더]광주·전남,데이터로증명된'준비된반도체입지'",
     "삼전닉스파격성과급에술렁이는日…\"인재빠져나갈라\"",
@@ -4442,10 +4443,17 @@
     "SKT,에이닷AI에이전트기능강화…KT는국가서비스대상기념고객이...",
     "[김성의관풍]'훼방놓기'보다상생을통해'미래의기회'를준비하자",
     "“용인처럼6년걸리면망한다”…청와대‘직할담당관’꽂는이유",
-    "[해상풍력르네상스]②거센바람을기회로,韓숨은강자들의역습"
+    "[해상풍력르네상스]②거센바람을기회로,韓숨은강자들의역습",
+    "SK하이닉스,7월10일나스닥상장...순현금100조시대연다",
+    "李,광주·아산·진주에서‘반도체투자국민보고회’",
+    "단일종목레버리지ETF한달…단타거래'과열'",
+    "SKT,메가프로젝트15GWAI데이터센터구축로드맵공개",
+    "코스피랠리에100억이상투자자2배…평균자산23%증가",
+    "올상반기구직자최고관심기업은'SK하이닉스'…방산3사톱10진입",
+    "[종목분석]LG에너지솔루션,AI데이터센터ESS부상"
    ],
    "initialized": true,
-   "last_run": "2026-06-30T12:45:23.593947+09:00"
+   "last_run": "2026-06-30T12:50:31.302529+09:00"
   }
  },
  "press_names": {
