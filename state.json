@@ -1338,15 +1338,21 @@
     [
      "2026-06-30T20:50:35.071151+09:00",
      "ADR 미국증시예탁증서"
+    ],
+    [
+     "2026-06-30T20:55:19.436450+09:00",
+     "정치 명백한 투자 찬밥 부울경 개입"
+    ],
+    [
+     "2026-06-30T20:55:19.436450+09:00",
+     "경북 로봇산업으로 구미는 구색 패싱 대구 갖추기"
+    ],
+    [
+     "2026-06-30T20:55:19.436450+09:00",
+     "충청권 재탕 계획 이미 생색내기 발표된 투자 논란"
     ]
    ],
    "seen_urls": [
-    "http://www.thebigdata.co.kr/view.php?ud=2026063013014987260a47484cf8_23",
-    "https://www.naeil.com/news/read/593640",
-    "https://www.veritas-a.com/news/articleView.html?idxno=617203",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247224&CMPT_CD=P0010",
-    "http://www.joseilbo.com/news/news_read.php?uid=570999&class=32",
-    "https://www.etnews.com/20260630000207",
     "https://www.newsis.com/view/NISX20260630_0003689521",
     "https://kjmbc.co.kr/NewsArticle/1525308",
     "https://www.naeil.com/news/read/593650",
@@ -2840,15 +2846,15 @@
     "https://www.koreajoongangdaily.com/business/dandognbspsamseongnbsp-mei-memoli-gagyeog-damhab-jibdansosonge-geungeo-eobsneun-jujang/12748663",
     "http://www.kjdaily.com/article.php?aid=1782819742681398002",
     "https://www.businesspost.co.kr/BP?command=article_view&num=441235",
-    "https://www.danbinews.com/news/articleView.html?idxno=33303"
+    "https://www.danbinews.com/news/articleView.html?idxno=33303",
+    "http://www.kjdaily.com/article.php?aid=1782820208681405002",
+    "https://dgmbc.com/NewsArticle/848371",
+    "https://www.tjb.co.kr/news05/bodo/view/id/100201",
+    "https://www.usmbc.co.kr/NewsArticle/848509",
+    "https://dgmbc.com/NewsArticle/848421",
+    "https://www.tjb.co.kr/news05/bodo/view/id/100199"
    ],
    "seen_titles": [
-    "S&P\"AI반도체슈퍼사이클2028년까지간다\"",
-    "메모리가격하반기에만2배뛴다",
-    "애플,중국산D램구매추진…메모리3강흔드나",
-    "국힘\"삼성·SK800조반도체투자,메가프로젝트아닌메가권력농단\"",
-    "반도체투자결정에건설사화색",
-    "'팹1기200조시대'…삼성·SK,천문학적투자비확보총력",
     "이대통령,호남반도체투자…\"누적된투자량비교하면조족지혈에불...",
     "“호남반도체단지,인력전력용수해법찾자”",
     "충청은들러리였나…800조호남행에커지는반도체위상논란",
@@ -4342,10 +4348,16 @@
     "[단독]삼성,美메모리가격담합집단소송에\"근거없는주장\"",
     "李대통령“서남권반도체,직접확실히책임진다”",
     "[7월1일자]비즈니스포스트아침의주요기사",
-    "미국증시예탁증서(ADR)"
+    "미국증시예탁증서(ADR)",
+    "정부,반도체생산거점전방위지원…기업투자뒷받침",
+    "반도체프로젝트'TK패싱'···이때까지뭐하다'뒷북'",
+    "이대통령,7월2일아산에서'충청권반도체투자보고회'",
+    "AI투자찬밥'부울경'‥\"명백한정치개입\"",
+    "대구'패싱'···경북구미는로봇산업으로'구색갖추기'?",
+    "(R)\"이미발표된계획재탕?\"..충청권투자'생색내기'논란"
    ],
    "initialized": true,
-   "last_run": "2026-06-30T20:50:35.071151+09:00"
+   "last_run": "2026-06-30T20:55:19.436450+09:00"
   }
  },
  "press_names": {
@@ -4767,6 +4779,7 @@
   "gamevu.co.kr": "게임뷰",
   "pn.or.kr": "평화뉴스",
   "cfnews.kr": "cfnews.kr",
-  "news.knn.co.kr": "부산경남대표방송 KNN"
+  "news.knn.co.kr": "부산경남대표방송 KNN",
+  "usmbc.co.kr": "울산MBC"
  }
 }
