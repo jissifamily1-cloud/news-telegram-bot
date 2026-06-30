@@ -342,10 +342,13 @@
     [
      "2026-07-01T05:45:27.231373+09:00",
      "예의주시 미토스 해제 상황 일부 기업에만 제한"
+    ],
+    [
+     "2026-07-01T05:55:21.825763+09:00",
+     "외국인이 증권가는 간다 종목 유일하게 300만 쓸어담은"
     ]
    ],
    "seen_urls": [
-    "https://www.spotvnews.co.kr/news/articleView.html?idxno=825748",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008634609&plink=ORI&cooper=NAVER",
     "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160285747846000",
     "https://www.mk.co.kr/article/12086619",
@@ -1844,10 +1847,10 @@
     "https://www.newsis.com/view/NISX20260630_0003690214",
     "https://www.mediapen.com/news/view/1107481",
     "https://www.news1.kr/it-science/security-hacking/6213241",
-    "https://www.news1.kr/world/international-economy/6213554"
+    "https://www.news1.kr/world/international-economy/6213554",
+    "https://www.sedaily.com/article/20062149"
    ],
    "seen_titles": [
-    "SK실트론몸값다시뛰나…SK·두산협상은'가치재평가'국면",
     "이대통령2일충남아산찾아반도체투자보고회…30일광주·3일진주",
     "환경단체\"SK하이닉스청주100조투자,환경비용공론화부터\"",
     "[아유경제_재건축]SK에코플랜트,2048억원규모수지삼성2차재건축수...",
@@ -3346,10 +3349,11 @@
     "현대차는아이스크림,SK하닉은과자로…편의점이색협업어디까지",
     "[美증시]반도체로리밸런싱,3대지수동반상승…엔비디아·TSMC·스페...",
     "미토스제한,美기업에만일부해제…韓\"상황예의주시\"",
-    "삼성·SK투자에AI장비주'불기둥'…ASML사상최고가"
+    "삼성·SK투자에AI장비주'불기둥'…ASML사상최고가",
+    "외국인이유일하게쓸어담은‘이종목’…증권가는“300만원간다”..."
    ],
    "initialized": true,
-   "last_run": "2026-07-01T05:50:39.173301+09:00"
+   "last_run": "2026-07-01T05:55:21.825763+09:00"
   }
  },
  "press_names": {
