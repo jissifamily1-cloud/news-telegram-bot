@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-01T01:05:23.536308+09:00",
-     "차별 보상 견뎌온 역사적 서러웠던 호남"
-    ],
-    [
      "2026-07-01T02:10:36.076527+09:00",
      "D램 핑계로 HBM 집단소송 올려 메모리3사 당해"
     ],
@@ -490,13 +486,17 @@
     [
      "2026-07-01T07:05:22.704703+09:00",
      "확대 옵션 키우는 주춤하자 선물 대출 코인 기업들 가상자산"
+    ],
+    [
+     "2026-07-01T07:10:34.061870+09:00",
+     "미국 증권거래위원회에 공개 신청 SK하이닉스 나스닥 SKHY"
+    ],
+    [
+     "2026-07-01T07:10:34.061870+09:00",
+     "금감원 실패한 소비자보호 예방적"
     ]
    ],
    "seen_urls": [
-    "https://www.xportsnews.com/article/2166413",
-    "https://ysmbc.co.kr/NewsArticle/1525319",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20260630010010656",
-    "https://www.news1.kr/local/kangwon/6213019",
     "https://www.yna.co.kr/view/PYH20260630142500013?input=1196m",
     "https://www.viva100.com/article/20260630500659",
     "https://www.sisajournal.com/news/articleView.html?idxno=378148",
@@ -1992,13 +1992,13 @@
     "https://www.mk.co.kr/article/12086891",
     "https://en.yna.co.kr/view/AEN20260701000500315?input=2106m",
     "https://www.sedaily.com/article/20061930",
-    "https://www.news1.kr/finance/blockchain-fintech/6212853"
+    "https://www.news1.kr/finance/blockchain-fintech/6212853",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1714577",
+    "https://www.yna.co.kr/view/AKR20260630149500008?input=1195m",
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=545343",
+    "https://www.dailian.co.kr/news/view/1661736/?sc=Naver"
    ],
    "seen_titles": [
-    "기후부\"댐증고·용도변경으로호남팹용수확보\"",
-    "3대메가프로젝트,민주당\"대체불가대한민국실현\"vs국민의힘\"강요...",
-    "SK증권,IRP·연금저축이전고객에캐시백제공",
-    "李대통령,오늘광주서'서남권첨단산업발전비전'국민보고회",
     "[Invest]'용인·평택총력전'언급한삼전닉스진짜메시지\"메모리공급...",
     "\"AI메모리공급부족\"…삼성·SK,팹부지는아직'미정'",
     "동탄·구리·기흥'삼중규제'…\"이미너무올라\"뒷북지적도(종합)",
@@ -3494,10 +3494,14 @@
     "매경이전하는세상의지식(매-세-지,7월1일)",
     "(EDITORIALfromKoreaHeraldonJuly1)",
     "SK바사,백신·CDMO쌍끌이…두자릿수성장탄력[바이오리더스클럽]",
-    "코인주춤하자'금'키우는가상자산기업들…선물·옵션·대출확대"
+    "코인주춤하자'금'키우는가상자산기업들…선물·옵션·대출확대",
+    "1%성장'예상했던한국…이젠\"4%도가능\"AI가경제전망까지바꿨다",
+    "올해상반기ETF수익률키워드는'반도체+레버리지'",
+    "SK하이닉스,미국증권거래위원회에'SKHY'로나스닥공개신청",
+    "실패한금감원'예방적소비자보호'[기자수첩-증권]"
    ],
    "initialized": true,
-   "last_run": "2026-07-01T07:05:22.704703+09:00"
+   "last_run": "2026-07-01T07:10:34.061870+09:00"
   }
  },
  "press_names": {
