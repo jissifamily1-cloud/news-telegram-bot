@@ -1461,11 +1461,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.bizwnews.com/news/articleView.html?idxno=139606",
-    "https://www.mbceg.co.kr/post/137775",
-    "https://view.asiae.co.kr/article/2026062920334117202",
-    "https://www.kyeongin.com/article/1766431",
-    "https://www.gnnews.co.kr/news/articleView.html?idxno=640051",
     "https://www.gnnews.co.kr/news/articleView.html?idxno=640005",
     "https://www.hankookilbo.com/news/article/A2026062918230004150?did=NA",
     "https://www.incheonilbo.com/news/articleView.html?idxno=1326142",
@@ -2960,14 +2955,14 @@
     "https://www.pressian.com/pages/articles/2026063011374666534",
     "https://daily.hankooki.com/news/articleView.html?idxno=1381129",
     "https://kidd.co.kr/news/246540",
-    "http://www.joseilbo.com/news/news_read.php?uid=570994&class=32"
+    "http://www.joseilbo.com/news/news_read.php?uid=570994&class=32",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=310111",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=167303",
+    "https://news.cpbc.co.kr/article/1173986?division=NAVER",
+    "https://www.tokenpost.kr/news/economy/373860",
+    "https://www.ppss.kr/news/articleView.html?idxno=300457"
    ],
    "seen_titles": [
-    "[인터뷰]이상일용인시장\"정부호남투자NO반대…용인국가산단손끝...",
-    "SK에코플랜트,용인수지삼성2차재건축수주",
-    "[증권가중계]미래에셋증권,신한투자증권,KB증권",
-    "강릉AI데이터센터는?SK강원권추가검토...유치가능성은열려있어",
-    "이상일“용인반도체국가산단지연책임정부에…속도전나서야”",
     "용인반도체클러스터가속도…삼전닉스,완공앞당긴다",
     "정부3대메가프로젝트'경남패싱'충격",
     "삼성·SK3대메가에4755조원집중투자",
@@ -4462,10 +4457,15 @@
     "이원택\"800조반도체투자실망…현대차2단계투자반드시끌어내겠다...",
     "李대통령\"호남투자,누적격차비하면조족지혈\"…지역차별론반박",
     "SK하이닉스·삼성전자주도호황,경제전반호황으로이어지기는역부...",
-    "李대통령\"3대메가프로젝트…일극체제극복,모두의성장시대여는핵..."
+    "李대통령\"3대메가프로젝트…일극체제극복,모두의성장시대여는핵...",
+    "SKT에이닷,고객센터통화부터일정관리까지AI지원",
+    "한국,반도체초대형투자발표속...중국반응은?",
+    "이대통령\"호남투자많아보여도조족지혈…힘합쳐달라\"",
+    "[특징주]SK텔레콤,비용부담걷히자실적회복기대…배당·AI성장성...",
+    "프로당구PBA팀리그,7월새시즌개막...'PBA직영'브레이커스합류"
    ],
    "initialized": true,
-   "last_run": "2026-06-30T12:25:21.475007+09:00"
+   "last_run": "2026-06-30T12:30:39.565059+09:00"
   }
  },
  "press_names": {
