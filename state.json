@@ -746,15 +746,21 @@
     [
      "2026-07-01T08:40:31.790796+09:00",
      "구독상품 SK브로드밴드 올인원 맥스 출시 tv"
+    ],
+    [
+     "2026-07-01T08:45:25.096799+09:00",
+     "국내 오렉신 데이비 신약 한국에자이와 SK케미칼 불면증 차단"
+    ],
+    [
+     "2026-07-01T08:45:25.096799+09:00",
+     "SK하닉 SK텔레콤 벤처투자까지 질주 올라탄 데이터센터부터"
+    ],
+    [
+     "2026-07-01T08:45:25.096799+09:00",
+     "국내 물가 50원 최소 인상폭 LPG 고려 SK가스 E1 공급가 kg당 7월"
     ]
    ],
    "seen_urls": [
-    "https://www.kwnews.co.kr/article/20260630500969",
-    "https://news.mtn.co.kr/news-detail/2026063015261973100",
-    "https://www.etoday.co.kr/news/view/2598807",
-    "https://www.news1.kr/photos/7984244",
-    "https://www.sentv.co.kr/article/view/sentv202606300138",
-    "https://www.dt.co.kr/article/12070307",
     "https://www.idaegu.com/news/articleView.html?idxno=663987",
     "https://www.mt.co.kr/stock/2026/06/30/2026063015435498457",
     "https://www.news1.kr/world/usa-canada/6213080",
@@ -2248,15 +2254,15 @@
     "https://www.ytn.co.kr/_ln/0101_202607010828552989",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4092330",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02892966645510256",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1381429"
+    "https://daily.hankooki.com/news/articleView.html?idxno=1381429",
+    "https://www.newsway.co.kr/news/view?ud=2026070108371586638",
+    "https://www.m-i.kr/news/articleView.html?idxno=1386909",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=355358",
+    "https://www.hankyung.com/article/202607018246i",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4422727",
+    "https://www.newsis.com/view/NISX20260701_0003690649"
    ],
    "seen_titles": [
-    "전영현삼성전자부회장\"호남에AIDC등첨단산업중심425조투자\"",
-    "'레버리지'열풍속조용한인기…변동성피난처된배당ETF",
-    "전남·광주국회의원들\"800조반도체투자환영…대한민국반도체초강...",
-    "李대통령'서남권첨단산업발전비전국민보고회'참석",
-    "'서양개미'몰려온다…국내증권사,글로벌시장정조준",
-    "광주식수원동복댐에서만30만톤끌어온다…정부반도체용수셈법보...",
     "삼전닉스레버리지허용·연금비공개…반도체주출렁임키웠다",
     "S&P,올해한국실질GDP전망치1.9→2.9%로상향",
     "전우종·정준호SK증권대표,리스크덜어낸내실경영'승부수'통했다",
@@ -3750,10 +3756,16 @@
     "[뉴스UP]후반기국회도'반쪽'출범...이대통령-문오찬,화합메시지...",
     "신수정\"주민이주인되는북구만들겠다\"",
     "안철수\"100조반도체초과세수,호남에다써버릴건가\"",
-    "SK브로드밴드,올인원구독상품'Btv+맥스'출시"
+    "SK브로드밴드,올인원구독상품'Btv+맥스'출시",
+    "프리마켓1%대상승…６월반도체수출성적표주목[특징주]",
+    "'아파트로들어가는AI학습케어'…대교CNS·SK에코플랜트와맞손",
+    "李대통령\"용인·서남권반도체동시추진…내가직접총책임\"",
+    "SK케미칼,한국에자이와국내첫‘오렉신차단’불면증신약‘데이비...",
+    "SK하닉올라탄SK텔레콤…데이터센터부터AI벤처투자까지'질주'",
+    "SK가스·E1,7월국내LPG공급가kg당50원↑…\"물가고려인상폭최소..."
    ],
    "initialized": true,
-   "last_run": "2026-07-01T08:40:31.790796+09:00"
+   "last_run": "2026-07-01T08:45:25.096799+09:00"
   }
  },
  "press_names": {
