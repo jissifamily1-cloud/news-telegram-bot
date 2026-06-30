@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-06-30T23:05:24.757643+09:00",
-     "했다 조용히 알았는데 40조 팔고 삼전닉스 떠난줄 큰손"
-    ],
-    [
-     "2026-06-30T23:05:24.757643+09:00",
-     "만에 반등 살린 코스피 반도체가 3거래일"
-    ],
-    [
      "2026-06-30T23:20:35.905158+09:00",
      "실버타운 공개했던 SK하이닉스 보증금 투자 10억 입주 성공담 전원주"
     ],
@@ -326,11 +318,13 @@
     [
      "2026-07-01T05:05:22.884584+09:00",
      "비자금 달러 돈인가 3000만 위한 누구 보낸 현대 스위스은행"
+    ],
+    [
+     "2026-07-01T05:10:39.988529+09:00",
+     "분기 승자는 반도체 눈앞 사상 있었다 따로 최고"
     ]
    ],
    "seen_urls": [
-    "http://www.popcornnews.net/news/articleView.html?idxno=125195",
-    "https://news.tvchosun.com/site/data/html_dir/2026/06/30/2026063090140.html",
     "http://www.newsbrite.net/news/articleView.html?idxno=198941",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=723547",
     "https://www.aitimes.com/news/articleView.html?idxno=212268",
@@ -1828,11 +1822,11 @@
     "https://www.seoul.co.kr/news/economy/2026/07/01/20260701002004?wlog_tag3=naver",
     "https://www.imaeil.com/page/view/2026063016434513604",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=305996",
-    "https://www.joongang.co.kr/article/25441412"
+    "https://www.joongang.co.kr/article/25441412",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=585672",
+    "https://www.news2day.co.kr/article/20260701500006"
    ],
    "seen_titles": [
-    "李대통령\"호남에'반도체'투자많지만역사적누적투자량은조족지혈...",
-    "대만,韓'3대메가프로젝트'에\"한국과직접경쟁격화될것\"",
     "SKT,'AI지능'생산하는데이터센터어떻게만들어지나",
     "SKHynixEyesNasdaqListingBoost",
     "에이닷이ARS통화대신하고약속일정적어준다",
@@ -3330,10 +3324,12 @@
     "‘800조반도체팹’어디로…설난무속부동산부터‘들썩’",
     "[세풍-한윤조]물·전기·사람없는'정치반도체클러스터'",
     "[스트레이트뉴스여론조사]반도체·AI호황,국민55%\"생활경제에도움...",
-    "스위스은행보낸3000만달러…현대비자금,누구위한돈인가"
+    "스위스은행보낸3000만달러…현대비자금,누구위한돈인가",
+    "이대통령\"서남권반도체클러스터직접챙긴다…총책임확실히질것...",
+    "[포커스]반도체사상최고분기눈앞…승자는따로있었다"
    ],
    "initialized": true,
-   "last_run": "2026-07-01T05:05:22.884584+09:00"
+   "last_run": "2026-07-01T05:10:39.988529+09:00"
   }
  },
  "press_names": {
