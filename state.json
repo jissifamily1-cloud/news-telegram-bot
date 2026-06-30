@@ -525,8 +525,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/international/international_general/2026/06/30/Q22ETGCWPNBVVLVRCWAI4ZGLFU/",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=422085",
     "https://theviewers.co.kr/View.aspx?No=4129760",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464251",
     "https://www.mydaily.co.kr/page/view/2026063015031589717",
@@ -2024,11 +2022,11 @@
     "https://biz.sbs.co.kr/article_hub/20000319911?division=NAVER",
     "https://vop.co.kr/A00001695564.html",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247753&CMPT_CD=P0010",
-    "https://www.sedaily.com/article/20062156"
+    "https://www.sedaily.com/article/20062156",
+    "https://www.g-enews.com/view.php?ud=202607010708154027fbbec65dfb_1",
+    "http://www.economytalk.kr/news/articleView.html?idxno=422348"
    ],
    "seen_titles": [
-    "팹은대형,인프라는중견…반도체건설수혜어디",
-    "\"노동포퓰리즘바로잡겠다\"",
     "SK케미칼,J2H와'대사이상지방간염'치료제공동개발본격화",
     "\"서남권이대한민국새심장\"…李대통령광주·아산·진주서비전보고회",
     "[메가프로젝트수혜주]①도로부터데이터센터까지…결국'건설사'가...",
@@ -3526,10 +3524,12 @@
     "[마켓브리핑]뉴욕증시,상반기마지막거래일일제히강세마감",
     "[사설]이재명대통령에게황당한색깔론펼친이진숙",
     "[손병관의뉴스프레소]'호남팹'에필요하다며원전확대요구한삼성",
-    "‘하닉고시’·‘대국민오디션’괜히나온말아니었네…상반기구직..."
+    "‘하닉고시’·‘대국민오디션’괜히나온말아니었네…상반기구직...",
+    "삼성·SK800조'HBM증설'쇼크…글로벌장비주2028년까지실적가시성...",
+    "\"韓아태최대AI데이터센터건설\"…18.4GW급'전기하마'전력수급은..."
    ],
    "initialized": true,
-   "last_run": "2026-07-01T07:20:35.260895+09:00"
+   "last_run": "2026-07-01T07:23:39.368531+09:00"
   }
  },
  "press_names": {
