@@ -422,12 +422,13 @@
     [
      "2026-07-02T06:25:22.560872+09:00",
      "성적표 성장 엇갈린다 회복 이통3사 2분기 SKT LGU KT 주춤"
+    ],
+    [
+     "2026-07-02T06:30:43.956191+09:00",
+     "삼전 시기를 빼놓았을까 닉스는"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/industry/general-industry/6214282",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260701134126KYT",
-    "http://www.kdfnews.com/news/articleView.html?idxno=184775",
     "https://www.g-enews.com/view.php?ud=202607011333441945fbbec65dfb_1",
     "http://www.inews24.com/view/1981361",
     "https://www.nocutnews.co.kr/news/6541366",
@@ -1924,12 +1925,12 @@
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607011349388520514",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607011414209450531",
     "https://www.dailian.co.kr/news/view/1662350/?sc=Naver",
-    "https://www.news1.kr/it-science/cc-newmedia/6214637"
+    "https://www.news1.kr/it-science/cc-newmedia/6214637",
+    "https://biz.sbs.co.kr/article_hub/20000320174?division=NAVER",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8600090",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247825&CMPT_CD=P0010"
    ],
    "seen_titles": [
-    "SK하이닉스,美나스닥상장속도…SEC에등록서수정본제출",
-    "SK,KKR과국내최대신재생에너지기업설립…10GW로6배확대",
-    "정부\"삼전닉스성과급백지화유포글은허위…강력대처\"",
     "[증권가NOW!]키움증권·KB증권·신한투자·하나증권·한국투자...\"투자...",
     "KKR·SK2조원재생에너지동맹폭발…내계좌전력주손익계산서바뀐...",
     "\"AI최대승부수\"…외신,삼성·SK800조반도체투자주목",
@@ -3426,10 +3427,13 @@
     "반도체ㆍ데이터센터에OSC공법뜬다",
     "[3대메가프로젝트,건설시장에단비](3)배후도시확장…중소건설사,...",
     "[오늘부동산]\"막차타자\"…규제묶인구리·동탄·기흥문의쇄도",
-    "이통3사2분기성적표엇갈린다…SKT'회복'·KT'주춤'·LGU+'성장'"
+    "이통3사2분기성적표엇갈린다…SKT'회복'·KT'주춤'·LGU+'성장'",
+    "[외신헤드라인]메타,클라우드사업진출모색…주가급등",
+    "이대통령,오늘충청권발전국민보고회참석",
+    "[이충재의인사이트]삼전·닉스는왜시기를빼놓았을까"
    ],
    "initialized": true,
-   "last_run": "2026-07-02T06:25:22.560872+09:00"
+   "last_run": "2026-07-02T06:30:43.956191+09:00"
   }
  },
  "press_names": {
