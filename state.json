@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-01T17:10:35.926830+09:00",
-     "우상호 방향으 특별한 강원시대 취임 강원지사 도정 민선 5대 9기"
-    ],
-    [
-     "2026-07-01T17:10:35.926830+09:00",
-     "저평가 상속세 길터줘야 개편 37년 장기랠리 코스피 탈출"
-    ],
-    [
      "2026-07-01T17:15:26.443582+09:00",
      "포스코홀딩스 15개 전항목"
     ],
@@ -778,10 +770,13 @@
     [
      "2026-07-01T23:00:50.605813+09:00",
      "용인특례시 출범 선언 민선9기 용인특례시장 이상일"
+    ],
+    [
+     "2026-07-01T23:10:36.985984+09:00",
+     "2라운드 연금 디지털 증권사 경쟁 시작되나 IMA"
     ]
    ],
    "seen_urls": [
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247806&CMPT_CD=P0010",
     "https://www.koreaherald.com/article/10794458",
     "https://www.mhns.co.kr/news/articleView.html?idxno=751935",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=03929446645510256",
@@ -2280,10 +2275,10 @@
     "http://www.newsworker.co.kr/news/articleView.html?idxno=434239",
     "http://www.suwonilbo.kr/news/articleView.html?idxno=316582",
     "https://www.segye.com/newsView/20260701520737?OutUrl=naver",
-    "https://www.newstnt.com/news/articleView.html?idxno=708610"
+    "https://www.newstnt.com/news/articleView.html?idxno=708610",
+    "https://www.news2day.co.kr/article/20260701500359"
    ],
    "seen_titles": [
-    "“상장기업70%는여전히저평가…장기투자문화만들어야증시성장”...",
     "반도체용수걱정,물이부족한게아니라관리방식이문제다",
     "CanKorea'sretailinvestorspowerlastingmarketre-rating?",
     "이재명정부'메가프로젝트'시동…초격차도약vs관치경제논란",
@@ -3782,10 +3777,11 @@
     "김한종장성군수,민선9기첫행보...'반도체·관광'청사진공개",
     "이상일용인특례시장,'민선9기용인특례시'출범공식선언",
     "이상일용인시장,재선첫날‘환경미화’…1호결재는‘반도체’",
-    "전남광주통합특별시,제1호정책조례'글로벌반도체전략투자지원'제..."
+    "전남광주통합특별시,제1호정책조례'글로벌반도체전략투자지원'제...",
+    "[증권데일리]디지털·연금·IMA…증권사경쟁2라운드시작되나"
    ],
    "initialized": true,
-   "last_run": "2026-07-01T23:05:23.001846+09:00"
+   "last_run": "2026-07-01T23:10:36.985984+09:00"
   }
  },
  "press_names": {
