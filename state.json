@@ -1073,9 +1073,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607011119295420488",
-    "https://www.kyeonggi.com/article/20260701580062",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=264679",
     "https://www.koreabiomed.com/news/articleView.html?idxno=32263",
     "https://www.ddaily.co.kr/page/view/2026070111394053626",
     "https://www.newsis.com/view/NISX20260701_0003690965",
@@ -2572,12 +2569,12 @@
     "https://www.koreajoongangdaily.com/business/foreign-investors-record-selloff-shows-no-sign-of-slowingnbsp/12751063",
     "https://view.asiae.co.kr/article/2026070122011318936",
     "https://www.hankyung.com/article/2026070199966",
-    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2218998"
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2218998",
+    "https://www.nocutnews.co.kr/news/6541810",
+    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000537491",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8599949"
    ],
    "seen_titles": [
-    "[현장]국회의장만난최태원\"미래준비위해법·제도예측가능해야\"",
-    "外人ㆍ기관동반매도에장중코스피4%가까이↓",
-    "[속보]안철수\"백지수표에가까운호남권반도체재원조달,즉시재고...",
     "'자꾸만가렵다'...미래산업,'반도체핸들러'시장1위날개돋나…急매...",
     "SKchemicals,EisaiKoreapartnertolaunchKorea'sfirstorexin-bloc",
     "삼성페스티벌·통합요금제효과…6월번호이동다시‘꿈틀’",
@@ -4074,10 +4071,13 @@
     "Foreigninvestors'recordsell-offshowsnosignofslowing",
     "송형곤의장\"전남광주통합특별시성공…균형발전새모델\"",
     "수출은사상최대인데환율은금융위기후최고…외환시장변수는[분석...",
-    "SK텔레콤,T팩토리성수서T1협업전시'암행천문'개막"
+    "SK텔레콤,T팩토리성수서T1협업전시'암행천문'개막",
+    "SK,KKR손잡아…국내최대신재생에너지기업세운다",
+    "[김종석의리포트]삼전노조,호남반도체논의하자?",
+    "이대통령,3일진주에서‘영남권첨단산업보고회’"
    ],
    "initialized": true,
-   "last_run": "2026-07-01T22:05:43.212320+09:00"
+   "last_run": "2026-07-01T22:10:37.692278+09:00"
   }
  },
  "press_names": {
