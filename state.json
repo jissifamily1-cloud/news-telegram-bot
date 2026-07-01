@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-02T01:25:25.975286+09:00",
-     "결재는 취임 반도체 추미애 경기지사 혁신대책"
-    ],
-    [
      "2026-07-02T02:10:37.586436+09:00",
      "메모리 겪은 호남 투자도 한파 삼성 관측 완급조절"
     ],
@@ -602,13 +598,13 @@
     [
      "2026-07-02T07:25:19.928737+09:00",
      "상반기 그럼 아니었다 승자 미국 기술주 누구"
+    ],
+    [
+     "2026-07-02T07:30:45.507971+09:00",
+     "기업형 첨단 없다 지어선 공장만 미래"
     ]
    ],
    "seen_urls": [
-    "https://www.ekn.kr/web/view.php?key=20260701024178136",
-    "https://news.tf.co.kr/read/economy/2338554.htm",
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589207423281",
-    "https://www.ekn.kr/web/view.php?key=20260701021208119",
     "https://www.ezyeconomy.com/news/articleView.html?idxno=236958",
     "https://www.m-i.kr/news/articleView.html?idxno=1387121",
     "https://www.e-science.co.kr/news/articleView.html?idxno=131273",
@@ -2104,13 +2100,13 @@
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6834412_37012.html",
     "https://biz.sbs.co.kr/article_hub/20000320192?division=NAVER",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248049&CMPT_CD=P0010",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=02535446645510584"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02535446645510584",
+    "https://hbnpress.com/news/view/1065565258328013",
+    "https://www.ikbc.co.kr/article/view/kbc202607020006",
+    "https://www.dt.co.kr/article/12070697",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=91609"
    ],
    "seen_titles": [
-    "ASML주가,사상최고치…삼성·SK메가투자에글로벌반도체장비주방...",
-    "매출1위는삼성인데,1인당순익1위는왜SK일까",
-    "한국투자증권,6번째IMA출시…첫'성장형'으로1200억원모집",
-    "진승욱대신증권대표,청소년불법도박예방캠페인참여",
     "“내년부터성과급정부가정한다?”…삼성·하이닉스뒤흔든이소문,...",
     "SK,2년연속국내대기업영업이익1위…삼성은매출·순익·고용석권",
     "[데스크칼럼]호남반도체공장4년내완공가능할까",
@@ -3606,10 +3602,14 @@
     "사상최대수출인데‥환율급등이유는?",
     "앤트로픽,'페이블'AI서비스재개…미토스는해외제한",
     "[손병관의뉴스프레소]국힘중진의원들에'골프회동'타진한이대통...",
-    "상반기기술주최대승자,미국아니었다…그럼누구?"
+    "상반기기술주최대승자,미국아니었다…그럼누구?",
+    "최태원SK회장\"AI시대,정답보다좋은질문던지는인재중요\"",
+    "앤트로픽,'페이블'AI서비스재개...미토스는해외에선아직",
+    "앤트로픽,‘미토스’여전히해외접속제한…‘페이블’AI서비스재...",
+    "['AI대전환'메가프로젝트③]\"공장만지어선미래없다\"…기업형첨단..."
    ],
    "initialized": true,
-   "last_run": "2026-07-02T07:25:19.928737+09:00"
+   "last_run": "2026-07-02T07:30:45.507971+09:00"
   }
  },
  "press_names": {
