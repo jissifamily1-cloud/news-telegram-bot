@@ -594,12 +594,17 @@
     [
      "2026-07-02T07:20:36.335809+09:00",
      "이유는 사상 수출인데 환율 급등"
+    ],
+    [
+     "2026-07-02T07:25:19.928737+09:00",
+     "중진의원들에 회동 국힘 대통 골프 타진한"
+    ],
+    [
+     "2026-07-02T07:25:19.928737+09:00",
+     "상반기 그럼 아니었다 승자 미국 기술주 누구"
     ]
    ],
    "seen_urls": [
-    "https://www.sportsseoul.com/news/read/1620023",
-    "https://www.sedaily.com/article/20062426",
-    "https://www.etoday.co.kr/news/view/2599181",
     "https://www.ekn.kr/web/view.php?key=20260701024178136",
     "https://news.tf.co.kr/read/economy/2338554.htm",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589207423281",
@@ -2096,12 +2101,12 @@
     "http://www.newsroad.co.kr/news/articleView.html?idxno=61090",
     "http://www.newsprime.co.kr/news/article.html?no=738770",
     "https://www.news1.kr/industry/general-industry/6213299",
-    "https://imnews.imbc.com/replay/2026/nwtoday/article/6834412_37012.html"
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6834412_37012.html",
+    "https://biz.sbs.co.kr/article_hub/20000320192?division=NAVER",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248049&CMPT_CD=P0010",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02535446645510584"
    ],
    "seen_titles": [
-    "'잭팟'과'깡통'사이도박판이된증시…지금은신중할때다[취재수...",
-    "이상일,민선9기첫결재...‘반도체산업육성및클러스터조성종합...",
-    "“삼전닉스때문에아이패드비싸졌다”…美소비자들집단소송제기,...",
     "ASML주가,사상최고치…삼성·SK메가투자에글로벌반도체장비주방...",
     "매출1위는삼성인데,1인당순익1위는왜SK일까",
     "한국투자증권,6번째IMA출시…첫'성장형'으로1200억원모집",
@@ -3598,10 +3603,13 @@
     "성수석이천시장취임…\"미래가모이는도시이천\"8대공약제시",
     "희림,건설선행지표개선속설계수요확장'수혜'…삼성·하이닉스첨...",
     "동박3사,전기차에울었지만ESS·AI반도체에'미소'…2Q적자폭↓",
-    "사상최대수출인데‥환율급등이유는?"
+    "사상최대수출인데‥환율급등이유는?",
+    "앤트로픽,'페이블'AI서비스재개…미토스는해외제한",
+    "[손병관의뉴스프레소]국힘중진의원들에'골프회동'타진한이대통...",
+    "상반기기술주최대승자,미국아니었다…그럼누구?"
    ],
    "initialized": true,
-   "last_run": "2026-07-02T07:20:36.335809+09:00"
+   "last_run": "2026-07-02T07:25:19.928737+09:00"
   }
  },
  "press_names": {
