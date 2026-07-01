@@ -1158,15 +1158,25 @@
     [
      "2026-07-01T21:45:24.751022+09:00",
      "경력직 삼전 DX 하이닉스 탈출하자 들썩 채용에 반도체로"
+    ],
+    [
+     "2026-07-01T21:48:15.458242+09:00",
+     "승강제 성장성 코스닥 반영이 핵심 혁신"
+    ],
+    [
+     "2026-07-01T21:48:15.458242+09:00",
+     "인하 20만원 강화 폴리머 SK지오센트릭 t당 상생협력"
+    ],
+    [
+     "2026-07-01T21:48:15.458242+09:00",
+     "봉사단 띠앗 에어컨 경로당 지원 SK오션플랜트"
+    ],
+    [
+     "2026-07-01T21:48:15.458242+09:00",
+     "record shows no sign off of Foreign sell slowing investors"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000320010?division=NAVER",
-    "http://weekly.chosun.com/news/articleView.html?idxno=53056",
-    "https://www.newsis.com/view/NISX20260701_0003691322",
-    "https://www.sedaily.com/article/20062348",
-    "https://www.yna.co.kr/view/AKR20260701087900003?input=1195m",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=264682",
     "https://www.dailian.co.kr/news/view/1662040/?sc=Naver",
     "https://www.ddaily.co.kr/page/view/2026070111133373008",
     "https://www.newsis.com/view/NISX20260701_0003691242",
@@ -2660,15 +2670,15 @@
     "https://www.ulsanpress.net/news/articleView.html?idxno=578309",
     "https://www.newscj.com/news/articleView.html?idxno=3413746",
     "https://www.ulsanpress.net/news/articleView.html?idxno=578284",
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/01/2026070190286.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/01/2026070190286.html",
+    "http://www.ujeil.com/news/articleView.html?idxno=388142",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2218997",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=06717446645510256",
+    "http://www.ujeil.com/news/articleView.html?idxno=388164",
+    "http://www.gnmaeil.com/news/articleView.html?idxno=589872",
+    "https://www.koreajoongangdaily.com/business/foreign-investors-record-selloff-shows-no-sign-of-slowingnbsp/12751063"
    ],
    "seen_titles": [
-    "SK하이닉스레버리지ETF열흘새4조↑...\"변동성주목해야\"",
-    "외국인매도에코스피장중8200선밑으로…환율1558원17년4개월만에...",
-    "\"삼성성과급백지화\"확산되자…정부\"허위사실,강력대응\"",
-    "기름값150원일괄인하에도체감은'제각각'…\"주유소가격양극화심...",
-    "저가매수일까…삼전·하닉5%하락날‘상위1%’는집중매입[주식초...",
-    "SK,글로벌투자사KKR손잡고국내최대신재생에너지기업출범",
     "노동부ㆍ산업부,성과급백지화공문설에\"악의적유포강력대응\"",
     "삼성·SK896조투자…9개월전그린'5극3특'첫실증",
     "비용절감압박에도…정보보호투자확대한유료방송업계",
@@ -4162,10 +4172,16 @@
     "SK에너지,야음장생포동저소득어르신에실버카",
     "과징금에실적꺾인SKT,7000억보안혁신[ESG성적표]",
     "석화구조조정마지막퍼즐울산…샤힌반영관건",
-    "\"반도체로탈출하자\"…하이닉스경력직채용에삼전DX'들썩'"
+    "\"반도체로탈출하자\"…하이닉스경력직채용에삼전DX'들썩'",
+    "SK에너지,저소득어르신실버카15대후원",
+    "최태원회장\"AI시대인재기준은'질문하는힘'\"",
+    "[미리보는이데일리신문]“코스닥승강제,혁신·성장성반영이핵심...",
+    "SK지오센트릭,상생협력강화…폴리머t당최대20만원인하",
+    "SK오션플랜트띠앗봉사단,경로당에어컨지원",
+    "Foreigninvestors'recordsell-offshowsnosignofslowing"
    ],
    "initialized": true,
-   "last_run": "2026-07-01T21:45:24.751022+09:00"
+   "last_run": "2026-07-01T21:48:15.458242+09:00"
   }
  },
  "press_names": {
@@ -4605,6 +4621,7 @@
   "dongponews.net": "재외동포신문",
   "koscaj.com": "대한전문건설신문",
   "kmecnews.co.kr": "기계설비신문",
-  "womentimes.co.kr": "우먼타임스"
+  "womentimes.co.kr": "우먼타임스",
+  "gnmaeil.com": "경남매일"
  }
 }
