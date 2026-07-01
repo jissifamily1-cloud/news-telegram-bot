@@ -610,13 +610,13 @@
     [
      "2026-07-02T07:35:20.281829+09:00",
      ""
+    ],
+    [
+     "2026-07-02T07:40:39.326457+09:00",
+     "목표가 IBK 싸다 파격 아직 400만원 SK하이닉스 상향"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04588726645510256",
-    "https://www.viva100.com/article/20260701500682",
-    "https://www.etnews.com/20260701000413",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04582166645510256",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1714652",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260701010000235",
     "https://www.businesspost.co.kr/BP?command=article_view&num=441274",
@@ -2112,13 +2112,13 @@
     "https://www.newsis.com/view/NISX20260702_0003692531",
     "https://biz.sbs.co.kr/article_hub/20000320188?division=NAVER",
     "https://www.ekn.kr/web/view.php?key=20260702029488210",
-    "https://www.yna.co.kr/view/AKR20260702013400011?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260702013400011?input=1195m",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02594486645510584",
+    "https://www.ziksir.com/news/articleView.html?idxno=138792",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1714760",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02601046645510584"
    ],
    "seen_titles": [
-    "[기획]동탄'22억원신고가'이후제동…토허제,실거래·호가꺾을까",
-    "\"보안이곧경쟁력\"…통신3사,CEO가직접정보보호챙긴다",
-    "[사설]서른살코스닥,투자심리회복정책시급하다",
-    "해외로뻗는K-ETF…키움증권,美서첫반도체ETF상장신청",
     "SK,글로벌사모펀드KKR'맞손'…신재생에너지기업출범",
     "신입줄이고조직슬림화…이통3사인력재편가속",
     "亞증시,AI·반도체랠리타고17년만에최고분기성과",
@@ -3614,10 +3614,14 @@
     "[오늘의증시]美마이크론10%급락에반도체株'긴장'…코스피또하락...",
     "[마켓프리뷰]삼전닉스약세에코스피2%대↓…'30돌'코스닥선방",
     "SK·삼성,2·3차협력사까지상생확대…“AI시대공급망경쟁력강화”",
-    "[연합뉴스이시각헤드라인]-07:30"
+    "[연합뉴스이시각헤드라인]-07:30",
+    "SK스퀘어,하이닉스질주에기업가치재평가…목표가210만원-유안타",
+    "국민연금리밸런싱,'삼전·닉스'휘청…증권가는'조단위증자'로정면...",
+    "﻿SK하이닉스美ADR상장초읽기…'코리아디스카운트'벗고AI반도체...",
+    "SK하이닉스\"아직싸다\"…목표가400만원파격상향-IBK"
    ],
    "initialized": true,
-   "last_run": "2026-07-02T07:35:20.281829+09:00"
+   "last_run": "2026-07-02T07:40:39.326457+09:00"
   }
  },
  "press_names": {
