@@ -478,12 +478,13 @@
     [
      "2026-07-02T06:55:21.248489+09:00",
      "3사 빅테크 HBM이 산업 권력 vs 주도권 바꾼 충돌 본격화 메모리"
+    ],
+    [
+     "2026-07-02T07:00:52.758013+09:00",
+     "SK하이닉스 소외계층 교육 행복쿡 월드비전과 식생활"
     ]
    ],
    "seen_urls": [
-    "http://www.econonews.co.kr/news/articleView.html?idxno=440494",
-    "https://www.veritas-a.com/news/articleView.html?idxno=617481",
-    "https://www.mediawatch.kr/news/article.html?no=260248",
     "http://www.iminju.net/news/articleView.html?idxno=166064",
     "https://www.getnews.co.kr/news/articleView.html?idxno=873756",
     "http://www.breaknews.com/1218226",
@@ -1980,12 +1981,12 @@
     "https://www.getnews.co.kr/news/articleView.html?idxno=873882",
     "http://www.breaknews.com/1218505",
     "https://www.mhns.co.kr/news/articleView.html?idxno=752024",
-    "https://www.g-enews.com/view.php?ud=202607020628124164fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202607020628124164fbbec65dfb_1",
+    "http://www.osen.co.kr/article/G1112832343",
+    "https://www.slist.kr/news/articleView.html?idxno=748993",
+    "https://www.christiantoday.co.kr/news/376003"
    ],
    "seen_titles": [
-    "정부\"'삼성전자·SK하이닉스성과급백지화공문설'은허위…악의적유...",
-    "최태원,\"기업혁신늦지않도록법제도와환경같이구축돼야\"",
-    "고려대NLP&AI연구실세계학술대회'ACL2026'서논문12편채택..단일...",
     "SKT“지난해통신사기11억건차단”...“AI로스팸·보이스피싱탐지...",
     "SK그룹,2년연속영업이익1위…SK하이닉스실적견인",
     "한국이일본도못한'月수출1천억달러'세계4번째로해냈다‥'국민영...",
@@ -3482,10 +3483,13 @@
     "뉴욕증시,차익실현성반도체주매도에하락...마이크론,10%↓",
     "국민의힘,장동혁윤리위돌파·정점식신중론속의회폭거총공세",
     "[박근종칼럼]초강달러·슈퍼엔저·셀코리아·24시환시장의'4중파...",
-    "HBM이바꾼권력…메모리3사vs빅테크'산업주도권'충돌본격화"
+    "HBM이바꾼권력…메모리3사vs빅테크'산업주도권'충돌본격화",
+    "“에디는미친놈이다!”농구대표팀여준석과막내에디다니엘,미친...",
+    "SK하이닉스,10일나스닥ADR상장...최대주주SK스퀘어주목",
+    "SK하이닉스,월드비전과소외계층식생활교육‘행복쿡’"
    ],
    "initialized": true,
-   "last_run": "2026-07-02T06:55:21.248489+09:00"
+   "last_run": "2026-07-02T07:00:52.758013+09:00"
   }
  },
  "press_names": {
@@ -3928,6 +3932,7 @@
   "womentimes.co.kr": "우먼타임스",
   "gnmaeil.com": "경남매일",
   "suwonilbo.kr": "수원일보 - 경기·인천 최고의 디지털 뉴스",
-  "apsk.co.kr": "메디팜스투데이"
+  "apsk.co.kr": "메디팜스투데이",
+  "christiantoday.co.kr": "종교신문 1위 크리스천투데이"
  }
 }
