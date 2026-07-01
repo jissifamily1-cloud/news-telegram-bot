@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-01T06:45:25.504326+09:00",
-     "쏟는다 용인과 896억원 서남권에 동시 삼성"
-    ],
-    [
-     "2026-07-01T06:45:25.504326+09:00",
-     "찾는다 빅테크 호남 그걸 재생에너지 불안정"
-    ],
-    [
      "2026-07-01T06:55:21.495979+09:00",
      "2분기 이겼다 AI가 나스닥 전쟁도 폭등"
     ],
@@ -1526,11 +1518,13 @@
     [
      "2026-07-01T12:45:25.067935+09:00",
      "하청노조 원청 파업 상대 가결 건설플랜트노조 투표 눈앞"
+    ],
+    [
+     "2026-07-01T12:50:35.042698+09:00",
+     "반도체 1호는 조례 공포 전남광주특별시 453건 전략투자"
     ]
    ],
    "seen_urls": [
-    "http://www.econonews.co.kr/news/articleView.html?idxno=440445",
-    "http://www.jndn.com/article.php?aid=1782814064435248008",
     "https://www.koreajoongangdaily.com/business/with-500b-set-to-flood-into-chip-hub-samsung-and-sk-hynix-face-water-and-talent-shortage/12748377",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598517",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598512",
@@ -3028,11 +3022,11 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16119462",
     "https://gw.newdaily.co.kr/site/data/html/2026/07/01/2026070100158.html",
     "https://www.etnews.com/20260701000304",
-    "https://www.hankyung.com/article/202607019232i"
+    "https://www.hankyung.com/article/202607019232i",
+    "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1169548",
+    "https://www.newsis.com/view/NISX20260701_0003691429"
    ],
    "seen_titles": [
-    "통신3사,작년정보보안투자22%증가…올해4000억돌파전망",
-    "SK케미칼,유연성높인데코시트개발…가구·인테리어용표면마감재에...",
     "정치권은'전남·광주반도체'흔들지말라",
     "With$500Bsettofloodintochiphub,SamsungandSKhynixfacewateran.",
     "서남권투자발표…이대통령“호남설움조금이나마벗어날기회…균...",
@@ -4530,10 +4524,12 @@
     "박태웅\"3대메가프로젝트,전기국가선언\"…AI거버넌스쟁점(김어준...",
     "우상호강원도정1호결재는'AI'…강원,대한민국AI산업생태계거...",
     "[민선9기출법]대한민국균형발전닻올렸다...첨단산업·메가시티청...",
-    "첫'원청상대하청노조파업'눈앞...건설플랜트노조파업투표가결"
+    "첫'원청상대하청노조파업'눈앞...건설플랜트노조파업투표가결",
+    "케어랩스,빅테크출신임원영입…헬스케어경쟁력강화",
+    "전남광주특별시조례등453건공포,1호는'반도체전략투자'"
    ],
    "initialized": true,
-   "last_run": "2026-07-01T12:45:25.067935+09:00"
+   "last_run": "2026-07-01T12:50:35.042698+09:00"
   }
  },
  "press_names": {
