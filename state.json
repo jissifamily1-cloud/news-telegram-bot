@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-01T22:45:26.209720+09:00",
-     "불붙은 삼성 수익성은 경쟁 재계 시대로 외형은"
-    ],
-    [
      "2026-07-01T22:50:37.397087+09:00",
      "정관장 진행 김경원 맞트레이드 현대모비스 이대헌 프로농구"
     ],
@@ -282,10 +278,13 @@
     [
      "2026-07-02T04:40:37.356556+09:00",
      "주52시간 완화 반도체 단지에 검토 광주"
+    ],
+    [
+     "2026-07-02T04:45:27.032736+09:00",
+     "휘청 마이크 소나기 장비주 메모리 반도체 악재에"
     ]
    ],
    "seen_urls": [
-    "http://www.breaknews.com/1218180",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5203129",
     "http://www.newstown.co.kr/news/articleView.html?idxno=707812",
     "https://www.gukjenews.com/news/articleView.html?idxno=3622998",
@@ -1784,10 +1783,10 @@
     "https://www.hankookilbo.com/news/article/A2026070122450001183?did=NA",
     "https://www.hankookilbo.com/news/article/A2026070116530002575?did=NA",
     "https://www.donga.com/news/Economy/article/all/20260702/134220628/2",
-    "https://www.donga.com/news/Economy/article/all/20260702/134220821/2"
+    "https://www.donga.com/news/Economy/article/all/20260702/134220821/2",
+    "https://www.mediapen.com/news/view/1107747"
    ],
    "seen_titles": [
-    "이상일용인시장“용인반도체산단,특별법상‘1호클러스터’로신...",
     "김성환기후부장관,서남권방문…\"첨단산업심장을위해전력·용수인...",
     "\"직접챙기겠다\"…헬기탄이대통령,서남권산단후보지등시찰[프레...",
     "부천시,조용익시장시민임명식…민선9기'더큰부천'출발",
@@ -3286,10 +3285,11 @@
     "[기고]AI기본법제정한한국,이제국제적표준세울때",
     "민주당돌아온김민석\"당대표,두번할필요있나\"...정청래와신경...",
     "“반도체경쟁주52시간예외필요”광주팹뒷받침나설듯",
-    "광주반도체단지에주52시간완화검토"
+    "광주반도체단지에주52시간완화검토",
+    "[美증시특징주]반도체메모리·장비주소나기악재에'휘청'...마이크..."
    ],
    "initialized": true,
-   "last_run": "2026-07-02T04:40:37.356556+09:00"
+   "last_run": "2026-07-02T04:45:27.032736+09:00"
   }
  },
  "press_names": {
