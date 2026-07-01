@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-02T02:10:37.586436+09:00",
-     "메모리 겪은 호남 투자도 한파 삼성 관측 완급조절"
-    ],
-    [
      "2026-07-02T03:05:20.176512+09:00",
      "정부의 언어 차라리 반도체 말하라 쉽게"
     ],
@@ -706,15 +702,29 @@
     [
      "2026-07-02T08:10:36.382017+09:00",
      "조선 재계 한화 A로 방산 우주 화약서 산업복합체"
+    ],
+    [
+     "2026-07-02T08:15:23.719149+09:00",
+     "6배 간다 PER 최대주주 몸값으로 하닉 45조 SK스퀘어 갇힌 나스닥"
+    ],
+    [
+     "2026-07-02T08:15:23.719149+09:00",
+     "KT에 웨이브 합병 확보 이사회 과반 막힌 CJ"
+    ],
+    [
+     "2026-07-02T08:15:23.719149+09:00",
+     "급락 SK하이닉스 삼성전자 반도체 프리마켓서 하락"
+    ],
+    [
+     "2026-07-02T08:15:23.719149+09:00",
+     "잠재력 바이오 높아 하반기 주목 성장 미용 의료기기"
+    ],
+    [
+     "2026-07-02T08:15:23.719149+09:00",
+     "up stack in key to trial Bio readouts shifts sec focus as clinical data"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260701000974",
-    "https://www.m-i.kr/news/articleView.html?idxno=1387099",
-    "https://www.pressian.com/pages/articles/2026070114073281987",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606291353369440103767",
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/01/2026070100199.html",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464647",
     "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607010351&t=NNv",
     "http://www.footballist.co.kr/news/articleView.html?idxno=211723",
     "http://www.newsprime.co.kr/news/article.html?no=738696",
@@ -2208,15 +2218,15 @@
     "https://news.bizwatch.co.kr/article/real_estate/2026/07/01/0038",
     "https://mpmbc.co.kr/NewsArticle/1525634",
     "https://www.etoday.co.kr/news/view/2599399",
-    "https://www.ajunews.com/view/20260701075609791"
+    "https://www.ajunews.com/view/20260701075609791",
+    "http://www.fnnews.com/news/202607011438134561",
+    "http://www.fnnews.com/news/202607020737260018",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606291531181480106978",
+    "https://www.news1.kr/finance/general-stock/6215159",
+    "https://news.bizwatch.co.kr/article/healthcare/2026/07/01/0030",
+    "https://www.news1.kr/bio/pharmaceutical-bio/6215135"
    ],
    "seen_titles": [
-    "한국투자증권,첫성장형IMA'한국투자IMAG1'출시",
-    "조정식의장,최태원과간담회...\"국회-경제계상시협력체계필요성공...",
-    "'삼전·닉스레버리지ETF'규제론확산...상폐주장까지나오는증권가",
-    "김한종장성군수취임…\"대한민국첨단산업의심장,더큰성장장성완...",
-    "[더벨][인사이드헤지펀드]블래쉬운용,손익차등형3호펀드채비",
-    "청와대광주반도체띄웠지만…SK는\"실행안될수도\"정정공시[N-경제...",
     "블랙아웃공포지운다…비나텍,수퍼커패시터기술로ESS장악",
     "[단독]HPSP,삼성·SK에D램용장비납품한다",
     "제주월드컵경기장'암표주의보'발령...바이에른방한경기벌써웃돈...",
@@ -3710,10 +3720,16 @@
     "[르포]\"20억은거뜬하죠\"…단꿈꾸는장위뉴타운",
     "뉴스와인물]송형곤통합시의회초대의장",
     "민형배전남광주통합시장...'반도체'등첫업무",
-    "[경제일보]화약서방산·조선·우주'산업복합체'로…한화,M&A로재계..."
+    "[경제일보]화약서방산·조선·우주'산업복합체'로…한화,M&A로재계...",
+    "코스피101%뛰는동안코스닥은-1%…커지는증시양극화",
+    "'PER6배'갇힌하닉,45조몸값으로나스닥간다…최대주주SK스퀘어대...",
+    "[더벨][이사회분석|티빙]이사회과반확보CJ,웨이브합병KT에막힌...",
+    "美반도체급락…프리마켓서삼성전자4%,SK하이닉스5%하락",
+    "\"바이오성장잠재력높아…하반기미용·의료기기주목\"",
+    "K-Bioshiftsfocustoclinicaldataaskeytrialreadoutsstackupinsec"
    ],
    "initialized": true,
-   "last_run": "2026-07-02T08:10:36.382017+09:00"
+   "last_run": "2026-07-02T08:15:23.719149+09:00"
   }
  },
  "press_names": {
