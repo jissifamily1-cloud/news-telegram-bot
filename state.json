@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-01T06:40:36.222565+09:00",
-     "K바이오 자본 가뭄"
-    ],
-    [
-     "2026-07-01T06:40:36.222565+09:00",
-     "차세대 미디어텍 동맹 HBM 수주 지형도 구글 바뀌나 삼성"
-    ],
-    [
      "2026-07-01T06:45:25.504326+09:00",
      "쏟는다 용인과 896억원 서남권에 동시 삼성"
     ],
@@ -1526,16 +1518,17 @@
     [
      "2026-07-01T12:40:34.064817+09:00",
      "누리는 싸게 가장 사치 세계에서"
+    ],
+    [
+     "2026-07-01T12:45:25.067935+09:00",
+     "발전 올렸다 대한민국 산업 메가시티 첨단 균형"
+    ],
+    [
+     "2026-07-01T12:45:25.067935+09:00",
+     "하청노조 원청 파업 상대 가결 건설플랜트노조 투표 눈앞"
     ]
    ],
    "seen_urls": [
-    "https://www.joongang.co.kr/article/25441301",
-    "https://www.hani.co.kr/arti/economy/marketing/1266110.html",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598511",
-    "https://www.jemin.com/news/articleView.html?idxno=839626",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=272247",
-    "http://www.osen.co.kr/article/G1112831303",
-    "https://www.etnews.com/20260630000375",
     "http://www.econonews.co.kr/news/articleView.html?idxno=440445",
     "http://www.jndn.com/article.php?aid=1782814064435248008",
     "https://www.koreajoongangdaily.com/business/with-500b-set-to-flood-into-chip-hub-samsung-and-sk-hynix-face-water-and-talent-shortage/12748377",
@@ -3028,16 +3021,16 @@
     "https://www.newscj.com/news/articleView.html?idxno=3413529",
     "https://www.womentimes.co.kr/news/articleView.html?idxno=104025",
     "https://www.joongang.co.kr/article/25441504",
-    "https://magazine.hankyung.com/business/article/202606246198b"
+    "https://magazine.hankyung.com/business/article/202606246198b",
+    "https://www.news1.kr/sports/basketball/6214235",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=735622",
+    "https://zdnet.co.kr/view/?no=20260630172028",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16119462",
+    "https://gw.newdaily.co.kr/site/data/html/2026/07/01/2026070100158.html",
+    "https://www.etnews.com/20260701000304",
+    "https://www.hankyung.com/article/202607019232i"
    ],
    "seen_titles": [
-    "SK하이닉스,서남권에400조투자…새반도체클러스터조성",
-    "‘반도체투자’광주간李“민주주의지킨호남에역사적보상”",
-    "‘이재명메가프로젝트’호남반도체…50년불균형바로잡나[전문가...",
-    "이통3사‘정보보호’투자22%↑…SKT증가폭가장컸다",
-    "[제민탑]막오른도정·교육행정,인사(人事)가만사(萬事)",
-    "[ClosingMarket]KOSPIShowsSharpVolatilityonForeignSelloffAimd",
-    "'세이브왕→타자전향26홈런'하재훈전격방출...이숭용\"열심히했던거...",
     "통신3사,작년정보보안투자22%증가…올해4000억돌파전망",
     "SK케미칼,유연성높인데코시트개발…가구·인테리어용표면마감재에...",
     "정치권은'전남·광주반도체'흔들지말라",
@@ -4530,10 +4523,17 @@
     "추미애경기도정출범…\"7조원채무속민생먼저\"",
     "SK지오센트릭,중소고객사와상생협력차원폴리머제품공급가인하",
     "삼전닉스‘성과급백지화공문설’확산에…정부“사실아냐”",
-    "세계에서가장싸게누리는사치[안재광의천만의동네]"
+    "세계에서가장싸게누리는사치[안재광의천만의동네]",
+    "현대모비스이대헌,유도훈정관장감독과재회…김경원과트레이드",
+    "SKT,T1체험형전시열고첫정보보호백서발간",
+    "케어랩스-굿닥,C레벨임원영입…아마존·삼성전자등비헬스케어출신",
+    "박태웅\"3대메가프로젝트,전기국가선언\"…AI거버넌스쟁점(김어준...",
+    "우상호강원도정1호결재는'AI'…강원,대한민국AI산업생태계거...",
+    "[민선9기출법]대한민국균형발전닻올렸다...첨단산업·메가시티청...",
+    "첫'원청상대하청노조파업'눈앞...건설플랜트노조파업투표가결"
    ],
    "initialized": true,
-   "last_run": "2026-07-01T12:40:34.064817+09:00"
+   "last_run": "2026-07-01T12:45:25.067935+09:00"
   }
  },
  "press_names": {
