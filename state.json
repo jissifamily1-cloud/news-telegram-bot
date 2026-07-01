@@ -578,10 +578,13 @@
     [
      "2026-07-02T07:13:25.764866+09:00",
      "삼전닉스 팔까 하락 전망은 가격 말까 메모리"
+    ],
+    [
+     "2026-07-02T07:15:24.747547+09:00",
+     "서비스 페이블 미토스는 재개 여전히 앤트로픽 해외제한"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04565766645510256",
     "https://www.jbnews.com/news/articleView.html?idxno=1506849",
     "https://en.yna.co.kr/view/AEN20260701005800320?input=2106m",
     "https://www.sisaon.co.kr/news/articleView.html?idxno=202310",
@@ -2080,10 +2083,10 @@
     "https://www.dailian.co.kr/news/view/1662259/?sc=Naver",
     "https://www.sidae.com/article/2026070115211614979",
     "https://www.aitimes.com/news/articleView.html?idxno=212308",
-    "https://biz.sbs.co.kr/article_hub/20000320177?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000320177?division=NAVER",
+    "https://www.yna.co.kr/view/AKR20260702012300091?input=1195m"
    ],
    "seen_titles": [
-    "\"공랭식열교환기글로벌탑티어\"…SNT에너지,북미셰일증산기조속...",
     "대한상의,美독립250주년맞아'주한미군채용플랫폼'확대…참여기...",
     "충북휘발윳값일주일새60원대급락…리터당1천950원대진입",
     "SKGroupretainstopspotinoperatingprofitoverSamsungGroupin2025",
@@ -3582,10 +3585,11 @@
     "배부른외국인,한국주식'팔자'행보언제까지",
     "메가프로젝트에미규제완화까지…ESS훈풍탄K배터리",
     "[7월1일]\"AI시대최대리스크는기술이아닌불평등\"…다시거론된'엥...",
-    "[증시전략]메모리가격하락?…삼전닉스팔까말까,전망은?"
+    "[증시전략]메모리가격하락?…삼전닉스팔까말까,전망은?",
+    "앤트로픽,'페이블'AI서비스재개…미토스는여전히해외제한"
    ],
    "initialized": true,
-   "last_run": "2026-07-02T07:13:25.764866+09:00"
+   "last_run": "2026-07-02T07:15:24.747547+09:00"
   }
  },
  "press_names": {
