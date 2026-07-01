@@ -462,10 +462,13 @@
     [
      "2026-07-02T01:00:53.412843+09:00",
      "플랜트 선언 노란봉투법 이후 파업 건설노조 하청"
+    ],
+    [
+     "2026-07-02T01:05:20.192454+09:00",
+     "발전비전 충청권 셀트 삼성 대통령 첨단산업 국민보고회"
     ]
    ],
    "seen_urls": [
-    "http://www.weeklytoday.com/news/articleView.html?idxno=782838",
     "https://www.etoday.co.kr/news/view/2599150",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=723595",
     "https://www.newscj.com/news/articleView.html?idxno=3413529",
@@ -1964,10 +1967,10 @@
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2218957",
     "https://imnews.imbc.com/replay/2026/nw2500/article/6834360_36989.html",
     "https://www.stnsports.co.kr/news/articleView.html?idxno=318550",
-    "https://www.chosun.com/national/labor/2026/07/02/76P7JBG3NVCXVKGZMRLAME4B5M/"
+    "https://www.chosun.com/national/labor/2026/07/02/76P7JBG3NVCXVKGZMRLAME4B5M/",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8600049"
    ],
    "seen_titles": [
-    "한투증권,첫‘성장형IMA’출시…투자자대상이벤트진행",
     "[위클리오늘]韓수출사상첫'월1000억달러'…중국,韓반도체공급...",
     "[종합]최태원\"기업이원하는건예측가능성\"…국회·경제계상설협...",
     "원/달러환율1559원돌파…17년만의최고치에금값도'들썩'",
@@ -3466,10 +3469,11 @@
     "성수석이천시장취임…\"미래산업과시민소통으로새도약\"",
     "'압도적'수출반도체‥\"속도감있는증설로\"",
     "'별따라T1만난다'...비마이프렌즈,암행천문팝업으로글로벌팬심...",
-    "플랜트건설노조,노란봉투법이후첫하청파업선언"
+    "플랜트건설노조,노란봉투법이후첫하청파업선언",
+    "이대통령,오늘충청권첨단산업발전비전국민보고회…삼성·SK·셀트..."
    ],
    "initialized": true,
-   "last_run": "2026-07-02T01:00:53.412843+09:00"
+   "last_run": "2026-07-02T01:05:20.192454+09:00"
   }
  },
  "press_names": {
