@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-01T18:20:40.166832+09:00",
-     "리빙 11시즌 KBO 연속 20홈런에 레전드 SSG 최정"
-    ],
-    [
      "2026-07-01T18:25:23.205669+09:00",
      "보답 부천으로 조용익 부천시장"
     ],
@@ -517,7 +513,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.todayeconomic.com/news/article.html?no=31134",
     "https://www.munhwa.com/article/11599549",
     "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1169541",
     "https://www.newspim.com/news/view/20260701000662",
@@ -2016,10 +2011,10 @@
     "http://www.kwangju.co.kr/article.php?aid=1782918600800788074",
     "https://www.kado.net/news/articleView.html?idxno=2059064",
     "https://www.hankookilbo.com/news/article/A2026070114360001234?did=NA",
-    "https://www.sentv.co.kr/article/view/sentv202607020001"
+    "https://www.sentv.co.kr/article/view/sentv202607020001",
+    "https://www.joongang.co.kr/article/25441722"
    ],
    "seen_titles": [
-    "SK,글로벌투자사KKR과신재생에너지기업출범시킨다",
     "AI데이터센터국가전략사업육성...2035년까지1000조원투입",
     "이통3사통합요금제격돌…가입자뺏어오기재점화",
     "레볼레이드제네릭마지막퍼즐'고용량'등장…변수될까",
@@ -3518,10 +3513,11 @@
     "반도체투자,호남에대한대통령의보상",
     "우상호'AI데이터센터'·강삼영'교권회복'",
     "[사설]전력27GW·용수65만톤조달,'어떻게'공란채워야",
-    "SK,글로벌사모펀드KKR'맞손'…국내최대신재생에너지기업출범"
+    "SK,글로벌사모펀드KKR'맞손'…국내최대신재생에너지기업출범",
+    "[정효식의시시각각]호남반도체,‘종이팹’그쳐선안된다"
    ],
    "initialized": true,
-   "last_run": "2026-07-02T00:20:39.825564+09:00"
+   "last_run": "2026-07-02T00:25:22.143635+09:00"
   }
  },
  "press_names": {
