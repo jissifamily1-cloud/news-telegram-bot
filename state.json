@@ -1546,16 +1546,13 @@
     [
      "2026-07-01T12:30:42.971401+09:00",
      "건설 정조준 코팅 신공장 반도체 체코에 코미코 세정 TSMC"
+    ],
+    [
+     "2026-07-01T12:35:19.637637+09:00",
+     "추미애 민생 채무 출범 경기도정 먼저 7조원"
     ]
    ],
    "seen_urls": [
-    "https://www.sisajournal.com/news/articleView.html?idxno=378228",
-    "https://news.jtbc.co.kr/article/NB12305856?influxDiv=NAVER",
-    "https://www.thelec.kr/news/articleView.html?idxno=58833",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260630190015MbI",
-    "https://www.hankookilbo.com/news/article/A2026063017300000063?did=NA",
-    "https://news.bizwatch.co.kr/article/mobile/2026/06/30/0051",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1782810289&code=11121600&cp=nv",
     "https://biz.heraldcorp.com/article/10793554",
     "http://www.finomy.com/news/articleView.html?idxno=256584",
     "http://www.econonews.co.kr/news/articleView.html?idxno=440461",
@@ -3048,16 +3045,16 @@
     "https://www.dkilbo.com/news/articleView.html?idxno=547431",
     "https://www.wikitree.co.kr/articles/1144111",
     "https://www.veritas-a.com/news/articleView.html?idxno=617418",
-    "https://www.thelec.kr/news/articleView.html?idxno=58836"
+    "https://www.thelec.kr/news/articleView.html?idxno=58836",
+    "https://www.xportsnews.com/article/2166703",
+    "http://www.fnnews.com/news/202607011118096971",
+    "https://www.sentv.co.kr/article/view/sentv202607010051",
+    "http://www.weeklytoday.com/news/articleView.html?idxno=782838",
+    "https://www.etoday.co.kr/news/view/2599150",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=723595",
+    "https://www.newscj.com/news/articleView.html?idxno=3413529"
    ],
    "seen_titles": [
-    "日구마모토TSMC,2년반만에준공…정부지원이속도좌우",
-    "'비내리는호남'의개벽…소외지역서제2의반도체영토예고",
-    "9년→4년\"임기내완공\"속도전…'가오슝모델'뭐길래",
-    "이대통령\"호남·용인반도체동시조성...이재용·최태원회장약속\"",
-    "800조반도체기대감확산…부동산·상권'들썩'",
-    "李\"반도체투자,호남에역사적보상...차질없이반드시성공시킬것...",
-    "SK텔레콤,정보보호1434억원투자…보안역량강화",
     "李“호남홀대의역사교정할수있어참기쁘다”",
     "“GS·SK,강원에100조투자,빠른공사다각지원..18개시군골고루혜...",
     "SK하이닉스,서남권에400조규모반도체클러스터조성추진",
@@ -4550,10 +4547,17 @@
     "【기자수첩】호남반도체클러스터,'인·수·전'의벽에부딪히다",
     "상한가찍은'이곳'…주가가급등한이유는?",
     "고려대박물관특별전'노년을넘어숙년의시간'..9월12일까지",
-    "코미코,체코에반도체세정·코팅신공장건설…TSMC정조준"
+    "코미코,체코에반도체세정·코팅신공장건설…TSMC정조준",
+    "'월드컵참사'지켜본벤투입열다…\"1에서10까지원점서돌아보며재...",
+    "재계만난조정식\"입법예측가능성높여기업지원\"",
+    "한투증권,첫‘성장형IMA’출시…투자자대상이벤트진행",
+    "[위클리오늘]韓수출사상첫'월1000억달러'…중국,韓반도체공급...",
+    "[종합]최태원\"기업이원하는건예측가능성\"…국회·경제계상설협...",
+    "원/달러환율1559원돌파…17년만의최고치에금값도'들썩'",
+    "추미애경기도정출범…\"7조원채무속민생먼저\""
    ],
    "initialized": true,
-   "last_run": "2026-07-01T12:30:42.971401+09:00"
+   "last_run": "2026-07-01T12:35:19.637637+09:00"
   }
  },
  "press_names": {
