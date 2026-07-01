@@ -1350,13 +1350,21 @@
     [
      "2026-07-01T20:55:22.010919+09:00",
      "이재준 수원시장 대전환의 완성 수원 첫발"
+    ],
+    [
+     "2026-07-01T21:05:21.968744+09:00",
+     "삼전닉스가 끝이 아니다 NEXT"
+    ],
+    [
+     "2026-07-01T21:05:21.968744+09:00",
+     "주요기사 비즈니스포스트 아침의"
+    ],
+    [
+     "2026-07-01T21:05:21.968744+09:00",
+     "광주 삼성은 서남권 SK는 어디에 반도체 벨트"
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/economy/industry/2026/07/01/20260701500095?wlog_tag3=naver",
-    "https://biz.heraldcorp.com/article/10794399",
-    "http://www.wsobi.com/news/articleView.html?idxno=314551",
-    "https://www.bntnews.co.kr/article/view/bnt202607010159",
     "https://www.sisajournal.com/news/articleView.html?idxno=378292",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607010326&t=NN",
     "https://magazine.hankyung.com/business/article/202607019082b",
@@ -2852,13 +2860,13 @@
     "https://www.polinews.co.kr/news/articleView.html?idxno=735722",
     "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260701010&PRO_CODE=4",
     "https://www.kgnews.co.kr/news/article.html?no=902320",
-    "https://www.etnews.com/20260701000612"
+    "https://www.etnews.com/20260701000612",
+    "https://www.dailian.co.kr/news/view/1662343/?sc=Naver",
+    "https://www.mk.co.kr/article/12083836",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=441350",
+    "https://ysmbc.co.kr/NewsArticle/1525618"
    ],
    "seen_titles": [
-    "주성엔지니어링주가장중17%대급등,메모리투자확대기대감반영",
-    "“삼전닉스성과급백지화공문”직장인발칵뒤집혔는데…노동부“...",
-    "“깎아달라”“못내린다”…용인기흥은‘줄다리기중’",
-    "삼성전자·SKT,8세대폴더블폰라인업재편·T1과신규전시개최",
     "제주vs뮌헨친선전,선예매5분만에매진",
     "서학개미,국내장서다시미국으로…순매수1위는스페이스X",
     "한국투자증권,국내첫'성장형IMA'선봬…1200억원모집",
@@ -4354,10 +4362,14 @@
     "[민선9기]125만시민과꿈꾸는수원대전환…이재준수원시장\"수원역...",
     "첫숙제는'도정현안의정부정책반영'",
     "이재준수원시장,수원대전환의완성위해첫발",
-    "첫결재부터반도체로직행…이상일용인시장,클러스터속도전"
+    "첫결재부터반도체로직행…이상일용인시장,클러스터속도전",
+    "[데일리안오늘뉴스종합]호남반도체800조원딜레마,與전대앞두고...",
+    "삼전닉스가끝이아니다…NEXT",
+    "[7월2일자]비즈니스포스트아침의주요기사",
+    "삼성은광주,SK는\"서남권\"…반도체벨트어디에"
    ],
    "initialized": true,
-   "last_run": "2026-07-01T21:00:50.713149+09:00"
+   "last_run": "2026-07-01T21:05:21.968744+09:00"
   }
  },
  "press_names": {
