@@ -293,7 +293,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/sports/basketball/6214235",
     "https://www.polinews.co.kr/news/articleView.html?idxno=735622",
     "https://zdnet.co.kr/view/?no=20260630172028",
     "https://www.topstarnews.net/news/articleView.html?idxno=16119462",
@@ -1792,10 +1791,10 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=1782897984&code=11151400&cp=nv",
     "https://weeklytrade.co.kr/news/view.html?section=1&category=3&no=100449",
     "https://www.kyeonggi.com/article/20260701580675",
-    "https://www.g-enews.com/view.php?ud=202607011822192307fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202607011822192307fbbec65dfb_1",
+    "https://www.thereport.co.kr/news/articleView.html?idxno=89262"
    ],
    "seen_titles": [
-    "세계에서가장싸게누리는사치[안재광의천만의동네]",
     "현대모비스이대헌,유도훈정관장감독과재회…김경원과트레이드",
     "SKT,T1체험형전시열고첫정보보호백서발간",
     "케어랩스-굿닥,C레벨임원영입…아마존·삼성전자등비헬스케어출신",
@@ -3294,10 +3293,11 @@
     "‘메모리한파’겪은삼성·SK…호남투자도완급조절관측",
     "[김보근칼럼]이재명대통령의통합리더십,마침내반도체투자라는...",
     "[김종구칼럼]정부의반도체언어,차라리쉽게말하라",
-    "AI투자2단계진입…엔비디아독점구조깨지고경쟁체제로"
+    "AI투자2단계진입…엔비디아독점구조깨지고경쟁체제로",
+    "추미애,첫결재로반도체속도전…'5년내생산능력2배'실행력이관..."
    ],
    "initialized": true,
-   "last_run": "2026-07-02T03:30:45.744961+09:00"
+   "last_run": "2026-07-02T03:35:22.960187+09:00"
   }
  },
  "press_names": {
