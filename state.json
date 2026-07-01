@@ -338,10 +338,13 @@
     [
      "2026-07-02T02:10:37.586436+09:00",
      "메모리 겪은 호남 투자도 한파 삼성 관측 완급조절"
+    ],
+    [
+     "2026-07-02T03:05:20.176512+09:00",
+     "정부의 언어 차라리 반도체 말하라 쉽게"
     ]
    ],
    "seen_urls": [
-    "https://www.joongang.co.kr/article/25441504",
     "https://magazine.hankyung.com/business/article/202606246198b",
     "https://www.news1.kr/sports/basketball/6214235",
     "https://www.polinews.co.kr/news/articleView.html?idxno=735622",
@@ -1840,10 +1843,10 @@
     "http://www.impacton.net/news/articleView.html?idxno=19454",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2219473",
     "https://www.kmib.co.kr/article/view.asp?arcid=1782897984&code=11151400&cp=nv",
-    "https://weeklytrade.co.kr/news/view.html?section=1&category=3&no=100449"
+    "https://weeklytrade.co.kr/news/view.html?section=1&category=3&no=100449",
+    "https://www.kyeonggi.com/article/20260701580675"
    ],
    "seen_titles": [
-    "SK지오센트릭,중소고객사와상생협력차원폴리머제품공급가인하",
     "삼전닉스‘성과급백지화공문설’확산에…정부“사실아냐”",
     "세계에서가장싸게누리는사치[안재광의천만의동네]",
     "현대모비스이대헌,유도훈정관장감독과재회…김경원과트레이드",
@@ -3342,10 +3345,11 @@
     "【박란희의TalkTalk】ESG낭만주의의종말...최고해석자의시대가온다",
     "추미애경기지사,취임첫결재는'K-반도체혁신대책'",
     "‘메모리한파’겪은삼성·SK…호남투자도완급조절관측",
-    "[김보근칼럼]이재명대통령의통합리더십,마침내반도체투자라는..."
+    "[김보근칼럼]이재명대통령의통합리더십,마침내반도체투자라는...",
+    "[김종구칼럼]정부의반도체언어,차라리쉽게말하라"
    ],
    "initialized": true,
-   "last_run": "2026-07-02T03:00:50.982933+09:00"
+   "last_run": "2026-07-02T03:05:20.176512+09:00"
   }
  },
  "press_names": {
