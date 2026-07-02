@@ -654,12 +654,13 @@
     [
      "2026-07-03T08:20:47.471855+09:00",
      "3일 조간"
+    ],
+    [
+     "2026-07-03T08:25:20.689530+09:00",
+     "생산 대형 앤트로픽 삼성전자와 기대감 파운드리 논의 수주"
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/economy/2339074.htm",
-    "https://www.etoday.co.kr/news/view/2599539",
-    "https://www.mk.co.kr/article/12088828",
     "https://www.newsis.com/view/NISX20260702_0003692893",
     "https://www.news1.kr/economy/trend/6215726",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260702010000956",
@@ -2156,12 +2157,12 @@
     "http://www.wsobi.com/news/articleView.html?idxno=314662",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=264950",
     "https://www.etoday.co.kr/news/view/2599861",
-    "https://www.yna.co.kr/view/AKR20260703012900011?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260703012900011?input=1195m",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553346633",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=723737",
+    "https://www.joongangenews.com/news/articleView.html?idxno=530232"
    ],
    "seen_titles": [
-    "SK텔레콤,한국서비스품질지수'27년연속1위'수성",
-    "민형배시장,첫행보는'한전'…반도체전력망점검",
-    "삼성·SK·셀트리온등,충청에392조원투자",
     "SK하이닉스,청주에100兆투자…낸드‘수퍼사이클’승부수",
     "SK주가,7월2일장중689,000원9.70%하락",
     "삼성8조투자에조상호\"전과정,전폭지원\"",
@@ -3658,10 +3659,13 @@
     "건국대,엑소좀치료기술개발...세계행정학회서울대회개최...미래자...",
     "상상인증권\"SK하이닉스,소음보다이익봐야\"",
     "[오늘의투자전략]美고용부진속혼조…코스피는반등전망",
-    "[전국주요신문톱뉴스](3일조간)"
+    "[전국주요신문톱뉴스](3일조간)",
+    "제주SKFC,FC바이에른뮌헨전일반예매7월14일오후6시오픈",
+    "[프리마켓포커스]美반도체반등실패,개장전1%↓…삼전·닉스약세",
+    "앤트로픽,삼성전자와AI칩생산논의…파운드리대형수주기대감커..."
    ],
    "initialized": true,
-   "last_run": "2026-07-03T08:20:47.471855+09:00"
+   "last_run": "2026-07-03T08:25:20.689530+09:00"
   }
  },
  "press_names": {
