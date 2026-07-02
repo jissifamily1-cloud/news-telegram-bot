@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-03T00:20:41.995905+09:00",
-     "호황 바꾸자 미래의 반도체 자산으로"
-    ],
-    [
-     "2026-07-03T00:20:41.995905+09:00",
-     "반도체 광주가 정치 넘는"
-    ],
-    [
-     "2026-07-03T00:20:41.995905+09:00",
-     "깨우고 일본을 잠자던 있다 경제안보가"
-    ],
-    [
      "2026-07-03T00:25:21.989077+09:00",
      "묻히면 낙관론에 된다 반도체"
     ],
@@ -374,13 +362,21 @@
     [
      "2026-07-03T06:20:21.405323+09:00",
      "낙관론 SK하이닉스가 리스크 꼽은 신중론"
+    ],
+    [
+     "2026-07-03T06:25:21.576343+09:00",
+     "박탈감 살아남기 시대"
+    ],
+    [
+     "2026-07-03T06:25:21.576343+09:00",
+     "극찬에도 위대한 트럼프 내리막 주가 기업 마이크론"
+    ],
+    [
+     "2026-07-03T06:25:21.576343+09:00",
+     "생각 압박한다고 투자를 삼성이 구태적"
     ]
    ],
    "seen_urls": [
-    "https://www.ccreview.co.kr/news/articleView.html?idxno=351826",
-    "https://www.ngetnews.com/news/articleView.html?idxno=551231",
-    "https://www.mk.co.kr/article/12088796",
-    "https://news.skbroadband.com/news/articleView.html?idxno=230973",
     "http://www.press9.kr/news/articleView.html?idxno=78828",
     "https://www.m-i.kr/news/articleView.html?idxno=1387716",
     "https://www.etoday.co.kr/news/view/2599675",
@@ -1876,13 +1872,13 @@
     "https://www.news2day.co.kr/article/20260703500014",
     "https://www.g-enews.com/view.php?ud=202607030606588502e250e8e188_1",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008639662&plink=ORI&cooper=NAVER",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092165028"
+    "https://it.chosun.com/news/articleView.html?idxno=2023092165028",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607030190&t=NN",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607021401451460732",
+    "https://www.newspim.com/news/view/20260703000021",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6834671_37012.html"
    ],
    "seen_titles": [
-    "SK하이닉스,충청권반도체투자계획발표...청주낸드거점강화",
-    "세종시출범이래최대규모8조투자유치성과",
-    "[regionalIssue]Samsung,SKhynixPledge310TrillionWonin'Chungch",
-    "충남도,삼성전자등대기업충청권투자적극지원",
     "이대통령,'공장입지부족'이재용설명에\"아래쪽에는땅많습니다\"",
     "거래소도'애프터마켓'공식화…유동성쟁탈전막오른다",
     "SK텔레콤,퀀텀코리아서AI·6G대비…차세대양자암호기술총출동",
@@ -3378,10 +3374,14 @@
     "[N2모닝경제브리핑-7월3일]美증시,다우1.1%올라사상최고…고...",
     "\"AI랠리끝났나\"…메모리과잉경고에샌디스크·마이크론이틀째폭락",
     "[모닝와이드]오늘의주요뉴스",
-    "AI낙관론속신중론…SK하이닉스가꼽은최대리스크"
+    "AI낙관론속신중론…SK하이닉스가꼽은최대리스크",
+    "'반도체,더갈까?\"의문에'삼전닉스'개미'술렁'…\"실적에향방달렸...",
+    "[언주로칼럼]박탈감시대살아남기",
+    "[미국특징주]마이크론,트럼프\"위대한기업\"극찬에도주가내리막",
+    "이\"압박한다고삼성이투자를?‥구태적생각\""
    ],
    "initialized": true,
-   "last_run": "2026-07-03T06:20:21.405323+09:00"
+   "last_run": "2026-07-03T06:25:21.576343+09:00"
   }
  },
  "press_names": {
