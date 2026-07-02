@@ -358,15 +358,25 @@
     [
      "2026-07-03T06:15:27.233032+09:00",
      "가격 저가공세 넘어 반도체 중국 성공할까 기술경쟁 경쟁"
+    ],
+    [
+     "2026-07-03T06:20:21.405323+09:00",
+     "증시 최고 다우 올라 사상"
+    ],
+    [
+     "2026-07-03T06:20:21.405323+09:00",
+     "과잉 마이크론 메모리 경고에 샌디스크 랠리 폭락 끝났나 이틀째"
+    ],
+    [
+     "2026-07-03T06:20:21.405323+09:00",
+     "오늘의 주요뉴스"
+    ],
+    [
+     "2026-07-03T06:20:21.405323+09:00",
+     "낙관론 SK하이닉스가 리스크 꼽은 신중론"
     ]
    ],
    "seen_urls": [
-    "https://www.inthenews.co.kr/news/article.html?no=88873",
-    "https://www.hankookilbo.com/news/article/A2026070214170002487?did=NA",
-    "http://www.yonhapnewstv.co.kr/news/AKR2026070214543017s",
-    "https://www.newsis.com/view/NISX20260702_0003693550",
-    "http://www.fnnews.com/news/202607021414130715",
-    "https://www.ytn.co.kr/_ln/0101_202607021454118539",
     "https://www.ccreview.co.kr/news/articleView.html?idxno=351826",
     "https://www.ngetnews.com/news/articleView.html?idxno=551231",
     "https://www.mk.co.kr/article/12088796",
@@ -1860,15 +1870,15 @@
     "https://www.hitnews.co.kr/news/articleView.html?idxno=77339",
     "https://www.hitnews.co.kr/news/articleView.html?idxno=77369",
     "https://www.mk.co.kr/article/12089500",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1714842"
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1714842",
+    "https://www.news1.kr/sports/soccer/6216280",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6834668_37012.html",
+    "https://www.news2day.co.kr/article/20260703500014",
+    "https://www.g-enews.com/view.php?ud=202607030606588502e250e8e188_1",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008639662&plink=ORI&cooper=NAVER",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092165028"
    ],
    "seen_titles": [
-    "곽노정SK하이닉스사장\"낸드부족대응위해청주에100조투자…가장...",
-    "삼성·SK,충청권에240조대규모투자보따리…삼성최첨단'HBM팹',SK...",
-    "삼전닉스도'메타·애플發악재'쇼크…주가7%이상하락",
-    "\"충청을글로벌허브로\"이재용결단에李대통령\"故이병철회장떠올...",
-    "삼성·SK하이닉스,충청권첨단산업총240조투자···반도체·디스플...",
-    "삼성·SK,충청에240조투자…AI반도체거점키운다",
     "SK하이닉스,충청권반도체투자계획발표...청주낸드거점강화",
     "세종시출범이래최대규모8조투자유치성과",
     "[regionalIssue]Samsung,SKhynixPledge310TrillionWonin'Chungch",
@@ -3362,10 +3372,16 @@
     "\"DXVX,비만·항암·안구건조증신약물질사업개발에주력\"",
     "동아엑스코프리,약평위통과…국산뇌전증신약급여희망적",
     "깐부만나러전세계일주하는총수들…전용기만17대라는데",
-    "저가공세중국반도체…가격경쟁넘어기술경쟁성공할까"
+    "저가공세중국반도체…가격경쟁넘어기술경쟁성공할까",
+    "'월드컵아쉬움'다시뛰는K리그사랑으로…내일부터재개",
+    "메타가쏜'과잉투자'우려‥반도체주폭락",
+    "[N2모닝경제브리핑-7월3일]美증시,다우1.1%올라사상최고…고...",
+    "\"AI랠리끝났나\"…메모리과잉경고에샌디스크·마이크론이틀째폭락",
+    "[모닝와이드]오늘의주요뉴스",
+    "AI낙관론속신중론…SK하이닉스가꼽은최대리스크"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T06:15:27.233032+09:00"
+   "last_run": "2026-07-03T06:20:21.405323+09:00"
   }
  },
  "press_names": {
