@@ -366,12 +366,17 @@
     [
      "2026-07-03T06:40:38.219124+09:00",
      "바닥 드러나나 가뭄 관심 경보 늦장마에 발령"
+    ],
+    [
+     "2026-07-03T06:50:36.730690+09:00",
+     "최고치 상황서 하락 마감 다우 반도체 뉴욕증시 혼조 이틀째 나스닥"
+    ],
+    [
+     "2026-07-03T06:50:36.730690+09:00",
+     "셀트리온 투자 회장 격려 2조 대통령 서정진"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/202607022091g",
-    "https://biz.heraldcorp.com/article/10796211",
-    "http://www.metroseoul.co.kr/article/20260702500342",
     "https://www.getnews.co.kr/news/articleView.html?idxno=873958",
     "https://www.newspim.com/news/view/20260702000875",
     "https://www.sedaily.com/article/20063069",
@@ -1868,12 +1873,12 @@
     "http://www.newsian.co.kr/news/articleView.html?idxno=91734",
     "https://news.tvchosun.com/site/data/html_dir/2026/07/03/2026070390023.html",
     "https://news.bizwatch.co.kr/article/real_estate/2026/07/01/0034",
-    "https://imnews.imbc.com/replay/2026/nwtoday/article/6834678_37012.html"
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6834678_37012.html",
+    "http://www.itdaily.kr/news/articleView.html?idxno=240207",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=874005",
+    "https://www.dailymedi.com/news/news_view.php?wr_id=938009"
    ],
    "seen_titles": [
-    "당복귀한김민석,첫지역일정'청주육거리시장·SK하이닉스찾은이...",
-    "SK바이오사이언스,'ROTOR'프로젝트주관기관선정外",
-    "SKT,한국서비스품질지수‘27년연속1위’…최장기1위",
     "SK바이오사이언스,게이츠재단과AI임상지원플랫폼개발한다",
     "노동부,'삼성·SK투자'서남권반도체인력양성논의…\"직능개발지...",
     "\"반도체인재키우자\"…전남광주로향한김영훈노동장관",
@@ -3370,10 +3375,13 @@
     "[하반기증시전망①]'1만피'바라보는코스피…상단최고1만5000피",
     "전당대회앞두고모인민주당…김민석·정청래·송영길신경전속워크...",
     "한발빠른'김용범페북'…더강한부동산규제나오나",
-    "[전국톡톡]\"가뭄관심경보발령\"‥늦장마에댐바닥드러나나?"
+    "[전국톡톡]\"가뭄관심경보발령\"‥늦장마에댐바닥드러나나?",
+    "'포스트용인'꺼낸삼전닉스…896조투자,반도체지도바꾼다",
+    "뉴욕증시,이틀째반도체하락상황서혼조마감…다우최고치·나스닥...",
+    "셀트리온2조투자…이대통령,서정진회장격려"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T06:45:24.616166+09:00"
+   "last_run": "2026-07-03T06:50:36.730690+09:00"
   }
  },
  "press_names": {
