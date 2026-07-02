@@ -462,13 +462,13 @@
     [
      "2026-07-03T07:10:38.548708+09:00",
      "앤트로픽 쓴다 리듬 한국은 투자 판단에 따라 생활"
+    ],
+    [
+     "2026-07-03T07:15:24.511057+09:00",
+     "이틀째 반도체지수 필라델피아 급락"
     ]
    ],
    "seen_urls": [
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4092761",
-    "https://www.newsis.com/view/NISX20260702_0003693599",
-    "https://www.koreatimes.co.kr/path/A2026070210490003264",
-    "https://www.joongang.co.kr/article/25441898",
     "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260702512&PRO_CODE=99",
     "https://www.newsway.co.kr/news/view?ud=2026070211121632509",
     "http://www.lak.co.kr/news/boardview.php?id=23424",
@@ -1964,13 +1964,13 @@
     "https://www.kbmaeil.com/article/20260703500011",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5203543",
     "https://www.ceoscoredaily.com/page/view/2026070215425581738",
-    "http://www.itdaily.kr/news/articleView.html?idxno=240209"
+    "http://www.itdaily.kr/news/articleView.html?idxno=240209",
+    "https://www.sportsworldi.com/newsView/20260703502095",
+    "https://biz.sbs.co.kr/article_hub/20000320446?division=NAVER",
+    "https://news.jtbc.co.kr/article/NB12306348?influxDiv=NAVER",
+    "https://www.bntnews.co.kr/article/view/bnt202607030014"
    ],
    "seen_titles": [
-    "바이오눈독들이는전통산업,…M&A계속되나",
-    "[현장]3대메가프로젝트의최대걸림돌은?전문가들\"규제완화,세제...",
-    "우리투자증권,6000억인수금융주선…SK울산GPS·멀티유틸리티딜클로...",
-    "삼성-SK하이닉스,충청에240조투자…이재용\"IT소재부품글로벌허브로...",
     "SKT,한국서비스품질지수‘27년연속’1위",
     "충청권392조중충남202조투자,'AI초격차'이끈다",
     "'60조자산·수천억배당'이재용vs'최저임금'하청…삼성내양극화의...",
@@ -3466,10 +3466,14 @@
     "이대통령,영남권첨단산업투자본격화…“기업이선택한최적의입지",
     "7월3일굿모닝MBN주요뉴스",
     "[이달의주식부호]반도체열풍에최태원SK회장‘톱5’…소부장기업...",
-    "[AI리캡]앤트로픽\"AI,생활리듬따라쓴다\"…한국은투자판단에애..."
+    "[AI리캡]앤트로픽\"AI,생활리듬따라쓴다\"…한국은투자판단에애...",
+    "울산에릭·전북박지수컴백…재개되는K리그1달굴천군만마",
+    "[증시전략]나스닥20%랠리의'착시'…반도체몇종목이올렸다",
+    "'392조'품는충청권첨단산업…이대통령\"대한민국미래향한선언\"",
+    "필라델피아반도체지수,이틀째급락…11%↓"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T07:10:38.548708+09:00"
+   "last_run": "2026-07-03T07:15:24.511057+09:00"
   }
  },
  "press_names": {
