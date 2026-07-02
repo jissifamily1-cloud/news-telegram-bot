@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-02T23:55:22.303235+09:00",
-     "매출 곪았다 속은 급감에 SK브로드밴드 이익 늘었지만 온실가스"
-    ],
-    [
      "2026-07-03T00:05:24.159579+09:00",
      "천문학적 반도체 글로벌 쓸어담는 영업이익 회사들"
     ],
@@ -318,10 +314,13 @@
     [
      "2026-07-03T05:50:38.646946+09:00",
      "없어 초과세수로 결정된 미토스 정부 개발"
+    ],
+    [
+     "2026-07-03T06:00:49.773760+09:00",
+     "신흥국 바이오 탑티어 지목 제약 한미약품 SK바이오팜"
     ]
    ],
    "seen_urls": [
-    "https://www.delighti.co.kr/news/articleView.html?idxno=118508",
     "http://www.weeklytoday.com/news/articleView.html?idxno=783197",
     "https://www.news1.kr/local/sejong-chungbuk/6215902",
     "https://www.sedaily.com/article/20063060",
@@ -1820,10 +1819,10 @@
     "https://www.munhwa.com/article/11599957",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607021142472740703",
     "http://www.fnnews.com/news/202607022111528062",
-    "https://biz.sbs.co.kr/article_hub/20000320439?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000320439?division=NAVER",
+    "https://www.monews.co.kr/news/articleView.html?idxno=412298"
    ],
    "seen_titles": [
-    "삼성전기8조베팅…세종,AI기판생산거점부상",
     "[인터뷰]재선의역사를쓴이상일용인특례시장…\"반도체로150만광역시...",
     "조상호세종시장,'8조+5,500억'대형투자보따리풀었다",
     "[윤두영칼럼]큰연못으로가는길,공짜점심은없다",
@@ -3322,10 +3321,11 @@
     "‘삼전닉스’에60%쏠린코스피…“韓증시구조적불안”-WSJ",
     "美ADR상장앞둔SK하이닉스…1100조투자계획SEC신고서담은이유",
     "'삼전·하이닉스'에쏠린비극…코스피7600선붕괴,개미들'패닉'",
-    "정부,초과세수로'미토스'급AI개발?…\"결정된바없어\""
+    "정부,초과세수로'미토스'급AI개발?…\"결정된바없어\"",
+    "한미약품·SK바이오팜,제약·바이오신흥국탑티어지목"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T05:55:20.949206+09:00"
+   "last_run": "2026-07-03T06:00:49.773760+09:00"
   }
  },
  "press_names": {
@@ -3786,6 +3786,7 @@
   "thereport.co.kr": "더리포트",
   "okfashion.co.kr": "okfashion.co.kr",
   "news.mbccb.co.kr": "MBC충북",
-  "tennispeople.kr": "tennispeople.kr"
+  "tennispeople.kr": "tennispeople.kr",
+  "monews.co.kr": "메디칼업저버"
  }
 }
