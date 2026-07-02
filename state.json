@@ -270,11 +270,13 @@
     [
      "2026-07-03T04:45:23.835594+09:00",
      "마이크론 공포에 샌디 피크아웃 반도체 털썩"
+    ],
+    [
+     "2026-07-03T04:55:21.676167+09:00",
+     "기업들 떠는 과징금 솜방망이 폭탄 처벌은 끝났다"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/GYH20260702000300044?input=1363m",
-    "https://www.mt.co.kr/stock/2026/07/02/2026070213455681293",
     "https://www.mt.co.kr/tech/2026/07/02/2026070210050950580",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1714871",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=204349",
@@ -1772,11 +1774,11 @@
     "https://www.donga.com/news/Politics/article/all/20260703/134228306/2",
     "https://www.donga.com/news/Politics/article/all/20260703/134228308/2",
     "https://www.ekn.kr/web/view.php?key=20260703023118832",
-    "https://www.mediapen.com/news/view/1107970"
+    "https://www.mediapen.com/news/view/1107970",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3625089",
+    "https://magazine.hankyung.com/business/article/202606256820b"
    ],
    "seen_titles": [
-    "제주SKFC이탈로'부상복귀'김천원정승리정조준",
-    "AItoboostKoreagrowth,butdemandremainskey:S&P",
     "SK텔레콤,한국서비스품질지수서27년연속1위달성",
     "SKT,27년연속서비스1위...KS-SQI전산업군최장기기록",
     "광주최초디벨로퍼형복합개발'챔피언스시티1차'9월분양",
@@ -3274,10 +3276,12 @@
     "“이병철회장의도쿄선언떠올라”삼성투자치켜세운李",
     "李“요즘세상에압력넣는다고옮기는기업있나”특혜론반박",
     "[패트롤]수원시-용인시-화성시-경기광주시-성남시",
-    "[美증시특징주]반도체AI피크아웃공포에또'털썩'...마이크론·샌디..."
+    "[美증시특징주]반도체AI피크아웃공포에또'털썩'...마이크론·샌디...",
+    "이재명대통령,충청첨단산업혁신중심지선언…AI시대선도강조",
+    "솜방망이처벌은끝났다...'과징금폭탄'에떠는기업들"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T04:50:35.594695+09:00"
+   "last_run": "2026-07-03T04:55:21.676167+09:00"
   }
  },
  "press_names": {
