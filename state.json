@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-02T17:10:37.140802+09:00",
-     "괴물기업 SK하이닉스 영업이익 영업이익률 259조 목표가"
-    ],
-    [
-     "2026-07-02T17:10:37.140802+09:00",
-     "통합요금제 LTE 통신3사 5G 비교해보니 다른지 뭐가"
-    ],
-    [
      "2026-07-02T17:15:26.780063+09:00",
      "한미 리더십 출범 위원회 암참 동맹 가속"
     ],
@@ -930,12 +922,17 @@
     [
      "2026-07-02T23:05:24.122326+09:00",
      "대통령 파이팅 외치는 기업인들과"
+    ],
+    [
+     "2026-07-02T23:10:39.957315+09:00",
+     "3대 9기 대전환 제시 민선 수원시장 이재준"
+    ],
+    [
+     "2026-07-02T23:10:39.957315+09:00",
+     "신규 상생협약 투입 협력사 반도체 3차 생태계에 4조"
     ]
    ],
    "seen_urls": [
-    "http://www.metroseoul.co.kr/article/20260702500279",
-    "https://www.ekn.kr/web/view.php?key=20260702021558614",
-    "https://www.thelec.kr/news/articleView.html?idxno=58954",
     "https://biz.chosun.com/policy/politics/assembly/2026/07/02/J7LZRSAIYZHRLBSNHCMAK6MNBQ/",
     "http://www.breaknews.com/1218658",
     "https://www.joongangenews.com/news/articleView.html?idxno=530066",
@@ -2432,12 +2429,12 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=07019206645510584",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465162",
     "https://www.newscj.com/news/articleView.html?idxno=3414113",
-    "https://www.segye.com/newsView/20260702515786?OutUrl=naver"
+    "https://www.segye.com/newsView/20260702515786?OutUrl=naver",
+    "https://www.ytn.co.kr/_ln/0102_202607022302065932",
+    "https://www.etnews.com/20260702000492",
+    "https://www.m-i.kr/news/articleView.html?idxno=1387833"
    ],
    "seen_titles": [
-    "이재명대통령\"충청을AI시대세계혁신중심지로\"…삼성·SK·셀트리온...",
-    "[기획]메타가던진'AI클라우드'변수…삼성·SK하이닉스주가랠리흔...",
-    "SK텔레콤,27년연속이동통신품질1위달성",
     "SKAX-한전,발전·에너지산업협력MOU",
     "SKBiosciencetoleadGates-backedAIvaccineproject",
     "건국대·SK,'세계행정학회2026서울대회'11월공동개최",
@@ -3934,10 +3931,13 @@
     "[포토]김재희,홀주변을살핀다",
     "외국인·기관'매도압력'에코스피'와르르'…개인투자자는6조'베팅'",
     "美반도체주급락여파에코스피7.89%추락…7600선마감",
-    "기업인들과파이팅외치는李대통령"
+    "기업인들과파이팅외치는李대통령",
+    "반도체한파에코스피7,600대로...하이닉스14%폭락",
+    "이재준수원시장,민선9기3대대전환제시",
+    "SK,1·2·3차협력사상생협약…반도체생태계에1.4조신규투입"
    ],
    "initialized": true,
-   "last_run": "2026-07-02T23:05:24.122326+09:00"
+   "last_run": "2026-07-02T23:10:39.957315+09:00"
   }
  },
  "press_names": {
