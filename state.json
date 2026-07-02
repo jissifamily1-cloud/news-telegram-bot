@@ -370,10 +370,13 @@
     [
      "2026-07-03T02:00:52.299759+09:00",
      "우리투자증권 시장 확대 영향력 6천억 성공으로 주선 인수금융 규모"
+    ],
+    [
+     "2026-07-03T02:35:22.923907+09:00",
+     "후원은 가능할까 이알라 권순우에게도 같은"
     ]
    ],
    "seen_urls": [
-    "https://www.koreaherald.com/article/10796151",
     "https://daily.hankooki.com/news/articleView.html?idxno=1382217",
     "https://www.dizzotv.com/site/data/html_dir/2026/07/02/2026070280107.html",
     "http://www.wikileaks-kr.org/news/articleView.html?idxno=189316",
@@ -1872,10 +1875,10 @@
     "https://www.seoul.co.kr/news/economy/2026/07/03/20260703500001?wlog_tag3=naver",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601091",
     "https://www.topstarnews.net/news/articleView.html?idxno=16121616",
-    "https://www.tokenpost.kr/news/economy/374649"
+    "https://www.tokenpost.kr/news/economy/374649",
+    "http://www.tennispeople.kr/news/articleView.html?idxno=18894"
    ],
    "seen_titles": [
-    "국가바우처한장에담았다…현대카드'국민행복카드'선보여",
     "셀트리온제약,PFS생산능력7000만시린지까지확대…생산시설1조원투...",
     "[오후장체크포인트]미국발반도체투매에코스피급락…8천선재이탈",
     "홈카페·홈술트렌드에활짝웃은SK매직,얼음정수기비중전체의40%돌...",
@@ -3374,10 +3377,11 @@
     "“‘빚투개미’3조원강제청산”…폭등장뒤숨은‘함정’",
     "이대통령,오늘영남권첨단산업국민보고회…삼성·SKT·현대차투자...",
     "\"약1억원손해,엉엉운거처음\"…미자,SK하이닉스투자실패담언급...",
-    "우리투자증권,6천억규모인수금융주선성공으로시장영향력확대"
+    "우리투자증권,6천억규모인수금융주선성공으로시장영향력확대",
+    "권순우에게도이알라같은후원은가능할까"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T02:30:51.299452+09:00"
+   "last_run": "2026-07-03T02:35:22.923907+09:00"
   }
  },
  "press_names": {
@@ -3837,6 +3841,7 @@
   "news.ebs.co.kr": "news.ebs.co.kr",
   "thereport.co.kr": "더리포트",
   "okfashion.co.kr": "okfashion.co.kr",
-  "news.mbccb.co.kr": "MBC충북"
+  "news.mbccb.co.kr": "MBC충북",
+  "tennispeople.kr": "tennispeople.kr"
  }
 }
