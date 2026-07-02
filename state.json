@@ -1025,8 +1025,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.newsprime.co.kr/news/article.html?no=738856",
-    "https://www.sidae.com/article/2026070214023084390",
     "https://www.sidae.com/article/2026070213503381304",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=167516",
     "https://www.ddaily.co.kr/page/view/2026070214164018484",
@@ -2524,11 +2522,11 @@
     "https://biz.heraldcorp.com/article/10796655",
     "http://www.ccnnews.co.kr/news/articleView.html?idxno=411551",
     "https://www.munhwa.com/article/11599945",
-    "http://www.yonhapnewstv.co.kr/news/MYH202607022242103Gq"
+    "http://www.yonhapnewstv.co.kr/news/MYH202607022242103Gq",
+    "https://www.tokenpost.kr/news/market/374591",
+    "https://www.ytn.co.kr/_ln/0101_202607022242329625"
    ],
    "seen_titles": [
-    "곽노정SK하이닉스사장\"청주에100조원투자…충청권AI반도체거점...",
-    "한미약품·SK바이오팜,글로벌바이오제약'혁신선도기업'에선정",
     "김정관산업장관“충청권투자위해강력한인센티브·규제완화”",
     "롯데카드,통신3사AI보이스피싱탐지연계…카드업계첫적용",
     "[단독]SK하이닉스,美HBM거점건설'암초'…주민들과본안소송",
@@ -4026,10 +4024,12 @@
     "코스피8%‘뚝’…급락장에초고수들이저가매수한‘톱3’는?",
     "'충청권392조투자'에세종강준현,김종민의원일제히환영",
     "“하반기만스피간다…뭐타고?반도체!”…증권가전망",
-    "[투나잇이슈]국조특위,송파구선관위·올림픽공원현장조사"
+    "[투나잇이슈]국조특위,송파구선관위·올림픽공원현장조사",
+    "삼성전자·SK하이닉스주가급락,한국증시전반적동요",
+    "이대통령\"지역투자,분열적접근안돼\"...'기업압박'주장도반박"
    ],
    "initialized": true,
-   "last_run": "2026-07-02T22:45:30.302064+09:00"
+   "last_run": "2026-07-02T22:50:38.849867+09:00"
   }
  },
  "press_names": {
