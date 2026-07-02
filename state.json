@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-02T22:40:39.706935+09:00",
-     "증권가 뭐타고 전망 반도체 하반기 간다 만스피"
-    ],
-    [
      "2026-07-02T22:45:30.302064+09:00",
      "국조특위 현장조사 선관위 송파구 올림픽공원"
     ],
@@ -270,11 +266,17 @@
     [
      "2026-07-03T04:40:37.993999+09:00",
      "기업 반박 옮기는 압력 있나 특혜론 넣는다고 요즘 세상에"
+    ],
+    [
+     "2026-07-03T04:45:23.835594+09:00",
+     "경기광주시 성남시 화성시 용인시 수원시"
+    ],
+    [
+     "2026-07-03T04:45:23.835594+09:00",
+     "마이크론 공포에 샌디 피크아웃 반도체 털썩"
     ]
    ],
    "seen_urls": [
-    "https://www.gukjenews.com/news/articleView.html?idxno=3624541",
-    "https://www.m-economynews.com/news/article.html?no=68365",
     "https://www.yna.co.kr/view/GYH20260702000300044?input=1363m",
     "https://www.mt.co.kr/stock/2026/07/02/2026070213455681293",
     "https://www.mt.co.kr/tech/2026/07/02/2026070210050950580",
@@ -1772,11 +1774,11 @@
     "https://www.donga.com/news/Society/article/all/20260703/134228304/2",
     "https://www.donga.com/news/Politics/article/all/20260703/134228628/2",
     "https://www.donga.com/news/Politics/article/all/20260703/134228306/2",
-    "https://www.donga.com/news/Politics/article/all/20260703/134228308/2"
+    "https://www.donga.com/news/Politics/article/all/20260703/134228308/2",
+    "https://www.ekn.kr/web/view.php?key=20260703023118832",
+    "https://www.mediapen.com/news/view/1107970"
    ],
    "seen_titles": [
-    "[SK재평가]②SK에코플랜트,건설사에서반도체인프라로",
-    "삼전·닉스,ETF시장서도'블랙홀'…변동성확대경고등",
     "제주SKFC이탈로'부상복귀'김천원정승리정조준",
     "AItoboostKoreagrowth,butdemandremainskey:S&P",
     "SK텔레콤,한국서비스품질지수서27년연속1위달성",
@@ -3274,10 +3276,12 @@
     "기후장관“광주팹전력수요늘땐신규원전검토”",
     "충청첨단산업도키운다…삼성-SK등392조투자",
     "“이병철회장의도쿄선언떠올라”삼성투자치켜세운李",
-    "李“요즘세상에압력넣는다고옮기는기업있나”특혜론반박"
+    "李“요즘세상에압력넣는다고옮기는기업있나”특혜론반박",
+    "[패트롤]수원시-용인시-화성시-경기광주시-성남시",
+    "[美증시특징주]반도체AI피크아웃공포에또'털썩'...마이크론·샌디..."
    ],
    "initialized": true,
-   "last_run": "2026-07-03T04:40:37.993999+09:00"
+   "last_run": "2026-07-03T04:45:23.835594+09:00"
   }
  },
  "press_names": {
