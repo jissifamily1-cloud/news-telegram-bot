@@ -278,10 +278,13 @@
     [
      "2026-07-03T03:35:23.107571+09:00",
      "금리인상 업종은 집은 전문가 안해 사세요 빠지면 증시"
+    ],
+    [
+     "2026-07-03T03:55:20.332669+09:00",
+     "혁신 육성 중심지 삼성 충청권에 240조원 SK하이닉스 투자해"
     ]
    ],
    "seen_urls": [
-    "https://www.obsnews.co.kr/news/articleView.html?idxno=1529338",
     "https://www.seoulfn.com/news/articleView.html?idxno=632508",
     "https://biz.chosun.com/stock/stock_general/2026/07/02/CWBIO2HPWJEOZJABJETYA67XLA/",
     "http://www.press9.kr/news/articleView.html?idxno=78825",
@@ -1780,10 +1783,10 @@
     "http://www.tennispeople.kr/news/articleView.html?idxno=18894",
     "https://www.g-enews.com/view.php?ud=2026070218161028892bd56fbc3c_1",
     "https://www.mt.co.kr/stock/2026/07/03/2026070215262325915",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=310537"
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=310537",
+    "https://www.g-enews.com/view.php?ud=202607021152398196ed0c62d49_1"
    ],
    "seen_titles": [
-    "메타\"남는GPU판다\"흔들린AI슈퍼사이클…거품인가,수익화시작인...",
     "노동부,서남권반도체인력생태계구축…맞춤형지원확대",
     "'상장폐지만6번'미자,또주식폭망…1억잃고♥김태현앞서오열",
     "SK하이닉스,충청권에100조투자…메모리반도체경쟁력견인",
@@ -3282,10 +3285,11 @@
     "권순우에게도이알라같은후원은가능할까",
     "로봇·방산올인,가와사키重2조원실탄조달",
     "\"美금리인상안해,증시빠지면사세요\"…전문가집은업종은[부꾸미]",
-    "민형배시장,한전찾아반도체전력망점검"
+    "민형배시장,한전찾아반도체전력망점검",
+    "삼성·SK하이닉스,충청권에240조원투자해'AI혁신중심지'육성"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T03:50:39.375520+09:00"
+   "last_run": "2026-07-03T03:55:20.332669+09:00"
   }
  },
  "press_names": {
