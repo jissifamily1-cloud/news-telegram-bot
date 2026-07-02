@@ -658,17 +658,21 @@
     [
      "2026-07-03T08:25:20.689530+09:00",
      "생산 대형 앤트로픽 삼성전자와 기대감 파운드리 논의 수주"
+    ],
+    [
+     "2026-07-03T08:30:43.946920+09:00",
+     "애플 CXMT 기폭제 되나 만지작 탑재 메모리 진화 생태계 반도체"
+    ],
+    [
+     "2026-07-03T08:30:43.946920+09:00",
+     "개막 KT까지 퀀텀코리아 아이온큐부터 SKT IBM"
+    ],
+    [
+     "2026-07-03T08:30:43.946920+09:00",
+     "서남권 허상 투자의 3200조"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260702_0003692893",
-    "https://www.news1.kr/economy/trend/6215726",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20260702010000956",
-    "https://www.kgnews.co.kr/news/article.html?no=902327",
-    "http://www.kdfnews.com/news/articleView.html?idxno=184824",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04716646645510584",
-    "https://biz.heraldcorp.com/article/10796253",
-    "https://www.etnews.com/20260702000117",
     "http://www.wikileaks-kr.org/news/articleView.html?idxno=189334",
     "https://www.naeil.com/news/read/593872",
     "https://www.idaegu.com/news/articleView.html?idxno=664053",
@@ -2160,17 +2164,17 @@
     "https://www.yna.co.kr/view/AKR20260703012900011?input=1195m",
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553346633",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=723737",
-    "https://www.joongangenews.com/news/articleView.html?idxno=530232"
+    "https://www.joongangenews.com/news/articleView.html?idxno=530232",
+    "https://news.mtn.co.kr/news-detail/2026070307551457957",
+    "https://biz.sbs.co.kr/article_hub/20000320469?division=NAVER",
+    "https://www.newsis.com/view/NISX20260703_0003694287",
+    "https://www.news1.kr/it-science/cc-newmedia/6216525",
+    "https://www.pennmike.com/news/articleView.html?idxno=123084",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1714948",
+    "https://www.ilovepc.co.kr/news/articleView.html?idxno=59921",
+    "https://dealsite.co.kr/articles/164633"
    ],
    "seen_titles": [
-    "SK하이닉스,청주에100兆투자…낸드‘수퍼사이클’승부수",
-    "SK주가,7월2일장중689,000원9.70%하락",
-    "삼성8조투자에조상호\"전과정,전폭지원\"",
-    "亞오후장중...한국·일본·중국증시'뚝',유럽증시선물'혼조'",
-    "삼성전기다음은삼성SDI·삼성디스플레이…성과급'밀당'도미노",
-    "권리당원1인1표첫전대…당권주자들전국‘당심잡기’본격화",
-    "[2026보안공시②]\"유출량보다피해에집중\"…사고겪은기업6곳,보...",
-    "정보공개했더니또논란…부산지하철E효율화사업'매칭사업비'공방",
     "400조,800조,호남에기대감돌리기…믿을수있나?[이양승칼럼:호...",
     "AI데이터센터발훈풍…전력기기3사,기술고도화로‘슈퍼사이클’주...",
     "미자,주식1억잃고오열했는데…\"손절다음날'몰빵'했다\"고백[MHN:...",
@@ -3662,10 +3666,18 @@
     "[전국주요신문톱뉴스](3일조간)",
     "제주SKFC,FC바이에른뮌헨전일반예매7월14일오후6시오픈",
     "[프리마켓포커스]美반도체반등실패,개장전1%↓…삼전·닉스약세",
-    "앤트로픽,삼성전자와AI칩생산논의…파운드리대형수주기대감커..."
+    "앤트로픽,삼성전자와AI칩생산논의…파운드리대형수주기대감커...",
+    "앤트로픽AI칩,삼성2나노생산추진..파운드리청신호",
+    "[어제장오늘장]메타의매타작에무너진반도체주…지금이매수적기?",
+    "KB證\"SK하이닉스,상승멈추지않는다…목표가420만원↑\"",
+    "\"제미나이할인받아쓰자\"…SKT,구글AI플랜출시",
+    "삼성전자파운드리,앤트로픽과AI칩생산논의···TSMC추격현실성...",
+    "애플'CXMT메모리'탑재만지작…中반도체생태계진화기폭제되나",
+    "IBM·아이온큐부터SKT·KT까지…'퀀텀코리아2026'개막",
+    "[데스크칼럼]서남권3200조투자의허상"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T08:25:20.689530+09:00"
+   "last_run": "2026-07-03T08:30:43.946920+09:00"
   }
  },
  "press_names": {
