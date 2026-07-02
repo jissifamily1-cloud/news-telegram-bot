@@ -454,14 +454,17 @@
     [
      "2026-07-03T07:05:23.432714+09:00",
      "매경이 세상의 전하는 지식 7월 3일"
+    ],
+    [
+     "2026-07-03T07:10:38.548708+09:00",
+     "기업 소부장 반도체 열풍에 톱5 최태원 회장"
+    ],
+    [
+     "2026-07-03T07:10:38.548708+09:00",
+     "앤트로픽 쓴다 리듬 한국은 투자 판단에 따라 생활"
     ]
    ],
    "seen_urls": [
-    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027825",
-    "http://www.newstomato.com/ReadNews.aspx?no=1305942&inflow=N",
-    "http://www.newswatch.kr/news/articleView.html?idxno=80307",
-    "https://www.yna.co.kr/view/AKR20260702044751001?input=1195m",
-    "https://www.dailian.co.kr/news/view/1662705/?sc=Naver",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4092761",
     "https://www.newsis.com/view/NISX20260702_0003693599",
     "https://www.koreatimes.co.kr/path/A2026070210490003264",
@@ -1956,14 +1959,14 @@
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607011333305080108917",
     "https://www.sedaily.com/article/20063277",
     "https://shindonga.donga.com/3/all/13/6288064/1",
-    "https://www.mk.co.kr/article/12089139"
+    "https://www.mk.co.kr/article/12089139",
+    "https://www.sedaily.com/article/20063299",
+    "https://www.kbmaeil.com/article/20260703500011",
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5203543",
+    "https://www.ceoscoredaily.com/page/view/2026070215425581738",
+    "http://www.itdaily.kr/news/articleView.html?idxno=240209"
    ],
    "seen_titles": [
-    "[기자수첩]李메가프로젝트'돈길',금융권이스스로움직일판을짜야",
-    "[조우현의아틀라스]\"압박없다\"는대통령,책임의무게도견디길",
-    "밸류업수혜주다시달린다…금융·보험주투자심리회복뚜렷",
-    "[더벨][thebellinterview|2026BIOUSA]에임드바이오\"ADC기술이전넘...",
-    "숙명여대,MS와함께‘정보보안인재양성과정’운영…재학생·지역...",
     "바이오눈독들이는전통산업,…M&A계속되나",
     "[현장]3대메가프로젝트의최대걸림돌은?전문가들\"규제완화,세제...",
     "우리투자증권,6000억인수금융주선…SK울산GPS·멀티유틸리티딜클로...",
@@ -3458,10 +3461,15 @@
     "[더벨][CompanyWatch]AI시대승부수던진SK,KKR과'10GW신재생기업...",
     "삼성140조·SK170조…충청에310조쏟아붓는다",
     "“반도체슬슬끝나간다?”…거장의대답은달랐다",
-    "매경이전하는세상의지식(매-세-지,7월3일)"
+    "매경이전하는세상의지식(매-세-지,7월3일)",
+    "“앤트로픽,삼성파운드리와AI칩생산논의”",
+    "이대통령,영남권첨단산업투자본격화…“기업이선택한최적의입지",
+    "7월3일굿모닝MBN주요뉴스",
+    "[이달의주식부호]반도체열풍에최태원SK회장‘톱5’…소부장기업...",
+    "[AI리캡]앤트로픽\"AI,생활리듬따라쓴다\"…한국은투자판단에애..."
    ],
    "initialized": true,
-   "last_run": "2026-07-03T07:05:23.432714+09:00"
+   "last_run": "2026-07-03T07:10:38.548708+09:00"
   }
  },
  "press_names": {
