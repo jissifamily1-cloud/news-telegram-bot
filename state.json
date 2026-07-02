@@ -5,22 +5,6 @@
    "recent_sigs": [
     [
      "2026-07-02T14:00:49.808741+09:00",
-     "용인 1100조 포스트 준비 시대 SK하이닉스 로드맵"
-    ],
-    [
-     "2026-07-02T14:00:49.808741+09:00",
-     "쿠팡 SK매직 이랜드 현대리바트"
-    ],
-    [
-     "2026-07-02T14:00:49.808741+09:00",
-     "풀려면 지역 갈등 활성화 난제 창업 통합특별시 위기 재정"
-    ],
-    [
-     "2026-07-02T14:00:49.808741+09:00",
-     "웃을까 하이닉스가 SK스퀘어는 나스닥은 가는데"
-    ],
-    [
-     "2026-07-02T14:00:49.808741+09:00",
      "SK스토아 이달 인수 스타트업 1위 안기는 T커머스 판가 라포랩스"
     ],
     [
@@ -1618,13 +1602,17 @@
     [
      "2026-07-02T18:55:20.552968+09:00",
      "애플도 구걸 대란에 메모리"
+    ],
+    [
+     "2026-07-02T19:00:51.367604+09:00",
+     "이재명 하트를 대통령이 셀카와 날린 곳은"
+    ],
+    [
+     "2026-07-02T19:00:51.367604+09:00",
+     "해상풍력 하부구조물 최대급 세계 납품 SK오션플랜트"
     ]
    ],
    "seen_urls": [
-    "https://www.naeil.com/news/read/593889",
-    "https://www.naeil.com/news/read/593993",
-    "https://www.techm.kr/news/articleView.html?idxno=153071",
-    "https://www.tvreport.co.kr/breaking/article/1058440/",
     "https://www.naeil.com/news/read/593932",
     "https://www.aitimes.kr/news/articleView.html?idxno=40799",
     "https://www.thepublic.kr/news/articleView.html?idxno=309876",
@@ -3120,13 +3108,13 @@
     "http://www.jndn.com/article.php?aid=1782985815435437001",
     "http://www.cctimes.kr/news/articleView.html?idxno=914713",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05822006645510584",
-    "https://www.dt.co.kr/article/12070928"
+    "https://www.dt.co.kr/article/12070928",
+    "https://www.interfootball.co.kr/news/articleView.html?idxno=689722",
+    "http://www.kdfnews.com/news/articleView.html?idxno=184831",
+    "https://www.donga.com/news/Politics/article/all/20260702/134226865/1",
+    "http://www.epj.co.kr/news/articleView.html?idxno=38905"
    ],
    "seen_titles": [
-    "SKAX-한전기술,인공지능전환협력",
-    "정부주도첨단산업육성전략...충청권에392조원투자집중",
-    "국내단일종목레버리지ETF…서학개미못잡고투기판키워",
-    "李대통령\"충청,글로벌AI혁신중심지로\"⋯삼성·SK등392조투자[종...",
     "주요석유화학제품가격인하잇달아",
     "암참,'AI리더십위원회'출범…애플·아마존등글로벌기업참여",
     "암참AI리더십위원회공식출범…“한미AI협력확대”",
@@ -4622,10 +4610,14 @@
     "광주군공항무안이전통합특별시최대‘뇌관’급부상",
     "[人터뷰]\"행동·성과로증명하는시민특별시청주건설\"",
     "김기현\"'한국주식,조울증걸렸다'는표현까지등장해\"",
-    "AI대란에애플도‘中메모리’구걸"
+    "AI대란에애플도‘中메모리’구걸",
+    "[오피셜]전북현대,'리투아니아국대FW'기티스6개월임대영입…\"K리...",
+    "[마감시황]코스피,반도체쇼크에7600선…외국인10거래일째매도",
+    "이재명대통령이셀카와하트를날린곳은?[청계천옆사진관]",
+    "SK오션플랜트,세계최대급해상풍력하부구조물첫납품"
    ],
    "initialized": true,
-   "last_run": "2026-07-02T18:55:20.552968+09:00"
+   "last_run": "2026-07-02T19:00:51.367604+09:00"
   }
  },
  "press_names": {
@@ -5080,6 +5072,7 @@
   "ccnnews.co.kr": "충청뉴스",
   "ngetnews.com": "뉴스저널리즘",
   "medigatenews.com": "medigatenews.com",
-  "mtnews.net": "기계신문"
+  "mtnews.net": "기계신문",
+  "epj.co.kr": "일렉트릭파워"
  }
 }
