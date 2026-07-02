@@ -294,12 +294,17 @@
     [
      "2026-07-03T05:07:15.007747+09:00",
      "맞춰야 투자도 속도에 행복"
+    ],
+    [
+     "2026-07-03T05:15:24.814375+09:00",
+     "호남 반도체 노조 협의하라는 부메랑 노봉법 곳곳에"
+    ],
+    [
+     "2026-07-03T05:15:24.814375+09:00",
+     "수익성 퇴출 절벽 약가인하 130품목 소낙비 6월 맞기전에"
     ]
    ],
    "seen_urls": [
-    "https://www.asiatime.co.kr/article/20260702500281",
-    "https://www.thedailypost.kr/news/articleView.html?idxno=114540",
-    "http://www.inews24.com/view/1981898",
     "https://www.khan.co.kr/article/202607021439011",
     "http://www.bizwnews.com/news/articleView.html?idxno=139861",
     "https://www.e-science.co.kr/news/articleView.html?idxno=131372",
@@ -1796,12 +1801,12 @@
     "https://www.seoul.co.kr/news/economy/securities/2026/07/03/20260703029002?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/economy/industry/2026/07/03/20260703031005?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/peoples/2026/07/03/20260703023008?wlog_tag3=naver",
-    "https://www.seoul.co.kr/news/editOpinion/opinion/jungjungyeb-mind-prescription/2026/07/03/20260703026001?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/editOpinion/opinion/jungjungyeb-mind-prescription/2026/07/03/20260703026001?wlog_tag3=naver",
+    "https://www.busan.com/view/busan/view.php?code=2026070218015723813",
+    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/07/03/20260703027004?wlog_tag3=naver",
+    "http://www.medisobizanews.com/news/articleView.html?idxno=139892"
    ],
    "seen_titles": [
-    "한국,글로벌양자기술패권경쟁본격화...SKT·KT차세대양자암호기...",
-    "[그래픽]충청권첨단산업투자계획",
-    "파라텍,반도체·배터리공장이어바이오플랜트수주…소방시장독주",
     "SKT·KT,퀀텀코리아서양자보안기술력공개",
     "SKT·KT,퀀텀코리아서첨단양자암호기술총망라",
     "충청권에향하는392조…삼성·SK하이닉스반도체머니240조",
@@ -3298,10 +3303,13 @@
     "메타“남는GPU빌려드려요”…삼전닉스9%·14%폭락쇼크",
     "SKT는미래인프라,KT는네트워크…불붙은차세대‘양자보안기술력...",
     "상생의SK,2·3차협력사도지원",
-    "[정정엽의마음처방]투자도내속도에맞춰야행복"
+    "[정정엽의마음처방]투자도내속도에맞춰야행복",
+    "[사설]진주찾는이대통령,PK첨단산업육성구체안제시해야",
+    "[사설]‘호남반도체’협의하라는노조…노봉법부메랑곳곳에",
+    "\"약가인하소낙비맞기전에\"…6월,'수익성절벽'130품목퇴출"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T05:10:41.611189+09:00"
+   "last_run": "2026-07-03T05:15:24.814375+09:00"
   }
  },
  "press_names": {
