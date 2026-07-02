@@ -5,10 +5,6 @@
    "recent_sigs": [
     [
      "2026-07-02T14:25:19.324727+09:00",
-     "돼도 반도체 지원 김문수 대통령 지도 된다"
-    ],
-    [
-     "2026-07-02T14:25:19.324727+09:00",
      "한화에어로 강세 KAI 지분 추가매입"
     ],
     [
@@ -1606,17 +1602,25 @@
     [
      "2026-07-02T19:50:37.908543+09:00",
      "2년 거래수수료 완전무료 국내주식 NH투자증권 국내상장ETF"
+    ],
+    [
+     "2026-07-02T19:55:22.744388+09:00",
+     "성장엔진 첨단산업 본격화 충청이 392조 투자 대한민국"
+    ],
+    [
+     "2026-07-02T19:55:22.744388+09:00",
+     "곳과 업체 협상 블룸버그 구매 애플 반도체 중국"
+    ],
+    [
+     "2026-07-02T19:55:22.744388+09:00",
+     "기업이 사람이 도시로 머물고 전남광주특별시의원 한귀례 찾는"
+    ],
+    [
+     "2026-07-02T19:55:22.744388+09:00",
+     "못해 일치 유치 기회 균형발전 대통령 거점 압력으로 첨단"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260702005100320?input=2106m",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=264163",
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/02/20260702500106?wlog_tag3=naver",
-    "https://news.tf.co.kr/read/economy/2339026.htm",
-    "https://www.newsmap.co.kr/news/articleView.html?idxno=1133",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1714860",
-    "https://news.ifm.kr/news/articleView.html?idxno=474244",
-    "https://www.mediapen.com/news/view/1107858",
     "https://www.ytn.co.kr/_ln/0115_202607021336332617",
     "http://www.newscape.co.kr/news/articleView.html?idxno=123069",
     "https://www.pennmike.com/news/articleView.html?idxno=123053",
@@ -3108,17 +3112,17 @@
     "http://www.econotelling.com/news/articleView.html?idxno=20831",
     "https://www.ajunews.com/view/20260702172203155",
     "http://www.breaknews.com/1218850",
-    "https://www.rcast.co.kr/news/articleView.html?idxno=31191"
+    "https://www.rcast.co.kr/news/articleView.html?idxno=31191",
+    "https://www.fetv.co.kr/news/articleView.html?idxno=305690",
+    "http://www.fnnews.com/news/202607021944402697",
+    "https://www.bosa.co.kr/news/articleView.html?idxno=3007587",
+    "http://www.segyebiz.com/newsView/20260702517952?OutUrl=naver",
+    "http://www.newsprime.co.kr/news/article.html?no=738971",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1529418",
+    "https://www.namdonews.com/news/articleView.html?idxno=915710",
+    "https://www.hani.co.kr/arti/politics/bluehouse/1266491.html"
    ],
    "seen_titles": [
-    "곽동신한미반도체회장,자사주추가매입…주가'자신감'",
-    "1800조메가프로젝트의그늘,‘기후위기대응’흔든다[이원희의기후...",
-    "고려대허연숙교수팀,도시바람예측정확도끌어올린새보정법개발...",
-    "SK오션플랜트,대만'펭미아오1'첫해상풍력하부구조물수출",
-    "메타\"남는AI연산판다\"…호재인가,둔화신호인가[과잉투자vs투자...",
-    "[산업분석]LFP59.3%,LG에너지솔루션·삼성SDI압박",
-    "코스피,상반기상승률압도적1위…AI랠리주도권반도체로",
-    "세계가인정한경남기술력…대만해상풍력하부구조물첫출항",
     "마이크론급락에반도체株‘출렁’…다음주삼성전자실적에쏠린눈",
     "정청래·김민석·송영길엇갈린'당심잡기'행보…\"대권잠룡절실\"의...",
     "SK에코플랜트평택~오송2복선화현장서근로자사망",
@@ -4610,10 +4614,18 @@
     "주저앉은증시…반도체도속수무책",
     "[이춘구칼럼]3대메가프로젝트…국가균형발전의초석",
     "민형배전남광주통합시장,취임첫행보는‘한전’…“서남권반도체...",
-    "NH투자증권,국내주식∙국내상장ETF거래수수료2년완전무료外"
+    "NH투자증권,국내주식∙국내상장ETF거래수수료2년완전무료外",
+    "SK오션플랜트,대만해상풍력하부구조물첫납품",
+    "靑행사까지참석한'우리로',AI반도체생태계존재감높였다",
+    "국내사개발뇌전증신약'엑스코프리',약평위급여심의통과...넴루비...",
+    "SKAX·한전기술,발전·에너지산업AX혁신추진",
+    "\"충청이대한민국성장엔진\"392조첨단산업투자본격화",
+    "블룸버그\"애플,중국반도체업체두곳과구매협상\"",
+    "한귀례전남광주특별시의원\"사람이머물고기업이찾는도시로\"",
+    "이대통령“균형발전·첨단거점일치기회…압력으로유치못해”"
    ],
    "initialized": true,
-   "last_run": "2026-07-02T19:50:37.908543+09:00"
+   "last_run": "2026-07-02T19:55:22.744388+09:00"
   }
  },
  "press_names": {
