@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-03T00:30:46.195799+09:00",
-     "민선9기 담았다 철학 끼운 단추 결재 시장들 시정 1호 행보에 경기"
-    ],
-    [
      "2026-07-03T00:35:22.938670+09:00",
      "고심 여부 실트론 결론 반도체 막판 이달 호황속 매각"
     ],
@@ -362,16 +358,29 @@
     [
      "2026-07-03T06:25:21.576343+09:00",
      "생각 압박한다고 투자를 삼성이 구태적"
+    ],
+    [
+     "2026-07-03T06:35:19.390169+09:00",
+     "정부 고용보험 안정화 들여다본다 재정 방안"
+    ],
+    [
+     "2026-07-03T06:35:19.390169+09:00",
+     "다나 투자유치 세종시 날개"
+    ],
+    [
+     "2026-07-03T06:35:19.390169+09:00",
+     "버리 대규모 종말 빅쇼트 투자 마이클 반도체"
+    ],
+    [
+     "2026-07-03T06:35:19.390169+09:00",
+     "경영 통신사 효율화 직원 외친 줄이며"
+    ],
+    [
+     "2026-07-03T06:35:19.390169+09:00",
+     "대통령 참석 첨단산업 보고회 영남권"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2599675",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20260702010000716",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464913",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=355446",
-    "https://www.kmib.co.kr/article/view.asp?arcid=0030054493&code=61121111&cp=nv",
-    "https://www.yna.co.kr/view/AKR20260702114300063?input=1195m",
-    "https://www.hankookilbo.com/news/article/A2026070214350000720?did=NA",
     "https://www.ajunews.com/view/20260702085732879",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=359676",
     "https://www.businessplus.kr/news/articleView.html?idxno=113652",
@@ -1864,16 +1873,16 @@
     "https://www.newspim.com/news/view/20260703000021",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6834671_37012.html",
     "https://www.newsen.com/news_view.php?uid=202607030627002110",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20260703010001110"
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260703010001110",
+    "https://www.newsis.com/view/NISX20260702_0003694058",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092165035",
+    "https://www.labortoday.co.kr/news/articleView.html?idxno=235505",
+    "https://www.pressian.com/pages/articles/2026070306304749694",
+    "https://www.mediawatch.kr/news/article.html?no=260272",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092165027",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601128"
    ],
    "seen_titles": [
-    "SK텔레콤,퀀텀코리아서AI·6G대비…차세대양자암호기술총출동",
-    "[노정태칼럼]호남반도체클러스터논란,양두구육하지말라",
-    "[대전환의전남광주통합시,판이바뀐다①-광주대학교김동진총장]...",
-    "AI붐타고中반도체,IPO러시…\"빠르게자금확보해생산확대\"",
-    "팹만큼중요한패키징…충청,AI반도체‘후공정거점’으로",
-    "반도체훈풍에전남광주부동산시장반전...3216가구챔피언시티9월분...",
-    "[그래픽]충청권첨단산업메가특구투자규모",
     "'얼음25g'키운SK매직,얼음정수기판매량전년대비50%증가",
     "李·文손잡았지만,김민석·정청래경쟁은더격화",
     "SK에코플랜트공사현장서협착사고…근로자1명숨져",
@@ -3366,10 +3375,17 @@
     "[미국특징주]마이크론,트럼프\"위대한기업\"극찬에도주가내리막",
     "이\"압박한다고삼성이투자를?‥구태적생각\"",
     "미자“하이닉스뭔일이여”주가폭락에댓글폭발했다…1억잃고주식...",
-    "앤트로픽,삼성파운드리에자체AI칩생산타진…오픈AI추격본격화"
+    "앤트로픽,삼성파운드리에자체AI칩생산타진…오픈AI추격본격화",
+    "\"해도해도너무한변동성\"…코스피,7월실적시즌에'주목'",
+    "통신3사주가…해킹악재SKT'으뜸',3중고KT'꼴찌'",
+    "정부'고용보험재정안정화방안'들여다본다",
+    "세종시투자유치‘날개’다나",
+    "[미디어이슈]‘빅쇼트’마이클버리“韓대규모반도체투자,종말...",
+    "AI외친통신사,직원줄이며경영효율화",
+    "이대통령,오늘영남권첨단산업보고회참석"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T06:30:44.997278+09:00"
+   "last_run": "2026-07-03T06:35:19.390169+09:00"
   }
  },
  "press_names": {
