@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-04T02:35:21.835005+09:00",
-     "오히려 당구 김가영 치는 좋지만 룰이 웃었다 변수"
-    ],
-    [
      "2026-07-04T02:50:40.627696+09:00",
      "SK하이닉스 1조원대 투자 조달 자금 검토 미래에셋"
     ],
@@ -370,13 +366,21 @@
     [
      "2026-07-04T08:29:25.301032+09:00",
      "SK스퀘어 주가 마감 7월 급등락 상승 1주차"
+    ],
+    [
+     "2026-07-04T08:35:22.796773+09:00",
+     "달러 10억 기지로 LG이노텍 베트남을 하이퐁 반도체 첨단 IC"
+    ],
+    [
+     "2026-07-04T08:35:22.796773+09:00",
+     "휘발윳값 경유 한주 1천952원 내린 주유소 1천940원대 56원"
+    ],
+    [
+     "2026-07-04T08:35:22.796773+09:00",
+     "샀을까 국민연금은 쥐락펴락하는 증시"
     ]
    ],
    "seen_urls": [
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=845998",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1167271",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=51260",
-    "https://www.donga.com/news/Economy/article/all/20260703/134230131/1",
     "http://www.dailypop.kr/news/articleView.html?idxno=100278",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=03532566645510912",
     "https://view.asiae.co.kr/article/2026070311145450640",
@@ -1872,13 +1876,13 @@
     "https://www.seoulfn.com/news/articleView.html?idxno=632674",
     "https://www.slist.kr/news/articleView.html?idxno=749529",
     "https://www.topstarnews.net/news/articleView.html?idxno=16123315",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16123321"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16123321",
+    "https://www.kbmaeil.com/article/20260704500030",
+    "https://www.g-enews.com/view.php?ud=2026070408295835120c8c1c064d_1",
+    "https://www.yna.co.kr/view/AKR20260703073400003?input=1195m",
+    "https://www.ajunews.com/view/20260703105150879"
    ],
    "seen_titles": [
-    "멀미나는코스피…7400찍고7800으로‘V자반등’",
-    "SKT,'구글AI구독'선보여…T우주신규라인업3종공개",
-    "반도체공급부족VSAI수요둔화",
-    "SK하이닉스장초반2%대약세...삼성전자는AI칩협업소식에상승",
     "정점식\"노란봉투법·상법개정이호남반도체프로젝트발목\"",
     "삼성전기·SK하이닉스주가,상승전환...美반도체쇼크딛고'활짝'",
     "반도체흔든'메타쇼크'…시장오해였나,7월실적이가른다",
@@ -3374,10 +3378,14 @@
     "[대한민국리빌딩④]AI의최종무대는공장···영남권,'피지컬AI수...",
     "[은행가]기업은행,외국인대상캐시백·농협은행'오늘의혜택'출시...",
     "7월1주차SK하이닉스주가급락후반등마감",
-    "7월1주차SK스퀘어주가급등락속상승마감"
+    "7월1주차SK스퀘어주가급등락속상승마감",
+    "개인‘실탄’줄었다?…예탁금120조원붕괴에도저가매수지속",
+    "“베트남을첨단IC기지로”…하이퐁,LG이노텍‘10억달러반도체기...",
+    "주유소휘발윳값한주새56원내린1천952원…경유1천940원대",
+    "[고혜영의주린이투자노트]증시쥐락펴락하는국민연금은뭘샀을까…..."
    ],
    "initialized": true,
-   "last_run": "2026-07-04T08:30:52.362466+09:00"
+   "last_run": "2026-07-04T08:35:22.796773+09:00"
   }
  },
  "press_names": {
