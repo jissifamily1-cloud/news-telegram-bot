@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-03T06:50:36.730690+09:00",
-     "최고치 상황서 하락 마감 다우 반도체 뉴욕증시 혼조 이틀째 나스닥"
-    ],
-    [
-     "2026-07-03T06:50:36.730690+09:00",
-     "셀트리온 투자 회장 격려 2조 대통령 서정진"
-    ],
-    [
      "2026-07-03T06:55:20.302605+09:00",
      "다시 수면 과제 위로 호황이 남긴 반도체 이익공유제"
     ],
@@ -1301,9 +1293,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.aitimes.com/news/articleView.html?idxno=212340",
-    "http://www.newslock.co.kr/news/articleView.html?idxno=132593",
-    "https://www.khan.co.kr/article/202607021749001",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/02/2026070200288.html",
     "https://www.khan.co.kr/article/202607021753001",
     "https://www.hankyung.com/article/2026070228011",
@@ -2800,12 +2789,12 @@
     "http://www.breaknews.com/1218854",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=848116",
     "https://sports.donga.com/sports/article/all/20260703/134229489/1",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03653926645510912"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=03653926645510912",
+    "https://www.tokenpost.kr/news/market/374792",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=440648",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601522"
    ],
    "seen_titles": [
-    "민형배전남광주통합특별시장,한전찾아첫현장행보…반도체전력망...",
-    "[게시판]SKAX,한국전력기술과발전·에너지산업AI전환협력등단...",
-    "SK,협력사와상생협약체결...1.4조원투입동반성장가속화",
     "미하원보고서“한국정부,미기업차별대우···쿠팡‘조직적공...",
     "반도체는'초단위경쟁'인데…노동계는주52시간완화에\"노동개악\"...",
     "배당세금깎아주니사주지분높은기업부터배당늘렸다",
@@ -4302,10 +4291,13 @@
     "김영훈고용노동부장관,광주청방문…“지역맞춤형인재육성에총력...",
     "셀트리온,국내의약품생산1위…업계최초3조'돌파'",
     "대학아마추어농구최고권위의국민대학교총장배3일부터토너먼트...",
-    "코스피,장중7300선밀렸다반등…기관매수에7800선회복"
+    "코스피,장중7300선밀렸다반등…기관매수에7800선회복",
+    "코스피,외국인매도세지속으로7,400대후퇴",
+    "삼성전자·SK하이닉스,상승에급등...특히삼성전자6%상승",
+    "호남‘800조’반도체투자…어디에,언제?[뉴스in뉴스]"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T12:50:35.350361+09:00"
+   "last_run": "2026-07-03T12:55:18.319793+09:00"
   }
  },
  "press_names": {
