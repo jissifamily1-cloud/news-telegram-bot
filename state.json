@@ -217,7 +217,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260703103512824",
     "https://it.chosun.com/news/articleView.html?idxno=2023092165092",
     "https://view.asiae.co.kr/article/2026070309114539704",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=545449",
@@ -1716,10 +1715,10 @@
     "https://it.chosun.com/news/articleView.html?idxno=2023092165060",
     "https://www.g-enews.com/view.php?ud=2026070406251087002bd56fbc3c_1",
     "http://www.wikileaks-kr.org/news/articleView.html?idxno=189391",
-    "https://www.sedaily.com/article/20063612"
+    "https://www.sedaily.com/article/20063612",
+    "https://www.tjb.co.kr/news05/bodo/view/id/100395"
    ],
    "seen_titles": [
-    "[유통·식음료]닥터뉴토반려견영양식출시/롯데온여름뷰티할인...",
     "삼성전자파운드리대형고객사추가할까,해외언론\"클로드개발사앤트...",
     "할인받고,나눠쓰고...휴가철이통사별'로밍'꼭확인하세요",
     "미국향하는국내대형주,코스닥두드리는미국바이오",
@@ -3218,10 +3217,11 @@
     "조단위매출에도보안투자는1%미만…게임업계안전불감증여전",
     "반도체株비상...IMF·BISAI버블경고",
     "[인베스트]다케다,AI신약개발에6억달러투자…인실리코와전략적...",
-    "증시활황인데부진하던증권주‘8000피’에7%‘쑥’[줍줍리포트]"
+    "증시활황인데부진하던증권주‘8000피’에7%‘쑥’[줍줍리포트]",
+    "한국남자농구,대만에연장끝80-82패배…3연패수렁"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T06:45:24.168123+09:00"
+   "last_run": "2026-07-04T06:50:40.717883+09:00"
   }
  },
  "press_names": {
