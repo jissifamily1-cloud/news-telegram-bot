@@ -585,8 +585,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sentv.co.kr/article/view/sentv202607030019",
-    "https://www.mt.co.kr/politics/2026/07/03/2026070309464029904",
     "http://www.financialreview.co.kr/news/articleView.html?idxno=43303",
     "http://www.yonhapnewstv.co.kr/news/MYH20260703102443cds",
     "https://www.news2day.co.kr/article/20260703500112",
@@ -2084,11 +2082,11 @@
     "http://www.ttlnews.com/news/articleView.html?idxno=3122756",
     "http://coinreaders.com/245999",
     "https://sports.khan.co.kr/article/202607032230003?pt=nv",
-    "https://www.pressian.com/pages/articles/2026070321065535604"
+    "https://www.pressian.com/pages/articles/2026070321065535604",
+    "https://www.yna.co.kr/view/AKR20260703159851007?input=1195m",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8602011"
    ],
    "seen_titles": [
-    "민형배특별시장,한전찾아반도체전력망점검",
-    "정점식\"호남반도체,노란봉투법에발목잡혀…도끼로제발등찍어\"",
     "외국인,'750조'더팔까…코스피보유율41%돌파,리밸런싱우려[김...",
     "아비바,AVEVADayKorea2026성료...산업지능화기반의AI·디지털전...",
     "“물없이반도체없다”…서남권팹‘하루65만t’용수확보난제",
@@ -3586,10 +3584,12 @@
     "LG유플러스,일본시작으로'익시오로밍콜'출시…올해100개국확대",
     "코스피,사이드카하루만에'V자'반등...삼성전자·SK하이닉스동반폭...",
     "또미뤄진마줄스감독의‘부임첫승’…한국,연장접전끝에대만에...",
-    "6·3지선에서민주당후보흔든송영길의원…전북·도지사훈계할자격..."
+    "6·3지선에서민주당후보흔든송영길의원…전북·도지사훈계할자격...",
+    "한국남자농구,대만에월드컵예선역전패…마줄스부임3연패(종합)",
+    "이대통령,6일청와대서반도체클러스터점검회의"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T22:50:42.104774+09:00"
+   "last_run": "2026-07-03T22:55:21.796786+09:00"
   }
  },
  "press_names": {
