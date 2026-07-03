@@ -1042,16 +1042,13 @@
     [
      "2026-07-03T21:00:52.914859+09:00",
      "아침의 주요기사 비즈니스포스트"
+    ],
+    [
+     "2026-07-03T21:05:21.067689+09:00",
+     "황당한 경고 금감원장의 뒷북"
     ]
    ],
    "seen_urls": [
-    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=595448",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=359714",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16122120",
-    "https://www.kukinews.com/article/view/kuk202607030032",
-    "https://www.inthenews.co.kr/news/article.html?no=88886",
-    "https://www.kado.net/news/articleView.html?idxno=2059324",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=272421",
     "https://www.topstarnews.net/news/articleView.html?idxno=16122136",
     "https://www.ppss.kr/news/articleView.html?idxno=300894",
     "https://view.asiae.co.kr/article/2026070310015496995",
@@ -2544,16 +2541,16 @@
     "http://www.yonhapnewstv.co.kr/news/MYH2026070320492601C",
     "https://news.knn.co.kr/news/article/189635",
     "https://www.hankyung.com/article/202607035117h",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=441568"
+    "https://www.businesspost.co.kr/BP?command=article_view&num=441568",
+    "https://www.kukinews.com/article/view/kuk202607030157",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260703210242Al4",
+    "http://andongmbc.co.kr/adboard/NewsView83445",
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2285519",
+    "https://www.mk.co.kr/article/12084145",
+    "http://andongmbc.co.kr/adboard/NewsView83456",
+    "https://www.mk.co.kr/article/12084172"
    ],
    "seen_titles": [
-    "전남광주통합특별시\"반도체도,생활용수도걱정없다\"",
-    "하이엔드브랜드경쟁'치열'···롯데건설'르엘'6월호감도1위",
-    "국민의힘\"與장악한법사위,법치주의사망한법사(死)위로\"(종합)",
-    "정점식\"호남반도체,삼성전자노조·소액주주반발...졸속포퓰리즘...",
-    "제주SK,한라산소주와공동마케팅상호협력한다",
-    "열흘간20%하락한'삼전닉스'증권가\"피크아웃우려과하다\"",
-    "SK하이닉스주가,7월3일장중2,163,000원1.10%하락",
     "코스피7500선붕괴…‘검은목요일’후폭풍지속",
     "[인더리포트]메타발반도체급락,펀더멘털훼손보다수급변동성관점...",
     "[속보]정점식\"호남반도체,노란봉투법에발목잡혀\"…야권포퓰리즘...",
@@ -4046,10 +4043,17 @@
     "기관'반도체쇼핑'…코스피8천선회복",
     "PK에도3백조원규모투자'약속'",
     "SK·현대차·삼성으로부터대규모투자유치약속받은울산시장",
-    "[7월4일자]비즈니스포스트아침의주요기사"
+    "[7월4일자]비즈니스포스트아침의주요기사",
+    "미래에셋증권,1.3조장기CP발행…최종투자자는‘SK하이닉스’",
+    "\"AI허브구축\"영남권첨단산업투자발표",
+    "이재명대통령,영남권발전비전발표..TK투자계획주목",
+    "李대통령,6일반도체클러스터점검회의주재…민·관추진상황점검",
+    "금·은→반도체주식,다음은비트코인?[홍익희의비트코인이야기]",
+    "라]삼성·SK,영남권AI투자발표…구미에19조원투입",
+    "금감원장의황당한뒷북경고[취재수첩]"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T21:00:52.914859+09:00"
+   "last_run": "2026-07-03T21:05:21.067689+09:00"
   }
  },
  "press_names": {
