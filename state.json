@@ -1257,11 +1257,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607010756129860104233",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423182",
-    "https://www.sidae.com/article/2026070308031736673",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248354&CMPT_CD=P0010",
-    "https://www.mediapen.com/news/view/1107995",
     "https://www.etoday.co.kr/news/view/2599850",
     "https://www.etoday.co.kr/news/view/2599858",
     "https://www.sedaily.com/article/20063307",
@@ -2756,14 +2751,14 @@
     "https://www.asiatime.co.kr/article/20260703500332",
     "https://www.topstarnews.net/news/articleView.html?idxno=16122623",
     "https://www.newsway.co.kr/news/view?ud=2026070316371109884",
-    "http://www.ikld.kr/news/articleView.html?idxno=337051"
+    "http://www.ikld.kr/news/articleView.html?idxno=337051",
+    "https://www.segye.com/newsView/20260703511505?OutUrl=naver",
+    "https://www.seoul.co.kr/news/economy/industry/2026/07/03/20260703500220?wlog_tag3=naver",
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=86366",
+    "https://www.tokenpost.kr/news/market/374837",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1529501"
    ],
    "seen_titles": [
-    "美반도체주급락에프리마켓서삼성전자2%↓SK하이닉스3%↓",
-    "하반기코스피어디까지오를까…증권가'1만피'전망",
-    "[모닝리포트]\"SK하이닉스목표가420만원상향,메모리부족반영\"",
-    "[르포]\"다음은30억?\"…노량진,'고시촌'벗고'고급'아파트촌으로",
-    "[더벨]SKSPE,메카트로인수파트너로'엘로힘파트너스'낙점",
     "[더벨]TPG로기운롯데렌탈M&A…윤신원이잡은빅딜",
     "모닝스타,삼전·닉스목표주가상향…\"유례없는가격협상력\"",
     "[아침밥]KB증권\"SK하이닉스상승세지속,주가420만원간다\"",
@@ -4258,10 +4253,15 @@
     "[오토뉴스브리핑]‘아우디써머투어2026’FC바이에른뮌헨선수들과...",
     "김명수X강민아'공감세포',토요일(4일)첫방송…등장인물→OTT관심",
     "8000선은회복했지만불안여전…코스피변동폭역대두번째",
-    "동탄·기흥규제지역지정에반사이익…'비규제반세권'이천무풍지대..."
+    "동탄·기흥규제지역지정에반사이익…'비규제반세권'이천무풍지대...",
+    "SK“영남에140조투자”…아시아최대‘AI데이터센터허브’",
+    "SK,영남에140조투입해‘AI경부고속도로’구축",
+    "미래양자융합포럼,한·미·일'글로벌양자생태계협력'머리맞대",
+    "반도체대형주반등에코스피7,800선회복",
+    "SK,140조승부수…영남에'아시아최대AI허브'"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T16:55:22.459546+09:00"
+   "last_run": "2026-07-03T16:57:28.952000+09:00"
   }
  },
  "press_names": {
