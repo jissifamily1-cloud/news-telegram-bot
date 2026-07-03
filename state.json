@@ -258,13 +258,25 @@
     [
      "2026-07-04T07:05:20.291250+09:00",
      "500달러 촉발한 멤플레이션이 소멸 PC는 이하"
+    ],
+    [
+     "2026-07-04T07:15:25.453998+09:00",
+     "삼성전자 코스피는 6종목 SK하이닉스 장세"
+    ],
+    [
+     "2026-07-04T07:15:25.453998+09:00",
+     "하락세 대통령 신호탄 될까 띄운 끊고 지지율 메가프로젝트 반등"
+    ],
+    [
+     "2026-07-04T07:15:25.453998+09:00",
+     "누리호 엔진 우주항공 품은 영남 심장"
+    ],
+    [
+     "2026-07-04T07:15:25.453998+09:00",
+     "마지막 확장 경제 퍼즐은 영남권 영토"
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/economy/2026/07/03/20260703500095?wlog_tag3=naver",
-    "https://weekly.donga.com/3/all/11/6292123/1",
-    "https://www.inthenews.co.kr/news/article.html?no=88906",
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5203612",
     "https://www.thepowernews.co.kr/view.php?ud=202607031103349406de3f0aa1be_7",
     "https://www.seoultimes.news/news/article.html?no=2000097365",
     "https://www.kukinews.com/article/view/kuk202607030054",
@@ -1760,13 +1772,13 @@
     "https://it.chosun.com/news/articleView.html?idxno=2023092165082",
     "https://www.dailian.co.kr/news/view/1663321/?sc=Naver",
     "https://view.asiae.co.kr/article/2026070315472509626",
-    "https://www.ddaily.co.kr/page/view/2026063017113825741"
+    "https://www.ddaily.co.kr/page/view/2026063017113825741",
+    "https://www.bntnews.co.kr/article/view/bnt202607040022",
+    "https://www.news1.kr/politics/president/6217313",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6834940_37012.html",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6834939_37012.html"
    ],
    "seen_titles": [
-    "\"강남사느니경기남부로\"⋯발길돌린실수요자에성남·안양집값들썩",
-    "[TheView]정부와기업투자,투명한협상구조필요하다",
-    "해수부도'호남반도체'전력공급지원…남차관\"해상풍력부두확충\"",
-    "'5000조메가프로젝트'뒤숨은과제…재계\"초대형투자,부담감도적지...",
     "천안·아산등충남202조반도체머니…“세계AI중심”반색",
     "“SK하이닉스,실적모멘텀강화…주가상승이어질것”",
     "[주간AI노트]메타發충격에삼성·SK하이닉스급락…“그래도AI투자...",
@@ -3262,10 +3274,14 @@
     "해킹홍역치른통신사,차세대양자암호로예방주사",
     "\"국가영웅\"이재용·최태원,우주항공에55조푼김동관[재계-in]",
     "7월전국3.7만가구분양…경기권에만2만가구공급몰린다[부동산AtoZ]",
-    "[산업하프타임]②“500달러이하PC는소멸”…멤플레이션이촉발한..."
+    "[산업하프타임]②“500달러이하PC는소멸”…멤플레이션이촉발한...",
+    "삼성전자·SK하이닉스“코스피는6종목장세”",
+    "'메가프로젝트'띄운李대통령…지지율하락세끊고반등신호탄될까",
+    "누리호엔진품은영남‥우주항공'심장'으로",
+    "마지막퍼즐은'영남권'‥\"경제영토확장\""
    ],
    "initialized": true,
-   "last_run": "2026-07-04T07:10:42.883265+09:00"
+   "last_run": "2026-07-04T07:15:25.453998+09:00"
   }
  },
  "press_names": {
