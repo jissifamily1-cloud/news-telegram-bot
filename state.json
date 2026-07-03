@@ -1213,11 +1213,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.cstimes.com/news/articleView.html?idxno=712135",
-    "https://biz.heraldcorp.com/article/10796994",
-    "https://www.news1.kr/world/international-economy/6216686",
-    "https://sports.donga.com/ent/article/all/20260703/134229675/1",
-    "https://mhnse.com/news/articleView.html?idxno=1450547",
     "https://www.g-enews.com/view.php?ud=202607030944458474153ddfb15a_1",
     "http://www.weeklytoday.com/news/articleView.html?idxno=783311",
     "https://www.ikbc.co.kr/article/view/kbc202607030018",
@@ -2712,14 +2707,14 @@
     "https://www.onews.tv/news/articleView.html?idxno=282539",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601768",
     "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000537854",
-    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000537853"
+    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000537853",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=264953",
+    "https://www.ytn.co.kr/_ln/0101_202607031953027200",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6834878_37004.html",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601811",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601794"
    ],
    "seen_titles": [
-    "“앤스로픽,삼성과AI칩생산논의”오픈AI와자체칩경쟁",
-    "SKT,갤럭시와이드9단독출시...출고가46만9700원",
-    "정점식“노란봉투법·더센상법,호남반도체발목…도끼에제발등...",
-    "정점식\"호남반도체,노란봉투법에발목…도끼에제발등찍혀\"(종합)",
-    "금융권M&A시장,비은행포트폴리오위한증권사인수프리미엄재점화",
     "‘소버린AI’골든타임…국가대표AI독자모델개발완료,2차평가본...",
     "세계반도체협회\"美정부개입시메모리공급난장기화역효과\"",
     "미자,하이닉스샀다더니하루만에‘14%급락’",
@@ -4214,10 +4209,15 @@
     "현대차그룹,영남권첨단산업에42조원투자",
     "영남권312조투자…‘TK홀대’불만은여전",
     "이재용최태원다음은?…한화도55조투자",
-    "전용기늘리는총수들…“이동시간도경쟁력”"
+    "전용기늘리는총수들…“이동시간도경쟁력”",
+    "\"T우주로제미나이를?최대2100원할인\"…SKT,'구글AI플랜'출시",
+    "이대통령,다음주'메가프로젝트'민관합동점검회의주재",
+    "영남까지첨단산업구상‥'3대메가프로젝트'마지막퍼즐",
+    "민선9기첫월간업무계획보고회…AX대전환등중점",
+    "정부·재계,울산미래산업대규모투자발표"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T19:50:39.166634+09:00"
+   "last_run": "2026-07-03T19:55:20.692860+09:00"
   }
  },
  "press_names": {
