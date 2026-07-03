@@ -4,30 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-03T14:50:37.644813+09:00",
-     "3일 대만과 중계 농구 있는 월드컵 아시아 예선 홈경기"
-    ],
-    [
-     "2026-07-03T14:50:37.644813+09:00",
-     "전남광주특별시장 서울시장과 참석한다 국무회의 함께"
-    ],
-    [
-     "2026-07-03T14:50:37.644813+09:00",
-     "5년치 전력기기 국내로 일감 해외 호황이 확보"
-    ],
-    [
-     "2026-07-03T14:50:37.644813+09:00",
-     "전문 국내 반도체 헤드헌터들로부터 생태 듣는"
-    ],
-    [
-     "2026-07-03T14:50:37.644813+09:00",
-     "8000선 실적 삼성증권 회복에 증권주 기대에 코스피 급등세"
-    ],
-    [
-     "2026-07-03T14:50:37.644813+09:00",
-     "노크 앤트로픽 생산 삼성 논의 하는 삼성전자와 잇달아"
-    ],
-    [
      "2026-07-03T14:55:20.423637+09:00",
      "정치 800조 호남 산업지도를 전국 논쟁으로 4755조 만든"
     ],
@@ -1074,13 +1050,17 @@
     [
      "2026-07-03T20:45:27.137768+09:00",
      "걸러낼 뮌헨전 달라 사실과 제주SK 없다 바이에른 암표"
+    ],
+    [
+     "2026-07-03T20:50:43.093008+09:00",
+     "최우선 AX 시민 기준 행정 월간회의"
+    ],
+    [
+     "2026-07-03T20:50:43.093008+09:00",
+     "삼전닉스 경찰 백지화설 착수 퍼진 성과급 내사"
     ]
    ],
    "seen_urls": [
-    "https://www.nextdaily.co.kr/news/articleView.html?idxno=250981",
-    "https://biz.heraldcorp.com/article/10797041",
-    "https://www.ntoday.co.kr/news/articleView.html?idxno=127972",
-    "https://www.newsis.com/view/NISX20260703_0003694545",
     "https://www.news2day.co.kr/article/20260703500099",
     "https://www.cstimes.com/news/articleView.html?idxno=712144",
     "https://www.ikbc.co.kr/article/view/kbc202607030020",
@@ -2576,13 +2556,13 @@
     "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260703021&PRO_CODE=4",
     "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260703025&PRO_CODE=4",
     "https://biz.heraldcorp.com/article/10797399",
-    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=595490"
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=595490",
+    "https://www.dailian.co.kr/news/view/1663322/?sc=Naver",
+    "https://biz.chosun.com/policy/politics/president_office/2026/07/03/65IQZJORXZCTZKXNVBNWJZSKAI/",
+    "https://www.usmbc.co.kr/NewsArticle/849191",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607030495&t=NN"
    ],
    "seen_titles": [
-    "‘명문회동’후당내갈등숨고르기?…민주당의원워크숍서재점화될까",
-    "신한지주,주주환원확대·STO인프라선점기대감에강세",
-    "[시선집중]김성환장관“美빅테크,韓에AI데이터센터짓겠다의사...",
-    "'10년장수'비결은최강가성비...SKT,'갤럭시와이드'신제품출시",
     "SKT,T우주에'구글AI플랜'출시…국내통신사중가장다양한라인...",
     "외국인11거래일째‘팔자’…코스피7400선밀려,반도체株약세지속...",
     "꺼지지않는AI거품론에7500선도내준코스피",
@@ -4078,10 +4058,14 @@
     "대규모투자유치부터재정정상화까지...민생·실용시동",
     "'AI데이터센터'충주오나?...핵심변수는전력공급",
     "단3분만에‘7%폭락장’으로,진짜범인은따로있다…주가폭락의...",
-    "제주SK-바이에른뮌헨전,암표걸러낼수없다?...\"사실과달라\""
+    "제주SK-바이에른뮌헨전,암표걸러낼수없다?...\"사실과달라\"",
+    "李대통령,'반도체클러스터'직접챙긴다…6일청와대서점검회의개최",
+    "李,6일청와대서‘반도체클러스터’점검회의…삼성·SK참석",
+    "첫월간회의‥\"시민기준행정·AX최우선\"",
+    "쫙퍼진삼전닉스'성과급백지화설'…경찰,내사착수"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T20:45:27.137768+09:00"
+   "last_run": "2026-07-03T20:50:43.093008+09:00"
   }
  },
  "press_names": {
