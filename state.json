@@ -1301,8 +1301,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260702_0003693841",
-    "https://www.newstnt.com/news/articleView.html?idxno=708748",
     "https://www.aitimes.com/news/articleView.html?idxno=212340",
     "http://www.newslock.co.kr/news/articleView.html?idxno=132593",
     "https://www.khan.co.kr/article/202607021749001",
@@ -2800,11 +2798,11 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=03627686645510912",
     "http://www.breaknews.com/1218857",
     "http://www.breaknews.com/1218854",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=848116"
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=848116",
+    "https://sports.donga.com/sports/article/all/20260703/134229489/1",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=03653926645510912"
    ],
    "seen_titles": [
-    "청주SK하이닉스찾은金…鄭은호남서민심훑기",
-    "\"갤럭시따라잡나…애플,아이폰5종출시·폴더블생산확대\"",
     "민형배전남광주통합특별시장,한전찾아첫현장행보…반도체전력망...",
     "[게시판]SKAX,한국전력기술과발전·에너지산업AI전환협력등단...",
     "SK,협력사와상생협약체결...1.4조원투입동반성장가속화",
@@ -4302,10 +4300,12 @@
     "K리그1제주,뮌헨과친선전입장권14일부터일반예매",
     "[데스크칼럼]392조‘충청첨단벨트’에서소외된대전,차별인가무능...",
     "김영훈고용노동부장관,광주청방문…“지역맞춤형인재육성에총력...",
-    "셀트리온,국내의약품생산1위…업계최초3조'돌파'"
+    "셀트리온,국내의약품생산1위…업계최초3조'돌파'",
+    "대학아마추어농구최고권위의국민대학교총장배3일부터토너먼트...",
+    "코스피,장중7300선밀렸다반등…기관매수에7800선회복"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T12:45:23.833472+09:00"
+   "last_run": "2026-07-03T12:50:35.350361+09:00"
   }
  },
  "press_names": {
