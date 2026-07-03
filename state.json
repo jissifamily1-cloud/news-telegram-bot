@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-03T19:20:40.734392+09:00",
-     "고메즈 아시아쿼터 맹활약 KBL 출격 전현직 타마요 켐바오"
-    ],
-    [
-     "2026-07-03T19:20:40.734392+09:00",
-     "미래에셋 1조3천억 자금조달 SK하이닉스"
-    ],
-    [
      "2026-07-03T19:25:20.858013+09:00",
      "산업일반 SK매직 소식 KCC실리콘"
     ],
@@ -314,11 +306,13 @@
     [
      "2026-07-04T01:15:26.289902+09:00",
      "외국인 코스피선 149조원 주식은 105조원 사들여 일본"
+    ],
+    [
+     "2026-07-04T01:20:44.014386+09:00",
+     "한국판 구축 우주항공청 2035년 스타링크"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008640155&plink=ORI&cooper=NAVER",
-    "https://www.thepublic.kr/news/articleView.html?idxno=309949",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607010950239330440",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7172756",
     "https://www.thepublic.kr/news/articleView.html?idxno=309964",
@@ -1816,11 +1810,11 @@
     "https://www.chosun.com/politics/blue_house/2026/07/04/XMUCFKGONZCBFDLACZOB2C7DAY/",
     "https://www.chosun.com/economy/economy_general/2026/07/04/M7R3G7PMVRD6VJR4HSJBME6W34/",
     "https://imnews.imbc.com/replay/2026/nw2500/article/6834917_36989.html",
-    "https://www.joongang.co.kr/article/25442356"
+    "https://www.joongang.co.kr/article/25442356",
+    "https://www.joongang.co.kr/article/25442358",
+    "https://www.joongang.co.kr/article/25442359"
    ],
    "seen_titles": [
-    "반도체업계,공급부족해결위한미정부개입에'우려'전달",
-    "[기자수첩]널뛰는증시…금감원장은'후회','책임'은투자자가",
     "[주목e-주식]韓증시='가장접근쉬운시장'재편화…\"외국인투자,FDI...",
     "與워크숍개최…김민석·정청래·송영길한곳에",
     "추미애\"법인지방소득세공동세원화,국회와함께풀것\"",
@@ -3318,10 +3312,12 @@
     "“새먹거리우주항공,영남서키울것”",
     "소형원자로,국가전략기술지정해혜택",
     "마지막퍼즐은'영남권'‥李\"경제영토확장\"",
-    "코스피선149조원판외국인,일본주식은105조원사들여"
+    "코스피선149조원판외국인,일본주식은105조원사들여",
+    "[view]하루걸러사이드카…레버리지‘홀짝저주’",
+    "우주항공청“2035년한국판스타링크구축”"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T01:15:26.289902+09:00"
+   "last_run": "2026-07-04T01:20:44.014386+09:00"
   }
  },
  "press_names": {
