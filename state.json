@@ -1290,13 +1290,13 @@
     [
      "2026-07-03T13:00:51.804124+09:00",
      "않아 상실감 적절치 동조 송영길 발언 정청래도 이원택"
+    ],
+    [
+     "2026-07-03T13:05:19.885032+09:00",
+     "대규모 투자로 에너지 반도체 미래판 SK그룹 AI까지"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026070228001",
-    "https://www.mk.co.kr/article/12089124",
-    "https://www.hankyung.com/article/2026070227961",
-    "https://www.mk.co.kr/article/12089119",
     "https://www.mk.co.kr/article/12089122",
     "https://www.catchnews.kr/news/articleView.html?idxno=125711",
     "https://www.jbnews.com/news/articleView.html?idxno=1506993",
@@ -2792,13 +2792,13 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607030319&t=NN",
     "https://www.g-enews.com/view.php?ud=202607031253184926e7e8286d56_1",
     "http://www.rookie.co.kr/news/articleView.html?idxno=124407",
-    "https://www.news1.kr/politics/assembly/6216987"
+    "https://www.news1.kr/politics/assembly/6216987",
+    "http://www.inews24.com/view/1982228",
+    "https://www.naeil.com/news/read/594041",
+    "https://news.jtbc.co.kr/article/NB12306411?influxDiv=NAVER",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=586421"
    ],
    "seen_titles": [
-    "4경기연속무승용인FC…\"후반기반등노린다\"",
-    "[포토]오늘은충청도로…李대통령,AR안경체험",
-    "\"메타發과잉공급우려는기우…메모리株장기우상향유지\"",
-    "\"무자비한폭락\"증권가도놀랐다…AI공포에개미들'비명'",
     "장금마리타임-MSC합병두고…공정위,정유·해운사의견조회",
     "빅테크\"칩값폭등에데이터센터속도조절\"…美서韓증시경고음도",
     "\"출범후최대6천억인수금융성사\"우리투자증권,IB시장내경쟁력입...",
@@ -4294,10 +4294,14 @@
     "K-배터리주춤한데…중국,글로벌점유율72.6%",
     "키옥시아,차세대고속낸드양산돌입…AI'추론'붐타고시총1위도...",
     "제42회국민대총장배농구대회,본선토너먼트금일개막",
-    "송영길\"이원택'상실감'발언적절치않아…정청래도동조\""
+    "송영길\"이원택'상실감'발언적절치않아…정청래도동조\"",
+    "SK하이닉스,2분기영업익66조전망…\"LTA로실적변동성축소\"",
+    "반도체후보지‘광주군공항’이전차질빚나",
+    "'삼전닉스'코스피비중60%차지…WSJ\"AI투자둔화시한국증시충...",
+    "[기업家]SK그룹⑬ㅣ반도체·에너지·AI까지…대규모투자로미래판키..."
    ],
    "initialized": true,
-   "last_run": "2026-07-03T13:00:51.804124+09:00"
+   "last_run": "2026-07-03T13:05:19.885032+09:00"
   }
  },
  "press_names": {
