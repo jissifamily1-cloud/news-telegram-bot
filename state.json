@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-03T13:15:23.471927+09:00",
-     "디아이 HD현대일렉트릭 삼성중공업 한화오션 삼성SDI"
-    ],
-    [
      "2026-07-03T13:20:37.794429+09:00",
      "KB증권 목표가 420만원으로 글로벌 AI투자 가속 하닉"
     ],
@@ -1273,9 +1269,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607030289&t=NN",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=306203",
-    "https://www.m-i.kr/news/articleView.html?idxno=1387930",
     "https://www.tokenpost.kr/news/breaking/374729",
     "https://www.ggilbo.com/news/articleView.html?idxno=1167252",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2220936",
@@ -2772,12 +2765,12 @@
     "https://www.gukjenews.com/news/articleView.html?idxno=3625884",
     "https://www.newsis.com/view/NISX20260703_0003695581",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601731",
-    "https://www.news1.kr/politics/president/6217538"
+    "https://www.news1.kr/politics/president/6217538",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092165096",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260703.99099001048",
+    "https://www.thedailypost.kr/news/articleView.html?idxno=114553"
    ],
    "seen_titles": [
-    "코스피,반등출발후7600선후퇴…외국인매도지속",
-    "[카드]SKT,갤럭시와이드9단독출시",
-    "정점식“민주당이장악한법사위,법死위로전락…사법체계파괴”",
     "코스피,AI과잉우려지속에2%대↓…외국인1조매도",
     "[속보]개인·기관'사자'vs외국인'팔자'…흔들리는반도체투심",
     "코스피,장중7400선까지밀려…외국인11거래일째'팔자'",
@@ -4274,10 +4267,13 @@
     "삼성전기,2040년까지부산에15조원투자…AI·MLCC거점도약'청신호...",
     "이대통령,오는6일청와대서'반도체클러스터민관합동점검회의'주...",
     "영남권312조투자…이대통령“우주항공산업벨트·첨단제조업거점...",
-    "李대통령,6일반도체클러스터민관합동점검회의소집…실무지원즉시..."
+    "李대통령,6일반도체클러스터민관합동점검회의소집…실무지원즉시...",
+    "AI메모리공급난에…반도체업계\"정부가격·생산개입자제해야\"",
+    "이대통령“영남,피지컬AI·우주항공집중육성”…삼성·현대차·SK...",
+    "SK텔레콤'T우주',구글제미나이업고AI구독생태계선점나서"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T19:10:39.087999+09:00"
+   "last_run": "2026-07-03T19:15:27.222580+09:00"
   }
  },
  "press_names": {
