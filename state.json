@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-03T05:45:24.192495+09:00",
-     "SEC 앞둔 1100조 상장 이유 SK하이닉스 투자계획 ADR 담은 신고서"
-    ],
-    [
-     "2026-07-03T05:45:24.192495+09:00",
-     "개미들 붕괴 코스피 패닉 삼전 비극 하이닉스 7600선 쏠린"
-    ],
-    [
-     "2026-07-03T05:50:38.646946+09:00",
-     "없어 초과세수로 결정된 미토스 정부 개발"
-    ],
-    [
      "2026-07-03T06:00:49.773760+09:00",
      "신흥국 바이오 탑티어 지목 제약 한미약품 SK바이오팜"
     ],
@@ -1382,15 +1370,17 @@
     [
      "2026-07-03T11:45:24.075204+09:00",
      "빠진 상임위 다툼 민생 국회"
+    ],
+    [
+     "2026-07-03T11:50:39.266412+09:00",
+     "사내대출 찬성 삼성디스플레이 가결 면적 제한"
+    ],
+    [
+     "2026-07-03T11:50:39.266412+09:00",
+     "버리의 경고 마이클"
     ]
    ],
    "seen_urls": [
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=269019",
-    "https://www.hankyung.com/article/2026070227331",
-    "https://www.wikitree.co.kr/articles/1144470",
-    "https://www.sedaily.com/article/20063171",
-    "http://www.newslock.co.kr/news/articleView.html?idxno=132403",
-    "https://futurechosun.com/?p=153660",
     "https://www.thelec.kr/news/articleView.html?idxno=58959",
     "https://www.news1.kr/finance/market-exr/6216186",
     "http://www.dailypop.kr/news/articleView.html?idxno=100268",
@@ -2884,15 +2874,15 @@
     "https://www.newscj.com/news/articleView.html?idxno=3414204",
     "https://www.news1.kr/society/environment/6216879",
     "https://www.asiatime.co.kr/article/20260703500143",
-    "https://biz.heraldcorp.com/article/10797290"
+    "https://biz.heraldcorp.com/article/10797290",
+    "https://www.mediapen.com/news/view/1108028",
+    "http://www.seouleconews.com/news/articleView.html?idxno=92190",
+    "https://biz.heraldcorp.com/article/10797306",
+    "https://biz.sbs.co.kr/article_hub/20000320523?division=NAVER",
+    "https://biz.sbs.co.kr/article_hub/20000320520?division=NAVER",
+    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068390"
    ],
    "seen_titles": [
-    "[금융권풍향계]KB국민은행,‘KBAIDev’출범…금융서비스혁신外",
-    "\"SK하이닉스가끌고티맵·쉴더스가밀고…SK스퀘어역대급실적장전완...",
-    "삼성·SK·셀트리온,충청에392조투자…반도체·바이오산업키운다",
-    "강준현의원,충청권392조투자환영…“세종,국가균형발전핵심축으...",
-    "이번엔메타…AI정점론에시장또패닉",
-    "[뉴스락특별기획]10대그룹AX경쟁,선언넘어실행으로…하반기'성...",
     "김장호구미시장취임...“반도체팹유치,포기는없다”",
     "테스,수입의존한3DD램용식각장비국산화...연내개발목표",
     "올해30번째사이드카…\"투매도,레버리지도자제해야\"",
@@ -4386,10 +4376,16 @@
     "해금·가야금인기타고…수원국악교육'1인1악기학교'2배확대",
     "AI센터'전기하마'논란…기후장관\"반도체만팔고안할문제아냐\"",
     "[마켓Q]ETF점유율2위권재편…'신한약진,한화흔들'",
-    "상임위다툼…‘민생’만쏙빠진국회"
+    "상임위다툼…‘민생’만쏙빠진국회",
+    "메타발쇼크하루만에급반등…증권가\"반도체펀더멘털증명,저가매...",
+    "삼성전자,美앤트로픽과AI칩생산논의…파운드리재도약발판마련",
+    "李대통령‘영남권메가프로젝트’공개",
+    "[다음주경제일정]삼성전자,2분기잠정실적공개…SK하이닉스ADR상장",
+    "[단독]삼성디스플레이'면적제한'사내대출가결…찬성73%",
+    "[현장에서박규리기자]마이클버리의경고"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T11:45:24.075204+09:00"
+   "last_run": "2026-07-03T11:50:39.266412+09:00"
   }
  },
  "press_names": {
