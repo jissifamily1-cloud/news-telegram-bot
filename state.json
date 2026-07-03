@@ -274,10 +274,13 @@
     [
      "2026-07-04T01:45:25.831229+09:00",
      "파트너로 삼성 AI칩 자체 개발 낙점 뛰어든 앤스로픽 파운드리"
+    ],
+    [
+     "2026-07-04T02:35:21.835005+09:00",
+     "오히려 당구 김가영 치는 좋지만 룰이 웃었다 변수"
     ]
    ],
    "seen_urls": [
-    "https://news.jtbc.co.kr/article/NB12306389?influxDiv=NAVER",
     "https://www.tjb.co.kr/news05/bodo/view/id/100341",
     "https://www.junggi.co.kr/news/articleView.html?idxno=37010",
     "https://www.newsis.com/view/NISX20260703_0003694675",
@@ -1776,10 +1779,10 @@
     "https://www.donga.com/news/Society/article/all/20260703/134234985/2",
     "https://www.donga.com/news/Economy/article/all/20260704/134234974/2",
     "https://www.donga.com/news/Economy/article/all/20260703/134234669/2",
-    "https://www.donga.com/news/Economy/article/all/20260704/134234987/2"
+    "https://www.donga.com/news/Economy/article/all/20260704/134234987/2",
+    "https://www.nocutnews.co.kr/news/6543024"
    ],
    "seen_titles": [
-    "[집중분석]'롤러코스피'주범으로지목되는'삼전닉스'2배ETF",
     "7,300선까지밀렸던코스피...반등해7,700대거래",
     "‘메모리값’폭등에보급형스마트폰들나온다‘폰플레이션’",
     "“삼성전자,앤트로픽AI칩파운드리파트너로논의중”",
@@ -3278,10 +3281,11 @@
     "개인정보유출피해,신고부터손배까지‘원스톱구제’시스템만든다",
     "6개기업,영남권에피지컬AI-우주항공312조투자",
     "삼성-SK-현대차-한화등투자…영남‘우주-로봇전초기지’로",
-    "자체AI칩개발뛰어든앤스로픽,파운드리파트너로삼성낙점"
+    "자체AI칩개발뛰어든앤스로픽,파운드리파트너로삼성낙점",
+    "'김가영룰이최대변수?'당구女帝는오히려웃었다\"치는게좋지만..."
    ],
    "initialized": true,
-   "last_run": "2026-07-04T02:30:51.297906+09:00"
+   "last_run": "2026-07-04T02:35:21.835005+09:00"
   }
  },
  "press_names": {
