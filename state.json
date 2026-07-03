@@ -342,12 +342,17 @@
     [
      "2026-07-04T08:05:21.230685+09:00",
      "삼성자산운용 순매수 조정장 최다 KODEX"
+    ],
+    [
+     "2026-07-04T08:10:41.136692+09:00",
+     "2분기 관건은 이통3사 극과 성적표"
+    ],
+    [
+     "2026-07-04T08:10:41.136692+09:00",
+     "시원함 음료 주류시장 신제품 앞세운 달아오른 경쟁 폭염에"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=272425",
-    "https://zdnet.co.kr/view/?no=20260703110923",
-    "https://www.seongjuro.co.kr/news/view.php?idx=60394",
     "https://www.moneystorm.kr/news/articleView.html?idxno=4841",
     "https://view.asiae.co.kr/article/2026070209002054806",
     "https://biz.chosun.com/stock/stock_general/2026/07/03/UEVFSZSFZNCRHFEJ6CHHBOZMBM/",
@@ -1844,12 +1849,12 @@
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255816",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=723711",
     "https://www.bloter.net/news/articleView.html?idxno=667291",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037205"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037205",
+    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=697856",
+    "http://www.segyebiz.com/newsView/20260704501782?OutUrl=naver",
+    "https://www.news1.kr/industry/distribution/6216709"
    ],
    "seen_titles": [
-    "현기증롤러코스피…7300대까지밀렸다가7800돌파[장중시황]",
-    "박지원\"전남광주반도체공장입지는광주군공항부지로알고있다\"",
-    "해군,신형잠수함'서희함'·호위함'평택함'함명확정",
     "\"비싼휴대폰부담스러우시죠?\"…통신3사가성비폰출시",
     "[IndustryInsights]글로벌반도체동맹의균열인가…SEMI가베선트미...",
     "알프레드,'코르티크서밋2026'서에이전틱AI시대비전제시",
@@ -3346,10 +3351,13 @@
     "[여경코멘토]6월넷째주5명활동···38건지적·의견무슨내용?",
     "[바이오핫클릭]한미약품·SK바이오팜,'혁신선도기업'부상",
     "[자금조달프리뷰]삼성증권공모채·레몬헬스케어상장'눈길'",
-    "[ETF머니플로우]조정장속삼성자산운용'KODEX200'최다순매수"
+    "[ETF머니플로우]조정장속삼성자산운용'KODEX200'최다순매수",
+    "李대통령,반도체클러스터직접챙긴다…메가프로젝트속도전",
+    "이통3사,2분기성적표극과극…관건은AI",
+    "폭염에달아오른음료·주류시장…시원함앞세운신제품경쟁"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T08:05:21.230685+09:00"
+   "last_run": "2026-07-04T08:10:41.136692+09:00"
   }
  },
  "press_names": {
