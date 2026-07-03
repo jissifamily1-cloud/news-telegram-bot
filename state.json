@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-04T01:30:47.866719+09:00",
-     "공백 장신 영입 티아고 공격수 메울 기티스 전북현대"
-    ],
-    [
      "2026-07-04T01:45:25.831229+09:00",
      "현대차 투자 한화 삼성 영남 전초기지 우주 로봇"
     ],
@@ -273,7 +269,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.seoultimes.news/news/article.html?no=2000097365",
     "https://www.kukinews.com/article/view/kuk202607030054",
     "https://biz.heraldcorp.com/article/10797170",
     "http://www.newsfc.co.kr/news/articleView.html?idxno=79699",
@@ -1772,10 +1767,10 @@
     "https://www.news1.kr/politics/president/6217313",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6834940_37012.html",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6834939_37012.html",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008641223&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008641223&plink=ORI&cooper=NAVER",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465453"
    ],
    "seen_titles": [
-    "“SK하이닉스,실적모멘텀강화…주가상승이어질것”",
     "[주간AI노트]메타發충격에삼성·SK하이닉스급락…“그래도AI투자...",
     "코스피,급락딛고7800선까지상승…장세'널뛰기'지속",
     "SK증권“삼성물산,건설·패션호조에2분기실적견조”",
@@ -3274,10 +3269,11 @@
     "'메가프로젝트'띄운李대통령…지지율하락세끊고반등신호탄될까",
     "누리호엔진품은영남‥우주항공'심장'으로",
     "마지막퍼즐은'영남권'‥\"경제영토확장\"",
-    "하루만에8천복귀..본주뒤쫓는'레버리지거래'"
+    "하루만에8천복귀..본주뒤쫓는'레버리지거래'",
+    "[주간거래소외국인]SK하이닉스삼성전자팔고삼성전기DB하이텍담았..."
    ],
    "initialized": true,
-   "last_run": "2026-07-04T07:25:21.616061+09:00"
+   "last_run": "2026-07-04T07:30:50.534920+09:00"
   }
  },
  "press_names": {
