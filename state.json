@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-03T07:15:24.511057+09:00",
-     "이틀째 반도체지수 필라델피아 급락"
-    ],
-    [
      "2026-07-03T07:20:38.815251+09:00",
      "급등한 수개월간 반도체주 자금 업종 이동 소외 조정"
     ],
@@ -1230,15 +1226,13 @@
     [
      "2026-07-03T13:15:23.471927+09:00",
      "디아이 HD현대일렉트릭 삼성중공업 한화오션 삼성SDI"
+    ],
+    [
+     "2026-07-03T13:20:37.794429+09:00",
+     "KB증권 목표가 420만원으로 글로벌 AI투자 가속 하닉"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026070227751",
-    "https://www.hankyung.com/article/2026070227341",
-    "https://www.hankyung.com/article/2026070226551",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=05464486645510584",
-    "https://www.newsgn.com/news/articleView.html?idxno=560358",
-    "https://zdnet.co.kr/view/?no=20260702171922",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260703010001074",
     "https://www.segye.com/newsView/20260702515859?OutUrl=naver",
     "https://www.fetv.co.kr/news/articleView.html?idxno=305686",
@@ -2732,15 +2726,15 @@
     "https://www.electimes.com/news/articleView.html?idxno=369892",
     "http://www.press9.kr/news/articleView.html?idxno=78877",
     "https://www.tokenpost.kr/news/economy/374701",
-    "https://www.kdpress.co.kr/news/articleView.html?idxno=206624"
+    "https://www.kdpress.co.kr/news/articleView.html?idxno=206624",
+    "https://m.sports.naver.com/basketball/article/065/0000299282",
+    "https://www.etnews.com/20260703000160",
+    "http://www.fnnews.com/news/202607031303205463",
+    "https://www.dizzotv.com/site/data/html_dir/2026/07/03/2026070380071.html",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260703131451F6N",
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030059107&code=61141111&cp=nv"
    ],
    "seen_titles": [
-    "민형배특별시장,전기·물부터챙겼다…'반도체성공기반'직접점검",
-    "金,하이닉스찾아'당청호흡'과시…광주간鄭,호남당원표심달래...",
-    "[단독]1분1초가급하다…\"빅테크에더뒤처지면AI종속국전락\"",
-    "日증시,외국인매수역대최대",
-    "[이정훈칼럼]'드러누워막는'게능사는아니다",
-    "중진공부산경남연수원,제25기CEO아카데미수료식…기업리더역량다...",
     "노키아\"한국은AI-RAN가능성최적화시장\"",
     "충청,소부장·HBM메카육성…\"인허가·인재·교통지원을\"",
     "‘호남반도체’건설업계신규먹거리부상[3대메가프로젝트]",
@@ -4234,10 +4228,16 @@
     "아우디코리아,다음달FC바이에른뮌헨제주친선경기함께할'플레이...",
     "개인은삼전닉스레버리지'저가매수'…삼성자산운용·미래에셋자산운...",
     "[국제금융브리핑]미국6월고용5.7만명증가그쳐...금리인상전망후...",
-    "[주요공시]HD현대일렉트릭,삼성중공업,삼성SDI,디아이,한화오션외"
+    "[주요공시]HD현대일렉트릭,삼성중공업,삼성SDI,디아이,한화오션외",
+    "LG,‘NBA출신+EASL득점왕’아치굿윈품었다…마레이인연으로KBL입...",
+    "[ET특징주]美반도체삭풍에도…삼성전자·SK하이닉스주가반등",
+    "\"300만원에서65만원떨어졌는데\"...애널들은주가420만원간다는SK하이...",
+    "SKT,가성비5G폰‘갤럭시와이드9’단독출시",
+    "코스피,7,800선회복…삼전·닉스반등",
+    "KB증권,하닉목표가420만원으로↑“글로벌AI투자가속”"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T13:15:23.471927+09:00"
+   "last_run": "2026-07-03T13:20:37.794429+09:00"
   }
  },
  "press_names": {
