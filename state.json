@@ -565,7 +565,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH20260703102443cds",
     "https://www.news2day.co.kr/article/20260703500112",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/03/2026070300060.html",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601358",
@@ -2064,10 +2063,10 @@
     "https://www.pressian.com/pages/articles/2026070321065535604",
     "https://www.yna.co.kr/view/AKR20260703159851007?input=1195m",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8602011",
-    "https://www.mk.co.kr/article/12090195"
+    "https://www.mk.co.kr/article/12090195",
+    "https://www.newscj.com/news/articleView.html?idxno=3414369"
    ],
    "seen_titles": [
-    "아비바,AVEVADayKorea2026성료...산업지능화기반의AI·디지털전...",
     "“물없이반도체없다”…서남권팹‘하루65만t’용수확보난제",
     "정점식\"노란봉투법·더센상법,호남반도체발목…李포퓰리즘결과...",
     "최태원SK회장,'K-브랜드지수'CEO부문1위…2위이재용·3위구광모",
@@ -3566,10 +3565,11 @@
     "6·3지선에서민주당후보흔든송영길의원…전북·도지사훈계할자격...",
     "한국남자농구,대만에월드컵예선역전패…마줄스부임3연패(종합)",
     "이대통령,6일청와대서반도체클러스터점검회의",
-    "“정부가삼전닉스성과급전면재검토하게해”가짜뉴스에…국수본..."
+    "“정부가삼전닉스성과급전면재검토하게해”가짜뉴스에…국수본...",
+    "李대통령,6일'서남권반도체클러스터'추진점검"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T23:00:50.216944+09:00"
+   "last_run": "2026-07-03T23:05:20.508993+09:00"
   }
  },
  "press_names": {
