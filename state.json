@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-03T07:10:38.548708+09:00",
-     "기업 소부장 반도체 열풍에 톱5 최태원 회장"
-    ],
-    [
-     "2026-07-03T07:10:38.548708+09:00",
-     "앤트로픽 쓴다 리듬 한국은 투자 판단에 따라 생활"
-    ],
-    [
      "2026-07-03T07:15:24.511057+09:00",
      "이틀째 반도체지수 필라델피아 급락"
     ],
@@ -1234,14 +1226,13 @@
     [
      "2026-07-03T13:10:38.409524+09:00",
      "이병훈 과산화수소 생산하는 없이 고려대 교수팀 시스템 전기 차세대"
+    ],
+    [
+     "2026-07-03T13:15:23.471927+09:00",
+     "디아이 HD현대일렉트릭 삼성중공업 한화오션 삼성SDI"
     ]
    ],
    "seen_urls": [
-    "https://www.newsgn.com/news/articleView.html?idxno=560362",
-    "https://www.hankyung.com/article/2026070227661",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=659685",
-    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000537629",
-    "https://www.kpinews.kr/newsView/1065602436977332",
     "https://www.hankyung.com/article/2026070227751",
     "https://www.hankyung.com/article/2026070227341",
     "https://www.hankyung.com/article/2026070226551",
@@ -2736,14 +2727,14 @@
     "https://www.naeil.com/news/read/594137",
     "http://www.newsworker.co.kr/news/articleView.html?idxno=434607",
     "https://www.techm.kr/news/articleView.html?idxno=153106",
-    "https://www.veritas-a.com/news/articleView.html?idxno=617856"
+    "https://www.veritas-a.com/news/articleView.html?idxno=617856",
+    "https://www.g-enews.com/view.php?ud=202607031241034372923c501012_1",
+    "https://www.electimes.com/news/articleView.html?idxno=369892",
+    "http://www.press9.kr/news/articleView.html?idxno=78877",
+    "https://www.tokenpost.kr/news/economy/374701",
+    "https://www.kdpress.co.kr/news/articleView.html?idxno=206624"
    ],
    "seen_titles": [
-    "'1.4조투입'SK,2·3차협력사와도상생생태계강화",
-    "삼전닉스와르르…코스피8000선붕괴",
-    "'메타쇼크'키운레버리지ETF…\"삼전실적에증시향방달렸다\"",
-    "SK하이닉스,'소부장'에1조4000억원쏜다…AI반도체영토확장의'빅픽...",
-    "김민석“메가프로젝트,특정지역집중아냐”…‘호남편중논란’반...",
     "민형배특별시장,전기·물부터챙겼다…'반도체성공기반'직접점검",
     "金,하이닉스찾아'당청호흡'과시…광주간鄭,호남당원표심달래...",
     "[단독]1분1초가급하다…\"빅테크에더뒤처지면AI종속국전락\"",
@@ -4238,10 +4229,15 @@
     "‘이번엔영남’첨단산업전국지도완성",
     "[기자수첩]주소지공백에군공항충돌까지,통합특별시...출범부터불...",
     "삼성·SK,'협력사상생협약체결'사회공헌강화",
-    "고려대이병훈교수팀'전기없이과산화수소생산하는차세대시스템..."
+    "고려대이병훈교수팀'전기없이과산화수소생산하는차세대시스템...",
+    "코스피,기관매수·삼전하닉반등에장중7900선회복",
+    "아우디코리아,다음달FC바이에른뮌헨제주친선경기함께할'플레이...",
+    "개인은삼전닉스레버리지'저가매수'…삼성자산운용·미래에셋자산운...",
+    "[국제금융브리핑]미국6월고용5.7만명증가그쳐...금리인상전망후...",
+    "[주요공시]HD현대일렉트릭,삼성중공업,삼성SDI,디아이,한화오션외"
    ],
    "initialized": true,
-   "last_run": "2026-07-03T13:10:38.409524+09:00"
+   "last_run": "2026-07-03T13:15:23.471927+09:00"
   }
  },
  "press_names": {
