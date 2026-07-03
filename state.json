@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-03T23:10:43.235316+09:00",
-     "1600조원 장관 김정관 실행으로 삼성 지역 답하겠다 투자에"
-    ],
-    [
      "2026-07-03T23:20:42.861026+09:00",
      "중앙향한 김재희 임팩트"
     ],
@@ -190,10 +186,13 @@
     [
      "2026-07-04T05:05:21.818030+09:00",
      "7일 9000선 널뛴다 코스피 변곡점"
+    ],
+    [
+     "2026-07-04T05:15:23.421491+09:00",
+     "선도지역 중심 첨단산업 초격차 대통령 영남 제조업 세계 도약"
     ]
    ],
    "seen_urls": [
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=82864",
     "https://www.goodkyung.com/news/articleView.html?idxno=288845",
     "https://view.asiae.co.kr/article/2026070309560452352",
     "http://www.newsian.co.kr/news/articleView.html?idxno=91773",
@@ -1692,10 +1691,10 @@
     "https://www.hankookilbo.com/news/article/A2026070200230000426?did=NA",
     "https://www.segye.com/newsView/20260704500645?OutUrl=naver",
     "https://www.lawtimes.co.kr/news/articleView.html?idxno=222953",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607030401&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607030401&t=NN",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=586492"
    ],
    "seen_titles": [
-    "유길상총장,이재명대통령앞에서충청권대학대표연설",
     "롤러코스터장세에'빚투'강제청산속출…증권사도대출빗장",
     "메타發AI투자과잉우려,사실일까",
     "코리아나화장품,남성안티에이징'더블랙옴므2종기획세트'출시",
@@ -3194,10 +3193,11 @@
     "삼성·SK의두루뭉술한4,755조원[메아리]",
     "하이닉스14.57%폭락다음날,목표가420만원나온이유[숫자뒤의진...",
     "최·노'5분발언'남긴말은…",
-    "\"7200~9000선널뛴다\"…7일코스피'변곡점'"
+    "\"7200~9000선널뛴다\"…7일코스피'변곡점'",
+    "이대통령\"영남,세계제조업중심도약…첨단산업초격차선도지역육..."
    ],
    "initialized": true,
-   "last_run": "2026-07-04T05:10:41.237944+09:00"
+   "last_run": "2026-07-04T05:15:23.421491+09:00"
   }
  },
  "press_names": {
