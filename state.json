@@ -366,11 +366,13 @@
     [
      "2026-07-04T08:25:23.146138+09:00",
      "오늘의 대상 농협은행 출시 캐시백 외국인 기업은행 혜택"
+    ],
+    [
+     "2026-07-04T08:29:25.301032+09:00",
+     "SK스퀘어 주가 마감 7월 급등락 상승 1주차"
     ]
    ],
    "seen_urls": [
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=359722",
-    "https://www.insight.co.kr/news/561368",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=845998",
     "https://www.ggilbo.com/news/articleView.html?idxno=1167271",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=51260",
@@ -1868,11 +1870,11 @@
     "https://www.tokenpost.kr/news/market/374964",
     "https://www.etnews.com/20260704000007",
     "https://www.seoulfn.com/news/articleView.html?idxno=632674",
-    "https://www.slist.kr/news/articleView.html?idxno=749529"
+    "https://www.slist.kr/news/articleView.html?idxno=749529",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16123315",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16123321"
    ],
    "seen_titles": [
-    "[탐사경]'학습의엔진'하이닉스vs'기억의창고'키옥시아.",
-    "[이덕환의경제논단]정치가시작한메가프로젝트,기업이이끄는국가사...",
     "멀미나는코스피…7400찍고7800으로‘V자반등’",
     "SKT,'구글AI구독'선보여…T우주신규라인업3종공개",
     "반도체공급부족VSAI수요둔화",
@@ -3370,10 +3372,12 @@
     "국내증시투자자예탁금119조돌파,개인매수여력주목받아",
     "민형배전남광주특별시장“반도체경쟁력은사람“…맞춤형인재공급...",
     "[대한민국리빌딩④]AI의최종무대는공장···영남권,'피지컬AI수...",
-    "[은행가]기업은행,외국인대상캐시백·농협은행'오늘의혜택'출시..."
+    "[은행가]기업은행,외국인대상캐시백·농협은행'오늘의혜택'출시...",
+    "7월1주차SK하이닉스주가급락후반등마감",
+    "7월1주차SK스퀘어주가급등락속상승마감"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T08:25:23.146138+09:00"
+   "last_run": "2026-07-04T08:29:25.301032+09:00"
   }
  },
  "press_names": {
