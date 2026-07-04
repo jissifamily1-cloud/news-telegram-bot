@@ -574,10 +574,13 @@
     [
      "2026-07-04T11:05:24.758888+09:00",
      "일반서비스업은 지자체 서비스는 SQI KS 상승 9점 3점"
+    ],
+    [
+     "2026-07-04T11:10:44.527601+09:00",
+     "네이버 선택했다 본격화 LG 성장 KT가 지엔씨에너지"
     ]
    ],
    "seen_urls": [
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681043",
     "https://www.polinews.co.kr/news/articleView.html?idxno=735872",
     "https://news.tf.co.kr/read/national/2339412.htm",
     "https://news.jtbc.co.kr/article/NB12306407?influxDiv=NAVER",
@@ -2076,10 +2079,10 @@
     "https://www.hankyung.com/article/202607034268g",
     "https://www.nongmin.com/article/20260703500476",
     "https://www.ekn.kr/web/view.php?key=20260703024349168",
-    "https://www.munhwa.com/article/11600229"
+    "https://www.munhwa.com/article/11600229",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465473"
    ],
    "seen_titles": [
-    "생성형AI이용자73.8%,검색에쓴다",
     "이재용회장\"충청서삼성의꿈결실\"…성장의선순환되나?",
     "반도체수요위축우려에코스피또경보…진정될까?",
     "제주항공,제주SK와제주해변서해양정화플로깅나서",
@@ -3578,10 +3581,11 @@
     "\"휴양지인줄알았는데\"…반도체핫플로뜨는의외의나라[테크로그]",
     "‘빚투’개미6월한달1조1000억털렸다…7월투자전략은",
     "[신간도서출간]리더의AI노트·아인슈타인이알았더라면外",
-    "‘2026KS-SQI’일반서비스업은0.9점,지자체서비스는0.3점상승"
+    "‘2026KS-SQI’일반서비스업은0.9점,지자체서비스는0.3점상승",
+    "네이버·SK·LG·KT가선택했다…지엔씨에너지성장본격화"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T11:05:24.758888+09:00"
+   "last_run": "2026-07-04T11:10:44.527601+09:00"
   }
  },
  "press_names": {
