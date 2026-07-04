@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-04T05:25:20.261116+09:00",
-     "손에 달렸다 정점 반도체 빅테크 슈퍼사이클"
-    ],
-    [
      "2026-07-04T05:30:48.674917+09:00",
      "연장 못한 접전 3쿼터 끝에 역전 대만과 리드 한국 지키지"
     ],
@@ -574,12 +570,17 @@
     [
      "2026-07-04T11:10:44.527601+09:00",
      "네이버 선택했다 본격화 LG 성장 KT가 지엔씨에너지"
+    ],
+    [
+     "2026-07-04T11:25:20.364007+09:00",
+     "수혜 용인 기대 1000조 삼전닉스 공장 몰리는"
+    ],
+    [
+     "2026-07-04T11:25:20.364007+09:00",
+     "fuel week Korea seventh for prices fall"
     ]
    ],
    "seen_urls": [
-    "https://zdnet.co.kr/view/?no=20260703111704",
-    "https://www.ytn.co.kr/_ln/0101_202607031223050925",
-    "http://www.press9.kr/news/articleView.html?idxno=78879",
     "http://www.snmnews.com/news/articleView.html?idxno=571618",
     "http://www.breaknews.com/1218853",
     "http://www.breaknews.com/1218863",
@@ -2076,12 +2077,12 @@
     "https://www.jnilbo.com/news/articleView.html?idxno=90000047577",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=848240",
     "https://www.insight.co.kr/news/561510",
-    "https://kidd.co.kr/news/246602"
+    "https://kidd.co.kr/news/246602",
+    "https://www.segye.com/newsView/20260704503047?OutUrl=naver",
+    "https://view.asiae.co.kr/article/2026070208434724860",
+    "https://www.koreajoongangdaily.com/business/korea-fuel-prices-fall-for-seventh-week/12754942"
    ],
    "seen_titles": [
-    "반도체주급락에도\"420만닉스간다!\"...개미부추기는'깜짝전망'또",
-    "[현장]양자,연구실밖으로..'미래기술'넘어통신·국방·제조현장...",
-    "제주항공-제주SK,논짓물해변서해양정화플로깅개최",
     "성수석이천시장“AI·반도체·역세권중심'미래이천'열겠다”",
     "D램가격,3분기에도최대20%공격적인상…AI수요굳건",
     "[시사정각]민주당전당대회3파전본격시작...정청래·김민석·송영길...",
@@ -3578,10 +3579,13 @@
     "첨단3지구냐군공항부지냐…800조호남반도체팹입지는",
     "李대통령,6일서남권반도체클러스터점검회의주재…민관합동전략...",
     "정부150원인하약발먹혔나...'7주째내림세'휘발유1952원·경유1942...",
-    "호남반도체클러스터,문제는용수와전력공급"
+    "호남반도체클러스터,문제는용수와전력공급",
+    "[속보]李대통령“‘3대메가프로젝트’가지지율관리였다면지선전...",
+    "1000조몰리는삼전닉스용인공장…수혜기대株는[주末머니]",
+    "Koreafuelpricesfallforseventhweek"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T11:20:40.323284+09:00"
+   "last_run": "2026-07-04T11:25:20.364007+09:00"
   }
  },
  "press_names": {
