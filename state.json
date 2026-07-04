@@ -386,13 +386,17 @@
     [
      "2026-07-04T08:50:40.593079+09:00",
      "56원 밑으로 내렸다 2000원 휘발유"
+    ],
+    [
+     "2026-07-04T09:00:54.126775+09:00",
+     "덜었다 50원 기름값 부담"
+    ],
+    [
+     "2026-07-04T09:00:54.126775+09:00",
+     "주엔 사야하나 말아야하나 다시 다음 삼전닉스 급반등한"
     ]
    ],
    "seen_urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1271297",
-    "https://www.kukinews.com/article/view/kuk202607030057",
-    "https://biz.heraldcorp.com/article/10797210",
-    "https://www.mhns.co.kr/news/articleView.html?idxno=752212",
     "https://www.techm.kr/news/articleView.html?idxno=153097",
     "http://www.seouleconews.com/news/articleView.html?idxno=92186",
     "https://www.dailian.co.kr/news/view/1663087/?sc=Naver",
@@ -1888,13 +1892,13 @@
     "https://www.slist.kr/news/articleView.html?idxno=749536",
     "https://www.xportsnews.com/article/2167965",
     "https://www.hankyung.com/article/2026070453137",
-    "http://www.lawissue.co.kr/view.php?ud=20260704084856294204ead0791_12"
+    "http://www.lawissue.co.kr/view.php?ud=20260704084856294204ead0791_12",
+    "https://www.g-enews.com/view.php?ud=202607040853084500ea13369bfa_1",
+    "https://biz.heraldcorp.com/article/10797955",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607040075&t=NN",
+    "https://www.hankyung.com/article/2026070453187"
    ],
    "seen_titles": [
-    "\"전력·용수막힌중부권보다서남권이최적\"…靑,호남반도체논란정...",
-    "韓국민을개돼지로?…쿠팡,美등에업고韓규제흔드나",
-    "[사설]빅테크-반도체기업수급·가격전쟁,독자AI개발이돌파구",
-    "“대한민국산업지도새그림…AI·반도체로전남광주대전환”",
     "외국인11거래일째'팔자'…코스피장중7,400선후퇴",
     "민형배시장“반도체도생활용수도문제없다”",
     "‘반도체피크아웃우려’는과도…삼전닉스“2분기실적주목”",
@@ -3390,10 +3394,14 @@
     "주유소휘발윳값한주새56원↓1952원…경유1940원대",
     "축구이어농구월드컵마저'경우의수'따져야하나…'부임후0승3패...",
     "\"휘발유2000원밑으로\"…한주새56원내렸다",
-    "휘발유·경유7주연속하락…전국평균1,900원대중반"
+    "휘발유·경유7주연속하락…전국평균1,900원대중반",
+    "기름값7주연속하락…휘발유1952원·경유1942원",
+    "휴가철유류비안정세…주유소휘발윳값한주새56원내려",
+    "기름값부담덜었다…한주새50원'뚝↓'",
+    "\"다시사야하나말아야하나\"…급반등한삼전닉스다음주엔"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T08:55:19.265414+09:00"
+   "last_run": "2026-07-04T09:00:54.126775+09:00"
   }
  },
  "press_names": {
