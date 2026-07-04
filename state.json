@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-04T04:15:24.414954+09:00",
-     "지금이 증권사 420만 목표가 SK하이닉스 꺼내든 기회"
-    ],
-    [
      "2026-07-04T04:35:24.882520+09:00",
      "대통령의 투자기업 행보 실용 예우 시사 추가 원전 광폭"
     ],
@@ -530,13 +526,17 @@
     [
      "2026-07-04T10:10:42.223351+09:00",
      "뒷걸음 운명 반도체가 충청권의 쪼갠 충남 초고속 충북"
+    ],
+    [
+     "2026-07-04T10:15:26.155577+09:00",
+     "수출에도 증권가는 반도체주 모멘텀 유효 급락 사상"
+    ],
+    [
+     "2026-07-04T10:15:26.155577+09:00",
+     "3연패 예선 월드컵 부임 대만에 남자농구 마줄스 패배"
     ]
    ],
    "seen_urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=1387990",
-    "https://www.newsis.com/view/NISX20260703_0003694436",
-    "https://zdnet.co.kr/view/?no=20260703113756",
-    "https://www.koreaherald.com/article/10797311",
     "https://www.ytn.co.kr/_ln/0102_202607031147577294",
     "https://www.munhwa.com/article/11600081",
     "https://www.munhwa.com/article/11600076",
@@ -2032,13 +2032,13 @@
     "https://imnews.imbc.com/newszoomin/newsinsight/6834960_29123.html",
     "https://magazine.hankyung.com/business/article/202606257651b",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=310693",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1166597"
+    "https://www.ggilbo.com/news/articleView.html?idxno=1166597",
+    "https://www.newscj.com/news/articleView.html?idxno=3414428",
+    "http://www.dandinews.com/news/articleView.html?idxno=17095",
+    "https://www.thepublic.kr/news/articleView.html?idxno=310038",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260704100927lNm"
    ],
    "seen_titles": [
-    "KT∙SKT,실속형'갤럭시스마트폰'내놨다…AI∙대화면탑재",
-    "정점식원내대표\"노봉법·상법이반도체투자막을것…정부제발등...",
-    "정점식\"호남반도체투자,노봉법·상법이발목잡아\"",
-    "李대통령,영남서방산·우주항공승부수…삼성·현대차·한화투자발표",
     "SKT,T우주에구글AI구독서비스'구글AI플랜'도입",
     "2분기'삼전영익86조·닉스64조'폭증전망…'역대급실적'이주가깨...",
     "1~5월전기차배터리시장보니…中후발기업대거두자릿수성장",
@@ -3534,10 +3534,14 @@
     "수영장12만개채울물꿀꺽꿀꺽,반도체는점점더목이마르다[기후...",
     "국내ETF뭉칫돈싹쓸이한‘AIF4’…다음랠리주인공은[코스피1만시...",
     "민형배전남광주특별시장\"반도체경쟁력은사람\"…인재양성총력",
-    "충북초고속·충남뒷걸음…반도체가쪼갠충청권의운명"
+    "충북초고속·충남뒷걸음…반도체가쪼갠충청권의운명",
+    "전국주유소휘발유1952원…한주새50원대급락",
+    "이재명대통령,진주서영남권312조원투자전략발표",
+    "사상최대수출에도반도체주급락…증권가는\"AI모멘텀유효\"",
+    "남자농구,대만에월드컵예선80-82패배…마줄스부임후3연패"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T10:10:42.223351+09:00"
+   "last_run": "2026-07-04T10:15:26.155577+09:00"
   }
  },
  "press_names": {
