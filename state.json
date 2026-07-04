@@ -462,13 +462,13 @@
     [
      "2026-07-04T09:30:49.282129+09:00",
      "고조 정점식 지도부 가동 내부 장동혁 위기 이견 윤리위 국민의힘"
+    ],
+    [
+     "2026-07-04T09:35:23.849621+09:00",
+     "선반 선물환 SK하닉 당국도 소문에 폭락 매도에 유입 환율 30원 45조"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000320525?division=NAVER",
-    "http://www.4th.kr/news/articleView.html?idxno=2114160",
-    "https://www.dailian.co.kr/news/view/1663094/?sc=Naver",
-    "http://www.beyondpost.co.kr/view.php?ud=202607031133467102205868f676_30",
     "https://www.m-i.kr/news/articleView.html?idxno=1387956",
     "https://www.nocutnews.co.kr/news/6542672",
     "http://www.yonhapnewstv.co.kr/news/MYH20260703113416525",
@@ -1964,13 +1964,13 @@
     "http://www.breaknews.com/1219172",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008641369&plink=ORI&cooper=NAVER",
     "https://www.sentv.co.kr/article/view/sentv202607040003",
-    "http://www.breaknews.com/1219187"
+    "http://www.breaknews.com/1219187",
+    "https://www.kado.net/news/articleView.html?idxno=2059364",
+    "http://www.gjdream.com/news/articleView.html?idxno=670772",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000047565",
+    "http://www.fnnews.com/news/202607040825144749"
    ],
    "seen_titles": [
-    "1년새4000명떠난여수산단…더깊어지는석화위기",
-    "제주항공·제주SK,서귀포논짓물해변서해양정화플로깅활동진행",
-    "제주항공,제주SK축구단과제주해변정화…지역상생활동강화",
-    "800조반도체금융파트너자처한광주은행…정작대기업대출1.6조",
     "삼전닉스급등…'롤러코스피'장중7800선회복",
     "[현장]SKT,6G양자보안표준선점나선다..PQC국제표준반영추진",
     "삼전6%·닉스4%대↑…하루만에반등[특징주]",
@@ -3466,10 +3466,14 @@
     "민형배전남광주통합특별시장,‘반도체메가프로젝트’성공위해이틀...",
     "휘발유·경유50원넘게'뚝'…기름값7주연속하락",
     "이번주주유소휘발윳값1952원…경유1942원",
-    "국민의힘,윤리위가동장동혁·정점식내부이견...지도부위기고조"
+    "국민의힘,윤리위가동장동혁·정점식내부이견...지도부위기고조",
+    "국내기름값7주연속하락…휘발유평균1952.1원·경유1942.4원",
+    "이재명대통령'광주·서남권반도체'직접챙긴다",
+    "예탁금120조원밑으로…개인매수여력줄었나",
+    "\"45조유입\"소문에환율30원폭락…SK하닉선물환매도에당국도\"선반..."
    ],
    "initialized": true,
-   "last_run": "2026-07-04T09:30:49.282129+09:00"
+   "last_run": "2026-07-04T09:35:23.849621+09:00"
   }
  },
  "press_names": {
