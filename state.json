@@ -226,10 +226,13 @@
     [
      "2026-07-04T20:05:20.822200+09:00",
      "우려 출렁인 하루 씻어낼까 750포인트 피크아웃 코스피"
+    ],
+    [
+     "2026-07-04T20:15:24.838584+09:00",
+     "중국 정책 데이터 동수서산 센터 햇빛과 바람으로 펼치는 구동"
     ]
    ],
    "seen_urls": [
-    "http://www.dailyesports.com/view.php?ud=202606260114561159b91e133c1f_27",
     "https://www.hankookilbo.com/news/article/A2026070313570005010?did=NA",
     "http://www.newsprime.co.kr/news/article.html?no=739050",
     "https://www.sentv.co.kr/article/view/sentv202607030076",
@@ -1728,10 +1731,10 @@
     "http://www.metroseoul.co.kr/article/20260704500052",
     "https://www.ccreview.co.kr/news/articleView.html?idxno=351952",
     "http://www.newstomato.com/ReadNews.aspx?no=1306130&inflow=N",
-    "https://www.segye.com/newsView/20260703513191?OutUrl=naver"
+    "https://www.segye.com/newsView/20260703513191?OutUrl=naver",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6835017_37004.html"
    ],
    "seen_titles": [
-    "'비용부담'없앤다…SKB'구독올인원'vs딜라이브'무료FAST'",
     "[SK재평가]③상장멀어진SK에코플랜트,할인율도달라지나",
     "한화토탈,고객사제품납품가격t당최대20만원인하",
     "모티프임정환대표\"기술기업의사명은끊임없는증명···독자AI도...",
@@ -3230,10 +3233,11 @@
     "SK하이닉스美ADR수수료율0.5%검토…2000억원대'초대형딜'눈앞",
     "이종배국회의원,충주AI데이터센터유치'총력'",
     "SK하닉,미ADR상장임박…“주관사수수료율0.5%전망”",
-    "하루750포인트출렁인코스피…‘AI피크아웃'우려씻어낼까"
+    "하루750포인트출렁인코스피…‘AI피크아웃'우려씻어낼까",
+    "햇빛과바람으로데이터센터구동‥'동수서산'정책펼치는중국"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T20:10:45.213655+09:00"
+   "last_run": "2026-07-04T20:15:24.838584+09:00"
   }
  },
  "press_names": {
