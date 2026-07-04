@@ -257,8 +257,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/202607034293i",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=219994",
     "https://www.donga.com/news/Society/article/all/20260703/134230885/1",
     "https://www.newsis.com/view/NISX20260703_0003694976",
     "https://www.sisajournal.com/news/articleView.html?idxno=378692",
@@ -1756,11 +1754,11 @@
     "https://www.sedaily.com/article/20063777",
     "https://www.ytn.co.kr/_ln/0102_202607041756309488",
     "https://www.ggilbo.com/news/articleView.html?idxno=1166754",
-    "https://www.bigtanews.co.kr/article/view/big202607040003"
+    "https://www.bigtanews.co.kr/article/view/big202607040003",
+    "https://www.ddaily.co.kr/page/view/2026070415001628904",
+    "https://www.newdaily.co.kr/site/data/html/2026/07/03/2026070300105.html"
    ],
    "seen_titles": [
-    "코스피,5%대↑8,000선회복…삼전·닉스,8%이상급반등(종합)",
-    "5개월연속오름세…LPG업계·소비자모두'울상'",
     "아우디코리아,뮌헨선수단손잡을어린이찾는다…친선전에스코트모...",
     "“SK하이닉스420만원간다”…KB증권,목표가상향[줍줍리포트]",
     "삼전닉스성과급백지화설에…경찰‘허위사실유포’내사착수",
@@ -3258,10 +3256,12 @@
     "“삼전닉스가번돈을왜국민에게?”…외신“한국의새로운과제”이...",
     "1500원대고환율·사이드카'뉴노멀'되나?",
     "애플가격인상원인으로지목?…삼성·하이닉스美서집단소송폭탄",
-    "KB증권,7월첫째주대한전선등14종목매수추천"
+    "KB증권,7월첫째주대한전선등14종목매수추천",
+    "[위클리반도체]서남권·충청권에1136조원쏟아붓는삼성·SK…반도체...",
+    "\"배재고선수들앞길막은건과도한결정…호남반도체정책,산업정..."
    ],
    "initialized": true,
-   "last_run": "2026-07-04T19:00:55.325314+09:00"
+   "last_run": "2026-07-04T19:05:20.253682+09:00"
   }
  },
  "press_names": {
