@@ -354,10 +354,13 @@
     [
      "2026-07-05T08:20:44.896381+09:00",
      "희비 실적 KT는 2분기 선방 LGU 이통3사 역기저 SKT"
+    ],
+    [
+     "2026-07-05T08:25:21.315932+09:00",
+     "이통 지갑 3사로 알뜰폰 열었다 2만명 온누리상품권에"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/PYH20260703105400013?input=1196m",
     "https://www.yna.co.kr/view/AKR20260703105100003?input=1195m",
     "https://www.newsis.com/view/NISI20260703_0021349208",
     "https://www.news1.kr/industry/general-industry/6217227",
@@ -1856,10 +1859,10 @@
     "http://coinreaders.com/246139",
     "https://www.g-enews.com/view.php?ud=202607030851034855ea13369bfa_1",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681393",
-    "http://www.inews24.com/view/1982471"
+    "http://www.inews24.com/view/1982471",
+    "https://www.segye.com/newsView/20260705502109?OutUrl=naver"
    ],
    "seen_titles": [
-    "SK텔레콤,영남권투자계획발표",
     "수익성힘주는통신3사...2분기합산영업익1.4조원웃돌듯",
     "\"2분기메모리시장규모350조원…내년하반기상승세둔화\"",
     "투자계획발표하는정재헌SK텔레콤사장",
@@ -3358,10 +3361,11 @@
     "공포는줄고알트시즌은살아났다…이번주암호화폐시장흔들이벤트",
     "동부건설,반도체공사잇단수주…첨단산업시설경쟁력키운다",
     "[증시전망]코스피8000선회복했지만...삼성전자실적에쏠린눈",
-    "이통3사2분기실적희비…SKT·LGU+선방,KT는역기저"
+    "이통3사2분기실적희비…SKT·LGU+선방,KT는역기저",
+    "“온누리상품권에지갑열었다”…알뜰폰1.2만명이통3사로"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T08:20:44.896381+09:00"
+   "last_run": "2026-07-05T08:25:21.315932+09:00"
   }
  },
  "press_names": {
