@@ -234,14 +234,21 @@
     [
      "2026-07-04T18:05:21.365863+09:00",
      "주말 호남 구애 행사 김민석 청년 정청래 송영길은 사이"
+    ],
+    [
+     "2026-07-04T18:15:24.325596+09:00",
+     "삼성 기흥 사내대출도 5억 구리 3중규제 동탄"
+    ],
+    [
+     "2026-07-04T18:15:24.325596+09:00",
+     "SK에 삼성 몰렸다"
+    ],
+    [
+     "2026-07-04T18:15:24.325596+09:00",
+     "420만닉스 반도체 에도 증권가 투톱 출렁 59만전자 외치는"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260703089600004?input=1195m",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=167571",
-    "https://www.news2day.co.kr/article/20260703500021",
-    "https://www.mt.co.kr/industry/2026/07/03/2026070309234914458",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=874051",
     "https://www.mk.co.kr/article/12089794",
     "https://en.yna.co.kr/view/AEN20260703006700320?input=2106m",
     "https://www.dkilbo.com/news/articleView.html?idxno=547635",
@@ -1736,14 +1743,14 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1715091",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607040114&t=NN",
     "https://www.ytn.co.kr/_ln/0101_202607041801248974",
-    "https://www.newsis.com/view/NISX20260704_0003695922"
+    "https://www.newsis.com/view/NISX20260704_0003695922",
+    "http://sateconomy.co.kr/news/view/1065603841675081",
+    "https://www.kukinews.com/article/view/kuk202607040025",
+    "https://www.ddaily.co.kr/page/view/2026070319170368847",
+    "http://www.kjdaily.com/article.php?aid=1783155624681640227",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=91819"
    ],
    "seen_titles": [
-    "코스피,장중7400선찍고8000선회복…매수사이드카발동",
-    "[속보]코스피,급반등에매수사이드카발동…장중8000선회복",
-    "코스피8000선회복...매수사이드카발동",
-    "롤러코스터증시…실적시즌'옥석가리기'시작",
-    "경찰,'삼전닉스성과급백지화공문'가짜뉴스내사착수",
     "日키옥시아'장중급반등'속...일본증시'장중활짝'",
     "[재계인사이드]‘AI거품론’과삼성전자SK하이닉스의‘보험’",
     "삼성사내에뜬'하닉입사스터디'…부장급도움직인다",
@@ -3238,10 +3245,15 @@
     "[1%초고수의주간선택]'서진시스템'사고'하이브'팔았다",
     "[속보]SK하이닉스ADR상장임박에…주관사수수료2000억육박전망",
     "메가프로젝트로지지율반전모색?...이대통령\"정치적수단아냐\"",
-    "김민석·정청래주말사이'호남구애'…송영길은청년행사(종합)"
+    "김민석·정청래주말사이'호남구애'…송영길은청년행사(종합)",
+    "이재명메가프로젝트,성장전략vs지지율정치",
+    "SK하이닉스,美ADR수수료0.5%검토…“스페이스X보다낮다”",
+    "[이호연의D톡스]동탄·기흥·구리‘3중규제’…삼성,5억사내대출도...",
+    "[이번주증시]삼성·SK에돈몰렸다",
+    "반도체투톱'출렁'에도…'59만전자·420만닉스'외치는증권가"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T18:10:44.257387+09:00"
+   "last_run": "2026-07-04T18:15:24.325596+09:00"
   }
  },
  "press_names": {
