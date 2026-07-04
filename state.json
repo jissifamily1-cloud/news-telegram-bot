@@ -434,11 +434,17 @@
     [
      "2026-07-04T09:15:23.028498+09:00",
      "매일 나나 국가예산이 수천조 어디서 수백조 홍준표 투자발표"
+    ],
+    [
+     "2026-07-04T09:20:43.087846+09:00",
+     "다음 메모리 판도 변수는 HBM 반도체 바꾼 패권의"
+    ],
+    [
+     "2026-07-04T09:20:43.087846+09:00",
+     "손잡고 활동 제주SK와 해양정화 제주항공"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260703005500320?input=2106m",
-    "https://biz.heraldcorp.com/article/10797248",
     "https://www.sisajournal.com/news/articleView.html?idxno=378660",
     "https://www.raonnews.com/news/article.html?no=59295",
     "https://www.munhwa.com/article/11600055",
@@ -1936,11 +1942,11 @@
     "https://dealsite.co.kr/articles/164694",
     "http://www.segyebiz.com/newsView/20260704502176?OutUrl=naver",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000047561",
-    "https://www.news1.kr/politics/general-politics/6217634"
+    "https://www.news1.kr/politics/general-politics/6217634",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1715088",
+    "https://www.namdonews.com/news/articleView.html?idxno=915757"
    ],
    "seen_titles": [
-    "삼성전자,장중6%대폭등…'30만전자'회복",
-    "SK하이닉스,10년만에낸드증설한다",
     "'메타發쇼크'에흔들린반도체株…'피크아웃vs숨고르기'",
     "SKT,‘갤럭시와이드9’와T우주‘구글AI플랜’출시",
     "Seoulsharesup2.1pctlateFri.morningonbargainhunting",
@@ -3438,10 +3444,12 @@
     "[ETF리그테이블][2026년상반기]K반도체가휩쓴상반기…수익률1위는...",
     "기름값부담줄어드나...휘발유·경유값7주연속하락",
     "李대통령'메가프로젝트'…지지율반등계기될까",
-    "홍준표\"매일수백조,수천조투자발표?그돈어디서나나…국가예산이..."
+    "홍준표\"매일수백조,수천조투자발표?그돈어디서나나…국가예산이...",
+    "AI패권의다음변수는HBM…'메모리월'이바꾼반도체판도",
+    "제주항공,제주SK와손잡고해양정화활동"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T09:15:23.028498+09:00"
+   "last_run": "2026-07-04T09:20:43.087846+09:00"
   }
  },
  "press_names": {
