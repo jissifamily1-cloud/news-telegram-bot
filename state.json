@@ -470,13 +470,21 @@
     [
      "2026-07-04T09:45:23.812476+09:00",
      "SK텔레콤 종가 7월 8만원대 3일 형성"
+    ],
+    [
+     "2026-07-04T09:50:43.513508+09:00",
+     "최봉석 산업혁명을 5차 만나볼까"
+    ],
+    [
+     "2026-07-04T09:50:43.513508+09:00",
+     "개미 실탄 바닥나나 120조원 무너진 1조7천 삼전닉스엔 투자자예탁금"
+    ],
+    [
+     "2026-07-04T09:50:43.513508+09:00",
+     "6일 호남 반도체 챙긴다 직접 긴급 점검 대통령"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10797288",
-    "http://www.ttlnews.com/news/articleView.html?idxno=3122544",
-    "https://www.g-enews.com/view.php?ud=202607031058439513a141c47927_1",
-    "https://en.yna.co.kr/view/AEN20260703005400315?input=2106m",
     "https://biz.heraldcorp.com/article/10797300",
     "https://biz.heraldcorp.com/article/10797303",
     "https://biz.heraldcorp.com/article/10797138",
@@ -1972,13 +1980,13 @@
     "https://www.getnews.co.kr/news/articleView.html?idxno=874122",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5203767",
     "https://sports.donga.com/region/article/all/20260704/134235288/1",
-    "https://www.joongangenews.com/news/articleView.html?idxno=530497"
+    "https://www.joongangenews.com/news/articleView.html?idxno=530497",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000047568",
+    "https://www.ezyeconomy.com/news/articleView.html?idxno=237108",
+    "https://www.kizmom.com/news/articleView.html?idxno=111354",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000047567"
    ],
    "seen_titles": [
-    "SKT,'갤럭시와이드9'단독출시…가성비스마트폰",
-    "[이시각헤드라인]7월3일뉴스센터",
-    "“전남광주지방분권시발점…반도체투자,대통령임기내성과”[민...",
-    "반도체업계,美정부에\"메모리공급난개입땐상황악화\"",
     "[기고]충청권성장엔진산업,상향식국가균형성장적기",
     "[기자수첩]국가공인카지노'한국증시'...개미의피눈물은누구탓인...",
     "[인터뷰]성수석이천시장\"반도체와역세권혁신으로'미래가모이는...",
@@ -3474,10 +3482,14 @@
     "증시부양'실탄'예탁금,2개월반만에120조아래로",
     "주유소휘발윳값한주새56원내려1,952원…7주연속하락",
     "성수석이천시장,“시민이주인미래도시”..반도체·역세권새성장...",
-    "7월3일SK텔레콤8만원대종가형성"
+    "7월3일SK텔레콤8만원대종가형성",
+    "휘발유1952원·경유1942원…주유소가격7주째하락",
+    "[EZ데스크의시선]5차산업혁명을만나볼까/최봉석",
+    "120조원무너진투자자예탁금…개미실탄바닥나나,삼전닉스엔1조7천...",
+    "李대통령,호남반도체직접챙긴다…6일긴급점검"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T09:45:23.812476+09:00"
+   "last_run": "2026-07-04T09:50:43.513508+09:00"
   }
  },
  "press_names": {
