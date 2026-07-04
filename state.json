@@ -285,12 +285,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2599973",
-    "https://biz.heraldcorp.com/article/10797379",
-    "https://biz.sbs.co.kr/article_hub/20000320559?division=NAVER",
-    "https://www.newsis.com/view/NISX20260703_0003694665",
-    "https://www.joongangenews.com/news/articleView.html?idxno=530247",
-    "https://www.news1.kr/finance/market-exr/6217060",
     "https://www.cbci.co.kr/news/articleView.html?idxno=586429",
     "https://www.seoul.co.kr/news/economy/securities/2026/07/03/20260703500142?wlog_tag3=naver",
     "https://dealsite.co.kr/articles/164662",
@@ -1784,15 +1778,15 @@
     "https://www.newstopkorea.com/news/articleView.html?idxno=46031",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008641603&plink=ORI&cooper=NAVER",
     "http://www.inews24.com/view/1982441",
-    "https://www.hankyung.com/article/2026070331096"
+    "https://www.hankyung.com/article/2026070331096",
+    "https://www.kbmaeil.com/article/20260704500077",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1715102",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01728566645511240",
+    "https://view.asiae.co.kr/article/2026070416404708041",
+    "https://www.news1.kr/entertain/broadcast-tv/6217725",
+    "https://www.nocutnews.co.kr/news/6543083"
    ],
    "seen_titles": [
-    "‘하루만에반등’코스피,장중8000선회복…삼성·SK8%대급등",
-    "[시포TV]정점식\"노란봉투법·더쎈상법,광주전남반도체클러스터발...",
-    "SKT,40만원대가성비폰'갤럭시와이드9'출시",
-    "SK하이닉스반도체상권,청주화물터미널경매나와",
-    "7월수도권3.2만가구공급⋯평택·이천등‘반세권’눈길",
-    "[속보]경찰,‘삼성전자·SK하이닉스성과금백지화허위사실유포’...",
     "KB증권\"SK하이닉스목표가420만원…메모리공급부족장기화\"",
     "\"산재반복없도록\"…노동부,제조업15개사와긴급회의",
     "SK텔레콤,T우주에구글AI플랜추가…엔트리상품도국내첫출시",
@@ -3286,10 +3280,16 @@
     "'레고랜드악몽'다시거론되는롯데건설…홈플러스PF5738억부담",
     "블룸버그\"SK하이닉스미ADR상장수수료율0.5%검토\"",
     "李대통령\"지지율보다성과\"⋯야권'3대메가프로젝트'비판반박",
-    "\"삼전닉스말고이거살걸\"…'주가8배폭등'1위등극한종목[투자톡]"
+    "\"삼전닉스말고이거살걸\"…'주가8배폭등'1위등극한종목[투자톡]",
+    "블룸버그“SK하이닉스ADR수수료율0.5%검토…주관사몫2000억원육...",
+    "블룸버그\"SK하이닉스,美ADR상장수수료율0.5%검토…주관사2천억...",
+    "“수수료율0.5%지만”…SK하이닉스美ADR,주관사에2000억안긴다",
+    "\"SK하이닉스,美ADR상장수수료율0.5%검토\"",
+    "'전참시'김준상,前직장하이닉스동기들억대성과급에씁쓸…주식매...",
+    "'하이닉스퇴사'김준상아나운서,동기들은'억대성과급'…주식매도..."
    ],
    "initialized": true,
-   "last_run": "2026-07-04T16:40:46.825046+09:00"
+   "last_run": "2026-07-04T16:45:26.315229+09:00"
   }
  },
  "press_names": {
