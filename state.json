@@ -233,7 +233,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260703092300003?input=1195m",
     "https://it.donga.com/109130/",
     "http://www.dailyesports.com/view.php?ud=202606260114561159b91e133c1f_27",
     "https://www.hankookilbo.com/news/article/A2026070313570005010?did=NA",
@@ -1732,10 +1731,10 @@
     "https://news.tvchosun.com/site/data/html_dir/2026/07/04/2026070490132.html",
     "https://www.munhwa.com/article/11600261",
     "http://www.metroseoul.co.kr/article/20260704500052",
-    "https://www.ccreview.co.kr/news/articleView.html?idxno=351952"
+    "https://www.ccreview.co.kr/news/articleView.html?idxno=351952",
+    "http://www.newstomato.com/ReadNews.aspx?no=1306130&inflow=N"
    ],
    "seen_titles": [
-    "코스피장중8000회복…31만전자·240만닉스'터치'",
     "[속보]경찰,‘삼전닉스성과급백지화’가짜뉴스내사착수",
     "'비용부담'없앤다…SKB'구독올인원'vs딜라이브'무료FAST'",
     "[SK재평가]③상장멀어진SK에코플랜트,할인율도달라지나",
@@ -3234,10 +3233,11 @@
     "[돈이보이는경제]롤러코스터타는반도체주…코스피향방은?",
     "“고점물렸다”공포에도…‘59만전자·420만닉스’전망나오는이유",
     "SK하이닉스美ADR수수료율0.5%검토…2000억원대'초대형딜'눈앞",
-    "이종배국회의원,충주AI데이터센터유치'총력'"
+    "이종배국회의원,충주AI데이터센터유치'총력'",
+    "SK하닉,미ADR상장임박…“주관사수수료율0.5%전망”"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T19:55:21.659319+09:00"
+   "last_run": "2026-07-04T20:00:54.429182+09:00"
   }
  },
  "press_names": {
