@@ -246,11 +246,17 @@
     [
      "2026-07-04T18:40:44.722277+09:00",
      "계약학과 일본에도 5개교에 도쿄대 만든다 신설"
+    ],
+    [
+     "2026-07-04T18:50:44.645707+09:00",
+     "외신 삼전닉스가 돈을 국민에게 과제 새로운 한국의"
+    ],
+    [
+     "2026-07-04T18:50:44.645707+09:00",
+     "뉴노멀 사이드카 되나 고환율 1500원대"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260703084851008?input=1195m",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1382589",
     "https://www.donga.com/news/Economy/article/all/20260703/134230887/1",
     "https://www.sedaily.com/article/20063506",
     "https://www.hankyung.com/article/202607034293i",
@@ -1748,11 +1754,11 @@
     "https://www.besteleven.com/news/articleView.html?idxno=309437",
     "https://www.chosun.com/economy/int_economy/2026/07/04/A5WSMV5O7BAH5E4ACE7HKHORZM/",
     "https://www.joongang.co.kr/article/25442423",
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/04/2026070490147.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/04/2026070490147.html",
+    "https://www.sedaily.com/article/20063777",
+    "https://www.ytn.co.kr/_ln/0102_202607041756309488"
    ],
    "seen_titles": [
-    "김민석\"李대통령,지선결과에표정관리안될정도···당혁신나서...",
-    "최태원,K-브랜드지수CEO1위",
     "경찰,'삼전전자·SK하이닉스성과급백지화공문'가짜뉴스내사착수",
     "SK하이닉스,장중10%급등…AI메모리기대감에240만원선안착시도",
     "코스피,5%대↑8,000선회복…삼전·닉스,8%이상급반등(종합)",
@@ -3250,10 +3256,12 @@
     "김천이삼산이수DAY로돌아온다…5일제주전출격준비완료",
     "마이크론,히로시마에14조투자…차세대HBM경쟁격화",
     "與당권주자들주말표심잡기…김민석익산,정청래DJ생가방문",
-    "일본에도'계약학과'만든다…도쿄대등5개교에신설"
+    "일본에도'계약학과'만든다…도쿄대등5개교에신설",
+    "“삼전닉스가번돈을왜국민에게?”…외신“한국의새로운과제”이...",
+    "1500원대고환율·사이드카'뉴노멀'되나?"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T18:45:25.368044+09:00"
+   "last_run": "2026-07-04T18:50:44.645707+09:00"
   }
  },
  "press_names": {
