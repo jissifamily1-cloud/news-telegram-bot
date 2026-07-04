@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-05T00:05:21.701752+09:00",
-     "분양 서울서 써밋클라비온 충정로역자이르네 7월 성수기 맞은"
-    ],
-    [
      "2026-07-05T00:30:53.725885+09:00",
      "김민재 튀르키예 사건 몬스터 초대형 축구 복귀하나 만에 4년"
     ],
@@ -182,12 +178,17 @@
     [
      "2026-07-05T06:05:21.123820+09:00",
      "코스피 롤러코스터가 출렁 여파에 뉴노멀 하루 레버리지"
+    ],
+    [
+     "2026-07-05T06:10:46.176179+09:00",
+     "위기론의 실체 경제 좁다 보이는 미국 이유가 너무 강해"
+    ],
+    [
+     "2026-07-05T06:10:46.176179+09:00",
+     "테슬라 전기차 이유 턱걸이하고 BYD떨어진 평가서 보조금"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260703141314114",
-    "https://www.klnews.co.kr/news/articleView.html?idxno=321779",
-    "http://worknworld.kctu.org/news/articleView.html?idxno=509612",
     "https://www.ddaily.co.kr/page/view/2026070315013211116",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607020901300380103228",
     "https://www.newsis.com/view/NISX20260703_0003694441",
@@ -1684,12 +1685,12 @@
     "https://it.chosun.com/news/articleView.html?idxno=2023092164881",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=204436",
     "https://www.news1.kr/finance/general-stock/6217438",
-    "https://www.news1.kr/finance/general-stock/6217549"
+    "https://www.news1.kr/finance/general-stock/6217549",
+    "https://www.yna.co.kr/view/AKR20260703160200008?input=1195m",
+    "https://www.mt.co.kr/world/2026/07/05/2026070311121851784",
+    "https://www.dt.co.kr/article/12071070"
    ],
    "seen_titles": [
-    "[CEO풍향계]'호남반도체투자'이재용…'AI혁신'신동빈",
-    "SKT,40만원대'갤럭시와이드9'단독출시…가성비5G폰승부수",
-    "SKT,40만원대5G폰‘갤럭시와이드9’단독출시…방수방진지원",
     "Kospibuy-sidesidecaractivatedasbenchmarkstagesdramaticreboun",
     "[장성원의글로벌렌즈]中기술굴기도운애플,이제반도체굴기까지...",
     "그린루프,스마트의류수거솔루션으로자원순환가치입증",
@@ -3186,10 +3187,13 @@
     "파생상품천국美…시장변동성은미미,왜?[레버리지리스크④]",
     "HD현대오일뱅크,디지털혁신및주유소서비스인정받다",
     "'몸통흔드는꼬리'레버리지ETF…예탁금높이고신규'차단'목소리",
-    "롤러코스터가'뉴노멀'…레버리지여파에코스피하루10%출렁"
+    "롤러코스터가'뉴노멀'…레버리지여파에코스피하루10%출렁",
+    "역동의상반기상승률1위는?…삼전닉스아닌'756%'삼성전기",
+    "강해보이는이유가너무좁다…미국경제위기론의실체",
+    "전기차보조금평가서테슬라턱걸이하고BYD떨어진이유"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T06:05:21.123820+09:00"
+   "last_run": "2026-07-05T06:10:46.176179+09:00"
   }
  },
  "press_names": {
