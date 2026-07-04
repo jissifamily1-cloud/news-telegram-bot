@@ -233,8 +233,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/general-stock/6217094",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000047487",
     "https://www.kado.net/news/articleView.html?idxno=2059336",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465356",
     "https://news.mtn.co.kr/news-detail/2026070313513099650",
@@ -1732,11 +1730,11 @@
     "https://www.starnewskorea.com/sports/2026/07/04/2026070418011085662",
     "https://www.kyeonggi.com/article/20260704580139",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8602287",
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2285581"
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2285581",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=4873",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607040145&t=NN"
    ],
    "seen_titles": [
-    "제주항공·제주SK,논짓물해변서해양정화플로깅진행",
-    "경찰,'삼전닉스성과급백지화'가짜뉴스내사착수",
     "“제주바다우리가지킨다”…제주항공·제주SK해양정화플로깅",
     "'삼전닉스성과급백지화'유포자찾는다",
     "삼전8%·하닉9%급등…코스피장중8000선회복[장중시황]",
@@ -3234,10 +3232,12 @@
     "'황선홍호'대전,3연패흐름끊었다...부천과2-2무승부,휴식기이후...",
     "\"내월급은300만원인데,누군성과급6억\"…'성과급계급사회'",
     "“댓글·좋아요가이긴협상”…삼전교섭막전막후",
-    "홈첫승은또다음으로…대전하나,부천과비기며'안방무승'"
+    "홈첫승은또다음으로…대전하나,부천과비기며'안방무승'",
+    "마이크론,일본히로시마에최첨단메모리공장착공…1.5조엔투입",
+    "'삼전닉스'수익률안부럽다…외인러브콜에반년새'8배폭등'"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T21:50:45.330605+09:00"
+   "last_run": "2026-07-04T21:55:24.358093+09:00"
   }
  },
  "press_names": {
