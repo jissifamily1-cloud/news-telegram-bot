@@ -362,12 +362,17 @@
     [
      "2026-07-05T08:35:20.594998+09:00",
      "GRDP 신호탄 집중 수도권 메가 3대 지역균형발전"
+    ],
+    [
+     "2026-07-05T08:45:25.875018+09:00",
+     "가능할까 휴온스와 팀리그 데뷔전 PBA 신생팀 승리 브레이커스"
+    ],
+    [
+     "2026-07-05T08:45:25.875018+09:00",
+     "반도체 공약 경제 민형배 불가피 재설계 투자로"
     ]
    ],
    "seen_urls": [
-    "https://www.hidomin.com/news/articleView.html?idxno=711869",
-    "https://www.mt.co.kr/tech/2026/07/03/2026070315230228996",
-    "https://www.newscj.com/news/articleView.html?idxno=3414268",
     "http://www.4th.kr/news/articleView.html?idxno=2114187",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465390",
     "https://www.theguru.co.kr/news/article.html?no=103829",
@@ -1864,12 +1869,12 @@
     "https://www.newsis.com/view/NISX20260703_0003695527",
     "https://www.mediapen.com/news/view/1108240",
     "https://biz.heraldcorp.com/article/10798222",
-    "https://www.joongang.co.kr/article/25442450"
+    "https://www.joongang.co.kr/article/25442450",
+    "https://www.mydaily.co.kr/page/view/2026070422591034171",
+    "https://www.kukinews.com/article/view/kuk202607050003",
+    "https://www.yna.co.kr/view/AKR20260703064700054?input=1195m"
    ],
    "seen_titles": [
-    "[WIKI현장]SKT,칩에서표준까지…AI·6G시대양자보안청사진",
-    "삼성·SK·한화·현대차,영남권에297조원투자…AI미래산업키운다",
-    "정재헌SKT대표\"울산총1GW,영남2GW이상AI데이터센터구축\"",
     "[속보]정재헌SKTCEO\"SK,아시아최대AIDC인프라허브구축\"",
     "[메가프로젝트]현대차그룹영남권에42조투자…AI자율주행·우주·에...",
     "단순용역탈피적중…에이디테크놀로지,글로벌턴키수주로체질개선...",
@@ -3366,10 +3371,13 @@
     "수도권GRDP53%집중…3대메가,지역균형발전신호탄?",
     "삼성·SK하이닉스가이끄는'반도체슈퍼사이클'미래는",
     "삼전닉스에갇힌K-증시…‘단일레버리지’가변동성폭탄키웠다",
-    "트럼프,쿠팡주식18차례거래…무역대표는취임전쿠팡서보수"
+    "트럼프,쿠팡주식18차례거래…무역대표는취임전쿠팡서보수",
+    "'벌써200경기'삼성1차지명다승왕,삼성팬들에게약속했다…\"많이실...",
+    "PBA팀리그신생팀브레이커스,휴온스와데뷔전승리가능할까",
+    "'민형배경제공약',반도체투자로재설계불가피"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T08:40:42.173267+09:00"
+   "last_run": "2026-07-05T08:45:25.875018+09:00"
   }
  },
  "press_names": {
