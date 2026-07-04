@@ -358,11 +358,13 @@
     [
      "2026-07-05T08:25:21.315932+09:00",
      "이통 지갑 3사로 알뜰폰 열었다 2만명 온누리상품권에"
+    ],
+    [
+     "2026-07-05T08:35:20.594998+09:00",
+     "GRDP 신호탄 집중 수도권 메가 3대 지역균형발전"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260703105100003?input=1195m",
-    "https://www.newsis.com/view/NISI20260703_0021349208",
     "https://www.news1.kr/industry/general-industry/6217227",
     "https://www.dailymedi.com/news/news_view.php?wr_id=938040",
     "http://www.wikileaks-kr.org/news/articleView.html?idxno=189370",
@@ -1860,11 +1862,11 @@
     "https://www.g-enews.com/view.php?ud=202607030851034855ea13369bfa_1",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681393",
     "http://www.inews24.com/view/1982471",
-    "https://www.segye.com/newsView/20260705502109?OutUrl=naver"
+    "https://www.segye.com/newsView/20260705502109?OutUrl=naver",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607050032&t=NN",
+    "https://www.newsis.com/view/NISX20260703_0003695527"
    ],
    "seen_titles": [
-    "수익성힘주는통신3사...2분기합산영업익1.4조원웃돌듯",
-    "\"2분기메모리시장규모350조원…내년하반기상승세둔화\"",
     "투자계획발표하는정재헌SK텔레콤사장",
     "[속보]SK\"영남권에2GW이상AIDC완성계획…140조투자예정\"",
     "제약바이오協·캐나다,AI기반신약개발공동연구모색",
@@ -3362,10 +3364,12 @@
     "동부건설,반도체공사잇단수주…첨단산업시설경쟁력키운다",
     "[증시전망]코스피8000선회복했지만...삼성전자실적에쏠린눈",
     "이통3사2분기실적희비…SKT·LGU+선방,KT는역기저",
-    "“온누리상품권에지갑열었다”…알뜰폰1.2만명이통3사로"
+    "“온누리상품권에지갑열었다”…알뜰폰1.2만명이통3사로",
+    "흔들리는청년고용…IT부터법률까지'AI충격'",
+    "수도권GRDP53%집중…3대메가,지역균형발전신호탄?"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T08:30:52.888515+09:00"
+   "last_run": "2026-07-05T08:35:20.594998+09:00"
   }
  },
  "press_names": {
