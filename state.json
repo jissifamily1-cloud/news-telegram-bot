@@ -238,12 +238,21 @@
     [
      "2026-07-04T17:05:21.874054+09:00",
      "전국 피지컬AI 후공정 첨단 반도체 밸류체인 시동 충청 호남 영남"
+    ],
+    [
+     "2026-07-04T17:30:49.041267+09:00",
+     "솔루션 반도체 피지컬 속도 LG전자 기업 대신"
+    ],
+    [
+     "2026-07-04T17:30:49.041267+09:00",
+     "삼성전자 이어질까 추가 SK하이닉스 급등한 상승"
+    ],
+    [
+     "2026-07-04T17:30:49.041267+09:00",
+     "품은 꿰차고 목동 포스코이앤씨 알짜 서울역 중림동 성수 겨냥"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026070314084531390",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=846028",
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=82888",
     "https://hbnpress.com/news/view/1065589436639080",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=03752326645510912",
     "https://www.mt.co.kr/society/2026/07/03/2026070314034889365",
@@ -1740,12 +1749,12 @@
     "https://www.news1.kr/politics/assembly/6217771",
     "https://www.newsis.com/view/NISX20260703_0003695512",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008641619&plink=ORI&cooper=NAVER",
-    "http://www.tvdaily.co.kr/read.php3?aid=17831529921792648019"
+    "http://www.tvdaily.co.kr/read.php3?aid=17831529921792648019",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=361579",
+    "https://economist.co.kr/article/view/ecn202607040013",
+    "http://www.inews24.com/view/1982272"
    ],
    "seen_titles": [
-    "현대차서안전투자매년10%상향…삼립'노동자작업중지권'보장",
-    "유시민의‘재건축론’은‘가짜뉴스’다",
-    "[속보]코스피,급반등에매수사이드카발동",
     "미자,주식1억잃고오열…눈물쏟고도하이닉스투자",
     "코스피,급반등해8000선복귀…반도체株강세",
     "코스피,장중5%급등'8000선'회복…매수사이드카발동",
@@ -3242,10 +3251,13 @@
     "與당권주자주말…김민석익산·정청래DJ생가·송영길與대학생위(종...",
     "호남반도체팹·영남피지컬AI·충청후공정…전국첨단밸류체인시동...",
     "김민석,조만간'호남반도체부지'광주군공항서당대표출마선언",
-    "\"동기들억대성과급\"…'하이닉스출신'김준상아나운서,숙연한근황..."
+    "\"동기들억대성과급\"…'하이닉스출신'김준상아나운서,숙연한근황...",
+    "LG전자,반도체대신피지컬AI…종합솔루션기업전환속도",
+    "8%·10%급등한삼성전자·SK하이닉스…추가상승이어질까",
+    "서울역앞알짜품은포스코이앤씨⋯중림동꿰차고성수·목동겨냥"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T17:25:23.334761+09:00"
+   "last_run": "2026-07-04T17:30:49.041267+09:00"
   }
  },
  "press_names": {
