@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-04T10:30:47.658505+09:00",
-     "계룡건설산업 삼성전기 한화에어로스페이스 셀트리온"
-    ],
-    [
      "2026-07-04T10:35:19.565021+09:00",
      "반도체 정부가 투자전략 그리는 삼성 지방지도"
     ],
@@ -274,13 +270,21 @@
     [
      "2026-07-04T16:25:21.640752+09:00",
      "이번주 20조 외인 상승 반짝 투매 조정일까"
+    ],
+    [
+     "2026-07-04T16:30:49.571698+09:00",
+     "삼성전자 고객사에 매체 인상 3분기 D램값 통지"
+    ],
+    [
+     "2026-07-04T16:30:49.571698+09:00",
+     "20년짜리 성장엔진이 있나 투자 1600조"
+    ],
+    [
+     "2026-07-04T16:30:49.571698+09:00",
+     "인재 반도체 전략이 관건 민형배 정착형 지역 사람 경쟁력은 시장"
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202607031334298286",
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/03/20260703500138?wlog_tag3=naver",
-    "https://www.mt.co.kr/tech/2026/07/03/2026070313420194782",
-    "https://biz.chosun.com/stock/stock_general/2026/07/03/MZISFMKNWZDIFGHYHTTQB2BXJI/",
     "https://www.etoday.co.kr/news/view/2600036",
     "https://www.cbci.co.kr/news/articleView.html?idxno=586422",
     "https://www.seoul.co.kr/news/politics/2026/07/03/20260703500141?wlog_tag3=naver",
@@ -1776,13 +1780,13 @@
     "https://www.seoulfn.com/news/articleView.html?idxno=632676",
     "https://www.sedaily.com/article/20063770",
     "http://www.yonhapnewstv.co.kr/news/MYH20260704161928DLs",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2445505"
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2445505",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260704162512HyK",
+    "http://www.segyebiz.com/newsView/20260704504430?OutUrl=naver",
+    "https://sateconomy.co.kr/news/view/1065572737837951",
+    "https://www.ppss.kr/news/articleView.html?idxno=301054"
    ],
    "seen_titles": [
-    "삼성전자,앤트로픽맞춤형AI칩생산협의…파운드리반등기회잡나",
-    "[산업분석]삼성전자·SK하이닉스,AI전력112.6TWh변수",
-    "아비바,산업지능화기반AI·디지털전환혁신발표",
-    "코스피4%대상승에8,000선회복…삼성전자·SK하이닉스반등",
     "\"李대통령인허가밤새워서라도\"…서남권반도체구축속도",
     "[서울데이터랩]삼성전자·SK하이닉스강세속거래대금집중…건설·중...",
     "SKT,T우주에서'구글AI플러스'월6900원에출시",
@@ -3278,10 +3282,14 @@
     "[대한민국리빌딩⑤]392조몰린충청···삼성·SK·LG가선택한'K-기...",
     "SK하이닉스ADR상장임박…주관사수수료2000억육박전망",
     "급락장마다'삼전닉스'레버리지…고위험경고도",
-    "[증시현황]외인이번주'20조투매',상승전반짝조정일까"
+    "[증시현황]외인이번주'20조투매',상승전반짝조정일까",
+    "블룸버그\"SK하닉美ADR상장수수료율0.5%검토\"",
+    "中매체“삼성전자,3분기D램값20%인상예정...고객사에통지”",
+    "1600조투자,20년짜리성장엔진이될수있나",
+    "민형배시장\"반도체경쟁력은사람\"…지역정착형인재전략이관건"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T16:25:21.640752+09:00"
+   "last_run": "2026-07-04T16:30:49.571698+09:00"
   }
  },
  "press_names": {
