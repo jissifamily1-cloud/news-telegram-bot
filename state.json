@@ -498,10 +498,13 @@
     [
      "2026-07-04T12:55:20.485352+09:00",
      "출마 통합특별시서 김민석 선택 대표 선언 반도체 중심지"
+    ],
+    [
+     "2026-07-04T13:00:54.849971+09:00",
+     "반발 국힘 민주 앞두고 모인 원구성 국회 전당대회"
     ]
    ],
    "seen_urls": [
-    "https://www.techm.kr/news/articleView.html?idxno=153106",
     "https://www.veritas-a.com/news/articleView.html?idxno=617856",
     "https://www.g-enews.com/view.php?ud=202607031241034372923c501012_1",
     "https://www.electimes.com/news/articleView.html?idxno=369892",
@@ -2000,10 +2003,10 @@
     "https://www.econovill.com/news/articleView.html?idxno=744270",
     "https://view.asiae.co.kr/article/2026070217211077799",
     "https://www.pressian.com/pages/articles/2026070412384674563",
-    "https://www.nocutnews.co.kr/news/6543059"
+    "https://www.nocutnews.co.kr/news/6543059",
+    "https://www.ytn.co.kr/_ln/0101_202607041246472338"
    ],
    "seen_titles": [
-    "SKT,구글AI구독서비스·'갤럭시와이드9'선보여",
     "증시양극화는'현재진행형'...코스피3.6%↑,코스닥2.4%↓[fn오후시황...",
     "‘이번엔영남’첨단산업전국지도완성",
     "[기자수첩]주소지공백에군공항충돌까지,통합특별시...출범부터불...",
@@ -3502,10 +3505,11 @@
     "증시흔드는'변수'…개인매수여력·중복상장제동·환율변동'촉각'",
     "급등급락'롤러코스터'증시…범인은'델타'였다[주末머니]",
     "김해乙김정호의원\"경남이다시뛰게될것\"",
-    "김민석,통합특별시서당대표출마선언…반도체중심지선택왜"
+    "김민석,통합특별시서당대표출마선언…반도체중심지선택왜",
+    "전당대회앞두고모인민주...국회원구성반발국힘"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T12:55:20.485352+09:00"
+   "last_run": "2026-07-04T13:00:54.849971+09:00"
   }
  },
  "press_names": {
