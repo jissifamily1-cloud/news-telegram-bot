@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-04T10:10:42.223351+09:00",
-     "뒷걸음 운명 반도체가 충청권의 쪼갠 충남 초고속 충북"
-    ],
-    [
      "2026-07-04T10:15:26.155577+09:00",
      "수출에도 증권가는 반도체주 모멘텀 유효 급락 사상"
     ],
@@ -274,11 +270,17 @@
     [
      "2026-07-04T16:05:20.795019+09:00",
      "몰빵 반도체 그늘 어디로 제조업 코리아 투자의 강국"
+    ],
+    [
+     "2026-07-04T16:10:44.264978+09:00",
+     "블룸버그 SK하이닉스 ADR 검토 수수료율 상장"
+    ],
+    [
+     "2026-07-04T16:10:44.264978+09:00",
+     "LG가 선택한 삼성 몰린 충청 392조"
     ]
    ],
    "seen_urls": [
-    "https://wemakenews.co.kr/news/view.php?no=25677",
-    "https://www.greened.kr/news/articleView.html?idxno=344158",
     "https://www.topstarnews.net/news/articleView.html?idxno=16122441",
     "https://www.thelec.kr/news/articleView.html?idxno=59053",
     "https://www.slist.kr/news/articleView.html?idxno=749409",
@@ -1776,11 +1778,11 @@
     "https://www.sisajournal-e.com/news/articleView.html?idxno=422200",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=723808",
     "https://www.sidae.com/article/2026070415370784390",
-    "http://weekly.chosun.com/news/articleView.html?idxno=53129"
+    "http://weekly.chosun.com/news/articleView.html?idxno=53129",
+    "https://www.yna.co.kr/view/AKR20260704031000009?input=1195m",
+    "https://www.seoulfn.com/news/articleView.html?idxno=632676"
    ],
    "seen_titles": [
-    "[이시각헤드라인]7월3일뉴스현장",
-    "코웨이·SK·쿠쿠,렌탈판도흔들R&D함수…지속성장·짠물경영명암",
     "SK,1·2·3차협력사와상생협약…하이닉스1.4조자금활용",
     "SKT,40만원대'갤럭시와이드9'출시..전용폰가격경쟁가세",
     "롯데건설'르엘',6월하이엔드아파트호감도1위…호반써밋·드파인...",
@@ -3278,10 +3280,12 @@
     "미래에셋증권1.2조CP발행추진···SK하이닉스'큰손'으로나서나",
     "[증시주간핫리뷰]'메타쇼크'에반도체급락…계속되는'롤러코스터...",
     "김민석,퇴임후첫주말익산행\"메가프로젝트,전북도약할것\"",
-    "반도체'몰빵'투자의그늘…종합제조업강국'코리아'는어디로"
+    "반도체'몰빵'투자의그늘…종합제조업강국'코리아'는어디로",
+    "블룸버그\"SK하이닉스美ADR상장수수료율0.5%검토\"",
+    "[대한민국리빌딩⑤]392조몰린충청···삼성·SK·LG가선택한'K-기..."
    ],
    "initialized": true,
-   "last_run": "2026-07-04T16:05:20.795019+09:00"
+   "last_run": "2026-07-04T16:10:44.264978+09:00"
   }
  },
  "press_names": {
