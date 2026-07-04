@@ -485,8 +485,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10797300",
-    "https://biz.heraldcorp.com/article/10797303",
     "https://biz.heraldcorp.com/article/10797138",
     "http://www.beyondpost.co.kr/view.php?ud=202607031137291522205868f676_30",
     "https://www.news1.kr/local/gwangju-jeonnam/6216896",
@@ -1984,11 +1982,11 @@
     "https://www.jnilbo.com/news/articleView.html?idxno=90000047568",
     "https://www.ezyeconomy.com/news/articleView.html?idxno=237108",
     "https://www.kizmom.com/news/articleView.html?idxno=111354",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000047567"
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000047567",
+    "https://www.sedaily.com/article/20063740",
+    "https://www.mediapen.com/news/view/1108188"
    ],
    "seen_titles": [
-    "[기고]충청권성장엔진산업,상향식국가균형성장적기",
-    "[기자수첩]국가공인카지노'한국증시'...개미의피눈물은누구탓인...",
     "[인터뷰]성수석이천시장\"반도체와역세권혁신으로'미래가모이는...",
     "PresidentialofficialrefuteselectricitysupplyconcernsoverHona",
     "與‘레버리지ETF’칼빼든다[도마오른레버리지ETF][H-EXCLUSIVE]",
@@ -3486,10 +3484,12 @@
     "휘발유1952원·경유1942원…주유소가격7주째하락",
     "[EZ데스크의시선]5차산업혁명을만나볼까/최봉석",
     "120조원무너진투자자예탁금…개미실탄바닥나나,삼전닉스엔1조7천...",
-    "李대통령,호남반도체직접챙긴다…6일긴급점검"
+    "李대통령,호남반도체직접챙긴다…6일긴급점검",
+    "휘발윳값7주째하락…전국평균1952원,경유도1940원대로",
+    "주유소기름값7주연속하락…휘발유1952원·경유1942원"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T09:50:43.513508+09:00"
+   "last_run": "2026-07-04T09:55:19.475685+09:00"
   }
  },
  "press_names": {
