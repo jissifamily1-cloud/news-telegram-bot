@@ -106,10 +106,13 @@
     [
      "2026-07-05T05:55:19.820899+09:00",
      "삼전닉스는 둘러싼 전망 마이크론 엇갈린"
+    ],
+    [
+     "2026-07-05T06:01:01.500769+09:00",
+     "탄력 2Q 피크아웃 메가 프로젝트 영업익 삼성전자 85조 전망"
     ]
    ],
    "seen_urls": [
-    "https://www.topstarnews.net/news/articleView.html?idxno=16122490",
     "https://www.seoul.co.kr/news/society/2026/07/03/20260703500165?wlog_tag3=naver",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607030335&t=NN",
     "https://www.businesspost.co.kr/BP?command=article_view&num=441504",
@@ -1608,10 +1611,10 @@
     "https://www.yna.co.kr/view/AKR20260704026900002?input=1195m",
     "https://www.yna.co.kr/view/AKR20260704036600002?input=1195m",
     "https://www.yna.co.kr/view/AKR20260704030300002?input=1195m",
-    "http://www.fnnews.com/news/202607050500429987"
+    "http://www.fnnews.com/news/202607050500429987",
+    "https://www.yna.co.kr/view/AKR20260703097100003?input=1195m"
    ],
    "seen_titles": [
-    "정부,중복상장규제가이드라인'9일전후'발표…관망하는기업들",
     "AI·반도체메가프로젝트본격화…하반기건설업,대형사성장기대감",
     "경찰‘반도체성과급백지화공문’가짜뉴스내사착수",
     "SKT,40만원대5G폰'갤럭시와이드9'단독출시",
@@ -3110,10 +3113,11 @@
     "한은\"삼전닉스레버리지ETF로쏠림심화·변동성확대\"",
     "단일종목레버리지'괴리율초과'60건육박…LP관리손본다",
     "외인156조순매도에원화가치6%↓…24시거래로환율안정될까",
-    "마이크론둘러싼엇갈린전망…삼전닉스는(?)"
+    "마이크론둘러싼엇갈린전망…삼전닉스는(?)",
+    "피크아웃?삼성전자2Q영업익85조전망…메가프로젝트탄력"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T05:55:19.820899+09:00"
+   "last_run": "2026-07-05T06:01:01.500769+09:00"
   }
  },
  "press_names": {
