@@ -230,10 +230,13 @@
     [
      "2026-07-04T19:35:19.167190+09:00",
      "롤러코스터 코스피 타는 반도체주 향방은"
+    ],
+    [
+     "2026-07-04T19:50:46.518851+09:00",
+     "데이터센터 국회의원 유치 충주 총력 이종배"
     ]
    ],
    "seen_urls": [
-    "http://www.press9.kr/news/articleView.html?idxno=78888",
     "https://www.yna.co.kr/view/AKR20260703092300003?input=1195m",
     "https://it.donga.com/109130/",
     "http://www.dailyesports.com/view.php?ud=202606260114561159b91e133c1f_27",
@@ -1732,10 +1735,10 @@
     "https://www.mk.co.kr/article/12090344",
     "https://news.tvchosun.com/site/data/html_dir/2026/07/04/2026070490132.html",
     "https://www.munhwa.com/article/11600261",
-    "http://www.metroseoul.co.kr/article/20260704500052"
+    "http://www.metroseoul.co.kr/article/20260704500052",
+    "https://www.ccreview.co.kr/news/articleView.html?idxno=351952"
    ],
    "seen_titles": [
-    "삼전·닉스급반등에코스피매수사이드카발동",
     "코스피장중8000회복…31만전자·240만닉스'터치'",
     "[속보]경찰,‘삼전닉스성과급백지화’가짜뉴스내사착수",
     "'비용부담'없앤다…SKB'구독올인원'vs딜라이브'무료FAST'",
@@ -3234,10 +3237,11 @@
     "“어느덧30살된코스닥,대수술들어간다”…거래소가꺼낸극약처방",
     "[돈이보이는경제]롤러코스터타는반도체주…코스피향방은?",
     "“고점물렸다”공포에도…‘59만전자·420만닉스’전망나오는이유",
-    "SK하이닉스美ADR수수료율0.5%검토…2000억원대'초대형딜'눈앞"
+    "SK하이닉스美ADR수수료율0.5%검토…2000억원대'초대형딜'눈앞",
+    "이종배국회의원,충주AI데이터센터유치'총력'"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T19:45:26.866738+09:00"
+   "last_run": "2026-07-04T19:50:46.518851+09:00"
   }
  },
  "press_names": {
