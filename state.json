@@ -230,10 +230,13 @@
     [
      "2026-07-05T06:55:20.418061+09:00",
      "휘발유 경유 내려가 중반까지 전국 하락 동반 1천900원대 평균 7주째"
+    ],
+    [
+     "2026-07-05T07:00:56.681776+09:00",
+     "가치평가 재평가 상장 SK하이닉스 미국 ADR 시험대 글로벌"
     ]
    ],
    "seen_urls": [
-    "http://www.newstomato.com/ReadNews.aspx?no=1306077&inflow=N",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607030379&t=NN",
     "https://www.yna.co.kr/view/PYH20260703099600013?input=1196m",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/03/2026070300149.html",
@@ -1732,10 +1735,10 @@
     "https://biz.heraldcorp.com/article/10795575",
     "https://it.chosun.com/news/articleView.html?idxno=2023092165118",
     "https://www.slist.kr/news/articleView.html?idxno=749630",
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=61204"
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=61204",
+    "https://www.g-enews.com/view.php?ud=202607050637313148fbbec65dfb_1"
    ],
    "seen_titles": [
-    "증시급등락에증권사리스크관리'비상'…증거금상향잇따라",
     "이찬일의글로벌경제브리프231-1",
     "시간이증명한하이엔드가치…몸값오르고지역대장'우뚝'",
     "한화토탈에너지스,중동정세불안속폴리머가격인하…국내산업안...",
@@ -3234,10 +3237,11 @@
     "민형배전남광주시장“호남반도체,대통령임기내성과낼것”[민선...",
     "\"플라스틱가고유리온다\"...삼성·SK·LG,유리기판상용화'속도전'",
     "'이래서?'트럼프,취임후쿠팡株18회거래…무역대표,취임전쿠팡서...",
-    "휘발유·경유7주째동반하락…전국평균1천900원대중반까지내려가"
+    "휘발유·경유7주째동반하락…전국평균1천900원대중반까지내려가",
+    "SK하이닉스미국ADR상장추진…글로벌가치평가재평가시험대"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T06:55:20.418061+09:00"
+   "last_run": "2026-07-05T07:00:56.681776+09:00"
   }
  },
  "press_names": {
