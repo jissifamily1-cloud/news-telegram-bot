@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-04T05:30:48.674917+09:00",
-     "연장 못한 접전 3쿼터 끝에 역전 대만과 리드 한국 지키지"
-    ],
-    [
-     "2026-07-04T05:35:20.458562+09:00",
-     "수출 단가 가격 D램 올랐지만 하락 9개월만 kg당"
-    ],
-    [
      "2026-07-04T05:55:19.121987+09:00",
      "SK하이닉스 기업 거버넌스"
     ],
@@ -578,12 +570,17 @@
     [
      "2026-07-04T11:25:20.364007+09:00",
      "fuel week Korea seventh for prices fall"
+    ],
+    [
+     "2026-07-04T11:35:21.595761+09:00",
+     "미자 오열 주식 1억 잃고 투자자 운건 폭망 그렇게 항의 받더니"
+    ],
+    [
+     "2026-07-04T11:35:21.595761+09:00",
+     "나서나 자금조달 투자자로 1조3천억 미래에셋 SK하이닉스"
     ]
    ],
    "seen_urls": [
-    "http://www.breaknews.com/1218863",
-    "http://www.breaknews.com/1218923",
-    "http://www.breaknews.com/1218898",
     "https://www.energy-news.co.kr/news/articleView.html?idxno=226563",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=03627686645510912",
     "http://www.breaknews.com/1218857",
@@ -2080,12 +2077,12 @@
     "https://view.asiae.co.kr/article/2026070208434724860",
     "https://www.koreajoongangdaily.com/business/korea-fuel-prices-fall-for-seventh-week/12754942",
     "https://www.livebiz.today/news/articleView.html?idxno=203086",
-    "http://www.fnnews.com/news/202607041119542860"
+    "http://www.fnnews.com/news/202607041119542860",
+    "https://magazine.hankyung.com/business/article/202607045424b",
+    "https://www.tvreport.co.kr/entertainment/article/1058817/",
+    "https://biz.sbs.co.kr/article_hub/20000320661?division=NAVER"
    ],
    "seen_titles": [
-    "[시사정각]민주당전당대회3파전본격시작...정청래·김민석·송영길...",
-    "디렉시온,SK하이닉스2배레버리지ETF나스닥출시준비",
-    "SK오션플랜트,세계최대수준고정식해상풍력하부구조물수출",
     "민형배전남광주시장,수자원공사현장점검…\"반도체메가프로젝트용...",
     "충남도,202조원‘반도체머니’유치…",
     "'국민행복현대카드'출시..정부복지바우처통합",
@@ -3582,10 +3579,13 @@
     "1000조몰리는삼전닉스용인공장…수혜기대株는[주末머니]",
     "Koreafuelpricesfallforseventhweek",
     "전국주유소휘발유·경유가격7주연속동반하락....휘발윳값한주새...",
-    "李대통령\"3대메가프로젝트,만약지지율관리면지선전시작했어\""
+    "李대통령\"3대메가프로젝트,만약지지율관리면지선전시작했어\"",
+    "[속보]\"정부가기업성과급잔치\"...홍준표,수천조'메가프로젝트'쓴...",
+    "투자자항의받더니…미자,'주식폭망'→1억잃고오열\"그렇게운건처...",
+    "미래에셋,1조3천억자금조달추진…SK하이닉스투자자로나서나"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T11:30:46.792949+09:00"
+   "last_run": "2026-07-04T11:35:21.595761+09:00"
   }
  },
  "press_names": {
