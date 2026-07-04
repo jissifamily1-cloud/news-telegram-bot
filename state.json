@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-04T14:00:55.084008+09:00",
-     "아나운서 억대 전참 놓쳐 성과급 비하인드 하이닉스 김준상 퇴사"
-    ],
-    [
      "2026-07-04T14:05:21.270970+09:00",
      "개인정보 개인정보위 유출 결정 KT 22일 과징금 규모"
     ],
@@ -230,10 +226,13 @@
     [
      "2026-07-04T19:50:46.518851+09:00",
      "데이터센터 국회의원 유치 충주 총력 이종배"
+    ],
+    [
+     "2026-07-04T20:05:20.822200+09:00",
+     "우려 출렁인 하루 씻어낼까 750포인트 피크아웃 코스피"
     ]
    ],
    "seen_urls": [
-    "https://it.donga.com/109130/",
     "http://www.dailyesports.com/view.php?ud=202606260114561159b91e133c1f_27",
     "https://www.hankookilbo.com/news/article/A2026070313570005010?did=NA",
     "http://www.newsprime.co.kr/news/article.html?no=739050",
@@ -1732,10 +1731,10 @@
     "https://www.munhwa.com/article/11600261",
     "http://www.metroseoul.co.kr/article/20260704500052",
     "https://www.ccreview.co.kr/news/articleView.html?idxno=351952",
-    "http://www.newstomato.com/ReadNews.aspx?no=1306130&inflow=N"
+    "http://www.newstomato.com/ReadNews.aspx?no=1306130&inflow=N",
+    "https://www.segye.com/newsView/20260703513191?OutUrl=naver"
    ],
    "seen_titles": [
-    "[속보]경찰,‘삼전닉스성과급백지화’가짜뉴스내사착수",
     "'비용부담'없앤다…SKB'구독올인원'vs딜라이브'무료FAST'",
     "[SK재평가]③상장멀어진SK에코플랜트,할인율도달라지나",
     "한화토탈,고객사제품납품가격t당최대20만원인하",
@@ -3234,10 +3233,11 @@
     "“고점물렸다”공포에도…‘59만전자·420만닉스’전망나오는이유",
     "SK하이닉스美ADR수수료율0.5%검토…2000억원대'초대형딜'눈앞",
     "이종배국회의원,충주AI데이터센터유치'총력'",
-    "SK하닉,미ADR상장임박…“주관사수수료율0.5%전망”"
+    "SK하닉,미ADR상장임박…“주관사수수료율0.5%전망”",
+    "하루750포인트출렁인코스피…‘AI피크아웃'우려씻어낼까"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T20:00:54.429182+09:00"
+   "last_run": "2026-07-04T20:05:20.822200+09:00"
   }
  },
  "press_names": {
