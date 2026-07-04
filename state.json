@@ -542,12 +542,17 @@
     [
      "2026-07-04T10:30:47.658505+09:00",
      "계룡건설산업 삼성전기 한화에어로스페이스 셀트리온"
+    ],
+    [
+     "2026-07-04T10:35:19.565021+09:00",
+     "반도체 정부가 투자전략 그리는 삼성 지방지도"
+    ],
+    [
+     "2026-07-04T10:35:19.565021+09:00",
+     "리터당 주만에 휘발윳값 내려 1원 7원"
     ]
    ],
    "seen_urls": [
-    "https://www.munhwa.com/article/11600085",
-    "https://www.munhwa.com/article/11600111",
-    "https://kr.aving.net/news/articleView.html?idxno=1812098",
     "https://www.munhwa.com/article/11600103",
     "https://www.ziksir.com/news/articleView.html?idxno=138985",
     "https://www.yna.co.kr/view/AKR20260703073600008?input=1195m",
@@ -2044,12 +2049,12 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=0030062410&code=61121111&cp=nv",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005872059",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005872061",
-    "https://www.kdpress.co.kr/news/articleView.html?idxno=206651"
+    "https://www.kdpress.co.kr/news/articleView.html?idxno=206651",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=846110",
+    "http://www.newslock.co.kr/news/articleView.html?idxno=132489",
+    "https://news.mtn.co.kr/news-detail/2026070410211165473"
    ],
    "seen_titles": [
-    "광주→아산→진주‘메가투자세일즈’…李지지율하락세꺾었다",
-    "AI메가프로젝트,리스크도‘메가’급[포럼]",
-    "이재명지지율↑54%···\"집값·전셋값뛴다\"국민10명중6명",
     "AI거품론‘널뛰는반도체’…삼전닉스하루시총432조증발뒤혼조세",
     "SKT‘구글AI플랜’체험",
     "정치가산업삼킨독일의교훈[이관범의시론]",
@@ -3546,10 +3551,13 @@
     "“아직비싸네”휘발유·경유한주새56원내린1950원대",
     "휘발유·경유가격7주연속하락",
     "투자자예탁금2개월반만에120조원아래로…개인매수여력우려",
-    "[주요공시]한화에어로스페이스,삼성전기,계룡건설산업,셀트리온,서..."
+    "[주요공시]한화에어로스페이스,삼성전기,계룡건설산업,셀트리온,서...",
+    "주유소기름값7주연속하락,휘발유1950원대",
+    "[뉴스락특별기획]정부가그리는반도체지방지도...삼성·SK투자전략...",
+    "휘발윳값리터당1952.1원…한주만에55.7원내려"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T10:30:47.658505+09:00"
+   "last_run": "2026-07-04T10:35:19.565021+09:00"
   }
  },
  "press_names": {
