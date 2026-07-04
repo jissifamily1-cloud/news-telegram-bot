@@ -306,11 +306,13 @@
     [
      "2026-07-05T07:50:47.906403+09:00",
      "전쟁 인프라 소버린AI 마지막 승부처는 데이터센터 1천조"
+    ],
+    [
+     "2026-07-05T08:00:54.745308+09:00",
+     "감소 SW개발자 확산 통번역가 디자이너 줄었다 청년고용"
     ]
    ],
    "seen_urls": [
-    "https://www.getnews.co.kr/news/articleView.html?idxno=874059",
-    "https://www.yna.co.kr/view/AKR20260703107800017?input=1195m",
     "http://www.fntimes.com/html/view.php?ud=202607031510555726a837df6494_18",
     "https://www.asiaa.co.kr/news/articleView.html?idxno=254216",
     "https://www.dailian.co.kr/news/view/1663189/?sc=Naver",
@@ -1808,11 +1810,11 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008641910&plink=ORI&cooper=NAVER",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000047608",
     "https://www.ccdailynews.com/news/articleView.html?idxno=2426003",
-    "https://www.yna.co.kr/view/AKR20260703129800017?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260703129800017?input=1195m",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1715109",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16123929"
    ],
    "seen_titles": [
-    "삼성전자,앤트로픽AI칩생산검토···파운드리부활청신호",
-    "코스피8000선회복‥반도체주강세",
     "현대차그룹,영남권에10년간42조투자…AI모빌리티·제조거점키운다",
     "생성형AI,일상속기본인프라로…2026상반기마케팅트렌드부상",
     "[비즈뉴스룸]제주항공제주SKFC해양정화활동·에쓰오일도심무료음...",
@@ -3310,10 +3312,12 @@
     "트럼프,취임후쿠팡주식18차례거래…당국자들도쿠팡서보수받아",
     "'호남반도체800조투자'삼성전자·SK하이닉스,미국투자압박'시험...",
     "이종배의원\"충주AI데이터센터선정에역량집중\"",
-    "소버린AI마지막승부처는데이터센터…1천조인프라전쟁"
+    "소버린AI마지막승부처는데이터센터…1천조인프라전쟁",
+    "트럼프,취임후쿠팡주식18차례거래…USTR대표도취임전보수수령",
+    "AI확산속청년고용감소…SW개발자·디자이너·통번역가줄었다"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T07:55:22.066841+09:00"
+   "last_run": "2026-07-05T08:00:54.745308+09:00"
   }
  },
  "press_names": {
