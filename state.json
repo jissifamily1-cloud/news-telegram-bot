@@ -581,8 +581,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.snmnews.com/news/articleView.html?idxno=571618",
-    "http://www.breaknews.com/1218853",
     "http://www.breaknews.com/1218863",
     "http://www.breaknews.com/1218923",
     "http://www.breaknews.com/1218898",
@@ -2080,11 +2078,11 @@
     "https://kidd.co.kr/news/246602",
     "https://www.segye.com/newsView/20260704503047?OutUrl=naver",
     "https://view.asiae.co.kr/article/2026070208434724860",
-    "https://www.koreajoongangdaily.com/business/korea-fuel-prices-fall-for-seventh-week/12754942"
+    "https://www.koreajoongangdaily.com/business/korea-fuel-prices-fall-for-seventh-week/12754942",
+    "https://www.livebiz.today/news/articleView.html?idxno=203086",
+    "http://www.fnnews.com/news/202607041119542860"
    ],
    "seen_titles": [
-    "성수석이천시장“AI·반도체·역세권중심'미래이천'열겠다”",
-    "D램가격,3분기에도최대20%공격적인상…AI수요굳건",
     "[시사정각]민주당전당대회3파전본격시작...정청래·김민석·송영길...",
     "디렉시온,SK하이닉스2배레버리지ETF나스닥출시준비",
     "SK오션플랜트,세계최대수준고정식해상풍력하부구조물수출",
@@ -3582,10 +3580,12 @@
     "호남반도체클러스터,문제는용수와전력공급",
     "[속보]李대통령“‘3대메가프로젝트’가지지율관리였다면지선전...",
     "1000조몰리는삼전닉스용인공장…수혜기대株는[주末머니]",
-    "Koreafuelpricesfallforseventhweek"
+    "Koreafuelpricesfallforseventhweek",
+    "전국주유소휘발유·경유가격7주연속동반하락....휘발윳값한주새...",
+    "李대통령\"3대메가프로젝트,만약지지율관리면지선전시작했어\""
    ],
    "initialized": true,
-   "last_run": "2026-07-04T11:25:20.364007+09:00"
+   "last_run": "2026-07-04T11:30:46.792949+09:00"
   }
  },
  "press_names": {
