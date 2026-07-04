@@ -246,11 +246,13 @@
     [
      "2026-07-04T17:45:26.867647+09:00",
      "동양생명 우려 인상 냉담 편입 우리금융 차질 에도 소액주주"
+    ],
+    [
+     "2026-07-04T17:50:45.792820+09:00",
+     "서진시스템 하이브 사고 팔았다"
     ]
    ],
    "seen_urls": [
-    "http://www.beyondpost.co.kr/view.php?ud=2026070314001421be44c0aacd_30",
-    "https://www.ziksir.com/news/articleView.html?idxno=139003",
     "https://www.donga.com/news/Economy/article/all/20260703/134230834/2",
     "https://www.cstimes.com/news/articleView.html?idxno=712184",
     "http://www.fnnews.com/news/202607031335284814",
@@ -1748,11 +1750,11 @@
     "http://www.economytalk.kr/news/articleView.html?idxno=422458",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4092981",
     "https://www.etoday.co.kr/news/view/2600250",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=81410"
+    "https://www.pointe.co.kr/news/articleView.html?idxno=81410",
+    "http://www.newstomato.com/ReadNews.aspx?no=1306127&inflow=N",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1715091"
    ],
    "seen_titles": [
-    "경찰,'삼성전자·SK하이닉스성과급백지說'내사착수",
-    "경찰\"'삼전닉스성과급백지화공문'허위유포수사…엄정대응\"",
     "[특징주]SK하이닉스,장중-6%서+10%급반등…저가매수에241만원선회...",
     "코스피,5%급반등에매수사이드카발동…8000선회복",
     "코스피,‘매수사이드카’발동…삼전닉스8%대급등에8000선회복",
@@ -3250,10 +3252,12 @@
     "[카드뉴스]SK네트웍스,Q1'AI컴퍼니'체질개선성과…\"영업익2배·순...",
     "[이슈브리핑]나토가는이재명대통령...미국간홍명보",
     "SK하이닉스,美ADR상장주관사에2000억지급하나…블룸버그\"수수료율...",
-    "우리금융,'10%인상'에도소액주주'냉담'…동양생명편입차질우려"
+    "우리금융,'10%인상'에도소액주주'냉담'…동양생명편입차질우려",
+    "정청래'DJ생가',김민석'익산'방문…호남서'민심훑기'",
+    "[1%초고수의주간선택]'서진시스템'사고'하이브'팔았다"
    ],
    "initialized": true,
-   "last_run": "2026-07-04T17:45:26.867647+09:00"
+   "last_run": "2026-07-04T17:50:45.792820+09:00"
   }
  },
  "press_names": {
