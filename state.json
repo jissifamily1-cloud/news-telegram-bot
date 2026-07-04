@@ -270,12 +270,17 @@
     [
      "2026-07-05T07:10:46.257436+09:00",
      "전망 UBS 메모리 D램 상향 2028년까지 간다 가격 부족"
+    ],
+    [
+     "2026-07-05T07:20:44.361169+09:00",
+     "반도체 목표 완공 800조 역량 전남광주 총동원 4년 상반기 첫삽"
+    ],
+    [
+     "2026-07-05T07:20:44.361169+09:00",
+     "환율 구두개입 총동원에도 전망도 외화공급 백약무효 1600원 5차례"
     ]
    ],
    "seen_urls": [
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578493683473",
-    "https://zdnet.co.kr/view/?no=20260703135108",
-    "https://www.etnews.com/20260703000261",
     "https://www.huffingtonpost.kr/article/258442",
     "https://www.getnews.co.kr/news/articleView.html?idxno=874066",
     "http://www.joseilbo.com/news/news_read.php?uid=571254&class=32",
@@ -1772,12 +1777,12 @@
     "https://www.g-enews.com/view.php?ud=2026070423333356909a1f309431_1",
     "https://www.lecturernews.com/news/articleView.html?idxno=205632",
     "https://biz.chosun.com/international/international_general/2026/07/05/XDDNAB2TRBFLFMIHHBBZQJZLK4/",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000047602"
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000047602",
+    "https://www.lecturernews.com/news/articleView.html?idxno=205633",
+    "https://www.newsis.com/view/NISX20260703_0003694631",
+    "https://www.news1.kr/economy/trend/6217527"
    ],
    "seen_titles": [
-    "주인바뀐SK스페셜티vs족쇄푼OCI···소재대전'제2막'발발",
-    "애플,아이폰18프로고용량모델QLC탑재설다시등장",
-    "SK텔레콤주가,7월3일장중86,200원1.37%하락",
     "李대통령,영남권국민보고회참석···한화·현대차등투자방향발...",
     "[르포]'AI·양자암호'기술경쟁…SKT·KT·LGCNS,'퀀텀코리아'서미래...",
     "인크로스\"AI마케팅솔루션개발...통합마케팅사로전환\"",
@@ -3274,10 +3279,13 @@
     "UBS,D램가격전망두배상향…AI메모리부족2028년까지간다",
     "미국뉴욕증시,삼성전자실적·SK하이닉스ADR에촉각…FOMC의사록도변...",
     "트럼프,쿠팡주식18차례사고팔아…OGE재산신고",
-    "트럼프,재임중쿠팡주식18회매매'이해충돌'논란"
+    "트럼프,재임중쿠팡주식18회매매'이해충돌'논란",
+    "[코스피·코스닥지수]코스피8,000선회복…삼성전자실적·SK하이닉스...",
+    "'800조반도체'상반기첫삽·4년내완공목표…전남광주역량총동원",
+    "환율'1600원'전망도…5차례구두개입·외화공급총동원에도'백약무효..."
    ],
    "initialized": true,
-   "last_run": "2026-07-05T07:15:26.864952+09:00"
+   "last_run": "2026-07-05T07:20:44.361169+09:00"
   }
  },
  "press_names": {
