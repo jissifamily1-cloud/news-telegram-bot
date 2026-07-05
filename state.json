@@ -418,15 +418,17 @@
     [
      "2026-07-05T09:05:23.901877+09:00",
      "그래도 돌입한 바뀌지 않는다 주식시장 핵심테마는 숨고르기"
+    ],
+    [
+     "2026-07-05T09:10:45.952985+09:00",
+     "칩플레이션 우려 역대급 품귀 메모리 수출"
+    ],
+    [
+     "2026-07-05T09:10:45.952985+09:00",
+     "코스피 클럽 시총 대형주 뚜렷 편중 1조 급등에도 감소"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260703_0003695224",
-    "https://www.mt.co.kr/economy/2026/07/03/2026070315184110294",
-    "https://www.mk.co.kr/article/12089918",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04103286645510912",
-    "https://www.yna.co.kr/view/AKR20260703034751008?input=1195m",
-    "http://www.4th.kr/news/articleView.html?idxno=2114193",
     "https://www.businesspost.co.kr/BP?command=article_view&num=441513",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=141035",
     "https://www.m-i.kr/news/articleView.html?idxno=1388077",
@@ -1920,15 +1922,15 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607050033&t=NN",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4423373",
     "http://www.newstomato.com/ReadNews.aspx?no=1306120&inflow=N",
-    "https://www.hankyung.com/article/202607019768i"
+    "https://www.hankyung.com/article/202607019768i",
+    "https://isplus.com/article/view/isp202607050020",
+    "http://www.jeollailbo.com/news/articleView.html?idxno=804397",
+    "http://www.ttlnews.com/news/articleView.html?idxno=3122743",
+    "https://view.asiae.co.kr/article/2026070509003112853",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260705090758bnE",
+    "https://www.tokenpost.kr/news/market/375091"
    ],
    "seen_titles": [
-    "영남권에첨단산업육성,312조원투자…한화·현대자동차·삼성·SK·두...",
-    "급락하루만에반등…삼성전자8%↑SK하이닉스10%↑[핫스탁](종합)",
-    "\"숫자만보면M&A·수도권집중…실상은첨단산업공급망투자\"",
-    "SK하이닉스,하루에만10%대급등…코스피반등8000선회복마감",
-    "SK,영남에140조투입해‘AI경부고속도로’구축…亞최대AIDC허브...",
-    "[특징주]추락했던삼전·닉스,하루만에8%·10%급반등(종합)",
     "영남권에312조쏟는다…반도체·AI·로봇'메가벨트'구축",
     "통신사ESGAI전략'3사3색',KT'플랫폼'·SK텔레콤'신뢰'·LG유플러스...",
     "삼성전자에연달아쏟아지는악재?성장궤도는바뀌지않았다",
@@ -3422,10 +3424,16 @@
     "'롤러코스터도이렇게는안타는데'속타는개미들…방어주된'이종목...",
     "[뉴욕증시-주간전망]삼전실적·하닉ADR에달렸다…FOMC의사록도관심",
     "로밍고객힘주는LGU+…일본부터익시오무료통화",
-    "숨고르기돌입한주식시장…그래도핵심테마는바뀌지않는다"
+    "숨고르기돌입한주식시장…그래도핵심테마는바뀌지않는다",
+    "‘약체’꼬리표뗄까…브레이커스,강해진휴온스와PBA팀리그데뷔전",
+    "서남권반도체기지에서전북배제를애도함",
+    "SKT,2035년까지15GWAI데이터센터구축…아시아인프라허브목표",
+    "SKT,15GW규모AI데이터센터구축…\"아시아AI인프라허브될것\"",
+    "메모리품귀속역대급수출…'칩플레이션'은우려",
+    "코스피급등에도시총1조클럽감소…대형주편중뚜렷"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T09:05:23.901877+09:00"
+   "last_run": "2026-07-05T09:10:45.952985+09:00"
   }
  },
  "press_names": {
