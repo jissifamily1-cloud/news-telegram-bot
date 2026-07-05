@@ -526,17 +526,29 @@
     [
      "2026-07-05T10:15:07.850627+09:00",
      "휴대폰 대세요 개통이요 얼굴부터 내일부터 안면인증"
+    ],
+    [
+     "2026-07-05T10:25:22.124895+09:00",
+     "말고 생각 여기를 증시 이미 반도체 해답도 7월"
+    ],
+    [
+     "2026-07-05T10:25:22.124895+09:00",
+     "수료식 개최 제25기 부산경남연수원 중진공 CEO명품아카데미"
+    ],
+    [
+     "2026-07-05T10:25:22.124895+09:00",
+     "AI데이터센터 검토 SKT 드림파크산단 이종배"
+    ],
+    [
+     "2026-07-05T10:25:22.124895+09:00",
+     "코스닥 2조 7조 2분기 3조 늘었다 엇갈려 코스피 빚투"
+    ],
+    [
+     "2026-07-05T10:25:22.124895+09:00",
+     "구리 동탄 있나 풍선효과 기흥 이후 규제 인접지"
     ]
    ],
    "seen_urls": [
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607030392&t=NN",
-    "https://www.dailian.co.kr/news/view/1663226/?sc=Naver",
-    "https://www.etnews.com/20260703000276",
-    "https://www.ajunews.com/view/20260703155856337",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=723801",
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=79710",
-    "https://kidd.co.kr/news/246599",
-    "https://www.newsis.com/view/NISX20260703_0003695239",
     "https://www.khan.co.kr/article/202607031559001",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=272451",
     "https://www.mk.co.kr/article/12089932",
@@ -2028,17 +2040,17 @@
     "https://www.newsis.com/view/NISX20260705_0003696146",
     "https://www.hidomin.com/news/articleView.html?idxno=711906",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=359782",
-    "https://www.joongang.co.kr/article/25442462"
+    "https://www.joongang.co.kr/article/25442462",
+    "http://www.osen.co.kr/article/G1112834245",
+    "http://www.datanews.co.kr/news/article.html?no=145437",
+    "https://www.tokenpost.kr/news/breaking/375107",
+    "https://www.mk.co.kr/article/12090444",
+    "https://www.newsgn.com/news/articleView.html?idxno=560404",
+    "https://www.newsis.com/view/NISX20260705_0003696137",
+    "https://www.newsis.com/view/NISX20260705_0003696148",
+    "https://www.ekn.kr/web/view.php?key=20260705028119183"
    ],
    "seen_titles": [
-    "코스피폭락하루만에8000선회복...'매수사이드카'발동",
-    "정재헌SKTCEO\"영남권2GW이상AI데이터센터구축\"",
-    "코스피,삼전닉스불기둥에8000선회복[시황]",
-    "급락하루만에매수사이드카…반도체반등에8000선회복",
-    "[속보]삼성·SK·현대차그룹,영남각각60조·140조·42조투자",
-    "코스피,5.7%급등8000선회복…반도체대장주일제반등",
-    "한화·현대차·삼성·SK등영남권에312조투자…AI·반도체·로봇육성",
-    "AI시대대동맥인HBM,기술뿌리는한국에남겨야",
     "SK\"영남에AI데이터센터2GW구축…140조원투자\"",
     "코스피,‘반도체쇼크’딛고하루만에8000선안착…‘삼전닉스’10%...",
     "WorkerDiesinSKEcoplantSiteAccident",
@@ -3530,10 +3542,18 @@
     "국힘\"메가프로젝트허황된불꽃놀이…반도체하강사이클대책재수립...",
     "트럼프,취임후쿠팡주식18차례사고팔았다…'이해충돌'논란가능성",
     "코스피반등키쥔삼성전자·SK하이닉스",
-    "800조원호남투자발표한삼성·SK…미국투자압박커지나"
+    "800조원호남투자발표한삼성·SK…미국투자압박커지나",
+    "김준상,하이닉스관두고MBC왔는데..“동기내년3억6천성과급”[순...",
+    "SK텔레콤,15GWAI데이터센터청사진공개…아시아AI허브도전",
+    "마이크론,일본히로시마공장증설착공…93억달러투자",
+    "“딴생각말고여기를봐”…‘반도체·AI’7월증시해답도이미나...",
+    "중진공부산경남연수원,제25기CEO명품아카데미수료식개최",
+    "이종배\"AI데이터센터추진SKT,드림파크산단검토중\"",
+    "2분기'빚투'4.2조늘었다…코스피6.7조↑코스닥2.3조↓엇갈려",
+    "동탄·기흥·구리규제이후…인접지풍선효과있나"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T10:20:46.779410+09:00"
+   "last_run": "2026-07-05T10:25:22.124895+09:00"
   }
  },
  "press_names": {
