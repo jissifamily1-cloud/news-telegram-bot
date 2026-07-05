@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-05T18:10:46.784294+09:00",
-     "집값 삼성전자 상승 확정 이하로 논란에 사내대출 제한"
-    ],
-    [
-     "2026-07-05T18:15:23.659848+09:00",
-     "야당 반쪽 국회 손놨나 설득 강행"
-    ],
-    [
      "2026-07-05T18:20:43.260645+09:00",
      "소비재 금융 급락장 빛난 방어력"
     ],
@@ -390,11 +382,13 @@
     [
      "2026-07-06T00:10:43.002027+09:00",
      "AX는 확보를 산업 소규모 실증단지부터 속도전"
+    ],
+    [
+     "2026-07-06T00:15:24.240378+09:00",
+     "던진 민주당에 반도체 호남 숙제"
     ]
    ],
    "seen_urls": [
-    "https://www.nocutnews.co.kr/news/6543009",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601834",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=272473",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1715082",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1529513",
@@ -1892,11 +1886,11 @@
     "https://www.ytn.co.kr/_ln/0101_202607060007458066",
     "https://www.traveltimes.co.kr/news/articleView.html?idxno=416085",
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061282",
-    "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061280"
+    "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061280",
+    "https://m.skyedaily.com/news_view.html?ID=306952",
+    "https://www.hankyung.com/article/2026070563821"
    ],
    "seen_titles": [
-    "'믿을맨'삼전닉스반등…메타발업황우려이겨낼까[종목+]",
-    "박상인교수\"용인반도체클러스터어렵다…영호남2개씩분산해야\"",
     "한테이블앉은정청래·김민석·송영길…보완수사권·1인1표제등신경...",
     "MemoryMarketSurgesToward350TrillionWoninQ2",
     "[EBN오늘(3일)이슈종합]서남권반도체·충청권패키징·영남권AI,3각...",
@@ -3394,10 +3388,12 @@
     "이대통령,오늘메가프로젝트민관합동점검회의개최",
     "[글로벌컨설팅김근수회계사의여행사경영산책]여행사매각(M&A)의기...",
     "대형울산투자계획차질없도록市,인허가·규제개선지원나선다",
-    "\"산업AX는속도전…소규모실증단지부터확보를\""
+    "\"산업AX는속도전…소규모실증단지부터확보를\"",
+    "[데일리Talk]반도체랠리올라탄외국인·개인…위험계산은달라",
+    "[다산칼럼]민주당에숙제던진호남반도체"
    ],
    "initialized": true,
-   "last_run": "2026-07-06T00:10:43.002027+09:00"
+   "last_run": "2026-07-06T00:15:24.240378+09:00"
   }
  },
  "press_names": {
