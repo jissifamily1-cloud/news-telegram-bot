@@ -490,11 +490,17 @@
     [
      "2026-07-06T07:25:20.918072+09:00",
      "회의록 상장도 공개 FOMC 워시 10일 하이닉스"
+    ],
+    [
+     "2026-07-06T07:30:55.496609+09:00",
+     "소상공인 데이터 골목상권 자치구 서울신보 민간 결합 살린다"
+    ],
+    [
+     "2026-07-06T07:30:55.496609+09:00",
+     "회의론 상승세 반도체주 전쟁 견인 악재"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2600224",
-    "https://www.ajunews.com/view/20260703192503580",
     "https://economist.co.kr/article/view/ecn202607010061",
     "https://www.dailian.co.kr/news/view/1663274/?sc=Naver",
     "https://view.asiae.co.kr/article/2026070208402534929",
@@ -1992,11 +1998,11 @@
     "https://www.dailian.co.kr/news/view/1663110/?sc=Naver",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5203982",
     "http://www.breaknews.com/1219284",
-    "https://www.newsis.com/view/NISX20260706_0003696479"
+    "https://www.newsis.com/view/NISX20260706_0003696479",
+    "https://biz.heraldcorp.com/article/10798666",
+    "https://biz.sbs.co.kr/article_hub/20000320748?division=NAVER"
    ],
    "seen_titles": [
-    "[블록체人]임주영ABC총괄“가상자산관리,스테이블코인결제·정산...",
-    "[베스트&워스트]전력ㆍK뷰티‘방긋’vs반도체대형주‘울상’⋯이...",
     "[주간증시전망]AI흔들리자코스피'출렁'…차주삼성전자실적·FOMC의...",
     "해킹시대,투자공식바뀌었다…‘보안’이최고의보험",
     "호남서시작해영남서매듭…李대통령'메가투자릴레이'에담긴셈법",
@@ -3494,10 +3500,12 @@
     "여전한건설업‘유리천장’…여성임원비율고작5%대",
     "김민석,오늘광주서첫출사표…정청래,물밑행보에출마시점저울질",
     "국민의힘장동혁·정점식,내부총질엄단및민주당입법폭주배수진",
-    "[주간뉴욕증시]워시첫FOMC회의록공개…10일하이닉스상장도"
+    "[주간뉴욕증시]워시첫FOMC회의록공개…10일하이닉스상장도",
+    "서울신보,자치구·민간데이터결합소상공인·골목상권살린다",
+    "[마켓브리핑]반도체주견인…전쟁·AI회의론악재속상승세"
    ],
    "initialized": true,
-   "last_run": "2026-07-06T07:25:20.918072+09:00"
+   "last_run": "2026-07-06T07:30:55.496609+09:00"
   }
  },
  "press_names": {
