@@ -534,11 +534,17 @@
     [
      "2026-07-05T12:55:21.001363+09:00",
      "이천 체험 부발청소년센터 AI반도체 운영 드림버스"
+    ],
+    [
+     "2026-07-05T13:00:55.439271+09:00",
+     "되찾은 000선 닉스 주목 삼전 코스피 이벤트"
+    ],
+    [
+     "2026-07-05T13:00:55.439271+09:00",
+     "충주로 올까 드림파크산단 데이터센터 현장실사"
     ]
    ],
    "seen_urls": [
-    "https://www.nocutnews.co.kr/news/6542867",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1715062",
     "https://www.sidae.com/article/2026070316013871651",
     "https://it.chosun.com/news/articleView.html?idxno=2023092165132",
     "https://www.m-i.kr/news/articleView.html?idxno=1388094",
@@ -2036,11 +2042,11 @@
     "http://www.fnnews.com/news/202607050850439856",
     "https://www.hankookilbo.com/news/article/A2026070509090003406?did=NA",
     "http://www.samdailbo.com/news/articleView.html?idxno=267025",
-    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027936"
+    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027936",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260705125617QTK",
+    "https://www.news1.kr/local/sejong-chungbuk/6218034"
    ],
    "seen_titles": [
-    "코스피,7300→8천선회복…하닉10%·삼전8%대폭등",
-    "SK,영남권에140조투자…'AI데이터센터허브'구축시동",
     "그룹AIDC이끄는SKT정재헌\"울산부터시작…영남140조투자\"",
     "메타발충격과했나…코스피,상승반전8000선회복",
     "李대통령\"영남,세계제조업1위로...남해안우주항공산업벨트구축\"",
@@ -3538,10 +3544,12 @@
     "증시흔들려도증권사는돈번다…2분기순이익141%급증전망",
     "이준석\"사이비레커'사생활폭로장사'돈줄끊어야\"",
     "바이에른뮌헨제주경기일반예매14일오후6시오픈",
-    "이천부발청소년센터,'AI반도체드림버스'체험운영"
+    "이천부발청소년센터,'AI반도체드림버스'체험운영",
+    "8,000선되찾은코스피…삼전·닉스이벤트주목",
+    "SKAI데이터센터,충주로올까…드림파크산단현장실사"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T12:55:21.001363+09:00"
+   "last_run": "2026-07-05T13:00:55.439271+09:00"
   }
  },
  "press_names": {
