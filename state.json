@@ -246,11 +246,13 @@
     [
      "2026-07-06T05:10:47.340159+09:00",
      "나스닥행 투톱 운명의 닉스는 실적 반도체 삼전은"
+    ],
+    [
+     "2026-07-06T05:15:23.312470+09:00",
+     "우주항공 피지컬 투자에 PK 지역 기대와 우려"
     ]
    ],
    "seen_urls": [
-    "https://mbcgn.kr/01_new/new01_view.asp?idx=409362",
-    "https://www.gamechosun.co.kr/webzine/article/view.php?no=223189",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601852",
     "https://www.news1.kr/sports/basketball/6217575",
     "https://news.tvchosun.com/site/data/html_dir/2026/07/03/2026070390311.html",
@@ -1748,11 +1750,11 @@
     "https://www.seoul.co.kr/news/economy/industry/2026/07/06/20260706030002?wlog_tag3=naver",
     "http://www.fnnews.com/news/202607060505207549",
     "https://www.munhwa.com/article/11600398",
-    "https://www.seoul.co.kr/news/economy/2026/07/06/20260706032003?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/economy/2026/07/06/20260706032003?wlog_tag3=naver",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01426806645511896",
+    "https://www.busan.com/view/busan/view.php?code=2026070517525059482"
    ],
    "seen_titles": [
-    "코스피,기관매수에상승마감...SK하이닉스,삼성전자,삼성물산,SK스...",
-    "영남권312조원투자..경남은?",
     "별을따라걷는승리의역사!성수동T1팝업‘암행천문:별을헤다’...",
     "“카드무단결제까지”…개인정보2차피해확산하나?",
     "16점차리드못지킨농구대표팀,대만에80-82충격패",
@@ -3250,10 +3252,12 @@
     "SKT,15GWAI데이터센터구축…‘亞AI허브’승부수",
     "삼성전자도,SK하이닉스도아니다…상반기코스피'상승률1위'반전종...",
     "“SK,포항현장답사다녀갔다.물·전기하루아침에안돼”…경북지사...",
-    "삼전은실적,닉스는美나스닥행…반도체투톱‘운명의한주’"
+    "삼전은실적,닉스는美나스닥행…반도체투톱‘운명의한주’",
+    "[기자수첩]'반도체올인'메가프로젝트위험하다",
+    "[사설]PK지역피지컬AI·우주항공투자에대한기대와우려"
    ],
    "initialized": true,
-   "last_run": "2026-07-06T05:10:47.340159+09:00"
+   "last_run": "2026-07-06T05:15:23.312470+09:00"
   }
  },
  "press_names": {
