@@ -517,7 +517,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260703.99099000993",
     "https://www.sisajournal.com/news/articleView.html?idxno=378715",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1529491",
     "https://www.econovill.com/news/articleView.html?idxno=744229",
@@ -2016,10 +2015,10 @@
     "https://biz.heraldcorp.com/article/10798386",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068487",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/05/2026070500040.html",
-    "https://www.newsis.com/view/NISX20260705_0003696203"
+    "https://www.newsis.com/view/NISX20260705_0003696203",
+    "https://kpenews.com/View.aspx?No=4137280"
    ],
    "seen_titles": [
-    "이대통령\"영남권을첨단산업초격차선도지역으로\"",
     "영남에'312조+α'…李대통령\"남해안우주항공산업벨트구축…세계제...",
     "이대통령\"영남권첨단산업육성위한대규모투자\"",
     "SK,영남에140조투자…울산거점으로'아시아AI인프라허브'시동",
@@ -3518,10 +3517,11 @@
     "‘6년간기다렸다’…美휩쓴K-바이오혁신신약안방상륙눈앞에",
     "나경원\"이재명'메가프로젝트'기업세무조사압박?\"",
     "한은\"삼전·닉스쏠림더커진다\"…레버리지ETF공개경고",
-    "상반기코스피90%뛸때…삼성전기756%'최고상승률'"
+    "상반기코스피90%뛸때…삼성전기756%'최고상승률'",
+    "삼성전자·SK하이닉스도제쳐..삼성전기,상반기코스피상승률1위"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T12:35:26.115078+09:00"
+   "last_run": "2026-07-05T12:40:42.146766+09:00"
   }
  },
  "press_names": {
