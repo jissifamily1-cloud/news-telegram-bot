@@ -730,13 +730,13 @@
     [
      "2026-07-05T18:05:22.056545+09:00",
      "기업과 정치 삼류 일류"
+    ],
+    [
+     "2026-07-05T18:10:46.784294+09:00",
+     "집값 삼성전자 상승 확정 이하로 논란에 사내대출 제한"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202607031735498315112616b072_1",
-    "https://www.koreaherald.com/article/10797783",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=735951",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=422194",
     "https://www.junggi.co.kr/news/articleView.html?idxno=37021",
     "https://www.mk.co.kr/article/12090065",
     "https://www.sedaily.com/article/20063620",
@@ -2232,13 +2232,13 @@
     "http://www.hellodd.com/news/articleView.html?idxno=112360",
     "https://www.segye.com/newsView/20260705507710?OutUrl=naver",
     "https://www.ccdn.co.kr/news/articleView.html?idxno=1086671",
-    "https://www.busan.com/view/busan/view.php?code=2026070517524348472"
+    "https://www.busan.com/view/busan/view.php?code=2026070517524348472",
+    "https://www.sedaily.com/article/20063945",
+    "https://www.hankyung.com/article/2026070564737",
+    "http://www.fnnews.com/news/202607051804145178",
+    "https://www.donga.com/news/Economy/article/all/20260705/134238285/1"
    ],
    "seen_titles": [
-    "경찰,'삼전닉스성과급백지화공문'허위정보내사착수",
-    "SK,영남권에140조원…아시아최대AI허브시동",
-    "Hyundai,HanwhaunveilW97trinvestmentplanforsoutheasternKorea",
-    "[영남권국민보고회]삼성·SK·현대차·한화·LG·두산,AI·우주항공등...",
     "에임드바이오,신규ADC4종공개···이중항체승부수",
     "3일공매도거래대금하루새6798억원급감",
     "\"메가프로젝트로韓성장률3.5%가능\"",
@@ -3734,10 +3734,14 @@
     "[차이나급보]미남미녀감성로봇이끌어낸중국AI거버넌스",
     "대도약순회보고회마무리",
     "['102조투자'청주,성장의골든타임-사람모이는도시만들어라①]...",
-    "[편집국에서]일류기업과삼류정치"
+    "[편집국에서]일류기업과삼류정치",
+    "컴공대신전자공학…반도체호황,자율전공도바꿨다",
+    "수수료2000억에월가들썩…SK하이닉스'초대형미국상장'예고",
+    "거침없는반도체…삼전닉스2분기영업익150조달할듯",
+    "삼성전자,집값상승논란에사내대출85㎡이하로제한확정"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T18:05:22.056545+09:00"
+   "last_run": "2026-07-05T18:10:46.784294+09:00"
   }
  },
  "press_names": {
