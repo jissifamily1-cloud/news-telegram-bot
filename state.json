@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-05T12:25:21.138375+09:00",
-     "점검회의 청와대서 클러스터 반도체 대통령"
-    ],
-    [
-     "2026-07-05T12:25:21.138375+09:00",
-     "바이오 6년간 휩쓴 혁신신약 상륙 기다렸다 눈앞에 안방"
-    ],
-    [
      "2026-07-05T12:45:25.073013+09:00",
      "승부 보조금 경쟁 시작 통신3사"
     ],
@@ -742,12 +734,13 @@
     [
      "2026-07-05T18:25:20.636721+09:00",
      "중국 DRAM CXMT EUV 없는 본딩 시험생산 테스트"
+    ],
+    [
+     "2026-07-05T18:30:51.481009+09:00",
+     "담당자는 중인가 전쟁 보안"
     ]
    ],
    "seen_urls": [
-    "https://www.natv.go.kr/natv/news/newsView.do?newsId=513676",
-    "https://www.womennews.co.kr/news/articleView.html?idxno=279557",
-    "https://www.mk.co.kr/article/12090090",
     "https://news.mtn.co.kr/news-detail/2026070316360676739",
     "https://www.hani.co.kr/arti/sports/sports_general/1266660.html",
     "https://www.yna.co.kr/view/GYH20260703000700044?input=1363m",
@@ -2244,12 +2237,12 @@
     "https://www.kbmaeil.com/article/20260705500705",
     "http://www.inews24.com/view/1982526",
     "https://www.iusm.co.kr/news/articleView.html?idxno=1064957",
-    "https://www.tokenpost.kr/news/breaking/375160"
+    "https://www.tokenpost.kr/news/breaking/375160",
+    "https://www.interfootball.co.kr/news/articleView.html?idxno=689915",
+    "http://www.fnnews.com/news/202607051827391649",
+    "https://www.dailysecu.com/news/articleView.html?idxno=207446"
    ],
    "seen_titles": [
-    "조선DNA로해상풍력키우는한화오션…풍력성과는과제",
-    "국민의힘\"노봉법·더센상법,졸속포퓰리즘\"",
-    "성수석이천시장\"시민이주인인도시로\"…반도체·돌봄·역세권혁신청...",
     "'계약학과효과'부산대,강남서입학설명회…교육부\"계약학과더늘...",
     "삼성·SK,AI시대승부수…반도체지도가바뀐다",
     "강동궁과강지은영입효과어떨까…타팀‘양강’활약여부에경계감",
@@ -3746,10 +3739,13 @@
     "SK,포항블루베리산단에80조원투자검토…이철우지사“결국준비...",
     "트럼프,쿠팡주식18회거래⋯현재13만달러보유추정",
     "울산,AI데이터센터'1+1GW'도전…아태'AI허브'로",
-    "중국CXMT,EUV없는본딩DRAM시험생산테스트"
+    "중국CXMT,EUV없는본딩DRAM시험생산테스트",
+    "[K리그1라인업]'조영욱출격'서울vs'페리어최전방'인천,경인더비...",
+    "SKT,15GW초대형AI데이터센터구축…亞허브노린다",
+    "[이혁중CISO의현장보안인사이트-6]보안담당자는왜늘전쟁중인가..."
    ],
    "initialized": true,
-   "last_run": "2026-07-05T18:25:20.636721+09:00"
+   "last_run": "2026-07-05T18:30:51.481009+09:00"
   }
  },
  "press_names": {
