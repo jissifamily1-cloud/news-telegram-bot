@@ -610,11 +610,13 @@
     [
      "2026-07-05T15:01:07.196152+09:00",
      "수천조 가져와 투자에 대구 홍준표 청년들만 1원도 불쌍"
+    ],
+    [
+     "2026-07-05T15:05:23.466598+09:00",
+     "당권 김민석 레이스 예고 출마선언 서울서 광주 3파전 본막"
     ]
    ],
    "seen_urls": [
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=306266",
-    "https://www.tjb.co.kr/news05/bodo/view/id/100364",
     "https://www.kbmaeil.com/article/20260703500178",
     "http://www.fnnews.com/news/202607031645015586",
     "https://www.tokenpost.kr/news/breaking/374836",
@@ -2112,11 +2114,11 @@
     "https://www.news1.kr/photos/7992551",
     "https://www.koreaherald.com/article/10798455",
     "http://www.metroseoul.co.kr/article/20260705500190",
-    "https://magazine.hankyung.com/business/article/202607056187b"
+    "https://magazine.hankyung.com/business/article/202607056187b",
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5203916",
+    "http://www.metroseoul.co.kr/article/20260705500192"
    ],
    "seen_titles": [
-    "정부·4대그룹,영남권에총312조원투자…반도체·AI·로봇첨단산업...",
-    "영남에312조+α…\"AI·우주항공·제조업대전환\"",
     "SK,영남에140조승부수…아시아최대'AI인프라허브'조성",
     "“구미는AI반도체,포항은미래소재”…영남에312조원쏟아붓는다",
     "李대통령\"우주항공,명운걸고키우겠다…안보초석·미래먹거리\"",
@@ -3614,10 +3616,12 @@
     "휴대전화개통,안면인증의무화",
     "Lee’sofficesaysAIerademands‘biggerstaterole’amidmegaprojec..",
     "5G과장광고첫판결에통신업계촉각",
-    "홍준표\"수천조투자에대구1원도못가져와…청년들만불쌍\""
+    "홍준표\"수천조투자에대구1원도못가져와…청년들만불쌍\"",
+    "코스피상승에도'1조클럽'은감소…대형주쏠림여파",
+    "김민석,광주·서울서출마선언예고…3파전당권레이스본막"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T15:01:07.196152+09:00"
+   "last_run": "2026-07-05T15:05:23.466598+09:00"
   }
  },
  "press_names": {
