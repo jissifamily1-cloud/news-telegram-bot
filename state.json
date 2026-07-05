@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-05T11:25:21.011151+09:00",
-     "달렸다 반등 테크주에 찜찜한"
-    ],
-    [
      "2026-07-05T11:30:49.554109+09:00",
      "맞서 삼전닉스 메가 14조 히로시마에 마이크론 투자"
     ],
@@ -606,12 +602,13 @@
     [
      "2026-07-05T17:20:44.174970+09:00",
      "커진다 초대형 반도체에 투자 다시 성장판"
+    ],
+    [
+     "2026-07-05T17:25:21.271932+09:00",
+     "반도체 갈등 강타한 사회 역대급 주목 외신도 호황속"
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202607031717413712",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260703171917JXx",
-    "https://www.usmbc.co.kr/NewsArticle/849141",
     "http://www.queen.co.kr/news/articleView.html?idxno=459746",
     "https://www.usmbc.co.kr/NewsArticle/849140",
     "https://www.hankookilbo.com/news/article/A2026070316360005318?did=NA",
@@ -2108,12 +2105,12 @@
     "http://www.jeollailbo.com/news/articleView.html?idxno=804483",
     "https://www.aitimes.com/news/articleView.html?idxno=212447",
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027929",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465643"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465643",
+    "https://sports.donga.com/it/article/all/20260705/134237167/1",
+    "https://www.mt.co.kr/politics/2026/07/05/2026070516165163001",
+    "https://www.ddaily.co.kr/page/view/2026070515382233533"
    ],
    "seen_titles": [
-    "이재명대통령\"영남,대한민국첨단산업초격차선도지역만들것\"",
-    "정재헌SKT대표\"울산에1호GW급AIDC건설…영남권에140조투자\"",
-    "[퇴근길머니]코스피,급락딛고V자반등…삼전·닉스레버리지'블랙...",
     "SKT\"울산데이터센터1GW확대구축\"",
     "[오늘증시]기관4조5000억순매수,삼성·하이닉스반등에코스피8100선...",
     "민선9기울산시첫월간회의\"시민기준행정\"",
@@ -3610,10 +3607,13 @@
     "전남광주통합특별시,반도체로대한민국미래연다-출범식및반도체...",
     "SKT,15GWAI데이터센터구축\"아시아AI인프라허브도약\"",
     "[경기단체장]조용익부천시장인터뷰",
-    "SK,AI·반도체에초대형투자…그룹성장판다시커진다"
+    "SK,AI·반도체에초대형투자…그룹성장판다시커진다",
+    "SKT“15GW규모AI데이터센터구축”",
+    "반도체發수십조추가세수,메가프로젝트·청년떠받친다",
+    "역대급반도체호황속,韓사회강타한'부(富)의갈등'…외신도주목"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T17:20:44.174970+09:00"
+   "last_run": "2026-07-05T17:25:21.271932+09:00"
   }
  },
  "press_names": {
