@@ -582,11 +582,13 @@
     [
      "2026-07-05T22:15:26.367291+09:00",
      "싹쓸이 김현준 맹타 삼성 SSG 강민호 3연전"
+    ],
+    [
+     "2026-07-05T22:20:42.467592+09:00",
+     "광산구서 행안부장관 정책토론회 김두관 전남광주통합특별시"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260703151000008?input=1195m",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=05330006645510912",
     "https://www.thereport.co.kr/news/articleView.html?idxno=89327",
     "https://view.asiae.co.kr/article/2026070319213590527",
     "https://www.asiatime.co.kr/article/20260703500365",
@@ -2084,11 +2086,11 @@
     "https://www.sportschosun.com/football/2026-07-05/202607050100033450001966",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8602572",
     "https://www.yeongnam.com/web/view.php?key=20260705026514128",
-    "https://www.joongang.co.kr/article/25442550"
+    "https://www.joongang.co.kr/article/25442550",
+    "https://www.news1.kr/sports/soccer/6218259",
+    "https://gj.newdaily.co.kr/site/data/html/2026/07/05/2026070500056.html"
    ],
    "seen_titles": [
-    "[FIBAWC]KBL전현직아시아쿼터출격!켐바오-타마요-고메즈맹활약필...",
-    "미래에셋,1조3천억자금조달추진…'큰손'된SK하이닉스",
     "청와대,6일반도체클러스터민관합동점검회의개최",
     "\"우주항공에나라의명운\"···영남에312조투자몰린다",
     "李대통령,6일삼성·SK하이닉스와반도체클러스터민관회의참석",
@@ -3586,10 +3588,12 @@
     "[현장인터뷰]'토비아스헤더로승점획득'정조국코치\"세트피스,현대...",
     "이종배의원“SK그룹,충주AI데이터센터후보지검토”",
     "312조영남권투자서도대구소외…구미에삼성19조투자는그나마위...",
-    "김현준-강민호맹타…삼성,SSG3연전싹쓸이"
+    "김현준-강민호맹타…삼성,SSG3연전싹쓸이",
+    "'월드컵이후도뜨거운'서울,인천꺾고3연승…2만2600명관중몰려(종...",
+    "김두관전행안부장관,전남광주통합특별시광산구서정책토론회"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T22:15:26.367291+09:00"
+   "last_run": "2026-07-05T22:20:42.467592+09:00"
   }
  },
  "press_names": {
