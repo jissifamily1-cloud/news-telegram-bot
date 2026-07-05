@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-05T07:50:47.906403+09:00",
-     "이종배 역량 의원 집중 선정에 충주 데이터센터"
-    ],
-    [
-     "2026-07-05T07:50:47.906403+09:00",
-     "전쟁 인프라 소버린AI 마지막 승부처는 데이터센터 1천조"
-    ],
-    [
      "2026-07-05T08:00:54.745308+09:00",
      "감소 SW개발자 확산 통번역가 디자이너 줄었다 청년고용"
     ],
@@ -562,15 +554,25 @@
     [
      "2026-07-05T13:50:45.559672+09:00",
      "승부처 전대 당하고 있다 3중 전북 민주당 소외"
+    ],
+    [
+     "2026-07-05T13:55:20.029964+09:00",
+     "개최 전략회의 인재양성 반도체 산학 전남광주특별시 협력체계 구축"
+    ],
+    [
+     "2026-07-05T13:55:20.029964+09:00",
+     "HBM 뛰어넘나 독주 SK하이닉스 시장 계속된다 실적"
+    ],
+    [
+     "2026-07-05T13:55:20.029964+09:00",
+     "수강생 1인 학교 가을학기 1악기 수원문화재단 모집"
+    ],
+    [
+     "2026-07-05T13:55:20.029964+09:00",
+     "포항에 데이터센터 경북 1GW 이상 80조 투자"
     ]
    ],
    "seen_urls": [
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260703.99099001003",
-    "https://www.hankyung.com/article/2026070347227",
-    "https://www.econovill.com/news/articleView.html?idxno=744233",
-    "https://www.gokorea.kr/news/articleView.html?idxno=871126",
-    "https://www.dizzotv.com/site/data/html_dir/2026/07/03/2026070380149.html",
-    "https://www.econovill.com/news/articleView.html?idxno=744232",
     "http://www.fnnews.com/news/202607031626581225",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4423324",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=265056",
@@ -2064,15 +2066,15 @@
     "https://www.ikbc.co.kr/article/view/kbc202607050019",
     "https://zdnet.co.kr/view/?no=20260705134813",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=848307",
-    "https://www.joongang.co.kr/article/25442486"
+    "https://www.joongang.co.kr/article/25442486",
+    "http://www.kdfnews.com/news/articleView.html?idxno=184867",
+    "https://view.asiae.co.kr/article/2026070513525912103",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037541",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465598",
+    "https://www.kyeonggi.com/article/20260705580111",
+    "https://www.idaegu.com/news/articleView.html?idxno=664083"
    ],
    "seen_titles": [
-    "한화,영남권에55조원투자“지역산업생태계완성”",
-    "한국판스타링크추진…李대통령\"남해안에국가명운걸것\"",
-    "[대한민국대도약②]충청392조,디스플레이의땅이HBM심장부로",
-    "SK텔레콤,영남에아시아최대AI인프라허브구축계획발표",
-    "영남에297조투자…삼성·SK·현대차·한화'미래산업'총력",
-    "[대한민국대도약①]호남800조반도체승부수,서남권제2의기흥될까",
     "\"AI과잉투자우려과했나\"…'메타發쇼크'하루만에삼전닉스급반등",
     "[증시-마감]반도체株반발매수에'8천피'회복…기관역대최대매수",
     "SK,영남권에140조원투자…'아시아최대'AI인프라허브출발점",
@@ -3566,10 +3568,16 @@
     "성일종\"이대통령,김민석밀었다가안되면...정청래가이겨,손떼시...",
     "\"반도체산업,칩경쟁에서AI인프라경쟁으로\"",
     "[최형철칼럼]월수출1000억달러...다음질문은'분배'다",
-    "“3중소외당하고있다”…민주당전대최대승부처된전북"
+    "“3중소외당하고있다”…민주당전대최대승부처된전북",
+    "AI가바꾸는일자리지도…청년층고용감소세심화",
+    "[마켓ING]출렁이는코스피,삼성전자실적주목",
+    "전남광주특별시,반도체인재양성전략회의개최…산학협력체계구축",
+    "HBM독주계속된다…SK하이닉스실적또시장뛰어넘나",
+    "수원문화재단,‘1인1악기학교’가을학기수강생모집",
+    "SK,경북포항에'80조투자…1GW이상AI데이터센터'"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T13:50:45.559672+09:00"
+   "last_run": "2026-07-05T13:55:20.029964+09:00"
   }
  },
  "press_names": {
