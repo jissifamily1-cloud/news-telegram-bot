@@ -462,15 +462,13 @@
     [
      "2026-07-05T09:30:52.798508+09:00",
      "기동력 우수 승격팀 증명 체력 멀티 베테랑 부천 매우"
+    ],
+    [
+     "2026-07-05T09:35:21.402495+09:00",
+     "생산 육성에 속도 현장 이끌 반도체 동강대 전문가"
     ]
    ],
    "seen_urls": [
-    "https://www.livebiz.today/news/articleView.html?idxno=203072",
-    "https://www.viva100.com/article/20260703500449",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1715052",
-    "http://www.newstomato.com/ReadNews.aspx?no=1306076&inflow=N",
-    "https://www.smartbizn.com/news/articleView.html?idxno=147723",
-    "https://dgmbc.com/NewsArticle/849129",
     "https://www.newscj.com/news/articleView.html?idxno=3414083",
     "http://www.fnnews.com/news/202607031550475604",
     "https://economist.co.kr/article/view/ecn202607030029",
@@ -1964,15 +1962,15 @@
     "https://www.news1.kr/finance/general-stock/6217916",
     "https://www.it-b.co.kr/news/articleView.html?idxno=88957",
     "https://www.dt.co.kr/article/12071090",
-    "https://www.besteleven.com/news/articleView.html?idxno=309467"
+    "https://www.besteleven.com/news/articleView.html?idxno=309467",
+    "https://biz.heraldcorp.com/article/10798252",
+    "https://biz.heraldcorp.com/article/10798251",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01275926645511568",
+    "https://www.news1.kr/local/gwangju-jeonnam/6217331",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=306306",
+    "https://news.unn.net/news/articleView.html?idxno=594317"
    ],
    "seen_titles": [
-    "성수석시장\"반도체·역세권혁신으로미래이천열겠다\"",
-    "\"2분기메모리시장350조원규모…삼성·SK하이닉스실적,마이크론넘...",
-    "[속보]SKT정재헌“SK,아시아최대AI데이터센터인프라허브‘구축...",
-    "[속보]정재헌SKT대표\"울산에첫GW급AIDC구축…영남권140조투자...",
-    "150조팔고떠난외인…'AI고점론'갑론을박",
-    "[현장]'양자기술'은어떻게쓰일까···퀀텀코리아가봤더니",
     "[속보]'롤러코스터'아찔한코스피8,088.34로마감···7,400도무너졌...",
     "[축구]월드컵으로멈췄던K리그1,4일재개…'선두'서울계속잘달릴...",
     "메가특구주52시간예외..野\"용인은안되고호남은되나\"",
@@ -3466,10 +3464,16 @@
     "SK하닉레버리지괴리율재발막는다…금융당국,ETFLP관리강화",
     "SKT,영남∙서남권에'15GWAIDC'지도만든다…\"아시아AI허브도약\"",
     "호남에800조베팅한삼성·SK…美압박변수부상",
-    "[오피셜]체력‧기동력\"매우우수\"증명…'승격팀'부천,베테랑멀티..."
+    "[오피셜]체력‧기동력\"매우우수\"증명…'승격팀'부천,베테랑멀티...",
+    "‘호남반도체800조투자’삼성·SK…미국자국투자압박있을까",
+    "“‘삼전닉스’,오를까내릴까”…이번주코스피‘운명’가른다",
+    "삼성전자실적에쏠린눈…변동성장세반등시험대[주간증시전망]",
+    "민형배'삼성·SK반도체산단'에올인…대통령의지맞춰광폭행보",
+    "한은,삼성전자·SK하이닉스레버리지ETF경고",
+    "동강대,반도체생산현장이끌전문가육성에속도"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T09:30:52.798508+09:00"
+   "last_run": "2026-07-05T09:35:21.402495+09:00"
   }
  },
  "press_names": {
