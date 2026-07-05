@@ -386,11 +386,17 @@
     [
      "2026-07-06T00:35:20.127988+09:00",
      "PPI CPI 컨퍼런스 6월 GPT 선밸리 발표"
+    ],
+    [
+     "2026-07-06T00:40:42.217673+09:00",
+     "홍콩 패밀리오피스 기업공개 공모액 3384개 1위 세계"
+    ],
+    [
+     "2026-07-06T00:40:42.217673+09:00",
+     "불편한 정부 경제 환영 단체 현상 논평 기업들 연일 정책 낯설면서"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008641036&plink=ORI&cooper=NAVER",
-    "https://www.newsjeju.net/news/articleView.html?idxno=422913",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037314",
     "https://www.livebiz.today/news/articleView.html?idxno=203082",
     "https://news.tvchosun.com/site/data/html_dir/2026/07/03/2026070390332.html",
@@ -1888,11 +1894,11 @@
     "https://www.donga.com/news/Economy/article/all/20260705/134232116/2",
     "https://www.donga.com/news/Economy/article/all/20260705/134239759/3",
     "https://www.chosun.com/special/2026/07/06/VEKE6PF7F5CMVLOG2UI43SI6BY/",
-    "https://www.newspim.com/news/view/20260706000005"
+    "https://www.newspim.com/news/view/20260706000005",
+    "https://www.chosun.com/economy/money/2026/07/06/5DQVLSCOLRDHDJ4HKLBMER57FE/",
+    "https://www.chosun.com/economy/industry-company/2026/07/06/N3T5DGTNFBA6NDCVRHEUVXXWY4/"
    ],
    "seen_titles": [
-    "영남권에312조투자...\"피지컬AI·우주핵심거점\"",
-    "하루만에8천복귀…본주뒤쫓는'레버리지'",
     "제주항공,제주SKFC와제주바다지킨다",
     "李대통령,6일청와대서반도체클러스터점검",
     "미래에셋,CP로1조3천억조달에나서…현금넘치는SK하이닉스인수유...",
@@ -3390,10 +3396,12 @@
     "[DBR/알립니다]디톡스(D-Talks)세미나:보상의딜레마와성과주의의미래",
     "관람객몰린IBM‘시스템투’…SKT-KT양자암호기술눈길",
     "중고차불만족땐3일이내환불…업계최초도입",
-    "[중국증시주간포인트]①6월中CPI∙PPI,선밸리컨퍼런스,GPT-5.6발표..."
+    "[중국증시주간포인트]①6월中CPI∙PPI,선밸리컨퍼런스,GPT-5.6발표...",
+    "홍콩패밀리오피스3384개…기업공개공모액세계1위?",
+    "경제단체,연일정부정책환영논평…기업들“낯설면서불편한현상..."
    ],
    "initialized": true,
-   "last_run": "2026-07-06T00:35:20.127988+09:00"
+   "last_run": "2026-07-06T00:40:42.217673+09:00"
   }
  },
  "press_names": {
