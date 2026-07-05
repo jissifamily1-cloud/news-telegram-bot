@@ -170,11 +170,13 @@
     [
      "2026-07-06T04:35:22.366543+09:00",
      "대박 85조 성과급 영업이익 삼전 370조 보인다 올해 반영해도"
+    ],
+    [
+     "2026-07-06T04:40:44.556073+09:00",
+     "삼전 사내대출 반도체 이하로 집값 제한 논란에 상승"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH20260703210242Al4",
-    "http://andongmbc.co.kr/adboard/NewsView83445",
     "https://www.daejonilbo.com/news/articleView.html?idxno=2285519",
     "https://www.mk.co.kr/article/12084145",
     "http://andongmbc.co.kr/adboard/NewsView83456",
@@ -1672,11 +1674,11 @@
     "https://www.news2day.co.kr/article/20260705500061",
     "https://www.hankookilbo.com/news/article/A2026070507090001995?did=NA",
     "https://magazine.hankyung.com/business/article/202607022076b",
-    "https://www.mt.co.kr/industry/2026/07/06/2026070514455829930"
+    "https://www.mt.co.kr/industry/2026/07/06/2026070514455829930",
+    "https://www.donga.com/news/Politics/article/all/20260705/134240851/2",
+    "https://www.donga.com/news/Economy/article/all/20260706/134240646/2"
    ],
    "seen_titles": [
-    "미래에셋증권,1.3조장기CP발행…최종투자자는‘SK하이닉스’",
-    "\"AI허브구축\"영남권첨단산업투자발표",
     "이재명대통령,영남권발전비전발표..TK투자계획주목",
     "李대통령,6일반도체클러스터점검회의주재…민·관추진상황점검",
     "금·은→반도체주식,다음은비트코인?[홍익희의비트코인이야기]",
@@ -3174,10 +3176,12 @@
     "흔들린반도체株,이번주삼성전자가분수령…실적이투심살릴까",
     "하노이에서생각한'대체불가대한민국'[김양희의경제안보]",
     "수억씩뛰는서울아파트값의미스터리,왜?[서울집값미스터리①]",
-    "\"성과급반영해도85조\"삼전영업이익또대박?...올해370조보인다"
+    "\"성과급반영해도85조\"삼전영업이익또대박?...올해370조보인다",
+    "[단독]강훈식“추가세수,반도체클러스터전력-용수에써야”",
+    "반도체發집값상승논란에,삼전사내대출85㎡이하로제한"
    ],
    "initialized": true,
-   "last_run": "2026-07-06T04:35:22.366543+09:00"
+   "last_run": "2026-07-06T04:40:44.556073+09:00"
   }
  },
  "press_names": {
