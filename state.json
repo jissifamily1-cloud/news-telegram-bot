@@ -522,11 +522,13 @@
     [
      "2026-07-05T10:05:21.528756+09:00",
      "800조 호남 투자에 6억 뜬금 숟가락 딴지 삼성전자 정진욱 노조"
+    ],
+    [
+     "2026-07-05T10:10:42.450546+09:00",
+     "발간 82년 성벽 숨은 표정들 수원의 그리다 너머 터전"
     ]
    ],
    "seen_urls": [
-    "https://kbench.com/?q=node%2F280133",
-    "https://www.hankyung.com/article/202607034144i",
     "https://www.mediapen.com/news/view/1108004",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1715055",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=848048",
@@ -2024,11 +2026,11 @@
     "https://www.newscj.com/news/articleView.html?idxno=3414539",
     "https://news.bizwatch.co.kr/article/healthcare/2026/07/03/0030",
     "https://www.newsis.com/view/NISX20260705_0003696047",
-    "https://www.ikbc.co.kr/article/view/kbc202607050010"
+    "https://www.ikbc.co.kr/article/view/kbc202607050010",
+    "https://www.hankyung.com/article/2026070559337",
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1326540"
    ],
    "seen_titles": [
-    "李대통령\"영남,세계제조업1위향해도약…우주경제영토넓힐것\"",
-    "SK텔레콤,40만원대가성비5G폰‘갤럭시와이드9’출시",
     "\"폭락장엔무조건풀매수\"...전투개미의삼전닉스레버리지투자공식",
     "“상반기13조원,역대급성과”…K-바이오,기술수출진화",
     "[EBN데이터센터]3일상승종목30選…반도체·증권주불기둥",
@@ -3526,10 +3528,12 @@
     "70조데이터센터vs100개국무료통화…AI사활건통신사들",
     "[글로벌바이오워치]빅파마가인실리코에모이는까닭",
     "유가보다더오른IT기기…'칩플레이션'에가계부담커진다[세쓸통]",
-    "정진욱\"'6억'삼성전자노조,800조호남투자에숟가락?...뜬금딴지,..."
+    "정진욱\"'6억'삼성전자노조,800조호남투자에숟가락?...뜬금딴지,...",
+    "\"올가을첫삽뜨겠다\"…삼성·SK반도체조기투자'총력'",
+    "'성벽너머수원의숨은표정들'발간…82년삶터전,詩로그리다"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T10:05:21.528756+09:00"
+   "last_run": "2026-07-05T10:10:42.450546+09:00"
   }
  },
  "press_names": {
