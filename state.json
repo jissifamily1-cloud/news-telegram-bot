@@ -613,7 +613,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.gukjenews.com/news/articleView.html?idxno=3625884",
     "https://www.newsis.com/view/NISX20260703_0003695581",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601731",
     "https://www.news1.kr/politics/president/6217538",
@@ -2112,10 +2111,10 @@
     "https://www.sportschosun.com/football/2026-07-05/202607050100033160001953",
     "https://www.mhns.co.kr/news/articleView.html?idxno=752373",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=552991",
-    "https://www.joongang.co.kr/article/25442548"
+    "https://www.joongang.co.kr/article/25442548",
+    "https://www.besteleven.com/news/articleView.html?idxno=309496"
    ],
    "seen_titles": [
-    "정부,영남권312조첨단산업투자뒷받침...\"세계제조업1위로\"",
     "삼성전기,2040년까지부산에15조원투자…AI·MLCC거점도약'청신호...",
     "이대통령,오는6일청와대서'반도체클러스터민관합동점검회의'주...",
     "영남권312조투자…이대통령“우주항공산업벨트·첨단제조업거점...",
@@ -3614,10 +3613,11 @@
     "[현장리뷰]'변준수퇴장→박철우선제골'김천상무,'네게바레드카드...",
     "전남광주경제공약재설계...정부투자확대",
     "추경호시장\"영남권투자환영하지만규모·구체성부족\"",
-    "‘정승원결승골’서울,인천꺾고3연승질주...선두굳히기"
+    "‘정승원결승골’서울,인천꺾고3연승질주...선두굳히기",
+    "[BE.현장]'계획대로'김천공략한제주→정조국코치,\"현대축구,세트..."
    ],
    "initialized": true,
-   "last_run": "2026-07-05T21:55:20.417191+09:00"
+   "last_run": "2026-07-05T21:57:50.201830+09:00"
   }
  },
  "press_names": {
