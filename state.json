@@ -758,15 +758,17 @@
     [
      "2026-07-05T18:35:19.578991+09:00",
      "바이오 제조업 흐림 뚜렷 업종별 맑음 온도차"
+    ],
+    [
+     "2026-07-05T18:40:43.954718+09:00",
+     "시험대 반도체 군공항도 입지에 광주특별시 흔들리는 주청사"
+    ],
+    [
+     "2026-07-05T18:40:43.954718+09:00",
+     "태웠다 호황에 상반기 역대급 161조 증시 개미들"
     ]
    ],
    "seen_urls": [
-    "https://www.korea.kr/news/policyNewsView.do?newsId=148967605&call_from=naver_news",
-    "https://www.kpinews.kr/newsView/1065592801115141",
-    "http://www.econotelling.com/news/articleView.html?idxno=20841",
-    "https://www.sedaily.com/article/20063634",
-    "https://www.mt.co.kr/world/2026/07/03/2026070317324394249",
-    "https://biz.heraldcorp.com/article/10797800",
     "https://www.mk.co.kr/article/12090100",
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=430622",
     "https://www.koreajoongangdaily.com/business/anthropic-weighing-samsung-partnership-to-develop-custom-ai-chips-us-media/12754518",
@@ -2260,15 +2262,15 @@
     "http://www.cctimes.kr/news/articleView.html?idxno=914975",
     "https://www.busan.com/view/busan/view.php?code=2026070518303735056",
     "https://www.busan.com/view/busan/view.php?code=2026070518303910472",
-    "https://www.incheonilbo.com/news/articleView.html?idxno=1326593"
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1326593",
+    "https://www.joongang.co.kr/article/25442538",
+    "http://www.fnnews.com/news/202607051834199256",
+    "http://www.jjn.co.kr/news/articleView.html?idxno=1045556",
+    "https://www.busan.com/view/busan/view.php?code=2026070518303630619",
+    "https://www.namdonews.com/news/articleView.html?idxno=915910",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1783243262&code=11151200&cp=nv"
    ],
    "seen_titles": [
-    "경찰'삼전닉스성과급백지화공문'가짜뉴스수사",
-    "이대통령\"영남,초격차첨단산업의태동지로다시태어나게될것\"",
-    "성수석이천시장\"권력아닌평범한사람의삶지키는방패되려정치...",
-    "급락장에놀란개미투자자들한숨돌려",
-    "하루758P출렁…210조몰린단일종목레버리지의그림자",
-    "메모리반도체주뒤흔들잠재위협…AI추론혁신시작됐나",
     "“그래도믿을건삼전닉스”여전히더오른다…“2분기합산매출만2...",
     "해외주식형ETF올해는'반도체천하'",
     "대한민국대도약1,600조메가프로젝트,서남·충청·영남산업지도가새...",
@@ -3762,10 +3764,16 @@
     "[충청논단]논쟁끝내고실행집중할때",
     "‘우주항공클러스터’경남…‘미래첨단산업중심’울산",
     "SK,영남권에2GW규모AI데이터센터구축",
-    "바이오'맑음'·제조업'흐림'…업종별온도차뚜렷"
+    "바이오'맑음'·제조업'흐림'…업종별온도차뚜렷",
+    "투자금대거몰렸는데부작용가시화...‘진퇴양난’레버리지ETF",
+    "하이닉스發전월세대란온다…청주·이천은'집구하기전쟁'",
+    "'전북패싱'호남반도체,전국이슈부상",
+    "영남권312조투자…실행력·속도가성패가른다",
+    "반도체입지에흔들리는광주특별시…주청사·군공항도시험대",
+    "역대급증시호황에개미들상반기161조태웠다"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T18:35:19.578991+09:00"
+   "last_run": "2026-07-05T18:40:43.954718+09:00"
   }
  },
  "press_names": {
