@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-05T14:00:57.280044+09:00",
-     "공략 수출로 200만 달러 북미 상장 도구로보틱스 본격화"
-    ],
-    [
-     "2026-07-05T14:00:57.280044+09:00",
-     "달렸다 삼전닉스에 코스피 뒤흔든 거품론이"
-    ],
-    [
      "2026-07-05T14:05:20.432914+09:00",
      "여름 폭염에 SK매직 청호나이스 얼음정수기 불티 코웨이 특수"
     ],
@@ -762,12 +754,17 @@
     [
      "2026-07-05T19:55:21.077083+09:00",
      "유치 울산은 메가프로젝트 보고만 것인가 있을"
+    ],
+    [
+     "2026-07-05T20:00:57.394903+09:00",
+     "구멍 나서야 가격 핀셋처방 수요층 다른 양극화"
+    ],
+    [
+     "2026-07-05T20:00:57.394903+09:00",
+     "반도체 포기 초격차에 화력 정부 총동원령 원전 에너지전환"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/202607034731i",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260703182649wNJ",
-    "https://www.m-i.kr/news/articleView.html?idxno=1388130",
     "https://www.dt.co.kr/article/12071018",
     "https://www.topdaily.kr/articles/110828",
     "http://www.00news.co.kr/news/articleView.html?idxno=104916",
@@ -2264,12 +2261,12 @@
     "https://www.hidomin.com/news/articleView.html?idxno=712037",
     "https://www.gnnews.co.kr/news/articleView.html?idxno=640430",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260706.22005001311",
-    "https://www.iusm.co.kr/news/articleView.html?idxno=1064965"
+    "https://www.iusm.co.kr/news/articleView.html?idxno=1064965",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465659",
+    "https://www.kyeongin.com/article/1766784",
+    "https://biz.heraldcorp.com/article/10798561"
    ],
    "seen_titles": [
-    "영남권312조투자에전재수·김상욱·박완수\"행정신속지원\"",
-    "국힘양향자\"AI패권국가되려면HBM주권지켜야\"",
-    "경찰,'성과급백지화공문'허위정보유포내사",
     "노동부,15개제조사경영진과산재근절대책협의",
     "SK,영남권에‘140조승부수’…아시아최대‘AI허브’만든다",
     "독파모2차심사앞두고GPU분배쟁점되나",
@@ -3766,10 +3763,13 @@
     "삼성·SK·한화·현대차영남권297조원투자",
     "창원-진주-사천잇는'우주항공벨트'구축한다",
     "민주당권주자텃밭호남서주말민심구애",
-    "[경제칼럼]메가프로젝트유치,울산은보고만있을것인가?"
+    "[경제칼럼]메가프로젝트유치,울산은보고만있을것인가?",
+    "AI가웃고,배터리가울었다...시총100위성적표'극과극'",
+    "[경인WIDE]다른수요층·가격양극화‘구멍’…핀셋처방나서야",
+    "李정부,반도체초격차에에너지전환포기?…원전,화력등총동원령[..."
    ],
    "initialized": true,
-   "last_run": "2026-07-05T19:55:21.077083+09:00"
+   "last_run": "2026-07-05T20:00:57.394903+09:00"
   }
  },
  "press_names": {
