@@ -494,11 +494,17 @@
     [
      "2026-07-05T09:55:21.174943+09:00",
      "삼전 수익률 SK하닉보다 상반기 종목"
+    ],
+    [
+     "2026-07-05T10:00:55.428197+09:00",
+     "코스피 외환위기 역대 발동 VI 상반기 최고 변동성은"
+    ],
+    [
+     "2026-07-05T10:00:55.428197+09:00",
+     "상대로 포항 스코어 FC 안양 39분간 승리 10명 펠레"
     ]
    ],
    "seen_urls": [
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681180",
-    "https://news.mtn.co.kr/news-detail/2026070315410960302",
     "https://www.mt.co.kr/stock/2026/07/03/2026070315263644938",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465399",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1271372",
@@ -1996,11 +2002,11 @@
     "https://www.etoday.co.kr/news/view/2600301",
     "https://www.mk.co.kr/article/12090440",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=167603",
-    "https://www.dt.co.kr/article/12071107"
+    "https://www.dt.co.kr/article/12071107",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01315286645511568",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248768&CMPT_CD=P0010"
    ],
    "seen_titles": [
-    "코스피,반도체쌍끌이에8000회복...기관4.5조순매수",
-    "코스피,하루만에8000선회복...매수사이드카발동",
     "정재헌SKT대표\"영남에140조투자…2GWAI데이터센터구축\"",
     "아침급락때판당신,속았다…코스피8088.34급등마감",
     "코스피,5.76%급반등8080선회복...삼성전자8%·SK하이닉스11%급등",
@@ -3498,10 +3504,12 @@
     "AI붐이청년일자리삼키나...법률사무원·통번역가고용급감",
     "트럼프는사고참모들은받고…쿠팡과얽힌美행정부,발끈한이유?",
     "트럼프미국행정부와쿠팡은?",
-    "삼전·SK하닉보다더뛴‘이종목’…상반기수익률756%"
+    "삼전·SK하닉보다더뛴‘이종목’…상반기수익률756%",
+    "상반기코스피VI발동역대최대…변동성은외환위기후최고",
+    "39분간10명뛴포항,FC안양상대로'펠레스코어승리'"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T09:55:21.174943+09:00"
+   "last_run": "2026-07-05T10:00:55.428197+09:00"
   }
  },
  "press_names": {
