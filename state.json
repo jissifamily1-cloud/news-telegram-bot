@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-05T11:30:49.554109+09:00",
-     "맞서 삼전닉스 메가 14조 히로시마에 마이크론 투자"
-    ],
-    [
      "2026-07-05T11:35:23.503279+09:00",
      "3달 큰손 돌아올 팔아 치우더니 빈집 내내 10선 종목"
     ],
@@ -606,11 +602,13 @@
     [
      "2026-07-05T17:25:21.271932+09:00",
      "반도체 갈등 강타한 사회 역대급 주목 외신도 호황속"
+    ],
+    [
+     "2026-07-05T17:30:54.348444+09:00",
+     "2035년까지 승부수 15GW SK텔레콤 허브 데이터센터 아시아 조성"
     ]
    ],
    "seen_urls": [
-    "http://www.queen.co.kr/news/articleView.html?idxno=459746",
-    "https://www.usmbc.co.kr/NewsArticle/849140",
     "https://www.hankookilbo.com/news/article/A2026070316360005318?did=NA",
     "https://www.hankookilbo.com/news/article/A2026070316320002795?did=NA",
     "https://www.ngonews.kr/news/articleView.html?idxno=232191",
@@ -2108,11 +2106,11 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465643",
     "https://sports.donga.com/it/article/all/20260705/134237167/1",
     "https://www.mt.co.kr/politics/2026/07/05/2026070516165163001",
-    "https://www.ddaily.co.kr/page/view/2026070515382233533"
+    "https://www.ddaily.co.kr/page/view/2026070515382233533",
+    "https://www.munhwa.com/article/11600360",
+    "https://www.seoultimes.news/news/article.html?no=2000097404"
    ],
    "seen_titles": [
-    "SKT\"울산데이터센터1GW확대구축\"",
-    "[오늘증시]기관4조5000억순매수,삼성·하이닉스반등에코스피8100선...",
     "민선9기울산시첫월간회의\"시민기준행정\"",
     "추경호\"대구경북,최고의반도체팹후보지...기업직접와서보라\"",
     "삼성·SK,영남권에200조원투자...피지컬AI·데이터센터허브만든다",
@@ -3610,10 +3608,12 @@
     "SK,AI·반도체에초대형투자…그룹성장판다시커진다",
     "SKT“15GW규모AI데이터센터구축”",
     "반도체發수십조추가세수,메가프로젝트·청년떠받친다",
-    "역대급반도체호황속,韓사회강타한'부(富)의갈등'…외신도주목"
+    "역대급반도체호황속,韓사회강타한'부(富)의갈등'…외신도주목",
+    "이번주세계미리보기…나토정상회의,마린르펜판결,이란하메네이...",
+    "SK텔레콤,2035년까지AI데이터센터15GW조성…아시아AI허브승부수"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T17:25:21.271932+09:00"
+   "last_run": "2026-07-05T17:30:54.348444+09:00"
   }
  },
  "press_names": {
