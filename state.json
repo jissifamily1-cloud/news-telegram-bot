@@ -378,14 +378,21 @@
     [
      "2026-07-06T00:05:22.882866+09:00",
      "변동성 분석 베타값으로 위험 레버리지 반도체 투자"
+    ],
+    [
+     "2026-07-06T00:10:43.002027+09:00",
+     "여행사 매각"
+    ],
+    [
+     "2026-07-06T00:10:43.002027+09:00",
+     "지원 나선다 규제개선 울산 투자계획 인허가 차질 대형 없도록"
+    ],
+    [
+     "2026-07-06T00:10:43.002027+09:00",
+     "AX는 확보를 산업 소규모 실증단지부터 속도전"
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423346",
-    "https://www.dailian.co.kr/news/view/1663182/?sc=Naver",
-    "https://www.hankyung.com/article/202607034795g",
-    "https://www.ikbc.co.kr/article/view/kbc202607030065",
-    "https://www.hankyung.com/article/2026070346796",
     "https://www.nocutnews.co.kr/news/6543009",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601834",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=272473",
@@ -1880,14 +1887,14 @@
     "http://www.gjdream.com/news/articleView.html?idxno=670761",
     "https://www.joongang.co.kr/article/25442589",
     "https://news.tf.co.kr/read/economy/2339462.htm",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=81288"
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=81288",
+    "https://www.kado.net/news/articleView.html?idxno=2059588",
+    "https://www.ytn.co.kr/_ln/0101_202607060007458066",
+    "https://www.traveltimes.co.kr/news/articleView.html?idxno=416085",
+    "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061282",
+    "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061280"
    ],
    "seen_titles": [
-    "李대통령\"영남권,우주항공등선도지역으로만들것\"",
-    "미래에셋증권,1조2천600억원규모CP발행추진…SK하이닉스인수자로...",
-    "유니폼바꿔입은강동궁·강지은…PBA팀리그판세뒤흔드나",
-    "\"삼전닉스,마이크론이상성과낼것\"…역대급실적기대감",
-    "김대중통합특별시교육감\"서울능가'K-교육특별시'만들것\"[와이드이...",
     "'믿을맨'삼전닉스반등…메타발업황우려이겨낼까[종목+]",
     "박상인교수\"용인반도체클러스터어렵다…영호남2개씩분산해야\"",
     "한테이블앉은정청래·김민석·송영길…보완수사권·1인1표제등신경...",
@@ -3382,10 +3389,15 @@
     "전남광주반도체,속도전이성패가른다",
     "삼성·SK호남800조베팅…미국에투자압박빌미주나",
     "노란봉투법·성과급요구까지…철강·조선업계'하투'긴장고조",
-    "[클로즈업]반도체레버리지투자…베타값으로본변동성위험분석"
+    "[클로즈업]반도체레버리지투자…베타값으로본변동성위험분석",
+    "GS동해AI데이터센터,정부메가프로젝트'1호'노린다",
+    "이대통령,오늘메가프로젝트민관합동점검회의개최",
+    "[글로벌컨설팅김근수회계사의여행사경영산책]여행사매각(M&A)의기...",
+    "대형울산투자계획차질없도록市,인허가·규제개선지원나선다",
+    "\"산업AX는속도전…소규모실증단지부터확보를\""
    ],
    "initialized": true,
-   "last_run": "2026-07-06T00:05:22.882866+09:00"
+   "last_run": "2026-07-06T00:10:43.002027+09:00"
   }
  },
  "press_names": {
@@ -3857,6 +3869,7 @@
   "tbs.seoul.kr": "TBS",
   "web.ubc.co.kr": "web.ubc.co.kr",
   "gamechosun.co.kr": "gamechosun.co.kr",
-  "busanmbc.co.kr": "busanmbc.co.kr"
+  "busanmbc.co.kr": "busanmbc.co.kr",
+  "traveltimes.co.kr": "여행신문"
  }
 }
