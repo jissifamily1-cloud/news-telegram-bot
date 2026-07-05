@@ -262,10 +262,13 @@
     [
      "2026-07-06T05:20:44.590270+09:00",
      "신규 정부 원전 과감한 추진력 절실하다"
+    ],
+    [
+     "2026-07-06T05:25:19.488850+09:00",
+     "의정부 태평3 시공사 가재울 윤곽 성남"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260703011800315?input=2106m",
     "https://biz.heraldcorp.com/article/10797419",
     "https://www.newspim.com/news/view/20260703000955",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=272476",
@@ -1764,10 +1767,10 @@
     "http://www.yonhapnewstv.co.kr/news/MYH20260706051518bF9",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01456326645511896",
     "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374026",
-    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/07/06/20260706027001?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/07/06/20260706027001?wlog_tag3=naver",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607050156126960924"
    ],
    "seen_titles": [
-    "잊을만하면고개드는‘AI거품론’…반도체투자흔드나",
     "Leetoreviewmegachipclusterprojectnextweek",
     "‘나만무서워?’1년만에무려431%급증…‘레버리지ETF’,이렇게많...",
     "이재명대통령,'반도체'메가프로젝트고삐죈다…6일민관합동회의",
@@ -3266,10 +3269,11 @@
     "靑,오늘'3대메가프로젝트'민관점검회의개최",
     "“정형증권STO선점하자”…증권가는이미인프라경쟁중",
     "'정승원결승골'FC서울,인천에1-0승리로3연승질주하며선두굳히기",
-    "[사설]신규원전,과감한정부추진력절실하다"
+    "[사설]신규원전,과감한정부추진력절실하다",
+    "[이번주재개발ㆍ재건축]의정부가재울ㆍ성남태평3시공사‘윤곽’"
    ],
    "initialized": true,
-   "last_run": "2026-07-06T05:20:44.590270+09:00"
+   "last_run": "2026-07-06T05:25:19.488850+09:00"
   }
  },
  "press_names": {
