@@ -522,13 +522,17 @@
     [
      "2026-07-05T13:05:22.718907+09:00",
      "불씨에 압박에 산업계 노봉법 총파업 하청 초긴장 파업권까지"
+    ],
+    [
+     "2026-07-05T13:10:42.749165+09:00",
+     "8000선 줄어 돌아왔지만 91개 코스피 1조클럽 종목은"
+    ],
+    [
+     "2026-07-05T13:10:42.749165+09:00",
+     "돌아가는 바라기 환율 외환시장 24시간 코스피"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20063586",
-    "http://www.newsprime.co.kr/news/article.html?no=739080",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04349286645510912",
-    "https://www.news1.kr/local/daegu-gyeongbuk/6217311",
     "https://news.ifm.kr/news/articleView.html?idxno=474346",
     "https://www.kwnews.co.kr/article/20260703500216",
     "https://www.businesspost.co.kr/BP?command=article_view&num=441524",
@@ -2024,13 +2028,13 @@
     "https://www.m-i.kr/news/articleView.html?idxno=1388245",
     "https://www.m-i.kr/news/articleView.html?idxno=1388060",
     "https://www.newsis.com/view/NISX20260705_0003696150",
-    "https://www.m-i.kr/news/articleView.html?idxno=1388056"
+    "https://www.m-i.kr/news/articleView.html?idxno=1388056",
+    "https://www.viva100.com/article/20260705500294",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423394",
+    "https://kpenews.com/View.aspx?No=4137293",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423395"
    ],
    "seen_titles": [
-    "반도체이어민생까지…민형배시장통합첫날0시부터“바쁘다바뻐...",
-    "'반도체물부족'논란,사실과달랐다…전남광주특별시,하루65만톤추...",
-    "'97년트라우마'못지운韓,조심스레24시간원화거래연다",
-    "추경호\"국가첨단산업전략,원칙과절차위에서추진돼야\"",
     "김보라안성시장\"성과로증명하는민선9기…첨단산업·철도·청년정책...",
     "[속보]경찰,‘삼성전자·SK하이닉스성과급백지화공문’가짜뉴스내...",
     "SK텔레콤영남권2GWAI데이터센터구축에140조투자,정재헌\"아시아...",
@@ -3526,10 +3530,14 @@
     "레버리지ETF괴리율재발막는다...당국,LP관리강화",
     "[기획]위기몰린첨단산업…송전망불통에대규모투자차질우려",
     "롯데카드,AI활용해보이스피싱예방앞장…통신3사와협업",
-    "총파업압박에첫하청파업권까지…'노봉법'불씨에산업계초긴장"
+    "총파업압박에첫하청파업권까지…'노봉법'불씨에산업계초긴장",
+    "코스피상승했지만1조클럽은줄었다…반도체주쏠림영향",
+    "[외환-주간]'24시간거래'개시…美지표·하이닉스ADR주목",
+    "코스피8000선돌아왔지만..‘1조클럽’종목은91개줄어",
+    "[채권-주간]코스피·환율바라기…24시간돌아가는외환시장"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T13:05:22.718907+09:00"
+   "last_run": "2026-07-05T13:10:42.749165+09:00"
   }
  },
  "press_names": {
