@@ -594,15 +594,13 @@
     [
      "2026-07-05T10:50:42.566783+09:00",
      "스킨십 총리의 눈길 소통 감성 선물"
+    ],
+    [
+     "2026-07-05T10:55:20.204462+09:00",
+     "교육의 AI시대 방향은"
     ]
    ],
    "seen_urls": [
-    "https://www.kado.net/news/articleView.html?idxno=2059346",
-    "https://www.joongang.co.kr/article/25442242",
-    "https://www.electimes.com/news/articleView.html?idxno=369908",
-    "https://www.busan.com/view/busan/view.php?code=2026070315523945796",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465415",
-    "http://www.breaknews.com/1219050",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=659752",
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=697816",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/03/2026070300173.html",
@@ -2096,15 +2094,15 @@
     "http://www.srtimes.kr/news/articleView.html?idxno=206750",
     "https://www.mk.co.kr/article/12090454",
     "http://www.yonhapnewstv.co.kr/news/MYH20260705104855NDT",
-    "https://www.etnews.com/20260705000014"
+    "https://www.etnews.com/20260705000014",
+    "https://www.sportsseoul.com/news/read/1620585",
+    "https://www.sportsseoul.com/news/read/1620584",
+    "https://www.segye.com/newsView/20260705503566?OutUrl=naver",
+    "https://www.sidae.com/article/2026070510411242418",
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5203888",
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1326541"
    ],
    "seen_titles": [
-    "영남에312조원투자…SK140조·삼성60조첨단산업육성",
-    "[속보]이대통령\"남해안우주항공산업벨트구축…영남권첨단산업적...",
-    "SK,140조투자…영남권을아시아최대AI인프라거점으로",
-    "노동부,15개제조기업과긴급점검회의...\"끼임사고반복되지않아야...",
-    "이재명“영남권‘피지컬AI’집중육성”…‘우주항공’도강조",
-    "[거래소외국인]삼성전기로대이동...반도체·자동차집중매수",
     "최은석국힘수석대변인“선관위방탄·정치압박·세금특검”비판",
     "한투운용,국내주식형ETF강화…점유율반등나선다",
     "8000선되찾은코스피···삼성전자·SK하이닉스'급등'",
@@ -3598,10 +3596,16 @@
     "[주간브리핑]삼성·SK,반도체·AI에4755조투자…홈플러스파산위기...",
     "“삼전닉스안부럽다”…상반기756%급등한‘이종목’",
     "[프리즘]반도체초호황이지만…주식·부동산·소비양극화심화",
-    "[세종만사]韓총리의'책선물'스킨십…감성소통눈길"
+    "[세종만사]韓총리의'책선물'스킨십…감성소통눈길",
+    "“우주항공·방산산실키운다”…李대통령,남해안첨단벨트승부수",
+    "SK140조·삼성60조‘통큰결단’…영남권경제지도통째로바꾼다[...",
+    "어제는'매도'오늘은'매수'사이드카…2분기실적발표,코스피변동성...",
+    "코스피9000올라탄'빚투'…2분기4.2조원늘어",
+    "'호남반도체800조투자'삼성·SK…미국투자압박커지나",
+    "[창간기획]AI시대교육의방향은"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T10:50:42.566783+09:00"
+   "last_run": "2026-07-05T10:55:20.204462+09:00"
   }
  },
  "press_names": {
