@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-05T18:20:43.260645+09:00",
-     "소비재 금융 급락장 빛난 방어력"
-    ],
-    [
-     "2026-07-05T18:20:43.260645+09:00",
-     "집단소송 개인정보 유출 정조준 정부기관도"
-    ],
-    [
-     "2026-07-05T18:20:43.260645+09:00",
-     "덕분에 금융사 예고 돈방석 실적 롤러코스터 증권 역대급 5곳 장세"
-    ],
-    [
-     "2026-07-05T18:20:43.260645+09:00",
-     "삼성전자 80조 실적에 2분기 넘을 쏠린 영업이익"
-    ],
-    [
      "2026-07-05T18:25:20.636721+09:00",
      "중국 DRAM CXMT EUV 없는 본딩 시험생산 테스트"
     ],
@@ -386,12 +370,17 @@
     [
      "2026-07-06T00:15:24.240378+09:00",
      "던진 민주당에 반도체 호남 숙제"
+    ],
+    [
+     "2026-07-06T00:20:43.421083+09:00",
+     "삼전닉스 주식이 그대에게 없는"
+    ],
+    [
+     "2026-07-06T00:20:43.421083+09:00",
+     "지수 피자"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=272473",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1715082",
-    "https://www.obsnews.co.kr/news/articleView.html?idxno=1529513",
     "https://www.newsis.com/view/NISI20260703_0002177883",
     "https://www.segye.com/newsView/20260703512838?OutUrl=naver",
     "https://www.viewsnnews.com/article?q=236942",
@@ -1888,12 +1877,12 @@
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061282",
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061280",
     "https://m.skyedaily.com/news_view.html?ID=306952",
-    "https://www.hankyung.com/article/2026070563821"
+    "https://www.hankyung.com/article/2026070563821",
+    "https://www.tokenpost.kr/news/breaking/375196",
+    "https://www.joongang.co.kr/article/25442609",
+    "https://www.hankyung.com/article/2026070564061"
    ],
    "seen_titles": [
-    "한테이블앉은정청래·김민석·송영길…보완수사권·1인1표제등신경...",
-    "MemoryMarketSurgesToward350TrillionWoninQ2",
-    "[EBN오늘(3일)이슈종합]서남권반도체·충청권패키징·영남권AI,3각...",
     "[비즈투데이]제주항공,제주바다정화'플로깅'진행",
     "[그래픽]영남권'우주항공·피지컬AI·방산'국내6대기업'312조'투입",
     "“삼성전자노조키운건키보드워리어”…중노위조정위원이본삼전...",
@@ -3390,10 +3379,13 @@
     "대형울산투자계획차질없도록市,인허가·규제개선지원나선다",
     "\"산업AX는속도전…소규모실증단지부터확보를\"",
     "[데일리Talk]반도체랠리올라탄외국인·개인…위험계산은달라",
-    "[다산칼럼]민주당에숙제던진호남반도체"
+    "[다산칼럼]민주당에숙제던진호남반도체",
+    "SK하이닉스,미국상장으로AI투자자유치추진",
+    "[조현숙의시선]삼전닉스주식이없는그대에게",
+    "[천자칼럼]피자지수"
    ],
    "initialized": true,
-   "last_run": "2026-07-06T00:15:24.240378+09:00"
+   "last_run": "2026-07-06T00:20:43.421083+09:00"
   }
  },
  "press_names": {
