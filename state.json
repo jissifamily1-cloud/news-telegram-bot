@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-06T00:20:43.421083+09:00",
-     "삼전닉스 주식이 그대에게 없는"
-    ],
-    [
-     "2026-07-06T00:20:43.421083+09:00",
-     "지수 피자"
-    ],
-    [
      "2026-07-06T00:25:22.500431+09:00",
      "정권의 국부의 대박 운명"
     ],
@@ -386,10 +378,13 @@
     [
      "2026-07-06T06:15:25.942529+09:00",
      "반도체 대투자 4755조 다음은"
+    ],
+    [
+     "2026-07-06T06:20:46.637210+09:00",
+     "설왕설래 입지 삼성은 군공항 호남 SK는 첨단3지구 반도체"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=06127046645510912",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=06123766645510912",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=06113926645510912",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=06110646645510912",
@@ -1888,10 +1883,10 @@
     "https://magazine.hankyung.com/business/article/202607010430b",
     "https://www.hitnews.co.kr/news/articleView.html?idxno=77402",
     "https://it.chosun.com/news/articleView.html?idxno=2023092164968",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092165175"
+    "https://it.chosun.com/news/articleView.html?idxno=2023092165175",
+    "https://www.news1.kr/local/gwangju-jeonnam/6218110"
    ],
    "seen_titles": [
-    "[포토]김재희,방심없이판단한다",
     "[포토]김재희,버디가필요해",
     "[포토]김재희,버디를생각한다",
     "[포토]김재희,집중으로조준한다",
@@ -3390,10 +3385,11 @@
     "강남보다공장이었다…‘AI머니’가바꾼대한민국부동산지도[서울...",
     "\"바이넥스,고객·환자모두안심할수있는의약품CDMO발돋움\"",
     "서학개미유치도,환율안정도실패…변동성만키워[레버리지리스크...",
-    "﻿4755조반도체대투자,'팹'다음은?[윤석빈의Thinking]"
+    "﻿4755조반도체대투자,'팹'다음은?[윤석빈의Thinking]",
+    "삼성은군공항,SK는첨단3지구?…호남반도체입지설왕설래"
    ],
    "initialized": true,
-   "last_run": "2026-07-06T06:15:25.942529+09:00"
+   "last_run": "2026-07-06T06:20:46.637210+09:00"
   }
  },
  "press_names": {
