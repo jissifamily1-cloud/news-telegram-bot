@@ -542,11 +542,13 @@
     [
      "2026-07-05T13:40:41.525584+09:00",
      "호실적 SK하이닉스 SK스퀘어 재평가 기대 기업가치 업고"
+    ],
+    [
+     "2026-07-05T13:45:25.456399+09:00",
+     "메타 앤스로픽과 변신하나 클로드 사업자로 클라우드 전용"
     ]
    ],
    "seen_urls": [
-    "https://www.donga.com/news/Politics/article/all/20260703/134231458/1",
-    "https://view.asiae.co.kr/article/2026070316292469826",
     "http://www.lkp.news/news/articleView.html?idxno=81513",
     "https://www.womentimes.co.kr/news/articleView.html?idxno=104125",
     "https://www.news2day.co.kr/article/20260703500205",
@@ -2044,11 +2046,11 @@
     "https://www.pennmike.com/news/articleView.html?idxno=123177",
     "https://www.hankyung.com/article/202607056001i",
     "https://www.veritas-a.com/news/articleView.html?idxno=617979",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465594"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465594",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=846138",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01633446645511568"
    ],
    "seen_titles": [
-    "김용범“3대메가프로젝트위해전력·용수풀자…스케일커져야”",
-    "원·달러환율30원급락마감…강달러꺾이고엔화반등영향(상보)",
     "SK에코플랜트,AIDC전문인력확보나서나…호남서최대'20조장기수...",
     "[데스크칼럼]반도체사이클에대한'닥터둠'경고믿을수있나",
     "(마감시황)코스피,널뛰기장세…장중7,378→종가8,088",
@@ -3546,10 +3548,12 @@
     "[재계핫이슈]이건희회장과사뭇다른'이재용스타일'",
     "광주전남은'팹주도권'싸움,전북은소외감…들끓는호남권",
     "[단독][20276월모평실채점배치표]서울대의예표점합412점'최고'연...",
-    "SK스퀘어,SK하이닉스호실적업고기업가치재평가기대"
+    "SK스퀘어,SK하이닉스호실적업고기업가치재평가기대",
+    "이종배\"충주드림파크산단에SKTAI데이터센터유치총력\"",
+    "메타,AI클라우드사업자로변신하나…앤스로픽과‘전용클로드’협..."
    ],
    "initialized": true,
-   "last_run": "2026-07-05T13:40:41.525584+09:00"
+   "last_run": "2026-07-05T13:45:25.456399+09:00"
   }
  },
  "press_names": {
