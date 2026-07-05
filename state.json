@@ -498,16 +498,37 @@
     [
      "2026-07-06T07:30:55.496609+09:00",
      "회의론 상승세 반도체주 전쟁 견인 악재"
+    ],
+    [
+     "2026-07-06T07:35:19.547971+09:00",
+     "역대급 변동성 반등 시험대 증시 삼전닉스 촉각 실적"
+    ],
+    [
+     "2026-07-06T07:35:19.547971+09:00",
+     "핫이슈 개인 시간 대응전략은 증시 온다 드디어 코스닥의"
+    ],
+    [
+     "2026-07-06T07:35:19.547971+09:00",
+     "뜨거워진 업계 액침 냉각 정유 데이터센터 식힌다 전자 물로"
+    ],
+    [
+     "2026-07-06T07:35:19.547971+09:00",
+     "영남권에 투자 첨단산업 312조원 삼성 현대차 지도 한화"
+    ],
+    [
+     "2026-07-06T07:35:19.547971+09:00",
+     "영상 콘텐츠 AI로 줄여줄 부담 제작 뚝딱 합성"
+    ],
+    [
+     "2026-07-06T07:35:19.547971+09:00",
+     "2원 달러 고착 환율 급락 고용 부진에도 1500원대 우려"
+    ],
+    [
+     "2026-07-06T07:35:19.547971+09:00",
+     "토큰으로 SK하이닉스를 온체인화 상장 ADR 앞두고 주목 산다"
     ]
    ],
    "seen_urls": [
-    "https://economist.co.kr/article/view/ecn202607010061",
-    "https://www.dailian.co.kr/news/view/1663274/?sc=Naver",
-    "https://view.asiae.co.kr/article/2026070208402534929",
-    "https://www.joongang.co.kr/article/25442370",
-    "https://www.ekn.kr/web/view.php?key=20260703023279038",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=204435",
-    "https://www.newspim.com/news/view/20260703000874",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=265086",
     "https://www.news1.kr/politics/assembly/6217523",
     "https://www.news1.kr/politics/assembly/6217271",
@@ -2000,16 +2021,16 @@
     "http://www.breaknews.com/1219284",
     "https://www.newsis.com/view/NISX20260706_0003696479",
     "https://biz.heraldcorp.com/article/10798666",
-    "https://biz.sbs.co.kr/article_hub/20000320748?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000320748?division=NAVER",
+    "https://biz.sbs.co.kr/article_hub/20000320749?division=NAVER",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005872676",
+    "https://economist.co.kr/article/view/ecn202607010024",
+    "https://www.newswhoplus.com/news/articleView.html?idxno=63866",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681080",
+    "https://www.newswhoplus.com/news/articleView.html?idxno=63867",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681237"
    ],
    "seen_titles": [
-    "[주간증시전망]AI흔들리자코스피'출렁'…차주삼성전자실적·FOMC의...",
-    "해킹시대,투자공식바뀌었다…‘보안’이최고의보험",
-    "호남서시작해영남서매듭…李대통령'메가투자릴레이'에담긴셈법",
-    "[단독]구리갭투자6개월새반토막…규제묶기5개월전투기수요떠났다...",
-    "6개월만에주가7배…‘주성’회장이장담한반도체신기술",
-    "[현장]‘퀀텀코리아2026’달군SKT·KT…양자시대통신전략공개",
-    "[수입차Pick]아우디,제주'플레이어에스코트'모집…폴스타,앰배서...",
     "얼음정수기경쟁격화…폭염속기술·프로모션총력전",
     "비밀아닌트렌드…SK하이닉스의'최신AI메모리포트폴리오'가알려주...",
     "與전대,전북잡으면승기?…'반도체투자'놓고신경전",
@@ -3502,10 +3523,17 @@
     "국민의힘장동혁·정점식,내부총질엄단및민주당입법폭주배수진",
     "[주간뉴욕증시]워시첫FOMC회의록공개…10일하이닉스상장도",
     "서울신보,자치구·민간데이터결합소상공인·골목상권살린다",
-    "[마켓브리핑]반도체주견인…전쟁·AI회의론악재속상승세"
+    "[마켓브리핑]반도체주견인…전쟁·AI회의론악재속상승세",
+    "[마켓프리뷰]'역대급변동성'삼전닉스실적촉각…증시반등시험대",
+    "증시오늘'핫이슈'\"코스닥의시간'드디어'온다,개인대응전략은?\"",
+    "“뜨거워진데이터센터물로식힌다”…전자·정유업계,액침냉각선...",
+    "삼성·SK·현대차·한화등영남권에312조원투자...'첨단산업지도'바...",
+    "[디투피플]AI로영상합성'뚝딱'...\"콘텐츠제작부담확줄여줄것\"",
+    "원·달러환율30.2원급락...美고용부진에도'1500원대고착'우려",
+    "SK하이닉스를토큰으로산다?...ADR상장앞두고온체인화주목"
    ],
    "initialized": true,
-   "last_run": "2026-07-06T07:30:55.496609+09:00"
+   "last_run": "2026-07-06T07:35:19.547971+09:00"
   }
  },
  "press_names": {
