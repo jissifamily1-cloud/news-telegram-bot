@@ -693,11 +693,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.segyebiz.com/newsView/20260704501782?OutUrl=naver",
-    "https://www.news1.kr/industry/distribution/6216709",
-    "https://www.tokenpost.kr/news/market/374964",
-    "https://www.etnews.com/20260704000007",
-    "https://www.seoulfn.com/news/articleView.html?idxno=632674",
     "https://www.slist.kr/news/articleView.html?idxno=749529",
     "https://www.topstarnews.net/news/articleView.html?idxno=16123315",
     "https://www.topstarnews.net/news/articleView.html?idxno=16123321",
@@ -2192,14 +2187,14 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1715147",
     "https://biz.sbs.co.kr/article_hub/20000320760?division=NAVER",
     "https://www.sedaily.com/article/20064016",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=02076246645511896"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02076246645511896",
+    "https://biz.sbs.co.kr/article_hub/20000320761?division=NAVER",
+    "https://www.etoday.co.kr/news/view/2600434",
+    "https://www.news1.kr/politics/assembly/6218328",
+    "https://www.newsis.com/view/NISX20260706_0003696582",
+    "https://www.newspim.com/news/view/20260706000065"
    ],
    "seen_titles": [
-    "李대통령,반도체클러스터직접챙긴다…메가프로젝트속도전",
-    "이통3사,2분기성적표극과극…관건은AI",
-    "폭염에달아오른음료·주류시장…시원함앞세운신제품경쟁",
-    "국내증시투자자예탁금119조돌파,개인매수여력주목받아",
-    "민형배전남광주특별시장“반도체경쟁력은사람“…맞춤형인재공급...",
     "[대한민국리빌딩④]AI의최종무대는공장···영남권,'피지컬AI수...",
     "[은행가]기업은행,외국인대상캐시백·농협은행'오늘의혜택'출시...",
     "7월1주차SK하이닉스주가급락후반등마감",
@@ -3694,10 +3689,15 @@
     "[원자재시황]독립기념일휴장…비철금속·곡물·코인강세",
     "[기업이슈]단기급락에따른반발매수세유입…반도체에기관수급집...",
     "‘삼성·하이닉스’가려고자율전공택했나…전자공학선호압도적",
-    "뉴욕증시반도체폭락속8000피회복…‘슈퍼위크’주목[뉴스새벽배송..."
+    "뉴욕증시반도체폭락속8000피회복…‘슈퍼위크’주목[뉴스새벽배송...",
+    "[어제장오늘장]코스피8천선회복…대형주쏠림에역대급변동성",
+    "iM證“증권2분기순익3.9조원…반도체쏠림완화되면재평가”",
+    "안철수\"삼전닉스레버리지상장폐지검토해야…금융위원장·금감원장...",
+    "삼전·SK하닉프리마켓서3%↑…실적·나스닥상장기대감'쑥'",
+    "[특징주]반도체주프리마켓강세…삼전3.88%·하이닉스2.02%상승"
    ],
    "initialized": true,
-   "last_run": "2026-07-06T08:25:20.793648+09:00"
+   "last_run": "2026-07-06T08:30:54.137248+09:00"
   }
  },
  "press_names": {
