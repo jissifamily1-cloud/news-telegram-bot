@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-05T16:00:52.135233+09:00",
-     "후공정 전국 충청 영남 첨단 호남 피지컬AI 반도체"
-    ],
-    [
-     "2026-07-05T16:00:52.135233+09:00",
-     "고르자 부상 화장품주 금융 반도체"
-    ],
-    [
      "2026-07-05T16:05:20.893638+09:00",
      "개인 빚내서 있어 빚투 너도나도 상승 한은 영향 주가 투자"
     ],
@@ -613,8 +605,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260703_0003695581",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601731",
     "https://www.news1.kr/politics/president/6217538",
     "https://it.chosun.com/news/articleView.html?idxno=2023092165096",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260703.99099001048",
@@ -2112,11 +2102,11 @@
     "https://www.mhns.co.kr/news/articleView.html?idxno=752373",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=552991",
     "https://www.joongang.co.kr/article/25442548",
-    "https://www.besteleven.com/news/articleView.html?idxno=309496"
+    "https://www.besteleven.com/news/articleView.html?idxno=309496",
+    "https://www.newsis.com/view/NISX20260705_0003696395",
+    "https://www.newspim.com/news/view/20260705000172"
    ],
    "seen_titles": [
-    "삼성전기,2040년까지부산에15조원투자…AI·MLCC거점도약'청신호...",
-    "이대통령,오는6일청와대서'반도체클러스터민관합동점검회의'주...",
     "영남권312조투자…이대통령“우주항공산업벨트·첨단제조업거점...",
     "李대통령,6일반도체클러스터민관합동점검회의소집…실무지원즉시...",
     "AI메모리공급난에…반도체업계\"정부가격·생산개입자제해야\"",
@@ -3614,10 +3604,12 @@
     "전남광주경제공약재설계...정부투자확대",
     "추경호시장\"영남권투자환영하지만규모·구체성부족\"",
     "‘정승원결승골’서울,인천꺾고3연승질주...선두굳히기",
-    "[BE.현장]'계획대로'김천공략한제주→정조국코치,\"현대축구,세트..."
+    "[BE.현장]'계획대로'김천공략한제주→정조국코치,\"현대축구,세트...",
+    "서울,인천과경인더비서승리…광주-울산,김천-제주는무승부(종합)",
+    "[프로축구]'정승원시즌첫골'서울,인천에1-0...2위와8점차선두"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T21:57:50.201830+09:00"
+   "last_run": "2026-07-05T22:00:55.845288+09:00"
   }
  },
  "press_names": {
