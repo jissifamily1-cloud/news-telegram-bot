@@ -530,12 +530,21 @@
     [
      "2026-07-05T13:35:21.890406+09:00",
      "스타일 이재용 다른 회장과 이건희 사뭇"
+    ],
+    [
+     "2026-07-05T13:40:41.525584+09:00",
+     "광주전남은 들끓는 주도권 전북은 소외감 호남권 싸움"
+    ],
+    [
+     "2026-07-05T13:40:41.525584+09:00",
+     "최고 서울대 표점합 의예 412점"
+    ],
+    [
+     "2026-07-05T13:40:41.525584+09:00",
+     "호실적 SK하이닉스 SK스퀘어 재평가 기대 기업가치 업고"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=265061",
-    "https://en.yna.co.kr/view/AEN20260703009600320?input=2106m",
-    "https://www.newspim.com/news/view/20260703000829",
     "https://www.donga.com/news/Politics/article/all/20260703/134231458/1",
     "https://view.asiae.co.kr/article/2026070316292469826",
     "http://www.lkp.news/news/articleView.html?idxno=81513",
@@ -2032,12 +2041,12 @@
     "https://www.munhwa.com/article/11600321",
     "https://www.kmib.co.kr/article/view.asp?arcid=0030065812&code=61122021&cp=nv",
     "https://www.mk.co.kr/article/12090492",
-    "https://www.pennmike.com/news/articleView.html?idxno=123177"
+    "https://www.pennmike.com/news/articleView.html?idxno=123177",
+    "https://www.hankyung.com/article/202607056001i",
+    "https://www.veritas-a.com/news/articleView.html?idxno=617979",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465594"
    ],
    "seen_titles": [
-    "코스피하루만에반등,8088.34마감…환율30.2원↓",
-    "SKTtoinvest140tlnwonfor'hyperscale'AIdatacentersinYeongnam",
-    "[전문]李대통령\"영남을글로벌첨단제조업거점으로…첨단산업대규...",
     "김용범“3대메가프로젝트위해전력·용수풀자…스케일커져야”",
     "원·달러환율30원급락마감…강달러꺾이고엔화반등영향(상보)",
     "SK에코플랜트,AIDC전문인력확보나서나…호남서최대'20조장기수...",
@@ -3534,10 +3543,13 @@
     "전재수취임첫대형투자성과…삼성전기,부산에2040년까지15조투자",
     "울산에쏟아지는140조투자…김상욱시장“인허가속도전”",
     "“성장자신없으면돈쌓지말고배당부터”…8천피에도한국증시가싼...",
-    "[재계핫이슈]이건희회장과사뭇다른'이재용스타일'"
+    "[재계핫이슈]이건희회장과사뭇다른'이재용스타일'",
+    "광주전남은'팹주도권'싸움,전북은소외감…들끓는호남권",
+    "[단독][20276월모평실채점배치표]서울대의예표점합412점'최고'연...",
+    "SK스퀘어,SK하이닉스호실적업고기업가치재평가기대"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T13:35:21.890406+09:00"
+   "last_run": "2026-07-05T13:40:41.525584+09:00"
   }
  },
  "press_names": {
