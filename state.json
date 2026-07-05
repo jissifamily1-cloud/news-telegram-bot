@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-05T15:35:20.917311+09:00",
-     "방정식 Chipflation 반도체와 치플레이션 기술 외교의 역습"
-    ],
-    [
      "2026-07-05T15:40:43.204718+09:00",
      "제시 경기 이사일 민선9기 용인시장 청사진"
     ],
@@ -669,8 +665,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.jtbc.co.kr/article/NB12306492?influxDiv=NAVER",
-    "https://www.g-enews.com/view.php?ud=202607031827266763fbbec65dfb_1",
     "https://news.jtbc.co.kr/article/NB12306494?influxDiv=NAVER",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05287366645510912",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607031754061540895",
@@ -2168,11 +2162,11 @@
     "https://www.besteleven.com/news/articleView.html?idxno=309493",
     "https://cc.newdaily.co.kr/site/data/html/2026/07/05/2026070500060.html",
     "https://www.yna.co.kr/view/AKR20260705046400007?input=1195m",
-    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=595521"
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=595521",
+    "https://www.news1.kr/sports/soccer/6218248",
+    "http://www.gnmaeil.com/news/articleView.html?idxno=590032"
    ],
    "seen_titles": [
-    "이재명대통령\"영남,세계제조업1위로\"…재계312조투자",
-    "마지막은\"영남\"우주항공거점으로키운다…312조투자",
     "70억달러베팅통했다…시노코어,중동전쟁속사상최대수익",
     "\"애니콜신화\"다시일어날구미…60조효과\"일자리20만개\"",
     "PBA팀리그7번째시즌개막…신생팀브레이커스합류,10개팀경쟁",
@@ -3670,10 +3664,12 @@
     "[BE.현장]'동반퇴장'이후10:10으로붙은김천-제주,승자는끝내없...",
     "[특별기고]반도체입지,‘표심’이아닌‘경쟁력’이결정해야한다",
     "[프로축구김천전적]김천1-1제주",
-    "'네게바퇴장+토비아스데뷔골'제주SK,김천원정서1-1무승부"
+    "'네게바퇴장+토비아스데뷔골'제주SK,김천원정서1-1무승부",
+    "[K리그1]전적종합(5일)",
+    "\"노란봉투법,호남반도체발목잡을것\""
    ],
    "initialized": true,
-   "last_run": "2026-07-05T21:30:51.662610+09:00"
+   "last_run": "2026-07-05T21:35:22.235828+09:00"
   }
  },
  "press_names": {
