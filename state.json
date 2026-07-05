@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-05T06:20:47.523294+09:00",
-     "91개 8천피 코스피 회복에도 때보다 6천피 적어 종목 1조클럽"
-    ],
-    [
      "2026-07-05T06:25:21.805547+09:00",
      "하이닉스 아나 동기 3억 김준상 후회 받는다고 내년 6천 퇴사 성과급"
     ],
@@ -530,14 +526,17 @@
     [
      "2026-07-05T12:20:42.719006+09:00",
      "애플 메모리 전쟁 정치권 가세 전면전 공급망 마이크론"
+    ],
+    [
+     "2026-07-05T12:25:21.138375+09:00",
+     "점검회의 청와대서 클러스터 반도체 대통령"
+    ],
+    [
+     "2026-07-05T12:25:21.138375+09:00",
+     "바이오 6년간 휩쓴 혁신신약 상륙 기다렸다 눈앞에 안방"
     ]
    ],
    "seen_urls": [
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=269098",
-    "https://www.nocutnews.co.kr/news/6542860",
-    "https://www.chosun.com/economy/tech_it/2026/07/03/QJSTYM5E3JFELFHGUHIZBYK3EA/",
-    "https://view.asiae.co.kr/article/2026070316223217019",
-    "http://www.breaknews.com/1219057",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=361581",
     "https://www.mk.co.kr/article/12089953",
     "http://www.kjdaily.com/article.php?aid=1783063028681615227",
@@ -2032,14 +2031,14 @@
     "https://zdnet.co.kr/view/?no=20260705104217",
     "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260705504&PRO_CODE=99",
     "https://www.nocutnews.co.kr/news/6543163",
-    "https://www.globale.co.kr/news/articleView.html?idxno=39181"
+    "https://www.globale.co.kr/news/articleView.html?idxno=39181",
+    "https://www.sportsseoul.com/news/read/1620606",
+    "https://www.namdonews.com/news/articleView.html?idxno=915794",
+    "https://swtvnews.com/news/newsview.php?ncode=1065582946820226",
+    "https://www.namdonews.com/news/articleView.html?idxno=915795",
+    "https://biz.heraldcorp.com/article/10798386"
    ],
    "seen_titles": [
-    "\"NAV할인율만55%…배당팍팍주는삼성물산,안살이유가없다\"",
-    "반도체호황최대수혜…\"상당기간이어질것\"",
-    "앤스로픽,자체AI칩개발위해삼성전자와손잡을듯",
-    "\"선진자본시장되려면PBR개선·디지털전환필요\"",
-    "취임3일째추경호대구시장,정부엔'검증'요구,기업엔'러브콜'…반...",
     "마감10분'14조주문폭탄'…예탁금문턱높일까",
     "“매도폭탄가능성제로”라던국민연금…다음날코스피폭락에‘뒷...",
     "[특징주]반도체주반등",
@@ -3534,10 +3533,15 @@
     "여름휴가,10명중5명\"국내여행\"...정보검색은'포털'이용",
     "[속보]국힘,‘메가프로젝트’는허황된불꽃놀이...나경원“기만적...",
     "한은,삼전닉스ETF경고…\"쏠림심화·변동성확대\"",
-    "애플·마이크론'메모리전쟁'전면전···中공급망·美정치권가세"
+    "애플·마이크론'메모리전쟁'전면전···中공급망·美정치권가세",
+    "‘6연패→13연패→8연패’솟아날기미도안보이는SSG…고명준“내가...",
+    "李대통령\"메가프로젝트,지지율관리수단이면지선전했을것\"",
+    "'신생'브레이커스,휴온스상대로프로당구PBA팀리그데뷔전승리도...",
+    "李대통령,내일청와대서'반도체클러스터'점검회의",
+    "‘6년간기다렸다’…美휩쓴K-바이오혁신신약안방상륙눈앞에"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T12:20:42.719006+09:00"
+   "last_run": "2026-07-05T12:25:21.138375+09:00"
   }
  },
  "press_names": {
