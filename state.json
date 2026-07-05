@@ -738,13 +738,13 @@
     [
      "2026-07-05T18:20:43.260645+09:00",
      "삼성전자 80조 실적에 2분기 넘을 쏠린 영업이익"
+    ],
+    [
+     "2026-07-05T18:25:20.636721+09:00",
+     "중국 DRAM CXMT EUV 없는 본딩 시험생산 테스트"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026070349081",
-    "https://www.joongangenews.com/news/articleView.html?idxno=530472",
-    "https://www.eroun.net/news/articleView.html?idxno=84624",
-    "https://www.kukinews.com/article/view/kuk202607030127",
     "https://www.natv.go.kr/natv/news/newsView.do?newsId=513676",
     "https://www.womennews.co.kr/news/articleView.html?idxno=279557",
     "https://www.mk.co.kr/article/12090090",
@@ -2240,13 +2240,13 @@
     "http://www.fnnews.com/news/202607051815539670",
     "https://www.hankyung.com/article/2026070563951",
     "http://www.fnnews.com/news/202607051815512715",
-    "https://www.hani.co.kr/arti/economy/economy_general/1266801.html"
+    "https://www.hani.co.kr/arti/economy/economy_general/1266801.html",
+    "https://www.kbmaeil.com/article/20260705500705",
+    "http://www.inews24.com/view/1982526",
+    "https://www.iusm.co.kr/news/articleView.html?idxno=1064957",
+    "https://www.tokenpost.kr/news/breaking/375160"
    ],
    "seen_titles": [
-    "삼성60조·현대차42조투입…\"영남을피지컬AI전진기지로\"",
-    "삼전닉스레버리지ETF,'음의복리효과'주의보",
-    "SK오션플랜트주가,7월3일15,320원1.73%하락마감",
-    "하이엔드브랜드단지,분양시장과기존단지에서관심이어져",
     "조선DNA로해상풍력키우는한화오션…풍력성과는과제",
     "국민의힘\"노봉법·더센상법,졸속포퓰리즘\"",
     "성수석이천시장\"시민이주인인도시로\"…반도체·돌봄·역세권혁신청...",
@@ -3742,10 +3742,14 @@
     "급락장속방어력빛난금융·소비재株",
     "개인정보유출집단소송,정부기관도'정조준'",
     "롤러코스터장세덕분에'돈방석'..증권·금융사5곳역대급실적예고",
-    "삼성전자,2분기실적에쏠린눈…“영업이익80조넘을듯”"
+    "삼성전자,2분기실적에쏠린눈…“영업이익80조넘을듯”",
+    "SK,포항블루베리산단에80조원투자검토…이철우지사“결국준비...",
+    "트럼프,쿠팡주식18회거래⋯현재13만달러보유추정",
+    "울산,AI데이터센터'1+1GW'도전…아태'AI허브'로",
+    "중국CXMT,EUV없는본딩DRAM시험생산테스트"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T18:20:43.260645+09:00"
+   "last_run": "2026-07-05T18:25:20.636721+09:00"
   }
  },
  "press_names": {
