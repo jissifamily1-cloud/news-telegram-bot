@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-05T06:15:25.933592+09:00",
-     "넘을까 실적 투자 우려 주목 둔화 삼성전자"
-    ],
-    [
      "2026-07-05T06:20:47.523294+09:00",
      "91개 8천피 코스피 회복에도 때보다 6천피 적어 종목 1조클럽"
     ],
@@ -526,11 +522,17 @@
     [
      "2026-07-05T12:15:25.199296+09:00",
      "메가프로젝트 허황된 불꽃놀이 나경원 기만적 국힘"
+    ],
+    [
+     "2026-07-05T12:20:42.719006+09:00",
+     "쏠림 한은 확대 ETF 경고 삼전닉스 심화 변동성"
+    ],
+    [
+     "2026-07-05T12:20:42.719006+09:00",
+     "애플 메모리 전쟁 정치권 가세 전면전 공급망 마이크론"
     ]
    ],
    "seen_urls": [
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=167577",
-    "https://news.bizwatch.co.kr/article/market/2026/07/03/0026",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=269098",
     "https://www.nocutnews.co.kr/news/6542860",
     "https://www.chosun.com/economy/tech_it/2026/07/03/QJSTYM5E3JFELFHGUHIZBYK3EA/",
@@ -2028,11 +2030,11 @@
     "https://www.newspim.com/news/view/20260705000043",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01541606645511568",
     "https://zdnet.co.kr/view/?no=20260705104217",
-    "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260705504&PRO_CODE=99"
+    "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260705504&PRO_CODE=99",
+    "https://www.nocutnews.co.kr/news/6543163",
+    "https://www.globale.co.kr/news/articleView.html?idxno=39181"
    ],
    "seen_titles": [
-    "삼전·닉스치솟자,코스피'폭등'...금융지주·증권주'껑충'",
-    "반도체투매하루만에급반등…코스피8000재탈환",
     "\"NAV할인율만55%…배당팍팍주는삼성물산,안살이유가없다\"",
     "반도체호황최대수혜…\"상당기간이어질것\"",
     "앤스로픽,자체AI칩개발위해삼성전자와손잡을듯",
@@ -3530,10 +3532,12 @@
     "트럼프,쿠팡주식18차례매매…이해충돌논란",
     "\"원청만의몫아니다\"…직장인65%,기업초과이익공유찬성",
     "여름휴가,10명중5명\"국내여행\"...정보검색은'포털'이용",
-    "[속보]국힘,‘메가프로젝트’는허황된불꽃놀이...나경원“기만적..."
+    "[속보]국힘,‘메가프로젝트’는허황된불꽃놀이...나경원“기만적...",
+    "한은,삼전닉스ETF경고…\"쏠림심화·변동성확대\"",
+    "애플·마이크론'메모리전쟁'전면전···中공급망·美정치권가세"
    ],
    "initialized": true,
-   "last_run": "2026-07-05T12:15:25.199296+09:00"
+   "last_run": "2026-07-05T12:20:42.719006+09:00"
   }
  },
  "press_names": {
