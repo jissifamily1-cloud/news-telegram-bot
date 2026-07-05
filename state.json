@@ -625,12 +625,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.asiatime.co.kr/article/20260703500320",
-    "https://www.etoday.co.kr/news/view/2600121",
-    "https://www.dkilbo.com/news/articleView.html?idxno=547639",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04323046645510912",
-    "https://www.ytn.co.kr/_ln/0102_202607031617220408",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423317",
     "https://www.ziksir.com/news/articleView.html?idxno=139042",
     "https://www.gokorea.kr/news/articleView.html?idxno=871123",
     "http://www.newsprime.co.kr/news/article.html?no=739077",
@@ -2124,15 +2118,15 @@
     "https://www.mt.co.kr/stock/2026/07/05/2026070311580441266",
     "https://imnews.imbc.com/news/2026/econo/article/6835076_36932.html",
     "https://www.chosun.com/economy/money/2026/07/05/3VZJMLAPVJFJ7M5NRXTS5SPF2M/",
-    "https://www.sedaily.com/article/20063838"
+    "https://www.sedaily.com/article/20063838",
+    "https://www.newsis.com/view/NISX20260705_0003696182",
+    "https://www.hankyung.com/article/2026070560247",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423383",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=586659",
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2285609",
+    "https://www.imaeil.com/page/view/2026070511142994289"
    ],
    "seen_titles": [
-    "李대통령“영남,대한민국초격차첨단산업태동지될것”",
-    "“삼전ㆍSK하닉더오를까”⋯하반기매수타이밍은[찐코노미]",
-    "반도체쇼크에휘청이더니···코스피,하루만에8000선회복",
-    "2분기메모리시장350조전망…D램·낸드가격급등에'역대급호황'",
-    "기관4.5조순매수에코스피5.8%↑...8,000선회복",
-    "영남권첨단산업에한화·현대차등312조원투자",
     "코스피,반도체반등에8000선탈환…기관4.4조순매수",
     "SK오션플랜트,세계최대급해상풍력하부구조물첫인도…글로벌경쟁...",
     "코스피,반도체강세에하루만에'8000선탈환'…코스닥0.19%↑",
@@ -3626,10 +3620,16 @@
     "\"하루40조증발했지만…국민연금리밸런싱우려는완화\"",
     "상반기코스피상승률1위,삼전·닉스아닌'삼성전기'‥756%상승",
     "MS,2000년이후최악의한달…AI희생양이라는관점도",
-    "[신경제용어]코스피니라미"
+    "[신경제용어]코스피니라미",
+    "한은\"삼전·닉스레버리지,개미손실확대우려…금융불안요인되지...",
+    "삼전·하닉'반도체베팅'에…마이크론,14조원돈뭉치꺼냈다",
+    "SKT,영남권140조AI데이터센터구축…전국15GW규모로확대",
+    "트럼프,쿠팡주식18차례매매확인…대한국통상현안맞물려이해충...",
+    "\"SK그룹AI데이터센터후보지로충주유력검토\"…이종배의원밝혀",
+    "[속보]나경원\"메가프로젝트,기업합리적결정인지검증필요…국조..."
    ],
    "initialized": true,
-   "last_run": "2026-07-05T11:15:26.567693+09:00"
+   "last_run": "2026-07-05T11:20:41.730240+09:00"
   }
  },
  "press_names": {
