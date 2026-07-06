@@ -278,12 +278,17 @@
     [
      "2026-07-07T05:10:54.868597+09:00",
      "다우 상승 5만3000선 일제히 뉴욕 평균 돌파 증시"
+    ],
+    [
+     "2026-07-07T05:15:26.067440+09:00",
+     "중심으로 강세 마감 매수 반도체주 저가"
+    ],
+    [
+     "2026-07-07T05:15:26.067440+09:00",
+     "호남 있다 반도체 적은 내부에 속도전"
     ]
    ],
    "seen_urls": [
-    "https://www.cbci.co.kr/news/articleView.html?idxno=586817",
-    "https://www.arunews.com/news/articleView.html?idxno=64594",
-    "https://www.ekn.kr/web/view.php?key=20260706023558936",
     "https://www.naeil.com/news/read/594298",
     "https://www.dailian.co.kr/news/view/1663790/?sc=Naver",
     "https://www.etnews.com/20260706000231",
@@ -1780,12 +1785,12 @@
     "https://www.joongang.co.kr/article/25442959",
     "https://www.etoday.co.kr/news/view/2599841",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01620326645512224",
-    "https://www.chosun.com/international/international_general/2026/07/07/SMMQZPRELVF7ZDE6NZNTJCPWRU/"
+    "https://www.chosun.com/international/international_general/2026/07/07/SMMQZPRELVF7ZDE6NZNTJCPWRU/",
+    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/07/07/20260707027005?wlog_tag3=naver",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423606",
+    "https://www.seoul.co.kr/news/editOpinion/seoul-plaza/2026/07/07/20260707026001?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "임인환신임대구시의회의장\"견제와협치조화,의회본연역할다할...",
-    "李대통령\"'3대메가프로젝트'오직속도전\"",
-    "SK에코플랜트,교육·카페브랜드와주거서비스차별화협력",
     "‘강경파’주병기의또다른도전,대기업과상생협력",
     "국힘윤한홍\"정책펀드도호남에집중\"",
     "반도체레버리지,정부'속도전'이부메랑됐다?",
@@ -3282,10 +3287,13 @@
     "“삼전닉스안샀다”…1억→20억불린배당파이어족의픽",
     "사회공헌·기부에서기후위기대응까지…달라진제약업계ESG",
     "수출늘어도떨어지지않는환율…\"3분기에는1600원돌파가능성\"",
-    "다우평균5만3000선첫돌파…뉴욕증시일제히상승"
+    "다우평균5만3000선첫돌파…뉴욕증시일제히상승",
+    "[사설]전쟁틈타서민등골뺀14조원유가담합,일벌백계해야",
+    "[뉴욕증시-1보]반도체주중심으로저가매수…강세마감",
+    "[서울광장]호남반도체속도전,적은내부에있다"
    ],
    "initialized": true,
-   "last_run": "2026-07-07T05:13:30.632371+09:00"
+   "last_run": "2026-07-07T05:15:26.067440+09:00"
   }
  },
  "press_names": {
