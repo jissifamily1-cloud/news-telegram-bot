@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-06T15:15:27.364343+09:00",
-     "전격 터미널 사업 확장 SK가스 우뚝 거물로 에너지 LNG"
-    ],
-    [
-     "2026-07-06T15:15:27.364343+09:00",
-     "자율주행 의원 박용갑 16만 개인택시 지원법 대표발의"
-    ],
-    [
-     "2026-07-06T15:15:27.364343+09:00",
-     "China energy battery crunch exposes edge"
-    ],
-    [
-     "2026-07-06T15:15:27.364343+09:00",
-     "안정형 라인업 ELS 발행 NH투자증권 퇴직연금 확대 효과 1위"
-    ],
-    [
      "2026-07-06T15:20:47.993301+09:00",
      "Samsung despite domestic won pledge weigh tn investment"
     ],
@@ -1270,14 +1254,17 @@
     [
      "2026-07-06T21:10:57.263670+09:00",
      "인기 폭발 주목한 충북반도체고 취업률 외신도"
+    ],
+    [
+     "2026-07-06T21:15:28.497234+09:00",
+     "삼전닉스도 우상 눈치 잠재우며 거품론 회사 트럼프도 슬금슬금"
+    ],
+    [
+     "2026-07-06T21:15:28.497234+09:00",
+     "경남 정부펀드 0원"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12091084",
-    "https://biz.heraldcorp.com/article/10799267",
-    "https://www.econovill.com/news/articleView.html?idxno=743937",
-    "https://www.imaeil.com/page/view/2026070611064266187",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423520",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=272505",
     "https://www.chosun.com/politics/assembly/2026/07/06/67W4VDL7SFBJRNPNCP5OQS2TQE/",
     "https://www.nbntv.kr/news/articleView.html?idxno=340423",
@@ -2772,14 +2759,14 @@
     "https://www.donga.com/news/Society/article/all/20260706/134245345/1",
     "https://www.betanews.net/article/view/beta202607060075",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603482",
-    "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260706&SEQUENCE=4265"
+    "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260706&SEQUENCE=4265",
+    "https://www.econovill.com/news/articleView.html?idxno=744439",
+    "http://www.kwangju.co.kr/article.php?aid=1783339800800968277",
+    "https://ysmbc.co.kr/NewsArticle/1526268",
+    "https://www.mk.co.kr/article/12091730",
+    "http://www.knnews.co.kr/news/articleView.php?idxno=1545737"
    ],
    "seen_titles": [
-    "힘빠진코스피8000선아래로…삼전보합권'후퇴'SK하닉하락전환[장...",
-    "SK인텔릭스‘나무엑스해커톤’,152개팀아이디어경쟁",
-    "SK하이닉스,44조원규모나스닥ADR상장-AI반도체주도권확보승부수",
-    "\"핵심은속도전,불법아니면다병행\"···李대통령,메가프로젝트'...",
-    "5%오르던삼성전자돌연‘파란불’…코스피8000선내줬다",
     "삼전·닉스이어삼성전자우까지‘줍줍’…기아는순매도1위[주식초...",
     "코스피,장초반상승후하락전환…8000선등락하며롤러코스터장세",
     "국민영웅제대로대우하기,어렵지않습니다[매경데스크]",
@@ -4274,10 +4261,15 @@
     "“전쟁으로올해2조벌듯”…정유사담합에기름값일주일새40%폭등",
     "코스피,외인기관매도세에하락마감",
     "“광주군공항부지에반도체산단조성”…이대통령,‘속도전’지시",
-    "'취업률96%'에인기폭발..외신도주목한충북반도체고"
+    "'취업률96%'에인기폭발..외신도주목한충북반도체고",
+    "안철수\"삼전닉스레버리지ETF상폐검토해야\"",
+    "삼성·SK반도체팹광주군공항부지입주",
+    "삼전·닉스반도체팹모두광주군공항부지로",
+    "트럼프도삼전닉스도이회사눈치…AI거품론잠재우며슬금슬금우상...",
+    "정부펀드경남‘0원’"
    ],
    "initialized": true,
-   "last_run": "2026-07-06T21:10:57.263670+09:00"
+   "last_run": "2026-07-06T21:15:28.497234+09:00"
   }
  },
  "press_names": {
