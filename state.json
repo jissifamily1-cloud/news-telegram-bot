@@ -1373,14 +1373,6 @@
     ]
    ],
    "seen_urls": [
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5203916",
-    "http://www.metroseoul.co.kr/article/20260705500192",
-    "https://www.dt.co.kr/article/12071176",
-    "https://www.koreatimes.co.kr/path/A2026070514100004741",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000047708",
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/05/2026070590089.html",
-    "http://www.domin.co.kr/news/articleView.html?idxno=1560799",
-    "https://biz.chosun.com/stock/stock_general/2026/07/05/VM6EEZ2O55HZFMOBEACIZSSF2A/",
     "https://www.insight.co.kr/news/561580",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01879446645511568",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=355531",
@@ -2872,17 +2864,17 @@
     "http://www.dynews.co.kr/news/articleView.html?idxno=856820",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4423534",
     "https://www.imaeil.com/page/view/2026061218430052642",
-    "https://www.viva100.com/article/20260706500657"
+    "https://www.viva100.com/article/20260706500657",
+    "https://www.jibs.co.kr/news/articles/articlesDetail/63181?feed=na",
+    "http://www.joseilbo.com/news/news_read.php?uid=571360&class=32",
+    "https://www.gokorea.kr/news/articleView.html?idxno=871274",
+    "https://view.asiae.co.kr/article/2026070612372683434",
+    "http://www.popcornnews.net/news/articleView.html?idxno=125678",
+    "http://www.popcornnews.net/news/articleView.html?idxno=125688",
+    "http://amenews.kr/news/view.php?idx=67330",
+    "https://www.greened.kr/news/articleView.html?idxno=344289"
    ],
    "seen_titles": [
-    "5G과장광고첫판결에통신업계촉각",
-    "홍준표\"수천조투자에대구1원도못가져와…청년들만불쌍\"",
-    "코스피상승에도'1조클럽'은감소…대형주쏠림여파",
-    "김민석,광주·서울서출마선언예고…3파전당권레이스본막",
-    "“메가프로젝트직접챙긴다”…李대통령,첫점검회의후해외순방출...",
-    "SKTelecomplans15GWAIdatacenterbuildoutacrossKoreaby2035",
-    "동강대,반도체생산현장이끌전문가육성'속도'",
-    "\"트럼프,쿠팡주식18회사고팔아\"…무역대표는쿠팡서보수",
     "[삼전·닉스는없고청년도떠난다]上대기업없는산업생태계,노동시...",
     "삼성전자·SK하이닉스도아니었다…상반기주가상승률1위는‘MLCC’...",
     "SKT,1GW70조AI센터판짠다...2035년15GW인프라설계자",
@@ -4374,10 +4366,18 @@
     "집중취재/392조메가프로젝트서또'대전패싱'…과학수도의위기",
     "MUFG\"하반기원화강세로돌아설것…연말1,500원\"",
     "[대구와함께해온삼성라이온즈]②'왕조',그리고다시꾸는꿈",
-    "‘직접고르는혜택’…삼성카드,‘삼성iDSELECTUP카드’출시"
+    "‘직접고르는혜택’…삼성카드,‘삼성iDSELECTUP카드’출시",
+    "“사기라더니‘왜우린빠졌나’고?”…이대통령,메가프로젝트비판...",
+    "\"올해2조번다\"...檢,'26조원대유가담합'정유4사·임직원무더기기...",
+    "국내정유사,26조유가담합의혹…검찰수사착수",
+    "담합·갑질하고정부에거짓말까지…檢,정유4사'14조규모유가폭등'...",
+    "SK인텔릭스,'제2회나무엑스해커톤'개최...웰니스로보틱스신사업발...",
+    "SK에코플랜트,입주민시설내교육·카페도입...3사MOU진행",
+    "1~5월글로벌전기차배터리사용량,전년比16.3%↑",
+    "삼성전자,2분기영업익'85조원'넘본다…분기최대실적기대감"
    ],
    "initialized": true,
-   "last_run": "2026-07-06T12:35:21.184810+09:00"
+   "last_run": "2026-07-06T12:40:45.617908+09:00"
   }
  },
  "press_names": {
