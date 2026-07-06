@@ -278,11 +278,13 @@
     [
      "2026-07-07T05:40:51.867954+09:00",
      "벼랑 승리 일본에 끝에서 극적인 예선 한국 월드컵 살아났다"
+    ],
+    [
+     "2026-07-07T05:50:50.476459+09:00",
+     "필라델피아 삼성 쏠린 반등 잠정실적에 반도체"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH20260706131050TLt",
-    "https://www.naeil.com/news/read/594338",
     "https://www.naeil.com/news/read/594329",
     "https://news.jtbc.co.kr/article/NB12306770?influxDiv=NAVER",
     "https://www.dailybrief.co.kr/news/articleView.html?idxno=6262",
@@ -1780,11 +1782,11 @@
     "https://www.dt.co.kr/article/12071465",
     "https://www.mt.co.kr/world/2026/07/07/2026070705340165957",
     "http://www.yonhapnewstv.co.kr/news/MYH20260707053330Rh8",
-    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374053"
+    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374053",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02033606645512224",
+    "https://www.news1.kr/world/international-economy/6219518"
    ],
    "seen_titles": [
-    "“SK하이닉스,10일美나스닥에44조규모ADR상장…외국기업역대최...",
-    "[ESG공시릴레이③]지속가능경영,실행넘어관리체계로…제약업계도...",
     "우리은행NFT유출,외주업체과실로끝낼일아냐",
     "OpenAI가멈추면AIIPO도멈춘다…공개시장은'AI의손익계산서'를요...",
     "[오프시즌위클리]서머리그부터러브하우스봉사,전지훈련까지…KBL·...",
@@ -3282,10 +3284,12 @@
     "나경원‘기만정치쇼’비판에…與“삼성·SK중대결정에무책임주...",
     "월가도삼성·하이닉스주목…AI반도체랠리재점화기대[뉴욕마감]",
     "이란전쟁틈타14조유가담합…정유4사재판행",
-    "'벼랑끝에서살아났다'한국,일본에81-79극적인승리...월드컵예선..."
+    "'벼랑끝에서살아났다'한국,일본에81-79극적인승리...월드컵예선...",
+    "AI랠리기대되살아난뉴욕증시…다우첫5만3000선돌파[월스트리트in...",
+    "필라델피아반도체2.2%반등…삼성잠정실적에쏠린눈"
    ],
    "initialized": true,
-   "last_run": "2026-07-07T05:45:27.521926+09:00"
+   "last_run": "2026-07-07T05:50:50.476459+09:00"
   }
  },
  "press_names": {
