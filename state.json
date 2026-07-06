@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-07T02:10:50.911451+09:00",
-     "이직하는 동료들 간부들 삼전닉스로 비결 재경부"
-    ],
-    [
-     "2026-07-07T02:10:50.911451+09:00",
-     "2배 출시 ETF 프로셰어스 공격 추종 반도체 베팅 SK하이닉스"
-    ],
-    [
      "2026-07-07T02:15:26.388180+09:00",
      "착공 히로시마 공장 일본 마이크론"
     ],
@@ -578,17 +570,25 @@
     [
      "2026-07-07T08:05:23.689267+09:00",
      "삼전 나스닥 투톱 반도체 운명의 실적 SK하닉"
+    ],
+    [
+     "2026-07-07T08:10:54.125574+09:00",
+     "호카 러닝화 2030의"
+    ],
+    [
+     "2026-07-07T08:10:54.125574+09:00",
+     "시도 국내 증시 강세 반등 완화 유가 부담"
+    ],
+    [
+     "2026-07-07T08:10:54.125574+09:00",
+     "ADR 유안타 기대 SK스퀘어 주주환원 상장 추가 하이닉스"
+    ],
+    [
+     "2026-07-07T08:10:54.125574+09:00",
+     "IB들 대형 반도체의 성장전망치 상향조정 해외"
     ]
    ],
    "seen_urls": [
-    "https://www.fntimes.com/html/view.php?ud=202607061422126393048b718333_18",
-    "http://www.breaknews.com/1219435",
-    "https://www.segye.com/newsView/20260706510216?OutUrl=naver",
-    "https://www.news1.kr/local/gwangju-jeonnam/6218949",
-    "https://www.pennmike.com/news/articleView.html?idxno=123225",
-    "https://www.koreaittimes.com/news/articleView.html?idxno=154967",
-    "https://news.tf.co.kr/read/economy/2340120.htm",
-    "http://www.beyondpost.co.kr/view.php?ud=2026070614262651316cf2d78c68_30",
     "https://www.sisaon.co.kr/news/articleView.html?idxno=202437",
     "https://www.techm.kr/news/articleView.html?idxno=153147",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573738426693",
@@ -2080,17 +2080,17 @@
     "https://dealsite.co.kr/articles/164840",
     "https://www.yna.co.kr/view/AKR20260707017500011?input=1195m",
     "https://jp.yna.co.kr/view/AJP20260707000100882?input=1728m",
-    "https://view.asiae.co.kr/article/2026070622321021753"
+    "https://view.asiae.co.kr/article/2026070622321021753",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02607606645512224",
+    "https://www.sedaily.com/article/20064509",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607070191&t=NN",
+    "https://www.newsis.com/view/NISX20260707_0003698226",
+    "https://www.ajunews.com/view/20260707080059587",
+    "https://www.newspim.com/news/view/20260707000057",
+    "https://www.etoday.co.kr/news/view/2600865",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=874324"
    ],
    "seen_titles": [
-    "800조호남반도체클러스터,광주군공항부지낙점",
-    "새아파트공급지연에원도심정비사업단지'부각'",
-    "이재명정부의놀라운변화...호남반도체3가지의문점",
-    "임인환대구시의장“집행부견제와협치의균형…의회내부도쇄신할...",
-    "\"반도체1호조례매우잘했다\"…이재명,전남광주준비태세호평",
-    "빚투이틀새4,000억증가···'삼전닉스레버리지ETF상폐'주장도",
-    "SKhynixTargetsGlobalInvestorsWithLandmarkNasdaqADRListing",
-    "HD현대로보틱스IPO멈췄다…중복상장새판짜는가이드라인",
     "렛유인,이공계특화대학교무료특강건국대서성황리종료...역대최단...",
     "HJ중공업,2572억규모'부산벡스코제3전시장건립사업'수주[건설오...",
     "[테크M이슈]\"흥행땐환영,흔들리니규제?\"삼전·닉스ETF한달만에...",
@@ -3582,10 +3582,18 @@
     "[최태원의결단]'AI인프라'로SK그룹살린다…계열사먹거리로낙점",
     "[전국주요신문톱뉴스](7일조간)",
     "韓国主要紙の朝刊ヘッドライン（7月7日）",
-    "삼전실적,SK하닉나스닥行…'반도체투톱'운명의한주[1분브리프]"
+    "삼전실적,SK하닉나스닥行…'반도체투톱'운명의한주[1분브리프]",
+    "중동공급차질에윤활기유가격급등…“국내정유사반사수혜”",
+    "삼성반도체,2분기영업익88조이상…1년만에220배성장",
+    "메타발위기와버리충격해소!삼전효과?|외환시장24시간개방후...",
+    "삼성전자,2분기호실적에도프리마켓서4%↓",
+    "[아주증시포커스][상폐살생부에오른동전주들①]2030의러닝화'호카...",
+    "[모닝리포트]\"국내증시,美증시강세·유가부담완화속반등시도...",
+    "유안타證\"SK스퀘어,하이닉스ADR상장·추가주주환원기대\"",
+    "'반도체의힘'....해외대형IB들,韓성장전망치3%로상향조정"
    ],
    "initialized": true,
-   "last_run": "2026-07-07T08:05:23.689267+09:00"
+   "last_run": "2026-07-07T08:10:54.125574+09:00"
   }
  },
  "press_names": {
