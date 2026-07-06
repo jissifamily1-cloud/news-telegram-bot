@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-07T00:40:50.572502+09:00",
-     "코스피 삼성전자 대신 사라 1만 시대 가능 다른 우량 대형주"
-    ],
-    [
      "2026-07-07T00:50:52.403766+09:00",
      "않는 스페이스X 직원 국민 질투"
     ],
@@ -358,16 +354,25 @@
     [
      "2026-07-07T06:40:50.352678+09:00",
      "균형발전 지역 기업에 맡겨진 거대"
+    ],
+    [
+     "2026-07-07T06:45:28.601802+09:00",
+     "3억 원이 1000만 하이닉스 놓쳤다 출신 김준상 아나운서의 기회"
+    ],
+    [
+     "2026-07-07T06:45:28.601802+09:00",
+     "건설까지 반도체에 먹거리 건설업계 원전 줄줄이"
+    ],
+    [
+     "2026-07-07T06:45:28.601802+09:00",
+     "거래일 푸드나무 6일 코스피 200억원 주요공시는 코스닥 제3자배"
+    ],
+    [
+     "2026-07-07T06:45:28.601802+09:00",
+     "검토 인상 상장 미국 삼성전자 카드까지 DRAM값 만지작"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026070610175471225",
-    "https://www.ajunews.com/view/20260706135042757",
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/06/20260706500101?wlog_tag3=naver",
-    "https://www.catchnews.kr/news/articleView.html?idxno=125803",
-    "https://www.imaeil.com/page/view/2026070613360482929",
-    "https://www.kbanker.co.kr/news/articleView.html?idxno=225365",
-    "https://www.discoverynews.kr/news/articleView.html?idxno=1095336",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248863&CMPT_CD=P0010",
     "https://www.newsis.com/view/NISX20260706_0003697364",
     "https://www.pressian.com/pages/articles/2026070611272384879",
@@ -1860,16 +1865,16 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466026",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008644393&plink=ORI&cooper=NAVER",
     "https://biz.chosun.com/international/international_general/2026/07/07/ZRAEG3ZIKFDBHGJFAPY55D4NAU/",
-    "https://www.labortoday.co.kr/news/articleView.html?idxno=235560"
+    "https://www.labortoday.co.kr/news/articleView.html?idxno=235560",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260707010002220",
+    "https://www.slist.kr/news/articleView.html?idxno=749972",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1715297",
+    "http://www.fnnews.com/news/202607070603478916",
+    "https://www.dailian.co.kr/news/view/1663939/?sc=Naver",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466029",
+    "https://www.g-enews.com/view.php?ud=202607070622303645fbbec65dfb_1"
    ],
    "seen_titles": [
-    "SK인텔릭스,'제2회나무엑스해커톤'실시",
-    "비중국전기차배터리사용량21.8%증가…중국업체성장세뚜렷",
-    "코스피,8000선다시내줘…외인·기관매도에하락전환[장중시황]",
-    "“SK하이닉스ADR상장,외국기업기준최대규모”",
-    "\"충당금19조빼도역대급\"...삼성전자,내일'실질영업익100조'입증할...",
-    "[SK재평가]④자사주20.3%소각,할인율낮출카드되나",
-    "반도체빅이벤트에쏠린이번주증시",
     "[르포]\"20%환급막차타자…갤럭시S26재고도동났다\"",
     "李,메가프로젝트속도전주문…野엔\"협조못하면방해도말라\"",
     "[서울데이터랩]코스피시총상위주혼조…반도체·2차전지약세,자동차...",
@@ -3362,10 +3367,17 @@
     "다우사상첫5만3000돌파…AI반도체반등에뉴욕증시일제히환호성",
     "\"트럼프만세\"외치며26조담합…정유4사기소",
     "반도체주반등에뉴욕증시상승마감…다우첫5만3000돌파",
-    "두거대기업에맡겨진지역균형발전"
+    "두거대기업에맡겨진지역균형발전",
+    "SK하이닉스,美증시42조원공모착수…한국반도체랠리가글로벌ETF...",
+    "뉴욕증시,AI주반등에일제히상승…다우53,000첫돌파",
+    "다우5만3000첫돌파…AI반도체반등에뉴욕증시'환호'",
+    "\"1000만원이3억될기회놓쳤다\"…하이닉스출신김준상아나운서의고...",
+    "“반도체에원전건설까지”…건설업계‘新먹거리’줄줄이",
+    "코스피·코스닥전거래일(6일)주요공시는?...푸드나무,200억원제3자배...",
+    "삼성전자,DRAM값20%인상검토…미국상장카드까지만지작"
    ],
    "initialized": true,
-   "last_run": "2026-07-07T06:40:50.352678+09:00"
+   "last_run": "2026-07-07T06:45:28.601802+09:00"
   }
  },
  "press_names": {
