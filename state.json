@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-06T15:20:47.993301+09:00",
-     "Samsung despite domestic won pledge weigh tn investment"
-    ],
-    [
-     "2026-07-06T15:20:47.993301+09:00",
-     "삼전닉스 이재명 대통령이 CEO인가"
-    ],
-    [
-     "2026-07-06T15:20:47.993301+09:00",
-     "안돼 호남 공항에 대통령 광주 행정절차 반도체클러스터 지연"
-    ],
-    [
      "2026-07-06T15:25:21.847671+09:00",
      "같은 수익률 브이엠 ETF인데 반도체 갈랐다 한미반도체가"
     ],
@@ -1262,12 +1250,13 @@
     [
      "2026-07-06T21:15:28.497234+09:00",
      "경남 정부펀드 0원"
+    ],
+    [
+     "2026-07-06T21:20:55.762205+09:00",
+     "담합한 유가 전후 정유사들 14조원대 전쟁"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=272505",
-    "https://www.chosun.com/politics/assembly/2026/07/06/67W4VDL7SFBJRNPNCP5OQS2TQE/",
-    "https://www.nbntv.kr/news/articleView.html?idxno=340423",
     "https://biz.heraldcorp.com/article/10799292",
     "http://www.seouleconews.com/news/articleView.html?idxno=92224",
     "https://biz.chosun.com/stock/stock_general/2026/07/06/NTHOEDO2LBCT5CIHBKBMP45N3M/",
@@ -2764,12 +2753,12 @@
     "http://www.kwangju.co.kr/article.php?aid=1783339800800968277",
     "https://ysmbc.co.kr/NewsArticle/1526268",
     "https://www.mk.co.kr/article/12091730",
-    "http://www.knnews.co.kr/news/articleView.php?idxno=1545737"
+    "http://www.knnews.co.kr/news/articleView.php?idxno=1545737",
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=86440",
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/06/2026070690285.html",
+    "https://www.hani.co.kr/arti/society/society_general/1266999.html"
    ],
    "seen_titles": [
-    "삼전·닉스이어삼성전자우까지‘줍줍’…기아는순매도1위[주식초...",
-    "코스피,장초반상승후하락전환…8000선등락하며롤러코스터장세",
-    "국민영웅제대로대우하기,어렵지않습니다[매경데스크]",
     "삼성전자,2Q영업익85조원전망...성과급빼면‘꿈의100조원’시대",
     "메가프로젝트1막사진석장[포커스]",
     "[여의도단신]KB자산운용·한국투자신탁운용·한화투자증권",
@@ -4266,10 +4255,13 @@
     "삼성·SK반도체팹광주군공항부지입주",
     "삼전·닉스반도체팹모두광주군공항부지로",
     "트럼프도삼전닉스도이회사눈치…AI거품론잠재우며슬금슬금우상...",
-    "정부펀드경남‘0원’"
+    "정부펀드경남‘0원’",
+    "SK에코플랜트,교육·카페결합주거서비스도입…커뮤니티경쟁력강...",
+    "호남반도체산단부지'광주군공항'선정…李\"협의·강제수용병행\"...",
+    "전쟁전후14조원대유가담합한정유사들"
    ],
    "initialized": true,
-   "last_run": "2026-07-06T21:15:28.497234+09:00"
+   "last_run": "2026-07-06T21:20:55.762205+09:00"
   }
  },
  "press_names": {
