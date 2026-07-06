@@ -282,11 +282,13 @@
     [
      "2026-07-07T05:50:50.476459+09:00",
      "필라델피아 삼성 쏠린 반등 잠정실적에 반도체"
+    ],
+    [
+     "2026-07-07T05:55:21.320331+09:00",
+     "등은 미쳐 4배 반도체 월급 물가상승률 대한민국 절반이 근로자"
     ]
    ],
    "seen_urls": [
-    "https://www.naeil.com/news/read/594329",
-    "https://news.jtbc.co.kr/article/NB12306770?influxDiv=NAVER",
     "https://www.dailybrief.co.kr/news/articleView.html?idxno=6262",
     "https://www.mydaily.co.kr/page/view/2026070613150458228",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=846218",
@@ -1784,11 +1786,11 @@
     "http://www.yonhapnewstv.co.kr/news/MYH20260707053330Rh8",
     "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374053",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02033606645512224",
-    "https://www.news1.kr/world/international-economy/6219518"
+    "https://www.news1.kr/world/international-economy/6219518",
+    "https://www.munhwa.com/article/11600692",
+    "https://www.mk.co.kr/article/12091880"
    ],
    "seen_titles": [
-    "우리은행NFT유출,외주업체과실로끝낼일아냐",
-    "OpenAI가멈추면AIIPO도멈춘다…공개시장은'AI의손익계산서'를요...",
     "[오프시즌위클리]서머리그부터러브하우스봉사,전지훈련까지…KBL·...",
     "코스피운명가를'반도체슈퍼위크'…삼전실적·하닉ADR상장에쏠린...",
     "SK쉴더스,에코프로공장서제어시스템보안실증",
@@ -3286,10 +3288,12 @@
     "이란전쟁틈타14조유가담합…정유4사재판행",
     "'벼랑끝에서살아났다'한국,일본에81-79극적인승리...월드컵예선...",
     "AI랠리기대되살아난뉴욕증시…다우첫5만3000선돌파[월스트리트in...",
-    "필라델피아반도체2.2%반등…삼성잠정실적에쏠린눈"
+    "필라델피아반도체2.2%반등…삼성잠정실적에쏠린눈",
+    "“기름값오른거전쟁아닌이것때문?”檢,정유4사담합혐의기소",
+    "대한민국근로자월급,절반이물가상승률못미쳐…반도체등은4배"
    ],
    "initialized": true,
-   "last_run": "2026-07-07T05:50:50.476459+09:00"
+   "last_run": "2026-07-07T05:55:21.320331+09:00"
   }
  },
  "press_names": {
