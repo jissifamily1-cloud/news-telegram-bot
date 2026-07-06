@@ -258,11 +258,17 @@
     [
      "2026-07-07T04:35:24.059095+09:00",
      "개발자가 웹케시 창업자의 코딩하는 직접 승부수 마지막 여름"
+    ],
+    [
+     "2026-07-07T04:40:51.350844+09:00",
+     "조짐 상장 연구원도 오픈AI SK하이닉스에 베팅 나스닥 흥행"
+    ],
+    [
+     "2026-07-07T04:40:51.350844+09:00",
+     "급락 가격 HBM 경색 열리나 경로 크레딧"
     ]
    ],
    "seen_urls": [
-    "http://www.dynews.co.kr/news/articleView.html?idxno=856823",
-    "https://www.ppss.kr/news/articleView.html?idxno=301118",
     "https://www.newspim.com/news/view/20260706000634",
     "https://sports.khan.co.kr/article/202607061257003?pt=nv",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=86428",
@@ -1760,11 +1766,11 @@
     "https://www.donga.com/news/Politics/article/all/20260707/134248020/2",
     "https://www.donga.com/news/Economy/article/all/20260707/134248025/2",
     "https://www.donga.com/news/Society/article/all/20260706/134246754/2",
-    "https://www.hankookilbo.com/news/article/A2026070415290001171?did=NA"
+    "https://www.hankookilbo.com/news/article/A2026070415290001171?did=NA",
+    "https://view.asiae.co.kr/article/2026070704381276498",
+    "https://www.g-enews.com/view.php?ud=202607062007412126fbbec65dfb_1"
    ],
    "seen_titles": [
-    "\"성수는저물고,북촌이뜬다\"…서울상권지각변동",
-    "코스피급락세…외국인매도속개인투자자대세충돌",
     "\"올해2조벌듯\"전쟁악용…'14조유가담합'4대정유사기소(종합)",
     "전쟁틈탄'26조유가교란'…검찰,정유4사기소",
     "이재명대통령\"3대메가프로젝트,신속추진강조\"",
@@ -3262,10 +3268,12 @@
     "광주군공항평지에국유지,빠른사업기대…‘비행단이전’변수",
     "[단독]삼전닉스임원,자사주식매도5년새최대상반기173억원어치팔...",
     "반도체용수-전력-인재‘3박자’갖춘다",
-    "\"개발자가직접코딩하는마지막여름\"…웹케시창업자의AI승부수"
+    "\"개발자가직접코딩하는마지막여름\"…웹케시창업자의AI승부수",
+    "SK하이닉스에전오픈AI연구원도베팅…나스닥상장흥행조짐",
+    "AI크레딧경색시HBM가격급락경로열리나"
    ],
    "initialized": true,
-   "last_run": "2026-07-07T04:35:24.059095+09:00"
+   "last_run": "2026-07-07T04:40:51.350844+09:00"
   }
  },
  "press_names": {
