@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-06T16:55:23.192529+09:00",
-     "증설 마이크론 HBM 확대 공장 14조 생산 히로시마 투입해"
-    ],
-    [
-     "2026-07-06T16:55:23.192529+09:00",
-     "검토 의원 SK그룹 충주 이종배 후보지 데이터센터"
-    ],
-    [
-     "2026-07-06T16:55:23.192529+09:00",
-     "네이처도 인정한 나란히 제약사와 선순환 5대 SK바이오팜"
-    ],
-    [
      "2026-07-06T17:01:02.626247+09:00",
      "경남의 영남 성패를 좌우 312조원 준비가 투자"
     ],
@@ -886,12 +874,21 @@
     [
      "2026-07-06T22:50:56.590072+09:00",
      "Top KOSPI Reshapes"
+    ],
+    [
+     "2026-07-06T22:55:25.270826+09:00",
+     "원도심 정비사업 분양 하반기 한신공영 건설부문 현대 돌입 한화"
+    ],
+    [
+     "2026-07-06T22:55:25.270826+09:00",
+     "지속 만들 미래투자공사 시동 성장 설립 추미애 경기도"
+    ],
+    [
+     "2026-07-06T22:55:25.270826+09:00",
+     "전략 AX 이통3사 통신회사 3색 경쟁 지우는"
     ]
    ],
    "seen_urls": [
-    "http://www.newskr.kr/news/articleView.html?idxno=105018",
-    "http://www.joseilbo.com/news/news_read.php?uid=571356&class=18",
-    "http://digitalchosun.dizzo.com/site/data/html_dir/2026/07/06/2026070680089.html",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5204058",
     "https://www.yna.co.kr/view/AKR20260706073000003?input=1195m",
     "http://www.bizwnews.com/news/articleView.html?idxno=140059",
@@ -2388,12 +2385,12 @@
     "https://www.ytn.co.kr/_ln/0102_202607062238279843",
     "http://coinreaders.com/246333",
     "https://isplus.com/article/view/isp202607060215",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=272549"
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=272549",
+    "https://www.news2day.co.kr/article/20260706500263",
+    "https://www.newscj.com/news/articleView.html?idxno=3414974",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=310833"
    ],
    "seen_titles": [
-    "국제유가관망속석유·에너지주주가혼조…정유대형주강세,일부테...",
-    "이재명\"메가프로젝트는속도전…지역편중·실현불가주장함께못한...",
-    "[자막뉴스]\"허락할땐언제고이제와서?\"…레버리지ETF,'상장폐지'얘...",
     "수사지원부터제조업·K-팝까지…일상스며든K-AI",
     "삼전영업익90조?100조?…운명의반도체",
     "개정상법의부메랑[오후여담]",
@@ -3890,10 +3887,13 @@
     "삼성전자,내일2분기실적발표...성과급재원포함영업익100조전망",
     "美증시,AI반등따라나스닥올랐는데...연준매파경고등",
     "[IS승장]한일전서데뷔승…마줄스감독“선수들의노력이핵심”",
-    "AIReshapesKOSPITop10"
+    "AIReshapesKOSPITop10",
+    "한화건설부문·현대·한신공영,하반기원도심정비사업분양돌입",
+    "경기도'미래투자공사'설립시동…추미애\"지속성장틀만들것\"",
+    "'통신회사'지우는경쟁…이통3사AX3색전략"
    ],
    "initialized": true,
-   "last_run": "2026-07-06T22:50:56.590072+09:00"
+   "last_run": "2026-07-06T22:55:25.270826+09:00"
   }
  },
  "press_names": {
