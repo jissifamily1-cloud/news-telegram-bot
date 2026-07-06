@@ -1221,8 +1221,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.hankookilbo.com/news/article/A2026070609310002529?did=NA",
-    "https://news.jtbc.co.kr/article/NB12306760?influxDiv=NAVER",
     "https://zdnet.co.kr/view/?no=20260706110109",
     "http://www.newsfc.co.kr/news/articleView.html?idxno=79732",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=82938",
@@ -2720,11 +2718,11 @@
     "https://www.hani.co.kr/arti/society/society_general/1266999.html",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=553064",
     "https://www.livebiz.today/news/articleView.html?idxno=203129",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2446042"
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2446042",
+    "https://www.g-enews.com/view.php?ud=20260706212408886435e857d010_1",
+    "https://www.tbc.co.kr/news/view?pno=20260706161650AE01976&id=208093"
    ],
    "seen_titles": [
-    "코스피장중하락전환해8천피밑돌아…코스닥,4%급락",
-    "SK에코플랜트,교육·카페결합한주거모델도입",
     "안철수“롤러코스피추세...코스피가카지노로전락했다”",
     "SK인텔릭스,웰니스로봇'나무엑스'해커톤성료…신사업파이프라인...",
     "“26조원대유가담합”…檢,4대정유사기소",
@@ -4222,10 +4220,12 @@
     "전쟁전후14조원대유가담합한정유사들",
     "靑\"광주군공항250만평,반도체클러스터최적지\"",
     "SK하이닉스,ADR발행총액2조3100억원축소...45조→43조원으로정정",
-    "용인에세계반도체장비빅4집결…글로벌생태계'탄탄'"
+    "용인에세계반도체장비빅4집결…글로벌생태계'탄탄'",
+    "SK하이닉스,美ADR발행규모43조1400억원으로정정",
+    "'메가투자'없어도AI.로봇총력"
    ],
    "initialized": true,
-   "last_run": "2026-07-06T21:25:25.106869+09:00"
+   "last_run": "2026-07-06T21:29:50.290691+09:00"
   }
  },
  "press_names": {
