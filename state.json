@@ -698,17 +698,13 @@
     [
      "2026-07-07T08:45:24.419477+09:00",
      "휴대폰 확인합니다 신분증 해봤습니 안면인증 얼굴도 주세요"
+    ],
+    [
+     "2026-07-07T08:48:03.776122+09:00",
+     "300억달러 하루 SK하이닉스 환전한다 10억달러씩 달동안"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/general-stock/6219017",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607021350465760104876",
-    "https://news.tf.co.kr/read/ptoday/2340149.htm",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000048028",
-    "https://www.news1.kr/local/gwangju-jeonnam/6219001",
-    "https://www.mt.co.kr/world/2026/07/06/2026070611133046947",
-    "http://www.inews24.com/view/1982746",
-    "https://www.imaeil.com/page/view/2026070614454605315",
     "https://www.newdaily.co.kr/site/data/html/2026/07/06/2026070600209.html",
     "https://www.ekn.kr/web/view.php?key=20260706027178396",
     "https://www.itbiznews.com/news/articleView.html?idxno=218319",
@@ -2200,17 +2196,17 @@
     "https://www.pressian.com/pages/articles/2026070707311182649",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=141134",
     "https://www.gukjenews.com/news/articleView.html?idxno=3627878",
-    "https://www.dailian.co.kr/news/view/1663953/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1663953/?sc=Naver",
+    "https://www.youthdaily.co.kr/news/article.html?no=222403",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=310889",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466098",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1383360",
+    "https://www.news1.kr/finance/general-stock/6219633",
+    "https://www.ytn.co.kr/_ln/0134_202607070844542604",
+    "https://www.kizmom.com/news/articleView.html?idxno=111406",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423645"
    ],
    "seen_titles": [
-    "프랭클린템플턴\"韓증시,삼전닉스쏠림·개미레버리지투자가리스크...",
-    "[더벨]ADR찍는SK하이닉스,'2배레버리지'HINX도미증시상장",
-    "靑\"호남권반도체산단,광주군공항부지에…용인도일정앞당길것\"",
-    "전남광주통합시의회,李대통령의반도체조례지지\"감사하고환영\"",
-    "'삼성·SK픽'광주군공항부지…\"이미평탄화\"속도전최적",
-    "\"SK하이닉스,역대최대외국기업ADR상장\"…뉴욕이들썩인다",
-    "檢,정유사14조원대유가담합혐의로HD현대오일뱅크기소",
-    "[속보]경찰,'투표용지부족'허위정보유포계정67개수사",
     "靑\"호남권반도체클러스터,광주군공항부지에조성\"",
     "[특별기획-서남권반도체]대한민국산업지도가바뀐다②AI가키우고,...",
     "SKT'해인'클러스터,KISA'CSAP'인증획득",
@@ -3702,10 +3698,18 @@
     "'3대메가프로젝트'라는피지컬AI,한국노동운동은왜침묵하는가[장...",
     "[증시포인트]삼성전자가관건...역대급실적후프리마켓서약세",
     "[조간신문뉴스라인]광주·전남7일(화)",
-    "[르포]\"신분증주세요,얼굴도확인합니다\"…휴대폰안면인증해봤습니..."
+    "[르포]\"신분증주세요,얼굴도확인합니다\"…휴대폰안면인증해봤습니...",
+    "'에이전트'가가른다…국산AI4팀8월'진검승부'",
+    "ACE엔비디아밸류체인액티브ETF,해외밸류체인ETF중연초이후수익...",
+    "SKT,러닝챌린지완주자에포켓몬'잉어킹카드'배부",
+    "SKT,'포켓몬런온라인챌린지'참가자대상'잉어킹카드'배포시작",
+    "대신證\"SK하닉,ADR상장·이익전망상향…목표가390만원상향\"",
+    "'전쟁끝났는데왜기름값그대로?'...정유업계담합의혹[Y녹취록]",
+    "SK하이닉스주주환원기대감커진다…특별배당가능성주목",
+    "SK하이닉스,하루10억달러씩한달동안300억달러환전한다"
    ],
    "initialized": true,
-   "last_run": "2026-07-07T08:45:24.419477+09:00"
+   "last_run": "2026-07-07T08:48:03.776122+09:00"
   }
  },
  "press_names": {
