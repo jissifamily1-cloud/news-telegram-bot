@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-07T01:45:27.901911+09:00",
-     "SK하이닉스 총액 반영한 조정 주식예탁증서 미국 주가 하락"
-    ],
-    [
      "2026-07-07T01:50:50.252016+09:00",
      "마지막 마줄스의 심장 철렁 벼랑 농구팬들 사투 7초"
     ],
@@ -506,12 +502,13 @@
     [
      "2026-07-07T07:45:23.880489+09:00",
      "세상 바꾼 반도체 안보가"
+    ],
+    [
+     "2026-07-07T07:48:13.991904+09:00",
+     "오늘의 주요뉴스"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260706092900004?input=1195m",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000047973",
-    "http://www.newslock.co.kr/news/articleView.html?idxno=132687",
     "https://www.ajunews.com/view/20260706141100819",
     "http://www.civicnews.com/news/articleView.html?idxno=40120",
     "https://www.mk.co.kr/article/12091181",
@@ -2008,12 +2005,12 @@
     "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307047",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=82840",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=61261",
-    "http://kor.theasian.asia/archives/409099"
+    "http://kor.theasian.asia/archives/409099",
+    "https://www.tfmedia.co.kr/news/article.html?no=205591",
+    "https://www.ytn.co.kr/_ln/0102_202607070732305900",
+    "https://kjmbc.co.kr/NewsArticle/1526318"
    ],
    "seen_titles": [
-    "[食전食후]코스피,장초반급등세반납…외국인·기관매도에8000선턱...",
-    "KB자산운용,'KB삼성전자SK하이닉스50펀드'흥행…설정액1000억원넘어",
-    "(LEAD)ProsecutorsindictHDHyundaiOilbankin26tln-wonprice-fixi",
     "[기획]하반기전망암울한데…기업들'노동리스크'까지",
     "\"원유북한행\"\"5·18북한개입\"…가짜뉴스유포29명무더기검거",
     "코스피변동성키운단일종목레버리지ETF…한은\"리스크점검강화\"",
@@ -3510,10 +3507,13 @@
     "\"실적시즌개막\"···삼성전자부터한화에어로까지,웃을종목은?",
     "AI반도체주반등에뉴욕증시동반상승,다우첫5만3000선돌파",
     "AI반도체'저가매수'에뉴욕증시랠리…다우,사상첫5만3천돌파",
-    "[오늘의신문읽기]AI·반도체·안보가바꾼세상"
+    "[오늘의신문읽기]AI·반도체·안보가바꾼세상",
+    "\"한국증시가수익갈랐다\"…블랙록·뱅가드신흥국ETF희비",
+    "[스타트경제]삼성전자,메모리가격급등에최대실적경신기대감↑",
+    "2026_7_7오늘의주요뉴스"
    ],
    "initialized": true,
-   "last_run": "2026-07-07T07:45:23.880489+09:00"
+   "last_run": "2026-07-07T07:48:13.991904+09:00"
   }
  },
  "press_names": {
