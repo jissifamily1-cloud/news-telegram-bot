@@ -458,15 +458,13 @@
     [
      "2026-07-07T07:10:51.682795+09:00",
      "팩토리 먹거리 KT 미래 박윤영 토큰"
+    ],
+    [
+     "2026-07-07T07:15:27.480280+09:00",
+     "빨리 반도체 승부처 전쟁 만들어야 많이"
     ]
    ],
    "seen_urls": [
-    "http://www.segyebiz.com/newsView/20260706509525?OutUrl=naver",
-    "https://view.asiae.co.kr/article/2026070614072459882",
-    "https://www.newsis.com/view/NISX20260706_0003697394",
-    "http://www.metroseoul.co.kr/article/20260706500315",
-    "https://view.asiae.co.kr/article/2026070614051147785",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3627469",
     "https://www.news2day.co.kr/article/20260706500053",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247710&CMPT_CD=P0010",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249092&CMPT_CD=P0010",
@@ -1960,15 +1958,15 @@
     "https://news.bizwatch.co.kr/article/real_estate/2026/07/06/0022",
     "http://www.osen.co.kr/article/G1112835039",
     "https://www.newspim.com/news/view/20260706000803",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038051"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038051",
+    "https://www.news1.kr/sports/baseball/6219311",
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=359868",
+    "https://biz.sbs.co.kr/article_hub/20000320992?division=NAVER",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423614",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16126128",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=314666"
    ],
    "seen_titles": [
-    "에세이·유순남〉내가그들을좋아하는이유",
-    "\"닥치고공급\"선언했지만…2029년까지'입주공백'",
-    "광주서당권출사표김민석\"메가프로젝트거당지원\"",
-    "SK인텔릭스,'제2회나무엑스해커톤'개최...소비자관심도상승",
-    "亞오후장중...한국·일본증시'하락'vs홍콩·인도증시'상승'",
-    "美나스닥선물'상승'에도...일본증시'장중하락',소프트뱅크'뚝'",
     "李,'3대메가프로젝트점검회의'주재…\"기업일하는데집중하도록걸...",
     "“올해2조벌듯,트럼프만세”…‘유가담합정유사’직원들대화...",
     "[발언대]3대메가프로젝트투자의성공을위한공간전략",
@@ -3462,10 +3460,16 @@
     "[르포]은마달리자…대치동전체가들썩",
     "일본에게패하고울었던막내에디다니엘,이번엔웃었다“이제현중...",
     "[GAM]메모리초호황올라탄강파룡①홍콩상장으로'더블모멘텀'",
-    "[CEOPICK]KT박윤영…미래먹거리,'토큰팩토리'"
+    "[CEOPICK]KT박윤영…미래먹거리,'토큰팩토리'",
+    "SSG,시즌두번째'10연패위기'…'루키'김민준어깨가무겁다",
+    "AI반도체반등에뉴욕증시상승…나스닥1%↑",
+    "[증시전략]뉴욕증시,AI반도체반등에상승…다우'사상최고'",
+    "'광주군공항낙점'막전막후…李대통령,무안공항으로향했다",
+    "미국증시AI반도체반등,다우5만3000돌파",
+    "\"더빨리,더많이만들어야...\"반도체전쟁승부처된韓·日"
    ],
    "initialized": true,
-   "last_run": "2026-07-07T07:10:51.682795+09:00"
+   "last_run": "2026-07-07T07:15:27.480280+09:00"
   }
  },
  "press_names": {
