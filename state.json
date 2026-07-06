@@ -1554,17 +1554,33 @@
     [
      "2026-07-06T19:15:27.609240+09:00",
      "논의 봇물 인공지능 설치 데이터센터"
+    ],
+    [
+     "2026-07-06T19:20:51.939905+09:00",
+     "통과 경기도 처인구청 복합청사 건립사업 투자심사 용인시"
+    ],
+    [
+     "2026-07-06T19:20:51.939905+09:00",
+     "설정액 KB운용 1000억 돌파 삼성전자SK하이닉스50 펀드"
+    ],
+    [
+     "2026-07-06T19:20:51.939905+09:00",
+     "차별감 프로젝트 상대적 경남권 메가 느껴지는"
+    ],
+    [
+     "2026-07-06T19:20:51.939905+09:00",
+     "실행이 전략 중요 계획보다 우주항공벨트"
+    ],
+    [
+     "2026-07-06T19:20:51.939905+09:00",
+     "실시 비대면 이벤트 고객 한화투자증권"
+    ],
+    [
+     "2026-07-06T19:20:51.939905+09:00",
+     "시대 먼저 다크팩토리의 움직인다 전북이"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026070610190505293",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=846198",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423500",
-    "https://bizhankook.com/articles/139219.html",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3627199",
-    "https://www.ekn.kr/web/view.php?key=20260706023291338",
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=237125",
-    "https://www.bizwork.co.kr/news/articleView.html?idxno=417130",
     "https://www.getnews.co.kr/news/articleView.html?idxno=874219",
     "https://www.joongangenews.com/news/articleView.html?idxno=530683",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=723851",
@@ -3056,17 +3072,17 @@
     "https://www.namdonews.com/news/articleView.html?idxno=916062",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249243&CMPT_CD=P0010",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=553025",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603275"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603275",
+    "https://www.dailian.co.kr/news/view/1663879/?sc=Naver",
+    "https://www.namdonews.com/news/articleView.html?idxno=916063",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607061042098560047",
+    "https://www.fetv.co.kr/news/articleView.html?idxno=305894",
+    "https://www.gnnews.co.kr/news/articleView.html?idxno=640511",
+    "https://www.gnnews.co.kr/news/articleView.html?idxno=640506",
+    "https://www.rcast.co.kr/news/articleView.html?idxno=31205",
+    "https://sjbnews.com/news/news.php?number=882349"
    ],
    "seen_titles": [
-    "트럼프만세”“올해2조벌듯”…고유가신음할때정유4사담합했다",
-    "고졸취업현실…임금↓불안정↑",
-    "K석화,반도체슈퍼사이클올라탄다...'수요·수익성'확보승부수",
-    "'KODEX이어TIGER까지'…유진證,첫거래고객에상품권이벤트",
-    "['큰손'SK하이닉스]매주목·금5~10조집행…DLB까지쓸어담아",
-    "[더벨][SK에너지리스크관리전략]폭리논란끊는다…가격정책'대수술...",
-    "1600조대전환구상완료…반도체·우주·AI로'지방시대'연다",
-    "[사설]미래대응기금,다음세대위한투자여야",
     "[#부동산나들이]SK-대교-학산-아이엔지'MOU'·롯데'성수4지구시공'·...",
     "['큰손'SK하이닉스]무려16조크레디트물매수…국고채는언제",
     "[가장보통의투자]AI과잉투자논란,어떻게봐야할까",
@@ -4558,10 +4574,18 @@
     "호남반도체팹,광주군공항종전부지낙점…\"호남권최적·최속입지...",
     "민형배\"반도체산단부지,군공항발표환영...공항이전도속도낼듯...",
     "[사설]급변하는AI산업환경에생존전략찾아야",
-    "인공지능데이터센터설치논의봇물"
+    "인공지능데이터센터설치논의봇물",
+    "SK포항에80조투자?이철우지사“결국준비된지역으로온다”서남...",
+    "차량용반도체국산화,광주가중심잡는다",
+    "용인시,처인구청복합청사건립사업‘경기도투자심사통과’",
+    "KB운용,'삼성전자SK하이닉스50펀드'설정액1000억돌파",
+    "[경일시론]상대적차별감느껴지는경남권메가프로젝트",
+    "[사설]우주항공벨트전략,계획보다실행이중요",
+    "한화투자증권,비대면고객이벤트실시外",
+    "[아침발걸음]K-다크팩토리의시대,전북이먼저움직인다"
    ],
    "initialized": true,
-   "last_run": "2026-07-06T19:15:27.609240+09:00"
+   "last_run": "2026-07-06T19:20:51.939905+09:00"
   }
  },
  "press_names": {
