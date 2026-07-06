@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-06T13:20:52.374920+09:00",
-     "가른다 방향 불확실성 흔든 숫자가 반도체주 결국"
-    ],
-    [
-     "2026-07-06T13:20:52.374920+09:00",
-     "함께 시민과 민선9기 대전환 수원특례시 시동"
-    ],
-    [
      "2026-07-06T13:25:21.793776+09:00",
      "School Climate Corps 국제기후 교육 Summer 프로그램 개최 고려대"
     ],
@@ -1578,12 +1570,13 @@
     [
      "2026-07-06T19:20:51.939905+09:00",
      "시대 먼저 다크팩토리의 움직인다 전북이"
+    ],
+    [
+     "2026-07-06T19:25:21.200070+09:00",
+     "공공분배 설계 플랫폼 허브 김어준의 뉴스공 쟁점 국가 데이터센터"
     ]
    ],
    "seen_urls": [
-    "https://www.getnews.co.kr/news/articleView.html?idxno=874219",
-    "https://www.joongangenews.com/news/articleView.html?idxno=530683",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=723851",
     "https://www.seoulfn.com/news/articleView.html?idxno=632725",
     "https://www.mk.co.kr/article/12091051",
     "http://tbs.seoul.kr/news/newsView.do?typ_800=6&idx_800=3537174&seq_800=20530049",
@@ -3080,12 +3073,12 @@
     "https://www.gnnews.co.kr/news/articleView.html?idxno=640511",
     "https://www.gnnews.co.kr/news/articleView.html?idxno=640506",
     "https://www.rcast.co.kr/news/articleView.html?idxno=31205",
-    "https://sjbnews.com/news/news.php?number=882349"
+    "https://sjbnews.com/news/news.php?number=882349",
+    "https://www.mhns.co.kr/news/articleView.html?idxno=752509",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603300",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16125439"
    ],
    "seen_titles": [
-    "[#부동산나들이]SK-대교-학산-아이엔지'MOU'·롯데'성수4지구시공'·...",
-    "['큰손'SK하이닉스]무려16조크레디트물매수…국고채는언제",
-    "[가장보통의투자]AI과잉투자논란,어떻게봐야할까",
     "코스피,장중상승세꺾이며8000선붕괴...SK하이닉스·삼성전기약세",
     "[이슈&인사이트]호남반도체성공투자에는타당성플러스알파가필요...",
     "SKT,엔비디아블랙웰GPU기반'해인'클러스터CSAP인증취득",
@@ -4582,10 +4575,13 @@
     "[경일시론]상대적차별감느껴지는경남권메가프로젝트",
     "[사설]우주항공벨트전략,계획보다실행이중요",
     "한화투자증권,비대면고객이벤트실시外",
-    "[아침발걸음]K-다크팩토리의시대,전북이먼저움직인다"
+    "[아침발걸음]K-다크팩토리의시대,전북이먼저움직인다",
+    "호남반도체산단,광주군공항이전부지에조성",
+    "마이크론,히로시마에14조투자…미·일반도체동맹의기투합",
+    "AI데이터센터허브,국가플랫폼·공공분배설계쟁점(김어준의뉴스공..."
    ],
    "initialized": true,
-   "last_run": "2026-07-06T19:20:51.939905+09:00"
+   "last_run": "2026-07-06T19:25:21.200070+09:00"
   }
  },
  "press_names": {
