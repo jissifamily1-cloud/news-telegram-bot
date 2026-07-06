@@ -465,7 +465,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news2day.co.kr/article/20260706500053",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247710&CMPT_CD=P0010",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249092&CMPT_CD=P0010",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065588955567089",
@@ -1964,10 +1963,10 @@
     "https://biz.sbs.co.kr/article_hub/20000320992?division=NAVER",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4423614",
     "https://www.topstarnews.net/news/articleView.html?idxno=16126128",
-    "https://www.wolyo.co.kr/news/articleView.html?idxno=314666"
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=314666",
+    "https://www.hankyung.com/article/2026070790836"
    ],
    "seen_titles": [
-    "李,'3대메가프로젝트점검회의'주재…\"기업일하는데집중하도록걸...",
     "“올해2조벌듯,트럼프만세”…‘유가담합정유사’직원들대화...",
     "[발언대]3대메가프로젝트투자의성공을위한공간전략",
     "청주시,오창에반도체가스평가지원센터구축…메가프로젝트연계",
@@ -3466,10 +3465,11 @@
     "[증시전략]뉴욕증시,AI반도체반등에상승…다우'사상최고'",
     "'광주군공항낙점'막전막후…李대통령,무안공항으로향했다",
     "미국증시AI반도체반등,다우5만3000돌파",
-    "\"더빨리,더많이만들어야...\"반도체전쟁승부처된韓·日"
+    "\"더빨리,더많이만들어야...\"반도체전쟁승부처된韓·日",
+    "반도체주반등에일제상승…'로보택시확대'테슬라6.7%↑[뉴욕증시..."
    ],
    "initialized": true,
-   "last_run": "2026-07-07T07:15:27.480280+09:00"
+   "last_run": "2026-07-07T07:20:50.617497+09:00"
   }
  },
  "press_names": {
