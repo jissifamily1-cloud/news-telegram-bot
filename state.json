@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-08T00:30:59.607892+09:00",
-     "카지노 소리 증시 손봐야 레버리지 속히 ETF 듣는"
-    ],
-    [
      "2026-07-08T00:35:22.971132+09:00",
      "조짐 70억달러어치 흥행 3곳 상장 SK하이닉스 인수 미국 투자"
     ],
@@ -342,14 +338,17 @@
     [
      "2026-07-08T06:25:23.629479+09:00",
      "소비 광고하곤 광고에 총알 뿔난 특대 오징어 배송 홈쇼핑 사이즈"
+    ],
+    [
+     "2026-07-08T06:31:01.030716+09:00",
+     "반도체지수 급등 급락 삼성전자의 유가 왝더독"
+    ],
+    [
+     "2026-07-08T06:31:01.030716+09:00",
+     "추산 회사채 발행 아마존 38조 최소"
     ]
    ],
    "seen_urls": [
-    "https://www.munhwa.com/article/11600873",
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=79761",
-    "https://www.tokenpost.kr/news/economy/375544",
-    "https://biz.sbs.co.kr/article_hub/20000321090?division=NAVER",
-    "https://www.munhwa.com/article/11600882",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=265370",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=03854006645512224",
     "https://www.news1.kr/economy/trend/6220120",
@@ -1844,14 +1843,14 @@
     "https://www.news1.kr/finance/blockchain-fintech/6220437",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=758909",
     "https://www.ekn.kr/web/view.php?key=20260707027329955",
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=758718"
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=758718",
+    "https://www.sportsseoul.com/news/read/1621173",
+    "https://www.kyeonggi.com/article/20260708580001",
+    "https://www.news2day.co.kr/article/20260708500014",
+    "https://www.seoulfn.com/news/articleView.html?idxno=632888",
+    "https://biz.sbs.co.kr/article_hub/20000321219?division=NAVER"
    ],
    "seen_titles": [
-    "민주,9일본회의개회요청…조정식의장,여야추가협의주문",
-    "화장품사APR'폭발성장'에신재하부사장등비오너경영진'돈방석'",
-    "코스피급락에'매도사이드카'…삼성전자7%하락",
-    "미래에셋'TIGER반도체TOP10커버드콜액티브',상장후수익률40.9%...동...",
-    "외국인·기관매도세에코스피5%대하락세…7500선으로",
     "[특징주]아모레퍼시픽,2분기실적기대에강세…중국줄이고북미·유...",
     "중복상장금지에FI발동동…'풋옵션'에쏠린눈",
     "급등락반복하는반도체주…'고점신호'떴나?",
@@ -3346,10 +3345,15 @@
     "코빗,기타비상무이사3명전원교체…미래에셋컨설팅인사선임추진",
     "삼진제약,마곡R&D센터5년만에파이프라인8개→21개'껑충'...2~3년내...",
     "국산초순수부터친환경열까지…수자원公·지역난방公메가프로젝트든...",
-    "'특대'사이즈광고하곤총알오징어배송…홈쇼핑'뻥'광고에뿔난소비..."
+    "'특대'사이즈광고하곤총알오징어배송…홈쇼핑'뻥'광고에뿔난소비...",
+    "[공식]인천서놓친기회,수원서는?‘SSG방출’외야수이정범,KT입...",
+    "삼성전자경제기여액177조원1위…100대기업1천731조원",
+    "[N2모닝경제브리핑-7월8일]美증시,반도체주급락여파·유가급등...",
+    "[뉴욕증시]삼성전자의'왝더독',반도체지수5%급락···유가5%급등",
+    "[외신헤드라인]아마존또회사채발행…\"최소38조원추산\""
    ],
    "initialized": true,
-   "last_run": "2026-07-08T06:25:23.629479+09:00"
+   "last_run": "2026-07-08T06:31:01.030716+09:00"
   }
  },
  "press_names": {
