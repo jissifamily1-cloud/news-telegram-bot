@@ -225,7 +225,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=359890",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068677",
     "https://www.ddaily.co.kr/page/view/2026070711004245285",
     "https://www.dt.co.kr/article/12071537",
@@ -1724,10 +1723,10 @@
     "https://www.mt.co.kr/opinion/2026/07/08/2026070717132236220",
     "https://www.newsis.com/view/NISX20260707_0003699512",
     "https://www.mt.co.kr/stock/2026/07/08/2026070719525765200",
-    "https://biz.sbs.co.kr/article_hub/20000321206?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000321206?division=NAVER",
+    "https://www.tournews21.com/news/articleView.html?idxno=138174"
    ],
    "seen_titles": [
-    "코스피,4%대급락세…삼성전자호실적불구차익실현",
     "[GAM]SK하이닉스미국행에몰린큰손들…흥행기대3가지이유",
     "구윤철\"7월말세제발표…보유·거래세균형\"",
     "'가짜뉴스법'오늘부터시행...野\"온라인입틀막법,위헌적악법\"헌법...",
@@ -3226,10 +3225,11 @@
     "[사설]반도체특구광주,토허제로투기막아야",
     "상반기하이엔드브랜드청약경쟁률20대1…일반은3.7대1",
     "SK하이닉스ADR,불타는환율식혀줄까",
-    "SK하이닉스美상장흥행조짐...큰손들‘10조베팅’"
+    "SK하이닉스美상장흥행조짐...큰손들‘10조베팅’",
+    "박수현충남도지사\"392조충청권투자,충청광역연합으로반드시성공..."
    ],
    "initialized": true,
-   "last_run": "2026-07-08T04:25:23.809298+09:00"
+   "last_run": "2026-07-08T04:30:58.419675+09:00"
   }
  },
  "press_names": {
