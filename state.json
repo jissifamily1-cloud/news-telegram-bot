@@ -578,13 +578,25 @@
     [
      "2026-07-08T08:01:04.660372+09:00",
      "흔들리는 코스피 투심 반등시도하나 급락딛고 전날"
+    ],
+    [
+     "2026-07-08T08:05:22.901178+09:00",
+     "주식 대신 어쩌나 자동차 올인 시장 보릿고개"
+    ],
+    [
+     "2026-07-08T08:05:22.901178+09:00",
+     "탈락에 CPSP 따른 매수 주가 기회 SK증권 조정은 한화엔진"
+    ],
+    [
+     "2026-07-08T08:05:22.901178+09:00",
+     "2분기 국민연금 국내주식 삼전닉스만 큰손 189조 151조 수익"
+    ],
+    [
+     "2026-07-08T08:05:22.901178+09:00",
+     "8일 조간"
     ]
    ],
    "seen_urls": [
-    "https://www.newscj.com/news/articleView.html?idxno=3415112",
-    "https://www.hankyung.com/article/202607079276i",
-    "http://www.knnews.co.kr/news/articleView.php?idxno=1545827",
-    "https://www.newsis.com/view/NISX20260707_0003698842",
     "https://www.sportschosun.com/football/2026-07-07/202607070100043630002587",
     "https://www.ajunews.com/view/20260707125715222",
     "https://www.todayeconomic.com/news/article.html?no=31225",
@@ -2080,13 +2092,13 @@
     "https://biz.sbs.co.kr/article_hub/20000321233?division=NAVER",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=545553",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02525606645512552",
-    "https://www.yna.co.kr/view/AKR20260708020500008?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260708020500008?input=1195m",
+    "https://magazine.hankyung.com/business/article/202607010391b",
+    "https://www.mt.co.kr/stock/2026/07/08/2026070808001198686",
+    "https://www.yna.co.kr/view/AKR20260707152400008?input=1195m",
+    "https://www.yna.co.kr/view/AKR20260708015700011?input=1195m"
    ],
    "seen_titles": [
-    "상장제약·바이오1Q평균유보율코스피2324.16%·코스닥2549.03%",
-    "SK하이닉스43조원美ADR발행…15일경대규모환전거래예상",
-    "메모리공급부족내년에도계속된다",
-    "일본잡고2라운드행,마줄스호의문은계속[남자농구국가대표]",
     "[통신브리핑]SK텔레콤·KT·LG유플러스",
     "여야,단일종목레버리지ETF우려목소리↑…한정애\"필요제도보완\"",
     "코스피,7400선까지밀려…삼전닉스8~9%대하락세",
@@ -3582,10 +3594,14 @@
     "[애프터마켓리뷰]클리오,미국아마존업고59%성장",
     "SK하이닉스나스닥상장초읽기,AI투자심리가늠할시험대될듯",
     "AI랠리시험대오른실적시즌…“美는투자,韓은이익속도봐야”",
-    "[마켓뷰]흔들리는투심…코스피,전날급락딛고반등시도하나"
+    "[마켓뷰]흔들리는투심…코스피,전날급락딛고반등시도하나",
+    "\"車대신주식올인\"…자동차시장보릿고개어쩌나",
+    "한화엔진,CPSP탈락에따른주가조정은매수기회-SK증권",
+    "'큰손'국민연금2분기국내주식189조수익…삼전닉스만151조",
+    "[전국주요신문톱뉴스](8일조간)"
    ],
    "initialized": true,
-   "last_run": "2026-07-08T08:01:04.660372+09:00"
+   "last_run": "2026-07-08T08:05:22.901178+09:00"
   }
  },
  "press_names": {
