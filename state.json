@@ -885,7 +885,6 @@
     ]
    ],
    "seen_urls": [
-    "https://it.chosun.com/news/articleView.html?idxno=2023092165300",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/07/2026070700115.html",
     "https://www.news1.kr/finance/general-stock/6220017",
     "https://www.businesspost.co.kr/BP?command=article_view&num=441707",
@@ -2384,10 +2383,10 @@
     "https://www.betanews.net/article/view/beta202607070123",
     "https://www.cnbnews.com/news/articleView.html?idxno=1007213",
     "https://www.newsis.com/view/NISX20260707_0003699828",
-    "https://www.cnbnews.com/news/articleView.html?idxno=1007247"
+    "https://www.cnbnews.com/news/articleView.html?idxno=1007247",
+    "http://www.breaknews.com/1219999"
    ],
    "seen_titles": [
-    "다이소,제주항공항공권프로모션外우아한형제들‧SK스토아‧경동나...",
     "월가'거물들'움직였다…SK하이닉스美상장공모에11조원인수의향",
     "SK海力士启动美国史上最大外企IPO韩半导体推动全球ETF资金重构",
     "[잘먹잘살+]LG생건·코스맥스·바디프랜드·귀뚜라미보일러·경동나비엔...",
@@ -3886,10 +3885,11 @@
     "코스피,차익실현·숨고르기에7600선'급락'",
     "'어닝서프라이즈'에도약세…반도체투톱급락에증시출렁",
     "삼성,'미리보는KS'서LG꺾고39일만에1위탈환…SSG9연패탈출(종합...",
-    "반도체호황이밀어올린동탄집값,업황고점론에가격검증대로"
+    "반도체호황이밀어올린동탄집값,업황고점론에가격검증대로",
+    "흥아해운부산이전발표...매출액1,555억원,직원340명규모의탱커..."
    ],
    "initialized": true,
-   "last_run": "2026-07-07T22:35:24.059867+09:00"
+   "last_run": "2026-07-07T22:40:49.362433+09:00"
   }
  },
  "press_names": {
