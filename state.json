@@ -1033,10 +1033,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.joseilbo.com/news/news_read.php?uid=571412&class=7",
-    "http://www.joseilbo.com/news/news_read.php?uid=571411&class=17",
-    "https://www.kukinews.com/article/view/kuk202607070051",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=269257",
     "https://cn.asiatoday.co.kr/view.php?key=20260707001012191",
     "https://www.businessplus.kr/news/articleView.html?idxno=113818",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4423700",
@@ -2532,13 +2528,13 @@
     "http://www.lawissue.co.kr/view.php?ud=20260707215905257204ead0791_12",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=310995",
     "https://www.nocutnews.co.kr/news/6544644",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604714"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604714",
+    "https://www.xportsnews.com/article/2169377",
+    "https://www.chosun.com/sports/baseball/2026/07/07/5JH7A6TZBVBQTNFQSUQNVWO2YI/",
+    "https://www.newsis.com/view/NISX20260707_0003699520",
+    "https://www.newsis.com/view/NISX20260707_0003699821"
    ],
    "seen_titles": [
-    "코스피,'매도사이드카'발동…삼전7%·하이닉스6%급락",
-    "코스피,급락에‘매도사이드카’발동…삼성전자6%대하락",
-    "울산,수소모빌리티선도도시도약가속…충전인프라고도화박차",
-    "ACE엔비디아밸류체인액티브ETF,해외밸류체인형ETF수익률'선두'",
     "정부,독자AI'옥석가리기'8월초돌입…에이전트경쟁력시험대오른...",
     "도박장된'삼전·닉스레버리지'…실적발표·美상장앞두고3조몰려",
     "황병직영주시장\"기업경쟁력이지역경쟁력\"…현장방문",
@@ -4034,10 +4030,14 @@
     "SK스토아,크루즈여행상품누적취급액560억원기록",
     "모델성능경쟁너머…AI,노동시장·산업바꾼다",
     "역대최다홈런타자의고백\"22년째야구하면서처음겪어본다…지명...",
-    "전북대,SKAX와AI거점대학구축협력"
+    "전북대,SKAX와AI거점대학구축협력",
+    "'13일만의승리'SSG,10연패피했다…이숭용감독\"연패길어져팬들께...",
+    "삼성,LG완파하고다시선두로...최형우는KBO리그첫1800타점달성",
+    "\"삼전·하닉,중장기성장성은의심여지없어…포기해서는안될종목...",
+    "'연패탈출선봉장'SSG루키김민준\"시즌마지막등판이라생각하고전..."
    ],
    "initialized": true,
-   "last_run": "2026-07-07T22:05:24.040364+09:00"
+   "last_run": "2026-07-07T22:10:50.251584+09:00"
   }
  },
  "press_names": {
