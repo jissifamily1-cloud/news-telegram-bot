@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-07T19:05:22.702534+09:00",
-     "시장 물량보다 되레 저가매수 기회 JP모건 의존한 지적에 가격"
-    ],
-    [
-     "2026-07-07T19:05:22.702534+09:00",
-     "지어도 영덕 호남 없어야 이상 원전"
-    ],
-    [
-     "2026-07-07T19:10:54.769220+09:00",
-     "넘게 고점인가 삼전 간다 전문가들은 빠진"
-    ],
-    [
      "2026-07-07T19:15:29.923863+09:00",
      "역전승 랭킹 남자농구 56위 일본에 국제연맹 22위"
     ],
@@ -402,11 +390,13 @@
     [
      "2026-07-08T00:55:23.301109+09:00",
      "본격화 내년까지 수퍼사이클 영업익 1000조원 반도체"
+    ],
+    [
+     "2026-07-08T01:11:08.135801+09:00",
+     "소프트웨 설계 시놉시스 반도체 공정 제어 집중"
     ]
    ],
    "seen_urls": [
-    "https://www.cwn.kr/news/articleView.html?idxno=50132",
-    "http://www.newsprime.co.kr/news/article.html?no=739379",
     "https://www.businesspost.co.kr/BP?command=article_view&num=441710",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1715381",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=141150",
@@ -1904,11 +1894,11 @@
     "https://www.hankyung.com/article/2026070710291",
     "http://www.yonhapnewstv.co.kr/news/MYH20260708005042qsS",
     "https://www.chosun.com/economy/money/2026/07/08/ERIIAJ2BNBGQ7FOFV4WHL3CJKY/",
-    "https://www.chosun.com/economy/tech_it/2026/07/08/VKS6VJWODFDRTJO4KL2TDNXGCM/"
+    "https://www.chosun.com/economy/tech_it/2026/07/08/VKS6VJWODFDRTJO4KL2TDNXGCM/",
+    "https://www.starnewskorea.com/sports/2026/07/08/2026070716541717950",
+    "https://www.newspim.com/news/view/20260708000005"
    ],
    "seen_titles": [
-    "하이닉스부사장도주식팔았다…74억원현금화",
-    "SK인텔릭스,스포츠콘텐츠활용한마케팅'눈길'",
     "코스피,3~5%↓극심한변동성…'8천피'밑돌며매도사이드카",
     "\"ACE엔비디아밸류체인액티브ETF연초이후수익률95%\"",
     "구윤철\"부동산세제7월말발표···보유세·거래세균형검토\"",
@@ -3406,10 +3396,12 @@
     "[시론]대통령이최고의CEO인나라",
     "\"군공항이전전착수가능\"…반도체산단\"환영\"",
     "“삼전닉스따라코스피도출렁…오징어게임같아”",
-    "반도체수퍼사이클본격화…“내년까지영업익1000조원”"
+    "반도체수퍼사이클본격화…“내년까지영업익1000조원”",
+    "[오피셜]방출8일만에새팀찾았다!전SSG이정범,KT전격입단\"전...",
+    "[미국특징주]시놉시스,AI설계집중위해반도체공정제어소프트웨..."
    ],
    "initialized": true,
-   "last_run": "2026-07-08T01:05:19.956146+09:00"
+   "last_run": "2026-07-08T01:11:08.135801+09:00"
   }
  },
  "press_names": {
