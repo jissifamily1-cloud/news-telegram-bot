@@ -622,15 +622,21 @@
     [
      "2026-07-08T08:15:25.913255+09:00",
      "끝날 코스피 굿모닝 경고음 있다 오징어게임처럼 빚투 급락에"
+    ],
+    [
+     "2026-07-08T08:20:49.117282+09:00",
+     "삼성전자 이어지나 SK하이닉스 반도체 프리장서 투매"
+    ],
+    [
+     "2026-07-08T08:20:49.117282+09:00",
+     "실적보다 버틴 호실적도 문제는 높아진 반도체 눈높이"
+    ],
+    [
+     "2026-07-08T08:20:49.117282+09:00",
+     "하락 프리마켓서 중동 삼성전자 하이닉스 불안"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000321114?division=NAVER",
-    "https://www.greened.kr/news/articleView.html?idxno=344414",
-    "http://www.fnnews.com/news/202607071116563205",
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/07/20260707500117?wlog_tag3=naver",
-    "http://www.fnnews.com/news/202607071345286953",
-    "https://www.greened.kr/news/articleView.html?idxno=344392",
     "https://sports.donga.com/sports/article/all/20260707/134250080/1",
     "https://www.slist.kr/news/articleView.html?idxno=750146",
     "https://www.newsmap.co.kr/news/articleView.html?idxno=1258",
@@ -2124,15 +2130,15 @@
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607021721290000105176",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607021255251280102233",
     "https://www.newsis.com/view/NISX20260708_0003699984",
-    "https://www.ytn.co.kr/_ln/0134_202607080809171583"
+    "https://www.ytn.co.kr/_ln/0134_202607080809171583",
+    "http://www.fnnews.com/news/202607080813587187",
+    "https://www.businessplus.kr/news/articleView.html?idxno=113849",
+    "https://www.newspim.com/news/view/20260708000063",
+    "https://www.sedaily.com/article/20065021",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02660086645512552",
+    "https://biz.newdaily.co.kr/site/data/html/2026/07/08/2026070800036.html"
    ],
    "seen_titles": [
-    "호남반도체전력공급해법…한빛원전7·8호기증설론솔솔",
-    "코스피,낙폭확대7.6%↓7,400대…삼전·닉스9∼10%↓",
-    "한투운용엔비디아밸류체인액티브ETF,연초이후수익률95.14%",
-    "[시장따라잡기]지지부진하던엔터주…2분기실적반등모멘텀?",
-    "[직설]삼성전자역대최대실적…반도체피크아웃론잠재울까?",
-    "충북도,SK하이닉스·셀트리온제약투자전담TF회의",
     "[기획]'U자형반도체벨트'의완성…해남솔라시도,대한민국AI·반도...",
     "DrugdiscoveryAImovesbeyondhypetoanR&Dproductivitytest",
     "[GenericTrend]과열경쟁의끝…자렐토제네릭시장이탈이어진다",
@@ -3626,10 +3632,16 @@
     "[더벨][BoardChange]스틱운용·한투PE대표,울산GPS·SK엠유이사회합...",
     "[더벨][한앤코리밸런싱톺아보기]SK해운,내실·자산확대달성차입·...",
     "SG,SK하이닉스용인첨단시스템반도체클러스터아스콘공급",
-    "\"오징어게임처럼끝날수있다\"...코스피급락에'빚투'경고음[굿모닝..."
+    "\"오징어게임처럼끝날수있다\"...코스피급락에'빚투'경고음[굿모닝...",
+    "한앤컴퍼니,'투자·밸류업'투톱전면에…CPO·CIO체제본격가동[fn마...",
+    "국내100대기업,지난해경제기여액1731조원달성…삼성전자177조원...",
+    "[미국특징주]\"SK하이닉스나스닥상장물량에수배초과청약\"",
+    "반도체투매이어지나…삼성전자·SK하이닉스프리장서4%대↓[코주부]",
+    "호실적도못버틴반도체株…문제는실적보다높아진눈높이",
+    "[속보]삼성전자·하이닉스,프리마켓서4%대하락…중동불안·반..."
    ],
    "initialized": true,
-   "last_run": "2026-07-08T08:15:25.913255+09:00"
+   "last_run": "2026-07-08T08:20:49.117282+09:00"
   }
  },
  "press_names": {
