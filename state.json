@@ -1066,18 +1066,17 @@
     [
      "2026-07-07T10:10:48.792182+09:00",
      "2분 거래대 울었지만 예고 어닝서프 관건은 증권 하반기 주가는"
+    ],
+    [
+     "2026-07-07T10:15:23.903069+09:00",
+     "치매 분야 사회적기업 해결위해 한국에자이 경도인지장애 사회문제"
+    ],
+    [
+     "2026-07-07T10:15:23.903069+09:00",
+     "외국인 통합계좌 협력 광파증권과 홍콩 신한투자증권"
     ]
    ],
    "seen_urls": [
-    "https://www.dongascience.com/news/view/78796",
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/06/2026070690223.html",
-    "https://view.asiae.co.kr/article/2026070616051907875",
-    "https://www.hankyung.com/article/2026070671841",
-    "http://www.joseilbo.com/news/news_read.php?uid=571373&class=32",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=4912",
-    "https://www.yna.co.kr/view/AKR20260706030751008?input=1195m",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260706161000sbE",
-    "https://www.ntoday.co.kr/news/articleView.html?idxno=128012",
     "https://cn.asiatoday.co.kr/view.php?key=20260706000945538",
     "https://www.ekn.kr/web/view.php?key=20260706024529719",
     "https://www.getnews.co.kr/news/articleView.html?idxno=874272",
@@ -2568,18 +2567,18 @@
     "https://www.enetnews.co.kr/news/articleView.html?idxno=52070",
     "http://www.iminju.net/news/articleView.html?idxno=166298",
     "http://www.weeklytoday.com/news/articleView.html?idxno=783774",
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/07/2026070700062.html"
+    "https://biz.newdaily.co.kr/site/data/html/2026/07/07/2026070700062.html",
+    "https://mhnse.com/news/articleView.html?idxno=1454575",
+    "http://www.seouleconews.com/news/articleView.html?idxno=92242",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1383444",
+    "http://www.beyondpost.co.kr/view.php?ud=2026070710031697142aaae0046f_30",
+    "https://www.sedaily.com/article/20064621",
+    "https://biz.sbs.co.kr/article_hub/20000321047?division=NAVER",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603981",
+    "https://www.lifein.news/news/articleView.html?idxno=20289",
+    "https://www.businessplus.kr/news/articleView.html?idxno=113808"
    ],
    "seen_titles": [
-    "\"국내과학자보상충분치않아…사업화정책지원필요\"",
-    "공정위·LG상생협약체결…2·3차협력사에900억지원",
-    "호남클러스터부지로선정된광주군공항…변수는'공항이전'",
-    "반도체發코스피지진…\"흔들리는퇴직연금,쪼개라\"",
-    "호남반도체클러스터,'광주군공항부지'결정...\"삼성·SK다들어간...",
-    "[증시줌인]'삼전닉스레버리지퇴출론'의역설…'음의복리'잡으려다...",
-    "[특징주]'실적D-1'삼성전자,2%대상승…하이닉스는하락(종합)",
-    "8,300찍고미끄러진코스피…8천선턱걸이",
-    "[기자수첩]\"학력안본다면서\"…SK하이닉스향한청년들의불안한시선",
     "SKT“海印”AI集群获云安全认证配备1000块英伟达BlackwellGPU",
     "코스피,8000선약보합마감…외국인·기관매도에숨고르기[마감시황...",
     "1300개협력사와상생협약맺은LG그룹\"금융·복지등지원확대‥하도...",
@@ -4070,10 +4069,19 @@
     "결혼정보회사엔노블,대기업직장인대상맞춤형매칭서비스강화",
     "[이원두칼럼]수출규모60년간1만배,고용은줄고있다",
     "[증권가소식]대신증권ㆍ신한투자증권ㆍ미래에셋자산운용(7.7)",
-    "증권,주가는울었지만2분'어닝서프'예고…관건은'하반기거래대..."
+    "증권,주가는울었지만2분'어닝서프'예고…관건은'하반기거래대...",
+    "레전드포수박경완,KBO최초4연타석홈런회상…“몸에맞히려던공...",
+    "코스피,4%대급락7,700대…실적무색한삼전6%↓",
+    "황병직영주시장,기업부터챙겼다…투자환경개선행보본격화",
+    "메모리3총사,20%넘게하락'조정국면진입'...삼성전자22%,SK하이닉...",
+    "엔비디아제친삼성…분기영업익100조시대연다",
+    "역대급실적에도6%폭락…삼성전자,30만원밑으로",
+    "코스피급락7,700선으로밀려…‘반도체투톱’동반하락",
+    "한국에자이,경도인지장애및치매분야사회문제해결위해사회적기업...",
+    "[금융권이모저모]신한투자증권,홍콩광파증권과외국인통합계좌협력..."
    ],
    "initialized": true,
-   "last_run": "2026-07-07T10:10:48.792182+09:00"
+   "last_run": "2026-07-07T10:15:23.903069+09:00"
   }
  },
  "press_names": {
@@ -4560,6 +4568,7 @@
   "ifs.or.kr": "ifs.or.kr",
   "consumuch.com": "컨슈머치",
   "fins.co.kr": "보험매일",
-  "ditoday.com": "ditoday.com"
+  "ditoday.com": "ditoday.com",
+  "lifein.news": "라이프인"
  }
 }
