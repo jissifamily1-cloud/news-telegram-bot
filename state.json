@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-07T12:45:26.326171+09:00",
-     "반도체 제품 엔비디아 차세대 1년 지연 타격 주가"
-    ],
-    [
-     "2026-07-07T12:45:26.326171+09:00",
-     "롤러코스터 코스피 하반기 1만선 열려 장세 최창규 상단 본부장"
-    ],
-    [
-     "2026-07-07T12:45:26.326171+09:00",
-     "29만 전자 하락 삼전 깨졌다"
-    ],
-    [
-     "2026-07-07T12:50:47.412139+09:00",
-     "이어 메모리주 검은 키옥시아도 화요일 삼전닉스"
-    ],
-    [
-     "2026-07-07T12:50:47.412139+09:00",
-     "까뮤이앤씨 수주 SK에코플랜트와 원대 기반 664억 청주 신축공사"
-    ],
-    [
      "2026-07-07T12:55:23.327208+09:00",
      "다르지만 대구와 무사안일 정치색은 전북 닮아 닮은"
     ],
@@ -1534,11 +1514,13 @@
     [
      "2026-07-07T18:45:24.379655+09:00",
      "AI데이터센터 최적지 충주 확보 전력망 가시화 급부상"
+    ],
+    [
+     "2026-07-07T18:50:51.660972+09:00",
+     "피크아웃 금리 매도 반도체 우려 상승"
     ]
    ],
    "seen_urls": [
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=805801",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2446088",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=848692",
     "http://www.weeklytoday.com/news/articleView.html?idxno=783771",
     "http://www.weeklytoday.com/news/articleView.html?idxno=783773",
@@ -3036,11 +3018,11 @@
     "http://www.newsian.co.kr/news/articleView.html?idxno=91927",
     "https://www.econotimes.com/Nasdaq-Futures-Slide-as-AI-Chip-Stocks-Sink-Despite-Samsung-Earnings-SpaceX-Debuts-in-Nasdaq-100-1746104",
     "https://www.kmib.co.kr/article/view.asp?arcid=1783414440&code=11151200&cp=nv",
-    "https://www.jbnews.com/news/articleView.html?idxno=1507247"
+    "https://www.jbnews.com/news/articleView.html?idxno=1507247",
+    "https://www.xportsnews.com/article/2169240",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423802"
    ],
    "seen_titles": [
-    "코스피,외국인-기관쌍끌이매도로장중7,700붕괴",
-    "SK텔레콤,포켓몬'잉어킹프로모카드'7일부터배부",
     "전세사라지더니…서울100만원이상월세비중40%돌파",
     "엔비디아차세대AI서버‘1년연기’…반도체주직격탄",
     "삼성·SK광주반도체팹4기…‘속도전’승부수",
@@ -4538,10 +4520,12 @@
     "공정위,한화이어CJ도현장조사…상표권내부거래적정성점검",
     "NasdaqFuturesSlideasAIChipStocksSinkDespiteSamsungEarnings;S",
     "[단독]단일종목레버리지출시전“여러종목허용”건의묵살됐다",
-    "'전력망확보가시화'충주AI데이터센터최적지급부상"
+    "'전력망확보가시화'충주AI데이터센터최적지급부상",
+    "벤투부임설에'홍명보참사'금세잊히나…'벤버지효과'확실하네→한...",
+    "[채권-마감]금리상승…반도체피크아웃우려속外人매도"
    ],
    "initialized": true,
-   "last_run": "2026-07-07T18:45:24.379655+09:00"
+   "last_run": "2026-07-07T18:50:51.660972+09:00"
   }
  },
  "press_names": {
