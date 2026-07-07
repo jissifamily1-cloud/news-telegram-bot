@@ -1182,15 +1182,17 @@
     [
      "2026-07-07T13:05:23.408525+09:00",
      "강세 두산위브더제니스 하이엔드 부산 대연 분양 관심 아파트 대연동"
+    ],
+    [
+     "2026-07-07T13:10:49.447659+09:00",
+     "주도권 사상최대 실적 회복에 메모리"
+    ],
+    [
+     "2026-07-07T13:10:49.447659+09:00",
+     "낙폭 전환하자 530원선 달러 70원 확대 밑으로 하락"
     ]
    ],
    "seen_urls": [
-    "https://www.kbmaeil.com/article/20260706500797",
-    "https://www.sedaily.com/article/20064398",
-    "https://www.mk.co.kr/article/12091571",
-    "https://www.mk.co.kr/article/12091601",
-    "https://www.mk.co.kr/article/12091596",
-    "https://www.thelec.kr/news/articleView.html?idxno=59117",
     "https://www.mk.co.kr/article/12091585",
     "https://www.nspna.com/news/?newsid=819495",
     "https://www.mk.co.kr/article/12091565",
@@ -2684,15 +2686,15 @@
     "https://www.todayeconomic.com/news/article.html?no=31221",
     "https://www.newsis.com/view/NISX20260707_0003698543",
     "https://daily.hankooki.com/news/articleView.html?idxno=1383412",
-    "https://www.joongangenews.com/news/articleView.html?idxno=531071"
+    "https://www.joongangenews.com/news/articleView.html?idxno=531071",
+    "https://www.naeil.com/news/read/594489",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260707130557Ydo",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=314707",
+    "https://www.ytn.co.kr/_ln/0102_202607071259478517",
+    "https://www.naeil.com/news/read/594483",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423742"
    ],
    "seen_titles": [
-    "[#통신풍향계]SKT'CSAP'인증·KT\"AX플랫폼기업도약\"·LGU+'익시오...",
-    "변동성키운'삼전닉스레버리지'[한경프리미엄9TODAY]",
-    "\"김민재의뮌헨이제주도에\"아우디코리아,써머투어한국개최",
-    "李대통령,3대메가프로젝트속도전주문",
-    "HD현대로보,모회사주주동의필수…‘자회사먼저상장’한화에너지...",
-    "마이크론,대만·印·싱가포르에도공장…삼성·SK,공급망다변화과...",
     "근로자절반,임금보다물가가더올랐다",
     "[뉴스&분석]광속'광주팹'…軍공항용지에짓는다",
     "해치텍,내달19일코스닥입성...차량용센서IC개발가속",
@@ -4186,10 +4188,16 @@
     "삼성전자,2분기영업이익89조'역대급'…그런데주가는왜떨어졌나",
     "'광주군공항반도체'마륵동탄약고이전중단논의…주민반발또다른...",
     "[유통레이더]쿠첸,롯데월드아쿠아리움,교촌치킨,경동나비엔,귀뚜...",
-    "부산대연동하이엔드아파트강세...'두산위브더제니스대연'분양관심"
+    "부산대연동하이엔드아파트강세...'두산위브더제니스대연'분양관심",
+    "하이닉스ADR최대70억달러인수의사",
+    "[경제읽기]한화오션,잠수함수주불발…삼성전자최대실적",
+    "사상최대실적에도삼성전자9%하락...반도체랠리분수령",
+    "[뉴스나우]삼성전자,역대급실적에도'주가폭락'...원인은?",
+    "메모리주도권회복에사상최대실적",
+    "[외환]달러-엔하락전환하자1,530원선밑으로낙폭확대…4.70원↓"
    ],
    "initialized": true,
-   "last_run": "2026-07-07T13:05:23.408525+09:00"
+   "last_run": "2026-07-07T13:10:49.447659+09:00"
   }
  },
  "press_names": {
