@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-08T01:11:08.135801+09:00",
-     "소프트웨 설계 시놉시스 반도체 공정 제어 집중"
-    ],
-    [
      "2026-07-08T01:25:22.701089+09:00",
      "대기업 담합으로 씌워서야 바가지 서민"
     ],
@@ -438,12 +434,17 @@
     [
      "2026-07-08T07:05:21.155273+09:00",
      "지방 가산금리 중도금대출 은행권 수도권보다 실수요 인하 중심 서울"
+    ],
+    [
+     "2026-07-08T07:15:25.227167+09:00",
+     "상승 호조 높아져 반도체시장 기대감 넘었나 실적 정점 메모리 시장"
+    ],
+    [
+     "2026-07-08T07:15:25.227167+09:00",
+     "영향 메타 유가 하락 테슬라 반등 반도체주 뉴욕증시 급락과"
     ]
    ],
    "seen_urls": [
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/07/2026070790138.html",
-    "https://www.chosun.com/economy/economy_general/2026/07/07/2DN3E6232NFWPJVEUGGD3WUEZI/",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=659904",
     "https://www.pennmike.com/news/articleView.html?idxno=123283",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4423738",
     "https://www.medipana.com/news/articleView.html?idxno=414219",
@@ -1940,12 +1941,12 @@
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607071138421490227",
     "https://biz.sbs.co.kr/article_hub/20000321222?division=NAVER",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=167783",
-    "https://www.g-enews.com/view.php?ud=202607080650478375fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202607080650478375fbbec65dfb_1",
+    "https://www.econovill.com/news/articleView.html?idxno=744564",
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=545549",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=440853"
    ],
    "seen_titles": [
-    "삼성전자·SK하이닉스반도체들어설전남광주부지",
-    "반도체산단현장점검민형배",
-    "반도체부지설명하는민형배",
     "구윤철\"7월말부동산세제개편…보유세·거래세균형맞출것\"",
     "작심스터디카페,아파트커뮤니티시장공략…SK드파인적용",
     "반도체發‘이사명령’軍비행단이전만6~7년…안보공백우려",
@@ -3442,10 +3443,13 @@
     "은행권,실수요중심중도금대출가산금리인하…서울수도권보다지방...",
     "[증시전략]뉴욕증시,반도체주급락·중동불안겹쳐일제히하락",
     "美CHIPS,다시'뚝'...미국증시나스닥100'급락',GILD는'껑충'",
-    "한국HBM독점깨지나…인텔‘XBM·ZAM’투트랙공세"
+    "한국HBM독점깨지나…인텔‘XBM·ZAM’투트랙공세",
+    "SK하이닉스ADR,글로벌자금흡수…AI투자사참여에흥행기대",
+    "반도체시장정점넘었나?메모리실적호조속시장기대감높아져상승...",
+    "뉴욕증시,반도체주급락과유가반등등영향하락⋯메타2%대,테슬라..."
    ],
    "initialized": true,
-   "last_run": "2026-07-08T07:10:50.358313+09:00"
+   "last_run": "2026-07-08T07:15:25.227167+09:00"
   }
  },
  "press_names": {
