@@ -305,8 +305,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260707_0003698829",
-    "https://www.ikbc.co.kr/article/view/kbc202607070023",
     "https://www.newstnt.com/news/articleView.html?idxno=709231",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604076",
     "https://biz.heraldcorp.com/article/10800705",
@@ -1804,11 +1802,11 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01804006645512552",
     "https://www.mt.co.kr/world/2026/07/08/2026070805270325243",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607070347&t=NN",
-    "https://www.newsis.com/view/NISX20260707_0003699617"
+    "https://www.newsis.com/view/NISX20260707_0003699617",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607071338559990250",
+    "http://www.fnnews.com/news/202607080532435784"
    ],
    "seen_titles": [
-    "마이크론메모리반도체장기계약에'약점'부각,삼성전자SK하이닉스...",
-    "삼전실적발표날코스피매도사이드카…올해만16번째",
     "영업익89조도부족했나…삼성전자,'역대급실적'에도주가밀린까닭...",
     "광주군공항이전,메가프로젝트속도전‘최대변수’",
     "區·민간데이터결합…서울신보,소상공인맞춤형지원",
@@ -3306,10 +3304,12 @@
     "반도체주급락에나스닥1.2%↓…AI랠리지속성우려확산[월스트리트...",
     "삼전닉스7%하락불똥…美반도체주도파란불[뉴욕마감]",
     "“만스피여전히가능...변곡점은8월말9월초”",
-    "흥아해운,부산이전'4호'달성…남은해운사도탄력받나"
+    "흥아해운,부산이전'4호'달성…남은해운사도탄력받나",
+    "삼성發‘반도체피크아웃’우려지웠다…이제SK하닉에쏠리는눈길",
+    "\"삼성·SK비중줄이고'이주식'사라\"...'반도체저승사자'모건스탠리..."
    ],
    "initialized": true,
-   "last_run": "2026-07-08T05:35:22.259386+09:00"
+   "last_run": "2026-07-08T05:40:50.865678+09:00"
   }
  },
  "press_names": {
