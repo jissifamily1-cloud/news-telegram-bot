@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-07T07:10:51.682795+09:00",
-     "팩토리 먹거리 KT 미래 박윤영 토큰"
-    ],
-    [
      "2026-07-07T07:15:27.480280+09:00",
      "빨리 반도체 승부처 전쟁 만들어야 많이"
     ],
@@ -1190,13 +1186,21 @@
     [
      "2026-07-07T13:10:49.447659+09:00",
      "낙폭 전환하자 530원선 달러 70원 확대 밑으로 하락"
+    ],
+    [
+     "2026-07-07T13:15:24.783767+09:00",
+     "담합하고 요구 수십조 손실보전"
+    ],
+    [
+     "2026-07-07T13:15:24.783767+09:00",
+     "Asia as Valuation Ease Fail Stocks Samsung to Earnings Concerns Fall"
+    ],
+    [
+     "2026-07-07T13:15:24.783767+09:00",
+     "3년 국고채 국고 환율 강세 5bp 하락에 코스피 급락"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12091585",
-    "https://www.nspna.com/news/?newsid=819495",
-    "https://www.mk.co.kr/article/12091565",
-    "https://www.mk.co.kr/article/12091572",
     "https://www.kyosu.net/news/articleView.html?idxno=207304",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=272538",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/06/2026070600292.html",
@@ -2692,13 +2696,13 @@
     "https://www.wolyo.co.kr/news/articleView.html?idxno=314707",
     "https://www.ytn.co.kr/_ln/0102_202607071259478517",
     "https://www.naeil.com/news/read/594483",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423742"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423742",
+    "https://news.jtbc.co.kr/article/NB12306979?influxDiv=NAVER",
+    "https://www.naeil.com/news/read/594500",
+    "https://www.econotimes.com/Asia-Stocks-Fall-as-Samsung-Earnings-Fail-to-Ease-AI-Valuation-Concerns-1746087",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423745"
    ],
    "seen_titles": [
-    "근로자절반,임금보다물가가더올랐다",
-    "[뉴스&분석]광속'광주팹'…軍공항용지에짓는다",
-    "해치텍,내달19일코스닥입성...차량용센서IC개발가속",
-    "지난주20조던진외국인…이와중에1000억넘게담은종목딱4개,공통...",
     "[업앤다운]제약주하락…대웅제약↑·삼성바이오로직스↓",
     "\"코스피반도체株쏠림심화…저평가조·방·원주목해야\"",
     "檢\"싸게산원유놔두고인상\"…업계\"국제유가반영\"",
@@ -4194,10 +4198,14 @@
     "사상최대실적에도삼성전자9%하락...반도체랠리분수령",
     "[뉴스나우]삼성전자,역대급실적에도'주가폭락'...원인은?",
     "메모리주도권회복에사상최대실적",
-    "[외환]달러-엔하락전환하자1,530원선밑으로낙폭확대…4.70원↓"
+    "[외환]달러-엔하락전환하자1,530원선밑으로낙폭확대…4.70원↓",
+    "나스닥상장앞둔SK하이닉스…증권신고서에담긴투자위험요인?",
+    "수십조담합하고손실보전요구",
+    "AsiaStocksFallasSamsungEarningsFailtoEaseAIValuationConcerns",
+    "코스피급락·환율하락에국고채강세전환…국고3년0.5bp↓"
    ],
    "initialized": true,
-   "last_run": "2026-07-07T13:10:49.447659+09:00"
+   "last_run": "2026-07-07T13:15:24.783767+09:00"
   }
  },
  "press_names": {
