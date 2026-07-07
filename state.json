@@ -234,10 +234,13 @@
     [
      "2026-07-08T04:05:26.136582+09:00",
      "상반기 경쟁률 청약 20대1 일반은 브랜드 7대1 하이엔드"
+    ],
+    [
+     "2026-07-08T04:10:53.848424+09:00",
+     "ADR 환율 식혀줄까 불타는 SK하이닉스"
     ]
    ],
    "seen_urls": [
-    "https://www.newstnt.com/news/articleView.html?idxno=709221",
     "https://view.asiae.co.kr/article/2026070711231636214",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=359890",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068677",
@@ -1736,10 +1739,10 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1715465",
     "http://coinreaders.com/246580",
     "https://www.mt.co.kr/opinion/2026/07/08/2026070717132236220",
-    "https://www.newsis.com/view/NISX20260707_0003699512"
+    "https://www.newsis.com/view/NISX20260707_0003699512",
+    "https://www.mt.co.kr/stock/2026/07/08/2026070719525765200"
    ],
    "seen_titles": [
-    "삼성전자세계1위실적에도주가급락…글로벌반도체투심꺾이나",
     "'제2의반도체겨울?'모건스탠리\"삼전닉스팔아라\"",
     "코스피,4%대급락세…삼성전자호실적불구차익실현",
     "[GAM]SK하이닉스미국행에몰린큰손들…흥행기대3가지이유",
@@ -3238,10 +3241,11 @@
     "반도체흔들려도AI는간다?…실적앞두고주목받는종목들",
     "스페이스X(SPCX),나스닥100입성첫날4.7%급락...다우존스는상승분'...",
     "[사설]반도체특구광주,토허제로투기막아야",
-    "상반기하이엔드브랜드청약경쟁률20대1…일반은3.7대1"
+    "상반기하이엔드브랜드청약경쟁률20대1…일반은3.7대1",
+    "SK하이닉스ADR,불타는환율식혀줄까"
    ],
    "initialized": true,
-   "last_run": "2026-07-08T04:05:26.136582+09:00"
+   "last_run": "2026-07-08T04:10:53.848424+09:00"
   }
  },
  "press_names": {
