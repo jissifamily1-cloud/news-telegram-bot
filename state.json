@@ -241,7 +241,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.koreatimes.co.kr/path/A2026070711070003076",
     "http://www.newsdream.kr/news/articleView.html?idxno=114122",
     "http://www.economytalk.kr/news/articleView.html?idxno=422508",
     "https://www.yna.co.kr/view/AKR20260707082700008?input=1195m",
@@ -1740,10 +1739,10 @@
     "https://www.donga.com/news/Economy/article/all/20260708/134255339/2",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=167778",
     "https://www.mt.co.kr/politics/2026/07/08/2026070722254232522",
-    "https://www.hankookilbo.com/news/article/A2026062115230001659?did=NA"
+    "https://www.hankookilbo.com/news/article/A2026062115230001659?did=NA",
+    "https://biz.sbs.co.kr/article_hub/20000321214?division=NAVER"
    ],
    "seen_titles": [
-    "대형건설사산재사망희비⋯삼성·대우·GS'0명'",
     "반도체·증권대기업月1600만원받을때,다른직종'마이너스'…임금...",
     "다나와,SSD거래액반등…2TB이상제품비중확대",
     "[장중시황]코스피,급락속매도사이드카…삼전‘깜짝실적’에도투...",
@@ -3242,10 +3241,11 @@
     "“메모리3사2분기영업이익률80%육박”",
     "미국증시마감58분前...5대지수'하락',CHIPS'뚝',제약주'활짝'",
     "머니투데이오프라인헤드라인-8일",
-    "'연봉3배'중국마다하고카이스트온중국인교수...인재유치,돈만..."
+    "'연봉3배'중국마다하고카이스트온중국인교수...인재유치,돈만...",
+    "[글로벌비즈브리핑]SK하이닉스美상장흥행조짐...큰손들‘10조베..."
    ],
    "initialized": true,
-   "last_run": "2026-07-08T04:35:23.060300+09:00"
+   "last_run": "2026-07-08T04:40:50.537510+09:00"
   }
  },
  "press_names": {
