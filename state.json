@@ -1530,13 +1530,13 @@
     [
      "2026-07-07T18:40:54.508681+09:00",
      "셀온 89조에도 이보다 삼전 영업익 좋을 없다 증시는"
+    ],
+    [
+     "2026-07-07T18:45:24.379655+09:00",
+     "AI데이터센터 최적지 충주 확보 전력망 가시화 급부상"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20064582",
-    "https://www.sedaily.com/article/20064586",
-    "https://www.mydaily.co.kr/page/view/2026070709501106050",
-    "https://www.theguru.co.kr/news/article.html?no=104053",
     "https://www.startuptoday.co.kr/news/articleView.html?idxno=805801",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2446088",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=848692",
@@ -3032,13 +3032,13 @@
     "https://www.newsquest.co.kr/news/articleView.html?idxno=269293",
     "https://www.sedaily.com/article/20064804",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255910",
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255927"
+    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255927",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=91927",
+    "https://www.econotimes.com/Nasdaq-Futures-Slide-as-AI-Chip-Stocks-Sink-Despite-Samsung-Earnings-SpaceX-Debuts-in-Nasdaq-100-1746104",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1783414440&code=11151200&cp=nv",
+    "https://www.jbnews.com/news/articleView.html?idxno=1507247"
    ],
    "seen_titles": [
-    "SK매직,야구에산다서MEGAICE얼음정수기선봬",
-    "삼성전자89.4조역대급영업이익에도…‘30만전자’깨졌다",
-    "[투데이증시]삼성전자역대급실적에도6%대급락...코스피7700선털썩",
-    "삼성전자‘어닝서프라이즈’도못막았다…코스피4%급락,7700선붕...",
     "코스피,외국인-기관쌍끌이매도로장중7,700붕괴",
     "SK텔레콤,포켓몬'잉어킹프로모카드'7일부터배부",
     "전세사라지더니…서울100만원이상월세비중40%돌파",
@@ -4534,10 +4534,14 @@
     "'역대급'실적에도2조원던진외국인…삼성전자30만원선후퇴",
     "[시론]한국이적극참여해야할글로벌공급망재편",
     "[기자수첩]페이블5가진화불능의기형적AI가된이유",
-    "\"이보다더좋을수없다?\"···삼전영업익89조에도증시는'셀온'"
+    "\"이보다더좋을수없다?\"···삼전영업익89조에도증시는'셀온'",
+    "공정위,한화이어CJ도현장조사…상표권내부거래적정성점검",
+    "NasdaqFuturesSlideasAIChipStocksSinkDespiteSamsungEarnings;S",
+    "[단독]단일종목레버리지출시전“여러종목허용”건의묵살됐다",
+    "'전력망확보가시화'충주AI데이터센터최적지급부상"
    ],
    "initialized": true,
-   "last_run": "2026-07-07T18:40:54.508681+09:00"
+   "last_run": "2026-07-07T18:45:24.379655+09:00"
   }
  },
  "press_names": {
