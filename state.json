@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-07T13:15:24.783767+09:00",
-     "담합하고 요구 수십조 손실보전"
-    ],
-    [
-     "2026-07-07T13:15:24.783767+09:00",
-     "Asia as Valuation Ease Fail Stocks Samsung to Earnings Concerns Fall"
-    ],
-    [
-     "2026-07-07T13:15:24.783767+09:00",
-     "3년 국고채 국고 환율 강세 5bp 하락에 코스피 급락"
-    ],
-    [
      "2026-07-07T13:20:47.955201+09:00",
      "바디프랜드 세라젬 SK인텔릭스"
     ],
@@ -1538,14 +1526,17 @@
     [
      "2026-07-07T19:10:54.769220+09:00",
      "넘게 고점인가 삼전 간다 전문가들은 빠진"
+    ],
+    [
+     "2026-07-07T19:15:29.923863+09:00",
+     "역전승 랭킹 남자농구 56위 일본에 국제연맹 22위"
+    ],
+    [
+     "2026-07-07T19:15:29.923863+09:00",
+     "반도체 핵심거점이 청주가 되려면"
     ]
    ],
    "seen_urls": [
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603981",
-    "https://www.lifein.news/news/articleView.html?idxno=20289",
-    "https://www.businessplus.kr/news/articleView.html?idxno=113808",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008644982&plink=ORI&cooper=NAVER",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260707101746NDv",
     "https://www.topstarnews.net/news/articleView.html?idxno=16126453",
     "http://www.wsobi.com/news/articleView.html?idxno=314824",
     "http://www.queen.co.kr/news/articleView.html?idxno=459862",
@@ -3040,14 +3031,14 @@
     "https://www.sedaily.com/article/20064934",
     "https://www.hidomin.com/news/articleView.html?idxno=712341",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604385",
-    "https://news.jtbc.co.kr/article/NB12307063?influxDiv=NAVER"
+    "https://news.jtbc.co.kr/article/NB12307063?influxDiv=NAVER",
+    "https://www.hani.co.kr/arti/sports/soccer/1267169.html",
+    "http://www.paxetv.com/news/articleView.html?idxno=276600",
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5204431",
+    "https://www.kyeongin.com/article/1766920",
+    "http://www.inews365.com/news/article.html?no=926573"
    ],
    "seen_titles": [
-    "SK텔레콤,전국T월드매장서포켓몬'잉어킹프로모카드'배부시작",
-    "용인시,반도체장비기업어플라이드머티어리얼즈투자협약",
-    "코스피,4%대급락7,700대…'2분기실적발표'삼전6%↓",
-    "[위클리오늘]이동통신소식(7.7)",
-    "결혼정보회사엔노블,대기업직장인대상맞춤형매칭서비스강화",
     "[이원두칼럼]수출규모60년간1만배,고용은줄고있다",
     "[증권가소식]대신증권ㆍ신한투자증권ㆍ미래에셋자산운용(7.7)",
     "증권,주가는울었지만2분'어닝서프'예고…관건은'하반기거래대...",
@@ -4542,10 +4533,15 @@
     "“물량보다가격의존한시장”지적에…JP모건“되레저가매수기회”...",
     "호남원전지어도영덕원전이상없어야",
     "삼성전자2분기영업이익89조4천억원…역대최대에도주가급락",
-    "6%넘게빠진삼전…'고점인가?'전문가들은\"더간다\""
+    "6%넘게빠진삼전…'고점인가?'전문가들은\"더간다\"",
+    "축구에상한마음,축구로달랠시간…K리그후반기시작",
+    "코스피,삼성전자실적에도7600선마감…코스닥올해최저",
+    "역대급실적에도삼전주가장중10%대급락…대형반도체주뚝,'왜'",
+    "국제연맹랭킹56위남자농구,22위일본에역전승",
+    "청주가AI반도체핵심거점이되려면"
    ],
    "initialized": true,
-   "last_run": "2026-07-07T19:10:54.769220+09:00"
+   "last_run": "2026-07-07T19:15:29.923863+09:00"
   }
  },
  "press_names": {
