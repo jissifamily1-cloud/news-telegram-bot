@@ -534,13 +534,17 @@
     [
      "2026-07-08T07:50:49.091722+09:00",
      "지출과 향한 반도체 과도한 호실적 높은 우려 삼전 기대 불러와"
+    ],
+    [
+     "2026-07-08T07:55:21.608678+09:00",
+     "삼성 SK의 국민보고회 사기업"
+    ],
+    [
+     "2026-07-08T07:55:21.608678+09:00",
+     "반도체 중동 겹악재 급락 파랗게 코스피 리스크"
     ]
    ],
    "seen_urls": [
-    "http://www.newswatch.kr/news/articleView.html?idxno=80349",
-    "https://www.etoday.co.kr/news/view/2601090",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681948",
-    "http://www.fnnews.com/news/202607071317597000",
     "http://www.newstomato.com/ReadNews.aspx?no=1306387&inflow=N",
     "https://www.besteleven.com/news/articleView.html?idxno=309561",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=659907",
@@ -2036,13 +2040,13 @@
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6835818_37012.html",
     "https://view.asiae.co.kr/article/2026070715384046651",
     "https://www.viewsnnews.com/article?q=237035",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423837"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423837",
+    "https://view.asiae.co.kr/article/2026070807541561316",
+    "https://www.newspim.com/news/view/20260707001216",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607031746047720106847",
+    "https://www.newsis.com/view/NISX20260708_0003699951"
    ],
    "seen_titles": [
-    "[외환]달러-엔하락전환하자1,530원선밑으로낙폭확대…4.70원↓",
-    "나스닥상장앞둔SK하이닉스…증권신고서에담긴투자위험요인?",
-    "수십조담합하고손실보전요구",
-    "AsiaStocksFallasSamsungEarningsFailtoEaseAIValuationConcerns",
     "코스피급락·환율하락에국고채강세전환…국고3년0.5bp↓",
     "코스피,7400선까지밀려…삼전닉스8%대급락",
     "[민주유통가]세라젬·바디프랜드·SK인텔릭스",
@@ -3538,10 +3542,14 @@
     "반도체주급락·유가급등에美나스닥1.2%↓",
     "반도체조정에도동학·서학개미모두'레버리지ETF'광풍",
     "삼전닉스급락에美AI반도체들도'와르르'",
-    "\"삼전호실적,반도체·AI향한과도한지출과높은기대우려불러와\""
+    "\"삼전호실적,반도체·AI향한과도한지출과높은기대우려불러와\"",
+    "100대기업경제기여액1731조…삼성전자177조로1위",
+    "코스피패닉에레버리지ETF책임론…정부,배율조정검토",
+    "[더벨][thebellnote]'사기업'삼성·SK의국민보고회",
+    "[오늘의증시]美반도체급락·중동리스크겹악재…코스피,또파랗게질..."
    ],
    "initialized": true,
-   "last_run": "2026-07-08T07:50:49.091722+09:00"
+   "last_run": "2026-07-08T07:55:21.608678+09:00"
   }
  },
  "press_names": {
