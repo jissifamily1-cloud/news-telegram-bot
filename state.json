@@ -441,9 +441,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.polinews.co.kr/news/articleView.html?idxno=736250",
-    "https://www.koreaittimes.com/news/articleView.html?idxno=155010",
-    "https://www.mt.co.kr/stock/2026/07/07/2026070712182544893",
     "https://news.tvchosun.com/site/data/html_dir/2026/07/07/2026070790138.html",
     "https://www.chosun.com/economy/economy_general/2026/07/07/2DN3E6232NFWPJVEUGGD3WUEZI/",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=659904",
@@ -1940,12 +1937,12 @@
     "https://www.businesspost.co.kr/BP?command=article_view&num=441569",
     "https://www.businesspost.co.kr/BP?command=article_view&num=440791",
     "https://view.asiae.co.kr/article/2026070716240532130",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607071138421490227"
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607071138421490227",
+    "https://biz.sbs.co.kr/article_hub/20000321222?division=NAVER",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=167783",
+    "https://www.g-enews.com/view.php?ud=202607080650478375fbbec65dfb_1"
    ],
    "seen_titles": [
-    "변동성극심한코스피…오늘하락세와주요기업주가동향은?",
-    "전남광주특별시,반도체산단들어설군공항인근",
-    "삼성전자·SK하이닉스군공항인근에반도체산단조성",
     "삼성전자·SK하이닉스반도체들어설전남광주부지",
     "반도체산단현장점검민형배",
     "반도체부지설명하는민형배",
@@ -3442,10 +3439,13 @@
     "[WhoIs?]이재현CJ그룹회장",
     "[WhoIs?]박병무엔씨공동대표이사",
     "영업이익3兆바라보는한국금융지주[클릭e종목]",
-    "은행권,실수요중심중도금대출가산금리인하…서울수도권보다지방..."
+    "은행권,실수요중심중도금대출가산금리인하…서울수도권보다지방...",
+    "[증시전략]뉴욕증시,반도체주급락·중동불안겹쳐일제히하락",
+    "美CHIPS,다시'뚝'...미국증시나스닥100'급락',GILD는'껑충'",
+    "한국HBM독점깨지나…인텔‘XBM·ZAM’투트랙공세"
    ],
    "initialized": true,
-   "last_run": "2026-07-08T07:05:21.155273+09:00"
+   "last_run": "2026-07-08T07:10:50.358313+09:00"
   }
  },
  "press_names": {
