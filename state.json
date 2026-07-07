@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-07T07:48:13.991904+09:00",
-     "오늘의 주요뉴스"
-    ],
-    [
      "2026-07-07T07:50:50.616662+09:00",
      "웨이퍼 CXMT 생산능력 35만장 턱밑 마이크론 올해 SK하이닉스"
     ],
@@ -1230,16 +1226,17 @@
     [
      "2026-07-07T13:45:27.042650+09:00",
      "폭탄 주식 매도설의 국민연금의 실체 2차 터진다 리밸런싱"
+    ],
+    [
+     "2026-07-07T13:50:49.803123+09:00",
+     "활용 6개 상용 나선다 방사성동위원소 산업화 한수원 기후부 원전"
+    ],
+    [
+     "2026-07-07T13:50:49.803123+09:00",
+     "독주 순환매 커졌지만 아직은 가능성 판단 증권가 반도체 하반기"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH20260706180911rKo",
-    "https://www.sentv.co.kr/article/view/sentv202607060088",
-    "https://www.goodkyung.com/news/articleView.html?idxno=288926",
-    "https://www.newstopkorea.com/news/articleView.html?idxno=46063",
-    "https://www.ziksir.com/news/articleView.html?idxno=139259",
-    "http://www.srtimes.kr/news/articleView.html?idxno=206887",
-    "https://www.etoday.co.kr/news/view/2600799",
     "https://www.jbnews.com/news/articleView.html?idxno=1507160",
     "http://www.fnnews.com/news/202607061813072235",
     "https://www.hani.co.kr/arti/opinion/column/1266962.html",
@@ -2732,16 +2729,16 @@
     "https://www.ajunews.com/view/20260707113707105",
     "https://www.koreabiomed.com/news/articleView.html?idxno=32334",
     "http://www.press9.kr/news/articleView.html?idxno=79039",
-    "https://realty.chosun.com/site/data/html_dir/2026/07/07/2026070701730.html"
+    "https://realty.chosun.com/site/data/html_dir/2026/07/07/2026070701730.html",
+    "https://www.joongang.co.kr/article/25443065",
+    "https://biz.sbs.co.kr/article_hub/20000321114?division=NAVER",
+    "https://www.greened.kr/news/articleView.html?idxno=344414",
+    "http://www.fnnews.com/news/202607071116563205",
+    "https://www.seoul.co.kr/news/economy/securities/2026/07/07/20260707500117?wlog_tag3=naver",
+    "http://www.fnnews.com/news/202607071345286953",
+    "https://www.greened.kr/news/articleView.html?idxno=344392"
    ],
    "seen_titles": [
-    "SK하이닉스,ADR신주발행규모45.5조서43.1조원으로조정",
-    "반도체소부장ETF,수익률효자는'전공정株'",
-    "삼전닉스레버리지도박판?…금감원·한은이어정치권도경고",
-    "삼성,내일2분기실적발표…'반도체우려'잠재울까",
-    "85%더비싼레버리지ETF?…당국,괴리율잡는다",
-    "[심층진단]꿈의보안'양자암호'…통신3사의기술경쟁",
-    "아시아증시,AI실적앞두고숨고르기...韓·日약세,홍콩반등",
     "SK쉴더스,에코프로포항공장서OT보안플랫폼실증추진",
     "靑,호남권'반도체클러스터'광주군공항부지에조성",
     "이상일용인특례시장,세계2위어플라이드까지품었다…'글로벌4대반...",
@@ -4234,10 +4231,17 @@
     "[기획]'U자형반도체벨트'의완성…해남솔라시도,대한민국AI·반도...",
     "DrugdiscoveryAImovesbeyondhypetoanR&Dproductivitytest",
     "[GenericTrend]과열경쟁의끝…자렐토제네릭시장이탈이어진다",
-    "국민연금의주식리밸런싱폭탄,또터진다…2차매도설의실체"
+    "국민연금의주식리밸런싱폭탄,또터진다…2차매도설의실체",
+    "삼전사상최대실적에도9%하락..코스피7500선아래로",
+    "[오후장체크포인트]반도체휘청이며코스피7600선도붕괴",
+    "한화다음은CJ…공정위,대기업'브랜드사용료'줄줄이조사",
+    "기후부,7일'제4차자연자본공시포럼'개최…TNFD·MSCI등해외전문...",
+    "[서울데이터랩]코스피거래상위혼조…아센디오급등,한화오션·대형...",
+    "기후부,상용원전활용방사성동위원소산업화나선다…한수원등6개...",
+    "반도체독주끝?…증권가\"하반기순환매가능성커졌지만아직은판단..."
    ],
    "initialized": true,
-   "last_run": "2026-07-07T13:45:27.042650+09:00"
+   "last_run": "2026-07-07T13:50:49.803123+09:00"
   }
  },
  "press_names": {
