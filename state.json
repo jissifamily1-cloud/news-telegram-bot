@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-08T01:45:29.161147+09:00",
-     "급증 신사업으로 반전 오염물질 SKC 확대 모색 적자"
-    ],
-    [
      "2026-07-08T02:01:04.425224+09:00",
      "퇴직자 금감원 재취업 출범 투자플랫폼 모험자본"
     ],
@@ -526,15 +522,21 @@
     [
      "2026-07-08T07:45:25.069839+09:00",
      "HBM 삼성 중장기 성장 본격화 아이에스티이 신호탄 유안타 수주가"
+    ],
+    [
+     "2026-07-08T07:50:49.091722+09:00",
+     "레버리지 반도체 광풍 서학개미 모두 동학 ETF 조정에도"
+    ],
+    [
+     "2026-07-08T07:50:49.091722+09:00",
+     "급락에 와르르 삼전닉스 반도체들도"
+    ],
+    [
+     "2026-07-08T07:50:49.091722+09:00",
+     "지출과 향한 반도체 과도한 호실적 높은 우려 삼전 기대 불러와"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03919606645512224",
-    "http://www.iminju.net/news/articleView.html?idxno=166313",
-    "http://www.newstown.co.kr/news/articleView.html?idxno=708387",
-    "https://www.chosun.com/economy/money/2026/07/07/HRWMPZVVUJDH3LYKAZQ5GMR6KE/",
-    "https://www.newsis.com/view/NISX20260707_0003699012",
-    "https://www.g-enews.com/view.php?ud=202607071237402323a9fc143920_1",
     "http://www.newswatch.kr/news/articleView.html?idxno=80349",
     "https://www.etoday.co.kr/news/view/2601090",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681948",
@@ -2028,15 +2030,15 @@
     "https://www.ytn.co.kr/_ln/0102_202607080734438048",
     "https://www.mk.co.kr/article/12092964",
     "https://it.chosun.com/news/articleView.html?idxno=2023092165270",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=02463286645512552"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02463286645512552",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=167785",
+    "https://www.etoday.co.kr/news/view/2601315",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6835818_37012.html",
+    "https://view.asiae.co.kr/article/2026070715384046651",
+    "https://www.viewsnnews.com/article?q=237035",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423837"
    ],
    "seen_titles": [
-    "부산대연동하이엔드아파트강세...'두산위브더제니스대연'분양관심",
-    "하이닉스ADR최대70억달러인수의사",
-    "[경제읽기]한화오션,잠수함수주불발…삼성전자최대실적",
-    "사상최대실적에도삼성전자9%하락...반도체랠리분수령",
-    "[뉴스나우]삼성전자,역대급실적에도'주가폭락'...원인은?",
-    "메모리주도권회복에사상최대실적",
     "[외환]달러-엔하락전환하자1,530원선밑으로낙폭확대…4.70원↓",
     "나스닥상장앞둔SK하이닉스…증권신고서에담긴투자위험요인?",
     "수십조담합하고손실보전요구",
@@ -3530,10 +3532,16 @@
     "삼전새역사쓴날코스피급락,더위험한건SK하이닉스?",
     "“10조원이상사겠다”…SK하닉ADR공모‘몇배초과청약’,대박나나",
     "AI메모리대란에중국산채택확대[메모리發AIPC시장재편]",
-    "아이에스티이,삼성HBM수주가신호탄…중장기성장본격화-유안타"
+    "아이에스티이,삼성HBM수주가신호탄…중장기성장본격화-유안타",
+    "美증시S&P500'하락'...반도체-광통신주'출렁'vsOIL주'껑충'",
+    "SK하이닉스美ADR상장흥행…청약수배몰려",
+    "반도체주급락·유가급등에美나스닥1.2%↓",
+    "반도체조정에도동학·서학개미모두'레버리지ETF'광풍",
+    "삼전닉스급락에美AI반도체들도'와르르'",
+    "\"삼전호실적,반도체·AI향한과도한지출과높은기대우려불러와\""
    ],
    "initialized": true,
-   "last_run": "2026-07-08T07:45:25.069839+09:00"
+   "last_run": "2026-07-08T07:50:49.091722+09:00"
   }
  },
  "press_names": {
