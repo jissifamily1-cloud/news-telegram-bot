@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-07T14:14:42.398204+09:00",
-     "정부 주안점과 우려는 메가프로젝트 3대 정리"
-    ],
-    [
-     "2026-07-07T14:14:42.398204+09:00",
-     "20조 광주 주목 활용방안 분담은 반도체 재원 어떻게 산단"
-    ],
-    [
      "2026-07-07T14:20:48.645204+09:00",
      "삼성전자 시장 ROI 믿는 실적도 덮친 랠리 89조 의심"
     ],
@@ -1429,7 +1421,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.gokorea.kr/news/articleView.html?idxno=871376",
     "https://www.ddaily.co.kr/page/view/2026070619535839052",
     "https://www.hani.co.kr/arti/area/honam/1267041.html",
     "http://www.newsfc.co.kr/news/articleView.html?idxno=79751",
@@ -2928,10 +2919,10 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008646113&plink=ORI&cooper=NAVER",
     "https://www.laborplus.co.kr/news/articleView.html?idxno=41097",
     "https://www.econovill.com/news/articleView.html?idxno=744544",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=204588"
+    "https://www.lcnews.co.kr/news/articleView.html?idxno=204588",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1529890"
    ],
    "seen_titles": [
-    "SKT,포켓몬‘잉어킹프로모카드’배부",
     "SKT,'잉어킹프로모카드'배부시작…포켓몬경품이벤트진행",
     "SK하이닉스나스닥상장기대감커진다…美·英투자사'최대10조원'...",
     "'삼전닉스'급락에코스피4.7%하락…매도사이드카발동",
@@ -4430,10 +4421,11 @@
     "\"광주군공항에반도체공장\"…'비행단·탄약고'이전은?",
     "7월2주주요제조업전망",
     "'8천선'붕괴에거래도얼어붙었다…코스피회전율올해최저",
-    "[증권Pick]삼성자산,연금TDF하이브리드전략제시…미래에셋자산,..."
+    "[증권Pick]삼성자산,연금TDF하이브리드전략제시…미래에셋자산,...",
+    "삼성전자7%급락…역대급영업익에도'뚝'"
    ],
    "initialized": true,
-   "last_run": "2026-07-07T20:10:52.102528+09:00"
+   "last_run": "2026-07-07T20:15:24.874830+09:00"
   }
  },
  "press_names": {
