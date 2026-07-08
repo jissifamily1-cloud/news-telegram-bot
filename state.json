@@ -1278,10 +1278,13 @@
     [
      "2026-07-08T20:40:51.060129+09:00",
      "흑자 경신에도 역대 경상수지 하락 증시는 동반"
+    ],
+    [
+     "2026-07-08T20:45:26.767064+09:00",
+     "박용선 용수 SK그룹 데이터센터 데이터 전기 완비 포항시장"
     ]
    ],
    "seen_urls": [
-    "http://www.paxetv.com/news/articleView.html?idxno=276621",
     "https://www.news1.kr/politics/assembly/6221097",
     "https://www.news2day.co.kr/article/20260708500042",
     "https://www.ajunews.com/view/20260708090743436",
@@ -2780,10 +2783,10 @@
     "https://www.mk.co.kr/article/12093802",
     "http://www.kwangju.co.kr/article.php?aid=1783510200801060277",
     "https://www.khan.co.kr/article/202607082037025",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008648273&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008648273&plink=ORI&cooper=NAVER",
+    "https://www.eroun.net/news/articleView.html?idxno=84995"
    ],
    "seen_titles": [
-    "국민연금주식평가액3개월새190조불었다…8할은삼성전자·SK하이닉...",
     "코스피,7,400선하락출발…반도체피크아웃우려지속(종합)",
     "코스피7500밑으로…삼성전자·SK하이닉스도하락",
     "삼성전자,AISSD양산승부수…주가하락에도반도체기대감은여전",
@@ -4282,10 +4285,11 @@
     "환율진정되나했더니…트럼프한마디에다시1500원대",
     "민형배시장“호남반도체2030년양산”",
     "환율,40일만에1500원아래로…30원가까이하락해1498.5원",
-    "경상수지'역대최대흑자'경신에도…증시는'동반하락'"
+    "경상수지'역대최대흑자'경신에도…증시는'동반하락'",
+    "박용선포항시장\"전기·용수·데이터완비…SK그룹AI데이터센터유..."
    ],
    "initialized": true,
-   "last_run": "2026-07-08T20:40:51.060129+09:00"
+   "last_run": "2026-07-08T20:45:26.767064+09:00"
   }
  },
  "press_names": {
