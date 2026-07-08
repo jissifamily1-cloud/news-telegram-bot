@@ -1398,11 +1398,13 @@
     [
      "2026-07-08T19:10:53.523730+09:00",
      "관제솔루션으로 스케일업리 수출할 로봇 1000대 K무인공장"
+    ],
+    [
+     "2026-07-08T19:15:26.527249+09:00",
+     "반도체주 이틀째 급락세"
     ]
    ],
    "seen_urls": [
-    "https://www.mydaily.co.kr/page/view/2026070808551414423",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=81520",
     "https://biz.chosun.com/stock/stock_general/2026/07/08/2KHXZKVRTZC2DJTB6ZYNTR6PRY/",
     "http://www.thebigdata.co.kr/view.php?ud=202607071558178540a47484cf8_23",
     "https://news.tf.co.kr/read/economy/2340866.htm",
@@ -2900,11 +2902,11 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05202086645512552",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=272705",
     "https://www.newstnt.com/news/articleView.html?idxno=709529",
-    "https://www.sedaily.com/article/20065479"
+    "https://www.sedaily.com/article/20065479",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605512",
+    "http://www.econotelling.com/news/articleView.html?idxno=20863"
    ],
    "seen_titles": [
-    "SKT,T월드오프라인매장에AI전면도입",
-    "SKT,전국T월드매장‘AI전환’시동고객서비스혁신나선다",
     "비큐AI최대주주,자사주3%추가취득추진…책임경영강화나선다",
     "메모리슈퍼사이클끝났나…증권가“아직아니다”[오늘나온보고서...",
     "2026년스크라이크(SKLIKE)배여자농구대회오는11일양정고에서개최",
@@ -4402,10 +4404,12 @@
     "한전,포브스선정올해기업순위319위…3년새428계단'껑충'",
     "RebellionsEyesIPOinKOSPINextYear",
     "상지건설,187억유상증자일정확정…본PF전환위한자금조달'시험대...",
-    "“로봇1000대관제솔루션으로‘K무인공장’수출할것”[스케일업리..."
+    "“로봇1000대관제솔루션으로‘K무인공장’수출할것”[스케일업리...",
+    "반도체불안에중동긴장까지…증시‘흔들’",
+    "반도체주이틀째급락세"
    ],
    "initialized": true,
-   "last_run": "2026-07-08T19:10:53.523730+09:00"
+   "last_run": "2026-07-08T19:15:26.527249+09:00"
   }
  },
  "press_names": {
