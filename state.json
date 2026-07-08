@@ -306,10 +306,13 @@
     [
      "2026-07-09T06:40:49.427105+09:00",
      "컨베이어 홀로 점검 이주노동자 참변"
+    ],
+    [
+     "2026-07-09T06:50:49.040740+09:00",
+     "휘발유 가격 경유 하락세 상승세 부탄"
     ]
    ],
    "seen_urls": [
-    "http://www.wikileaks-kr.org/news/articleView.html?idxno=189502",
     "https://www.startuptoday.co.kr/news/articleView.html?idxno=805934",
     "https://www.hankyung.com/article/2026070822016",
     "http://www.fnnews.com/news/202607081003542914",
@@ -1808,10 +1811,10 @@
     "https://news.bizwatch.co.kr/article/real_estate/2026/07/03/0021",
     "https://www.labortoday.co.kr/news/articleView.html?idxno=235605",
     "https://www.labortoday.co.kr/news/articleView.html?idxno=235587",
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=545593"
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=545593",
+    "https://www.todayenergy.kr/news/articleView.html?idxno=300127"
    ],
    "seen_titles": [
-    "[위클리오늘]'삼전닉스'랠리에국민연금웃었다…2분기국내주식평가...",
     "코스피7500선붕괴…반도체쇼크에중동리스크까지덮쳤다",
     "코스피,급락출발후낙폭축소해보합권…삼전닉스상승전환",
     "국민연금,3개월동안국장서189조벌었다",
@@ -3310,10 +3313,11 @@
     "동탄집값불붙인게,중개사들이부채질이라고?",
     "이주노동자권리를보장하는사회로",
     "[SK에코플랜트공사장]컨베이어홀로점검이주노동자또참변",
-    "SK하이닉스나스닥IPO설명회에기관투자자1천개몰려...공모수요'흥..."
+    "SK하이닉스나스닥IPO설명회에기관투자자1천개몰려...공모수요'흥...",
+    "[진단]부탄가격상승세...휘발유·경유하락세"
    ],
    "initialized": true,
-   "last_run": "2026-07-09T06:45:27.445342+09:00"
+   "last_run": "2026-07-09T06:50:49.040740+09:00"
   }
  },
  "press_names": {
