@@ -1202,12 +1202,13 @@
     [
      "2026-07-08T12:05:23.498101+09:00",
      "수익률 회복세 ELB 파생결합상품 DLB"
+    ],
+    [
+     "2026-07-08T12:10:50.019392+09:00",
+     "반도체 꺾였다 불장 고점론 이끈 고개 다시"
     ]
    ],
    "seen_urls": [
-    "https://www.dt.co.kr/article/12071643",
-    "https://view.asiae.co.kr/article/2026070716521440029",
-    "https://www.dt.co.kr/article/12071640",
     "http://www.newstomato.com/ReadNews.aspx?no=1306429&inflow=N",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1715450",
     "https://www.dt.co.kr/article/12071639",
@@ -2704,12 +2705,12 @@
     "https://www.munhwa.com/article/11601191",
     "https://www.medipana.com/news/articleView.html?idxno=414284",
     "https://m.skyedaily.com/news_view.html?ID=307455",
-    "http://www.inews24.com/view/1983491"
+    "http://www.inews24.com/view/1983491",
+    "https://www.donga.com/news/Economy/article/all/20260708/134257067/1",
+    "https://www.munhwa.com/article/11601204",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607080246&t=NN"
    ],
    "seen_titles": [
-    "89조벌어도소용없었다…삼성전자주가7%급락한이유",
-    "[포토]코스피-삼성전자-하이닉스하락마감",
-    "구윤철\"레버리지ETF보완방안협의중\"",
     "[포토]코스피-삼전·닉스하락마감",
     "코스피,반도체차익실현에7600선후퇴",
     "산은넥스트원,광주로확장…서남권스타트업정책금융거점만든다",
@@ -4206,10 +4207,13 @@
     "삼전신기록에도주가널뛰기…리스크커진다는경고음[사설]",
     "에자이,'제1회SE브릿지데이'서사회적기업협업사례공유",
     "홍콩H지수떠난돈,테슬라로…ELS투자지형도바꿨다",
-    "파생결합상품회복세⋯ELB·DLB수익률1%p↓"
+    "파생결합상품회복세⋯ELB·DLB수익률1%p↓",
+    "SK하이닉스美상장흥행조짐…UBS“美ADR사고韓주식매도해야”",
+    "“AI게임체인저엔비디아베라루빈에탑재”…삼성,eSSD양산",
+    "불장이끈반도체꺾였다…'고점론'다시고개"
    ],
    "initialized": true,
-   "last_run": "2026-07-08T12:05:23.498101+09:00"
+   "last_run": "2026-07-08T12:10:50.019392+09:00"
   }
  },
  "press_names": {
