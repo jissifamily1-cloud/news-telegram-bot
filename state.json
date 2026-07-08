@@ -1370,14 +1370,17 @@
     [
      "2026-07-08T20:01:05.722013+09:00",
      "반도체 지금이 미래를 준비할"
+    ],
+    [
+     "2026-07-08T20:05:20.539777+09:00",
+     "예능 복도에서 모션 이어 김진우 행보 필드마블"
+    ],
+    [
+     "2026-07-08T20:05:20.539777+09:00",
+     "800조 희비 가른 재생에너지 투자"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=20260708090717711044093b5d4e_1",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=167799",
-    "https://www.thescoop.co.kr/news/articleView.html?idxno=310828",
-    "https://www.chosun.com/economy/money/2026/07/08/2BVBJC35MBCRTAEMC3A6VY5XN4/",
-    "http://www.fieldnews.kr/news/articleView.html?idxno=29821",
     "https://imnews.imbc.com/news/2026/econo/article/6835833_36932.html",
     "https://www.news1.kr/finance/market-exr/6221096",
     "https://www.dt.co.kr/article/12071729",
@@ -2872,14 +2875,14 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4424033",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05402166645512552",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05405446645512552",
-    "https://www.khan.co.kr/article/202607081955005"
+    "https://www.khan.co.kr/article/202607081955005",
+    "https://www.thepublic.kr/news/articleView.html?idxno=310623",
+    "https://www.econovill.com/news/articleView.html?idxno=744675",
+    "https://www.hankyung.com/article/2026070834266",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16128044",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260709.22018002558"
    ],
    "seen_titles": [
-    "[특징주]삼성전기,글로벌악재·반도체주급락에8%대약세",
-    "SK하이닉스,美ADR상장흥행조짐\"수요몰려'몇배'초과청약\"",
-    "코스피,전날이어2%대↓…코스닥도하락",
-    "삼성전자,경제기여액177조1위…현대차·기아·LG전자순",
-    "[특징주]삼성전자·SK하이닉스,美반도체주급락..동반'약세'",
     "美반도체지수'출렁'·중동긴장속...코스피·코스닥'급락출발'",
     "구윤철,\"환율안정될것\"...SK하이닉스효과주목",
     "삼전실적·딥시크추가쇼크에반도체주하락가속...SK하이닉스미AD...",
@@ -4374,10 +4377,15 @@
     "달러-원,런던장서트럼프발언에다시1,510원대진입",
     "AI성장세지만속도는둔화…'메모리정점'공포확산",
     "'빅테크AI인프라투자여력있나'불안확산…증설경쟁에공급과잉우...",
-    "[기고]반도체,지금이미래를준비할때"
+    "[기고]반도체,지금이미래를준비할때",
+    "[뉴스브리핑]삼성전자·SK하이닉스폭등…국민연금역대최대수익",
+    "국민연금2분기국내주식평가액189조늘었다…삼성전자·SK하이닉스증...",
+    "환율소방수된SK하이닉스·일본…한달만에1490원대로[분석+]",
+    "김진우,복도에서캡모션…필드마블이어예능행보",
+    "[뉴스와현장]‘800조투자’희비가른재생에너지"
    ],
    "initialized": true,
-   "last_run": "2026-07-08T20:01:05.722013+09:00"
+   "last_run": "2026-07-08T20:05:20.539777+09:00"
   }
  },
  "press_names": {
