@@ -1354,14 +1354,13 @@
     [
      "2026-07-08T20:20:49.927783+09:00",
      "이끈 경고등 흑자 반도체가 증시에선"
+    ],
+    [
+     "2026-07-08T20:25:21.827224+09:00",
+     "야구는 오늘도 계속된다"
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/08/20260708500027?wlog_tag3=naver",
-    "https://biz.chosun.com/stock/stock_general/2026/07/08/M2ZAFCX5A5BZFLS4ZJ4VJVHDIU/",
-    "https://www.news2day.co.kr/article/20260708500039",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=91947",
-    "https://news.tf.co.kr/read/economy/2340879.htm",
     "https://www.sisajournal.com/news/articleView.html?idxno=379030",
     "https://www.getnews.co.kr/news/articleView.html?idxno=874435",
     "https://www.thepowernews.co.kr/view.php?ud=202607080916096231de3f0aa1be_7",
@@ -2856,14 +2855,14 @@
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260708.99099002568",
     "http://www.bizwnews.com/news/articleView.html?idxno=140251",
     "https://www.mk.co.kr/article/12093790",
-    "https://www.obsnews.co.kr/news/articleView.html?idxno=1529995"
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1529995",
+    "https://mhnse.com/news/articleView.html?idxno=1455952",
+    "https://www.kyeongin.com/article/1767027",
+    "https://www.econovill.com/news/articleView.html?idxno=744676",
+    "https://imnews.imbc.com/news/2026/world/article/6836012_36925.html",
+    "https://www.kyeongin.com/article/1767028"
    ],
    "seen_titles": [
-    "[모닝브리핑]미국빅테크흔드는딥시크쇼크'시즌2'...자체칩개발",
-    "SK하이닉스용인클러스터에아스콘공급…SG20%급등[특징주]",
-    "[속보]코스피,뉴욕증시쇼크에2.66%급락출발…7500선깨졌다",
-    "코스피,장초반3%대약세…7400선아래로",
-    "[서울데이터랩]개장직후인기검색종목20選",
     "‘역대급실적,주가는하락’삼성전자에…유안타證“서프라이즈강...",
     "\"삼성전자호실적에도흔들린증시…눈높이는다음분기로\"<신한투자證...",
     "[기자수첩]'오징어게임'된코스피,시장은왜'도박판'이됐나",
@@ -4358,10 +4357,15 @@
     "“SK하이닉스ADR공모,‘몇배’초과청약”반도체주변동성이변수",
     "[금융HOT뉴스]1분기파생결합증권·사채발행19.6조…'투심회복에...",
     "상승하던원화값…트럼프한마디에급락",
-    "반도체가이끈최대흑자…증시에선'경고등'"
+    "반도체가이끈최대흑자…증시에선'경고등'",
+    "\"실화입니까\"…'주식1억손실'미자,하이닉스하락에'탄식'[MHN:피드...",
+    "[기고]삼성전자반도체평택으로오게된비화와교훈",
+    "코스피5%급락하며7200선후퇴…이틀연속사이드카에증시패닉(마감...",
+    "\"SK하이닉스ADR공모,'몇배'초과청약\"",
+    "[노트북]오늘도야구는계속된다"
    ],
    "initialized": true,
-   "last_run": "2026-07-08T20:20:49.927783+09:00"
+   "last_run": "2026-07-08T20:25:21.827224+09:00"
   }
  },
  "press_names": {
