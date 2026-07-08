@@ -190,10 +190,13 @@
     [
      "2026-07-09T02:45:25.616218+09:00",
      "의향 70억 미국 수요 폭발적 달러 매수 공모에 SK하이닉스"
+    ],
+    [
+     "2026-07-09T03:40:51.739486+09:00",
+     "검은 코스피 하락 수요일 코스닥 급락한"
     ]
    ],
    "seen_urls": [
-    "https://www.econovill.com/news/articleView.html?idxno=744588",
     "https://www.tokenpost.kr/news/economy/375799",
     "https://www.smartbizn.com/news/articleView.html?idxno=148038",
     "https://www.yna.co.kr/view/AKR20260708040651008?input=1195m",
@@ -1692,10 +1695,10 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=1783499712&code=11151100&cp=nv",
     "https://www.kmib.co.kr/article/view.asp?arcid=1783501738&code=11151400&cp=nv",
     "https://www.tokenpost.kr/news/market/376056",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=587547"
+    "https://www.cbci.co.kr/news/articleView.html?idxno=587547",
+    "https://www.newsinside.kr/news/articleView.html?idxno=4824183"
    ],
    "seen_titles": [
-    "삼전닉스레버리지'대폭락'원금까지삼켜…\"투자자대부분손실구간...",
     "코스피,기관매수세에낙폭축소…7300선→7600선",
     "SKT,T월드에AI전면도입…매장검색·상담서비스개선",
     "국내100대기업경제기여액1,731조…1위는삼성전자",
@@ -3194,10 +3197,11 @@
     "SK하이닉스美상장흥행조짐…“메모리성장성시험대”",
     "HBM쏠림의역설…‘범용공백’파고드는중국산메모리",
     "SK하이닉스,미국공모에'폭발적수요'...70억달러매수의향",
-    "국고채금리,장중상승폭축소…원화강세에약세흐름완화"
+    "국고채금리,장중상승폭축소…원화강세에약세흐름완화",
+    "'검은수요일'코스피5.3%급락한7246…코스닥5.6%하락"
    ],
    "initialized": true,
-   "last_run": "2026-07-09T03:35:22.749560+09:00"
+   "last_run": "2026-07-09T03:40:51.739486+09:00"
   }
  },
  "press_names": {
