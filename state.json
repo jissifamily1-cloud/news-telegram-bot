@@ -522,14 +522,25 @@
     [
      "2026-07-09T00:03:12.206670+09:00",
      "10개 매도세 상위 종목 시가총액 외국인 리스트 집중된"
+    ],
+    [
+     "2026-07-09T00:05:23.763714+09:00",
+     "SK하이닉스 레버리지 개인 삼성 급락 투자자 하락에 ETF 저가 주가"
+    ],
+    [
+     "2026-07-09T00:05:23.763714+09:00",
+     "울산 팔걷어 추가유치 데이터센터"
+    ],
+    [
+     "2026-07-09T00:05:23.763714+09:00",
+     "데이터센터 유치 달렸다 수요자 맞춤 전략"
+    ],
+    [
+     "2026-07-09T00:05:23.763714+09:00",
+     "기업들 창출한 경제가치 크게 줄었 경제기여액 울산 총액 경영활동으로"
     ]
    ],
    "seen_urls": [
-    "https://news.mtn.co.kr/news-detail/2026070809311076982",
-    "https://hbnpress.com/news/view/1065572913647970",
-    "https://www.newsis.com/view/NISX20260708_0003700195",
-    "https://biz.chosun.com/it-science/ict/2026/07/08/6MROQVQEO5GQ7LN7VXWCSFREU4/",
-    "https://biz.sbs.co.kr/article_hub/20000321259?division=NAVER",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=272636",
     "https://www.newsway.co.kr/news/view?ud=2026070809211007412",
     "https://www.todayenergy.kr/news/articleView.html?idxno=300058",
@@ -2024,14 +2035,14 @@
     "https://www.kwnews.co.kr/article/20260708501169",
     "https://www.g-enews.com/view.php?ud=202607080951452216906806b77b_1",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=81654",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=81657"
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=81657",
+    "https://www.joongang.co.kr/article/25443570",
+    "https://www.tokenpost.kr/news/market/376026",
+    "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061658",
+    "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061616",
+    "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061642"
    ],
    "seen_titles": [
-    "코스피,7600선회복시도…삼성전자약세·SK하이닉스강세",
-    "UBS“SK하이닉스ADR사고한국주식은팔아라”",
-    "100대기업경제기여액1731조원돌파..삼성전자‘부동의1위’",
-    "코스피,2.66%하락출발…7,300선까지급락",
-    "반도체급락·중동리스크겹악재…코스피,장초반7500선공방",
     "반도체저승사자'모건스탠리',삼성전자·하이닉스주식비중축소권...",
     "'삼전닉스'열풍에…반도체계약학과지원자'의약계열'도전↓",
     "SKT,전국T월드매장에AI도입…상담내용요약하고대리점컨설팅",
@@ -3526,10 +3537,15 @@
     "“AI데이터센터입지경쟁력높이기위해서는영서·영동차별화전략...",
     "[김대호진단]초격차의승부사들\"반도체열전\"③마이크론...트럼프...",
     "[심층분석]반도체·이차전지시총상위주직격탄…실적피크아웃공포...",
-    "[클로즈업]외국인매도세집중된시가총액상위10개종목리스트"
+    "[클로즈업]외국인매도세집중된시가총액상위10개종목리스트",
+    "SK하이닉스미증시상장기대감…환율,한달만에1500원밑으로",
+    "삼성·SK하이닉스주가하락에레버리지ETF급락…개인투자자‘저가...",
+    "울산,데이터센터추가유치팔걷어",
+    "[사설]SKAI데이터센터유치,'수요자맞춤전략'에달렸다",
+    "울산기업들경제기여액(경영활동으로창출한경제가치총액)크게줄었..."
    ],
    "initialized": true,
-   "last_run": "2026-07-09T00:03:12.206670+09:00"
+   "last_run": "2026-07-09T00:05:23.763714+09:00"
   }
  },
  "press_names": {
