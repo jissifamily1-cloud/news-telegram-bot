@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-08T15:15:26.127286+09:00",
-     "서비스 SKT 고객 혁신 시동 전국 월드 매장"
-    ],
-    [
-     "2026-07-08T15:15:26.127286+09:00",
-     "9연패 이끌었다 김민준 퀄리티스타트 SSG 탈출 데뷔"
-    ],
-    [
-     "2026-07-08T15:15:26.127286+09:00",
-     "유증 씨에스 사내이사에 배정 캐시카우 15억 전량 최대주주"
-    ],
-    [
      "2026-07-08T15:20:53.295631+09:00",
      "BYD 인프라 업계 중고차 중국차 지커 부족 공습에도 렌터카"
     ],
@@ -1181,8 +1169,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/08/2026070800052.html",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682238",
     "https://www.news1.kr/society/education/6221108",
     "http://www.newstomato.com/ReadNews.aspx?no=1306495&inflow=N",
     "https://kpenews.com/View.aspx?No=4140827",
@@ -2680,11 +2666,11 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008648355&plink=ORI&cooper=NAVER",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=61348",
     "https://www.kgnews.co.kr/news/article.html?no=903218",
-    "https://www.hankyung.com/article/202607083846i"
+    "https://www.hankyung.com/article/202607083846i",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260708211614duB",
+    "http://www.yonhapnewstv.co.kr/news/MYH2026070821153217T"
    ],
    "seen_titles": [
-    "코스피7500선붕괴…2.66%내린7450선출발",
-    "[CEO직썰]장종환NH농협캐피탈대표\"어떤상황에서도중단없는금융...",
     "국내100대기업작년경제기여액1731조원전년비7.4%↑…삼성전자1...",
     "뉴욕발반도체급락에증시'출렁'…시총상위주줄줄이하락",
     "유가급등·반도체약세겹악재…코스피7500선'위태'",
@@ -4182,10 +4168,12 @@
     "\"SK하이닉스ADR공모,'몇배'초과청약예상\"",
     "호르무즈가유가흔들고,AI는증시눌렀다",
     "이재명·트럼프군함협력본격화…美,K조선역량확인",
-    "같은SK하이닉스인데…ADR이본주보다비싸질까?"
+    "같은SK하이닉스인데…ADR이본주보다비싸질까?",
+    "원·달러환율,두달만에1,500원아래로",
+    "반도체피크아웃·중동리스크…증시'검은수요일'"
    ],
    "initialized": true,
-   "last_run": "2026-07-08T21:15:26.031417+09:00"
+   "last_run": "2026-07-08T21:20:51.088361+09:00"
   }
  },
  "press_names": {
