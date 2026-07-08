@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-08T14:55:19.187094+09:00",
-     "팽팽 랠리 이대로 반도체 찬반 침몰하나 정점 삼전닉스"
-    ],
-    [
-     "2026-07-08T14:55:19.187094+09:00",
-     "SK하닉 공모 몇배 ADR 초과청약 변동성이 변수"
-    ],
-    [
-     "2026-07-08T14:55:19.187094+09:00",
-     "오나 버티기 엑소더스 개미들 코스피 외국인 한계점"
-    ],
-    [
      "2026-07-08T15:01:07.917066+09:00",
      "장비 승부수 반도체레이 마이크론 커진다 후공정 국내 띄운 HBM 수요"
     ],
@@ -1230,15 +1218,21 @@
     [
      "2026-07-08T20:45:26.767064+09:00",
      "박용선 용수 SK그룹 데이터센터 데이터 전기 완비 포항시장"
+    ],
+    [
+     "2026-07-08T20:55:21.527956+09:00",
+     "청주 반도체특별법 탑승 속도낸다"
+    ],
+    [
+     "2026-07-08T20:55:21.527956+09:00",
+     "돌봄체계 활용 노년 일상화 논의"
+    ],
+    [
+     "2026-07-08T20:55:21.527956+09:00",
+     "나왔다 청주 청사진 시민특별시"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260708090743436",
-    "http://www.metroseoul.co.kr/article/20260708500068",
-    "https://biz.chosun.com/stock/stock_general/2026/07/08/HG2RDFQ5ANBPVJXKTZVD62XGGQ/",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4423865",
-    "https://www.kpinews.kr/newsView/1065571600192644",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1168055",
     "https://it.chosun.com/news/articleView.html?idxno=2023092165364",
     "https://www.seoul.co.kr/news/economy/securities/2026/07/08/20260708500036?wlog_tag3=naver",
     "http://www.nongaek.com/news/articleView.html?idxno=96004",
@@ -2732,15 +2726,15 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008648273&plink=ORI&cooper=NAVER",
     "https://www.eroun.net/news/articleView.html?idxno=84995",
     "http://www.dailyesports.com/view.php?ud=202607082046189726b91e133c1f_27",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000048628"
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000048628",
+    "https://www.yna.co.kr/view/AKR20260707176352003?input=1195m",
+    "http://www.cctimes.kr/news/articleView.html?idxno=915717",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607080423&t=NN",
+    "http://www.cctimes.kr/news/articleView.html?idxno=915715",
+    "http://www.cctimes.kr/news/articleView.html?idxno=915709",
+    "http://www.cctimes.kr/news/articleView.html?idxno=915720"
    ],
    "seen_titles": [
-    "삼성전자,AISSD양산승부수…주가하락에도반도체기대감은여전",
-    "SK텔레콤,전국T월드매장AI도입…고객서비스고도화",
-    "당정,이달중'메가특구특별법'발의…서남권반도체클러스터지원",
-    "\"반도체호황에기업여유자금급증…주식·펀드로이동가시화\"<키움證...",
-    "[개장시황]코스피,美반도체주약세·중동불안에2%대하락출발…74...",
-    "코스피,연일급락출발…2%대하락하며7500선밑으로",
     "7월말빅테크CAPEX가분수령…코스피‘W자’박스권전망",
     "[자산토큰화②]오픈AI지분도,50배레버리지도…체인에올라탄자산...",
     "대구영진전문대일본취업반출국",
@@ -4234,10 +4228,16 @@
     "경상수지'역대최대흑자'경신에도…증시는'동반하락'",
     "박용선포항시장\"전기·용수·데이터완비…SK그룹AI데이터센터유...",
     "[MSI]G2에패한T1,창단첫대회4강좌절",
-    "호남반도체공장,이르면올해말착공…2030년양산"
+    "호남반도체공장,이르면올해말착공…2030년양산",
+    "미국,한국조선사에전투함정보요청…정상간건조협력논의도(종합2보...",
+    "이연희의원충북대표위원선임",
+    "\"이란상대는시간낭비\"…'전운고조'트럼프한마디에야간장서'26만전...",
+    "청주반도체특별법탑승속도낸다",
+    "AI일상화…노년삶·돌봄체계활용논의",
+    "'시민특별시청주'청사진나왔다"
    ],
    "initialized": true,
-   "last_run": "2026-07-08T20:50:50.626543+09:00"
+   "last_run": "2026-07-08T20:55:21.527956+09:00"
   }
  },
  "press_names": {
