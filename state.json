@@ -694,10 +694,13 @@
     [
      "2026-07-08T23:10:56.591565+09:00",
      "저승사자 모건스탠리 반도체"
+    ],
+    [
+     "2026-07-08T23:15:25.217380+09:00",
+     "177조 1위 100대 기업 삼성전자 1731조원 압도적 경제기여액"
     ]
    ],
    "seen_urls": [
-    "http://www.newsian.co.kr/news/articleView.html?idxno=91948",
     "https://www.viva100.com/article/20260708500276",
     "https://www.sentv.co.kr/article/view/sentv202607080021",
     "https://www.cstimes.com/news/articleView.html?idxno=712630",
@@ -2196,10 +2199,10 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4424037",
     "https://www.tokenpost.kr/news/market/376010",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607080308&t=NN",
-    "https://www.segye.com/newsView/20260708520251?OutUrl=naver"
+    "https://www.segye.com/newsView/20260708520251?OutUrl=naver",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=265715"
    ],
    "seen_titles": [
-    "중동불안에투심급랭…코스피731개종목하락출발",
     "SK텔레콤,전국T월드매장에AI전면도입…오프라인고객경험혁신",
     "통신업계,전국T월드매장'AI전환'·발달장애아동위기가정지원",
     "반도체·자동차호황에경제기여액7.4%↑…삼성전자177조'압도적'",
@@ -3698,10 +3701,11 @@
     "달러-원,뉴욕장서1,510원초반대거래",
     "중동긴장과반도체불확실성,코스피·코스닥5%대급락",
     "SK하이닉스ADR'개봉박두'…韓개미'눈물'닦을까[B급기자의B급리포트...",
-    "[설왕설래]‘반도체저승사자’모건스탠리"
+    "[설왕설래]‘반도체저승사자’모건스탠리",
+    "100대기업경제기여액1731조원…삼성전자177조압도적1위"
    ],
    "initialized": true,
-   "last_run": "2026-07-08T23:10:56.591565+09:00"
+   "last_run": "2026-07-08T23:15:25.217380+09:00"
   }
  },
  "press_names": {
