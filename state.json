@@ -650,18 +650,13 @@
     [
      "2026-07-09T08:25:21.871525+09:00",
      "탐색 외환브 환율 하이닉스 수급 방향성 기대 중동 긴장 1500원에서"
+    ],
+    [
+     "2026-07-09T08:31:02.631297+09:00",
+     "리먼 이란발 반등 시도 이런 사태 딛고 코스피 수준 내려온 노이즈"
     ]
    ],
    "seen_urls": [
-    "https://www.seoulfn.com/news/articleView.html?idxno=632928",
-    "https://www.seoultimes.news/news/article.html?no=2000097532",
-    "https://www.mediapen.com/news/view/1108870",
-    "https://www.electimes.com/news/articleView.html?idxno=370027",
-    "https://dealsite.co.kr/articles/164967",
-    "https://www.mt.co.kr/stock/2026/07/08/2026070810425441175",
-    "https://www.techm.kr/news/articleView.html?idxno=153203",
-    "http://digitalchosun.dizzo.com/site/data/html_dir/2026/07/08/2026070880052.html",
-    "http://www.finomy.com/news/articleView.html?idxno=257017",
     "https://www.cbci.co.kr/news/articleView.html?idxno=587405",
     "http://www.financialreview.co.kr/news/articleView.html?idxno=43395",
     "https://news.tf.co.kr/read/economy/2340990.htm",
@@ -2152,18 +2147,18 @@
     "https://www.newspim.com/news/view/20260709000081",
     "https://www.lecturernews.com/news/articleView.html?idxno=205945",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02735526645512880",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=02712566645512880"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02712566645512880",
+    "https://www.munhwa.com/article/11601358",
+    "https://www.cstimes.com/news/articleView.html?idxno=712779",
+    "https://www.tjb.co.kr/news05/bodo/view/id/100667",
+    "https://www.etoday.co.kr/news/view/2601840",
+    "http://www.boannews.com/media/view.asp?idx=144576&kind=6",
+    "https://www.newspim.com/news/view/20260709000091",
+    "https://www.newspim.com/news/view/20260709000083",
+    "https://www.newspim.com/news/view/20260709000082",
+    "https://www.sedaily.com/article/20065560"
    ],
    "seen_titles": [
-    "\"국장팔고나스닥사라\"…UBS,SK하이닉스ADR갈아타기권고",
-    "[특징주]실적기대되살아난증권주강세",
-    "'800조'반도체투자에광주부동산도들썩…정부,규제카드꺼내나",
-    "농협캐피탈,클라우드기반IT재해복구센터구축",
-    "SKT,T월드매장에AI전면도입···2027년까지단계적확대",
-    "SK텔레콤,T월드매장에AI입힌다…\"매장검색부터상담까지바뀐다\"",
-    "\"널띄기코스피겁나네\"…유동자금은행금고몰린다",
-    "도로공사,2026년고속도로전기차충전소91개소공모…충전기기준낮...",
-    "[IT는지금]네이버,AI안전성체계2.0공개外",
     "7300부딪치니튀어올랐지만…\"낙폭과대\"vs\"반도체피크아웃\"",
     "프랜차이즈화된랜섬웨어생태계...SK쉴더스\"특정조직보다행위기반...",
     "공정위,한화이어CJ상표권사용료현장조사",
@@ -3654,10 +3649,19 @@
     "[미국특징주]\"SK하이닉스美ADR공모청약경쟁률7배이상\"",
     "[코스피·코스닥지수]'반도체고점론'에흔들린코스피…낙폭만회반...",
     "SK바이오사이언스,WHO심사통과...글로벌GMP경쟁력재입증",
-    "중동긴장속하이닉스수급기대…환율1500원에서방향성탐색[외환브..."
+    "중동긴장속하이닉스수급기대…환율1500원에서방향성탐색[외환브...",
+    "울산대학·기업,AI데이터센터운영전문인력양성맞손…시,“인재양...",
+    "\"SK하이닉스ADR공모에7배청약…37조원조달전망\"",
+    "SK하이닉스ADR공모에7배청약흥행…수요예측에260조원몰려",
+    "최태원,SK하이닉스나스닥상장기념식참석위해방미…AI빅테크회동...",
+    "[배종찬의보안빅데이터]사람을때릴수도있는해킹로봇위협",
+    "[모닝리포트]\"엘티씨,SK하이닉스투자확대수혜…세정장비·소재동...",
+    "[모닝리포트]\"에이직랜드,SK하이닉스eSSD파트너로도약…양산성장...",
+    "[모닝리포트]\"코스피,역사적저평가구간진입…분할매수전략유효...",
+    "‘리먼사태수준’내려온코스피,이란발노이즈딛고반등시도[이런..."
    ],
    "initialized": true,
-   "last_run": "2026-07-09T08:25:21.871525+09:00"
+   "last_run": "2026-07-09T08:31:02.631297+09:00"
   }
  },
  "press_names": {
