@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-08T20:10:50.353251+09:00",
-     "나스닥 글로벌 가는 SK하이닉스에 오픈런"
-    ],
-    [
-     "2026-07-08T20:10:50.353251+09:00",
-     "민생 대도약하자 사회안전망도"
-    ],
-    [
-     "2026-07-08T20:10:50.353251+09:00",
-     "발판 부산 도약의 해양수도 40년만의 귀환 흥아해운"
-    ],
-    [
      "2026-07-08T20:15:26.046135+09:00",
      "파생결합증권 투심 1분기 사채 발행 회복에 6조"
     ],
@@ -285,7 +273,6 @@
     ]
    ],
    "seen_urls": [
-    "https://economist.co.kr/article/view/ecn202607080005",
     "https://www.newsis.com/view/NISX20260708_0003700289",
     "http://www.fnnews.com/news/202607080942393073",
     "http://www.yonhapnewstv.co.kr/news/AKR20260708094839kW2",
@@ -1784,10 +1771,10 @@
     "https://weeklytrade.co.kr/news/view.html?section=1&category=6&no=100539",
     "https://www.thebilliards.kr/news/articleView.html?idxno=31393",
     "https://www.tokenpost.kr/news/market/376048",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1783493135&code=11151400&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=1783493135&code=11151400&cp=nv",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1783499712&code=11151100&cp=nv"
    ],
    "seen_titles": [
-    "SK하이닉스주가,7월8일장중2,259,000원2.64%상승",
     "SK텔레콤,유통망전반에AI솔루션적용…2027년까지맞춤형검색구현",
     "전원주,고관절수술앞두고유서작성\"쓴소리도사랑\"",
     "[도마오른에너지공기업②]실적악화에소송리스크까지···한국가...",
@@ -3286,10 +3273,11 @@
     "NH농협캐피탈장종환대표\"중단없는금융서비스\"...클라우드기반IT...",
     "'연패탈출'휴온스,최성원모친상비보속웰컴저축은행꺾고PBA팀리...",
     "코스피·코스닥,반도체투자위축에5%이상급락",
-    "100대기업경제기여액1731조…1위삼성전자2·3위현대차·기아"
+    "100대기업경제기여액1731조…1위삼성전자2·3위현대차·기아",
+    "SK하이닉스美상장흥행조짐…“메모리성장성시험대”"
    ],
    "initialized": true,
-   "last_run": "2026-07-09T02:05:21.920173+09:00"
+   "last_run": "2026-07-09T02:10:53.252386+09:00"
   }
  },
  "press_names": {
