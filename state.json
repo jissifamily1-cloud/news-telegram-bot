@@ -858,24 +858,21 @@
     [
      "2026-07-08T09:25:20.591734+09:00",
      "파란불 나홀로 상승 기아"
+    ],
+    [
+     "2026-07-08T09:30:56.552180+09:00",
+     "어울리지 영원무역은 됐나 TSMC 아웃도어 기업가치 않는 타깃이"
+    ],
+    [
+     "2026-07-08T09:30:56.552180+09:00",
+     "스타트업 연속 정글 땡스카본 중기부 선정 AWS 초격차"
+    ],
+    [
+     "2026-07-08T09:30:56.552180+09:00",
+     "텍사스로 삼성 가는"
     ]
    ],
    "seen_urls": [
-    "http://www.thebigdata.co.kr/view.php?ud=2026070714153224890ecbf9426b_23",
-    "http://www.fnnews.com/news/202607071434234739",
-    "https://www.dt.co.kr/article/12071584",
-    "https://www.newstopkorea.com/news/articleView.html?idxno=46084",
-    "https://www.youthdaily.co.kr/news/article.html?no=222459",
-    "https://www.dkilbo.com/news/articleView.html?idxno=547963",
-    "https://www.mk.co.kr/article/12092323",
-    "https://sports.khan.co.kr/article/202607071451003?pt=nv",
-    "https://www.hankyung.com/article/202607070427i",
-    "https://www.etoday.co.kr/news/view/2601143",
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=79769",
-    "https://www.econovill.com/news/articleView.html?idxno=744508",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092165316",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=141168",
-    "https://www.sidae.com/article/2026070714455238087",
     "https://www.yna.co.kr/view/PYH20260707123300013?input=1196m",
     "https://www.goodkyung.com/news/articleView.html?idxno=288942",
     "https://www.betanews.net/article/view/beta202607070082",
@@ -2360,24 +2357,24 @@
     "https://www.dt.co.kr/article/12071732",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249656&CMPT_CD=P0010",
     "http://www.fnnews.com/news/202607080914591453",
-    "https://www.mt.co.kr/stock/2026/07/08/2026070809181046547"
+    "https://www.mt.co.kr/stock/2026/07/08/2026070809181046547",
+    "https://www.hankyung.com/article/2026070820076",
+    "https://www.kfenews.co.kr/news/articleView.html?idxno=659963",
+    "https://www.kado.net/news/articleView.html?idxno=2060106",
+    "http://www.newsdream.kr/news/articleView.html?idxno=114169",
+    "https://www.joongangenews.com/news/articleView.html?idxno=531346",
+    "https://biz.heraldcorp.com/article/10801708",
+    "https://www.news1.kr/finance/general-stock/6221127",
+    "https://en.yna.co.kr/view/AEN20260708002151320?input=2106m",
+    "https://www.etoday.co.kr/news/view/2601398",
+    "http://www.00news.co.kr/news/articleView.html?idxno=104988",
+    "https://www.ajunews.com/view/20260708085549398",
+    "https://www.news1.kr/it-science/cc-newmedia/6221117",
+    "https://news.mtn.co.kr/news-detail/2026070710525665733",
+    "https://www.todayenergy.kr/news/articleView.html?idxno=300059",
+    "https://view.asiae.co.kr/article/2026070808363727002"
    ],
    "seen_titles": [
-    "[데스크칼럼]소비양극화의문제점",
-    "[위클리오늘]산업일반소식_보람컨벤션,SK매직(7.7)",
-    "SK텔레콤,'포켓몬런'미션완수자대상프로모카드배부",
-    "삼성전자,2분기영업이익으로세계1위...89.4조",
-    "SK텔레콤,포켓몬러닝완주자11만명카드배부맡는다",
-    "'역대급실적'에도주가빠지는삼성전자…왜?",
-    "삼성전자,영업익89.4조…1년만에19배,\"메모리호황지속\"",
-    "흥아해운도부산이전동참...SK해운·에이치라인해운·HMM까지",
-    "‘빚투개미vs셀온외인’삼전닉스전쟁…극과극반도체전쟁승자는...",
-    "'역대급실적'삼성전자,시장기대는더높다",
-    "사이드카·서킷브레이커'연쇄발동'…코스피8%대폭락",
-    "영주시,SK스페셜티·KT&G등핵심기업과상생발전머리맞대",
-    "“파티끝나면개미만남아,오징어게임될수도”…WSJ가韓증시에날...",
-    "‘벼랑끝기사회생’한국농구,AG희망가…‘플랜B’로일본꺾고자...",
-    "반도체+월배당까지...TIGER반도체TOP10커버드콜액티브,커버드콜수익률...",
     "삼성전자,분기영업이익엔비디아제치고세계1위…시총은12위",
     "\"美·英투자사3곳,SK하이닉스ADR최대70억달러인수의사\"",
     "외국인3조원넘게던졌다...코스피장중8%급락에서킷브레이커발동",
@@ -3862,10 +3859,25 @@
     "코스피,삼성전자發충격에7490선까지후퇴…삼성전기·생명7%↓",
     "흥아해운도부산행합류...4번째이전기업",
     "우린'코스피1만'외치는데…해외선'오징어게임'경고",
-    "기아,파란불속나홀로1%대상승"
+    "기아,파란불속나홀로1%대상승",
+    "외국인이또지수끌어내린다…코스피,장초반2%넘게하락",
+    "코스피,전일급락이어7550선약세",
+    "코스피,2.6%급락출발7400선등락…코스닥도2%넘게밀려",
+    "[시황]코스피,장초반약세…삼전닉스동반하락",
+    "[개장시황]美이란재공습…국내증시하락출발",
+    "한앤코,이동춘·조성관수석부사장승진…‘기업밸류업·신규투자’...",
+    "美증시급락·중동불안겹악재…코스피장초반또7400선붕괴[개장시...",
+    "(LEAD)Seoulsharesopenloweroncontinuedtechlosses",
+    "코스피,반도체쇼크·중동긴장에7500선붕괴",
+    "[김현철의美증시]삼성전자역대급실적에도급락...AI반도체거품론",
+    "日언론\"삼성메모리초호황,가격상승·통상마찰부메랑될수도\"",
+    "\"T월드에AI에이전트가\"…SKT,전국매장에AI도입",
+    "'아웃도어TSMC'에어울리지않는기업가치…영원무역은왜타깃이됐나...",
+    "땡스카본,중기부'초격차스타트업1000+'·AWS'정글'연속선정",
+    "[초동시각]텍사스로가는삼성"
    ],
    "initialized": true,
-   "last_run": "2026-07-08T09:25:20.591734+09:00"
+   "last_run": "2026-07-08T09:30:56.552180+09:00"
   }
  },
  "press_names": {
