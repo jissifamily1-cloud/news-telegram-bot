@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-08T14:20:49.191872+09:00",
-     "대기업 가속화 부산 축소 건설사 우려 잇따라 탈부산"
-    ],
-    [
-     "2026-07-08T14:20:49.191872+09:00",
-     "코스피지수 7300선도 하락에 삼전닉스 던졌다 개미들도 가까이"
-    ],
-    [
      "2026-07-08T14:25:22.711082+09:00",
      "확대 공정위 전면 마무리 강조 4대 3차 협력사까지 상생협약"
     ],
@@ -1358,11 +1350,13 @@
     [
      "2026-07-08T20:15:26.046135+09:00",
      "파생결합증권 투심 1분기 사채 발행 회복에 6조"
+    ],
+    [
+     "2026-07-08T20:20:49.927783+09:00",
+     "이끈 경고등 흑자 반도체가 증시에선"
     ]
    ],
    "seen_urls": [
-    "https://www.gukjenews.com/news/articleView.html?idxno=3629485",
-    "https://www.sentv.co.kr/article/view/sentv202607080013",
     "https://www.seoul.co.kr/news/economy/securities/2026/07/08/20260708500027?wlog_tag3=naver",
     "https://biz.chosun.com/stock/stock_general/2026/07/08/M2ZAFCX5A5BZFLS4ZJ4VJVHDIU/",
     "https://www.news2day.co.kr/article/20260708500039",
@@ -2860,11 +2854,11 @@
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260709.22019002551",
     "https://www.hankyung.com/article/2026070838477",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260708.99099002568",
-    "http://www.bizwnews.com/news/articleView.html?idxno=140251"
+    "http://www.bizwnews.com/news/articleView.html?idxno=140251",
+    "https://www.mk.co.kr/article/12093790",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1529995"
    ],
    "seen_titles": [
-    "SK하이닉스美상장흥행조짐…블룸버그“ADR공모몇배초과청약”",
-    "SKT,전국T월드매장'AI전환'시동…매장용AI에이전트도입",
     "[모닝브리핑]미국빅테크흔드는딥시크쇼크'시즌2'...자체칩개발",
     "SK하이닉스용인클러스터에아스콘공급…SG20%급등[특징주]",
     "[속보]코스피,뉴욕증시쇼크에2.66%급락출발…7500선깨졌다",
@@ -4362,10 +4356,12 @@
     "[사설]흥아해운40년만의귀환,부산해양수도도약의발판",
     "외신\"SK하이닉스ADR공모,‘몇배’달하는초과청약몰려\"",
     "“SK하이닉스ADR공모,‘몇배’초과청약”반도체주변동성이변수",
-    "[금융HOT뉴스]1분기파생결합증권·사채발행19.6조…'투심회복에..."
+    "[금융HOT뉴스]1분기파생결합증권·사채발행19.6조…'투심회복에...",
+    "상승하던원화값…트럼프한마디에급락",
+    "반도체가이끈최대흑자…증시에선'경고등'"
    ],
    "initialized": true,
-   "last_run": "2026-07-08T20:16:03.445818+09:00"
+   "last_run": "2026-07-08T20:20:49.927783+09:00"
   }
  },
  "press_names": {
