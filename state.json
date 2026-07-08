@@ -1241,10 +1241,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260707130151008?input=1195m",
-    "https://isplus.com/article/view/isp202607070201",
-    "https://www.kukinews.com/article/view/kuk202607070119",
-    "http://www.newsprime.co.kr/news/article.html?no=739459",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=545542",
     "https://www.munhwa.com/article/11600943",
     "https://view.asiae.co.kr/article/2026070715470992334",
@@ -2740,13 +2736,13 @@
     "https://www.mk.co.kr/article/12093163",
     "https://nownews.seoul.co.kr/news/newsView.php?id=20260708601007&wlog_tag3=naver",
     "https://view.asiae.co.kr/article/2026070811191402900",
-    "https://www.dt.co.kr/article/12071770"
+    "https://www.dt.co.kr/article/12071770",
+    "https://www.mt.co.kr/world/2026/07/08/2026070809190281461",
+    "https://www.newsen.com/news_view.php?uid=202607081056100310",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=265553",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260708.99099002273"
    ],
    "seen_titles": [
-    "적자늪빠진대기업이커머스'체질개선'시급",
-    "코스피,급락에사이드카·서킷발동…4.9%↓7,600선(종합)",
-    "[오피셜]KT,5라운더이정범영입...키움3연전동행예정",
-    "이찬진,빚투확산에경고…“가계재무건전성심각하게훼손할수도”",
     "박수현충남지사\"392조첨단산업투자,충청광역연합으로뒷받침\"",
     "WSJ,한국증시과열경고…삼전닉스쏠림에변동성확대",
     "상장가마저무너졌다…단일종목래버리지하루에만20%안팎폭락",
@@ -4242,10 +4238,14 @@
     "SamsungElec,SKhynixmixedafterovernightplungeinU.S.techstocks",
     "“삼성·SK에밀리더니”…일본이한국에꺼낸‘반도체경고’[핫이슈...",
     "코스피,다시2%대하락…코스닥은800선밑으로",
-    "토지거래허가구역비껴간이천…‘이천중리금성백조예미지’계약훈..."
+    "토지거래허가구역비껴간이천…‘이천중리금성백조예미지’계약훈...",
+    "UBS\"SK하이닉스美ADR사고한국본주팔아라\"",
+    "고점판독기미자,SK하이닉스폭락에경제방송섭외까지“♥김태현이...",
+    "\"대기줄없이상담가능\"SKT,전국T월드매장에'AI'도입…오는9월목...",
+    "국내100대기업경제기여액1731조…삼성전자1위"
    ],
    "initialized": true,
-   "last_run": "2026-07-08T11:25:21.182597+09:00"
+   "last_run": "2026-07-08T11:30:56.603819+09:00"
   }
  },
  "press_names": {
