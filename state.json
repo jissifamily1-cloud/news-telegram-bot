@@ -818,12 +818,17 @@
     [
      "2026-07-08T22:30:59.691921+09:00",
      "충격 진입에 하이닉스 실화입니까 100만원대 미자"
+    ],
+    [
+     "2026-07-08T22:40:50.295707+09:00",
+     "투매 중동 리스크 반도체 코스피 코스 겹쳤다"
+    ],
+    [
+     "2026-07-08T22:40:50.295707+09:00",
+     "시장서 돌풍 내수용 벗어난 배터리의 전기차 역습 글로벌"
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/market/375791",
-    "https://www.yna.co.kr/view/AKR20260708034100009?input=1195m",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682265",
     "https://magazine.hankyung.com/business/article/202607081954b",
     "https://www.seoulfn.com/news/articleView.html?idxno=632900",
     "https://biz.heraldcorp.com/article/10801720",
@@ -2320,12 +2325,12 @@
     "http://www.00news.co.kr/news/articleView.html?idxno=104999",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605857",
     "https://www.nocutnews.co.kr/news/6545357",
-    "https://www.newsis.com/view/NISX20260708_0003701624"
+    "https://www.newsis.com/view/NISX20260708_0003701624",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=849137",
+    "https://www.mediawatch.kr/news/article.html?no=260324",
+    "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307064"
    ],
    "seen_titles": [
-    "[1보]코스피,뉴욕발반도체쇼크에장중7360선까지후퇴",
-    "코스피,美반도체주약세·중동리스크에2%대급락…7500선붕괴",
-    "오늘도삼성전자파란불,7500선등락코스피…환율1516.10원",
     "SKT,T월드에AI전면도입…오프라인고객경험혁신",
     "[국내증시개장시황]국내증시약세지속,삼성전자등하락",
     "UBS\"SK하이닉스ADR사고,서울주식은팔아라\"",
@@ -3822,10 +3827,13 @@
     "[기자의눈]자본생태계망친단일종목레버리지ETF",
     "반도체계약학과추진…인재선순환기대",
     "롯데칠성,물에타먹는'게토레이파우더'출시",
-    "미자,하이닉스100만원대진입에충격…\"실화입니까\""
+    "미자,하이닉스100만원대진입에충격…\"실화입니까\"",
+    "기술개발사업화,구미반도체기업위한맞춤형인프라",
+    "[26.7.8증시인싸잇]반도체투매·중동리스크겹쳤다…코스피·코스...",
+    "'내수용'벗어난中전기차·배터리의역습…글로벌시장서돌풍"
    ],
    "initialized": true,
-   "last_run": "2026-07-08T22:35:37.487454+09:00"
+   "last_run": "2026-07-08T22:40:50.295707+09:00"
   }
  },
  "press_names": {
