@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-08T06:50:50.524861+09:00",
-     "산단 기업만 반도체 정주 여건 아냐 성공 열쇠는 내려오면"
-    ],
-    [
-     "2026-07-08T06:55:20.548237+09:00",
-     "원유허가 3척 호르무즈 철회 이란 피격"
-    ],
-    [
-     "2026-07-08T06:55:20.548237+09:00",
-     "농협을 전리품처럼 다루지 정권의 말라"
-    ],
-    [
-     "2026-07-08T06:55:20.548237+09:00",
-     "고쳐줄 센터 재규어랜드로버 착수 실태 조사 이탈"
-    ],
-    [
-     "2026-07-08T06:55:20.548237+09:00",
-     "배신 원금 꿈이 단일종목 수익 2배 손실 레버리지의"
-    ],
-    [
      "2026-07-08T07:05:21.155273+09:00",
      "코웨이 롯데렌터카 브랜드 SK매직 렌탈 1위"
     ],
@@ -1178,14 +1158,25 @@
     [
      "2026-07-08T12:50:48.623996+09:00",
      "창단공연 혜안 신한금융 자산관리서 신한은행 SOL레미오"
+    ],
+    [
+     "2026-07-08T12:55:20.709682+09:00",
+     "1000조 영업익 비메모리 누적 삼성전자 내년까지 실적 사상"
+    ],
+    [
+     "2026-07-08T12:55:20.709682+09:00",
+     "산정 4사 공정위 담합 정유 과징금 폭탄 의혹 맞나 2조원"
+    ],
+    [
+     "2026-07-08T12:55:20.709682+09:00",
+     "호남 클러스터 구윤철 신속 반도체 메가프로젝트 진행 후속절차"
+    ],
+    [
+     "2026-07-08T12:55:20.709682+09:00",
+     "투자 월가 올린 않는다 축소설 줄이진 쏘아 메타가"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/AKR20260707170038Xp8",
-    "https://www.newspim.com/news/view/20260707001118",
-    "https://www.etnews.com/20260707000393",
-    "http://www.queen.co.kr/news/articleView.html?idxno=459919",
-    "https://www.newscj.com/news/articleView.html?idxno=3415203",
     "https://www.getnews.co.kr/news/articleView.html?idxno=874402",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=848810",
     "https://www.kmib.co.kr/article/view.asp?arcid=0030076611&code=61141511&cp=nv",
@@ -2680,14 +2671,14 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16127654",
     "https://www.bigtanews.co.kr/article/view/big202607080016",
     "https://www.koreaittimes.com/news/articleView.html?idxno=155038",
-    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2225720"
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2225720",
+    "https://www.thepublic.kr/news/articleView.html?idxno=310507",
+    "https://www.thepublic.kr/news/articleView.html?idxno=310498",
+    "https://www.thepublic.kr/news/articleView.html?idxno=310516",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260708010002813",
+    "https://www.newsis.com/view/NISX20260708_0003700503"
    ],
    "seen_titles": [
-    "[기자의눈]예고된실패,월드컵과단일종목레버리지ETF",
-    "박수현충남지사\"삼전닉스392조투자,충청광역연합통해대응\"",
-    "전재수부산시장\"흥아해운본사이전결정…해운기업집적화기대\"",
-    "박수현지사,“392조투자,충청연합통해대응”…정무부지사'임명논...",
-    "[오늘증시]코스피,외국인2.9조원매도에급락'검은화요일'...'영업익...",
     "삼성어닝서프라이즈에도찾아온'검은화요일'…코스피7600선마감",
     "'줄줄이하락'...단일종목레버리지대부분상장가아래",
     "[마감시황]삼전호실적에도코스피4.9%급락",
@@ -4182,10 +4173,15 @@
     "소유,지중해바다품은여행사진…새집이후여유로운일상",
     "SK하이닉스ADR공모,기관자금몰려",
     "KoreanChipmakersFaceNewRisksasAIMemoryDominanceFuelsTradeand",
-    "[금융소식]신한은행'SOL레미오'창단공연/신한금융자산관리서'혜안..."
+    "[금융소식]신한은행'SOL레미오'창단공연/신한금융자산관리서'혜안...",
+    "반도체發성과급눈높이못맞췄다…현대차노사결렬,파업수순가나",
+    "'사상최대실적'삼성전자,\"내년까지누적영업익1000조\"…비메모리...",
+    "'14兆담합의혹'정유4사,2조원'과징금폭탄'맞나…공정위산정주...",
+    "구윤철\"메가프로젝트신속추진…호남반도체클러스터후속절차진행...",
+    "메타가쏘아올린AI투자축소설…월가\"줄이진않는다\""
    ],
    "initialized": true,
-   "last_run": "2026-07-08T12:50:48.623996+09:00"
+   "last_run": "2026-07-08T12:55:20.709682+09:00"
   }
  },
  "press_names": {
