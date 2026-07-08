@@ -1358,12 +1358,13 @@
     [
      "2026-07-08T20:10:50.353251+09:00",
      "발판 부산 도약의 해양수도 40년만의 귀환 흥아해운"
+    ],
+    [
+     "2026-07-08T20:15:26.046135+09:00",
+     "파생결합증권 투심 1분기 사채 발행 회복에 6조"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026070809110081057",
-    "http://www.ttlnews.com/news/articleView.html?idxno=3123674",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03047126645512552",
     "https://www.gukjenews.com/news/articleView.html?idxno=3629485",
     "https://www.sentv.co.kr/article/view/sentv202607080013",
     "https://www.seoul.co.kr/news/economy/securities/2026/07/08/20260708500027?wlog_tag3=naver",
@@ -2860,12 +2861,12 @@
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260709.22018002558",
     "https://www.seoul.co.kr/news/economy/securities/2026/07/09/20260709029002?wlog_tag3=naver",
     "https://www.khan.co.kr/article/202607082007015",
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260709.22019002551"
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260709.22019002551",
+    "https://www.hankyung.com/article/2026070838477",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260708.99099002568",
+    "http://www.bizwnews.com/news/articleView.html?idxno=140251"
    ],
    "seen_titles": [
-    "[개장시황]코스피,하락출발…미국반도체주급락·중동긴장이악재",
-    "어제급락했던코스피오늘도하락출발‥7,400선까지밀려",
-    "美반도체급락·중동불안…'삼전닉스'장초반약세[핫종목]",
     "SK하이닉스美상장흥행조짐…블룸버그“ADR공모몇배초과청약”",
     "SKT,전국T월드매장'AI전환'시동…매장용AI에이전트도입",
     "[모닝브리핑]미국빅테크흔드는딥시크쇼크'시즌2'...자체칩개발",
@@ -4362,10 +4363,13 @@
     "[뉴스와현장]‘800조투자’희비가른재생에너지",
     "나스닥가는SK하이닉스에‘글로벌오픈런’",
     "[정동칼럼]민생사회안전망도대도약하자",
-    "[사설]흥아해운40년만의귀환,부산해양수도도약의발판"
+    "[사설]흥아해운40년만의귀환,부산해양수도도약의발판",
+    "외신\"SK하이닉스ADR공모,‘몇배’달하는초과청약몰려\"",
+    "“SK하이닉스ADR공모,‘몇배’초과청약”반도체주변동성이변수",
+    "[금융HOT뉴스]1분기파생결합증권·사채발행19.6조…'투심회복에..."
    ],
    "initialized": true,
-   "last_run": "2026-07-08T20:10:50.353251+09:00"
+   "last_run": "2026-07-08T20:15:26.046135+09:00"
   }
  },
  "press_names": {
