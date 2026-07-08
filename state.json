@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-08T13:55:21.677309+09:00",
-     "Asian on as Chip Valuation Weigh Rising Fears Prices Slip Oil Stocks"
-    ],
-    [
-     "2026-07-08T13:55:21.677309+09:00",
-     "호텔 할인 경쟁 장기고객 통신3사 대신 공연 잡기 경험"
-    ],
-    [
-     "2026-07-08T13:55:21.677309+09:00",
-     "지면 총선 전문 어려워 대선승리 정부성공 내세운 송영길 이심송심"
-    ],
-    [
      "2026-07-08T14:01:02.797307+09:00",
      "화두는 전남광주특별시 반도체 간부회의"
     ],
@@ -1366,11 +1354,13 @@
     [
      "2026-07-08T19:50:50.619494+09:00",
      "개미는 달한 그냥 아침에 변동성 극에 국장 버틴다"
+    ],
+    [
+     "2026-07-08T19:55:24.279442+09:00",
+     "유치 현실화되려면 1GW 울산의 AI데이터센터"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260708002100320?input=2106m",
-    "https://news.mtn.co.kr/news-detail/2026070808594410505",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=265556",
     "https://www.etnews.com/20260708000040",
     "https://view.asiae.co.kr/article/2026070716560551487",
@@ -2868,11 +2858,11 @@
     "https://www.asiatime.co.kr/article/20260708500417",
     "https://www.hankyung.com/article/2026070838251",
     "https://www.idomin.com/news/articleView.html?idxno=2009703",
-    "https://www.mk.co.kr/article/12093764"
+    "https://www.mk.co.kr/article/12093764",
+    "https://www.segye.com/newsView/20260708520173?OutUrl=naver",
+    "https://www.iusm.co.kr/news/articleView.html?idxno=1065145"
    ],
    "seen_titles": [
-    "[속보]코스피2.66%내린7,452.48개장",
-    "SKLIKE배여자농구대회,11일양정고서개최",
     "AI서버붐,메모리넘어부품까지흔들···삼성전기·LG이노텍동반...",
     "청주시,전국최초AI기반스마트휴양림만든다",
     "Seoulsharesopen2.7pctloweroncontinuedtechlosses",
@@ -4370,10 +4360,12 @@
     "한앤컴퍼니,이동춘·조성관CPO·CIO선임...수석부사장승진",
     "트럼프\"종전합의끝나…이란상대는시간낭비\"",
     "[발언대]원전의비도덕성",
-    "“아아침에그냥팔걸”...변동성극에달한국장,개미는못버틴다"
+    "“아아침에그냥팔걸”...변동성극에달한국장,개미는못버틴다",
+    "반도체저승사자또등판…삼전닉스이번에는?",
+    "[사설]울산의'1+1GW'AI데이터센터유치,현실화되려면"
    ],
    "initialized": true,
-   "last_run": "2026-07-08T19:50:50.619494+09:00"
+   "last_run": "2026-07-08T19:55:24.279442+09:00"
   }
  },
  "press_names": {
