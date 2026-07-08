@@ -234,10 +234,13 @@
     [
      "2026-07-09T05:35:22.768510+09:00",
      "테크 구조화 전통 승부처 메가딜 온다 PF 설계 역량이 가고 인프라"
+    ],
+    [
+     "2026-07-09T05:45:25.046046+09:00",
+     "LG전자 스텝은 데이터센터 다음 냉각"
     ]
    ],
    "seen_urls": [
-    "https://www.koreaittimes.com/news/articleView.html?idxno=155025",
     "https://www.ddaily.co.kr/page/view/2026070809354932237",
     "https://www.polinews.co.kr/news/articleView.html?idxno=736351",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=311047",
@@ -1736,10 +1739,10 @@
     "https://www.joongang.co.kr/article/25443632",
     "https://www.joongang.co.kr/article/25443636",
     "https://www.etoday.co.kr/news/view/2601536",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607081345595830414"
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607081345595830414",
+    "https://www.newstopkorea.com/news/articleView.html?idxno=46133"
    ],
    "seen_titles": [
-    "코스피9000돌파이끈국민연금…‘삼전닉스’쏠림여전",
     "코스피2%대하락출발…7500선회복시도",
     "국민연금주식평가액3개월새190조폭증…삼성전자·SK하이닉스가견...",
     "코스피,기관매수세에반등…SK하이닉스3%대상승",
@@ -3238,10 +3241,11 @@
     "[더버터]경험을넘어몰입으로…임직원자원봉사의공식이바뀐다",
     "[더버터]사회공헌잘하는곳어디일까?",
     "전통PF가고'테크·인프라메가딜'온다…구조화설계역량이승부처...",
-    "AI훈풍에웃는‘반도체소부장’…2분기실적개선기대감"
+    "AI훈풍에웃는‘반도체소부장’…2분기실적개선기대감",
+    "LG전자,다음스텝은'AI데이터센터냉각'"
    ],
    "initialized": true,
-   "last_run": "2026-07-09T05:40:52.364749+09:00"
+   "last_run": "2026-07-09T05:45:25.046046+09:00"
   }
  },
  "press_names": {
