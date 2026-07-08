@@ -1097,7 +1097,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/stock/2026/07/08/2026070809181046547",
     "https://www.hankyung.com/article/2026070820076",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=659963",
     "https://www.kado.net/news/articleView.html?idxno=2060106",
@@ -2596,10 +2595,10 @@
     "http://www.ujeil.com/news/articleView.html?idxno=388557",
     "http://www.ujeil.com/news/articleView.html?idxno=388552",
     "http://www.ujeil.com/news/articleView.html?idxno=388520",
-    "https://www.khan.co.kr/article/202607082126005"
+    "https://www.khan.co.kr/article/202607082126005",
+    "https://view.asiae.co.kr/article/2026070820312677828"
    ],
    "seen_titles": [
-    "메리츠화재임원‘하이닉스대박은퇴설’화제",
     "코스피,삼성전자發충격에7490선까지후퇴…삼성전기·생명7%↓",
     "흥아해운도부산행합류...4번째이전기업",
     "우린'코스피1만'외치는데…해외선'오징어게임'경고",
@@ -4098,10 +4097,11 @@
     "울산'석유·화학AX실증'본궤도",
     "울산,AI데이터센터확장속도낸다",
     "코스피·코스닥'매도사이드카'",
-    "하루수조원거래삼전·닉스레버리지,일주일새‘반토막’"
+    "하루수조원거래삼전·닉스레버리지,일주일새‘반토막’",
+    "구미시반도체기업한자리에…팹유치·소부장생태계강화'속도'"
    ],
    "initialized": true,
-   "last_run": "2026-07-08T21:35:22.473612+09:00"
+   "last_run": "2026-07-08T21:40:49.499410+09:00"
   }
  },
  "press_names": {
