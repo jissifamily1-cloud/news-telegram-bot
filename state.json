@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-08T19:10:53.523730+09:00",
-     "319위 428계단 선정 순위 올해 3년새 포브스 한전 기업 껑충"
-    ],
-    [
-     "2026-07-08T19:10:53.523730+09:00",
-     "in Rebellions KOSPI Eyes Year Next IPO"
-    ],
-    [
-     "2026-07-08T19:10:53.523730+09:00",
-     "187억 자금조달 유상증자 위한 일정 확정 시험대 본PF 상지건설"
-    ],
-    [
-     "2026-07-08T19:10:53.523730+09:00",
-     "관제솔루션으로 스케일업리 수출할 로봇 1000대 K무인공장"
-    ],
-    [
-     "2026-07-08T19:15:26.527249+09:00",
-     "반도체주 이틀째 급락세"
-    ],
-    [
      "2026-07-08T19:31:02.056653+09:00",
      "늘어도 계속 고환율 수출 통한다 환율"
     ],
@@ -378,10 +358,13 @@
     [
      "2026-07-09T01:01:04.198447+09:00",
      "확대 미국산 300억달러 계약 브로드컴과 애플"
+    ],
+    [
+     "2026-07-09T01:15:27.484701+09:00",
+     "국고채 바꿨다 흐름 강세가 원화 금리 혼조세"
     ]
    ],
    "seen_urls": [
-    "https://www.gukjenews.com/news/articleView.html?idxno=3629540",
     "https://www.topstarnews.net/news/articleView.html?idxno=16127428",
     "https://www.newsinside.kr/news/articleView.html?idxno=4822094",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=82953",
@@ -1880,10 +1863,10 @@
     "https://www.donga.com/news/Economy/article/all/20260708/134262086/2",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008648489&plink=ORI&cooper=NAVER",
     "https://imnews.imbc.com/replay/2026/nw2500/article/6836053_36989.html",
-    "https://www.bloter.net/news/articleView.html?idxno=667644"
+    "https://www.bloter.net/news/articleView.html?idxno=667644",
+    "https://www.tokenpost.kr/news/economy/376040"
    ],
    "seen_titles": [
-    "외국인·개인‘팔자’에도기관방어…장초반2%급락딛고약보합",
     "코스피3.03%하락출발…SK하이닉스·삼성전자4%↓",
     "[EBN데이터센터]코스피,7495.42로이틀째약세",
     "SKT,온·오프라인매장AX추진…하반기매장컨설팅에이전트시범운...",
@@ -3382,10 +3365,11 @@
     "삼성전자,AI서버용eSSD양산…엔비디아‘베라루빈’탑재",
     "경상수지'최대흑자'인데…증시는동반하락",
     "'고점공포'에사흘째급락‥\"저가매수기회?\"",
-    "애플,브로드컴과300억달러계약…미국산칩확대"
+    "애플,브로드컴과300억달러계약…미국산칩확대",
+    "국고채금리혼조세,원화강세가흐름바꿨다"
    ],
    "initialized": true,
-   "last_run": "2026-07-09T01:10:52.110061+09:00"
+   "last_run": "2026-07-09T01:15:27.484701+09:00"
   }
  },
  "press_names": {
