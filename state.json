@@ -338,12 +338,13 @@
     [
      "2026-07-10T05:50:48.836915+09:00",
      "급등 반도체주 강세 메모리 랠리에 마이크론"
+    ],
+    [
+     "2026-07-10T05:55:20.950567+09:00",
+     "없다 반도체 속도만으로는 클러스터 이길"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12094200",
-    "https://www.newdaily.co.kr/site/data/html/2026/07/09/2026070900073.html",
-    "https://www.dt.co.kr/article/12072011",
     "https://www.sedaily.com/article/20065670",
     "https://www.mk.co.kr/article/12094196",
     "https://www.sedaily.com/article/20065672",
@@ -1840,12 +1841,12 @@
     "https://www.etoday.co.kr/news/view/2602268",
     "http://www.yonhapnewstv.co.kr/news/AKR202607100545024V3",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467172",
-    "https://www.news1.kr/world/international-economy/6223692"
+    "https://www.news1.kr/world/international-economy/6223692",
+    "https://www.segye.com/newsView/20260710503032?OutUrl=naver",
+    "http://www.newsworker.co.kr/news/articleView.html?idxno=435683",
+    "https://www.mt.co.kr/industry/2026/07/10/2026070817135374733"
    ],
    "seen_titles": [
-    "GTX-C,2년만에본격착공…노선따라집값‘꿈틀’",
-    "李,'韓-몽골비즈니스포럼'참석…국내핵심광물·유통기업총출동...",
-    "국힘“李정부밀어붙인‘증시도박판’…외신조롱에‘빚투개미’...",
     "“반도체호황아직안끝났다”…2~3년더간다",
     "SKhynixsetforNasdaqADRdebut,eyes$24.5bnraise",
     "“반도체사이클안끝난다”…삼성·SK재평가시작되나",
@@ -3342,10 +3343,13 @@
     "“SK하이닉스,ADR공모가주당149달러제시…265억달러조달추진”",
     "\"SK하이닉스ADR공모가,주당149달러제시…40조원조달추진\"",
     "삼성전자7%내렸는데ETF는25%폭락…단일종목레버리지'경고등'",
-    "마이크론4.5%급등…AI메모리랠리에美반도체주강세"
+    "마이크론4.5%급등…AI메모리랠리에美반도체주강세",
+    "[속보]\"SK하이닉스,AI로시선\"…반도체랠리에나스닥1.3%↑",
+    "광주군공항반도체클러스터...'용수·전력책임론'커진다",
+    "반도체클러스터,속도만으로는이길수없다[기자수첩]"
    ],
    "initialized": true,
-   "last_run": "2026-07-10T05:50:48.836915+09:00"
+   "last_run": "2026-07-10T05:55:20.950567+09:00"
   }
  },
  "press_names": {
