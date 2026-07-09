@@ -234,10 +234,13 @@
     [
      "2026-07-10T03:15:27.203176+09:00",
      "조절 반도체 신호 낙관론에 SK하이닉스 속도 BNK투자"
+    ],
+    [
+     "2026-07-10T03:45:27.622752+09:00",
+     "신조어 이젠 뉴욕이 등장 코스피를 따라온다 니라미 코스피"
     ]
    ],
    "seen_urls": [
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249991&CMPT_CD=P0010",
     "https://www.koreabiomed.com/news/articleView.html?idxno=32362",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/09/2026070900085.html",
     "https://biz.sbs.co.kr/article_hub/20000321512?division=NAVER",
@@ -1736,10 +1739,10 @@
     "https://imnews.imbc.com/news/2026/world/article/6836366_36925.html",
     "https://www.tokenpost.kr/news/market/376376",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008650747&plink=ORI&cooper=NAVER",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=01315286645513208"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01315286645513208",
+    "https://www.munhwa.com/article/11601627"
    ],
    "seen_titles": [
-    "AI모델을설계한자가칩을설계한다",
     "SKbioscienceclearsWHOGMPreviewwithouton-siteinspection",
     "코스피대세하락공포확산…삼전EPS둔화에전쟁악재가세",
     "KB증권\"SK하이닉스ADR상장…글로벌재평가기대\"",
@@ -3238,10 +3241,11 @@
     "마이크론,하이닉스미상장하루앞두고375조원투자발표",
     "BNK투자,SK하이닉스AI반도체낙관론에속도조절신호",
     "하이닉스미상장하루앞두고…마이크론\"미국내375조원투자\"",
-    "마이크론,美투자377조원으로확대…AI메모리수요대응"
+    "마이크론,美투자377조원으로확대…AI메모리수요대응",
+    "‘코스피니라미!’…이젠뉴욕이코스피를따라온다?신조어등장"
    ],
    "initialized": true,
-   "last_run": "2026-07-10T03:40:47.011033+09:00"
+   "last_run": "2026-07-10T03:45:27.622752+09:00"
   }
  },
  "press_names": {
