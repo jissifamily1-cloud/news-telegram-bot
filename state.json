@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-09T23:55:23.348812+09:00",
-     "제조혁신 도전 울산시 가속 전환으로 인공지능 산업 거점"
-    ],
-    [
      "2026-07-10T00:05:22.090068+09:00",
      "투자자 증시 롤러코스피 개선 서둘러야 보호 체질"
     ],
@@ -342,14 +338,17 @@
     [
      "2026-07-10T05:55:20.950567+09:00",
      "없다 반도체 속도만으로는 클러스터 이길"
+    ],
+    [
+     "2026-07-10T06:00:57.435438+09:00",
+     "재평가 상장으로 대표주 월가 SK하이닉스는 기대 메모리"
+    ],
+    [
+     "2026-07-10T06:00:57.435438+09:00",
+     "종가 ADR 보다 블룸버그통신 149달러 218만6천원 SK하이닉스 9일 제시"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20065670",
-    "https://www.mk.co.kr/article/12094196",
-    "https://www.sedaily.com/article/20065672",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8606256",
-    "https://www.yna.co.kr/view/AKR20260709087000008?input=1195m",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4424154",
     "https://www.epnc.co.kr/news/articleView.html?idxno=404078",
     "https://www.greened.kr/news/articleView.html?idxno=344642",
@@ -1844,14 +1843,14 @@
     "https://www.news1.kr/world/international-economy/6223692",
     "https://www.segye.com/newsView/20260710503032?OutUrl=naver",
     "http://www.newsworker.co.kr/news/articleView.html?idxno=435683",
-    "https://www.mt.co.kr/industry/2026/07/10/2026070817135374733"
+    "https://www.mt.co.kr/industry/2026/07/10/2026070817135374733",
+    "https://biz.sbs.co.kr/article_hub/20000321672?division=NAVER",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260710055700Jcm",
+    "https://www.tokenpost.kr/news/market/376396",
+    "https://www.news1.kr/world/international-economy/6223694",
+    "http://www.beyondpost.co.kr/view.php?ud=2026071005501497802aaae0046f_30"
    ],
    "seen_titles": [
-    "“반도체호황아직안끝났다”…2~3년더간다",
-    "SKhynixsetforNasdaqADRdebut,eyes$24.5bnraise",
-    "“반도체사이클안끝난다”…삼성·SK재평가시작되나",
-    "[무등의아침]이정현“전남광주반도체산단,단군이래최대기회…...",
-    "코스피상승폭줄어강보합,7,300선…코스닥800선회복",
     "李대통령,한·몽비즈니스포럼참석…핵심광물·유통·디지털협력확...",
     "삼성전자·SK하이닉스호실적이어질까…5월반도체매출166조\"사상최...",
     "사회적가치연구원·SKT·소프트뱅크,'AI사회적가치'측정표준만든다",
@@ -3346,10 +3345,15 @@
     "마이크론4.5%급등…AI메모리랠리에美반도체주강세",
     "[속보]\"SK하이닉스,AI로시선\"…반도체랠리에나스닥1.3%↑",
     "광주군공항반도체클러스터...'용수·전력책임론'커진다",
-    "반도체클러스터,속도만으로는이길수없다[기자수첩]"
+    "반도체클러스터,속도만으로는이길수없다[기자수첩]",
+    "SK하이닉스,오늘나스닥입성…37조HBM증설실탄확보",
+    "하이닉스미상장전날…마이크론\"375조원투자\"증액",
+    "SK하이닉스,나스닥상장으로37조원확보…반도체증설속도",
+    "월가\"SK하이닉스는AI메모리대표주\"…美상장으로재평가기대",
+    "SK하이닉스ADR,149달러제시...블룸버그통신,9일종가(218만6천원)보다..."
    ],
    "initialized": true,
-   "last_run": "2026-07-10T05:55:20.950567+09:00"
+   "last_run": "2026-07-10T06:00:57.435438+09:00"
   }
  },
  "press_names": {
