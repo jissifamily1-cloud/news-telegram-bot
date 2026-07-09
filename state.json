@@ -1366,15 +1366,25 @@
     [
      "2026-07-09T12:45:24.825291+09:00",
      "추락에 국정조사 삼전닉스 수사 촉구 레버리지"
+    ],
+    [
+     "2026-07-09T12:50:47.696943+09:00",
+     "2030년 광주서 반도체 클러스터 찍어낸다 속도전"
+    ],
+    [
+     "2026-07-09T12:50:47.696943+09:00",
+     "강요하는 메가프로젝트 지역 멈춰라 충청권 공동 성명 시민사회 희생"
+    ],
+    [
+     "2026-07-09T12:50:47.696943+09:00",
+     "13개 AX 시동 맞손 제조산업 본격 인공지능 기관 울산시"
+    ],
+    [
+     "2026-07-09T12:50:47.696943+09:00",
+     "더비 울산 현대가 푸른빛으로 60일 전북과 호랑이굴 만에 컴백"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008648082&plink=ORI&cooper=NAVER",
-    "https://magazine.hankyung.com/business/article/202607018104b",
-    "https://www.hani.co.kr/arti/society/labor/1267310.html",
-    "https://news.skbroadband.com/news/articleView.html?idxno=231547",
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5204621",
-    "https://www.khan.co.kr/article/202607081716001",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=83085",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=387825",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=849086",
@@ -2868,15 +2878,15 @@
     "https://www.newsquest.co.kr/news/articleView.html?idxno=269457",
     "https://www.smarttoday.co.kr/ko-kr/articles/109383",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=61372",
-    "http://www.fnnews.com/news/202607091240551953"
+    "http://www.fnnews.com/news/202607091240551953",
+    "https://www.joongangenews.com/news/articleView.html?idxno=531728",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=736505",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008649588&plink=ORI&cooper=NAVER",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250029&CMPT_CD=P0010",
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030086707&code=61122021&cp=nv",
+    "https://www.goal.com/kr/뉴스/a/bltc6bd0dd6377f5e19"
    ],
    "seen_titles": [
-    "국민연금2분기189조벌었다…삼전·닉스만'151조'",
-    "'삼전''닉스'단일레버리지연이틀두자릿수폭락…수익률'뚝'",
-    "\"투자엔정답없다\"모험아닌확률높이는투자해야[인물]",
-    "AI시대초과이윤어떻게나눌까…노동부,14일공개토론회",
-    "공장밀집한인천…최소이격거리'3m'이상필요",
-    "'폭삭'주저앉았다…'7천피'도위태·코스닥은800붕괴[짤e몽땅]",
     "“5000만원이반토막됐다”···일주일새-40%에비명지르는삼전닉스...",
     "중동리스크에코스피7200선에서마감…환율은1500원아래로",
     "연이틀두자릿수폭락에'상장가붕괴'…단일종목레버리지개미무덤...",
@@ -4370,10 +4380,16 @@
     "SK하이닉스美ADR청약마감,주문액260조원몰려…최태원회장나스닥...",
     "장금상선,글로벌유조선시장핵심플레이어로…외신도주목한VLCC베...",
     "애플은법원서막히고,딥시크는칩으로뚫었다…AI패권전은'통제권...",
-    "삼전닉스레버리지추락에..野국정조사·李수사촉구"
+    "삼전닉스레버리지추락에..野국정조사·李수사촉구",
+    "SK텔레콤,소프트뱅크와AI사회적가치측정나선다…글로벌표준공동...",
+    "[이슈]SK하이닉스ADR나스닥상장임박…환율안정기대와외국인자금...",
+    "\"2030년광주서반도체찍어낸다\"…클러스터속도전",
+    "\"지역희생강요하는메가프로젝트멈춰라\"충청권시민사회공동성명",
+    "울산시,제조산업‘인공지능전환(AX)’본격시동…13개기관맞손",
+    "‘60일만에호랑이굴컴백’울산,전북과‘현대가더비’푸른빛으로..."
    ],
    "initialized": true,
-   "last_run": "2026-07-09T12:45:24.825291+09:00"
+   "last_run": "2026-07-09T12:50:47.696943+09:00"
   }
  },
  "press_names": {
