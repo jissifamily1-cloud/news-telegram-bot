@@ -1458,17 +1458,13 @@
     [
      "2026-07-09T18:30:25.310154+09:00",
      "ADR 나스닥 거래 10일 SK하닉 14달러 기준가"
+    ],
+    [
+     "2026-07-09T18:36:18.882821+09:00",
+     "반도체 속도전이라더니"
     ]
    ],
    "seen_urls": [
-    "https://www.kukinews.com/article/view/kuk202607090026",
-    "https://www.ddaily.co.kr/page/view/2026070909262484156",
-    "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260709505&PRO_CODE=99",
-    "https://www.sidae.com/article/2026070909234573724",
-    "https://zdnet.co.kr/view/?no=20260709090238",
-    "https://www.news1.kr/photos/7999558",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8606156",
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=237285",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=204671",
     "http://enews.imbc.com/News/RetrieveNewsInfo/510943",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/09/2026070900054.html",
@@ -2960,17 +2956,17 @@
     "http://www.fnnews.com/news/202607091826248283",
     "http://www.ikpnews.net/news/articleView.html?idxno=70909",
     "http://www.fnnews.com/news/202607091824407693",
-    "https://www.news1.kr/finance/general-stock/6223541"
+    "https://www.news1.kr/finance/general-stock/6223541",
+    "https://www.sedaily.com/article/20065978",
+    "https://magazine.hankyung.com/business/article/202607096437b",
+    "https://www.munhwa.com/article/11601600",
+    "https://www.pressian.com/pages/articles/2026070916065308226",
+    "http://www.fnnews.com/news/202607091828469515",
+    "https://www.news1.kr/economy/trend/6223552",
+    "https://www.ytn.co.kr/_ln/0104_202607091828003416",
+    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069019"
    ],
    "seen_titles": [
-    "“SK하이닉스,나스닥입성초읽기…37조실탄들고AI패권승부수”",
-    "“SK하이닉스ADR공모7배청약…37조원조달전망”",
-    "반도체주반등에코스피3%대급등…7500선회복·하이닉스9%↑",
-    "코스피,폭락딛고3%대반등...삼전·닉스상승세",
-    "코스피,7530선회복…외인·기관매수에3%대상승",
-    "최태원회장,SK하이닉스나스닥ADR상장맞춰방미",
-    "원·달러환율하락,코스피상승",
-    "코스피상승출발7,400선…‘반도체투톱’동반상승",
     "최태원,SK하이닉스나스닥상장기념미국행…AI동맹강화시동",
     "SKT,AI가창출하는사회적가치측정모델개발나서",
     "랄랄,하이닉스280만원에샀나…\"28층에사람있어요\"[소셜in]",
@@ -4462,10 +4458,18 @@
     "'빅테크안방'진격하는SK…메모리넘어AI인프라기업으로",
     "반도체산단,용인엔안되는여섯가지이유",
     "[강남視角]비트코인보다더널뛰는코스피",
-    "SK하닉ADR,10일나스닥첫거래…\"기준가158.14달러\""
+    "SK하닉ADR,10일나스닥첫거래…\"기준가158.14달러\"",
+    "문신학차관“서남권팹2031년가동…필요시LNG복합발전검토”",
+    "사회적가치연구원,AI시대사회적가치측정글로벌표준마련",
+    "‘최태원동거인중국간첩’주장했던유튜버,1심서벌금700만원",
+    "울산시,지역대학·산업과AI데이터센터인력양성맞손",
+    "SK하닉화려한데뷔…나스닥공모7배뭉칫돈",
+    "산업차관\"원자력·재생에너지로서남권반도체전력공급…LNG도검토\"",
+    "\"한국증시는오징어게임\"...월가도삼전닉스레버리지ETF우려",
+    "[기자수첩]반도체속도전이라더니…"
    ],
    "initialized": true,
-   "last_run": "2026-07-09T18:31:05.532863+09:00"
+   "last_run": "2026-07-09T18:36:18.882821+09:00"
   }
  },
  "press_names": {
