@@ -573,14 +573,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202607091159544607923c501012_1",
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/09/2026070990167.html",
-    "https://www.hitnews.co.kr/news/articleView.html?idxno=77436",
-    "https://www.newsis.com/view/NISX20260709_0003702519",
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=79820",
-    "https://www.viewsnnews.com/article?q=237071",
-    "https://www.esgeconomy.com/news/articleView.html?idxno=15995",
-    "https://imnews.imbc.com/replay/2026/nw1200/article/6836182_36967.html",
     "https://www.aitimes.kr/news/articleView.html?idxno=40904",
     "https://www.mydaily.co.kr/page/view/2026070912242284183",
     "https://www.energy-news.co.kr/news/articleView.html?idxno=226690",
@@ -2072,17 +2064,17 @@
     "https://www.ytn.co.kr/_ln/0104_202607100708146199",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6836412_37012.html",
     "https://www.g-enews.com/view.php?ud=202607100711458945fbbec65dfb_1",
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/10/2026071090032.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/10/2026071090032.html",
+    "https://www.ziksir.com/news/articleView.html?idxno=139639",
+    "https://www.newsway.co.kr/news/view?ud=2026071007154943855",
+    "https://www.news2day.co.kr/article/20260709500246",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16130141",
+    "https://www.busan.com/view/busan/view.php?code=2026071007070294161",
+    "https://biz.sbs.co.kr/article_hub/20000321682?division=NAVER",
+    "https://www.sedaily.com/article/20066057",
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030090600&code=61141511&cp=nv"
    ],
    "seen_titles": [
-    "국민연금,상반기제약바이오지분조정···한올·에스티팜↑",
-    "재단법인피플,산업안전보건의달포럼'…AI기반선제적위험관리전략...",
-    "코스피급등후상승폭축소…7,300선등락",
-    "코스피,상승분반납7200선하회…SK하이닉스는‘강세’",
-    "국힘\"호남반도체투자,李대통령정치적이익만을위한결정\"",
-    "JNP메디\"임상운영부터L/O까지...여기서한번에끝낸다\"",
-    "코스피,중동긴장에다시파랗게질려…7100선도붕괴",
-    "최태원,미국서SK하이닉스나스닥상장직접챙긴다",
     "'개미투매'로코스피지수장중7,100붕괴",
     "SK최태원방미에쏠린눈...빅테크와AI협력가속화주목",
     "반등후하락'급반전'‥중동발'불안감'",
@@ -3574,10 +3566,18 @@
     "미상무장관,마이크론행사서\"삼성·하이닉스미생산확대\"촉구",
     "3부오늘의주요뉴스",
     "HBM4가격폭발…2100만달러AI랙,기회인가정점인가",
-    "반도체인재키운다…취업률95%마이스터고"
+    "반도체인재키운다…취업률95%마이스터고",
+    "'나스닥상장'SK하이닉스,37조원장전…글로벌증설드라이브",
+    "뉴욕증시,반도체주강세에일제히상승…나스닥1.3%↑",
+    "SK하이닉스'美ADR상장'뭐길래...투자자가꼭알아야할7가지",
+    "미국증시,중동불안보다반도체주반등택했다",
+    "[속보]SK하이닉스\"나스닥ADR공모가주당149달러확정\"",
+    "[마켓브리핑]SK하이닉스,수요예측서공모물량7배넘는청약",
+    "마이크론,대미투자액75조원더증액...트럼프‘美반도체부활’협조...",
+    "‘너무많이오르잖아’…전셋값급등에세입자들‘버티기’"
    ],
    "initialized": true,
-   "last_run": "2026-07-10T07:15:26.324291+09:00"
+   "last_run": "2026-07-10T07:20:47.400549+09:00"
   }
  },
  "press_names": {
