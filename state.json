@@ -570,18 +570,21 @@
     [
      "2026-07-10T07:15:26.324291+09:00",
      "취업률 인재 반도체 마이스터고 키운다"
+    ],
+    [
+     "2026-07-10T07:25:24.242004+09:00",
+     "보고서 서태지 빅스텝 금통위 4년 다음주 한은 화폐 일명 환상 만에"
+    ],
+    [
+     "2026-07-10T07:25:24.242004+09:00",
+     "책임은 이름 시스템은 레버리지가 남고 지운"
+    ],
+    [
+     "2026-07-10T07:25:24.242004+09:00",
+     "유가는 중동 국제 증시 불안에도 뉴욕 반등 하락 일제히"
     ]
    ],
    "seen_urls": [
-    "https://www.aitimes.kr/news/articleView.html?idxno=40904",
-    "https://www.mydaily.co.kr/page/view/2026070912242284183",
-    "https://www.energy-news.co.kr/news/articleView.html?idxno=226690",
-    "https://www.news1.kr/local/sejong-chungbuk/6222889",
-    "https://www.kpanews.co.kr/news/articleView.html?idxno=538266",
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/09/20260709500115?wlog_tag3=naver",
-    "https://www.ppss.kr/news/articleView.html?idxno=301634",
-    "http://sateconomy.co.kr/news/view/1065583597176654",
-    "https://www.g-enews.com/view.php?ud=2026070912283762679a1f309431_1",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=86583",
     "https://www.kgnews.co.kr/news/article.html?no=903277",
     "https://www.dailian.co.kr/news/view/1665287/?sc=Naver",
@@ -2072,18 +2075,18 @@
     "https://www.busan.com/view/busan/view.php?code=2026071007070294161",
     "https://biz.sbs.co.kr/article_hub/20000321682?division=NAVER",
     "https://www.sedaily.com/article/20066057",
-    "https://www.kmib.co.kr/article/view.asp?arcid=0030090600&code=61141511&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030090600&code=61141511&cp=nv",
+    "https://www.investchosun.com/site/data/html_dir/2026/07/10/2026071080006.html",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=724167",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=92043",
+    "https://www.yna.co.kr/view/AKR20260710015400072?input=1195m",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682931",
+    "https://www.public25.com/news/articleView.html?idxno=50339",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607100190&t=NN",
+    "https://www.dailyt.co.kr/newsView/dlt202607090010",
+    "https://www.ytn.co.kr/_ln/0104_202607100718030637"
    ],
    "seen_titles": [
-    "'개미투매'로코스피지수장중7,100붕괴",
-    "SK최태원방미에쏠린눈...빅테크와AI협력가속화주목",
-    "반등후하락'급반전'‥중동발'불안감'",
-    "테트라멤-SK하이닉스,'메모리에서바로계산'AI반도체구현…차세대...",
-    "오르면두배?떨어질땐더무섭다…삼전닉스레버리지에개미들‘비...",
-    "통신상장기업2026년7월브랜드평판...KT,SK텔레콤,LG유플러스順",
-    "충청4개시민연대,392조원정부충청권메가프로젝트재검토촉구",
-    "수출늘었다고고환율수혜?…제약사손익가른'외화포지션'",
-    "[서울데이터랩]시총상위주장중약세…SK하이닉스만상승,한화에어로...",
     "[기업해부]기업을보면시장이보인다-삼성편②\"89조실적의의미…...",
     "'리니언시'뒤에숨은SK에너지…기름값담합책임은남아",
     "中CXMT,43억달러IPO로메모리굴기시험대",
@@ -3574,10 +3577,19 @@
     "[속보]SK하이닉스\"나스닥ADR공모가주당149달러확정\"",
     "[마켓브리핑]SK하이닉스,수요예측서공모물량7배넘는청약",
     "마이크론,대미투자액75조원더증액...트럼프‘美반도체부활’협조...",
-    "‘너무많이오르잖아’…전셋값급등에세입자들‘버티기’"
+    "‘너무많이오르잖아’…전셋값급등에세입자들‘버티기’",
+    "[Invest]SK하이닉스,美ADR공모가149달러확정…265억달러조달",
+    "SK하이닉스ADS공모가149달러확정…40조원조달,외국기업美IPO사상...",
+    "SK하이닉스,오늘나스닥데뷔…글로벌경쟁력'시험대'",
+    "SK하이닉스\"ADR공모가149달러\"…외국기업美IPO사상최대",
+    "ADR상장하루앞SK하이닉스...43조모아대규모설비투자속도↑",
+    "SK하이닉스\"ADR공모가주당149달러확정\"...40조원조달가능",
+    "한은,4년만에화폐환상(일명서태지)보고서|다음주금통위,빅스텝...",
+    "[전연우경제칼럼]레버리지가지운이름...시스템은남고,책임은사...",
+    "중동불안에도뉴욕증시일제히반등...국제유가는하락"
    ],
    "initialized": true,
-   "last_run": "2026-07-10T07:20:47.400549+09:00"
+   "last_run": "2026-07-10T07:25:24.242004+09:00"
   }
  },
  "press_names": {
