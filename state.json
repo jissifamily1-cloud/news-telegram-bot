@@ -658,21 +658,13 @@
     [
      "2026-07-10T07:50:47.021203+09:00",
      "뉴욕증시 중동 올랐다 미국 유가가 밀었다 끌고 위기에도 반도체가"
+    ],
+    [
+     "2026-07-10T07:54:14.176816+09:00",
+     "7월 퍼레이드 오프닝 10일"
     ]
    ],
    "seen_urls": [
-    "https://www.mhns.co.kr/news/articleView.html?idxno=752899",
-    "https://www.newsway.co.kr/news/view?ud=2026070911061349457",
-    "https://www.viva100.com/article/20260709500682",
-    "http://www.ttlnews.com/news/articleView.html?idxno=3124130",
-    "https://www.busan.com/view/busan/view.php?code=2026070913281286323",
-    "https://www.wikitree.co.kr/articles/1145602",
-    "https://kpenews.com/View.aspx?No=4143044",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467038",
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2286901",
-    "http://www.dailypop.kr/news/articleView.html?idxno=100453",
-    "https://en.yna.co.kr/view/AEN20260709005000320?input=2106m",
-    "https://www.sedaily.com/article/20065742",
     "https://www.huffingtonpost.kr/article/258586",
     "https://www.mk.co.kr/article/12094305",
     "https://www.newsway.co.kr/news/view?ud=2026070911430091013",
@@ -2160,21 +2152,21 @@
     "https://www.globale.co.kr/news/articleView.html?idxno=39267",
     "https://www.sedaily.com/article/20066063",
     "https://www.sjsori.com/news/articleView.html?idxno=87510",
-    "https://www.sjsori.com/news/articleView.html?idxno=87513"
+    "https://www.sjsori.com/news/articleView.html?idxno=87513",
+    "https://weekly.hankooki.com/news/articleView.html?idxno=7173694",
+    "https://www.tjb.co.kr/news05/bodo/view/id/100741",
+    "https://www.khan.co.kr/article/202607100752001",
+    "http://www.joseilbo.com/news/news_read.php?uid=571642&class=18",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424289",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=141323",
+    "https://www.globale.co.kr/news/articleView.html?idxno=39268",
+    "https://biz.sbs.co.kr/article_hub/20000321686?division=NAVER",
+    "https://www.chosun.com/economy/stock-finance/2026/07/10/GQCFOMKDBFDZRNJUNXX457JMK4/",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260710074914VkL",
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/10/2026071090085.html",
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/10/2026071090083.html"
    ],
    "seen_titles": [
-    "동부최태원,서부이재용⋯美서‘K-반도체’영토확장‘동분서주...",
-    "코스피,장중3%폭등뒤하락전환…삼성전자약세에7,230선밀려",
-    "'8위부진'롯데,선수단정리…'최정동생'최항방출",
-    "김대중교육감\"영재고·과학고신설추진\"",
-    "AI반도체승부는고객…미국간이재용·최태원'톱세일즈'",
-    "[사설]서남권반도체클러스터‘속도전’옳은방향인가",
-    "SKAX,'제조RX풀스택서비스'본격화…공장자율화단계별지원",
-    "37조조달SK하이닉스,나스닥입성…최태원AI세일즈나선다",
-    "전쟁은끝나도시장은안돌아간다...미국-이란충돌후'질서전환의...",
-    "\"에이피알2분기성장률200%넘을듯\"..SK증권,목표주가56만원으로상...",
-    "빅테크향맞춤형칩수요폭발…가온칩스,글로벌AI반도체수주봇물",
-    "호남에또밀리나…소부장특화단지지정앞두고충남'촉각'",
     "[기업들]'AI·친환경'혁신바람…조직정비와공급확대에총력",
     "YonhapNewsSummary",
     "코스피‘지수방어’안간힘…개미1.5조투매속‘연기군’투입[이...",
@@ -3662,10 +3654,22 @@
     "뉴욕증시,반도체훈풍·유가하락에상승···나스닥1.30%↑",
     "“400만원간다”는하이닉스에‘185만원’제시한증권사…현재가보다...",
     "[백용재칼럼]최태원은말할수있다…그러나SK하이닉스이사회는설...",
-    "뉴욕증시,반도체가끌고유가가밀었다…중동위기에도미국올랐다"
+    "뉴욕증시,반도체가끌고유가가밀었다…중동위기에도미국올랐다",
+    "SK하이닉스,美ADR공모가'149달러'…해외기업IPO사상최대",
+    "중동불안에도반도체주강세에뉴욕증시일제상승…나스닥1.3%↑",
+    "SK하이닉스,ADR공모가주당149달러···외국기업미IPO사상최대...",
+    "8곳서7곳으로줄인중기특화증권사…모험자본공급‘옥석가리기’본...",
+    "단일종목레버리지대안도'제각각'…금융당국해법찾을까",
+    "美상무장관\"삼성·하이닉스美생산확대\"촉구",
+    "SK하이닉스美ADR공모가149달러확정···40조원'역대급흥행'",
+    "[애프터마켓리뷰]반도체소부장주,삼전닉스반등에동반상승",
+    "SK하이닉스ADR공모가149달러확정…외국기업美IPO최대규모",
+    "미·이란충돌확산…하이닉스나스닥상장D-1",
+    "SK하이닉스ADR공모가149달러확정…40조원조달'역대최대'",
+    "7월10일'뉴스퍼레이드'오프닝"
    ],
    "initialized": true,
-   "last_run": "2026-07-10T07:50:47.021203+09:00"
+   "last_run": "2026-07-10T07:54:14.176816+09:00"
   }
  },
  "press_names": {
