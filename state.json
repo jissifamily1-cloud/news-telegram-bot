@@ -1342,15 +1342,17 @@
     [
      "2026-07-09T13:15:24.461798+09:00",
      "대출 장세 코스피 널뛰기 조이는 지속 은행권"
+    ],
+    [
+     "2026-07-09T13:20:50.439999+09:00",
+     "인식에 리스크오프 저가 더해져 우위 상승 결제 추가"
+    ],
+    [
+     "2026-07-09T13:20:50.439999+09:00",
+     "달러 1주일 환율 60원 하락한 추세 봐야 할까"
     ]
    ],
    "seen_urls": [
-    "https://news.skbroadband.com/news/articleView.html?idxno=231562",
-    "https://www.newspim.com/news/view/20260708001173",
-    "http://www.smarttimes.co.kr/news/articleView.html?idxno=47113",
-    "https://www.nocutnews.co.kr/news/6545279",
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=79804",
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=387827",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=849046",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4424021",
     "https://www.nocutnews.co.kr/news/6545276",
@@ -2844,15 +2846,15 @@
     "https://www.chosun.com/economy/money/2026/07/09/JIGJYUS5BFERFPNIEA5PGV6OKY/",
     "http://www.fnnews.com/news/202607090927147373",
     "https://www.naeil.com/news/read/594809",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260709131035Gcr"
+    "http://www.yonhapnewstv.co.kr/news/MYH20260709131035Gcr",
+    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068939",
+    "https://www.asiatime.co.kr/article/20260709500234",
+    "https://www.etoday.co.kr/news/view/2602044",
+    "https://www.koreajoongangdaily.com/business/sk-hynix-adr-draws-sevenfold-demand-ahead-of-nasdaq-debut-bloomberg/12763815",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424195",
+    "https://www.raonnews.com/news/article.html?no=59437"
    ],
    "seen_titles": [
-    "\"소개팅에하이닉스유니폼입고나갈판\"…해외서도'주목'",
-    "해수부신청사\"강서구가최적지\"",
-    "[ETF시황]레버리지급락...'방산·조선·IT'집중타격",
-    "코스피·코스닥'검은수요일'…사이드카연쇄발동에7200·800선붕괴",
-    "전남광주통합특별시,800조반도체클러스터지원체계가동",
-    "'검은수요일'코스피5%급락…코스닥은800선하회",
     "중동전면전위기직격탄…코스피7200선추락·코스닥800선10개월만에...",
     "'실적↑·주가↓'삼성전자,하반기향방촉각",
     "달러-원,5월29일이후첫1,500원하회…SK하이닉스선물환매도출회(...",
@@ -4346,10 +4348,16 @@
     "미래에셋,코빗인수승인…“한국판로빈후드”플랫폼향해시동",
     "SK케미칼,'2025지속가능경영보고서'발간..ESG핵심과제·성과공개",
     "\"호남반도체팹2기에서2030년양산목표”",
-    "[경제읽기]코스피,'널뛰기장세'지속…대출조이는은행권"
+    "[경제읽기]코스피,'널뛰기장세'지속…대출조이는은행권",
+    "[증시긴급진단]단일종목레버리지ETF도입한달만에드러난부작용",
+    "‘삼전·하이닉스ETF’손실확대…野“李정부,증시도박판만들어”",
+    "코스피,상승출발했지만혼조세양상…개인2.3조'팔자'",
+    "SKhynixADRdrawssevenfolddemandaheadofNasdaqdebut:Bloomberg",
+    "[외환]저가인식에결제우위…리스크오프더해져추가상승",
+    "1주일새60원하락한원·달러환율…'추세전환'으로봐야할까"
    ],
    "initialized": true,
-   "last_run": "2026-07-09T13:15:24.461798+09:00"
+   "last_run": "2026-07-09T13:20:50.439999+09:00"
   }
  },
  "press_names": {
