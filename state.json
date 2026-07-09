@@ -1246,17 +1246,17 @@
     [
      "2026-07-09T10:55:20.120006+09:00",
      "대웅제약 SK바사 SK케미칼 유한양행"
+    ],
+    [
+     "2026-07-09T11:01:02.769365+09:00",
+     "본격화 희비 실적 2Q 통신사 성장 하반기"
+    ],
+    [
+     "2026-07-09T11:01:02.769365+09:00",
+     "판매용 D램 중국 CXMT 애플 테스트 시작"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH20260708160650nFI",
-    "https://www.yna.co.kr/view/PYH20260708176400013?input=1196m",
-    "http://www.fnnews.com/news/202607081442404284",
-    "https://www.sedaily.com/article/20065340",
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/08/2026070800258.html",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=724072",
-    "https://www.newspim.com/news/view/20260708001073",
-    "https://www.yna.co.kr/view/PYH20260708175500013?input=1196m",
     "https://www.yna.co.kr/view/PYH20260708175600013?input=1196m",
     "https://www.yna.co.kr/view/PYH20260708175400013?input=1196m",
     "https://www.news1.kr/photos/7998718",
@@ -2748,17 +2748,17 @@
     "http://www.mdilbo.com/detail/c3QycN/757037",
     "https://www.m-i.kr/news/articleView.html?idxno=1389843",
     "http://www.metroseoul.co.kr/article/20260709500151",
-    "https://www.goodkyung.com/news/articleView.html?idxno=289068"
+    "https://www.goodkyung.com/news/articleView.html?idxno=289068",
+    "https://www.mk.co.kr/article/12094187",
+    "http://www.00news.co.kr/news/articleView.html?idxno=105017",
+    "https://www.delighti.co.kr/news/articleView.html?idxno=118810",
+    "https://www.ceoscoredaily.com/page/view/2026070910502998735",
+    "https://www.newsis.com/view/NISX20260709_0003702307",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=441937",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1715704",
+    "https://www.etoday.co.kr/news/view/2601974"
    ],
    "seen_titles": [
-    "'검은수요일'코스피5%대급락...코스닥도800선붕괴",
-    "삼전6%·SK하닉5%급락…'삼전닉스'레버리지전종목상장가하회[핫종...",
-    "코스피,5%넘게급락해7240선마감...반도체쇼크에코스닥도5.56%하락",
-    "[마감시황]코스피,중동리스크에'출렁'…7200선추락",
-    "'검은수요일'…반도체고점논란에불거진중동리스크까지",
-    "'검은수요일'코스피5%↓…코스닥800하회",
-    "\"국민연금고갈걱정뚝?\"석달만에국장서189조벌었다...삼전닉스로...",
-    "반도체투매에코스피5.35%급락…7200선으로‘털썩’[이런국장저런...",
     "외인매수에도韓증시털썩…반도체폭락에코스피7000선도위협",
     "SK하이닉스나스닥공모10조쇄도…월가진짜속내는",
     "코스닥·SK하이닉스·삼성전자하락마감",
@@ -4250,10 +4250,18 @@
     "[프롤로그]저는전라디언입니다",
     "이천시,민선9기맞아대중교통확충…광역버스·시내버스노선확대",
     "CISO권한커진다…통신3사,보안규제대응나서",
-    "[굿모닝!9일제약바이오소식]SK바사·유한양행·대웅제약·SK케미칼·..."
+    "[굿모닝!9일제약바이오소식]SK바사·유한양행·대웅제약·SK케미칼·...",
+    "영진전문대,2027학년도에‘AI항공드론과·AX아트미디어자율학과’개...",
+    "[김현철의美증시]미·이란전쟁위기속유가급등...뉴욕증시혼조...",
+    "SK하이닉스,10일나스닥에ADR상장…최태원·곽노정뉴욕행",
+    "SK,‘최태원표DBL경영철학’고도화…“AI시대,사회적가치표준정...",
+    "최태원,10일SK하이닉스美나스닥상장'오프닝벨'울린다…ADR공모7배...",
+    "최태원,10일SK하이닉스ADR나스닥상장행사참석한다",
+    "통신사,2Q실적희비…\"하반기AI성장본격화\"",
+    "“애플,중국판매용CXMTD램테스트시작”"
    ],
    "initialized": true,
-   "last_run": "2026-07-09T10:55:20.120006+09:00"
+   "last_run": "2026-07-09T11:01:02.769365+09:00"
   }
  },
  "press_names": {
