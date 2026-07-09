@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-09T23:45:31.959235+09:00",
-     "하닉 증시보다 제시 높아 블룸버그 공모가149달러"
-    ],
-    [
-     "2026-07-09T23:45:31.959235+09:00",
-     "9천피 고점에 이렇게 물렸다면 다시 있을까"
-    ],
-    [
-     "2026-07-09T23:50:46.797148+09:00",
-     "침묵과 복종 강요하는 성역화"
-    ],
-    [
      "2026-07-09T23:55:23.348812+09:00",
      "제조혁신 도전 울산시 가속 전환으로 인공지능 산업 거점"
     ],
@@ -342,14 +330,17 @@
     [
      "2026-07-10T05:45:27.468009+09:00",
      "성공 TSMC 7배 잇나 뭉칫돈 청약"
+    ],
+    [
+     "2026-07-10T05:50:48.836915+09:00",
+     "단일종목 경고등 ETF는 삼성전자 폭락 내렸는데 레버리지"
+    ],
+    [
+     "2026-07-10T05:50:48.836915+09:00",
+     "급등 반도체주 강세 메모리 랠리에 마이크론"
     ]
    ],
    "seen_urls": [
-    "http://www.itdaily.kr/news/articleView.html?idxno=240300",
-    "https://zdnet.co.kr/view/?no=20260709105641",
-    "http://www.sisunnews.co.kr/news/articleView.html?idxno=242126",
-    "http://www.impacton.net/news/articleView.html?idxno=19539",
-    "https://www.gokorea.kr/news/articleView.html?idxno=871645",
     "https://www.mk.co.kr/article/12094200",
     "https://www.newdaily.co.kr/site/data/html/2026/07/09/2026070900073.html",
     "https://www.dt.co.kr/article/12072011",
@@ -1844,14 +1835,14 @@
     "https://www.g-enews.com/view.php?ud=2026070917300990990c8c1c064d_1",
     "https://www.news1.kr/world/usa-canada/6223691",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607091118129550551",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607091144111930560"
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607091144111930560",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01954886645513208",
+    "https://www.etoday.co.kr/news/view/2602268",
+    "http://www.yonhapnewstv.co.kr/news/AKR202607100545024V3",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467172",
+    "https://www.news1.kr/world/international-economy/6223692"
    ],
    "seen_titles": [
-    "생성형AI넘어피지컬AI시대…SKAX,자율공장시장공략",
-    "\"SK하이닉스,美상장관심폭발…ADR공모에7배청약\"",
-    "SK하이닉스,미국서43조원규모ADR상장…최태원회장뉴욕방문",
-    "7월2주차국내ESG핫클립",
-    "코스피급등세로7,400대회복…외국인투자자'매수열기'지속",
     "GTX-C,2년만에본격착공…노선따라집값‘꿈틀’",
     "李,'韓-몽골비즈니스포럼'참석…국내핵심광물·유통기업총출동...",
     "국힘“李정부밀어붙인‘증시도박판’…외신조롱에‘빚투개미’...",
@@ -3346,10 +3337,15 @@
     "LG이노텍,베트남에10억달러규모‘반도체기판’공장건설",
     "AI반도체가중동리스크눌렀다…나스닥1.3%↑[뉴욕마감]",
     "[SK하이닉스ADR상장]①SK하이닉스뉴욕입성…‘역대2위’37조조달",
-    "[SK하이닉스ADR상장]③7배청약뭉칫돈…TSMC성공공식잇나"
+    "[SK하이닉스ADR상장]③7배청약뭉칫돈…TSMC성공공식잇나",
+    "반도체주급등에S&P500·나스닥상승…중동충돌에도AI낙관론우세[월...",
+    "“SK하이닉스,ADR공모가주당149달러제시…265억달러조달추진”",
+    "\"SK하이닉스ADR공모가,주당149달러제시…40조원조달추진\"",
+    "삼성전자7%내렸는데ETF는25%폭락…단일종목레버리지'경고등'",
+    "마이크론4.5%급등…AI메모리랠리에美반도체주강세"
    ],
    "initialized": true,
-   "last_run": "2026-07-10T05:45:27.468009+09:00"
+   "last_run": "2026-07-10T05:50:48.836915+09:00"
   }
  },
  "press_names": {
