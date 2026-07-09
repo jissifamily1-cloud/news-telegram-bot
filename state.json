@@ -182,14 +182,29 @@
     [
      "2026-07-10T04:20:47.741971+09:00",
      "3EB D램 빨아들인다 클라우드 메모리 공급"
+    ],
+    [
+     "2026-07-10T04:35:23.275574+09:00",
+     "전국 휴양림 구축 로봇이 배송 청주에 안내"
+    ],
+    [
+     "2026-07-10T04:35:23.275574+09:00",
+     "충청광역연합 투자 392조 활용해 반도체에"
+    ],
+    [
+     "2026-07-10T04:35:23.275574+09:00",
+     "현장에 조선 석유화학 도입 울산"
+    ],
+    [
+     "2026-07-10T04:35:23.275574+09:00",
+     "카이스트 전국 생각도 했다 수석 이유 택한 베트남 의대는"
+    ],
+    [
+     "2026-07-10T04:35:23.275574+09:00",
+     "데이터센터 30조 강원지사 시작됐다 인터뷰 대전환 우상호 유치"
     ]
    ],
    "seen_urls": [
-    "https://economist.co.kr/article/view/ecn202607090004",
-    "https://www.joongangenews.com/news/articleView.html?idxno=531709",
-    "https://biz.chosun.com/it-science/ict/2026/07/09/IKSBVF7ACNDSHAB5SFBPDAWPLY/",
-    "https://www.news1.kr/politics/assembly/6222704",
-    "https://biz.chosun.com/policy/policy_sub/2026/07/09/JW43HW2HDBBOPLEAOHNA4QAHLE/",
     "https://www.hankyung.com/article/202607094742H",
     "http://www.4th.kr/news/articleView.html?idxno=2114476",
     "https://www.news1.kr/bio/pharmaceutical-bio/6222708",
@@ -1684,14 +1699,14 @@
     "https://www.mt.co.kr/politics/2026/07/10/2026070920034889934",
     "https://www.g-enews.com/view.php?ud=202607092013581339fbbec65dfb_1",
     "https://biz.sbs.co.kr/article_hub/20000321662?division=NAVER",
-    "https://www.mt.co.kr/stock/2026/07/10/2026070920231256674"
+    "https://www.mt.co.kr/stock/2026/07/10/2026070920231256674",
+    "https://www.donga.com/news/Society/article/all/20260710/134269641/2",
+    "https://www.donga.com/news/Society/article/all/20260710/134269647/2",
+    "https://www.donga.com/news/Society/article/all/20260709/134269681/2",
+    "https://www.hankookilbo.com/news/article/A2026070916260002001?did=NA",
+    "https://www.hankookilbo.com/news/article/A2026070813270005517?did=NA"
    ],
    "seen_titles": [
-    "'여기까지인가'삼전닉스,이틀연속'폭락'…레버리지도10%↓'흔들'",
-    "SK이터닉스주가,7월9일장중43,400원5.34%상승",
-    "SKAX,로봇중심‘자율형공장’구축한다…‘제조RX’사업본격화",
-    "이정현\"호남반도체클러스터,후공정산업생태계먼저구축하자\"",
-    "신현송한은총재“기준금리인상필요…물가목표수준상회”",
     "'고점판독기'미자,SK하이닉스275만원입성후근황",
     "미래에셋코빗인수공정위승인..금융그룹첫코인거래소편입",
     "셀트리온,K-브랜드지수제약·바이오1위…SK바이오팜첫'톱10'",
@@ -3186,10 +3201,15 @@
     "자원·에너지등21건MOU…'한·몽황금시대'이정표세웠다",
     "클라우드AI메모리3EB…D램공급20%빨아들인다",
     "마이크론,美투자확대...'삼전하닉'베팅에돈뭉치꺼냈다",
-    "단일종목2배ETF'보완책'발표임박"
+    "단일종목2배ETF'보완책'발표임박",
+    "로봇이숲안내-배송…청주에전국첫‘AI휴양림’구축",
+    "“충청광역연합활용해반도체에392조투자”",
+    "울산차-조선-석유화학현장에AI도입",
+    "\"의대는생각도안했다\"베트남'전국수석'이카이스트택한이유",
+    "우상호강원지사\"30조AI데이터센터유치…대전환시작됐다\"[인터뷰..."
    ],
    "initialized": true,
-   "last_run": "2026-07-10T04:30:55.178433+09:00"
+   "last_run": "2026-07-10T04:35:23.275574+09:00"
   }
  },
  "press_names": {
