@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-09T19:01:13.585083+09:00",
-     "실적이 주가 주가는 역주행 이끈다고 바이오"
-    ],
-    [
-     "2026-07-09T19:01:13.585083+09:00",
-     "다음날엔 성과급 현대오토에버서 출범 자사주 노조 삼성SDS 무산"
-    ],
-    [
-     "2026-07-09T19:01:13.585083+09:00",
-     "교육감 김대중 서둘러야 지산지소 반도체 확충 인프라"
-    ],
-    [
      "2026-07-09T19:05:24.579756+09:00",
      "회복 불안 부품주 반도체 가리기 투심 옥석 IT"
     ],
@@ -410,10 +398,13 @@
     [
      "2026-07-10T01:01:02.573314+09:00",
      "흔드는 몸통 투기판 꼬리가 코스피"
+    ],
+    [
+     "2026-07-10T01:05:23.306802+09:00",
+     "순환매 독주 가능성 하반기 풀리나 삼전 하닉"
     ]
    ],
    "seen_urls": [
-    "https://www.cnbnews.com/news/articleView.html?idxno=1007520",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039046",
     "http://www.seouleconews.com/news/articleView.html?idxno=92293",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=86572",
@@ -1912,10 +1903,10 @@
     "https://www.chosun.com/economy/stock-finance/2026/07/10/AQ6ZEIQXGBBWVKFBPCRVOBADT4/",
     "http://www.fnnews.com/news/202607100048070930",
     "https://www.yna.co.kr/view/PYH20260710001700013?input=1196m",
-    "https://www.chosun.com/economy/stock-finance/2026/07/10/UGCIJBQUU5GOHDJCMTIZ3NUVKY/"
+    "https://www.chosun.com/economy/stock-finance/2026/07/10/UGCIJBQUU5GOHDJCMTIZ3NUVKY/",
+    "https://www.newsis.com/view/NISX20260709_0003702986"
    ],
    "seen_titles": [
-    "SK케미칼,지속가능경영보고서발간···온실가스6만톤감축",
     "SKAX,제조RX풀스택서비스선봬…'자율형공장'구축지원",
     "최태원,美뉴욕서\"SK하이닉스10배더커져야\"...AI성장성에글로벌투...",
     "SKAX,'제조RX풀스택서비스'본격화…자율형공장전환지원나선...",
@@ -3414,10 +3405,11 @@
     "‘통제불능’레버리지…코스피5%이상변동올해25일,작년엔2일",
     "SK하이닉스상장에월가도'잭팟'...월가수수료만1억4천만달러",
     "한-몽골정상,비즈니스포럼기념촬영",
-    "꼬리가몸통흔드는‘투기판코스피’"
+    "꼬리가몸통흔드는‘투기판코스피’",
+    "삼전·하닉독주풀리나…\"하반기순환매가능성\""
    ],
    "initialized": true,
-   "last_run": "2026-07-10T01:01:02.573314+09:00"
+   "last_run": "2026-07-10T01:05:23.306802+09:00"
   }
  },
  "press_names": {
