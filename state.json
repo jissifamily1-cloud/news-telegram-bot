@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-09T13:25:22.943495+09:00",
-     "새만금 관문 국제 된다 현대차 투자 9조 이어 해저케이블"
-    ],
-    [
-     "2026-07-09T13:25:22.943495+09:00",
-     "SK하이닉스 43조 나스닥 들고 가는 코리아 실탄 디스카운"
-    ],
-    [
-     "2026-07-09T13:30:57.514804+09:00",
-     "국고채 중동 5bp 3년물 불안심리 지속"
-    ],
-    [
-     "2026-07-09T13:30:57.514804+09:00",
-     "영토 확장 동부 반도체 이재용 최태원 동분서주 서부"
-    ],
-    [
-     "2026-07-09T13:30:57.514804+09:00",
-     "약세에 장중 하락 삼성전자 밀려 230선 폭등 코스피"
-    ],
-    [
      "2026-07-09T13:35:22.968579+09:00",
      "전쟁은 전환의 미국 충돌 시장은 돌아간다 끝나도 이란 질서"
     ],
@@ -1438,11 +1418,17 @@
     [
      "2026-07-09T19:20:53.131474+09:00",
      "second largest 5B listing in foreign history with eyes hynix"
+    ],
+    [
+     "2026-07-09T19:31:06.853343+09:00",
+     "충북도 발굴해야 이후 성장동력 반도체"
+    ],
+    [
+     "2026-07-09T19:31:06.853343+09:00",
+     "185만원 SK하닉 보고서 기다리자 기회 목표가 좋은 나와"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260709000278",
-    "https://www.newspim.com/news/view/20260709000274",
     "https://www.topstarnews.net/news/articleView.html?idxno=16128614",
     "https://www.ekn.kr/web/view.php?key=20260709023350773",
     "http://www.thebigdata.co.kr/view.php?ud=202607090940075915a79b9f00ab_23",
@@ -2940,11 +2926,11 @@
     "https://www.dt.co.kr/article/12072163",
     "https://www.ytn.co.kr/_ln/0102_202607091913568425",
     "https://www.koreajoongangdaily.com/business/sk-hynix-eyes-secondlargest-foreign-listing-in-us-history-with-245b-adr-offeringnbsp/12764927",
-    "https://biz.heraldcorp.com/article/10804195"
+    "https://biz.heraldcorp.com/article/10804195",
+    "http://www.inews365.com/news/article.html?no=926956",
+    "http://www.inews24.com/view/1984204"
    ],
    "seen_titles": [
-    "반도체주반등기대감···코스피,장초반7400선재탈환",
-    "상승출발하는삼성전자-SK하이닉스",
     "[특징주]SK하이닉스,美ADR앞두고7%대급등",
     "SK하이닉스주가,7월9일장중2,229,000원7.37%상승",
     "코스피,美반도체주훈풍에3%대반등…삼성전자·SK하이닉스강세[개...",
@@ -4442,10 +4428,12 @@
     "中CXMT,내주6.5조원IPO돌입…“애플,CXMTD램테스트중”관심폭발",
     "오락가락한코스피,간신히반등...0.6%오른7,291마감",
     "SKhynixeyessecond-largestforeignlistinginU.S.historywith$24.",
-    "이미200만원넘는데…SK하이닉스목표가185만원리포트등장"
+    "이미200만원넘는데…SK하이닉스목표가185만원리포트등장",
+    "충북도반도체이후성장동력발굴해야",
+    "SK하닉,목표가185만원보고서나와…\"더좋은기회기다리자\""
    ],
    "initialized": true,
-   "last_run": "2026-07-09T19:25:22.637072+09:00"
+   "last_run": "2026-07-09T19:31:06.853343+09:00"
   }
  },
  "press_names": {
