@@ -1337,7 +1337,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260709_0003702085",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=265736",
     "http://www.newstomato.com/ReadNews.aspx?no=1306654&inflow=N",
     "https://www.polinews.co.kr/news/articleView.html?idxno=736471",
@@ -2836,10 +2835,10 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607090439&t=NN",
     "https://www.iusm.co.kr/news/articleView.html?idxno=1065214",
     "https://www.iusm.co.kr/news/articleView.html?idxno=1065215",
-    "https://www.nytimes.com/2026/07/09/business/dealbook/iran-war-markets.html?partner=naver"
+    "https://www.nytimes.com/2026/07/09/business/dealbook/iran-war-markets.html?partner=naver",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=272792"
    ],
    "seen_titles": [
-    "장동혁\"입틀막법은이재명성역법…헌법소원청구·전면개정추진\"",
     "SK하이닉스,조달규모위축에도역대'2위'전망…260조원몰렸다",
     "(단독)KKR,SKAI데이터센터인수금융검토…1조원대증자윤곽",
     "반도체슈퍼사이클'시간싸움'",
@@ -4338,10 +4337,11 @@
     "외인'폭탄'방어에쏟아부은개미'실탄'…반등하자2조던졌다",
     "울산제조AX본격화…산·학·연·관메가협의체출범",
     "울산시,SKT·대학과AI데이터센터전문인력키운다",
-    "CracksinthePeace-TradeRally"
+    "CracksinthePeace-TradeRally",
+    "[MarketFocus]SK하이닉스나스닥ADR데뷔...가장큰의미는?"
    ],
    "initialized": true,
-   "last_run": "2026-07-09T20:31:02.386123+09:00"
+   "last_run": "2026-07-09T20:33:13.208222+09:00"
   }
  },
  "press_names": {
