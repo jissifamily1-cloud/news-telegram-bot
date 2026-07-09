@@ -1337,7 +1337,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=265736",
     "http://www.newstomato.com/ReadNews.aspx?no=1306654&inflow=N",
     "https://www.polinews.co.kr/news/articleView.html?idxno=736471",
     "https://www.mk.co.kr/article/12094112",
@@ -2836,10 +2835,10 @@
     "https://www.iusm.co.kr/news/articleView.html?idxno=1065214",
     "https://www.iusm.co.kr/news/articleView.html?idxno=1065215",
     "https://www.nytimes.com/2026/07/09/business/dealbook/iran-war-markets.html?partner=naver",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=272792"
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=272792",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607090447&t=NN"
    ],
    "seen_titles": [
-    "SK하이닉스,조달규모위축에도역대'2위'전망…260조원몰렸다",
     "(단독)KKR,SKAI데이터센터인수금융검토…1조원대증자윤곽",
     "반도체슈퍼사이클'시간싸움'",
     "사흘떨어졌으니오늘이들어갈기회?…개미9천억팔때기관·외국인‘...",
@@ -4338,10 +4337,11 @@
     "울산제조AX본격화…산·학·연·관메가협의체출범",
     "울산시,SKT·대학과AI데이터센터전문인력키운다",
     "CracksinthePeace-TradeRally",
-    "[MarketFocus]SK하이닉스나스닥ADR데뷔...가장큰의미는?"
+    "[MarketFocus]SK하이닉스나스닥ADR데뷔...가장큰의미는?",
+    "이미200만원넘는데…\"목표가185만원\"등장,왜?"
    ],
    "initialized": true,
-   "last_run": "2026-07-09T20:33:13.208222+09:00"
+   "last_run": "2026-07-09T20:35:21.179920+09:00"
   }
  },
  "press_names": {
