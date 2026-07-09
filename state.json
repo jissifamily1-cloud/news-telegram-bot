@@ -558,11 +558,13 @@
     [
      "2026-07-09T23:45:31.959235+09:00",
      "9천피 고점에 이렇게 물렸다면 다시 있을까"
+    ],
+    [
+     "2026-07-09T23:50:46.797148+09:00",
+     "침묵과 복종 강요하는 성역화"
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20260709508630?OutUrl=naver",
-    "https://www.ppss.kr/news/articleView.html?idxno=301595",
     "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=519614",
     "https://www.newsway.co.kr/news/view?ud=2026070909485102367",
     "https://www.news2day.co.kr/article/20260709500097",
@@ -2060,11 +2062,11 @@
     "https://www.tokenpost.kr/news/market/376342",
     "http://www.fnnews.com/news/202607092339549626",
     "https://www.munhwa.com/article/11601620",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8607093"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8607093",
+    "https://www.munhwa.com/article/11601621",
+    "https://www.chosun.com/opinion/specialist_column/2026/07/10/GPULQDKLP5EYFMYKVV6WNVQCCA/"
    ],
    "seen_titles": [
-    "나스닥상장하면SK하이닉스주가오른다?...“NO,거버넌스개선해야”",
-    "코스피,이틀급락딛고장초반3%대반등…반도체株강세외국인·기관...",
     "SK바이오사이언스,WHO현장실사없이GMP점검통과…품질경쟁력입증",
     "SK하이닉스,최태원회장美나스닥방문소식에7%대강세[특징주]",
     "[N2증시풍향계]ADR상장하루앞두고SK하이닉스·SK스퀘어동반'강세...",
@@ -3562,10 +3564,12 @@
     "SK하이닉스,나스닥ADR상장으로글로벌투자자접근성확대",
     "SK하이닉스,공모가149달러제시...외국기업최대IPO쓴다",
     "[속보]“하닉美공모가149달러제시…韓증시보다높아”블룸버그",
-    "“9천피다시볼수있을까?”…고점에물렸다면‘이렇게’"
+    "“9천피다시볼수있을까?”…고점에물렸다면‘이렇게’",
+    "“SK하이닉스ADR공모에7배청약…37조조달전망”-블룸버그",
+    "[박은식의호남통신]침묵과복종강요하는5·18성역화"
    ],
    "initialized": true,
-   "last_run": "2026-07-09T23:45:31.959235+09:00"
+   "last_run": "2026-07-09T23:50:46.797148+09:00"
   }
  },
  "press_names": {
