@@ -1294,11 +1294,13 @@
     [
      "2026-07-09T20:42:18.229259+09:00",
      "인재 지역 맞춤형 키운다 AI데이터센터"
+    ],
+    [
+     "2026-07-09T20:45:29.698330+09:00",
+     "아침의 비즈니스포스트 주요기사"
     ]
    ],
    "seen_urls": [
-    "https://www.nocutnews.co.kr/news/6545482",
-    "https://news.tf.co.kr/read/economy/2341392.htm",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=03384966645512880",
     "https://www.newsinside.kr/news/articleView.html?idxno=4825980",
     "https://www.news1.kr/industry/general-industry/6222383",
@@ -2796,11 +2798,11 @@
     "https://kjmbc.co.kr/NewsArticle/1526863",
     "https://biz.heraldcorp.com/article/10804040",
     "http://www.ujeil.com/news/articleView.html?idxno=388561",
-    "http://www.ujeil.com/news/articleView.html?idxno=388631"
+    "http://www.ujeil.com/news/articleView.html?idxno=388631",
+    "http://coinreaders.com/246942",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=442015"
    ],
    "seen_titles": [
-    "코스피,연이틀급락딛고3%대반등",
-    "SK하이닉스주주불안잠재울까…KB증권\"목표가420만원\"",
     "李,오늘한·몽비즈니스포럼참석…핵심광물·인프라협력확대당부",
     "최태원,SK하이닉스나스닥상장맞아'미국행'",
     "최태원,미국서메모리세일즈…SK하이닉스나스닥상장기념식찾는다",
@@ -4298,10 +4300,12 @@
     "송영길\"호남,당권의길\"…민주당'호남구애'본격화",
     "반도체주더올라,팔아?…이달말발표가진짜분수령[투자360]",
     "울산,전북과라이벌전연패사슬끊는다",
-    "市,AI데이터센터맞춤형지역인재키운다"
+    "市,AI데이터센터맞춤형지역인재키운다",
+    "코스피약세장인데...SK하이닉스,美주문7배폭발",
+    "[7월10일자]비즈니스포스트아침의주요기사"
    ],
    "initialized": true,
-   "last_run": "2026-07-09T20:42:18.229259+09:00"
+   "last_run": "2026-07-09T20:45:29.698330+09:00"
   }
  },
  "press_names": {
