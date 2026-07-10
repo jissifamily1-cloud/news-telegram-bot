@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T00:25:22.334579+09:00",
-     "회장 토큰 비용 낮춰야"
-    ],
-    [
-     "2026-07-11T00:25:22.334579+09:00",
-     "주도로 말썽 정책실장 자신 참견하다 온갖 ETF엔"
-    ],
-    [
      "2026-07-11T00:35:21.770696+09:00",
      "프로젝트를 캠퍼스로 메가 글로벌 문샷 넘어"
     ],
@@ -273,8 +265,6 @@
     ]
    ],
    "seen_urls": [
-    "https://imnews.imbc.com/replay/2026/nw1200/article/6836492_36967.html",
-    "https://www.xportsnews.com/article/2170372",
     "http://www.joseilbo.com/news/news_read.php?uid=571672&class=1",
     "https://www.aitimes.com/news/articleView.html?idxno=212609",
     "https://www.gpkorea.com/news/articleView.html?idxno=144595",
@@ -1772,11 +1762,11 @@
     "https://www.news1.kr/world/usa-canada/6224833",
     "https://www.mt.co.kr/world/2026/07/11/2026071106113218233",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608132",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652522&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652522&plink=ORI&cooper=NAVER",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=167996",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652518&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "SK하이닉스ADR공모가149달러확정...40조원조달,美외국기업IPO최...",
-    "코스피4%대상승날…상위1%투자자SK하이닉스집중매수[주식초고수...",
     "한화·IBK·SK등7곳,'중기특화'증권사선정...중소·벤처자금지원...",
     "마이크론4.5%급등…뉴욕증시3대지수일제히올랐다",
     "보유·거래세손보나‥23일대통령주재부동산토론회",
@@ -3274,10 +3264,12 @@
     "[뉴욕마감]S&P5000.42%↑…SK하닉상장첫날13%급등",
     "외신도\"SK하이닉스대박\"…美증시상장봇물터졌다",
     "SK하이닉스,역사적나스닥상장…“AI에도수백억달러투자”",
-    "[모닝와이드]오늘의주요뉴스"
+    "[모닝와이드]오늘의주요뉴스",
+    "나스닥100'상승'...엔비디아'껑충',마이크론·인텔'뚝'",
+    "SK하이닉스나스닥입성…첫날공모가대비13%↑"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T06:20:52.401673+09:00"
+   "last_run": "2026-07-11T06:25:22.663766+09:00"
   }
  },
  "press_names": {
