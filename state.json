@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-10T19:10:49.963810+09:00",
-     "휴장 대만 하락 상승 홍콩"
-    ],
-    [
-     "2026-07-10T19:15:25.720342+09:00",
-     "국궁세트 몽골 대통령 활쏘기 선물 공유 전통 대통령에"
-    ],
-    [
-     "2026-07-10T19:15:25.720342+09:00",
-     "살까 셈법 복잡 서학이냐 어디서 동학이냐 개미들"
-    ],
-    [
      "2026-07-10T19:20:50.918421+09:00",
      "낮춘 닉스도 현대차도 주도주 목표가 증권가 삼전도 줄줄이"
     ],
@@ -397,9 +385,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.topstarnews.net/news/articleView.html?idxno=16130529",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1384832",
-    "https://www.hidomin.com/news/articleView.html?idxno=712744",
     "https://www.seoul.co.kr/news/economy/industry/2026/07/10/20260710500094?wlog_tag3=naver",
     "https://imnews.imbc.com/news/2026/politics/article/6836472_36911.html",
     "http://news.lghellovision.net/news/articleView.html?idxno=548062",
@@ -1896,12 +1881,12 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608105",
     "https://www.koreajoongangdaily.com/business/sk-hynix-adrs-surge-15-percent-on-nasdaq-debut/12767926",
     "https://www.newspim.com/news/view/20260711000004",
-    "https://www.joongang.co.kr/article/25444211"
+    "https://www.joongang.co.kr/article/25444211",
+    "https://www.joongangenews.com/news/articleView.html?idxno=532182",
+    "https://www.joongang.co.kr/article/25444220",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=724257"
    ],
    "seen_titles": [
-    "코스닥지수10개월전으로회귀...종목10개중7개는20%이상떨어졌...",
-    "[자막뉴스]드디어ADR공모가격확정됐다…\"10분의1수준\"사상최대...",
-    "예측불가롤러코스피,이유는?/‘피크아웃공포’인가‘저가매수기...",
     "HW최소필수지식,병목은읽어야한다[AI시대게임체인저SW개발자②...",
     "송영길\"당대표되면3대메가프로젝트지원특위구성\"",
     "삼성전자노조,“성과급지역화폐지급즉각철회해야”",
@@ -3398,10 +3383,13 @@
     "최태원“AI분야수백억달러투자…HBM수요기하급수적증가”",
     "SKhynixADRssurge15percentonNasdaqdebut",
     "최태원\"미국투자,350억달러보다훨씬크게…AI에수백억달러투자\"",
-    "최태원“나스닥입성,역사적순간…AI분야수백억달러투자”"
+    "최태원“나스닥입성,역사적순간…AI분야수백억달러투자”",
+    "SK하이닉스,나스닥화려한데뷔'주가급등'…최태원회장\"AI에수백억...",
+    "뒤처지고있을쏘냐…‘게임체인저’전고체배터리집중,이르면내년...",
+    "SK하이닉스,美나스닥입성…상장첫날14%대급등하며'흥행성공'"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T01:10:48.984664+09:00"
+   "last_run": "2026-07-11T01:15:27.140796+09:00"
   }
  },
  "press_names": {
