@@ -1073,12 +1073,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0102_202607100945255239",
-    "https://www.newsis.com/view/NISX20260710_0003703829",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447496",
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/10/20260710500047?wlog_tag3=naver",
-    "https://www.news2day.co.kr/article/20260710500043",
-    "https://www.joongangenews.com/news/articleView.html?idxno=531995",
     "http://www.datanews.co.kr/news/article.html?no=145543",
     "https://news.dealsitetv.com/articles/173126",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=387914",
@@ -2572,15 +2566,15 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05307046645513208",
     "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539116",
     "https://www.hankyung.com/article/2026071083056",
-    "https://www.hankyung.com/article/2026071087371"
+    "https://www.hankyung.com/article/2026071087371",
+    "https://www.mk.co.kr/article/12095771",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8607877",
+    "https://www.newsis.com/view/NISX20260710_0003704963",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=05333286645513208",
+    "https://imnews.imbc.com/news/2026/politics/article/6836604_36911.html",
+    "https://www.newspim.com/news/view/20260710001470"
    ],
    "seen_titles": [
-    "코스피2.7%급등해7480선…기관6000억원순매수",
-    "금융위,중기특화증권사7곳지정…모험자본공급망키운다",
-    "하나은행,기보와반도체소부장협력기업지원업무협약",
-    "또팔아치우는외국인…코스피,2%대상승출발[시황]",
-    "[특징주]코스피반등에증권株동반강세…“2분기호실적기대”",
-    "SK하이닉스ADR공모가공개...한국돈으로얼마?",
     "SKhynixRaises$26.5BillioninLandmarkU.S.ADROfferingtoAccelera",
     "SK하이닉스,美ADR역대최대공모…40조원실탄확보",
     "SK하이닉스ADR공모가주당149달러…총40조원조달",
@@ -4074,10 +4068,16 @@
     "\"한국교육수준높아\"…SAT만점베트남수석,카이스트행",
     "SK하이닉스나스닥입성…스페이스X이어두번째규모",
     "JP모간뉴욕본사태극기로덮었다…월가홀린SK하이닉스[종목+]",
-    "SK·에쓰오일·GS'깜짝실적'가능성"
+    "SK·에쓰오일·GS'깜짝실적'가능성",
+    "‘활쏘기문화’담았다…이대통령,몽골대통령에게건넨특별한선물",
+    "이대통령,몽골대통령에게‘국궁세트’선물…경제인40명도만찬참...",
+    "한-몽골국빈만찬에경제인40여명도참석…李작사'스물여덟'공연도",
+    "李,몽골대통령과국빈만찬…국궁세트·스마트워치선물",
+    "이대통령,몽골대통령에국궁세트·스마트워치선물‥\"활쏘기양국...",
+    "李대통령,'경제사절단'과몽골국빈만찬참석…양국경제협력강화..."
    ],
    "initialized": true,
-   "last_run": "2026-07-10T20:05:21.403976+09:00"
+   "last_run": "2026-07-10T20:10:47.253529+09:00"
   }
  },
  "press_names": {
