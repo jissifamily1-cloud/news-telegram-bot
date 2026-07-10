@@ -394,12 +394,13 @@
     [
      "2026-07-11T08:30:57.040740+09:00",
      "공급망 상생공영"
+    ],
+    [
+     "2026-07-11T08:33:57.301020+09:00",
+     "가치 측정 사회적 SKT 7월2주차 소프트뱅크와 창출"
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/industry/business-venture/2026/07/10/COUMWPTPIRHS7N3FQOZT7GRLXM/",
-    "https://www.ajunews.com/view/20260710104646063",
-    "http://www.newstomato.com/ReadNews.aspx?no=1306797&inflow=N",
     "https://www.bigtanews.co.kr/article/view/big202607100009",
     "https://www.econotimes.com/Asian-Stocks-Rise-as-AI-Chip-Rally-Offsets-Middle-East-Tensions-1746430",
     "https://www.hankyung.com/article/202607107584i",
@@ -1896,12 +1897,12 @@
     "http://www.newsian.co.kr/news/articleView.html?idxno=92099",
     "http://www.yonhapnewstv.co.kr/news/MYH20260711082553bIc",
     "https://biz.heraldcorp.com/article/10805460",
-    "http://www.nongaek.com/news/articleView.html?idxno=96025"
+    "http://www.nongaek.com/news/articleView.html?idxno=96025",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=141392",
+    "https://www.dt.co.kr/article/12072294",
+    "https://www.theguru.co.kr/news/article.html?no=104273"
    ],
    "seen_titles": [
-    "이정후,대수비출전에도2루타폭발···3경기만에안타신고",
-    "청와대\"삼전닉스레버리지ETF,F4회의서논의해보완결정\"",
-    "[서울데이터랩]코스피거래상위종목강세…금호타이어상한가,삼성전...",
     "[서울데이터랩]코스피시총상위주장중강세…삼성전자5%대상승,금융...",
     "[오늘의그래픽]SK하이닉스ADR,1주149달러…오늘밤나스닥입성",
     "정부,해외한인기술인재20개팀국내복귀지원",
@@ -3398,10 +3399,13 @@
     "최태원\"메모리수요,공급확대속도훨씬능가…생산더늘려야\"",
     "SK하이닉스나스닥입성…168달러급등마감",
     "장중19%뛴SK하이닉스…국내종가대비16%프리미엄",
-    "[아키타입(Archetype)사자성어경영학](92)상생공영(相生共榮)-공급망(S..."
+    "[아키타입(Archetype)사자성어경영학](92)상생공영(相生共榮)-공급망(S...",
+    "SK하이닉스,나스닥첫날공모가대비13%오른168달러로거래마감",
+    "SK하이닉스,美나스닥성공적입성…첫날공모가대비13%↑",
+    "[통신리뷰]SKT,소프트뱅크와'AI창출사회적가치'측정(7월2주차)"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T08:30:57.040740+09:00"
+   "last_run": "2026-07-11T08:33:57.301020+09:00"
   }
  },
  "press_names": {
