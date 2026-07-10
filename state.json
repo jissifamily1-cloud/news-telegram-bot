@@ -441,9 +441,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.moneystorm.kr/news/articleView.html?idxno=5007",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=272813",
-    "https://www.newsis.com/view/NISX20260710_0003703522",
     "https://www.mk.co.kr/article/12095203",
     "https://www.businesspost.co.kr/BP?command=article_view&num=442040",
     "http://www.issuenbiz.com/news/articleView.html?idxno=77795",
@@ -1940,12 +1937,12 @@
     "https://www.kdpress.co.kr/news/articleView.html?idxno=206826",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5205227",
     "https://biz.chosun.com/international/international_economy/2026/07/10/XWMMZNUYEZDIPLGH7DS6OU7WGY/",
-    "https://biz.heraldcorp.com/article/10805428"
+    "https://biz.heraldcorp.com/article/10805428",
+    "https://www.dailian.co.kr/news/view/1665963/?sc=Naver",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424467",
+    "https://www.yna.co.kr/view/AKR20260710172100071?input=1195m"
    ],
    "seen_titles": [
-    "'역사상최초22연속안타→21년대기록까지'3위로시작해9위로끝났...",
-    "SK하이닉스,역대급나스닥IPO시동…40조조달로AI반도체승부수",
-    "삼성전자노조,지역상품권임금지급법안반발…\"국회의원세비부터...",
     "미상무장관,“삼성·하이닉스美내반도체팹확대해라”",
     "SKhynixissettoringtheNasdaqbell.WhatitsrecordUSlistingmeans.",
     "삼성전자노조\"임금은현금으로\"…상품권지급법안반대",
@@ -3442,10 +3439,13 @@
     "[주요공시]파두,한화엔진,남광토건,티에스이,대웅제약,앤로보틱스...",
     "SK하이닉스나스닥입성…10일첫거래개시",
     "뉴욕증시,중동發긴장재확산에혼조세출발",
-    "25년전파산위기서나스닥까지…SK하이닉스‘꿈☆은이루어진다’"
+    "25년전파산위기서나스닥까지…SK하이닉스‘꿈☆은이루어진다’",
+    "\"나스닥상장그이상\"…SK하이닉스가AI심장부로간이유(종합)",
+    "곽노정\"나스닥상장,전세계투자자들에게새로운문열어\"",
+    "최태원\"하이닉스美상장역사적순간…AI분야수백억달러투자\""
    ],
    "initialized": true,
-   "last_run": "2026-07-10T23:50:50.269846+09:00"
+   "last_run": "2026-07-10T23:55:22.114140+09:00"
   }
  },
  "press_names": {
