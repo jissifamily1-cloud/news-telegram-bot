@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-10T07:50:47.021203+09:00",
-     "제시한 간다 현재가보다 185만원 증권사 하이닉스에 400만원"
-    ],
-    [
-     "2026-07-10T07:50:47.021203+09:00",
-     "이사회는 최태원은 그러나 있다 말할 SK하이닉스"
-    ],
-    [
-     "2026-07-10T07:50:47.021203+09:00",
-     "뉴욕증시 중동 올랐다 미국 유가가 밀었다 끌고 위기에도 반도체가"
-    ],
-    [
      "2026-07-10T07:54:14.176816+09:00",
      "7월 퍼레이드 오프닝 10일"
     ],
@@ -1174,16 +1162,17 @@
     [
      "2026-07-10T13:40:47.943392+09:00",
      "신세계아이앤씨도 노조 삼성SDS 이어 현대오토에버 설립"
+    ],
+    [
+     "2026-07-10T13:50:48.078693+09:00",
+     "신고가 단지 희소성에 정비사업 행진 신축 지역 흥행"
+    ],
+    [
+     "2026-07-10T13:50:48.078693+09:00",
+     "양시장 급등에 코스닥 사이드카 매수"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH20260709212504BYA",
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2287070",
-    "https://www.ajunews.com/view/20260709220008609",
-    "https://biz.heraldcorp.com/article/10804242",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682988",
-    "https://www.munhwa.com/article/11601617",
-    "https://www.munhwa.com/article/11601615",
     "http://www.gnmaeil.com/news/articleView.html?idxno=590500",
     "https://www.newsis.com/view/NISX20260709_0003701803",
     "https://www.mk.co.kr/article/12094895",
@@ -2676,16 +2665,16 @@
     "https://www.fntimes.com/html/view.php?ud=2026071011072355492a735e27af_18",
     "https://www.newsis.com/view/NISX20260710_0003704226",
     "https://www.tjb.co.kr/news05/bodo/view/id/100764",
-    "http://www.techholic.co.kr/news/articleView.html?idxno=222060"
+    "http://www.techholic.co.kr/news/articleView.html?idxno=222060",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=141358",
+    "https://www.hani.co.kr/arti/economy/finance/1267681.html",
+    "https://www.ngetnews.com/news/articleView.html?idxno=551451",
+    "https://www.tokenpost.kr/news/economy/376518",
+    "https://www.newsis.com/view/NISX20260710_0003704294",
+    "https://www.bizwork.co.kr/news/articleView.html?idxno=417187",
+    "https://view.asiae.co.kr/article/2026071013473354175"
    ],
    "seen_titles": [
-    "세계증시주도하던코스피,몇주만에약세장…'AI·반도체쏠림의역...",
-    "삼전닉스'빚투'7월에만7000억불어나…반대매매'주의보'[분석+]",
-    "[미리보는이데일리신문]국산전기차,중국산공습에‘안방’내줄...",
-    "SK하이닉스나스닥상장'D-1'…증권가\"가치할인해소기대\"",
-    "‘의치한약수반’…의대대신반도체,‘신샐러리맨신화’탄생",
-    "울산주력제조업AX협의체본격가동",
-    "AX협의체출범,AI거점도약기회로",
     "국힘,\"호남에서전기생산한다고반도체가거길왜가야하나\"",
     "AI데이터센터,인력양성이경쟁력이다",
     "신현송\"적절한시기에기준금리올릴것\"",
@@ -4178,10 +4167,17 @@
     "SK하이닉스미국상장,한국자본시장'멀티마켓시대'여나",
     "'AI거품론'쐈던메타,오히려AI인프라투자늘린다…올해7GW→내년...",
     "삼성전자노조\"지역화폐성과급지급반대…근로기준법개정안철회해...",
-    "SK하이닉스,ADR공모가149달러확정-美IPO사상첫'프리미엄프라이..."
+    "SK하이닉스,ADR공모가149달러확정-美IPO사상첫'프리미엄프라이...",
+    "SK하이닉스,10일나스닥상장...'본주팔고미장?'흔들리는투심",
+    "코스피,주초반폭락딛고5%급등…매수사이드카발동",
+    "삼성전자노조,성과급지역화폐지급반대…\"국회의원부터적용하라\"",
+    "[특징주]삼성전자7%대급등에코스피·코스닥매수사이드카…반도체...",
+    "SK하이닉스,美ADR상장'디데이'…'밸류재평가'시험대오른다(종합)",
+    "지역첫정비사업단지'흥행공식'…신축희소성에신고가행진",
+    "코스닥5%·코스닥6%급등에양시장매수사이드카"
    ],
    "initialized": true,
-   "last_run": "2026-07-10T13:45:25.627122+09:00"
+   "last_run": "2026-07-10T13:50:48.078693+09:00"
   }
  },
  "press_names": {
