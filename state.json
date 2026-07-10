@@ -410,16 +410,17 @@
     [
      "2026-07-11T08:40:47.118125+09:00",
      "급등 몰린 SK하이닉스에 이유 월가가 첫날부터"
+    ],
+    [
+     "2026-07-11T08:45:25.543641+09:00",
+     "치솟는 생존 주식뿐 한국 청년 있는 앞에 일본이 집값"
+    ],
+    [
+     "2026-07-11T08:45:25.543641+09:00",
+     "급등 공모가 딜은 SK하닉ADR 미국 대비 주식 전체"
     ]
    ],
    "seen_urls": [
-    "https://www.newstnt.com/news/articleView.html?idxno=709757",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=220712",
-    "https://biz.sbs.co.kr/article_hub/20000321775?division=NAVER",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424412",
-    "https://www.pressian.com/pages/articles/2026071013473220382",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008651654&plink=ORI&cooper=NAVER",
-    "https://www.news1.kr/photos/8002097",
     "https://www.news1.kr/photos/8002090",
     "https://www.news1.kr/photos/8002099",
     "https://www.news1.kr/photos/8002101",
@@ -1912,16 +1913,16 @@
     "https://www.donga.com/news/Economy/article/all/20260711/134278606/1",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=306853",
     "http://www.inews24.com/view/1984521",
-    "http://coinreaders.com/247225"
+    "http://coinreaders.com/247225",
+    "https://www.nextdaily.co.kr/news/articleView.html?idxno=251223",
+    "https://www.bigtanews.co.kr/article/view/big202607110001",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3632813",
+    "http://www.joseilbo.com/news/news_read.php?uid=571710&class=53",
+    "https://www.youthdaily.co.kr/news/article.html?no=222782",
+    "https://magazine.hankyung.com/business/article/202607107766b",
+    "https://www.munhwa.com/article/11601900"
    ],
    "seen_titles": [
-    "도심인프라품고신축희소성갖췄다…'지역첫정비사업'단지주목",
-    "코스피7600선탈환…양시장매수사이드카",
-    "과기정통부,해외한인기술인력20개팀국내복귀지원...KTP공식출범",
-    "닛케이“SK하이닉스ADR,레버리지ETF열풍속미증시변동성키울수...",
-    "기후부,배전망ESS구축지원사업착수…국내첫도입",
-    "배전망ESS로태양광182.4㎿추가접속…9개사선정",
-    "남아도는호남·제주재생에너지'ESS'로관리…5만가구분량",
     "과기정통부,해외한인기술인재20개팀국내유치추진",
     "정부,해외한인AI·첨단기술인재20개팀국내복귀지원",
     "기후부,배전망ESS구축…재생에너지1GW추가접속",
@@ -3414,10 +3415,17 @@
     "SK하이닉스나스닥첫날168달러마감…공모가대비13%↑",
     "[유통가상반기돌아보니]⑩코웨이독주...구독호황에도'희비'",
     "'차이나잔혹사'끝냈다⋯아모레·LG생건,美현지화로'제2전성기'",
-    "첫날부터17%급등!월가가SK하이닉스에몰린이유"
+    "첫날부터17%급등!월가가SK하이닉스에몰린이유",
+    "SK하이닉스,나스닥데뷔첫날12.76%급등…시총1조2000억육박",
+    "[데일리머니마켓]SK하이닉스나스닥상장첫날13.1%↑",
+    "나스닥다우지수상승마감...하이닉스상장영향'13%급등'",
+    "타임스스퀘어수놓은‘SKHY’…최태원“AI시대,메모리부족장기화...",
+    "SK하이닉스,나스닥데뷔첫날13%급등…'코리아디스카운트'해소기대...",
+    "\"치솟는집값앞에할수있는건주식뿐\"...일본이본'한국청년생존...",
+    "‘공모가대비13%급등’…SK하닉ADR,“이번딜은미국전체주식공..."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T08:40:47.118125+09:00"
+   "last_run": "2026-07-11T08:45:25.543641+09:00"
   }
  },
  "press_names": {
