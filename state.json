@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-10T22:25:24.569362+09:00",
-     "스마트워치 대통령 국빈만찬에 대동 국궁 경제인 40여명"
-    ],
-    [
-     "2026-07-10T22:25:24.569362+09:00",
-     "뉴욕증시 차익실현에 특징주 반도체주는 개장 강세 써클 WD"
-    ],
-    [
      "2026-07-10T22:35:21.001926+09:00",
      "ADR 곽노정 AI중심지에서 구축 파트너십 SK하이닉스 거래"
     ],
@@ -309,10 +301,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424386",
-    "http://www.ddanzi.com/889168676",
-    "https://www.mediapen.com/news/view/1109403",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03663766645513208",
     "https://www.polinews.co.kr/news/articleView.html?idxno=736623",
     "https://biz.heraldcorp.com/article/10804850",
     "https://www.news1.kr/it-science/general-it/6224157",
@@ -1808,12 +1796,13 @@
     "https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html?partner=naver",
     "https://www.tokenpost.kr/news/tech/376677",
     "https://www.ytn.co.kr/_ln/0104_202607110417567935",
-    "https://biz.sbs.co.kr/article_hub/20000321766?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000321766?division=NAVER",
+    "https://biz.sbs.co.kr/article_hub/20000321877?division=NAVER",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01272646645513536",
+    "https://www.tokenpost.kr/news/market/376679",
+    "https://www.tokenpost.kr/news/market/376678"
    ],
    "seen_titles": [
-    "코스피,장중3~4%대급등해7,500선…코스닥은5%급등",
-    "한앤코,이동춘CPO·조성관CIO수석부사장승진",
-    "[정치家]구윤철부총리⑪ㅣ메가프로젝트·시장안정·세제개편…경제...",
     "靑\"단일종목레버리지ETF,F4회의서면밀히살펴보고대응\"(종합2보)",
     "[메가이슈토픽]공정위'브랜드값'칼끝,한화·CJ향하자…재계\"표적조...",
     "[기업家]쿠팡ㅣ美'차별'주장vs韓반박…외교이슈속실적은회복",
@@ -3310,10 +3299,13 @@
     "KoreanChipMaker’sStockRisesAfterHugeI.P.O.,LatestSignofA.I..",
     "SK하이닉스,나스닥상장통해AI산업중심미국시장겨냥",
     "SK하이닉스,나스닥서170달러안팎거래...공모가대비14%↑",
-    "변동장에쪼그라든ETF…반도체로투심훔칠까"
+    "변동장에쪼그라든ETF…반도체로투심훔칠까",
+    "SK하이닉스,나스닥서공모가대비14%오른170달러거래",
+    "최태원\"AI는아직4~5살짜리아이…AGI올때까지메모리수요계속늘...",
+    "SK하이닉스,나스닥상장으로글로벌AI반도체시장공략강화"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T04:25:21.390377+09:00"
+   "last_run": "2026-07-11T04:30:58.596752+09:00"
   }
  },
  "press_names": {
