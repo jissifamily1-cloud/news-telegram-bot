@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-10T05:50:48.836915+09:00",
-     "단일종목 경고등 ETF는 삼성전자 폭락 내렸는데 레버리지"
-    ],
-    [
-     "2026-07-10T05:50:48.836915+09:00",
-     "급등 반도체주 강세 메모리 랠리에 마이크론"
-    ],
-    [
-     "2026-07-10T05:55:20.950567+09:00",
-     "없다 반도체 속도만으로는 클러스터 이길"
-    ],
-    [
      "2026-07-10T06:00:57.435438+09:00",
      "재평가 상장으로 대표주 월가 SK하이닉스는 기대 메모리"
     ],
@@ -1397,9 +1385,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/general-stock/6223541",
-    "https://www.sedaily.com/article/20065978",
-    "https://magazine.hankyung.com/business/article/202607096437b",
     "https://www.munhwa.com/article/11601600",
     "https://www.pressian.com/pages/articles/2026070916065308226",
     "http://www.fnnews.com/news/202607091828469515",
@@ -2896,12 +2881,12 @@
     "https://www.newsis.com/view/NISI20260710_0021358455",
     "http://www.newstown.co.kr/news/articleView.html?idxno=708792",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=361936",
-    "https://biz.sbs.co.kr/article_hub/20000321756?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000321756?division=NAVER",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=265909",
+    "https://biz.chosun.com/stock/stock_general/2026/07/10/PVYNZIFHZJE5RJGH4Z4G6VJ2QQ/",
+    "https://www.hankyung.com/article/2026071076457"
    ],
    "seen_titles": [
-    "2년공사비갈등종지부…GTX-C공사재개에남북역세권'들썩'",
-    "'해킹먹구름'걷어낸통신3사…영업익'5조시대'눈앞",
-    "국민연금,반도체주도수익극대화:메디컬투데이TV",
     "Chipstocksstumble:HasAIpeaked,orisBigTechhoggingthegains?",
     "건설산업연맹,'상생협력·원청교섭'으로건설산업살리자",
     "\"잠실까지한번에간다\"성수석호,민선9기첫교통개혁승부수",
@@ -4398,10 +4383,13 @@
     "SK하이닉스ADR공모가격주당149달러확정",
     "SK하이닉스,미국주식매각으로265억달러조달",
     "'삼전닉스ETF'개편되나…청와대,'F4회의에서면밀하게살펴볼것\"",
-    "SK하닉,하루18시간거래시대…차익거래도열린다"
+    "SK하닉,하루18시간거래시대…차익거래도열린다",
+    "\"피크아웃은없다\"…SK하이닉스,'40조원나스닥실탄'으로AI초격차승...",
+    "기관‘사자’에코스피4%·코스닥6%상승세",
+    "\"스페이스X·아람코다음\"…SK하이닉스美상장,세계3위규모"
    ],
    "initialized": true,
-   "last_run": "2026-07-10T11:50:47.968175+09:00"
+   "last_run": "2026-07-10T11:55:21.299436+09:00"
   }
  },
  "press_names": {
