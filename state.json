@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-10T19:20:50.918421+09:00",
-     "낮춘 닉스도 현대차도 주도주 목표가 증권가 삼전도 줄줄이"
-    ],
-    [
-     "2026-07-10T19:25:19.590397+09:00",
-     "변수 헬륨 수출 금지 전면 조달망에 반도체"
-    ],
-    [
      "2026-07-10T19:30:57.744101+09:00",
      "잡는 프로젝트 3대 타파 발목 규제 메가 출범 특위 과감히"
     ],
@@ -390,11 +382,13 @@
     [
      "2026-07-11T01:20:47.435882+09:00",
      "Group Chair Nasdaq moment debut huge Chey expects says historical"
+    ],
+    [
+     "2026-07-11T01:25:23.124522+09:00",
+     "대통령 좌중 상영 몽골 일대기 사진에 결혼식 국빈만찬장 웃음"
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467322",
-    "http://www.newsworker.co.kr/news/articleView.html?idxno=435699",
     "https://www.ggilbo.com/news/articleView.html?idxno=1168625",
     "https://www.munhwa.com/article/11601732",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/10/2026071000082.html",
@@ -1892,11 +1886,11 @@
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553367876",
     "https://www.newspim.com/news/view/20260711000007",
     "https://www.econovill.com/news/articleView.html?idxno=744897",
-    "https://en.yna.co.kr/view/AEN20260711000200315?input=2106m"
+    "https://en.yna.co.kr/view/AEN20260711000200315?input=2106m",
+    "https://www.koreajoongangdaily.com/business/sk-hynix-adrs-surge-14-percent-on-nasdaq-debut/12767926",
+    "https://www.mt.co.kr/politics/2026/07/11/2026071101134625903"
    ],
    "seen_titles": [
-    "SK인텔릭스-서울디자인재단,DDP에AI웰니스로봇'나무엑스'도입",
-    "하나銀-기보,반도체소부장금융지원확대…1000억원협약보증조성",
     "SK텔레콤,AI데이터센터인수금융보도해명→구체적결정미확정",
     "SK하이닉스ADR149달러인이유..\"할인대신웃돈\"",
     "김민석\"메가프로젝트전북소외아냐…1차분,2·3차이어져\"",
@@ -3394,10 +3388,12 @@
     "'무려연봉총액601억원'KBO역수출신화,메릴켈리\"승부에만집중...",
     "[종합]SK하이닉스,나스닥서170달러에거래시작…공모가대비14%↑",
     "SK하이닉스,나스닥첫날175.84달러…공모가보다18%높아",
-    "SKGroupChairCheysaysNasdaqdebut'historicalmoment,'expectshug"
+    "SKGroupChairCheysaysNasdaqdebut'historicalmoment,'expectshug",
+    "SKhynixADRssurge14percentonNasdaqdebut",
+    "몽골국빈만찬장'李대통령일대기'상영…결혼식사진에좌중'웃음만..."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T01:20:47.435882+09:00"
+   "last_run": "2026-07-11T01:25:23.124522+09:00"
   }
  },
  "press_names": {
