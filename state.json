@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-10T19:30:57.744101+09:00",
-     "잡는 프로젝트 3대 타파 발목 규제 메가 출범 특위 과감히"
-    ],
-    [
      "2026-07-10T19:35:22.400242+09:00",
      "연습도 김재희 강하게"
     ],
@@ -386,11 +382,13 @@
     [
      "2026-07-11T01:25:23.124522+09:00",
      "대통령 좌중 상영 몽골 일대기 사진에 결혼식 국빈만찬장 웃음"
+    ],
+    [
+     "2026-07-11T01:30:57.774223+09:00",
+     "40조원 SK하이닉스 185만 흥행 주가 전망은 vs 420만원"
     ]
    ],
    "seen_urls": [
-    "https://www.ggilbo.com/news/articleView.html?idxno=1168625",
-    "https://www.munhwa.com/article/11601732",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/10/2026071000082.html",
     "https://www.news1.kr/politics/president/6224115",
     "https://news.bizwatch.co.kr/article/industry/2026/07/10/0009",
@@ -1888,11 +1886,11 @@
     "https://www.econovill.com/news/articleView.html?idxno=744897",
     "https://en.yna.co.kr/view/AEN20260711000200315?input=2106m",
     "https://www.koreajoongangdaily.com/business/sk-hynix-adrs-surge-14-percent-on-nasdaq-debut/12767926",
-    "https://www.mt.co.kr/politics/2026/07/11/2026071101134625903"
+    "https://www.mt.co.kr/politics/2026/07/11/2026071101134625903",
+    "http://www.yonhapnewstv.co.kr/news/AKR2026071101264002w",
+    "https://www.joongang.co.kr/article/25444230"
    ],
    "seen_titles": [
-    "SK텔레콤,AI데이터센터인수금융보도해명→구체적결정미확정",
-    "SK하이닉스ADR149달러인이유..\"할인대신웃돈\"",
     "김민석\"메가프로젝트전북소외아냐…1차분,2·3차이어져\"",
     "AI훈풍에국내증시'랠리'…코스피3%넘게상승",
     "‘40조실탄’장전한SK하이닉스…AI메모리증설속도",
@@ -3390,10 +3388,12 @@
     "SK하이닉스,나스닥첫날175.84달러…공모가보다18%높아",
     "SKGroupChairCheysaysNasdaqdebut'historicalmoment,'expectshug",
     "SKhynixADRssurge14percentonNasdaqdebut",
-    "몽골국빈만찬장'李대통령일대기'상영…결혼식사진에좌중'웃음만..."
+    "몽골국빈만찬장'李대통령일대기'상영…결혼식사진에좌중'웃음만...",
+    "최태원\"AI분야수백억달러투자…HBM수요기하급수적증가\"",
+    "‘40조원흥행’SK하이닉스,주가전망은185만vs420만원"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T01:25:23.124522+09:00"
+   "last_run": "2026-07-11T01:30:57.774223+09:00"
   }
  },
  "press_names": {
