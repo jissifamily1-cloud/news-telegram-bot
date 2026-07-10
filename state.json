@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-10T12:55:21.079078+09:00",
-     "도입 이어 체험 주거단지 접점 DDP SK인텔릭스 나무엑스 확대"
-    ],
-    [
      "2026-07-10T13:01:00.108842+09:00",
      "SK하이닉스의 뒤흔든 나스닥 글로벌 대공습 자본시장"
     ],
@@ -1154,13 +1150,17 @@
     [
      "2026-07-10T18:45:27.565047+09:00",
      "대국민 사과 규모 40조원 경찰청장 아랫집"
+    ],
+    [
+     "2026-07-10T18:55:23.191528+09:00",
+     "서진시스템 지분 1292억원 대표 전동규 장외매도"
+    ],
+    [
+     "2026-07-10T18:55:23.191528+09:00",
+     "대변 알았더니 HD현대마린솔루션의 데이터센터 수혜주 선박주인"
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202607100851199159",
-    "https://biz.chosun.com/policy/policy_sub/2026/07/10/FWMPQFQZ55BZ3GKSZTQG6XYRPU/",
-    "http://www.wsobi.com/news/articleView.html?idxno=315036",
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/10/2026071000046.html",
     "https://view.asiae.co.kr/article/2026070918555195317",
     "http://autotimes.co.kr/detail.php?number=688417&thread=27",
     "https://slownews.kr/163040",
@@ -2656,13 +2656,13 @@
     "https://news.jtbc.co.kr/article/NB12307663?influxDiv=NAVER",
     "https://www.newsis.com/view/NISX20260710_0003704855",
     "http://www.newsworker.co.kr/news/articleView.html?idxno=435860",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1783670457&code=11151400&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=1783670457&code=11151400&cp=nv",
+    "http://www.smarttimes.co.kr/news/articleView.html?idxno=47200",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424458",
+    "https://www.thelec.kr/news/articleView.html?idxno=59414",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=269558"
    ],
    "seen_titles": [
-    "[위클리오늘]반도체훈풍에코스피7500선급등출발···환율1500원대",
-    "코스피,美반도체훈풍·하이닉스ADR흥행에'7500.86'…코스닥도강세",
-    "알리바바넘은SK하이닉스…40조실탄으로AI초격차키운다",
-    "미상무장관,미국내삼성·SK메모리반도체생산늘리기원해",
     "SK인텔릭스,서울디자인재단과맞손…DDP스마트디자인환경조성",
     "[EBN데이터센터]코스피,기관매수에2.53%상승출발",
     "[국내증시개장시황]코스피·코스닥동반상승,반도체주도",
@@ -4158,10 +4158,14 @@
     "[뉴스룸오프닝]'경찰청장'대국민사과/'40조원'최대규모/아랫집...",
     "정부AI활용ESS사업서배터리3사경쟁…삼성SDI점유율66%",
     "SK하이닉스,뉴욕증시최대외국기업상장…JP모간빌딩태극기점등으...",
-    "SK하이닉스,美IPO로‘40조실탄’…외국기업중사상최대"
+    "SK하이닉스,美IPO로‘40조실탄’…외국기업중사상최대",
+    "SKhynixPlans$26.5BNasdaqADRListingtoFundChipExpansion",
+    "[외환-마감]'한화오션선물환매도·재경부구두개입'에하락…4.70원↓",
+    "서진시스템전동규대표,1292억원지분장외매도",
+    "\"선박주인줄알았더니'데이터센터'수혜주?…HD현대마린솔루션의대변..."
    ],
    "initialized": true,
-   "last_run": "2026-07-10T18:50:47.322699+09:00"
+   "last_run": "2026-07-10T18:55:23.191528+09:00"
   }
  },
  "press_names": {
