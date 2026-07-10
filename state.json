@@ -313,8 +313,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=442052",
-    "http://www.kdfnews.com/news/articleView.html?idxno=185049",
     "https://biz.heraldcorp.com/article/10804854",
     "https://www.seoulfn.com/news/articleView.html?idxno=633104",
     "https://www.sisajournal.com/news/articleView.html?idxno=379410",
@@ -1812,11 +1810,11 @@
     "https://www.ytn.co.kr/_ln/0104_202607110329258931",
     "https://www.yna.co.kr/view/AKR20260711003400072?input=1195m",
     "https://news.mtn.co.kr/news-detail/2026071103324865614",
-    "http://www.fnnews.com/news/202607110333511639"
+    "http://www.fnnews.com/news/202607110333511639",
+    "https://www.newsis.com/view/NISX20260711_0003705063",
+    "https://www.mt.co.kr/world/2026/07/11/2026071103321816490"
    ],
    "seen_titles": [
-    "ADR로나스닥데뷔한SK하이닉스,국내주가는오를까내릴까?",
-    "대통령주재부동산토론회개최“국민의견듣고정책반영”",
     "靑\"레버리지ETF우려,F4회의에서상황면밀검토중\"",
     "2026년7월10일매일경제1면…안잡히는집값,또대출만잡는다[아침...",
     "靑\"반도체클러스터광주군공항부지활용,美측과협의개시\"(종합)",
@@ -3314,10 +3312,12 @@
     "최태원\"반도체옛날같은사이클로움직이지않아...구조적변화\"",
     "SK하이닉스,나스닥서170달러안팎거래…공모가대비14%↑",
     "최태원\"반도체투자10배빨라야…미국에도팹공장검토\"",
-    "최태원\"AI에수백억달러투자\"…미국투자도검토<CNBC>"
+    "최태원\"AI에수백억달러투자\"…미국투자도검토<CNBC>",
+    "SK하이닉스,나스닥상장첫날170달러안팎거래…공모가대비14%↑",
+    "뉴욕타임스퀘어뒤덮은SK하이닉스…\"웰컴투나스닥\""
    ],
    "initialized": true,
-   "last_run": "2026-07-11T03:40:51.836646+09:00"
+   "last_run": "2026-07-11T03:45:24.532613+09:00"
   }
  },
  "press_names": {
