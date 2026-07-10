@@ -325,7 +325,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.jibs.co.kr/news/articles/articlesDetail/63324?feed=na",
     "https://www.raonnews.com/news/article.html?no=59466",
     "https://www.goodkyung.com/news/articleView.html?idxno=289119",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4424408",
@@ -1824,10 +1823,10 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16131165",
     "https://www.wikitree.co.kr/articles/1145895",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260711.99099003186",
-    "https://biz.heraldcorp.com/article/10805271"
+    "https://biz.heraldcorp.com/article/10805271",
+    "https://magazine.hankyung.com/business/article/202607118996b"
    ],
    "seen_titles": [
-    "SK인텔릭스,서울디자인재단과맞손...DDP에AI웰니스로봇도입",
     "광주첫복합개발사례…랜드마크기대감키우는'챔피언스시티'",
     "코웨이,2분기'대한민국100대브랜드'27위…전년보다4계단상승",
     "이천시,3303번신설·시내버스증차로교통복지확대",
@@ -3326,10 +3325,11 @@
     "미국증시,미·이란긴장넘은AI매수…엔비디아·SK하이닉스가지수견...",
     "SK하이닉스,나스닥입성첫날일냈다",
     "[속보]SK하이닉스,나스닥첫날168달러로마감…공모가대비13%↑",
-    "SK하이닉스가낸드팹증설하는이유…증권신고서에답있었다"
+    "SK하이닉스가낸드팹증설하는이유…증권신고서에답있었다",
+    "[속보]SK하이닉스,나스닥첫날급등"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T07:35:22.848812+09:00"
+   "last_run": "2026-07-11T07:37:42.695633+09:00"
   }
  },
  "press_names": {
