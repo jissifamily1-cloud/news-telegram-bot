@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T01:35:22.468807+09:00",
-     "판도 민주당 뭐길래 전당대회 선호투표제 바뀔까"
-    ],
-    [
-     "2026-07-11T01:35:22.468807+09:00",
-     "업체들 너도나도 수혜 원해 입을까 CPU 삼전닉스 엔비디아"
-    ],
-    [
      "2026-07-11T01:40:46.673698+09:00",
      "ties calls benefiting Lee both friend vows expand pe to close Mongolia"
     ],
@@ -326,11 +318,13 @@
     [
      "2026-07-11T07:30:58.253623+09:00",
      "냈다 나스닥 첫날 SK하이닉스 입성"
+    ],
+    [
+     "2026-07-11T07:35:22.848812+09:00",
+     "SK하이닉스가 있었다 이유 증설하는 증권신고서에 낸드팹"
     ]
    ],
    "seen_urls": [
-    "https://www.businessplus.kr/news/articleView.html?idxno=113993",
-    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205072",
     "https://www.jibs.co.kr/news/articles/articlesDetail/63324?feed=na",
     "https://www.raonnews.com/news/article.html?no=59466",
     "https://www.goodkyung.com/news/articleView.html?idxno=289119",
@@ -1828,11 +1822,11 @@
     "https://biz.chosun.com/international/international_economy/2026/07/11/ALW5QK3W2NHRRMPU74YVSUZU7Y/",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=314924",
     "https://www.topstarnews.net/news/articleView.html?idxno=16131165",
-    "https://www.wikitree.co.kr/articles/1145895"
+    "https://www.wikitree.co.kr/articles/1145895",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260711.99099003186",
+    "https://biz.heraldcorp.com/article/10805271"
    ],
    "seen_titles": [
-    "SK하이닉스,지분가치희석불구ADR발행···美투자압박달래기카...",
-    "길은있지만높은문턱…중복상장,물적분할자회사어쩌나",
     "SK인텔릭스,서울디자인재단과맞손...DDP에AI웰니스로봇도입",
     "광주첫복합개발사례…랜드마크기대감키우는'챔피언스시티'",
     "코웨이,2분기'대한민국100대브랜드'27위…전년보다4계단상승",
@@ -3330,10 +3324,12 @@
     "최태원“반도체시장,사이클산업벗어나구조적변화맞아”",
     "SK하이닉스,나스닥서40조실탄…AI메모리승부처는클린룸으로",
     "미국증시,미·이란긴장넘은AI매수…엔비디아·SK하이닉스가지수견...",
-    "SK하이닉스,나스닥입성첫날일냈다"
+    "SK하이닉스,나스닥입성첫날일냈다",
+    "[속보]SK하이닉스,나스닥첫날168달러로마감…공모가대비13%↑",
+    "SK하이닉스가낸드팹증설하는이유…증권신고서에답있었다"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T07:30:58.253623+09:00"
+   "last_run": "2026-07-11T07:35:22.848812+09:00"
   }
  },
  "press_names": {
