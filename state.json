@@ -321,8 +321,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mediapen.com/news/view/1109393",
-    "https://biz.heraldcorp.com/article/10804823",
     "https://www.yna.co.kr/view/AKR20260710071300008?input=1195m",
     "https://biz.heraldcorp.com/article/10804843",
     "https://www.cbci.co.kr/news/articleView.html?idxno=588046",
@@ -1820,11 +1818,11 @@
     "https://www.chosun.com/economy/tech_it/2026/07/11/WOFELS53GRFATNPXDFWMTAZEVQ/",
     "https://www.mk.co.kr/article/12095894",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4424474",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1783493392&code=23111111&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=1783493392&code=23111111&cp=nv",
+    "https://www.sedaily.com/article/20066486",
+    "https://www.ajunews.com/view/20260711031153838"
    ],
    "seen_titles": [
-    "청와대“레버리지ETF시장영향면밀점검…F4서보완검토”",
-    "삼성초기업노조,임금일부지역사랑상품권지급개정안에\"국회의원...",
     "흥국자산운용,SK하이닉스주주서한돌연철회...\"공식입장아냐\"",
     "SK하이닉스,ADR공모가149달러…외국기업美상장최대규모",
     "'40조실탄'확보한SK하이닉스…삼성전자행보'촉각'",
@@ -3322,10 +3320,12 @@
     "최태원“반도체사이클벗어나구조적변화...美팹건설검토”",
     "반도체피크아웃?최태원“AI로구조적변화,반도체공급빨리늘려야...",
     "최태원\"반도체산업,옛날같은사이클로움직이지않는건확실\"",
-    "[전병선기자의교회건축기행]<41>용인제일교회"
+    "[전병선기자의교회건축기행]<41>용인제일교회",
+    "최태원“SK하닉韓주식액분검토...AI수요급증,1~2년갈현상아냐...",
+    "李대통령\"몽골,진정한친구…새도약발전동반자\""
    ],
    "initialized": true,
-   "last_run": "2026-07-11T03:15:26.088649+09:00"
+   "last_run": "2026-07-11T03:20:52.941878+09:00"
   }
  },
  "press_names": {
