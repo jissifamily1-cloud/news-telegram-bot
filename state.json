@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-10T16:25:20.628858+09:00",
-     "LG 10대그룹 다퉈 로열티 상표권 1등"
-    ],
-    [
      "2026-07-10T16:30:56.522018+09:00",
      "17개국 명예 홍보대사 KU 고려대 위촉 확대 글로벌 20명"
     ],
@@ -638,11 +634,17 @@
     [
      "2026-07-10T22:20:50.336667+09:00",
      "후임 톺아보기 홍명보 장단점 후보군 누구"
+    ],
+    [
+     "2026-07-10T22:25:24.569362+09:00",
+     "스마트워치 대통령 국빈만찬에 대동 국궁 경제인 40여명"
+    ],
+    [
+     "2026-07-10T22:25:24.569362+09:00",
+     "뉴욕증시 차익실현에 특징주 반도체주는 개장 강세 써클 WD"
     ]
    ],
    "seen_urls": [
-    "https://www.asiatime.co.kr/article/20260710500083",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=442029",
     "https://www.ezyeconomy.com/news/articleView.html?idxno=237351",
     "http://www.globalepic.co.kr/view.php?ud=20260710100333572948439a4874_29",
     "https://www.yna.co.kr/view/AKR20260710031551008?input=1195m",
@@ -2140,11 +2142,11 @@
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447808",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467468",
     "https://www.tokenpost.kr/news/market/376629",
-    "https://www.dailian.co.kr/news/view/1665844/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1665844/?sc=Naver",
+    "https://www.dailian.co.kr/news/view/1665950/?sc=Naver",
+    "https://www.newspim.com/news/view/20260710001490"
    ],
    "seen_titles": [
-    "캐즘보릿고개넘는K배터리…반등신호탄올렸다",
-    "[디지털포스트모닝픽]삼성전자,PC용AI칩개발나서…내년양산",
     "[오늘의신문읽기]반도체에서호르무즈까지…하나로연결된경제",
     "[그래픽]주요기업미국IPO규모순위",
     "전북대·원광대총장선거,전북의미래걸렸다…조기과열양상에뒷말...",
@@ -3642,10 +3644,12 @@
     "SK하이닉스,美ADR공모가149달러최종확정···美역대IPO중2위",
     "[10일매매동향]외국인,순매도1위는SK하이닉스...\"ADR상장앞두고...",
     "월가,SK하이닉스레버리지ETF출시임박...변동성우려속단기매매...",
-    "홍명보후임누구?후보군장단점톺아보기"
+    "홍명보후임누구?후보군장단점톺아보기",
+    "李대통령,한·몽국빈만찬에경제인40여명대동…국궁·스마트워치선...",
+    "뉴욕증시개장전특징주,WD-40·써클강세…반도체주는차익실현에숨..."
    ],
    "initialized": true,
-   "last_run": "2026-07-10T22:20:50.336667+09:00"
+   "last_run": "2026-07-10T22:25:24.569362+09:00"
   }
  },
  "press_names": {
