@@ -321,8 +321,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574335760247",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=588048",
     "https://www.gukjenews.com/news/articleView.html?idxno=3632179",
     "https://it.chosun.com/news/articleView.html?idxno=2023092165548",
     "https://www.businesspost.co.kr/BP?command=article_view&num=442052",
@@ -1820,11 +1818,11 @@
     "https://www.dt.co.kr/article/12072291",
     "https://www.yna.co.kr/view/AKR20260711002351072?input=1195m",
     "https://www.donga.com/news/Inter/article/all/20260711/134278409/1",
-    "https://www.pressian.com/pages/articles/2026071012224205540"
+    "https://www.pressian.com/pages/articles/2026071012224205540",
+    "https://www.ytn.co.kr/_ln/0104_202607110329258931",
+    "https://www.yna.co.kr/view/AKR20260711003400072?input=1195m"
    ],
    "seen_titles": [
-    "삼성전기10%·현대삼호30%요구[‘영업익N%’성과급제동걸리나]",
-    "부진에울던석화업계,반도체호황에소재투자버튼눌렀다",
     "[Invest]'TSMCADR과는다르다'...SKHY,차익거래기대감주목",
     "SK온,업무에AI에이전트붙인다",
     "ADR로나스닥데뷔한SK하이닉스,국내주가는오를까내릴까?",
@@ -3322,10 +3320,12 @@
     "최태원“반도체공급과잉없다…AI‘큰투자’준비”",
     "'나스닥입성'최태원\"반도체사이클벗어나구조적변화\"(종합)",
     "최태원“반도체사이클,구조적변화…미국포함어디든팹검토할것...",
-    "AI슈퍼사이클,자기꼬리를물기시작했나[오민규의인사이드경제]"
+    "AI슈퍼사이클,자기꼬리를물기시작했나[오민규의인사이드경제]",
+    "최태원\"반도체옛날같은사이클로움직이지않아...구조적변화\"",
+    "SK하이닉스,나스닥서170달러안팎거래…공모가대비14%↑"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T03:30:58.111341+09:00"
+   "last_run": "2026-07-11T03:35:22.415502+09:00"
   }
  },
  "press_names": {
