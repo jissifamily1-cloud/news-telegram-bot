@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-10T19:35:22.400242+09:00",
-     "연습도 김재희 강하게"
-    ],
-    [
      "2026-07-10T19:40:53.218048+09:00",
      "홀아웃 파세이브 김재희"
     ],
@@ -386,14 +382,17 @@
     [
      "2026-07-11T01:30:57.774223+09:00",
      "40조원 SK하이닉스 185만 흥행 주가 전망은 vs 420만원"
+    ],
+    [
+     "2026-07-11T01:35:22.468807+09:00",
+     "판도 민주당 뭐길래 전당대회 선호투표제 바뀔까"
+    ],
+    [
+     "2026-07-11T01:35:22.468807+09:00",
+     "업체들 너도나도 수혜 원해 입을까 CPU 삼전닉스 엔비디아"
     ]
    ],
    "seen_urls": [
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/10/2026071000082.html",
-    "https://www.news1.kr/politics/president/6224115",
-    "https://news.bizwatch.co.kr/article/industry/2026/07/10/0009",
-    "https://www.newsis.com/view/NISX20260710_0003703909",
-    "https://biz.sbs.co.kr/article_hub/20000321747?division=NAVER",
     "http://www.fnnews.com/news/202607101049564317",
     "https://www.sedaily.com/article/20066192",
     "http://www.srtimes.kr/news/articleView.html?idxno=207244",
@@ -1888,14 +1887,14 @@
     "https://www.koreajoongangdaily.com/business/sk-hynix-adrs-surge-14-percent-on-nasdaq-debut/12767926",
     "https://www.mt.co.kr/politics/2026/07/11/2026071101134625903",
     "http://www.yonhapnewstv.co.kr/news/AKR2026071101264002w",
-    "https://www.joongang.co.kr/article/25444230"
+    "https://www.joongang.co.kr/article/25444230",
+    "https://www.apnews.kr/news/articleView.html?idxno=3049684",
+    "https://www.ytn.co.kr/_ln/0104_202607110130048917",
+    "https://www.newsis.com/view/NISX20260711_0003705059",
+    "https://news.cpbc.co.kr/article/1174285?division=NAVER",
+    "https://www.munhwa.com/article/11601885"
    ],
    "seen_titles": [
-    "김민석\"메가프로젝트전북소외아냐…1차분,2·3차이어져\"",
-    "AI훈풍에국내증시'랠리'…코스피3%넘게상승",
-    "‘40조실탄’장전한SK하이닉스…AI메모리증설속도",
-    "하나은행,반도체소부장협력사1000억원금융지원",
-    "Lee'sapprovalratingfallsto53pct:poll",
     "AI투자열풍에M&A'역대급'…상반기거래45%급증",
     "HBM·첨단공정수혜기대…반도체장비테마매수세폭발",
     "AI웰니스로봇,DDP에들어선다…SK인텔릭스스마트디자인환경구축",
@@ -3390,10 +3389,15 @@
     "SKhynixADRssurge14percentonNasdaqdebut",
     "몽골국빈만찬장'李대통령일대기'상영…결혼식사진에좌중'웃음만...",
     "최태원\"AI분야수백억달러투자…HBM수요기하급수적증가\"",
-    "‘40조원흥행’SK하이닉스,주가전망은185만vs420만원"
+    "‘40조원흥행’SK하이닉스,주가전망은185만vs420만원",
+    "SK하이닉스,나스닥ADR상장…\"AI가있는모든곳에함께할것\"",
+    "최태원\"하이닉스미상장,꿈이현실로...HBM수요기하급수적급증\"",
+    "李\"몽골도약함께하는동반자될것\"…LS·SK등경제인도만찬참석(...",
+    "[시사천국]'선호투표제'가뭐길래…민주당전당대회판도바뀔까",
+    "AI업체들,너도나도엔비디아CPU원해…삼전닉스수혜입을까"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T01:30:57.774223+09:00"
+   "last_run": "2026-07-11T01:35:22.468807+09:00"
   }
  },
  "press_names": {
