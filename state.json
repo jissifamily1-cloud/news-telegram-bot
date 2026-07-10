@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-10T22:35:21.001926+09:00",
-     "ADR 곽노정 AI중심지에서 구축 파트너십 SK하이닉스 거래"
-    ],
-    [
-     "2026-07-10T22:35:21.001926+09:00",
-     "두드리다 뉴욕 오프닝벨 세계를 울린 SK하이닉스"
-    ],
-    [
      "2026-07-10T22:45:25.355858+09:00",
      "여기 취업률 전국에서 반도체 유명해 정말 몰려들었다 엄마들"
     ],
@@ -298,11 +290,13 @@
     [
      "2026-07-11T04:25:21.390377+09:00",
      "변동장에 ETF 쪼그라든 훔칠까 투심 반도체로"
+    ],
+    [
+     "2026-07-11T04:35:22.490417+09:00",
+     "기업을 정부 살려낸 일본 반도체"
     ]
    ],
    "seen_urls": [
-    "https://www.polinews.co.kr/news/articleView.html?idxno=736623",
-    "https://biz.heraldcorp.com/article/10804850",
     "https://www.news1.kr/it-science/general-it/6224157",
     "https://www.nbntv.kr/news/articleView.html?idxno=340446",
     "https://biz.sbs.co.kr/article_hub/20000321755?division=NAVER",
@@ -1800,11 +1794,11 @@
     "https://biz.sbs.co.kr/article_hub/20000321877?division=NAVER",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01272646645513536",
     "https://www.tokenpost.kr/news/market/376679",
-    "https://www.tokenpost.kr/news/market/376678"
+    "https://www.tokenpost.kr/news/market/376678",
+    "https://www.hankookilbo.com/news/article/A2026071022590000961?did=NA",
+    "https://www.hankookilbo.com/news/article/A2026071010040001175?did=NA"
    ],
    "seen_titles": [
-    "靑\"단일종목레버리지ETF,F4회의서면밀히살펴보고대응\"(종합2보)",
-    "[메가이슈토픽]공정위'브랜드값'칼끝,한화·CJ향하자…재계\"표적조...",
     "[기업家]쿠팡ㅣ美'차별'주장vs韓반박…외교이슈속실적은회복",
     "삼성전자·SK하이닉스등반도체株상승...투자심리개선",
     "삼성전자노조\"성과급을지역화폐로?의원세비부터실험하라\"",
@@ -3302,10 +3296,12 @@
     "변동장에쪼그라든ETF…반도체로투심훔칠까",
     "SK하이닉스,나스닥서공모가대비14%오른170달러거래",
     "최태원\"AI는아직4~5살짜리아이…AGI올때까지메모리수요계속늘...",
-    "SK하이닉스,나스닥상장으로글로벌AI반도체시장공략강화"
+    "SK하이닉스,나스닥상장으로글로벌AI반도체시장공략강화",
+    "[오늘의1면사진]SK하이닉스나스닥상장'40조원잭팟'",
+    "일본반도체기업을살려낸일본정부[4강의시선]"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T04:30:58.596752+09:00"
+   "last_run": "2026-07-11T04:35:22.490417+09:00"
   }
  },
  "press_names": {
