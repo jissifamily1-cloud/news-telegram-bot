@@ -357,8 +357,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260710110740098",
-    "https://www.chosun.com/politics/politics_general/2026/07/10/JLJLG5PM7NA5XLDEQQDMEJC5KM/",
     "https://www.mt.co.kr/politics/2026/07/10/2026071011203486026",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205048",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4424383",
@@ -1856,11 +1854,11 @@
     "https://www.yna.co.kr/view/AKR20260711002300072?input=1195m",
     "https://www.koreajoongangdaily.com/korea/president-lee-calls-mongolia-true-friend-in-state-banquet-gifts-korean-bow-and-smartwatch/12767696",
     "https://www.hankyung.com/article/202607118908i",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=01243126645513536"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01243126645513536",
+    "https://view.asiae.co.kr/article/2026071101552009397",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424473"
    ],
    "seen_titles": [
-    "SK하이닉스,美ADR로역대급'실탄장전'…호남·美팹투자에도쓰일까",
-    "정점이냐아직이냐기로에선반도체주…'비중축소'분석맞을까?",
     "\"400만닉스간다는데나홀로185만원\"BNK,사실상'매도'의견…이마트...",
     "반도체상승사이클지속되나…소부장株일제히주가급등[줍줍리포트...",
     "SK하이닉스오늘나스닥상장…40조투자실탄확보",
@@ -3358,10 +3356,12 @@
     "최태원\"반도체옛날같은사이클로움직이지않아…구조적변화\"",
     "PresidentLeecallsMongolia‘truefriend’instatebanquet,giftsKor",
     "최태원\"반도체투자속도지금보다10배빨라야…안그러면시장위축될...",
-    "최태원\"SK하이닉스액면분할요청더오면검토\""
+    "최태원\"SK하이닉스액면분할요청더오면검토\"",
+    "최태원SK회장\"AI수요,공급확대속도앞질러…미국팹도검토\"",
+    "SK최태원\"나스닥상장역사적순간…AI수요여전히기하급수적증가..."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T02:05:22.460411+09:00"
+   "last_run": "2026-07-11T02:10:47.478372+09:00"
   }
  },
  "press_names": {
