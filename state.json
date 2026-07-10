@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T01:25:23.124522+09:00",
-     "대통령 좌중 상영 몽골 일대기 사진에 결혼식 국빈만찬장 웃음"
-    ],
-    [
-     "2026-07-11T01:30:57.774223+09:00",
-     "40조원 SK하이닉스 185만 흥행 주가 전망은 vs 420만원"
-    ],
-    [
      "2026-07-11T01:35:22.468807+09:00",
      "판도 민주당 뭐길래 전당대회 선호투표제 바뀔까"
     ],
@@ -330,13 +322,13 @@
     [
      "2026-07-11T07:25:21.910056+09:00",
      "손본다 많던 보완 레버리지 필요"
+    ],
+    [
+     "2026-07-11T07:30:58.253623+09:00",
+     "냈다 나스닥 첫날 SK하이닉스 입성"
     ]
    ],
    "seen_urls": [
-    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205073",
-    "https://www.mediawatch.kr/news/article.html?no=260341",
-    "https://www.kwnews.co.kr/article/20260710500165",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=272829",
     "https://www.businessplus.kr/news/articleView.html?idxno=113993",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205072",
     "https://www.jibs.co.kr/news/articles/articlesDetail/63324?feed=na",
@@ -1832,13 +1824,13 @@
     "https://www.mydaily.co.kr/page/view/2026071107195703744",
     "https://www.etoday.co.kr/news/view/2602664",
     "http://www.footballist.co.kr/news/articleView.html?idxno=212055",
-    "https://imnews.imbc.com/replay/2026/nwtoday/article/6836671_37012.html"
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6836671_37012.html",
+    "https://biz.chosun.com/international/international_economy/2026/07/11/ALW5QK3W2NHRRMPU74YVSUZU7Y/",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=314924",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16131165",
+    "https://www.wikitree.co.kr/articles/1145895"
    ],
    "seen_titles": [
-    "코스피,5%급등에‘매수사이드카’…7600선재탈환",
-    "코스피5%·코스닥6%급반등…연이어매수사이드카",
-    "중기특화증권사7곳지정…모험자본공급실적반기마다본다",
-    "삼전성과급,지역화폐로지급?…초기업노조\"실험적시도강요말라\"",
     "SK하이닉스,지분가치희석불구ADR발행···美투자압박달래기카...",
     "길은있지만높은문턱…중복상장,물적분할자회사어쩌나",
     "SK인텔릭스,서울디자인재단과맞손...DDP에AI웰니스로봇도입",
@@ -3334,10 +3326,14 @@
     "SK하이닉스,나스닥첫날13%↑…美시장서AI메모리가치인정",
     "SK하이닉스,나스닥데뷔흥행…공모가보다13%↑마감[마켓핫]",
     "제주와뮌헨이만난다②노이어김민재케미,수비진부터벌써화려한...",
-    "탈많던'레버리지'손본다‥청\"보완필요\""
+    "탈많던'레버리지'손본다‥청\"보완필요\"",
+    "최태원“반도체시장,사이클산업벗어나구조적변화맞아”",
+    "SK하이닉스,나스닥서40조실탄…AI메모리승부처는클린룸으로",
+    "미국증시,미·이란긴장넘은AI매수…엔비디아·SK하이닉스가지수견...",
+    "SK하이닉스,나스닥입성첫날일냈다"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T07:25:21.910056+09:00"
+   "last_run": "2026-07-11T07:30:58.253623+09:00"
   }
  },
  "press_names": {
