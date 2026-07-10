@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-10T07:54:14.176816+09:00",
-     "7월 퍼레이드 오프닝 10일"
-    ],
-    [
      "2026-07-10T08:01:02.400095+09:00",
      "HD현대마린솔루션 성장축 데이터센터가 폭발적 2030년부터 중장기"
     ],
@@ -1170,17 +1166,21 @@
     [
      "2026-07-10T13:50:48.078693+09:00",
      "양시장 급등에 코스닥 사이드카 매수"
+    ],
+    [
+     "2026-07-10T13:55:24.218585+09:00",
+     "부정적 평가 한신평 정유업계에 긍정적 석유화학업계는"
+    ],
+    [
+     "2026-07-10T13:55:24.218585+09:00",
+     "베이스다이 HBM4 경쟁 달라졌다 본격화 3강 승부수 메모리"
+    ],
+    [
+     "2026-07-10T13:55:24.218585+09:00",
+     "보완 시장점검회의서 결정 필요시 레버리지ETF"
     ]
    ],
    "seen_urls": [
-    "http://www.gnmaeil.com/news/articleView.html?idxno=590500",
-    "https://www.newsis.com/view/NISX20260709_0003701803",
-    "https://www.mk.co.kr/article/12094895",
-    "https://www.newsis.com/view/NISX20260709_0003702351",
-    "https://www.sedaily.com/article/20066023",
-    "https://www.newsis.com/view/NISX20260709_0003703452",
-    "https://www.tokenpost.kr/news/market/376312",
-    "https://www.seoul.co.kr/news/politics/2026/07/09/20260709500290?wlog_tag3=naver",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260709.99099003005",
     "https://www.newspim.com/news/view/20260709001366",
     "https://www.sjsori.com/news/articleView.html?idxno=87508",
@@ -2672,17 +2672,17 @@
     "https://www.tokenpost.kr/news/economy/376518",
     "https://www.newsis.com/view/NISX20260710_0003704294",
     "https://www.bizwork.co.kr/news/articleView.html?idxno=417187",
-    "https://view.asiae.co.kr/article/2026071013473354175"
+    "https://view.asiae.co.kr/article/2026071013473354175",
+    "https://www.ajunews.com/view/20260710133534240",
+    "https://biz.sbs.co.kr/article_hub/20000321718?division=NAVER",
+    "https://www.newscj.com/news/articleView.html?idxno=3416038",
+    "https://www.news1.kr/finance/general-stock/6224244",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16130622",
+    "http://www.e2news.com/news/articleView.html?idxno=332104",
+    "http://www.seouleconews.com/news/articleView.html?idxno=92324",
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/10/2026071090201.html"
    ],
    "seen_titles": [
-    "국힘,\"호남에서전기생산한다고반도체가거길왜가야하나\"",
-    "AI데이터센터,인력양성이경쟁력이다",
-    "신현송\"적절한시기에기준금리올릴것\"",
-    "“오늘도4이드카,다큰낙타?”…널뛰기장세가만든개미신조어",
-    "제조산업'인공지능전환'‥협의체출범",
-    "코스피반등은했지만…'현기증'롤러코스터장세",
-    "이재명대통령\"'몽탄'은상호호혜모델\"…몽골협력확대",
-    "[종합]'몽탄모델'제시한李\"상호호혜적협력모델더확산시켜야\"",
     "李대통령“한-몽,핵심광물든든한파트너로힘합쳐야”",
     "짐크레이머\"증시진짜위험따로있다…주식·채권발행급증\"",
     "“AI실적이제막바지,반도체쏠림과해…향후전망글쎄”",
@@ -4174,10 +4174,18 @@
     "[특징주]삼성전자7%대급등에코스피·코스닥매수사이드카…반도체...",
     "SK하이닉스,美ADR상장'디데이'…'밸류재평가'시험대오른다(종합)",
     "지역첫정비사업단지'흥행공식'…신축희소성에신고가행진",
-    "코스닥5%·코스닥6%급등에양시장매수사이드카"
+    "코스닥5%·코스닥6%급등에양시장매수사이드카",
+    "\"모든직장인\"성과급지역화폐추진?...개정안에여론'발칵'",
+    "[직설]코스피변동성확대…SK하닉ADR상장이돌파구될까?",
+    "반도체계약학과수시,'의대병행'줄고복수지원늘어",
+    "SK하이닉스美ADR상장후본주투자전략은…\"ADR보다신용지표\"",
+    "\"골프스윙2루타\"이정후,3경기만에안타로타율0.309",
+    "한신평정유업계에긍정적평가,석유화학업계는부정적",
+    "메모리3강,HBM4승부수달라졌다…베이스다이경쟁본격화",
+    "靑\"레버리지ETF,보완필요시시장점검회의서결정\""
    ],
    "initialized": true,
-   "last_run": "2026-07-10T13:50:48.078693+09:00"
+   "last_run": "2026-07-10T13:55:24.218585+09:00"
   }
  },
  "press_names": {
