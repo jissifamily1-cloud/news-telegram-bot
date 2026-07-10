@@ -305,8 +305,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260710072700054?input=1195m",
-    "https://www.asiatime.co.kr/article/20260710500115",
     "https://news.tf.co.kr/read/economy/2341930.htm",
     "https://www.polinews.co.kr/news/articleView.html?idxno=736606",
     "https://news.jtbc.co.kr/article/NB12307587?influxDiv=NAVER",
@@ -1804,11 +1802,11 @@
     "https://www.tokenpost.kr/news/market/376674",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4424475",
     "https://www.startuptoday.co.kr/news/articleView.html?idxno=806356",
-    "https://biz.chosun.com/opinion/desk_column/2026/07/11/JGXIRP3ZUJFR5O77ERZLWKB4P4/"
+    "https://biz.chosun.com/opinion/desk_column/2026/07/11/JGXIRP3ZUJFR5O77ERZLWKB4P4/",
+    "https://platum.kr/archives/290748",
+    "https://view.asiae.co.kr/article/2026071104053420315"
    ],
    "seen_titles": [
-    "SK하이닉스,오늘미국증시입성…40조원규모조달",
-    "기관1.4조순매수…코스피상승폭키워7600선회복[장중시황]",
     "“성과급을지역화폐로?”…삼성전자노조“국회의원세비에적용하라...",
     "SK하이닉스ADR공모가149달러확정…약40조원조달",
     "나스닥간SK하이닉스실탄40조잭팟…외국기업사상최대",
@@ -3306,10 +3304,12 @@
     "뉴욕증시,SK하이닉스상장효과로상승...중동긴장완화기대",
     "최태원SK회장\"SK하이닉스액면분할검토할수있어\"",
     "[포커스]SK하이닉스,미국나스닥서40조마련...'안정적투자'발판",
-    "[데스크칼럼]반도체호황이후가두렵다"
+    "[데스크칼럼]반도체호황이후가두렵다",
+    "SK하이닉스,나스닥서170달러출발…외국기업美주식공모최대",
+    "SK하이닉스,나스닥시초가170달러…\"메모리부족2030년까지\""
    ],
    "initialized": true,
-   "last_run": "2026-07-11T04:05:23.534950+09:00"
+   "last_run": "2026-07-11T04:07:36.257859+09:00"
   }
  },
  "press_names": {
