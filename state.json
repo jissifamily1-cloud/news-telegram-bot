@@ -345,7 +345,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.hani.co.kr/arti/economy/marketing/1267672.html",
     "https://www.news1.kr/finance/general-stock/6224120",
     "https://news.knn.co.kr/news/article_sns/1490",
     "https://news.knn.co.kr/news/article_sns/1488",
@@ -1844,10 +1843,10 @@
     "https://view.asiae.co.kr/article/2026071102085616405",
     "https://www.hankyung.com/article/2026071189031",
     "https://www.newspim.com/news/view/20260711000008",
-    "https://www.ytn.co.kr/_ln/0104_202607110218537344"
+    "https://www.ytn.co.kr/_ln/0104_202607110218537344",
+    "https://www.chosun.com/economy/tech_it/2026/07/11/WOFELS53GRFATNPXDFWMTAZEVQ/"
    ],
    "seen_titles": [
-    "하나은행,기술보증기금과1000억원협약보증..\"반도체소부장협력기...",
     "하나은행,반도체'소부장협력기업'성장판지원…2·3차협력사까지",
     "삼성·SK895조투자효과어디까지…광주첨단3지구에쏠리는시선",
     "IBK등7개증권사,'중기특화증권사'로선정…'모험자본공급주력'",
@@ -3346,10 +3345,11 @@
     "[일문일답]최태원\"메모리공급더빨리늘려야…미국도예외아니다\"",
     "9시30분벨누르자거래시작…\"웰컴투나스닥\"",
     "최태원\"반도체,옛사이클과달라졌다…AI가구조바꿔\"",
-    "\"SMR,대미투자사업유력\"...한미공동진출추진"
+    "\"SMR,대미투자사업유력\"...한미공동진출추진",
+    "최태원“반도체사이클벗어나구조적변화...美팹건설검토”"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T02:35:23.264716+09:00"
+   "last_run": "2026-07-11T02:40:07.580912+09:00"
   }
  },
  "press_names": {
