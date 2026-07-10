@@ -302,10 +302,13 @@
     [
      "2026-07-11T04:05:23.534950+09:00",
      "이후가 반도체 두렵다 호황"
+    ],
+    [
+     "2026-07-11T04:10:51.302299+09:00",
+     "After of Stock Rises Huge Sign Maker Latest Korean Chip"
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/economy/2341930.htm",
     "https://www.polinews.co.kr/news/articleView.html?idxno=736606",
     "https://news.jtbc.co.kr/article/NB12307587?influxDiv=NAVER",
     "https://en.yna.co.kr/view/AEN20260710005600320?input=2106m",
@@ -1804,10 +1807,10 @@
     "https://www.startuptoday.co.kr/news/articleView.html?idxno=806356",
     "https://biz.chosun.com/opinion/desk_column/2026/07/11/JGXIRP3ZUJFR5O77ERZLWKB4P4/",
     "https://platum.kr/archives/290748",
-    "https://view.asiae.co.kr/article/2026071104053420315"
+    "https://view.asiae.co.kr/article/2026071104053420315",
+    "https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html?partner=naver"
    ],
    "seen_titles": [
-    "“성과급을지역화폐로?”…삼성전자노조“국회의원세비에적용하라...",
     "SK하이닉스ADR공모가149달러확정…약40조원조달",
     "나스닥간SK하이닉스실탄40조잭팟…외국기업사상최대",
     "[사설]SK하닉美상장새이정표,국내자본시장도시험대",
@@ -3306,10 +3309,11 @@
     "[포커스]SK하이닉스,미국나스닥서40조마련...'안정적투자'발판",
     "[데스크칼럼]반도체호황이후가두렵다",
     "SK하이닉스,나스닥서170달러출발…외국기업美주식공모최대",
-    "SK하이닉스,나스닥시초가170달러…\"메모리부족2030년까지\""
+    "SK하이닉스,나스닥시초가170달러…\"메모리부족2030년까지\"",
+    "KoreanChipMaker’sStockRisesAfterHugeI.P.O.,LatestSignofA.I.."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T04:07:36.257859+09:00"
+   "last_run": "2026-07-11T04:10:51.302299+09:00"
   }
  },
  "press_names": {
