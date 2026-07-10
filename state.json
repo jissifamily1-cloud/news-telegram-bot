@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-10T13:15:24.559986+09:00",
-     "코스피 발동 급등에 17번째 매수사이드카"
-    ],
-    [
-     "2026-07-10T13:15:24.559986+09:00",
-     "원전 에너지 친환경 기술력 제어 우리기술 성장 해상풍력 쌍끌이"
-    ],
-    [
      "2026-07-10T13:20:48.389273+09:00",
      "기대감 SK하이닉스 재평가 본주 나스닥행 TSMC처럼 갈까"
     ],
@@ -1126,14 +1118,17 @@
     [
      "2026-07-10T19:10:49.963810+09:00",
      "휴장 대만 하락 상승 홍콩"
+    ],
+    [
+     "2026-07-10T19:15:25.720342+09:00",
+     "국궁세트 몽골 대통령 활쏘기 선물 공유 전통 대통령에"
+    ],
+    [
+     "2026-07-10T19:15:25.720342+09:00",
+     "살까 셈법 복잡 서학이냐 어디서 동학이냐 개미들"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03148806645513208",
-    "http://www.metroseoul.co.kr/article/20260710500033",
-    "https://www.asiaa.co.kr/news/articleView.html?idxno=254835",
-    "https://www.cstimes.com/news/articleView.html?idxno=712969",
-    "http://www.srtimes.kr/news/articleView.html?idxno=207214",
     "https://www.smarttoday.co.kr/ko-kr/articles/109404",
     "http://www.segyebiz.com/newsView/20260710506513?OutUrl=naver",
     "https://www.widedaily.com/news/articleView.html?idxno=297364",
@@ -2628,14 +2623,14 @@
     "https://www.newsquest.co.kr/news/articleView.html?idxno=269558",
     "https://news.jtbc.co.kr/article/NB12307657?influxDiv=NAVER",
     "https://news.jtbc.co.kr/article/NB12307658?influxDiv=NAVER",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424459"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424459",
+    "https://www.betanews.net/article/view/beta202607100074",
+    "https://news.jtbc.co.kr/article/NB12307656?influxDiv=NAVER",
+    "https://view.asiae.co.kr/article/2026071018592670222",
+    "https://www.news1.kr/politics/president/6224742",
+    "https://news.jtbc.co.kr/article/NB12307677?influxDiv=NAVER"
    ],
    "seen_titles": [
-    "SK하이닉스,ADR공모가149달러확정…약40조원몰렸다",
-    "[개장시황]코스피,급락딛고3%대반등…하이닉스ADR훈풍",
-    "SK인텔릭스,DDP에로봇공기청정기'나무엑스'공급",
-    "하나은행-기보,반도체협력사에1000억지원",
-    "삼성전자·SK하이닉스895조투자…광주부동산시장기대감폭발",
     "SK하이닉스ADR40조원공모…코스피영향력'관심'",
     "코스피,3%상승7500선회복…코스닥도800선상회",
     "금융위,중기특화증권사7곳지정...모험자본공급역할강화",
@@ -4130,10 +4125,15 @@
     "\"선박주인줄알았더니'데이터센터'수혜주?…HD현대마린솔루션의대변...",
     "SK하이닉스,오늘밤나스닥입성…'40조원'실탄장전",
     "40조쥐는하닉,'굳히기'들어간다…HBM생산능력확대",
-    "[亞증시-종합]日·홍콩상승…中하락·대만휴장"
+    "[亞증시-종합]日·홍콩상승…中하락·대만휴장",
+    "'달러약세·SK하이닉스ADR기대'에하락...원·달러환율,장중1,500원...",
+    "'삼전닉스'콕집어\"미국서메모리만들라\"…노골적야욕",
+    "\"대학가느니삼전닉스\"반도체호황에직업고설명회도'북적'",
+    "李대통령,몽골대통령에국궁세트선물…\"활쏘기전통공유\"",
+    "'동학이냐서학이냐'어디서살까?개미들셈법복잡"
    ],
    "initialized": true,
-   "last_run": "2026-07-10T19:10:49.963810+09:00"
+   "last_run": "2026-07-10T19:15:25.720342+09:00"
   }
  },
  "press_names": {
