@@ -1198,17 +1198,17 @@
     [
      "2026-07-10T13:35:23.608299+09:00",
      "Yonhap Summary News"
+    ],
+    [
+     "2026-07-10T13:40:47.943392+09:00",
+     "출전해 이정후 골프 2루타 안타 만에 3경기 스윙 대수비"
+    ],
+    [
+     "2026-07-10T13:40:47.943392+09:00",
+     "신세계아이앤씨도 노조 삼성SDS 이어 현대오토에버 설립"
     ]
    ],
    "seen_urls": [
-    "https://www.globale.co.kr/news/articleView.html?idxno=39263",
-    "http://www.econonews.co.kr/news/articleView.html?idxno=440983",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424260",
-    "https://www.newspim.com/news/view/20260709001354",
-    "https://www.hankyung.com/article/2026070961586",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=06428806645512880",
-    "http://www.sisafocus.co.kr/news/articleView.html?idxno=362334",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8606967",
     "https://www.ulsanpress.net/news/articleView.html?idxno=578893",
     "https://www.ulsanpress.net/news/articleView.html?idxno=578854",
     "https://www.ccdailynews.com/news/articleView.html?idxno=2427196",
@@ -2700,17 +2700,17 @@
     "https://www.businesspost.co.kr/BP?command=article_view&num=442061",
     "http://www.rookie.co.kr/news/articleView.html?idxno=124675",
     "https://www.jbnews.com/news/articleView.html?idxno=1507436",
-    "https://en.yna.co.kr/view/AEN20260710006700315?input=2106m"
+    "https://en.yna.co.kr/view/AEN20260710006700315?input=2106m",
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065587851809847",
+    "https://www.segye.com/newsView/20260710508153?OutUrl=naver",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=846837",
+    "https://www.segye.com/newsView/20260710511311?OutUrl=naver",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=220710",
+    "https://www.news1.kr/finance/general-stock/6224243",
+    "https://www.yna.co.kr/view/AKR20260710089400007?input=1195m",
+    "https://www.thelec.kr/news/articleView.html?idxno=59384"
    ],
    "seen_titles": [
-    "최태원회장동거인명예훼손…'중국간첩'허위주장한박순혁1심벌금...",
-    "PresidenturgesKorea,Mongoliatojoinforcesforcriticalmineralsu",
-    "삼성전자대SK하이닉스:엇갈린반도체주가흐름과투자자매도세",
-    "삼전닉스거래비중51%급등···단일레버리지포함시83%쏠림",
-    "주호영\"두달전부정적견해가뒤바뀌어\"",
-    "李\"유통서시작된‘몽탄’모델다양한분야로확산시키자\"",
-    "\"목표주가185만원\"…BNK증권\"SK하이닉스주가급락은수요둔화때문\"",
-    "SK하이닉스목표가185만원vs420만원…“팔아,말아”극과극전망,왜...",
     "울산시,지역대학·SK텔레콤간담회AI데이터센터운영·유지보수전문...",
     "‘삼전닉스’에공매도급증…외국인들하락베팅나서나[투자360]",
     "‘배터리아저씨’박순혁,\"최태원동거인은중국간첩\"주장...1심'벌금...",
@@ -4202,10 +4202,18 @@
     "성과급을지역화폐로?,삼성전자초기업노조반발\"국회의원부터적용하...",
     "한국유소년농구의축제'슈퍼컵'...유소년농구에진심인정선군에서...",
     "이정현전국민의힘공관위원장\"광주전남800조투자노벨평화상감\"",
-    "YonhapNewsSummary"
+    "YonhapNewsSummary",
+    "SK인텔릭스,서울디자인재단과맞손…DDP에AI웰니스로봇'나무엑스'...",
+    "“성과급일부를지역화폐로?”…삼성전자노조“좋으면의원세비에...",
+    "코스피·코스닥,동반'급등'…반도체주훈풍에매수사이드카발동",
+    "오늘은비명대신환호…코스피·코스닥매수사이드카발동",
+    "SK인텔릭스·서울디자인재단,DDP스마트디자인환경조성맞손",
+    "美반도체훈풍에코스피7700선탈환…양시장매수사이드카[장중시황...",
+    "이정후,3경기만에안타…대수비출전해'골프스윙'으로2루타",
+    "삼성SDS·현대오토에버이어신세계아이앤씨도노조설립"
    ],
    "initialized": true,
-   "last_run": "2026-07-10T13:35:23.608299+09:00"
+   "last_run": "2026-07-10T13:40:47.943392+09:00"
   }
  },
  "press_names": {
