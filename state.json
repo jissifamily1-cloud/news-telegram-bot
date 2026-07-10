@@ -390,18 +390,25 @@
     [
      "2026-07-11T00:05:26.353023+09:00",
      "코스피 이평선 매물대 돌파 시험대 밀집속 중장기"
+    ],
+    [
+     "2026-07-11T00:10:48.841787+09:00",
+     "드려요 S종목 2배 SK증권 옮기면 혜택 K종목"
+    ],
+    [
+     "2026-07-11T00:10:48.841787+09:00",
+     "전국 분위기 333가구 청약 흥행 신축에 동작구"
+    ],
+    [
+     "2026-07-11T00:10:48.841787+09:00",
+     "대미투자 한미 찾아야 압박 접점 지향하며 반도체 윈윈"
+    ],
+    [
+     "2026-07-11T00:10:48.841787+09:00",
+     "디스카운트 역사 코리아 상장 갈림길 SK하닉 해소는"
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20260710000103",
-    "http://www.metroseoul.co.kr/article/20260710500063",
-    "http://www.seouleconews.com/news/articleView.html?idxno=92319",
-    "https://www.ytn.co.kr/_ln/0104_202607101045160801",
-    "http://www.inews24.com/view/1984332",
-    "https://www.the-stock.kr/news/articleView.html?idxno=32932",
-    "http://www.dailypop.kr/news/articleView.html?idxno=100487",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424365",
-    "https://www.donga.com/news/Inter/article/all/20260710/134272828/1",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467313",
     "http://www.joseilbo.com/news/news_read.php?uid=571661&class=42",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=846808",
@@ -1892,18 +1899,18 @@
     "https://www.joongang.co.kr/article/25444172",
     "https://news.tf.co.kr/read/life/2342216.htm",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=81889",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=81891"
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=81891",
+    "https://www.hankyung.com/article/202607108890i",
+    "https://www.newspim.com/news/view/20260710001499",
+    "https://www.ddaily.co.kr/page/view/2026071022464084015",
+    "https://www.mt.co.kr/world/2026/07/11/2026071100070026663",
+    "https://www.tokenpost.kr/news/economy/376650",
+    "https://www.goodkyung.com/news/articleView.html?idxno=289147",
+    "http://www.srtimes.kr/news/articleView.html?idxno=207301",
+    "https://www.sedaily.com/article/20066426",
+    "https://www.sedaily.com/article/20066427"
    ],
    "seen_titles": [
-    "하나은행,기보와소부장기업대상1천억규모협약보증",
-    "코스피4%대강세…삼전4.5%상승,금융·보험株도급등[마켓시그널]",
-    "[이용웅칼럼]삼전·닉스레버리지광풍,한국증시의'뇌'를녹이는카...",
-    "미래에셋증권,7월증권사브랜드평판분석결과1위",
-    "\"삼전·닉스,이제와서팔라고?\"…증권가하향·매도리포트잇따라",
-    "SKhynixsetsU.S.ADRIPOpriceat$149",
-    "코스피미국증시상승에장중7450선강세,코스닥도2%대올라800선회...",
-    "코스피,7500선회복...삼성전자,하이닉스강세",
-    "[위클리오늘]美상무장관\"삼성·SK도미국공장지어야\"…메모리생산...",
     "'국가대표반도체'SK하이닉스,美ADR공모가149달러…40조확보'역대...",
     "마이크론대규모투자에…러트닉美상무“삼전닉스,질투해따라올것...",
     "SK이터닉스주가,7월10일장중43,750원2.94%상승",
@@ -3394,10 +3401,19 @@
     "매각한메모리·원전이미래핵심산업…도시바몰락의역설",
     "[단독]담합시작은3년전남양주식당…조사시작되자\"방폭파한다\"",
     "[증시프리즘]코스피·코스닥시장외국인·기관순매수상위10개종목...",
-    "[더페어돋보기]중장기이평선밀집속매물대돌파시험대…코스피20..."
+    "[더페어돋보기]중장기이평선밀집속매물대돌파시험대…코스피20...",
+    "최태원\"AI메모리수요,기하급수적증가…생산두배늘려도부족\"",
+    "최태원\"AI시대메모리수요는다르다\"…SK하이닉스고점우려반박",
+    "SK하이닉스,나스닥입성…\"AI메모리리더십강화\"",
+    "최태원\"AI메모리생산2배늘려도모자라…美에수백억투자가시화\"",
+    "원/달러환율,글로벌달러약세와SK하이닉스기대속하락마감",
+    "[증권이모저모]SK증권\"'S종목·K종목'옮기면혜택2배드려요\"",
+    "[7월셋째주분양동향]전국333가구청약…'흥행분위기'동작구신축에...",
+    "[사설]반도체대미투자압박,‘한미윈윈’지향하며접점찾아야",
+    "[사설]SK하닉美상장새역사…‘코리아디스카운트’해소는갈림길"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T00:05:26.353023+09:00"
+   "last_run": "2026-07-11T00:10:48.841787+09:00"
   }
  },
  "press_names": {
