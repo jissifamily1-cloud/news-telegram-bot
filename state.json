@@ -333,15 +333,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.bizwnews.com/news/articleView.html?idxno=140386",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424406",
-    "http://www.osen.co.kr/article/G1112837324",
-    "https://www.starnewskorea.com/business-life/2026/07/10/2026071013232819676",
-    "https://biz.heraldcorp.com/article/10804962",
-    "https://www.safetimes.co.kr/news/articleView.html?idxno=244112",
-    "https://www.etoday.co.kr/news/view/2602477",
-    "https://www.cnbnews.com/news/articleView.html?idxno=1007708",
-    "https://www.newdaily.co.kr/site/data/html/2026/07/10/2026071000149.html",
     "https://www.greened.kr/news/articleView.html?idxno=344699",
     "https://www.sedaily.com/article/20066226",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=03801526645513208",
@@ -1832,15 +1823,18 @@
     "https://www.news1.kr/world/usa-canada/6224839",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6836667_37012.html",
     "https://www.bigtanews.co.kr/article/view/big202607100016",
-    "https://www.seoulfn.com/news/articleView.html?idxno=633158"
+    "https://www.seoulfn.com/news/articleView.html?idxno=633158",
+    "https://www.viewsnnews.com/article?q=237108",
+    "https://www.g-enews.com/view.php?ud=202607110657406297fbbec65dfb_1",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=874784",
+    "http://www.newstown.co.kr/news/articleView.html?idxno=708843",
+    "https://www.yna.co.kr/view/PYH20260711003800013?input=1196m",
+    "https://www.yna.co.kr/view/PYH20260711003600013?input=1196m",
+    "https://www.yna.co.kr/view/PYH20260711003400013?input=1196m",
+    "https://www.yna.co.kr/view/PYH20260711003500013?input=1196m",
+    "https://www.yna.co.kr/view/PYH20260711003700013?input=1196m"
    ],
    "seen_titles": [
-    "하나은행,반도체소부장기업에1000억규모금융지원",
-    "SK텔레콤,AI데이터센터투자설에\"확정된사항없다\"[공시pick]",
-    "코스피5%가까이급등...올해17번째매수사이드카발동",
-    "[속보]코스피5%급등에17번째매수사이드카발동",
-    "'원전+해상풍력'쌍끌이성장…우리기술,친환경에너지제어기술력부...",
-    "코스피5%대급등,매수사이드카발동…올들어벌써34번째[투자360]",
     "SK하이닉스ADR로265억달러조달..美외국기업IPO중최대",
     "TSMC처럼갈까…나스닥행SK하이닉스,본주재평가기대감",
     "[Invest]日키옥시아대박낸베인캐피탈…'20조차익+α'까지남긴SK하...",
@@ -3334,10 +3328,16 @@
     "최태원\"반도체,옛날같은사이클로안움직인다…공급늘려야\"",
     "첫날13%상승‥\"HBM수요기하급수적급증\"",
     "KB증권,7월둘째주POSCO홀딩스등17종목매추추천",
-    "[뉴욕증시]이틀째강세···닉스하려한데뷔·고개숙인마이크론"
+    "[뉴욕증시]이틀째강세···닉스하려한데뷔·고개숙인마이크론",
+    "SK하이닉스ADR,상장첫날13%상승",
+    "미국은증설압박,중국은생산폭증…한국메모리‘양면포위’",
+    "나스닥사장\"SK하이닉스'대박'...더많은해외기업의美상장길열어...",
+    "SK하이닉스주가,월가데뷔첫날12.8%상승168달러로마감",
+    "나스닥ADR거래개시알리는SK하이닉스",
+    "나스닥오프닝벨행사참석한곽노정하이닉스CEO"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T07:15:27.823599+09:00"
+   "last_run": "2026-07-11T07:20:46.501159+09:00"
   }
  },
  "press_names": {
