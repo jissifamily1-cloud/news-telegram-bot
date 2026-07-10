@@ -405,12 +405,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.weeklytoday.com/news/articleView.html?idxno=784532",
-    "https://www.tournews21.com/news/articleView.html?idxno=138360",
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/10/2026071000079.html",
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/10/2026071000093.html",
-    "https://www.mk.co.kr/article/12095218",
-    "https://jp.yna.co.kr/view/AJP20260710000700882?input=1728m",
     "https://www.etoday.co.kr/news/view/2602414",
     "http://www.inews24.com/view/1984303",
     "http://www.kwangju.co.kr/article.php?aid=1783648440801117004",
@@ -1904,15 +1898,15 @@
     "https://www.newdaily.co.kr/site/data/html/2026/07/11/2026071100001.html",
     "https://www.newsis.com/view/NISX20260710_0003704527",
     "https://www.news1.kr/industry/general-industry/6224816",
-    "https://www.hankookilbo.com/news/article/A2026071015070002422?did=NA"
+    "https://www.hankookilbo.com/news/article/A2026071015070002422?did=NA",
+    "http://www.4th.kr/news/articleView.html?idxno=2114606",
+    "https://www.fntimes.com/html/view.php?ud=2026071100115694657de3572ddd_18",
+    "https://biz.chosun.com/international/international_economy/2026/07/11/P3UWCKXPD5AW3DQC6JEKQJBPRI/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652465&plink=ORI&cooper=NAVER",
+    "https://www.yna.co.kr/view/AKR20260710172900071?input=1195m",
+    "https://www.hankyung.com/article/2026071086071"
    ],
    "seen_titles": [
-    "K-팝팬덤만나는K-푸드이벤트개최…글로벌소비로잇는다",
-    "[협력사의재발견③]이재용·최태원·구광모…오너들이키우는'상생생...",
-    "SamsungElec,SKhynixriseasU.S.chipstocksgainmomentum",
-    "KOSPISurges3.57%to7,550RangeAmidWon-DollarRateTakingaBreathe",
-    "“결국따라오게될것”삼전닉스겨냥한美의압박",
-    "코스피·코스닥5%동반급등...기관순매수가견인",
     "SK하이닉스,나스닥입성…'40조실탄'으로광폭투자",
     "수도권자연친화브랜드대단지'의왕역SKVIEW'7월분양예정",
     "SK하이닉스나스닥데뷔…40조잭팟터졌다[영상PICK]",
@@ -3406,10 +3400,16 @@
     "SK하이닉스나스닥데뷔,뉴욕증시상승출발…AI메모리투심자극",
     "\"삼성전자·SK하이닉스반등언제?\"…전문가가꼽은핵심변수",
     "최태원,SK하닉나스닥상장에\"역사적인순간…많은재무적선택지\"",
-    "[사설]SK하이닉스나스닥상장,자본시장선진화앞당기길"
+    "[사설]SK하이닉스나스닥상장,자본시장선진화앞당기길",
+    "최태원\"AI메모리수요기하급수적증가…생산두배늘려도부족\"(종합...",
+    "SK하이닉스,'AI중심'미국나스닥입성...최태원\"생산능력2배늘려도...",
+    "최태원“美에메모리팹으로적합한장소있다면투자”",
+    "SK하이닉스,미국나스닥입성…'AI파트너'글로벌영토확장",
+    "\"'나스닥'SK하이닉스,180달러출발예상…공모가대비20%↑\"",
+    "[사설]SK하이닉스나스닥상장이드러낸한국자본시장현주소"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T00:15:26.790551+09:00"
+   "last_run": "2026-07-11T00:20:48.402895+09:00"
   }
  },
  "press_names": {
