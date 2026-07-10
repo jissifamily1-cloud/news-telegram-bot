@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T00:35:21.770696+09:00",
-     "프로젝트를 캠퍼스로 메가 글로벌 문샷 넘어"
-    ],
-    [
-     "2026-07-11T00:35:21.770696+09:00",
-     "보여줄 권력이 대한민국 호남 비전을 차별의 기억 넘어 미래"
-    ],
-    [
      "2026-07-11T00:40:47.507216+09:00",
      "특별전 신라 맛으로도 유럽 느껴보세요"
     ],
@@ -266,13 +258,17 @@
     [
      "2026-07-11T06:31:00.433845+09:00",
      "오징어게임 됐다 연일 언론 증시에 급락 급등 반복하는"
+    ],
+    [
+     "2026-07-11T06:35:31.526689+09:00",
+     "생산 5년간 최태원 2배로도 메모리 부족"
+    ],
+    [
+     "2026-07-11T06:35:31.526689+09:00",
+     "변화 최태원 HBM 기하급수적 확신 과거와 다른 영구적 수요 회장"
     ]
    ],
    "seen_urls": [
-    "http://www.newsdream.kr/news/articleView.html?idxno=114282",
-    "https://www.khan.co.kr/article/202607101235001",
-    "https://www.pennmike.com/news/articleView.html?idxno=123465",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=272823",
     "http://www.rookie.co.kr/news/articleView.html?idxno=124670",
     "https://www.polinews.co.kr/news/articleView.html?idxno=736614",
     "http://www.joseilbo.com/news/news_read.php?uid=571673&class=1",
@@ -1768,13 +1764,13 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652518&plink=ORI&cooper=NAVER",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000049181",
     "https://biz.chosun.com/international/international_economy/2026/07/11/EY4T7RMRIBAHHKI5IDFKCQVZAQ/",
-    "https://www.mediatoday.co.kr/news/articleView.html?idxno=335658"
+    "https://www.mediatoday.co.kr/news/articleView.html?idxno=335658",
+    "https://www.seoul.co.kr/news/economy/securities/2026/07/11/20260711500002?wlog_tag3=naver",
+    "https://www.newspim.com/news/view/20260711000018",
+    "https://www.newsway.co.kr/news/view?ud=2026071101171875616",
+    "https://www.g-enews.com/view.php?ud=202607110627429182e250e8e188_1"
    ],
    "seen_titles": [
-    "S&P500선물,반도체반등에도하락…美국채금리↓",
-    "한쪽선'역대급성과급',한쪽선'10원도못준다'…최저임금의그늘",
-    "정유4사'26조유가담합'8월첫재판···가격정보교환위법성쟁점",
-    "제주에너지공사,'에너지전환아카데미'청소년현장탐방실시",
     "러트닉美상무장관,삼성·SK에미국메모리생산확대촉구",
     "중기특화금융투자회사7곳지정…자금공급확대",
     "삼성전자노조\"지역화폐로임금지급?국회의원세비부터적용하라\"",
@@ -3270,10 +3266,14 @@
     "SK하이닉스나스닥입성…첫날공모가대비13%↑",
     "AI기술주강세에뉴욕증시상승마감",
     "ADR로나스닥입성한SK하이닉스…첫날공모가대비13%급등마감",
-    "연일급등급락반복하는증시에언론\"오징어게임됐다\""
+    "연일급등급락반복하는증시에언론\"오징어게임됐다\"",
+    "[서울데이터랩]미국증시,기술주강세에주요지수동반상승마감",
+    "뉴욕증시,SK하이닉스나스닥거래첫날상승마감…나스닥0.29%↑",
+    "최태원\"AI메모리5년간생산2배로도부족\"",
+    "최태원회장“HBM수요기하급수적…과거와다른영구적변화확신”"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T06:31:00.433845+09:00"
+   "last_run": "2026-07-11T06:35:31.526689+09:00"
   }
  },
  "press_names": {
