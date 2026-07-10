@@ -306,15 +306,13 @@
     [
      "2026-07-11T07:35:22.848812+09:00",
      "SK하이닉스가 있었다 이유 증설하는 증권신고서에 낸드팹"
+    ],
+    [
+     "2026-07-11T07:55:19.801516+09:00",
+     "아이온큐 이슈는 양자컴퓨팅주 급락"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260710132900237",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=355775",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=442061",
-    "http://www.rookie.co.kr/news/articleView.html?idxno=124675",
-    "https://www.jbnews.com/news/articleView.html?idxno=1507436",
-    "https://en.yna.co.kr/view/AEN20260710006700315?input=2106m",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065587851809847",
     "https://www.segye.com/newsView/20260710508153?OutUrl=naver",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=846837",
@@ -1808,15 +1806,15 @@
     "https://www.etoday.co.kr/news/view/2602665",
     "http://www.newsian.co.kr/news/articleView.html?idxno=92097",
     "https://economist.co.kr/article/view/ecn202607110001",
-    "https://www.ytn.co.kr/_ln/0104_202607110744008476"
+    "https://www.ytn.co.kr/_ln/0104_202607110744008476",
+    "https://www.gpkorea.com/news/articleView.html?idxno=144610",
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=360139",
+    "https://www.kbmaeil.com/article/20260711500028",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=874785",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=5024",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=167998"
    ],
    "seen_titles": [
-    "“올해만몇번째야?”…코스피이어코스닥도‘매수사이드카’발동...",
-    "'하이닉스'외국기업IPO최대규모…알리바바넘었다",
-    "코스피·코스닥동반폭등에양시장매수사이드카발동…삼전·SK하닉...",
-    "SK인텔릭스-서울디자인재단,DDP스마트디자인환경조성위해맞손",
-    "美\"삼성·닉스미국에더투자해야\"…호남반도체구상과맞물린셈...",
-    "삼성이재용·SK최태원,잇단미국행…AI반도체수주·투자전면전",
     "코스피·코스닥매수사이드카…삼전7%급등반도체株강세[마켓시그...",
     "수급풀렸다'기관'양시장폭풍매수....종목90%오르며코스피5%대급...",
     "'배터리아저씨'박순혁,최태원회장동거녀김희영이사명예훼손혐...",
@@ -3310,10 +3308,16 @@
     "뉴욕증시,SK하이닉스데뷔첫날상승마감…나스닥0.29%↑[종합]",
     "SK하이닉스,美나스닥데뷔'흥행'…ADR첫날12.8%상승",
     "[속보]SK하이닉스,나스닥데뷔첫날13%급등…168.49달러마감",
-    "SK하이닉스,나스닥데뷔첫날13%급등...AI메모리기대감반영"
+    "SK하이닉스,나스닥데뷔첫날13%급등...AI메모리기대감반영",
+    "\"뉴욕이K반도체에베팅했다\"…SK하이닉스,나스닥첫날13%급등",
+    "뉴욕증시,'SK하이닉스데뷔'에상승…나스닥0.29%↑",
+    "SK하이닉스‘나스닥’첫날168달러로급등마감",
+    "뉴욕증시,SK하이닉스상장'대박'에상승마감...나스닥0.3%↑",
+    "[인사이트뉴스]미국서'40조잭팟'터트린SK하이닉스,코리아디스카...",
+    "아이온큐등美양자컴퓨팅주'급락'...이슈는?"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T07:50:47.721251+09:00"
+   "last_run": "2026-07-11T07:55:19.801516+09:00"
   }
  },
  "press_names": {
