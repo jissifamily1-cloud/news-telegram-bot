@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-10T17:40:49.084346+09:00",
-     "특화 IBK 7개사 지정 증권사 BNK 중소기업"
-    ],
-    [
-     "2026-07-10T17:40:49.084346+09:00",
-     "한국거래소 우주로봇 코스닥 광통신 6종 상장 ETF"
-    ],
-    [
-     "2026-07-10T17:40:49.084346+09:00",
-     "아시아증시 기술주 상승세 중심 닛케이"
-    ],
-    [
-     "2026-07-10T17:40:49.084346+09:00",
-     "가려진 주식들 반도체에 알짜"
-    ],
-    [
      "2026-07-10T17:45:26.879705+09:00",
      "숏폼 방미통위 정책홍보에 모니터링 입혔다 자동화 업무"
     ],
@@ -490,15 +474,17 @@
     [
      "2026-07-10T23:40:48.619036+09:00",
      "문턱서 나스닥까지 규모 외국기업 사상 파산 SK하이닉스 IPO"
+    ],
+    [
+     "2026-07-10T23:45:25.424062+09:00",
+     "고조 SK하닉 데뷔와 나스닥 기대감 예상 공모가 함께 대비"
+    ],
+    [
+     "2026-07-10T23:45:25.424062+09:00",
+     "한화엔진 대웅제약 앤로보틱스 티에스이 남광토건 파두"
     ]
    ],
    "seen_urls": [
-    "http://www.queen.co.kr/news/articleView.html?idxno=460079",
-    "https://www.joongangenews.com/news/articleView.html?idxno=531983",
-    "https://www.sentv.co.kr/article/view/sentv202607100043",
-    "https://www.tokenpost.kr/news/market/376462",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424359",
-    "https://news.tf.co.kr/read/economy/2341931.htm",
     "https://www.imaeil.com/page/view/2026071010161806626",
     "https://www.1conomynews.co.kr/news/articleView.html?idxno=49494",
     "https://www.sedaily.com/article/20066175",
@@ -1992,15 +1978,15 @@
     "https://www.donga.com/news/Opinion/article/all/20260710/134277581/2",
     "http://www.inews24.com/view/1984584",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652451&plink=ORI&cooper=NAVER",
-    "https://www.econovill.com/news/articleView.html?idxno=744892"
+    "https://www.econovill.com/news/articleView.html?idxno=744892",
+    "https://www.newsway.co.kr/news/view?ud=2026071023172458543",
+    "https://www.sedaily.com/article/20066471",
+    "https://www.inthenews.co.kr/news/article.html?no=89198",
+    "https://news.jtbc.co.kr/article/NB12307708?influxDiv=NAVER",
+    "https://www.news1.kr/world/usa-canada/6224809",
+    "https://www.kdpress.co.kr/news/articleView.html?idxno=206826"
    ],
    "seen_titles": [
-    "SKHynixsetsADRpriceat$149pershare",
-    "[특징주]SK하이닉스,ADR미역대2위IPO에도소폭강세",
-    "마이크론,美공장증설투자확대…상무부\"삼성·SK도미국에부를것...",
-    "美상무장관,삼성·SK하이닉스에메모리생산확대촉구",
-    "“성과급지역상품권으로?국회의원부터먼저해”…삼성노조‘발끈’",
-    "\"149달러도비싸지않았다\"…월가,SK하이닉스에40조베팅한이유",
     "증권테마훨훨…브로커리지·STO기대감에투자심리살아난다",
     "CommercePressuresSamsung,SKHynix",
     "[연합뉴스이시각헤드라인]-10:30",
@@ -3494,10 +3480,16 @@
     "[사설]韓美中반도체‘돈의전쟁’…“초과이윤분배”운운할때아...",
     "SK최태원\"생산능력2배늘려도공급부족…美투자논의중\"",
     "SK하이닉스,나스닥입성…곽노정\"AI있는곳,SK하이닉스함께할것\"",
-    "\"파산문턱서나스닥까지\"SK하이닉스,美외국기업IPO사상최대규모..."
+    "\"파산문턱서나스닥까지\"SK하이닉스,美외국기업IPO사상최대규모...",
+    "SK하이닉스,美나스닥화려한데뷔…40조실탄AI메모리확대투자[종...",
+    "최태원“美메모리팹후보지실사중…조건맞으면투자”",
+    "SK하이닉스,나스닥입성…‘AI메모리리더십’글로벌자본시장으로",
+    "SK하이닉스,미나스닥ADR거래시작…최태원'오프닝벨'",
+    "\"SK하닉,나스닥데뷔와함께기대감고조…공모가대비21%↑예상",
+    "[주요공시]파두,한화엔진,남광토건,티에스이,대웅제약,앤로보틱스..."
    ],
    "initialized": true,
-   "last_run": "2026-07-10T23:40:48.619036+09:00"
+   "last_run": "2026-07-10T23:45:25.424062+09:00"
   }
  },
  "press_names": {
