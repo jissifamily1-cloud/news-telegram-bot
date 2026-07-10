@@ -365,8 +365,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.e-science.co.kr/news/articleView.html?idxno=131743",
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=361933",
     "https://www.hani.co.kr/arti/politics/bluehouse/1267671.html",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260710.99099003033",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=604410",
@@ -1864,11 +1862,11 @@
     "http://www.metroseoul.co.kr/article/20260711500001",
     "https://www.donga.com/news/Politics/article/all/20260710/134277637/2",
     "https://www.donga.com/news/Society/article/all/20260710/134277706/2",
-    "https://www.donga.com/news/Economy/article/all/20260710/134278079/2"
+    "https://www.donga.com/news/Economy/article/all/20260710/134278079/2",
+    "https://www.hankyung.com/article/202607118915i",
+    "https://www.sedaily.com/article/20066484"
    ],
    "seen_titles": [
-    "SK하이닉스,美ADR149달러확정…40조원조달'프리미엄상장'",
-    "“성과급,지역화폐로주자”법안발의…초기업노조“국회의원부터...",
     "청와대\"레버리지ETF,F4회의에서면밀히살펴보고대응\"",
     "해운사들의잇따른'부산행'에해양수도퍼즐'착착'…\"지원도든든하게...",
     "日거래량수조원…해외코인거래소효자상품된‘삼전닉스’",
@@ -3366,10 +3364,12 @@
     "SK하이닉스,美나스닥입성…AI생태계·글로벌투자자공략본격화",
     "與“3대메가프로젝트발목잡는규제타파”",
     "음성군반도체高설명회에…전국학부모폭우뚫고몰려왔다",
-    "“美에메모리공장지어라”韓또압박…‘초과이윤논란이자극’..."
+    "“美에메모리공장지어라”韓또압박…‘초과이윤논란이자극’...",
+    "'나스닥'SK하이닉스,170달러출발…공모가대비14%↑",
+    "SK하이닉스美ADR170달러에거래시작...공모가보다14%↑"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T01:45:28.111588+09:00"
+   "last_run": "2026-07-11T01:50:46.194232+09:00"
   }
  },
  "press_names": {
