@@ -578,14 +578,13 @@
     [
      "2026-07-11T11:20:48.453510+09:00",
      "푼다 도입 재생에너지 ESS 정부 배전망 호남 접속난"
+    ],
+    [
+     "2026-07-11T11:50:45.995422+09:00",
+     "기대 반도체 건설 부지사 생산까지 물론 전남도 강위원"
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1665766/?sc=Naver",
-    "https://en.yna.co.kr/view/AEN20260710009300320?input=2106m",
-    "https://en.yna.co.kr/view/AEN20260710009400320?input=2106m",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000049105",
-    "https://www.m-i.kr/news/articleView.html?idxno=1390402",
     "https://en.yna.co.kr/view/AEN20260710009100320?input=2106m",
     "https://www.newspim.com/news/view/20260710001236",
     "http://www.newswell.co.kr/news/articleView.html?idxno=20212",
@@ -2080,14 +2079,14 @@
     "https://weekly.hankooki.com/news/articleView.html?idxno=7173897",
     "https://www.nocutnews.co.kr/news/6546668",
     "https://www.sedaily.com/article/20066520",
-    "https://www.etnews.com/20260711000015"
+    "https://www.etnews.com/20260711000015",
+    "https://www.viewsnnews.com/article?q=237110",
+    "http://www.efnews.co.kr/news/articleView.html?idxno=130906",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=849705",
+    "http://www.fnnews.com/news/202607111113308260",
+    "https://www.news1.kr/local/gwangju-jeonnam/6224919"
    ],
    "seen_titles": [
-    "[반도체공급전쟁]마이크론,美캐파에375조원투자…\"D램40%현지생...",
-    "SK하이닉스,ADR공모가149달러…프리미엄확보에도전체몸값↓",
-    "월가에도SK하이닉스ADR레버리지ETF쏟아질듯",
-    "Seoulsharesend2.52pcthigheronchiprally;Koreanwonup",
-    "美반도체훈풍에삼성전자3%↑…SK하이닉스는약보합[핫스탁](종합)",
     "마이크론375조美베팅…대미투자압박커지는삼성·SK",
     "[NewsToday]SKhynixsetsrecord-breakingUSADRprice",
     "“이대로면상폐야”…반도체쏠림에중기들증시퇴출위기[중기+]",
@@ -3582,10 +3581,15 @@
     "최태원\"반도체산업,사이클구조벗어나…성장세막을방법없어\"",
     "SSG방출외야수하재훈,시민구단울산서현역연장이어간다",
     "나스닥입성SK하이닉스…최태원“미국메모리공장도가능”",
-    "최태원“메모리공급늘려야,조건맞으면美든어디든팹투자…액면..."
+    "최태원“메모리공급늘려야,조건맞으면美든어디든팹투자…액면...",
+    "최태원,美압박에\"미국에수백억달러투자할것\"",
+    "SK하이닉스,美나스닥ADR상장…거래개시로글로벌투자자공략본격...",
+    "中CXMT,6.5조IPO시동…삼전닉스추격",
+    "최태원\"입지조건맞으면美반도체추가투자가능\"...韓·해외동시다...",
+    "강위원전전남도부지사\"반도체팹건설물론생산까지기대\""
    ],
    "initialized": true,
-   "last_run": "2026-07-11T11:45:26.006846+09:00"
+   "last_run": "2026-07-11T11:50:45.995422+09:00"
   }
  },
  "press_names": {
