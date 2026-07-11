@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T04:25:21.390377+09:00",
-     "변동장에 ETF 쪼그라든 훔칠까 투심 반도체로"
-    ],
-    [
      "2026-07-11T04:35:22.490417+09:00",
      "기업을 정부 살려낸 일본 반도체"
     ],
@@ -558,16 +554,17 @@
     [
      "2026-07-11T10:20:44.881838+09:00",
      "최태원 6배 반도체 피크아웃 고객들 한다 달라 없다"
+    ],
+    [
+     "2026-07-11T10:25:21.978843+09:00",
+     "울산서 하재훈 방출된 SSG서 출발 프로야구 시민구단"
+    ],
+    [
+     "2026-07-11T10:25:21.978843+09:00",
+     "데뷔한 가능 미국에 나스닥 SK의 다음 메모리 공장도 카드"
     ]
    ],
    "seen_urls": [
-    "http://www.breaknews.com/1220864",
-    "https://magazine.hankyung.com/business/article/202607108109b",
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/10/2026071090229.html",
-    "http://www.e2news.com/news/articleView.html?idxno=332200",
-    "https://www.newsis.com/view/NISI20260710_0002183613",
-    "http://www.4th.kr/news/articleView.html?idxno=2114573",
-    "https://www.seoul.co.kr/news/economy/2026/07/10/20260710500170?wlog_tag3=naver",
     "http://www.bizwnews.com/news/articleView.html?idxno=140392",
     "http://www.dailypop.kr/news/articleView.html?idxno=100508",
     "https://www.hankyung.com/article/2026071081057",
@@ -2060,16 +2057,16 @@
     "http://www.yonhapnewstv.co.kr/news/AKR202607111016356ee",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260711.99099003195",
     "https://www.econotimes.com/SK-Hynix-Soars-13-in-Nasdaq-Debut-After-Record-265-Billion-IPO-1746495",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1715984"
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1715984",
+    "https://www.sportsseoul.com/news/read/1621786",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=846926",
+    "https://www.viva100.com/article/20260711500049",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092165628",
+    "https://www.sidae.com/article/2026071110034141684",
+    "https://www.yna.co.kr/view/AKR20260711023900007?input=1195m",
+    "https://economist.co.kr/article/view/ecn202607110010"
    ],
    "seen_titles": [
-    "증시자산효과에반도체성과급까지…경기남부집값상승압력",
-    "\"미국에공장지어야지?\"…삼전·하닉에날아든트럼프투자청구서",
-    "AI모멘텀시험대오른국내증시…SK하이닉스나스닥상장주목",
-    "ESS수주전판갈렸다…삼성SDI물량·LG엔솔운영서두각",
-    "K배터리2분기흑자전환시동…북미ESS공급망구축완료",
-    "코스피·코스닥,미국기술주강세에힘입어2%대상승",
-    "GPT-5.6시대개막…'일하는AI'경쟁시작됐다",
     "글로벌탑티어셀메이커들의필수재…서진시스템,ESS외함압도적경...",
     "닛케이\"원화·엔화동반추락했지만…정책여력한국이더커\"",
     "대선까지바라보는장동혁,주무기는특검",
@@ -3562,10 +3559,17 @@
     "'세계4위'中CXMT,6조원대IPO추진…삼성·SK맹추격",
     "ESS로재생에너지1GW확보…'반도체산단'호남등에연결",
     "SKHynixSoars13%inNasdaqDebutAfterRecord$26.5BillionIPO",
-    "\"반도체피크아웃없다\"는최태원…\"고객들,칩5~6배더달라한다\""
+    "\"반도체피크아웃없다\"는최태원…\"고객들,칩5~6배더달라한다\"",
+    "‘SSG방출’베테랑외야수의새로운도전…울산웨일즈,하재훈영입...",
+    "SK하이닉스,뉴욕수놓다…최태원오프닝벨누르자현장'환호성'",
+    "최태원SK그룹회장“반도체시장,‘사이클’벗어나구조적진화맞...",
+    "SK하이닉스,美나스닥입성…곽노정\"AI있는모든곳에함께할것\"",
+    "\"미국주도주?\"나스닥사장\"SK하이닉스일단성공적,ADR추가상장기...",
+    "프로야구SSG서방출된하재훈,시민구단울산서새출발",
+    "\"미국에메모리공장도가능\",나스닥데뷔한SK의다음카드"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T10:20:44.881838+09:00"
+   "last_run": "2026-07-11T10:25:21.978843+09:00"
   }
  },
  "press_names": {
