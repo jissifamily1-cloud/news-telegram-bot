@@ -310,12 +310,13 @@
     [
      "2026-07-12T07:30:55.524436+09:00",
      "반등 코스피 흥행 SK하이닉스 될까 불씨"
+    ],
+    [
+     "2026-07-12T07:35:24.197467+09:00",
+     "반도체 최태원 공개 대담서 글로벌 투자자에 청사진"
     ]
    ],
    "seen_urls": [
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=204797",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20260710010003905",
-    "https://www.mk.co.kr/article/12095539",
     "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160289627162865",
     "https://www.ppss.kr/news/articleView.html?idxno=301826",
     "https://www.ytn.co.kr/_ln/0102_202607101659273797",
@@ -1812,12 +1813,12 @@
     "https://www.segye.com/newsView/20260712503227?OutUrl=naver",
     "https://www.sedaily.com/article/20066580",
     "http://www.metroseoul.co.kr/article/20260711500028",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16131750"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16131750",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607120034&t=NN",
+    "https://www.lecturernews.com/news/articleView.html?idxno=206105",
+    "https://www.news1.kr/industry/general-industry/6224621"
    ],
    "seen_titles": [
-    "SK증권,'내계좌속S·K를찾아라'이벤트…주식이전고객에최대101...",
-    "SK하이닉스,美증시화려한데뷔…삼성전자도ADR상장추진할까",
-    "나란히미국향한이재용·최태원…AI반도체경쟁력알리기총력",
     "삼성SDI,정부'차세대AI배전망ESS'사업과반확보",
     "\"SK하이닉스ADR상장,코리아디스카운트완화할기회\"",
     "SK증권,'내계좌속S·K를찾아라'이벤트실시",
@@ -3314,10 +3315,13 @@
     "“AI로새먹거리찾아라”…대기업오픈이노베이션확산",
     "“한국인들,월급으론집못사서주식에집착”…日언론이내린평가...",
     "SK인텔릭스,'나무엑스'서울DDP에공급…에어솔루션등제공",
-    "SK하이닉스美흥행,코스피반등불씨될까"
+    "SK하이닉스美흥행,코스피반등불씨될까",
+    "롤러코스터장세에질주…ETF거래량상위양분",
+    "[코스피·코스닥지수]SK하이닉스훈풍에반도체주반등기대…코스피,...",
+    "SK최태원,대담서글로벌투자자에AI반도체청사진공개"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T07:30:55.524436+09:00"
+   "last_run": "2026-07-12T07:35:24.197467+09:00"
   }
  },
  "press_names": {
