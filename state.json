@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T05:15:25.924348+09:00",
-     "하닉 뉴욕증시 첫날 상승 ADR"
-    ],
-    [
-     "2026-07-11T05:15:25.924348+09:00",
-     "일단 휴전 강세 마감 선언에도 종료"
-    ],
-    [
      "2026-07-11T05:31:00.013802+09:00",
      "마감 중동 상승 긴장에도 SK하이닉스 일제히"
     ],
@@ -602,13 +594,13 @@
     [
      "2026-07-11T11:15:25.800870+09:00",
      "pledges fears chief Nasdaq peak massive after push dismisses debut"
+    ],
+    [
+     "2026-07-11T11:20:48.453510+09:00",
+     "푼다 도입 재생에너지 ESS 정부 배전망 호남 접속난"
     ]
    ],
    "seen_urls": [
-    "https://www.greened.kr/news/articleView.html?idxno=344781",
-    "https://www.yna.co.kr/view/AKR20260710117700009?input=1195m",
-    "https://en.yna.co.kr/view/AEN20260710008500320?input=2106m",
-    "https://www.newsis.com/view/NISX20260710_0003704597",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04204966645513208",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8607665",
     "https://biz.heraldcorp.com/article/10805166",
@@ -2104,13 +2096,13 @@
     "https://www.news1.kr/local/gwangju-jeonnam/6224909",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467545",
     "https://www.aitimes.com/news/articleView.html?idxno=212654",
-    "https://www.koreajoongangdaily.com/business/sk-chief-dismisses-peak-fears-pledges-massive-ai-push-after-nasdaq-debut/12768076"
+    "https://www.koreajoongangdaily.com/business/sk-chief-dismisses-peak-fears-pledges-massive-ai-push-after-nasdaq-debut/12768076",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273597",
+    "https://www.newsis.com/view/NISX20260711_0003705190",
+    "https://www.insight.co.kr/news/562576",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447828"
    ],
    "seen_titles": [
-    "'오징어게임'된단일종목ETF…4개월졸속도입의후폭풍",
-    "불꽃파이터즈,최지만앞세운울산웨일즈와격돌…12일생중계",
-    "\"1년전엔이름도몰랐는데\"…외신이본SK하이닉스美상장의의미",
-    "[자막뉴스]전쟁격화에도뉴욕증시'환호'...투자자들시선은'이곳'으...",
     "코스피,2.52%상승한7475.94마감…코스닥5.47%↑",
     "하나은행,반도체중소기업에1000억원금융지원",
     "SK증권,'내계좌속S·K를찾아라'이벤트…최대101만원지급",
@@ -3606,10 +3598,14 @@
     "광주찾은與당권주자'반도체·삼성·문재인'민심잡기3인3색",
     "AI가바꾸는SK텔레콤…실적개선에투자매력커졌다",
     "[AI이슈트렌드]한화오션수주불발속반도체주변동·장윤기유착의...",
-    "SKchiefdismissespeakfears,pledgesmassiveAIpushafterNasdaqdeb"
+    "SKchiefdismissespeakfears,pledgesmassiveAIpushafterNasdaqdeb",
+    "최태원\"미국메모리공장도검토\"…SK하이닉스대미투자확대가능성",
+    "'SSG방출'하재훈,시민구단울산입단…\"처음부터다시시작\"",
+    "SK하이닉스,나스닥첫날168달러마감...공모가대비13%'급등'",
+    "정부,배전망ESS첫도입···호남재생에너지접속난푼다"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T11:15:25.800870+09:00"
+   "last_run": "2026-07-11T11:20:48.453510+09:00"
   }
  },
  "press_names": {
