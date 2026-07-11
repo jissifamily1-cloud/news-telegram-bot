@@ -230,10 +230,13 @@
     [
      "2026-07-11T20:15:25.037783+09:00",
      "견인할까 핵심은 하이닉스 주가도 ADR 뒷받침 실적 상장이"
+    ],
+    [
+     "2026-07-11T20:30:58.826062+09:00",
+     "첨단소재로 원료에서 가능성은 산업 여수"
     ]
    ],
    "seen_urls": [
-    "http://www.inews24.com/view/1984513",
     "https://www.incheontoday.com/news/articleView.html?idxno=321100",
     "https://www.ajunews.com/view/20260710155816533",
     "https://www.busan.com/view/busan/view.php?code=2026071016214631631",
@@ -1732,10 +1735,10 @@
     "https://imnews.imbc.com/replay/2026/nwdesk/article/6836732_37004.html",
     "https://basketkorea.com/news/newsview.php?ncode=1065611176970458",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652971&plink=ORI&cooper=NAVER",
-    "https://imnews.imbc.com/replay/2026/nwdesk/article/6836733_37004.html"
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6836733_37004.html",
+    "https://kjmbc.co.kr/NewsArticle/1527103"
    ],
    "seen_titles": [
-    "코스피,'반도체투자심리개선'에2.52%상승...7400선회복",
     "기관매수·반도체훈풍에코스피7400선회복…장중매수사이드카",
     "금융위,중기특화증권사7곳지정...모험자본공급확대",
     "SK하닉,ADR상장앞두고도차익실현에하락마감",
@@ -3234,10 +3237,11 @@
     "SK하이닉스,미국서첫날급등‥'화려한데뷔'",
     "10전10패끝첫승,‘이주민여성농구단’글로벌마더스의성장드라...",
     "거래첫날부터공모가'훌쩍'…활짝웃은최태원회장",
-    "ADR상장이하이닉스주가도견인할까‥\"핵심은실적뒷받침\""
+    "ADR상장이하이닉스주가도견인할까‥\"핵심은실적뒷받침\"",
+    "원료에서첨단소재로..여수산업전환가능성은?"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T20:25:21.157748+09:00"
+   "last_run": "2026-07-11T20:30:58.826062+09:00"
   }
  },
  "press_names": {
