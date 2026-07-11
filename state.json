@@ -138,11 +138,13 @@
     [
      "2026-07-12T00:01:04.245032+09:00",
      "도시바 반도체 키옥시아 열전 승부사들 초격차의"
+    ],
+    [
+     "2026-07-12T00:05:16.029920+09:00",
+     "물량 외인 기관 끌어올렸다 쓸어담으며 평단가"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652052&plink=ORI&cooper=NAVER",
-    "https://www.etoday.co.kr/news/view/2602490",
     "https://it.chosun.com/news/articleView.html?idxno=2023092165593",
     "http://www.issuenbiz.com/news/articleView.html?idxno=77805",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005876811",
@@ -1640,11 +1642,11 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04083606645513536",
     "https://www.gokorea.kr/news/articleView.html?idxno=871838",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=81894",
-    "https://www.g-enews.com/view.php?ud=202606122019339697906806b77b_1"
+    "https://www.g-enews.com/view.php?ud=202606122019339697906806b77b_1",
+    "https://www.theguru.co.kr/news/article.html?no=104257",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=81893"
    ],
    "seen_titles": [
-    "[EBN데이터센터]코스피7475.94마감...기관순매수에2.52%반등",
-    "환율,달러약세·SK하이닉스ADR기대에하락···주간거래서1501.4원...",
     "'삼성전자SK하이닉스협업'반도체장비사CEO\"수요2년이상견조\",A...",
     "미국발AI훈풍에한국증시질주···코스피·코스닥동반사이드카발...",
     "\"SK하이닉스ADR공모가주당149달러확정\"",
@@ -3142,10 +3144,12 @@
     "[포토]김재희,야디지북확인해요",
     "SK하이닉스미국상장…AI메모리시장지각변동예고",
     "[클로즈업]\"빅테크AI서버발주에날개달았다\"…반도체투톱,하반기...",
-    "[김대호진단]초격차의승부사들\"반도체열전\"⑥도시바-키옥시아......"
+    "[김대호진단]초격차의승부사들\"반도체열전\"⑥도시바-키옥시아......",
+    "건설사2분기실적희비…삼성물산'개선'vs현대건설'축소'전망",
+    "[더페어돋보기]\"물량쓸어담으며평단가끌어올렸다\"…외인·기관,반..."
    ],
    "initialized": true,
-   "last_run": "2026-07-12T00:01:04.245032+09:00"
+   "last_run": "2026-07-12T00:05:16.029920+09:00"
   }
  },
  "press_names": {
