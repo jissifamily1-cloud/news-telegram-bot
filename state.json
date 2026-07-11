@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T07:55:19.801516+09:00",
-     "아이온큐 이슈는 양자컴퓨팅주 급락"
-    ],
-    [
      "2026-07-11T08:01:02.001489+09:00",
      "상장 SK하이닉스 CEO 곽노정 들어보이는 기념패"
     ],
@@ -462,12 +458,13 @@
     [
      "2026-07-11T13:35:20.420601+09:00",
      "1곳 가뭄 청약 전국 333가구 서울 의왕 춘천 동작"
+    ],
+    [
+     "2026-07-11T13:55:20.807930+09:00",
+     "WTE 산업을 기후 자원순환 가스화 주도한 위기와 기술"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISI20260710_0021358828",
-    "https://www.jbnews.com/news/articleView.html?idxno=1507445",
-    "https://www.newsis.com/view/NISI20260710_0021358831",
     "https://www.newsis.com/view/NISI20260710_0021358829",
     "https://www.mk.co.kr/article/12095450",
     "http://www.inews24.com/view/1984500",
@@ -1964,12 +1961,12 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1715989",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005877274",
     "https://www.dt.co.kr/article/12072303",
-    "https://www.ytn.co.kr/_ln/0104_202607111339291591"
+    "https://www.ytn.co.kr/_ln/0104_202607111339291591",
+    "https://www.ikbc.co.kr/article/view/kbc202607110021",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=441030",
+    "https://www.ilemonde.com/news/articleView.html?idxno=30327"
    ],
    "seen_titles": [
-    "[더밸류브리핑]오늘의증권소식...미래에셋증권·현대차증권·SK증권",
-    "HD현대마린솔루션,2분기매출30%성장'기대'…\"AIDC新동력\"",
-    "동탄처럼될까···반도체효과에'광주첨단3지구'몰리는시선",
     "미래에셋,7월증권사브랜드평판1위…한투'만년3위'",
     "자이스\"독일기술을한국의속도로\"⋯용인서HBM개발지원",
     "SK하이닉스,美ADR상장앞두고'주춤'…삼성전자는2.52%상승",
@@ -3466,10 +3463,13 @@
     "뉴욕삼킨SK하이닉스'역사적데뷔'…월가가반도체슈퍼사이클확신하...",
     "중국CXMTIPO절차시작…6.5조자본으로삼성·SK추격",
     "“화려하다”…SK하이닉스美상장에외신도주목",
-    "외신\"SK하이닉스,화려한미국데뷔\"...월가\"반도체랠리가능성\""
+    "외신\"SK하이닉스,화려한미국데뷔\"...월가\"반도체랠리가능성\"",
+    "외신\"SK하이닉스역사적데뷔\"...월가\"AI반도체랠리이어질것\"",
+    "SK하이닉스,나스닥ADR상장…글로벌AI시장공략강화",
+    "[기획특집]기후위기와자원순환④.가스화기술,WTE산업을주도한..."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T13:50:46.428002+09:00"
+   "last_run": "2026-07-11T13:55:20.807930+09:00"
   }
  },
  "press_names": {
