@@ -357,9 +357,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newstopkorea.com/news/articleView.html?idxno=46193",
-    "https://www.asiatime.co.kr/article/20260710500273",
-    "https://www.ajunews.com/view/20260710170405669",
     "https://economist.co.kr/article/view/ecn202607100041",
     "https://www.etnews.com/20260710000267",
     "https://magazine.hankyung.com/money/article/202607108466c",
@@ -1856,12 +1853,12 @@
     "https://www.jnilbo.com/news/articleView.html?idxno=90000049276",
     "https://www.betanews.net/article/view/beta202607120005",
     "https://www.g-enews.com/view.php?ud=202607120739379540fbbec65dfb_1",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1715999"
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1715999",
+    "https://www.thepublic.kr/news/articleView.html?idxno=310965",
+    "https://www.tokenpost.kr/news/market/376857",
+    "https://www.thepublic.kr/news/articleView.html?idxno=310961"
    ],
    "seen_titles": [
-    "삼성SDI,'차세대AI배전망'정부입찰'압승...ESS용NCA각형배터리...",
-    "삼성SDI,'AI전력망'시대ESS패권…정부사업66%석권",
-    "삼성SDI,‘AI배전망에너지저장장치’66%수주",
     "블룸버그\"중국CXMT삼성SK맞설HBM생태계구축\",미국제재피해공...",
     "SK증권,타사주식이전고객에최대101만원현금지급",
     "美상무장관,삼성·SK생산확대촉구…“美공장지어라”",
@@ -3358,10 +3355,13 @@
     "SK하이닉스40조달러폭탄…한국외환시장숨통트이나",
     "SK하이닉스ADR데뷔흥행…나스닥발온기,코스피까지번질까",
     "美,인텔지분10%확보…보조금주식전환으로'반도체국가대표'육성",
-    "﻿\"피크아웃없다\"최태원승부수…40조실탄들고美공장까지검토"
+    "﻿\"피크아웃없다\"최태원승부수…40조실탄들고美공장까지검토",
+    "반도체냉각재헬륨수출막은중국…'헬륨쇼크'가격·물량불안커진...",
+    "SK하이닉스미국상장,'역김치프리미엄'에시선집중",
+    "나스닥서40조쥔SK하이닉스…HBM넘어'AI인프라기업'노린다"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T08:20:48.594301+09:00"
+   "last_run": "2026-07-12T08:25:22.147557+09:00"
   }
  },
  "press_names": {
