@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T08:40:47.118125+09:00",
-     "호황에도 희비 코웨이 구독 독주"
-    ],
-    [
-     "2026-07-11T08:40:47.118125+09:00",
-     "끝냈다 전성기 잔혹사 LG생건 아모레 차이나 현지화로 제2"
-    ],
-    [
-     "2026-07-11T08:40:47.118125+09:00",
-     "급등 몰린 SK하이닉스에 이유 월가가 첫날부터"
-    ],
-    [
      "2026-07-11T08:45:25.543641+09:00",
      "치솟는 생존 주식뿐 한국 청년 있는 앞에 일본이 집값"
     ],
@@ -390,13 +378,17 @@
     [
      "2026-07-11T14:15:24.774220+09:00",
      "성장 너머 취업 경로 창업 넓힌다 자립까지"
+    ],
+    [
+     "2026-07-11T14:40:47.781658+09:00",
+     "나스닥 SK하이닉스 초대장에 동봉된 청구서"
+    ],
+    [
+     "2026-07-11T14:40:47.781658+09:00",
+     "상장 주목한 ADR 이유 SK하이닉스 닛케이가 40조"
     ]
    ],
    "seen_urls": [
-    "https://www.slist.kr/news/articleView.html?idxno=750951",
-    "https://view.asiae.co.kr/article/2026071016004288687",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000049114",
-    "https://www.newsis.com/view/NISX20260710_0003704634",
     "https://www.g-enews.com/view.php?ud=2026071015441648303084322ec9_1",
     "https://www.ytn.co.kr/_ln/0104_202607101558311394",
     "https://economist.co.kr/article/view/ecn202607100026",
@@ -1892,13 +1884,13 @@
     "https://view.asiae.co.kr/article/2026071012130984102",
     "https://www.hidomin.com/news/articleView.html?idxno=712792",
     "https://news.tvchosun.com/site/data/html_dir/2026/07/11/2026071190041.html",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608260"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608260",
+    "https://www.kukinews.com/article/view/kuk202607110019",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652787&plink=ORI&cooper=NAVER",
+    "https://magazine.hankyung.com/business/article/202607094695b",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02089366645513536"
    ],
    "seen_titles": [
-    "정부AI배전망ESS사업서삼성SDI66%수주·LG엔솔운영자선정",
-    "코스피,2.5%반등하며7400선회복...코스닥5.5%급등↑",
-    "[배터리온에어]삼성SDI,정부첫'배전망ESS'수주압승",
-    "코스피,AI반도체훈풍에2.52%상승마감…코스닥,5%급등해830선",
     "러트닉美상무\"삼성·SK하이닉스美서메모리생산해야\"···반도체투...",
     "블룸버그“월가,SK하이닉스ADR레버리지상품준비…다음주최소6개...",
     "삼성SDI,AI배전망ESS사업셀공급66%최다",
@@ -3394,10 +3386,14 @@
     "[주末머니]오락가락장세에…\"삼전닉스채권혼합ETF적합\"",
     "SK하이닉스美상장에외신\"역사적데뷔\"...월가\"반도체랠리가능성...",
     "SK하이닉스,美나스닥첫날13%급등…최태원\"지금은AI시대\"",
-    "“화려한미국데뷔”외신들,SK하이닉스뉴욕상장소식호평…월가..."
+    "“화려한미국데뷔”외신들,SK하이닉스뉴욕상장소식호평…월가...",
+    "SK하이닉스성공적인미국시장데뷔앞다퉈보도한외신들…월가는“...",
+    "[자막뉴스]SK하이닉스나스닥데뷔성적'대박'…미국내메모리공장...",
+    "SK하이닉스나스닥초대장에동봉된청구서",
+    "SK하이닉스'40조'美ADR상장이유…닛케이가주목한이유셋"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T14:35:23.615960+09:00"
+   "last_run": "2026-07-11T14:40:47.781658+09:00"
   }
  },
  "press_names": {
