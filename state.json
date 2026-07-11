@@ -145,7 +145,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/photos/8002754",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005876812",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=204792",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652052&plink=ORI&cooper=NAVER",
@@ -1644,10 +1643,10 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04086886645513536",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04077046645513536",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04080326645513536",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04083606645513536"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=04083606645513536",
+    "https://www.gokorea.kr/news/articleView.html?idxno=871838"
    ],
    "seen_titles": [
-    "코스피,기관순매수에7470선마감…코스닥은5.5%급등",
     "호남·제주막힌전력망푼다…배전망ESS구축본격화",
     "[Editorial-우리생각엔…]대통령주재부동산정책대토론회,구색용아...",
     "[EBN데이터센터]코스피7475.94마감...기관순매수에2.52%반등",
@@ -3146,10 +3145,11 @@
     "[포토]김재희,기다리다지친표정",
     "[포토]김재희,미소로연습해요",
     "[포토]김재희,피곤한하루",
-    "[포토]김재희,야디지북확인해요"
+    "[포토]김재희,야디지북확인해요",
+    "SK하이닉스미국상장…AI메모리시장지각변동예고"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T23:45:23.633428+09:00"
+   "last_run": "2026-07-11T23:50:47.803891+09:00"
   }
  },
  "press_names": {
