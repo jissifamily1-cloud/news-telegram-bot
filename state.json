@@ -490,14 +490,17 @@
     [
      "2026-07-11T09:15:27.275402+09:00",
      "부상 전력 인프라 국민연금 보니 2Q 종목 대량보유 K소비재"
+    ],
+    [
+     "2026-07-11T09:20:45.771264+09:00",
+     "지수 기술주 상승 3대 강세"
+    ],
+    [
+     "2026-07-11T09:20:45.771264+09:00",
+     "40조원을 SK하이닉스가 시대의 핵심 맡겼다 세계가"
     ]
    ],
    "seen_urls": [
-    "https://www.ekn.kr/web/view.php?key=20260710026481245",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=660196",
-    "https://biz.sbs.co.kr/article_hub/20000321781?division=NAVER",
-    "https://www.mk.co.kr/article/12095366",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03975366645513208",
     "http://www.newstomato.com/ReadNews.aspx?no=1306811&inflow=N",
     "https://view.asiae.co.kr/article/2026071014170087014",
     "https://www.joongangenews.com/news/articleView.html?idxno=532117",
@@ -1992,14 +1995,14 @@
     "https://www.newsworks.co.kr/news/articleView.html?idxno=846917",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01840086645513536",
     "https://www.asiaa.co.kr/news/articleView.html?idxno=254942",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424497"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424497",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=92101",
+    "https://news.tf.co.kr/read/economy/2342233.htm",
+    "https://www.mediafine.co.kr/news/articleView.html?idxno=83209",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=849688",
+    "https://www.techm.kr/news/articleView.html?idxno=153298"
    ],
    "seen_titles": [
-    "금융당국,중소기업특화금투사7개사지정…향후3년간중소·벤처기...",
-    "\"사실상매도의견\"vs\"랠리안끝났다\"...삼전닉스두고엇갈린증권...",
-    "청와대\"레버리지ETF,F4서면밀히고민\"…보완결정예고",
-    "김민석“메가프로젝트1차에불과…전북후속사업제일처럼챙기겠다...",
-    "[단독]광명하안주공5단지,무응찰로또유찰",
     "[글로벌증시따라잡기]7월내내어지러운미국증시…변동성키운요인...",
     "[오후장체크포인트]미반도체주'훈풍'에코스피도장중강세",
     "삼성전자노조\"성과급지역화폐지급안철회해야\"",
@@ -3494,10 +3497,15 @@
     "SK하이닉스,ADR상장첫날168.49달러로거래마감…공모가대비13%↑",
     "비트코인반등…스트래티지·클래리티법·서클기대감[코인모닝콜]",
     "[A증권가소식]신한투자증권,은행·증권결합'SOLLINK계좌'출시外",
-    "국민연금2Q대량보유종목보니…'K소비재·전력인프라'부상"
+    "국민연금2Q대량보유종목보니…'K소비재·전력인프라'부상",
+    "'AI기술주'강세에뉴욕증시상승마감…SK하닉ADR첫날13%↑",
+    "SK하이닉스ADR,나스닥첫날13%뛰었다…AI반도체기대감확인",
+    "뉴욕증시동반상승-SK하이닉스나스닥데뷔흥행,AI반도체주강세",
+    "[뉴욕증시]AI기술주강세…3대지수상승",
+    "[카드뉴스]세계가40조원을맡겼다..SK하이닉스가'AI시대의핵심기..."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T09:15:27.275402+09:00"
+   "last_run": "2026-07-11T09:20:45.771264+09:00"
   }
  },
  "press_names": {
