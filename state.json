@@ -586,12 +586,13 @@
     [
      "2026-07-11T11:05:22.923353+09:00",
      "손실 자릿수 남은 레버리지로 코스닥서"
+    ],
+    [
+     "2026-07-11T11:10:48.451523+09:00",
+     "시대 여나 코리아프리미엄 이제 디스카운트 코리아"
     ]
    ],
    "seen_urls": [
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=545665",
-    "https://www.ceoscoredaily.com/page/view/2026071010531371241",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04195126645513208",
     "https://www.ytn.co.kr/_ln/0102_202607101536276903",
     "http://www.lawissue.co.kr/view.php?ud=20260710153357733467191f6c6e_12",
     "http://www.fnnews.com/news/202607101354449642",
@@ -2088,12 +2089,12 @@
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250545&CMPT_CD=P0010",
     "https://www.munhwa.com/article/11601919",
     "https://www.sedaily.com/article/20066493",
-    "http://www.fnnews.com/news/202607110048155357"
+    "http://www.fnnews.com/news/202607110048155357",
+    "https://biz.newdaily.co.kr/site/data/html/2026/07/11/2026071100012.html",
+    "https://www.ytn.co.kr/_ln/0102_202607111105080640",
+    "https://www.ilemonde.com/news/articleView.html?idxno=30320"
    ],
    "seen_titles": [
-    "삼성노조\"성과급지역화폐안돼\"…거센반발에민주당법안철회",
-    "삼성SDI,‘차세대AI배전망’정부입찰2/3‘싹쓸이’…“각형배터...",
-    "[분양캘린더]7월셋째주333가구청약접수",
     "[더벨][PolicyRadar]민주\"삼전닉스레버리지상장폐지'시기상조'\"",
     "'2026AI배전망ESS'삼성SDI66%수주,LG엔솔운영사업자선정",
     "'3경기만에안타'이정후,골프스윙'2루타'타격왕경쟁군불",
@@ -3590,10 +3591,13 @@
     "SK하이닉스,나스닥입성…'경쟁사'마이크론단숨에제쳤다",
     "‘지금까지중국1위,앞으론세계4위’…중국CXMT,삼전·하닉추격...",
     "美투자에정치신경안쓴다는최태원의“검토”[트럼프스톡커]",
-    "코스닥서돈빼레버리지로…남은건두자릿수손실"
+    "코스닥서돈빼레버리지로…남은건두자릿수손실",
+    "'SK하이닉스효과'에환율1490원대…달러유입기대감증폭",
+    "SK하닉흥행\"코리아디스카운트해소\"...\"지켜봐야\"",
+    "[SKAI반도체시대]코리아디스카운트,이제코리아프리미엄시대여나..."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T11:05:22.923353+09:00"
+   "last_run": "2026-07-11T11:10:48.451523+09:00"
   }
  },
  "press_names": {
