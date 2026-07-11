@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T06:20:52.401673+09:00",
-     "오늘의 주요뉴스"
-    ],
-    [
      "2026-07-11T06:31:00.433845+09:00",
      "오징어게임 됐다 연일 언론 증시에 급락 급등 반복하는"
     ],
@@ -538,14 +534,17 @@
     [
      "2026-07-11T12:15:25.049052+09:00",
      "주요뉴스 시각 12시"
+    ],
+    [
+     "2026-07-11T12:25:19.873101+09:00",
+     "현장 에너지전환 제주도 제주에너지공사 제주 2026년 탐방 아카데미"
+    ],
+    [
+     "2026-07-11T12:25:19.873101+09:00",
+     "주식 역사적인 시장 WSJ 흔들어 데뷔 한국 업체의 메모리"
     ]
    ],
    "seen_urls": [
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000049109",
-    "https://biz.sbs.co.kr/article_hub/20000321816?division=NAVER",
-    "https://www.ytn.co.kr/_ln/0102_202607101546348979",
-    "https://www.todayenergy.kr/news/articleView.html?idxno=300242",
-    "http://www.lawissue.co.kr/view.php?ud=20260710154429891267191f6c6e_12",
     "https://www.viva100.com/article/20260710500596",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1715930",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=272850",
@@ -2040,14 +2039,14 @@
     "https://www.newsis.com/view/NISX20260710_0003704501",
     "https://imnews.imbc.com/replay/2026/nw1200/article/6836706_36967.html",
     "https://www.slist.kr/news/articleView.html?idxno=751120",
-    "https://www.ktv.go.kr/content/view?content_id=757793"
+    "https://www.ktv.go.kr/content/view?content_id=757793",
+    "https://www.starnewskorea.com/sports/2026/07/11/2026071111491995783",
+    "https://www.sedaily.com/article/20066523",
+    "https://news.jtbc.co.kr/article/NB12307728?influxDiv=NAVER",
+    "https://www.newsjeju.net/news/articleView.html?idxno=423179",
+    "https://www.newsis.com/view/NISX20260711_0003705213"
    ],
    "seen_titles": [
-    "KOSPI200ClosingPriceList-4",
-    "SK하이닉스,미국ADR레버리지상품월가서쏟아진다",
-    "[마감시황]SK하이닉스ADR상장전야...양대시장매수사이드카",
-    "KOSPI200ClosingPriceList-1",
-    "美,삼성·SK에\"미국에공장지어라\"…국내외투자고민커진다",
     "'금감원제재단골'리딩투자증권이중소기업지원?[뉴스톡웰스톡]",
     "발전하는행정도시세종에‘세종우미린센터파크’분양예정",
     "원·달러,1501.4원마감…이틀째1500원대(종합)",
@@ -3542,10 +3541,15 @@
     "'메모리피크아웃'기우일까…이달말'글로벌빅테크성적표'촉각[반...",
     "하이닉스나스닥첫날13%상승‥흥행성공",
     "'SSG랜더스방출'하재훈,시민구단울산서새출발",
-    "이시각주요뉴스(26.07.11.12시)"
+    "이시각주요뉴스(26.07.11.12시)",
+    "'세이브왕+3할타자'하재훈,울산웨일즈서새출발\"힘-스피드자신있...",
+    "‘세계D램4위’中CXMT…6.5조실탄으로삼성·SK추격",
+    "나스닥첫날13%폭등에'깜짝'…SK하이닉스화려한데뷔",
+    "제주도·제주에너지공사,'2026년제주에너지전환아카데미'현장탐방...",
+    "“한국메모리칩업체의역사적인데뷔,주식시장흔들어”-WSJ"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T12:20:47.124566+09:00"
+   "last_run": "2026-07-11T12:25:19.873101+09:00"
   }
  },
  "press_names": {
