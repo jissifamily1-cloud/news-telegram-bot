@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T10:55:20.606793+09:00",
-     "5거래일 SK텔레콤 최근 주가 상승"
-    ],
-    [
-     "2026-07-11T10:55:20.606793+09:00",
-     "최고의 증시를 선택하는가 반도체 시대 기업들은 세계 미국"
-    ],
-    [
      "2026-07-11T11:05:22.923353+09:00",
      "신경 투자에 검토 쓴다는 정치 최태원의"
     ],
@@ -277,7 +269,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.newsdream.kr/news/articleView.html?idxno=114296",
     "https://www.tjb.co.kr/news05/bodo/view/id/100785",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=422365",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=724238",
@@ -1776,10 +1767,10 @@
     "https://www.insight.co.kr/news/562603",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5205289",
     "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=94672",
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/11/2026071190082.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/11/2026071190082.html",
+    "https://www.dailian.co.kr/news/view/1666066/?sc=Naver"
    ],
    "seen_titles": [
-    "SKAX,제조현장'로봇전환'본격지원…자율형공장구축속도낸다",
     "코스피,반도체투자심리개선힘입어2.5%상승…코스닥5.4%급등",
     "'성과급지역화폐'법안철회…노동계반발에이틀만에백지화",
     "SK하이닉스美ADR149달러확정…‘역김치프리미엄’형성되나",
@@ -3278,10 +3269,11 @@
     "'세계D램4위'중국,6.5조실탄들고삼성·SK맹추격",
     "하루만에'빚투'1,400억청산…널뛰기증시여파",
     "'반전시나리오'김민재-유벤투스DF스왑딜가능성...1티어기자도\"생...",
-    "금융위,중소기업특화증권사7곳지정…BNK·IBK등"
+    "금융위,중소기업특화증권사7곳지정…BNK·IBK등",
+    "외신\"SK하이닉스,AI메모리시대연역사적데뷔\"…ADR첫날13%급등"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T16:55:20.458262+09:00"
+   "last_run": "2026-07-11T17:01:02.803713+09:00"
   }
  },
  "press_names": {
