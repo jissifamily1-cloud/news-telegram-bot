@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T08:45:25.543641+09:00",
-     "치솟는 생존 주식뿐 한국 청년 있는 앞에 일본이 집값"
-    ],
-    [
-     "2026-07-11T08:45:25.543641+09:00",
-     "급등 공모가 딜은 SK하닉ADR 미국 대비 주식 전체"
-    ],
-    [
      "2026-07-11T08:50:46.955271+09:00",
      "레버리지 삼전닉스 높일까 문턱 ETF 후폭풍 진입"
     ],
@@ -389,7 +381,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=2026071015441648303084322ec9_1",
     "https://www.ytn.co.kr/_ln/0104_202607101558311394",
     "https://economist.co.kr/article/view/ecn202607100026",
     "https://www.newsway.co.kr/news/view?ud=2026071015425208757",
@@ -1888,10 +1879,10 @@
     "https://www.kukinews.com/article/view/kuk202607110019",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652787&plink=ORI&cooper=NAVER",
     "https://magazine.hankyung.com/business/article/202607094695b",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=02089366645513536"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02089366645513536",
+    "http://www.segyebiz.com/newsView/20260711508210?OutUrl=naver"
    ],
    "seen_titles": [
-    "러트닉美상무\"삼성·SK하이닉스美서메모리생산해야\"···반도체투...",
     "블룸버그“월가,SK하이닉스ADR레버리지상품준비…다음주최소6개...",
     "삼성SDI,AI배전망ESS사업셀공급66%최다",
     "코스피·코스닥,'매수사이드카'발동…기관매수세에일제히급등마...",
@@ -3390,10 +3381,11 @@
     "SK하이닉스성공적인미국시장데뷔앞다퉈보도한외신들…월가는“...",
     "[자막뉴스]SK하이닉스나스닥데뷔성적'대박'…미국내메모리공장...",
     "SK하이닉스나스닥초대장에동봉된청구서",
-    "SK하이닉스'40조'美ADR상장이유…닛케이가주목한이유셋"
+    "SK하이닉스'40조'美ADR상장이유…닛케이가주목한이유셋",
+    "블룸버그등외신“SK하이닉스,역사적美데뷔…외투,韓서부의상징..."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T14:40:47.781658+09:00"
+   "last_run": "2026-07-11T14:45:25.729995+09:00"
   }
  },
  "press_names": {
