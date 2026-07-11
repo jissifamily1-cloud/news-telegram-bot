@@ -345,8 +345,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467433",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=360124",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4094398",
     "http://www.newstomato.com/ReadNews.aspx?no=1306835&inflow=N",
     "https://www.newsis.com/view/NISI20260710_0021358843",
@@ -1844,11 +1842,11 @@
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683426",
     "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539185",
     "http://www.newswatch.kr/news/articleView.html?idxno=80405",
-    "https://www.koreajoongangdaily.com/business/muans-uturn-clears-path-for-gwangjus-semiconductor-megacluster/12768297"
+    "https://www.koreajoongangdaily.com/business/muans-uturn-clears-path-for-gwangjus-semiconductor-megacluster/12768297",
+    "https://biz.newdaily.co.kr/site/data/html/2026/07/11/2026071100031.html",
+    "https://biz.newdaily.co.kr/site/data/html/2026/07/11/2026071100020.html"
    ],
    "seen_titles": [
-    "경기도첫집,열중여섯은2030이샀다…성남수정450%,구리209%거래...",
-    "현대차,분기매출50조눈앞…삼성전자·SK하이닉스이어세번째되나",
     "'3골3도움'서진수발끝에거는기대...대전하나시티즌,제주원정서후...",
     "SK하이닉스,美나스닥입성…40조원조달AI투자가속",
     "코스피7475.94·코스닥837.43급등마감…양시장매수사이드카발동",
@@ -3346,10 +3344,12 @@
     "[TechInsight]AI호황에도메모리주가흔들...반도체주식의역설",
     "같은SK하이닉스주식인데…미국에서더비싼이유는?",
     "[ParkSu-jin'sMoneyWatch]KOSPIclosesabovethe7400level;semicon",
-    "Muan'sU-turnclearspathforGwangju'ssemiconductormega-cluster"
+    "Muan'sU-turnclearspathforGwangju'ssemiconductormega-cluster",
+    "월가홀린SK하이닉스…WSJ\"韓메모리반도체,美증시흔들다\"",
+    "최태원\"AI수요,공급압도…미국에반도체생산시설추가투자검토..."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T15:05:20.999267+09:00"
+   "last_run": "2026-07-11T15:10:46.861334+09:00"
   }
  },
  "press_names": {
