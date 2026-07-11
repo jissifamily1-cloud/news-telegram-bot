@@ -534,11 +534,13 @@
     [
      "2026-07-11T12:45:27.665791+09:00",
      "폭락 끝물이다 반도체 공포 설마했는데 빨리 이젠 팔아라"
+    ],
+    [
+     "2026-07-11T13:00:57.688451+09:00",
+     "중국 창신메모리 삼성전자 장전 SK하이닉스 6조5천억 긴장 실탄"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/AKR20260710155353t5k",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=141379",
     "https://www.munhwa.com/article/11601846",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04270566645513208",
     "https://www.hankyung.com/article/2026071081956",
@@ -2036,11 +2038,11 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=849709",
     "https://www.ytn.co.kr/_ln/0102_202607111245345516",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=83207",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=355818"
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=355818",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=355819",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000049205"
    ],
    "seen_titles": [
-    "지역내첫정비사업단지…‘상징성·랜드마크’로실수요자관심모아",
-    "[마감시황]코스피·코스닥동반상승마감…\"저가매수세유입\"",
     "[1%초고수의선택]코스피반등장'에코프로'사고'두산'차익실현",
     "KOTRAHostsKorea-MongoliaBusinessForum",
     "10일코스피지수,전일대비2.52%오른7457.94",
@@ -3538,10 +3540,12 @@
     "프로야구울산,SSG서방출된베테랑하재훈영입",
     "SK최태원\"미국에메모리생산공장도가능\"",
     "SK하이닉스,美나스닥에ADR상장…글로벌자본시장입성",
-    "[하이닉스나스닥상장]최태원\"AI분야수백억달러투자…HBM수요기하..."
+    "[하이닉스나스닥상장]최태원\"AI분야수백억달러투자…HBM수요기하...",
+    "[하이닉스나스닥상장]SK하이닉스,나스닥첫날168달러로급등마감…...",
+    "삼성전자·SK하이닉스긴장…중국창신메모리,6조5천억'실탄'장전"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T12:55:22.048674+09:00"
+   "last_run": "2026-07-11T13:00:57.688451+09:00"
   }
  },
  "press_names": {
