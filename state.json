@@ -226,10 +226,13 @@
     [
      "2026-07-12T06:35:19.762351+09:00",
      "개미 증권거래세 계좌 만에 작년 2배 순삭인데 걷어 상반기"
+    ],
+    [
+     "2026-07-12T06:45:25.509575+09:00",
+     "13일 미국선 갈까 250만원 이미 252만원 하이닉스"
     ]
    ],
    "seen_urls": [
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=51392",
     "https://www.newspim.com/news/view/20260710001285",
     "http://www.kjdaily.com/article.php?aid=1783669561682119011",
     "https://www.mt.co.kr/stock/2026/07/10/2026071016393295860",
@@ -1728,10 +1731,10 @@
     "https://www.mt.co.kr/estate/2026/07/12/2026071017023844289",
     "https://biz.heraldcorp.com/article/10805260",
     "https://www.goodkyung.com/news/articleView.html?idxno=289140",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092165597"
+    "https://it.chosun.com/news/articleView.html?idxno=2023092165597",
+    "https://www.segye.com/newsView/20260712502830?OutUrl=naver"
    ],
    "seen_titles": [
-    "7475선에마감한코스피",
     "삼성SDI,‘차세대AI배전망사업’주도권확보",
     "[10일특징주]반도체흔들리자방어주'활짝'…은행株'강세'",
     "코스피2.5%상승해7,400대…삼전2%대↑·하이닉스약보합",
@@ -3230,10 +3233,11 @@
     "[분양캘린더]7월2주차전국청약3곳…753가구공급",
     "“사실의아하다”호남반도체‘한지붕두회사’…치밀한공간배치...",
     "HBM·미국IPO쌍끌이…SK하이닉스역대급독주시작",
-    "개미계좌순삭인데…증권거래세,상반기만에작년2배걷어"
+    "개미계좌순삭인데…증권거래세,상반기만에작년2배걷어",
+    "“미국선이미252만원”…하이닉스,13일250만원갈까"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T06:40:48.203947+09:00"
+   "last_run": "2026-07-12T06:45:25.509575+09:00"
   }
  },
  "press_names": {
