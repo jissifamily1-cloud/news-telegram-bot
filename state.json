@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T05:50:48.302216+09:00",
-     "상승 미국증시 엔비디아 훈풍 3대지수"
-    ],
-    [
      "2026-07-11T05:55:21.332895+09:00",
      "데뷔 SK하이닉스 기대에 최고치 급등 P500 실적시즌 눈앞"
     ],
@@ -582,14 +578,17 @@
     [
      "2026-07-11T11:50:45.995422+09:00",
      "기대 반도체 건설 부지사 생산까지 물론 전남도 강위원"
+    ],
+    [
+     "2026-07-11T11:55:19.789022+09:00",
+     "동선 체험 따라 푸드 팬덤"
+    ],
+    [
+     "2026-07-11T11:55:19.789022+09:00",
+     "주청사는 삽부터 엇박자 어디 전남광주통합특별시"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260710009100320?input=2106m",
-    "https://www.newspim.com/news/view/20260710001236",
-    "http://www.newswell.co.kr/news/articleView.html?idxno=20212",
-    "https://www.dt.co.kr/article/12072244",
-    "https://www.newsis.com/view/NISX20260710_0003704606",
     "https://www.sisaon.co.kr/news/articleView.html?idxno=202594",
     "https://en.yna.co.kr/view/AEN20260710009500320?input=2106m",
     "https://www.mediapen.com/news/view/1109447",
@@ -2084,14 +2083,14 @@
     "http://www.efnews.co.kr/news/articleView.html?idxno=130906",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=849705",
     "http://www.fnnews.com/news/202607111113308260",
-    "https://www.news1.kr/local/gwangju-jeonnam/6224919"
+    "https://www.news1.kr/local/gwangju-jeonnam/6224919",
+    "https://www.imaeil.com/page/view/2026071111514242848",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608234",
+    "https://biz.sbs.co.kr/article_hub/20000321900?division=NAVER",
+    "http://www.bokuennews.com/news/article.html?no=281155",
+    "https://ilyo.co.kr/?ac=article_view&entry_id=511832"
    ],
    "seen_titles": [
-    "마이크론375조美베팅…대미투자압박커지는삼성·SK",
-    "[NewsToday]SKhynixsetsrecord-breakingUSADRprice",
-    "“이대로면상폐야”…반도체쏠림에중기들증시퇴출위기[중기+]",
-    "통신3사,갤럭시폴더블폰마케팅조기가동…가입자유치전점화",
-    "미국상무장관,마이크론행사서\"삼전닉스미국생산확대\"촉구(종합2보...",
     "광명하안주공5단지,2차시공사입찰도무응찰",
     "삼성SDI,정부AI배전망ESS입찰'최다'…선정물량66%차지",
     "SK하이닉스,오늘(10일)나스닥상장…월가서ADR레버리지출시",
@@ -3586,10 +3585,15 @@
     "SK하이닉스,美나스닥ADR상장…거래개시로글로벌투자자공략본격...",
     "中CXMT,6.5조IPO시동…삼전닉스추격",
     "최태원\"입지조건맞으면美반도체추가투자가능\"...韓·해외동시다...",
-    "강위원전전남도부지사\"반도체팹건설물론생산까지기대\""
+    "강위원전전남도부지사\"반도체팹건설물론생산까지기대\"",
+    "韓청년주식집착,이유있었다…\"월급·대출론평생집못사\"",
+    "‘미상장’첫날,최태원에‘서울-뉴욕주가차이’물었더니[지금뉴...",
+    "'세계D램4위'中CXMT6.5조장전…범용D램서삼성·SK추격",
+    "K-팝팬덤동선따라K-푸드체험",
+    "‘주청사는어디?’전남광주통합특별시첫삽부터엇박자"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T11:50:45.995422+09:00"
+   "last_run": "2026-07-11T11:55:19.789022+09:00"
   }
  },
  "press_names": {
