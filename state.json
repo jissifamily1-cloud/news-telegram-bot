@@ -354,13 +354,13 @@
     [
      "2026-07-12T08:20:48.594301+09:00",
      "승부수 공장까지 최태원 실탄 들고 40조 검토 없다 피크아웃"
+    ],
+    [
+     "2026-07-12T08:31:00.105347+09:00",
+     "SK인텔릭스 DDP 디자인 손잡고 환경 서울디자인재단과 스마트 조성"
     ]
    ],
    "seen_urls": [
-    "https://economist.co.kr/article/view/ecn202607100041",
-    "https://www.etnews.com/20260710000267",
-    "https://magazine.hankyung.com/money/article/202607108466c",
-    "https://www.ziksir.com/news/articleView.html?idxno=139757",
     "http://www.lkp.news/news/articleView.html?idxno=81787",
     "https://www.livebiz.today/news/articleView.html?idxno=203257",
     "https://www.mk.co.kr/article/12095558",
@@ -1856,13 +1856,13 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1715999",
     "https://www.thepublic.kr/news/articleView.html?idxno=310965",
     "https://www.tokenpost.kr/news/market/376857",
-    "https://www.thepublic.kr/news/articleView.html?idxno=310961"
+    "https://www.thepublic.kr/news/articleView.html?idxno=310961",
+    "https://www.thepublic.kr/news/articleView.html?idxno=310898",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1715998",
+    "https://www.thepublic.kr/news/articleView.html?idxno=310945",
+    "https://www.thepublic.kr/news/articleView.html?idxno=310890"
    ],
    "seen_titles": [
-    "블룸버그\"중국CXMT삼성SK맞설HBM생태계구축\",미국제재피해공...",
-    "SK증권,타사주식이전고객에최대101만원현금지급",
-    "美상무장관,삼성·SK생산확대촉구…“美공장지어라”",
-    "美서도SK하이닉스산다…나스닥ADR에40조원'실탄'장전(종합)",
     "하이닉스주관사들,스페이스X보다높은수수료율로‘쏠쏠’",
     "\"대학보다삼성·하이닉스\"…전국서몰린충북반도체고설명회",
     "[데일리픽]비트코인장기가치는어디서나올까…오픈AI'GPT-5.6'정식출...",
@@ -3358,10 +3358,14 @@
     "﻿\"피크아웃없다\"최태원승부수…40조실탄들고美공장까지검토",
     "반도체냉각재헬륨수출막은중국…'헬륨쇼크'가격·물량불안커진...",
     "SK하이닉스미국상장,'역김치프리미엄'에시선집중",
-    "나스닥서40조쥔SK하이닉스…HBM넘어'AI인프라기업'노린다"
+    "나스닥서40조쥔SK하이닉스…HBM넘어'AI인프라기업'노린다",
+    "하나은행-기보,반도체소부장기업에1000억규모금융지원",
+    "[주간증시전망]물가·실적·금통위'3대변수'…SK하이닉스ADR흥행효...",
+    "[집중분석]외국인투매와환율쇼크…'반도체ADR'이돌파구될까?",
+    "SK인텔릭스,서울디자인재단과손잡고'DDP스마트디자인환경조성'나..."
    ],
    "initialized": true,
-   "last_run": "2026-07-12T08:25:22.147557+09:00"
+   "last_run": "2026-07-12T08:31:00.105347+09:00"
   }
  },
  "press_names": {
