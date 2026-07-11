@@ -438,12 +438,17 @@
     [
      "2026-07-12T08:34:09.070284+09:00",
      "하나은행"
+    ],
+    [
+     "2026-07-12T08:40:51.399113+09:00",
+     "CEO들 자산시장에 AI는 새로운 목소리로"
+    ],
+    [
+     "2026-07-12T08:40:51.399113+09:00",
+     "하나은행 인사"
     ]
    ],
    "seen_urls": [
-    "https://www.cnbizm.com/news/articleView.html?idxno=308324",
-    "https://www.viva100.com/article/20260710500788",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000049133",
     "https://www.news1.kr/photos/8002737",
     "https://www.ytn.co.kr/_ln/0102_202607101716292758",
     "https://www.kukinews.com/article/view/kuk202607100098",
@@ -1940,12 +1945,12 @@
     "http://www.srtimes.kr/news/articleView.html?idxno=207302",
     "https://www.ngetnews.com/news/articleView.html?idxno=551476",
     "https://www.getnews.co.kr/news/articleView.html?idxno=874805",
-    "https://www.tokenpost.kr/news/market/376859"
+    "https://www.tokenpost.kr/news/market/376859",
+    "https://www.betanews.net/article/view/beta202607120007",
+    "http://www.metroseoul.co.kr/article/20260712500016",
+    "https://www.bigtanews.co.kr/article/view/big202607100019"
    ],
    "seen_titles": [
-    "러트닉\"삼전·닉스美로데려오고싶다\"...본토투자압박",
-    "삼성SDI,정부'AI배전망ESS'입찰서'압승'...전체의66%확보",
-    "뉴욕랜드마크에뜬태극기…SK하이닉스나스닥입성축하",
     "LG엔솔'첫ESSVPP사업자'선정,삼성SDI배터리'최다낙찰'",
     "삼성SDI,정부'차세대AI배전망ESS'66%수주",
     "미상무장관\"삼성전자·SK하이닉스,미국에공장지었으면\"",
@@ -3442,10 +3447,13 @@
     "개미들'성지순례'터졌다…코스피폭락정확히맞힌보고서,이번엔\"지...",
     "[인사]하나은행",
     "[인사]전병탁하나은행영도지점장외",
-    "코스피변동성속인버스·레버리지ETF매수열풍"
+    "코스피변동성속인버스·레버리지ETF매수열풍",
+    "하나은행,지점장등정기인사단행",
+    "[100세플러스포럼시즌2]CEO들한목소리로\"AI는자산시장에새로운...",
+    "<인사>하나은행"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T08:35:22.962271+09:00"
+   "last_run": "2026-07-12T08:40:51.399113+09:00"
   }
  },
  "press_names": {
