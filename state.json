@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T12:45:27.665791+09:00",
-     "폭락 끝물이다 반도체 공포 설마했는데 빨리 이젠 팔아라"
-    ],
-    [
      "2026-07-11T13:00:57.688451+09:00",
      "중국 창신메모리 삼성전자 장전 SK하이닉스 6조5천억 긴장 실탄"
     ],
@@ -258,10 +254,13 @@
     [
      "2026-07-11T18:35:23.238662+09:00",
      "회복세 완연 해킹충격서 영업이익 2분기 전망 급증 작년 SKT"
+    ],
+    [
+     "2026-07-11T18:50:26.870614+09:00",
+     "저랑 신분증 다른 안면인증 15년 모바일 개통 사람이래요"
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/economy/finance/2026/07/10/20260710500203?wlog_tag3=naver",
     "https://www.sedaily.com/article/20066332",
     "https://www.dailian.co.kr/news/view/1665866/?sc=Naver",
     "https://www.news1.kr/finance/general-stock/6224507",
@@ -1760,10 +1759,10 @@
     "https://www.xportsnews.com/article/2170974",
     "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539191",
     "https://www.mk.co.kr/article/12096135",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=5032"
+    "https://www.moneystorm.kr/news/articleView.html?idxno=5032",
+    "https://biz.heraldcorp.com/article/10805517"
    ],
    "seen_titles": [
-    "메타·xAI'4분의1가격'모델출시···AI가격전쟁개막",
     "DDP에스며드는첨단기술…SK인텔릭스,AI로봇기반'스마트공간'조...",
     "토스·신한이어KB·하나까지…선제적정보보호투자공개로투자자신...",
     "1700억저축은행중앙회차세대사업,SKAX우선협상대상자선정",
@@ -3262,10 +3261,11 @@
     "'보야니치캡틴'울산,야고-이동경출격…전북은김진규-강상윤-조위제...",
     "SK하이닉스,역사적나스닥상장…공모가대비13%급등",
     "“미국증시에화려하게데뷔했다”…SK하이닉스집중조명한외신들",
-    "SKT,작년해킹충격서회복세완연...2분기영업이익급증전망"
+    "SKT,작년해킹충격서회복세완연...2분기영업이익급증전망",
+    "‘15년된신분증,저랑다른사람이래요’안면인증폰개통‘모바일..."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T18:45:25.026718+09:00"
+   "last_run": "2026-07-11T18:50:26.870614+09:00"
   }
  },
  "press_names": {
