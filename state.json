@@ -325,7 +325,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0102_202607101659273797",
     "https://www.etoday.co.kr/news/view/2602432",
     "https://www.ddaily.co.kr/page/view/2026071016244265271",
     "https://www.asiaa.co.kr/news/articleView.html?idxno=254696",
@@ -1824,10 +1823,10 @@
     "https://www.lecturernews.com/news/articleView.html?idxno=206105",
     "https://www.news1.kr/industry/general-industry/6224621",
     "https://www.g-enews.com/view.php?ud=202607120706409394fbbec65dfb_1",
-    "https://magazine.hankyung.com/business/article/202607107563b"
+    "https://magazine.hankyung.com/business/article/202607107563b",
+    "https://www.thedailypost.kr/news/articleView.html?idxno=114635"
    ],
    "seen_titles": [
-    "SK증권,'내계좌속S·K를찾아라'이벤트실시",
     "코스피,2.5%상승해7,400대…삼전2%대상승,하이닉스약보합",
     "\"SK하이닉스美증시입성환영\"…뉴욕한복판에'초대형태극기'",
     "\"외국인미국에따라가나?\"···SK하이닉스美ADR상장에개미들촉각",
@@ -3326,10 +3325,11 @@
     "[코스피·코스닥지수]SK하이닉스훈풍에반도체주반등기대…코스피,...",
     "SK최태원,대담서글로벌투자자에AI반도체청사진공개",
     "AI서버수요폭발에대만반도체수출사상최대…일본은‘안보기술...",
-    "엔비디아시총'뚝'…AI주도권이동본격화"
+    "엔비디아시총'뚝'…AI주도권이동본격화",
+    "SK하이닉스,美나스닥입성…글로벌컴퍼니영향력높일이정표수립"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T07:40:48.362888+09:00"
+   "last_run": "2026-07-12T07:45:26.281813+09:00"
   }
  },
  "press_names": {
