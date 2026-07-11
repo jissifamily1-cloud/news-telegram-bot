@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T12:15:25.049052+09:00",
-     "주요뉴스 시각 12시"
-    ],
-    [
      "2026-07-11T12:25:19.873101+09:00",
      "현장 에너지전환 제주도 제주에너지공사 제주 2026년 탐방 아카데미"
     ],
@@ -266,10 +262,13 @@
     [
      "2026-07-11T18:01:00.627827+09:00",
      "현실이 최태원의 시대의 중심에 SK하이닉스 됐다 월가에서"
+    ],
+    [
+     "2026-07-11T18:15:26.693318+09:00",
+     "경쟁 공방 안규백 명심 김민석 병적기록"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008651485&plink=ORI&cooper=NAVER",
     "https://www.etnews.com/20260710000254",
     "https://www.yna.co.kr/view/AKR20260710118651008?input=1195m",
     "https://economist.co.kr/article/view/ecn202607100034",
@@ -1768,10 +1767,10 @@
     "https://www.newsis.com/view/NISX20260711_0003705345",
     "https://www.greened.kr/news/articleView.html?idxno=344823",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=264477",
-    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539204"
+    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539204",
+    "https://www.dailian.co.kr/news/view/1666071/?sc=Naver"
    ],
    "seen_titles": [
-    "靑,‘삼전·닉스레버리지ETF’변동성점검…“필요시제도보완”",
     "코스피2.52%올라7475선…코스피·코스닥나란히매수사이드카",
     "SK하이닉스,美ADR공모가149달러확정…40조원조달'역대급'",
     "[단독]폴헤이스팅스,SK하이닉스265억달러나스닥상장주관사자문",
@@ -3270,10 +3269,11 @@
     "최태원,SK하이닉스美상장최고의날'SKHY'띄어쓰기티커띄운까닭",
     "\"SK하이닉스,마이크론제쳤다\"…외신\"화려한美데뷔\"극찬",
     "최태원\"AI분야수백억달러투자…HBM등메모리칩공급부족당분간...",
-    "최태원“입지·조건맞다면미국반도체추가투자가능”[현장영상]"
+    "최태원“입지·조건맞다면미국반도체추가투자가능”[현장영상]",
+    "[데일리안오늘뉴스종합]\"김민석'명심경쟁',안규백병적기록공방..."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T18:10:47.898215+09:00"
+   "last_run": "2026-07-11T18:15:26.693318+09:00"
   }
  },
  "press_names": {
