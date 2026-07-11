@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T14:15:24.774220+09:00",
-     "월가도 메모리 데뷔에 SK하이닉스 들썩 대장주 왔다"
-    ],
-    [
-     "2026-07-11T14:15:24.774220+09:00",
-     "성장 너머 취업 경로 창업 넓힌다 자립까지"
-    ],
-    [
      "2026-07-11T14:40:47.781658+09:00",
      "나스닥 SK하이닉스 초대장에 동봉된 청구서"
     ],
@@ -234,10 +226,13 @@
     [
      "2026-07-11T20:10:55.242592+09:00",
      "회장 최태원 활짝 공모가 훌쩍 웃은 거래 첫날부터"
+    ],
+    [
+     "2026-07-11T20:15:25.037783+09:00",
+     "견인할까 핵심은 하이닉스 주가도 ADR 뒷받침 실적 상장이"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=442090",
     "http://www.inews24.com/view/1984513",
     "https://www.incheontoday.com/news/articleView.html?idxno=321100",
     "https://www.ajunews.com/view/20260710155816533",
@@ -1736,10 +1731,10 @@
     "https://news.cpbc.co.kr/article/1174279?division=NAVER",
     "https://imnews.imbc.com/replay/2026/nwdesk/article/6836732_37004.html",
     "https://basketkorea.com/news/newsview.php?ncode=1065611176970458",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652971&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652971&plink=ORI&cooper=NAVER",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6836733_37004.html"
    ],
    "seen_titles": [
-    "다음주동작센트럴동문디이스트등753가구분양",
     "코스피,'반도체투자심리개선'에2.52%상승...7400선회복",
     "기관매수·반도체훈풍에코스피7400선회복…장중매수사이드카",
     "금융위,중기특화증권사7곳지정...모험자본공급확대",
@@ -3238,10 +3233,11 @@
     "[사제의눈]인공지능키운다고개인정보넘기는우리",
     "SK하이닉스,미국서첫날급등‥'화려한데뷔'",
     "10전10패끝첫승,‘이주민여성농구단’글로벌마더스의성장드라...",
-    "거래첫날부터공모가'훌쩍'…활짝웃은최태원회장"
+    "거래첫날부터공모가'훌쩍'…활짝웃은최태원회장",
+    "ADR상장이하이닉스주가도견인할까‥\"핵심은실적뒷받침\""
    ],
    "initialized": true,
-   "last_run": "2026-07-11T20:10:55.242592+09:00"
+   "last_run": "2026-07-11T20:15:25.037783+09:00"
   }
  },
  "press_names": {
