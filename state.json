@@ -134,10 +134,13 @@
     [
      "2026-07-11T22:40:49.064840+09:00",
      "헤드라인 7월11일 모닝뉴스"
+    ],
+    [
+     "2026-07-11T23:15:25.467211+09:00",
+     "반가운 시선 김재희"
     ]
    ],
    "seen_urls": [
-    "https://www.obsnews.co.kr/news/articleView.html?idxno=1530252",
     "https://www.datasom.co.kr/news/articleView.html?idxno=209172",
     "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87004",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=849639",
@@ -1636,10 +1639,10 @@
     "https://www.mediatoday.co.kr/news/articleView.html?idxno=335707",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608379",
     "https://www.radiokorea.com/news/article.php?uid=499144",
-    "https://www.sportsworldi.com/newsView/20260711512259"
+    "https://www.sportsworldi.com/newsView/20260711512259",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=04073766645513536"
    ],
    "seen_titles": [
-    "\"한화오션,10일원·달러선물환시장서20억달러매도\"",
     "“하이닉스미증시상장후,레버리지ETF도쏟아질듯”",
     "엑사이더,스텝퍼신제품'펌핑스텝'선봬…오는15일SK스토아홈쇼핑...",
     "\"SK텔레콤,실적·배당다잡았다…'2조원클럽'진입청신호\"",
@@ -3138,10 +3141,11 @@
     "경향신문\"2030외면받는'꼰대민주당',환골탈태절실하다\"",
     "AI데이터센터숙제는‘인재’",
     "7월11일모닝뉴스헤드라인",
-    "[잠실현장]“오늘이최고의생일”…한화허인서,첫올스타전서증명..."
+    "[잠실현장]“오늘이최고의생일”…한화허인서,첫올스타전서증명...",
+    "[포토]김재희,첫홀반가운시선"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T23:10:49.935257+09:00"
+   "last_run": "2026-07-11T23:15:25.467211+09:00"
   }
  },
  "press_names": {
