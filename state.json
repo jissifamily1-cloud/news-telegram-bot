@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T09:30:52.714769+09:00",
-     "day trading on jumps Street hynix Wall of 1st"
-    ],
-    [
      "2026-07-11T09:35:22.022417+09:00",
      "Industry Chey Tae Has Reshaped Says Semiconductor won Fundamentally"
     ],
@@ -325,7 +321,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/10/20260710500192?wlog_tag3=naver",
     "https://en.yna.co.kr/view/AEN20260710008551320?input=2106m",
     "https://news.jtbc.co.kr/article/NB12307639?influxDiv=NAVER",
     "https://www.sedaily.com/article/20066328",
@@ -1824,10 +1819,10 @@
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553368456",
     "http://www.yonhapnewstv.co.kr/news/MYH20260711151853Aa6",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467565",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608267"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608267",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607110259&t=NN"
    ],
    "seen_titles": [
-    "기후부,국내최초배전망ESS사업본격착수…호남재생에너지계통...",
     "코스피7400선회복기관매수에2.5%급등",
     "코스피2.52%상승마감...장중5%대급등하기도",
     "코스피,기관매수에7470선반등...코스닥은5%대급등",
@@ -3326,10 +3321,11 @@
     "'와이럴수가있나'ML꿈좌절→日독립리그→KBO구원왕→방출...파란...",
     "\"SK하이닉스,화려한미국데뷔\"…외신도주목",
     "팬오션,벌크·탱커동반호조…저평가매력부각",
-    "외신“SK하이닉스,화려한데뷔”…월가‘낙관론’에투자심리살아..."
+    "외신“SK하이닉스,화려한데뷔”…월가‘낙관론’에투자심리살아...",
+    "상장첫날13%급등…\"역사적데뷔\"외신도주목"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T15:27:34.725437+09:00"
+   "last_run": "2026-07-11T15:30:55.393236+09:00"
   }
  },
  "press_names": {
