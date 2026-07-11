@@ -378,16 +378,17 @@
     [
      "2026-07-11T14:40:47.781658+09:00",
      "상장 주목한 ADR 이유 SK하이닉스 닛케이가 40조"
+    ],
+    [
+     "2026-07-11T14:50:45.636914+09:00",
+     "올D 현주 구리시는 화성시 31개 군의 경기도 올A"
+    ],
+    [
+     "2026-07-11T14:50:45.636914+09:00",
+     "컨설턴트 청와대는 경제학자 아무도 삼전닉스만 지금 안다 모른다"
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0104_202607101558311394",
-    "https://economist.co.kr/article/view/ecn202607100026",
-    "https://www.newsway.co.kr/news/view?ud=2026071015425208757",
-    "https://biz.heraldcorp.com/article/10805185",
-    "https://zdnet.co.kr/view/?no=20260710151607",
-    "https://www.interfootball.co.kr/news/articleView.html?idxno=690265",
-    "https://www.dizzotv.com/site/data/html_dir/2026/07/10/2026071080131.html",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=265953",
     "https://www.smartbizn.com/news/articleView.html?idxno=148287",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=83197",
@@ -1880,16 +1881,16 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652787&plink=ORI&cooper=NAVER",
     "https://magazine.hankyung.com/business/article/202607094695b",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02089366645513536",
-    "http://www.segyebiz.com/newsView/20260711508210?OutUrl=naver"
+    "http://www.segyebiz.com/newsView/20260711508210?OutUrl=naver",
+    "https://www.newscj.com/news/articleView.html?idxno=3416251",
+    "https://zdnet.co.kr/view/?no=20260711143318",
+    "https://www.newsway.co.kr/news/view?ud=2026071114401933396",
+    "https://biz.chosun.com/international/international_economy/2026/07/11/ZEL6RJLIKBA2PM3OCUUZU23VNQ/",
+    "https://www.hankyung.com/article/2026071192457",
+    "https://www.news2day.co.kr/article/20260711500003",
+    "https://www.hankyung.com/article/202607108677i"
    ],
    "seen_titles": [
-    "블룸버그“월가,SK하이닉스ADR레버리지상품준비…다음주최소6개...",
-    "삼성SDI,AI배전망ESS사업셀공급66%최다",
-    "코스피·코스닥,'매수사이드카'발동…기관매수세에일제히급등마...",
-    "코스피,7,400대마감…코스닥5.4%급등",
-    "\"더간다\"vs\"꺾인다\"…SK하닉증권사목표가'185만~430만원'벌어진....",
-    "막판힘딸린코스피…장중매수사이드카,2%상승마감[마켓시그널]",
-    "삼성SDI,AI배전망ESS수주전‘두각’…물량66%확보",
     "삼성SDI,정부첫AI배전망ESS사업66%'싹쓸이'…LG엔솔은운영사업...",
     "뉴욕JP모건본사에초대형태극기등장…SK하이닉스나스닥입성축하",
     "코스피,2%오른7400선…코스닥은5%넘게뛰어",
@@ -3382,10 +3383,17 @@
     "[자막뉴스]SK하이닉스나스닥데뷔성적'대박'…미국내메모리공장...",
     "SK하이닉스나스닥초대장에동봉된청구서",
     "SK하이닉스'40조'美ADR상장이유…닛케이가주목한이유셋",
-    "블룸버그등외신“SK하이닉스,역사적美데뷔…외투,韓서부의상징..."
+    "블룸버그등외신“SK하이닉스,역사적美데뷔…외투,韓서부의상징...",
+    "SK하이닉스나스닥성공적입성…외신들주목",
+    "SK하이닉스,나스닥상장첫날마이크론시총추월",
+    "최태원\"반도체,옛날식사이클끝\"…액면분할도검토가능",
+    "“화려한美데뷔”…SK하이닉스상장에주목하는외신",
+    "공모가대비13%급등…외신이본SK하이닉스의'화려한데뷔'",
+    "[로컬인사이드]화성시올A,구리시는올D...경기도31개시·군의현주...",
+    "\"경제학자?컨설턴트?아무도모른다…삼전닉스만안다\"[청와대는지금..."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T14:45:25.729995+09:00"
+   "last_run": "2026-07-11T14:50:45.636914+09:00"
   }
  },
  "press_names": {
