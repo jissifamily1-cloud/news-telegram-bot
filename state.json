@@ -449,10 +449,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/photos/8002737",
-    "https://www.ytn.co.kr/_ln/0102_202607101716292758",
-    "https://www.kukinews.com/article/view/kuk202607100098",
-    "http://www.finomy.com/news/articleView.html?idxno=257196",
     "http://www.fnnews.com/news/202607101626436513",
     "https://bizhankook.com/articles/139265.html",
     "https://www.interfootball.co.kr/news/articleView.html?idxno=690269",
@@ -1948,13 +1944,13 @@
     "https://www.tokenpost.kr/news/market/376859",
     "https://www.betanews.net/article/view/beta202607120007",
     "http://www.metroseoul.co.kr/article/20260712500016",
-    "https://www.bigtanews.co.kr/article/view/big202607100019"
+    "https://www.bigtanews.co.kr/article/view/big202607100019",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424511",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683441",
+    "https://www.wikitree.co.kr/articles/1145980",
+    "https://www.ytn.co.kr/_ln/0103_202607120837230613"
    ],
    "seen_titles": [
-    "LG엔솔'첫ESSVPP사업자'선정,삼성SDI배터리'최다낙찰'",
-    "삼성SDI,정부'차세대AI배전망ESS'66%수주",
-    "미상무장관\"삼성전자·SK하이닉스,미국에공장지었으면\"",
-    "삼성SDI,AI활용배전망ESS66%수주···LG엔솔,최대물량확보",
     "반도체투자계획에첨단3지구관심…분양시장도주목",
     "미국상무장관,\"한국반도체기업,미국내생산확대\"촉구...삼성닉스...",
     "‘HKA1정상’홍콩이스턴,2026-27EASL참가확정",
@@ -3450,10 +3446,14 @@
     "코스피변동성속인버스·레버리지ETF매수열풍",
     "하나은행,지점장등정기인사단행",
     "[100세플러스포럼시즌2]CEO들한목소리로\"AI는자산시장에새로운...",
-    "<인사>하나은행"
+    "<인사>하나은행",
+    "외국인ETF매수1위는'인버스'…\"단일레버리지헷지용수급\"분석도",
+    "[증시전망]코스피반등나서나...CPI·반도체실적시험대",
+    "SK하이닉스나스닥상장이한국경제전체에미치는'뜻밖효과'",
+    "'장윤기사건'놓고'보완수사권'공방...'김용범표정책'공격"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T08:45:27.409277+09:00"
+   "last_run": "2026-07-12T08:50:52.343160+09:00"
   }
  },
  "press_names": {
