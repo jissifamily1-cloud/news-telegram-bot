@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T05:55:21.332895+09:00",
-     "데뷔 SK하이닉스 기대에 최고치 급등 P500 실적시즌 눈앞"
-    ],
-    [
      "2026-07-11T06:05:22.300161+09:00",
      "오히려 삼전 빚투 닉스 쓸어담는 널뛰는 동학개미 증시에"
     ],
@@ -586,12 +582,17 @@
     [
      "2026-07-11T11:55:19.789022+09:00",
      "주청사는 삽부터 엇박자 어디 전남광주통합특별시"
+    ],
+    [
+     "2026-07-11T12:00:57.605578+09:00",
+     "태극기 SK하이닉스 왕좌 성큼 나스닥에 반도체"
+    ],
+    [
+     "2026-07-11T12:00:57.605578+09:00",
+     "아냐 닥치고 수도권 주택 맞는 공급 방향"
     ]
    ],
    "seen_urls": [
-    "https://www.sisaon.co.kr/news/articleView.html?idxno=202594",
-    "https://en.yna.co.kr/view/AEN20260710009500320?input=2106m",
-    "https://www.mediapen.com/news/view/1109447",
     "https://www.ddaily.co.kr/page/view/2026071015440190075",
     "http://www.fnnews.com/news/202607101525175765",
     "https://www.mediapen.com/news/view/1109470",
@@ -2088,12 +2089,12 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608234",
     "https://biz.sbs.co.kr/article_hub/20000321900?division=NAVER",
     "http://www.bokuennews.com/news/article.html?no=281155",
-    "https://ilyo.co.kr/?ac=article_view&entry_id=511832"
+    "https://ilyo.co.kr/?ac=article_view&entry_id=511832",
+    "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62026",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=361959",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250497&CMPT_CD=P0010"
    ],
    "seen_titles": [
-    "광명하안주공5단지,2차시공사입찰도무응찰",
-    "삼성SDI,정부AI배전망ESS입찰'최다'…선정물량66%차지",
-    "SK하이닉스,오늘(10일)나스닥상장…월가서ADR레버리지출시",
     "코스피,2%강세마감…양시장매수사이드카발동",
     "삼성SDI,정부'차세대AI배전망'입찰서우위점했다",
     "AI·첨단산업모험자본키운다…중기특화증권사7곳새지정",
@@ -3590,10 +3591,13 @@
     "‘미상장’첫날,최태원에‘서울-뉴욕주가차이’물었더니[지금뉴...",
     "'세계D램4위'中CXMT6.5조장전…범용D램서삼성·SK추격",
     "K-팝팬덤동선따라K-푸드체험",
-    "‘주청사는어디?’전남광주통합특별시첫삽부터엇박자"
+    "‘주청사는어디?’전남광주통합특별시첫삽부터엇박자",
+    "미국나스닥입성한SK하이닉스..자본시장심장부서‘글로벌컴퍼니’...",
+    "나스닥에뜬태극기,SK하이닉스'AI반도체왕좌'성큼",
+    "\"닥치고수도권주택공급?맞는방향아냐\""
    ],
    "initialized": true,
-   "last_run": "2026-07-11T11:55:19.789022+09:00"
+   "last_run": "2026-07-11T12:00:57.605578+09:00"
   }
  },
  "press_names": {
