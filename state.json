@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T09:35:22.022417+09:00",
-     "Industry Chey Tae Has Reshaped Says Semiconductor won Fundamentally"
-    ],
-    [
-     "2026-07-11T09:40:45.865495+09:00",
-     "5조 CXMT 세계 D램 삼성 실탄으로 추격 중국 4위"
-    ],
-    [
      "2026-07-11T09:45:27.039335+09:00",
      "9호 강타 항공편 오키나와 태풍 200편 이상 결항"
     ],
@@ -322,11 +314,13 @@
     [
      "2026-07-11T15:35:20.175010+09:00",
      "바로 익산은 사람 실용정치 뿌리 송영길 구현해"
+    ],
+    [
+     "2026-07-11T15:40:49.736652+09:00",
+     "진행 공항 협의 부지 광주 반도체 합의 필수인데 한미"
     ]
    ],
    "seen_urls": [
-    "https://news.jtbc.co.kr/article/NB12307639?influxDiv=NAVER",
-    "https://www.sedaily.com/article/20066328",
     "https://www.news1.kr/finance/market-exr/6224489",
     "http://www.srtimes.kr/news/articleView.html?idxno=207210",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594998742850",
@@ -1824,11 +1818,11 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467565",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608267",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607110259&t=NN",
-    "https://www.news1.kr/local/jeonbuk/6225012"
+    "https://www.news1.kr/local/jeonbuk/6225012",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260711153823WIC",
+    "https://www.newscj.com/news/articleView.html?idxno=3416256"
    ],
    "seen_titles": [
-    "코스피2.52%상승마감...장중5%대급등하기도",
-    "코스피,기관매수에7470선반등...코스닥은5%대급등",
     "코스피,반등해7400선마감…기관자금유입확대",
     "“SK하이닉스나스닥입성환영”……美뉴욕수놓은태극기",
     "코스피,2.52%↑…양시장매수사이드카",
@@ -3326,10 +3320,12 @@
     "팬오션,벌크·탱커동반호조…저평가매력부각",
     "외신“SK하이닉스,화려한데뷔”…월가‘낙관론’에투자심리살아...",
     "상장첫날13%급등…\"역사적데뷔\"외신도주목",
-    "송영길\"익산은내뿌리…李실용정치구현해온사람바로나\"(종합)"
+    "송영길\"익산은내뿌리…李실용정치구현해온사람바로나\"(종합)",
+    "[뉴스초점]SK하이닉스나스닥성공데뷔…다음주증시전망은",
+    "광주군공항'반도체부지'전환,한미합의필수인데…靑\"협의진행..."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T15:35:20.175010+09:00"
+   "last_run": "2026-07-11T15:40:49.736652+09:00"
   }
  },
  "press_names": {
