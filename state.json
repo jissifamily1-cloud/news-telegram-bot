@@ -178,10 +178,13 @@
     [
      "2026-07-11T22:15:26.449334+09:00",
      "숙제는 데이터센터 인재"
+    ],
+    [
+     "2026-07-11T22:40:49.064840+09:00",
+     "헤드라인 7월11일 모닝뉴스"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=442089",
     "https://www.smartbizn.com/news/articleView.html?idxno=148296",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1530252",
     "https://www.datasom.co.kr/news/articleView.html?idxno=209172",
@@ -1680,10 +1683,10 @@
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447841",
     "http://www.yonhapnewstv.co.kr/news/MYH20260710203751twx",
     "https://www.mediatoday.co.kr/news/articleView.html?idxno=335707",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608379"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608379",
+    "https://www.radiokorea.com/news/article.php?uid=499144"
    ],
    "seen_titles": [
-    "KPCA·전남대·인천대,반도체패키징인재양성협력",
     "[심층]정치논리가낳은스페인유령공항12곳'신음'···한국따라가...",
     "\"한화오션,10일원·달러선물환시장서20억달러매도\"",
     "“하이닉스미증시상장후,레버리지ETF도쏟아질듯”",
@@ -3182,10 +3185,11 @@
     "[증시동향]출렁이는변동성···사이드카속출에서킷브레이커까지",
     "[탐사보도뉴스프리즘]일상이된'고환율시대'…여행부터수출까지대...",
     "경향신문\"2030외면받는'꼰대민주당',환골탈태절실하다\"",
-    "AI데이터센터숙제는‘인재’"
+    "AI데이터센터숙제는‘인재’",
+    "7월11일모닝뉴스헤드라인"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T22:35:20.869765+09:00"
+   "last_run": "2026-07-11T22:40:49.064840+09:00"
   }
  },
  "press_names": {
