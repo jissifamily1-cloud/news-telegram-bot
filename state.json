@@ -565,7 +565,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.bizwnews.com/news/articleView.html?idxno=140392",
     "http://www.dailypop.kr/news/articleView.html?idxno=100508",
     "https://www.hankyung.com/article/2026071081057",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=265944",
@@ -2064,10 +2063,10 @@
     "https://it.chosun.com/news/articleView.html?idxno=2023092165628",
     "https://www.sidae.com/article/2026071110034141684",
     "https://www.yna.co.kr/view/AKR20260711023900007?input=1195m",
-    "https://economist.co.kr/article/view/ecn202607110010"
+    "https://economist.co.kr/article/view/ecn202607110010",
+    "https://www.g-enews.com/view.php?ud=202607111020127196e30fcb1ba8_1"
    ],
    "seen_titles": [
-    "글로벌탑티어셀메이커들의필수재…서진시스템,ESS외함압도적경...",
     "닛케이\"원화·엔화동반추락했지만…정책여력한국이더커\"",
     "대선까지바라보는장동혁,주무기는특검",
     "SamsungElectronics'largestunionurgeswithdrawaloflocalvoucher",
@@ -3566,10 +3565,11 @@
     "SK하이닉스,美나스닥입성…곽노정\"AI있는모든곳에함께할것\"",
     "\"미국주도주?\"나스닥사장\"SK하이닉스일단성공적,ADR추가상장기...",
     "프로야구SSG서방출된하재훈,시민구단울산서새출발",
-    "\"미국에메모리공장도가능\",나스닥데뷔한SK의다음카드"
+    "\"미국에메모리공장도가능\",나스닥데뷔한SK의다음카드",
+    "美“메모리공장지어달라”하루만에…최태원,현지팹투자열어뒀..."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T10:25:21.978843+09:00"
+   "last_run": "2026-07-11T10:30:56.285699+09:00"
   }
  },
  "press_names": {
