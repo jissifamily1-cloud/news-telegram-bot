@@ -405,8 +405,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8607679",
-    "https://www.sentv.co.kr/article/view/sentv202607100123",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/10/2026071000203.html",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273589",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04316486645513208",
@@ -1904,11 +1902,11 @@
     "https://biz.heraldcorp.com/article/10805582",
     "https://www.apnews.kr/news/articleView.html?idxno=3049683",
     "https://economist.co.kr/article/view/ecn202607110016",
-    "http://www.fnnews.com/news/202607111410470831"
+    "http://www.fnnews.com/news/202607111410470831",
+    "https://www.segye.com/newsView/20260711507991?OutUrl=naver",
+    "https://www.viva100.com/article/20260711500101"
    ],
    "seen_titles": [
-    "'신발끈질끈'한슬기,하나카드서존재감폭발…4세트무패행진[PBA팀...",
-    "박윤영KT대표,'첫성적'부터자존심구긴다...'나홀로역성장'전망",
     "[더벨][MarketWatch]단일종목레버리지개선안,'1.5배하향조정'거론",
     "30대기업,서울시면적3배주변생태민감지역…삼성물산-한화에어로...",
     "반도체,美투자큰장서나?…마이크론이어삼전닉스압박",
@@ -3406,10 +3404,12 @@
     "“AI메모리대장주왔다”…SK하이닉스美데뷔에월가도들썩",
     "[최태원의청년사다리③]취업너머창업·자립까지…성장경로넓힌다",
     "\"AI시대승자확인\"SK하이닉스美데뷔에월가도들썩",
-    "최태원美방송등판에투심폭발…월가\"가장확실한AI대형주\"극찬"
+    "최태원美방송등판에투심폭발…월가\"가장확실한AI대형주\"극찬",
+    "\"메모리반도체호황-불황사이클흔든역사적데뷔\"…SK하이닉스나스...",
+    "최태원“미반도체추가투자검토”⋯SK하이닉스,대미투자확대시..."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T14:20:46.028842+09:00"
+   "last_run": "2026-07-11T14:25:21.224261+09:00"
   }
  },
  "press_names": {
