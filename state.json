@@ -542,11 +542,17 @@
     [
      "2026-07-11T12:25:19.873101+09:00",
      "주식 역사적인 시장 WSJ 흔들어 데뷔 한국 업체의 메모리"
+    ],
+    [
+     "2026-07-11T12:30:55.317847+09:00",
+     "한달 아니었다 5위 싹쓸이 수익률 삼전닉스가"
+    ],
+    [
+     "2026-07-11T12:30:55.317847+09:00",
+     "대전하나시티즌 서진수 앞세운다 잡고 제주 3도움 3골 후반기"
     ]
    ],
    "seen_urls": [
-    "https://www.viva100.com/article/20260710500596",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1715930",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=272850",
     "https://www.chosun.com/economy/stock-finance/2026/07/10/H5ISBFBMPFCIFEEV4YSNQGJPEU/",
     "https://www.newsis.com/view/NISX20260710_0003704576",
@@ -2044,11 +2050,11 @@
     "https://www.sedaily.com/article/20066523",
     "https://news.jtbc.co.kr/article/NB12307728?influxDiv=NAVER",
     "https://www.newsjeju.net/news/articleView.html?idxno=423179",
-    "https://www.newsis.com/view/NISX20260711_0003705213"
+    "https://www.newsis.com/view/NISX20260711_0003705213",
+    "https://www.hankyung.com/article/2026071082776",
+    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=94658"
    ],
    "seen_titles": [
-    "'금감원제재단골'리딩투자증권이중소기업지원?[뉴스톡웰스톡]",
-    "발전하는행정도시세종에‘세종우미린센터파크’분양예정",
     "원·달러,1501.4원마감…이틀째1500원대(종합)",
     "금가분리풀렸다…미래에셋-코빗,한국의SBI될까",
     "KOSPI200ClosingPriceList-5",
@@ -3546,10 +3552,12 @@
     "‘세계D램4위’中CXMT…6.5조실탄으로삼성·SK추격",
     "나스닥첫날13%폭등에'깜짝'…SK하이닉스화려한데뷔",
     "제주도·제주에너지공사,'2026년제주에너지전환아카데미'현장탐방...",
-    "“한국메모리칩업체의역사적인데뷔,주식시장흔들어”-WSJ"
+    "“한국메모리칩업체의역사적인데뷔,주식시장흔들어”-WSJ",
+    "\"삼전닉스가아니었다\"…한달수익률1~5위'싹쓸이'[이수의ETF줌인]",
+    "'3골3도움'서진수앞세운다...대전하나시티즌,제주잡고후반기첫승..."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T12:25:19.873101+09:00"
+   "last_run": "2026-07-11T12:30:55.317847+09:00"
   }
  },
  "press_names": {
