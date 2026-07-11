@@ -238,10 +238,13 @@
     [
      "2026-07-11T19:40:48.718077+09:00",
      "다음은 반도체 금맥으로 여기 뜨는 시대 곳이"
+    ],
+    [
+     "2026-07-11T19:46:54.006316+09:00",
+     "결선 의정부 종별 대표로 경기도지사기 의정부시 출전한"
     ]
    ],
    "seen_urls": [
-    "https://www.khan.co.kr/article/202607101626001",
     "http://www.updownnews.co.kr/news/articleView.html?idxno=317927",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=387968",
     "https://www.nocutnews.co.kr/news/6546470",
@@ -1740,10 +1743,10 @@
     "https://news.jtbc.co.kr/article/NB12307750?influxDiv=NAVER",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205318",
     "https://www.hankyung.com/article/2026071082876",
-    "https://dgmbc.com/NewsArticle/850441"
+    "https://dgmbc.com/NewsArticle/850441",
+    "https://basketkorea.com/news/newsview.php?ncode=1065608898469009"
    ],
    "seen_titles": [
-    "코스피,2.52%올라7400대마감…삼전↑·하닉↓",
     "뉴욕증권가,SK하이닉스ADR레버리지ETF출시움직임[코주부]",
     "매수사이드카코스피·코스닥,상승마감…기관홀로'사자'[시황]",
     "코스피,美반도체주훈풍에2.52%상승…종목88%올랐다[시황종합]",
@@ -3242,10 +3245,11 @@
     "월가달군SK하이닉스데뷔…외신도\"가장뜨거운투자처\"",
     "7월11일MBN뉴스센터주요뉴스",
     "\"반도체다음은여기?\"…'AI시대'새금맥으로뜨는곳이[종목+]",
-    "SK하이닉스,나스닥첫날168달러로13%급등마감..AI열풍이어갈까?"
+    "SK하이닉스,나스닥첫날168달러로13%급등마감..AI열풍이어갈까?",
+    "의정부SK,의정부시대표로출전한‘경기도지사기’전종별결선토..."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T19:45:27.493196+09:00"
+   "last_run": "2026-07-11T19:46:54.006316+09:00"
   }
  },
  "press_names": {
