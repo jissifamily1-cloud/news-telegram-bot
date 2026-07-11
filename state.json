@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T09:25:22.055702+09:00",
-     "major newspapers Korean in headlines Top"
-    ],
-    [
      "2026-07-11T09:30:52.714769+09:00",
      "day trading on jumps Street hynix Wall of 1st"
     ],
@@ -329,7 +325,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/it-science/ict/2026/07/10/TQZCOEEPKVBRJCYY3PTOGGMTCA/",
     "https://www.seoul.co.kr/news/economy/securities/2026/07/10/20260710500192?wlog_tag3=naver",
     "https://en.yna.co.kr/view/AEN20260710008551320?input=2106m",
     "https://news.jtbc.co.kr/article/NB12307639?influxDiv=NAVER",
@@ -1828,10 +1823,10 @@
     "https://biz.newdaily.co.kr/site/data/html/2026/07/11/2026071100020.html",
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553368456",
     "http://www.yonhapnewstv.co.kr/news/MYH20260711151853Aa6",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467565"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467565",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608267"
    ],
    "seen_titles": [
-    "삼성SDI,첫AI배전망ESS21곳에배터리공급···물량66%확보",
     "기후부,국내최초배전망ESS사업본격착수…호남재생에너지계통...",
     "코스피7400선회복기관매수에2.5%급등",
     "코스피2.52%상승마감...장중5%대급등하기도",
@@ -3330,10 +3325,11 @@
     "최태원\"AI수요,공급압도…미국에반도체생산시설추가투자검토...",
     "'와이럴수가있나'ML꿈좌절→日독립리그→KBO구원왕→방출...파란...",
     "\"SK하이닉스,화려한미국데뷔\"…외신도주목",
-    "팬오션,벌크·탱커동반호조…저평가매력부각"
+    "팬오션,벌크·탱커동반호조…저평가매력부각",
+    "외신“SK하이닉스,화려한데뷔”…월가‘낙관론’에투자심리살아..."
    ],
    "initialized": true,
-   "last_run": "2026-07-11T15:20:47.567550+09:00"
+   "last_run": "2026-07-11T15:25:23.086016+09:00"
   }
  },
  "press_names": {
