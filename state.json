@@ -285,7 +285,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.lawtimes.co.kr/news/articleView.html?idxno=223417",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=265957",
     "http://www.nongaek.com/news/articleView.html?idxno=96067",
     "https://www.insightkorea.co.kr/news/articleView.html?idxno=249947",
@@ -1784,10 +1783,10 @@
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061850",
     "https://www.munhwa.com/article/11601948",
     "https://www.g-enews.com/view.php?ud=202607111643102616112616b072_1",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260711173241K5P"
+    "http://www.yonhapnewstv.co.kr/news/MYH20260711173241K5P",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=92104"
    ],
    "seen_titles": [
-    "단일종목레버리지커지는경고음…금융당국보완책'촉각'",
     "삼전급등·코스피7475선마감…환율은1501.4원",
     "(마감시황)코스피,기관1.1조매수에7,470선회복…하락종목92개그...",
     "뉴욕월스트리트서빛난태극기…SK하이닉스,오늘美나스닥'역대급IP...",
@@ -3286,10 +3285,11 @@
     "프로야구SSG서방출된하재훈,울산웨일즈서새출발",
     "장동혁“입틀막법=이재명성역법…헌법소원할것”",
     "이재명대통령,몽골나담축제첫주빈참석…'안다'외교로국빈방문...",
-    "\"AI에대규모투자…미반도체도추가투자검토\""
+    "\"AI에대규모투자…미반도체도추가투자검토\"",
+    "美서16%더비싼SK하이닉스…코스피본주도웃을까"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T17:35:21.622464+09:00"
+   "last_run": "2026-07-11T17:40:47.296040+09:00"
   }
  },
  "press_names": {
