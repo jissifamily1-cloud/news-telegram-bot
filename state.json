@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T09:45:27.039335+09:00",
-     "9호 강타 항공편 오키나와 태풍 200편 이상 결항"
-    ],
-    [
-     "2026-07-11T09:50:47.105467+09:00",
-     "2주차 하락세 SK스퀘어 7월 딛고 주가 반등"
-    ],
-    [
      "2026-07-11T09:55:23.067470+09:00",
      "TSMC와 월요일 PER에 있다 SK하이닉스 주주들 오르나 들뜬"
     ],
@@ -318,10 +310,13 @@
     [
      "2026-07-11T15:40:49.736652+09:00",
      "진행 공항 협의 부지 광주 반도체 합의 필수인데 한미"
+    ],
+    [
+     "2026-07-11T15:50:50.940419+09:00",
+     "넘어 확대 성장축 HD현대마린솔루션 데이터센터로 선박"
     ]
    ],
    "seen_urls": [
-    "http://www.srtimes.kr/news/articleView.html?idxno=207210",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594998742850",
     "https://www.newsis.com/view/NISI20260710_0021358846",
     "https://www.ajunews.com/view/20260710150752423",
@@ -1820,10 +1815,10 @@
     "https://www.news1.kr/local/jeonbuk/6225012",
     "http://www.yonhapnewstv.co.kr/news/MYH20260711153823WIC",
     "https://www.newscj.com/news/articleView.html?idxno=3416256",
-    "https://www.seoultimes.news/news/article.html?no=2000097656"
+    "https://www.seoultimes.news/news/article.html?no=2000097656",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467569"
    ],
    "seen_titles": [
-    "“SK하이닉스나스닥입성환영”……美뉴욕수놓은태극기",
     "코스피,2.52%↑…양시장매수사이드카",
     "[거래소외국인]삼성전자SK중심대형주매수확대…SK하이닉스대덕...",
     "靑\"레버리지ETF면밀주시…필요시보완\"",
@@ -3322,10 +3317,11 @@
     "송영길\"익산은내뿌리…李실용정치구현해온사람바로나\"(종합)",
     "[뉴스초점]SK하이닉스나스닥성공데뷔…다음주증시전망은",
     "광주군공항'반도체부지'전환,한미합의필수인데…靑\"협의진행...",
-    "[이슈]SK하이닉스,265억달러조달나스닥데뷔…첫날13%상승"
+    "[이슈]SK하이닉스,265억달러조달나스닥데뷔…첫날13%상승",
+    "HD현대마린솔루션,선박넘어데이터센터로성장축확대"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T15:45:25.815100+09:00"
+   "last_run": "2026-07-11T15:50:50.940419+09:00"
   }
  },
  "press_names": {
