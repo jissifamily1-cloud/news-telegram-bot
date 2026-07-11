@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T09:55:23.067470+09:00",
-     "TSMC와 월요일 PER에 있다 SK하이닉스 주주들 오르나 들뜬"
-    ],
-    [
-     "2026-07-11T10:00:59.807960+09:00",
-     "세레브라스 선택 협업사로 업스테이지 만나요 다음에서"
-    ],
-    [
      "2026-07-11T10:05:21.207182+09:00",
      "몰렸다 IPO 10년 만에 글로벌 2조달러"
     ],
@@ -317,8 +309,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594998742850",
-    "https://www.newsis.com/view/NISI20260710_0021358846",
     "https://www.ajunews.com/view/20260710150752423",
     "https://zdnet.co.kr/view/?no=20260710153445",
     "https://www.seoul.co.kr/news/economy/securities/2026/07/10/20260710500194?wlog_tag3=naver",
@@ -1816,11 +1806,11 @@
     "http://www.yonhapnewstv.co.kr/news/MYH20260711153823WIC",
     "https://www.newscj.com/news/articleView.html?idxno=3416256",
     "https://www.seoultimes.news/news/article.html?no=2000097656",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467569"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467569",
+    "http://weekly.chosun.com/news/articleView.html?idxno=53380",
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=360140"
    ],
    "seen_titles": [
-    "코스피,2.52%↑…양시장매수사이드카",
-    "[거래소외국인]삼성전자SK중심대형주매수확대…SK하이닉스대덕...",
     "靑\"레버리지ETF면밀주시…필요시보완\"",
     "코스피2.52%,코스닥5.47%상승...오전에매수사이드카",
     "기관이밀고반도체가이끌었다…코스피7400선회복",
@@ -3318,10 +3308,12 @@
     "[뉴스초점]SK하이닉스나스닥성공데뷔…다음주증시전망은",
     "광주군공항'반도체부지'전환,한미합의필수인데…靑\"협의진행...",
     "[이슈]SK하이닉스,265억달러조달나스닥데뷔…첫날13%상승",
-    "HD현대마린솔루션,선박넘어데이터센터로성장축확대"
+    "HD현대마린솔루션,선박넘어데이터센터로성장축확대",
+    "SK하이닉스美상장첫날'역김치프리미엄'…국내보다16%비쌌다",
+    "최태원\"조건만맞으면미국공장도가능\""
    ],
    "initialized": true,
-   "last_run": "2026-07-11T15:55:20.852967+09:00"
+   "last_run": "2026-07-11T16:00:59.918852+09:00"
   }
  },
  "press_names": {
