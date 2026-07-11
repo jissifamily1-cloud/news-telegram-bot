@@ -237,7 +237,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.kjdaily.com/article.php?aid=1783669561682119011",
     "https://www.mt.co.kr/stock/2026/07/10/2026071016393295860",
     "http://www.smarttimes.co.kr/news/articleView.html?idxno=47188",
     "http://www.newstomato.com/ReadNews.aspx?no=1306845&inflow=N",
@@ -1736,10 +1735,10 @@
     "https://www.goodkyung.com/news/articleView.html?idxno=289140",
     "https://it.chosun.com/news/articleView.html?idxno=2023092165597",
     "https://www.segye.com/newsView/20260712502830?OutUrl=naver",
-    "https://www.yna.co.kr/view/AKR20260710139100003?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260710139100003?input=1195m",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607120031&t=NN"
    ],
    "seen_titles": [
-    "[10일특징주]반도체흔들리자방어주'활짝'…은행株'강세'",
     "코스피2.5%상승해7,400대…삼전2%대↑·하이닉스약보합",
     "삼성SDI,AI배전망ESS66%수주…LG엔솔은최대운영물량확보",
     "원/달러환율1501.4원마감…달러약세에4.7원하락",
@@ -3238,10 +3237,11 @@
     "HBM·미국IPO쌍끌이…SK하이닉스역대급독주시작",
     "개미계좌순삭인데…증권거래세,상반기만에작년2배걷어",
     "“미국선이미252만원”…하이닉스,13일250만원갈까",
-    "'추론AI'시대의새주인공…올해만몸값5배오른낸드플래시"
+    "'추론AI'시대의새주인공…올해만몸값5배오른낸드플래시",
+    "'환율구원투수'드디어등판…'SK하이닉스단비'에외환시장'들썩'"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T06:50:48.525002+09:00"
+   "last_run": "2026-07-12T06:55:20.162079+09:00"
   }
  },
  "press_names": {
