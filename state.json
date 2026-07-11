@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-11T14:05:19.885516+09:00",
-     "성과급 바깥의 일터 반도체 청년들 넓힌"
-    ],
-    [
-     "2026-07-11T14:05:19.885516+09:00",
-     "3억 주담대 자율관리 비껴간 사내대출 당국"
-    ],
-    [
      "2026-07-11T14:10:45.809132+09:00",
      "앞당긴다 같은 신입 출발선 경력"
     ],
@@ -238,12 +230,17 @@
     [
      "2026-07-11T20:01:01.031207+09:00",
      "단일 출시에 레버리지 금융당국 한때 있나 의지 700선 코스닥 해결"
+    ],
+    [
+     "2026-07-11T20:05:21.632323+09:00",
+     "대만 신중론 본주 나스닥 흥행 비교하며 기대 사례"
+    ],
+    [
+     "2026-07-11T20:05:21.632323+09:00",
+     "인공지능 넘기는 개인정보 우리 키운다고"
     ]
    ],
    "seen_urls": [
-    "https://www.nocutnews.co.kr/news/6546470",
-    "http://www.metroseoul.co.kr/article/20260710500170",
-    "https://www.youthdaily.co.kr/news/article.html?no=222772",
     "https://www.g-enews.com/view.php?ud=202607101551299204923c501012_1",
     "https://www.seoulfn.com/news/articleView.html?idxno=633149",
     "https://www.veritas-a.com/news/articleView.html?idxno=618856",
@@ -1740,12 +1737,12 @@
     "https://dgmbc.com/NewsArticle/850441",
     "https://basketkorea.com/news/newsview.php?ncode=1065608898469009",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205316",
-    "https://www.ddaily.co.kr/page/view/2026071109475731846"
+    "https://www.ddaily.co.kr/page/view/2026071109475731846",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1530372",
+    "https://news.jtbc.co.kr/article/NB12307769?influxDiv=NAVER",
+    "https://news.cpbc.co.kr/article/1174279?division=NAVER"
    ],
    "seen_titles": [
-    "코스피,美반도체주훈풍에2.52%상승…종목88%올랐다[시황종합]",
-    "삼성SDI,AI활용ESS사업서물량66%확보",
-    "삼성SDI,'차세대AI배전망'사업서배터리셀66%따냈다",
     "코스피,2%대상승7470선마감···삼전·닉스→이차전지·금융'순환매...",
     "10대그룹상표권로열티SK·LG1등다퉈",
     "코스피,반도체투심회복에7400선탈환…기관1조원넘게순매수",
@@ -3242,10 +3239,13 @@
     "SK하이닉스,나스닥첫날168달러로13%급등마감..AI열풍이어갈까?",
     "의정부SK,의정부시대표로출전한‘경기도지사기’전종별결선토...",
     "나스닥상장벨울린SK하이닉스…최태원\"미국대규모투자도검토\"",
-    "단일레버리지출시에코스닥한때700선…금융당국,해결의지있나[증..."
+    "단일레버리지출시에코스닥한때700선…금융당국,해결의지있나[증...",
+    "SK하이닉스'13%급등'성공데뷔…최태원\"미국추가투자검토\"",
+    "'나스닥흥행'속본주기대…'대만사례'비교하며신중론",
+    "[사제의눈]인공지능키운다고개인정보넘기는우리"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T20:01:01.031207+09:00"
+   "last_run": "2026-07-11T20:05:21.632323+09:00"
   }
  },
  "press_names": {
