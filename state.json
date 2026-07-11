@@ -269,9 +269,6 @@
     ]
    ],
    "seen_urls": [
-    "https://economist.co.kr/article/view/ecn202607100031",
-    "https://www.greened.kr/news/articleView.html?idxno=344760",
-    "https://www.ddaily.co.kr/page/view/2026071016101223634",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008651485&plink=ORI&cooper=NAVER",
     "https://www.etnews.com/20260710000254",
     "https://www.yna.co.kr/view/AKR20260710118651008?input=1195m",
@@ -1768,12 +1765,12 @@
     "https://news.tvchosun.com/site/data/html_dir/2026/07/11/2026071190096.html",
     "https://www.mhns.co.kr/news/articleView.html?idxno=753117",
     "https://www.e-science.co.kr/news/articleView.html?idxno=131810",
-    "https://www.newsis.com/view/NISX20260711_0003705345"
+    "https://www.newsis.com/view/NISX20260711_0003705345",
+    "https://www.greened.kr/news/articleView.html?idxno=344823",
+    "http://www.whitepaper.co.kr/news/articleView.html?idxno=264477",
+    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539204"
    ],
    "seen_titles": [
-    "뉴욕JP모건본사에'초대형태극기'떴다",
-    "[증시-마감]반도체온기에코스피2.5%상승…'ADR'하이닉스는반락",
-    "코스피·코스닥,기관'사자'에동반급등마감…장중매수사이드카발...",
     "靑,‘삼전·닉스레버리지ETF’변동성점검…“필요시제도보완”",
     "코스피2.52%올라7475선…코스피·코스닥나란히매수사이드카",
     "SK하이닉스,美ADR공모가149달러확정…40조원조달'역대급'",
@@ -3270,10 +3267,13 @@
     "\"화려한美데뷔\"…SK하이닉스상장에외신·월가도주목",
     "[박근종칼럼]서민층'주거사다리'걷어차는은행권대출제한,획일적...",
     "최태원의꿈,월가에서현실이됐다…SK하이닉스,AI시대의중심에서...",
-    "최태원,SK하이닉스美상장최고의날'SKHY'띄어쓰기티커띄운까닭"
+    "최태원,SK하이닉스美상장최고의날'SKHY'띄어쓰기티커띄운까닭",
+    "\"SK하이닉스,마이크론제쳤다\"…외신\"화려한美데뷔\"극찬",
+    "최태원\"AI분야수백억달러투자…HBM등메모리칩공급부족당분간...",
+    "최태원“입지·조건맞다면미국반도체추가투자가능”[현장영상]"
    ],
    "initialized": true,
-   "last_run": "2026-07-11T18:05:20.670518+09:00"
+   "last_run": "2026-07-11T18:10:47.898215+09:00"
   }
  },
  "press_names": {
