@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-12T16:45:24.697230+09:00",
-     "시작한 투자지도 글로벌 거래 바뀐다 뉴욕서 SK하이닉스"
-    ],
-    [
-     "2026-07-12T16:45:24.697230+09:00",
-     "최태원 생산공장 여건 건설 되면 가능 메모리"
-    ],
-    [
      "2026-07-12T16:50:50.099280+09:00",
      "통항 110척에서 호르무즈 13척으로 급감"
     ],
@@ -458,10 +450,13 @@
     [
      "2026-07-12T22:20:49.705625+09:00",
      "상장의 평가 SK하이닉스 나스닥 의의와"
+    ],
+    [
+     "2026-07-12T22:45:25.868173+09:00",
+     "회복 대통령 반등 지지율"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260711000008",
     "https://www.ytn.co.kr/_ln/0104_202607110218537344",
     "https://www.chosun.com/economy/tech_it/2026/07/11/WOFELS53GRFATNPXDFWMTAZEVQ/",
     "https://www.mk.co.kr/article/12095894",
@@ -1960,10 +1955,10 @@
     "https://isplus.com/article/view/isp202607120131",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=355832",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=595832",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000049387"
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000049387",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=736545"
    ],
    "seen_titles": [
-    "SK하닉,상장첫날주당174달러에거래…공모가대비17%급등",
     "SK하이닉스,美나스닥입성…AI생태계·글로벌투자자공략본격화",
     "與“3대메가프로젝트발목잡는규제타파”",
     "음성군반도체高설명회에…전국학부모폭우뚫고몰려왔다",
@@ -3462,10 +3457,11 @@
     "‘백지영♥’정석원,SK하이닉스도몰랐다…“하이네켄있는곳?”",
     "SK스퀘어,하이닉스DR프리미엄수혜기대…\"추가상승여력46%\"",
     "'부상복귀코앞'제주SK이창민\"묵묵히성실하게경기장에있는것이...",
-    "9월부터광주시내버스와이파이빨라진다"
+    "9월부터광주시내버스와이파이빨라진다",
+    "[김능구·홍형식의민심레이더7월①]\"李대통령지지율반등…50%회복..."
    ],
    "initialized": true,
-   "last_run": "2026-07-12T22:40:51.498153+09:00"
+   "last_run": "2026-07-12T22:45:25.868173+09:00"
   }
  },
  "press_names": {
