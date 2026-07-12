@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-12T16:15:26.040988+09:00",
-     "전체 꺼내 증시 돌파 마통 호황에 잔액"
-    ],
-    [
-     "2026-07-12T16:15:26.040988+09:00",
-     "본격 지원 소부장 협력기업 하나은행 반도체"
-    ],
-    [
-     "2026-07-12T16:20:48.204860+09:00",
-     "봉쇄 다시 호르무즈 위기 유가 우려 쌍끌이 환율 충격"
-    ],
-    [
      "2026-07-12T16:25:19.791582+09:00",
      "사람이 AI가 얼마나 통제할수 중요 판단하는 시대 있는지가"
     ],
@@ -514,12 +502,13 @@
     [
      "2026-07-12T22:15:24.172460+09:00",
      "월급제 기괴한 공포가 현대차의 낳은 합의 로봇"
+    ],
+    [
+     "2026-07-12T22:20:49.705625+09:00",
+     "상장의 평가 SK하이닉스 나스닥 의의와"
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202607110153007130",
-    "https://www.yna.co.kr/view/AKR20260711002300072?input=1195m",
-    "https://www.koreajoongangdaily.com/korea/president-lee-calls-mongolia-true-friend-in-state-banquet-gifts-korean-bow-and-smartwatch/12767696",
     "https://www.hankyung.com/article/202607118908i",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01243126645513536",
     "https://view.asiae.co.kr/article/2026071101552009397",
@@ -2016,12 +2005,12 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02725686645513864",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=545678",
     "https://www.m-i.kr/news/articleView.html?idxno=1390502",
-    "https://www.ngonews.kr/news/articleView.html?idxno=232744"
+    "https://www.ngonews.kr/news/articleView.html?idxno=232744",
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=595831",
+    "https://www.m-i.kr/news/articleView.html?idxno=1390541",
+    "https://www.m-i.kr/news/articleView.html?idxno=1390504"
    ],
    "seen_titles": [
-    "몽골국빈만찬장'李대통령일대기'상영…결혼식사진에좌중'웃음만...",
-    "최태원\"AI분야수백억달러투자…HBM수요기하급수적증가\"",
-    "‘40조원흥행’SK하이닉스,주가전망은185만vs420만원",
     "SK하이닉스,나스닥ADR상장…\"AI가있는모든곳에함께할것\"",
     "최태원\"하이닉스미상장,꿈이현실로...HBM수요기하급수적급증\"",
     "李\"몽골도약함께하는동반자될것\"…LS·SK등경제인도만찬참석(...",
@@ -3518,10 +3507,13 @@
     "[미리보는이데일리신문]조건맞으면美에도메모리공장짓겠다",
     "'엔비디아GPU다음은첨단패키징'.반도체산업의새로운승자는누구...",
     "SK하이닉스,나스닥상장성공",
-    "로봇공포가낳은현대차의기괴한월급제합의"
+    "로봇공포가낳은현대차의기괴한월급제합의",
+    "'4G연속무승'세르지우코스타제주SK감독\"예상했듯이어려운경기였...",
+    "SK하이닉스,한국상장주가와키맞추기되나",
+    "SK하이닉스,나스닥상장의의의와평가"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T22:15:24.172460+09:00"
+   "last_run": "2026-07-12T22:20:49.705625+09:00"
   }
  },
  "press_names": {
