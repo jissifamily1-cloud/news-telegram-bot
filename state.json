@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-12T11:40:47.835842+09:00",
-     "사회적 SKT 소프트뱅크 측정 사회적가치연구원과 MOU 가치"
-    ],
-    [
      "2026-07-12T11:45:26.350550+09:00",
      "3조 들어올 통장에 바뀐다 주식 만에 일주일 잔액이 7154억 몰린"
     ],
@@ -526,12 +522,21 @@
     [
      "2026-07-12T17:25:23.620438+09:00",
      "희망이 입시설명회 되려면 열기가 충북반도체"
+    ],
+    [
+     "2026-07-12T17:40:49.060414+09:00",
+     "수주전 승리 공공와이파이 LG유플러스 버스"
+    ],
+    [
+     "2026-07-12T17:40:49.060414+09:00",
+     "경질하라 김용범 섣부른 정조준 즉각 국힘 정책"
+    ],
+    [
+     "2026-07-12T17:40:49.060414+09:00",
+     "과제 반도체 지자체 경기도 상생 보상 희생과"
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1665957/?sc=Naver",
-    "https://www.mk.co.kr/article/12095869",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=355815",
     "https://www.newsway.co.kr/news/view?ud=2026071022473568551",
     "https://www.newspim.com/news/view/20260710001496",
     "https://www.nocutnews.co.kr/news/6546644",
@@ -2028,12 +2033,12 @@
     "https://www.newsgn.com/news/articleView.html?idxno=561835",
     "http://www.mdilbo.com/detail/DDAuq0/757095",
     "https://www.dt.co.kr/article/12072474",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273835"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273835",
+    "https://www.sedaily.com/article/20066698",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260712010004328",
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1327123"
    ],
    "seen_titles": [
-    "SK하이닉스,美나스닥입성…\"AI가있는모든곳에함께할것\"",
-    "SK하이닉스,美나스닥시장에공식상장…최태원'오프닝벨'울려",
-    "SK하이닉스,'자본시장심장부'美나스닥입성…AI메모리리더십강화",
     "나스닥입성SK하이닉스…투자금40조원확보,역대최대",
     "SK하이닉스,미국나스닥시장전격입성...ADR상장으로40조원조달",
     "[속보]SK하이닉스,미나스닥입성…최태원오프닝벨울려",
@@ -3530,10 +3535,13 @@
     "SK하이닉스'나스닥데뷔'흥행…국내증시·환율동시흔든다",
     "반도체인재붙잡을생활인프라...광주복쇼개발'눈길'",
     "[속보]“SK하닉,한국외환시장구세주”…‘통화스와프급’265억달러...",
-    "SK하이닉스40조원ADR조달…외환시장에'265억달러'공급기대"
+    "SK하이닉스40조원ADR조달…외환시장에'265억달러'공급기대",
+    "[단독]LG유플러스,버스공공와이파이수주전승리",
+    "국힘,김용범정조준…\"섣부른정책,즉각경질하라\"",
+    "희생과보상…경기도지자체'반도체상생'과제"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T17:35:20.657387+09:00"
+   "last_run": "2026-07-12T17:40:49.060414+09:00"
   }
  },
  "press_names": {
