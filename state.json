@@ -641,7 +641,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260710_0003705053",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=265984",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01200486645513536",
     "https://www.hankookilbo.com/news/article/A2026071100210005936?did=NA",
@@ -2140,10 +2139,10 @@
     "http://www.mdilbo.com/detail/tohfpC/757101",
     "https://www.m-economynews.com/news/article.html?no=68670",
     "http://www.kjdaily.com/article.php?aid=1783852817682223002",
-    "http://www.kwangju.co.kr/article.php?aid=1783852800801162005"
+    "http://www.kwangju.co.kr/article.php?aid=1783852800801162005",
+    "https://www.seoul.co.kr/news/economy/securities/2026/07/13/20260713002001?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "최태원“美에메모리팹으로적합한장소있다면투자”",
     "SK하이닉스,미국나스닥입성…'AI파트너'글로벌영토확장",
     "\"'나스닥'SK하이닉스,180달러출발예상…공모가대비20%↑\"",
     "[사설]SK하이닉스나스닥상장이드러낸한국자본시장현주소",
@@ -3642,10 +3641,11 @@
     "이석연국민통합위원장\"지역혐오증폭하면국가발전저해\"",
     "단일종목레버리지ETF,삼성전자·하이닉스변동성키워글로벌시장파...",
     "‘반도체부지’광주군공항이전속도낸다",
-    "‘광주반도체전력공급’…한전,4년내안정적기반조성"
+    "‘광주반도체전력공급’…한전,4년내안정적기반조성",
+    "[단독]‘음의복리’레버리지,코스피뒤흔들다…거래90%는손실[레..."
    ],
    "initialized": true,
-   "last_run": "2026-07-12T19:45:25.557336+09:00"
+   "last_run": "2026-07-12T19:50:48.576896+09:00"
   }
  },
  "press_names": {
