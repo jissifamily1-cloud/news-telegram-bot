@@ -466,16 +466,25 @@
     [
      "2026-07-12T13:01:00.483753+09:00",
      "시원 지진 대피소 어린이 호소 베네수엘라 유니세프 위한"
+    ],
+    [
+     "2026-07-12T13:05:20.327232+09:00",
+     "낸드플래시 가격 상승 18개월 시대에 연속 추론 뜨는"
+    ],
+    [
+     "2026-07-12T13:05:20.327232+09:00",
+     "속도 입성 나스닥 SK하이닉스 투자 40조 실탄으로"
+    ],
+    [
+     "2026-07-12T13:05:20.327232+09:00",
+     "승부수 재평가 최태원의 SK하이닉스 인프라 기업"
+    ],
+    [
+     "2026-07-12T13:05:20.327232+09:00",
+     "ADR 폭탄 정체 기대감에 환율 나타난 하이닉스 갑자기 달러"
     ]
    ],
    "seen_urls": [
-    "https://www.thelec.kr/news/articleView.html?idxno=59414",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=269558",
-    "https://news.jtbc.co.kr/article/NB12307657?influxDiv=NAVER",
-    "https://news.jtbc.co.kr/article/NB12307658?influxDiv=NAVER",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424459",
-    "https://www.betanews.net/article/view/beta202607100074",
-    "https://news.jtbc.co.kr/article/NB12307656?influxDiv=NAVER",
     "https://view.asiae.co.kr/article/2026071018592670222",
     "https://www.news1.kr/politics/president/6224742",
     "https://news.jtbc.co.kr/article/NB12307677?influxDiv=NAVER",
@@ -1968,16 +1977,16 @@
     "https://www.jnilbo.com/news/articleView.html?idxno=90000049315",
     "http://www.fnnews.com/news/202607121159481663",
     "https://www.m-i.kr/news/articleView.html?idxno=1390528",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16131988"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16131988",
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065585394186682",
+    "https://www.m-i.kr/news/articleView.html?idxno=1390335",
+    "https://www.m-i.kr/news/articleView.html?idxno=1390334",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=874819",
+    "https://www.etoday.co.kr/news/view/2602708",
+    "https://www.asiatime.co.kr/article/20260712500028",
+    "https://www.mk.co.kr/article/12096339"
    ],
    "seen_titles": [
-    "외국인,하락장서대덕전자·LG이노텍더샀다",
-    "AIESS첫승부서삼성SDI우위…정부사업'3분의2'물량확보",
-    "[Closim\\ngMarket]SeoulStocksStageDramaticReboundWhileWon-dol",
-    "[금융권풍향계]수은,몽골에서K-컬처수출확대위한‘금융교두보...",
-    "삼성SDI,정부AI배전망ESS사업서'66%독주'",
-    "[박수진의머니워치]코스피7400선마감…반도체투심개선",
-    "한화오션20억弗선물환매도출회…다음주추가매도(종합)",
     "SK하이닉스,美ADR승부수...글로벌시장공략본격화",
     "SK인텔릭스,서울디자인재단과MOU…DDP에웰니스로봇'나무엑스'도입",
     "삼성SDI,정부AI활용ESS구축지원사업9곳중6곳에배터리셀공급",
@@ -3470,10 +3479,17 @@
     "2030년반도체양산맞춘다…군공항이전병행추진",
     "아직꺼지지않은\"내리면사\"…\"반도체계속사도되나요?\"",
     "[전대인터뷰]정민철\"'문화전쟁'승리로민주청년정치새지평\"",
-    "시원,베네수엘라지진어린이위한유니세프대피소호소"
+    "시원,베네수엘라지진어린이위한유니세프대피소호소",
+    "[인사]하나은행인사",
+    "'40조확보'SK하이닉스,AI반도체초격차굳힌다",
+    "통신3사,하반기AI투자속도전…AIDC·AX경쟁본격화",
+    "'추론AI'시대에뜨는낸드플래시…가격18개월연속상승",
+    "‘나스닥입성’SK하이닉스…40조실탄으로AI투자속도",
+    "최태원의승부수…SK하이닉스,‘AI인프라기업’으로재평가",
+    "갑자기나타난‘달러폭탄’의정체…하이닉스ADR기대감에환율‘뚝..."
    ],
    "initialized": true,
-   "last_run": "2026-07-12T13:01:00.483753+09:00"
+   "last_run": "2026-07-12T13:05:20.327232+09:00"
   }
  },
  "press_names": {
