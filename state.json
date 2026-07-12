@@ -338,12 +338,17 @@
     [
      "2026-07-13T06:50:52.236260+09:00",
      "호재 한국유나이티드 종근당 JW중외 대웅 삼진"
+    ],
+    [
+     "2026-07-13T06:55:21.383548+09:00",
+     "주가 펀더멘털 강화에도 수급 손상 목표가 HD현대일렉트릭"
+    ],
+    [
+     "2026-07-13T06:55:21.383548+09:00",
+     "석화업계 사투 반도체 밧줄 습격에 안방 잡고 뺏긴"
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/economy/376700",
-    "https://www.dailian.co.kr/news/view/1665787/?sc=Naver",
-    "https://www.sedaily.com/article/20066348",
     "https://view.asiae.co.kr/article/2026070815343490771",
     "https://www.getnews.co.kr/news/articleView.html?idxno=874783",
     "https://www.news1.kr/world/usa-canada/6224839",
@@ -1840,12 +1845,12 @@
     "https://www.getnews.co.kr/news/articleView.html?idxno=874853",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1716036",
     "https://www.g-enews.com/view.php?ud=202607130644251011fbbec65dfb_1",
-    "https://www.dailymedi.com/news/news_view.php?wr_id=938276"
+    "https://www.dailymedi.com/news/news_view.php?wr_id=938276",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1716037",
+    "http://www.joseilbo.com/news/news_read.php?uid=571742&class=18",
+    "https://news.bizwatch.co.kr/article/industry/2026/07/10/0022"
    ],
    "seen_titles": [
-    "[주간증시전망]반도체고점우려에출렁인코스피향방은",
-    "AI독서실에영어교육까지...아파트에들어온에듀테크",
-    "SK하이닉스·KB금융·삼성SDI[하나證주간추천주]",
     "[천지일보이슈종합]한몽황금시대·부동산대토론회·트럼프'휴전종...",
     "매경이전하는세상의지식(매-세-지,7월11일)",
     "반도체산단설립‘속도전’,대만반도체전략과정반대!",
@@ -3342,10 +3347,13 @@
     "美서SK하이닉스ADR연계레버리지ETF출시봇물",
     "피크아웃논란흔든반도체株…TSMC·ASML실적이반등분수령",
     "올하반기커스텀HBM전쟁본격화…3사가공급질서다시짠다",
-    "대웅·삼진·JW중외·종근당·한국유나이티드'호재'"
+    "대웅·삼진·JW중외·종근당·한국유나이티드'호재'",
+    "﻿74조'매물폭탄'사라졌다…코스피급락이국민연금매도멈췄다",
+    "HD현대일렉트릭,펀더멘털강화에도수급손상…SK證,목표가'↓'[주가...",
+    "中습격에안방뺏긴석화업계,'반도체'밧줄잡고사투"
    ],
    "initialized": true,
-   "last_run": "2026-07-13T06:50:52.236260+09:00"
+   "last_run": "2026-07-13T06:55:21.383548+09:00"
   }
  },
  "press_names": {
