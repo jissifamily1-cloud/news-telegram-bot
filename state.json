@@ -233,7 +233,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.beyondpost.co.kr/view.php?ud=2026071105271622302aaae0046f_30",
     "https://www.sedaily.com/article/20066459",
     "https://www.newsis.com/view/NISX20260710_0003703893",
     "https://en.yna.co.kr/view/AEN20260711000251315?input=2106m",
@@ -1732,10 +1731,10 @@
     "https://www.donga.com/news/Economy/article/all/20260713/134284090/2",
     "https://www.donga.com/news/Economy/article/all/20260713/134284083/2",
     "https://www.donga.com/news/Economy/article/all/20260713/134284467/2",
-    "https://www.donga.com/news/Economy/article/all/20260713/134284398/2"
+    "https://www.donga.com/news/Economy/article/all/20260713/134284398/2",
+    "https://biz.sbs.co.kr/article_hub/20000321992?division=NAVER"
    ],
    "seen_titles": [
-    "'SK하이닉스데뷔첫날'뉴욕증시강세마감…나스닥0.3%↑",
     "최태원SK회장\"HBM수요기하급수적...줄어드는징후전혀없다\"",
     "‘하닉’ADR첫날13%...뉴욕증시상승[월가월부]",
     "[뉴욕증시-1보]휴전종료선언에도일단'고'…강세마감",
@@ -3234,10 +3233,11 @@
     "나스닥하이닉스주가,국내보다16%높아…코스피훈풍주목",
     "최태원“美든어디든조건맞으면팹검토”",
     "SK하이닉스,나스닥첫날공모가보다13%상승",
-    "본격속도내는용인팹…韓-美-中,메모리설비확충경쟁"
+    "본격속도내는용인팹…韓-美-中,메모리설비확충경쟁",
+    "[글로벌비즈브리핑]SK하이닉스,역사적美시장데뷔...외신도'들썩..."
    ],
    "initialized": true,
-   "last_run": "2026-07-13T04:40:54.332068+09:00"
+   "last_run": "2026-07-13T04:45:23.719829+09:00"
   }
  },
  "press_names": {
