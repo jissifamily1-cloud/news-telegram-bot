@@ -274,11 +274,17 @@
     [
      "2026-07-13T05:15:23.986022+09:00",
      "이동 이통3사 AIDC 정재헌vs박윤영vs홍범식 전쟁터"
+    ],
+    [
+     "2026-07-13T05:25:20.308168+09:00",
+     "호황도 영원하지 투자설명서 않다 SK하닉이"
+    ],
+    [
+     "2026-07-13T05:25:20.308168+09:00",
+     "굳어질까 SKHY 프리미엄 TSMC처럼 ADR"
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202607110222097110",
-    "https://www.newspim.com/news/view/20260710001329",
     "https://www.newsis.com/view/NISX20260709_0003702845",
     "https://www.ekn.kr/web/view.php?key=20260711020471441",
     "https://www.kukinews.com/article/view/kuk202607100118",
@@ -1776,11 +1782,11 @@
     "https://www.seoul.co.kr/news/plan/monday-interview/2026/07/13/20260713016001?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/editOpinion/editorial/2026/07/13/20260713027008?wlog_tag3=naver",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01436646645514192",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039430"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039430",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607120853306810795",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607120932070860798"
    ],
    "seen_titles": [
-    "CNBC\"최태원SK하이닉스회장,AI시대HBM엄청난수요...수백억달러투...",
-    "SK하이닉스미ADR상장?월가는왜40조베팅?",
     "AI열풍뉴욕증시상승…SK하이닉스나스닥흥행·엔비디아강세",
     "\"SK하이닉스'대박'\"…\"더많은해외기업의美상장길열어\"",
     "엔비디아4.03%↑,마이크론1.24%↓...반도체주,SK하이닉스상장영향...",
@@ -3278,10 +3284,12 @@
     "“앞으로5년골든타임…시스템반도체로다변화해야”[월요인터뷰]",
     "[사설]반도체공장국가쟁탈전,한가하기만한초과이윤대잔치",
     "미래위한투자,'빚갚는'선택지도고려해야[생생확대경]",
-    "정재헌vs박윤영vs홍범식…이통3사전쟁터,'AIDC'로이동"
+    "정재헌vs박윤영vs홍범식…이통3사전쟁터,'AIDC'로이동",
+    "[나스닥간SKHY]③“AI호황도영원하지않다”…SK하닉이투자설명서...",
+    "[나스닥간SKHY]②SKHY,TSMC처럼‘ADR프리미엄’굳어질까"
    ],
    "initialized": true,
-   "last_run": "2026-07-13T05:20:52.664418+09:00"
+   "last_run": "2026-07-13T05:25:20.308168+09:00"
   }
  },
  "press_names": {
