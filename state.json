@@ -578,12 +578,17 @@
     [
      "2026-07-12T11:45:26.350550+09:00",
      "3조 들어올 통장에 바뀐다 주식 만에 일주일 잔액이 7154억 몰린"
+    ],
+    [
+     "2026-07-12T11:50:49.394302+09:00",
+     "듣는 공정 반도체 학생들 설명"
+    ],
+    [
+     "2026-07-12T11:50:49.394302+09:00",
+     "SK하닉 외인 유입 기대 ADR 전망 자금 지속 프리미엄"
     ]
    ],
    "seen_urls": [
-    "https://www.gokorea.kr/news/articleView.html?idxno=871821",
-    "https://www.mk.co.kr/article/12095686",
-    "http://www.srtimes.kr/news/articleView.html?idxno=207296",
     "http://www.finomy.com/news/articleView.html?idxno=257216",
     "https://www.sentv.co.kr/article/view/sentv202607100053",
     "https://www.sisaon.co.kr/news/articleView.html?idxno=202595",
@@ -2080,12 +2085,12 @@
     "https://www.joongangenews.com/news/articleView.html?idxno=532229",
     "http://www.bizwnews.com/news/articleView.html?idxno=140470",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=355824",
-    "https://www.wikitree.co.kr/articles/1145993"
+    "https://www.wikitree.co.kr/articles/1145993",
+    "https://www.fetv.co.kr/news/articleView.html?idxno=306272",
+    "https://www.yeongnam.com/web/view.php?key=20260712028553386",
+    "https://www.news1.kr/finance/market-exr/6225280"
    ],
    "seen_titles": [
-    "하닉본주는약보합…외국인1.7조팔아치워",
-    "SKT,KKRAI데이터센터인수금융검토설에\"확정된사항없어\"",
-    "美러트닉\"삼전닉스美에공장짓게하고싶다\"",
     "트럼프“전세계칩50%美서만들어야”…삼전닉스에더거세진투자...",
     "ADR사상첫'공모가프리미엄'…글로벌큰손,SKHY에베팅",
     "9000찍고18%추락한코스피…상장사시총구간은그대로",
@@ -3582,10 +3587,13 @@
     "삼전·닉스레버리지ETF상폐론...당국\"시장영향·보완필요성\"제기",
     "SK하이닉스,'화려한'나스닥데뷔전가져…거래첫날168달러로급등마...",
     "SKT,日소프트뱅크·사회적가치연구원과'AI사회적가치측정'MOU",
-    "내통장에들어올잔액이바뀐다…일주일만에3조7154억몰린'이주식..."
+    "내통장에들어올잔액이바뀐다…일주일만에3조7154억몰린'이주식...",
+    "SK하이닉스,美나스닥ADR거래시작…\"AI핵심파트너입지강화\"",
+    "[포토뉴스]반도체공정설명듣는학생들",
+    "SK하닉ADR'16%프리미엄'지속전망…\"외인자금유입기대\""
    ],
    "initialized": true,
-   "last_run": "2026-07-12T11:45:26.350550+09:00"
+   "last_run": "2026-07-12T11:50:49.394302+09:00"
   }
  },
  "press_names": {
