@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-12T12:25:22.403285+09:00",
-     "변질된 증시 7만명 청원 개선 삼전닉스 도박장처럼 레버리지"
-    ],
-    [
      "2026-07-12T12:35:23.134168+09:00",
      "생산공장 모락모락 반도체 가동설 용인 조기 삼성전자"
     ],
@@ -642,11 +638,13 @@
     [
      "2026-07-12T18:25:18.866119+09:00",
      "좌우 대덕이 대표 도약 산업 경쟁력 연구환경이 이용덕 시대"
+    ],
+    [
+     "2026-07-12T18:30:59.147097+09:00",
+     "써라 공장 애플에 관세 피하려던 인텔 압박 트럼프"
     ]
    ],
    "seen_urls": [
-    "https://www.newscj.com/news/articleView.html?idxno=3415937",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20260711010004014",
     "https://www.theguru.co.kr/news/article.html?no=104192",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=311516",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7173878",
@@ -2144,11 +2142,11 @@
     "http://www.fnnews.com/news/202607121819129148",
     "https://www.hani.co.kr/arti/society/internalmove/1267892.html",
     "http://www.fnnews.com/news/202607121822328933",
-    "http://www.hellodd.com/news/articleView.html?idxno=112430"
+    "http://www.hellodd.com/news/articleView.html?idxno=112430",
+    "http://www.jjn.co.kr/news/articleView.html?idxno=1046163",
+    "https://www.newsis.com/view/NISX20260712_0003705843"
    ],
    "seen_titles": [
-    "SK하이닉스,미국나스닥입성...'개장타종'행사최태원회장등대거...",
-    "SK하이닉스,美증시화려한데뷔…\"AI생태계가까이서혁신선도\"",
     "스마트머니,SK하이닉스롱포지션차익실현",
     "달러-원,뉴욕장서1,500원선웃돌아",
     "[사설]韓美中반도체‘돈의전쟁’…“초과이윤분배”운운할때아...",
@@ -3646,10 +3644,12 @@
     "삼성\"용인반도체공장첫팹1~2년앞당겨2029년가동\"[용인반도체도...",
     "7월13일인사",
     "SK하닉나스닥첫날13%급등…통화스와프급달러유입",
-    "이용덕대표\"AI시대,연구환경이경쟁력···산업도약좌우\"대덕이..."
+    "이용덕대표\"AI시대,연구환경이경쟁력···산업도약좌우\"대덕이...",
+    "\"메가프로젝트2-3차이어질것···전북,후속대응집중을\"",
+    "관세100%피하려던애플에트럼프\"인텔공장써라\"압박"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T18:25:18.866119+09:00"
+   "last_run": "2026-07-12T18:30:59.147097+09:00"
   }
  },
  "press_names": {
