@@ -542,13 +542,21 @@
     [
      "2026-07-13T07:40:47.610590+09:00",
      "금융 반도체 연예 열렸다 부상 장세 흔들리자 순환매"
+    ],
+    [
+     "2026-07-13T07:45:25.930985+09:00",
+     "수주 목표가 하반기 한화오션 관건 해양플랜트"
+    ],
+    [
+     "2026-07-13T07:45:25.930985+09:00",
+     "삼성전자 수준 KB 메모리 내년 전례 공급제약 없는"
+    ],
+    [
+     "2026-07-13T07:45:25.930985+09:00",
+     "승부처 끝났다 치킨게임 AI가"
     ]
    ],
    "seen_urls": [
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683394",
-    "https://www.newsway.co.kr/news/view?ud=2026071015101975658",
-    "https://www.sedaily.com/article/20066501",
-    "https://www.yna.co.kr/view/PYH20260711012600013?input=1196m",
     "https://zdnet.co.kr/view/?no=20260711081021",
     "https://economist.co.kr/article/view/ecn202607110002",
     "https://www.g-enews.com/view.php?ud=2026071108143683010c8c1c064d_1",
@@ -2044,13 +2052,13 @@
     "http://www.footballist.co.kr/news/articleView.html?idxno=212192",
     "https://www.etoday.co.kr/news/view/2602845",
     "https://slownews.kr/163090",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1716042"
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1716042",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000049392",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01948326645514192",
+    "https://www.hankyung.com/article/2026071305516",
+    "https://news.bizwatch.co.kr/article/mobile/2026/07/10/0024"
    ],
    "seen_titles": [
-    "[대만칩통신]\"공장지으라더니일할사람이없다\"…TSMC,美엔지니어가...",
-    "[칩톡]TSMC물88%재이용할때삼성·SK아직40%대?…'돌려쓰는물'경...",
-    "반도체에명암엇갈리는'경제투톱'",
-    "\"돈불려야되는데\"...퇴직연금30%,현금으로만?주식꽉채울방법",
     "[청년발언대]반도체초정밀공정의핵심,AMHS",
     "[중화학ON]\"공장은빨리짓는데\"…유럽노리는中배터리,문제는'운영...",
     "[ETF머니플로우]국내대형주부진에미래에셋자산운용'TIGER미국S&P500...",
@@ -3546,10 +3554,14 @@
     "제주와뮌헨이만난다④키미히의환상적인킥,무시알라의무결점드...",
     "KB증권“삼성전자,반도체역사상전례없는‘공급절벽’의수혜주⋯...",
     "보완수사권국물도남김없이폐지,민주당교통정리도안됐다:슬로우...",
-    "순환매장세열렸다…반도체흔들리자연예·금융株부상"
+    "순환매장세열렸다…반도체흔들리자연예·금융株부상",
+    "\"뉴욕증시달군다\"SK하이닉스ADR연계레버리지ETF봇물",
+    "한화오션,하반기해양플랜트수주관건…목표가↓-SK",
+    "\"삼성전자,내년메모리공급제약전례없는수준\"-KB",
+    "[통신,그후]치킨게임끝났다…AI가승부처"
    ],
    "initialized": true,
-   "last_run": "2026-07-13T07:40:47.610590+09:00"
+   "last_run": "2026-07-13T07:45:25.930985+09:00"
   }
  },
  "press_names": {
