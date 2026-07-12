@@ -558,11 +558,17 @@
     [
      "2026-07-12T10:25:20.633413+09:00",
      "코스피 비싸다 오를까 본주도 가격 하닉"
+    ],
+    [
+     "2026-07-12T10:30:54.111224+09:00",
+     "여자친구들과 KCC U10 시시하다 대표팀 헝가인 경기는"
+    ],
+    [
+     "2026-07-12T10:30:54.111224+09:00",
+     "농산물 곡물보다 주목 슈퍼 관측에 질주 코코아 엘니뇨 ETN"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH20260710175119FoW",
-    "https://www.hani.co.kr/arti/economy/finance/1267743.html",
     "https://www.sedaily.com/article/20066378",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=51397",
     "https://www.hankyung.com/article/2026071086201",
@@ -2060,11 +2066,11 @@
     "https://magazine.hankyung.com/business/article/202607094075b",
     "http://www.newstomato.com/ReadNews.aspx?no=1306865&inflow=N",
     "https://biz.sbs.co.kr/article_hub/20000321936?division=NAVER",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=01426806645513864"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01426806645513864",
+    "http://www.rookie.co.kr/news/articleView.html?idxno=124745",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01430086645513864"
    ],
    "seen_titles": [
-    "SK하이닉스'미국상장'축하…뉴욕에뜬초대형태극기",
-    "방미통위,정책홍보에'AI'입혔다…숏폼·모니터링업무자동화",
     "'호갱'한국:왜기업이잘못해도소비자만더피해볼까",
     "“韓서더빨리생산할수록…美빅테크경쟁력에도움”",
     "웨이퍼부터자본시장까지…美,AI반도체공급망빨아들인다",
@@ -3562,10 +3568,12 @@
     "“막쓰던시대끝났다?”…‘토성비’뜨자흔들린반도체",
     "삼성전자용인반도체공장1∼2년조기완공…2029년첫가동",
     "오르면레버리지,내리면곱버스…출렁이는코스피에단타몰렸다",
-    "SK하닉,美서16%더비싸다…코스피본주도가격오를까?"
+    "SK하닉,美서16%더비싸다…코스피본주도가격오를까?",
+    "[슈퍼컵]\"여자친구들과경기는좀시시하다\"KCCU10대표팀헝가인...순...",
+    "‘슈퍼엘니뇨’관측에농산물ETN질주…곡물보다코코아주목"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T10:25:20.633413+09:00"
+   "last_run": "2026-07-12T10:30:54.111224+09:00"
   }
  },
  "press_names": {
