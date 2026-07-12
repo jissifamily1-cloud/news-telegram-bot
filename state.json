@@ -550,10 +550,13 @@
     [
      "2026-07-12T21:30:58.740502+09:00",
      "제주 대전"
+    ],
+    [
+     "2026-07-12T21:35:57.408830+09:00",
+     "임인환 의장 TK 통합 대구시의회 없이 흔들림"
     ]
    ],
    "seen_urls": [
-    "https://news.cpbc.co.kr/article/1174285?division=NAVER",
     "https://www.munhwa.com/article/11601885",
     "https://www.joongang.co.kr/article/25444234",
     "https://en.yna.co.kr/view/AEN20260711000400315?input=2106m",
@@ -2052,10 +2055,10 @@
     "https://www.vegannews.co.kr/news/article.html?no=383975",
     "https://www.yna.co.kr/view/AKR20260712052600007?input=1195m",
     "https://www.news1.kr/sports/soccer/6225571",
-    "https://www.sportsseoul.com/news/read/1622054"
+    "https://www.sportsseoul.com/news/read/1622054",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=553611"
    ],
    "seen_titles": [
-    "블룸버그\"삼성따라잡았나?\"…최태원\"행복한회사가좋은회사\"",
     "SK하이닉스美상장…대만·일본경제지주목한지점달랐다",
     "최태원“삼성과경쟁이목표아냐...이해관계자만족이우선”",
     "[포토]SK하이닉스미국나스닥상장기념식",
@@ -3554,10 +3557,11 @@
     "7월셋째주753가구공급…서울·울산14일1순위",
     "[프로축구서귀포전적]제주0-0대전",
     "[K리그1]전적종합(12일)",
-    "‘좀비’처럼버티고버텨낸안양,‘유효슛15개’인천1-0으로꺾고..."
+    "‘좀비’처럼버티고버텨낸안양,‘유효슛15개’인천1-0으로꺾고...",
+    "임인환대구시의회의장\"TK통합,흔들림없이추진\""
    ],
    "initialized": true,
-   "last_run": "2026-07-12T21:35:22.150776+09:00"
+   "last_run": "2026-07-12T21:35:57.408830+09:00"
   }
  },
  "press_names": {
