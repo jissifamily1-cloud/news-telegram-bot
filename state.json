@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-12T08:10:49.817357+09:00",
-     "부산 복귀 흥아해운 구상 남부 해양수도 가속화 본사"
-    ],
-    [
-     "2026-07-12T08:15:27.427211+09:00",
-     "교통망 집값 본궤도 GTX 들썩 기대감에 착공"
-    ],
-    [
-     "2026-07-12T08:15:27.427211+09:00",
-     "열흘 변동성에 증시 예금으로 정기예금 유입 만에 U턴 12조"
-    ],
-    [
      "2026-07-12T08:20:48.594301+09:00",
      "SK하이닉스ADR 흥행 번질까 나스닥발 코스피까지 데뷔 온기"
     ],
@@ -462,15 +450,21 @@
     [
      "2026-07-12T14:10:48.667656+09:00",
      "SK하이닉스가 외환 환율 체력 숨통 틔운"
+    ],
+    [
+     "2026-07-12T14:15:29.842914+09:00",
+     "16일 만에 기준금리 3년6개월 올릴까 금통위서"
+    ],
+    [
+     "2026-07-12T14:15:29.842914+09:00",
+     "동박 주목 쇼티지 현실화 네트워크 확산에 롯데에너지머티리얼즈"
+    ],
+    [
+     "2026-07-12T14:15:29.842914+09:00",
+     "개미들 환불 28만전자 탈출한 주식 220만닉스에"
     ]
    ],
    "seen_urls": [
-    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539125",
-    "https://www.newspim.com/news/view/20260710001460",
-    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539113",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=05307046645513208",
-    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539116",
-    "https://www.hankyung.com/article/2026071083056",
     "https://www.hankyung.com/article/2026071087371",
     "https://www.mk.co.kr/article/12095771",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8607877",
@@ -1964,15 +1958,15 @@
     "https://www.news1.kr/finance/market-exr/6225310",
     "https://www.mk.co.kr/article/12096364",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1716021",
-    "https://www.ajunews.com/view/20260712140249414"
+    "https://www.ajunews.com/view/20260712140249414",
+    "https://m.sports.naver.com/general/article/065/0000299619",
+    "https://www.jbnews.com/news/articleView.html?idxno=1507470",
+    "https://biz.newdaily.co.kr/site/data/html/2026/07/12/2026071200059.html",
+    "https://m.skyedaily.com/news_view.html?ID=307670",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467679",
+    "https://www.seoul.co.kr/news/economy/securities/2026/07/10/20260710500247?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "[포토]김재희,버디위해볼을놓는다",
-    "李대통령,몽골국빈만찬에韓기업인40여명대동…선물은'국궁·워치...",
-    "李대통령,몽골대통령에국궁세트·스마트워치선물",
-    "[포토]김재희,파세이브홀아웃",
-    "[포토]김재희,첫홀버디를노린다",
-    "[포토]김재희,들어가라첫홀버디퍼트",
     "[포토]김재희,핀앞에떨어져라",
     "[포토]김재희,강력한임팩트",
     "[종목분석]SK스퀘어주가,하이닉스가치가얼마나전달되나",
@@ -3466,10 +3460,16 @@
     "'통화스와프급'265억달러유입…SK하이닉스환전물량에외환시장들썩",
     "국힘윤상현“주택불안,고환율,고위험레버리지ETF...우리가알던김...",
     "SK하이닉스ADR,14일공모대금납입…29일신주추가상장예정",
-    "[아주사설│기본·원칙·상식]SK하이닉스가틔운환율숨통,외환체력..."
+    "[아주사설│기본·원칙·상식]SK하이닉스가틔운환율숨통,외환체력...",
+    "[JB화보]U128강전,강동SK-원주YKK의경기화보",
+    "공주마이스터고,SK하이닉스합격자5명배출",
+    "SK하이닉스가무너뜨린환율1500원…달러예금106조'역주행'",
+    "16일금통위서3년6개월만에기준금리올릴까",
+    "동박쇼티지현실화…AI네트워크확산에롯데에너지머티리얼즈주목",
+    "“주식환불좀”28만전자·220만닉스에탈출한개미들[내가샀다]"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T14:10:48.667656+09:00"
+   "last_run": "2026-07-12T14:15:29.842914+09:00"
   }
  },
  "press_names": {
