@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-12T10:45:26.454627+09:00",
-     "변수 대책까지 ETF 이목 흔들 금융시장 금리인상에"
-    ],
-    [
-     "2026-07-12T10:45:26.454627+09:00",
-     "금융감독원장 경고 과열 레버리지 투자 금융교육 이찬진"
-    ],
-    [
      "2026-07-12T11:05:21.616168+09:00",
      "내린 수확 호우주의보 풍성한 vs 기업 여름"
     ],
@@ -470,15 +462,21 @@
     [
      "2026-07-12T16:45:24.697230+09:00",
      "최태원 생산공장 여건 건설 되면 가능 메모리"
+    ],
+    [
+     "2026-07-12T16:50:50.099280+09:00",
+     "통항 110척에서 호르무즈 13척으로 급감"
+    ],
+    [
+     "2026-07-12T16:50:50.099280+09:00",
+     "기술 패키징 과기정통부 논의 반도체 성과교류회 개최"
+    ],
+    [
+     "2026-07-12T16:50:50.099280+09:00",
+     "성장세 3대장 확산 일제히 미국 실적 K뷰티 시장 유럽"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/AKR202607102234095Ud",
-    "https://www.viva100.com/article/20260710500888",
-    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=430968",
-    "https://imnews.imbc.com/news/2026/world/article/6836639_36925.html",
-    "https://www.news1.kr/world/northeast-asia/6224798",
-    "https://www.hani.co.kr/arti/economy/economy_general/1267765.html",
     "https://www.news1.kr/photos/8003107",
     "https://www.news1.kr/world/international-economy/6224800",
     "http://www.yonhapnewstv.co.kr/news/MYH20260710224439Sjt",
@@ -1972,15 +1970,15 @@
     "https://www.g-enews.com/view.php?ud=202607121153053594fda4f5ab74_1",
     "https://www.hidomin.com/news/articleView.html?idxno=712924",
     "https://www.ajunews.com/view/20260712135601388",
-    "https://www.econovill.com/news/articleView.html?idxno=744950"
+    "https://www.econovill.com/news/articleView.html?idxno=744950",
+    "https://www.hani.co.kr/arti/economy/marketing/1267873.html",
+    "https://www.donga.com/news/Economy/article/all/20260712/134282045/1",
+    "https://www.sidae.com/article/2026071216410487250",
+    "https://www.g-enews.com/view.php?ud=202607110725509538fda4f5ab74_1",
+    "https://www.ziksir.com/news/articleView.html?idxno=139787",
+    "http://www.fnnews.com/news/202607121438324054"
    ],
    "seen_titles": [
-    "코스피,반도체투심회복에7400선복귀",
-    "[속보]뉴욕증시,상승세로출발…SK하이닉스,나스닥입성",
-    "SK하이닉스,미국나스닥ADR상장세리머니",
-    "[속보]SK하이닉스,美나스닥상장,거래개시…최태원·곽노정오프닝...",
-    "SK하이닉스,미국나스닥상장",
-    "SK하이닉스,美나스닥입성…40조원실탄확보해AI승부수",
     "최태원오프닝벨…SK하이닉스,나스닥시대열었다",
     "SK하이닉스,美나스닥입성…글로벌투자자저변확대",
     "[속보]SK하이닉스ADR미국나스닥시장입성",
@@ -3474,10 +3472,16 @@
     "이란,호르무즈봉쇄선언…美3차공습",
     "SK하닉나스닥상장,중동리스크뚫은'환율방파제'",
     "뉴욕서거래시작한SK하이닉스…글로벌투자지도바뀐다",
-    "최태원\"여건되면美메모리생산공장건설가능\""
+    "최태원\"여건되면美메모리생산공장건설가능\"",
+    "반도체업계‘증설속도전’…나스닥상장,최태원“수요증가기하급...",
+    "환율1400원대로내려오자‘달러쇼핑’…달러예금9조원급증",
+    "SK하이닉스미상장자금265억달러유입…환율안정변수부상",
+    "호르무즈통항110척에서13척으로급감",
+    "과기정통부,반도체성과교류회개최…AI·패키징기술논의",
+    "미국,유럽시장확산..K뷰티3대장,실적일제히성장세"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T16:45:24.697230+09:00"
+   "last_run": "2026-07-12T16:50:50.099280+09:00"
   }
  },
  "press_names": {
