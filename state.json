@@ -453,8 +453,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12095771",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8607877",
     "https://www.newsis.com/view/NISX20260710_0003704963",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05333286645513208",
     "https://imnews.imbc.com/news/2026/politics/article/6836604_36911.html",
@@ -1952,11 +1950,11 @@
     "https://m.skyedaily.com/news_view.html?ID=307670",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467679",
     "https://www.seoul.co.kr/news/economy/securities/2026/07/10/20260710500247?wlog_tag3=naver",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16132010"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16132010",
+    "http://www.fnnews.com/news/202607121409454396",
+    "http://www.newstomato.com/ReadNews.aspx?no=1306873&inflow=N"
    ],
    "seen_titles": [
-    "[포토]김재희,강력한임팩트",
-    "[종목분석]SK스퀘어주가,하이닉스가치가얼마나전달되나",
     "[포토]김재희,첫타구방향괜찮아",
     "[포토]김재희,미소출발",
     "[포토]김재희,차분하게핀을보다",
@@ -3454,10 +3452,12 @@
     "16일금통위서3년6개월만에기준금리올릴까",
     "동박쇼티지현실화…AI네트워크확산에롯데에너지머티리얼즈주목",
     "“주식환불좀”28만전자·220만닉스에탈출한개미들[내가샀다]",
-    "삼성전자·SK하이닉스반등조건…AI투자·ADR수급주목"
+    "삼성전자·SK하이닉스반등조건…AI투자·ADR수급주목",
+    "삼성전자,용인반도체클러스터1기팹2029년조기완공추진",
+    "SK하닉,나스닥상장‘40조조달’…최태원“메모리수요폭발적”"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T14:20:49.703698+09:00"
+   "last_run": "2026-07-12T14:25:20.343836+09:00"
   }
  },
  "press_names": {
