@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-12T05:35:21.571989+09:00",
-     "경쟁 신규투자 완공 메모리 글로벌 불붙은 당기고 공장 대규모"
-    ],
-    [
-     "2026-07-12T05:35:21.571989+09:00",
-     "SK하닉 개미 잭팟 못하는 웃지 나스닥 이유"
-    ],
-    [
      "2026-07-12T05:41:11.017212+09:00",
      "SK하닉 삼전 녹아내린다 곡소리 계좌가 레버리지에 널뛰는"
     ],
@@ -582,12 +574,13 @@
     [
      "2026-07-12T11:30:54.071862+09:00",
      "앞두고 이러다 ETF 단일종목 장동혁 선거 에브리데이 블랙 될라"
+    ],
+    [
+     "2026-07-12T11:40:47.835842+09:00",
+     "사회적 SKT 소프트뱅크 측정 사회적가치연구원과 MOU 가치"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000321847?division=NAVER",
-    "https://biz.sbs.co.kr/article_hub/20000321848?division=NAVER",
-    "https://www.gokorea.kr/news/articleView.html?idxno=871822",
     "http://www.econotelling.com/news/articleView.html?idxno=20885",
     "https://www.gokorea.kr/news/articleView.html?idxno=871821",
     "https://www.mk.co.kr/article/12095686",
@@ -2084,12 +2077,12 @@
     "https://www.khan.co.kr/article/202607121124001",
     "https://www.munhwa.com/article/11602006",
     "https://www.aitimes.com/news/articleView.html?idxno=212667",
-    "https://www.newsis.com/view/NISX20260712_0003705624"
+    "https://www.newsis.com/view/NISX20260712_0003705624",
+    "https://www.joongangenews.com/news/articleView.html?idxno=532229",
+    "http://www.bizwnews.com/news/articleView.html?idxno=140470",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=355824"
    ],
    "seen_titles": [
-    "나스닥서40조쓸어담았다...SK하이닉스의압도적가치[퇴근길30초경...",
-    "18년전美공장폐쇄굴욕딛고…월가에태극기수놓은하이닉스",
-    "[기자수첩]항만주권침탈방조인천민주당,부산처럼뒷짐질땐가",
     "[기자수첩]총수들의AI인프라혁명,'하청'넘어'지배'로가려면",
     "하닉본주는약보합…외국인1.7조팔아치워",
     "SKT,KKRAI데이터센터인수금융검토설에\"확정된사항없어\"",
@@ -3586,10 +3579,13 @@
     "SK하이닉스미국상장흥행으로월요일코스피,훈풍부나",
     "장동혁“이러다‘블랙에브리데이’될라…선거앞두고단일종목ETF...",
     "곽노정SK하이닉스사장\"2027년사상최악의메모리공급난올것\"",
-    "韓·美반도체팹증설경쟁속…中CXMT'6조IPO'돌입"
+    "韓·美반도체팹증설경쟁속…中CXMT'6조IPO'돌입",
+    "삼전·닉스레버리지ETF상폐론...당국\"시장영향·보완필요성\"제기",
+    "SK하이닉스,'화려한'나스닥데뷔전가져…거래첫날168달러로급등마...",
+    "SKT,日소프트뱅크·사회적가치연구원과'AI사회적가치측정'MOU"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T11:35:20.835384+09:00"
+   "last_run": "2026-07-12T11:40:47.835842+09:00"
   }
  },
  "press_names": {
