@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-12T12:35:23.134168+09:00",
-     "생산공장 모락모락 반도체 가동설 용인 조기 삼성전자"
-    ],
-    [
-     "2026-07-12T12:35:23.134168+09:00",
-     "삼성 공주마이스터고 합격자 다수 배출"
-    ],
-    [
      "2026-07-12T12:50:44.978200+09:00",
      "성과급 판매 지갑 이천 수입차 껑충 열렸다 동탄 폭탄에"
     ],
@@ -646,14 +638,13 @@
     [
      "2026-07-12T18:35:19.926531+09:00",
      "물가 효과 하방 중동전쟁 SK하이닉스 우위"
+    ],
+    [
+     "2026-07-12T18:40:48.646487+09:00",
+     "실적보다 호황 시험대 지속성 메모리"
     ]
    ],
    "seen_urls": [
-    "https://www.theguru.co.kr/news/article.html?no=104258",
-    "https://www.joongang.co.kr/article/25444179",
-    "https://www.g-enews.com/view.php?ud=202607061552261719906806b77b_1",
-    "https://www.joongang.co.kr/article/25444172",
-    "https://news.tf.co.kr/read/life/2342216.htm",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=81889",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=81891",
     "https://www.hankyung.com/article/202607108890i",
@@ -2148,14 +2139,14 @@
     "https://www.newsis.com/view/NISX20260712_0003705843",
     "http://www.fnnews.com/news/202607121831272860",
     "https://www.hani.co.kr/arti/opinion/editorial/1267898.html",
-    "https://www.seoulfn.com/news/articleView.html?idxno=633178"
+    "https://www.seoulfn.com/news/articleView.html?idxno=633178",
+    "http://www.kjdaily.com/article.php?aid=1783848893682168019",
+    "https://www.g-enews.com/view.php?ud=202607121251491120112616b072_1",
+    "https://sateconomy.co.kr/news/view/1065604915008309",
+    "http://www.jndn.com/article.php?aid=1783848741435921008",
+    "https://www.g-enews.com/view.php?ud=202607121132044374112616b072_1"
    ],
    "seen_titles": [
-    "SK최태원\"생산능력2배늘려도공급부족…美투자논의중\"",
-    "SK하이닉스,나스닥입성…곽노정\"AI있는곳,SK하이닉스함께할것\"",
-    "\"파산문턱서나스닥까지\"SK하이닉스,美외국기업IPO사상최대규모...",
-    "SK하이닉스,美나스닥화려한데뷔…40조실탄AI메모리확대투자[종...",
-    "최태원“美메모리팹후보지실사중…조건맞으면투자”",
     "SK하이닉스,나스닥입성…‘AI메모리리더십’글로벌자본시장으로",
     "SK하이닉스,미나스닥ADR거래시작…최태원'오프닝벨'",
     "\"SK하닉,나스닥데뷔와함께기대감고조…공모가대비21%↑예상",
@@ -3650,10 +3641,15 @@
     "관세100%피하려던애플에트럼프\"인텔공장써라\"압박",
     "美·유럽매장속속입점…K뷰티실적기대감확대",
     "[사설]SK하이닉스성공적나스닥데뷔,투자·환율에청신호",
-    "[주간환율전망]'SK하이닉스효과'하방우위···美물가·중동전쟁변..."
+    "[주간환율전망]'SK하이닉스효과'하방우위···美물가·중동전쟁변...",
+    "[광매칼럼]‘호남반도체’,희망고문안되려면",
+    "[AI메모리슈퍼사이클의그늘]SK하이닉스ADR,HBM리레이팅시험대",
+    "SK하이닉스나스닥데뷔,AI메모리공급전쟁의신호탄",
+    "반도체인력양성할교육인프라확충시급",
+    "[AI메모리슈퍼사이클의그늘]AI메모리호황,실적보다지속성시험대"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T18:35:19.926531+09:00"
+   "last_run": "2026-07-12T18:40:48.646487+09:00"
   }
  },
  "press_names": {
