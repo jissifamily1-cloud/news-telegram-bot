@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-12T07:30:55.524436+09:00",
-     "서울 제공 공급 에어 SK인텔릭스 DDP에 나무엑스 솔루션등"
-    ],
-    [
-     "2026-07-12T07:30:55.524436+09:00",
-     "반등 코스피 흥행 SK하이닉스 될까 불씨"
-    ],
-    [
      "2026-07-12T07:35:24.197467+09:00",
      "반도체 최태원 공개 대담서 글로벌 투자자에 청사진"
     ],
@@ -461,9 +453,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=05084006645513208",
-    "https://view.asiae.co.kr/article/2026071019341697337",
-    "https://www.yna.co.kr/view/AKR20260710159000001?input=1195m",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05093846645513208",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05087286645513208",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05090566645513208",
@@ -1960,12 +1949,12 @@
     "https://news.jtbc.co.kr/article/NB12307819?influxDiv=NAVER",
     "https://m.skyedaily.com/news_view.html?ID=307657",
     "https://www.ekn.kr/web/view.php?key=20260712026471648",
-    "https://www.incheonilbo.com/news/articleView.html?idxno=1327092"
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1327092",
+    "https://www.ccdailynews.com/news/articleView.html?idxno=2427512",
+    "https://www.m-i.kr/news/articleView.html?idxno=1390571",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1716019"
    ],
    "seen_titles": [
-    "롤러코스피에사이드카벌써34회…변동성이뉴노멀된韓증시",
-    "이재성·하정우가말하는AI시대생존법\"부산은이미준비된무기있...",
-    "[뉴스룸오프닝]'경찰청장'대국민사과/'40조원'최대규모/아랫집...",
     "정부AI활용ESS사업서배터리3사경쟁…삼성SDI점유율66%",
     "SK하이닉스,뉴욕증시최대외국기업상장…JP모간빌딩태극기점등으...",
     "SK하이닉스,美IPO로‘40조실탄’…외국기업중사상최대",
@@ -3462,10 +3451,13 @@
     "SK하이닉스,나스닥서40조…'통화스와프급'달러공급",
     "60조쏟아붓는피지컬AI…‘기술소비국’이냐‘제조허브’냐",
     "“역대급저평가”라는데…월가가코스피망설이는이유[머니+]",
-    "한·몽'황금시대'선언…CEPA·핵심광물로경제안보외교확장"
+    "한·몽'황금시대'선언…CEPA·핵심광물로경제안보외교확장",
+    "SK하이닉스,나스닥시장입성",
+    "\"메모리판가최대100%급등\"삼성전자·SK하이닉스,역대급호황이어...",
+    "메모리슈퍼사이클에3000조원베팅…삼성·하이닉스·마이크론'증설전..."
    ],
    "initialized": true,
-   "last_run": "2026-07-12T13:25:22.121209+09:00"
+   "last_run": "2026-07-12T13:30:56.510026+09:00"
   }
  },
  "press_names": {
