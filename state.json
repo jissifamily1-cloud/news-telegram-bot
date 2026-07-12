@@ -462,17 +462,17 @@
     [
      "2026-07-12T16:40:49.306077+09:00",
      "영업이익 4배 대기 껑충 호재까지 스페이스X 1년새"
+    ],
+    [
+     "2026-07-12T16:45:24.697230+09:00",
+     "시작한 투자지도 글로벌 거래 바뀐다 뉴욕서 SK하이닉스"
+    ],
+    [
+     "2026-07-12T16:45:24.697230+09:00",
+     "최태원 생산공장 여건 건설 되면 가능 메모리"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/industry/general-industry/6224799",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607102237095390766",
-    "https://www.newscj.com/news/articleView.html?idxno=3416179",
-    "https://www.newsis.com/view/NISX20260710_0003705026",
-    "https://www.sedaily.com/article/20066457",
-    "https://www.news1.kr/photos/8003106",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=272870",
-    "https://www.news1.kr/photos/8003105",
     "http://www.yonhapnewstv.co.kr/news/AKR202607102234095Ud",
     "https://www.viva100.com/article/20260710500888",
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=430968",
@@ -1964,17 +1964,17 @@
     "https://www.joongang.co.kr/article/25444408",
     "https://www.joongang.co.kr/article/25444406",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02102486645513864",
-    "https://www.mk.co.kr/article/12096437"
+    "https://www.mk.co.kr/article/12096437",
+    "https://www.sportsseoul.com/news/read/1622029",
+    "https://www.sportsseoul.com/news/read/1622028",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02105766645513864",
+    "https://www.news1.kr/politics/general-politics/6225426",
+    "https://www.g-enews.com/view.php?ud=202607121153053594fda4f5ab74_1",
+    "https://www.hidomin.com/news/articleView.html?idxno=712924",
+    "https://www.ajunews.com/view/20260712135601388",
+    "https://www.econovill.com/news/articleView.html?idxno=744950"
    ],
    "seen_titles": [
-    "SK하이닉스‘외국기업최고몸값’화려한데뷔…40조실탄,용인·청...",
-    "[속보]SK하이닉스,美나스닥상장…최태원,오프닝벨울렸다",
-    "SK하이닉스,美나스닥입성…자본심장부에울린'오프닝벨'",
-    "SK하이닉스,美나스닥입성…'AI파트너'글로벌영토확장",
-    "[AIMY뉴스]뉴욕반도체주프리뷰...SK하이닉스나스닥데뷔앞두고차...",
-    "[속보]곽노정\"AI중심지에서파트너십구축\"…SK하이닉스,ADR거래개...",
-    "뉴욕울린오프닝벨…SK하이닉스,세계를두드리다",
-    "SK하이닉스ADR상장식참석한최태원SK회장",
     "코스피,반도체투심회복에7400선복귀",
     "[속보]뉴욕증시,상승세로출발…SK하이닉스,나스닥입성",
     "SK하이닉스,미국나스닥ADR상장세리머니",
@@ -3466,10 +3466,18 @@
     "코스피고점예견했던투자보고서“장기적으로1만피갈것”",
     "2년만에파탄난세기의파트너십…애플,“오픈AI가영업비밀훔쳤다”...",
     "M&A대신공급망재편…울산석화새판짜기시동",
-    "1년새영업이익4배'껑충'스페이스X호재까지대기"
+    "1년새영업이익4배'껑충'스페이스X호재까지대기",
+    "美상무장관“삼성·SK하이닉스,미국에생산시설지어라”…한국반도...",
+    "시총1.2조달러몸값입증한SK하이닉스,나스닥상장으로‘마이크론...",
+    "‘이강인옛동료’아이아스,제주SK9번달고K리그정복시동",
+    "대통령,부처별업무보고,부동산공개토론회…이번주(13~19일)주요일...",
+    "이란,호르무즈봉쇄선언…美3차공습",
+    "SK하닉나스닥상장,중동리스크뚫은'환율방파제'",
+    "뉴욕서거래시작한SK하이닉스…글로벌투자지도바뀐다",
+    "최태원\"여건되면美메모리생산공장건설가능\""
    ],
    "initialized": true,
-   "last_run": "2026-07-12T16:40:49.306077+09:00"
+   "last_run": "2026-07-12T16:45:24.697230+09:00"
   }
  },
  "press_names": {
