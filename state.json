@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-12T04:05:20.992879+09:00",
-     "4사 따져보니 14조 담합 효과 26조 혐의와 모두 정유 유가"
-    ],
-    [
      "2026-07-12T05:01:00.559828+09:00",
      "나눌까 이재용 어떤 핵심 관전 젠슨 만나 얘기 9개월만에 회장"
     ],
@@ -534,12 +530,13 @@
     [
      "2026-07-12T10:05:20.129450+09:00",
      "비트코인 높아졌다 투기꾼서 주도층 기관 한층 바닥 가상자산"
+    ],
+    [
+     "2026-07-12T10:07:24.037444+09:00",
+     "열기 반도체 중견건설사까지 번질까"
     ]
    ],
    "seen_urls": [
-    "https://news.mtn.co.kr/news-detail/2026071016140332019",
-    "https://www.sedaily.com/article/20066370",
-    "https://www.sedaily.com/article/20066368",
     "https://www.hankyung.com/article/2026071086221",
     "https://www.etnews.com/20260710000275",
     "http://www.dailypop.kr/news/articleView.html?idxno=100512",
@@ -2036,12 +2033,12 @@
     "https://www.yna.co.kr/view/AKR20260710112900054?input=1195m",
     "https://economist.co.kr/article/view/ecn202607120004",
     "https://www.itbiznews.com/news/articleView.html?idxno=218883",
-    "https://www.ddaily.co.kr/page/view/2026071101240093950"
+    "https://www.ddaily.co.kr/page/view/2026071101240093950",
+    "https://www.m-i.kr/news/articleView.html?idxno=1390404",
+    "https://www.seoulfn.com/news/articleView.html?idxno=633163",
+    "https://www.m-i.kr/news/articleView.html?idxno=1390358"
    ],
    "seen_titles": [
-    "정부,첫배전망ESS사업…삼성SDI가배터리66%공급",
-    "금융위,중기특화증권사7개지정…코스닥한파속'속도조절론'부상",
-    "삼성SDI,첫'AI배전망ESS'66%수주…\"3차정부입찰'청신호'\"",
     "SK인텔릭스,서울디자인재단과DDP스마트디자인환경조성위해맞손",
     "美\"삼성·SK하이닉스도와라\"…메모리생산압박본격화",
     "SK하이닉스나스닥IPO대흥행,원·달러환율1,500원선흔들",
@@ -3538,10 +3535,13 @@
     "광주군공항248만평개발구상'리셋'…반도체맞춰전면재검토",
     "반도체피크아웃,오히려매수타이밍?…\"2분기실적시즌,반전모멘텀...",
     "해외한인기술인재복귀지원…정부,'K-테크파이오니어즈'출범",
-    "\"비트코인바닥한층높아졌다\"…가상자산주도층,투기꾼서'기관'으..."
+    "\"비트코인바닥한층높아졌다\"…가상자산주도층,투기꾼서'기관'으...",
+    "데이터센터구축확대에건설업계기대감'솔솔'",
+    "SK하이닉스,美나스닥입성···글로벌AI반도체리더십넓힌다",
+    "[기획]반도체열기,중견건설사까지번질까"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T10:05:20.129450+09:00"
+   "last_run": "2026-07-12T10:07:24.037444+09:00"
   }
  },
  "press_names": {
