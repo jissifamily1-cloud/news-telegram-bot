@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-12T23:40:49.745029+09:00",
-     "돌풍 원정에서 10경기째 멈췄다 강원 서울"
-    ],
-    [
      "2026-07-12T23:50:49.945271+09:00",
      "반도체 쏠림 세수 필요 미래대응기금 산업 국세청장 걱정"
     ],
@@ -278,11 +274,17 @@
     [
      "2026-07-13T05:35:21.694653+09:00",
      "다시 흥행 안고 SK하닉 삼성전자도 날까"
+    ],
+    [
+     "2026-07-13T05:40:53.620012+09:00",
+     "삼성 하이닉스 설명회 대학보다 몰린 전국서 충북반도체고"
+    ],
+    [
+     "2026-07-13T05:40:53.620012+09:00",
+     "둔화 실적 의회 ASML 반도체주 TSMC 워시 기대 이끌 인플레 보고도"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026071088397",
-    "https://www.sedaily.com/article/20066314",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467479",
     "https://www.joongang.co.kr/article/25444254",
     "https://www.mt.co.kr/stock/2026/07/11/2026071017554776263",
@@ -1780,11 +1782,11 @@
     "https://www.newsverse.kr/news/articleView.html?idxno=10930",
     "https://www.koreaherald.com/article/10806063",
     "https://www.news1.kr/world/international-economy/6225607",
-    "https://www.dt.co.kr/article/12072490"
+    "https://www.dt.co.kr/article/12072490",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008653978&plink=ORI&cooper=NAVER",
+    "https://www.mt.co.kr/world/2026/07/13/2026071121360346178"
    ],
    "seen_titles": [
-    "SK하이닉스성공적나스닥데뷔‥첫날13%급등",
-    "SK하이닉스,나스닥첫날168달러마감…공모가대비13%급등",
     "[뉴욕증시]휴전종료선언에도일단'고'…강세마감",
     "엔비디아'훈풍'...미국증시3대지수'상승'",
     "[뉴욕증시]메타·엔비디아랠리에3대지수상승…SK하이닉스13%폭등",
@@ -3282,10 +3284,12 @@
     "[오늘의경제뉴스]SK하이닉스나스닥흥행…'통화스와프급'달러에환...",
     "[Editorial]Wherecapitalflows",
     "\"TSMC·삼전닉스비중너무커졌다…신흥국펀드들AI쏠림줄인다\"",
-    "SK하닉흥행안고...삼성전자도다시날까"
+    "SK하닉흥행안고...삼성전자도다시날까",
+    "\"대학보다삼성·하이닉스\"…전국서몰린충북반도체고설명회",
+    "반도체주이끌ASML·TSMC실적…인플레둔화기대,워시의회보고도관..."
    ],
    "initialized": true,
-   "last_run": "2026-07-13T05:35:21.694653+09:00"
+   "last_run": "2026-07-13T05:40:53.620012+09:00"
   }
  },
  "press_names": {
