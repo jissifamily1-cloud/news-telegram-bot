@@ -653,7 +653,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447813",
     "https://www.etoday.co.kr/news/view/2602653",
     "https://www.joongang.co.kr/article/25444202",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=86643",
@@ -2152,10 +2151,10 @@
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260713.22002003370",
     "https://www.kmib.co.kr/article/view.asp?arcid=1783843835&code=11151300&cp=nv",
     "https://www.sedaily.com/article/20066763",
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/12/2026071290137.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/12/2026071290137.html",
+    "https://www.imaeil.com/page/view/2026071218294750910"
    ],
    "seen_titles": [
-    "SK하이닉스나스닥데뷔,뉴욕증시상승출발…AI메모리투심자극",
     "\"삼성전자·SK하이닉스반등언제?\"…전문가가꼽은핵심변수",
     "최태원,SK하닉나스닥상장에\"역사적인순간…많은재무적선택지\"",
     "[사설]SK하이닉스나스닥상장,자본시장선진화앞당기길",
@@ -3654,10 +3653,11 @@
     "[한손뉴스]美ADR은소유권증서거래…SK하이닉스0.1주로환산",
     "반도체피크아웃우려씻어…코스피투심회복관심",
     "“HBM4가격내년에두배…삼전닉스협상력우위계속될것”",
-    "[따져보니]'빵값부터기름값까지'서민울리는담합…대기업들의민낯..."
+    "[따져보니]'빵값부터기름값까지'서민울리는담합…대기업들의민낯...",
+    "월요일SK하닉주가오를까?…미국선253만원찍었는데"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T19:31:00.952664+09:00"
+   "last_run": "2026-07-12T19:35:22.502088+09:00"
   }
  },
  "press_names": {
