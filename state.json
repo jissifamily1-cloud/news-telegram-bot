@@ -450,15 +450,25 @@
     [
      "2026-07-12T14:15:29.842914+09:00",
      "개미들 환불 28만전자 탈출한 주식 220만닉스에"
+    ],
+    [
+     "2026-07-12T14:30:54.596543+09:00",
+     "데이터센터에 풀베 자체칩 메타 14GW 정면돌파한 거품론"
+    ],
+    [
+     "2026-07-12T14:30:54.596543+09:00",
+     "giants Memory expand capacity chip race to"
+    ],
+    [
+     "2026-07-12T14:30:54.596543+09:00",
+     "무노조 깨진 인사관리 국면 SI업계"
+    ],
+    [
+     "2026-07-12T14:30:54.596543+09:00",
+     "메모리도 대만 날았다 SK급 이익률 삼성 난야"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260710_0003704963",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=05333286645513208",
-    "https://imnews.imbc.com/news/2026/politics/article/6836604_36911.html",
-    "https://www.newspim.com/news/view/20260710001470",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=736714",
-    "https://www.nocutnews.co.kr/news/6546619",
     "https://biz.heraldcorp.com/article/10805022",
     "https://www.m-i.kr/news/articleView.html?idxno=1390476",
     "https://www.dailian.co.kr/news/view/1665944/?sc=Naver",
@@ -1952,15 +1962,15 @@
     "https://www.seoul.co.kr/news/economy/securities/2026/07/10/20260710500247?wlog_tag3=naver",
     "https://www.topstarnews.net/news/articleView.html?idxno=16132010",
     "http://www.fnnews.com/news/202607121409454396",
-    "http://www.newstomato.com/ReadNews.aspx?no=1306873&inflow=N"
+    "http://www.newstomato.com/ReadNews.aspx?no=1306873&inflow=N",
+    "https://www.donga.com/news/Inter/article/all/20260712/134281122/1",
+    "https://www.ajunews.com/view/20260712140240413",
+    "http://www.metroseoul.co.kr/article/20260712500198",
+    "https://www.koreaherald.com/article/10805993",
+    "http://www.metroseoul.co.kr/article/20260712500194",
+    "https://www.dt.co.kr/article/12072412"
    ],
    "seen_titles": [
-    "[포토]김재희,첫타구방향괜찮아",
-    "[포토]김재희,미소출발",
-    "[포토]김재희,차분하게핀을보다",
-    "李대통령,몽골대통령에게국궁세트선물…국빈만찬에선李작사곡등...",
-    "코스피2.5%상승해7,400선회복…매수사이드카",
-    "[미래K산업지도②]800조호남반도체시동…공장보다먼저전력·용수...",
     "“13만→220만원,‘17배’폭등”못사서난리더니…결국“살려달라...",
     "SK하이닉스나스닥입성,뉴욕맨해튼밝히는태극기조명",
     "청와대,'삼전닉스'레버리지ETF에\"면밀히살펴볼것\"‥부동산토론회...",
@@ -3454,10 +3464,16 @@
     "“주식환불좀”28만전자·220만닉스에탈출한개미들[내가샀다]",
     "삼성전자·SK하이닉스반등조건…AI투자·ADR수급주목",
     "삼성전자,용인반도체클러스터1기팹2029년조기완공추진",
-    "SK하닉,나스닥상장‘40조조달’…최태원“메모리수요폭발적”"
+    "SK하닉,나스닥상장‘40조조달’…최태원“메모리수요폭발적”",
+    "최태원“반도체시장구조적변화…옛날같은사이클로움직이지않아”",
+    "'롤러코스피'에인버스·레버리지ETF거래량상위권싹쓸이",
+    "[오늘AI]AI거품론정면돌파한메타…자체칩·14GW데이터센터에'풀베...",
+    "MemorygiantsracetoexpandAIchipcapacity",
+    "무노조공식깨진SI업계…인사관리새국면",
+    "대만메모리도날았다…난야,삼성·SK급이익률"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T14:25:20.343836+09:00"
+   "last_run": "2026-07-12T14:30:54.596543+09:00"
   }
  },
  "press_names": {
