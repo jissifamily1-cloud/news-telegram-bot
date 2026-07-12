@@ -642,13 +642,17 @@
     [
      "2026-07-12T19:25:23.115892+09:00",
      "산업 지속 아냐 폭발적 더는 메모리 수요 사이클 KV캐싱으로"
+    ],
+    [
+     "2026-07-12T19:31:00.952664+09:00",
+     "HBM4 삼전닉스 협상력 가격 내년에 계속될 두배 우위"
+    ],
+    [
+     "2026-07-12T19:31:00.952664+09:00",
+     "담합 빵값부터 서민 기름값까지 대기업들의 민낯 울리는"
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424468",
-    "https://www.it-b.co.kr/news/articleView.html?idxno=89056",
-    "https://www.joongang.co.kr/article/25444197",
-    "https://www.chosun.com/national/weekend/2026/07/11/O7IN325QBZAJTBL7FK4KH7NMLY/",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447813",
     "https://www.etoday.co.kr/news/view/2602653",
     "https://www.joongang.co.kr/article/25444202",
@@ -2144,13 +2148,13 @@
     "http://www.segyebiz.com/newsView/20260712513776?OutUrl=naver",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=595824",
     "https://www.siminsori.com/news/articleView.html?idxno=400379",
-    "https://www.sedaily.com/article/20066760"
+    "https://www.sedaily.com/article/20066760",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260713.22002003370",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1783843835&code=11151300&cp=nv",
+    "https://www.sedaily.com/article/20066763",
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/12/2026071290137.html"
    ],
    "seen_titles": [
-    "[7월셋째주분양동향]전국333가구청약…'흥행분위기'동작구신축에...",
-    "[사설]반도체대미투자압박,‘한미윈윈’지향하며접점찾아야",
-    "[사설]SK하닉美상장새역사…‘코리아디스카운트’해소는갈림길",
-    "SK하이닉스,나스닥입성…곽노정\"AI있는모든곳에함께하겠다\"",
     "SK하이닉스나스닥데뷔,뉴욕증시상승출발…AI메모리투심자극",
     "\"삼성전자·SK하이닉스반등언제?\"…전문가가꼽은핵심변수",
     "최태원,SK하닉나스닥상장에\"역사적인순간…많은재무적선택지\"",
@@ -3646,10 +3650,14 @@
     "환율1500원깨지자달러예금8.8조원'쑥'…3년6개월만에최대",
     "세르지우코스타제주SK감독\"네게바공백,손실이지만...해결책에집중...",
     "윤상현,김용범정책실장공개비판…\"우리가알던경제관료어디로갔...",
-    "“KV캐싱으로폭발적수요지속…메모리더는사이클산업아냐”"
+    "“KV캐싱으로폭발적수요지속…메모리더는사이클산업아냐”",
+    "[한손뉴스]美ADR은소유권증서거래…SK하이닉스0.1주로환산",
+    "반도체피크아웃우려씻어…코스피투심회복관심",
+    "“HBM4가격내년에두배…삼전닉스협상력우위계속될것”",
+    "[따져보니]'빵값부터기름값까지'서민울리는담합…대기업들의민낯..."
    ],
    "initialized": true,
-   "last_run": "2026-07-12T19:25:23.115892+09:00"
+   "last_run": "2026-07-12T19:31:00.952664+09:00"
   }
  },
  "press_names": {
