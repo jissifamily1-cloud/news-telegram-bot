@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-12T23:25:23.680296+09:00",
-     "드러눕나 레버리지 이번엔 삼전닉스 백해무익"
-    ],
-    [
-     "2026-07-12T23:25:23.680296+09:00",
-     "공급 코어셸과 양극재 엘앤에프 LFP 장기 계약"
-    ],
-    [
-     "2026-07-12T23:25:23.680296+09:00",
-     "ADR 흥행 재평가 SK하이닉스 선택받은 본주도 투자자 메모리"
-    ],
-    [
-     "2026-07-12T23:30:57.564271+09:00",
-     "대체불가 대한민국"
-    ],
-    [
      "2026-07-12T23:40:49.745029+09:00",
      "돌풍 원정에서 10경기째 멈췄다 강원 서울"
     ],
@@ -282,13 +266,17 @@
     [
      "2026-07-13T05:25:20.308168+09:00",
      "굳어질까 SKHY 프리미엄 TSMC처럼 ADR"
+    ],
+    [
+     "2026-07-13T05:31:00.924046+09:00",
+     "flows Where capital"
+    ],
+    [
+     "2026-07-13T05:31:00.924046+09:00",
+     "쏠림 TSMC 너무 비중 커졌다 삼전닉스 줄인다 신흥국 펀드들"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260709_0003702845",
-    "https://www.ekn.kr/web/view.php?key=20260711020471441",
-    "https://www.kukinews.com/article/view/kuk202607100118",
-    "https://www.sedaily.com/article/20066432",
     "https://www.sedaily.com/article/20066481",
     "https://www.hankyung.com/article/2026071088397",
     "https://www.sedaily.com/article/20066314",
@@ -1784,13 +1772,13 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01436646645514192",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039430",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607120853306810795",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607120932070860798"
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607120932070860798",
+    "https://biz.sbs.co.kr/article_hub/20000321995?division=NAVER",
+    "https://www.newsverse.kr/news/articleView.html?idxno=10930",
+    "https://www.koreaherald.com/article/10806063",
+    "https://www.news1.kr/world/international-economy/6225607"
    ],
    "seen_titles": [
-    "AI열풍뉴욕증시상승…SK하이닉스나스닥흥행·엔비디아강세",
-    "\"SK하이닉스'대박'\"…\"더많은해외기업의美상장길열어\"",
-    "엔비디아4.03%↑,마이크론1.24%↓...반도체주,SK하이닉스상장영향...",
-    "최태원승부수통했다…SK하이닉스,나스닥첫날13%급등'성공데뷔'",
     "SK하이닉스나스닥데뷔,뉴욕증시3대지수동반상승",
     "SK하이닉스성공적나스닥데뷔‥첫날13%급등",
     "SK하이닉스,나스닥첫날168달러마감…공모가대비13%급등",
@@ -3286,10 +3274,14 @@
     "미래위한투자,'빚갚는'선택지도고려해야[생생확대경]",
     "정재헌vs박윤영vs홍범식…이통3사전쟁터,'AIDC'로이동",
     "[나스닥간SKHY]③“AI호황도영원하지않다”…SK하닉이투자설명서...",
-    "[나스닥간SKHY]②SKHY,TSMC처럼‘ADR프리미엄’굳어질까"
+    "[나스닥간SKHY]②SKHY,TSMC처럼‘ADR프리미엄’굳어질까",
+    "하이닉스ADR연계레버리지ETF잇따라美출시",
+    "[오늘의경제뉴스]SK하이닉스나스닥흥행…'통화스와프급'달러에환...",
+    "[Editorial]Wherecapitalflows",
+    "\"TSMC·삼전닉스비중너무커졌다…신흥국펀드들AI쏠림줄인다\""
    ],
    "initialized": true,
-   "last_run": "2026-07-13T05:25:20.308168+09:00"
+   "last_run": "2026-07-13T05:31:00.924046+09:00"
   }
  },
  "press_names": {
