@@ -458,11 +458,13 @@
     [
      "2026-07-12T12:15:25.803058+09:00",
      "시점 사이클로 변화 수급구조 OUT 반도체 PEAK 호황의"
+    ],
+    [
+     "2026-07-12T12:20:47.749090+09:00",
+     "선정 분당 MVP에 U12 삼성 손윤우 대표팀 우승 전승"
     ]
    ],
    "seen_urls": [
-    "https://www.energydaily.co.kr/news/articleView.html?idxno=201333",
-    "https://www.ppss.kr/news/articleView.html?idxno=301724",
     "https://www.venturesquare.net/1097846/",
     "https://www.g-enews.com/view.php?ud=202607101826051486e7e8286d56_1",
     "https://biz.sbs.co.kr/article_hub/20000321782?division=NAVER",
@@ -1960,11 +1962,11 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01607206645513864",
     "https://www.mk.co.kr/article/12096332",
     "https://www.cbci.co.kr/news/articleView.html?idxno=588526",
-    "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=55896"
+    "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=55896",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092165641",
+    "http://www.rookie.co.kr/news/articleView.html?idxno=124748"
    ],
    "seen_titles": [
-    "반도체훈풍에코스피반등…7400선탈환",
-    "삼성SDI,정부'AI배전망'입찰압승…전체물량66%싹쓸이",
     "['클릭'증시]SK하이닉스ADR나스닥상장잭팟에투자심리부활",
     "삼성SDI,첫‘AI배전망ESS’사업에서66%수주",
     "조회추'1억뷰'터진게임실사화됐다…'1인칭'공포로서늘한여름만...",
@@ -3462,10 +3464,12 @@
     "롤러코스터코스피에‘곱버스·레버리지’북적…ETF거래상위권싹쓸...",
     "첫날부터13%대박...하이닉스다시오를까",
     "SK하이닉스,ADR로265억달러조달…국내환전시외환시장'달러공급'...",
-    "수급구조변화사이클로본반도체호황의PEAK-OUT시점"
+    "수급구조변화사이클로본반도체호황의PEAK-OUT시점",
+    "곽노정대표\"2027년메모리부족가장심각…2030년지속전망\"",
+    "[슈퍼컵]'전승우승'분당삼성U12대표팀...MVP에손윤우선정\"전승..."
    ],
    "initialized": true,
-   "last_run": "2026-07-12T12:15:25.803058+09:00"
+   "last_run": "2026-07-12T12:20:47.749090+09:00"
   }
  },
  "press_names": {
