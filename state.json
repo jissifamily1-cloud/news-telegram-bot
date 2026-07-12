@@ -390,11 +390,13 @@
     [
      "2026-07-12T23:25:23.680296+09:00",
      "ADR 흥행 재평가 SK하이닉스 선택받은 본주도 투자자 메모리"
+    ],
+    [
+     "2026-07-12T23:30:57.564271+09:00",
+     "대체불가 대한민국"
     ]
    ],
    "seen_urls": [
-    "https://www.donga.com/news/Inter/article/all/20260711/134278409/1",
-    "https://www.pressian.com/pages/articles/2026071012224205540",
     "https://www.ytn.co.kr/_ln/0104_202607110329258931",
     "https://www.yna.co.kr/view/AKR20260711003400072?input=1195m",
     "https://news.mtn.co.kr/news-detail/2026071103324865614",
@@ -1892,11 +1894,11 @@
     "https://www.segye.com/newsView/20260712511269?OutUrl=naver",
     "https://www.donga.com/news/Opinion/article/all/20260712/134284161/2",
     "https://www.thelec.kr/news/articleView.html?idxno=59431",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467721"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467721",
+    "https://www.donga.com/news/Opinion/article/all/20260712/134284178/2",
+    "https://www.ccdailynews.com/news/articleView.html?idxno=2427365"
    ],
    "seen_titles": [
-    "최태원\"SK하이닉스나스닥상장,꿈이현실로…AI반도체수요더욱증...",
-    "최태원\"AI메모리공급구조적부족심화…글로벌영토확장,한국공장...",
     "최태원\"AI가반도체사이클바꿨다…AGI까지수요폭증\"",
     "최태원\"반도체옛날같은사이클로움직이지않아…구조적변화\"",
     "PresidentLeecallsMongolia‘truefriend’instatebanquet,giftsKor",
@@ -3394,10 +3396,12 @@
     "[박영준칼럼]‘3대메가프로젝트’성공조건",
     "[천광암칼럼]백해무익‘삼전닉스레버리지’…이번엔드러눕나",
     "엘앤에프,美코어셸과LFP양극재장기공급계약",
-    "SK하이닉스ADR흥행...美투자자선택받은AI메모리,본주도재평가받..."
+    "SK하이닉스ADR흥행...美투자자선택받은AI메모리,본주도재평가받...",
+    "[사설]하이닉스나스닥‘역사적데뷔’…韓자본시장선진화계기로",
+    "대체불가대한민국"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T23:25:23.680296+09:00"
+   "last_run": "2026-07-12T23:30:57.564271+09:00"
   }
  },
  "press_names": {
