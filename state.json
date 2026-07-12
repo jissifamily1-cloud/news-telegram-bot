@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-12T17:25:23.620438+09:00",
-     "희망이 입시설명회 되려면 열기가 충북반도체"
-    ],
-    [
      "2026-07-12T17:40:49.060414+09:00",
      "수주전 승리 공공와이파이 LG유플러스 버스"
     ],
@@ -382,12 +378,21 @@
     [
      "2026-07-12T23:20:50.090299+09:00",
      "3대 조건 성공 메가프로젝트"
+    ],
+    [
+     "2026-07-12T23:25:23.680296+09:00",
+     "드러눕나 레버리지 이번엔 삼전닉스 백해무익"
+    ],
+    [
+     "2026-07-12T23:25:23.680296+09:00",
+     "공급 코어셸과 양극재 엘앤에프 LFP 장기 계약"
+    ],
+    [
+     "2026-07-12T23:25:23.680296+09:00",
+     "ADR 흥행 재평가 SK하이닉스 선택받은 본주도 투자자 메모리"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260711031153838",
-    "https://www.dt.co.kr/article/12072291",
-    "https://www.yna.co.kr/view/AKR20260711002351072?input=1195m",
     "https://www.donga.com/news/Inter/article/all/20260711/134278409/1",
     "https://www.pressian.com/pages/articles/2026071012224205540",
     "https://www.ytn.co.kr/_ln/0104_202607110329258931",
@@ -1884,12 +1889,12 @@
     "http://weekly.chosun.com/news/articleView.html?idxno=53396",
     "https://www.segye.com/newsView/20260712512084?OutUrl=naver",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607120099&t=NN",
-    "https://www.segye.com/newsView/20260712511269?OutUrl=naver"
+    "https://www.segye.com/newsView/20260712511269?OutUrl=naver",
+    "https://www.donga.com/news/Opinion/article/all/20260712/134284161/2",
+    "https://www.thelec.kr/news/articleView.html?idxno=59431",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467721"
    ],
    "seen_titles": [
-    "李“한국은몽골의진정한친구”…SK·LS등경제인도만찬참석",
-    "최태원\"AI메모리수요,2배늘려도부족…과거사이클과달라\"",
-    "SK하이닉스美나스닥입성성공…시초가170달러,공모가대비14%↑",
     "최태원\"SK하이닉스나스닥상장,꿈이현실로…AI반도체수요더욱증...",
     "최태원\"AI메모리공급구조적부족심화…글로벌영토확장,한국공장...",
     "최태원\"AI가반도체사이클바꿨다…AGI까지수요폭증\"",
@@ -3386,10 +3391,13 @@
     "코스피폭락맞힌보고서의새전망…\"코스피바닥찍고1만1450간다\"",
     "[설왕설래]SK하이닉스나스닥데뷔",
     "\"이제는반등을볼때\"...'성지순례보고서'연구원이꼽은조건",
-    "[박영준칼럼]‘3대메가프로젝트’성공조건"
+    "[박영준칼럼]‘3대메가프로젝트’성공조건",
+    "[천광암칼럼]백해무익‘삼전닉스레버리지’…이번엔드러눕나",
+    "엘앤에프,美코어셸과LFP양극재장기공급계약",
+    "SK하이닉스ADR흥행...美투자자선택받은AI메모리,본주도재평가받..."
    ],
    "initialized": true,
-   "last_run": "2026-07-12T23:20:50.090299+09:00"
+   "last_run": "2026-07-12T23:25:23.680296+09:00"
   }
  },
  "press_names": {
