@@ -402,11 +402,13 @@
     [
      "2026-07-12T14:45:25.718450+09:00",
      "경제정책 최보윤 부동산 수석대변인 도덕성 정권의 규탄 강력"
+    ],
+    [
+     "2026-07-12T14:50:52.010506+09:00",
+     "주가도 나스닥서 SK하이닉스 국내 따라갈까 비싼"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH20260710203418EOg",
-    "https://biz.heraldcorp.com/article/10804986",
     "https://kjmbc.co.kr/NewsArticle/1527069",
     "http://www.newsian.co.kr/news/articleView.html?idxno=92089",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652293&plink=ORI&cooper=NAVER",
@@ -1904,11 +1906,11 @@
     "https://www.news1.kr/local/gwangju-jeonnam/6225389",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467691",
     "https://www.etoday.co.kr/news/view/2602513",
-    "http://www.breaknews.com/1221076"
+    "http://www.breaknews.com/1221076",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273772",
+    "https://www.mt.co.kr/stock/2026/07/12/2026071214430741933"
    ],
    "seen_titles": [
-    "이대통령,‘활쏘기전통공유’몽골대통령에국궁세트선물",
-    "[코인시황]비트코인,금보다강하고기술적반등신호도…7만달러돌...",
     "삼전닉스성과급을지역화폐로?…결국철회",
     "\"한국교육수준높아\"…SAT만점베트남수석,카이스트행",
     "SK하이닉스나스닥입성…스페이스X이어두번째규모",
@@ -3406,10 +3408,12 @@
     "\"호남반도체챙겨라\"송영길,당대표선거까지'호남한달살이'",
     "LG유플러스,AI데이터센터타고실적개선…1조클럽복귀기대",
     "석유화학구조개편다시속도…‘여수1호’이달승인전망",
-    "최보윤수석대변인,“현정권의부동산등경제정책·도덕성강력규탄..."
+    "최보윤수석대변인,“현정권의부동산등경제정책·도덕성강력규탄...",
+    "환율떨어지자달러예금8.8조급증…\"달러싸졌다사두자\"",
+    "나스닥서더비싼SK하이닉스,국내주가도따라갈까"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T14:45:25.718450+09:00"
+   "last_run": "2026-07-12T14:50:52.010506+09:00"
   }
  },
  "press_names": {
