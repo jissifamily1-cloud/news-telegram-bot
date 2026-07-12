@@ -666,15 +666,21 @@
     [
      "2026-07-13T08:05:20.250925+09:00",
      "모드 연방정부도 캘리포니아주도 수소 투자엔 미국 신중"
+    ],
+    [
+     "2026-07-13T08:10:51.066120+09:00",
+     "프리미엄 상향까지 하이닉스 제고 SK스퀘어 DR 매력적 기업가치"
+    ],
+    [
+     "2026-07-13T08:10:51.066120+09:00",
+     "대비 경쟁사 대출 이율 SK실트론 낮다"
+    ],
+    [
+     "2026-07-13T08:10:51.066120+09:00",
+     "최소 고점론 내년까지는 반도체 호황 바꿨다 입장 한은도"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10805467",
-    "http://coinreaders.com/247228",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=141393",
-    "https://www.econovill.com/news/articleView.html?idxno=744900",
-    "https://www.womentimes.co.kr/news/articleView.html?idxno=104321",
-    "https://www.khan.co.kr/article/202607110844001",
     "http://www.yonhapnewstv.co.kr/news/MYH20260711084704R9E",
     "https://www.news1.kr/world/international-economy/6224852",
     "https://www.econovill.com/news/articleView.html?idxno=744901",
@@ -2168,15 +2174,15 @@
     "https://www.yna.co.kr/view/AKR20260711001400008?input=1195m",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4424548",
     "https://www.veritas-a.com/news/articleView.html?idxno=618733",
-    "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=80&CONTENTS_NO=2&bbsGbn=242&bbsSn=242&pNttSn=242584"
+    "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=80&CONTENTS_NO=2&bbsGbn=242&bbsSn=242&pNttSn=242584",
+    "http://www.fnnews.com/news/202607130801230153",
+    "https://biz.newdaily.co.kr/site/data/html/2026/07/13/2026071300031.html",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02040166645514192",
+    "http://www.newsprime.co.kr/news/article.html?no=739984",
+    "https://news.dealsitetv.com/articles/173040",
+    "https://www.dt.co.kr/article/12072510"
    ],
    "seen_titles": [
-    "[CEO직썰]곽노정SK하이닉스CEO\"AI가있는곳마다SK하이닉스도함께...",
-    "SK하이닉스,40조실탄품고월가상륙…첫날12.8%급등",
-    "SK하이닉스,나스닥상장첫날13%급등…168달러마감",
-    "SK하이닉스나스닥첫날168달러마감…공모가대비13%↑",
-    "[유통가상반기돌아보니]⑩코웨이독주...구독호황에도'희비'",
-    "'차이나잔혹사'끝냈다⋯아모레·LG생건,美현지화로'제2전성기'",
     "첫날부터17%급등!월가가SK하이닉스에몰린이유",
     "SK하이닉스,나스닥데뷔첫날12.76%급등…시총1조2000억육박",
     "[데일리머니마켓]SK하이닉스나스닥상장첫날13.1%↑",
@@ -3670,10 +3676,16 @@
     "'홈플사태'여파?MBK,넥스플렉스매각본입찰연기",
     "소액주주플랫폼,'단일종목레버리지30분단일가'요구",
     "[재수반수대신편입93]수능대란속'첨단학과편입카드'급부상..'1학...",
-    "미국,캘리포니아주도연방정부도수소투자엔'신중모드'"
+    "미국,캘리포니아주도연방정부도수소투자엔'신중모드'",
+    "'삼전-닉스레버리지ETF'상폐대신거래방식손질로…액트\"30분단일가...",
+    "[속보]삼전·닉스,프리마켓서중동리스크고조에반도체투톱약세",
+    "美·이란충돌재개…호르무즈봉쇄에변동성경계[뉴스새벽배송]",
+    "SK스퀘어,하이닉스'DR프리미엄'에기업가치제고상향까지…\"매력적...",
+    "[핀포인트][KB국민은행]SK실트론대출이율…경쟁사대비낮다",
+    "“호황최소내년까지는”…한은도‘반도체고점론’입장바꿨다"
    ],
    "initialized": true,
-   "last_run": "2026-07-13T08:05:20.250925+09:00"
+   "last_run": "2026-07-13T08:10:51.066120+09:00"
   }
  },
  "press_names": {
