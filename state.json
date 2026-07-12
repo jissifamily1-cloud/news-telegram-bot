@@ -546,12 +546,21 @@
     [
      "2026-07-12T21:45:24.732470+09:00",
      "꿈나무 부천서 17일 U13 농구 WYBC in 세계 Gyeonggi 개막 축제"
+    ],
+    [
+     "2026-07-12T21:55:21.961596+09:00",
+     "강원과 무승부 마감 돌풍의 나란히 K리그1 선두 연승 서울"
+    ],
+    [
+     "2026-07-12T21:55:21.961596+09:00",
+     "장기적 코스피 이번엔 폭락 정확히 보고서 맞혔다 두달"
+    ],
+    [
+     "2026-07-12T21:55:21.961596+09:00",
+     "열풍 한때 이젠 난리더니 추락한 3만원 전국민 17만원 절대"
     ]
    ],
    "seen_urls": [
-    "https://www.donga.com/news/Politics/article/all/20260710/134277637/2",
-    "https://www.donga.com/news/Society/article/all/20260710/134277706/2",
-    "https://www.donga.com/news/Economy/article/all/20260710/134278079/2",
     "https://www.hankyung.com/article/202607118915i",
     "https://www.sedaily.com/article/20066484",
     "https://biz.chosun.com/policy/politics/president_office/2026/07/11/C4RTKS3KIZAYXGOPW4HUFWT6XI/",
@@ -2048,12 +2057,12 @@
     "https://www.ajunews.com/view/20260712213219730",
     "https://www.newsis.com/view/NISX20260712_0003705885",
     "https://www.eroun.net/news/articleView.html?idxno=85217",
-    "http://www.osen.co.kr/article/G1112838745"
+    "http://www.osen.co.kr/article/G1112838745",
+    "https://www.yna.co.kr/view/AKR20260712053251007?input=1195m",
+    "https://biz.heraldcorp.com/article/10805994",
+    "https://biz.heraldcorp.com/article/10806147"
    ],
    "seen_titles": [
-    "최태원\"미국투자,350억달러보다훨씬크게…AI에수백억달러투자\"",
-    "최태원“나스닥입성,역사적순간…AI분야수백억달러투자”",
-    "SK하이닉스,나스닥화려한데뷔'주가급등'…최태원회장\"AI에수백억...",
     "뒤처지고있을쏘냐…‘게임체인저’전고체배터리집중,이르면내년...",
     "SK하이닉스,美나스닥입성…상장첫날14%대급등하며'흥행성공'",
     "'무려연봉총액601억원'KBO역수출신화,메릴켈리\"승부에만집중...",
@@ -3550,10 +3559,13 @@
     "[아주경제오늘의뉴스종합]뉴욕서거래시작한SK하이닉스…글로벌...",
     "시내버스와이파이빨라진다…LGU+,와이파이7전환사업수주",
     "세계U13농구꿈나무축제'2026WYBCinGyeonggi'…17일부천서개막",
-    "'헛심공방'제주vs대전,0-0무승부로나란히무승행진...'좀비축구..."
+    "'헛심공방'제주vs대전,0-0무승부로나란히무승행진...'좀비축구...",
+    "K리그1선두서울,돌풍의강원과0-0무승부…나란히연승마감(종합)",
+    "“두달전코스피폭락,정확히맞혔다”…그보고서,이번엔“장기적...",
+    "한때전국민열풍난리더니…“이젠절대안사”17만원→3만원추락한..."
    ],
    "initialized": true,
-   "last_run": "2026-07-12T21:50:50.841166+09:00"
+   "last_run": "2026-07-12T21:55:21.961596+09:00"
   }
  },
  "press_names": {
