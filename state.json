@@ -470,13 +470,17 @@
     [
      "2026-07-13T07:15:25.823093+09:00",
      "HBM 사이클 끝나나 변화 싸지는 D램 구조 블랙홀에"
+    ],
+    [
+     "2026-07-13T07:20:49.731390+09:00",
+     "EDITORIAL Korea on Daily JoongAng July from"
+    ],
+    [
+     "2026-07-13T07:20:49.731390+09:00",
+     "뚫린 조직이 서버가 것인가"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260710_0003703512",
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=545671",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467469",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1715980",
     "https://www.news1.kr/realestate/general/6224678",
     "https://biz.sbs.co.kr/article_hub/20000321589?division=NAVER",
     "https://www.tokenpost.kr/news/cryptocurrency/376703",
@@ -1972,13 +1976,13 @@
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=141407",
     "http://www.fnnews.com/news/202607130645485771",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1716039",
-    "https://www.g-enews.com/view.php?ud=202607130708435623fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202607130708435623fbbec65dfb_1",
+    "https://en.yna.co.kr/view/AEN20260713000600315?input=2106m",
+    "https://en.yna.co.kr/view/AEN20260713000500315?input=2106m",
+    "https://en.yna.co.kr/view/AEN20260713000700315?input=2106m",
+    "https://www.dailysecu.com/news/articleView.html?idxno=207567"
    ],
    "seen_titles": [
-    "SK하이닉스,美나스닥데뷔'흥행'…ADR첫날12.8%상승",
-    "[속보]SK하이닉스,나스닥데뷔첫날13%급등…168.49달러마감",
-    "SK하이닉스,나스닥데뷔첫날13%급등...AI메모리기대감반영",
-    "\"뉴욕이K반도체에베팅했다\"…SK하이닉스,나스닥첫날13%급등",
     "뉴욕증시,'SK하이닉스데뷔'에상승…나스닥0.29%↑",
     "SK하이닉스‘나스닥’첫날168달러로급등마감",
     "뉴욕증시,SK하이닉스상장'대박'에상승마감...나스닥0.3%↑",
@@ -3474,10 +3478,14 @@
     "SK하이닉스ADR연계레버리지ETF,美서잇따라출시",
     "\"반도체끝물이라고?\"...삼성·SK하이닉스주주들가슴쓸어내릴한은의...",
     "전국버스에'와이파이7'깐다…LG유플러스,차세대공공망구축",
-    "HBM블랙홀에D램구조변화…'싸지는사이클'끝나나"
+    "HBM블랙홀에D램구조변화…'싸지는사이클'끝나나",
+    "(EDITORIALfromKoreaTimesonJuly13)",
+    "(EDITORIALfromKoreaHeraldonJuly13)",
+    "(EDITORIALfromKoreaJoongAngDailyonJuly13)",
+    "[이혁중CISO의현장보안인사이트-7]서버가뚫린것인가,조직이뚫린..."
    ],
    "initialized": true,
-   "last_run": "2026-07-13T07:15:25.823093+09:00"
+   "last_run": "2026-07-13T07:20:49.731390+09:00"
   }
  },
  "press_names": {
