@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-13T00:25:21.747205+09:00",
-     "성공이 던진 경고 상장 하이닉스 한국에 도박판 증시"
-    ],
-    [
      "2026-07-13T00:30:58.497305+09:00",
      "가동 용인 삼성전자 일정 2029년 목표 2년 앞당긴다"
     ],
@@ -326,13 +322,17 @@
     [
      "2026-07-13T06:20:50.819730+09:00",
      "소비자 붐이 삼켜버린 폭등에 5배 비명 메모리 화창베이"
+    ],
+    [
+     "2026-07-13T06:25:22.894908+09:00",
+     "전력 EPC 기업 계약 태양광 변모 동시 다스코 신안 인프라"
+    ],
+    [
+     "2026-07-13T06:25:22.894908+09:00",
+     "놓친 악마는 프라다2"
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/stock/stock_general/2026/07/11/SENQV5E4MFAPBMM6SBUCOXCKRA/",
-    "https://www.sedaily.com/article/20066465",
-    "https://www.kyeonggi.com/article/20260711580006",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1385051",
     "https://www.khan.co.kr/article/202607110700021",
     "http://www.segyebiz.com/newsView/20260710516104?OutUrl=naver",
     "http://www.segyebiz.com/newsView/20260709517406?OutUrl=naver",
@@ -1828,13 +1828,13 @@
     "https://www.munhwa.com/article/11602102",
     "https://www.news1.kr/local/gwangju-jeonnam/6225225",
     "https://www.goal.com/kr/뉴스/a/blt2661a542b145f5e8",
-    "https://www.g-enews.com/view.php?ud=2026071223021253260c8c1c064d_1"
+    "https://www.g-enews.com/view.php?ud=2026071223021253260c8c1c064d_1",
+    "https://www.wikitree.co.kr/articles/1146043",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16132376",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607091253579520566",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607111959176630783"
    ],
    "seen_titles": [
-    "최태원\"AI메모리5년간생산2배로도부족\"",
-    "최태원회장“HBM수요기하급수적…과거와다른영구적변화확신”",
-    "뉴욕증시,미·이란긴장에도상승마감…SK하이닉스12.7%급등",
-    "뉴욕증시,유가하락·SK하이닉스상장훈풍에소폭상승…나스닥0.29%↑...",
     "SK하이닉스,나스닥첫날168.49달러마감…공모가대비13%↑",
     "[미국특징주]SK하이닉스,나스닥데뷔첫날12.76%상승마감…AI메모...",
     "[지난밤뉴욕에선]SK하이닉스ADR,나스닥첫날13%급등",
@@ -3330,10 +3330,14 @@
     "‘통화스와프급’하닉,美상장으로265억달러유입",
     "베일벗는'호남반도체클러스터'…올해착공·2030년양산속도전",
     "[오피셜]이강인이직접응원의메시지보냈다…득점부재로고민깊었...",
-    "AI붐이삼켜버린메모리…中화창베이,5배폭등에‘소비자비명’"
+    "AI붐이삼켜버린메모리…中화창베이,5배폭등에‘소비자비명’",
+    "SK하이닉스나스닥데뷔첫날13%↑…265억달러역대급조달",
+    "SK하이닉스ADR레버리지ETF美서잇단출시",
+    "다스코㈜,신안태양광EPC·O&M동시계약…전력인프라기업변모",
+    "[언주로칼럼]‘악마는프라다2’가놓친것"
    ],
    "initialized": true,
-   "last_run": "2026-07-13T06:20:50.819730+09:00"
+   "last_run": "2026-07-13T06:25:22.894908+09:00"
   }
  },
  "press_names": {
