@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-12T15:25:22.777715+09:00",
-     "SK하닉 삼전 입시설명회 충북반도체고 성황 하이패스"
-    ],
-    [
-     "2026-07-12T15:25:22.777715+09:00",
-     "배전망 8월 신기술 삼성SDI 가른 2차전은 압승 ESS 수주전"
-    ],
-    [
-     "2026-07-12T15:30:57.172130+09:00",
-     "반도체의 기술주권 생각하자"
-    ],
-    [
      "2026-07-12T15:40:49.073887+09:00",
      "삼성은 HBM 월가로 하이닉스는 전략 곳간으로 투자의"
     ],
@@ -550,14 +538,21 @@
     [
      "2026-07-12T21:25:22.139258+09:00",
      "공세 안보 전방위 의혹 실패 국힘 민생"
+    ],
+    [
+     "2026-07-12T21:30:58.740502+09:00",
+     "골문 무승부 양팀 대전과 4G 끝내 무승 제주SK 열리지 않은"
+    ],
+    [
+     "2026-07-12T21:30:58.740502+09:00",
+     "셋째 공급 7월 753가구 1순위 서울 울산 14일"
+    ],
+    [
+     "2026-07-12T21:30:58.740502+09:00",
+     "제주 대전"
     ]
    ],
    "seen_urls": [
-    "https://www.koreajoongangdaily.com/business/sk-hynix-adrs-surge-14-percent-on-nasdaq-debut/12767926",
-    "https://www.mt.co.kr/politics/2026/07/11/2026071101134625903",
-    "http://www.yonhapnewstv.co.kr/news/AKR2026071101264002w",
-    "https://www.joongang.co.kr/article/25444230",
-    "https://www.apnews.kr/news/articleView.html?idxno=3049684",
     "https://www.ytn.co.kr/_ln/0104_202607110130048917",
     "https://www.newsis.com/view/NISX20260711_0003705059",
     "https://news.cpbc.co.kr/article/1174285?division=NAVER",
@@ -2052,14 +2047,14 @@
     "https://www.news1.kr/sports/soccer/6225564",
     "https://www.newsway.co.kr/news/view?ud=2026071221034046797",
     "https://www.khan.co.kr/article/202607122121005",
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=553598"
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=553598",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553369992",
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=545677",
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=595827",
+    "https://www.vegannews.co.kr/news/article.html?no=383975",
+    "https://www.yna.co.kr/view/AKR20260712052600007?input=1195m"
    ],
    "seen_titles": [
-    "시장혼돈키우는‘정책실장의입’",
-    "러트닉“삼성·SK,美에반도체팹지어야”",
-    "아파트는토허제제외…땅투기차단에주력",
-    "“정부역할해야”“성공비용”쏟아내더니…이젠“정답다알진못...",
-    "[포토]SK하이닉스미국나스닥상장",
     "최태원,SK하이닉스ADR상장에\"역사적인순간…꿈이현실됐다\"(종합)",
     "SK하이닉스ADR상장첫날17%대상승",
     "블룸버그\"삼성따라잡았나?\"…최태원\"행복한회사가좋은회사\"",
@@ -3554,10 +3549,15 @@
     "K리그1제주,'이강인과인연'아이아스영입\"득점으로기여하겠다\"",
     "LG유플,600억규모'버스공공와이파이'사업따냈다",
     "“반도체때문에”탈원전→감축…기후부의‘원전변심’",
-    "국힘,'민생실패·안보의혹'등전방위공세"
+    "국힘,'민생실패·안보의혹'등전방위공세",
+    "[K리그117R]승리에목마른제주SK-대전,아무도웃지못했다...0-0무승...",
+    "\"내년메모리공급난최악\"…삼성,용인반도체공장가동2년앞당긴다",
+    "'끝내열리지않은양팀골문'제주SK,대전과0-0무승부...4G무승",
+    "7월셋째주753가구공급…서울·울산14일1순위",
+    "[프로축구서귀포전적]제주0-0대전"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T21:25:22.139258+09:00"
+   "last_run": "2026-07-12T21:30:58.740502+09:00"
   }
  },
  "press_names": {
