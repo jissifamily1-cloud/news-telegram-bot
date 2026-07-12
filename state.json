@@ -569,11 +569,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20066378",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=51397",
-    "https://www.hankyung.com/article/2026071086201",
-    "https://www.mk.co.kr/article/12095647",
-    "https://www.hankyung.com/article/2026071085471",
     "https://www.businesspost.co.kr/BP?command=article_view&num=442097",
     "https://www.sedaily.com/article/20066377",
     "https://www.segye.com/newsView/20260710509174?OutUrl=naver",
@@ -2068,14 +2063,14 @@
     "https://biz.sbs.co.kr/article_hub/20000321936?division=NAVER",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01426806645513864",
     "http://www.rookie.co.kr/news/articleView.html?idxno=124745",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=01430086645513864"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01430086645513864",
+    "https://www.dailian.co.kr/news/view/1666096/?sc=Naver",
+    "https://www.econovill.com/news/articleView.html?idxno=744936",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=61473",
+    "https://www.etnews.com/20260710000173",
+    "https://news.bizwatch.co.kr/article/market/2026/07/10/0035"
    ],
    "seen_titles": [
-    "'호갱'한국:왜기업이잘못해도소비자만더피해볼까",
-    "“韓서더빨리생산할수록…美빅테크경쟁력에도움”",
-    "웨이퍼부터자본시장까지…美,AI반도체공급망빨아들인다",
-    "[현장]SK에코플랜트'의왕역SKVIEW'분양…의왕역일대대장주될까",
-    "\"2인1조필요없어\"그러다37살미얀마노동자가컨베이어에끼어죽었...",
     "정부배전망ESS사업,삼성SDI66%'최다'수주…LG엔솔도사업자선정",
     "최태원,나스닥오프닝벨…SK하이닉스'글로벌도약'신호탄",
     "코스피하락수혜는인버스…정치권까지달군레버리지논란[ETF브리핑...",
@@ -3570,10 +3565,15 @@
     "오르면레버리지,내리면곱버스…출렁이는코스피에단타몰렸다",
     "SK하닉,美서16%더비싸다…코스피본주도가격오를까?",
     "[슈퍼컵]\"여자친구들과경기는좀시시하다\"KCCU10대표팀헝가인...순...",
-    "‘슈퍼엘니뇨’관측에농산물ETN질주…곡물보다코코아주목"
+    "‘슈퍼엘니뇨’관측에농산물ETN질주…곡물보다코코아주목",
+    "환율하락에달러'줍줍'…은행달러예금8조8000억원↑",
+    "[IT큐레이션]40조실탄쥔SK하이닉스가잊지말아야할나스닥청구서",
+    "SK하이닉스,美나스닥입성...환율방어핵심카드부상",
+    "AINA,오는11월차세대네트워크기술글로벌무대공개",
+    "'13조'삼전·닉스레버리지ETF상폐론나오지만…'보완책'무게"
    ],
    "initialized": true,
-   "last_run": "2026-07-12T10:30:54.111224+09:00"
+   "last_run": "2026-07-12T10:35:21.333213+09:00"
   }
  },
  "press_names": {
