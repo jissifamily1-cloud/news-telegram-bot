@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-13T18:50:55.400276+09:00",
-     "이천시장 모이는 삶은 이천 미래가 성수석 없다 만들겠다"
-    ],
-    [
      "2026-07-13T19:01:05.949189+09:00",
      "박스권 가격은 순유입 지속 비트코인 만에 9주 ETF"
     ],
@@ -374,12 +370,13 @@
     [
      "2026-07-14T00:45:26.349855+09:00",
      "돌아간 심리 전으로 투자 위축 코스피"
+    ],
+    [
+     "2026-07-14T00:55:23.894233+09:00",
+     "반도체 완공 용인 국토장관 앞당긴다 7년 착공 연내 산단"
     ]
    ],
    "seen_urls": [
-    "https://www.insight.co.kr/news/562751",
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=83229",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424639",
     "https://en.yna.co.kr/view/AEN20260713005100320?input=2106m",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=168075",
     "https://biz.heraldcorp.com/article/10806851",
@@ -1876,12 +1873,12 @@
     "http://www.e2news.com/news/articleView.html?idxno=332278",
     "https://www.joongang.co.kr/article/25444819",
     "https://www.ytn.co.kr/_ln/0104_202607140035301163",
-    "https://imnews.imbc.com/replay/2026/nw2500/article/6837156_36989.html"
+    "https://imnews.imbc.com/replay/2026/nw2500/article/6837156_36989.html",
+    "https://www.chosun.com/economy/stock-finance/2026/07/14/HBHUE6HW7RG7DMGTGAMUHEER2I/",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424732",
+    "https://www.chosun.com/economy/real_estate/2026/07/14/GAPV6DI5NZEQ5CCCPP5XL3XGJA/"
    ],
    "seen_titles": [
-    "금감원,자산운용사CEO소집…ETF과장광고·'복붙'공시개선주문",
-    "코스피,4월랠리'반값'됐다…하이닉스200만원붕괴",
-    "LG전자·SKT,GS건설과차세대AI홈공동개발·휴가철로밍-멤버십강화",
     "200만원깨진SK하이닉스...코스피7000선까지밀려",
     "‘나스닥성공데뷔’SK하이닉스국내주가는200만원하회",
     "메가프로젝트,기후목표와정면충돌할수있다",
@@ -3378,10 +3375,13 @@
     "[HARFKO2026]서경브레이징,코일브레이징라인등선봬",
     "7000붕괴…‘뉴욕하닉’대박의역습",
     "SK하이닉스ADR연계레버리지ETF,오늘오후5시이후출시",
-    "두달전으로돌아간코스피‥\"투자심리위축\""
+    "두달전으로돌아간코스피‥\"투자심리위축\"",
+    "코스피7000무너져…하이닉스,역대최대15.4%폭락",
+    "뉴욕증시,이어지는미-이란무력충돌속혼조출발",
+    "용인반도체산단완공7년앞당긴다…국토장관“연내착공”"
    ],
    "initialized": true,
-   "last_run": "2026-07-14T00:50:53.329034+09:00"
+   "last_run": "2026-07-14T00:55:23.894233+09:00"
   }
  },
  "press_names": {
