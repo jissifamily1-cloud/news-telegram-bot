@@ -1170,13 +1170,13 @@
     [
      "2026-07-13T21:25:23.857447+09:00",
      "오락가락 반도체 코스피는 흥행했는데 나스닥"
+    ],
+    [
+     "2026-07-13T21:35:21.423898+09:00",
+     "ADR도 삼전닉스 합격점 급락했나 인데 실적도"
     ]
    ],
    "seen_urls": [
-    "http://www.srtimes.kr/news/articleView.html?idxno=207390",
-    "https://www.cnbnews.com/news/articleView.html?idxno=1007856",
-    "https://www.mediapen.com/news/view/1109824",
-    "https://biz.heraldcorp.com/article/10806752",
     "https://www.nocutnews.co.kr/news/6547133",
     "https://www.ikbc.co.kr/article/view/kbc202607130032",
     "https://www.etnews.com/20260713000164",
@@ -2672,13 +2672,13 @@
     "http://www.biztribune.co.kr/news/articleView.html?idxno=355899",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609559",
     "https://www.ikbc.co.kr/article/view/kbc202607130058",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609560"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609560",
+    "http://www.kwangju.co.kr/article.php?aid=1783945800801231277",
+    "https://www.ccdailynews.com/news/articleView.html?idxno=2427832",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=441114",
+    "https://www.startuptoday.co.kr/news/articleView.html?idxno=806529"
    ],
    "seen_titles": [
-    "SK하이닉스,나스닥흥행불똥에10%폭락…'200만닉스'깨졌다",
-    "여행의시작부터귀국까지…휴가철서비스경쟁달아오른다",
-    "[OpeningMarket]KOSPITests7,300AsWonDropsBelow1,500PerDollar",
-    "한화오션특수선,글로벌기대감여전",
     "[반도체슈퍼사이클①]코스피9000시대연AI혁명…'메모리호황'넘...",
     "LX구본준회장,승계본격화?...지분증여로최대주주외아들로",
     "신간'현금경영'…턴어라운드전문가가짚은'흑자도산'의경고",
@@ -4174,10 +4174,14 @@
     "\"투자자잡아라\"…증권사,여름맞아대규모이벤트잇달아",
     "나스닥흥행했는데코스피는왜?오락가락반도체",
     "민형배\"반도체기업실사단오늘도광주다녀가\"",
-    "삼전닉스레버리지도줄줄이급락…‘안전장치’나오나"
+    "삼전닉스레버리지도줄줄이급락…‘안전장치’나오나",
+    "‘광주반도체’국가산단으로조성…2030년가동목표",
+    "7000선붕괴...코스피8.95%급락",
+    "코스피,9%낙폭에7000선밑으로...KB금융,LG에너지솔루션상승VS삼성...",
+    "[포커스]실적도ADR도'합격점'인데…삼전닉스,왜급락했나"
    ],
    "initialized": true,
-   "last_run": "2026-07-13T21:30:59.116704+09:00"
+   "last_run": "2026-07-13T21:35:21.423898+09:00"
   }
  },
  "press_names": {
