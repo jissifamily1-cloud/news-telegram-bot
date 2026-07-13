@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-13T19:01:05.949189+09:00",
-     "박스권 가격은 순유입 지속 비트코인 만에 9주 ETF"
-    ],
-    [
      "2026-07-13T19:10:52.267714+09:00",
      "깨졌다 데뷔 7천피 하닉도 성공 만에"
     ],
@@ -374,11 +370,17 @@
     [
      "2026-07-14T00:55:23.894233+09:00",
      "반도체 완공 용인 국토장관 앞당긴다 7년 착공 연내 산단"
+    ],
+    [
+     "2026-07-14T01:01:08.441261+09:00",
+     "정부 안보 지속 문제 최태원 투자해야 AI는"
+    ],
+    [
+     "2026-07-14T01:01:08.441261+09:00",
+     "월가 IPO성공 쉽지않아 SK하이닉스 다른 기술기업들은"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260713005100320?input=2106m",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=168075",
     "https://biz.heraldcorp.com/article/10806851",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=83226",
     "https://edu.donga.com/news/articleView.html?idxno=109881",
@@ -1876,11 +1878,11 @@
     "https://imnews.imbc.com/replay/2026/nw2500/article/6837156_36989.html",
     "https://www.chosun.com/economy/stock-finance/2026/07/14/HBHUE6HW7RG7DMGTGAMUHEER2I/",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4424732",
-    "https://www.chosun.com/economy/real_estate/2026/07/14/GAPV6DI5NZEQ5CCCPP5XL3XGJA/"
+    "https://www.chosun.com/economy/real_estate/2026/07/14/GAPV6DI5NZEQ5CCCPP5XL3XGJA/",
+    "https://zdnet.co.kr/view/?no=20260714003534",
+    "https://www.hankyung.com/article/202607132810i"
    ],
    "seen_titles": [
-    "200만원깨진SK하이닉스...코스피7000선까지밀려",
-    "‘나스닥성공데뷔’SK하이닉스국내주가는200만원하회",
     "메가프로젝트,기후목표와정면충돌할수있다",
     "법원,SK하이닉스로이직한삼성핵심인력1년6개월전직금지",
     "\"고객95%가다시찾았다\"...SK쉴더스,글로벌기관이극찬한'MDR신뢰도...",
@@ -3378,10 +3380,12 @@
     "두달전으로돌아간코스피‥\"투자심리위축\"",
     "코스피7000무너져…하이닉스,역대최대15.4%폭락",
     "뉴욕증시,이어지는미-이란무력충돌속혼조출발",
-    "용인반도체산단완공7년앞당긴다…국토장관“연내착공”"
+    "용인반도체산단완공7년앞당긴다…국토장관“연내착공”",
+    "최태원\"AI는안보문제…정부지속투자해야\"",
+    "월가,\"SK하이닉스美IPO성공,다른기술기업들은쉽지않아\""
    ],
    "initialized": true,
-   "last_run": "2026-07-14T00:55:23.894233+09:00"
+   "last_run": "2026-07-14T01:01:08.441261+09:00"
   }
  },
  "press_names": {
