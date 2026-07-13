@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-13T21:45:25.667601+09:00",
-     "W4 농구월드컵 FIBA 훈련대상자 아시아예선 16인 대비 선발"
-    ],
-    [
      "2026-07-13T21:50:53.456491+09:00",
      "공급 위성통신 한국도로공사에 SK텔링크 저궤도"
     ],
@@ -233,7 +229,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.boannews.com/media/view.asp?idx=144655&kind=3",
     "https://biz.heraldcorp.com/article/10806862",
     "https://www.newstnt.com/news/articleView.html?idxno=709946",
     "https://www.newsis.com/view/NISX20260713_0003706363",
@@ -1732,10 +1727,10 @@
     "https://www.tokenpost.kr/news/breaking/377334",
     "http://www.babytimes.co.kr/news/articleView.html?idxno=73545",
     "http://coinreaders.com/247489",
-    "https://www.abcn.kr/news/articleView.html?idxno=89391"
+    "https://www.abcn.kr/news/articleView.html?idxno=89391",
+    "https://www.newsis.com/view/NISX20260714_0003707701"
    ],
    "seen_titles": [
-    "OIL값'폭등'속...장중,아시아증시'좌불안석'&韓-日증시'뚝'",
     "SK하이닉스,‘200만원벽’마저깨졌다…반도체역대급호황인데도대...",
     "고려대,LLM서버비용낮추는GPU스케줄링기술개발…\"처리성능,업...",
     "고려대,LLM운영비용줄이고고성능확보한신기술선보여",
@@ -3234,10 +3229,11 @@
     "SK하이닉스ADR,장중9.9%급락",
     "한국증시7000선붕괴·9%급락'공포의블랙먼데이'",
     "중동發무력충돌에유가·금리폭등쇼크...뉴욕증시,폭락경고등",
-    "사랑해(S)김희영(KHY)?...최태원SNS의'SKHY'논란해프닝"
+    "사랑해(S)김희영(KHY)?...최태원SNS의'SKHY'논란해프닝",
+    "SK하이닉스ADR,프리마켓서9%하락…본주급락여파"
    ],
    "initialized": true,
-   "last_run": "2026-07-14T03:40:58.818324+09:00"
+   "last_run": "2026-07-14T03:45:27.976500+09:00"
   }
  },
  "press_names": {
