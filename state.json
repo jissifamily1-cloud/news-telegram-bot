@@ -414,13 +414,13 @@
     [
      "2026-07-14T06:15:26.891954+09:00",
      "발행왕 엇갈린 회사채 성적표 KB증권 흥행왕 한화비전"
+    ],
+    [
+     "2026-07-14T06:20:52.680379+09:00",
+     "파급효과는 들어서면 경제적 호남 4기 과연 반도체"
     ]
    ],
    "seen_urls": [
-    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205547",
-    "https://www.g-enews.com/view.php?ud=202607131252266894923c501012_1",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=92159",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=724306",
     "https://www.naeil.com/news/read/595132",
     "https://www.ezyeconomy.com/news/articleView.html?idxno=237430",
     "https://www.tjb.co.kr/news05/bodo/view/id/100886",
@@ -1916,13 +1916,13 @@
     "https://www.etoday.co.kr/news/view/2603138",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008655909&plink=ORI&cooper=NAVER",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=759245",
-    "https://www.fntimes.com/html/view.php?ud=202607081240415697141825007d_18"
+    "https://www.fntimes.com/html/view.php?ud=202607081240415697141825007d_18",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1716215",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260714061418Pn5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008655910&plink=ORI&cooper=NAVER",
+    "https://www.news1.kr/local/gwangju-jeonnam/6225313"
    ],
    "seen_titles": [
-    "AI버블의실체1:코스피급락은시장실패의전조인가",
-    "[속보]코스피장중7000선내줘...하닉12%·삼전7%급락",
-    "[속보]코스피장중6%대급락…2개월만에7,000선붕괴",
-    "SK하이닉스급락,업황훼손보다‘ADR이벤트소멸·레버리지청산’",
     "코스피6%대급락,장중7000선무너져…7000피돌파후2달여만에첫하...",
     "이천시,자가세정CCTV운영성과인정…경기도우수사례발표대회우수...",
     "SK쉴더스,프로스트앤드설리번‘2026아태고객가치리더십’선정",
@@ -3418,10 +3418,14 @@
     "무너진7000피·환율1500돌파…美CPI·TSMC타고반도체넘어볕드나",
     "국제유가9%수직상승…미증시일제히하락",
     "현대건설,상반기해외수주35억달러'톱'...대우건설·현대엔지니어...",
-    "[DCM]'발행왕'KB증권,'흥행왕'한화비전…엇갈린회사채성적표[26상..."
+    "[DCM]'발행왕'KB증권,'흥행왕'한화비전…엇갈린회사채성적표[26상...",
+    "﻿美는오르는데코스피만20%폭락…'여름비수기'보다무서운반도체...",
+    "SK하이닉스미ADR9.3%급락…공모가소폭웃돌아",
+    "코스피'검은월요일'…두달여만에7천밑으로",
+    "호남반도체팹4기들어서면…과연경제적파급효과는?"
    ],
    "initialized": true,
-   "last_run": "2026-07-14T06:15:54.476098+09:00"
+   "last_run": "2026-07-14T06:20:52.680379+09:00"
   }
  },
  "press_names": {
