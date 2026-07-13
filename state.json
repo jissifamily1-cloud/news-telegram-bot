@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-13T12:40:50.549814+09:00",
-     "기초자산 ELB 삼성전자 교보증권 공모 SK하이닉스 월수익형"
-    ],
-    [
      "2026-07-13T12:45:25.595769+09:00",
      "TSMC처럼 SK하이닉스 주목 ADR 움직일까 프리미엄"
     ],
@@ -1574,13 +1570,17 @@
     [
      "2026-07-13T18:35:23.604917+09:00",
      "속도전 증손회사 호남팹 푼다"
+    ],
+    [
+     "2026-07-13T18:40:51.759987+09:00",
+     "셀앤바이 금리차 수요 FX스와프 축소 구간 상승 기대"
+    ],
+    [
+     "2026-07-13T18:40:51.759987+09:00",
+     "3대 새만금 군산 군산시의회 재설계 배제됐다 메가프로젝트 촉구"
     ]
    ],
    "seen_urls": [
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/13/2026071300083.html",
-    "https://www.tokenpost.kr/news/market/377034",
-    "https://www.sedaily.com/article/20066945",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424619",
     "https://www.goodkyung.com/news/articleView.html?idxno=289167",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=306902",
     "https://zdnet.co.kr/view/?no=20260713102419",
@@ -3076,13 +3076,13 @@
     "http://www.fnnews.com/news/202607131829003439",
     "https://www.wikitree.co.kr/articles/1146243",
     "https://www.hankyung.com/article/2026071325621",
-    "https://www.hankyung.com/article/2026071325491"
+    "https://www.hankyung.com/article/2026071325491",
+    "http://www.inews24.com/view/1985098",
+    "https://www.sentv.co.kr/article/view/sentv202607130203",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424717",
+    "https://www.news1.kr/local/jeonbuk/6226806"
    ],
    "seen_titles": [
-    "[위클리오늘]경기도'국평'분양가8억5000만원돌파…비규제반세권단...",
-    "SKT,여름휴가철로밍요금할인…T멤버십레저혜택도운영",
-    "KB증권\"삼성전자,2027년사상최대'공급절벽'전망…목표주가60만원...",
-    "SKT,여름휴가철맞춤혜택확대…로밍할인부터호텔·워터파크할인...",
     "\"베테랑기술도AI가학습\"...K-AI,제조·공공·중소기업확산",
     "SK케미칼,긴급구호키트제작봉사활동",
     "<빅터뉴스주가예측>코스피시가총액상위15선_7월13일",
@@ -4578,10 +4578,14 @@
     "7000선무너진코스피...SK하이닉스15%폭락",
     "하이닉스로옮긴삼성직원에게켜진'빨간불'...1일500만원",
     "[단독]SK하이닉스,호남팹합작투자가능…수십조재무부담던다",
-    "[단독]호남팹속도전'증손회사100%룰'푼다"
+    "[단독]호남팹속도전'증손회사100%룰'푼다",
+    "삼성·SK800조호남반도체…\"호남은AI데이터센터가적합\"",
+    "‘모두의AI’사업에LGU+·카카오참전…SKT·KT등은검토중",
+    "FX스와프,전구간상승…셀앤바이수요·금리차축소기대",
+    "군산·새만금배제됐다…군산시의회,3대메가프로젝트재설계촉구"
    ],
    "initialized": true,
-   "last_run": "2026-07-13T18:35:23.604917+09:00"
+   "last_run": "2026-07-13T18:40:51.759987+09:00"
   }
  },
  "press_names": {
