@@ -606,16 +606,21 @@
     [
      "2026-07-14T07:45:27.224823+09:00",
      "전략 가동 전력투구"
+    ],
+    [
+     "2026-07-14T07:50:56.257540+09:00",
+     "구글 삼성전자 뽑은 1위 국민이 오픈AI 앞서 기업"
+    ],
+    [
+     "2026-07-14T07:50:56.257540+09:00",
+     "국립순천대 지원 국립의대 수용 제안 편향된 못해 신설"
+    ],
+    [
+     "2026-07-14T07:50:56.257540+09:00",
+     "버티기 급락 조언은 삼전닉스 전문가 코스피"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000322150?division=NAVER",
-    "https://www.g-enews.com/view.php?ud=202607131346043591923c501012_1",
-    "https://www.joongangenews.com/news/articleView.html?idxno=532412",
-    "https://www.ddaily.co.kr/page/view/2026071313434582071",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=847030",
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069241",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=847028",
     "http://www.metroseoul.co.kr/article/20260713500253",
     "https://www.newsway.co.kr/news/view?ud=2026071311115999856",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130143&t=NN",
@@ -2108,16 +2113,16 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16133559",
     "https://www.ddaily.co.kr/page/view/2026071317022955205",
     "https://www.newstopkorea.com/news/articleView.html?idxno=46237",
-    "https://news.bizwatch.co.kr/article/mobile/2026/07/13/0021"
+    "https://news.bizwatch.co.kr/article/mobile/2026/07/13/0021",
+    "https://www.sportsseoul.com/news/read/1622264",
+    "http://www.osen.co.kr/article/G1112839324",
+    "https://www.newsway.co.kr/news/view?ud=2026071407384702078",
+    "https://www.dt.co.kr/article/12072745",
+    "http://www.inews24.com/view/1985190",
+    "https://www.pressian.com/pages/articles/2026071407404819988",
+    "https://www.ytn.co.kr/_ln/0102_202607140737380080"
    ],
    "seen_titles": [
-    "코스피급락,7000선붕괴…올해7번째서킷브레이커발동",
-    "반도체투매에코스피8%급락…올해7번째서킷브레이커",
-    "블룸버그\"SK하이닉스는황금알거위...알더낳아야\"",
-    "대구빚심각발언에\"어느정도길래\"…GRDP·기업투자상황겹쳐'삼중...",
-    "[증시긴급진단]이선엽\"반도체패닉,펀더멘털아닌심리…정점논할...",
-    "[오후장체크포인트]'나스닥흥행'삼킨중동발리스크…시장전망은?",
-    "코스피,8%급락에서킷브레이커발동…6800선까지후퇴",
     "\"SK그룹에재무분석노하우\"…Sh수협은행CSF포럼",
     "\"외국인2조던졌다\"…코스피7000선붕괴,서킷브레이커발동",
     "[특징주]SK하이닉스ADR상장흥행에도13%↓…'190만닉스'붕괴",
@@ -3610,10 +3615,17 @@
     "SK하이닉스15%폭락…실적보다수급충격이컸다",
     "포용금융부터삼전닉스ETF까지…금융위,업무보고·부동산토론회",
     "중복상장가이드라인예고종료…'3%룰'확정수순",
-    "[통신,그후]AI전력투구…'3社3色'전략가동"
+    "[통신,그후]AI전력투구…'3社3色'전략가동",
+    "코스피9%폭락에도개인은거꾸로갔다…‘하닉레버리지’6321억역베...",
+    "\"더이상매각대상아냐,유일한예외는..\"김민재,'8월제주방한'바...",
+    "SK하이닉스,나스당상장이틀만에9%대급락…'공모가턱밑'",
+    "“도파민끝,냉혹한리셋”…SK하이닉스美ADR도9.3%‘뚝’",
+    "삼성전자,국민이뽑은AI기업1위…구글·오픈AI앞서",
+    "국립순천대\"편향된국립의대신설·지원제안수용못해\"",
+    "'코스피급락'삼전닉스버티기?전문가조언은"
    ],
    "initialized": true,
-   "last_run": "2026-07-14T07:45:27.224823+09:00"
+   "last_run": "2026-07-14T07:50:56.257540+09:00"
   }
  },
  "press_names": {
