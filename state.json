@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-13T23:31:07.052424+09:00",
-     "달러 투자자들 상승 선호 소폭 중동 긴장 환율"
-    ],
-    [
      "2026-07-13T23:40:56.158746+09:00",
      "순천 통합 배치해야 전남 본부 신설 순천대 의대 국립의대 파행"
     ],
@@ -294,11 +290,13 @@
     [
      "2026-07-14T05:31:05.745407+09:00",
      "절반 남편 뽑아줬다 생각 잔금 슈퍼카 폭락장에 쏟아진 날려"
+    ],
+    [
+     "2026-07-14T05:35:22.323172+09:00",
+     "비명 반도체주들도 뉴욕증시 급락 SK하이닉스ADR"
     ]
    ],
    "seen_urls": [
-    "https://www.munhwa.com/article/11602240",
-    "https://www.mediapen.com/news/view/1109831",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=168078",
     "https://www.g-enews.com/view.php?ud=202607131152586670153ddfb15a_1",
     "https://www.seoul.co.kr/news/economy/securities/2026/07/13/20260713500103?wlog_tag3=naver",
@@ -1796,11 +1794,11 @@
     "https://www.yna.co.kr/view/AKR20260714008700072?input=1195m",
     "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374207",
     "http://www.fieldnews.kr/news/articleView.html?idxno=29932",
-    "https://www.mt.co.kr/society/2026/07/14/2026071323174340770"
+    "https://www.mt.co.kr/society/2026/07/14/2026071323174340770",
+    "https://www.news1.kr/world/international-economy/6226934",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=168110"
    ],
    "seen_titles": [
-    "LG유플러스,600억원규모버스공공와이파이사업수주…시내버스와...",
-    "SK하이닉스나스닥상장첫날,미국ADR은급등했지만국내본주는급락...",
     "SK하이닉스,57조AI메모리투자…EUV·패키징병목뚫는다",
     "삼성전자,낸드핵심인력SK하이닉스이직브레이크…법원\"전직금지\"",
     "24시간외환거래‘순항’…환율변동성↓",
@@ -3298,10 +3296,12 @@
     "SK하이닉스美ADR도9.3%급락…공모가소폭웃돌아",
     "'이현중포함'월드컵아시아예선나설남자대표팀훈련명단16명발...",
     "[강성원의현장톡(TALK)]반도체를시민의기회로…이상일시장이그리...",
-    "\"집잔금절반날려,남편슈퍼카뽑아줬다생각\"…폭락장에쏟아진'손..."
+    "\"집잔금절반날려,남편슈퍼카뽑아줬다생각\"…폭락장에쏟아진'손...",
+    "SK하닉미국상장열기하루만에식었다…나스닥ADR9%폭락",
+    "SK하이닉스ADR'급락'속...뉴욕증시반도체주들도'비명'"
    ],
    "initialized": true,
-   "last_run": "2026-07-14T05:31:05.745407+09:00"
+   "last_run": "2026-07-14T05:35:22.323172+09:00"
   }
  },
  "press_names": {
