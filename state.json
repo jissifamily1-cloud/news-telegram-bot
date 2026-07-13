@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-13T06:25:22.894908+09:00",
-     "전력 EPC 기업 계약 태양광 변모 동시 다스코 신안 인프라"
-    ],
-    [
-     "2026-07-13T06:25:22.894908+09:00",
-     "놓친 악마는 프라다2"
-    ],
-    [
      "2026-07-13T06:30:59.316955+09:00",
      "만든다 미래 SK하이닉스 새로운 40조 실탄으로"
     ],
@@ -1558,17 +1550,21 @@
     [
      "2026-07-13T12:25:20.402298+09:00",
      "밑돌아 급락해 장중 칠천피 코스피"
+    ],
+    [
+     "2026-07-13T12:30:55.062552+09:00",
+     "호남 접속 ESS로 1GW 태양광 막힌 재생에너지 연결한다"
+    ],
+    [
+     "2026-07-13T12:30:55.062552+09:00",
+     "안전망 CCTV로 이천시 우수 자가세정 강화"
+    ],
+    [
+     "2026-07-13T12:30:55.062552+09:00",
+     "경기도 CCTV 이천시 통합관제센터 발표대회 우수사례"
     ]
    ],
    "seen_urls": [
-    "https://www.joongang.co.kr/article/25444405",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=442137",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607121605323100834",
-    "https://www.mk.co.kr/article/12096415",
-    "https://www.mk.co.kr/article/12096416",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=92123",
-    "https://www.ddaily.co.kr/page/view/2026071216183791011",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=02099206645513864",
     "https://www.hankookilbo.com/news/article/A2026071210350001364?did=NA",
     "https://www.dt.co.kr/article/12072455",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260712010004332",
@@ -3060,17 +3056,17 @@
     "https://www.wikitree.co.kr/articles/1146138",
     "http://www.metroseoul.co.kr/article/20260713500164",
     "https://www.sentv.co.kr/article/view/sentv202607100138",
-    "https://www.hankyung.com/article/2026071315956"
+    "https://www.hankyung.com/article/2026071315956",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=266223",
+    "https://www.sisajournal.com/news/articleView.html?idxno=379607",
+    "https://www.yna.co.kr/view/AKR20260713080300008?input=1195m",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130105&t=NN",
+    "https://www.cstimes.com/news/articleView.html?idxno=713221",
+    "https://www.aitimes.com/news/articleView.html?idxno=212682",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2448085",
+    "http://www.weeklytoday.com/news/articleView.html?idxno=784906"
    ],
    "seen_titles": [
-    "삼성전자,용인첫공장1~2년앞당긴다…“2030년까지메모리부족”",
-    "[인사]국무조정실·국무총리비서실,하나은행",
-    "호르무즈다시봉쇄위기…유가ㆍ환율‘쌍끌이충격’우려",
-    "\"AI가판단하는시대…사람이얼마나통제할수있는지가중요\"",
-    "\"300만외국인고객잡아라\"이통3사,특화서비스경쟁",
-    "[이번주증시]급락뒤반등시도한코스피…美CPI·금통위'분수령'",
-    "“삼전·닉스레버리지초단타막자”…액트,30분단일가매매도입촉...",
-    "오늘의인사종합",
     "14년HBM뚝심으로꿈이룬최태원의자신감\"메모리성장못막는다\"",
     "고점서25%밀린코스피…“CPI부합땐삼전닉스·조선반등”",
     "SK하이닉스신주,당장매물은아니다…관건은ADR전환",
@@ -4562,10 +4558,18 @@
     "코스피7000선붕괴…가장큰하락률기록한대형주어디?",
     "'반도체급락'코스피,장중7000선붕괴...'200만닉스'깨져",
     "[주말용]AI가전화받고예약·주문까지…AICC도‘에이전트’경쟁",
-    "[속보]코스피6%대급락해장중'칠천피'밑돌아"
+    "[속보]코스피6%대급락해장중'칠천피'밑돌아",
+    "삼성전자,용인팹가동2년앞당긴다…SK하닉은美추가투자'승부수...",
+    "[속보]반도체'폭싹'···코스피7000깨졌다",
+    "코스피6%대급락,장중7,000선무너져…하이닉스12%↓",
+    "[속보]SK하이닉스13%·스퀘어15%'급락'…코스피7천선이탈",
+    "Sh수협은행,기업신용분석교육운영…SK계열사대상관계금융강화",
+    "재생에너지접속막힌호남…ESS로태양광1GW더연결한다",
+    "이천시,자가세정CCTV로안전망강화'우수'",
+    "[위클리오늘]이천시CCTV통합관제센터,경기도우수사례발표대회우..."
    ],
    "initialized": true,
-   "last_run": "2026-07-13T12:25:20.402298+09:00"
+   "last_run": "2026-07-13T12:30:55.062552+09:00"
   }
  },
  "press_names": {
