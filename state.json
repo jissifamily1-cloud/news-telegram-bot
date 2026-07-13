@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-13T23:45:32.525032+09:00",
-     "일제히 하락 봉쇄 트럼프 해상 재개"
-    ],
-    [
      "2026-07-13T23:50:54.415782+09:00",
      "우수상 이천시 발표대회 수상 CCTV 우수사례"
     ],
@@ -306,13 +302,21 @@
     [
      "2026-07-14T05:45:25.676340+09:00",
      "파는 지겹게 있다 외국인"
+    ],
+    [
+     "2026-07-14T05:50:52.465228+09:00",
+     "반도체 차고에서 IPO까지 6조 자강론 원대 이끈 실리콘밸리 CX"
+    ],
+    [
+     "2026-07-14T05:50:52.465228+09:00",
+     "트럼프 대통령의 반도체주 ADR SK하이닉스 마이크론"
+    ],
+    [
+     "2026-07-14T05:50:52.465228+09:00",
+     "동반 3대 반도체 에너지주 급등 하락 지수 급락에 소프트웨"
     ]
    ],
    "seen_urls": [
-    "https://www.hinews.co.kr/view.php?ud=202607131204392122cd8b879b3c_48",
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=79875",
-    "https://www.news1.kr/finance/market-exr/6226222",
-    "https://www.tokenpost.kr/news/economy/377067",
     "https://www.etnews.com/20260713000182",
     "https://www.dailypharm.com/user/news/340351?REFERER=NP",
     "https://www.yna.co.kr/view/AKR20260713078500073?input=1195m",
@@ -1808,13 +1812,13 @@
     "https://imnews.imbc.com/news/2026/world/article/6837170_36925.html",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607131213459780915",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607131211345310914",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130283&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130283&t=NN",
+    "https://www.newspim.com/news/view/20260714000011",
+    "https://www.g-enews.com/view.php?ud=2026071320271869560c8c1c064d_1",
+    "http://www.beyondpost.co.kr/view.php?ud=2026071405405722842aaae0046f_30",
+    "https://www.mediapen.com/news/view/1109957"
    ],
    "seen_titles": [
-    "\"해상넘어도로까지\"SK텔링크,한국도로공사에'저궤도위성통신'공급",
-    "이찬진금감원장\"ETF500조시대,과장광고엄중사안\"",
-    "삼성떠나SK하닉간직원들…법원'제동'",
-    "코스피,급락세에매도사이드카…7,000선위태",
     "[인터뷰]이주연성남산업진흥원장“AI·반도체·방산연결···성남산...",
     "‘MBC배관람’이노우에유스케FE나고야코치,“한국선수들이관심...",
     "SK하이닉스ADR레버리지ETF,무더기상장",
@@ -3310,10 +3314,14 @@
     "SK하이닉스미ADR도9.3%급락‥공모가소폭웃돌아",
     "[2026하반기산업3대정책리스크]노사갈등증폭…현대차부분파업등...",
     "[2026하반기산업3대정책리스크]공시ㆍ지배구조ㆍ인건비변수동시...",
-    "지겹게파는외국인…'1040'에답있다[B급기자의B급리포트]"
+    "지겹게파는외국인…'1040'에답있다[B급기자의B급리포트]",
+    "뉴욕증시,이란긴장고조에위험회피…반도체주급락하며3대지수'풀...",
+    "실리콘밸리차고에서6조원대IPO까지…‘반도체자강론’이끈中CX...",
+    "SK하이닉스ADR9.3%,마이크론4.3%↓...반도체주,트럼프대통령의호...",
+    "[美증시]반도체급락에3대지수동반하락...에너지주급등,소프트웨..."
    ],
    "initialized": true,
-   "last_run": "2026-07-14T05:45:25.676340+09:00"
+   "last_run": "2026-07-14T05:50:52.465228+09:00"
   }
  },
  "press_names": {
