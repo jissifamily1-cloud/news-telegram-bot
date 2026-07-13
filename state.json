@@ -282,13 +282,13 @@
     [
      "2026-07-14T05:20:53.916828+09:00",
      "사이클은 투자 최저 밸류에이션 10년래 엔비디아 전문가들"
+    ],
+    [
+     "2026-07-14T05:25:22.225335+09:00",
+     "14일 경제 캘린더 7월"
     ]
    ],
    "seen_urls": [
-    "https://www.thepublic.kr/news/articleView.html?idxno=311012",
-    "http://www.00news.co.kr/news/articleView.html?idxno=105083",
-    "https://www.ddaily.co.kr/page/view/2026071309354432410",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=266219",
     "https://biz.chosun.com/it-science/ict/2026/07/13/E5EQCJBEDFFSNABQHI7FVCLIAU/",
     "https://www.gokorea.kr/news/articleView.html?idxno=871909",
     "https://www.newspim.com/news/view/20260713000512",
@@ -1784,13 +1784,13 @@
     "https://www.news1.kr/finance/blockchain-fintech/6226391",
     "https://news.mtn.co.kr/news-detail/2026071405181639362",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01744966645514520",
-    "https://www.g-enews.com/view.php?ud=2026071405123694872bd56fbc3c_1"
+    "https://www.g-enews.com/view.php?ud=2026071405123694872bd56fbc3c_1",
+    "http://www.fnnews.com/news/202607140520221719",
+    "https://www.seoulfn.com/news/articleView.html?idxno=633281",
+    "https://www.news1.kr/world/international-economy/6226932",
+    "https://www.ytn.co.kr/_ln/0102_202607140516393876"
    ],
    "seen_titles": [
-    "[특징주]SK하이닉스,10%급락에200만원선이탈…중동리스크·ADR수급...",
-    "코스피급락에사이드카아닌‘또이드카’발동…올해만35번째[자막뉴...",
-    "레버리지ETF수술대로…이찬진,과장광고'경고장'",
-    "법원“삼성핵심인력,SK하닉이직1년6개월금지”",
     "하나증권,전문가운용'1Q스마트개인연금랩'출시",
     "'이강인2군동료'출신,'라리가팀상대로연속골기록'공격수가제주...",
     "올해개원가독감백신트렌드는3가...\"4가백신불필요\"",
@@ -3286,10 +3286,14 @@
     "가상자산거래열기식었다…5대거래소상반기거래대금'반토막'",
     "SK하이닉스ADR8%급락…반도체주매도에나스닥1.6%하락[뉴욕is]",
     "[속보]나스닥,호르무즈긴장·유가급등에1.6%↓…하이닉스ADR9.3%↓(...",
-    "엔비디아밸류에이션10년래최저…전문가들“AI투자사이클은‘현..."
+    "엔비디아밸류에이션10년래최저…전문가들“AI투자사이클은‘현...",
+    "[뉴욕증시]이란·반도체양대악재에하락…SK하닉,9.3%폭락",
+    "[뉴욕증시]이란재봉쇄·반도체급락'뚝'…유가9%↑·SK하닉9%↓",
+    "[속보]SK하닉美ADR상장첫날12%폭등했다가다음날9%폭락",
+    "■7월14일화경제캘린더"
    ],
    "initialized": true,
-   "last_run": "2026-07-14T05:20:53.916828+09:00"
+   "last_run": "2026-07-14T05:25:22.225335+09:00"
   }
  },
  "press_names": {
