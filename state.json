@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-13T14:15:26.381830+09:00",
-     "범행 장윤기 주요뉴스 인정 목적 성범죄 오늘의"
-    ],
-    [
      "2026-07-13T14:25:22.768006+09:00",
      "매각 넥스플렉스 홈플러스 MBK 폐지와 회생 연기 본입찰"
     ],
@@ -1422,12 +1418,13 @@
     [
      "2026-07-13T20:10:55.908177+09:00",
      "레버리지 청산에 하회 6만3000달러 스테이블코 비트코인"
+    ],
+    [
+     "2026-07-13T20:15:26.402044+09:00",
+     "비명 전망했는데 삼전닉스 1만피 폭락에 넘을"
     ]
    ],
    "seen_urls": [
-    "https://www.ppss.kr/news/articleView.html?idxno=301906",
-    "https://view.asiae.co.kr/article/2026071310550505041",
-    "https://www.sedaily.com/article/20066950",
     "https://www.viva100.com/article/20260713500471",
     "https://www.sisajournal.com/news/articleView.html?idxno=379173",
     "https://biz.heraldcorp.com/article/10806707",
@@ -2924,12 +2921,12 @@
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1530541",
     "https://www.kyeongin.com/article/1767263",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008655622&plink=ORI&cooper=NAVER",
-    "https://www.newspim.com/news/view/20260713001170"
+    "https://www.newspim.com/news/view/20260713001170",
+    "http://coinreaders.com/247437",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6837113_37004.html",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008655623&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "반도체주또휘청…SK하이닉스8%·삼성전자4%급락",
-    "교보증권,삼성전자·SK하이닉스기초자산월지급식ELB공모나서",
-    "코스피급락에'매도사이드카'…SK하닉200만원붕괴",
     "고려대,고가장비없어도AI고성능확보...LLM운영비용줄일신기술...",
     "이찬진“ETF괴리율관리만전”…운용업계에자정노력촉구",
     "코스피급락에매도사이드카발동...삼전6%-SK하닉9%↓",
@@ -4426,10 +4423,13 @@
     "코스피7천선붕괴…반도체급락에'휘청'",
     "법원,하이닉스로이직삼전핵심인력‘전직금지가처분’인용",
     "ADR올라기대했는데…코스피하닉15%급락,왜",
-    "[코인시황]비트코인,레버리지청산에6만3000달러하회…스테이블코..."
+    "[코인시황]비트코인,레버리지청산에6만3000달러하회…스테이블코...",
+    "AI메모리주'패닉셀'…삼성전자·SK하이닉스급락,무슨일이벌어졌나",
+    "7천깨진코스피,5월초수준으로‥ADR상장효과없었나?",
+    "\"'1만피'넘을것\"전망했는데…삼전닉스폭락에비명"
    ],
    "initialized": true,
-   "last_run": "2026-07-13T20:10:55.908177+09:00"
+   "last_run": "2026-07-13T20:15:26.402044+09:00"
   }
  },
  "press_names": {
