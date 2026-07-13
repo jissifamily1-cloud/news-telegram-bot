@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-14T01:40:49.901098+09:00",
-     "7000선 급락 공포의 붕괴 먼데이 한국증시 블랙"
-    ],
-    [
      "2026-07-14T03:40:58.818324+09:00",
      "해프닝 논란 사랑해 SNS의 김희영 KHY 최태원"
     ],
@@ -586,16 +582,17 @@
     [
      "2026-07-14T07:35:23.170952+09:00",
      "월가 스페이스X발 예고 실적 역대급 수수료 잔치"
+    ],
+    [
+     "2026-07-14T07:40:50.110241+09:00",
+     "몸값 커촹반 반도체공룡 분주 554조 증시뜬다 손님맞이"
+    ],
+    [
+     "2026-07-14T07:40:50.110241+09:00",
+     "개인투자자 했다 물린 설거지 106조 비상 88조 코스피"
     ]
    ],
    "seen_urls": [
-    "https://www.sidae.com/article/2026071312240057394",
-    "http://www.inews24.com/view/1984930",
-    "https://www.asiatime.co.kr/article/20260713500281",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=168081",
-    "https://www.namdonews.com/news/articleView.html?idxno=916733",
-    "https://www.news1.kr/photos/8005475",
-    "http://weekly.chosun.com/news/articleView.html?idxno=53409",
     "https://www.etoday.co.kr/news/view/2603095",
     "https://www.ytn.co.kr/_ln/0104_202607131349385216",
     "https://www.sisajournal.com/news/articleView.html?idxno=379591",
@@ -2088,16 +2085,16 @@
     "https://www.yna.co.kr/view/AKR20260714016000011?input=1195m",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=849863",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683682",
-    "https://www.dt.co.kr/article/12072741"
+    "https://www.dt.co.kr/article/12072741",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=279874",
+    "https://www.etoday.co.kr/news/view/2603298",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=61543",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=441145",
+    "https://biz.sbs.co.kr/article_hub/20000322310?division=NAVER",
+    "https://www.mk.co.kr/article/12097832",
+    "https://www.ajunews.com/view/20260714072344510"
    ],
    "seen_titles": [
-    "SK하이닉스,사이드카부른13%대급락…ADR프리미엄25%로벌어져",
-    "코스피두달전수준됐다…올해7번째서킷브레이커발동",
-    "투톱무너졌다코스피,사이드카에서킷브레이커",
-    "코스피,하이닉스급락",
-    "코스피,8%대급락에'서킷브레이커'발동…올들어7번째",
-    "[티타임]6880선코스피,하이닉스13%뚝…매도사이드카→서킷브레이...",
-    "SK하이닉스\"오늘점심은랍스터\"…美ADR상장기념특식",
     "코스피또급락...1단계서킷브레이커발동",
     "亞오후장중...코스피'폭락'&韓양대반도체주'휘청'",
     "與\"3대메가프로젝트속도전…주요입법연말까지반드시처리\"",
@@ -3590,10 +3587,17 @@
     "[연합뉴스이시각헤드라인]-07:30",
     "전기차다시달리는데…K배터리,반등열쇠는",
     "기업AX띄우기박차...색깔드러내는박윤영號KT",
-    "스페이스X발월가수수료잔치…‘역대급실적’예고"
+    "스페이스X발월가수수료잔치…‘역대급실적’예고",
+    "이재용,2분기주식평가액28조원증가…최태원,총액10조원넘어",
+    "원·달러NDF5.3원하락..SK하이닉스ADR후광",
+    "트럼프\"호르무즈통행료20%\"선언에뉴욕증시급락…나스닥1.6%하락",
+    "뉴욕증시,대이란봉쇄·반도체주부진에하락⋯SK하이닉스9%대,샌디스...",
+    "국민연금비밸런싱커지나?5%이상상장사비중27.7%",
+    "‘몸값554조’中반도체공룡증시뜬다…커촹반손님맞이분주",
+    "\"코스피106조설거지했다\"?...88조물린개인투자자'비상'"
    ],
    "initialized": true,
-   "last_run": "2026-07-14T07:35:23.170952+09:00"
+   "last_run": "2026-07-14T07:40:50.110241+09:00"
   }
  },
  "press_names": {
