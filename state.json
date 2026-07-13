@@ -374,14 +374,21 @@
     [
      "2026-07-14T00:31:15.014531+09:00",
      "실패가 증시 빚투 관리 빚어낸 폭락 쏠림"
+    ],
+    [
+     "2026-07-14T00:35:22.780313+09:00",
+     "화물 선방 쇼크 고유가 여객 대한항공 양날개"
+    ],
+    [
+     "2026-07-14T00:35:22.780313+09:00",
+     "하락세 뉴욕 무력 증시 충돌 이란 미국"
+    ],
+    [
+     "2026-07-14T00:35:22.780313+09:00",
+     "늘었는데 수익은 씁쓸한 제자리 삼전닉스 일은 소부장 호황에"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008654521&plink=ORI&cooper=NAVER",
-    "https://biz.sbs.co.kr/article_hub/20000322116?division=NAVER",
-    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553371501",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=81714",
-    "https://www.mt.co.kr/stock/2026/07/13/2026071310554632087",
     "https://www.youthdaily.co.kr/news/article.html?no=222847",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/13/2026071300128.html",
     "http://www.wsobi.com/news/articleView.html?idxno=315124",
@@ -1876,14 +1883,14 @@
     "https://www.hankyung.com/article/2026071326231",
     "https://www.newsis.com/view/NISX20260713_0003707191",
     "https://www.hankyung.com/article/2026071326181",
-    "https://www.joongang.co.kr/article/25444814"
+    "https://www.joongang.co.kr/article/25444814",
+    "https://www.chosun.com/economy/money/2026/07/14/DVHLRKM65FEA5O6UF44AVMLFAQ/",
+    "https://www.joongang.co.kr/article/25444816",
+    "https://www.chosun.com/economy/industry-company/2026/07/14/MATTAJPMSVGEZOW656GVVNYK4E/",
+    "https://www.ytn.co.kr/_ln/0104_202607140032587730",
+    "https://www.chosun.com/economy/economy_general/2026/07/14/CZJGAWY2MZEKJE7PWQGBV2CNHE/"
    ],
    "seen_titles": [
-    "“ADR로하이닉스주가더뛴다”...얼마나오를까[오늘,이종목]",
-    "중국관영매체'미국상무장관압박'삼성전자SK하이닉스에러브콜,\"중...",
-    "SKhynixdropsmorethan3%inSeoul,SamsungElecedgeshigher",
-    "‘색’으로바꾼산업현장…중대재해는없다",
-    "코오롱글로벌,1,260억규모용인반도체클러스터용수공급사업수주",
     "신약전폭지원·낮은임상문턱...바이오기업들中서R&D활발",
     "최태원“고객사메모리급구…수요·공급갭무지커”",
     "[자막뉴스]\"다니들탓!\"삼전닉스'정조준'한일본…\"미국주식시장흔...",
@@ -3378,10 +3385,15 @@
     "[사설]20년묵은증손회사규제완화로기업투자물꼬터줘야",
     "\"AI시대전력난현실화\"…中배제흐름에韓에너지기업수혜기대",
     "[취재수첩]대만의'반도체신흥계급'이보내는경고",
-    "[사설]‘빚투’와쏠림,관리실패가빚어낸증시폭락"
+    "[사설]‘빚투’와쏠림,관리실패가빚어낸증시폭락",
+    "하이닉스,나스닥상장에도15%폭락한까닭은?",
+    "“롤러코스피에질렸다”…미장으로떠나는개미들",
+    "여객·화물양날개…대한항공‘고유가쇼크’선방",
+    "뉴욕증시,미국·이란무력충돌속하락세",
+    "“일은늘었는데수익은제자리…”삼전닉스호황에씁쓸한‘소부장..."
    ],
    "initialized": true,
-   "last_run": "2026-07-14T00:31:15.014531+09:00"
+   "last_run": "2026-07-14T00:35:22.780313+09:00"
   }
  },
  "press_names": {
