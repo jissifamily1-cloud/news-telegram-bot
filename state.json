@@ -4,30 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-13T14:10:48.750694+09:00",
-     "무한대 막는 수요는 AI를 에너지뿐"
-    ],
-    [
-     "2026-07-13T14:10:48.750694+09:00",
-     "상승폭 축소에도 장중 유지 강세 11만원선 회복 SK이노베이션"
-    ],
-    [
-     "2026-07-13T14:10:48.750694+09:00",
-     "falls breaker Kospi circuit index below as triggered"
-    ],
-    [
-     "2026-07-13T14:10:48.750694+09:00",
-     "매매 해제 서킷브레이커 재개 코스피 거래중단 20분간"
-    ],
-    [
-     "2026-07-13T14:10:48.750694+09:00",
-     "역대급 구간 목표치 2만 저평가 유지 6800대 골드만 코스피에도"
-    ],
-    [
-     "2026-07-13T14:10:48.750694+09:00",
-     "13일 7월 오전 투데이 사이언스"
-    ],
-    [
      "2026-07-13T14:15:26.381830+09:00",
      "범행 장윤기 주요뉴스 인정 목적 성범죄 오늘의"
     ],
@@ -1442,14 +1418,13 @@
     [
      "2026-07-13T20:05:24.463993+09:00",
      "리스크에 비트코인 관망 동반 중동 파생시장은 약세 알트코인"
+    ],
+    [
+     "2026-07-13T20:10:55.908177+09:00",
+     "레버리지 청산에 하회 6만3000달러 스테이블코 비트코인"
     ]
    ],
    "seen_urls": [
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/13/2026071390125.html",
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699123",
-    "https://sateconomy.co.kr/news/view/1065577654976385",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3634012",
-    "https://www.thelec.kr/news/articleView.html?idxno=59456",
     "https://www.ppss.kr/news/articleView.html?idxno=301906",
     "https://view.asiae.co.kr/article/2026071310550505041",
     "https://www.sedaily.com/article/20066950",
@@ -2944,14 +2919,14 @@
     "https://www.hankyung.com/article/2026071322856",
     "https://www.koreatimes.co.kr/path/A2026071314010004886",
     "https://www.ikbc.co.kr/article/view/kbc202607130052",
-    "https://www.tokenpost.kr/news/cryptocurrency/377225"
+    "https://www.tokenpost.kr/news/cryptocurrency/377225",
+    "http://www.kwangju.co.kr/article.php?aid=1783940700801230005",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1530541",
+    "https://www.kyeongin.com/article/1767263",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008655622&plink=ORI&cooper=NAVER",
+    "https://www.newspim.com/news/view/20260713001170"
    ],
    "seen_titles": [
-    "SK하이닉스ADR연계레버리지ETF,뉴욕증시줄줄이출시",
-    "'드러누워서라도막았어야'했던이찬진…CEO앞에선레버리지ETF'침묵...",
-    "중동리스크에반도체주폭락…SK하이닉스10%·삼성전자6%↓",
-    "코스피급락에매도사이드카…하이닉스200만원아래로",
-    "“코스피완전히바닥권수준”…다시불붙은‘1만피’기대감",
     "반도체주또휘청…SK하이닉스8%·삼성전자4%급락",
     "교보증권,삼성전자·SK하이닉스기초자산월지급식ELB공모나서",
     "코스피급락에'매도사이드카'…SK하닉200만원붕괴",
@@ -4446,10 +4421,15 @@
     "'하닉·삼전시총역전=주가폭락'그증권사\"과매도국면\"[분석+]",
     "WallStreetemergesastooltodrawKoreanAIinvestmenttoUS",
     "민형배\"전라도천년역사흔든일대사건...반도체성공에올인\"[와이...",
-    "중동리스크에비트코인·알트코인동반약세…파생시장은관망"
+    "중동리스크에비트코인·알트코인동반약세…파생시장은관망",
+    "삼전닉스급락…코스피7000선붕괴",
+    "코스피7천선붕괴…반도체급락에'휘청'",
+    "법원,하이닉스로이직삼전핵심인력‘전직금지가처분’인용",
+    "ADR올라기대했는데…코스피하닉15%급락,왜",
+    "[코인시황]비트코인,레버리지청산에6만3000달러하회…스테이블코..."
    ],
    "initialized": true,
-   "last_run": "2026-07-13T20:05:24.463993+09:00"
+   "last_run": "2026-07-13T20:10:55.908177+09:00"
   }
  },
  "press_names": {
