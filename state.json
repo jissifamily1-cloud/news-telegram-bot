@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-13T13:25:23.019908+09:00",
-     "가성비 무한 아니라 거의 수요는 시대로 거품"
-    ],
-    [
-     "2026-07-13T13:25:23.019908+09:00",
-     "LS일렉트릭 목표주가 논쟁 수익성 가른 배전"
-    ],
-    [
-     "2026-07-13T13:25:23.019908+09:00",
-     "삼성전자 기회 급락 지금이 25만9000원 찍었다"
-    ],
-    [
      "2026-07-13T13:31:01.846938+09:00",
      "satellite highway into response Telink expands disaster network"
     ],
@@ -1538,11 +1526,17 @@
     [
      "2026-07-13T19:25:22.041621+09:00",
      "선도 충격의 붕괴 코스피 7천"
+    ],
+    [
+     "2026-07-13T19:30:59.495963+09:00",
+     "SK하이닉스 호남 가능해진다 펀딩"
+    ],
+    [
+     "2026-07-13T19:30:59.495963+09:00",
+     "총알도 34조 증발 예탁금 개미 한달새 떨어진다"
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20260713508409?OutUrl=naver",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=82015",
     "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=898301",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=360160",
     "http://www.thevaluenews.co.kr/news/view.php?idx=200029",
@@ -3040,11 +3034,11 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16133257",
     "https://www.thedailypost.kr/news/articleView.html?idxno=114651",
     "https://www.hankyung.com/article/202607132712i",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609393"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609393",
+    "http://www.fnnews.com/news/202607131925307412",
+    "https://www.munhwa.com/article/11602351"
    ],
    "seen_titles": [
-    "SK하이닉스ADR연계레버리지ETF최소10개사출시신청:한국반도체...",
-    "'나스닥흥행'삼킨중동발리스크…코스피,4%급락에매도사이드카(...",
     "SK케미칼,기후재난대비이재민지원긴급구호키트직접제작",
     "중동리스크고조에…하이닉스8%·삼전4%↓[특징주]",
     "\"저평가라는데\"개미들은하락베팅…급락장에인버스몰렸다",
@@ -4542,10 +4536,12 @@
     "[산업분석]삼성전자·SK하이닉스,DRAM수출437%급증에도주가폭락",
     "SK텔레콤,휴가철로밍할인·멤버십혜택확대",
     "\"SK하이닉스,모두가흔들고싶은돈나무돼\"[블룸버그]",
-    "7천선도붕괴…충격의코스피"
+    "7천선도붕괴…충격의코스피",
+    "SK하이닉스호남팹,펀딩가능해진다",
+    "개미‘물탈’총알도떨어진다…예탁금,한달새34조증발"
    ],
    "initialized": true,
-   "last_run": "2026-07-13T19:25:22.041621+09:00"
+   "last_run": "2026-07-13T19:30:59.495963+09:00"
   }
  },
  "press_names": {
