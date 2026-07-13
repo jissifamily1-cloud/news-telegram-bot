@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-13T22:01:03.610923+09:00",
-     "7000선 급락에 반도체 내줘 코스피"
-    ],
-    [
      "2026-07-13T22:05:47.350198+09:00",
      "이탈 자금 둔화 코스피 외국인 진정세 매도"
     ],
@@ -218,10 +214,13 @@
     [
      "2026-07-14T03:40:58.818324+09:00",
      "해프닝 논란 사랑해 SNS의 김희영 KHY 최태원"
+    ],
+    [
+     "2026-07-14T04:01:04.417993+09:00",
+     "국민 모두의 프로젝트 국산 본격 누구나"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10806862",
     "https://www.newstnt.com/news/articleView.html?idxno=709946",
     "https://www.newsis.com/view/NISX20260713_0003706363",
     "https://biz.heraldcorp.com/article/10806854",
@@ -1720,10 +1719,10 @@
     "http://www.babytimes.co.kr/news/articleView.html?idxno=73545",
     "http://coinreaders.com/247489",
     "https://www.abcn.kr/news/articleView.html?idxno=89391",
-    "https://www.newsis.com/view/NISX20260714_0003707701"
+    "https://www.newsis.com/view/NISX20260714_0003707701",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=311707"
    ],
    "seen_titles": [
-    "SK하이닉스,‘200만원벽’마저깨졌다…반도체역대급호황인데도대...",
     "고려대,LLM서버비용낮추는GPU스케줄링기술개발…\"처리성능,업...",
     "고려대,LLM운영비용줄이고고성능확보한신기술선보여",
     "“SK하이닉스본주최대18%더오른다”…DS證“ADR효과이제시작”",
@@ -3222,10 +3221,11 @@
     "한국증시7000선붕괴·9%급락'공포의블랙먼데이'",
     "중동發무력충돌에유가·금리폭등쇼크...뉴욕증시,폭락경고등",
     "사랑해(S)김희영(KHY)?...최태원SNS의'SKHY'논란해프닝",
-    "SK하이닉스ADR,프리마켓서9%하락…본주급락여파"
+    "SK하이닉스ADR,프리마켓서9%하락…본주급락여파",
+    "[출근길포인트]'모두의AI프로젝트'본격추진…국민누구나국산A..."
    ],
    "initialized": true,
-   "last_run": "2026-07-14T03:55:23.649424+09:00"
+   "last_run": "2026-07-14T04:01:04.417993+09:00"
   }
  },
  "press_names": {
