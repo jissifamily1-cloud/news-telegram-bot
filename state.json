@@ -1550,13 +1550,17 @@
     [
      "2026-07-13T12:15:24.111440+09:00",
      "200만원 코스피지수도 밑으로 하이닉스 7000선 깨진"
+    ],
+    [
+     "2026-07-13T12:25:20.402298+09:00",
+     "주문까지 받고 전화 AI가 경쟁 에이전트 AICC도 예약"
+    ],
+    [
+     "2026-07-13T12:25:20.402298+09:00",
+     "밑돌아 급락해 장중 칠천피 코스피"
     ]
    ],
    "seen_urls": [
-    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=595819",
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256071",
-    "https://www.kgnews.co.kr/news/article.html?no=903552",
-    "https://www.newscj.com/news/articleView.html?idxno=3416368",
     "https://www.joongang.co.kr/article/25444405",
     "https://www.businesspost.co.kr/BP?command=article_view&num=442137",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607121605323100834",
@@ -3052,13 +3056,13 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4424646",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1716115",
     "https://www.chosun.com/economy/money/2026/07/13/BIES4UG2NZDNVCOIVKVQ5EVZ3Y/",
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=604644"
+    "https://www.mdtoday.co.kr/news/articleView.html?idxno=604644",
+    "https://www.wikitree.co.kr/articles/1146138",
+    "http://www.metroseoul.co.kr/article/20260713500164",
+    "https://www.sentv.co.kr/article/view/sentv202607100138",
+    "https://www.hankyung.com/article/2026071315956"
    ],
    "seen_titles": [
-    "제주SK,최전방고민덜었다...브라질출신아이아스영입",
-    "증시호황에마통꺼내든4050···전체잔액65%돌파",
-    "하나은행,반도체소부장협력기업지원'본격추진'",
-    "AI수요가만든메모리대전…생산주도권경쟁격화",
     "삼성전자,용인첫공장1~2년앞당긴다…“2030년까지메모리부족”",
     "[인사]국무조정실·국무총리비서실,하나은행",
     "호르무즈다시봉쇄위기…유가ㆍ환율‘쌍끌이충격’우려",
@@ -4554,10 +4558,14 @@
     "SK하이닉스국고채매수본격화…\"하반기부터조단위매수\"유력",
     "[속보]코스피,장중7000선붕괴…6%대급락",
     "[속보]코스피6%대급락,장중7000선무너져",
-    "SK하이닉스,나스닥흥행에도국내선10%폭락…200만원선붕괴"
+    "SK하이닉스,나스닥흥행에도국내선10%폭락…200만원선붕괴",
+    "코스피7000선붕괴…가장큰하락률기록한대형주어디?",
+    "'반도체급락'코스피,장중7000선붕괴...'200만닉스'깨져",
+    "[주말용]AI가전화받고예약·주문까지…AICC도‘에이전트’경쟁",
+    "[속보]코스피6%대급락해장중'칠천피'밑돌아"
    ],
    "initialized": true,
-   "last_run": "2026-07-13T12:20:52.351643+09:00"
+   "last_run": "2026-07-13T12:25:20.402298+09:00"
   }
  },
  "press_names": {
