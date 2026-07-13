@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-13T23:50:54.415782+09:00",
-     "우수상 이천시 발표대회 수상 CCTV 우수사례"
-    ],
-    [
      "2026-07-14T00:01:03.919667+09:00",
      "폭발 지지선 붕괴시 물량 패시브 손절매 우려 반도체"
     ],
@@ -317,9 +313,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20260713000182",
-    "https://www.dailypharm.com/user/news/340351?REFERER=NP",
-    "https://www.yna.co.kr/view/AKR20260713078500073?input=1195m",
     "http://www.4th.kr/news/articleView.html?idxno=2114653",
     "https://www.bigtanews.co.kr/article/view/big202607130007",
     "http://www.newscape.co.kr/news/articleView.html?idxno=123281",
@@ -1816,12 +1809,12 @@
     "https://www.newspim.com/news/view/20260714000011",
     "https://www.g-enews.com/view.php?ud=2026071320271869560c8c1c064d_1",
     "http://www.beyondpost.co.kr/view.php?ud=2026071405405722842aaae0046f_30",
-    "https://www.mediapen.com/news/view/1109957"
+    "https://www.mediapen.com/news/view/1109957",
+    "https://www.sedaily.com/article/20067311",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=82082",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=850056"
    ],
    "seen_titles": [
-    "[인터뷰]이주연성남산업진흥원장“AI·반도체·방산연결···성남산...",
-    "‘MBC배관람’이노우에유스케FE나고야코치,“한국선수들이관심...",
-    "SK하이닉스ADR레버리지ETF,무더기상장",
     "SK하이닉스나스닥상장보다화제된최태원‘SKHY’…‘사랑해김희...",
     "'나스닥팡파레'SK닉스9%폭락…코스피매도사이드카발동",
     "SK하닉,ADR흥행에도9%급락…코스피또사이드카[장중시황]",
@@ -3318,10 +3311,13 @@
     "뉴욕증시,이란긴장고조에위험회피…반도체주급락하며3대지수'풀...",
     "실리콘밸리차고에서6조원대IPO까지…‘반도체자강론’이끈中CX...",
     "SK하이닉스ADR9.3%,마이크론4.3%↓...반도체주,트럼프대통령의호...",
-    "[美증시]반도체급락에3대지수동반하락...에너지주급등,소프트웨..."
+    "[美증시]반도체급락에3대지수동반하락...에너지주급등,소프트웨...",
+    "나스닥,‘트럼프호르무즈통행료예고’에1.6%급락...국제유가10%...",
+    "중동긴장에국제유가10%급등…AI반도체주약세,뉴욕증시하락",
+    "SK하이닉스ADR,2거래일째9%급락"
    ],
    "initialized": true,
-   "last_run": "2026-07-14T05:50:52.465228+09:00"
+   "last_run": "2026-07-14T05:55:23.781016+09:00"
   }
  },
  "press_names": {
