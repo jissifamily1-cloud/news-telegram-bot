@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-14T01:05:22.196651+09:00",
-     "한국 휘청 집중의 시작되나 폭락에 기술주 악순환 월가까지"
-    ],
-    [
      "2026-07-14T01:40:49.901098+09:00",
      "7000선 급락 공포의 붕괴 먼데이 한국증시 블랙"
     ],
@@ -510,15 +506,25 @@
     [
      "2026-07-14T07:05:20.597554+09:00",
      "낙점 신한증권 전력솔루션 IPO 주관사에 이온"
+    ],
+    [
+     "2026-07-14T07:10:54.035655+09:00",
+     "나서나 가능성 악화 긴축 추가 호르무즈 사태 연준"
+    ],
+    [
+     "2026-07-14T07:10:54.035655+09:00",
+     "CJ 촉각 대형사 확산 노조 향방 SI업계"
+    ],
+    [
+     "2026-07-14T07:10:54.035655+09:00",
+     "전세 주담대 비용 매매 9억 한도보다 갈아타기 서울"
+    ],
+    [
+     "2026-07-14T07:10:54.035655+09:00",
+     "한국투자증권 대신증권 빗썸 IBK투자증권 한국투자신탁운용"
     ]
    ],
    "seen_urls": [
-    "https://www.munhwa.com/article/11602288",
-    "https://www.joongangenews.com/news/articleView.html?idxno=532320",
-    "https://www.ytn.co.kr/_ln/0103_202607131335246627",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=847018",
-    "https://www.imaeil.com/page/view/2026071313334280772",
-    "http://www.newsbrite.net/news/articleView.html?idxno=199219",
     "https://www.g-enews.com/view.php?ud=202607131322239531cd0bfacc1c_1",
     "https://www.mk.co.kr/article/12097038",
     "https://news.dealsitetv.com/articles/173211",
@@ -2012,15 +2018,15 @@
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607131427125590950",
     "http://www.newsian.co.kr/news/articleView.html?idxno=92176",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607110112484640108954",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607091735286040109565"
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607091735286040109565",
+    "https://www.kyeonggi.com/article/20260714580008",
+    "https://www.ajunews.com/view/20260714070348501",
+    "https://biz.sbs.co.kr/article_hub/20000322294?division=NAVER",
+    "https://www.newsway.co.kr/news/view?ud=2026071315093712709",
+    "https://www.hankyung.com/article/2026071429667",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=92177"
    ],
    "seen_titles": [
-    "이천시,자가세정CCTV운영성과우수상",
-    "SK케미칼,'2026밸류데이'긴급구호키트400세트제작·전달",
-    "[속보]코스피6880선까지붕괴…7.91%↓",
-    "한은“반도체고점아니다”…글로벌호황내년까지이어질전망",
-    "SouthKorea’sKOSPITriggersTradingCurbasAIChipStockSelloffDeep",
-    "실적도ADR흥행도못막았다…삼성·하이닉스급락에외신이본'세가...",
     "미래에셋생명,한·미·중반도체ETF변액펀드3종출시…투자선택지...",
     "[속보]코스피장중8%급락,서킷브레이커발동…올해7번째",
     "[ESG]SK케미칼,재난이재민위한긴급구호키트400개제작",
@@ -3514,10 +3520,16 @@
     "흑자전환·주식병합‘쌍끌이’…상상인증권,동전주탈피하나",
     "[금융픽]IBK기업은행·신한은행·KB국민은행·하나은행·Sh수협은행",
     "[더벨]최태원ADR규모확대시사,관건은'주가안정'",
-    "[더벨]'전력솔루션'이온,IPO주관사에신한증권낙점"
+    "[더벨]'전력솔루션'이온,IPO주관사에신한증권낙점",
+    "국민연금국내주식평가액462조돌파…'삼전·닉스'절반넘었다",
+    "[뉴욕증시마감]유가10%뛰고반도체주급락…나스닥1.55%↓",
+    "[증시전략]'호르무즈사태'악화가능성…연준추가긴축나서나?",
+    "SI업계노조확산…CJ등대형사향방'촉각'",
+    "\"'주담대'한도보다커\"…서울'전세→매매'갈아타기비용9억",
+    "[증권픽]대신증권·한국투자증권·IBK투자증권·한국투자신탁운용·빗썸"
    ],
    "initialized": true,
-   "last_run": "2026-07-14T07:05:20.597554+09:00"
+   "last_run": "2026-07-14T07:10:54.035655+09:00"
   }
  },
  "press_names": {
