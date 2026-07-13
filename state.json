@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-13T06:50:52.236260+09:00",
-     "공급 질서 하반기 3사가 다시 HBM 전쟁 커스텀 짠다 본격화"
-    ],
-    [
-     "2026-07-13T06:50:52.236260+09:00",
-     "호재 한국유나이티드 종근당 JW중외 대웅 삼진"
-    ],
-    [
-     "2026-07-13T06:55:21.383548+09:00",
-     "주가 펀더멘털 강화에도 수급 손상 목표가 HD현대일렉트릭"
-    ],
-    [
-     "2026-07-13T06:55:21.383548+09:00",
-     "석화업계 사투 반도체 밧줄 습격에 안방 잡고 뺏긴"
-    ],
-    [
      "2026-07-13T06:59:52.547943+09:00",
      "논란 외국계 싹쓸이 국부 정보 유출 5000억 넘는"
     ],
@@ -1558,13 +1542,17 @@
     [
      "2026-07-13T12:50:51.392662+09:00",
      "칼럼 돈나무 흔들고 SK하이닉스 블룸버그 싶어한다 모두가"
+    ],
+    [
+     "2026-07-13T12:55:23.255566+09:00",
+     "금리인상은 예고편 번째 10월인가 8월인가 7월"
+    ],
+    [
+     "2026-07-13T12:55:23.255566+09:00",
+     "코스피 버블의 실패의 전조인가 시장 급락은 실체"
     ]
    ],
    "seen_urls": [
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=604565",
-    "https://www.yna.co.kr/view/AKR20260712041200007?input=1195m",
-    "https://weeklytrade.co.kr/news/view.html?section=1&category=6&no=100575",
-    "https://www.namdonews.com/news/articleView.html?idxno=916612",
     "https://www.businesspost.co.kr/BP?command=article_view&num=442139",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02118886645513864",
     "https://www.etoday.co.kr/news/view/2602555",
@@ -3060,13 +3048,13 @@
     "https://www.itbiznews.com/news/articleView.html?idxno=218915",
     "https://www.newspim.com/news/view/20260713000688",
     "https://www.thescoop.co.kr/news/articleView.html?idxno=310875",
-    "https://www.yna.co.kr/view/AKR20260713069000009?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260713069000009?input=1195m",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16132859",
+    "https://www.joongang.co.kr/article/25444588",
+    "http://www.joseilbo.com/news/news_read.php?uid=571781&class=18",
+    "http://www.ddanzi.com/889374359"
    ],
    "seen_titles": [
-    "삼성,용인반도체첫공장2029년'조기가동'…AI속도전",
-    "골가뭄시달리는K리그1제주,브라질공격수아이아스영입",
-    "SK하이닉스는환율을끌어내릴수있을까",
-    "[사설]반도체인력공급넘어교육생태계재구축하자",
     "[7월13일자]비즈니스포스트아침의주요기사",
     "\"美몰려있는고객사들현지생산원해…메모리공급속도전중요\"",
     "SK하이닉스ADR상장의힘…반도체株약세딛고반등견인",
@@ -4562,10 +4550,14 @@
     "SKT,여름휴가시즌맞이로밍·멤버십혜택확대",
     "코스피,반도체주약세에6%대하락…7000선붕괴",
     "美빅테크는왜'명문대졸업장'걷어찼나[SK하닉이던진질문②]",
-    "블룸버그칼럼\"모두가돈나무(SK하이닉스)흔들고싶어한다\""
+    "블룸버그칼럼\"모두가돈나무(SK하이닉스)흔들고싶어한다\"",
+    "[종목분석]삼성중공업목표주가가른FLNG이익과FDC가치",
+    "삼성낸드핵심인력,SK하이닉스이직제동…법원“1년6개월전직금...",
+    "7월금리인상은‘예고편’…‘두번째’는8월인가10월인가",
+    "AI버블의실체1:코스피급락은시장실패의전조인가"
    ],
    "initialized": true,
-   "last_run": "2026-07-13T12:50:51.392662+09:00"
+   "last_run": "2026-07-13T12:55:23.255566+09:00"
   }
  },
  "press_names": {
