@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-13T17:15:26.039993+09:00",
-     "직격탄 외형 적자 늪에 베트남서 중선파마 확장 고집하다 동화약품"
-    ],
-    [
-     "2026-07-13T17:15:26.039993+09:00",
-     "제약사 공동판매 진화 채널 품목 전략 보강 넘어"
-    ],
-    [
      "2026-07-13T17:20:46.872303+09:00",
      "서면심사 WHO 통과 GMP SK바이오사이언스"
     ],
@@ -642,12 +634,13 @@
     [
      "2026-07-13T23:10:52.940382+09:00",
      "변수로 중국 초격차 추격 부상 사수해야 반도체"
+    ],
+    [
+     "2026-07-13T23:15:27.870715+09:00",
+     "재난 SK케미칼 이재민 긴급구호 키트 400개 제작"
     ]
    ],
    "seen_urls": [
-    "https://dealsite.co.kr/articles/165200",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1385317",
-    "https://zdnet.co.kr/view/?no=20260713104038",
     "https://www.hankyung.com/article/2026071314497",
     "https://www.ezyeconomy.com/news/articleView.html?idxno=237416",
     "https://www.hani.co.kr/arti/economy/finance/1267962.html",
@@ -2144,12 +2137,12 @@
     "http://www.fnnews.com/news/202607132300525466",
     "https://www.cnbnews.com/news/articleView.html?idxno=1007981",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2231608",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260713230443fA4"
+    "http://www.yonhapnewstv.co.kr/news/MYH20260713230443fA4",
+    "http://weekly.chosun.com/news/articleView.html?idxno=53423",
+    "https://biz.heraldcorp.com/article/10807522",
+    "http://www.srtimes.kr/news/articleView.html?idxno=207450"
    ],
    "seen_titles": [
-    "철원군평생학습관,SKT찾아가는서비스교육실시",
-    "중동무력충돌에국제유가폭등…환율1500원돌파",
-    "경기도에‘첫집’20301년새1만명증가",
     "[가장보통의투자]\"ADR은날고본주는기고\"SK하이닉스주가괴리어...",
     "‘모아팹’,누적팹서비스12만건…국가반도체·나노경쟁력강화기...",
     "하닉ADR상장에도코스피6%하락...7000선도위태",
@@ -3646,10 +3639,13 @@
     "SK하이닉스ADR9%급락…AI반도체주'숨고르기'",
     "코스피8.95%폭락...대장주도휘청",
     "[통신]SKT여름로밍할인/LGU+보안통신표준화/KTAI구독료할인...",
-    "중국반도체추격변수로부상…\"초격차사수해야\""
+    "중국반도체추격변수로부상…\"초격차사수해야\"",
+    "\"이런하이닉스는처음\"…200만원무너지고시총30조증발",
+    "뉴욕증시,중동리스크에하락출발…나스닥187P‘뚝’",
+    "SK케미칼,재난이재민긴급구호키트400개제작"
    ],
    "initialized": true,
-   "last_run": "2026-07-13T23:10:52.940382+09:00"
+   "last_run": "2026-07-13T23:15:27.870715+09:00"
   }
  },
  "press_names": {
