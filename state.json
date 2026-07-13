@@ -294,12 +294,13 @@
     [
      "2026-07-14T05:35:22.323172+09:00",
      "비명 반도체주들도 뉴욕증시 급락 SK하이닉스ADR"
+    ],
+    [
+     "2026-07-14T05:40:53.332252+09:00",
+     "통행료 봉쇄 발효 호르무즈 강행"
     ]
    ],
    "seen_urls": [
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=168078",
-    "https://www.g-enews.com/view.php?ud=202607131152586670153ddfb15a_1",
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/13/20260713500103?wlog_tag3=naver",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=272918",
     "https://www.munhwa.com/article/11602270",
     "https://www.ilovepc.co.kr/news/articleView.html?idxno=60001",
@@ -1796,12 +1797,12 @@
     "http://www.fieldnews.kr/news/articleView.html?idxno=29932",
     "https://www.mt.co.kr/society/2026/07/14/2026071323174340770",
     "https://www.news1.kr/world/international-economy/6226934",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=168110"
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=168110",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01886006645514520",
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030106471&code=61131111&cp=nv",
+    "https://www.g-enews.com/view.php?ud=2026071405350918812bd56fbc3c_1"
    ],
    "seen_titles": [
-    "SK하이닉스,57조AI메모리투자…EUV·패키징병목뚫는다",
-    "삼성전자,낸드핵심인력SK하이닉스이직브레이크…법원\"전직금지\"",
-    "24시간외환거래‘순항’…환율변동성↓",
     "LGU+,전국버스망첫확보…와이파이빨라진다",
     "미국선15.7%프리미엄붙은하닉,코스피선장중10%급락",
     "휘발유공급가인하16일째…따라내린주유소18%뿐",
@@ -3298,10 +3299,13 @@
     "[강성원의현장톡(TALK)]반도체를시민의기회로…이상일시장이그리...",
     "\"집잔금절반날려,남편슈퍼카뽑아줬다생각\"…폭락장에쏟아진'손...",
     "SK하닉미국상장열기하루만에식었다…나스닥ADR9%폭락",
-    "SK하이닉스ADR'급락'속...뉴욕증시반도체주들도'비명'"
+    "SK하이닉스ADR'급락'속...뉴욕증시반도체주들도'비명'",
+    "'상장랠리'하루만에꺾인SK하이닉스ADR…나스닥1.6%↓[월스트리트...",
+    "“냉혹한리셋”…SK하이닉스美ADR도9.3%급락",
+    "美호르무즈봉쇄오늘발효…20%통행료강행"
    ],
    "initialized": true,
-   "last_run": "2026-07-14T05:35:22.323172+09:00"
+   "last_run": "2026-07-14T05:40:53.332252+09:00"
   }
  },
  "press_names": {
