@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-13T14:35:23.057362+09:00",
-     "앞당기기에 사활 메모리3사 반도체 고점론 공급 일축"
-    ],
-    [
-     "2026-07-13T14:35:23.057362+09:00",
-     "걸림돌 증시에 미미할 리스크 영향 꿈틀대는 지정학적"
-    ],
-    [
      "2026-07-13T14:40:47.339573+09:00",
      "블랙 먼데이 1만피 7천피 내다보다 덜컥 밑으로"
     ],
@@ -1378,10 +1370,13 @@
     [
      "2026-07-13T20:31:00.660868+09:00",
      "금지 50건 공매도 한성기업 HLB생명과학 투자경고"
+    ],
+    [
+     "2026-07-13T20:35:23.298525+09:00",
+     "13일 7월 뉴스리뷰"
     ]
    ],
    "seen_urls": [
-    "https://www.womentimes.co.kr/news/articleView.html?idxno=104332",
     "https://www.mk.co.kr/article/12096931",
     "http://www.popcornnews.net/news/articleView.html?idxno=126421",
     "https://zdnet.co.kr/view/?no=20260713100700",
@@ -2880,10 +2875,10 @@
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=272962",
     "https://www.hankyung.com/article/202607132726i",
     "https://www.dailyt.co.kr/newsView/dlt202607130016",
-    "https://www.newstnt.com/news/articleView.html?idxno=710076"
+    "https://www.newstnt.com/news/articleView.html?idxno=710076",
+    "http://www.yonhapnewstv.co.kr/news/MYH202607132030414bm"
    ],
    "seen_titles": [
-    "영원한상승장은없다…강세장끝알릴3대신호[김학균의시장읽기]",
     "‘의왕역SKVIEW’,초·중·고도보권학세권…16일견본주택개관",
     "[인사]하나은행",
     "“SK하이닉스2분기영업이익,컨센서스8%하회할것”",
@@ -4382,10 +4377,11 @@
     "[반도체전쟁]'낸드종가'의선전포고…日키옥시아\"세계1위탈환\"실...",
     "TSMC\"2분기매출36%증가…AI투자수요여전히견고\"",
     "[전연우경제칼럼]강세장,그유통기한",
-    "[공시]한성기업'투자경고',HLB생명과학'공매도금지'등...50건"
+    "[공시]한성기업'투자경고',HLB생명과학'공매도금지'등...50건",
+    "[이시각헤드라인]7월13일뉴스리뷰"
    ],
    "initialized": true,
-   "last_run": "2026-07-13T20:31:00.660868+09:00"
+   "last_run": "2026-07-13T20:35:23.298525+09:00"
   }
  },
  "press_names": {
