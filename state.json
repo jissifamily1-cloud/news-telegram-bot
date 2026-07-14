@@ -1426,18 +1426,25 @@
     [
      "2026-07-14T14:42:33.197616+09:00",
      "데이터센터 국가 정부 점검 전면 공급망 인프라로"
+    ],
+    [
+     "2026-07-14T14:45:24.496428+09:00",
+     "증권주는 증권주 역설 늘어도 거래대금 지지부진 이유는"
+    ],
+    [
+     "2026-07-14T14:45:24.496428+09:00",
+     "짜리 유재석 3000만원대 선택한 7600만원 진짜 탑니다"
+    ],
+    [
+     "2026-07-14T14:45:24.496428+09:00",
+     "티켓 바이에른 뮌헨 FC 경기 vs 예매한다 네이버에서"
+    ],
+    [
+     "2026-07-14T14:45:24.496428+09:00",
+     "계약 공사 엑사이엔씨 P5 삼성물산과 890원 평택캠퍼스 규모"
     ]
    ],
    "seen_urls": [
-    "https://www.abcn.kr/news/articleView.html?idxno=89391",
-    "https://www.newsis.com/view/NISX20260714_0003707701",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=311707",
-    "https://www.mt.co.kr/stock/2026/07/14/2026071319350713097",
-    "https://www.mt.co.kr/tech/2026/07/14/2026071309400119972",
-    "https://www.mt.co.kr/opinion/2026/07/14/2026071316094249936",
-    "https://www.mt.co.kr/economy/2026/07/14/2026071319545596993",
-    "https://www.mt.co.kr/economy/2026/07/14/2026071319592229075",
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4094830",
     "https://biz.sbs.co.kr/article_hub/20000322270?division=NAVER",
     "https://www.g-enews.com/view.php?ud=2026071404105157262bd56fbc3c_1",
     "https://www.mediapen.com/news/view/1109950",
@@ -2928,18 +2935,18 @@
     "http://www.metroseoul.co.kr/article/20260714500342",
     "https://view.asiae.co.kr/article/2026071414390293012",
     "https://www.dt.co.kr/article/12072839",
-    "https://www.yna.co.kr/view/AKR20260714118100017?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260714118100017?input=1195m",
+    "https://www.bntnews.co.kr/article/view/bnt202607140206",
+    "http://www.newstomato.com/ReadNews.aspx?no=1307105&inflow=N",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1716317",
+    "https://www.newsis.com/view/NISX20260714_0003708810",
+    "https://www.slist.kr/news/articleView.html?idxno=751725",
+    "https://www.ekn.kr/web/view.php?key=20260714025252285",
+    "https://www.sedaily.com/article/20067579",
+    "http://www.fnnews.com/news/202607141417271220",
+    "https://www.newspim.com/news/view/20260714000823"
    ],
    "seen_titles": [
-    "중동發무력충돌에유가·금리폭등쇼크...뉴욕증시,폭락경고등",
-    "사랑해(S)김희영(KHY)?...최태원SNS의'SKHY'논란해프닝",
-    "SK하이닉스ADR,프리마켓서9%하락…본주급락여파",
-    "[출근길포인트]'모두의AI프로젝트'본격추진…국민누구나국산A...",
-    "'롤코'레버리지ETF,제동장치마련속도",
-    "AI레드팀부터실전CTF까지싹쓸이…SK쉴더스해킹대회휩쓴비결",
-    "[사설]800조예산시대..세출구조조정이먼저다",
-    "3대메가프로젝트최우선투입…'대체불가대한민국'밑그림",
-    "\"추가세수,미래대응재원으로…기업투자시간표대로지원\"",
     "[금융한입]SK하이닉스역대급폭락...美나스닥상장흥행의'그늘'",
     "삼전닉스'쏠림'에...발빼는월가큰손들",
     "보쉬,美SiC공장가동…전력반도체‘현지화경쟁’신호탄",
@@ -4430,10 +4437,19 @@
     "골드만삭스\"단일종목레버리지ETF디레버리징이코스피낙폭키웠다\"",
     "최태원\"AI비용낮출것…저비용·고효율AI데이터센터에집중\"",
     "골드만“레버리지기계적매도가낙폭키워...코스피6800지지선”",
-    "AI데이터센터국가인프라로…정부,공급망전면점검"
+    "AI데이터센터국가인프라로…정부,공급망전면점검",
+    "다문화어머니농구단,10연패딛고첫승",
+    "당정,지주사규제완화시동…호남팹투자물꼬트이나",
+    "10대건설사,7월1만여가구분양전…하반기청약시장포문",
+    "'배터리인사이트콘퍼런스2026'개최,성장전략·기술공유",
+    "김민재,뮌헨잔류무게…독일매체\"더이상매각대상아냐\"",
+    "거래대금늘어도증권주는지지부진…‘증권주역설’이유는?",
+    "“저진짜탑니다”…유재석선택한‘7600만원’짜리그차3000만원대...",
+    "네이버에서'SKFCvsFC바이에른뮌헨'경기티켓예매한다",
+    "엑사이엔씨,삼성물산과890원규모평택캠퍼스P5공사계약"
    ],
    "initialized": true,
-   "last_run": "2026-07-14T14:42:33.197616+09:00"
+   "last_run": "2026-07-14T14:45:24.496428+09:00"
   }
  },
  "press_names": {
