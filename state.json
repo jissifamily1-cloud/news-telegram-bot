@@ -309,12 +309,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000322389?division=NAVER",
-    "https://news.jtbc.co.kr/article/NB12308149?influxDiv=NAVER",
-    "https://en.yna.co.kr/view/AEN20260713007800320?input=2106m",
-    "http://www.yonhapnewstv.co.kr/news/AKR20260714114101S18",
-    "https://www.mhns.co.kr/news/articleView.html?idxno=753312",
-    "https://www.yna.co.kr/view/AKR20260714085500003?input=1195m",
     "http://www.yonhapnewstv.co.kr/news/AKR202607141143537nb",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4424856",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4424844",
@@ -1808,15 +1802,15 @@
     "https://www.news1.kr/world/international-economy/6228327",
     "https://www.g-enews.com/view.php?ud=2026071417501343040c8c1c064d_1",
     "https://www.ytn.co.kr/_ln/0104_202607150535562966",
-    "https://biz.heraldcorp.com/article/10808958"
+    "https://biz.heraldcorp.com/article/10808958",
+    "https://www.g-enews.com/view.php?ud=202607150540587086e250e8e188_1",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607150123&t=NN",
+    "https://www.segye.com/newsView/20260715503071?OutUrl=naver",
+    "https://biz.chosun.com/international/international_economy/2026/07/15/HBOGDRZXLBGYPMIV7DTHI5RDFI/",
+    "https://www.newspim.com/news/view/20260715000030",
+    "https://www.seoulfn.com/news/articleView.html?idxno=633383"
    ],
    "seen_titles": [
-    "8.4GWAIDC에550조투자…제조데이터로'피지컬AI1강'승부수",
-    "美증시급락여파…코스피장중6700선붕괴변동성확대",
-    "\"300만닉스경우의수?\"…개미들서글픔담긴'빙고판'",
-    "(NewsFocus)S.Koreaeyespost-MiddleEastwarstrategycenteredonsu",
-    "\"SK하이닉스185만원간다\"…BNK증권5일전보고서재조명",
-    "[하반기증시관전포인트]코스피피크아웃공포vs코스닥순환매",
     "최태원\"AI토큰비용낮출것…새로운AI데이터센터집중\"",
     "최태원\"기술적돌파구로인공지능비용낮춰야\"",
     "[외환]달러공급경계감속하락…6.20원↓",
@@ -3310,10 +3304,16 @@
     "미국AI반도체주하루만에반등…SK하이닉스ADR3.3%↑",
     "AI가촉발한‘칩플레이션’에전자제품가격폭등…스마트폰·PC판매...",
     "바클레이스\"SK하이닉스ADR2배로상승여력\"",
-    "SK하이닉스ADR장중26.5%급등…바클레이스“2배상승여력”"
+    "SK하이닉스ADR장중26.5%급등…바클레이스“2배상승여력”",
+    "[뉴욕증시]CPI둔화·반도체반등에나스닥233.83p↑...SK하이닉스27....",
+    "[속보]美ADR27%폭등…SK하이닉스급락충격딛고'비상'",
+    "[속보]뉴욕증시,SK하닉27%폭등…인플레완화·반도체반등에상승",
+    "S&P500·나스닥동반상승...SK하이닉스ADR27%급등",
+    "[미국특징주]SK하이닉스ADR,27%급등…원주대비프리미엄51%로확대",
+    "[뉴욕증시]CPI·반도체'쌍끌이'···골드만7%↑·SK하닉27%↑"
    ],
    "initialized": true,
-   "last_run": "2026-07-15T05:40:55.782006+09:00"
+   "last_run": "2026-07-15T05:45:26.031658+09:00"
   }
  },
  "press_names": {
