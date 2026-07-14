@@ -1554,14 +1554,17 @@
     [
      "2026-07-14T19:40:54.814402+09:00",
      "LG 승선 국가대표팀 유기상 창원 농구"
+    ],
+    [
+     "2026-07-14T19:45:26.653900+09:00",
+     "한국콜마 선케어 돌진 비수기가 3분기까지 뭐길래 기초 쌍끌이로"
+    ],
+    [
+     "2026-07-14T19:45:26.653900+09:00",
+     "땡볕 아래 일터 전쟁 폭염과의"
     ]
    ],
    "seen_urls": [
-    "https://www.lawtimes.co.kr/news/articleView.html?idxno=223511",
-    "https://www.dailian.co.kr/news/view/1666852/?sc=Naver",
-    "https://www.mt.co.kr/stock/2026/07/14/2026071410301395577",
-    "https://www.ajunews.com/view/20260708094023556",
-    "https://www.ajunews.com/view/20260712132741361",
     "https://www.smartbizn.com/news/articleView.html?idxno=148455",
     "http://www.rookie.co.kr/news/articleView.html?idxno=124796",
     "https://www.joongangenews.com/news/articleView.html?idxno=532655",
@@ -3056,14 +3059,14 @@
     "https://www.thepublic.kr/news/articleView.html?idxno=311343",
     "https://it.chosun.com/news/articleView.html?idxno=2023092165816",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=847218",
-    "https://www.gnnews.co.kr/news/articleView.html?idxno=641106"
+    "https://www.gnnews.co.kr/news/articleView.html?idxno=641106",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008657711&plink=ORI&cooper=NAVER",
+    "https://www.hankyung.com/article/202607145272i",
+    "http://www.inews24.com/view/1985543",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=269768",
+    "https://www.busan.com/view/busan/view.php?code=2026071418371628516"
    ],
    "seen_titles": [
-    "'하락출발'코스피,등락거듭중",
-    "세종,40조원SK하이닉스ADR상장발행사자문",
-    "국민의힘,상임위보이콧계속…\"법개정하고18개다가져가라\"",
-    "\"삼전닉스세일가다!\"외인·기관줍줍…코스피장중6900회복",
-    "[경제일보]SKAX,AI데이터센터운영'실행축'부상…GPU를수익으로...",
     "[경제일보]SK텔레콤,SK그룹15GWAI데이터센터총괄…'AI인프라설계...",
     "안성시의회,방류수직방류철회·전력인프라피해보상촉구결의안...",
     "CLPB,HOOPCITYUPRIZE3X3토너먼트우승...오세근-에디다니엘게스트참...",
@@ -4558,10 +4561,15 @@
     "SK인텔릭스로봇'나무엑스',강남·청주공공실증사업선정…B2G시장...",
     "증권가'삼전·하닉레버리지'자율규제착수…투자문턱높인다",
     "[#클라우드월드]아이티센CTS'원자력硏슈퍼컴'구축·NIA'하이퍼-AI네...",
-    "창원LG유기상,농구국가대표팀승선"
+    "창원LG유기상,농구국가대표팀승선",
+    "장관지시로강경화주미대사일시귀국…쿠팡등한미관계현안점검",
+    "삼성전자\"美ADR상장검토안해\"",
+    "삼성전자,美ADR상장설부인…\"사실무근\"",
+    "\"비수기가뭐길래?…한국콜마,선케어·기초쌍끌이로3분기까지돌진\"",
+    "땡볕아래일터‘폭염과의전쟁’"
    ],
    "initialized": true,
-   "last_run": "2026-07-14T19:40:54.814402+09:00"
+   "last_run": "2026-07-14T19:45:26.653900+09:00"
   }
  },
  "press_names": {
