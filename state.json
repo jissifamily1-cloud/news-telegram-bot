@@ -194,11 +194,17 @@
     [
      "2026-07-15T04:40:55.620656+09:00",
      "HBM4 콜옵션 폭등 폭발 출하 하이닉스ADR 12단"
+    ],
+    [
+     "2026-07-15T04:45:27.353839+09:00",
+     "예고편 폭락 반대매매 4258억은 덮치나 2차 숫자 코스피"
+    ],
+    [
+     "2026-07-15T04:45:27.353839+09:00",
+     "엔비디아 폭락 SKHY 껑충 미국증시는 IBM 장중 골드만삭스"
     ]
    ],
    "seen_urls": [
-    "https://www.ggilbo.com/news/articleView.html?idxno=1169244",
-    "http://www.newsworker.co.kr/news/articleView.html?idxno=436257",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=604796",
     "https://magazine.hankyung.com/business/article/202607143955b",
     "https://www.smartbizn.com/news/articleView.html?idxno=148498",
@@ -1696,11 +1702,11 @@
     "https://www.mt.co.kr/industry/2026/07/15/2026071419383447290",
     "https://www.donga.com/news/Politics/article/all/20260715/134300327/2",
     "https://www.aitimes.com/news/articleView.html?idxno=212770",
-    "https://www.mediapen.com/news/view/1110205"
+    "https://www.mediapen.com/news/view/1110205",
+    "https://www.segye.com/newsView/20260715502273?OutUrl=naver",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=168183"
    ],
    "seen_titles": [
-    "SK하이닉스는나스닥갔는데…삼성전자가움직이지않는이유",
-    "충북도,K-배터리'초격차기술'로글로벌캐즘넘는다",
     "[뉴스워커_SK텔레콤]AI파운데이션모델컨소시엄에SKAX·테크노매트...",
     "증권가,역대급폭락장에한목소리\"과도한언더슈팅·재반등\"",
     "“분산투자도소용없다”개인·외인수익률추락",
@@ -3198,10 +3204,12 @@
     "\"車타자\"메모리3사,주도권경쟁시동",
     "강경화대사,외교장관지시로오늘귀국…靑안보실등과대미투자-쿠...",
     "NIA,하이퍼-AI네트워크로산업현장피지컬AI시대연다",
-    "[美증시특징주]하이닉스ADR23%폭등...12단HBM4출하+콜옵션폭발"
+    "[美증시특징주]하이닉스ADR23%폭등...12단HBM4출하+콜옵션폭발",
+    "4258억은예고편?…코스피9%폭락뒤‘2차반대매매’덮치나[숫자뒤...",
+    "장중미국증시는?...SKHY·엔비디아·골드만삭스'껑충',IBM'폭락'"
    ],
    "initialized": true,
-   "last_run": "2026-07-15T04:40:55.620656+09:00"
+   "last_run": "2026-07-15T04:45:27.353839+09:00"
   }
  },
  "press_names": {
