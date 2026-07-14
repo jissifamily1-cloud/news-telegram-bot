@@ -297,7 +297,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/economy/377500",
     "http://weekly.chosun.com/news/articleView.html?idxno=53430",
     "https://view.asiae.co.kr/article/2026071411345944031",
     "https://www.news1.kr/finance/market-exr/6227535",
@@ -1796,10 +1795,10 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4424990",
     "https://www.seoul.co.kr/news/editOpinion/editorial/2026/07/15/20260715027006?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/editOpinion/column/inside-story-cgs/2026/07/15/20260715024001?wlog_tag3=naver",
-    "https://www.mediapen.com/news/view/1110207"
+    "https://www.mediapen.com/news/view/1110207",
+    "https://news.mtn.co.kr/news-detail/2026071505165835921"
    ],
    "seen_titles": [
-    "코스피하락출발...장초반등락하며널뛰기장세",
     "[특징주]SK(주),차익실현에약세…AI·반도체재평가급등후숨고르...",
     "총수주식재산29조늘었지만…이재용·최태원빼면6조증발",
     "세종,SK하이닉스ADR상장거래자문수행",
@@ -3298,10 +3297,11 @@
     "[뉴욕증시-1보]한풀꺾인CPI에안도랠리…강세마감",
     "[사설]연금저축해지63%급증…주식에‘노후베팅’방관말아야",
     "“‘영업익N%성과급’사실상고정…임금경영악화땐월급반납할...",
-    "[美증시특징주]반도체주SK하이닉스훈풍에급등...엔비디아·마이크..."
+    "[美증시특징주]반도체주SK하이닉스훈풍에급등...엔비디아·마이크...",
+    "SK하이닉스ADR27%폭등…반도체주반등[뉴욕is]"
    ],
    "initialized": true,
-   "last_run": "2026-07-15T05:15:28.103297+09:00"
+   "last_run": "2026-07-15T05:20:55.811083+09:00"
   }
  },
  "press_names": {
