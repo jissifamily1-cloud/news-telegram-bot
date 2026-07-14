@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-14T22:55:29.519763+09:00",
-     "ETF 출시 우주 로봇 KB운용 스페이스X 혼합형 절반 테슬라에"
-    ],
-    [
      "2026-07-14T23:01:08.425974+09:00",
      "세계 탐욕에 증시 폭락 경종 찍고 울렸다 1위"
     ],
@@ -202,12 +198,17 @@
     [
      "2026-07-15T04:45:27.353839+09:00",
      "엔비디아 폭락 SKHY 껑충 미국증시는 IBM 장중 골드만삭스"
+    ],
+    [
+     "2026-07-15T05:00:51.321677+09:00",
+     "Biopharma Drug Development Advances"
+    ],
+    [
+     "2026-07-15T05:00:51.321677+09:00",
+     "Nucleic Deals Platform Acid Vx Global Dx for Advances"
     ]
    ],
    "seen_urls": [
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=604796",
-    "https://magazine.hankyung.com/business/article/202607143955b",
-    "https://www.smartbizn.com/news/articleView.html?idxno=148498",
     "https://www.fntimes.com/html/view.php?ud=202607141117488472a735e27af_18",
     "https://view.asiae.co.kr/article/2026071408491381025",
     "https://www.chosun.com/economy/industry-company/2026/07/14/EN6W534OQNDQTCIRJT7BKEM4WM/",
@@ -1704,12 +1705,12 @@
     "https://www.aitimes.com/news/articleView.html?idxno=212770",
     "https://www.mediapen.com/news/view/1110205",
     "https://www.segye.com/newsView/20260715502273?OutUrl=naver",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=168183"
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=168183",
+    "https://www.yna.co.kr/view/AKR20260715007900072?input=1195m",
+    "https://www.hitnews.co.kr/news/articleView.html?idxno=77645",
+    "https://www.hitnews.co.kr/news/articleView.html?idxno=77648"
    ],
    "seen_titles": [
-    "[뉴스워커_SK텔레콤]AI파운데이션모델컨소시엄에SKAX·테크노매트...",
-    "증권가,역대급폭락장에한목소리\"과도한언더슈팅·재반등\"",
-    "“분산투자도소용없다”개인·외인수익률추락",
     "상지건설,187억유증시계다시돈다···진짜승부는'2027년본PF'",
     "노후자금몰린증시…변동성확대에660만5060투자자'불안'",
     "[why&next]N%성과급이우리사회에남긴것…삼성전자DX노조,연쇄집...",
@@ -3206,10 +3207,13 @@
     "NIA,하이퍼-AI네트워크로산업현장피지컬AI시대연다",
     "[美증시특징주]하이닉스ADR23%폭등...12단HBM4출하+콜옵션폭발",
     "4258억은예고편?…코스피9%폭락뒤‘2차반대매매’덮치나[숫자뒤...",
-    "장중미국증시는?...SKHY·엔비디아·골드만삭스'껑충',IBM'폭락'"
+    "장중미국증시는?...SKHY·엔비디아·골드만삭스'껑충',IBM'폭락'",
+    "바클레이스\"SK하이닉스ADR2배로상승여력\"…주가20%대급등",
+    "[BIOUSAInterview]SKBiopharmaAdvancesAIDrugDevelopment",
+    "[BIOUSAInterview]Dx&VxAdvancesGlobalDealsforNucleicAcidPlatf"
    ],
    "initialized": true,
-   "last_run": "2026-07-15T04:55:22.696795+09:00"
+   "last_run": "2026-07-15T05:00:51.321677+09:00"
   }
  },
  "press_names": {
