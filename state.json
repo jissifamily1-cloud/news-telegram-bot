@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-14T23:50:55.451269+09:00",
-     "지났다 정점은 감소 공매도 잔액도 반도체 대차거래"
-    ],
-    [
      "2026-07-15T00:01:09.119728+09:00",
      "9000피 6800피 장세 현기증 달도 향방은 걸렸다 코스피"
     ],
@@ -310,12 +306,17 @@
     [
      "2026-07-15T05:50:52.892203+09:00",
      "PF 바뀐 부담 주인 재무구조 수술 SK디앤디 신용강등"
+    ],
+    [
+     "2026-07-15T05:55:20.822738+09:00",
+     "국제유가는 상승 급등 하락 하이닉스ADR IBM"
+    ],
+    [
+     "2026-07-15T05:55:20.822738+09:00",
+     "재개 랠리 다우존스 P500 나스닥 미국 물가 뉴욕증시 둔화에 반도체"
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424869",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424838",
-    "https://www.yna.co.kr/view/AKR20260714045952008?input=1195m",
     "https://www.sedaily.com/article/20067494",
     "https://www.donga.com/news/Health/article/all/20260714/134294886/1",
     "https://www.thepublic.kr/news/articleView.html?idxno=311213",
@@ -1812,12 +1813,12 @@
     "http://www.yonhapnewstv.co.kr/news/AKR20260715054949yYJ",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8610970",
     "https://www.yna.co.kr/view/AKR20260715008451072?input=1195m",
-    "https://www.news1.kr/realestate/general/6227748"
+    "https://www.news1.kr/realestate/general/6227748",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424993",
+    "https://imnews.imbc.com/news/2026/world/article/6837497_36925.html",
+    "https://www.lecturernews.com/news/articleView.html?idxno=206332"
    ],
    "seen_titles": [
-    "[오늘외환딜러환율예상레인지]",
-    "BofA,메모리에소외된아날로그반도체주들주목",
-    "[하반기경제]3대메가프로젝트신속추진…피지컬AI'1강'도약",
     "장중'올랐다내렸다'갈지자…혼돈의삼전닉스(종합2보)",
     "올해경상성장률12.3%...미래산업선제투자해임기내‘3-4-5’전략달...",
     "셀트리온,업계유일관세청수출입안전관리최고등급…“글로벌공급...",
@@ -3314,10 +3315,13 @@
     "뉴욕증시,물가우려완화속반도체랠리…나스닥1%↑",
     "뉴욕증시,물가우려완화속반도체랠리재개…나스닥1%↑",
     "뉴욕증시,물가우려완화속반도체랠리재개…나스닥1%↑(종합)",
-    "주인바뀐SK디앤디'재무구조수술'…신용강등·PF부담"
+    "주인바뀐SK디앤디'재무구조수술'…신용강등·PF부담",
+    "[뉴욕증시]한풀꺾인CPI에안도랠리…강세마감",
+    "하이닉스ADR27%급등·IBM25%하락‥국제유가는상승",
+    "미국뉴욕증시,물가둔화에반도체랠리재개…다우존스·S&P500·나스닥..."
    ],
    "initialized": true,
-   "last_run": "2026-07-15T05:50:52.892203+09:00"
+   "last_run": "2026-07-15T05:55:20.822738+09:00"
   }
  },
  "press_names": {
