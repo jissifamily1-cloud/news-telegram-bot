@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-14T06:30:57.001956+09:00",
-     "선도 한국투자신탁운용 배재규 4연임 혁신 ETF 대표"
-    ],
-    [
-     "2026-07-14T06:30:57.001956+09:00",
-     "매출 2분기 늘어 사상 TSMC 6월"
-    ],
-    [
      "2026-07-14T06:35:22.438880+09:00",
      "메가 사실상 삼성전자지부 대상 교섭 프로젝트도 반대"
     ],
@@ -1470,12 +1462,17 @@
     [
      "2026-07-14T12:20:49.395873+09:00",
      "업황 폭락 삼전닉스 둔화 역대급"
+    ],
+    [
+     "2026-07-14T12:30:59.172784+09:00",
+     "최태원은 이재용 10조 입성 주식재산 28조 클럽 늘었다"
+    ],
+    [
+     "2026-07-14T12:30:59.172784+09:00",
+     "수익률 한투 미래에셋운용 ETF"
     ]
    ],
    "seen_urls": [
-    "https://www.insightkorea.co.kr/news/articleView.html?idxno=250101",
-    "https://www.asiatime.co.kr/article/20260713500418",
-    "https://www.bloter.net/news/articleView.html?idxno=667901",
     "https://www.namdonews.com/news/articleView.html?idxno=916812",
     "https://www.hankyung.com/article/2026071325611",
     "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130167&t=NNv",
@@ -2972,12 +2969,12 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=850183",
     "https://www.sportsworldi.com/newsView/20260714511881",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607141055051100073",
-    "http://www.beyondpost.co.kr/view.php?ud=2026071412194326802aaae0046f_30"
+    "http://www.beyondpost.co.kr/view.php?ud=2026071412194326802aaae0046f_30",
+    "https://biz.heraldcorp.com/article/10808299",
+    "https://www.newscj.com/news/articleView.html?idxno=3416847",
+    "https://www.lcnews.co.kr/news/articleView.html?idxno=204931"
    ],
    "seen_titles": [
-    "[동학외인쟁탈전㊤]중화권개미,K증시서삼전·하닉담는다",
-    "[보험뉴스브리핑]동양생명하반기변화혁신포럼개최",
-    "[통신사보안점검]①SKT,보안투자70%늘렸다",
     "\"지역반도체클러스터유치환영할일\"",
     "별도법인이설비마련…하이닉스는사용료만",
     "'15조->7조'반토막....코스닥개미다어디갔나했더니",
@@ -4474,10 +4471,13 @@
     "'삼전닉스'역대급폭락,업황둔화?",
     "‘우울한2위’티빙·‘숨고르기’쿠플…넷플만‘역대최대’훨훨",
     "‘도서관부터휴양림까지’…SK인텔릭스‘나무엑스’,B2G로봇시장승...",
-    "SK하이닉스7.7%,삼성전자1.7%↓...삼전닉스,장중급등급락반복하며..."
+    "SK하이닉스7.7%,삼성전자1.7%↓...삼전닉스,장중급등급락반복하며...",
+    "SK하이닉스170만원선마저붕괴…코스피6400선급락[투자360]",
+    "이재용주식재산28조늘었다…최태원은첫'10조클럽'입성",
+    "[증권Pick]한투·미래에셋운용ETF,수익률↑"
    ],
    "initialized": true,
-   "last_run": "2026-07-14T12:25:22.821317+09:00"
+   "last_run": "2026-07-14T12:30:59.172784+09:00"
   }
  },
  "press_names": {
