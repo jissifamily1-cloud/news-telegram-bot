@@ -1473,12 +1473,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.namdonews.com/news/articleView.html?idxno=916812",
-    "https://www.hankyung.com/article/2026071325611",
-    "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130167&t=NNv",
-    "https://www.tokenpost.kr/news/market/377186",
-    "https://www.sedaily.com/article/20067238",
-    "https://www.busan.com/view/busan/view.php?code=2026071318201423957",
     "http://www.fnnews.com/news/202607131821133673",
     "https://www.businesspost.co.kr/BP?command=article_view&num=442245",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=604703",
@@ -2972,15 +2966,15 @@
     "http://www.beyondpost.co.kr/view.php?ud=2026071412194326802aaae0046f_30",
     "https://biz.heraldcorp.com/article/10808299",
     "https://www.newscj.com/news/articleView.html?idxno=3416847",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=204931"
+    "https://www.lcnews.co.kr/news/articleView.html?idxno=204931",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260714.99099004045",
+    "https://www.viewsnnews.com/article?q=237187",
+    "http://www.fnnews.com/news/202607141229097515",
+    "https://biz.newdaily.co.kr/site/data/html/2026/07/14/2026071400157.html",
+    "http://www.sisafocus.co.kr/news/articleView.html?idxno=362503",
+    "https://www.seoul.co.kr/news/economy/2026/07/14/20260714500099?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "\"지역반도체클러스터유치환영할일\"",
-    "별도법인이설비마련…하이닉스는사용료만",
-    "'15조->7조'반토막....코스닥개미다어디갔나했더니",
-    "코스피,7,000선붕괴…반도체주하락과국제긴장속변동성확대",
-    "ADR재료소멸에실적전망도하향…‘반도체고점론’불붙어",
-    "반도체고점론·호르무즈재충돌에코스피‘블랙먼데이’",
     "보안흔들리면ESG도타격…통신3사,정보보호힘준다",
     "금감원장이찬진\"ETF과장광고특단의자정노력필요,괴리율관리에...",
     "법원,삼성인력'SK하이닉스이직금지'가처분인용…\"전직1년6개월...",
@@ -4474,10 +4468,16 @@
     "SK하이닉스7.7%,삼성전자1.7%↓...삼전닉스,장중급등급락반복하며...",
     "SK하이닉스170만원선마저붕괴…코스피6400선급락[투자360]",
     "이재용주식재산28조늘었다…최태원은첫'10조클럽'입성",
-    "[증권Pick]한투·미래에셋운용ETF,수익률↑"
+    "[증권Pick]한투·미래에셋운용ETF,수익률↑",
+    "국민연금투자,반도체쏠림심화…삼전닉스비중절반넘겨",
+    "코스피6,500도붕괴,코스닥매도사이드카",
+    "[속보]SK하이닉스,장중7%대급락에170만원선도붕괴",
+    "최태원,SK대박에'10조클럽'첫입성…그룹총수6할은되레주식재...",
+    "김민재,바이에른뮌헨잔류전망…\"더이상매각대상아니다\"",
+    "[속보]170만닉스‘충격’…코스피6500붕괴"
    ],
    "initialized": true,
-   "last_run": "2026-07-14T12:30:59.172784+09:00"
+   "last_run": "2026-07-14T12:35:20.143519+09:00"
   }
  },
  "press_names": {
