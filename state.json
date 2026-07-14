@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-14T06:50:55.809932+09:00",
-     "걱정 SK하이닉스 펀드 벤처캐피털 하락"
-    ],
-    [
-     "2026-07-14T06:50:55.809932+09:00",
-     "엔비디아 인텔로 병목에 패키징 흔들리는 TSMC 분산 검토"
-    ],
-    [
      "2026-07-14T06:55:22.734248+09:00",
      "툭하면 투기주 이상 샌디스크 급등락 등극 최악"
     ],
@@ -1470,15 +1462,29 @@
     [
      "2026-07-14T12:50:49.766394+09:00",
      "큰손 차익실현 빼는 타이밍 삼전닉스서 글로벌"
+    ],
+    [
+     "2026-07-14T12:55:21.719547+09:00",
+     "반도체 300만 시대 친수구역 승촌보 개발이 답이다"
+    ],
+    [
+     "2026-07-14T12:55:21.719547+09:00",
+     "거래상위 코스피 상한가 혼조 에넥스 종목 SK하 모나미"
+    ],
+    [
+     "2026-07-14T12:55:21.719547+09:00",
+     "단상 하이닉스 기도드리겠습니다 주식 광풍의"
+    ],
+    [
+     "2026-07-14T12:55:21.719547+09:00",
+     "덮친 4만엔이냐 키옥시아 10만엔이냐 중국 리스크"
+    ],
+    [
+     "2026-07-14T12:55:21.719547+09:00",
+     "총수 주식도 이재용 6조 부익부 최태원 빈익빈 빼면 줄었다"
     ]
    ],
    "seen_urls": [
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=269665",
-    "https://www.gokorea.kr/news/articleView.html?idxno=871966",
-    "https://www.hankyung.com/article/2026071325701",
-    "https://www.thelec.kr/news/articleView.html?idxno=59523",
-    "https://www.gokorea.kr/news/articleView.html?idxno=871979",
-    "https://www.tokenpost.kr/news/market/377191",
     "https://www.imaeil.com/page/view/2026071317342341951",
     "https://biz.heraldcorp.com/article/10807132",
     "http://www.fnnews.com/news/202607131829066391",
@@ -2972,15 +2978,15 @@
     "https://daily.hankooki.com/news/articleView.html?idxno=1385767",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069343",
     "https://www.econotimes.com/Asian-Stocks-Slide-as-Oil-Surge-US-Iran-Tensions-and-Fed-Rate-Bets-Weigh-on-Markets-1746670",
-    "https://magazine.hankyung.com/business/article/202607143415b"
+    "https://magazine.hankyung.com/business/article/202607143415b",
+    "https://www.seoul.co.kr/news/economy/securities/2026/07/14/20260714500103?wlog_tag3=naver",
+    "https://www.mhns.co.kr/news/articleView.html?idxno=753323",
+    "https://www.seoul.co.kr/news/economy/securities/2026/07/14/20260714500104?wlog_tag3=naver",
+    "https://www.ytn.co.kr/_ln/0106_202607141250504666",
+    "https://www.newspim.com/news/view/20260714000675",
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/14/2026071490207.html"
    ],
    "seen_titles": [
-    "\"'물타기'도무서워\"\"그저눈물만\"…삼전닉스레버리지,최저가로추락",
-    "\"바다위데이터센터가온다…삼성중공업,2분기삐끗해도'우상향'인이...",
-    "삼성,SK하이닉스이직자들에전직금지판결…2027년까지취업제한결정",
-    "\"코스피PER역사적저점근접…美빅테크실적발표가변곡점\"",
-    "SK하이닉스,D램Hf하이K프리커서조달처다변화",
-    "SK하이닉스·삼성전자주가급락…반도체주투자심리위축",
     "삼성전자·SK하이닉스레버리지ETF신저가...코스피급락영향",
     "단일종목레버리지일제히신저가…16종시가총액10조원밑으로",
     "출시한달반,40%넘게빠졌다…‘삼전·닉스’단일종목레버리지ETF...",
@@ -4474,10 +4480,16 @@
     "최태원\"AI비용낮춰야경쟁력\"…데이터센터혁신속도",
     "[기자수첩]매도의견없는시장",
     "AsianStocksSlideasOilSurge,U.S.-IranTensionsandFedRateBetsWe",
-    "“차익실현타이밍?”...삼전닉스서발빼는글로벌'큰손'"
+    "“차익실현타이밍?”...삼전닉스서발빼는글로벌'큰손'",
+    "[서울데이터랩]코스피시총상위주일제히약세…반도체·자동차·방산...",
+    "[기고]반도체·AI시대,승촌보친수구역300만평개발이답이다",
+    "[서울데이터랩]코스피거래상위종목혼조…에넥스·모나미상한가,SK하...",
+    "\"하이닉스위해기도드리겠습니다\"...주식광풍의단상",
+    "[일본특징주]\"10만엔이냐4만엔이냐\"...키옥시아덮친'중국리스크'",
+    "이재용·최태원빼면6조줄었다…총수주식도'부익부빈익빈'"
    ],
    "initialized": true,
-   "last_run": "2026-07-14T12:50:49.766394+09:00"
+   "last_run": "2026-07-14T12:55:21.719547+09:00"
   }
  },
  "press_names": {
