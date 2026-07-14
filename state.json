@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-15T00:25:25.471000+09:00",
-     "하이닉스 뉴욕 레버리지 증시에 대거 ADR 상장"
-    ],
-    [
-     "2026-07-15T00:25:25.471000+09:00",
-     "깐다 취득 한전KDN 기간통신사업 산업용 5G 면허"
-    ],
-    [
-     "2026-07-15T00:31:01.159001+09:00",
-     "전망 제조업 7월 주요 3주"
-    ],
-    [
      "2026-07-15T00:35:24.317950+09:00",
      "도시정비사업 육박 건설사 30조 수주액 10대"
     ],
@@ -386,17 +374,29 @@
     [
      "2026-07-15T06:25:23.713401+09:00",
      "짓나 레이스 빨리 글로벌 시작됐다 반도체 증설 누가"
+    ],
+    [
+     "2026-07-15T06:31:01.202712+09:00",
+     "NH 삼성 경쟁 키움 치열 희비 변동성 장세에 3위"
+    ],
+    [
+     "2026-07-15T06:31:01.202712+09:00",
+     "부상 시대 뭐길래 HBF 차세대 반도체로"
+    ],
+    [
+     "2026-07-15T06:31:01.202712+09:00",
+     "SKT AX 합류 컨소시엄 확대 테크노매트릭스 독파모"
+    ],
+    [
+     "2026-07-15T06:31:01.202712+09:00",
+     "SK하닉 가자 서학개미 나스닥 몰렸다 10만명 4000억 베팅"
+    ],
+    [
+     "2026-07-15T06:31:01.202712+09:00",
+     "잡을 둔화 의장 물가 상승률 소비자물가 연준"
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/stock/2026/07/14/2026071412043019276",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=850183",
-    "https://www.sportsworldi.com/newsView/20260714511881",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607141055051100073",
-    "http://www.beyondpost.co.kr/view.php?ud=2026071412194326802aaae0046f_30",
-    "https://biz.heraldcorp.com/article/10808299",
-    "https://www.newscj.com/news/articleView.html?idxno=3416847",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=204931",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260714.99099004045",
     "https://www.viewsnnews.com/article?q=237187",
     "http://www.fnnews.com/news/202607141229097515",
@@ -1888,17 +1888,17 @@
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607141223104660088",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=758966",
     "https://www.ytn.co.kr/_ln/0104_202607150620171707",
-    "https://www.viva100.com/article/20260714500840"
+    "https://www.viva100.com/article/20260714500840",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=441182",
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030112157&code=61141211&cp=nv",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1716387",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092165780",
+    "https://www.goodkyung.com/news/articleView.html?idxno=289216",
+    "https://www.sedaily.com/article/20067646",
+    "https://www.hankyung.com/article/2026071555397",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8610979"
    ],
    "seen_titles": [
-    "원광대이윤선교수,AI시대HR전략제시",
-    "반등기대감에'해적트럼프'찬물…코스피6700반납",
-    "'삼전닉스'역대급폭락,업황둔화?",
-    "‘우울한2위’티빙·‘숨고르기’쿠플…넷플만‘역대최대’훨훨",
-    "‘도서관부터휴양림까지’…SK인텔릭스‘나무엑스’,B2G로봇시장승...",
-    "SK하이닉스7.7%,삼성전자1.7%↓...삼전닉스,장중급등급락반복하며...",
-    "SK하이닉스170만원선마저붕괴…코스피6400선급락[투자360]",
-    "이재용주식재산28조늘었다…최태원은첫'10조클럽'입성",
     "[증권Pick]한투·미래에셋운용ETF,수익률↑",
     "국민연금투자,반도체쏠림심화…삼전닉스비중절반넘겨",
     "코스피6,500도붕괴,코스닥매도사이드카",
@@ -3390,10 +3390,18 @@
     "[2026하반기경제성장전략]⑦반도체슈퍼사이클,언제까지갈까",
     "얼음못만드는얼음정수기가'정상'?…성수기한여름부실한AS에'열불...",
     "블룸버그\"삼성전자,ADR검토\"...삼성\"검토안해\"",
-    "누가더빨리짓나⋯글로벌반도체‘증설레이스’시작됐다"
+    "누가더빨리짓나⋯글로벌반도체‘증설레이스’시작됐다",
+    "뉴욕증시,인플레완화등영향상승⋯엔비디아·마이크론4%대급등-SK하...",
+    "투자자손실눈덩이…단일종목레버리지상폐청원까지",
+    "뉴욕증시,물가둔화에일제히상승…AI반도체·은행주동반강세",
+    "NH·키움·삼성證,3위경쟁치열…변동성장세에희비",
+    "[심층진단]AI시대,차세대반도체로부상…'HBF'이뭐길래",
+    "SKT독파모컨소시엄확대…SKAX·테크노매트릭스합류",
+    "\"나스닥가자\"10만명몰렸다…서학개미,SK하닉4000억베팅",
+    "미소비자물가상승률둔화…연준의장“물가잡을것”"
    ],
    "initialized": true,
-   "last_run": "2026-07-15T06:25:23.713401+09:00"
+   "last_run": "2026-07-15T06:31:01.202712+09:00"
   }
  },
  "press_names": {
