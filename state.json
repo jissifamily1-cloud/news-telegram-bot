@@ -406,16 +406,25 @@
     [
      "2026-07-15T06:40:53.428538+09:00",
      "띄어쓰기 사랑해 부른 하나가 SK하이닉스"
+    ],
+    [
+     "2026-07-15T06:45:25.044517+09:00",
+     "WNBA 주고 희망 싶어 꿈과 어린 애틀랜타서 선수들에게 박지현"
+    ],
+    [
+     "2026-07-15T06:45:25.044517+09:00",
+     "국채금리 하락에 증시 나스닥 강세"
+    ],
+    [
+     "2026-07-15T06:45:25.044517+09:00",
+     "이렇게 조언 높은 반등 전문가의 지금은 구간 투자전략 가능성"
+    ],
+    [
+     "2026-07-15T06:45:25.044517+09:00",
+     "메모리 에너지 이어 분야 확대 투자 1000조원 투입 반도체 최태원"
     ]
    ],
    "seen_urls": [
-    "https://www.koreaittimes.com/news/articleView.html?idxno=155208",
-    "https://biz.chosun.com/stock/stock_general/2026/07/14/FE4PD22T4ZBGBJXJ3WT5EX45VQ/",
-    "https://www.kbsm.net/news/view.php?idx=526713",
-    "https://www.bzeronews.com/news/articleView.html?idxno=820032",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1385767",
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069343",
-    "https://www.econotimes.com/Asian-Stocks-Slide-as-Oil-Surge-US-Iran-Tensions-and-Fed-Rate-Bets-Weigh-on-Markets-1746670",
     "https://magazine.hankyung.com/business/article/202607143415b",
     "https://www.seoul.co.kr/news/economy/securities/2026/07/14/20260714500103?wlog_tag3=naver",
     "https://www.mhns.co.kr/news/articleView.html?idxno=753323",
@@ -1908,16 +1917,16 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1716390",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=61583",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02345206645514848",
-    "https://www.abcn.kr/news/articleView.html?idxno=89420"
+    "https://www.abcn.kr/news/articleView.html?idxno=89420",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260715064351Iv5",
+    "https://www.etoday.co.kr/news/view/2603766",
+    "https://biz.newdaily.co.kr/site/data/html/2026/07/15/2026071500025.html",
+    "https://www.koreadaily.com/article/20260714144325552",
+    "https://www.news2day.co.kr/article/20260715500003",
+    "https://www.munhwa.com/article/11602687",
+    "https://www.greened.kr/news/articleView.html?idxno=345080"
    ],
    "seen_titles": [
-    "서경브레이징,HARFKO2026참가…열교환기자동브레이징라인공개",
-    "코스닥5%급락에매도사이드카발동…코스피도장중6500선붕괴",
-    "영주기업들,실종자수색현장에생수·간식지원",
-    "'AI·신뢰성'K-배터리새경쟁력…청주서미래전략집결",
-    "최태원\"AI비용낮춰야경쟁력\"…데이터센터혁신속도",
-    "[기자수첩]매도의견없는시장",
-    "AsianStocksSlideasOilSurge,U.S.-IranTensionsandFedRateBetsWe",
     "“차익실현타이밍?”...삼전닉스서발빼는글로벌'큰손'",
     "[서울데이터랩]코스피시총상위주일제히약세…반도체·자동차·방산...",
     "[기고]반도체·AI시대,승촌보친수구역300만평개발이답이다",
@@ -3410,10 +3419,17 @@
     "﻿월가,SK하이닉스다시봤다…\"ADR117%더오른다\"",
     "\"메모리피크아웃아니다\"…가격상승률둔화에도'장기이익'에베팅하...",
     "[마켓인]SK하이닉스주식토큰해외서쏟아지는데…국내는재도공백",
-    "[ABC뉴스칼럼]띄어쓰기하나가부른'사랑해'와SK하이닉스"
+    "[ABC뉴스칼럼]띄어쓰기하나가부른'사랑해'와SK하이닉스",
+    "[글로벌증시]美물가'깜짝하락'속나스닥1%상승마감",
+    "뉴욕증시,반도체반등ㆍ인플레완화에상승⋯나스닥0.9%↑[상보]",
+    "미CPI'예상하회'에반도체주날개…하이닉스ADR27%로켓급등",
+    "“어린선수들에게꿈과희망주고싶어”WNBA박지현,애틀랜타서첫...",
+    "[N2모닝경제브리핑-7월15일]美증시,국채금리하락에강세…나스닥...",
+    "“지금은반등가능성높은구간…투자전략이렇게”전문가의조언",
+    "최태원\"메모리반도체이어AI·에너지분야투자확대\"...\"1000조원투입..."
    ],
    "initialized": true,
-   "last_run": "2026-07-15T06:40:53.428538+09:00"
+   "last_run": "2026-07-15T06:45:25.044517+09:00"
   }
  },
  "press_names": {
