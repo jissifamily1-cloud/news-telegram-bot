@@ -290,15 +290,25 @@
     [
      "2026-07-15T05:31:02.803482+09:00",
      "상승 은행 CPI 실적 뉴욕증시 호조에 IBM은 폭락 둔화 경고에"
+    ],
+    [
+     "2026-07-15T05:35:21.895832+09:00",
+     "미국은 투톱 16종 분산 쏠림 단일종목 400종 한국은 레버리지"
+    ],
+    [
+     "2026-07-15T05:35:21.895832+09:00",
+     "ADR SK하이닉스 바클레이스 330달러 제시 목표주가"
+    ],
+    [
+     "2026-07-15T05:35:21.895832+09:00",
+     "안전망 조이고 3중 주문 높이고 구축해야 나누고 돈줄 문턱 스페셜"
+    ],
+    [
+     "2026-07-15T05:35:21.895832+09:00",
+     "뉴욕 증시 동반 상승 마감 우려 물가 완화에"
     ]
    ],
    "seen_urls": [
-    "https://daily.hankooki.com/news/articleView.html?idxno=1385731",
-    "https://biz.heraldcorp.com/article/10808247",
-    "https://biz.sbs.co.kr/article_hub/20000322387?division=NAVER",
-    "https://www.munhwa.com/article/11602505",
-    "http://www.seouleconews.com/news/articleView.html?idxno=92388",
-    "https://www.jibs.co.kr/news/articles/articlesDetail/63431?feed=na",
     "https://biz.chosun.com/policy/policy_sub/2026/07/14/OXVCTSKOMVAUTNDITTPQDSGLDE/",
     "http://www.yonhapnewstv.co.kr/news/AKR202607141143035EG",
     "https://www.nocutnews.co.kr/news/6547760",
@@ -1792,15 +1802,15 @@
     "https://www.chosun.com/international/international_general/2026/07/15/EDHTI3N7TFHNLC6HHYBRGMOQDE/",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01856486645514848",
     "http://www.fnnews.com/news/202607150520182793",
-    "https://www.newspim.com/news/view/20260715000028"
+    "https://www.newspim.com/news/view/20260715000028",
+    "https://www.news1.kr/world/international-economy/6228326",
+    "https://www.ytn.co.kr/_ln/0104_202607150529236038",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01879446645514848",
+    "https://biz.sbs.co.kr/article_hub/20000322538?division=NAVER",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01876166645514848",
+    "https://www.ytn.co.kr/_ln/0104_202607150529039850"
    ],
    "seen_titles": [
-    "[하반기경제성장전략]반도체800조·AI센터550조…메가프로젝트로잠...",
-    "호르무즈불확실성에또발목잡힌해운업계",
-    "개보위,개인정보유출KT과징금내주결론",
-    "이시각주요뉴스",
-    "대기업총수60%는주식평가액되레줄어",
-    "ICT수출,AI훈풍타고역대최대경신…상반기2500억달러돌파",
     "정점식\"민주당,독식원하면국회법바꿔다가져가라\"",
     "정부,반도체·AI·로봇거점에5극3특도육성…지방성장동력만든다",
     "'모두의AI'경쟁본격점화…네카오·통신사·스타트업총출동",
@@ -3294,10 +3304,16 @@
     "예상밑돈물가에한숨돌린뉴욕증시,나스닥0.9%↑",
     "\"총량관리·매매분산시급…레버리지ETF재설계나서야\"[스페셜리포...",
     "[뉴욕증시]CPI·반도체쌍끌이에하루만에반등…SK하닉,27%폭등",
-    "뉴욕증시,CPI둔화·은행실적호조에상승…IBM은실적경고에폭락"
+    "뉴욕증시,CPI둔화·은행실적호조에상승…IBM은실적경고에폭락",
+    "美6월CPI훈풍에나스닥0.9%상승마감…반도체주반등주도[뉴욕마감...",
+    "SK하이닉스ADR,나스닥에서27.29%폭등마감",
+    "단일종목레버리지…미국은400종분산,한국은투톱16종쏠림",
+    "바클레이스,'SK하이닉스ADR'목표주가330달러제시",
+    "돈줄조이고,주문나누고,문턱높이고…'3중안전망'구축해야[스페셜...",
+    "뉴욕증시,물가우려완화에동반상승마감"
    ],
    "initialized": true,
-   "last_run": "2026-07-15T05:31:02.803482+09:00"
+   "last_run": "2026-07-15T05:35:21.895832+09:00"
   }
  },
  "press_names": {
