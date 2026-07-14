@@ -425,12 +425,6 @@
     ]
    ],
    "seen_urls": [
-    "https://magazine.hankyung.com/business/article/202607143415b",
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/14/20260714500103?wlog_tag3=naver",
-    "https://www.mhns.co.kr/news/articleView.html?idxno=753323",
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/14/20260714500104?wlog_tag3=naver",
-    "https://www.ytn.co.kr/_ln/0106_202607141250504666",
-    "https://www.newspim.com/news/view/20260714000675",
     "https://news.tvchosun.com/site/data/html_dir/2026/07/14/2026071490207.html",
     "https://www.gukjenews.com/news/articleView.html?idxno=3635053",
     "https://www.ikbc.co.kr/article/view/kbc202607140030",
@@ -1924,15 +1918,15 @@
     "https://www.koreadaily.com/article/20260714144325552",
     "https://www.news2day.co.kr/article/20260715500003",
     "https://www.munhwa.com/article/11602687",
-    "https://www.greened.kr/news/articleView.html?idxno=345080"
+    "https://www.greened.kr/news/articleView.html?idxno=345080",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=141538",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1716391",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468425",
+    "https://www.mt.co.kr/society/2026/07/15/2026071505362793141",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005879870",
+    "https://www.ytn.co.kr/_ln/0104_202607150643165236"
    ],
    "seen_titles": [
-    "“차익실현타이밍?”...삼전닉스서발빼는글로벌'큰손'",
-    "[서울데이터랩]코스피시총상위주일제히약세…반도체·자동차·방산...",
-    "[기고]반도체·AI시대,승촌보친수구역300만평개발이답이다",
-    "[서울데이터랩]코스피거래상위종목혼조…에넥스·모나미상한가,SK하...",
-    "\"하이닉스위해기도드리겠습니다\"...주식광풍의단상",
-    "[일본특징주]\"10만엔이냐4만엔이냐\"...키옥시아덮친'중국리스크'",
     "이재용·최태원빼면6조줄었다…총수주식도'부익부빈익빈'",
     "충북도-청주시,'배터리인사이트2026'개최…500여이차전지전문가집...",
     "[속보]코스닥장중5%급락에매도사이드카…코스피도급등락반복",
@@ -3426,10 +3420,16 @@
     "“어린선수들에게꿈과희망주고싶어”WNBA박지현,애틀랜타서첫...",
     "[N2모닝경제브리핑-7월15일]美증시,국채금리하락에강세…나스닥...",
     "“지금은반등가능성높은구간…투자전략이렇게”전문가의조언",
-    "최태원\"메모리반도체이어AI·에너지분야투자확대\"...\"1000조원투입..."
+    "최태원\"메모리반도체이어AI·에너지분야투자확대\"...\"1000조원투입...",
+    "[오늘의글로벌마켓]뉴욕증시,물가우려완화에안도...3대지수강세",
+    "﻿15%폭락하루만에27%폭등…SK하이닉스,월가가다시샀다",
+    "서학개미,SK하이닉스ADR4천억'베팅'…나스닥데뷔첫날10만명몰렸...",
+    "\"제발주식앱부터지워라\"…3억날린정신과의사의뼈아픈조언",
+    "해외기업국내상장사투자1년새30%증가…절반이미국계",
+    "레버리지ETF대거상장에SK하이닉스ADR27.29%폭등...삼성전자레버..."
    ],
    "initialized": true,
-   "last_run": "2026-07-15T06:45:25.044517+09:00"
+   "last_run": "2026-07-15T06:50:49.972792+09:00"
   }
  },
  "press_names": {
