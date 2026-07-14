@@ -362,17 +362,33 @@
     [
      "2026-07-15T06:20:51.777422+09:00",
      "미래에셋운용 5배 점유율 커졌는데 파생 발목잡은 채권 몸집"
+    ],
+    [
+     "2026-07-15T06:25:23.713401+09:00",
+     "통합발전소 사업 현대건설 전격 진출"
+    ],
+    [
+     "2026-07-15T06:25:23.713401+09:00",
+     "바클레이즈 SK하이닉스 폭등 솟구쳤다 2배 1년 전망에"
+    ],
+    [
+     "2026-07-15T06:25:23.713401+09:00",
+     "갈까 언제까지 반도체 슈퍼사이클"
+    ],
+    [
+     "2026-07-15T06:25:23.713401+09:00",
+     "한여름 AS에 정상 못만드는 얼음 부실한 성수기 열불 얼음정수기가"
+    ],
+    [
+     "2026-07-15T06:25:23.713401+09:00",
+     "삼성 검토 블룸버그 삼성전자 ADR"
+    ],
+    [
+     "2026-07-15T06:25:23.713401+09:00",
+     "짓나 레이스 빨리 글로벌 시작됐다 반도체 증설 누가"
     ]
    ],
    "seen_urls": [
-    "http://www.wsobi.com/news/articleView.html?idxno=315189",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04031126645514520",
-    "https://www.newspim.com/news/view/20260714000444",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4424875",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8610236",
-    "http://www.kwangju.co.kr/article.php?aid=1783998660801235277",
-    "https://www.pennmike.com/news/articleView.html?idxno=123654",
-    "http://www.jeonmin.co.kr/news/articleView.html?idxno=443305",
     "https://www.mt.co.kr/stock/2026/07/14/2026071412043019276",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=850183",
     "https://www.sportsworldi.com/newsView/20260714511881",
@@ -1864,17 +1880,17 @@
     "https://www.seoul.co.kr/news/economy/2026/07/15/20260715500008?wlog_tag3=naver",
     "https://www.tokenpost.kr/news/economy/377857",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6837503_37012.html",
-    "https://www.ngetnews.com/news/articleView.html?idxno=551536"
+    "https://www.ngetnews.com/news/articleView.html?idxno=551536",
+    "https://www.mt.co.kr/world/2026/07/15/2026071506171721248",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=5083",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607101357064520703",
+    "https://www.g-enews.com/view.php?ud=202607150619029548e250e8e188_1",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607141223104660088",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=758966",
+    "https://www.ytn.co.kr/_ln/0104_202607150620171707",
+    "https://www.viva100.com/article/20260714500840"
    ],
    "seen_titles": [
-    "코스피6600선하회…SK하이닉스4.33%하락",
-    "IT·통신업계,글로벌FAST플랫폼확대·장애청소년AI역량강화지원...",
-    "SK하이닉스4%대하락…코스피,2%대밀려",
-    "작년하반기하도급대금89조…86%가30일내지급",
-    "대기업집단10%만하도급대금분쟁조정기구운영",
-    "코스피혼조세…‘반도체투톱’등락반복",
-    "대전환기획위“새중재안없다”…국립의대통합신청자율협의가마지...",
-    "[속보]코스피6600선도붕괴...6500선도위기",
     "원광대이윤선교수,AI시대HR전략제시",
     "반등기대감에'해적트럼프'찬물…코스피6700반납",
     "'삼전닉스'역대급폭락,업황둔화?",
@@ -3366,10 +3382,18 @@
     "[서울데이터랩]미국증시,기술주·반도체강세에나스닥상승마감",
     "[특징주]SK하이닉스,美ADR27%급등에강세…원주대비프리미엄51%...",
     "미국물가상승률둔화‥\"인플레용납안해\"",
-    "몸집5배커졌는데...미래에셋운용점유율발목잡은'파생·채권'"
+    "몸집5배커졌는데...미래에셋운용점유율발목잡은'파생·채권'",
+    "물가우려덜었다,반도체랠리…SK하닉27%급등[뉴욕마감]",
+    "하루만에27%폭등한SK하이닉스ADR…월가\"아직도두배더간다\"",
+    "[배전망ESS,첫발](1)현대건설,통합발전소사업전격진출",
+    "SK하이닉스,바클레이즈“1년내2배폭등”전망에27.29%솟구쳤다",
+    "[2026하반기경제성장전략]⑦반도체슈퍼사이클,언제까지갈까",
+    "얼음못만드는얼음정수기가'정상'?…성수기한여름부실한AS에'열불...",
+    "블룸버그\"삼성전자,ADR검토\"...삼성\"검토안해\"",
+    "누가더빨리짓나⋯글로벌반도체‘증설레이스’시작됐다"
    ],
    "initialized": true,
-   "last_run": "2026-07-15T06:20:51.777422+09:00"
+   "last_run": "2026-07-15T06:25:23.713401+09:00"
   }
  },
  "press_names": {
