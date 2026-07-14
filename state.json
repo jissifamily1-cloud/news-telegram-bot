@@ -394,16 +394,29 @@
     [
      "2026-07-15T06:31:01.202712+09:00",
      "잡을 둔화 의장 물가 상승률 소비자물가 연준"
+    ],
+    [
+     "2026-07-15T06:35:22.458679+09:00",
+     "시작됐다 기업 논의 사회적 초과이윤 분배"
+    ],
+    [
+     "2026-07-15T06:35:22.458679+09:00",
+     "회사에 200만불 한국 기업 트럼프 지급"
+    ],
+    [
+     "2026-07-15T06:35:22.458679+09:00",
+     "경기 가격도 낮아 집중 주간이 규제 남부 대체주거지 피하고 관심"
+    ],
+    [
+     "2026-07-15T06:35:22.458679+09:00",
+     "저평가 산정기준 라더니 역사적 삼전닉스 목표가 PBR인 PER 이유 분석"
+    ],
+    [
+     "2026-07-15T06:35:22.458679+09:00",
+     "전망에 월가 2배까지 급등 SK하닉 ADR 간다"
     ]
    ],
    "seen_urls": [
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260714.99099004045",
-    "https://www.viewsnnews.com/article?q=237187",
-    "http://www.fnnews.com/news/202607141229097515",
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/14/2026071400157.html",
-    "http://www.sisafocus.co.kr/news/articleView.html?idxno=362503",
-    "https://www.seoul.co.kr/news/economy/2026/07/14/20260714500099?wlog_tag3=naver",
-    "https://economist.co.kr/article/view/ecn202607140024",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/14/2026071400160.html",
     "https://www.pressian.com/pages/articles/2026071412344180558",
     "https://www.mk.co.kr/article/12098066",
@@ -1896,16 +1909,16 @@
     "https://www.goodkyung.com/news/articleView.html?idxno=289216",
     "https://www.sedaily.com/article/20067646",
     "https://www.hankyung.com/article/2026071555397",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8610979"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8610979",
+    "https://www.news1.kr/sports/baseball/6227896",
+    "https://www.newsis.com/view/NISX20260715_0003709487",
+    "https://www.labortoday.co.kr/news/articleView.html?idxno=235700",
+    "https://www.koreadaily.com/article/20260714143236953",
+    "https://www.hankyung.com/article/2026071434416",
+    "https://www.hankyung.com/article/2026071444116",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607150142&t=NN"
    ],
    "seen_titles": [
-    "[증권Pick]한투·미래에셋운용ETF,수익률↑",
-    "국민연금투자,반도체쏠림심화…삼전닉스비중절반넘겨",
-    "코스피6,500도붕괴,코스닥매도사이드카",
-    "[속보]SK하이닉스,장중7%대급락에170만원선도붕괴",
-    "최태원,SK대박에'10조클럽'첫입성…그룹총수6할은되레주식재...",
-    "김민재,바이에른뮌헨잔류전망…\"더이상매각대상아니다\"",
-    "[속보]170만닉스‘충격’…코스피6500붕괴",
     "[속보]코스피6500선도붕괴…SK하닉장중170만선무너져",
     "코스피,개인2.6조매도세에장중6400선…코스닥6%폭락750선",
     "‘4살연하재혼’서동주,안타까운소식…“하이닉스259층에물렸다”",
@@ -3398,10 +3411,17 @@
     "[심층진단]AI시대,차세대반도체로부상…'HBF'이뭐길래",
     "SKT독파모컨소시엄확대…SKAX·테크노매트릭스합류",
     "\"나스닥가자\"10만명몰렸다…서학개미,SK하닉4000억베팅",
-    "미소비자물가상승률둔화…연준의장“물가잡을것”"
+    "미소비자물가상승률둔화…연준의장“물가잡을것”",
+    "'작년처럼'LG,또역전우승도전…2위사수가먼저",
+    "SK하이닉스ADR,27%급등…美바클레이스,목표주가330달러제시",
+    "기업초과이윤분배사회적논의시작됐다",
+    "“한국기업,트럼프회사에200만불지급”",
+    "\"규제피하고가격도낮아\"…경기남부대체주거지'관심집중'[주간이...",
+    "\"삼전닉스PER역사적저평가\"라더니…목표가산정기준PBR인이유[분석...",
+    "\"2배까지간다\"월가전망에...SK하닉ADR27%'급등'"
    ],
    "initialized": true,
-   "last_run": "2026-07-15T06:31:01.202712+09:00"
+   "last_run": "2026-07-15T06:35:22.458679+09:00"
   }
  },
  "press_names": {
@@ -3924,6 +3944,7 @@
   "koreatimes.com": "koreatimes.com",
   "newsfarm.co.kr": "한국농업신문",
   "the-today.com": "더 투데이",
-  "mcnews.co.kr": "매일건설신문"
+  "mcnews.co.kr": "매일건설신문",
+  "koreadaily.com": "미주중앙일보"
  }
 }
