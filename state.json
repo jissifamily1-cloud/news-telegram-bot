@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-15T22:35:23.875074+09:00",
-     "공급 선점 젠슨 AI칩 로봇 일본행 공장"
-    ],
-    [
-     "2026-07-15T22:35:23.875074+09:00",
-     "탈락 이정효의 부산교통에 코리아컵 조기 2R 충격패 3부 수원"
-    ],
-    [
-     "2026-07-15T22:40:51.046396+09:00",
-     "포토카드 변우석 미공개 조기 부른 이벤트 SK매직 완판 앙코르 컷으로"
-    ],
-    [
-     "2026-07-15T22:40:51.046396+09:00",
-     "젠슨황 회식 일본선 삼소 맥주 회동 꼬치에 힌국서 치맥"
-    ],
-    [
      "2026-07-15T22:45:50.331898+09:00",
      "부산교통 수원 연장 파란 격침 끝에 삼성을 K3"
     ],
@@ -329,8 +313,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260715_0003710363",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04080326645514848",
     "http://www.newsian.co.kr/news/articleView.html?idxno=92284",
     "https://www.hankookilbo.com/news/article/A2026071509560000812?did=NA",
     "https://www.kukinews.com/article/view/kuk202607150073",
@@ -1828,11 +1810,11 @@
     "https://www.donga.com/news/Economy/article/all/20260716/134308790/2",
     "https://www.donga.com/news/Society/article/all/20260715/134306923/2",
     "https://www.hankookilbo.com/news/article/A2026071514250000262?did=NA",
-    "https://www.hankookilbo.com/news/article/A2026071515520003178?did=NA"
+    "https://www.hankookilbo.com/news/article/A2026071515520003178?did=NA",
+    "https://www.donga.com/news/Economy/article/all/20260716/134308333/2",
+    "https://www.donga.com/news/Economy/article/all/20260716/134308335/2"
    ],
    "seen_titles": [
-    "이재명대통령\"장기연체채무정리,새출발기회줘야\"",
-    "최태원회장'광주맛집'팔로우…\"하이닉스광주오나\"",
     "이대통령\"ETF때문에많이당했죠?\"…금감당국에보완책지시",
     "李\"삼전·닉스레버리지ETF보완책신속히마련하라\"",
     "블룸버그\"한국단일종목레버리지ETF,출시시점최악이었다\"",
@@ -3330,10 +3312,12 @@
     "[단독]“신입대신AI쓴다”韓주요IT기업20대신규채용43%감소",
     "수도권밖첫‘SKAI교육’,울산에문열었다",
     "삼성·SK하이닉스,피말리는인재확보경쟁…학계\"10만명키워야\"",
-    "주유소서QR찍는노인들...서울셀프주유소2곳중1곳'이동약자서비..."
+    "주유소서QR찍는노인들...서울셀프주유소2곳중1곳'이동약자서비...",
+    "‘삼전닉스’고액성과급받아도주담대크게안늘려준다",
+    "삼전닉스레버리지,하루24번손바뀜‘초단타’거래에증시출렁"
    ],
    "initialized": true,
-   "last_run": "2026-07-16T04:35:23.628472+09:00"
+   "last_run": "2026-07-16T04:40:53.810535+09:00"
   }
  },
  "press_names": {
