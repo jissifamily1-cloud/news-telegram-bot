@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-15T21:20:50.922971+09:00",
-     "메타 정말 반도체 실적에 구글 고점일까 MS 쏠리는"
-    ],
-    [
-     "2026-07-15T21:20:50.922971+09:00",
-     "Hyundai On Battery Plant Production Motor Starts"
-    ],
-    [
-     "2026-07-15T21:20:50.922971+09:00",
-     "주가 정부 H200 확인에 날아올랐 엔비디아 수출 시작 중국"
-    ],
-    [
-     "2026-07-15T21:20:50.922971+09:00",
-     "대통령도 여기로 대책 지시 코스피 속도전"
-    ],
-    [
      "2026-07-15T21:22:29.055566+09:00",
      "치맥이어 젠슨 일본에 꼬치 회동 한국 피지컬 일본서 기회"
     ],
@@ -322,11 +306,17 @@
     [
      "2026-07-16T03:04:38.914925+09:00",
      "ASML 수요에 매출전망 상향"
+    ],
+    [
+     "2026-07-16T03:20:53.074397+09:00",
+     "주목 축소 원주 ADR 급락에도 강세 프리미엄 SK하이닉스"
+    ],
+    [
+     "2026-07-16T03:20:53.074397+09:00",
+     "자원 흔든다 반도체 중국 카드 본격화 공급망 방산"
     ]
    ],
    "seen_urls": [
-    "https://www.greened.kr/news/articleView.html?idxno=345103",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607151304181960104064",
     "https://www.naeil.com/news/read/595462",
     "https://view.asiae.co.kr/article/2026071509473253637",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5206087",
@@ -1824,11 +1814,11 @@
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=605084",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=605086",
     "http://coinreaders.com/247946",
-    "https://www.g-enews.com/view.php?ud=2026071517554399169a1f309431_1"
+    "https://www.g-enews.com/view.php?ud=2026071517554399169a1f309431_1",
+    "https://www.tokenpost.kr/news/economy/378228",
+    "https://www.g-enews.com/view.php?ud=20260715173000216fbbec65dfb_1"
    ],
    "seen_titles": [
-    "기업예금·증권거래자금유입에5월통화량32조원증가,9개월만에...",
-    "SK매직,변우석미공개포토카드증정앙코르이벤트…팬성원에2차진...",
     "AI인재양성할스칼라(SKALA,SKAILeaderAcademy)울산캠퍼스개소",
     "삼성전자,美ADR상장설일축\"자금여력충분\"",
     "[더벨][i-point]인텔리안테크,‘차세대위성및재난·안전해상통신세...",
@@ -3326,10 +3316,12 @@
     "총수주식자산의극단적양극화:메디컬투데이TV",
     "국민연금의제약·바이오투자재편:메디컬투데이TV",
     "\"한국보다38%비싸다\"...SK하이닉스,미국주가과열경고",
-    "ASML,AI수요에매출전망또상향"
+    "ASML,AI수요에매출전망또상향",
+    "[특징주]SK하이닉스,ADR10%급락에도원주강세…프리미엄축소주목",
+    "중국자원카드본격화…반도체·방산공급망흔든다"
    ],
    "initialized": true,
-   "last_run": "2026-07-16T03:15:27.459945+09:00"
+   "last_run": "2026-07-16T03:20:53.074397+09:00"
   }
  },
  "press_names": {
