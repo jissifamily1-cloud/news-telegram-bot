@@ -442,11 +442,13 @@
     [
      "2026-07-16T05:50:54.056923+09:00",
      "광고 재개 김수현 촬영 활동 시작으로"
+    ],
+    [
+     "2026-07-16T05:55:21.245854+09:00",
+     "하락 ADR 하이닉스 널뛰기 폭등"
     ]
    ],
    "seen_urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=1391728",
-    "https://www.widedaily.com/news/articleView.html?idxno=297665",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069479",
     "https://www.news1.kr/realestate/general/6229004",
     "https://www.etnews.com/20260715000300",
@@ -1944,11 +1946,11 @@
     "http://www.beyondpost.co.kr/view.php?ud=2026071605333560792aaae0046f_30",
     "https://www.ddaily.co.kr/page/view/2026071517504708007",
     "https://www.mt.co.kr/world/2026/07/16/2026071605183018158",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260716054321ElT"
+    "http://www.yonhapnewstv.co.kr/news/MYH20260716054321ElT",
+    "https://www.news1.kr/world/international-economy/6229662",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607160108&t=NN"
    ],
    "seen_titles": [
-    "코스피출렁이자반도체도롤러코스터…증권가\"과열해소과정\"",
-    "\"해외기업,국내상장사투자급증…1년새30%↑\"",
     "\"엔비디아칩안써요\"…포털다음검색창,'K-풀스택AI'가이끈다",
     "KB증권\"SK하이닉스조정은매수기회\"목표가420만원유지",
     "삼성물산주거서비스플랫폼'홈닉',HJ중공업해모로아파트에적용",
@@ -3446,10 +3448,12 @@
     "SK하이닉스ADR9%,마이크론8%급락...반도체주,워런버핏의거품지...",
     "[모두의AI②]통신·포털·AI기업합종연횡구도관심집중…독파모컨소...",
     "한국선치맥,일본선이자카야…젠슨황,현지협력사와'건배'",
-    "[이시각핫뉴스]김수현,광고촬영시작으로공식활동재개外"
+    "[이시각핫뉴스]김수현,광고촬영시작으로공식활동재개外",
+    "SK하이닉스ADR다시9%후퇴…나스닥상장나흘간널뛰기장세",
+    "[속보]美ADR,27%폭등→9%하락…하이닉스또널뛰기"
    ],
    "initialized": true,
-   "last_run": "2026-07-16T05:50:54.056923+09:00"
+   "last_run": "2026-07-16T05:55:21.245854+09:00"
   }
  },
  "press_names": {
