@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-15T20:01:06.364344+09:00",
-     "주택판매업자의 하소연 총량규제 풀어달라 가계대출"
-    ],
-    [
      "2026-07-15T20:15:28.298928+09:00",
      "대통령 금융 정상화 주식시장 생산적"
     ],
@@ -410,10 +406,13 @@
     [
      "2026-07-16T01:55:22.766142+09:00",
      "국민연금의 제약 재편 메디컬투데이TV 바이오 투자"
+    ],
+    [
+     "2026-07-16T02:05:23.589720+09:00",
+     "비싸다 주가 미국 SK하이닉스 과열 경고 한국보다"
     ]
    ],
    "seen_urls": [
-    "https://www.public25.com/news/articleView.html?idxno=50752",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0800&key=20260715.99099004469",
     "https://www.greened.kr/news/articleView.html?idxno=345103",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607151304181960104064",
@@ -1912,10 +1911,10 @@
     "https://imnews.imbc.com/replay/2026/nw2500/article/6837756_36989.html",
     "https://www.nytimes.com/2026/07/15/business/spacex-ipo-price.html?partner=naver",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=605084",
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=605086"
+    "https://www.mdtoday.co.kr/news/articleView.html?idxno=605086",
+    "http://coinreaders.com/247946"
    ],
    "seen_titles": [
-    "이대통령,삼전닉스레버리지에“보완대책신속히마련하라”",
     "[대통령업무보고]이재명,단일종목레버리지ETF에\"보완대책신속히...",
     "기업예금·증권거래자금유입에5월통화량32조원증가,9개월만에...",
     "SK매직,변우석미공개포토카드증정앙코르이벤트…팬성원에2차진...",
@@ -3414,10 +3413,11 @@
     "묘수못찾는'레버리지쏠림'‥대책공개주문",
     "SpaceXFallsBelowI.P.O.Priceof$135",
     "총수주식자산의극단적양극화:메디컬투데이TV",
-    "국민연금의제약·바이오투자재편:메디컬투데이TV"
+    "국민연금의제약·바이오투자재편:메디컬투데이TV",
+    "\"한국보다38%비싸다\"...SK하이닉스,미국주가과열경고"
    ],
    "initialized": true,
-   "last_run": "2026-07-16T02:01:05.674036+09:00"
+   "last_run": "2026-07-16T02:05:23.589720+09:00"
   }
  },
  "press_names": {
