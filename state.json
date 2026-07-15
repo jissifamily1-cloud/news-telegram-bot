@@ -646,10 +646,13 @@
     [
      "2026-07-16T07:55:22.873614+09:00",
      "경제성 로봇용 총소유비용이 따진다 배터리도 관건 전고체"
+    ],
+    [
+     "2026-07-16T08:01:03.650332+09:00",
+     "급등 2분기 실적에 한미반도체 사상"
     ]
    ],
    "seen_urls": [
-    "https://www.gokorea.kr/news/articleView.html?idxno=872128",
     "https://www.m-i.kr/news/articleView.html?idxno=1391912",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=266667",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4095250",
@@ -2148,10 +2151,10 @@
     "https://biz.sbs.co.kr/article_hub/20000322840?division=NAVER",
     "https://www.news1.kr/industry/general-industry/6229618",
     "https://biz.sbs.co.kr/article_hub/20000322853?division=NAVER",
-    "https://www.thelec.kr/news/articleView.html?idxno=59638"
+    "https://www.thelec.kr/news/articleView.html?idxno=59638",
+    "https://biz.sbs.co.kr/article_hub/20000322839?division=NAVER"
    ],
    "seen_titles": [
-    "SK이노베이션주가,7월15일장중117,300원11.82%상승",
     "삼성전자ESG평가최고점…신한금융·기아도최우수기업에선정",
     "李대통령\"부동산매달리는건원시적...생산적금융으로전환\"",
     "李대통령\"레버리지ETF대책신속하게마련\"주문",
@@ -3650,10 +3653,11 @@
     "[비즈나우]앤트로픽,기업공개앞두고오픈AI에'판정승'",
     "캐피탈사'상생금융'카드에도렌터카업계,렌탈규제완화찬반팽팽",
     "젠슨황의TOP…韓,용산·치맥,日꼬치구이·아키하바라",
-    "\"로봇용전고체배터리도경제성따진다…총소유비용이관건\""
+    "\"로봇용전고체배터리도경제성따진다…총소유비용이관건\"",
+    "[애프터마켓리뷰]한미반도체,2분기사상최대실적에급등"
    ],
    "initialized": true,
-   "last_run": "2026-07-16T07:55:22.873614+09:00"
+   "last_run": "2026-07-16T08:01:03.650332+09:00"
   }
  },
  "press_names": {
