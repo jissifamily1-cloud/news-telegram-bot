@@ -309,7 +309,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/PYH20260715123300013?input=1196m",
     "https://news.skbroadband.com/news/articleView.html?idxno=232163",
     "https://www.kukinews.com/article/view/kuk202607150082",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=141577",
@@ -1808,10 +1807,10 @@
     "https://www.mt.co.kr/finance/2026/07/16/2026071519582667892",
     "https://www.mt.co.kr/finance/2026/07/16/2026071519004465598",
     "https://www.aitimes.com/news/articleView.html?idxno=212781",
-    "https://www.yna.co.kr/view/AKR20260716006000091?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260716006000091?input=1195m",
+    "https://biz.sbs.co.kr/article_hub/20000322811?division=NAVER"
    ],
    "seen_titles": [
-    "SK증권\"미래에셋증권투자의견'매수'로상향,스페이스X주가변동성은...",
     "역대급폭락기록했던코스피…외국인의시각은?",
     "군포복합문화센터,중앙투자심사통과...사업본격화",
     "이대통령“삼전·닉스레버리지시끄럽죠”…당국에보완책주문",
@@ -3310,10 +3309,11 @@
     "렌탈규제완화급한캐피탈,중소렌터카상생나선다",
     "\"청년대출규제완화필요\"vs\"또다른집값상승유발\"",
     "SKT,SK바이오팜과AI기반난치성암표적치료유효물질발굴",
-    "앤트로픽,대형IPO앞두고투자자면담…10월상장목표순항"
+    "앤트로픽,대형IPO앞두고투자자면담…10월상장목표순항",
+    "앤트로픽,오픈AI보다먼저데뷔한다...대형IPO앞두고투자자면담"
    ],
    "initialized": true,
-   "last_run": "2026-07-16T04:25:20.867874+09:00"
+   "last_run": "2026-07-16T04:30:58.972853+09:00"
   }
  },
  "press_names": {
