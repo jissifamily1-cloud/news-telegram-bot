@@ -410,12 +410,17 @@
     [
      "2026-07-16T05:20:51.125426+09:00",
      "맛집 거냐 회장 오는 광주 팔로우 들썩 최태원 진짜 SK하이닉스"
+    ],
+    [
+     "2026-07-16T05:25:22.512780+09:00",
+     "삼성 구글 급등에 메모리값 신제품 가격 애플 오르"
+    ],
+    [
+     "2026-07-16T05:25:22.512780+09:00",
+     "직주근접 세권 넘어 아파트 뜬다"
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0101_202607151346269169",
-    "https://news.ifm.kr/news/articleView.html?idxno=475081",
-    "http://www.seouleconews.com/news/articleView.html?idxno=92424",
     "https://www.medipana.com/news/articleView.html?idxno=414623",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468650",
     "https://www.newdaily.co.kr/site/data/html/2026/07/15/2026071500205.html",
@@ -1912,12 +1917,12 @@
     "https://biz.chosun.com/international/international_economy/2026/07/16/52272JIWXNGV3CVG56JMOUUTCU/",
     "http://www.yonhapnewstv.co.kr/news/MYH20260716051648NiY",
     "https://www.seoul.co.kr/news/editOpinion/editorial/2026/07/16/20260716027007?wlog_tag3=naver",
-    "https://www.news1.kr/society/general-society/6229224"
+    "https://www.news1.kr/society/general-society/6229224",
+    "https://www.newspim.com/news/view/20260716000022",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607151449137140323",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607150921127910208"
    ],
    "seen_titles": [
-    "李대통령\"삼전닉스레버리지ETF보완대책신속히마련하라\"",
-    "이대통령\"삼전닉스단일종목레버리지ETF보완책신속마련\"지시",
-    "[기업분석]BTS가끌고신인IP가받친다…하이브,'실적재평가구간'...",
     "美매체보도\"미국SK온·현대차합작공장...전기차배터리양산돌입\"",
     "한미무대오른바이오벤처…화두는'기술이후'",
     "ESS전용라인가동…SK이노베이션,SK온흑자전환승부수",
@@ -3414,10 +3419,13 @@
     "뉴욕증시3대지수동반상승마감…‘인플레이션둔화기대’",
     "젠슨황\"SK하이닉스미상장,성공적…기쁘다\"",
     "[사설]세계증시애물단지‘롤러코스피’…이제와“답없다”라면",
-    "최태원회장'광주맛집'팔로우…\"SK하이닉스진짜오는거냐\"들썩"
+    "최태원회장'광주맛집'팔로우…\"SK하이닉스진짜오는거냐\"들썩",
+    "뉴욕증시,반도체약세에도빅테크강세에상승마감…나스닥0.62%↑",
+    "[칩플레이션쇼크]메모리값급등에삼성·애플·구글신제품가격오르...",
+    "‘직주근접’넘어‘다(多)세권’아파트뜬다"
    ],
    "initialized": true,
-   "last_run": "2026-07-16T05:20:51.125426+09:00"
+   "last_run": "2026-07-16T05:25:22.512780+09:00"
   }
  },
  "press_names": {
