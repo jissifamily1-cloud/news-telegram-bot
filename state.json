@@ -418,16 +418,29 @@
     [
      "2026-07-16T05:31:03.784810+09:00",
      "눈앞 P500 사상 뉴욕증시 최고치 상승 마감"
+    ],
+    [
+     "2026-07-16T05:35:22.789766+09:00",
+     "이어 투자 농사 수익률 하이닉스 비결 대박 주식도 변정수 자식"
+    ],
+    [
+     "2026-07-16T05:35:22.789766+09:00",
+     "매출 반도체 당분간 사상 걱정없다 올해 삼전닉스 1조달러 세계"
+    ],
+    [
+     "2026-07-16T05:35:22.789766+09:00",
+     "부산 HMM 품은 도약 해수부 해양수도 글로벌"
+    ],
+    [
+     "2026-07-16T05:35:22.789766+09:00",
+     "대신증권 조달비용 미래에셋 빛난 발행사 프라이싱 높인 역량"
+    ],
+    [
+     "2026-07-16T05:35:22.789766+09:00",
+     "예고대로 만에 6개월 기준금리 돌입 긴축 한은 인상할 3년"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/general-stock/6228987",
-    "https://www.g-enews.com/view.php?ud=202607151326193805923c501012_1",
-    "https://biz.chosun.com/it-science/ict/2026/07/15/WE6UMZIACRDU3C3NSPULKC63SM/",
-    "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=0023&key=202607151106066922",
-    "https://www.thepowernews.co.kr/view.php?ud=202607151349249205de3f0aa1be_7",
-    "https://www.eroun.net/news/articleView.html?idxno=85492",
-    "https://www.kyeonggi.com/article/20260715580158",
     "http://www.4th.kr/news/articleView.html?idxno=2114794",
     "http://www.wsobi.com/news/articleView.html?idxno=315284",
     "https://www.newsmap.co.kr/news/articleView.html?idxno=1426",
@@ -1920,16 +1933,16 @@
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607150921127910208",
     "https://www.g-enews.com/view.php?ud=202607160523267034e250e8e188_1",
     "http://www.fnnews.com/news/202607160521598062",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=82294"
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=82294",
+    "https://www.mediapen.com/news/view/1110422",
+    "https://www.sedaily.com/article/20068327",
+    "https://www.tenasia.co.kr/article/2026071577884",
+    "https://www.chosun.com/economy/money/2026/07/16/N7VK6I7OZNA6DJ7IWELRGJG6R4/",
+    "https://www.joongang.co.kr/article/25445509",
+    "https://www.fntimes.com/html/view.php?ud=202607151311541492141825007d_18",
+    "https://www.yna.co.kr/view/AKR20260715168000002?input=1195m"
    ],
    "seen_titles": [
-    "블룸버그\"韓증시,레버리지가시장흔드는실험장…AI랠리,변동성...",
-    "李\"증시돌덩이과감히골라내라\"…이억원\"체질·구조바꿀것\"(종합)",
-    "코스피,7400선탈환…외인·기관매수'쌍끌이'",
-    "“다음쓰면솔라·국산NPU도쓴다”…업스테이지‘풀스택AI’,수익...",
-    "[다시보기]7월15일(수)오전사이언스투데이",
-    "SK텔레콤·SK바이오팜,AI로암치료제초기유효물질발굴",
-    "HJ중공업,삼성물산과손잡고'해모로by홈닉'도입…AI기반스마트주거...",
     "[속보]李대통령,“레버리지ETF보완책신속마련하라”특별지시",
     "소액주주단체\"기업초과이익환수논의,반시장적발상\"",
     "금융권'알파셀렉션'출시...ELW340종목신규상장...'매주테슬라모델...",
@@ -3422,10 +3435,17 @@
     "‘직주근접’넘어‘다(多)세권’아파트뜬다",
     "[뉴욕증시]인플레둔화조짐에나스닥162p↑...마이크론7.71%급락",
     "[뉴욕증시]빅테크강세에이틀연속상승…반도체는급락",
-    "미뉴욕증시상승마감…S&P500사상최고치눈앞"
+    "미뉴욕증시상승마감…S&P500사상최고치눈앞",
+    "[美증시]인플레완화에3대지수동반랠리…빅테크주도,반도체는급...",
+    "달러프리미엄‘마이너스’확대…“원화강세파도올수도”[Pick코...",
+    "자식농사이어주식도대박…변정수,\"하이닉스수익률200%\"투자비결...",
+    "삼전닉스당분간걱정없다?올해세계반도체매출사상최초1조달러예...",
+    "[새로운출발부울경]해수부·HMM품은부산‘글로벌해양수도’도약",
+    "[DCM]발행사조달비용높인미래에셋…프라이싱역량빛난대신증권[2...",
+    "한은'예고대로'기준금리인상할듯…3년6개월만에긴축돌입"
    ],
    "initialized": true,
-   "last_run": "2026-07-16T05:31:03.784810+09:00"
+   "last_run": "2026-07-16T05:35:22.789766+09:00"
   }
  },
  "press_names": {
