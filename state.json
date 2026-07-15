@@ -1377,8 +1377,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.jtbc.co.kr/article/NB12308253?influxDiv=NAVER",
-    "https://news.jtbc.co.kr/article/NB12308257?influxDiv=NAVER",
     "https://www.ngonews.kr/news/articleView.html?idxno=232940",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05654726645514520",
     "https://www.nocutnews.co.kr/news/6548181",
@@ -2876,11 +2874,11 @@
     "https://www.hankookilbo.com/news/article/A2026071512150001937?did=NA",
     "https://www.yna.co.kr/view/AKR20260715096900002?input=1195m",
     "https://www.newsway.co.kr/news/view?ud=2026071512420363033",
-    "https://biz.sbs.co.kr/article_hub/20000322672?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000322672?division=NAVER",
+    "https://www.sportschosun.com/entertainment/2026-07-15/202607150100094740005920",
+    "https://www.m-economynews.com/news/article.html?no=68754"
    ],
    "seen_titles": [
-    "‘김범석쿠팡총수지정’효력일단정지",
-    "증권업계,단일종목레버리지ETF‘예탁금상향’추진",
     "삼전도ADR발행?블룸버그보도에삼전“검토안해”",
     "[앵커리포트]롤러코스터장세속상승마감…코스피6,800선회복",
     "“AI초과이익에특별세도입,사회연대투자추진해야”",
@@ -4378,10 +4376,12 @@
     "이대통령\"레버리지ETF보완대책신속히마련해야\"",
     "이대통령,단일종목레버리지에\"보완대책잘신속히마련하라\"",
     "이재명\"단일종목레버리지보완책마련\"주문…세부언급은없어",
-    "李\"레버리지ETF로많이당하는모양\"…금감원장\"시장관리자로서책..."
+    "李\"레버리지ETF로많이당하는모양\"…금감원장\"시장관리자로서책...",
+    "변정수,챗GPT덕에주식대박났다\"원금빼고이자로만돌리는중\"",
+    "반도체독주에밀린제약·바이오…하반기글로벌이벤트로반등노린다"
    ],
    "initialized": true,
-   "last_run": "2026-07-15T12:45:26.136049+09:00"
+   "last_run": "2026-07-15T12:50:52.288389+09:00"
   }
  },
  "press_names": {
