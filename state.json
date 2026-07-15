@@ -873,7 +873,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260715000748",
     "https://www.newspim.com/news/view/20260715000747",
     "https://www.newspim.com/news/view/20260715000751",
     "https://www.hitnews.co.kr/news/articleView.html?idxno=77631",
@@ -2372,10 +2371,10 @@
     "http://www.yonhapnewstv.co.kr/news/MYH20260715230313g5l",
     "http://www.yonhapnewstv.co.kr/news/MYH20260715230141rqy",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=847338",
-    "https://www.dailian.co.kr/news/view/1667672/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1667672/?sc=Naver",
+    "https://www.ytn.co.kr/_ln/0102_202607152304376986"
    ],
    "seen_titles": [
-    "李대통령,'삼전닉스레버리지ETF'에보완대책신속마련주문",
     "SK온·현대차美합작공장본격가동…현대차메타플랜트공급",
     "AI시대의기업투자와노동의미래토론회참석한김정관장관",
     "인사말하는김정관산업통상부장관",
@@ -3874,10 +3873,11 @@
     "전세대출·총량규제…부동산금융해법'갑론을박'",
     "'삼전·닉스'주담대한도죈다…소득심사강화",
     "[#통신풍향계]SKT-SK바이오팜'난치성암신약연구'가속·KT'AX테크...",
-    "같은SK하이닉스인데51%더비싸다…美서벌어진‘기현상’"
+    "같은SK하이닉스인데51%더비싸다…美서벌어진‘기현상’",
+    "\"청년지원\"vs\"집값상승\"...실수요자정의지적도"
    ],
    "initialized": true,
-   "last_run": "2026-07-15T23:05:23.816980+09:00"
+   "last_run": "2026-07-15T23:10:53.575677+09:00"
   }
  },
  "press_names": {
