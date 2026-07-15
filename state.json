@@ -282,10 +282,13 @@
     [
      "2026-07-16T03:50:54.835936+09:00",
      "문화대상 전시 수상자 서울문화투데이 조혜영 제17회"
+    ],
+    [
+     "2026-07-16T04:01:02.953245+09:00",
+     "삼전닉스 부작용 심한 시급하다 레버리지 보완"
     ]
    ],
    "seen_urls": [
-    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5206087",
     "https://www.kado.net/news/articleView.html?idxno=2061414",
     "http://www.yonhapnewstv.co.kr/news/MYH20260715131831YR7",
     "https://www.m-i.kr/news/articleView.html?idxno=1391811",
@@ -1784,10 +1787,10 @@
     "https://www.tokenpost.kr/news/economy/378228",
     "https://www.g-enews.com/view.php?ud=20260715173000216fbbec65dfb_1",
     "https://www.g-enews.com/view.php?ud=202607160338097625e7e8286d56_1",
-    "http://www.sctoday.co.kr/news/articleView.html?idxno=48151"
+    "http://www.sctoday.co.kr/news/articleView.html?idxno=48151",
+    "https://www.ddaily.co.kr/page/view/2026071515355300233"
    ],
    "seen_titles": [
-    "[더벨][i-point]인텔리안테크,‘차세대위성및재난·안전해상통신세...",
     "[인터뷰|전재수부산시장]“대한민국미래먹거리,북극항로선점할...",
     "팹엔800조…차세대메모리엔2000억",
     "바클레이스전망에하이닉스ADR27%↑…코스피7300선복귀도[프레스룸...",
@@ -3286,10 +3289,11 @@
     "[특징주]SK하이닉스,ADR10%급락에도원주강세…프리미엄축소주목",
     "중국자원카드본격화…반도체·방산공급망흔든다",
     "\"달러자산의덫인가\"…SK하이닉스美ADR,38%고평가해소시험대오...",
-    "[SpecialInterview]서울문화투데이제17회문화대상수상자조혜영전시..."
+    "[SpecialInterview]서울문화투데이제17회문화대상수상자조혜영전시...",
+    "[오승호칼럼]부작용심한'삼전닉스레버리지'보완시급하다"
    ],
    "initialized": true,
-   "last_run": "2026-07-16T03:55:20.685149+09:00"
+   "last_run": "2026-07-16T04:01:02.953245+09:00"
   }
  },
  "press_names": {
