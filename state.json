@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-15T23:55:22.518693+09:00",
-     "적합 6개월마다 추천 요금 통신비 통신사 절감 락인 vs"
-    ],
-    [
-     "2026-07-15T23:55:22.518693+09:00",
-     "뉴욕장서 초반대 달러 490원 거래"
-    ],
-    [
      "2026-07-16T00:01:08.650784+09:00",
      "TSMC 열전 반도체 수호신산 모리스창"
     ],
@@ -446,15 +438,29 @@
     [
      "2026-07-16T05:55:21.245854+09:00",
      "하락 ADR 하이닉스 널뛰기 폭등"
+    ],
+    [
+     "2026-07-16T06:01:02.248347+09:00",
+     "팬덤 의존 자사몰에 플랫폼 사활 호텔업계 잡는다 낮추고"
+    ],
+    [
+     "2026-07-16T06:01:02.248347+09:00",
+     "대경권 반도체 생태계 활용해야 적극 우위 호남보다"
+    ],
+    [
+     "2026-07-16T06:01:02.248347+09:00",
+     "꺾였는데 도매 반도체는 강세 물가도 마감"
+    ],
+    [
+     "2026-07-16T06:01:02.248347+09:00",
+     "투자자 2배 탈출했는데 전망에 절반이 간다 손실 SK하이닉스"
+    ],
+    [
+     "2026-07-16T06:01:02.248347+09:00",
+     "ETF 2배 없죠 시장도 어째 좋은 교란 점이 회사채 하나도"
     ]
    ],
    "seen_urls": [
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069479",
-    "https://www.news1.kr/realestate/general/6229004",
-    "https://www.etnews.com/20260715000300",
-    "http://www.metroseoul.co.kr/article/20260715500216",
-    "https://www.hg-times.com/news/articleView.html?idxno=303623",
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=83342",
     "https://www.g-enews.com/view.php?ud=20260715135152340ea13369bfa_1",
     "https://www.kpinews.kr/newsView/1065588894150906",
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062200",
@@ -1948,15 +1954,15 @@
     "https://www.mt.co.kr/world/2026/07/16/2026071605183018158",
     "http://www.yonhapnewstv.co.kr/news/MYH20260716054321ElT",
     "https://www.news1.kr/world/international-economy/6229662",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607160108&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607160108&t=NN",
+    "https://www.yna.co.kr/view/AKR20260716007751072?input=1195m",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1386263",
+    "https://www.yeongnam.com/web/view.php?key=20260715025526238",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4425249",
+    "https://www.seoul.co.kr/news/economy/securities/2026/07/15/20260715500209?wlog_tag3=naver",
+    "https://www.mk.co.kr/article/12099866"
    ],
    "seen_titles": [
-    "\"엔비디아칩안써요\"…포털다음검색창,'K-풀스택AI'가이끈다",
-    "KB증권\"SK하이닉스조정은매수기회\"목표가420만원유지",
-    "삼성물산주거서비스플랫폼'홈닉',HJ중공업해모로아파트에적용",
-    "中CXMT,IPO로최대15조원조달…반도체자립'실탄'마련",
-    "삼성물산,HJ중공업과'해모로by홈닉'구축",
-    "李대통령\"부동산쏠림과도…자본시장정상화서둘러야\"",
     "해외기업,국내상장사투자1년새30%↑…미국계가절반넘어",
     "HJ중공업,삼성물산과스마트주거서비스강화…'해모로by홈닉'도입",
     "삼성물산,HJ중공업과'홈닉'을통한스마트주거서비스확대",
@@ -3450,10 +3456,16 @@
     "한국선치맥,일본선이자카야…젠슨황,현지협력사와'건배'",
     "[이시각핫뉴스]김수현,광고촬영시작으로공식활동재개外",
     "SK하이닉스ADR다시9%후퇴…나스닥상장나흘간널뛰기장세",
-    "[속보]美ADR,27%폭등→9%하락…하이닉스또널뛰기"
+    "[속보]美ADR,27%폭등→9%하락…하이닉스또널뛰기",
+    "뉴욕증시,도매물가둔화·빅테크강세에상승…나스닥0.6%↑(종합)",
+    "\"플랫폼의존낮추고팬덤잡는다\"…자사몰에사활건호텔업계",
+    "[사설]호남보다우위대경권반도체생태계적극활용해야",
+    "[뉴욕증시]도매물가도꺾였는데반도체는왜…강세마감",
+    "“투자자절반이손실”SK하이닉스탈출했는데…“2배간다”전망에...",
+    "“2배ETF어째좋은점이하나도없죠?”…회사채시장도교란"
    ],
    "initialized": true,
-   "last_run": "2026-07-16T05:55:21.245854+09:00"
+   "last_run": "2026-07-16T06:01:02.248347+09:00"
   }
  },
  "press_names": {
