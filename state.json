@@ -1602,15 +1602,13 @@
     [
      "2026-07-15T19:15:28.628255+09:00",
      "SK하이닉스 본주 비밀 간다는데 미국선 괴리율 330달러 ADR"
+    ],
+    [
+     "2026-07-15T19:25:22.097270+09:00",
+     "서진시스템 한화오션 신성이엔지 이수페타시스 남양유업"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10809580",
-    "http://www.e2news.com/news/articleView.html?idxno=332319",
-    "https://www.insight.co.kr/news/563116",
-    "https://biz.heraldcorp.com/article/10809579",
-    "https://www.sedaily.com/article/20067982",
-    "https://www.etoday.co.kr/news/view/2603973",
     "https://www.ziksir.com/news/articleView.html?idxno=140152",
     "https://www.cstimes.com/news/articleView.html?idxno=713548",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468618",
@@ -3104,15 +3102,15 @@
     "https://www.thepublic.kr/news/articleView.html?idxno=311465",
     "https://biz.chosun.com/topics/law_firm/2026/07/15/24NNANY43BG55M7MZU6272HXRA/",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2234075",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611671"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611671",
+    "https://www.ggilbo.com/news/articleView.html?idxno=1169677",
+    "https://www.tokenpost.kr/news/ai/378098",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260715010005801",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611705",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260715192147N75",
+    "https://www.kdpress.co.kr/news/articleView.html?idxno=206962"
    ],
    "seen_titles": [
-    "“통신AI경쟁,투자에서운영성과로…SKT대표사례부상”",
-    "통신3사'모두의AI'도전장…B2CAI주도권선점경쟁",
-    "커지는SK하이닉스ADR프리미엄…상장사흘만에51%로",
-    "미래에셋자산운용‘알파셀렉션’출시",
-    "SK이노베이션,AI로에너지·사회문제해결",
-    "'급락장'에하루만에4조팔아치운개미...기관·외국인은담았다",
     "中CXMT“삼성·SK수준D램만든다”",
     "QR찍으면직원이주유지원…서울시‘이동약자서비스’확대",
     "'QR'찍으면직원이주유돕는다…서울시,이동약자주유서비스확대",
@@ -4606,10 +4604,16 @@
     "삼성물산홈닉,HJ중공업해모로품는다…스마트주거경쟁본격화",
     "검찰,‘삼전닉스’글로벌부품사3곳압수수색…납품가담합혐의",
     "SK에코플랜트,'2026테크오픈콜라보레이션'시상식",
-    "미국삼전·닉스투자압박에청“국내가우선”…강경화‘이례적’..."
+    "미국삼전·닉스투자압박에청“국내가우선”…강경화‘이례적’...",
+    "202조첨단산업투자활성화지원체계가동",
+    "미국주식시장,대규모주식발행으로강세장흔들리나",
+    "상장앞둔中CXMT…전문가“삼성·SK와격차크지만HBM잠재적위협...",
+    "검찰,‘반도체부품담합’몬타지테크놀로지등3곳압수수색",
+    "코스피'7천피'탈환…외국인대규모매수·반도체강세",
+    "[주요공시]서진시스템,한화오션,남양유업,신성이엔지,이수페타시스..."
    ],
    "initialized": true,
-   "last_run": "2026-07-15T19:20:53.851936+09:00"
+   "last_run": "2026-07-15T19:25:22.097270+09:00"
   }
  },
  "press_names": {
