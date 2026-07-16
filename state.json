@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-17T01:45:26.316193+09:00",
-     "파생상품 24시간 베팅 주가에 하이닉스 상장 잇달아 ADR"
-    ],
-    [
      "2026-07-17T03:10:35.657219+09:00",
      "삼성전자 최고 반등 변수 주가는 HBM4가 실적은 외국계 급락"
     ],
@@ -310,13 +306,17 @@
     [
      "2026-07-17T07:45:24.863426+09:00",
      "영입 허자웅 제주 출신 대표팀 왕국 골키퍼"
+    ],
+    [
+     "2026-07-17T07:50:33.929280+09:00",
+     "국회 기후에너지환경노동위원장 김정호"
+    ],
+    [
+     "2026-07-17T07:50:33.929280+09:00",
+     "대덕전자 SK하이닉스 두산에너빌리티 삼성전자"
     ]
    ],
    "seen_urls": [
-    "https://www.munhwa.com/article/11603152",
-    "https://www.munhwa.com/article/11603148",
-    "https://www.fntimes.com/html/view.php?ud=2026071611494213707492587736_18",
-    "https://www.sisaon.co.kr/news/articleView.html?idxno=202731",
     "https://weekly.donga.com/3/all/11/6309364/1",
     "https://www.e-science.co.kr/news/articleView.html?idxno=132042",
     "https://www.topstarnews.net/news/articleView.html?idxno=16136494",
@@ -1812,13 +1812,13 @@
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=141684",
     "https://www.g-enews.com/view.php?ud=202607170726203097fbbec65dfb_1",
     "https://www.seoulfn.com/news/articleView.html?idxno=633590",
-    "http://www.footballist.co.kr/news/articleView.html?idxno=212323"
+    "http://www.footballist.co.kr/news/articleView.html?idxno=212323",
+    "https://www.hankyung.com/article/2026071706567",
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/17/2026071790001.html",
+    "https://news.knn.co.kr/news/article/190198",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469218"
    ],
    "seen_titles": [
-    "SK·삼성,4세대SMR속도…원안위에'사전검토'타진",
-    "최태원AI전략성과가시화…SK㈜,반도체·에너지재편에기업가치재...",
-    "F4회의,오늘오후열릴듯…삼전닉스레버리지ETF대책발표",
-    "‘두렵다’…주택대출+주식몰빵한나,금리인상견딜수있을까?",
     "레버리지남발증권사에‘금소법’적용검토…뒤늦게보완책",
     "'배터리R&D왕'삼성SDI,초격차외치는이유있네",
     "LG생활건강,'사랑의희망박스'MOU체결…코웨이,롯데렌탈과서비스...",
@@ -3314,10 +3314,14 @@
     "[오늘의글로벌마켓]뉴욕증시,반도체주중심강한차익매물...3대지수...",
     "667억위안쏜창신메모리,삼성이지킨HBM해자‘우회돌파’노린다",
     "[뉴욕증시]TSMC발AI투자회의론,필리지수4%↓···M7줄하락",
-    "[공식발표]제주,U-23대표팀출신골키퍼허자웅영입...'골키퍼왕국..."
+    "[공식발표]제주,U-23대표팀출신골키퍼허자웅영입...'골키퍼왕국...",
+    "마이크론·현대모비스·퀄컴'부품동맹'맺었다…장기계약체결",
+    "7월17일'뉴스퍼레이드'오프닝",
+    "[인물포커스]김정호국회기후에너지환경노동위원장",
+    "[주간거래소외국인]SK하이닉스대덕전자삼성전자두산에너빌리티대..."
    ],
    "initialized": true,
-   "last_run": "2026-07-17T07:45:24.863426+09:00"
+   "last_run": "2026-07-17T07:50:33.929280+09:00"
   }
  },
  "press_names": {
