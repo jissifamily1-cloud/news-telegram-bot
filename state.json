@@ -318,13 +318,17 @@
     [
      "2026-07-17T07:55:23.122495+09:00",
      "KB금융 삼성전자우 SK이노베이션 대덕전자 삼성SDI"
+    ],
+    [
+     "2026-07-17T08:00:47.438420+09:00",
+     "하이닉스 투자자들이 쓸어내린 주식 삼성전자 가슴 이유 제헌절 아침에"
+    ],
+    [
+     "2026-07-17T08:00:47.438420+09:00",
+     "불어난 상당수 결국 나온 7조 뭉칫돈 개미 순식간에 계좌에서"
     ]
    ],
    "seen_urls": [
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000050277",
-    "https://www.theguru.co.kr/news/article.html?no=104532",
-    "https://www.namdonews.com/news/articleView.html?idxno=917179",
-    "https://www.newstnt.com/news/articleView.html?idxno=710514",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=266821",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275266",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8612516",
@@ -1820,13 +1824,13 @@
     "https://www.munhwa.com/article/11603231",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=61688",
     "https://www.topstarnews.net/news/articleView.html?idxno=16137334",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469219"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469219",
+    "https://www.etoday.co.kr/news/view/2604704",
+    "https://www.tokenpost.kr/news/market/378651",
+    "https://www.wikitree.co.kr/articles/1146947",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607170105&t=NN"
    ],
    "seen_titles": [
-    "이병헌X손예진'어쩔수가없다',OTT공개이어확장판VOD서비스시작…...",
-    "HuangPraisesSKHynixNasdaqListing",
-    "반도체하나가도시미래바꾼다…관건은'지역몫'",
-    "2040년대한민국성장축대전환…전남광주초광역특별시의도전",
     "블룸버그\"中창신메모리상장,삼성전자·SK하이닉스타격받을수있어...",
     "한은금리인상에'검은목요일'…코스피7천선붕괴·사이드카발동",
     "영국앤공주,고려대방문…퓨처모빌리티·반도체교육현장둘러보고...",
@@ -3322,10 +3326,14 @@
     "반도체주또떨어졌다…뉴욕증시하락에SK하이닉스ADR13.69%↓",
     "\"삼전·하닉레버리지에한달새7조\"…예탁금3천만원·20주단위로급...",
     "미국증시,TSMC호실적에도AI반도체매도…국채금리부담에나스닥1....",
-    "[주간거래소기관]대덕전자SK이노베이션삼성전자우삼성SDIKB금융'..."
+    "[주간거래소기관]대덕전자SK이노베이션삼성전자우삼성SDIKB금융'...",
+    "뉴욕증시,호실적에도반도체주약세에하락…나스닥1.5%↓[종합]",
+    "삼성·SK하이닉스레버리지ETF,7조원유입에금융당국규제강화",
+    "삼성전자·하이닉스주식투자자들이제헌절아침에가슴쓸어내린이유",
+    "순식간에불어난7조뭉칫돈결국…상당수'개미'계좌에서나온듯"
    ],
    "initialized": true,
-   "last_run": "2026-07-17T07:55:23.122495+09:00"
+   "last_run": "2026-07-17T08:00:47.438420+09:00"
   }
  },
  "press_names": {
