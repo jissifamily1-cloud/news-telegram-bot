@@ -398,13 +398,13 @@
     [
      "2026-07-17T08:15:26.067551+09:00",
      "외국인 비중 코스피는 하닉은 늘릴때 수급 삼전 엇갈린 줄였다"
+    ],
+    [
+     "2026-07-17T08:20:33.854066+09:00",
+     "이달 오늘까지만 31일까지 무려 사용 가능 반값"
     ]
    ],
    "seen_urls": [
-    "https://www.mediafine.co.kr/news/articleView.html?idxno=83667",
-    "https://www.etnews.com/20260716000176",
-    "https://www.etoday.co.kr/news/view/2604478",
-    "http://www.lawleader.co.kr/news/articleView.html?idxno=19525",
     "https://www.yna.co.kr/view/AKR20260716038700017?input=1195m",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=86828",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=61655",
@@ -1900,13 +1900,13 @@
     "https://news.tvchosun.com/site/data/html_dir/2026/07/17/2026071790017.html",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607170106&t=NN",
     "https://www.news1.kr/it-science/cc-newmedia/6230689",
-    "https://www.ajunews.com/view/20260716143037907"
+    "https://www.ajunews.com/view/20260716143037907",
+    "https://www.ikbc.co.kr/article/view/kbc202607170013",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4425573",
+    "https://www.dt.co.kr/article/12073279",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008662019&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "모두의AI·피지컬AI로‘실용주의’속도…韓독자생태계구축‘온힘...",
-    "코스피전일급반등뒤다시급락...장중6900선하회",
-    "매년반복되는방한들러리…K리그올스타전,앞으로도이럴순없다",
-    "기준금리인상충격-코스피7%대급락,하루만에7,000선반납",
     "과기정통부,글로벌최상위'독자AI모델'승부수…550조AIDC투자뒷받...",
     "\"AI모델2위권도전\"…과기부,독자AI·데이터센터속도",
     "최종현학술원ㆍ해군학술포럼…\"해양안보는경제안보이자국가생존\"",
@@ -3402,10 +3402,14 @@
     "[키워드NOW]50일",
     "개미들,주가급락에도\"사자\"...한달간7조원흡수",
     "\"불편하다는건옛말\"…통신3사,여름휴가철'로밍'대전",
-    "엇갈린외국인수급…코스피는비중늘릴때삼전·하닉은줄였다"
+    "엇갈린외국인수급…코스피는비중늘릴때삼전·하닉은줄였다",
+    "7조원몰린삼전닉스레버리지…\"당국대책약발먹힐까\"",
+    "[뉴욕마켓워치]'늪에빠진반도체'하닉ADR14%급락…주식·채권↓달...",
+    "개미들,단일종목레버리지에7조몰려…규제에도막기힘들다?",
+    "오늘까지만\"무려반값\"…이달31일까지사용가능"
    ],
    "initialized": true,
-   "last_run": "2026-07-17T08:15:26.067551+09:00"
+   "last_run": "2026-07-17T08:20:33.854066+09:00"
   }
  },
  "press_names": {
