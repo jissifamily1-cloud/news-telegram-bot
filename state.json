@@ -286,17 +286,25 @@
     [
      "2026-07-17T07:35:08.094583+09:00",
      "개혁이 버틴다 상폐 코스닥 주식병합으론 바꾼"
+    ],
+    [
+     "2026-07-17T07:40:32.562527+09:00",
+     "기억 3연승 대전 후반기 황선홍의 없는 물러설 되살려야 울산전"
+    ],
+    [
+     "2026-07-17T07:40:32.562527+09:00",
+     "프레임 유시민 고립된 7월17일 갈라치기 조선일보의 슬로우레터"
+    ],
+    [
+     "2026-07-17T07:40:32.562527+09:00",
+     "가자 주가 쓸어 폭락에도 개미들 7조 레버리지 담았다"
+    ],
+    [
+     "2026-07-17T07:40:32.562527+09:00",
+     "노후자금 도박판 코스피가 날렸다"
     ]
    ],
    "seen_urls": [
-    "https://magazine.hankyung.com/business/article/202607169185b",
-    "https://www.munhwa.com/article/11603120",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=92359",
-    "https://www.munhwa.com/article/11603118",
-    "https://www.chosun.com/international/international_general/2026/07/16/GOB24ULMERD5RLYMLBT7S5BAVU/",
-    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2234968",
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5206324",
-    "https://www.hankookilbo.com/news/article/A2026071608570000900?did=NA",
     "https://news.tf.co.kr/read/national/2344106.htm",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607160222&t=NN",
     "https://view.asiae.co.kr/article/2026071522195308880",
@@ -1788,17 +1796,17 @@
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260717.99099005206",
     "https://www.interfootball.co.kr/news/articleView.html?idxno=690697",
     "https://www.segye.com/newsView/20260717504003?OutUrl=naver",
-    "https://economist.co.kr/article/view/ecn202607130055"
+    "https://economist.co.kr/article/view/ecn202607130055",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=280036",
+    "http://www.breaknews.com/1222458",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=61687",
+    "https://www.tokenpost.kr/news/economy/378649",
+    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=94904",
+    "https://slownews.kr/163376",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000050568",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8613330"
    ],
    "seen_titles": [
-    "[뉴스워커_대우건설]울산북항LNG터미널3단계준공…에너지인프라...",
-    "“슈퍼챗정치,신종관치냐”‘이대통령입’노리는국힘",
-    "\"휴가철에도통신품질이상無\"SKT,특별소통상황실운영",
-    "\"SK하이닉스광주오나?\"최태원인스타에포착된'결정적단서'",
-    "기준금리3%·주담대8%넘어서나…빚투·영끌족‘비명’",
-    "'널뛰기'장세에코스피떠나는개미…정부는레버리지'손질'",
-    "무료‘국산AI비서’올출격…챗GPT·제미나이에도전",
-    "젠슨황“도요타와피지컬AI협력...‘일본AI’의시작”",
     "TV구독하면이승철콘서트도…SK브로드밴드,현장혜택확대",
     "'꼬치회동'젠슨황,SK하닉에'엄지척'왜?/\"술자리옆에이성앉히지...",
     "\"SK하이닉스,정말광주오나봐\"…최태원'광주맛집'팔로우에'들썩'",
@@ -3290,10 +3298,18 @@
     "‘삼전닉스’레버리지한달간7조흡수했다…대책은글쎄",
     "[오피셜]안찬기입대대비골키퍼영입...제주,U-23대표팀골키퍼허...",
     "“성과급절반주식으로준다고?”…SK하이닉스자사주지급안에노조...",
-    "주식병합으론못버틴다…상폐개혁이바꾼코스닥"
+    "주식병합으론못버틴다…상폐개혁이바꾼코스닥",
+    "뉴욕증시,반도체주매도확산에하락...나스닥1.5%↓",
+    "국내최대'신안우이해상풍력'첫삽…3조4천억규모메가프로젝트...",
+    "AI반도체주에쏠린'20%비중'되돌리기…나스닥1.5%급락",
+    "하반기기업신용등급,업종별양극화심화전망",
+    "울산전3연승기억되살려야...물러설곳없는황선홍의대전,후반기터...",
+    "고립된유시민,조선일보의갈라치기프레임:슬로우레터7월17일.",
+    "주가폭락에도\"레버리지가자\"…개미들한달새7조원쓸어담았다",
+    "[잇슈머니]“노후자금다날렸다…코스피가도박판”"
    ],
    "initialized": true,
-   "last_run": "2026-07-17T07:35:08.094583+09:00"
+   "last_run": "2026-07-17T07:40:32.562527+09:00"
   }
  },
  "press_names": {
