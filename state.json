@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-16T23:25:25.224267+09:00",
-     "실수요자 수원 삼성 몰려든 영통구 지나갔다 6대가 셔틀"
-    ],
-    [
-     "2026-07-16T23:25:25.224267+09:00",
-     "연합군 모델만으론 본격화 이제 국가대표 경쟁 뽑는다"
-    ],
-    [
      "2026-07-16T23:35:27.775715+09:00",
      "확대 재이용 경기도 공정수 삼성전자 SK하이닉스에 행정권고"
     ],
@@ -178,10 +170,13 @@
     [
      "2026-07-17T05:05:23.107706+09:00",
      "따끔한 한국이 버핏의 도박꾼 증시 워런 이유 경고 키우고 있다"
+    ],
+    [
+     "2026-07-17T05:30:39.509325+09:00",
+     "투자 반도체주 회의론에 급락 와르르 나스닥"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10810957",
     "https://www.newsmap.co.kr/news/articleView.html?idxno=1469",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684635",
     "https://www.job-post.co.kr/news/articleView.html?idxno=221350",
@@ -1680,10 +1675,10 @@
     "https://www.seoul.co.kr/news/editOpinion/opinion/contribution/2026/07/17/20260717025003?wlog_tag3=naver",
     "http://www.fnnews.com/news/202607161357542613",
     "https://news.mtn.co.kr/news-detail/2026071705144159527",
-    "https://www.newspim.com/news/view/20260717000005"
+    "https://www.newspim.com/news/view/20260717000005",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01784326645515504"
    ],
    "seen_titles": [
-    "이억원\"단일종목레버리지ETF보완방안조만간내놓을것\"",
     "BOKraiseskeyrateto2.75%amidinflationpressure",
     "삼성전자용인팹2029년가동추진…직주근접'용인고림동문디이스...",
     "국민성장펀드1호투자‘신안우이해상풍력’착공",
@@ -3182,10 +3177,11 @@
     "[기고]반도체강국,이제는연구강국돼야",
     "\"증시,도박꾼키우고있다\"...워런버핏의경고,한국이더따끔한이유",
     "SK하이닉스ADR또13%폭락…반도체·알파벳급락에나스닥1.5%↓[뉴욕...",
-    "뉴욕증시,반도체급락·알파벳약세에하락…나스닥1.47%↓"
+    "뉴욕증시,반도체급락·알파벳약세에하락…나스닥1.47%↓",
+    "[속보]AI투자회의론에반도체주'와르르'…나스닥1.5%급락"
    ],
    "initialized": true,
-   "last_run": "2026-07-17T05:25:24.280147+09:00"
+   "last_run": "2026-07-17T05:30:39.509325+09:00"
   }
  },
  "press_names": {
