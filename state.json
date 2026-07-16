@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-16T18:55:23.681276+09:00",
-     "띄우고 뉴스더보기 전격 열어보니 발표 대책 뚜껑 오후 오전 ETF"
-    ],
-    [
      "2026-07-16T19:01:12.652558+09:00",
      "리밸런싱 신호탄 넘었다 국민연금 비중 훌쩍 국내주식 목표선"
     ],
@@ -310,10 +306,13 @@
     [
      "2026-07-17T00:55:21.592598+09:00",
      "밑그림 완성 2029년 호남 1단계 구축 산단 전력공급 반도체"
+    ],
+    [
+     "2026-07-17T01:01:02.895126+09:00",
+     "이틀째 이란 우려에 급락 ADR 갈등 SK하이닉스"
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202607160945203832",
     "https://www.bizwork.co.kr/news/articleView.html?idxno=417350",
     "https://www.newsis.com/view/NISX20260716_0003711811",
     "https://www.ajunews.com/view/20260716110014602",
@@ -1812,10 +1811,10 @@
     "https://www.chosun.com/politics/election2026/2026/07/17/B5ZGWFRABNGB5PJFDEPLPWQRKE/",
     "https://www.chosun.com/national/regional/2026/07/17/UTBD2B7IXVD3LPIS3GUVUOVXWA/",
     "https://www.chosun.com/economy/stock-finance/2026/07/17/XAEBAVPKLBHGTLLGRGY7H4L7L4/",
-    "https://www.energy-news.co.kr/news/articleView.html?idxno=226876"
+    "https://www.energy-news.co.kr/news/articleView.html?idxno=226876",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4425551"
    ],
    "seen_titles": [
-    "SK브로드밴드,구독서비스차별화강화···'Btv+max'오프라인혜택...",
     "대우건설,‘울산북항LNG터미널3단계’45개월만에준공",
     "美서SK하이닉스'2배베팅'열풍…레버리지ETF줄줄이나온다",
     "\"폭락장에도외국인은샀다\"삼성전기,목표가175만원…SK텔레콤,실적...",
@@ -3314,10 +3313,11 @@
     "“지난임기때반도체계획틀마련…이젠빠르게완성시키는게중요...",
     "“소양강변에AI데이터센터유치…풍부한물,수도권접근성갖춰”",
     "삼전닉스레버리지,현금3000만원있어야산다",
-    "호남반도체산단전력공급'밑그림'완성...2029년1단계구축"
+    "호남반도체산단전력공급'밑그림'완성...2029년1단계구축",
+    "SK하이닉스ADR이틀째급락…美·이란갈등속AI우려에8%↓"
    ],
    "initialized": true,
-   "last_run": "2026-07-17T00:55:21.592598+09:00"
+   "last_run": "2026-07-17T01:01:02.895126+09:00"
   }
  },
  "press_names": {
