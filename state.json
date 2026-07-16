@@ -1254,19 +1254,17 @@
     [
      "2026-07-16T10:25:24.037944+09:00",
      "상장 340종목 ELW 신규 한국투자증권"
+    ],
+    [
+     "2026-07-16T10:30:54.836506+09:00",
+     "메모리 매출 ASML 나왔다 스톰 퍼펙트 장비 삼전닉스서"
+    ],
+    [
+     "2026-07-16T10:30:54.836506+09:00",
+     "투자자 이르면 미팅 IPO 앤트로픽 상장 앞두고 10월"
     ]
    ],
    "seen_urls": [
-    "https://news.bizwatch.co.kr/article/market/2026/07/15/0027",
-    "https://www.yna.co.kr/view/AKR20260715154100063?input=1195m",
-    "https://news.jtbc.co.kr/article/NB12308427?influxDiv=NAVER",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1386385",
-    "https://www.hankookilbo.com/news/article/A2026071510120005688?did=NA",
-    "https://www.news1.kr/local/ulsan/6229377",
-    "https://biz.sbs.co.kr/article_hub/20000322752?division=NAVER",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20260715010005727",
-    "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90268",
-    "https://www.newsis.com/view/NISX20260715_0003710886",
     "https://www.asiatime.co.kr/article/20260715500375",
     "https://www.businesspost.co.kr/BP?command=article_view&num=442430",
     "https://www.xportsnews.com/article/2172443",
@@ -2756,19 +2754,19 @@
     "http://www.weeklytoday.com/news/articleView.html?idxno=785603",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=244259",
     "https://news.dealsitetv.com/articles/173360",
-    "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290920471260"
+    "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290920471260",
+    "https://www.koreaittimes.com/news/articleView.html?idxno=155274",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16136406",
+    "https://www.munhwa.com/article/11603061",
+    "https://www.kukinews.com/article/view/kuk202607160031",
+    "http://www.finomy.com/news/articleView.html?idxno=257464",
+    "https://www.m-economynews.com/news/article.html?no=68802",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16136401",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=168298",
+    "https://biz.heraldcorp.com/article/10810761",
+    "https://www.mt.co.kr/world/2026/07/16/2026071609364812683"
    ],
    "seen_titles": [
-    "코스피,외인매수전환에3거래일만에'7000피'회복",
-    "SK에코플랜트,AI·반도체유망기술6건선정…실증·사업화연계추진",
-    "ASML,2분기호실적+연간전망상향에주가6%급등",
-    "외국인매수살아난코스피,7200선회복...하이닉스8.8%급등",
-    "충남도,삼성·SK투자뒷받침…인허가부터전력·용수지원",
-    "이대통령\"삼전닉스ETF에많이당하신모양인데\"…보완책마련지시",
-    "코스피,외국인유입·반도체전망개선에7280대마감...'7000피'탈환",
-    "코스피7000피탈환,진짜반등시작?…증권가\"아직이르다\"",
-    "SK이노울산CLX,AI접목안전관리워크숍개최",
-    "美긴축우려완화·하닉급등에…환율,두달만에1480원대중반",
     "해외선‘하이닉스토큰’24시간거래…갈길먼국내토큰시장",
     "[금융브리핑]이지스자산운용·미래에셋자산운용·신한자산운용·디에...",
     "\"비전이현실로\"최태원'AI뚝심'통했다…SK㈜,리밸런싱딛고'턴어라...",
@@ -4258,10 +4256,20 @@
     "[건설업계동향]SK에코플랜트ㆍ부영그룹ㆍ태영건설(7.16)",
     "이재명대통령\"삼전닉스레버리지신속한대책해라\"",
     "딜사이트경제TV,Btv채널159번으로변경",
-    "한국투자증권,ELW340종목신규상장"
+    "한국투자증권,ELW340종목신규상장",
+    "이랜드월드,패션업계첫관세청AEO'AAA'획득",
+    "SK텔레콤주가,7월16일장중90,500원6.47%상승",
+    "[속보]기준금리0.25%p인상…3년6개월만긴축속코스피7000선붕괴",
+    "7000선다시무너진코스피…매도사이드카또발동",
+    "코스피,반도체주급락에6%대하락···7000선붕괴",
+    "주택금융토론회...규제완화놓고찬반팽팽",
+    "SK이노베이션주가,7월16일장중121,100원3.50%상승",
+    "BOK기준금리'인상'속...장중코스피'출렁',원화도'절하'",
+    "“메모리퍼펙트스톰”…ASML,삼전닉스서장비매출43%나왔다",
+    "앤트로픽,IPO앞두고투자자미팅추진…이르면10월상장"
    ],
    "initialized": true,
-   "last_run": "2026-07-16T10:25:24.037944+09:00"
+   "last_run": "2026-07-16T10:30:54.836506+09:00"
   }
  },
  "press_names": {
