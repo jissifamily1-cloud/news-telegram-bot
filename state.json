@@ -333,8 +333,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607151155360120103992",
-    "https://www.kukinews.com/article/view/kuk202607160053",
     "http://www.nongaek.com/news/articleView.html?idxno=96121",
     "https://cn.asiatoday.co.kr/view.php?key=20260716001015302",
     "https://www.ziksir.com/news/articleView.html?idxno=140178",
@@ -1832,11 +1830,11 @@
     "https://www.newsis.com/view/NISX20260716_0003711765",
     "https://www.joongang.co.kr/article/25445812",
     "https://www.joongang.co.kr/article/25445818",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1784191764&code=11151200&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=1784191764&code=11151200&cp=nv",
+    "https://www.joongang.co.kr/article/25445828",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008661974&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "전기차플러스DR이만드는새로운'슬기로운에너지소비문화'호응",
-    "'AI로사회문제해결가능할까?'...SK이노베이션,'AI임팩트솔루션'시...",
     "[민주유통가]코웨이·세라젬·SK인텔릭스",
     "[더벨][다시뛰는썸에이지]오너·대표참여로힘실린유상증자",
     "배민B마트,수입신선란판매시작外한화갤러리아벤슨‧SK인텔릭스...",
@@ -3334,10 +3332,12 @@
     "\"반도체랠리끝?…AI는이제시작,다음주도주는'조방원'\"",
     "[박수련의시시각각]‘오겜증시’의무책임한프런트맨",
     "[사설]증시흔드는레버리지ETF,미봉책으론불안해소못한다",
-    "‘반도체피크아웃’공포에…삼전닉스추락·코스피는다시7000선붕..."
+    "‘반도체피크아웃’공포에…삼전닉스추락·코스피는다시7000선붕...",
+    "현금3000만원없으면레버리지ETF투자못한다",
+    "레버리지예탁금3배↑…'매매단위'20주로"
    ],
    "initialized": true,
-   "last_run": "2026-07-17T00:25:26.282029+09:00"
+   "last_run": "2026-07-17T00:30:42.895503+09:00"
   }
  },
  "press_names": {
