@@ -1282,18 +1282,21 @@
     [
      "2026-07-16T17:25:25.359098+09:00",
      "확대 포스코그룹 협력사까지 공정위와 지원 상생협약 3차"
+    ],
+    [
+     "2026-07-16T17:29:19.214436+09:00",
+     "효성중공업 시장 송전망 콴타 찍었다 북미 전력망"
+    ],
+    [
+     "2026-07-16T17:29:19.214436+09:00",
+     "한미반도체 LG이노텍 사고 팔았다"
+    ],
+    [
+     "2026-07-16T17:29:19.214436+09:00",
+     "기후부 마련 잠정안 전력 공급 송전망서 신광주 신장성"
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468940",
-    "https://www.ajunews.com/view/20260716091800318",
-    "https://www.mt.co.kr/stock/2026/07/16/2026071609190257680",
-    "https://en.yna.co.kr/view/AEN20260716001251320?input=2106m",
-    "https://biz.heraldcorp.com/article/10810596",
-    "https://www.mydaily.co.kr/page/view/2026071609103198304",
-    "https://www.cstimes.com/news/articleView.html?idxno=713683",
-    "http://www.beyondpost.co.kr/view.php?ud=202607160936085575be44c0aacd_30",
-    "https://www.g-enews.com/view.php?ud=202607160925548424923c501012_1",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607160932019180398",
     "https://www.g-enews.com/view.php?ud=2026071609243481244093b5d4e_1",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=847361",
@@ -2784,18 +2787,18 @@
     "https://www.aitimes.com/news/articleView.html?idxno=212857",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=759504",
     "https://thetracker.co.kr/View.aspx?No=4151995",
-    "http://www.popcornnews.net/news/articleView.html?idxno=126905"
+    "http://www.popcornnews.net/news/articleView.html?idxno=126905",
+    "https://ilyo.co.kr/?ac=article_view&entry_id=511902",
+    "https://economist.co.kr/article/view/ecn202607160049",
+    "https://www.nspna.com/news/?newsid=820980",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=356076",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092165991",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=737272",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=269993",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1716738",
+    "https://www.nocutnews.co.kr/news/6549393"
    ],
    "seen_titles": [
-    "[1%초고수의개장선택]'제주반도체'사고'심텍'줄였다",
-    "[뉴욕마켓브리핑](16일)",
-    "\"원화가달라졌어요\"…7월절상률주요통화중최고",
-    "에너지주매수세확산왜?…SK이노베이션·GS신바람",
-    "신안우이해상풍력착공…국내자본3.4조투입390MW단지조성",
-    "코스피,6900선으로'뚝'…증권주도우수수",
-    "(LEAD)SeoulsharesopensharplylowerontechlossesamidMiddleEastt",
-    "‘한국형스페이스X’시동에경남주거시장주목…신규분양활기",
-    "최태원‘AI풀스택’승부통했다…SK㈜,지주사할인깨고밸류업가...",
     "한국딥러닝,상반기문서AI매출3.4배증가",
     "코스피,5%대급락에‘매도사이드카’발동…하루만에7000선붕괴",
     "코스피,하루만에7000피반납…5%하락에‘매도사이드카’",
@@ -4286,10 +4289,19 @@
     "AWS,바이브코딩한계넘는다…'AI-DLC'로개발전과정혁신",
     "단일종목레버리지ETF예탁금3000만원으로상향...마케팅도금지",
     "\"삼전닉스레버리지제동\"…금융당국,신규상장중단·예탁금3000만원으...",
-    "포스코그룹,공정위와상생협약…2·3차협력사까지지원확대"
+    "포스코그룹,공정위와상생협약…2·3차협력사까지지원확대",
+    "급등락에투자자멀미…SK하이닉스본주·ADR‘상호전환’이변동성...",
+    "쿠팡\"美로비합법적권리...韓대기업등1만5000개기관활동\"",
+    "정부,삼성전자·SK하이닉스단일종목레버리지ETF신규상장즉각중단",
+    "李대통령\"보완책마련\"주문에…레버리지ETF규제전면손질",
+    "AWS\"AI개발,코딩넘어기획부터배포까지…'AI-DLC'가생산성좌우\"",
+    "'삼전·닉스'투매에코스피6.37%급락...한은금리인상·정부레버리...",
+    "\"美전력망큰손'콴타'가콕찍었다…효성중공업,북미송전망시장싹...",
+    "[1%초고수의선택]'한미반도체'사고'LG이노텍'팔았다",
+    "기후부\"신장성·신광주송전망서전력공급\"…잠정안마련"
    ],
    "initialized": true,
-   "last_run": "2026-07-16T17:25:25.359098+09:00"
+   "last_run": "2026-07-16T17:29:19.214436+09:00"
   }
  },
  "press_names": {
