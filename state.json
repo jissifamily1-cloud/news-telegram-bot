@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-17T00:15:29.132913+09:00",
-     "변전 맥스 시스코 디지털 SKB tv 확대 효성중공업"
-    ],
-    [
-     "2026-07-17T00:15:29.132913+09:00",
-     "레버리지 누가 책임지 달도 사후약방문 혼란"
-    ],
-    [
-     "2026-07-17T00:15:29.132913+09:00",
-     "주도주는 다음 시작 AI는 랠리 반도체 조방원 이제"
-    ],
-    [
-     "2026-07-17T00:19:14.644973+09:00",
-     "프런트맨 무책임한 오겜 증시"
-    ],
-    [
      "2026-07-17T00:25:26.282029+09:00",
      "코스피는 다시 삼전닉스 피크아웃 추락 7000선 공포에 반도체"
     ],
@@ -218,14 +202,21 @@
     [
      "2026-07-17T06:10:39.520569+09:00",
      "반도체 급락에 SOX지수 나스닥"
+    ],
+    [
+     "2026-07-17T06:20:36.079343+09:00",
+     "수용 TSMC는 칩플레이션에 장비값도 오른다 중국은 수천억 반발"
+    ],
+    [
+     "2026-07-17T06:20:36.079343+09:00",
+     "거래일 에이피알 주요공시는 2년 16일 연속 코스피 코스닥 중간"
+    ],
+    [
+     "2026-07-17T06:20:36.079343+09:00",
+     "전에 휴가 11곳서 6468가 전국 쏟아내자 넷째 7월"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260716000583",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=273154",
-    "https://www.ytn.co.kr/_ln/0102_202607161131192209",
-    "https://www.newsis.com/view/NISX20260716_0003711977",
-    "https://en.yna.co.kr/view/AEN20260716005000320?input=2106m",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008660674&plink=ORI&cooper=NAVER",
     "http://www.fnnews.com/news/202607161049510609",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=168303",
@@ -1720,14 +1711,14 @@
     "http://www.beyondpost.co.kr/view.php?ud=2026071706005131202aaae0046f_30",
     "https://www.fntimes.com/html/view.php?ud=202607161649061399c1c16452b0_18",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4425566",
-    "https://www.mk.co.kr/article/12100839"
+    "https://www.mk.co.kr/article/12100839",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607170091&t=NN",
+    "https://www.seoul.co.kr/news/economy/2026/07/17/20260717500008?wlog_tag3=naver",
+    "https://www.sedaily.com/article/20068565",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469189",
+    "https://www.econovill.com/news/articleView.html?idxno=745449"
    ],
    "seen_titles": [
-    "'카지노증시'만든아마추어금융정책,'결제주기단축'마저선무당사...",
-    "코스피,외인-기관쌍끌이매도에급락...매도사이드카발동[fn오전시황...",
-    "‘어쩔수가없다’확장판,극장서못본19분추가됐다..오늘서비스시...",
-    "전력거래소\"봄·가을주말낮전기차충전하면요금15%아낀다\"",
-    "SK에코플랜트,1857세대'의왕역SK뷰'분양돌입",
     "기준금리2.75%로인상...코스피6천·코스닥7백선",
     "SK텔레콤,AIDC사업강화에4%↑…증권가도목표가상향",
     "SeoulsharesextendlosseslateThu.morningontechlosses",
@@ -3222,10 +3213,15 @@
     "단일종목레버리지ETF예탁금,3천만원상향조정...8월5일부터시행예...",
     "자기지능을가진나라와못가진나라,'초격차'가시작되다[전명산의...",
     "[뉴욕증시]반도체에호재가없네…필리4.3%급락",
-    "반도체SOX지수4%대급락에나스닥1.47%↓[월가월부]"
+    "반도체SOX지수4%대급락에나스닥1.47%↓[월가월부]",
+    "[속보]SK하이닉스,9%밀린다음날14%'급락'…美반도체와르르",
+    "[서울데이터랩]미증시,기술주약세에혼조마감…나스닥1%대하락",
+    "칩플레이션에수천억장비값도오른다...중국은수용,TSMC는반발",
+    "코스피·코스닥전거래일(16일)주요공시는?...에이피알,2년연속중간...",
+    "[분양캘린더]\"휴가전에쏟아내자\"...7월넷째주,전국11곳서6468가..."
    ],
    "initialized": true,
-   "last_run": "2026-07-17T06:15:27.783698+09:00"
+   "last_run": "2026-07-17T06:20:36.079343+09:00"
   }
  },
  "press_names": {
