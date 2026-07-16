@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-17T00:40:34.867019+09:00",
-     "인사 사라졌다 주식"
-    ],
-    [
-     "2026-07-17T00:40:34.867019+09:00",
-     "나는 멀미 잡히나 널뛰기에 변동성 코스피"
-    ],
-    [
      "2026-07-17T00:45:30.619320+09:00",
      "레버리지는 하락 하닉 음의 복리 투자자 빠졌다 울리는"
     ],
@@ -226,12 +218,17 @@
     [
      "2026-07-17T06:35:47.995660+09:00",
      "시즌 여름휴가 맞아 통신품질 SK텔레콤 점검한다"
+    ],
+    [
+     "2026-07-17T06:45:25.517571+09:00",
+     "미국증시 AI불확실성 알파벳A 하락 TSMC 확대"
+    ],
+    [
+     "2026-07-17T06:45:25.517571+09:00",
+     "의약품 말부터 기업 영향은 트럼프 관세 이달"
     ]
    ],
    "seen_urls": [
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=312156",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=442503",
-    "https://news.unn.net/news/articleView.html?idxno=594875",
     "https://www.newsis.com/view/NISX20260716_0003711933",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=168302",
     "https://www.kukinews.com/article/view/kuk202607160068",
@@ -1728,12 +1725,12 @@
     "https://www.sedaily.com/article/20068773",
     "http://www.bizwnews.com/news/articleView.html?idxno=140871",
     "https://www.dt.co.kr/article/12073274",
-    "https://www.ytn.co.kr/_ln/0104_202607170633191677"
+    "https://www.ytn.co.kr/_ln/0104_202607170633191677",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=5125",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=168334",
+    "https://www.news1.kr/bio/pharmaceutical-bio/6230998"
    ],
    "seen_titles": [
-    "SK이노베이션,AI로에너지·사회문제푼다…청년창업팀10곳육성",
-    "[위클리오늘]여주시-SK하이닉스,노인‧청년복지지원사업업무협약체결",
-    "서울·과천·부산등일부고가아파트신고가거래",
     "SKB'Btv+max'구독혜택오프라인으로확장…이승철콘서트초대",
     "ASML실적발표가메모리반도체호황장기화전망재확인,AI열풍'낙관...",
     "영국앤공주,고려대공식방문…첨단연구현장둘러보고한·영교육...",
@@ -3230,10 +3227,13 @@
     "“급등엔인버스,급락엔레버리지”똑똑한개미,역발상베팅했다[코...",
     "SK텔레콤,여름휴가시즌맞아'AI'로'통신품질'점검한다",
     "‘미장’이나‘국장’이나…뉴욕증시,반도체주매도세에약세…AI고...",
-    "뉴욕증시,AI매도에하락...SK하이닉스ADR14%↓"
+    "뉴욕증시,AI매도에하락...SK하이닉스ADR14%↓",
+    "[뉴욕증시마감]AI반도체랠리'숨고르기'…나스닥1.47%급락,거품...",
+    "TSMC&알파벳A발'AI불확실성'확대...미국증시'하락'",
+    "트럼프'의약품15%관세'이달말부터…韓기업영향은?"
    ],
    "initialized": true,
-   "last_run": "2026-07-17T06:40:34.734532+09:00"
+   "last_run": "2026-07-17T06:45:25.517571+09:00"
   }
  },
  "press_names": {
