@@ -278,12 +278,17 @@
     [
      "2026-07-17T07:25:24.743277+09:00",
      "시험대 TSMC 최강자 파운드리"
+    ],
+    [
+     "2026-07-17T07:35:08.094583+09:00",
+     "성과급 자사주 노조 준다고 절반 지급안에 SK하이닉스 주식으로"
+    ],
+    [
+     "2026-07-17T07:35:08.094583+09:00",
+     "개혁이 버틴다 상폐 코스닥 주식병합으론 바꾼"
     ]
    ],
    "seen_urls": [
-    "http://www.newsworker.co.kr/news/articleView.html?idxno=436843",
-    "https://www.joongang.co.kr/article/25445590",
-    "http://www.fnnews.com/news/202607161153377759",
     "https://magazine.hankyung.com/business/article/202607169185b",
     "https://www.munhwa.com/article/11603120",
     "http://www.newsian.co.kr/news/articleView.html?idxno=92359",
@@ -1780,12 +1785,12 @@
     "https://www.ytn.co.kr/_ln/0104_202607170721135477",
     "https://www.getnews.co.kr/news/articleView.html?idxno=875379",
     "https://www.bntnews.co.kr/article/view/bnt202607170027",
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260717.99099005206"
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260717.99099005206",
+    "https://www.interfootball.co.kr/news/articleView.html?idxno=690697",
+    "https://www.segye.com/newsView/20260717504003?OutUrl=naver",
+    "https://economist.co.kr/article/view/ecn202607130055"
    ],
    "seen_titles": [
-    "이억원\"단일종목레버리지ETF보완대책조만간발표\"",
-    "SK에코플랜트,'의왕역SK뷰'분양…820가구일반공급",
-    "\"하루에주인24번바뀌어\"…'삼전닉스레버리지'빨간불",
     "[뉴스워커_대우건설]울산북항LNG터미널3단계준공…에너지인프라...",
     "“슈퍼챗정치,신종관치냐”‘이대통령입’노리는국힘",
     "\"휴가철에도통신품질이상無\"SKT,특별소통상황실운영",
@@ -3282,10 +3287,13 @@
     "마이크론,현대모비스·퀄컴과차량용메모리공급장기계약...삼성전자...",
     "뉴욕증시,AI반도체주매도세에하락마감...나스닥1.5%↓",
     "파운드리최강자TSMC시험대",
-    "‘삼전닉스’레버리지한달간7조흡수했다…대책은글쎄"
+    "‘삼전닉스’레버리지한달간7조흡수했다…대책은글쎄",
+    "[오피셜]안찬기입대대비골키퍼영입...제주,U-23대표팀골키퍼허...",
+    "“성과급절반주식으로준다고?”…SK하이닉스자사주지급안에노조...",
+    "주식병합으론못버틴다…상폐개혁이바꾼코스닥"
    ],
    "initialized": true,
-   "last_run": "2026-07-17T07:30:40.312999+09:00"
+   "last_run": "2026-07-17T07:35:08.094583+09:00"
   }
  },
  "press_names": {
