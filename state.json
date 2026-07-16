@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-16T19:10:51.433908+09:00",
-     "다음은 몰렸다 데이터 기업에 3000억 길목 인프라 GPU"
-    ],
-    [
-     "2026-07-16T19:10:51.433908+09:00",
-     "20좌 묶음판매시 4조원으로 예탁금상향 단일종목레버리지 시총"
-    ],
-    [
-     "2026-07-16T19:10:51.433908+09:00",
-     "건축물로 남을 영원히 집무실 세종"
-    ],
-    [
      "2026-07-16T19:20:55.682837+09:00",
      "용수 먼저 800조 입지보다 전력 반도체 사람 따질"
     ],
@@ -302,10 +290,13 @@
     [
      "2026-07-17T01:01:02.895126+09:00",
      "이틀째 이란 우려에 급락 ADR 갈등 SK하이닉스"
+    ],
+    [
+     "2026-07-17T01:15:31.372445+09:00",
+     "샌디스크 증시 확대 낙폭 메모리주"
     ]
    ],
    "seen_urls": [
-    "https://www.bizwork.co.kr/news/articleView.html?idxno=417350",
     "https://www.newsis.com/view/NISX20260716_0003711811",
     "https://www.ajunews.com/view/20260716110014602",
     "https://www.imaeil.com/page/view/2026071608421422721",
@@ -1804,10 +1795,10 @@
     "https://www.chosun.com/national/regional/2026/07/17/UTBD2B7IXVD3LPIS3GUVUOVXWA/",
     "https://www.chosun.com/economy/stock-finance/2026/07/17/XAEBAVPKLBHGTLLGRGY7H4L7L4/",
     "https://www.energy-news.co.kr/news/articleView.html?idxno=226876",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4425551"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4425551",
+    "https://www.tokenpost.kr/news/breaking/378573"
    ],
    "seen_titles": [
-    "대우건설,‘울산북항LNG터미널3단계’45개월만에준공",
     "美서SK하이닉스'2배베팅'열풍…레버리지ETF줄줄이나온다",
     "\"폭락장에도외국인은샀다\"삼성전기,목표가175만원…SK텔레콤,실적...",
     "하이엔드아파트신고가잇따라…신규고급단지공급이어져",
@@ -3306,10 +3297,11 @@
     "“소양강변에AI데이터센터유치…풍부한물,수도권접근성갖춰”",
     "삼전닉스레버리지,현금3000만원있어야산다",
     "호남반도체산단전력공급'밑그림'완성...2029년1단계구축",
-    "SK하이닉스ADR이틀째급락…美·이란갈등속AI우려에8%↓"
+    "SK하이닉스ADR이틀째급락…美·이란갈등속AI우려에8%↓",
+    "미증시메모리주낙폭확대…샌디스크10.07%↓"
    ],
    "initialized": true,
-   "last_run": "2026-07-17T01:10:35.583154+09:00"
+   "last_run": "2026-07-17T01:15:31.372445+09:00"
   }
  },
  "press_names": {
