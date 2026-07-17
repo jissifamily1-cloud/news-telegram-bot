@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-17T11:50:32.232140+09:00",
-     "보완 꼽힌 요인 변동성 강화로 레버리지 투자요건 단일종목"
-    ],
-    [
-     "2026-07-17T11:50:32.232140+09:00",
-     "속도전으로 미래 용인특례시장 확보 이상일 반도체 대한민국 먹거리"
-    ],
-    [
      "2026-07-17T11:55:21.131920+09:00",
      "정진기언론문화상 장항준 제44회 대표 수상 발표 감독 김철진"
     ],
@@ -302,16 +294,25 @@
     [
      "2026-07-17T17:40:32.949293+09:00",
      "키옥시아 쇼크 켜진 월요일 닉스에 경고등 삼전 반토막"
+    ],
+    [
+     "2026-07-17T17:50:35.886231+09:00",
+     "휴일에도 가동한 24시간 외환시장"
+    ],
+    [
+     "2026-07-17T17:50:35.886231+09:00",
+     "버티던 고민 슈퍼리치도 국장 흔들린다 매도"
+    ],
+    [
+     "2026-07-17T17:50:35.886231+09:00",
+     "80조 ETF 증발 시총 국내 한달새"
+    ],
+    [
+     "2026-07-17T17:50:35.886231+09:00",
+     "성장전략은 지능수출 최태원"
     ]
    ],
    "seen_urls": [
-    "http://www.newscape.co.kr/news/articleView.html?idxno=123379",
-    "https://www.donga.com/news/Economy/article/all/20260716/134312054/1",
-    "https://www.ddaily.co.kr/page/view/2026071615055339414",
-    "https://biz.sbs.co.kr/article_hub/20000322971?division=NAVER",
-    "https://www.econovill.com/news/articleView.html?idxno=745429",
-    "https://www.greened.kr/news/articleView.html?idxno=345249",
-    "http://www.ktnews.com/news/articleView.html?idxno=147237",
     "https://www.cwn.kr/news/articleView.html?idxno=50628",
     "https://www.kmib.co.kr/article/view.asp?arcid=0030120264&code=61111111&cp=nv",
     "http://www.econonews.co.kr/news/articleView.html?idxno=441326",
@@ -1804,16 +1805,16 @@
     "https://www.sportsworldi.com/newsView/20260717510890",
     "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=94925",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/17/2026071700042.html",
-    "https://www.hankyung.com/article/2026071711931"
+    "https://www.hankyung.com/article/2026071711931",
+    "https://www.hankyung.com/article/2026071712541",
+    "https://www.kukinews.com/article/view/kuk202607170039",
+    "https://www.mk.co.kr/article/12101092",
+    "https://www.hankyung.com/article/2026071712471",
+    "https://www.mk.co.kr/article/12101090",
+    "https://www.mk.co.kr/article/12101091",
+    "https://www.mk.co.kr/article/12101096"
    ],
    "seen_titles": [
-    "서울환시\"예상했던금리인상…시선은금통위보다수급\"",
-    "중부발전,'신안우이해상품력'착공…2029년1월상업운전",
-    "최태원“하이닉스인수,모두우려…임직원들이만들어낸결과”",
-    "SKT,AI로휴가철트래픽잡는다…전국1100곳통신품질집중관리",
-    "삼전·닉스도참여…청년4만5천명에일경험제공",
-    "대우건설,울산북항LNG터미널3단계45개월여정마침표",
-    "'개미레버리지'만때리나…국민연금리밸런싱유예가키운7월수급절...",
     "하반기복종별경기전망\"가성비·프리미엄초양극화…선별소비가판바...",
     "반도체벨트효과이어졌다...동탄·영통·기흥아파트값상승세지속",
     "李대통령“책임있는사람이이상한소리하는것문제…새만금유치도...",
@@ -3306,10 +3307,17 @@
     "“건강한긴장감불어넣겠다”제주SKFC,U-23대표팀출신골키퍼허자...",
     "[오피셜]'신태용감독과손잡았다'전국가대표권창훈,한국떠나인...",
     "日키옥시아반토막쇼크…삼전·닉스에켜진'월요일경고등'",
-    "최태원\"메모리수요지속…韓,지능수출해야\""
+    "최태원\"메모리수요지속…韓,지능수출해야\"",
+    "日키옥시아시총반토막…亞반도체일제히급락",
+    "최태원“메모리계속필요...하이닉스주가,시간두면우상향”",
+    "TSMC호실적도못막은반도체株급락…亞증시검은금요일",
+    "휴일에도24시간가동한외환시장",
+    "\"국장매도고민\"버티던슈퍼리치도흔들린다",
+    "국내ETF시총한달새80조증발",
+    "최태원\"韓새성장전략은지능수출\""
    ],
    "initialized": true,
-   "last_run": "2026-07-17T17:45:26.051123+09:00"
+   "last_run": "2026-07-17T17:50:35.886231+09:00"
   }
  },
  "press_names": {
