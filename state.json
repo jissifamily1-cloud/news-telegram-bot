@@ -150,11 +150,17 @@
     [
      "2026-07-18T00:05:25.410664+09:00",
      "때마다 반도체 묶이는 버블 고리 동조화 위기"
+    ],
+    [
+     "2026-07-18T00:10:34.394494+09:00",
+     "수도권 468가구 비수기 휴가철 집중 전국 물량 분양"
+    ],
+    [
+     "2026-07-18T00:10:34.394494+09:00",
+     "피드백 루프 증시 ADR 홍길 미국에 한국 단종L 멱살 잡혔나 ETF"
     ]
    ],
    "seen_urls": [
-    "https://www.khan.co.kr/article/202607161531011",
-    "http://www.newsworker.co.kr/news/articleView.html?idxno=436937",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04575606645515176",
     "https://biz.sbs.co.kr/article_hub/20000322982?division=NAVER",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04569046645515176",
@@ -1652,11 +1658,11 @@
     "https://www.m-i.kr/news/articleView.html?idxno=1392580",
     "https://news.tf.co.kr/read/economy/2344300.htm",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=82407",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=82409"
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=82409",
+    "http://www.srtimes.kr/news/articleView.html?idxno=207748",
+    "https://biz.heraldcorp.com/article/10812202"
    ],
    "seen_titles": [
-    "[사이언스톡]기술뚝심투자,그이후",
-    "“제남편을돌려주세요”···미얀마노동자유족,SK에코플랜트에공...",
     "[뉴스워커_SK에코플랜트]'의왕역SK뷰'본격분양…20일특별공급",
     "추미애,삼성·SK하이닉스에행정권고\"공정수재이용률늘려야\"",
     "'검은목요일'코스피장중7%폭락…다시7천선붕괴",
@@ -3154,10 +3160,12 @@
     "이상일용인특례시장\"정부,반도체산단속도전행동으로보여야\"",
     "[주간사모펀드]MBK·김병주,홈플러스DIP보증결단…메리츠의결에회...",
     "[클로즈업]글로벌기술주조정에기계적동조…나스닥·필라델피아반...",
-    "[더페어돋보기]위기때마다묶이는미·한반도체동조화고리…버블..."
+    "[더페어돋보기]위기때마다묶이는미·한반도체동조화고리…버블...",
+    "전국6,468가구분양…휴가철비수기전수도권물량'집중'",
+    "한국증시,미국에멱살잡혔나…ADR,단종L・ETF&피드백루프[홍길..."
    ],
    "initialized": true,
-   "last_run": "2026-07-18T00:05:25.410664+09:00"
+   "last_run": "2026-07-18T00:10:34.394494+09:00"
   }
  },
  "press_names": {
