@@ -273,7 +273,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news2day.co.kr/article/20260716500201",
     "https://economist.co.kr/article/view/ecn202607160037",
     "https://www.g-enews.com/view.php?ud=202607161551252604923c501012_1",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607160327&t=NN",
@@ -1772,10 +1771,10 @@
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685002",
     "https://www.econovill.com/news/articleView.html?idxno=745514",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=61702",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469353"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469353",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=307196"
    ],
    "seen_titles": [
-    "반도체업황우려에코스피·코스닥급락…매도사이드카잇달아발동(...",
     "올해만19번째매도사이드카…7,000선무너진코스피,‘반도체쇼크’...",
     "코스피,탈환하루만에7000선반납…삼전닉스8%·11%↓",
     "[속보]'6%↑→-6%'美반도체찬바람'악재'…현기증나는韓증시널뛰...",
@@ -3274,10 +3273,11 @@
     "AI메모리수요여파에인도스마트폰출하10%감소…6년만에최대낙...",
     "국내ETF순자산500조시대…\"운용사도책임투자역량키워야\"",
     "\"SK하이닉스,샀다팔았다말고그냥들고있어라\"최태원의장기투자...",
-    "씨앤지하이테크,용인프로젝트·신공장으로2027년반등노린다"
+    "씨앤지하이테크,용인프로젝트·신공장으로2027년반등노린다",
+    "[지난밤뉴욕에선]AI반도체주차익실현확산…3대지수일제히하락"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T07:35:19.101865+09:00"
+   "last_run": "2026-07-18T07:40:32.676056+09:00"
   }
  },
  "press_names": {
