@@ -606,11 +606,13 @@
     [
      "2026-07-17T10:35:22.086333+09:00",
      "제품 특허 메모리칩 삼성 ITC 넷리스트 침해 구글 혐의 조사"
+    ],
+    [
+     "2026-07-17T10:40:35.191095+09:00",
+     "갖고 SK하이닉스 가만히 최태원 주가 우상향 있으면"
     ]
    ],
    "seen_urls": [
-    "https://www.newscj.com/news/articleView.html?idxno=3417564",
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065588302907154",
     "https://www.koreaherald.com/article/10811204",
     "https://biz.chosun.com/it-science/ict/2026/07/16/UGNRIGE66NGY7PXUPB2UYTADTQ/",
     "https://www.sedaily.com/article/20068545",
@@ -2108,11 +2110,11 @@
     "https://news.jtbc.co.kr/article/NB12308760?influxDiv=NAVER",
     "https://www.jibs.co.kr/news/articles/articlesDetail/63548?feed=na",
     "https://www.yna.co.kr/view/AKR20260717024800011?input=1195m",
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=545832"
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=545832",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=51522",
+    "https://www.yna.co.kr/view/AKR20260717026000003?input=1195m"
    ],
    "seen_titles": [
-    "하루만에7천피반납코스피…한은,기준금리연2.75%로인상[프레스...",
-    "신안우이해상풍력첫삽…중부발전,390MW프로젝트본격화",
     "원·달러1480원대중반달러약세",
     "[통신View]AI혁신에상생·글로벌까지…'고객신뢰·성장'다각화",
     "쿠팡,美로비논란정면반박…\"글로벌사업위한합법적활동\"",
@@ -3610,10 +3612,12 @@
     "서남권반도체클러스터,2029년말까지1차전력망구축..일부부지우...",
     "‘삼전·하이닉스레버리지’현금3,000만원있어야산다…최소거래...",
     "[연합뉴스이시각헤드라인]-10:30",
-    "美ITC,삼성.구글제품등넷리스트메모리칩특허침해혐의조사착..."
+    "美ITC,삼성.구글제품등넷리스트메모리칩특허침해혐의조사착...",
+    "SK하이닉스ADR13.7%급락…반도체매도세에뉴욕증시약세",
+    "최태원\"SK하이닉스주가우상향…가만히갖고있으면돼\""
    ],
    "initialized": true,
-   "last_run": "2026-07-17T10:35:22.086333+09:00"
+   "last_run": "2026-07-17T10:40:35.191095+09:00"
   }
  },
  "press_names": {
