@@ -246,11 +246,13 @@
     [
      "2026-07-18T07:15:24.849866+09:00",
      "선방한 중소형주 수익률 이달 대형주 앞질러 약세장에도"
+    ],
+    [
+     "2026-07-18T07:20:34.749937+09:00",
+     "시총 반도체 장세 톱100에 코스닥도 1년새 반도체주"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISI20260716_0021367361",
-    "https://www.ikbc.co.kr/article/view/kbc202607160059",
     "https://www.dailian.co.kr/news/view/1668026/?sc=Naver",
     "http://www.fnnews.com/news/202607161507445377",
     "https://www.veritas-a.com/news/articleView.html?idxno=619691",
@@ -1748,11 +1750,11 @@
     "https://www.newdaily.co.kr/site/data/html/2026/07/18/2026071800001.html",
     "https://www.getnews.co.kr/news/articleView.html?idxno=875415",
     "https://www.g-enews.com/view.php?ud=202607180705304337fbbec65dfb_1",
-    "https://www.yna.co.kr/view/AKR20260717001000008?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260717001000008?input=1195m",
+    "https://www.bntnews.co.kr/article/view/bnt202607180026",
+    "https://www.yna.co.kr/view/AKR20260716201100008?input=1195m"
    ],
    "seen_titles": [
-    "코스피7,000선반납에삼전닉스급락",
-    "삼성전자-SK하이닉스급락",
     "李대통령\"현대車새만금투자엄청난것인데,책임있는사람들이이상...",
     "코스피,삼전닉스급락에7000선붕괴[시황]",
     "\"분양가5억원대\"...일신건영,이천'휴먼빌클래스원'16일견본주택개...",
@@ -3250,10 +3252,12 @@
     "권창훈,신태용품에안겼다…인니페르시자자카르타이적",
     "뉴욕증시,반도체주연속매도에하락…나스닥1.4%↓",
     "메모리급등에스마트폰‘이중압박’…AI수요가판도흔든다",
-    "이달약세장에도선방한중소형주…수익률대형주앞질러"
+    "이달약세장에도선방한중소형주…수익률대형주앞질러",
+    "애플,엔비디아제치고시총1위",
+    "코스닥도반도체장세?…시총톱100에반도체주1년새88%↑"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T07:15:24.849866+09:00"
+   "last_run": "2026-07-18T07:20:34.749937+09:00"
   }
  },
  "press_names": {
