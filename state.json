@@ -282,11 +282,13 @@
     [
      "2026-07-17T18:05:22.653781+09:00",
      "유권자 정보 대관령 중국이 트럼프"
+    ],
+    [
+     "2026-07-17T18:20:33.177793+09:00",
+     "대장주 내가 하한가 팔지 최태원 말라 하이닉스 반도체"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=273176",
-    "https://www.newspim.com/news/view/20260716000882",
     "https://www.sidae.com/article/2026071614571637200",
     "https://www.pressian.com/pages/articles/2026071614215248100",
     "https://www.thepublic.kr/news/articleView.html?idxno=311586",
@@ -1784,11 +1786,11 @@
     "https://www.mk.co.kr/article/12101134",
     "https://www.nocutnews.co.kr/news/6549632",
     "https://www.dailian.co.kr/news/view/1668256/?sc=Naver",
-    "https://www.gokorea.kr/news/articleView.html?idxno=872291"
+    "https://www.gokorea.kr/news/articleView.html?idxno=872291",
+    "https://www.yna.co.kr/view/AKR20260717050800007?input=1195m",
+    "https://www.seoul.co.kr/news/economy/securities/2026/07/17/20260717500134?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "추미애\"용인반도체공정수활용비율높여라\"행정권고...삼전닉스에천...",
-    "드제이원,글로벌AI객체추적대회'MOT20'1위기록",
     "[아시아특징주]TSMC2분기이익,기대치큰폭초과…AI수요열기재...",
     "신안우이해상풍력첫삽…이재명정부'국민성장펀드'1호물꼬",
     "3조4000억투입국내해상풍령발전단시사업'첫삽'…신안해역에390M...",
@@ -3286,10 +3288,12 @@
     "美기업코스닥동시상장…韓증시글로벌화발판될듯",
     "\"내일혀내밀거야\"…월드컵최고스타는4살?[어텐션뉴스]",
     "[데일리안오늘뉴스종합]트럼프“중국이유권자정보빼”…대관령...",
-    "최태원,\"AI시대,SK하이닉스주식장기투자전략이핵심\""
+    "최태원,\"AI시대,SK하이닉스주식장기투자전략이핵심\"",
+    "권창훈,인니페르시자자카르타로이적…신태용감독과한솥밥",
+    "“하이닉스팔지말라”는최태원…日반도체대장주‘하한가’[내가..."
    ],
    "initialized": true,
-   "last_run": "2026-07-17T18:15:25.214657+09:00"
+   "last_run": "2026-07-17T18:20:33.177793+09:00"
   }
  },
  "press_names": {
