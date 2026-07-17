@@ -617,9 +617,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.newsprime.co.kr/news/article.html?no=740606",
-    "https://www.womentimes.co.kr/news/articleView.html?idxno=104437",
-    "https://www.etoday.co.kr/news/view/2604512",
     "https://www.ppss.kr/news/articleView.html?idxno=302382",
     "https://www.newspim.com/news/view/20260716000734",
     "https://www.asiatime.co.kr/article/20260716500205",
@@ -2116,12 +2113,12 @@
     "https://biz.newdaily.co.kr/site/data/html/2026/07/17/2026071700017.html",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008662333&plink=ORI&cooper=NAVER",
     "https://www.newsis.com/view/NISX20260717_0003713213",
-    "https://www.hankookilbo.com/news/article/A2026071709370002506?did=NA"
+    "https://www.hankookilbo.com/news/article/A2026071709370002506?did=NA",
+    "https://www.khan.co.kr/article/202607171047001",
+    "https://www.newsis.com/view/NISX20260716_0003712226",
+    "https://news.jtbc.co.kr/article/NB12308739?influxDiv=NAVER"
    ],
    "seen_titles": [
-    "[이슈]SK하이닉스ADR,본주보다50%웃돈거래…저평가해소신호vs상...",
-    "하청이주노동자사망관련기자회견",
-    "과기정통부,모두의AI연내출시…'독자AI모델'승부수",
     "삼성전자,반도체·스마트폰·TV3대사업으로글로벌선두체제굳혀",
     "중부발전,390MW급'신안우이해상풍력'착공⋯2029년상업운전",
     "코스피하루만에7,000선붕괴…외국인매도에반도체주급락",
@@ -3618,10 +3615,13 @@
     "7.3조빨아들인'삼전닉스'레버리지…3천만원예탁금,약발먹힐까",
     "한달에7조원흡수한'삼전닉스'레버리지…보완대책통할까",
     "최태원회장\"AI시대,한국성장열쇠는지능수출…틈새시장노려야...",
-    "마이크론과현대모비스·퀄컴과첨단차량용메모리장기공급계약"
+    "마이크론과현대모비스·퀄컴과첨단차량용메모리장기공급계약",
+    "최태원“SK하이닉스주식가만히갖고있으면돼…우상향할것”",
+    "\"삼전닉스만믿었는데\"…반도체흔들린하반기,'이업종'봐야",
+    "SK하이닉스,ADR상장에도…코스피급락한이유는?[이주엔머니]"
    ],
    "initialized": true,
-   "last_run": "2026-07-17T10:45:26.494871+09:00"
+   "last_run": "2026-07-17T10:50:33.127276+09:00"
   }
  },
  "press_names": {
