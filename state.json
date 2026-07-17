@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-17T19:45:28.004292+09:00",
-     "월요일이 손실 두렵다 심해 손해가 수도 이미"
-    ],
-    [
-     "2026-07-17T19:45:28.004292+09:00",
-     "국장 삼성 비상 월요일 해외지표 보니 SK하이닉스"
-    ],
-    [
      "2026-07-17T19:55:20.648945+09:00",
      "내야 지원도 반도체 이상일 속도전 정부 용인시장 속도"
     ],
@@ -142,12 +134,13 @@
     [
      "2026-07-18T01:30:43.176709+09:00",
      "레버리지 초단타 순자산 챙긴다 세력이 매매 손실 개인 4조"
+    ],
+    [
+     "2026-07-18T01:45:29.020326+09:00",
+     "공포 주가 피크아웃 덮친 반도체 줄줄이 급락"
     ]
    ],
    "seen_urls": [
-    "http://www.iminju.net/news/articleView.html?idxno=166793",
-    "https://view.asiae.co.kr/article/2026071615432124867",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1716711",
     "https://www.joongangenews.com/news/articleView.html?idxno=533504",
     "https://en.yna.co.kr/view/AEN20260716008400320?input=2106m",
     "https://en.yna.co.kr/view/AEN20260716008100320?input=2106m",
@@ -1644,12 +1637,12 @@
     "https://www.joongang.co.kr/article/25446032",
     "https://www.joongang.co.kr/article/25446033",
     "https://www.joongang.co.kr/article/25446034",
-    "https://www.tokenpost.kr/news/breaking/378888"
+    "https://www.tokenpost.kr/news/breaking/378888",
+    "https://www.donga.com/news/Economy/article/all/20260717/134319262/2",
+    "https://www.donga.com/news/Economy/article/all/20260717/134319265/2",
+    "https://www.donga.com/news/Economy/article/all/20260717/134319364/2"
    ],
    "seen_titles": [
-    "[속보]삼전8.77%·SK하닉11.53%급락마감",
-    "코스피,6.37%급락한6820.60마감…원·달러환율1480.4원",
-    "李대통령\"현대차새만금투자도엄청난규모\"…'소외론'작심비판",
     "쿠팡\"美로비109만달러…SK·삼성·한화보다작아\"",
     "李대통령\"현대車새만금투자,엄청난규모…'전북소외론'제기무책...",
     "KOSPI200ClosingPriceList-5",
@@ -3146,10 +3139,13 @@
     "최태원“메모리우상향…주식사고팔기보다장기보유를”",
     "한달간레버리지7조유입…80%가개미",
     "레버리지순자산12.4조…개인손실,초단타매매세력이챙긴다",
-    "미증시메모리주반등…SK하이닉스8%대상승"
+    "미증시메모리주반등…SK하이닉스8%대상승",
+    "최태원“SK하이닉스株우상향,샀다팔았다말고갖고있어라”",
+    "공급과잉-투자지연우려에반도체株휘청…美빅테크실적촉각",
+    "‘피크아웃’공포덮친반도체,주가줄줄이급락"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T01:40:32.433326+09:00"
+   "last_run": "2026-07-18T01:45:29.020326+09:00"
   }
  },
  "press_names": {
