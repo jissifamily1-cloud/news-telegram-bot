@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-17T03:25:22.346232+09:00",
-     "효과 금융위 ETF의 레버리지 방지 유출 강조 자금 해외 단일종목"
-    ],
-    [
      "2026-07-17T03:30:43.609429+09:00",
      "반도체 장기 등과 부품 공급계 퀄컴 마이크론 차량용"
     ],
@@ -482,14 +478,21 @@
     [
      "2026-07-17T09:20:35.201058+09:00",
      "강한 취업에 RE100으 반도체 대학 전남광주"
+    ],
+    [
+     "2026-07-17T09:25:23.762566+09:00",
+     "피크아웃론 공포가 SK증권 흔들면 주가 반박한 반도체 저가매수"
+    ],
+    [
+     "2026-07-17T09:25:23.762566+09:00",
+     "하반기 이어지는 프리미엄 랜드마크 분양 주목 신고가"
+    ],
+    [
+     "2026-07-17T09:25:23.762566+09:00",
+     "수긍 할까 국민이"
     ]
    ],
    "seen_urls": [
-    "http://coinreaders.com/248042",
-    "https://www.naeil.com/news/read/595616",
-    "http://www.newsprime.co.kr/news/article.html?no=740600",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4425410",
-    "https://www.newstnt.com/news/articleView.html?idxno=710525",
     "https://www.getnews.co.kr/news/articleView.html?idxno=875299",
     "https://www.sisajournal.com/news/articleView.html?idxno=380124",
     "https://www.welfarenews.net/news/articleView.html?idxno=208568",
@@ -1984,14 +1987,14 @@
     "https://www.chosun.com/economy/stock-finance/2026/07/17/VZA3RD22LNCWTAMXFRMBHG6LOY/",
     "https://view.asiae.co.kr/article/2026071709175754528",
     "https://biz.sbs.co.kr/article_hub/20000323089?division=NAVER",
-    "https://news.unn.net/news/articleView.html?idxno=594635"
+    "https://news.unn.net/news/articleView.html?idxno=594635",
+    "https://www.starnewskorea.com/sports/2026/07/17/2026071709120383141",
+    "https://www.hankyung.com/article/2026071707247",
+    "https://www.mk.co.kr/article/12100896",
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=422507",
+    "https://www.bigtanews.co.kr/article/view/big202607170002"
    ],
    "seen_titles": [
-    "'중국삼전닉스'창신메모리상장초읽기…국내업계영향은",
-    "무기한선물가상자산넘어실물자산으로…코빗,\"규제사각지대대비해...",
-    "국군사관학교대전유치…허태정시정동력확보모멘텀",
-    "\"돌고돌아또AI로\"...신흥시장투자자들,미국피하려다TSMC·삼전닉스...",
-    "국민부담없는AI활용환경만든다",
     "[마담P의오경제]유시민\"이제는받아들여요\"이말을국내증시에대...",
     "[외환]한은금리인상소화하며1,480원대유지",
     "신·미디어업계,AI기반운영·광고·보안강화…하반기경쟁력확보총...",
@@ -3486,10 +3489,15 @@
     "SK하이닉스ADR이틀새21%급락…고개드는반도체‘피크아웃’우려",
     "삼전닉스레버리지한달간7조원자금유입",
     "'삼전닉스레버리지'폭락에도돈몰렸다…한달간7조흡수",
-    "[2027수시/동신대학교]취업에강한대학…전남광주AI·반도체RE100으..."
+    "[2027수시/동신대학교]취업에강한대학…전남광주AI·반도체RE100으...",
+    "[오피셜]제주SK골문더두꺼워졌다...'GK허자웅영입'안찬기군입...",
+    "\"도박판보다심해\"…한달새7조빨아들인삼전닉스레버리지",
+    "“공포가주가흔들면저가매수”…반도체피크아웃론반박한SK증권[여...",
+    "'신고가'이어지는랜드마크···하반기프리미엄분양'주목'",
+    "“국민이수긍할까”"
    ],
    "initialized": true,
-   "last_run": "2026-07-17T09:20:35.201058+09:00"
+   "last_run": "2026-07-17T09:25:23.762566+09:00"
   }
  },
  "press_names": {
