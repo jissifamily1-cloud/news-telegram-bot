@@ -165,8 +165,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260716000947",
-    "https://www.khan.co.kr/article/202607161552001",
     "https://news.mtn.co.kr/news-detail/2026071615470797501",
     "https://www.seoul.co.kr/news/economy/securities/2026/07/16/20260716500164?wlog_tag3=naver",
     "https://www.fntimes.com/html/view.php?ud=202607161544037344048b718333_18",
@@ -1664,11 +1662,11 @@
     "https://www.mediapen.com/news/view/1110786",
     "https://www.hitnews.co.kr/news/articleView.html?idxno=77723",
     "https://www.lecturernews.com/news/articleView.html?idxno=206588",
-    "https://biz.heraldcorp.com/article/10811357"
+    "https://biz.heraldcorp.com/article/10811357",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607180089&t=NN",
+    "https://biz.sbs.co.kr/article_hub/20000323124?division=NAVER"
    ],
    "seen_titles": [
-    "쿠팡\"미국로비활동은합법적기업소통...과도한지출주장사실아냐...",
-    "추미애지사\"용인반도체폐수방류기준위반시엄중조치\"",
     "신안우이해상풍력착공…메가프로젝트원전건설반발에더중요해진...",
     "AI투자둔화·中CXMTIPO충격…코스피6%급락[MTN마감시황]",
     "[속보]6%상승다토해낸코스피…SK하이닉스11%‘털썩’",
@@ -3166,10 +3164,12 @@
     "[美증시]이란전악화·기술주급락에3대지수또하락…엔비디아·스...",
     "냉정한VC가바이오를믿는이유\"돈보다중요한이것\"",
     "미국뉴욕증시,반도체차익실현에다우존스·S&P500·나스닥지수일제...",
-    "“미공개19분추가”…‘어쩔수가없다확장판’·‘군체’안방상륙"
+    "“미공개19분추가”…‘어쩔수가없다확장판’·‘군체’안방상륙",
+    "[속보]고점대비20%↓\"약세장진입\"…美반도체투심여전히냉랭",
+    "뉴욕증시,반도체매도세지속에하락…나스닥1.4%↓"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T06:15:26.473110+09:00"
+   "last_run": "2026-07-18T06:20:33.332550+09:00"
   }
  },
  "press_names": {
