@@ -162,11 +162,13 @@
     [
      "2026-07-18T06:15:26.473110+09:00",
      "어쩔수가없다 군체 안방 추가 19분 미공개 확장판 상륙"
+    ],
+    [
+     "2026-07-18T06:30:38.664170+09:00",
+     "약세 필라델피아 거품론에 폭락 뉴욕증시 반도체지수"
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/16/20260716500164?wlog_tag3=naver",
-    "https://www.fntimes.com/html/view.php?ud=202607161544037344048b718333_18",
     "https://www.cstimes.com/news/articleView.html?idxno=713793",
     "https://www.g-enews.com/view.php?ud=202607161546056297153ddfb15a_1",
     "https://www.m-i.kr/news/articleView.html?idxno=1392427",
@@ -1664,11 +1666,11 @@
     "https://biz.heraldcorp.com/article/10811357",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607180089&t=NN",
     "https://biz.sbs.co.kr/article_hub/20000323124?division=NAVER",
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/18/20260718500002?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/economy/securities/2026/07/18/20260718500002?wlog_tag3=naver",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469332",
+    "https://www.globale.co.kr/news/articleView.html?idxno=39394"
    ],
    "seen_titles": [
-    "AI투자둔화·中CXMTIPO충격…코스피6%급락[MTN마감시황]",
-    "[속보]6%상승다토해낸코스피…SK하이닉스11%‘털썩’",
     "[7월4주청약]전국11곳서6468가구청약…7월막바지분양이어져",
     "대우건설,울산북항LNG3단계준공…2235억규모EPC성공완수",
     "증권가\"한은추가금리인상시기는10월유력\"",
@@ -3166,10 +3168,12 @@
     "“미공개19분추가”…‘어쩔수가없다확장판’·‘군체’안방상륙",
     "[속보]고점대비20%↓\"약세장진입\"…美반도체투심여전히냉랭",
     "뉴욕증시,반도체매도세지속에하락…나스닥1.4%↓",
-    "[서울데이터랩]미국증시,기술주약세에일제하락…나스닥1.4%밀려"
+    "[서울데이터랩]미국증시,기술주약세에일제하락…나스닥1.4%밀려",
+    "엔비디아부터반도체주까지급락…AI반도체열풍꺾였나",
+    "뉴욕증시,AI거품론에약세···필라델피아반도체지수20%폭락"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T06:25:22.148438+09:00"
+   "last_run": "2026-07-18T06:30:38.664170+09:00"
   }
  },
  "press_names": {
