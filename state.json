@@ -341,8 +341,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260716_0003712388",
-    "https://zdnet.co.kr/view/?no=20260716150235",
     "https://www.ddaily.co.kr/page/view/2026071614595626365",
     "https://www.ppss.kr/news/articleView.html?idxno=302370",
     "https://www.mk.co.kr/article/12100286",
@@ -1840,11 +1838,11 @@
     "https://www.gokorea.kr/news/articleView.html?idxno=872286",
     "https://biz.heraldcorp.com/article/10811758",
     "https://www.tournews21.com/news/articleView.html?idxno=138799",
-    "https://www.koreajoongangdaily.com/business/sk-group-chairman-calls-for-korea-to-export-intelligence-to-compete-in-ai-eranbsp/12778594"
+    "https://www.koreajoongangdaily.com/business/sk-group-chairman-calls-for-korea-to-export-intelligence-to-compete-in-ai-eranbsp/12778594",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=737324",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=737321"
    ],
    "seen_titles": [
-    "'고객의일상전부를잡아라'...기업들경계허물기활발",
-    "경남도\"어떤재난에도행정서비스끊김없다\"",
     "SK플래닛,오키클럽플러스혜택확대…'아기상어AI전시'최대50%할인",
     "포스코그룹,5300개협력사지원…상생범위2·3차로확대",
     "신현송한은총재\"반도체기업주가보다가격봐야…AI새국면주목\"",
@@ -3342,10 +3340,12 @@
     "국내기업신용등급전망엇갈려…반도체·조선긍정,석유화학·철강...",
     "‘中D램공룡’CXMT상장임박…‘최대IPO’도전장[투자360]",
     "❴기획특집❵\"베드타운넘어경제도시로\"…하남시,K-컬처·AI·국가정원...",
-    "SKGroupChairmancallsforKoreatoexport'intelligence'tocompetei"
+    "SKGroupChairmancallsforKoreatoexport'intelligence'tocompetei",
+    "금융위\"단일종목레버리지ETF,해외자금유출막았다\"…증시변동성...",
+    "하반기기업신용등급'K자양극화'심화…반도체·조선'맑음'vs석유화..."
    ],
    "initialized": true,
-   "last_run": "2026-07-17T16:20:34.969095+09:00"
+   "last_run": "2026-07-17T16:25:22.203951+09:00"
   }
  },
  "press_names": {
