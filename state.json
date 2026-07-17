@@ -225,7 +225,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1668015/?sc=Naver",
     "http://www.thefirstmedia.net/news/articleView.html?idxno=204042",
     "https://www.newsis.com/view/NISX20260716_0003712533",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1716700",
@@ -1724,10 +1723,10 @@
     "https://news.tvchosun.com/site/data/html_dir/2026/07/17/2026071790200.html",
     "https://www.tokenpost.kr/news/cryptocurrency/378834",
     "https://www.ajunews.com/view/20260717213147817",
-    "http://www.maniareport.com/view.php?ud=202607172122027739dad9f33a29_19"
+    "http://www.maniareport.com/view.php?ud=202607172122027739dad9f33a29_19",
+    "https://isplus.com/article/view/isp202607170052"
    ],
    "seen_titles": [
-    "정부,550조AI데이터센터투자견인…'1인1AI에이전트'시대연다",
     "추미애\"용인반도체폐수엄정관리·공정수재이용률높여야\"",
     "이랜드월드,패션업계첫AEO최고등급'AAA'...글로벌공급망경쟁력...",
     "추미애\"반도체클러스터폐수방류,기준위반시엄중조치\"",
@@ -3226,10 +3225,11 @@
     "병점아파트값,보름새2억원'쑥'…반도체벨트풍선효과현실로",
     "중국AI‘키미K3’충격…비트코인·이더리움동반하락",
     "[아주경제오늘의뉴스종합]최태원\"SK하이닉스주가우상향…메모리...",
-    "권창훈,K리그떠나인도네시아행...신태용호페르시자와2년계약"
+    "권창훈,K리그떠나인도네시아행...신태용호페르시자와2년계약",
+    "[오피셜]스승과제자가인니서만났다…신태용품에안긴권창훈,페르..."
    ],
    "initialized": true,
-   "last_run": "2026-07-17T22:00:44.647356+09:00"
+   "last_run": "2026-07-17T22:05:23.609676+09:00"
   }
  },
  "press_names": {
