@@ -521,7 +521,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202607161426382517",
     "https://www.apnews.kr/news/articleView.html?idxno=3049823",
     "https://www.joongboo.com/news/articleView.html?idxno=363731608",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041605",
@@ -2020,10 +2019,10 @@
     "http://www.newsroad.co.kr/news/articleView.html?idxno=61692",
     "https://www.etoday.co.kr/news/view/2604509",
     "https://www.sedaily.com/article/20068882",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684966"
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684966",
+    "https://sports.khan.co.kr/article/202607171314003?pt=nv"
    ],
    "seen_titles": [
-    "이랜드월드,패션업계최초관세청AEO'AAA'획득...전국19개기업뿐",
     "코스피,'삼전·닉스'급락에5%대하락...6900선[fn오후시황]",
     "美자본시장도인정한최태원'AI드라이브'…SK㈜몸값까지높인다",
     "안성폐수우려반영…추미애,삼성·SK에공정수활용확대권고",
@@ -3522,10 +3521,11 @@
     "'5억원대수도권새아파트'이천휴먼빌클래스원,호갱노노실시간...",
     "CXMT,85억달러IPO로'메모리빅3'도전…HBM·생산능력확대승부수",
     "최태원“메모리계속필요…SK하이닉스주가가만히두면우상향”",
-    "미반도체주매도세아시아확산…소프트뱅크8%급락"
+    "미반도체주매도세아시아확산…소프트뱅크8%급락",
+    "종착역을향해가는원정10연전…포항의마무리는어떻게될까"
    ],
    "initialized": true,
-   "last_run": "2026-07-17T13:15:28.722163+09:00"
+   "last_run": "2026-07-17T13:20:34.562042+09:00"
   }
  },
  "press_names": {
