@@ -157,7 +157,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04575606645515176",
     "https://biz.sbs.co.kr/article_hub/20000322982?division=NAVER",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04569046645515176",
     "https://www.tokenpost.kr/news/economy/378429",
@@ -1656,10 +1655,10 @@
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=82407",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=82409",
     "http://www.srtimes.kr/news/articleView.html?idxno=207748",
-    "https://biz.heraldcorp.com/article/10812202"
+    "https://biz.heraldcorp.com/article/10812202",
+    "http://www.paxetv.com/news/articleView.html?idxno=277338"
    ],
    "seen_titles": [
-    "[뉴스워커_SK에코플랜트]'의왕역SK뷰'본격분양…20일특별공급",
     "추미애,삼성·SK하이닉스에행정권고\"공정수재이용률늘려야\"",
     "'검은목요일'코스피장중7%폭락…다시7천선붕괴",
     "일신건영,'이천휴먼빌클래스원'견본주택16일개관",
@@ -3158,10 +3157,11 @@
     "[클로즈업]글로벌기술주조정에기계적동조…나스닥·필라델피아반...",
     "[더페어돋보기]위기때마다묶이는미·한반도체동조화고리…버블...",
     "전국6,468가구분양…휴가철비수기전수도권물량'집중'",
-    "한국증시,미국에멱살잡혔나…ADR,단종L・ETF&피드백루프[홍길..."
+    "한국증시,미국에멱살잡혔나…ADR,단종L・ETF&피드백루프[홍길...",
+    "이상일용인시장\"반도체·교통인프라구축에시정역량집중\""
    ],
    "initialized": true,
-   "last_run": "2026-07-18T00:20:39.872626+09:00"
+   "last_run": "2026-07-18T00:25:22.604089+09:00"
   }
  },
  "press_names": {
