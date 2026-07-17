@@ -265,7 +265,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/industry/electronics/6230456",
     "https://www.news1.kr/politics/president/6230558",
     "https://www.catchnews.kr/news/articleView.html?idxno=126247",
     "http://www.datanews.co.kr/news/article.html?no=145626",
@@ -1764,10 +1763,10 @@
     "https://www.news1.kr/sports/soccer/6231422",
     "https://www.hankyung.com/article/2026071709306",
     "https://www.sportsworldi.com/newsView/20260717512669",
-    "https://imnews.imbc.com/replay/2026/nwdesk/article/6838229_37004.html"
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6838229_37004.html",
+    "https://www.sportsseoul.com/news/read/1623047"
    ],
    "seen_titles": [
-    "중부발전,390MW신안우이해상풍력착공",
     "中CXMT,상장통해'메모리빅3'진입목표…점유율15%확보관건",
     "李대통령,'호남반도체'반발에\"기업의운명건결단에무책임·나쁜...",
     "SK인텔릭스,웰니스로봇'나무엑스'로레드닷디자인본상",
@@ -3266,10 +3265,11 @@
     "전국가대표권창훈,인니무대진출…신태용지도받는다",
     "최태원만믿습니다…\"메모리만팔아선안돼,'지능'수출해야\"[강경주...",
     "“새로운도전위해자카르타선택”국가대표출신권창훈,신태용감...",
-    "TSMC놀라운실적냈지만,반도체주급락‥최태원\"갖고있으면돼\""
+    "TSMC놀라운실적냈지만,반도체주급락‥최태원\"갖고있으면돼\"",
+    "권창훈,제주이적반년만에신태용감독이끄는인도네시아페르시자..."
    ],
    "initialized": true,
-   "last_run": "2026-07-17T20:30:40.370259+09:00"
+   "last_run": "2026-07-17T20:35:25.819448+09:00"
   }
  },
  "press_names": {
