@@ -202,11 +202,13 @@
     [
      "2026-07-17T22:40:35.188631+09:00",
      "구매 장관에 막아야 러트닉 서한 여야 애플 의원 반도체"
+    ],
+    [
+     "2026-07-17T22:45:27.052746+09:00",
+     "하락 연속 SK하이닉스 출발 149달러 ADR 공모가 밑으로 3일"
     ]
    ],
    "seen_urls": [
-    "http://www.thefirstmedia.net/news/articleView.html?idxno=204034",
-    "https://www.hankookilbo.com/news/article/A2026071609010003346?did=NA",
     "https://www.seoul.co.kr/news/society/2026/07/16/20260716500147?wlog_tag3=naver",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065593384710350",
     "https://www.theguru.co.kr/news/article.html?no=104555",
@@ -1704,11 +1706,11 @@
     "https://www.greened.kr/news/articleView.html?idxno=345322",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=83437",
     "https://www.m-economynews.com/news/article.html?no=68846",
-    "https://www.newspim.com/news/view/20260717000220"
+    "https://www.newspim.com/news/view/20260717000220",
+    "https://www.newsis.com/view/NISX20260717_0003713403",
+    "https://news.mtn.co.kr/news-detail/2026071722421435368"
    ],
    "seen_titles": [
-    "AI사이클고점논란…엇갈리는전망속하이퍼스케일러실적주목",
-    "SK브로드밴드,'Btv+max'가입자대상체험형혜택강화",
     "中최대D램업체CXMT상장…반도체자립'분수령'될까",
     "英앤공주,고려대방문…K첨단연구현장시찰",
     "대우건설,울산북항LNG터미널3단계준공…국내에너지인프라확대",
@@ -3206,10 +3208,12 @@
     "최태원\"SK하이닉스,결국우상향…샀다팔았다말고묻어두길\"",
     "최태원\"SK하이닉스,주식샀다팔았다말고갖고있어야\"",
     "한국,미래에는상품아닌‘지능수출’로전환하는게필요",
-    "美여야의원\"애플등中반도체구매막아야\"러트닉장관에서한"
+    "美여야의원\"애플등中반도체구매막아야\"러트닉장관에서한",
+    "AI투자회의론에아시아증시급락마감…키옥시아16.10％폭락",
+    "[속보]SK하이닉스ADR3일연속하락…공모가149달러밑으로출발"
    ],
    "initialized": true,
-   "last_run": "2026-07-17T22:40:35.188631+09:00"
+   "last_run": "2026-07-17T22:45:27.052746+09:00"
   }
  },
  "press_names": {
