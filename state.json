@@ -542,11 +542,13 @@
     [
      "2026-07-17T09:50:34.780934+09:00",
      "미국 장벽 하루 23시간 주식 증시와 한국 거래 12월부터 시간"
+    ],
+    [
+     "2026-07-17T09:55:22.264116+09:00",
+     "국가 엔비디아 7만개 제조 승부수 묶은 플랫폼"
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4425416",
-    "https://www.news1.kr/industry/general-industry/6230315",
     "https://www.mediapen.com/news/view/1110534",
     "http://www.ikld.kr/news/articleView.html?idxno=337732",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4425417",
@@ -2044,11 +2046,11 @@
     "http://sateconomy.co.kr/news/view/1065573265923896",
     "https://www.thelec.kr/news/articleView.html?idxno=59713",
     "https://slownews.kr/163395",
-    "https://www.kbmaeil.com/article/20260717500046"
+    "https://www.kbmaeil.com/article/20260717500046",
+    "https://www.seoul.co.kr/news/economy/2026/07/17/20260717500039?wlog_tag3=naver",
+    "https://www.g-enews.com/view.php?ud=202607170944185968fbbec65dfb_1"
    ],
    "seen_titles": [
-    "[NZSIINDEX]2026년7월14일신용은증권사의수익,손실은개인의몫",
-    "총1000조투입‘AI데이터센터’국가전략사업으로키운다…차세대반...",
     "[NZSIINDEX]2026년7월13일숫자가아닌자본이움직이는시장…극심...",
     "[과기부업무보고]550조AIDC지원…전국민무료AI연내출시",
     "최태원\"하이닉스인수,모두가반대…임직원이옳았음을증명\"",
@@ -3546,10 +3548,12 @@
     "신동빈회장‘AX생존론’실행…롯데이노베이트,AI에이전트10종공...",
     "SK실트론,美SiC웨이퍼자회사연내청산",
     "SlowLetter:July17,2026.",
-    "미국주식,12월부터하루23시간거래…한국증시와‘시간장벽’사..."
+    "미국주식,12월부터하루23시간거래…한국증시와‘시간장벽’사...",
+    "한달새7조몰린‘삼전닉스’레버리지…보완대책약발먹힐까",
+    "엔비디아2.7만개묶은日…‘제조AI국가플랫폼’승부수"
    ],
    "initialized": true,
-   "last_run": "2026-07-17T09:50:34.780934+09:00"
+   "last_run": "2026-07-17T09:55:22.264116+09:00"
   }
  },
  "press_names": {
