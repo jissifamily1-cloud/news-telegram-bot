@@ -289,7 +289,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041689",
     "https://www.joongang.co.kr/article/25445679",
     "https://www.news1.kr/local/gyeonggi/6230649",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251965&CMPT_CD=P0010",
@@ -1788,10 +1787,10 @@
     "https://www.theguru.co.kr/news/article.html?no=104553",
     "https://biz.heraldcorp.com/article/10811776",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=61704",
-    "https://news.jtbc.co.kr/article/NB12308868?influxDiv=NAVER"
+    "https://news.jtbc.co.kr/article/NB12308868?influxDiv=NAVER",
+    "https://www.tokenpost.kr/news/economy/378949"
    ],
    "seen_titles": [
-    "[마감시황]패닉에빠진코스피…6800선까지추락",
     "李대통령,‘메가프로젝트전북홀대론’에“책임자들이이상한소리…...",
     "SK하이닉스,여주노인·청년복지에1억5400만원지원",
     "용인반도체클러스터상생협약결실...여주시·SK하이닉스복지사업시...",
@@ -3290,10 +3289,11 @@
     "차세대PS·엑스박스콘솔예상가격'메모리가격이결정'",
     "셀프주유소라도장애인·임산부가오면직원이돕는곳이있다",
     "車두뇌잡는마이크론,현대모비스·퀄컴과'3~5년짜리'메모리동맹",
-    "AI반도체호황겨냥…\"미국도삼성·하이닉스초과이윤요구\""
+    "AI반도체호황겨냥…\"미국도삼성·하이닉스초과이윤요구\"",
+    "국내ETF시장500조돌파,자산운용사역할강화필요"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T07:55:21.260791+09:00"
+   "last_run": "2026-07-18T08:00:44.378879+09:00"
   }
  },
  "press_names": {
