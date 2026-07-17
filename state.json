@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-17T05:45:27.961265+09:00",
-     "반도체주에 SK하닉 균열 ADR 나스닥"
-    ],
-    [
      "2026-07-17T05:55:26.677960+09:00",
      "하락 국제유가는 내려 반도체주 급락에 뉴욕증시"
     ],
@@ -634,15 +630,17 @@
     [
      "2026-07-17T11:40:31.226542+09:00",
      "도박 어려워 버핏 늘어난 찾기 한국 선호할 모두가 가치 빚투"
+    ],
+    [
+     "2026-07-17T11:50:32.232140+09:00",
+     "보완 꼽힌 요인 변동성 강화로 레버리지 투자요건 단일종목"
+    ],
+    [
+     "2026-07-17T11:50:32.232140+09:00",
+     "속도전으로 미래 용인특례시장 확보 이상일 반도체 대한민국 먹거리"
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/industry/2026/07/16/2026071614073442305",
-    "https://www.rcast.co.kr/news/articleView.html?idxno=31279",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1716679",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3638076",
-    "https://www.mk.co.kr/article/12100222",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1716670",
     "https://www.viva100.com/article/20260716500567",
     "https://magazine.hankyung.com/business/article/202607169041b",
     "https://www.ddaily.co.kr/page/view/2026071614074595672",
@@ -2136,15 +2134,15 @@
     "http://www.fnnews.com/news/202607171134154252",
     "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000540251",
     "https://www.hankookilbo.com/news/article/A2026071711180000892?did=NA",
-    "https://view.asiae.co.kr/article/2026071711382426561"
+    "https://view.asiae.co.kr/article/2026071711382426561",
+    "https://www.hani.co.kr/arti/economy/economy_general/1268726.html",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1716786",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=875394",
+    "https://news.jtbc.co.kr/article/NB12308777?influxDiv=NAVER",
+    "https://www.sentv.co.kr/article/view/sentv202607160099",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=441365"
    ],
    "seen_titles": [
-    "이천갈산동‘이천휴먼빌클래스원’,16일견본주택개관",
-    "기아,ESG평가서최고'S등급'…이전대비한단계점프",
-    "일신건영'이천휴먼빌클래스원'7월16일견본주택개관",
-    "\"14조실탄장전\"…中CXMT역대급IPO'반도체자립'승부수",
-    "제주SK,포항전앞두고네게바결장…이창민복귀여부주목",
-    "전국민무료이용‘모두의AI’12월나온다...배경훈“보안특화모...",
     "[단일종목ETF딜레마]\"홍콩으로갈돈한국에묶은것\"…절대악은아...",
     "남해안우주항공산업벨트탄력…경남부동산시장도기대감↑",
     "정부가추진하는전국민무료‘모두의AI’...어떻게될까?",
@@ -3638,10 +3636,16 @@
     "최태원\"SK하닉샀다팔았다말고가만히갖고계셔라...우상향으로간...",
     "최태원회장“하이닉스주가우상향…샀다팔았다하지말라”",
     "최태원\"SK하이닉스주식사팔사팔말고갖고계세요\"",
-    "최태원\"SK하이닉스주가는우상향…가만히갖고있어야\""
+    "최태원\"SK하이닉스주가는우상향…가만히갖고있어야\"",
+    "최태원“SK하이닉스주식,샀다팔았다말고갖고있으면돼”",
+    "7조원빨아들인'삼전·닉스레버리지'…3000만원장벽에꺾일까",
+    "최태원,\"SK하이닉스주식갖고있다면잦은매매대신갖고있으라\"",
+    "최태원\"SK하이닉스샀다팔았다말라…메모리수요늘어\"",
+    "변동성요인꼽힌'단일종목레버리지',투자요건강화로보완",
+    "이상일용인특례시장,\"반도체속도전으로대한민국미래먹거리확보\""
    ],
    "initialized": true,
-   "last_run": "2026-07-17T11:45:27.194669+09:00"
+   "last_run": "2026-07-17T11:50:32.232140+09:00"
   }
  },
  "press_names": {
