@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-17T12:25:21.291856+09:00",
-     "경고 14번 사이드카 금융위기보다 삼전닉스"
-    ],
-    [
      "2026-07-17T12:30:42.009288+09:00",
      "privacy against breaches Lee urges stronger crimes deepfake safeguards"
     ],
@@ -286,13 +282,17 @@
     [
      "2026-07-17T18:20:33.177793+09:00",
      "대장주 내가 하한가 팔지 최태원 말라 하이닉스 반도체"
+    ],
+    [
+     "2026-07-17T18:25:23.326270+09:00",
+     "쇼크 비트코인 붕괴 리스크에 반도체 중동 6만3000달러"
+    ],
+    [
+     "2026-07-17T18:25:23.326270+09:00",
+     "베팅 반도체까지 전력망부터 인프라 재편 550조"
     ]
    ],
    "seen_urls": [
-    "https://www.sidae.com/article/2026071614571637200",
-    "https://www.pressian.com/pages/articles/2026071614215248100",
-    "https://www.thepublic.kr/news/articleView.html?idxno=311586",
-    "https://economist.co.kr/article/view/ecn202607160032",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8612655",
     "http://www.bizwnews.com/news/articleView.html?idxno=140854",
     "https://www.kwnews.co.kr/article/20260716500128",
@@ -1788,13 +1788,13 @@
     "https://www.dailian.co.kr/news/view/1668256/?sc=Naver",
     "https://www.gokorea.kr/news/articleView.html?idxno=872291",
     "https://www.yna.co.kr/view/AKR20260717050800007?input=1195m",
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/17/20260717500134?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/economy/securities/2026/07/17/20260717500134?wlog_tag3=naver",
+    "https://sports.hankooki.com/news/articleView.html?idxno=6936612",
+    "https://www.hani.co.kr/arti/opinion/editorial/1268778.html",
+    "https://www.newspim.com/news/view/20260717000193",
+    "https://www.goodkyung.com/news/articleView.html?idxno=289308"
    ],
    "seen_titles": [
-    "[아시아특징주]TSMC2분기이익,기대치큰폭초과…AI수요열기재...",
-    "신안우이해상풍력첫삽…이재명정부'국민성장펀드'1호물꼬",
-    "3조4000억투입국내해상풍령발전단시사업'첫삽'…신안해역에390M...",
-    "7000붕괴→7200회복→또급락…사흘새롤러코스터탄코스피",
     "널뛰기코스피에떠나는개미…예탁금10조증발·‘빚투’도급감",
     "이대통령“새만금9조투자가‘이게뭐야’?…이상한소리안돼”",
     "SK행복나눔재단'SunnyScholar',오는8월20일사회문제해결위한연구...",
@@ -3290,10 +3290,14 @@
     "[데일리안오늘뉴스종합]트럼프“중국이유권자정보빼”…대관령...",
     "최태원,\"AI시대,SK하이닉스주식장기투자전략이핵심\"",
     "권창훈,인니페르시자자카르타로이적…신태용감독과한솥밥",
-    "“하이닉스팔지말라”는최태원…日반도체대장주‘하한가’[내가..."
+    "“하이닉스팔지말라”는최태원…日반도체대장주‘하한가’[내가...",
+    "[건설소식]롯데건설·SK에코플랜트·IPARK현대산업개발·대우건설",
+    "[사설]‘레버리지ETF’대책,진입규제만으로변동성줄일수있나",
+    "[코인시황]비트코인6만3000달러붕괴…반도체쇼크·중동리스크에암...",
+    "AI인프라550조베팅…전력망부터반도체까지재편"
    ],
    "initialized": true,
-   "last_run": "2026-07-17T18:20:33.177793+09:00"
+   "last_run": "2026-07-17T18:25:23.326270+09:00"
   }
  },
  "press_names": {
