@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-18T01:30:43.176709+09:00",
-     "레버리지 7조 한달간 유입 개미"
-    ],
-    [
-     "2026-07-18T01:30:43.176709+09:00",
-     "레버리지 초단타 순자산 챙긴다 세력이 매매 손실 개인 4조"
-    ],
-    [
      "2026-07-18T01:45:29.020326+09:00",
      "공포 주가 피크아웃 덮친 반도체 줄줄이 급락"
     ],
@@ -266,13 +258,21 @@
     [
      "2026-07-18T07:30:38.289893+09:00",
      "수요 숨고르기 부담에 속도 조짐 HBM 투자 빅테크 조달 변수"
+    ],
+    [
+     "2026-07-18T07:35:19.101865+09:00",
+     "500조 키워야 ETF 국내 책임투자 운용사도 시대 역량 순자산"
+    ],
+    [
+     "2026-07-18T07:35:19.101865+09:00",
+     "장기 들고 최태원의 투자 있어라 그냥 SK하이닉스 팔았다 샀다 말고"
+    ],
+    [
+     "2026-07-18T07:35:19.101865+09:00",
+     "용인 신공장으로 반등 노린다 2027년 프로젝트 씨앤지하이테크"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/PYH20260716171500013?input=1196m",
-    "https://www.joongangenews.com/news/articleView.html?idxno=533510",
-    "https://www.newdaily.co.kr/site/data/html/2026/07/16/2026071600256.html",
-    "https://www.nocutnews.co.kr/news/6549308",
     "https://www.news2day.co.kr/article/20260716500201",
     "https://economist.co.kr/article/view/ecn202607160037",
     "https://www.g-enews.com/view.php?ud=202607161551252604923c501012_1",
@@ -1768,13 +1768,13 @@
     "https://www.dailian.co.kr/news/view/1667968/?sc=Naver",
     "https://www.seoulfn.com/news/articleView.html?idxno=633597",
     "http://www.jbsori.com/news/articleView.html?idxno=17602",
-    "https://www.g-enews.com/view.php?ud=202607180708261959fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202607180708261959fbbec65dfb_1",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685002",
+    "https://www.econovill.com/news/articleView.html?idxno=745514",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=61702",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469353"
    ],
    "seen_titles": [
-    "[탐사경]\"지표뒤에숨은'지갑'을보라\"…임금발물가상승에주목하는...",
-    "[마감시황]한은기준금리인상에국내증시'찬바람'",
-    "李대통령\"책임있는사람이이상한소리\"…'전북홀대론'직격",
-    "추미애\"삼성·SK반도체폐수,TSMC처럼6회재사용하라\"",
     "반도체업황우려에코스피·코스닥급락…매도사이드카잇달아발동(...",
     "올해만19번째매도사이드카…7,000선무너진코스피,‘반도체쇼크’...",
     "코스피,탈환하루만에7000선반납…삼전닉스8%·11%↓",
@@ -3270,10 +3270,14 @@
     "\"여행안가고삼전산다\"…연휴소비,이렇게바뀌었다",
     "[뉴욕증시]中문샷발AI투자회의론,반도체주'베어마켓'···유가급...",
     "'대체불가'와'희망고문'사이에서",
-    "AI투자숨고르기조짐…빅테크조달부담에HBM수요‘속도변수’"
+    "AI투자숨고르기조짐…빅테크조달부담에HBM수요‘속도변수’",
+    "AI메모리수요여파에인도스마트폰출하10%감소…6년만에최대낙...",
+    "국내ETF순자산500조시대…\"운용사도책임투자역량키워야\"",
+    "\"SK하이닉스,샀다팔았다말고그냥들고있어라\"최태원의장기투자...",
+    "씨앤지하이테크,용인프로젝트·신공장으로2027년반등노린다"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T07:30:38.289893+09:00"
+   "last_run": "2026-07-18T07:35:19.101865+09:00"
   }
  },
  "press_names": {
