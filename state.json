@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-17T08:20:33.854066+09:00",
-     "이달 오늘까지만 31일까지 무려 사용 가능 반값"
-    ],
-    [
      "2026-07-17T08:25:21.428551+09:00",
      "뉴욕증시 급락 반도체지수 흔들 고평가 부담에"
     ],
@@ -430,12 +426,17 @@
     [
      "2026-07-17T14:20:32.658034+09:00",
      "chip in Leveraged month W7tr rout lure ETFs despite"
+    ],
+    [
+     "2026-07-17T14:25:21.284031+09:00",
+     "30명 한국 성인 추산 폭락에 코스피 1명 마진콜"
+    ],
+    [
+     "2026-07-17T14:25:21.284031+09:00",
+     "부른다 외환시장 촉각 개입에 적극 강세가 엔화 원화 강세"
     ]
    ],
    "seen_urls": [
-    "https://www.energy-news.co.kr/news/articleView.html?idxno=226865",
-    "https://www.sedaily.com/article/20068585",
-    "https://www.viva100.com/article/20260716500608",
     "https://www.newspim.com/news/view/20260716000826",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04260726645515176",
     "https://www.goodkyung.com/news/articleView.html?idxno=289286",
@@ -1932,12 +1933,12 @@
     "https://www.daejonilbo.com/news/articleView.html?idxno=2288548",
     "https://www.newspim.com/news/view/20260717000141",
     "https://www.hani.co.kr/arti/economy/finance/1268735.html",
-    "https://www.koreaherald.com/article/10812032"
+    "https://www.koreaherald.com/article/10812032",
+    "https://www.kukinews.com/article/view/kuk202607140196",
+    "https://www.tokenpost.kr/news/insights/378748",
+    "https://view.asiae.co.kr/article/2026071513394832070"
    ],
    "seen_titles": [
-    "'플랜트명가'대우건설,울산북항LNG터미널3단계마무리",
-    "390MW신안우이해상풍력첫삽...국내공급망확대'신호탄'",
-    "3축지원으로550조AIDC속도전...‘미토스급’AI모델도전",
     "대우건설,‘울산북항LNG터미널3단계건설공사’준공",
     "[AI카드뉴스]왜나스닥일까?SK하이닉스ADR상장의의미",
     "'출퇴근30분'기업형첨단도시조성…지방중심'교통인프라'확충",
@@ -3434,10 +3435,13 @@
     "최태원\"SK하이닉스주식샀다팔았다말라…시간두면우상향\"",
     "최태원\"SK하이닉스주가,시간두면우상향…팔지말고보유\"",
     "한달새삼전·닉스주식‘반토막’…다시해외로눈돌리는개미들",
-    "LeveragedchipETFslureW7trin1monthdespitechiprout"
+    "LeveragedchipETFslureW7trin1monthdespitechiprout",
+    "단일종목레버리지키운금융당국,이제야‘시장안정’시도[취재진...",
+    "[마켓분석]코스피폭락에‘한국성인30명중1명’마진콜추산…빚...",
+    "\"엔화강세가원화강세부른다\"…日적극개입에외환시장'촉각'[주末..."
    ],
    "initialized": true,
-   "last_run": "2026-07-17T14:20:32.658034+09:00"
+   "last_run": "2026-07-17T14:25:21.284031+09:00"
   }
  },
  "press_names": {
