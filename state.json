@@ -146,10 +146,13 @@
     [
      "2026-07-18T00:35:24.596459+09:00",
      "구리시 광명시 남양주시 양평군 하남시"
+    ],
+    [
+     "2026-07-18T00:50:34.888763+09:00",
+     "낙관 수장들 하락 반도체 실적 글로벌"
     ]
    ],
    "seen_urls": [
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/16/2026071690218.html",
     "https://www.nocutnews.co.kr/news/6549262",
     "https://sateconomy.co.kr/news/view/1065594649007756",
     "https://www.newsis.com/view/NISX20260716_0003712549",
@@ -1648,10 +1651,10 @@
     "http://www.joseilbo.com/news/news_read.php?uid=572129&class=53",
     "https://www.asiatime.co.kr/article/20260716500294",
     "https://www.joongang.co.kr/article/25446009",
-    "https://www.ekn.kr/web/view.php?key=20260718027263514"
+    "https://www.ekn.kr/web/view.php?key=20260718027263514",
+    "https://www.chosun.com/economy/industry-company/2026/07/18/UE454XDO2BDMRHSYHP2AHDASVE/"
    ],
    "seen_titles": [
-    "최태원회장SNS서포착된뜻밖의흔적…“하이닉스광주오긴오나봄...",
     "과기부,AI중심'3대메가프로젝트'에총력…\"2027년까지최상위독자A...",
     "李\"전북소외론키우는공직자,가장나쁜행동…새만금,로봇계의TSMC로...",
     "공정위,대기업브랜드사용료첫심사기준마련…지주사내부거래들여...",
@@ -3150,10 +3153,11 @@
     "'AI지각생'이라더니…애플,엔비디아제치고시총1위탈환",
     "[분양캘린더]7월넷째주6468가구청약접수",
     "[에디터프리즘]월드컵과삼전닉스ETF",
-    "[패트롤]광명시-구리시-남양주시-양평군-하남시"
+    "[패트롤]광명시-구리시-남양주시-양평군-하남시",
+    "반도체수장들실적낙관…글로벌반도체株는하락"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T00:45:29.935565+09:00"
+   "last_run": "2026-07-18T00:50:34.888763+09:00"
   }
  },
  "press_names": {
