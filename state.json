@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-17T13:50:33.049648+09:00",
-     "likely trend shares to on upward memory says strong chi chief hynix"
-    ],
-    [
      "2026-07-17T14:00:48.753700+09:00",
      "기존라인 초조한 증설에 잇따른 삼전닉스의 호남반도체"
     ],
@@ -286,10 +282,13 @@
     [
      "2026-07-17T19:45:28.004292+09:00",
      "국장 삼성 비상 월요일 해외지표 보니 SK하이닉스"
+    ],
+    [
+     "2026-07-17T19:55:20.648945+09:00",
+     "내야 지원도 반도체 이상일 속도전 정부 용인시장 속도"
     ]
    ],
    "seen_urls": [
-    "https://www.newsway.co.kr/news/view?ud=2026071613552228371",
     "https://www.pressman.kr/news/articleView.html?idxno=102783",
     "https://www.sedaily.com/article/20068603",
     "https://kstar.kbs.co.kr/list_view.html?idx=406034",
@@ -1788,10 +1787,10 @@
     "https://www.pressian.com/pages/articles/2026071719095694718",
     "https://www.ngonews.kr/news/articleView.html?idxno=233186",
     "https://biz.heraldcorp.com/article/10812132",
-    "https://www.ajunews.com/view/20260717192739771"
+    "https://www.ajunews.com/view/20260717192739771",
+    "https://www.startuptoday.co.kr/news/articleView.html?idxno=806966"
    ],
    "seen_titles": [
-    "장중800수복했던코스닥,700선으로다시밀려[마켓시그널]",
     "중동리스크최고조에정유·석화주질주…실적기대감까지붙었다",
     "헌법·반도체·에너지·ESG,산업계,국가경쟁력재정비",
     "‘노동부청년사업’땐하이닉스가삼성보다먼저소개되는이유[양종...",
@@ -3290,10 +3289,11 @@
     "광주찾은정청래\"스님도,시장할머니도1인1표해줘서고맙다한다...",
     "최태원,\"SK하이닉스주식,샀다팔았다하지마라...갖고있으면올라가...",
     "“이미30%손실,월요일이두렵다”“난40%,손해가심해뺄수도없...",
-    "\"월요일국장비상\"?...삼성·SK하이닉스해외지표보니"
+    "\"월요일국장비상\"?...삼성·SK하이닉스해외지표보니",
+    "이상일용인시장\"반도체속도전,정부지원도속도내야\""
    ],
    "initialized": true,
-   "last_run": "2026-07-17T19:50:31.586245+09:00"
+   "last_run": "2026-07-17T19:55:20.648945+09:00"
   }
  },
  "press_names": {
