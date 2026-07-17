@@ -433,8 +433,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260716000826",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04260726645515176",
     "https://www.goodkyung.com/news/articleView.html?idxno=289286",
     "https://www.ytn.co.kr/_ln/0102_202607161442557317",
     "https://www.mt.co.kr/living/2026/07/16/2026071614284194965",
@@ -1932,11 +1930,11 @@
     "https://www.koreaherald.com/article/10812032",
     "https://www.kukinews.com/article/view/kuk202607140196",
     "https://www.tokenpost.kr/news/insights/378748",
-    "https://view.asiae.co.kr/article/2026071513394832070"
+    "https://view.asiae.co.kr/article/2026071513394832070",
+    "https://www.koreaherald.com/article/10812041",
+    "https://www.sidae.com/article/2026071712164843574"
    ],
    "seen_titles": [
-    "대우건설,‘울산북항LNG터미널3단계건설공사’준공",
-    "[AI카드뉴스]왜나스닥일까?SK하이닉스ADR상장의의미",
     "'출퇴근30분'기업형첨단도시조성…지방중심'교통인프라'확충",
     "[굿모닝!16일건설업계소식]대우건설·부영·롯데건설·LH·HUG·SK에코...",
     "롤러코스피7천밑으로폭락...한때매도사이드카",
@@ -3434,10 +3432,12 @@
     "LeveragedchipETFslureW7trin1monthdespitechiprout",
     "단일종목레버리지키운금융당국,이제야‘시장안정’시도[취재진...",
     "[마켓분석]코스피폭락에‘한국성인30명중1명’마진콜추산…빚...",
-    "\"엔화강세가원화강세부른다\"…日적극개입에외환시장'촉각'[주末..."
+    "\"엔화강세가원화강세부른다\"…日적극개입에외환시장'촉각'[주末...",
+    "SKGroupchieftellsSKhynixinvestors:'Justholdontoyourshares'",
+    "이상일용인시장\"정부,반도체지원말아닌행동보여야\""
    ],
    "initialized": true,
-   "last_run": "2026-07-17T14:30:41.754928+09:00"
+   "last_run": "2026-07-17T14:35:21.291705+09:00"
   }
  },
  "press_names": {
