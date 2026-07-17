@@ -130,10 +130,13 @@
     [
      "2026-07-18T02:30:41.272526+09:00",
      "감독이 옮겼다 페르시 반년 신태용 만에 이끄는 인니 둥지"
+    ],
+    [
+     "2026-07-18T03:00:45.366456+09:00",
+     "해상풍력 전남광주통합시 규모 국내 신안우이"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260716008100320?input=2106m",
     "https://en.yna.co.kr/view/AEN20260716008000320?input=2106m",
     "https://news.tvchosun.com/site/data/html_dir/2026/07/16/2026071690220.html",
     "http://www.4th.kr/news/articleView.html?idxno=2114872",
@@ -1632,10 +1635,10 @@
     "https://www.donga.com/news/Economy/article/all/20260717/134319265/2",
     "https://www.donga.com/news/Economy/article/all/20260717/134319364/2",
     "https://www.pharmnews.com/news/articleView.html?idxno=304982",
-    "https://www.goal.com/kr/뉴스/a/blt4772fdcd8327b273"
+    "https://www.goal.com/kr/뉴스/a/blt4772fdcd8327b273",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=312267"
    ],
    "seen_titles": [
-    "KOSPI200ClosingPriceList-5",
     "KOSPI200ClosingPriceList-2",
     "KOSPI200ClosingPriceList-1",
     "李대통령\"현대차,새만금투자엄청난것\"…'전북소외론'비판",
@@ -3134,10 +3137,11 @@
     "공급과잉-투자지연우려에반도체株휘청…美빅테크실적촉각",
     "‘피크아웃’공포덮친반도체,주가줄줄이급락",
     "SK바이오사이언스가던진화두...해외제조소시대,허가체계변화는",
-    "[오피셜]‘반년만에둥지옮겼다’신태용감독이이끄는인니페르시..."
+    "[오피셜]‘반년만에둥지옮겼다’신태용감독이이끄는인니페르시...",
+    "전남광주통합시,국내최대규모'신안우이해상풍력'첫삽"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T02:55:23.263730+09:00"
+   "last_run": "2026-07-18T03:00:45.366456+09:00"
   }
  },
  "press_names": {
