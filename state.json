@@ -490,11 +490,17 @@
     [
      "2026-07-17T09:25:23.762566+09:00",
      "수긍 할까 국민이"
+    ],
+    [
+     "2026-07-17T09:30:43.284412+09:00",
+     "핫라인 202조 투자 충남 삼성 지원 속도 높인다 첨단산업"
+    ],
+    [
+     "2026-07-17T09:30:43.284412+09:00",
+     "여주시 이천시 용인시"
     ]
    ],
    "seen_urls": [
-    "https://www.getnews.co.kr/news/articleView.html?idxno=875299",
-    "https://www.sisajournal.com/news/articleView.html?idxno=380124",
     "https://www.welfarenews.net/news/articleView.html?idxno=208568",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=61660",
     "https://www.welfarenews.net/news/articleView.html?idxno=208566",
@@ -1992,11 +1998,11 @@
     "https://www.hankyung.com/article/2026071707247",
     "https://www.mk.co.kr/article/12100896",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=422507",
-    "https://www.bigtanews.co.kr/article/view/big202607170002"
+    "https://www.bigtanews.co.kr/article/view/big202607170002",
+    "https://www.seoul.co.kr/news/economy/2026/07/17/20260717500022?wlog_tag3=naver",
+    "https://www.ekn.kr/web/view.php?key=20260717029213443"
    ],
    "seen_titles": [
-    "[마담P의오경제]유시민\"이제는받아들여요\"이말을국내증시에대...",
-    "[외환]한은금리인상소화하며1,480원대유지",
     "신·미디어업계,AI기반운영·광고·보안강화…하반기경쟁력확보총...",
     "대우건설,울산북항LNG터미널3단계준공...LNG명가저력재확인",
     "전력거래소\"전기차충전,봄·가을주말낮에하면최대15%할인\"",
@@ -3494,10 +3500,12 @@
     "\"도박판보다심해\"…한달새7조빨아들인삼전닉스레버리지",
     "“공포가주가흔들면저가매수”…반도체피크아웃론반박한SK증권[여...",
     "'신고가'이어지는랜드마크···하반기프리미엄분양'주목'",
-    "“국민이수긍할까”"
+    "“국민이수긍할까”",
+    "삼성등지원‘핫라인’…충남202조첨단산업투자속도높인다",
+    "[패트롤]용인시-여주시-이천시"
    ],
    "initialized": true,
-   "last_run": "2026-07-17T09:25:23.762566+09:00"
+   "last_run": "2026-07-17T09:30:43.284412+09:00"
   }
  },
  "press_names": {
