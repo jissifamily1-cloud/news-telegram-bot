@@ -625,9 +625,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.namdonews.com/news/articleView.html?idxno=917187",
-    "https://www.insight.co.kr/news/563410",
-    "https://www.ekn.kr/web/view.php?key=20260716025073151",
     "https://biz.sbs.co.kr/article_hub/20000322952?division=NAVER",
     "http://www.intn.co.kr/news/articleView.html?idxno=2051980",
     "https://www.meconomynews.com/news/articleView.html?idxno=132590",
@@ -2124,12 +2121,12 @@
     "https://www.autodaily.co.kr/news/articleView.html?idxno=545835",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=724546",
     "https://www.hankookilbo.com/news/article/A2026071316020000553?did=NA",
-    "https://news.bizwatch.co.kr/article/mobile/2026/06/23/0034"
+    "https://news.bizwatch.co.kr/article/mobile/2026/06/23/0034",
+    "https://www.kfenews.co.kr/news/articleView.html?idxno=660650",
+    "https://www.joongang.co.kr/article/25445893",
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/17/2026071790087.html"
    ],
    "seen_titles": [
-    "삼성·SK그룹등에이어포스코그룹도협력사상생협력확대동참",
-    "신안우이해상풍력착공…국내첫순수민간자본390MW해상풍력본격화",
-    "쿠팡,미국'로비논란'정면반박\"합법적활동...국내주요대기업보...",
     "‘국내순수자본’신안우이해상풍력착공…2029년상업가동목표",
     "[ETF따라잡기]현기증나는'롤러코스피'…급등락반복이유는?",
     "공정위원장,\"대기업–협력사간상생협력이곧지속성장의토대\"",
@@ -3626,10 +3623,13 @@
     "젠슨황\"베라루빈대규모생산중\"...삼성·SK하이닉스HBM4공급확대...",
     "[슬금슬금]같은하이닉스인데미국선50%비쌌다…'ADR가격차'사라질...",
     "반도체원리로작업복냉각,AI로체감온도관리...폭염대처도첨단기...",
-    "AI에이전트핵심은'검색'…RAG고도화나선기업들"
+    "AI에이전트핵심은'검색'…RAG고도화나선기업들",
+    "최태원\"SK하이닉스,가만히놔두면우상향…이젠지능수출국\"",
+    "최태원\"상품수출에서지능수출로…한국AI성장전략바꿔야\"",
+    "최태원\"하이닉스주식가만히갖고있는게재산보전방법\""
    ],
    "initialized": true,
-   "last_run": "2026-07-17T12:05:26.170887+09:00"
+   "last_run": "2026-07-17T12:10:33.210074+09:00"
   }
  },
  "press_names": {
