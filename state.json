@@ -325,7 +325,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008661676&plink=ORI&cooper=NAVER",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=388314",
     "https://www.newsis.com/view/NISX20260716_0003712836",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8612754",
@@ -1824,10 +1823,10 @@
     "https://www.newsis.com/view/NISX20260719_0003713895",
     "http://www.popcornnews.net/news/articleView.html?idxno=126935",
     "http://www.metroseoul.co.kr/article/20260719500016",
-    "https://www.newsis.com/view/NISX20260719_0003713891"
+    "https://www.newsis.com/view/NISX20260719_0003713891",
+    "https://www.etnews.com/20260719000007"
    ],
    "seen_titles": [
-    "미금리인상기대꺾이고한은은올리고…환율두달만에최저",
     "코스피,반도체급락에또'7,000선'붕괴...사이드카발동속6.37%폭락",
     "\"AI데이터센터'임대업'분류바뀌어야…반도체특별법수준지원필요...",
     "추미애,“용인반도체폐수기준위반시엄중조치”…삼성·SK에행정...",
@@ -3326,10 +3325,11 @@
     "경북도\"구미중심소부장·국방반도체혁신거점조성\"",
     "SKT,'TECH4GOOD해커톤'진행…미래AI인재양성",
     "[분양캘린더]7월넷째주'춘천리버뷰아이파크'등8905가구",
-    "'800조반도체'에광주4대군사시설재배치급물살"
+    "'800조반도체'에광주4대군사시설재배치급물살",
+    "SKT-하나금융,'테크포굿해커톤'개최…'T1'팀대상수상"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T08:50:26.313885+09:00"
+   "last_run": "2026-07-19T08:54:57.260900+09:00"
   }
  },
  "press_names": {
