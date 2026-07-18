@@ -298,11 +298,13 @@
     [
      "2026-07-18T14:05:20.927184+09:00",
      "코스피 증권사도 돌아서 목표가 밀리자 하향 리포트 7000선 상향"
+    ],
+    [
+     "2026-07-18T14:10:30.217803+09:00",
+     "심리도 극심한 투자 위축시켜 변동성"
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202607161633030338",
-    "https://biz.heraldcorp.com/article/10811517",
     "http://www.fnnews.com/news/202607161635184819",
     "https://www.joongang.co.kr/article/25445703",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469155",
@@ -1800,11 +1802,11 @@
     "https://www.sentv.co.kr/article/view/sentv202607180008",
     "https://www.seoulfn.com/news/articleView.html?idxno=633577",
     "https://www.hankyung.com/article/2026071699946",
-    "https://www.sedaily.com/article/20068804"
+    "https://www.sedaily.com/article/20068804",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=356108",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2449912"
    ],
    "seen_titles": [
-    "단일종목레버리지투자문턱높인다…추가매수때예탁금3000만원",
-    "단일종목레버리지신규출시중단…예탁금3000만원·20주씩매매",
     "\"美개미는하이닉스를'롱·숏'으로샀다\"…첫날3.3억달러베팅",
     "쿠팡반박한李“개인정보유출제재,나만표적?법에따른것”",
     "[코스피지수선물옵션]\"1조원대매물쏟아졌다\"…삼성전자·SK하이닉...",
@@ -3302,10 +3304,12 @@
     "증시조정에인버스ETF강세…한달수익률40%돌파",
     "\"AI시대에너지유니콘키운다\"···한전기술지주공식출범",
     "청주에서뉴욕까지…HBM개척'메모리마스터'최태원의발자취[강경주...",
-    "코스피7000선밀리자증권사도돌아서…목표가하향리포트,상향첫추..."
+    "코스피7000선밀리자증권사도돌아서…목표가하향리포트,상향첫추...",
+    "'이혼후오른주식가치'도나눌까…24일최태원·노소영재산분할선...",
+    "[증시동향]극심한변동성,투자심리도위축시켜"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T14:05:20.927184+09:00"
+   "last_run": "2026-07-18T14:10:30.217803+09:00"
   }
  },
  "press_names": {
