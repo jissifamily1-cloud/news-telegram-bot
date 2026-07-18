@@ -154,10 +154,13 @@
     [
      "2026-07-18T20:00:41.039153+09:00",
      "코스닥은 빠지나 오를 쏠림 코스피 반도체"
+    ],
+    [
+     "2026-07-18T20:10:28.655833+09:00",
+     "난항 코앞인데 입주 기업 유치 계양테크노밸리 앵커"
     ]
    ],
    "seen_urls": [
-    "http://www.segyebiz.com/newsView/20260716519562?OutUrl=naver",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684789",
     "https://www.viva100.com/article/20260716500816",
     "http://www.fnnews.com/news/202607161651092195",
@@ -1656,10 +1659,10 @@
     "https://www.mk.co.kr/article/12101464",
     "https://news.tvchosun.com/site/data/html_dir/2026/07/18/2026071890141.html",
     "https://www.naeil.com/news/read/595661",
-    "http://www.inews24.com/view/1986543"
+    "http://www.inews24.com/view/1986543",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1531111"
    ],
    "seen_titles": [
-    "레버리지ETF과열에신규상장잠정중단…기본예탁금1천→3천만원상...",
     "급등락부른단일레버리지...예탁금3배높여거래문턱높인다",
     "[마감시황]코스피하루만에7000선반납…코스닥도800선붕괴",
     "영국앤공주,고려대산학협력첨단연구현장시찰",
@@ -3158,10 +3161,11 @@
     "‘22℃흐린날씨’반기는강원정경호감독“축구하기좋은날…고강...",
     "멀미나는'롤러코스피'에증권株도약세…증권지수3.17%↓",
     "고려대,LLM운영비줄이는인공지능시스템기술개발",
-    "코스피오를때코스닥은왜빠지나⋯반도체쏠림탓?"
+    "코스피오를때코스닥은왜빠지나⋯반도체쏠림탓?",
+    "입주코앞인데…계양테크노밸리앵커기업유치'난항'"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T20:05:21.798305+09:00"
+   "last_run": "2026-07-18T20:10:28.655833+09:00"
   }
  },
  "press_names": {
