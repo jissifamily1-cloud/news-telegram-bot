@@ -62,10 +62,13 @@
     [
      "2026-07-19T03:27:30.158789+09:00",
      "엔비디아 조절 감소 속도 대비 애플 1위 시총 고점 투자 장중"
+    ],
+    [
+     "2026-07-19T03:50:27.108252+09:00",
+     "500은 최고치 기술주 사상 폭락에도 금융주 버텼다"
     ]
    ],
    "seen_urls": [
-    "http://weekly.chosun.com/news/articleView.html?idxno=53536",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2449774",
     "https://www.newspim.com/news/view/20260716001112",
     "https://news.mtn.co.kr/news-detail/2026071515082211264",
@@ -1564,10 +1567,10 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=850964",
     "https://www.g-enews.com/view.php?ud=202607181659299546fbbec65dfb_1",
     "https://www.g-enews.com/view.php?ud=202607181702338795fbbec65dfb_1",
-    "https://www.g-enews.com/view.php?ud=202607181705319391fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202607181705319391fbbec65dfb_1",
+    "https://www.g-enews.com/view.php?ud=202607181713098267fbbec65dfb_1"
    ],
    "seen_titles": [
-    "'삼전닉스'레버리지죈다…예탁금1000만→3000만원",
     "'남해안우주항공산업벨트'구축속도전···경남부동산시장기대감...",
     "[ETF시황]급락장에인버스ETF'강세'…레버리지규제도본격화",
     "세계첫식물성콜라겐만든로가…생상적금융이더한성장[금융이키...",
@@ -3066,10 +3069,11 @@
     "'제르소결승골'인천,전북1-0제압…연패탈출",
     "반도체주과속에급브레이크…내계좌돌파구는어디에",
     "외국인코스피순매도에도보유비중은연초대비크게상승",
-    "엔비디아고점대비시총감소…AI투자속도조절속애플장중1위"
+    "엔비디아고점대비시총감소…AI투자속도조절속애플장중1위",
+    "금융주사상최고치…기술주폭락에도S&P500은버텼다"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T03:45:24.636446+09:00"
+   "last_run": "2026-07-19T03:50:27.108252+09:00"
   }
  },
  "press_names": {
