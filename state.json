@@ -162,11 +162,17 @@
     [
      "2026-07-18T18:35:21.264129+09:00",
      "애플 시총 인버스 장중 탈환 수익 ETF 1위"
+    ],
+    [
+     "2026-07-18T18:50:25.394422+09:00",
+     "SK에코플랜트 빈소 찾아 안전관리 개선 사과 대표 이주노동자 현장"
+    ],
+    [
+     "2026-07-18T18:50:25.394422+09:00",
+     "세제 한은 금리 인상 기조 부동산 개편 다가온 대토론회"
     ]
    ],
    "seen_urls": [
-    "http://www.newstomato.com/ReadNews.aspx?no=1307420&inflow=N",
-    "https://www.news2day.co.kr/article/20260716500218",
     "https://www.sentv.co.kr/article/view/sentv202607160144",
     "https://www.dailian.co.kr/news/view/1668070/?sc=Naver",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/16/2026071600284.html",
@@ -1664,11 +1670,11 @@
     "https://www.joongangenews.com/news/articleView.html?idxno=533648",
     "http://www.maniareport.com/view.php?ud=2026071818233618276cf2d78c68_19",
     "https://news.tvchosun.com/site/data/html_dir/2026/07/18/2026071890097.html",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1716841"
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1716841",
+    "https://sateconomy.co.kr/news/view/1065604874266627",
+    "https://www.ytn.co.kr/_ln/0102_202607181840418700"
    ],
    "seen_titles": [
-    "반도체투매에코스피6800선붕괴",
-    "(마감시황)코스피,반도체쇼크에6%급락…사이드카발동속6,820선후...",
     "단일종목레버리지예탁금3000만원으로…신규상장도중단",
     "삼전·닉스레버리지,투자문턱높인다",
     "통신3사,여름휴가철통신망특별관리…AI관제부터긴급복구까지...",
@@ -3166,10 +3172,12 @@
     "최태원\"SK하이닉스주가결국오른다\"...AI메모리성장에장기우상향...",
     "대전,울산상대4연승도전...\"6경기무승끊고터닝포인트만든다\"",
     "\"제헌절이코스피구했다\"…미국서SK하이닉스폭락에개미들\"월요일도...",
-    "[EBN오늘(18일)이슈종합]애플장중시총1위탈환,인버스ETF'수익..."
+    "[EBN오늘(18일)이슈종합]애플장중시총1위탈환,인버스ETF'수익...",
+    "SK에코플랜트대표,이주노동자빈소찾아사과…현장안전관리개선여...",
+    "한은'금리인상기조'...다가온부동산대토론회·세제개편"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T18:45:24.229542+09:00"
+   "last_run": "2026-07-18T18:50:25.394422+09:00"
   }
  },
  "press_names": {
