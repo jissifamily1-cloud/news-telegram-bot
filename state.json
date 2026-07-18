@@ -310,14 +310,21 @@
     [
      "2026-07-19T08:45:28.338991+09:00",
      "롤러코스터 주간증시전망 향방 가른다 증시 실적이"
+    ],
+    [
+     "2026-07-19T08:50:26.313885+09:00",
+     "해커톤 TECH4GOOD 미래 양성 인재 진행 SKT"
+    ],
+    [
+     "2026-07-19T08:50:26.313885+09:00",
+     "춘천리버뷰아이파크 8905가구 7월 넷째주"
+    ],
+    [
+     "2026-07-19T08:50:26.313885+09:00",
+     "반도체 800조 광주 군사시설 4대 급물살 재배치"
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4425520",
-    "https://www.newsinside.kr/news/articleView.html?idxno=4842813",
-    "https://www.fntimes.com/html/view.php?ud=2026071616535181690f4390e77d_18",
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=79968",
-    "https://www.mk.co.kr/article/12100485",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008661676&plink=ORI&cooper=NAVER",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=388314",
     "https://www.newsis.com/view/NISX20260716_0003712836",
@@ -1812,14 +1819,14 @@
     "https://biz.heraldcorp.com/article/10811500",
     "https://www.etnews.com/20260719000005",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008663688&plink=ORI&cooper=NAVER",
-    "http://www.newstomato.com/ReadNews.aspx?no=1307474&inflow=N"
+    "http://www.newstomato.com/ReadNews.aspx?no=1307474&inflow=N",
+    "https://www.kyeonggi.com/article/20260719580029",
+    "https://www.newsis.com/view/NISX20260719_0003713895",
+    "http://www.popcornnews.net/news/articleView.html?idxno=126935",
+    "http://www.metroseoul.co.kr/article/20260719500016",
+    "https://www.newsis.com/view/NISX20260719_0003713891"
    ],
    "seen_titles": [
-    "달러-원,SK하이닉스매도물량출회속1,480원선하향이탈",
-    "'삼전닉스'레버리지,예탁금3000만원으로...20주씩만매매",
-    "단일종목레버리지기본예탁금현금3000만원으로상향…신규상장잠정...",
-    "'삼전닉스'레버리지예탁금현금3천만원으로상향…최소20주거래",
-    "전국민무료이용'모두의AI'12월나온다",
     "미금리인상기대꺾이고한은은올리고…환율두달만에최저",
     "코스피,반도체급락에또'7,000선'붕괴...사이드카발동속6.37%폭락",
     "\"AI데이터센터'임대업'분류바뀌어야…반도체특별법수준지원필요...",
@@ -3314,10 +3321,15 @@
     "예탁금‘28조증발’에도개미는떠나지않았다…“실탄고갈아닌배...",
     "경북도,기술개발부터팹유치까지…'경북형반도체선순환생태계'조...",
     "이번주김건희'3대의혹'상고심…최태원'세기의재산분할'선고도",
-    "(주간증시전망)롤러코스터증시,실적이향방가른다"
+    "(주간증시전망)롤러코스터증시,실적이향방가른다",
+    "삼성,글로벌브랜드가치8위·144조원돌파…중국약진에존재감은줄...",
+    "경북도\"구미중심소부장·국방반도체혁신거점조성\"",
+    "SKT,'TECH4GOOD해커톤'진행…미래AI인재양성",
+    "[분양캘린더]7월넷째주'춘천리버뷰아이파크'등8905가구",
+    "'800조반도체'에광주4대군사시설재배치급물살"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T08:45:28.338991+09:00"
+   "last_run": "2026-07-19T08:50:26.313885+09:00"
   }
  },
  "press_names": {
