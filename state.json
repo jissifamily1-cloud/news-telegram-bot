@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-18T10:15:25.697426+09:00",
-     "경북 대상 반도체 2023년부터 스쿨 구미시 고등학생 해마다 운영"
-    ],
-    [
-     "2026-07-18T10:15:25.697426+09:00",
-     "하이퍼엔드 더블생활권 센텀 광안 알티에로 단지"
-    ],
-    [
      "2026-07-18T10:25:21.287749+09:00",
      "5거래일 도약 최근 5만원대 4만원대서 주가 SK이터닉스"
     ],
@@ -221,7 +213,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.s-journal.co.kr/news/articleView.html?idxno=42461",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607161639053530476",
     "https://www.imaeil.com/page/view/2026071616313789172",
     "https://www.koreatimes.co.kr/path/A2026071614540000333",
@@ -1720,10 +1711,10 @@
     "http://www.the-biz.co.kr/news/articleView.html?idxno=724575",
     "https://www.yna.co.kr/view/AKR20260718036300003?input=1195m",
     "https://www.mk.co.kr/article/12101425",
-    "https://www.insight.co.kr/news/563566"
+    "https://www.insight.co.kr/news/563566",
+    "https://biz.sbs.co.kr/article_hub/20000323170?division=NAVER"
    ],
    "seen_titles": [
-    "단일종목레버리지예탁금현금3000만원강화…20주씩매매가능",
     "단일종목레버리지ETF기본예탁금3000만원상향…매매수량단위1좌...",
     "단일종목레버리지ETF문턱높인다…예탁금'현금3000만원'으로상향",
     "USseeksshareofKoreanchipmakers’‘excessprofits’:source",
@@ -3222,10 +3213,11 @@
     "[증시주간핫리뷰]반도체고점론에흔들린증시…대통령\"레버리지...",
     "미얀마노동자숨진공사현장시공사대표,유족만나사과",
     "주가반토막에도7조베팅한개미들…삼전·하닉레버리지문턱높인다",
-    "SK하이닉스,'영업익10%'성과급에주식선택지...보상체계재설계"
+    "SK하이닉스,'영업익10%'성과급에주식선택지...보상체계재설계",
+    "KTX공사장미얀마노동자사망사고에…SK에코플랜트대표,유족에사과"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T16:15:23.879969+09:00"
+   "last_run": "2026-07-18T16:20:28.303177+09:00"
   }
  },
  "press_names": {
