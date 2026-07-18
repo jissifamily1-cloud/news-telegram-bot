@@ -198,11 +198,13 @@
     [
      "2026-07-18T16:25:20.041146+09:00",
      "제헌절이 국내증시 휴장에 코스피 살렸다 개미들 안도"
+    ],
+    [
+     "2026-07-18T16:50:26.361887+09:00",
+     "우상향 최태원 자신 급락 주가 주목 SK하이닉스 장기수요"
     ]
    ],
    "seen_urls": [
-    "http://www.4th.kr/news/articleView.html?idxno=2114880",
-    "https://news.dealsitetv.com/articles/173427",
     "https://www.getnews.co.kr/news/articleView.html?idxno=875348",
     "https://www.smarttoday.co.kr/ko-kr/articles/109568",
     "https://www.ekn.kr/web/view.php?key=20260716022563201",
@@ -1700,11 +1702,11 @@
     "https://biz.sbs.co.kr/article_hub/20000323170?division=NAVER",
     "https://biz.heraldcorp.com/article/10812379",
     "https://www.mk.co.kr/article/12101428",
-    "http://www.fnnews.com/news/202607181612491496"
+    "http://www.fnnews.com/news/202607181612491496",
+    "https://www.m-economynews.com/news/article.html?no=68854",
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=422514"
    ],
    "seen_titles": [
-    "단일종목ETF기본예탁금현금3천만원·매매단위20주로상향",
-    "[중화학노트]마샤블랙번美상원의원고려아연테네시제련소방문外",
     "'롤러코스피,'하루만에7,000선반납...6%대급락",
     "삼전닉스레버리지ETF,삼성전자1주가격거래..예탁금현금3000만원...",
     "울산북항LNG터미널3단계준공…21.5만㎘저장용량추가",
@@ -3202,10 +3204,12 @@
     "KTX공사장미얀마노동자사망사고에…SK에코플랜트대표,유족에사과",
     "김영식SK에코플랜트대표,공사현장서사망한미얀마노동자유족만나...",
     "“제헌절이코스피살렸다”…국내증시휴장에개미들안도,왜?",
-    "SK에코대표,공사현장서숨진미얀마노동자유족에사과"
+    "SK에코대표,공사현장서숨진미얀마노동자유족에사과",
+    "SK에코대표,미얀마노동자유족만나사과",
+    "최태원,SK하이닉스우상향자신···주가급락속장기수요주목"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T16:45:26.586012+09:00"
+   "last_run": "2026-07-18T16:50:26.361887+09:00"
   }
  },
  "press_names": {
