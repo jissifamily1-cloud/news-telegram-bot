@@ -145,7 +145,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.4th.kr/news/articleView.html?idxno=2114879",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=266773",
     "http://www.amnews.co.kr/news/articleView.html?idxno=73578",
     "https://news.dealsitetv.com/articles/173430",
@@ -1644,10 +1643,10 @@
     "https://biz.heraldcorp.com/article/10812484",
     "https://www.yna.co.kr/view/AKR20260718045300007?input=1195m",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596113",
-    "https://www.bzeronews.com/news/articleView.html?idxno=820215"
+    "https://www.bzeronews.com/news/articleView.html?idxno=820215",
+    "http://www.incheonin.com/news/articleView.html?idxno=119392"
    ],
    "seen_titles": [
-    "대우건설,울산북항LNG저장탱크3기완성",
     "SK브로드밴드,'Btv+max'고객대상'이승철콘서트'티켓증정…22일...",
     "[특별인터뷰]최영호국민주권전국회의상임대표",
     "[건설플러스]HJ중공업과삼성물산‘홈닉’스마트서비스확대外",
@@ -3146,10 +3145,11 @@
     "“펑·펑”잇따른폭발음속매연진동…인천쿠팡물류센터13시간째사...",
     "[프로축구서귀포전적]제주2-1포항",
     "'김신진-이탈로연속골'제주SK,포항에2-1역전승...5G만에승전보",
-    "미호강3개연작한자리에…신명현의'시간기록'"
+    "미호강3개연작한자리에…신명현의'시간기록'",
+    "\"펑·펑,수십차례폭발음\"…13시간째진화중석남동쿠팡물류센터"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T21:40:29.045571+09:00"
+   "last_run": "2026-07-18T21:45:25.164261+09:00"
   }
  },
  "press_names": {
