@@ -142,11 +142,13 @@
     [
      "2026-07-18T21:40:29.045571+09:00",
      "연작 미호강 한자리에 시간 기록 신명현의 3개"
+    ],
+    [
+     "2026-07-18T21:50:27.875752+09:00",
+     "2위 멀티골 강원 웃었다 경쟁에서 K리그1 홀로 김대원"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=266773",
-    "http://www.amnews.co.kr/news/articleView.html?idxno=73578",
     "https://news.dealsitetv.com/articles/173430",
     "https://ilyo.co.kr/?ac=article_view&entry_id=511903",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=422501",
@@ -1644,11 +1646,11 @@
     "https://www.yna.co.kr/view/AKR20260718045300007?input=1195m",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596113",
     "https://www.bzeronews.com/news/articleView.html?idxno=820215",
-    "http://www.incheonin.com/news/articleView.html?idxno=119392"
+    "http://www.incheonin.com/news/articleView.html?idxno=119392",
+    "http://www.osen.co.kr/article/G1112842203",
+    "https://www.nocutnews.co.kr/news/6549766"
    ],
    "seen_titles": [
-    "SK브로드밴드,'Btv+max'고객대상'이승철콘서트'티켓증정…22일...",
-    "[특별인터뷰]최영호국민주권전국회의상임대표",
     "[건설플러스]HJ중공업과삼성물산‘홈닉’스마트서비스확대外",
     "벤투부터아기레까지후보는넘치는데…한국축구새사령탑잘뽑을까",
     "\"AI데이터센터사업을'부동산임대업'취급\"···SK·삼성·네이버세제...",
@@ -3146,10 +3148,12 @@
     "[프로축구서귀포전적]제주2-1포항",
     "'김신진-이탈로연속골'제주SK,포항에2-1역전승...5G만에승전보",
     "미호강3개연작한자리에…신명현의'시간기록'",
-    "\"펑·펑,수십차례폭발음\"…13시간째진화중석남동쿠팡물류센터"
+    "\"펑·펑,수십차례폭발음\"…13시간째진화중석남동쿠팡물류센터",
+    "전북정정용감독,\"대전전서는꼭성과만들어팬들께즐거움드리겠다...",
+    "'김대원멀티골'강원,K리그12위경쟁에서홀로웃었다"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T21:45:25.164261+09:00"
+   "last_run": "2026-07-18T21:50:27.875752+09:00"
   }
  },
  "press_names": {
