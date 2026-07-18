@@ -137,7 +137,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ngonews.kr/news/articleView.html?idxno=233117",
     "https://www.newspim.com/news/view/20260716000980",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607160355&t=NN",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260716010006209",
@@ -1636,10 +1635,10 @@
     "https://www.news1.kr/sports/soccer/6231780",
     "https://www.news1.kr/sports/soccer/6231781",
     "https://www.munhwa.com/article/11603389",
-    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553385931"
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553385931",
+    "http://www.maniareport.com/view.php?ud=202607182207315374dad9f33a29_19"
    ],
    "seen_titles": [
-    "\"또이주노동자의죽음\"...KTX공사장참사에'죽음의이주화'중단촉...",
     "ASML이어TSMC도'깜짝실적'…AI거품론불식에국내기대고조",
     "[속보]삼전닉스레버리지,11월부터'1주씩'못산다",
     "내주식판돈담보로연10%…‘T+1’시행시증권사이자장사꼼수줄...",
@@ -3138,10 +3137,11 @@
     "'제르소결승골'인천,전북격침…강원,'10명싸운'김천제압",
     "[K리그1]전적종합(18일)",
     "‘펑펑’수십차례폭발음…13시간째불길안잡히는인천쿠팡물류센...",
-    "[현장목소리]'제주SK데뷔골'김신진,\"그동안의서러움이날아가는느..."
+    "[현장목소리]'제주SK데뷔골'김신진,\"그동안의서러움이날아가는느...",
+    "'김대원멀티골'강원,김천꺾고2위탈환...전북은인천에덜미,상위..."
    ],
    "initialized": true,
-   "last_run": "2026-07-18T22:50:27.438732+09:00"
+   "last_run": "2026-07-18T22:55:19.960261+09:00"
   }
  },
  "press_names": {
