@@ -238,12 +238,17 @@
     [
      "2026-07-18T16:00:43.089536+09:00",
      "논의 분배 삼성 산업부 하이닉스 이익 측과"
+    ],
+    [
+     "2026-07-18T16:05:20.991555+09:00",
+     "재설계 조현준 최태원 나선 인문학 재계 창사 선언한 공채"
+    ],
+    [
+     "2026-07-18T16:05:20.991555+09:00",
+     "증시 대통령 흔들린 반도체 레버리지 고점론에"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260716165351002?input=1195m",
-    "https://www.joongang.co.kr/article/25445705",
-    "http://www.inews24.com/view/1986362",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8612712",
     "http://www.ttlnews.com/news/articleView.html?idxno=3126181",
     "https://en.yna.co.kr/view/AEN20260716008900320?input=2106m",
@@ -1740,12 +1745,12 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607180201&t=NN",
     "https://www.mediapen.com/news/view/1110832",
     "https://www.topstarnews.net/news/articleView.html?idxno=16138633",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8614022"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8614022",
+    "https://economist.co.kr/article/view/ecn202607180013",
+    "https://www.dailian.co.kr/news/view/1668133/?sc=Naver",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=724575"
    ],
    "seen_titles": [
-    "'삼전닉스'레버리지예탁금현금3천만원으로↑…20주씩만매매(종합)",
-    "추미애“삼성전자·하이닉스공정수재사용횟수늘려라”행정권고",
-    "한국이어일본찾은젠슨황…피지컬AI동맹확대",
     "[NewsToday]Pres.LeecallsforleveragedETFfix",
     "대우건설,2235억원규모울산북항LNG터미널3단계준공…국내최대...",
     "RegulatorunveilsmeasuresonleveragedETFsamidwildswings",
@@ -3242,10 +3247,13 @@
     "증시폭락할수록웃었다…상위권휩쓴ETF",
     "최태원대한상의회장\"십시일반힘모으면사회바꿀것\"…제주포럼성...",
     "SK디앤디,투자주의종목지정→소수계좌매도집중",
-    "산업부“미측과삼성·하이닉스이익분배논의안해”"
+    "산업부“미측과삼성·하이닉스이익분배논의안해”",
+    "연기금,간만에2주연속순매수…급락장서저가매수한'이종목'",
+    "'AI재설계'선언한최태원,창사첫'인문학공채'나선조현준[재계-...",
+    "[증시주간핫리뷰]반도체고점론에흔들린증시…대통령\"레버리지..."
    ],
    "initialized": true,
-   "last_run": "2026-07-18T16:00:43.089536+09:00"
+   "last_run": "2026-07-18T16:05:20.991555+09:00"
   }
  },
  "press_names": {
