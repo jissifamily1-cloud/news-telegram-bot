@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-18T12:25:21.841648+09:00",
-     "코스피 블랙먼데이 연휴에 날벼락 오나"
-    ],
-    [
-     "2026-07-18T12:25:21.841648+09:00",
-     "반도체 순환매가 전쟁과 랠리는 끝났나 동시에 덮쳤다"
-    ],
-    [
      "2026-07-18T12:45:23.445619+09:00",
      "자본시장 계좌는 가벼워질까 코스피는 민낯 한국 올랐다는데"
     ],
@@ -173,8 +165,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.imaeil.com/page/view/2026071616472014776",
-    "https://www.mt.co.kr/policy/2026/07/16/2026071616381092386",
     "https://news.jtbc.co.kr/article/NB12308663?influxDiv=NAVER",
     "http://www.newstomato.com/ReadNews.aspx?no=1307420&inflow=N",
     "https://www.news2day.co.kr/article/20260716500218",
@@ -1672,11 +1662,11 @@
     "https://www.etoday.co.kr/news/view/2604476",
     "https://www.dailian.co.kr/news/view/1668347/?sc=Naver",
     "http://www.yonhapnewstv.co.kr/news/MYH202607181810252ad",
-    "https://www.joongangenews.com/news/articleView.html?idxno=533648"
+    "https://www.joongangenews.com/news/articleView.html?idxno=533648",
+    "http://www.maniareport.com/view.php?ud=2026071818233618276cf2d78c68_19",
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/18/2026071890097.html"
    ],
    "seen_titles": [
-    "美금리인상기대꺾이고한은은올리고…환율두달만에최저",
-    "추미애,삼전닉스에행정권고\"TSMC처럼공정수재사용늘려라\"",
     "최태원\"모두가반대한하이닉스인수…메모리잠재력믿었다\"",
     "반도체투매에코스피6800선붕괴",
     "(마감시황)코스피,반도체쇼크에6%급락…사이드카발동속6,820선후...",
@@ -3174,10 +3164,12 @@
     "충청권392조첨단산업투자…세종,‘자족도시’도약하나",
     "[데일리안오늘뉴스종합]'부산북갑'넘어전국으로,당내출마자격...",
     "\"예탁금3천만원\"레버리지대책…효과는미지수",
-    "최태원\"SK하이닉스주가결국오른다\"...AI메모리성장에장기우상향..."
+    "최태원\"SK하이닉스주가결국오른다\"...AI메모리성장에장기우상향...",
+    "대전,울산상대4연승도전...\"6경기무승끊고터닝포인트만든다\"",
+    "\"제헌절이코스피구했다\"…미국서SK하이닉스폭락에개미들\"월요일도..."
    ],
    "initialized": true,
-   "last_run": "2026-07-18T18:25:20.936010+09:00"
+   "last_run": "2026-07-18T18:30:33.649582+09:00"
   }
  },
  "press_names": {
