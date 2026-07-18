@@ -158,10 +158,13 @@
     [
      "2026-07-18T19:45:23.990951+09:00",
      "축구하기 좋은 강원 감독 정경호 반기는 고강 날씨 흐린"
+    ],
+    [
+     "2026-07-18T19:55:21.060819+09:00",
+     "LLM 줄이는 인공지능 운영비 고려대 시스템 기술 개발"
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/economy/2344296.htm",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=724578",
     "http://www.segyebiz.com/newsView/20260716519562?OutUrl=naver",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684789",
@@ -1660,10 +1663,10 @@
     "http://www.breaknews.com/1222552",
     "https://www.mk.co.kr/article/12101465",
     "https://www.mk.co.kr/article/12101464",
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/18/2026071890141.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/18/2026071890141.html",
+    "https://www.naeil.com/news/read/595661"
    ],
    "seen_titles": [
-    "'삼전·닉스'쏠림에칼뺐다…레버리지예탁금1000만→3000만원",
     "단일종목레버리지ETF,'신규상장'중단…기본예탁금3000만원으로상...",
     "레버리지ETF과열에신규상장잠정중단…기본예탁금1천→3천만원상...",
     "급등락부른단일레버리지...예탁금3배높여거래문턱높인다",
@@ -3162,10 +3165,11 @@
     "[격문]호남반도체프로젝트와보수정당인국민의힘의품격",
     "“돈복사해보려다계좌다녹았어요”…뒤늦게레버리지손질나선금...",
     "‘22℃흐린날씨’반기는강원정경호감독“축구하기좋은날…고강...",
-    "멀미나는'롤러코스피'에증권株도약세…증권지수3.17%↓"
+    "멀미나는'롤러코스피'에증권株도약세…증권지수3.17%↓",
+    "고려대,LLM운영비줄이는인공지능시스템기술개발"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T19:50:27.405564+09:00"
+   "last_run": "2026-07-18T19:55:21.060819+09:00"
   }
  },
  "press_names": {
