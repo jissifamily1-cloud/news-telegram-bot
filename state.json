@@ -134,11 +134,13 @@
     [
      "2026-07-18T22:00:40.119164+09:00",
      "인천 제주도 나란히 승리 강원 프로축구 전북 제압"
+    ],
+    [
+     "2026-07-18T22:15:24.549266+09:00",
+     "제주SK에 3연승 포항스틸러스 실패 역전패"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04982326645515176",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=312236",
     "https://zdnet.co.kr/view/?no=20260716151911",
     "https://www.mt.co.kr/stock/2026/07/16/2026071616071724498",
     "https://www.asiatime.co.kr/article/20260716500334",
@@ -1636,11 +1638,11 @@
     "https://www.newsis.com/view/NISX20260718_0003713753",
     "https://www.mbceg.co.kr/post/138358",
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553385921",
-    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596116"
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596116",
+    "http://www.newstown.co.kr/news/articleView.html?idxno=709511",
+    "https://www.hidomin.com/news/articleView.html?idxno=713680"
    ],
    "seen_titles": [
-    "\"韓,아시아AI허브적지\"…SK·GS·네이버,550조'AI팩토리'영토넓힌...",
-    "코스피,기준금리인상여파에6.4%급락6800대마감…'칠천피'재붕괴",
     "출시두달안된단일종목레버리지ETF,신규상장·마케팅전면금지",
     "\"새동력없으면중기조정\"…삼전닉스맥없이추락,4일내내사이드카",
     "AI가휴가철통신지킨다…이통3사특별대응체제가동",
@@ -3138,10 +3140,12 @@
     "프로축구인천,전북제압…강원·제주도나란히승리(종합)",
     "강원FC,김대원선수2골맹활약에김천2:0꺾고2위도약",
     "[현장목소리]윤정환인천감독\"오늘경기력전북보다훨씬좋았어\",패...",
-    "'5경기만에승리'세르지우제주SK감독\"어려운경기였지만...합당한..."
+    "'5경기만에승리'세르지우제주SK감독\"어려운경기였지만...합당한...",
+    "[김병철칼럼]용인반도체산단성공,이제중앙정부의실행력에달렸...",
+    "포항스틸러스,제주SK에1-2역전패...3연승실패"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T22:10:26.638198+09:00"
+   "last_run": "2026-07-18T22:15:24.549266+09:00"
   }
  },
  "press_names": {
