@@ -473,8 +473,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.koreatimes.co.kr/path/A2026071614390003982",
-    "https://zdnet.co.kr/view/?no=20260716155410",
     "https://www.yna.co.kr/view/AKR20260716151651017?input=1195m",
     "https://m.sports.naver.com/basketball/article/065/0000299776",
     "http://www.joseilbo.com/news/news_read.php?uid=572093&class=18",
@@ -1972,11 +1970,11 @@
     "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307122",
     "https://www.ntoday.co.kr/news/articleView.html?idxno=128247",
     "https://dgmbc.com/NewsArticle/851137",
-    "https://www.rcast.co.kr/news/articleView.html?idxno=31286"
+    "https://www.rcast.co.kr/news/articleView.html?idxno=31286",
+    "https://www.mediapen.com/news/view/1110809",
+    "https://biz.sbs.co.kr/article_hub/20000323142?division=NAVER"
    ],
    "seen_titles": [
-    "KOSPItumblesbackbelow7,000in'BlackThursday'rout",
-    "SKB,추첨통해이승철콘서트티켓증정",
     "550조AI인프라시동…SK·GS·네이버\"AI허브만들자\"(종합)",
     "수지더모스트U11의가파른성장세,시흥시협회장배준우승차지",
     "‘반도체2배베팅’광풍제동…레버리지ETF,현금3000만원의무화",
@@ -3474,10 +3472,12 @@
     "제헌절연휴,쉬기전에이것만은···다음주코스피흔들변수5가지",
     "[투데이증시]\"AI치킨게임발발\"...중국發무료AI에뉴욕증시일제히...",
     "경북구미시,2023년부터해마다고등학생대상'반도체스쿨'운영",
-    "광안·센텀더블생활권하이퍼엔드단지'알티에로광안'"
+    "광안·센텀더블생활권하이퍼엔드단지'알티에로광안'",
+    "최태원·노소영파기환송심…‘별거20년’공백,재산분할산정새기...",
+    "500조ETF시대…“운용사도적극적주주역할해야”"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T10:15:25.697426+09:00"
+   "last_run": "2026-07-18T10:20:27.793584+09:00"
   }
  },
  "press_names": {
