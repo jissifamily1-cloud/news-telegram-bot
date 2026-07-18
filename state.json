@@ -210,11 +210,13 @@
     [
      "2026-07-18T16:05:20.991555+09:00",
      "증시 대통령 흔들린 반도체 레버리지 고점론에"
+    ],
+    [
+     "2026-07-18T16:25:20.041146+09:00",
+     "제헌절이 국내증시 휴장에 코스피 살렸다 개미들 안도"
     ]
    ],
    "seen_urls": [
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607161639053530476",
-    "https://www.imaeil.com/page/view/2026071616313789172",
     "https://www.koreatimes.co.kr/path/A2026071614540000333",
     "http://www.4th.kr/news/articleView.html?idxno=2114880",
     "https://news.dealsitetv.com/articles/173427",
@@ -1712,11 +1714,11 @@
     "https://www.yna.co.kr/view/AKR20260718036300003?input=1195m",
     "https://www.mk.co.kr/article/12101425",
     "https://www.insight.co.kr/news/563566",
-    "https://biz.sbs.co.kr/article_hub/20000323170?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000323170?division=NAVER",
+    "https://biz.heraldcorp.com/article/10812379",
+    "https://www.mk.co.kr/article/12101428"
    ],
    "seen_titles": [
-    "단일종목레버리지ETF기본예탁금3000만원상향…매매수량단위1좌...",
-    "단일종목레버리지ETF문턱높인다…예탁금'현금3000만원'으로상향",
     "USseeksshareofKoreanchipmakers’‘excessprofits’:source",
     "단일종목ETF기본예탁금현금3천만원·매매단위20주로상향",
     "[중화학노트]마샤블랙번美상원의원고려아연테네시제련소방문外",
@@ -3214,10 +3216,12 @@
     "미얀마노동자숨진공사현장시공사대표,유족만나사과",
     "주가반토막에도7조베팅한개미들…삼전·하닉레버리지문턱높인다",
     "SK하이닉스,'영업익10%'성과급에주식선택지...보상체계재설계",
-    "KTX공사장미얀마노동자사망사고에…SK에코플랜트대표,유족에사과"
+    "KTX공사장미얀마노동자사망사고에…SK에코플랜트대표,유족에사과",
+    "김영식SK에코플랜트대표,공사현장서사망한미얀마노동자유족만나...",
+    "“제헌절이코스피살렸다”…국내증시휴장에개미들안도,왜?"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T16:20:28.303177+09:00"
+   "last_run": "2026-07-18T16:25:20.041146+09:00"
   }
  },
  "press_names": {
