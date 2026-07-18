@@ -138,11 +138,13 @@
     [
      "2026-07-19T06:10:26.897880+09:00",
      "코스피 6000피 반도체 급락 이틀째 흔들리나"
+    ],
+    [
+     "2026-07-19T06:15:23.452067+09:00",
+     "국내 SK하닉 담아라 11개 액티브 편입 ETF에 ADR을"
     ]
    ],
    "seen_urls": [
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=660622",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008661542&plink=ORI&cooper=NAVER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008661541&plink=ORI&cooper=NAVER",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4425517",
     "https://www.mhns.co.kr/news/articleView.html?idxno=753652",
@@ -1640,11 +1642,11 @@
     "https://www.dailian.co.kr/news/view/1667964/?sc=Naver",
     "https://www.newspim.com/news/view/20260716001049",
     "https://www.news1.kr/finance/market-exr/6231111",
-    "https://www.kbmaeil.com/article/20260719500011"
+    "https://www.kbmaeil.com/article/20260719500011",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092165935",
+    "https://www.yna.co.kr/view/AKR20260716200000008?input=1195m"
    ],
    "seen_titles": [
-    "대우건설,'가스플랜트강자'입지굳혀",
-    "[자막뉴스]\"매일천당과지옥\"정부칼빼들었다…'레버리지'하려면현...",
     "[취재파일]출렁이는'반도체주'…\"AI반도체vs월가의파워게임때문...",
     "'호남반도체'전력공급속도전…기후부,삼전닉스와협의체꾸린다",
     "중국CXMT,15조원규모사상최대IPO시동…범용D램'공급과잉'우...",
@@ -3142,10 +3144,12 @@
     "7000선붕괴된코스피…반등신호나올까[주간증시전망]",
     "[AI로읽는경제]AI가키운'레버리지'열풍…정부브레이크통할까",
     "'삼전닉스'쏠림에조정장서힘못쓴ETF…\"구성종목잘살펴야\"",
-    "美반도체이틀째급락…‘6000피’코스피또흔들리나"
+    "美반도체이틀째급락…‘6000피’코스피또흔들리나",
+    "하이닉스실적앞둔코스피…반등계기찾을까[주간증시전망]",
+    "'SK하닉ADR을담아라'…국내11개액티브ETF에편입"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T06:10:42.114358+09:00"
+   "last_run": "2026-07-19T06:15:23.452067+09:00"
   }
  },
  "press_names": {
