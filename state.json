@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-18T10:10:29.279931+09:00",
-     "제헌절 연휴 이것만은 코스피 흔들 다음 전에 변수 쉬기 5가지"
-    ],
-    [
-     "2026-07-18T10:10:29.279931+09:00",
-     "무료 치킨게임 일제히 발발 중국 AI에 뉴욕증시"
-    ],
-    [
      "2026-07-18T10:15:25.697426+09:00",
      "경북 대상 반도체 2023년부터 스쿨 구미시 고등학생 해마다 운영"
     ],
@@ -229,8 +221,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.ttlnews.com/news/articleView.html?idxno=3126181",
-    "https://en.yna.co.kr/view/AEN20260716008900320?input=2106m",
     "https://www.s-journal.co.kr/news/articleView.html?idxno=42461",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607161639053530476",
     "https://www.imaeil.com/page/view/2026071616313789172",
@@ -1728,11 +1718,11 @@
     "https://economist.co.kr/article/view/ecn202607180013",
     "https://www.dailian.co.kr/news/view/1668133/?sc=Naver",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=724575",
-    "https://www.yna.co.kr/view/AKR20260718036300003?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260718036300003?input=1195m",
+    "https://www.mk.co.kr/article/12101425",
+    "https://www.insight.co.kr/news/563566"
    ],
    "seen_titles": [
-    "대우건설,2235억원규모울산북항LNG터미널3단계준공…국내최대...",
-    "RegulatorunveilsmeasuresonleveragedETFsamidwildswings",
     "단일종목레버리지예탁금현금3000만원강화…20주씩매매가능",
     "단일종목레버리지ETF기본예탁금3000만원상향…매매수량단위1좌...",
     "단일종목레버리지ETF문턱높인다…예탁금'현금3000만원'으로상향",
@@ -3230,10 +3220,12 @@
     "연기금,간만에2주연속순매수…급락장서저가매수한'이종목'",
     "'AI재설계'선언한최태원,창사첫'인문학공채'나선조현준[재계-...",
     "[증시주간핫리뷰]반도체고점론에흔들린증시…대통령\"레버리지...",
-    "미얀마노동자숨진공사현장시공사대표,유족만나사과"
+    "미얀마노동자숨진공사현장시공사대표,유족만나사과",
+    "주가반토막에도7조베팅한개미들…삼전·하닉레버리지문턱높인다",
+    "SK하이닉스,'영업익10%'성과급에주식선택지...보상체계재설계"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T16:10:25.985610+09:00"
+   "last_run": "2026-07-18T16:15:23.879969+09:00"
   }
  },
  "press_names": {
