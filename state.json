@@ -70,10 +70,13 @@
     [
      "2026-07-19T03:20:24.960256+09:00",
      "크게 대비 순매도에도 코스피 외국인 상승 보유 연초 비중은"
+    ],
+    [
+     "2026-07-19T03:27:30.158789+09:00",
+     "엔비디아 조절 감소 속도 대비 애플 1위 시총 고점 투자 장중"
     ]
    ],
    "seen_urls": [
-    "https://www.cstimes.com/news/articleView.html?idxno=713814",
     "http://weekly.chosun.com/news/articleView.html?idxno=53536",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2449774",
     "https://www.newspim.com/news/view/20260716001112",
@@ -1572,10 +1575,10 @@
     "https://www.starnewskorea.com/sports/2026/07/19/2026071900234539241",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=850964",
     "https://www.g-enews.com/view.php?ud=202607181659299546fbbec65dfb_1",
-    "https://www.g-enews.com/view.php?ud=202607181702338795fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202607181702338795fbbec65dfb_1",
+    "https://www.g-enews.com/view.php?ud=202607181705319391fbbec65dfb_1"
    ],
    "seen_titles": [
-    "포스코,공정위와상생협약…5300개협력사지원",
     "'삼전닉스'레버리지죈다…예탁금1000만→3000만원",
     "'남해안우주항공산업벨트'구축속도전···경남부동산시장기대감...",
     "[ETF시황]급락장에인버스ETF'강세'…레버리지규제도본격화",
@@ -3074,10 +3077,11 @@
     "\"그한마디가한국축구망치고있다\"이강인도공감한구자철'작심발언...",
     "'제르소결승골'인천,전북1-0제압…연패탈출",
     "반도체주과속에급브레이크…내계좌돌파구는어디에",
-    "외국인코스피순매도에도보유비중은연초대비크게상승"
+    "외국인코스피순매도에도보유비중은연초대비크게상승",
+    "엔비디아고점대비시총감소…AI투자속도조절속애플장중1위"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T03:25:22.796920+09:00"
+   "last_run": "2026-07-19T03:27:30.158789+09:00"
   }
  },
  "press_names": {
