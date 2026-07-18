@@ -218,11 +218,13 @@
     [
      "2026-07-19T07:15:23.877392+09:00",
      "내수 온도차 커지는 기록적 수출 이끈 반도체가 경상흑자"
+    ],
+    [
+     "2026-07-19T07:20:27.526017+09:00",
+     "글로벌 주목 반도체주와 코스피 위태 경제 변화 800선"
     ]
    ],
    "seen_urls": [
-    "http://www.newstomato.com/ReadNews.aspx?no=1307427&inflow=N",
-    "https://biz.sbs.co.kr/article_hub/20000323046?division=NAVER",
     "https://www.donga.com/news/Economy/article/all/20260716/134312475/1",
     "https://news.bizwatch.co.kr/article/market/2026/07/16/0038",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=269974",
@@ -1720,11 +1722,11 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=266961",
     "https://www.yna.co.kr/view/AKR20260716193100003?input=1195m",
     "https://magazine.hankyung.com/business/article/202607192198b",
-    "https://www.news1.kr/economy/trend/6231647"
+    "https://www.news1.kr/economy/trend/6231647",
+    "https://www.lecturernews.com/news/articleView.html?idxno=206625",
+    "https://www.tokenpost.kr/news/market/379127"
    ],
    "seen_titles": [
-    "레버리지투자과열차단…정부,신규상품출시잠정중단",
-    "뉴욕찬바람에삼전닉스'폭락'vs.TSMC'상승'",
     "대만TSMC,2분기깜짝실적발표…“美공장148조투자투입”",
     "삼전닉스레버리지,8월부터현금3000만원있어야투자가능",
     "현금은6400억인데보증은2조?…SK온,캐즘뚫고'미국영토확장'정조...",
@@ -3222,10 +3224,12 @@
     "자본시장硏\"ETF500조시대에도…운용사의결권,여전히'형식적'불과...",
     "삼성,올해브랜드가치9%오른974억달러…글로벌빅테크8위",
     "코스피'폭락'에개미들이웃는이유",
-    "반도체가이끈기록적경상흑자…커지는'수출-내수온도차'"
+    "반도체가이끈기록적경상흑자…커지는'수출-내수온도차'",
+    "삼성브랜드가치974억달러로9%성장…글로벌테크브랜드8위유지",
+    "코스피6,800선위태...반도체주와글로벌경제변화주목"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T07:15:23.877392+09:00"
+   "last_run": "2026-07-19T07:20:27.526017+09:00"
   }
  },
  "press_names": {
