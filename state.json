@@ -70,10 +70,13 @@
     [
      "2026-07-19T03:10:27.781473+09:00",
      "돌파구는 반도체주 계좌 과속에 어디에 급브레이크"
+    ],
+    [
+     "2026-07-19T03:20:24.960256+09:00",
+     "크게 대비 순매도에도 코스피 외국인 상승 보유 연초 비중은"
     ]
    ],
    "seen_urls": [
-    "https://www.ddaily.co.kr/page/view/2026071615322476842",
     "https://www.cstimes.com/news/articleView.html?idxno=713814",
     "http://weekly.chosun.com/news/articleView.html?idxno=53536",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2449774",
@@ -1572,10 +1575,10 @@
     "https://www.spotvnews.co.kr/news/articleView.html?idxno=829240",
     "https://www.starnewskorea.com/sports/2026/07/19/2026071900234539241",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=850964",
-    "https://www.g-enews.com/view.php?ud=202607181659299546fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202607181659299546fbbec65dfb_1",
+    "https://www.g-enews.com/view.php?ud=202607181702338795fbbec65dfb_1"
    ],
    "seen_titles": [
-    "최태원\"SK하이닉스인수당시모두반대…임직원이옳았음을증명\"",
     "포스코,공정위와상생협약…5300개협력사지원",
     "'삼전닉스'레버리지죈다…예탁금1000만→3000만원",
     "'남해안우주항공산업벨트'구축속도전···경남부동산시장기대감...",
@@ -3074,10 +3077,11 @@
     "[단독]\"한국축구망했다\"구자철,뼈때리는작심발언…\"5년,10년후면...",
     "\"그한마디가한국축구망치고있다\"이강인도공감한구자철'작심발언...",
     "'제르소결승골'인천,전북1-0제압…연패탈출",
-    "반도체주과속에급브레이크…내계좌돌파구는어디에"
+    "반도체주과속에급브레이크…내계좌돌파구는어디에",
+    "외국인코스피순매도에도보유비중은연초대비크게상승"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T03:15:24.358569+09:00"
+   "last_run": "2026-07-19T03:20:24.960256+09:00"
   }
  },
  "press_names": {
