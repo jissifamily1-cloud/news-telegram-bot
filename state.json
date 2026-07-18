@@ -430,15 +430,13 @@
     [
      "2026-07-18T09:55:21.462719+09:00",
      "16일 SK하이닉스 주가 7월 심화 마감 180만원대 변동성"
+    ],
+    [
+     "2026-07-18T10:00:38.304468+09:00",
+     "교감부터 경계 스마트 가전과 정서적 허무는 제어까지 로봇의 가전"
     ]
    ],
    "seen_urls": [
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=168328",
-    "http://www.4th.kr/news/articleView.html?idxno=2114876",
-    "https://www.newstnt.com/news/articleView.html?idxno=710565",
-    "https://www.etnews.com/20260716000306",
-    "https://zdnet.co.kr/view/?no=20260716151321",
-    "https://www.news1.kr/photos/8012599",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=850807",
     "https://biz.heraldcorp.com/article/10811484",
     "https://news.jtbc.co.kr/article/NB12308653?influxDiv=NAVER",
@@ -1932,15 +1930,15 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008663048&plink=ORI&cooper=NAVER",
     "https://www.sentv.co.kr/article/view/sentv202607180003",
     "https://www.asiatime.co.kr/article/20260718500002",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16138460"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16138460",
+    "https://www.newsway.co.kr/news/view?ud=2026071809561475441",
+    "http://www.metroseoul.co.kr/article/20260718500011",
+    "https://economist.co.kr/article/view/ecn202607180005",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=590093",
+    "https://www.greened.kr/news/articleView.html?idxno=345335",
+    "http://www.dailypop.kr/news/articleView.html?idxno=100663"
    ],
    "seen_titles": [
-    "악재속출,코스피'요동'...반도체주'털썩'",
-    "[시황]코스피6.37%급락..…AI반도체쇼크에7000선붕괴",
-    "일신건영,이천갈산동'휴먼빌클래스원'견본주택개관",
-    "내달부터삼전닉스레버리지예탁금3000만원으로상향",
-    "SKT,휴가철인파밀집지통신품질사전점검·실시간관제",
-    "연휴앞두고6%넘게하락한코스피",
     "신안우이해상풍력착공…국내최대390MW규모",
     "일신건영,반도체벨트수혜‘이천휴먼빌클래스원’본격분양",
     "이대통령\"현대차새만금투자엄청난것\"…'전북소외론'엔\"무책임한...",
@@ -3434,10 +3432,16 @@
     "코스닥상위권에반도체주대거편입됐지만…상승장수혜에서소외",
     "뉴욕증시,반도체차익실현에하락…나스닥1.4%↓",
     "‘결혼37년중각자생활20년’…최태원·노소영‘세기의재산분할’...",
-    "7월16일SK하이닉스주가180만원대마감변동성심화"
+    "7월16일SK하이닉스주가180만원대마감변동성심화",
+    "뉴욕증시,AI거품론·중동확전에일제히하락…나스닥1.4%↓",
+    "용인특례시이상일시장,\"정부,용인반도체프로젝트행동으로보여줘...",
+    "‘삼전닉스’레버리지,한달간7조빨아들였다…보완대책효과있나",
+    "뉴욕증시,AI반도체매도세에일제히하락…필라델피아반도체지수약세...",
+    "[토요월가브리핑]美반도체'약세장'진입…월요일삼전·하이닉스가...",
+    "가전과로봇의경계허무는AI…정서적교감부터가전제어까지스마트..."
    ],
    "initialized": true,
-   "last_run": "2026-07-18T09:55:21.462719+09:00"
+   "last_run": "2026-07-18T10:00:38.304468+09:00"
   }
  },
  "press_names": {
