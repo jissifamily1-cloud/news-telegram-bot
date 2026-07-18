@@ -210,11 +210,17 @@
     [
      "2026-07-19T07:10:28.975527+09:00",
      "오른 가치 올해 8위 글로벌 974억달러 브랜드 삼성 빅테크"
+    ],
+    [
+     "2026-07-19T07:15:23.877392+09:00",
+     "이유 웃는 폭락 코스피 개미들이"
+    ],
+    [
+     "2026-07-19T07:15:23.877392+09:00",
+     "내수 온도차 커지는 기록적 수출 이끈 반도체가 경상흑자"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026071616114639757",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=05067606645515176",
     "http://www.newstomato.com/ReadNews.aspx?no=1307427&inflow=N",
     "https://biz.sbs.co.kr/article_hub/20000323046?division=NAVER",
     "https://www.donga.com/news/Economy/article/all/20260716/134312475/1",
@@ -1712,11 +1718,11 @@
     "https://www.newsway.co.kr/news/view?ud=2026071617001335483",
     "https://www.kbmaeil.com/article/20260719500033",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=266961",
-    "https://www.yna.co.kr/view/AKR20260716193100003?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260716193100003?input=1195m",
+    "https://magazine.hankyung.com/business/article/202607192198b",
+    "https://www.news1.kr/economy/trend/6231647"
    ],
    "seen_titles": [
-    "이주희동신대제10대총장\"AI중심교육혁신…미래산업인재양성\"",
-    "TSMC\"AI수요여전히강해\"…반도체피크아웃우려잠재울까",
     "레버리지투자과열차단…정부,신규상품출시잠정중단",
     "뉴욕찬바람에삼전닉스'폭락'vs.TSMC'상승'",
     "대만TSMC,2분기깜짝실적발표…“美공장148조투자투입”",
@@ -3214,10 +3220,12 @@
     "갤럭시언팩D-3…이통3사사전예약경쟁불붙었다",
     "‘9조샤힌프로젝트’가변수…석유화학구조조정다시속도낼까",
     "자본시장硏\"ETF500조시대에도…운용사의결권,여전히'형식적'불과...",
-    "삼성,올해브랜드가치9%오른974억달러…글로벌빅테크8위"
+    "삼성,올해브랜드가치9%오른974억달러…글로벌빅테크8위",
+    "코스피'폭락'에개미들이웃는이유",
+    "반도체가이끈기록적경상흑자…커지는'수출-내수온도차'"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T07:10:28.975527+09:00"
+   "last_run": "2026-07-19T07:15:23.877392+09:00"
   }
  },
  "press_names": {
