@@ -141,7 +141,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.wsobi.com/news/articleView.html?idxno=315378",
     "https://www.bigtanews.co.kr/article/view/big202607160018",
     "https://www.ngonews.kr/news/articleView.html?idxno=233117",
     "https://www.newspim.com/news/view/20260716000980",
@@ -1640,10 +1639,10 @@
     "https://www.newspim.com/news/view/20260718000093",
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553385914",
     "https://www.news1.kr/sports/soccer/6231780",
-    "https://www.news1.kr/sports/soccer/6231781"
+    "https://www.news1.kr/sports/soccer/6231781",
+    "https://www.munhwa.com/article/11603389"
    ],
    "seen_titles": [
-    "SK행복나눔재단·SK인텔릭스'SunnyScholar'5기문제정의고도화·'나...",
     "[증시오늘]코스피또다시7000붕괴",
     "\"또이주노동자의죽음\"...KTX공사장참사에'죽음의이주화'중단촉...",
     "ASML이어TSMC도'깜짝실적'…AI거품론불식에국내기대고조",
@@ -3142,10 +3141,11 @@
     "[프로축구]'제르소결승골'인천,전북에1-0...2연패탈출",
     "[현장목소리]박태하감독\"제주전패배빨리극복하고서울원정잘준...",
     "'제르소결승골'인천,전북격침…강원,'10명싸운'김천제압",
-    "[K리그1]전적종합(18일)"
+    "[K리그1]전적종합(18일)",
+    "‘펑펑’수십차례폭발음…13시간째불길안잡히는인천쿠팡물류센..."
    ],
    "initialized": true,
-   "last_run": "2026-07-18T22:35:20.720976+09:00"
+   "last_run": "2026-07-18T22:40:25.896084+09:00"
   }
  },
  "press_names": {
