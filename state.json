@@ -410,11 +410,17 @@
     [
      "2026-07-18T09:25:19.299323+09:00",
      "한은 다음 인상 시기 긴축 최종금리 엇갈려"
+    ],
+    [
+     "2026-07-18T09:35:24.505005+09:00",
+     "나눈다 일냈다 4조 잭팟 국민과 성과 반도체 라던 삼성전자"
+    ],
+    [
+     "2026-07-18T09:35:24.505005+09:00",
+     "예고 Z폴드8 역대급 갤럭시 가격표 300만원 나오나"
     ]
    ],
    "seen_urls": [
-    "https://www.onews.tv/news/articleView.html?idxno=283207",
-    "https://www.m-i.kr/news/articleView.html?idxno=1392455",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=847441",
     "https://www.hankyung.com/article/202607169916i",
     "https://www.kgnews.co.kr/news/article.html?no=904199",
@@ -1912,11 +1918,11 @@
     "https://www.khan.co.kr/article/202607180917001",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005881950",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=850923",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=92401"
+    "http://www.newsian.co.kr/news/articleView.html?idxno=92401",
+    "https://www.sedaily.com/article/20068960",
+    "https://www.mk.co.kr/article/12101360"
    ],
    "seen_titles": [
-    "코웨이,3개월간16%상승…증권가\"2분기실적기대감유효\"",
-    "550조AI데이터센터투자SK·GS·네이버,\"제도장벽걷어내야\"",
     "코스피,美반도체'악재'에7000선반납…6%급락마감",
     "좌초위기넘긴3.4兆'신안우이해상풍력'착공…K-풍력표준모델될...",
     "코스피6%하락마감…하루만에7000선반납",
@@ -3414,10 +3420,12 @@
     "뉴욕증시,반도체매도세지속에하락",
     "증시급락에도중소형주선방…반도체조정에순환매",
     "뉴욕증시,반도체매도세에하락…나스닥1.4%↓",
-    "'한은긴축전환'다음인상시기엇갈려...최종금리최대연3.75%"
+    "'한은긴축전환'다음인상시기엇갈려...최종금리최대연3.75%",
+    "“반도체성과국민과나눈다”라던삼성전자일냈다…4조잭팟",
+    "‘300만원폰’나오나…갤럭시Z폴드8역대급가격표예고"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T09:30:36.345880+09:00"
+   "last_run": "2026-07-18T09:35:24.505005+09:00"
   }
  },
  "press_names": {
