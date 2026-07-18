@@ -477,10 +477,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.thepowernews.co.kr/view.php?ud=202607161625307096de3f0aa1be_7",
-    "https://dealsite.co.kr/articles/165449",
-    "https://www.newsway.co.kr/news/view?ud=2026071616094202631",
-    "https://www.mk.co.kr/article/12100396",
     "https://www.chosun.com/economy/tech_it/2026/07/16/MP4B4MWHFNCB5OYMDQVQO6WK5A/",
     "https://kbench.com/?q=node%2F280463",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041712",
@@ -1976,13 +1972,13 @@
     "https://www.wikitree.co.kr/articles/1147076",
     "https://www.sedaily.com/article/20068970",
     "https://www.hankyung.com/article/202607131295i",
-    "https://www.sedaily.com/article/20068916"
+    "https://www.sedaily.com/article/20068916",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=51525",
+    "https://www.hidomin.com/news/articleView.html?idxno=713654",
+    "https://www.mediapen.com/news/view/1110811",
+    "http://www.segyebiz.com/newsView/20260718506045?OutUrl=naver"
    ],
    "seen_titles": [
-    "삼전닉스레버리지에칼댄당국…예탁금3배·신규상장중단",
-    "[IT는지금]카카오,옴니AI‘카나나-오’소개영상‘카나나오리지...",
-    "\"도박판이따로없네\"…9000피에서6000피까지요동치는코스피",
-    "SK하이닉스11%하락",
     "AI로코드는빨리짰는데,서비스출시는왜제자리일까",
     "삼성,'갤럭시S24·퀀텀5'7월보안업데이트적용",
     "李대통령,'전북소외론'반박…\"책임있는사람들이이상한소리\"",
@@ -3478,10 +3474,14 @@
     "SK하이닉스주식,최태원회장조언대로갖고있으면무조건오를까",
     "AI투자못한‘폰회사’가약세장에선대장주네[트럼프스톡커]",
     "2060'S&P500'살때…AI베팅한실버개미[일확연금노후부자]",
-    "연기금,간만에2주연속순매수…급락장서담은종목은[마켓시그널]"
+    "연기금,간만에2주연속순매수…급락장서담은종목은[마켓시그널]",
+    "AI반도체차익실현에뉴욕증시하락…필라델피아지수약세장",
+    "AI투자회의론에반도체주'와르르'…뉴욕증시일제히하락",
+    "대형반도체주폭락에'순환매장세'촉발…중소형주·테마주로돈몰린...",
+    "AI투자회의론지속…뉴욕증시,반도체주매도세에하락"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T11:05:23.337887+09:00"
+   "last_run": "2026-07-18T11:10:26.546535+09:00"
   }
  },
  "press_names": {
