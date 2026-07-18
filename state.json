@@ -229,7 +229,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8612712",
     "http://www.ttlnews.com/news/articleView.html?idxno=3126181",
     "https://en.yna.co.kr/view/AEN20260716008900320?input=2106m",
     "https://www.s-journal.co.kr/news/articleView.html?idxno=42461",
@@ -1728,10 +1727,10 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8614022",
     "https://economist.co.kr/article/view/ecn202607180013",
     "https://www.dailian.co.kr/news/view/1668133/?sc=Naver",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=724575"
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=724575",
+    "https://www.yna.co.kr/view/AKR20260718036300003?input=1195m"
    ],
    "seen_titles": [
-    "[NewsToday]Pres.LeecallsforleveragedETFfix",
     "대우건설,2235억원규모울산북항LNG터미널3단계준공…국내최대...",
     "RegulatorunveilsmeasuresonleveragedETFsamidwildswings",
     "단일종목레버리지예탁금현금3000만원강화…20주씩매매가능",
@@ -3230,10 +3229,11 @@
     "산업부“미측과삼성·하이닉스이익분배논의안해”",
     "연기금,간만에2주연속순매수…급락장서저가매수한'이종목'",
     "'AI재설계'선언한최태원,창사첫'인문학공채'나선조현준[재계-...",
-    "[증시주간핫리뷰]반도체고점론에흔들린증시…대통령\"레버리지..."
+    "[증시주간핫리뷰]반도체고점론에흔들린증시…대통령\"레버리지...",
+    "미얀마노동자숨진공사현장시공사대표,유족만나사과"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T16:06:52.711246+09:00"
+   "last_run": "2026-07-18T16:10:25.985610+09:00"
   }
  },
  "press_names": {
