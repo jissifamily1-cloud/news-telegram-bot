@@ -146,13 +146,13 @@
     [
      "2026-07-18T21:55:21.840453+09:00",
      "주새 종목 2분기 줄어도 괜찮다 쌓인 4000억 이익 수주"
+    ],
+    [
+     "2026-07-18T22:00:40.119164+09:00",
+     "인천 제주도 나란히 승리 강원 프로축구 전북 제압"
     ]
    ],
    "seen_urls": [
-    "https://www.moneystorm.kr/news/articleView.html?idxno=5120",
-    "https://biz.sbs.co.kr/article_hub/20000323009?division=NAVER",
-    "https://www.newsis.com/view/NISX20260716_0003712742",
-    "https://www.huffingtonpost.kr/article/258802",
     "http://www.queen.co.kr/news/articleView.html?idxno=460421",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=312211",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7174410",
@@ -1648,13 +1648,13 @@
     "https://www.nocutnews.co.kr/news/6549766",
     "http://www.stoo.com/article.php?aid=107817930450",
     "http://www.joseilbo.com/news/news_read.php?uid=572147&class=33",
-    "https://www.mk.co.kr/article/12101482"
+    "https://www.mk.co.kr/article/12101482",
+    "https://www.sportsseoul.com/news/read/1623116",
+    "https://www.starnewskorea.com/sports/2026/07/18/2026071817384798840",
+    "https://www.yna.co.kr/view/AKR20260718045251007?input=1195m",
+    "https://www.newsis.com/view/NISX20260718_0003713753"
    ],
    "seen_titles": [
-    "[인사이트뉴스]'레버리지과열'에칼빼든금융당국…투기진화속코...",
-    "[뉴욕증시전략]어닝시즌순항·물가둔화기대…3대지수상승",
-    "삼전닉스레버리지,20주단위로만살수있다…예탁금도3000만원으로↑",
-    "삼성전자SK하이닉스레버리지신규상장금지됐다:예탁금은세배로...",
     "[오늘증시]반도체투자심리급랭에코스피·코스닥동반급락",
     "단일종목레버리지ETF사태에금융당국책임전가급급",
     "[조하현교수칼럼]호남반도체클러스터의비현실성",
@@ -3150,10 +3150,14 @@
     "'김대원멀티골'강원,K리그12위경쟁에서홀로웃었다",
     "'최석현멀티골'울산,대전에2-2극적무승부…강원·인천·제주는승...",
     "검은연기뒤덮인인천…쿠팡물류센터화재진화난항",
-    "“2분기이익줄어도괜찮다?”…수주4000억쌓인이종목한주새13%↑..."
+    "“2분기이익줄어도괜찮다?”…수주4000억쌓인이종목한주새13%↑...",
+    "강원이웃었다,김천꺾고선두서울‘추격’…전북은인천에패배+울...",
+    "'인천전패배'정정용감독\"감독으로서죄송하다,당장내일부터대전...",
+    "'김대원멀티골'K리그1강원,10명뛴김천제압…2위탈환(종합)",
+    "프로축구인천,전북제압…강원·제주도나란히승리(종합)"
    ],
    "initialized": true,
-   "last_run": "2026-07-18T21:55:21.840453+09:00"
+   "last_run": "2026-07-18T22:00:40.119164+09:00"
   }
  },
  "press_names": {
