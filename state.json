@@ -669,7 +669,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.hankookilbo.com/news/article/A2026071711180000892?did=NA",
     "https://view.asiae.co.kr/article/2026071711382426561",
     "https://www.hani.co.kr/arti/economy/economy_general/1268726.html",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1716786",
@@ -2168,10 +2167,10 @@
     "http://www.osen.co.kr/article/G1112842541",
     "https://www.mk.co.kr/article/12101918",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260720.22006005275",
-    "https://www.koreajoongangdaily.com/business/koreas-per-capita-gdp-nears-40000-but-taiwan-pulls-further-ahead/12779886"
+    "https://www.koreajoongangdaily.com/business/koreas-per-capita-gdp-nears-40000-but-taiwan-pulls-further-ahead/12779886",
+    "https://www.tfmedia.co.kr/news/article.html?no=205849"
    ],
    "seen_titles": [
-    "최태원\"SK하닉샀다팔았다말고가만히갖고계셔라...우상향으로간...",
     "최태원회장“하이닉스주가우상향…샀다팔았다하지말라”",
     "최태원\"SK하이닉스주식사팔사팔말고갖고계세요\"",
     "최태원\"SK하이닉스주가는우상향…가만히갖고있어야\"",
@@ -3670,10 +3669,11 @@
     "'이기면2위와8점차'김기동서울감독,부천원정앞두고\"포항전지...",
     "‘이기면2위와8점차’달아나고픈선두서울…김기동감독“다른팀...",
     "“북항에주거·생활기반도필요…재개발아닌신도시개념접근을”",
-    "Korea'spercapitaGDPnears$40,000,butTaiwanpullsfurtherahead"
+    "Korea'spercapitaGDPnears$40,000,butTaiwanpullsfurtherahead",
+    "최태원SK회장\"내년반도체수요최소50%늘것…빠른증설이생명줄..."
    ],
    "initialized": true,
-   "last_run": "2026-07-19T19:25:19.703741+09:00"
+   "last_run": "2026-07-19T19:30:33.553662+09:00"
   }
  },
  "press_names": {
