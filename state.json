@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-19T04:55:19.785079+09:00",
-     "해지 모은 급증 노후 주식에 알뜰살뜰 연금저축"
-    ],
-    [
      "2026-07-19T05:05:20.174192+09:00",
      "던졌다 삼전 폭락장서 줍고 상위 선택 갈린 하이닉스"
     ],
@@ -518,21 +514,25 @@
     [
      "2026-07-19T10:55:19.681806+09:00",
      "this Samsung brand hits year report US bln value"
+    ],
+    [
+     "2026-07-19T11:00:38.728612+09:00",
+     "재개발 오세훈 아냐 말해볼 만나 김용범 만능키 따로 재건축"
+    ],
+    [
+     "2026-07-19T11:00:38.728612+09:00",
+     "의견 전무한 주가 투자의견 아닌 하락에도 증권사 매도 목표주가"
+    ],
+    [
+     "2026-07-19T11:00:38.728612+09:00",
+     "SK하닉 김치프리미엄 나락인데 반도체주"
+    ],
+    [
+     "2026-07-19T11:00:38.728612+09:00",
+     "진화작전 지상 쿠팡물류센터 인천 공중 초진 오후 11시 전망"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12100603",
-    "https://news.skbroadband.com/news/articleView.html?idxno=232380",
-    "https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html?partner=naver",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4425526",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251998&CMPT_CD=P0010",
-    "https://www.nocutnews.co.kr/news/6549438",
-    "https://www.sedaily.com/article/20068743",
-    "https://www.newsis.com/view/NISX20260716_0003712919",
-    "https://www.kgnews.co.kr/news/article.html?no=904202",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607161717562470485",
-    "https://www.thepublic.kr/news/articleView.html?idxno=311618",
-    "https://www.segye.com/newsView/20260716520476?OutUrl=naver",
     "https://www.venturesquare.net/1099138/",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000050499",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=724579",
@@ -2020,21 +2020,21 @@
     "https://www.m-i.kr/news/articleView.html?idxno=1392666",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=847546",
     "https://magazine.hankyung.com/business/article/202607156372b",
-    "https://en.yna.co.kr/view/AEN20260719001100320?input=2106m"
+    "https://en.yna.co.kr/view/AEN20260719001100320?input=2106m",
+    "https://www.sedaily.com/article/20069063",
+    "https://www.hankookilbo.com/news/article/A2026071910060000018?did=NA",
+    "https://www.dailian.co.kr/news/view/1668399/?sc=Naver",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8614219",
+    "https://www.tokenpost.kr/news/breaking/379153",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469426",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685079",
+    "https://imnews.imbc.com/news/2026/politics/article/6838412_36911.html",
+    "https://www.news1.kr/politics/president/6231924",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=442450",
+    "https://www.mk.co.kr/article/12101600",
+    "https://www.yna.co.kr/view/AKR20260719025500065?input=1195m"
    ],
    "seen_titles": [
-    "‘두달만에12조’반도체레버리지광풍에칼빼든당국\"현금3000만...",
-    "추미애,삼성·SK에'공정수재사용확대'행정권고...\"대만TSMC처럼재...",
-    "“국장투자30%늘렸다”…삼전닉스외에도해외큰손이담은업종은",
-    "\"집앞중학교두고원거리배정?\"…안산해양동학부모들반발",
-    "TSMCAdds$100BilliontoItsU.S.SpendingPlan",
-    "[중국증시-마감]역내반도체폭락속1%대하락",
-    "\"얼마나더죽어야바뀌나\"37세미얀마이주노동자는왜죽어야했나",
-    "李,연이틀가짜뉴스지적…이언주합성음란물도거론[CBS뉴스룸]",
-    "李“밤새워서라도업무파악하라”…집권2년차공직기강죈다",
-    "리스·렌탈규제완화앞두고…중소렌터카상생논의'막판진통'",
-    "추미애“삼성전자·SK하이닉스공정수로인한지역민피해최소화”",
-    "여주시,SK하이닉스와노인·청년복지지원사업협약체결...\"지역복지...",
     "코스피,하루만에7000피붕괴...반도체대형주동반폭락",
     "단일종목레버리지예탁금1000만→3000만원'현금만'…롤러코스터증시...",
     "“AI가코드는짜도개발은못끝낸다”…AWS가꺼낸‘AI-DLC’해법",
@@ -3522,10 +3522,22 @@
     "삼성,올해브랜드가치974억달러…세계8위",
     "인천쿠팡물류센터화재27시간째…소방관2명부상",
     "일론머스크테슬라·스페이스XCEO\"스페이스X,지구모든것보다가치...",
-    "Samsung'sbrandvaluehitsUS$97.4blnthisyear:report"
+    "Samsung'sbrandvaluehitsUS$97.4blnthisyear:report",
+    "최태원·노소영‘세기의재산분할’파기환송심...24일선고",
+    "김용범,삼전닉스레버리지ETF\"상장폐지상상하기어렵다\"",
+    "김용범,삼전닉스레버리지폐지선그어…\"시장에엄청난충격\"",
+    "12조던진외국인,ETF는순매수…단일종목레버리지는엇갈려",
+    "SK하이닉스ADR,한국주식대비25%프리미엄",
+    "SK하이닉스,주가는흔들려도업황은탄탄…AI투자·메모리가격이버...",
+    "\"포용적AI발굴\"…SKT·하나금융,'테크포굿해커톤'개최",
+    "김용범\"삼전닉스레버리지ETF상장폐지어려워‥시장충격최소화논...",
+    "김용범\"재개발·재건축만능키아냐…오세훈따로만나말해볼것\"(종합...",
+    "주가하락에도매도의견전무한증권사,'투자의견'아닌'목표주가'로...",
+    "반도체주나락인데SK하닉김치프리미엄25%왜?",
+    "인천쿠팡물류센터지상·공중진화작전…\"오후11시초진전망\""
    ],
    "initialized": true,
-   "last_run": "2026-07-19T10:55:19.681806+09:00"
+   "last_run": "2026-07-19T11:00:38.728612+09:00"
   }
  },
  "press_names": {
