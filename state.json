@@ -474,13 +474,17 @@
     [
      "2026-07-20T07:20:28.466934+09:00",
      "headlines Korean in newspapers major Top"
+    ],
+    [
+     "2026-07-20T07:25:20.856251+09:00",
+     "스페인이 메시의 댄스 우승 패배로 월드컵 라스트 끝난"
+    ],
+    [
+     "2026-07-20T07:25:20.856251+09:00",
+     "브랜드 8위 글로벌 톱10 한국기업 진입 유일 삼성 빅테크 가치"
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/international/international_general/2026/07/18/NRCA5E5YSVG4PLACTDTHDWZ7TA/",
-    "http://www.fnnews.com/news/202607171727333866",
-    "https://www.mt.co.kr/society/2026/07/18/2026071613593591887",
-    "https://biz.chosun.com/industry/company/2026/07/20/35MSIQIUC5BBFJN6BXIE6L7GDI/",
     "https://www.hitnews.co.kr/news/articleView.html?idxno=77733",
     "https://www.news1.kr/finance/general-stock/6231183",
     "https://www.news1.kr/bio/pharmaceutical-bio/6228013",
@@ -1976,13 +1980,13 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01223446645516488",
     "https://h21.hani.co.kr/arti/society/environment/59623.html",
     "https://en.yna.co.kr/view/AEN20260720000700315?input=2106m",
-    "https://en.yna.co.kr/view/AEN20260720000500315?input=2106m"
+    "https://en.yna.co.kr/view/AEN20260720000500315?input=2106m",
+    "https://www.newsis.com/view/NISX20260720_0003714388",
+    "http://www.queen.co.kr/news/articleView.html?idxno=460448",
+    "https://www.nocutnews.co.kr/news/6549946",
+    "http://www.techholic.co.kr/news/articleView.html?idxno=222153"
    ],
    "seen_titles": [
-    "통신3사,휴가철고객잡기총력…망품질·로밍서비스강화",
-    "“추매”vs“현금확보”…AI피크아웃논란에엇갈린개미생존전략",
-    "[비즈차이나]AI호황올라탄中창신메모리…역대급몸값으로‘반도...",
-    "\"제헌절이코스피살렸다\"…美반도체폭락에\"월요일도임시공휴일해...",
     "밥상·기름값지킨중앙지검공정거래조사부,'삼전·닉스'지킴이로거...",
     "호남반도체클러스터계기로원전추진하는정부…부지확보까지는‘...",
     "[경력채용]한독,SK케미칼,의약품수출입협회,HLB,한국비엔씨",
@@ -3478,10 +3482,14 @@
     "인천쿠팡화재47시간째'활활'…열화상보니내부최대300도",
     "‘3대메가프로젝트’때문에원전?…빈대잡으려다초가삼간태울라",
     "(EDITORIALfromTheKoreaTimesonJuly20)",
-    "TopheadlinesinmajorS.Koreannewspapers"
+    "TopheadlinesinmajorS.Koreannewspapers",
+    "인천쿠팡물류센터불,48시간넘게진화중…총력진화",
+    "류진3년,정책플랫폼한경협…4대그룹회장단복귀'남은숙제'",
+    "패배로끝난메시의'라스트댄스'…스페인이월드컵우승[오늘아침]",
+    "삼성,글로벌빅테크'8위'-브랜드가치9%↑한국기업유일'톱10'진입"
    ],
    "initialized": true,
-   "last_run": "2026-07-20T07:20:28.466934+09:00"
+   "last_run": "2026-07-20T07:25:20.856251+09:00"
   }
  },
  "press_names": {
