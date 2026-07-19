@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-19T14:15:27.411511+09:00",
-     "발칵 넘어섰다 키미 가성비 K3 업계 GPT"
-    ],
-    [
      "2026-07-19T14:20:29.266369+09:00",
      "카카오 속도 이유 확산 중요한 SKT가 유력한 모두의 네이버"
     ],
@@ -661,10 +657,6 @@
     ]
    ],
    "seen_urls": [
-    "https://m.skyedaily.com/news_view.html?ID=308033",
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=545835",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=724546",
-    "https://www.hankookilbo.com/news/article/A2026071316020000553?did=NA",
     "https://news.bizwatch.co.kr/article/mobile/2026/06/23/0034",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=660650",
     "https://www.joongang.co.kr/article/25445893",
@@ -2160,13 +2152,13 @@
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5206778",
     "https://www.seoul.co.kr/news/economy/industry/2026/07/19/20260719500088?wlog_tag3=naver",
     "https://www.khan.co.kr/article/202607192012015",
-    "https://www.donga.com/news/Inter/article/all/20260719/134324339/1"
+    "https://www.donga.com/news/Inter/article/all/20260719/134324339/1",
+    "https://www.interfootball.co.kr/news/articleView.html?idxno=690843",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260719201804nvG",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1386940",
+    "http://www.kjdaily.com/article.php?aid=1784459640682649002"
    ],
    "seen_titles": [
-    "[속보]최태원\"SK하이닉스주가는우상향…'사팔'말고갖고있으면돼...",
-    "최태원\"메모리계속필요…SK하이닉스주가우상향간다\"",
-    "반도체호황성과활용따라한국경제성장경로달라진다",
-    "젠슨황\"베라루빈대규모생산중\"...삼성·SK하이닉스HBM4공급확대...",
     "[슬금슬금]같은하이닉스인데미국선50%비쌌다…'ADR가격차'사라질...",
     "반도체원리로작업복냉각,AI로체감온도관리...폭염대처도첨단기...",
     "AI에이전트핵심은'검색'…RAG고도화나선기업들",
@@ -3662,10 +3654,14 @@
     "'팔지말고보유'최태원\"메모리달라고아비규환…공장더지을것\"",
     "최태원“성과급,이해관계자행복침해하면손봐야…‘아비규환’수...",
     "[정동칼럼]아!삼전닉스레버리지ETF",
-    "“세계AI주식,한국시장이지표됐다…모두韓시장투자자”"
+    "“세계AI주식,한국시장이지표됐다…모두韓시장투자자”",
+    "[IN태백]'결승전에서PK유도+극적동점골'울산대전민규\"전관왕하고...",
+    "시장흔드는레버리지…김용범\"상장폐지는어려워\"",
+    "인천쿠팡물류센터화재이틀째…주민·소방관긴급지원나서",
+    "국내최대규모‘신안우이해상풍력’첫삽떴다"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T20:15:27.313114+09:00"
+   "last_run": "2026-07-19T20:20:25.740838+09:00"
   }
  },
  "press_names": {
