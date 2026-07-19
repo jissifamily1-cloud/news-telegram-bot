@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-19T20:25:21.904654+09:00",
-     "개최 서강대와 반도체 고려대 이천시 발표회 자율연구 프로그램"
-    ],
-    [
-     "2026-07-19T20:25:21.904654+09:00",
-     "뒷면 일만 반도체 호황 늘었다 최저임금 수준"
-    ],
-    [
      "2026-07-19T20:40:30.731999+09:00",
      "애간장도 꺼지는 주민들 35시간째 태웠다"
     ],
@@ -230,10 +222,13 @@
     [
      "2026-07-20T02:15:26.597175+09:00",
      "충격 쏠린 중국 세계의 AI발 월요일 코스피에"
+    ],
+    [
+     "2026-07-20T02:30:33.484222+09:00",
+     "의원 21일 정책토론회 주식시장 국내 개최 이종욱 진단"
     ]
    ],
    "seen_urls": [
-    "https://news.jtbc.co.kr/article/NB12308798?influxDiv=NAVER",
     "https://www.sisajournal.com/news/articleView.html?idxno=380229",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02843766645515504",
     "https://www.sedaily.com/article/20068897",
@@ -1732,10 +1727,10 @@
     "https://weeklytrade.co.kr/news/view.html?section=1&category=160&no=100681",
     "https://www.dt.co.kr/article/12073526",
     "https://www.kmib.co.kr/article/view.asp?arcid=1784443574&code=11151200&cp=nv",
-    "https://www.newsverse.kr/news/articleView.html?idxno=10968"
+    "https://www.newsverse.kr/news/articleView.html?idxno=10968",
+    "https://www.pointe.co.kr/news/articleView.html?idxno=81952"
    ],
    "seen_titles": [
-    "여기도메모리먹는하마가…스마트카에칩탑재량급증",
     "SK최태원,AI성장에메모리필수요소강조\"SK하이닉스주가우상향할...",
     "\"메모리는우상향\"…최태원\"주식샀다팔았다말고갖고있는게재산...",
     "최태원\"SK하이닉스,'사팔'보다보유…결국우상향할것\"",
@@ -3234,10 +3229,11 @@
     "[김시래대기자의시선]워싱턴이탐내는한국반도체의‘AI세금’",
     "인천쿠팡물류센터붕괴위험에‘주민대피령’…밤샘사투계속",
     "글로벌증시까지흔든레버리지…3000만원으로진정될까",
-    "[오늘의경제뉴스]월요일코스피에쏠린세계의눈…중국AI발충격'흡..."
+    "[오늘의경제뉴스]월요일코스피에쏠린세계의눈…중국AI발충격'흡...",
+    "이종욱의원,'국내주식시장진단'정책토론회21일개최"
    ],
    "initialized": true,
-   "last_run": "2026-07-20T02:25:21.279024+09:00"
+   "last_run": "2026-07-20T02:30:33.484222+09:00"
   }
  },
  "press_names": {
