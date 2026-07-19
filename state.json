@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-19T12:15:25.749813+09:00",
-     "종목 SK디앤디 소수계좌 투자주의 주의 거래집중 지정"
-    ],
-    [
      "2026-07-19T12:30:40.309820+09:00",
      "통신품질 관리 완벽 SK텔레콤 휴가철"
     ],
@@ -678,16 +674,17 @@
     [
      "2026-07-19T18:15:03.879789+09:00",
      "메모리 한국 쏠림의 빈자리 공략 소비시장"
+    ],
+    [
+     "2026-07-19T18:20:26.376173+09:00",
+     "눈높이 증권사 리포트가 하향 추월 낮추는 상향 변동장"
+    ],
+    [
+     "2026-07-19T18:20:26.376173+09:00",
+     "국민 유출범 9명 10명중 대폭 핵심기술 강화해야 처벌"
     ]
    ],
    "seen_urls": [
-    "https://www.getnews.co.kr/news/articleView.html?idxno=875346",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=02581366645515504",
-    "https://www.news1.kr/industry/general-industry/6231211",
-    "https://www.newscj.com/news/articleView.html?idxno=3417804",
-    "https://magazine.hankyung.com/business/article/202607170868b",
-    "https://biz.chosun.com/industry/company/2026/07/17/YSALFVVOXZFCBJZJXYSLJCEAHU/",
-    "https://www.hankyung.com/article/2026071708397",
     "https://www.mt.co.kr/industry/2026/07/17/2026071711045057722",
     "http://www.econonews.co.kr/news/articleView.html?idxno=441361",
     "https://www.khan.co.kr/article/202607171116001",
@@ -2180,16 +2177,16 @@
     "http://www.fnnews.com/news/202607191808548753",
     "https://www.ekn.kr/web/view.php?key=20260719029293664",
     "https://www.g-enews.com/view.php?ud=202607161558562637a9fc143920_1",
-    "https://www.g-enews.com/view.php?ud=202607190513317969112616b072_1"
+    "https://www.g-enews.com/view.php?ud=202607190513317969112616b072_1",
+    "http://www.fnnews.com/news/202607191816150319",
+    "http://www.fnnews.com/news/202607191816047147",
+    "https://www.segye.com/newsView/20260719512220?OutUrl=naver",
+    "https://www.busan.com/view/busan/view.php?code=2026071918134607101",
+    "https://www.segye.com/newsView/20260719512214?OutUrl=naver",
+    "http://www.fnnews.com/news/202607191816577598",
+    "https://www.hankyung.com/article/2026071928801"
    ],
    "seen_titles": [
-    "SK하이닉스,인공지능발달로메모리반도체수요급증예상",
-    "[일본특징주]소프트뱅크8%급락…美AI·반도체주매도세에日관련주...",
-    "주목받는대전유성구...이도시에살기위한현실적인방법은",
-    "\"열심히일하고성실하게빚갚은청년만바보\"오세훈,李대통령직격",
-    "최태원\"SK하이닉스주식샀다팔다마시고가만히갖고계시라\"",
-    "최태원\"SK하이닉스주가는결국우상향…AI시대엔'지능'수출해야\"",
-    "“개미들어쩌나”삼전닉스레버리지수익률‘반토막’",
     "최태원“SK하이닉스주가,시간두고우상향…주식계속갖고있어라...",
     "최태원만믿습니다…\"주식샀다팔았다하지말고갖고있으라\"",
     "하이닉스주가급락?최태원회장\"가만히가지고계시라\"",
@@ -3682,10 +3679,17 @@
     "이틀째연기…창고가득쌓인가연성생활용품이진화방해",
     "치솟던환율,왜갑자기꺾였나...원화의‘깜짝반전’",
     "반도체전력,바다에서온다…중부발전,신안우이해상풍력390㎿착공",
-    "AI메모리쏠림의빈자리…中칩,한국소비시장공략"
+    "AI메모리쏠림의빈자리…中칩,한국소비시장공략",
+    "‘SK하닉실적발표’코스피반등시험대[주간증시전망]",
+    "유가올라원유ETF상위권…변동성방어커버드콜도강세[ETF스퀘어]",
+    "김용범“단일종목레버리지ETF,변동성일부키웠지만…상폐는불가...",
+    "겨우잡힌인천쿠팡물류센터화재",
+    "삼성‘브랜드가치’글로벌빅테크8위[뉴스투데이]",
+    "변동장눈높이낮추는증권사…하향리포트가상향첫추월",
+    "국민10명중9명\"핵심기술유출범,처벌대폭강화해야\""
    ],
    "initialized": true,
-   "last_run": "2026-07-19T18:15:03.879789+09:00"
+   "last_run": "2026-07-19T18:20:26.376173+09:00"
   }
  },
  "press_names": {
