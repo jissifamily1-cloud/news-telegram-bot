@@ -406,13 +406,13 @@
     [
      "2026-07-19T09:55:19.160380+09:00",
      "1000조 최태원의 데이터센터 구상 15배로 투자는 커진"
+    ],
+    [
+     "2026-07-19T10:00:39.643759+09:00",
+     "약자 서비스 사회적 SKT 돕는 발굴 포용적"
     ]
    ],
    "seen_urls": [
-    "http://www.hellodd.com/news/articleView.html?idxno=112497",
-    "https://www.the-pr.co.kr/news/articleView.html?idxno=61962",
-    "https://www.sedaily.com/article/20068718",
-    "https://news.mtn.co.kr/news-detail/2026071616415033775",
     "https://www.news1.kr/society/environment/6230894",
     "https://www.labortoday.co.kr/news/articleView.html?idxno=235751",
     "http://www.00news.co.kr/news/articleView.html?idxno=105204",
@@ -1908,13 +1908,13 @@
     "https://www.ziksir.com/news/articleView.html?idxno=140424",
     "http://www.boannews.com/media/view.asp?idx=144638&kind=3",
     "http://www.rookie.co.kr/news/articleView.html?idxno=124929",
-    "https://www.pennmike.com/news/articleView.html?idxno=123914"
+    "https://www.pennmike.com/news/articleView.html?idxno=123914",
+    "https://www.gokorea.kr/news/articleView.html?idxno=872369",
+    "https://www.news2day.co.kr/article/20260719500021",
+    "https://www.it-b.co.kr/news/articleView.html?idxno=89149",
+    "https://www.dt.co.kr/article/12073396"
    ],
    "seen_titles": [
-    "[다시보기]헬로tv뉴스충남2026년7월16일",
-    "'AIDC'가단순임대업?...\"AI수출국가전략자산인프라\"",
-    "550조AI센터·피지컬AI·SMR·우주총력···정부,하반기기술패권드...",
-    "단일종목레버리지ETF,예탁금보다먼저막은건'광고'...효과있을까",
     "[단독]하닉ADR인기에…고위공직자투자규제,해외DR로넓힌다",
     "[토큰금융,한국은어디에①]국내선못만드는SK하이닉스토큰화주식...",
     "황룡강·49번지방도따라전력길낸다…호남반도체산단전력공급망...",
@@ -3410,10 +3410,14 @@
     "SKT,하나금융과AI인재양성해커톤개최",
     "[ISEC2026미리보기]엑스소프트,문서중앙화솔루션‘rGate’로AI시대...",
     "[유노유농]HOON'SCUP준우승으로예열마친평택SK...국제대회와전국...",
-    "[재계핫이슈]15배로커진최태원의AI데이터센터구상…1000조투자는..."
+    "[재계핫이슈]15배로커진최태원의AI데이터센터구상…1000조투자는...",
+    "SK하이닉스효과…원화강세에환율급락,연말까지하락세지속될까",
+    "삼성,AI반도체경쟁력으로브랜드가치974억달러…글로벌테크8위",
+    "SKT-하나금융,미래AI인재키운다…'테크포굿해커톤'개최",
+    "SKT,사회적약자돕는포용적AI서비스발굴"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T09:55:19.160380+09:00"
+   "last_run": "2026-07-19T10:00:39.643759+09:00"
   }
  },
  "press_names": {
