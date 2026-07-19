@@ -514,15 +514,29 @@
     [
      "2026-07-20T07:45:23.991215+09:00",
      "부진에 하락 전망 불가피 후유증 출발 연휴 반도체"
+    ],
+    [
+     "2026-07-20T07:50:27.887731+09:00",
+     "이렘 시장 레퍼런스가 세아 성장기대 STS강관 반도체용 경쟁력"
+    ],
+    [
+     "2026-07-20T07:50:27.887731+09:00",
+     "위한 SKT 발굴 미래 포용적 TECH4GOOD 해커톤 서비스 성료"
+    ],
+    [
+     "2026-07-20T07:50:27.887731+09:00",
+     "역사적 패닉셀 기회 저점 밸류 연휴기간 비중확대 반도체"
+    ],
+    [
+     "2026-07-20T07:50:27.887731+09:00",
+     "장으 국내 누적 다시 증시 장세에 변동성 피로감"
+    ],
+    [
+     "2026-07-20T07:50:27.887731+09:00",
+     "공유 한국축구 똥인지 작심비판 이강인도 구자철 몰라 된장인지"
     ]
    ],
    "seen_urls": [
-    "http://www.joseilbo.com/news/news_read.php?uid=572131&class=53",
-    "https://www.globale.co.kr/news/articleView.html?idxno=39395",
-    "https://www.dt.co.kr/article/12073323",
-    "https://www.viewsnnews.com/article?q=237279",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=01754806645515832",
-    "https://www.lecturernews.com/news/articleView.html?idxno=206580",
     "https://www.moneystorm.kr/news/articleView.html?idxno=5130",
     "https://www.slist.kr/news/articleView.html?idxno=752488",
     "https://www.mk.co.kr/article/12101254",
@@ -2016,15 +2030,15 @@
     "https://www.g-enews.com/view.php?ud=202607200726171707fbbec65dfb_1",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01236566645516488",
     "https://www.medicopharma.co.kr/news/articleView.html?idxno=68755",
-    "https://www.newsis.com/view/NISX20260720_0003714375"
+    "https://www.newsis.com/view/NISX20260720_0003714375",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000050742",
+    "http://www.snmnews.com/news/articleView.html?idxno=572200",
+    "https://kpenews.com/View.aspx?No=4153701",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01249686645516488",
+    "https://biz.sbs.co.kr/article_hub/20000323261?division=NAVER",
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/20/2026072090057.html"
    ],
    "seen_titles": [
-    "[부동산캘린더]내주전국8천905가구분양…이달들어최다",
-    "농지·항구의변신…지역소멸위기가앞당긴에너지전환",
-    "AI랠리흔들리나…반도체주조정에나스닥1.4%하락",
-    "\"애플어쩌나\"美하원,중국반도체'구매전면금지'촉구",
-    "“AI거품꺼지나”…20%폭락한美반도체지수,‘약세장’진입",
-    "'공짜'중국AI공개로美반도체주가또폭삭",
     "中문샷,GPT턱밑추격…세계최대오픈소스AI에월가'술렁'",
     "대전특수교육원,취업기관·대학참여해진학부터취업까지'특수교육대...",
     "[뉴욕증시마감]AI반도체흔들리자필라델피아지수'약세장'…월요일...",
@@ -3518,10 +3532,16 @@
     "차세대메모리단가폭등에GPU제동…SK,美반도체투자속도",
     "반도체‘패닉’속실적시즌…“빅테크투자가반등분수령”",
     "제약·바이오,호재보다악재에민감…펀더멘털재점검필요",
-    "[오늘의증시]美반도체부진에하락출발전망…'연휴후유증'불가피"
+    "[오늘의증시]美반도체부진에하락출발전망…'연휴후유증'불가피",
+    "인천쿠팡물류센터화재사흘째지속…건물붕괴우려'대피령'",
+    "高성장기대반도체용STS강관시장…세아·이렘\"레퍼런스가곧경쟁력...",
+    "SKT,포용적미래위한AI서비스발굴..‘TECH4GOOD해커톤’성료",
+    "연휴기간반도체'패닉셀'...\"밸류역사적저점,비중확대기회\"",
+    "[서학개미브리핑]국내증시변동성장세에피로감누적…다시美장으...",
+    "\"한국축구똥인지된장인지몰라\"…구자철작심비판,이강인도'공유'"
    ],
    "initialized": true,
-   "last_run": "2026-07-20T07:45:23.991215+09:00"
+   "last_run": "2026-07-20T07:50:27.887731+09:00"
   }
  },
  "press_names": {
