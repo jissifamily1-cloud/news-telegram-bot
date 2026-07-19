@@ -510,17 +510,17 @@
     [
      "2026-07-19T10:50:26.878701+09:00",
      "상향 눈높이 추월 올해 하향 목표주가 증권가도 낮췄다"
+    ],
+    [
+     "2026-07-19T10:55:19.681806+09:00",
+     "지구 모든 머스크 것보다 가치 스페이스X 테슬라 CEO 일론"
+    ],
+    [
+     "2026-07-19T10:55:19.681806+09:00",
+     "this Samsung brand hits year report US bln value"
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202607161810212431",
-    "https://www.goodkyung.com/news/articleView.html?idxno=289291",
-    "https://www.todayeconomic.com/news/article.html?no=31340",
-    "https://www.tleaves.co.kr/news/articleView.html?idxno=9570",
-    "https://www.junggi.co.kr/news/articleView.html?idxno=37163",
-    "https://economist.co.kr/article/view/ecn202607160054",
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065604281199513",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=875368",
     "https://www.mk.co.kr/article/12100603",
     "https://news.skbroadband.com/news/articleView.html?idxno=232380",
     "https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html?partner=naver",
@@ -2012,17 +2012,17 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469425",
     "https://www.naeil.com/news/read/595673",
     "https://www.kwnews.co.kr/article/20260719500353",
-    "https://kpenews.com/View.aspx?No=4153228"
+    "https://kpenews.com/View.aspx?No=4153228",
+    "https://www.sportsseoul.com/news/read/1623174",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=442399",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260719105143lrL",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260719010006482",
+    "https://www.m-i.kr/news/articleView.html?idxno=1392666",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=847546",
+    "https://magazine.hankyung.com/business/article/202607156372b",
+    "https://en.yna.co.kr/view/AEN20260719001100320?input=2106m"
    ],
    "seen_titles": [
-    "결혼하고지방살면아이더낳는다",
-    "톱티어대장주만골라담아승부…초압축ETF에돈몰린다",
-    "반도체주가떨어져도채권혼합형ETF는선방",
-    "\"해외여행수요잡아라\"…통신3사,로밍서비스경쟁",
-    "삼성물산,HJ중공업‘해모로’에홈닉공급…스마트주거경쟁력강화",
-    "쿠팡,美천문학적로비'오해'…\"활동목적도공개\"",
-    "단일종목레버리지…기본예탁금'현금3천만원'으로상향",
-    "대우건설,울산북항LNG터미널3단계준공…국내외LNGEPC경쟁력강화",
     "‘두달만에12조’반도체레버리지광풍에칼빼든당국\"현금3000만...",
     "추미애,삼성·SK에'공정수재사용확대'행정권고...\"대만TSMC처럼재...",
     "“국장투자30%늘렸다”…삼전닉스외에도해외큰손이담은업종은",
@@ -3514,10 +3514,18 @@
     "증권호황에ETF까지질주…한국금융지주저평가해소기대",
     "이철우“구미,세계반도체거점만든다”",
     "반도체인력난에원주가답했다⋯‘맞춤형취업’선순환",
-    "증권가도눈높이낮췄다..목표주가하향,올해첫상향추월"
+    "증권가도눈높이낮췄다..목표주가하향,올해첫상향추월",
+    "정부,550조투입해AI패권쥔다…‘3대메가프로젝트’본격가동",
+    "'조비''아처'미국에어택시상용화앞두고생산증대,도심인프라구...",
+    "김용범\"삼전닉스레버리지상장폐지어려워…시장충격최소화고민해...",
+    "경북,구미중심반도체소부장혁신거점육성…국방반도체클러스터조...",
+    "삼성,올해브랜드가치974억달러…세계8위",
+    "인천쿠팡물류센터화재27시간째…소방관2명부상",
+    "일론머스크테슬라·스페이스XCEO\"스페이스X,지구모든것보다가치...",
+    "Samsung'sbrandvaluehitsUS$97.4blnthisyear:report"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T10:50:26.878701+09:00"
+   "last_run": "2026-07-19T10:55:19.681806+09:00"
   }
  },
  "press_names": {
