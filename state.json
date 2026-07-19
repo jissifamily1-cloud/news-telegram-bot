@@ -502,13 +502,21 @@
     [
      "2026-07-20T07:40:27.847672+09:00",
      "외환위기 코스피 때보 금융 하루 급등락 이달"
+    ],
+    [
+     "2026-07-20T07:45:23.991215+09:00",
+     "분수령 패닉 빅테크 실적시즌 반도체 반등 투자가"
+    ],
+    [
+     "2026-07-20T07:45:23.991215+09:00",
+     "제약 재점검 필요 호재보다 민감 펀더멘털 악재에 바이오"
+    ],
+    [
+     "2026-07-20T07:45:23.991215+09:00",
+     "부진에 하락 전망 불가피 후유증 출발 연휴 반도체"
     ]
    ],
    "seen_urls": [
-    "https://www.globale.co.kr/news/articleView.html?idxno=39394",
-    "https://www.yna.co.kr/view/AKR20260716022500017?input=1195m",
-    "https://www.yna.co.kr/view/AKR20260717043200003?input=1195m",
-    "https://www.mt.co.kr/industry/2026/07/18/2026071514540575545",
     "http://www.joseilbo.com/news/news_read.php?uid=572131&class=53",
     "https://www.globale.co.kr/news/articleView.html?idxno=39395",
     "https://www.dt.co.kr/article/12073323",
@@ -2004,13 +2012,13 @@
     "https://www.ajunews.com/view/20260720072809918",
     "https://www.wikitree.co.kr/articles/1147241",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5206818",
-    "https://www.ytn.co.kr/_ln/0102_202607200713210714"
+    "https://www.ytn.co.kr/_ln/0102_202607200713210714",
+    "https://www.g-enews.com/view.php?ud=202607200726171707fbbec65dfb_1",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01236566645516488",
+    "https://www.medicopharma.co.kr/news/articleView.html?idxno=68755",
+    "https://www.newsis.com/view/NISX20260720_0003714375"
    ],
    "seen_titles": [
-    "[서울데이터랩]미국증시,기술주약세에일제하락…나스닥1.4%밀려",
-    "엔비디아부터반도체주까지급락…AI반도체열풍꺾였나",
-    "뉴욕증시,AI거품론에약세···필라델피아반도체지수20%폭락",
-    "[AI돋보기]챗GPT는왜'GPT'일까…AI이름에숨은패권전략",
     "[부동산캘린더]내주전국8천905가구분양…이달들어최다",
     "농지·항구의변신…지역소멸위기가앞당긴에너지전환",
     "AI랠리흔들리나…반도체주조정에나스닥1.4%하락",
@@ -3506,10 +3514,14 @@
     "[아주증시포커스]조정장에풀베팅나선개미…35.8조쓸어담고반도체...",
     "“상가·공장즉시대피하라”…인천쿠팡물류센터화재사흘째,‘휴교...",
     "7월20일굿모닝MBN이시각주요뉴스",
-    "[스타트경제]코스피이달하루6.75%씩급등락...금융·외환위기때보..."
+    "[스타트경제]코스피이달하루6.75%씩급등락...금융·외환위기때보...",
+    "차세대메모리단가폭등에GPU제동…SK,美반도체투자속도",
+    "반도체‘패닉’속실적시즌…“빅테크투자가반등분수령”",
+    "제약·바이오,호재보다악재에민감…펀더멘털재점검필요",
+    "[오늘의증시]美반도체부진에하락출발전망…'연휴후유증'불가피"
    ],
    "initialized": true,
-   "last_run": "2026-07-20T07:40:27.847672+09:00"
+   "last_run": "2026-07-20T07:45:23.991215+09:00"
   }
  },
  "press_names": {
