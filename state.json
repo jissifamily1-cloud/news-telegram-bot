@@ -394,17 +394,21 @@
     [
      "2026-07-19T09:50:27.742905+09:00",
      "하향으로 증권가 쏟아내던 상승보고서 7000선 돌아서 국내 깨지자"
+    ],
+    [
+     "2026-07-19T09:55:19.160380+09:00",
+     "엑스소프트 rGate 시대 문서중앙화 솔루션"
+    ],
+    [
+     "2026-07-19T09:55:19.160380+09:00",
+     "HOON 준우승으로 평택 예열 마친 국제대회와 전국 CUP"
+    ],
+    [
+     "2026-07-19T09:55:19.160380+09:00",
+     "1000조 최태원의 데이터센터 구상 15배로 투자는 커진"
     ]
    ],
    "seen_urls": [
-    "https://news.mtn.co.kr/news-detail/2026071616420877169",
-    "https://www.sentv.co.kr/article/view/sentv202607160100",
-    "https://www.mk.co.kr/article/12100533",
-    "https://www.sentv.co.kr/article/view/sentv202607150144",
-    "https://www.insightkorea.co.kr/news/articleView.html?idxno=250350",
-    "https://magazine.hankyung.com/business/article/202607160287b",
-    "http://news.lghellovision.net/news/articleView.html?idxno=548689",
-    "https://zdnet.co.kr/view/?no=20260716173229",
     "http://www.hellodd.com/news/articleView.html?idxno=112497",
     "https://www.the-pr.co.kr/news/articleView.html?idxno=61962",
     "https://www.sedaily.com/article/20068718",
@@ -1896,17 +1900,17 @@
     "https://www.youthdaily.co.kr/news/article.html?no=223268",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041876",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573352985111",
-    "https://www.mk.co.kr/article/12101574"
+    "https://www.mk.co.kr/article/12101574",
+    "https://www.gokorea.kr/news/articleView.html?idxno=872361",
+    "https://www.news1.kr/it-science/cc-newmedia/6231873",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01289046645516160",
+    "https://www.sentv.co.kr/article/view/sentv202607190002",
+    "https://www.ziksir.com/news/articleView.html?idxno=140424",
+    "http://www.boannews.com/media/view.asp?idx=144638&kind=3",
+    "http://www.rookie.co.kr/news/articleView.html?idxno=124929",
+    "https://www.pennmike.com/news/articleView.html?idxno=123914"
    ],
    "seen_titles": [
-    "\"낙폭과대2차전지·엔터·의료기기株주목\"",
-    "장애인신문뉴스브리핑'(2026.7.16)",
-    "외국인관광객몰리자렌터카업계'뜻밖의호황'",
-    "아마존도위성인터넷가세…SK텔링크·KTSAT사업영향은",
-    "[매일경제TV]쿠팡6000억원대과장금의미는",
-    "롯데렌탈새주인TPG되나…이달말윤곽관측",
-    "사법리스크해소1년...이재용삼성회장,메모리'트리플크라운'노린...",
-    "현금3천만원있어야'삼전닉스'레버리지매매가능해진다",
     "[다시보기]헬로tv뉴스충남2026년7월16일",
     "'AIDC'가단순임대업?...\"AI수출국가전략자산인프라\"",
     "550조AI센터·피지컬AI·SMR·우주총력···정부,하반기기술패권드...",
@@ -3398,10 +3402,18 @@
     "KT,개인정보유출과징금이달결론...정부제재수위곧확정",
     "경북도,구미중심반도체소부장혁신거점조성…국방반도체클러스터...",
     "[종합기획]\"내릴때더산다\"삼전·닉스진격개미군단…꼭알아야할...",
-    "상승보고서쏟아내던국내증권가,7000선깨지자하향으로돌아서"
+    "상승보고서쏟아내던국내증권가,7000선깨지자하향으로돌아서",
+    "BTS활동전망에도엔터기업주가'곤두박질'…JYP·에스엠등시총8조...",
+    "SKT-하나금융그룹,AI인재양성위한해커톤성료",
+    "포용적미래위한AI서비스는?해커톤대회서청년들아이디어빛났다",
+    "외국인,국내주식12조팔고ETF는6000억순매수",
+    "SKT,하나금융과AI인재양성해커톤개최",
+    "[ISEC2026미리보기]엑스소프트,문서중앙화솔루션‘rGate’로AI시대...",
+    "[유노유농]HOON'SCUP준우승으로예열마친평택SK...국제대회와전국...",
+    "[재계핫이슈]15배로커진최태원의AI데이터센터구상…1000조투자는..."
    ],
    "initialized": true,
-   "last_run": "2026-07-19T09:50:27.742905+09:00"
+   "last_run": "2026-07-19T09:55:19.160380+09:00"
   }
  },
  "press_names": {
