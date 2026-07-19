@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-19T06:20:28.445307+09:00",
-     "12조원 6천억원 외국인 샀다 국내 주식 이달 ETF는"
-    ],
-    [
-     "2026-07-19T06:25:18.479457+09:00",
-     "평균 엔터 시총 올해 목표가 8조 증발 삭풍 부는"
-    ],
-    [
      "2026-07-19T06:30:49.673557+09:00",
      "환율 달러 회복 470원대 가치 원화 급락 강세"
     ],
@@ -549,13 +541,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newstnt.com/news/articleView.html?idxno=710627",
-    "https://www.joongang.co.kr/article/25445764",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=442566",
-    "https://www.segye.com/newsView/20260716518524?OutUrl=naver",
-    "http://coinreaders.com/248111",
-    "http://www.intn.co.kr/news/articleView.html?idxno=2052015",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092166012",
     "https://www.mk.co.kr/article/12095440",
     "https://www.busan.com/view/busan/view.php?code=2026071620214623923",
     "https://biz.heraldcorp.com/article/10811001",
@@ -2048,16 +2033,16 @@
     "https://www.smarttoday.co.kr/ko-kr/articles/109576",
     "https://www.techm.kr/news/articleView.html?idxno=153485",
     "https://www.hankyung.com/article/2026071925167",
-    "http://www.fnnews.com/news/202607191210561570"
+    "http://www.fnnews.com/news/202607191210561570",
+    "https://www.donga.com/news/Economy/article/all/20260719/134317777/1",
+    "https://m.skyedaily.com/news_view.html?ID=308074",
+    "https://www.econovill.com/news/articleView.html?idxno=745558",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1716859",
+    "https://www.sedaily.com/article/20069076",
+    "https://www.smarttoday.co.kr/ko-kr/articles/109574",
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030130229&code=61141411&cp=nv"
    ],
    "seen_titles": [
-    "금융위\"단일종목레버리지규모줄이는게1차목표\"[일문일답]",
-    "추미애\"'삼전닉스'방류위반엄중조치\"…'공정·혁신·포용'드라이브",
-    "[공시]모나미·지앤이헬스케어'거래정지',비비안·에넥스'투자경고...",
-    "‘삼전닉스’레버리지예탁금현금3000만원으로…20주씩만매매",
-    "[7월17일자]비즈니스포스트아침의주요기사",
-    "반도체피크아웃우려에코스피7000선또내줘",
-    "메모리공급난종료?...반도체주,해법등장에오히려'휘청'",
     "대우건설,울산북항LNG터미널3단계준공",
     "日,엔비디아차세대GPU확보…피지컬AI승부수",
     "AI돌봄·공동구독·코리빙…웰컴투‘외로움시장’[스페셜리포트]",
@@ -3550,10 +3535,17 @@
     "최태원“메모리수요어차피지속…갖고있어라”",
     "SKT'독파모활용확대'vsKT'AX전열강조',AI경쟁'치열'",
     "최태원,성과급논란에입열었다…\"긍정적영향도있어\"",
-    "\"AI로더나은사회구현\"SKT,하나금융그룹과해커톤개최"
+    "\"AI로더나은사회구현\"SKT,하나금융그룹과해커톤개최",
+    "최태원,성과급논란에“주주등이해관계자도함께행복해야”",
+    "김용범“레버리지상폐어렵다”…예탁금3000만원에반도체쏠림줄까",
+    "쿠팡\"인천물류센터화재송구…당국조사적극협조\"",
+    "[주간증시전망]AI투자시험대오른증시…빅테크실적시즌개막",
+    "쿠팡물류센터화재27시간째…“오늘밤11시초진목표”",
+    "SK에코플랜트대표,KTX공사현장사고협력사근로자유족찾아사과",
+    "최태원“내년반도체수요최소50%이상폭증할것”"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T12:20:28.219611+09:00"
+   "last_run": "2026-07-19T12:25:23.357834+09:00"
   }
  },
  "press_names": {
