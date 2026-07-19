@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-19T10:55:19.681806+09:00",
-     "지구 모든 머스크 것보다 가치 스페이스X 테슬라 CEO 일론"
-    ],
-    [
-     "2026-07-19T10:55:19.681806+09:00",
-     "this Samsung brand hits year report US bln value"
-    ],
-    [
      "2026-07-19T11:00:38.728612+09:00",
      "재개발 오세훈 아냐 말해볼 만나 김용범 만능키 따로 재건축"
     ],
@@ -570,11 +562,17 @@
     [
      "2026-07-19T16:45:26.673673+09:00",
      "SK하이닉스 품고도 6000만원 마피 일신건영 이천휴"
+    ],
+    [
+     "2026-07-19T16:55:21.685218+09:00",
+     "반도체주 쇼크 문샷AI 우려 약세장 월가 중국"
+    ],
+    [
+     "2026-07-19T16:55:21.685218+09:00",
+     "ETF에 삼전닉스 빠질땐 주목하라 주가"
     ]
    ],
    "seen_urls": [
-    "https://hbnpress.com/news/view/1065589230870498",
-    "https://www.koit.co.kr/news/articleView.html?idxno=208043",
     "https://www.swtvnews.com/news/newsview.php?ncode=1065589303142751",
     "https://www.ajunews.com/view/20260717090000488",
     "https://www.chosun.com/economy/stock-finance/2026/07/17/VZA3RD22LNCWTAMXFRMBHG6LOY/",
@@ -2072,11 +2070,11 @@
     "https://www.viva100.com/article/20260719500495",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=264704",
     "https://www.econovill.com/news/articleView.html?idxno=745569",
-    "https://www.dt.co.kr/article/12073486"
+    "https://www.dt.co.kr/article/12073486",
+    "https://www.etoday.co.kr/news/view/2604909",
+    "https://view.asiae.co.kr/article/2026071517233231147"
    ],
    "seen_titles": [
-    "반도체업체압도적실적발표날이'초상집'...메모리주잔치종말징후",
-    "한국투자2위돌풍…미래에셋1위수성속K-브랜드지수증권사부문지...",
     "‘3위KB증권vs4위삼성증권’...K-브랜드지수증권사부문순위싸움...",
     "고성능·독자·보편적AI로경제·과학·일상혁신",
     "NH투자증권,‘K-브랜드지수’증권사부문2→7위‘급락’...미래에셋...",
@@ -3574,10 +3572,12 @@
     "[분양체크]SK하이닉스품고도‘6000만원마피?’...일신건영‘이천휴...",
     "인천쿠팡물류센터지상·공중진화작전…\"오늘오후11시초진전망\"",
     "국힘\"ETF사태국조해야\"…김용범\"상폐어렵다,시장충격우려\"",
-    "쿠팡물류센터,또화재…방화벽·스프링클러무용지물의혹"
+    "쿠팡물류센터,또화재…방화벽·스프링클러무용지물의혹",
+    "월가,중국‘문샷AI쇼크’우려…美반도체주약세장",
+    "\"삼전닉스주가빠질땐…'○○'ETF에주목하라\"[주末머니]"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T16:50:30.553269+09:00"
+   "last_run": "2026-07-19T16:55:21.685218+09:00"
   }
  },
  "press_names": {
