@@ -534,17 +534,17 @@
     [
      "2026-07-19T13:39:16.457955+09:00",
      "실적 전망 돌파 역대급 삼성증권 거래대금 5000억 폭증에 순이익"
+    ],
+    [
+     "2026-07-19T13:45:25.142851+09:00",
+     "농구에 농구 코트에 늘어났다 초등부 저학년들이"
+    ],
+    [
+     "2026-07-19T13:45:25.142851+09:00",
+     "금융정의연대 대책 즉각 마련해야 보호 투자자 금융당국은"
     ]
    ],
    "seen_urls": [
-    "https://www.joongang.co.kr/article/25445828",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008661974&plink=ORI&cooper=NAVER",
-    "https://www.joongang.co.kr/article/25445831",
-    "https://imnews.imbc.com/replay/2026/nw2500/article/6838067_36989.html",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1784187792&code=11171399&cp=nv",
-    "https://imnews.imbc.com/replay/2026/nw2500/article/6838068_36989.html",
-    "https://www.joongang.co.kr/article/25445837",
-    "https://www.chosun.com/politics/election2026/2026/07/17/B5ZGWFRABNGB5PJFDEPLPWQRKE/",
     "https://www.chosun.com/national/regional/2026/07/17/UTBD2B7IXVD3LPIS3GUVUOVXWA/",
     "https://www.chosun.com/economy/stock-finance/2026/07/17/XAEBAVPKLBHGTLLGRGY7H4L7L4/",
     "https://www.energy-news.co.kr/news/articleView.html?idxno=226876",
@@ -2036,17 +2036,17 @@
     "https://www.g-enews.com/view.php?ud=2026071913302394402aa6f4cdad_1",
     "https://www.newsis.com/view/NISX20260719_0003714100",
     "https://www.globale.co.kr/news/articleView.html?idxno=39399",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469432"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469432",
+    "https://www.etoday.co.kr/news/view/2604886",
+    "http://weekly.chosun.com/news/articleView.html?idxno=53587",
+    "https://www.nocutnews.co.kr/news/6549853",
+    "https://www.econovill.com/news/articleView.html?idxno=745559",
+    "https://www.asiatime.co.kr/article/20260719500038",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8614259",
+    "http://www.rookie.co.kr/news/articleView.html?idxno=124932",
+    "http://www.newsbrite.net/news/articleView.html?idxno=199328"
    ],
    "seen_titles": [
-    "[사설]증시흔드는레버리지ETF,미봉책으론불안해소못한다",
-    "‘반도체피크아웃’공포에…삼전닉스추락·코스피는다시7000선붕...",
-    "현금3000만원없으면레버리지ETF투자못한다",
-    "레버리지예탁금3배↑…'매매단위'20주로",
-    "이대통령“나만표적이라는기업있다”…쿠팡겨냥한듯",
-    "'레버리지'문턱높인다\"현금3천만원부터\"",
-    "[세상만사]‘주식인사’가사라졌다",
-    "널뛰기에멀미나는코스피‥변동성잡히나",
     "하닉7%하락때레버리지는34%빠졌다…투자자울리는‘음의복리’",
     "“지난임기때반도체계획틀마련…이젠빠르게완성시키는게중요...",
     "“소양강변에AI데이터센터유치…풍부한물,수도권접근성갖춰”",
@@ -3538,10 +3538,18 @@
     "“코스피글로벌증시좌우\"…블룸버그,한국증시글로벌투자심리선행...",
     "\"밤11시초진목표\"인천쿠팡물류센터지상·공중특수작전",
     "최태원회장\"지속가능행복위해이해관계자조화중요\"",
-    "거래대금폭증에삼성증권'역대급실적'…순이익5000억돌파전망"
+    "거래대금폭증에삼성증권'역대급실적'…순이익5000억돌파전망",
+    "인천쿠팡물류센터화재진압총력…소방“오후11시초진목표”",
+    "김용범\"삼전닉스레버리지,상장폐지어렵다\"…\"시장에엄청난충격\"",
+    "경북도,경북형반도체생태계조성나선다",
+    "최태원\"성과급논란더지켜봐야…AI반도체수요폭증\"",
+    "최태원\"샀다팔았다말고가만히\"…SK하이닉스'우상향'조언통할까",
+    "“한국증시,글로벌증시심리좌우”…블룸버그,AI발한국증시영향...",
+    "[에어컨리그]농구코트에초등부저학년들이늘어났다...\"농구에대한...",
+    "금융정의연대\"금융당국은즉각투자자보호대책마련해야\""
    ],
    "initialized": true,
-   "last_run": "2026-07-19T13:40:30.166901+09:00"
+   "last_run": "2026-07-19T13:45:25.142851+09:00"
   }
  },
  "press_names": {
