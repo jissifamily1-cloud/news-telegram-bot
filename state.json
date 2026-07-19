@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-20T02:15:26.597175+09:00",
-     "충격 쏠린 중국 세계의 AI발 월요일 코스피에"
-    ],
-    [
      "2026-07-20T02:30:33.484222+09:00",
      "의원 21일 정책토론회 주식시장 국내 개최 이종욱 진단"
     ],
@@ -618,14 +614,17 @@
     [
      "2026-07-20T08:15:25.791448+09:00",
      "테스트 확인할 지지력 6000선 구간 하단 초중반에서 코스피 진입"
+    ],
+    [
+     "2026-07-20T08:20:26.103722+09:00",
+     "호황 편중 수혜 번질까 한은 경계한 반도체 내수로"
+    ],
+    [
+     "2026-07-20T08:20:26.103722+09:00",
+     "안팎 SK하닉 한꺼번에 휴일 삼전 악재 급락 프리마켓서"
     ]
    ],
    "seen_urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041665",
-    "https://www.etoday.co.kr/news/view/2604497",
-    "https://www.sentv.co.kr/article/view/sentv202607160160",
-    "https://www.segye.com/newsView/20260717507816?OutUrl=naver",
-    "https://biz.sbs.co.kr/article_hub/20000323020?division=NAVER",
     "https://www.newsis.com/view/NISX20260716_0003712715",
     "https://www.sidae.com/article/2026071714405877468",
     "https://www.yna.co.kr/view/AKR20260716181800008?input=1195m",
@@ -2120,14 +2119,14 @@
     "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=519948",
     "https://www.kyosu.net/news/articleView.html?idxno=207767",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260719010006584",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=01328406645516488"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01328406645516488",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01367766645516488",
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030132826&code=61141211&cp=nv",
+    "https://magazine.hankyung.com/business/article/202607203361b",
+    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699989",
+    "https://www.dt.co.kr/article/12073544"
    ],
    "seen_titles": [
-    "[부동산캘린더]다음주전국6468가구공급…휴가철앞두고분양물량...",
-    "6800선까지밀린코스피…빅테크·SK하이닉스실적이반등가른다[투자...",
-    "[와이파이]7월3주,해외여행로밍할인…SKT외2가지통신혜택",
-    "전력난벽에부딪힌AI데이터센터…K-조선,‘바다위팹’으로리레이...",
-    "“여름휴가객잡자”이통3사,로밍전략‘가지각색’",
     "경남도,‘행정마비’원천차단…전국최초국가정보통신망지역이원...",
     "쏙들어간1만피…반도체정점론vs.매수타이밍",
     "레버리지의자기증폭…시장흔드는'피드백루프'[변동성이덮친증시②...",
@@ -3622,10 +3621,15 @@
     "[재벌가의'세대교체공식']지분증여로드러난변화'나비엔매직'장...",
     "\"AI시대산학연혁신생태계이끌것\"...김종옥대한전자공학회장청사...",
     "[기자의눈]멈춰선울산구조개편…감축시한·패널티기준필요",
-    "코스피,하단테스트구간진입…\"6000선초중반에서지지력확인할것..."
+    "코스피,하단테스트구간진입…\"6000선초중반에서지지력확인할것...",
+    "“반도체반등,빅테크실적에달렸다…설비투자유지가관건”",
+    "[속보]삼전닉스프리마켓서5%대하락…위기의반도체주",
+    "[속보]'검은월요일'되나···프리마켓서삼성·닉스5%대폭락",
+    "반도체호황,내수로번질까···수혜편중경계한한은",
+    "휴일악재한꺼번에…삼전·SK하닉,프리마켓서5%안팎급락"
    ],
    "initialized": true,
-   "last_run": "2026-07-20T08:15:25.791448+09:00"
+   "last_run": "2026-07-20T08:20:26.103722+09:00"
   }
  },
  "press_names": {
