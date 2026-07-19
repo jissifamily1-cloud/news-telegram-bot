@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-19T09:45:30.520026+09:00",
-     "전략도 경쟁 AX 통신3사 갈래 본격화"
-    ],
-    [
-     "2026-07-19T09:50:27.742905+09:00",
-     "삼전 닉스 내릴 개미군단 진격 산다 알아야"
-    ],
-    [
-     "2026-07-19T09:50:27.742905+09:00",
-     "하향으로 증권가 쏟아내던 상승보고서 7000선 돌아서 국내 깨지자"
-    ],
-    [
      "2026-07-19T09:55:19.160380+09:00",
      "엑스소프트 rGate 시대 문서중앙화 솔루션"
     ],
@@ -590,14 +578,17 @@
     [
      "2026-07-19T15:45:28.788434+09:00",
      "분당 정희원 청학동 코치 삼성 훈장님 유망주에서"
+    ],
+    [
+     "2026-07-19T15:50:29.621068+09:00",
+     "제재 소액결제 KT에 규모 주목 초읽기 과징금 개인정보위 무단"
+    ],
+    [
+     "2026-07-19T15:50:29.621068+09:00",
+     "코스피 개미들 삼전닉스 오르겠지 급락에도 매수 3조원대 그래도"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026071601511",
-    "https://biz.heraldcorp.com/article/10811751",
-    "http://www.queen.co.kr/news/articleView.html?idxno=459762",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092165952",
-    "https://www.banronbodo.com/news/articleView.html?idxno=32651",
     "https://thetracker.co.kr/View.aspx?No=4152492",
     "https://news.tvchosun.com/site/data/html_dir/2026/07/17/2026071790011.html",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=360456",
@@ -2092,14 +2083,14 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01708886645516160",
     "https://www.newsis.com/view/NISX20260719_0003714102",
     "https://www.pennmike.com/news/articleView.html?idxno=123928",
-    "http://www.rookie.co.kr/news/articleView.html?idxno=124961"
+    "http://www.rookie.co.kr/news/articleView.html?idxno=124961",
+    "http://www.fnnews.com/news/202607191121549794",
+    "http://www.fnnews.com/news/202607191541343358",
+    "https://www.sedaily.com/article/20069100",
+    "https://www.munhwa.com/article/11603462",
+    "https://www.mk.co.kr/article/12101670"
    ],
    "seen_titles": [
-    "TSMC가걷어낸반도체고점론?…“AI수요더강해졌다”",
-    "‘AI버블’논쟁에흔들린반도체…‘삼전닉스’내년까지갈까",
-    "투자인플루언서된반도체엔지니어\"기술보다병목읽어야\"",
-    "정부·여당실책때리는데안먹히는국힘,타개책있나[이런정치]",
-    "[영재교육]영재학교경쟁률,'중복지원금지이후최대'가말하는것은...",
     "여름휴가철성큼…SKT·LG유플로밍혜택총정리",
     "[주간기업동향]최태원SK그룹회장,AI데이터센터비용혁신강조外",
     "[단독]SK실트론,美자회사청산돌입",
@@ -3594,10 +3585,15 @@
     "대장주만골라담는ETF뜬다…‘톱2·톱3’상품잇단흥행",
     "김용범'레버리지ETF'추가보완책시사…'왝더독·괴리율'잡나",
     "잡히지않는불길에난항겪는인천쿠팡물류센터화재…소방당국,총...",
-    "[에어컨리그]'청학동훈장님'분당삼성정희원코치...유망주에서신..."
+    "[에어컨리그]'청학동훈장님'분당삼성정희원코치...유망주에서신...",
+    "'초단타놀이터'된삼전닉스레버리지…일평균회전율130%육박",
+    "글로벌AI풍향계된韓증시…SK하닉美ETF첫날3.3억달러거래",
+    "“오늘한국증시어땠지?”…글로벌큰손들,매일아침코스피부터확...",
+    "‘무단소액결제’KT에개인정보위제재초읽기…과징금규모주목",
+    "“그래도오르겠지”…코스피급락에도개미들삼전닉스3조원대매수"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T15:45:28.788434+09:00"
+   "last_run": "2026-07-19T15:50:29.621068+09:00"
   }
  },
  "press_names": {
