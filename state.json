@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-19T03:27:30.158789+09:00",
-     "엔비디아 조절 감소 속도 대비 애플 1위 시총 고점 투자 장중"
-    ],
-    [
      "2026-07-19T03:50:27.108252+09:00",
      "500은 최고치 기술주 사상 폭락에도 금융주 버텼다"
     ],
@@ -378,11 +374,13 @@
     [
      "2026-07-19T09:25:22.030976+09:00",
      "분양 돌입 기대 중심 유입 청약 실수요자 VIEW 의왕역"
+    ],
+    [
+     "2026-07-19T09:30:35.955430+09:00",
+     "레버리지 시장 찾겠다 김용범 없다 해법 충격 폐지 줄일"
     ]
    ],
    "seen_urls": [
-    "https://news.monsterzym.com/index.php?mid=sports_asia&type=main&document_srl=10455654",
-    "http://www.econotelling.com/news/articleView.html?idxno=20930",
     "http://www.dtnews24.com/news/articleView.html?idxno=813360",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7174311",
     "https://www.etoday.co.kr/news/view/2604672",
@@ -1880,11 +1878,11 @@
     "http://www.srtimes.kr/news/articleView.html?idxno=207750",
     "http://www.metroseoul.co.kr/article/20260716500193",
     "http://www.srtimes.kr/news/articleView.html?idxno=207740",
-    "https://www.viva100.com/article/20260716500991"
+    "https://www.viva100.com/article/20260716500991",
+    "https://www.mt.co.kr/tech/2026/07/19/2026071909191366093",
+    "https://www.hani.co.kr/arti/politics/bluehouse/1268826.html"
    ],
    "seen_titles": [
-    "\"SK하이닉스주가,역외서먼저움직인다…RWA무기한선물주목해야\"",
-    "AI투자둔화우려에증시급락…코스피6%↓·코스닥4%↓",
     "제주SK,천안서'U-23대표출신'GK허자웅영입...안찬기군입대공백...",
     "코스피의빈번한급등락에볼멘소리",
     "5월부터'무승'대전하나시티즌,홈에서반전노린다",
@@ -3382,10 +3380,12 @@
     "LG유플러스'유독',교보문고샘·모아진결합상품출시",
     "오르는건인버스뿐…코스닥시장'경고등'",
     "[주간브리핑]800조슈퍼재정편성…삼성포용금융2000억원",
-    "[르포]‘의왕역SKVIEW’분양돌입…“실수요자중심청약유입기대..."
+    "[르포]‘의왕역SKVIEW’분양돌입…“실수요자중심청약유입기대...",
+    "\"포용적미래를위한AI서비스\"…SKT,'TECH4GOOD해커톤'성료",
+    "김용범“레버리지폐지없다…시장충격줄일해법찾겠다”"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T09:25:22.030976+09:00"
+   "last_run": "2026-07-19T09:30:35.955430+09:00"
   }
  },
  "press_names": {
