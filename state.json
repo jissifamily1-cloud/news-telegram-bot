@@ -389,8 +389,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.pennmike.com/news/articleView.html?idxno=123853",
-    "https://www.hankyung.com/article/2026071602701",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256240",
     "https://www.mk.co.kr/article/12100535",
     "https://www.news2day.co.kr/article/20260716500258",
@@ -1888,11 +1886,11 @@
     "https://www.hani.co.kr/arti/politics/bluehouse/1268826.html",
     "https://economist.co.kr/article/view/ecn202607190002",
     "https://www.yna.co.kr/view/AKR20260717050300017?input=1195m",
-    "https://www.mt.co.kr/politics/2026/07/19/2026071608002530911"
+    "https://www.mt.co.kr/politics/2026/07/19/2026071608002530911",
+    "https://www.socialvalue.kr/news/view/1065573281182810",
+    "https://www.newsis.com/view/NISX20260719_0003713913"
    ],
    "seen_titles": [
-    "[정인호객원기자칼럼]AI열풍?버블붕괴도대비해야",
-    "삼성전자,89조벌고도30%급락한이유[찐코노미]",
     "[재계핫이슈]126조중국D램의역습,삼전닉스주가의새변수",
     "삼닉레버리지ETF예탁금3000만원",
     "'개미진입완전차단?'···단일종목레버리지,'초강수'매매조건걸...",
@@ -3390,10 +3388,12 @@
     "김용범“레버리지폐지없다…시장충격줄일해법찾겠다”",
     "'운명의한주'급락한코스피향방美알파벳이가른다,왜?",
     "[AI위클리]AI무게중심'추론'으로…국산NPU시대열린다",
-    "반년만에되살아난'주52시간'예외논의...첨단기업'생존의조건'"
+    "반년만에되살아난'주52시간'예외논의...첨단기업'생존의조건'",
+    "SKT,‘TECH4GOOD해커톤’성료…\"포용적미래를위한AI서비스\"발굴",
+    "AI가아이맞춤동화만들었다…SKT·하나금융,청년해커톤개최"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T09:35:22.144732+09:00"
+   "last_run": "2026-07-19T09:40:25.743264+09:00"
   }
  },
  "press_names": {
