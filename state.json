@@ -213,7 +213,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.gokorea.kr/news/articleView.html?idxno=872281",
     "https://www.sedaily.com/article/20068900",
     "https://www.khan.co.kr/article/202607171555001",
     "https://www.dailian.co.kr/news/view/1668245/?sc=Naver",
@@ -1712,10 +1711,10 @@
     "https://www.donga.com/news/Economy/article/all/20260720/134325062/2",
     "https://www.donga.com/news/Economy/article/all/20260720/134325137/2",
     "https://www.donga.com/news/Politics/article/all/20260720/134325135/2",
-    "https://www.mt.co.kr/industry/2026/07/20/2026071919394737688"
+    "https://www.mt.co.kr/industry/2026/07/20/2026071919394737688",
+    "https://www.news2day.co.kr/article/20260719500054"
    ],
    "seen_titles": [
-    "정부향한이상일시장의직격…\"용인반도체속도전,말이아닌행동으...",
     "금융위,단일종목레버리지ETF효과급조명…해외자금유출방지에한...",
     "AI시대속한국의미래:최태원회장이말하는메모리반도체와인재...",
     "애플이원하는중국산메모리…美의회는“구매금지해야”",
@@ -3214,10 +3213,11 @@
     "N%성과급개선뜻밝힌최태원“이해관계자행복깨선안돼”",
     "최태원“N%성과급,주주등이익침해땐손대야”",
     "김용범“삼전닉스레버리지상장폐지어려워”",
-    "\"메모리수요아비규환,증설이생명줄\""
+    "\"메모리수요아비규환,증설이생명줄\"",
+    "[N2포커스]바닥다졌나…코스피,알파벳·테슬라·SK하이닉스실적'승..."
    ],
    "initialized": true,
-   "last_run": "2026-07-20T04:45:24.865900+09:00"
+   "last_run": "2026-07-20T04:50:27.951373+09:00"
   }
  },
  "press_names": {
