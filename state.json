@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-19T11:25:20.570660+09:00",
-     "보고서 삼전닉스 모건의 굴리는 1경원 진짜 한줄에 흔들린"
-    ],
-    [
      "2026-07-19T11:35:21.603554+09:00",
      "해상풍력 발전단지 전남광주통합특별시 신안우이 착공"
     ],
@@ -618,12 +614,13 @@
     [
      "2026-07-19T17:20:27.618548+09:00",
      "시대 주기 반도체 논리 바뀔 시트리니 있어 메모리"
+    ],
+    [
+     "2026-07-19T17:25:20.917361+09:00",
+     "반도체 투자 ASML 피크론 TSMC 해소되나 이상무"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260715_0003710866",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=724558",
-    "http://www.srtimes.kr/news/articleView.html?idxno=207723",
     "https://www.todaykorea.co.kr/news/articleView.html?idxno=403919",
     "https://www.kmib.co.kr/article/view.asp?arcid=0030123637&code=61141211&cp=nv",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5206477",
@@ -2120,12 +2117,12 @@
     "https://www.jjan.kr/article/20260707500216",
     "https://www.tokenpost.kr/news/breaking/379197",
     "https://www.joongang.co.kr/article/25446220",
-    "https://www.tokenpost.kr/news/breaking/379195"
+    "https://www.tokenpost.kr/news/breaking/379195",
+    "https://www.news2day.co.kr/article/20260719500078",
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030131071&code=61141111&cp=nv",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607162056512600506"
    ],
    "seen_titles": [
-    "반도체흔들리자코스피롤러코스터…레버리지ETF가키웠다",
-    "반도체장비값또뛴다…ASML가격인상에TSMC반발",
-    "빅데이터가뽑은여름휴가철인기목적지…공항·해변,그리고빵집",
     "[이주의전자수첩]삼성·SK,용인반도체팹조기가동…'속도전'돌...",
     "아이에스동서,'비건설'로체질바꿨다",
     "[김성기칼럼]세금인상파장점검하는토론이어야",
@@ -3622,10 +3619,13 @@
     "[기고]도지사와국회의원,완주군수는무얼준비하고있는가",
     "외국인,7월한국주식12.4조원순매도",
     "똑같이‘반도체특수’맞았지만…1인당GDP,올해도대만이한국추월",
-    "시트리니“AI시대,메모리반도체주기논리바뀔수있어”"
+    "시트리니“AI시대,메모리반도체주기논리바뀔수있어”",
+    "최태원\"반도체확보아비규환…생산능력확대서둘러야\"",
+    "‘개미무덤’삼전·닉스레버리지,13조빨아들였다…수익률은반토막",
+    "TSMC·ASML“AI투자이상무”…‘반도체피크론’해소되나"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T17:20:27.618548+09:00"
+   "last_run": "2026-07-19T17:25:20.917361+09:00"
   }
  },
  "press_names": {
