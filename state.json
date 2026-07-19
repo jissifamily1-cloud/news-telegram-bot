@@ -554,15 +554,17 @@
     [
      "2026-07-19T14:35:23.396530+09:00",
      "문제 코스피 7월 1600p 없는데 펀더멘탈은 증권가 급락 들어"
+    ],
+    [
+     "2026-07-19T14:40:25.891792+09:00",
+     "21일 시험대 제도 AI기본법 시행 개정안"
+    ],
+    [
+     "2026-07-19T14:40:25.891792+09:00",
+     "무엇 가을야구 최정 이제 확률 시즌 함께 소멸한 SSG 이탈과 완전 남은"
     ]
    ],
    "seen_urls": [
-    "https://www.fntimes.com/html/view.php?ud=202607161649061399c1c16452b0_18",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4425566",
-    "https://www.mk.co.kr/article/12100839",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607170091&t=NN",
-    "https://www.seoul.co.kr/news/economy/2026/07/17/20260717500008?wlog_tag3=naver",
-    "https://www.sedaily.com/article/20068565",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469189",
     "https://www.econovill.com/news/articleView.html?idxno=745449",
     "https://www.yna.co.kr/view/AKR20260717006751072?input=1195m",
@@ -2056,15 +2058,15 @@
     "https://www.ajunews.com/view/20260719140836467",
     "https://www.viva100.com/article/20260719500428",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5206729",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=847450"
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=847450",
+    "https://isplus.com/article/view/isp202607190061",
+    "https://www.munhwa.com/article/11603455",
+    "https://www.ajunews.com/view/20260719142336507",
+    "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160277732343335",
+    "https://www.newscj.com/news/articleView.html?idxno=3418061",
+    "http://www.spochoo.com/news/articleView.html?idxno=127641"
    ],
    "seen_titles": [
-    "또반도체투자회의론…SK하이닉스ADR13%급락[뉴욕마감]",
-    "단일종목레버리지ETF예탁금,3천만원상향조정...8월5일부터시행예...",
-    "자기지능을가진나라와못가진나라,'초격차'가시작되다[전명산의...",
-    "[뉴욕증시]반도체에호재가없네…필리4.3%급락",
-    "반도체SOX지수4%대급락에나스닥1.47%↓[월가월부]",
-    "[속보]SK하이닉스,9%밀린다음날14%'급락'…美반도체와르르",
     "[서울데이터랩]미증시,기술주약세에혼조마감…나스닥1%대하락",
     "칩플레이션에수천억장비값도오른다...중국은수용,TSMC는반발",
     "코스피·코스닥전거래일(16일)주요공시는?...에이피알,2년연속중간...",
@@ -3558,10 +3560,16 @@
     "SK하이닉스ADR,25%프리미엄속국내액티브ETF편입확산",
     "SK하이닉스ADR,‘역김치프리미엄’25%유지…본주반등기대감키운...",
     "최태원\"내년반도체수요최소50%↑…빠른증설생명줄\"",
-    "코스피,7월들어'1600p'급락…증권가\"펀더멘탈은문제없는데\""
+    "코스피,7월들어'1600p'급락…증권가\"펀더멘탈은문제없는데\"",
+    "“SK하이닉스-30%부터안봐”…‘1억손실’미자,주식근황‘싱숭생...",
+    "‘단일종목레버리지ETF상장폐지?’…김용범실장“안돼!시장충격커...",
+    "최태원,SK하이닉스성과급논란에\"손대야하는상황올수도\"",
+    "이상일용인특례시장,“정부의‘용인반도체산단속도전’말아닌...",
+    "'AI기본법개정안'21일시행…韓AI제도첫시험대",
+    "최정이탈과함께가을야구확률완전소멸한SSG,이제남은시즌무엇..."
    ],
    "initialized": true,
-   "last_run": "2026-07-19T14:35:23.396530+09:00"
+   "last_run": "2026-07-19T14:40:25.891792+09:00"
   }
  },
  "press_names": {
