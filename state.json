@@ -210,10 +210,13 @@
     [
      "2026-07-20T04:45:24.865900+09:00",
      "생명줄 증설이 메모리 아비규환 수요"
+    ],
+    [
+     "2026-07-20T05:00:39.649106+09:00",
+     "앤트로픽 턱밑 문샷 오픈AI 추격 쇼크"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20068900",
     "https://www.khan.co.kr/article/202607171555001",
     "https://www.dailian.co.kr/news/view/1668245/?sc=Naver",
     "https://www.incheonilbo.com/news/articleView.html?idxno=1327482",
@@ -1712,10 +1715,10 @@
     "https://www.donga.com/news/Economy/article/all/20260720/134325137/2",
     "https://www.donga.com/news/Politics/article/all/20260720/134325135/2",
     "https://www.mt.co.kr/industry/2026/07/20/2026071919394737688",
-    "https://www.news2day.co.kr/article/20260719500054"
+    "https://www.news2day.co.kr/article/20260719500054",
+    "https://biz.sbs.co.kr/article_hub/20000323218?division=NAVER"
    ],
    "seen_titles": [
-    "금융위,단일종목레버리지ETF효과급조명…해외자금유출방지에한...",
     "AI시대속한국의미래:최태원회장이말하는메모리반도체와인재...",
     "애플이원하는중국산메모리…美의회는“구매금지해야”",
     "‘피지컬AI협력’에방점찍은젠슨황의일본방문…한국과어떻게...",
@@ -3214,10 +3217,11 @@
     "최태원“N%성과급,주주등이익침해땐손대야”",
     "김용범“삼전닉스레버리지상장폐지어려워”",
     "\"메모리수요아비규환,증설이생명줄\"",
-    "[N2포커스]바닥다졌나…코스피,알파벳·테슬라·SK하이닉스실적'승..."
+    "[N2포커스]바닥다졌나…코스피,알파벳·테슬라·SK하이닉스실적'승...",
+    "[글로벌비즈브리핑]中'문샷AI쇼크'...오픈AI·앤트로픽턱밑추격..."
    ],
    "initialized": true,
-   "last_run": "2026-07-20T04:55:20.679825+09:00"
+   "last_run": "2026-07-20T05:00:39.649106+09:00"
   }
  },
  "press_names": {
