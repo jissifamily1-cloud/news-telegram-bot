@@ -322,12 +322,13 @@
     [
      "2026-07-20T00:05:23.215081+09:00",
      "레버리지 같은 ETF에 SK하이닉스 프리미엄 증시 급락 국내"
+    ],
+    [
+     "2026-07-20T00:08:51.045540+09:00",
+     "이동과 글로벌 후의 반도체 경고등 권력 3년"
     ]
    ],
    "seen_urls": [
-    "https://www.koreaherald.com/article/10812032",
-    "https://www.kukinews.com/article/view/kuk202607140196",
-    "https://www.tokenpost.kr/news/insights/378748",
     "https://view.asiae.co.kr/article/2026071513394832070",
     "https://www.koreaherald.com/article/10812041",
     "https://www.sidae.com/article/2026071712164843574",
@@ -1824,12 +1825,12 @@
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069722",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=82488",
     "http://weekly.chosun.com/news/articleView.html?idxno=53595",
-    "https://news.tf.co.kr/read/economy/2344282.htm"
+    "https://news.tf.co.kr/read/economy/2344282.htm",
+    "https://www.interfootball.co.kr/news/articleView.html?idxno=690854",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=315228",
+    "https://www.ngonews.kr/news/articleView.html?idxno=233265"
    ],
    "seen_titles": [
-    "최태원\"SK하이닉스주가,시간두면우상향…팔지말고보유\"",
-    "한달새삼전·닉스주식‘반토막’…다시해외로눈돌리는개미들",
-    "LeveragedchipETFslureW7trin1monthdespitechiprout",
     "단일종목레버리지키운금융당국,이제야‘시장안정’시도[취재진...",
     "[마켓분석]코스피폭락에‘한국성인30명중1명’마진콜추산…빚...",
     "\"엔화강세가원화강세부른다\"…日적극개입에외환시장'촉각'[주末...",
@@ -3326,10 +3327,13 @@
     "AI시대진짜금맥뜨거운서버를식히는냉각인프라",
     "[증시프리즘]반도체소부장,하반기실적랠리속'수퍼사이클'주도",
     "코스피이번주'운명의한주'…알파벳·중동이가른다",
-    "같은SK하이닉스?美'프리미엄'韓'급락'…레버리지ETF에국내증시..."
+    "같은SK하이닉스?美'프리미엄'韓'급락'…레버리지ETF에국내증시...",
+    "이강인도공감했다!구자철,\"그한마디가한국축구망치고있어,정말...",
+    "삼성파운드리發인력대이동조짐…반도체채용시장들썩",
+    "글로벌반도체권력이동과3년후의경고등"
    ],
    "initialized": true,
-   "last_run": "2026-07-20T00:05:23.215081+09:00"
+   "last_run": "2026-07-20T00:08:51.045540+09:00"
   }
  },
  "press_names": {
