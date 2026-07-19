@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-19T10:35:21.240312+09:00",
-     "시즌이 펀더멘털은 견조 반도체 실적 위기의"
-    ],
-    [
-     "2026-07-19T10:35:21.240312+09:00",
-     "조달시장 은행대출 현상 대신 기업들 역전 심화 회사채 찾는"
-    ],
-    [
      "2026-07-19T10:40:26.726292+09:00",
      "시대 1인당 5년만에 최대폭 올해 증가 가시권 국민소득 GDP 4만달러"
     ],
@@ -598,12 +590,13 @@
     [
      "2026-07-19T16:35:20.155605+09:00",
      "4만 여는 달러 원화 통화 규제 시대 에서 자유"
+    ],
+    [
+     "2026-07-19T16:40:26.484996+09:00",
+     "총력전 TK 신공항 추가 건설 신공항법 개정안 발의 움직임 정치권"
     ]
    ],
    "seen_urls": [
-    "https://www.donga.com/news/Economy/article/all/20260716/134313891/1",
-    "https://www.nocutnews.co.kr/news/6549522",
-    "https://www.etoday.co.kr/news/view/2604634",
     "https://www.rcast.co.kr/news/articleView.html?idxno=31281",
     "https://www.asiaa.co.kr/news/articleView.html?idxno=255406",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=724478",
@@ -2100,12 +2093,12 @@
     "https://www.news1.kr/politics/general-politics/6232068",
     "https://www.tvreport.co.kr/breaking/article/1062151/",
     "https://www.sedaily.com/article/20069109",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=5138"
+    "https://www.moneystorm.kr/news/articleView.html?idxno=5138",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260719010006635",
+    "https://www.dkilbo.com/news/articleView.html?idxno=548912",
+    "https://www.imaeil.com/page/view/2026071914283558476"
    ],
    "seen_titles": [
-    "[조현미의AI혁신중기]AI로중고거래신뢰도높인다…중고나라의AX실...",
-    "'40세'고준희,띠동갑맞선남과초고속상견례속…父앞서\"난스킨십...",
-    "엔비디아제친삼전,월가사로잡은SK하닉…반도체랠리향방은?",
     "레버리지예탁금3천만원으로올리면'카지노'국장바뀔까",
     "용인반도체국가산업단지조성속도…'용인고림동문디이스트'공급",
     "'수원이목지구디에트르더리체Ⅱ'잔여세대공급",
@@ -3602,10 +3595,13 @@
     "李,23일부동산국민대토론회주재…이번주(20~24일)주요일정",
     "신기루\"하이닉스주식13주보유...벼락부자오해받아\"[RE:뷰]",
     "76일만에만나는김정관·러트닉…쿠팡사태속대미투자‘주목’",
-    "[탐사경]'규제통화'에서'자유통화'로…4만달러시대여는원화국..."
+    "[탐사경]'규제통화'에서'자유통화'로…4만달러시대여는원화국...",
+    "韓증시,글로벌AI반도체투자주요지표부상",
+    "SK실트론품은구미,글로벌'AI반도체심장'급부상",
+    "TK정치권,신공항건설총력전…신공항법개정안추가발의움직임"
    ],
    "initialized": true,
-   "last_run": "2026-07-19T16:35:20.155605+09:00"
+   "last_run": "2026-07-19T16:40:26.484996+09:00"
   }
  },
  "press_names": {
