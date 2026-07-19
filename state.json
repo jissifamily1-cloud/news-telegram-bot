@@ -278,10 +278,13 @@
     [
      "2026-07-20T01:00:37.499505+09:00",
      "환율 원화 71원 떨어져 이달 G20 최대폭"
+    ],
+    [
+     "2026-07-20T01:15:24.287111+09:00",
+     "개선 내수 교역조건 한은 파급효과 반도체가 과거보다"
     ]
    ],
    "seen_urls": [
-    "https://www.mediapen.com/news/view/1110734",
     "https://kpenews.com/View.aspx?No=4152674",
     "https://www.sisajournal.com/news/articleView.html?idxno=380228",
     "https://news.tvchosun.com/site/data/html_dir/2026/07/17/2026071790121.html",
@@ -1780,10 +1783,10 @@
     "https://www.chosun.com/economy/economy_general/2026/07/20/DZAS2YTCPRD5FKJO37KRL4GE4U/",
     "https://www.chosun.com/economy/industry-company/2026/07/20/WWRY52AUGVGCNFWLFQS5WA6LGQ/",
     "https://www.chosun.com/politics/blue_house/2026/07/20/4SVVQGGDWVAKDMP6V52DAT4JDQ/",
-    "https://www.chosun.com/economy/economy_general/2026/07/20/M6J6W6556RBZXGMVUHDMVJJ2TQ/"
+    "https://www.chosun.com/economy/economy_general/2026/07/20/M6J6W6556RBZXGMVUHDMVJJ2TQ/",
+    "https://www.tfmedia.co.kr/news/article.html?no=205850"
    ],
    "seen_titles": [
-    "[청원언박싱]코스닥생태계복원및정책전면수정촉구에관한청원",
     "'이강인절친'이제주SKFC로왔다...골가뭄끝낼브라질해결사아이...",
     "최태원회장“SK하이닉스,단기매매보다장기보유”…AI메모리성장...",
     "뉴욕증시,반도체주급락영향하락세..국제유가도내려앉아",
@@ -3282,10 +3285,11 @@
     "‘삼전닉스’레버리지에이미12조원몰려",
     "“용수·전기·중대재해법…용인클러스터12년단축쉽지않다”",
     "靑“레버리지상품,상장폐지어렵다”",
-    "원화환율이달71원떨어져…G20중최대폭"
+    "원화환율이달71원떨어져…G20중최대폭",
+    "한은\"반도체가교역조건개선...내수파급효과과거보다클것\""
    ],
    "initialized": true,
-   "last_run": "2026-07-20T01:10:26.261327+09:00"
+   "last_run": "2026-07-20T01:15:24.287111+09:00"
   }
  },
  "press_names": {
