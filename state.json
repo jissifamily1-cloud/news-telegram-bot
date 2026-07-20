@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-21T00:20:28.687507+09:00",
-     "1조달러 생산능력 기대 ASML 유럽 확산 확대"
-    ],
-    [
      "2026-07-21T00:35:24.186827+09:00",
      "국내 분야 국방 잇따라 진출 기업 방산"
     ],
@@ -358,10 +354,13 @@
     [
      "2026-07-21T06:15:26.703013+09:00",
      "경영 승계 윤홍근 언제 회장 BBQ"
+    ],
+    [
+     "2026-07-21T06:20:29.844502+09:00",
+     "약세 긴장 재부각에 증시 중동"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10813382",
     "http://www.newsian.co.kr/news/articleView.html?idxno=92449",
     "https://www.cbci.co.kr/news/articleView.html?idxno=590298",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02056566645516488",
@@ -1860,10 +1859,10 @@
     "https://www.seoul.co.kr/news/economy/2026/07/21/20260721500004?wlog_tag3=naver",
     "https://www.newsway.co.kr/news/view?ud=2026072011451399326",
     "https://www.mt.co.kr/world/2026/07/21/2026072106034895393",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=51558"
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=51558",
+    "https://www.news2day.co.kr/article/20260721500008"
    ],
    "seen_titles": [
-    "옛하나SK카드빌딩매물로…알스퀘어,매각자문착수",
     "메리츠“중동오일머니가메모리사러왔다...키미K3도호재”",
     "SKT·하나금융,세번째상생해커톤...'포용적AI'추구",
     "[속보]국힘\"김용범,'레버리지ETF'사과도없어...즉각경질해야\"",
@@ -3362,10 +3361,11 @@
     "[서울데이터랩]S＆P500약세·나스닥100강보합…반도체·빅테크가하락...",
     "'희망에서공포로'메모리고점론…삼성·SK,증설로정면반박[NW리포트...",
     "중동전운에증시먹구름…반도체반등도무색[뉴욕마감]",
-    "윤홍근BBQ회장,경영승계언제?"
+    "윤홍근BBQ회장,경영승계언제?",
+    "[N2모닝경제브리핑-7월21일]美증시,중동긴장재부각에약세…나..."
    ],
    "initialized": true,
-   "last_run": "2026-07-21T06:15:26.703013+09:00"
+   "last_run": "2026-07-21T06:20:29.844502+09:00"
   }
  },
  "press_names": {
