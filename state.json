@@ -338,12 +338,13 @@
     [
      "2026-07-21T05:45:26.276844+09:00",
      "뉴욕증시 반도체 반등도 긴장에 하락 역부족 마감 중동"
+    ],
+    [
+     "2026-07-21T05:55:21.124790+09:00",
+     "메리츠 촉각 보험금 쿠팡물류센터 인천 전손 우려에 DB"
     ]
    ],
    "seen_urls": [
-    "https://www.smartbizn.com/news/articleView.html?idxno=148838",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=851104",
-    "https://www.joongangenews.com/news/articleView.html?idxno=533792",
     "https://biz.heraldcorp.com/article/10813339",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02000806645516488",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469642",
@@ -1840,12 +1841,12 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01938486645516816",
     "https://www.news1.kr/world/international-economy/6233430",
     "https://www.newsis.com/view/NISX20260721_0003716010",
-    "https://www.g-enews.com/view.php?ud=2026072018274615190c8c1c064d_1"
+    "https://www.g-enews.com/view.php?ud=2026072018274615190c8c1c064d_1",
+    "https://www.munhwa.com/article/11603781",
+    "https://www.yna.co.kr/view/AKR20260721007351072?input=1195m",
+    "https://www.kbanker.co.kr/news/articleView.html?idxno=225462"
    ],
    "seen_titles": [
-    "반도체업계,하반기공채기대감고조..신입공고비중4년만에최고",
-    "\"주가급락,실적탓아니다\"…포트폴리오'리밸런싱'이흔든수급",
-    "삼성전자·SK하이닉스'이익N%성과급'논란…\"주주승인받아라\"국회...",
     "코스피,미증시약세에장초반급락후낙폭축소…외국인매수에반...",
     "청약최고50.1대1…SK에코플랜트,'드파인아르티아'정당계약",
     "키미K3쇼크에장비주10%대급락…SK하이닉스만버텼다[칩칩폭폭]",
@@ -3342,10 +3343,13 @@
     "방학땐삼전인턴,학교엔닉스클린룸…뜨거워진반도체고입시설명회",
     "\"키미K3는GPU보다HBM수혜\"…AI메모리투자론다시부상",
     "뉴욕증시,중동긴장에하락마감…반도체반등도역부족",
-    "‘AI칩붐’탄ASML…유럽최초‘1조달러클럽’깃발꽂나"
+    "‘AI칩붐’탄ASML…유럽최초‘1조달러클럽’깃발꽂나",
+    "[속보]뉴욕증시하락마감…하닉ADR1.86%↓",
+    "중동불안·유가상승에뉴욕증시하락…다우0.6%↓(종합)",
+    "인천쿠팡물류센터전손우려에…DB·메리츠보험금'촉각'"
    ],
    "initialized": true,
-   "last_run": "2026-07-21T05:50:30.364071+09:00"
+   "last_run": "2026-07-21T05:55:21.124790+09:00"
   }
  },
  "press_names": {
