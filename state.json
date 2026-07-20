@@ -510,12 +510,13 @@
     [
      "2026-07-21T00:15:26.616253+09:00",
      "조기 최태원 나서야 클러스터 완공 정부가 쉽지 용인 않다"
+    ],
+    [
+     "2026-07-21T00:20:28.687507+09:00",
+     "1조달러 생산능력 기대 ASML 유럽 확산 확대"
     ]
    ],
    "seen_urls": [
-    "https://zdnet.co.kr/view/?no=20260720093344",
-    "https://en.yna.co.kr/view/AEN20260720001551320?input=2106m",
-    "https://biz.chosun.com/policy/policy_sub/2026/07/20/BDTEIO3W3BEMVEQAWAFWNSRVQY/",
     "https://www.polinews.co.kr/news/articleView.html?idxno=737353",
     "https://biz.sbs.co.kr/article_hub/20000322877?division=NAVER",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4425740",
@@ -2012,12 +2013,12 @@
     "http://weekly.chosun.com/news/articleView.html?idxno=53620",
     "https://www.joongang.co.kr/article/25446600",
     "https://www.joongang.co.kr/article/25446582",
-    "https://www.hankookilbo.com/news/article/A2026072015510000774?did=NA"
+    "https://www.hankookilbo.com/news/article/A2026072015510000774?did=NA",
+    "https://www.tokenpost.kr/news/breaking/379580",
+    "http://www.kwangju.co.kr/article.php?aid=1784560500801396074",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685463"
    ],
    "seen_titles": [
-    "은행권,SK하이닉스ADR'예금특수(?)'…달라진운용셈법",
-    "\"40%세일!\"줍줍몰린다…반도체고점론에급락했던삼전닉스반등",
-    "사흘째꺼지지않는쿠팡물류센터화재…인천시재난안전대책본부가...",
     "코스피,美반도체주쇼크에급락출발…6500선찍고반등[마켓시그널]",
     "“제헌절연휴가폭락막아준건가”…코스피,2%대급락출발후낙폭...",
     "[개장시황]코스피6600선밀려…외국인·기관매도에반도체약세",
@@ -3514,10 +3515,13 @@
     "\"코스피6000이바닥\"…악재쏟아져도더안빠진다는이유",
     "미-0.6%,대만-8%,일-10%…한국만-28%,무슨일있었나",
     "AI칩가득싣고…‘하늘나는’한국·대만항공사",
-    "[사설]최태원\"용인클러스터조기완공쉽지않다\"...정부가나서야"
+    "[사설]최태원\"용인클러스터조기완공쉽지않다\"...정부가나서야",
+    "SK하이닉스ADR,5%상승분반납…154.2달러",
+    "호남반도체특혜론잠재운최태원회장발언",
+    "ASML생산능력30%확대추진…유럽첫1조달러기대확산"
    ],
    "initialized": true,
-   "last_run": "2026-07-21T00:15:26.616253+09:00"
+   "last_run": "2026-07-21T00:20:28.687507+09:00"
   }
  },
  "press_names": {
