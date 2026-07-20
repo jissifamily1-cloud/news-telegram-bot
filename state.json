@@ -362,14 +362,17 @@
     [
      "2026-07-21T06:25:23.549324+09:00",
      "증시 반도체주엔 충돌 이란 하락 유입 지속에 뉴욕 매수세 저가"
+    ],
+    [
+     "2026-07-21T06:30:37.429056+09:00",
+     "솔루션 이노디테크 신규 50억 투자 덴탈 유치"
+    ],
+    [
+     "2026-07-21T06:30:37.429056+09:00",
+     "절차 성과급 투명한 필요하다 영업이익의 의결"
     ]
    ],
    "seen_urls": [
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=82571",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1716919",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008664912&plink=ORI&cooper=NAVER",
-    "http://www.seouleconews.com/news/articleView.html?idxno=92477",
-    "https://www.ziksir.com/news/articleView.html?idxno=140472",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042142",
     "https://www.epnc.co.kr/news/articleView.html?idxno=404421",
     "https://www.newsis.com/view/NISX20260720_0003714657",
@@ -1864,14 +1867,14 @@
     "https://www.smartbizn.com/news/articleView.html?idxno=148926",
     "https://biz.chosun.com/international/international_economy/2026/07/21/IVTVL2NBUJEFTD34E4D777FFRA/",
     "https://www.sidae.com/article/2026072106180323412",
-    "https://www.sedaily.com/article/20069731"
+    "https://www.sedaily.com/article/20069731",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1717039",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005883458",
+    "https://www.lecturernews.com/news/articleView.html?idxno=206760",
+    "https://www.newstopkorea.com/news/articleView.html?idxno=46350",
+    "https://www.ddaily.co.kr/page/view/2026072017515360452"
    ],
    "seen_titles": [
-    "코스피,장초반낙폭축소하며6800선회복…중동리스크에변동성확...",
-    "만루위기막아낸다이빙캐치…NC김한별,6월'월간캡스플레이'선정",
-    "SK오션플랜트,조선업계최초‘E-WasteZero’협약체결",
-    "\"주식시장,이대로괜찮은가?\"21일,주식시장건전성·투자자보호정책...",
-    "최태원\"내년AI반도체시장,아비규환온다\"경고한이유[영상PICK]",
     "코스피,장초반6500선까지밀렸다…바닥지지력테스트구간?[투자360...",
     "[STOCK톺]SK하이닉스·삼성전자,장초반급락딛고낙폭축소",
     "인천쿠팡물류센터화재사흘째이어져…붕괴우려속진화작업지속",
@@ -3366,10 +3369,15 @@
     "뉴욕증시,반도체반등에도중동긴장에꺾였다···유가90달러눈앞",
     "뉴욕증시,미국과이란충격격화에하락마감",
     "[뉴욕증시]중동불안감,다우지수0.59%↓…하이닉스ADR2%하락",
-    "뉴욕증시,美·이란충돌지속에하락...반도체주엔저가매수세유입..."
+    "뉴욕증시,美·이란충돌지속에하락...반도체주엔저가매수세유입...",
+    "중동리스크에뉴욕증시'숨고르기'…AI실적앞두고관망세",
+    "\"대기업영업이익81%늘때고용은0.2%증가그쳐\"",
+    "삼성전자·SK하이닉스…현장과제에도전'2026첨단산업특성화대학경...",
+    "AI덴탈솔루션'이노디테크',50억신규투자유치",
+    "[사설]'영업이익의N%성과급',투명한의결절차필요하다"
    ],
    "initialized": true,
-   "last_run": "2026-07-21T06:25:23.549324+09:00"
+   "last_run": "2026-07-21T06:30:37.429056+09:00"
   }
  },
  "press_names": {
