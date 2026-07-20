@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-21T00:55:21.299600+09:00",
-     "영향 성과급 상의했어야 충분히 도미노 대기업"
-    ],
-    [
      "2026-07-21T01:00:41.521861+09:00",
      "경고 네덜란드 새겨야 호황에 취하다간 반도체 한은"
     ],
@@ -390,17 +386,21 @@
     [
      "2026-07-21T06:50:28.477574+09:00",
      "우르르 M7 종목은 엔비디아 몰려간 개미들 끝나나 파티 내다"
+    ],
+    [
+     "2026-07-21T06:55:23.481293+09:00",
+     "2차전지 7월 삼성SDI 상장기업 1위 LG에너지솔"
+    ],
+    [
+     "2026-07-21T06:55:23.481293+09:00",
+     "바꾼 흐름 AI가 정부지출 증가 미국은 한국은 돈의 창업"
+    ],
+    [
+     "2026-07-21T06:55:23.481293+09:00",
+     "부동산 연기 일정 증시 변경 주제 경제현안 대수보 돌연"
     ]
    ],
    "seen_urls": [
-    "https://www.ikbc.co.kr/article/view/kbc202607200017",
-    "https://biz.heraldcorp.com/article/10813406",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=273233",
-    "https://www.esgeconomy.com/news/articleView.html?idxno=16079",
-    "https://www.newstree.kr/newsView/ntr202607200005",
-    "https://www.koreajoongangdaily.com/business/kospi-opens-lower-on-concerns-about-ailinked-sectors-escalating-iran-tensions/12780957",
-    "https://www.youthdaily.co.kr/news/article.html?no=223300",
-    "https://www.etoday.co.kr/news/view/2605135",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469663",
     "https://www.dt.co.kr/article/12073581",
     "https://www.bloter.net/news/articleView.html?idxno=668376",
@@ -1892,17 +1892,17 @@
     "https://www.tournews21.com/news/articleView.html?idxno=138973",
     "http://www.metroseoul.co.kr/article/20260721500006",
     "https://www.munhwa.com/article/11603797",
-    "https://www.sedaily.com/article/20069734"
+    "https://www.sedaily.com/article/20069734",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=141780",
+    "http://www.fnnews.com/news/202607210640370323",
+    "https://www.seoulfn.com/news/articleView.html?idxno=633715",
+    "https://www.viva100.com/article/20260720500866",
+    "https://www.newdaily.co.kr/site/data/html/2026/07/21/2026072100011.html",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=52559",
+    "https://view.asiae.co.kr/article/2026072018280616798",
+    "https://www.news1.kr/politics/president/6233245"
    ],
    "seen_titles": [
-    "레버리지ETF열풍…상반기기본교육이수자116만명돌파",
-    "레버리지ETF규제손봤다는데…'핵심빠진처방'논란",
-    "인천쿠팡물류센터화재사흘째…건물붕괴우려에주민대피령",
-    "공대생은좋겠네...삼전닉스채용확대에상반기반도체신입공고47%↑",
-    "\"중동긴장감다시고조\"…유가치솟자신재생에너지株부각",
-    "[오늘외환딜러환율예상레인지]",
-    "AI성과논란에도메모리수요는계속",
-    "\"삼전닉스또떨어져?\"…역대급실적에도'반도체주'급락한이유",
     "SK오션플랜트,이순환거버넌스와폐전지·전자제품재활용업무협약",
     "\"반도체취업문넓어졌다\"…상반기신입채용공고47%증가",
     "반도체초호황에채용문활짝...\"상반기반도체신입공고47%급증\"",
@@ -3394,10 +3394,18 @@
     "충북대전환밑그림완성…인수위,100대공약·'1조빚'재정정상화해...",
     "반도체주전망은'극과극'…삼성·하이닉급락속\"피크아웃vs2차랠리...",
     "성남서정장빌려입은구직자309명회사원됐다",
-    "M7파티끝나나…엔비디아내다판美개미들우르르몰려간종목은바..."
+    "M7파티끝나나…엔비디아내다판美개미들우르르몰려간종목은바...",
+    "[오늘의글로벌마켓]뉴욕증시,중동불안감에하락세...반도체주는반...",
+    "'검은화요일'오나…'연속매도사이드카'에얼어붙은증시,코스피65...",
+    "[뉴욕증시]중동불안'발목'·반도체반등'역부족'···빅테크실적...",
+    "호남반도체‘6.3GW전력’비상⋯절대상수는‘전력인프라’",
+    "뉴욕증시,중동리스크에일제히하락…반도체반등도상승세못지켰...",
+    "[이넷뉴스브랜드평판]삼성SDI,2차전지상장기업7월1위...LG에너지솔...",
+    "AI가바꾼돈의흐름…\"미국은창업,한국은정부지출증가\"[클릭e산업]",
+    "靑'주제·일정변경'대수보돌연연기…증시·부동산속경제현안재..."
    ],
    "initialized": true,
-   "last_run": "2026-07-21T06:50:28.477574+09:00"
+   "last_run": "2026-07-21T06:55:23.481293+09:00"
   }
  },
  "press_names": {
