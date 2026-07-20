@@ -1209,7 +1209,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000323271?division=NAVER",
     "https://www.munhwa.com/article/11603541",
     "https://www.hankyung.com/article/2026072034866",
     "https://www.ytn.co.kr/_ln/0134_202607200847545094",
@@ -2708,10 +2707,10 @@
     "https://biz.heraldcorp.com/article/10813794",
     "https://www.fntimes.com/html/view.php?ud=202607202009153706179ad43907_18",
     "https://imnews.imbc.com/replay/2026/nwdesk/article/6838733_37004.html",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16140593"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16140593",
+    "http://www.yonhapnewstv.co.kr/news/MYH202607202048173PM"
    ],
    "seen_titles": [
-    "[속보]인천쿠팡물류센터화재47시간넘도록불길안잡혀…붕괴가능...",
     "SK에코플랜트,노량진뉴타운‘드파인아르티아’20일부터정당계약",
     "DB證\"SK이노베이션,정유·윤활유호황에실적개선…목표주가50%↑\"",
     "\"레버리지ETF·신용투자확대에따른시장쏠림과제도개선방안논의...",
@@ -4210,10 +4209,11 @@
     "“결국미장이답이었나”삼전닉스내던지고미국지수ETF로…순매수...",
     "국회정무위\"단일종목레버리지ETF,강력모니터링해야…필요시추가...",
     "중국새AI공개\"미국다따라잡았다\"‥글로벌반도체'휘청'",
-    "SK디앤디,소수계좌거래집중종목지정→투자주의환기"
+    "SK디앤디,소수계좌거래집중종목지정→투자주의환기",
+    "'키미쇼크'코스피4%급락…6,500선'턱걸이'"
    ],
    "initialized": true,
-   "last_run": "2026-07-20T20:50:29.485523+09:00"
+   "last_run": "2026-07-20T20:55:21.112354+09:00"
   }
  },
  "press_names": {
