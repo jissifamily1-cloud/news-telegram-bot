@@ -302,10 +302,13 @@
     [
      "2026-07-21T05:15:27.521824+09:00",
      "한국 4만불 1인당 암울한 고용 반도체 GDP 호황 앞둔"
+    ],
+    [
+     "2026-07-21T05:20:28.073083+09:00",
+     "거래대금 12조 첫날에도 웃돌아 레버리지 단일종목 규제"
     ]
    ],
    "seen_urls": [
-    "https://www.imaeil.com/page/view/2026072009312987733",
     "http://www.seouleconews.com/news/articleView.html?idxno=92478",
     "http://www.joseilbo.com/news/news_read.php?uid=572185&class=17",
     "http://www.weeklytoday.com/news/articleView.html?idxno=785900",
@@ -1804,10 +1807,10 @@
     "https://www.seoul.co.kr/news/economy/securities/2026/07/21/20260721031005?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/economy/industry/2026/07/21/20260721031002?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/editOpinion/editorial/2026/07/21/20260721027003?wlog_tag3=naver",
-    "https://www.sidae.com/article/2026072009042646944"
+    "https://www.sidae.com/article/2026072009042646944",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260721051530hhN"
    ],
    "seen_titles": [
-    "[속보]코스피장초반4%대급락후낙폭축소",
     "코스피,개장직후4%대하락…낙폭줄이며6700선회복",
     "DB증권\"환율하락원인,주가급락에따른외국인매도둔화\"",
     "코스피,글로벌반도체한파에3%대급락출발[개장시황]",
@@ -3306,10 +3309,11 @@
     "14일→4일…증시약발짧아진‘젠슨황효과’[경제블로그]",
     "빅테크실적시즌‘AI막대한투자’시험대…구글이첫분수령",
     "[사설]“이해관계자함께행복해야”…N%성과급개선서둘러야",
-    "[시대포커스]1인당GDP4만불앞둔한국…반도체호황속암울한고용"
+    "[시대포커스]1인당GDP4만불앞둔한국…반도체호황속암울한고용",
+    "단일종목레버리지규제첫날에도거래대금12조웃돌아"
    ],
    "initialized": true,
-   "last_run": "2026-07-21T05:15:27.521824+09:00"
+   "last_run": "2026-07-21T05:20:28.073083+09:00"
   }
  },
  "press_names": {
