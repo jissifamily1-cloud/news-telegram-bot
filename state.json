@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-21T01:25:23.695842+09:00",
-     "급락세는 증시 숨고르기 슈퍼사이클 종료"
-    ],
-    [
      "2026-07-21T01:40:29.406006+09:00",
      "약세 주가 주목 메모리 삼성 저평가 3사"
     ],
@@ -514,12 +510,13 @@
     [
      "2026-07-21T07:25:23.272080+09:00",
      "시장 방문 SK하이닉스 전격 웨스트라파예트"
+    ],
+    [
+     "2026-07-21T07:30:38.500262+09:00",
+     "이제 김삼기의 그려야 레버리지 지도 시사펀치"
     ]
    ],
    "seen_urls": [
-    "https://www.junggi.co.kr/news/articleView.html?idxno=37169",
-    "http://www.newskr.kr/news/articleView.html?idxno=105148",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=168406",
     "https://www.yna.co.kr/view/AKR20260720036951008?input=1195m",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=759564",
     "https://news.tf.co.kr/read/economy/2344686.htm",
@@ -2016,12 +2013,12 @@
     "https://www.busan.com/view/busan/view.php?code=2026072107155098677",
     "https://monthly.chosun.com/news/articleView.html?idxno=70767",
     "https://www.discoverynews.kr/news/articleView.html?idxno=1096511",
-    "https://thetracker.co.kr/View.aspx?No=4155276"
+    "https://thetracker.co.kr/View.aspx?No=4155276",
+    "https://www.ziksir.com/news/articleView.html?idxno=140607",
+    "http://www.fnnews.com/news/202607210710448004",
+    "https://www.ilyosisa.co.kr/news/article.html?no=256977"
    ],
    "seen_titles": [
-    "코스닥,3%대하락에6500선후퇴…삼전·닉스‘약세’",
-    "D램공급·수요'미스매치'…삼성전자·SK하이닉스'설비증설'필요성...",
-    "중국AI'키미K3'쇼크가흔든반도체패권",
     "[이슈]한은\"반도체쏠림심화되면韓경제'네덜란드병'우려\"...산업불...",
     "美,애플중국메모리사용제동…삼성·SK하이닉스반사이익기대",
     "[투데이증시]출렁이는'삼전닉스'에현기증장세...코스피,6500선사수...",
@@ -3518,10 +3515,13 @@
     "\"지금이라도레버리지투자말라\"…운용사대표가경고메시지",
     "[인터뷰]이철우경북도지사",
     "성남시청년면접정장대여1200건넘어…309명취업성과",
-    "美웨스트라파예트시장,SK하이닉스전격방문....왜?"
+    "美웨스트라파예트시장,SK하이닉스전격방문....왜?",
+    "'후티봉쇄'중동악재에유가껑충…뉴욕증시,반도체반등에도일제히...",
+    "\"레버리지투자하지마세요\"운용사대표이례적호소→글삭제",
+    "<김삼기의시사펀치>이제레버리지지도그려야"
    ],
    "initialized": true,
-   "last_run": "2026-07-21T07:25:23.272080+09:00"
+   "last_run": "2026-07-21T07:30:38.500262+09:00"
   }
  },
  "press_names": {
