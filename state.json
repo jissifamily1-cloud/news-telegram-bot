@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-20T18:50:28.928844+09:00",
-     "주요 전망 IT기업 시장 2026년 7월 소식과 3주차"
-    ],
-    [
-     "2026-07-20T18:50:28.928844+09:00",
-     "대전환 에너지 모드 확산 바람 전남광주발 햇빛연금"
-    ],
-    [
-     "2026-07-20T18:50:28.928844+09:00",
-     "이상일 용인시장 이끌 필수 첨단산업"
-    ],
-    [
      "2026-07-20T18:55:23.561123+09:00",
      "유영기 충주시의장"
     ],
@@ -450,10 +438,13 @@
     [
      "2026-07-21T00:50:26.925052+09:00",
      "비판 배분 초과이윤 취소 재계 수보회의 의식했나"
+    ],
+    [
+     "2026-07-21T00:55:21.299600+09:00",
+     "영향 성과급 상의했어야 충분히 도미노 대기업"
     ]
    ],
    "seen_urls": [
-    "https://www.topstarnews.net/news/articleView.html?idxno=16139881",
     "https://www.g-enews.com/view.php?ud=202607200922424720923c501012_1",
     "https://www.newscj.com/news/articleView.html?idxno=3418203",
     "https://www.yna.co.kr/view/AKR20260720031351008?input=1195m",
@@ -1952,10 +1943,10 @@
     "https://www.hankookilbo.com/news/article/A2026072023510005608?did=NA",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=388345",
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062606",
-    "https://www.chosun.com/politics/politics_general/2026/07/21/SITLDPKVXZATDI6UJEU2N5H33A/"
+    "https://www.chosun.com/politics/politics_general/2026/07/21/SITLDPKVXZATDI6UJEU2N5H33A/",
+    "https://www.chosun.com/economy/industry-company/2026/07/21/WC5EHKKQXRCRVMXFR5GEKL55FI/"
    ],
    "seen_titles": [
-    "코스피,중국'AI공포'·중동리스크에6770선후퇴…반도체대장주급...",
     "[뉴욕브리핑]中'키미쇼크'에반도체주약세…나스닥1.4%하락",
     "\"AI투자지속성시험대…이번주코스피,빅테크실적에촉각\"<키움證>",
     "코스피,美증시·반도체약세에6700선하락출발",
@@ -3454,10 +3445,11 @@
     "\"이런말씀죄송,투자멈춰야\"…운용사대표까지말리는단일종목레버...",
     "[AI분석]키미K3쇼크,AI패권의저울추와데이터안보",
     "SK에너지·도란도란봉사단,울산취약계층어르신대상방역봉사실시",
-    "‘초과이윤배분’靑수보회의취소…재계비판의식했나"
+    "‘초과이윤배분’靑수보회의취소…재계비판의식했나",
+    "“대기업N%성과급,中企에도미노영향충분히상의했어야”"
    ],
    "initialized": true,
-   "last_run": "2026-07-21T00:50:26.925052+09:00"
+   "last_run": "2026-07-21T00:55:21.299600+09:00"
   }
  },
  "press_names": {
