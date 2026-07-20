@@ -322,14 +322,25 @@
     [
      "2026-07-21T05:35:23.392500+09:00",
      "시행 한국 산업 시험대 후속 AI기본법 개정안"
+    ],
+    [
+     "2026-07-21T05:40:28.530331+09:00",
+     "중동 다시 유가 충격 급등 위기에 위한 전면전 최소화를"
+    ],
+    [
+     "2026-07-21T05:40:28.530331+09:00",
+     "직행 삼전닉스 반도체 마이스터고 취업률"
+    ],
+    [
+     "2026-07-21T05:40:28.530331+09:00",
+     "인턴 클린룸 입시설명회 닉스 삼전 뜨거워진 학교엔 반도체고 방학"
+    ],
+    [
+     "2026-07-21T05:40:28.530331+09:00",
+     "다시 GPU보다 투자론 키미 HBM 수혜 메모리 K3는 부상"
     ]
    ],
    "seen_urls": [
-    "https://www.cbci.co.kr/news/articleView.html?idxno=590285",
-    "https://www.wolyo.co.kr/news/articleView.html?idxno=315253",
-    "http://www.joseilbo.com/news/news_read.php?uid=572184&class=17",
-    "https://www.m-i.kr/news/articleView.html?idxno=1392835",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16139958",
     "https://www.raonnews.com/news/article.html?no=59639",
     "https://www.imaeil.com/page/view/2026072009592783248",
     "https://www.smartbizn.com/news/articleView.html?idxno=148838",
@@ -1824,14 +1835,14 @@
     "http://www.fnnews.com/news/202607210526491097",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01879446645516816",
     "https://www.dailian.co.kr/news/view/1668911/?sc=Naver",
-    "https://www.yna.co.kr/view/AKR20260720150400017?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260720150400017?input=1195m",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01935206645516816",
+    "https://www.mhns.co.kr/news/articleView.html?idxno=753860",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01945046645516816",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01938486645516816",
+    "https://www.news1.kr/world/international-economy/6233430"
    ],
    "seen_titles": [
-    "[2027수시/지원전략]수시6장어디에쓸까?…2027대입'변수'와여름...",
-    "외국인매도받아온개인…예탁금감소하는데버틸수있을까",
-    "코스피,美증시악재로4%대급락후낙폭축소…반도체주약세",
-    "반도체신입채용47%급증…삼성·SK하이닉스채용문넓혔다",
-    "[위클리오늘]미증시·중동리스크에코스피장중급락…외국인·기관...",
     "코스피추세완전히무너졌다…\"빅테크실적꺾이면하락가속\"",
     "한국바이오협회,BIOAsia-Taiwan2026서한·대만바이오공급망협력제...",
     "반도체업계,하반기공채기대감고조..신입공고비중4년만에최고",
@@ -3326,10 +3337,15 @@
     "[뉴욕증시]전강후약속일제히하락…스페이스X,매도세지속",
     "\"AI투자증가세꺾여\"…\"성장률둔화와피크아웃구분해야\"",
     "국민의힘,'삼전닉스ETF'공세확대…내일국조·특검논의가능성",
-    "AI기본법후속개정안시행…한국AI산업시험대"
+    "AI기본법후속개정안시행…한국AI산업시험대",
+    "삼전닉스가자문…용인반도체클러스터맞춤교육",
+    "[박근종칼럼]중동전면전위기에다시유가급등,충격최소화를위한...",
+    "삼전닉스직행…취업률96%반도체마이스터고",
+    "방학땐삼전인턴,학교엔닉스클린룸…뜨거워진반도체고입시설명회",
+    "\"키미K3는GPU보다HBM수혜\"…AI메모리투자론다시부상"
    ],
    "initialized": true,
-   "last_run": "2026-07-21T05:35:23.392500+09:00"
+   "last_run": "2026-07-21T05:40:28.530331+09:00"
   }
  },
  "press_names": {
