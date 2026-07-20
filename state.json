@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-20T06:50:26.268248+09:00",
-     "1위 한국전력 태양광에너지 상장기업 7월 LS"
-    ],
-    [
-     "2026-07-20T06:50:26.268248+09:00",
-     "줄자 정제마진으로 버텨 재고효과 고르기 정유사 2Q 실적도"
-    ],
-    [
      "2026-07-20T06:55:19.556377+09:00",
      "차세대 앞다퉈 정체는 뛰어든 전력망 삼성 LG"
     ],
@@ -1222,11 +1214,13 @@
     [
      "2026-07-20T12:35:20.292236+09:00",
      "주가 외국인은 불안해지는 나라 1327조 국민은 오를수록 빚더미 돈방석"
+    ],
+    [
+     "2026-07-20T12:50:26.776227+09:00",
+     "사람인 상반기 성장 이용자 커리어 서비스 2배"
     ]
    ],
    "seen_urls": [
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8614234",
-    "https://biz.chosun.com/industry/company/2026/07/19/S5H65QKJOFGYZCLAQVQTZ2CZW4/",
     "https://www.chosun.com/economy/economy_general/2026/07/19/RPPM3IUJPRD3XBGYPEPR3BTRLQ/",
     "http://www.fnnews.com/news/202607161556340810",
     "https://www.hankookilbo.com/news/article/A2026071820390005841?did=NA",
@@ -2724,11 +2718,11 @@
     "http://www.breaknews.com/1222691",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=141742",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=312387",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1716948"
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1716948",
+    "https://www.sidae.com/article/2026072011264424457",
+    "https://www.asiatime.co.kr/article/20260720500121"
    ],
    "seen_titles": [
-    "최태원회장\"메모리가격떨어져야…공장더지을것\"",
-    "최태원\"AI반도체수요,내년두배'아비규환'…美에도팹지어야\"",
     "“국민10명중9명,핵심기술해외유출처벌대폭강화해야”",
     "최태원“내년AI반도체수요100%늘어날것…전세계아비규환수준”",
     "기관'대덕전자'·외인'SK스퀘어'·개인'삼성전자'1위[주간코스피...",
@@ -4226,10 +4220,12 @@
     "외국인은1327조돈방석-국민은빚더미…주가오를수록불안해지는나라",
     "코스피,개인·기관매도에장중4%급락...전체상장사86%가파란불",
     "'신입맛집'된반도체···채용비중5배뛰었다",
-    "AI투자아직안끝났다…TSMC·ASML이확인한'메모리랠리'"
+    "AI투자아직안끝났다…TSMC·ASML이확인한'메모리랠리'",
+    "쿠팡물류센터화재사흘째…인천시재난안전대책본부가동",
+    "[HR뉴스브리핑]사람인,상반기AI서비스이용자2배성장…커리어AI..."
    ],
    "initialized": true,
-   "last_run": "2026-07-20T12:45:28.606933+09:00"
+   "last_run": "2026-07-20T12:50:26.776227+09:00"
   }
  },
  "press_names": {
