@@ -358,13 +358,13 @@
     [
      "2026-07-21T06:20:29.844502+09:00",
      "약세 긴장 재부각에 증시 중동"
+    ],
+    [
+     "2026-07-21T06:25:23.549324+09:00",
+     "증시 반도체주엔 충돌 이란 하락 유입 지속에 뉴욕 매수세 저가"
     ]
    ],
    "seen_urls": [
-    "http://www.newsian.co.kr/news/articleView.html?idxno=92449",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=590298",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=02056566645516488",
-    "https://www.ajunews.com/view/20260720102227333",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=82571",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1716919",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008664912&plink=ORI&cooper=NAVER",
@@ -1860,13 +1860,13 @@
     "https://www.newsway.co.kr/news/view?ud=2026072011451399326",
     "https://www.mt.co.kr/world/2026/07/21/2026072106034895393",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=51558",
-    "https://www.news2day.co.kr/article/20260721500008"
+    "https://www.news2day.co.kr/article/20260721500008",
+    "https://www.smartbizn.com/news/articleView.html?idxno=148926",
+    "https://biz.chosun.com/international/international_economy/2026/07/21/IVTVL2NBUJEFTD34E4D777FFRA/",
+    "https://www.sidae.com/article/2026072106180323412",
+    "https://www.sedaily.com/article/20069731"
    ],
    "seen_titles": [
-    "메리츠“중동오일머니가메모리사러왔다...키미K3도호재”",
-    "SKT·하나금융,세번째상생해커톤...'포용적AI'추구",
-    "[속보]국힘\"김용범,'레버리지ETF'사과도없어...즉각경질해야\"",
-    "CheyTae-wonwarnsmemoryracehasbegun,callingsupplyexpansionvit",
     "코스피,장초반낙폭축소하며6800선회복…중동리스크에변동성확...",
     "만루위기막아낸다이빙캐치…NC김한별,6월'월간캡스플레이'선정",
     "SK오션플랜트,조선업계최초‘E-WasteZero’협약체결",
@@ -3362,10 +3362,14 @@
     "'희망에서공포로'메모리고점론…삼성·SK,증설로정면반박[NW리포트...",
     "중동전운에증시먹구름…반도체반등도무색[뉴욕마감]",
     "윤홍근BBQ회장,경영승계언제?",
-    "[N2모닝경제브리핑-7월21일]美증시,중동긴장재부각에약세…나..."
+    "[N2모닝경제브리핑-7월21일]美증시,중동긴장재부각에약세…나...",
+    "뉴욕증시,반도체반등에도중동긴장에꺾였다···유가90달러눈앞",
+    "뉴욕증시,미국과이란충격격화에하락마감",
+    "[뉴욕증시]중동불안감,다우지수0.59%↓…하이닉스ADR2%하락",
+    "뉴욕증시,美·이란충돌지속에하락...반도체주엔저가매수세유입..."
    ],
    "initialized": true,
-   "last_run": "2026-07-21T06:20:29.844502+09:00"
+   "last_run": "2026-07-21T06:25:23.549324+09:00"
   }
  },
  "press_names": {
