@@ -682,14 +682,25 @@
     [
      "2026-07-21T08:32:03.269291+09:00",
      "실적 중요하지만 변동의 변수는 기업 주가 아니 유일한"
+    ],
+    [
+     "2026-07-21T08:35:20.777674+09:00",
+     "이탈 120일선 시험대 바닥 우리 코스피 증시"
+    ],
+    [
+     "2026-07-21T08:35:20.777674+09:00",
+     "메타 13조원 전력망서 찾나 돌파구 배터리 규모"
+    ],
+    [
+     "2026-07-21T08:35:20.777674+09:00",
+     "수급 470원대 우위 기대로 매도 리스크에도 중동"
+    ],
+    [
+     "2026-07-21T08:35:20.777674+09:00",
+     "법의 아직 질문하는 배우 시대에 들어갔다 인간은 법을 AI는"
     ]
    ],
    "seen_urls": [
-    "https://www.hankookilbo.com/news/article/A2026072009230005422?did=NA",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=360484",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607200108&t=NN",
-    "https://www.sportsseoul.com/news/read/1623414",
-    "https://www.donga.com/news/Society/article/all/20260720/134327191/2",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1716945",
     "https://www.ilyosisa.co.kr/news/article.html?no=256965",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02322246645516488",
@@ -2184,14 +2195,14 @@
     "http://www.the-biz.co.kr/news/articleView.html?idxno=724711",
     "https://www.ekn.kr/web/view.php?key=20260721027114237",
     "https://www.kukinews.com/article/view/kuk202607210008",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=141768"
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=141768",
+    "https://www.newsis.com/view/NISX20260721_0003716145",
+    "https://biz.sbs.co.kr/article_hub/20000323526?division=NAVER",
+    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700213",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4425899",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=5173"
    ],
    "seen_titles": [
-    "[속보]코스닥이어코스피도매도사이드카…반도체투톱4%↓",
-    "[속보]코스피,4%급락에매도사이드카발동…삼전·닉스4%하락",
-    "[종합]쿠팡인천물류센터화재사흘째…50시간넘게진화중",
-    "SK에코플랜트,'의왕역SKVIEW'견본주택사흘간1.8만명방문",
-    "내일부터AI기본법시행…통신3사\"고영향AI서비스없다\"",
     "[나이스증시전망]반도체주약세흐름에기세꺾인코스피",
     "미증시쇼크에코스피·코스닥4%대폭락…반도체투톱도일제히주저...",
     "코스피매도사이드카발동",
@@ -3686,10 +3697,15 @@
     "[프리마켓포커스]중동악재뚫은저가매수세…삼성전자·SK하이닉스,...",
     "美증시하락속코스피6500선시험대…기술적반등나설까[장전시황]",
     "AI실적앞둔뉴욕증시,숨고르기…반도체주는저가매수유입",
-    "[최석원칼럼]기업실적,중요하지만주가변동의유일한변수는아니..."
+    "[최석원칼럼]기업실적,중요하지만주가변동의유일한변수는아니...",
+    "삼전·닉스,프리마켓서1%대상승…\"저가매수세유입\"",
+    "[어제장오늘장]코스피,120일선이탈…우리증시바닥시험대",
+    "K-배터리,메타'13조원'규모AI전력망서돌파구찾나",
+    "[외환]중동리스크에도매도우위수급기대로1,470원대",
+    "[탐사경]AI는법의시대에들어갔다…인간은아직질문하는법을배우..."
    ],
    "initialized": true,
-   "last_run": "2026-07-21T08:32:03.269291+09:00"
+   "last_run": "2026-07-21T08:35:20.777674+09:00"
   }
  },
  "press_names": {
