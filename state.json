@@ -1358,14 +1358,17 @@
     [
      "2026-07-20T19:20:27.290678+09:00",
      "전국 74곳 전국상의 청주상공회의소 공동챌린지 상공회의소 개최"
+    ],
+    [
+     "2026-07-20T19:35:20.599046+09:00",
+     "거인들 의정부 일군 에어컨리그서 기적 U11 6명의 횡성"
+    ],
+    [
+     "2026-07-20T19:35:20.599046+09:00",
+     "거점 착공 포항 데이터센터 산업 경북 기대"
     ]
    ],
    "seen_urls": [
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/20/2026072090043.html",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=141713",
-    "https://biz.sbs.co.kr/article_hub/20000323256?division=NAVER",
-    "https://www.hankyung.com/article/2026072034247",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=851066",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4425710",
     "https://www.ytn.co.kr/_ln/0103_202607200826115967",
     "https://www.dailysecu.com/news/articleView.html?idxno=207678",
@@ -2860,14 +2863,14 @@
     "https://www.dynews.co.kr/news/articleView.html?idxno=858592",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260721.22009005933",
     "https://www.jbnews.com/news/articleView.html?idxno=1507939",
-    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=431405"
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=431405",
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5206987",
+    "https://magazine.hankyung.com/business/article/202607203795b",
+    "https://www.mk.co.kr/article/12102753",
+    "https://basketkorea.com/news/newsview.php?ncode=1065600828934749",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8615125"
    ],
    "seen_titles": [
-    "연휴중美반도체주급락…프리마켓서23만전자·173만닉스",
-    "면세점입점에美수출까지…호텔김치글로벌화'속도'",
-    "[프리마켓포커스]제2딥시크공포·중동리스크악재에개장전4%↓…...",
-    "TSMC·ASML나란히증설…최태원\"빠른투자가생명줄\"",
-    "[금융가사람들]\"HBM·MLCC따질필요없어\"…이수진한화운용액티브",
     "용산구'GS자이'68평,5.5억떨어진29.2억원에거래[일일하락가]",
     "“반도체급락,과도했나…‘7월말빅테크실적’이반등분수령”",
     "美반도체충격에코스피‘검은월요일’우려[장전시황]",
@@ -4362,10 +4365,15 @@
     "청주상공회의소등전국74곳상공회의소...'전국상의공동챌린지'개최",
     "부산상의,지역경제137년‘동반자’…기업성장·현안해결앞장",
     "코스피4.46%급락…6,500선턱걸이마감",
-    "중국AI모델키미쇼크에출렁인뉴욕증시,빅테크3사는일제히반등..."
+    "중국AI모델키미쇼크에출렁인뉴욕증시,빅테크3사는일제히반등...",
+    "\"삼전닉스레버리지,필요시추가대책\"…국힘\"김용범경질해야\"",
+    "\"매일아침코스피부터\"…글로벌투자의‘풍향계’된한국증시",
+    "“아직국장더팔아야될판”…코스피‘구원투수’국민연금,등판은...",
+    "단6명의거인들의정부SKU11,횡성에어컨리그서일군기적",
+    "포항AI데이터센터착공…경북AI산업거점기대"
    ],
    "initialized": true,
-   "last_run": "2026-07-20T19:30:37.756825+09:00"
+   "last_run": "2026-07-20T19:35:20.599046+09:00"
   }
  },
  "press_names": {
