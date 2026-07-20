@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-20T13:55:20.561022+09:00",
-     "레버리지 투자의 역설"
-    ],
-    [
-     "2026-07-20T13:55:20.561022+09:00",
-     "원달러 1480원대 지속 초반 등락"
-    ],
-    [
      "2026-07-20T14:00:39.147086+09:00",
      "지역경제 137년 성장동력 확보 창립 부산상공회의소"
     ],
@@ -1366,11 +1358,13 @@
     [
      "2026-07-20T19:50:27.953536+09:00",
      "보건복지부 화성특례시 정은경 장관 최태원 회장 그냥드림"
+    ],
+    [
+     "2026-07-20T19:55:20.721659+09:00",
+     "유상증자 최대주주 80억 규모 엑시온그룹 뉴퍼시픽투자조합"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202607200834464717ea13369bfa_1",
-    "https://www.theguru.co.kr/news/article.html?no=104606",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01502246645516488",
     "http://www.joseilbo.com/news/news_read.php?uid=572174&class=53",
     "https://www.catchnews.kr/news/articleView.html?idxno=126291",
@@ -2868,11 +2862,11 @@
     "http://www.inews24.com/view/1987049",
     "https://www.ggilbo.com/news/articleView.html?idxno=1170227",
     "https://www.viewsnnews.com/article?q=237326",
-    "https://www.geconomy.co.kr/news/article.html?no=321939"
+    "https://www.geconomy.co.kr/news/article.html?no=321939",
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/20/2026072090229.html",
+    "https://www.newstnt.com/news/articleView.html?idxno=710897"
    ],
    "seen_titles": [
-    "[기업이슈]트럼프韓·美조선협력발언…급락장속조선주홀로상승",
-    "삼성전자·SK하이닉스\"사람뽑는다\"…반도체채용'훈풍'",
     "인천쿠팡물류센터화재사흘째…붕괴우려에주민대피",
     "'공포가부른악순환'코스피,하방테스트구간…알파벳·인텔실적분기...",
     "[뉴스UP]쿠팡화재,사흘째사투중...붕괴위험에한밤주민대피령",
@@ -4370,10 +4364,12 @@
     "\"그래도레버리지못잃어\"…대책발표후거래대금12조넘어",
     "[주식마감]탈플라스틱관련주강세속진영'上'...삼천당제약,가비아...",
     "외신들\"한국증시,거대한도박장됐다\"",
-    "정은경보건복지부장관·최태원SK회장...화성특례시‘그냥드림온..."
+    "정은경보건복지부장관·최태원SK회장...화성특례시‘그냥드림온...",
+    "코스닥,李정부때상승분전부반납",
+    "[특징주]엑시온그룹,80억규모유상증자…최대주주'뉴퍼시픽투자조합..."
    ],
    "initialized": true,
-   "last_run": "2026-07-20T19:50:27.953536+09:00"
+   "last_run": "2026-07-20T19:55:20.721659+09:00"
   }
  },
  "press_names": {
