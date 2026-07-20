@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-20T18:55:23.561123+09:00",
-     "유영기 충주시의장"
-    ],
-    [
      "2026-07-20T19:00:42.292556+09:00",
      "동신대 중심 이주희 교육혁신 연임 총장 가속화"
     ],
@@ -442,10 +438,13 @@
     [
      "2026-07-21T00:55:21.299600+09:00",
      "영향 성과급 상의했어야 충분히 도미노 대기업"
+    ],
+    [
+     "2026-07-21T01:00:41.521861+09:00",
+     "경고 네덜란드 새겨야 호황에 취하다간 반도체 한은"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202607200922424720923c501012_1",
     "https://www.newscj.com/news/articleView.html?idxno=3418203",
     "https://www.yna.co.kr/view/AKR20260720031351008?input=1195m",
     "https://www.greened.kr/news/articleView.html?idxno=345379",
@@ -1944,10 +1943,10 @@
     "https://www.fntoday.co.kr/news/articleView.html?idxno=388345",
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062606",
     "https://www.chosun.com/politics/politics_general/2026/07/21/SITLDPKVXZATDI6UJEU2N5H33A/",
-    "https://www.chosun.com/economy/industry-company/2026/07/21/WC5EHKKQXRCRVMXFR5GEKL55FI/"
+    "https://www.chosun.com/economy/industry-company/2026/07/21/WC5EHKKQXRCRVMXFR5GEKL55FI/",
+    "https://www.hankyung.com/article/2026072050871"
    ],
    "seen_titles": [
-    "[뉴욕브리핑]中'키미쇼크'에반도체주약세…나스닥1.4%하락",
     "\"AI투자지속성시험대…이번주코스피,빅테크실적에촉각\"<키움證>",
     "코스피,美증시·반도체약세에6700선하락출발",
     "중국발AI딥시크이어‘키미쇼크’…‘美기술격차단2개월’한국...",
@@ -3446,10 +3445,11 @@
     "[AI분석]키미K3쇼크,AI패권의저울추와데이터안보",
     "SK에너지·도란도란봉사단,울산취약계층어르신대상방역봉사실시",
     "‘초과이윤배분’靑수보회의취소…재계비판의식했나",
-    "“대기업N%성과급,中企에도미노영향충분히상의했어야”"
+    "“대기업N%성과급,中企에도미노영향충분히상의했어야”",
+    "[사설]\"반도체호황에취하다간네덜란드病\"…새겨야할한은경고"
    ],
    "initialized": true,
-   "last_run": "2026-07-21T00:55:21.299600+09:00"
+   "last_run": "2026-07-21T01:00:41.521861+09:00"
   }
  },
  "press_names": {
