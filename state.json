@@ -266,10 +266,13 @@
     [
      "2026-07-22T05:15:28.862037+09:00",
      "보고서가 메모리주 모건스탠리 뭐길래 하이닉스ADR"
+    ],
+    [
+     "2026-07-22T05:20:26.147917+09:00",
+     "TSMC 공장 속도전 대못 규제 25개 지뢰밭 첨단산업은"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026072110173278571",
     "https://www.segye.com/newsView/20260721507671?OutUrl=naver",
     "https://www.newscj.com/news/articleView.html?idxno=3418518",
     "https://www.todaykorea.co.kr/news/articleView.html?idxno=403997",
@@ -1768,10 +1771,10 @@
     "https://www.news1.kr/world/international-economy/6234700",
     "https://www.ekn.kr/web/view.php?key=20260722020144680",
     "https://www.seoul.co.kr/news/editOpinion/column/column-cks/2026/07/22/20260722026001?wlog_tag3=naver",
-    "https://www.mediapen.com/news/view/1111385"
+    "https://www.mediapen.com/news/view/1111385",
+    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/07/22/20260722027008?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "삼전4%·닉스3%대↑…반도체주동반반등[특징주]",
     "\"너무심하게빠졌나\"…반발매수에코스피2%대반등",
     "“성남시가빌려준정장입고삼성·SK뚫었다”…청년309명취업결실",
     "SKT·LGU+,AI생태계확장…'스타트업육성'vs'글로벌협력'",
@@ -3270,10 +3273,11 @@
     "[속보]필라델피아반도체지수5.2%급등마감…SK하닉ARD13.75%↑",
     "[패트롤]수원시-성남시-경기광주시",
     "[최광숙칼럼]노란봉투법강행한여권,뒤늦게‘현타’왔나",
-    "[美증시특징주]모건스탠리보고서가뭐길래...하이닉스ADR메모리주'..."
+    "[美증시특징주]모건스탠리보고서가뭐길래...하이닉스ADR메모리주'...",
+    "[사설]TSMC25개공장속도전,韓첨단산업은대못규제지뢰밭"
    ],
    "initialized": true,
-   "last_run": "2026-07-22T05:15:28.862037+09:00"
+   "last_run": "2026-07-22T05:20:26.147917+09:00"
   }
  },
  "press_names": {
