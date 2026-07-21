@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-22T00:30:35.108631+09:00",
-     "산업 의무화해야 주총 승인 망치는 성과급 생태계"
-    ],
-    [
      "2026-07-22T00:35:25.266053+09:00",
      "젠슨 시장 전쟁 5촌간의 데이터센터 예고 리사"
     ],
@@ -342,12 +338,13 @@
     [
      "2026-07-22T06:25:21.573313+09:00",
      "유가 저가매수세에 홍해 국제 급등 봉쇄 메모리주 우려에"
+    ],
+    [
+     "2026-07-22T06:30:35.929320+09:00",
+     "증시 반도체주 저가매수세 유입"
     ]
    ],
    "seen_urls": [
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/21/2026072100077.html",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=360555",
-    "https://www.theguru.co.kr/news/article.html?no=104668",
     "http://www.metroseoul.co.kr/article/20260721500128",
     "http://www.incheonin.com/news/articleView.html?idxno=119411",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=605491",
@@ -1844,12 +1841,12 @@
     "https://www.vegannews.co.kr/news/article.html?no=384199",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607220159&t=NN",
     "https://www.hankyung.com/article/2026072280467",
-    "https://www.sedaily.com/article/20070248"
+    "https://www.sedaily.com/article/20070248",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1717200",
+    "https://biz.chosun.com/international/international_economy/2026/07/22/TQIJ7SMREFA3BBCGHQ2F6UASG4/",
+    "https://www.news2day.co.kr/article/20260722500007"
    ],
    "seen_titles": [
-    "'수급파워'로내려가는환율…하단뚫는ADR환전에1,450원가시권",
-    "\"1만피전망믿었는데반대매매\"…빚투뛰어든예비신랑파혼엔딩",
-    "가온전선상반기역대최대실적이유",
     "美인디애나주웨스트라피엣대표단,SK하이닉스핵심사업장일제시찰",
     "SK텔레콤,'스케치위드AI'참가기업모집",
     "정규직과비정규직,한국노동시장의두얼굴",
@@ -3346,10 +3343,13 @@
     "삼성전자·SK하이닉스변동성논란…레버리지ETF문턱높인다",
     "이재용·최태원·이해진,美서젠슨황회동…AI협력강화",
     "이재용·최태원·이해진·젠슨황,미국서뭉친다…'AI어벤져스'집결",
-    "美메모리주,저가매수세에14%급등...홍해봉쇄우려에국제유가2%↑..."
+    "美메모리주,저가매수세에14%급등...홍해봉쇄우려에국제유가2%↑...",
+    "환율1470원대로내려가자다시'미장'…SK하이닉스ADR8000억쓸어담은...",
+    "뉴욕증시,반도체주반등에상승마감",
+    "[N2모닝경제브리핑-7월22일]美증시,반도체주저가매수세유입속..."
    ],
    "initialized": true,
-   "last_run": "2026-07-22T06:25:21.573313+09:00"
+   "last_run": "2026-07-22T06:30:35.929320+09:00"
   }
  },
  "press_names": {
