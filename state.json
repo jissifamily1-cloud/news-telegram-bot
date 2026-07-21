@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-21T19:20:28.206044+09:00",
-     "조선소의 에어컨 화장실까지 여름나기"
-    ],
-    [
-     "2026-07-21T19:25:22.741432+09:00",
-     "놓고 영업익 못박은 성과급 된다 파업"
-    ],
-    [
      "2026-07-21T19:30:38.634997+09:00",
      "입학 특목 영재고 늘리고 정주여건 개선 특례로"
     ],
@@ -382,10 +374,13 @@
     [
      "2026-07-22T01:15:26.915108+09:00",
      "지금이라도 신속히 투자 보완 멈춰야"
+    ],
+    [
+     "2026-07-22T01:25:23.104971+09:00",
+     "잇따라 바닥론 보인다 반도체 근거는 매도"
     ]
    ],
    "seen_urls": [
-    "https://en.asiatoday.co.kr/view.php?key=20260721000919277",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607210236&t=NN",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=315327",
     "https://www.mstoday.co.kr/news/articleView.html?idxno=102135",
@@ -1884,10 +1879,10 @@
     "https://www.mydaily.co.kr/page/view/2026072123512546692",
     "https://www.joongang.co.kr/article/25446993",
     "https://www.hankyung.com/article/2026072176021",
-    "https://imnews.imbc.com/replay/2026/nw2500/article/6839070_36989.html"
+    "https://imnews.imbc.com/replay/2026/nw2500/article/6839070_36989.html",
+    "https://www.newsverse.kr/news/articleView.html?idxno=10982"
    ],
    "seen_titles": [
-    "LPG+LNG발전SK가스,2000원중간배당…시가배당률0.9%",
     "UK'sPrincessAnneinspectscutting-edgeresearchfacilitiesatKore",
     "\"4500선까지떨어질수도\"…센터장18인증시긴급진단",
     "코스닥1년전으로회귀...삼천당제약,하루만에25%급하락",
@@ -3386,10 +3381,11 @@
     "\"8만원에샀는데10만원에팔았다\"…SK하이닉스출신아나운서,3억날린...",
     "[단독]SK하이닉스의승부수…인텔美오하이오공장산다",
     "[백광엽칼럼]'우리시대의보너스'에대하여",
-    "\"지금이라도투자멈춰야\"‥李\"신속히보완\""
+    "\"지금이라도투자멈춰야\"‥李\"신속히보완\"",
+    "[오늘의경제뉴스]\"AI·반도체매도끝보인다\"바닥론잇따라…근거는..."
    ],
    "initialized": true,
-   "last_run": "2026-07-22T01:20:27.971465+09:00"
+   "last_run": "2026-07-22T01:25:23.104971+09:00"
   }
  },
  "press_names": {
