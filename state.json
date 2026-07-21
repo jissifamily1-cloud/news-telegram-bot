@@ -221,7 +221,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=724724",
     "https://www.ekn.kr/web/view.php?key=20260721028344145",
     "https://www.mk.co.kr/article/12103066",
     "http://www.joseilbo.com/news/news_read.php?uid=572272&class=17",
@@ -1720,10 +1719,10 @@
     "https://www.hankookilbo.com/news/article/A2026072114040004956?did=NA",
     "https://www.hankookilbo.com/news/article/A2026072017130004241?did=NA",
     "https://www.mt.co.kr/politics/2026/07/22/2026072121462769244",
-    "https://www.donga.com/news/Society/article/all/20260721/134338683/2"
+    "https://www.donga.com/news/Society/article/all/20260721/134338683/2",
+    "https://www.mediapen.com/news/view/1111383"
    ],
    "seen_titles": [
-    "[52주]최고가3개,최저가385개...지수혼조세",
     "[핫스톡현미경]SK텔레콤,2분기실적앞두고재평가기대감",
     "[기자의눈]석화구조개편‘마지막퍼즐’,정부역할에달렸다",
     "[단독]한은‘디지털화폐실험’,감독은없었다…보안판정도셀프",
@@ -3222,10 +3221,11 @@
     "코스닥역주행에커지는'상폐공포'...이재명취임전으로회귀",
     "\"반도체팹1기1년내착공\"...민형배가그린전남광주청사진",
     "머니투데이오프라인헤드라인-22일",
-    "‘산업-인프라-성장’부천3대비전선포"
+    "‘산업-인프라-성장’부천3대비전선포",
+    "[美증시특징주]반도체오랜만에'활활'...마이크론·하이닉스ADR폭등"
    ],
    "initialized": true,
-   "last_run": "2026-07-22T04:50:28.706120+09:00"
+   "last_run": "2026-07-22T04:55:22.413246+09:00"
   }
  },
  "press_names": {
