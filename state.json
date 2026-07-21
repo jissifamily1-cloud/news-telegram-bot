@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-21T13:15:30.075620+09:00",
-     "국조 정부 장동혁 압박 불량상품 ETF 삼전닉스"
-    ],
-    [
-     "2026-07-21T13:15:30.075620+09:00",
-     "부국증권 증권주 NH투 혼조 강세 매수 선별"
-    ],
-    [
-     "2026-07-21T13:15:30.075620+09:00",
-     "코치 소개팅 야구 아버지가 칼차단 유이 야구선수와 없어"
-    ],
-    [
      "2026-07-21T13:20:28.865914+09:00",
      "나라 만드는 바보로"
     ],
@@ -1394,11 +1382,13 @@
     [
      "2026-07-21T19:15:27.968461+09:00",
      "국립의전원 밀리나 논리에 제2경찰학교도 정치 충청권 호남행"
+    ],
+    [
+     "2026-07-21T19:20:28.206044+09:00",
+     "조선소의 에어컨 화장실까지 여름나기"
     ]
    ],
    "seen_urls": [
-    "https://it.chosun.com/news/articleView.html?idxno=2023092166138",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=141791",
     "http://www.datanews.co.kr/news/article.html?no=145657",
     "http://www.srtimes.kr/news/articleView.html?idxno=207889",
     "https://www.newsway.co.kr/news/view?ud=2026072109222698608",
@@ -2896,11 +2886,11 @@
     "https://www.polinews.co.kr/news/articleView.html?idxno=737613",
     "https://www.betanews.net/article/view/beta202607210063",
     "http://www.hellodd.com/news/articleView.html?idxno=112553",
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2289475"
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2289475",
+    "https://www.viewsnnews.com/article?q=237340",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8616242"
    ],
    "seen_titles": [
-    "원·달러환율,2.4원내린1476원",
-    "코스피,중동리스크에보합권등락…삼전강세·닉스약세",
     "개인·기관엇갈린코스피,장초반6500공방전...코스닥은2%급락",
     "SK인텔릭스,KAIST와AI서비스공동개발업무협약체결",
     "SKT,AI스타트업과동행…'SKTCHwithAI'모집",
@@ -4398,10 +4388,12 @@
     "[이슈]李\"레버리지ETF보완책,신속·과감해야\"…삼전노조겨냥\"영...",
     "코스피,반도체투자심리회복에상승마감",
     "HBM대부김정호교수정년···30년'테라랩'문닫나\"반도체기여·전...",
-    "국립의전원·제2경찰학교도호남행?…정치논리에충청권또밀리나"
+    "국립의전원·제2경찰학교도호남행?…정치논리에충청권또밀리나",
+    "코스피6,700회복.개미는1.6조투매",
+    "“화장실까지에어컨”…조선소의여름나기"
    ],
    "initialized": true,
-   "last_run": "2026-07-21T19:15:27.968461+09:00"
+   "last_run": "2026-07-21T19:20:28.206044+09:00"
   }
  },
  "press_names": {
