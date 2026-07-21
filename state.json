@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-21T18:45:26.986942+09:00",
-     "흔드는 ETF 지방경제 성과급 단일종목"
-    ],
-    [
-     "2026-07-21T18:45:26.986942+09:00",
-     "알레아 아니다 비트코인 약세장도 리서치 이더리움 강세장도"
-    ],
-    [
-     "2026-07-21T18:45:26.986942+09:00",
-     "신안우이 국내 해상풍력"
-    ],
-    [
      "2026-07-21T18:50:28.421572+09:00",
      "회장 인수 법조계 지분 논란 보스턴다이나믹스 판단 정의선"
     ],
@@ -394,10 +382,13 @@
     [
      "2026-07-22T00:40:28.525145+09:00",
      "보이스 기반 에릭슨과 개발한다 통신망 LG유플"
+    ],
+    [
+     "2026-07-22T00:45:28.501084+09:00",
+     "오를 그쳐 대기업 영업이익 고용은 증가"
     ]
    ],
    "seen_urls": [
-    "https://www.thepowernews.co.kr/view.php?ud=202607211005181015de3f0aa1be_7",
     "https://www.news2day.co.kr/article/20260721500064",
     "https://www.tokenpost.kr/news/economy/379717",
     "http://www.sisacast.kr/news/articleView.html?idxno=97950",
@@ -1896,10 +1887,10 @@
     "https://www.polinews.co.kr/news/articleView.html?idxno=737622",
     "https://www.chosun.com/economy/stock-finance/2026/07/22/GUUIHDL2BJFLPFM3NDWAUETY7Y/",
     "https://www.chosun.com/economy/money/2026/07/22/UZ5KOYP4UZEUPI6KFWNK5MRCTE/",
-    "https://www.chosun.com/economy/tech_it/2026/07/22/UH4NHLIYEVHFDADY6WSKO2FAOU/"
+    "https://www.chosun.com/economy/tech_it/2026/07/22/UH4NHLIYEVHFDADY6WSKO2FAOU/",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1784621619&code=11151400&cp=nv"
    ],
    "seen_titles": [
-    "[뉴스앤데이터]대기업매출·이익두자릿수고성장에도‘고용정체...",
     "SK인텔릭스,KAIST와AI웰니스로봇연구협력",
     "환율1470원대등락…안전자산선호에도상승폭제한",
     "한화,목표주가하향에도사업매력여전...인적분할후재평가기대",
@@ -3398,10 +3389,11 @@
     "[8·17전대]송영길\"'유능한진보·민심소통·정권재창출적임자\"",
     "고점서40%빠진증권주반등할까",
     "매수·매도사이드카,9시대에59%발동",
-    "LG유플,에릭슨과‘통신망기반보이스AI’개발한다"
+    "LG유플,에릭슨과‘통신망기반보이스AI’개발한다",
+    "대기업영업이익81%오를때고용은0.2%증가그쳐"
    ],
    "initialized": true,
-   "last_run": "2026-07-22T00:40:28.525145+09:00"
+   "last_run": "2026-07-22T00:45:28.501084+09:00"
   }
  },
  "press_names": {
