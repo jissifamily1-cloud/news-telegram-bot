@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-21T12:30:33.410542+09:00",
-     "소부장 추미애 입고 경기도지사 반도체장비기업 방문 ASM 방진복"
-    ],
-    [
      "2026-07-21T12:35:21.039043+09:00",
      "키우는 채용만으론 ICT 부족 기업들 인재 직접"
     ],
@@ -1390,13 +1386,17 @@
     [
      "2026-07-21T18:20:28.703253+09:00",
      "강국된 파트너십 소부장 AI칩 K반도체와 강화한다"
+    ],
+    [
+     "2026-07-21T18:30:35.551458+09:00",
+     "시대 성수석 해결사 준비된 이천시장 시민주권"
+    ],
+    [
+     "2026-07-21T18:30:35.551458+09:00",
+     "설치해 현대차 인재 계약학과 키운다 전북대"
     ]
    ],
    "seen_urls": [
-    "https://www.sentv.co.kr/article/view/sentv202607210018",
-    "https://www.itooza.com/common/iview.php?no=2026072109161758010",
-    "https://www.mk.co.kr/article/12103015",
-    "https://www.ddaily.co.kr/page/view/2026072109095592550",
     "https://www.cstimes.com/news/articleView.html?idxno=714049",
     "https://biz.chosun.com/stock/stock_general/2026/07/21/UJR6ECKBHRC25I247TDPAHYAWM/",
     "https://www.smartbizn.com/news/articleView.html?idxno=148930",
@@ -2892,13 +2892,13 @@
     "http://www.00news.co.kr/news/articleView.html?idxno=105284",
     "https://www.itdaily.kr/news/articleView.html?idxno=240515",
     "https://www.techm.kr/news/articleView.html?idxno=153552",
-    "https://www.hankookilbo.com/news/article/A2026072116100000312?did=NA"
+    "https://www.hankookilbo.com/news/article/A2026072116100000312?did=NA",
+    "https://www.newscj.com/news/articleView.html?idxno=3418717",
+    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256389",
+    "https://www.kyeongin.com/article/1767658",
+    "https://www.jjan.kr/article/20260721500380"
    ],
    "seen_titles": [
-    "\"한화,자회사가치하락에목표가하향…인적분할호재는유효\"",
-    "코스피,사흘만에소폭상승…삼전닉스반등",
-    "“팬오션,탱커부문이익추정치상향”-유안타",
-    "중동리스크에美증시‘뚝’…빅테크2분기실적시선집중[뉴욕증시...",
     "SK인텔릭스,카이스트와AI웰니스서비스상용화속도",
     "SKT,'SKTCHwithAI'참가기업모집",
     "코스피,반등출발에도6500선붕괴…코스닥은740아래로",
@@ -4394,10 +4394,14 @@
     "['클릭'증시]JP모건\"韓증시변동성확대,레버리지해소과정일뿐\"",
     "ASML,직원에3400만원주식보상…AI반도체인력전가열",
     "모티프,'독파모'프리뷰버전공개...AAII순위권에한국모델재진입",
-    "삼전닉스출렁이자'포모'대신'조모'유행…\"안사서다행\""
+    "삼전닉스출렁이자'포모'대신'조모'유행…\"안사서다행\"",
+    "국힘'레버리지ETF'정부책임론맹공",
+    "'시대착오규제'VS'생존기반위협'···차대여시장재편분수령",
+    "[취임인터뷰]‘시민주권시대,준비된해결사’성수석이천시장",
+    "[사설]현대차,전북대계약학과설치해인재키운다"
    ],
    "initialized": true,
-   "last_run": "2026-07-21T18:25:23.830463+09:00"
+   "last_run": "2026-07-21T18:30:35.551458+09:00"
   }
  },
  "press_names": {
