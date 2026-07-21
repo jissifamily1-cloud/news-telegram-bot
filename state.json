@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-21T16:55:23.038129+09:00",
-     "무신사 배경 태동한 옛날신 성수동이 올리브영 폐공장 대체한 핫플"
-    ],
-    [
-     "2026-07-21T16:55:23.038129+09:00",
-     "예외 심사대는 기업은 통과 중복상장 DTS 오를 덕산넵코어스 다음"
-    ],
-    [
      "2026-07-21T17:00:43.341768+09:00",
      "1스타 줄세우기 입맛 정책 기업 맞는 잘하면 사회공헌 시슐랭"
     ],
@@ -742,11 +734,17 @@
     [
      "2026-07-21T22:50:27.868096+09:00",
      "녹아 쿠팡 방화셔터 난항 진압 화재 초진 만에 물류센터 61시간"
+    ],
+    [
+     "2026-07-21T22:55:23.759079+09:00",
+     "강세 메모리 반도체주 마이크론 상승 증시"
+    ],
+    [
+     "2026-07-21T22:55:23.759079+09:00",
+     "hynix Expands Memory for Push Hiring"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026072109523655057",
-    "https://www.onews.tv/news/articleView.html?idxno=283376",
     "https://www.etnews.com/20260721000071",
     "https://www.newscj.com/news/articleView.html?idxno=3418509",
     "http://www.newsian.co.kr/news/articleView.html?idxno=92497",
@@ -2244,11 +2242,11 @@
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553393726",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=356257",
     "http://www.yonhapnewstv.co.kr/news/MYH20260721224421MtA",
-    "https://www.newscj.com/news/articleView.html?idxno=3418776"
+    "https://www.newscj.com/news/articleView.html?idxno=3418776",
+    "https://www.tokenpost.kr/news/breaking/379906",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=273361"
    ],
    "seen_titles": [
-    "SK하이닉스ADR주가,151.16달러1.86%하락마감",
-    "코스피,상승출발후보합권…코스닥은하락전환",
     "SKT,AI사업파트너발굴나선다…SKTCHwithAI출범",
     "SK인텔릭스-KAIST,로보틱스기반AI정신건강연구개발위해맞손",
     "AI기본법후속개정안시행…'안전성·산업육성'본격가동",
@@ -3746,10 +3744,12 @@
     "[현장목소리]정경호감독,\"김천전이후이틀만에경기,선수들이더욱...",
     "李대통령질타에레버리지ETF손질속도…업권협의착수",
     "운용사대표마저\"투자말라\"…레버리지'추가대책'목소리",
-    "쿠팡물류센터화재61시간만에초진…방화셔터녹아진압난항"
+    "쿠팡물류센터화재61시간만에초진…방화셔터녹아진압난항",
+    "미증시메모리반도체주강세…마이크론6.8%상승",
+    "SKhynixExpandsU.S.HiringforAIMemoryPush"
    ],
    "initialized": true,
-   "last_run": "2026-07-21T22:50:27.868096+09:00"
+   "last_run": "2026-07-21T22:55:23.759079+09:00"
   }
  },
  "press_names": {
