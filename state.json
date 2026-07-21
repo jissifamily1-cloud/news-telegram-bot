@@ -1101,8 +1101,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.irobotnews.com/news/articleView.html?idxno=47505",
-    "https://www.kbmaeil.com/article/20260721500109",
     "http://weekly.chosun.com/news/articleView.html?idxno=53622",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000051076",
     "https://www.newspim.com/news/view/20260721000244",
@@ -2600,11 +2598,11 @@
     "https://www.thedailypost.kr/news/articleView.html?idxno=114744",
     "https://mhnse.com/news/articleView.html?idxno=1466626",
     "https://www.sedaily.com/article/20070216",
-    "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026072118084285823?feed=na"
+    "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026072118084285823?feed=na",
+    "https://www.dailian.co.kr/news/view/1669378/?sc=Naver",
+    "http://www.inews24.com/view/1987492"
    ],
    "seen_titles": [
-    "코스피,美빅테크실적기대·중동긴장속6510선강보합…코스닥1%대...",
-    "SK인텔릭스,KAIST와웰니스로보틱스기반서비스공동연구개발협약",
     "“코스피반등시도했지만다시밀렸다…외국인·기관‘팔자’에6500...",
     "\"지금이라도투자멈추세요\"…자산운용사대표도말린레버리지ETF",
     "장초반하락전환한코스피…6500선등락",
@@ -4102,10 +4100,12 @@
     "SK텔레콤,AI스타트업발굴프로그램운영",
     "하이닉스주식'8만원'대에전재산태운'SK하이닉스출신'아나운서근...",
     "레버리지때문에한달만에3억날린청년…외신도“韓정부의정책실...",
-    "반도체교육인프라제주,최태원에전달"
+    "반도체교육인프라제주,최태원에전달",
+    "[데일리안오늘뉴스종합]17.7억근저당논란…“적법한잔금담보”v...",
+    "李\"서남권팹쟁의안돼\"…삼성전자초기업노조\"교섭대상\""
    ],
    "initialized": true,
-   "last_run": "2026-07-21T21:05:23.494537+09:00"
+   "last_run": "2026-07-21T21:10:27.113915+09:00"
   }
  },
  "press_names": {
