@@ -1174,17 +1174,25 @@
     [
      "2026-07-21T13:50:29.298639+09:00",
      "금융당국 레버리지 CEO 유동성 축소로 그래닛셰어즈 한국 규제"
+    ],
+    [
+     "2026-07-21T13:55:20.169188+09:00",
+     "샀다 던지던 다시 순매수 상위로 순매도 외국인 1위서 삼전닉스"
+    ],
+    [
+     "2026-07-21T13:55:20.169188+09:00",
+     "현대차 시동 제주SK 전달식 FC 제주본부 그랜저 공동 마케팅"
+    ],
+    [
+     "2026-07-21T13:55:20.169188+09:00",
+     "본격화 비중 입찰 매출 삼전닉스 준비 에스티아이 하반기"
+    ],
+    [
+     "2026-07-21T13:55:20.169188+09:00",
+     "샀다 당일 책임론 국민연금 엇갈려 744억 급락일 수급과 연기금은"
     ]
    ],
    "seen_urls": [
-    "https://www.pointe.co.kr/news/articleView.html?idxno=82007",
-    "https://news.skbroadband.com/news/articleView.html?idxno=231889",
-    "http://www.metroseoul.co.kr/article/20260720500468",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=847639",
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=83474",
-    "https://www.newsis.com/view/NISX20260720_0003715633",
-    "https://news.skbroadband.com/news/articleView.html?idxno=232574",
-    "https://www.namdonews.com/news/articleView.html?idxno=917411",
     "https://www.smartbizn.com/news/articleView.html?idxno=148913",
     "https://news.skbroadband.com/news/articleView.html?idxno=232576",
     "https://www.donga.com/news/Economy/article/all/20260720/134329844/1",
@@ -2676,17 +2684,17 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008666784&plink=ORI&cooper=NAVER",
     "https://www.yna.co.kr/view/AKR20260721109500007?input=1195m",
     "https://vn.asiatoday.co.kr/view.php?key=20260721000919321",
-    "https://www.chosun.com/economy/money/2026/07/21/IVLAER3KTVBZTNY4TSCSIJ7WBM/"
+    "https://www.chosun.com/economy/money/2026/07/21/IVLAER3KTVBZTNY4TSCSIJ7WBM/",
+    "https://www.cstimes.com/news/articleView.html?idxno=714102",
+    "https://biz.heraldcorp.com/article/10815041",
+    "https://www.asiatime.co.kr/article/20260721500188",
+    "https://www.seoulfn.com/news/articleView.html?idxno=633754",
+    "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307134",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16141436",
+    "https://www.etoday.co.kr/news/view/2599679",
+    "https://www.greened.kr/news/articleView.html?idxno=345529"
    ],
    "seen_titles": [
-    "부산상공회의소,창립137주년기념식···\"글로벌해양수도재도약총...",
-    "SK하이닉스미국상장…국내미칠영향은?",
-    "시행1년도안된'영업익10%…SK하이닉스성과급다시시험대",
-    "[20일특징주]중동리스크확산에재생에너지株'꿈틀'…SK이터닉스7%...",
-    "반도체주충격에코스피4%대급락…6500선턱걸이마감",
-    "마줄스호농구대표팀,FIBA월드컵예선2라운드대비소집훈련돌입",
-    "'맛있어요'허위리뷰…19억챙긴일당",
-    "'빨라지는시계'…광주군공항이전2차선정위,28일예정",
     "[오늘의건설브리핑]\"침수막고,폐기물줄이고,공급늘린다\"···'생...",
     "사고후바뀐스쿨존,부산미끄럼방지시설'관리사각'",
     "국민연금‘칼부림예고’에경찰출동…코스피는4%대급락",
@@ -4178,10 +4186,18 @@
     "[자막뉴스]'삼전닉스'레버리지판대표'양심고백'…\"제발투자멈춰...",
     "K리그1제주,현대자동차제주지역본부와'공동마케팅'구축",
     "NhàXanhhoãnhọpcấpcao,tạmgácthảoluậnvềphânphối",
-    "美그래닛셰어즈CEO“한국금융당국레버리지규제,유동성축소로되..."
+    "美그래닛셰어즈CEO“한국금융당국레버리지규제,유동성축소로되...",
+    "코스피6800선돌파...매수사이드카",
+    "삼전·닉스급등에코스피6800선탈환…매수사이드카발동[투자360]",
+    "단일종목ETF공방…당정\"보완책점검\"野총공세",
+    "DB증권\"단일종목레버리지ETF'왝더독'50일후진정소요\"",
+    "던지던외국인,다시'삼전닉스'샀다···순매도1위서순매수상위로",
+    "'더뉴그랜저'전달식…제주SKFC-현대차제주본부,공동마케팅시동",
+    "에스티아이,삼전닉스매출비중80%…하반기입찰준비본격화",
+    "급락일연기금은744억샀다…'국민연금책임론'당일수급과엇갈려"
    ],
    "initialized": true,
-   "last_run": "2026-07-21T13:50:29.298639+09:00"
+   "last_run": "2026-07-21T13:55:20.169188+09:00"
   }
  },
  "press_names": {
