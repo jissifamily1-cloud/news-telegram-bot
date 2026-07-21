@@ -1393,14 +1393,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.pointe.co.kr/news/articleView.html?idxno=82016",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03017606645516816",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=724712",
-    "https://www.munhwa.com/article/11603831",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=273289",
-    "https://www.sentv.co.kr/article/view/sentv202607210021",
-    "https://www.viva100.com/article/20260721500170",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=270068",
     "https://www.sentv.co.kr/article/view/sentv202607210018",
     "https://www.itooza.com/common/iview.php?no=2026072109161758010",
     "https://www.mk.co.kr/article/12103015",
@@ -2892,17 +2884,17 @@
     "http://www.fnnews.com/news/202607211815351567",
     "http://www.fnnews.com/news/202607211816130310",
     "https://www.datanet.co.kr/news/articleView.html?idxno=213205",
-    "https://www.hankyung.com/article/2026072175871"
+    "https://www.hankyung.com/article/2026072175871",
+    "http://www.osen.co.kr/article/G1112843557",
+    "https://www.pennmike.com/news/articleView.html?idxno=124109",
+    "https://www.jemin.com/news/articleView.html?idxno=840532",
+    "https://www.econovill.com/news/articleView.html?idxno=745728",
+    "http://www.00news.co.kr/news/articleView.html?idxno=105284",
+    "https://www.itdaily.kr/news/articleView.html?idxno=240515",
+    "https://www.techm.kr/news/articleView.html?idxno=153552",
+    "https://www.hankookilbo.com/news/article/A2026072116100000312?did=NA"
    ],
    "seen_titles": [
-    "AI기본법후속법령시행…생성성AI표시의무본격시행",
-    "삼성SDS,퓨리오사AINPU기반'NPUaaS'SCP출시",
-    "[기고]한국은미국과중국사이에서무엇을선택해야하는가",
-    "AI특수뒤불황경고음…메모리'잔혹사'재현되나",
-    "AI머니몰린아시아증시덕에…월가투자은행‘역대급호황’",
-    "행복얼라이언스-LIGD&A,구미결식우려아동지원",
-    "대기업영업익81%폭증하는데고용0.2%'꽁꽁'",
-    "SKT,‘스케치위드AI’론칭⋯“AI사업동반자될스타트업발굴”",
     "\"한화,자회사가치하락에목표가하향…인적분할호재는유효\"",
     "코스피,사흘만에소폭상승…삼전닉스반등",
     "“팬오션,탱커부문이익추정치상향”-유안타",
@@ -4394,10 +4386,18 @@
     "갈수록쪼그라드는코스닥…거래대금·회전율한달새반토막[증시변...",
     "[사설]국립외교원까지줄잇는해킹,뻥뚫린사이버안보",
     "'IAR코리아임베디드컨퍼런스'성료···개발사례·생산성혁신전...",
-    "AI칩소부장강국된獨…K반도체와파트너십강화한다"
+    "AI칩소부장강국된獨…K반도체와파트너십강화한다",
+    "8만원에SK하이닉스샀는데..김준상아나,'3억날린'주식후회막심",
+    "美월가에서도\"한국증시급락은레버리지ETF탓\"",
+    "제주소상공인연합회,SK에반도체체험·학습관조성제안",
+    "\"태어나지말았어야했다\"…삼전·하이닉스레버리지ETF책임론확산",
+    "['클릭'증시]JP모건\"韓증시변동성확대,레버리지해소과정일뿐\"",
+    "ASML,직원에3400만원주식보상…AI반도체인력전가열",
+    "모티프,'독파모'프리뷰버전공개...AAII순위권에한국모델재진입",
+    "삼전닉스출렁이자'포모'대신'조모'유행…\"안사서다행\""
    ],
    "initialized": true,
-   "last_run": "2026-07-21T18:20:28.703253+09:00"
+   "last_run": "2026-07-21T18:25:23.830463+09:00"
   }
  },
  "press_names": {
