@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-22T00:40:28.525145+09:00",
-     "빠진 증권주 반등할까 고점서"
-    ],
-    [
-     "2026-07-22T00:40:28.525145+09:00",
-     "9시 매도 대에 사이드카 매수 발동"
-    ],
-    [
-     "2026-07-22T00:40:28.525145+09:00",
-     "보이스 기반 에릭슨과 개발한다 통신망 LG유플"
-    ],
-    [
      "2026-07-22T00:45:28.501084+09:00",
      "오를 그쳐 대기업 영업이익 고용은 증가"
     ],
@@ -350,13 +338,17 @@
     [
      "2026-07-22T06:35:20.302373+09:00",
      "SK팜테코 희귀질환 치료제 프랑스 제네톤과 가속 CDMO 파트너십"
+    ],
+    [
+     "2026-07-22T06:45:28.304863+09:00",
+     "도박판 막더니 증시는 국회로 레버리지 닉스 논란 삼전 부동산"
+    ],
+    [
+     "2026-07-22T06:45:28.304863+09:00",
+     "갈렸다 마이크론 반도체 레버리지 SOXL 방향 증폭"
     ]
    ],
    "seen_urls": [
-    "https://www.ddaily.co.kr/page/view/2026072110103365288",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=264767",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470067",
-    "https://zdnet.co.kr/view/?no=20260721083233",
     "https://www.ekn.kr/web/view.php?key=20260721023233839",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/21/2026072100085.html",
     "https://biz.sbs.co.kr/article_hub/20000323529?division=NAVER",
@@ -1852,13 +1844,13 @@
     "https://thetracker.co.kr/View.aspx?No=4157041",
     "http://www.econonews.co.kr/news/articleView.html?idxno=441556",
     "https://www.seoul.co.kr/news/economy/securities/2026/07/22/20260722500004?wlog_tag3=naver",
-    "https://www.greened.kr/news/articleView.html?idxno=345608"
+    "https://www.greened.kr/news/articleView.html?idxno=345608",
+    "https://www.news2day.co.kr/article/20260722500011",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=875700",
+    "https://www.dailian.co.kr/news/view/1669155/?sc=Naver",
+    "https://www.greened.kr/news/articleView.html?idxno=345609"
    ],
    "seen_titles": [
-    "행복얼라이언스-LIGD&A,구미결식우려아동에여름방학도시락지원",
-    "국방·철도·해양안전으로번진AI…공공AX사업본격화",
-    "성과급'영업이익N%',재계도제동…\"절차부터다시봐야\"",
-    "자원개발주강세왜?…에스아이리소스삼성물산비엘팜텍'방긋'",
     "'코스피1만피'가능할까…개미투자자들의전망은",
     "[기후리포트]EU탄소시장대수술…‘규제’에서‘산업투자’로무게중...",
     "中2015'빚투광풍'대폭락사태'데자뷔'...韓증시에서도재현되나...",
@@ -3354,10 +3346,14 @@
     "SK팜테코,프랑스제네톤과파트너십…희귀질환치료제CDMO가속",
     "뉴욕증시,기업실적호조와반도체주강세등에나흘만반등⋯SK하이닉...",
     "[서울데이터랩]미국증시,반도체강세에일제히상승마감…나스닥1%...",
-    "이재용·최태원·이해진,24일미국에서젠슨황등과만나'AI동맹'강..."
+    "이재용·최태원·이해진,24일미국에서젠슨황등과만나'AI동맹'강...",
+    "뉴욕증시,반도체주반등·기업호실적에상승마감…나스닥1.29%↑",
+    "뉴욕증시,기업실적호조ㆍ반도체주반등에상승마감...나스닥1.3%↑",
+    "부동산막더니증시는'레버리지도박판'…삼전·닉스논란국회로",
+    "마이크론12%·SOXL16%↑…반도체'방향'과레버리지'증폭'갈렸다"
    ],
    "initialized": true,
-   "last_run": "2026-07-22T06:40:25.888211+09:00"
+   "last_run": "2026-07-22T06:45:28.304863+09:00"
   }
  },
  "press_names": {
