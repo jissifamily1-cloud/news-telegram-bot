@@ -265,7 +265,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/economy/2345122.htm",
     "https://biz.chosun.com/it-science/ict/2026/07/21/JMNUAL7BHFA35IZJUIYTZMBG3U/",
     "https://www.dailian.co.kr/news/view/1669057/?sc=Naver",
     "https://www.dailian.co.kr/news/view/1669054/?sc=Naver",
@@ -1764,10 +1763,10 @@
     "https://www.hankookilbo.com/news/article/A2026072117420002230?did=NA",
     "https://www.mt.co.kr/industry/2026/07/22/2026072115125522357",
     "https://www.kmib.co.kr/article/view.asp?arcid=0030143060&code=61131111&cp=nv",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=01689206645517144"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01689206645517144",
+    "https://www.news1.kr/world/international-economy/6234700"
    ],
    "seen_titles": [
-    "LPG수입사E1,주당450원현금배당",
     "반도체성과급제도도마…이해관계자이익침해땐수정가능성제기",
     "SK텔레콤,AI스타트업15곳키운다…선발과정에‘AI심사역’활용",
     "SKT,AI협업스타트업모집…선발심사에AI도참여",
@@ -3266,10 +3265,11 @@
     "[스타트업리포트]'생존위한VOD업체의변신'김형만스튜디오초이스...",
     "SK㈜,오는31일이사회…SK실트론매각'GO'냐'STOP'이냐",
     "[속보]SK하이닉스ADR13.66%↑…뉴욕증시상승마감",
-    "4조손배액걸린쿠팡집단분쟁,이달말결론날듯"
+    "4조손배액걸린쿠팡집단분쟁,이달말결론날듯",
+    "[속보]필라델피아반도체지수5.2%급등마감…SK하닉ARD13.75%↑"
    ],
    "initialized": true,
-   "last_run": "2026-07-22T05:08:40.162995+09:00"
+   "last_run": "2026-07-22T05:10:27.074407+09:00"
   }
  },
  "press_names": {
