@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-22T00:35:25.266053+09:00",
-     "젠슨 시장 전쟁 5촌간의 데이터센터 예고 리사"
-    ],
-    [
-     "2026-07-22T00:35:25.266053+09:00",
-     "반도체 시작 구미의 평당 다시 부지 승부수 전성기 1000원"
-    ],
-    [
-     "2026-07-22T00:35:25.266053+09:00",
-     "육성 출범 SKT 기업 모집 스타트업 프로그램 참가"
-    ],
-    [
-     "2026-07-22T00:35:25.266053+09:00",
-     "적임자 유능한 진보 민심소통 정권재창출 송영길"
-    ],
-    [
      "2026-07-22T00:40:28.525145+09:00",
      "빠진 증권주 반등할까 고점서"
     ],
@@ -369,9 +353,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.job-post.co.kr/news/articleView.html?idxno=221666",
-    "https://www.hankyung.com/article/202607216106i",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2450601",
     "https://www.ddaily.co.kr/page/view/2026072110103365288",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=264767",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470067",
@@ -1868,12 +1849,12 @@
     "http://www.the-biz.co.kr/news/articleView.html?idxno=724755",
     "https://it.chosun.com/news/articleView.html?idxno=2023092166212",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=267385",
-    "https://thetracker.co.kr/View.aspx?No=4157041"
+    "https://thetracker.co.kr/View.aspx?No=4157041",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=441556",
+    "https://www.seoul.co.kr/news/economy/securities/2026/07/22/20260722500004?wlog_tag3=naver",
+    "https://www.greened.kr/news/articleView.html?idxno=345608"
    ],
    "seen_titles": [
-    "SK인텔릭스,카이스트와웰니스로보틱스공동연구협약",
-    "'AI거품론'잠식된반도체...코스피'출렁'언제끝나나",
-    "\"삼전닉스레버리지투자말라\"…'ETF아버지'배재규'소신발언'",
     "행복얼라이언스-LIGD&A,구미결식우려아동에여름방학도시락지원",
     "국방·철도·해양안전으로번진AI…공공AX사업본격화",
     "성과급'영업이익N%',재계도제동…\"절차부터다시봐야\"",
@@ -3370,10 +3351,13 @@
     "[THEBiz&CEO]AI반도체숨은지배자,곽동신한미반도체회장",
     "'캐즘핑계'끝…실적압박직면한배터리3사수장",
     "[한신공영하반기스콜②]'양주덕계'건너편원래는2종일반,최문규...",
-    "SK팜테코,프랑스제네톤과파트너십…희귀질환치료제CDMO가속"
+    "SK팜테코,프랑스제네톤과파트너십…희귀질환치료제CDMO가속",
+    "뉴욕증시,기업실적호조와반도체주강세등에나흘만반등⋯SK하이닉...",
+    "[서울데이터랩]미국증시,반도체강세에일제히상승마감…나스닥1%...",
+    "이재용·최태원·이해진,24일미국에서젠슨황등과만나'AI동맹'강..."
    ],
    "initialized": true,
-   "last_run": "2026-07-22T06:35:20.302373+09:00"
+   "last_run": "2026-07-22T06:40:25.888211+09:00"
   }
  },
  "press_names": {
