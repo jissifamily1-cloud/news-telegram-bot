@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-21T13:30:35.384412+09:00",
-     "뜨거운 AI사 관심 36개 모두의 사업설명회 북적 100여명"
-    ],
-    [
-     "2026-07-21T13:30:35.384412+09:00",
-     "삼전닉스 반면교사 직원에 5천만원 잔류 ASML 보너스"
-    ],
-    [
-     "2026-07-21T13:30:35.384412+09:00",
-     "PAO 엔진오일 HD현대오일뱅크 오픈 그룹4 교환 스토어"
-    ],
-    [
-     "2026-07-21T13:30:35.384412+09:00",
-     "부각 모션제어 필수 반도체 아진엑스텍 로봇 국산화 부품"
-    ],
-    [
      "2026-07-21T13:35:24.471539+09:00",
      "나흘 사이드카 코스피 반등에 강세 삼전닉스 연속"
     ],
@@ -1374,10 +1358,13 @@
     [
      "2026-07-21T19:25:22.741432+09:00",
      "놓고 영업익 못박은 성과급 된다 파업"
+    ],
+    [
+     "2026-07-21T19:30:38.634997+09:00",
+     "입학 특목 영재고 늘리고 정주여건 개선 특례로"
     ]
    ],
    "seen_urls": [
-    "http://www.srtimes.kr/news/articleView.html?idxno=207889",
     "https://www.newsway.co.kr/news/view?ud=2026072109222698608",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042607",
     "https://www.kado.net/news/articleView.html?idxno=2062242",
@@ -2876,10 +2863,10 @@
     "https://www.daejonilbo.com/news/articleView.html?idxno=2289475",
     "https://www.viewsnnews.com/article?q=237340",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8616242",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=05503846645516816"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=05503846645516816",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8616241"
    ],
    "seen_titles": [
-    "SK인텔릭스,KAIST와AI서비스공동개발업무협약체결",
     "SKT,AI스타트업과동행…'SKTCHwithAI'모집",
     "삼성전자2%대반등에도코스피보합…코스닥1.8%급락[개장시황]",
     "[뉴욕증시]미·이란충돌격화에약세…다우0.6%↓",
@@ -4378,10 +4365,11 @@
     "국립의전원·제2경찰학교도호남행?…정치논리에충청권또밀리나",
     "코스피6,700회복.개미는1.6조투매",
     "“화장실까지에어컨”…조선소의여름나기",
-    "\"영업익N%성과급놓고파업안된다\"못박은李"
+    "\"영업익N%성과급놓고파업안된다\"못박은李",
+    "‘특목·영재고’늘리고,입학특례로정주여건개선"
    ],
    "initialized": true,
-   "last_run": "2026-07-21T19:25:22.741432+09:00"
+   "last_run": "2026-07-21T19:30:38.634997+09:00"
   }
  },
  "press_names": {
