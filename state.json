@@ -586,15 +586,25 @@
     [
      "2026-07-22T08:10:28.624301+09:00",
      "SKT는 산업 전략 고속도로 RAN 갈렸다 AX KT는"
+    ],
+    [
+     "2026-07-22T08:12:17.906284+09:00",
+     "시사펀치 기업 대통령은 멈췄나 김삼기의 회의 초과이윤"
+    ],
+    [
+     "2026-07-22T08:12:17.906284+09:00",
+     "위법배당 성과급은 노동장관 영업익 경영진 주주단체 삼성"
+    ],
+    [
+     "2026-07-22T08:12:17.906284+09:00",
+     "어디까지인가 역대급 신기록 7월 반도체의 수출"
+    ],
+    [
+     "2026-07-22T08:12:17.906284+09:00",
+     "한국 투기판으로 청년들 외신도 폭등 도박장 쓴소리 증시 집값"
     ]
    ],
    "seen_urls": [
-    "https://www.techm.kr/news/articleView.html?idxno=153530",
-    "https://www.newspim.com/news/view/20260721000546",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=737507",
-    "https://www.itdaily.kr/news/articleView.html?idxno=240497",
-    "https://mhnse.com/news/articleView.html?idxno=1465758",
-    "https://www.inven.co.kr/webzine/news/?news=318587",
     "https://www.busan.com/view/busan/view.php?code=2026072111321067668",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4425982",
     "https://biz.sbs.co.kr/article_hub/20000323599?division=NAVER",
@@ -2088,15 +2098,15 @@
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607141621493680106034",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=82784",
     "https://www.nbntv.co.kr/news/articleView.html?idxno=4023234",
-    "https://dealsite.co.kr/articles/165660"
+    "https://dealsite.co.kr/articles/165660",
+    "http://www.joseilbo.com/news/news_read.php?uid=572344&class=53",
+    "https://www.m-i.kr/news/articleView.html?idxno=1393785",
+    "https://www.ilyosisa.co.kr/news/article.html?no=256993",
+    "https://www.sentv.co.kr/article/view/sentv202607210180",
+    "https://news.jtbc.co.kr/article/NB12309506?influxDiv=NAVER",
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/22/2026072290074.html"
    ],
    "seen_titles": [
-    "李\"삼전닉스레버리지문제,보완책신속충실하게만들어야\"",
-    "SKT·KT·LG유플러스,\"일자리창출도상생도해외진출도AI로\"",
-    "李대통령\"레버리지ETF,시장불안성키웠다…필요조치과감히하라\"",
-    "[이슈]코스피한달새28%급락…주요국증시가운데낙폭'최대'",
-    "갤럭시언팩D-1,이통3사사전예약혜택경쟁'눈길'",
-    "이석훈·장성규·고영배,오사카여행중'화기애애'분위기'급변'('끼...",
     "[현장]암행천문관이되어T1의우승역사를좇다…'암행천문:별을헤다...",
     "이대통령\"그것가지고되겠냐지적도…삼전닉스레버리지신속보완...",
     "[외환]달러-원1,470원대후반등락…저가매수에반등시도",
@@ -3590,10 +3600,16 @@
     "[더벨][이슈&보드]태광산업,이사회규정에못박은독립이사회",
     "민관빅데이터모인다…신한카드,외국인맞춤형이민정책지원사격",
     "[인사]화해글로벌,신임CEO·CFO선임…\"글로벌확장·데이터사업고...",
-    "SKT는'AI고속도로',KT는산업AX…AI-RAN전략갈렸다"
+    "SKT는'AI고속도로',KT는산업AX…AI-RAN전략갈렸다",
+    "뉴욕증시,유가상승에도반도체주강세에상승…나스닥1.3%↑",
+    "유가급등에도반도체반등...나스닥1.29%상승",
+    "<김삼기의시사펀치>대통령은왜기업초과이윤회의멈췄나",
+    "\"영업익N%성과급은위법배당\"…주주단체,노동장관·삼성·SK경영진고...",
+    "반도체의힘어디까지인가…7월수출'역대급'신기록",
+    "\"한국증시도박장…집값폭등,청년들투기판으로\"외신도쓴소리"
    ],
    "initialized": true,
-   "last_run": "2026-07-22T08:10:28.624301+09:00"
+   "last_run": "2026-07-22T08:12:17.906284+09:00"
   }
  },
  "press_names": {
