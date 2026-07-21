@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-21T16:25:22.486738+09:00",
-     "투자 흐름을 대박보다 읽는 중요한 시대의"
-    ],
-    [
-     "2026-07-21T16:25:22.486738+09:00",
-     "엑셈 사업 수주 함정 53억 해경"
-    ],
-    [
      "2026-07-21T16:30:34.469090+09:00",
      "수상 고효율 에너지대상 가전 연속 삼성전자 8년"
     ],
@@ -806,16 +798,25 @@
     [
      "2026-07-21T22:15:30.482596+09:00",
      "투자 지난 5조원 한국 ETF에 주간 유입"
+    ],
+    [
+     "2026-07-21T22:25:23.018512+09:00",
+     "감독 매우 용감했다 제주SK 저희 팀은 코스타 세르지우"
+    ],
+    [
+     "2026-07-21T22:25:23.018512+09:00",
+     "결승골 후반 인천 울산 제압 추가시간 원정 PK"
+    ],
+    [
+     "2026-07-21T22:25:23.018512+09:00",
+     "코오롱티슈진 테크윙 파두 삼성바이오로직스 대덕전자"
+    ],
+    [
+     "2026-07-21T22:25:23.018512+09:00",
+     "봐야 하이닉스 대통령 피해 환율 효과보다 삼전 투자자"
     ]
    ],
    "seen_urls": [
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=80011",
-    "https://www.sedaily.com/article/20069820",
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/21/20260721500030?wlog_tag3=naver",
-    "https://www.newsis.com/view/NISX20260721_0003716386",
-    "https://www.newsis.com/view/NISX20260720_0003715832",
-    "https://www.news1.kr/finance/general-stock/6233648",
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/21/20260721500032?wlog_tag3=naver",
     "https://www.newsis.com/view/NISX20260721_0003716198",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1276114",
     "https://www.imaeil.com/page/view/2026072109333931724",
@@ -2308,16 +2309,16 @@
     "https://www.mk.co.kr/article/12103858",
     "https://www.yna.co.kr/view/AKR20260721184300007?input=1195m",
     "https://www.hankyung.com/article/202607217878i",
-    "https://www.joongang.co.kr/article/25446912"
+    "https://www.joongang.co.kr/article/25446912",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553393723",
+    "http://www.stoo.com/article.php?aid=107854354418",
+    "https://news.cpbc.co.kr/article/1174487?division=NAVER",
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596279",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16141889",
+    "https://www.kdpress.co.kr/news/articleView.html?idxno=207083",
+    "https://www.greened.kr/news/articleView.html?idxno=345593"
    ],
    "seen_titles": [
-    "코스피,6500선강보합세...삼전닉스상승",
-    "대기업,영업익81%오를때고용'제자리'...K자형양극화'뚜렷'",
-    "반도체수출역대최대에삼성전자2%대강세[이런국장저런주식]",
-    "[서울데이터랩]코스피,장초반상승출발뒤약세전환…낙폭1%넘겨...",
-    "코스피,장초반6500선공방전…개인'사자'vs기관'팔자'",
-    "TSMC,美투자393조원으로확대…삼성전자·SK하이닉스추가투자나서나",
-    "반도체기대누른'홍해위기'…코스피6500선보합권등락[개장시황]",
     "[서울데이터랩]개장직후인기검색종목20選",
     "프로축구'선두'서울,19R포항전서'승점40고지점령'도전",
     "[세상읽기247]민형배시장의일방적절충안...\"안받으면손떼겠다(?)...",
@@ -3810,10 +3811,17 @@
     "반도체로지갑두둑해진기업들…은행기업예금107조원넘겼다",
     "K리그1인천,전북이어울산도2-1격파…무고사석달만에골맛",
     "한국투자美ETF에지난주한주간4.5조원유입",
-    "K리그1인천,전북이어울산도잡았다...무고사극장골로2-1승"
+    "K리그1인천,전북이어울산도잡았다...무고사극장골로2-1승",
+    "[현장목소리]세르지우코스타감독\"우리팀은굉장히용감했고자랑스...",
+    "'무고사결승골'인천,울산원정서승전보…'이승우PK실축'전북,대...",
+    "[시사천국]허준영\"레버리지ETF논란…근원적문제는반도체쏠림\"",
+    "세르지우코스타제주SK감독\"오늘저희팀은매우용감했다\"",
+    "\"후반추가시간PK결승골\"인천,울산원정2-1제압",
+    "[주요공시]삼성바이오로직스,대덕전자,테크윙,코오롱티슈진,파두,...",
+    "이대통령\"환율효과보다투자자피해봐야\"…삼전6%·하이닉스4%반..."
    ],
    "initialized": true,
-   "last_run": "2026-07-21T22:20:30.511339+09:00"
+   "last_run": "2026-07-21T22:25:23.018512+09:00"
   }
  },
  "press_names": {
