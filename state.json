@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-21T06:10:29.601892+09:00",
-     "무풍지대 CNS만 AI가 흔든 노사 SI업계 LG"
-    ],
-    [
-     "2026-07-21T06:10:29.601892+09:00",
-     "고용은 뚜렷 꽁꽁 서프라이즈 실적 에도 K자형 대기업 양극화"
-    ],
-    [
      "2026-07-21T06:15:26.703013+09:00",
      "경영 승계 윤홍근 언제 회장 BBQ"
     ],
@@ -1266,14 +1258,25 @@
     [
      "2026-07-21T12:10:26.712943+09:00",
      "에쓰오일 SK이노 최선호주 변경 확대 JP모건 정유업 비중"
+    ],
+    [
+     "2026-07-21T12:15:24.654328+09:00",
+     "최태원 삼성전자와 또다른 두산 재판의 당사자 노소영"
+    ],
+    [
+     "2026-07-21T12:15:24.654328+09:00",
+     "가압장 용수관로 12년 5년은 용인팹 걸려 건설에 앞당긴다는"
+    ],
+    [
+     "2026-07-21T12:15:24.654328+09:00",
+     "심바스타틴 깃든 로수바 피타바 견고한 석양 달리는"
+    ],
+    [
+     "2026-07-21T12:15:24.654328+09:00",
+     "확대 IT 산학협력까지 인재양성부터 업계 전방위 통신"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202607150928288521906806b77b_1",
-    "https://www.news1.kr/sports/basketball/6233109",
-    "https://www.joongangenews.com/news/articleView.html?idxno=533997",
-    "https://www.dt.co.kr/article/12073687",
-    "https://www.aitimes.com/news/articleView.html?idxno=212940",
     "https://www.viva100.com/article/20260720500854",
     "https://www.busan.com/view/busan/view.php?code=2026072016193287765",
     "https://www.yna.co.kr/view/AKR20260720133500008?input=1195m",
@@ -2768,14 +2771,14 @@
     "https://www.starnewskorea.com/sports/2026/07/21/2026072111282173065",
     "https://www.g-enews.com/view.php?ud=2026072111530711662aa6f4cdad_1",
     "https://biz.sbs.co.kr/article_hub/20000323618?division=NAVER",
-    "https://www.news1.kr/finance/general-stock/6233976"
+    "https://www.news1.kr/finance/general-stock/6233976",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=356210",
+    "https://www.pennmike.com/news/articleView.html?idxno=124066",
+    "https://www.munhwa.com/article/11603967",
+    "https://www.hitnews.co.kr/news/articleView.html?idxno=77783",
+    "https://www.pressman.kr/news/articleView.html?idxno=102805"
    ],
    "seen_titles": [
-    "[일문일답]배경훈\"AI생산국넘어수출국으로도약해야\"",
-    "[김대호진단]지옥으로가는문...레버리지",
-    "'마줄스호'농구대표팀,농구월드컵예선2R대비담금질",
-    "[마감시황]코스피6500선턱걸이…코스닥도5%대급락",
-    "다시또‘블랙먼데이’…삼전닉스폭락에코스피4%대밀려6500선후퇴",
     "SKT,하나금융과AI로사회적약자돕는'테크포굿'해커톤진행",
     "‘상폐위기’코스닥기업350곳…정부활성화대책통할까",
     "레버리지ETF급등락에야당총공세…\"김용범경질하라\"",
@@ -4270,10 +4273,15 @@
     "김예건U19대표팀차출공백없다,전북경기'다뛰고'소집훈련합류",
     "용인·동탄·평택‘반세권’후끈...반도체벨트신규아파트잇단출...",
     "배경훈-이통3사CEO,모레2차회동…AI투자머리맞댄다",
-    "JP모건\"韓정유업비중확대\"…최선호주'에쓰오일→SK이노'변경"
+    "JP모건\"韓정유업비중확대\"…최선호주'에쓰오일→SK이노'변경",
+    "통신3사2분기실적'온도차'전망…증권가최선호주는LGU+",
+    "[재계핫이슈]최태원노소영재판의또다른당사자,삼성전자와두산",
+    "12년앞당긴다는용인팹…용수관로·가압장건설에5년은걸려",
+    "견고한'로수바'달리는'피타바'석양깃든'심바스타틴'",
+    "통신·IT업계,AI인재양성부터산학협력까지전방위확대"
    ],
    "initialized": true,
-   "last_run": "2026-07-21T12:10:26.712943+09:00"
+   "last_run": "2026-07-21T12:15:24.654328+09:00"
   }
  },
  "press_names": {
