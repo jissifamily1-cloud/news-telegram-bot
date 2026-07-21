@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-21T23:05:25.298599+09:00",
-     "열었다 이렇게 논란에 성과급 누구도 최태원 몰랐다"
-    ],
-    [
      "2026-07-21T23:10:30.408828+09:00",
      "수준 경영도 글로벌 브랜드 르엘 ESG 관심도 1위 하이엔드 롯데건설"
     ],
@@ -262,11 +258,13 @@
     [
      "2026-07-22T05:05:24.742907+09:00",
      "매각 31일 이사회 SK실트론 GO STOP 오는 이냐"
+    ],
+    [
+     "2026-07-22T05:08:40.162995+09:00",
+     "이달 걸린 집단분쟁 손배액 결론날 쿠팡 4조"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=273303",
-    "https://www.energy-news.co.kr/news/articleView.html?idxno=226940",
     "https://news.tf.co.kr/read/economy/2345122.htm",
     "https://biz.chosun.com/it-science/ict/2026/07/21/JMNUAL7BHFA35IZJUIYTZMBG3U/",
     "https://www.dailian.co.kr/news/view/1669057/?sc=Naver",
@@ -1764,11 +1762,11 @@
     "https://www.joongang.co.kr/article/25447010",
     "https://www.joongang.co.kr/article/25447001",
     "https://www.hankookilbo.com/news/article/A2026072117420002230?did=NA",
-    "https://www.mt.co.kr/industry/2026/07/22/2026072115125522357"
+    "https://www.mt.co.kr/industry/2026/07/22/2026072115125522357",
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030143060&code=61131111&cp=nv",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01689206645517144"
    ],
    "seen_titles": [
-    "삼성SDI,전고체배터리수요처로'휴머노이드'점찍다",
-    "[OpeningMarket]KOSPIBattlesAround6,500AmidDollarMaintaining1",
     "LPG수입사E1,주당450원현금배당",
     "반도체성과급제도도마…이해관계자이익침해땐수정가능성제기",
     "SK텔레콤,AI스타트업15곳키운다…선발과정에‘AI심사역’활용",
@@ -3266,10 +3264,12 @@
     "삼전닉스파이갉아먹혔다…애플도손내민중국D램1위",
     "21년전“검찰사치욕의날”…법무장관·檢총장엇갈린증언",
     "[스타트업리포트]'생존위한VOD업체의변신'김형만스튜디오초이스...",
-    "SK㈜,오는31일이사회…SK실트론매각'GO'냐'STOP'이냐"
+    "SK㈜,오는31일이사회…SK실트론매각'GO'냐'STOP'이냐",
+    "[속보]SK하이닉스ADR13.66%↑…뉴욕증시상승마감",
+    "4조손배액걸린쿠팡집단분쟁,이달말결론날듯"
    ],
    "initialized": true,
-   "last_run": "2026-07-22T05:05:24.742907+09:00"
+   "last_run": "2026-07-22T05:08:40.162995+09:00"
   }
  },
  "press_names": {
