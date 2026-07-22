@@ -342,12 +342,13 @@
     [
      "2026-07-23T06:55:20.209899+09:00",
      "미국판 회동 대통령이 깐부 이번엔 계산"
+    ],
+    [
+     "2026-07-23T07:00:39.579243+09:00",
+     "SK하이닉스 대신 운영 공장 참여 오하이오 인수 인텔 검토 파트너"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260722082100008?input=1195m",
-    "https://www.ekn.kr/web/view.php?key=20260722024064788",
-    "https://www.esgeconomy.com/news/articleView.html?idxno=16114",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008669018&plink=ORI&cooper=NAVER",
     "https://www.sentv.co.kr/article/view/sentv202607220073",
     "https://www.mk.co.kr/article/12104215",
@@ -1844,12 +1845,12 @@
     "https://www.sedaily.com/article/20070581",
     "https://www.enetnews.co.kr/news/articleView.html?idxno=52659",
     "https://news.tf.co.kr/read/economy/2346051.htm",
-    "https://imnews.imbc.com/replay/2026/nwtoday/article/6839441_37012.html"
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6839441_37012.html",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470680",
+    "https://biz.heraldcorp.com/article/10817052",
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=546003"
    ],
    "seen_titles": [
-    "[자막뉴스]\"재용·태원이번엔미국으로와\"…젠슨황'삼소회동'한...",
-    "코스피,반도체·외국인견인에5%대상승유지…'7천피'재탈환",
-    "이재용·최태원·이해진,젠슨황과맞손…한국AI동맹,美서판커진다",
     "100대기업임원대해부...평균54.2세고령화뚜렷,여성8.3%그쳐",
     "서학개미,미증시투자대폭확대…이달순매수4조원넘어",
     "지방소멸해법모색…‘2026지역-기업상생협력솔버톤’참가자모집",
@@ -3346,10 +3347,13 @@
     "회사채투심회복되나…SK에코,목표액9배이상모으며‘흥행성공’...",
     "[브랜드평판]현대건설디에이치,하이엔드주거7월1위...롯데건설르...",
     "뉴욕증시,미·이란긴장에일제하락…나스닥0.57%↓",
-    "미국판'깐부회동'‥이번엔이대통령이계산?"
+    "미국판'깐부회동'‥이번엔이대통령이계산?",
+    "디에이치선두지켰다…롯데건설르엘·DK아시아로열파크씨티추격",
+    "SK하닉ADR3.88%↓…뉴욕증시,국제유가급등에약세",
+    "SK하이닉스,인텔오하이오공장'인수'대신'운영파트너'참여검토"
    ],
    "initialized": true,
-   "last_run": "2026-07-23T06:55:20.209899+09:00"
+   "last_run": "2026-07-23T07:00:39.579243+09:00"
   }
  },
  "press_names": {
