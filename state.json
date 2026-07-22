@@ -1133,8 +1133,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202607221019336026",
-    "https://biz.sbs.co.kr/article_hub/20000323795?division=NAVER",
     "https://www.cstimes.com/news/articleView.html?idxno=714213",
     "https://www.ggilbo.com/news/articleView.html?idxno=1170579",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685849",
@@ -2632,11 +2630,11 @@
     "https://www.khan.co.kr/article/202607222132015",
     "http://www.econonews.co.kr/news/articleView.html?idxno=441612",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470659",
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/22/20260722500395?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/economy/securities/2026/07/22/20260722500395?wlog_tag3=naver",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=06150006645517144",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607220595&t=NN"
    ],
    "seen_titles": [
-    "이재용·최태원·이해진,美서젠슨황과AI회동추진",
-    "\"AI의구심해소할까\"…알파벳실적발표앞두고코스피5%대급등[fn오전...",
     "[하우머니]반도체급락…조정일까,추세전환일까?",
     "삼성전자·SK하이닉스,반도체낙관론회복에이틀째'급등'",
     "sk텔레콤주가급등세...증권가가주목한반전신호는?",
@@ -4134,10 +4132,12 @@
     "자금난에돈못갚는중기…연체율1%돌파,11년만에최고",
     "코스피,소폭상승에6700선마감...현대차,삼성전기상승VSSK스퀘어,...",
     "외국인,최근1주일삼성전자·SK하이닉스2조9419억쓸어담았다...AI투...",
-    "“오르다말줄알았다”삼전닉스3000억팔고떠난개미들[내가샀다..."
+    "“오르다말줄알았다”삼전닉스3000억팔고떠난개미들[내가샀다...",
+    "KBS11위·MBN종편1위…방미통위,2024년방송평가결과",
+    "SK하이닉스,청주패키징팹구축앞당긴다…7조원투입"
    ],
    "initialized": true,
-   "last_run": "2026-07-22T21:35:21.678665+09:00"
+   "last_run": "2026-07-22T21:40:27.637178+09:00"
   }
  },
  "press_names": {
