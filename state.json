@@ -462,11 +462,17 @@
     [
      "2026-07-23T07:25:20.105246+09:00",
      "SK하이닉스 사업적 된다 자해행위 하면"
+    ],
+    [
+     "2026-07-23T07:30:34.581916+09:00",
+     "투자 나스닥 중동 위축 리스크에"
+    ],
+    [
+     "2026-07-23T07:30:34.581916+09:00",
+     "나스닥 구글 발표 이란 약보합 실적 긴장 대기에"
     ]
    ],
    "seen_urls": [
-    "https://www.gukjenews.com/news/articleView.html?idxno=3642763",
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/22/2026072290135.html",
     "https://biz.sbs.co.kr/article_hub/20000323870?division=NAVER",
     "https://biz.heraldcorp.com/article/10816294",
     "https://ilyo.co.kr/?ac=article_view&entry_id=511955",
@@ -1964,11 +1970,11 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02692886645517472",
     "https://www.gokorea.kr/news/articleView.html?idxno=872834",
     "https://www.hankyung.com/article/2026072305866",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253267&CMPT_CD=P0010"
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253267&CMPT_CD=P0010",
+    "https://www.bntnews.co.kr/article/view/bnt202607230019",
+    "https://www.sidae.com/article/2026072306133769105"
    ],
    "seen_titles": [
-    "메타AI글래스한국상륙…이통3사,‘레이밴메타’공식출시",
-    "강원랜드,임직원50여명강원FC'원정응원'",
     "'달러당163엔'…일본엔화40년만에바닥",
     "이시각주요뉴스",
     "“롯데온서만4억매출”…중기에힘되는판로지원",
@@ -3466,10 +3472,12 @@
     "“하이닉스,인텔오하이오공장인수아닌협력가능성”",
     "뉴욕증시,국제유가상승에하락세…테슬라·알파벳실적발표의여...",
     "유가3%대급등·빅테크실적경계감에약세[뉴욕증시브리핑]",
-    "SK하이닉스,'사업적자해행위'하면안된다[반도체특별과외]"
+    "SK하이닉스,'사업적자해행위'하면안된다[반도체특별과외]",
+    "나스닥0.57%↓…중동리스크에투자위축",
+    "[뉴욕증시]이란긴장·구글실적발표대기에약보합…나스닥0.5%↓"
    ],
    "initialized": true,
-   "last_run": "2026-07-23T07:25:20.105246+09:00"
+   "last_run": "2026-07-23T07:30:34.581916+09:00"
   }
  },
  "press_names": {
