@@ -622,14 +622,21 @@
     [
      "2026-07-23T08:25:21.863637+09:00",
      "알파벳 출발 마켓시그 강세 확대 CAPEX 훈풍 삼전닉스 프리장서"
+    ],
+    [
+     "2026-07-23T08:30:33.770418+09:00",
+     "쏠림에 우려 소멸 코스닥 단일종목 레버리지"
+    ],
+    [
+     "2026-07-23T08:30:33.770418+09:00",
+     "SK에코플랜트 1순위 의왕역 청약마감 VIEW 최고 5대"
+    ],
+    [
+     "2026-07-23T08:30:33.770418+09:00",
+     "유가 급등에 강세 곡물 동반"
     ]
    ],
    "seen_urls": [
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=724790",
-    "https://www.dt.co.kr/article/12074106",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03949126645517144",
-    "https://economist.co.kr/article/view/ecn202607220022",
-    "https://www.kpanews.co.kr/news/articleView.html?idxno=539020",
     "https://www.yna.co.kr/view/AKR20260722089800004?input=1195m",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065582721547756",
     "https://imnews.imbc.com/replay/2026/nw1200/article/6839211_36967.html",
@@ -2124,14 +2131,14 @@
     "http://www.press9.kr/news/articleView.html?idxno=79865",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=724871",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607201335409880101293",
-    "https://www.sedaily.com/article/20070770"
+    "https://www.sedaily.com/article/20070770",
+    "https://www.newspim.com/news/view/20260723000087",
+    "https://www.mt.co.kr/tech/2026/07/23/2026072307553132115",
+    "https://www.chosun.com/economy/stock-finance/2026/07/23/W354WVHLBRDOFN7ARCSNUYMYP4/",
+    "http://www.ikld.kr/news/articleView.html?idxno=337964",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1717404"
    ],
    "seen_titles": [
-    "반도체주,‘약속의8월’오나…“바닥다지고분위기반전될것”분...",
-    "애플도원한다던데…메모리판흔드는CXMT",
-    "데이터센터냉각시장들썩…나인앤컴퍼니,AIT-E투자로시장공략",
-    "스마트폰넘어AI안경까지…통신3사,'레이밴메타'결합경쟁(종합)",
-    "이통3사,세계1위AI글래스'레이밴메타'동시출격…혜택경쟁불붙...",
     "녹십자,2분기영업이익'숨고르기'하반기반등이유충분",
     "주주단체,노동장관·삼전닉스대표고발…\"성과급은교섭불가\"",
     "카카오페이증권,신혼부부에최대10만원상당국내주식선물…'결혼하...",
@@ -3626,10 +3633,15 @@
     "SK바이오팜,목표주가하향...엑스코프리처방호조는지속-iM증권",
     "구글호실적에위험선호회복…환율,1470원대재진입시도",
     "[더벨][thebellinterview]\"집중투표제피해시차임기제…상법우회차단...",
-    "‘알파벳CAPEX확대’훈풍…프리장서삼전닉스2%강세출발[마켓시그..."
+    "‘알파벳CAPEX확대’훈풍…프리장서삼전닉스2%강세출발[마켓시그...",
+    "[GAM]메모리주'알파벳훈풍'에시간외반등…상승분은축소",
+    "中키미K3,엔비디아'네모트론'압도…국내기업기술쏠림괜찮나[I...",
+    "단일종목레버리지쏠림에“코스닥소멸우려”",
+    "SK에코플랜트,'의왕역SKVIEW'1순위청약마감…최고31.5대1",
+    "[원자재시황]유가급등에금·곡물동반강세"
    ],
    "initialized": true,
-   "last_run": "2026-07-23T08:25:21.863637+09:00"
+   "last_run": "2026-07-23T08:30:33.770418+09:00"
   }
  },
  "press_names": {
