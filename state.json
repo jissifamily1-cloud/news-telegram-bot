@@ -206,11 +206,13 @@
     [
      "2026-07-23T04:00:37.732838+09:00",
      "용인시 오산시 여주시"
+    ],
+    [
+     "2026-07-23T04:10:39.627560+09:00",
+     "체질 계기 여수 돼야 개선 석화재편"
     ]
    ],
    "seen_urls": [
-    "https://www.koreajoongangdaily.com/business/samsung-sk-and-naver-leaders-to-meet-nvidia-ceo-jensen-huang-in-us-ai-talks/12785372",
-    "https://www.hani.co.kr/arti/economy/economy_general/1269372.html",
     "https://www.thepowernews.co.kr/view.php?ud=202607221052591331de3f0aa1be_7",
     "https://www.kukinews.com/article/view/kuk202607220052",
     "http://www.econonews.co.kr/news/articleView.html?idxno=441586",
@@ -1708,11 +1710,11 @@
     "https://www.bloter.net/news/articleView.html?idxno=668702",
     "https://www.news2day.co.kr/article/20260721500228",
     "http://www.bizwnews.com/news/articleView.html?idxno=141213",
-    "https://www.ekn.kr/web/view.php?key=20260723023185165"
+    "https://www.ekn.kr/web/view.php?key=20260723023185165",
+    "https://www.mt.co.kr/stock/2026/07/23/2026072219563471707",
+    "https://www.mt.co.kr/opinion/2026/07/23/2026072216375886121"
    ],
    "seen_titles": [
-    "안경이통역하고길찾는다…메타-삼성,AI글라스전쟁",
-    "Samsung,SKandNaverleaderstomeetNvidiaCEOJensenHuanginU.S.AI.",
     "SK하이닉스“미국인텔반도체공장인수추진안해”",
     "신한카드,이민정책연구원과외국인데이터분석협력",
     "이재용·최태원·이해진,美서젠슨황만난다…AI동맹주목",
@@ -3210,10 +3212,12 @@
     "TSMC,트럼프의美생산확대압박에수익성부담",
     "[ESG경영사례분석]GC녹십자,주주가치제고·이사회독립성강화…종...",
     "AI병목,GPU서메모리·네트워크로이동한다",
-    "[패트롤]용인시-여주시-오산시"
+    "[패트롤]용인시-여주시-오산시",
+    "\"7천피뚫고급등하다뚝\"좋다말았다...\"'이회사'실적주목할때\"",
+    "[사설]여수석화재편,체질개선계기돼야"
    ],
    "initialized": true,
-   "last_run": "2026-07-23T04:05:21.647795+09:00"
+   "last_run": "2026-07-23T04:10:39.627560+09:00"
   }
  },
  "press_names": {
