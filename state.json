@@ -1169,9 +1169,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596274",
-    "https://www.spotvnews.co.kr/news/articleView.html?idxno=829795",
-    "https://www.mk.co.kr/article/12103848",
     "https://www.sportsseoul.com/news/read/1623857",
     "http://www.osen.co.kr/article/G1112843845",
     "https://www.chosun.com/national/national_general/2026/07/21/JVHK2R46DZEENBDZF7UBJLJWRI/",
@@ -2668,12 +2665,12 @@
     "https://kbench.com/?q=node%2F280571",
     "https://www.yna.co.kr/view/AKR20260722106200061?input=1195m",
     "https://www.dt.co.kr/article/12074147",
-    "https://www.lawtv.kr/news/articleView.html?idxno=60481"
+    "https://www.lawtv.kr/news/articleView.html?idxno=60481",
+    "https://www.insight.co.kr/news/564181",
+    "http://www.thevaluenews.co.kr/news/view.php?idx=200216",
+    "https://www.joongang.co.kr/article/25447141"
    ],
    "seen_titles": [
-    "서울만웃는다…'2위경쟁'강원·전북승점1점,울산은패배",
-    "K리그1선두서울이웃는다…강원·전북·울산모두승리실패",
-    "정경호강원FC감독\"아부달라득점취소?연결장면에서오프사이드라...",
     "'LG또졌다'2217일만에6연패수렁,NC김휘집7회2사후결승포로3...",
     "방화셔터도녹여버린쿠팡물류센터화재...배터리폭발우려에탈것투...",
     "‘무고사PK결승포’인천윤정환호,전북→울산‘현대가’연달아격...",
@@ -4170,10 +4167,13 @@
     "ADATA회장,AI시대메모리부족계속된다…향후10년간이어질수도",
     "안민석\"교육예산은소비아닌투자\"…교육교부금개편반발",
     "스페이스X‘1500조’증발...미래에셋증권실적유탄맞나",
-    "주주운동본부,노동장관·삼전닉스대표고발...\"성과급은쟁의대상아..."
+    "주주운동본부,노동장관·삼전닉스대표고발...\"성과급은쟁의대상아...",
+    "SK하이닉스,10년약속한성과급제도1년만에재논의",
+    "SKT·LGU+,AI글래스‘레이밴메타(Gen2)’출시",
+    "‘삼전닉스’레버리지개미우는데…운용사는수수료만수백억번다"
    ],
    "initialized": true,
-   "last_run": "2026-07-22T15:10:27.443643+09:00"
+   "last_run": "2026-07-22T15:11:42.403140+09:00"
   }
  },
  "press_names": {
