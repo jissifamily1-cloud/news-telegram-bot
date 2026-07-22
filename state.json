@@ -1317,10 +1317,6 @@
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026072210031386311",
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/22/2026072200062.html",
-    "https://www.sedaily.com/article/20070326",
-    "https://biz.chosun.com/stock/finance/2026/07/22/JNM2PTGNHZAFHAOJ4QOTRPLJBU/",
     "https://biz.heraldcorp.com/article/10815962",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4426169",
     "https://www.bizwork.co.kr/news/articleView.html?idxno=417507",
@@ -2816,13 +2812,13 @@
     "https://www.yna.co.kr/view/AKR20260722168800003?input=1195m",
     "https://www.ggilbo.com/news/articleView.html?idxno=1170833",
     "https://www.koreajoongangdaily.com/business/govt-approves-2nd-petrochemical-restructuring-proposal-with-yeosu-project/12786272",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8617441"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8617441",
+    "https://sports.khan.co.kr/article/202607221946003?pt=nv",
+    "https://en.yna.co.kr/view/AEN20260722009300320?input=2106m",
+    "http://www.press9.kr/news/articleView.html?idxno=79860",
+    "https://news.tf.co.kr/read/economy/2346035.htm"
    ],
    "seen_titles": [
-    "코스피장중7,000선회복…반도체'투톱'급등에7,150선돌파",
-    "브이아이자산운용,'금·반·지'추가형공모펀드출시",
-    "레버리지서배당으로…급락장에ETF자금,인컴전략으로이동",
-    "구글은AI칩키우고중국은메모리늘리고…삼성·SK웃나",
     "[2026BCGCEO아젠다]재무관리넘어‘AI가치설계자’로…달라지는...",
     "“외화예금환전하고유보자금국내로”…정부,기업에외환시장안정...",
     "[증권가이모저모]1.2조CP통째로…유안타,SK하이닉스잡은'메가딜'...",
@@ -4318,10 +4314,14 @@
     "국토장관\"기업시간표맞춰산단조성신속추진\"",
     "[주식마감]'로봇주'연일질주...앤로보틱스,휴림에이텍,아이로보틱...",
     "Gov'tapproves2ndpetrochemicalrestructuringproposalwithYeosup",
-    "불볕더위보다뜨거운삶…야외노동자들의‘극한여름’"
+    "불볕더위보다뜨거운삶…야외노동자들의‘극한여름’",
+    "‘끼리끼리’이석훈·장성규·고영배,오사카MZ세대성지‘텐마’서...",
+    "HeadsofSamsung,SK,HyundaitovisitU.S.tomeetwithglobaltechlead",
+    "에브리봇,삼성생명자회사'삼성노블라이프'와시니어케어로봇실증",
+    "라포랩스,SK스토아인수'자진취하'…부적격판정회피비판"
    ],
    "initialized": true,
-   "last_run": "2026-07-22T19:45:25.603218+09:00"
+   "last_run": "2026-07-22T19:50:02.359630+09:00"
   }
  },
  "press_names": {
