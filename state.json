@@ -306,10 +306,13 @@
     [
      "2026-07-23T02:04:46.660960+09:00",
      "새로운 발견 자본시장의 주식토큰"
+    ],
+    [
+     "2026-07-23T02:25:19.588701+09:00",
+     "지킨 슈퍼마이크 엔비디아 실적이 200만닉스 구글 답한다"
     ]
    ],
    "seen_urls": [
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=356271",
     "https://www.slist.kr/news/articleView.html?idxno=753377",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=273382",
     "https://www.etoday.co.kr/news/view/2606094",
@@ -1808,10 +1811,10 @@
     "https://www.kdpress.co.kr/news/articleView.html?idxno=207168",
     "https://www.mt.co.kr/opinion/2026/07/23/2026072008151385397",
     "https://www.kmib.co.kr/article/view.asp?arcid=1784709626&code=11151400&cp=nv",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1784707621&code=11151200&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=1784707621&code=11151200&cp=nv",
+    "https://www.greened.kr/news/articleView.html?idxno=345722"
    ],
    "seen_titles": [
-    "코스피,장중5.6%급등해7100선회복…이틀연속매수사이드카",
     "AI공급망다시묶는다…이재용·최태원·이해진,美서젠슨황과회동",
     "장마→폭염시작,실내생활돕는'스테이케이션'가전인기",
     "[OpeningMarket]KOSPIReclaims7,000onChipRallyAmidDollarRateDo",
@@ -3310,10 +3313,11 @@
     "[주요공시]SK하이닉스,스트라드비젼,삼성에피스홀딩스,KC코트렐,KG케...",
     "주식토큰,자본시장의새로운발견[MT시평/정구태]",
     "‘10년유지’합의한SK하이닉스성과급,1년만에재협상",
-    "[현장기자]단일종목레버리지컨트롤타워가없다"
+    "[현장기자]단일종목레버리지컨트롤타워가없다",
+    "'200만닉스'못지킨날,구글실적이답한다…엔비디아3%·슈퍼마이크..."
    ],
    "initialized": true,
-   "last_run": "2026-07-23T02:20:25.456556+09:00"
+   "last_run": "2026-07-23T02:25:19.588701+09:00"
   }
  },
  "press_names": {
