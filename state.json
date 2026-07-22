@@ -1069,9 +1069,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ggilbo.com/news/articleView.html?idxno=1170579",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685849",
-    "https://www.cnbnews.com/news/articleView.html?idxno=1008782",
     "https://www.itdaily.kr/news/articleView.html?idxno=240517",
     "https://www.junggi.co.kr/news/articleView.html?idxno=37196",
     "http://www.joseilbo.com/news/news_read.php?uid=572357&class=17",
@@ -2568,12 +2565,12 @@
     "https://www.seoul.co.kr/news/economy/securities/2026/07/22/20260722500395?wlog_tag3=naver",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=06150006645517144",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607220595&t=NN",
-    "https://www.betanews.net/article/view/beta202607220073"
+    "https://www.betanews.net/article/view/beta202607220073",
+    "http://www.joseilbo.com/news/news_read.php?uid=572420&class=1",
+    "http://www.footballist.co.kr/news/articleView.html?idxno=212597",
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/22/2026072290314.html"
    ],
    "seen_titles": [
-    "삼성전자·SK하이닉스,반도체낙관론회복에이틀째'급등'",
-    "sk텔레콤주가급등세...증권가가주목한반전신호는?",
-    "코스피4거래일만에7000선복귀...이틀연속매수사이드카",
     "신한카드,'데이터기반이민정책수립협력'업무협약맺어",
     "실리콘밸리향하는재계총수들…'AI동맹'짜러간다",
     "중동지역긴장고조에뛴국제유가…환율은내림세",
@@ -4070,10 +4067,13 @@
     "“오르다말줄알았다”삼전닉스3000억팔고떠난개미들[내가샀다...",
     "KBS11위·MBN종편1위…방미통위,2024년방송평가결과",
     "SK하이닉스,청주패키징팹구축앞당긴다…7조원투입",
-    "'중동긴장고조·엔저'영향에...원·달러환율,1480원대상승마감"
+    "'중동긴장고조·엔저'영향에...원·달러환율,1480원대상승마감",
+    "주주단체“성과급은교섭대상아니다”…노동장관등고발",
+    "\"홈에서는승리로보답\"원정10연전2연패로끝낸포항박태하감독의...",
+    "\"N%성과급은배임\"장관·삼전닉스대표고발한주주단체…'수억성과급..."
    ],
    "initialized": true,
-   "last_run": "2026-07-22T21:45:29.335597+09:00"
+   "last_run": "2026-07-22T21:50:27.168296+09:00"
   }
  },
  "press_names": {
