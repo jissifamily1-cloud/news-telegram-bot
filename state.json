@@ -1325,10 +1325,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426170",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1717250",
-    "https://www.namdonews.com/news/articleView.html?idxno=917646",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=847809",
     "http://www.newsian.co.kr/news/articleView.html?idxno=92569",
     "https://www.sedaily.com/article/20070325",
     "https://news.tf.co.kr/read/economy/2345639.htm",
@@ -2824,13 +2820,13 @@
     "https://www.gokorea.kr/news/articleView.html?idxno=872817",
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029663",
     "https://www.dongponews.net/news/articleView.html?idxno=59434",
-    "http://www.fnnews.com/news/202607221626524429"
+    "http://www.fnnews.com/news/202607221626524429",
+    "https://www.ccdn.co.kr/news/articleView.html?idxno=1089760",
+    "http://www.srtimes.kr/news/articleView.html?idxno=208092",
+    "https://www.ytn.co.kr/_ln/0102_202607221934517114",
+    "https://www.ytn.co.kr/_ln/0102_202607221934337763"
    ],
    "seen_titles": [
-    "코스피7000회복,개장직후사이드카에도6%급등...외인1조순매수",
-    "김정관산업장관,오늘방미…대미투자·쿠팡·반도체화두오를까",
-    "이통3사,'레이밴메타AI글라스'출시",
-    "'삼전·하이닉스'질주…코스피7천선4거래일만에회복",
     "이재용·최태원·젠슨황,이번주美회동…올트먼합류가능성'주목'",
     "[초점]정부'성과급쟁의'선긋기…SK하이닉스재협상·삼성전자보상...",
     "로봇시장정조준삼성전자…‘대표직속+S급인재’드림팀출범",
@@ -4326,10 +4322,14 @@
     "코스피7,000선돌파…알파벳실적발표앞두고변동성증가",
     "안민석교육감도\"교육교부금축소반대\"",
     "AMD,MS와손잡고AI랙시장도전…엔비디아독점구도흔든다",
-    "도박장된반도체주…하루에8%씩오르내렸다"
+    "도박장된반도체주…하루에8%씩오르내렸다",
+    "하이닉스사측\"성과급일부주식지급\"-노조\"안될말\"",
+    "시총100대기업임원고령화…평균54.2세,30대이하90%는오너家",
+    "SK하이닉스\"인텔오하이오공장인수추진안해\"",
+    "정부,용인반도체산단전기공급11년앞당긴다"
    ],
    "initialized": true,
-   "last_run": "2026-07-22T19:35:21.720685+09:00"
+   "last_run": "2026-07-22T19:40:26.276553+09:00"
   }
  },
  "press_names": {
