@@ -658,11 +658,13 @@
     [
      "2026-07-22T23:15:31.556269+09:00",
      "이상일 용수 공급 전력 경기지사에 국가산단 추미애 용인시장 반도체"
+    ],
+    [
+     "2026-07-22T23:23:19.409985+09:00",
+     "각종 약속 재정난 경기도 시군 호소한 추미애 공동대응 규제"
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426185",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426186",
     "https://www.hani.co.kr/arti/economy/economy_general/1269364.html",
     "https://www.yna.co.kr/view/AKR20260722067100007?input=1195m",
     "https://www.mt.co.kr/finance/2026/07/22/2026072210174321691",
@@ -2160,11 +2162,11 @@
     "https://www.mk.co.kr/article/12104904",
     "http://www.newstown.co.kr/news/articleView.html?idxno=710026",
     "https://www.sentv.co.kr/article/view/sentv202607220220",
-    "https://www.hankyung.com/article/202607220411i"
+    "https://www.hankyung.com/article/202607220411i",
+    "https://www.sentv.co.kr/article/view/sentv202607220221",
+    "https://www.newscj.com/news/articleView.html?idxno=3419169"
    ],
    "seen_titles": [
-    "'폭락'에'폭락'거듭하는데'묻지마매수'만외치는증권사리서치센터...",
-    "SK하이닉스환전자금덕분에…'백투백'우려에도단기채에매수몰린다",
     "[여수석화재편]'하향일변도'신용도방어막…유동성숨통기대",
     "여천엔씨씨2·3호기139만톤멈춘다…롯데여수공장일부도통합",
     "핸드볼남자부이적활발…SK호크스,6명영입해공격력증강",
@@ -3662,10 +3664,12 @@
     "MBN,방미통위방송평가서종편1위",
     "이상일용인시장,추미애경기지사에\"반도체국가산단전력·용수공급...",
     "SK하이닉스,청주P&T7공장건설당긴다…7.1조원투자증액재의결",
-    "빅테크실적앞두고유가급등세에美증시혼조…나스닥0.4%↓"
+    "빅테크실적앞두고유가급등세에美증시혼조…나스닥0.4%↓",
+    "SK스퀘어,자사주430억원소각결의…주주환원박차",
+    "재정난·각종규제호소한경기도시군…추미애,공동대응약속"
    ],
    "initialized": true,
-   "last_run": "2026-07-22T23:20:29.904318+09:00"
+   "last_run": "2026-07-22T23:23:19.409985+09:00"
   }
  },
  "press_names": {
