@@ -506,14 +506,17 @@
     [
      "2026-07-23T07:45:23.316039+09:00",
      "선물 주식 카카오페이증권 10만 올해 결혼하면"
+    ],
+    [
+     "2026-07-23T07:50:26.582033+09:00",
+     "인식 매수 LG디스플레이 시장 지속되면 실적 바뀔 개선"
+    ],
+    [
+     "2026-07-23T07:50:26.582033+09:00",
+     "통신사도 마이데이터 떠난 금융사만 남아"
     ]
    ],
    "seen_urls": [
-    "https://www.redian.org/news/articleView.html?idxno=256984",
-    "https://www.etnews.com/20260722000172",
-    "https://biz.heraldcorp.com/article/10816322",
-    "https://www.ytn.co.kr/_ln/0102_202607221145262341",
-    "https://www.newstnt.com/news/articleView.html?idxno=711157",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=851684",
     "https://www.munhwa.com/article/11604214",
     "http://www.fnnews.com/news/202607221140183090",
@@ -2008,14 +2011,14 @@
     "https://biz.heraldcorp.com/article/10817092",
     "https://www.sedaily.com/article/20070758",
     "https://www.ajunews.com/view/20260723072715154",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008670263&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008670263&plink=ORI&cooper=NAVER",
+    "https://www.koreaittimes.com/news/articleView.html?idxno=155394",
+    "https://www.newsway.co.kr/news/view?ud=2026072307343330782",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6839466_37012.html",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02794566645517472",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=851627"
    ],
    "seen_titles": [
-    "SK행복나래,'SK임팩트부스터'가동…소셜벤처9개사선발",
-    "이재용·최태원·이해진,젠슨황과회동추진...AI협력확대논의",
-    "“결혼하면주식드려요”…카카오페이증권,신혼부부캠페인",
-    "‘2호’여수감산본궤도…울산,최종안난항에‘3호’오리무중",
-    "'삼전·닉스'강세에코스피4일만에7천선탈환",
     "[특징주]외국인'빛과전자·삼성전자'…기관'삼성전자우·성호전자'...",
     "[단독]런던동메달주역백성동,충북청주이적확정",
     "매수문턱높이기가‘고위험단기매매’부추긴다",
@@ -3510,10 +3513,15 @@
     "“코스피오늘도불안하네”뉴욕증시,유가급등에동반하락…나스닥...",
     "스마트폰바꾸려다“언제이렇게올랐어?”깜짝…수요뚝떨어졌다는...",
     "[아주증시포커스]중국반도체기업들IPO러시…'반도체굴기시즌2'시작...",
-    "카카오페이증권\"올해결혼하면10만원주식선물\""
+    "카카오페이증권\"올해결혼하면10만원주식선물\"",
+    "SK하이닉스노사,임단협집중교섭재개…성과급제도놓고이견",
+    "유가급등·빅테크실적경계에뉴욕증시소폭하락…나스닥0.6%↓",
+    "뉴욕증시,국제유가급등에약세",
+    "LG디스플레이,실적개선지속되면시장인식바뀔것…'매수'-SK",
+    "통신사도떠난마이데이터...금융사만남아"
    ],
    "initialized": true,
-   "last_run": "2026-07-23T07:45:23.316039+09:00"
+   "last_run": "2026-07-23T07:50:26.582033+09:00"
   }
  },
  "press_names": {
