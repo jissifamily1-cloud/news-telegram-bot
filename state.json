@@ -837,7 +837,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ddaily.co.kr/page/view/2026072310001479276",
     "https://www.sedaily.com/article/20070862",
     "https://biz.heraldcorp.com/article/10817256",
     "https://www.sedaily.com/article/20070856",
@@ -2336,10 +2335,10 @@
     "https://www.spotvnews.co.kr/news/articleView.html?idxno=830302",
     "https://www.tokenpost.kr/news/market/380541",
     "https://www.thelec.kr/news/articleView.html?idxno=59977",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260723220635Jrs"
+    "http://www.yonhapnewstv.co.kr/news/MYH20260723220635Jrs",
+    "https://www.s-journal.co.kr/news/articleView.html?idxno=42606"
    ],
    "seen_titles": [
-    "\"대형주장세에점유율밀렸다\"…목표가떨어진키움증권",
     "李대통령주문에…'레버리지ETF'예탁금상향이달말로앞당긴다",
     "\"AI수요지속\"알파벳투자확대에코스피7천선재회복",
     "알파벳'시간외급락'...한국증시반도체주는'장중급등',왜?",
@@ -3838,10 +3837,11 @@
     "LG병살타→병살타→병살타충격그자체…2218일만에7연패수렁,KBO...",
     "외국인매수세,삼성전자·SK하이닉스급등…반도체주강세주도",
     "티이엠씨씨엔에스,하이닉스반도체소재공급재개…보은공장서첫출...",
-    "내일최태원·노소영파기환송심선고…SK주식쟁점"
+    "내일최태원·노소영파기환송심선고…SK주식쟁점",
+    "해진공,중소선사AI진단·실증착수…LLM개발도추진"
    ],
    "initialized": true,
-   "last_run": "2026-07-23T22:10:27.729666+09:00"
+   "last_run": "2026-07-23T22:15:27.300479+09:00"
   }
  },
  "press_names": {
