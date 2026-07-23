@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-23T06:00:56.778967+09:00",
-     "94달러 뉴욕 이란 강대강 브렌트유 배럴당 일제히 증시 대치에"
-    ],
-    [
-     "2026-07-23T06:00:56.778967+09:00",
-     "장인 브라질 아르헨티나 이재명 대통령 3국 남미 방문에 칠레 정의선"
-    ],
-    [
      "2026-07-23T06:06:16.781425+09:00",
      "우려 치솟는 반도체주 유가에 방향 인플레 고개 잃은"
     ],
@@ -1342,15 +1334,17 @@
     [
      "2026-07-23T12:00:39.829852+09:00",
      "잠잠 트레이드 프로야구 일주일 대형 남은 마감일 움직임"
+    ],
+    [
+     "2026-07-23T12:05:19.899478+09:00",
+     "샀다면 폭등한 단숨에 기름값 정유주 폭등에 주식"
+    ],
+    [
+     "2026-07-23T12:05:19.899478+09:00",
+     "산단에 재자원화 핵심소재 건립 이차전지 반도체 동충주 시설"
     ]
    ],
    "seen_urls": [
-    "https://www.khan.co.kr/article/202607221657001",
-    "https://biz.sbs.co.kr/article_hub/20000323984?division=NAVER",
-    "http://www.efnews.co.kr/news/articleView.html?idxno=131144",
-    "http://www.inews24.com/view/1987856",
-    "https://www.slist.kr/news/articleView.html?idxno=753494",
-    "https://www.dailian.co.kr/news/view/1669743/?sc=Naver",
     "https://biz.sbs.co.kr/article_hub/20000323961?division=NAVER",
     "http://www.paxetv.com/news/articleView.html?idxno=277632",
     "https://www.newsis.com/view/NISX20260722_0003719154",
@@ -2844,15 +2838,15 @@
     "https://www.munhwa.com/article/11604517",
     "https://www.dt.co.kr/article/12074354",
     "https://www.thepublic.kr/news/articleView.html?idxno=312354",
-    "https://www.yna.co.kr/view/AKR20260723095800007?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260723095800007?input=1195m",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553398386",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16143773",
+    "https://www.energy-news.co.kr/news/articleView.html?idxno=227007",
+    "https://www.munhwa.com/article/11604530",
+    "https://www.wikitree.co.kr/articles/1147983",
+    "https://www.news1.kr/local/sejong-chungbuk/6236628"
    ],
    "seen_titles": [
-    "SKT‘정상화’·LGU+‘선방’·KT만‘역주행’…이통3사2분기실적...",
-    "여수석유화학단지사업재편최종승인…정부,7000억금융지원",
-    "돌아오는외국인…1560원찍던환율1480원대로'뚝'",
-    "균형발전승부수,3대메가프로젝트가바꿀미래",
-    "[신아일보tv]글로벌AI동맹실리콘밸리회동",
-    "\"천문학적투자에신뢰,사업성이안보인다\"",
     "우리나라에서부자로성공하기",
     "[속보]李,24일젠슨황·샘올트먼등빅테크CEO면담",
     "이상일,추미애경기지사에\"반도체국가산단전력·용수공급·광역철...",
@@ -4346,10 +4340,16 @@
     "ETF‘지렛대’줄여야할때[뉴스와시각]",
     "5년만‘3%대성장률’청신호…한은“하반기‘-0.1%’만되도가능”",
     "\"주주돈으로파업막았나\"…소액주주,삼성·SK대표배임혐의고발",
-    "일주일남은프로야구트레이드마감일…대형움직임잠잠"
+    "일주일남은프로야구트레이드마감일…대형움직임잠잠",
+    "[현장핫피플]김천상무공격수이건희가스승이정규보자마자\"아버지...",
+    "\"조용한이적시장\"KBO,트레이드마감앞두고잠잠",
+    "현대건설디에이치,하이엔드주거2026년7월브랜드평판1위",
+    "코스피장중7000선회복…경기회복기대에투심살아나",
+    "기름값폭등에정유주샀다면?…단숨에21%폭등한'이주식'",
+    "동충주산단에반도체·이차전지핵심소재재자원화시설건립"
    ],
    "initialized": true,
-   "last_run": "2026-07-23T12:00:39.829852+09:00"
+   "last_run": "2026-07-23T12:05:19.899478+09:00"
   }
  },
  "press_names": {
