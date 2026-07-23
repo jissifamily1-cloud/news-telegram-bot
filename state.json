@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-24T00:10:30.806318+09:00",
-     "재정 지우더니 엔화 40년 추락 건전화 최저치 만의"
-    ],
-    [
      "2026-07-24T00:25:25.600335+09:00",
      "미수로 잃고 SK하닉 3200만원 몰빵 빌려달라 삼천당제약에 더니"
     ],
@@ -230,13 +226,21 @@
     [
      "2026-07-24T06:10:27.070492+09:00",
      "자회사 SKT 전담 만든다 AI데이터센터"
+    ],
+    [
+     "2026-07-24T06:15:24.701615+09:00",
+     "우려 긴장에 중동 수익성 증시"
+    ],
+    [
+     "2026-07-24T06:15:24.701615+09:00",
+     "상반기 울고 실적 팬오션 영업익 해운빅2 HMM 웃고"
+    ],
+    [
+     "2026-07-24T06:15:24.701615+09:00",
+     "증권사 변동성 종목인데 같은 목표가 속출 극과극 확대에"
     ]
    ],
    "seen_urls": [
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=83586",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=356343",
-    "http://www.fnnews.com/news/202607231041533438",
-    "https://www.sidae.com/article/2026072310214929816",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=273460",
     "https://www.namdonews.com/news/articleView.html?idxno=917801",
     "https://www.womentimes.co.kr/news/articleView.html?idxno=104627",
@@ -1732,13 +1736,13 @@
     "https://www.news1.kr/industry/general-industry/6235476",
     "https://www.kbmaeil.com/article/20260724500023",
     "http://www.beyondpost.co.kr/view.php?ud=2026072405555628132aaae0046f_30",
-    "https://www.segye.com/newsView/20260723523869?OutUrl=naver"
+    "https://www.segye.com/newsView/20260723523869?OutUrl=naver",
+    "https://www.jibs.co.kr/news/articles/articlesDetail/63794?feed=na",
+    "https://www.news2day.co.kr/article/20260724500014",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=759914",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092166393"
    ],
    "seen_titles": [
-    "코웨이,2분기호실적전망…국내외고른성장",
-    "[특징주]삼성전자·SK하이닉스동반강세…알파벳AI투자확대에반도...",
-    "미래에셋,코빗지분인수마무리...최대주주등극",
-    "LeetomeetAIbigtechleadersinU.S.,expandrareearthsupplychains.",
     "SKT제안'로봇데이터팩토리'국제표준화논의본격화",
     "“1억넣었으면중형차뽑았다”…한달만에50%↑‘파산핑’이돌아왔...",
     "SK바이오팜,연내제품도입목표…성장축추가주목",
@@ -3234,10 +3238,14 @@
     "\"트랙터만팔아선못큰다\"…대동·TYM,농기계넘어'농업플랫폼'경쟁",
     "최태원·노소영‘세기의재산분할’오늘결론…9년이혼소송분수령",
     "구글6.9%,테슬라14.5%급락...AI투자에대한우려불거지며빅테크주...",
-    "SKT,AI데이터센터전담자회사만든다"
+    "SKT,AI데이터센터전담자회사만든다",
+    "최태원.노소영재산분할오늘결론..이혼소송사상최대재산분할?",
+    "[N2모닝경제브리핑-7월24일]美증시,AI수익성우려·중동긴장에...",
+    "'영업익25%↓'HMM울고,'26%↑'팬오션웃고…해운빅2상반기실적희...",
+    "\"같은종목인데왜\"…변동성확대에증권사'극과극'목표가속출"
    ],
    "initialized": true,
-   "last_run": "2026-07-24T06:10:27.070492+09:00"
+   "last_run": "2026-07-24T06:15:24.701615+09:00"
   }
  },
  "press_names": {
