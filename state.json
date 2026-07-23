@@ -1221,9 +1221,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/politics/2026/07/22/20260722500317?wlog_tag3=naver",
-    "https://www.jejusori.net/news/articleView.html?idxno=504959",
-    "https://www.etnews.com/20260722000241",
     "https://www.thepublic.kr/news/articleView.html?idxno=312236",
     "https://sports.khan.co.kr/article/202607221708003?pt=nv",
     "https://www.donga.com/news/Politics/article/all/20260722/134345553/1",
@@ -2720,12 +2717,12 @@
     "https://www.news1.kr/photos/8021996",
     "https://www.news1.kr/photos/8021997",
     "https://www.kpinews.kr/newsView/1065582409632543",
-    "https://www.cnbnews.com/news/articleView.html?idxno=1008916"
+    "https://www.cnbnews.com/news/articleView.html?idxno=1008916",
+    "https://platum.kr/archives/291302",
+    "https://www.aitimes.com/news/articleView.html?idxno=213083",
+    "https://www.aitimes.com/news/articleView.html?idxno=213074"
    ],
    "seen_titles": [
-    "코스피,장중6%급등후상승폭대부분반납···6,797마감",
-    "李대통령,24일美·남미순방…샘올트먼·젠슨황등'글로벌AI회동...",
-    "“반도체고급인재선점”삼성전자·SK하이닉스,박사급인력영입전...",
     "[투자노하우]AI칩넘어데이터센터통째로공급하는AI경쟁본격화",
     "'NCC249만톤'통폐합승인…울산·여수등추가감산가능성은",
     "SK에코플랜트,회사채수요예측'10대1'흥행…9870억주문",
@@ -4222,10 +4219,13 @@
     "배경훈부총리,이통3사CEO만나AI·통신현안논의",
     "배경훈부총리만난이통사CEO",
     "경기도의회국힘\"용인반도체클러스터정책·제도지원힘쓸것\"",
-    "李대통령+기업총수들,'샌프란서밋'서AI정상들만난다"
+    "李대통령+기업총수들,'샌프란서밋'서AI정상들만난다",
+    "충남혁신센터·SK에코플랜트,AI·딥테크오픈이노베이션참여기업모집",
+    "SKT,로봇학습데이터표준화나선다...ITU-T신규과제채택",
+    "리벨리온,국산NPU로SKT독자모델'A.XK1'구동성공"
    ],
    "initialized": true,
-   "last_run": "2026-07-23T12:30:35.345966+09:00"
+   "last_run": "2026-07-23T12:35:20.596805+09:00"
   }
  },
  "press_names": {
