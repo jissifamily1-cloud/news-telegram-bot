@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-23T15:55:21.210156+09:00",
-     "건설사 본격화 플랫폼 살핀다 주거 짓던 생활도 경쟁"
-    ],
-    [
-     "2026-07-23T15:55:21.210156+09:00",
-     "고려대 유승헌 플랫폼 교수팀 레드닷 본상 디자인 어워드 패브릭"
-    ],
-    [
-     "2026-07-23T15:55:21.210156+09:00",
-     "하락세 증시 훈풍발 점유율 키움증권 성장"
-    ],
-    [
      "2026-07-23T16:00:42.090798+09:00",
      "제주SK 귤리트 앞세운 광주 김신진 깬다 징크스"
     ],
@@ -882,10 +870,13 @@
     [
      "2026-07-23T21:45:25.942312+09:00",
      "삼성 상설특위 출범 전남광주시의회 4기 유치 지원"
+    ],
+    [
+     "2026-07-23T21:55:25.366364+09:00",
+     "뉴스투나잇 23일 7월"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/it-science/cc-newmedia/6236250",
     "https://daily.hankooki.com/news/articleView.html?idxno=1388442",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=205353",
     "https://www.newspim.com/news/view/20260723000246",
@@ -2384,10 +2375,10 @@
     "https://biz.heraldcorp.com/article/10817977",
     "https://www.ulsanpress.net/news/articleView.html?idxno=579716",
     "https://www.ulsanpress.net/news/articleView.html?idxno=579705",
-    "https://www.betanews.net/article/view/beta202607230071"
+    "https://www.betanews.net/article/view/beta202607230071",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260723215325wmp"
    ],
    "seen_titles": [
-    "[특징주]삼성전자·SK하이닉스,장초반4%안팎상승",
     "알파벳'AI투자'확대에코스피7000선'재탈환'",
     "환율1470원대등락…'AI투자기대'달러강세상쇄",
     "상주시,192만㎡규모'이차전지클러스터'본격추진…음극재밸류체...",
@@ -3886,10 +3877,11 @@
     "“드디어때가왔다”큰고비넘긴‘삼전닉스’…구글실적에반도체...",
     "[창간20주년기획-울산대전환길을찾다]11.비전",
     "생산성향상·노동존중두마리토끼잡는산업AX로",
-    "삼성·SK팹4기유치지원…전남광주시의회상설특위출범"
+    "삼성·SK팹4기유치지원…전남광주시의회상설특위출범",
+    "[이시각헤드라인]7월23일뉴스투나잇"
    ],
    "initialized": true,
-   "last_run": "2026-07-23T21:52:58.429806+09:00"
+   "last_run": "2026-07-23T21:55:25.366364+09:00"
   }
  },
  "press_names": {
