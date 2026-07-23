@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-23T12:20:25.900103+09:00",
-     "배터리 경쟁 총력 3사 ESS 3차 고조 1조원대 수주 입찰"
-    ],
-    [
-     "2026-07-23T12:20:25.900103+09:00",
-     "2027년부터 양극재 성장동력은 상승 주가 코스모신소재"
-    ],
-    [
      "2026-07-23T12:25:21.401407+09:00",
      "정상들 대통령 만난다 기업총수들 샌프란 서밋"
     ],
@@ -1138,17 +1130,17 @@
     [
      "2026-07-23T18:15:27.884650+09:00",
      "뭐길래 반도체가"
+    ],
+    [
+     "2026-07-23T18:20:27.101374+09:00",
+     "대산 석화개편 확정 마지막 여수 안갯속 퍼즐 울산"
+    ],
+    [
+     "2026-07-23T18:20:27.101374+09:00",
+     "에어컨리그 횡성 이유찬 지금처 강남 자신을 증명한"
     ]
    ],
    "seen_urls": [
-    "http://www.metroseoul.co.kr/article/20260723500054",
-    "https://www.hankyung.com/article/2026072309336",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426352",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=724875",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=168568",
-    "https://biz.chosun.com/stock/market_trend/2026/07/23/LALMSYDF2NEG5NQKU5WHB36Q2A/",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03237366645517472",
-    "https://www.news2day.co.kr/article/20260723500029",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1717421",
     "http://www.paxetv.com/news/articleView.html?idxno=277676",
     "http://www.popcornnews.net/news/articleView.html?idxno=127368",
@@ -2640,17 +2632,17 @@
     "https://www.newsis.com/view/NISX20260723_0003721091",
     "https://www.ajunews.com/view/20260723180326761",
     "http://www.bizwnews.com/news/articleView.html?idxno=141389",
-    "http://www.kjdaily.com/article.php?aid=1784797556682980244"
+    "http://www.kjdaily.com/article.php?aid=1784797556682980244",
+    "http://www.newstomato.com/ReadNews.aspx?no=1308098&inflow=N",
+    "https://www.hani.co.kr/arti/economy/it/1269670.html",
+    "https://www.nextdaily.co.kr/news/articleView.html?idxno=251561",
+    "https://www.segye.com/newsView/20260723522211?OutUrl=naver",
+    "https://news.tf.co.kr/read/economy/2346502.htm",
+    "https://www.businessplus.kr/news/articleView.html?idxno=114534",
+    "https://www.sentv.co.kr/article/view/sentv202607230073",
+    "http://www.rookie.co.kr/news/articleView.html?idxno=125126"
    ],
    "seen_titles": [
-    "[비즈인사이트]①\"삼성바이오에서콜마까지\"...바이오4사의생산성경...",
-    "\"보조금보다GPU\"…갤럭시신제품나와도통신사는지갑닫는다",
-    "'직주근접'넘어'다(多)세권'갖춘'용인반도체클러스터동일하이빌파...",
-    "SK에서롯데로…발행큰손바뀐회사채시장,반도체활황이바꾼지형...",
-    "7월22일주식시장주요공시",
-    "1주일앞,SK하이닉스ADR·본주전환…29%프리미엄업고본주매력부...",
-    "엔터주,BTS·빅뱅호재에도40%대추락···언제쯤반등할까",
-    "뉴욕증시,유가급등·실적경계에하락…나스닥0.6%↓",
     "코스피,2%상승출발…7000선회복코앞",
     "인텔SK하이닉스에'공장매각'대신메모리반도체생산협력제안하나...",
     "'의왕역SK뷰'1순위청약마감…384가구에2486명몰려",
@@ -4142,10 +4134,18 @@
     "SKT,AI데이터센터전담법인'SK하이퍼'설립…2030년까지7500억출자",
     "[이도윤의증시라운지]'반도체고점론'을대하는자세",
     "SK텔레콤,AI글래스'레이밴메타'6종출시…온라인몰등서판매개시",
-    "[구동에서]반도체가뭐길래"
+    "[구동에서]반도체가뭐길래",
+    "SKT,AIDC전담법인SK하이퍼출범…7500억원투입해15GW속도",
+    "SKT,AIDC사업담당전문회사‘SK하이퍼’신설",
+    "SKT,AI데이터센터전문법인'SK하이퍼'설립…2030년까지7,500억출자",
+    "SK텔레콤,AI데이터센터자회사‘SK하이퍼’설립…2030년까지7500억...",
+    "SKT,AIDC전문법인'SK하이퍼'설립…7500억원투자결정",
+    "[비즈+]SK텔레콤,7500억출자해AIDC전담법인'SK하이퍼'신설…15GW인...",
+    "여수·대산석화개편확정…마지막퍼즐울산‘안갯속’",
+    "[유노유농]횡성에어컨리그통해자신을증명한강남SK이유찬\"지금처..."
    ],
    "initialized": true,
-   "last_run": "2026-07-23T18:15:27.884650+09:00"
+   "last_run": "2026-07-23T18:20:27.101374+09:00"
   }
  },
  "press_names": {
