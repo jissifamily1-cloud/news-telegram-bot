@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-23T16:50:28.351103+09:00",
-     "핵심광물 확보 남미 공급망 총출동 다변화 재계 순방에 총수"
-    ],
-    [
      "2026-07-23T16:55:19.356586+09:00",
      "한도 소진 설정 미국 SK하이닉스 ADR"
     ],
@@ -650,10 +646,13 @@
     [
      "2026-07-23T22:40:27.200947+09:00",
      "지급 SK텔레콤 830원 결정 9월 현금배당 주당 17일 2분기"
+    ],
+    [
+     "2026-07-23T22:50:29.331500+09:00",
+     "SK브로드밴드 경영 최우선 한국산업안전보건공단 안전 결실 표창"
     ]
    ],
    "seen_urls": [
-    "http://www.snmnews.com/news/articleView.html?idxno=572422",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=724572",
     "https://www.newsis.com/view/NISX20260723_0003719932",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=851942",
@@ -2152,10 +2151,10 @@
     "https://www.newspim.com/news/view/20260723001327",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=84423",
     "https://www.topstarnews.net/news/articleView.html?idxno=16144238",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607230605&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607230605&t=NN",
+    "http://www.segyebiz.com/newsView/20260723525939?OutUrl=naver"
    ],
    "seen_titles": [
-    "SKB,한국산업안전공단이사장표창수상…안전경영인정",
     "SK브로드밴드,한국산업안전보건공단이사장표창수상",
     "SK에코플랜트,의왕역SKVIEW전가구1순위청약마감",
     "리벨리온,SKT초거대AI'A.XK1'서버구동성공…국산NPU기술력입증",
@@ -3654,10 +3653,11 @@
     "[AIMY뉴스]뉴욕반도체주프리뷰...AI투자확대에마이크론·SK하이닉...",
     "SK텔레콤,2분기주당830원현금배당결정-9월17일지급예정",
     "미국증시유가90달러·금리급등에약세…나스닥1.6%하락",
-    "\"AI투자더늘린다\"오랜만에웃은'삼전닉스'…반도체주반등신호탄..."
+    "\"AI투자더늘린다\"오랜만에웃은'삼전닉스'…반도체주반등신호탄...",
+    "SK브로드밴드,안전최우선경영결실…한국산업안전보건공단표창"
    ],
    "initialized": true,
-   "last_run": "2026-07-23T22:45:30.053664+09:00"
+   "last_run": "2026-07-23T22:50:29.331500+09:00"
   }
  },
  "press_names": {
