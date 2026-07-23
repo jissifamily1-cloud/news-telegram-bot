@@ -1,20 +1,8 @@
 {
- "offset": 28217811,
+ "offset": 28217813,
  "chats": {
   "-1004347147762": {
    "recent_sigs": [
-    [
-     "2026-07-23T13:45:24.302171+09:00",
-     "견인 바이오 상승세 코스닥 반도체보다"
-    ],
-    [
-     "2026-07-23T13:45:24.302171+09:00",
-     "빅웨이브로보틱스 할인율 몸값 유진투자증권 낮춰"
-    ],
-    [
-     "2026-07-23T13:45:24.302171+09:00",
-     "10만 매출액 SK텔레콤 전망 주가 증가 눈앞 올해"
-    ],
     [
      "2026-07-23T13:50:26.981129+09:00",
      "다시 고질적 유동비율은 깼다는 LG디스플레이 적자 만에"
@@ -1198,14 +1186,17 @@
     [
      "2026-07-23T19:40:26.831494+09:00",
      "5년 걸렸지만 추가 달러는 반도체 1조 50년"
+    ],
+    [
+     "2026-07-23T19:45:26.802097+09:00",
+     "챙겨라 지역기업부터"
+    ],
+    [
+     "2026-07-23T19:45:26.802097+09:00",
+     "소식에 급등 국제유가 SK이터닉스 서울식품우 상한가"
     ]
    ],
    "seen_urls": [
-    "https://hbnpress.com/news/view/1065572990681124",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470783",
-    "https://www.asiaa.co.kr/news/articleView.html?idxno=256107",
-    "http://www.beyondpost.co.kr/view.php?ud=202607230931181484be44c0aacd_30",
-    "https://www.joongangenews.com/news/articleView.html?idxno=534697",
     "http://www.weeklytoday.com/news/articleView.html?idxno=786667",
     "https://www.dailian.co.kr/news/view/1669914/?sc=Naver",
     "https://www.joongangenews.com/news/articleView.html?idxno=534699",
@@ -2700,14 +2691,14 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8618527",
     "http://www.stoo.com/article.php?aid=107890863464",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607230527&t=NN",
-    "https://www.thescoop.co.kr/news/articleView.html?idxno=310989"
+    "https://www.thescoop.co.kr/news/articleView.html?idxno=310989",
+    "https://www.starnewskorea.com/star/2026/07/23/2026072319130440966",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2242798",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2242800",
+    "http://www.cctimes.kr/news/articleView.html?idxno=918175",
+    "https://www.ggilbo.com/news/articleView.html?idxno=1171113"
    ],
    "seen_titles": [
-    "[특징주]SK이터닉스왜이렇게오르나…주가급등이끈'두가지이유'",
-    "리벨리온NPU서버로SKT독파모‘A.XK1’구동",
-    "코스피,알파벳자본지출상향에안도하며7,000선재탈환(종합)",
-    "리벨리온,국산NPU로SKT500B초거대AI'A.XK1'구동성공",
-    "[특징주]SK이터닉스,중동발유가급등에장초반강세",
     "코스피,기술주투자심리회복에7000선안착",
     "SK하이닉스배후수요확대기대…‘반세권비규제’이천휴먼빌클래...",
     "코스피,뉴욕증시부진에도7000선재탈환…코스닥도올라",
@@ -4202,10 +4193,15 @@
     "“수소말고플랜트사가라”…동상이몽에‘빈손협상’",
     "축구협회,제주-강원전아부달라오프사이드득점취소에정심판정",
     "SKT,AI데이터센터자회사'SK하이퍼'만든다",
-    "반도체첫1조달러는50년걸렸지만,추가1조달러는5년?"
+    "반도체첫1조달러는50년걸렸지만,추가1조달러는5년?",
+    "최화정,주식대박났다..삼성전자+하이닉스주식최고가처분[찐천재]",
+    "SK텔레콤,로봇데이터활용체계국제표준화추진",
+    "SK브로드밴드,산업재해예방공로안전보건공단표창",
+    "[충청논단]지역기업부터챙겨라",
+    "[주식마감]국제유가급등소식에SK이터닉스상한가...서울식품우,지..."
    ],
    "initialized": true,
-   "last_run": "2026-07-23T19:40:26.831494+09:00"
+   "last_run": "2026-07-23T19:45:26.802097+09:00"
   }
  },
  "press_names": {
