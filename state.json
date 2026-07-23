@@ -1149,9 +1149,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12105102",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470755",
-    "https://www.epnc.co.kr/news/articleView.html?idxno=404589",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=03227526645517472",
     "https://www.newspim.com/news/view/20260723000154",
     "https://www.hankyung.com/article/2026072309296",
@@ -2648,12 +2645,12 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05628486645517472",
     "https://www.sedaily.com/article/20071190",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256469",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4079148"
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4079148",
+    "https://www.chosun.com/economy/tech_it/2026/07/23/TEMBKV3VUNERNCFDZDHZXNZDZ4/",
+    "https://www.namdonews.com/news/articleView.html?idxno=917902",
+    "https://news.tf.co.kr/read/national/2346508.htm"
    ],
    "seen_titles": [
-    "미국증시나스닥하락에도...코스피·코스닥'상승출발'",
-    "중동리스크·유가급등속반도체업황기대감에…코스피,상승출발",
-    "코스피,알파벳실적혼재속외국인매수에2%대강세출발",
     "\"키움증권,2분기순익5093억원전망…목표가는50만원으로하향\"<SK證>",
     "코스피,2%대강세출발…반도체·2차전지시총상위주일제히상승",
     "SKT,피지컬AI국제표준선점나선다",
@@ -4150,10 +4147,13 @@
     "SK텔레콤,AI데이터센터전문회사‘SK하이퍼’설립…2030년까지7500억...",
     "SK텔레콤,로봇데이터표준화이끈다",
     "[칩계산논쟁]➃지능의경제학···메모리왕국→인프라강국체질개...",
-    "[만나GO]양효진메리츠증권과장\"투자는시장보다내마음을이기는..."
+    "[만나GO]양효진메리츠증권과장\"투자는시장보다내마음을이기는...",
+    "가계통신비부담낮추는대책이달중나온다",
+    "[이슈포커스]800조반도체클러스터호재…광주복합쇼핑몰사업기대감...",
+    "경기도신임경제부지사에주형철AI·벤처전문가내정"
    ],
    "initialized": true,
-   "last_run": "2026-07-23T18:25:23.157621+09:00"
+   "last_run": "2026-07-23T18:29:36.794853+09:00"
   }
  },
  "press_names": {
