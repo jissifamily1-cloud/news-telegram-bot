@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-23T18:40:26.084769+09:00",
-     "득점 축구협회 송출 취소건 강원전 브리핑 방송 제주 앵글로"
-    ],
-    [
-     "2026-07-23T18:40:26.084769+09:00",
-     "천적 광주FC 되살려 본능 무승 깬다 제주"
-    ],
-    [
      "2026-07-23T18:45:27.602756+09:00",
      "실적 날아갈 알파벳 알았는데 주가 찔끔 나오면"
     ],
@@ -378,12 +370,17 @@
     [
      "2026-07-24T00:35:23.469039+09:00",
      "전담 SK텔레콤 데이터센터 법인 신설"
+    ],
+    [
+     "2026-07-24T00:40:28.941042+09:00",
+     "레버리지 쏠림에 코스닥 삼전닉스 반토막 거래대금"
+    ],
+    [
+     "2026-07-24T00:40:28.941042+09:00",
+     "업체 즐거운 장비 반도체 비명 수퍼 속도전"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260723061600017?input=1195m",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16143674",
-    "http://www.newstomato.com/ReadNews.aspx?no=1307958&inflow=N",
     "https://www.news2day.co.kr/article/20260723500078",
     "https://edu.donga.com/news/articleView.html?idxno=110205",
     "https://www.ppss.kr/news/articleView.html?idxno=302933",
@@ -1880,12 +1877,12 @@
     "http://www.kwangju.co.kr/article.php?aid=1784820000801536080",
     "https://www.chosun.com/economy/tech_it/2026/07/24/I7JSTVMEJFE27HSXM2HVWQRERE/",
     "https://www.donga.com/news/Economy/article/all/20260723/134354191/2",
-    "https://www.donga.com/news/Economy/article/all/20260723/134354195/2"
+    "https://www.donga.com/news/Economy/article/all/20260723/134354195/2",
+    "https://sports.donga.com/ent/article/all/20260724/134355760/1",
+    "https://www.chosun.com/economy/stock-finance/2026/07/24/NDP3Q6XMHNBHTDOYYFJNWMXF7E/",
+    "https://www.chosun.com/economy/tech_it/2026/07/24/MQPXTVIZTZBMTHCT3FGKY3VVKA/"
    ],
    "seen_titles": [
-    "한국중부발전,신안우이해상풍력착공…2029년상업운전목표",
-    "“1000만원굴려108억된다”레버리지경고한ETF의대부의픽",
-    "코드프레소,KETI전북지역본부'AI활용가상융합기술지원및컨설팅...",
     "TurnedtoaMillstonebytheChasm\":SK'sEVTrio—WhenWillNormaliza..",
     "삼성바이오로직스,2Q영업익5864억…전년比23％↑",
     "SKT,로봇데이터활용표준국제표준과제채택",
@@ -3382,10 +3379,13 @@
     "바다에서배우는국가철학",
     "구글,AI투자확대…반도체주반등신호탄되나",
     "‘脫엔비디아’속도낸다…AMD-앤스로픽7.4조빅딜",
-    "SK텔레콤“AI데이터센터전담법인신설”"
+    "SK텔레콤“AI데이터센터전담법인신설”",
+    "최화정“‘삼전닉스’최고점에팔았다”…홍진경·엄정화‘감탄’",
+    "삼전닉스레버리지쏠림에코스닥거래대금반토막",
+    "반도체속도전…‘수퍼乙’장비업체즐거운비명"
    ],
    "initialized": true,
-   "last_run": "2026-07-24T00:35:23.469039+09:00"
+   "last_run": "2026-07-24T00:40:28.941042+09:00"
   }
  },
  "press_names": {
