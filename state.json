@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-23T12:50:27.037820+09:00",
-     "고려아연 AA 금리 대였나 PRS"
-    ],
-    [
      "2026-07-23T12:55:20.562265+09:00",
      "탈환 코스피 씨티의 전망 포인트 KOSPI 1만 적중하나"
     ],
@@ -1190,12 +1186,13 @@
     [
      "2026-07-23T18:45:27.602756+09:00",
      "영업이익 연동형 외신 리스크 요구에 투자자 노조 성과급"
+    ],
+    [
+     "2026-07-23T18:50:27.131671+09:00",
+     "매수 후반으로 세력 460원대 실종 급락 꺾인 롱심리"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/local/daejeon-chungnam/6236264",
-    "https://www.viva100.com/article/20260723500165",
-    "https://news.mtn.co.kr/news-detail/2026072309153946317",
     "https://www.handmk.com/news/articleView.html?idxno=41560",
     "https://www.gukjenews.com/news/articleView.html?idxno=3643697",
     "https://view.asiae.co.kr/article/2026072309283784931",
@@ -2692,12 +2689,12 @@
     "https://www.delighti.co.kr/news/articleView.html?idxno=119355",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=273499",
     "https://biz.sbs.co.kr/article_hub/20000324191?division=NAVER",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=737871"
+    "https://www.polinews.co.kr/news/articleView.html?idxno=737871",
+    "https://www.sportschosun.com/basketball/2026-07-23/202607230100144280009145",
+    "https://www.aitimes.kr/news/articleView.html?idxno=41119",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426538"
    ],
    "seen_titles": [
-    "뉴욕증시,유가급등·빅테크실적경계에하락…나스닥0.57%↓",
-    "\"퇴사안하면5000만원\"⋯직원붙잡으려파격보상내건'이회사'",
-    "코스피,외국인순매수에7000선회복…삼성전자·하이닉스4%대강세",
     "알파벳도,아마존도“AI투자늘려”…삼전·닉스더귀한몸된다",
     "'SK네트웍스투자'피닉스랩,120억규모투자라운드진행",
     "코스피,외인순매수에7000선회복…삼전·SK하닉4%대강세",
@@ -4194,10 +4191,13 @@
     "'알파벳훈풍'으로코스피4.4%급등마감...7,000회복",
     "[마감시황]코스피,외국인2.1조'폭풍사자'에5거래일만에7,000선...",
     "[이슈체크]알파벳실적나오면주가날아갈줄알았는데‘찔끔’…“...",
-    "[이슈]외신,韓노조영업이익연동형성과급요구에\"투자자리스크\"..."
+    "[이슈]외신,韓노조영업이익연동형성과급요구에\"투자자리스크\"...",
+    "\"수석코치는없다!\"삼성이정석조성민코치체제.삼성김상식감독\"...",
+    "SKT,AIDC사업개발전문회사'SK하이퍼(Hyper)'신설...정석근초대SK하...",
+    "[외환-마감]꺾인롱심리속1,460원대후반으로급락…\"매수세력실종..."
    ],
    "initialized": true,
-   "last_run": "2026-07-23T18:45:27.602756+09:00"
+   "last_run": "2026-07-23T18:50:27.131671+09:00"
   }
  },
  "press_names": {
