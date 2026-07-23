@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-24T00:25:25.600335+09:00",
-     "미수로 잃고 SK하닉 3200만원 몰빵 빌려달라 삼천당제약에 더니"
-    ],
-    [
-     "2026-07-24T00:30:33.353693+09:00",
-     "배우는 국가철학 바다에서"
-    ],
-    [
      "2026-07-24T00:35:23.469039+09:00",
      "앤스로픽 엔비디아 4조 빅딜 속도낸다 AMD"
     ],
@@ -242,13 +234,17 @@
     [
      "2026-07-24T06:25:22.016751+09:00",
      "점검 전력 용인 공급 산단 반도체 용수 장관 기후부 적기 김성환"
+    ],
+    [
+     "2026-07-24T06:30:34.354742+09:00",
+     "시행사 BS산업 신영 7월 뒤쫓아 1위 DK아시아"
+    ],
+    [
+     "2026-07-24T06:30:34.354742+09:00",
+     "기술주 하락 증시 미국 일제히 마감 급락에 나스닥"
     ]
    ],
    "seen_urls": [
-    "https://www.lawtv.kr/news/articleView.html?idxno=60488",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=442934",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=312901",
-    "https://vn.asiatoday.co.kr/view.php?key=20260723000947305",
     "https://www.namdonews.com/news/articleView.html?idxno=917802",
     "https://www.viva100.com/article/20260723500464",
     "https://www.ddaily.co.kr/page/view/2026072310484374803",
@@ -1744,13 +1740,13 @@
     "http://www.osen.co.kr/article/G1112845422",
     "https://www.sidae.com/article/2026072406103329029",
     "https://www.mediapen.com/news/view/1111912",
-    "http://www.ferrotimes.com/news/articleView.html?idxno=49298"
+    "http://www.ferrotimes.com/news/articleView.html?idxno=49298",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=52701",
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/24/2026072490006.html",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=52710",
+    "https://www.seoul.co.kr/news/economy/securities/2026/07/24/20260724500013?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "인하대·한진정보통신,AI인재채용연계...2028학년도계약정원10명선...",
-    "배당주대신커버드콜ETF…변동성장세에지친투자자몰려갔다",
-    "반도체초과이익배분놓고노동자·경영계·주주'동상이몽'...합의가...",
-    "[단독]라포랩스,'산지직송식품플랫폼'팔도감매각나선다",
     "김윤덕장관,새만금·호남권투자기업과연속면담...지방주도성장...",
     "SKT,제조AI넘어'피지컬AI'로…'로봇데이터'국제표준화나선다",
     "최태원회장의13년'착한보상'결실…국제학술지도'SPC선순환'인정...",
@@ -3246,10 +3242,14 @@
     "'110억성수동자가'최화정,명품도무료나눔할만…'삼전닉스'최고...",
     "[뉴욕증시]나스닥2%하락,3대지수뚝…AI거품론·중동불안감확대",
     "[美증시]유가폭등,알파벳·테슬라쇼크에3대지수급락…메모리는강...",
-    "김성환기후부장관,용인반도체산단점검…\"전력·용수적기공급총..."
+    "김성환기후부장관,용인반도체산단점검…\"전력·용수적기공급총...",
+    "[이넷뉴스브랜드평판]삼성중공업,액화천연가스LNG상장기업7월1위...",
+    "'세기의이혼'재산분할결론?…최태원·노소영파기환송심선고",
+    "[브랜드평판]DK아시아,시행사7월1위...BS산업,신영뒤쫓아",
+    "[서울데이터랩]미국증시,기술주급락에일제히하락마감…나스닥2%..."
    ],
    "initialized": true,
-   "last_run": "2026-07-24T06:25:22.016751+09:00"
+   "last_run": "2026-07-24T06:30:34.354742+09:00"
   }
  },
  "press_names": {
