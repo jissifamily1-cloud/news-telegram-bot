@@ -293,7 +293,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=807478",
     "https://theviewers.co.kr/View.aspx?No=4158986",
     "https://www.newsis.com/view/NISX20260723_0003719860",
     "https://www.gokorea.kr/news/articleView.html?idxno=872874",
@@ -1792,10 +1791,10 @@
     "https://www.mk.co.kr/article/12106283",
     "https://www.topstarnews.net/news/articleView.html?idxno=16144308",
     "https://www.etoday.co.kr/news/view/2606903",
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=61919"
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=61919",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=267673"
    ],
    "seen_titles": [
-    "800조반도체클러스터지원…통합특별시의회상설특위출범",
     "알파벳실적에반도체안도랠리…남은빅테크실적도촉각",
     "코스피외국인매수세에장중3%대강세7020선,코스닥도770선까지올라",
     "[이슈]'삼전·닉스'레버리지ETF손실커지는데…운용사는연간수수료...",
@@ -3294,10 +3293,11 @@
     "“1.4조냐수천억이냐”…최태원·노소영‘세기의재산분할’오늘판...",
     "미국증시고유가·금리상승에하락…테슬라14.5%급락",
     "하주석트레이드…이태양·김범수이어한화프차KIA행",
-    "SK텔레콤,2분기주당830원배당…총1천768억원푼다"
+    "SK텔레콤,2분기주당830원배당…총1천768억원푼다",
+    "SKT,AIDC개발전문법인'SK하이퍼'신설…\"2035년15GW데이터센터로\""
    ],
    "initialized": true,
-   "last_run": "2026-07-24T06:55:22.162431+09:00"
+   "last_run": "2026-07-24T07:00:40.200679+09:00"
   }
  },
  "press_names": {
