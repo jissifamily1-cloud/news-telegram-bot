@@ -1102,17 +1102,29 @@
     [
      "2026-07-23T13:05:21.900326+09:00",
      "성적 API 부합하는 호실적 알파벳 아쉬운 시장 기대치"
+    ],
+    [
+     "2026-07-23T13:10:26.699411+09:00",
+     "HBM 수율 장비 쥐락펴락 차세대 오로스테크놀로지 오버레이 박막"
+    ],
+    [
+     "2026-07-23T13:10:26.699411+09:00",
+     "선고 최태원 노소영 세기의 재산분할"
+    ],
+    [
+     "2026-07-23T13:10:26.699411+09:00",
+     "신흥 제2공장 원주 방문 SK하이닉스 구축 앞두고"
+    ],
+    [
+     "2026-07-23T13:10:26.699411+09:00",
+     "올해 3월 5조3000억원으로"
+    ],
+    [
+     "2026-07-23T13:10:26.699411+09:00",
+     "협력 강화 빅테크와 방미 배경훈 앞둔"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04979046645517144",
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5207499",
-    "https://www.m-i.kr/news/articleView.html?idxno=1394241",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607220460&t=NN",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=273427",
-    "https://www.mk.co.kr/article/12104596",
-    "https://www.news1.kr/local/gyeonggi/6235762",
-    "https://imnews.imbc.com/news/2026/politics/article/6839309_36911.html",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607220369&t=NN",
     "https://www.mk.co.kr/article/12104600",
     "https://www.ajunews.com/view/20260721102756000",
@@ -2604,17 +2616,17 @@
     "https://www.getnews.co.kr/news/articleView.html?idxno=875848",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=273469",
     "https://biz.heraldcorp.com/article/10817796",
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=605891"
+    "https://www.mdtoday.co.kr/news/articleView.html?idxno=605891",
+    "http://www.inews24.com/view/1988102",
+    "https://www.newsway.co.kr/news/view?ud=2026072311302987418",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16143787",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470857",
+    "https://www.naeil.com/news/read/596310",
+    "https://www.dentalnews.or.kr/news/article.html?no=47821",
+    "https://www.naeil.com/news/read/596309",
+    "http://www.fnnews.com/news/202607231251274518"
    ],
    "seen_titles": [
-    "李대통령,24일부터미국·남미·독일순방…젠슨황등'글로벌AI리더...",
-    "용인반도체산단전기공급2053년→2042년…“적기공급에모든역량집중...",
-    "코스피,장중7100선회복후상승폭반납···6700선마감",
-    "레버리지제동건ETF시장…몸집키우는월분배커버드콜",
-    "李대통령,美샌프란서'AI동맹'넓힌다…샘올트먼·젠슨황등연쇄...",
-    "유가상승에도반도체주반등에강세보였던시장,소폭약세",
-    "AI안경시장출격하는통신3사,'레이밴메타'동시출시",
-    "“레버리지ETF만문제가아니었다?”…다시커진‘CFD폭탄’[머니+]",
     "[오늘의ABC뉴스룸]\"분당·강남집값60%껑충\"다시불붙은재건축,지...",
     "[KBL찾아가는농구교실]프로612경기뛴양우섭의첫수업…“멋보다...",
     "호반건설,도시정비'틈새'뚫었다…가로주택·중소재건축'실속수주...",
@@ -4106,10 +4118,18 @@
     "전남광주특별시의회,반도체클러스터상설특위출범…800조프로젝트총...",
     "SPCStudyShowsSocialValueBoostsBusiness",
     "지식재산처-SK,기술과특허를연결하는‘민관협력모델’첫선",
-    "알파벳,시장기대치부합하는호실적...아쉬운API성적"
+    "알파벳,시장기대치부합하는호실적...아쉬운API성적",
+    "박윤영KT대표\"피지컬AI시범사업,가장먼저참여할것\"",
+    "이동통신사대표들만난배경훈부총리[한컷]",
+    "\"3연승도전\"FC서울,울산전앞두고클리말라발끝주목",
+    "HBM수율쥐락펴락…오로스테크놀로지,차세대오버레이·박막장비주...",
+    "최태원-노소영‘세기의재산분할’선고D-1",
+    "신흥,원주제2공장구축앞두고SK하이닉스방문",
+    "[현대건설부동산PF보증증가‘적신호’]올해3월말5조3000억원으로...",
+    "방미앞둔배경훈″美빅테크와협력강화\""
    ],
    "initialized": true,
-   "last_run": "2026-07-23T13:05:21.900326+09:00"
+   "last_run": "2026-07-23T13:10:26.699411+09:00"
   }
  },
  "press_names": {
@@ -4663,6 +4683,7 @@
   "srn.hcn.co.kr": "srn.hcn.co.kr",
   "peoplewatch.co.kr": "피플워치",
   "catholicnews.co.kr": "가톨릭뉴스 지금여기",
-  "redaily.co.kr": "철도경제신문"
+  "redaily.co.kr": "철도경제신문",
+  "dentalnews.or.kr": "치과신문"
  }
 }
