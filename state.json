@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-23T08:50:24.099517+09:00",
-     "의왕 2486명 남부 대체 청약에 주거지 경기 몰렸다 부각"
-    ],
-    [
-     "2026-07-23T08:50:24.099517+09:00",
-     "재정문제 지사 찾을 시군과 심각하지만 소통해 해법 추미애"
-    ],
-    [
-     "2026-07-23T08:50:24.099517+09:00",
-     "쉬고 로봇 증시 달렸다 반도체 조선"
-    ],
-    [
-     "2026-07-23T08:50:24.099517+09:00",
-     "예상 밸류 비용에도 LG디스플레이 SK증권 재평가 상반기 흑자 일회성"
-    ],
-    [
      "2026-07-23T08:55:19.931083+09:00",
      "배터리가 어닝서프라이즈 내년에는 코스모신소재 올해는"
     ],
@@ -1066,16 +1050,17 @@
     [
      "2026-07-23T14:45:25.315992+09:00",
      "민관 가동 규제개선 협의체 통신3사 투자확대 과기정통부"
+    ],
+    [
+     "2026-07-23T14:50:26.607020+09:00",
+     "오하이오 운영 인텔 파트너 아닌 인수 SK하이닉스"
+    ],
+    [
+     "2026-07-23T14:50:26.607020+09:00",
+     "울산 거듭 석화 동참하나 구조개편 에쓰오일 무임승차 경고에"
     ]
    ],
    "seen_urls": [
-    "http://www.newstomato.com/ReadNews.aspx?no=1307936&inflow=N",
-    "https://www.imaeil.com/page/view/2026072117422464980",
-    "https://jp.yna.co.kr/view/AJP20260722002600882?input=1728m",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=273437",
-    "https://www.interfootball.co.kr/news/articleView.html?idxno=691046",
-    "https://view.asiae.co.kr/article/2026072215062906416",
-    "https://biz.sbs.co.kr/article_hub/20000324009?division=NAVER",
     "https://www.hankyung.com/article/2026072294586",
     "https://www.news1.kr/industry/general-industry/6235856",
     "https://www.hankookilbo.com/news/article/A2026072216010000534?did=NA",
@@ -2568,16 +2553,16 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8618276",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607231420454380295",
     "http://www.newsprime.co.kr/news/article.html?no=741299",
-    "https://www.etnews.com/20260723000334"
+    "https://www.etnews.com/20260723000334",
+    "https://www.news1.kr/sports/basketball/6236798",
+    "https://m.sports.naver.com/basketball/article/065/0000299906",
+    "https://www.hankyung.com/article/202607231916g",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=442959",
+    "https://www.g-enews.com/view.php?ud=2026072312530057433d7a510102_1",
+    "https://www.mk.co.kr/article/12105414",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451751"
    ],
    "seen_titles": [
-    "\"지방소멸위기,혁신적아이디어로넘는다\"…'솔버톤'참가자모집",
-    "폭풍순매수국민연금…리밸런싱속도조절?",
-    "李대통령,샘올트먼·젠슨황연쇄면담…靑'대형AI계약성과'예고",
-    "AI글래스‘레이밴메타’출격…통신3사선점경쟁",
-    "에쓰오일도바이오선박유가세···정유4사공급경쟁",
-    "SK하닉,'7억성과급'1년만에재논의...대표는고발당해",
-    "반도체반등조짐에‘7000피’다시보인다…‘2.6조사자’외국인복...",
     "이재명대통령,샌프란시스코서젠슨황·올트먼·아모데이연쇄회동",
     "SK스퀘어,430억원규모자사주소각…주주환원확대",
     "용인반도체클러스터전기공급11년앞당기기로",
@@ -4070,10 +4055,17 @@
     "배경훈“통신사도AI기업”…6G·AI데이터센터투자확대",
     "[텔코NOW]KTㆍSK브로드밴드ㆍSK텔레콤",
     "[인터뷰]에이직랜드,글로벌eSSD시장30%'선점'…차세대칩렛으로북...",
-    "과기정통부·통신3사“투자확대·규제개선민관협의체가동”"
+    "과기정통부·통신3사“투자확대·규제개선민관협의체가동”",
+    "'김상식체제'프로농구삼성,이정석·조성민코치선임",
+    "국내U12강호총출동…한·일유소년농구맞대결,서울서펼쳐진다",
+    "'AI기업'이통3사CEO만난과기장관…\"오픈AI·엔비디아에'韓투자'요...",
+    "부총리배경훈\"통신사는AI인프라기업\",통신3사6G·AI무선망투자...",
+    "정부-이동통신3사,AI네트워크투자협력나서…내달협의체출범",
+    "“SK하이닉스,인텔오하이오팹인수아닌운영파트너”",
+    "울산석화구조개편'무임승차'거듭경고에···'에쓰오일'도동참하나"
    ],
    "initialized": true,
-   "last_run": "2026-07-23T14:45:25.315992+09:00"
+   "last_run": "2026-07-23T14:50:26.607020+09:00"
   }
  },
  "press_names": {
