@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-23T07:50:26.582033+09:00",
-     "인식 매수 LG디스플레이 시장 지속되면 실적 바뀔 개선"
-    ],
-    [
-     "2026-07-23T07:50:26.582033+09:00",
-     "통신사도 마이데이터 떠난 금융사만 남아"
-    ],
-    [
      "2026-07-23T07:55:22.627975+09:00",
      "일제히 삼성 로봇주 급등 신설에 전담조직 로봇"
     ],
@@ -1074,16 +1066,17 @@
     [
      "2026-07-23T13:45:24.302171+09:00",
      "10만 매출액 SK텔레콤 전망 주가 증가 눈앞 올해"
+    ],
+    [
+     "2026-07-23T13:50:26.981129+09:00",
+     "다시 고질적 유동비율은 깼다는 LG디스플레이 적자 만에"
+    ],
+    [
+     "2026-07-23T13:50:26.981129+09:00",
+     "22억 장비공급 국내 기반 강화 SK하이닉스와 6천만 매출 유니테스트"
     ]
    ],
    "seen_urls": [
-    "https://ilyo.co.kr/?ac=article_view&entry_id=511967",
-    "https://jp.yna.co.kr/view/AJP20260722003400882?input=1728m",
-    "http://www.fnnews.com/news/202607221726043187",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260722172735knf",
-    "https://www.mt.co.kr/politics/2026/07/22/2026072217035559118",
-    "https://www.asiatime.co.kr/article/20260722500455",
-    "https://www.econovill.com/news/articleView.html?idxno=745847",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=273430",
     "https://www.gukjenews.com/news/articleView.html?idxno=3643180",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=83571",
@@ -2576,16 +2569,16 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=852016",
     "https://www.sedaily.com/article/20070979",
     "https://www.fntimes.com/html/view.php?ud=20260723132343393a837df6494_18",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3644016"
+    "https://www.gukjenews.com/news/articleView.html?idxno=3644016",
+    "https://www.sidae.com/article/2026072313241750951",
+    "https://www.etnews.com/20260723000284",
+    "https://www.ddaily.co.kr/page/view/2026072313395201195",
+    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070155",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2242620",
+    "https://www.topdaily.kr/articles/111102",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16143808"
    ],
    "seen_titles": [
-    "\"3년간퇴사만안해도3400만원\"…ASML,인력유출막는다",
-    "환율1400원대로내려왔지만···정부,수출기업에“외화더들여와달...",
-    "강남프라임오피스임대료,광화문첫추월",
-    "[속보]李대통령,미국·남미순방…샘올트만·젠슨황만난다",
-    "이대통령,24일부터7박11일미국·남미순방…샌프란서젠슨황·샘알...",
-    "건설업계도반도체공사만독주…홈플PF우발채무긴장모드",
-    "월가마저흔드는레버리지ETF...혼란예상됐는데안전장치없었다",
     "이상일용인시장,추미애도지사에게\"교통망확충과전력·용수공급지...",
     "SK하이닉스,'7억'성과급재논의…대표는고발당해",
     "용인반도체산단전력,결국화력발전으로조달",
@@ -4078,10 +4071,17 @@
     "[현장]배경훈,통신사직접찾아요금완화주문",
     "코스닥3%상승세,반도체보다바이오株가견인[마켓시그널]",
     "[COMPASS]유진투자증권,빅웨이브로보틱스‘할인율’낮춰‘몸값’지...",
-    "SK텔레콤주가10만원눈앞...올해매출액증가전망"
+    "SK텔레콤주가10만원눈앞...올해매출액증가전망",
+    "[티타임]알파벳발훈풍에코스피4%상승…7070선오르내려",
+    "SKB,산업안전보건공단이사장표창",
+    "정부·통신3사,AI네트워크투자민관협의체띄운다(종합)",
+    "AI투자기대확대환율1460원대진입",
+    "\"사회성과인센티브SPC선순환효과,저명국제학술지서확인\"",
+    "'고질적적자'깼다는LG디스플레이…유동비율은석달만에다시'60%대...",
+    "유니테스트,SK하이닉스와22억6천만원장비공급→국내매출기반강화"
    ],
    "initialized": true,
-   "last_run": "2026-07-23T13:45:24.302171+09:00"
+   "last_run": "2026-07-23T13:50:26.981129+09:00"
   }
  },
  "press_names": {
