@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-23T04:00:37.732838+09:00",
-     "용인시 오산시 여주시"
-    ],
-    [
      "2026-07-23T04:10:39.627560+09:00",
      "체질 계기 여수 돼야 개선 석화재편"
     ],
@@ -942,18 +938,17 @@
     [
      "2026-07-23T09:55:21.075210+09:00",
      "일제 유가 하락 이란 3대지수 급등 충돌에"
+    ],
+    [
+     "2026-07-23T10:00:41.949100+09:00",
+     "이차전지 본격 클러스터 규모 밸류체 음극재 192만 상주시"
+    ],
+    [
+     "2026-07-23T10:00:41.949100+09:00",
+     "삼성전기 강세 2951억 MLCC 공급 계약 질주"
     ]
    ],
    "seen_urls": [
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8617155",
-    "https://www.businessplus.kr/news/articleView.html?idxno=114448",
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=83556",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=851706",
-    "https://www.tvreport.co.kr/entertainment/article/1062949/",
-    "https://www.mk.co.kr/article/12104389",
-    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2240532",
-    "https://www.ccdailynews.com/news/articleView.html?idxno=2429556",
-    "https://www.ekn.kr/web/view.php?key=20260722024204877",
     "https://www.news1.kr/society/incident-accident/6235515",
     "http://www.seouleconews.com/news/articleView.html?idxno=92558",
     "http://www.joseilbo.com/news/news_read.php?uid=572392&class=10",
@@ -2444,18 +2439,18 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4426375",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1717435",
     "https://www.econotimes.com/South-Korea-Q2-GDP-Beats-Forecasts-as-AI-Chip-Exports-Drive-Growth-1747487",
-    "https://news.dealsitetv.com/articles/173636"
+    "https://news.dealsitetv.com/articles/173636",
+    "http://www.whitepaper.co.kr/news/articleView.html?idxno=264859",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16143600",
+    "https://www.ekn.kr/web/view.php?key=20260723020005201",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16143596",
+    "https://www.yna.co.kr/view/AKR20260723056100008?input=1195m",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000051671",
+    "https://www.news2day.co.kr/article/20260723500058",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=307506",
+    "https://www.sedaily.com/article/20070848"
    ],
    "seen_titles": [
-    "SK하이닉스,임단협서'성과급'다시최대쟁점…1년만에손질논의",
-    "반도체성과급논란'2R'…이번엔SK하이닉스",
-    "‘영업이익N%’성과급원조SK하이닉스,1년만에‘재논의’",
-    "[칩플레이션이온다/下]공급늘려야하는데쉽지않네…한국반도체의...",
-    "SK하이닉스,인텔美오하이오공장인수설에\"사실무근\"반박",
-    "AMD,'AI랙'본격화…삼성·SK에호재되나",
-    "고준희,어린시절'전투기조종사'父걱정…\"갑자기안보이는분들많...",
-    "“수십조원던지는거아냐?”걱정했지만…국민연금,반도체주저가매...",
-    "행복나래,소셜벤처9곳육성…SK계열사와실증·사업화지원",
     "배움으로키우는여성리더…지역공동체새활력",
     "‘반도체투자원조’ACEETF…종목넘어밸류체인투자로승부",
     "\"성과급은교섭대상아냐\"…주주단체,노동장관·삼전닉스대표고발",
@@ -3946,10 +3941,19 @@
     "[신윤우의외환분석]성장이일으킬파문",
     "'어닝쇼크'GC녹십자…하반기반등키는'알리글로'",
     "SouthKoreaQ2GDPBeatsForecastsasAIChipExportsDriveGrowth",
-    "[뉴욕브리핑]美·이란충돌에유가급등…3대지수일제하락"
+    "[뉴욕브리핑]美·이란충돌에유가급등…3대지수일제하락",
+    "SK가뿌린'사회성과보상'실험,국제학술지가효과인정했다",
+    "SK스퀘어주가,7월23일장중1,259,000원2.36%상승",
+    "용인반도체산단전력공급11년앞당긴다…김성환장관,현장점검",
+    "SK이터닉스주가,7월23일장중74,600원20.32%상승",
+    "[특징주]삼성전자·SK하이닉스,장초반4%안팎상승",
+    "알파벳'AI투자'확대에코스피7000선'재탈환'",
+    "환율1470원대등락…'AI투자기대'달러강세상쇄",
+    "상주시,192만㎡규모'이차전지클러스터'본격추진…음극재밸류체...",
+    "삼성전기2951억MLCC공급계약…8%강세질주[코주부]"
    ],
    "initialized": true,
-   "last_run": "2026-07-23T09:55:21.075210+09:00"
+   "last_run": "2026-07-23T10:00:41.949100+09:00"
   }
  },
  "press_names": {
