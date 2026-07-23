@@ -1038,14 +1038,13 @@
     [
      "2026-07-23T15:00:44.136380+09:00",
      "자문기구 합류 정의선 맞댄다 리사수 머리 이재용 젠슨"
+    ],
+    [
+     "2026-07-23T15:05:20.002772+09:00",
+     "한국은행 환율 금융시장 인상 물가 신현송 금리 총재"
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20260722000413",
-    "https://www.hankyung.com/article/202607229958H",
-    "https://www.newstree.kr/newsView/ntr202607220016",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008669802&plink=ORI&cooper=NAVER",
-    "https://www.ccdn.co.kr/news/articleView.html?idxno=1089682",
     "http://www.00news.co.kr/news/articleView.html?idxno=105328",
     "http://www.fnnews.com/news/202607221811579582",
     "http://www.fnnews.com/news/202607221810423498",
@@ -2540,14 +2539,14 @@
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=312971",
     "https://www.daejonilbo.com/news/articleView.html?idxno=2289974",
     "http://www.newswatch.kr/news/articleView.html?idxno=80510",
-    "https://www.joongang.co.kr/article/25447516"
+    "https://www.joongang.co.kr/article/25447516",
+    "https://www.mydaily.co.kr/page/view/2026072315022267213",
+    "https://www.starnewskorea.com/sports/2026/07/23/2026072314361641488",
+    "https://www.etnews.com/20260723000353",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260723150003Tae",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=591228"
    ],
    "seen_titles": [
-    "[속보]李대통령,24일부터美·남미·獨순방…샌프란서'AI선언'발표",
-    "방미통위방송평가,지상파KBS1·종편MBN1위",
-    "SK스퀘어,430억원규모자사주소각결정…\"주주가치제고\"",
-    "감산목표90%달성…울산만남았다",
-    "신분당선'의ㆍ군ㆍ안'연장촉구...정치권도가세",
     "MSCI8월리뷰윤곽…LG이노텍편입,HLB등4종목편출전망",
     "[외환-마감]중동리스크에7거래일만상승…6.70원↑",
     "靑\"李노란봉투법언급,'고용부가기준정하라'는의미\"",
@@ -4042,10 +4041,15 @@
     "SKB'안전최우선'경영…한국산업안전보건공단이사장표창수상",
     "충남혁신센터,SK에코플랜트와AI·딥테크오픈이노베이션",
     "法\"SK텔레콤,5G속도과장광고…과징금은다시따져야\"[법정워치]",
-    "이재용·정의선,AI자문기구합류…젠슨황·리사수머리맞댄다"
+    "이재용·정의선,AI자문기구합류…젠슨황·리사수머리맞댄다",
+    "\"주식손실률만약40%\"…신기루,\"파란색보니마음안좋아\"",
+    "[오피셜]1분도못뛰고6개월만에'또'방출...정태욱,인천과'계약...",
+    "SKT'5G과장광고'일부승소...法“과징금산정기간잘못됐다”",
+    "\"슬프지만투자실패공개\"…여경옥셰프'SK하이닉스손실인증'",
+    "[금융家]신현송한국은행총재③ㅣ금리인상속물가·환율·금융시장..."
    ],
    "initialized": true,
-   "last_run": "2026-07-23T15:00:44.136380+09:00"
+   "last_run": "2026-07-23T15:05:20.002772+09:00"
   }
  },
  "press_names": {
