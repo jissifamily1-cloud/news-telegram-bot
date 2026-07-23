@@ -241,8 +241,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=273460",
-    "https://www.namdonews.com/news/articleView.html?idxno=917801",
     "https://www.womentimes.co.kr/news/articleView.html?idxno=104627",
     "http://www.finomy.com/news/articleView.html?idxno=257844",
     "https://www.lawtv.kr/news/articleView.html?idxno=60488",
@@ -1740,11 +1738,11 @@
     "https://www.jibs.co.kr/news/articles/articlesDetail/63794?feed=na",
     "https://www.news2day.co.kr/article/20260724500014",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=759914",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092166393"
+    "https://it.chosun.com/news/articleView.html?idxno=2023092166393",
+    "http://www.osen.co.kr/article/G1112845422",
+    "https://www.sidae.com/article/2026072406103329029"
    ],
    "seen_titles": [
-    "SKT제안'로봇데이터팩토리'국제표준화논의본격화",
-    "“1억넣었으면중형차뽑았다”…한달만에50%↑‘파산핑’이돌아왔...",
     "SK바이오팜,연내제품도입목표…성장축추가주목",
     "돌변한모건스탠리에외인3조줍줍…'구글AI수혜'60만전자가나",
     "인하대·한진정보통신,AI인재채용연계...2028학년도계약정원10명선...",
@@ -3242,10 +3240,12 @@
     "최태원.노소영재산분할오늘결론..이혼소송사상최대재산분할?",
     "[N2모닝경제브리핑-7월24일]美증시,AI수익성우려·중동긴장에...",
     "'영업익25%↓'HMM울고,'26%↑'팬오션웃고…해운빅2상반기실적희...",
-    "\"같은종목인데왜\"…변동성확대에증권사'극과극'목표가속출"
+    "\"같은종목인데왜\"…변동성확대에증권사'극과극'목표가속출",
+    "'110억성수동자가'최화정,명품도무료나눔할만…'삼전닉스'최고...",
+    "[뉴욕증시]나스닥2%하락,3대지수뚝…AI거품론·중동불안감확대"
    ],
    "initialized": true,
-   "last_run": "2026-07-24T06:15:24.701615+09:00"
+   "last_run": "2026-07-24T06:20:30.333739+09:00"
   }
  },
  "press_names": {
