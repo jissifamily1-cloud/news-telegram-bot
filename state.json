@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-23T12:10:27.531711+09:00",
-     "이통3사 CEO 배경훈 간담회 부총리"
-    ],
-    [
-     "2026-07-23T12:10:27.531711+09:00",
-     "증시 거래절벽 코인시장 거래 국내 이탈까지 확대에 해외"
-    ],
-    [
      "2026-07-23T12:20:25.900103+09:00",
      "배터리 경쟁 총력 3사 ESS 3차 고조 1조원대 수주 입찰"
     ],
@@ -1122,16 +1114,21 @@
     [
      "2026-07-23T18:05:21.626794+09:00",
      "배경훈 통신사는 일원화 인프라 창구 기업 데이터센터 해저케"
+    ],
+    [
+     "2026-07-23T18:10:28.412901+09:00",
+     "15GW SK텔레콤 분리 사업 구축 DC 본격화"
+    ],
+    [
+     "2026-07-23T18:10:28.412901+09:00",
+     "공급 지원 원활한 전력 용인특례시장 용수 용인국가산단에 이상일"
+    ],
+    [
+     "2026-07-23T18:10:28.412901+09:00",
+     "등장에 해커 강력한 등골이 서늘 너무 세계"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=442914",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1717412",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686193",
-    "https://www.econovill.com/news/articleView.html?idxno=745884",
-    "https://www.sidae.com/article/2026072309013735583",
-    "https://www.seoultimes.news/news/article.html?no=2000097723",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092166251",
     "https://www.eroun.net/news/articleView.html?idxno=85967",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4426344",
     "https://www.catchnews.kr/news/articleView.html?idxno=126463",
@@ -2624,16 +2621,16 @@
     "http://www.domin.co.kr/news/articleView.html?idxno=1562849",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260723010008530",
     "http://www.4th.kr/news/articleView.html?idxno=2115181",
-    "https://www.ceoscoredaily.com/page/view/2026072316221848401"
+    "https://www.ceoscoredaily.com/page/view/2026072316221848401",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1388831",
+    "https://biz.sbs.co.kr/article_hub/20000324293?division=NAVER",
+    "https://www.newspost.kr/news/articleView.html?idxno=224377",
+    "https://www.hankookilbo.com/news/article/A2026072316460002996?did=NA",
+    "http://www.kdfnews.com/news/articleView.html?idxno=185629",
+    "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160295376946438",
+    "https://bizhankook.com/articles/powerful-ai-hacker-threat.html"
    ],
    "seen_titles": [
-    "[해외시황]뉴욕증시,국제유가급등·빅테크실적관망에'하락'…나스...",
-    "SKT,ITU-T서‘로봇데이터표준’주도…피지컬AI글로벌경쟁력강화",
-    "규제보다센개발호재…동탄·군산집값부터움직였다",
-    "현대카드,G마켓전용PLCC출시…'구독+카드'결합혜택강화",
-    "삼성물산2Q순항예고…하이테크·원전\"호재만가득\"",
-    "[삼성SDI유증의뒷장]⑤주주·직원보상외면속오너재단후원…독...",
-    "SKT,ITU-T서‘로봇데이터표준화’과제채택…피지컬AI글로벌주도...",
     "이상일용인시장,경기도에‘반도체국가산단조기’가동·광역교통망...",
     "CSES지원'사회성과인센티브'효과,국제SSCI학술지게재",
     "SK매직,우리은행전국영업점에공기청정기공급",
@@ -4126,10 +4123,17 @@
     "'6년째스톱'새만금SK데이터센터언제본궤도오르나?",
     "아모레·에이피알·구다이,李대통령과브라질행…글로벌4위화장품시...",
     "KCC회사채수요예측1.4조몰려…모집액7배흥행",
-    "배경훈“통신사는AI인프라기업”…데이터센터창구일원화·해저케..."
+    "배경훈“통신사는AI인프라기업”…데이터센터창구일원화·해저케...",
+    "SK텔레콤,AI데이터센터전문법인'SK하이퍼'설립",
+    "AI훈풍에칠천피탈환…외국인,SK하닉만1.3조쓸어담아",
+    "SK브로드밴드,안전보건공단이사장표창수상…산업재해예방공로",
+    "SKT,AI데이터센터전담법인'SK하이퍼'신설...7,500억원투자",
+    "SK텔레콤,AIDC사업분리…15GW구축본격화",
+    "이상일용인특례시장,용인국가산단에원활한전력·용수공급지원추...",
+    "[미토스쇼크]①\"등골이서늘\"너무강력한AI해커등장에전세계공..."
    ],
    "initialized": true,
-   "last_run": "2026-07-23T18:05:21.626794+09:00"
+   "last_run": "2026-07-23T18:10:28.412901+09:00"
   }
  },
  "press_names": {
