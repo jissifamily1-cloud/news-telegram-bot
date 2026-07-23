@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-23T23:20:27.663441+09:00",
-     "한심 하승수 에너지정책 지역이기주의자에게 맡기니 이재명"
-    ],
-    [
-     "2026-07-23T23:20:27.663441+09:00",
-     "반기 9651억원 NH투자 쌍끌이 브로커리지 WM 역대 순익"
-    ],
-    [
-     "2026-07-23T23:20:27.663441+09:00",
-     "하이퍼리퀴드 주소 보유 494만달러 장신스토리지 특정"
-    ],
-    [
-     "2026-07-23T23:20:27.663441+09:00",
-     "속도 첨단산업 주형철 경제부지사에 경기도 민생경제 내정 정책"
-    ],
-    [
      "2026-07-23T23:25:25.790326+09:00",
      "있었는데 반전 김선태 갖고 5만8천원에 1000주 삼성전자 주식"
     ],
@@ -226,13 +210,17 @@
     [
      "2026-07-24T05:15:28.621883+09:00",
      "미래 여는 백년대계 지역 전남광주교육통합"
+    ],
+    [
+     "2026-07-24T05:25:21.781727+09:00",
+     "경기도교육청 경기도특수교육원 경기도"
+    ],
+    [
+     "2026-07-24T05:25:21.781727+09:00",
+     "삼성 알파벳 웃었다 한마디에 300조 쏟아붓는다"
     ]
    ],
    "seen_urls": [
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=270190",
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/23/2026072300092.html",
-    "https://www.cstimes.com/news/articleView.html?idxno=714376",
-    "https://www.widedaily.com/news/articleView.html?idxno=298108",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000051697",
     "https://www.topstarnews.net/news/articleView.html?idxno=16143703",
     "https://www.ppss.kr/news/articleView.html?idxno=302965",
@@ -1728,13 +1716,13 @@
     "https://www.seoul.co.kr/news/economy/IT/2026/07/24/20260724032005?wlog_tag3=naver",
     "https://www.newsis.com/view/NISX20260723_0003721260",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01725286645517800",
-    "https://www.seoul.co.kr/news/editOpinion/column/local-story/2026/07/24/20260724025002?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/editOpinion/column/local-story/2026/07/24/20260724025002?wlog_tag3=naver",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260724052201NPw",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260724052020XMe",
+    "https://www.ekn.kr/web/view.php?key=20260724028295608",
+    "http://www.fnnews.com/news/202607231925165859"
    ],
    "seen_titles": [
-    "LeetomeetHuang,AltmanonU.S.trip",
-    "알파벳,2000억달러투자예고…삼성·SK·테크윙줄줄이상승[칩칩폭폭...",
-    "SK텔레콤,국제전기통신연합서피지컬AI글로벌기술표준화선도",
-    "후티반군,사우디유조선공격에국제유가한달만에최고치",
     "전남광주통합특별시의회,'800조반도체'...팹4기지원체계구축",
     "2분기클라우드매출82%급증한알파벳,탄탄한AI투자수요입증",
     "삼성전자·SK하이닉스,장초반상승...특히SK하이닉스4%대상승",
@@ -3230,10 +3218,14 @@
     "‘국가대표AI’새달2차평가…승부처는에이전트능력·운영효율",
     "최화정,숨은주식고수였네…'삼전닉스'최고점에처분",
     "'665억→1조3808억'최태원·노소영이혼재산분할오늘결론",
-    "[지방시대]전남광주교육통합,지역미래여는‘백년대계’"
+    "[지방시대]전남광주교육통합,지역미래여는‘백년대계’",
+    "오늘최태원·노소영파기환송심선고…SK주식쟁점",
+    "이대통령,美·남미3개국순방…샌프란서AI서밋",
+    "[패트롤]경기도-경기도교육청-경기도특수교육원",
+    "\"300조쏟아붓는다\"…알파벳한마디에삼성·SK웃었다"
    ],
    "initialized": true,
-   "last_run": "2026-07-24T05:20:26.851070+09:00"
+   "last_run": "2026-07-24T05:25:21.781727+09:00"
   }
  },
  "press_names": {
