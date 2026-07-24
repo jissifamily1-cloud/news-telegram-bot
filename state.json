@@ -261,7 +261,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.e-science.co.kr/news/articleView.html?idxno=132375",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2244115",
     "https://www.hg-times.com/news/articleView.html?idxno=303863",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=307600",
@@ -1760,10 +1759,10 @@
     "https://www.newscj.com/news/articleView.html?idxno=3419746",
     "http://weekly.chosun.com/news/articleView.html?idxno=53775",
     "https://www.joongang.co.kr/article/25447983",
-    "https://www.news1.kr/politics/president/6238632"
+    "https://www.news1.kr/politics/president/6238632",
+    "https://www.yna.co.kr/view/AKR20260724050200001?input=1195m"
    ],
    "seen_titles": [
-    "SK시그넷결국매각수순...SK,공개매수로상장폐지추진",
     "‘문과’이재용·정의선,‘이과’최태원·구광모…전공이가른4대...",
     "외신도주목한최태원·노소영이혼…“현실판연속극”",
     "장중,아시아8곳증시'하락및급락'...현대차·현대모비스'뚝'",
@@ -3262,10 +3261,11 @@
     "\"경기남부광역철도공약이행\"요구받은추미애경기도지사…정부에예...",
     "\"돈·로맨스·배신…\"외신이K드라마에비유한최태원·노소영재판",
     "‘안전한인공지능’목표,AI노블레스오블리주를논하다",
-    "李대통령,美빅테크CEO올트먼·젠슨황면담…한미'AI동맹'선언"
+    "李대통령,美빅테크CEO올트먼·젠슨황면담…한미'AI동맹'선언",
+    "李대통령,샌프란도착…오늘젠슨황만나'AI선언'발표"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T00:37:15.084957+09:00"
+   "last_run": "2026-07-25T00:40:25.683744+09:00"
   }
  },
  "press_names": {
