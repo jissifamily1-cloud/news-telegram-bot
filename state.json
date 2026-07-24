@@ -257,7 +257,6 @@
     ]
    ],
    "seen_urls": [
-    "http://news.ebs.co.kr/ebsnews/allView/60750977/N",
     "http://www.press9.kr/news/articleView.html?idxno=80010",
     "http://www.press9.kr/news/articleView.html?idxno=80000",
     "http://www.financialreview.co.kr/news/articleView.html?idxno=43756",
@@ -1756,10 +1755,10 @@
     "https://www.g-enews.com/view.php?ud=20260725062518685fbbec65dfb_1",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471370",
     "https://www.lecturernews.com/news/articleView.html?idxno=207096",
-    "https://www.wikitree.co.kr/articles/1148387"
+    "https://www.wikitree.co.kr/articles/1148387",
+    "https://www.slist.kr/news/articleView.html?idxno=754045"
    ],
    "seen_titles": [
-    "고려대왈라븐교수팀국제학술지게재..'의료AI신뢰지표강건성입...",
     "하나금융,청년금융인재양성프로젝트진행...미래금융리더배출",
     "[HR뉴스브리핑]진학사캐치\"Z세대구직자42%반도체주투자\"",
     "AI투자확대역풍에알파벳·테슬라급락…메모리주는굳건/'AI어벤저...",
@@ -3258,10 +3257,11 @@
     "한국기업,AI성과바탕으로대미투자대폭확대",
     "뉴욕증시혼조…반도체쇼크에SK하이닉스ADR9%가까이급락",
     "미국뉴욕증시,유가급락에도반도체주약세에나스닥지수하락...다우...",
-    "삼성전자·하이닉스주식보유자들을불안하게만드는소식이전해졌다"
+    "삼성전자·하이닉스주식보유자들을불안하게만드는소식이전해졌다",
+    "뉴욕증시,유가하락에도반도체약세에혼조…나스닥0.6%↓"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T06:55:25.524112+09:00"
+   "last_run": "2026-07-25T07:00:38.755320+09:00"
   }
  },
  "press_names": {
