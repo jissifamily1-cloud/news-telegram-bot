@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-24T23:45:28.069356+09:00",
-     "K드라마 외신도 주목 같은 재산분할 시작과 세기의"
-    ],
-    [
      "2026-07-25T00:00:39.904323+09:00",
      "13조 개미들 롤러코스피 달라졌다 도입했나 쓸어담은 주범"
     ],
@@ -162,12 +158,17 @@
     [
      "2026-07-25T05:40:27.830466+09:00",
      "기술주 가격 우려에 급락 매도세 마이크론 반도체"
+    ],
+    [
+     "2026-07-25T05:45:30.150877+09:00",
+     "노소영에 이자 3억원 법원 하루만 9천440억원 지급 최태원"
+    ],
+    [
+     "2026-07-25T05:45:30.150877+09:00",
+     "나스닥만 하락 약세 반등 P500 반도체 다우"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260724005100315?input=2106m",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=168695",
-    "https://www.news1.kr/realestate/general/6237861",
     "https://gamefocus.co.kr/detail.php?number=177700",
     "http://www.seouleconews.com/news/articleView.html?idxno=92608",
     "https://www.etoday.co.kr/news/view/2607102",
@@ -1664,12 +1665,12 @@
     "https://view.asiae.co.kr/article/2026072505260396592",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674144&plink=ORI&cooper=NAVER",
     "https://biz.sbs.co.kr/article_hub/20000324594?division=NAVER",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=01371046645518128"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01371046645518128",
+    "https://news.mtn.co.kr/news-detail/2026072505371651947",
+    "https://www.kbsm.net/news/view.php?idx=527891",
+    "http://www.fnnews.com/news/202607250535269396"
    ],
    "seen_titles": [
-    "코스피'매도사이드카'발동…개인순매수에도'역부족'",
-    "SeoulstockssharplydownlateFri.morningonprofit-taking",
-    "[속보]유가와관세영향에코스피,4%대로낙폭확대…매도사이드카...",
     "[칼럼]ESG공시는시작일뿐,완성은다른얘기",
     "Ex-nat'lteamcaptainKiSung-yuengtoleadS.KoreanleagueAll-Stars",
     "中관영언론\"한국&중국,손잡고산업다변화서둘러야\"",
@@ -3166,10 +3167,13 @@
     "美앤트로픽CEO만난李대통령\"인공지능투자대대적확대\"",
     "이대통령,앤트로픽CEO에\"한국인공지능투자대대적확대\"",
     "\"AI붐더큰몫확보무산\"…외신,최태원·노소영판결관심",
-    "[美특징주]마이크론,기술주매도세·반도체가격우려에7%급락"
+    "[美특징주]마이크론,기술주매도세·반도체가격우려에7%급락",
+    "이란확전우려에반도체주흔들…SK하이닉스ADR8.8%급락[뉴욕is]",
+    "법원\"최태원,노소영에9천440억원지급\"…이자하루만1.3억원",
+    "[뉴욕증시]다우·S&P500반등…반도체약세속나스닥만하락"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T05:40:27.830466+09:00"
+   "last_run": "2026-07-25T05:45:30.150877+09:00"
   }
  },
  "press_names": {
