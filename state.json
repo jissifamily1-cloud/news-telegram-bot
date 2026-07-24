@@ -253,7 +253,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=307600",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=168688",
     "http://www.nongaek.com/news/articleView.html?idxno=96201",
     "https://www.bloter.net/news/articleView.html?idxno=668864",
@@ -1752,10 +1751,10 @@
     "https://www.news1.kr/politics/president/6238632",
     "https://www.yna.co.kr/view/AKR20260724050200001?input=1195m",
     "https://biz.chosun.com/policy/politics/president_office/2026/07/25/32N36YYBKBDO5CYECSLKRAPIBY/",
-    "https://www.ytn.co.kr/_ln/0101_202607250039115508"
+    "https://www.ytn.co.kr/_ln/0101_202607250039115508",
+    "https://www.dt.co.kr/article/12074603"
    ],
    "seen_titles": [
-    "장중,아시아8곳증시'하락및급락'...현대차·현대모비스'뚝'",
     "하나금융,생성형AI금융인재키운다…청년54명미래금융프로젝트수...",
     "[금융]하나금융청년인재54명/KB손보여행보험개편/농협은행자산...",
     "하나금융,청년금융인재양성프로젝트통해2026년54명배출",
@@ -3254,10 +3253,11 @@
     "李대통령,美빅테크CEO올트먼·젠슨황면담…한미'AI동맹'선언",
     "李대통령,샌프란도착…오늘젠슨황만나'AI선언'발표",
     "李대통령,미국도착…젠슨황·샘올트먼등과면담예정",
-    "이대통령,미국샌프란시스코도착...젠슨황등회동예정"
+    "이대통령,미국샌프란시스코도착...젠슨황등회동예정",
+    "[속보]李대통령,샌프란도착…오늘젠슨황만나‘AI선언’발표"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T00:45:23.566031+09:00"
+   "last_run": "2026-07-25T00:50:25.884055+09:00"
   }
  },
  "press_names": {
