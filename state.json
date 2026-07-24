@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-24T18:00:47.380250+09:00",
-     "경제체력 유지 환율관찰대상국 원화약세 대비 과도"
-    ],
-    [
      "2026-07-24T18:05:21.675270+09:00",
      "투자 싱가포르투자청 보유율 ISC 1700억 외국인"
     ],
@@ -318,13 +314,17 @@
     [
      "2026-07-25T00:00:39.904323+09:00",
      "13조 개미들 롤러코스피 달라졌다 도입했나 쓸어담은 주범"
+    ],
+    [
+     "2026-07-25T00:05:21.297169+09:00",
+     "미국서 다음 최정 끝내 SSG 오른다 아웃이라니 수술대 시즌"
+    ],
+    [
+     "2026-07-25T00:05:21.297169+09:00",
+     "슈퍼사이클 메모리 역대 삼성전자 타고 SK하이닉"
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202607241109265145",
-    "https://www.khan.co.kr/article/202607241114001",
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/24/2026072490137.html",
-    "http://www.wsobi.com/news/articleView.html?idxno=315726",
     "https://www.newspost.kr/news/articleView.html?idxno=224417",
     "https://www.sedaily.com/article/20071431",
     "https://www.newsis.com/view/NISX20260724_0003721581",
@@ -1820,13 +1820,13 @@
     "https://www.gokorea.kr/news/articleView.html?idxno=873076",
     "https://www.dt.co.kr/article/12074594",
     "https://www.newsis.com/view/NISX20260724_0003722863",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607240672&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607240672&t=NN",
+    "https://www.theguru.co.kr/news/article.html?no=104814",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=83107",
+    "https://www.mk.co.kr/article/12107059",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=83111"
    ],
    "seen_titles": [
-    "SK충전기자회사SK시그넷상장폐지뒤매각결정,소액주주주식공개...",
-    "무안군,군공항이전선정위불참선언…반도체메가팹국가사업'암초...",
-    "SK디스커버리,관계사와손잡고지역사회공헌확대",
-    "SK디스커버리,상반기연합봉사활동마무리···관계사협력으로지역...",
     "SK디스커버리,관계사참여연합봉사활동상반기성과공개",
     "무안군,군공항후보지선정위또불참···반도체공장조성차질빚...",
     "삼전닉스레버리지,31일부터기본예탁금조기상향",
@@ -3322,10 +3322,14 @@
     "법원\"최태원,노소영에재산분할금9,440억원지급\"…SK주식분할인정",
     "김용범“4700조투자과장아냐”…美빅테크와초대형계약예고",
     "\"K드라마같은시작과끝\"외신도'세기의재산분할'주목",
-    "\"롤러코스피주범왜도입했나\"…13조쓸어담은개미들달라졌다"
+    "\"롤러코스피주범왜도입했나\"…13조쓸어담은개미들달라졌다",
+    "JP모건\"한국레버리지ETF청산75%완료…코스피전망,1만2500유지\"",
+    "[심층분석]\"유가100달러돌파쇼크\"…국내시총상위10개대형주일제...",
+    "끝내시즌아웃이라니…SSG최정,다음달미국서수술대오른다",
+    "[더페어돋보기]메모리슈퍼사이클타고역대최대…삼성전자·SK하이닉..."
    ],
    "initialized": true,
-   "last_run": "2026-07-25T00:00:39.904323+09:00"
+   "last_run": "2026-07-25T00:05:21.297169+09:00"
   }
  },
  "press_names": {
