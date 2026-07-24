@@ -1073,9 +1073,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260724_0003721674",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=737897",
-    "https://www.khan.co.kr/article/202607241051001",
     "https://biz.chosun.com/stock/stock_general/2026/07/24/EUEWNDEQ2JDRFJWB5YK4VQEOMU/",
     "https://www.ggilbo.com/news/articleView.html?idxno=1171171",
     "http://www.thevaluenews.co.kr/news/view.php?idx=200278",
@@ -2572,12 +2569,12 @@
     "https://imnews.imbc.com/replay/2026/nwdesk/article/6839933_37004.html",
     "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260724032&PRO_CODE=4",
     "https://biz.heraldcorp.com/article/10819571",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1389084"
+    "https://daily.hankooki.com/news/articleView.html?idxno=1389084",
+    "https://www.nocutnews.co.kr/news/6553188",
+    "https://view.asiae.co.kr/article/2026072420464651251",
+    "http://web.ubc.co.kr/wp/archives/128973"
    ],
    "seen_titles": [
-    "Cashdepositrequirementforleveragedsingle-stockETFstoberaised",
-    "[뉴스워커_하나금융]청년금융인재양성프로젝트4개월과정마무리",
-    "하나금융그룹,금감원과올해청년금융인재54명배출",
     "SK렌터카,여름휴가철'에코랜드·오설록·할리스'제휴혜택",
     "삼성전자,'AI반도체올인'…비주력사업팀축소하고핵심전력이동",
     "서학개미미국주식순매수5개월만에최대…자금77%는반도체3배레...",
@@ -4074,10 +4071,13 @@
     "실리콘밸리에서'AI외교'‥7박11일순방일정시작",
     "2주만에또충북방문...“강호축건설에힘싣겠다”",
     "“SK하이닉스보다낫다?”한달새무려‘115%’라니…SK이터닉스급등...",
-    "김용범\"美빅테크와메모리장기계약…큰숫자나올것\""
+    "김용범\"美빅테크와메모리장기계약…큰숫자나올것\"",
+    "김용범\"미래대응기금,수조원대넘을것…李'샌프란선언'예정\"",
+    "\"10년새커진SK가치\"…외신도주목한'세기의이혼'",
+    "울산시,'실물AI·데이터센터'집중육성"
    ],
    "initialized": true,
-   "last_run": "2026-07-24T20:45:26.661579+09:00"
+   "last_run": "2026-07-24T20:50:25.540788+09:00"
   }
  },
  "press_names": {
