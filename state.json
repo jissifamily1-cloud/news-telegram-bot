@@ -237,8 +237,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.job-post.co.kr/news/articleView.html?idxno=222059",
-    "https://www.newsen.com/news_view.php?uid=202607241130442110",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619285",
     "https://www.nbntv.kr/news/articleView.html?idxno=340510",
     "https://www.huffingtonpost.kr/article/258969",
@@ -1736,11 +1734,11 @@
     "https://www.newsworks.co.kr/news/articleView.html?idxno=848330",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=388882",
     "https://www.yna.co.kr/view/AKR20260724050251001?input=1195m",
-    "https://www.munhwa.com/article/11604911"
+    "https://www.munhwa.com/article/11604911",
+    "http://www.fnnews.com/news/202607250117202451",
+    "https://imnews.imbc.com/replay/2026/nw2500/article/6839957_36989.html"
    ],
    "seen_titles": [
-    "[단독]SK하이닉스,'엔비디아대항마'美추론반도체스타트업에치드...",
-    "미국경제단체\"한국정부태도,현대차구금사태와쿠팡에이중잣대\"...",
     "삼전닉스주가이렇게빠지게한범인은…증권가는그래도“저점매수...",
     "부산창경,롯데중앙연구소와푸드테크오픈이노베이션추진…스타트업...",
     "Z세대10명중4명반도체주투자…AI성장기대에관심집중",
@@ -3238,10 +3236,12 @@
     "李대통령,샌프란시스코도착…샘알트만·젠슨황만나'AI세일즈'",
     "李대통령,샌프란도착…젠슨황·샘올트먼연쇄회동,'샌프란AI선언...",
     "李대통령,샌프란도착…美측'이정후사인볼'환영선물(종합)",
-    "최태원·노소영판결나오자SKT5%급등이유"
+    "최태원·노소영판결나오자SKT5%급등이유",
+    "李대통령,샌프란시스코도착…美환영식서'이정후사인볼'선물받아",
+    "'노태우비자금'빼고도‥\"노소영몫9,440억\""
    ],
    "initialized": true,
-   "last_run": "2026-07-25T01:25:41.283338+09:00"
+   "last_run": "2026-07-25T01:30:42.138030+09:00"
   }
  },
  "press_names": {
