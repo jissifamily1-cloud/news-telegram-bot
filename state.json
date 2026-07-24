@@ -745,8 +745,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20260723000284",
-    "https://www.ddaily.co.kr/page/view/2026072313395201195",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070155",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2242620",
     "https://www.topdaily.kr/articles/111102",
@@ -2244,11 +2242,11 @@
     "https://www.seoultimes.news/news/article.html?no=2000098077",
     "https://www.gokorea.kr/news/articleView.html?idxno=872983",
     "https://www.businesspost.co.kr/BP?command=article_view&num=443032",
-    "https://www.newspim.com/news/view/20260724000154"
+    "https://www.newspim.com/news/view/20260724000154",
+    "http://www.fnnews.com/news/202607240825241585",
+    "https://news.bizwatch.co.kr/article/market/2026/07/24/0001"
    ],
    "seen_titles": [
-    "SK텔레콤주가10만원눈앞...올해매출액증가전망",
-    "[티타임]알파벳발훈풍에코스피4%상승…7070선오르내려",
     "SKB,산업안전보건공단이사장표창",
     "정부·통신3사,AI네트워크투자민관협의체띄운다(종합)",
     "AI투자기대확대환율1460원대진입",
@@ -3746,10 +3744,12 @@
     "[이슈]'세기의재산분할'24일결론…최태원·노소영,SK지분이가른다",
     "폐현수막이자원으로?SK케미칼의순환경제솔버톤도전기会",
     "하나증권\"국제유가급등에정유사재고평가이익상승기대,관련주에...",
-    "[모닝리포트]\"LSELECTRIC,영업레버리지에멀티플확장까지\""
+    "[모닝리포트]\"LSELECTRIC,영업레버리지에멀티플확장까지\"",
+    "\"예금묶어둔사이66%대박\"…퇴직연금수익률격차20배벌어졌다",
+    "삼전닉스레버리지예탁금3000만원,이달말조기시행"
    ],
    "initialized": true,
-   "last_run": "2026-07-24T09:09:11.264807+09:00"
+   "last_run": "2026-07-24T09:10:26.605326+09:00"
   }
  },
  "press_names": {
