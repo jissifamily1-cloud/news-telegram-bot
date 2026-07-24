@@ -354,13 +354,17 @@
     [
      "2026-07-25T08:25:20.117668+09:00",
      "현실판 주목한 K드라마 배신 부패 외신들도 얽힌 로맨스"
+    ],
+    [
+     "2026-07-25T08:35:21.702797+09:00",
+     "도시락 통영시 사전 식당 합동 점검 지정 공급 실시 업체 방학"
+    ],
+    [
+     "2026-07-25T08:35:21.702797+09:00",
+     "규모 SK그룹 파트너십 젠슨 5000억달러 엔비디아 발표"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20071478",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=848243",
-    "https://www.news1.kr/politics/president/6237965",
-    "https://news.jtbc.co.kr/article/NB12310022?influxDiv=NAVER",
     "http://www.newscape.co.kr/news/articleView.html?idxno=123539",
     "https://www.mk.co.kr/article/12106550",
     "https://www.ytn.co.kr/_ln/0103_202607241341514786",
@@ -1856,13 +1860,13 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=591735",
     "https://www.dt.co.kr/article/12074622",
     "https://weekly.khan.co.kr/article/202607250822001",
-    "https://biz.heraldcorp.com/article/10819811"
+    "https://biz.heraldcorp.com/article/10819811",
+    "https://www.sedaily.com/article/20071740",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607250217&t=NN",
+    "https://www.viva100.com/article/20260725500041",
+    "https://www.newsis.com/view/NISX20260725_0003722948"
    ],
    "seen_titles": [
-    "李대통령,샌프란으로출발…실리콘밸리서AI협력모색",
-    "李,미국실리콘밸리출발…젠슨황과이·최·정‘깐부’한자리",
-    "글로벌바이오자금흐름살아나는데…국내시장은악재에더민감",
-    "한국주식시장,10거래일연속사이드카…블룸버그\"코인시장보다변동...",
     "李대통령,美샌프란시스코출국…7박11일美·남미순방",
     "李대통령,샌프란시스코로출국…7박11일미국·남미3개국순방길",
     "李대통령,5개국순방돌입…한미'AI동맹'·남미'핵심광물·공급망'",
@@ -3358,10 +3362,14 @@
     "SK이노베이션주가소폭약세,13만원선지켰다…코스피5%대급락속다...",
     "‘국장’탈출하는서학개미…이달‘미장’순매수4배늘어",
     "“돈,로맨스,부패,배신얽힌현실판K드라마”···외신들도주목한...",
-    "유가급등세진정에도…반도체株급락에나스닥‘휘청’"
+    "유가급등세진정에도…반도체株급락에나스닥‘휘청’",
+    "李대통령만난젠슨황“엔비디아AI연구원,한국으로이주”",
+    "'국장'탈출한서학개미…쓸어담은종목봤더니",
+    "통영시,방학중도시락공급업체및지정식당사전합동점검실시",
+    "[속보]젠슨황\"엔비디아-SK그룹,5000억달러규모파트너십발표\""
    ],
    "initialized": true,
-   "last_run": "2026-07-25T08:30:36.088334+09:00"
+   "last_run": "2026-07-25T08:35:21.702797+09:00"
   }
  },
  "press_names": {
