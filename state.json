@@ -230,11 +230,13 @@
     [
      "2026-07-25T02:05:22.435098+09:00",
      "하이닉 이해하게 실리콘밸리 4천7백조 맥락 일정 청와대 삼성"
+    ],
+    [
+     "2026-07-25T02:09:15.532686+09:00",
+     "9440억 일단락 9년 세기의 이혼 현금"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10819114",
-    "https://biz.heraldcorp.com/article/10819117",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=356429",
     "https://ilyo.co.kr/?ac=article_view&entry_id=512004",
     "https://biz.heraldcorp.com/article/10819110",
@@ -1732,11 +1734,11 @@
     "https://www.newspim.com/news/view/20260724000554",
     "https://www.newspim.com/news/view/20260724000555",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674094&plink=ORI&cooper=NAVER",
-    "https://imnews.imbc.com/news/2026/politics/article/6839965_36911.html"
+    "https://imnews.imbc.com/news/2026/politics/article/6839965_36911.html",
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5208115",
+    "https://www.joongang.co.kr/article/25448029"
    ],
    "seen_titles": [
-    "[EBN데이터센터]반도체생산주일제히급락...외국인차익실현에투자...",
-    "[이시각헤드라인]7월24일뉴스센터",
     "NH투자증권,상반기순이익1조육박...연환산ROE19%",
     "삼성전자·SK하이닉스,R&D인재영입경쟁",
     "SK텔레콤,AIDC법인자회사‘SK하이퍼’설립",
@@ -3234,10 +3236,12 @@
     "김용범\"李대통령,샌프란AI선언…韓'반도체공급거점'구상발표\"",
     "김용범\"GDP깜짝성장에'K자그림자'…법인세·소득세로청년·지역재...",
     "김용범,대규모AI투자에\"돈은많은데상상력이부족\"",
-    "청와대\"실리콘밸리일정,4천7백조맥락이해하게될것‥삼성·하이닉..."
+    "청와대\"실리콘밸리일정,4천7백조맥락이해하게될것‥삼성·하이닉...",
+    "이대통령미국샌프란시스코도착…한미AI협력강화나선다",
+    "9년끈‘세기의이혼’,현금9440억일단락"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T02:05:22.435098+09:00"
+   "last_run": "2026-07-25T02:09:15.532686+09:00"
   }
  },
  "press_names": {
