@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-24T13:00:39.857992+09:00",
-     "선정 자회사 SK쉴더스 캡스텍 제네시스PE 우협 판다"
-    ],
-    [
      "2026-07-24T13:05:20.397063+09:00",
      "금리인상에 8월 무게 오른다 반도체 대출금리"
     ],
@@ -1210,14 +1206,13 @@
     [
      "2026-07-24T18:55:23.434138+09:00",
      "탄소 주목하는 이유 세계가 맹그로브에 품고 막는 파도"
+    ],
+    [
+     "2026-07-24T19:00:43.044874+09:00",
+     "마감 긴박에 중동정세 홍콩 H주 반락 증시"
     ]
    ],
    "seen_urls": [
-    "https://www.gokorea.kr/news/articleView.html?idxno=873022",
-    "https://biz.heraldcorp.com/article/10818889",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=307588",
-    "https://magazine.hankyung.com/business/article/202607168792b",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426643",
     "https://www.pointe.co.kr/news/articleView.html?idxno=82185",
     "https://news.tf.co.kr/read/economy/2346633.htm",
     "https://www.1conomynews.co.kr/news/articleView.html?idxno=49692",
@@ -2712,14 +2707,14 @@
     "https://news.jtbc.co.kr/article/NB12310097?influxDiv=NAVER",
     "https://www.g-enews.com/view.php?ud=2026072418462551373084322ec9_1",
     "https://news.jtbc.co.kr/article/NB12310109?influxDiv=NAVER",
-    "https://futurechosun.com/?p=155486"
+    "https://futurechosun.com/?p=155486",
+    "http://www.00news.co.kr/news/articleView.html?idxno=105417",
+    "https://www.ajunews.com/view/20260724185027054",
+    "http://www.whitepaper.co.kr/news/articleView.html?idxno=264953",
+    "https://www.yna.co.kr/view/AKR20260724166100004?input=1195m",
+    "https://www.newsis.com/view/NISX20260724_0003722747"
    ],
    "seen_titles": [
-    "“나만그런게아니었네”…Z세대구직자10명중4명반도체주투자",
-    "하나금융그룹,청년금융인재171명배출…성과공유회서'ESG플랫폼'대...",
-    "하나금융,세계적기술기업과협력해청년금융인재양성프로젝트성과...",
-    "삼전닉스급락에바이오·방산株순환매…코스피는3%가까이하락",
-    "삼성전자와SK하이닉스주가하락…중동정세악화가원인?",
     "김성환장관“호남반도체팹2기,2029년말가동가능한전력·용수...",
     "상반기87조원불린KODEX…삼성운용,ETF1위굳혔다",
     "연초대비800%폭등…글로벌거인줄세운‘실리콘’의조용한파트너...",
@@ -4214,10 +4209,15 @@
     "\"현실판K-드라마\"…외신도주목한'최태원·노소영의38년'",
     "최태원·노소영이혼소송,재산분할9440억…9년법정공방또대법원가...",
     "지분매각?배당금확대?최태원'1조현금마련'어떻게",
-    "탄소품고파도막는숲…세계가맹그로브에주목하는이유"
+    "탄소품고파도막는숲…세계가맹그로브에주목하는이유",
+    "최태원·젠슨황,美'AI밀착행보'에쏠린시선",
+    "최태원·노소영이혼소송9440억결론…남은건'노태우비자금'수사",
+    "최태원회장,파기환송심재산분할9440억원현금조달방안은",
+    "'SK주식'도재산분할대상…법조계\"노소영,최태원에판정승\"",
+    "[올댓차이나]홍콩증시,중동정세긴박에반락마감…H주0.98%↓"
    ],
    "initialized": true,
-   "last_run": "2026-07-24T18:55:23.434138+09:00"
+   "last_run": "2026-07-24T19:00:43.044874+09:00"
   }
  },
  "press_names": {
