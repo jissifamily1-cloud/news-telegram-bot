@@ -1189,7 +1189,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.slist.kr/news/articleView.html?idxno=753903",
     "https://www.businesspost.co.kr/BP?command=article_view&num=443042",
     "https://www.dailian.co.kr/news/view/1670471/?sc=Naver",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4096825",
@@ -2688,10 +2687,10 @@
     "https://www.polinews.co.kr/news/articleView.html?idxno=738003",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=273576",
     "https://news.jtbc.co.kr/article/NB12310088?influxDiv=NAVER",
-    "https://www.nspna.com/news/?newsid=822006"
+    "https://www.nspna.com/news/?newsid=822006",
+    "https://www.sedaily.com/article/20071683"
    ],
    "seen_titles": [
-    "현금부자만레버리지허용?…'3000만원예탁금'실효성은",
     "레버리지ETF규제시계당겼다…3천만원문턱31일적용",
     "김성환기후장관\"호남반도체팹4개전력용수인프라,2029년까지완성...",
     "SK㈜,SK시그넷상장폐지·매각하기로…소액주주공개매수",
@@ -4190,10 +4189,11 @@
     "최태원-노소영'세기의이혼',재산분할금1조3808억→9440억…'SK주식...",
     "[마감시황]코스피,5.72%폭락6,700선붕괴…원-달러환율,0.2원내린...",
     "이대통령'샌프란·남미'순방길…젠슨황·샘올트먼만난다",
-    "[업앤다운]게임주상승…밸로프↑·썸에이지↓"
+    "[업앤다운]게임주상승…밸로프↑·썸에이지↓",
+    "잡히지않는롤러코스피…단일종목레버리지과열조기차단"
    ],
    "initialized": true,
-   "last_run": "2026-07-24T19:35:22.279338+09:00"
+   "last_run": "2026-07-24T19:36:54.951997+09:00"
   }
  },
  "press_names": {
