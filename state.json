@@ -254,13 +254,13 @@
     [
      "2026-07-25T06:40:25.288324+09:00",
      "부담 2주 투자 확산 흔들리며 나스닥 연속 반도체주 하락"
+    ],
+    [
+     "2026-07-25T06:45:24.240765+09:00",
+     "대폭 대미 한국 확대 기업 투자 성과 바탕으로"
     ]
    ],
    "seen_urls": [
-    "https://www.energy-news.co.kr/news/articleView.html?idxno=227040",
-    "https://theviewers.co.kr/View.aspx?No=4160803",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260724123322zXF",
-    "https://www.veritas-a.com/news/articleView.html?idxno=620630",
     "http://www.newsbrite.net/news/articleView.html?idxno=199429",
     "https://www.asiatime.co.kr/article/20260724500085",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5207977",
@@ -1756,13 +1756,13 @@
     "https://biz.chosun.com/international/international_economy/2026/07/25/OGRNESFZ6JBYPM54AYKKEZSQIU/",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=852376",
     "https://www.bntnews.co.kr/article/view/bnt202607250008",
-    "http://www.joseilbo.com/news/news_read.php?uid=572596&class=53"
+    "http://www.joseilbo.com/news/news_read.php?uid=572596&class=53",
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030159249&code=61111111&cp=nv",
+    "http://www.fnnews.com/news/202607241833368572",
+    "https://www.ddaily.co.kr/page/view/2026072506385189318",
+    "https://www.g-enews.com/view.php?ud=20260725062518685fbbec65dfb_1"
    ],
    "seen_titles": [
-    "코스피·코스닥동반5%대급락…양시장매도사이드카",
-    "코스피5%·코스닥4%대급락에동반매도사이드카…서킷브레이커목전",
-    "코스피올해21번째매도사이드카…자유이용권끊은증시,롤러코스터...",
-    "중동리스크에증시'패닉'…코스피·코스닥동반사이드카",
     "시행사2026년7월브랜드평판...DK아시아,BS산업,신영順",
     "[애널픽]호재는패싱악재만반영'제약바이오주',재평가시점은?",
     "[경제읽기]미,'강제노동'관세확정…'세기의재산분할'오늘선고",
@@ -3258,10 +3258,14 @@
     "국제유가하락에도반도체주급락…뉴욕증시혼조마감",
     "이대통령,앤트로픽CEO와AI협력논의",
     "이재명대통령,앤트로픽CEO에AI투자확대요청",
-    "AI투자부담확산…반도체주흔들리며나스닥2주연속하락"
+    "AI투자부담확산…반도체주흔들리며나스닥2주연속하락",
+    "李대통령,‘클로드’의앤트로픽CEO만나“韓인공지능투자대대적...",
+    "9440억재산분할금어떻게마련하나…최태원'SK지분'대신실트론카드...",
+    "뉴욕증시,유가하락에도반도체주부진속혼조마감",
+    "한국기업,AI성과바탕으로대미투자대폭확대"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T06:40:25.288324+09:00"
+   "last_run": "2026-07-25T06:45:24.240765+09:00"
   }
  },
  "press_names": {
