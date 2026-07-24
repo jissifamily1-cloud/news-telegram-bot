@@ -234,16 +234,21 @@
     [
      "2026-07-25T06:25:19.810800+09:00",
      "AI칩 반도체주 메모리주 장비주 출렁 CHIP 추락 뉴욕증시"
+    ],
+    [
+     "2026-07-25T06:30:35.085313+09:00",
+     "최고가 실패 확보 이혼 10년 한국 외신 소송"
+    ],
+    [
+     "2026-07-25T06:30:35.085313+09:00",
+     "적다 들끓은 9440억도 여론 최태원 판결에"
+    ],
+    [
+     "2026-07-25T06:30:35.085313+09:00",
+     "강화 기업 결속 한미 반도체 공급망"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260724084900007?input=1195m",
-    "https://imnews.imbc.com/replay/2026/nw1200/article/6839807_36967.html",
-    "https://www.munhwa.com/article/11604847",
-    "https://www.energy-news.co.kr/news/articleView.html?idxno=227037",
-    "https://www.sentv.co.kr/article/view/sentv202607240077",
-    "https://www.newsis.com/view/NISX20260724_0003721463",
-    "https://www.hankookilbo.com/news/article/A2026072411320001172?did=NA",
     "https://www.ngetnews.com/news/articleView.html?idxno=551811",
     "http://www.nongaek.com/news/articleView.html?idxno=96204",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008673223&plink=ORI&cooper=NAVER",
@@ -1736,16 +1741,16 @@
     "http://www.newsroad.co.kr/news/articleView.html?idxno=61980",
     "https://www.dt.co.kr/article/12074605",
     "https://view.asiae.co.kr/article/2026072506210303030",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=168710"
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=168710",
+    "https://www.tokenpost.kr/news/market/381164",
+    "https://www.tjb.co.kr/news05/bodo/view/id/101466",
+    "https://www.seoul.co.kr/news/economy/securities/2026/07/25/20260725500003?wlog_tag3=naver",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674147&plink=ORI&cooper=NAVER",
+    "https://www.tjb.co.kr/news05/bodo/view/id/101460",
+    "https://www.bntnews.co.kr/article/view/bnt202607250007",
+    "https://www.g-enews.com/view.php?ud=202607250538329115fbbec65dfb_1"
    ],
    "seen_titles": [
-    "코스피장중6%급락…SK하이닉스·삼성전자동반약세",
-    "SKT'5G과장광고'168억원과징금취소…법원\"액수잘못산정\"",
-    "하나금융그룹,금감원과함께'청년금융인재'54명배출",
-    "하닉·삼전6%떨어지는데…상위투자자는순매수1·2위[주식초고수는...",
-    "맨시티에맞설팀K리그에기성용·이승우·무고사등선발",
-    "'세기의이혼'오늘결론‥SK주가도변수",
-    "개미빚투조기차단‘삼닉ETF’불끈다",
     "리츠2026년7월브랜드평판...SK리츠,롯데리츠,KB스타리츠順",
     "정재헌SKT대표“AI인프라허브로도약…지금이골든타임”",
     "광주軍공항이전·800조반도체팹'얽힌실타래'…어떻게풀까",
@@ -3238,10 +3243,17 @@
     "최태원-노소영이혼·재산분할재판결과",
     "앤트로픽CEO만난李대통령,“韓인공지능투자대대적확대”",
     "李대통령,앤트로픽CEO만나\"韓,아시아AI거점최적파트너\"(종합)",
-    "뉴욕증시반도체주'출렁'...메모리주'추락',AI칩·CHIP장비주'뚝'"
+    "뉴욕증시반도체주'출렁'...메모리주'추락',AI칩·CHIP장비주'뚝'",
+    "혼조양상연출한뉴욕증시,기술주약세에발목",
+    "이재명대통령,아모데이앤트로픽CEO회동…\"AI투자대대적확대\"",
+    "[서울데이터랩]미국증시,다우상승·나스닥약세로혼조…반도체주...",
+    "샌프란시스코도착…오늘젠슨황만나'AI선언'발표",
+    "\"10년소송끝AI붐몫확보실패\"…외신\"한국최고가이혼\"",
+    "“9440억도적다”…최태원판결에들끓은여론,왜",
+    "한미반도체기업AI공급망결속강화"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T06:25:19.810800+09:00"
+   "last_run": "2026-07-25T06:30:35.085313+09:00"
   }
  },
  "press_names": {
