@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-24T06:25:22.016751+09:00",
-     "점검 전력 용인 공급 산단 반도체 용수 장관 기후부 적기 김성환"
-    ],
-    [
-     "2026-07-24T06:30:34.354742+09:00",
-     "시행사 BS산업 신영 7월 뒤쫓아 1위 DK아시아"
-    ],
-    [
-     "2026-07-24T06:30:34.354742+09:00",
-     "기술주 하락 증시 미국 일제히 마감 급락에 나스닥"
-    ],
-    [
      "2026-07-24T06:35:22.308072+09:00",
      "AIDC 협의체 열관리 KIST 기술 국내 출범 산학연"
     ],
@@ -1110,14 +1098,13 @@
     [
      "2026-07-24T12:20:26.171797+09:00",
      "순방 오픈AI 엔비디아 면담 미국 연쇄 남미"
+    ],
+    [
+     "2026-07-24T12:30:35.235299+09:00",
+     "악재만 반영 시점은 제약바이오주 재평가 호재는 패싱"
     ]
    ],
    "seen_urls": [
-    "https://www.donga.com/news/Economy/article/all/20260723/134351903/1",
-    "https://www.munhwa.com/article/11604607",
-    "https://www.m-i.kr/news/articleView.html?idxno=1394755",
-    "https://www.ziksir.com/news/articleView.html?idxno=141019",
-    "https://biz.sbs.co.kr/article_hub/20000324276?division=NAVER",
     "http://www.finomy.com/news/articleView.html?idxno=257902",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=661059",
     "https://www.mt.co.kr/society/2026/07/23/2026072316290733919",
@@ -2612,14 +2599,14 @@
     "https://imnews.imbc.com/replay/2026/nw1200/article/6839813_36967.html",
     "https://www.news1.kr/finance/general-stock/6237955",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607241204447460397",
-    "http://www.wikileaks-kr.org/news/articleView.html?idxno=190125"
+    "http://www.wikileaks-kr.org/news/articleView.html?idxno=190125",
+    "https://www.ddaily.co.kr/page/view/2026072412275247154",
+    "https://biz.newdaily.co.kr/site/data/html/2026/07/24/2026072400135.html",
+    "https://www.hidomin.com/news/articleView.html?idxno=714559",
+    "https://www.energy-news.co.kr/news/articleView.html?idxno=227040",
+    "https://theviewers.co.kr/View.aspx?No=4160803"
    ],
    "seen_titles": [
-    "CPSP고배한화오션,본업·신사업'종횡무진'",
-    "[민선9기新동남권시대]전재수부산시장“민생은즉시,미래는확실...",
-    "\"니하오추미애,협력확대하자\"경기도찾은중국경제규모2위장쑤성",
-    "AMD-앤트로픽7.4조원빅딜…‘脫엔비디아’본격화",
-    "곽범“삼성전자6만원일때1억매수했다”깜짝고백…매도가는?",
     "SKT,2분기주당830원현금배당…총액1768억원",
     "NH투자증권,상반기순익9652억…반기기준역대최대",
     "SK텔레콤,주당830원현금배당결정…9월17일지급",
@@ -4114,10 +4101,15 @@
     "미국·남미순방‥엔비디아·오픈AI연쇄면담",
     "유가100달러에금리부담↑…코스피·코스닥동반사이드카[장중시황]",
     "SKT,AI데이터센터전문법인‘SK하이퍼’설립…15GW인프라구축시동",
-    "코스피·코스닥동반5%대급락…양시장매도사이드카"
+    "코스피·코스닥동반5%대급락…양시장매도사이드카",
+    "코스피5%·코스닥4%대급락에동반매도사이드카…서킷브레이커목전",
+    "코스피올해21번째매도사이드카…자유이용권끊은증시,롤러코스터...",
+    "중동리스크에증시'패닉'…코스피·코스닥동반사이드카",
+    "시행사2026년7월브랜드평판...DK아시아,BS산업,신영順",
+    "[애널픽]호재는패싱악재만반영'제약바이오주',재평가시점은?"
    ],
    "initialized": true,
-   "last_run": "2026-07-24T12:25:21.241440+09:00"
+   "last_run": "2026-07-24T12:30:35.235299+09:00"
   }
  },
  "press_names": {
