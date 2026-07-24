@@ -997,11 +997,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.smarttimes.co.kr/news/articleView.html?idxno=47567",
-    "https://hbnpress.com/news/view/1065577608100093",
-    "https://www.mt.co.kr/politics/2026/07/24/2026072410195182132",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426664",
-    "https://www.junggi.co.kr/news/articleView.html?idxno=37232",
     "https://www.arunews.com/news/articleView.html?idxno=65279",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577404315882",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=267710",
@@ -2496,14 +2491,14 @@
     "https://www.hankyung.com/article/2026072451617",
     "https://www.etoday.co.kr/news/view/2607332",
     "https://www.ytn.co.kr/_ln/0104_202607242048180921",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260724205114h3U"
+    "http://www.yonhapnewstv.co.kr/news/MYH20260724205114h3U",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260724205804108",
+    "https://www.ikbc.co.kr/article/view/kbc202607240082",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=06366486645517800",
+    "https://www.segye.com/newsView/20260724514534?OutUrl=naver",
+    "https://www.kado.net/news/articleView.html?idxno=2063007"
    ],
    "seen_titles": [
-    "美전문가도혀찼다...SK하이닉스ADR사는서학개미에대해“자멸적매...",
-    "SK오션플랜트주가,급등세...주력사업은?",
-    "SK렌터카,제주지점'실증형B2B마케팅플랫폼'확대…에코랜드·오설록...",
-    "하나금융,'청년금융인재양성프로젝트'수료생54명배출",
-    "하나금융-금감원,청년금융인재54명배출",
     "하나금융,올해'청년금융인재'54명배출",
     "샌프란찾는李대통령…젠슨황·샘알트만등AI리더총출동",
     "[오늘외환딜러환율예상레인지]",
@@ -3998,10 +3993,15 @@
     "\"한국판세기의이혼\"…최태원·노소영판결에외신도관심",
     "김용범“순방계기,삼전·하닉美AI와빅딜…의미있는숫자나올것...",
     "외신도최태원·노소영판결속보로타전...\"주가상승분반영문제가쟁...",
-    "\"노소영몫은9,440억\"…SK주식도분할"
+    "\"노소영몫은9,440억\"…SK주식도분할",
+    "'노태우비자금'제외해도거의1조…산정근거는",
+    "김용범\"미래대응기금,아주의미있는규모로모일것\"",
+    "\"하루이자1.3억원\"...최태원,노소영에9440억'현금'판결이유",
+    "외신도주목한최태원·노소영파기환송심…“가장비싼이혼소송”",
+    "외신도주목한'세기의이혼'…블룸버그\"한국최고액이혼소송\""
    ],
    "initialized": true,
-   "last_run": "2026-07-24T20:55:22.403011+09:00"
+   "last_run": "2026-07-24T21:00:43.460801+09:00"
   }
  },
  "press_names": {
