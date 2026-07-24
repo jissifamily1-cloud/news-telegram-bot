@@ -353,8 +353,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260724000594",
-    "https://www.yna.co.kr/view/AKR20260724069400001?input=1195m",
     "https://www.joongang.co.kr/article/25447850",
     "https://www.medicopharma.co.kr/news/articleView.html?idxno=68853",
     "https://www.ngonews.kr/news/articleView.html?idxno=233709",
@@ -1852,11 +1850,11 @@
     "https://www.newdaily.co.kr/site/data/html/2026/07/25/2026072500003.html",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=61997",
     "https://www.kyeonggi.com/article/20260725580007",
-    "https://news.dealsitetv.com/articles/173701"
+    "https://news.dealsitetv.com/articles/173701",
+    "https://biz.heraldcorp.com/article/10819807",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=591735"
    ],
    "seen_titles": [
-    "李,미국·남미순방출국…샌프란서'AI선언'한다",
-    "이재명대통령,미국·남미3국순방차출국…젠슨황·룰라만난다",
     "[속보]李,7박11일간‘지구한바퀴’순방차출국…AI협력·핵심광물...",
     "李,美·남미순방길올라…실리콘밸리서AI세일즈외교",
     "美다음관세는과잉생산…철강·석화·배터리'중국산선긋기'총력",
@@ -3354,10 +3352,12 @@
     "李대통령,앤트로픽CEO만나\"韓,AI투자대폭확대…적극적협력기...",
     "나스닥0.6%밀린뉴욕증시…유가진정에도반도체'직격탄'",
     "이재명대통령,앤트로픽CEO만나“韓,아시아AI최적파트너”",
-    "[핀포인트][아모레퍼시픽]해외법인美中흥행에수익성개선…4822억..."
+    "[핀포인트][아모레퍼시픽]해외법인美中흥행에수익성개선…4822억...",
+    "국장빠져나간개미들…美주식순매수4배늘고예탁금은100조위태",
+    "SK이노베이션주가소폭약세,13만원선지켰다…코스피5%대급락속다..."
    ],
    "initialized": true,
-   "last_run": "2026-07-25T08:16:32.231310+09:00"
+   "last_run": "2026-07-25T08:20:29.354507+09:00"
   }
  },
  "press_names": {
