@@ -1050,18 +1050,13 @@
     [
      "2026-07-24T10:55:21.194008+09:00",
      "해군 220조 협력 조선협력 본격화 MRO SK오션플랜트"
+    ],
+    [
+     "2026-07-24T11:00:40.495028+09:00",
+     "3D 겨냥한 CTI 낸드 혁신 고성능 초고층 연구"
     ]
    ],
    "seen_urls": [
-    "https://www.eroun.net/news/articleView.html?idxno=86111",
-    "https://www.mk.co.kr/article/12105583",
-    "http://www.inews24.com/view/1988226",
-    "https://www.newdaily.co.kr/site/data/html/2026/07/23/2026072300270.html",
-    "http://www.fnnews.com/news/202607231605160464",
-    "https://www.todaykorea.co.kr/news/articleView.html?idxno=404125",
-    "https://www.mt.co.kr/future/2026/07/23/2026072314402438753",
-    "https://www.newspim.com/news/view/20260723001105",
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=237909",
     "https://www.seoulfn.com/news/articleView.html?idxno=634001",
     "https://www.donga.com/news/Economy/article/all/20260723/134352237/1",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05116806645517472",
@@ -2552,18 +2547,18 @@
     "https://www.junggi.co.kr/news/articleView.html?idxno=37232",
     "https://www.arunews.com/news/articleView.html?idxno=65279",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577404315882",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=267710"
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=267710",
+    "https://www.mtnews.net/news/articleView.html?idxno=25423",
+    "http://www.updownnews.co.kr/news/articleView.html?idxno=318098",
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578211432452",
+    "https://www.viva100.com/article/20260724500239",
+    "https://www.gobalnews.com/news/articleView.html?idxno=202501",
+    "https://www.theguru.co.kr/news/article.html?no=104863",
+    "https://www.tokenpost.kr/news/breaking/380815",
+    "https://www.yna.co.kr/view/AKR20260724070400007?input=1195m",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=267701"
    ],
    "seen_titles": [
-    "코스피,알파벳AI투자확대에7000선회복…삼전·닉스'강세'",
-    "반도체훈풍코스피7000선돌파…환율은1466원",
-    "SK브로드밴드,'안전최우선'경영…한국산업안전보건공단이사장표창...",
-    "경북도·구미시,반도체핵심부품기업월덱스와2600억투자협약",
-    "금융위기급추락딛고반등한원화값…증권가“1440원까지간다”",
-    "머스크도쩔쩔매는메모리공급난…\"정말로심각\"",
-    "'명심은김민석'관측속…정청래,800조카드로호남승부[여의도체...",
-    "\"집나간외국인,구글실적에돌아왔다\"...코스피도7000회복[fn마감시...",
-    "신한금융\"자사주정책,정교하고유연하게대응···손보M&A에도주주...",
     "\"SK멤버사와사업협력\"…소셜벤처'SK임팩트부스터'1기가동",
     "[ETF시황]태양광·2차전지ETF수익률상위싹쓸이",
     "코스피,외국인·기관매수에4.4%급등…코스닥도5%올라",
@@ -4054,10 +4049,19 @@
     "트럼프,이란과후티반군에대규모군사공격검토...유가는급등",
     "신축2,000세대넘는대단지수주전|제2의'압·여·목·성'뜬다…빅...",
     "한국지텔프,2026년제2차경찰공무원(순경)공채에제출가능한지텔프...",
-    "[특징주]SK오션플랜트,220조한·미조선협력본격화…美해군MRO협력..."
+    "[특징주]SK오션플랜트,220조한·미조선협력본격화…美해군MRO협력...",
+    "SK케미칼,행안부·대한상의와폐현수막자원화전국공급망구축추진",
+    "SK케미칼,폐현수막순환경제구축추진…협력파트너발굴",
+    "하나금융,금감원과‘청년금융인재’54명배출",
+    "부산창조경제혁신센터,롯데중앙연구소와손잡고푸드테크스타트업발...",
+    "李대통령,7박11일순방…AI산업경쟁력강화나선다",
+    "블룸버그\"美상장된SK하이닉스ADR,韓본주전환어려워\"",
+    "AI칩스타트업에치드,3억달러투자유치",
+    "KIA,유일한15년연속트레이드…하주석영입도이유있다",
+    "[SK하이닉스인사이드]'고성능초고층3D낸드'겨냥한CTI혁신,연구..."
    ],
    "initialized": true,
-   "last_run": "2026-07-24T10:55:21.194008+09:00"
+   "last_run": "2026-07-24T11:00:40.495028+09:00"
   }
  },
  "press_names": {
