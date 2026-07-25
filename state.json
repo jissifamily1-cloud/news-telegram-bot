@@ -214,11 +214,13 @@
     [
      "2026-07-26T06:35:23.847193+09:00",
      "불안 환율도 경고등 뛰는 우려 물가 관세 유가에 금리"
+    ],
+    [
+     "2026-07-26T06:40:32.218430+09:00",
+     "높아진 SK하이닉스 매력에 살아날까 캐리 크레딧물 업은 투심"
     ]
    ],
    "seen_urls": [
-    "https://www.donga.com/news/Politics/article/all/20260724/134361954/2",
-    "https://biz.heraldcorp.com/article/10819742",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=84518",
     "https://www.gukjenews.com/news/articleView.html?idxno=3645762",
     "http://www.econonews.co.kr/news/articleView.html?idxno=441764",
@@ -1716,11 +1718,11 @@
     "https://www.yna.co.kr/view/AKR20260723135200003?input=1195m",
     "https://www.yna.co.kr/view/AKR20260725032100008?input=1195m",
     "https://www.g-enews.com/view.php?ud=202607260557506013fbbec65dfb_1",
-    "https://www.yna.co.kr/view/AKR20260725049700002?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260725049700002?input=1195m",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607260029&t=NN",
+    "https://www.yna.co.kr/view/AKR20260725026700008?input=1195m"
    ],
    "seen_titles": [
-    "[데일리안오늘뉴스종합]최태원-노소영이혼소송파기환송심,신천지...",
-    "김용범“미래대응기금수조원넘을것”…美서대형기술계약도예고",
     "李대통령,7박11일미주·독일5개국순방…美‘AI동맹’·남미‘공...",
     "KBS‘추적60분’,반도체성과급이만든새로운계급사회추적",
     "김용범“삼성·SK하이닉스,美빅테크와새메모리장기계약발표할것...",
@@ -3218,10 +3220,12 @@
     "하반기실적반등시동거는K배터리…조기흑자전환기대↑",
     "'리밸런싱재개'연기금,이달순매수…하이닉스사고삼전팔아",
     "\"AI1만달러짜리1339달러로뚝\"…고가모델이탈속도",
-    "뛰는유가에물가불안우려…금리·관세·환율도'경고등'"
+    "뛰는유가에물가불안우려…금리·관세·환율도'경고등'",
+    "'10일연속사이드카'도박판뺨친코스피…\"실적·금리부터보자\"",
+    "SK하이닉스업은크레딧물…높아진캐리매력에투심살아날까"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T06:35:23.847193+09:00"
+   "last_run": "2026-07-26T06:40:32.218430+09:00"
   }
  },
  "press_names": {
