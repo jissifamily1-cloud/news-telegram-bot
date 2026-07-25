@@ -457,7 +457,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12106897",
     "https://www.mk.co.kr/article/12106901",
     "https://www.mk.co.kr/article/12106904",
     "https://www.hankyung.com/article/2026072449501",
@@ -1956,10 +1955,10 @@
     "https://www.hidomin.com/news/articleView.html?idxno=714636",
     "https://www.news2day.co.kr/article/20260725500015",
     "https://zdnet.co.kr/view/?no=20260725160202",
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/25/2026072590098.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/25/2026072590098.html",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=92767"
    ],
    "seen_titles": [
-    "李대통령,미국·남미·독일릴레이순방...총7박11일",
     "'주식급락,진보분열,부동산급등'3대악재갇힌李대통령국정운영...",
     "젠슨황만나는이해진…네이버,'AI팩토리'승부수속도낸다",
     "이대통령,美샌프란시스코로출국…7박11일순방시작",
@@ -3458,10 +3457,11 @@
     "법원\"최태원,노소영에9440원지급\"…변호인단성공보수도역대급될...",
     "SK,글로벌빅테크와AI협력확대…‘메가프로젝트’탄력받나",
     "정의선회장\"현대차그룹,자동차넘어피지컬AI기업으로\"",
-    "\"韓개미는충동적도박꾼\"…英외신의한국증시경고"
+    "\"韓개미는충동적도박꾼\"…英외신의한국증시경고",
+    "'빅테크영토'확장한SK,'AI반도체·데이터센터'전방위글로벌협력..."
    ],
    "initialized": true,
-   "last_run": "2026-07-25T16:45:35.025110+09:00"
+   "last_run": "2026-07-25T16:50:25.601162+09:00"
   }
  },
  "press_names": {
