@@ -485,12 +485,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.wikitree.co.kr/articles/1148290",
-    "https://www.asiatime.co.kr/article/20260724500237",
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=83652",
-    "https://www.smartbizn.com/news/articleView.html?idxno=149348",
-    "http://www.fnnews.com/news/202607241428102948",
-    "https://www.dt.co.kr/article/12074537",
     "https://www.newspim.com/news/view/20260724000826",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1717677",
     "https://www.ekn.kr/web/view.php?key=20260724027405808",
@@ -1984,15 +1978,15 @@
     "https://www.yna.co.kr/view/AKR20260725017751003?input=1195m",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=51684",
     "https://www.newsis.com/view/NISX20260725_0003722931",
-    "https://www.sidae.com/article/2026072509235289871"
+    "https://www.sidae.com/article/2026072509235289871",
+    "https://www.kbmaeil.com/article/20260725500046",
+    "https://www.segye.com/newsView/20260725502998?OutUrl=naver",
+    "https://www.dt.co.kr/article/12074629",
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2290181",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607250241&t=NN",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619990"
    ],
    "seen_titles": [
-    "법원\"최태원,노소영에재산분할금2440억원지급\"(상보)",
-    "SK렌터카제주지점,연100만명찾는'B2B마케팅플랫폼'으로진화",
-    "法“최태원,노소영에게9440억지급하라”…최회장측\"상고여부검...",
-    "“최태원,노소영에게9440억지급해야”법원결정나왔다",
-    "반도체벨트효과에평택고덕부동산시장'들썩'",
-    "SK㈜,SK시그넷상장폐지후매각…주당8200원에공개매수",
     "법원,\"최태원,노소영재산분할9440억원지급\"···노태우300억빠지...",
     "법원,\"최태원,노소영에재산분할9440억원지급하라\"",
     "[속보]법원“재산분할비율노소영1/3,최태원2/3”",
@@ -3486,10 +3480,16 @@
     "이재용·정의선·이해진,엔비디아본사서젠슨황만났다(종합)",
     "이대통령,글로벌AI수장연쇄회동…젠슨황\"SK와5천억달러협력\"",
     "이재용·정의선·이해진,美엔비디아본사찾아젠슨황과회동",
-    "이대통령'샌프란AI선언'…\"한국,대체불가AI공급망핵심국가로\""
+    "이대통령'샌프란AI선언'…\"한국,대체불가AI공급망핵심국가로\"",
+    "국장흔들리자다시미장으로…서학개미순매수한달새4배",
+    "李대통령,젠슨황·샘올트먼등AI리더들과릴레이면담…“韓AI프...",
+    "이재용·정의선·이해진,엔비디아본사서젠슨황만났다",
+    "[속보]李대통령'샌프란AI선언'…\"韓세계적인AI공급망핵심거점으...",
+    "[속보]李대통령'샌프란AI선언'…'AI기본사회'세계에알렸다",
+    "이대통령“AI시대담대한미래대한민국과함께…대체불가협력플랫..."
    ],
    "initialized": true,
-   "last_run": "2026-07-25T09:35:19.183453+09:00"
+   "last_run": "2026-07-25T09:40:25.075516+09:00"
   }
  },
  "press_names": {
