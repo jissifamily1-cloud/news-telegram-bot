@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-25T10:20:29.283027+09:00",
-     "대화하는 리더들 글로벌"
-    ],
-    [
-     "2026-07-25T10:20:29.283027+09:00",
-     "깐부회동 치맥 피시앤칩스 AI회동으로 삼겹살"
-    ],
-    [
-     "2026-07-25T10:20:29.283027+09:00",
-     "대화 나누는 기업인들 한미"
-    ],
-    [
-     "2026-07-25T10:20:29.283027+09:00",
-     "서밋 샌프란시스코"
-    ],
-    [
      "2026-07-25T10:25:21.004852+09:00",
      "현대차그룹 회장 발언하는 정의선"
     ],
@@ -498,14 +482,17 @@
     [
      "2026-07-25T16:20:26.174964+09:00",
      "이코노미스트지의 일침 한국 같다 카지노 주식시장"
+    ],
+    [
+     "2026-07-25T16:25:19.633632+09:00",
+     "빠른 해답 부유세 아파트 공급만이 한국판 초고가 유일한 표적"
+    ],
+    [
+     "2026-07-25T16:25:19.633632+09:00",
+     "정부 공감 역할 인프라 비전에 모두의 알트먼 중요 한국"
     ]
    ],
    "seen_urls": [
-    "https://gamefocus.co.kr/detail.php?number=177729",
-    "https://www.dailian.co.kr/news/view/1670765/?sc=Naver",
-    "https://www.sentv.co.kr/article/view/sentv202607240133",
-    "https://www.sedaily.com/article/20071623",
-    "https://www.newspim.com/news/view/20260724001139",
     "https://www.kukinews.com/article/view/kuk202607240151",
     "https://www.ajunews.com/view/20260724173032997",
     "http://www.finomy.com/news/articleView.html?idxno=257992",
@@ -2000,14 +1987,14 @@
     "https://www.koreaittimes.com/news/articleView.html?idxno=155473",
     "http://www.inews24.com/view/1988734",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02332086645518128",
-    "https://www.munhwa.com/article/11604961"
+    "https://www.munhwa.com/article/11604961",
+    "https://www.mediapen.com/news/view/1112169",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686973",
+    "https://www.hankyung.com/article/202607255694i",
+    "http://www.breaknews.com/1224389",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686974"
    ],
    "seen_titles": [
-    "[오늘의행정일기]추미애경기지사,中장쑤성장과친서교환“한중...",
-    "최태원·젠슨황,AI서밋하루앞두고실리콘밸리서만찬",
-    "66%싹쓸이삼성vs플랫폼잡은LG…1조ESS시장'삼각혈투'",
-    "최태원·젠슨황,美서만찬회동…AI·메모리협력재확인",
-    "유가급등·강달러에도환율하락…1,466.6원마감",
     "레버리지ETF‘광풍’꺾였나…삼전·닉스단일종목자금유입‘뚝’",
     "정재헌SKTCEO\"AIDC'골든타임'…SK하이퍼로성과내겠다\"",
     "최태원재산분할금9천440억원…SK주식도포함됐다[짤e몽땅]",
@@ -3502,10 +3489,15 @@
     "SK,실리콘밸리에서AI인프라동맹확대…엔비디아·MS·AWS와'메가프...",
     "삼성·SK,빅테크와1375조반도체동맹…'AI3대프로젝트'가동(종합)",
     "삼성·SK,1400조메모리장기계약…불황사이클옅어진다(종합)",
-    "“한국주식시장‘카지노’같다”…英이코노미스트지의일침"
+    "“한국주식시장‘카지노’같다”…英이코노미스트지의일침",
+    "삼전닉스,美빅테크들과9500억불반도체협력…李“우린식구다”",
+    "SK,빅테크5곳과AI반도체·데이터센터협력확대",
+    "정의선“빅테크와협업해피지컬AI혁신생태계구축”…젠슨황과회...",
+    "한국판부유세표적된초고가아파트...“빠른공급만이유일한해답”",
+    "샘알트먼\"한국정부'모두의AI'비전에공감…인프라역할중요\""
    ],
    "initialized": true,
-   "last_run": "2026-07-25T16:20:26.174964+09:00"
+   "last_run": "2026-07-25T16:25:19.633632+09:00"
   }
  },
  "press_names": {
