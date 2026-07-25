@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-25T15:20:29.195297+09:00",
-     "슈퍼사이클 올라탔지만 숫자의 동맹 함정 K반도체 1390조"
-    ],
-    [
-     "2026-07-25T15:20:29.195297+09:00",
-     "살아남은 하락장서 ETF줌 홀로 빠질 이수의 ETF 웃었다 삼전닉스"
-    ],
-    [
      "2026-07-25T15:25:20.500837+09:00",
      "HBM 이재용 파운드리 올트먼 협의할듯 만난다 오픈AI 본사서"
     ],
@@ -234,10 +226,13 @@
     [
      "2026-07-25T21:15:42.407254+09:00",
      "어디에 기업 커진 협력 쓰나 투자금"
+    ],
+    [
+     "2026-07-25T21:20:33.655689+09:00",
+     "이재명 정의선 우리는 최태원 젠슨 선창에 대통령 이해진 이재용"
     ]
    ],
    "seen_urls": [
-    "https://mhnse.com/news/articleView.html?idxno=1468870",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208088",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208105",
     "http://www.joseilbo.com/news/news_read.php?uid=572590&class=53",
@@ -1736,10 +1731,10 @@
     "https://www.pennmike.com/news/articleView.html?idxno=124408",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=852417",
     "https://www.polinews.co.kr/news/articleView.html?idxno=738038",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620108"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620108",
+    "https://www.greened.kr/news/articleView.html?idxno=345918"
    ],
    "seen_titles": [
-    "[아는기자]‘세기의소송’,사실상노소영판정승?",
     "[이슈체크]\"변동성에코스피지긋지긋\"…개인투자자,삼전·닉스팔고...",
     "“9440억원‘현금’으로지급하라”",
     "‘세기의이혼소송’9년만에일단락",
@@ -3238,10 +3233,11 @@
     "[금융핫이슈]삼전닉스재반등론의역설…월가는'매수기회',뉴욕증시...",
     "'베테랑'남태희,제주떠나브리즈번이적",
     "SK,실리콘밸리서AI동맹확대…글로벌빅테크와'인프라연합'본격화",
-    "판커진한-미기업AI협력…투자금어디에쓰나"
+    "판커진한-미기업AI협력…투자금어디에쓰나",
+    "이재명대통령\"우리는\"선창에이재용·최태원·정의선·이해진·젠슨..."
    ],
    "initialized": true,
-   "last_run": "2026-07-25T21:15:42.407254+09:00"
+   "last_run": "2026-07-25T21:20:33.655689+09:00"
   }
  },
  "press_names": {
