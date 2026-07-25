@@ -478,14 +478,13 @@
     [
      "2026-07-25T09:25:19.113643+09:00",
      "Korea massive chief with LEAD Nvidia investment pledges cooperation"
+    ],
+    [
+     "2026-07-25T09:30:32.417959+09:00",
+     "Day에서 AID KT Demo 사례 공개 7월4주차 혁신"
     ]
    ],
    "seen_urls": [
-    "http://www.iminju.net/news/articleView.html?idxno=167097",
-    "https://view.asiae.co.kr/article/2026072414262426486",
-    "https://www.sedaily.com/article/20071501",
-    "http://www.fnnews.com/news/202607241420066992",
-    "https://www.pressman.kr/news/articleView.html?idxno=102871",
     "https://www.betanews.net/article/view/beta202607240045",
     "https://www.yna.co.kr/view/AKR20260724105700004?input=1195m",
     "https://www.chosun.com/economy/tech_it/2026/07/24/IMHBKYLJIJAMLM4EOBP3PD243Y/",
@@ -1980,14 +1979,14 @@
     "https://www.newspim.com/news/view/20260725000028",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4426817",
     "https://it.chosun.com/news/articleView.html?idxno=2023092166560",
-    "https://en.yna.co.kr/view/AEN20260725000751315?input=2106m"
+    "https://en.yna.co.kr/view/AEN20260725000751315?input=2106m",
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030159683&code=61141111&cp=nv",
+    "https://news.jtbc.co.kr/article/NB12310131?influxDiv=NAVER",
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030159679&code=61111111&cp=nv",
+    "https://economist.co.kr/article/view/ecn202607250003",
+    "https://www.theguru.co.kr/news/article.html?no=104904"
    ],
    "seen_titles": [
-    "[속보]서울고법\"최태원,노소영에9440억원재산분할금지급해야\"",
-    "서울고법\"최태원,노소영에재산분할로9천440억원·연5%이자지급\"(상...",
-    "SK하이닉스,장중6%대하락…179만원선까지밀리며약세",
-    "李대통령,미국·남미순방출국…AI·핵심광물협력모색",
-    "법원“노소영에재산분할금9440억원지급하라”...최태원“판결문검...",
     "[속보]법원“최태원SK주식,분할대상재산포함...항소심변론종결...",
     "[속보]재산분할9440억원판결에노소영측\"...\"",
     "인재육성부터힐링콘서트까지...금융권청년접점다각화",
@@ -3482,10 +3481,15 @@
     "李대통령만난젠슨황…\"SK와5000억달러파트너십발표…韓과AI전방...",
     "\"AI국가를팝니다\"…글로벌'빅4'만난李대통령의세일즈",
     "샌프란시스코서AI선언…李\"한국을AI반도체생산기지로\"",
-    "(LEAD)Nvidiachiefpledgesmassiveinvestment,cooperationwithS.K"
+    "(LEAD)Nvidiachiefpledgesmassiveinvestment,cooperationwithS.K",
+    "“노소영에9440억지급”…최태원,현금확보방안은?",
+    "이대통령\"AI황금시대큰역할기대\"…젠슨황\"SK와5천억달러파트너...",
+    "李대통령‘샌프란AI선언’…“누구도소외되지않는AI기본사회”",
+    "[속보]李대통령만난젠슨황\"SK와5천억달러규모파트너십추진\"",
+    "[통신리뷰]KT,'AI혁신사례'AID-XDemoDay에서공개(7월4주차)"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T09:25:19.113643+09:00"
+   "last_run": "2026-07-25T09:30:32.417959+09:00"
   }
  },
  "press_names": {
