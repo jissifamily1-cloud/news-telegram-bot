@@ -190,15 +190,33 @@
     [
      "2026-07-26T06:30:34.286393+09:00",
      "되겠다 나라 선도자 다른 대통령 추격해온 이제"
+    ],
+    [
+     "2026-07-26T06:35:23.847193+09:00",
+     "반도체 조선까지 불황인데 빼면 하투 생산차질 철강 확산에"
+    ],
+    [
+     "2026-07-26T06:35:23.847193+09:00",
+     "NCM 옛말 강자는 확장에 입지 좁아진다 영토"
+    ],
+    [
+     "2026-07-26T06:35:23.847193+09:00",
+     "실적 흑자전환 조기 반등 시동 하반기 기대 K배터리 거는"
+    ],
+    [
+     "2026-07-26T06:35:23.847193+09:00",
+     "하이닉스 사고 순매수 삼전 이달 팔아 재개 연기금 리밸런싱"
+    ],
+    [
+     "2026-07-26T06:35:23.847193+09:00",
+     "고가 모델 속도 1만달러짜리 이탈 1339달러로"
+    ],
+    [
+     "2026-07-26T06:35:23.847193+09:00",
+     "불안 환율도 경고등 뛰는 우려 물가 관세 유가에 금리"
     ]
    ],
    "seen_urls": [
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619665",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619664",
-    "https://www.donga.com/news/Society/article/all/20260724/134361912/1",
-    "https://biz.heraldcorp.com/article/10819740",
-    "https://www.dailian.co.kr/news/view/1670794/?sc=Naver",
-    "https://www.nytimes.com/2026/07/24/business/dealbook/trump-trade-war-economy.html?partner=naver",
     "https://www.donga.com/news/Politics/article/all/20260724/134361954/2",
     "https://biz.heraldcorp.com/article/10819742",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=84518",
@@ -1692,15 +1710,15 @@
     "https://www.yna.co.kr/view/AKR20260724171300008?input=1195m",
     "https://www.newsverse.kr/news/articleView.html?idxno=11010",
     "http://www.fnnews.com/news/202607260543259861",
-    "https://www.chosun.com/politics/politics_general/2026/07/26/6XNONAMUTJDUNDZ7MLDQVDD4KA/"
+    "https://www.chosun.com/politics/politics_general/2026/07/26/6XNONAMUTJDUNDZ7MLDQVDD4KA/",
+    "https://biz.newdaily.co.kr/site/data/html/2026/07/24/2026072400090.html",
+    "https://biz.newdaily.co.kr/site/data/html/2026/07/24/2026072400092.html",
+    "https://www.yna.co.kr/view/AKR20260723135200003?input=1195m",
+    "https://www.yna.co.kr/view/AKR20260725032100008?input=1195m",
+    "https://www.g-enews.com/view.php?ud=202607260557506013fbbec65dfb_1",
+    "https://www.yna.co.kr/view/AKR20260725049700002?input=1195m"
    ],
    "seen_titles": [
-    "\"하루이자1.3억원\"...최태원,노소영에9440억'현금'판결이유",
-    "외신도주목한최태원·노소영파기환송심…“가장비싼이혼소송”",
-    "외신도주목한'세기의이혼'…블룸버그\"한국최고액이혼소송\"",
-    "'검은금요일'코스피6700선아래로…삼전7%·하닉8%대급락",
-    "SK주가5배뛰었는데재산분할9440억…법원이‘2024년주가’택한이...",
-    "[7월25일자]비즈니스포스트아침의주요기사",
     "[데일리안오늘뉴스종합]최태원-노소영이혼소송파기환송심,신천지...",
     "김용범“미래대응기금수조원넘을것”…美서대형기술계약도예고",
     "李대통령,7박11일미주·독일5개국순방…美‘AI동맹’·남미‘공...",
@@ -3194,10 +3212,16 @@
     "'레버리지규제'본격시행앞둔국내증시,변동성완화될까",
     "기업이사람을자른뒤에야깨달은AI시대인재는",
     "미민주당\"트럼프행정부,삼성·SK하닉보조금정책재고는실책\"",
-    "李대통령“다른나라추격해온韓,이제선도자되겠다”"
+    "李대통령“다른나라추격해온韓,이제선도자되겠다”",
+    "반도체빼면불황인데…車·철강·조선까지하투확산에생산차질'비...",
+    "韓NCM강자는옛말…中영토확장에입지좁아진다",
+    "하반기실적반등시동거는K배터리…조기흑자전환기대↑",
+    "'리밸런싱재개'연기금,이달순매수…하이닉스사고삼전팔아",
+    "\"AI1만달러짜리1339달러로뚝\"…고가모델이탈속도",
+    "뛰는유가에물가불안우려…금리·관세·환율도'경고등'"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T06:30:34.286393+09:00"
+   "last_run": "2026-07-26T06:35:23.847193+09:00"
   }
  },
  "press_names": {
