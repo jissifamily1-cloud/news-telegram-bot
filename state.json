@@ -506,20 +506,13 @@
     [
      "2026-07-25T09:55:20.771852+09:00",
      "in Lee declares to supply chain leader vision Korea make"
+    ],
+    [
+     "2026-07-25T10:00:39.316527+09:00",
+     "실리콘밸리 샌프란 선언 네이버 현대차 총출동 삼성 울린"
     ]
    ],
    "seen_urls": [
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=852255",
-    "https://www.news1.kr/photos/8024041",
-    "https://www.viva100.com/article/20260724500520",
-    "https://www.news1.kr/photos/8024043",
-    "https://www.mt.co.kr/industry/2026/07/24/2026072412591197421",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1717683",
-    "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607240413&t=NNv",
-    "https://www.news1.kr/photos/8024042",
-    "https://www.news1.kr/sports/soccer/6238113",
-    "https://www.etnews.com/20260724000243",
-    "http://www.medical-tribune.co.kr/news/articleView.html?idxno=214629",
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700933",
     "http://www.rightknow.co.kr/news/articleView.html?idxno=34472",
     "https://magazine.hankyung.com/business/article/202607244385b",
@@ -2008,20 +2001,20 @@
     "https://www.ytn.co.kr/_ln/0101_202607250946226727",
     "https://www.sidae.com/article/2026072509305847725",
     "https://www.thescoop.co.kr/news/articleView.html?idxno=311025",
-    "https://en.yna.co.kr/view/AEN20260725001100315?input=2106m"
+    "https://en.yna.co.kr/view/AEN20260725001100315?input=2106m",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260725095839buT",
+    "https://biz.chosun.com/industry/company/2026/07/25/RC5AOQ5MPBAAPJJDIIJUXRMEJ4/",
+    "https://www.news1.kr/industry/general-industry/6238749",
+    "https://www.dailian.co.kr/news/view/1670825/?sc=Naver",
+    "https://www.etoday.co.kr/news/view/2607366",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1717760",
+    "https://www.businessplus.kr/news/articleView.html?idxno=114604",
+    "https://news.jtbc.co.kr/article/NB12310134?influxDiv=NAVER",
+    "http://www.fnnews.com/news/202607250947549263",
+    "https://www.nocutnews.co.kr/news/6553208",
+    "https://www.mk.co.kr/article/12107209"
    ],
    "seen_titles": [
-    "法\"최태원,노소영에게재산분할9440억원지급하라\"",
-    "코스피,'중동리스크'에급락...외인3조7000억매도[fn오후시황]",
-    "\"최태원,노소영에9440억원지급해야\"..법원,‘세기의재산분할’결...",
-    "[현장]최태원·노소영,파기환송심선고공판불출석",
-    "이대통령,샌프란시스코로출국…AI협력모색",
-    "입장밝히는최태원회장변호인",
-    "최태원회장,재산분할1조육박에…당혹스러운SK,자금조달은?",
-    "최태원측\"심려끼쳐송구…판결문검토후상고여부결정\"",
-    "인텔,삼성파운드리제쳤다…미국산반도체의힘",
-    "'베테랑'남태희,제주떠나호주브리즈번이적…새도전나선다",
-    "단일종목레버리지,31일부터'현금3000만원'있어야산다",
     "SK디스커버리,관계사연합봉사활동",
     "[속보]최태원,노소영에재산분할금9440억원지급해야...파기환송심선...",
     "최태원-노소영재산분할9440억…2심대비'4368억'감액",
@@ -3510,10 +3503,21 @@
     "이대통령,'샌프란시스코AI선언'발표...\"공급망핵심국가로도약\"",
     "\"한국투자자들,충동적도박꾼됐다\"…이코노미스트의경고",
     "월요일급락,회복,금요일폭락…롤러코스피'검은패턴'[주간증시해...",
-    "LeedeclaresvisiontomakeS.KorealeaderinAIsupplychain"
+    "LeedeclaresvisiontomakeS.KorealeaderinAIsupplychain",
+    "이대통령\"대체불가공급망핵심국가\"…샌프란AI선언",
+    "이재용·정의선·이해진,엔비디아본사서젠슨황만나",
+    "최태원\"3조달러규모대한민국3대메가프로젝트,허황아냐\"",
+    "이재용·정의선·이해진,美엔비디아본사서젠슨황만났다",
+    "글로벌AI빅4한자리에모은이대통령…\"지금이AI황금시대의시작\"",
+    "젠슨황\"엔비디아·SK,5000억달러파트너십발표\"",
+    "[뉴스+]이재용·정의선·이해진,美엔비디아본사전격회동…글로벌...",
+    "이대통령\"한국,대체불가글로벌AI공급망핵심국가도약할것\"",
+    "최태원SK회장\"3조달러투자,생소해도허황된건아니다\"",
+    "李,빅테크CEO회동…젠슨황\"SK와5천억달러파트너십\"",
+    "삼성·SK·현대차·네이버총출동…실리콘밸리울린‘샌프란AI선언’"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T09:55:20.771852+09:00"
+   "last_run": "2026-07-25T10:00:39.316527+09:00"
   }
  },
  "press_names": {
