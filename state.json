@@ -309,7 +309,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=83111",
     "https://www.kmib.co.kr/article/view.asp?arcid=1784881601&code=11131900&cp=nv",
     "https://www.fntimes.com/html/view.php?ud=202607242055229834141825007d_18",
     "https://www.slist.kr/news/articleView.html?idxno=754040",
@@ -1808,10 +1807,10 @@
     "https://www.yna.co.kr/view/AKR20260725027900017?input=1195m",
     "https://biz.heraldcorp.com/article/10819548",
     "https://www.news1.kr/industry/general-industry/6238983",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607260032&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607260032&t=NN",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3646261"
    ],
    "seen_titles": [
-    "뉴욕증시혼조출발…중동리스크·AI투자부담에관망세",
     "김용범“4700조보다더클수있다”…삼전닉스,美빅테크와초대형...",
     "[오늘과내일/한애란]인사이트부터삼전닉스까지",
     "추미애경기도지사…\"한중지방외교새모델함께만들자\"",
@@ -3310,10 +3309,11 @@
     "이통3사2분기희비…SKT회복·LGU+성장,KT주춤",
     "삼성전기·LG이노텍,4년만에‘1조클럽’복귀유력…내년부턴‘퀀텀...",
     "샌프란AI선언에쏠린눈…이들손잡으면독자'AI생태계'가능",
-    "'74조매도폭탄설'아직잠잠…큰손이쓸어담은'이종목'"
+    "'74조매도폭탄설'아직잠잠…큰손이쓸어담은'이종목'",
+    "이재명대통령,샌프란시스코AI서밋서반도체·GPU대규모투자협력..."
    ],
    "initialized": true,
-   "last_run": "2026-07-26T07:35:20.824434+09:00"
+   "last_run": "2026-07-26T07:40:26.383555+09:00"
   }
  },
  "press_names": {
