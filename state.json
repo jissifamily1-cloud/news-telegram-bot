@@ -137,7 +137,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12107010",
     "https://www.kmib.co.kr/article/view.asp?arcid=1784877997&code=11121100&cp=nv",
     "https://www.joongang.co.kr/article/25447943",
     "https://www.hankyung.com/article/2026072451151",
@@ -1636,10 +1635,10 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=267857",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=315583",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=315585",
-    "https://www.wolyo.co.kr/news/articleView.html?idxno=315584"
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=315584",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452471"
    ],
    "seen_titles": [
-    "김용범\"삼성·SK,미빅테크기업과메모리칩장기계약할것\"",
     "李대통령,美빅테크와AI협력본격화…김용범“의미있는계약나올...",
     "\"SKT,자회사'SK하이퍼'설립...AIDC사업본격화\"-KB證",
     "靑\"삼전·닉스,美빅테크와반도체장기공급계약...4700조넘을수도...",
@@ -3138,10 +3137,11 @@
     "SK-엔비디아,'5천억달러'AI인프라동맹…최태원\"세계최고AI팩토리...",
     "삼성,글로벌리더들앞에서290조AI동맹…브로드컴과HBM·2나노협력",
     "SK,엔비디아와5000억달러AI동맹…최태원\"한국을AI인프라허브로\"",
-    "차에서공장·도시까지지능화…정의선,현대차그룹'피지컬AI'청사진"
+    "차에서공장·도시까지지능화…정의선,현대차그룹'피지컬AI'청사진",
+    "李,'샌프란시스코AI선언'발표…\"韓,글로벌AI허브구축\""
    ],
    "initialized": true,
-   "last_run": "2026-07-26T01:20:27.252605+09:00"
+   "last_run": "2026-07-26T01:25:20.660868+09:00"
   }
  },
  "press_names": {
