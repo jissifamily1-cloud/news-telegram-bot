@@ -405,8 +405,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.junggi.co.kr/news/articleView.html?idxno=37240",
-    "https://biz.sbs.co.kr/article_hub/20000324560?division=NAVER",
     "https://www.womennews.co.kr/news/articleView.html?idxno=280326",
     "https://www.hankyung.com/article/2026072449981",
     "https://www.yna.co.kr/view/AKR20260724161800004?input=1195m",
@@ -1904,11 +1902,11 @@
     "https://www.news1.kr/industry/general-industry/6238930",
     "http://www.newslock.co.kr/news/articleView.html?idxno=133445",
     "https://www.tokenpost.kr/news/breaking/381251",
-    "https://www.joongang.co.kr/article/25448101"
+    "https://www.joongang.co.kr/article/25448101",
+    "https://www.datanet.co.kr/news/articleView.html?idxno=213313",
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5208194"
    ],
    "seen_titles": [
-    "'배터리업계숙원'직접환급도빠졌다",
-    "[유노유농]\"오랜만에만난특별한재능의선수\"...지도자들에게큰기...",
     "[단독]한국만'홈어드밴티지'없이경쟁…\"中전기차놀이터될판\"",
     "제주SK김륜성,'팀K리그'발탁...8월5일맨시티상대한다",
     "[연합뉴스이시각헤드라인]-18:00",
@@ -3406,10 +3404,12 @@
     "샌프란AI선언\"韓,메모리넘어글로벌AI생산기지도약신호탄\"",
     "SK,엔비디아·MS·앤트로픽과AI동맹…글로벌AI인프라협력확대",
     "삼성·SK하이닉스,미국빅테크와대규모AI칩거래발표예정",
-    "“지금은한국의황금기”...젠슨황블룸버그TV인터뷰Q&A[GMC]"
+    "“지금은한국의황금기”...젠슨황블룸버그TV인터뷰Q&A[GMC]",
+    "SK·엔비디아,AI팩토리·차세대메모리파트너십강화",
+    "\"한국개미들은'도박꾼'…후회해도늦었다\"외신경고"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T17:50:25.118509+09:00"
+   "last_run": "2026-07-25T17:55:23.248981+09:00"
   }
  },
  "press_names": {
