@@ -286,10 +286,13 @@
     [
      "2026-07-26T07:25:23.546096+09:00",
      "동맹 글로벌 5천억달러 한국을 엔비디아와 허브로 팩토리"
+    ],
+    [
+     "2026-07-26T07:30:35.015503+09:00",
+     "만들 없으면 세계산업 선도국 반도체 대통령 돌아가"
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/world/2026/07/24/2026072423265599661",
     "https://www.gokorea.kr/news/articleView.html?idxno=873076",
     "https://www.dt.co.kr/article/12074594",
     "https://www.newsis.com/view/NISX20260724_0003722863",
@@ -1788,10 +1791,10 @@
     "https://www.g-enews.com/view.php?ud=2026072607133638332bd56fbc3c_1",
     "https://www.tokenpost.kr/news/economy/381325",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4426853",
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=62008"
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=62008",
+    "https://www.newsis.com/view/NISX20260726_0003723324"
    ],
    "seen_titles": [
-    "[사설]日'적극재정'추진하자'엔'폭락…나랏빚이이렇게무섭다",
     "‘세기의이혼’끝났지만…최태원,9440억현금마련은이제부터",
     "김용범\"삼성·SK하이닉스,美기술기업과대규모계약발표\"",
     "신한은행,여름휴가철맞아'SOL트래블·SOL트립체크카드이벤트'시행...",
@@ -3290,10 +3293,11 @@
     "폭스바겐순이익33%급감...구조조정가속",
     "2026년원화,달러대비급반등...엔화와차별화된흐름",
     "다음주SK하이닉스·삼성전자실적발표…코스피향방은",
-    "SK,엔비디아와5천억달러AI팩토리동맹…\"한국을글로벌AI허브로\""
+    "SK,엔비디아와5천억달러AI팩토리동맹…\"한국을글로벌AI허브로\"",
+    "이대통령\"韓반도체없으면세계산업안돌아가…AI선도국꼭만들것..."
    ],
    "initialized": true,
-   "last_run": "2026-07-26T07:25:23.546096+09:00"
+   "last_run": "2026-07-26T07:30:35.015503+09:00"
   }
  },
  "press_names": {
