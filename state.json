@@ -553,13 +553,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686804",
-    "https://www.socialvalue.kr/news/view/1065594995156701",
-    "https://www.mk.co.kr/article/12106748",
-    "https://biz.sbs.co.kr/article_hub/20000324512?division=NAVER",
-    "http://www.joseilbo.com/news/news_read.php?uid=572574&class=53",
-    "https://www.sedaily.com/article/20071571",
-    "https://view.asiae.co.kr/article/2026072415493293185",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471317",
     "http://www.newslock.co.kr/news/articleView.html?idxno=133294",
     "https://www.epnc.co.kr/news/articleView.html?idxno=404702",
@@ -2052,16 +2045,16 @@
     "https://www.segye.com/newsView/20260725504344?OutUrl=naver",
     "https://www.hani.co.kr/arti/politics/bluehouse/1269923.html",
     "https://www.pressian.com/pages/articles/2026072511111600143",
-    "https://imnews.imbc.com/news/2026/econo/article/6840024_36932.html"
+    "https://imnews.imbc.com/news/2026/econo/article/6840024_36932.html",
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2290191",
+    "https://www.dkilbo.com/news/articleView.html?idxno=549537",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02197606645518128",
+    "https://www.news1.kr/politics/president/6238839",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000052169",
+    "https://www.news1.kr/politics/president/6238838",
+    "https://www.newsis.com/view/NISI20260725_0021376742"
    ],
    "seen_titles": [
-    "9천400억필요해진최태원…SK㈜지분매각검토할까",
-    "SK디스커버리,관계사연합봉사활동…사회공헌활동강화",
-    "추미애지사,장쑤성장친서에하루만에답신...\"한중지방정부협력...",
-    "[제약업계소식]7월24일",
-    "박완수경남지사,3169억국비건의·첨단산업메가투자총력",
-    "단일종목레버리지ETF,규제조기시행에도동반폭락",
-    "중동정세불안에주가급락…코스피6600대로밀려",
     "9년법정공방매듭…최태원,노소영에9440억원지급결정",
     "코스피·코스닥5%대급락마감‥'7천'또다시무너져",
     "[증시-마감]AI비용·확전우려에코스피5.7%급락…6,690대후퇴",
@@ -3554,10 +3547,17 @@
     "젠슨황“맥주한잔더?”이재명“공무원이라~”웃음꽃…글로벌A...",
     "김용범“국내·글로벌빅테크기업,1375조원반도체분야협력”",
     "李대통령\"한국은글로벌AI허브…새로운AI혜택분배모델고민\"",
-    "최태원\"한국,AI테스트베드될것‥비용낮추고부작용줄여야\""
+    "최태원\"한국,AI테스트베드될것‥비용낮추고부작용줄여야\"",
+    "[속보]靑\"9500억불반도체협력추진…3대메가프로젝트분야별글로...",
+    "\"우리는식구다\"···李대통령,빅테크리더들과'샌프란깐부회동'",
+    "김용범\"국내기업들,글로벌빅테크와9500억달러협력\"",
+    "삼성·SK,美빅테크와1372조반도체협력…삼성파운드리브로드컴칩생...",
+    "李대통령참석'AI서밋'에빅테크총출동",
+    "靑\"한-美빅테크,반도체9500억불·GPU200만장AI데이터센터협력추진...",
+    "'전략적AI팩토리및반도체협력MOU'"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T13:35:19.683997+09:00"
+   "last_run": "2026-07-25T13:40:25.431747+09:00"
   }
  },
  "press_names": {
