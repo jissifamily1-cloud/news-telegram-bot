@@ -602,22 +602,13 @@
     [
      "2026-07-25T10:55:20.724717+09:00",
      "모인 4대 짠다 샌프란시스코에 총수 공급망 대통령과"
+    ],
+    [
+     "2026-07-25T11:00:38.907182+09:00",
+     "구글과 가속 피지컬 청사진 엔비디아 제시 지능화 정의선 도시"
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20260724000133",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260723194801SN1",
-    "https://biz.heraldcorp.com/article/10818771",
-    "http://www.4th.kr/news/articleView.html?idxno=2115222",
-    "https://www.safetimes.co.kr/news/articleView.html?idxno=244436",
-    "http://www.sportsq.co.kr/news/articleView.html?idxno=496728",
-    "https://www.kbmaeil.com/article/20260724500214",
-    "http://www.econonews.co.kr/news/articleView.html?idxno=441762",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=307619",
-    "http://www.yonhapnewstv.co.kr/news/MYH202607241507592qR",
-    "https://www.lawtimes.co.kr/news/articleView.html?idxno=223964",
-    "https://www.dt.co.kr/article/12074539",
-    "https://www.dongponews.net/news/articleView.html?idxno=59476",
     "https://www.joongangenews.com/news/articleView.html?idxno=535258",
     "https://www.m-i.kr/news/articleView.html?idxno=1395088",
     "https://www.naeil.com/news/read/596492",
@@ -2104,19 +2095,22 @@
     "https://www.sedaily.com/article/20071763",
     "https://www.mk.co.kr/article/12107228",
     "https://news.tf.co.kr/read/economy/2346970.htm",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686966"
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686966",
+    "https://www.eroun.net/news/articleView.html?idxno=86243",
+    "https://zdnet.co.kr/view/?no=20260725102352",
+    "https://www.news1.kr/photos/8024894",
+    "https://www.news1.kr/photos/8024896",
+    "https://www.news1.kr/photos/8024889",
+    "https://www.news1.kr/photos/8024893",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254134&CMPT_CD=P0010",
+    "https://www.mk.co.kr/article/12107229",
+    "https://www.yna.co.kr/view/PYH20260725026900013?input=1196m",
+    "https://www.newsis.com/view/NISI20260725_0021376744",
+    "https://economist.co.kr/article/view/ecn202607250009",
+    "https://www.yna.co.kr/view/PYH20260725026700013?input=1196m",
+    "https://www.ddaily.co.kr/page/view/2026072510542799135"
    ],
    "seen_titles": [
-    "고려대오학주/안가빈교수팀소프트웨어공학최상위국제학술대회'FS...",
-    "[단독]정부'통신비혜택'압박···SKT,8월신규가입자e심비용면...",
-    "충남,삼성·SK첨단산업투자'전담팀장PM'전면배치…'202조체감행...",
-    "[CEO풍향계]'로봇사업깃발'노태문…'AI홈확장'류재철",
-    "충남도,‘첨단전략산업대도약’전담조직구성",
-    "노소영재산분할왜1조원가까이인정됐나",
-    "라포랩스'SK스토아인수'심사막판취하…회피성철회인가",
-    "팀K리그,맨시티상대로명문사냥재현?[쿠팡플레이시리즈]",
-    "최태원,노소영에9440억원재산분할…법원“노태우비자금은기여인...",
-    "법원\"최태원,노소영에9440억원재산분할\"…\"SK주식은공동재산\"",
     "1조3808억서9440억으로줄었지만…최태원측,다시대법원문두드리나",
     "최태원,재상고나설까…\"판결문검토후결정\"",
     "\"최태원,노소영에9,440억지급\"",
@@ -3606,10 +3600,20 @@
     "리사수“거의다왔다”…삼성,AMDHBM4수주눈앞",
     "이재용,정의선,이해진엔비디아본사서젠슨황과만났다",
     "이재용·정의선·이해진,美엔비디아본사서젠슨황회동",
-    "샌프란시스코에모인대통령과4대총수…AI공급망새판짠다"
+    "샌프란시스코에모인대통령과4대총수…AI공급망새판짠다",
+    "[샌프란시스코AI서밋]이재명\"대체불가한AI공급망허브되겠다\"…...",
+    "이대통령만난젠슨황\"SK그룹과730조원파트너십발표\"",
+    "발언하는최태원SK그룹회장",
+    "AI서밋발언하는최태원회장",
+    "공급·수요·연결·책임..이대통령'샌프란AI선언'의열쇠말",
+    "“국장못믿겠다”해외로쏠린개미…이달순매수4배폭증",
+    "이재명대통령,글로벌AI리더들과건배",
+    "대화하는정의선-이해진-최태원",
+    "이재용·최태원·정의선·이해진총출동…글로벌AI공급망협력‘속도...",
+    "정의선\"엔비디아·구글과피지컬AI가속\"…도시지능화청사진제시"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T10:55:20.724717+09:00"
+   "last_run": "2026-07-25T11:00:38.907182+09:00"
   }
  },
  "press_names": {
