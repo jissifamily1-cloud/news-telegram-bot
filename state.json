@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-25T05:55:20.377304+09:00",
-     "급락 블랙데이 코스피 유가급등에 코스닥"
-    ],
-    [
-     "2026-07-25T05:55:20.377304+09:00",
-     "출범 가치 독립법인 데이터센터 기대 재평가 SK텔레콤"
-    ],
-    [
      "2026-07-25T06:01:09.900623+09:00",
      "SK하이닉스 반도 ADR 필라델피아반도체지수 마이크론"
     ],
@@ -661,10 +653,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.newsworker.co.kr/news/articleView.html?idxno=438191",
-    "http://www.newstomato.com/ReadNews.aspx?no=1308134&inflow=N",
-    "https://www.wikitree.co.kr/articles/1148310",
-    "https://www.cctoday.co.kr/news/articleView.html?idxno=2233746",
     "https://biz.chosun.com/stock/stock_general/2026/07/24/GPXKVKXL4FE33ANPWNLBV4SYGY/",
     "https://www.businesspost.co.kr/BP?command=article_view&num=443091",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596438",
@@ -2160,13 +2148,13 @@
     "https://www.econovill.com/news/articleView.html?idxno=746133",
     "https://www.kado.net/news/articleView.html?idxno=2063029",
     "https://www.newsis.com/view/NISI20260725_0021376736",
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2290187"
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2290187",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277711",
+    "https://www.sentv.co.kr/article/view/sentv202607250006",
+    "https://www.ikbc.co.kr/article/view/kbc202607250017",
+    "https://www.g-enews.com/view.php?ud=202607251149587325056c162803_1"
    ],
    "seen_titles": [
-    "최태원SK회장,노소영에9440억원지급판결…항소심보다4368억원감소",
-    "서울고법\"최태원,노소영에재산분할9440억현금지급\"",
-    "최태원회장SPC성과정책적으로규명한SSCI논문나와",
-    "‘충남첨단전략산업대도약전담조직’발족기업투자전과정지원",
     "[재계핫이슈]최태원·노소영9440억재산분할은'1대1무승부'…법리는...",
     "최태원·노소영파기환송심'9440억지급'판결...\"SK주식분할대상인정...",
     "[더벨][최태원-노소영이혼소송]'SK㈜주식'분할대상…9440억현금으로...",
@@ -3662,10 +3650,14 @@
     "[IT큐레이션]李대통령샌프란AI선언톺아보니",
     "이대통령,빅테크CEO들과'AI깐부회동'…피시앤칩스·맥주만찬",
     "악수하는이재명대통령과젠슨황엔비디아CEO",
-    "李대통령,빅테크수장들과'샌프란깐부회동'…피시앤칩스만찬가져"
+    "李대통령,빅테크수장들과'샌프란깐부회동'…피시앤칩스만찬가져",
+    "이재명대통령\"한국,글로벌AI공급망핵심국가도약\"",
+    "서학개미이달미국주식순매수4배증가…국내예탁금은감소",
+    "李대통령,'샌프란깐부회동'…글로벌AI리더와'피시앤칩스만찬'",
+    "李대통령,AI서밋후글로벌빅테크기업CEO들과‘피시앤칩스만찬’"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T11:50:22.982542+09:00"
+   "last_run": "2026-07-25T11:55:21.046292+09:00"
   }
  },
  "press_names": {
