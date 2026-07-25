@@ -282,11 +282,13 @@
     [
      "2026-07-26T07:20:28.840187+09:00",
      "원화 차별화된 달러 엔화와 대비 흐름 급반등 2026년"
+    ],
+    [
+     "2026-07-26T07:25:23.546096+09:00",
+     "동맹 글로벌 5천억달러 한국을 엔비디아와 허브로 팩토리"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000324590?division=NAVER",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16145074",
     "https://www.mt.co.kr/world/2026/07/24/2026072423265599661",
     "https://www.gokorea.kr/news/articleView.html?idxno=873076",
     "https://www.dt.co.kr/article/12074594",
@@ -1784,11 +1786,11 @@
     "https://www.slist.kr/news/articleView.html?idxno=754210",
     "http://www.metroseoul.co.kr/article/20260726500003",
     "https://www.g-enews.com/view.php?ud=2026072607133638332bd56fbc3c_1",
-    "https://www.tokenpost.kr/news/economy/381325"
+    "https://www.tokenpost.kr/news/economy/381325",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426853",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=62008"
    ],
    "seen_titles": [
-    "“한국서가장비싼이혼,AI붐더큰몫확보무산”…외신최태원·노...",
-    "계좌녹자놀랐나…13조몰린삼전닉스레버리지,자금유입'뚝'[분석...",
     "[사설]日'적극재정'추진하자'엔'폭락…나랏빚이이렇게무섭다",
     "‘세기의이혼’끝났지만…최태원,9440억현금마련은이제부터",
     "김용범\"삼성·SK하이닉스,美기술기업과대규모계약발표\"",
@@ -3286,10 +3288,12 @@
     "한미빅테크,1400조원'AI동맹'…반도체·AI공급망구축본격화",
     "\"하루걸러사이드카\"...7월코스피,변동성시험대",
     "폭스바겐순이익33%급감...구조조정가속",
-    "2026년원화,달러대비급반등...엔화와차별화된흐름"
+    "2026년원화,달러대비급반등...엔화와차별화된흐름",
+    "다음주SK하이닉스·삼성전자실적발표…코스피향방은",
+    "SK,엔비디아와5천억달러AI팩토리동맹…\"한국을글로벌AI허브로\""
    ],
    "initialized": true,
-   "last_run": "2026-07-26T07:20:28.840187+09:00"
+   "last_run": "2026-07-26T07:25:23.546096+09:00"
   }
  },
  "press_names": {
