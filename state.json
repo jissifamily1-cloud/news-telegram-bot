@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-25T18:31:03.615887+09:00",
-     "오픈 모델 미토스 폐쇄 당국과 청와대 논의중 앤트로픽"
-    ],
-    [
      "2026-07-25T18:40:28.636335+09:00",
      "글로벌 계약 2000억달러 쏟아졌다 5000억달러 삼성"
     ],
@@ -177,7 +173,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ekn.kr/web/view.php?key=20260724021485932",
     "https://www.seoul.co.kr/news/politics/president/2026/07/24/20260724500351?wlog_tag3=naver",
     "https://www.hani.co.kr/arti/politics/politics_general/1269894.html",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4426769",
@@ -1676,10 +1671,10 @@
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=83136",
     "http://www.stoo.com/article.php?aid=107930099136",
     "https://www.cbci.co.kr/news/articleView.html?idxno=591875",
-    "https://news.tf.co.kr/read/economy/2347020.htm"
+    "https://news.tf.co.kr/read/economy/2347020.htm",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=267857"
    ],
    "seen_titles": [
-    "'노태우비자금300억'제외해도…\"SK주식,분할대상\"",
     "'4,700조AI프로젝트'구체화…삼성·SK장기공급계약나온다",
     "강달러·유가급등에도SK하이닉스ADR효과↑...원·달러환율,이틀연...",
     "'추적60분'성과급계급사회,박탈감느끼는사람들",
@@ -3178,10 +3173,11 @@
     "[더페어돋보기]외인순매도전환에증시출렁…전기전자·IT에쏠린매...",
     "베테랑미드필더남태희,제주떠나호주브리즈번으로이적…1+1년계약",
     "[기업家]SK그룹⑯ㅣ7500억달러협력본격화…AI생태계확장속도전",
-    "[비즈토크<하>]\"그거가지고되겠냐\"李불호령에…레버리지ETF규제딜..."
+    "[비즈토크<하>]\"그거가지고되겠냐\"李불호령에…레버리지ETF규제딜...",
+    "SK-엔비디아,'5천억달러'AI인프라동맹…최태원\"세계최고AI팩토리..."
    ],
    "initialized": true,
-   "last_run": "2026-07-26T00:30:33.811144+09:00"
+   "last_run": "2026-07-26T00:35:21.844172+09:00"
   }
  },
  "press_names": {
