@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-25T16:05:23.825986+09:00",
-     "향해 하나 대통령 샌프란까지 뻔한 소리 선언 가서 장동혁"
-    ],
-    [
-     "2026-07-25T16:05:23.825986+09:00",
-     "반복된 리스크에 증시 사이드카 흔들린 중동"
-    ],
-    [
-     "2026-07-25T16:05:23.825986+09:00",
-     "WHRC 전기 만들고 SOFC 식히고 핵심은 데이터센터"
-    ],
-    [
      "2026-07-25T16:10:29.224497+09:00",
      "글로벌 빅테크 이해진에 독립투사 인터넷 자본이"
     ],
@@ -226,13 +214,17 @@
     [
      "2026-07-25T22:00:40.043636+09:00",
      "있겠지만 1부리그 감독 로테이션 차두리 앞둔 팀과 격돌"
+    ],
+    [
+     "2026-07-25T22:10:26.369305+09:00",
+     "지방정부 답신 한중 장쑤성장에 만들자 모범 협력 경기도지사 추미애"
+    ],
+    [
+     "2026-07-25T22:10:26.369305+09:00",
+     "7600선 반도체 코스피 실적이 다음주 방향 가른다"
     ]
    ],
    "seen_urls": [
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/24/2026072490299.html",
-    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208087",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452387",
-    "https://www.sportschosun.com/football/2026-07-24/202607240100150730009622",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008673930&plink=ORI&cooper=NAVER",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=273577",
     "https://www.koreajoongangdaily.com/business/court-orders-sk-chairman-to-pay-exwife-944-billion-won/12790728",
@@ -1728,13 +1720,13 @@
     "https://www.livebiz.today/news/articleView.html?idxno=203588",
     "https://www.yna.co.kr/view/AKR20260725057700007?input=1195m",
     "https://www.topstarnews.net/news/articleView.html?idxno=16145618",
-    "https://www.besteleven.com/news/articleView.html?idxno=310401"
+    "https://www.besteleven.com/news/articleView.html?idxno=310401",
+    "https://www.newsis.com/view/NISX20260725_0003723269",
+    "https://www.ajunews.com/view/20260725155251373",
+    "http://www.newstown.co.kr/news/articleView.html?idxno=710344",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607250270&t=NN"
    ],
    "seen_titles": [
-    "성과급계급사회,나만가난해지고있다?···‘6억VS600만원’新계...",
-    "\"최태원,노소영에재산분할금9440억원지급\"",
-    "\"최고점일때다팔았다\"최화정'삼전닉스'대박소식에엄정화X홍진경...",
-    "[뉴스추적]SK주식5배올랐는데…2024년4월주가적용한이유는?",
     "665억→1조3천→9440억…재산분할액'널뛰기'이유는?",
     "3000만원예탁금올려도…국민59%\"레버리지ETF보완책불충분\"",
     "최태원-노소영'세기의이혼',재산분할금1조3808억→9440억…'SK주식...",
@@ -3230,10 +3222,14 @@
     "韓美빅테크,1천400조원AI동맹…삼성·SK·네이버·현대차,엔비디아...",
     "K리그1전북,포항2-0잡고2위로…선두FC서울과9점차",
     "'기티스결승골·김영빈쐐기포'…전북,포항제압하고2위도약",
-    "[BE.현장]1부리그팀과격돌앞둔차두리감독,\"로테이션있겠지만,긴..."
+    "[BE.현장]1부리그팀과격돌앞둔차두리감독,\"로테이션있겠지만,긴...",
+    "K리그1전북,포항에2-0승리…선두서울과승점9점차",
+    "[아주경제오늘의뉴스종합]삼성·SK,글로벌빅테크와1390조협력…A...",
+    "추미애경기도지사,장쑤성장에답신…\"한중지방정부협력모범만들자...",
+    "\"코스피6700~7600선\"…다음주반도체실적이방향가른다"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T22:05:22.790637+09:00"
+   "last_run": "2026-07-25T22:10:26.369305+09:00"
   }
  },
  "press_names": {
