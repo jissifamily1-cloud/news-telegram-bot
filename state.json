@@ -494,13 +494,13 @@
     [
      "2026-07-25T16:15:27.239242+09:00",
      "삼성 회동 샌프란시스코 될까 오픈AI도 깐부 눈길"
+    ],
+    [
+     "2026-07-25T16:20:26.174964+09:00",
+     "이코노미스트지의 일침 한국 같다 카지노 주식시장"
     ]
    ],
    "seen_urls": [
-    "https://www.kukinews.com/article/view/kuk202607240148",
-    "https://www.mk.co.kr/article/12106865",
-    "https://www.mk.co.kr/article/12106861",
-    "https://www.sedaily.com/article/20071563",
     "https://gamefocus.co.kr/detail.php?number=177729",
     "https://www.dailian.co.kr/news/view/1670765/?sc=Naver",
     "https://www.sentv.co.kr/article/view/sentv202607240133",
@@ -1996,13 +1996,13 @@
     "https://www.aitimes.com/news/articleView.html?idxno=213173",
     "https://www.aitimes.kr/news/articleView.html?idxno=41161",
     "https://www.ddaily.co.kr/page/view/2026072516082405997",
-    "https://www.sisajournal.com/news/articleView.html?idxno=381132"
+    "https://www.sisajournal.com/news/articleView.html?idxno=381132",
+    "https://www.koreaittimes.com/news/articleView.html?idxno=155473",
+    "http://www.inews24.com/view/1988734",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02332086645518128",
+    "https://www.munhwa.com/article/11604961"
    ],
    "seen_titles": [
-    "SK최태원,젠슨황과'AI서밋'앞두고미국서전방위협력재확인",
-    "[로짓에서]트랜스포머이전의쇼클리방정식:AI문명의시작",
-    "'조정장'에다시늘어나는서학개미,SK하이닉스도국내주식아닌미국...",
-    "[판결]법원\"최태원,노소영에재산분할금9440억원현금지급해야\"",
     "[오늘의행정일기]추미애경기지사,中장쑤성장과친서교환“한중...",
     "최태원·젠슨황,AI서밋하루앞두고실리콘밸리서만찬",
     "66%싹쓸이삼성vs플랫폼잡은LG…1조ESS시장'삼각혈투'",
@@ -3498,10 +3498,14 @@
     "'샌프란시스코AI서밋'서한국-빅테크협약6건체결…\"반도체부터AX까...",
     "이대통령,\"대한민국AI대전환함께하자\"..아모데이·올트먼·젠슨황...",
     "李대통령\"우리는식구\"…젠슨황·이재용·최태원·정의선과'샌프란깐...",
-    "삼성-오픈AI도'깐부'될까…샌프란시스코회동'눈길'"
+    "삼성-오픈AI도'깐부'될까…샌프란시스코회동'눈길'",
+    "SK,실리콘밸리에서AI인프라동맹확대…엔비디아·MS·AWS와'메가프...",
+    "삼성·SK,빅테크와1375조반도체동맹…'AI3대프로젝트'가동(종합)",
+    "삼성·SK,1400조메모리장기계약…불황사이클옅어진다(종합)",
+    "“한국주식시장‘카지노’같다”…英이코노미스트지의일침"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T16:15:27.239242+09:00"
+   "last_run": "2026-07-25T16:20:26.174964+09:00"
   }
  },
  "press_names": {
