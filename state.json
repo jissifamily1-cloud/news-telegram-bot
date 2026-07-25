@@ -525,11 +525,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/it-science/ict/2026/07/24/PAEQM2UTBJCOXIC5EI3JFEC5J4/",
-    "https://sports.hankooki.com/news/articleView.html?idxno=6936911",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04838006645517800",
-    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005886732",
-    "http://www.babytimes.co.kr/news/articleView.html?idxno=73647",
     "http://www.newstomato.com/ReadNews.aspx?no=1308151&inflow=N",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=388856",
     "https://www.businesspost.co.kr/BP?command=article_view&num=443124",
@@ -2024,14 +2019,14 @@
     "https://www.aitimes.com/news/articleView.html?idxno=213170",
     "http://www.newstomato.com/ReadNews.aspx?no=1308199&inflow=N",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674570&plink=ORI&cooper=NAVER",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607250300&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607250300&t=NN",
+    "https://www.sedaily.com/article/20071808",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607250301&t=NN",
+    "https://www.newscj.com/news/articleView.html?idxno=3419840",
+    "https://www.e-science.co.kr/news/articleView.html?idxno=132438",
+    "https://www.lcnews.co.kr/news/articleView.html?idxno=205495"
    ],
    "seen_titles": [
-    "[40년만에돌아온슈퍼엔저上]엔화그림자벗어던진원화...'동조화'공...",
-    "[동원참치vs한투IMA,승계전쟁]③김남구'ROE18.5%·1조8200억배당'...",
-    "\"돈·배신얽힌K드라마\"...최태원·노소영이혼,외신도주목",
-    "엔비디아,美샌프란AI서밋서한국파트너들과AI미래비전제시",
-    "'깐부'최태원·젠슨황,한달만에美서또만났다",
     "李대통령,美샌프란시스코출국…빅테크CEO만나AI협력본격화",
     "또‘검은금요일’…외국인·기관5조‘팔자’에6700선붕괴",
     "[퇴근길머니]또다시'검은금요일'…수술대오른레버리지ETF",
@@ -3526,10 +3521,15 @@
     "[AI이슈트렌드]쿠팡화재·삼전닉스레버리지논란...BTS월드컵·영화...",
     "삼성·SK,미빅테크와1372조규모반도체협력‘맞손’",
     "청와대\"한국-글로벌빅테크기업,9천500억불반도체협력\"",
-    "\"韓개미는충동적도박꾼\"...외신레버리지투자'경고'"
+    "\"韓개미는충동적도박꾼\"...외신레버리지투자'경고'",
+    "이재용,올트먼과오픈AI본사서만난다…AI인프라·AX협력논의",
+    "삼성·SK,빅테크와'1390조'동맹…K-반도체초격차굳힌다",
+    "AI데이터센터판커진다…네이버14조·SKT2GW승부",
+    "SK,엔비디아·마이크로소프트와AI인프라동맹…'AI허브한국'승부수...",
+    "SK,엔비디아·MS·AWS·앤트로픽등과AI생태계확대나선다…'메가프..."
    ],
    "initialized": true,
-   "last_run": "2026-07-25T15:55:20.776893+09:00"
+   "last_run": "2026-07-25T16:00:38.428790+09:00"
   }
  },
  "press_names": {
