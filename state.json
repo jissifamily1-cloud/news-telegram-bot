@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-25T07:15:25.383408+09:00",
-     "D램 중국 CXMT 상회 서버용 가격 삼성전자 상승"
-    ],
-    [
-     "2026-07-25T07:15:25.383408+09:00",
-     "미국 대통령 연쇄 도착 회동 젠슨 이재명"
-    ],
-    [
      "2026-07-25T07:20:25.305412+09:00",
      "가격 급락은 올라간다 반도체주 비이성적"
     ],
@@ -558,18 +550,13 @@
     [
      "2026-07-25T13:10:27.293988+09:00",
      "데이터센터 전세계 많은 메모리 테스트베드 최태원"
+    ],
+    [
+     "2026-07-25T13:15:26.921536+09:00",
+     "협력 기업과 9천500억불 글로벌빅테크 반도체 국내 청와대 기업"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH20260724155257wkt",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=205477",
-    "https://view.asiae.co.kr/article/2026072414381090311",
-    "https://economist.co.kr/article/view/ecn202607240025",
-    "https://www.etoday.co.kr/news/view/2607240",
-    "https://news.dealsitetv.com/articles/173751",
-    "http://www.metroseoul.co.kr/article/20260724500129",
-    "https://www.dt.co.kr/article/12074551",
-    "https://www.etoday.co.kr/news/view/2607237",
     "https://www.mediapen.com/news/view/1112081",
     "https://www.ekn.kr/web/view.php?key=20260724024145739",
     "https://www.tokenpost.kr/news/briefing/380909",
@@ -2060,18 +2047,18 @@
     "http://www.yonhapnewstv.co.kr/news/MYH20260725130529JbN",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4426829",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620035",
-    "https://biz.sbs.co.kr/article_hub/20000324619?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000324619?division=NAVER",
+    "https://www.mydaily.co.kr/page/view/2026072513102693981",
+    "https://www.econovill.com/news/articleView.html?idxno=746136",
+    "https://www.yna.co.kr/view/AKR20260725029051001?input=1195m",
+    "https://www.ajunews.com/view/20260725130836303",
+    "https://view.asiae.co.kr/article/2026072513120351833",
+    "https://www.korea.kr/news/policyNewsView.do?newsId=148968779&call_from=naver_news",
+    "https://www.dt.co.kr/article/12074645",
+    "https://www.ytn.co.kr/_ln/0101_202607251305476852",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674472&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "‘매도사이드카’코스피5%하락마감…삼전·하닉8%급락[마켓시그...",
-    "SK케미칼,폐현수막자원순환생태계키운다…협력사공개모집",
-    "최태원회장,노소영에9440억재산분할…파기환송심판결",
-    "4000억줄어든재산분할···부담줄인최태원회장",
-    "코스피,외인팔자에'검은금요일'…6700아래로뚝",
-    "유가·미국채금리동반상승…환율한숨돌렸지만금리불확실성고조",
-    "[WIKI현장]법원\"최태원SK회장,노소영에재산분할금9440억원지급하...",
-    "중동발유가급등에코스피·코스닥동반5%대'급락'",
-    "[EBN데이터센터]코스피6690.62마감...반도체·자동차급락에하루만...",
     "SK주식결국포함…최태원,9,440억원재산분할",
     "코스피6690.62로5.72%급락…7000선하루만에붕괴",
     "[오늘증시]6%밀린코스피,삼전닉스8%후퇴…올해만사이드카41번",
@@ -3562,10 +3549,19 @@
     "[토요와이드]이대통령,AI빅딜…엔비디아·SK5천억달러파트너십",
     "김용범\"SK,엔비디아등과향후5년간1천85조규모반도체공급협력\"",
     "[속보]청와대“삼성·SK,글로벌빅테크기업들과9,500억불반도체...",
-    "최태원\"韓,전세계AI테스트베드…더많은메모리·AI데이터센터만..."
+    "최태원\"韓,전세계AI테스트베드…더많은메모리·AI데이터센터만...",
+    "이재용·최태원·정의선·이해진,젠슨황과‘AI깐부회동’…엔비디아...",
+    "정의선회장,샌프란AI서밋서\"피지컬AI솔루션기업전환\"선언",
+    "李대통령,빅테크CEO들과'샌프란깐부회동'…\"우리는식구다\"(종합)",
+    "李,글로벌빅테크CEO들과'피시앤칩스회동'…\"우리는식구다\"",
+    "[속보]청와대\"SK,엔비디아등빅테크기업과7500억달러반도체공급...",
+    "이대통령\"한국,앤트로픽최적의파트너…협력확대기대\"",
+    "[속보]SK,엔비디아등빅테크기업들과7500억달러반도체공급협력",
+    "대통령'샌프란AI선언'...여야,보완수사권충돌지속",
+    "[속보]청와대\"국내기업과글로벌빅테크기업,9천500억불반도체협력..."
    ],
    "initialized": true,
-   "last_run": "2026-07-25T13:10:27.293988+09:00"
+   "last_run": "2026-07-25T13:15:26.921536+09:00"
   }
  },
  "press_names": {
