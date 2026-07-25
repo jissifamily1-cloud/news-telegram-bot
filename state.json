@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-25T06:25:19.810800+09:00",
-     "AI칩 반도체주 메모리주 장비주 출렁 CHIP 추락 뉴욕증시"
-    ],
-    [
      "2026-07-25T06:30:35.085313+09:00",
      "최고가 실패 확보 이혼 10년 한국 외신 소송"
     ],
@@ -606,16 +602,13 @@
     [
      "2026-07-25T12:15:27.492793+09:00",
      "삼전닉스 줄여라 갈아타는 엑시트 비중 월가 본격화 코리아"
+    ],
+    [
+     "2026-07-25T12:25:22.260018+09:00",
+     "최태원 명령 9천440억원 노소영 분할 9년만 결론 이혼소송"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000324493?division=NAVER",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607241523197940424",
-    "https://www.news1.kr/photos/8024003",
-    "http://www.thevaluenews.co.kr/news/view.php?idx=200290",
-    "https://en.yna.co.kr/view/AEN20260724009000320?input=2106m",
-    "https://kookbang.dema.mil.kr/newsWeb/20260724/7/ATCE_CTGR_0030010000/view.do",
-    "https://www.koreaherald.com/article/10819431",
     "http://www.iminju.net/news/articleView.html?idxno=167105",
     "https://www.news1.kr/society/court-prosecution/6238220",
     "https://www.korea.kr/news/policyNewsView.do?newsId=148968739&call_from=naver_news",
@@ -2108,16 +2101,16 @@
     "https://www.gokorea.kr/news/articleView.html?idxno=873104",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254146&CMPT_CD=P0010",
     "https://www.news1.kr/politics/president/6238809",
-    "https://www.greened.kr/news/articleView.html?idxno=345907"
+    "https://www.greened.kr/news/articleView.html?idxno=345907",
+    "https://www.ekn.kr/web/view.php?key=20260725023206061",
+    "https://www.joongangenews.com/news/articleView.html?idxno=535400",
+    "https://www.cwn.kr/news/articleView.html?idxno=51325",
+    "http://www.whitepaper.co.kr/news/articleView.html?idxno=264963",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674432&plink=ORI&cooper=NAVER",
+    "https://www.cwn.kr/news/articleView.html?idxno=51339",
+    "https://www.cwn.kr/news/articleView.html?idxno=51322"
    ],
    "seen_titles": [
-    "에쓰오일,정부주도감산국면에'샤힌프로젝트'마무리…9조투자금...",
-    "TổngthốngLeeJaeMyunglênđườngcôngduMỹ-NamMỹ7đêm...",
-    "김성환\"반도체팹4개,기존전력인프라로감당...29년까지2개는운...",
-    "\"AI글라스시장먼저잡자\"…통신3사AI서비스경쟁새국면",
-    "법원\"최태원,노소영에재산분할금9440억원현금지급해야\"(종합)",
-    "SK주식도재산분할…\"최태원,9천440억지급\"",
-    "코스피,5%넘게급락하며6690선마감…외인·기관매도에반도체'와르...",
     "최태원,노소영에9400억재산분할‘최종판결’…최회장측“심혈끼...",
     "법원\"최태원,노소영에재산분할금9440억원지급\"…SK주식분할대상...",
     "경기도·장쑤성친서외교…\"한중전략적협력에새활력\"",
@@ -3610,10 +3603,17 @@
     "엔비디아-한국대형파트너십…AI혁신의새지평열리다",
     "이대통령만난젠슨황\"SK그룹과5천억달러파트너십발표\"",
     "李대통령·젠슨황\"우리는식구\"건배…AI리더들'미국판깐부회동'",
-    "이재용·정의선·이해진,젠슨황과엔비디아본사회동…샌프란시스코..."
+    "이재용·정의선·이해진,젠슨황과엔비디아본사회동…샌프란시스코...",
+    "이번엔피시앤칩스…李대통령,빅테크CEO들과‘샌프란깐부회동’",
+    "7월4주차SK네트웍스주가,급등후상승분반납",
+    "'AI협력가속화'…이재명·젠슨황,샌프란시스코서'AI선언'이끌어낸...",
+    "젠슨황,李대통령만나\"엔비디아·SK,5000억달러파트너십발표\"",
+    "이대통령-젠슨황회동…\"SK-엔비디아5천억달러협력\"",
+    "'HBM세계1위'…한국,AI3강도약선언에달렸다",
+    "'9천440억원분할명령'…최태원·노소영이혼소송9년만결론"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T12:20:25.844053+09:00"
+   "last_run": "2026-07-25T12:25:22.260018+09:00"
   }
  },
  "press_names": {
