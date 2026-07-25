@@ -262,13 +262,21 @@
     [
      "2026-07-26T07:10:28.584008+09:00",
      "실적 반도체 메모리 눈앞 경신 호황에 SK하이닉스"
+    ],
+    [
+     "2026-07-26T07:15:28.695532+09:00",
+     "오픈AI 빅딜 동맹 HBM 올트먼 본사서 파운드리 이재용 논의"
+    ],
+    [
+     "2026-07-26T07:15:28.695532+09:00",
+     "장기협력 LOI 엔비디아와 AI인프라 메모리 MS와 5000억불"
+    ],
+    [
+     "2026-07-26T07:15:28.695532+09:00",
+     "빅딜 로봇 375조 성사 AI센터 메모리"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20071709",
-    "https://biz.heraldcorp.com/article/10819506",
-    "https://www.newscj.com/news/articleView.html?idxno=3419730",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=83128",
     "https://www.etnews.com/20260724000332",
     "https://www.donga.com/news/Opinion/article/all/20260724/134362021/2",
     "https://www.tournews21.com/news/articleView.html?idxno=139348",
@@ -1764,13 +1772,13 @@
     "https://www.huffingtonpost.kr/article/258975",
     "https://www.kizmom.com/news/articleView.html?idxno=111736",
     "https://www.sedaily.com/article/20071807",
-    "https://www.tokenpost.kr/news/tech/381324"
+    "https://www.tokenpost.kr/news/tech/381324",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6840100_37012.html",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=62007",
+    "https://thetracker.co.kr/View.aspx?No=4162194",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6840101_37012.html"
    ],
    "seen_titles": [
-    "외신도최태원·노소영판결주목…\"한국역사상가장비싼이혼\"",
-    "SKEternixsharessurgeonAIpowerdemandhopes",
-    "“한국역사상가장비싼이혼”⋯외신도최태원·노소영판결주목",
-    "김용범정책실장\"미래대응기금,수조원넘는규모\"",
     "삼성전자·SK하이닉스,7~8%급락하며반도체주조정압력",
     "하이닉스레버리지·인버스에6.8조쏠렸다…단일종목ETF'쏠림경고등...",
     "[이시각헤드라인]7월24일뉴스투나잇",
@@ -3266,10 +3274,14 @@
     "SK바이오팜안정적성장에도뇌전증치료제엑스코프리의존한계,이동...",
     "국민연금'매도폭탄'없었다…SK하이닉스가장사고,SK스퀘어가장팔...",
     "10거래일연속사이드카…‘삼전닉스레버리지’규제통할까[선데이머...",
-    "SK하이닉스,메모리반도체호황에최대실적경신눈앞"
+    "SK하이닉스,메모리반도체호황에최대실적경신눈앞",
+    "\"한국,대체불가공급망\"‥샌프란AI선언",
+    "이재용·올트먼,오픈AI본사서'AI동맹'논의…HBM·파운드리빅딜주...",
+    "SK,엔비디아와5000억불AI인프라LOI...MS와메모리장기협력",
+    "메모리·AI센터·로봇‥1,375조'빅딜'성사"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T07:10:28.584008+09:00"
+   "last_run": "2026-07-26T07:15:28.695532+09:00"
   }
  },
  "press_names": {
