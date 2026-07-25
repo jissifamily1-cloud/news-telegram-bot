@@ -174,12 +174,17 @@
     [
      "2026-07-25T23:55:33.366266+09:00",
      "공급까지 동맹 엔비디아 확보한다 5000억 달러 HBM"
+    ],
+    [
+     "2026-07-26T00:05:21.649136+09:00",
+     "삼성전자 500억달러 협력 반도체 글로벌 SK그룹 발표 동맹 규모"
+    ],
+    [
+     "2026-07-26T00:05:21.649136+09:00",
+     "순매도 전환에 쏠린 출렁 전기전자 증시 외인 IT에"
     ]
    ],
    "seen_urls": [
-    "https://www.khan.co.kr/article/202607242010001",
-    "https://www.mt.co.kr/politics/2026/07/24/2026072415335150695",
-    "https://www.sedaily.com/article/20071676",
     "http://www.yonhapnewstv.co.kr/news/AKR20260724155207qDQ",
     "https://www.ajunews.com/view/20260724125044472",
     "https://www.news1.kr/politics/president/6238480",
@@ -1676,12 +1681,12 @@
     "https://www.koreareport.co.kr/news/articleView.html?idxno=51687",
     "https://www.etoday.co.kr/news/view/2607419",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471454",
-    "https://www.wikitree.co.kr/articles/1148456"
+    "https://www.wikitree.co.kr/articles/1148456",
+    "https://news.tf.co.kr/read/economy/2347021.htm",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=83169",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=83136"
    ],
    "seen_titles": [
-    "'노태우비자금'빠졌지만‥노소영기여도,SK주가상승영향미쳐",
-    "9년만에결론난'세기의이혼'‥\"최태원9천440억원지급하라\"",
-    "6월원화실질실효환율17년만에최저…64개국중日빼곤최하위",
     "韓개미,SK하닉ADR9000억순매수에…“왜자멸행위?”",
     "\"우리학교는로봇이지켜줘요\"…도구로보틱스,'패트로버'투입",
     "'세기의이혼'선고…'현금지급'판결이유는",
@@ -3178,10 +3183,13 @@
     "이대통령,미국샌프란시스코서AI거물들과'맥주만찬'",
     "[김남현의채권썰]중동·백투백우려가끌어올린금리,숨고르기시간",
     "SK텔레콤2분기호실적전망…성장스토리는아직검증중",
-    "SK-엔비디아5000억달러동맹…HBM공급까지확보한다"
+    "SK-엔비디아5000억달러동맹…HBM공급까지확보한다",
+    "[비즈토크<상>]이재명대통령,보유세강화시사…세제개편대수술예...",
+    "삼성전자·SK그룹,9,500억달러규모AI협력발표…글로벌반도체동맹...",
+    "[더페어돋보기]외인순매도전환에증시출렁…전기전자·IT에쏠린매..."
    ],
    "initialized": true,
-   "last_run": "2026-07-26T00:00:58.044490+09:00"
+   "last_run": "2026-07-26T00:05:21.649136+09:00"
   }
  },
  "press_names": {
