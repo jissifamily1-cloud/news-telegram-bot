@@ -170,10 +170,13 @@
     [
      "2026-07-25T23:40:29.651536+09:00",
      "아직 SK텔레콤 전망 2분기 스토리는 호실적 성장 검증"
+    ],
+    [
+     "2026-07-25T23:55:33.366266+09:00",
+     "공급까지 동맹 엔비디아 확보한다 5000억 달러 HBM"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260724_0003722210",
     "https://www.khan.co.kr/article/202607242010001",
     "https://www.mt.co.kr/politics/2026/07/24/2026072415335150695",
     "https://www.sedaily.com/article/20071676",
@@ -1672,10 +1675,10 @@
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=431695",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=51687",
     "https://www.etoday.co.kr/news/view/2607419",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471454"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471454",
+    "https://www.wikitree.co.kr/articles/1148456"
    ],
    "seen_titles": [
-    "법원\"최태원,노소영에재산분할금9440억원지급\"…SK주식도분할대...",
     "'노태우비자금'빠졌지만‥노소영기여도,SK주가상승영향미쳐",
     "9년만에결론난'세기의이혼'‥\"최태원9천440억원지급하라\"",
     "6월원화실질실효환율17년만에최저…64개국중日빼곤최하위",
@@ -3174,10 +3177,11 @@
     "'중동메시'남태희,호주행…제주떠나브리즈번과1+1년계약",
     "이대통령,미국샌프란시스코서AI거물들과'맥주만찬'",
     "[김남현의채권썰]중동·백투백우려가끌어올린금리,숨고르기시간",
-    "SK텔레콤2분기호실적전망…성장스토리는아직검증중"
+    "SK텔레콤2분기호실적전망…성장스토리는아직검증중",
+    "SK-엔비디아5000억달러동맹…HBM공급까지확보한다"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T23:50:25.322657+09:00"
+   "last_run": "2026-07-25T23:55:33.366266+09:00"
   }
  },
  "press_names": {
