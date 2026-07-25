@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-25T10:00:39.316527+09:00",
-     "실리콘밸리 샌프란 선언 네이버 현대차 총출동 삼성 울린"
-    ],
-    [
-     "2026-07-25T10:05:19.832942+09:00",
-     "타나 티커머스 시동 청문회 전용 중기 급물살"
-    ],
-    [
-     "2026-07-25T10:05:19.832942+09:00",
-     "젠슨황 LLM 대한민국 위한 개발하겠다"
-    ],
-    [
-     "2026-07-25T10:05:19.832942+09:00",
-     "생산적금융 하반기 외국인대출 영업 돌입한 눈길 지방금융권"
-    ],
-    [
-     "2026-07-25T10:05:19.832942+09:00",
-     "위기의 민심 배종찬의 10명 돌렸다 진앙지는 6명은"
-    ],
-    [
      "2026-07-25T10:10:27.081614+09:00",
      "최태원과 치킨 먹은 많은 젠슨 달라 피자"
     ],
@@ -522,17 +502,21 @@
     [
      "2026-07-25T15:55:20.776893+09:00",
      "도박꾼 외신 충동적 개미는 경고 레버리지 투자"
+    ],
+    [
+     "2026-07-25T16:05:23.825986+09:00",
+     "향해 하나 대통령 샌프란까지 뻔한 소리 선언 가서 장동혁"
+    ],
+    [
+     "2026-07-25T16:05:23.825986+09:00",
+     "반복된 리스크에 증시 사이드카 흔들린 중동"
+    ],
+    [
+     "2026-07-25T16:05:23.825986+09:00",
+     "WHRC 전기 만들고 SOFC 식히고 핵심은 데이터센터"
     ]
    ],
    "seen_urls": [
-    "http://www.newstomato.com/ReadNews.aspx?no=1308151&inflow=N",
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=388856",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=443124",
-    "https://www.newsverse.kr/news/articleView.html?idxno=11012",
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=388854",
-    "https://biz.sbs.co.kr/article_hub/20000324550?division=NAVER",
-    "https://www.thereport.co.kr/news/articleView.html?idxno=89910",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=443137",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256530",
     "https://www.businesspost.co.kr/BP?command=article_view&num=443127",
     "https://news.koreanbar.or.kr/news/articleView.html?idxno=35929",
@@ -2024,17 +2008,17 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607250301&t=NN",
     "https://www.newscj.com/news/articleView.html?idxno=3419840",
     "https://www.e-science.co.kr/news/articleView.html?idxno=132438",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=205495"
+    "https://www.lcnews.co.kr/news/articleView.html?idxno=205495",
+    "https://www.m-i.kr/news/articleView.html?idxno=1395240",
+    "https://www.newspim.com/news/view/20260725000078",
+    "https://www.segye.com/newsView/20260725505475?OutUrl=naver",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260725160101yXP",
+    "https://view.asiae.co.kr/article/2026072515593672852",
+    "https://www.wikitree.co.kr/articles/1148426",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=724996",
+    "https://www.newsis.com/view/NISX20260720_0003715580"
    ],
    "seen_titles": [
-    "李대통령,美샌프란시스코출국…빅테크CEO만나AI협력본격화",
-    "또‘검은금요일’…외국인·기관5조‘팔자’에6700선붕괴",
-    "[퇴근길머니]또다시'검은금요일'…수술대오른레버리지ETF",
-    "최태원,노소영에9440억원재산분할어떻게마련할까",
-    "추미애지사,장쑤성장에답신...\"한중지방정부협력모범만들자\"",
-    "검은금의역습…코스피또'7천선'아래로",
-    "“800조반도체는광주,혐오시설은무안”…김산군수,이유있는군공...",
-    "“중동충격에코스피5.72%폭락”…외국인·기관5조원대‘매물폭탄...",
     "최태원,1조원육박하는거액재산분할금어떻게조달할까?",
     "모티프도독자AI개발마무리…독파모경쟁4파전윤곽",
     "中반도체굴기‘2막’…“2030년AI칩자급률70%”",
@@ -3526,10 +3510,18 @@
     "삼성·SK,빅테크와'1390조'동맹…K-반도체초격차굳힌다",
     "AI데이터센터판커진다…네이버14조·SKT2GW승부",
     "SK,엔비디아·마이크로소프트와AI인프라동맹…'AI허브한국'승부수...",
-    "SK,엔비디아·MS·AWS·앤트로픽등과AI생태계확대나선다…'메가프..."
+    "SK,엔비디아·MS·AWS·앤트로픽등과AI생태계확대나선다…'메가프...",
+    "SK그룹,엔비디아와'AI혈맹'강화…5000억달러협력",
+    "SK,엔비디아와5000억달러AI인프라동맹…MS·앤트로픽까지확장",
+    "“안사길다행인가,지금이바닥인가”…삼전·하닉7~8%급락에도월가...",
+    "SK,엔비디아와5천억달러이상규모AI인프라협력하기로",
+    "젠슨황,李대통령에\"한국증시다시오를것\"",
+    "장동혁,'AI선언'이대통령향해“뻔한소리왜샌프란까지가서하나...",
+    "[증시주간핫리뷰]사이드카반복된증시…중동리스크에흔들린한...",
+    "전기만들고열식히고…AI데이터센터핵심은SOFC·WHRC[짤막영상]"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T16:00:38.428790+09:00"
+   "last_run": "2026-07-25T16:05:23.825986+09:00"
   }
  },
  "press_names": {
