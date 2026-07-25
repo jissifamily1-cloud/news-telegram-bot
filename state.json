@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-25T17:05:21.988508+09:00",
-     "젠슨황에 한잔 공무원이라 맥주 대통령"
-    ],
-    [
-     "2026-07-25T17:05:21.988508+09:00",
-     "신혼부부 주식 축의금 카카오페이증권 선봬 결혼하고 받아가세요"
-    ],
-    [
      "2026-07-25T17:10:28.881709+09:00",
      "글로벌 공급망 1391조 육성 배경훈 핵심 동맹 거점"
     ],
@@ -197,8 +189,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008673932&plink=ORI&cooper=NAVER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008673931&plink=ORI&cooper=NAVER",
     "https://www.sisaweek.com/news/articleView.html?idxno=236881",
     "https://www.betanews.net/article/view/beta202607240074",
     "https://www.gukjenews.com/news/articleView.html?idxno=3645724",
@@ -1696,11 +1686,11 @@
     "https://www.koreareport.co.kr/news/articleView.html?idxno=51685",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=852421",
     "https://sports.khan.co.kr/article/202607252255003?pt=nv",
-    "https://www.ytn.co.kr/_ln/0101_202607252222103223"
+    "https://www.ytn.co.kr/_ln/0101_202607252222103223",
+    "http://www.efnews.co.kr/news/articleView.html?idxno=131209",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=51686"
    ],
    "seen_titles": [
-    "'삼전닉스'7~8%대급락…환율은1460원대유지",
-    "유가급등에코스피5%급락…'삼전닉스'레버리지대책다음주조기시...",
     "박완수경남도지사,\"민선9기,첨단산업메가투자실현총력\"",
     "[오피셜]K리그떠난195cm수비수정태욱,태국우타이타니공식입단…...",
     "\"최태원,노소영에재산분할…9,440억원지급하라\"",
@@ -3198,10 +3188,12 @@
     "이대통령'샌프란시스코AI선언'…\"한국,AI공급망핵심국가로도약...",
     "전북,포항원정서2-0승…3경기만의승전고",
     "전북,포항의파상공세이겨내고2-0승리…강원제치고2위도약",
-    "민주,'신천지파장'내홍...국힘'멱살잡이'파장"
+    "민주,'신천지파장'내홍...국힘'멱살잡이'파장",
+    "李대통령,빅테크CEO들과CEO연쇄면담...반도체·AI공급망협력본격...",
+    "한미AI동맹,1400조투자시동…엔비디아·브로드컴·오픈AI'한국베팅..."
    ],
    "initialized": true,
-   "last_run": "2026-07-25T23:00:38.501722+09:00"
+   "last_run": "2026-07-25T23:05:23.432046+09:00"
   }
  },
  "press_names": {
