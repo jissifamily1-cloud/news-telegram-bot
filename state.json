@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-25T10:25:21.004852+09:00",
-     "현대차그룹 회장 발언하는 정의선"
-    ],
-    [
-     "2026-07-25T10:25:21.004852+09:00",
-     "금융지주플러스고배당 신한자산운용 SOL 주목 ETF"
-    ],
-    [
-     "2026-07-25T10:30:33.857469+09:00",
-     "빠르게 혁신 이재용 엔비디아와 결합하면 반도체"
-    ],
-    [
-     "2026-07-25T10:30:33.857469+09:00",
-     "동맹 총수 뭉친 3인 확대 엔비디아 유지"
-    ],
-    [
-     "2026-07-25T10:30:33.857469+09:00",
-     "주범은 변동폭 삼전닉스 과거 대비 레버리지E 5배 유가100달러에"
-    ],
-    [
      "2026-07-25T10:35:23.871964+09:00",
      "감소 미국주식 서학개미는 104조로 4배 투자자예탁금 샀다"
     ],
@@ -490,15 +470,13 @@
     [
      "2026-07-25T16:25:19.633632+09:00",
      "정부 공감 역할 인프라 비전에 모두의 알트먼 중요 한국"
+    ],
+    [
+     "2026-07-25T16:30:35.847399+09:00",
+     "불가능 혁명 만난 CEO들 없인 허브 구상에 한국 글로벌"
     ]
    ],
    "seen_urls": [
-    "https://www.kukinews.com/article/view/kuk202607240151",
-    "https://www.ajunews.com/view/20260724173032997",
-    "http://www.finomy.com/news/articleView.html?idxno=257992",
-    "https://www.sidae.com/article/2026072417280079812",
-    "https://news.mtn.co.kr/news-detail/2026072416563038111",
-    "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520268",
     "https://www.bloter.net/news/articleView.html?idxno=668921",
     "https://news.cpbc.co.kr/article/1174555?division=NAVER",
     "https://www.hankyung.com/article/2026072449331",
@@ -1992,15 +1970,15 @@
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686973",
     "https://www.hankyung.com/article/202607255694i",
     "http://www.breaknews.com/1224389",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686974"
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686974",
+    "https://www.starnewskorea.com/sports/2026/07/25/2026072516074479223",
+    "https://www.etnews.com/20260725000023",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=852411",
+    "https://www.segye.com/newsView/20260725505628?OutUrl=naver",
+    "https://news.mtn.co.kr/news-detail/2026072516233510193",
+    "https://view.asiae.co.kr/article/2026072516243800459"
    ],
    "seen_titles": [
-    "레버리지ETF‘광풍’꺾였나…삼전·닉스단일종목자금유입‘뚝’",
-    "정재헌SKTCEO\"AIDC'골든타임'…SK하이퍼로성과내겠다\"",
-    "최태원재산분할금9천440억원…SK주식도포함됐다[짤e몽땅]",
-    "삼성發로봇붐…ETF시장도들썩[한경프리미엄9TODAY]",
-    "[단독]추미애,용인반도체'용수'도사흘만에'초격차OK'...광주·용인...",
-    "[더벨][MarketWatch]'롤러코스피'에목표달성형비명…증권사,운용사...",
     "사이드카만66번째…‘미친변동성’덮친증시",
     "\"기업가치높일스타CEO찾아라\"사장단에힘싣는LG구광모회장",
     "AMD,AI서버개발시동…K반도체힘받나",
@@ -3494,10 +3472,16 @@
     "SK,빅테크5곳과AI반도체·데이터센터협력확대",
     "정의선“빅테크와협업해피지컬AI혁신생태계구축”…젠슨황과회...",
     "한국판부유세표적된초고가아파트...“빠른공급만이유일한해답”",
-    "샘알트먼\"한국정부'모두의AI'비전에공감…인프라역할중요\""
+    "샘알트먼\"한국정부'모두의AI'비전에공감…인프라역할중요\"",
+    "'韓홈런왕수술대'→2군서온'212HR타자'5번배치,\"베테랑들이젠...",
+    "李대통령,SFAI선언…“韓,신뢰할수있는AI공급망파트너로”",
+    "SK,엔비디아와5000억달러AI동맹",
+    "엔비디아찾은이재용·정의선·이해진,젠슨황과AI협력",
+    "SK,美빅테크들과7500억달러규모AI인프라협력",
+    "\"한국없인AI혁명불가능\"…李만난글로벌CEO들'AI허브'구상에화..."
    ],
    "initialized": true,
-   "last_run": "2026-07-25T16:25:19.633632+09:00"
+   "last_run": "2026-07-25T16:30:35.847399+09:00"
   }
  },
  "press_names": {
