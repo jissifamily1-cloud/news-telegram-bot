@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-25T15:15:24.528237+09:00",
-     "9500억불 악수 2경원 움직이는 사람들 나누다"
-    ],
-    [
-     "2026-07-25T15:15:24.528237+09:00",
-     "호주로 브리즈번에서 도전 새로운 떠나 남태희 제주"
-    ],
-    [
-     "2026-07-25T15:15:24.528237+09:00",
-     "Alliance Silicon in Micr Expands Valley Infrastructure with NVIDIA"
-    ],
-    [
-     "2026-07-25T15:15:24.528237+09:00",
-     "빨리 있어 젠슨 인허가 속도는 자신 데이터센터"
-    ],
-    [
      "2026-07-25T15:20:29.195297+09:00",
      "슈퍼사이클 올라탔지만 숫자의 동맹 함정 K반도체 1390조"
     ],
@@ -246,11 +230,13 @@
     [
      "2026-07-25T20:50:25.025787+09:00",
      "재반등론의 역설 기회 뉴욕증시 삼전닉스 월가는 매수"
+    ],
+    [
+     "2026-07-25T21:15:42.407254+09:00",
+     "어디에 기업 커진 협력 쓰나 투자금"
     ]
    ],
    "seen_urls": [
-    "https://sports.khan.co.kr/article/202607241923003?pt=nv",
-    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208086",
     "https://mhnse.com/news/articleView.html?idxno=1468870",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208088",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208105",
@@ -1748,11 +1734,11 @@
     "https://www.news1.kr/sports/soccer/6238998",
     "https://m.sports.naver.com/basketball/article/065/0000299981",
     "https://www.pennmike.com/news/articleView.html?idxno=124408",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=852417"
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=852417",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=738038",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620108"
    ],
    "seen_titles": [
-    "법원“최태원,노소영에9천440억원지급”…SK주식포함",
-    "SK지배구조지켰지만…9,440억마련은과제",
     "[아는기자]‘세기의소송’,사실상노소영판정승?",
     "[이슈체크]\"변동성에코스피지긋지긋\"…개인투자자,삼전·닉스팔고...",
     "“9440억원‘현금’으로지급하라”",
@@ -3250,10 +3236,12 @@
     "'베테랑'남태희,호주브리즈번이적…1+1년계약",
     "강동SKU12,한·일쇼케이스3위…일본농구체감한값진경험",
     "[금융핫이슈]삼전닉스재반등론의역설…월가는'매수기회',뉴욕증시...",
-    "'베테랑'남태희,제주떠나브리즈번이적"
+    "'베테랑'남태희,제주떠나브리즈번이적",
+    "SK,실리콘밸리서AI동맹확대…글로벌빅테크와'인프라연합'본격화",
+    "판커진한-미기업AI협력…투자금어디에쓰나"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T21:10:45.786940+09:00"
+   "last_run": "2026-07-25T21:15:42.407254+09:00"
   }
  },
  "press_names": {
