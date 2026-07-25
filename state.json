@@ -318,11 +318,13 @@
     [
      "2026-07-25T20:35:19.160419+09:00",
      "닉스 반도체 빅테크와 슈퍼 삼전 계약 메모리 1375조원"
+    ],
+    [
+     "2026-07-25T20:50:25.025787+09:00",
+     "재반등론의 역설 기회 뉴욕증시 삼전닉스 월가는 매수"
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20260724505987?OutUrl=naver",
-    "https://www.womennews.co.kr/news/articleView.html?idxno=280331",
     "https://www.mt.co.kr/society/2026/07/24/2026072416565837269",
     "https://sports.khan.co.kr/article/202607241923003?pt=nv",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208086",
@@ -1820,11 +1822,11 @@
     "https://www.kyeonggi.com/article/20260725580115",
     "https://www.munhwa.com/article/11604977",
     "https://www.eroun.net/news/articleView.html?idxno=86244",
-    "https://www.news1.kr/sports/soccer/6238998"
+    "https://www.news1.kr/sports/soccer/6238998",
+    "https://m.sports.naver.com/basketball/article/065/0000299981",
+    "https://www.pennmike.com/news/articleView.html?idxno=124408"
    ],
    "seen_titles": [
-    "TechTitan’sEx-WifeWinsBigDivorcePayoutbutMissesOutonA.I.Ric.",
-    "“노소영에9440억지급”…이혼소송사상최대",
     "MBN뉴스7주요뉴스",
     "법원“최태원,노소영에9천440억원지급”…SK주식포함",
     "SK지배구조지켰지만…9,440억마련은과제",
@@ -3322,10 +3324,12 @@
     "나경원“왜대통령이주인공행세…AI외교아닌‘숟가락얹는외유’...",
     "“한국드라마같다”외신들도최태원·노소영재산분할판결주목",
     "[이로운분석]삼전·닉스,빅테크와1375조원반도체계약…'메모리슈퍼...",
-    "'베테랑'남태희,호주브리즈번이적…1+1년계약"
+    "'베테랑'남태희,호주브리즈번이적…1+1년계약",
+    "강동SKU12,한·일쇼케이스3위…일본농구체감한값진경험",
+    "[금융핫이슈]삼전닉스재반등론의역설…월가는'매수기회',뉴욕증시..."
    ],
    "initialized": true,
-   "last_run": "2026-07-25T20:45:26.251255+09:00"
+   "last_run": "2026-07-25T20:50:25.025787+09:00"
   }
  },
  "press_names": {
