@@ -561,7 +561,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04651046645517800",
     "https://www.businesspost.co.kr/BP?command=article_view&num=443117",
     "https://en.yna.co.kr/view/AEN20260724011100315?input=2106m",
     "https://ilyo.co.kr/?ac=article_view&entry_id=512017",
@@ -2060,10 +2059,10 @@
     "https://www.seoultimes.news/news/article.html?no=2000098118",
     "https://www.bloter.net/news/articleView.html?idxno=668991",
     "https://news.bizwatch.co.kr/article/industry/2026/07/24/0005",
-    "https://www.ekn.kr/web/view.php?key=20260724020015790"
+    "https://www.ekn.kr/web/view.php?key=20260724020015790",
+    "https://www.ziksir.com/news/articleView.html?idxno=141155"
    ],
    "seen_titles": [
-    "삼전·하이닉스,'14조실탄확보'중국CXMT공세방어비책은?",
     "최태원,SK지배구조지켰다…'9440억'어떻게마련하나'숙제'",
     "유가100달러돌파충격…코스피5.7%급락,7000선붕괴",
     "외국인·기관'팔자'에삼전닉스7~8%동반급락",
@@ -3562,10 +3561,11 @@
     "[이슈]'샌프란시스코AI선언'…정부정책·기업투자맞물려공급망경...",
     "SK,엔비디아와5000억달러AI협력…MS·앤트로픽도합류",
     "美조선공략나선삼성중공업…'한미협력센터'닻올렸다",
-    "외국인은코스피,개미는월가…국경은달라도종착지는반도체"
+    "외국인은코스피,개미는월가…국경은달라도종착지는반도체",
+    "靑,한미AI협력성과공개…반도체1375조원·AIDC5GW"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T15:03:30.176629+09:00"
+   "last_run": "2026-07-25T15:05:19.750685+09:00"
   }
  },
  "press_names": {
