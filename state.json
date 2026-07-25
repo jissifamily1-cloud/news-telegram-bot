@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-25T07:10:25.679518+09:00",
-     "삼성전자 매수 집중 SK하이닉스 대형주 외국인"
-    ],
-    [
-     "2026-07-25T07:10:25.679518+09:00",
-     "매수 7월 KB증권 넷째주 추천 현대건설 27종목"
-    ],
-    [
-     "2026-07-25T07:10:25.679518+09:00",
-     "회장님만 언제 받나요 법안 진짜 개미 살릴 경영권 프리미엄"
-    ],
-    [
      "2026-07-25T07:15:25.383408+09:00",
      "D램 중국 CXMT 상회 서버용 가격 삼성전자 상승"
     ],
@@ -566,17 +554,13 @@
     [
      "2026-07-25T13:05:21.263055+09:00",
      "3년 부족하다 감산만으론 승부처 석화업계"
+    ],
+    [
+     "2026-07-25T13:10:27.293988+09:00",
+     "데이터센터 전세계 많은 메모리 테스트베드 최태원"
     ]
    ],
    "seen_urls": [
-    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005886604",
-    "http://www.wikileaks-kr.org/news/articleView.html?idxno=190133",
-    "https://www.cstimes.com/news/articleView.html?idxno=714608",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1717715",
-    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005886602",
-    "https://www.kado.net/news/articleView.html?idxno=2062986",
-    "https://www.sidae.com/article/2026072414514417985",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=356453",
     "http://www.yonhapnewstv.co.kr/news/MYH20260724155257wkt",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=205477",
     "https://view.asiae.co.kr/article/2026072414381090311",
@@ -2068,17 +2052,17 @@
     "https://www.sedaily.com/article/20071781",
     "https://www.segye.com/newsView/20260725503608?OutUrl=naver",
     "https://www.mk.co.kr/article/12106662",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1388842"
+    "https://daily.hankooki.com/news/articleView.html?idxno=1388842",
+    "http://www.inews24.com/view/1988716",
+    "https://www.viva100.com/article/20260725500175",
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030160228&code=61111111&cp=nv",
+    "https://www.yna.co.kr/view/AKR20260725035700001?input=1195m",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260725130529JbN",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426829",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620035",
+    "https://biz.sbs.co.kr/article_hub/20000324619?division=NAVER"
    ],
    "seen_titles": [
-    "올해상반기韓기업미국로비활동규모전년比96%↑…왜?",
-    "최태원의K-반도체'위기론',이제는기업-정부'원팀'의시간",
-    "6700선내준코스피…중동리스크에외인·기관5조던졌다[마감시황]",
-    "SK会長に元妻への1千億円財産分与命じる保有株式も対象と判断＝ソウル...",
-    "“최태원,노소영에9440억재산분할하라”…지주사SK㈜1/3분할대상",
-    "최태원회장,재산분할현금으로…경영권유지속재원확보'숙제'",
-    "중동발쇼크에코스피5%대급락…양시장'매도사이드카'발동",
-    "용인반도체클러스터속도전···전력·용수앞당기자배후주거시장...",
     "‘매도사이드카’코스피5%하락마감…삼전·하닉8%급락[마켓시그...",
     "SK케미칼,폐현수막자원순환생태계키운다…협력사공개모집",
     "최태원회장,노소영에9440억재산분할…파기환송심판결",
@@ -3570,10 +3554,18 @@
     "[속보]靑“SK는엔비디아,5년간7500억불장기공급협력”",
     "“하루새2조6000억던진외인”…삼전·하닉7~8%폭락에도KB는“60만...",
     "LGD,‘하반기반등’외치지만...시장선“눈높이낮춰라”",
-    "감산만으론부족하다…석화업계,'3년'이승부처"
+    "감산만으론부족하다…석화업계,'3년'이승부처",
+    "최태원\"5000조원투자,허황된숫자아니다…AI칩수요가더크다\"",
+    "李대통령,글로벌AICEO들과샌프란깐부회동…AI협력외교이어가",
+    "靑김용범“9500억불반도체협력추진…SK·엔비디아1085조,삼성·브...",
+    "[속보]SK,엔비디아등빅테크기업들과7천500억불반도체공급협력",
+    "[토요와이드]이대통령,AI빅딜…엔비디아·SK5천억달러파트너십",
+    "김용범\"SK,엔비디아등과향후5년간1천85조규모반도체공급협력\"",
+    "[속보]청와대“삼성·SK,글로벌빅테크기업들과9,500억불반도체...",
+    "최태원\"韓,전세계AI테스트베드…더많은메모리·AI데이터센터만..."
    ],
    "initialized": true,
-   "last_run": "2026-07-25T13:05:21.263055+09:00"
+   "last_run": "2026-07-25T13:10:27.293988+09:00"
   }
  },
  "press_names": {
