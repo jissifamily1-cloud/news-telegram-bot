@@ -333,7 +333,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.cfnews.kr/news/article.html?no=110504",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2244819",
     "https://sports.khan.co.kr/article/202607241914013?pt=nv",
     "https://www.donga.com/news/Economy/article/all/20260724/134358452/1",
@@ -1832,10 +1831,10 @@
     "https://www.daejonilbo.com/news/articleView.html?idxno=2290212",
     "https://www.news1.kr/politics/assembly/6238993",
     "https://biz.heraldcorp.com/article/10820117",
-    "https://www.newstnt.com/news/articleView.html?idxno=711618"
+    "https://www.newstnt.com/news/articleView.html?idxno=711618",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260725202759q8P"
    ],
    "seen_titles": [
-    "[올댓차이나]홍콩증시,중동정세긴박에반락마감…H주0.98%↓",
     "'후반기0승'우승팀이어쩌다2218일만에7연패수모를당했나…염갈...",
     "[26.7.24증시인싸잇]코스피,하루만에7000선반납…중동리스크에...",
     "“하이닉스와두글자차이”…한달새110%↑,목표주가넘었다[나만없...",
@@ -3334,10 +3333,11 @@
     "민주\"장동혁,AI순방성과폄훼할자격없다\"",
     "민주,李대통령'AI선언'비판장동혁에\"국익폄훼말고민생살피길\"",
     "최태원“3대메가프로젝트,허황된계획아냐”…이재용“AI발전속도...",
-    "[공시]엔젠바이오·휴림에이텍'투자경고',SK이터닉스·벨로크'투자주..."
+    "[공시]엔젠바이오·휴림에이텍'투자경고',SK이터닉스·벨로크'투자주...",
+    "'중동메시'남태희,제주떠나호주브리즈번입단…등번호10번"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T20:25:21.735121+09:00"
+   "last_run": "2026-07-25T20:30:32.585305+09:00"
   }
  },
  "press_names": {
