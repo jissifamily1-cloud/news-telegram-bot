@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-25T15:25:20.500837+09:00",
-     "HBM 이재용 파운드리 올트먼 협의할듯 만난다 오픈AI 본사서"
-    ],
-    [
-     "2026-07-25T15:25:20.500837+09:00",
-     "네이버 삼성SDS 사업 확대 SKT"
-    ],
-    [
      "2026-07-25T15:35:22.914635+09:00",
      "조달해 짓는다 브룩필드서 엔비디아 14조원 네이버 AI팩토리"
     ],
@@ -233,7 +225,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208088",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208105",
     "http://www.joseilbo.com/news/news_read.php?uid=572590&class=53",
     "https://www.polinews.co.kr/news/articleView.html?idxno=738003",
@@ -1732,10 +1723,10 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=852417",
     "https://www.polinews.co.kr/news/articleView.html?idxno=738038",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620108",
-    "https://www.greened.kr/news/articleView.html?idxno=345918"
+    "https://www.greened.kr/news/articleView.html?idxno=345918",
+    "http://www.maniareport.com/view.php?ud=2026072521080540336cf2d78c68_19"
    ],
    "seen_titles": [
-    "[이슈체크]\"변동성에코스피지긋지긋\"…개인투자자,삼전·닉스팔고...",
     "“9440억원‘현금’으로지급하라”",
     "‘세기의이혼소송’9년만에일단락",
     "“재산1/3은노소영몫…SK주식포함”",
@@ -3234,10 +3225,11 @@
     "'베테랑'남태희,제주떠나브리즈번이적",
     "SK,실리콘밸리서AI동맹확대…글로벌빅테크와'인프라연합'본격화",
     "판커진한-미기업AI협력…투자금어디에쓰나",
-    "이재명대통령\"우리는\"선창에이재용·최태원·정의선·이해진·젠슨..."
+    "이재명대통령\"우리는\"선창에이재용·최태원·정의선·이해진·젠슨...",
+    "'새무대는호주'남태희,제주떠나브리즈번로어입단"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T21:20:33.655689+09:00"
+   "last_run": "2026-07-25T21:25:37.314760+09:00"
   }
  },
  "press_names": {
