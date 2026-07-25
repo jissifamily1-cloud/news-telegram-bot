@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-25T04:50:25.532170+09:00",
-     "대대적 대통령 협력 흥미진진 투자 앤트로픽 대표"
-    ],
-    [
      "2026-07-25T05:01:21.668252+09:00",
      "협력 수도 SK하이닉스 본격화 한미 대형 삼성 4700조 넘어설"
     ],
@@ -598,17 +594,13 @@
     [
      "2026-07-25T10:45:23.320698+09:00",
      "한다 젠슨황 최태원 칩에 배고프다 만날때마다 반도체"
+    ],
+    [
+     "2026-07-25T10:50:26.403363+09:00",
+     "거의 AMD 왔다 눈앞 HBM4 삼성 수주 리사"
     ]
    ],
    "seen_urls": [
-    "http://www.newstomato.com/ReadNews.aspx?no=1308142&inflow=N",
-    "http://www.newskr.kr/news/articleView.html?idxno=105240",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=848275",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3645420",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426716",
-    "https://www.thelec.kr/news/articleView.html?idxno=60011",
-    "https://www.insight.co.kr/news/564574",
-    "https://www.itdaily.kr/news/articleView.html?idxno=240584",
     "https://www.viva100.com/article/20260724500570",
     "https://www.veritas-a.com/news/articleView.html?idxno=620857",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452239",
@@ -2100,17 +2092,17 @@
     "https://en.yna.co.kr/view/AEN20260725001200320?input=2106m",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=307666",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1717761",
-    "https://www.munhwa.com/article/11604943"
+    "https://www.munhwa.com/article/11604943",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553404320",
+    "https://www.news1.kr/politics/president/6238768",
+    "https://www.joongangenews.com/news/articleView.html?idxno=535389",
+    "https://www.sedaily.com/article/20071761",
+    "http://www.fnnews.com/news/202607251012385978",
+    "https://www.g-enews.com/view.php?ud=202607251043078015056c162803_1",
+    "https://www.newspim.com/news/view/20260725000040",
+    "https://www.sedaily.com/article/20071763"
    ],
    "seen_titles": [
-    "법원,최태원SK회장이노소영관장에게재산분할금9440억원현금지급...",
-    "9년끈‘세기의이혼전’마침표…최태원,노소영에9440억원재산분할",
-    "(속보)법원\"최태원,노소영에재산분할금9440억지급\"",
-    "최태원재산분할파기환송심…법원\"노소영에9440억원지급해야\"",
-    "법원파기환송심\"최태원,노소영에재산분할금9440억지급하라\"",
-    "SK주가하락,최태원·노소영파기환송심결론영향",
-    "최태원9천440억파기환송판결에SK주가'무덤덤'…작년급락과대조",
-    "디아이,2분기영업익사상최대전망...전년비170%증가",
     "원·엔환율,800원대진입...1년8개월만'최저'",
     "[위클리시그널]KT미디어계열사통합선긋기…AI글라스경쟁'점화...",
     "하나금융,청년금융인재54명육성마무리…AI•금융융합역량강화",
@@ -3602,10 +3594,18 @@
     "TopS.KoreanbizchiefsmeetwithNvidia,globaltechleaders",
     "李대통령,'샌프란AI선언'...\"글로벌AI허브도약\"",
     "\"폭락장에도하이닉스만쳐다봤다\"…단일레버리지10조거래,65%쏠림",
-    "최태원“젠슨황,만날때마다‘반도체칩에배고프다’고한다”"
+    "최태원“젠슨황,만날때마다‘반도체칩에배고프다’고한다”",
+    "제주SKFC,바이에른뮌헨전공식MD팝업스토어운영",
+    "李대통령샌프란시스코선언…\"대체불가글로벌AI공급망국가로\"(종합...",
+    "李대통령,'샌프란시스코AI선언'발표...\"韓,글로벌AI공급망핵심국...",
+    "李대통령,엔비디아·오픈AI연쇄회동…반도체‘빅딜’나오나",
+    "국장흔들리자다시美로…서학개미순매수한달새4배급증",
+    "이대통령,샌프란시스코서‘AI선언’발표…”대체불가공급망핵심...",
+    "李대통령,美서젠슨황·이재용·최태원·정의선·이해진과만찬…'시총...",
+    "리사수“거의다왔다”…삼성,AMDHBM4수주눈앞"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T10:45:23.320698+09:00"
+   "last_run": "2026-07-25T10:50:26.403363+09:00"
   }
  },
  "press_names": {
