@@ -413,9 +413,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596447",
-    "https://www.yna.co.kr/view/AKR20260724155900011?input=1195m",
-    "https://jp.yna.co.kr/view/AJP20260724003000882?input=1728m",
     "https://www.newswhoplus.com/news/articleView.html?idxno=65293",
     "https://www.sedaily.com/article/20071657",
     "https://news.tf.co.kr/read/economy/2346933.htm",
@@ -1912,12 +1909,12 @@
     "http://www.ftoday.co.kr/news/articleView.html?idxno=362565",
     "https://www.chosun.com/economy/tech_it/2026/07/25/ZMUP5DRWQVEEHLUXX5TVZVJDEU/",
     "https://www.nextdaily.co.kr/news/articleView.html?idxno=251600",
-    "https://www.epnc.co.kr/news/articleView.html?idxno=404715"
+    "https://www.epnc.co.kr/news/articleView.html?idxno=404715",
+    "https://magazine.hankyung.com/business/article/202607216802b",
+    "https://www.epnc.co.kr/news/articleView.html?idxno=404718",
+    "https://news.jtbc.co.kr/article/NB12310182?influxDiv=NAVER"
    ],
    "seen_titles": [
-    "이대통령,미국으로출국...내일새벽젠슨황등과회동",
-    "美,韓'환율관찰대상국'유지…\"원화약세,경제체력대비과도\"",
-    "첫순방지美실리콘밸리…'빅테크공룡'들만난다",
     "엔비디아,샌프란시스코AI서밋서한국파트너들과AI미래비전제시",
     "최태원부터이재용까지...'재벌가이혼'재산분할사례보니",
     "최태원,노소영에9440억재산분할…재계시선은'재원마련'",
@@ -3414,10 +3411,13 @@
     "SK그룹,엔비디아·MS·앤트로픽과'AI인프라'협력합의",
     "삼성전자,브로드컴과AI반도체손잡아...5년간2000억달러규모협력",
     "SK,실리콘밸리서빅테크와5000억달러AI인프라협력",
-    "실리콘밸리덮친SK…690조원쏟아부어'AI공룡연합'만들었다"
+    "실리콘밸리덮친SK…690조원쏟아부어'AI공룡연합'만들었다",
+    "이재명대통령\"레버리지ETF제도,신속·과감하게보완하라\"",
+    "오픈AI,이재명대통령·삼성·SK와연쇄회동…한국과'AI동맹'강화",
+    "이대통령,젠슨황과\"우리는,식구다\"'짠'...샌프란시스코깐부회동"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T17:30:33.699123+09:00"
+   "last_run": "2026-07-25T17:35:21.821759+09:00"
   }
  },
  "press_names": {
