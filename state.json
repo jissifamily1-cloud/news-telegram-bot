@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-25T23:25:21.145452+09:00",
-     "떠나 중동 1년 호주행 남태희 브리즈번과 메시 제주 계약"
-    ],
-    [
      "2026-07-25T23:30:33.432676+09:00",
      "샌프란시스코서 맥주 만찬 대통령 미국 거물들과"
     ],
@@ -90,10 +86,13 @@
     [
      "2026-07-26T05:10:24.973765+09:00",
      "협력 9500억달러 회동 이끈 벤처투자 오늘은 대통령"
+    ],
+    [
+     "2026-07-26T05:30:32.217273+09:00",
+     "9440억 회장 매각 최태원 마련하나 SK실트론 딜레마 어떻게"
     ]
    ],
    "seen_urls": [
-    "https://www.obsnews.co.kr/news/articleView.html?idxno=1531781",
     "https://www.chosun.com/opinion/manmulsang/2026/07/24/RV4J6S35BBETHEF4YC4IQO4KFA/",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1531787",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1531790",
@@ -1592,10 +1591,10 @@
     "https://www.nocutnews.co.kr/news/6553271",
     "https://www.nocutnews.co.kr/news/6553242",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=267810",
-    "https://www.news1.kr/politics/president/6238863"
+    "https://www.news1.kr/politics/president/6238863",
+    "https://www.mt.co.kr/industry/2026/07/26/2026072416165518625"
    ],
    "seen_titles": [
-    "美빅테크,칩장기계약…국내AIDC투자할것”",
     "김용범“2분기GDP서프라이즈”…”부동산·환율압력,스트레스테스...",
     "美팹요구에…\"어디든적기공급중요\"",
     "김용범\"미래대응기금,아주의미있는규모로모일것…잘써야\"",
@@ -3094,10 +3093,11 @@
     "반도체쏠린국장,그린종목은바겐세일중?\"정책적조정필요해\"[기후...",
     "결혼생활30년,재산은1/3…최태원·노소영재산분할계산법은?",
     "[SK하이닉스인사이드]시스템아키텍처와소프트웨어솔루션이찾는인...",
-    "'9500억달러AI협력'이끈李대통령…오늘은'벤처투자'회동"
+    "'9500억달러AI협력'이끈李대통령…오늘은'벤처투자'회동",
+    "최태원회장'9440억'어떻게마련하나...SK실트론매각딜레마"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T05:25:20.695750+09:00"
+   "last_run": "2026-07-26T05:30:32.217273+09:00"
   }
  },
  "press_names": {
