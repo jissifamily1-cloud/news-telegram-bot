@@ -378,12 +378,17 @@
     [
      "2026-07-25T17:50:25.118509+09:00",
      "젠슨 인터뷰 황금기 한국의 지금은 블룸버그TV"
+    ],
+    [
+     "2026-07-25T18:10:25.641246+09:00",
+     "클로드 훔쳐가 중국 미국 그만 폭발해버린"
+    ],
+    [
+     "2026-07-25T18:10:25.641246+09:00",
+     "선도도시 산업AX 울산 피지컬AI 글로벌 양축 AIDC"
     ]
    ],
    "seen_urls": [
-    "http://www.00news.co.kr/news/articleView.html?idxno=105410",
-    "https://www.hankookilbo.com/news/article/A2026072416320000390?did=NA",
-    "http://www.4th.kr/news/articleView.html?idxno=2115239",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=760053",
     "https://www.hankyung.com/article/202607245050h",
     "https://www.newsis.com/view/NISX20260724_0003722590",
@@ -1880,12 +1885,12 @@
     "http://www.newstomato.com/ReadNews.aspx?no=1308204&inflow=N",
     "https://www.segye.com/newsView/20260725506024?OutUrl=naver",
     "https://www.hankyung.com/article/202607255728i",
-    "http://www.newstomato.com/ReadNews.aspx?no=1308202&inflow=N"
+    "http://www.newstomato.com/ReadNews.aspx?no=1308202&inflow=N",
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208191",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008667802&plink=ORI&cooper=NAVER",
+    "https://www.etnews.com/20260725000031"
    ],
    "seen_titles": [
-    "최태원,실리콘밸리서젠슨황재회…AI인프라협력논의",
-    "최태원,재산분할금지급시나리오…지분매각·담보대출·실트론",
-    "'세기의재산분할'최태원회장,노소영장관에9440억현금지급…재원...",
     "연5%이자도붙는다...최태원,현금9천억마련방안은?[자막뉴스]",
     "네이버,엔비디아AI팩토리협력강화…SPC세운다",
     "[사설]SK재산분할소송사실상결론,‘노태우비자금’환수방안모...",
@@ -3382,10 +3387,13 @@
     "한국과AI동맹넓히는오픈AI…삼성·SK와인프라협력강화",
     "‘1400조’한·미초대형AI동맹…반도체·공급망구축박차",
     "최태원\"메가프로젝트,韓성장위한것\"…SK,엔비디아와AI동맹",
-    "9500억달러AI협력본격화…정부,글로벌빅테크와공급망동맹강화"
+    "9500억달러AI협력본격화…정부,글로벌빅테크와공급망동맹강화",
+    "'세기의이혼'최태원-노소영,재산분할파기환송심…\"노소영에9440억...",
+    "[글로벌인사이트]\"그만좀훔쳐가!\"폭발해버린클로드…\"또중국\"미국...",
+    "울산글로벌산업AX선도도시추진…'피지컬AI'와'AIDC'양축"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T18:05:22.319847+09:00"
+   "last_run": "2026-07-25T18:10:25.641246+09:00"
   }
  },
  "press_names": {
