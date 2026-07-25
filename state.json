@@ -110,11 +110,13 @@
     [
      "2026-07-26T01:05:22.335740+09:00",
      "지능화 공장 도시까지 피지컬 현대차그룹 청사진 정의선 차에서"
+    ],
+    [
+     "2026-07-26T02:05:20.533277+09:00",
+     "구축 손잡다 5000억달러 인프라 규모 MS와 엔비디아"
     ]
    ],
    "seen_urls": [
-    "https://www.kmib.co.kr/article/view.asp?arcid=1784877997&code=11121100&cp=nv",
-    "https://www.joongang.co.kr/article/25447943",
     "https://www.hankyung.com/article/2026072451151",
     "https://www.yna.co.kr/view/AKR20260724148300001?input=1195m",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008673941&plink=ORI&cooper=NAVER",
@@ -1612,11 +1614,11 @@
     "https://www.wolyo.co.kr/news/articleView.html?idxno=315583",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=315585",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=315584",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452471"
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452471",
+    "https://www.apnews.kr/news/articleView.html?idxno=3050034",
+    "https://www.ddaily.co.kr/page/view/2026072602015255148"
    ],
    "seen_titles": [
-    "李대통령,美빅테크와AI협력본격화…김용범“의미있는계약나올...",
-    "\"SKT,자회사'SK하이퍼'설립...AIDC사업본격화\"-KB證",
     "靑\"삼전·닉스,美빅테크와반도체장기공급계약...4700조넘을수도...",
     "김용범\"美AI서밋에서삼성·하닉반도체계약발표…빅테크와AIDC협...",
     "김용범“미정부,반도체현지생산공식요구없어…빅테크는팹이어...",
@@ -3114,10 +3116,12 @@
     "삼성,글로벌리더들앞에서290조AI동맹…브로드컴과HBM·2나노협력",
     "SK,엔비디아와5000억달러AI동맹…최태원\"한국을AI인프라허브로\"",
     "차에서공장·도시까지지능화…정의선,현대차그룹'피지컬AI'청사진",
-    "李,'샌프란시스코AI선언'발표…\"韓,글로벌AI허브구축\""
+    "李,'샌프란시스코AI선언'발표…\"韓,글로벌AI허브구축\"",
+    "\"李메가프로젝트,허황된숫자아니다\"…2경원CEO모인'샌프란선언'",
+    "\"엔비디아·MS와손잡다\"SK,총5000억달러규모AI인프라구축"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T02:00:38.153525+09:00"
+   "last_run": "2026-07-26T02:05:20.533277+09:00"
   }
  },
  "press_names": {
