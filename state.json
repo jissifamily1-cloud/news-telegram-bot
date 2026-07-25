@@ -558,15 +558,21 @@
     [
      "2026-07-25T13:50:27.828791+09:00",
      "기반 방식 시대 대통령 성과 올트먼 분배 지분 논의"
+    ],
+    [
+     "2026-07-25T13:55:23.198843+09:00",
+     "미국 공장은 그린 샌프란시스코서 공급망 모델은 한국으로"
+    ],
+    [
+     "2026-07-25T13:55:23.198843+09:00",
+     "1375조원 체결 반도체 규모 빅테크 한미 동맹"
+    ],
+    [
+     "2026-07-25T13:55:23.198843+09:00",
+     "젠슨 조정 발언에 오를 주가 대통령 다시"
     ]
    ],
    "seen_urls": [
-    "https://www.viewsnnews.com/article?q=237430",
-    "https://economist.co.kr/article/view/ecn202607240030",
-    "https://www.joongangenews.com/news/articleView.html?idxno=535309",
-    "https://www.seoultimes.news/news/article.html?no=2000098112",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=168703",
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070293",
     "http://www.newsdream.kr/news/articleView.html?idxno=115057",
     "https://magazine.hankyung.com/business/article/202607244655b",
     "https://www.ytn.co.kr/_ln/0102_202607241616297818",
@@ -2060,15 +2066,15 @@
     "https://zdnet.co.kr/view/?no=20260725114110",
     "https://www.yna.co.kr/view/PYH20260725035200013?input=1196m",
     "https://www.yna.co.kr/view/PYH20260725038000013?input=1196m",
-    "https://view.asiae.co.kr/article/2026072513470795935"
+    "https://view.asiae.co.kr/article/2026072513470795935",
+    "https://www.g-enews.com/view.php?ud=202607251348131970056c162803_1",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=5263",
+    "https://www.chosun.com/politics/politics_general/2026/07/25/FL4V2VVFDBECHOBOTCZQVVOLXE/",
+    "https://www.itdaily.kr/news/articleView.html?idxno=240595",
+    "https://www.sisajournal.com/news/articleView.html?idxno=381127",
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030160320&code=61111111&cp=nv"
    ],
    "seen_titles": [
-    "'세기의이혼'최태원·노소영재산분할9440억원…SK주식재산분할인...",
-    "법원\"SK주식형성에노소영기여인정\"…최태원,노소영에9440억원",
-    "\"최태원,노소영에현금9440억줘라\"SK하이닉스주가영향은?",
-    "코스피·코스닥,동반5%대급락",
-    "통화듣다가감잡은AI,보이스피싱실시간경고",
-    "상수도원인자부담금세금으로?…제주그린수소시설지적",
     "판커지는AI경쟁…삼전닉스'HBM시장'더커진다",
     "②배율낮추면되나…레버리지규제의다음관문[마켓프리즘]",
     "[증권업계기상도]7월넷째주혼조…IB수수료확대‘맑음’,평가손·...",
@@ -3562,10 +3568,16 @@
     "\"韓,글로벌AI생산기지로\"…이대통령,'샌프란AI선언'서비전제시",
     "이재명대통령'글로벌AI리더들과함께'",
     "SKT-앤트로픽,대규모AI데이터센터협력의향서",
-    "李대통령·샘올트먼,AI시대분배방식논의…올트먼\"지분기반성과..."
+    "李대통령·샘올트먼,AI시대분배방식논의…올트먼\"지분기반성과...",
+    "靑“삼성,브로드컴과2000억달러협약…SK엔비디아등과7500억달러협...",
+    "[인사이트뉴스]'샌프란AI선언'…한국,AI부품국가를넘어'생태계...",
+    "靑“국내기업·글로벌빅테크’9500억달러반도체협력'추진”",
+    "모델은미국,AI공장은한국으로…샌프란시스코서그린'K-AI공급망'",
+    "한미빅테크,1375조원규모반도체·AI동맹체결",
+    "李대통령“주가조정중”발언에젠슨황“다시오를것”"
    ],
    "initialized": true,
-   "last_run": "2026-07-25T13:50:27.828791+09:00"
+   "last_run": "2026-07-25T13:55:23.198843+09:00"
   }
  },
  "press_names": {
