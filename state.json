@@ -530,15 +530,17 @@
     [
      "2026-07-26T09:45:31.552218+09:00",
      "간담회 샌프란시스코 동포 오찬 대통령 이재명"
+    ],
+    [
+     "2026-07-26T09:50:28.371399+09:00",
+     "회사채 크레딧 매력 국고채 고점에 확대 금융채 관심 투자 금리 부각"
+    ],
+    [
+     "2026-07-26T09:50:28.371399+09:00",
+     "소리 민주당이 미국까지 보인 비판 대통령 장동혁 뻔한 가서"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=267764",
-    "https://zdnet.co.kr/view/?no=20260724215649",
-    "https://imnews.imbc.com/replay/2026/nwtoday/article/6839975_37012.html",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471389",
-    "https://www.bigtanews.co.kr/article/view/big202607240017",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426791",
     "https://www.getnews.co.kr/news/articleView.html?idxno=876038",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471390",
     "https://www.segye.com/newsView/20260725502084?OutUrl=naver",
@@ -2032,15 +2034,15 @@
     "https://www.viva100.com/article/20260726500157",
     "https://www.kukinews.com/article/view/kuk202607260005",
     "https://www.viva100.com/article/20260726500163",
-    "https://www.newsis.com/view/NISX20260726_0003723346"
+    "https://www.newsis.com/view/NISX20260726_0003723346",
+    "https://www.tokenpost.kr/news/market/381347",
+    "https://www.etoday.co.kr/news/view/2607462",
+    "https://www.kado.net/news/articleView.html?idxno=2063062",
+    "http://www.popcornnews.net/news/articleView.html?idxno=127661",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=591920",
+    "https://www.wikitree.co.kr/articles/1148495"
    ],
    "seen_titles": [
-    "뉴욕증시,유가하락에도반도체약세에혼조…나스닥0.6%↓",
-    "[천지일보이슈종합]보완수사권폐지·세기의이혼·폭염·유류세인하...",
-    "[주간증시전망]SK하이닉스∙MS∙메타등빅테크실적발표슈퍼위크에...",
-    "최태원,SK지분가치8조·배당1000억대…역대최대재산분할재원'관...",
-    "빅테크CEO들과연쇄회동...오늘'샌프란시스코AI선언'발표",
-    "李대통령\"AI대대적투자\"…앤트로픽CEO\"韓기업과협력기대\"",
     "\"내년아비규환\"경고한최태원,AI자문위원이재용·정의선[재계-in]",
     "[분양캘린더]7월다섯째주‘월계중흥S-클래스리비에르’등6359가구...",
     "\"낸드호황내년하반기끝\"…삼전보다하닉이더아픈이유",
@@ -3534,10 +3536,16 @@
     "이대통령,실리콘밸리VC만나“한국스타트업에투자해달라”",
     "[통하는충남]가로림만서산갯벌‘세계자연유산’등재",
     "배경훈부총리“샌프란시스코서밋,AI산업가치사슬연결”",
-    "이재명대통령,샌프란시스코동포오찬간담회[뉴시스Pic]"
+    "이재명대통령,샌프란시스코동포오찬간담회[뉴시스Pic]",
+    "국민연금,7월국내주식순매수전환...투자심리변화감지",
+    "SKT,독자AI모델로스타트업혁신지원",
+    "[속보]이대통령,실리콘밸리VC만나\"한미강점결합'다음세대삼성...",
+    "SKT,독자AI모델로스타트업AI활성화지원",
+    "국고채금리고점에크레딧투자매력부각…금융채·회사채관심확대",
+    "장동혁\"미국까지가서뻔한소리\"이대통령비판...민주당이보인반..."
    ],
    "initialized": true,
-   "last_run": "2026-07-26T09:45:31.552218+09:00"
+   "last_run": "2026-07-26T09:50:28.371399+09:00"
   }
  },
  "press_names": {
