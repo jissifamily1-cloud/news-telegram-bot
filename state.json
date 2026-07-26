@@ -349,7 +349,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12107264",
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701011",
     "https://www.econovill.com/news/articleView.html?idxno=746146",
     "https://www.news1.kr/it-science/general-it/6238877",
@@ -1848,10 +1847,10 @@
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607251749038530495",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607261057205130517",
     "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1169911",
-    "https://www.apnews.kr/news/articleView.html?idxno=3050050"
+    "https://www.apnews.kr/news/articleView.html?idxno=3050050",
+    "http://www.fnnews.com/news/202607270518035599"
    ],
    "seen_titles": [
-    "SK,엔비디아와5000억불AI인프라구축LOI…MS와는메모리장기공급협...",
     "삼전닉스,美빅테크들과9500억弗반도체협력",
     "이대통령실리콘밸리서'AI선언'...\"한국,글로벌AI허브될것\"",
     "이재용\"미국은원천기술,한국은반도체·제조\"…AI생태계협력역설",
@@ -3350,10 +3349,11 @@
     "[이번주재개발ㆍ재건축]도곡우성,2차입찰주목…용두ㆍ중화역등전...",
     "반도체협력만1375조‘빅딜’…韓‘3대AI메가프로젝트’글로벌확...",
     "\"터지고나면이미늦는뇌동맥류…AI가가장필요한분야죠\"",
-    "이재용,샘올트먼과샌프란시스코회동…HBM·파운드리협력논의"
+    "이재용,샘올트먼과샌프란시스코회동…HBM·파운드리협력논의",
+    "美WSJ,SK하이닉스ADR프리미엄경고\"AI거래과열\""
    ],
    "initialized": true,
-   "last_run": "2026-07-27T05:25:21.737624+09:00"
+   "last_run": "2026-07-27T05:30:34.033158+09:00"
   }
  },
  "press_names": {
