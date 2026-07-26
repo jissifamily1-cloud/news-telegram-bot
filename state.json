@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T00:00:38.980177+09:00",
-     "신호 ADR 거래 SK하이닉스 프리미엄 WSJ 과열"
-    ],
-    [
      "2026-07-27T00:05:19.503704+09:00",
      "인사와 국가 대통령의 영웅 90도"
     ],
@@ -398,10 +394,13 @@
     [
      "2026-07-27T05:55:22.682024+09:00",
      "예방 뇌혈관질환 탈로스 터지기 전에 AI로 찾아낸다 패러다임"
+    ],
+    [
+     "2026-07-27T06:00:39.948742+09:00",
+     "건강검진으로 발견하는 만들 뇌동맥류 시대 터지기"
     ]
    ],
    "seen_urls": [
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701015",
     "https://www.mydaily.co.kr/page/view/2026072514541262781",
     "http://www.fnnews.com/news/202607251439326097",
     "https://www.joongangenews.com/news/articleView.html?idxno=535423",
@@ -1900,10 +1899,10 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607270020&t=NN",
     "https://biz.sbs.co.kr/article_hub/20000324423?division=NAVER",
     "https://www.yna.co.kr/view/AKR20260726046800002?input=1195m",
-    "https://www.bosa.co.kr/news/articleView.html?idxno=3009027"
+    "https://www.bosa.co.kr/news/articleView.html?idxno=3009027",
+    "https://www.monews.co.kr/news/articleView.html?idxno=412835"
    ],
    "seen_titles": [
-    "오데일리주요뉴스:비트코인·이더리움현물ETF순유출",
     "이재명대통령AI승부수에하남주목…'3조원AI클러스터'탄력받나",
     "\"뭘해도대박\"최화정,'110억성수동자가'이어삼전닉스최고가매도",
     "SK그룹,엔비디아와5000억달러규모AI협력…글로벌빅테크동맹확대",
@@ -3402,10 +3401,11 @@
     "\"하이닉스ADR프리미엄정당한가\"…AI과열의또다른신호'경고'",
     "[다음주경제일정]美연준FOMC결과주목…MS·메타·아마존·애플실적...",
     "성과보상체계이견못좁힌카카오뱅크…인뱅첫파업사례될까",
-    "\"터지기전에찾아낸다\"탈로스,AI로뇌혈관질환예방패러다임전환"
+    "\"터지기전에찾아낸다\"탈로스,AI로뇌혈관질환예방패러다임전환",
+    "\"뇌동맥류,터지기전건강검진으로발견하는시대만들것\""
    ],
    "initialized": true,
-   "last_run": "2026-07-27T05:55:22.682024+09:00"
+   "last_run": "2026-07-27T06:00:39.948742+09:00"
   }
  },
  "press_names": {
