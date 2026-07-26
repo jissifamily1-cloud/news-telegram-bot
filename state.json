@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-26T11:55:21.748103+09:00",
-     "이제 흑자전환할까 LG엔솔 날개 이어 배터리 삼성SDI도"
-    ],
-    [
      "2026-07-26T12:05:19.453447+09:00",
      "전망 영업익 SK하이닉스 영업이익률 2분기 64조원 넘나"
     ],
@@ -646,17 +642,21 @@
     [
      "2026-07-26T17:50:26.054701+09:00",
      "반도체와 눈물 샤인머스캣"
+    ],
+    [
+     "2026-07-26T17:55:22.408204+09:00",
+     "이달 급증 순매수 서학개미 4배 돌아가는 미장"
+    ],
+    [
+     "2026-07-26T17:55:22.408204+09:00",
+     "수주 파운드리까지 부상 중심축 삼성 AI생태계 대규모"
+    ],
+    [
+     "2026-07-26T17:55:22.408204+09:00",
+     "네이버는 플랫폼 선택한 엔비디아가 인프라 투톱 AIDC SK는"
     ]
    ],
    "seen_urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277711",
-    "https://www.sentv.co.kr/article/view/sentv202607250006",
-    "https://www.ikbc.co.kr/article/view/kbc202607250017",
-    "https://www.g-enews.com/view.php?ud=202607251149587325056c162803_1",
-    "https://www.g-enews.com/view.php?ud=202607251127543677fbbec65dfb_1",
-    "https://www.nocutnews.co.kr/news/6553216",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674425&plink=ORI&cooper=NAVER",
-    "https://view.asiae.co.kr/article/2026072512031293474",
     "https://www.newsis.com/view/NISX20260725_0003723051",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=83671",
     "https://news.tf.co.kr/read/ptoday/2346982.htm",
@@ -2148,17 +2148,17 @@
     "https://www.kgnews.co.kr/news/article.html?no=905168",
     "http://www.gndomin.com/news/articleView.html?idxno=483389",
     "http://www.jndn.com/article.php?aid=1785055453436668050",
-    "https://www.imaeil.com/page/view/2026071016412383335"
+    "https://www.imaeil.com/page/view/2026071016412383335",
+    "https://www.hankyung.com/article/2026072666261",
+    "https://www.hankyung.com/article/2026072665721",
+    "https://www.sedaily.com/article/20071999",
+    "https://www.sedaily.com/article/20072001",
+    "https://www.donga.com/news/Politics/article/all/20260726/134366623/1",
+    "https://www.sedaily.com/article/20072007",
+    "https://www.hankyung.com/article/2026072666421",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01899126645518456"
    ],
    "seen_titles": [
-    "이대통령,빅테크CEO들과'AI깐부회동'…피시앤칩스·맥주만찬",
-    "악수하는이재명대통령과젠슨황엔비디아CEO",
-    "李대통령,빅테크수장들과'샌프란깐부회동'…피시앤칩스만찬가져",
-    "이재명대통령\"한국,글로벌AI공급망핵심국가도약\"",
-    "서학개미이달미국주식순매수4배증가…국내예탁금은감소",
-    "李대통령,'샌프란깐부회동'…글로벌AI리더와'피시앤칩스만찬'",
-    "李대통령,AI서밋후글로벌빅테크기업CEO들과‘피시앤칩스만찬’",
-    "엔비디아·SK,5000억달러AI동맹…SKT2GW데이터센터짓는다",
     "이재용·정의선·이해진,이번엔美엔비디아본사서젠슨황만나",
     "이대통령,빅테크CEO들과피시앤칩스만찬…'샌프란깐부회동'",
     "한국대통령앞에모인글로벌CEO들…李\"AI공급망파트너되겠다\"(종...",
@@ -3650,10 +3650,18 @@
     "SK하이닉스용인클러스터상생협약…5년지나도9개사업'추진중'",
     "박완수경남지사\"첨단산업메가투자실현에총력\"",
     "반도체최적지가호남인데…왜?",
-    "[시각과전망-임상준]반도체와'샤인머스캣'의눈물"
+    "[시각과전망-임상준]반도체와'샤인머스캣'의눈물",
+    "이재명대통령'샌프란선언'…9500억달러AI세일즈",
+    "원화가치상승폭은주요국통화1위…엔화는40년만에최저",
+    "메모리넘어‘공급망설계’새판짜기…“韓없었다면AI혁명불가”",
+    "구글·오픈AI키운VC만난李“다음세대의삼성함께만들자”",
+    "김용범“李-VC만남,삼성-SK같은다음타자키우는결의”",
+    "미장돌아가는서학개미,이달순매수4배급증",
+    "파운드리까지대규모수주…삼성·SK'AI생태계중심축'부상",
+    "SK는AI인프라,네이버는AI플랫폼…엔비디아가선택한韓AIDC투톱"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T17:50:26.054701+09:00"
+   "last_run": "2026-07-26T17:55:22.408204+09:00"
   }
  },
  "press_names": {
