@@ -569,9 +569,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ngonews.kr/news/articleView.html?idxno=233783",
-    "https://www.etoday.co.kr/news/view/2607189",
-    "https://www.kmib.co.kr/article/view.asp?arcid=0030157064&code=61141111&cp=nv",
     "https://www.womennews.co.kr/news/articleView.html?idxno=280334",
     "https://www.hankyung.com/article/2026072441706",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01879446645518128",
@@ -2068,12 +2065,12 @@
     "https://www.mk.co.kr/article/12107512",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=307687",
     "https://www.ddaily.co.kr/page/view/2026072602050830158",
-    "https://news.koreanbar.or.kr/news/articleView.html?idxno=35890"
+    "https://news.koreanbar.or.kr/news/articleView.html?idxno=35890",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01348086645518456",
+    "https://www.it-b.co.kr/news/articleView.html?idxno=89239",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260726100504dPr"
    ],
    "seen_titles": [
-    "인텔7.89%↓…필라델피아반도체지수4.25%급락",
-    "李대통령,美서‘이정후사인볼’받았다…샌프란순방일정시작",
-    "李대통령,앤트로픽CEO에\"한국AI투자대대적확대\"",
     "“노소영에9940억지급”…세기의이혼소송9년만에일단락",
     "다시100달러돌파한국제유가…하반기'2%대물가'사수가능할까",
     "파기환송심\"최태원,노소영에현금9,440억원재산분할\"",
@@ -3570,10 +3567,13 @@
     "30%떨어진하이닉스…2분기사상최고실적나오면?",
     "최태원,실리콘밸리서AI동맹구축…\"대한민국AI성장프로젝트\"승부...",
     "[DD주간브리핑]'AI투자·반도체성적표'대거베일벗는다…KT과징금...",
-    "'위로안되는위자료'3000만원벽깨질까…변협,현실화논의본격화"
+    "'위로안되는위자료'3000만원벽깨질까…변협,현실화논의본격화",
+    "SKT,‘독자AI’앞세워스타트업혁신지원…A.XK1API개방",
+    "SKT,독자AI모델로스타트업혁신돕는다…3개사에A.XK1API제공",
+    "이통3사2분기희비…SKT회복,LGU+성장,KT주춤"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T10:05:21.587463+09:00"
+   "last_run": "2026-07-26T10:10:29.991807+09:00"
   }
  },
  "press_names": {
