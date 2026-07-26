@@ -250,15 +250,21 @@
     [
      "2026-07-27T04:33:57.862875+09:00",
      "이천 휴먼빌 SK하이닉스 클래스원 주목 66억 배후수요"
+    ],
+    [
+     "2026-07-27T04:40:26.488785+09:00",
+     "AI데이터센터 100억달러 키운다 확충 네이버 SKT 유치 대규모"
+    ],
+    [
+     "2026-07-27T04:40:26.488785+09:00",
+     "9500억달러 협력 삼성 반도체 빅테크와"
+    ],
+    [
+     "2026-07-27T04:40:26.488785+09:00",
+     "빅테크에 K반도체 장기공급 완화 피크아웃 계약 기대 우려"
     ]
    ],
    "seen_urls": [
-    "https://www.thelec.kr/news/articleView.html?idxno=60036",
-    "https://www.newspim.com/news/view/20260725000073",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426833",
-    "https://www.sedaily.com/article/20071796",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1717775",
-    "http://www.lawissue.co.kr/view.php?ud=2026072514350985779817d053b9_12",
     "https://www.newscj.com/news/articleView.html?idxno=3419826",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686969",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02266486645518128",
@@ -1752,15 +1758,15 @@
     "https://www.news2day.co.kr/article/20260724500312",
     "https://biz.sbs.co.kr/article_hub/20000324701?division=NAVER",
     "https://www.hankookilbo.com/news/article/A2026072622300002313?did=NA",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=307704"
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=307704",
+    "https://www.donga.com/news/Politics/article/all/20260727/134368325/2",
+    "https://www.donga.com/news/Politics/article/all/20260727/134368327/2",
+    "https://www.donga.com/news/Politics/article/all/20260727/134368323/2",
+    "https://www.donga.com/news/Economy/article/all/20260727/134368181/2",
+    "https://www.donga.com/news/Politics/article/all/20260727/134368123/2",
+    "https://www.donga.com/news/Economy/article/all/20260727/134368177/2"
    ],
    "seen_titles": [
-    "'세기의이혼'최태원→노소영9440억재산분할…누가더웃었나",
-    "삼성·SK등美빅테크와1391조협력발표...삼성,브로드컴칩생산",
-    "李대통령,한미빅테크CEO들과원팀선언...\"우리는식구다\"",
-    "9천500억弗수주'신규장기공급'…브로드컴,李대통령에\"삼전닉스지원...",
-    "李대통령‘샌프란AI선언’서“한국,대체불가공급망핵심국가로”",
-    "\"우리는식구다\"…이재명대통령,젠슨황등글로벌CEO와'맥주회동'",
     "李대통령\"우리는식구다\"…젠슨황\"위아패밀리\"화답",
     "최태원\"대한민국,글로벌AI테스트베드될것\"",
     "韓,글로벌빅테크와9500억달러AI동맹…5GWAIDC구축추진",
@@ -3254,10 +3260,16 @@
     "알파벳은청신호…이번주MS·메타·아마존이반도체향방가른다",
     "[글로벌비즈브리핑]'삼전닉스'도전...창신메모리,오늘中증시데뷔...",
     "李\"공급망핵심국가도약\"샌프란AI선언[오늘의1면사진]",
-    "'이천휴먼빌클래스원'84㎡5.66억…SK하이닉스배후수요주목"
+    "'이천휴먼빌클래스원'84㎡5.66억…SK하이닉스배후수요주목",
+    "실리콘밸리투자사들만나“차세대삼성-SK함께만들자”",
+    "李,美한복판서‘AI동맹’선언…“韓,대체불가AI공급망국가로”",
+    "李“우리는”빅테크CEO“식구다”…샌프란‘깐부회동’",
+    "AI데이터센터판키운다…네이버100억달러유치-SKT대규모확충",
+    "“삼성-SK,美빅테크와9500억달러반도체협력”",
+    "美빅테크에K반도체장기공급계약…“피크아웃우려완화기대”"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T04:35:22.374446+09:00"
+   "last_run": "2026-07-27T04:40:26.488785+09:00"
   }
  },
  "press_names": {
