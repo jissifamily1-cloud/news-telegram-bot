@@ -514,14 +514,25 @@
     [
      "2026-07-27T07:10:26.798514+09:00",
      "미국서 하이닉스 비싸 너무 경고 손실 나온 위험 본주보다"
+    ],
+    [
+     "2026-07-27T07:15:26.455691+09:00",
+     "장기 공급 메모리 엔비디아에"
+    ],
+    [
+     "2026-07-27T07:15:26.455691+09:00",
+     "메모리 이어 반도체까지 애플도 자동차 쓰지 중국"
+    ],
+    [
+     "2026-07-27T07:15:26.455691+09:00",
+     "파트너십 5천억달러 SK와 황금기 젠슨"
+    ],
+    [
+     "2026-07-27T07:15:26.455691+09:00",
+     "뉴욕증시 시험대 과열까지 FOMC 빅테크 실적에"
     ]
    ],
    "seen_urls": [
-    "https://www.khan.co.kr/article/202607251546001",
-    "https://www.obsnews.co.kr/news/articleView.html?idxno=1531818",
-    "https://www.etoday.co.kr/news/view/2607391",
-    "https://www.hankyung.com/article/202607255676i",
-    "https://www.etoday.co.kr/news/view/2607393",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1717780",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=267822",
     "https://www.nocutnews.co.kr/news/6553234",
@@ -2016,14 +2027,14 @@
     "https://biz.sbs.co.kr/article_hub/20000324725?division=NAVER",
     "https://biz.sbs.co.kr/article_hub/20000324709?division=NAVER",
     "https://www.newsis.com/view/NISX20260727_0003723829",
-    "https://www.mt.co.kr/world/2026/07/27/2026072706544246298"
+    "https://www.mt.co.kr/world/2026/07/27/2026072706544246298",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607270025&t=NN",
+    "https://www.thelec.kr/news/articleView.html?idxno=60040",
+    "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62116",
+    "https://biz.sbs.co.kr/article_hub/20000324727?division=NAVER",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16146363"
    ],
    "seen_titles": [
-    "SK,엔비디아·MS·앤트로픽과AI동맹-5년간7500억달러인프라협력",
-    "이재용·올트먼,오픈AI본사서회동···인공지능인프라관련협력...",
-    "젠슨황\"SK와파트너십발표…5천억달러규모\"",
-    "이재용·올트먼,오픈AI본사서AX협력논의",
-    "삼성·SK,美빅테크와9500억달러‘AI동맹’…메모리·파운드리전방...",
     "\"다시오를겁니다\"젠슨황의주가전망에…웃음꽃핀샌프란만찬",
     "K-반도체1390조몰렸다…삼성·SK,빅테크와'초대형동맹'",
     "韓총수들,엔비디아본사방문→李와맥주회동…9500억달러'AI동맹...",
@@ -3518,10 +3529,15 @@
     "인뱅첫파업나오나…카카오뱅크노조,오는31일파업예고",
     "[증시전략]빅테크실적·FOMC회의·중동까지…역대급변동성예고",
     "[주간뉴욕증시]M7가운데4곳실적발표…美연준금리결정도",
-    "\"하이닉스본주보다너무비싸,손실위험\"...미국서나온경고"
+    "\"하이닉스본주보다너무비싸,손실위험\"...미국서나온경고",
+    "뉴욕증시,유가하락·반도체약세속혼조마감-[글로벌마감시황]",
+    "SK,엔비디아에메모리장기공급",
+    "美,자동차이어반도체까지...“애플도중국메모리쓰지마!”",
+    "젠슨황\"韓은AI황금기…SK와5천억달러파트너십\"",
+    "뉴욕증시,FOMC·빅테크실적에AI과열까지시험대"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T07:10:26.798514+09:00"
+   "last_run": "2026-07-27T07:15:26.455691+09:00"
   }
  },
  "press_names": {
