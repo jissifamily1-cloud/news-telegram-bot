@@ -558,15 +558,17 @@
     [
      "2026-07-26T12:35:23.217656+09:00",
      "회사에 11년 최태원 편지의 않겠다 부메랑 끼치지"
+    ],
+    [
+     "2026-07-26T12:55:21.678563+09:00",
+     "시계 용인 빨라진 신규 분양 산단 직주근접 가동 반도체 눈길"
+    ],
+    [
+     "2026-07-26T12:55:21.678563+09:00",
+     "민관 합작 대통 1400조 그리고 동맹"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1717759",
-    "https://www.ajunews.com/view/20260725091626203",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260725091904eoK",
-    "https://www.m-i.kr/news/articleView.html?idxno=1395226",
-    "https://www.newspim.com/news/view/20260725000028",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426817",
     "https://it.chosun.com/news/articleView.html?idxno=2023092166560",
     "https://en.yna.co.kr/view/AEN20260725000751315?input=2106m",
     "https://www.kmib.co.kr/article/view.asp?arcid=0030159683&code=61141111&cp=nv",
@@ -2060,15 +2062,15 @@
     "https://www.polinews.co.kr/news/articleView.html?idxno=738056",
     "https://www.etoday.co.kr/news/view/2607485",
     "https://www.hani.co.kr/arti/politics/bluehouse/1269963.html",
-    "http://www.cctimes.kr/news/articleView.html?idxno=918405"
+    "http://www.cctimes.kr/news/articleView.html?idxno=918405",
+    "https://gamefocus.co.kr/detail.php?number=177734",
+    "https://www.huffingtonpost.kr/article/259002",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=267873",
+    "https://www.dt.co.kr/article/12074744",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1389415",
+    "https://www.ajunews.com/view/20260726123447781"
    ],
    "seen_titles": [
-    "젠슨황\"SK와5000억달러협력\"…韓AI동맹확대",
-    "[속보]李대통령만난젠슨황\"엔비디아·SK,5천억달러파트너십발표...",
-    "李대통령‘샌프란시코AI선언’…“韓,대체불가공급망핵심국가로...",
-    "李대통령'샌프란AI선언'발표…\"韓,대체불가AI공급망국가\"",
-    "글로벌빅테크쏟아진찬사…젠슨황“AI황금시대”·올트먼“韓,가...",
-    "미국증시,유가하락에도반도체주급락에혼조세",
     "李대통령\"韓대체불가글로벌AI공급망핵심국가로도약\"",
     "젠슨황\"SK와730조파트너십발표\"…李대통령과어떤약속했나",
     "李대통령,샌프란AI선언서“한국,글로벌AI공급망핵심국가도약할...",
@@ -3562,10 +3564,16 @@
     "실리콘밸리VC만난李대통령\"다음세대삼성·현대·SK·네이버만들것...",
     "중국메모리허용놓고애플·마이크론로비전⋯트럼프‘딜레마’",
     "김용범“실리콘밸리킹메이커만났다…다음삼성·SK키우자는결의”",
-    "SK하이닉스,2분기영업익64조원전망"
+    "SK하이닉스,2분기영업익64조원전망",
+    "엔비디아,SK그룹,현대자동차,네이버등한국파트너들과차세대AI혁...",
+    "글로벌벤처캐피탈CEO만난이재명\"세계최고의창업국가만들겠다\",...",
+    "SKT,유망스타트업에독자AI'A.XK1'API지원…AI생태계확장",
+    "이재용,美서오픈AI샘올트먼회동…AI·반도체협력논의",
+    "가동시계빨라진용인반도체산단,'직주근접'신규분양눈길",
+    "[아주사설│기본·원칙·상식]민관합작'1400조AI동맹',그리고대통..."
    ],
    "initialized": true,
-   "last_run": "2026-07-26T12:50:28.345657+09:00"
+   "last_run": "2026-07-26T12:55:21.678563+09:00"
   }
  },
  "press_names": {
