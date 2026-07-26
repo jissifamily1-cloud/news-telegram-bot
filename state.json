@@ -550,11 +550,13 @@
     [
      "2026-07-26T14:25:24.853323+09:00",
      "13번째 명과 스페이스X 시험발사 성공 스타십"
+    ],
+    [
+     "2026-07-26T14:30:32.497050+09:00",
+     "영상 안경 불법 촬영물 지운다 메타 몰카 악질 단속"
     ]
    ],
    "seen_urls": [
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254110&CMPT_CD=P0010",
-    "https://www.newsis.com/view/NISX20260725_0003723007",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4426820",
     "https://www.newsis.com/view/NISI20260725_0021376702",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005886941",
@@ -2052,11 +2054,11 @@
     "https://www.mk.co.kr/article/12107594",
     "https://www.etoday.co.kr/news/view/2607502",
     "http://www.segyebiz.com/newsView/20260726506161?OutUrl=naver",
-    "https://www.g-enews.com/view.php?ud=20260726135439613fda4f5ab74_1"
+    "https://www.g-enews.com/view.php?ud=20260726135439613fda4f5ab74_1",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=852468",
+    "https://zdnet.co.kr/view/?no=20260726004548"
    ],
    "seen_titles": [
-    "이재용·정의선·이해진,엔비디아본사방문…젠슨황과면담",
-    "李대통령만난젠슨황\"SK와5000억달러AI파트너십\"",
     "이재명대통령'샌프란시스코AI선언'발표(전문)",
     "李대통령,샘알트만·젠슨황·혹탄연쇄면담…'메가프로젝트'협력...",
     "李대통령\"한국,대체불가글로벌AI공급망으로도약할것\"",
@@ -3554,10 +3556,12 @@
     "“통신사도움없인은행도힘들어요”…금융권휩쓰는KTAI에이전틱",
     "AI패권의심장부,실리콘밸리…K기업이몰리는이유",
     "중동발유가상승에물가·이자‘들썩’…하반기경제먹구름끼나",
-    "스페이스X스타십,13번째시험발사성공명과암"
+    "스페이스X스타십,13번째시험발사성공명과암",
+    "국민연금'매도폭탄'없었다···7개월만에순매수",
+    "\"몰카·악질영상지운다\"...메타,'AI안경'불법촬영물단속"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T14:25:24.853323+09:00"
+   "last_run": "2026-07-26T14:30:32.497050+09:00"
   }
  },
  "press_names": {
