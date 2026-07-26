@@ -769,9 +769,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH20260725130529JbN",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426829",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620035",
     "https://biz.sbs.co.kr/article_hub/20000324619?division=NAVER",
     "https://www.mydaily.co.kr/page/view/2026072513102693981",
     "https://www.econovill.com/news/articleView.html?idxno=746136",
@@ -2268,12 +2265,12 @@
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4079309",
     "https://www.koreajoongangdaily.com/business/nearly-1-trillion-in-deals-us-big-tech-korean-chipmakers-align-to-steer-future-of-ai/12791942",
     "https://www.topstarnews.net/news/articleView.html?idxno=16146024",
-    "https://www.namdonews.com/news/articleView.html?idxno=918076"
+    "https://www.namdonews.com/news/articleView.html?idxno=918076",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553406284",
+    "https://view.asiae.co.kr/article/2026072619172414668",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01948326645518456"
    ],
    "seen_titles": [
-    "李대통령,글로벌AICEO들과샌프란깐부회동…AI협력외교이어가",
-    "靑김용범“9500억불반도체협력추진…SK·엔비디아1085조,삼성·브...",
-    "[속보]SK,엔비디아등빅테크기업들과7천500억불반도체공급협력",
     "[토요와이드]이대통령,AI빅딜…엔비디아·SK5천억달러파트너십",
     "김용범\"SK,엔비디아등과향후5년간1천85조규모반도체공급협력\"",
     "[속보]청와대“삼성·SK,글로벌빅테크기업들과9,500억불반도체...",
@@ -3770,10 +3767,13 @@
     "이대통령,AI빅테크협력확대…1375조원규모투자·공급망구축",
     "Nearly$1trillionindeals:U.S.BigTech,Koreanchipmakersaligntos",
     "국내증시5일연속사이드카…서학개미는반도체3배베팅",
-    "이정규광주FC감독\"플랜B·C까지준비\"…제주전총력전"
+    "이정규광주FC감독\"플랜B·C까지준비\"…제주전총력전",
+    "[현장목소리]세르지우코스타감독,\"습하고무더운날경험풍부,날씨...",
+    "SK하이닉스,'경쟁사'日키옥시아사실상2대주주로",
+    "李대통령,AI기업인들과\"우리는식구다\""
    ],
    "initialized": true,
-   "last_run": "2026-07-26T19:15:25.851326+09:00"
+   "last_run": "2026-07-26T19:20:24.419622+09:00"
   }
  },
  "press_names": {
