@@ -506,13 +506,17 @@
     [
      "2026-07-27T07:05:23.190559+09:00",
      "반도체팹 있다 1위 호남 전국 RE100 대응 전력자급률 능력"
+    ],
+    [
+     "2026-07-27T07:10:26.798514+09:00",
+     "금리결정도 발표 실적 가운데 연준 M7 4곳"
+    ],
+    [
+     "2026-07-27T07:10:26.798514+09:00",
+     "미국서 하이닉스 비싸 너무 경고 손실 나온 위험 본주보다"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260725_0003723165",
-    "https://www.newscj.com/news/articleView.html?idxno=3419836",
-    "https://www.yna.co.kr/view/AKR20260725036651001?input=1195m",
-    "https://www.mediafine.co.kr/news/articleView.html?idxno=84600",
     "https://www.khan.co.kr/article/202607251546001",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1531818",
     "https://www.etoday.co.kr/news/view/2607391",
@@ -2008,13 +2012,13 @@
     "https://economist.co.kr/article/view/ecn202607210066",
     "https://www.fetv.co.kr/news/articleView.html?idxno=307095",
     "https://www.etoday.co.kr/news/view/2607141",
-    "https://www.sidae.com/article/2026072414484924622"
+    "https://www.sidae.com/article/2026072414484924622",
+    "https://biz.sbs.co.kr/article_hub/20000324725?division=NAVER",
+    "https://biz.sbs.co.kr/article_hub/20000324709?division=NAVER",
+    "https://www.newsis.com/view/NISX20260727_0003723829",
+    "https://www.mt.co.kr/world/2026/07/27/2026072706544246298"
    ],
    "seen_titles": [
-    "[전문]이대통령,'샌프란시스코AI선언'",
-    "“韓없으면AI혁명불가\"…올트먼,李대통령·삼성·SK만나'AI동맹...",
-    "SK,엔비디아·MS·앤트로픽과7500억달러AI동맹",
-    "靑\"국내기업-글로벌빅테크기업,9천500억불반도체협력\"(종합)",
     "SK,엔비디아·MS·앤트로픽과AI동맹-5년간7500억달러인프라협력",
     "이재용·올트먼,오픈AI본사서회동···인공지능인프라관련협력...",
     "젠슨황\"SK와파트너십발표…5천억달러규모\"",
@@ -3510,10 +3514,14 @@
     "고객이자경쟁자되나…LG엔솔‘ESS사업자’변신딜레마",
     "[건설DC조직은]⑥SK에코플랜트,6년전'전담조직'반도체역량결합",
     "7월넷째주유튜브영상순위[이투PICK순삭랭킹]",
-    "[르포]호남전력자급률전국1위…\"반도체팹RE100대응능력있다\""
+    "[르포]호남전력자급률전국1위…\"반도체팹RE100대응능력있다\"",
+    "인뱅첫파업나오나…카카오뱅크노조,오는31일파업예고",
+    "[증시전략]빅테크실적·FOMC회의·중동까지…역대급변동성예고",
+    "[주간뉴욕증시]M7가운데4곳실적발표…美연준금리결정도",
+    "\"하이닉스본주보다너무비싸,손실위험\"...미국서나온경고"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T07:05:23.190559+09:00"
+   "last_run": "2026-07-27T07:10:26.798514+09:00"
   }
  },
  "press_names": {
