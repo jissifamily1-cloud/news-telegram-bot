@@ -346,14 +346,25 @@
     [
      "2026-07-27T00:55:24.454253+09:00",
      "빅샷들 반도체 한미 데이터센터 한자리 동맹 모인 로봇"
+    ],
+    [
+     "2026-07-27T01:00:37.249887+09:00",
+     "건배 9500억달러짜리"
+    ],
+    [
+     "2026-07-27T01:00:37.249887+09:00",
+     "SK하이닉스인데 비쌌다 같은 ADR에 거품"
+    ],
+    [
+     "2026-07-27T01:00:37.249887+09:00",
+     "노동운동 미조직 리영희기념사업회 시민강좌 비정형 열어"
+    ],
+    [
+     "2026-07-27T01:00:37.249887+09:00",
+     "만든다 현실에선 AI가 일자리"
     ]
    ],
    "seen_urls": [
-    "https://magazine.hankyung.com/business/article/202607255618b",
-    "https://www.joongangenews.com/news/articleView.html?idxno=535420",
-    "https://view.asiae.co.kr/article/2026072514201225774",
-    "https://www.newsis.com/view/NISX20260725_0003723125",
-    "https://www.mt.co.kr/tech/2026/07/25/2026072514034327267",
     "http://kor.theasian.asia/archives/410649",
     "https://www.hankyung.com/article/202606233908i",
     "https://biz.sbs.co.kr/article_hub/20000324623?division=NAVER",
@@ -1848,14 +1859,14 @@
     "https://www.chosun.com/economy/money/2026/07/27/XTM4GZ3ECZBUJJOT6FSX4D7IXA/",
     "https://www.chosun.com/economy/tech_it/2026/07/27/B2ZTF65WVJCRRGA2IN3UL2LOUM/",
     "https://www.chosun.com/national/court_law/2026/07/27/JTPVZGE3BJEDFCVM3VGLW2YNRA/",
-    "https://www.chosun.com/economy/industry-company/2026/07/27/ERBRKQUOBRDCBMFCXRGVYDJD44/"
+    "https://www.chosun.com/economy/industry-company/2026/07/27/ERBRKQUOBRDCBMFCXRGVYDJD44/",
+    "https://www.hankyung.com/article/2026072665991",
+    "https://www.chosun.com/politics/politics_general/2026/07/27/IE6OHWTQNFA2HKPMWABCS4KW2Y/",
+    "https://www.the-today.com/news/articleView.html?idxno=87879",
+    "http://www.mediagunpo.co.kr/21653",
+    "https://www.hankyung.com/article/2026072665131"
    ],
    "seen_titles": [
-    "靑\"국내기업,글로벌빅테크기업과총9500억달러규모반도체협력\"",
-    "SK,엔비디아·MS와'730조'AI동맹…최태원\"낯선숫자지만현실적수...",
-    "최태원SK회장\"앤트로픽,자체AI칩개발\"…SK하이닉스에부품공급요...",
-    "김용범\"삼전닉스,글로벌빅테크와'1375조원·5년'반도체협력\"",
-    "SK,엔비디아등과총5000억달러이상AI인프라'협력'",
     "배경훈\"대한민국,글로벌AI공급망핵심거점으로\"...AI선언이행속...",
     "아자뉴스바이트20260725",
     "'투자고수'된전직교육회사직원…\"반도체랠리소외주에도주목해야...",
@@ -3350,10 +3361,15 @@
     "실버타운입주맞춤전략가이드",
     "AI모델·SW·데이터센터핵심부품…중국수출품목,첨단기술로이동",
     "최태원이노소영줘야할9440억…지연이자만하루에1억2930만원",
-    "한자리모인한미빅샷들…반도체·데이터센터·로봇‘AI동맹’"
+    "한자리모인한미빅샷들…반도체·데이터센터·로봇‘AI동맹’",
+    "[사설]'대체불가AI한국'선언…규제혁파와실행력이관건",
+    "9500억달러짜리‘건배’",
+    "같은SK하이닉스인데51%비쌌다…ADR에낀'AI거품'",
+    "리영희기념사업회,‘미조직·비정형노동운동’시민강좌열어",
+    "[이경전의AI와비즈니스모델]현실에선AI가일자리만든다"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T00:55:24.454253+09:00"
+   "last_run": "2026-07-27T01:00:37.249887+09:00"
   }
  },
  "press_names": {
