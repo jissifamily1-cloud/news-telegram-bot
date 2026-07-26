@@ -641,10 +641,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20260725504605?OutUrl=naver",
-    "https://www.newsis.com/view/NISI20260725_0021376737",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607250277&t=NN",
-    "https://www.sentv.co.kr/article/view/sentv202607250013",
     "https://www.ajunews.com/view/20260725132842312",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=87134",
     "https://www.chosun.com/economy/tech_it/2026/07/25/UVJKVKUYYREU7CX7QJLMU5PPXU/",
@@ -2140,13 +2136,13 @@
     "https://sports.khan.co.kr/article/202607262040003?pt=nv",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2245516",
     "https://www.etnews.com/20260726000142",
-    "https://www.kyeongin.com/article/1767951"
+    "https://www.kyeongin.com/article/1767951",
+    "http://www.jmbc.co.kr/news/view/66511",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01981126645518456",
+    "https://www.news1.kr/politics/president/6239400",
+    "https://www.khan.co.kr/article/202607262045015"
    ],
    "seen_titles": [
-    "李대통령\"韓,글로벌AI허브로\"…AI선언에빅테크·총수들힘보탰다",
-    "“우리는,식구다”화기애애했던‘샌프란깐부회동’후기",
-    "'대규모AI데이터센터협력의향서(LOI)'체결",
-    "오른쪽엔이재용,왼쪽은최태원…샌프란수놓은李대통령만찬",
     "'대규모AIDC협력의향서(LOI)및반도체관련협력MOU'",
     "[속보]김용범\"SK7500억불·삼성2000억불…9500억불반도체협력\"",
     "李대통령만난젠슨황\"SK와5000억달러규모협력발표\"",
@@ -3642,10 +3638,14 @@
     "제주SKFC,바이에른뮌헨전공식MD팝업스토어운영",
     "SK텔레콤,스타트업에AI모델API개방…국산AI생태계확산",
     "SK하이닉스,사실상경쟁사日'키옥시아'2대주주로",
-    "[참성단]최태원-노소영이혼"
+    "[참성단]최태원-노소영이혼",
+    "금융도시약속한이재명대통령..2차이전에반영될까",
+    "中D램강자CXMT,내일상하이증시데뷔…12·5조원조달",
+    "김용범\"李대통령과글로벌VC만남…삼성·SK다음타자키우는결의\"",
+    "7월코스피,국민연금은담고개미는탈출"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T20:50:25.646845+09:00"
+   "last_run": "2026-07-26T20:55:18.871179+09:00"
   }
  },
  "press_names": {
