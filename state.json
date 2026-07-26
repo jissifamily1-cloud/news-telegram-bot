@@ -577,10 +577,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=01899126645518128",
-    "https://www.newdaily.co.kr/site/data/html/2026/07/25/2026072500003.html",
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=61997",
-    "https://www.kyeonggi.com/article/20260725580007",
     "https://news.dealsitetv.com/articles/173701",
     "https://biz.heraldcorp.com/article/10819807",
     "https://www.cbci.co.kr/news/articleView.html?idxno=591735",
@@ -2076,13 +2072,13 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1717797",
     "https://www.dailian.co.kr/news/view/1670935/?sc=Naver",
     "https://www.econovill.com/news/articleView.html?idxno=746174",
-    "https://www.ajunews.com/view/20260726101652616"
+    "https://www.ajunews.com/view/20260726101652616",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=307694",
+    "https://www.newsis.com/view/NISX20260726_0003723444",
+    "https://www.newsjeju.net/news/articleView.html?idxno=423757",
+    "https://www.seoul.co.kr/news/economy/industry/2026/07/26/20260726500029?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "\"한국이다시만들까무섭다\"…韓메모리증설에떨고있는대만[대만칩...",
-    "인천공항·해운대통신장애없다…통신사,휴가기간특별관리",
-    "국내증시출렁에국장이탈?…서학개미이달순매수4배늘었다",
-    "한국이대만을이겼는데,왜대만보다저평가일까",
     "변동성논란에500조무너진ETF시장…커버드콜존재감커졌다",
     "SK하닉보다낫다…한달새115%오른SK이터닉스",
     "李대통령,앤트로픽CEO만나“국내기업과투자대폭확대되길기대”",
@@ -3578,10 +3574,14 @@
     "'74조매도설'빗나갔다...국민연금,하이닉스담고삼성전자줄였다",
     "李\"한국,세계제일투자·창업환경\"…실리콘밸리VC6개사와MOU체결",
     "K배터리,하반기실적회복기대감…2분기조기흑자전환주목",
-    "SKT,스타트업에독자AI모델API지원…\"AI생태계확산\""
+    "SKT,스타트업에독자AI모델API지원…\"AI생태계확산\"",
+    "李대통령,실리콘밸리자본과K스타트업연결…\"차세대삼성함께만들...",
+    "규제강화전물타기?…삼전·닉스2배손절했던개미들,다시폭풍매수",
+    "8월메가스포츠축제의장...올여름제주달군다",
+    "[뉴스분석]샌프란선언,‘톱다운’으로AI한미협력이행보장"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T10:25:23.473994+09:00"
+   "last_run": "2026-07-26T10:30:32.218533+09:00"
   }
  },
  "press_names": {
