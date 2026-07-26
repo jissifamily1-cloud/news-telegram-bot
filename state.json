@@ -230,11 +230,13 @@
     [
      "2026-07-27T03:45:23.861846+09:00",
      "동맹 5000억달러 엔비디아 SK와"
+    ],
+    [
+     "2026-07-27T04:05:23.160461+09:00",
+     "리투아니아 기티스 출신 덕분 K리그1 이승우 패스 데뷔골 국대"
     ]
    ],
    "seen_urls": [
-    "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260725505&PRO_CODE=99",
-    "https://www.etoday.co.kr/news/view/2607382",
     "https://www.econovill.com/news/articleView.html?idxno=746145",
     "https://www.sedaily.com/article/20071795",
     "https://www.thelec.kr/news/articleView.html?idxno=60037",
@@ -1732,11 +1734,11 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=1785052957&code=11151300&cp=nv",
     "https://platum.kr/archives/291424",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4426898",
-    "https://view.asiae.co.kr/article/2026072703420181536"
+    "https://view.asiae.co.kr/article/2026072703420181536",
+    "https://www.mt.co.kr/stock/2026/07/27/2026072619400563114",
+    "https://www.mk.co.kr/article/12107884"
    ],
    "seen_titles": [
-    "李대통령“코스피조정중”발언에젠슨황“다시오를것”",
-    "[속보]\"우리는식구다\"이대통령건배사…AI리더들'미국판깐부회동...",
     "韓,빅테크와9500억‘AI동맹’…샌프란에서AIDC·반도체공급망협력",
     "[ER인사이드]한미반도체협력9500억달러\"누가,무엇을얻었나?\"",
     "韓기업·글로벌빅테크1300조규모반도체협력…AI공급망입지도강...",
@@ -3234,10 +3236,12 @@
     "환율떨어졌지만안심못한다?…“ADR환전일시적효과”",
     "이재명대통령,실리콘밸리주요VC만나“한미스타트업동맹확대”",
     "김용범\"대통령-실리콘밸리VC회동은'다음삼성'키우는결의\"",
-    "엔비디아,SK와5000억달러AI동맹"
+    "엔비디아,SK와5000억달러AI동맹",
+    "빅테크실적·FOMC…슈퍼위크'훈풍'기대감",
+    "K리그1데뷔골!‘리투아니아국대’출신기티스“이승우패스덕분”..."
    ],
    "initialized": true,
-   "last_run": "2026-07-27T04:00:39.308498+09:00"
+   "last_run": "2026-07-27T04:05:23.160461+09:00"
   }
  },
  "press_names": {
