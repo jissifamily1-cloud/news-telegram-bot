@@ -758,12 +758,13 @@
     [
      "2026-07-26T18:45:25.170684+09:00",
      "차이나플러스원 유력한 큰손들 실리콘밸리 대안 가장"
+    ],
+    [
+     "2026-07-26T18:50:27.848231+09:00",
+     "해달라 샌프란 대통령 중요 역할 메가프로젝트 올트먼에"
     ]
    ],
    "seen_urls": [
-    "https://zdnet.co.kr/view/?no=20260725114035",
-    "https://www.donga.com/news/Politics/article/all/20260725/134363032/2",
-    "https://www.yna.co.kr/view/AKR20260725034300003?input=1195m",
     "https://www.joongangenews.com/news/articleView.html?idxno=535412",
     "https://www.viva100.com/article/20260725500170",
     "https://www.mt.co.kr/politics/2026/07/25/2026072512560767029",
@@ -2260,12 +2261,12 @@
     "https://www.dt.co.kr/article/12074821",
     "https://www.yna.co.kr/view/AKR20260726045000089?input=1195m",
     "https://www.kbmaeil.com/article/20260726500663",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1785052363&code=11121600&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=1785052363&code=11121600&cp=nv",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1785057573&code=11151400&cp=nv",
+    "https://www.tokenpost.kr/news/breaking/381415",
+    "https://www.segye.com/newsView/20260726508301?OutUrl=naver"
    ],
    "seen_titles": [
-    "李대통령·젠슨황\"우리는식구다\"건배…美샌프란'깐부회동'",
-    "이재용·최태원·정의선·이해진,엔비디아본사서젠슨황과회동(종합...",
-    "최태원,젠슨황과미국서치킨회동…\"만날때마다모어칩스\"(종합)",
     "최태원\"한국3대AI메가프로젝트,허황되지않아\"",
     "‘용산상가다니던시절이에너지원’…젠슨황대답에李‘엄지척’",
     "최태원\"한국,AI테스트베드될것…비용낮추고부작용줄여야\"",
@@ -3762,10 +3763,13 @@
     "[기획]젠슨황부터올트먼까지…삼전닉스,반도체초격차굳힌다",
     "'삼전·닉스도전'CXMT,내일中증시데뷔…본토시총1위오를까",
     "‘삼성·하이닉스추격’中CXMT,내일증시입성…시총1위등극할까",
-    "[단독]실리콘밸리큰손들“韓,차이나플러스원가장유력한대안”"
+    "[단독]실리콘밸리큰손들“韓,차이나플러스원가장유력한대안”",
+    "네이버14.6조,SKT2GW…AI데이터센터‘GW급전쟁’",
+    "다음주FOMC·PCE·빅테크실적집중",
+    "李,올트먼에“메가프로젝트중요역할해달라”[李대통령‘샌프란..."
    ],
    "initialized": true,
-   "last_run": "2026-07-26T18:45:25.170684+09:00"
+   "last_run": "2026-07-26T18:50:27.848231+09:00"
   }
  },
  "press_names": {
