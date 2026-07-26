@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-26T12:10:26.411512+09:00",
-     "1부 이겼는데 최태원은 예상하지 못했나 9440억 대법원서"
-    ],
-    [
      "2026-07-26T12:15:25.825894+09:00",
      "이재명 조갑제 비서 장동혁 부정선거론은 야무져"
     ],
@@ -698,17 +694,25 @@
     [
      "2026-07-26T18:10:25.022933+09:00",
      "쓸어 홀로 1294억 정체 아니다 담은 반도체가 종목"
+    ],
+    [
+     "2026-07-26T18:15:24.760143+09:00",
+     "싶더니 다시 되돌아간 전으로 코스닥 올랐다 와르르 1년"
+    ],
+    [
+     "2026-07-26T18:15:24.760143+09:00",
+     "ETF에 뭉칫돈 미국지수 투자자 집중 자금 최근 1년"
+    ],
+    [
+     "2026-07-26T18:15:24.760143+09:00",
+     "반도체 FOMC 실적 7600p 주목"
+    ],
+    [
+     "2026-07-26T18:15:24.760143+09:00",
+     "기대감 핵심축 잰걸음 협력에 자리매김"
     ]
    ],
    "seen_urls": [
-    "https://www.gokorea.kr/news/articleView.html?idxno=873096",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674421&plink=ORI&cooper=NAVER",
-    "https://www.yna.co.kr/view/AKR20260725031900091?input=1195m",
-    "https://www.ekn.kr/web/view.php?key=20260725022236045",
-    "https://www.joongangenews.com/news/articleView.html?idxno=535396",
-    "https://www.cwn.kr/news/articleView.html?idxno=51308",
-    "https://www.kyeonggi.com/article/20260725580045",
-    "https://www.newscj.com/news/articleView.html?idxno=3419798",
     "https://www.gokorea.kr/news/articleView.html?idxno=873103",
     "https://www.gokorea.kr/news/articleView.html?idxno=873101",
     "https://www.gokorea.kr/news/articleView.html?idxno=873104",
@@ -2200,17 +2204,17 @@
     "https://www.asiatoday.co.kr/kn/view.php?key=20260727010009418",
     "http://www.fnnews.com/news/202607261807081568",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260727010009428",
-    "https://www.wikitree.co.kr/articles/1148557"
+    "https://www.wikitree.co.kr/articles/1148557",
+    "https://www.joongang.co.kr/article/25448238",
+    "https://www.hankyung.com/article/2026072666381",
+    "http://www.fnnews.com/news/202607261809558686",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260726010009376",
+    "https://www.ajunews.com/view/20260726142026915",
+    "https://www.ajunews.com/view/20260726141355904",
+    "http://www.fnnews.com/news/202607261809580060",
+    "https://www.ytn.co.kr/_ln/0102_202607261807106232"
    ],
    "seen_titles": [
-    "李대통령,美AI기업에투자·협력요청…엔비디아·오픈AI등구상공개",
-    "한국투자자들,미국증시로자금이동…ETF투자급증",
-    "이재용-젠슨황등한미글로벌CEO들한자리…\"AI여정한국과함께\"",
-    "대한민국AI강국도약…고성장에도남은과제는?",
-    "[바로이뉴스]\"SK와730조동맹!대단하죠?\"…한국메모리'콕'집어\"엄...",
-    "엔비디아·오픈AI도불러모은K반도체…\"韓없이AI혁명도없어\"",
-    "“삼전닉스비중줄여라”…갈아타는월가,‘엑시트코리아’본격화...",
-    "최근5거래일SK주가나흘상승세마감후조정",
     "'AI동맹'강화된다…최태원·젠슨황,美서협력논의하며공동연구소...",
     "이재명대통령,빅테크CEO들과피시앤칩스만찬…‘샌프란깐부회동’",
     "기업가치2경원CEO한자리에…\"AI미래,한국과함께\"",
@@ -3702,10 +3706,18 @@
     "\"AI혜택,전세계와공유\"…대체불가'K이니셔티브'띄운李",
     "서학개미,SK하닉ADR에베팅…일주일새7천억담았다",
     "\"AI패권핵심K-반도체\"…피크아웃불식시켰다",
-    "홀로반도체가아니다?…1294억쓸어담은'이종목'의정체"
+    "홀로반도체가아니다?…1294억쓸어담은'이종목'의정체",
+    "노소영몫9440억,어떻게결정됐나…소송중SK주가‘5배’반영",
+    "SKT,독자AI모델기반스타트업지원나선다",
+    "변동장서탄력적인매도옵션...배당회피전략으로세금아껴[이런펀...",
+    "'세기의이혼'최태원,9440억재산분할…주식담보대출이냐실트론매...",
+    "1년전으로되돌아간코스닥…올랐다싶더니다시'와르르'",
+    "미국지수·AIETF에뭉칫돈…최근1년투자자자금집중",
+    "6700~7600p…반도체실적·FOMC주목[주간증시전망]",
+    "AI협력에'잰걸음'...\"핵심축자리매김기대감\""
    ],
    "initialized": true,
-   "last_run": "2026-07-26T18:10:25.022933+09:00"
+   "last_run": "2026-07-26T18:15:24.760143+09:00"
   }
  },
  "press_names": {
