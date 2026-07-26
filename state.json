@@ -538,14 +538,13 @@
     [
      "2026-07-26T15:15:26.342456+09:00",
      "from Korean real won rebounds year value low"
+    ],
+    [
+     "2026-07-26T15:20:26.060014+09:00",
+     "전자 60만 닉스 때가 420만 온다 아니라 시대"
     ]
    ],
    "seen_urls": [
-    "http://www.joseilbo.com/news/news_read.php?uid=572606&class=78",
-    "https://www.ntoday.co.kr/news/articleView.html?idxno=128386",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3645901",
-    "https://www.etoday.co.kr/news/view/2607371",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044340",
     "https://www.m-economynews.com/news/article.html?no=69088",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4426825",
     "https://biz.heraldcorp.com/article/10819872",
@@ -2040,14 +2039,14 @@
     "https://www.busan.com/view/busan/view.php?code=2026072615094501274",
     "https://biz.sbs.co.kr/article_hub/20000324683?division=NAVER",
     "https://www.newsis.com/view/NISX20260726_0003723600",
-    "https://www.koreatimes.co.kr/path/A2026072610200005115"
+    "https://www.koreatimes.co.kr/path/A2026072610200005115",
+    "https://www.ggilbo.com/news/articleView.html?idxno=1171362",
+    "https://www.kfenews.co.kr/news/articleView.html?idxno=661215",
+    "https://www.g-enews.com/view.php?ud=202607261511051823fbbec65dfb_1",
+    "https://www.dt.co.kr/article/12074766",
+    "https://weekly.khan.co.kr/article/202607261518001"
    ],
    "seen_titles": [
-    "국내기름값10주연속하락...휘발유1872원·경유1857원",
-    "[투데이증시]AI메모리피크아웃우려에필반지수4%급락...뉴욕증시...",
-    "한자리에모인글로벌AI리더들",
-    "[속보]이재명대통령\"AI공급망핵심국가도약\"…'샌프란시스코AI선...",
-    "이대통령,젠슨황등과'맥주회동'…시총1.7경AI리더한자리",
     "이대통령,샌프란선언…\"韓대체불가AI공급망핵심국도약\"",
     "‘3조달러’韓메가프로젝트에…최태원“숫자생소하지만허황아냐...",
     "李대통령'샌프란시스코AI선언'…\"한국,대체불가AI공급망핵심국가...",
@@ -3542,10 +3541,15 @@
     "단일종목레버리지규제시행앞두고…물타기나선개미",
     "K-배터리2분기성적표는?…실적회복기대감",
     "SK하이닉스,'AI메모리호황'에2Q역대최대실적기대…전자업계'실...",
-    "Koreanwonreboundsfrom17-yearreal-valuelow"
+    "Koreanwonreboundsfrom17-yearreal-valuelow",
+    "샌프란AI선언…충청AI·반도체메가프로젝트탄력",
+    "靑\"국내기업-글로벌빅테크,9500억달러반도체협력추진\"",
+    "'인재를따라간다'…457조실리콘밸리큰손들이한국에문연이유",
+    "‘삼전닉스레버리지’수수료4배차…삼성운용독식속보수‘극과극...",
+    "“60만전자·420만닉스시대온다”···팔때가아니라살때?"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T15:15:26.342456+09:00"
+   "last_run": "2026-07-26T15:20:26.060014+09:00"
   }
  },
  "press_names": {
