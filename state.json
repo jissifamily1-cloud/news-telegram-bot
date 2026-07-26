@@ -614,12 +614,13 @@
     [
      "2026-07-26T21:45:25.122852+09:00",
      "넘은 증시 TK는"
+    ],
+    [
+     "2026-07-26T21:50:26.028285+09:00",
+     "수원문화재단 따라 운영 달리는 갈라 달빛 자전거도서관 발레"
     ]
    ],
    "seen_urls": [
-    "https://www.ikbc.co.kr/article/view/kbc202607250019",
-    "https://www.newsis.com/view/NISX20260725_0003723062",
-    "https://news.tvchosun.com/site/data/html_dir/2026/07/25/2026072590058.html",
     "https://zdnet.co.kr/view/?no=20260725134212",
     "https://www.chosun.com/economy/economy_general/2026/07/25/GPIQYZJ6RFATJFSWL5KJTU4EQY/",
     "https://biz.heraldcorp.com/article/10819958",
@@ -2116,12 +2117,12 @@
     "https://www.ajunews.com/view/20260726213215293",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=264969",
     "https://biz.heraldcorp.com/article/10819591",
-    "https://www.yeongnam.com/web/view.php?key=20260726026208226"
+    "https://www.yeongnam.com/web/view.php?key=20260726026208226",
+    "https://www.khan.co.kr/article/202607262145005",
+    "https://www.khan.co.kr/article/202607262143005",
+    "https://www.cstimes.com/news/articleView.html?idxno=714664"
    ],
    "seen_titles": [
-    "김용범\"글로벌빅테크기업과총9500억달러규모반도체협력\"",
-    "한국을AI생산·실증거점으로…이대통령'샌프란시스코AI선언'",
-    "이대통령\"'우리는'하면'식구다'해주세요\"…AI리더들과'맥주회동...",
     "한·미,AI서밋서1,375조원규모반도체협력추진",
     "이재명대통령,글로벌AI리더들과'맥주회동'[뉴시스Pic]",
     "이재용\"李대통령,소년시절헬리콥터보고꿈꾸었듯\"…'샌프란AI'말...",
@@ -3618,10 +3619,13 @@
     "[아주경제오늘의뉴스종합]李대통령,美빅테크와1400조'AI동맹'…실...",
     "이재용회장,오픈AI본사서샘올트먼과회동",
     "[증시예보]“떨리다못해무서울지경”드디어‘삼전닉스’실적나...",
-    "[코스피시대,미국서TK경제의길을묻다①]9,000넘은증시,TK는왜..."
+    "[코스피시대,미국서TK경제의길을묻다①]9,000넘은증시,TK는왜...",
+    "AI전영역‘빅테크고객’확보…한국,AI공급망주도권잡는다[샌프...",
+    "이대통령도‘깐부회동’…“우리는식구다”건배사[샌프란시스코A...",
+    "수원문화재단,'달빛따라달리는자전거도서관'운영및발레갈라'앙..."
    ],
    "initialized": true,
-   "last_run": "2026-07-26T21:45:25.122852+09:00"
+   "last_run": "2026-07-26T21:50:26.028285+09:00"
   }
  },
  "press_names": {
