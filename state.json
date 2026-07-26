@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-26T19:25:21.367305+09:00",
-     "군공항 재원구조 광주 전면 이전 재검토"
-    ],
-    [
-     "2026-07-26T19:25:21.367305+09:00",
-     "삼전닉스 중국 영향 상장 주목 창신메모리"
-    ],
-    [
      "2026-07-26T19:35:21.509396+09:00",
      "사이드카"
     ],
@@ -334,10 +326,13 @@
     [
      "2026-07-27T01:00:37.249887+09:00",
      "만든다 현실에선 AI가 일자리"
+    ],
+    [
+     "2026-07-27T01:25:21.626275+09:00",
+     "이제는 동맹 초대형 정부가 차례 기업"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000324623?division=NAVER",
     "https://www.sedaily.com/article/20071793",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=313189",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=307667",
@@ -1836,10 +1831,10 @@
     "http://www.mediagunpo.co.kr/21653",
     "https://www.hankyung.com/article/2026072665131",
     "https://www.newsis.com/view/NISX20260727_0003723811",
-    "https://www.segye.com/newsView/20260727500201?OutUrl=naver"
+    "https://www.segye.com/newsView/20260727500201?OutUrl=naver",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1785049019&code=11171111&cp=nv"
    ],
    "seen_titles": [
-    "'투자고수'된전직교육회사직원…\"반도체랠리소외주에도주목해야...",
     "블룸버그\"앤트로픽,자체AI칩제조포부…SK최태원에반도체공급요...",
     "李대통령,시총1.7경AI리더와피시앤칩스만찬",
     "메모리넘어AI공장까지…SK,엔비디아·MS와AI공급망넓혔다",
@@ -3338,10 +3333,11 @@
     "리영희기념사업회,‘미조직·비정형노동운동’시민강좌열어",
     "[이경전의AI와비즈니스모델]현실에선AI가일자리만든다",
     "WSJ\"SK하이닉스ADR프리미엄은AI거래과열의또다른신호\"",
-    "WSJ“SK하이닉스‘ADR프리미엄’,AI과열신호…美반도체주통제불..."
+    "WSJ“SK하이닉스‘ADR프리미엄’,AI과열신호…美반도체주통제불...",
+    "[사설]한·미기업‘초대형AI동맹’…이제는정부가뛸차례"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T01:20:24.567586+09:00"
+   "last_run": "2026-07-27T01:25:21.626275+09:00"
   }
  },
  "press_names": {
