@@ -333,7 +333,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20071793",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=313189",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=307667",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471451",
@@ -1832,10 +1831,10 @@
     "https://www.hankyung.com/article/2026072665131",
     "https://www.newsis.com/view/NISX20260727_0003723811",
     "https://www.segye.com/newsView/20260727500201?OutUrl=naver",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1785049019&code=11171111&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=1785049019&code=11171111&cp=nv",
+    "http://www.yonhapnewstv.co.kr/news/AKR202607270132238V4"
    ],
    "seen_titles": [
-    "블룸버그\"앤트로픽,자체AI칩제조포부…SK최태원에반도체공급요...",
     "李대통령,시총1.7경AI리더와피시앤칩스만찬",
     "메모리넘어AI공장까지…SK,엔비디아·MS와AI공급망넓혔다",
     "삼성·SK,美빅테크와1375조반도체동맹…네이버AI팩토리100억달러...",
@@ -3334,10 +3333,11 @@
     "[이경전의AI와비즈니스모델]현실에선AI가일자리만든다",
     "WSJ\"SK하이닉스ADR프리미엄은AI거래과열의또다른신호\"",
     "WSJ“SK하이닉스‘ADR프리미엄’,AI과열신호…美반도체주통제불...",
-    "[사설]한·미기업‘초대형AI동맹’…이제는정부가뛸차례"
+    "[사설]한·미기업‘초대형AI동맹’…이제는정부가뛸차례",
+    "미WSJ\"SK하이닉스ADR프리미엄,AI거래과열신호\""
    ],
    "initialized": true,
-   "last_run": "2026-07-27T01:30:32.917616+09:00"
+   "last_run": "2026-07-27T01:35:19.415793+09:00"
   }
  },
  "press_names": {
