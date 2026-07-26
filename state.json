@@ -545,9 +545,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.m-economynews.com/news/article.html?no=69088",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426825",
-    "https://biz.heraldcorp.com/article/10819872",
     "https://www.youthdaily.co.kr/news/article.html?no=223768",
     "https://www.newspim.com/news/view/20260725000038",
     "https://www.koreajoongangdaily.com/business/jensen-huang-announces-major-partnerships-with-korean-companies-following-meeting-with-president-lee/12791015",
@@ -2044,12 +2041,12 @@
     "https://www.kfenews.co.kr/news/articleView.html?idxno=661215",
     "https://www.g-enews.com/view.php?ud=202607261511051823fbbec65dfb_1",
     "https://www.dt.co.kr/article/12074766",
-    "https://weekly.khan.co.kr/article/202607261518001"
+    "https://weekly.khan.co.kr/article/202607261518001",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260726.99099007598",
+    "https://www.khan.co.kr/article/202607261521001",
+    "https://www.inews365.com/news/article.html?no=929241"
    ],
    "seen_titles": [
-    "이대통령,샌프란선언…\"韓대체불가AI공급망핵심국도약\"",
-    "‘3조달러’韓메가프로젝트에…최태원“숫자생소하지만허황아냐...",
-    "李대통령'샌프란시스코AI선언'…\"한국,대체불가AI공급망핵심국가...",
     "李대통령\"AI황금시대역할을\"…젠슨황\"SK와5천억달러파트너십\"(종합...",
     "이재명대통령,샌프란AI선언발표",
     "이대통령\"韓대체불가글로벌AI공급망핵심국가로도약할것…세계...",
@@ -3546,10 +3543,13 @@
     "靑\"국내기업-글로벌빅테크,9500억달러반도체협력추진\"",
     "'인재를따라간다'…457조실리콘밸리큰손들이한국에문연이유",
     "‘삼전닉스레버리지’수수료4배차…삼성운용독식속보수‘극과극...",
-    "“60만전자·420만닉스시대온다”···팔때가아니라살때?"
+    "“60만전자·420만닉스시대온다”···팔때가아니라살때?",
+    "실리콘밸리VC만난이대통령\"'다음세대삼성'함께만들어야\"",
+    "이대통령‘샌프란AI선언’…빅테크리더에‘대체불가AI선도국’공...",
+    "이대통령,글로벌벤처투자사만나30년동반자관계제시"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T15:20:26.060014+09:00"
+   "last_run": "2026-07-26T15:24:49.466605+09:00"
   }
  },
  "press_names": {
