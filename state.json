@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-26T09:55:21.795792+09:00",
-     "날개 1년여 최저치 마감 있나 지수 코스닥 만에 추락하는 급락"
-    ],
-    [
      "2026-07-26T10:00:38.538792+09:00",
      "SK하이닉스 다시 역할 HBM 승부 청주 후공정 푸는 쓴다 병목"
     ],
@@ -554,15 +550,25 @@
     [
      "2026-07-26T15:50:29.255122+09:00",
      "청년 만나며 명청대전 명심 당원 호소 전국에서 당권주자"
+    ],
+    [
+     "2026-07-26T15:55:23.142544+09:00",
+     "순매수 SK하이닉스 연금펀드 올해 한국 코스피 집중 매수"
+    ],
+    [
+     "2026-07-26T15:55:23.142544+09:00",
+     "하이닉스 뜨는데 그림의 토큰 해외선 한국은 주식"
+    ],
+    [
+     "2026-07-26T15:55:23.142544+09:00",
+     "Raises Glass Titans diplomacy With Lee Beer"
+    ],
+    [
+     "2026-07-26T15:55:23.142544+09:00",
+     "한국서 어떻게 가장 9940억 비싼 마련할까 이혼 최태원"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260725000040",
-    "https://www.sedaily.com/article/20071763",
-    "https://www.mk.co.kr/article/12107228",
-    "https://news.tf.co.kr/read/economy/2346970.htm",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686966",
-    "https://www.eroun.net/news/articleView.html?idxno=86243",
     "https://zdnet.co.kr/view/?no=20260725102352",
     "https://www.news1.kr/photos/8024894",
     "https://www.news1.kr/photos/8024896",
@@ -2056,15 +2062,15 @@
     "https://www.dt.co.kr/article/12074786",
     "https://www.donga.com/news/Economy/article/all/20260726/134365982/2",
     "https://www.joongang.co.kr/article/25448212",
-    "http://www.metroseoul.co.kr/article/20260726500214"
+    "http://www.metroseoul.co.kr/article/20260726500214",
+    "https://kpenews.com/View.aspx?No=4162376",
+    "https://www.newspim.com/news/view/20260726000134",
+    "https://www.tokenpost.kr/news/breaking/381391",
+    "https://www.mk.co.kr/article/12107621",
+    "https://www.koreajoongangdaily.com/korea/beer-diplomacy-lee-raises-a-glass-with-ai-titans/12791382",
+    "https://www.joongang.co.kr/article/25448213"
    ],
    "seen_titles": [
-    "이재명,젠슨황·샘올트먼연쇄회동…AI메가프로젝트협력요청",
-    "[전문]李\"韓과담대한미래만들어가자\"...'샌프란시스코AI'선언",
-    "이대통령\"글로벌AI공급망핵심국가로\"…최태원\"4700조메가투자과...",
-    "주가30%빠진SK하이닉스…역대급실적보다‘이것’에쏠렸다",
-    "TopS.KoreanbizchiefsmeetwithNvidia,globaltechleaders",
-    "李대통령,'샌프란AI선언'...\"글로벌AI허브도약\"",
     "\"폭락장에도하이닉스만쳐다봤다\"…단일레버리지10조거래,65%쏠림",
     "최태원“젠슨황,만날때마다‘반도체칩에배고프다’고한다”",
     "제주SKFC,바이에른뮌헨전공식MD팝업스토어운영",
@@ -3558,10 +3564,16 @@
     "한미빅테크1400조‘AI혈맹’…李‘샌프란선언’",
     "이재용,오픈AI본사서샘올트먼과회동…AI인프라협력방안논의관...",
     "엔비디아의‘K인재’사랑…KAIST와피지컬AI센터함께세운다[팩플...",
-    "與당권주자,전국에서당원·청년만나며'명심'에호소…'명청대전'신..."
+    "與당권주자,전국에서당원·청년만나며'명심'에호소…'명청대전'신...",
+    "\"AI반도체동맹수준강화\"..이재용삼성전자회장,샘올트먼오픈AI...",
+    "김용범\"李대통령,글로벌VC만남…韓빅테크다음타자키우는결의\"",
+    "한국연금펀드,올해첫코스피순매수전환…SK하이닉스집중매수",
+    "해외선‘하이닉스토큰주식’뜨는데…한국은‘그림의떡’",
+    "Beerdiplomacy:LeeRaisesaGlassWithAITitans",
+    "“한국서가장비싼이혼”…최태원,9940억어떻게마련할까"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T15:50:29.255122+09:00"
+   "last_run": "2026-07-26T15:55:23.142544+09:00"
   }
  },
  "press_names": {
