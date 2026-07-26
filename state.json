@@ -645,10 +645,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202607251321097481",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1389351",
-    "https://www.khan.co.kr/article/202607251323001",
-    "https://www.newsis.com/view/NISI20260725_0021376739",
     "https://www.segye.com/newsView/20260725504605?OutUrl=naver",
     "https://www.newsis.com/view/NISI20260725_0021376737",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607250277&t=NN",
@@ -2144,13 +2140,13 @@
     "https://www.econovill.com/news/articleView.html?idxno=746190",
     "https://www.econovill.com/news/articleView.html?idxno=746191",
     "https://www.econovill.com/news/articleView.html?idxno=746196",
-    "https://www.khan.co.kr/article/202607262034035"
+    "https://www.khan.co.kr/article/202607262034035",
+    "https://sports.khan.co.kr/article/202607262040003?pt=nv",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2245516",
+    "https://www.etnews.com/20260726000142",
+    "https://www.kyeongin.com/article/1767951"
    ],
    "seen_titles": [
-    "최태원\"한국을AI네이티브국가로…글로벌테스트베드육성\"",
-    "(2ndLD)S.Korean,globaltechfirmsagreeonUS$950blncooperationpr",
-    "이재용“AI시대,한국과미국강점결합하면더많은난제해결가능...",
-    "SK7500억불·삼성2000억불…빅테크와9500억불반도체잭팟",
     "李대통령\"韓,글로벌AI허브로\"…AI선언에빅테크·총수들힘보탰다",
     "“우리는,식구다”화기애애했던‘샌프란깐부회동’후기",
     "'대규모AI데이터센터협력의향서(LOI)'체결",
@@ -3646,10 +3642,14 @@
     "낸드품귀2027년풀릴듯…트렌드포스\"메모리중유일하게안정화\"",
     "15년만에최고성장…인텔,AI서버CPU타고부활신호탄",
     "SK인텔릭스,카이스트와손잡고'AI정신건강로봇'개발나선다",
-    "‘9440억’실탄필요한최태원,SK주식매각대신‘우회로’찾나"
+    "‘9440억’실탄필요한최태원,SK주식매각대신‘우회로’찾나",
+    "제주SKFC,바이에른뮌헨전공식MD팝업스토어운영",
+    "SK텔레콤,스타트업에AI모델API개방…국산AI생태계확산",
+    "SK하이닉스,사실상경쟁사日'키옥시아'2대주주로",
+    "[참성단]최태원-노소영이혼"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T20:40:26.460489+09:00"
+   "last_run": "2026-07-26T20:45:24.568653+09:00"
   }
  },
  "press_names": {
