@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-26T21:40:27.447428+09:00",
-     "동맹 빅테크와 1400조 대통령"
-    ],
-    [
      "2026-07-26T21:45:25.122852+09:00",
      "넘은 증시 TK는"
     ],
@@ -242,10 +238,13 @@
     [
      "2026-07-27T02:40:24.793406+09:00",
      "안심 환율 떨어졌지만 환전 효과 못한다 일시적 ADR"
+    ],
+    [
+     "2026-07-27T03:40:27.794454+09:00",
+     "김용범 실리콘밸리 키우는 회동은 결의 대통령 다음 삼성 VC"
     ]
    ],
    "seen_urls": [
-    "https://www.dt.co.kr/article/12074653",
     "https://www.sedaily.com/article/20071794",
     "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260725505&PRO_CODE=99",
     "https://www.etoday.co.kr/news/view/2607382",
@@ -1744,10 +1743,10 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=1785057542&code=11151300&cp=nv",
     "https://sports.donga.com/sports/article/all/20260727/134368587/1",
     "https://www.kmib.co.kr/article/view.asp?arcid=1785052957&code=11151300&cp=nv",
-    "https://platum.kr/archives/291424"
+    "https://platum.kr/archives/291424",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426898"
    ],
    "seen_titles": [
-    "삼성·SK·네이버,글로벌빅테크와9500억달러AI협력",
     "최태원“앤트로픽,자체칩제조쓰일부품공급협력요청”",
     "李대통령“코스피조정중”발언에젠슨황“다시오를것”",
     "[속보]\"우리는식구다\"이대통령건배사…AI리더들'미국판깐부회동...",
@@ -3246,10 +3245,11 @@
     "사이드카열흘에도웃었다…에너지ETF,수익률최고25%",
     "[SD상암인터뷰]5경기무승끊은김현석울산감독…“변칙전술만족...",
     "환율떨어졌지만안심못한다?…“ADR환전일시적효과”",
-    "이재명대통령,실리콘밸리주요VC만나“한미스타트업동맹확대”"
+    "이재명대통령,실리콘밸리주요VC만나“한미스타트업동맹확대”",
+    "김용범\"대통령-실리콘밸리VC회동은'다음삼성'키우는결의\""
    ],
    "initialized": true,
-   "last_run": "2026-07-27T03:35:23.391540+09:00"
+   "last_run": "2026-07-27T03:40:27.794454+09:00"
   }
  },
  "press_names": {
