@@ -658,14 +658,13 @@
     [
      "2026-07-26T11:30:35.273543+09:00",
      "in net buyers KOSPI stocks 1st time July for become funds Pension"
+    ],
+    [
+     "2026-07-26T11:35:22.387488+09:00",
+     "Samsung chain role supply cement Korea"
     ]
    ],
    "seen_urls": [
-    "https://www.kado.net/news/articleView.html?idxno=2063009",
-    "https://www.newsis.com/view/NISX20260724_0003722166",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=01945046645518128",
-    "https://www.ytn.co.kr/_ln/0101_202607250856229863",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044327",
     "https://www.asiaa.co.kr/news/articleView.html?idxno=256261",
     "https://www.bntnews.co.kr/article/view/bnt202607250087",
     "https://www.pressian.com/pages/articles/2026072116090946721",
@@ -2160,14 +2159,14 @@
     "http://www.metroseoul.co.kr/article/20260726500097",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01535046645518456",
     "https://www.news1.kr/it-science/general-it/6239133",
-    "https://en.yna.co.kr/view/AEN20260726001100320?input=2106m"
+    "https://en.yna.co.kr/view/AEN20260726001100320?input=2106m",
+    "https://www.sentv.co.kr/article/view/sentv202607260014",
+    "https://www.ziksir.com/news/articleView.html?idxno=141180",
+    "http://www.breaknews.com/1224420",
+    "http://www.breaknews.com/1224422",
+    "https://www.koreaherald.com/article/10820345"
    ],
    "seen_titles": [
-    "오를땐찬밥이더니…개미들'피난처'급부상",
-    "[속보]李대통령“대체불가AI공급망핵심국가로도약”",
-    "李,글로벌빅테크만나“3대메가”…젠슨황“韓AI황금시대”",
-    "[속보]젠슨황\"SK와730조규모파트너십발표예정\"",
-    "젠슨황,李대통령만나“엔비디아·SK,5천억弗파트너십발표”",
     "오픈AI·엔비디아CEO만난李대통령…\"AI투자대대적확대\"",
     "삼성·SK하이닉스,美빅테크와초대형계약예고.인텔과협력도촉각",
     "이재명대통령,글로벌빅테크CEO연쇄회동…AI협력확대논의",
@@ -3662,10 +3661,15 @@
     "SK텔레콤,스타트업에'에이엑스케이원'지원",
     "코스피7000선회복할까…빅테크·FOMC에쏠린눈[주간증시전망]",
     "네이버,100억달러투자유치…챗GPT스스로외부해킹[뉴스잇(IT)쥬]",
-    "PensionfundsbecomenetbuyersinKOSPIstocksinJulyfor1sttimein2."
+    "PensionfundsbecomenetbuyersinKOSPIstocksinJulyfor1sttimein2.",
+    "연기금,이달684억원순매수…SK하이닉스사고삼성전자팔아",
+    "SKT,스타트업3곳에'A.XK1'API지원…AI서비스검증나서",
+    "이재명대통령\"한·미,기술·혁신·스타트업동맹으로협력지평넓혀...",
+    "청와대\"삼성전자·SK-글로벌빅테크기업,총9500억불반도체협력추...",
+    "Samsung,SKcementKorea'sAIsupply-chainrole"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T11:30:35.273543+09:00"
+   "last_run": "2026-07-26T11:35:22.387488+09:00"
   }
  },
  "press_names": {
