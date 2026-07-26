@@ -422,11 +422,13 @@
     [
      "2026-07-27T06:40:27.736574+09:00",
      "대통령 김창영의 브로드컴 뒤엔 누구 탈엔비디아 옆자리에 있다"
+    ],
+    [
+     "2026-07-27T06:50:24.731252+09:00",
+     "한미 가능 29일 상호 ADR 폭등 하이닉스 이후 미국에서"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026072515110797473",
-    "https://www.the-today.com/news/articleView.html?idxno=87854",
     "https://www.hankyung.com/article/2026072442996",
     "https://www.getnews.co.kr/news/articleView.html?idxno=876059",
     "https://biz.heraldcorp.com/article/10820019",
@@ -1924,11 +1926,11 @@
     "https://www.sedaily.com/article/20072090",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1717822",
     "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95389",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=51695"
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=51695",
+    "http://www.beyondpost.co.kr/view.php?ud=2026072706123220762aaae0046f_30",
+    "https://www.ytn.co.kr/_ln/0104_202607270642334300"
    ],
    "seen_titles": [
-    "이재용삼성,美브로드컴과반도체'전방위협력'…최태원SK,엔비디아...",
-    "\"韓개인들'도박꾼'됐다…카지노서빼내기어려울듯\"英경고",
     "[이슈]1390조'AI동맹'…K반도체,슈퍼사이클올라탔지만'숫자의함정...",
     "삼전닉스30%빠질때웃었다…하락장서홀로살아남은ETF[이수의ETF줌...",
     "[샌프란시스코AI서밋]젠슨황\"한국은AI황금기\"…글로벌빅테크,韓...",
@@ -3426,10 +3428,12 @@
     "李대통령옆자리에누구?탈엔비디아뒤엔브로드컴있다[김창영의실...",
     "FOMC·빅테크·반도체'슈퍼위크'…코스피6700~7600선향방가른다",
     "[k1.star]김현석감독의제로톱통했다!'1골1도움'이동경,울산의'5...",
-    "최태원,SK회장,여름에도현금잔치…지주·계열사,중간배당실시"
+    "최태원,SK회장,여름에도현금잔치…지주·계열사,중간배당실시",
+    "\"SK하이닉스,ADR가한국본주보다비싼점AI의또다른거래과열신호...",
+    "SK하이닉스ADR,미국에서폭등...29일이후한미상호전환가능"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T06:45:25.584815+09:00"
+   "last_run": "2026-07-27T06:50:24.731252+09:00"
   }
  },
  "press_names": {
