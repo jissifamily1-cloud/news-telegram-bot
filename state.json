@@ -442,13 +442,13 @@
     [
      "2026-07-26T08:55:22.022198+09:00",
      "변호인단도 최태영 노소영 불출석 묵묵부답 모두"
+    ],
+    [
+     "2026-07-26T09:00:45.640654+09:00",
+     "하락률 이제 바닥권 근거는 달간 증권가 코스피 증시레이"
     ]
    ],
    "seen_urls": [
-    "https://www.kbsm.net/news/view.php?idx=527891",
-    "http://www.fnnews.com/news/202607250535269396",
-    "https://www.kbsm.net/news/view.php?idx=527893",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471355",
     "https://www.news1.kr/politics/president/6238654",
     "http://www.beyondpost.co.kr/view.php?ud=2026072505500370292aaae0046f_30",
     "https://www.xportsnews.com/article/2175767",
@@ -1944,13 +1944,13 @@
     "https://www.asiatoday.co.kr/kn/view.php?key=20260726010009171",
     "https://www.asiatime.co.kr/article/20260726500006",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/24/2026072400087.html",
-    "http://www.newstomato.com/ReadNews.aspx?no=1308184&inflow=N"
+    "http://www.newstomato.com/ReadNews.aspx?no=1308184&inflow=N",
+    "https://www.ngonews.kr/news/articleView.html?idxno=233818",
+    "https://www.econovill.com/news/articleView.html?idxno=746167",
+    "https://www.newsis.com/view/NISX20260726_0003723367",
+    "https://www.ddaily.co.kr/page/view/2026072608371664287"
    ],
    "seen_titles": [
-    "이대통령“AI투자대대적확대”…앤트로픽CEO“한국과협력흥미...",
-    "\"4700조넘어설수도\"…한미AI협력본격화,삼성·SK하이닉스대형공...",
-    "이재용·최태원,美서오픈AI·앤트로픽과도'깐부'될까",
-    "李대통령,앤트로픽CEO에\"韓인공지능투자대대적확대\"",
     "“숨쉴수없었다”…군에서모은2000만원,3억가까이됐다가4주만...",
     "9,440억…현재최태원SK주식8조원의11.5%",
     "\"노소영기여도3분의1\"",
@@ -3446,10 +3446,14 @@
     "충남도,202조원첨단산업투자지원TF출범…기업맞춤형'초고속지원...",
     "SK,엔비디아와‘700조’AI협력…MS·앤트로픽도참여",
     "\"TSMC호황에도금리안올린대만처럼\"…'반도체착시'걷어내고통화...",
-    "최태영·노소영모두불출석…변호인단도‘묵묵부답’"
+    "최태영·노소영모두불출석…변호인단도‘묵묵부답’",
+    "李대통령\"美자본과韓기술결합해제2의삼성·현대만들것\"",
+    "李대통령,실리콘밸리VC에\"대체불가대한민국의든든한파트너돼달라...",
+    "이대통령\"한미,안보넘어기술·혁신·스타트업동맹으로…'다음세대...",
+    "한달간코스피하락률25%,증권가“이제바닥권”…근거는?[증시레이..."
    ],
    "initialized": true,
-   "last_run": "2026-07-26T08:55:22.022198+09:00"
+   "last_run": "2026-07-26T09:00:45.640654+09:00"
   }
  },
  "press_names": {
