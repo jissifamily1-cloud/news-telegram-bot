@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-26T16:10:25.058572+09:00",
-     "달러 1450원대까지 떨어진 변수는 중동 환율 전쟁"
-    ],
-    [
-     "2026-07-26T16:10:25.058572+09:00",
-     "인프라 격상 공급사 협력 동맹 메모리 삼전닉스 넘어 파트너"
-    ],
-    [
      "2026-07-26T16:15:27.178941+09:00",
      "킹메이커 실리콘밸리 김용범 들과의 450조 실장이 도원결의"
     ],
@@ -566,14 +558,13 @@
     [
      "2026-07-26T22:00:35.252975+09:00",
      "선언 선도국 리더들 대통령 빅테크"
+    ],
+    [
+     "2026-07-26T22:10:25.992364+09:00",
+     "위기 이정규 계속되는 승강 플레이오프 꼴찌 광주의"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/AKR20260725134522gNa",
-    "https://zdnet.co.kr/view/?no=20260725114110",
-    "https://www.yna.co.kr/view/PYH20260725035200013?input=1196m",
-    "https://www.yna.co.kr/view/PYH20260725038000013?input=1196m",
-    "https://view.asiae.co.kr/article/2026072513470795935",
     "https://www.g-enews.com/view.php?ud=202607251348131970056c162803_1",
     "https://www.moneystorm.kr/news/articleView.html?idxno=5263",
     "https://www.chosun.com/politics/politics_general/2026/07/25/FL4V2VVFDBECHOBOTCZQVVOLXE/",
@@ -2068,14 +2059,14 @@
     "https://www.khan.co.kr/article/202607262157005",
     "https://www.hankyung.com/article/2026072667517",
     "https://www.mediawatch.kr/news/article.html?no=260471",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=852517"
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=852517",
+    "https://www.news1.kr/sports/soccer/6239418",
+    "http://www.jndn.com/article.php?aid=1785071078436687105",
+    "https://www.yna.co.kr/view/AKR20260726053751007?input=1195m",
+    "https://www.goal.com/kr/뉴스/a/blt30b7814531af3d85",
+    "https://www.goal.com/kr/뉴스/a/blt2d9ebc4412d8be80"
    ],
    "seen_titles": [
-    "SK하이닉스,SKT-엔비디아,전략적AI팩토리및반도체협력",
-    "이재명대통령,글로벌AI리더들과함께건배",
-    "[영상구성]이재명대통령,실리콘밸리AI외교",
-    "청와대\"국내기업-글로벌빅테크기업,9천500억불반도체협력\"",
-    "\"韓,글로벌AI생산기지로\"…이대통령,'샌프란AI선언'서비전제시",
     "이재명대통령'글로벌AI리더들과함께'",
     "SKT-앤트로픽,대규모AI데이터센터협력의향서",
     "李대통령·샘올트먼,AI시대분배방식논의…올트먼\"지분기반성과...",
@@ -3570,10 +3561,15 @@
     "이대통령,빅테크리더들앞‘AI선도국’선언",
     "'몸값125조'메모리공룡CXMT,中증시상장…심전닉스에도전장",
     "SK하이닉스,2Q영업益64조돌파전망...“영업이익률,3개분기연속...",
-    "에릭·이동경1골1도움활약…울산,선두서울제압"
+    "에릭·이동경1골1도움활약…울산,선두서울제압",
+    "'이동경결승골'울산,'선두'서울3-1제압…6경기만에승리(종합)",
+    "수적열세극복실패광주FC,제주에1-2역전패",
+    "에릭·이동경1골1도움…울산,선두서울잡고6경기만에승리(종합)",
+    "[GOAL현장]‘제주의7월무패’코스타감독,“모든구성원이매경기...",
+    "[GOAL현장]‘광주의계속되는꼴찌→승강플레이오프위기’이정규..."
    ],
    "initialized": true,
-   "last_run": "2026-07-26T22:05:21.516780+09:00"
+   "last_run": "2026-07-26T22:10:25.992364+09:00"
   }
  },
  "press_names": {
