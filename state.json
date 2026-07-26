@@ -574,21 +574,25 @@
     [
      "2026-07-26T10:20:28.084008+09:00",
      "빅테크 CEO들 한국만의 필요 모델 젠슨"
+    ],
+    [
+     "2026-07-26T10:35:21.941242+09:00",
+     "1인당 하나씩 최태원 테스트베드 국민 SK그룹"
+    ],
+    [
+     "2026-07-26T10:35:21.941242+09:00",
+     "데이터 편의 확대에 3사 경쟁 강화 로밍 여름휴가철 이통 할인 이용"
+    ],
+    [
+     "2026-07-26T10:35:21.941242+09:00",
+     "전력 소비자 친환경 넘어 공급자로 롯데케미칼"
+    ],
+    [
+     "2026-07-26T10:35:21.941242+09:00",
+     "부동산 공급 이광수 집은 채상욱 해법은 대통령이 그들이 제안한"
     ]
    ],
    "seen_urls": [
-    "https://news.dealsitetv.com/articles/173701",
-    "https://biz.heraldcorp.com/article/10819807",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=591735",
-    "https://www.dt.co.kr/article/12074622",
-    "https://weekly.khan.co.kr/article/202607250822001",
-    "https://biz.heraldcorp.com/article/10819811",
-    "https://www.sedaily.com/article/20071740",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607250217&t=NN",
-    "https://www.viva100.com/article/20260725500041",
-    "https://www.newsis.com/view/NISX20260725_0003722948",
-    "https://www.donga.com/news/Politics/article/all/20260725/134362722/1",
-    "https://www.g-enews.com/view.php?ud=2026072508313590160c8c1c064d_1",
     "https://www.ytn.co.kr/_ln/0101_202607250826191635",
     "https://en.yna.co.kr/view/AEN20260725000500315?input=2106m",
     "https://www.cbci.co.kr/news/articleView.html?idxno=591802",
@@ -2076,21 +2080,21 @@
     "https://www.straightnews.co.kr/news/articleView.html?idxno=307694",
     "https://www.newsis.com/view/NISX20260726_0003723444",
     "https://www.newsjeju.net/news/articleView.html?idxno=423757",
-    "https://www.seoul.co.kr/news/economy/industry/2026/07/26/20260726500029?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/economy/industry/2026/07/26/20260726500029?wlog_tag3=naver",
+    "https://m.sports.naver.com/basketball/article/065/0000299995",
+    "https://www.viva100.com/article/20260726500248",
+    "https://www.mt.co.kr/tech/2026/07/26/2026072609542355347",
+    "http://www.4th.kr/news/articleView.html?idxno=2115269",
+    "https://www.namdonews.com/news/articleView.html?idxno=917982",
+    "https://www.mediapen.com/news/view/1112253",
+    "https://www.dailian.co.kr/news/view/1670937/?sc=Naver",
+    "https://www.nocutnews.co.kr/news/6553311",
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=360834",
+    "http://www.inews24.com/view/1988764",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452481",
+    "https://www.newsis.com/view/NISX20260724_0003722345"
    ],
    "seen_titles": [
-    "변동성논란에500조무너진ETF시장…커버드콜존재감커졌다",
-    "SK하닉보다낫다…한달새115%오른SK이터닉스",
-    "李대통령,앤트로픽CEO만나“국내기업과투자대폭확대되길기대”",
-    "[마켓인]건설업한파뚫은SK에코·KCC…‘체질개선·자산가치’가지갑...",
-    "'노소영몫9440억'변호사들도대박...최대650억,최소100억",
-    "6700선내준코스피…증권가\"하락장아냐,관건은빅테크실적\"",
-    "유가4%급락에도반도체‘휘청’…나스닥0.64%하락",
-    "외신들,최태원-노소영'세기의이혼'재산분할에관심",
-    "“노소영에9940억지급하라”세기의이혼…최태원회장재원은어디서",
-    "미국증시유가하락에도반도체급락…AI투자부담에나스닥0.64%↓",
-    "[뉴욕마켓워치]유가하락에도반도체는'울상'…채권·달러↑주식혼조",
-    "정의선,美엔비디아본사찾아젠슨황과회동…AI협력후속논의",
     "李대통령,앤트로픽CEO만나\"韓,AI투자대폭확대…적극적협력기...",
     "나스닥0.6%밀린뉴욕증시…유가진정에도반도체'직격탄'",
     "이재명대통령,앤트로픽CEO만나“韓,아시아AI최적파트너”",
@@ -3578,10 +3582,22 @@
     "李대통령,실리콘밸리자본과K스타트업연결…\"차세대삼성함께만들...",
     "규제강화전물타기?…삼전·닉스2배손절했던개미들,다시폭풍매수",
     "8월메가스포츠축제의장...올여름제주달군다",
-    "[뉴스분석]샌프란선언,‘톱다운’으로AI한미협력이행보장"
+    "[뉴스분석]샌프란선언,‘톱다운’으로AI한미협력이행보장",
+    "\"수비로테이션훈련이우승의원동력이었어요\"성북삼성U12채우현,M...",
+    "충남도,202조원첨단산업투자지원본격화‘전담TF가동’",
+    "SKT,스타트업에자체AI모델지원…서비스개발돕는다",
+    "SKT,독자AI모델스타트업에개방…산업별서비스발굴",
+    "李대통령\"글로벌VC혁신동반자…韓,세계제일투자·창업생태계\"",
+    "이대통령,실리콘밸리VC도만나“‘다음세대의삼성’함께만들자...",
+    "SKT,스타트업AI서비스후방지원…독파모활용협업",
+    "李대통령\"한미강점결합으로차세대삼성·SK만들것\"",
+    "SK그룹최태원\"국민1인당AI하나씩…韓이AI테스트베드\"",
+    "이통3사,여름휴가철로밍경쟁…할인·데이터확대에이용편의강화",
+    "[에너지전환2050]롯데케미칼,친환경전력소비자넘어공급자로",
+    "대통령이콕집은이광수·채상욱…그들이제안한부동산해법은[공급,..."
    ],
    "initialized": true,
-   "last_run": "2026-07-26T10:30:32.218533+09:00"
+   "last_run": "2026-07-26T10:35:21.941242+09:00"
   }
  },
  "press_names": {
