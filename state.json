@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-26T09:30:34.792548+09:00",
-     "한국은 황금기 구상 거점 인프라 젠슨"
-    ],
-    [
-     "2026-07-26T09:30:34.792548+09:00",
-     "시장 기업용 파트너십 앤트로픽과 체결 기반 삼성SDS 클로드 공략"
-    ],
-    [
-     "2026-07-26T09:30:34.792548+09:00",
-     "파트너십 삼성전자 브로드컴과 2000억달러 구축 규모"
-    ],
-    [
      "2026-07-26T09:40:27.551660+09:00",
      "제공 스타트업 K1 SK텔레콤 API 모델 활용 지원 신규"
     ],
@@ -558,16 +546,25 @@
     [
      "2026-07-26T15:30:34.134913+09:00",
      "전담 인프라구축 데이터센터 SK하이퍼 사업 속도 SKT 설립"
+    ],
+    [
+     "2026-07-26T15:35:23.878695+09:00",
+     "SKT 생태계 LLM 확장 중기부 AX 국산 참여"
+    ],
+    [
+     "2026-07-26T15:35:23.878695+09:00",
+     "가동 행정 첨단 전담 광속 충남 TF 인허가 202조 깨는 투자"
+    ],
+    [
+     "2026-07-26T15:35:23.878695+09:00",
+     "반등 오랜만의 실적 수주 환율 증가 쌍끌이 한세실업"
+    ],
+    [
+     "2026-07-26T15:35:23.878695+09:00",
+     "GPU 올랐다 데이터센터 경쟁 확보가 국내 변수 GW급 전력"
     ]
    ],
    "seen_urls": [
-    "https://vop.co.kr/A00001695956.html",
-    "https://www.mediapen.com/news/view/1112176",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7175924",
-    "https://www.sedaily.com/article/20071759",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092166566",
-    "http://www.fnnews.com/news/202607251030013032",
-    "https://www.imaeil.com/page/view/2026072510071748819",
     "http://www.econonews.co.kr/news/articleView.html?idxno=441779",
     "https://www.hankookilbo.com/news/article/A2026072510170001487?did=NA",
     "https://www.newsis.com/view/NISX20260725_0003723016",
@@ -2060,16 +2057,16 @@
     "https://www.hani.co.kr/arti/economy/finance/1269988.html",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471575",
     "https://www.businesspost.co.kr/BP?command=article_view&num=443159",
-    "http://www.metroseoul.co.kr/article/20260726500193"
+    "http://www.metroseoul.co.kr/article/20260726500193",
+    "http://www.metroseoul.co.kr/article/20260726500202",
+    "https://www.khan.co.kr/article/202607261532001",
+    "https://www.ajunews.com/view/20260726152125004",
+    "https://kpenews.com/View.aspx?No=4162368",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044644",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471576",
+    "https://www.news1.kr/it-science/general-it/6239268"
    ],
    "seen_titles": [
-    "李대통령,샌프란시스코AI선언…\"세계최고파트너되겠다\"",
-    "李대통령“韓,AI생산기지·테스트베드구축”...샌프란시스코AI선언...",
-    "李대통령·재계총수한목소리…\"韓,글로벌AI생태계허브로\"",
-    "李대통령만난젠슨황“SK-엔비디아730조원파트너십발표할것”",
-    "삼성·SK·현대차·네이버'총출동'…엔비디아와AI동맹확대",
-    "최태원\"3조달러AI메가프로젝트,허황된계획아니다\"",
-    "JensenHuangannouncesmajorpartnershipswithKoreancompaniesfoll",
     "'샌프란시스코AI선언'발표하는이재명대통령",
     "지금코스피,싸진걸까위험해진걸까…한은의진단은?[DeepSpot]",
     "올트먼\"韓없었으면AI혁명불가능\"",
@@ -3562,10 +3559,17 @@
     "삼전·닉스레버리지열풍지속…정부대책조기시행으로변동성잦아...",
     "관광객몰리자MLB웃었다…F&F실적기대치넘본다",
     "해외코인거래소SK하이닉스ADR추종토큰시총1천억원근접",
-    "SKT,AI인프라구축전담'SK하이퍼'설립…데이터센터사업속도"
+    "SKT,AI인프라구축전담'SK하이퍼'설립…데이터센터사업속도",
+    "실리콘밸리VC만난이대통령\"'다음세대의삼성'함께만들어낼수있...",
+    "코스피7000선회복할까?다음주빅테크·삼전닉스실적에쏠린눈",
+    "원화·엔화엇갈린흐름…엔화가치40년만에최저",
+    "SKT,국산AI생태계확장..중기부'AX-LLM'참여",
+    "충남,'202조첨단투자'전담TF가동…인허가틀깨는'광속행정'펼...",
+    "한세실업,오랜만의실적반등…환율·수주증가'쌍끌이'",
+    "국내GW급AI데이터센터경쟁막올랐다…GPU·전력확보가변수"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T15:30:34.134913+09:00"
+   "last_run": "2026-07-26T15:35:23.878695+09:00"
   }
  },
  "press_names": {
