@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T01:25:21.626275+09:00",
-     "이제는 동맹 초대형 정부가 차례 기업"
-    ],
-    [
      "2026-07-27T01:55:19.045457+09:00",
      "동안 7개월 66번 울린 경보 증시 의문 실효성"
     ],
@@ -546,14 +542,17 @@
     [
      "2026-07-27T07:25:20.697745+09:00",
      "SK스토아 넘어 라포랩스 인수 무산"
+    ],
+    [
+     "2026-07-27T07:29:24.236321+09:00",
+     "호실적에도 인텔 하락 국제유가 급락 지난주 반도체"
+    ],
+    [
+     "2026-07-27T07:29:24.236321+09:00",
+     "유지 증시 예탁금 4배 100조원선 투자자 순매수액"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20071808",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607250301&t=NN",
-    "https://www.newscj.com/news/articleView.html?idxno=3419840",
-    "https://www.e-science.co.kr/news/articleView.html?idxno=132438",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=205495",
     "https://www.m-i.kr/news/articleView.html?idxno=1395240",
     "https://www.newspim.com/news/view/20260725000078",
     "https://www.segye.com/newsView/20260725505475?OutUrl=naver",
@@ -2048,14 +2047,14 @@
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6840244_37012.html",
     "https://www.econovill.com/news/articleView.html?idxno=746213",
     "https://www.mk.co.kr/article/12107924",
-    "https://news.bizwatch.co.kr/article/consumer/2026/07/24/0042"
+    "https://news.bizwatch.co.kr/article/consumer/2026/07/24/0042",
+    "https://www.newdaily.co.kr/site/data/html/2026/07/27/2026072700020.html",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1717827",
+    "http://www.fnnews.com/news/202607270711481081",
+    "https://biz.sbs.co.kr/article_hub/20000324715?division=NAVER",
+    "https://biz.sbs.co.kr/article_hub/20000324731?division=NAVER"
    ],
    "seen_titles": [
-    "\"韓개미는충동적도박꾼\"...외신레버리지투자'경고'",
-    "이재용,올트먼과오픈AI본사서만난다…AI인프라·AX협력논의",
-    "삼성·SK,빅테크와'1390조'동맹…K-반도체초격차굳힌다",
-    "AI데이터센터판커진다…네이버14조·SKT2GW승부",
-    "SK,엔비디아·마이크로소프트와AI인프라동맹…'AI허브한국'승부수...",
     "SK,엔비디아·MS·AWS·앤트로픽등과AI생태계확대나선다…'메가프...",
     "SK그룹,엔비디아와'AI혈맹'강화…5000억달러협력",
     "SK,엔비디아와5000억달러AI인프라동맹…MS·앤트로픽까지확장",
@@ -3550,10 +3549,15 @@
     "[이시각세계]WSJ\"하이닉스ADR프리미엄,AI거래과열신호\"",
     "이재용,오픈AI본사서샘올트먼과회동…AI인프라·AX협력확대",
     "떨어진게얼만데“AI아직고점아니다”…증권사전망,믿어도되나...",
-    "라포랩스,SK스토아인수무산?…산넘어산"
+    "라포랩스,SK스토아인수무산?…산넘어산",
+    "WSJ\"SK하이닉스ADR고평가…AI투자과열신호\"",
+    "SK하이닉스美ADR'이상과열'…韓주식보다29%비싸",
+    "\"메모리가격3분기,30%이상상승…공급부족도심화\"-KB證",
+    "[마켓브리핑]지난주국제유가하락…인텔호실적에도반도체급락",
+    "[서학개미브리핑]투자자예탁금100조원선유지…美증시순매수액4배..."
    ],
    "initialized": true,
-   "last_run": "2026-07-27T07:25:20.697745+09:00"
+   "last_run": "2026-07-27T07:29:24.236321+09:00"
   }
  },
  "press_names": {
