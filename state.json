@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-26T06:20:27.642046+09:00",
-     "2위 승리로 선두 포항에 승리 FC서울과 9점 3경기 만에 점프 전북"
-    ],
-    [
      "2026-07-26T06:25:21.633660+09:00",
      "완화될까 규제 국내증시 본격시행 레버리지 변동성 앞둔"
     ],
@@ -602,16 +598,17 @@
     [
      "2026-07-26T12:15:25.825894+09:00",
      "협력에 300조 위상 공급망 규모 공고화"
+    ],
+    [
+     "2026-07-26T12:25:20.158226+09:00",
+     "만에 동조화할까 40년 최고 달러 엇갈린"
+    ],
+    [
+     "2026-07-26T12:25:20.158226+09:00",
+     "엔비디아 웨이모 연합전선 구글과 자율주행 현대차그룹 로봇"
     ]
    ],
    "seen_urls": [
-    "https://www.khan.co.kr/article/202607250917001",
-    "https://www.sedaily.com/article/20071748",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092166559",
-    "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260725502&PRO_CODE=99",
-    "https://www.dt.co.kr/article/12074628",
-    "https://biz.sbs.co.kr/article_hub/20000324601?division=NAVER",
-    "https://www.sedaily.com/article/20071747",
     "https://www.chosun.com/economy/economy_general/2026/07/25/NSGXOLCWTZCIVAIEGPYEZEPDTY/",
     "https://news.mtn.co.kr/news-detail/2026072509220154846",
     "https://www.tjb.co.kr/news05/bodo/view/id/101473",
@@ -2104,16 +2101,16 @@
     "https://www.kyeonggi.com/article/20260726580063",
     "https://www.ytn.co.kr/_ln/0102_202607261206483516",
     "https://www.dongascience.com/news/view/79115",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008675179&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008675179&plink=ORI&cooper=NAVER",
+    "https://www.yna.co.kr/view/AKR20260726027400017?input=1195m",
+    "https://www.chosun.com/international/international_general/2026/07/26/AWWITOQSZNBRRGJERF2EMWHH44/",
+    "https://www.nocutnews.co.kr/news/6553333",
+    "https://www.nocutnews.co.kr/news/6553332",
+    "http://www.fnnews.com/news/202607261203136235",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607260822002740505",
+    "https://www.inthenews.co.kr/news/article.html?no=89752"
    ],
    "seen_titles": [
-    "[속보]李대통령만난젠슨황“한국은AI황금시대”…엔비디아-SK는5...",
-    "이대통령만난젠슨황\"SK그룹-엔비디아5000억달러규모파트너십발...",
-    "[현장연결]이대통령,샌프란시스코AI서밋참석…\"AI혁명은미래이...",
-    "유가급락에도AI투자우려…반도체주약세에나스닥0.6%↓",
-    "李대통령'샌프란AI선언'…\"韓,대체불가공급망핵심국가로\"",
-    "빅테크거물만난이대통령\"세계적으로유명한분뵙게돼반갑다\"",
-    "이대통령\"韓대체불가글로벌AI공급망핵심국가로도약할것\"",
     "AI투자확대훈풍못버텼다…반도체주상승분대부분반납",
     "이대통령,브로드컴CEO와회동...\"한국AI생태계조성에역할부탁\"",
     "TopheadlinesinmajorS.Koreannewspapers",
@@ -3606,10 +3603,17 @@
     "[속보]조갑제”이재명‘AI비서’꿈야무져,장동혁부정선거론은...",
     "1,300조규모협력에...AI공급망위상'공고화'",
     "[사이언스게시판]샌프란시스코AI서밋개최…韓美9500억달러반도체...",
-    "실리콘밸리투자유치전…\"다음세대삼성만들자\""
+    "실리콘밸리투자유치전…\"다음세대삼성만들자\"",
+    "이재용,오픈AI본사서샘올트먼만났다",
+    "SK하이닉스,사실상‘키옥시아2대주주’돼...실제주식전환은아직",
+    "개미,삼전닉스레버리지폭풍매수…\"예탁금인상전물타기\"",
+    "국민연금리밸런싱재개에도연기금이달순매수중",
+    "김연경·김민재·박인비뜬다…제주,8월'스포츠빅매치'릴레이",
+    "엔·달러,40년만에최고…엇갈린원·엔동조화할까",
+    "현대차그룹,엔비디아·웨이모·구글과AI연합전선…로봇·자율주행사..."
    ],
    "initialized": true,
-   "last_run": "2026-07-26T12:20:27.300977+09:00"
+   "last_run": "2026-07-26T12:25:20.158226+09:00"
   }
  },
  "press_names": {
