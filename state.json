@@ -446,12 +446,13 @@
     [
      "2026-07-27T06:28:50.409578+09:00",
      "초과이윤 논쟁 어디까지 반도체 왔나"
+    ],
+    [
+     "2026-07-27T06:30:33.269258+09:00",
+     "코스닥 2분기 코스피 주요공시 삼성에피스홀딩스 24일 거래일"
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/industry/2026/07/25/2026072514294023953",
-    "https://www.peoplewatch.co.kr/article/view/ppw202607250005",
-    "https://www.nocutnews.co.kr/news/6553229",
     "https://www.koreaittimes.com/news/articleView.html?idxno=155472",
     "https://www.etoday.co.kr/news/view/2607389",
     "https://www.hankyung.com/article/202607255655i",
@@ -1948,12 +1949,12 @@
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607260951255550512",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=760024",
     "https://www.etoday.co.kr/news/view/2607541",
-    "https://www.sisain.co.kr/news/articleView.html?idxno=58233"
+    "https://www.sisain.co.kr/news/articleView.html?idxno=58233",
+    "https://www.mk.co.kr/article/12107916",
+    "https://biz.sbs.co.kr/article_hub/20000324706?division=NAVER",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471610"
    ],
    "seen_titles": [
-    "SK,엔비디아등빅테크와5000억달러AI동맹",
-    "SK,빅테크와7500억달러반도체협력..최태원\"현실적투자\"",
-    "[샌프란AI선언]②'2경원'을움직이는사람들…9500억불악수나누다",
     "남태희,제주떠나호주로…브리즈번에서새로운도전",
     "SKExpandsAIInfrastructureAllianceinSiliconValleywithNVIDIA,M",
     "젠슨황\"AI데이터센터인허가빨리\"…李\"속도는자신있어\"",
@@ -3450,10 +3451,13 @@
     "[언주로칼럼]자산이안되는빚",
     "'건강기능식품'검색했더니음료·캔디·주스상위노출…홈쇼핑몰'카...",
     "WSJ“SK하이닉스ADR,과도한프리미엄...AI거품징후”[마켓핫]",
-    "반도체초과이윤논쟁,어디까지왔나"
+    "반도체초과이윤논쟁,어디까지왔나",
+    "“이건비정상”…WSJ,SK하이닉스ADR괴리에‘AI과열’경고",
+    "[외신헤드라인]창신메모리,오늘中본토증시상장",
+    "코스피·코스닥전거래일(24일)주요공시...삼성에피스홀딩스2분기영..."
    ],
    "initialized": true,
-   "last_run": "2026-07-27T06:28:50.409578+09:00"
+   "last_run": "2026-07-27T06:30:33.269258+09:00"
   }
  },
  "press_names": {
