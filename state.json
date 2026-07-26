@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T00:30:33.425848+09:00",
-     "수익률 33배 격차 퇴직연금"
-    ],
-    [
      "2026-07-27T00:35:22.239973+09:00",
      "서학 코스피 개미 증시로 다시 급락에"
     ],
@@ -450,15 +446,17 @@
     [
      "2026-07-27T06:30:33.269258+09:00",
      "코스닥 2분기 코스피 주요공시 삼성에피스홀딩스 24일 거래일"
+    ],
+    [
+     "2026-07-27T06:35:21.205775+09:00",
+     "반등 가세 EV배터리 실적 ESS에 3사 배터리"
+    ],
+    [
+     "2026-07-27T06:35:21.205775+09:00",
+     "KB증권 상위 미래에셋증권 1위 한국산업은행 채권 7월"
     ]
    ],
    "seen_urls": [
-    "https://www.koreaittimes.com/news/articleView.html?idxno=155472",
-    "https://www.etoday.co.kr/news/view/2607389",
-    "https://www.hankyung.com/article/202607255655i",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1389361",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426835",
-    "https://www.nocutnews.co.kr/news/6553230",
     "http://www.econonews.co.kr/news/articleView.html?idxno=441798",
     "https://zdnet.co.kr/view/?no=20260725151546",
     "https://www.ajunews.com/view/20260725145654328",
@@ -1952,15 +1950,15 @@
     "https://www.sisain.co.kr/news/articleView.html?idxno=58233",
     "https://www.mk.co.kr/article/12107916",
     "https://biz.sbs.co.kr/article_hub/20000324706?division=NAVER",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471610"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471610",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1717821",
+    "https://www.labortoday.co.kr/news/articleView.html?idxno=235906",
+    "https://www.etoday.co.kr/news/view/2607341",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=52778",
+    "https://www.sedaily.com/article/20072029",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=52781"
    ],
    "seen_titles": [
-    "남태희,제주떠나호주로…브리즈번에서새로운도전",
-    "SKExpandsAIInfrastructureAllianceinSiliconValleywithNVIDIA,M",
-    "젠슨황\"AI데이터센터인허가빨리\"…李\"속도는자신있어\"",
-    "SK,미빅테크와1100조원'AI동맹'…글로벌생태계주도권잡는다",
-    "삼성·SK,美빅테크와1375조AI반도체협력…AI데이터센터투자도",
-    "현대차정의선\"엔비디아등과협력,국내피지컬AI성장으로이어져야...",
     "靑\"韓기업-글로벌빅테크,9500억달러반도체협력\"",
     "SK,글로벌빅테크와AI동맹…엔비디아와5000억달러협력",
     "오픈AI,이대통령이어삼성·SK회동…\"한국AI협력확대\"",
@@ -3454,10 +3452,16 @@
     "반도체초과이윤논쟁,어디까지왔나",
     "“이건비정상”…WSJ,SK하이닉스ADR괴리에‘AI과열’경고",
     "[외신헤드라인]창신메모리,오늘中본토증시상장",
-    "코스피·코스닥전거래일(24일)주요공시...삼성에피스홀딩스2분기영..."
+    "코스피·코스닥전거래일(24일)주요공시...삼성에피스홀딩스2분기영...",
+    "74조'매도폭탄'은없었다…국민연금,7월순매수전환하이닉스담았...",
+    "\"한국,AI생산기지·공급망핵심국가로도약\"",
+    "AI돈잔치가공포로바뀌었다…코스피운명가를‘실적슈퍼위크’",
+    "[이넷뉴스브랜드평판]SK이노베이션,석유화학상장기업7월1위...한화...",
+    "ESS에EV배터리가세...배터리3사실적반등",
+    "[브랜드평판]미래에셋증권,채권7월1위...KB증권,한국산업은행상위..."
    ],
    "initialized": true,
-   "last_run": "2026-07-27T06:30:33.269258+09:00"
+   "last_run": "2026-07-27T06:35:21.205775+09:00"
   }
  },
  "press_names": {
