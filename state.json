@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-26T05:10:24.973765+09:00",
-     "협력 9500억달러 회동 이끈 벤처투자 오늘은 대통령"
-    ],
-    [
      "2026-07-26T05:30:32.217273+09:00",
      "9440억 회장 매각 최태원 마련하나 SK실트론 딜레마 어떻게"
     ],
@@ -618,13 +614,17 @@
     [
      "2026-07-26T11:05:20.337455+09:00",
      "벗어났다고 500원 만에 17년 바닥 안도했는데 원화값은"
+    ],
+    [
+     "2026-07-26T11:10:27.417373+09:00",
+     "이제 복구 말곤 초고위험에도 곱버스 않는 안돼 식지 레버리지"
+    ],
+    [
+     "2026-07-26T11:10:27.417373+09:00",
+     ""
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/politics/2026/07/25/2026072508241084691",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426811",
-    "http://www.fnnews.com/news/202607250825593860",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=01941766645518128",
     "https://www.wikitree.co.kr/articles/1148395",
     "https://www.pressian.com/pages/articles/2026072508524994736",
     "https://view.asiae.co.kr/article/2026072507530435048",
@@ -2120,13 +2120,13 @@
     "https://www.asiatoday.co.kr/kn/view.php?key=20260726010009187",
     "https://www.newscj.com/news/articleView.html?idxno=3419934",
     "https://www.bloter.net/news/articleView.html?idxno=668983",
-    "https://www.jibs.co.kr/news/articles/articlesDetail/63862?feed=na"
+    "https://www.jibs.co.kr/news/articles/articlesDetail/63862?feed=na",
+    "https://www.koreaittimes.com/news/articleView.html?idxno=155479",
+    "https://www.viva100.com/article/20260726500258",
+    "https://www.mk.co.kr/article/12107533",
+    "https://jp.yna.co.kr/view/AJP20260726000100882?input=1728m"
    ],
    "seen_titles": [
-    "李대통령만난젠슨황\"SK,5천억달러파트너십\"…삼성·네이버·현대차...",
-    "이재명대통령,젠슨황만나…엔비디아\"SK와5천억달러협력\"발표",
-    "뉴욕증시혼조마감-유가급등진정에도반도체주약세에나스닥0.64%↓",
-    "젠슨황,이대통령만나“SK와5천억달러규모파트너십발표”",
     "젠슨황“SK와5천억달러규모협력”…엔비디아,한국기업과AI동맹...",
     "李대통령,美샌프란서앤트로픽CEO만나“韓,아시아AI최적파트너”",
     "[속보]젠슨황,이재명대통령만나“SK와730조원규모협력”…한국...",
@@ -3622,10 +3622,14 @@
     "청주코스트코땅값논란,누구에게책임있나…예고된갈등",
     "유가·관세·환율'삼중변수'…한은연속인상가능성커진다",
     "SK에코플랜트,회사채1000억→2000억'증액확정'",
-    "1,500원벗어났다고안도했는데…원화값은17년만에바닥"
+    "1,500원벗어났다고안도했는데…원화값은17년만에바닥",
+    "이대통령,美샌프란시스코서'AI국가비전'제시…글로벌AI공급망...",
+    "“예탁금묶이기전에사자”…반토막난반도체레버리지‘물타기’...",
+    "“이제레버리지·곱버스말곤복구안돼”…초고위험에도식지않는투...",
+    "韓米テックが総額9500億ドルの半導体協力AIデータセンター構築も推進"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T11:05:20.337455+09:00"
+   "last_run": "2026-07-26T11:10:27.417373+09:00"
   }
  },
  "press_names": {
