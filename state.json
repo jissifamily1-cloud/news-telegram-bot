@@ -565,8 +565,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.econonews.co.kr/news/articleView.html?idxno=441779",
-    "https://www.hankookilbo.com/news/article/A2026072510170001487?did=NA",
     "https://www.newsis.com/view/NISX20260725_0003723016",
     "https://www.mk.co.kr/article/12107221",
     "https://en.yna.co.kr/view/AEN20260725001200320?input=2106m",
@@ -2064,11 +2062,11 @@
     "https://kpenews.com/View.aspx?No=4162368",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044644",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471576",
-    "https://www.news1.kr/it-science/general-it/6239268"
+    "https://www.news1.kr/it-science/general-it/6239268",
+    "http://www.babytimes.co.kr/news/articleView.html?idxno=73650",
+    "https://biz.chosun.com/stock/stock_general/2026/07/26/WIIOBMBWWNB2DBYISUAWAVK5M4/"
    ],
    "seen_titles": [
-    "'샌프란시스코AI선언'발표하는이재명대통령",
-    "지금코스피,싸진걸까위험해진걸까…한은의진단은?[DeepSpot]",
     "올트먼\"韓없었으면AI혁명불가능\"",
     "\"대체불가한글로벌AI공급망핵심국가\"…이대통령'샌프란시스코...",
     "李대통령'샌프란AI선언'…\"韓AI생산기지,대체불가플랫폼도약\"",
@@ -3566,10 +3564,12 @@
     "SKT,국산AI생태계확장..중기부'AX-LLM'참여",
     "충남,'202조첨단투자'전담TF가동…인허가틀깨는'광속행정'펼...",
     "한세실업,오랜만의실적반등…환율·수주증가'쌍끌이'",
-    "국내GW급AI데이터센터경쟁막올랐다…GPU·전력확보가변수"
+    "국내GW급AI데이터센터경쟁막올랐다…GPU·전력확보가변수",
+    "이재명대통령\"한국AI허브\"…'샌프란시스코AI선언'",
+    "‘큰손’국민연금리밸런싱재개에도…연기금,이달순매수"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T15:35:23.878695+09:00"
+   "last_run": "2026-07-26T15:40:26.984458+09:00"
   }
  },
  "press_names": {
