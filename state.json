@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-26T09:08:33.290155+09:00",
-     "상장 나스닥 스타트업 글로벌 VC 국민연금 늘어날까 맞손"
-    ],
-    [
-     "2026-07-26T09:08:33.290155+09:00",
-     "급등한 SK닉스 탐낸 KKR이 플랫 전력 일주일 하나의"
-    ],
-    [
      "2026-07-26T09:15:25.390888+09:00",
      "강세 전력수요 신재생에너지 기대에 ETF"
     ],
@@ -554,11 +546,13 @@
     [
      "2026-07-26T15:05:21.760338+09:00",
      "IPO 공모채 3곳 잰걸음 SK에코플랜트 NH"
+    ],
+    [
+     "2026-07-26T15:10:26.081930+09:00",
+     "네이버 대통령 실리콘밸리 VC 현대 다음세대 삼성 만나 만들"
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/ptoday/2346968.htm",
-    "https://www.sedaily.com/article/20071755",
     "https://economist.co.kr/article/view/ecn202607250008",
     "https://www.news1.kr/politics/president/6238761",
     "https://www.yna.co.kr/view/PYH20260725025500013?input=1196m",
@@ -2056,11 +2050,11 @@
     "https://www.chosun.com/economy/industry-company/2026/07/26/TFGVIRISXRHTDPRVE46LN3ME5A/",
     "https://www.news2day.co.kr/article/20260726500029",
     "https://www.yna.co.kr/view/AKR20260726032600011?input=1195m",
-    "https://www.bloter.net/news/articleView.html?idxno=668957"
+    "https://www.bloter.net/news/articleView.html?idxno=668957",
+    "https://www.segye.com/newsView/20260726506526?OutUrl=naver",
+    "http://www.fnnews.com/news/202607260400366787"
    ],
    "seen_titles": [
-    "이대통령만난젠슨황\"SK와5천억달러파트너십발표\"",
-    "이재용·정의선·이해진,이번엔엔비디아본사서젠슨황만났다",
     "李대통령,샌프란시스코AI선언…\"韓,신뢰할수있는공급망파트너로...",
     "글로벌AI수장들한목소리…\"한국,세계AI허브될것\"",
     "치킨·삼겹살반한젠슨황,샌프란서는李대통령과‘피시앤칩스’회...",
@@ -3558,10 +3552,12 @@
     "9500억달러샌프란협력...SK,GPU구매액까지포함해협력규모키웠나",
     "AI반도체동맹다진이재명,남미서자원벨트승부수",
     "[연합뉴스이시각헤드라인]-15:00",
-    "[자금조달프리뷰]NH證·SK에코플랜트공모채…IPO3곳'잰걸음'"
+    "[자금조달프리뷰]NH證·SK에코플랜트공모채…IPO3곳'잰걸음'",
+    "김민재·김연경·박인비스포츠스타8월제주로",
+    "李대통령,실리콘밸리VC만나'다음세대삼성·현대·SK·네이버'만들..."
    ],
    "initialized": true,
-   "last_run": "2026-07-26T15:05:21.760338+09:00"
+   "last_run": "2026-07-26T15:10:26.081930+09:00"
   }
  },
  "press_names": {
