@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-26T11:25:21.786796+09:00",
-     "계림 명소 신라 경주 올여름 체험관광 플래시백 천년 속으로"
-    ],
-    [
-     "2026-07-26T11:25:21.786796+09:00",
-     "향해 이미 늦었다 후회해도 도박 개미 까지 꺼낸 외신 한국"
-    ],
-    [
-     "2026-07-26T11:25:21.786796+09:00",
-     "글로벌 새만금 AI산업 급부상 기지로"
-    ],
-    [
      "2026-07-26T11:30:35.273543+09:00",
      "코스피 FOMC에 쏠린 빅테크 회복할까 7000선"
     ],
@@ -658,13 +646,13 @@
     [
      "2026-07-26T17:25:21.084502+09:00",
      "황금시대 빅테크 메가프로젝트에 젠슨 동참"
+    ],
+    [
+     "2026-07-26T17:30:31.878292+09:00",
+     "동참 규제 증류 오픈AI 거부한 반대 공세에"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=02132006645518128",
-    "https://biz.chosun.com/distribution/food/2026/07/25/YWA3YHMYGJDGXCQJAOFZMSDRQ4/",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1717768",
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=546102",
     "https://www.econovill.com/news/articleView.html?idxno=746132",
     "https://www.newsis.com/view/NISI20260725_0021376749",
     "https://www.newsis.com/view/NISI20260725_0021376748",
@@ -2160,13 +2148,13 @@
     "https://www.mk.co.kr/article/12107733",
     "https://www.mk.co.kr/article/12107723",
     "https://www.ajunews.com/view/20260726115107734",
-    "https://www.mk.co.kr/article/12107721"
+    "https://www.mk.co.kr/article/12107721",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01886006645518456",
+    "https://www.gamevu.co.kr/news/articleView.html?idxno=59556",
+    "https://www.hani.co.kr/arti/politics/bluehouse/1270017.html",
+    "https://www.ajunews.com/view/20260726150626987"
    ],
    "seen_titles": [
-    "‘깐부’젠슨황,李만나“한국은AI황금시대…SK와730조파트너십...",
-    "李대통령·젠슨황·이재용,‘캘리포니아깐부회동’...“대체불가AI비...",
-    "이재명\"AI공급망핵심국가도약···AI격차해소도앞장\"",
-    "정의선\"엔비디아와로봇레퍼런스플랫폼공동구축…개방형생태계조...",
     "李대통령,샌프란AI서밋후만찬…피시앤칩스에맥주",
     "빅테크총수모은'샌프란AI선언'…한국을AI생산기지로",
     "엔비디아로향한이재용·정의선·이해진…AI패권경쟁속韓역할커진...",
@@ -3662,10 +3650,14 @@
     "[뉴스&분석]9500억弗'AI메가동맹'",
     "[기자24시]'N%성과급'논란,정부가나설때다",
     "더강력해진韓美AI밸류체인…신경망부터휴머노이드까지'윈윈'",
-    "메가프로젝트에美빅테크동참…젠슨황\"韓AI황금시대\""
+    "메가프로젝트에美빅테크동참…젠슨황\"韓AI황금시대\"",
+    "WSJ\"SK하이닉스지나친ADR프리미엄은과열신호\"",
+    "AI협력위해엔비디아본사방문한한국IT대표그룹소식외",
+    "삼전·닉스,미빅테크기업‘1375조원반도체선주문’받았다",
+    "[김성현의AI지표]中공세에'증류규제반대'동참거부한오픈AI·앤..."
    ],
    "initialized": true,
-   "last_run": "2026-07-26T17:25:21.084502+09:00"
+   "last_run": "2026-07-26T17:30:31.878292+09:00"
   }
  },
  "press_names": {
