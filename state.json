@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T01:55:19.045457+09:00",
-     "동안 7개월 66번 울린 경보 증시 의문 실효성"
-    ],
-    [
      "2026-07-27T02:20:27.222190+09:00",
      "향방 분수령 주가 실적 투자가 삼전닉스 슈퍼위크 가를"
     ],
@@ -618,17 +614,21 @@
     [
      "2026-07-27T07:50:25.235281+09:00",
      "거래소 세그먼트로 코스닥본부장 민경욱 30년 악순환 끊겠다"
+    ],
+    [
+     "2026-07-27T07:55:21.453187+09:00",
+     "등록 파킨슨병 진단제 듀켐바이오 FDA 주원료"
+    ],
+    [
+     "2026-07-27T07:55:21.453187+09:00",
+     "이란 선물 교전 멈추자 급등 급락 나스닥 유가"
+    ],
+    [
+     "2026-07-27T07:55:21.453187+09:00",
+     "하락 피신 증시로 롤러코스터 장세에 개인 베팅 코스피는"
     ]
    ],
    "seen_urls": [
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686973",
-    "https://www.hankyung.com/article/202607255694i",
-    "http://www.breaknews.com/1224389",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686974",
-    "https://www.starnewskorea.com/sports/2026/07/25/2026072516074479223",
-    "https://www.etnews.com/20260725000023",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=852411",
-    "https://www.segye.com/newsView/20260725505628?OutUrl=naver",
     "https://news.mtn.co.kr/news-detail/2026072516233510193",
     "https://view.asiae.co.kr/article/2026072516243800459",
     "https://www.sentv.co.kr/article/view/sentv202607250019",
@@ -2120,17 +2120,17 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01961446645518784",
     "https://biz.sbs.co.kr/article_hub/20000324717?division=NAVER",
     "https://www.mediatoday.co.kr/news/articleView.html?idxno=336039",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426908"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426908",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1717832",
+    "https://www.public25.com/news/articleView.html?idxno=51449",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426909",
+    "https://biz.sbs.co.kr/article_hub/20000324718?division=NAVER",
+    "https://view.asiae.co.kr/article/2026072707485712967",
+    "https://biz.sbs.co.kr/article_hub/20000324719?division=NAVER",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1717831",
+    "https://view.asiae.co.kr/article/2026072416303154186"
    ],
    "seen_titles": [
-    "삼전닉스,美빅테크들과9500억불반도체협력…李“우린식구다”",
-    "SK,빅테크5곳과AI반도체·데이터센터협력확대",
-    "정의선“빅테크와협업해피지컬AI혁신생태계구축”…젠슨황과회...",
-    "한국판부유세표적된초고가아파트...“빠른공급만이유일한해답”",
-    "샘알트먼\"한국정부'모두의AI'비전에공감…인프라역할중요\"",
-    "'韓홈런왕수술대'→2군서온'212HR타자'5번배치,\"베테랑들이젠...",
-    "李대통령,SFAI선언…“韓,신뢰할수있는AI공급망파트너로”",
-    "SK,엔비디아와5000억달러AI동맹",
     "엔비디아찾은이재용·정의선·이해진,젠슨황과AI협력",
     "SK,美빅테크들과7500억달러규모AI인프라협력",
     "\"한국없인AI혁명불가능\"…李만난글로벌CEO들'AI허브'구상에화...",
@@ -3622,10 +3622,18 @@
     "삼전-33%·닉스-41%급락…\"반도체성장추세는여전\"",
     "[부자들의투자노트]에드야데니\"ETF중심으로포트폴리오구성\"",
     "'초고가주택'공시가30억?경향\"'과세하는척'비판도\"",
-    "민경욱거래소코스닥본부장\"30년악순환,세그먼트로끊겠다\""
+    "민경욱거래소코스닥본부장\"30년악순환,세그먼트로끊겠다\"",
+    "최태원,노소영에9440억원실탄필요…SK지분매각대신'대출·배당·...",
+    "[코스피·코스닥,삼성바이오에피스농협금융셀트리온현대모비스하나...",
+    "\"SK하이닉스실적발표후'셀온'우려과도…비중유지해야\"",
+    "[비즈나우]'中메모리공룡'창신,오늘상장…삼전닉스에도전",
+    "[굿모닝증시]삼전닉스실적주간…코스피상방잠재력커졌다",
+    "[애프터마켓리뷰]듀켐바이오\"파킨슨병진단제주원료FDA등록\"",
+    "美·이란교전멈추자유가급락…나스닥선물1%대급등",
+    "롤러코스터장세에개인美증시로피신…코스피는'하락'베팅"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T07:50:25.235281+09:00"
+   "last_run": "2026-07-27T07:55:21.453187+09:00"
   }
  },
  "press_names": {
