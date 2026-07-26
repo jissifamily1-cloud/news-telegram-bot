@@ -630,11 +630,13 @@
     [
      "2026-07-26T21:25:20.721520+09:00",
      "미국과 SK그룹 인프라 확대한다 생태계 손잡고"
+    ],
+    [
+     "2026-07-26T21:30:32.438630+09:00",
+     "경기소비재 의외의 ETF 승자 조정장속"
     ]
    ],
    "seen_urls": [
-    "https://www.hani.co.kr/arti/politics/bluehouse/1269923.html",
-    "https://www.pressian.com/pages/articles/2026072511111600143",
     "https://imnews.imbc.com/news/2026/econo/article/6840024_36932.html",
     "https://www.daejonilbo.com/news/articleView.html?idxno=2290191",
     "https://www.dkilbo.com/news/articleView.html?idxno=549537",
@@ -2132,11 +2134,11 @@
     "https://www.industrynews.co.kr/news/articleView.html?idxno=83673",
     "https://www.bosa.co.kr/news/articleView.html?idxno=3009020",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620365",
-    "http://www.bizwnews.com/news/articleView.html?idxno=141541"
+    "http://www.bizwnews.com/news/articleView.html?idxno=141541",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=356508",
+    "http://www.fnnews.com/news/202607231403054374"
    ],
    "seen_titles": [
-    "\"3분기더빠진다\"vs\"60만전자·420만닉스간다\"...증권가갈라진이유",
-    "청와대“한미반도체협력9500억달러추진”…AI데이터센터·피지컬...",
     "젠슨황“맥주한잔더?”이재명“공무원이라~”웃음꽃…글로벌A...",
     "김용범“국내·글로벌빅테크기업,1375조원반도체분야협력”",
     "李대통령\"한국은글로벌AI허브…새로운AI혜택분배모델고민\"",
@@ -3634,10 +3636,12 @@
     "이재용,오픈AI본사방문…샘올트먼과AI·반도체협력논의",
     "SK디스커버리,상반기관계사연합봉사활동전개",
     "“한미손잡고다음세대삼성·SK만들자”…실리콘밸리투자밋업",
-    "SK그룹,미국과손잡고'AI'인프라및생태계확대한다"
+    "SK그룹,미국과손잡고'AI'인프라및생태계확대한다",
+    "[美깐부회동]이해진,14.6조원'AI승부수'…네이버데이터센터1GW로...",
+    "AI조정장속의외의승자'경기소비재ETF'"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T21:25:20.721520+09:00"
+   "last_run": "2026-07-26T21:30:32.438630+09:00"
   }
  },
  "press_names": {
