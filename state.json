@@ -546,11 +546,17 @@
     [
      "2026-07-26T13:35:23.371709+09:00",
      "1400조 가치만 경제적 실리콘밸리서 선언"
+    ],
+    [
+     "2026-07-26T13:40:27.390850+09:00",
+     "100만뷰 단독기사 돌파 최태원 누적 500만건 더투데이"
+    ],
+    [
+     "2026-07-26T13:40:27.390850+09:00",
+     "엔비디아 연합 빅테크 르네상스 서막"
     ]
    ],
    "seen_urls": [
-    "http://www.legaltimes.co.kr/news/articleView.html?idxno=95231",
-    "https://biz.heraldcorp.com/article/10819848",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02023766645518128",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607250246&t=NN",
     "https://news.tvchosun.com/site/data/html_dir/2026/07/25/2026072590003.html",
@@ -2048,11 +2054,11 @@
     "https://biz.chosun.com/it-science/ict/2026/07/26/HPKKGPJXVZF5TL5UBVFGOJ572Q/",
     "https://www.mt.co.kr/politics/2026/07/26/2026072610182281659",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01659686645518456",
-    "http://www.newstomato.com/ReadNews.aspx?no=1308218&inflow=N"
+    "http://www.newstomato.com/ReadNews.aspx?no=1308218&inflow=N",
+    "https://www.the-today.com/news/articleView.html?idxno=87865",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=92772"
    ],
    "seen_titles": [
-    "이대통령“AI시대담대한미래대한민국과함께…대체불가협력플랫...",
-    "젠슨황엔비디아CEO\"SK와5000억달러규모파트너십\"",
     "[속보]李대통령“대한민국,대체불가한글로벌AI공급망의핵심국...",
     "젠슨황\"SK와5천억달러규모파트너십…현대차·삼성·네이버협력확...",
     "[해외시황]뉴욕증시,유가하락에도반도체주약세에'혼조'…나스닥...",
@@ -3550,10 +3556,12 @@
     "이재용-올트먼,오픈AI본사서회동…AI반도체협력논의",
     "李대통령,한-실리콘밸리동맹다지고브라질로…\"설레는마음\"",
     "불가사리부터연어DNA까지…K뷰티판도바꾸는기술유망주들",
-    "실리콘밸리서'AI선언'…경제적가치만'1400조'"
+    "실리콘밸리서'AI선언'…경제적가치만'1400조'",
+    "더투데이최태원단독기사100만뷰돌파…한달누적500만건",
+    "[초점]1400兆쥔韓·美'빅테크연합','AI르네상스'서막…엔비디아..."
    ],
    "initialized": true,
-   "last_run": "2026-07-26T13:35:23.371709+09:00"
+   "last_run": "2026-07-26T13:40:27.390850+09:00"
   }
  },
  "press_names": {
