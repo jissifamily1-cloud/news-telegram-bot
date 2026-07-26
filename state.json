@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-26T04:15:24.128317+09:00",
-     "여전히 고공행진 SK하이닉스 D램 가격 급락에도 3주간"
-    ],
-    [
      "2026-07-26T04:55:22.953257+09:00",
      "시대 선언 말해주는 협력이 샌프란 375조원 현실화"
     ],
@@ -566,18 +562,13 @@
     [
      "2026-07-26T10:05:21.587463+09:00",
      "논의 본격화 깨질까 변협 안되는 위자료 위로 3000만원 현실화"
+    ],
+    [
+     "2026-07-26T10:15:28.240205+09:00",
+     "변수에 미국도 주식시장 긴장 흔들린다 금리"
     ]
    ],
    "seen_urls": [
-    "https://www.womennews.co.kr/news/articleView.html?idxno=280334",
-    "https://www.hankyung.com/article/2026072441706",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=01879446645518128",
-    "https://dealsite.co.kr/articles/165480",
-    "https://www.sentv.co.kr/article/view/sentv202607240070",
-    "https://www.dailian.co.kr/news/view/1670805/?sc=Naver",
-    "https://biz.heraldcorp.com/article/10819520",
-    "https://biz.sbs.co.kr/article_hub/20000324257?division=NAVER",
-    "https://www.yna.co.kr/view/AKR20260724086300546?input=1195m",
     "https://view.asiae.co.kr/article/2026072411344845947",
     "https://it.chosun.com/news/articleView.html?idxno=2023092166467",
     "https://www.yna.co.kr/view/AKR20260724142900008?input=1195m",
@@ -2068,18 +2059,18 @@
     "https://news.koreanbar.or.kr/news/articleView.html?idxno=35890",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01348086645518456",
     "https://www.it-b.co.kr/news/articleView.html?idxno=89239",
-    "http://www.yonhapnewstv.co.kr/news/AKR20260726100504dPr"
+    "http://www.yonhapnewstv.co.kr/news/AKR20260726100504dPr",
+    "https://www.starnewskorea.com/sports/2026/07/26/2026072607425594430",
+    "https://www.ajunews.com/view/20260726101054594",
+    "http://www.fnnews.com/news/202607261005427632",
+    "https://view.asiae.co.kr/article/2026072609532497623",
+    "https://www.wikitree.co.kr/articles/1148504",
+    "https://www.dt.co.kr/article/12074694",
+    "https://biz.chosun.com/stock/stock_general/2026/07/26/2HXTKWA7INAO7GETC2ANCP5BKY/",
+    "https://www.khan.co.kr/article/202607261008001",
+    "https://www.mediapen.com/news/view/1112254"
    ],
    "seen_titles": [
-    "“노소영에9940억지급”…세기의이혼소송9년만에일단락",
-    "다시100달러돌파한국제유가…하반기'2%대물가'사수가능할까",
-    "파기환송심\"최태원,노소영에현금9,440억원재산분할\"",
-    "李대통령에美측'이정후사인볼'선물→젠슨황·샘올트먼등CEO연쇄...",
-    "[뉴욕증시]\"반도체만팔았다\"혼조마감···유가'100달러아래로'",
-    "\"메모리반도체주가급락은'단기발작'...내년수급불균형더심화\"",
-    "\"어떻게하루도안빼고\"…매일울린사이드카,다음주는괜찮을까",
-    "李대통령,앤트로픽CEO에\"韓,AI투자대대적확대\"",
-    "최태원·노소영'세기의재산분할',역대최대'9440억원'…다음은",
     "뉴욕증시,유가하락에도혼조마감…반도체주약세에나스닥0.64%↓",
     "경기도,신임경제부지사에주형철내정",
     "‘세기의이혼’에가슴철렁한개미들…미·중사례보니[나우,어스]",
@@ -3570,10 +3561,19 @@
     "'위로안되는위자료'3000만원벽깨질까…변협,현실화논의본격화",
     "SKT,‘독자AI’앞세워스타트업혁신지원…A.XK1API개방",
     "SKT,독자AI모델로스타트업혁신돕는다…3개사에A.XK1API제공",
-    "이통3사2분기희비…SKT회복,LGU+성장,KT주춤"
+    "이통3사2분기희비…SKT회복,LGU+성장,KT주춤",
+    "\"이번달엔꼭\"그약속지켰다,김천극장골로10경기만에'홈첫승'....",
+    "[종합]李대통령\"한·미,스타트업동맹으로\"…국민연금·美6개VC와MO...",
+    "李대통령,실리콘밸리VC만나'다음세대삼성·SK함께만들자\"",
+    "'1375조AI협력'빅테크만찬밥값은누가?…젠슨황\"골든벨은어떤가...",
+    "이대통령\"삼성같은혁신기업함께만들자\"미국에제안",
+    "SK하이닉스,2분기영업익63조원넘을듯…사상최대치경신‘관심’",
+    "29일실적발표하는SK하이닉스…2분기영업익64조원전망솔솔",
+    "9440억실탄마련할최태원,주식매각피할까…‘소버린트라우마’작...",
+    "[김이코의시장분석]금리변수에주식시장'긴장'…미국도흔들린다"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T10:10:29.991807+09:00"
+   "last_run": "2026-07-26T10:15:28.240205+09:00"
   }
  },
  "press_names": {
