@@ -553,12 +553,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.smarttoday.co.kr/ko-kr/articles/109789",
-    "https://www.seoul.co.kr/news/politics/2026/07/25/20260725500012?wlog_tag3=naver",
-    "https://view.asiae.co.kr/article/2026072510055181557",
-    "https://www.kbmaeil.com/article/20260725500055",
-    "http://www.econonews.co.kr/news/articleView.html?idxno=441777",
-    "https://www.hani.co.kr/arti/politics/bluehouse/1269915.html",
     "https://view.asiae.co.kr/article/2026072510063485396",
     "https://www.jibs.co.kr/news/articles/articlesDetail/63839?feed=na",
     "http://www.newstomato.com/ReadNews.aspx?no=1308196&inflow=N",
@@ -2052,15 +2046,15 @@
     "https://www.sidae.com/article/2026072613571397420",
     "https://www.seoulfn.com/news/articleView.html?idxno=634139",
     "https://www.jejusori.net/news/articleView.html?idxno=505043",
-    "https://www.koreatimes.co.kr/path/A2026072613170005614"
+    "https://www.koreatimes.co.kr/path/A2026072613170005614",
+    "https://www.etoday.co.kr/news/view/2607501",
+    "https://www.etnews.com/20260726000112",
+    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070369",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260726.99099007573",
+    "https://biz.sbs.co.kr/article_hub/20000324680?division=NAVER",
+    "https://www.ytn.co.kr/_ln/0102_202607261411124663"
    ],
    "seen_titles": [
-    "삼성·SK·현대차·네이버총출동…실리콘밸리울린‘샌프란AI선언’",
-    "李대통령,젠슨황등글로벌AI리더들과'피시앤칩스만찬회동'",
-    "이대통령,'샌프란AI선언'발표…\"글로벌AI핵심국가도약\"",
-    "李대통령,앤트로픽CEO만나“韓AI투자대대적확대”…오픈AI와도...",
-    "李대통령‘글로벌AI허브’선언…젠슨황·혹탄韓협력확대화답",
-    "K-배터리,실적발표시즌돌입…하반기전망은?[위클리배터리]",
     "[전문]李대통령'샌프란AI선언'…\"한국은대체불가AI플랫폼\"",
     "[전문]李대통령,'샌프란AI선언'…\"한국,글로벌AI테스트베드,세계...",
     "이재용·정의선·이해진,엔비디아본사찾아젠슨황만났다",
@@ -3554,10 +3548,16 @@
     "미국서AI강조한이대통령…브라질로옮겨남미협력'정조준'",
     "[주간환율전망]중동긴장누른달러공급우위···FOMC주목",
     "김연경·김민재·박인비제주온다…8월뜨겁게달굴'스포츠축제'",
-    "Samsung,SK,HyundaiexpandAIpartnershipswithBigTechfirmsto$950"
+    "Samsung,SK,HyundaiexpandAIpartnershipswithBigTechfirmsto$950",
+    "李대통령,美실리콘밸리일정마치고브라질로출발",
+    "이재용·최태원·정의선,美반도체·피지컬AI연쇄회동",
+    "SK하이닉스·삼성전자27일개장부터나흘이분수령",
+    "한미기업,1390조원초대형AI동맹...공급망협력본격화",
+    "최태원9440억원재산분할역대최대…다음은권혁빈'8조'소송",
+    "1,300조규모AI협력...\"글로벌공급망한축\""
    ],
    "initialized": true,
-   "last_run": "2026-07-26T14:10:26.394025+09:00"
+   "last_run": "2026-07-26T14:15:23.835817+09:00"
   }
  },
  "press_names": {
