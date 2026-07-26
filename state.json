@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T02:25:23.923471+09:00",
-     "열흘에도 웃었다 최고 사이드카 ETF 에너지 수익률"
-    ],
-    [
      "2026-07-27T02:40:24.793406+09:00",
      "안심 환율 떨어졌지만 환전 효과 못한다 일시적 ADR"
     ],
@@ -746,12 +742,13 @@
     [
      "2026-07-27T08:25:20.947349+09:00",
      "기대감에 업무협약 반도체 서밋 대규모"
+    ],
+    [
+     "2026-07-27T08:28:54.225497+09:00",
+     "산일전기 달성 이겨낸 수주 데이터센터 초과 이튼 경쟁 ABB 조기"
     ]
    ],
    "seen_urls": [
-    "https://weekly.khan.co.kr/article/202607251739001",
-    "https://www.dt.co.kr/article/12074661",
-    "https://www.peoplewatch.co.kr/article/view/ppw202607250007",
     "https://www.epnc.co.kr/news/articleView.html?idxno=404719",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620079",
     "https://www.news1.kr/industry/general-industry/6238930",
@@ -2248,12 +2245,12 @@
     "https://www.ajunews.com/view/20260727081500453",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=725038",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=270355",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=270356"
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=270356",
+    "https://www.m-i.kr/news/articleView.html?idxno=1395392",
+    "http://www.newsdream.kr/news/articleView.html?idxno=115078",
+    "http://www.newsprime.co.kr/news/article.html?no=741570"
    ],
    "seen_titles": [
-    "이대통령,젠슨황과\"우리는,식구다\"'짠'...샌프란시스코깐부회동",
-    "이대통령“코스피조정중인데”···젠슨황“다시오를겁니다”",
-    "英이코노미스트,“韓개미는충동적도박꾼”비판",
     "[샌프란AI선언]③K-반도체러브콜…\"HBM없인AI도없다\"",
     "엔비디아,한국생태계파트너들과차세대AI혁신협력발표",
     "“공무원이라안돼요”…‘샌프란깐부회동’에선어떤이야기가오갔...",
@@ -3750,10 +3747,13 @@
     "SK이노베이션E&S,호주서국내최초로초경질유수입",
     "[프리마켓포커스]한·미9500억달러'AI동맹'…프리마켓2%↑",
     "[굿모닝!글로벌뉴욕증시]미국-이란공습중단에도반도체섹터매도...",
-    "[박정식의국내주식시황]AI서밋대규모업무협약기대감에반도체섹..."
+    "[박정식의국내주식시황]AI서밋대규모업무협약기대감에반도체섹...",
+    "프로축구울산,선두서울3-1완파하고6경기만에승",
+    "SKT,'굿체인지'캠페인확대…AI프롬프트공모전·미디어아트개최",
+    "산일전기,데이터센터수주'조기초과달성'…'이튼·ABB이겨낸'경쟁..."
    ],
    "initialized": true,
-   "last_run": "2026-07-27T08:25:20.947349+09:00"
+   "last_run": "2026-07-27T08:28:54.225497+09:00"
   }
  },
  "press_names": {
