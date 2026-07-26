@@ -497,7 +497,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/ptoday/2346991.htm",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4426831",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4097001",
     "https://www.munhwa.com/article/11604955",
@@ -1996,10 +1995,10 @@
     "https://www.polinews.co.kr/news/articleView.html?idxno=738081",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=852524",
     "https://www.segye.com/newsView/20260726508111?OutUrl=naver",
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=388900"
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=388900",
+    "http://www.stoo.com/article.php?aid=107934981485"
    ],
    "seen_titles": [
-    "\"위아패밀리\"…李대통령,빅테크CEO들과'샌프란깐부회동'",
     "(3rdLD)S.Korean,globaltechfirmsagreeonUS$950blncooperationpr",
     "최태원회장\"국민1인당AI에이전트1개보급목표\"",
     "靑\"삼성·SK,빅테크와1375조반도체협력…공급·설계·실증까지아우...",
@@ -3498,10 +3497,11 @@
     "[전규열칼럼]중동·관세·환율'퍼펙트스톰'위기'…'공급망투자'가...",
     "프로축구K리그인천,부천과1-1무승부",
     "[설왕설래]9440억원짜리이혼",
-    "\"1,390조원규모AI동맹탄생\"…이재명,美실리콘밸리서'샌프란시스..."
+    "\"1,390조원규모AI동맹탄생\"…이재명,美실리콘밸리서'샌프란시스...",
+    "'이동경·에릭1골1도움'울산,선두서울꺾고6경기만에승리…안양..."
    ],
    "initialized": true,
-   "last_run": "2026-07-26T22:45:27.692150+09:00"
+   "last_run": "2026-07-26T22:50:25.314743+09:00"
   }
  },
  "press_names": {
