@@ -566,19 +566,17 @@
     [
      "2026-07-26T10:15:28.240205+09:00",
      "변수에 미국도 주식시장 긴장 흔들린다 금리"
+    ],
+    [
+     "2026-07-26T10:20:28.084008+09:00",
+     "말라 하루에 황현희 주식 이유 오르내려 있었네 말이 하지"
+    ],
+    [
+     "2026-07-26T10:20:28.084008+09:00",
+     "빅테크 CEO들 한국만의 필요 모델 젠슨"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026072411344845947",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092166467",
-    "https://www.yna.co.kr/view/AKR20260724142900008?input=1195m",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619976",
-    "https://www.newspim.com/news/view/20260724000549",
-    "https://www.dt.co.kr/article/12074620",
-    "https://biz.heraldcorp.com/article/10819797",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=01895846645518128",
-    "https://www.mt.co.kr/society/2026/07/25/2026072419404822170",
-    "https://www.newsway.co.kr/news/view?ud=2026072414194194739",
     "https://www.kbmaeil.com/article/20260725500017",
     "https://www.womennews.co.kr/news/articleView.html?idxno=280342",
     "https://www.munhwa.com/article/11604926",
@@ -2068,19 +2066,19 @@
     "https://www.dt.co.kr/article/12074694",
     "https://biz.chosun.com/stock/stock_general/2026/07/26/2HXTKWA7INAO7GETC2ANCP5BKY/",
     "https://www.khan.co.kr/article/202607261008001",
-    "https://www.mediapen.com/news/view/1112254"
+    "https://www.mediapen.com/news/view/1112254",
+    "https://zdnet.co.kr/view/?no=20260726101834",
+    "https://www.etoday.co.kr/news/view/2607426",
+    "https://www.tokenpost.kr/news/economy/381353",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=738046",
+    "https://www.etoday.co.kr/news/view/2607472",
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=360832",
+    "https://www.mk.co.kr/article/12107517",
+    "https://biz.sbs.co.kr/article_hub/20000324657?division=NAVER",
+    "https://www.seoul.co.kr/news/economy/securities/2026/07/26/20260726500012?wlog_tag3=naver",
+    "https://www.s-journal.co.kr/news/articleView.html?idxno=42640"
    ],
    "seen_titles": [
-    "뉴욕증시,유가하락에도혼조마감…반도체주약세에나스닥0.64%↓",
-    "경기도,신임경제부지사에주형철내정",
-    "‘세기의이혼’에가슴철렁한개미들…미·중사례보니[나우,어스]",
-    "李대통령\"AI투자대폭확대\"…앤트로픽CEO\"한국과데이터센터협력...",
-    "“공급과잉우려는오해”…빅테크CAPEX폭증속K-반도체‘반격’...",
-    "개미패닉…삼전닉스레버리지폭락에,‘현금3천만’조기시행까지",
-    "노소영-최태원이혼소송재산분할,시점은SK주가급등전이어야?",
-    "'주식계좌녹는다더니'…폭락장에개미들'우르르'몰린곳[투자톡]",
-    "구글이다시당긴AI투자방아쇠…M7실적서확인할‘쩐의전쟁’",
-    "[오늘의딜PICK][영상]SK하이닉스,채권시장'큰손'등극…미래에셋...",
     "‘2차전력슈퍼사이클’탄LS일렉트릭…“영업레버리지본격화”",
     "출렁이는국장…변동장속수익률방어하려면",
     "제네시스PE,8000억모은다…블라인드펀드클로징눈앞",
@@ -3570,10 +3568,20 @@
     "SK하이닉스,2분기영업익63조원넘을듯…사상최대치경신‘관심’",
     "29일실적발표하는SK하이닉스…2분기영업익64조원전망솔솔",
     "9440억실탄마련할최태원,주식매각피할까…‘소버린트라우마’작...",
-    "[김이코의시장분석]금리변수에주식시장'긴장'…미국도흔들린다"
+    "[김이코의시장분석]금리변수에주식시장'긴장'…미국도흔들린다",
+    "SKT,독파모AI모델로스타트업세곳혁신지원",
+    "李,빅테크이어실리콘밸리VC와'자본동맹'…AI전략,기술서투자까...",
+    "국채금리상승에크레딧채권매력↑…투자자관심재조명",
+    "李대통령'샌프란시스코AI선언'…\"글로벌대체불가AI공급망핵심국...",
+    "이대통령\"다음세대삼성·현대·SK만들자\"-실리콘밸리VC\"韓투자늘...",
+    "한미빅테크1400조반도체·AI동맹",
+    "실리콘밸리VC만난李대통령“다음세대삼성만들자”",
+    "실리콘밸리서VC만난李대통령\"다음세대삼성함께만들어야\"",
+    "“주식하지말라”는황현희,이유있었네…“하루에6%오르내려,말이...",
+    "[美깐부회동]\"한국만의AI모델필요\"…젠슨황등빅테크CEO들,李..."
    ],
    "initialized": true,
-   "last_run": "2026-07-26T10:15:28.240205+09:00"
+   "last_run": "2026-07-26T10:20:28.084008+09:00"
   }
  },
  "press_names": {
