@@ -346,12 +346,13 @@
     [
      "2026-07-27T05:25:21.737624+09:00",
      "올트먼과 회동 샌프란시스코 파운드리 논의 HBM 이재용 협력"
+    ],
+    [
+     "2026-07-27T05:31:51.390487+09:00",
+     "훈풍부나 이번주 2Q 실적발표 릴레이 SK하이닉스 전자업계"
     ]
    ],
    "seen_urls": [
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701011",
-    "https://www.econovill.com/news/articleView.html?idxno=746146",
-    "https://www.news1.kr/it-science/general-it/6238877",
     "https://www.yna.co.kr/view/AKR20260725032051003?input=1195m",
     "https://www.news1.kr/industry/general-industry/6238876",
     "https://www.newsis.com/view/NISX20260725_0003723141",
@@ -1848,12 +1849,12 @@
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607261057205130517",
     "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1169911",
     "https://www.apnews.kr/news/articleView.html?idxno=3050050",
-    "http://www.fnnews.com/news/202607270518035599"
+    "http://www.fnnews.com/news/202607270518035599",
+    "https://www.dt.co.kr/article/12074847",
+    "https://www.newsis.com/view/NISX20260726_0003723704",
+    "https://www.newsis.com/view/NISX20260726_0003723710"
    ],
    "seen_titles": [
-    "삼전닉스,美빅테크들과9500억弗반도체협력",
-    "이대통령실리콘밸리서'AI선언'...\"한국,글로벌AI허브될것\"",
-    "이재용\"미국은원천기술,한국은반도체·제조\"…AI생태계협력역설",
     "정부\"韓-美빅테크,9500억불반도체·5GWAIDC협력\"",
     "K-반도체,빅테크와9천500억불협력…대체불가초격차만든다(종합)",
     "\"엔비디아와5000억弗협력\"…SK,美빅테크와AI인프라협력확대",
@@ -3350,10 +3351,13 @@
     "반도체협력만1375조‘빅딜’…韓‘3대AI메가프로젝트’글로벌확...",
     "\"터지고나면이미늦는뇌동맥류…AI가가장필요한분야죠\"",
     "이재용,샘올트먼과샌프란시스코회동…HBM·파운드리협력논의",
-    "美WSJ,SK하이닉스ADR프리미엄경고\"AI거래과열\""
+    "美WSJ,SK하이닉스ADR프리미엄경고\"AI거래과열\"",
+    "개봉박두‘삼전닉스’실적…변동성딛고코스피반등이끌까",
+    "이대통령\"韓대체불가글로벌AI공급망핵심국가로도약할것\"[간추...",
+    "\"AI훈풍부나\"이번주SK하이닉스등전자업계'릴레이2Q실적발표'"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T05:30:34.033158+09:00"
+   "last_run": "2026-07-27T05:31:51.390487+09:00"
   }
  },
  "press_names": {
