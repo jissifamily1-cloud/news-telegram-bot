@@ -550,10 +550,13 @@
     [
      "2026-07-27T07:29:24.236321+09:00",
      "유지 증시 예탁금 4배 100조원선 투자자 순매수액"
+    ],
+    [
+     "2026-07-27T07:30:34.098196+09:00",
+     "겹악재 내내 사이드카 발동 관세까지 10거래일"
     ]
    ],
    "seen_urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=1395240",
     "https://www.newspim.com/news/view/20260725000078",
     "https://www.segye.com/newsView/20260725505475?OutUrl=naver",
     "http://www.yonhapnewstv.co.kr/news/AKR20260725160101yXP",
@@ -2052,10 +2055,10 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1717827",
     "http://www.fnnews.com/news/202607270711481081",
     "https://biz.sbs.co.kr/article_hub/20000324715?division=NAVER",
-    "https://biz.sbs.co.kr/article_hub/20000324731?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000324731?division=NAVER",
+    "https://biz.sbs.co.kr/article_hub/20000324716?division=NAVER"
    ],
    "seen_titles": [
-    "SK,엔비디아·MS·AWS·앤트로픽등과AI생태계확대나선다…'메가프...",
     "SK그룹,엔비디아와'AI혈맹'강화…5000억달러협력",
     "SK,엔비디아와5000억달러AI인프라동맹…MS·앤트로픽까지확장",
     "“안사길다행인가,지금이바닥인가”…삼전·하닉7~8%급락에도월가...",
@@ -3554,10 +3557,11 @@
     "SK하이닉스美ADR'이상과열'…韓주식보다29%비싸",
     "\"메모리가격3분기,30%이상상승…공급부족도심화\"-KB證",
     "[마켓브리핑]지난주국제유가하락…인텔호실적에도반도체급락",
-    "[서학개미브리핑]투자자예탁금100조원선유지…美증시순매수액4배..."
+    "[서학개미브리핑]투자자예탁금100조원선유지…美증시순매수액4배...",
+    "[마켓프리뷰]10거래일내내사이드카발동…美관세까지'겹악재'"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T07:29:24.236321+09:00"
+   "last_run": "2026-07-27T07:30:34.098196+09:00"
   }
  },
  "press_names": {
