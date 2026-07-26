@@ -754,12 +754,13 @@
     [
      "2026-07-26T19:25:21.367305+09:00",
      "삼전닉스 중국 영향 상장 주목 창신메모리"
+    ],
+    [
+     "2026-07-26T19:35:21.509396+09:00",
+     "사이드카"
     ]
    ],
    "seen_urls": [
-    "https://www.korea.kr/news/policyNewsView.do?newsId=148968779&call_from=naver_news",
-    "https://www.dt.co.kr/article/12074645",
-    "https://www.ytn.co.kr/_ln/0101_202607251305476852",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674472&plink=ORI&cooper=NAVER",
     "https://biz.heraldcorp.com/article/10819948",
     "https://www.munhwa.com/article/11604952",
@@ -2256,12 +2257,12 @@
     "https://news.jtbc.co.kr/article/NB12310222?influxDiv=NAVER",
     "https://www.namdonews.com/news/articleView.html?idxno=918085",
     "https://imnews.imbc.com/news/2026/world/article/6840166_36925.html",
-    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553406299"
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553406299",
+    "https://www.starnewskorea.com/sports/2026/07/26/2026072618354434842",
+    "https://news.tvchosun.com/site/data/html_dir/2026/07/26/2026072690130.html",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260727.22022007696"
    ],
    "seen_titles": [
-    "李대통령,빅테크CEO들과'샌프란깐부회동'…\"우리는식구다\"(종합)",
-    "李,글로벌빅테크CEO들과'피시앤칩스회동'…\"우리는식구다\"",
-    "[속보]청와대\"SK,엔비디아등빅테크기업과7500억달러반도체공급...",
     "이대통령\"한국,앤트로픽최적의파트너…협력확대기대\"",
     "[속보]SK,엔비디아등빅테크기업들과7500억달러반도체공급협력",
     "대통령'샌프란AI선언'...여야,보완수사권충돌지속",
@@ -3758,10 +3759,13 @@
     "이대통령\"다음삼성·SK만들자\"…VC도관심보인'모두의AI'",
     "광주군공항이전,재원구조전면재검토",
     "중국창신메모리내일상장‥'삼전닉스'영향주목",
-    "[현장목소리]이정규감독,\"김천전빼고지표나쁘지않아,플랜C까지..."
+    "[현장목소리]이정규감독,\"김천전빼고지표나쁘지않아,플랜C까지...",
+    "'최초10경기무패'대기록도전,정경호강원감독\"별로개의치않는다...",
+    "실리콘밸리벤처투자사만난李대통령\"다음세대삼성·SK만들자\"",
+    "[도청도설]사이드카"
    ],
    "initialized": true,
-   "last_run": "2026-07-26T19:30:33.129304+09:00"
+   "last_run": "2026-07-26T19:35:21.509396+09:00"
   }
  },
  "press_names": {
