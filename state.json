@@ -530,11 +530,17 @@
     [
      "2026-07-27T07:15:26.455691+09:00",
      "뉴욕증시 시험대 과열까지 FOMC 빅테크 실적에"
+    ],
+    [
+     "2026-07-27T07:20:26.041968+09:00",
+     "민주당 광주가 바라본 신천지 변수 양날의 의혹은"
+    ],
+    [
+     "2026-07-27T07:20:26.041968+09:00",
+     "미국마저 손댄 상품 놀랐다 한국이 두려워한 결과 외신도"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1717780",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=267822",
     "https://www.nocutnews.co.kr/news/6553234",
     "https://www.aitimes.com/news/articleView.html?idxno=213170",
     "http://www.newstomato.com/ReadNews.aspx?no=1308199&inflow=N",
@@ -2032,11 +2038,11 @@
     "https://www.thelec.kr/news/articleView.html?idxno=60040",
     "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62116",
     "https://biz.sbs.co.kr/article_hub/20000324727?division=NAVER",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16146363"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16146363",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254058&CMPT_CD=P0010",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253617&CMPT_CD=P0010"
    ],
    "seen_titles": [
-    "\"다시오를겁니다\"젠슨황의주가전망에…웃음꽃핀샌프란만찬",
-    "K-반도체1390조몰렸다…삼성·SK,빅테크와'초대형동맹'",
     "韓총수들,엔비디아본사방문→李와맥주회동…9500억달러'AI동맹...",
     "SK,美빅테크엔비디아·MS·앤트로픽과7500억달러'AI동맹'",
     "[AI이슈트렌드]쿠팡화재·삼전닉스레버리지논란...BTS월드컵·영화...",
@@ -3534,10 +3540,12 @@
     "SK,엔비디아에메모리장기공급",
     "美,자동차이어반도체까지...“애플도중국메모리쓰지마!”",
     "젠슨황\"韓은AI황금기…SK와5천억달러파트너십\"",
-    "뉴욕증시,FOMC·빅테크실적에AI과열까지시험대"
+    "뉴욕증시,FOMC·빅테크실적에AI과열까지시험대",
+    "\"신천지의혹은양날의검\"...광주가바라본'민주당변수'",
+    "외신도놀랐다...미국마저두려워한상품,한국이손댄결과"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T07:15:26.455691+09:00"
+   "last_run": "2026-07-27T07:20:26.041968+09:00"
   }
  },
  "press_names": {
