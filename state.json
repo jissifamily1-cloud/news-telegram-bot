@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T00:50:27.622731+09:00",
-     "최태원이 줘야 지연 9440억 노소영 이자만 1억2930만원 하루에"
-    ],
-    [
      "2026-07-27T00:55:24.454253+09:00",
      "빅샷들 반도체 한미 데이터센터 한자리 동맹 모인 로봇"
     ],
@@ -426,15 +422,25 @@
     [
      "2026-07-27T06:50:24.731252+09:00",
      "한미 가능 29일 상호 ADR 폭등 하이닉스 이후 미국에서"
+    ],
+    [
+     "2026-07-27T06:55:20.944439+09:00",
+     "K반도체 파운드리까지 잡았다 빅테크가 HBM부터"
+    ],
+    [
+     "2026-07-27T06:55:20.944439+09:00",
+     "배경훈 젠슨 어렵다 공무원이라 제안 웃음 황의"
+    ],
+    [
+     "2026-07-27T06:55:20.944439+09:00",
+     "정유사들 덜어준 걱정 일희일비 정제마진에"
+    ],
+    [
+     "2026-07-27T06:55:20.944439+09:00",
+     "영국 발표 성장률 주목 물가 금리"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026072442996",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=876059",
-    "https://biz.heraldcorp.com/article/10820019",
-    "https://www.ikbc.co.kr/article/view/kbc202607250023",
-    "https://biz.chosun.com/industry/company/2026/07/25/YBFXK4AUR5D2XG2CV4YJVVNF6A/",
-    "https://www.naeil.com/news/read/596505",
     "https://www.nocutnews.co.kr/news/6553231",
     "https://www.ajunews.com/view/20260725151246331",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/25/2026072500020.html",
@@ -1928,15 +1934,15 @@
     "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95389",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=51695",
     "http://www.beyondpost.co.kr/view.php?ud=2026072706123220762aaae0046f_30",
-    "https://www.ytn.co.kr/_ln/0104_202607270642334300"
+    "https://www.ytn.co.kr/_ln/0104_202607270642334300",
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030165633&code=61141111&cp=nv",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471623",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1717823",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01774486645518784",
+    "https://news.bizwatch.co.kr/article/industry/2026/07/23/0050",
+    "https://biz.sbs.co.kr/article_hub/20000324710?division=NAVER"
    ],
    "seen_titles": [
-    "[이슈]1390조'AI동맹'…K반도체,슈퍼사이클올라탔지만'숫자의함정...",
-    "삼전닉스30%빠질때웃었다…하락장서홀로살아남은ETF[이수의ETF줌...",
-    "[샌프란시스코AI서밋]젠슨황\"한국은AI황금기\"…글로벌빅테크,韓...",
-    "SK,글로벌빅테크와1095조규모메모리·AIDC협력체결",
-    "SK,엔비디아등글로벌빅테크와1,100조원AI인프라협력",
-    "최태원“한국,AI네이티브국가돼야”…“빅테크칩수요폭발적”",
     "삼성·SK,빅테크기업과9500억달러반도체협력",
     "SK·엔비디아,5천억달러포괄협력…AI팩토리27년가동목표",
     "최태원\"한국,1인1에이전트AI네이티브국가돼야\"...샌프란AI선언...",
@@ -3430,10 +3436,16 @@
     "[k1.star]김현석감독의제로톱통했다!'1골1도움'이동경,울산의'5...",
     "최태원,SK회장,여름에도현금잔치…지주·계열사,중간배당실시",
     "\"SK하이닉스,ADR가한국본주보다비싼점AI의또다른거래과열신호...",
-    "SK하이닉스ADR,미국에서폭등...29일이후한미상호전환가능"
+    "SK하이닉스ADR,미국에서폭등...29일이후한미상호전환가능",
+    "WSJ“SK하이닉스ADR프리미엄,‘AI과열’신호”",
+    "미래에셋증권채권,브랜드평판1위…KB증권·한국산업은행'톱3'",
+    "HBM부터파운드리까지…美빅테크가K반도체꽉잡았다",
+    "젠슨황의'통큰제안'에…배경훈\"공무원이라어렵다\"웃음",
+    "[인사이드스토리]'정제마진에일희일비'韓정유사들,걱정덜어준'이...",
+    "[주간경제일정]영국금리·美물가·성장률발표'주목'"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T06:50:24.731252+09:00"
+   "last_run": "2026-07-27T06:55:20.944439+09:00"
   }
  },
  "press_names": {
