@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T14:10:30.119200+09:00",
-     "규모 지자체 78건 상반기 사업 항만개발 2523억원 허가 해수부 민간"
-    ],
-    [
-     "2026-07-27T14:10:30.119200+09:00",
-     "업계 성적표 세액공제 ESS가 배터리 실적 방어 2분기 나온다"
-    ],
-    [
-     "2026-07-27T14:10:30.119200+09:00",
-     "울산시 3대 중심 AX AIDC 대응 프로젝트 메가 피지컬AI 전략 산업"
-    ],
-    [
-     "2026-07-27T14:10:30.119200+09:00",
-     "낙폭 장중 만회하며 SK하이닉스 178만2천원 상승 회복"
-    ],
-    [
-     "2026-07-27T14:15:25.417150+09:00",
-     "3위 로열파크씨티 하이엔드 브랜드평판 기록 주거 7월 DK아시아"
-    ],
-    [
      "2026-07-27T14:20:26.298468+09:00",
      "폭등 것이 왔다 5배 이상 첫날부터"
     ],
@@ -1286,14 +1266,17 @@
     [
      "2026-07-27T20:05:21.710912+09:00",
      "근황 워터밤 무대 전한 DJ존에서 여름 슬리피"
+    ],
+    [
+     "2026-07-27T20:15:26.360009+09:00",
+     "본궤도 닉스 클러스터 반도체 실무협의 속도 삼전 800조"
+    ],
+    [
+     "2026-07-27T20:15:26.360009+09:00",
+     "돌파 주주환원 비용 순이익 통제 확대 2분기 1조원 증권가 우리금융"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10821048",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=787218",
-    "https://www.khan.co.kr/article/202607270955018",
-    "https://www.koreajoongangdaily.com/korea/survey-names-sk-hynix-as-most-desired-employer-for-korean-college-students-in-2026/12792280",
-    "http://www.iminju.net/news/articleView.html?idxno=167124",
     "https://sports.khan.co.kr/article/202607271000003?pt=nv",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=51702",
     "https://www.segye.com/newsView/20260727504552?OutUrl=naver",
@@ -2788,14 +2771,14 @@
     "https://www.hankyung.com/article/2026072789871",
     "https://www.topstarnews.net/news/articleView.html?idxno=16147142",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208543",
-    "http://www.newstomato.com/ReadNews.aspx?no=1308414&inflow=N"
+    "http://www.newstomato.com/ReadNews.aspx?no=1308414&inflow=N",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1532000",
+    "http://www.kjdaily.com/article.php?aid=1785150124683241002",
+    "https://www.yna.co.kr/view/AKR20260727160600017?input=1195m",
+    "http://www.kwangju.co.kr/article.php?aid=1785150600801655277",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=356583"
    ],
    "seen_titles": [
-    "코스피,6800선출발후상승폭축소…반도체실적·FOMC앞두고관망[...",
-    "[여론조사]이재명대통령지지율46.3%…ETF·부동산논란등에2주연속...",
-    "플레이31,친환경CSR콘텐츠기반기업ESG캠페인협업확대",
-    "SurveynamesSKhynixasmostdesiredemployerforKoreancollegestude",
-    "李대통령,미국서AI·반도체중심경제외교…브라질일정시작",
     "SKT,‘모두의프롬프트’공모전개최",
     "이재용-샘올트먼회당…AX와파운드리활로기대",
     "개인9000억원‘사자’에코스피6710선안착…엔비디아품는네이버9...",
@@ -4290,10 +4273,15 @@
     "몰락이냐'제2한강의기적'이냐…한국에경고쏟아졌다",
     "슬리피,워터밤무대뒤DJ존에서전한여름근황",
     "엔비디아,네이버3대주주된다…'깐부회동'실적속속발표",
-    "SKT,엔비디아주도'오픈시큐어AI얼라이언스'창립멤버합류"
+    "SKT,엔비디아주도'오픈시큐어AI얼라이언스'창립멤버합류",
+    "[비즈투데이]SK하이닉스,일하고싶은기업2년연속1위",
+    "삼성·SK,800조반도체클러스터‘잰걸음’",
+    "엔비디아,글로벌AI보안연합체출범…네이버·SKT참여",
+    "800조반도체클러스터본궤도…삼전·닉스실무협의속도",
+    "우리금융,2분기순이익1조원돌파…증권가\"비용통제·주주환원확대..."
    ],
    "initialized": true,
-   "last_run": "2026-07-27T20:10:25.522659+09:00"
+   "last_run": "2026-07-27T20:15:26.360009+09:00"
   }
  },
  "press_names": {
