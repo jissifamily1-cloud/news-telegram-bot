@@ -1238,15 +1238,21 @@
     [
      "2026-07-27T20:30:37.704079+09:00",
      "SK하닉 사실상 키옥시아 2대주주 변수는 의결권 경쟁사"
+    ],
+    [
+     "2026-07-27T20:35:21.928461+09:00",
+     "후보지 SK하이닉스 강남권 서울 검토 물색 사옥"
+    ],
+    [
+     "2026-07-27T20:35:21.928461+09:00",
+     "1억 현금 국장 굴릴"
+    ],
+    [
+     "2026-07-27T20:35:21.928461+09:00",
+     "일반 홈쇼핑 온라인몰 건기식인줄 음료 샀는데 규제 알고"
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/economy/2347214.htm",
-    "https://www.fntimes.com/html/view.php?ud=202607270959538312048b718333_18",
-    "https://www.yna.co.kr/view/AKR20260727047200017?input=1195m",
-    "https://www.cnbnews.com/news/articleView.html?idxno=1009239",
-    "https://www.joongangenews.com/news/articleView.html?idxno=535532",
-    "https://www.etnews.com/20260727000107",
     "https://www.nocutnews.co.kr/news/6553542",
     "https://www.asiaa.co.kr/news/articleView.html?idxno=256438",
     "https://www.ekn.kr/web/view.php?key=20260727028426318",
@@ -2740,15 +2746,15 @@
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1532011",
     "https://www.dailian.co.kr/news/view/1671470/?sc=Naver",
     "https://www.newstnt.com/news/articleView.html?idxno=711813",
-    "https://www.newsis.com/view/NISX20260727_0003725417"
+    "https://www.newsis.com/view/NISX20260727_0003725417",
+    "http://www.kwangju.co.kr/article.php?aid=1785151800801657005",
+    "https://www.dailian.co.kr/news/view/1671480/?sc=Naver",
+    "https://www.newspim.com/news/view/20260727001350",
+    "http://www.inews24.com/view/1989239",
+    "https://www.seoul.co.kr/news/economy/finance/2026/07/28/20260728030001?wlog_tag3=naver",
+    "https://www.swtvnews.com/news/newsview.php?ncode=1065600994370901"
    ],
    "seen_titles": [
-    "\"SK하이닉스,'대학생이가장일하고싶은기업'2년연속선정\"",
-    "일신건영'이천휴먼빌클래스원'27일특별공급…28일1순위청약",
-    "[테크스냅]SKT,AI프롬프트공유공모전'모두의프롬프트'개최",
-    "SK텔레콤,고객참여형AI프롬프트공모전개최···'굿체인지'캠페...",
-    "SK하이닉스주가,7월27일장중1,798,000원2.22%상승",
-    "SK이노베이션E&S,호주서초경질유30만배럴도입",
     "11번가,삼성'갤럭시Z시리즈'신제품사전판매라이브방송",
     "\"중동리스크뚫었다\"SK이노E&S,호주바로사가스전서초경질유·LNG...",
     "코스피강보합·코스닥강세…반도체주혼조세[개장시황]",
@@ -4242,10 +4248,16 @@
     "이대통령,브라질도착…\"유류세인하유지\"",
     "中‘반도체첨병’창신메모리화려한데뷔...상장하자마자‘中시총...",
     "[공시]에이비온·유진테크놀로지·소프트센우'투자주의'등...37건",
-    "SK하닉,'경쟁사'日키옥시아사실상2대주주…최대변수는'의결권'"
+    "SK하닉,'경쟁사'日키옥시아사실상2대주주…최대변수는'의결권'",
+    "반도체,호남만챙긴다고?…97%가수도권·충청권생산",
+    "SKT,고객참여형AX확산…‘모두의프롬프트’공모전",
+    "엔비디아,AI보안연합출범…네이버·SK텔레콤도합류",
+    "SK하이닉스,서울사옥검토…강남권후보지물색",
+    "“1억굴릴땐국장25%,현금10%”",
+    "“건기식인줄알고샀는데일반음료?”··홈쇼핑온라인몰,‘규제사..."
    ],
    "initialized": true,
-   "last_run": "2026-07-27T20:30:37.704079+09:00"
+   "last_run": "2026-07-27T20:35:21.928461+09:00"
   }
  },
  "press_names": {
