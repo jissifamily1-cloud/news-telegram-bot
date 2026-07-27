@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T12:45:25.321733+09:00",
-     "LG도 승부처는 아닌 충전기 소프트웨어 철수한 전기차 충전시장"
-    ],
-    [
      "2026-07-27T12:55:21.479558+09:00",
      "국민 대토론회 부동산 샌프란서 협력"
     ],
@@ -1370,15 +1366,17 @@
     [
      "2026-07-27T18:35:24.321858+09:00",
      "기업 만들어야 부산판 유니콘 막으려면 청년유출"
+    ],
+    [
+     "2026-07-27T18:45:27.395472+09:00",
+     "정치 윤석열은 그랬나 샌프란 이미지 깐부회동"
+    ],
+    [
+     "2026-07-27T18:45:27.395472+09:00",
+     "인상 무게 신호 매파적 쏠린 동결 시선"
     ]
    ],
    "seen_urls": [
-    "https://imnews.imbc.com/news/2026/econo/article/6840276_36932.html",
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/27/2026072700050.html",
-    "http://www.lawissue.co.kr/view.php?ud=202607270940572812204ead0791_12",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471716",
-    "https://www.newsis.com/view/NISX20260727_0003724182",
-    "https://www.ytn.co.kr/_ln/0102_202607270941193769",
     "https://www.youthdaily.co.kr/news/article.html?no=223785",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5208362",
     "https://news.tf.co.kr/read/economy/2347185.htm",
@@ -2872,15 +2870,15 @@
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260728.22017004238",
     "https://www.tokenpost.kr/news/market/381679",
     "https://www.etoday.co.kr/news/view/2607991",
-    "https://biz.chosun.com/it-science/ict/2026/07/27/PX3HHXB7I5HQPN3JV55663HZOY/"
+    "https://biz.chosun.com/it-science/ict/2026/07/27/PX3HHXB7I5HQPN3JV55663HZOY/",
+    "https://www.mk.co.kr/article/12108729",
+    "https://biz.heraldcorp.com/article/10821553",
+    "https://www.newsis.com/view/NISX20260727_0003725404",
+    "http://www.segyebiz.com/newsView/20260727516203?OutUrl=naver",
+    "https://news.jtbc.co.kr/article/NB12310375?influxDiv=NAVER",
+    "https://www.seoulfn.com/news/articleView.html?idxno=634214"
    ],
    "seen_titles": [
-    "SK이노E&S,민간기업첫호주초경질유30만배럴도입",
-    "코스피,美선물강세에6700선반등…삼전·하닉소폭상승",
-    "11번가,갤럭시Z시리즈사전판매시작…라이브방송23회운영",
-    "코스피,장초반반등해6700선회복...삼성전자반등시도",
-    "이대통령\"韓AI혁명최첨단에…'샌프란AI선언'대체불가선도자국가...",
-    "'한-미AI협력'에코스피·코스닥상승출발",
     "7개월난항종지부찍나…SK,딜레마빠진SK실트론매각논의",
     "거액성과급기대감때문?...\"가장일하고싶은기업1위하닉·2위삼전...",
     "코스피,급락딛고6700선보합…'엔비디아동맹'네이버급등",
@@ -4374,10 +4372,16 @@
     "“청년유출막으려면부산판유니콘기업만들어야”",
     "코스피,반도체주도속6,700선강보합마감",
     "주형철경기초대경제부지사\"반도체초격차·산업AI전환이끌겠다\"",
-    "이재용·최태원,샌프란시스코이어시칠리아동행…‘구글캠프’참..."
+    "이재용·최태원,샌프란시스코이어시칠리아동행…‘구글캠프’참...",
+    "AI빅테크총출동?…이재용·최태원,시칠리아서다시만난다",
+    "“오늘2배,내일1.2배”레버리지ETF배수가매일바뀐다?…‘삼전닉...",
+    "주형철,민선9기경기도초대경제부지사취임",
+    "이재용-최태원,미국이어이탈리아동행…‘구글캠프’참석할듯",
+    "[맞수토론]'샌프란깐부회동'이미지정치?\"윤석열은안그랬나..\"",
+    "[미리보는FOMC]'매파적동결'무게···'인상신호'에쏠린시선"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T18:40:27.401912+09:00"
+   "last_run": "2026-07-27T18:45:27.395472+09:00"
   }
  },
  "press_names": {
