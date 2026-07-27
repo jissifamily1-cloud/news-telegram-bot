@@ -534,15 +534,29 @@
     [
      "2026-07-28T08:05:19.351408+09:00",
      "냉각 본격화 삼성 사업 투자 호남 오텍 데이터센터"
+    ],
+    [
+     "2026-07-28T08:10:27.665172+09:00",
+     "드론산업 반도체와 경제 경고음 급부상 중국 폭염"
+    ],
+    [
+     "2026-07-28T08:10:27.665172+09:00",
+     "먼저 통신3사 누가 잡나 고객 3색 전략"
+    ],
+    [
+     "2026-07-28T08:10:27.665172+09:00",
+     "현장 군공항 삼성 광주 점검"
+    ],
+    [
+     "2026-07-28T08:10:27.665172+09:00",
+     "SK하이닉스 앞두고 반도체주 실적 흔들리자 코스피"
+    ],
+    [
+     "2026-07-28T08:10:27.665172+09:00",
+     "파크시스템스 35만원 기술 목표가 패권 경쟁 수혜"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/it-science/mobile/6239842",
-    "https://www.dailian.co.kr/news/view/1671199/?sc=Naver",
-    "https://www.livebiz.today/news/articleView.html?idxno=203613",
-    "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307169",
-    "https://www.esgeconomy.com/news/articleView.html?idxno=16168",
-    "https://biz.sbs.co.kr/article_hub/20000324803?division=NAVER",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02961846645518784",
     "https://www.spotvnews.co.kr/news/articleView.html?idxno=830815",
     "https://www.slist.kr/news/articleView.html?idxno=754475",
@@ -2036,15 +2050,15 @@
     "https://kids.donga.com/news/articleView.html?idxno=169463",
     "https://www.bloter.net/news/articleView.html?idxno=669084",
     "https://www.yna.co.kr/view/AKR20260728014100011?input=1195m",
-    "https://www.newspim.com/news/view/20260728000037"
+    "https://www.newspim.com/news/view/20260728000037",
+    "https://www.newspim.com/news/view/20260728000043",
+    "http://kor.theasian.asia/archives/410839",
+    "https://news.dealsitetv.com/articles/173700",
+    "https://mpmbc.co.kr/NewsArticle/1529422",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=62082",
+    "https://www.etoday.co.kr/news/view/2608057"
    ],
    "seen_titles": [
-    "\"갤럭시Z8사전판매과장광고주의\"…방통위,불완전판매점검당부",
-    "'보안'강조한박윤영첫시험대…KT과징금2000억갈까",
-    "\"AI가일자리없앤다\"는우려는기우…미국·한국기업다시채용",
-    "제조국서AI심장부로···K반도체,'1390조패권시대'열었다",
-    "NH투자증권,반기어닝서프라이즈...순익9651억원'역대최고'",
-    "이시각주요뉴스",
     "알파벳,상장22년만에첫잉여현금적자…AI공포확산",
     "'전희철딸'전수완,198cm父닮은美친비율…미스코리아미모인증",
     "CXMT상장에반도체株흔들…코스피장중하락전환해6,600선",
@@ -3538,10 +3552,16 @@
     "'샌프란시스코AI선언'으로메모리반도체산업약점극복!",
     "[하이닉스렌즈로본SK]①SK실트론매각지연…쏠리는눈",
     "[전국주요신문사설](28일조간)",
-    "[모닝리포트]\"오텍,AI데이터센터냉각사업본격화…삼성호남투자..."
+    "[모닝리포트]\"오텍,AI데이터센터냉각사업본격화…삼성호남투자...",
+    "[모닝리포트]\"미반도체약세에국내증시하락출발예상\"",
+    "[오늘의신문]폭염속경제경고음…중국반도체와드론산업급부상",
+    "[통신사AIDC투자]'누가먼저고객잡나'…통신3사전략3색",
+    "SK·삼성,광주군공항첫현장점검",
+    "[증시전망대]美반도체주흔들리자…코스피,SK하이닉스실적앞두고...",
+    "SK證\"파크시스템스,기술패권경쟁수혜…목표가35만원↑\""
    ],
    "initialized": true,
-   "last_run": "2026-07-28T08:05:19.351408+09:00"
+   "last_run": "2026-07-28T08:10:27.665172+09:00"
   }
  },
  "press_names": {
