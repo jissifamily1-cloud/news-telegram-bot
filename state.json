@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T06:55:20.944439+09:00",
-     "K반도체 파운드리까지 잡았다 빅테크가 HBM부터"
-    ],
-    [
-     "2026-07-27T06:55:20.944439+09:00",
-     "배경훈 젠슨 어렵다 공무원이라 제안 웃음 황의"
-    ],
-    [
-     "2026-07-27T06:55:20.944439+09:00",
-     "정유사들 덜어준 걱정 일희일비 정제마진에"
-    ],
-    [
-     "2026-07-27T06:55:20.944439+09:00",
-     "영국 발표 성장률 주목 물가 금리"
-    ],
-    [
      "2026-07-27T07:00:41.045588+09:00",
      "서비스 건설사 브랜드만으론 부족 주거 승부수 입지"
     ],
@@ -1302,14 +1286,13 @@
     [
      "2026-07-27T12:45:25.321733+09:00",
      "LG도 승부처는 아닌 충전기 소프트웨어 철수한 전기차 충전시장"
+    ],
+    [
+     "2026-07-27T12:55:21.479558+09:00",
+     "국민 대토론회 부동산 샌프란서 협력"
     ]
    ],
    "seen_urls": [
-    "https://news.mtn.co.kr/news-detail/2026072615082157943",
-    "https://www.kado.net/news/articleView.html?idxno=2063108",
-    "https://www.hankyung.com/article/2026072664017",
-    "https://view.asiae.co.kr/article/2026072615381910057",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1717813",
     "https://www.asiatime.co.kr/article/20260726500063",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008675254&plink=ORI&cooper=NAVER",
     "http://www.inews24.com/view/1988837",
@@ -2804,14 +2787,14 @@
     "https://www.newstnt.com/news/articleView.html?idxno=711701",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607270135&t=NN",
     "http://www.impacton.net/news/articleView.html?idxno=19720",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=725035"
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=725035",
+    "http://www.e-platform.net/news/articleView.html?idxno=104149",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4427033",
+    "http://www.sisacast.kr/news/articleView.html?idxno=98149",
+    "https://news.jtbc.co.kr/article/NB12310330?influxDiv=NAVER",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260727124922gX1"
    ],
    "seen_titles": [
-    "이재용·샘올트먼,오픈AI본사서회동…AI인프라협력확대",
-    "삼성이재용,오픈AI샘올트먼과AI·반도체협력논의",
-    "이재용,오픈AI본사서샘올트먼만나…AI·반도체협력주목",
-    "[마켓ING]코스피,FOMC·실적소화하며7000선회복시도",
-    "\"월요일하닉간다\"…증권가'역대급실적'한목소리",
     "[힘내라K산업]⑤미래산업강화하는두산…전력·피지컬AI‘새엔진’...",
     "[자막뉴스]증시난장판속에웃는곳따로있다…5대금융,상반기순익...",
     "레버리지ETF'폭풍매수'개미들…규제코앞",
@@ -4306,10 +4289,15 @@
     "[특징주]솔루스첨단소재,목표가낮춘증권가…\"동박수급병목·판가...",
     "주가널뛰는데…레버리지ETF9개'출격대기'",
     "SK·LG도철수한전기차충전시장…승부처는'충전기'아닌소프트웨어",
-    "[기자수첩]메모리호황,중국성장에대비해야"
+    "[기자수첩]메모리호황,중국성장에대비해야",
+    "SK이노베이션,시민과함께농어촌아동책기부캠페인전개",
+    "中창신,상장계기로韓·美반도체얼마나위협할까",
+    "SK,엔비디아·MS·앤트로픽과AI인프라협력확대…국내데이터센터구...",
+    "\"7000넘으면판다\"나만?외국인줄줄이...'로테이션'안나타나는이유",
+    "[경제읽기]샌프란서'AI협력'…부동산국민대토론회"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T12:50:25.153212+09:00"
+   "last_run": "2026-07-27T12:55:21.479558+09:00"
   }
  },
  "press_names": {
