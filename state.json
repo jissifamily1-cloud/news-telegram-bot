@@ -4,30 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-28T00:05:30.389300+09:00",
-     "현대차 미래차 청년 프로그램 시동 인재육성"
-    ],
-    [
-     "2026-07-28T00:05:30.389300+09:00",
-     "개인사 딛고 나선 나아가야 대도약 미래로"
-    ],
-    [
-     "2026-07-28T00:05:30.389300+09:00",
-     "시작 지원금 사전예약 과도한 조심 갤Z8"
-    ],
-    [
-     "2026-07-28T00:05:30.389300+09:00",
-     "2차전 흐름 반도체 바이오 업종별 주력 강세속 엇갈린"
-    ],
-    [
-     "2026-07-28T00:05:30.389300+09:00",
-     "구원투수 코스피 무너진 150조 7000선 삼성 등판할까 실적"
-    ],
-    [
-     "2026-07-28T00:10:31.001699+09:00",
-     "지금이 승부 패권 골든타임이다"
-    ],
-    [
      "2026-07-28T00:15:24.659120+09:00",
      "규제 빠진 개혁 반도체 프리 AI선언 도약"
     ],
@@ -346,13 +322,17 @@
     [
      "2026-07-28T06:05:27.425102+09:00",
      "하반기 실적 정유4사 정제마진 강세에 먹구름 2분기 맑음"
+    ],
+    [
+     "2026-07-28T06:10:33.140140+09:00",
+     "이하 성적표 보수에 액티브 코스닥 기대 ETF"
+    ],
+    [
+     "2026-07-28T06:10:33.140140+09:00",
+     "AI에 초우량 SK텔레콤 신용도 AAA fn마켓워치 5조 투입하는 지킬까"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=273630",
-    "https://www.newsis.com/view/NISX20260727_0003724311",
-    "https://www.m-i.kr/news/articleView.html?idxno=1395475",
-    "https://www.ngetnews.com/news/articleView.html?idxno=551849",
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=431740",
     "https://www.mk.co.kr/article/12108160",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471771",
@@ -1848,13 +1828,13 @@
     "https://en.yna.co.kr/view/AEN20260727009200320?input=2106m",
     "https://www.bloter.net/news/articleView.html?idxno=669086",
     "https://www.newsis.com/view/NISX20260727_0003725279",
-    "https://www.sidae.com/article/2026072714524082808"
+    "https://www.sidae.com/article/2026072714524082808",
+    "https://www.sedaily.com/article/20072563",
+    "http://www.beyondpost.co.kr/view.php?ud=2026072805591959772aaae0046f_30",
+    "https://www.kukinews.com/article/view/kuk202607270213",
+    "http://www.fnnews.com/news/202607272023201721"
    ],
    "seen_titles": [
-    "CheyTae-wonUnveils$500BillionAIAlliance",
-    "'AI서밋'에도미끄러진삼전닉스…오히려기회?",
-    "SK이노베이션,시민과함께농어촌아동에책선물",
-    "7개월끈SK실트론매각…이사회서향방가를까",
     "울산,서울잡고반등…K리그1상위권경쟁'안갯속'",
     "국민연금‘매도폭탄’없었다…SK하닉사고삼전팔아",
     "SK이노베이션,농어촌아동위한'어린이책Dream프로젝트'진행",
@@ -3350,10 +3330,14 @@
     "Consumersentimentrisesfor3rdmonthinJulyonstrongexports,inves",
     "[박종면칼럼]삼전닉스성과급,현금이냐주식이냐",
     "\"이번엔韓홀대없다\"…오픈AI첫'AI기기',한국서먼저써보나",
-    "정제마진강세에정유4사실적2분기'맑음'…하반기'먹구름'"
+    "정제마진강세에정유4사실적2분기'맑음'…하반기'먹구름'",
+    "엔비디아,오픈AI지급보증에5%↓...애플,15개월만에시총1위[데일...",
+    "엔비디아5%,SK하이닉스ADR7.47%급락...반도체주,일제히약세",
+    "이보수에이성적표?…코스닥액티브ETF‘기대이하’",
+    "AI에1.5조투입하는SK텔레콤…'AAA'초우량신용도지킬까[fn마켓워치..."
    ],
    "initialized": true,
-   "last_run": "2026-07-28T06:05:27.425102+09:00"
+   "last_run": "2026-07-28T06:10:33.140140+09:00"
   }
  },
  "press_names": {
