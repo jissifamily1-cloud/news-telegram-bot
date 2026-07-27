@@ -334,10 +334,13 @@
     [
      "2026-07-28T00:40:25.988937+09:00",
      "일본도 맞았던 피하려면"
+    ],
+    [
+     "2026-07-28T00:45:26.909136+09:00",
+     "협력 7500억달러 SK하이닉스 부각에 메모리 엔비디아 강세"
     ]
    ],
    "seen_urls": [
-    "https://www.pointe.co.kr/news/articleView.html?idxno=82329",
     "http://www.datanews.co.kr/news/article.html?no=145754",
     "https://en.yna.co.kr/view/AEN20260727002552315?input=2106m",
     "http://www.econonews.co.kr/news/articleView.html?idxno=441861",
@@ -1836,10 +1839,10 @@
     "https://www.donga.com/news/Economy/article/all/20260727/134374735/2",
     "https://www.donga.com/news/Economy/article/all/20260727/134374704/2",
     "https://news.tf.co.kr/read/economy/2347433.htm",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1785115752&code=11171358&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=1785115752&code=11171358&cp=nv",
+    "https://www.tokenpost.kr/news/economy/381838"
    ],
    "seen_titles": [
-    "SK이노베이션,농어촌아동에도서기부...'2026어린이책Dream프로젝...",
     "SK이노베이션E&S,호주서30만배럴초경질유들여온다",
     "(2ndLD)Leeordersretentionofoilpricecapsuntilpriceuncertainty",
     "국제유가급락에신재생에너지株약세…SK이터닉스24%↓",
@@ -3338,10 +3341,11 @@
     "이재용-최태원,伊시칠리아‘구글캠프’간다",
     "본주보다비싼SK하닉ADR…내일부터상호전환가능",
     "홍콩ELS사태잊었나…국장폭락에고위험ELS쳐다보는개미들",
-    "[돋을새김]‘일본도맞았던일’피하려면"
+    "[돋을새김]‘일본도맞았던일’피하려면",
+    "[특징주]SK하이닉스,엔비디아7500억달러AI·메모리협력부각에강세"
    ],
    "initialized": true,
-   "last_run": "2026-07-28T00:40:25.988937+09:00"
+   "last_run": "2026-07-28T00:45:26.909136+09:00"
   }
  },
  "press_names": {
