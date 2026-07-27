@@ -202,16 +202,29 @@
     [
      "2026-07-28T04:25:21.162772+09:00",
      "수입차 이젠 제치고 망설이던 대세 1위 독일 중국차"
+    ],
+    [
+     "2026-07-28T04:35:26.981009+09:00",
+     "틈타 실탄 CXMT 수급난 추격 14조원 확보한 메모리"
+    ],
+    [
+     "2026-07-28T04:35:26.981009+09:00",
+     "홀짝판 2배 43회 강제청산 8조 레버리지에 멈추고 증시"
+    ],
+    [
+     "2026-07-28T04:35:26.981009+09:00",
+     "하루 평균 거래액 질식하는 코스닥"
+    ],
+    [
+     "2026-07-28T04:35:26.981009+09:00",
+     "헤드라인 28일 오프라인 머니투데이"
+    ],
+    [
+     "2026-07-28T04:35:26.981009+09:00",
+     "신분당선 SKB 방송국 규명 공사 나선다 반복 원인 침수"
     ]
    ],
    "seen_urls": [
-    "http://www.weeklytoday.com/news/articleView.html?idxno=787212",
-    "https://www.hankyung.com/article/202607277572O",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=02771606645518784",
-    "https://www.news1.kr/industry/general-industry/6239881",
-    "https://www.cnbnews.com/news/articleView.html?idxno=1009252",
-    "http://www.newslock.co.kr/news/articleView.html?idxno=133482",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426995",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=87179",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=83690",
     "http://topclass.chosun.com/news/articleView.html?idxno=36579",
@@ -1704,16 +1717,16 @@
     "https://www.mt.co.kr/industry/2026/07/28/2026072720041662660",
     "https://www.ggilbo.com/news/articleView.html?idxno=1171158",
     "https://www.thescoop.co.kr/news/articleView.html?idxno=311049",
-    "https://biz.sbs.co.kr/article_hub/20000324950?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000324950?division=NAVER",
+    "https://www.donga.com/news/Economy/article/all/20260728/134375547/2",
+    "https://www.g-enews.com/view.php?ud=2026072718483952602bd56fbc3c_1",
+    "https://www.donga.com/news/Economy/article/all/20260728/134375550/2",
+    "https://www.donga.com/news/Economy/article/all/20260728/134375949/2",
+    "https://www.donga.com/news/Economy/article/all/20260728/134375947/2",
+    "https://www.mt.co.kr/industry/2026/07/28/2026072722325986156",
+    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701278"
    ],
    "seen_titles": [
-    "[위클리오늘]코스피6800선상승출발···환율1450원대",
-    "DK아시아,한국기업평판연구소7월시행사브랜드평판조사1위",
-    "창신메모리,중국증시상장하자마자대박…450%대폭등",
-    "SK이노,농어촌아동대상'책기부프로젝트'나선다",
-    "SK이노베이션E&S,호주초경질유도입···중동의존↓",
-    "SK이노베이션E&S,호주산초경질유최초반입...자원안보박차",
-    "\"SK하이닉스ADR,韓보다비싸게거래…발생해서는안될현상\"",
     "\"반도체몸값올랐다\"…대학생취업선호도,SK하이닉스2년째1위",
     "상승출발한코스피,외국인1조'팔자'에하락전환…코스닥은2%대강...",
     "코스피7000의벽,언제뚫릴까/“금융위기급상황을제외하면단기간...",
@@ -3206,10 +3219,17 @@
     "땅에묻어도묻히지않는전력망갈등…주민설득이최대과제",
     "15GW향한SK의승부수,'SK하이퍼'설립...7500억투자",
     "망설이던중국차,이젠대세?...독일제치고수입차1위",
-    "\"키옥시아레버리지ETF美상장대기\"...‘개미지옥’코스피보고도?"
+    "\"키옥시아레버리지ETF美상장대기\"...‘개미지옥’코스피보고도?",
+    "엔비디아,네이버3대주주오른다…한미‘AI생태계동맹’결속력...",
+    "엔비디아10억달러투자설대두…네이버AI인프라재편명암",
+    "14조원실탄확보한中CXMT…메모리수급난틈타韓추격",
+    "2배레버리지에‘홀짝판’된증시…43회멈추고1.8조강제청산",
+    "하루평균거래액40%뚝…질식하는코스닥",
+    "머니투데이오프라인헤드라인-28일",
+    "신분당선공사뒤SKB방송국반복침수…원인규명나선다"
    ],
    "initialized": true,
-   "last_run": "2026-07-28T04:30:39.661977+09:00"
+   "last_run": "2026-07-28T04:35:26.981009+09:00"
   }
  },
  "press_names": {
