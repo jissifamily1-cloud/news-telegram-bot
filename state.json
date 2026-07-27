@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-28T00:40:25.988937+09:00",
-     "일본도 맞았던 피하려면"
-    ],
-    [
      "2026-07-28T00:45:26.909136+09:00",
      "협력 7500억달러 SK하이닉스 부각에 메모리 엔비디아 강세"
     ],
@@ -338,15 +334,21 @@
     [
      "2026-07-28T06:40:25.449034+09:00",
      "최태원 캠프 시칠리아 이재용 구글 샌프란시스코 서밋 찍고"
+    ],
+    [
+     "2026-07-28T06:44:15.280067+09:00",
+     "대고 고객사에 투자 판다 논란 순환 엔비디아 재점화"
+    ],
+    [
+     "2026-07-28T06:44:15.280067+09:00",
+     "영업이익 27일 거래일 코스피 코스닥 주요공시는 2분기 에스티팜"
+    ],
+    [
+     "2026-07-28T06:44:15.280067+09:00",
+     "몰려간 내는데 서학개미 ADR로 세금 SK하이닉스"
     ]
    ],
    "seen_urls": [
-    "http://www.globalepic.co.kr/view.php?ud=20260727110224986748439a4874_29",
-    "https://www.koreaittimes.com/news/articleView.html?idxno=155505",
-    "https://www.mk.co.kr/article/12108169",
-    "http://www.bizwnews.com/news/articleView.html?idxno=141572",
-    "https://www.ddaily.co.kr/page/view/2026072710265266903",
-    "https://biz.sbs.co.kr/article_hub/20000324738?division=NAVER",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620846",
     "http://www.joseilbo.com/news/news_read.php?uid=572671&class=32",
     "https://www.slist.kr/news/articleView.html?idxno=754464",
@@ -1840,15 +1842,15 @@
     "http://www.ftoday.co.kr/news/articleView.html?idxno=362638",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02397686645519112",
     "https://www.labortoday.co.kr/news/articleView.html?idxno=235927",
-    "https://www.greened.kr/news/articleView.html?idxno=346070"
+    "https://www.greened.kr/news/articleView.html?idxno=346070",
+    "https://www.bntnews.co.kr/article/view/bnt202607280011",
+    "https://www.lecturernews.com/news/articleView.html?idxno=207299",
+    "https://www.kizmom.com/news/articleView.html?idxno=111762",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1717994",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472010",
+    "https://view.asiae.co.kr/article/2026072715352630437"
    ],
    "seen_titles": [
-    "최태원회장,현금9440억어떻게마련할까",
-    "SK,글로벌AI동맹확대…엔비디아·빅테크와1085조규모'AI슈퍼프...",
-    "SamsungElectronics,SKhynixfallamidglobalchiprout",
-    "SK텔레콤,고객과함께'AI전환'실현한다…'모두의Promp.T'공모전개...",
-    "SK이노E&S,호주산초경질유첫도입…중동의존낮춘다",
-    "[증시타임]변동성커진증시…반도체·원화향방은?",
     "‘中반도체첨병’CXMT상하이증시상장…단숨에中본토시총1위",
     "이대통령,브라질에서'대수보'주재…\"샌프란시스코AI선언국가적출...",
     "창신메모리(CXMT),중국본토시총1위등극...공모가대비400%폭등",
@@ -3342,10 +3344,16 @@
     "은행계증권사순익두배뛰었지만…브로커리지웃고IB울었다",
     "\"토큰증권·스테이블코인유동성싸움…결국퍼블릭체인채택\"",
     "3대메가프로젝트의4대문제점",
-    "이재용·최태원,샌프란시스코'AI서밋'찍고시칠리아'구글캠프'동..."
+    "이재용·최태원,샌프란시스코'AI서밋'찍고시칠리아'구글캠프'동...",
+    "다우0.51%↑나스닥0.18%↓…반도체매도세에희비",
+    "유가급락에도미국뉴욕증시혼조…반도체주약세에다우존스·S&P500상...",
+    "엔비디아,AI보안연합체출범…네이버·SK텔레콤도창립멤버합류",
+    "엔비디아,고객사에돈대고칩판다...'순환투자'논란재점화",
+    "코스피·코스닥전거래일(27일)주요공시는?...에스티팜2분기영업이익...",
+    "SK하이닉스ADR로몰려간서학개미…세금더내는데왜?"
    ],
    "initialized": true,
-   "last_run": "2026-07-28T06:40:25.449034+09:00"
+   "last_run": "2026-07-28T06:44:15.280067+09:00"
   }
  },
  "press_names": {
