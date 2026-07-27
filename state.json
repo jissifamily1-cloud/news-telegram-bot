@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T15:10:27.416215+09:00",
-     "1조원 ESS 본입찰 배터리 본게임서 맞붙는다 9월 눈앞"
-    ],
-    [
-     "2026-07-27T15:10:27.416215+09:00",
-     "정부가 불확실성에 뒷걸음 띄운 정책 밸류업"
-    ],
-    [
      "2026-07-27T15:15:25.323503+09:00",
      "위원장 이홍근 경기도의회 대책 정담회 우만테크노밸리 침수피해"
     ],
@@ -1137,8 +1129,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607270051&t=NN",
-    "https://www.ddaily.co.kr/page/view/2026072709342980917",
     "http://www.fnnews.com/news/202607271002307002",
     "http://www.dailypop.kr/news/articleView.html?idxno=100910",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=313236",
@@ -2636,11 +2626,11 @@
     "https://www.polinews.co.kr/news/articleView.html?idxno=738227",
     "https://www.cnbnews.com/news/articleView.html?idxno=1009367",
     "https://biz.heraldcorp.com/article/10822023",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260727210238TDO"
+    "http://www.yonhapnewstv.co.kr/news/MYH20260727210238TDO",
+    "https://www.donga.com/news/Economy/article/all/20260727/134375247/1",
+    "http://www.tjb.co.kr/sub0301/bodo/view/id/101556"
    ],
    "seen_titles": [
-    "SK이노E&S,호주산초경질유첫도입…중동의존도낮춘다",
-    "SKT,고객참여형'굿체인지'확대…프롬프트공모전시행",
     "SK이노베이션,'2026어린이책Dream프로젝트'진행",
     "[맥락읽기]최태원의실리콘밸리하루,SK를'메모리기업'에서'AI인프...",
     "SK이노베이션\"책으로농어촌아이들꿈채운다\"",
@@ -4138,10 +4128,12 @@
     "[조자경의나비효과]'이별의감정가(鑑定價)'9440억…최태원·노소영...",
     "코스피0.97%반등...6755.75마감",
     "엔비디아·MS와어깨나란히…네이버·SKT,AI보안동맹합류",
-    "롤러코스피끝6,700선사수…코스닥2%강세"
+    "롤러코스피끝6,700선사수…코스닥2%강세",
+    "엔비디아AI보안연합출범…SK텔레콤·네이버참여",
+    "\"코리아AI와함께\"..젠슨황이카이스트콕집은이유"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T21:05:24.010317+09:00"
+   "last_run": "2026-07-27T21:10:28.338785+09:00"
   }
  },
  "press_names": {
