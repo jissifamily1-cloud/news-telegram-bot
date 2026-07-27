@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T21:55:20.023292+09:00",
-     "수사 검찰도 어렵고 기소 어려워 그렇지만 경찰도 김원이 믿기"
-    ],
-    [
-     "2026-07-27T21:55:20.023292+09:00",
-     "엔비디아 이런 투척 네이버에게 브룩필드까지 14조 날이"
-    ],
-    [
      "2026-07-27T22:05:24.552081+09:00",
      "115억달러 하이퍼리퀴드 최고치 찍었다 미결제약정 2026년"
     ],
@@ -186,10 +178,13 @@
     [
      "2026-07-28T03:35:24.300521+09:00",
      "중간배당 동아쏘시오홀딩스 4개월만에 47억원 배당잔치"
+    ],
+    [
+     "2026-07-28T03:55:24.284062+09:00",
+     "대통령발 넘어 대전환 HBM 국가 대한민국 선언 플랫폼 IR"
     ]
    ],
    "seen_urls": [
-    "https://www.nocutnews.co.kr/news/6553585",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02758486645518784",
     "https://www.news1.kr/world/international-economy/6239851",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471756",
@@ -1688,10 +1683,10 @@
     "http://www.joseilbo.com/news/news_read.php?uid=572717&class=32",
     "https://www.greened.kr/news/articleView.html?idxno=346068",
     "https://www.g-enews.com/view.php?ud=20260727180357900fbbec65dfb_1",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=51725"
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=51725",
+    "https://www.newsverse.kr/news/articleView.html?idxno=11027"
    ],
    "seen_titles": [
-    "SKT,고객과더나은변화만든다…일상·업무속AI경험공유",
     "김용범“ETF보완책효과기대…필요하면추가대책검토”",
     "日키옥시아레버리지ETF美상장행렬…韓반도체처럼변동성우려",
     "李브라질국빈방문에수출지도넓히는뷰티업계",
@@ -3190,10 +3185,11 @@
     "\"AI,한·브라질정상회담주요의제로부상\"…브라질전문가기고",
     "[뉴욕증시]유가7%급락에도반도체투매…나스닥장중0.63%↓",
     "중국CXMTD램프리미엄가격책정…글로벌3사가격추종",
-    "동아쏘시오홀딩스,4개월만에또배당잔치…47억원중간배당"
+    "동아쏘시오홀딩스,4개월만에또배당잔치…47억원중간배당",
+    "李대통령발'대한민국IR'...HBM넘어'플랫폼국가'대전환선언"
    ],
    "initialized": true,
-   "last_run": "2026-07-28T03:50:29.209552+09:00"
+   "last_run": "2026-07-28T03:55:24.284062+09:00"
   }
  },
  "press_names": {
