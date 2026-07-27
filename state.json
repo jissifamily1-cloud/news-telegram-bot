@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T22:50:27.127844+09:00",
-     "경고 커지는 1100조원 엔비디아 순환금융"
-    ],
-    [
      "2026-07-27T22:56:43.440097+09:00",
      "끌어들여야 스테이블코인 파생상품 제도권 원화 온체인"
     ],
@@ -226,10 +222,13 @@
     [
      "2026-07-28T04:45:31.981480+09:00",
      "직격 하이닉스 엔비디아 오픈AI 반도체 순환금융에"
+    ],
+    [
+     "2026-07-28T04:50:27.981177+09:00",
+     "코스피 키옥시아 개미 레버 지옥 보고도"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=273625",
     "https://cn.asiatoday.co.kr/view.php?key=20260727000950102",
     "http://www.thevaluenews.co.kr/news/view.php?idx=200308",
     "https://www.econovill.com/news/articleView.html?idxno=746265",
@@ -1728,10 +1727,10 @@
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701278",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01603926645519112",
     "https://www.news2day.co.kr/article/20260727500191",
-    "https://www.mediapen.com/news/view/1112544"
+    "https://www.mediapen.com/news/view/1112544",
+    "https://biz.sbs.co.kr/article_hub/20000324955?division=NAVER"
    ],
    "seen_titles": [
-    "KOSPIOpensHigherin6800RangeAmidDollarTradingatUpper1,450Won",
     "李在明发布《旧金山AI宣言》韩国迈向全球AI领导者的国家宣言",
     "[위클리ETF]7月5주차,‘PLUS태양광&ESS’수익률톱18.17%...신재생...",
     "[네이버&엔비디아빅샷⑤]광고로벌던네이버가조단위설비투자에...",
@@ -3230,10 +3229,11 @@
     "신분당선공사뒤SKB방송국반복침수…원인규명나선다",
     "오픈소스가이길까…키미K3가쏘아올린실리콘밸리의노선전쟁",
     "[하반기ETF설계도]신한자산운용“‘솔탑투’흥행잇는다…반도체...",
-    "[美증시특징주]반도체엔비디아오픈AI순환금융에직격…하이닉스·..."
+    "[美증시특징주]반도체엔비디아오픈AI순환금융에직격…하이닉스·...",
+    "[글로벌비즈브리핑]‘개미지옥’코스피보고도?...\"키옥시아레버..."
    ],
    "initialized": true,
-   "last_run": "2026-07-28T04:45:31.981480+09:00"
+   "last_run": "2026-07-28T04:50:27.981177+09:00"
   }
  },
  "press_names": {
