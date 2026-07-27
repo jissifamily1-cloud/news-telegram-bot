@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T13:20:25.403653+09:00",
-     "라이벌 송종호의 국정 샌프란선언 파워 물러들인"
-    ],
-    [
-     "2026-07-27T13:20:25.403653+09:00",
-     "상승 460원대 결제에 중반 저가"
-    ],
-    [
-     "2026-07-27T13:20:25.403653+09:00",
-     "주식 레임덕 경고등 정부 켜지나 부동산 균열 조기"
-    ],
-    [
      "2026-07-27T13:25:21.234738+09:00",
      "Naver for push Nvidia factory secures 1b backing"
     ],
@@ -1370,13 +1358,13 @@
     [
      "2026-07-27T19:15:25.093280+09:00",
      "means blockbuster What for titans Korea CXMT debut memory"
+    ],
+    [
+     "2026-07-27T19:20:27.749259+09:00",
+     "여성단체 화합 위한 소통 열려 이천시 체육대회"
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20260727504286?OutUrl=naver",
-    "https://www.ddaily.co.kr/page/view/2026072709355244672",
-    "http://www.fnnews.com/news/202607270925579766",
-    "https://www.dailian.co.kr/news/view/1671102/?sc=Naver",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471725",
     "https://www.news1.kr/it-science/security-hacking/6239625",
     "https://www.joongangenews.com/news/articleView.html?idxno=535523",
@@ -2872,13 +2860,13 @@
     "https://www.newsis.com/view/NISX20260727_0003725427",
     "https://news.jtbc.co.kr/article/NB12310399?influxDiv=NAVER",
     "https://www.sentv.co.kr/article/view/sentv202607270167",
-    "https://www.koreajoongangdaily.com/business/what-cxmts-blockbuster-debut-means-for-koreas-memory-titans/12793398"
+    "https://www.koreajoongangdaily.com/business/what-cxmts-blockbuster-debut-means-for-koreas-memory-titans/12793398",
+    "https://www.xportsnews.com/article/2176716",
+    "https://biz.sbs.co.kr/article_hub/20000324839?division=NAVER",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8621138",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3647715"
    ],
    "seen_titles": [
-    "李대통령“유가불안해소까지석유최고가격제·유류세인하유지”",
-    "코스피,1%반등한6760선…네이버10%↑",
-    "정점식\"李'샌프란선언'기업이용한이미지메이킹\"",
-    "SK이노베이션E&S,호주초경질유국내첫도입…연간110만배럴",
     "\"수도권5억대분양가\"…'이천휴먼빌클래스원'27일부터청약돌입",
     "SK쉴더스화이트해커,국제해킹방어대회'코드게이트'준우승",
     "SK스퀘어주가,7월27일장중1,082,000원2.43%하락",
@@ -4374,10 +4362,14 @@
     "[올댓차이나]홍콩증시,중동긴장완화에반등마감…H주1.14%↑",
     "이대통령,브라질대통령과정상회담…'희토류'논의할듯",
     "통신3사,갤럭시Z8사전예약돌입…온라인몰고객유치전",
-    "WhatCXMT'sblockbusterdebutmeansforKorea'smemorytitans"
+    "WhatCXMT'sblockbusterdebutmeansforKorea'smemorytitans",
+    "'승격찬스'화성FC,K리그특급골잡이품었다…수원서일류첸코영입...",
+    "[집중진단]레버리지열기꺾였나?…과열진정에코스피변동성잦아들...",
+    "삼성·SK하이닉스,반도체산단현지답사",
+    "이천시,여성단체화합·소통위한체육대회열려"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T19:15:25.093280+09:00"
+   "last_run": "2026-07-27T19:20:27.749259+09:00"
   }
  },
  "press_names": {
