@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-28T02:45:31.941439+09:00",
-     "유가 장중 투매 급락에도 나스닥 반도체"
-    ],
-    [
      "2026-07-28T03:30:40.497852+09:00",
      "CXMT 3사 글로벌 D램 프리미엄 추종 책정 중국 가격"
     ],
@@ -718,15 +714,25 @@
     [
      "2026-07-28T08:45:24.352827+09:00",
      "상반기 복귀할까 올해 영업익 흑자 1조 LGD 영업이익"
+    ],
+    [
+     "2026-07-28T08:50:25.063201+09:00",
+     "시장 투자 주목 양자컴퓨팅 월가도 열리나"
+    ],
+    [
+     "2026-07-28T08:50:25.063201+09:00",
+     "서밋 외교 실무방 수사 투자에 얹은 샌프란 정부 기업 없는"
+    ],
+    [
+     "2026-07-28T08:50:25.063201+09:00",
+     "2년 회사채 만에 최고 뭉칫돈 8개월 우량채만 금리"
+    ],
+    [
+     "2026-07-28T08:50:25.063201+09:00",
+     "급락 흔들리나 양산설에 ASML 중국 DUV 공급망"
     ]
    ],
    "seen_urls": [
-    "https://www.naeil.com/news/read/596650",
-    "https://www.etnews.com/20260727000258",
-    "http://www.yonhapnewstv.co.kr/news/MYH202607271301224ci",
-    "https://www.ntoday.co.kr/news/articleView.html?idxno=128399",
-    "https://www.fntimes.com/html/view.php?ud=2026072712405685997de3572ddd_18",
-    "http://www.iminju.net/news/articleView.html?idxno=167149",
     "https://www.polinews.co.kr/news/articleView.html?idxno=738106",
     "https://www.getnews.co.kr/news/articleView.html?idxno=876135",
     "https://www.khgames.co.kr/news/articleView.html?idxno=306713",
@@ -2220,15 +2226,15 @@
     "https://www.ngonews.kr/news/articleView.html?idxno=233933",
     "https://www.sentv.co.kr/article/view/sentv202607280002",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7176229",
-    "http://datanews.co.kr/news/article.html?no=145744"
+    "http://datanews.co.kr/news/article.html?no=145744",
+    "http://www.newsdream.kr/news/articleView.html?idxno=115169",
+    "https://sateconomy.co.kr/news/view/1065569906372657",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=168850",
+    "https://www.newdaily.co.kr/site/data/html/2026/07/27/2026072700311.html",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02896246645519112",
+    "https://www.tokenpost.kr/news/breaking/381975"
    ],
    "seen_titles": [
-    "\"7000넘으면판다\"나만?외국인줄줄이...'로테이션'안나타나는이유",
-    "[경제읽기]샌프란서'AI협력'…부동산국민대토론회",
-    "삼성전자·SK하이닉스,광주반도체부지실사착수…800조프로젝트속...",
-    "SK이노베이션E&S,호주산초경질유첫도입",
-    "SK이노,농어촌아동에책기부하는'어린이책Dream'진행",
-    "'1300조협력'훈풍속…'삼전닉스'실적주목",
     "[성기노의뉴스피처링]이재명의'샌프란AI선언',대한민국국운을걸...",
     "최태원,9440억재산분할금...SK하이닉스배당확대하나?",
     "AI·중국부상에달라진제조업지도…대만반도체수출2위로",
@@ -3722,10 +3728,16 @@
     "SKT,갤럭시Z폴더블8사전예약시작…넷플릭스연계혜택마련",
     "뉴욕증시혼조마감…나스닥0.18%하락",
     "통신3사,'갤럭시Z8시리즈'사전예약판매시작",
-    "LGD,상반기영업익흑자…올해영업이익‘1조’복귀할까"
+    "LGD,상반기영업익흑자…올해영업이익‘1조’복귀할까",
+    "\"대화면으로넷플릭스즐겨라\"…SKT,폴더블8출격에이색마케팅진행",
+    "이재용·최태원,美이어이탈리아로…글로벌빅테크CEO들과AI협력모...",
+    "양자컴퓨팅,투자시장열리나...월가도주목?",
+    "美정부없는'샌프란AI서밋'…기업투자에얹은외교수사['실무방...",
+    "[마켓인]회사채금리2년8개월만에최고…우량채만‘뭉칫돈’",
+    "중국DUV양산설에ASML급락…공급망흔들리나"
    ],
    "initialized": true,
-   "last_run": "2026-07-28T08:45:24.352827+09:00"
+   "last_run": "2026-07-28T08:50:25.063201+09:00"
   }
  },
  "press_names": {
