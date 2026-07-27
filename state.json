@@ -362,12 +362,17 @@
     [
      "2026-07-28T00:10:31.001699+09:00",
      "지금이 승부 패권 골든타임이다"
+    ],
+    [
+     "2026-07-28T00:15:24.659120+09:00",
+     "규제 빠진 개혁 반도체 프리 AI선언 도약"
+    ],
+    [
+     "2026-07-28T00:15:24.659120+09:00",
+     "SK이터닉스 급락 약세에 신재생에너지주 마감 주가 국제유가"
     ]
    ],
    "seen_urls": [
-    "https://www.sidae.com/article/2026072710252012125",
-    "https://biz.heraldcorp.com/article/10821157",
-    "https://news.tf.co.kr/read/economy/2347232.htm",
     "http://www.yonhapnewstv.co.kr/news/AKR20260727102805L1I",
     "https://www.mediapen.com/news/view/1112307",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=273624",
@@ -1864,12 +1869,12 @@
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=83331",
     "https://www.ziksir.com/news/articleView.html?idxno=141260",
     "https://www.joongangenews.com/news/articleView.html?idxno=535790",
-    "https://m.skyedaily.com/news_view.html?ID=308553"
+    "https://m.skyedaily.com/news_view.html?ID=308553",
+    "https://www.munhwa.com/article/11605362",
+    "https://www.chosun.com/opinion/editorial/2026/07/28/RGMFZCEVYNAH3BV4QYTPOXVR2A/",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=592218"
    ],
    "seen_titles": [
-    "[속보]6600선깨진코스피,659선등락…삼전닉스1%가량약세",
-    "SK하이닉스,2분기60조원대영업이익예상…상반기만100조번다",
-    "코스피41회·코스닥25회…사이드카66번울린롤러코스피,언제멈출까",
     "\"신태용자격정지1년…한국밖영향없다\"소속팀인도네시아페르시자...",
     "대형사부럽지않은실적…중견건설사,조단위수주잇는다",
     "[개장시황]코스피,6800대에서개장...원-달러환율은1,450대후반에...",
@@ -3366,10 +3371,13 @@
     "[증시프리즘]주력업종별엇갈린흐름…반도체·바이오강세속2차전...",
     "7000선무너진코스피···'150조실적'삼성·SK,구원투수등판할까",
     "엔비디아,네이버·SKT·MS·스페이스X등40개글로벌기업과AI보안동...",
-    "[권희춘의인공지능세상]AI패권승부,지금이골든타임이다"
+    "[권희춘의인공지능세상]AI패권승부,지금이골든타임이다",
+    "‘삼전·닉스흔들까’…CXMT상장하자마자시총1위,D램치킨게임긴장...",
+    "[사설]‘규제프리’中반도체도약,‘규제개혁’빠진韓AI선언",
+    "SK이터닉스,주가29%대급락마감…국제유가약세에신재생에너지주'..."
    ],
    "initialized": true,
-   "last_run": "2026-07-28T00:10:31.001699+09:00"
+   "last_run": "2026-07-28T00:15:24.659120+09:00"
   }
  },
  "press_names": {
