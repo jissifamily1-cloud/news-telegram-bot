@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T13:05:21.150718+09:00",
-     "하닉 420만원 증권가 55만원 반도체 조정은 삼전 매수 기회 간다"
-    ],
-    [
-     "2026-07-27T13:05:21.150718+09:00",
-     "기대 증권가 솔루스첨단소재 개선 목표가 실적 하향에도"
-    ],
-    [
      "2026-07-27T13:10:24.959382+09:00",
      "중동 주목 FOMC 전쟁 연준 흐름 국제유가"
     ],
@@ -1374,15 +1366,21 @@
     [
      "2026-07-27T18:55:23.520744+09:00",
      "참여 시큐어 오픈 SKT 얼라이언스 창립 멤버 엔비디아 주도"
+    ],
+    [
+     "2026-07-27T19:05:24.622679+09:00",
+     "빅3 자존심 데뷔 화려한 CXMT 글로벌 D램 넘보나"
+    ],
+    [
+     "2026-07-27T19:05:24.622679+09:00",
+     "300억 절실 미궁 비자금 노태우 독립몰수제 빠진"
+    ],
+    [
+     "2026-07-27T19:05:24.622679+09:00",
+     "코스닥 상승"
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1671091/?sc=Naver",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4426962",
-    "https://biz.heraldcorp.com/article/10821023",
-    "https://www.seoulfn.com/news/articleView.html?idxno=634164",
-    "https://www.news1.kr/finance/general-stock/6239716",
-    "https://www.itbiznews.com/news/articleView.html?idxno=220107",
     "https://news.dealsitetv.com/articles/173790",
     "https://www.etnews.com/20260727000081",
     "https://www.seoul.co.kr/news/economy/industry/2026/07/27/20260727500035?wlog_tag3=naver",
@@ -2876,15 +2874,15 @@
     "https://www.etnews.com/20260727000443",
     "https://www.xportsnews.com/article/2176676",
     "https://www.kukinews.com/article/view/kuk202607270207",
-    "https://www.segye.com/newsView/20260727516120?OutUrl=naver"
+    "https://www.segye.com/newsView/20260727516120?OutUrl=naver",
+    "https://www.etnews.com/20260727000451",
+    "https://www.news1.kr/it-science/cc-newmedia/6240671",
+    "https://www.dt.co.kr/article/12075065",
+    "https://www.segye.com/newsView/20260727514479?OutUrl=naver",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260727010009825",
+    "https://www.bigtanews.co.kr/article/view/big202607270014"
    ],
    "seen_titles": [
-    "李대통령\"유가불안해소될때까지석유최고가격제·유류세인하유지...",
-    "정점식\"李샌프란선언,대기업총수이용한이미지메이킹쇼\"",
-    "李대통령,美‘AI식구회동’뒤남미방산·광물경제외교가동",
-    "'실적시즌'코스피,장초반6800선회복시도",
-    "미·이란공습중단에강달러압력완화…달러·원1460원초반하락세",
-    "SKT\"스타트업과독파모활용범위확대\"",
     "SK이노베이션E&S,호주서첫경질유30만배럴도입",
     "11번가,갤럭시Z시리즈사전판매…라이브방송진행",
     "SK이노베이션E＆S,호주서초경질유첫도입…“중동의존낮춘다”",
@@ -4378,10 +4376,16 @@
     "SKT,엔비디아주도'오픈시큐어AI얼라이언스'창립멤버참여",
     "'2026KEL'경기농심레드포스,'펍지모바일'종목우승…'XZY'김준하...",
     "711조원몸값된‘中반도체’CXMT…삼전‧닉스추격속도",
-    "단일종목레버리지규제효과예상…삼전닉스대신코스닥으로갈까’..."
+    "단일종목레버리지규제효과예상…삼전닉스대신코스닥으로갈까’...",
+    "이재용·최태원,伊시칠리아구글캠프참석",
+    "SKT,엔비디아'오픈시큐어AI얼라이언스'창립파트너합류",
+    "[기획]中CXMT‘상장쇼크’…글로벌‘쩐전쟁’",
+    "‘中D램자존심’CXMT화려한데뷔…‘글로벌빅3’넘보나",
+    "[취재후일담]미궁빠진'노태우비자금300억'…독립몰수제절실",
+    "[증시오늘]코스닥2.22%상승"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T19:00:47.885133+09:00"
+   "last_run": "2026-07-27T19:05:24.622679+09:00"
   }
  },
  "press_names": {
