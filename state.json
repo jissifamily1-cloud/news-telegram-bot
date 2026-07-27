@@ -1373,9 +1373,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.smartbizn.com/news/articleView.html?idxno=149438",
-    "https://www.donga.com/news/Economy/article/all/20260727/134369519/1",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=02505926645518784",
     "https://imnews.imbc.com/news/2026/econo/article/6840276_36932.html",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/27/2026072700050.html",
     "http://www.lawissue.co.kr/view.php?ud=202607270940572812204ead0791_12",
@@ -2872,12 +2869,12 @@
     "https://www.seoul.co.kr/news/economy/2026/07/27/20260727500255?wlog_tag3=naver",
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029978",
     "https://biz.sbs.co.kr/article_hub/20000324914?division=NAVER",
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260728.22017004238"
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260728.22017004238",
+    "https://www.tokenpost.kr/news/market/381679",
+    "https://www.etoday.co.kr/news/view/2607991",
+    "https://biz.chosun.com/it-science/ict/2026/07/27/PX3HHXB7I5HQPN3JV55663HZOY/"
    ],
    "seen_titles": [
-    "SK하이닉스,AI반도체호황에대학생·구직자'1순위'",
-    "SK하이닉스,대학생이가장일하고싶은기업2년연속1위",
-    "\"외국인7000선서차익실현...순환매아직'제한적'\"",
     "SK이노E&S,민간기업첫호주초경질유30만배럴도입",
     "코스피,美선물강세에6700선반등…삼전·하닉소폭상승",
     "11번가,갤럭시Z시리즈사전판매시작…라이브방송23회운영",
@@ -4374,10 +4371,13 @@
     "중동산줄이고미국산늘린다…LNG공급선다변화박차",
     "[경기단체장]신계용과천시장인터뷰",
     "삼성·SK·네이버가얻은것은?…빅테크가노린것",
-    "“청년유출막으려면부산판유니콘기업만들어야”"
+    "“청년유출막으려면부산판유니콘기업만들어야”",
+    "코스피,반도체주도속6,700선강보합마감",
+    "주형철경기초대경제부지사\"반도체초격차·산업AI전환이끌겠다\"",
+    "이재용·최태원,샌프란시스코이어시칠리아동행…‘구글캠프’참..."
    ],
    "initialized": true,
-   "last_run": "2026-07-27T18:35:24.321858+09:00"
+   "last_run": "2026-07-27T18:40:27.401912+09:00"
   }
  },
  "press_names": {
