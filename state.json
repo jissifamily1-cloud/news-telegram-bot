@@ -1366,12 +1366,13 @@
     [
      "2026-07-27T11:45:26.181562+09:00",
      "잡았다 제주 만에 광주 672일"
+    ],
+    [
+     "2026-07-27T11:50:26.912813+09:00",
+     "웃고 두둑 증권사 효자 2분기 ETF도 곳간 활황에 브로커리지 증시"
     ]
    ],
    "seen_urls": [
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260726.99099007581",
-    "https://www.seoultimes.news/news/article.html?no=2000098143",
-    "https://www.tokenpost.kr/news/breaking/381383",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=356495",
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029923",
     "https://news.tf.co.kr/read/economy/2347090.htm",
@@ -2868,12 +2869,12 @@
     "https://www.news1.kr/local/busan-gyeongnam/6240002",
     "https://biz.sbs.co.kr/article_hub/20000324805?division=NAVER",
     "https://www.dailian.co.kr/news/view/1671215/?sc=Naver",
-    "http://www.samdailbo.com/news/articleView.html?idxno=268074"
+    "http://www.samdailbo.com/news/articleView.html?idxno=268074",
+    "http://www.finomy.com/news/articleView.html?idxno=258013",
+    "https://view.asiae.co.kr/article/2026072710104881778",
+    "https://news.tf.co.kr/read/economy/2347292.htm"
    ],
    "seen_titles": [
-    "SK하이닉스,2분기영업이익64조전망…이익률75%상회예상",
-    "하나금융,청년금융인재올해54명포함총171명배출…AI·금융융합...",
-    "한국개인,삼성·SK하이닉스레버리지ETF4천500억원순매수",
     "[美깐부회동]최태원\"대한민국,AI네이티브국가로\"…AI허브청사진...",
     "이대통령,미국동포들과간담회\"대체불가대한민국만들겠다\"",
     "삼성이재용,오픈AI본사방문…샘올트먼과AI협력논의",
@@ -4370,10 +4371,13 @@
     "하학열고성군수\"SK오션플랜트매각전면재검토해야…지역전체영향...",
     "'사자'돌아선연기금…이달가장많이산종목은?",
     "넓게가는삼성,깊게묶는SK…엇갈린AI빅테크공략법",
-    "제주,672일만에광주잡았다"
+    "제주,672일만에광주잡았다",
+    "SK쉴더스'EQST'국제해킹방어대회'코드게이트2026'준우승",
+    "네이버,엔비디아와AI동맹…1.48조원3자배정유상증자(종합)",
+    "증시활황에브로커리지웃고ETF도효자…증권사2분기곳간'두둑'"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T11:45:26.181562+09:00"
+   "last_run": "2026-07-27T11:50:26.912813+09:00"
   }
  },
  "press_names": {
