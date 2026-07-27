@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T04:15:27.373915+09:00",
-     "증시 삼전닉스 도전 창신메모리 데뷔"
-    ],
-    [
      "2026-07-27T04:25:21.650184+09:00",
      "식을까 투기판 레버리지 물타기도 가능 있어야 현금 3000만원"
     ],
@@ -1130,18 +1126,13 @@
     [
      "2026-07-27T10:15:26.318202+09:00",
      "급증 투자 계약 분쟁도 콘텐츠 드러나 사각지대 IP 늘자"
+    ],
+    [
+     "2026-07-27T10:20:28.606380+09:00",
+     "FOMC까지 줄줄이 실적 증시 슈퍼위크 분수령"
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/stock/stock_general/2026/07/26/6W23J2MEUVCVPOYFSN3QL5B6RI/",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687030",
-    "https://news.mtn.co.kr/news-detail/2026072609283079866",
-    "https://www.sedaily.com/article/20071852",
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=362573",
-    "https://www.mediapen.com/news/view/1112215",
-    "http://www.worktoday.co.kr/news/articleView.html?idxno=87148",
-    "https://biz.sbs.co.kr/article_hub/20000324651?division=NAVER",
-    "https://www.mediapen.com/news/view/1112213",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=848349",
     "https://www.newsis.com/view/NISX20260726_0003723405",
     "https://www.insight.co.kr/news/564709",
@@ -2632,18 +2623,18 @@
     "https://www.etoday.co.kr/news/view/2607701",
     "https://www.dailian.co.kr/news/view/1671103/?sc=Naver",
     "https://www.sedaily.com/article/20072203",
-    "https://www.sedaily.com/article/20072201"
+    "https://www.sedaily.com/article/20072201",
+    "https://www.news2day.co.kr/article/20260727500074",
+    "https://www.viva100.com/article/20260727500434",
+    "https://www.sedaily.com/article/20072212",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471740",
+    "http://www.queen.co.kr/news/articleView.html?idxno=460805",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=270381",
+    "https://www.jibs.co.kr/news/articles/articlesDetail/63890?feed=na",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260727101310NuI",
+    "https://biz.newdaily.co.kr/site/data/html/2026/07/27/2026072700071.html"
    ],
    "seen_titles": [
-    "맥주병부딪친이대통령·젠슨황…\"우리는식구다\"외친'샌프란AI깐...",
-    "예탁금강화전에‘물타기’?…단일종목레버리지,폭풍매수한개미",
-    "SKT,스타트업AX지원박차…'A.XK1'API제공",
-    "李대통령\"세계최고창업환경조성\"…실리콘밸리VC에투자러브콜",
-    "美동포만난李대통령“AI시대대한민국에새로운기회왔다”",
-    "SK텔레콤,스타트업AI활용지원...신규모델'A.XK1'API제공",
-    "AI네트워크구축시동…통신3사역할커진다",
-    "SK텔레콤,스타트업에독자AI모델API개방…국내AI생태계확장나...",
-    "국민연금매도폭탄없었다…'큰손'연기금,이달순매수",
     "'슈퍼위크'맞은코스피…미빅테크실적·FOMC가반등가른다",
     "李대통령\"한미,안보동맹넘어기술·혁신·스타트업동맹으로\"",
     "국장흔들리자서학개미매수4배↑…정작산건SK하닉ADR·한국3배ET...",
@@ -4134,10 +4125,19 @@
     "갤럭시Z8지원금약속과장광고주의…사전예약시꼭확인할4가지는",
     "민주당,형소법이번주본회의처리예고…\"검찰개혁마지막퍼즐완성...",
     "美중간선거100일앞…민주당하원탈환전망",
-    "콘텐츠투자늘자분쟁도급증…IP계약‘사각지대’드러나"
+    "콘텐츠투자늘자분쟁도급증…IP계약‘사각지대’드러나",
+    "환율1460원대등락…수출기업환전수요지속",
+    "정점식,이대통령향해“'샌프란AI선언',대기업활용한쇼”",
+    "“AI거래과열의신호”…SK하이닉스ADR프리미엄경고나왔다",
+    "빅테크자체칩개발열풍수혜…가온칩스,첨단ASIC선풍에실적신기...",
+    "샌프란시스코AI선언,한국의글로벌도약출사표",
+    "SK텔레콤,AI활용공모전개최…고객참여확대",
+    "현금3,000만원문턱닫히기전…개미,반도체레버리지4,538억원쓸어...",
+    "코스피,AI협력기대에반등…코스닥3%대강세",
+    "'실적슈퍼위크'에FOMC까지줄줄이…韓증시분수령"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T10:15:26.318202+09:00"
+   "last_run": "2026-07-27T10:20:28.606380+09:00"
   }
  },
  "press_names": {
