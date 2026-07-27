@@ -342,15 +342,17 @@
     [
      "2026-07-28T06:44:15.280067+09:00",
      "몰려간 내는데 서학개미 ADR로 세금 SK하이닉스"
+    ],
+    [
+     "2026-07-28T06:55:19.842598+09:00",
+     "외국인 언제까지 신호 주목 코리아 코스피 복귀"
+    ],
+    [
+     "2026-07-28T06:55:19.842598+09:00",
+     "급등 애플도 상장 들인 첫날 CXMT 눈독"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10821288",
-    "https://www.yna.co.kr/view/AKR20260727069600017?input=1195m",
-    "https://www.pennmike.com/news/articleView.html?idxno=124424",
-    "https://www.news1.kr/world/northeast-asia/6239887",
-    "https://www.sportsseoul.com/news/read/1624814",
-    "https://www.joongangenews.com/news/articleView.html?idxno=535593",
     "http://www.seouleconews.com/news/articleView.html?idxno=92637",
     "https://www.mt.co.kr/world/2026/07/27/2026072710562881482",
     "https://www.etoday.co.kr/news/view/2607742",
@@ -1844,15 +1846,15 @@
     "https://view.asiae.co.kr/article/2026072715352630437",
     "https://www.viewsnnews.com/article?q=237487",
     "https://www.bntnews.co.kr/article/view/bnt202607280014",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1717995"
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1717995",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=51728",
+    "https://www.mk.co.kr/article/12109034",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1717997",
+    "https://www.ajunews.com/view/20260728064721230",
+    "https://www.dailian.co.kr/news/view/1670746/?sc=Naver",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1717996"
    ],
    "seen_titles": [
-    "[사설]샌프란AI선언,공급망핵심국위상다지고협력주도계기로",
-    "[테크스냅]노타,'솔라오픈2'경량화모델공개…GPU8장→2장",
-    "[이채정의엮어읽기]AI변곡점(InflectionPoint),고용과투자지형의전...",
-    "中,李대통령샌프란시스코AI선언주목…\"中등국제협력중요\"",
-    "K리그는좁다!‘월드컵0분’아쉬움털고3G연속공격PT이동경,울산...",
-    "中CXMT,상장첫날시총680조…삼성·SK'D램독주'흔드나",
     "\"SK하이닉스,대학생이일하고싶은기업2년째1위\"",
     "홍콩증시'레버리지·인버스ETF'배율매일조정…\"변동성대응\"",
     "CXMT,데뷔첫날472%폭등…단숨에中본토시총1위[상보]",
@@ -3346,10 +3348,16 @@
     "SK하이닉스ADR로몰려간서학개미…세금더내는데왜?",
     "'엔비디아쇼크'에SK하이닉스ADR공모가붕괴",
     "SK하이닉스ADR10%대급락…엔비디아發투심위축",
-    "엔비디아,네이버3대주주行…'AI고객'직접키우는생태계전쟁"
+    "엔비디아,네이버3대주주行…'AI고객'직접키우는생태계전쟁",
+    "중국에겁먹은반도체…하이닉스ADR7%하락",
+    "‘AI투자피한’애플,엔비디아제치고시총1위",
+    "﻿7000넘기면팔고,6400서받는외국인…코스피'V자'보다긴숨고르...",
+    "SK하이닉스ADR7.44%급락…'中CXMT상장돌풍'에공모가하회",
+    "외국인‘셀코리아’언제까지…코스피복귀신호‘주목’",
+    "애플도눈독들인中CXMT...상장첫날466%급등"
    ],
    "initialized": true,
-   "last_run": "2026-07-28T06:50:25.961181+09:00"
+   "last_run": "2026-07-28T06:55:19.842598+09:00"
   }
  },
  "press_names": {
