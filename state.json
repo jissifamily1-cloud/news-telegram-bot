@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-28T00:15:24.659120+09:00",
-     "규제 빠진 개혁 반도체 프리 AI선언 도약"
-    ],
-    [
-     "2026-07-28T00:15:24.659120+09:00",
-     "SK이터닉스 급락 약세에 신재생에너지주 마감 주가 국제유가"
-    ],
-    [
      "2026-07-28T00:20:29.010416+09:00",
      "몸값 협상 SK실트론 초호황에 매각 이번주 분수령 반도체"
     ],
@@ -330,14 +322,21 @@
     [
      "2026-07-28T06:10:33.140140+09:00",
      "AI에 초우량 SK텔레콤 신용도 AAA fn마켓워치 5조 투입하는 지킬까"
+    ],
+    [
+     "2026-07-28T06:15:32.232163+09:00",
+     "증발한 9500억달러 삼전 하이닉스 피크아웃 AI동맹 한달새 1100조"
+    ],
+    [
+     "2026-07-28T06:15:32.232163+09:00",
+     "못한 마감 예전만 엔비디아 투심 혼조"
+    ],
+    [
+     "2026-07-28T06:15:32.232163+09:00",
+     "내리면 그런데 ETF가 본주보다 오르면 반도체 중동 거래될"
     ]
    ],
    "seen_urls": [
-    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=431740",
-    "https://www.mk.co.kr/article/12108160",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471771",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=205554",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=92818",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=848426",
     "https://www.ekn.kr/web/view.php?key=20260727025276290",
     "https://www.rcast.co.kr/news/articleView.html?idxno=31341",
@@ -1832,14 +1831,14 @@
     "https://www.sedaily.com/article/20072563",
     "http://www.beyondpost.co.kr/view.php?ud=2026072805591959772aaae0046f_30",
     "https://www.kukinews.com/article/view/kuk202607270213",
-    "http://www.fnnews.com/news/202607272023201721"
+    "http://www.fnnews.com/news/202607272023201721",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260728061144DDJ",
+    "https://www.ytn.co.kr/_ln/0104_202607280608592154",
+    "https://www.etoday.co.kr/news/view/2607929",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4427140",
+    "http://www.fnnews.com/news/202607280544272200"
    ],
    "seen_titles": [
-    "울산,서울잡고반등…K리그1상위권경쟁'안갯속'",
-    "국민연금‘매도폭탄’없었다…SK하닉사고삼전팔아",
-    "SK이노베이션,농어촌아동위한'어린이책Dream프로젝트'진행",
-    "SK텔레콤,나만의AI프롬프트공유하는'모두의프롬프트'공모전",
-    "식지않는'반도체성과급'열풍…男女대학생\"SK하닉·삼전서일하고...",
     "한병도\"이번주형소법반드시처리\"…필버·패트국회법정비예고",
     "“한국투자자들군침”…삼전닉스흔든레버리지ETF,이번엔키옥시아...",
     "일신건영'이천휴먼빌클래스원'27일부터청약일정돌입",
@@ -3334,10 +3333,15 @@
     "엔비디아,오픈AI지급보증에5%↓...애플,15개월만에시총1위[데일...",
     "엔비디아5%,SK하이닉스ADR7.47%급락...반도체주,일제히약세",
     "이보수에이성적표?…코스닥액티브ETF‘기대이하’",
-    "AI에1.5조투입하는SK텔레콤…'AAA'초우량신용도지킬까[fn마켓워치..."
+    "AI에1.5조투입하는SK텔레콤…'AAA'초우량신용도지킬까[fn마켓워치...",
+    "뉴욕증시,국제유가급락속혼조마감…반도체주하락",
+    "데뷔첫날중국'시총1위'창신메모리...\"빅3위협\"vs\"기술격차\"",
+    "한달새1100조증발한삼전·하이닉스…9500억달러AI동맹,피크아웃공...",
+    "[뉴욕증시]예전만못한엔비디아투심…혼조마감",
+    "\"오르면반도체,내리면중동탓\"…그런데왜본주보다ETF가더거래될..."
    ],
    "initialized": true,
-   "last_run": "2026-07-28T06:10:33.140140+09:00"
+   "last_run": "2026-07-28T06:15:32.232163+09:00"
   }
  },
  "press_names": {
