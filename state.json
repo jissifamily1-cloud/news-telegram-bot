@@ -417,13 +417,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12108189",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16146688",
-    "http://www.newsworker.co.kr/news/articleView.html?idxno=438196",
-    "https://www.hani.co.kr/arti/international/china/1270086.html",
-    "https://www.dizzotv.com/site/data/html_dir/2026/07/27/2026072780058.html",
-    "https://www.businessplus.kr/news/articleView.html?idxno=114652",
-    "https://www.newspim.com/news/view/20260727000557",
     "https://biz.heraldcorp.com/article/10821330",
     "https://www.nocutnews.co.kr/news/6553640",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1717875",
@@ -1916,16 +1909,16 @@
     "https://www.newspim.com/news/view/20260727001088",
     "https://en.yna.co.kr/view/AEN20260728000800320?input=2106m",
     "http://www.newsian.co.kr/news/articleView.html?idxno=92830",
-    "https://www.dailian.co.kr/news/view/1671433/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1671433/?sc=Naver",
+    "https://www.news2day.co.kr/article/20260728500011",
+    "https://www.g-enews.com/view.php?ud=202607280707387849e250e8e188_1",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4427135",
+    "https://www.hankyung.com/article/2026072893216",
+    "https://www.g-enews.com/view.php?ud=202607280654005338fbbec65dfb_1",
+    "https://www.sidae.com/article/2026072806004348379",
+    "https://biz.sbs.co.kr/article_hub/20000324965?division=NAVER"
    ],
    "seen_titles": [
-    "오늘상장창신메모리에쏟아지는관심…노무라“공모가대비1240%오를...",
-    "CXMT시총1위…삼성전자·SK하이닉스경쟁부담커졌다",
-    "SK인텔릭스(대표이사안무인),'제품'보다'관계'에투자…렌털업의새...",
-    "중국반도체CXMT상장470%상승…중국본토시총1위로",
-    "SKT,국민참여로만드는'모두의프롬프트'공모전개최",
-    "[뉴스+]李대통령브라질국빈방문에K뷰티수장들속속합류…\"남미시...",
-    "[미국특징주]AI투자열기안식었다…메모리·반도체株다시주목",
     "SK이노E&S,호주서초경질유30만배럴수급",
     "코스피상승출발하다'하락'전환…삼전닉스도파란불",
     "[EBN데이터센터]삼성전자·NAVER강세에금융주동반상승",
@@ -3418,10 +3411,17 @@
     "[中하드테크IPO빅뱅]⑬YMTC,CXMT대비6배나저평가되는이유",
     "TopheadlinesinmajorS.Koreannewspapers",
     "코스피급락멈추나…\"V자반등보다완만한회복\"",
-    "커지는기술주의구심…AI투자도'선택과집중'"
+    "커지는기술주의구심…AI투자도'선택과집중'",
+    "뉴욕증시,FOMC·빅테크실적앞두고혼조…엔비디아5%'털썩'",
+    "중국CXMT상장파장SK하이닉스·마이크론·샌디스크하락",
+    "[뉴욕증시-1보]예전만못한엔비디아투심…혼조마감",
+    "유가급락에도반도체주'와르르'…나스닥약세[뉴욕증시브리핑]",
+    "엔비디아,7500억달러순환금융논란…AI거품론재점화",
+    "[뉴욕증시]이란협상·AI불안감에혼조세…다우0.5%↑·나스닥0.2%↓",
+    "[증시전략]엔비디아,오픈AI에지급보증…'순환금융'논란부상"
    ],
    "initialized": true,
-   "last_run": "2026-07-28T07:10:31.954363+09:00"
+   "last_run": "2026-07-28T07:15:25.981428+09:00"
   }
  },
  "press_names": {
