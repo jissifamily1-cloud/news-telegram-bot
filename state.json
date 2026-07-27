@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T06:20:25.896440+09:00",
-     "상가마다 33년 대구의 리포 공실 소멸 꼴찌 삼성 한숨 패싱한"
-    ],
-    [
      "2026-07-27T06:25:20.695352+09:00",
      "반도체 재검토 확산 논란 보조금"
     ],
@@ -1322,13 +1318,13 @@
     [
      "2026-07-27T12:20:24.090121+09:00",
      "기관 흥아해운 SK텔레콤 외국인 우리금융지주 신일전자"
+    ],
+    [
+     "2026-07-27T12:25:20.197881+09:00",
+     "날린 달에 회사원이 SK하이닉스에 5억이나 이유 투자해 일반"
     ]
    ],
    "seen_urls": [
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260726.99099007598",
-    "https://www.khan.co.kr/article/202607261521001",
-    "https://www.inews365.com/news/article.html?no=929241",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092166600",
     "https://www.kyeonggi.com/article/20260726580210",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607260073&t=NN",
     "https://www.dt.co.kr/article/12074774",
@@ -2824,13 +2820,13 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620916",
     "https://www.busan.com/view/busan/view.php?code=2026072712183618278",
     "https://www.thelec.kr/news/articleView.html?idxno=60029",
-    "https://www.newstnt.com/news/articleView.html?idxno=711697"
+    "https://www.newstnt.com/news/articleView.html?idxno=711697",
+    "https://www.raonnews.com/news/article.html?no=59831",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=313213",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=83280",
+    "https://www.wikitree.co.kr/articles/1148670"
    ],
    "seen_titles": [
-    "실리콘밸리VC만난이대통령\"'다음세대삼성'함께만들어야\"",
-    "이대통령‘샌프란AI선언’…빅테크리더에‘대체불가AI선도국’공...",
-    "이대통령,글로벌벤처투자사만나30년동반자관계제시",
-    "이재용회장,오픈AI본사서샘올트먼만났다",
     "이재용,오픈AI본사서올트먼만났다…무슨얘기오갔나",
     "[속보]최태원9440억넘을까…'8조재산'권혁빈이혼소송주목",
     "SKT,스타트업에자체AI모델제공",
@@ -4326,10 +4322,14 @@
     "코스피,외국인1.5조‘팔자’에하락전환…6,600선거래",
     "반년넘게진행된SK실트론매각협상‘마무리국면’",
     "[기자수첩]구미시장의일리있는'쇼맨십'",
-    "[특징주]외국인,신일전자·우리금융지주…기관,SK텔레콤·흥아해운"
+    "[특징주]외국인,신일전자·우리금융지주…기관,SK텔레콤·흥아해운",
+    "'中반도체굴기'창신메모리개장과함께중국시총1위등극",
+    "SKT,고객참여형프로그램'모두의프롬프트'공모전시행",
+    "\"원금손실1%로묶고연6.8%노린다\"…NH투자증권,퇴직연금ELS특판",
+    "일반회사원이SK하이닉스에투자해한달에5억이나날린이유"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T12:20:24.090121+09:00"
+   "last_run": "2026-07-27T12:25:20.197881+09:00"
   }
  },
  "press_names": {
