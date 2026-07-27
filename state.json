@@ -1154,18 +1154,25 @@
     [
      "2026-07-27T14:45:28.125234+09:00",
      "중단 바닥 일시 이란 트럼프 공습 요격미사일"
+    ],
+    [
+     "2026-07-27T14:50:26.833522+09:00",
+     "상승전환 코스피 하이닉스 삼전 오락가락 다시"
+    ],
+    [
+     "2026-07-27T14:50:26.833522+09:00",
+     "주문 들고 적금 생활금융 금융권 배달 외국인 외국인도"
+    ],
+    [
+     "2026-07-27T14:50:26.833522+09:00",
+     "100원 장중 주가 27일 7월 하락 SK이노베이션"
+    ],
+    [
+     "2026-07-27T14:50:26.833522+09:00",
+     "꼬리표 떼나 하반기 주도주 배당주 노린다 SKT"
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20260726508379?OutUrl=naver",
-    "https://www.sedaily.com/article/20072037",
-    "http://www.fnnews.com/news/202607261830355600",
-    "https://www.hankookilbo.com/news/article/A2026072617300000905?did=NA",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1717818",
-    "https://www.hankyung.com/article/2026072666111",
-    "https://www.sedaily.com/article/20072035",
-    "http://www.fnnews.com/news/202607261827494405",
-    "https://www.busan.com/view/busan/view.php?code=2026072618340716087",
     "https://www.dt.co.kr/article/12074821",
     "https://www.yna.co.kr/view/AKR20260726045000089?input=1195m",
     "https://www.kbmaeil.com/article/20260726500663",
@@ -2656,18 +2663,18 @@
     "https://www.newsway.co.kr/news/view?ud=2026072714112862282",
     "https://www.slist.kr/news/articleView.html?idxno=754511",
     "https://www.smartbizn.com/news/articleView.html?idxno=149494",
-    "https://biz.sbs.co.kr/article_hub/20000324838?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000324838?division=NAVER",
+    "https://www.sidae.com/article/2026072714161445868",
+    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701203",
+    "https://www.viva100.com/article/20260727501056",
+    "https://dealsite.co.kr/articles/165992",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008676568&plink=ORI&cooper=NAVER",
+    "https://www.yna.co.kr/view/AKR20260727109300008?input=1195m",
+    "http://www.segyebiz.com/newsView/20260727510688?OutUrl=naver",
+    "https://www.joongangenews.com/news/articleView.html?idxno=535669",
+    "https://www.g-enews.com/view.php?ud=202607271440501198153ddfb15a_1"
    ],
    "seen_titles": [
-    "밭일하다,하우스서작업하다‘응급실행’…전국온열질환비상[날씨...",
-    "빅테크,자본·GPU·AI모델까지…AIDC허브된韓",
-    "[사설]한국반도체위상널리알린미국AI서밋",
-    "반복된'검은월요일'벗어날까…슈퍼위크서반전노리는코스피",
-    "[EBN오늘(26일)이슈종합]개미들투자법달라졌다...ETF에70조몰렸다...",
-    "글로벌빅샷총집결…李\"韓없이AI발전불가능\"",
-    "삼성,AI칩생산2000억弗협력…SK는HBM4공급MS로확장",
-    "[포럼]3대메가프로젝트성공하려면",
-    "SK·삼성,미빅테크와1390조‘AI동맹’",
     "[기획]젠슨황부터올트먼까지…삼전닉스,반도체초격차굳힌다",
     "'삼전·닉스도전'CXMT,내일中증시데뷔…본토시총1위오를까",
     "‘삼성·하이닉스추격’中CXMT,내일증시입성…시총1위등극할까",
@@ -4158,10 +4165,19 @@
     "'9440억'최태원재산분할금에주주들'긴장'…자금조달방식에쏠린눈",
     "MSCI8월정기리뷰내달13일발표…신규편입종목있을까",
     "코드게이트,AI보안인재육성본격화",
-    "[셀럽의한수]美요격미사일'바닥'…트럼프,이란공습일시중단"
+    "[셀럽의한수]美요격미사일'바닥'…트럼프,이란공습일시중단",
+    "최태원'9440억원'세기의재산분할,현금마련은어떻게",
+    "삼성·SK,광주군공항부지잇단답사···호남반도체클러스터조성...",
+    "고성군,SK오션플랜트매각철회촉구",
+    "1400조협력맺은'삼성·SK',단순판매자서AI동맹체핵심",
+    "중전문가,CXMT상장에\"삼전·닉스에도전하고시장재편\"기대",
+    "'오락가락'코스피,다시상승전환…삼전·하이닉스1~2%대↑",
+    "[MONEY]외국인도적금들고배달주문…금융권,‘외국인생활금융’넓...",
+    "SK이노베이션주가,7월27일장중118,100원9.22%하락",
+    "'배당주'꼬리표떼나…SKT하반기주도주노린다"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T14:45:28.125234+09:00"
+   "last_run": "2026-07-27T14:50:26.833522+09:00"
   }
  },
  "press_names": {
