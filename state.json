@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-28T02:40:26.633391+09:00",
-     "부상 전문가 브라질 정상회담 기고 주요 의제로"
-    ],
-    [
      "2026-07-28T02:45:31.941439+09:00",
      "유가 장중 투매 급락에도 나스닥 반도체"
     ],
@@ -702,15 +698,25 @@
     [
      "2026-07-28T08:40:25.560346+09:00",
      "딜레마 푸쉬앤풀 전력은 데이터센터 수도권 인프라는 지방"
+    ],
+    [
+     "2026-07-28T08:43:02.577233+09:00",
+     "반도체 호남 학계 시각차 정계 클러스터에"
+    ],
+    [
+     "2026-07-28T08:43:02.577233+09:00",
+     "NH투자증권 진행 고객 이벤트 퇴직연금 ELS 잡아라"
+    ],
+    [
+     "2026-07-28T08:43:02.577233+09:00",
+     "160만원대로 하이닉스 23만 프리마켓서 급락 삼성전자"
+    ],
+    [
+     "2026-07-28T08:43:02.577233+09:00",
+     "기술 혼조세 추격에 이벤트 흔들 마감 앞두고 뉴욕증시"
     ]
    ],
    "seen_urls": [
-    "https://www.newstnt.com/news/articleView.html?idxno=711701",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607270135&t=NN",
-    "http://www.impacton.net/news/articleView.html?idxno=19720",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=725035",
-    "http://www.e-platform.net/news/articleView.html?idxno=104149",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4427033",
     "http://www.sisacast.kr/news/articleView.html?idxno=98149",
     "https://news.jtbc.co.kr/article/NB12310330?influxDiv=NAVER",
     "http://www.yonhapnewstv.co.kr/news/MYH20260727124922gX1",
@@ -2204,15 +2210,15 @@
     "https://www.sidae.com/article/2026072808162218903",
     "https://biz.chosun.com/stock/stock_general/2026/07/28/OY3KVYJMNZGWNNHNWRGQNMPJWM/",
     "https://biz.chosun.com/about-investing/2026/07/28/TTK7GTETVNCL5AMPVK6VWNBMDA/",
-    "https://view.asiae.co.kr/article/2026072808333563228"
+    "https://view.asiae.co.kr/article/2026072808333563228",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1718018",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687450",
+    "http://www.srtimes.kr/news/articleView.html?idxno=208422",
+    "http://www.srtimes.kr/news/articleView.html?idxno=208418",
+    "https://www.munhwa.com/article/11605410",
+    "https://www.newstopkorea.com/news/articleView.html?idxno=46565"
    ],
    "seen_titles": [
-    "\"지원금더준다\"믿었다간…갤럭시Z8사전예약과장광고주의보",
-    "CXMT사려고삼전닉스팔았다?…코스피약세이유들어보니[분석+]",
-    "SK이노E&S,호주산초경질유첫국내도입",
-    "[특징주]솔루스첨단소재,목표가낮춘증권가…\"동박수급병목·판가...",
-    "주가널뛰는데…레버리지ETF9개'출격대기'",
-    "SK·LG도철수한전기차충전시장…승부처는'충전기'아닌소프트웨어",
     "[기자수첩]메모리호황,중국성장에대비해야",
     "SK이노베이션,시민과함께농어촌아동책기부캠페인전개",
     "中창신,상장계기로韓·美반도체얼마나위협할까",
@@ -3706,10 +3712,16 @@
     "주형철경기도경제부지사취임…\"성장의길,함께뛸것\"",
     "SK證“한화오션,2분기호실적에도하반기변수주목…목표가13만4000원...",
     "[투자노트]AI시대반도체투자법은…‘잘버는기업’보다‘오래버...",
-    "전력은지방,인프라는수도권…\"AI데이터센터딜레마,'푸쉬앤풀'로풀..."
+    "전력은지방,인프라는수도권…\"AI데이터센터딜레마,'푸쉬앤풀'로풀...",
+    "[원자재시황]유가급락에도웃지못한시장",
+    "애플,엔비디아제치고세계시총1위탈환…AI투자판도바뀌나",
+    "호남반도체클러스터에정계·학계간'시각차'",
+    "퇴직연금고객잡아라…NH투자증권,ELS이벤트진행",
+    "삼성전자·하이닉스프리마켓서급락…23만·160만원대로",
+    "뉴욕증시혼조세마감...빅이벤트앞두고中기술추격에'흔들'"
    ],
    "initialized": true,
-   "last_run": "2026-07-28T08:40:25.560346+09:00"
+   "last_run": "2026-07-28T08:43:02.577233+09:00"
   }
  },
  "press_names": {
