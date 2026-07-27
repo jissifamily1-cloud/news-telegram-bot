@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T15:20:26.559173+09:00",
-     "박진선 부상 중심 실행축 분화 총괄기능 김훈 SK바사"
-    ],
-    [
-     "2026-07-27T15:20:26.559173+09:00",
-     "수출 영업익 18배 공급난 1등 메모리 레거시의 반전 제주"
-    ],
-    [
      "2026-07-27T15:30:36.191652+09:00",
      "ETF 수익률 반도체 상장에 창신메모리"
     ],
@@ -1109,9 +1101,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20072197",
-    "https://biz.sbs.co.kr/article_hub/20000324769?division=NAVER",
-    "https://biz.chosun.com/it-science/ict/2026/07/27/45APP3YDXFBCFKRTEKKOQUV43M/",
     "https://www.cbci.co.kr/news/articleView.html?idxno=592069",
     "https://zdnet.co.kr/view/?no=20260727100743",
     "https://www.ggilbo.com/news/articleView.html?idxno=1171457",
@@ -2608,12 +2597,12 @@
     "https://www.seoul.co.kr/news/economy/industry/2026/07/27/20260727500271?wlog_tag3=naver",
     "https://biz.heraldcorp.com/article/10822027",
     "https://www.ddaily.co.kr/page/view/2026072718122003646",
-    "https://www.koreajoongangdaily.com/business/taiwans-share-of-korean-chip-exports-more-than-doubles-as-china-loses-ground/12794357"
+    "https://www.koreajoongangdaily.com/business/taiwans-share-of-korean-chip-exports-more-than-doubles-as-china-loses-ground/12794357",
+    "http://www.inews24.com/view/1989248",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3647836",
+    "https://www.mediawatch.kr/news/article.html?no=260482"
    ],
    "seen_titles": [
-    "삼성·SK,AI반도체1390조빅딜…HBM장기계약체결",
-    "SK이노베이션E&S,호주에서초경질유30만배럴들여온다",
-    "SK쉴더스,국제해킹방어대회‘코드게이트2026’CTF준우승",
     "[속보]신재생에너지주장중급락확산…SK이터닉스·OCI홀딩스두자릿...",
     "\"당신의프롬프트를보여주세요\"...SKT,모든고객대상공모전",
     "SK이터닉스주가,20%대하락...왜?",
@@ -4110,10 +4099,13 @@
     "엔비디아發글로벌AI보안연합체에SKT·네이버참가…AI협력생태계...",
     "이재용·최태원,구글캠프간다…‘AI어벤저스’시칠리아총집결",
     "[오승호칼럼]K-증시,국격에맞게주식관련세제정상화해야",
-    "Taiwan’sshareofKoreanchipexportsmorethandoublesasChinaloses."
+    "Taiwan’sshareofKoreanchipexportsmorethandoublesasChinaloses.",
+    "CXMT,중국최대반도체IPO흥행…본토시총1위등극(종합)",
+    "취임첫날의회직행한주형철…'반도체·AI'로여야협치,추미애경제...",
+    "[26.7.27증시인싸잇]코스피,외국인2.9조매도세에도반등…6700선지..."
    ],
    "initialized": true,
-   "last_run": "2026-07-27T21:15:26.892987+09:00"
+   "last_run": "2026-07-27T21:20:27.753662+09:00"
   }
  },
  "press_names": {
