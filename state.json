@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T19:15:25.093280+09:00",
-     "급등 최대기업으로 등극 상장첫날 5배 중국 중CXMT"
-    ],
-    [
-     "2026-07-27T19:15:25.093280+09:00",
-     "홍콩 반등 H주 중동 긴장완화에 증시 마감"
-    ],
-    [
-     "2026-07-27T19:15:25.093280+09:00",
-     "대통령과 브라질 정상회담 논의할 희토류 대통령"
-    ],
-    [
-     "2026-07-27T19:15:25.093280+09:00",
-     "유치전 3사 돌입 갤럭시 온라인몰 통신 고객 사전예약 Z8"
-    ],
-    [
-     "2026-07-27T19:15:25.093280+09:00",
-     "means blockbuster What for titans Korea CXMT debut memory"
-    ],
-    [
      "2026-07-27T19:20:27.749259+09:00",
      "여성단체 화합 위한 소통 열려 이천시 체육대회"
     ],
@@ -310,10 +290,13 @@
     [
      "2026-07-28T01:09:39.211273+09:00",
      "다시 불거진 지급보증에 엔비디아의 오픈AI AI순환금융"
+    ],
+    [
+     "2026-07-28T01:15:26.413682+09:00",
+     "반도체 봐선 차이나 된다 가볍게 스피드"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260727002552315?input=2106m",
     "http://www.econonews.co.kr/news/articleView.html?idxno=441861",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02742086645518784",
     "https://www.mediapen.com/news/view/1112376",
@@ -1812,10 +1795,10 @@
     "https://news.tf.co.kr/read/economy/2347433.htm",
     "https://www.kmib.co.kr/article/view.asp?arcid=1785115752&code=11171358&cp=nv",
     "https://www.tokenpost.kr/news/economy/381838",
-    "https://www.hankyung.com/article/202607289210i"
+    "https://www.hankyung.com/article/202607289210i",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1785132560&code=11171111&cp=nv"
    ],
    "seen_titles": [
-    "(2ndLD)Leeordersretentionofoilpricecapsuntilpriceuncertainty",
     "국제유가급락에신재생에너지株약세…SK이터닉스24%↓",
     "AI發랠리둔화되자…中바이오테크로몰리는글로벌자금",
     "SK하이닉스'사상최대실적'전망속연기금집중매수…주가는?",
@@ -3314,10 +3297,11 @@
     "홍콩ELS사태잊었나…국장폭락에고위험ELS쳐다보는개미들",
     "[돋을새김]‘일본도맞았던일’피하려면",
     "[특징주]SK하이닉스,엔비디아7500억달러AI·메모리협력부각에강세",
-    "엔비디아의오픈AI지급보증에다시불거진'AI순환금융'"
+    "엔비디아의오픈AI지급보증에다시불거진'AI순환금융'",
+    "[사설]반도체‘차이나스피드’,가볍게봐선안된다"
    ],
    "initialized": true,
-   "last_run": "2026-07-28T01:10:29.070905+09:00"
+   "last_run": "2026-07-28T01:15:26.413682+09:00"
   }
  },
  "press_names": {
