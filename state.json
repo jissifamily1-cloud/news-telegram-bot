@@ -270,12 +270,17 @@
     [
      "2026-07-28T05:38:08.785155+09:00",
      "경기도국제교육원 경기도의회 경기도교육청"
+    ],
+    [
+     "2026-07-28T05:45:23.949226+09:00",
+     "매도세에 반도체 공습 중단 묻힌 이란"
+    ],
+    [
+     "2026-07-28T05:45:23.949226+09:00",
+     "SK하이닉스 급락 하락 유가 ADR"
     ]
    ],
    "seen_urls": [
-    "https://www.dt.co.kr/article/12074910",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471763",
-    "https://www.news1.kr/local/gwangju-jeonnam/6239900",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2245718",
     "https://www.ngonews.kr/news/articleView.html?idxno=233861",
     "http://www.footballist.co.kr/news/articleView.html?idxno=212783",
@@ -1772,12 +1777,12 @@
     "https://www.sedaily.com/article/20072525",
     "https://www.joongang.co.kr/article/25448675",
     "http://www.fnnews.com/news/202607261520563208",
-    "https://www.ekn.kr/web/view.php?key=20260728023556662"
+    "https://www.ekn.kr/web/view.php?key=20260728023556662",
+    "https://www.news1.kr/world/international-economy/6240751",
+    "https://www.mt.co.kr/world/2026/07/28/2026072805422492401",
+    "https://news.mtn.co.kr/news-detail/2026072805381417189"
    ],
    "seen_titles": [
-    "李재명대통령“샌프란AI선언,대체불가선도자도약국가적출사표...",
-    "AI컴퓨팅파워필수시대…아이크래프트,차세대초고속네트워크수...",
-    "800조호남반도체산업조성본격화…SK·삼성,광주현장점검",
     "SK텔레콤,생활·업무AI활용사례공모",
     "SKT,고객참여형'모두의프롬프트'공모전…'굿체인지'캠페인",
     "신태용감독,'한국내자격정지1년'...페르시자는\"믿습니다\"",
@@ -3274,10 +3279,13 @@
     "퀄컴은놓쳤지만오픈AI·구글·메타는잡았다[글로벌모닝브리핑]",
     "[클리프]경계를허물고무대를넓히다,‘요즘기후판’",
     "\"내년메모리시장8000억달러전망\"…삼성·SK가격협상력커지나",
-    "[패트롤]경기도의회-경기도교육청-경기도국제교육원"
+    "[패트롤]경기도의회-경기도교육청-경기도국제교육원",
+    "유가8%급락에다우0.5%상승…나스닥은AI불안에0.2%하락[뉴욕마감...",
+    "반도체매도세에묻힌美이란공습중단[뉴욕마감]",
+    "SK하이닉스ADR7.5%급락…유가8.7%하락[뉴욕is]"
    ],
    "initialized": true,
-   "last_run": "2026-07-28T05:40:28.459675+09:00"
+   "last_run": "2026-07-28T05:45:23.949226+09:00"
   }
  },
  "press_names": {
