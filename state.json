@@ -337,7 +337,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=848426",
     "https://www.ekn.kr/web/view.php?key=20260727025276290",
     "https://www.rcast.co.kr/news/articleView.html?idxno=31341",
     "http://www.beyondpost.co.kr/view.php?ud=2026072710521418712aaae0046f_30",
@@ -1836,10 +1835,10 @@
     "https://www.ytn.co.kr/_ln/0104_202607280608592154",
     "https://www.etoday.co.kr/news/view/2607929",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4427140",
-    "http://www.fnnews.com/news/202607280544272200"
+    "http://www.fnnews.com/news/202607280544272200",
+    "https://www.ytn.co.kr/_ln/0104_202607280612111276"
    ],
    "seen_titles": [
-    "한병도\"이번주형소법반드시처리\"…필버·패트국회법정비예고",
     "“한국투자자들군침”…삼전닉스흔든레버리지ETF,이번엔키옥시아...",
     "일신건영'이천휴먼빌클래스원'27일부터청약일정돌입",
     "D램4위중국창신메모리(CXMT),상장첫날450%폭등하며중국본토시총...",
@@ -3338,10 +3337,11 @@
     "데뷔첫날중국'시총1위'창신메모리...\"빅3위협\"vs\"기술격차\"",
     "한달새1100조증발한삼전·하이닉스…9500억달러AI동맹,피크아웃공...",
     "[뉴욕증시]예전만못한엔비디아투심…혼조마감",
-    "\"오르면반도체,내리면중동탓\"…그런데왜본주보다ETF가더거래될..."
+    "\"오르면반도체,내리면중동탓\"…그런데왜본주보다ETF가더거래될...",
+    "뉴욕증시,유가급락속혼조마감...반도체주하락"
    ],
    "initialized": true,
-   "last_run": "2026-07-28T06:15:32.232163+09:00"
+   "last_run": "2026-07-28T06:20:25.888551+09:00"
   }
  },
  "press_names": {
