@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T23:50:29.230468+09:00",
-     "빅테크 금리 실적 변수 전망 이란전쟁 7월 FOMC 동결"
-    ],
-    [
-     "2026-07-27T23:50:29.230468+09:00",
-     "대응할 반도체에 구호 한국은 어떻게 호남"
-    ],
-    [
      "2026-07-28T00:05:30.389300+09:00",
      "현대차 미래차 청년 프로그램 시동 인재육성"
     ],
@@ -274,12 +266,13 @@
     [
      "2026-07-28T05:45:23.949226+09:00",
      "SK하이닉스 급락 하락 유가 ADR"
+    ],
+    [
+     "2026-07-28T05:55:21.587731+09:00",
+     "감염 제재 KT 서버 과징금 상한 2000억 앞둬 29일 개보위 숨긴"
     ]
    ],
    "seen_urls": [
-    "https://www.ngonews.kr/news/articleView.html?idxno=233861",
-    "http://www.footballist.co.kr/news/articleView.html?idxno=212783",
-    "https://www.lawtv.kr/news/articleView.html?idxno=60517",
     "https://www.goodkyung.com/news/articleView.html?idxno=289573",
     "https://www.businesspost.co.kr/BP?command=article_view&num=443181",
     "https://www.etnews.com/20260727000182",
@@ -1776,12 +1769,12 @@
     "https://www.news1.kr/world/international-economy/6240751",
     "https://www.mt.co.kr/world/2026/07/28/2026072805422492401",
     "https://news.mtn.co.kr/news-detail/2026072805381417189",
-    "https://www.yna.co.kr/view/AKR20260728006251072?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260728006251072?input=1195m",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4427136",
+    "https://www.dt.co.kr/article/12075086",
+    "https://www.sidae.com/article/2026072715493014564"
    ],
    "seen_titles": [
-    "SKT,고객참여형'모두의프롬프트'공모전…'굿체인지'캠페인",
-    "신태용감독,'한국내자격정지1년'...페르시자는\"믿습니다\"",
-    "SK하이닉스,대학생일하고싶은기업2년연속1위",
     "[금주뉴욕증시전망]빅테크실적시즌본격화…AI투자성과·FOMC향방...",
     "코스피'샌프란시스코AI서밋'효과에도장중강보합6720선,코스닥도...",
     "[기고]원전생태계혁신적인복원을통한대한민국메가프로젝트성공...",
@@ -3278,10 +3271,13 @@
     "유가8%급락에다우0.5%상승…나스닥은AI불안에0.2%하락[뉴욕마감...",
     "반도체매도세에묻힌美이란공습중단[뉴욕마감]",
     "SK하이닉스ADR7.5%급락…유가8.7%하락[뉴욕is]",
-    "뉴욕증시,유가급락속혼조마감…반도체주하락(종합)"
+    "뉴욕증시,유가급락속혼조마감…반도체주하락(종합)",
+    "SK하이닉스ADR주가7.5%급락…엔비디아우려에결국공모가밑으로(종...",
+    "중CXMT에결국발목잡힌미반도체주…삼전ㆍSK하닉향배는",
+    "'감염서버'숨긴KT,29일개보위제재앞둬…과징금상한2000억"
    ],
    "initialized": true,
-   "last_run": "2026-07-28T05:50:26.591577+09:00"
+   "last_run": "2026-07-28T05:55:21.587731+09:00"
   }
  },
  "press_names": {
