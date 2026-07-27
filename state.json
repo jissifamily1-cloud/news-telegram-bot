@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-27T06:40:27.736574+09:00",
-     "제조 경기과기대 혁신 주도 산단 AX 시화 반월"
-    ],
-    [
-     "2026-07-27T06:40:27.736574+09:00",
-     "대통령 김창영의 브로드컴 뒤엔 누구 탈엔비디아 옆자리에 있다"
-    ],
-    [
      "2026-07-27T06:50:24.731252+09:00",
      "한미 가능 29일 상호 ADR 폭등 하이닉스 이후 미국에서"
     ],
@@ -1310,13 +1302,13 @@
     [
      "2026-07-27T12:35:20.401534+09:00",
      "몸값 데이터센터 상승 춘천 수열 에너지"
+    ],
+    [
+     "2026-07-27T12:45:25.321733+09:00",
+     "LG도 승부처는 아닌 충전기 소프트웨어 철수한 전기차 충전시장"
     ]
    ],
    "seen_urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044644",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471576",
-    "https://www.news1.kr/it-science/general-it/6239268",
-    "http://www.babytimes.co.kr/news/articleView.html?idxno=73650",
     "https://biz.chosun.com/stock/stock_general/2026/07/26/WIIOBMBWWNB2DBYISUAWAVK5M4/",
     "https://news.mtn.co.kr/news-detail/2026072615082157943",
     "https://www.kado.net/news/articleView.html?idxno=2063108",
@@ -2812,13 +2804,13 @@
     "https://www.tournews21.com/news/articleView.html?idxno=139462",
     "https://www.tokenpost.kr/news/economy/381568",
     "https://www.ddaily.co.kr/page/view/2026072712213404190",
-    "https://www.hankyung.com/article/2026072780146"
+    "https://www.hankyung.com/article/2026072780146",
+    "http://amenews.kr/news/view.php?idx=67538",
+    "https://www.newstnt.com/news/articleView.html?idxno=711701",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607270135&t=NN",
+    "http://www.impacton.net/news/articleView.html?idxno=19720"
    ],
    "seen_titles": [
-    "충남,'202조첨단투자'전담TF가동…인허가틀깨는'광속행정'펼...",
-    "한세실업,오랜만의실적반등…환율·수주증가'쌍끌이'",
-    "국내GW급AI데이터센터경쟁막올랐다…GPU·전력확보가변수",
-    "이재명대통령\"한국AI허브\"…'샌프란시스코AI선언'",
     "‘큰손’국민연금리밸런싱재개에도…연기금,이달순매수",
     "이재용·샘올트먼,오픈AI본사서회동…AI인프라협력확대",
     "삼성이재용,오픈AI샘올트먼과AI·반도체협력논의",
@@ -4314,10 +4306,14 @@
     "SK쉴더스해커팀EQST,코드게이트CTF서준우승쾌거",
     "[특징주]신일전자,외국인장중매수세집중에7%대강세",
     "\"지원금더준다\"믿었다간…갤럭시Z8사전예약과장광고주의보",
-    "CXMT사려고삼전닉스팔았다?…코스피약세이유들어보니[분석+]"
+    "CXMT사려고삼전닉스팔았다?…코스피약세이유들어보니[분석+]",
+    "SK이노E&S,호주산초경질유첫국내도입",
+    "[특징주]솔루스첨단소재,목표가낮춘증권가…\"동박수급병목·판가...",
+    "주가널뛰는데…레버리지ETF9개'출격대기'",
+    "SK·LG도철수한전기차충전시장…승부처는'충전기'아닌소프트웨어"
    ],
    "initialized": true,
-   "last_run": "2026-07-27T12:40:25.687608+09:00"
+   "last_run": "2026-07-27T12:45:25.321733+09:00"
   }
  },
  "press_names": {
