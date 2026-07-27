@@ -1377,9 +1377,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.topstarnews.net/news/articleView.html?idxno=16146540",
-    "https://www.eroun.net/news/articleView.html?idxno=86278",
-    "http://www.doctorstimes.com/news/articleView.html?idxno=239207",
     "https://www.dailian.co.kr/news/view/1671091/?sc=Naver",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4426962",
     "https://biz.heraldcorp.com/article/10821023",
@@ -2876,12 +2873,12 @@
     "https://www.thepublic.kr/news/articleView.html?idxno=312782",
     "https://www.thepublic.kr/news/articleView.html?idxno=312771",
     "https://www.thepublic.kr/news/articleView.html?idxno=312776",
-    "https://www.etnews.com/20260727000443"
+    "https://www.etnews.com/20260727000443",
+    "https://www.xportsnews.com/article/2176676",
+    "https://www.kukinews.com/article/view/kuk202607270207",
+    "https://www.segye.com/newsView/20260727516120?OutUrl=naver"
    ],
    "seen_titles": [
-    "SK하이닉스주가,7월27일장중1,766,000원0.40%상승",
-    "SK이노베이션,시민과함께농어촌아동도서기부…'어린이책Dream프로...",
-    "\"영상검사없이뇌동맥류위험고른다\"···탈로스,AI예측플랫폼으로...",
     "李대통령\"유가불안해소될때까지석유최고가격제·유류세인하유지...",
     "정점식\"李샌프란선언,대기업총수이용한이미지메이킹쇼\"",
     "李대통령,美‘AI식구회동’뒤남미방산·광물경제외교가동",
@@ -4378,10 +4375,13 @@
     "中CXMT상장여파?외인2.9조팔았지만…'삼전닉스'나란히반등",
     "AI과잉투자우려속…빅테크실적발표에쏠린눈",
     "SKT,'모두의프롬프트'공모전…총상금1000만원규모",
-    "SKT,엔비디아주도'오픈시큐어AI얼라이언스'창립멤버참여"
+    "SKT,엔비디아주도'오픈시큐어AI얼라이언스'창립멤버참여",
+    "'2026KEL'경기농심레드포스,'펍지모바일'종목우승…'XZY'김준하...",
+    "711조원몸값된‘中반도체’CXMT…삼전‧닉스추격속도",
+    "단일종목레버리지규제효과예상…삼전닉스대신코스닥으로갈까’..."
    ],
    "initialized": true,
-   "last_run": "2026-07-27T18:55:23.520744+09:00"
+   "last_run": "2026-07-27T19:00:47.885133+09:00"
   }
  },
  "press_names": {
