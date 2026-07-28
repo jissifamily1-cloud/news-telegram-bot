@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-28T18:20:26.984624+09:00",
-     "SK시그넷 소액주주 상장폐지 매각 공개매수"
-    ],
-    [
      "2026-07-28T18:21:39.111571+09:00",
      "추격 빨라졌다 삼성 시계"
     ],
@@ -498,13 +494,17 @@
     [
      "2026-07-29T00:15:29.725787+09:00",
      "크다 매도세 가능성 급하게 코스피 올라 잦아들 외국인 이익"
+    ],
+    [
+     "2026-07-29T00:20:32.954797+09:00",
+     "상징 균형발전 본궤도 호남권 미래 먹거리산업"
+    ],
+    [
+     "2026-07-29T00:20:32.954797+09:00",
+     "싸움 빅테크 AI로 막는다 해킹 주도권"
     ]
    ],
    "seen_urls": [
-    "https://news.mtn.co.kr/news-detail/2026072808025159016",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687543",
-    "https://www.etoday.co.kr/news/view/2608225",
-    "https://www.seoultimes.news/news/article.html?no=2000098217",
     "http://www.inews24.com/view/1989359",
     "https://www.newscj.com/news/articleView.html?idxno=3420449",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=313402",
@@ -2000,13 +2000,13 @@
     "https://www.hankookilbo.com/news/article/A2026072815440005588?did=NA",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4079612",
     "http://www.kwangju.co.kr/article.php?aid=1785251400801695085",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1785141600&code=11151300&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=1785141600&code=11151300&cp=nv",
+    "https://www.tokenpost.kr/news/market/382355",
+    "https://www.newspim.com/news/view/20260728001152",
+    "http://www.kwangju.co.kr/article.php?aid=1785251700801696074",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1785227636&code=11151400&cp=nv"
    ],
    "seen_titles": [
-    "MZ세대,일자리많고집값싼곳으로'엑소더스'…벌어지는인구격차",
-    "ASML아성흔든中반격…노광장비가대체뭐길래",
-    "갤럭시Z8사전예약시작...통신3사공통지원금최고50만원",
-    "이재용·최태원,구글캠프간다…빅테크추가협력기대",
     "\"중국산이라쌀줄알았는데\"…CXMT서버용DDR5,삼성·SK하이닉스보다...",
     "엔비디아,‘오픈시큐어AI얼라이언스’출범…네이버·SKT참여",
     "[이슈]이재용·최태원,시칠리아서글로벌빅테크수장과회동…AI반도...",
@@ -3502,10 +3502,14 @@
     "[사설]증시폭락부른중국반도체굴기,초과이윤나눌때인가",
     "K-반도체역대급호황TK만비껴갔다",
     "학습된회의론,반도체로끝내자",
-    "“외국인,코스피이익올라급하게판것…매도세잦아들가능성크다..."
+    "“외국인,코스피이익올라급하게판것…매도세잦아들가능성크다...",
+    "코스피30%폭락:급등후심각한조정국면",
+    "글로벌반도체주'팔자'심화…中경쟁심화우려확대",
+    "균형발전상징호남권미래먹거리산업본궤도",
+    "AI해킹,AI로막는다…빅테크‘주도권싸움’"
    ],
    "initialized": true,
-   "last_run": "2026-07-29T00:15:29.725787+09:00"
+   "last_run": "2026-07-29T00:20:32.954797+09:00"
   }
  },
  "press_names": {
