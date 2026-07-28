@@ -486,11 +486,13 @@
     [
      "2026-07-29T00:45:28.793402+09:00",
      "6000피 당했다 반도체에 중국 간신히"
+    ],
+    [
+     "2026-07-29T00:55:21.037135+09:00",
+     "코스피와 나스닥 엮은 동조화 AI가 운명"
     ]
    ],
    "seen_urls": [
-    "https://www.imaeil.com/page/view/2026072810450050267",
-    "https://www.imaeil.com/page/view/2026072810313669389",
     "https://www.newstree.kr/newsView/ntr202607280004",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=265036",
     "https://www.newstopkorea.com/news/articleView.html?idxno=46572",
@@ -1988,11 +1990,11 @@
     "https://www.tokenpost.kr/news/market/382361",
     "http://weekly.chosun.com/news/articleView.html?idxno=53844",
     "https://www.kmib.co.kr/article/view.asp?arcid=1785222934&code=11171212&cp=nv",
-    "https://www.joongang.co.kr/article/25448955"
+    "https://www.joongang.co.kr/article/25448955",
+    "https://www.chosun.com/economy/tech_it/2026/07/29/ZT7EHBUCVBHI7ESA3NDZFJL6UY/",
+    "https://www.hankyung.com/article/202607291646i"
    ],
    "seen_titles": [
-    "SK하이닉스메모리샀는데다른모델이…판매자는발뺌,환불받을수있...",
-    "오늘의메모[7월29일]",
     "美반도체쇼크에아시아AI주'와르르'…한중일기술주동반급락",
     "코스피·코스닥급락에증권주줄줄이하락…키움증권9%↓",
     "창신메모리충격에삼성전자·SK하이닉스10%안팎급락",
@@ -3490,10 +3492,12 @@
     "국내레버리지ETF,기초자산급락여파로상장가반토막",
     "\"다섯번물탔는데반토막\"…레버리지ETF에갇힌개미들",
     "[여의춘추]시장을내버려둬라",
-    "중국반도체에당했다,간신히6000피"
+    "중국반도체에당했다,간신히6000피",
+    "D램3년,HBM4년으로격차좁혀…中반도체추격속도무섭다",
+    "AI가엮은운명…코스피와나스닥100동조화"
    ],
    "initialized": true,
-   "last_run": "2026-07-29T00:50:24.757630+09:00"
+   "last_run": "2026-07-29T00:55:21.037135+09:00"
   }
  },
  "press_names": {
