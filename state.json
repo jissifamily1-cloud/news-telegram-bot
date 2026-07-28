@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-28T19:40:32.387776+09:00",
-     "경제 핵심 박세웅 원장 피지컬 역할할 초혁신 사활 AI에"
-    ],
-    [
      "2026-07-28T19:45:31.145544+09:00",
      "폴더블폰 아이씨에이치 소재 삼성전자 질주 공급 소식에"
     ],
@@ -418,10 +414,13 @@
     [
      "2026-07-29T01:40:28.498932+09:00",
      "30일부터 LPG판매부과금 인하 충전소 283원 LPG가격"
+    ],
+    [
+     "2026-07-29T01:45:26.967076+09:00",
+     "SK하이닉스 엔비디아 NVDA 410달러 직격타 메모리주 추격"
     ]
    ],
    "seen_urls": [
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=852892",
     "https://lawtalknews.co.kr/article/U01VK0P71S97",
     "https://economist.co.kr/article/view/ecn202607280009",
     "https://www.epnc.co.kr/news/articleView.html?idxno=404816",
@@ -1920,10 +1919,10 @@
     "https://www.hankyung.com/article/202607291645i",
     "https://imnews.imbc.com/replay/2026/nw2500/article/6840759_36989.html",
     "https://www.greened.kr/news/articleView.html?idxno=346193",
-    "https://www.energy-news.co.kr/news/articleView.html?idxno=227095"
+    "https://www.energy-news.co.kr/news/articleView.html?idxno=227095",
+    "http://coinreaders.com/250018"
    ],
    "seen_titles": [
-    "[속보]SK하이닉스주가'150만닉스'로…양대지수급락속13%급락",
     "'검은화요일'현실화…코스피·코스닥,美·中발반도체악재에동반급...",
     "‘검은화요일’코스피·코스닥매도사이드카에서킷까지발동",
     "[특징주]CXMTIPO흥행…삼전닉스급락",
@@ -3422,10 +3421,11 @@
     "월가,이젠한국증시보고투자결정한다[박신영의개장전요것만]",
     "'코스피6천'간신히지켰다‥다시'검은화요일'",
     "[뉴욕증시]반도체투매에도다우1%↑…엔비디아반등에나스닥낙폭축...",
-    "LPG판매부과금30일부터인하…충전소LPG가격.62.283원↓"
+    "LPG판매부과금30일부터인하…충전소LPG가격.62.283원↓",
+    "엔비디아(NVDA)·SK하이닉스,中추격'직격타'...메모리주5,410달러'증..."
    ],
    "initialized": true,
-   "last_run": "2026-07-29T01:40:28.498932+09:00"
+   "last_run": "2026-07-29T01:45:26.967076+09:00"
   }
  },
  "press_names": {
