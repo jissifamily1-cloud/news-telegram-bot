@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-29T00:45:28.793402+09:00",
-     "탔는데 반토막 ETF에 갇힌 다섯 개미들 레버리지"
-    ],
-    [
-     "2026-07-29T00:45:28.793402+09:00",
-     "내버려 둬라 시장을"
-    ],
-    [
-     "2026-07-29T00:45:28.793402+09:00",
-     "6000피 당했다 반도체에 중국 간신히"
-    ],
-    [
      "2026-07-29T00:55:21.037135+09:00",
      "코스피와 나스닥 엮은 동조화 AI가 운명"
     ],
@@ -498,16 +486,17 @@
     [
      "2026-07-29T06:45:24.573499+09:00",
      "아직은 훔쳐 창신 키운 삼성반도체 격차"
+    ],
+    [
+     "2026-07-29T06:50:32.860149+09:00",
+     "대형주 믿고 블루칩 깨졌다 삼전닉스 담았더니"
+    ],
+    [
+     "2026-07-29T06:50:32.860149+09:00",
+     "미리 보는"
     ]
    ],
    "seen_urls": [
-    "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87178",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04106566645519112",
-    "https://www.womennews.co.kr/news/articleView.html?idxno=280409",
-    "https://dealsite.co.kr/articles/166063",
-    "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87175",
-    "https://www.sedaily.com/article/20072737",
-    "https://www.sedaily.com/article/20072738",
     "https://www.itdaily.kr/news/articleView.html?idxno=240632",
     "https://www.m-i.kr/news/articleView.html?idxno=1396095",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4427252",
@@ -2000,15 +1989,16 @@
     "https://www.kizmom.com/news/articleView.html?idxno=111780",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679546&plink=ORI&cooper=NAVER",
     "https://biz.sbs.co.kr/article_hub/20000325215?division=NAVER",
-    "https://imnews.imbc.com/replay/2026/nwtoday/article/6840798_37012.html"
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6840798_37012.html",
+    "https://www.tokenpost.kr/news/economy/382405",
+    "https://biz.sbs.co.kr/article_hub/20000325216?division=NAVER",
+    "https://www.g-enews.com/view.php?ud=202607290638274250fbbec65dfb_1",
+    "https://www.slist.kr/news/articleView.html?idxno=754864",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679627&plink=ORI&cooper=NAVER",
+    "https://www.dailian.co.kr/news/view/1671861/?sc=Naver",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6840802_37012.html"
    ],
    "seen_titles": [
-    "코스피10%·코스닥8%급락에양시장서킷브레이커발동",
-    "갤럭시Z8출격…통신3사지원금최대57만5000원",
-    "WillNAVERRiseAsan'EastAsiaAIHubonAlliancewithNvidia?",
-    "[갤럭시Z8사전예약]폴더블대전...3社3色혜택맞대결",
-    "SK하이닉스,코스피충격속29일실적발표…반도체공포잠재울까",
-    "이대통령,이타마라치궁환영행사참석…류진·장인화·조원태등기업...",
     "알뜰폰2026년7월브랜드평판...프리티,KT엠모바일,SK세븐모바일順",
     "코스피매도사이드카이어서킷브레이커발동…AI·반도체악재에시...",
     "李대통령,룰라주최환영행사참석…“양국협력확대계기만들자”",
@@ -3502,10 +3492,16 @@
     "잠실종합운동장대변신…코엑스2.5배MICE·3만석돔구장2032년완공",
     "\"난장판카지노\"비판까지…'20%투자한도'칼뽑나",
     "[조간브리핑]中메모리굴기에AI거품론까지덮쳤다…10%폭락한코스...",
-    "삼성반도체훔쳐키운'창신'‥\"아직은격차커\""
+    "삼성반도체훔쳐키운'창신'‥\"아직은격차커\"",
+    "서울시,잠실'스포츠·마이스복합단지'개발착수…2032년준공목표",
+    "'AI버블'우려속오늘SK하이닉스2분기성적표공개",
+    "코스피10.8%폭락…美이익률사상최고15.7%착시",
+    "뉴욕증시,유가하락속반도체조정에혼조마감…나스닥0.2%↓",
+    "‘삼전닉스’대형주믿고담았더니…‘블루칩공식’깨졌다",
+    "미리보는오늘"
    ],
    "initialized": true,
-   "last_run": "2026-07-29T06:45:24.573499+09:00"
+   "last_run": "2026-07-29T06:50:32.860149+09:00"
   }
  },
  "press_names": {
