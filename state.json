@@ -618,15 +618,21 @@
     [
      "2026-07-29T07:20:27.066009+09:00",
      "newspapers Korean major headlines Top in"
+    ],
+    [
+     "2026-07-29T07:25:20.258833+09:00",
+     "ADR 지속될 시작 프리미엄 SK하이닉스 상호전환"
+    ],
+    [
+     "2026-07-29T07:25:20.258833+09:00",
+     "잔고 증시에 개미들 두둑해지는 널뛰기 찾는 커버드콜ETF 실전재테"
+    ],
+    [
+     "2026-07-29T07:25:20.258833+09:00",
+     "칠레 구자은 에너지 장인화 최윤범 이우현 찾아 기업인 분야"
     ]
    ],
    "seen_urls": [
-    "https://www.globale.co.kr/news/articleView.html?idxno=39562",
-    "https://www.segye.com/newsView/20260728508585?OutUrl=naver",
-    "https://www.kmib.co.kr/article/view.asp?arcid=0030172610&code=61141211&cp=nv",
-    "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87174",
-    "https://www.news1.kr/local/gwangju-jeonnam/6241309",
-    "http://www.metroseoul.co.kr/article/20260728500230",
     "https://sports.khan.co.kr/article/202607281325003?pt=nv",
     "https://www.joongangenews.com/news/articleView.html?idxno=535940",
     "https://www.ytn.co.kr/_ln/0102_202607281327315631",
@@ -2120,15 +2126,15 @@
     "https://www.seoul.co.kr/news/politics/2026/07/29/20260729500014?wlog_tag3=naver",
     "http://www.newsian.co.kr/news/articleView.html?idxno=92903",
     "https://www.topstarnews.net/news/articleView.html?idxno=16148436",
-    "https://en.yna.co.kr/view/AEN20260729000600320?input=2106m"
+    "https://en.yna.co.kr/view/AEN20260729000600320?input=2106m",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=280464",
+    "https://www.hani.co.kr/arti/politics/bluehouse/1270427.html",
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208835",
+    "https://www.econovill.com/news/articleView.html?idxno=746488",
+    "https://view.asiae.co.kr/article/2026072814413129997",
+    "https://www.greened.kr/news/articleView.html?idxno=346195"
    ],
    "seen_titles": [
-    "삼전닉스폭락에…단일종목레버리지ETF25~30%↓",
-    "'선두서울울린1골1도움'울산이동경,K리그120라운드MVP",
-    "독일최대경제지\"한·일,7300조로'소버린AI'구축…미·중양강에균...",
-    "[외환]증시급락·외인주식매도에강보합…0.70원↑",
-    "[팩트체크]AI데이터센터550조원,이미확보된자금일까",
-    "亞증시,반도체매도세심화속대부분하락…홍콩만상승",
     "코스피급락發위험회피…국고3년2.3bp↓",
     "삼성전자·SK하이닉스폭락에코스피·코스닥서킷브레이커",
     "SK하이닉스도결국공모가하회···美초대형IPO냉각기류확산",
@@ -3622,10 +3628,16 @@
     "김용범,코스피급변동에“AI혁명에대한확신이덜한것”",
     "한·브라질경제협력'새판'…민항기·공급망·K뷰티로미래산업맞손",
     "쑨급등·이더리움상승·리플XRP보합…연준경계",
-    "TopheadlinesinmajorS.Koreannewspapers"
+    "TopheadlinesinmajorS.Koreannewspapers",
+    "뉴욕증시,반도체약세에혼조...다우존스1%↑",
+    "김용범“단일종목레버리지ETF포함시장변동성전반점검”",
+    "반토막난'삼전닉스'레버리지…금융당국\"투자제한20%검토\"",
+    "SK하이닉스ADR상호전환시작…30%대프리미엄지속될듯",
+    "널뛰기증시에더두둑해지는잔고…커버드콜ETF찾는개미들[실전재테...",
+    "장인화·구자은·최윤범·이우현등기업인,칠레찾아에너지분야경..."
    ],
    "initialized": true,
-   "last_run": "2026-07-29T07:20:27.066009+09:00"
+   "last_run": "2026-07-29T07:25:20.258833+09:00"
   }
  },
  "press_names": {
