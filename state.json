@@ -262,12 +262,21 @@
     [
      "2026-07-29T04:25:23.968304+09:00",
      "오픈 견본주택 SK뷰 SK에코플랜트 의왕역"
+    ],
+    [
+     "2026-07-29T04:35:21.673133+09:00",
+     "뜬다 위엔 그림 창가에 하우스갤러리 식탁 아트"
+    ],
+    [
+     "2026-07-29T04:35:21.673133+09:00",
+     "시험대 호남 갈등 전력망 해법은 반도체가 지산지소"
+    ],
+    [
+     "2026-07-29T04:35:21.673133+09:00",
+     "고집 이동 남았다 개방형으로 미국 폐쇄형 앤트로픽만 무게추"
     ]
    ],
    "seen_urls": [
-    "https://www.tleaves.co.kr/news/articleView.html?idxno=9613",
-    "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/28/20260728500091?wlog_tag3=naver",
-    "https://www.tokenpost.kr/news/breaking/382056",
     "https://www.econovill.com/news/articleView.html?idxno=746398",
     "https://biz.heraldcorp.com/article/10822649",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1718065",
@@ -1764,12 +1773,12 @@
     "https://www.mt.co.kr/opinion/2026/07/29/2026072816072072468",
     "https://www.g-enews.com/view.php?ud=202607281858208951fbbec65dfb_1",
     "https://www.news2day.co.kr/article/20260728500155",
-    "https://www.hankookilbo.com/news/article/A2026072814130005914?did=NA"
+    "https://www.hankookilbo.com/news/article/A2026072814130005914?did=NA",
+    "https://www.donga.com/news/Culture/article/all/20260729/134383775/2",
+    "https://www.hankookilbo.com/news/article/A2026072311040005232?did=NA",
+    "https://www.hankookilbo.com/news/article/A2026072810000005363?did=NA"
    ],
    "seen_titles": [
-    "미·중악재연타에코스피·코스닥서킷브레이커동시발동",
-    "[위클리오늘]이동통신소식_LG유플러스,SK텔레콤,KT(7.28)",
-    "[특징주]씨피시스템,\"韓1,375조빅테크AI협력\"에스마트팩토리수혜...",
     "경단녀·육아맘포용하는SK인텔릭스…자율적인활동등보장",
     "이홍근경기도의원,우만테크노밸리내SK브로드밴드방송국침수피해...",
     "하이퍼리퀴드SKHX17.9%급락…4시간청산액바이낸스추월",
@@ -3266,10 +3275,13 @@
     "창신메모리상장,메모리사이클까지바꾸나[광화문]",
     "오라클CDS사상최고…빅테크숨은부채2408조원",
     "[N2인터뷰]홍춘욱대표“코스피바닥아직모른다…‘주식몰빵’말...",
-    "SK에코플랜트,‘의왕역SK뷰’견본주택오픈"
+    "SK에코플랜트,‘의왕역SK뷰’견본주택오픈",
+    "창가에그림,식탁위엔아트등…‘하우스갤러리’뜬다",
+    "전력망갈등해법은'지산지소'?호남반도체가시험대",
+    "'폐쇄형고집'미국AI,개방형으로무게추이동…앤트로픽만남았다"
    ],
    "initialized": true,
-   "last_run": "2026-07-29T04:30:39.967039+09:00"
+   "last_run": "2026-07-29T04:35:21.673133+09:00"
   }
  },
  "press_names": {
