@@ -382,11 +382,13 @@
     [
      "2026-07-29T05:30:37.812118+09:00",
      "혼조 뉴욕증시 마감 멈춤 잠시 랠리"
+    ],
+    [
+     "2026-07-29T05:35:28.658527+09:00",
+     "반도체는 하락에 약세 급등 실적 다우 나흘째 유가 뉴욕 537포인트 is"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260728073800003?input=1195m",
-    "https://www.nocutnews.co.kr/news/6554339",
     "https://www.donga.com/news/It/article/all/20260728/134377674/1",
     "https://www.news1.kr/finance/general-stock/6241229",
     "https://www.businesspost.co.kr/BP?command=article_view&num=443303",
@@ -1884,11 +1886,11 @@
     "https://www.joongang.co.kr/article/25448987",
     "https://www.ytn.co.kr/_ln/0102_202607290517236260",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4427352",
-    "https://biz.chosun.com/international/international_economy/2026/07/29/B2VRKTLNTRFJJNIQTO5ZWRL7QM/"
+    "https://biz.chosun.com/international/international_economy/2026/07/29/B2VRKTLNTRFJJNIQTO5ZWRL7QM/",
+    "https://www.newsis.com/view/NISX20260728_0003727019",
+    "https://news.mtn.co.kr/news-detail/2026072905273638977"
    ],
    "seen_titles": [
-    "[일본특징주]키옥시아,5만엔붕괴...AI투자과열우려에18%급락",
-    "'초반부터이변속출'코리아컵3라운드에서도'자이언트킬링'나올까...",
     "KoreapushesleveragedETFtradesawayfrommarketclose",
     "[무등의아침]갈길바쁜KIA,투수진난조…‘에이스’올러,나쁜흐...",
     "1000원팔아760원남길까···SK하이닉스영업이익률76%전망",
@@ -3386,10 +3388,12 @@
     "李“한·브라질기업인힘모으면글로벌항공시장주도할것”",
     "■7월29일수경제캘린더",
     "李대통령\"韓기술·브라질자원결합…민항기·핵심광물·K뷰티큰성과...",
-    "AI랠리‘잠시멈춤’...뉴욕증시,혼조마감"
+    "AI랠리‘잠시멈춤’...뉴욕증시,혼조마감",
+    "메모리IPO릴레이에중국산DUV까지…中반도체굴기'2막'여파는",
+    "실적·유가하락에다우537포인트급등…반도체는나흘째약세[뉴욕is..."
    ],
    "initialized": true,
-   "last_run": "2026-07-29T05:30:37.812118+09:00"
+   "last_run": "2026-07-29T05:35:28.658527+09:00"
   }
  },
  "press_names": {
