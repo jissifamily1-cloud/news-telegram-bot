@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-28T15:55:19.483300+09:00",
-     "개미 LG전자 버린 삼전닉 최애주 현대차 모비스 상반기 하락장서"
-    ],
-    [
-     "2026-07-28T15:55:19.483300+09:00",
-     "흔들렸다 때보다 나는 현기증 외환위기 롤러코스피"
-    ],
-    [
-     "2026-07-28T15:55:19.483300+09:00",
-     "SK이노 본궤도 프로젝트 바로사 본격화 밸류체인"
-    ],
-    [
      "2026-07-28T16:00:46.378564+09:00",
      "초격차 HBM K반도체 점유율 유지 안간힘"
     ],
@@ -990,11 +978,13 @@
     [
      "2026-07-28T21:50:32.151551+09:00",
      "투자 우려에 녹다운 증설 돌려막기 엔비디아 증시 CXMT"
+    ],
+    [
+     "2026-07-28T21:55:20.772435+09:00",
+     "빅테크들 우려 키운다 붕괴 버블 빠진 순환거래"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260728064600054?input=1195m",
-    "http://www.seouleconews.com/news/articleView.html?idxno=92659",
     "https://www.topstarnews.net/news/articleView.html?idxno=16147552",
     "https://www.ajunews.com/view/20260728101333679",
     "https://www.livebiz.today/news/articleView.html?idxno=203631",
@@ -2492,11 +2482,11 @@
     "https://www.ulsanpress.net/news/articleView.html?idxno=580024",
     "https://www.mk.co.kr/article/12109892",
     "https://www.bloter.net/news/articleView.html?idxno=669289",
-    "https://www.donga.com/news/Economy/article/all/20260728/134380550/1"
+    "https://www.donga.com/news/Economy/article/all/20260728/134380550/1",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=555200",
+    "https://www.khan.co.kr/article/202607282152005"
    ],
    "seen_titles": [
-    "'검은화요일'코스피비명…외국인2.3조'팔자'에서킷브레이커까지",
-    "[오늘외환딜러환율예상레인지]",
     "중국산메모리대공습…코스피8%폭락",
     "\"여기가수혜단지\"광주분양아파트마케팅'반도체'초점",
     "코스피,美악재로6,300선3개월만에깨져...삼전8%대·닉스10%대급락",
@@ -3994,10 +3984,12 @@
     "동남권,제조업생산24.6%차지조선·자동차·석유화학핵심기지",
     "“中CXMT상장보다‘이것’개발이더큰충격”…반도체주흔든주범...",
     "'위성통신'스카일로,한국시장노크…SKT·KT·LGU+협력논의",
-    "中CXMT증설-엔비디아‘투자돌려막기’우려에韓증시녹다운"
+    "中CXMT증설-엔비디아‘투자돌려막기’우려에韓증시녹다운",
+    "코스피10.8%폭락…장중6천선붕괴",
+    "‘순환거래’늪빠진AI빅테크들…‘버블붕괴’우려키운다"
    ],
    "initialized": true,
-   "last_run": "2026-07-28T21:50:32.151551+09:00"
+   "last_run": "2026-07-28T21:55:20.772435+09:00"
   }
  },
  "press_names": {
