@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-28T07:40:25.476237+09:00",
-     "확인 코스피 버블은 불가능하다 회복하며 저점 가능성"
-    ],
-    [
      "2026-07-28T07:41:48.484713+09:00",
      "가계 비중 총리 부동산 마련 순자산 해결책"
     ],
@@ -1250,17 +1246,21 @@
     [
      "2026-07-28T13:35:27.420546+09:00",
      "방사선 양성자가속기 경쟁력 반도체 국가 경주 키운다 신뢰성"
+    ],
+    [
+     "2026-07-28T13:40:25.741777+09:00",
+     "플랫폼 롯데렌탈 인수 시동 모빌리티 검토 도약 한국앤컴퍼니"
+    ],
+    [
+     "2026-07-28T13:40:25.741777+09:00",
+     "지지선은 겹쳐 1차 악재가 000선 한번에"
+    ],
+    [
+     "2026-07-28T13:40:25.741777+09:00",
+     "남미 총수 재계 띄우고 동맹 자원벨트로 반도 이재명"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12108691",
-    "https://www.hankyung.com/article/2026072789761",
-    "https://www.mk.co.kr/article/12108686",
-    "https://www.sedaily.com/article/20072467",
-    "https://www.sedaily.com/article/20072465",
-    "https://www.segye.com/newsView/20260727515015?OutUrl=naver",
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5208517",
-    "https://biz.heraldcorp.com/article/10821923",
     "https://biz.sbs.co.kr/article_hub/20000324840?division=NAVER",
     "http://www.yonhapnewstv.co.kr/news/MYH20260727180258QAx",
     "http://www.newstomato.com/ReadNews.aspx?no=1308397&inflow=N",
@@ -2752,17 +2752,17 @@
     "https://www.hankookilbo.com/news/article/A2026072809210001766?did=NA",
     "http://www.dailypop.kr/news/articleView.html?idxno=100967",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045282",
-    "https://www.kbmaeil.com/article/20260728500382"
+    "https://www.kbmaeil.com/article/20260728500382",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=04241046645519112",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607280367&t=NN",
+    "https://biz.sbs.co.kr/article_hub/20000325099?division=NAVER",
+    "https://www.g-enews.com/view.php?ud=202607281314383363923c501012_1",
+    "https://news.mtn.co.kr/news-detail/2026072813330271018",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=313399",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4427259",
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578743593696"
    ],
    "seen_titles": [
-    "'中반도체기업'CXMT,상장첫날시총1위등극…美인텔넘어",
-    "[천지일보사설]AI대한민국을만들어라",
-    "'중국판삼전'창신메모리,상장과동시에시총1위",
-    "[특징주]가온칩스,\"韓1,375조규모빅테크협력\"한·미AI동맹에'반...",
-    "美'원투펀치'에쓰러진日NEC·도시바…삼전닉스에재연될까",
-    "반도체산업계,'PFAS'저감·대체에집중하는이유",
-    "똑같이삼닉담았지만…가치주ETF는든든",
-    "40년전日처럼…韓반도체평행이론?",
     "韓제조업,10년새수도권으로더쏠렸다",
     "‘550조’AIDC메가프로젝트에국민성장펀드힘싣나",
     "원화강세에美지수ETF희비…환헤지형선방",
@@ -4254,10 +4254,18 @@
     "요동치는닛케이지수에…日언론\"삼전닉스레버리지영향커\"",
     "SKT,'독자AI'기반생태계확장…스타트업육성부터고객참여까지A...",
     "이통3사,갤Z8출시맞춰가입자경쟁…OTT·호텔·쇼핑혜택승부",
-    "경주양성자가속기,K-반도체경쟁력키운다…‘방사선신뢰성’국가..."
+    "경주양성자가속기,K-반도체경쟁력키운다…‘방사선신뢰성’국가...",
+    "삼전닉스ETF국가배상검토?김은혜“사실아냐”보도부인",
+    "\"어디가가장꿀?\"…이통3사,폴드8사전예약프로모션",
+    "코스피부진에떠나는서학개미…이달美주식5조넘게순매수",
+    "‘검은화요일’코스피,6000피사수‘안간힘’",
+    "높은수익률·상품다변화주효…'반도체투자원조'ACEETF부각",
+    "한국앤컴퍼니,롯데렌탈인수검토…모빌리티플랫폼도약시동",
+    "[증시긴급진단]\"악재가한번에겹쳐…1차지지선은5,000선\"",
+    "[메가Pick]AI동맹띄우고남미자원벨트로…이재명·재계총수,'반도..."
    ],
    "initialized": true,
-   "last_run": "2026-07-28T13:35:27.420546+09:00"
+   "last_run": "2026-07-28T13:40:25.741777+09:00"
   }
  },
  "press_names": {
