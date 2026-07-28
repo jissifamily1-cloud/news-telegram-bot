@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-28T23:15:34.155738+09:00",
-     "참석 글로벌 협력 구글 최태원 동반 모색 확대 캠프 이재용"
-    ],
-    [
-     "2026-07-28T23:15:34.155738+09:00",
-     "사흘째 투자심리 반도체 SK하이닉스 악화에 급락 ADR"
-    ],
-    [
      "2026-07-28T23:20:32.505254+09:00",
      "게임체인 월가 올인한 CXMT는 보는 중국 HBM만 DDR5에"
     ],
@@ -362,13 +354,13 @@
     [
      "2026-07-29T05:15:31.566162+09:00",
      "촉발한 처방만 언제까지 불안 땜질 증시 레버리지가"
+    ],
+    [
+     "2026-07-29T05:20:27.618062+09:00",
+     "Soccer League Champions Britain"
     ]
    ],
    "seen_urls": [
-    "https://weekly.donga.com/3/all/11/6324508/1",
-    "https://www.livebiz.today/news/articleView.html?idxno=203634",
-    "https://www.techm.kr/news/articleView.html?idxno=153754",
-    "https://biz.heraldcorp.com/article/10822718",
     "https://view.asiae.co.kr/article/2026072810302678204",
     "https://www.newspim.com/news/view/20260728000505",
     "https://www.nocutnews.co.kr/news/6554338",
@@ -1864,10 +1856,13 @@
     "https://www.chosun.com/international/international_general/2026/07/29/IXSSNIAANZCTHEEKJEFCV2ZA7A/",
     "https://www.mediapen.com/news/view/1112821",
     "https://www.seoul.co.kr/news/editOpinion/editorial/2026/07/29/20260729027004?wlog_tag3=naver",
-    "https://www.busan.com/view/busan/view.php?code=2026072818105546565"
+    "https://www.busan.com/view/busan/view.php?code=2026072818105546565",
+    "https://n.news.naver.com/mnews/article/077/0007106864",
+    "https://n.news.naver.com/mnews/article/077/0007106861",
+    "https://n.news.naver.com/mnews/article/077/0007106863",
+    "https://n.news.naver.com/mnews/article/077/0007106867"
    ],
    "seen_titles": [
-    "삼전닉스·CXMT·키옥시아…세계증시흔드는한중일‘AI반도체’",
     "SK하이닉스,LPDDR6양산샤오미첫공급[H-EXCLUSIVE]",
     "금융위\"단일종목레버리지ETF과열안잡히면추가규제\"",
     "CXMT성공적상장에고무된中…\"메모리3강체제흔들것\"",
@@ -3366,10 +3361,11 @@
     "기업실적이뉴욕증시살렸다,반도체약세에도상승마감",
     "[美증시특징주]샌디스크3000달러간다더니...한달만에주가반토막",
     "[사설]구멍숭숭뚫린정부사이버안보,이래놓고민간에만엄포",
-    "[사설]레버리지가촉발한증시불안,언제까지땜질처방만…"
+    "[사설]레버리지가촉발한증시불안,언제까지땜질처방만…",
+    "BritainChampionsLeagueSoccer"
    ],
    "initialized": true,
-   "last_run": "2026-07-29T05:15:31.566162+09:00"
+   "last_run": "2026-07-29T05:20:27.618062+09:00"
   }
  },
  "press_names": {
