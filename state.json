@@ -1226,11 +1226,17 @@
     [
      "2026-07-28T20:55:26.884127+09:00",
      "고점 대비 폭락 4분의 단일종목레버리지 1로"
+    ],
+    [
+     "2026-07-28T21:00:44.690740+09:00",
+     "주요기사 아침의 비즈니스포스트"
+    ],
+    [
+     "2026-07-28T21:00:44.690740+09:00",
+     "검토 레버리지 삼전닉스 투자 제한도 잡기 총력 변동성 비중"
     ]
    ],
    "seen_urls": [
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8621849",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4427219",
     "http://www.yonhapnewstv.co.kr/news/MYH20260728103326P0X",
     "http://www.thevaluenews.co.kr/news/view.php?idx=200348",
     "https://www.mk.co.kr/article/12109162",
@@ -2728,11 +2734,11 @@
     "https://www.greened.kr/news/articleView.html?idxno=346187",
     "http://www.yonhapnewstv.co.kr/news/MYH20260728205052yRa",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=06176246645519112",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260728205147eWw"
+    "http://www.yonhapnewstv.co.kr/news/MYH20260728205147eWw",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=443378",
+    "https://www.khan.co.kr/article/202607282056005"
    ],
    "seen_titles": [
-    "창신메모리후폭풍검은화요일...코스피7%하락ㆍ외인1조엑시트",
-    "코스피,사이드카이어서킷브레이커…낙폭8%대(종합2보)",
     "엔비디아,AI보안연합결성···네이버·SKT창립멤버로",
     "국민이‘국산AI’직접평가한다…200명평가단공모",
     "서킷브레이커까지부른폭락장…\"과매도국면,실적발표가반전계기\"",
@@ -4230,10 +4236,12 @@
     "[데이터뉴스룸]에너지業10곳중6곳꼴시총하락에침울…LS일렉트릭...",
     "미중반도체쇼크에'검은화요일'…코스피장중6,000붕괴",
     "[미리보는이데일리신문]EUV대체장비양산…中반도체자립속도",
-    "단일종목레버리지고점대비4분의1로폭락"
+    "단일종목레버리지고점대비4분의1로폭락",
+    "[7월29일자]비즈니스포스트아침의주요기사",
+    "“삼전닉스레버리지투자비중20%제한도검토”…변동성잡기총력"
    ],
    "initialized": true,
-   "last_run": "2026-07-28T20:55:26.884127+09:00"
+   "last_run": "2026-07-28T21:00:44.690740+09:00"
   }
  },
  "press_names": {
