@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-28T06:10:33.140140+09:00",
-     "이하 성적표 보수에 액티브 코스닥 기대 ETF"
-    ],
-    [
-     "2026-07-28T06:10:33.140140+09:00",
-     "AI에 초우량 SK텔레콤 신용도 AAA fn마켓워치 5조 투입하는 지킬까"
-    ],
-    [
      "2026-07-28T06:15:32.232163+09:00",
      "증발한 9500억달러 삼전 하이닉스 피크아웃 AI동맹 한달새 1100조"
     ],
@@ -1262,14 +1254,13 @@
     [
      "2026-07-28T12:10:24.945162+09:00",
      "스포츠로 내려놓고 경기교육 예술 안민석의 휴대폰 대전환"
+    ],
+    [
+     "2026-07-28T12:15:24.878628+09:00",
+     "캐나다 매각 추산 에코프로비엠 1600억원 회수액 검토 공장 양극재"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04142646645518784",
-    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005888302",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=142124",
-    "https://www.dailian.co.kr/news/view/1671412/?sc=Naver",
-    "http://news.lghellovision.net/news/articleView.html?idxno=549445",
     "https://www.huffingtonpost.kr/article/259041",
     "http://www.doctorstimes.com/news/articleView.html?idxno=239220",
     "https://www.joongdo.co.kr/web/view.php?key=20260727010007937",
@@ -2764,14 +2755,14 @@
     "https://www.econovill.com/news/articleView.html?idxno=746411",
     "https://www.munhwa.com/article/11605546",
     "https://www.pressian.com/pages/articles/2026072812043908159",
-    "https://www.news1.kr/local/gyeonggi/6241280"
+    "https://www.news1.kr/local/gyeonggi/6241280",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008678289&plink=ORI&cooper=NAVER",
+    "https://www.thepowernews.co.kr/view.php?ud=202607281208428669de3f0aa1be_7",
+    "https://sateconomy.co.kr/news/view/1065578535593400",
+    "https://www.hankyung.com/article/2026072803246",
+    "http://www.press9.kr/news/articleView.html?idxno=80165"
    ],
    "seen_titles": [
-    "대학생이일하고싶은기업,SK하이닉스2연패",
-    "코리아컵3라운드29일킥오프,K리그1참가'자이언트킬링'의시간",
-    "SK매직,'메가아이스'로성수기시장공략...6월얼음정수기판매량50...",
-    "규제하면더빠진다…中증시폭락이남긴레버리지경고",
-    "이재용·최태원,샌프란이어나란히시칠리아로…구글캠프참석",
     "삼성·SK,광주군공항부지답사…반도체투자본격화",
     "노무라\"CXMT,공모가대비1200%이상상승가능성\"",
     "레버리지ETF보완대책조기시행…\"회전율감소에영향\"",
@@ -4266,10 +4257,15 @@
     "[피지컬AIx자율주행⑬]\"자율주행차는혼자달려도서비스는함께만...",
     "‘AI투자의역설’…애플,엔비디아제치고시총1위탈환",
     "[속보]코스피,美'엔비디아'쇼크에6천선까지위협…서킷브레이커도...",
-    "휴대폰내려놓고책·예술·스포츠로…안민석의'경기교육대전환'"
+    "휴대폰내려놓고책·예술·스포츠로…안민석의'경기교육대전환'",
+    "'반도체투톱'도급락…올해8번째서킷브레이커",
+    "반도체투톱무너지자코스피멈췄다…10거래일만에서킷브레이커",
+    "통신3사,갤럭시Z폴드8사전예약돌입…콘텐츠·보상혜택경쟁",
+    "[속보]'검은화요일'코스피이어코스닥'서킷브레이커'발동",
+    "에코프로비엠,캐나다양극재공장매각검토…회수액1600억원추산"
    ],
    "initialized": true,
-   "last_run": "2026-07-28T12:10:24.945162+09:00"
+   "last_run": "2026-07-28T12:15:24.878628+09:00"
   }
  },
  "press_names": {
