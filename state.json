@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-29T01:40:28.498932+09:00",
-     "30일부터 LPG판매부과금 인하 충전소 283원 LPG가격"
-    ],
-    [
      "2026-07-29T01:45:26.967076+09:00",
      "SK하이닉스 엔비디아 NVDA 410달러 직격타 메모리주 추격"
     ],
@@ -690,14 +686,21 @@
     [
      "2026-07-29T07:40:26.706535+09:00",
      "돋보인 변동성 커버드콜 장세서 ETF 방어력 한투운용 ACE"
+    ],
+    [
+     "2026-07-29T07:44:42.587170+09:00",
+     "1주 허점 프리마켓 NXT SK하이닉스 주문으로 구조적 언제까지 하한가"
+    ],
+    [
+     "2026-07-29T07:44:42.587170+09:00",
+     "개미들 삼전닉스 레버리 진짜 15조 반토막 났다 무려 쓸어담았는데"
+    ],
+    [
+     "2026-07-29T07:44:42.587170+09:00",
+     "몰락 한국도 밟나 전철 반도체 역설 HBM 호황 40년 일본"
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/cryptocurrency/382109",
-    "https://magazine.hankyung.com/business/article/202607280412b",
-    "https://m.skyedaily.com/news_view.html?ID=308692",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=848583",
-    "https://www.yna.co.kr/view/AKR20260728086000083?input=1195m",
     "https://www.mk.co.kr/article/12109342",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4427260",
     "https://m.sports.naver.com/basketball/article/065/0000300059",
@@ -2192,14 +2195,14 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679593&plink=ORI&cooper=NAVER",
     "https://www.ajunews.com/view/20260729073532054",
     "https://slownews.kr/163871",
-    "https://view.asiae.co.kr/article/2026072809300643548"
+    "https://view.asiae.co.kr/article/2026072809300643548",
+    "https://www.news2day.co.kr/article/20260729500036",
+    "https://www.newsis.com/view/NISX20260729_0003727258",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=362710",
+    "https://www.sedaily.com/article/20073075",
+    "https://www.hidomin.com/news/articleView.html?idxno=715112"
    ],
    "seen_titles": [
-    "‘검은화요일’코스피,6000피사수‘안간힘’",
-    "높은수익률·상품다변화주효…'반도체투자원조'ACEETF부각",
-    "한국앤컴퍼니,롯데렌탈인수검토…모빌리티플랫폼도약시동",
-    "[증시긴급진단]\"악재가한번에겹쳐…1차지지선은5,000선\"",
-    "[메가Pick]AI동맹띄우고남미자원벨트로…이재명·재계총수,'반도...",
     "‘독파모’국민이직접써보고절대평가…정부,200명평가단공모",
     "위험회피심리환율1460원대중반등락",
     "상파울루도착李대통령,비즈니스라운드테이블통해양국핵심광물등...",
@@ -3694,10 +3697,15 @@
     "반도체폭락에'검은화요일'…장중6천선도붕괴",
     "[아주증시포커스]10%'털썩'또무너진코스피…이달만6번째급락外",
     "“대형사고”,이재명연임블랙홀에개헌논의물건너가나:슬로우...",
-    "한투운용'ACE커버드콜ETF'변동성장세서돋보인방어력"
+    "한투운용'ACE커버드콜ETF'변동성장세서돋보인방어력",
+    "반도체덮친美·中악재…삼성전자·SK하이닉스도'휘청'",
+    "[오늘의증시]美반도체또흔들렸다…'육천피붕괴위기감'속SK하닉...",
+    "1주주문으로SK하이닉스하한가…NXT프리마켓구조적허점언제까지",
+    "개미들무려15조쓸어담았는데“진짜반토막났다”…삼전닉스레버리...",
+    "'HBM호황'의역설...한국도40년전일본'반도체몰락'의전철밟나"
    ],
    "initialized": true,
-   "last_run": "2026-07-29T07:40:26.706535+09:00"
+   "last_run": "2026-07-29T07:44:42.587170+09:00"
   }
  },
  "press_names": {
