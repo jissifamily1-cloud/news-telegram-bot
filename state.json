@@ -414,10 +414,13 @@
     [
      "2026-07-29T01:05:20.925510+09:00",
      "검은 6천 다시 코스피 지켰다 간신히 화요일"
+    ],
+    [
+     "2026-07-29T01:40:28.498932+09:00",
+     "30일부터 LPG판매부과금 인하 충전소 283원 LPG가격"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03729366645519112",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=852892",
     "https://lawtalknews.co.kr/article/U01VK0P71S97",
     "https://economist.co.kr/article/view/ecn202607280009",
@@ -1916,10 +1919,10 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01275926645519440",
     "https://www.hankyung.com/article/202607291645i",
     "https://imnews.imbc.com/replay/2026/nw2500/article/6840759_36989.html",
-    "https://www.greened.kr/news/articleView.html?idxno=346193"
+    "https://www.greened.kr/news/articleView.html?idxno=346193",
+    "https://www.energy-news.co.kr/news/articleView.html?idxno=227095"
    ],
    "seen_titles": [
-    "AMD손잡은망고부스트,AI추론플랫폼상용화...시리즈B펀딩본격화",
     "[속보]SK하이닉스주가'150만닉스'로…양대지수급락속13%급락",
     "'검은화요일'현실화…코스피·코스닥,美·中발반도체악재에동반급...",
     "‘검은화요일’코스피·코스닥매도사이드카에서킷까지발동",
@@ -3418,10 +3421,11 @@
     "HBM질주이어갈까…SK하이닉스,오늘2분기성적표공개",
     "월가,이젠한국증시보고투자결정한다[박신영의개장전요것만]",
     "'코스피6천'간신히지켰다‥다시'검은화요일'",
-    "[뉴욕증시]반도체투매에도다우1%↑…엔비디아반등에나스닥낙폭축..."
+    "[뉴욕증시]반도체투매에도다우1%↑…엔비디아반등에나스닥낙폭축...",
+    "LPG판매부과금30일부터인하…충전소LPG가격.62.283원↓"
    ],
    "initialized": true,
-   "last_run": "2026-07-29T01:35:27.190566+09:00"
+   "last_run": "2026-07-29T01:40:28.498932+09:00"
   }
  },
  "press_names": {
