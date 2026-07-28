@@ -378,11 +378,13 @@
     [
      "2026-07-29T05:25:22.305068+09:00",
      "7월 경제 29일 캘린더"
+    ],
+    [
+     "2026-07-29T05:30:37.812118+09:00",
+     "혼조 뉴욕증시 마감 멈춤 잠시 랠리"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03821206645519112",
-    "https://www.newspim.com/news/view/20260728000410",
     "https://www.yna.co.kr/view/AKR20260728073800003?input=1195m",
     "https://www.nocutnews.co.kr/news/6554339",
     "https://www.donga.com/news/It/article/all/20260728/134377674/1",
@@ -1880,11 +1882,11 @@
     "https://www.news1.kr/world/international-economy/6242011",
     "https://www.news1.kr/politics/president/6242005",
     "https://www.joongang.co.kr/article/25448987",
-    "https://www.ytn.co.kr/_ln/0102_202607290517236260"
+    "https://www.ytn.co.kr/_ln/0102_202607290517236260",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4427352",
+    "https://biz.chosun.com/international/international_economy/2026/07/29/B2VRKTLNTRFJJNIQTO5ZWRL7QM/"
    ],
    "seen_titles": [
-    "미·중반도체쇼크에코스피‘검은화요일’",
-    "CXMT상장첫날466%급등…창업자도20조원'잭팟'",
     "[일본특징주]키옥시아,5만엔붕괴...AI투자과열우려에18%급락",
     "'초반부터이변속출'코리아컵3라운드에서도'자이언트킬링'나올까...",
     "KoreapushesleveragedETFtradesawayfrommarketclose",
@@ -3382,10 +3384,12 @@
     "美반도체주투매지속…마이크론·SK하닉ADR9%가까이급락",
     "李대통령\"동반성장최적파트너\"…브라질부통령\"함께날아오를준비...",
     "李“한·브라질기업인힘모으면글로벌항공시장주도할것”",
-    "■7월29일수경제캘린더"
+    "■7월29일수경제캘린더",
+    "李대통령\"韓기술·브라질자원결합…민항기·핵심광물·K뷰티큰성과...",
+    "AI랠리‘잠시멈춤’...뉴욕증시,혼조마감"
    ],
    "initialized": true,
-   "last_run": "2026-07-29T05:25:22.305068+09:00"
+   "last_run": "2026-07-29T05:30:37.812118+09:00"
   }
  },
  "press_names": {
