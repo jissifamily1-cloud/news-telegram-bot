@@ -437,7 +437,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.imaeil.com/page/view/2026072811011389718",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=03729366645519112",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=852892",
     "https://lawtalknews.co.kr/article/U01VK0P71S97",
@@ -1936,10 +1935,10 @@
     "https://www.chosun.com/economy/money/2026/07/29/6QLZ6ZI44JH5JAITTSHV5OBZT4/",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01275926645519440",
     "https://www.hankyung.com/article/202607291645i",
-    "https://imnews.imbc.com/replay/2026/nw2500/article/6840759_36989.html"
+    "https://imnews.imbc.com/replay/2026/nw2500/article/6840759_36989.html",
+    "https://www.greened.kr/news/articleView.html?idxno=346193"
    ],
    "seen_titles": [
-    "코스피,8%급락한6200선…올해8번째서킷브레이커발동",
     "AMD손잡은망고부스트,AI추론플랫폼상용화...시리즈B펀딩본격화",
     "[속보]SK하이닉스주가'150만닉스'로…양대지수급락속13%급락",
     "'검은화요일'현실화…코스피·코스닥,美·中발반도체악재에동반급...",
@@ -3438,10 +3437,11 @@
     "中반도체일어서자,코스피주저앉았다",
     "HBM질주이어갈까…SK하이닉스,오늘2분기성적표공개",
     "월가,이젠한국증시보고투자결정한다[박신영의개장전요것만]",
-    "'코스피6천'간신히지켰다‥다시'검은화요일'"
+    "'코스피6천'간신히지켰다‥다시'검은화요일'",
+    "[뉴욕증시]반도체투매에도다우1%↑…엔비디아반등에나스닥낙폭축..."
    ],
    "initialized": true,
-   "last_run": "2026-07-29T01:25:20.804902+09:00"
+   "last_run": "2026-07-29T01:30:32.135176+09:00"
   }
  },
  "press_names": {
