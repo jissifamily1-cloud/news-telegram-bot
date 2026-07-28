@@ -258,10 +258,13 @@
     [
      "2026-07-29T04:20:33.161823+09:00",
      "주식 바닥 홍춘욱 몰빵 아직 모른다 코스피 대표"
+    ],
+    [
+     "2026-07-29T04:25:23.968304+09:00",
+     "오픈 견본주택 SK뷰 SK에코플랜트 의왕역"
     ]
    ],
    "seen_urls": [
-    "https://www.widedaily.com/news/articleView.html?idxno=298286",
     "https://www.tleaves.co.kr/news/articleView.html?idxno=9613",
     "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/28/20260728500091?wlog_tag3=naver",
     "https://www.tokenpost.kr/news/breaking/382056",
@@ -1760,10 +1763,10 @@
     "https://www.mt.co.kr/estate/2026/07/29/2026072818382784463",
     "https://www.mt.co.kr/opinion/2026/07/29/2026072816072072468",
     "https://www.g-enews.com/view.php?ud=202607281858208951fbbec65dfb_1",
-    "https://www.news2day.co.kr/article/20260728500155"
+    "https://www.news2day.co.kr/article/20260728500155",
+    "https://www.hankookilbo.com/news/article/A2026072814130005914?did=NA"
    ],
    "seen_titles": [
-    "통신3사,'갤럭시Z8시리즈'사전예약…다양한혜택구성",
     "미·중악재연타에코스피·코스닥서킷브레이커동시발동",
     "[위클리오늘]이동통신소식_LG유플러스,SK텔레콤,KT(7.28)",
     "[특징주]씨피시스템,\"韓1,375조빅테크AI협력\"에스마트팩토리수혜...",
@@ -3262,10 +3265,11 @@
     "\"살만한집살래요\"…노도강집값들썩",
     "창신메모리상장,메모리사이클까지바꾸나[광화문]",
     "오라클CDS사상최고…빅테크숨은부채2408조원",
-    "[N2인터뷰]홍춘욱대표“코스피바닥아직모른다…‘주식몰빵’말..."
+    "[N2인터뷰]홍춘욱대표“코스피바닥아직모른다…‘주식몰빵’말...",
+    "SK에코플랜트,‘의왕역SK뷰’견본주택오픈"
    ],
    "initialized": true,
-   "last_run": "2026-07-29T04:20:33.161823+09:00"
+   "last_run": "2026-07-29T04:25:23.968304+09:00"
   }
  },
  "press_names": {
