@@ -609,7 +609,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607290358&t=NNv",
     "http://www.tjb.co.kr/sub0301/bodo/view/id/101668",
     "https://www.insight.co.kr/news/565275",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1718232",
@@ -2108,10 +2107,10 @@
     "https://www.hankyung.com/article/2026072938321",
     "https://www.chosun.com/international/international_general/2026/07/30/P5MVVUSNKZDVBHGBSQRAPHFRZU/",
     "https://www.sedaily.com/article/20073485",
-    "https://www.hankookilbo.com/news/article/A2026072916230001792?did=NA"
+    "https://www.hankookilbo.com/news/article/A2026072916230001792?did=NA",
+    "http://www.kwangju.co.kr/article.php?aid=1785338100801733074"
    ],
    "seen_titles": [
-    "한국독자AI박차,크래프톤음성파운데이션모델공개",
     "SK이노베이션E&S,부산서한·인니대학생AI아이디어경진대회개최",
     "코스피장중5300선붕괴...공포사로잡힌개미들'패닉셀'",
     "'검은수요일'재현…코스피·코스닥,이틀연속동반서킷브레이커",
@@ -3610,10 +3609,11 @@
     "[사설]초유의증시급락…정부정책되돌아봐야",
     "외신도걱정하는한국증시“투자자들,절망과좌절감확산”",
     "[사설]투전판된‘롤러코스피’…시장안정근본대책있기는한가",
-    "[사설]증시곡소리나는데레버리지책임회피만할건가"
+    "[사설]증시곡소리나는데레버리지책임회피만할건가",
+    "증시연일대폭락…변동성원인재점검필요"
    ],
    "initialized": true,
-   "last_run": "2026-07-30T00:15:33.563122+09:00"
+   "last_run": "2026-07-30T00:20:32.893164+09:00"
   }
  },
  "press_names": {
