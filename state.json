@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-29T23:20:37.127565+09:00",
-     "판결에 강조한 파기환송 이재명 윤석열 실형 조선일보"
-    ],
-    [
-     "2026-07-29T23:20:37.127565+09:00",
-     "초반대 달러 거래 450원 뉴욕장서"
-    ],
-    [
      "2026-07-29T23:30:36.583466+09:00",
      "사상 공포 이틀 동반 양시장 실적보다 강했던 연속 서킷브레이커"
     ],
@@ -326,12 +318,17 @@
     [
      "2026-07-30T05:15:34.258699+09:00",
      "날마다 도박판 패닉인데 찔끔 무책임 레버리지에 처방만"
+    ],
+    [
+     "2026-07-30T05:25:21.086403+09:00",
+     "3개월 낙폭 다우존스지수 하락 마감 뉴욕증시 1년 만에"
+    ],
+    [
+     "2026-07-30T05:25:21.086403+09:00",
+     "추가 나와 하다가 빠진 날렸다 56조 멘붕 하락 경고까지 물타기"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/PYH20260729143700061?input=1196m",
-    "https://www.yna.co.kr/view/PYH20260729143500061?input=1196m",
-    "https://www.yna.co.kr/view/PYH20260729144000061?input=1196m",
     "https://www.yna.co.kr/view/PYH20260729143800061?input=1196m",
     "https://www.joongang.co.kr/article/25449124",
     "https://www.ikbc.co.kr/article/view/kbc202607290041",
@@ -1828,12 +1825,12 @@
     "https://www.seoul.co.kr/news/economy/industry/2026/07/30/20260730032005?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/economy/IT/2026/07/30/20260730030003?wlog_tag3=naver",
     "https://www.the-today.com/news/articleView.html?idxno=87981",
-    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/07/30/20260730027001?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/07/30/20260730027001?wlog_tag3=naver",
+    "https://www.geconomy.co.kr/news/article.html?no=322323",
+    "https://biz.chosun.com/international/international_economy/2026/07/30/JEFKZGMVORD27NZ3FRZFHZVFAI/",
+    "http://www.fnnews.com/news/202607292024381202"
    ],
    "seen_titles": [
-    "\"통합따른갈등필연…전남광주시소모적갈등해결해야\"",
-    "靑\"주가하락,개인투자자역동성영향\"...금융위,보완책예고",
-    "정제마진치솟는데속타는정유업계…호황뒤숨은불확실성",
     "하루6700억씩번SK하이닉스…“10여개고객사장기공급계약체결”",
     "SK하이닉스2분기영업익60.5조…상반기100조육박",
     "SKBiopharmaceuticalsexpandsLatinAmericapushduringLeevisitwit",
@@ -3330,10 +3327,13 @@
     "예측할수없게진화하는AI공격위협…글로벌빅테크들AI보안에‘...",
     "‘독파모출사표’SKTAI,中동급성능",
     "30일부터'레버리지규제장세'…삼전·하이닉스또출렁이나",
-    "[사설]도박판레버리지에날마다패닉인데,무책임찔끔처방만"
+    "[사설]도박판레버리지에날마다패닉인데,무책임찔끔처방만",
+    "광주군공항부지,반도체국가산단첫관문넘었다",
+    "뉴욕증시,하락마감...다우존스지수,1년3개월만에최대낙폭",
+    "\"물타기하다가56조날렸다\"...추가하락경고까지나와'멘붕'빠진개..."
    ],
    "initialized": true,
-   "last_run": "2026-07-30T05:20:29.443708+09:00"
+   "last_run": "2026-07-30T05:25:21.086403+09:00"
   }
  },
  "press_names": {
