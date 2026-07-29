@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-29T23:30:36.583466+09:00",
-     "사상 공포 이틀 동반 양시장 실적보다 강했던 연속 서킷브레이커"
-    ],
-    [
-     "2026-07-29T23:30:36.583466+09:00",
-     "리스크 정부 증시 관리 중앙일보 한겨레 필요 조선 책임 급락에"
-    ],
-    [
      "2026-07-29T23:45:31.044762+09:00",
      "기록 경신 최고 93조 SK하이닉스 226억 순이익 실적 역대"
     ],
@@ -334,15 +326,29 @@
     [
      "2026-07-30T05:30:34.128341+09:00",
      "투심 되살릴까 삼전은 반도체 공개 성적표 2분기"
+    ],
+    [
+     "2026-07-30T05:35:21.816748+09:00",
+     "못한다 몰빵 앞으로 이미 레버리지 56조 손실 개미들"
+    ],
+    [
+     "2026-07-30T05:35:21.816748+09:00",
+     "정크등급 사상 최고 오라클 ORCL 경고등 부채보험"
+    ],
+    [
+     "2026-07-30T05:35:21.816748+09:00",
+     "bets Korea on policy industrial"
+    ],
+    [
+     "2026-07-30T05:35:21.816748+09:00",
+     "offensive chip China"
+    ],
+    [
+     "2026-07-30T05:35:21.816748+09:00",
+     "수율 양산 SK하이닉스 속도전 HBM4 삼성전자 마이크론 승부처는"
     ]
    ],
    "seen_urls": [
-    "https://www.ikbc.co.kr/article/view/kbc202607290041",
-    "https://www.donga.com/news/Health/article/all/20260729/134387128/1",
-    "https://www.pennmike.com/news/articleView.html?idxno=124630",
-    "http://sateconomy.co.kr/news/view/1065591704670233",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=92944",
-    "https://www.apnews.kr/news/articleView.html?idxno=3050140",
     "https://www.thepowernews.co.kr/view.php?ud=202607291441072936de3f0aa1be_7",
     "https://www.womentimes.co.kr/news/articleView.html?idxno=104793",
     "https://www.ziksir.com/news/articleView.html?idxno=141538",
@@ -1836,15 +1842,15 @@
     "https://biz.chosun.com/international/international_economy/2026/07/30/JEFKZGMVORD27NZ3FRZFHZVFAI/",
     "http://www.fnnews.com/news/202607292024381202",
     "http://www.fnnews.com/news/202607300521232078",
-    "https://www.dt.co.kr/article/12075546"
+    "https://www.dt.co.kr/article/12075546",
+    "https://www.newspim.com/news/view/20260730000023",
+    "https://www.thescoop.co.kr/news/articleView.html?idxno=311075",
+    "http://coinreaders.com/250266",
+    "https://www.koreaherald.com/article/10824720",
+    "https://www.koreaherald.com/article/10824826",
+    "https://www.newsis.com/view/NISX20260729_0003728645"
    ],
    "seen_titles": [
-    "SKBiopharmaceuticalsexpandsLatinAmericapushduringLeevisitwit",
-    "\"주식폭락?이제시작이야\",\"사이드카가모닝콜됐다\"…역대급롤러코...",
-    "SK하이닉스ADR,상장3주만에공모가하회…'AI거품론·중국추격'이...",
-    "원자력연,SK하이닉스와반도체협력강화…양성자가속기등공동활용",
-    "SK바이오팜,대통령경제사절단첫참여…브라질서중남미공략속도",
-    "SK하이닉스2분기실적도최고…영업이익률TSMC앞서",
     "'반도체투톱'폭락에코스피충격…SK하이닉스시총1천조무너졌다",
     "SK하이닉스사장단,광주군공항전격방문…800조반도체팹구축'속도...",
     "아시아증시급락에도비트코인상승…탈동조화신호커지나",
@@ -3338,10 +3344,16 @@
     "뉴욕증시,하락마감...다우존스지수,1년3개월만에최대낙폭",
     "\"물타기하다가56조날렸다\"...추가하락경고까지나와'멘붕'빠진개...",
     "[뉴욕증시]3대지수일제히하락…공포지수,20돌파",
-    "삼전은‘반도체투심’되살릴까…오늘2분기성적표공개"
+    "삼전은‘반도체투심’되살릴까…오늘2분기성적표공개",
+    "뉴욕증시,미연준금리동결속물가우려에일제히하락…다우2.19%↓",
+    "앞으로'레버리지몰빵'못한다…개미들이미56조손실",
+    "오라클(ORCL),AI부채보험사상최고...정크등급경고등",
+    "[LeeJong-Wha]Koreabetsonindustrialpolicy",
+    "[Editorial]China’schipoffensive",
+    "삼성전자·SK하이닉스·마이크론,HBM4양산속도전…승부처는'수율·공..."
    ],
    "initialized": true,
-   "last_run": "2026-07-30T05:30:34.128341+09:00"
+   "last_run": "2026-07-30T05:35:21.816748+09:00"
   }
  },
  "press_names": {
