@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-30T00:45:34.801865+09:00",
-     "000대로 없다 충격의 다시 실적 코스피"
-    ],
-    [
      "2026-07-30T00:55:44.317899+09:00",
      "짓눌렸다 하이닉스 고점 공포에 실적에도 반도체"
     ],
@@ -434,12 +430,17 @@
     [
      "2026-07-30T06:45:25.258361+09:00",
      "꺾어 하위리그 HD 반란 부산은 울산 시민이 잡고 서울 코리아컵"
+    ],
+    [
+     "2026-07-30T06:50:27.753574+09:00",
+     "BNK SK하이닉스 185만 목표주가 148만원"
+    ],
+    [
+     "2026-07-30T06:50:27.753574+09:00",
+     "어닝 서프라이즈도 통했다 고평가 시대 성장주"
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1672214/?sc=Naver",
-    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000542342",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607291455420700009",
     "https://www.news1.kr/industry/general-industry/6242841",
     "https://zdnet.co.kr/view/?no=20260729143214",
     "https://www.ddaily.co.kr/page/view/2026072914383440915",
@@ -1936,12 +1937,12 @@
     "http://www.newsian.co.kr/news/articleView.html?idxno=92966",
     "https://www.etoday.co.kr/news/view/2608984",
     "https://www.sedaily.com/article/20073555",
-    "https://www.mediapen.com/news/view/1113136"
+    "https://www.mediapen.com/news/view/1113136",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=315764",
+    "https://www.viewsnnews.com/article?q=237544",
+    "https://www.newsverse.kr/news/articleView.html?idxno=11050"
    ],
    "seen_titles": [
-    "IMF시절제치고月하락률'최대'…레버리지가부추긴코스피'투전판'",
-    "반도체끌고건설발목…충북경제상반기'불균형회복'",
-    "AIDC연합출범…SKT총괄·네이버·LG·카카오분과지휘",
     "영란은행,SK하이닉스·TSMC투자쏠림점검…\"AI반도체급락땐금융...",
     "[사설]SK하이닉스역대최고분기실적미래성장·수익성의심지웠다",
     "씨티\"한국개인투자자레버리지상품손실56조원추정\"",
@@ -3438,10 +3439,13 @@
     "연준금리동결에도뉴욕증시급락…AI투자부담에기술주일제히약세",
     "뉴욕증시,반도체추락에하락마감…다우까지2.2%↓[상보]",
     "역대급조정장에대규모유증까지…SK디앤디,하한가에‘52주신저가’...",
-    "울산시민이울산HD잡고,부산은서울꺾어…코리아컵하위리그반란..."
+    "울산시민이울산HD잡고,부산은서울꺾어…코리아컵하위리그반란...",
+    "대만리스크피했더니구마모토가…반도체공급망에타격",
+    "BNK또\"SK하이닉스목표주가185만→148만원\"",
+    "[오늘의경제뉴스]어닝서프라이즈도안통했다…성장주'고평가시대..."
    ],
    "initialized": true,
-   "last_run": "2026-07-30T06:45:25.258361+09:00"
+   "last_run": "2026-07-30T06:50:27.753574+09:00"
   }
  },
  "press_names": {
