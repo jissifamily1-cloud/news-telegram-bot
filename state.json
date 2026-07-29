@@ -514,18 +514,33 @@
     [
      "2026-07-30T07:05:28.449281+09:00",
      "newspapers in headlines Korean Top major"
+    ],
+    [
+     "2026-07-30T07:09:17.496363+09:00",
+     "반도체 HBM 원가 영향 엔비디아 조정 협상력 한국"
+    ],
+    [
+     "2026-07-30T07:09:17.496363+09:00",
+     "폭락장 구할 산다 버텨야 피난처는 개미"
+    ],
+    [
+     "2026-07-30T07:09:17.496363+09:00",
+     "LG에너지솔루션 삼성전자 HK이노엔"
+    ],
+    [
+     "2026-07-30T07:09:17.496363+09:00",
+     "막판 초읽기 2차 평가 전략 독파모 필승 4곳의 정예팀"
+    ],
+    [
+     "2026-07-30T07:09:17.496363+09:00",
+     "기술주 종목별 실적 뉴욕증시 특징주 흔들 명암 증시 악재에 갈린"
+    ],
+    [
+     "2026-07-30T07:09:17.496363+09:00",
+     "안착 우리투자증권 2년 출범 맞은 다음 과제 IB로 리테일"
     ]
    ],
    "seen_urls": [
-    "https://www.ekn.kr/web/view.php?key=20260729021087343",
-    "https://www.forbeskorea.co.kr/news/articleView.html?idxno=402338",
-    "https://www.dt.co.kr/article/12075455",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=05143046645519440",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045863",
-    "https://www.asiatime.co.kr/article/20260729500304",
-    "http://www.seouleconews.com/news/articleView.html?idxno=92713",
-    "https://news.dealsitetv.com/articles/173923",
-    "https://www.m-i.kr/news/articleView.html?idxno=1396734",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=853213",
     "https://www.tokenpost.kr/news/cryptocurrency/382549",
     "https://www.yna.co.kr/view/AKR20260729122600009?input=1195m",
@@ -2016,18 +2031,18 @@
     "https://biz.heraldcorp.com/article/10824982",
     "https://www.yna.co.kr/view/AKR20260729154800005?input=1195m",
     "https://www.businesspost.co.kr/BP?command=article_view&num=443377",
-    "https://en.yna.co.kr/view/AEN20260730000800315?input=2106m"
+    "https://en.yna.co.kr/view/AEN20260730000800315?input=2106m",
+    "https://www.ajunews.com/view/20260730070141218",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=142267",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607300286&t=NN",
+    "https://www.g-enews.com/view.php?ud=202607300651534238fbbec65dfb_1",
+    "https://www.dailian.co.kr/news/view/1672295/?sc=Naver",
+    "https://www.etoday.co.kr/news/view/2608992",
+    "https://www.newsway.co.kr/news/view?ud=2026072915583334160",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607300318&t=NN",
+    "https://www.ngetnews.com/news/articleView.html?idxno=551953"
    ],
    "seen_titles": [
-    "LeveragedETFreversaltestsKorea’sregulatorycredibility",
-    "“책임무겁게받아들인다”…레버리지논란에고개숙인당국",
-    "AI데이터센터얼라이언스출범…\"AIDC건설은수출·산업화기회\"",
-    "'60조잭팟'축포후광주로…SK하닉사장단,새팹부지점검",
-    "[사설]‘국장이탈지능순’,이말유행하지않게하라",
-    "SK하이닉스추종선물19%급락…운영사보상나섰다",
-    "배경훈부총리\"AIDC얼라이언스,글로벌지능수출국도약출발점\"",
-    "SK케미칼,폐현수막순환경제파트너모집…전국공급망구축추진",
-    "크래프톤,음성AI파운데이션모델'A.XK2Raon-Speech'허깅페이스공...",
     "[시험대오른정철동매직⑤]LGD,추락언제까지…MSCI편출우려도",
     "AI인재58만명공백경고…통신3사,정부전략발표앞두고‘인재확보...",
     "[한국인이주목한수입차브랜드20]테슬라의독주,벤츠의여진,BYD의...",
@@ -3518,10 +3533,19 @@
     "경주시,산·학·연협력확대…반도체·우주항공·차세대원자력육성",
     "발달장애인들의음악축제…'그레이트뮤직페스티벌'9월개최",
     "[WhoIs?]허동수학교법인연세대학교이사장겸GS칼텍스명예회장",
-    "TopheadlinesinmajorS.Koreannewspapers"
+    "TopheadlinesinmajorS.Koreannewspapers",
+    "[뉴욕증시마감]연준금리동결에도급락…다우2.19%↓",
+    "[오늘의글로벌마켓]뉴욕증시,매파적동결에3대지수일제히하락",
+    "美증시,일제히하락마감…FOMC결과에미국채금리급등-[글로벌마감...",
+    "엔비디아,HBM원가조정…한국반도체협상력영향",
+    "[통장잔GO]폭락장버텨야산다…개미구할피난처는?",
+    "[오늘의IR]삼성전자ㆍLG에너지솔루션ㆍHK이노엔등",
+    "독파모2차평가초읽기…정예팀4곳의막판'필승전략'",
+    "뉴욕증시기술주흔들…실적·악재에갈린종목별명암[美증시특징주...",
+    "출범2년맞은우리투자증권…IB로안착,다음과제'리테일'"
    ],
    "initialized": true,
-   "last_run": "2026-07-30T07:05:28.449281+09:00"
+   "last_run": "2026-07-30T07:09:17.496363+09:00"
   }
  },
  "press_names": {
