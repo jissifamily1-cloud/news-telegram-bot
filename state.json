@@ -794,12 +794,17 @@
     [
      "2026-07-29T23:20:37.127565+09:00",
      "초반대 달러 거래 450원 뉴욕장서"
+    ],
+    [
+     "2026-07-29T23:30:36.583466+09:00",
+     "사상 공포 이틀 동반 양시장 실적보다 강했던 연속 서킷브레이커"
+    ],
+    [
+     "2026-07-29T23:30:36.583466+09:00",
+     "리스크 정부 증시 관리 중앙일보 한겨레 필요 조선 책임 급락에"
     ]
    ],
    "seen_urls": [
-    "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607290352&t=NNv",
-    "https://www.newstopkorea.com/news/articleView.html?idxno=46606",
-    "https://www.thepowernews.co.kr/view.php?ud=202607291353021111de3f0aa1be_7",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7176521",
     "https://www.gamemeca.com/mv.php?inflow=naver&gid=1778421",
     "http://www.metroseoul.co.kr/article/20260729500293",
@@ -2296,12 +2301,12 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4427624",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596698",
     "https://www.mk.co.kr/article/12111161",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4427625"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4427625",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553416887",
+    "https://www.ajunews.com/view/20260729155015523",
+    "https://www.mediatoday.co.kr/news/articleView.html?idxno=336078"
    ],
    "seen_titles": [
-    "HBM이만든'150조시대'…삼성전자·SK하이닉스,글로벌반도체수익성...",
-    "[속보]SK하이닉스15%폭락…코스피5000선붕괴우려현실화되나",
-    "이억원“시장변동성매우무겁게받아들인다”…레버리지ETF추가규...",
     "\"당장은LNG장기엔SMR\"…SK이노,베트남전력시장공략",
     "SK이노,베트남에LNG·SMR단계별에너지협력방안제시",
     "엔저에여행·환테크수요증가…엔화환전19개월만에최대",
@@ -3798,10 +3803,13 @@
     "달러-원,뉴욕장서1,450원초반대거래",
     "'2년전데자뷰같던PK선방쇼'제주SK안찬기\"경기전근배쌤과논의...",
     "단일종목레버리지ETF'개인별투자한도'만든다",
-    "SK하이닉스ADR나흘만에상승…차가운AI투심딛고2%반등"
+    "SK하이닉스ADR나흘만에상승…차가운AI투심딛고2%반등",
+    "[현장목소리]'7월무패달성'세르지우코스타감독,\"8월도힘들겠지...",
+    "실적보다강했던공포…사상첫이틀연속양시장'동반'서킷브레이커",
+    "증시급락에조선·중앙일보\"정부책임\"한겨레\"리스크관리필요\""
    ],
    "initialized": true,
-   "last_run": "2026-07-29T23:25:28.496474+09:00"
+   "last_run": "2026-07-29T23:30:36.583466+09:00"
   }
  },
  "press_names": {
