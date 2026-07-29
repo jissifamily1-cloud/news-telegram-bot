@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-30T00:25:22.584879+09:00",
-     "공포 인생 없다 주식 퇴학 개미들 돈도 선언"
-    ],
-    [
-     "2026-07-30T00:30:35.405221+09:00",
-     "패닉 개미 숙인 금융수장 반대매매 공포에 고개"
-    ],
-    [
      "2026-07-30T00:35:24.185507+09:00",
      "기술 현대차 협력 SMR 포스코 희토류 KAI 그린수소 민항기 생산"
     ],
@@ -438,14 +430,17 @@
     [
      "2026-07-30T06:25:21.286646+09:00",
      "추경호 강한 투자 대해 데이터센터 대구시장 유감 중단에 표명"
+    ],
+    [
+     "2026-07-30T06:30:40.313028+09:00",
+     "연속 금리 5회 금리보 연준 한국 금융시장 동결"
+    ],
+    [
+     "2026-07-30T06:30:40.313028+09:00",
+     "진출 미국 초등학교 갖고 최준용 도전 때부터 항상 있던 선언"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISI20260729_0021381470",
-    "https://www.newsis.com/view/NISI20260729_0021381472",
-    "https://www.newsis.com/view/NISI20260729_0021381473",
-    "https://www.newsis.com/view/NISI20260729_0021381466",
-    "http://www.metroseoul.co.kr/article/20260729500347",
     "https://www.smarttoday.co.kr/ko-kr/articles/109912",
     "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000542341",
     "https://www.rcast.co.kr/news/articleView.html?idxno=31357",
@@ -1940,14 +1935,14 @@
     "http://www.biztribune.co.kr/news/articleView.html?idxno=356696",
     "https://thetracker.co.kr/View.aspx?No=4167538",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607291343592550991",
-    "https://biz.heraldcorp.com/article/10824940"
+    "https://biz.heraldcorp.com/article/10824940",
+    "https://www.sportschosun.com/football/2026-07-29/202607290100187660012089",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=83602",
+    "https://www.sidae.com/article/2026073006212194808",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=5352",
+    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374540"
    ],
    "seen_titles": [
-    "[정상혁의글로벌인사이트]일본엔화하락이한국에주는경고",
-    "이동석충주시장\"국내외AI데이터센터기업충주에관심\"",
-    "HowleveragedchipETFsmagnifiedKorea’smarketswings",
-    "케이피엠테크·씨앗일부화학株휘파람…업종전반하락압력속차별...",
-    "급락장에개미들어디로갔나…ETF본부장들의답은'분산'",
     "이억원·이찬진,증시변동성급증에“무거운책임감”…예탁금상향·...",
     "사상최대실적냈는데...SK하이닉스주가급락왜?",
     "“개미,하닉평단228만원…손실률31.6%”씨티추정",
@@ -3442,10 +3437,15 @@
     "코스피6000선붕괴…사상첫이틀연속서킷브레이커",
     "[단독]SK온,美팩토리얼과전고체배터리'맞손'",
     "딜레마빠진정부,총량규제어쩌나…집단대출관리대상유지하되총량...",
-    "추경호대구시장“SK데이터센터투자중단에대해강한유감표명”"
+    "추경호대구시장“SK데이터센터투자중단에대해강한유감표명”",
+    "[오피셜]김민재바이에른잔류확정,EPL+세리에이적설100%거짓...디렉...",
+    "연준금리동결뉴욕증시급락…AI투자우려에기술주약세",
+    "[뉴욕증시]인플레우려확대…다우2.19%하락등3대지수뚝",
+    "[인사이트뉴스]美연준,금리5회연속동결…한국금융시장,'금리보...",
+    "'미국진출도전선언'최준용,\"초등학교때부터항상갖고있던꿈......"
    ],
    "initialized": true,
-   "last_run": "2026-07-30T06:25:21.286646+09:00"
+   "last_run": "2026-07-30T06:30:40.313028+09:00"
   }
  },
  "press_names": {
