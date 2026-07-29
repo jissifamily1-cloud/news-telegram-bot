@@ -318,10 +318,13 @@
     [
      "2026-07-30T03:05:28.658826+09:00",
      "조정권 빅테크 시험대 나스닥100 회수 AI투자"
+    ],
+    [
+     "2026-07-30T03:15:25.716035+09:00",
+     "급등에도 야간서 달러 키워 낙폭 국제유가 재진입 440원대"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/it-science/cc-newmedia/6242718",
     "https://www.sidae.com/article/2026072914005610395",
     "https://www.mk.co.kr/article/12110477",
     "http://www.newsian.co.kr/news/articleView.html?idxno=92940",
@@ -1820,10 +1823,10 @@
     "https://www.kyeonggi.com/article/20260729580467",
     "https://www.g-enews.com/view.php?ud=2026072921304791059a1f309431_1",
     "https://www.g-enews.com/view.php?ud=202607291735399246fbbec65dfb_1",
-    "https://www.wikitree.co.kr/articles/1149286"
+    "https://www.wikitree.co.kr/articles/1149286",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4427629"
    ],
    "seen_titles": [
-    "AI시대전력잡는다…SK이노베이션,베트남에LNG·SMR'투트랙'협력제...",
     "SK이노,베트남'AI전력'정조준…LNG·SMR단계별협력",
     "이통3사,갤럭시Z폴드8사전예약돌입…구독·콘텐츠혜택경쟁",
     "추경호대구시장,SKAI데이터센터사업중단에유감표명…대안마련...",
@@ -3322,10 +3325,11 @@
     "[김종구칼럼]이천송석준,본회의장서이천쌀을팔다",
     "빅테크AI투자회수시험대…나스닥100조정권",
     "하이브주가폭락…BTS공연대성공에도수익성악화여파",
-    "[기저수첩]사상첫이틀연속서킷브레이커…개미들의재산은누가책..."
+    "[기저수첩]사상첫이틀연속서킷브레이커…개미들의재산은누가책...",
+    "달러-원,야간서국제유가급등에도낙폭키워…1,440원대재진입"
    ],
    "initialized": true,
-   "last_run": "2026-07-30T03:10:27.493666+09:00"
+   "last_run": "2026-07-30T03:15:25.716035+09:00"
   }
  },
  "press_names": {
