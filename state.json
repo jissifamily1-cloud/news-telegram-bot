@@ -425,7 +425,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1672218/?sc=Naver",
     "http://www.metroseoul.co.kr/article/20260729500322",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=313599",
     "https://www.gameshot.net/common/con_view.php?code=GA6a69870b360de",
@@ -1924,10 +1923,10 @@
     "https://www.starnewskorea.com/sports/2026/07/30/2026072918370520514",
     "http://coinreaders.com/250225",
     "https://www.kmib.co.kr/article/view.asp?arcid=1785315130&code=11151300&cp=nv",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1171594"
+    "https://www.ggilbo.com/news/articleView.html?idxno=1171594",
+    "http://coinreaders.com/250229"
    ],
    "seen_titles": [
-    "SKBiopharmexpandsLatinAmericapushwithBrazillaunch",
     "SK하이닉스,2분기순이익93조…영업이익률76%",
     "SK이노베이션E&S,부산AI해커톤9월개최…8월6일까지참가자모집",
     "[셀럽의한수]최근증시하락,그간누적된하락압력확대재생산",
@@ -3426,10 +3425,11 @@
     "'좌투타율0.167'그래도믿고맡겼더니'2루타쾅쾅',SSG만년거포기...",
     "알파벳대신'코카콜라'로...짐크레이머\"AI주순환매,2000년닷컴붕괴...",
     "레버리지뾰족수없는금융당국…김용범“개인탓”발언여론부글",
-    "AI가다시그린반도체수출길…중국지고대만뜬다"
+    "AI가다시그린반도체수출길…중국지고대만뜬다",
+    "미·이란교전에유가급등...美증시,반도체매도폭탄에'패닉'"
    ],
    "initialized": true,
-   "last_run": "2026-07-30T02:20:27.193713+09:00"
+   "last_run": "2026-07-30T02:25:20.945444+09:00"
   }
  },
  "press_names": {
