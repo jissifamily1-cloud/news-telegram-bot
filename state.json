@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-29T17:10:26.503391+09:00",
-     "멜론 음원은 확장 독주 글로벌 밀렸다 스포티파이에도 외산"
-    ],
-    [
-     "2026-07-29T17:10:26.503391+09:00",
-     "문제 공감 살려야 구조적 코스닥부터 정무위 저PBR 이억원"
-    ],
-    [
      "2026-07-29T17:15:32.892379+09:00",
      "단순 쏘아 끝났다 RAN으로 올릴 빅사이클 방어주는 AIDC SK텔레콤"
     ],
@@ -861,9 +853,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ddaily.co.kr/page/view/2026072914055392165",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=5341",
-    "http://www.newsworker.co.kr/news/articleView.html?idxno=438834",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008680610&plink=ORI&cooper=NAVER",
     "https://www.mk.co.kr/article/12110451",
     "http://www.metroseoul.co.kr/article/20260729500283",
@@ -2360,12 +2349,12 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=593024",
     "https://www.sedaily.com/article/20073580",
     "https://www.segye.com/newsView/20260729516287?OutUrl=naver",
-    "https://www.news2day.co.kr/article/20260729500342"
+    "https://www.news2day.co.kr/article/20260729500342",
+    "https://www.joongangenews.com/news/articleView.html?idxno=536479",
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596697",
+    "https://www.news1.kr/politics/assembly/6243377"
    ],
    "seen_titles": [
-    "李대통령“韓기술력·브라질자원결합”…미래산업협력새장연다",
-    "원자력연,SK하이닉스와첫업무협약…\"반도체방사선신뢰성높인다\"",
-    "'AIDC얼라이언스'출범…초대민간의장에정재헌SKT대표",
     "\"IMF보다심한폭락,내계좌에서일어나\"…개미들'주식퇴학'선언잇...",
     "SK이노베이션,베트남에LNG·SMR연계에너지협력모델제안",
     "이억원\"증시변동성,레버리지ETF만의문제아냐\"…야당\"책임회피\"",
@@ -3862,10 +3851,13 @@
     "[속보]뉴욕증시개장직후다우400p대급락…이란기습공격에유가급...",
     "코스피급락에鄭“국민께죄송”…宋·金“ETF거래중단신중해야”",
     "“단일종목레버리지ETF퇴출하라”…국회앞근조화환",
-    "[마켓인사이드]애플,SK하이닉스·마이크론압박위해CXMT이용하나"
+    "[마켓인사이드]애플,SK하이닉스·마이크론압박위해CXMT이용하나",
+    "삼성전자·하이닉스레버리지에칼빼든정부…'20%투자제한'초강수",
+    "'승부차기끝승리'세르지우제주SK감독\"8월에도좋은결과.태도이어...",
+    "'주식비상대책'공감…鄭\"ETF거래중단\"…金·宋\"예탁금상향\""
    ],
    "initialized": true,
-   "last_run": "2026-07-29T23:05:33.524319+09:00"
+   "last_run": "2026-07-29T23:10:41.013533+09:00"
   }
  },
  "press_names": {
