@@ -850,13 +850,13 @@
     [
      "2026-07-29T23:05:33.524319+09:00",
      "애플 마이크론 CXMT SK하이닉스 이용하나 압박"
+    ],
+    [
+     "2026-07-29T23:15:30.434119+09:00",
+     "잣대 통제권 주권 경쟁 국산 2라운드 독자 아닌"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008680610&plink=ORI&cooper=NAVER",
-    "https://www.mk.co.kr/article/12110451",
-    "http://www.metroseoul.co.kr/article/20260729500283",
-    "https://cc.newdaily.co.kr/site/data/html/2026/07/29/2026072900152.html",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596652",
     "https://www.thepublic.kr/news/articleView.html?idxno=313051",
     "https://www.cbci.co.kr/news/articleView.html?idxno=592874",
@@ -2352,13 +2352,13 @@
     "https://www.news2day.co.kr/article/20260729500342",
     "https://www.joongangenews.com/news/articleView.html?idxno=536479",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596697",
-    "https://www.news1.kr/politics/assembly/6243377"
+    "https://www.news1.kr/politics/assembly/6243377",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260729231144C4w",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260729231014nbW",
+    "https://www.newspim.com/news/view/20260729001325",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=313612"
    ],
    "seen_titles": [
-    "\"IMF보다심한폭락,내계좌에서일어나\"…개미들'주식퇴학'선언잇...",
-    "SK이노베이션,베트남에LNG·SMR연계에너지협력모델제안",
-    "이억원\"증시변동성,레버리지ETF만의문제아냐\"…야당\"책임회피\"",
-    "신기루,SK하이닉스평단190자랑했는데“일하는데재수없게”주가...",
     "이억원금융위원장\"단일종목레버리지ETF예탁금필요시추가인상\"[...",
     "SK이노,베트남에너지판흔든다…LNG넘어SMR까지",
     "[여의도단신]한양증권·삼성자산운용·한국투자신탁운용",
@@ -3854,10 +3854,14 @@
     "[마켓인사이드]애플,SK하이닉스·마이크론압박위해CXMT이용하나",
     "삼성전자·하이닉스레버리지에칼빼든정부…'20%투자제한'초강수",
     "'승부차기끝승리'세르지우제주SK감독\"8월에도좋은결과.태도이어...",
-    "'주식비상대책'공감…鄭\"ETF거래중단\"…金·宋\"예탁금상향\""
+    "'주식비상대책'공감…鄭\"ETF거래중단\"…金·宋\"예탁금상향\"",
+    "광주군공항250만평,반도체산단후보지지정",
+    "삼전닉스레버리지이틀째급락…거래대금은↑",
+    "'선두'서울도,울산도무너졌다…코리아컵뒤흔든'자이언트킬링'",
+    "AI주권잣대,국산아닌'통제권'…독자AI경쟁2라운드"
    ],
    "initialized": true,
-   "last_run": "2026-07-29T23:10:41.013533+09:00"
+   "last_run": "2026-07-29T23:15:30.434119+09:00"
   }
  },
  "press_names": {
