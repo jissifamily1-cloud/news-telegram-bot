@@ -350,13 +350,17 @@
     [
      "2026-07-30T05:40:27.996926+09:00",
      "긴급시 배율도 당국 단일종목 손본다 레버리지 투자한도"
+    ],
+    [
+     "2026-07-30T05:45:25.000920+09:00",
+     "필라델피아반도체지수 급락하며 엔비디아 마이크론"
+    ],
+    [
+     "2026-07-30T05:45:25.000920+09:00",
+     "반도체 SK하닉 위기감 폭락 뉴욕증시 삼전 커진"
     ]
    ],
    "seen_urls": [
-    "https://www.womentimes.co.kr/news/articleView.html?idxno=104793",
-    "https://www.ziksir.com/news/articleView.html?idxno=141538",
-    "https://www.ekn.kr/web/view.php?key=20260729020147360",
-    "https://www.womentimes.co.kr/news/articleView.html?idxno=104800",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1718238",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687958",
     "https://www.mt.co.kr/society/2026/07/29/2026072914102454303",
@@ -1852,13 +1856,13 @@
     "https://www.koreaherald.com/article/10824720",
     "https://www.koreaherald.com/article/10824826",
     "https://www.newsis.com/view/NISX20260729_0003728645",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688136"
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688136",
+    "http://www.osen.co.kr/article/G1112848747",
+    "https://www.news1.kr/world/international-economy/6243419",
+    "http://www.beyondpost.co.kr/view.php?ud=202607300537343392aaae0046f_30",
+    "https://www.dt.co.kr/article/12075573"
    ],
    "seen_titles": [
-    "SK하이닉스사장단,광주군공항전격방문…800조반도체팹구축'속도...",
-    "아시아증시급락에도비트코인상승…탈동조화신호커지나",
-    "감정·억양이해하는음성AI…크래프톤‘라온-스피치’공개",
-    "하닉1주하한가거래에…크립토시장에서870억‘벼락청산’",
     "사상최대찍고도,진땀뺀SK하이닉스…“피크아웃아니다”",
     "역대급실적도못막은'피크아웃'공포…폭락한삼성·SK하닉에개미들...",
     "정부·IT에이스손잡고18.4GW메가AI데이터센터짓는다",
@@ -3354,10 +3358,14 @@
     "[LeeJong-Wha]Koreabetsonindustrialpolicy",
     "[Editorial]China’schipoffensive",
     "삼성전자·SK하이닉스·마이크론,HBM4양산속도전…승부처는'수율·공...",
-    "당국,단일종목레버리지투자한도추진...긴급시배율도손본다"
+    "당국,단일종목레버리지투자한도추진...긴급시배율도손본다",
+    "홈경기첫승+24년만의고졸신인2G연속QS…베네수엘라출신외인의...",
+    "필라델피아반도체지수5%하락…SK하닉실적호조도부족했다",
+    "엔비디아3.5%,마이크론10%↓...필라델피아반도체지수5.3%급락하며5...",
+    "뉴욕증시반도체또폭락…삼전ㆍSK하닉더커진위기감"
    ],
    "initialized": true,
-   "last_run": "2026-07-30T05:40:27.996926+09:00"
+   "last_run": "2026-07-30T05:45:25.000920+09:00"
   }
  },
  "press_names": {
