@@ -478,11 +478,17 @@
     [
      "2026-07-30T01:05:24.236629+09:00",
      "하락해 446원 전쟁 이후 최저 중동 환율"
+    ],
+    [
+     "2026-07-30T01:25:22.256235+09:00",
+     "출범 건설 AIDC 4GW 본격화 얼라이언스"
+    ],
+    [
+     "2026-07-30T01:25:22.256235+09:00",
+     "책임져야 누가 연일 폭락 주가 위기도 없는데 하나"
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20260729000289",
-    "https://www.yna.co.kr/view/AKR20260729091300017?input=1195m",
     "http://www.inews24.com/view/1989865",
     "https://www.ziksir.com/news/articleView.html?idxno=141536",
     "https://www.etoday.co.kr/news/view/2608742",
@@ -1980,11 +1986,11 @@
     "https://www.chosun.com/economy/stock-finance/2026/07/30/4QBLU7RVFVGWJLOBW6JD77PXEI/",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4097873",
     "https://www.chosun.com/economy/money/2026/07/30/RCYMOEQNBNBIHIURANIZKUQGVI/",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260730010236l1d"
+    "http://www.yonhapnewstv.co.kr/news/MYH20260730010236l1d",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1785311346&code=11151100&cp=nv",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1785312841&code=11171111&cp=nv"
    ],
    "seen_titles": [
-    "[취재수첩]\"삼성·SK·현대그리고KAIST\"…젠슨황의'깜짝언급',그...",
-    "전기차반등기다리지않았다...SK·LG,충전기정리하고핵심사업집중",
     "[Leader&Now]류진한경협회장\"투자·생산·공급망원팀으로세계시...",
     "\"반도체사던외국인투자자,홍콩인터넷기업으로'급선회'\"",
     "\"청와대외압있었나\"질문에즉답피한이억원\"절차대로출시했다\"(종...",
@@ -3482,10 +3488,12 @@
     "靑은한국만이런게아니라는데…코스피변동성,美보다5배커",
     "전남광주특별시,군공항부지반도체국가산단조성본격화",
     "이틀만에865조원사라졌다",
-    "환율하락해1,446원…중동전쟁이후'최저'"
+    "환율하락해1,446원…중동전쟁이후'최저'",
+    "‘AIDC얼라이언스’출범…18.4GW건설본격화",
+    "[사설]위기도없는데연일주가폭락,누가책임져야하나"
    ],
    "initialized": true,
-   "last_run": "2026-07-30T01:20:34.832507+09:00"
+   "last_run": "2026-07-30T01:25:22.256235+09:00"
   }
  },
  "press_names": {
