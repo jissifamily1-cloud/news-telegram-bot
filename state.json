@@ -1182,11 +1182,13 @@
     [
      "2026-07-29T21:40:35.376350+09:00",
      ""
+    ],
+    [
+     "2026-07-29T21:50:32.937741+09:00",
+     "SSG가 김민준 3차례 QS 기다린 진짜 24년 소환 벌써 진기록까지"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026072930206",
-    "https://www.etoday.co.kr/news/view/2608634",
     "https://www.junggi.co.kr/news/articleView.html?idxno=37268",
     "https://www.energy-news.co.kr/news/articleView.html?idxno=227120",
     "https://www.enetnews.co.kr/news/articleView.html?idxno=52897",
@@ -2684,11 +2686,11 @@
     "http://www.fnnews.com/news/202607292141481323",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000053254",
     "https://www.ulsanpress.net/news/articleView.html?idxno=580049",
-    "https://www.sedaily.com/article/20073568"
+    "https://www.sedaily.com/article/20073568",
+    "https://www.newspim.com/news/view/20260729001288",
+    "https://www.munhwa.com/article/11605940"
    ],
    "seen_titles": [
-    "SK바이오사이언스GBP410,3상순항…국산PCV기대감",
-    "SK이노베이션,베트남전력해법제시…LNG넘어SMR까지",
     "\"평생본적없는폭락\"…사상첫이틀연속서킷브레이커에'패닉'",
     "마스오토,전국우체국물류망으로자율주행AI모델고도화나선다",
     "크래프톤,음성AI도세계수준…한국어성능1위모델공개",
@@ -4186,10 +4188,12 @@
     "빌게이츠,이르면내달방한…SMR협력논의",
     "전남광주시\"광주군공항부지,호남권첨단국가산단후보지지정환영...",
     "울산중구지역결식우려아동에'행복두끼'지원",
-    "빌게이츠이르면내달방한…AI·차세대원전논의할듯"
+    "빌게이츠이르면내달방한…AI·차세대원전논의할듯",
+    "코스피이틀폭락뒤긴급F4회의…레버리지ETF규제'뒷북'",
+    "벌써QS3차례·24년전진기록까지소환…김민준,SSG가기다린‘진짜..."
    ],
    "initialized": true,
-   "last_run": "2026-07-29T21:45:34.342683+09:00"
+   "last_run": "2026-07-29T21:50:32.937741+09:00"
   }
  },
  "press_names": {
