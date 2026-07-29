@@ -326,11 +326,17 @@
     [
      "2026-07-30T05:25:21.086403+09:00",
      "추가 나와 하다가 빠진 날렸다 56조 멘붕 하락 경고까지 물타기"
+    ],
+    [
+     "2026-07-30T05:30:34.128341+09:00",
+     "일제히 지수 공포지수 돌파 3대 하락"
+    ],
+    [
+     "2026-07-30T05:30:34.128341+09:00",
+     "투심 되살릴까 삼전은 반도체 공개 성적표 2분기"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/PYH20260729143800061?input=1196m",
-    "https://www.joongang.co.kr/article/25449124",
     "https://www.ikbc.co.kr/article/view/kbc202607290041",
     "https://www.donga.com/news/Health/article/all/20260729/134387128/1",
     "https://www.pennmike.com/news/articleView.html?idxno=124630",
@@ -1828,11 +1834,11 @@
     "https://www.seoul.co.kr/news/editOpinion/editorial/2026/07/30/20260730027001?wlog_tag3=naver",
     "https://www.geconomy.co.kr/news/article.html?no=322323",
     "https://biz.chosun.com/international/international_economy/2026/07/30/JEFKZGMVORD27NZ3FRZFHZVFAI/",
-    "http://www.fnnews.com/news/202607292024381202"
+    "http://www.fnnews.com/news/202607292024381202",
+    "http://www.fnnews.com/news/202607300521232078",
+    "https://www.dt.co.kr/article/12075546"
    ],
    "seen_titles": [
-    "하루6700억씩번SK하이닉스…“10여개고객사장기공급계약체결”",
-    "SK하이닉스2분기영업익60.5조…상반기100조육박",
     "SKBiopharmaceuticalsexpandsLatinAmericapushduringLeevisitwit",
     "\"주식폭락?이제시작이야\",\"사이드카가모닝콜됐다\"…역대급롤러코...",
     "SK하이닉스ADR,상장3주만에공모가하회…'AI거품론·중국추격'이...",
@@ -3330,10 +3336,12 @@
     "[사설]도박판레버리지에날마다패닉인데,무책임찔끔처방만",
     "광주군공항부지,반도체국가산단첫관문넘었다",
     "뉴욕증시,하락마감...다우존스지수,1년3개월만에최대낙폭",
-    "\"물타기하다가56조날렸다\"...추가하락경고까지나와'멘붕'빠진개..."
+    "\"물타기하다가56조날렸다\"...추가하락경고까지나와'멘붕'빠진개...",
+    "[뉴욕증시]3대지수일제히하락…공포지수,20돌파",
+    "삼전은‘반도체투심’되살릴까…오늘2분기성적표공개"
    ],
    "initialized": true,
-   "last_run": "2026-07-30T05:25:21.086403+09:00"
+   "last_run": "2026-07-30T05:30:34.128341+09:00"
   }
  },
  "press_names": {
