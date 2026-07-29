@@ -514,10 +514,13 @@
     [
      "2026-07-30T01:00:46.669052+09:00",
      "이틀 사라졌다 865조원 만에"
+    ],
+    [
+     "2026-07-30T01:05:24.236629+09:00",
+     "하락해 446원 전쟁 이후 최저 중동 환율"
     ]
    ],
    "seen_urls": [
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701598",
     "https://www.etnews.com/20260729000289",
     "https://www.yna.co.kr/view/AKR20260729091300017?input=1195m",
     "http://www.inews24.com/view/1989865",
@@ -2016,10 +2019,10 @@
     "https://www.chosun.com/economy/money/2026/07/30/IZCYAAX6AFADFINHBXBWJRIPIE/",
     "https://www.chosun.com/economy/stock-finance/2026/07/30/4QBLU7RVFVGWJLOBW6JD77PXEI/",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4097873",
-    "https://www.chosun.com/economy/money/2026/07/30/RCYMOEQNBNBIHIURANIZKUQGVI/"
+    "https://www.chosun.com/economy/money/2026/07/30/RCYMOEQNBNBIHIURANIZKUQGVI/",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260730010236l1d"
    ],
    "seen_titles": [
-    "증시다시5천피로…김용범\"레버리지문제만은아냐\"",
     "[취재수첩]\"삼성·SK·현대그리고KAIST\"…젠슨황의'깜짝언급',그...",
     "전기차반등기다리지않았다...SK·LG,충전기정리하고핵심사업집중",
     "[Leader&Now]류진한경협회장\"투자·생산·공급망원팀으로세계시...",
@@ -3518,10 +3521,11 @@
     "코스피폭락하자…서학개미들‘3배레버리지’로몰려가",
     "靑은한국만이런게아니라는데…코스피변동성,美보다5배커",
     "전남광주특별시,군공항부지반도체국가산단조성본격화",
-    "이틀만에865조원사라졌다"
+    "이틀만에865조원사라졌다",
+    "환율하락해1,446원…중동전쟁이후'최저'"
    ],
    "initialized": true,
-   "last_run": "2026-07-30T01:00:46.669052+09:00"
+   "last_run": "2026-07-30T01:05:24.236629+09:00"
   }
  },
  "press_names": {
