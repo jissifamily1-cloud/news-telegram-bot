@@ -4,30 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-29T06:25:27.903062+09:00",
-     "유럽에선 주민 반발 소음 분진에"
-    ],
-    [
-     "2026-07-29T06:25:27.903062+09:00",
-     "건설업계 인재 키우는"
-    ],
-    [
-     "2026-07-29T06:25:27.903062+09:00",
-     "SK온 포드 전망 JV 상향 깜짝실적 충당금에도 청산"
-    ],
-    [
-     "2026-07-29T06:25:27.903062+09:00",
-     "전담 건설업계 재편도 품고"
-    ],
-    [
-     "2026-07-29T06:25:27.903062+09:00",
-     "증시 완화 기대에 긴장 혼조 중동"
-    ],
-    [
-     "2026-07-29T06:25:27.903062+09:00",
-     "유가 급락 혼조세 뉴욕증시 거품론에 극심한 반도체 흔들린"
-    ],
-    [
      "2026-07-29T06:30:37.912584+09:00",
      "MOU 기업간 협력 민간 브라질 체결 7건 희토류 항공우주"
     ],
@@ -1446,15 +1422,13 @@
     [
      "2026-07-29T12:20:26.828588+09:00",
      "프로농구 밝힌 도전 최준용 미국 갑니다 실패하러"
+    ],
+    [
+     "2026-07-29T12:30:32.352704+09:00",
+     "중심에 주거타운 두산건설 두산 하이엔드 들어서는 2만 아파트"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260729000800320?input=2106m",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=725187",
-    "https://www.newsis.com/view/NISX20260728_0003726423",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092166749",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=725153",
-    "http://www.newsmaker.or.kr/news/articleView.html?idxno=179780",
     "https://www.bloter.net/news/articleView.html?idxno=669062",
     "https://www.techm.kr/news/articleView.html?idxno=153770",
     "https://www.startuptoday.co.kr/news/articleView.html?idxno=807940",
@@ -2948,15 +2922,15 @@
     "https://www.munhwa.com/article/11605855",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065583247080184",
     "https://www.ajunews.com/view/20260729120831886",
-    "https://www.energy-news.co.kr/news/articleView.html?idxno=227109"
+    "https://www.energy-news.co.kr/news/articleView.html?idxno=227109",
+    "https://m.sports.naver.com/basketball/article/065/0000300083",
+    "https://www.smarttoday.co.kr/ko-kr/articles/109906",
+    "https://magazine.hankyung.com/business/article/202607292902b",
+    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000542306",
+    "https://www.redian.org/news/articleView.html?idxno=257033",
+    "https://www.seoul.co.kr/news/economy/2026/07/29/20260729500111?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "[더벨]머스트바이오,모회사안국약품출신CFO선임'IPO포석'",
-    "[더벨][SKT벤처투자리포트]시장조성서기술선점으로,투자로드맵...",
-    "[Invest]모건스탠리의경고와中CXMT폭등…혼란가득한'메모리'반도...",
-    "[Invest]CXMT가쏘아올린메모리치킨게임…삼전닉스버틸실탄충분한가",
-    "[Invest]급락장에연기금은어디로…리밸런싱여력소진에'안전판'약화",
-    "웃지못하는정유업계…호실적에도'손실보전·담합수사'이중부담",
     "[뉴스클레임사설]국민연금은왜하필9000앞에서더담았나",
     "(EDITORIALfromTheKoreaTimesonJuly29)",
     "[THEBiz&CEO]이승찬계룡건설대표,'선별수주'로10위권도전",
@@ -4450,10 +4424,16 @@
     "‘최대실적’하이닉스,중국추격따돌릴승부수과제",
     "SKT,독파모2차모델공개…\"산업현장·국민일상AI확산\"",
     "[컨콜종합]SK하이닉스\"AI반도체호황장기화…HBM리더십굳건\"",
-    "DK아시아로열파크씨티,주거커뮤니티2026년7월브랜드평판1위"
+    "DK아시아로열파크씨티,주거커뮤니티2026년7월브랜드평판1위",
+    "해외도전나서는KCC최준용“300억계약하고NBA유니폼입는게꿈”...",
+    "SK이노E&S,한·인니대학생과AI아이디어경진대회개최",
+    "코스피5600선'붕괴'…하이닉스,역대급실적에도140만원깨져",
+    "씨티“韓개미‘레버리지ETF’손실56조추정…하이닉스감소폭최...",
+    "한·브라질정상외교성과...무역협정·희토류공급망협력속도",
+    "1.2만新주거타운중심에들어서는하이엔드아파트…두산건설,‘두산..."
    ],
    "initialized": true,
-   "last_run": "2026-07-29T12:25:20.681956+09:00"
+   "last_run": "2026-07-29T12:30:32.352704+09:00"
   }
  },
  "press_names": {
