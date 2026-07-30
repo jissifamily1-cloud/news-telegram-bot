@@ -1325,7 +1325,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4097875",
     "http://www.popcornnews.net/news/articleView.html?idxno=128147",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4427720",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=361040",
@@ -2824,10 +2823,10 @@
     "https://www.ajunews.com/view/20260730161022818",
     "https://www.mk.co.kr/article/12112145",
     "https://www.topstarnews.net/news/articleView.html?idxno=16150208",
-    "https://biz.sbs.co.kr/article_hub/20000325705?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000325705?division=NAVER",
+    "http://www.fnnews.com/news/202607301735534823"
    ],
    "seen_titles": [
-    "[아침저널]최형두\"민주당이진숙반대?대구시민들판단력무시하는...",
     "통신3사,'여름프로모션'경쟁…요금·로밍·멤버십혜택확대",
     "단일종목레버리지리밸런싱장중분산추진…금투협긴급회의",
     "극과극달리는SK하이닉스목표주가",
@@ -4326,10 +4325,11 @@
     "삼전닉스급락에…'안전자산'채권혼합ETF도연금손실직격탄",
     "개도국AI데이터센터에국내기업반도체심는다",
     "[공매도브리핑]7월30일삼성전자공매도4,671억·LB세미콘39.69%",
-    "1조현금필요한최태원앞선택지들[CEO업&다운]"
+    "1조현금필요한최태원앞선택지들[CEO업&다운]",
+    "SK이노베이션,2분기3.5조흑자..윤활유·배터리수익성개선"
    ],
    "initialized": true,
-   "last_run": "2026-07-30T17:38:55.249396+09:00"
+   "last_run": "2026-07-30T17:40:27.412139+09:00"
   }
  },
  "press_names": {
