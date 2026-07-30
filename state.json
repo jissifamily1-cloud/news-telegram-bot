@@ -322,15 +322,21 @@
     [
      "2026-07-31T06:25:29.308666+09:00",
      "곡소리 나는데 상반기 증권가 개미 역대 실적"
+    ],
+    [
+     "2026-07-31T06:33:05.852263+09:00",
+     "못해 기술유출 첩보 텅빈 수사 입수해도 비상 검찰청에 수사도"
+    ],
+    [
+     "2026-07-31T06:33:05.852263+09:00",
+     "만에 땡큐 비명 엔비디아 급등했는데 개미들 하루"
+    ],
+    [
+     "2026-07-31T06:33:05.852263+09:00",
+     "반격 공세로 글로벌 브리핑 선제공격 태세 이란 모닝 아닌"
     ]
    ],
    "seen_urls": [
-    "https://www.gukjenews.com/news/articleView.html?idxno=3650691",
-    "http://www.seouleconews.com/news/articleView.html?idxno=92743",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000000308&cp=nv",
-    "https://www.joongangenews.com/news/articleView.html?idxno=536680",
-    "https://www.nbntv.kr/news/articleView.html?idxno=340536",
-    "https://www.ccreview.co.kr/news/articleView.html?idxno=354009",
     "https://www.ddaily.co.kr/page/view/2026073014172044709",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=848850",
     "https://daily.hankooki.com/news/articleView.html?idxno=1391157",
@@ -1824,15 +1830,15 @@
     "https://www.moneystorm.kr/news/articleView.html?idxno=5386",
     "https://www.smartbizn.com/news/articleView.html?idxno=149965",
     "https://it.chosun.com/news/articleView.html?idxno=2023092166950",
-    "https://www.kmib.co.kr/article/view.asp?arcid=0030187269&code=61141211&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030187269&code=61141211&cp=nv",
+    "https://www.sedaily.com/article/20074124",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473085",
+    "https://www.globale.co.kr/news/articleView.html?idxno=39632",
+    "https://www.sedaily.com/article/20073974",
+    "https://www.hankyung.com/article/2026073061356",
+    "https://www.sedaily.com/article/20074089"
    ],
    "seen_titles": [
-    "[뉴스줌인]KT과징금부과율0.9%…'매우중대한위반'피했다",
-    "충북도,민선9기'첫시장·군수회의'...상생협력다짐",
-    "\"9.7조원규모바이오연료입찰담합\"…공정위,7개업체제재착수",
-    "‘ETF아버지’단일레버리지또경고“상폐아닌자연사시켜야”",
-    "SK텔레콤주가,7월30일장중78,500원0.13%하락",
-    "엑시온그룹,소액공모한도확대'1호기업'등극…20억조달·800억매...",
     "충북도,민선9기첫시장·군수회의개최",
     "“SK하이닉스주가반토막났는데”…한국투자證,목표가470만원제시",
     "[컨콜]삼성전자\"HBM4매출60%상회할것…美ADR상장은없다\"",
@@ -3326,10 +3332,16 @@
     "[뉴욕증시마감시황]AI수익화시대열렸다…나스닥2.8%급등,한국증시...",
     "반도체주,뉴욕증시끌어올렸다···홍해방위연합에유가는후퇴",
     "개미곡소리나는데…증권가,올상반기역대최대실적",
-    "주가회복에도구멍난내계좌…레버리지,무서운복리"
+    "주가회복에도구멍난내계좌…레버리지,무서운복리",
+    "‘깜짝실적’MS,15.5%급등...반도체지수도8.2%초강세[데일리국제...",
+    "MS하루만에640조원불었다…반도체도폭등,뉴욕증시다시'AI랠리'...",
+    "KT,'5G과장광고'139억과징금불복소송패소···대법원상고",
+    "“첩보입수해도수사못해”텅빈검찰청에기술유출수사도비상",
+    "\"땡큐엔비디아\"급등했는데…개미들하루만에'비명'[종목+]",
+    "이란,반격아닌선제공격…공세로‘태세전환’[글로벌모닝브리핑..."
    ],
    "initialized": true,
-   "last_run": "2026-07-31T06:30:33.872286+09:00"
+   "last_run": "2026-07-31T06:33:05.852263+09:00"
   }
  },
  "press_names": {
