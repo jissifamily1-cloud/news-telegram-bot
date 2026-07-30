@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-31T00:35:29.687819+09:00",
-     "삼전닉스 평가 본다 능력 사원 채용때 임원"
-    ],
-    [
-     "2026-07-31T00:40:27.059320+09:00",
-     "런던 변동성 금융가도 흔들어 반도체주"
-    ],
-    [
      "2026-07-31T01:00:41.581582+09:00",
      "역공에 이긴다 속수무책 더니 시장 정부"
     ],
@@ -346,15 +338,17 @@
     [
      "2026-07-31T06:35:22.668566+09:00",
      "최대한 하락장에 곱버스 규제 추가 빨리 베팅"
+    ],
+    [
+     "2026-07-31T06:40:33.911325+09:00",
+     "전원주에 써라 선우용여 40억 기사 벤츠 자산가 쓰고 사서"
+    ],
+    [
+     "2026-07-31T06:40:33.911325+09:00",
+     "질주 MS 꺼진다더니 실적에 거품 다시 뉴욕증시"
     ]
    ],
    "seen_urls": [
-    "https://www.mydaily.co.kr/page/view/2026073011094442980",
-    "https://www.sportsseoul.com/news/read/1625737",
-    "https://www.mk.co.kr/article/12111922",
-    "https://biz.sbs.co.kr/article_hub/20000325628?division=NAVER",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=05024966645519768",
-    "https://www.m-i.kr/news/articleView.html?idxno=1397216",
     "https://biz.newdaily.co.kr/site/data/html/2026/07/30/2026073000203.html",
     "https://www.koreaittimes.com/news/articleView.html?idxno=155655",
     "https://www.sentv.co.kr/article/view/sentv202607300102",
@@ -1848,15 +1842,15 @@
     "https://news.jtbc.co.kr/article/NB12311021?influxDiv=NAVER",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473087",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1718529",
-    "https://imnews.imbc.com/replay/2026/nwtoday/article/6841387_37012.html"
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6841387_37012.html",
+    "https://www.globale.co.kr/news/articleView.html?idxno=39633",
+    "https://news.tf.co.kr/read/economy/2349081.htm",
+    "https://www.g-enews.com/view.php?ud=20260731063345501e250e8e188_1",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=62234",
+    "https://www.newsen.com/news_view.php?uid=202607310618072110",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=93039"
    ],
    "seen_titles": [
-    "[굿모닝!30일건설업계소식]삼성물산·대우건설·한화·호반그룹·SM경...",
-    "AI메모리호황에대기록다시쓴삼성전자…반도체홀로89.2조벌었다",
-    "“미국가고싶더라”28살최준용은‘진심’이었다…32세에시작하는...",
-    "“호남권반도체첨단국가산단시동”…LH,예비사업시행자선정·설...",
-    "[ETF따라잡기]코스피고점대비40%대폭락…시장흐름은?",
-    "아주대,AI데이터센터열관리기술개발·인재양성나선다",
     "미국기준금리'동결했지만...'인상가능성열어둬",
     "반도체더달린다…삼전“내년메모리초과수요확대,파운드리흑전...",
     "LH,호남권반도체국가산단조성속도전…조사설계발주착수",
@@ -3350,10 +3344,16 @@
     "SK하이닉스ADR17.5%급등…'반도체불기둥'에뉴욕증시상승마감",
     "코스피·코스닥전거래일(30일)주요공시는?...대한전선,2분기매출·영...",
     "美,AI반도체핵심기술에8.7억달러투입…차세대메모리·패키징육성",
-    "하락장에곱버스'베팅'‥\"추가규제최대한빨리\""
+    "하락장에곱버스'베팅'‥\"추가규제최대한빨리\"",
+    "뉴욕증시,반도체옵션수급폭발에급반등···SK하이닉스17.52%↑",
+    "AI훈풍에뉴욕증시일제히반등…나스닥2.8%급등",
+    "UBS,SK하이닉스'매수'투자의견…목표가204달러제시",
+    "최태원,48억들여SK하이닉스첫장내매수…\"메모리는시간두면우상...",
+    "선우용여,40억자산가전원주에“벤츠사서기사써라…돈안쓰고가...",
+    "\"AI거품꺼진다더니\"…MS실적에뉴욕증시다시AI질주"
    ],
    "initialized": true,
-   "last_run": "2026-07-31T06:35:22.668566+09:00"
+   "last_run": "2026-07-31T06:40:33.911325+09:00"
   }
  },
  "press_names": {
