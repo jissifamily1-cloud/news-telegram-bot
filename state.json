@@ -930,11 +930,13 @@
     [
      "2026-07-30T22:35:22.193640+09:00",
      "반도체 기업 부산 교섭서 총파업 이후 빈손 리노공업"
+    ],
+    [
+     "2026-07-30T22:45:28.727867+09:00",
+     "경북에 출범 민선9기 투자하면 성공한다 경북도 투자유치특위"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04723206645519768",
-    "https://www.sisajournal.com/news/articleView.html?idxno=381730",
     "https://www.yna.co.kr/view/AKR20260730105800530?input=1195m",
     "http://www.breaknews.com/1225557",
     "https://www.koreaherald.com/article/10825696",
@@ -2432,11 +2434,11 @@
     "https://www.seoul.co.kr/news/economy/2026/07/30/20260730500263?wlog_tag3=naver",
     "https://www.wikitree.co.kr/articles/1149509",
     "https://www.ekn.kr/web/view.php?key=20260730021098090",
-    "https://www.chosun.com/national/regional/2026/07/30/KG2L4P4BFVGHPFHPWXTK47CRJY/"
+    "https://www.chosun.com/national/regional/2026/07/30/KG2L4P4BFVGHPFHPWXTK47CRJY/",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3651636",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3650578"
    ],
    "seen_titles": [
-    "조현범한국앤컴퍼니회장,오늘가석방...렌터카사업M&A직접챙길듯",
-    "'개인정보유출'KT,539.7억과징금산정기준은?[일문일답]",
     "삼성전자\"3분기HBM4매출3배이상확대…ADR상장검토안해\"",
     "[일문일답]개보위\"KT유출,중대한위반…피해보상·시정조치고려\"",
     "SKT,8~9월요금제·멤버십대규모혜택확대프로모션실시",
@@ -3934,10 +3936,12 @@
     "‘922조증발’폭락장엔정부없었다",
     "최태원회장,개인자격으로SK하이닉스주식48억'첫매수'",
     "삼성물산13년연속시공능력1위…GS건설‘빅3’복귀",
-    "부산반도체기업‘리노공업’총파업이후첫교섭서‘빈손’"
+    "부산반도체기업‘리노공업’총파업이후첫교섭서‘빈손’",
+    "LH,호남권반도체국가산단사업시행자선정…조사설계용역절차돌입",
+    "\"경북에투자하면성공한다\"…경북도,민선9기투자유치특위출범"
    ],
    "initialized": true,
-   "last_run": "2026-07-30T22:40:27.500238+09:00"
+   "last_run": "2026-07-30T22:45:28.727867+09:00"
   }
  },
  "press_names": {
