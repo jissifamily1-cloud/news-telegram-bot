@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-30T18:40:27.044156+09:00",
-     "과제 미래와 청주권의"
-    ],
-    [
      "2026-07-30T18:45:27.196129+09:00",
      "도박판 책임 물어야 주식시장 만든"
     ],
@@ -478,12 +474,13 @@
     [
      "2026-07-31T00:35:29.687819+09:00",
      "삼전닉스 평가 본다 능력 사원 채용때 임원"
+    ],
+    [
+     "2026-07-31T00:40:27.059320+09:00",
+     "런던 변동성 금융가도 흔들어 반도체주"
     ]
    ],
    "seen_urls": [
-    "https://www.electimes.com/news/articleView.html?idxno=370810",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=876551",
-    "https://www.kizmom.com/news/articleView.html?idxno=111816",
     "https://www.mt.co.kr/tech/2026/07/30/2026073011142125801",
     "https://www.joongangenews.com/news/articleView.html?idxno=536652",
     "https://www.seoul.co.kr/news/economy/securities/2026/07/30/20260730500118?wlog_tag3=naver",
@@ -1980,12 +1977,12 @@
     "https://www.chosun.com/economy/industry-company/2026/07/31/QZMD5WHDINFBBKK5LI6VGUDLPA/",
     "https://www.donga.com/news/Economy/article/all/20260730/134397340/2",
     "https://www.joongang.co.kr/article/25449656",
-    "https://www.donga.com/news/Economy/article/all/20260730/134397317/2"
+    "https://www.donga.com/news/Economy/article/all/20260730/134397317/2",
+    "https://www.chosun.com/economy/tech_it/2026/07/31/7MZ5FJYDM5HVVHYGNOL5JIF3FE/",
+    "https://www.chosun.com/economy/money/2026/07/31/DTWTOU6NDBBTLHDTXBVOFEHOKM/",
+    "https://www.chosun.com/economy/stock-finance/2026/07/31/UU33SBB6BRE2HOK43XFPXQLXFY/"
    ],
    "seen_titles": [
-    "배터리순환생태계구축가속화…폐배터리리사이클링관련주로자금...",
-    "삼성물산,2026년시공능력평가1위…현대건설·GS건설뒤이어",
-    "[ICT픽]통신3사,민생안정지원나선다…휴가철맞아멤버십·로밍혜...",
     "유승민\"주식·부동산정책실패…이재명정부경제참모경질해야\"",
     "SKT1348억원,KT540억원…과징금차이왜?",
     "삼성전자\"AI메모리공급난더심해진다\"…HBM4매출3배·생산70%장기...",
@@ -3482,10 +3479,13 @@
     "배터리3사,2분기일제히흑자전환…캐즘본격화이후처음",
     "‘캐즘’빠졌던K배터리3사,ESS등AI수요업고흑자전환",
     "최태원,하닉주식48억어치첫매수",
-    "[단독]삼전닉스,임원평가-사원채용때‘AI능력’본다"
+    "[단독]삼전닉스,임원평가-사원채용때‘AI능력’본다",
+    "하이닉스‘반나절심층면접’…AI활용능력평가",
+    "ETF아버지“단일종목레버리지…상장폐지가아닌‘자연사’시켜야...",
+    "반도체주변동성,런던금융가도흔들어"
    ],
    "initialized": true,
-   "last_run": "2026-07-31T00:35:29.687819+09:00"
+   "last_run": "2026-07-31T00:40:27.059320+09:00"
   }
  },
  "press_names": {
