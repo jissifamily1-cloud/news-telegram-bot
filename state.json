@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-30T06:15:26.252397+09:00",
-     "상위엔 마감 로봇주 거래량 코스닥 전선 코스피 반도체"
-    ],
-    [
-     "2026-07-30T06:15:26.252397+09:00",
-     "상한 과징금 박윤영 1950억 법정 KT 공개 개인정보 유출"
-    ],
-    [
      "2026-07-30T06:20:28.059197+09:00",
      "붕괴 코스피 연속 사상 이틀 서킷브레이커 6000선"
     ],
@@ -1506,14 +1498,17 @@
     [
      "2026-07-30T12:15:26.008399+09:00",
      "황상돈 CSO 몬드리안에이아이 출신 딜로이트 포스코DX 영입"
+    ],
+    [
+     "2026-07-30T12:20:25.582177+09:00",
+     "추가 삼성전자 SK하이닉스는 검토 주주환원 배당 확정"
+    ],
+    [
+     "2026-07-30T12:20:25.582177+09:00",
+     "업계 이목 반도체 공급망 TSMC 잡히나 강진 영향에 구마모토 발목"
     ]
    ],
    "seen_urls": [
-    "https://www.ggilbo.com/news/articleView.html?idxno=1172212",
-    "https://www.ytn.co.kr/_ln/0134_202607291937149190",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472687",
-    "https://www.yna.co.kr/view/AKR20260729175500017?input=1195m",
-    "https://www.newsis.com/view/NISX20260729_0003728834",
     "https://www.khan.co.kr/article/202607291946001",
     "https://sports.khan.co.kr/article/202607291949003?pt=nv",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260730.22010008890",
@@ -3008,14 +3003,14 @@
     "https://www.wikitree.co.kr/articles/1149389",
     "https://www.greened.kr/news/articleView.html?idxno=346373",
     "http://www.fnnews.com/news/202607301055130815",
-    "https://www.etnews.com/20260730000185"
+    "https://www.etnews.com/20260730000185",
+    "https://www.viva100.com/article/20260730500715",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=848860",
+    "https://www.pointe.co.kr/news/articleView.html?idxno=82541",
+    "http://www.popcornnews.net/news/articleView.html?idxno=128181",
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=361061"
    ],
    "seen_titles": [
-    "꽃길대신NBA고된길도전…최준용“한국농구알릴것”",
-    "SK브로드밴드,인천어린이대상방송제작체험교육",
-    "\"삼전닉스레버리지폐기하라\"…국회앞근조화환행렬,무슨일",
-    "[주식마감]엔젤로보틱스인공지능(AI)공개에'들썩'...매드업,한화갤...",
-    "하이닉스실적발표에도나락...물탈까그냥버틸까?[몇층이세요]",
     "삼성액티브자산운용,KoAct배당성장액티브ETF특별분배...주당290원지...",
     "빌게이츠,방한추진…AI·원전협력논의주목",
     "[올댓차이나]대만증시,반도체주급락에나흘째3.76%↓…\"4만선겨우...",
@@ -4510,10 +4505,15 @@
     "“리센느멤버들에게죄송”김선태,논란일자공식사과…무슨일(영...",
     "'202조투자'착공까지속도전…충남도,인허가·전력·용수종합지원가...",
     "이준석\"김용범경질이증시안정화대책\"",
-    "몬드리안에이아이,딜로이트·포스코DX출신황상돈CSO영입"
+    "몬드리안에이아이,딜로이트·포스코DX출신황상돈CSO영입",
+    "삼성물산,시공능력평가13년연속1위…GS건설3위로‘빅3’재진입",
+    "충청권첨단산업392조투자속도…민관TF첫회의개최",
+    "주한중국대사,12년만에울산방문···미래첨단산업협력시동",
+    "삼성전자,배당확정…SK하이닉스는\"추가주주환원검토\"",
+    "TSMC,'구마모토강진'에발목잡히나…공급망영향에반도체업계이목..."
    ],
    "initialized": true,
-   "last_run": "2026-07-30T12:15:26.008399+09:00"
+   "last_run": "2026-07-30T12:20:25.582177+09:00"
   }
  },
  "press_names": {
