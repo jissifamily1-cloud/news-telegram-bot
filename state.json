@@ -325,7 +325,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20260730000283",
     "https://www.gukjenews.com/news/articleView.html?idxno=3650691",
     "http://www.seouleconews.com/news/articleView.html?idxno=92743",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000000308&cp=nv",
@@ -1824,10 +1823,10 @@
     "https://www.seoul.co.kr/news/economy/2026/07/31/20260731500007?wlog_tag3=naver",
     "https://www.moneystorm.kr/news/articleView.html?idxno=5386",
     "https://www.smartbizn.com/news/articleView.html?idxno=149965",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092166950"
+    "https://it.chosun.com/news/articleView.html?idxno=2023092166950",
+    "https://www.kmib.co.kr/article/view.asp?arcid=0030187269&code=61141211&cp=nv"
    ],
    "seen_titles": [
-    "'원팀충북'본격가동…도·시군,민선9기현안해결공조",
     "[뉴스줌인]KT과징금부과율0.9%…'매우중대한위반'피했다",
     "충북도,민선9기'첫시장·군수회의'...상생협력다짐",
     "\"9.7조원규모바이오연료입찰담합\"…공정위,7개업체제재착수",
@@ -3326,10 +3325,11 @@
     "[서울데이터랩]미국증시,기술주·반도체강세에일제히상승",
     "[뉴욕증시마감시황]AI수익화시대열렸다…나스닥2.8%급등,한국증시...",
     "반도체주,뉴욕증시끌어올렸다···홍해방위연합에유가는후퇴",
-    "개미곡소리나는데…증권가,올상반기역대최대실적"
+    "개미곡소리나는데…증권가,올상반기역대최대실적",
+    "주가회복에도구멍난내계좌…레버리지,무서운복리"
    ],
    "initialized": true,
-   "last_run": "2026-07-31T06:25:29.308666+09:00"
+   "last_run": "2026-07-31T06:30:33.872286+09:00"
   }
  },
  "press_names": {
