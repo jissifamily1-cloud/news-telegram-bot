@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-30T19:48:36.175246+09:00",
-     "멈췄다 마비 반도체 심장 공포에 일본 여진 줄줄이"
-    ],
-    [
      "2026-07-30T19:55:21.976623+09:00",
      "first hynix purchase of makes shares personal chief"
     ],
@@ -390,10 +386,13 @@
     [
      "2026-07-31T01:00:41.581582+09:00",
      "영업익 삼성전자 반도체가 5조"
+    ],
+    [
+     "2026-07-31T01:50:28.643352+09:00",
+     "충남도지사 연합장에 선출 제3대 박수현 충청광역연합"
     ]
    ],
    "seen_urls": [
-    "https://www.mediapen.com/news/view/1113246",
     "http://www.paxetv.com/news/articleView.html?idxno=278263",
     "http://www.fnnews.com/news/202607301314030326",
     "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000542510",
@@ -1892,10 +1891,10 @@
     "https://www.chosun.com/economy/stock-finance/2026/07/31/UU33SBB6BRE2HOK43XFPXQLXFY/",
     "https://www.chosun.com/opinion/economic_focus/2026/07/31/4K624XZN7RHXHAM67LPI5AGCR4/",
     "https://www.chosun.com/economy/tech_it/2026/07/31/F6YKARYX5ZDVNMEFVYHZ7EUTWM/",
-    "https://www.news1.kr/politics/president/6244771"
+    "https://www.news1.kr/politics/president/6244771",
+    "http://www.ttlnews.com/news/articleView.html?idxno=3130330"
    ],
    "seen_titles": [
-    "[서울데이터랩]코스피시총상위주장중혼조…한화에어로·LG엔솔강세...",
     "위기의지방은행,상반기순이익줄줄이감소",
     "LH,호남권반도체국가산단예비사업시행자선정…조사설계즉시착수",
     "김선태,리센느'무섭노'재소환비판에사과…\"멤버분들에게죄송\"",
@@ -3394,10 +3393,11 @@
     "반도체주변동성,런던금융가도흔들어",
     "“시장이긴다”더니…정부,시장역공에속수무책",
     "삼성전자영업익89.5조,반도체가99.7%",
-    "李대통령-카스트대통령정상회담…한-칠레'핵심광물·FTA현대화'협의"
+    "李대통령-카스트대통령정상회담…한-칠레'핵심광물·FTA현대화'협의",
+    "충청광역연합,제3대연합장에박수현충남도지사선출"
    ],
    "initialized": true,
-   "last_run": "2026-07-31T01:45:27.945164+09:00"
+   "last_run": "2026-07-31T01:50:28.643352+09:00"
   }
  },
  "press_names": {
