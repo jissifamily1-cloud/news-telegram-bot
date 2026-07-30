@@ -242,11 +242,17 @@
     [
      "2026-07-31T05:15:27.124445+09:00",
      "꼽은 분할매수 공포에 털지 말고 반등 전문가가 포인트"
+    ],
+    [
+     "2026-07-31T05:20:27.061368+09:00",
+     "급등 상승 마감 AI주 뉴욕증시 반도체"
+    ],
+    [
+     "2026-07-31T05:20:27.061368+09:00",
+     "급등 6거래일만에 MS 나스닥 반등"
     ]
    ],
    "seen_urls": [
-    "https://www.topdaily.kr/articles/111213",
-    "https://www.econovill.com/news/articleView.html?idxno=746664",
     "https://www.sportsseoul.com/news/read/1625731",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607281050353880107349",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472936",
@@ -1744,11 +1750,11 @@
     "https://www.seoul.co.kr/news/economy/industry/2026/07/31/20260731030004?wlog_tag3=naver",
     "https://www.chosun.com/international/international_general/2026/07/31/YLSHN55VIZANFHEWSKHQHEFZOM/",
     "https://www.seoul.co.kr/news/economy/industry/2026/07/31/20260731031002?wlog_tag3=naver",
-    "https://www.sidae.com/article/2026073013591163388"
+    "https://www.sidae.com/article/2026073013591163388",
+    "https://biz.sbs.co.kr/article_hub/20000325784?division=NAVER",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01836806645520096"
    ],
    "seen_titles": [
-    "민형배,\"국토부호남권반도체첨단국가산단후보지지정환영\"",
-    "SK㈜,실트론매각논의…최태원'9440억재산분할'실탄만들까",
     "[개보위,그리고KT③]과징금보다고발?사태쟁점톺아보니",
     "‘무섭노’섬네일에이재명·한동훈해시태그?…KBS‘돈선태’무책...",
     "[더벨]'현금넘치는'SK하이닉스,강남입성'호시탐탐'",
@@ -3246,10 +3252,12 @@
     "“전기차캐즘끝보인다”…배터리업계실적반등",
     "반등한반도체,활짝웃은뉴욕증시...나스닥2.8%↑",
     "호반건설시공능력12위유지…삼성물산1위",
-    "\"공포에털지말고분할매수\"…전문가가꼽은'반등포인트'는"
+    "\"공포에털지말고분할매수\"…전문가가꼽은'반등포인트'는",
+    "[속보]반도체·AI주급등…뉴욕증시상승마감",
+    "[속보]나스닥3%↑6거래일만에반등…MS15%급등"
    ],
    "initialized": true,
-   "last_run": "2026-07-31T05:16:07.838312+09:00"
+   "last_run": "2026-07-31T05:20:27.061368+09:00"
   }
  },
  "press_names": {
