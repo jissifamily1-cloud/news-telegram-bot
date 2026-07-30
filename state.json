@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-30T06:55:20.380777+09:00",
-     "SK하이닉스 개선될 CLSA증권 실적"
-    ],
-    [
-     "2026-07-30T06:55:20.380777+09:00",
-     "증발 삼전 공황급 닉스 증시폭락의 2000조 책임"
-    ],
-    [
-     "2026-07-30T06:55:20.380777+09:00",
-     "광화문 해보니 쓰고 메타 글라스 산책 레이밴"
-    ],
-    [
      "2026-07-30T07:00:39.947245+09:00",
      "현실화 SK하이닉스 수요일 검은 실적에도"
     ],
@@ -1481,13 +1469,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.kyeongin.com/article/1768137",
-    "https://www.kyeongin.com/article/1768136",
-    "https://sports.khan.co.kr/article/202607292013003?pt=nv",
-    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5209071",
-    "https://www.econovill.com/news/articleView.html?idxno=746588",
-    "https://en.yna.co.kr/view/AEN20260729010900320?input=2106m",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16149127",
     "http://www.dailyesports.com/view.php?ud=20260729201735917674bcc1e038_27",
     "https://www.econovill.com/news/articleView.html?idxno=746590",
     "http://coinreaders.com/250178",
@@ -2980,16 +2961,16 @@
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=142300",
     "https://www.dailian.co.kr/news/view/1672689/?sc=Naver",
     "https://www.sedaily.com/article/20073791",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04723206645519768"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=04723206645519768",
+    "https://www.sisajournal.com/news/articleView.html?idxno=381730",
+    "https://www.yna.co.kr/view/AKR20260730105800530?input=1195m",
+    "http://www.breaknews.com/1225557",
+    "https://www.koreaherald.com/article/10825696",
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=422766",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=362816",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=738523"
    ],
    "seen_titles": [
-    "\"동아에스티,최대매출속목표가하향…'비만·MASH'신약이밸류에이...",
-    "빌게이츠,1년만에방한추진…AI·차세대원전논의전망",
-    "빌게이츠,방한추진…한성숙총리와면담조율",
-    "[알림]평택시체육회주최2026평택항마라톤대회10월11일",
-    "[경인Pick]용인반도체산단조성‘속도’내는데…현장노동자는‘...",
-    "‘최고명문’바이에른뮌헨오픈트레이닝개최…티켓하나로훈련부...",
-    "[긴급진단]코스피어디까지떨어질까?…개미들'패닉셀링'",
     "사상첫이틀연속'서킷브레이커'…코스피6천선붕괴,반도체충격에...",
     "BillGatesplanningtovisitS.Koreanextmonth:industrysources",
     "\"재수없게왜자꾸알려줘\"…SK하이닉스주식매수한신기루,주가폭락...",
@@ -4482,10 +4463,17 @@
     "'삼전닉스'반등먹구름,메타AI투자기대이하...美매파동결에이란...",
     "같은이동통신매출기준인데…KT과징금왜달랐나",
     "조현범한국앤컴퍼니회장,오늘가석방...렌터카사업M&A직접챙길듯",
-    "'개인정보유출'KT,539.7억과징금산정기준은?[일문일답]"
+    "'개인정보유출'KT,539.7억과징금산정기준은?[일문일답]",
+    "삼성전자\"3분기HBM4매출3배이상확대…ADR상장검토안해\"",
+    "[일문일답]개보위\"KT유출,중대한위반…피해보상·시정조치고려\"",
+    "SKT,8~9월요금제·멤버십대규모혜택확대프로모션실시",
+    "KoreaunveilsfreshcurbsonleveragedETFs",
+    "KT,540억해킹과징금철퇴···조사방해혐의로고발도당해",
+    "장마감쏠림막는다…금투업계,리밸런싱장중분산추진",
+    "빌게이츠,1년만에한국재방문…SMR전력인프라돌파구찾는다"
    ],
    "initialized": true,
-   "last_run": "2026-07-30T12:50:32.368168+09:00"
+   "last_run": "2026-07-30T12:55:27.304034+09:00"
   }
  },
  "press_names": {
