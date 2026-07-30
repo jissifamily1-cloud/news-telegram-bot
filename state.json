@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-31T00:15:26.296013+09:00",
-     "체결 코인 1주 연쇄 하한가 청산 대체거래소 800억 파생시장에서"
-    ],
-    [
-     "2026-07-31T00:15:26.296013+09:00",
-     "반도체주 동반 반등 강세 호실적 마이크로소프트 뉴욕증시"
-    ],
-    [
-     "2026-07-31T00:20:26.147545+09:00",
-     "경제정책 호황 가져야 너머를 보는 반도체 시각"
-    ],
-    [
      "2026-07-31T00:25:22.460179+09:00",
      "핵심광물 대통령 정상회담 카스트 현대화 논의 FTA 대통령과"
     ],
@@ -326,12 +314,13 @@
     [
      "2026-07-31T06:15:24.950482+09:00",
      "웰니스로 될까 성장축 돌린 SK인텔릭스 나무엑스"
+    ],
+    [
+     "2026-07-31T06:20:35.745085+09:00",
+     "매각 헤지펀드 시추에이셔널 투자손실 시타델에 자산"
     ]
    ],
    "seen_urls": [
-    "https://www.kukinews.com/article/view/kuk202607300101",
-    "https://biz.heraldcorp.com/article/10825805",
-    "https://www.wikitree.co.kr/articles/1149437",
     "https://www.viva100.com/article/20260730500753",
     "https://www.mk.co.kr/article/12111903",
     "https://www.chosun.com/economy/industry-company/2026/07/30/7QA2TFETZVDXVBHSTS76TYNQZY/",
@@ -1828,12 +1817,12 @@
     "https://www.news1.kr/world/international-economy/6244797",
     "https://www.enetnews.co.kr/news/articleView.html?idxno=52936",
     "https://www.mt.co.kr/world/2026/07/31/2026073106081134093",
-    "https://www.ngetnews.com/news/articleView.html?idxno=552002"
+    "https://www.ngetnews.com/news/articleView.html?idxno=552002",
+    "https://www.munhwa.com/article/11606230",
+    "https://biz.sbs.co.kr/article_hub/20000325794?division=NAVER",
+    "https://www.yna.co.kr/view/AKR20260731008000072?input=1195m"
    ],
    "seen_titles": [
-    "[특징주]건설株광주반도체국가산단후보지지정에강세…금호건설...",
-    "인사처,퇴직공직자취업심사강화…공항공사사장행등14건제동",
-    "바이오연료입찰서11년간짬짜미…최대2조원대과징금전망",
     "주식으로'22억'잃었다는사람이쓴글...네티즌반응이싸늘한이유",
     "“렌트•법인카아녔다”⋯BYD개인구매비중88%,테슬라넘었다",
     "Gov’tlaunchespublic-privateallianceforAIdatacenters",
@@ -3330,10 +3319,13 @@
     "필라반도체지수8.2%급등…마이크론18%·SK하닉ADR17%↑",
     "[브랜드평판]네이버페이,간편결제7월1위...삼성페이,토스페이뒤이...",
     "MS가효자,급락장끊었다…반도체도급반등[뉴욕마감]",
-    "AI웰니스로눈돌린SK인텔릭스…'나무엑스'새성장축될까"
+    "AI웰니스로눈돌린SK인텔릭스…'나무엑스'새성장축될까",
+    "[속보]마소가AI랠리살렸다…SK하닉ADR17%급등,뉴욕증시강세마감",
+    "KT,'5G과장광고'139억원과징금불복소송공정위에패소",
+    "'AI투자손실'헤지펀드시추에이셔널,시타델에자산매각"
    ],
    "initialized": true,
-   "last_run": "2026-07-31T06:15:24.950482+09:00"
+   "last_run": "2026-07-31T06:20:35.745085+09:00"
   }
  },
  "press_names": {
