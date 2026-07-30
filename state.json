@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-31T00:25:22.460179+09:00",
-     "핵심광물 대통령 정상회담 카스트 현대화 논의 FTA 대통령과"
-    ],
-    [
      "2026-07-31T00:35:29.687819+09:00",
      "삼전닉스 평가 본다 능력 사원 채용때 임원"
     ],
@@ -318,15 +314,17 @@
     [
      "2026-07-31T06:20:35.745085+09:00",
      "매각 헤지펀드 시추에이셔널 투자손실 시타델에 자산"
+    ],
+    [
+     "2026-07-31T06:25:29.308666+09:00",
+     "연합에 방위 유가는 반도체주 끌어올렸다 후퇴 홍해 뉴욕증시"
+    ],
+    [
+     "2026-07-31T06:25:29.308666+09:00",
+     "곡소리 나는데 상반기 증권가 개미 역대 실적"
     ]
    ],
    "seen_urls": [
-    "https://www.viva100.com/article/20260730500753",
-    "https://www.mk.co.kr/article/12111903",
-    "https://www.chosun.com/economy/industry-company/2026/07/30/7QA2TFETZVDXVBHSTS76TYNQZY/",
-    "https://www.news1.kr/finance/general-stock/6244128",
-    "http://www.thebigdata.co.kr/view.php?ud=2026073009142237250ecbf9426b_23",
-    "https://www.bzeronews.com/news/articleView.html?idxno=820702",
     "https://www.etnews.com/20260730000283",
     "https://www.gukjenews.com/news/articleView.html?idxno=3650691",
     "http://www.seouleconews.com/news/articleView.html?idxno=92743",
@@ -1820,15 +1818,15 @@
     "https://www.ngetnews.com/news/articleView.html?idxno=552002",
     "https://www.munhwa.com/article/11606230",
     "https://biz.sbs.co.kr/article_hub/20000325794?division=NAVER",
-    "https://www.yna.co.kr/view/AKR20260731008000072?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260731008000072?input=1195m",
+    "https://www.sidae.com/article/2026073106200272219",
+    "https://www.news2day.co.kr/article/20260730500154",
+    "https://www.seoul.co.kr/news/economy/2026/07/31/20260731500007?wlog_tag3=naver",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=5386",
+    "https://www.smartbizn.com/news/articleView.html?idxno=149965",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092166950"
    ],
    "seen_titles": [
-    "주식으로'22억'잃었다는사람이쓴글...네티즌반응이싸늘한이유",
-    "“렌트•법인카아녔다”⋯BYD개인구매비중88%,테슬라넘었다",
-    "Gov’tlaunchespublic-privateallianceforAIdatacenters",
-    "조현범석방으로,3년오너리스크해소된한국타이어앞날은?",
-    "코스피급락에뿔난개미…'국민과주주'정당창당나섰다",
-    "삼전·하이닉스,HBM4경쟁본격화...에이전틱AI확산주도권잡는다",
     "'원팀충북'본격가동…도·시군,민선9기현안해결공조",
     "[뉴스줌인]KT과징금부과율0.9%…'매우중대한위반'피했다",
     "충북도,민선9기'첫시장·군수회의'...상생협력다짐",
@@ -3322,10 +3320,16 @@
     "AI웰니스로눈돌린SK인텔릭스…'나무엑스'새성장축될까",
     "[속보]마소가AI랠리살렸다…SK하닉ADR17%급등,뉴욕증시강세마감",
     "KT,'5G과장광고'139억원과징금불복소송공정위에패소",
-    "'AI투자손실'헤지펀드시추에이셔널,시타델에자산매각"
+    "'AI투자손실'헤지펀드시추에이셔널,시타델에자산매각",
+    "[뉴욕증시]SK하이닉스ADR18%급등…나스닥2.8%등3대지수껑충",
+    "[N2모닝경제브리핑-7월31일]美증시,MS가되살린AI랠리…나스닥...",
+    "[서울데이터랩]미국증시,기술주·반도체강세에일제히상승",
+    "[뉴욕증시마감시황]AI수익화시대열렸다…나스닥2.8%급등,한국증시...",
+    "반도체주,뉴욕증시끌어올렸다···홍해방위연합에유가는후퇴",
+    "개미곡소리나는데…증권가,올상반기역대최대실적"
    ],
    "initialized": true,
-   "last_run": "2026-07-31T06:20:35.745085+09:00"
+   "last_run": "2026-07-31T06:25:29.308666+09:00"
   }
  },
  "press_names": {
