@@ -366,10 +366,13 @@
     [
      "2026-07-31T02:05:22.801800+09:00",
      "90조원보다 거품 삼성전자의 공포 강했던"
+    ],
+    [
+     "2026-07-31T02:25:30.156891+09:00",
+     "주가 마이너스 2배 회복돼도 계좌는 레버리지 삼전하닉"
     ]
    ],
    "seen_urls": [
-    "https://www.polinews.co.kr/news/articleView.html?idxno=738518",
     "https://www.starnewskorea.com/business-life/2026/07/30/2026073013322371311",
     "https://www.tournews21.com/news/articleView.html?idxno=139796",
     "https://www.ajunews.com/view/20260730133018189",
@@ -1868,10 +1871,10 @@
     "http://www.ttlnews.com/news/articleView.html?idxno=3130271",
     "https://www.newsverse.kr/news/articleView.html?idxno=11055",
     "https://www.kmib.co.kr/article/view.asp?arcid=1785402528&code=11151200&cp=nv",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4427899"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4427899",
+    "https://www.newsis.com/view/NISX20260730_0003729723"
    ],
    "seen_titles": [
-    "충북단체장한자리…신용한지사“원팀구축”",
     "[분석]'AI플랫폼'선언한KT…18조투자,통신기업한계돌파승부수",
     "SKT·KT·LG유플3사,휴가철'민생할인'확대...멤버십할인·로밍혜택",
     "LH,호남권반도체국가산단선정즉시설계절차착수…역대최단기간...",
@@ -3370,10 +3373,11 @@
     "SK이노베이션2분기매출29.1조·영업익3.48조…배터리·윤활유실적...",
     "[오늘의경제뉴스]삼성전자의90조원보다강했던AI거품공포",
     "오늘부터3000만원있어야단일종목레버리지베팅",
-    "한·칠레정상회담돌입…공급망·FTA현대화'경제안보'협력본격화"
+    "한·칠레정상회담돌입…공급망·FTA현대화'경제안보'협력본격화",
+    "삼전하닉주가회복돼도내계좌는마이너스?…'2배레버리지'의덫"
    ],
    "initialized": true,
-   "last_run": "2026-07-31T02:20:30.876555+09:00"
+   "last_run": "2026-07-31T02:25:30.156891+09:00"
   }
  },
  "press_names": {
