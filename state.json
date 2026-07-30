@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-30T21:55:27.951993+09:00",
-     "괴리율"
-    ],
-    [
-     "2026-07-30T21:55:27.951993+09:00",
-     "주주 정치에 사상 정당 주가 개미들 만든다 내려앉자 들이는"
-    ],
-    [
      "2026-07-30T22:05:27.903798+09:00",
      "진입 버블 위기의 가능성 국면 K증시 외신이 전조 최악 붕괴"
     ],
@@ -194,11 +186,17 @@
     [
      "2026-07-31T03:35:22.793033+09:00",
      "바라보는 SK하닉 시각은 과잉 글로벌 삼성 VS 슈퍼사이클"
+    ],
+    [
+     "2026-07-31T04:00:33.603292+09:00",
+     "폭락 한국 월가에서도 기술주 경고등 레버리지 ETF 촉발"
+    ],
+    [
+     "2026-07-31T04:00:33.603292+09:00",
+     "상승여력 SK하이닉스 저평가 UBS ADR"
     ]
    ],
    "seen_urls": [
-    "https://www.s-journal.co.kr/news/articleView.html?idxno=42735",
-    "https://www.seoul.co.kr/news/economy/securities/2026/07/30/20260730500117?wlog_tag3=naver",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04821606645519768",
     "https://biz.sbs.co.kr/article_hub/20000325563?division=NAVER",
     "https://www.etoday.co.kr/news/view/2609255",
@@ -1696,11 +1694,11 @@
     "https://www.news1.kr/politics/president/6244783",
     "https://www.mt.co.kr/industry/2026/07/31/2026073020141517971",
     "https://www.mt.co.kr/tech/2026/07/31/2026073020025975497",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=01403846645520096"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01403846645520096",
+    "https://www.g-enews.com/view.php?ud=20260730190617307fbbec65dfb_1",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01466166645520096"
    ],
    "seen_titles": [
-    "SK하이닉스,AI활용인재찾는다…“반나절심층면접으로검증”",
-    "[S-이슈]KT'2000억과징금'갈림길…박윤영,취임첫해부터보안리스...",
     "[서울데이터랩]코스피거래상위종목혼조세…금호건설상한가,SK하이닉...",
     "‘롤러코스터’코스피…등락거듭하며변동성장세",
     "[시장따라잡기]하반기로봇모멘텀유효진단속주목할곳은?",
@@ -3198,10 +3196,12 @@
     "[뉴스1PICK]李대통령-카스트대통령정상회담…한-칠레'핵심광물·FTA...",
     "삼전닉스,매일1.6조벌었다",
     "개보위,KT'정보유출'과징금540억부과",
-    "슈퍼사이클VS과잉…삼성·SK하닉바라보는글로벌시각은"
+    "슈퍼사이클VS과잉…삼성·SK하닉바라보는글로벌시각은",
+    "한국레버리지ETF폭락…월가에서도기술주경고등촉발",
+    "UBS\"SK하이닉스ADR,저평가\"…상승여력61%"
    ],
    "initialized": true,
-   "last_run": "2026-07-31T03:55:21.326127+09:00"
+   "last_run": "2026-07-31T04:00:33.603292+09:00"
   }
  },
  "press_names": {
