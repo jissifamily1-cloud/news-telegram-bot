@@ -346,18 +346,17 @@
     [
      "2026-07-31T06:40:33.911325+09:00",
      "질주 MS 꺼진다더니 실적에 거품 다시 뉴욕증시"
+    ],
+    [
+     "2026-07-31T06:45:26.329336+09:00",
+     "설명이 파괴적 폭락 않은 쉽지"
+    ],
+    [
+     "2026-07-31T06:45:26.329336+09:00",
+     "한국 6200억 사이버보험의 과징금에 쿠팡 가려진 명암"
     ]
    ],
    "seen_urls": [
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/30/2026073000203.html",
-    "https://www.koreaittimes.com/news/articleView.html?idxno=155655",
-    "https://www.sentv.co.kr/article/view/sentv202607300102",
-    "http://www.newstomato.com/ReadNews.aspx?no=1308718&inflow=N",
-    "https://www.mediawatch.kr/news/article.html?no=260513",
-    "http://www.4th.kr/news/articleView.html?idxno=2115515",
-    "https://www.hankyung.com/article/202607305743i",
-    "http://www.00news.co.kr/news/articleView.html?idxno=105529",
-    "https://www.etoday.co.kr/news/view/2609285",
     "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607300471&t=NNv",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=661564",
     "https://www.thepowernews.co.kr/view.php?ud=202607301426218125de3f0aa1be_7",
@@ -1848,18 +1847,18 @@
     "https://www.g-enews.com/view.php?ud=20260731063345501e250e8e188_1",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=62234",
     "https://www.newsen.com/news_view.php?uid=202607310618072110",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=93039"
+    "http://www.newsian.co.kr/news/articleView.html?idxno=93039",
+    "https://www.mydaily.co.kr/page/view/2026073106275194867",
+    "https://www.mediapen.com/news/view/1113440",
+    "https://www.slist.kr/news/articleView.html?idxno=755453",
+    "https://www.delighti.co.kr/news/articleView.html?idxno=119626",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607301409596480203",
+    "https://www.news2day.co.kr/article/20260731500011",
+    "https://www.mt.co.kr/society/2026/07/31/2026073106252288443",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607301547351670242",
+    "https://www.g-enews.com/view.php?ud=2026073106362494542bd56fbc3c_1"
    ],
    "seen_titles": [
-    "미국기준금리'동결했지만...'인상가능성열어둬",
-    "반도체더달린다…삼전“내년메모리초과수요확대,파운드리흑전...",
-    "LH,호남권반도체국가산단조성속도전…조사설계발주착수",
-    "SK텔레콤,8~9월고객혜택확대…에어포인트·T멤버십강화",
-    "증시폭락에부동산꿈틀…머니무브역행",
-    "KT,개인정보유출사고로540억과징금…로그삭제·거짓진술로고발...",
-    "통신3사,휴가철요금·로밍·멤버십혜택확대",
-    "LH,호남반도체산단속도전…\"설계용역절반으로단축\"",
-    "[김현철의美증시]뉴욕증시폭락...연준매파적동결·중동긴장이중...",
     "KT,개인정보유출과징금539억원…SKT와무엇이달랐나",
     "삼성\"5년장기계약만70%…HBM4매출3배뛴다\"",
     "[기획]투자자예탁금100조원대…약해진'투자열풍'",
@@ -3350,10 +3349,19 @@
     "UBS,SK하이닉스'매수'투자의견…목표가204달러제시",
     "최태원,48억들여SK하이닉스첫장내매수…\"메모리는시간두면우상...",
     "선우용여,40억자산가전원주에“벤츠사서기사써라…돈안쓰고가...",
-    "\"AI거품꺼진다더니\"…MS실적에뉴욕증시다시AI질주"
+    "\"AI거품꺼진다더니\"…MS실적에뉴욕증시다시AI질주",
+    "개미들비명속'하이닉스48억매수'직관한슈카…알고보니최태원회...",
+    "[美증시]MS훈풍에3대지수동반급등…반도체폭등,피크아웃공포'...",
+    "뉴욕증시,반도체주반등에강세마감…하이닉스ADR18%↑",
+    "최태원SK회장,SK하이닉스주식48억원어치첫장내매수…\"책임경영의...",
+    "[韓증시어디로]뒤늦은단일종목레버리지옥죄기",
+    "뉴욕증시,AI우려털고상승마감…필라델피아반도체지수8%급등",
+    "\"40년모은22억다잃었다\"…하닉레버리지몰빵한직장인인증글",
+    "[韓증시어디로]설명이쉽지않은파괴적폭락",
+    "쿠팡6200억과징금에가려진한국사이버보험의명암"
    ],
    "initialized": true,
-   "last_run": "2026-07-31T06:40:33.911325+09:00"
+   "last_run": "2026-07-31T06:45:26.329336+09:00"
   }
  },
  "press_names": {
