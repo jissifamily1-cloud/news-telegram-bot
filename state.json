@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-30T06:50:27.753574+09:00",
-     "BNK SK하이닉스 185만 목표주가 148만원"
-    ],
-    [
-     "2026-07-30T06:50:27.753574+09:00",
-     "어닝 서프라이즈도 통했다 고평가 시대 성장주"
-    ],
-    [
      "2026-07-30T06:55:20.380777+09:00",
      "SK하이닉스 개선될 CLSA증권 실적"
     ],
@@ -1478,14 +1470,17 @@
     [
      "2026-07-30T12:45:26.764143+09:00",
      "16강 코리아컵 제주 진출"
+    ],
+    [
+     "2026-07-30T12:50:32.368168+09:00",
+     "직접 조현범 사업 렌터카 회장 한국앤컴퍼니 가석방 챙길"
+    ],
+    [
+     "2026-07-30T12:50:32.368168+09:00",
+     "개인정보 산정 7억 기준은 과징금 KT 유출"
     ]
    ],
    "seen_urls": [
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607290527&t=NN",
-    "https://www.kyeongin.com/article/1768138",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=270663",
-    "https://www.hankyung.com/article/2026072940847",
-    "https://biz.heraldcorp.com/article/10824863",
     "https://www.kyeongin.com/article/1768137",
     "https://www.kyeongin.com/article/1768136",
     "https://sports.khan.co.kr/article/202607292013003?pt=nv",
@@ -2980,14 +2975,14 @@
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260730.99099008990",
     "http://www.tvdaily.co.kr/read.php3?aid=17853825191795758002",
     "https://www.seoul.co.kr/news/economy/securities/2026/07/30/20260730500107?wlog_tag3=naver",
-    "http://www.samdailbo.com/news/articleView.html?idxno=268272"
+    "http://www.samdailbo.com/news/articleView.html?idxno=268272",
+    "https://www.ajunews.com/view/20260730113153983",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=142300",
+    "https://www.dailian.co.kr/news/view/1672689/?sc=Naver",
+    "https://www.sedaily.com/article/20073791",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=04723206645519768"
    ],
    "seen_titles": [
-    "亞AI반도체매도확산…한국수출‘반도체쏠림’시험대",
-    "“빌게이츠다음달한국찾을까…AI·원전협력논의주목”",
-    "SKhynixrejectspeakfearsafterrecordquarter",
-    "사상최대실적에도'풀썩'...과도한공포의실체는[B급기자의B급리포...",
-    "[중고차성지의그림자·(1)]만년주차난가져온‘행정공백’",
     "\"동아에스티,최대매출속목표가하향…'비만·MASH'신약이밸류에이...",
     "빌게이츠,1년만에방한추진…AI·차세대원전논의전망",
     "빌게이츠,방한추진…한성숙총리와면담조율",
@@ -4482,10 +4477,15 @@
     "삼성전자2분기영업익89.5조중89.2조반도체...30일오전주가우상...",
     "'♥박성광'이솔이,하이닉스280층주민…\"울고싶어\"[★한컷]",
     "[속보]‘롤코’무섭네…코스피다시‘파란불’,하이닉스5%대급락",
-    "제주,코리아컵16강진출"
+    "제주,코리아컵16강진출",
+    "공정위,바이오연료납품입찰담합한제조·판매사업자7곳에제재착...",
+    "'삼전닉스'반등먹구름,메타AI투자기대이하...美매파동결에이란...",
+    "같은이동통신매출기준인데…KT과징금왜달랐나",
+    "조현범한국앤컴퍼니회장,오늘가석방...렌터카사업M&A직접챙길듯",
+    "'개인정보유출'KT,539.7억과징금산정기준은?[일문일답]"
    ],
    "initialized": true,
-   "last_run": "2026-07-30T12:45:26.764143+09:00"
+   "last_run": "2026-07-30T12:50:32.368168+09:00"
   }
  },
  "press_names": {
