@@ -538,11 +538,17 @@
     [
      "2026-07-31T00:10:34.199557+09:00",
      "아파트 피눈물 피같은 손실에 잔금인데 개미들"
+    ],
+    [
+     "2026-07-31T00:15:26.296013+09:00",
+     "체결 코인 1주 연쇄 하한가 청산 대체거래소 800억 파생시장에서"
+    ],
+    [
+     "2026-07-31T00:15:26.296013+09:00",
+     "반도체주 동반 반등 강세 호실적 마이크로소프트 뉴욕증시"
     ]
    ],
    "seen_urls": [
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2291549",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=356715",
     "https://view.asiae.co.kr/article/2026073012065998189",
     "http://www.inews24.com/view/1990270",
     "https://biz.chosun.com/real_estate/real_estate_general/2026/07/30/FYZB5R22DVG73A7ZRW25POEOEE/",
@@ -2040,11 +2046,11 @@
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=83720",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=83722",
     "https://www.hankyung.com/article/2026073063531",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1785403334&code=11151200&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=1785403334&code=11151200&cp=nv",
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=431921",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=83729"
    ],
    "seen_titles": [
-    "정부,기업400조원충청권투자이행위해범부처지원방안연내발표",
-    "충남도,202조첨단산업투자지원체계가동",
     "한화시스템,2분기영업익1037억원…전년동기대비219%증가",
     "개인정보위,KT에과징금540억원…\"악성코드감염별도처분\"(종합)",
     "삼성전자,역대최대실적보다빛난'달라진IR'…시장도호응",
@@ -3542,10 +3548,12 @@
     "[클로즈업]'5600선붕괴'후폭풍…반도체·2차전지시총대거증발",
     "[더페어돋보기]'사흘간1162포인트털렸다'…코스피시총상위톱10서...",
     "[사설]기업도산역대최대…벼랑끝내몰린제조·건설업",
-    "“아파트잔금인데…”피같은돈손실에개미들피눈물"
+    "“아파트잔금인데…”피같은돈손실에개미들피눈물",
+    "대체거래소단1주하한가체결…코인파생시장에서'800억연쇄청산'...",
+    "마이크로소프트호실적뉴욕증시반등…AI·반도체주동반강세"
    ],
    "initialized": true,
-   "last_run": "2026-07-31T00:10:34.199557+09:00"
+   "last_run": "2026-07-31T00:15:26.296013+09:00"
   }
  },
  "press_names": {
