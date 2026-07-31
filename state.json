@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-31T23:35:20.849742+09:00",
-     "밖으로도 특구 메가특구 완화 단계적 52시간 확대하라"
-    ],
-    [
      "2026-07-31T23:50:30.910240+09:00",
      "한중엔시에스 SK하이닉 미래산업 LG유플러스 현대자동차"
     ],
@@ -190,11 +186,13 @@
     [
      "2026-08-01T05:35:20.163973+09:00",
      "예탁금 단기 ETF 레버리지 상향 단일종목 있었다 효과"
+    ],
+    [
+     "2026-08-01T05:40:34.614600+09:00",
+     "훈풍 아마존 상승 미국증시 3대지수"
     ]
    ],
    "seen_urls": [
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/31/2026073100110.html",
-    "https://www.irobotnews.com/news/articleView.html?idxno=47692",
     "https://biz.heraldcorp.com/article/10826983",
     "http://www.yonhapnewstv.co.kr/news/MYH202607311144192FQ",
     "https://www.ytn.co.kr/_ln/0102_202607311144356487",
@@ -1692,11 +1690,11 @@
     "https://www.newsis.com/view/NISX20260731_0003730932",
     "http://www.fnnews.com/news/202608010520078353",
     "https://www.thescoop.co.kr/news/articleView.html?idxno=311106",
-    "https://www.mt.co.kr/stock/2026/08/01/2026072417080743213"
+    "https://www.mt.co.kr/stock/2026/08/01/2026072417080743213",
+    "https://www.mediapen.com/news/view/1113685",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=169148"
    ],
    "seen_titles": [
-    "최태원SK회장의키옥시아뚝심...아픈손가락이'효자'됐다",
-    "S.Korea,Japanmaintainingclosecoordination:seniorfinancialoff",
     "‘방출만세번’김진성,KBO최다타이177홀드…새역사까지단1홀...",
     "김민재,프리시즌첫경기33분소화…뮌헨15-0대승",
     "독파모2차평가임박…4社채비마무리“규모경쟁끝…사용성이판...",
@@ -3194,10 +3192,12 @@
     "\"한달만에1000만원증발\"…주식폭락에개미들\"휴가취소했다“",
     "[뉴욕증시]3대지수상승지속…하이퍼스케일러급등",
     "최태원14억잭팟vs개미10조매도…역대급상승장두얼굴",
-    "단일종목레버리지ETF'예탁금상향'단기효과있었다"
+    "단일종목레버리지ETF'예탁금상향'단기효과있었다",
+    "[美증시]아마존클라우드훈풍에3대지수동반랠리…반도체는혼조",
+    "아마존훈풍...미국증시3대지수'또상승'"
    ],
    "initialized": true,
-   "last_run": "2026-08-01T05:35:20.163973+09:00"
+   "last_run": "2026-08-01T05:40:34.614600+09:00"
   }
  },
  "press_names": {
