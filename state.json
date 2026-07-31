@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-31T07:38:50.565993+09:00",
-     "가속 실적 걷어낸 지속확대 수익화 회의론 빅테크 AI투자"
-    ],
-    [
-     "2026-07-31T07:40:26.554710+09:00",
-     "수혜 IBK 어닝 이끈 공급난 서프라이즈 윤활기유가 장기화 SK이노"
-    ],
-    [
      "2026-07-31T07:45:27.057291+09:00",
      "70억 AI헤지펀드 넘겼다 베팅 결국 SK하닉 포트폴리오 ADR에 달러"
     ],
@@ -1226,15 +1218,21 @@
     [
      "2026-07-31T13:34:33.524449+09:00",
      "투자 풋옵션 앞둔 엘디카본 125억 변수 신규"
+    ],
+    [
+     "2026-07-31T13:40:33.011232+09:00",
+     "AI의 구출한 신호 노스트라다무스 반도체주 시타델 진바닥"
+    ],
+    [
+     "2026-07-31T13:40:33.011232+09:00",
+     "시총 성적에 침울 업체 올해 50곳 정보통신 SK텔레"
+    ],
+    [
+     "2026-07-31T13:40:33.011232+09:00",
+     "코스피 유가 돌파 7월 급락 계란시장 90달러 웃돈"
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202607302118290531",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607302103185420275",
-    "https://www.dongponews.net/news/articleView.html?idxno=59594",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1718523",
-    "https://www.ulsanpress.net/news/articleView.html?idxno=580197",
-    "https://www.ulsanpress.net/news/articleView.html?idxno=580203",
     "http://www.cctimes.kr/news/articleView.html?idxno=919472",
     "http://www.cctimes.kr/news/articleView.html?idxno=919468",
     "https://www.ulsanpress.net/news/articleView.html?idxno=580147",
@@ -2728,15 +2726,15 @@
     "http://www.yonhapnewstv.co.kr/news/MYH202607311330327QT",
     "http://www.fnnews.com/news/202607311327494248",
     "https://www.startuptoday.co.kr/news/articleView.html?idxno=808379",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607291047594000109664"
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607291047594000109664",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=313907",
+    "https://biz.newdaily.co.kr/site/data/html/2026/07/31/2026073100149.html",
+    "https://biz.sbs.co.kr/article_hub/20000325902?division=NAVER",
+    "http://www.4th.kr/news/articleView.html?idxno=2115604",
+    "https://www.greened.kr/news/articleView.html?idxno=346535",
+    "http://kor.theasian.asia/archives/411141"
    ],
    "seen_titles": [
-    "'-34%'공포의7월…\"지금팔때아니다\"반전전망이유는",
-    "반등못한코스피",
-    "최태원,SK하닉주식샀다...3260주48억첫장내매수",
-    "최태원,SK하이닉스48억첫장내매수…급락장에‘책임경영’카드꺼...",
-    "SK하이닉스파격공채…재외동포청년들에게도기회가될까.",
-    "LH,호남권반도체국가산단설계착수…이성훈\"세계최고속도로부지...",
     "SK이노,2분기영업익3조5천억'흑자전환'",
     "울산에너지고,반도체맞춤형교육과정운영81명조기취업",
     "반도체특별법새달11일시행충청권클러스터지정총력전",
@@ -4230,10 +4228,16 @@
     "[이시각헤드라인]7월31일뉴스현장",
     "SK하이닉스상한가가나…코스피장중17%폭등,사상최대상승률눈앞...",
     "[포커스]예탁금3배올려도규제첫날무색…'삼전닉스레버리지ETF'다...",
-    "[더벨][CompanyWatch]신규투자앞둔엘디카본,125억풋옵션'변수'"
+    "[더벨][CompanyWatch]신규투자앞둔엘디카본,125억풋옵션'변수'",
+    "단일종목레버리지예탁금상향에도첫날거래폭발",
+    "쿠팡도'1인당10만원'배상결정…SKT전철밟나",
+    "SK오션플랜트,국내첫유럽해상풍력하부구조물수주",
+    "'AI의노스트라다무스'구출한시타델…반도체주'진바닥'신호?",
+    "[데이터뉴스룸]정보통신업체50곳중올해시총성적에침울…SK텔레...",
+    "[오늘의신문]7월코스피34%급락·유가90달러돌파…계란시장‘웃돈..."
    ],
    "initialized": true,
-   "last_run": "2026-07-31T13:35:23.884457+09:00"
+   "last_run": "2026-07-31T13:40:33.011232+09:00"
   }
  },
  "press_names": {
