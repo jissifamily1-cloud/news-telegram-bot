@@ -218,12 +218,17 @@
     [
      "2026-08-01T06:15:36.268011+09:00",
      "7월 보니 ETF 상장 변동장 다수 액티브"
+    ],
+    [
+     "2026-08-01T06:25:22.657686+09:00",
+     "조모 그리고 포모 모모"
+    ],
+    [
+     "2026-08-01T06:25:22.657686+09:00",
+     "설비투자 105억 ASE 달러 2026년 확충"
     ]
    ],
    "seen_urls": [
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5209448",
-    "https://www.ngetnews.com/news/articleView.html?idxno=552010",
-    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2252339",
     "https://www.dizzotv.com/site/data/html_dir/2026/07/31/2026073180059.html",
     "https://www.inthenews.co.kr/news/article.html?no=90020",
     "https://www.news1.kr/finance/general-stock/6245274",
@@ -1720,12 +1725,12 @@
     "https://www.globale.co.kr/news/articleView.html?idxno=39651",
     "https://www.mk.co.kr/article/12114137",
     "https://www.sedaily.com/article/20074588",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608010282&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608010282&t=NN",
+    "http://www.joseilbo.com/news/news_read.php?uid=573044&class=53",
+    "http://www.jbsori.com/news/articleView.html?idxno=17672",
+    "https://www.g-enews.com/view.php?ud=202608010542336635fbbec65dfb_1"
    ],
    "seen_titles": [
-    "코스피14%대폭등에삼성전자+19%·SK하이닉스+24%...“역대급널뛰...",
-    "SK하이닉스,성과급절반이상주식지급제안…적자시임금조정도",
-    "최태원,급락장서산SK하이닉스하루만에평가익10억원↑",
     "코스피6500선회복…‘삼전닉스’반도체투심되살렸다",
     "SK텔레콤,민생안정지원위해올여름고객혜택강화",
     "삼성물산,건설업체시공능력평가13년연속1위",
@@ -3222,10 +3227,13 @@
     "아마존훈풍에뉴욕증시기술주반등,나스닥1.00%상승마감",
     "“반도체조정끝?”…아마존·MS15%폭등에다시달린나스닥",
     "‘실적훈풍’아마존15.3%↑...‘전망악화’애플은7.3%급락[데일...",
-    "[속보]뉴욕증시,아마존실적훈풍에상승마감…하이닉스ADR3.5%↓"
+    "[속보]뉴욕증시,아마존실적훈풍에상승마감…하이닉스ADR3.5%↓",
+    "아마존'깜짝실적'에뉴욕증시일제히상승…애플은7%급락",
+    "'포모'와'조모'그리고'모모'",
+    "ASE,2026년설비투자105억달러확충"
    ],
    "initialized": true,
-   "last_run": "2026-08-01T06:20:29.433928+09:00"
+   "last_run": "2026-08-01T06:25:22.657686+09:00"
   }
  },
  "press_names": {
