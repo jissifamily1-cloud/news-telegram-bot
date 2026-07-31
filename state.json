@@ -1153,11 +1153,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sisajournal.com/news/articleView.html?idxno=381862",
-    "http://www.srtimes.kr/news/articleView.html?idxno=208818",
-    "https://biz.sbs.co.kr/article_hub/20000325832?division=NAVER",
-    "https://www.m-economynews.com/news/article.html?no=69271",
-    "https://biz.heraldcorp.com/article/10826856",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596786",
     "https://www.news1.kr/finance/general-stock/6245178",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607311053078290321",
@@ -2652,14 +2647,14 @@
     "https://www.greened.kr/news/articleView.html?idxno=346580",
     "https://www.munhwa.com/article/11606475",
     "https://www.mk.co.kr/article/12113876",
-    "http://www.inews24.com/view/1990898"
+    "http://www.inews24.com/view/1990898",
+    "https://www.news1.kr/sports/overseas-soccer/6245872",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=315869",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685064&plink=ORI&cooper=NAVER",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=268679",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685063&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "\"개미들문턱높아졌네\"...삼전닉스레버리지,오늘부터현금3000만원...",
-    "\"성과급주식으로,적자땐임금조정\"...SK하이닉스노사협상'평행선'",
-    "삼성물산,13년시공1위…상위‘빅4’변동",
-    "SK하이닉스노사,'성과급지급방식'입장차여전",
-    "코스피,장초반폭등에매수사이드카…삼전닉스20%대급등",
     "李,한·칠레경제인만나\"핵심광물·미래산업협력넓혀야\"",
     "[특징주]팬오션,상반기호실적에…12%대급등",
     "韓日공조개입…서울환시\"당국1,400원대초반도높게봤나,하락세굳...",
@@ -4154,10 +4149,15 @@
     "SK오션플랜트,최대주주지분매각협상또연장…8월말까지",
     "[이슈]코스피17%폭등?데드캣바운스우려이유",
     "최태원이어노태문도…주가변동성에‘책임경영’깃발든반도체수...",
-    "3000만원으로높이니레버거래뚝↓\"…폭등장에도5분의1토막"
+    "3000만원으로높이니레버거래뚝↓\"…폭등장에도5분의1토막",
+    "K리그1제주골키퍼허재원,독일바이에른뮌헨임대이적",
+    "외국인도돌아왔다...코스피역대최대18%급등",
+    "'레버리지대책'시행되자…첫날거래규모74%줄었다",
+    "SK,'최태원지분29.4%'제외하고두산에SK실트론2.3조원매각…\"미래...",
+    "코스피급등부른뜻밖배경있었다…\"악순환종료\"들썩"
    ],
    "initialized": true,
-   "last_run": "2026-07-31T20:10:34.480136+09:00"
+   "last_run": "2026-07-31T20:15:31.902615+09:00"
   }
  },
  "press_names": {
