@@ -953,7 +953,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20074265",
     "http://www.newsfc.co.kr/news/articleView.html?idxno=80239",
     "https://weekly.donga.com/3/all/11/6328963/1",
     "https://biz.sbs.co.kr/article_hub/20000325862?division=NAVER",
@@ -2452,10 +2451,10 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8625710",
     "http://www.breaknews.com/1226041",
     "https://www.ekn.kr/web/view.php?key=20260731029328344",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8625711"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8625711",
+    "https://www.datanet.co.kr/news/articleView.html?idxno=213466"
    ],
    "seen_titles": [
-    "[진단]코스피장중17%폭등…2008금융위기도넘은'역대최대상승'",
     "SK하이닉스,노사협상평행선…'적자시임금조정'놓고충돌",
     "민주당,증시'비상상황'규정..삼전닉스레버리지추가규제속도",
     "단일레버리지보완첫날효과는?…오전거래활발,50%대폭등",
@@ -3954,10 +3953,11 @@
     "코스피18%↑‘역대최대상승’…하이닉스상한가",
     "최은석국민의힘수석대변인\"이재명정부금융·사법정책\"총공세",
     "SK오션플랜트,6800DWT급화학제품운반선2척수주",
-    "‘AI버블론’은없던일?…갑작스런반등배경은"
+    "‘AI버블론’은없던일?…갑작스런반등배경은",
+    "두산,국내유일반도체웨이퍼제조사'SK실트론'인수"
    ],
    "initialized": true,
-   "last_run": "2026-07-31T21:20:32.785240+09:00"
+   "last_run": "2026-07-31T21:25:23.243915+09:00"
   }
  },
  "press_names": {
