@@ -226,10 +226,13 @@
     [
      "2026-08-01T03:05:27.532453+09:00",
      "MU 000달러 넘보나 품귀로 이틀간 메모리 껑충 마이크론"
+    ],
+    [
+     "2026-08-01T03:35:22.107555+09:00",
+     "축구 미쳤다 역사상 2008년생 최초의 특급 유망"
     ]
    ],
    "seen_urls": [
-    "https://www.ddaily.co.kr/page/view/2026073110410557656",
     "https://www.econotimes.com/South-Koreas-KOSPI-Soars-as-Samsung-SK-Hynix-Rebound-on-Microsoft-Fueled-AI-Rally-1748238",
     "https://www.etoday.co.kr/news/view/2609696",
     "https://biz.sbs.co.kr/article_hub/20000325877?division=NAVER",
@@ -1728,10 +1731,10 @@
     "https://www.joongang.co.kr/article/25450005",
     "https://www.tokenpost.kr/news/economy/383437",
     "https://www.nytimes.com/2026/07/31/fashion/best-clothing-stores-reader-favorites.html?partner=naver",
-    "http://coinreaders.com/250649"
+    "http://coinreaders.com/250649",
+    "https://www.goal.com/kr/뉴스/a/entry/blt713e10dee67298f1"
    ],
    "seen_titles": [
-    "“회장님이었어?”…슈카,최태원하이닉스3620주매수순간포착",
     "코스피역대최대'17%'상승...단일레버리지ETF50%폭등",
     "반도체주날자코스피날았다…폭락딛고'대반격'6500선탈환",
     "CheyMakesFirstDirectSKHynixSharePurchase",
@@ -3230,10 +3233,11 @@
     "코스피18%폭등한날,개인은8조던졌다",
     "SK,SK실트론지분70.6%㈜두산에매각…2조3천억규모확정",
     "NowforYourFavoriteClothingStores",
-    "마이크론(MU),이틀간24%'껑충'...AI메모리품귀로1,000달러넘보나"
+    "마이크론(MU),이틀간24%'껑충'...AI메모리품귀로1,000달러넘보나",
+    "[오피셜]‘미쳤다’韓축구역사상최초의일…‘2008년생특급유망..."
    ],
    "initialized": true,
-   "last_run": "2026-08-01T03:25:34.137492+09:00"
+   "last_run": "2026-08-01T03:35:22.107555+09:00"
   }
  },
  "press_names": {
