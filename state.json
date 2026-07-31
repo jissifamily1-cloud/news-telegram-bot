@@ -1101,8 +1101,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/estate/2026/07/30/2026073016011073007",
-    "https://www.khan.co.kr/article/202607301706001",
     "https://www.livebiz.today/news/articleView.html?idxno=203708",
     "https://www.ccdailynews.com/news/articleView.html?idxno=2431403",
     "http://www.queen.co.kr/news/articleView.html?idxno=461091",
@@ -2600,11 +2598,11 @@
     "https://www.thescoop.co.kr/news/articleView.html?idxno=311088",
     "https://www.besteleven.com/news/articleView.html?idxno=310597",
     "https://www.theguru.co.kr/news/article.html?no=105192",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607310318&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607310318&t=NN",
+    "https://www.sidae.com/article/2026073109255690687",
+    "https://www.ezyeconomy.com/news/articleView.html?idxno=238207"
    ],
    "seen_titles": [
-    "[마감시황]코스피,1%대하락…외인·기관'사자'에도5590선마감",
-    "개인정보유출KT,540억과징금'철퇴'",
     "LH,호남권반도체국가산단설계용역착수…입찰기간절반으로단축",
     "‘여기가바닥아니었네’코스피30일도반등실패…7월한달하락률...",
     "이틀연속서킷브레이커여진코스피,반등실패하며5500선으로후퇴.....",
@@ -4102,10 +4100,12 @@
     "지역화폐로받은노동자에게추가인센티브주면…성과급을'지역경제...",
     "\"중국황제가와도협상없다\"…올리세레알마드리드이적설에입장...",
     "키옥시아,332단적층엔터프라이즈SSD시리즈'CM10'공개…AI인프라...",
-    "메모리비싸도더산다…삼적닉스‘청신호’"
+    "메모리비싸도더산다…삼적닉스‘청신호’",
+    "코스피13%·코스닥7%급등…양대시장매수사이드카발동",
+    "AI쇼크딛고반도체반격···코스피장초반6300선회복"
    ],
    "initialized": true,
-   "last_run": "2026-07-31T10:09:06.431346+09:00"
+   "last_run": "2026-07-31T10:10:29.029512+09:00"
   }
  },
  "press_names": {
