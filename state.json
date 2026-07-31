@@ -398,11 +398,17 @@
     [
      "2026-08-01T08:34:08.155744+09:00",
      "다음날 결제 기대 내는 부양 속도 입금 주식 팔면 도입에 증시"
+    ],
+    [
+     "2026-08-01T08:40:27.927430+09:00",
+     "재원 2조3000억원 매각 투자 반도체 SK실트론 두산에 사업 재편"
+    ],
+    [
+     "2026-08-01T08:40:27.927430+09:00",
+     "충돌 임금 노사 vs 합의 조정 훼손 적자 SK하닉"
     ]
    ],
    "seen_urls": [
-    "https://www.mediatoday.co.kr/news/articleView.html?idxno=336150",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7176912",
     "https://www.newsinside.kr/news/articleView.html?idxno=4881868",
     "https://www.newsis.com/view/NISX20260731_0003731186",
     "https://magazine.hankyung.com/business/article/202607317842b",
@@ -1900,11 +1906,11 @@
     "https://www.mt.co.kr/industry/2026/08/01/2026073112495369690",
     "https://www.hankookilbo.com/news/article/A2026073014430000422?did=NA",
     "https://economist.co.kr/article/view/ecn202607280034",
-    "https://www.mediafine.co.kr/news/articleView.html?idxno=85247"
+    "https://www.mediafine.co.kr/news/articleView.html?idxno=85247",
+    "https://www.mediafine.co.kr/news/articleView.html?idxno=85250",
+    "https://magazine.hankyung.com/business/article/202608019030b"
    ],
    "seen_titles": [
-    "[뉴스in뉴스]롤러코스터코스피…변동성언제까지?",
-    "'이럴수가'월클김민재출전경기,배나온40대FW도뛰었다니…'유럽...",
     "적자탈출K-배터리,성장동력확보돌입…\"로봇까지진출\"",
     "현금'3000만원'문턱첫날…SK하이닉스레버리지장중57%급등",
     "LH,호남반도체단지설계용역착수",
@@ -3402,10 +3408,12 @@
     "AI가바꾼메모리거래…'뉴노멀'된삼전닉스·마이크론장기공급계약",
     "李대통령‘샌프란AI선언’,韓美中‘글로벌3각구도’막올렸다[...",
     "“주식팔면다음날입금”…속도내는T+1결제도입에증시부양기대...",
-    "아마존호실적에뉴욕증시상승-기술주투자심리회복조짐"
+    "아마존호실적에뉴욕증시상승-기술주투자심리회복조짐",
+    "SK,SK실트론두산에2조3000억원매각-반도체사업재편·투자재원확...",
+    "SK하닉노사충돌···\"적자땐임금조정\"vs\"합의훼손\""
    ],
    "initialized": true,
-   "last_run": "2026-08-01T08:35:23.717909+09:00"
+   "last_run": "2026-08-01T08:40:27.927430+09:00"
   }
  },
  "press_names": {
