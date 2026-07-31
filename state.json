@@ -401,7 +401,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsway.co.kr/news/view?ud=2026073111171814519",
     "https://www.mediatoday.co.kr/news/articleView.html?idxno=336150",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7176912",
     "https://www.newsinside.kr/news/articleView.html?idxno=4881868",
@@ -1900,10 +1899,10 @@
     "https://view.asiae.co.kr/article/2026073011573045489",
     "https://www.mt.co.kr/industry/2026/08/01/2026073112495369690",
     "https://www.hankookilbo.com/news/article/A2026073014430000422?did=NA",
-    "https://economist.co.kr/article/view/ecn202607280034"
+    "https://economist.co.kr/article/view/ecn202607280034",
+    "https://www.mediafine.co.kr/news/articleView.html?idxno=85247"
    ],
    "seen_titles": [
-    "LGAI연구원·SKT,독파모2단계'격돌'...AI신모델공개·우군확대",
     "[뉴스in뉴스]롤러코스터코스피…변동성언제까지?",
     "'이럴수가'월클김민재출전경기,배나온40대FW도뛰었다니…'유럽...",
     "적자탈출K-배터리,성장동력확보돌입…\"로봇까지진출\"",
@@ -3402,10 +3401,11 @@
     "반도체진짜피크아웃?…과거엔조정뒤신고가만3번[주末머니]",
     "AI가바꾼메모리거래…'뉴노멀'된삼전닉스·마이크론장기공급계약",
     "李대통령‘샌프란AI선언’,韓美中‘글로벌3각구도’막올렸다[...",
-    "“주식팔면다음날입금”…속도내는T+1결제도입에증시부양기대..."
+    "“주식팔면다음날입금”…속도내는T+1결제도입에증시부양기대...",
+    "아마존호실적에뉴욕증시상승-기술주투자심리회복조짐"
    ],
    "initialized": true,
-   "last_run": "2026-08-01T08:34:08.155744+09:00"
+   "last_run": "2026-08-01T08:35:23.717909+09:00"
   }
  },
  "press_names": {
