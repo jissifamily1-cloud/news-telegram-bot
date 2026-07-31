@@ -418,10 +418,13 @@
     [
      "2026-08-01T08:50:27.286361+09:00",
      "화학제품운반선 6800DWT급 수주 718억 규모 SK오션플랜트 2척"
+    ],
+    [
+     "2026-08-01T08:55:23.030755+09:00",
+     "코스피 기대감 자릿수 패닉 8월 반등 지나 솔솔"
     ]
    ],
    "seen_urls": [
-    "https://www.joongangenews.com/news/articleView.html?idxno=536962",
     "https://www.gokorea.kr/news/articleView.html?idxno=873642",
     "https://www.gokorea.kr/news/articleView.html?idxno=873645",
     "https://www.gokorea.kr/news/articleView.html?idxno=873644",
@@ -1920,10 +1923,10 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1718717",
     "https://www.wikitree.co.kr/articles/1149741",
     "https://www.newsverse.kr/news/articleView.html?idxno=11068",
-    "https://www.cnbizm.com/news/articleView.html?idxno=310328"
+    "https://www.cnbizm.com/news/articleView.html?idxno=310328",
+    "https://www.seoulfn.com/news/articleView.html?idxno=634683"
    ],
    "seen_titles": [
-    "플랫폼입은주거,속도내는국가인프라",
     "[단독]달라졌다는레버리지의무교육...'재수강건너뛰기'허점",
     "‘5G과장광고’KT,과징금불복소송패소",
     "코스피,16%급등…삼전닉스25%대↑",
@@ -3422,10 +3425,11 @@
     "아마존호실적에기술주반등…뉴욕증시일제히상승",
     "엔비디아지포스,VRAM값폭등에최대40%인상설",
     "[오늘의경제뉴스]레버리지의덫…개인은'반토막'증권사는'대박'",
-    "SK오션플랜트,6800DWT급화학제품운반선2척수주…718억규모"
+    "SK오션플랜트,6800DWT급화학제품운반선2척수주…718억규모",
+    "코스피,'패닉'지나두자릿수반등···8월반등기대감'솔솔'"
    ],
    "initialized": true,
-   "last_run": "2026-08-01T08:50:27.286361+09:00"
+   "last_run": "2026-08-01T08:55:23.030755+09:00"
   }
  },
  "press_names": {
