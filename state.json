@@ -254,11 +254,13 @@
     [
      "2026-08-01T01:05:26.273153+09:00",
      "많은 배경은 세부 SK하이닉스 14조원 순이익률 매출보다 순이익"
+    ],
+    [
+     "2026-08-01T01:20:33.365425+09:00",
+     "포인트 1천 눌렸던 반등 세찬 7월 코스피"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/general-stock/6245240",
-    "https://www.ajunews.com/view/20260731113302295",
     "http://www.yonhapnewstv.co.kr/news/MYH202607311136042gV",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=83918",
     "https://www.news1.kr/finance/market-exr/6245241",
@@ -1756,11 +1758,11 @@
     "https://www.chosun.com/economy/industry-company/2026/08/01/WBU3AU2JLBAKHNFQABKABYWIJQ/",
     "https://www.chosun.com/economy/industry-company/2026/08/01/ECSCZRN7WNDWNKEBOIAIXD2LKM/",
     "https://www.chosun.com/economy/money/2026/08/01/QNT3754XXJF7ZFIAS5LTNK7J24/",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=593746"
+    "https://www.cbci.co.kr/news/articleView.html?idxno=593746",
+    "http://www.e2news.com/news/articleView.html?idxno=332914",
+    "https://imnews.imbc.com/replay/2026/nw2500/article/6841629_36989.html"
    ],
    "seen_titles": [
-    "SKT,피지컬AI스타트업8곳과협업확대…'로보틱스생태계'구축속도",
-    "뉴욕증시,반도체주강세…SK하이닉스ADR17%상승마감",
     "'주가반토막'하이닉스48억어치사들인최태원회장?'50억'넘기지않...",
     "SK오션플랜트,독일북해2.2GW해상변전소하부구조물공급",
     "코스피'불기둥'…삼전닉스20％안팎상승세",
@@ -3258,10 +3260,12 @@
     "전세계로수출되는‘삼전닉스반도체’",
     "두산,SK실트론2.3조원에인수…반도체보폭넓힌다",
     "코스피1000포인트초유의폭등…개미들은8조원넘게팔고나가",
-    "SK하이닉스순이익률118%…매출보다14조원많은순이익,세부배경은..."
+    "SK하이닉스순이익률118%…매출보다14조원많은순이익,세부배경은...",
+    "CP상승·누적미반영분불구8월LPG가격동결",
+    "7월내눌렸던코스피‥1천포인트'세찬'반등"
    ],
    "initialized": true,
-   "last_run": "2026-08-01T01:15:47.172285+09:00"
+   "last_run": "2026-08-01T01:20:33.365425+09:00"
   }
  },
  "press_names": {
