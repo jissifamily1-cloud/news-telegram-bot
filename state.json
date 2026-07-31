@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-31T07:00:40.889437+09:00",
-     "실천이라는 매수가 책임경영 최태원 지분 SK회"
-    ],
-    [
      "2026-07-31T07:05:24.902227+09:00",
      "전망 사흘 코스피 연속 공시 교차 하락 낙관 제약 비관론 바이오"
     ],
@@ -1282,16 +1278,25 @@
     [
      "2026-07-31T12:55:21.596096+09:00",
      "SK하이닉스 반나절 8억 도입 연봉 심층면접"
+    ],
+    [
+     "2026-07-31T13:05:21.051380+09:00",
+     "설계용역 반도체 호남 착수 LH 단지"
+    ],
+    [
+     "2026-07-31T13:05:21.051380+09:00",
+     "김민재 선수 있어요 축구화 벗어준 한마디에 바로 주실 어린이"
+    ],
+    [
+     "2026-07-31T13:05:21.051380+09:00",
+     "국가 입은 주거 플랫폼 인프라 내는 속도"
+    ],
+    [
+     "2026-07-31T13:05:21.051380+09:00",
+     "건너뛰기 재수강 허점 달라졌다는 레버리지 의무교육"
     ]
    ],
    "seen_urls": [
-    "https://www.khan.co.kr/article/202607302033045",
-    "https://www.geconomy.co.kr/news/article.html?no=322371",
-    "https://www.segye.com/newsView/20260730516575?OutUrl=naver",
-    "https://magazine.hankyung.com/business/article/202607306637b",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=07757206645519768",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=5384",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=07790006645519768",
     "https://kjmbc.co.kr/NewsArticle/1529960",
     "https://www.segye.com/newsView/20260730516595?OutUrl=naver",
     "https://www.greened.kr/news/articleView.html?idxno=346452",
@@ -2784,16 +2789,16 @@
     "https://www.sedaily.com/article/20074303",
     "http://www.e2news.com/news/articleView.html?idxno=332870",
     "https://www.techm.kr/news/articleView.html?idxno=153890",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8625412"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8625412",
+    "https://www.xportsnews.com/article/2178462",
+    "https://news.tf.co.kr/read/economy/2349237.htm",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=848994",
+    "https://www.naeil.com/news/read/597236",
+    "http://www.footballist.co.kr/news/articleView.html?idxno=212987",
+    "https://www.pressman.kr/news/articleView.html?idxno=102976",
+    "https://news.bizwatch.co.kr/article/market/2026/07/31/0009"
    ],
    "seen_titles": [
-    "최태원회장,SK하이닉스주식48억원장내매수…주가급락에‘책임경...",
-    "삼성89조영업익,반도체가다했다…완제품은사상첫적자",
-    "배터리3사“적자터널끝”",
-    "포도호텔·디아넥스,“필드전율이어갈‘미식·온천’으로골퍼맞춤...",
-    "코스피투자금이탈조짐…코스닥반등가능할까",
-    "\"샀다팔았다마라\"던최태원,SK하이닉스주식48억원어치첫매입",
-    "[포토]김재희,부드러운어프로치연습",
     "최태원SK회장,SK하이닉스주식첫장내매수3620주47.85억원....",
     "[포토]김재희,어프로치잘봐줘",
     "통합특별시첫살림핵심은'반도체'..\"기업들국회로불러달라\"",
@@ -4286,10 +4291,17 @@
     "‘연봉8억’SK하이닉스,반나절심층면접도입",
     "SK온,2분기영업이익8218억원흑자전환",
     "LGAI연구원·SKT,독파모2단계'격돌'...AI신모델공개·우군확대",
-    "[뉴스in뉴스]롤러코스터코스피…변동성언제까지?"
+    "[뉴스in뉴스]롤러코스터코스피…변동성언제까지?",
+    "'이럴수가'월클김민재출전경기,배나온40대FW도뛰었다니…'유럽...",
+    "적자탈출K-배터리,성장동력확보돌입…\"로봇까지진출\"",
+    "현금'3000만원'문턱첫날…SK하이닉스레버리지장중57%급등",
+    "LH,호남반도체단지설계용역착수",
+    "\"김민재선수축구화주실수있어요?\"어린이팬한마디에바로벗어준...",
+    "플랫폼입은주거,속도내는국가인프라",
+    "[단독]달라졌다는레버리지의무교육...'재수강건너뛰기'허점"
    ],
    "initialized": true,
-   "last_run": "2026-07-31T13:00:37.705385+09:00"
+   "last_run": "2026-07-31T13:05:21.051380+09:00"
   }
  },
  "press_names": {
