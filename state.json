@@ -342,12 +342,17 @@
     [
      "2026-08-01T07:25:21.261199+09:00",
      "이건 뜻밖의 이유 몰랐다 삼성 하이닉스 오른 무시무시하게 주가가"
+    ],
+    [
+     "2026-08-01T07:33:45.962431+09:00",
+     "인수 두산 본격 2조3천억원에 반도체사업 확장 SK실트론"
+    ],
+    [
+     "2026-08-01T07:33:45.962431+09:00",
+     "미장 이번엔 2배 3배 ETF 물리고도 ETF에 개미"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20074300",
-    "https://www.ikbc.co.kr/article/view/kbc202607310031",
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/31/2026073100144.html",
     "https://www.news1.kr/industry/general-industry/6245310",
     "https://www.sedaily.com/article/20074308",
     "https://www.cwn.kr/news/articleView.html?idxno=51854",
@@ -1844,12 +1849,12 @@
     "https://www.besteleven.com/news/articleView.html?idxno=310631",
     "https://www.wikitree.co.kr/articles/1149744",
     "http://www.newsian.co.kr/news/articleView.html?idxno=93067",
-    "https://www.seoulfn.com/news/articleView.html?idxno=634689"
+    "https://www.seoulfn.com/news/articleView.html?idxno=634689",
+    "https://www.sedaily.com/article/20074505",
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=546322",
+    "https://economist.co.kr/article/view/ecn202607290055"
    ],
    "seen_titles": [
-    "석탄·LNG·재생에너지한데묶는다…GS·SK·포스코'에너지통합'가속",
-    "국토부선정올해시공능력종합1위는삼성물산",
-    "레버리지'소잃고외양간고치기'효과는?...\"구조적결함근본적으로...",
     "SKT,피지컬AI스타트업8개사와로보틱스생태계협력강화",
     "[특징주]삼성전자,외국인·기관동반매수에21%급등…장중수급쏠림",
     "SKT,신규광고·로보틱스스타트업간담회진행…미래기술혁신강화",
@@ -3346,10 +3351,13 @@
     "[오피셜]韓축구역사적이적!'골키퍼최초유럽빅리그직행'허재원...",
     "이건몰랐다...하이닉스·삼성주가가무시무시하게오른'뜻밖의이유...",
     "[슈퍼사이클의역설②]中日반도체부활…창신메모리·키옥시아추격...",
-    "[뉴욕증시]MS·아마존발AI투자우려완화,조정끝?···하이퍼스케..."
+    "[뉴욕증시]MS·아마존발AI투자우려완화,조정끝?···하이퍼스케...",
+    "반도체오르자전력주도반등…효성중공업·LSELECTRIC20%대↑[코주부...",
+    "두산,SK실트론2조3천억원에인수⋯반도체사업본격확장",
+    "2배ETF에물리고도…미장간개미,이번엔‘3배ETF’"
    ],
    "initialized": true,
-   "last_run": "2026-08-01T07:30:42.520208+09:00"
+   "last_run": "2026-08-01T07:33:45.962431+09:00"
   }
  },
  "press_names": {
