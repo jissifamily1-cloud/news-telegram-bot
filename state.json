@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-01T00:55:30.407789+09:00",
-     "초유의 코스피 1000포인트 개미들은 8조원 팔고 폭등 나가 넘게"
-    ],
-    [
      "2026-08-01T01:05:26.273153+09:00",
      "많은 배경은 세부 SK하이닉스 14조원 순이익률 매출보다 순이익"
     ],
@@ -246,12 +242,17 @@
     [
      "2026-08-01T06:55:22.509639+09:00",
      "지주사로 SK스퀘어 담았다 팔고 삼성전자"
+    ],
+    [
+     "2026-08-01T07:00:39.564710+09:00",
+     "디렉터 환경 워크스테이션 몬스타PC 겨냥한 로컬"
+    ],
+    [
+     "2026-08-01T07:00:39.564710+09:00",
+     "6500대 주식시장에 5000대 복귀 추락했다 일이 무슨"
     ]
    ],
    "seen_urls": [
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8625389",
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=546297",
-    "https://www.newstnt.com/news/articleView.html?idxno=712370",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008684387&plink=ORI&cooper=NAVER",
     "https://www.youthdaily.co.kr/news/article.html?no=224252",
     "https://www.ekn.kr/web/view.php?key=20260731023208290",
@@ -1748,12 +1749,12 @@
     "https://www.interfootball.co.kr/news/articleView.html?idxno=691637",
     "https://www.etoday.co.kr/news/view/2609951",
     "https://www.ytn.co.kr/_ln/0104_202608010650030450",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473409"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473409",
+    "https://www.slist.kr/news/articleView.html?idxno=755760",
+    "https://www.ilovepc.co.kr/news/articleView.html?idxno=60198",
+    "https://www.bntnews.co.kr/article/view/bnt202608010019"
    ],
    "seen_titles": [
-    "“성과급절반이상주식·적자땐임금조정”…SK하이닉스임단협난...",
-    "외국인‘개미핥기’…‘패닉셀삼닉물량’개장후2시간새7조쓸어...",
-    "소비자원“쿠팡,정보유출피해자에10만원씩보상해야”",
     "\"팔지말라\"던최태원,48억어치샀다/\"한국맞아?\"마약취해길바닥...",
     "최태원,SK하이닉스48억원자사주직접매입…책임경영의지",
     "[통신]KT온디바이스AI협력/SKT한석규광고부활/LGU+AI동화공...",
@@ -3250,10 +3251,13 @@
     "[오피셜]韓축구역사상이런선수없었다!'유망주GK'허재원,바이에...",
     "뉴욕증시,아마존실적훈풍에방긋⋯나스닥1%↑[상보]",
     "뉴욕증시,아마존실적훈풍에동반상승마감",
-    "[주간거래소외국인]삼성전자팔고SK스퀘어담았다…AI·지주사로대..."
+    "[주간거래소외국인]삼성전자팔고SK스퀘어담았다…AI·지주사로대...",
+    "뉴욕증시,아마존실적훈풍에강세마감…나스닥1%↑",
+    "로컬AI환경겨냥한워크스테이션'몬스타PC디렉터'",
+    "5000대추락했다6500대복귀…주식시장에무슨일이"
    ],
    "initialized": true,
-   "last_run": "2026-08-01T06:55:22.509639+09:00"
+   "last_run": "2026-08-01T07:00:39.564710+09:00"
   }
  },
  "press_names": {
