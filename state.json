@@ -1285,9 +1285,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.obsnews.co.kr/news/articleView.html?idxno=1532448",
-    "https://www.ceoscoredaily.com/page/view/2026073020175032965",
-    "https://www.khan.co.kr/article/202607302033015",
     "https://www.khan.co.kr/article/202607302033045",
     "https://www.geconomy.co.kr/news/article.html?no=322371",
     "https://www.segye.com/newsView/20260730516575?OutUrl=naver",
@@ -2784,12 +2781,12 @@
     "https://www.sedaily.com/article/20074305",
     "https://www.sedaily.com/article/20074306",
     "https://www.sedaily.com/article/20074302",
-    "https://www.sedaily.com/article/20074303"
+    "https://www.sedaily.com/article/20074303",
+    "http://www.e2news.com/news/articleView.html?idxno=332870",
+    "https://www.techm.kr/news/articleView.html?idxno=153890",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8625412"
    ],
    "seen_titles": [
-    "\"홍명보감독아들의병역과축구협회가무슨상관?\"팬비난'봇물'[청...",
-    "단일종목레버리지규제더강해진다…금융위\"추가대책최대한조기...",
-    "영업이익99%가반도체…삼성전자,고점론일축",
     "최태원회장,SK하이닉스주식48억원장내매수…주가급락에‘책임경...",
     "삼성89조영업익,반도체가다했다…완제품은사상첫적자",
     "배터리3사“적자터널끝”",
@@ -4286,10 +4283,13 @@
     "中CXMT상장후폭풍…반도체주흔들고SK저평가부각",
     "삼성,HBM4효과에세계1위…엔비디아·애플도앞섰다",
     "삼성,비수도권청년1000명직무교육나선다",
-    "‘연봉8억’SK하이닉스,반나절심층면접도입"
+    "‘연봉8억’SK하이닉스,반나절심층면접도입",
+    "SK온,2분기영업이익8218억원흑자전환",
+    "LGAI연구원·SKT,독파모2단계'격돌'...AI신모델공개·우군확대",
+    "[뉴스in뉴스]롤러코스터코스피…변동성언제까지?"
    ],
    "initialized": true,
-   "last_run": "2026-07-31T12:55:21.596096+09:00"
+   "last_run": "2026-07-31T13:00:37.705385+09:00"
   }
  },
  "press_names": {
