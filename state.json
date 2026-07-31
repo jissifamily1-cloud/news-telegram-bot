@@ -242,13 +242,13 @@
     [
      "2026-08-01T06:50:29.870337+09:00",
      "대신 기업들 삼전닉스 비싼 눈돌리지만 디브리핑 중국 중국산"
+    ],
+    [
+     "2026-08-01T06:55:22.509639+09:00",
+     "지주사로 SK스퀘어 담았다 팔고 삼성전자"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=443654",
-    "http://www.ferrotimes.com/news/articleView.html?idxno=49486",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04175446645520096",
-    "https://imnews.imbc.com/replay/2026/nw1200/article/6841473_36967.html",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8625389",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=546297",
     "https://www.newstnt.com/news/articleView.html?idxno=712370",
@@ -1744,13 +1744,13 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473406",
     "https://www.dailian.co.kr/news/view/1673205/?sc=Naver",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=422822",
-    "https://biz.heraldcorp.com/article/10827636"
+    "https://biz.heraldcorp.com/article/10827636",
+    "https://www.interfootball.co.kr/news/articleView.html?idxno=691637",
+    "https://www.etoday.co.kr/news/view/2609951",
+    "https://www.ytn.co.kr/_ln/0104_202608010650030450",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473409"
    ],
    "seen_titles": [
-    "국민의힘\"민생없는민주당당권경쟁\"",
-    "'실사용'검증대오른독파모…8월국민참여평가도입",
-    "사상최대상승…‘아찔한’코스피",
-    "에이피알·삼양컴텍등45개상장사...8월의무보유물량풀린다",
     "“성과급절반이상주식·적자땐임금조정”…SK하이닉스임단협난...",
     "외국인‘개미핥기’…‘패닉셀삼닉물량’개장후2시간새7조쓸어...",
     "소비자원“쿠팡,정보유출피해자에10만원씩보상해야”",
@@ -3246,10 +3246,14 @@
     "클라우드가증시를다시끌어올렸다…AI투자불안덜자뉴욕증시환호...",
     "중국정부가자국반도체기업을대하는자세[최홍섭의샬롬살람]",
     "[주간e종목]SK하이닉스上에SOLSK하이닉스선물단일종목인버스2X'쇼크...",
-    "비싼‘삼전닉스’대신중국?美기업들,중국산눈돌리지만…[디브리핑..."
+    "비싼‘삼전닉스’대신중국?美기업들,중국산눈돌리지만…[디브리핑...",
+    "[오피셜]韓축구역사상이런선수없었다!'유망주GK'허재원,바이에...",
+    "뉴욕증시,아마존실적훈풍에방긋⋯나스닥1%↑[상보]",
+    "뉴욕증시,아마존실적훈풍에동반상승마감",
+    "[주간거래소외국인]삼성전자팔고SK스퀘어담았다…AI·지주사로대..."
    ],
    "initialized": true,
-   "last_run": "2026-08-01T06:50:29.870337+09:00"
+   "last_run": "2026-08-01T06:55:22.509639+09:00"
   }
  },
  "press_names": {
