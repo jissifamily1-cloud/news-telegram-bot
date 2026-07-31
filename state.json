@@ -350,12 +350,13 @@
     [
      "2026-08-01T07:33:45.962431+09:00",
      "미장 이번엔 2배 3배 ETF 물리고도 ETF에 개미"
+    ],
+    [
+     "2026-08-01T07:40:28.045115+09:00",
+     "승점 6점 or 걸렸다 12점 선두 싸움 전북vs서울"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/industry/general-industry/6245310",
-    "https://www.sedaily.com/article/20074308",
-    "https://www.cwn.kr/news/articleView.html?idxno=51854",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=142381",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607310434&t=NN",
     "http://www.beyondpost.co.kr/view.php?ud=2026073112452233552aaae0046f_30",
@@ -1852,12 +1853,12 @@
     "https://www.seoulfn.com/news/articleView.html?idxno=634689",
     "https://www.sedaily.com/article/20074505",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=546322",
-    "https://economist.co.kr/article/view/ecn202607290055"
+    "https://economist.co.kr/article/view/ecn202607290055",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=93114",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=876735",
+    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95639"
    ],
    "seen_titles": [
-    "SKT,피지컬AI스타트업8개사와로보틱스생태계협력강화",
-    "[특징주]삼성전자,외국인·기관동반매수에21%급등…장중수급쏠림",
-    "SKT,신규광고·로보틱스스타트업간담회진행…미래기술혁신강화",
     "전남광주시출범한달째현안갈등지속…민형배시장통합조정능력...",
     "[이로운분석]\"반도체디레버리징해소기대감\"…코스피17년만에최대폭...",
     "SK온,출범후두번째흑자…2분기영업익8218억원",
@@ -3354,10 +3355,13 @@
     "[뉴욕증시]MS·아마존발AI투자우려완화,조정끝?···하이퍼스케...",
     "반도체오르자전력주도반등…효성중공업·LSELECTRIC20%대↑[코주부...",
     "두산,SK실트론2조3천억원에인수⋯반도체사업본격확장",
-    "2배ETF에물리고도…미장간개미,이번엔‘3배ETF’"
+    "2배ETF에물리고도…미장간개미,이번엔‘3배ETF’",
+    "뉴욕증시,아마존호실적에일제히상승…나스닥1%올라",
+    "뉴욕증시,'아마존發실적훈풍'에강세마감…나스닥1%↑",
+    "[k1.preview]승점6점차or12점차걸렸다...'선두싸움'전북vs서울,..."
    ],
    "initialized": true,
-   "last_run": "2026-08-01T07:35:21.801736+09:00"
+   "last_run": "2026-08-01T07:40:28.045115+09:00"
   }
  },
  "press_names": {
