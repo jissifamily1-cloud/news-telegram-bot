@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-07-31T18:55:21.101346+09:00",
-     "슈퍼사이클에도 두산과 기업 반도체 초과이익 공유 웨이퍼"
-    ],
-    [
      "2026-07-31T19:00:38.191144+09:00",
      "갈아치우는 신기록 증시의 연일 대한민국 초고변동성 앞날"
     ],
@@ -270,10 +266,13 @@
     [
      "2026-08-01T00:45:34.076045+09:00",
      "반도체 SK실트론 인수 보폭 3조원에 넓힌다 두산"
+    ],
+    [
+     "2026-08-01T00:55:30.407789+09:00",
+     "초유의 코스피 1000포인트 개미들은 8조원 팔고 폭등 나가 넘게"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=273937",
     "https://www.delighti.co.kr/news/articleView.html?idxno=119660",
     "https://www.news1.kr/finance/general-stock/6245240",
     "https://www.ajunews.com/view/20260731113302295",
@@ -1772,10 +1771,10 @@
     "https://www.joongang.co.kr/article/25449967",
     "https://www.chosun.com/economy/stock-finance/2026/08/01/ZXO7LH4OINAELJTKAB27PLIUQU/",
     "https://www.chosun.com/economy/industry-company/2026/08/01/WBU3AU2JLBAKHNFQABKABYWIJQ/",
-    "https://www.chosun.com/economy/industry-company/2026/08/01/ECSCZRN7WNDWNKEBOIAIXD2LKM/"
+    "https://www.chosun.com/economy/industry-company/2026/08/01/ECSCZRN7WNDWNKEBOIAIXD2LKM/",
+    "https://www.chosun.com/economy/money/2026/08/01/QNT3754XXJF7ZFIAS5LTNK7J24/"
    ],
    "seen_titles": [
-    "亞장중...韓·日증시'폭등',韓日주요반도체주'수직상승'",
     "\"적자나면깎는다고?\"…SK하이닉스노조,사측제안에최후통첩",
     "SKT,피지컬AI스타트업8곳과협업확대…'로보틱스생태계'구축속도",
     "뉴욕증시,반도체주강세…SK하이닉스ADR17%상승마감",
@@ -3274,10 +3273,11 @@
     "[에디터프리즘]개미의눈물",
     "롤러코스피에질린개미들,반등시작하자우르르매도",
     "전세계로수출되는‘삼전닉스반도체’",
-    "두산,SK실트론2.3조원에인수…반도체보폭넓힌다"
+    "두산,SK실트론2.3조원에인수…반도체보폭넓힌다",
+    "코스피1000포인트초유의폭등…개미들은8조원넘게팔고나가"
    ],
    "initialized": true,
-   "last_run": "2026-08-01T00:50:26.103606+09:00"
+   "last_run": "2026-08-01T00:55:30.407789+09:00"
   }
  },
  "press_names": {
