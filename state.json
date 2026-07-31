@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-01T01:55:28.783328+09:00",
-     "던졌다 코스피 개인은 폭등한 8조"
-    ],
-    [
      "2026-08-01T03:00:45.066402+09:00",
      "Now Clothing Stores Your Favorite for"
     ],
@@ -338,11 +334,13 @@
     [
      "2026-08-01T07:55:22.517919+09:00",
      "선수 10대 정체 골키퍼 미쳤다 탄생 바이에른 뮌헨 K리그 유럽파 가는"
+    ],
+    [
+     "2026-08-01T08:00:45.425974+09:00",
+     "아이들나라 사연으로 동화 tv LG유플러스 만든다 고객"
     ]
    ],
    "seen_urls": [
-    "http://www.e2news.com/news/articleView.html?idxno=332870",
-    "https://www.techm.kr/news/articleView.html?idxno=153890",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8625412",
     "https://www.xportsnews.com/article/2178462",
     "https://news.tf.co.kr/read/economy/2349237.htm",
@@ -1840,11 +1838,11 @@
     "https://www.insight.co.kr/news/565880",
     "https://www.econovill.com/news/articleView.html?idxno=746853",
     "https://www.ddaily.co.kr/page/view/2026073117163866456",
-    "https://www.wikitree.co.kr/articles/1149745"
+    "https://www.wikitree.co.kr/articles/1149745",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16151998",
+    "https://www.theguru.co.kr/news/article.html?no=105230"
    ],
    "seen_titles": [
-    "실적보다공포가앞선7월…38일만에39%증발한코스피,단숨에6천피...",
-    "삼성·현대,13년연속시공능력평가1·2위…GS는3위탈환",
     "배터리3사,7분기만'동반흑자'…ESS가반등견인",
     "SK하이닉스,임단협진통…사측'적자시임금조정'제시",
     "SK하이닉스,임단협진통…성과급지급방식두고노조반발",
@@ -3342,10 +3340,12 @@
     "주식이코인보다심하다더니...7월코스피변동성,비트코인의3.7배",
     "[ER인사이드]AI천재의슬픈결혼식",
     "美뉴욕증시,빅테크실적호조에나스닥강세지속…전날급등한반도...",
-    "유럽파골키퍼탄생...미쳤다,바이에른뮌헨가는K리그10대선수'정체..."
+    "유럽파골키퍼탄생...미쳤다,바이에른뮌헨가는K리그10대선수'정체...",
+    "미국증시,아마존실적에나스닥1%↑…애플7%급락",
+    "[통신리뷰]LG유플러스,U+tv아이들나라고객사연으로AI동화만든다..."
    ],
    "initialized": true,
-   "last_run": "2026-08-01T07:55:22.517919+09:00"
+   "last_run": "2026-08-01T08:00:45.425974+09:00"
   }
  },
  "press_names": {
