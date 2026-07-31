@@ -378,12 +378,17 @@
     [
      "2026-08-01T08:10:28.922759+09:00",
      "경쟁력 7월까 국민성장펀드 금융위 국가첨단산업 높이는"
+    ],
+    [
+     "2026-08-01T08:20:32.211018+09:00",
+     "폭증한 비트코인 거래량 무너졌다 공포의 9천만원도 업비트"
+    ],
+    [
+     "2026-08-01T08:20:32.211018+09:00",
+     "삼성 지분 보조금 촉각 상무부 요구 대가"
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0102_202607311255008317",
-    "https://www.newsway.co.kr/news/view?ud=2026073110581976631",
-    "https://www.jbnews.com/news/articleView.html?idxno=1508668",
     "https://www.nytimes.com/2026/07/31/business/korea-stocks-chips-kospi.html?partner=naver",
     "https://www.etnews.com/20260730000464",
     "https://www.etoday.co.kr/news/view/2609712",
@@ -1880,12 +1885,12 @@
     "https://www.bloter.net/news/articleView.html?idxno=669740",
     "https://view.asiae.co.kr/article/2026073016533848004",
     "https://biz.heraldcorp.com/article/10827259",
-    "http://www.sisacast.kr/news/articleView.html?idxno=98371"
+    "http://www.sisacast.kr/news/articleView.html?idxno=98371",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=315877",
+    "http://coinreaders.com/250675",
+    "https://www.g-enews.com/view.php?ud=202608010807098889fbbec65dfb_1"
    ],
    "seen_titles": [
-    "\"적자시임금조정\"에반발…SK하이닉스노사협상난항",
-    "외인,코스피시장서7조원넘게폭풍매수중...역대최대규모순매수기...",
-    "연준,금리또동결…시장흔든‘9월인상’신호",
     "中CXMT상장후폭풍…반도체주흔들고SK저평가부각",
     "삼성,HBM4효과에세계1위…엔비디아·애플도앞섰다",
     "삼성,비수도권청년1000명직무교육나선다",
@@ -3382,10 +3387,13 @@
     "단순재판매벗어난다…과기정통부,'알뜰폰2.0'생태계구축시동",
     "홍콩선삼전닉스1.1배·1.5배레버리지나온다[주末머니]",
     "“주식을홀짝도박판으로...”野,김용범경질론띄우기",
-    "[정책포커스]금융위,국가첨단산업경쟁력높이는국민성장펀드7월까..."
+    "[정책포커스]금융위,국가첨단산업경쟁력높이는국민성장펀드7월까...",
+    "원·달러환율1440원대안착...달러약세·공급확대영향",
+    "업비트,비트코인9천만원도무너졌다…거래량46%폭증한‘공포의급...",
+    "美상무부,보조금대가지분요구…삼성·SK촉각"
    ],
    "initialized": true,
-   "last_run": "2026-08-01T08:10:28.922759+09:00"
+   "last_run": "2026-08-01T08:20:32.211018+09:00"
   }
  },
  "press_names": {
