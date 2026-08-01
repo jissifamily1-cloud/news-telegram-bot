@@ -150,11 +150,17 @@
     [
      "2026-08-02T06:10:26.608837+09:00",
      "전망 증권가 털었나 계단식 8월 반등 코스피 점진적 악재"
+    ],
+    [
+     "2026-08-02T06:25:27.637777+09:00",
+     "CPU P액티브 피지컬AI 이주의 AI데이터센터 하닉샌디스크 상장"
+    ],
+    [
+     "2026-08-02T06:25:27.637777+09:00",
+     "급락장 지난달 10개 7개 국내주식 하락률 녹았다 1위는"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH20260731110812NK5",
-    "https://www.yna.co.kr/view/PYH20260731033400013?input=1196m",
     "https://www.mk.co.kr/article/12113386",
     "https://www.businesspost.co.kr/BP?command=article_view&num=443670",
     "http://www.yonhapnewstv.co.kr/news/AKR20260731150516T0q",
@@ -1652,11 +1658,11 @@
     "https://www.dt.co.kr/article/12075953",
     "https://www.joongang.co.kr/article/25450085",
     "https://www.yna.co.kr/view/AKR20260801034200530?input=1195m",
-    "https://www.yna.co.kr/view/AKR20260801018600008?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260801018600008?input=1195m",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092167102",
+    "https://www.yna.co.kr/view/AKR20260731170700008?input=1195m"
    ],
    "seen_titles": [
-    "세계로향하는K-반도체",
-    "K-반도체,세계를향하여",
     "항공기에탑재되는삼성전자·SK하이닉스반도체들",
     "세계시장향하는K-반도체",
     "세계로수출되는K-반도체",
@@ -3154,10 +3160,12 @@
     "엔비디아,또가격올린다…삼성·SK하이닉스GDDR7‘기대감’",
     "반도체쇼크,코스피종목73%무너졌다…순환매언제쯤오나",
     "개인정보위제재받은기업들잇단법정행…진행중소송만17건",
-    "악재다털었나…증권가\"코스피,8월계단식점진적반등전망\""
+    "악재다털었나…증권가\"코스피,8월계단식점진적반등전망\"",
+    "AI데이터센터·피지컬AI·하닉샌디스크·美CPU·S&P액티브[이주의상장...",
+    "지난달급락장속국내주식10개중7개녹았다…하락률1위는"
    ],
    "initialized": true,
-   "last_run": "2026-08-02T06:20:26.325427+09:00"
+   "last_run": "2026-08-02T06:25:27.637777+09:00"
   }
  },
  "press_names": {
