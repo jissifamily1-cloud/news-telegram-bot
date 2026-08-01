@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-01T06:45:25.809717+09:00",
-     "증시를 끌어올렸다 투자 뉴욕증시 클라우드가 환호 덜자 다시 불안"
-    ],
-    [
-     "2026-08-01T06:45:25.809717+09:00",
-     "중국정부가 반도체 기업을 자국 대하는 자세"
-    ],
-    [
-     "2026-08-01T06:45:25.809717+09:00",
-     "쇼크 SOL SK하이닉스선물단일종목인버스2X SK하이닉스"
-    ],
-    [
      "2026-08-01T06:50:29.870337+09:00",
      "대신 기업들 삼전닉스 비싼 눈돌리지만 디브리핑 중국 중국산"
     ],
@@ -526,11 +514,17 @@
     [
      "2026-08-01T12:40:31.993085+09:00",
      "급락 떠는 잿빛 월요일 하이닉스ADR 공포 마이크론"
+    ],
+    [
+     "2026-08-01T12:50:26.672019+09:00",
+     "시장을 주도주 시나리오 3가지 향후 급반등했나 폭락한 이주영의"
+    ],
+    [
+     "2026-08-01T12:50:26.672019+09:00",
+     "5거래일 등락 8만1천4백원 7월 SK텔레콤 주가 31일"
     ]
    ],
    "seen_urls": [
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607310260&t=NN",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607310255&t=NN",
     "https://www.mt.co.kr/stock/2026/07/31/2026073114113481909",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596808",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607310299&t=NN",
@@ -2028,11 +2022,11 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046794",
     "https://www.pennmike.com/news/articleView.html?idxno=124841",
     "https://www.polinews.co.kr/news/articleView.html?idxno=738800",
-    "https://biz.newdaily.co.kr/site/data/html/2026/08/01/2026080100027.html"
+    "https://biz.newdaily.co.kr/site/data/html/2026/08/01/2026080100027.html",
+    "https://www.hankyung.com/article/202607318004i",
+    "https://www.joongangenews.com/news/articleView.html?idxno=537116"
    ],
    "seen_titles": [
-    "[이슈talk]SK최태원,\"책임경영한다면한다\"…회장님의'시원한한방...",
-    "美반도체훈풍속...장중,일본증시&소프트뱅크'껑충'",
     "SK하이닉스채권주문'파킹'의혹…대형증권사자체감사",
     "“가만히갖고계시라더니”49억베팅…최태원,하룻새10억벌었다",
     "코스피,장중6500선탈환…삼전닉스20%이상↑",
@@ -3530,10 +3524,12 @@
     "민주당권레이스본격화…충남서맞붙은김민석·정청래·송영길",
     "\"한국증시,도박판맞네\"...코스피7월변동성,비트코인3.7배",
     "[포토]김재희,'페어웨이로출근합니다!'",
-    "하이닉스ADR3.5%마이크론5.90%급락…또'잿빛월요일'공포떠는韓..."
+    "하이닉스ADR3.5%마이크론5.90%급락…또'잿빛월요일'공포떠는韓...",
+    "폭락한주도주,왜급반등했나…향후3가지시나리오[이주영의시장을...",
+    "SK텔레콤주가7월31일8만1천4백원5거래일등락"
    ],
    "initialized": true,
-   "last_run": "2026-08-01T12:45:22.940875+09:00"
+   "last_run": "2026-08-01T12:50:26.672019+09:00"
   }
  },
  "press_names": {
