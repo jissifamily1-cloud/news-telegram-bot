@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-01T11:45:33.189119+09:00",
-     "뮌헨으로 허재원 제주 유스 간다"
-    ],
-    [
-     "2026-08-01T11:45:33.189119+09:00",
-     "8월 국내 공급가격 LPG 동결"
-    ],
-    [
      "2026-08-01T11:55:26.557991+09:00",
      "피크아웃 고민했는데 반도체주 털썩 주가 손절 공포에 아직"
     ],
@@ -285,8 +277,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/market-exr/6245441",
-    "https://www.hani.co.kr/arti/economy/economy_general/1270878.html",
     "https://www.chosun.com/economy/money/2026/07/31/E4JFCSNWMRHJJLQWA2QM6SLDOE/",
     "https://www.chosun.com/economy/money/2026/07/31/BPVQMQ7KINAKHAA4JKUDNDN6H4/",
     "https://economist.co.kr/article/view/ecn202607310019",
@@ -1784,11 +1774,11 @@
     "https://www.tokenpost.kr/news/breaking/383546",
     "http://www.metroseoul.co.kr/article/20260801500015",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5209674",
-    "https://www.munhwa.com/article/11606542"
+    "https://www.munhwa.com/article/11606542",
+    "https://www.interfootball.co.kr/news/articleView.html?idxno=691662",
+    "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260801510&PRO_CODE=99"
    ],
    "seen_titles": [
-    "SK오션플랜트,718억원규모화학제품운반선2척수주",
-    "[특징주]시총2위SK하이닉스,31일상한가'축포'",
     "[장중시황]코스피,17%대폭등…외국인9조순매수에반도체株'상한가...",
     "[속보]하이닉스,장중상한가'터치'···삼성전자도25%'급등'",
     "'1인당10만원배상권고'쿠팡,SKT전철밟나...\"최대3.7조부담가능...",
@@ -3286,10 +3276,12 @@
     "트레이드xyz,SK하이닉스계약가격오류보상시작",
     "7월수출988억9000만달러‘역대2위’…반도체·컴퓨터가견인",
     "\"코스피,비트코인보다변동심해\"…'롤러코스피'에외신도비판",
-    "“하닉이298만원찍던날있었단다”100만클릭전래동화"
+    "“하닉이298만원찍던날있었단다”100만클릭전래동화",
+    "'18세韓축구초신성'허재원뮌헨행에독일현지서도기대...\"뮌헨관...",
+    "국민의힘\"'레버리지ETF대참사'국정조사추진…김용범청와대실장..."
    ],
    "initialized": true,
-   "last_run": "2026-08-01T17:45:24.972923+09:00"
+   "last_run": "2026-08-01T17:50:25.607204+09:00"
   }
  },
  "press_names": {
