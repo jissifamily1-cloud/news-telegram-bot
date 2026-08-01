@@ -402,12 +402,21 @@
     [
      "2026-08-01T14:15:26.321769+09:00",
      "상승 최대폭 하루에 역대 코스피 001p"
+    ],
+    [
+     "2026-08-01T14:20:29.278266+09:00",
+     "관세 환율 금리 하반기 뛰는 불안한 다시 빨간불 물가 유가에"
+    ],
+    [
+     "2026-08-01T14:20:29.278266+09:00",
+     "데이터센터 수주 잔고 산일전기 수요 전력 커지는 질주 타고 변압"
+    ],
+    [
+     "2026-08-01T14:20:29.278266+09:00",
+     "마이너스 이미 봤다 폭락에 처음 낭떠레버리지 마이닉스"
     ]
    ],
    "seen_urls": [
-    "https://www.mediawatch.kr/news/article.html?no=260524",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=593579",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=270845",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260731010011731",
     "https://www.job-post.co.kr/news/articleView.html?idxno=222695",
     "https://www.ddaily.co.kr/page/view/2026073114192644158",
@@ -1904,12 +1913,12 @@
     "https://www.newsworks.co.kr/news/articleView.html?idxno=848967",
     "https://www.news1.kr/sports/soccer/6246087",
     "https://www.moneystorm.kr/news/articleView.html?idxno=5421",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260801140858VJg"
+    "http://www.yonhapnewstv.co.kr/news/MYH20260801140858VJg",
+    "https://www.thescoop.co.kr/news/articleView.html?idxno=311102",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473469",
+    "https://www.mk.co.kr/article/12114236"
    ],
    "seen_titles": [
-    "SKT,로봇스타트업8개사와협업",
-    "[공시Pick]팬오션,2분기'깜짝실적'에10%대폭등",
-    "[속보]SK하이닉스,장중‘상한가’터치…29.95%올라",
     "SK이터닉스,장중5만원돌파눈앞…친환경에너지기대감에8퍼센트대...",
     "[특징주]두산,SK실트론인수기대감·전자BG호실적에28%대급등",
     "[속보]SK하이닉스,장중29.95%상한가기록…171만8000원",
@@ -3406,10 +3415,13 @@
     "증권사목표주가줄줄이내렸지만…삼전닉스,HBM4·LTA하반기'승부'",
     "K리그,8월여름축제로물든다…워터페스티벌부터체험행사까지",
     "[기업톺아보기]2분기실적에코프로비엠더악화,SK온-삼성SDI-포스코퓨...",
-    "[뉴스초점]하루에1,001p↑…코스피,역대최대폭상승"
+    "[뉴스초점]하루에1,001p↑…코스피,역대최대폭상승",
+    "다시뛰는유가에금리·환율·관세'빨간불'…불안한하반기물가",
+    "산일전기,AI데이터센터전력수요타고질주…수주잔고커지는변압...",
+    "“처음마이너스봤다”…‘낭떠레버리지’‘마이닉스’폭락에이미..."
    ],
    "initialized": true,
-   "last_run": "2026-08-01T14:15:26.321769+09:00"
+   "last_run": "2026-08-01T14:20:29.278266+09:00"
   }
  },
  "press_names": {
