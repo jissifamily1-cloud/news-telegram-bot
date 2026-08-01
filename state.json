@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-01T05:10:34.756642+09:00",
-     "개미들 증발 만에 취소했다 주식 휴가 1000만원 폭락에"
-    ],
-    [
      "2026-08-01T05:30:43.389914+09:00",
      "지속 상승 3대 급등 하이퍼스케일러 지수"
     ],
@@ -570,12 +566,17 @@
     [
      "2026-08-01T11:05:21.553009+09:00",
      "Exports on July Chip Korea in Surge Demand South"
+    ],
+    [
+     "2026-08-01T11:15:31.370963+09:00",
+     "웃음만 주가 좋은 상실 기분 어이 이미숙 없어 하락에 하이닉스"
+    ],
+    [
+     "2026-08-01T11:15:31.370963+09:00",
+     "경기장에서 즐기는 축제 8월엔 한여름의 K리그와 날리자 무더위 함께"
     ]
    ],
    "seen_urls": [
-    "https://www.dkilbo.com/news/articleView.html?idxno=550145",
-    "https://view.asiae.co.kr/article/2026073114025868163",
-    "https://www.yna.co.kr/view/AKR20260731078800008?input=1195m",
     "http://www.fnnews.com/news/202607311009143221",
     "https://www.goodmorningcc.com/news/articleView.html?idxno=449888",
     "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53433",
@@ -2072,12 +2073,12 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473436",
     "https://daily.hankooki.com/news/articleView.html?idxno=1391742",
     "https://www.econotimes.com/South-Korea-Exports-Surge-628-in-July-on-AI-Chip-Demand-1748341",
-    "http://www.fnnews.com/news/202608011102124139"
+    "http://www.fnnews.com/news/202608011102124139",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16152122",
+    "https://www.newsen.com/news_view.php?uid=202608010800242110",
+    "https://www.besteleven.com/news/articleView.html?idxno=310638"
    ],
    "seen_titles": [
-    "건설업계경영체계전환...GS건설·SK에코플랜트-AI활용,현대엔지니어...",
-    "\"적자땐임금깎자\"회사가제안하자...SK하이닉스직원들이보인반응",
-    "블룸버그,코스피장중17%급등집중조명…\"AI투자낙관론회복\"",
     "살수있는최대치샀다…신뢰회복직접나선최태원",
     "UBS,내년HBM1위교체전망\"삼성41%,SK39%\"",
     "[재계는지금]LGAI연구원,‘K-엑사원2.0’공개外",
@@ -3574,10 +3575,13 @@
     "두산,SK실트론인수로반도체전공정진입...사업포트포리오강화",
     "'분양비수기'8월,청약'큰장'열린다…전국3만9천여가구공급",
     "SouthKoreaExportsSurge62.8%inJulyonAIChipDemand",
-    "\"천덕꾸러기김용범실장책임져야\"..국힘,부동산·주식정책실패질타"
+    "\"천덕꾸러기김용범실장책임져야\"..국힘,부동산·주식정책실패질타",
+    "7월31일SK스퀘어주가103만원대반등마감",
+    "이미숙,하이닉스주가하락에어이상실웃음만“기분좋은일없어,...",
+    "8월엔K리그와함께무더위날리자!경기장에서즐기는'한여름의축제..."
    ],
    "initialized": true,
-   "last_run": "2026-08-01T11:10:24.670625+09:00"
+   "last_run": "2026-08-01T11:15:31.370963+09:00"
   }
  },
  "press_names": {
