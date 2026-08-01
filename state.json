@@ -74,10 +74,13 @@
     [
      "2026-08-02T05:05:20.055511+09:00",
      "주가위기때 최태원 책임매수 상한가 이튿날 SK하이닉스 전격등판"
+    ],
+    [
+     "2026-08-02T05:25:29.157687+09:00",
+     "시타델 자산 줍줍 헤지펀드 버틴 레버리지 천재"
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473296",
     "https://www.yna.co.kr/view/AKR20260731102200008?input=1195m",
     "https://www.cbci.co.kr/news/articleView.html?idxno=593595",
     "https://www.dailian.co.kr/news/view/1673221/?sc=Naver",
@@ -1576,10 +1579,10 @@
     "https://www.g-enews.com/view.php?ud=202607311541284475bb91c46fcd_1",
     "https://www.segye.com/newsView/20260802500539?OutUrl=naver",
     "https://www.newsis.com/view/NISX20260731_0003732082",
-    "http://www.osen.co.kr/article/G1112850765"
+    "http://www.osen.co.kr/article/G1112850765",
+    "https://magazine.hankyung.com/business/article/202607318327b"
    ],
    "seen_titles": [
-    "아이스크림에듀,교보문고어린이책Dream프로젝트선정",
     "[속보]\"최태원사자마자\"SK하이닉스,장중29.95%상한가터치",
     "중국CXMT,삼성전자·SK하이닉스·마이크론주도HBM기술격차여전",
     "\"최태원구조대왔다\"…SK하이닉스,책임경영강조다음날상한가",
@@ -3078,10 +3081,11 @@
     "원화강세·달러공급개선에전쟁충격해소...환율1년만에1300원대초...",
     "“하루만에1000P폭등”…외국인8.8조쓸어담고개미10조던졌다[숫...",
     "최태원,SK하이닉스株'책임매수'이튿날상한가…주가위기때전격등판...",
-    "195cm제주유스GK,바이에른품으로...허재원6개월임대+완전이적옵..."
+    "195cm제주유스GK,바이에른품으로...허재원6개월임대+완전이적옵...",
+    "'AI천재'도못버틴레버리지…시타델,헤지펀드자산줍줍"
    ],
    "initialized": true,
-   "last_run": "2026-08-02T05:20:26.964320+09:00"
+   "last_run": "2026-08-02T05:25:29.157687+09:00"
   }
  },
  "press_names": {
