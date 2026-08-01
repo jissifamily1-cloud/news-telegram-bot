@@ -562,13 +562,17 @@
     [
      "2026-08-01T10:30:34.526559+09:00",
      "반도체 치적 누구 것인가"
+    ],
+    [
+     "2026-08-01T10:35:25.607861+09:00",
+     "성장동력 찾는다 K제약 바이오 중남미서"
+    ],
+    [
+     "2026-08-01T10:35:25.607861+09:00",
+     ""
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000325920?division=NAVER",
-    "https://dealsite.co.kr/articles/166349",
-    "https://www.ziksir.com/news/articleView.html?idxno=141816",
-    "https://www.mt.co.kr/stock/2026/07/31/2026073110185837417",
     "https://www.sidae.com/article/2026073113425714335",
     "https://www.seoulfn.com/news/articleView.html?idxno=634646",
     "https://www.job-post.co.kr/news/articleView.html?idxno=222671",
@@ -2064,13 +2068,13 @@
     "https://www.dt.co.kr/article/12075927",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473430",
     "https://www.besteleven.com/news/articleView.html?idxno=310635",
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070962"
+    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070962",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=356834",
+    "https://www.hankyung.com/article/2026073184736",
+    "https://www.yna.co.kr/view/AKR20260731086700017?input=1195m",
+    "https://www.yna.co.kr/view/AKR20260801026000011?input=1195m"
    ],
    "seen_titles": [
-    "[티타임]불기둥코스피,외국인7.6조폭풍매수…하이닉스27%↑",
-    "KospijumpsonU.S.chiprallyasAIoptimismreturns",
-    "거래대금폭증·주주환원기대감에증권주'솟구침'…테마전반강한...",
-    "KT,공정위과징금불복소송서패소…소송대법행",
     "코스피,14%대폭등...다시6000선돌파",
     "[단독]폭등해도대혼란…'삼전닉스'레버리지ETF,초유의괴리율공포...",
     "“49억넣었더니하루만에13억평가익”…최태원‘하이닉스저점매수...",
@@ -3566,10 +3570,14 @@
     "7월수출989억달러,역대2위…첫‘두달연속1000억달러’도전엔실...",
     "[7월종합]코스피한달−22.19%,IMF·금융위기이후최악…100대기업...",
     "'연봉333억이상맞춰줄게!'갈라타사라이,브루노페르난데스영입승...",
-    "[뉴스클레임사설]반도체치적누구것인가"
+    "[뉴스클레임사설]반도체치적누구것인가",
+    "KAI,엠브라에르와항공구조물MOU…국산AI반도체사업주관사도선정",
+    "보완책효과있었나…단일종목레버리지거래량'뚝'[노정동의어쩌다...",
+    "[바이오사이언스]K제약·바이오,중남미서새성장동력찾는다",
+    "[연합뉴스이시각헤드라인]-10:30"
    ],
    "initialized": true,
-   "last_run": "2026-08-01T10:30:34.526559+09:00"
+   "last_run": "2026-08-01T10:35:25.607861+09:00"
   }
  },
  "press_names": {
