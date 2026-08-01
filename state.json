@@ -290,11 +290,13 @@
     [
      "2026-08-01T17:15:30.461420+09:00",
      "뒷북 연말 낮췄다 1만 간다더니 논란 목표치는 슬쩍"
+    ],
+    [
+     "2026-08-01T17:25:19.052737+09:00",
+     "반도체 7월 988억9000만 견인 수출 달러 2위 역대 컴퓨터가"
     ]
    ],
    "seen_urls": [
-    "https://www.smartbizn.com/news/articleView.html?idxno=150031",
-    "https://www.pressian.com/pages/articles/2026073110424771776",
     "https://news.tf.co.kr/read/economy/2349315.htm",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=142404",
     "https://www.news1.kr/finance/market-exr/6245441",
@@ -1792,11 +1794,11 @@
     "https://www.mk.co.kr/article/12113450",
     "https://www.sedaily.com/article/20074647",
     "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260801508&PRO_CODE=99",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685718&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685718&plink=ORI&cooper=NAVER",
+    "https://www.tokenpost.kr/news/breaking/383546",
+    "http://www.metroseoul.co.kr/article/20260801500015"
    ],
    "seen_titles": [
-    "[속보]SK하닉장중29.95%상한가…171만8000원거래",
-    "SK하이닉스,장중29.95%상한가터치…171만8000원",
     "SK하이닉스장중상한가…171만8000원터치",
     "[STOCK톺]SK하이닉스,장중상한가'터치'…171만8000원",
     "SK오션플랜트,718억원규모화학제품운반선2척수주",
@@ -3294,10 +3296,12 @@
     "지금이증시바닥일까...여의도서꼽은유망종목보니",
     "“도저히못참겠다”10조던진개미…SK하닉상한가친날외인은8.7조...",
     "\"진입문턱3배높이자초단타뚝\"…삼전·닉스레버리지ETF거래량74%...",
-    "[자막뉴스]'1만'간다더니슬쩍낮췄다…\"연말목표치는\"'뒷북'논란"
+    "[자막뉴스]'1만'간다더니슬쩍낮췄다…\"연말목표치는\"'뒷북'논란",
+    "트레이드xyz,SK하이닉스계약가격오류보상시작",
+    "7월수출988억9000만달러‘역대2위’…반도체·컴퓨터가견인"
    ],
    "initialized": true,
-   "last_run": "2026-08-01T17:20:28.506549+09:00"
+   "last_run": "2026-08-01T17:25:19.052737+09:00"
   }
  },
  "press_names": {
