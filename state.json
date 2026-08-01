@@ -574,12 +574,21 @@
     [
      "2026-08-01T11:15:31.370963+09:00",
      "경기장에서 즐기는 축제 8월엔 한여름의 K리그와 날리자 무더위 함께"
+    ],
+    [
+     "2026-08-01T11:20:27.629683+09:00",
+     "불확실성 반영 시장 속에서 강화 반도체주 변동성"
+    ],
+    [
+     "2026-08-01T11:20:27.629683+09:00",
+     "국제 인상요인 50원 공급가 반등 국내 LPG가격 9월"
+    ],
+    [
+     "2026-08-01T11:20:27.629683+09:00",
+     "7월 470만 만든 목표주가가 30일 SK하이닉스 2026년"
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202607311009143221",
-    "https://www.goodmorningcc.com/news/articleView.html?idxno=449888",
-    "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53433",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4428049",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=725422",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=265208",
@@ -2076,12 +2085,12 @@
     "http://www.fnnews.com/news/202608011102124139",
     "https://www.topstarnews.net/news/articleView.html?idxno=16152122",
     "https://www.newsen.com/news_view.php?uid=202608010800242110",
-    "https://www.besteleven.com/news/articleView.html?idxno=310638"
+    "https://www.besteleven.com/news/articleView.html?idxno=310638",
+    "https://www.tokenpost.kr/news/market/383503",
+    "http://www.e-platform.net/news/articleView.html?idxno=104296",
+    "https://www.the-today.com/news/articleView.html?idxno=88035"
    ],
    "seen_titles": [
-    "살수있는최대치샀다…신뢰회복직접나선최태원",
-    "UBS,내년HBM1위교체전망\"삼성41%,SK39%\"",
-    "[재계는지금]LGAI연구원,‘K-엑사원2.0’공개外",
     "SKT,피지컬AI스타트업8개사와협력…로봇생태계확대",
     "\"책임경영\"최태원,SK하닉주식매수하루만에시세차익'12억'",
     "주주의시간…삼성전자·SK하이닉스,역대급환원정책주목",
@@ -3578,10 +3587,13 @@
     "\"천덕꾸러기김용범실장책임져야\"..국힘,부동산·주식정책실패질타",
     "7월31일SK스퀘어주가103만원대반등마감",
     "이미숙,하이닉스주가하락에어이상실웃음만“기분좋은일없어,...",
-    "8월엔K리그와함께무더위날리자!경기장에서즐기는'한여름의축제..."
+    "8월엔K리그와함께무더위날리자!경기장에서즐기는'한여름의축제...",
+    "AI반도체주,시장변동성속에서불확실성반영강화",
+    "국제LPG가격반등...9월국내공급가㎏당50원인상요인",
+    "[NZSIINDEX]2026년7월30일SK하이닉스470만원목표주가가만든3,422..."
    ],
    "initialized": true,
-   "last_run": "2026-08-01T11:15:31.370963+09:00"
+   "last_run": "2026-08-01T11:20:27.629683+09:00"
   }
  },
  "press_names": {
