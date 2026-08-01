@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-01T05:55:23.197712+09:00",
-     "실적 마감 훈풍에 강세 아마존 나스닥 뉴욕증시"
-    ],
-    [
-     "2026-08-01T05:55:23.197712+09:00",
-     "폭풍 다시 하락 뉴욕 회복세 삼전 반도체주 끊기나 SK하닉"
-    ],
-    [
-     "2026-08-01T05:55:23.197712+09:00",
-     "SKT의 7500억으로 15GW 승부수 AIDC 개발"
-    ],
-    [
      "2026-08-01T06:00:37.125908+09:00",
      "SK하이닉스 반도체주 따른 ADR 급반등에 조정 마이크론"
     ],
@@ -586,10 +574,13 @@
     [
      "2026-08-01T11:45:33.189119+09:00",
      "8월 국내 공급가격 LPG 동결"
+    ],
+    [
+     "2026-08-01T11:55:26.557991+09:00",
+     "피크아웃 고민했는데 반도체주 털썩 주가 손절 공포에 아직"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1718650",
     "https://www.mk.co.kr/article/12113308",
     "https://www.viva100.com/article/20260731500492",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=83921",
@@ -2088,10 +2079,10 @@
     "https://biz.sbs.co.kr/article_hub/20000326039?division=NAVER",
     "https://www.jejumaeil.net/news/articleView.html?idxno=403244",
     "http://www.e-platform.net/news/articleView.html?idxno=104297",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473450"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473450",
+    "https://www.sedaily.com/article/20074616"
    ],
    "seen_titles": [
-    "우리자산운용,美단기채공모주펀드순자산5000억원돌파",
     "LGAI연구원,'K-엑사원2.0'공개···독파모선발전윤곽",
     "사상첫연이틀서킷브레이커에도…'3배레버리지'에1조원넘게몰렸다",
     "\"쿠팡,정보유출피해자에10만원씩배상해야\"",
@@ -3590,10 +3581,11 @@
     "\"글로벌메모리5개사,2분기순익16배뛰었다\"",
     "제주유스허재원,뮌헨으로간다",
     "8월국내LPG공급가격'동결'",
-    "배터리흑자전환에윤활유'깜짝실적'…SK이노베이션,시장전망두배..."
+    "배터리흑자전환에윤활유'깜짝실적'…SK이노베이션,시장전망두배...",
+    "“피크아웃공포에주가‘털썩’”손절고민했는데…반도체주아직더..."
    ],
    "initialized": true,
-   "last_run": "2026-08-01T11:50:24.731346+09:00"
+   "last_run": "2026-08-01T11:55:26.557991+09:00"
   }
  },
  "press_names": {
