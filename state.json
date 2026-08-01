@@ -310,10 +310,13 @@
     [
      "2026-08-02T08:05:22.683104+09:00",
      "주가 휴가도 롤러코스터 정신건강 온탕 하락세 회사도"
+    ],
+    [
+     "2026-08-02T08:08:22.572187+09:00",
+     "역대 경쟁력으로 HBM 나스닥 상장까 SK하이닉스 DRAM 실적 메모리"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISI20260731_0021384277",
     "https://www.newsis.com/view/NISI20260731_0021384273",
     "https://www.newsis.com/view/NISI20260731_0021384261",
     "https://www.newsis.com/view/NISI20260731_0021384284",
@@ -1812,10 +1815,10 @@
     "https://www.sentv.co.kr/article/view/sentv202607310144",
     "https://www.sentv.co.kr/article/view/sentv202607310147",
     "https://en.yna.co.kr/view/AEN20260801003100315?input=2106m",
-    "https://www.yna.co.kr/view/AKR20260801041600004?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260801041600004?input=1195m",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=593866"
    ],
    "seen_titles": [
-    "코스피200선물,시장출범30년만에사상첫'20%상한가'",
     "“이게주식이야도박이야”…‘체질개선’한다지만미국발요인에‘...",
     "AI수익성입증에강제청산진정...증권가\"반도체조정막바지\"",
     "CXMT상장대박불구세계메모리시장전망당장안바뀌어",
@@ -3314,10 +3317,11 @@
     "SK하이닉스,148만원vs470만원…엇갈린‘눈높이’왜",
     "상반기유증6.3조…코스피는줄고코스닥은늘었다",
     "(NewsFocus)LeeadvancesS.Korea'sAIchiphubvisionwithU.S.deals,",
-    "'롤러코스터주가'에정신건강하락세…회사도휴가도냉·온탕"
+    "'롤러코스터주가'에정신건강하락세…회사도휴가도냉·온탕",
+    "SK하이닉스,AI메모리경쟁력으로역대실적…HBM·DRAM·나스닥상장까..."
    ],
    "initialized": true,
-   "last_run": "2026-08-02T08:05:22.683104+09:00"
+   "last_run": "2026-08-02T08:08:22.572187+09:00"
   }
  },
  "press_names": {
