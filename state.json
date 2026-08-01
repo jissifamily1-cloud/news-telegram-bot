@@ -237,7 +237,6 @@
     ]
    ],
    "seen_urls": [
-    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005891498",
     "http://www.seouleconews.com/news/articleView.html?idxno=92772",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1718662",
     "https://www.mt.co.kr/stock/2026/07/31/2026073114355560595",
@@ -1736,10 +1735,10 @@
     "http://www.osen.co.kr/article/G1112850721",
     "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520640",
     "https://www.mk.co.kr/article/12114274",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1172123"
+    "https://www.ggilbo.com/news/articleView.html?idxno=1172123",
+    "https://news.tvchosun.com/site/data/html_dir/2026/08/01/2026080190116.html"
    ],
    "seen_titles": [
-    "SK바이오팜,대통령중남미경제사절단참여…제약바이오업계유일",
     "[요즘호텔은]호텔업계,국제행사부터미식·문화까지···여름고객유...",
     "'AI혁명'의이익은누가갖고,버블의대가는누가치르나",
     "SK하이닉스장중사상첫상한가…반도체훈풍에171만8000원터치",
@@ -3238,10 +3237,11 @@
     "언젠가K리그폭염취소도볼수있다…연맹,“아직케이스없으나규...",
     "[장덕수의원샷원킬]'송구합니다'라는문자…국회는왜권력앞에서만...",
     "삼전닉스는수십조원인데일본은‘고작’…메모리5개사2분기135조원",
-    "삼전닉스레버리지ETF몰빵했다가…개인손실56조추정"
+    "삼전닉스레버리지ETF몰빵했다가…개인손실56조추정",
+    "'AI거품론'딛고반도체반등…수출14개월연속최대치"
    ],
    "initialized": true,
-   "last_run": "2026-08-01T19:30:37.051917+09:00"
+   "last_run": "2026-08-01T19:35:21.397698+09:00"
   }
  },
  "press_names": {
