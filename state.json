@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-01T06:25:22.657686+09:00",
-     "조모 그리고 포모 모모"
-    ],
-    [
-     "2026-08-01T06:25:22.657686+09:00",
-     "설비투자 105억 ASE 달러 2026년 확충"
-    ],
-    [
      "2026-08-01T06:30:39.260705+09:00",
      "거래 대책 규모 첫날 수준 레버리지 급감"
     ],
@@ -538,10 +530,13 @@
     [
      "2026-08-01T12:20:27.445748+09:00",
      "확대 3개국 공급망 공급선 허브 원유 공표하고 남미로"
+    ],
+    [
+     "2026-08-01T12:25:22.721481+09:00",
+     "달바글로벌 사고 한국항공우주 팔았다"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/general-stock/6245116",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04421446645520096",
     "https://www.ggilbo.com/news/articleView.html?idxno=1172587",
     "https://www.polinews.co.kr/news/articleView.html?idxno=738680",
@@ -2040,10 +2035,10 @@
     "https://www.starnewskorea.com/sports/2026/08/01/2026080110322376303",
     "https://www.ilemonde.com/news/articleView.html?idxno=30444",
     "https://www.ggilbo.com/news/articleView.html?idxno=1172005",
-    "https://www.mediapen.com/news/view/1113749"
+    "https://www.mediapen.com/news/view/1113749",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1718725"
    ],
    "seen_titles": [
-    "UBS\"삼성HBM선두역전전망\"…메모리초호황지속",
     "\"최태원,SK하이닉스49억매수배경은…책임경영위한법적내매입최...",
     "사상첫연이틀서킷브레이커불구…'3배레버리지'에1조원넘게몰려",
     "최태원의자신감\"하이닉스저평가,48억원규모주식매수\"…SK\"사전공...",
@@ -3542,10 +3537,11 @@
     "'독일현지도감탄'08년생韓골키퍼초신성\"무려195㎝,선방보다뛰...",
     "[팔런티어테크놀로지스⑥]'K-팔런티어'는가능한가",
     "SK하이닉스,TSMC넘은영업이익률76%...1만원팔면7600원남아",
-    "‘원유공급선’남미로확대…美서‘AI허브’공표하고3개국공급망..."
+    "‘원유공급선’남미로확대…美서‘AI허브’공표하고3개국공급망...",
+    "[1%초고수의주간선택]'한국항공우주'사고'달바글로벌'팔았다"
    ],
    "initialized": true,
-   "last_run": "2026-08-01T12:20:27.445748+09:00"
+   "last_run": "2026-08-01T12:25:22.721481+09:00"
   }
  },
  "press_names": {
