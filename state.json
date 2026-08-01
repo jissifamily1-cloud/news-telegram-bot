@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-01T08:34:08.155744+09:00",
-     "다음날 결제 기대 내는 부양 속도 입금 주식 팔면 도입에 증시"
-    ],
-    [
      "2026-08-01T08:40:27.927430+09:00",
      "재원 2조3000억원 매각 투자 반도체 SK실트론 두산에 사업 재편"
     ],
@@ -402,11 +398,13 @@
     [
      "2026-08-01T14:25:26.642670+09:00",
      "SK실트론 2031년 3조원 목표 두산으로 매출 넘어간"
+    ],
+    [
+     "2026-08-01T14:35:22.237156+09:00",
+     "인버스 규제 북적 3000만원 레버리지 단일종목 개미 지수형"
     ]
    ],
    "seen_urls": [
-    "https://www.ddaily.co.kr/page/view/2026073114192644158",
-    "https://view.asiae.co.kr/article/2026073114200759049",
     "https://www.hankookilbo.com/news/article/A2026073114130001175?did=NA",
     "http://news.lghellovision.net/news/articleView.html?idxno=549906",
     "https://biz.chosun.com/stock/stock_general/2026/07/31/XIZ4SCFKXRDOXMVNL6YC5RFOLA/",
@@ -1904,11 +1902,11 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473469",
     "https://www.mk.co.kr/article/12114236",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02243526645543056",
-    "https://www.delighti.co.kr/news/articleView.html?idxno=119697"
+    "https://www.delighti.co.kr/news/articleView.html?idxno=119697",
+    "https://www.newsis.com/view/NISX20260801_0003732587",
+    "https://biz.heraldcorp.com/article/10827493"
    ],
    "seen_titles": [
-    "[속보]SK하이닉스,장중29.95%상한가기록…171만8000원",
-    "[속보]SK하이닉스,31일장중상한가도달",
     "[속보]SK하이닉스,장중상한가터치…171만8000원",
     "용인·서남권반도체용수우려...삼성·SK'수자원순환'계획은?",
     "\"40년모은재산다날렸다\"...SK하이닉스레버리지에전재산부었다가...",
@@ -3406,10 +3404,12 @@
     "산일전기,AI데이터센터전력수요타고질주…수주잔고커지는변압...",
     "“처음마이너스봤다”…‘낭떠레버리지’‘마이닉스’폭락에이미...",
     "AI열풍에…삼전·닉스등메모리5개사현금흐름92배폭증",
-    "두산으로넘어간SK실트론…2031년매출3조원목표"
+    "두산으로넘어간SK실트론…2031년매출3조원목표",
+    "프로축구K리그가폭염을이겨내는방법…한여름의'축제'",
+    "단일종목레버리지‘3000만원규제’에지수형인버스‘북적’…개미..."
    ],
    "initialized": true,
-   "last_run": "2026-08-01T14:30:35.308494+09:00"
+   "last_run": "2026-08-01T14:35:22.237156+09:00"
   }
  },
  "press_names": {
