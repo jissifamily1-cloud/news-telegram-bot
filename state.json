@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-01T08:45:32.513147+09:00",
-     "인상설 엔비디아 지포스 VRAM값 폭등에"
-    ],
-    [
-     "2026-08-01T08:45:32.513147+09:00",
-     "증권사는 레버리지의 반토막 개인은 대박"
-    ],
-    [
      "2026-08-01T08:50:27.286361+09:00",
      "화학제품운반선 6800DWT급 수주 718억 규모 SK오션플랜트 2척"
     ],
@@ -402,10 +394,13 @@
     [
      "2026-08-01T14:45:25.249265+09:00",
      "명청대전 유시민에 개혁 지옥문 침묵하 개혁하고"
+    ],
+    [
+     "2026-08-01T14:50:26.206942+09:00",
+     "구마모토 운행 강진에 규슈신칸센 8월 장기화 중단"
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/breaking/383216",
     "https://www.newsis.com/view/NISX20260731_0003731654",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473275",
     "https://daily.hankooki.com/news/articleView.html?idxno=1391537",
@@ -1904,10 +1899,10 @@
     "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95651",
     "https://www.sedaily.com/article/20074624",
     "https://www.cnbizm.com/news/articleView.html?idxno=310336",
-    "https://www.sedaily.com/article/20074625"
+    "https://www.sedaily.com/article/20074625",
+    "https://www.pointe.co.kr/news/articleView.html?idxno=82647"
    ],
    "seen_titles": [
-    "삼성전자,내년HBM점유율SK하이닉스추월전망…“HBM4전환속도앞...",
     "SK오션플랜트,1600억규모유럽HVDC해상변전소하부구조물첫수주",
     "SK하이닉스,장중29.95%급등…상한가근접",
     "[속보]SK하이닉스,장중29.95%상한가…171만8000원",
@@ -3406,10 +3401,11 @@
     "[오피셜]'제주→바이에른뮌헨'꿈이현실로!...'2008년생·195cm'허재원...",
     "‘메모리갑질’하다가중국제쓰겠다는아이폰[트럼프스톡커]",
     "SK오션플랜트,유럽HVDC해상변전소하부구조물첫수주",
-    "金“명청대전지옥문”鄭“개혁하고또개혁”宋“유시민에침묵하..."
+    "金“명청대전지옥문”鄭“개혁하고또개혁”宋“유시민에침묵하...",
+    "[오늘일본은]구마모토강진에규슈신칸센운행중단장기화…8월내..."
    ],
    "initialized": true,
-   "last_run": "2026-08-01T14:45:25.249265+09:00"
+   "last_run": "2026-08-01T14:50:26.206942+09:00"
   }
  },
  "press_names": {
