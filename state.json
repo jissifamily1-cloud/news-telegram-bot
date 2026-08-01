@@ -497,7 +497,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH202607311330327QT",
     "http://www.fnnews.com/news/202607311327494248",
     "https://www.startuptoday.co.kr/news/articleView.html?idxno=808379",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607291047594000109664",
@@ -1996,10 +1995,10 @@
     "https://www.ekn.kr/web/view.php?key=20260801025448469",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=422807",
     "https://www.ekn.kr/web/view.php?key=20260801024148464",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260801091946tgI"
+    "http://www.yonhapnewstv.co.kr/news/MYH20260801091946tgI",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=876739"
    ],
    "seen_titles": [
-    "FTA22년기반으로미래산업으로…한·칠레기업협력확대",
     "SK오션플랜트독일북해2.2GW초대형해상변전소하부구조물수주",
     "씨메스로보틱스,SKT피지컬AI간담회참석…협력확대논의",
     "'적자나면임금일시조정'제안에SK하이닉스노조반발",
@@ -3498,10 +3497,11 @@
     "SK가스,2분기영업손실439억원…매출늘었지만적자전환",
     "흑자넘어전략경쟁···배터리3사하반기승부수갈린다",
     "‘정유에서전기’로피봇SK이노베이션,솔루션은‘LNG·SMR’",
-    "중동전쟁에도정유사'깜짝실적'…\"래깅효과작용\""
+    "중동전쟁에도정유사'깜짝실적'…\"래깅효과작용\"",
+    "'이제는뉴노멀'...삼성전자ㆍSK하이닉스,장기공급계약잇따라체"
    ],
    "initialized": true,
-   "last_run": "2026-08-01T09:25:23.472351+09:00"
+   "last_run": "2026-08-01T09:30:41.709579+09:00"
   }
  },
  "press_names": {
