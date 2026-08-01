@@ -197,8 +197,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=20260731150633805227fa31d75c_1",
-    "https://www.mk.co.kr/article/12113390",
     "https://www.insight.co.kr/news/565841",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5209487",
     "https://www.dailian.co.kr/news/view/1673197/?sc=Naver",
@@ -1696,11 +1694,11 @@
     "https://www.g-enews.com/view.php?ud=2026080123524267250c8c1c064d_1",
     "https://www.lecturernews.com/news/articleView.html?idxno=207661",
     "https://www.mk.co.kr/article/12114322",
-    "https://www.tokenpost.kr/news/economy/383717"
+    "https://www.tokenpost.kr/news/economy/383717",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553424853",
+    "https://www.g-enews.com/view.php?ud=202608020649566548fbbec65dfb_1"
    ],
    "seen_titles": [
-    "이재명'단일종목레버리지ETF·부동산'덫에지지율하락,돌파구찾...",
-    "SK하이닉스임단협난항…성과급주식지급·적자시임금조정갈등",
     "삼성전자-SK하이닉스반도체수출현장",
     "SK그룹임원진한자리에...씨메스로보틱스,제조·물류피지컬AI실증...",
     "카카오뱅크첫파업…'IT식성과급'논쟁,은행권으로확산",
@@ -3198,10 +3196,12 @@
     "AI골드러시에900억달러확보한메모리공룡들…초격차설비투자전...",
     "[코스피·코스닥지수]급반등한코스피,상승세이어질까...지난주다우...",
     "“1600원위기한달만에뚝”…SK하이닉스·조선사가푼달러에분위기...",
-    "원/달러환율,9개월만에최저치…원화가치급등이유는?"
+    "원/달러환율,9개월만에최저치…원화가치급등이유는?",
+    "[오피셜]韓쾌거!역사상첫유럽'빅리그직행'골키퍼나왔다...제주...",
+    "아마존318조원투자…한국메모리반도체발주늘어난다"
    ],
    "initialized": true,
-   "last_run": "2026-08-02T06:50:32.911816+09:00"
+   "last_run": "2026-08-02T06:55:25.629909+09:00"
   }
  },
  "press_names": {
