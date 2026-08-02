@@ -534,14 +534,21 @@
     [
      "2026-08-02T10:20:25.283364+09:00",
      "확산 찍었던 전래동화 298만원 있었다 하이닉스"
+    ],
+    [
+     "2026-08-02T10:25:21.249225+09:00",
+     "27골 21경기 빈공 전북 실종 2위에도 현대 닥공 고민"
+    ],
+    [
+     "2026-08-02T10:25:21.249225+09:00",
+     "전북현대 0대 무승부 FC서울과"
+    ],
+    [
+     "2026-08-02T10:25:21.249225+09:00",
+     "적격성 조달경쟁 중심으로 ESS 공급망 현지화 가격에서 중요"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202607311554357134923c501012_1",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4428075",
-    "http://weekly.chosun.com/news/articleView.html?idxno=53942",
-    "https://www.cstimes.com/news/articleView.html?idxno=715395",
-    "https://www.seoulfn.com/news/articleView.html?idxno=634662",
     "https://www.viewsnnews.com/article?q=237583",
     "https://www.khan.co.kr/article/202607311602001",
     "https://www.sentv.co.kr/article/view/sentv202607310142",
@@ -2036,14 +2043,14 @@
     "https://www.yna.co.kr/view/AKR20260802015300007?input=1195m",
     "https://www.news1.kr/it-science/cc-newmedia/6246340",
     "http://www.breaknews.com/1226090",
-    "https://www.joongang.co.kr/article/25450104"
+    "https://www.joongang.co.kr/article/25450104",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=169167",
+    "https://www.ziksir.com/news/articleView.html?idxno=141897",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16152784",
+    "http://www.jmbc.co.kr/news/view/66710",
+    "https://www.dt.co.kr/article/12075997"
    ],
    "seen_titles": [
-    "널뛰는유가·운임…정유업계,베네수엘라·캐나다산우회총력",
-    "17%폭등에도안심하긴이르다…‘데드캣바운스’가능성배제할수없...",
-    "T1조마쉬의‘답변’은정정요청…‘독점대행’핵심질문엔답없...",
-    "코스피17.91%폭등6590선돌파…외국인7조원대폭풍매수",
-    "코스피,'역대급반등'6600선바짝...삼전·닉스도'불기둥'",
     "최태원회장,SK하이닉스매수하루만에13억원벌었다",
     "멀미나는코스피,사상최초하루1000포인트상승마감",
     "코스피,사상최대폭등마감…17.9%오른6595",
@@ -3538,10 +3545,15 @@
     "반년넘게집나간K리그1전북의'닥공'언제쯤돌아올까",
     "SKT,가민'포러너70'통신사단독출시…러너전용기기라인업강화",
     "[추적]SK하이닉스③“171만8000원은꿈,150만원은되찾은생명선”",
-    "“하이닉스298만원찍었던날있었다”전래동화확산"
+    "“하이닉스298만원찍었던날있었다”전래동화확산",
+    "中창신메모리,차세대메모리양산…SK하이닉스에'도전장'",
+    "SK텔레콤,1000만러너공략강화…가민·샥즈출시에'무도런'참가기...",
+    "\"21경기27골빈공\"…전북현대,닥공실종속2위에도고민",
+    "전북현대,FC서울과0대0무승부",
+    "“ESS조달경쟁,가격에서공급망적격성중심으로전환…현지화중요”"
    ],
    "initialized": true,
-   "last_run": "2026-08-02T10:20:25.283364+09:00"
+   "last_run": "2026-08-02T10:25:21.249225+09:00"
   }
  },
  "press_names": {
@@ -4109,6 +4121,7 @@
   "chiefexe.com": "KMAC",
   "factin.co.kr": "여론과뉴스",
   "worldkorean.net": "월드코리안뉴스",
-  "artinsight.co.kr": "아트인사이트"
+  "artinsight.co.kr": "아트인사이트",
+  "jmbc.co.kr": "전주MBC"
  }
 }
