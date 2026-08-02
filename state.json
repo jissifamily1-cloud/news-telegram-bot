@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-02T04:05:22.403168+09:00",
-     "악재 중요 중심 우량주 덮친 증시 선별 대외"
-    ],
-    [
      "2026-08-02T05:01:23.785662+09:00",
      "달러공급 해소 원화강세 개선에 충격 1년만에 1300원대 전쟁 환율"
     ],
@@ -506,13 +502,17 @@
     [
      "2026-08-02T10:01:28.839580+09:00",
      "가동까지 코히어 방한부터 AIDC 얼라이언스 CRO"
+    ],
+    [
+     "2026-08-02T10:05:22.702198+09:00",
+     "투자 코스피 레버리지 단일종목 높아졌다 리스크 매력도 벗어난"
+    ],
+    [
+     "2026-08-02T10:05:22.702198+09:00",
+     "맞고 서킷 2번 상한가 어질어질 팔았더니 개미들"
     ]
    ],
    "seen_urls": [
-    "http://www.metroseoul.co.kr/article/20260731500170",
-    "http://www.updownnews.co.kr/news/articleView.html?idxno=318182",
-    "http://www.seouleconews.com/news/articleView.html?idxno=92778",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1718681",
     "https://en.yna.co.kr/view/AEN20260731008151320?input=2106m",
     "https://biz.sbs.co.kr/article_hub/20000325963?division=NAVER",
     "https://www.tokenpost.kr/news/breaking/383252",
@@ -2008,13 +2008,13 @@
     "https://www.s-journal.co.kr/news/articleView.html?idxno=42795",
     "https://www.cbci.co.kr/news/articleView.html?idxno=593886",
     "https://www.ekn.kr/web/view.php?key=20260802022248377",
-    "https://www.ddaily.co.kr/page/view/2026073116113700477"
+    "https://www.ddaily.co.kr/page/view/2026073116113700477",
+    "https://www.mydaily.co.kr/page/view/2026080209521271994",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=93123",
+    "https://www.news1.kr/finance/general-stock/6246250",
+    "https://www.newsis.com/view/NISX20260731_0003731866"
    ],
    "seen_titles": [
-    "영업익3.5조인데순익734억...SK이노베이션,상반기PRS등파생손실...",
-    "하루만에18%급등한코스피,역대최대상승률·상승폭",
-    "코스피,하루에만17.91%올랐다…사상최대상승률[시황]",
-    "AI반도체훈풍에HBM테마폭발…밸류체인전반에강력한'수급쏠림'",
     "코스피,17%대급등하며6500선회복...외국인7조순매수",
     "삼성물산,건설사시공능력평가13년연속정상…GS건설3위·현대엔지니...",
     "코스피,역대최대17.9%폭등한6,595마감...SK닉스상한가",
@@ -3510,10 +3510,14 @@
     "[증권가실적분석]거래대금폭증에'실적잔치'…상반기순이익'1조...",
     "주성엔지니어링주가12만원선안착…8월첫거래일추이는?",
     "[한화그룹3세승진-김동선]아워홈인수·HBM장비진입…김동선,독자...",
-    "[DD주간브리핑]코히어CRO방한부터AIDC얼라이언스가동까지…이번..."
+    "[DD주간브리핑]코히어CRO방한부터AIDC얼라이언스가동까지…이번...",
+    "'KIM과함께간다'…바이에른뮌헨,아시아투어명단26명발표",
+    "코스피반등시동거나…증권가\"7400~9300선단계적회복\"",
+    "단일종목레버리지리스크벗어난코스피…\"투자매력도높아졌다\"",
+    "서킷2번맞고팔았더니상한가?…어질어질개미들[도박판韓증시③]"
    ],
    "initialized": true,
-   "last_run": "2026-08-02T10:01:28.839580+09:00"
+   "last_run": "2026-08-02T10:05:22.702198+09:00"
   }
  },
  "press_names": {
