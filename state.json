@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-02T19:10:25.766305+09:00",
-     "호황 필요한 겸손이 반도체"
-    ],
-    [
      "2026-08-02T19:15:25.726088+09:00",
      "별세 전미향씨"
     ],
@@ -357,7 +353,6 @@
     ]
    ],
    "seen_urls": [
-    "https://m.skyedaily.com/news_view.html?ID=308885",
     "https://www.yna.co.kr/view/AKR20260731169200108?input=1195m",
     "https://sports.khan.co.kr/article/202607312050003?pt=nv",
     "https://www.dailian.co.kr/news/view/1673380/?sc=Naver",
@@ -1856,10 +1851,10 @@
     "https://it.chosun.com/news/articleView.html?idxno=2023092167138",
     "https://www.chosun.com/economy/money/2026/08/03/DKKECNPI5RCPVMNR5PWIH6CZEE/",
     "https://www.chosun.com/national/national_general/2026/08/03/MDFRLOUH2JDGXJHAU2S4WUITYE/",
-    "https://www.dt.co.kr/article/12076042"
+    "https://www.dt.co.kr/article/12076042",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553425976"
    ],
    "seen_titles": [
-    "\"갖고계시라\"던회장님…SK하닉'49억베팅'하루만에13억평가익",
     "사흘간하락분하루만에86%메꿨다…1천p넘게폭등",
     "안도걸의원\"전남광주통합특별시경제대도약이끌준비됐다\"[와이드이...",
     "[오형규의이슈앤뷰]시장을이기는정부는없다",
@@ -3358,10 +3353,11 @@
     "TargetPricesCutAcrosstheBoardAmidMarketVolatility…HyundaiMot",
     "서학개미美서49조손실…‘순매수톱10’절반이레버리지",
     "명품소비40%늘었다,금탄된동탄",
-    "1375조AI협력·남미광물확보…李대통령,‘역대최장’순방완료"
+    "1375조AI협력·남미광물확보…李대통령,‘역대최장’순방완료",
+    "\"뮌헨역사상단3명\"'제주SK→빅리그직행'韓차기수문장허재원,독..."
    ],
    "initialized": true,
-   "last_run": "2026-08-03T01:10:24.139960+09:00"
+   "last_run": "2026-08-03T01:14:31.571301+09:00"
   }
  },
  "press_names": {
