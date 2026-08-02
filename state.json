@@ -310,14 +310,21 @@
     [
      "2026-08-03T05:05:30.834135+09:00",
      "ESG에 조건 공들이는 기술수출 바이오가 이유 숨은 수주의"
+    ],
+    [
+     "2026-08-03T05:10:30.688028+09:00",
+     "흔들리는 증시 투전판 시장 신뢰 서킷브레이커 4회"
+    ],
+    [
+     "2026-08-03T05:10:30.688028+09:00",
+     "사업 재편 중심 기업들 포트폴리오 국내"
+    ],
+    [
+     "2026-08-03T05:10:30.688028+09:00",
+     "샥즈 제품 가민 1000만 SKT 출시 겨냥 러너"
     ]
    ],
    "seen_urls": [
-    "https://www.sportsworldi.com/newsView/20260731520545",
-    "http://www.fnnews.com/news/202607312234575965",
-    "http://www.worktoday.co.kr/news/articleView.html?idxno=87409",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607310512&t=NN",
-    "https://www.asiatime.co.kr/article/20260731500191",
     "https://www.tokenpost.kr/news/breaking/383396",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=849070",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=849075",
@@ -1812,14 +1819,14 @@
     "https://www.joongang.co.kr/article/25450256",
     "https://www.sidae.com/article/2026073115482012550",
     "https://www.dailian.co.kr/news/view/1673632/?sc=Naver",
-    "https://www.etoday.co.kr/news/view/2609468"
+    "https://www.etoday.co.kr/news/view/2609468",
+    "https://www.seoul.co.kr/news/sport/soccer/2026/08/03/20260803034003?wlog_tag3=naver",
+    "https://www.seoul.co.kr/news/economy/finance/2026/08/03/20260803031001?wlog_tag3=naver",
+    "https://www.geconomy.co.kr/news/article.html?no=322441",
+    "https://www.seoul.co.kr/news/economy/industry/2026/08/03/20260803032004?wlog_tag3=naver",
+    "https://www.seoul.co.kr/news/economy/industry/2026/08/03/20260803031002?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "49억산다음날상한가…최태원하루만에13억벌었다",
-    "코스피,단숨에1000p폭등…외국인7조순매수'역대최대'",
-    "소외론해법'공백'···정치권은줄서기만",
-    "판매부과금면제에LPG가격인하…8월초충전소반영",
-    "20대투자천재레버리지매매…반도체주급등락원인이었나",
     "[이시각헤드라인]7월31일뉴스투나잇",
     "[아주경제오늘의뉴스종합]구자현검찰총장직무대행사의표명…\"형...",
     "윤복희,\"임신‧출산금지\"…해외진출계약조항충격고백",
@@ -3314,10 +3321,15 @@
     "“‘이뉴스’2개뜨면팔아라”여의도제갈량이푼‘반도체끝물’",
     "[주간경제전망]스페이스X,첫실적발표에1차보호예수도해제",
     "李,경제외교성과안고귀국…부동산·널뛰는코스피등내치난제'첩...",
-    "기술수출·수주의숨은조건…바이오가ESG에공들이는이유"
+    "기술수출·수주의숨은조건…바이오가ESG에공들이는이유",
+    "김민재귀국…뮌헨,내일제주SK와친선전",
+    "美日‘엔화방어’공조·韓달러수급개선…원·엔화동반강세",
+    "한달새서킷브레이커4회…'투전판증시'에흔들리는시장신뢰",
+    "국내기업들,AI중심사업포트폴리오재편",
+    "SKT,1000만러너겨냥가민·샥즈제품출시"
    ],
    "initialized": true,
-   "last_run": "2026-08-03T05:05:30.834135+09:00"
+   "last_run": "2026-08-03T05:10:30.688028+09:00"
   }
  },
  "press_names": {
