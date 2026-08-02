@@ -558,13 +558,13 @@
     [
      "2026-08-02T10:35:22.402777+09:00",
      "국내 E1 8월 고려 소비자 공급가격 동결 부담 LPG"
+    ],
+    [
+     "2026-08-02T10:40:26.807612+09:00",
+     "2008년 코스피 이후 급락 하락 지난달 상장종목 낙폭"
     ]
    ],
    "seen_urls": [
-    "https://www.econovill.com/news/articleView.html?idxno=746823",
-    "https://www.hani.co.kr/arti/economy/economy_general/1270897.html",
-    "http://www.financialreview.co.kr/news/articleView.html?idxno=43926",
-    "https://www.newsis.com/view/NISI20260731_0021384411",
     "https://www.newsis.com/view/NISI20260731_0021384412",
     "https://www.factin.co.kr/news/articleView.html?idxno=6772",
     "http://www.newsworker.co.kr/news/articleView.html?idxno=439322",
@@ -2060,12 +2060,13 @@
     "https://www.ajunews.com/view/20260802101919934",
     "https://www.public25.com/news/articleView.html?idxno=51926",
     "https://biz.chosun.com/stock/stock_general/2026/08/02/J7IZ3C5B2NGAJD2QSWF4DAYFDE/",
-    "https://www.ajunews.com/view/20260802102120943"
+    "https://www.ajunews.com/view/20260802102120943",
+    "https://biz.sbs.co.kr/article_hub/20000326081?division=NAVER",
+    "https://www.yna.co.kr/view/PYH20260802021600013?input=1196m",
+    "https://www.yna.co.kr/view/PYH20260802021700013?input=1196m",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005892341"
    ],
    "seen_titles": [
-    "코스피폭등'불기둥'에도관망해야?…\"매도물량확인먼저\"",
-    "李대통령'잘한다'42.5%,'잘못한다'53.5%…부동산논란·코스피...",
-    "[그래픽]코스피역대상승률순위",
     "상한가기록한SK하이닉스",
     "삼성전자'1조달러클럽'복귀…외국인4조순매수",
     "현기증나는‘널뛰기’증시...코스피상승률17.9%역대최고",
@@ -3562,10 +3563,13 @@
     "SKT,1000만러너위한신규제품·혜택선봬…가민·샥즈출시",
     "[부고]조태원씨(대신증권고객솔루션부장)장모상",
     "반도체쇼크에美증시로피신했지만…서학개미평가액50조감소",
-    "E1,8월LPG국내공급가격동결…\"소비자부담고려\""
+    "E1,8월LPG국내공급가격동결…\"소비자부담고려\"",
+    "7월원화절상률8.8%,금융위기후최고…1400원깨질까",
+    "SKT,1000만러너사로잡을신규제품·혜택선보여",
+    "지난달상장종목70%하락…코스피22%급락,2008년이후최대낙폭"
    ],
    "initialized": true,
-   "last_run": "2026-08-02T10:35:22.402777+09:00"
+   "last_run": "2026-08-02T10:40:26.807612+09:00"
   }
  },
  "press_names": {
