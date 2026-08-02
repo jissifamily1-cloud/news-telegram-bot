@@ -577,9 +577,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/31/2026073100199.html",
-    "http://www.fnnews.com/news/202607311317289089",
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701944",
     "https://www.donga.com/news/Economy/article/all/20260731/134401057/1",
     "https://www.koreatimes.co.kr/path/A2026073114220005452",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1718686",
@@ -2076,12 +2073,12 @@
     "https://magazine.hankyung.com/business/article/202608029840b",
     "https://www.newsway.co.kr/news/view?ud=2026073117161592221",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046743",
-    "https://www.kwnews.co.kr/article/20260802500699"
+    "https://www.kwnews.co.kr/article/20260802500699",
+    "http://www.fnnews.com/news/202608021130294360",
+    "https://www.itbiznews.com/news/articleView.html?idxno=220725",
+    "https://www.tokenpost.kr/news/market/383799"
    ],
    "seen_titles": [
-    "ESS업고적자탈출...K-배터리3사'부활의날개'펴나",
-    "[증시-마감]코스피18%폭등…하이닉스등대형주줄줄이상한가",
-    "코스피,역대일일최대폭상승마감…시총2위하닉'상한가'",
     "\"적자나면임금조정하겠다고?\"…SK하닉노조'발끈'",
     "코스피사상최대치17.91%'불기둥'···외국인7조대'바이코리아'",
     "상반기국세작년보다33조더걷혀…증시활황에거래세4.5배급증",
@@ -3578,10 +3575,13 @@
     "“메모리격차좁혀지나”진격의中CXMT",
     "손실투자자비율76.49%…황제주삼성전기에무슨일이[stock&톡]",
     "'현금배당·자사주소각'삼성,주주갈등봉합…LG,주주환원추가",
-    "李대통령,남미3개국순방마무리⋯3일귀국"
+    "李대통령,남미3개국순방마무리⋯3일귀국",
+    "코스피변동성경고등…AI실적·美고용지표가분수령[주간증시전망]",
+    "SKT,가민·샥즈와협업…1천만러너공략강화",
+    "코스피7월22%하락…개인투자자비판커졌다"
    ],
    "initialized": true,
-   "last_run": "2026-08-02T12:20:25.026947+09:00"
+   "last_run": "2026-08-02T12:25:21.758045+09:00"
   }
  },
  "press_names": {
