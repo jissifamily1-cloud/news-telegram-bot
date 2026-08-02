@@ -510,11 +510,13 @@
     [
      "2026-08-02T10:05:22.702198+09:00",
      "맞고 서킷 2번 상한가 어질어질 팔았더니 개미들"
+    ],
+    [
+     "2026-08-02T10:10:26.407426+09:00",
+     "급락장 매수세 대형주 쏠린 소형주로 엇갈린 희비 흔들리자"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260731008151320?input=2106m",
-    "https://biz.sbs.co.kr/article_hub/20000325963?division=NAVER",
     "https://www.tokenpost.kr/news/breaking/383252",
     "https://www.businessplus.kr/news/articleView.html?idxno=114932",
     "https://www.gukjenews.com/news/articleView.html?idxno=3652415",
@@ -2012,11 +2014,11 @@
     "https://www.mydaily.co.kr/page/view/2026080209521271994",
     "http://www.newsian.co.kr/news/articleView.html?idxno=93123",
     "https://www.news1.kr/finance/general-stock/6246250",
-    "https://www.newsis.com/view/NISX20260731_0003731866"
+    "https://www.newsis.com/view/NISX20260731_0003731866",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260802.99099000072",
+    "https://www.ajunews.com/view/20260802095709868"
    ],
    "seen_titles": [
-    "코스피,17%대급등하며6500선회복...외국인7조순매수",
-    "삼성물산,건설사시공능력평가13년연속정상…GS건설3위·현대엔지니...",
     "코스피,역대최대17.9%폭등한6,595마감...SK닉스상한가",
     "최태원,급락장서SK하이닉스47억원어치매수…하루만에10억원대평가...",
     "(LEAD)Seoulsharessurgerecord18pcttoreclaim6,500-pointlevelon",
@@ -3514,10 +3516,12 @@
     "'KIM과함께간다'…바이에른뮌헨,아시아투어명단26명발표",
     "코스피반등시동거나…증권가\"7400~9300선단계적회복\"",
     "단일종목레버리지리스크벗어난코스피…\"투자매력도높아졌다\"",
-    "서킷2번맞고팔았더니상한가?…어질어질개미들[도박판韓증시③]"
+    "서킷2번맞고팔았더니상한가?…어질어질개미들[도박판韓증시③]",
+    "[속보]삼전닉스주가,목표가와괴리여전…증권가예측가보니",
+    "대형주흔들리자소형주로쏠린매수세…급락장속엇갈린희비"
    ],
    "initialized": true,
-   "last_run": "2026-08-02T10:05:22.702198+09:00"
+   "last_run": "2026-08-02T10:10:26.407426+09:00"
   }
  },
  "press_names": {
