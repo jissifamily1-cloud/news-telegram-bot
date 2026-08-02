@@ -418,12 +418,13 @@
     [
      "2026-08-02T09:05:20.807221+09:00",
      "이동통신 SK텔레콤 소식 KT"
+    ],
+    [
+     "2026-08-02T09:07:33.514917+09:00",
+     "40년 6억으로 SK하닉 피눈물 직장인 모은 28억이 몰빵"
     ]
    ],
    "seen_urls": [
-    "https://www.thelec.kr/news/articleView.html?idxno=60398",
-    "http://www.fieldnews.kr/news/articleView.html?idxno=30360",
-    "https://www.m-i.kr/news/articleView.html?idxno=1397713",
     "http://www.4th.kr/news/articleView.html?idxno=2115619",
     "http://www.sisunnews.co.kr/news/articleView.html?idxno=243452",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070917",
@@ -1920,12 +1921,12 @@
     "https://www.joongang.co.kr/article/25450099",
     "https://www.seoulfn.com/news/articleView.html?idxno=634621",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=142441",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=788430"
+    "http://www.weeklytoday.com/news/articleView.html?idxno=788430",
+    "https://www.viva100.com/article/20260802500139",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=442212",
+    "https://biz.sbs.co.kr/article_hub/20000326067?division=NAVER"
    ],
    "seen_titles": [
-    "[속보]SK이노베이션,용인집단에너지사업위해3,305억원출자",
-    "KOSPI200ClosingPriceList-1",
-    "[마감시황]코스피17%대급등…코스닥도11%대상승마감",
     "7월반도체폭락주범은美헤지펀드?…증시수급꼬임풀리나[신대성...",
     "[알림]GPU·HBM다음병목은?반도체'패키지&테스트'의세계로초대합...",
     "[마감시황]코스피,단숨에1천포인트급등…외국인7.1조순매수",
@@ -3422,10 +3423,13 @@
     "“나도삼전닉스갈래요”…반도체인기에어린이체험관도북적",
     "2차전지,긴터널끝보인다···배터리·소재업체실적동반반등",
     "[이번주증시]반등시도이어갈듯...AMD등빅테크실적도주목",
-    "[위클리오늘]이동통신소식_KT,SK텔레콤(8.2)"
+    "[위클리오늘]이동통신소식_KT,SK텔레콤(8.2)",
+    "SKT,1000만러너위한제품·혜택공개⋯“무도런참가응모기회제공...",
+    "SKT,러너공략…가민스마트워치·샥즈이어폰출시",
+    "'40년모은28억이6억으로'...SK하닉'몰빵'직장인피눈물"
    ],
    "initialized": true,
-   "last_run": "2026-08-02T09:05:20.807221+09:00"
+   "last_run": "2026-08-02T09:07:33.514917+09:00"
   }
  },
  "press_names": {
