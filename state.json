@@ -490,17 +490,25 @@
     [
      "2026-08-02T09:55:29.608216+09:00",
      "CBS노컷뉴스 부장 동규 스포츠팀 장모상"
+    ],
+    [
+     "2026-08-02T10:01:28.839580+09:00",
+     "거래대금 잔치 1조 상반기 순이익 실적 폭증에"
+    ],
+    [
+     "2026-08-02T10:01:28.839580+09:00",
+     "주성엔지니어링 안착 8월 12만원선 거래일 주가 추이는"
+    ],
+    [
+     "2026-08-02T10:01:28.839580+09:00",
+     "독자 HBM 장비 아워홈 진입 김동선 인수"
+    ],
+    [
+     "2026-08-02T10:01:28.839580+09:00",
+     "가동까지 코히어 방한부터 AIDC 얼라이언스 CRO"
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/economy/industry/2026/07/31/20260731500208?wlog_tag3=naver",
-    "http://www.inews24.com/view/1990760",
-    "https://www.topdaily.kr/articles/111238",
-    "https://www.youthdaily.co.kr/news/article.html?no=224287",
-    "https://www.insight.co.kr/news/565722",
-    "https://www.munhwa.com/article/11606456",
-    "https://www.dailian.co.kr/news/view/1673248/?sc=Naver",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473335",
     "http://www.metroseoul.co.kr/article/20260731500170",
     "http://www.updownnews.co.kr/news/articleView.html?idxno=318182",
     "http://www.seouleconews.com/news/articleView.html?idxno=92778",
@@ -1992,17 +2000,17 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4428182",
     "http://weekly.chosun.com/news/articleView.html?idxno=53969",
     "https://m.skyedaily.com/news_view.html?ID=308927",
-    "https://www.yna.co.kr/view/AKR20260802012700007?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260802012700007?input=1195m",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=593887",
+    "https://www.mediawatch.kr/news/article.html?no=260535",
+    "https://www.public25.com/news/articleView.html?idxno=51924",
+    "http://www.fnnews.com/news/202608020941103960",
+    "https://www.s-journal.co.kr/news/articleView.html?idxno=42795",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=593886",
+    "https://www.ekn.kr/web/view.php?key=20260802022248377",
+    "https://www.ddaily.co.kr/page/view/2026073116113700477"
    ],
    "seen_titles": [
-    "단하루만에1000p뛰었다…코스피역대최대상승",
-    "[마감시황]코스피,美빅테크훈풍에반도체株질주…17.9%급등마감",
-    "[속보]코스피,역대최대상승폭·상승률기록…SK하닉상한가",
-    "건설사실적,대형사업이뒷받침…수익성관리·미래일감확보",
-    "키옥시아1분기영업익1조2700억엔,시장예상7%밑돌아",
-    "알뜰폰협회\"알뜰폰2.0환영…통신비절감·시장성장기대\"",
-    "원가낮추고'재판매'넘어독자사업자로…고사위기알뜰폰숨통트일...",
-    "[이슈60초]\"과장보태다지원할듯\"'신의성과급'SK하이닉스자금...",
     "영업익3.5조인데순익734억...SK이노베이션,상반기PRS등파생손실...",
     "하루만에18%급등한코스피,역대최대상승률·상승폭",
     "코스피,하루에만17.91%올랐다…사상최대상승률[시황]",
@@ -3494,10 +3502,18 @@
     "SKT,천만러너사로잡을'가민'워치,'샥즈'이어폰도입",
     "목표주가148만원?470만원?…SK하이닉스놓고증권가'극과극',왜",
     "100만원넘던금값무슨일?…금값20만원가까이빠진이유",
-    "[부고]동규(CBS노컷뉴스스포츠팀부장)씨장모상"
+    "[부고]동규(CBS노컷뉴스스포츠팀부장)씨장모상",
+    "미ESS시장확대에한국산배터리·전력기자재수출증가…공급망대응...",
+    "‘7월공포’코스피·코스닥상장사70%주가하락",
+    "[부고]동규씨(CBS노컷뉴스스포츠팀부장)장모상",
+    "'하루만에17.9%폭등'미친변동성...8월증시사야할까,말아야할까",
+    "[증권가실적분석]거래대금폭증에'실적잔치'…상반기순이익'1조...",
+    "주성엔지니어링주가12만원선안착…8월첫거래일추이는?",
+    "[한화그룹3세승진-김동선]아워홈인수·HBM장비진입…김동선,독자...",
+    "[DD주간브리핑]코히어CRO방한부터AIDC얼라이언스가동까지…이번..."
    ],
    "initialized": true,
-   "last_run": "2026-08-02T09:55:29.608216+09:00"
+   "last_run": "2026-08-02T10:01:28.839580+09:00"
   }
  },
  "press_names": {
