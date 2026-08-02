@@ -514,17 +514,21 @@
     [
      "2026-08-02T10:10:26.407426+09:00",
      "급락장 매수세 대형주 쏠린 소형주로 엇갈린 희비 흔들리자"
+    ],
+    [
+     "2026-08-02T10:15:26.449936+09:00",
+     "순매수 5조 테슬라도 아니다 1위 엔비디아도 싹쓸이한 일주일간"
+    ],
+    [
+     "2026-08-02T10:15:26.449936+09:00",
+     "개미들 반도체주 내렸다 목표가 4조 던졌는데 148만원"
+    ],
+    [
+     "2026-08-02T10:15:26.449936+09:00",
+     "나간 돌아올까 언제쯤 넘게 닥공 K리그1 전북의 반년"
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/breaking/383252",
-    "https://www.businessplus.kr/news/articleView.html?idxno=114932",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3652415",
-    "https://www.hidomin.com/news/articleView.html?idxno=715488",
-    "https://www.etnews.com/20260731000277",
-    "https://www.insight.co.kr/news/565842",
-    "https://www.hankyung.com/article/202607317880i",
-    "https://www.mediapen.com/news/view/1113597",
     "https://biz.chosun.com/stock/stock_general/2026/07/31/N75S2JVFO5BVDPC4M2WQ53SRWY/",
     "https://www.sportsseoul.com/news/read/1625944",
     "https://www.mediapen.com/news/view/1113612",
@@ -2016,17 +2020,17 @@
     "https://www.news1.kr/finance/general-stock/6246250",
     "https://www.newsis.com/view/NISX20260731_0003731866",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260802.99099000072",
-    "https://www.ajunews.com/view/20260802095709868"
+    "https://www.ajunews.com/view/20260802095709868",
+    "https://biz.newdaily.co.kr/site/data/html/2026/08/02/2026080200021.html",
+    "https://www.dt.co.kr/article/12076000",
+    "https://www.news1.kr/economy/trend/6246341",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01312006645543384",
+    "https://www.mt.co.kr/tech/2026/08/02/2026080209463774393",
+    "https://www.wikitree.co.kr/articles/1149886",
+    "https://www.seoul.co.kr/news/economy/securities/2026/08/02/20260802500012?wlog_tag3=naver",
+    "https://www.yna.co.kr/view/AKR20260802015300007?input=1195m"
    ],
    "seen_titles": [
-    "코스피,역대최대17.9%폭등한6,595마감...SK닉스상한가",
-    "최태원,급락장서SK하이닉스47억원어치매수…하루만에10억원대평가...",
-    "(LEAD)Seoulsharessurgerecord18pcttoreclaim6,500-pointlevelon",
-    "SK하이닉스상한가'불기둥'…삼성전자는26.81%상승마감",
-    "SK하이닉스2배상품급락…남방동영\"2배유지전망\"",
-    "[이슈+]K-배터리3사동반흑자…하반기반등신호탄쐈다",
-    "반도체주폭발에코스피6595선바짝…SK하이닉스상한가",
-    "[속보]코스피,17.91%상승마감...삼전26.8%폭등,SK하이닉스상한가",
     "코스피,18%폭등6500대마감…역대최대상승폭기록",
     "올해상반기걷힌국세수입223조원...1년전보다33조원↑",
     "단일종목막자'전투개미'어디로...지수레버리지풍선효과우려",
@@ -3518,10 +3522,18 @@
     "단일종목레버리지리스크벗어난코스피…\"투자매력도높아졌다\"",
     "서킷2번맞고팔았더니상한가?…어질어질개미들[도박판韓증시③]",
     "[속보]삼전닉스주가,목표가와괴리여전…증권가예측가보니",
-    "대형주흔들리자소형주로쏠린매수세…급락장속엇갈린희비"
+    "대형주흔들리자소형주로쏠린매수세…급락장속엇갈린희비",
+    "지옥과천국오간7월코스피…증권가\"8월계단식반등\"전망",
+    "李대통령,美·남미7박11일순방마치고독일행…AI동맹·공급망확보",
+    "7월원화절상률8.81%'주요국1위'…환율1400원하회전망도",
+    "SKT,1000만러너겨냥‘런메이트’확대…가민·샥즈도입",
+    "\"'러너필수템'가민·샥즈,SKT서더싸게\"1000만러너공략",
+    "엔비디아도테슬라도아니다…일주일간3.5조싹쓸이한순매수'1위'종...",
+    "“목표가148만원”개미들‘4조’던졌는데…美반도체주또내렸다...",
+    "반년넘게집나간K리그1전북의'닥공'언제쯤돌아올까"
    ],
    "initialized": true,
-   "last_run": "2026-08-02T10:10:26.407426+09:00"
+   "last_run": "2026-08-02T10:15:26.449936+09:00"
   }
  },
  "press_names": {
