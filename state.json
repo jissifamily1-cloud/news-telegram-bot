@@ -573,8 +573,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/general-stock/6245572",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=422815",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=268641",
     "https://www.etoday.co.kr/news/view/2609818",
     "https://news.bizwatch.co.kr/article/market/2026/07/31/0031",
@@ -2072,11 +2070,11 @@
     "https://www.sisajournal.com/news/articleView.html?idxno=381636",
     "https://www.chosun.com/economy/money/2026/08/02/IWPCGYNCZFD75DQWOJATI72BFM/",
     "https://www.fntimes.com/html/view.php?ud=20260801193304787179ad43907_18",
-    "https://jp.yna.co.kr/view/AJP20260802000400882?input=1728m"
+    "https://jp.yna.co.kr/view/AJP20260802000400882?input=1728m",
+    "https://www.yna.co.kr/view/AKR20260802022200017?input=1195m",
+    "http://www.cctimes.kr/news/articleView.html?idxno=919642"
    ],
    "seen_titles": [
-    "[거래소기관]삼성전자SK하이닉스삼성전기삼성물산대덕전자쓸어...",
-    "주저앉은5000선딛고일어난코스피…하루만에‘1000포인트’상승",
     "반도체역사적반등…SK하이닉스상한가·삼성전자27%↑[핫종목](종합)",
     "ETF시장300조원대로축소···수요위축에증권사수익성'경고등'",
     "코스피상승률·상승폭모두역대최대기록…천포인트넘게폭등마감",
@@ -3574,10 +3572,12 @@
     "상장과동시에中시총1위CXMT...삼전·닉스뒤흔든다",
     "25세월가AI천재레오폴드는왜실패했나",
     "기관'SK하이닉스'·외인'SK스퀘어'·개인'삼성SDI'1위[주간코스피...",
-    "乱高下する韓国株投資家のストレスも「ストップ高」＝日常生活に支障"
+    "乱高下する韓国株投資家のストレスも「ストップ高」＝日常生活に支障",
+    "SKT,'러닝족인기템'가민·샥즈제품출시",
+    "SK텔레콤,AI스타트업과로보틱스생태계협력"
    ],
    "initialized": true,
-   "last_run": "2026-08-02T12:05:21.840086+09:00"
+   "last_run": "2026-08-02T12:10:26.232976+09:00"
   }
  },
  "press_names": {
