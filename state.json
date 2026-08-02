@@ -358,10 +358,13 @@
     [
      "2026-08-03T05:50:29.603311+09:00",
      "사이버 236건 급증 DDoS 침해사고 랜섬웨어 상반기"
+    ],
+    [
+     "2026-08-03T05:55:20.760578+09:00",
+     "이동경 광주 점프 안양에 승리로 울산 2위 눌러 대전은 멀티골"
     ]
    ],
    "seen_urls": [
-    "https://www.theguru.co.kr/news/article.html?no=105151",
     "https://news.tf.co.kr/read/economy/2349358.htm",
     "https://www.kdpress.co.kr/news/articleView.html?idxno=207425",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=83834",
@@ -1860,10 +1863,10 @@
     "https://www.dt.co.kr/article/12076102",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046728",
     "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95747",
-    "https://www.dailysecu.com/news/articleView.html?idxno=207881"
+    "https://www.dailysecu.com/news/articleView.html?idxno=207881",
+    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374656"
    ],
    "seen_titles": [
-    "“40년모은돈이-22억원,전재산잃고파산”…SK하닉‘몰빵’투자...",
     "삼성전자·SK하이닉스,인공지능투자덕에주가폭등",
     "에코프로비엠,2분기매출5천767억원·영업익180억원...전년동기대...",
     "최태원이어노태문도책임경영…삼성전자7억원어치매수",
@@ -3362,10 +3365,11 @@
     "6500선회복이끈삼전닉스…‘반도체랠리’재가동될까",
     "[기자수첩]초호황삼성·SK하이닉스,커져가는중국반도체",
     "[442.live]\"김민재가바이에른뮌헨소속이어서다행이다\"…독일대표팀...",
-    "상반기사이버침해사고1,236건…DDoS56.7%·랜섬웨어76.8%급증"
+    "상반기사이버침해사고1,236건…DDoS56.7%·랜섬웨어76.8%급증",
+    "'이동경멀티골'울산,안양에3-1승리로2위점프…대전은광주눌러"
    ],
    "initialized": true,
-   "last_run": "2026-08-03T05:50:29.603311+09:00"
+   "last_run": "2026-08-03T05:55:20.760578+09:00"
   }
  },
  "press_names": {
