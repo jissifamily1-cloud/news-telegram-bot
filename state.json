@@ -194,11 +194,17 @@
     [
      "2026-08-03T03:40:32.433790+09:00",
      "메모리 기회 주가 밸류에이션 매수 부상 폭락 재조정"
+    ],
+    [
+     "2026-08-03T04:00:43.125450+09:00",
+     "빅테크 너도나도 투자 증액"
+    ],
+    [
+     "2026-08-03T04:00:43.125450+09:00",
+     "뉴노멀 바뀐다 거래판 장기계약 메모리"
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20260731518671?OutUrl=naver",
-    "https://www.mk.co.kr/article/12106607",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000053713",
     "https://www.joongang.co.kr/article/25449926",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8625710",
@@ -1696,11 +1702,11 @@
     "https://www.newsis.com/view/NISX20260803_0003733273",
     "https://www.mhns.co.kr/news/articleView.html?idxno=755225",
     "https://www.g-enews.com/view.php?ud=202608021547267614fbbec65dfb_1",
-    "https://www.g-enews.com/view.php?ud=202608021552281860fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202608021552281860fbbec65dfb_1",
+    "https://www.mt.co.kr/industry/2026/08/03/2026080219541565434",
+    "https://www.mt.co.kr/industry/2026/08/03/2026080219515139941"
    ],
    "seen_titles": [
-    "3000만원으로높이니레버거래뚝↓\"…폭등장에도5분의1토막",
-    "K리그1제주골키퍼허재원,독일바이에른뮌헨임대이적",
     "외국인도돌아왔다...코스피역대최대18%급등",
     "'레버리지대책'시행되자…첫날거래규모74%줄었다",
     "SK,'최태원지분29.4%'제외하고두산에SK실트론2.3조원매각…\"미래...",
@@ -3198,10 +3204,12 @@
     "\"7월원화가치,달러대비8%올라…세계에서두번째호실적\"FT",
     "[박근종칼럼]AI대전환의AX시대,초격차제조강국으로부가가치와...",
     "450억달러AI펀드붕괴…애셴브레너,마진콜에주식처분",
-    "메모리주가폭락…밸류에이션재조정속매수기회부상"
+    "메모리주가폭락…밸류에이션재조정속매수기회부상",
+    "빅테크너도나도\"AI투자증액\"",
+    "메모리거래판바뀐다…뉴노멀된장기계약"
    ],
    "initialized": true,
-   "last_run": "2026-08-03T03:55:26.963277+09:00"
+   "last_run": "2026-08-03T04:00:43.125450+09:00"
   }
  },
  "press_names": {
