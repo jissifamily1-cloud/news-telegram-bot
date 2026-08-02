@@ -442,17 +442,25 @@
     [
      "2026-08-02T09:20:27.136480+09:00",
      "103조원 SK이노 SK하이닉스 에너지 쌍끌이 합작 영업익 상반기"
+    ],
+    [
+     "2026-08-02T09:25:25.872808+09:00",
+     ""
+    ],
+    [
+     "2026-08-02T09:25:25.872808+09:00",
+     "28달러 충격 추론 딥시크 단가 무너진다"
+    ],
+    [
+     "2026-08-02T09:25:25.872808+09:00",
+     "배제 용수 재정 시설 반도체 용인 혜택 비과세 산단 여주시 공급"
+    ],
+    [
+     "2026-08-02T09:25:25.872808+09:00",
+     "튀르키예서 정의선 점검 아이오닉 양산 품질 회장"
     ]
    ],
    "seen_urls": [
-    "http://www.iminju.net/news/articleView.html?idxno=167444",
-    "https://www.news1.kr/photos/8035687",
-    "http://www.fnnews.com/news/202607311542557540",
-    "https://www.news1.kr/photos/8035685",
-    "https://www.hankyung.com/article/2026073181716",
-    "https://view.asiae.co.kr/article/2026073115180040469",
-    "https://www.sidae.com/article/2026073114154471987",
-    "https://biz.sbs.co.kr/article_hub/20000325949?division=NAVER",
     "https://dgmbc.com/NewsArticle/854093",
     "https://imnews.imbc.com/replay/2026/nw1400/article/6841536_36974.html",
     "https://en.yna.co.kr/view/AEN20260731009300320?input=2106m",
@@ -1944,17 +1952,17 @@
     "https://www.asiatime.co.kr/article/20260802500004",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473553",
     "https://www.dt.co.kr/article/12075983",
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=546328"
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=546328",
+    "https://www.news1.kr/sports/overseas-soccer/6246313",
+    "https://www.ddaily.co.kr/page/view/2026080200120378746",
+    "http://www.metroseoul.co.kr/article/20260802500019",
+    "https://www.segye.com/newsView/20260802504141?OutUrl=naver",
+    "https://cn.asiatoday.co.kr/view.php?key=20260730001632311",
+    "https://www.g-enews.com/view.php?ud=202608020911286502fbbec65dfb_1",
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1328586",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=315888"
    ],
    "seen_titles": [
-    "'AI성장과동행'글로벌보안株,우리나라는'무덤덤'…\"백신·EDR동시...",
-    "AI반도체핵심'SOCAMM'질주…심텍엠케이전자대덕전자'거침없는하...",
-    "[속보]코스피,사상최대폭등마감…17.9%오른6595",
-    "역대급실적올린삼성·SK하이닉스…하반기승부처도'HBM4'",
-    "코스피1000포인트폭등…사상최대상승폭에6600선눈앞",
-    "코스피,사상최대폭등마감",
-    "강영규SK오션플랜트대표\"글로벌해상풍력공급망핵심파트너로\"…獨...",
-    "코스피17.91%폭등해6595.45…SK하닉첫상한가마감",
     "SK하이닉스,17년만에상한가'쾅'…삼성전자도26%'폭등'[종합]",
     "왜나주인가…호남반도체성공의숨은퍼즐'에너지'배후도시",
     "[오늘증시]역대최대1002포인트폭등코스피,하이닉스30%껑충",
@@ -3446,10 +3454,18 @@
     "SKT,가민·샥즈들인다…러닝시장정조준",
     "대신증권,거래대금증가에실적개선…브로커리지·운용이익동반성...",
     "6500선되찾은코스피…이번주‘빅테크실적·7월고용’에쏠린눈...",
-    "SK하이닉스·SK이노,상반기영업익103조원합작⋯AI·에너지'쌍끌이'"
+    "SK하이닉스·SK이노,상반기영업익103조원합작⋯AI·에너지'쌍끌이'",
+    "바이에른뮌헨,'김민재·노이어포함'제주원정엔트리발표",
+    "'분기영업익합작149조원'삼성·SK메모리…5년LTA장기집권체제[...",
+    "\"반도체폭등장서레버리지식었다\"…규제이후달라진투자흐름",
+    "‘36만삼전·148만하이닉스’vs‘65만·470만’…반도체폭락속엇갈...",
+    "三星电子借AI半导体东风70%内存产能转为长期合约",
+    "딥시크0.28달러충격…AI추론단가무너진다",
+    "여주시,용인반도체산단용수공급시설비과세…재정혜택배제",
+    "정의선회장,튀르키예서아이오닉3양산품질점검"
    ],
    "initialized": true,
-   "last_run": "2026-08-02T09:20:27.136480+09:00"
+   "last_run": "2026-08-02T09:25:25.872808+09:00"
   }
  },
  "press_names": {
