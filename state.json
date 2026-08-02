@@ -562,10 +562,13 @@
     [
      "2026-08-02T10:40:26.807612+09:00",
      "2008년 코스피 이후 급락 하락 지난달 상장종목 낙폭"
+    ],
+    [
+     "2026-08-02T10:45:24.227968+09:00",
+     "찾기가 상장사 7월 오른 종목 10곳 7곳 어려웠다 증시"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISI20260731_0021384412",
     "https://www.factin.co.kr/news/articleView.html?idxno=6772",
     "http://www.newsworker.co.kr/news/articleView.html?idxno=439322",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046696",
@@ -2064,10 +2067,10 @@
     "https://biz.sbs.co.kr/article_hub/20000326081?division=NAVER",
     "https://www.yna.co.kr/view/PYH20260802021600013?input=1196m",
     "https://www.yna.co.kr/view/PYH20260802021700013?input=1196m",
-    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005892341"
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005892341",
+    "https://www.mk.co.kr/article/12114378"
    ],
    "seen_titles": [
-    "상한가기록한SK하이닉스",
     "삼성전자'1조달러클럽'복귀…외국인4조순매수",
     "현기증나는‘널뛰기’증시...코스피상승률17.9%역대최고",
     "[정책리뷰]롤러코스터탄7월한국증시,정부추가대책나올까",
@@ -3566,10 +3569,11 @@
     "E1,8월LPG국내공급가격동결…\"소비자부담고려\"",
     "7월원화절상률8.8%,금융위기후최고…1400원깨질까",
     "SKT,1000만러너사로잡을신규제품·혜택선보여",
-    "지난달상장종목70%하락…코스피22%급락,2008년이후최대낙폭"
+    "지난달상장종목70%하락…코스피22%급락,2008년이후최대낙폭",
+    "“오른종목찾기가더어려웠다”…7월증시,상장사10곳중7곳‘마..."
    ],
    "initialized": true,
-   "last_run": "2026-08-02T10:40:26.807612+09:00"
+   "last_run": "2026-08-02T10:45:24.227968+09:00"
   }
  },
  "press_names": {
