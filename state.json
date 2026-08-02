@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-02T08:20:27.806911+09:00",
-     "고점 SK하닉 내년 증권가 신고가 시도할 반도체 상반기까지"
-    ],
-    [
      "2026-08-02T08:30:42.199241+09:00",
      "급락장에서 하락 상장주식 코오롱티슈진 7월"
     ],
@@ -666,12 +662,17 @@
     [
      "2026-08-02T14:20:26.739134+09:00",
      "삼성 자사주 높인다 배당 늘리고 사고 주주가치 벌어준 AI가"
+    ],
+    [
+     "2026-08-02T14:25:22.268614+09:00",
+     "엑스코프리 SK바이오팜 매출 넥스트 연속 2000억대 분기 예고"
+    ],
+    [
+     "2026-08-02T14:25:22.268614+09:00",
+     "반도체는 폭등 2차 월요일 제자리 숏커버 코스피 시험대"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260731_0003731996",
-    "https://biz.heraldcorp.com/article/10827391",
-    "https://www.delighti.co.kr/news/articleView.html?idxno=119687",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008684877&plink=ORI&cooper=NAVER",
     "https://hbnpress.com/news/view/1065599232893287",
     "https://www.etoday.co.kr/news/view/2609868",
@@ -2168,12 +2169,12 @@
     "https://www.news1.kr/realestate/general/6246484",
     "https://www.mk.co.kr/article/12114424",
     "http://www.newswatch.kr/news/articleView.html?idxno=80607",
-    "https://www.news1.kr/industry/general-industry/6246480"
+    "https://www.news1.kr/industry/general-industry/6246480",
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596863",
+    "https://www.mt.co.kr/thebio/2026/08/02/2026080211523811411",
+    "https://www.greened.kr/news/articleView.html?idxno=346597"
    ],
    "seen_titles": [
-    "반도체·자동차‘쌍끌이’…생산·소비·투자'트리플증가'",
-    "강영규SK오션플랜트대표\"유럽해상풍력수주지속확대할것\"",
-    "석유화학에서바이오·AI소재로…롯데,신사업드라이브",
     "외국인코스피7조매수…원화6개월래최강세",
     "“레버리지자연사”가능할까…예탁금상향첫날,개미‘대탈출’",
     "SK오션플랜트,718억원규모화학제품운반선2척수주…상선사업확대",
@@ -3670,10 +3671,13 @@
     "정비구역부터통합심의까지…반포후발재건축'속도'",
     "블룸버그“롤러코스피에개미들정부비난하며시장떠난다”",
     "[Focus]ChairmanCheyTae-wonBuysKRW4.8BillionWorthofSKHynixSha",
-    "AI가벌어준돈…배당늘리고자사주사고,삼성·SK'주주가치'높인다"
+    "AI가벌어준돈…배당늘리고자사주사고,삼성·SK'주주가치'높인다",
+    "바이에른뮌헨선수단제주도착...김민재-노이어등총출동",
+    "SK바이오팜,두분기연속2000억대매출예고…'넥스트엑스코프리'도...",
+    "코스피18%폭등뒤美반도체는제자리…월요일'2차숏커버시험대"
    ],
    "initialized": true,
-   "last_run": "2026-08-02T14:20:26.739134+09:00"
+   "last_run": "2026-08-02T14:25:22.268614+09:00"
   }
  },
  "press_names": {
