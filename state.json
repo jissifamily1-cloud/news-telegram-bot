@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-02T10:40:26.807612+09:00",
-     "2008년 코스피 이후 급락 하락 지난달 상장종목 낙폭"
-    ],
-    [
      "2026-08-02T10:45:24.227968+09:00",
      "찾기가 상장사 7월 오른 종목 10곳 7곳 어려웠다 증시"
     ],
@@ -650,15 +646,21 @@
     [
      "2026-08-02T16:35:25.629462+09:00",
      "SK처럼 노조 삼성 파업 성과급 검토 대만 마이크론 달라"
+    ],
+    [
+     "2026-08-02T16:40:27.840000+09:00",
+     "마지막주 추천 매추 HD현대일렉트릭 KB증권 7월 33종목"
+    ],
+    [
+     "2026-08-02T16:40:27.840000+09:00",
+     "정부는 떠나고 롤러코스터 개미는 코스피"
+    ],
+    [
+     "2026-08-02T16:40:27.840000+09:00",
+     "대통령 프랑크푸르트 독일 만난다 동포 도착"
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/economy/2349463.htm",
-    "https://www.etnews.com/20260731000324",
-    "https://www.ppss.kr/news/articleView.html?idxno=303942",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16151207",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=51867",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=5418",
     "https://www.todayeconomic.com/news/article.html?no=31557",
     "https://www.newsway.co.kr/news/view?ud=2026073117143325551",
     "http://www.weeklytoday.com/news/articleView.html?idxno=788446",
@@ -2152,15 +2154,15 @@
     "https://biz.heraldcorp.com/article/10828260",
     "http://www.fnnews.com/news/202608021606498102",
     "https://biz.heraldcorp.com/article/10827497",
-    "https://www.joongang.co.kr/article/25450169"
+    "https://www.joongang.co.kr/article/25450169",
+    "https://mhnse.com/news/articleView.html?idxno=1476880",
+    "https://mhnse.com/news/articleView.html?idxno=1476878",
+    "https://www.yeongnam.com/web/view.php?key=20260802024359544",
+    "https://www.bigtanews.co.kr/article/view/big202608020006",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=5422",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4428200"
    ],
    "seen_titles": [
-    "사상최대상승한코스피,18%오른6595마감...외인매수에'반도체동...",
-    "사흘폭락하루만에만회…코스피1000포인트폭등'새역사'",
-    "코스피17.9%급등...역대최대상승률·상승폭",
-    "레버리지‘예탁금현금3천만원’시행첫날…거래대금25%수준급감",
-    "AI데이터센터투자등ETF5종,내달4일신규상장",
-    "'세계1위'항공유수출국한국,SAF시장도선점나선다",
     "'400조↓'ETF순자산,한달새130조증발",
     "“레버리지청산끝났다,韓매력적인구간”…JP모건이꼽은‘반등장...",
     "예탁금상향첫날…단일종목레버리지거래대금4분의1로‘뚝’",
@@ -3654,10 +3656,16 @@
     "‘삼전닉스’20배베팅까지…스테이블코인6월에만5603억해외로빠져...",
     "트리플보기치고도우승?이다연,기적의'샷이글'로통산17번째10승...",
     "[단독]21억→53억원,반년새20세미만‘미성년빚투’2.5배늘었다",
-    "“삼성·SK처럼성과급더달라”…대만마이크론노조,파업검토"
+    "“삼성·SK처럼성과급더달라”…대만마이크론노조,파업검토",
+    "[mhn포토]이다연,통산10승은짜릿한역전승",
+    "[mhn포토]이다연,우승확정짓는버디성공",
+    "‘반도체호황’대구반도체마이스터고,첨단시설로인재양성하다",
+    "KB증권,7월마지막주HD현대일렉트릭등33종목매추추천",
+    "[인사이트뉴스]코스피'롤러코스터'한달…개미는떠나고,정부는규...",
+    "李대통령,독일프랑크푸르트도착…동포만난다"
    ],
    "initialized": true,
-   "last_run": "2026-08-02T16:35:25.629462+09:00"
+   "last_run": "2026-08-02T16:40:27.840000+09:00"
   }
  },
  "press_names": {
