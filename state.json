@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-02T12:05:21.840086+09:00",
-     "천재 월가 25세 레오폴드는 실패했나"
-    ],
-    [
-     "2026-08-02T12:05:21.840086+09:00",
-     "개인 주간 SK스퀘어 기관 1위 외인 코스피 삼성SDI SK하이닉스"
-    ],
-    [
-     "2026-08-02T12:05:21.840086+09:00",
-     ""
-    ],
-    [
      "2026-08-02T12:15:30.523049+09:00",
      "CXMT 격차 진격의 메모리 좁혀지나"
     ],
@@ -750,12 +738,13 @@
     [
      "2026-08-02T18:05:20.796556+09:00",
      "노정선 상무 별세 연합뉴스"
+    ],
+    [
+     "2026-08-02T18:10:25.233677+09:00",
+     "제주SK 출격 김준하 고별전 선발 인천전 라인업 발표 오재혁"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=05936806645520096",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=05946646645520096",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=05940086645520096",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05943366645520096",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05920406645520096",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05930246645520096",
@@ -2252,12 +2241,12 @@
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4079995",
     "https://www.sedaily.com/article/20074815",
     "https://www.sedaily.com/article/20074808",
-    "https://www.hankyung.com/article/2026080202511"
+    "https://www.hankyung.com/article/2026080202511",
+    "https://www.newsis.com/view/NISX20260802_0003733037",
+    "https://www.mk.co.kr/article/12114652",
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596873"
    ],
    "seen_titles": [
-    "레버리지ETF,예탁금3000만원시행첫날…거래대금64%급감",
-    "두산,2.3조에SK실트론품는다…반도체소재영토확장",
-    "[26.7.31증시인싸잇]역대최대반등…공포가하루만에환호로",
     "[속보]SK,두산에'SK실트론'매각...2.3조규모",
     "SK,SK실트론매각해2.3조확보…두산은'반도체전공정'품었다",
     "현기증코스피…사흘간17%빠지더니하루새18%폭등",
@@ -3754,10 +3743,13 @@
     "SK실트론,두산품으로…구미반도체산업새전환점",
     "美中‘AI외교전’…韓,대처전략있나[김창영의실리콘밸리View]",
     "‘반도체특수’웃고원가율잡아…매출줄어도이익껑충",
-    "[부고]노정선전연합뉴스상무별세外"
+    "[부고]노정선전연합뉴스상무별세外",
+    "\"7월폭락은디레버리징탓\"…8월반등가늠자는월요일아침",
+    "국민연금도국장에털렸다…한달새118조증발·삼전닉스만88조",
+    "'오재혁-김준하고별전선발출격'제주SK,인천전선발라인업발표"
    ],
    "initialized": true,
-   "last_run": "2026-08-02T18:05:20.796556+09:00"
+   "last_run": "2026-08-02T18:10:25.233677+09:00"
   }
  },
  "press_names": {
