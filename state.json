@@ -422,10 +422,13 @@
     [
      "2026-08-03T06:35:27.915846+09:00",
      "반격 K배터리 불씨 하반기 카드는 살린 ESS AMPC로"
+    ],
+    [
+     "2026-08-03T06:40:28.042965+09:00",
+     "영업이익 코스닥 2분기 주요공시는 31일 녹십자 거래일 코스피"
     ]
    ],
    "seen_urls": [
-    "https://www.dt.co.kr/article/12075913",
     "https://www.nocutnews.co.kr/news/6556556",
     "https://www.news1.kr/finance/general-finance/6245467",
     "https://www.newsis.com/view/NISX20260731_0003730932",
@@ -1924,10 +1927,10 @@
     "https://www.dailian.co.kr/news/view/1673156/?sc=Naver",
     "https://www.news2day.co.kr/article/20260802500039",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608030034&t=NN",
-    "https://www.goodkyung.com/news/articleView.html?idxno=289820"
+    "https://www.goodkyung.com/news/articleView.html?idxno=289820",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473654"
    ],
    "seen_titles": [
-    "8월국내LPG가격어렵사리동결",
     "코스피18%급등,변동성심화속투자심리불안지속",
     "[선데이칼럼]글로벌외교냐,로컬외교냐?",
     "[에디터프리즘]개미의눈물",
@@ -3426,10 +3429,11 @@
     "건설사체급표바뀌었다…정비사업수주전새판짤까",
     "[기자의눈]‘1만피’의꿈이남긴청구서",
     "\"하닉이298만원찍던날이있었단다\"…조회수폭발한'전래동화'정체",
-    "ESS·AMPC로불씨살린K배터리,하반기반격카드는?"
+    "ESS·AMPC로불씨살린K배터리,하반기반격카드는?",
+    "코스피·코스닥전거래일(31일)주요공시는?...녹십자,2분기영업이익..."
    ],
    "initialized": true,
-   "last_run": "2026-08-03T06:35:27.915846+09:00"
+   "last_run": "2026-08-03T06:40:28.042965+09:00"
   }
  },
  "press_names": {
