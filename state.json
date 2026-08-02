@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-02T05:25:29.157687+09:00",
-     "시타델 자산 줍줍 헤지펀드 버틴 레버리지 천재"
-    ],
-    [
      "2026-08-02T05:30:34.573724+09:00",
      "출하 목표로 공세 NAND 차세대 샘플 9세대 글로벌 내년 키옥시아 양산"
     ],
@@ -614,14 +610,17 @@
     [
      "2026-08-02T11:25:22.224836+09:00",
      "CXMT 연내 양산하나 추격 턱밑 모바일 LPDDR6 D램"
+    ],
+    [
+     "2026-08-02T11:30:31.947054+09:00",
+     "투어 발표한 밟는다 노이어 김민재 한국 키미히 명단"
+    ],
+    [
+     "2026-08-02T11:30:31.947054+09:00",
+     "제311회 임시회 폐회 고성군의회"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/general-stock/6245598",
-    "https://www.etoday.co.kr/news/view/2609830",
-    "https://www.dailian.co.kr/news/view/1673275/?sc=Naver",
-    "https://www.thedailypost.kr/news/articleView.html?idxno=114877",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092167079",
     "https://www.news2day.co.kr/article/20260731500226",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=853775",
     "https://www.dailian.co.kr/news/view/1673270/?sc=Naver",
@@ -2116,14 +2115,14 @@
     "https://www.todaykorea.co.kr/news/articleView.html?idxno=404482",
     "https://www.dt.co.kr/article/12076020",
     "https://www.mt.co.kr/politics/2026/08/02/2026080123390857429",
-    "https://www.dt.co.kr/article/12076019"
+    "https://www.dt.co.kr/article/12076019",
+    "https://www.g-enews.com/view.php?ud=202608021123033748153ddfb15a_1",
+    "https://www.chosun.com/economy/economy_general/2026/08/02/PJYG4VXCRVDKLG5KMOYHLV5C7U/",
+    "https://en.yna.co.kr/view/AEN20260802001100320?input=2106m",
+    "https://www.besteleven.com/news/articleView.html?idxno=310697",
+    "https://www.newsgn.com/news/articleView.html?idxno=565585"
    ],
    "seen_titles": [
-    "코스피,1,000포인트폭등…SK하이닉스상한가",
-    "[ETF시황]레버리지규제첫날…삼전닉스'활짝'vs인버스'울적'",
-    "코스피7조산외국인…달러·원,13.4원내린1424.0원기록(종합)",
-    "JP모건“韓증시강제매도압력정점지나…투자매력회복”",
-    "SK하이닉스임단협'성과급주식지급'충돌…적자시임금조정안도쟁...",
     "SKT,피지컬AI스타트업들과협력해로보틱스생태계조성나서",
     "'1천p'오른코스피,반도체상한가에17%폭등6500선훌쩍",
     "최태원‘49억베팅’하루만에14억벌었다…SK하이닉스·스퀘어동반...",
@@ -3618,10 +3617,15 @@
     "고공행진하던환율,1400원대로'뚝'···지난달원화절상률8.81%금융...",
     "[人사이더]“하루주식창만8시간”…개미일상잠식한‘롤러코스피...",
     "'빅테크버맥만찬·남미에번진손하트'…李7박11일순방명장면",
-    "中CXMT,LPDDR6연내양산하나…韓모바일D램턱밑추격"
+    "中CXMT,LPDDR6연내양산하나…韓모바일D램턱밑추격",
+    "中CXMT,'LPDDR6'양산임박…삼성·SK와모바일D램경쟁",
+    "7월원화가치8.8%올라금융위기이후최고…달러저가매수나선개인...",
+    "7in10stocksfallinJulyasstockmarketpostssteepestdeclinesince.",
+    "[오피셜]'김민재·노이어·키미히한국땅밟는다!'…투어명단발표한...",
+    "고성군의회,제311회임시회폐회"
    ],
    "initialized": true,
-   "last_run": "2026-08-02T11:25:22.224836+09:00"
+   "last_run": "2026-08-02T11:30:31.947054+09:00"
   }
  },
  "press_names": {
