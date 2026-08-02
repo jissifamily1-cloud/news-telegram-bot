@@ -546,13 +546,13 @@
     [
      "2026-08-02T10:25:21.249225+09:00",
      "적격성 조달경쟁 중심으로 ESS 공급망 현지화 가격에서 중요"
+    ],
+    [
+     "2026-08-02T10:30:33.771662+09:00",
+     "바꾼 빅3 장기공급계약으로 메모리 체질 선수금까지 5년 이익 계약에"
     ]
    ],
    "seen_urls": [
-    "https://www.viewsnnews.com/article?q=237583",
-    "https://www.khan.co.kr/article/202607311602001",
-    "https://www.sentv.co.kr/article/view/sentv202607310142",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=725449",
     "https://www.newsis.com/view/NISX20260731_0003731263",
     "https://www.newdaily.co.kr/site/data/html/2026/07/31/2026073100150.html",
     "https://www.news1.kr/photos/8035677",
@@ -2048,13 +2048,13 @@
     "https://www.ziksir.com/news/articleView.html?idxno=141897",
     "https://www.topstarnews.net/news/articleView.html?idxno=16152784",
     "http://www.jmbc.co.kr/news/view/66710",
-    "https://www.dt.co.kr/article/12075997"
+    "https://www.dt.co.kr/article/12075997",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01341526645543384",
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=87436",
+    "http://www.metroseoul.co.kr/article/20260802500046",
+    "http://www.segyebiz.com/newsView/20260802505559?OutUrl=naver"
    ],
    "seen_titles": [
-    "최태원회장,SK하이닉스매수하루만에13억원벌었다",
-    "멀미나는코스피,사상최초하루1000포인트상승마감",
-    "코스피,사상최대폭등마감…17.9%오른6595",
-    "[외환+]美·日개입관측에엔화강세···원·달러환율,1420원대로급...",
     "코스피,외국인'7조대폭풍매수'로6,500탈환",
     "삼전닉스반도체,귀한몸값만큼수출도선박이아닌비행기타네.[현장...",
     "코스피,'사상최대폭'17%폭등…반도체훈풍에단숨에6600선",
@@ -3550,10 +3550,14 @@
     "SK텔레콤,1000만러너공략강화…가민·샥즈출시에'무도런'참가기...",
     "\"21경기27골빈공\"…전북현대,닥공실종속2위에도고민",
     "전북현대,FC서울과0대0무승부",
-    "“ESS조달경쟁,가격에서공급망적격성중심으로전환…현지화중요”"
+    "“ESS조달경쟁,가격에서공급망적격성중심으로전환…현지화중요”",
+    "7월환율125원급락'금융위기후최대폭'…1400원선깨질까",
+    "SKT,러너위한'가민'워치·'샥즈'이어폰도입…'무도런'참가권이...",
+    "SK텔레콤,스마트기기가민·샥즈제휴확대…러닝고객겨냥",
+    "5년계약에선수금까지…메모리빅3,장기공급계약으로이익체질바꾼..."
    ],
    "initialized": true,
-   "last_run": "2026-08-02T10:25:21.249225+09:00"
+   "last_run": "2026-08-02T10:30:33.771662+09:00"
   }
  },
  "press_names": {
