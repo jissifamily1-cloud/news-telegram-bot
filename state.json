@@ -566,12 +566,13 @@
     [
      "2026-08-04T07:35:21.078421+09:00",
      "SK하이닉스 사상 거품이라더니 실적으로 답했다 삼성전자"
+    ],
+    [
+     "2026-08-04T07:41:36.675169+09:00",
+     "거래대금 여전 7월 매력은 증권주 증시"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1718839",
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4098455",
-    "https://www.livebiz.today/news/articleView.html?idxno=203784",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=725516",
     "https://www.mediawatch.kr/news/article.html?no=260541",
     "https://www.eroun.net/news/articleView.html?idxno=86829",
@@ -2068,12 +2069,12 @@
     "https://magazine.hankyung.com/business/article/202607292326b",
     "https://view.asiae.co.kr/article/2026080315392792021",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7176812",
-    "https://biz.chosun.com/stock/stock_general/2026/08/04/7RSBJWT2WVAFPHP3GAZG7BZILQ/"
+    "https://biz.chosun.com/stock/stock_general/2026/08/04/7RSBJWT2WVAFPHP3GAZG7BZILQ/",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=876934",
+    "https://www.ajunews.com/view/20260803214706172",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02482966645544040"
    ],
    "seen_titles": [
-    "이코노미스트\"韓증시급락,AI투자과열의전조일수있다\"",
-    "17.91%폭등했던코스피,하루만에4%대하락…6300선으로후퇴",
-    "SKT,러너전용프로그램'런메이트'강화⋯마라톤혜택'확대'",
     "통신·가전업계,여름신상품·혜택잇달아",
     "삼성전자주가장중6%대내려,급등이후차익실현매물에SK하이닉스도...",
     "SK바사,백신실제임상근거기반학술교류강화",
@@ -3570,10 +3571,13 @@
     "[글로벌현장]40년만에최저수준까지떨어진'엔화가치'",
     "[클릭e종목]원자재·원유수송다늘었다…이익증가하는해운기업",
     "\"AI거품이라더니\"…삼성전자·SK하이닉스,사상최대실적으로답했다",
-    "“단일레버리지규제에거래대금감소전망…변동성·투심위축에증권..."
+    "“단일레버리지규제에거래대금감소전망…변동성·투심위축에증권...",
+    "삼성전자외인지분46.7%로하락…금융위기이후최저수준",
+    "[아주증시포커스]말라가는증시대기자금…한달새예탁금16조증발·...",
+    "7월증시거래대금‘뚝’…“증권주매력은여전”-SK"
    ],
    "initialized": true,
-   "last_run": "2026-08-04T07:40:28.691827+09:00"
+   "last_run": "2026-08-04T07:41:36.675169+09:00"
   }
  },
  "press_names": {
