@@ -1286,11 +1286,13 @@
     [
      "2026-08-03T13:15:30.840541+09:00",
      "신규고객 끝났다 통신사 장기할인보다 평생고객"
+    ],
+    [
+     "2026-08-03T13:20:26.468088+09:00",
+     "이찬일의 브리프 글로벌 경제"
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202608021337527083",
-    "https://zdnet.co.kr/view/?no=20260802142528",
     "https://www.koreaherald.com/article/10828183",
     "https://www.kmaeil.com/news/articleView.html?idxno=647274",
     "https://biz.heraldcorp.com/article/10828173",
@@ -2788,11 +2790,11 @@
     "https://www.greened.kr/news/articleView.html?idxno=346651",
     "https://www.joongang.co.kr/article/25450388",
     "https://www.seoul.co.kr/news/economy/2026/08/03/20260803500105?wlog_tag3=naver",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=725515"
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=725515",
+    "https://www.etnews.com/20260803000227",
+    "https://www.woodkorea.co.kr/news/articleView.html?idxno=90598"
    ],
    "seen_titles": [
-    "SKT,1000만러너사로잡는다..가민·샥즈제품출시",
-    "주가는4월수준인데이익전망은껑충…코스피반등조건은",
     "[ZD브리핑]'애플맞대결'삼성갤Z8예약판매물량4일개통...네이버·...",
     "BonusdebatereturnstoSKhynixwithstockpayproposal",
     "용인반도체용수시설은여주에…세금은한푼도못걷는여주시",
@@ -4290,10 +4292,12 @@
     "커버드콜18%오를때AI반도체38%급락...ETF한달수익률'극과극'",
     "이강인·김민재·노이어·포든...한여름밤,한국에뜨는유럽축구의별",
     "“형님,조정맞죠?”답없는‘총수퇴장밈’확산…월가는“각오하...",
-    "\"평생고객끝났다\"…통신사,장기할인보다'신규고객'"
+    "\"평생고객끝났다\"…통신사,장기할인보다'신규고객'",
+    "[ET특징주]삼성전자·SK하이닉스,'역대급폭등'이후다시하락전환…...",
+    "이찬일의글로벌경제브리프233-1"
    ],
    "initialized": true,
-   "last_run": "2026-08-03T13:15:30.840541+09:00"
+   "last_run": "2026-08-03T13:20:26.468088+09:00"
   }
  },
  "press_names": {
