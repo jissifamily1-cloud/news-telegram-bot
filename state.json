@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-03T23:40:29.889018+09:00",
-     "ETF 보도 장신커지 메모리 편입"
-    ],
-    [
      "2026-08-03T23:45:27.065603+09:00",
      "9940억원짜리 남긴 이혼이"
     ],
@@ -266,10 +262,13 @@
     [
      "2026-08-04T05:35:23.299606+09:00",
      "000원 사고판 개미 지폈다 단타 변동성"
+    ],
+    [
+     "2026-08-04T05:43:14.604095+09:00",
+     "마이크로소프트 투자우려 구글 MS 하이퍼스케일러"
     ]
    ],
    "seen_urls": [
-    "https://www.itbiznews.com/news/articleView.html?idxno=220738",
     "https://www.segye.com/newsView/20260803507243?OutUrl=naver",
     "http://www.newsian.co.kr/news/articleView.html?idxno=93161",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=169230",
@@ -1768,10 +1767,10 @@
     "http://www.choicenews.co.kr/news/articleView.html?idxno=169267",
     "https://www.segye.com/newsView/20260803505778?OutUrl=naver",
     "https://www.chosun.com/economy/money/2026/08/04/3RZKSTCKBNFILGDNERJK5OZFUY/",
-    "https://www.mt.co.kr/stock/2026/08/04/2026080319143683630"
+    "https://www.mt.co.kr/stock/2026/08/04/2026080319143683630",
+    "http://www.beyondpost.co.kr/view.php?ud=2026080405290935392aaae0046f_30"
    ],
    "seen_titles": [
-    "유한양행,렉라자마일스톤효과…“하반기美처방확대기대”[Why바...",
     "[특징주]SK가스,2분기'어닝쇼크'에10%대급락",
     "민주당\"삼전닉스레버리지,국정조사사안아냐\"",
     "SK바이오텍세종신공장준공...비만약원료'펩타이드'생산본격화",
@@ -3270,10 +3269,11 @@
     "뉴욕증시막판반도체주...엔비디아'활짝'vsSTX·WDC'뚝'",
     "난지도쓰레기장옆흙수저아파트의40년…성산시영이견뎌낸서울",
     "“반도체매수기회드디어열렸다,삼전닉스본주사라”",
-    "'9,763,000,000,000,000원'사고판개미...'단타'로변동성불지폈다"
+    "'9,763,000,000,000,000원'사고판개미...'단타'로변동성불지폈다",
+    "구글4.4%,마이크로소프트(MS)4.9%↑...하이퍼스케일러,AI투자우려잠..."
    ],
    "initialized": true,
-   "last_run": "2026-08-04T05:35:23.299606+09:00"
+   "last_run": "2026-08-04T05:43:14.604095+09:00"
   }
  },
  "press_names": {
