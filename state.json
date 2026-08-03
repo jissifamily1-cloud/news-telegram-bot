@@ -1090,10 +1090,13 @@
     [
      "2026-08-03T21:25:31.330356+09:00",
      "GC녹십자웰빙 SK플라즈마 휴메딕스 셀트리온"
+    ],
+    [
+     "2026-08-03T21:30:33.893822+09:00",
+     "111만주 받았는데 외국인이 깨지면 150만원이 개미가 던진"
     ]
    ],
    "seen_urls": [
-    "https://www.ekn.kr/web/view.php?key=20260803024038827",
     "http://www.financialreview.co.kr/news/articleView.html?idxno=43937",
     "https://economist.co.kr/article/view/ecn202608030002",
     "https://www.etnews.com/20260803000103",
@@ -2592,10 +2595,10 @@
     "https://www.news1.kr/world/northeast-asia/6247946",
     "https://www.tokenpost.kr/news/economy/384353",
     "https://www.venturesquare.net/1103218/",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608031414097680567"
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608031414097680567",
+    "http://www.breaknews.com/1226448"
    ],
    "seen_titles": [
-    "'17%폭등'하루만에또급락…코스피,외인매도세에4%대하락세",
     "셀렉트스타,AI신뢰성평가분야최초코스닥상장도전",
     "SKT,AI그림일기로초중고생문해력키운다⋯순천향대와디지털새싹협...",
     "김용범정책실장,고발당했다…\"레버리지ETF도입지시는직권남용\"",
@@ -4094,10 +4097,11 @@
     "\"창신메모리,베이징에두번째메모리칩공장건설검토중\"",
     "SK실트론,두산인수로신용등급전망하향검토…재무안정성에미칠영...",
     "AI가전화받고예약까지…드로우드림,다국어AI상담원‘라이브스피...",
-    "[제약바이오브리프]SK플라즈마·GC녹십자웰빙·셀트리온·휴메딕스·H..."
+    "[제약바이오브리프]SK플라즈마·GC녹십자웰빙·셀트리온·휴메딕스·H...",
+    "[추적]④외국인이던진111만주,개미가받았는데...150만원이깨지면?"
    ],
    "initialized": true,
-   "last_run": "2026-08-03T21:25:31.330356+09:00"
+   "last_run": "2026-08-03T21:30:33.893822+09:00"
   }
  },
  "press_names": {
