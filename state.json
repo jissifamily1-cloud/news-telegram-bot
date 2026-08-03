@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-03T18:11:03.324033+09:00",
-     "실적으로 샌디스크 매출 예고 반전 살아날 쇼크 SNDK 반토막"
-    ],
-    [
-     "2026-08-03T18:11:03.324033+09:00",
-     "세르지우 그리웠다 부여잡은 김민재 너무 민재가"
-    ],
-    [
-     "2026-08-03T18:11:03.324033+09:00",
-     "감독 코스타 세르지우 답변하는"
-    ],
-    [
      "2026-08-03T18:16:07.654026+09:00",
      "5G 과장광고 대법원 간다 과징금 SKT"
     ],
@@ -402,11 +390,13 @@
     [
      "2026-08-04T00:10:35.404512+09:00",
      "글의 하나 반전 가짜 22억 파산 잃고 인증 더한 충격"
+    ],
+    [
+     "2026-08-04T00:15:34.594962+09:00",
+     "무명 나왔던 짜릿한 대반란 600위의 전설에 비자 베트남 예술구"
     ]
    ],
    "seen_urls": [
-    "https://www.thepowernews.co.kr/view.php?ud=202608031008599124de3f0aa1be_7",
-    "https://www.ajunews.com/view/20260803095925345",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=361153",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5026974",
     "https://www.imaeil.com/page/view/2026080310003334806",
@@ -1904,11 +1894,11 @@
     "https://news.tf.co.kr/read/economy/2349984.htm",
     "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95784",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=84015",
-    "http://weekly.chosun.com/news/articleView.html?idxno=54008"
+    "http://weekly.chosun.com/news/articleView.html?idxno=54008",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3654545",
+    "https://www.nocutnews.co.kr/news/6557655"
    ],
    "seen_titles": [
-    "코스피,6500선붕괴…삼성·SK하닉동반하락",
-    "[개장시황]차익실현매물…코스피,4%대하락",
     "SK플라즈마,저혈소판증치료제시장진출…'레볼팍'출시",
     "[특징주]삼성전자·하이닉스,장초반8%급락",
     "[정책리뷰]단일종목레버리지ETF가만든7월롤러코스터,개미들떠났...",
@@ -3406,10 +3396,12 @@
     "[영원무역디스카운트③]실적반토막에도성래은보수300%↑…'고무줄...",
     "[442.told]\"이더위에그런경기가가능하다니…\"콤파니발언으로돌아...",
     "[심층분석]\"반도체덜어내고바이오·2차전지담았다\"…차익실현속업...",
-    "\"22억잃고파산\"충격글의반전…'0'하나더한가짜인증"
+    "\"22억잃고파산\"충격글의반전…'0'하나더한가짜인증",
+    "바이에른뮌헨VS제주친선전,선수라인업과생중계채널",
+    "'600위의대반란'비자안나왔던베트남무명,예술구전설에짜릿한역..."
    ],
    "initialized": true,
-   "last_run": "2026-08-04T00:10:35.404512+09:00"
+   "last_run": "2026-08-04T00:15:34.594962+09:00"
   }
  },
  "press_names": {
