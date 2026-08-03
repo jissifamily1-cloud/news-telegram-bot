@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-03T07:45:29.672451+09:00",
-     "폭염에 살인 내몰리는 배민 일한다 걸러가며 노동자들 끼니 슬로우"
-    ],
-    [
-     "2026-08-03T07:45:29.672451+09:00",
-     "스타트 반등세로 경제 역대 코스피 002p 폭등 돌아섰나"
-    ],
-    [
-     "2026-08-03T07:50:25.970326+09:00",
-     "연합공대 메가프로젝트 4단계 서남권 중심에 반도체 전남대 896조"
-    ],
-    [
      "2026-08-03T07:55:25.484406+09:00",
      "증시 은행주 환입 쏠린 3분기로 훈풍 ELS 과징금 조용한 환율 폭풍"
     ],
@@ -1322,14 +1310,17 @@
     [
      "2026-08-03T13:45:23.281212+09:00",
      "파워 성호전자 콘덴서 확대 수요"
+    ],
+    [
+     "2026-08-03T13:50:27.590402+09:00",
+     "알트 상한가 회사길래 무슨 주가"
+    ],
+    [
+     "2026-08-03T13:50:27.590402+09:00",
+     "4차례 역대급 발동 폭등 7월 흐름 폭락 국내 서킷브레이커 8월 증시"
     ]
    ],
    "seen_urls": [
-    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95698",
-    "https://www.newsis.com/view/NISX20260802_0003733065",
-    "https://www.dailian.co.kr/news/view/1673606/?sc=Naver",
-    "https://www.news1.kr/it-science/cc-newmedia/6246479",
-    "http://www.metroseoul.co.kr/article/20260802500178",
     "https://www.imaeil.com/page/view/2026080214594456577",
     "http://www.breaknews.com/1226107",
     "https://www.dynews.co.kr/news/articleView.html?idxno=860163",
@@ -2824,14 +2815,14 @@
     "https://www.newsworks.co.kr/news/articleView.html?idxno=849182",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=142492",
     "https://biz.sbs.co.kr/article_hub/20000326177?division=NAVER",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608031324502360101745"
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608031324502360101745",
+    "https://www.xportsnews.com/article/2179605",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=03388246645543712",
+    "https://www.chosun.com/economy/stock-finance/2026/08/03/UPLREUBF6VG7NMZYBYJXSIXUDU/",
+    "https://www.ggilbo.com/news/articleView.html?idxno=1172995",
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5209940"
    ],
    "seen_titles": [
-    "이대통령,미국·남미서'AI외교'성과…귀국후엔부동산등현안산...",
-    "[k1.told]\"조금만더기다려달라\"전북,하반기는다를까…'외인보강+...",
-    "바이에른뮌헨,김민재와함께한국도착…제주공항들썩",
-    "SKT,러너겨냥웨어러블확대…가민·샥즈도입",
-    "삼성MX7000억적자·KT539억과징금…민·관'AIDC얼라이언스'첫발...",
     "AI투자9500억불·핵심광물협력…이대통령,'지구한바퀴'순방성과",
     "두산,21년만에구미로돌아온다…SK실트론품고반도체체질전환",
     "증권-부동산에달린이재명대통령의국정지지율등락(騰落)",
@@ -4326,10 +4317,15 @@
     "[#통신풍향계]SKT-순천향대'AI그림일기'공급·'KT스포츠팝업전시...",
     "미-일,엔화방어에손잡았다...원화에미칠영향은?",
     "[직설]코스피,서킷브레이커악몽끝났나…외국인귀환·반도체부활로...",
-    "[더벨][i-point]성호전자\"파워·콘덴서수요확대\""
+    "[더벨][i-point]성호전자\"파워·콘덴서수요확대\"",
+    "바이에른뮌헨의손흥민영입설,회장직접말하다…\"전술이해도빼어...",
+    "[마켓인]우협선정후두달째…SKTNS매각정체빚는3가지이유",
+    "모건스탠리,코스피‘비중확대’로상향…“코스피9000까지36%상승...",
+    "알트주가,상한가...무슨회사길래?",
+    "국내증시역대급'폭락→폭등'·7월서킷브레이커4차례발동…8월흐름..."
    ],
    "initialized": true,
-   "last_run": "2026-08-03T13:45:23.281212+09:00"
+   "last_run": "2026-08-03T13:50:27.590402+09:00"
   }
  },
  "press_names": {
