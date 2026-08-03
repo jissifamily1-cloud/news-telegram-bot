@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-03T15:10:27.352472+09:00",
-     "7조 돌아온 5조는 맞나 프로그램 외국인 순매수"
-    ],
-    [
      "2026-08-03T15:15:33.831382+09:00",
      "조태원 고객솔루션부장 대신증권 장모상"
     ],
@@ -1174,12 +1170,13 @@
     [
      "2026-08-03T21:05:30.007045+09:00",
      "최고 삼성전자에 일이 B급리포트 외국인 공매도 B급기자의 2년 무슨"
+    ],
+    [
+     "2026-08-03T21:10:35.459582+09:00",
+     "동반 장전 메모리주 약세 급락 마이크론"
     ]
    ],
    "seen_urls": [
-    "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520634",
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=83962",
-    "https://www.newsis.com/view/NISX20260803_0003733713",
     "https://www.livebiz.today/news/articleView.html?idxno=203768",
     "https://www.newsis.com/view/NISX20260803_0003733705",
     "https://www.koreajoongangdaily.com/korea/lee-returns-to-a-packed-agenda-after-sealing-950-billion-in-chip-deals-with-silicon-valley/12804145",
@@ -2676,12 +2673,12 @@
     "http://www.yonhapnewstv.co.kr/news/MYH20260803210202cgU",
     "https://www.mk.co.kr/article/12113281",
     "https://www.businesspost.co.kr/BP?command=article_view&num=443849",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608030303&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608030303&t=NN",
+    "https://www.kwnews.co.kr/article/20260803501902",
+    "https://www.khan.co.kr/article/202608032103015",
+    "https://www.tokenpost.kr/news/breaking/384338"
    ],
    "seen_titles": [
-    "SKT,'AI그림일기'로미래인재양성나선다",
-    "[속보]'17%↑→-8%'하루만에파란불…개미나홀로방어,삼전닉스-7%",
-    "스마트홈시장확대기대감…누리플렉스현대에이치티에스원주목을",
     "'2.3조'실트론딜승자는?\"알짜샀다\"두산2%대강세·SK는5%대급락",
     "35세미만투자자마진계좌36만개...모건스탠리“레버리지청산이후...",
     "SK㈜,9년연속중간배당…주주에826억원푼다",
@@ -4178,10 +4175,13 @@
     "코스피,역대급폭등후5%급락…6,200선후퇴",
     "‘맹탕’콘콜왜했나…시장에재뿌린SK하이닉스[재계톡톡]",
     "[8월4일자]비즈니스포스트아침의주요기사",
-    "외국인공매도2년來최고…삼성전자에무슨일이[B급기자의B급리포트..."
+    "외국인공매도2년來최고…삼성전자에무슨일이[B급기자의B급리포트...",
+    "[영상]정청래,강원빅3공략…강호축철도·AI데이터센터지원약속",
+    "민형배“광주군공항이전·국립의대신설해결실마리”",
+    "마이크론장전5%급락…메모리주동반약세"
    ],
    "initialized": true,
-   "last_run": "2026-08-03T21:05:30.007045+09:00"
+   "last_run": "2026-08-03T21:10:35.459582+09:00"
   }
  },
  "press_names": {
