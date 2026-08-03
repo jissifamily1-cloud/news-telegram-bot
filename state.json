@@ -550,11 +550,13 @@
     [
      "2026-08-04T07:15:30.103431+09:00",
      "예상보다 성장세 빠른 확대 사업 수요 클라우드"
+    ],
+    [
+     "2026-08-04T07:20:36.582391+09:00",
+     "마라톤 공급절벽 7시간반 증시 선제 회의 불안"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10828916",
-    "https://www.mediapen.com/news/view/1113896",
     "https://www.businessplus.kr/news/articleView.html?idxno=114976",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608030129&t=NN",
     "http://www.mdilbo.com/detail/c3QycN/757650",
@@ -2052,11 +2054,11 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02227126645544040",
     "https://www.kukinews.com/article/view/kuk202608040003",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608040298&t=NN",
-    "https://biz.sbs.co.kr/article_hub/20000326410?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000326410?division=NAVER",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=280625",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1392280"
    ],
    "seen_titles": [
-    "[K우먼톡]AI시대고용이줄어든다?사람은계속찾는다",
-    "코스닥,2거래일연속매수사이드카···로봇·제약강세",
     "[특징주]삼성전자,25만원선내줘…반도체주차익실현에급락",
     "SK인텔릭스,웰니스로봇'나무엑스'신규광고공개…반려견시선으로...",
     "SK인텔릭스,반려견시선담은‘나무엑스’광고선봬",
@@ -3554,10 +3556,12 @@
     "\"개미들트라우마…한국,투자부적격국가되나\"",
     "상법개정후올상반기배당기업48%↑…개인배당금1위이재용",
     "'어닝잭팟'팔란티어시간외급등…'LPDDR6우려'메모리주는하락-[美...",
-    "[증시전략]AI수요확대,클라우드사업예상보다빠른성장세"
+    "[증시전략]AI수요확대,클라우드사업예상보다빠른성장세",
+    "상법개정후상반기배당기업48%↑…이재용728억개인1위",
+    "​[뉴스분석]7시간반마라톤회의연李…'공급절벽·증시불안'선제..."
    ],
    "initialized": true,
-   "last_run": "2026-08-04T07:15:30.103431+09:00"
+   "last_run": "2026-08-04T07:20:36.582391+09:00"
   }
  },
  "press_names": {
