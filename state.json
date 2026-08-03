@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-03T13:50:27.590402+09:00",
-     "알트 상한가 회사길래 무슨 주가"
-    ],
-    [
-     "2026-08-03T13:50:27.590402+09:00",
-     "4차례 역대급 발동 폭등 7월 흐름 폭락 국내 서킷브레이커 8월 증시"
-    ],
-    [
      "2026-08-03T13:55:26.145816+09:00",
      "역주행 D램 주가는 낸드값 신기록 삼전닉스"
     ],
@@ -1470,14 +1462,17 @@
     [
      "2026-08-03T19:45:27.262824+09:00",
      "여전 레버리지 단일종목 변동성은 풍선효과 거래 급감했지만 우려도"
+    ],
+    [
+     "2026-08-03T19:55:20.930677+09:00",
+     "증시 롤러코스터 경고한 속도조절"
+    ],
+    [
+     "2026-08-03T19:55:20.930677+09:00",
+     "당원이 문대림 주인 되는 도당 만들"
     ]
    ],
    "seen_urls": [
-    "https://www.ekn.kr/web/view.php?key=20260803021178753",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=725507",
-    "https://theviewers.co.kr/View.aspx?No=4171609",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=594017",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=82677",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608030099&t=NN",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473731",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=270919",
@@ -2972,14 +2967,14 @@
     "https://imnews.imbc.com/news/2026/world/article/6842103_36925.html",
     "https://www.ggilbo.com/news/articleView.html?idxno=1173098",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608031601592520608",
-    "https://www.kyeongin.com/article/1768386"
+    "https://www.kyeongin.com/article/1768386",
+    "https://www.dt.co.kr/article/12076324",
+    "https://en.yna.co.kr/view/AEN20260803011800315?input=2106m",
+    "https://www.tokenpost.kr/news/breaking/384295",
+    "https://www.hani.co.kr/arti/economy/finance/1271231.html",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627234"
    ],
    "seen_titles": [
-    "[개장시황]코스피장초반4%넘게하락…6200선",
-    "코스피낙폭5%로확대…삼성전자·SK하이닉스8%하락",
-    "SK바이오사이언스,'스카이비전심포지엄'개최…백신실제임상근거공...",
-    "SK증권\"하이닉스,LTA·주주환원의지명확…메모리재평가기대\"",
-    "[국내증시개장시황]코스피대폭락,주도산업견조한상승세속혼조...",
     "역대급폭등했던코스피,4~5%대급락…삼전닉스8%대↓(종합)",
     "코스피,단기급등부담에6300선후퇴...반도체주약세",
     "원·달러환율,11.7원오른1435.7원",
@@ -4474,10 +4469,15 @@
     "로이터\"중국창신메모리,베이징에공장신설‥생산확대\"",
     "[주식마감]'비만치료제'기대감에펩트론상한가...원익홀딩스,티엑...",
     "단일종목레버리지거래급감했지만…변동성은여전ㆍ풍선효과우려도",
-    "[포토]“SK하이닉스오폐수방류반대”"
+    "[포토]“SK하이닉스오폐수방류반대”",
+    "중동전쟁에…정유사수출효자된윤활기유",
+    "KLeague'sJejuSKFCreadytolearnfromBayernMunichinexhibitionmat",
+    "SK하이닉스포지션3일만에반토막,3억달러이탈",
+    "AI속도조절경고한‘롤러코스터’증시",
+    "[주요단신]문대림“당원이주인되는도당만들것”외"
    ],
    "initialized": true,
-   "last_run": "2026-08-03T19:50:27.446827+09:00"
+   "last_run": "2026-08-03T19:55:20.930677+09:00"
   }
  },
  "press_names": {
