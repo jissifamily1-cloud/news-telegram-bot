@@ -937,7 +937,6 @@
     ]
    ],
    "seen_urls": [
-    "https://zdnet.co.kr/view/?no=20260803094214",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260803010000422",
     "https://www.cstimes.com/news/articleView.html?idxno=715468",
     "https://biz.heraldcorp.com/article/10828734",
@@ -2436,10 +2435,10 @@
     "https://www.munhwa.com/article/11606948",
     "https://news.tvchosun.com/site/data/html_dir/2026/08/03/2026080390266.html",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608030522&t=NN",
-    "https://www.tokenpost.kr/news/market/384362"
+    "https://www.tokenpost.kr/news/market/384362",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627446"
    ],
    "seen_titles": [
-    "코스피,장초반4%대하락…6300선아래로",
     "멜론·유튜브라이트결합상품,T우주서출시…최대20%저렴",
     "[1%초고수의개장선택]'삼성·SK하닉'담고'티엑스알로보틱스'차익...",
     "[#IT라운지]카모'AI주니어랩성료'·아이마켓'물류자회사통합'·이벤...",
@@ -3938,10 +3937,11 @@
     "예탁금상향효과?…삼전닉스레버리지거래대금12조→1조원대‘뚝’",
     "뮌헨,친선경기지만훈련은진지하게…4일제주SK와'한판'",
     "[속보]단숨에시총1위올라서더니…삼전닉스쫓는속도높인다",
-    "단일종목레버리지ETF,예탁금상향후거래대금10분의1로급감"
+    "단일종목레버리지ETF,예탁금상향후거래대금10분의1로급감",
+    "제주찾은‘바이에른뮌헨’…공개훈련관심도후끈"
    ],
    "initialized": true,
-   "last_run": "2026-08-03T22:05:27.616429+09:00"
+   "last_run": "2026-08-03T22:10:28.929217+09:00"
   }
  },
  "press_names": {
