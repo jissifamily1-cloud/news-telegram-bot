@@ -582,12 +582,17 @@
     [
      "2026-08-04T07:45:33.109450+09:00",
      "보여준 규제의 돌아왔다 역설 경쟁자로 막았더니 창신메모리가"
+    ],
+    [
+     "2026-08-04T07:50:28.411424+09:00",
+     "증시 보합세 국제유가 급락에 반도체주는 급등"
+    ],
+    [
+     "2026-08-04T07:50:28.411424+09:00",
+     "금리 뉴욕증시 상승세 강한 유가 하락에"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10828936",
-    "https://biz.heraldcorp.com/article/10828937",
-    "https://magazine.hankyung.com/business/article/202608031383b",
     "http://www.00news.co.kr/news/articleView.html?idxno=105584",
     "https://biz.heraldcorp.com/article/10828939",
     "https://biz.chosun.com/topics/law_firm/2026/08/03/QK7SF24GVNBQBKDACZQ5D4RA3Q/",
@@ -2084,12 +2089,12 @@
     "https://www.greened.kr/news/articleView.html?idxno=346724",
     "http://www.ccnnews.co.kr/news/articleView.html?idxno=412997",
     "http://coinreaders.com/250972",
-    "http://www.fnnews.com/news/202608031712394589"
+    "http://www.fnnews.com/news/202608031712394589",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608040362&t=NN",
+    "https://www.viewsnnews.com/article?q=237649",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6842215_37012.html"
    ],
    "seen_titles": [
-    "'20Gbps'광고위법…이통3사,대법원·과징금재산정분수령",
-    "실적부진엔책임,저평가엔자신감…노태문·최태원의자사주승부수",
-    "'영유아부터취업준비생까지'...삼성·SK,AI시대교육새판짜기지원",
     "‘7일간하루한개씩’…업비트,집토끼잡으려코인연쇄상장",
     "Doosan收购SKSiltron，完成半导体业务版图拼图",
     "中공습에흔들린K반도체…삼성·하이닉스'시설투자·책임경영'승부...",
@@ -3586,10 +3591,13 @@
     "상반기배당금1위이재용이어홍라희·이서현·이부진4~6위'싹쓸이'....",
     "세종시휠체어펜싱,안방에서메달7개'쾌거'",
     "SK하이닉스ADR,상장가밑으로추락했지만…UBS“204달러까지42%오른다...",
-    "\"막았더니경쟁자로돌아왔다\"…창신메모리가보여준'규제의역설'"
+    "\"막았더니경쟁자로돌아왔다\"…창신메모리가보여준'규제의역설'",
+    "이재용,상반기배당금1위...상법개정에배당기업48%↑",
+    "국제유가급락에美증시급등,반도체주는보합세",
+    "유가·금리하락에뉴욕증시강한상승세"
    ],
    "initialized": true,
-   "last_run": "2026-08-04T07:45:33.109450+09:00"
+   "last_run": "2026-08-04T07:50:28.411424+09:00"
   }
  },
  "press_names": {
