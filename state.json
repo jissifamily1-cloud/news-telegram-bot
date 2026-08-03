@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-03T23:20:36.832359+09:00",
-     "To 매입 일본 Do"
-    ],
-    [
-     "2026-08-03T23:20:36.832359+09:00",
-     "읽는 시대의 동사의 시대 생성형 런던에서 경제"
-    ],
-    [
      "2026-08-03T23:25:30.679183+09:00",
      "나스닥 유가급락 기대에 증시 상승 실적"
     ],
@@ -254,11 +246,17 @@
     [
      "2026-08-04T05:10:25.975088+09:00",
      "2분기 버팀목 윤활기유 에쓰오일 영업익 정유업계 흑자로"
+    ],
+    [
+     "2026-08-04T05:25:24.195894+09:00",
+     "7시간 증시 부동산 청와대 헬기로 순방 끝장점검 대통령 직후"
+    ],
+    [
+     "2026-08-04T05:25:24.195894+09:00",
+     "든든 AI가 집안 실적 갈랐다 수요 키운 IT서비스"
     ]
    ],
    "seen_urls": [
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=661736",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=854054",
     "https://www.jbnews.com/news/articleView.html?idxno=1508764",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1718819",
     "https://view.asiae.co.kr/article/2026080219444437473",
@@ -1756,11 +1754,11 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01423526645544040",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01420246645544040",
     "https://www.seoul.co.kr/news/economy/industry/2026/08/04/20260804031005?wlog_tag3=naver",
-    "https://www.seoul.co.kr/news/economy/industry/2026/08/04/20260804031004?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/economy/industry/2026/08/04/20260804031004?wlog_tag3=naver",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4428378",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608031122019890536"
    ],
    "seen_titles": [
-    "하남시,청년자산관리교육확대…경제특강으로금융역량강화",
-    "SK인텔릭스,반려견시선으로풀어낸웰니스로봇광고공개",
     "7월번호이동63만건…갤럭시Z8출시앞두고숨고르기",
     "[오늘증시]'폭등후유증'코스피4%대조정…차익실현에반등시험대",
     "'22억잃고파산'인증글,알고보니조작…\"수치10배부풀렸다\"",
@@ -3258,10 +3256,12 @@
     "[목멱칼럼]삼전닉스ETF의교훈",
     "\"대만엔TSMC레버리지없는데…韓도입성급\"",
     "AI메모리넘어부품·전력설비까지…‘선주문’확산",
-    "정유업계버팀목된‘윤활기유’…에쓰오일,2분기영업익흑자로"
+    "정유업계버팀목된‘윤활기유’…에쓰오일,2분기영업익흑자로",
+    "순방직후헬기로청와대간李대통령…7시간부동산·증시'끝장점검'",
+    "AI가키운그룹수요…IT서비스,‘집안든든’이실적갈랐다"
    ],
    "initialized": true,
-   "last_run": "2026-08-04T05:20:35.383368+09:00"
+   "last_run": "2026-08-04T05:25:24.195894+09:00"
   }
  },
  "press_names": {
