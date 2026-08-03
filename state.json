@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-03T18:16:07.654026+09:00",
-     "5G 과장광고 대법원 간다 과징금 SKT"
-    ],
-    [
-     "2026-08-03T18:16:07.654026+09:00",
-     "인사 법률신문"
-    ],
-    [
-     "2026-08-03T18:16:07.654026+09:00",
-     "주전 자격 없다 김민재도 경기력으로 예외 증명해야 콤파니"
-    ],
-    [
      "2026-08-03T18:20:46.207943+09:00",
      "꼼수 200여개 주가 추산 절세 기업 대상 누르기 막는다"
     ],
@@ -394,14 +382,17 @@
     [
      "2026-08-04T00:15:34.594962+09:00",
      "무명 나왔던 짜릿한 대반란 600위의 전설에 비자 베트남 예술구"
+    ],
+    [
+     "2026-08-04T00:20:39.672912+09:00",
+     "이상 키미히 아시아 클럽 10년 레벨 선수"
+    ],
+    [
+     "2026-08-04T00:20:39.672912+09:00",
+     "강세 알테오젠 상승 주가 회복 31만원선 코스닥"
     ]
    ],
    "seen_urls": [
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=361153",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5026974",
-    "https://www.imaeil.com/page/view/2026080310003334806",
-    "https://www.bigtanews.co.kr/article/view/big202608030005",
-    "https://www.dailian.co.kr/news/view/1673737/?sc=Naver",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=142465",
     "https://dealsite.co.kr/articles/166433",
     "https://www.cbci.co.kr/news/articleView.html?idxno=594027",
@@ -1896,14 +1887,14 @@
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=84015",
     "http://weekly.chosun.com/news/articleView.html?idxno=54008",
     "https://www.gukjenews.com/news/articleView.html?idxno=3654545",
-    "https://www.nocutnews.co.kr/news/6557655"
+    "https://www.nocutnews.co.kr/news/6557655",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474007",
+    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374673",
+    "https://www.greened.kr/news/articleView.html?idxno=346722",
+    "https://www.goal.com/kr/뉴스/a/bltfd79c80a3feda30e",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=594211"
    ],
    "seen_titles": [
-    "SK플라즈마,저혈소판증치료제시장진출…'레볼팍'출시",
-    "[특징주]삼성전자·하이닉스,장초반8%급락",
-    "[정책리뷰]단일종목레버리지ETF가만든7월롤러코스터,개미들떠났...",
-    "'17%↑→-8%↓'역대급폭등서'와르르'…삼전닉스주가전망은",
-    "242억원'국방특화LLM'구축사업,한화시스템컨소시엄우협선정",
     "테슬라ESS이슈?...LG엔솔·에코프로등2차전지주'장중뚝'",
     "[편집자시선]‘새만금현대차AI밸리’에대한기대",
     "갤폴드8앞두고7월번호이동숨고르기…SKT·LGU+순증",
@@ -3398,10 +3389,15 @@
     "[심층분석]\"반도체덜어내고바이오·2차전지담았다\"…차익실현속업...",
     "\"22억잃고파산\"충격글의반전…'0'하나더한가짜인증",
     "바이에른뮌헨VS제주친선전,선수라인업과생중계채널",
-    "'600위의대반란'비자안나왔던베트남무명,예술구전설에짜릿한역..."
+    "'600위의대반란'비자안나왔던베트남무명,예술구전설에짜릿한역...",
+    "SK,SK실트론매각으로2.3조확보…재무개선·미래성장투자속도",
+    "'프리시즌제주찾은'김민재,이적설일축하며\"뮌헨에남아경쟁이어...",
+    "엔비디아2.8%·SOXL1.2%반등…삼성전자·SK하이닉스,외국인수급주목",
+    "[현장인터뷰]'톱레벨&톱클럽'10년이상뛴키미히\"아시아선수성...",
+    "알테오젠,31만원선회복…코스닥강세속주가상승"
    ],
    "initialized": true,
-   "last_run": "2026-08-04T00:15:34.594962+09:00"
+   "last_run": "2026-08-04T00:20:39.672912+09:00"
   }
  },
  "press_names": {
