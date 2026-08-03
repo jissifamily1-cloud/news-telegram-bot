@@ -197,7 +197,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1718822",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607300749101520103987",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607301032325320101910",
     "https://biz.sbs.co.kr/article_hub/20000326188?division=NAVER",
@@ -1696,10 +1695,10 @@
     "https://www.dailian.co.kr/news/view/1674061/?sc=Naver",
     "https://www.mt.co.kr/stock/2026/08/04/2026080319554568520",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=314086",
-    "https://www.mt.co.kr/finance/2026/08/04/2026080319553942496"
+    "https://www.mt.co.kr/finance/2026/08/04/2026080319553942496",
+    "https://www.spotvnews.co.kr/news/articleView.html?idxno=832625"
    ],
    "seen_titles": [
-    "리벨리온,공공CCTV관제에국산NPU첫적용",
     "코스피,사상최대상승하루만에꺾여…4~5%대급락",
     "\"노이어미들네임을안다고?\"독일도놀란韓팬들디테일...'은퇴한지...",
     "SKT,순천향대와'디지털새싹'에AI그림일기제공…4200명대상AI·SW교...",
@@ -3198,10 +3197,11 @@
     "中창신메모리,공장또짓는다…메모리자립'총력전'",
     "모간스탠리는\"9000피간다\"는데...지금사?말아?증권가전망은",
     "OK저축은행,고위험ETF투자에수백억손실우려",
-    "수수료잭팟누린은행권…불완전판매리스크도커졌다"
+    "수수료잭팟누린은행권…불완전판매리스크도커졌다",
+    "\"한국에기이한팬이있더라\"독일매체,韓팬들의뮌헨마중에'깜짝'..."
    ],
    "initialized": true,
-   "last_run": "2026-08-04T04:25:23.602344+09:00"
+   "last_run": "2026-08-04T04:30:38.628785+09:00"
   }
  },
  "press_names": {
