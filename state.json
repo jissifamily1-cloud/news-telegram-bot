@@ -270,12 +270,21 @@
     [
      "2026-08-04T05:50:27.725469+09:00",
      "SK이터닉스 RE100 포트폴리오로 성장 전방위 정조준 가속"
+    ],
+    [
+     "2026-08-04T05:55:21.615251+09:00",
+     "나스닥 이란 취소 유가 트럼프 공격 데일 급락 상승 국제"
+    ],
+    [
+     "2026-08-04T05:55:21.615251+09:00",
+     "예금족 급락장에 불장 일단 버틴다 진입했다가 패닉 평생 7월"
+    ],
+    [
+     "2026-08-04T05:55:21.615251+09:00",
+     "사라고 액분 이유 지라시가 돈다 최태원이 배당 하닉"
     ]
    ],
    "seen_urls": [
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=169230",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000053995",
-    "https://biz.heraldcorp.com/article/10828826",
     "https://daily.hankooki.com/news/articleView.html?idxno=1391987",
     "https://news.tf.co.kr/read/economy/2349796.htm",
     "http://www.seouleconews.com/news/articleView.html?idxno=92787",
@@ -1772,12 +1781,12 @@
     "https://www.mt.co.kr/stock/2026/08/04/2026080319143683630",
     "http://www.beyondpost.co.kr/view.php?ud=2026080405290935392aaae0046f_30",
     "https://www.etoday.co.kr/news/view/2610370",
-    "https://www.sidae.com/article/2026080316204546714"
+    "https://www.sidae.com/article/2026080316204546714",
+    "https://www.sedaily.com/article/20075336",
+    "https://www.news1.kr/finance/general-finance/6247845",
+    "https://www.news1.kr/society/general-society/6247664"
    ],
    "seen_titles": [
-    "SK바이오텍세종신공장준공...비만약원료'펩타이드'생산본격화",
-    "역대급폭등후숨고르기...코스피,4%대약세",
-    "코스피급락세돌입…개인투자자대규모순매수에도하락지속",
     "'젠슨황효과'예전같지않네…외신,韓증시잇단경고",
     "코스피반도체주는하락...에스피지등코스닥로봇주↑",
     "김용범정책실장형사고발…\"국민벼락거지만든ETF\"",
@@ -3274,10 +3283,13 @@
     "'9,763,000,000,000,000원'사고판개미...'단타'로변동성불지폈다",
     "구글4.4%,마이크로소프트(MS)4.9%↑...하이퍼스케일러,AI투자우려잠...",
     "국내장‘미리보는답지’된무기한선물…ADR보다개장방향잘맞혀",
-    "'RE100정조준'SK이터닉스,전방위포트폴리오로성장가속"
+    "'RE100정조준'SK이터닉스,전방위포트폴리오로성장가속",
+    "나스닥,트럼프‘이란공격취소’에2%상승...국제유가5%급락[데일...",
+    "평생예금족'불장'진입했다가7월급락장에패닉…\"일단버틴다\"",
+    "\"최태원이하닉사라고한이유\"…'배당2.5%·액분'지라시가돈다"
    ],
    "initialized": true,
-   "last_run": "2026-08-04T05:50:27.725469+09:00"
+   "last_run": "2026-08-04T05:55:21.615251+09:00"
   }
  },
  "press_names": {
