@@ -650,13 +650,13 @@
     [
      "2026-08-04T08:15:25.214548+09:00",
      "2Q 적자 전망 3Q도 635억원 영업손 SK아이이테크놀로지"
+    ],
+    [
+     "2026-08-04T08:20:27.839462+09:00",
+     "물가 석달 꺾이자 내려와 휘발유 만에 경유 대로 오름폭"
     ]
    ],
    "seen_urls": [
-    "https://sports.khan.co.kr/article/202608031128023?pt=nv",
-    "https://www.newsis.com/view/NISX20260803_0003734005",
-    "https://www.tokenpost.kr/news/breaking/384094",
-    "https://www.newstnt.com/news/articleView.html?idxno=712593",
     "https://www.mk.co.kr/article/12115050",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047197",
     "https://www.chosun.com/economy/money/2026/08/03/3NFFZRJVKFHJJN4RWUSZY6MPEQ/",
@@ -2152,13 +2152,13 @@
     "https://www.handmk.com/news/articleView.html?idxno=41869",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474060",
     "http://www.newsian.co.kr/news/articleView.html?idxno=93216",
-    "https://www.hankyung.com/article/2026080430396"
+    "https://www.hankyung.com/article/2026080430396",
+    "https://view.asiae.co.kr/article/2026080408174207777",
+    "https://www.etoday.co.kr/news/view/2610596",
+    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=702262",
+    "https://www.hankyung.com/article/202608043031i"
    ],
    "seen_titles": [
-    "SK㈜,중간배당1500원확정…9년연속주주환원강화",
-    "[분석]코스피4%대급락,6300선까지밀려…삼성전자·SK하이닉스동반...",
-    "수도권주택시장집들이활발‘강동역SK리더스뷰’등8월14일입주...",
-    "\"레버리지ETF도입은직권남용\"형사고발당한정책실장",
     "증시흔든레버리지ETF...김용범정책실장형사고발\"직권남용\"",
     "AI랠리가개인주식부호순위바꿨다",
     "SK디앤디대규모유상증자추진...상폐대신유동성극복나선다",
@@ -3654,10 +3654,14 @@
     "부품하나때문에라인이멈춘다,30년반도체현장이만든국산화의길...",
     "SG,조달청과아스콘MAS계약…관계사포함2727억원규모",
     "[2026프로야구삼진과홈런사이]LG,'천적'SSG넘고선두추격…8승1패...",
-    "\"SK아이이테크놀로지,2Q635억원적자…3Q도영업손전망\"-SK"
+    "\"SK아이이테크놀로지,2Q635억원적자…3Q도영업손전망\"-SK",
+    "SG,조달청과2727억원아스콘다수공급자계약체결",
+    "[증시키워드]삼성전자,외인지분율금융위기후최저⋯한화오션수주...",
+    "'코스피급등=반도체쏠림',변동성1/3이삼성전자·SK하이닉스",
+    "휘발유·경유오름폭꺾이자…물가석달만에2%대로내려와"
    ],
    "initialized": true,
-   "last_run": "2026-08-04T08:15:25.214548+09:00"
+   "last_run": "2026-08-04T08:20:27.839462+09:00"
   }
  },
  "press_names": {
