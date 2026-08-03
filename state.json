@@ -1361,7 +1361,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/industry/general-industry/6246480",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596863",
     "https://www.mt.co.kr/thebio/2026/08/02/2026080211523811411",
     "https://www.greened.kr/news/articleView.html?idxno=346597",
@@ -2860,10 +2859,10 @@
     "https://zdnet.co.kr/view/?no=20260803124550",
     "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95771",
     "http://www.medical-tribune.co.kr/news/articleView.html?idxno=214709",
-    "https://biz.newdaily.co.kr/site/data/html/2026/08/03/2026080300149.html"
+    "https://biz.newdaily.co.kr/site/data/html/2026/08/03/2026080300149.html",
+    "https://www.m-i.kr/news/articleView.html?idxno=1398194"
    ],
    "seen_titles": [
-    "정비구역부터통합심의까지…반포후발재건축'속도'",
     "블룸버그“롤러코스피에개미들정부비난하며시장떠난다”",
     "[Focus]ChairmanCheyTae-wonBuysKRW4.8BillionWorthofSKHynixSha",
     "AI가벌어준돈…배당늘리고자사주사고,삼성·SK'주주가치'높인다",
@@ -4362,10 +4361,11 @@
     "SKT,순천향대와교육현장에‘AI그림일기’제공",
     "[442.interview]'결국'김민재이적설종식됐다…뮌헨회장\"KIM,바이에...",
     "SK바사'스카이비전심포지엄'개최",
-    "르노코리아,필랑트첫해외수출…중남미공략본격화"
+    "르노코리아,필랑트첫해외수출…중남미공략본격화",
+    "생성형AI로문해력잡는다…SKT'AI그림일기'로초·중·고AI교육확..."
    ],
    "initialized": true,
-   "last_run": "2026-08-03T12:55:28.892120+09:00"
+   "last_run": "2026-08-03T13:00:38.774986+09:00"
   }
  },
  "press_names": {
