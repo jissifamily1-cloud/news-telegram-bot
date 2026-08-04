@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-04T07:20:36.582391+09:00",
-     "마라톤 공급절벽 7시간반 증시 선제 회의 불안"
-    ],
-    [
      "2026-08-04T07:35:21.078421+09:00",
      "KCA파트너스가 TNS 인수한다"
     ],
@@ -1186,13 +1182,17 @@
     [
      "2026-08-04T13:20:26.643387+09:00",
      "국산 정해졌는데 기준은 발주는 55GW 없다"
+    ],
+    [
+     "2026-08-04T13:24:38.588673+09:00",
+     "진짜 3조 두산엔 베팅 약일까 독일까 변수 SK실트론 인수의"
+    ],
+    [
+     "2026-08-04T13:24:38.588673+09:00",
+     "끓는데 하나요 절절 야구 전국이"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=2026080313420565143d7a510102_1",
-    "https://www.mk.co.kr/article/12115364",
-    "https://www.newsis.com/view/NISI20260803_0021386978",
-    "https://www.news1.kr/photos/8039260",
     "https://www.news1.kr/photos/8039253",
     "https://www.sedaily.com/article/20075226",
     "https://www.newscj.com/news/articleView.html?idxno=3422151",
@@ -2688,13 +2688,13 @@
     "https://news.tf.co.kr/read/economy/2350296.htm",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1719028",
     "https://www.sedaily.com/article/20075505",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=361241"
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=361241",
+    "http://www.inews24.com/view/1991529",
+    "http://www.metroseoul.co.kr/article/20260804500243",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1719035",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260804131858ACD"
    ],
    "seen_titles": [
-    "최태원SK㈜중간배당'세후100억'추산…'재산분할'재원마련해법될...",
-    "코스피,역대급폭등후5%반락…코스닥은2%대상승",
-    "'예탁금3천만'상향후단일레버리지거래10분의1로축소",
-    "SK㈜,중간배당실시…최태원회장'세후100억원'수령",
     "'적과의동침'선택한멜론…유튜브와손잡았다",
     "[단독]LG헬로비전,인터넷이용고객사유로인한AS출장비9월부터4...",
     "삼성물산,시공능력평가13년연속1위…GS건설'빅3'복귀...\"대우건설...",
@@ -4190,10 +4190,14 @@
     "단일종목레버리지'빗장'…코스피vs코스닥수혜시장은",
     "[EBN데이터센터]중소형증권주일제히강세...거래둔화우려속종목...",
     "삼성·SK하닉,‘한국판IRA’생산세액공제‘그림의떡’",
-    "55GW발주는정해졌는데'국산'기준은없다"
+    "55GW발주는정해졌는데'국산'기준은없다",
+    "삼성·SK·마이크론총출동…세계최대메모리축제빠진中CXMT",
+    "[특징주]SK이터닉스22%↑…태양광株,PPA·美공급망기대에강세",
+    "2.3조베팅,두산엔약일까독일까…SK실트론인수의진짜변수",
+    "[스포츠엔터]전국이'절절'끓는데…\"오늘야구하나요?\""
    ],
    "initialized": true,
-   "last_run": "2026-08-04T13:20:26.643387+09:00"
+   "last_run": "2026-08-04T13:24:38.588673+09:00"
   }
  },
  "press_names": {
