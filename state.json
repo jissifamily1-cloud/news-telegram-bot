@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-04T22:35:23.432621+09:00",
-     "기술협력 도약 글로벌 전문대 한미 무대"
-    ],
-    [
-     "2026-08-04T22:35:23.432621+09:00",
-     "내려 대로 울산 석달만에 물가상승률"
-    ],
-    [
-     "2026-08-04T22:35:23.432621+09:00",
-     "주력산업 경쟁 울산 대비해야 제조"
-    ],
-    [
-     "2026-08-04T22:35:23.432621+09:00",
-     "콘라트 드리볼하는 라이머"
-    ],
-    [
      "2026-08-04T22:45:28.829773+09:00",
      "설마 월가에 반토막날까 판돈 하루새 삼전닉스가 몰린다는데"
     ],
@@ -214,13 +198,21 @@
     [
      "2026-08-05T04:10:32.919256+09:00",
      "산단형 에너지 전국 태양광 햇빛소득 투자로 포항시 시민"
+    ],
+    [
+     "2026-08-05T04:35:27.560266+09:00",
+     "12년 완공 용인 앞당긴다 반도체"
+    ],
+    [
+     "2026-08-05T04:35:27.560266+09:00",
+     "대로 석달만에 소비자물가 7월"
+    ],
+    [
+     "2026-08-05T04:35:27.560266+09:00",
+     "서면 정부가 앞에 기업"
     ]
    ],
    "seen_urls": [
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628032",
-    "https://isplus.com/article/view/isp202608040071",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047691",
-    "https://www.eroun.net/news/articleView.html?idxno=86955",
     "https://www.viva100.com/article/20260804500700",
     "http://www.yonhapnewstv.co.kr/news/MYH20260804123418LGV",
     "https://www.newspim.com/news/view/20260804000787",
@@ -1716,13 +1708,13 @@
     "https://www.yna.co.kr/view/AKR20260805003600091?input=1195m",
     "http://www.yonhapnewstv.co.kr/news/AKR20260805041814ClI",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628703",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628704"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628704",
+    "https://www.donga.com/news/Economy/article/all/20260804/134421470/2",
+    "https://www.donga.com/news/Economy/article/all/20260804/134421729/2",
+    "https://www.donga.com/news/Economy/article/all/20260804/134421476/2",
+    "https://www.hankookilbo.com/news/article/A2026073022450000702?did=NA"
    ],
    "seen_titles": [
-    "Theysayit's100GBpermonth,butthegiftisonly2GB",
-    "'함께힘내자'올해상생기업은?…중기부,국민투표로뽑아요",
-    "대·중소기업상생기여한공로자찾는다…5일부터국민투표",
-    "7월소비자물가2.8%로석달만에2%대,최고가격제로상승률0.3%p낮춰",
     "[특징주]팬오션,외국인장중집중매수에13%대강세",
     "코스닥,5%대급등에매수사이드카발동…3거래일연속",
     "SKHynix,SanDiskRevealHBFStorageStandard",
@@ -3218,10 +3210,14 @@
     "\"韓,2031년까지'메모리최강'유지…엔비디아,HBM독점완화\"",
     "월가“SK하이닉스저평가”…ADR장중7%대급등",
     "월가증권사들“SK하이닉스저평가”…ADR주가급등세",
-    "“한국,2031년까지‘메모리최강’유지…엔비디아,HBM독점완화”"
+    "“한국,2031년까지‘메모리최강’유지…엔비디아,HBM독점완화”",
+    "SK하이닉스,美샌디스크와HBF첫표준규격공개",
+    "용인반도체팹완공7~12년앞당긴다",
+    "7월소비자물가,석달만에2%대로",
+    "정부가기업앞에서면[뉴스룸에서]"
    ],
    "initialized": true,
-   "last_run": "2026-08-05T04:30:40.857387+09:00"
+   "last_run": "2026-08-05T04:35:27.560266+09:00"
   }
  },
  "press_names": {
