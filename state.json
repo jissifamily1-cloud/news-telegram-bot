@@ -1314,24 +1314,29 @@
     [
      "2026-08-04T20:48:51.978815+09:00",
      "골문이 때까지 열릴"
+    ],
+    [
+     "2026-08-04T20:55:30.251220+09:00",
+     "비즈니스포스트 아침의 주요기사"
+    ],
+    [
+     "2026-08-04T20:55:30.251220+09:00",
+     "반도체특별법 유력 SK하이닉스 청주사업장 포함"
+    ],
+    [
+     "2026-08-04T20:55:30.251220+09:00",
+     "아소모 역전골 바스티안"
+    ],
+    [
+     "2026-08-04T20:55:30.251220+09:00",
+     "철강산단 태양광 에너지 산단형 전국 시동 포항시 햇빛소득"
+    ],
+    [
+     "2026-08-04T20:55:30.251220+09:00",
+     "기회 기술주 증권사 청산과 본토 레버리지 달라"
     ]
    ],
    "seen_urls": [
-    "https://www.munhwa.com/article/11607035",
-    "http://www.fnnews.com/news/202608041004290726",
-    "https://www.smartbizn.com/news/articleView.html?idxno=150246",
-    "https://www.ntoday.co.kr/news/articleView.html?idxno=128553",
-    "https://www.newsway.co.kr/news/view?ud=2026080409363051041",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7177332",
-    "https://www.nextdaily.co.kr/news/articleView.html?idxno=251885",
-    "https://biz.heraldcorp.com/article/10830000",
-    "https://www.the-stock.kr/news/articleView.html?idxno=33080",
-    "https://www.news1.kr/finance/market-exr/6248293",
-    "https://www.inthenews.co.kr/news/article.html?no=90121",
-    "https://www.cstimes.com/news/articleView.html?idxno=715641",
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=607253",
-    "https://www.gokorea.kr/news/articleView.html?idxno=874009",
-    "https://www.sedaily.com/article/20075413",
     "https://www.smarttoday.co.kr/ko-kr/articles/110068",
     "https://www.mediapen.com/news/view/1114138",
     "https://www.newscj.com/news/articleView.html?idxno=3422267",
@@ -2816,21 +2821,24 @@
     "https://www.khan.co.kr/article/202608042045015",
     "https://www.yna.co.kr/view/PYH20260804188500056?input=1196m",
     "https://www.yna.co.kr/view/PYH20260804188400056?input=1196m",
-    "http://www.stoo.com/article.php?aid=108112315362"
+    "http://www.stoo.com/article.php?aid=108112315362",
+    "http://www.stoo.com/article.php?aid=108112571296",
+    "http://www.stoo.com/article.php?aid=108112426942",
+    "http://www.stoo.com/article.php?aid=108112626721",
+    "http://www.osen.co.kr/article/G1112852146",
+    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95848",
+    "https://biz.heraldcorp.com/article/10830714",
+    "https://www.newsis.com/view/NISI20260804_0021388296",
+    "https://www.newsis.com/view/NISI20260804_0021388297",
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597025",
+    "https://www.newsis.com/view/NISI20260804_0021388295",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=443954",
+    "http://www.cctimes.kr/news/articleView.html?idxno=920170",
+    "https://www.newsis.com/view/NISI20260804_0021388294",
+    "https://www.ksmnews.co.kr/news/view.php?idx=616412",
+    "https://www.newsis.com/view/NISX20260804_0003736476"
    ],
    "seen_titles": [
-    "SK하이닉스,샌디스크와HBF첫표준규격공개···'FMS2026'서해법알...",
-    "AI데이터센터주강세...네이버·SK텔레콤·대한광통신10%대↑",
-    "\"여권모양너무예뻐\"1030女열광하더니…삼성'신기록'",
-    "SK하이닉스,AI메모리새기준제시…차세대'HBF'표준첫공개",
-    "나스닥2.13%상승…하닉ADR0.7%↓",
-    "'급등후유증'왔나...삼전·하닉동반약세에코스피6100선후퇴",
-    "상법개정후배당기업48%급증··상반기이재용개인배당금728억원...",
-    "[투데이증시]\"코스닥살아나나\"...반도체조정틈타바이오주강세",
-    "통신3사,'갤럭시Z8시리즈'개통시작…\"대화면폴드8인기\"",
-    "[오늘상장했어요]한화·우리·삼성·NH아문디운용,메모리반도체·피...",
-    "SKT,갤럭시Z폴드8·플립8오늘부터개통…2040세대사전예약65%차지",
-    "미증시훈풍에도갈피못잡는코스피…삼전·닉스3%대동반약세[투자...",
     "\"더작게,미세화\"넘어,\"어떻게쌓느냐\"가핵심",
     "SKT,'국가대표AI'독파모기대에10%급등[핫종목]",
     "통신3사,갤럭시Z폴드·플립8개통개시…폴더블역대급기록쓸까",
@@ -4318,10 +4326,22 @@
     "하이닉스,차세대메모리‘속도’…샌디스크와HBF첫표준공개",
     "양보는없다",
     "골문이열릴때까지",
-    "[ST포토]세르지우감독,작전지시"
+    "[ST포토]세르지우감독,작전지시",
+    "'김민재주장완장차고35분'뮌헨,제주SK에2-1앞선채전반종료",
+    "[ST포토]김민재,빠른교체",
+    "[ST포토]박수치는김민재",
+    "[사진]바이에른뮌헨과제주,'무더위뚫고친선전'",
+    "[442.live]'김민재뚫은아이아스환상도움'제주도저력있었다…뮌헨...",
+    "‘코스피17%급등도못믿어’빚부터갚는개미들…한달새빚투8조원...",
+    "역전골바스티안아소모",
+    "제주SK와바이에른뮌헨의친선전...\"치열한경기\"(포토)",
+    "[8월5일자]비즈니스포스트아침의주요기사",
+    "SK하이닉스청주사업장반도체특별법포함유력(?)",
+    "포항시,전국최초'산단형햇빛소득태양광'시동...철강산단에너지...",
+    "中증권사\"韓레버리지청산과달라…본토기술주기회\""
    ],
    "initialized": true,
-   "last_run": "2026-08-04T20:50:28.795172+09:00"
+   "last_run": "2026-08-04T20:55:30.251220+09:00"
   }
  },
  "press_names": {
