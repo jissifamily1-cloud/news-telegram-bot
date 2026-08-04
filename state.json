@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-05T01:20:29.259109+09:00",
-     "김민재 경쟁 국내서 이강인 주전 본게임"
-    ],
-    [
-     "2026-08-05T01:20:29.259109+09:00",
-     "어우두 이끄는 감독 가을야구 부활하나 김원형"
-    ],
-    [
      "2026-08-05T01:35:23.365092+09:00",
      "Soccer Sweden Champions League"
     ],
@@ -458,10 +450,13 @@
     [
      "2026-08-05T07:20:25.624064+09:00",
      "과잉 빅테크 이후 완화 잇단 호실적 우려 투자"
+    ],
+    [
+     "2026-08-05T07:25:22.304753+09:00",
+     "흑역사는 계속된다 공약이 민주당 전북관련 공수표"
     ]
    ],
    "seen_urls": [
-    "http://www.press9.kr/news/articleView.html?idxno=80586",
     "https://www.jejumaeil.net/news/articleView.html?idxno=403339",
     "https://www.hidomin.com/news/articleView.html?idxno=715889",
     "https://hbnpress.com/news/view/1065589374646897",
@@ -1960,10 +1955,10 @@
     "https://www.newspim.com/news/view/20260805000046",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02564966645544368",
     "http://weekly.chosun.com/news/articleView.html?idxno=54030",
-    "https://biz.sbs.co.kr/article_hub/20000326671?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000326671?division=NAVER",
+    "https://www.pressian.com/pages/articles/2026080503483053728"
    ],
    "seen_titles": [
-    "울산시,'울산시건축상'대상에고려아연'케이지안전교육센터'선정",
     "[서울데이터랩]코스피시총상위주약세우위…삼성전자4%대하락,한화...",
     "SK하이닉스,샌디스크와AI메모리신기술공개…HBF표준화첫발",
     "[특징주]SK텔레콤,AIDC얼라이언스참여소식에'강세'",
@@ -3462,10 +3457,11 @@
     "'한국산철벽'에2만관중열광했는데…'김민재인터뷰패싱'아쉬움",
     "[MUSTKNOW5]반도체는선별장세…AMD시간외급락·SK하이닉스는'러브콜...",
     "\"한국,투자부적합국가되고있다\"…블룸버그\"정부는뭘하는가\"",
-    "[마켓브리핑]빅테크AI과잉투자우려완화이후잇단호실적"
+    "[마켓브리핑]빅테크AI과잉투자우려완화이후잇단호실적",
+    "민주당전북관련공약이'공수표'가된흑역사는계속된다"
    ],
    "initialized": true,
-   "last_run": "2026-08-05T07:20:25.624064+09:00"
+   "last_run": "2026-08-05T07:25:22.304753+09:00"
   }
  },
  "press_names": {
