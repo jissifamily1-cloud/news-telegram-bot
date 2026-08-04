@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-04T06:15:27.807936+09:00",
-     "최고치인데 반도체 다우는 주가도 사상 웃을 한국"
-    ],
-    [
-     "2026-08-04T06:15:27.807936+09:00",
-     "말까 증시 급락 하루만에 도박장 증시전략은 8월 살까 개미"
-    ],
-    [
-     "2026-08-04T06:15:27.807936+09:00",
-     "반도체 집중 TOP2시리즈 됐다"
-    ],
-    [
      "2026-08-04T06:20:27.607133+09:00",
      "사전예방 이찬진표 소비자보호 56조 퇴색"
     ],
@@ -1334,15 +1322,17 @@
     [
      "2026-08-04T12:10:33.307826+09:00",
      "시총 글로벌 13위로 요동치는 삼성전자 10위 거품론에"
+    ],
+    [
+     "2026-08-04T12:15:31.584169+09:00",
+     "in security LG Pago buys first Networks Uplus"
+    ],
+    [
+     "2026-08-04T12:15:31.584169+09:00",
+     "레버리지에 팔아 반도체 채권 개미는 역베팅"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/market-exr/6247796",
-    "http://www.fnnews.com/news/202608031434024507",
-    "https://www.g-enews.com/view.php?ud=20260803154117918024debea800_1",
-    "https://www.hankyung.com/article/2026080322871",
-    "http://www.newsworker.co.kr/news/articleView.html?idxno=439410",
-    "http://www.newsworker.co.kr/news/articleView.html?idxno=439394",
     "https://www.jemin.com/news/articleView.html?idxno=841227",
     "https://news.tvchosun.com/site/data/html_dir/2026/08/03/2026080390195.html",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=607174",
@@ -2836,15 +2826,15 @@
     "https://www.bntnews.co.kr/article/view/bnt202608040121",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=274100",
     "https://www.sedaily.com/article/20075491",
-    "https://biz.chosun.com/stock/stock_general/2026/08/04/NOLHS5ULJZBZ7JM4CK4XNC2RT4/"
+    "https://biz.chosun.com/stock/stock_general/2026/08/04/NOLHS5ULJZBZ7JM4CK4XNC2RT4/",
+    "https://view.asiae.co.kr/article/2026080412113422594",
+    "https://www.newsis.com/view/NISX20260804_0003735650",
+    "https://www.tokenpost.kr/news/breaking/384740",
+    "https://www.onews.tv/news/articleView.html?idxno=284240",
+    "https://www.koreaherald.com/article/10830335",
+    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256861"
    ],
    "seen_titles": [
-    "SK하이닉스주주환원엇갈린전망···\"ADR로공개불가\"vs\"계획없다...",
-    "[기획]정유사실적개선일등공신'윤활기유'",
-    "연기금,7월1조원순매수…우려했던'매도폭탄'없었다",
-    "'환율조작국'압박하던미국,어쩌다시장개입나섰나",
-    "\"2030에돈쓰자\"…정청래,'李미래대응기금'활용비전제시",
-    "AI인프라고도화가속…정보통신공사무게중심도이동",
     "[부고종합·3일]박찬대인천광역시장모친상등",
     "멜론,유튜브프리미엄라이트결합…최대20%할인",
     "“입대전마지막사진찍자”아버지의마음으로선수셋을군으로보...",
@@ -4338,10 +4328,16 @@
     "코스닥,5%대급등에매수사이드카발동…3거래일연속",
     "SKHynix,SanDiskRevealHBFStorageStandard",
     "“韓,중국처럼투자부적합국가되고있어”…외신이내놓은섬뜩한...",
-    "AI거품론에요동치는글로벌시총…삼성전자10위→13위로‘뚝’"
+    "AI거품론에요동치는글로벌시총…삼성전자10위→13위로‘뚝’",
+    "코스피,장초반하락딛고횡보…삼전닉스하락세여전",
+    "울산이동경,K리그121RMVP…K리그220RMVP는화성플라나",
+    "삼성·SK하이닉스연계레버리지ETF거래급감",
+    "SK하이닉스,샌디스크와HBF첫표준공개",
+    "LGUplusbuysPagoNetworksinfirstsecurityM&A",
+    "[7월ETF결산]㊦개미는반도체레버리지에'역베팅'···채권팔아위..."
    ],
    "initialized": true,
-   "last_run": "2026-08-04T12:10:33.307826+09:00"
+   "last_run": "2026-08-04T12:15:31.584169+09:00"
   }
  },
  "press_names": {
