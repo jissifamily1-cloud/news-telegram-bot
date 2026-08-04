@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-05T00:55:21.280946+09:00",
-     "상승 최고 SK하이닉스 호평에 증권가 ADR 목표가"
-    ],
-    [
      "2026-08-05T01:20:29.259109+09:00",
      "김민재 경쟁 국내서 이강인 주전 본게임"
     ],
@@ -390,13 +386,17 @@
     [
      "2026-08-05T06:55:20.324011+09:00",
      "2차 구조란 임박 평가 독파모 전문가 혼합"
+    ],
+    [
+     "2026-08-05T07:00:39.696278+09:00",
+     "낮추는 코스피 머쓱한 증권사들 1만피 전망치"
+    ],
+    [
+     "2026-08-05T07:00:39.696278+09:00",
+     "1만번의 선택서 버틸까 조언 생존한 말까 펀드매니저의"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04752726645544040",
-    "http://www.finomy.com/news/articleView.html?idxno=258544",
-    "https://www.sisajournal.com/news/articleView.html?idxno=382262",
-    "https://www.seoul.co.kr/news/economy/securities/2026/08/04/20260804500135?wlog_tag3=naver",
     "https://news.tf.co.kr/read/economy/2350340.htm",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689725",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474232",
@@ -1892,13 +1892,13 @@
     "https://www.bntnews.co.kr/article/view/bnt202608050009",
     "https://www.lecturernews.com/news/articleView.html?idxno=207783",
     "https://www.mk.co.kr/article/12117226",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628735"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628735",
+    "https://www.slist.kr/news/articleView.html?idxno=756521",
+    "http://www.beyondpost.co.kr/view.php?ud=2026080506503115152aaae0046f_30",
+    "https://view.asiae.co.kr/article/2026080411252818446",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4428625"
    ],
    "seen_titles": [
-    "[이슈+]SK실트론7개월협상마침표…두산'굿딜'평가받는이유",
-    "코스피,삼성·SK급락에도“9000간다”전망",
-    "\"내계좌에무슨일이\"...이달말'판도라상자'열린다",
-    "\"케인·올리세없다던데...\"제주가뮌헨잡는이변가능할까?",
     "HBM다음은HBF…SK하이닉스,샌디스크와AI메모리새표준띄운다",
     "SK하이닉스,HBM빈틈메울새AI메모리공개",
     "[영상]SK하이닉스,샌디스크와HBF첫표준규격발표",
@@ -3394,10 +3394,14 @@
     "뉴욕증시,다우·S&P500사상최고치",
     "서울시평생교육진흥원,'2026서울미래학습포럼'개최…AI시대평생학습...",
     "“HBM다음은이거다”…SK하이닉스가선점하려는미래먹거리는",
-    "독파모2차평가임박…전문가혼합구조란?"
+    "독파모2차평가임박…전문가혼합구조란?",
+    "김민재주장완장…바이에른뮌헨,제주SK2-1제압",
+    "\"삼전닉스,2031년까지메모리최강유지할것\"...시장조사기관욜그룹...",
+    "머쓱한1만피…코스피전망치낮추는증권사들",
+    "'버틸까말까'…1만번의선택서생존한펀드매니저의조언"
    ],
    "initialized": true,
-   "last_run": "2026-08-05T06:55:20.324011+09:00"
+   "last_run": "2026-08-05T07:00:39.696278+09:00"
   }
  },
  "press_names": {
