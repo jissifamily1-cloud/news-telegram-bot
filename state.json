@@ -1161,9 +1161,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608041030306900678",
-    "https://www.dizzotv.com/site/data/html_dir/2026/08/04/2026080480057.html",
-    "http://www.metroseoul.co.kr/article/20260804500114",
     "https://www.joongang.co.kr/article/25450647",
     "https://www.seoultimes.news/news/article.html?no=2000098458",
     "https://www.housingherald.co.kr/news/articleView.html?idxno=62480",
@@ -2660,12 +2657,12 @@
     "https://www.newsis.com/view/NISI20260804_0021388346",
     "https://www.newsis.com/view/NISI20260804_0021388347",
     "https://www.newsis.com/view/NISI20260804_0021388343",
-    "https://www.newsis.com/view/NISI20260804_0021388349"
+    "https://www.newsis.com/view/NISI20260804_0021388349",
+    "http://www.osen.co.kr/article/G1112852194",
+    "http://www.stoo.com/article.php?aid=108114414908",
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=361263"
    ],
    "seen_titles": [
-    "서산시,지속가능항공유산업생태계조성속도",
-    "SKT,갤럭시Z8시리즈개통시작…2040고객몰렸다",
-    "이틀연속미끌…삼성전자·SK하이닉스4%대동반하락[특징주]",
     "한화운용,PLUSSK하이닉스샌디스크채권혼합50ETF신규상장",
     "[특징주]SK이터닉스,태양광주랠리주도…PPA·미국공급망재편기대...",
     "개정상법시행후상반기배당기업48%↑...개인배당금1위이재용",
@@ -4162,10 +4159,13 @@
     "제주SK격려하는위성곤지사",
     "박민재프리킥",
     "돌파하는팀빈더",
-    "응원가부르는바이에른팬"
+    "응원가부르는바이에른팬",
+    "[사진]벤치에서제주와친선전지켜보는뮌헨김민재와이토",
+    "[ST포토]아리존이브라히모비치,조금만빨랐어도",
+    "마이크론D램점유율,SK하이닉스턱밑추격"
    ],
    "initialized": true,
-   "last_run": "2026-08-04T21:45:29.029149+09:00"
+   "last_run": "2026-08-04T21:50:30.659173+09:00"
   }
  },
  "press_names": {
