@@ -1346,16 +1346,29 @@
     [
      "2026-08-04T18:05:21.893775+09:00",
      "스포츠 8월 27개 개최 제주서 대회"
+    ],
+    [
+     "2026-08-04T18:10:29.394810+09:00",
+     "광주FC 젊은 문민서 빛낸 7월"
+    ],
+    [
+     "2026-08-04T18:10:29.394810+09:00",
+     "투자 반도체 불식 간담회 축소 우려 용인서 11일"
+    ],
+    [
+     "2026-08-04T18:10:29.394810+09:00",
+     "넷플릭스와 콘텐츠 혜택 운영 강화 프로모션 8월까지 SKT"
+    ],
+    [
+     "2026-08-04T18:10:29.394810+09:00",
+     "외국인 투자 움직임 리밸런싱 금통위원들 진단 요인 환율"
+    ],
+    [
+     "2026-08-04T18:10:29.394810+09:00",
+     "투자 반도체로 맞았다 ETF 급락장에 몰리더니 역풍"
     ]
    ],
    "seen_urls": [
-    "http://www.econonews.co.kr/news/articleView.html?idxno=442302",
-    "https://www.seoul.co.kr/news/economy/securities/2026/08/04/20260804500027?wlog_tag3=naver",
-    "https://www.viewsnnews.com/article?q=237650",
-    "https://www.ftimes.kr/news/articleView.html?idxno=38841",
-    "https://news.bizwatch.co.kr/article/industry/2026/08/04/0004",
-    "http://www.newscape.co.kr/news/articleView.html?idxno=123724",
-    "https://www.hankyung.com/article/2026080432456",
     "https://www.ilovepc.co.kr/news/articleView.html?idxno=60206",
     "https://www.segye.com/newsView/20260804505733?OutUrl=naver",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260804.99099000671",
@@ -2848,16 +2861,16 @@
     "https://www.sedaily.com/article/20075691",
     "http://www.jndn.com/article.php?aid=1785833999437251003",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000000833&cp=nv",
-    "http://www.samdailbo.com/news/articleView.html?idxno=268537"
+    "http://www.samdailbo.com/news/articleView.html?idxno=268537",
+    "https://biz.sbs.co.kr/article_hub/20000326615?division=NAVER",
+    "https://www.gokorea.kr/news/articleView.html?idxno=874103",
+    "http://www.kjdaily.com/article.php?aid=1785834258683801007",
+    "https://www.sedaily.com/article/20075704",
+    "http://www.srtimes.kr/news/articleView.html?idxno=209033",
+    "https://www.sidae.com/article/2026080416215259836",
+    "https://www.sedaily.com/article/20075700"
    ],
    "seen_titles": [
-    "롯데온,﻿SK-II'크라이베이비'피테라에센스기프트세트선출시",
-    "이통3사,갤럭시Z시리즈개통시작…폴드8선택집중",
-    "[서울데이터랩]코스피,장초반6337.15로반등…반도체강세에1.27%상...",
-    "코스피,美주가상승에개장초6,300회복",
-    "김민재이적설직접종결\"바이에른뮌헨에남겠다\"…주전경쟁정면돌...",
-    "'HBM넘어HBF시대'…SK하이닉스,AI메모리표준선점나섰다",
-    "SK하이닉스,차세대스토리지기술'HBF'첫표준공개",
     "코스피,유가·금리하락에강세출발…코스닥도3%대↑",
     "[디지털포스트모닝픽]\"CXMT,베이징에메모리공장검토\"",
     "단일종목레버리지ETF가뭐길래?[더나은경제,SDGs]",
@@ -4350,10 +4363,17 @@
     "기관끌자볕드는코스닥…역대첫3연속매수사이드카",
     "호남반도체산단,‘설계-관리계획’동시수립추진",
     "‘中독점’ESS용LFP시장…K배터리,북미타고반격모드",
-    "8월제주서27개스포츠대회개최"
+    "8월제주서27개스포츠대회개최",
+    "삼전닉스막판반등…'전약후강'코스피6300선안착",
+    "삼성전자글로벌시총13위로밀려…AI거품론에고점대비40%급락",
+    "광주FC문민서,7월빛낸‘젊은별’",
+    "與,11일용인서반도체간담회…“투자축소우려불식”",
+    "SKT,넷플릭스와콘텐츠혜택강화…8월까지프로모션운영",
+    "금통위원들\"환율움직임,외국인투자리밸런싱요인\"진단",
+    "ETF투자반도체로몰리더니…급락장에역풍맞았다"
    ],
    "initialized": true,
-   "last_run": "2026-08-04T18:05:21.893775+09:00"
+   "last_run": "2026-08-04T18:10:29.394810+09:00"
   }
  },
  "press_names": {
