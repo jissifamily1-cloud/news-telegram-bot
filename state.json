@@ -178,11 +178,13 @@
     [
      "2026-08-05T04:45:29.991622+09:00",
      "SK하이닉스 열풍 수요 확대에 주가 매수 월가 인공지능 급등 주식"
+    ],
+    [
+     "2026-08-05T04:50:29.156132+09:00",
+     "캐터필러 동반 하이닉스 팔란티어 반도체 폭등 훈풍에"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH20260804123418LGV",
-    "https://www.newspim.com/news/view/20260804000787",
     "https://www.econotimes.com/SK-Hynix-Bonus-Dispute-Deepens-as-Union-Rejects-Stock-Based-Payout-Proposal-1748520",
     "https://www.econotimes.com/Asian-Stocks-Rise-as-AI-Optimism-Returns-Australia-Hits-Record-High-Ahead-of-RBI-Decision-1748516",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=363039",
@@ -1680,11 +1682,11 @@
     "https://www.donga.com/news/Economy/article/all/20260804/134421729/2",
     "https://www.donga.com/news/Economy/article/all/20260804/134421476/2",
     "https://www.hankookilbo.com/news/article/A2026073022450000702?did=NA",
-    "https://www.tokenpost.kr/news/market/385301"
+    "https://www.tokenpost.kr/news/market/385301",
+    "https://www.sportschosun.com/football/2026-08-04/202608040100025810001580",
+    "https://www.mediapen.com/news/view/1114320"
    ],
    "seen_titles": [
-    "코스닥,5%대급등에매수사이드카발동…3거래일연속",
-    "SKHynix,SanDiskRevealHBFStorageStandard",
     "“韓,중국처럼투자부적합국가되고있어”…외신이내놓은섬뜩한...",
     "AI거품론에요동치는글로벌시총…삼성전자10위→13위로‘뚝’",
     "코스피,장초반하락딛고횡보…삼전닉스하락세여전",
@@ -3182,10 +3184,12 @@
     "용인반도체팹완공7~12년앞당긴다",
     "7월소비자물가,석달만에2%대로",
     "정부가기업앞에서면[뉴스룸에서]",
-    "월가,SK하이닉스주식매수열풍...인공지능수요확대에주가급등"
+    "월가,SK하이닉스주식매수열풍...인공지능수요확대에주가급등",
+    "패배가아닌성장의발판,바이에른뮌헨전의미가남달랐던코스타감...",
+    "[美증시]반도체,팔란티어·캐터필러훈풍에동반폭등…하이닉스·마..."
    ],
    "initialized": true,
-   "last_run": "2026-08-05T04:45:29.991622+09:00"
+   "last_run": "2026-08-05T04:50:29.156132+09:00"
   }
  },
  "press_names": {
