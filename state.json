@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-04T22:55:29.469635+09:00",
-     "모트렉스 SK오션플랜트 한화에어로스페이스 한화오션"
-    ],
-    [
-     "2026-08-04T22:55:29.469635+09:00",
-     "호르무즈 미국증시 엔비디아 재개방 반도체주 상승 강세 기대에"
-    ],
-    [
-     "2026-08-04T23:00:43.861545+09:00",
-     "최강 축구 2만 독일 만끽 뮌헨 무더위 제주SK에"
-    ],
-    [
      "2026-08-04T23:10:31.220687+09:00",
      "가족에게 먹인 김민재에게 아이아스 쓰던 기술 유럽에서도 사포 연락"
     ],
@@ -186,11 +174,13 @@
     [
      "2026-08-05T04:55:22.184523+09:00",
      "SK실트론을 팔았지 최태원 제국 회장은 반도체"
+    ],
+    [
+     "2026-08-05T05:00:49.187141+09:00",
+     "폭등 SK하이닉스 마이크론 반도체ETF 막판 껑충 뉴욕증시"
     ]
    ],
    "seen_urls": [
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=363039",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4428495",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4428507",
     "https://www.hani.co.kr/arti/sports/soccer/1271293.html",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=316000",
@@ -1688,11 +1678,11 @@
     "https://www.sportschosun.com/football/2026-08-04/202608040100025810001580",
     "https://www.mediapen.com/news/view/1114320",
     "https://www.news2day.co.kr/article/20260805500003",
-    "https://www.ilemonde.com/news/articleView.html?idxno=30455"
+    "https://www.ilemonde.com/news/articleView.html?idxno=30455",
+    "https://view.asiae.co.kr/article/2026080504552297135",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=169329"
    ],
    "seen_titles": [
-    "코스피,장초반하락딛고횡보…삼전닉스하락세여전",
-    "울산이동경,K리그121RMVP…K리그220RMVP는화성플라나",
     "삼성·SK하이닉스연계레버리지ETF거래급감",
     "SK하이닉스,샌디스크와HBF첫표준공개",
     "LGUplusbuysPagoNetworksinfirstsecurityM&A",
@@ -3190,10 +3180,12 @@
     "패배가아닌성장의발판,바이에른뮌헨전의미가남달랐던코스타감...",
     "[美증시]반도체,팔란티어·캐터필러훈풍에동반폭등…하이닉스·마...",
     "[N2뷰]코스피,레버리지충격잦아들었지만…반등열쇠는‘신뢰회복...",
-    "반도체제국최태원회장은왜SK실트론을팔았지?"
+    "반도체제국최태원회장은왜SK실트론을팔았지?",
+    "월가\"SK하이닉스매수·비중확대\"…ADR7.9%↑",
+    "뉴욕증시막판...반도체ETF'폭등',마이크론·SK하이닉스'껑충'"
    ],
    "initialized": true,
-   "last_run": "2026-08-05T04:55:22.184523+09:00"
+   "last_run": "2026-08-05T05:00:49.187141+09:00"
   }
  },
  "press_names": {
