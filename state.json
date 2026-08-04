@@ -1313,9 +1313,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/PYH20260803169500056?input=1196m",
-    "https://www.yna.co.kr/view/PYH20260803170000056?input=1196m",
-    "https://www.yna.co.kr/view/PYH20260803169900056?input=1196m",
     "https://www.yna.co.kr/view/PYH20260803169700056?input=1196m",
     "https://www.yna.co.kr/view/PYH20260803170200056?input=1196m",
     "https://www.yna.co.kr/view/PYH20260803170300056?input=1196m",
@@ -2812,12 +2809,12 @@
     "https://www.mk.co.kr/article/12116208",
     "http://www.footballist.co.kr/news/articleView.html?idxno=213082",
     "https://imnews.imbc.com/replay/2026/nw1200/article/6842282_36967.html",
-    "http://www.wsobi.com/news/articleView.html?idxno=316131"
+    "http://www.wsobi.com/news/articleView.html?idxno=316131",
+    "https://www.starnewskorea.com/sports/2026/08/04/2026080411413148092",
+    "http://www.newsprime.co.kr/news/article.html?no=742611",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628032"
    ],
    "seen_titles": [
-    "[기획]BNK·하나증권,SK하이닉스주가하락'족집게'예측화제",
-    "'예탁금3천만'이틀만에단일레버리지거래대금10분의1로축소",
-    "[데일리픽]클래리티법,오는7일이분수령…아이폰18프로,최대300달러...",
     "[줌인]달릴때도배울때도…일상깊숙이침투한SKT의선택과집중",
     "레버리지ETF,알고보니주가폭락테스트없이출시됐다",
     "나신평,SK실트론신용등급'하향검토'…두산매각영향반영",
@@ -4314,10 +4311,13 @@
     "레버리지때문에…韓,中따라‘투자부적합’국가될수도",
     "[공식발표]역전승주역'안양전멀티골'이동경,K리그121라운드MVP…...",
     "코스피'주춤'·코스닥'질주'‥반도체동반하락",
-    "삼성전자-SKT,냉난방통합솔루션선보여…AI에듀테크설루션'AI그림..."
+    "삼성전자-SKT,냉난방통합솔루션선보여…AI에듀테크설루션'AI그림...",
+    "'멀티골작렬'이동경,K리그121라운드MVP선정...'4골폭발'플라나...",
+    "[카드]SK하이닉스,샌디스크와HBF첫표준규격공개",
+    "7월물가2.8%,석달만에2%대…석유·농축수산물상승둔화"
    ],
    "initialized": true,
-   "last_run": "2026-08-04T12:25:26.399486+09:00"
+   "last_run": "2026-08-04T12:30:34.951090+09:00"
   }
  },
  "press_names": {
