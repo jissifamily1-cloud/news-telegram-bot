@@ -1209,16 +1209,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=443861",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608040429&t=NN",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=271048",
-    "https://zdnet.co.kr/view/?no=20260804100818",
-    "https://www.asiatime.co.kr/article/20260804500038",
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=238317",
-    "http://www.metroseoul.co.kr/article/20260804500096",
-    "https://www.news2day.co.kr/article/20260804500077",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=443865",
-    "https://www.news1.kr/economy/trend/6248347",
     "https://www.businesspost.co.kr/BP?command=article_view&num=443867",
     "https://www.ziksir.com/news/articleView.html?idxno=142069",
     "https://www.todaykorea.co.kr/news/articleView.html?idxno=404534",
@@ -2708,19 +2698,19 @@
     "http://www.osen.co.kr/article/G1112852173",
     "http://www.osen.co.kr/article/G1112852172",
     "https://view.asiae.co.kr/article/2026080421222568059",
-    "https://www.news1.kr/photos/8041265"
+    "https://www.news1.kr/photos/8041265",
+    "https://www.xportsnews.com/article/2180084",
+    "https://www.xportsnews.com/article/2180082",
+    "https://www.xportsnews.com/article/2180081",
+    "https://www.xportsnews.com/article/2180083",
+    "https://www.xportsnews.com/article/2180085",
+    "http://www.stoo.com/article.php?aid=108113693619",
+    "https://www.tokenpost.kr/news/market/385110",
+    "https://www.mk.co.kr/article/12116856",
+    "https://www.etoday.co.kr/news/view/2611018",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=442336"
    ],
    "seen_titles": [
-    "코스피,대형주차익실현에하락전환…코스닥은3%상승[장중시황]",
-    "개인배당금1위이재용…상법개정후배당48%↑",
-    "SK하이닉스,‘차세대낸드’시장도선점...HBF표준내놨다.",
-    "상법개정이후배당늘었다...이재용,개인배당728억1위차지",
-    "SK하이닉스,무디스신용등급사상첫'A'진입…'Baa1'→'A3'상향",
-    "美AWS훈풍덮은中CXMT공포…반도체주약세[칩칩폭폭]",
-    "코스피,상승출발후약세전환...1%대하락",
-    "[기자수첩]금융당국늑장대응,투자자는'곡소리'",
-    "\"미래하늘길연료,서산에서만든다\",223억투입'지속가능항공유(SAF...",
-    "'현금67조'SK하이닉스,국제신용평가첫A등급획득...SK그룹편입이...",
     "금시세(금값)4일",
     "건설사시평액높다고실적도좋을까···상위10개사성적표뜯어보니",
     "개방형국산AI출격…국가대표4사4색전략은",
@@ -4210,10 +4200,20 @@
     "[사진]전반전에교체되는뮌헨김민재",
     "[사진]손맞잡는뮌헨김민재와콤파니감독",
     "\"삼전닉스,하루새반토막날수도\"…월가판돈몰린다는데",
-    "크로스시도하는팀빈더"
+    "크로스시도하는팀빈더",
+    "요나탄타‘사이드로’[포토]",
+    "키미히‘후반교체투입’[포토]",
+    "키미히‘득점하러가보자’[포토]",
+    "요나탄타‘빌드업시작’[포토]",
+    "키미히‘반대로’[포토]",
+    "[ST포토]김민재와교체된팀빈더",
+    "삼성전자·SK하이닉스,변동성후강보합마감…외국인매매양극화",
+    "IMM크레딧,하나마이크론EB1000억인수",
+    "변동성커진증시⋯거래소,파생상품증거금률줄줄이인상",
+    "코스피,개인매수에6300선회복...LG에너지솔루션,삼성바이오로직스..."
    ],
    "initialized": true,
-   "last_run": "2026-08-04T21:30:41.494064+09:00"
+   "last_run": "2026-08-04T21:35:22.315617+09:00"
   }
  },
  "press_names": {
