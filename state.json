@@ -322,14 +322,25 @@
     [
      "2026-08-05T06:30:35.859604+09:00",
      "80달러 밑으로 최고치 2달만에 P500지수 유가 경신"
+    ],
+    [
+     "2026-08-05T06:35:22.672845+09:00",
+     "메가프로젝트 속도전 제조 산업부"
+    ],
+    [
+     "2026-08-05T06:35:22.672845+09:00",
+     "서학개미 베팅 13억달 국장 SOXL에 흔들릴수록 커지는"
+    ],
+    [
+     "2026-08-05T06:35:22.672845+09:00",
+     "믿을 흔들려도 결국 삼성전자 주가 실적 바뀐 체질"
+    ],
+    [
+     "2026-08-05T06:35:22.672845+09:00",
+     "서프라이즈 AMD 실적 데이터센터 수요에"
     ]
    ],
    "seen_urls": [
-    "https://www.hidomin.com/news/articleView.html?idxno=715871",
-    "https://www.raonnews.com/news/article.html?no=60042",
-    "https://www.ajunews.com/view/20260804132525218",
-    "https://biz.heraldcorp.com/article/10830392",
-    "https://www.dailian.co.kr/news/view/1674299/?sc=Naver",
     "https://www.kbsm.net/news/view.php?idx=529110",
     "https://www.sedaily.com/article/20075517",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=356925",
@@ -1824,14 +1835,14 @@
     "https://www.mk.co.kr/article/12117177",
     "https://www.ccreview.co.kr/news/articleView.html?idxno=354355",
     "https://www.womennews.co.kr/news/articleView.html?idxno=280657",
-    "https://www.yna.co.kr/view/AKR20260805005051072?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260805005051072?input=1195m",
+    "https://www.ziksir.com/news/articleView.html?idxno=142166",
+    "https://www.labortoday.co.kr/news/articleView.html?idxno=236069",
+    "http://www.metroseoul.co.kr/article/20260805500003",
+    "https://view.asiae.co.kr/article/2026080414003516777",
+    "https://biz.sbs.co.kr/article_hub/20000326664?division=NAVER"
    ],
    "seen_titles": [
-    "반도체클러스터기반시설비최대100%지원추진",
-    "SK하이닉스,HBM이어'HBF(고대역폭낸드플래시)'도선점…샌디스크와...",
-    "\"AI못하면승진∙취업불가\"…삼성·SK·LG,인사기준에AI역량반영",
-    "[특징주]'독파모'2차평가본격돌입에관련주'급등'…SK텔레콤10%↑",
-    "무디스,SK하이닉스신용등급첫A등급대로상향",
     "법인세중간예납시작…반도체초과세수윤곽나온다",
     "“세금내고말지”...코스피약세에RIA출시이후첫월간순유출",
     "한화자산운용,HBM·낸드함께담았다…AI메모리투자ETF선보여",
@@ -3326,10 +3337,15 @@
     "AI메모리승부수…삼성‘통합’vsSK‘개방형’",
     "이차전지'전국1위'충북,2년만에반토막",
     "뉴욕증시반도체강세에급등...다우존스·S&P500사상최고",
-    "美S&P500지수2달만에최고치경신…유가80달러밑으로(종합)"
+    "美S&P500지수2달만에최고치경신…유가80달러밑으로(종합)",
+    "호르무즈훈풍·AI실적호조…S&P·다우사상최고치",
+    "산업부,메가프로젝트·제조AI전환속도전",
+    "[해외주식Click]국장흔들릴수록커지는베팅…서학개미,SOXL에13억달...",
+    "[이주의관.종]체질바뀐삼성전자…주가흔들려도믿을건결국실적",
+    "[외신헤드라인]AMD,데이터센터수요에실적'서프라이즈"
    ],
    "initialized": true,
-   "last_run": "2026-08-05T06:30:35.859604+09:00"
+   "last_run": "2026-08-05T06:35:22.672845+09:00"
   }
  },
  "press_names": {
