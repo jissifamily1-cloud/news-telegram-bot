@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-04T06:25:26.327043+09:00",
-     "최저 삼성전자 지분율 금융위기 외국인 엑소더스 이후"
-    ],
-    [
-     "2026-08-04T06:25:26.327043+09:00",
-     "소방공사 1위 삼성물산"
-    ],
-    [
-     "2026-08-04T06:25:26.327043+09:00",
-     "상향 서버 빅테크 성장률 출하 CapEx 폭증"
-    ],
-    [
-     "2026-08-04T06:25:26.327043+09:00",
-     "거래대금 10로 롤러코스피 급감 8월에도"
-    ],
-    [
      "2026-08-04T06:30:35.822608+09:00",
      "배터리 나트륨 부른 한국도 안전기준 표준화 강화가 참여해야 시대"
     ],
@@ -1322,15 +1306,13 @@
     [
      "2026-08-04T12:15:31.584169+09:00",
      "레버리지에 팔아 반도체 채권 개미는 역베팅"
+    ],
+    [
+     "2026-08-04T12:25:26.399486+09:00",
+     "통합 설루션 솔루션 SKT 선보여 그림 삼성전자 에듀테크 냉난방"
     ]
    ],
    "seen_urls": [
-    "https://magazine.hankyung.com/money/article/202608032348c",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=443825",
-    "https://www.newsis.com/view/NISX20260803_0003734205",
-    "https://www.yna.co.kr/view/PYH20260803170500056?input=1196m",
-    "https://www.yna.co.kr/view/PYH20260803170400056?input=1196m",
-    "https://www.ekn.kr/web/view.php?key=20260803023069086",
     "https://www.yna.co.kr/view/PYH20260803169500056?input=1196m",
     "https://www.yna.co.kr/view/PYH20260803170000056?input=1196m",
     "https://www.yna.co.kr/view/PYH20260803169900056?input=1196m",
@@ -2824,15 +2806,15 @@
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256861",
     "https://sports.khan.co.kr/article/202608041218003?pt=nv",
     "https://www.mydaily.co.kr/page/view/2026080412120974643",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=739030"
+    "https://www.polinews.co.kr/news/articleView.html?idxno=739030",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=725587",
+    "https://www.wikitree.co.kr/articles/1150309",
+    "https://www.mk.co.kr/article/12116208",
+    "http://www.footballist.co.kr/news/articleView.html?idxno=213082",
+    "https://imnews.imbc.com/replay/2026/nw1200/article/6842282_36967.html",
+    "http://www.wsobi.com/news/articleView.html?idxno=316131"
    ],
    "seen_titles": [
-    "[로짓에서]실리콘단두대에잘려나간레오폴드초지능망상",
-    "[DD퇴근길]“GPU부족걱정말라”…정부,해남에토큰공장첫삽",
-    "‘꿈의배터리’대량생산첫걸음…SK온·팩토리얼MOU체결",
-    "폭등후미끄러진코스피…반도체차익실현에5%대↓'6200선'",
-    "SKT,올해번호이동16만명순증해통신3사중1위…KT23만명순감",
-    "[오늘의증시]코스피5%급락,코스닥은2%반등…반도체차익실현에'엇...",
     "[기획]BNK·하나증권,SK하이닉스주가하락'족집게'예측화제",
     "'예탁금3천만'이틀만에단일레버리지거래대금10분의1로축소",
     "[데일리픽]클래리티법,오는7일이분수령…아이폰18프로,최대300달러...",
@@ -4326,10 +4308,16 @@
     "[7월ETF결산]㊦개미는반도체레버리지에'역베팅'···채권팔아위...",
     "‘멀티골’이동경,K리그121RMVP선정",
     "블룸버그“韓증시‘투자부적합’국가…정부정책이시장에오명”",
-    "[이슈]코스피22%급락에도원화강세…증시·환율'디커플링'현상뚜..."
+    "[이슈]코스피22%급락에도원화강세…증시·환율'디커플링'현상뚜...",
+    "삼성·하닉HBM쏠린사이…中·日'차세대틈새'경쟁",
+    "포항시,투자·수익공유하는‘산단형햇빛소득태양광사업'추진",
+    "레버리지때문에…韓,中따라‘투자부적합’국가될수도",
+    "[공식발표]역전승주역'안양전멀티골'이동경,K리그121라운드MVP…...",
+    "코스피'주춤'·코스닥'질주'‥반도체동반하락",
+    "삼성전자-SKT,냉난방통합솔루션선보여…AI에듀테크설루션'AI그림..."
    ],
    "initialized": true,
-   "last_run": "2026-08-04T12:20:31.635775+09:00"
+   "last_run": "2026-08-04T12:25:26.399486+09:00"
   }
  },
  "press_names": {
