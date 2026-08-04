@@ -486,12 +486,21 @@
     [
      "2026-08-05T01:35:23.365092+09:00",
      "Soccer Sweden Champions League"
+    ],
+    [
+     "2026-08-05T01:40:26.978646+09:00",
+     "김민재 방어 철벽"
+    ],
+    [
+     "2026-08-05T01:40:26.978646+09:00",
+     "SK하이닉스 상장 증권사들 긍정적 상승중 투자의견에"
+    ],
+    [
+     "2026-08-05T01:40:26.978646+09:00",
+     "하이닉스가 채용 종말 쏘아올린 스펙"
     ]
    ],
    "seen_urls": [
-    "https://www.khan.co.kr/article/202608041201001",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092167247",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092167236",
     "https://www.mt.co.kr/economy/2026/08/04/2026080410102151245",
     "https://www.news1.kr/industry/sb-founded/6248136",
     "https://www.businesspost.co.kr/BP?command=article_view&num=443880",
@@ -1988,12 +1997,12 @@
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553432666",
     "https://www.sportschosun.com/football/2026-08-04/202608040100025760001577",
     "https://www.tokenpost.kr/news/market/385246",
-    "https://n.news.naver.com/mnews/article/077/0007113978"
+    "https://n.news.naver.com/mnews/article/077/0007113978",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1785861268&code=12210000&cp=nv",
+    "https://www.news1.kr/world/usa-canada/6249274",
+    "https://www.newsverse.kr/news/articleView.html?idxno=11086"
    ],
    "seen_titles": [
-    "SK하이닉스·샌디스크,세계첫HBF표준공개…\"메모리새계층연다\"",
-    "기관매도에코스피혼조세...코스닥매수사이드카",
-    "상위1%초고수,두산에너빌리티사고삼성전자팔았다[주식초고수는...",
     "외신들이바라본코스피\"수급구조가망가진시장\"...투자심리붕괴",
     "'미친날씨에오히려펄펄'김천상무의유쾌한반전…개막9경기무승...",
     "단일종목레버리지,홍콩식'가변배율'도입되나…시장안정·투자자보...",
@@ -3490,10 +3499,13 @@
     "[현장목소리]\"제주SK,전세계에퍼뜨리고파\"..'유럽전통강호'뮌헨...",
     "'캡틴'김민재아꼈다!35분출전은콤파니의배려...\"체력부담고려해...",
     "단일종목레버리지ETF규제,코스피거래대금급감",
-    "SwedenChampionsLeagueSoccer"
+    "SwedenChampionsLeagueSoccer",
+    "[포토]철벽방어김민재",
+    "美상장SK하이닉스,증권사들긍정적투자의견에6%상승중",
+    "[오늘의경제뉴스]하이닉스가쏘아올린공...'스펙채용'의종말,'실..."
    ],
    "initialized": true,
-   "last_run": "2026-08-05T01:35:23.365092+09:00"
+   "last_run": "2026-08-05T01:40:26.978646+09:00"
   }
  },
  "press_names": {
