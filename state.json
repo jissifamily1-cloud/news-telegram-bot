@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-04T19:15:26.441165+09:00",
-     "부동산은 개미들 정부 다쳤을까 꼭지 개입 없었다면 라던"
-    ],
-    [
-     "2026-08-04T19:15:26.441165+09:00",
-     "돌아왔다 역대급 개미들 나간 코스닥이 끝나 반색 하락"
-    ],
-    [
-     "2026-08-04T19:20:26.904302+09:00",
-     "김민재 VS 후반전 성사 이창민 선발 맞대결"
-    ],
-    [
      "2026-08-04T19:25:22.058154+09:00",
      "올해의 뽑는 상생기업대상 시작 직접 국민투표 국민이"
     ],
@@ -506,12 +494,17 @@
     [
      "2026-08-05T00:55:21.280946+09:00",
      "상승 최고 SK하이닉스 호평에 증권가 ADR 목표가"
+    ],
+    [
+     "2026-08-05T01:20:29.259109+09:00",
+     "김민재 경쟁 국내서 이강인 주전 본게임"
+    ],
+    [
+     "2026-08-05T01:20:29.259109+09:00",
+     "어우두 이끄는 감독 가을야구 부활하나 김원형"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=274099",
-    "https://www.m-i.kr/news/articleView.html?idxno=1398471",
-    "https://www.etoday.co.kr/news/view/2610727",
     "https://www.jejudomin.co.kr/news/articleView.html?idxno=321081",
     "https://www.munhwa.com/article/11607126",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04365686645544040",
@@ -2008,12 +2001,12 @@
     "http://www.newstown.co.kr/news/articleView.html?idxno=711372",
     "https://www.newspim.com/news/view/20260805000004",
     "https://sports.khan.co.kr/article/202608050100006?pt=nv",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008690466&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008690466&plink=ORI&cooper=NAVER",
+    "http://www.osen.co.kr/article/G1112852295",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1785833128&code=12120000&cp=nv",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1785833132&code=12110000&cp=nv"
    ],
    "seen_titles": [
-    "코스닥'나홀로랠리'…3거래일연속매수사이드카",
-    "AI가바꾼반도체의운명…대한민국의미래가달려있다",
-    "[AI프리즘]독파모4파전완성…성능경쟁서현장실증으로",
     "ChallengesgreetPresidentLeeuponreturnasapprovalsinksbelow50p",
     "SK오션플랜트주가,8월4일장중13,230원4.58%상승",
     "코스닥,온기되찾나…코스피제치고사흘연속'매수사이드카'",
@@ -3510,10 +3503,13 @@
     "성수석이천시장,반도체융복합교육센터점검…\"교육에서취업까지연결...",
     "[미국특징주]SK하이닉스ADR,美증권가호평에상승…목표가최고32...",
     "20억들인잔디,폭염에쓰러졌다…선수는괜찮을까,가만히서있어도...",
-    "뮌헨콩파니감독\"김민재체력고려해뺀것…주장완장찬게가장중..."
+    "뮌헨콩파니감독\"김민재체력고려해뺀것…주장완장찬게가장중...",
+    "\"실수?그래도2만명이기립박수!\"독일현지언론,김민재'영향력'...",
+    "김민재·이강인,본게임전국내서주전경쟁",
+    "어우두부활하나…가을야구이끄는김원형감독"
    ],
    "initialized": true,
-   "last_run": "2026-08-05T01:15:25.872556+09:00"
+   "last_run": "2026-08-05T01:20:29.259109+09:00"
   }
  },
  "press_names": {
