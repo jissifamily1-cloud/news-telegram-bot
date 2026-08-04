@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-04T13:15:24.928282+09:00",
-     "자유발언 나도 합시다 동두천시의원 복지TV뉴스 정진호"
-    ],
-    [
-     "2026-08-04T13:15:24.928282+09:00",
-     "브리핑 웰페어"
-    ],
-    [
-     "2026-08-04T13:15:24.928282+09:00",
-     "복지이슈포커스 복지TV뉴스"
-    ],
-    [
-     "2026-08-04T13:15:24.928282+09:00",
-     "브리핑 장애인신문"
-    ],
-    [
-     "2026-08-04T13:15:24.928282+09:00",
-     "글로벌 조달 한국기업들 경쟁력까 따봉 자금 받아든 확대 학점"
-    ],
-    [
      "2026-08-04T13:20:26.643387+09:00",
      "레버리지 vs 빗장 단일종목 코스피 시장은 수혜 코스닥"
     ],
@@ -1454,15 +1434,17 @@
     [
      "2026-08-04T19:10:33.517021+09:00",
      "생태계에 흡수될라 독자 총력전"
+    ],
+    [
+     "2026-08-04T19:15:26.441165+09:00",
+     "부동산은 개미들 정부 다쳤을까 꼭지 개입 없었다면 라던"
+    ],
+    [
+     "2026-08-04T19:15:26.441165+09:00",
+     "돌아왔다 역대급 개미들 나간 코스닥이 끝나 반색 하락"
     ]
    ],
    "seen_urls": [
-    "https://www.namdonews.com/news/articleView.html?idxno=918938",
-    "https://www.seoulfn.com/news/articleView.html?idxno=634826",
-    "https://www.ajunews.com/view/20260804090252519",
-    "https://www.businessplus.kr/news/articleView.html?idxno=115022",
-    "https://www.electimes.com/news/articleView.html?idxno=370937",
-    "https://www.mk.co.kr/article/12115975",
     "http://www.datanews.co.kr/news/article.html?no=145881",
     "https://view.asiae.co.kr/article/2026080409293922516",
     "https://thetracker.co.kr/View.aspx?No=4173089",
@@ -2956,15 +2938,15 @@
     "http://www.worktoday.co.kr/news/articleView.html?idxno=87545",
     "https://www.joongboo.com/news/articleView.html?idxno=363733106",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4098815",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=06491126645544040"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=06491126645544040",
+    "http://www.00news.co.kr/news/articleView.html?idxno=105628",
+    "https://www.kukinews.com/article/view/kuk202608040189",
+    "https://www.newsis.com/view/NISX20260804_0003736420",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628233",
+    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071180",
+    "https://www.news1.kr/finance/general-stock/6249104"
    ],
    "seen_titles": [
-    "세종시장애인펜싱팀,전국대회정상급실력과시",
-    "[주식시황]급락하루만에반등…삼성전자·SK하이닉스다시웃었다",
-    "코스피,美증시훈풍에장중6300선회복···시총상위종목'혼조'",
-    "[개장시황]코스피,美기술주훈풍에상승출발…코스닥은3%대강세",
-    "SK하이닉스,샌디스크와HBF첫표준공개…AI메모리생태계확대",
-    "SK하이닉스,HBF표준규격첫공개…3TB/s대역폭에512GB까지",
     "외국인투자자매수세에…전날급락코스피,오늘은6300선상승출발",
     "SK하이닉스,AI시대'메모리병목'푼다…HBF표준규격발표",
     "\"석유,농산물오름세둔화\"…7월물가상승률3개월만에2%대복귀(종...",
@@ -4458,10 +4440,16 @@
     "전국인구줄어드는데충청권은'나홀로증가'…반도체일자리가이...",
     "[사설]SK방류수사태,과학적인접근부터실시해야",
     "[금융한입]광기와공포의한국증시…해외IB는'반등'주목",
-    "中생태계에흡수될라…韓독자AI총력전"
+    "中생태계에흡수될라…韓독자AI총력전",
+    "이재용,상반기배당728억'왕좌복귀'",
+    "‘김민재선발’뮌헨-제주SK선발명단발표[쿠키현장]",
+    "뮌헨김민재,K리그1제주와친선경기선발출전",
+    "‘뮌헨’vs‘제주SK’친선전곧시작…이시각제주월드컵경기장",
+    "\"부동산은꼭지\"라던정부,개입없었다면개미들덜다쳤을까",
+    "집나간코스닥이돌아왔다…'역대급하락끝나'개미들반색"
    ],
    "initialized": true,
-   "last_run": "2026-08-04T19:10:33.517021+09:00"
+   "last_run": "2026-08-04T19:15:26.441165+09:00"
   }
  },
  "press_names": {
