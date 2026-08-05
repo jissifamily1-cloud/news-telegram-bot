@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-05T14:40:31.108102+09:00",
-     "10만평 용인 추미애 행정권고 응답한 유방동 일대 생태복원사 삼전"
-    ],
-    [
-     "2026-08-05T14:40:31.108102+09:00",
-     "주가누르기 과세 방지법 실효성 주가로 한계 저평가 VIP운용"
-    ],
-    [
      "2026-08-05T14:45:24.956475+09:00",
      "감소 영업이익 GS건설만 실적 호조 건설사 대형"
     ],
@@ -1166,14 +1158,17 @@
     [
      "2026-08-05T20:30:36.214625+09:00",
      "청년 흐름 반도체 전남광주 바꿀까 4만5천명 팹이 유출"
+    ],
+    [
+     "2026-08-05T20:40:33.010805+09:00",
+     "D램 업체들 PC 글로벌 메모리 품귀 이겨 채택"
+    ],
+    [
+     "2026-08-05T20:40:33.010805+09:00",
+     "출렁 롤러코스피 토해냈다 거의 퇴직연금"
     ]
    ],
    "seen_urls": [
-    "https://www.energy-news.co.kr/news/articleView.html?idxno=227237",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=269185",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=93293",
-    "https://www.newsway.co.kr/news/view?ud=2026080509452858705",
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=808768",
     "https://www.news1.kr/it-science/cc-newmedia/6249548",
     "https://biz.heraldcorp.com/article/10831289",
     "https://www.the-stock.kr/news/articleView.html?idxno=33085",
@@ -2668,14 +2663,14 @@
     "https://www.seoul.co.kr/news/economy/2026/08/05/20260805500254?wlog_tag3=naver",
     "https://www.thedailypost.kr/news/articleView.html?idxno=114921",
     "https://www.businesspost.co.kr/BP?command=article_view&num=444060",
-    "http://www.kwangju.co.kr/article.php?aid=1785929100801991277"
+    "http://www.kwangju.co.kr/article.php?aid=1785929100801991277",
+    "https://www.khan.co.kr/article/202608052037005",
+    "https://www.khan.co.kr/article/202608052037035",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=854811",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608050777&t=NN",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008692151&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "SK이노베이션,가족돌봄아동진로캠프개최…미래설계지원확대",
-    "청소·세차·펫케어까지…삼성물산'홈닉'생활편의서비스확충",
-    "가족돌봄부담덜고미래꿈키운다…SK이노베이션'낙낙투어'",
-    "[2Q실적]SKT,2분기영업이익5660억…전년比67.3%'껑충'",
-    "코스피4%대급등해6600선회복…삼전4%·하닉7%대↑",
     "\"간만에웃었다\"…삼전닉스레버리지ETF장초반급등[특징주]",
     "[오늘증시]코스피6600선돌파에'매수사이드카'…美반도체랠리탑승",
     "SKT,2분기영업익5660억…AIDC매출92%'껑충'",
@@ -4170,10 +4165,15 @@
     "“반도체주식말고‘이것’살걸…”버핏이수십년째외친‘치트...",
     "삼성물산홈닉,생활편의서비스확대…청소·세차·펫케어추가",
     "금감원,SK디앤디1367억규모유상증자놓고정정신고서제출요구",
-    "전남광주청년4만5천명유출…반도체팹이흐름바꿀까"
+    "전남광주청년4만5천명유출…반도체팹이흐름바꿀까",
+    "AI데이터센터매출,2배‘껑충’…SKT,2분기‘깜짝’실적",
+    "삼성전자,GPU위에HBM시공…차세대‘주상복합반도체’공개",
+    "삼전-하이닉스,향후5년간AI메모리시장선점",
+    "메모리품귀못이겨…\"글로벌PC업체들中D램채택\"",
+    "\"거의다토해냈다\"…'롤러코스피'에퇴직연금'출렁'"
    ],
    "initialized": true,
-   "last_run": "2026-08-05T20:35:21.463671+09:00"
+   "last_run": "2026-08-05T20:40:33.010805+09:00"
   }
  },
  "press_names": {
