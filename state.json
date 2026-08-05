@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-05T08:00:42.163351+09:00",
-     "유망종목은 8월 벗어난다 국면 변동성 코스피"
-    ],
-    [
      "2026-08-05T08:05:23.036328+09:00",
      "반도체 장비 본격화 성장 목표가 10만8000원 한투 한화비전"
     ],
@@ -1106,21 +1102,25 @@
     [
      "2026-08-05T13:55:28.028735+09:00",
      "대구FC 박도훈 계약 준프로 선수 현풍고"
+    ],
+    [
+     "2026-08-05T14:00:50.120989+09:00",
+     "발간 탑서트 리포트 사례 CERT 침해사고 분석 Top SK쉴더스"
+    ],
+    [
+     "2026-08-05T14:00:50.120989+09:00",
+     "지킬 메모리 최강 2031년까지"
+    ],
+    [
+     "2026-08-05T14:00:50.120989+09:00",
+     "9만1108명 이수 4038개 한양대학 한양대 IC PBL 강좌 도입 ERICA 10주년"
+    ],
+    [
+     "2026-08-05T14:00:50.120989+09:00",
+     "경고문 문자 다가오면 손실 원금 담을 ELS 수익 온다 났다고"
     ]
    ],
    "seen_urls": [
-    "https://mhnse.com/news/articleView.html?idxno=1478434",
-    "https://mhnse.com/news/articleView.html?idxno=1478431",
-    "http://www.stoo.com/article.php?aid=108114147851",
-    "https://mhnse.com/news/articleView.html?idxno=1478427",
-    "https://mhnse.com/news/articleView.html?idxno=1478438",
-    "https://mhnse.com/news/articleView.html?idxno=1478428",
-    "http://www.osen.co.kr/article/G1112852188",
-    "https://mhnse.com/news/articleView.html?idxno=1478432",
-    "http://www.stoo.com/article.php?aid=108114256728",
-    "http://www.stoo.com/article.php?aid=108114095638",
-    "https://biz.heraldcorp.com/article/10830942",
-    "https://www.news1.kr/photos/8041281",
     "https://www.news1.kr/photos/8041280",
     "https://www.ulsanpress.net/news/articleView.html?idxno=580428",
     "https://www.news1.kr/photos/8041284",
@@ -2608,21 +2608,21 @@
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5210437",
     "https://www.econotimes.com/Samsung-SK-Hynix-Test-AMEC-Chipmaking-Tools-for-China-Backup-Plan-1748629",
     "https://daily.hankooki.com/news/articleView.html?idxno=1392969",
-    "https://www.imaeil.com/page/view/2026080513485653453"
+    "https://www.imaeil.com/page/view/2026080513485653453",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1392947",
+    "https://www.joongang.co.kr/article/25450997",
+    "https://www.viva100.com/article/20260805500679",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092167345",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005894632",
+    "http://www.dailypop.kr/news/articleView.html?idxno=101264",
+    "https://www.etnews.com/20260805000206",
+    "https://www.catchnews.kr/news/articleView.html?idxno=126975",
+    "https://magazine.hankyung.com/business/article/202608056293b",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092167356",
+    "https://www.veritas-a.com/news/articleView.html?idxno=622073",
+    "https://www.raonnews.com/news/article.html?no=60075"
    ],
    "seen_titles": [
-    "요나탄타‘빌드업시작’[포토]",
-    "키미히‘반대로’[포토]",
-    "[ST포토]김민재와교체된팀빈더",
-    "삼성전자·SK하이닉스,변동성후강보합마감…외국인매매양극화",
-    "IMM크레딧,하나마이크론EB1000억인수",
-    "변동성커진증시⋯거래소,파생상품증거금률줄줄이인상",
-    "코스피,개인매수에6300선회복...LG에너지솔루션,삼성바이오로직스...",
-    "[mhn포토]아소모,제가16살입니다",
-    "[mhn포토]김민재,제주에서플레이",
-    "[mhn포토]김민재,공격시작",
-    "[사진]한발앞서공끊어내는뮌헨요나탄타",
-    "[사진]선방펼치는뮌헨요나스우르비히골키퍼",
     "[mhn포토]이토,들어가",
     "[mhn포토]콩파니감독,좋았어",
     "[mhn포토]세르지우코스타감독,지켜본다",
@@ -4110,10 +4110,22 @@
     "같은4억도증여방법따라2000만원절세가능…분산증여방법은?[프...",
     "Samsung,SKHynixTestAMECChipmakingToolsforChinaBackupPlan",
     "한울앤제주,제주SK-바이에른뮌헨친선전공식스폰서참여",
-    "현풍고박도훈,대구FC최초'준프로'선수계약"
+    "현풍고박도훈,대구FC최초'준프로'선수계약",
+    "안성시,용인반도체클러스터공업용수방류계획보류요청",
+    "SKT,지난해기저효과로영업이익대폭증가…AIDC매출도상승",
+    "삼성400단·SK375단,HBM이어초고적층낸드로‘격돌’",
+    "AI메모리2R개막…삼성'3D적층'vsSK하이닉스'HBF'",
+    "서학개미,8월첫날'속슬'9천억원순매도",
+    "SKT,2분기영업이익5660억원…전년비67.3%증가",
+    "상반기전기차배터리사용량20%↑…중국계점유율확대",
+    "\"통신비24개월간최대60만원할인\"신한카드'갤럭시Z폴더블8시리즈'...",
+    "SK쉴더스,탑서트(Top-CERT)침해사고사례분석리포트발간",
+    "\"韓,2031년까지메모리최강지킬것\"",
+    "한양대ERICAIC-PBL도입10주년..4038개강좌9만1108명이수한양대학...",
+    "ELS원금손실다가오면문자온다…수익났다고또담을땐경고문"
    ],
    "initialized": true,
-   "last_run": "2026-08-05T13:55:28.028735+09:00"
+   "last_run": "2026-08-05T14:00:50.120989+09:00"
   }
  },
  "press_names": {
