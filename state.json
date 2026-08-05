@@ -1250,15 +1250,13 @@
     [
      "2026-08-05T11:25:21.639271+09:00",
      "활용 대학생들 미디어아트에 울산 석유저장탱크 오만 감탄"
+    ],
+    [
+     "2026-08-05T11:30:35.548914+09:00",
+     "청주시 기탁 SK하이닉스 차량구입비 6600만 병원안심동행"
     ]
    ],
    "seen_urls": [
-    "https://www.xportsnews.com/article/2180038",
-    "https://www.xportsnews.com/article/2180036",
-    "https://www.xportsnews.com/article/2180040",
-    "https://www.xportsnews.com/article/2180037",
-    "https://www.yna.co.kr/view/GYH20260804000700044?input=1363m",
-    "https://www.mk.co.kr/article/12116758",
     "https://www.sedaily.com/article/20075761",
     "http://www.footballist.co.kr/news/articleView.html?idxno=213101",
     "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95847",
@@ -2752,15 +2750,15 @@
     "https://www.news2day.co.kr/article/20260805500131",
     "https://www.newsis.com/view/NISX20260805_0003737226",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608041104112460700",
-    "https://www.newsis.com/view/NISX20260805_0003737169"
+    "https://www.newsis.com/view/NISX20260805_0003737169",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260805112721LKQ",
+    "https://www.sentv.co.kr/article/view/sentv202608050088",
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2292752",
+    "https://www.koreaherald.com/article/10831567",
+    "http://www.nongaek.com/news/articleView.html?idxno=96311",
+    "https://www.ggilbo.com/news/articleView.html?idxno=1173519"
    ],
    "seen_titles": [
-    "[국방AX전격전③]레퍼런스는중견기업이쌓고계약은대기업이?",
-    "HBM다음은'HBF'...SK하이닉스,512GB차세대메모리표준공개",
-    "대세는폴더블폰…대박난삼성‘갤Z8’,이젠애플과승부",
-    "[mhn포토]김민재,오늘주장입니다",
-    "김민재,뮌헨주장자격으로제주전출격",
-    "뮌헨김민재,제주와프리시즌경기선발…'캡틴'으로뛴다",
     "회장님의책임경영,지분조정,즐거운엑시트[아침햇발]",
     "비쇼프‘공간창출’[포토]",
     "이토‘공격으로나간다’[포토]",
@@ -4254,10 +4252,16 @@
     "증권사역대급실적에도목표가는뒷걸음‘왜’",
     "검찰,'PVC·가소제담합의혹'석유화학업체7개사압수수색",
     "2026울산시건축상대상에‘고려아연케이지안전교육센터’",
-    "오만대학생들,울산석유저장탱크활용미디어아트에감탄"
+    "오만대학생들,울산석유저장탱크활용미디어아트에감탄",
+    "SKT,2분기영업이익67%증가…AIDC매출92%급증",
+    "SK바이오팜,역대분기최고실적경신…美세노바메이트매출견인",
+    "경찰,'성과급합의'관련삼성전자·하이닉스대표수사착수",
+    "SKTelecomQ2profitjumps67%onAIdatacentergrowth",
+    "\"주가너무싸다\"...저평가분석쏟아지는SK하이닉스ADR",
+    "SK하이닉스,청주시병원안심동행차량구입비6600만원기탁"
    ],
    "initialized": true,
-   "last_run": "2026-08-05T11:25:21.639271+09:00"
+   "last_run": "2026-08-05T11:30:35.548914+09:00"
   }
  },
  "press_names": {
