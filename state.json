@@ -169,7 +169,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.insight.co.kr/news/566449",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7177544",
     "https://www.sedaily.com/article/20075905",
     "https://www.etoday.co.kr/news/view/2611196",
@@ -1668,10 +1667,10 @@
     "https://www.tokenpost.kr/news/economy/385995",
     "https://www.mt.co.kr/world/2026/08/06/2026080520003799069",
     "https://www.mt.co.kr/stock/2026/08/06/2026080519525367666",
-    "https://www.mt.co.kr/opinion/2026/08/06/2026080515140041284"
+    "https://www.mt.co.kr/opinion/2026/08/06/2026080515140041284",
+    "https://biz.sbs.co.kr/article_hub/20000326916?division=NAVER"
    ],
    "seen_titles": [
-    "[집중진단]ADR공시족쇄풀린SK하이닉스…주주환원보따리풀까?",
     "코스닥,14거래일만에800선...알테오젠29%급등",
     "7월물가2%대...정부\"석유최고가격제,상승률0.3%p낮춰\"",
     "\"혼돈의장세,투자해법은?\"증권가,AI금융세미나∙반도체ETF리포트...",
@@ -3170,10 +3169,11 @@
     "삼성전자·SK하이닉스,연내주주환원확대...반도체업계변화예고",
     "월가IB11곳\"SK하이닉스ADR사라\"",
     "\"또,또매수사이드카\"돌아온외인이울렸다...살아난AI투심",
-    "[사설]K반도체,정부가'뒷배'돼야한다"
+    "[사설]K반도체,정부가'뒷배'돼야한다",
+    "삼성·SK하이닉스,주주환원확대의지…\"의미있게늘린다\""
    ],
    "initialized": true,
-   "last_run": "2026-08-06T04:25:27.648572+09:00"
+   "last_run": "2026-08-06T04:30:43.116044+09:00"
   }
  },
  "press_names": {
