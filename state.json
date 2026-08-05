@@ -174,11 +174,17 @@
     [
      "2026-08-06T03:25:22.114457+09:00",
      "미국 장비 제재 테스트 삼성 대비 중국산"
+    ],
+    [
+     "2026-08-06T04:05:30.058741+09:00",
+     "IB 월가 11곳 사라 SK하이닉스ADR"
+    ],
+    [
+     "2026-08-06T04:05:30.058741+09:00",
+     "사이드카 투심 울렸다 매수 외인이 돌아온 살아난"
     ]
    ],
    "seen_urls": [
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=546416",
-    "https://biz.sbs.co.kr/article_hub/20000326535?division=NAVER",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=316053",
     "https://www.insight.co.kr/news/566449",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7177544",
@@ -1676,11 +1682,11 @@
     "https://www.g-enews.com/view.php?ud=202608051747005968fbbec65dfb_1",
     "https://www.mt.co.kr/industry/2026/08/06/2026080520092474586",
     "https://www.g-enews.com/view.php?ud=202608052103025292bd56fbc3c_1",
-    "https://www.tokenpost.kr/news/economy/385995"
+    "https://www.tokenpost.kr/news/economy/385995",
+    "https://www.mt.co.kr/world/2026/08/06/2026080520003799069",
+    "https://www.mt.co.kr/stock/2026/08/06/2026080519525367666"
    ],
    "seen_titles": [
-    "코스피,美훈풍에4%대급등해6,600선…코스닥도800선회복",
-    "亞장중...韓코스피·日N225&韓日CHIP주가'급등'",
     "SKT,2분기영업익5660억원…전년比67.3%급증",
     "[집중진단]ADR공시족쇄풀린SK하이닉스…주주환원보따리풀까?",
     "코스닥,14거래일만에800선...알테오젠29%급등",
@@ -3178,10 +3184,12 @@
     "반도체장비시장,2031년2200억달러…초미세공정이성장의핵심",
     "기억하세요…2031년까지'메모리'최강국은韓",
     "삼성·SK,미국제재대비중국산장비테스트",
-    "삼성전자·SK하이닉스,연내주주환원확대...반도체업계변화예고"
+    "삼성전자·SK하이닉스,연내주주환원확대...반도체업계변화예고",
+    "월가IB11곳\"SK하이닉스ADR사라\"",
+    "\"또,또매수사이드카\"돌아온외인이울렸다...살아난AI투심"
    ],
    "initialized": true,
-   "last_run": "2026-08-06T04:00:43.480305+09:00"
+   "last_run": "2026-08-06T04:05:30.058741+09:00"
   }
  },
  "press_names": {
