@@ -230,11 +230,17 @@
     [
      "2026-08-06T01:35:22.324589+09:00",
      "급전환 SK하이닉스 반토막 호재가 샌디스크 위기서 연합 주가"
+    ],
+    [
+     "2026-08-06T02:10:26.552040+09:00",
+     "샌디스크의 부활 박신영의 개장 노리는 오라클 메모리 승부수 주가"
+    ],
+    [
+     "2026-08-06T02:10:26.552040+09:00",
+     "소송 9년의 21년의 혼인 종지부 굴곡진 파경"
     ]
    ],
    "seen_urls": [
-    "https://www.tjb.co.kr/news05/bodo/view/id/102002",
-    "https://www.chosun.com/national/national_general/2026/08/05/HBPAQZOALVDEDMN7QGU5NZ247E/",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1719186",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=854622",
     "https://www.g-enews.com/view.php?ud=20260805101712611744093b5d4e_1",
@@ -1732,11 +1738,11 @@
     "https://www.tokenpost.kr/news/market/385941",
     "https://www.ggilbo.com/news/articleView.html?idxno=1172989",
     "http://coinreaders.com/251343",
-    "https://m.sports.naver.com/basketball/article/065/0000300377"
+    "https://m.sports.naver.com/basketball/article/065/0000300377",
+    "https://www.hankyung.com/article/202608067359i",
+    "https://www.kmib.co.kr/article/view.asp?arcid=1785922769&code=11151400&cp=nv"
    ],
    "seen_titles": [
-    "중국추격에AI판커졌다…삼성·SK,'포스트HBM'선점경쟁",
-    "SK텔레콤주가,8월5일장중95,800원4.81%상승",
     "주주단체,'삼전닉스'대표배임고발…경기남부청본격수사",
     "[속보]삼성·SK하이닉스대표‘성과급배임’고발사건…경기남부청...",
     "[EBN데이터센터]반도체·지주사·자동차동반강세...코스피시총상위...",
@@ -3234,10 +3240,12 @@
     "단일종목레버리지ETF,규제강화에거래대금1조원이하로급감",
     "모건스탠리,韓증시'비중확대'로상향전망…9000피다시간다",
     "샌디스크,주가반토막위기서10.8%급전환...\"SK하이닉스연합호재가...",
-    "FIBA도응원한이현중의도전“그일이곧일어나길기대하고있겠다”"
+    "FIBA도응원한이현중의도전“그일이곧일어나길기대하고있겠다”",
+    "샌디스크의AI메모리승부수…주가부활노리는오라클[박신영의개장...",
+    "21년의파경·9년의소송…최·노‘굴곡진혼인’종지부"
    ],
    "initialized": true,
-   "last_run": "2026-08-06T02:05:24.807309+09:00"
+   "last_run": "2026-08-06T02:10:26.552040+09:00"
   }
  },
  "press_names": {
