@@ -853,7 +853,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/photomovie/2350660.htm",
     "https://www.munhwa.com/article/11607336",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=265355",
     "https://www.ddaily.co.kr/page/view/2026080509183400120",
@@ -2352,10 +2351,10 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629688",
     "https://www.newsis.com/view/NISX20260805_0003736776",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629703",
-    "https://www.tokenpost.kr/news/briefing/385821"
+    "https://www.tokenpost.kr/news/briefing/385821",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629729"
    ],
    "seen_titles": [
-    "금시세(금값)5일",
     "4%대급등한코스피,매수사이드카발동[TF사진관]",
     "급등세보이는코스피와'삼전닉스'[포토]",
     "9440억전액현금지급판결…SK그룹지배구조엔영향없어[Who,What,Why...",
@@ -3854,10 +3853,11 @@
     "중동전쟁에몸값뛴윤활기유…정유업계‘효자’",
     "삼전닉스본격반등시작?…\"외국인돌아오고'이익방어력'입증해야\"",
     "철기둥김민재를당황하게만든아이아스의사포드리블",
-    "9억1200만주매도가능해지는스페이스X"
+    "9억1200만주매도가능해지는스페이스X",
+    "SK하이닉스,병원안심동행차량지원금기탁"
    ],
    "initialized": true,
-   "last_run": "2026-08-05T22:15:27.657928+09:00"
+   "last_run": "2026-08-05T22:20:26.586613+09:00"
   }
  },
  "press_names": {
