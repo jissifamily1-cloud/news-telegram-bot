@@ -621,10 +621,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.joseilbo.com/news/news_read.php?uid=573283&class=32",
-    "https://www.tokenpost.kr/news/market/385466",
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=702543",
-    "https://www.joongangenews.com/news/articleView.html?idxno=537842",
     "https://www.econovill.com/news/articleView.html?idxno=747177",
     "http://www.newskr.kr/news/articleView.html?idxno=105353",
     "https://www.raonnews.com/news/article.html?no=60071",
@@ -2120,13 +2116,13 @@
     "https://www.gosiweek.com/article/1065567861454153",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=62504",
     "https://biz.newdaily.co.kr/site/data/html/2026/08/06/2026080600021.html",
-    "https://www.yna.co.kr/view/AKR20260806023400008?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260806023400008?input=1195m",
+    "https://www.sentv.co.kr/article/view/sentv202608060002",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=271182",
+    "https://www.dt.co.kr/article/12076834",
+    "https://www.newspim.com/news/view/20260806000063"
    ],
    "seen_titles": [
-    "\"성과급합의는배임\"…경찰,삼성·SK하이닉스대표수사착수",
-    "LG엔솔·삼성SDI·SK온,189조원車배터리시장‘키플레이어’주목",
-    "[속보]경찰,주주단체'삼전닉스'대표고발건수사착수…\"성과급합...",
-    "코스피,미국증시훈풍타고4%급등…반도체주주도",
     "SK이노베이션,초록우산과가족돌봄아동진로지원나서",
     "주주단체,'성과급교섭'삼성전자·SK하이닉스대표고발...경찰수사...",
     "SK바이오팜,2분기매출2,474억…'분기기준역대최고실적경신'지...",
@@ -3622,10 +3618,14 @@
     "SK하이닉스·CJ올리브영·한전채용담당자뜬다…인쿠르트,27일고려대...",
     "[증시전망대]코스피,6,500선회복뒤'숨고르기'…\"반등시매도보다...",
     "[속보]삼전닉스,프리마켓서동반하락…나스닥發반도체주차익실현...",
-    "DB증권\"SKT,AIDC사업개발주도\"…목표가상향"
+    "DB증권\"SKT,AIDC사업개발주도\"…목표가상향",
+    "삼성·SK,주주환원확대전망…\"의미있게늘린다\"",
+    "[박정식의국내주식시황]상승탄력은주춤할수있지만반등기조는...",
+    "美반도체주차익실현에삼전·하닉약세…프리마켓‘숨고르기’",
+    "[AIMY증시전망]\"코스피보합권숨고르기…순환매확산주목\""
    ],
    "initialized": true,
-   "last_run": "2026-08-06T08:16:55.892127+09:00"
+   "last_run": "2026-08-06T08:20:28.210290+09:00"
   }
  },
  "press_names": {
