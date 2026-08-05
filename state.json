@@ -486,13 +486,21 @@
     [
      "2026-08-06T07:20:32.907720+09:00",
      "샌디스크 실적 데이터센터 WD 열풍에 삼성전자 호조 하이닉스"
+    ],
+    [
+     "2026-08-06T07:25:20.795715+09:00",
+     "금감원도 SK디앤디 제동 정정요구 1367억 소액주주 반발 유상증자"
+    ],
+    [
+     "2026-08-06T07:25:20.795715+09:00",
+     "두산 10년 에이스 프로야구"
+    ],
+    [
+     "2026-08-06T07:25:20.795715+09:00",
+     "절반 턴어라운드 CATL 매출 불구 배터리 32조 3사"
     ]
    ],
    "seen_urls": [
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=238370",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092167366",
-    "https://news.bizwatch.co.kr/article/healthcare/2026/08/05/0013",
-    "https://www.gokorea.kr/news/articleView.html?idxno=874169",
     "https://www.newscj.com/news/articleView.html?idxno=3422595",
     "https://www.gokorea.kr/news/articleView.html?idxno=874173",
     "https://biz.heraldcorp.com/article/10831465",
@@ -1988,13 +1996,13 @@
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005895150",
     "https://en.yna.co.kr/view/AEN20260806000500320?input=2106m",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=244461",
-    "https://www.ytn.co.kr/_ln/0104_202608060714270716"
+    "https://www.ytn.co.kr/_ln/0104_202608060714270716",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=62500",
+    "https://www.sidae.com/article/2026080607190082946",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=93343",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048386"
    ],
    "seen_titles": [
-    "SK바이오팜,2분기영업익971억원…엑스코프리성장에분기최대",
-    "반도체시장전망…삼성전자·SK하이닉스주가급락,영업이익89조에도...",
-    "'삼전닉스'배당금고발사건,경기남부청수사착수",
-    "월가,SK하이닉스ADR일제히'매수'…목표가최고330달러",
     "SK바이오팜,2Q최대실적…엑스코프리성장'지속'",
     "코스피4%급등…삼성전자·SK하이닉스동반상승",
     "코스피,뉴욕증시강세에6500선횡보…매수사이드카도발동",
@@ -3490,10 +3498,14 @@
     "증시오늘'핫이슈'…\"뉴욕증시,호르무즈재개방기대속혼조마감\"",
     "(EDITORIALfromKoreaJoongAngDailyonAug.6)",
     "[안전상황실·6일]고성대진항어구보관창고화재진화…인명피해없...",
-    "AI데이터센터열풍에샌디스크·WD실적호조...삼성전자·하이닉스주..."
+    "AI데이터센터열풍에샌디스크·WD실적호조...삼성전자·하이닉스주...",
+    "월가,호르무즈해협재개방'기대와관망'속혼조…나스닥0.8%밀렸다",
+    "소액주주반발SK디앤디1367억유상증자,금감원도제동…정정요구",
+    "[2026프로야구삼진과홈런사이]두산에이스곽빈,프로야구10년만...",
+    "'32조CATL'의벽…K-배터리3사,턴어라운드불구매출절반"
    ],
    "initialized": true,
-   "last_run": "2026-08-06T07:20:32.907720+09:00"
+   "last_run": "2026-08-06T07:25:20.795715+09:00"
   }
  },
  "press_names": {
