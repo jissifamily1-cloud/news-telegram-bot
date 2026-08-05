@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-05T06:20:28.382363+09:00",
-     "쪼개기 높아진 자회사 판도 바뀐다 상장 IPO 문턱"
-    ],
-    [
      "2026-08-05T06:25:20.453209+09:00",
      "메모리 통합 승부수 삼성 vs 개방형"
     ],
@@ -1194,12 +1190,13 @@
     [
      "2026-08-05T12:20:26.728969+09:00",
      "1억 8천 얼마에 들어갔길래 김원훈 하닉 물타기 날려"
+    ],
+    [
+     "2026-08-05T12:25:19.452742+09:00",
+     "원수 용인반도체클러스터 공급시설 안성시 시운전 공업용수 방류계"
     ]
    ],
    "seen_urls": [
-    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95848",
-    "https://biz.heraldcorp.com/article/10830714",
-    "https://www.newsis.com/view/NISI20260804_0021388296",
     "https://www.newsis.com/view/NISI20260804_0021388297",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597025",
     "https://www.newsis.com/view/NISI20260804_0021388295",
@@ -2696,12 +2693,12 @@
     "https://biz.heraldcorp.com/article/10831678",
     "https://www.asiatime.co.kr/article/20260805500080",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4428739",
-    "https://www.seoul.co.kr/news/economy/securities/2026/08/05/20260805500113?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/economy/securities/2026/08/05/20260805500113?wlog_tag3=naver",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=877091",
+    "https://m.skyedaily.com/news_view.html?ID=309226",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2456144"
    ],
    "seen_titles": [
-    "수비하는김민재",
-    "김민재'놀라운점프'",
-    "[mhn포토]김민재,유승민회장과함께인사",
     "[ST포토]빈센트콤파니감독,작전지시",
     "[사진]뮌헨김민재,'양보없다'",
     "[사진]뮌헨김민재,'실전같은친선전'",
@@ -4198,10 +4195,13 @@
     "김민재와뮌헨선수들떴다는‘이곳’…한아름구매도",
     "빅테크호실적,메모리‘2030수퍼사이클’온다",
     "트럼프의유가조절+반도체發근원물가상승…한은이풀어야할물가고...",
-    "김원훈“1억8천물타기,차한대값날려”…하닉얼마에들어갔길래..."
+    "김원훈“1억8천물타기,차한대값날려”…하닉얼마에들어갔길래...",
+    "삼성물산'홈닉',청소·세차·펫케어등생활서비스총4종출시",
+    "SKT영업이익67.3%증가…유심정보유출여파벗었다",
+    "안성시,용인반도체클러스터공업용수공급시설시운전및원수방류계..."
    ],
    "initialized": true,
-   "last_run": "2026-08-05T12:20:26.728969+09:00"
+   "last_run": "2026-08-05T12:25:19.452742+09:00"
   }
  },
  "press_names": {
