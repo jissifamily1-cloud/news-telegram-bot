@@ -194,10 +194,13 @@
     [
      "2026-08-06T05:55:31.638271+09:00",
      "SK하닉 약세 엔비디아 폭락 삼전닉스는 날고 스페이스X"
+    ],
+    [
+     "2026-08-06T05:59:03.754513+09:00",
+     "환율 관리 완화 급락에 부담 100원 건전성 은행"
     ]
    ],
    "seen_urls": [
-    "https://www.getnews.co.kr/news/articleView.html?idxno=877079",
     "https://www.segye.com/newsView/20260805508600?OutUrl=naver",
     "http://www.yonhapnewstv.co.kr/news/AKR20260805103216s2G",
     "https://www.polinews.co.kr/news/articleView.html?idxno=739159",
@@ -1696,10 +1699,10 @@
     "https://www.dailymedi.com/news/news_view.php?wr_id=939105",
     "http://www.beyondpost.co.kr/view.php?ud=2026080605415259542aaae0046f_30",
     "https://www.aitimes.com/news/articleView.html?idxno=213582",
-    "https://www.dt.co.kr/article/12076822"
+    "https://www.dt.co.kr/article/12076822",
+    "https://www.kbanker.co.kr/news/articleView.html?idxno=225602"
    ],
    "seen_titles": [
-    "[증시오늘(5일)주요특징주]'美반도체훈풍'에국내증시폭등세…...",
     "SKT,2분기통신살리고AI데이터센터키웠다",
     "SK바이오팜,2분기매출2,474억·영업이익971억…분기최고치또경신",
     "[속보]경찰,‘삼전닉스’대표수사착수…‘성과급협약’살핀다",
@@ -3198,10 +3201,11 @@
     "SK바이오팜,올2분기매출2474억·영업이익971억",
     "엔비디아3.4%↑,SK하이닉스ADR2%↓...반도체주,숨고르기양상보이...",
     "데이터마이닝최고학술대회9∼13일제주개최…구글·알리바바기조...",
-    "엔비디아날고스페이스X폭락…SK하닉약세속삼전닉스는?"
+    "엔비디아날고스페이스X폭락…SK하닉약세속삼전닉스는?",
+    "환율100원급락에…은행건전성관리부담완화"
    ],
    "initialized": true,
-   "last_run": "2026-08-06T05:55:31.638271+09:00"
+   "last_run": "2026-08-06T05:59:03.754513+09:00"
   }
  },
  "press_names": {
