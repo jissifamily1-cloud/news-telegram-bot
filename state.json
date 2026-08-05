@@ -162,10 +162,13 @@
     [
      "2026-08-06T04:37:17.171556+09:00",
      "프리 자회사 5조 낸드 검토 IPO 조달 SK하이닉스"
+    ],
+    [
+     "2026-08-06T04:45:28.072596+09:00",
+     "글로벌 품귀 메모리 소량 업체들 PC 지속 채택 제품"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1719188",
     "http://www.fnnews.com/news/202608051014493189",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=03985206645544368",
     "https://biz.heraldcorp.com/article/10831385",
@@ -1664,10 +1667,10 @@
     "https://biz.sbs.co.kr/article_hub/20000326916?division=NAVER",
     "https://www.mydaily.co.kr/page/view/2026080518302477420",
     "https://www.donga.com/news/Economy/article/all/20260805/134427928/2",
-    "https://www.donga.com/news/Economy/article/all/20260805/134427934/2"
+    "https://www.donga.com/news/Economy/article/all/20260805/134427934/2",
+    "https://biz.sbs.co.kr/article_hub/20000326923?division=NAVER"
    ],
    "seen_titles": [
-    "“삼전·하닉문제인데테슬라는무슨죄냐”…레버리지규제에서학개...",
     "에코프로,화장품업체인수추진⋯“본업과시너지부족”[찐코노미]",
     "[EBN데이터센터]코스피거래대금삼성전자집중...전선·건설·태양광...",
     "[단독]삼성전자,여유자금국고채·은행채등에굴린다…초우량물중심...",
@@ -3166,10 +3169,11 @@
     "삼성·SK하이닉스,주주환원확대의지…\"의미있게늘린다\"",
     "日오열사태!'뮌헨잔류'김민재와180도달라졌다...韓에서'황당자...",
     "삼성,HBM5성능의8배‘차세대zHBM’승부수",
-    "SK하이닉스美낸드자회사…‘프리IPO’로5조조달검토"
+    "SK하이닉스美낸드자회사…‘프리IPO’로5조조달검토",
+    "메모리품귀지속…“글로벌PC업체들,中제품소량채택”"
    ],
    "initialized": true,
-   "last_run": "2026-08-06T04:40:32.427752+09:00"
+   "last_run": "2026-08-06T04:45:28.072596+09:00"
   }
  },
  "press_names": {
