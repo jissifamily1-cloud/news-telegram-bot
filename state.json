@@ -1154,17 +1154,33 @@
     [
      "2026-08-05T17:35:24.407619+09:00",
      "변수도 협력설 빅테크 합종연횡 코스피"
+    ],
+    [
+     "2026-08-05T17:40:28.108333+09:00",
+     "ESG 공시 데이터 짠다 보고서 보다 금융권 좌우 투자"
+    ],
+    [
+     "2026-08-05T17:40:28.108333+09:00",
+     "대형주도 동시호가주의보 종가 급등락"
+    ],
+    [
+     "2026-08-05T17:40:28.108333+09:00",
+     "470만 148만 바라보는 머니닥터 SK하이닉스를 280만 시장 시선 3가지"
+    ],
+    [
+     "2026-08-05T17:40:28.108333+09:00",
+     "말까지 Z8 갤럭시 개통 연장 신기록 폴드8 이달 사전예약"
+    ],
+    [
+     "2026-08-05T17:40:28.108333+09:00",
+     "DC 자신감도 2분기 SKT 붙었다 펄펄"
+    ],
+    [
+     "2026-08-05T17:40:28.108333+09:00",
+     "적자도 회원 쿠팡 사상 매출도 수준"
     ]
    ],
    "seen_urls": [
-    "https://www.viva100.com/article/20260805500216",
-    "https://www.newspim.com/news/view/20260805000211",
-    "https://www.joongangenews.com/news/articleView.html?idxno=537745",
-    "https://www.kukinews.com/article/view/kuk202608050029",
-    "https://www.newsis.com/view/NISX20260805_0003736827",
-    "https://www.wikitree.co.kr/articles/1150471",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608050363&t=NN",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3656024",
     "https://www.yna.co.kr/view/AKR20260805003751072?input=1195m",
     "https://www.mt.co.kr/stock/2026/08/05/2026080509105260505",
     "https://www.dt.co.kr/article/12076606",
@@ -2656,17 +2672,17 @@
     "https://www.dt.co.kr/article/12076772",
     "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90441",
     "https://www.dailian.co.kr/news/view/1674920/?sc=Naver",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=444026"
+    "https://www.businesspost.co.kr/BP?command=article_view&num=444026",
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=422898",
+    "https://www.kpinews.kr/newsView/1065599058481172",
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065600199876219",
+    "https://www.mk.co.kr/article/12117883",
+    "https://www.mk.co.kr/article/12117887",
+    "https://www.smartbizn.com/news/articleView.html?idxno=150473",
+    "https://www.econovill.com/news/articleView.html?idxno=747224",
+    "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608050588&t=NNv"
    ],
    "seen_titles": [
-    "SKT,2026년2분기영업이익5660억원⋯전년比67.3%↑",
-    "SKT,2분기영업익67%↑…AI데이터센터매출2배성장",
-    "\"韓,2031년까지'메모리최강'전망\"...AI2.0·중국추격은변수",
-    "[속보]SKT,2분기영업익5660억…전년동기대비67.3%↑",
-    "美반도체강세에삼성전자5%↑…SK하이닉스도6%급등[핫스탁]",
-    "코스피6603.48상승출발…개장과동시에13%폭등한'이주식'",
-    "美훈풍에코스피장초반4%대'급등'...코스닥도상승",
-    "코스피,3.85%급등출발하며6600선회복…삼성전기·SK하이닉스강세",
     "월가,SK하이닉스ADR분석개시…저평가'매수'의견(종합)",
     "AI성장모멘텀회복에삼전닉스강세…삼성전기13%대급등",
     "“韓,2031년까지메모리최강…中추격은가속”",
@@ -4158,10 +4174,18 @@
     "[논설실의서가]엔지니어가쉽게풀어쓴반도체해설서",
     "SK쉴더스,'DEFCONCTF2026'본선참가",
     "안철수\"'李고려장세법개정안'파기가답…강남6070방빼고외지로...",
-    "[AI,뭉쳐야산다⑥]코스피최대변수도'AI합종연횡',빅테크협력설..."
+    "[AI,뭉쳐야산다⑥]코스피최대변수도'AI합종연횡',빅테크협력설...",
+    "SKT\"AIDC구축,수요·외부자금확보후진행···올해SK하이퍼3300억...",
+    "\"지금파는게가장위험…코스피연말8000,삼전닉스내년전고점도전...",
+    "금융권ESG공시새판짠다…'보고서'보다'데이터'가투자좌우",
+    "대형주도종가급등락…'동시호가주의보'",
+    "148만·280만·470만…SK하이닉스를바라보는3가지시선[머니닥터시장...",
+    "사전예약신기록쓴갤럭시Z8···'폴드8'개통이달말까지연장",
+    "2분기펄펄난SKT,AIDC자신감도붙었다",
+    "쿠팡,매출도적자도최대...\"회원수사상최대수준\""
    ],
    "initialized": true,
-   "last_run": "2026-08-05T17:35:24.407619+09:00"
+   "last_run": "2026-08-05T17:40:28.108333+09:00"
   }
  },
  "press_names": {
