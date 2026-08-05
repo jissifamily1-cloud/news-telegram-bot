@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-06T01:35:22.324589+09:00",
-     "급전환 SK하이닉스 반토막 호재가 샌디스크 위기서 연합 주가"
-    ],
-    [
      "2026-08-06T02:10:26.552040+09:00",
      "샌디스크의 부활 박신영의 개장 노리는 오라클 메모리 승부수 주가"
     ],
@@ -514,13 +510,13 @@
     [
      "2026-08-06T07:30:34.248077+09:00",
      "죽는다 손실 지금 주식 1억 털면 미자"
+    ],
+    [
+     "2026-08-06T07:35:24.083079+09:00",
+     "걷어내니 성공 K배터리 전환했지만 2분기 일회성 절반의 흑자"
     ]
    ],
    "seen_urls": [
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=314376",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=594684",
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260805.99099001083",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608050451&t=NN",
     "https://www.g-enews.com/view.php?ud=202608051045497054923c501012_1",
     "https://biz.heraldcorp.com/article/10831477",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474532",
@@ -2016,13 +2012,13 @@
     "http://kor.theasian.asia/archives/411623",
     "https://www.news2day.co.kr/article/20260806500004",
     "https://biz.sbs.co.kr/article_hub/20000326952?division=NAVER",
-    "https://www.newsis.com/view/NISX20260806_0003738176"
+    "https://www.newsis.com/view/NISX20260806_0003738176",
+    "https://www.mydaily.co.kr/page/view/2026080607091019449",
+    "https://www.mydaily.co.kr/page/view/2026080602275558780",
+    "https://biz.sbs.co.kr/article_hub/20000326941?division=NAVER",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690268"
    ],
    "seen_titles": [
-    "삼성물산홈닉,청소·세차·펫케어까지생활편의서비스확대-주거플랫...",
-    "주가반토막,트와이스이적설까지…고민깊은JYP",
-    "신한카드갤럭시Z8시리즈구매고객5만원캐시백",
-    "삼성전자,8월반도체상장기업브랜드평판1위…SK하이닉스·한미반도...",
     "“SK하이닉스비켜”…삼성전자3D메모리로‘판뒤집기’",
     "경찰,주주단체가고발한'삼전닉스'대표수사착수",
     "거래소도‘변동성차단막’높였다…171개종목증거금률일제히상향",
@@ -3518,10 +3514,14 @@
     "[박영옥주식농부긴급제언]국민을하루12시간시세판에붙잡아둬선...",
     "'28년만'미·일공조환율개입…엔캐리청산,국내증시새변수로",
     "반도체가갈랐다…김포6채팔아야동탄1채산다?",
-    "'주식1억손실'미자\"지금털면죽는다\""
+    "'주식1억손실'미자\"지금털면죽는다\"",
+    "275만원에샀는데166만원대하락…미자\"지금털면죽는다\"",
+    "\"이곳에서행복하다\"...'뮌헨잔류선언'김민재제주전승리후동료들...",
+    "[마켓프리뷰]뉴욕증시'훈풍'분코스피…반도체슈퍼사이클재해석?",
+    "K배터리2분기흑자전환했지만...일회성걷어내니'절반의성공'"
    ],
    "initialized": true,
-   "last_run": "2026-08-06T07:30:34.248077+09:00"
+   "last_run": "2026-08-06T07:35:24.083079+09:00"
   }
  },
  "press_names": {
