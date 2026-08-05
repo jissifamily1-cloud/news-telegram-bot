@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-06T00:10:27.091059+09:00",
-     "마지막 이용재 이효빈 아시안컵 강원FC 소집 대비 훈련"
-    ],
-    [
      "2026-08-06T00:15:34.248655+09:00",
      "떠오른 부동산 의문점들 세제개편안에서"
     ],
@@ -262,12 +258,21 @@
     [
      "2026-08-06T06:05:26.168021+09:00",
      "셀트리온 리가켐까지 제약바이오 유한양행 기업가치 높이는"
+    ],
+    [
+     "2026-08-06T06:10:33.428041+09:00",
+     "SK바이오팜 시동 병렬 차세대 파이프라인 5대"
+    ],
+    [
+     "2026-08-06T06:10:33.428041+09:00",
+     "패러다임 진화 약물부터 치료 뇌전증 수술까지"
+    ],
+    [
+     "2026-08-06T06:10:33.428041+09:00",
+     "단일종목 레버리지 끼얹은 K증시에 찬물"
     ]
    ],
    "seen_urls": [
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=238361",
-    "https://www.ngetnews.com/news/articleView.html?idxno=552136",
-    "https://www.cnbizm.com/news/articleView.html?idxno=310629",
     "https://www.mk.co.kr/article/12117456",
     "https://www.etoday.co.kr/news/view/2611204",
     "http://www.segyebiz.com/newsView/20260805509329?OutUrl=naver",
@@ -1764,12 +1769,12 @@
     "https://www.bloter.net/news/articleView.html?idxno=670152",
     "https://www.readersnews.com/news/articleView.html?idxno=200497",
     "https://www.newsis.com/view/NISX20260805_0003738116",
-    "https://www.news1.kr/bio/pharmaceutical-bio/6250200"
+    "https://www.news1.kr/bio/pharmaceutical-bio/6250200",
+    "https://www.medipana.com/news/articleView.html?idxno=415557",
+    "https://www.dailymedi.com/news/news_view.php?wr_id=938663",
+    "https://www.news1.kr/finance/general-stock/6250353"
    ],
    "seen_titles": [
-    "SK바이오팜,2분기영업익971억,57%증가…세노바메이트미국매출확...",
-    "세노바메이트美매출45.6%↑…SK바이오팜,사상최대실적경신",
-    "'2031년메모리선두'무게…정부·삼성·SK투자확대",
     "SK바이오팜,2분기영업이익56.9%증가…세노바메이트미국매출호조",
     "SK텔레콤,2분기영업이익67%급증…AI데이터센터성장본격화",
     "SKT,2분기영업익67%뛰었다...AI데이터센터가매출성장견인",
@@ -3266,10 +3271,13 @@
     "[박종면칼럼]SK최태원회장이치르는'사랑의값'",
     "누구나겪을수있는일,이혼",
     "[오늘의주요일정]사회(8월6일목요일)",
-    "유한양행·셀트리온·리가켐까지…기업가치높이는K-제약바이오"
+    "유한양행·셀트리온·리가켐까지…기업가치높이는K-제약바이오",
+    "SK바이오팜,차세대R&D시동…5대파이프라인병렬추진",
+    "﻿약물부터수술까지…뇌전증치료패러다임진화",
+    "[기자의눈]K증시에찬물끼얹은단일종목레버리지"
    ],
    "initialized": true,
-   "last_run": "2026-08-06T06:05:26.168021+09:00"
+   "last_run": "2026-08-06T06:10:33.428041+09:00"
   }
  },
  "press_names": {
