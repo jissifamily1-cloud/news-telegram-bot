@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-05T05:45:26.415750+09:00",
-     "P도 반도체 최고치 날개 다시 사상"
-    ],
-    [
      "2026-08-05T05:50:32.021062+09:00",
      "보며 투자자 위안 30억 처참한 삼길 증발 레버리지 2개월"
     ],
@@ -1278,17 +1274,21 @@
     [
      "2026-08-05T11:45:25.023750+09:00",
      "핵심된 삼기에너지솔루션즈 ESS 북미 전력망 K기업 진출"
+    ],
+    [
+     "2026-08-05T11:50:27.364579+09:00",
+     "확대 K반도체 HBM 높아지는 8배 내년 위상 수요"
+    ],
+    [
+     "2026-08-05T11:50:27.364579+09:00",
+     "기관 GS건설 두산에너빌리 금호타이어 외국인 대원전선"
+    ],
+    [
+     "2026-08-05T11:50:27.364579+09:00",
+     "생각한다 제주 승리만 신입 뽐낸 아이아스 상대로 뮌헨 개인기"
     ]
    ],
    "seen_urls": [
-    "http://www.osen.co.kr/article/G1112852138",
-    "http://www.osen.co.kr/article/G1112852137",
-    "https://www.xportsnews.com/article/2180061",
-    "https://www.xportsnews.com/article/2180062",
-    "http://www.stoo.com/article.php?aid=108111943464",
-    "https://www.xportsnews.com/article/2180059",
-    "https://www.xportsnews.com/article/2180057",
-    "https://www.xportsnews.com/article/2180056",
     "https://www.xportsnews.com/article/2180060",
     "https://www.xportsnews.com/article/2180058",
     "https://www.xportsnews.com/article/2180063",
@@ -2780,17 +2780,17 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1719205",
     "http://www.srtimes.kr/news/articleView.html?idxno=209184",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1719203",
-    "https://www.widedaily.com/news/articleView.html?idxno=298890"
+    "https://www.widedaily.com/news/articleView.html?idxno=298890",
+    "https://www.wikitree.co.kr/articles/1150526",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048173",
+    "http://www.nongaek.com/news/articleView.html?idxno=96312",
+    "https://view.asiae.co.kr/article/2026080510161692083",
+    "https://www.yna.co.kr/view/AKR20260805075700008?input=1195m",
+    "https://www.munhwa.com/article/11607404",
+    "https://www.newstnt.com/news/articleView.html?idxno=712896",
+    "https://www.newsis.com/view/NISX20260805_0003736796"
    ],
    "seen_titles": [
-    "“‘삼전닉스’목표주가깎습니다”…증권가돌변한이유는",
-    "[논설위원의단도직입]“메가프로젝트는기업보다사람…지역에인재가...",
-    "[ST포토]펠리페차베즈,공간을본다",
-    "\"반한국인이자인천시민으로서책임감갖고나설것\"…생애첫'팀K리...",
-    "[ST포토]김민재,뛰어나가~",
-    "[ST포토]김민재,밀고올라간다",
-    "이창민‘뮌헨골망을흔들었어’[포토]",
-    "이창민‘아이아스의축하받으며’[포토]",
     "김민재‘비쇼프와주고받으며’[포토]",
     "김민재‘뮌헨의캡틴’[포토]",
     "이토‘공간패스’[포토]",
@@ -4282,10 +4282,18 @@
     "정보유출도벅찬데화재·결제감소까지...쿠팡덮친'악재쓰나미'",
     "미래에셋증권,해외법인체질개선결실…글로벌전략성과가시화",
     "[EBN데이터센터]반도체대표주(생산)일제히급등...실적힘받은DB하...",
-    "[특징주]삼기에너지솔루션즈,\"美전력망핵심된ESS\"K기업북미진출..."
+    "[특징주]삼기에너지솔루션즈,\"美전력망핵심된ESS\"K기업북미진출...",
+    "SK하이닉스·샌디스크HBF표준공개…삼성·마이크론관망",
+    "SK바이오팜,'세노바메이트'날개달고고공행진",
+    "극심한코스피변동성에서'개미'피해막자면…정책개입최소화를",
+    "SKT,2분기실적날았다…AI데이터센터사업청신호(종합)",
+    "'폭락→폭등'후쉬어가던코스피,美반도체훈풍에상승재개",
+    "내년HBM수요1.8배확대…더높아지는K반도체위상",
+    "[특징주]외국인'금호타이어·대원전선',기관'GS건설·두산에너빌리...",
+    "뮌헨상대로개인기뽐낸'제주신입'아이아스\"팀승리만생각한다\""
    ],
    "initialized": true,
-   "last_run": "2026-08-05T11:45:25.023750+09:00"
+   "last_run": "2026-08-05T11:50:27.364579+09:00"
   }
  },
  "press_names": {
