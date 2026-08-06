@@ -1341,7 +1341,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260806000237",
     "https://news.tf.co.kr/read/economy/2351088.htm",
     "https://www.pointe.co.kr/news/articleView.html?idxno=82865",
     "https://www.cbci.co.kr/news/articleView.html?idxno=595144",
@@ -2840,10 +2839,10 @@
     "https://sports.khan.co.kr/article/202608061933003?pt=nv",
     "https://www.ytn.co.kr/_ln/0102_202608061922562112",
     "http://www.kwangju.co.kr/article.php?aid=1786012200802031277",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1719488"
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1719488",
+    "https://www.tfmedia.co.kr/news/article.html?no=206295"
    ],
    "seen_titles": [
-    "이재용회장,CEO브랜드평판8월빅데이터1위...최태원·구광모회장순",
     "ADT캡스,보안부터매출·근태까지...'매장솔루션'으로통합운영",
     "[개장시황]차익실현매물에코스피,1%대하락출발…삼전닉스약세",
     "뉴욕증시숨고르기에코스피약세출발…반도체주중심매도세",
@@ -4342,10 +4341,11 @@
     "‘끼리끼리’김풍·뮤지·안재현,보양으로가득한해남여행1일차마...",
     "정부\"이른시일내부동산공급발표\"...시장반응은?[이슈플러스]",
     "군공항이전‘실타래’풀린다…무안군국가산단신청서접수",
-    "삼성전자·SK하이닉스가흔들면日증시도출렁…닛케이'한국연동'심화"
+    "삼성전자·SK하이닉스가흔들면日증시도출렁…닛케이'한국연동'심화",
+    "삼전·하닉'주주환원확대방안'공개초읽기...증권가전망은?"
    ],
    "initialized": true,
-   "last_run": "2026-08-06T19:35:22.621016+09:00"
+   "last_run": "2026-08-06T19:40:27.565626+09:00"
   }
  },
  "press_names": {
