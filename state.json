@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-06T16:25:22.622264+09:00",
-     "이익 매각 3조 바꾼 미래 현금과 실트론"
-    ],
-    [
-     "2026-08-06T16:25:22.622264+09:00",
-     "반도체주 급락 코스피"
-    ],
-    [
-     "2026-08-06T16:25:22.622264+09:00",
-     "국내 만든다 전기 400MW 13만가구 발전단지 태양광 첫삽 해남"
-    ],
-    [
-     "2026-08-06T16:25:22.622264+09:00",
-     "엔비디아도 부담 SK하이닉스는 삼성전자 탄탄대로 HBM 원가"
-    ],
-    [
      "2026-08-06T16:30:35.321423+09:00",
      "인수 롯데렌탈 복잡해진 여전한 숙제 셈법 기업결합"
     ],
@@ -818,10 +802,13 @@
     [
      "2026-08-06T21:55:23.724367+09:00",
      "부족하다 주52시간 경쟁상대 중국은 김정관 손보자는"
+    ],
+    [
+     "2026-08-06T22:30:34.954255+09:00",
+     "레버리지 이후 단일종목 투자자들 지수형 돌려 상품 규제"
     ]
    ],
    "seen_urls": [
-    "https://www.job-post.co.kr/news/articleView.html?idxno=223240",
     "https://biz.sbs.co.kr/article_hub/20000326983?division=NAVER",
     "http://www.popcornnews.net/news/articleView.html?idxno=128838",
     "https://www.businessplus.kr/news/articleView.html?idxno=115123",
@@ -2320,10 +2307,10 @@
     "https://en.yna.co.kr/view/AEN20260806004652320?input=2106m",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=269479",
     "http://www.osen.co.kr/article/G1112853221",
-    "https://www.busan.com/view/busan/view.php?code=2026080620444638917"
+    "https://www.busan.com/view/busan/view.php?code=2026080620444638917",
+    "https://www.tokenpost.kr/news/market/386348"
    ],
    "seen_titles": [
-    "[소버린AI생태계]소버린AI92%가엔비디아칩···한국,AMD·리벨리온...",
     "美반도체주약세에코스피6400선다시반납…외국인매도에낙폭확대",
     "이상일시장,베트남ICT·반도체산업협력확대",
     "레버리지ETF묶자,변동성뚝떨어졌다[시장엿보기]",
@@ -3822,10 +3809,11 @@
     "(2ndLD)IndustryministersaysU.S.likelytoannouncenewSection301",
     "[종합]N%성과급제동건김정관장관\"주총결의의무화추진\"",
     "'뮌헨'김민재\"손흥민,4년후월드컵도출전가능할듯\"('짐종국')",
-    "'주52시간'손보자는김정관\"경쟁상대중국은'996'도부족하다해\""
+    "'주52시간'손보자는김정관\"경쟁상대중국은'996'도부족하다해\"",
+    "단일종목레버리지규제이후,투자자들'지수형상품'으로눈돌려"
    ],
    "initialized": true,
-   "last_run": "2026-08-06T22:25:21.013829+09:00"
+   "last_run": "2026-08-06T22:30:34.954255+09:00"
   }
  },
  "press_names": {
