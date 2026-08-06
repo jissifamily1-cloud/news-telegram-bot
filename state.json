@@ -1270,10 +1270,13 @@
     [
      "2026-08-06T19:55:22.817041+09:00",
      "악화 미중 마감 증시 반락 관계 홍콩 H주 우려에"
+    ],
+    [
+     "2026-08-06T20:08:49.852439+09:00",
+     "장세 본격화 반도체 수급 실적 일단락 충격 레버리지"
     ]
    ],
    "seen_urls": [
-    "https://www.newstopkorea.com/news/articleView.html?idxno=46810",
     "http://www.newsdream.kr/news/articleView.html?idxno=115780",
     "https://www.ekn.kr/web/view.php?key=20260806025570069",
     "https://biz.sbs.co.kr/article_hub/20000326974?division=NAVER",
@@ -2772,10 +2775,10 @@
     "https://www.newsis.com/view/NISX20260806_0003739638",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=363172",
     "https://www.hankyung.com/article/2026080690556",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16156666"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16156666",
+    "https://www.munhwa.com/article/11607815"
    ],
    "seen_titles": [
-    "Sh수협은행,상상인증권품는다…연내거래완료추진",
     "SK하이닉스,美인디애나공장착공준비착착…손님맞을채비분주",
     "[SK하닉,순현금100조]반년만에30년치현금쌓았다",
     "[시황]코스피6400선에장시작…전일比1.8%↓",
@@ -4274,10 +4277,11 @@
     "[올댓차이나]홍콩증시,미중관계악화우려에반락마감…H주1.22%↓",
     "HBM넘어'메모리아키텍처'로...삼성·SK,AI반도체주도권재격돌",
     "코스피안정될까…단일레버리지거래첫1조아래로'뚝'[분석+]",
-    "'평단275만'미자,주식손실근황?\"지금털면죽어\"…김태현\"우리집..."
+    "'평단275만'미자,주식손실근황?\"지금털면죽어\"…김태현\"우리집...",
+    "“레버리지·수급충격일단락…반도체실적장세본격화”"
    ],
    "initialized": true,
-   "last_run": "2026-08-06T20:05:23.003222+09:00"
+   "last_run": "2026-08-06T20:08:49.852439+09:00"
   }
  },
  "press_names": {
