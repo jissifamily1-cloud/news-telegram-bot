@@ -1301,7 +1301,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/economy/securities/2026/08/06/20260806500022?wlog_tag3=naver",
     "https://www.yna.co.kr/view/AKR20260806029700008?input=1195m",
     "https://www.theguru.co.kr/news/article.html?no=105424",
     "https://www.newstopkorea.com/news/articleView.html?idxno=46810",
@@ -2800,10 +2799,10 @@
     "http://www.fnnews.com/news/202608061938253556",
     "http://www.4th.kr/news/articleView.html?idxno=2115949",
     "https://www.iusm.co.kr/news/articleView.html?idxno=1066386",
-    "https://www.newsis.com/view/NISX20260806_0003739638"
+    "https://www.newsis.com/view/NISX20260806_0003739638",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=363172"
    ],
    "seen_titles": [
-    "“SK,AI부품넘어지능수출…아태지형바꾼다”",
     "GPU보다귀한'전기'…AI수혜,HD현대·효성·LS가가져간다",
     "[속보]SK하이닉스또-7%↓…코스피6400선무너졌다",
     "Sh수협은행,상상인증권품는다…연내거래완료추진",
@@ -4302,10 +4301,11 @@
     "'삼전·닉스'동반급락에도…골드만\"코스피목표치1만2000유지\"",
     "'삼전닉스레버리지'두달…운용사37억벌고투자자는반토막",
     "무더위날릴'빅매치'…울산,2연승상승세타고'동해안더비'출격",
-    "[올댓차이나]홍콩증시,미중관계악화우려에반락마감…H주1.22%↓"
+    "[올댓차이나]홍콩증시,미중관계악화우려에반락마감…H주1.22%↓",
+    "HBM넘어'메모리아키텍처'로...삼성·SK,AI반도체주도권재격돌"
    ],
    "initialized": true,
-   "last_run": "2026-08-06T19:55:22.817041+09:00"
+   "last_run": "2026-08-06T20:00:42.005203+09:00"
   }
  },
  "press_names": {
