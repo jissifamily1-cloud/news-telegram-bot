@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-06T18:35:25.249620+09:00",
-     "버벅이는 집중하는 때문 HBF에 이유 SK하이닉스가 부족 메모리"
-    ],
-    [
-     "2026-08-06T18:35:25.249620+09:00",
-     "Market Memory Crunch the Supply Will Reshape"
-    ],
-    [
-     "2026-08-06T18:35:25.249620+09:00",
-     "호주산 원유 멀다 탈중동 들여왔지만"
-    ],
-    [
      "2026-08-06T18:40:29.348135+09:00",
      "1만원대 롯데관광개발 1900억인데 비이성적 주가는 영업이익 괴리"
     ],
@@ -370,11 +358,17 @@
     [
      "2026-08-07T00:25:30.980023+09:00",
      "모두가 한국은 종속 엔비디아 내걸지만 자립 탈출"
+    ],
+    [
+     "2026-08-07T00:37:04.051970+09:00",
+     "실적보다 박정원 경영 두산그룹 성과 회장"
+    ],
+    [
+     "2026-08-07T00:37:04.051970+09:00",
+     "10월 최저 이후 환율 장중 414원 지난해"
     ]
    ],
    "seen_urls": [
-    "http://www.sisunnews.co.kr/news/articleView.html?idxno=243693",
-    "https://www.handmk.com/news/articleView.html?idxno=41922",
     "https://www.delighti.co.kr/news/articleView.html?idxno=119883",
     "https://www.kdpress.co.kr/news/articleView.html?idxno=207555",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=316098",
@@ -1872,11 +1866,11 @@
     "https://www.hankyung.com/article/2026080693301",
     "https://www.joongang.co.kr/article/25451493",
     "https://www.joongang.co.kr/article/25451503",
-    "https://www.kmib.co.kr/article/view.asp?arcid=1786004597&code=11151400&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=1786004597&code=11151400&cp=nv",
+    "https://www.news2day.co.kr/article/20260806500134",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260807003139Wkq"
    ],
    "seen_titles": [
-    "8월수도권9000여가구입주…'강동역SK리더스뷰'입주예정",
-    "머스크“메모리부족계속된다”…반도체정점론반박",
     "10주년맞은국내최대발달장애인음악축제'GREATMUSICFESTIVAL',9월1...",
     "하트-하트재단,발달장애인음악인들의무대〈제10회GMF〉개최",
     "SK쉴더스ADT캡스,매장운영·보안통합관리서비스선봬",
@@ -3374,10 +3368,12 @@
     "[다산칼럼]'롤러코스피'생존법",
     "[김동호의시선]노란봉투법,지침손질로는혼란못막는다",
     "[사설]증시폭락겪고도“경제견실”딴소리하는정부",
-    "모두가“AI자립”내걸지만92%는엔비디아종속…한국은‘탈출’..."
+    "모두가“AI자립”내걸지만92%는엔비디아종속…한국은‘탈출’...",
+    "[신(新)인물탐구(51)]두산그룹박정원회장②경영성과-실적보다산...",
+    "환율장중1,414원…지난해10월이후최저"
    ],
    "initialized": true,
-   "last_run": "2026-08-07T00:30:37.706946+09:00"
+   "last_run": "2026-08-07T00:37:04.051970+09:00"
   }
  },
  "press_names": {
