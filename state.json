@@ -270,17 +270,25 @@
     [
      "2026-08-07T07:30:34.194092+09:00",
      "알파벳 리스크 스페이스X에 시장 머니 몰린 다이먼은"
+    ],
+    [
+     "2026-08-07T07:35:27.409883+09:00",
+     "주주환원도 LG유플러스 올해 사상 전망 기대 영업익"
+    ],
+    [
+     "2026-08-07T07:35:27.409883+09:00",
+     "유가 이란전 우려에 하락 장기화 급등 주가"
+    ],
+    [
+     "2026-08-07T07:35:27.409883+09:00",
+     "배터리 맞서 잔혹사 우려에도 반복 초격차 굳건 메모리"
+    ],
+    [
+     "2026-08-07T07:35:27.409883+09:00",
+     "지속성 K배터리 웃었다 3사 함께 관건은 하반기"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260806092141269",
-    "http://enews.imbc.com/News/RetrieveNewsInfo/513857",
-    "http://www.ddanzi.com/891086124",
-    "https://www.sisajournal.com/news/articleView.html?idxno=382536",
-    "https://en.yna.co.kr/view/AEN20260806002500320?input=2106m",
-    "https://www.xportsnews.com/article/2180616",
-    "http://www.smarttimes.co.kr/news/articleView.html?idxno=47941",
-    "https://www.cnbnews.com/news/articleView.html?idxno=1010565",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1719353",
     "https://www.ddaily.co.kr/page/view/2026080610291172686",
     "https://www.etoday.co.kr/news/view/2611682",
@@ -1772,17 +1780,17 @@
     "https://biz.sbs.co.kr/article_hub/20000327230?division=NAVER",
     "https://www.globale.co.kr/news/articleView.html?idxno=39746",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=361410",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04634646645545024"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=04634646645545024",
+    "https://www.hankyung.com/article/2026080796996",
+    "https://www.donga.com/news/Culture/article/all/20260807/134435367/1",
+    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257004",
+    "https://www.upkoreanews.kr/news/articleView.html?idxno=99670",
+    "https://www.etoday.co.kr/news/view/2611969",
+    "https://www.viewsnnews.com/article?q=237729",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092167483",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=854955"
    ],
    "seen_titles": [
-    "반도체날개단상반기경상흑자,전년의4배…\"하반기도최대수준흐...",
-    "[MUSTKNOW5]머스크의선택은엔비디아…AI투자전쟁더뜨거워졌다",
-    "김성환기후장관,닛케이인터뷰서혼소발전폐지재확인…\"日암모니...",
-    "김풍\"편하게자라며!\"…안재현운전실력에분노폭발(끼리끼리)",
-    "[뉴공아카이브]김민석전국무총:김민석,순회경선첫주접전끝에2...",
-    "[구미24시]갤럭시Z8사전예약144만대…구미서출시기념행사",
-    "Financeministervoicesconfidenceineconomy,vowseffortstostabil",
-    "'삼전닉스'주식창아닌현실에서만난다…'사만추'직장인연프론칭",
     "'단11주'에또무너진시초가…SK하이닉스,프리마켓하한가재발에논...",
     "SK에코플랜트,AI사업성과담은지속가능경영보고서발간",
     "[EBN데이터센터]반도체급락에코스피시총상위약세...방산·금융선...",
@@ -3274,10 +3282,18 @@
     "[마켓프리뷰]상승세지키지못한코스피급락마감…코스닥'강보합'",
     "이란,호르무즈통항금지추진에유가급등···뉴욕증시약세",
     "호르무즈악재에뉴욕증시하락…다우1%↓",
-    "[MUSTKNOW5]알파벳·스페이스X에몰린AI머니…다이먼은시장리스크..."
+    "[MUSTKNOW5]알파벳·스페이스X에몰린AI머니…다이먼은시장리스크...",
+    "중동긴장재고조에'뉴욕증시'약세…유가뛰고반도체주↓[뉴욕증시...",
+    "홍진경,‘삼전닉스’추천전문가에“왜비쌀때사라했냐”분노",
+    "[넥스트-샷]\"또이란,지겹다\"피로감쌓인증시,호르무즈재점화에약...",
+    "유가급등·뉴욕증시동반하락…이란'호르무즈美·이스라엘선박제...",
+    "SK證,“LG유플러스,올해영업익사상최대전망⋯주주환원도기대이...",
+    "이란전장기화우려에유가급등-美주가하락",
+    "'배터리잔혹사'반복우려에도…메모리,中맞서초격차굳건",
+    "K배터리3사함께웃었다…하반기관건은'지속성'"
    ],
    "initialized": true,
-   "last_run": "2026-08-07T07:30:34.194092+09:00"
+   "last_run": "2026-08-07T07:35:27.409883+09:00"
   }
  },
  "press_names": {
