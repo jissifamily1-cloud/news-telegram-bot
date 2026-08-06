@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-07T01:15:01.758967+09:00",
-     "경상 이미 5배 상반기 작년의 흑자"
-    ],
-    [
-     "2026-08-07T01:15:01.758967+09:00",
-     "환율 만에 기록 유가 국제 10개월 최저치 안정이 배경 달러"
-    ],
-    [
-     "2026-08-07T01:15:01.758967+09:00",
-     "한계 비전 목표 유치만으론 가진 생태계로 기업 창업"
-    ],
-    [
      "2026-08-07T01:48:26.718708+09:00",
      "않는다 팔을 권력은 비틀지"
     ],
@@ -270,13 +258,17 @@
     [
      "2026-08-07T07:10:49.822026+09:00",
      "민정수석비서관 한찬식 청와대"
+    ],
+    [
+     "2026-08-07T07:15:28.111120+09:00",
+     "질주 본업 사업 희미해진 통신"
+    ],
+    [
+     "2026-08-07T07:15:28.111120+09:00",
+     "관세 반도체 파생제품에 핵심 국내 폴리실리콘 태양광 원료"
     ]
    ],
    "seen_urls": [
-    "https://www.chosun.com/economy/stock-finance/2026/08/06/4MYJDJL23JGE7OCEYAPYT2M7BY/",
-    "https://zdnet.co.kr/view/?no=20260806102422",
-    "https://www.ppss.kr/news/articleView.html?idxno=304320",
-    "https://www.newsis.com/view/NISX20260806_0003738418",
     "https://www.kyeonggi.com/article/20260806580079",
     "http://www.joseilbo.com/news/news_read.php?uid=573346&class=17",
     "https://biz.heraldcorp.com/article/10832667",
@@ -1772,13 +1764,13 @@
     "https://biz.sbs.co.kr/article_hub/20000327220?division=NAVER",
     "https://magazine.hankyung.com/business/article/202608068152b",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1719501",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=443751"
+    "https://www.businesspost.co.kr/BP?command=article_view&num=443751",
+    "https://www.xportsnews.com/article/2180899",
+    "https://www.sedaily.com/article/20076686",
+    "https://www.newsway.co.kr/news/view?ud=2026080617051560396",
+    "https://www.chosun.com/economy/economy_general/2026/08/07/CTYH3AOAKBCZDPU5AVTAKDZAF4/"
    ],
    "seen_titles": [
-    "ADT캡스,매장운영·보안통합관리‘캡스매장솔루션’선보여",
-    "코스피,4~5%대로낙폭확대…매도사이드카발동",
-    "[속보]코스피,장중6300선내줘...매도사이드카발동",
-    "\"SK1조3600억달러AI투자,아태기술지형재편”",
     "DB증권,SK텔레콤목표가12.5만원상향...데이터센터설립추진",
     "\"지금털면죽어요\"…SK하이닉스손실중인미자,버티면다시웃을까",
     "[속보]코스피5%대폭락해'매도사이드카'발동…삼전·SK하닉'와르르...",
@@ -3274,10 +3266,14 @@
     "[증시전략]스페이스X,첫락업해제…9억주매물주가흔드나?",
     "AI슈퍼사이클의그늘…‘공급망프리미엄’시험대오른K산업",
     "호르무즈악재에메모리차익실현까지…다우464P·하이닉스ADR5%↓",
-    "[WhoIs?]한찬식청와대민정수석비서관"
+    "[WhoIs?]한찬식청와대민정수석비서관",
+    "홍진경,'삼전닉스'하락에하소연…\"사라해서샀는데계속빠져\"(찐천...",
+    "코스닥5일랠리에레버리지ETF‘방긋’…수익률60%찍었다[마켓시그...",
+    "[기자수첩]AI사업질주,희미해진통신본업",
+    "美,반도체·태양광핵심원료폴리실리콘파생제품에15%관세…국내..."
    ],
    "initialized": true,
-   "last_run": "2026-08-07T07:10:49.822026+09:00"
+   "last_run": "2026-08-07T07:15:28.111120+09:00"
   }
  },
  "press_names": {
