@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-06T16:40:37.481217+09:00",
-     "짓지 않는 데이터센터 실적에도 분기 이유는 카카오"
-    ],
-    [
-     "2026-08-06T16:40:37.481217+09:00",
-     "삼성전자 반도 폭락 다시 급락 하이닉스 덮친"
-    ],
-    [
-     "2026-08-06T16:40:37.481217+09:00",
-     "정치의 내준 묻는다 이유를 공짜 존재 여주"
-    ],
-    [
      "2026-08-06T16:45:27.266647+09:00",
      "원화도 외환위기 약해진다 97년 소환 베선트"
     ],
@@ -734,14 +722,17 @@
     [
      "2026-08-06T22:40:32.413561+09:00",
      "3분기 5조 스페이스X 전망 미래에셋증권 가능 순익 급락에 평가손실"
+    ],
+    [
+     "2026-08-06T22:45:25.087118+09:00",
+     "운용사는 흘릴 피눈물 개미들 벌어 37억 레버리지 만에"
+    ],
+    [
+     "2026-08-06T22:45:25.087118+09:00",
+     "분기 장기계약 영업이익 넘겨 4년 조정 10조 샌디스크 8개사와도"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260806_0003738542",
-    "http://www.fnnews.com/news/202608060943479929",
-    "https://www.smartbizn.com/news/articleView.html?idxno=150493",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=274251",
-    "https://www.mediapen.com/news/view/1114640",
     "https://biz.newdaily.co.kr/site/data/html/2026/08/06/2026080600059.html",
     "http://www.econotelling.com/news/articleView.html?idxno=21058",
     "http://www.newsfc.co.kr/news/articleView.html?idxno=80349",
@@ -2236,14 +2227,14 @@
     "https://www.tokenpost.kr/news/market/386348",
     "https://www.etoday.co.kr/news/view/2611945",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=09662886645544696",
-    "http://www.knpnews.com/news/articleView.html?idxno=34244"
+    "http://www.knpnews.com/news/articleView.html?idxno=34244",
+    "https://www.hankyung.com/article/2026080695481",
+    "http://www.newstown.co.kr/news/articleView.html?idxno=711646",
+    "http://www.newstown.co.kr/news/articleView.html?idxno=711648",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=09744886645544696",
+    "https://www.econovill.com/news/articleView.html?idxno=747354"
    ],
    "seen_titles": [
-    "이재용삼성,8월CEO브랜드평판1위…최태원SK·구광모LG뒤이어",
-    "SK에코플랜트,'2025지속가능경영보고서'발간…AI인프라전환성과조...",
-    "\"금감원유상증자제동에\"…SK디앤디'상한가'직행",
-    "'유증추진'SK디앤디,금감원정정요구에상한가[특징주]",
-    "코스피,장초반하락···6500선깨져",
     "SK에코플랜트,'2025지속가능경영보고서'발간",
     "코스피,장초반3%대낙폭…코스닥도닷새만에하락중",
     "SK하이닉스\"솔리다임확정된것없다\"…나스닥상장설진화",
@@ -3738,10 +3729,15 @@
     "단일종목레버리지규제이후,투자자들'지수형상품'으로눈돌려",
     "김종국만난김민재,남아공전패배에솔직한속내⋯\"선수들도못하긴...",
     "'몸값오른'中CXMT,애플가격인하요구거부",
-    "'1.5조순익'전망미래에셋증권,스페이스X급락에3분기평가손실가능..."
+    "'1.5조순익'전망미래에셋증권,스페이스X급락에3분기평가손실가능...",
+    "\"삼전닉스보다싼가격에안팔아\"…中CXMT'배짱영업'",
+    "용인특례시의회,베트남대표ICT기업FPT서미래산업해법모색",
+    "용인반도체생태계,베트남다낭과연결한다…이상일시장협력확대...",
+    "개미들‘레버리지’피눈물흘릴때,운용사는두달만에37억벌어",
+    "샌디스크,분기조정영업이익10조넘겨…8개사와도4년장기계약"
    ],
    "initialized": true,
-   "last_run": "2026-08-06T22:40:32.413561+09:00"
+   "last_run": "2026-08-06T22:45:25.087118+09:00"
   }
  },
  "press_names": {
