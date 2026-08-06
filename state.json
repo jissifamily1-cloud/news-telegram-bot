@@ -1345,9 +1345,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/politics/2026/08/05/2026080516095627132",
-    "https://www.smartbizn.com/news/articleView.html?idxno=150424",
-    "https://www.newsway.co.kr/news/view?ud=2026080513443912600",
     "https://www.jejumaeil.net/news/articleView.html?idxno=403390",
     "https://www.ddaily.co.kr/page/view/2026080516525898249",
     "https://www.etoday.co.kr/news/view/2611438",
@@ -2844,12 +2841,12 @@
     "http://www.newsroad.co.kr/news/articleView.html?idxno=62517",
     "https://www.newstree.kr/newsView/ntr202608060016",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=269392",
-    "https://www.joongangenews.com/news/articleView.html?idxno=538175"
+    "https://www.joongangenews.com/news/articleView.html?idxno=538175",
+    "https://www.todayeconomic.com/news/article.html?no=31633",
+    "http://www.cctimes.kr/news/articleView.html?idxno=920539",
+    "https://www.thepublic.kr/news/articleView.html?idxno=314037"
    ],
    "seen_titles": [
-    "\"성과급교섭은배임\"…경찰,'삼전닉스'대표고발수사착수",
-    "월가가다시매긴SK하이닉스가치",
-    "'레버리지ETF'공방…김민석\"특위확대개편\"VS정청래\"매우유감\"",
     "[금융家브리핑]금융권,고객서비스확대···기업지원부터문화·안...",
     "우리투자증권,2년만에IB경쟁력'쑥'…남은과제는'리테일점유율'",
     "AI세계적권위학술대회제주서개막…한국첫개최",
@@ -4346,10 +4343,13 @@
     "증권사,파생상품743억원신규공모…한화ELB청약률은0.8%",
     "해남에400㎿태양광단지첫삽...주민참여형2028년완공목표",
     "'글로벌폭염덕'UV강한K-뷰티,미국넘어유럽공략…화장품종목동...",
-    "[지방의회24時]용인특례시의회,베트남대표ICT기업FPT방문"
+    "[지방의회24時]용인특례시의회,베트남대표ICT기업FPT방문",
+    "삼전·하이닉스,실적은사상최대인데주가는왜곤두박질치나",
+    "DB하이텍유휴장비공공연구소이전…반도체생태계선순환시동",
+    "코웨이,국내렌탈·동남아사업동반성장…2분기호실적기대"
    ],
    "initialized": true,
-   "last_run": "2026-08-06T12:32:41.358905+09:00"
+   "last_run": "2026-08-06T12:35:27.270923+09:00"
   }
  },
  "press_names": {
