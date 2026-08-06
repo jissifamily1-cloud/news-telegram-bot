@@ -162,13 +162,17 @@
     [
      "2026-08-07T06:50:29.890356+09:00",
      "연평균 엑스코프리 10억 폭풍 2029년 성장 달러 매출 SK바이오팜"
+    ],
+    [
+     "2026-08-07T06:55:33.464879+09:00",
+     "찍는다 증시 골드만삭스 1만2 핫이슈 향후 코스피 1년"
+    ],
+    [
+     "2026-08-07T06:55:33.464879+09:00",
+     "법안에 이란 뉴욕증시 다우 통항금지 조정"
     ]
    ],
    "seen_urls": [
-    "http://www.beyondpost.co.kr/view.php?ud=2026080610031819904c878f8fa1_30",
-    "https://view.asiae.co.kr/article/2026080608575637919",
-    "https://www.segye.com/newsView/20260806507146?OutUrl=naver",
-    "http://www.queen.co.kr/news/articleView.html?idxno=461337",
     "https://www.ytn.co.kr/_ln/0104_202608061012531656",
     "https://www.mk.co.kr/article/12118967",
     "https://www.news1.kr/economy/trend/6250840",
@@ -1664,13 +1668,13 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608070115&t=NN",
     "https://www.viva100.com/article/20260806501042",
     "https://www.viva100.com/article/20260806500716",
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=760959"
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=760959",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=442454",
+    "https://www.bntnews.co.kr/article/view/bnt202608070012",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005895921",
+    "https://www.bntnews.co.kr/article/view/bnt202608070013"
    ],
    "seen_titles": [
-    "[월간DCM]7월공모채1조원'뚝'…비우량채80%급감",
-    "코스피다시3%대하락…6,400선아래로",
-    "이상일,베트남FPT반도체R&D센터방문…“용인-다낭반도체협력새...",
-    "\"전세계독자적AI의92%가엔비디아칩에종속\"",
     "‘단일종목레버리지ETF’검증절차도마…이억원금융위원장도고발...",
     "6월경상수지497억달러,사상최대흑자기록경신",
     "전세계AI모델92%엔비디아의존...한국은'탈엔비디아'시도",
@@ -3166,10 +3170,14 @@
     "이제는연프도'삼전닉스'…\"성과급만14억\"역대급커플탄생할까",
     "“공급능력이경쟁력”⋯삼성·SK,장기공급계약으로AI수요잡는다",
     "2조달러반도체시장열린다⋯AI수혜따라메모리·팹리스‘희비’",
-    "SK바이오팜'엑스코프리'연평균46%폭풍성장...2029년매출10억달러..."
+    "SK바이오팜'엑스코프리'연평균46%폭풍성장...2029년매출10억달러...",
+    "뉴욕증시,유가급등등영향숨고르기속하락⋯샌디스크6%대급락-SK하...",
+    "SK하이닉스ADR5%급락…메모리실적실망에동반약세",
+    "증시오늘'핫이슈'…골드만삭스\"향후1년내코스피1만2,000찍는다\"",
+    "다우0.85%↓뉴욕증시,이란통항금지법안에조정"
    ],
    "initialized": true,
-   "last_run": "2026-08-07T06:50:29.890356+09:00"
+   "last_run": "2026-08-07T06:55:33.464879+09:00"
   }
  },
  "press_names": {
