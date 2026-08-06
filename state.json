@@ -466,13 +466,21 @@
     [
      "2026-08-07T08:35:27.655383+09:00",
      "최선호주 한국금융지주 41만원 목표가 유지"
+    ],
+    [
+     "2026-08-07T08:40:26.503127+09:00",
+     "신한투자증권 저평가 구간 과도한 유니셈"
+    ],
+    [
+     "2026-08-07T08:40:26.503127+09:00",
+     "제자리 흔들어 쏟아부어도 반도체가 개인 6조 지수"
+    ],
+    [
+     "2026-08-07T08:40:26.503127+09:00",
+     "부담 시도 완화 낙폭 회복 밸류에이션"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260806095856394",
-    "https://www.newspim.com/news/view/20260806000492",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=271217",
-    "https://www.newsmap.co.kr/news/articleView.html?idxno=2050",
     "https://www.yna.co.kr/view/AKR20260806068100008?input=1195m",
     "http://www.finomy.com/news/articleView.html?idxno=258679",
     "https://www.redian.org/news/articleView.html?idxno=257081",
@@ -1968,13 +1976,13 @@
     "https://www.kukinews.com/article/view/kuk202608060226",
     "https://www.newspim.com/news/view/20260807000059",
     "https://www.newspim.com/news/view/20260807000071",
-    "https://www.newspim.com/news/view/20260807000045"
+    "https://www.newspim.com/news/view/20260807000045",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608070269&t=NN",
+    "https://www.cstimes.com/news/articleView.html?idxno=716065",
+    "http://www.fnnews.com/news/202608070058206931",
+    "https://www.newspim.com/news/view/20260807000100"
    ],
    "seen_titles": [
-    "AsianStocksSlipasAIRallyFades,OilHoldsSteadyonIranPeaceDeal.",
-    "글로벌분석가가본SK그룹의AI전략",
-    "[아주사설│기본·원칙·상식]'3%성장률'지킬체력증진이필요하다",
-    "[특징주]美반도체약세에S7모두'파란불'",
     "SK하이닉스,프리마켓서또'하한가'…대체거래소'접속매매'허점노출",
     "SK텔레콤,통신넘어'AI데이터센터'…SK그룹새먹거리키운다",
     "미래운용\"변동성시대,반도체투자밸류체인전반에분산해야\"",
@@ -3470,10 +3478,14 @@
     "뮌헨과맞붙은제주,전북원정서무패행진이어갈지‘관심’[K리그...",
     "[모닝리포트]\"씨이랩,AI데이터센터구축수혜본격화…성장시동\"",
     "[모닝리포트]LG유플러스,증권사7곳모두'매수'의견",
-    "[모닝리포트]\"한국금융지주목표가41만원…최선호주유지\""
+    "[모닝리포트]\"한국금융지주목표가41만원…최선호주유지\"",
+    "\"사라고해서샀는데\"...홍진경,삼전닉스에'분통'",
+    "신한투자증권\"유니셈,과도한저평가구간\"",
+    "개인7.6조쏟아부어도제자리...반도체가지수흔들어",
+    "[AIMY증시전망]밸류에이션부담완화…낙폭회복시도"
    ],
    "initialized": true,
-   "last_run": "2026-08-07T08:35:27.655383+09:00"
+   "last_run": "2026-08-07T08:40:26.503127+09:00"
   }
  },
  "press_names": {
