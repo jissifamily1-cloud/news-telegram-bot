@@ -294,13 +294,17 @@
     [
      "2026-08-07T07:40:28.560728+09:00",
      "KB증권 연속 앞서 NH투자증권 대표주관"
+    ],
+    [
+     "2026-08-07T07:45:25.578340+09:00",
+     "호재 충격 에코프로 뚫은 반도체 개별 포스코퓨처엠"
+    ],
+    [
+     "2026-08-07T07:45:25.578340+09:00",
+     "규제에도 여전히 단종레 코스피 롤러코스터 타는"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026080680757",
-    "https://www.newsis.com/view/NISX20260806_0003738422",
-    "https://www.epnc.co.kr/news/articleView.html?idxno=405235",
-    "https://www.news1.kr/it-science/general-science/6250817",
     "https://www.news1.kr/finance/general-stock/6250913",
     "https://www.mk.co.kr/article/12118983",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474907",
@@ -1796,13 +1800,13 @@
     "http://coinreaders.com/251597",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=62548",
     "https://www.newsis.com/view/NISX20260807_0003739759",
-    "https://www.fntimes.com/html/view.php?ud=202608061045394461141825007d_18"
+    "https://www.fntimes.com/html/view.php?ud=202608061045394461141825007d_18",
+    "https://www.mk.co.kr/article/12120481",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608070252&t=NN",
+    "https://www.etoday.co.kr/news/view/2611972",
+    "https://www.ajunews.com/view/20260807073622268"
    ],
    "seen_titles": [
-    "코스피,장중5%대급락에사이드카발동…삼성·SK동반폭락",
-    "[속보]코스피5%급락매도사이드카발동‥SK하이닉스10%가까이급락",
-    "靑,'레버리지ETF'김용범책임론에\"대책챙기는것더중요\"",
-    "DB하이텍유휴장비,공공연구소로이전…반도체생태계선순환시동",
     "ADT캡스,'캡스매장솔루션'으로매장통합관리지원",
     "DB하이텍,반도체유휴장비공공나노팹으로무상이전",
     "코스피6거래일만에매도사이드카…삼전5%,SK하닉9%급락(상보)",
@@ -3298,10 +3302,14 @@
     "주주환원격차가가른주가!삼성전자·SK하이닉스주춤할때마이크론...",
     "이란'호르무즈통항금지'법안에뉴욕증시흔들렸다…다우0.9%급락",
     "[오늘의증시]반등노리는코스피…외국인수급·美국채금리가변수",
-    "[DCM]NH투자증권,대표주관두달연속KB증권앞서[7월리뷰②]"
+    "[DCM]NH투자증권,대표주관두달연속KB증권앞서[7월리뷰②]",
+    "“왜비쌀때사라고했나”…홍진경,‘삼전닉스’급락에분통",
+    "이란,호르무즈연다는데…해운업계의냉소와뜨거워진원유시장[마켓...",
+    "[증시키워드]반도체충격뚫은개별호재...포스코퓨처엠·에코프로·한...",
+    "[아주증시포커스]'단종레'규제에도여전히롤러코스터타는코스피外"
    ],
    "initialized": true,
-   "last_run": "2026-08-07T07:40:28.560728+09:00"
+   "last_run": "2026-08-07T07:45:25.578340+09:00"
   }
  },
  "press_names": {
