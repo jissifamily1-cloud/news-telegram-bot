@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-07T06:55:33.464879+09:00",
-     "찍는다 증시 골드만삭스 1만2 핫이슈 향후 코스피 1년"
-    ],
-    [
-     "2026-08-07T06:55:33.464879+09:00",
-     "법안에 이란 뉴욕증시 다우 통항금지 조정"
-    ],
-    [
      "2026-08-07T07:01:00.113660+09:00",
      "실적 숨고르기 변수 호르무즈 유가 국채"
     ],
@@ -1018,11 +1010,17 @@
     [
      "2026-08-07T12:35:22.183592+09:00",
      "노트 리더의"
+    ],
+    [
+     "2026-08-07T13:00:39.116069+09:00",
+     "3대지수 일제히 하락 선별통항 이란 호르무즈"
+    ],
+    [
+     "2026-08-07T13:00:39.116069+09:00",
+     "샀는데 안전할 월급 휴가비 ETF 날렸다 알고"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12119149",
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=84125",
     "https://www.yna.co.kr/view/AKR20260806094000008?input=1195m",
     "https://www.goodkyung.com/news/articleView.html?idxno=290007",
     "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520915",
@@ -2520,11 +2518,11 @@
     "https://www.venturesquare.net/1104396/",
     "http://www.fnnews.com/news/202608071103444470",
     "https://www.aitimes.com/news/articleView.html?idxno=213649",
-    "https://www.sportsworldi.com/newsView/20260807511227"
+    "https://www.sportsworldi.com/newsView/20260807511227",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=357110",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=05933526645545024"
    ],
    "seen_titles": [
-    "'솔리다임IPO추진설'SK하이닉스,주가9%급락",
-    "'-29.98%'SK하이닉스,프리마켓서또하한가소동...왜?",
     "Samsung,SKhynixslideasU.S.stocksendmixed",
     "로이터\"삼성전자·SK하이닉스,주주환원확대방침\"",
     "단일레버리지영향축소에도…삼전닉스휘청에코스피또변동성",
@@ -4022,10 +4020,12 @@
     "블랙웰GPU1천장확보한베슬AI…AI팩토리구축속도높인다",
     "'외국인ATM'된K증시…레버리지거래줄어도'삼전닉스'는롤러코스터...",
     "리얼월드,국내3사와엔비디아'아이작'벤치마크고도화나선다",
-    "역대최다843명출전…KBL유스클럽농구대회,14일제천서개막"
+    "역대최다843명출전…KBL유스클럽농구대회,14일제천서개막",
+    "[뉴욕증시]이란,호르무즈선별통항추진…3대지수일제히하락",
+    "\"안전할줄알고ETF샀는데…월급,휴가비다날렸다\""
    ],
    "initialized": true,
-   "last_run": "2026-08-07T12:55:21.311913+09:00"
+   "last_run": "2026-08-07T13:00:39.116069+09:00"
   }
  },
  "press_names": {
