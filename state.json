@@ -530,16 +530,17 @@
     [
      "2026-08-07T09:05:19.402484+09:00",
      "투자 겹호재 유니셈 재개 안정화 메모리 원가 신한투자"
+    ],
+    [
+     "2026-08-07T09:10:25.627051+09:00",
+     "실패 메모리 SK하이닉스만 웃었다 중국 카드 애플의 삼성"
+    ],
+    [
+     "2026-08-07T09:10:25.627051+09:00",
+     "출발 360선 코스피 상승"
     ]
    ],
    "seen_urls": [
-    "https://www.kukinews.com/article/view/kuk202608050187",
-    "https://www.hankyung.com/article/202608045012r",
-    "http://www.metroseoul.co.kr/article/20260806500145",
-    "https://www.insightkorea.co.kr/news/articleView.html?idxno=251784",
-    "https://view.asiae.co.kr/article/2026080508594841115",
-    "https://www.mydaily.co.kr/page/view/2026080611073340364",
-    "https://www.yna.co.kr/view/AKR20260806070100063?input=1195m",
     "https://www.businesspost.co.kr/BP?command=article_view&num=444087",
     "https://www.etnews.com/20260806000148",
     "https://view.asiae.co.kr/article/2026080608535987689",
@@ -2032,16 +2033,16 @@
     "https://dealsite.co.kr/articles/166667",
     "https://biz.chosun.com/stock/stock_general/2026/08/07/WZWKL5ANANGHLPVG2CUSME42BE/",
     "https://www.dailian.co.kr/news/view/1675602/?sc=Naver",
-    "https://www.newspim.com/news/view/20260807000133"
+    "https://www.newspim.com/news/view/20260807000133",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=169487",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=269497",
+    "https://www.mk.co.kr/article/12120575",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048969",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=269494",
+    "https://zdnet.co.kr/view/?no=20260807082728",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260807090749E59"
    ],
    "seen_titles": [
-    "갤럭시새폴더블폰효과…중고폰시장도활기",
-    "[더벨]SK네트웍스,AX중심조직개편단행…'대팀제'도입",
-    "AIESS수주에한국판IRA까지…삼성SDI,국내25조투자‘탄력’",
-    "저성장시대,기업을살리는자본재배치전략[삼일이슈프리즘]",
-    "'롤러코스터증시'에뜨는배당·커버드콜ETF…월분배경쟁본격화",
-    "SKTelecom以A.XK2挑战韩国\"国家代表AI\"选拔",
-    "[시시비비]베타의민족",
     "SK하이닉스,솔리다임상장설선그었지만…美공시총괄임원채용",
     "순천향대-SKT,'AI그림일기'로미래AI인재키운다",
     "SK하이닉스주가장중9%내려,반도체주약세에코스피'매도사이드카...",
@@ -3534,10 +3535,17 @@
     "[만나봤더니]\"발아하는에이전틱AI…ETF안만드는건직무유기\"",
     "SK證“원익IPS,강한수주흐름…주가는수주흐름과동행”",
     "[르포]GPU7656장돌아가는'NHNAI데이터센터'…발열잡는비결은'水...",
-    "\"유니셈,메모리투자재개·원가안정화'겹호재'\"-신한투자"
+    "\"유니셈,메모리투자재개·원가안정화'겹호재'\"-신한투자",
+    "美증시하락에도...코스피,반발매수속'상승출발'",
+    "SK증권\"씨이랩,AI데이터센터확대수혜…본격수주사이클진입\"",
+    "메모리주하락·이란발긴장에…뉴욕증시약세마감[뉴욕증시]",
+    "[뉴욕증시]이란,호르무즈'선별통항'추진에하락…다우0.85%↓",
+    "SK증권\"한국금융지주,2분기어닝서프라이즈…목표가41만원유지\"",
+    "\"애플의'중국메모리카드'실패…삼성·SK하이닉스만웃었다\"",
+    "[속보]코스피1%상승…6,360선출발"
    ],
    "initialized": true,
-   "last_run": "2026-08-07T09:05:19.402484+09:00"
+   "last_run": "2026-08-07T09:10:25.627051+09:00"
   }
  },
  "press_names": {
