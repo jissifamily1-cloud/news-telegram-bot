@@ -205,7 +205,6 @@
     ]
    ],
    "seen_urls": [
-    "https://kpenews.com/View.aspx?No=4177586",
     "https://www.newsis.com/view/NISX20260807_0003739802",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=725814",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1719511",
@@ -1704,10 +1703,10 @@
     "https://news.jtbc.co.kr/article/NB12312322?influxDiv=NAVER",
     "https://it.chosun.com/news/articleView.html?idxno=2023092167293",
     "https://www.newsis.com/view/NISX20260807_0003740949",
-    "https://www.news1.kr/industry/general-industry/6251625"
+    "https://www.news1.kr/industry/general-industry/6251625",
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=361464"
    ],
    "seen_titles": [
-    "[26왕중왕전]축복받은피지컬에더해진노력…한국의샤킬오닐을꿈꾸...",
     "[증시전망대]코스피,'반발매수vs美약세'갈림길…반도체변동성속...",
     "코스피급락후회복기대vs반도체불안지속여부관건",
     "뉴욕증시,중동긴장재고조에약세..유가상승반도체주하락",
@@ -3206,10 +3205,11 @@
     "[지금왜]'반도체'미중대전...'메모리탑'찍은한국은?",
     "AI거품론'솔솔'…美빅테크,명암엇갈려[반도체쇼크와외국인⑥]",
     "삼성전자노조'따로교섭'채비…SK하이닉스는성과급·임금체계이견...",
-    "\"열받으면안돼\"…AI시대\"발열줄이고빨리식히기\"경쟁"
+    "\"열받으면안돼\"…AI시대\"발열줄이고빨리식히기\"경쟁",
+    "美금리인상기대론후퇴뉴욕증시3대지수상승"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T07:05:25.811731+09:00"
+   "last_run": "2026-08-08T07:10:31.225695+09:00"
   }
  },
  "press_names": {
