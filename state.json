@@ -166,11 +166,13 @@
     [
      "2026-08-08T06:55:27.949515+09:00",
      "일제히 상승 3대지수 사상 최고치"
+    ],
+    [
+     "2026-08-08T07:00:40.468965+09:00",
+     "평점 2위 시즌 상승 주전 김민재 작렬 기대감 선제골"
     ]
    ],
    "seen_urls": [
-    "https://www.youthdaily.co.kr/news/article.html?no=224648",
-    "https://www.cstimes.com/news/articleView.html?idxno=715033",
     "https://www.news1.kr/industry/general-industry/6251777",
     "https://www.banronbodo.com/news/articleView.html?idxno=32764",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2456681",
@@ -1668,11 +1670,11 @@
     "https://www.kbmaeil.com/article/20260808500003",
     "https://biz.sbs.co.kr/article_hub/20000327448?division=NAVER",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=85989",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=308530"
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=308530",
+    "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890004.html",
+    "https://www.newdaily.co.kr/site/data/html/2026/08/08/2026080800003.html"
    ],
    "seen_titles": [
-    "[데스크칼럼]칼을벼릴때와휘두를때",
-    "최고의피서는OTT와집콕③",
     "中,정유제품물량공세···정유업계,수출여건악화되나",
     "'IPO'성과로다지고,'AI·투자금융'키운다...NH투자증권,IB시장확대...",
     "[김필수의시선]국내노조의무리한임단협요구가지속되면산업공동...",
@@ -3170,10 +3172,12 @@
     "美고용쇼크가밀어올린증시…S&P500사상최고",
     "美증시,금리인상기대론후퇴에상승…S&P500사상최고치마감",
     "뉴욕증시일제히상승-고용둔화에금리인상우려완화,S&P500또사상...",
-    "[지난밤뉴욕에선]3대지수일제히상승…S&P사상최고치"
+    "[지난밤뉴욕에선]3대지수일제히상승…S&P사상최고치",
+    "美고용2만3000명감소에금리인상기대꺾였다…S&P500사상최고",
+    "김민재선제골작렬+평점2위,올시즌'주전'기대감상승"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T06:55:27.949515+09:00"
+   "last_run": "2026-08-08T07:00:40.468965+09:00"
   }
  },
  "press_names": {
