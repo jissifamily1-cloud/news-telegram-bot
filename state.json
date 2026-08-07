@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-07T14:30:35.502355+09:00",
-     "고용지표 결과는 연준 금리 경로 결정할"
-    ],
-    [
-     "2026-08-07T14:30:35.502355+09:00",
-     "띄우는 이유는 국힘이 정청래 기적이 일어날 호남에서"
-    ],
-    [
-     "2026-08-07T14:30:35.502355+09:00",
-     "빅테크 투자 부담 바라보는 상승 향방 현금 기조에 고금리"
-    ],
-    [
      "2026-08-07T14:35:21.265186+09:00",
      "단일종목 규제 봐야 레버리지 규제효과 풍선효과"
     ],
@@ -946,12 +934,13 @@
     [
      "2026-08-07T20:15:35.617715+09:00",
      "Endorses hynix HBF Google Inference For"
+    ],
+    [
+     "2026-08-07T20:30:35.559376+09:00",
+     "2라운드 경영권 한미그룹 분쟁"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026080693301",
-    "https://www.joongang.co.kr/article/25451493",
-    "https://www.joongang.co.kr/article/25451503",
     "https://www.kmib.co.kr/article/view.asp?arcid=1786004597&code=11151400&cp=nv",
     "https://www.news2day.co.kr/article/20260806500134",
     "http://www.yonhapnewstv.co.kr/news/MYH20260807003139Wkq",
@@ -2448,12 +2437,12 @@
     "https://www.nytimes.com/2026/08/07/business/dealbook/jobs-warsh-fed-rates.html?partner=naver",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=274396",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1533327",
-    "https://imnews.imbc.com/replay/2026/nwdesk/article/6843236_37004.html"
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6843236_37004.html",
+    "https://www.kyeonggi.com/article/20260807580238",
+    "https://www.wikitree.co.kr/articles/1151099",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1719625"
    ],
    "seen_titles": [
-    "[티조챗]\"핫팬츠·샌들출근?\"\"점심은지하\"\"재택을허하라!\"…폭염이...",
-    "미반도체주약세,외국인매도전환...코스피4%급락",
-    "[442.interview]입대전날밤,마지막도움선물하고떠난김준하\"더좋...",
     "[다산칼럼]'롤러코스피'생존법",
     "[김동호의시선]노란봉투법,지침손질로는혼란못막는다",
     "[사설]증시폭락겪고도“경제견실”딴소리하는정부",
@@ -3950,10 +3939,13 @@
     "WarshandtheFedFaceaNewTest",
     "GoogleEndorsesSKhynixHBFForAIInference",
     "SK하이닉스,용인2기팹등에54조원투자",
-    "준공2년도안된신축‥외벽테라스'와르르'"
+    "준공2년도안된신축‥외벽테라스'와르르'",
+    "인천송도신축아파트서테라스무너져…“원인파악중”",
+    "SK하이닉스분기배당금발표됐다...추가주주환원방안도3분기안에...",
+    "[EBN오늘(7일)이슈종합]한미그룹경영권분쟁'2라운드'등"
    ],
    "initialized": true,
-   "last_run": "2026-08-07T20:25:29.699966+09:00"
+   "last_run": "2026-08-07T20:30:35.559376+09:00"
   }
  },
  "press_names": {
