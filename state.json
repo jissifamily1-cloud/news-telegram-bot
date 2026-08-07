@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-07T15:55:22.255220+09:00",
-     "코스피 6250선 1조원 오락가락 약보합 순매도 외국인"
-    ],
-    [
-     "2026-08-07T15:55:22.255220+09:00",
-     "대해 입장 SK텔레콤 보도에 인수 데이터센터"
-    ],
-    [
-     "2026-08-07T15:55:22.255220+09:00",
-     "코스닥 중동 코스피 하락으로 여파 이번에는"
-    ],
-    [
-     "2026-08-07T15:55:22.255220+09:00",
-     "막바지 11일 2차전 독파모 기술력 종합검토 사용성 성능 국민평가"
-    ],
-    [
      "2026-08-07T16:00:44.618934+09:00",
      "실효성에 외면한 전기차 국산 IRA 의문 한국판"
     ],
@@ -721,10 +705,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mediapen.com/news/view/1114831",
-    "https://www.donga.com/news/Economy/article/all/20260806/134434452/2",
-    "https://www.news2day.co.kr/article/20260807500008",
-    "https://www.slist.kr/news/articleView.html?idxno=757107",
     "http://www.fnnews.com/news/202608070618349331",
     "https://www.lecturernews.com/news/articleView.html?idxno=207931",
     "https://biz.heraldcorp.com/article/10833539",
@@ -2220,13 +2200,13 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16157817",
     "https://www.onews.tv/news/articleView.html?idxno=284532",
     "https://sports.khan.co.kr/article/202608072146003?pt=nv",
-    "https://www.busan.com/view/busan/view.php?code=2026080720575319293"
+    "https://www.busan.com/view/busan/view.php?code=2026080720575319293",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=09102006645545024",
+    "https://www.tokenpost.kr/news/market/386756",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=739501",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8631663"
    ],
    "seen_titles": [
-    "청와대\"단일종목레버리지ETF,시장변동성주시…필요시추가대책...",
-    "인천서해구,쿠팡화재3주만에…통제도로7일일부개통",
-    "EstoniaConferenceLeagueSoccer",
-    "[美증시]AI·파운드리반도체주올랐는데SK하이닉스·샌디스크만'왕따...",
     "개인주식거래급증에국내증권사상반기역대급실적",
     "뉴욕증시,호르무즈통항제한우려에하락…유가뛰고반도체주급락",
     "뉴욕증시,이란호르무즈선별통항추진에하락…다우0.9%↓",
@@ -3722,10 +3702,14 @@
     "김희철,\"직진플러팅이필요하다\"플러팅송특집에서공감직언",
     "AI에이전트시대,메모리도계층화…SK하이닉스가제시한차세대전략",
     "디바비키,성시경짝사랑→새벽6시설렁탕엔딩폭소(힛트쏭)",
-    "남동발전,해남에국내최대‘400MW태양광발전사업’착공"
+    "남동발전,해남에국내최대‘400MW태양광발전사업’착공",
+    "거래소“‘삼전닉스’레버리지ETF예비심사에13일소요”",
+    "SK하이닉스주가이틀째급락,반도체대형주투자심리요동",
+    "SK에코플랜트,반도체·데이터센터인프라확대전략제시",
+    "전북현대,내일제주와홈경기…폭염속시작30분늦춰"
    ],
    "initialized": true,
-   "last_run": "2026-08-07T21:50:36.351142+09:00"
+   "last_run": "2026-08-07T21:55:24.456257+09:00"
   }
  },
  "press_names": {
