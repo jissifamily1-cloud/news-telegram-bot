@@ -690,17 +690,17 @@
     [
      "2026-08-07T09:45:27.702707+09:00",
      "상상인증권 지분 통매각 Sh수협은행 2000억 실사 품나"
+    ],
+    [
+     "2026-08-07T09:50:25.099412+09:00",
+     "보합권 외인 사자 6300선 등락 코스피 에도"
+    ],
+    [
+     "2026-08-07T09:50:25.099412+09:00",
+     "포스코퓨처엠 급등 LFP 합의에 장기공급"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=274273",
-    "https://www.mt.co.kr/stock/2026/08/06/2026080611214426640",
-    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432242",
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260806.99099001442",
-    "http://www.fnnews.com/news/202608060855321649",
-    "https://www.g-enews.com/view.php?ud=202608061124107433fbbec65dfb_1",
-    "https://www.sportschosun.com/football/2026-08-06/202608060100035710002227",
-    "https://m.sports.naver.com/basketball/article/065/0000300384",
     "https://www.getnews.co.kr/news/articleView.html?idxno=877216",
     "https://biz.sbs.co.kr/article_hub/20000327028?division=NAVER",
     "https://www.newsis.com/view/NISX20260806_0003738836",
@@ -2192,17 +2192,17 @@
     "http://www.choicenews.co.kr/news/articleView.html?idxno=169492",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608070925242510159",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05366086645545024",
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=363211"
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=363211",
+    "https://www.xportsnews.com/article/2180942",
+    "https://www.etnews.com/20260807000062",
+    "https://www.etnews.com/20260807000061",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=444180",
+    "https://www.sedaily.com/article/20076788",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16157266",
+    "https://www.dailian.co.kr/news/view/1675729/?sc=Naver",
+    "https://www.newspim.com/news/view/20260807000278"
    ],
    "seen_titles": [
-    "SK에코플랜트,AI·반도체중심사업재편과ESG성과수치화",
-    "SeoulsharesextendlosseslateThurs.morningontechslump",
-    "SKEcoplantPublishesSustainabilityReport",
-    "\"반도체업황안꺾였다…메모리뿐아니라비메모리도담아야\"",
-    "KBO이어K리그도폭염대응…1·2부7~8일전경기킥오프오후8시로조...",
-    "공정위,SK텔레콤·SK·LG유플러스의불공정약관에‘철퇴’",
-    "HD건설기계,PPA활용재생에너지확보…전국사업장40%달성으로업계...",
-    "DRAM품귀에GPU가격40%폭등…삼성·SK수혜확대",
     "\"왜이리배고프노\"김민재,제주전마치고뮌헨선수단전원에'K-야식...",
     "‘제2의다니엘은누구?’KBL유스클럽농구대회,제천서역대최다...",
     "우리금융硏\"8월금통위매파적동결…환율은추가하락전망\"",
@@ -3694,10 +3694,18 @@
     "한화솔루션등태양광주'장중껑충'...美서무슨일?",
     "커지는전기차배터리시장…K-배터리3사점유율은‘뒷걸음’",
     "“테더로미국주식바로투자'달러파킹'…거래액1500억원목표”",
-    "상상인증권지분65%통매각실사…Sh수협은행,2000억딜품나"
+    "상상인증권지분65%통매각실사…Sh수협은행,2000억딜품나",
+    "미자,'하닉275만원'에물리고뼈아픈조언…\"주식만안해도돈버는...",
+    "코스피,상승출발후보합…6290대등락",
+    "특구재단,UKC2026서글로벌딥테크미국진출전략모색",
+    "NH투자\"다음주코스피6000~7000포인트전망,외국인수급은주주환원이...",
+    "숨고르는코스피6300선‘숨고르기’…코스닥6거래일연속상승[이...",
+    "SK하이닉스ADR주가,143.53달러4.97%하락마감",
+    "코스피,외인‘사자’에도보합권…6300선등락[시황]",
+    "[특징주]포스코퓨처엠,LFP장기공급합의에7%대급등"
    ],
    "initialized": true,
-   "last_run": "2026-08-07T09:45:27.702707+09:00"
+   "last_run": "2026-08-07T09:50:25.099412+09:00"
   }
  },
  "press_names": {
