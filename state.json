@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-07T15:25:21.338000+09:00",
-     "수협은행 확충 피인수 자본 상상인증권 기대"
-    ],
-    [
-     "2026-08-07T15:25:21.338000+09:00",
-     "코미팜 코로나19 불기둥 살아났다 주가 다시 테마 잠잠하던"
-    ],
-    [
      "2026-08-07T15:30:37.007304+09:00",
      "데이터센터 세계 확대 운용사 지분 블랙록서 현대건설"
     ],
@@ -810,10 +802,13 @@
     [
      "2026-08-07T21:20:36.915370+09:00",
      "대통령 반도체 청정에너지 움직이는 이어 지역활력 해남"
+    ],
+    [
+     "2026-08-07T21:25:23.269000+09:00",
+     "포스코인터 체결 기반 지분 PRS DX 포스코홀딩스 조달 5조"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202608061753494281fbbec65dfb_1",
     "https://www.g-enews.com/view.php?ud=202608062216343779a1f309431_1",
     "https://www.mt.co.kr/stock/2026/08/07/2026080619482661021",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=314564",
@@ -2312,10 +2307,10 @@
     "https://www.mk.co.kr/article/12113091",
     "https://www.koreaittimes.com/news/articleView.html?idxno=155903",
     "https://tjmbc.co.kr/NewsArticle/855562",
-    "https://www.sedaily.com/article/20077151"
+    "https://www.sedaily.com/article/20077151",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=08924886645545024"
    ],
    "seen_titles": [
-    "‘메모리장벽’돌파전략갈렸다…‘고객맞춤’vs‘생태계선점’",
     "美반도체투매진정됐지만EWY2.6%↓…외국인복귀는아직",
     "머스크\"메모리가AI병목\"…스마트폰값도더오른다",
     "AI자금쏠림심화…신흥국서178억달러순유출",
@@ -3814,10 +3809,11 @@
     "야간경제·사장브랜딩·Z세대부상…",
     "[Today'sSignal]Intel'sRevivalBringsStateCapitalIntotheAIChip",
     "[리포트/연중기획]AI'심장'데이터센터,사활거는이유는?",
-    "李대통령“해남청정에너지,반도체·AI움직이는힘…지역활력이어..."
+    "李대통령“해남청정에너지,반도체·AI움직이는힘…지역활력이어...",
+    "포스코홀딩스,포스코인터·DX지분기반PRS체결…2.5조조달"
    ],
    "initialized": true,
-   "last_run": "2026-08-07T21:20:36.915370+09:00"
+   "last_run": "2026-08-07T21:25:23.269000+09:00"
   }
  },
  "press_names": {
