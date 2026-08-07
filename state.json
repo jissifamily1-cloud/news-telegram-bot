@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-07T17:50:30.497300+09:00",
-     "M17"
-    ],
-    [
-     "2026-08-07T17:50:30.497300+09:00",
-     "상반기 미소금융 공급 1612억원 서민금융진흥원"
-    ],
-    [
-     "2026-08-07T17:50:30.497300+09:00",
-     "루빈 엔비디아도 울트라 HBM 줄이나 쩔쩔"
-    ],
-    [
      "2026-08-07T17:55:20.719633+09:00",
      "반도체의 한국 흔든 리스크 구조를 호르무즈 비용"
     ],
@@ -382,11 +370,13 @@
     [
      "2026-08-07T23:25:31.763239+09:00",
      "거래 뉴욕장서 달러 410원 중반대"
+    ],
+    [
+     "2026-08-07T23:50:35.358000+09:00",
+     "검토 충칭공장 지분 SK하이닉스 매각"
     ]
    ],
    "seen_urls": [
-    "https://www.bntnews.co.kr/article/view/bnt202608070013",
-    "https://www.ajunews.com/view/20260807065425242",
     "http://www.fnnews.com/news/202608070631503439",
     "https://magazine.hankyung.com/business/article/202608068462b",
     "https://www.seoulfn.com/news/articleView.html?idxno=635150",
@@ -1884,11 +1874,11 @@
     "https://www.donga.com/news/Opinion/article/all/20260807/134440492/2",
     "https://www.etoday.co.kr/news/view/2612288",
     "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520989",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4429224"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4429224",
+    "https://www.kyeonggi.com/article/20260807580264",
+    "https://www.ekn.kr/web/view.php?key=20260807022230738"
    ],
    "seen_titles": [
-    "뉴욕증시,유가급등등영향숨고르기속하락⋯샌디스크6%대급락-SK하...",
-    "SK하이닉스ADR5%급락…메모리실적실망에동반약세",
     "증시오늘'핫이슈'…골드만삭스\"향후1년내코스피1만2,000찍는다\"",
     "다우0.85%↓뉴욕증시,이란통항금지법안에조정",
     "[뉴욕증시마감]호르무즈긴장에유가4%급등…SK하이닉스ADR5%↓",
@@ -3386,10 +3376,12 @@
     "[광화문에서/장윤정]CXMT증권신고서가우리에게던지는질문",
     "'불안과기대사이'널뛰는SK하이닉스…증권가\"HBM4·LTA기반펀터멘...",
     "[집중분석]'집권2년차'李대통령,취임후12번째해외순방이남긴공...",
-    "달러-원,뉴욕장서1,410원중반대거래"
+    "달러-원,뉴욕장서1,410원중반대거래",
+    "이재명대통령,“해남청정에너지,첨단산업성장이끄는동력되길”",
+    "SK하이닉스,中충칭공장지분매각검토"
    ],
    "initialized": true,
-   "last_run": "2026-08-07T23:45:27.776185+09:00"
+   "last_run": "2026-08-07T23:50:35.358000+09:00"
   }
  },
  "press_names": {
