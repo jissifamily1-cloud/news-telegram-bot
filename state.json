@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-07T18:12:05.501470+09:00",
-     "속도 SK하닉 청주팹에 메가투자 54조원 용인"
-    ],
-    [
      "2026-08-07T18:15:35.913847+09:00",
      "성장 기대 5조6000억원 쌍끌이 국내 코웨이 동남아 연매출"
     ],
@@ -322,11 +318,13 @@
     [
      "2026-08-08T00:10:29.935240+09:00",
      "딥마인드 2026서 HBF FMS 공개 제안한 샌디스크 표준 SK하이닉스"
+    ],
+    [
+     "2026-08-08T00:15:30.193393+09:00",
+     "이견 여기저기서 부처 하나 협의 터져나오는 사전"
     ]
    ],
    "seen_urls": [
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608051508466880102255",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608061403590400102331",
     "https://www.electimes.com/news/articleView.html?idxno=371058",
     "https://www.newscj.com/news/articleView.html?idxno=3422935",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608051430306680104055",
@@ -1824,11 +1822,11 @@
     "https://www.g-enews.com/view.php?ud=202608040946356026906806b77b_1",
     "https://www.hankyung.com/article/2026080712831",
     "https://www.topstarnews.net/news/articleView.html?idxno=16157881",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=595792"
+    "https://www.cbci.co.kr/news/articleView.html?idxno=595792",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4429227",
+    "https://www.hankookilbo.com/news/article/A2026080714410002542?did=NA"
    ],
    "seen_titles": [
-    "(EDITORIALfromTheKoreaHeraldonAug.7)",
-    "한중격차여전한데반도체주가흔들린이유…기술보다무서운‘과점...",
     "공적자금상환에서증권사인수까지…수협은행'금융그룹화'25년여정...",
     "[더벨][K-로봇스타트업인사이드]리얼월드,시리즈A라운드착수…인...",
     "[더벨][CompanyWatch]LG헬로비전,경영효율화에도실적반등'험로'",
@@ -3326,10 +3324,12 @@
     "[김대호진단]반도체열전(32)트렌드포스(集邦科技)...메모리풍향계...",
     "[취재수첩]'도광양회'중국반도체",
     "SK텔레콤,AI데이터센터인수금융보도관련사실확인공시",
-    "딥마인드제안한HBF,FMS2026서첫표준공개…SK하이닉스·샌디스크참..."
+    "딥마인드제안한HBF,FMS2026서첫표준공개…SK하이닉스·샌디스크참...",
+    "달러-원,부진한비농업고용에낙폭확대…1,410원밑돌아(상보)",
+    "[사설]여기저기서터져나오는부처간이견,사전협의안하나"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T00:10:29.935240+09:00"
+   "last_run": "2026-08-08T00:15:30.193393+09:00"
   }
  },
  "press_names": {
