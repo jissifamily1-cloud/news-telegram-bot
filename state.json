@@ -174,10 +174,13 @@
     [
      "2026-08-08T03:40:33.400891+09:00",
      "SK하이닉스 논란 일환 삼성전자 절차의 속도전인가 레버리지 ETF 상장"
+    ],
+    [
+     "2026-08-08T03:55:23.003772+09:00",
+     "착공 400MW 태양광발전사업 해남서 전남광주특별시 국내"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1719501",
     "https://www.businesspost.co.kr/BP?command=article_view&num=443751",
     "https://www.xportsnews.com/article/2180899",
     "https://www.sedaily.com/article/20076686",
@@ -1676,10 +1679,10 @@
     "https://www.greened.kr/news/articleView.html?idxno=347164",
     "https://www.ytn.co.kr/_ln/0102_202608080320486409",
     "https://www.tokenpost.kr/news/market/386859",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=314766"
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=314766",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=314767"
    ],
    "seen_titles": [
-    "AI,지속가능경영의새기준으로…기업들'위험관리'",
     "[증시전략]스페이스X,첫락업해제…9억주매물주가흔드나?",
     "AI슈퍼사이클의그늘…‘공급망프리미엄’시험대오른K산업",
     "호르무즈악재에메모리차익실현까지…다우464P·하이닉스ADR5%↓",
@@ -3178,10 +3181,11 @@
     "\"데이터센터·선박전력잡는다\"…HD하이드로젠,'SOFC양산체계'구축",
     "'민간개발'초경질유첫도입...\"중동의존도낮춘다\"",
     "삼성전자·SK하이닉스레버리지ETF상장논란:속도전인가,절차의일환...",
-    "박선원의원,광주제1전투비행단방문…군공항이전·반도체클러스터..."
+    "박선원의원,광주제1전투비행단방문…군공항이전·반도체클러스터...",
+    "전남광주특별시,해남서국내최대400MW태양광발전사업착공"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T03:50:30.426037+09:00"
+   "last_run": "2026-08-08T03:55:23.003772+09:00"
   }
  },
  "press_names": {
