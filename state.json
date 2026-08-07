@@ -902,18 +902,25 @@
     [
      "2026-08-07T14:40:28.357690+09:00",
      "CJ LG SK하이닉스"
+    ],
+    [
+     "2026-08-07T14:45:24.683776+09:00",
+     "대형 차세대 뚫었나 공급 양극재 글로벌 계약에 엘앤에프 업체"
+    ],
+    [
+     "2026-08-07T14:45:24.683776+09:00",
+     "핫한 슈퍼사이클 도래로 폭염보다 전력업계 실적 행진 여름"
+    ],
+    [
+     "2026-08-07T14:45:24.683776+09:00",
+     "굴기론 반도체 중국 한국의 미국의 전략과 3대 진짜인가 어디까지"
+    ],
+    [
+     "2026-08-07T14:45:24.683776+09:00",
+     "복병 관세 주목 후속 협상 두산 SK실트론 인수하자마자"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=444071",
-    "https://www.hankyung.com/article/202608056603g",
-    "https://www.sisaon.co.kr/news/articleView.html?idxno=203302",
-    "http://www.fnnews.com/news/202608061445432196",
-    "http://www.newstomato.com/ReadNews.aspx?no=1309456&inflow=N",
-    "https://www.econovill.com/news/articleView.html?idxno=747310",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1719426",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475020",
-    "http://www.yonhapnewstv.co.kr/news/AKR20260806150254Ruk",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475012",
     "https://www.newsis.com/view/NISX20260806_0003739134",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=142702",
@@ -2404,18 +2411,18 @@
     "https://biz.sbs.co.kr/article_hub/20000327335?division=NAVER",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=607740",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1719584",
-    "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90458"
+    "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90458",
+    "https://www.mk.co.kr/article/12120890",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4429167",
+    "https://news.tf.co.kr/read/economy/2351780.htm",
+    "https://news.ifm.kr/news/articleView.html?idxno=476712",
+    "http://www.newstomato.com/ReadNews.aspx?no=1309580&inflow=N",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475337",
+    "https://www.womentimes.co.kr/news/articleView.html?idxno=105085",
+    "https://www.the-today.com/news/articleView.html?idxno=88219",
+    "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608070393&t=NNv"
    ],
    "seen_titles": [
-    "SKT·LG유플러스,2분기수익성개선⋯승부처는AI데이터센터",
-    "골드만\"코스피급락은조정…12개월목표1만2000유지\"",
-    "[김재섭의뒤집어보기]SK텔레콤해킹사고관련자료보전명령위반수사...",
-    "'이직시도'줄었는데회사만족도는…3만직장인불편한속사정[오피...",
-    "DL이앤씨,AI기반안전관리체계전면개편[건설·분양오늘]",
-    "코스피는여전히하락세…코스닥은바이오·전지·로보틱스에상승전환...",
-    "HBM3E수요가변수…내년HBM왕좌노리는삼성",
-    "DB하이텍2Q영업익43%↑…나노팹지원도확대",
-    "[Tech&Now]클로봇,방폐물로봇실증…샌디스크·플래티어AI신기술...",
     "DB하이텍,국가공공나노팹에반도체장비3대이전",
     "우리금융연구소“금통위,8월‘매파적동결’전망”",
     "이통3사,개인정보사고면책약관고친다…공정위\"책임전가부당\"",
@@ -3906,10 +3913,19 @@
     "[셀럽의한수]외신우려에도…韓경제,펀더멘털은이상無?",
     "공정위칼날에이통3사,불공정약관고친다",
     "SK하이닉스,'FMS2026'서HBF더한'계층형메모리'비전제시",
-    "[산업브리핑]LG·CJ·SK하이닉스"
+    "[산업브리핑]LG·CJ·SK하이닉스",
+    "한국·대만,올해상반기수출액첫일본추월",
+    "SK하이닉스,'FMS2026'서CXL기반차세대메모리기술선뵈",
+    "SK하이닉스,'FMS2026'서차세대메모리아키텍처해법제시",
+    "\"HBM단일제품으론한계\"…SK하이닉스,'계층형메모리'로AI판도바꾼...",
+    "중국이어대만도설비투자…메모리‘삼국전쟁’",
+    "글로벌셀업체차세대양극재뚫었나…엘앤에프,대형공급계약에'시...",
+    "올여름폭염보다더핫한전력업계,슈퍼사이클도래로최대실적행진",
+    "중국반도체굴기론,어디까지진짜인가—한국의3대전략과미국의...",
+    "두산,SK실트론인수하자마자'관세복병'…후속협상주목"
    ],
    "initialized": true,
-   "last_run": "2026-08-07T14:40:28.357690+09:00"
+   "last_run": "2026-08-07T14:45:24.683776+09:00"
   }
  },
  "press_names": {
