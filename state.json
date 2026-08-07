@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-07T07:15:28.111120+09:00",
-     "질주 본업 사업 희미해진 통신"
-    ],
-    [
-     "2026-08-07T07:15:28.111120+09:00",
-     "관세 반도체 파생제품에 핵심 국내 폴리실리콘 태양광 원료"
-    ],
-    [
      "2026-08-07T07:30:34.194092+09:00",
      "알파벳 리스크 스페이스X에 시장 머니 몰린 다이먼은"
     ],
@@ -958,11 +950,13 @@
     [
      "2026-08-07T13:15:26.760829+09:00",
      "420원 매도에 확대 낙폭 밑돌아 SK하이닉스 커스터디 달러"
+    ],
+    [
+     "2026-08-07T13:20:25.554789+09:00",
+     "0원 35억 천연가스발전소 민심폭발 세수 여주에너지서비스 여주 전락"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260806141025012",
-    "https://biz.chosun.com/stock/stock_general/2026/08/06/XYNV5FOGWNDOPJW6CEJOBBSI4Y/",
     "https://www.pointe.co.kr/news/articleView.html?idxno=82891",
     "http://www.datanews.co.kr/news/article.html?no=145936",
     "https://www.newspim.com/news/view/20260806000792",
@@ -2460,11 +2454,11 @@
     "https://www.hankyung.com/article/202608070281i",
     "http://www.press9.kr/news/articleView.html?idxno=80777",
     "https://www.hankyung.com/article/202608070555i",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4429152"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4429152",
+    "https://www.etoday.co.kr/news/view/2612155",
+    "https://www.joongboo.com/news/articleView.html?idxno=363733337"
    ],
    "seen_titles": [
-    "Sh수협은행,상상인증권인수추진…비은행확대'승부수'",
-    "DB하이텍,국가나노팹에MEMS장비기증…반도체연구개발지원",
     "이상일용인시장,베트남FPT그룹과반도체협력논의",
     "[특징주]SK하이닉스,글로벌반도체투자심리위축에9%대급락",
     "공정위,통신3사불공정약관시정…개인정보유출'일방면책'금지",
@@ -3962,10 +3956,12 @@
     "장외공방까지…與전대서불거진‘레버리지ETF’책임론",
     "[SK의선택과대가③]하이닉스커질수록커지는지주사할인",
     "한국수출,상반기사상첫일본추월...'삼전닉스의힘'[도쿄나우]",
-    "[외환]SK하이닉스·커스터디달러매도에낙폭확대…1,420원밑돌아(상..."
+    "[외환]SK하이닉스·커스터디달러매도에낙폭확대…1,420원밑돌아(상...",
+    "상승출발한코스피·코스닥,하락전환…SK하이닉스5%대약세",
+    "여주에너지서비스(천연가스발전소)35억세수'0원'전락여주민심폭발..."
    ],
    "initialized": true,
-   "last_run": "2026-08-07T13:15:26.760829+09:00"
+   "last_run": "2026-08-07T13:20:25.554789+09:00"
   }
  },
  "press_names": {
