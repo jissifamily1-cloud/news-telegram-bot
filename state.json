@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-08T00:30:43.609981+09:00",
-     "저장장치주 낙폭 씨게이트 하락 확대"
-    ],
-    [
      "2026-08-08T00:35:28.806887+09:00",
      "먹고 산다 경제는 신뢰를"
     ],
@@ -174,13 +170,17 @@
     [
      "2026-08-08T06:15:26.742604+09:00",
      "글로벌 로봇판 탄생 3년 애지봇 화웨이의 1위 만에 AgiBot"
+    ],
+    [
+     "2026-08-08T06:35:20.594293+09:00",
+     "사라진 한국의 시장이 반도체 전쟁 선택은"
+    ],
+    [
+     "2026-08-08T06:35:20.594293+09:00",
+     "매입 자사주 확대 오너들의 변동성 지적도 일환이지만 잦아진 책임경영"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008694230&plink=ORI&cooper=NAVER",
-    "https://www.hankyung.com/article/202608079713H",
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=607562",
-    "https://www.econovill.com/news/articleView.html?idxno=747373",
     "https://www.cstimes.com/news/articleView.html?idxno=716002",
     "https://www.yna.co.kr/view/AKR20260807017900008?input=1195m",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=85895",
@@ -1676,13 +1676,13 @@
     "https://www.yna.co.kr/view/AKR20260808005151072?input=1195m",
     "https://www.fntimes.com/html/view.php?ud=202608071731245257c1c16452b0_18",
     "https://www.globale.co.kr/news/articleView.html?idxno=39765",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475463"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475463",
+    "https://biz.heraldcorp.com/article/10834613",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=280798",
+    "https://www.yna.co.kr/view/AKR20260806114700017?input=1195m",
+    "https://biz.heraldcorp.com/article/10834293"
    ],
    "seen_titles": [
-    "[초점]트럼프發폴리실리콘관세…한국반도체영향은제한적,공급망...",
-    "뉴욕증시일제히하락…호르무즈긴장고조에다우0.85%↓",
-    "한국금융지주,역대급실적에도저평가매력여전…‘매수’-SK",
-    "중동수급불안에…호주산초경질유첫도입",
     "삼전닉스에물린홍진경\"왜비쌀때사라고했냐\"분통",
     "상반기바이오·헬스케어IPO부진…공모가밑도는종목속출",
     "알파벳회사채1150억달러몰렸다…QRA가열어준AI투자자금시장",
@@ -3178,10 +3178,14 @@
     "美증시,금리인상기대론후퇴에상승…S&P500사상최고치마감(종합)",
     "3년만에글로벌1위,로봇판화웨이의탄생:애지봇(AgiBot·智元机器人...",
     "미고용지표악화에금리인상기대후퇴···뉴욕증시3대지수상승",
-    "美고용이무너졌는데뉴욕증시는웃었다…나스닥·S&P500동반질주"
+    "美고용이무너졌는데뉴욕증시는웃었다…나스닥·S&P500동반질주",
+    "차세대HBM거론되는‘CXL’…엔비디아가확산걸림돌이라고?[칩칩팹팹...",
+    "한국·대만상반기수출,사상첫일본추월…AI반도체영향",
+    "[AI돋보기]시장이사라진AI반도체전쟁…한국의선택은",
+    "잦아진오너들의자사주매입…책임경영일환이지만변동성확대지적도..."
    ],
    "initialized": true,
-   "last_run": "2026-08-08T06:30:36.286888+09:00"
+   "last_run": "2026-08-08T06:35:20.594293+09:00"
   }
  },
  "press_names": {
