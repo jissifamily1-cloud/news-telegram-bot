@@ -134,10 +134,13 @@
     [
      "2026-08-08T05:15:29.814629+09:00",
      "배당 역대급 SK하이닉스의 쥐꼬리"
+    ],
+    [
+     "2026-08-08T05:40:28.887159+09:00",
+     "스페이스X 최고 폭등 고용 P500 사상 감소"
     ]
    ],
    "seen_urls": [
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=361410",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04634646645545024",
     "https://www.hankyung.com/article/2026080796996",
     "https://www.donga.com/news/Culture/article/all/20260807/134435367/1",
@@ -1636,10 +1639,10 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=269549",
     "https://www.the-today.com/news/articleView.html?idxno=88237",
     "http://weekly.chosun.com/news/articleView.html?idxno=54097",
-    "https://www.abcn.kr/news/articleView.html?idxno=90269"
+    "https://www.abcn.kr/news/articleView.html?idxno=90269",
+    "http://www.fnnews.com/news/202608080534109868"
    ],
    "seen_titles": [
-    "美증시'숨고르기'다우0.85%↓…호르무즈협상·고용지표대기-[글로...",
     "[마켓프리뷰]상승세지키지못한코스피급락마감…코스닥'강보합'",
     "이란,호르무즈통항금지추진에유가급등···뉴욕증시약세",
     "호르무즈악재에뉴욕증시하락…다우1%↓",
@@ -3138,10 +3141,11 @@
     "[딜로이트글로벌경제리뷰]반도체'AI슈퍼사이클'이제기하는딜레...",
     "[솔리다임IPO3부작①]SK→SK스퀘어→SK하이닉스→솔리다임…미국IPO...",
     "판깔아주고나몰라라…'롤러코스피'에우는2030",
-    "[ABC뉴스칼럼]SK하이닉스의'역대급쥐꼬리'배당"
+    "[ABC뉴스칼럼]SK하이닉스의'역대급쥐꼬리'배당",
+    "[뉴욕증시]고용감소속S&P500사상최고…스페이스X,16%폭등"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T05:35:22.486397+09:00"
+   "last_run": "2026-08-08T05:40:28.887159+09:00"
   }
  },
  "press_names": {
