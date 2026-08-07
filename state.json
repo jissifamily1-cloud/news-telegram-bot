@@ -165,9 +165,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260807017900008?input=1195m",
-    "https://www.mediafine.co.kr/news/articleView.html?idxno=85895",
-    "https://biz.newdaily.co.kr/site/data/html/2026/08/07/2026080700028.html",
     "https://dealsite.co.kr/articles/166658",
     "https://dealsite.co.kr/articles/166668",
     "http://woman.chosun.com/news/articleView.html?idxno=126370",
@@ -1664,12 +1661,12 @@
     "https://www.womennews.co.kr/news/articleView.html?idxno=280798",
     "https://www.yna.co.kr/view/AKR20260806114700017?input=1195m",
     "https://biz.heraldcorp.com/article/10834293",
-    "https://www.slist.kr/news/articleView.html?idxno=757401"
+    "https://www.slist.kr/news/articleView.html?idxno=757401",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608080365&t=NN",
+    "https://imnews.imbc.com/news/2026/world/article/6843277_36925.html",
+    "https://www.sedaily.com/article/20077173"
    ],
    "seen_titles": [
-    "상반기바이오·헬스케어IPO부진…공모가밑도는종목속출",
-    "알파벳회사채1150억달러몰렸다…QRA가열어준AI투자자금시장",
-    "삼전닉스,목표주가줄하향…공급과잉우려",
     "[마켓뷰]美증시약세vs반발매수유입기대…코스피향배는",
     "이란호르무즈해협통항제한추진에뉴욕증시하락-유가급등·반도체...",
     "[속보]샌디스크실적실망…삼전닉스프리장1%↑",
@@ -3166,10 +3163,13 @@
     "한국·대만상반기수출,사상첫일본추월…AI반도체영향",
     "[AI돋보기]시장이사라진AI반도체전쟁…한국의선택은",
     "잦아진오너들의자사주매입…책임경영일환이지만변동성확대지적도...",
-    "뉴욕증시,금리인상기대론후퇴에상승…S&P500사상최고치마"
+    "뉴욕증시,금리인상기대론후퇴에상승…S&P500사상최고치마",
+    "'美고용악화'가오히려호재?…뉴욕증시,'금리인상기대론'후퇴에3대...",
+    "미국증시,금리인상기대론후퇴에상승‥S&P500사상최고치마감",
+    "뉴욕증시,고용악화따른금리인상론후퇴에일제히상승[데일리국제..."
    ],
    "initialized": true,
-   "last_run": "2026-08-08T06:45:35.113026+09:00"
+   "last_run": "2026-08-08T06:51:00.208787+09:00"
   }
  },
  "press_names": {
