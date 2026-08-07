@@ -310,12 +310,21 @@
     [
      "2026-08-08T00:05:24.066795+09:00",
      "열전 트렌드포스 반도체 풍향계 메모리"
+    ],
+    [
+     "2026-08-08T00:10:29.935240+09:00",
+     "반도체 도광양회 중국"
+    ],
+    [
+     "2026-08-08T00:10:29.935240+09:00",
+     "보도 사실확인 공시 인수금융 데이터센터 SK텔레콤"
+    ],
+    [
+     "2026-08-08T00:10:29.935240+09:00",
+     "딥마인드 2026서 HBF FMS 공개 제안한 샌디스크 표준 SK하이닉스"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260807000700320?input=2106m",
-    "https://weekly.donga.com/3/all/11/6337246/1",
-    "https://www.fntimes.com/html/view.php?ud=2026080618070963305e6e69892f_18",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608051508466880102255",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608061403590400102331",
     "https://www.electimes.com/news/articleView.html?idxno=371058",
@@ -1812,12 +1821,12 @@
     "https://www.chosun.com/opinion/editorial/2026/08/08/6G33JVOTORFNBKIH23JB7NJ2PE/",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=84438",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=84437",
-    "https://www.g-enews.com/view.php?ud=202608040946356026906806b77b_1"
+    "https://www.g-enews.com/view.php?ud=202608040946356026906806b77b_1",
+    "https://www.hankyung.com/article/2026080712831",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16157881",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=595792"
    ],
    "seen_titles": [
-    "[오늘의브릿지경제1면]글로벌반도체시장내년성장률크게둔화··...",
-    "레버리지문턱높여아무나못하게하니…더사고싶게만든효과",
-    "LCD·태양광악몽재현되나…중국반도체공습시작됐다[biz-플러스]",
     "(EDITORIALfromTheKoreaHeraldonAug.7)",
     "한중격차여전한데반도체주가흔들린이유…기술보다무서운‘과점...",
     "공적자금상환에서증권사인수까지…수협은행'금융그룹화'25년여정...",
@@ -3314,10 +3323,13 @@
     "[사설]6년전李지사와현재秋지사의180도달라진곳간사정",
     "[증시프리즘]외인·기관,반도체·금융'사자'자동차·중공업'팔자'...",
     "[심층분석]코스피·코스닥시장별외국인·기관순매수·순매도상위1...",
-    "[김대호진단]반도체열전(32)트렌드포스(集邦科技)...메모리풍향계..."
+    "[김대호진단]반도체열전(32)트렌드포스(集邦科技)...메모리풍향계...",
+    "[취재수첩]'도광양회'중국반도체",
+    "SK텔레콤,AI데이터센터인수금융보도관련사실확인공시",
+    "딥마인드제안한HBF,FMS2026서첫표준공개…SK하이닉스·샌디스크참..."
    ],
    "initialized": true,
-   "last_run": "2026-08-08T00:05:24.066795+09:00"
+   "last_run": "2026-08-08T00:10:29.935240+09:00"
   }
  },
  "press_names": {
