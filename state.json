@@ -1010,11 +1010,13 @@
     [
      "2026-08-07T18:45:37.518843+09:00",
      "반토막 149만원 났지만 개미들 298만 주가 반도체 믿는"
+    ],
+    [
+     "2026-08-07T18:50:32.556404+09:00",
+     "경고 급증 샌디 폭락 코스피 8배 이번엔 공포"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=444168",
-    "https://www.mk.co.kr/article/12113296",
     "https://imnews.imbc.com/replay/2026/nwdesk/article/6842986_37004.html",
     "https://www.asiatime.co.kr/article/20260806500377",
     "http://www.tjb.co.kr/sub0301/bodo/view/id/102105",
@@ -2512,11 +2514,11 @@
     "https://www.m-i.kr/news/articleView.html?idxno=1400177",
     "https://www.donga.com/news/Economy/article/all/20260807/134439449/1",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=07832646645545024",
-    "https://biz.heraldcorp.com/article/10834226"
+    "https://biz.heraldcorp.com/article/10834226",
+    "https://www.aitimes.com/news/articleView.html?idxno=213662",
+    "https://www.mk.co.kr/article/12121223"
    ],
    "seen_titles": [
-    "보완수사권폐지진통…대책마련은야당몫됐나",
-    "홍진경,전문가말듣고산'삼전닉스'하락에결국폭발\"왜비쌀때사...",
     "경기도,고립·은둔청년마음회복지원…민·관·산·학'맞손'",
     "[8월7일자]비즈니스포스트아침의주요기사",
     "AI인프라디벨로퍼…‘뉴마이웨이’개척자[CEO라운지]",
@@ -4014,10 +4016,12 @@
     "전남광주,해남에국내최대400MW태양광단지…6807억원투입",
     "넥스트레이드,프리마켓상·하한가주문한시적금지",
     "[포토]김재희,신중하게볼을놓는다",
-    "‘298만→149만원’주가반토막났지만“믿는건반도체”…개미들폭..."
+    "‘298만→149만원’주가반토막났지만“믿는건반도체”…개미들폭...",
+    "엔비디아,'루빈울트라'메모리사양축소검토...HBM4E수급난항여파",
+    "코스피폭락경고8배급증…이번엔샌디공포[플러스관심종목]"
    ],
    "initialized": true,
-   "last_run": "2026-08-07T18:45:37.518843+09:00"
+   "last_run": "2026-08-07T18:50:32.556404+09:00"
   }
  },
  "press_names": {
