@@ -302,12 +302,13 @@
     [
      "2026-08-08T08:45:33.545400+09:00",
      "품귀에 용량 축소 HBM4E 검토 엔비디아 메모리"
+    ],
+    [
+     "2026-08-08T08:48:19.663697+09:00",
+     "CPI 다음주 물가지표 증시 PPI 살펴야"
     ]
    ],
    "seen_urls": [
-    "https://realty.chosun.com/site/data/html_dir/2026/08/06/2026080601929.html",
-    "https://www.eroun.net/news/articleView.html?idxno=87128",
-    "https://www.ytn.co.kr/_ln/0104_202608070852033781",
     "http://www.ikld.kr/news/articleView.html?idxno=338592",
     "https://www.todaykorea.co.kr/news/articleView.html?idxno=404664",
     "https://www.kyeonggi.com/article/20260806580336",
@@ -1804,12 +1805,12 @@
     "https://www.mediafine.co.kr/news/articleView.html?idxno=86016",
     "https://www.newspim.com/news/view/20260808000023",
     "https://www.sedaily.com/article/20077182",
-    "https://www.sedaily.com/article/20077178"
+    "https://www.sedaily.com/article/20077178",
+    "https://www.sportsworldi.com/newsView/20260808504571",
+    "https://www.sedaily.com/article/20077183",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=169511"
    ],
    "seen_titles": [
-    "[특징주]삼성전자,NXT프리마켓서반등…전일급락뒤저가매수유입",
-    "제주SKFC,더화끈해진공격력앞세워전북원정서무패행진이어간다...",
-    "[속보]삼성전자·SK하이닉스동반강보합…1%대상승출발",
     "용인반도체클러스티에첫아파트분양…‘동일하이빌파크밸리’",
     "용인반도체산업단지첫민간분양…특화설계갖춘신규아파트나온다",
     "트럼프,'반도체·태양광소재'폴리실리콘파생제품에15%관세...한국...",
@@ -3306,10 +3307,13 @@
     "김민재,홍콩서프리시즌첫골···바이에른뮌헨,애스턴빌라2-1제...",
     "김민재,선제헤더골+철벽수비맹활약…뮌헨,애스턴빌라에2-1",
     "엔비디아,루빈울트라HBM줄인다…비용절감카드꺼냈다",
-    "메모리품귀에…엔비디아HBM4E용량축소검토"
+    "메모리품귀에…엔비디아HBM4E용량축소검토",
+    "김민재,프리시즌첫골폭발…뮌헨,애스턴빌라2-1제압",
+    "SK하이닉스,용인반도체에54조베팅…대규모투자나선다",
+    "다음주증시,美CPI·PPI등물가지표살펴야"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T08:45:33.545400+09:00"
+   "last_run": "2026-08-08T08:48:19.663697+09:00"
   }
  },
  "press_names": {
