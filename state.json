@@ -1009,11 +1009,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.ujeil.com/news/articleView.html?idxno=389974",
-    "https://www.safetimes.co.kr/news/articleView.html?idxno=244748",
-    "https://www.hankyung.com/article/202608069505i",
-    "https://www.obsnews.co.kr/news/articleView.html?idxno=1533184",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=08606726645544696",
     "https://www.dailian.co.kr/news/view/1675590/?sc=Naver",
     "https://biz.heraldcorp.com/article/10833151",
     "https://www.khan.co.kr/article/202608062039005",
@@ -2508,14 +2503,14 @@
     "https://biz.chosun.com/it-science/ict/2026/08/07/UMFR24ZWOJCERCJYHXKSH6UASM/",
     "https://www.hankyung.com/article/2026080713471",
     "https://www.sentv.co.kr/article/view/sentv202608070077",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=789564"
+    "http://www.weeklytoday.com/news/articleView.html?idxno=789564",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1393940",
+    "https://www.sentv.co.kr/article/view/sentv202608070086",
+    "https://www.donga.com/news/Economy/article/all/20260807/134439445/1",
+    "https://sateconomy.co.kr/news/view/1065604569606191",
+    "https://www.newsis.com/view/NISX20260807_0003740228"
    ],
    "seen_titles": [
-    "(LEAD)IndustryministersaysU.S.likelytoannouncenewSection301p",
-    "SK하이닉스단11주로시장왜곡…프리마켓發‘가짜하한가’",
-    "SKT'에이닷'서비스서일시적장애발생…현재복구",
-    "울산웨일즈,소통하고상생하는'시민구단'박차",
-    "한국원화개입설배경엔미국'무역적자'우려",
     "\"애플-CXMT메모리반도체공급협상결렬…가격조건안맞아\"",
     "인천서해구쿠팡물류센터화재인근도로통행재개",
     "기후·돌봄문제해결이곧성장…임팩트투자에2000조우르르",
@@ -4010,10 +4005,15 @@
     "리얼월드,국내스타트업3사와맞손…휴머노이드손재주고도화",
     "종일주식창보며한숨…매물·대출보며짜증",
     "SK하이닉스,‘솔리다임’상장포석…주주가치희석딜레마",
-    "[위클리오늘]美연준'포워드가이던스'축소···8월한은'매파적동..."
+    "[위클리오늘]美연준'포워드가이던스'축소···8월한은'매파적동...",
+    "남동발전,400㎿해남태양광착공…SK하이닉스에전력공급",
+    "커지는공공보안시장…업계,AI로수익성개선모색",
+    "SK하이닉스,용인·청주에신규팹짓는다…54조원규모투자",
+    "단일종목레버리지ETF거래90%급감…한투證\"해외로수요이동주의\"",
+    "\"이틀새15%빠지네\"…SK하이닉스추가하락가능성은"
    ],
    "initialized": true,
-   "last_run": "2026-08-07T18:20:41.636236+09:00"
+   "last_run": "2026-08-07T18:25:22.796398+09:00"
   }
  },
  "press_names": {
