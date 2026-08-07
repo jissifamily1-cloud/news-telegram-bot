@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-08T01:45:29.121640+09:00",
-     "HBM 공급부족 엔비디아 GPU에 저사양칩 검토 대응 차세대"
-    ],
-    [
      "2026-08-08T02:45:28.517439+09:00",
      "양산체계 SOFC 데이터센터 구축 잡는다 선박 전력 HD하이드로젠"
     ],
@@ -217,7 +213,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20076750",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=271277",
     "http://www.joseilbo.com/news/news_read.php?uid=573403&class=53",
     "https://www.ajunews.com/view/20260807082759334",
@@ -1716,10 +1711,10 @@
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553441704",
     "https://www.lecturernews.com/news/articleView.html?idxno=207993",
     "https://www.yna.co.kr/view/AKR20260807133400003?input=1195m",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16158058"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16158058",
+    "https://www.viewsnnews.com/article?q=237759"
    ],
    "seen_titles": [
-    "광진구'성동강변파크빌101'32평,5억오른14.7억원에거래[일일신고...",
     "중동긴장다시고조…원/달러환율,'상저하고'장세전망",
     "호르무즈불안에뉴욕증시약세…코스피저가매수유입될까[장전시황...",
     "반등성공한美반도체…전날급락코스피,프리장반격탐색[코주부...",
@@ -3218,10 +3213,11 @@
     "깜짝반전!\"맨유,김민재영입검토하고있어\"...\"뮌헨은잔류로선회했...",
     "미국뉴욕증시,기준금리인상우려완화에일제히상승…다우존스·S&P...",
     "전쟁에원유공급망흔들려도에너지안보로재평가되는K-정유",
-    "미국증시고용감소에금리인상우려후퇴…나스닥1.3%↑·SK하이닉스..."
+    "미국증시고용감소에금리인상우려후퇴…나스닥1.3%↑·SK하이닉스...",
+    "美고용악화에주가상승,SK하이닉스ADR3.85%↓"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T07:45:26.593427+09:00"
+   "last_run": "2026-08-08T07:50:30.894573+09:00"
   }
  },
  "press_names": {
