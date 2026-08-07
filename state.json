@@ -1065,8 +1065,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=808944",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=169440",
     "https://www.newstopkorea.com/news/articleView.html?idxno=46829",
     "https://news.tvchosun.com/site/data/html_dir/2026/08/06/2026080690161.html",
     "https://www.sportsseoul.com/news/read/1627061",
@@ -2564,11 +2562,11 @@
     "https://www.businesspost.co.kr/BP?command=article_view&num=444205",
     "http://www.yonhapnewstv.co.kr/news/MYH20260807114859Qc6",
     "https://www.munhwa.com/article/11607999",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=444200"
+    "https://www.businesspost.co.kr/BP?command=article_view&num=444200",
+    "https://biz.sbs.co.kr/article_hub/20000327321?division=NAVER",
+    "https://www.ytn.co.kr/_ln/0102_202608071147104502"
    ],
    "seen_titles": [
-    "SK하이닉스,장중8%대급락…152만원대로밀리며약세",
-    "용인특례시의회,다낭서AI·반도체협력가능성모색",
     "[포커스]에이스테크,1분기영업손실63%줄였다...'체질개선'본격화",
     "美샌디스크쇼크...일본증시'장중뚝',키옥시아'급락'",
     "[롯데카드영업정지후폭풍]경영진,해킹위험보고받고도묵인",
@@ -4066,10 +4064,12 @@
     "포드'3만달러미만'전기픽업트럭공개,SK온대신중국CATL과동맹...",
     "중동긴장재고조에…코스피·코스닥하락전환",
     "靑,메가프로젝트전담‘국가투자수석급조직’검토",
-    "[K-GX에보이는미래③]한병화유진투자증권이사\"3대메가프로젝트..."
+    "[K-GX에보이는미래③]한병화유진투자증권이사\"3대메가프로젝트...",
+    "미국,태양광·반도체원료장벽…韓기업득실은?",
+    "코스피·코스닥,상승출발후장중하락전환"
    ],
    "initialized": true,
-   "last_run": "2026-08-07T11:50:33.942699+09:00"
+   "last_run": "2026-08-07T11:55:23.242628+09:00"
   }
  },
  "press_names": {
