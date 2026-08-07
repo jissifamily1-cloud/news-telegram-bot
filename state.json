@@ -150,10 +150,13 @@
     [
      "2026-08-08T05:05:27.329870+09:00",
      "우는 몰라라 깔아주고 롤러코스피"
+    ],
+    [
+     "2026-08-08T05:15:29.814629+09:00",
+     "배당 역대급 SK하이닉스의 쥐꼬리"
     ]
    ],
    "seen_urls": [
-    "https://www.globale.co.kr/news/articleView.html?idxno=39746",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=361410",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04634646645545024",
     "https://www.hankyung.com/article/2026080796996",
@@ -1652,10 +1655,10 @@
     "https://www.nocutnews.co.kr/news/6559985",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=269549",
     "https://www.the-today.com/news/articleView.html?idxno=88237",
-    "http://weekly.chosun.com/news/articleView.html?idxno=54097"
+    "http://weekly.chosun.com/news/articleView.html?idxno=54097",
+    "https://www.abcn.kr/news/articleView.html?idxno=90269"
    ],
    "seen_titles": [
-    "[미국증시]이란發악재에美증시하락…반도체주'빨간불'",
     "美증시'숨고르기'다우0.85%↓…호르무즈협상·고용지표대기-[글로...",
     "[마켓프리뷰]상승세지키지못한코스피급락마감…코스닥'강보합'",
     "이란,호르무즈통항금지추진에유가급등···뉴욕증시약세",
@@ -3154,10 +3157,11 @@
     "산업장관공세에도'노(No)'안하는노동장관…왜?",
     "[딜로이트글로벌경제리뷰]반도체'AI슈퍼사이클'이제기하는딜레...",
     "[솔리다임IPO3부작①]SK→SK스퀘어→SK하이닉스→솔리다임…미국IPO...",
-    "판깔아주고나몰라라…'롤러코스피'에우는2030"
+    "판깔아주고나몰라라…'롤러코스피'에우는2030",
+    "[ABC뉴스칼럼]SK하이닉스의'역대급쥐꼬리'배당"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T05:10:35.585002+09:00"
+   "last_run": "2026-08-08T05:15:29.814629+09:00"
   }
  },
  "press_names": {
