@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-07T11:45:26.970351+09:00",
-     "달러 공개 SK온 미만 픽업트럭 동맹 포드 전기 대신 3만 CATL과 중국"
-    ],
-    [
      "2026-08-07T11:50:33.942699+09:00",
      "메가프로젝트 수석급 국가투자 전담 검토"
     ],
@@ -910,16 +906,21 @@
     [
      "2026-08-07T17:45:25.101433+09:00",
      "한미반도체 생산세액공제 받는다 두산로보틱스"
+    ],
+    [
+     "2026-08-07T17:50:30.497300+09:00",
+     "M17"
+    ],
+    [
+     "2026-08-07T17:50:30.497300+09:00",
+     "상반기 미소금융 공급 1612억원 서민금융진흥원"
+    ],
+    [
+     "2026-08-07T17:50:30.497300+09:00",
+     "루빈 엔비디아도 울트라 HBM 줄이나 쩔쩔"
     ]
    ],
    "seen_urls": [
-    "https://www.asiatime.co.kr/article/20260806500373",
-    "http://www.hellodd.com/news/articleView.html?idxno=112732",
-    "https://www.kgnews.co.kr/news/article.html?no=906684",
-    "https://www.starnewskorea.com/sports/2026/08/06/2026080614563856295",
-    "https://www.dt.co.kr/article/12077013",
-    "https://www.segye.com/newsView/20260806519727?OutUrl=naver",
-    "http://www.kwangju.co.kr/article.php?aid=1786009800802015277",
     "https://news.mtn.co.kr/news-detail/2026080616430569446",
     "https://www.hani.co.kr/arti/area/capital/1271778.html",
     "https://www.ggilbo.com/news/articleView.html?idxno=1174004",
@@ -2412,16 +2413,16 @@
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598361967406",
     "https://biz.heraldcorp.com/article/10834218",
     "https://news.mtn.co.kr/news-detail/2026080716071087453",
-    "https://news.mtn.co.kr/news-detail/2026080716071561889"
+    "https://news.mtn.co.kr/news-detail/2026080716071561889",
+    "https://www.ikbc.co.kr/article/view/kbc202608070062",
+    "https://www.ajunews.com/view/20260807165903576",
+    "https://www.hani.co.kr/arti/economy/economy_general/1271941.html",
+    "https://weekly.hankooki.com/news/articleView.html?idxno=7178078",
+    "https://cn.asiatoday.co.kr/view.php?key=20260807001707246",
+    "http://www.lawissue.co.kr/view.php?ud=202608071744019823f4ab64559d_12",
+    "https://www.sedaily.com/article/20077043"
    ],
    "seen_titles": [
-    "[칼럼]양극화는왜나쁜가",
-    "SKT,에이닷서비스일시장애복구…\"LLM모델자체와는무관\"(종합)",
-    "SK쉴더스,매장운영·보안통합한'캡스매장솔루션'출시",
-    "CXMT상장충격에흔들린반도체주…미래에셋운용\"밸류체인분산이답...",
-    "지역을살리는과학기술,연결하는과학저널리즘",
-    "[집중기획]막이내린뒤의무대:경기공공공연장을진단하다③",
-    "'월드컵국대'이기혁,상무깜짝탈락왜?...멀티포지션'오히려독...",
     "ADT캡스,보안·매출·근태통합관리‘캡스매장솔루션’출시",
     "‘영업이익N%성과급지급’제동걸리나…입법논의까지확산",
     "광주반도체산단,팹4기+R&D·소부장·인재양성기능완비",
@@ -3914,10 +3915,17 @@
     "정부자본시장개혁1년…밸류업공시747개사인데시장은왜체감못하...",
     "‘29%→3%로뚝’5거래일만에상황급변…3000만원으로올리니효과보...",
     "엔화개입에원화도20원하락…'수혜'는언제까지",
-    "[단독]한미반도체·두산로보틱스,생산세액공제못받는다"
+    "[단독]한미반도체·두산로보틱스,생산세액공제못받는다",
+    "[속보]'삼전닉스'한국·'TSMC'대만,상반기수출서일본추월'사상처음...",
+    "AI반도체가뒤집은수출순위…韓·대만,사상첫日추월",
+    "SK하이닉스,주당375원배당확정…이르면이달주주환원확대방안발...",
+    "SK하이닉스,용인·청주에'54조'메모리공장짓는다",
+    "SK海力士敲定龙仁第二座晶圆厂及清州M17投资",
+    "서민금융진흥원,상반기미소금융1612억원공급",
+    "엔비디아도쩔쩔…‘루빈울트라’HBM줄이나"
    ],
    "initialized": true,
-   "last_run": "2026-08-07T17:45:25.101433+09:00"
+   "last_run": "2026-08-07T17:50:30.497300+09:00"
   }
  },
  "press_names": {
