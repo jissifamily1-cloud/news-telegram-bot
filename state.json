@@ -286,12 +286,17 @@
     [
      "2026-08-08T08:25:21.556071+09:00",
      "세계 이상일 시장 용인 도시 올랐다 다낭 반도체 국제무대"
+    ],
+    [
+     "2026-08-08T08:30:39.510508+09:00",
+     "고용 하이닉스 54조 인데 월요일 3만 시험대 사상최고"
+    ],
+    [
+     "2026-08-08T08:30:39.510508+09:00",
+     "9월로 확정 375원 주주환원책 발표 분기배당 SK하이닉스 앞당겨"
     ]
    ],
    "seen_urls": [
-    "https://www.kbmaeil.com/article/20260807500030",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608040812083840102529",
-    "https://www.yna.co.kr/view/AKR20260807022800008?input=1195m",
     "https://www.newspim.com/news/view/20260807000088",
     "https://www.dailymedi.com/news/news_view.php?wr_id=939104",
     "http://www.segyebiz.com/newsView/20260807505630?OutUrl=naver",
@@ -1788,12 +1793,12 @@
     "https://www.viva100.com/article/20260808500003",
     "https://www.slist.kr/news/articleView.html?idxno=757428",
     "http://www.sisacast.kr/news/articleView.html?idxno=98501",
-    "https://www.etoday.co.kr/news/view/2612369"
+    "https://www.etoday.co.kr/news/view/2612369",
+    "https://www.hankyung.com/article/2026080817197",
+    "https://www.greened.kr/news/articleView.html?idxno=347179",
+    "https://www.etoday.co.kr/news/view/2612371"
    ],
    "seen_titles": [
-    "신한투자증권\"유니셈,과도한저평가구간\"",
-    "개인7.6조쏟아부어도제자리...반도체가지수흔들어",
-    "[AIMY증시전망]밸류에이션부담완화…낙폭회복시도",
     "4.6%폭락한코스피,반등나설까…야간선물1.45%↑",
     "[더벨]SK에코플랜트,KCA에SKTNS인수자금지원하나",
     "SK증권\"원익IPS,수주잔고증가로하반기실적개선기대\"",
@@ -3290,10 +3295,13 @@
     "한국남동발전,국내최대규모400MW규모태양광발전사업착공식개최",
     "서학개미,아마존·마이크론베팅...'개별기술주'어게인?",
     "[경제이슈]금융업계,혁신추구하는AI도입경쟁치열...\"책임없는혁...",
-    "이상일시장,다낭국제무대올랐다…\"용인,세계최대반도체도시된..."
+    "이상일시장,다낭국제무대올랐다…\"용인,세계최대반도체도시된...",
+    "서학개미마음은'빅테크'…아마존·마이크론'4000억'폭풍매수",
+    "美고용'-2.3만'인데S&P사상최고…월요일'54조하이닉스'첫시험대",
+    "SK하이닉스,분기배당375원확정…주주환원책9월로앞당겨발표"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T08:25:21.556071+09:00"
+   "last_run": "2026-08-08T08:30:39.510508+09:00"
   }
  },
  "press_names": {
