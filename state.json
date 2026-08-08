@@ -194,11 +194,13 @@
     [
      "2026-08-08T16:05:24.369384+09:00",
      "5만원 반도체 없어서 말차 14만원 차밭의 판다"
+    ],
+    [
+     "2026-08-08T16:20:26.553242+09:00",
+     "반등론 8월 비중은 증시 아래로 고변동성주 고비 급매물 넘겼다"
     ]
    ],
    "seen_urls": [
-    "https://economist.co.kr/article/view/ecn202608060011",
-    "https://www.sedaily.com/article/20076793",
     "https://www.sedaily.com/article/20076795",
     "https://www.medicopharma.co.kr/news/articleView.html?idxno=69036",
     "https://www.ggilbo.com/news/articleView.html?idxno=1174031",
@@ -1696,11 +1698,11 @@
     "https://www.tournews21.com/news/articleView.html?idxno=140533",
     "http://www.fnnews.com/news/202608081508171745",
     "https://www.m-economynews.com/news/article.html?no=69547",
-    "http://weekly.chosun.com/news/articleView.html?idxno=54102"
+    "http://weekly.chosun.com/news/articleView.html?idxno=54102",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=363256",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1719660"
    ],
    "seen_titles": [
-    "K배터리,북미LFP승부수…현지생산·공급망강화가속화",
-    "[칼럼]밸류업,세제인센티브가남긴것",
     "‘도광양회’中메모리…칩품귀틈타글로벌PC공급망침투",
     "베네피아,표정·목소리분석AI적용한기업용EAP서비스출시",
     "“삼성·SK이익나누면반도체진다”…산업장관의쓴소리",
@@ -3198,10 +3200,12 @@
     "[기자수첩]SK에코플랜트,'전수조사'약속전에답해야할것들",
     "한국거래소\"삼전닉스레버리지심사기간단축.사실아냐\"",
     "주춤한목표주가,삼전닉스'눈높이조정'나선증권가",
-    "'차밭의반도체'된말차…㎏당5만원→14만원,없어서못판다"
+    "'차밭의반도체'된말차…㎏당5만원→14만원,없어서못판다",
+    "삼전·닉스레버리지특혜심사논란…거래소\"단축사실아냐\"",
+    "\"급매물고비넘겼다\"…8월증시반등론,고변동성주비중은50%아래로"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T16:15:28.396474+09:00"
+   "last_run": "2026-08-08T16:20:26.553242+09:00"
   }
  },
  "press_names": {
