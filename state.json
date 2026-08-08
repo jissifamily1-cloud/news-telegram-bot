@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-08T09:25:21.894963+09:00",
-     "키워 젊은 확산 정치인 김용 필요 정치 호남 DJ정신 전국으로 복원"
-    ],
-    [
      "2026-08-08T09:30:35.555579+09:00",
      "초일류 않은 그늘 기술에 환원의 걸맞지 주주"
     ],
@@ -241,8 +237,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.socialvalue.kr/news/view/1065573129106972",
-    "https://www.ziksir.com/news/articleView.html?idxno=142458",
     "https://www.rcast.co.kr/news/articleView.html?idxno=31406",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=274315",
     "https://www.ddaily.co.kr/page/view/2026080617050633322",
@@ -1740,11 +1734,11 @@
     "https://www.lcnews.co.kr/news/articleView.html?idxno=206228",
     "https://www.newsis.com/view/NISX20260808_0003741346",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=855408",
-    "https://www.jibs.co.kr/news/articles/articlesDetail/64317?feed=na"
+    "https://www.jibs.co.kr/news/articles/articlesDetail/64317?feed=na",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=855409",
+    "https://www.sidae.com/article/2026080815204152371"
    ],
    "seen_titles": [
-    "[속보]정청래\"신천지·ETF·호남반도체사과하라\"…'명청대전'靑까지...",
-    "LFP양극재3조원수주...포스코퓨처엠,14%상승",
     "SK이터닉스주가,8월7일장중53,800원2.18%하락",
     "베네피아,EAP서비스출시…임직원정신건강관리지원",
     "코스피,상승출발후하락전환…6300선밑으로",
@@ -3242,10 +3236,12 @@
     "SK하이닉스,용인·청주신규팹에약54조원투자…AI메모리생산확대",
     "\"국장대신미장\"몰려간개미들…美금융가\"위험자산줄여야“",
     "SK하이닉스,주주환원시계빨라졌다",
-    "역대급실적에화답...SK하이닉스,주주환원시점3분기로조기발표"
+    "역대급실적에화답...SK하이닉스,주주환원시점3분기로조기발표",
+    "서학개미,레버리지팔고기술주샀다",
+    "거래소\"삼전·닉스'단일레버리지ETF',예비심사13일걸렸다\""
    ],
    "initialized": true,
-   "last_run": "2026-08-08T15:20:28.177927+09:00"
+   "last_run": "2026-08-08T15:25:26.554213+09:00"
   }
  },
  "press_names": {
