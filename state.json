@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-08T12:35:26.056986+09:00",
-     "69조 거래대금 거래 SK하이닉스 압도 삼성전자"
-    ],
-    [
      "2026-08-08T13:10:34.819043+09:00",
      "민주당 전과 3인 2위도 당대표 최고위원 후보 복수 보유"
     ],
@@ -185,7 +181,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608070262&t=NN",
     "https://mhnse.com/news/articleView.html?idxno=1481539",
     "https://www.news1.kr/finance/general-stock/6252068",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=169494",
@@ -1684,10 +1679,10 @@
     "https://www.munhwa.com/article/11608150",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=62597",
     "https://www.sedaily.com/article/20077229",
-    "https://www.news1.kr/world/general-world/6253160"
+    "https://www.news1.kr/world/general-world/6253160",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1719663"
    ],
    "seen_titles": [
-    "[EBN데이터센터]한화솔루션·삼성전자에매수몰린코스피,코스닥선...",
     "\"AI투자,지속불가능\"…日무라타경고에반도체株'덜덜'",
     "[뉴스분석]취임후지지율최저치기록한이재명대통령…왜?",
     "\"올해순이익3조무난\"…최선호주유지한증권가",
@@ -3186,10 +3181,11 @@
     "‘정부의서학개미증시복귀작전실패?’…로이터“코스피신뢰빠르...",
     "이상일용인시장\"용인,세계최대단일도시반도체생태계될것\"",
     "삼전닉스급락에개미들美증시로…월가는“과열경고”",
-    "\"SK하이닉스,충칭공장지분매각포함다양한옵션검토중\""
+    "\"SK하이닉스,충칭공장지분매각포함다양한옵션검토중\"",
+    "[EBN오늘(8일)이슈종합]서학개미베팅이동…'속슬'2.6조팔고아마..."
    ],
    "initialized": true,
-   "last_run": "2026-08-08T18:35:20.851520+09:00"
+   "last_run": "2026-08-08T18:40:26.632613+09:00"
   }
  },
  "press_names": {
