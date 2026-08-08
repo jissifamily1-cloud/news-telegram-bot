@@ -318,16 +318,29 @@
     [
      "2026-08-09T08:40:27.998825+09:00",
      "노조 모여 만든다 뿔난 3500명 성과급에 직원들 SK하이닉스"
+    ],
+    [
+     "2026-08-09T08:43:35.074914+09:00",
+     "신성에스티 미국으로 타고 SK증권 체질이 달라졌다 ESS"
+    ],
+    [
+     "2026-08-09T08:43:35.074914+09:00",
+     "개편 반발 지방세제 반도체 재정위기에 경기도 지자체는"
+    ],
+    [
+     "2026-08-09T08:43:35.074914+09:00",
+     "용인 속도 SK하이닉스 투입 메모리 청주에 54조원 증설"
+    ],
+    [
+     "2026-08-09T08:43:35.074914+09:00",
+     "전장 끝냈다 에이스테크 방산이 구조조정 성장엔진"
+    ],
+    [
+     "2026-08-09T08:43:35.074914+09:00",
+     "AI는 용인특례시장 베트남서 이상일 시민형 반도체 강조"
     ]
    ],
    "seen_urls": [
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690932",
-    "https://www.seoul.co.kr/news/economy/securities/2026/08/07/20260807500113?wlog_tag3=naver",
-    "https://www.seoul.co.kr/news/economy/securities/2026/08/07/20260807500112?wlog_tag3=naver",
-    "https://www.hankyung.com/article/202608070281i",
-    "http://www.press9.kr/news/articleView.html?idxno=80777",
-    "https://www.hankyung.com/article/202608070555i",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4429152",
     "https://www.etoday.co.kr/news/view/2612155",
     "https://www.joongboo.com/news/articleView.html?idxno=363733337",
     "https://www.ajunews.com/view/20260807132022001",
@@ -1820,16 +1833,16 @@
     "http://www.popcornnews.net/news/articleView.html?idxno=129078",
     "https://www.etnews.com/20260809000009",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691272",
-    "https://www.imaeil.com/page/view/2026080908344840414"
+    "https://www.imaeil.com/page/view/2026080908344840414",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=84490",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=316202",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475618",
+    "https://www.thepublic.kr/news/articleView.html?idxno=314297",
+    "https://www.thepublic.kr/news/articleView.html?idxno=314260",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475617",
+    "https://www.thepublic.kr/news/articleView.html?idxno=314296"
    ],
    "seen_titles": [
-    "인크로스,광고·커머스쌍끌이…2분기수익성까지키웠다",
-    "'투자어려운나라'비판에정부고심…투심도'싸늘'",
-    "[재계핫이슈]한국경제의국가자본주의화,이재용최태원의'책임'",
-    "AI발D램부족에HP·에이수스도中CXMT택했다…삼성·SK하닉·마이크...",
-    "[서울데이터랩]코스피거래상위종목혼조…혜인26%급등,한화솔루션...",
-    "[서울데이터랩]코스피시총상위주혼조세…삼성전자강보합,SK하이닉...",
-    "장외공방까지…與전대서불거진‘레버리지ETF’책임론",
     "[SK의선택과대가③]하이닉스커질수록커지는지주사할인",
     "한국수출,상반기사상첫일본추월...'삼전닉스의힘'[도쿄나우]",
     "[외환]SK하이닉스·커스터디달러매도에낙폭확대…1,420원밑돌아(상...",
@@ -3322,10 +3335,17 @@
     "SKT,'테이블데이'서울행사성료...전국각지서'테이블데이'진행",
     "SKT,장기고객대상'테이블데이'개최…정재헌CEO호스트맡아",
     "SKT,장기고객초청'테이블데이'서울행사마무리...정재헌CEO도참...",
-    "성과급에뿔난SK하이닉스직원들…3500명모여'새노조'만든다"
+    "성과급에뿔난SK하이닉스직원들…3500명모여'새노조'만든다",
+    "정재헌SKT대표,장기고객과미식소통…'테이블데이'서울행사성황",
+    "SKT,10년이상장기고객400명초청…'테이블데이'서울행사",
+    "신성에스티,ESS타고미국으로…SK증권\"체질이달라졌다\"",
+    "경기도재정위기에지방세제개편추진…반도체지자체는반발",
+    "SK하이닉스,AI메모리증설속도…용인·청주에54조원투입",
+    "에이스테크,구조조정끝냈다…전장·방산이새성장엔진",
+    "이상일용인특례시장,베트남서\"반도체·AI는한몸\"강조…시민형AI..."
    ],
    "initialized": true,
-   "last_run": "2026-08-09T08:40:27.998825+09:00"
+   "last_run": "2026-08-09T08:43:35.074914+09:00"
   }
  },
  "press_names": {
