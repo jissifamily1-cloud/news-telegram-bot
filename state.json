@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-08T07:15:25.884660+09:00",
-     "삼성바이오로직스 삼성물산 쓸어 셀트리온 담았"
-    ],
-    [
      "2026-08-08T07:25:29.390059+09:00",
      "SK하이닉스 키운다 54조 베팅 메모리에 주주환원도"
     ],
@@ -314,11 +310,17 @@
     [
      "2026-08-08T13:10:34.819043+09:00",
      "민주당 전과 3인 2위도 당대표 최고위원 후보 복수 보유"
+    ],
+    [
+     "2026-08-08T13:15:32.116166+09:00",
+     "남동발전 태양광발전사업 국내 착공 400MW"
+    ],
+    [
+     "2026-08-08T13:15:32.116166+09:00",
+     "감독 김신진 이끄는 4경기 부족하다 아직 제주 상승세 3골 코스타"
     ]
    ],
    "seen_urls": [
-    "https://www.greened.kr/news/articleView.html?idxno=347065",
-    "https://www.smartbizn.com/news/articleView.html?idxno=150632",
     "https://www.businesspost.co.kr/BP?command=article_view&num=444175",
     "http://www.joseilbo.com/news/news_read.php?uid=573411&class=18",
     "https://www.mk.co.kr/article/12120661",
@@ -1816,11 +1818,11 @@
     "http://www.joseilbo.com/news/news_read.php?uid=573469&class=18",
     "http://www.osen.co.kr/article/G1112853757",
     "https://www.sentv.co.kr/article/view/sentv202608080011",
-    "http://www.sisafocus.co.kr/news/articleView.html?idxno=363522"
+    "http://www.sisafocus.co.kr/news/articleView.html?idxno=363522",
+    "https://www.sidae.com/article/2026080812230882386",
+    "https://www.goal.com/kr/뉴스/a/bltea4dd0412e1d2615"
    ],
    "seen_titles": [
-    "[특징주]포스코퓨처엠,LFP장기공급합의에7%대급등",
-    "코스피장초반보합권등락…외인·기관매수중",
     "코스피상승출발후변동성지속,유가상승우려계속",
     "코스피,장초반6400선터치후상승폭축소…호르무즈긴장재고조",
     "반도체반등에장초반1%뛴코스피,유가급등여파에오름세축소",
@@ -3318,10 +3320,12 @@
     "세금깎아줘도미국으로…서학개미46억달러‘대탈출’",
     "'제주전굴욕은잊어라!'김민재제대로날았다!95%패스+헤더골+평점...",
     "SK하이닉스,용인·청주에54조투입…AI메모리공급망선점",
-    "민주당당대표후보3인복수전과…최고위원1,2위도전과보유"
+    "민주당당대표후보3인복수전과…최고위원1,2위도전과보유",
+    "남동발전,국내최대400MW태양광발전사업착공",
+    "'4경기3골'제주상승세이끄는김신진\"아직부족하다\"...코스타감독..."
    ],
    "initialized": true,
-   "last_run": "2026-08-08T13:10:34.819043+09:00"
+   "last_run": "2026-08-08T13:15:32.116166+09:00"
   }
  },
  "press_names": {
