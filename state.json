@@ -181,7 +181,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202608071024072789",
     "https://www.dailian.co.kr/news/view/1675773/?sc=Naver",
     "https://www.yna.co.kr/view/AKR20260807043700009?input=1195m",
     "https://www.ddaily.co.kr/page/view/2026080710121157020",
@@ -1680,10 +1679,10 @@
     "https://www.sedaily.com/article/20077232",
     "https://biz.chosun.com/it-science/ict/2026/08/08/LFOXAKWDWZEMFOFEUO3ABLM3JQ/",
     "https://www.newsis.com/view/NISX20260808_0003741460",
-    "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890108.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890108.html",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260808.99099001975"
    ],
    "seen_titles": [
-    "[오늘증시]반도체'눈치보기'속코스피반등시도…외인다시\"사자\"",
     "코스피,저가매수에도상승폭반납…6,320선강보합",
     "인크로스,2분기영업익26%증가…광고·커머스동반성장",
     "\"AI에이전트가인류보다많아진다\"…메모리도'용량시대'끝난다",
@@ -3182,10 +3181,11 @@
     "“용인·청주54조투자”SK하이닉스,中충칭공장매각검토",
     "블룸버그“SK하이닉스,中충칭공장지분매각검토”",
     "SK하이닉스,中충칭후공정공장지분매각검토",
-    "[따져보니]변동성장세이어지는데…정부는\"펀더멘털견고\"\"주가안정..."
+    "[따져보니]변동성장세이어지는데…정부는\"펀더멘털견고\"\"주가안정...",
+    "[속보]“SK하이닉스,中패키징공장매각검토…중국서인수거론”"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T19:35:23.701906+09:00"
+   "last_run": "2026-08-08T19:40:33.847117+09:00"
   }
  },
  "press_names": {
