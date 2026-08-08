@@ -358,14 +358,21 @@
     [
      "2026-08-09T08:50:28.075779+09:00",
      "전망치 영업이익 SK이노베이션 양호 상회 기업 실적 2분기"
+    ],
+    [
+     "2026-08-09T08:55:21.634918+09:00",
+     "레버리지 반도체 말랬더니 레버리지로 하지 옮겨간 투자자들 단일종목"
+    ],
+    [
+     "2026-08-09T08:55:21.634918+09:00",
+     "인사 CEO가 400명에 장기가입자 직접 대접 요리 SKT 셰프"
+    ],
+    [
+     "2026-08-09T08:55:21.634918+09:00",
+     "쇄도 메모리 심화 장기계약 쇼티지 윈본드 2030년 대만 2027년"
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1675839/?sc=Naver",
-    "https://zdnet.co.kr/view/?no=20260807131651",
-    "https://biz.sbs.co.kr/article_hub/20000327269?division=NAVER",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=595739",
-    "https://www.datasom.co.kr/news/articleView.html?idxno=209419",
     "https://www.mk.co.kr/article/12120829",
     "https://www.newsis.com/view/NISX20260807_0003740425",
     "https://www.huffingtonpost.kr/article/259351",
@@ -1860,14 +1867,14 @@
     "https://www.ddaily.co.kr/page/view/2026080907513915938",
     "https://www.viva100.com/article/20260809500013",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608061009240000107628",
-    "https://www.tokenpost.kr/news/economy/387082"
+    "https://www.tokenpost.kr/news/economy/387082",
+    "https://www.ziksir.com/news/articleView.html?idxno=142550",
+    "https://www.dt.co.kr/article/12077171",
+    "https://www.segye.com/newsView/20260809504508?OutUrl=naver",
+    "https://zdnet.co.kr/view/?no=20260809085350",
+    "https://www.g-enews.com/view.php?ud=202608090746456562fbbec65dfb_1"
    ],
    "seen_titles": [
-    "SK네트웍스자회사인크로스,2분기외형·수익성모두개선",
-    "[MOVIEW]아이폰18프로‘품귀·가격인상’겹치나…D램공급이변수",
-    "[기업해부SK④]SK는어떻게돈을버는가…계열사구조와현금흐름의비...",
-    "반려동물아픈곳파악하는AI…SKT'엑스칼리버'코벳품으로",
-    "베슬AI,엔비디아B200GPU1천장이상확보…\"AI팩토리확장\"",
     "[직설]사이드카일상화된변동성장세…예측불가증시,어디까지흔...",
     "미소금융상반기공급1612억원…영세자영업자·청년지원확대",
     "SK이노베이션,가족돌봄아동34명초청해진로탐색지원",
@@ -3362,10 +3369,15 @@
     "삼성⋅SK차세대3D·계층형메모리맞대결…CXMT배짱이불러온K반도...",
     "순천향대·SKT,AI교육혁신으로창의력높인다",
     "[더벨][thebellinterview|제약바이오R&D인사이더스]신용제SK바이오...",
-    "SK이노베이션,2분기영업이익전망치124%상회…기업실적양호"
+    "SK이노베이션,2분기영업이익전망치124%상회…기업실적양호",
+    "SKT,장기고객초청'테이블데이'개최…미식·문화혜택확대",
+    "‘성과급불만’SK하이닉스,새통합노조출범임박",
+    "단일종목레버리지하지말랬더니…반도체레버리지로옮겨간투자자들",
+    "CEO가직접인사...SKT,장기가입자400명에셰프요리대접",
+    "대만윈본드,2030년메모리장기계약쇄도…2027년쇼티지심화"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T08:50:28.075779+09:00"
+   "last_run": "2026-08-09T08:55:21.634918+09:00"
   }
  },
  "press_names": {
