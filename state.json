@@ -74,10 +74,13 @@
     [
      "2026-08-09T05:45:26.566684+09:00",
      "초호황 몫은 씁쓸한 개미 성과급 SK하닉의 잔치에 새콤달콤"
+    ],
+    [
+     "2026-08-09T05:50:27.897931+09:00",
+     "마통 고령층 급락에 주가 급증 청년 빚투 탈났나 연체"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=274349",
     "https://biz.heraldcorp.com/article/10834002",
     "https://biz.heraldcorp.com/article/10834001",
     "http://www.weeklytoday.com/news/articleView.html?idxno=789440",
@@ -1576,10 +1579,10 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=0030221662&code=61141111&cp=nv",
     "https://www.nocutnews.co.kr/news/6560078",
     "https://www.g-enews.com/view.php?ud=2026080817242787640c8c1c064d_1",
-    "https://www.dt.co.kr/article/12077141"
+    "https://www.dt.co.kr/article/12077141",
+    "https://www.yna.co.kr/view/AKR20260808042200002?input=1195m"
    ],
    "seen_titles": [
-    "[CP’sView]증권거래소,레버리지ETF사태에답해야",
     "주주환원책도대체언제?…SK하이닉스4%대하락전환",
     "레버리지예탁금상향효과…거래대금비중29%→3%급감",
     "[OpeningMarket]KOSPIRecovers6,380LevelAmidWon/DollarRateStay",
@@ -3078,10 +3081,11 @@
     "“국장돌아오니꼭대기였네”…서학개미,코스피꺾이자다시‘미장’...",
     "\"'직투'도막힐라\"불안한서학개미…ISA개편·레버리지실책'후폭풍'",
     "‘AI반도체폭발’…韓·대만,2026년상반기수출사상첫日역전",
-    "성과급잔치에개미몫은‘0.75새콤달콤’…초호황SK하닉의씁쓸한..."
+    "성과급잔치에개미몫은‘0.75새콤달콤’…초호황SK하닉의씁쓸한...",
+    "주가급락에빚투탈났나…청년·고령층마통연체급증"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T05:45:26.566684+09:00"
+   "last_run": "2026-08-09T05:50:27.897931+09:00"
   }
  },
  "press_names": {
