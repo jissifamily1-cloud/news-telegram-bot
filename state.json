@@ -157,8 +157,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12120778",
-    "https://www.ekn.kr/web/view.php?key=20260807020320496",
     "https://www.smartbizn.com/news/articleView.html?idxno=150663",
     "http://www.seouleconews.com/news/articleView.html?idxno=92927",
     "https://www.munhwa.com/article/11607969",
@@ -1656,11 +1654,11 @@
     "https://www.yna.co.kr/view/AKR20260808023800008?input=1195m",
     "https://www.segye.com/newsView/20260809502769?OutUrl=naver",
     "https://www.lecturernews.com/news/articleView.html?idxno=208105",
-    "https://www.mk.co.kr/article/12121820"
+    "https://www.mk.co.kr/article/12121820",
+    "https://www.kbmaeil.com/article/20260809500017",
+    "https://www.lecturernews.com/news/articleView.html?idxno=208106"
    ],
    "seen_titles": [
-    "CATL혼자K배터리3사추월,중국배터리해외공세거세졌다",
-    "[특징주]LG에너지솔루션,북미ESS수주기대에강세…배터리3사동반...",
     "[자막뉴스]다른ETF는'기본2달'인데…'삼전닉스레버리지'심사'2배'...",
     "Gov’tmustreachconsensusonderegulationtostayaheadintechnology",
     "[단독]삼전닉스광주250만평‘한판설계’…평택식캠퍼스들어선다",
@@ -3158,10 +3156,12 @@
     "단일레버리지규제후코스닥레버리지'날았다'…자금유입뚜렷",
     "“부모님심박·수면까지24시간본다”…실버타운파고든‘AI돌봄’",
     "[코스피·코스닥지수]급락장휩쓴한국증시,변동성진정세…반등의실...",
-    "“반도체몰빵투자이젠안통해”…절반덜어내고‘바이오’담으라..."
+    "“반도체몰빵투자이젠안통해”…절반덜어내고‘바이오’담으라...",
+    "빚투경고등켜졌다…청년·고령층‘마통연체’급증",
+    "1,600원위협하던원·달러환율,1,400원선도흔들…커지는'환율변동..."
    ],
    "initialized": true,
-   "last_run": "2026-08-09T06:25:21.872704+09:00"
+   "last_run": "2026-08-09T06:30:34.765097+09:00"
   }
  },
  "press_names": {
