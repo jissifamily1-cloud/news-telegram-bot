@@ -294,11 +294,13 @@
     [
      "2026-08-09T08:20:28.049236+09:00",
      "정상화 향방 코스피 주목 물가 수급 언제쯤"
+    ],
+    [
+     "2026-08-09T08:25:20.898371+09:00",
+     "54조 국내엔 후공정 공장 지분매각 충칭 투자 SK하이닉스 검토"
     ]
    ],
    "seen_urls": [
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=357110",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=05933526645545024",
     "https://www.naeil.com/news/read/598050",
     "https://www.newspim.com/news/view/20260807000547",
     "https://www.techm.kr/news/articleView.html?idxno=154093",
@@ -1796,11 +1798,11 @@
     "https://www.kbmaeil.com/article/20260809500036",
     "https://it.chosun.com/news/articleView.html?idxno=2023092167569",
     "https://magazine.hankyung.com/business/article/202608092305b",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691253"
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691253",
+    "https://www.greened.kr/news/articleView.html?idxno=347183",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260809010002568"
    ],
    "seen_titles": [
-    "'외국인ATM'된K증시…레버리지거래줄어도'삼전닉스'는롤러코스터...",
-    "리얼월드,국내3사와엔비디아'아이작'벤치마크고도화나선다",
     "역대최다843명출전…KBL유스클럽농구대회,14일제천서개막",
     "[뉴욕증시]이란,호르무즈선별통항추진…3대지수일제히하락",
     "\"안전할줄알고ETF샀는데…월급,휴가비다날렸다\"",
@@ -3298,10 +3300,12 @@
     "널뛰기韓증시진정조짐…이번주반등시험대",
     "증시급락에ETF도위축…삼성26조·미래19조씩줄어",
     "[속보]SK하이닉스통합노조신설추진",
-    "[증시전망]코스피수급정상화언제쯤...美물가향방주목"
+    "[증시전망]코스피수급정상화언제쯤...美물가향방주목",
+    "최태원,노소영에9440억지급하나…재상고기한17일까지",
+    "\"SK하이닉스,中충칭후공정공장지분매각검토\"…국내엔54조투자"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T08:20:28.049236+09:00"
+   "last_run": "2026-08-09T08:25:20.898371+09:00"
   }
  },
  "press_names": {
