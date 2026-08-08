@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-08T03:55:23.003772+09:00",
-     "착공 400MW 태양광발전사업 해남서 전남광주특별시 국내"
-    ],
-    [
      "2026-08-08T04:15:26.290623+09:00",
      "진격의 덕에 양안 기염 수출 완전히"
     ],
@@ -362,13 +358,17 @@
     [
      "2026-08-08T09:55:22.569650+09:00",
      "경쟁률 선호 철학과 하락하고 바꾼 AI가 전공 상승 대학 컴공"
+    ],
+    [
+     "2026-08-08T10:00:42.233302+09:00",
+     "서학개미들 SK하닉 아닌 몰렸다 여기"
+    ],
+    [
+     "2026-08-08T10:00:42.233302+09:00",
+     "SK이노베이션 진짜 흑자전환의 5조 흑자 SK온 함정"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20076771",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475210",
-    "https://www.hankyung.com/article/2026080700416",
-    "http://www.joseilbo.com/news/news_read.php?uid=573407&class=53",
     "https://www.ibabynews.com/news/articleView.html?idxno=153519",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05307046645545024",
     "https://news.tf.co.kr/read/economy/2351603.htm",
@@ -1864,13 +1864,13 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4429259",
     "https://sports.donga.com/sports/article/all/20260808/134441274/1",
     "https://www.the-today.com/news/articleView.html?idxno=88214",
-    "https://www.thepublic.kr/news/articleView.html?idxno=314198"
+    "https://www.thepublic.kr/news/articleView.html?idxno=314198",
+    "https://www.newsis.com/view/NISX20260808_0003741239",
+    "https://www.thepublic.kr/news/articleView.html?idxno=314174",
+    "https://magazine.hankyung.com/business/article/202608081781b",
+    "https://www.ezyeconomy.com/news/articleView.html?idxno=238485"
    ],
    "seen_titles": [
-    "[개장시황]대형반도체주상승에코스피,장초반1%대반등",
-    "[기자수첩]'롤러코스피'의일상화…급등·급락반복에사이드카일상됐...",
-    "고점물린홍진경·차값날린김원훈…'금융예능'이뜬다",
-    "K-딥테크특구기업,미국UKC서미국진출해법찾아",
     "양극재·음극재등핵심소재주맹등…2차전지대형주도동반상승",
     "상상인증권,이틀째상한가직행…인수추진기대감",
     "'7월쇼크'ETF10개중8개추락했다고?...순자산78조원증발",
@@ -3366,10 +3366,14 @@
     "8월물가변수로떠오른'히트플레이션'…폭염에농축수산물값오르나",
     "‘머리로쾅’김민재,애스턴빌라와친선경기서골→‘뮌헨2-1승리...",
     "SK하이닉스'실적'다음은주주환원…하반기주가향방가를까",
-    "AI가바꾼대학전공선호…컴공하락하고철학과경쟁률상승"
+    "AI가바꾼대학전공선호…컴공하락하고철학과경쟁률상승",
+    "'김민재선제골'뮌헨,애스턴빌라꺾고아시아투어2연승",
+    "레버리지ETF상장두달...운용사37억원벌동안투자자는63%손실",
+    "서학개미들'SK하닉'아닌여기몰렸다",
+    "[주말!기업클릭]SK이노베이션,3.5조흑자전환의함정…SK온'진짜흑자..."
    ],
    "initialized": true,
-   "last_run": "2026-08-08T09:55:22.569650+09:00"
+   "last_run": "2026-08-08T10:00:42.233302+09:00"
   }
  },
  "press_names": {
