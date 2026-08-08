@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-08T09:33:02.631631+09:00",
-     "롤러코스터 2주 피한 증발 주식 2400만원 스타들도 만에"
-    ],
-    [
-     "2026-08-08T09:33:02.631631+09:00",
-     "땡큐 삼전닉스 증시 달렸다 김근희의 업종 급락 트럼프"
-    ],
-    [
      "2026-08-08T09:45:31.177271+09:00",
      "주간 코인판 규제했지만 레버리지 흔들린 처럼 코스피 삼전닉스 ETF"
     ],
@@ -234,11 +226,13 @@
     [
      "2026-08-08T15:30:40.826550+09:00",
      "번째 올해 2000만 자사주 독립이사 1억 SK하이닉스 6명에"
+    ],
+    [
+     "2026-08-08T15:35:23.962671+09:00",
+     "이어지나 삼전닉스 번다 공식화 샌디스크 훈풍 낸드 물량 없어"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=274315",
-    "https://www.ddaily.co.kr/page/view/2026080617050633322",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475233",
     "https://www.m-economynews.com/news/article.html?no=69515",
     "https://www.asiatime.co.kr/article/20260807500047",
@@ -1736,11 +1730,11 @@
     "https://www.jibs.co.kr/news/articles/articlesDetail/64317?feed=na",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=855409",
     "https://www.sidae.com/article/2026080815204152371",
-    "https://bizhankook.com/articles/sk-hynix-grants-stock-to-directors.html"
+    "https://bizhankook.com/articles/sk-hynix-grants-stock-to-directors.html",
+    "https://www.viva100.com/article/20260808500150",
+    "https://www.mt.co.kr/industry/2026/08/08/2026080715300138850"
    ],
    "seen_titles": [
-    "베네피아,EAP서비스출시…임직원정신건강관리지원",
-    "코스피,상승출발후하락전환…6300선밑으로",
     "베네피아,부산시교육청에EAP서비스공급",
     "\"AI로챙기는정신건강\"베네피아,EAP서비스출시",
     "복지플랫폼'베네피아',EAP도입…'웰니스복지'로영역확장",
@@ -3238,10 +3232,12 @@
     "역대급실적에화답...SK하이닉스,주주환원시점3분기로조기발표",
     "서학개미,레버리지팔고기술주샀다",
     "거래소\"삼전·닉스'단일레버리지ETF',예비심사13일걸렸다\"",
-    "SK하이닉스,독립이사6명에자사주1억2000만원…올해두번째"
+    "SK하이닉스,독립이사6명에자사주1억2000만원…올해두번째",
+    "SKT‘통신AI평가체계’글로벌주목…사우디연구진벤치마크로활용",
+    "삼전닉스낸드훈풍이어지나..샌디스크\"물량없어못번다\"공식화"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T15:30:40.826550+09:00"
+   "last_run": "2026-08-08T15:35:23.962671+09:00"
   }
  },
  "press_names": {
