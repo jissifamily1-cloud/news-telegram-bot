@@ -405,8 +405,6 @@
     ]
    ],
    "seen_urls": [
-    "https://slownews.kr/164492",
-    "https://view.asiae.co.kr/article/2026080709310601629",
     "https://www.g-enews.com/view.php?ud=202608070913395493fbbec65dfb_1",
     "https://www.dailian.co.kr/news/view/1675730/?sc=Naver",
     "https://www.newsis.com/view/NISX20260807_0003739985",
@@ -1904,11 +1902,11 @@
     "https://www.gokorea.kr/news/articleView.html?idxno=874453",
     "https://www.aitimes.com/news/articleView.html?idxno=213704",
     "https://www.mediapen.com/news/view/1114980",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457294"
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457294",
+    "https://www.mediapen.com/news/view/1115108",
+    "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890021.html"
    ],
    "seen_titles": [
-    "코스피,외국인순매수에6400선반등",
-    "원스토어,앱마켓최초AI창작게임전문관'AIGames'오픈",
     "나이스신평,SK이노베이션산하도시가스3사AA-신규평가",
     "SlowLetter:August07,2026.",
     "이일준NHN클라우드부장\"국내최고성능으로독파모모델안정적지원...",
@@ -3406,10 +3404,12 @@
     "미국고용지표악화에뉴욕증시일제히상승…S&P500사상최고치경신",
     "SK하이닉스,중국충칭자산매각검토...국내팹에54조투자",
     "'집만짓던'시대는끝…건설업계,주거플랫폼으로생활까지잡는다",
-    "[증시동향]외국인투매에발목잡힌코스피···반등중인코스닥"
+    "[증시동향]외국인투매에발목잡힌코스피···반등중인코스닥",
+    "SK하이닉스,'AI투자·주주환원'다잡는다…글로벌주도권굳히기",
+    "5월말출시된'삼전닉스레버리지',다른ETF보다상장소요기간한달..."
    ],
    "initialized": true,
-   "last_run": "2026-08-08T10:35:21.258999+09:00"
+   "last_run": "2026-08-08T10:40:28.403502+09:00"
   }
  },
  "press_names": {
