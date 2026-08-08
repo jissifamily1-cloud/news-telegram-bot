@@ -409,7 +409,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4429094",
     "https://www.news1.kr/finance/market-exr/6252001",
     "https://www.joongangenews.com/news/articleView.html?idxno=538446",
     "http://www.newsian.co.kr/news/articleView.html?idxno=93418",
@@ -1908,10 +1907,10 @@
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005896663",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=363249",
     "https://www.g-enews.com/view.php?ud=202608081033536171740eacf404_1",
-    "https://www.news1.kr/local/gwangju-jeonnam/6253027"
+    "https://www.news1.kr/local/gwangju-jeonnam/6253027",
+    "https://www.newscj.com/news/articleView.html?idxno=3423471"
    ],
    "seen_titles": [
-    "[7월예비심사기업上]엠디에스코리아,진코스텍,씨아이에스케미칼등",
     "[특징주]태양광주,美관세부과에4%대급등",
     "포스코퓨처엠,8%상승…배터리업체공급계약호조",
     "코스피상승출발후보합권후퇴…전일급락분만회시도",
@@ -3410,10 +3409,11 @@
     "금리인상기대론후퇴에…S&P500사상최고치기록경신",
     "美고용둔화에금리인상기대후퇴…코스피위험선호살아날까",
     "고용악재가호재로…美증시상승,S&P500최고치",
-    "전남광주특별시,기후부에발전공기업통합본사설치건의"
+    "전남광주특별시,기후부에발전공기업통합본사설치건의",
+    "[축구]김민재,홍콩에서헤더골작렬…뮌헨,애스턴빌라2-1격파"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T10:50:27.700410+09:00"
+   "last_run": "2026-08-08T10:55:28.581296+09:00"
   }
  },
  "press_names": {
