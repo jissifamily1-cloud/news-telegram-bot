@@ -414,12 +414,17 @@
     [
      "2026-08-08T11:00:43.124370+09:00",
      "관리 담고 리스크 반도체 GS피앤엘"
+    ],
+    [
+     "2026-08-08T11:05:25.532407+09:00",
+     "건설 데이터센터 한파에 될까 단비 반도체 데크업계 벼랑끝"
+    ],
+    [
+     "2026-08-08T11:05:25.532407+09:00",
+     "사업에 진심인 이유 꿈꾼다 한국판 팔란티어 네이버가 국방"
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/policy/policy_sub/2026/08/07/EOKL7PO4ARGXLKQYLUVCQL5SNI/",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475218",
-    "https://www.seoulfn.com/news/articleView.html?idxno=635163",
     "http://www.beyondpost.co.kr/view.php?ud=202608070932193160be44c0aacd_30",
     "https://www.ajunews.com/view/20260807093302483",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05349686645545024",
@@ -1916,12 +1921,12 @@
     "https://www.newscj.com/news/articleView.html?idxno=3423471",
     "https://www.mk.co.kr/article/12121684",
     "http://www.breaknews.com/1227613",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1719650"
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1719650",
+    "http://www.fieldnews.kr/news/articleView.html?idxno=30556",
+    "https://www.sedaily.com/article/20077053",
+    "https://www.newsis.com/view/NISX20260805_0003737877"
    ],
    "seen_titles": [
-    "중동긴장재고조에유가·달러↑…환율1420원대상승출발",
-    "[개장시황]코스피,외국인매수에6400선회복",
-    "코스피,장초반혼조…6400선회복후6300선으로밀려",
     "원·달러환율,1.4원내린1422.4원",
     "한화솔루션·SK이노베이션강세…석유화학주매수세온기확산",
     "코스피,장중6300선보합권등락···외국인·기관동반매수",
@@ -3418,10 +3423,13 @@
     "[축구]김민재,홍콩에서헤더골작렬…뮌헨,애스턴빌라2-1격파",
     "거래소“단일종목레버리지ETF심사단축은사실무근”",
     "[추적]SK하이닉스⑨버텨?손절해?지금사,말아?…375원에낚이기전...",
-    "[1%초고수의주간선택]'GS피앤엘'담고'반도체'리스크관리"
+    "[1%초고수의주간선택]'GS피앤엘'담고'반도체'리스크관리",
+    "이상일용인시장,다낭서반도체·AI협력시동…상시협력채널가동",
+    "건설한파에벼랑끝데크업계…반도체·AI데이터센터‘단비’될까",
+    "\"한국판팔란티어꿈꾼다\"…네이버가국방AI사업에진심인이유"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T11:00:43.124370+09:00"
+   "last_run": "2026-08-08T11:05:25.532407+09:00"
   }
  },
  "press_names": {
