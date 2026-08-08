@@ -189,8 +189,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260807090704419",
-    "https://www.news1.kr/industry/general-industry/6252091",
     "http://www.newsian.co.kr/news/articleView.html?idxno=93426",
     "https://biz.heraldcorp.com/article/10833864",
     "https://www.sedaily.com/article/20076825",
@@ -1688,11 +1686,11 @@
     "https://www.tvreport.co.kr/breaking/article/1067331/",
     "https://www.gokorea.kr/news/articleView.html?idxno=874467",
     "https://www.gokorea.kr/news/articleView.html?idxno=874470",
-    "http://www.wsobi.com/news/articleView.html?idxno=316157"
+    "http://www.wsobi.com/news/articleView.html?idxno=316157",
+    "https://www.gokorea.kr/news/articleView.html?idxno=874487",
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5211164"
    ],
    "seen_titles": [
-    "한전기술지주닻올렸다…'K-에너지유니콘기업'육성본격화",
-    "글로벌전기차배터리성장세…중국업체영향력확대",
     "SamsungElectronics,SKhynixmixedaftersharpsell-off",
     "한전기술지주공식출범…특허8000개활용해에너지유니콘키운다",
     "中공세에밀린K배터리…非중국시장점유율30%아래로'뚝'",
@@ -3190,10 +3188,12 @@
     "'떡밥'전부풀린다…294만흥행→무려'19분'확장판으로넷플먹으러...",
     "뉴욕증시강세지속…연준금리인상기대감약화가주가상승세견인",
     "삼전닉스레버리지ETF심사속도논란…금융당국과거래소의입장차는...",
-    "세종대,서울시'서울앵커10챌린지'선정...기획전'인연,두번째'개..."
+    "세종대,서울시'서울앵커10챌린지'선정...기획전'인연,두번째'개...",
+    "SK텔레콤AI에이전트,사우디연구벤치마크로주목받다",
+    "미국여행기다린보람있었네…환율1300원대복귀'코앞'안도"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T20:15:33.491509+09:00"
+   "last_run": "2026-08-08T20:20:28.471804+09:00"
   }
  },
  "press_names": {
