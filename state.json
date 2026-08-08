@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-08T05:15:29.814629+09:00",
-     "배당 역대급 SK하이닉스의 쥐꼬리"
-    ],
-    [
      "2026-08-08T05:40:28.887159+09:00",
      "스페이스X 최고 폭등 고용 P500 사상 감소"
     ],
@@ -410,12 +406,17 @@
     [
      "2026-08-08T11:15:27.935570+09:00",
      "강화 베슬AI 사업 확보 GPU 클라우드"
+    ],
+    [
+     "2026-08-08T11:20:29.632223+09:00",
+     "주가 SK이터닉스 급락 급등 8월 1주차 5만원대"
+    ],
+    [
+     "2026-08-08T11:20:29.632223+09:00",
+     "갔나 정의는 1조 어디로 세금 최태원 재산분할과 조세 0원 노소영"
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202608070934369195",
-    "https://www.datanet.co.kr/news/articleView.html?idxno=213614",
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=238451",
     "https://www.news2day.co.kr/article/20260807500062",
     "https://www.ezyeconomy.com/news/articleView.html?idxno=238447",
     "http://www.inews24.com/view/1992798",
@@ -1912,12 +1913,12 @@
     "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374760",
     "http://www.cctimes.kr/news/articleView.html?idxno=920707",
     "https://www.topstarnews.net/news/articleView.html?idxno=16158180",
-    "https://www.sedaily.com/article/20077194"
+    "https://www.sedaily.com/article/20077194",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16158192",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16158194",
+    "http://www.newsbrite.net/news/articleView.html?idxno=199625"
    ],
    "seen_titles": [
-    "[개장시황]코스피,1%대상승출발…장초반오름폭축소",
-    "코스피,외국인'사자'에1.32%상승…6300선회복",
-    "헝가리배터리공장가뭄에전력·용수감축비상",
     "\"제주흑돼지놔두고왜?\"…뮌헨선수단홀린김민재의'치맥',獨언론...",
     "베슬AI,GPU클라우드서비스'베슬클라우드'강화",
     "코스피,하루만에6400선회복···외국인'사자'에반도체株반등",
@@ -3414,10 +3415,13 @@
     "'김민재헤더골'뮌헨,홍콩에서열린프리시즌경기나서애스턴빌라...",
     "SK하이닉스,청주M17에19조원투자확정",
     "최근5거래일SK하이닉스주가140만원대마감",
-    "베슬AI,GPU확보…클라우드사업강화"
+    "베슬AI,GPU확보…클라우드사업강화",
+    "8월1주차SK스퀘어주가주중상승세반납하락",
+    "8월1주차SK이터닉스주가급등후5만원대급락",
+    "최태원·노소영1조재산분할과'0원'세금…조세정의는어디로갔나"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T11:15:27.935570+09:00"
+   "last_run": "2026-08-08T11:20:29.632223+09:00"
   }
  },
  "press_names": {
