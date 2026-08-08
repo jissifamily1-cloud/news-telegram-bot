@@ -186,12 +186,13 @@
     [
      "2026-08-08T22:05:30.118884+09:00",
      "무패 네게바 제주SK 해트트릭 완승 7G 리그 원정서 전북"
+    ],
+    [
+     "2026-08-08T22:10:28.305903+09:00",
+     "전북 제주"
     ]
    ],
    "seen_urls": [
-    "https://zdnet.co.kr/view/?no=20260807105027",
-    "https://www.mk.co.kr/article/12120731",
-    "https://view.asiae.co.kr/article/2026080614292804209",
     "https://www.newsis.com/view/NISX20260807_0003740205",
     "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/07/20260807500075?wlog_tag3=naver",
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553440283",
@@ -1688,12 +1689,12 @@
     "http://www.osen.co.kr/article/G1112853980",
     "https://www.goal.com/kr/뉴스/a/",
     "https://www.sentv.co.kr/article/view/sentv202608080022",
-    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597210"
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597210",
+    "https://www.news1.kr/sports/soccer/6253217",
+    "https://www.sportschosun.com/football/2026-08-08/202608080100047080002929",
+    "https://www.yna.co.kr/view/AKR20260808052500007?input=1195m"
    ],
    "seen_titles": [
-    "휴가철외환시장에무슨일이…거래끊이지않는까닭은",
-    "코스피,상승출발뒤1%대하락…SK하이닉스5%↓[fn오전시황]",
-    "'단일종목레버리지'옥죄니코스닥이'숨통'",
     "정부,독파모2차평가돌입…\"데이터·비용·활용성검증관건\"",
     "베슬AI,최신GPU탑재‘베슬클라우드’서비스강화",
     "\"경력다떼고신입지원하라네요\"…SK하이닉스이직길막힌삼성맨들...",
@@ -3190,10 +3191,13 @@
     "'34살'네게바해트트릭원맨쇼!제주,슈팅32개얻어맞고이겼다...전...",
     "[GOAL현장]‘이승우감아차기동점포’전북,‘네게바해트트릭’제...",
     "블룸버그\"SK하이닉스,中충칭공장지분매각검토\"",
-    "'네게바해트트릭'제주SK,전북원정서3-1완승...리그7G무패"
+    "'네게바해트트릭'제주SK,전북원정서3-1완승...리그7G무패",
+    "[K리그1]전적종합(8일)",
+    "'네게바해트트릭'제주SK,4년3개월만에전북원정승리…'이승우득...",
+    "[프로축구전주전적]제주3-1전북"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T22:05:30.118884+09:00"
+   "last_run": "2026-08-08T22:10:28.305903+09:00"
   }
  },
  "press_names": {
