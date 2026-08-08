@@ -341,10 +341,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=314636",
-    "http://www.newsprime.co.kr/news/article.html?no=743051",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475202",
-    "https://www.wolyo.co.kr/news/articleView.html?idxno=316143",
     "https://www.yna.co.kr/view/AKR20260807028600091?input=1195m",
     "https://edu.donga.com/news/articleView.html?idxno=110682",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4429078",
@@ -1840,13 +1836,13 @@
     "http://www.inews24.com/view/1991858",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=142763",
     "https://www.seoulfn.com/news/articleView.html?idxno=635226",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=725866"
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=725866",
+    "https://isplus.com/article/view/isp202608080005",
+    "https://www.asiaa.co.kr/news/articleView.html?idxno=258085",
+    "https://www.tournews21.com/news/articleView.html?idxno=140519",
+    "https://www.kizmom.com/news/articleView.html?idxno=111969"
    ],
    "seen_titles": [
-    "SK증권\"한국금융지주,2분기어닝서프라이즈…목표가41만원유지\"",
-    "\"애플의'중국메모리카드'실패…삼성·SK하이닉스만웃었다\"",
-    "[속보]코스피1%상승…6,360선출발",
-    "이란발지정학적리스크에기술주'흔들'…뉴욕증시,다우0.85%하락",
     "[해외시황]뉴욕증시,호르무즈통제리스크·AI반도체실적실망에'하...",
     "독보적기술력의재발견…삼성SDI,차세대각형배터리성장판열린다",
     "D램부족에아이폰18칩생산차질…TSMC에10억달러어치묶였다",
@@ -3342,10 +3338,14 @@
     "석화업계,2분기중동發래깅효과에'깜짝실적'…웃지못하는이유는",
     "[위클리PICK3]'고가·다주택과세강화'세제개편부터삼성·하이닉...",
     "[OTT가이드]티빙\"마침내흑자\"···돈버는기업되기위해남은과제...",
-    "[이주의전자수첩]고객에서맞수로…머스크'테라팹'에삼성·SK'긴장..."
+    "[이주의전자수첩]고객에서맞수로…머스크'테라팹'에삼성·SK'긴장...",
+    "김민재,프리시즌헤더골작렬…뮌헨,제주-AV아시아투어2연승으로마...",
+    "[A증권가소식]삼성증권,연금저축거래수수료낮춰고객자산운용...",
+    "세계로뻗는'용인의DNA'…이상일시장,다낭서반도체·AI도시용인알...",
+    "서학개미투자판도바뀌었다…아마존·마이크론·샌디스크6382억쓸어담..."
    ],
    "initialized": true,
-   "last_run": "2026-08-08T09:05:21.474851+09:00"
+   "last_run": "2026-08-08T09:10:29.896697+09:00"
   }
  },
  "press_names": {
