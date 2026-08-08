@@ -193,9 +193,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260807_0003740205",
-    "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/07/20260807500075?wlog_tag3=naver",
-    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553440283",
     "https://magazine.hankyung.com/business/article/202608070353b",
     "https://www.news1.kr/finance/general-stock/6252153",
     "https://biz.chosun.com/stock/stock_general/2026/08/07/ANAHUYC6NNCVNPY4LXSTLAPTKI/",
@@ -1692,12 +1689,12 @@
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597210",
     "https://www.news1.kr/sports/soccer/6253217",
     "https://www.sportschosun.com/football/2026-08-08/202608080100047080002929",
-    "https://www.yna.co.kr/view/AKR20260808052500007?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260808052500007?input=1195m",
+    "https://m.sports.naver.com/basketball/article/065/0000300469",
+    "http://www.stoo.com/article.php?aid=108220150122",
+    "https://m.sports.naver.com/general/article/065/0000300468"
    ],
    "seen_titles": [
-    "정부,독파모2차평가돌입…\"데이터·비용·활용성검증관건\"",
-    "베슬AI,최신GPU탑재‘베슬클라우드’서비스강화",
-    "\"경력다떼고신입지원하라네요\"…SK하이닉스이직길막힌삼성맨들...",
     "반도체쉬자건설달린다…AI인프라·정책기대에상승률1위'질주'",
     "최민경기도의원“반도체인재키울골든타임”…경기도기술학교혁...",
     "이럴수가!김하성과한국농구장에놀러오더니...!'쫄딱망했다'피츠버...",
@@ -3194,10 +3191,13 @@
     "'네게바해트트릭'제주SK,전북원정서3-1완승...리그7G무패",
     "[K리그1]전적종합(8일)",
     "'네게바해트트릭'제주SK,4년3개월만에전북원정승리…'이승우득...",
-    "[프로축구전주전적]제주3-1전북"
+    "[프로축구전주전적]제주3-1전북",
+    "[전국유소년]인제유소년대회2일차,U8·U9·U10·U18우승컵주인공...",
+    "'서명관·야고연속골'울산,동해안더비서포항제압…대전·제주는승...",
+    "[전국유소년]하늘내린인제2026전국유소년농구대회2일차시상식화..."
    ],
    "initialized": true,
-   "last_run": "2026-08-08T22:10:28.305903+09:00"
+   "last_run": "2026-08-08T22:15:33.312706+09:00"
   }
  },
  "press_names": {
