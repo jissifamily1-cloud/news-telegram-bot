@@ -158,14 +158,29 @@
     [
      "2026-08-08T17:35:27.674788+09:00",
      "지주 AA 등급 보증에 보증채 갈린 자체채 한국투자캐피탈"
+    ],
+    [
+     "2026-08-08T18:04:48.106144+09:00",
+     "성과급 김대영의 삼전닉스 흔들리나 영업익 전쟁 입법"
+    ],
+    [
+     "2026-08-08T18:04:48.106144+09:00",
+     "K정유 수출 원유보다 커진다 귀해진 정제능력 기회"
+    ],
+    [
+     "2026-08-08T18:04:48.106144+09:00",
+     "네이버 카카오 정부 AI에 GPU 통신사 수익화 세제 지원 경쟁"
+    ],
+    [
+     "2026-08-08T18:04:48.106144+09:00",
+     "지분매각 SK하이닉스 충칭 패키징공장 검토 중국"
+    ],
+    [
+     "2026-08-08T18:04:48.106144+09:00",
+     "New Memory hynix 3B Chip Fabs to Commits"
     ]
    ],
    "seen_urls": [
-    "https://www.gosiweek.com/article/1065573421178779",
-    "https://www.ddaily.co.kr/page/view/2026080710024843582",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690868",
-    "https://www.hidomin.com/news/articleView.html?idxno=716356",
-    "https://www.incheontoday.com/news/articleView.html?idxno=322079",
     "https://www.g-enews.com/view.php?ud=2026080709412638029a1f309431_1",
     "https://news.ifm.kr/news/articleView.html?idxno=476662",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000055138",
@@ -1660,14 +1675,14 @@
     "https://www.siminsori.com/news/articleView.html?idxno=400950",
     "https://www.aitimes.com/news/articleView.html?idxno=213708",
     "https://www.startuptoday.co.kr/news/articleView.html?idxno=809116",
-    "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890081.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890081.html",
+    "https://www.hankyung.com/article/202608069562g",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=855398",
+    "https://sateconomy.co.kr/news/view/1065580829512503",
+    "https://www.yna.co.kr/view/AKR20260808045500009?input=1195m",
+    "http://www.smarttimes.co.kr/news/articleView.html?idxno=47997"
    ],
    "seen_titles": [
-    "SK이터닉스주가,8월7일장중54,000원1.82%하락",
-    "코스피·코스닥,상승출발후6,300대보합권서혼조",
-    "순천향대-SKT,강원·충청청소년대상체험형AI교육운영",
-    "한국지텔프,호텔경영사·호텔관리사·호텔서비스사3종자격시험대비...",
-    "HBM만으론부족하다…AI추론이불러온'계층형메모리'시대",
     "리얼월드,국내로보틱스·시뮬레이션3사와피지컬AI협력",
     "코스피,급등출발뒤'롤러코스터'…6400회복후상승·하락오가",
     "인천쿠팡화재관련도로통제,7일오후4시부터해제",
@@ -3162,10 +3177,15 @@
     "광주시,해남서국내최대400MW태양광발전착공",
     "[AI이슈트렌드]갤럭시Z8흥행속차가원사기·하이닉스HBF·스페이...",
     "[분석]한국투자캐피탈,자체채A·보증채AA-...지주보증에갈린등급",
-    "거래소\"삼전·닉스'단일레버리지ETF',예비심사13일걸려…일반ET..."
+    "거래소\"삼전·닉스'단일레버리지ETF',예비심사13일걸려…일반ET...",
+    "삼전닉스'성과급공식'흔들리나…'영업익N%'입법전쟁[김대영의노...",
+    "원유보다귀해진정제능력…K정유'수출기회'커진다",
+    "정부,AI에세제·GPU지원…네이버·카카오·통신사‘수익화경쟁’수...",
+    "\"SK하이닉스,중국충칭패키징공장지분매각등검토\"",
+    "SKhynixCommits$38.3BtoNewAIMemoryChipFabs"
    ],
    "initialized": true,
-   "last_run": "2026-08-08T18:00:46.046229+09:00"
+   "last_run": "2026-08-08T18:04:48.106144+09:00"
   }
  },
  "press_names": {
