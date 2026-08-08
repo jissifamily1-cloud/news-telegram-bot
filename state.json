@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-08T14:55:22.500442+09:00",
-     "닉스 소요 ETF와 레버리지 동일 13일 삼전 일반 거래소 예비심사에"
-    ],
-    [
-     "2026-08-08T15:00:40.508604+09:00",
-     "맞먹는 시동 화력발전 태양광 단일부지 국내"
-    ],
-    [
      "2026-08-08T15:05:28.944121+09:00",
      "만스피 다시 이어질까 월가는 여의도는 vs 1만2500"
     ],
@@ -174,10 +166,13 @@
     [
      "2026-08-08T20:55:21.493976+09:00",
      "만드는 바닷바람이 순항 해상풍력 미래 전남광주"
+    ],
+    [
+     "2026-08-08T21:00:42.830010+09:00",
+     "최적화 기술 비전 공개 인프라 SK하이닉스 메모리 FMS서 차세대"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260807000416",
     "https://www.mk.co.kr/article/12120697",
     "https://www.g-enews.com/view.php?ud=202608070914117138f7ba87f45b_1",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4429119",
@@ -1676,10 +1671,10 @@
     "https://www.job-post.co.kr/news/articleView.html?idxno=223417",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696226&plink=ORI&cooper=NAVER",
     "https://www.kukinews.com/article/view/kuk202608080027",
-    "https://www.ikbc.co.kr/article/view/kbc202608080027"
+    "https://www.ikbc.co.kr/article/view/kbc202608080027",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=223392"
    ],
    "seen_titles": [
-    "양시장하락전환…코스피-0.5%·코스닥-1.8%",
     "[마켓포인트]인크로스,2분기영업익28억원…전년대비26.1%증가",
     "인크로스,2분기영업익26%성장…광고사업선전",
     "인크로스,2Q영업익28억원26%↑...\"외형·수익동반성장\"",
@@ -3178,10 +3173,11 @@
     "이상일용인시장,다낭서'AI행정'소개",
     "'국가대표AI'국민오디션돌입…각각어떤강점가졌나",
     "삼전닉스레버리지특혜논란…거래소“심사단축사실무근”",
-    "바닷바람이만드는미래...전남광주해상풍력'순항'"
+    "바닷바람이만드는미래...전남광주해상풍력'순항'",
+    "SK하이닉스,차세대메모리기술공개...FMS서AI인프라최적화비전제..."
    ],
    "initialized": true,
-   "last_run": "2026-08-08T20:55:21.493976+09:00"
+   "last_run": "2026-08-08T21:00:42.830010+09:00"
   }
  },
  "press_names": {
