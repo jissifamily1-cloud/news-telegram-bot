@@ -301,7 +301,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.naeil.com/news/read/598050",
     "https://www.newspim.com/news/view/20260807000547",
     "https://www.techm.kr/news/articleView.html?idxno=154093",
     "http://www.yonhapnewstv.co.kr/news/MYH20260807130057dqV",
@@ -1800,10 +1799,10 @@
     "https://magazine.hankyung.com/business/article/202608092305b",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691253",
     "https://www.greened.kr/news/articleView.html?idxno=347183",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20260809010002568"
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260809010002568",
+    "http://www.fnnews.com/news/202608090815074854"
    ],
    "seen_titles": [
-    "역대최다843명출전…KBL유스클럽농구대회,14일제천서개막",
     "[뉴욕증시]이란,호르무즈선별통항추진…3대지수일제히하락",
     "\"안전할줄알고ETF샀는데…월급,휴가비다날렸다\"",
     "공정위,통신3사에사고면책약관시정요청",
@@ -3302,10 +3301,11 @@
     "[속보]SK하이닉스통합노조신설추진",
     "[증시전망]코스피수급정상화언제쯤...美물가향방주목",
     "최태원,노소영에9440억지급하나…재상고기한17일까지",
-    "\"SK하이닉스,中충칭후공정공장지분매각검토\"…국내엔54조투자"
+    "\"SK하이닉스,中충칭후공정공장지분매각검토\"…국내엔54조투자",
+    "\"성과급약속지켜라\"…SK하이닉스통합노조출범추진"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T08:25:20.898371+09:00"
+   "last_run": "2026-08-09T08:30:35.587338+09:00"
   }
  },
  "press_names": {
