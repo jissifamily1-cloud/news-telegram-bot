@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-09T12:55:20.912138+09:00",
-     "10일 2차 속도전 민관합동 3대 나선 점검회의 메가"
-    ],
-    [
-     "2026-08-09T12:55:20.912138+09:00",
-     "조국 5일제 이재명 때린 대선공약 실현이 산업장관"
-    ],
-    [
      "2026-08-09T13:00:40.188798+09:00",
      "SK하이닉스 통합노조 신설"
     ],
@@ -678,11 +670,13 @@
     [
      "2026-08-09T18:55:20.582580+09:00",
      "잇단 조정할 이견 노출 현안에 문제는 부처 리더십"
+    ],
+    [
+     "2026-08-09T19:00:37.509369+09:00",
+     "호남권 반도체 달린 소부장에"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12121141",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695343&plink=ORI&cooper=NAVER",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257033",
     "https://www.goodkyung.com/news/articleView.html?idxno=290080",
     "https://www.sidae.com/article/2026080717365799935",
@@ -2180,11 +2174,11 @@
     "https://biz.heraldcorp.com/article/10834417",
     "https://www.spotvnews.co.kr/news/articleView.html?idxno=833730",
     "https://www.namdonews.com/news/articleView.html?idxno=919507",
-    "https://www.khan.co.kr/article/202608091851001"
+    "https://www.khan.co.kr/article/202608091851001",
+    "https://view.asiae.co.kr/article/2026080918564416254",
+    "http://www.fnnews.com/news/202608091857493520"
    ],
    "seen_titles": [
-    "SK하이닉스,고교과학기술인재산업현장프로그램개최",
-    "SK하이닉스,용인·청주에54조원투자…AI메모리생산기반확대",
     "[투데이시그널]호르무즈리스크,한국AI·반도체의비용구조를흔든...",
     "\"열폭주막자\"K배터리안전기술경쟁",
     "[자막뉴스]출근길에발견한\"하이닉스하한가\"…'800억'청산시킨초유...",
@@ -3682,10 +3676,12 @@
     "[증시예보]이번주코스피,미국물가지수에달렸다?…이유는결국외...",
     "\"평생함께\"지안,웨딩드레스입고야구선수엄정욱과결혼깜짝발표...",
     "삼성·SK,호남반도체전력망직접투자하나",
-    "[사설]현안에잇단부처간이견노출,문제는조정할리더십"
+    "[사설]현안에잇단부처간이견노출,문제는조정할리더십",
+    "SK하이닉스,4조규모中충칭공장지분매각검토",
+    "[포럼]소부장에달린호남권반도체"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T18:55:20.582580+09:00"
+   "last_run": "2026-08-09T19:00:37.509369+09:00"
   }
  },
  "press_names": {
