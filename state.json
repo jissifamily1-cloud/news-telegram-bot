@@ -518,16 +518,21 @@
     [
      "2026-08-09T10:35:23.987683+09:00",
      "증가 이끈다 투자계획 데이터센터 발표 국내 전력수요"
+    ],
+    [
+     "2026-08-09T10:40:27.019697+09:00",
+     "어쩌나 고령층 맞은 반도체 날벼락 믿었는데"
+    ],
+    [
+     "2026-08-09T10:40:27.019697+09:00",
+     "증시 1조원 레버리지 늘어난 나면 반등하자 하루만에 빚투 틈만"
+    ],
+    [
+     "2026-08-09T10:40:27.019697+09:00",
+     "기업 3개월 다신 되풀이되지 않게 되풀이됐다 이달의 만에 비극"
     ]
    ],
    "seen_urls": [
-    "https://kpenews.com/View.aspx?No=4178421",
-    "https://www.newsis.com/view/NISX20260807_0003740675",
-    "https://www.yna.co.kr/view/AKR20260807105400008?input=1195m",
-    "http://www.wikileaks-kr.org/news/articleView.html?idxno=190693",
-    "https://www.newsway.co.kr/news/view?ud=2026080714054022946",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=206208",
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257007",
     "http://www.newstomato.com/ReadNews.aspx?no=1309589&inflow=N",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=849723",
     "https://www.ezyeconomy.com/news/articleView.html?idxno=238472",
@@ -2020,16 +2025,16 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1719672",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608090093&t=NN",
     "https://www.yna.co.kr/view/AKR20260809015500011?input=1195m",
-    "https://kidd.co.kr/news/246960"
+    "https://kidd.co.kr/news/246960",
+    "https://www.mediapen.com/news/view/1115183",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092167644",
+    "https://www.sentv.co.kr/article/view/sentv202608090015",
+    "https://www.g-enews.com/view.php?ud=202608091033534734fa4bb4fab2_1",
+    "https://magazine.hankyung.com/business/article/202608092424b",
+    "https://www.chosun.com/economy/money/2026/08/09/PMKWT3KNVZCBBJYDWHTTHPMOZQ/",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257213&CMPT_CD=P0010"
    ],
    "seen_titles": [
-    "[재계투데이]SK하이닉스,FMS2026서HBF등차세대반도체솔루션공개...",
-    "신성이엔지\"3분기부터수익성개선\"…반도체수주확대·태양광회복자...",
-    "'비은행강화목표'Sh수협은행,상상인증권인수추진...\"확정된바없...",
-    "SK하이닉스하한가체결논란…NXT\"9월정적VI도입·상하한가주문한...",
-    "[기획]상상인증권,수협은행피인수시'자본확충'기대",
-    "코미팜주가불기둥…잠잠하던코로나19테마다시살아났다",
-    "SK하이닉스,차세대AI메모리기술제품소개..‘FMS2026’서방향성...",
     "NXT,12일부터프리마켓'상·하한가주문'한시적금지",
     "'하닉1주에하한가'시장왜곡…프리마켓상·하한가한시금지",
     "현대건설,세계최대운용사블랙록서지분확대…'AI데이터센터'수...",
@@ -3522,10 +3527,17 @@
     "외국인,국채선물12일연속순매수…한은'추가인상'베팅철회",
     "1조원육박'세기의재산분할'…재상고기한일주일앞",
     "[연합뉴스이시각헤드라인]-10:30",
-    "AI데이터센터투자계획발표,국내전력수요증가이끈다"
+    "AI데이터센터투자계획발표,국내전력수요증가이끈다",
+    "성과급재협상에뿔난SK하이닉스…3500명모여통합노조띄운다",
+    "'성과급불만'SK하이닉스통합노조신설추진",
+    "최태원·노소영‘9년이혼소송’마침표찍나…재상고기한17일도래",
+    "코스피,8월투자심리‘꽁꽁’...거래대금일평균26조원대로급감",
+    "“반도체믿었는데어쩌나”날벼락맞은고령층",
+    "“틈만나면레버리지”...증시반등하자하루만에1조원늘어난‘빚투...",
+    "\"다신이비극되풀이되지않게\"...3개월만에되풀이됐다[이달의기업..."
    ],
    "initialized": true,
-   "last_run": "2026-08-09T10:35:23.987683+09:00"
+   "last_run": "2026-08-09T10:40:27.019697+09:00"
   }
  },
  "press_names": {
