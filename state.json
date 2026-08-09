@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-09T13:10:25.704694+09:00",
-     "완승 승점 울산 선두와 더비 동해안 포항에 3연승"
-    ],
-    [
      "2026-08-09T13:15:33.647461+09:00",
      "아니다 엔진 루미르 회사 우주만 부품 슈퍼사이클 조선 타고 보는"
     ],
@@ -650,11 +646,17 @@
     [
      "2026-08-09T19:00:37.509369+09:00",
      "호남권 반도체 달린 소부장에"
+    ],
+    [
+     "2026-08-09T19:10:28.026329+09:00",
+     "아니다 건너 자성 실패 디지털"
+    ],
+    [
+     "2026-08-09T19:10:28.026329+09:00",
+     "로봇 대약진 유니트리 상장 세계1위 무력시위"
     ]
    ],
    "seen_urls": [
-    "https://www.sidae.com/article/2026080717365799935",
-    "https://www.dt.co.kr/article/12077100",
     "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260807&SEQUENCE=0116",
     "http://www.ikld.kr/news/articleView.html?idxno=338700",
     "https://www.tvreport.co.kr/breaking/article/1067137/",
@@ -2152,11 +2154,11 @@
     "https://view.asiae.co.kr/article/2026080918564416254",
     "http://www.fnnews.com/news/202608091857493520",
     "https://www.cbci.co.kr/news/articleView.html?idxno=596292",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696879&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696879&plink=ORI&cooper=NAVER",
+    "http://www.fnnews.com/news/202608091907186905",
+    "https://www.dt.co.kr/article/12077308"
    ],
    "seen_titles": [
-    "[자막뉴스]출근길에발견한\"하이닉스하한가\"…'800억'청산시킨초유...",
-    "[AI시승기]입력한줄,연산은지구한바퀴···AIPC실리콘동선",
     "[증권이모저모]교보증권,코스피200연계원금지급형ELB공모",
     "경제관료산업장관,정치인노동장관…번번이마찰음",
     "[속보]‘준공1년반에’…인천송도신축아파트테라스무너져",
@@ -3654,10 +3656,12 @@
     "SK하이닉스,4조규모中충칭공장지분매각검토",
     "[포럼]소부장에달린호남권반도체",
     "레버리지청산·규제강화에…한국증시변동성진정세",
-    "[자막뉴스]'HBM핵심기술'유출'하닉전직원'\"영업비밀아냐\"…이..."
+    "[자막뉴스]'HBM핵심기술'유출'하닉전직원'\"영업비밀아냐\"…이...",
+    "[사설]‘디지털전환실패’日자성,강건너불아니다",
+    "[기획]로봇세계1위유니트리상장…대약진中,美에‘무력시위’"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T19:05:22.314172+09:00"
+   "last_run": "2026-08-09T19:10:28.026329+09:00"
   }
  },
  "press_names": {
