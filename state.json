@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-09T09:50:31.014289+09:00",
-     "역할론 전력반도체 제기 달렸다 정부 성패 삼성에"
-    ],
-    [
      "2026-08-09T09:55:20.503940+09:00",
      "승부수 공략 냉각 시장 미국 박차 수랭식 한중엔시에스의"
     ],
@@ -574,15 +570,21 @@
     [
      "2026-08-09T15:45:33.287486+09:00",
      "국장 이제 급변동 가능성 증시 일단락 대혼란"
+    ],
+    [
+     "2026-08-09T15:50:35.255053+09:00",
+     "M17 청주 확정 투입 SK하이닉스 19조원"
+    ],
+    [
+     "2026-08-09T15:50:35.255053+09:00",
+     "28일 패키징 경기도 차세대 산업전 반도체 개최"
+    ],
+    [
+     "2026-08-09T15:50:35.255053+09:00",
+     "맞았다 10년의 믿음에 정재헌이 한상 차린 SKT 직접"
     ]
    ],
    "seen_urls": [
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608071644183880233",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=52015",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049219",
-    "https://www.dailian.co.kr/news/view/1676020/?sc=Naver",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=06799446645545024",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8631450",
     "https://www.asiaa.co.kr/news/articleView.html?idxno=257936",
     "https://www.newscj.com/news/articleView.html?idxno=3423344",
     "https://www.mt.co.kr/industry/2026/08/07/2026080716263059184",
@@ -2076,15 +2078,15 @@
     "https://www.wikitree.co.kr/articles/1151324",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5211232",
     "https://www.huffingtonpost.kr/article/259399",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632200"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632200",
+    "https://www.hani.co.kr/arti/society/labor/1272053.html",
+    "https://www.dynews.co.kr/news/articleView.html?idxno=861082",
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=546506",
+    "https://www.dynews.co.kr/news/articleView.html?idxno=861077",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1533420",
+    "https://www.econovill.com/news/articleView.html?idxno=747500"
    ],
    "seen_titles": [
-    "SK하이닉스,2천733억현금배당발표…주주환원정책앞당긴다",
-    "하이닉스급락속2차전지·바이오선방…낙폭축소코스피6250선마감...",
-    "“AI메모리수요선제대응”…SK하이닉스,용인Y2·청주M17에54조원...",
-    "원·달러환율,7.7원↓1416.1원…이틀연속장중1410원대",
-    "외국인'팔자'에코스피이틀째하락…SK하이닉스2일간15%급락",
-    "SK하이닉스,용인·청주신규팹에54조투자…메모리수요대응",
     "SK하이닉스,주당375원분기배당…추가주주환원책3분기발표",
     "SK하이닉스분기배당주당375원…\"3분기중추가주주환원발표\"",
     "‘AI특수’한국·대만,상반기수출액나란히사상첫일본추월",
@@ -3578,10 +3580,16 @@
     "SK하이닉스비밀빼내중국회사에넘긴전직원,2심서도일부무죄적...",
     "블룸버그\"한국증시변동성진정단계…한국주식저평가\"",
     "한국과대만,올해상반기총수출액에서처음으로일본을제쳤다:AI반...",
-    "국장‘대혼란’이제끝?…“증시급변동일단락가능성”[지금뉴스]"
+    "국장‘대혼란’이제끝?…“증시급변동일단락가능성”[지금뉴스]",
+    "‘성과급갈등’SK하이닉스‘통합노조’생기나…생산직·사무직통...",
+    "SK하이닉스청주캠퍼스,지역고교과학기술인재대상'산업현장프로그...",
+    "\"성과급약속지켜라\"⋯SK하이닉스,통합노조출범초읽기",
+    "SK하이닉스,청주'M17'에19조원투입확정",
+    "경기도,26~28일'차세대반도체패키징산업전'개최",
+    "\"10년의믿음에차린한상,SKT정재헌이직접맞았다\""
    ],
    "initialized": true,
-   "last_run": "2026-08-09T15:45:33.287486+09:00"
+   "last_run": "2026-08-09T15:50:35.255053+09:00"
   }
  },
  "press_names": {
