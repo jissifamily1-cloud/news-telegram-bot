@@ -674,10 +674,13 @@
     [
      "2026-08-09T18:40:27.927932+09:00",
      "흑자 업고 호황 반도체 신성이엔지"
+    ],
+    [
+     "2026-08-09T18:45:33.335390+09:00",
+     "이유는 이번주 달렸다 미국 결국 코스피 물가지수에"
     ]
    ],
    "seen_urls": [
-    "https://www.goodkyung.com/news/articleView.html?idxno=290079",
     "https://www.nocutnews.co.kr/news/6559982",
     "https://www.newsinside.kr/news/articleView.html?idxno=4903222",
     "https://www.koreaittimes.com/news/articleView.html?idxno=155900",
@@ -2176,10 +2179,10 @@
     "http://www.fnnews.com/news/202608091828516435",
     "http://www.fnnews.com/news/202608091828529371",
     "https://www.jjan.kr/article/20260809500276",
-    "http://www.fnnews.com/news/202608091833549571"
+    "http://www.fnnews.com/news/202608091833549571",
+    "https://biz.heraldcorp.com/article/10834417"
    ],
    "seen_titles": [
-    "D램품귀현상에…엔비디아HBM용량축소검토",
     "SK하이닉스,용인·청주신규팹54조투자확정",
     "프리마켓상·하한가주문한시금지…'하이닉스1주하한가'차단",
     "외국인매도에코스피6250선후퇴…반도체쉬어가자2차전지·바이오'...",
@@ -3678,10 +3681,11 @@
     "성과급갈등에…SK하닉,통합노조신설추진",
     "'정책패싱'잔혹사털어내고'재계맏형'위상되찾는다",
     "[주간증시전망]성장성뒷받침되는업종중심대응필요",
-    "반도체호황업고…신성이엔지'흑자전환'"
+    "반도체호황업고…신성이엔지'흑자전환'",
+    "[증시예보]이번주코스피,미국물가지수에달렸다?…이유는결국외..."
    ],
    "initialized": true,
-   "last_run": "2026-08-09T18:40:27.927932+09:00"
+   "last_run": "2026-08-09T18:45:33.335390+09:00"
   }
  },
  "press_names": {
