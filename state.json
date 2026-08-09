@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-09T16:55:21.664495+09:00",
-     "아침의 비즈니스포스트 주요기사"
-    ],
-    [
-     "2026-08-09T17:00:38.723120+09:00",
-     "상장 계속 해명에도 쪼개기 의심 SK하이닉스"
-    ],
-    [
      "2026-08-09T17:05:22.534369+09:00",
      "퓨리언스 세정 CMP 수율 공정 높이는 포스트 HBM"
     ],
@@ -382,11 +374,13 @@
     [
      "2026-08-09T22:50:29.905477+09:00",
      "카드 롤러코스터에 배당 삼성 반도체 주주 SK하이닉스 붙잡기"
+    ],
+    [
+     "2026-08-09T23:00:41.378184+09:00",
+     "중국의 한국의 시그널 심각 취약성 먹이 시스템 코리아 국가"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=274389",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=274390",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=271360",
     "https://www.joongang.co.kr/article/25451667",
     "https://www.hankookilbo.com/news/article/A2026080717160000618?did=NA",
@@ -1884,11 +1878,11 @@
     "http://www.newstown.co.kr/news/articleView.html?idxno=711803",
     "https://www.joongang.co.kr/article/25451956",
     "http://www.newslock.co.kr/news/articleView.html?idxno=134099",
-    "https://www.wikitree.co.kr/articles/1151349"
+    "https://www.wikitree.co.kr/articles/1151349",
+    "https://m.sports.naver.com/basketball/article/065/0000300506",
+    "https://www.ccdailynews.com/news/articleView.html?idxno=2433101"
    ],
    "seen_titles": [
-    "단일종목레버리지ETF거래90%급감…한투證\"해외로수요이동주의\"",
-    "\"이틀새15%빠지네\"…SK하이닉스추가하락가능성은",
     "美,태양광·반도체원료장벽…한화·OCI웃고삼전닉스'촉각'",
     "남동발전,국내최대규모400MW태양광발전사업착공식개최...\"총사업...",
     "[마감시황]코스피,외국인순매도에6,250선으로후퇴",
@@ -3386,10 +3380,12 @@
     "[용인민선9기연속기획④]교육·청년·복지에미래를건다…이상일...",
     "모건스탠리“메모리주가파른조정끝나…지금이재진입기회”",
     "반도체株롤러코스터에'배당카드'…삼성·SK하이닉스,주주붙잡기나...",
-    "애플,가격협상실패한CXMTD램도아이폰에시험적용"
+    "애플,가격협상실패한CXMTD램도아이폰에시험적용",
+    "[전국유소년]인제유소년농구대회U11부종료,U12·U15결선대진표...",
+    "더코리아시그널\"한국의국가시스템취약성심각…중국의먹이\""
    ],
    "initialized": true,
-   "last_run": "2026-08-09T22:55:19.566004+09:00"
+   "last_run": "2026-08-09T23:00:41.378184+09:00"
   }
  },
  "press_names": {
