@@ -593,13 +593,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=422948",
-    "https://en.yna.co.kr/view/AEN20260807006251320?input=2106m",
-    "https://www.mt.co.kr/society/2026/08/07/2026080715235494673",
-    "https://www.yna.co.kr/view/AKR20260807040351008?input=1195m",
-    "https://sports.hankooki.com/news/articleView.html?idxno=6937652",
-    "https://www.mydaily.co.kr/page/view/2026080716003325574",
-    "https://www.busan.com/view/busan/view.php?code=2026080716031976084",
     "https://www.hidomin.com/news/articleView.html?idxno=716394",
     "https://www.sentv.co.kr/article/view/sentv202608070151",
     "https://www.mediapen.com/news/view/1114965",
@@ -2092,16 +2085,16 @@
     "https://www.dailian.co.kr/news/view/1676226/?sc=Naver",
     "https://www.news2day.co.kr/article/20260809500013",
     "https://www.hani.co.kr/arti/economy/finance/1272023.html",
-    "https://www.etoday.co.kr/news/view/2612235"
+    "https://www.etoday.co.kr/news/view/2612235",
+    "https://www.ziksir.com/news/articleView.html?idxno=142568",
+    "https://www.kado.net/news/articleView.html?idxno=2065537",
+    "https://www.g-enews.com/view.php?ud=202608091113176527fbbec65dfb_1",
+    "https://www.dailian.co.kr/news/view/1676227/?sc=Naver",
+    "https://www.mediapen.com/news/view/1115190",
+    "https://biz.chosun.com/stock/stock_general/2026/08/09/FBFA6NQSCVHPTAPUEFY7CFNAS4/",
+    "https://www.sedaily.com/article/20077270"
    ],
    "seen_titles": [
-    "‘한국판IRA’가외면한국산전기차…실효성에‘의문’",
-    "한국콜마중국무석공장가동률여전히부진,윤상현'5500억생산량'채...",
-    "[테오도르의시장분석]장초반6,410선찍더니…코스피,매물폭탄맞...",
-    "트럼프'폴리실리콘관세장벽'공식화…韓산업위기와기회는",
-    "삼성전자,P5본공사돌입···계획대비6개월당기며'잰걸음'",
-    "(LEAD)Seoulsharesfallfor2nddayonforeignsellingamidrenewedHor",
-    "특별인센티브받고경쟁사이직?…'전직금지약정'어디까지통할까",
     "하이닉스,전날10%폭락이어또4.8%급락…삼전0.2%↑(종합)",
     "코스피,장초반반등에도0.6%하락",
     "\"280층에사람있어요\"…SK하이닉스반토막,스타들도줄줄이'물렸다'...",
@@ -3594,10 +3587,17 @@
     "환율변동성금융위기이후최대…월평균변동폭47원",
     "[재계인사이드]이재용회장이사진기자들에게어필하는이유는?",
     "주식담보대출잔액63%가‘고령층’집중…증시조정발손실도집중",
-    "‘한국판IRA’베일벗었지만…반도체·배터리업계“시행령이관건”"
+    "‘한국판IRA’베일벗었지만…반도체·배터리업계“시행령이관건”",
+    "블룸버그\"레버리지청산에한국증시변동성완화조짐\"",
+    "블룸버그\"한국증시극심한변동성마무리단계…레버리지청산·규제...",
+    "대만,中반도체인재불법영입수사",
+    "SKT가10년고객에특급셰프요리대접한이유",
+    "최태원·노소영재산분할‘재상고갈림길’…법정공방마침표찍나",
+    "블룸버그“韓증시변동성진정국면…레버리지청산·규제효과”",
+    "8월코스피거래대금26조‘연중최저’…반도체·매크로악재겹쳐[..."
    ],
    "initialized": true,
-   "last_run": "2026-08-09T11:25:22.365010+09:00"
+   "last_run": "2026-08-09T11:30:33.313502+09:00"
   }
  },
  "press_names": {
