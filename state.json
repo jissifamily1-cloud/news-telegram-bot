@@ -610,13 +610,13 @@
     [
      "2026-08-09T16:40:27.352853+09:00",
      "직격타 예외에 52시간 규제완화 면제 연구직 수당까지 고소득"
+    ],
+    [
+     "2026-08-09T16:55:21.664495+09:00",
+     "아침의 비즈니스포스트 주요기사"
     ]
    ],
    "seen_urls": [
-    "https://www.cstimes.com/news/articleView.html?idxno=716145",
-    "https://news.ifm.kr/news/articleView.html?idxno=476728",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000055283",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=739526",
     "https://www.greened.kr/news/articleView.html?idxno=347157",
     "https://view.asiae.co.kr/article/2026080717065145691",
     "https://zdnet.co.kr/view/?no=20260807164856",
@@ -2112,13 +2112,13 @@
     "https://www.hankyung.com/article/202608092701i",
     "https://www.econovill.com/news/articleView.html?idxno=747495",
     "https://www.econovill.com/news/articleView.html?idxno=747496",
-    "https://www.khan.co.kr/article/202608091637001"
+    "https://www.khan.co.kr/article/202608091637001",
+    "https://www.busan.com/view/busan/view.php?code=2026080916521748675",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000001513&cp=nv",
+    "https://www.news1.kr/politics/president/6253439",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=444294"
    ],
    "seen_titles": [
-    "韓·대만,올해상반기수출액사상처음日추월",
-    "SK하이닉스,주당375원배당…\"3분기중추가주주환원방안발표\"",
-    "SK하이닉스,용인Y2·청주M17에54조원투자…AI메모리생산기반확대",
-    "SK하이닉스,용인·청주에54조원초대형투자…AI반도체팹건설본격...",
     "SK하이닉스,용인·청주에54조원투입해신규팹동시건설…AI반도체...",
     "SK하이닉스,주당375원분기배당…3분기주주환원책공개",
     "해남에400MW태양광뜬다…SK하이닉스'RE100전력기지'로",
@@ -3614,10 +3614,14 @@
     "SK하이닉스,4조원대中충칭공장매각검토",
     "中CXMT,HP·에이수스노트북에D램공급",
     "마이크론\"HBM2027년까지완판\"…아이다호신공장은2028년에야",
-    "주52시간예외에수당까지면제…고소득연구직규제완화직격타"
+    "주52시간예외에수당까지면제…고소득연구직규제완화직격타",
+    "성과급불만고조SK하이닉스,통합노조설립본격화",
+    "“성과급약속못뒤집어”…SK하닉‘통합노조’신설나서",
+    "李대통령3대메가프로젝트점검·청년고용대책발표…이번주(10~16일)...",
+    "[8월10일자]비즈니스포스트아침의주요기사"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T16:50:27.171920+09:00"
+   "last_run": "2026-08-09T16:55:21.664495+09:00"
   }
  },
  "press_names": {
