@@ -449,9 +449,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.pressian.com/pages/articles/2026080714081468284",
-    "https://www.etoday.co.kr/news/view/2612176",
-    "https://www.hankyung.com/article/202608079952r",
     "https://www.sportschosun.com/entertainment/2026-08-07/202608070100042210002617",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608051336181440104667",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=308520",
@@ -1948,12 +1945,12 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696554&plink=ORI&cooper=NAVER",
     "https://www.dt.co.kr/article/12077181",
     "https://www.news1.kr/politics/assembly/6253260",
-    "https://view.asiae.co.kr/article/2026080708464843791"
+    "https://view.asiae.co.kr/article/2026080708464843791",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1719669",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01236566645545680",
+    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000544132"
    ],
    "seen_titles": [
-    "HBM이만든범용D램빈자리노린다…대만난야·중국CXMT,대규모증설",
-    "점유율1.6%대만난야,15조원들여EUV공장건설",
-    "현금88조쌓인SK하이닉스,국내채권시장'큰손'됐다…최대40조투자",
     "[속보]'상승출발'코스피,외국인매도세에하락전환",
     "중국7월수출전년비23.9%↑⋯한국산수입97.8%늘어",
     "네이버-엔비디아'빅딜'자문모건스탠리,테크·AI강자입증",
@@ -3450,10 +3447,13 @@
     "SK하이닉스영업비밀중국회사에유출…전직원2심도징역1년6개월",
     "‘빚투의역습’…20·60대대출연체껑충,고령층반대매매‘비상’",
     "조국\"김정관의996은반인권·시대착오적발상…민주당생각은뭐냐\"",
-    "망한단일종목레버리지ETF투자,원금회복기간줄이려면[주末머니]"
+    "망한단일종목레버리지ETF투자,원금회복기간줄이려면[주末머니]",
+    "SK하이닉스,통합노조출범초읽기…성과급갈등에구성원결집",
+    "한달변동폭50원육박…환율변동성금융위기후최고",
+    "최태원·노소영'세기의이혼'대법원가나…재상고일주일앞"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T09:25:21.665440+09:00"
+   "last_run": "2026-08-09T09:30:37.773528+09:00"
   }
  },
  "press_names": {
