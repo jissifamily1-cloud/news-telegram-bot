@@ -589,11 +589,6 @@
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260807008600320?input=2106m",
-    "https://www.newspim.com/news/view/20260807001061",
-    "https://www.news1.kr/industry/general-industry/6252706",
-    "https://www.s-journal.co.kr/news/articleView.html?idxno=42903",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=5570",
     "https://news.koreanbar.or.kr/news/articleView.html?idxno=35989",
     "https://www.smartbizn.com/news/articleView.html?idxno=150714",
     "https://www.smartbizn.com/news/articleView.html?idxno=150713",
@@ -2088,14 +2083,14 @@
     "https://vop.co.kr/A00001696143.html",
     "https://www.ajunews.com/view/20260809143457734",
     "https://www.koreatimes.co.kr/path/A2026080914250001892",
-    "http://www.fnnews.com/news/202608091148156050"
+    "http://www.fnnews.com/news/202608091148156050",
+    "https://www.the-today.com/news/articleView.html?idxno=88259",
+    "https://www.news2day.co.kr/article/20260809500025",
+    "http://www.inews24.com/view/1993218",
+    "https://www.namdonews.com/news/articleView.html?idxno=919445",
+    "https://news.tvchosun.com/site/data/html_dir/2026/08/09/2026080990086.html"
    ],
    "seen_titles": [
-    "코스피,외국인매도에약보합마감…코스닥6거래일만에하락마감",
-    "SK하이닉스,용인·청주추가팹에54조투자…AI메모리수요대응",
-    "\"메모리수요적극대응\"SK하이닉스,용인∙청주D램·낸드팹에54조투...",
-    "Skhynixtoinvest54.3tlnwoninYongin'sY2fab,Cheongju'sM17fab",
-    "SK하이닉스,주주환원속도…\"3분기추가방안발표\"",
     "SK하이닉스경기용인·충북청주54조규모신규팹건설",
     "[S-이슈]중국이72%를먹었다…LG엔솔흑자는누가만들었나",
     "SK하이닉스,추가주주환원방안적극검토중...3분기중확정발표",
@@ -3590,10 +3585,15 @@
     "조국“중국‘996’노동제칭송한김정관장관,반인권·시대착오적”",
     "원·달러환율,1400원대까지뚝…원화강세이어질까",
     "KOSPIslumppushestradingactivitytoyearlylow",
-    "삼전닉스시총비중49%로뚝…'비반도체'믿어도될까?"
+    "삼전닉스시총비중49%로뚝…'비반도체'믿어도될까?",
+    "[이슈]최태원·노소영9440억분할,14일확정갈림길",
+    "\"청년도고령층도빚투후유증\"…5대銀마통연체율첫공개",
+    "최태원·노소영9년소송끝나나…9440억재산분할확정'기로'",
+    "SK하이닉스'통합노조'설립추진…성과급갈등확산",
+    "성과급체계불만에SK하이닉스직원들,통합노조설립추진본격화"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T15:55:23.900554+09:00"
+   "last_run": "2026-08-09T16:00:42.023136+09:00"
   }
  },
  "press_names": {
