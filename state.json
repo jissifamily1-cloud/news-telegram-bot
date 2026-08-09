@@ -198,10 +198,13 @@
     [
      "2026-08-10T05:10:28.115166+09:00",
      "레버리지 코스닥 몰렸다 높이니 문턱 지수형 삼전닉스"
+    ],
+    [
+     "2026-08-10T05:20:27.161905+09:00",
+     "재편 석유화학업계 울산 난항 사업"
     ]
    ],
    "seen_urls": [
-    "https://www.insnews.co.kr/news/articleView.html?idxno=92209",
     "https://www.newspim.com/news/view/20260807001135",
     "https://www.cnbnews.com/news/articleView.html?idxno=1010815",
     "https://view.asiae.co.kr/article/2026080710292814318",
@@ -1700,10 +1703,10 @@
     "https://www.seoul.co.kr/news/economy/industry/2026/08/10/20260810023004?wlog_tag3=naver",
     "https://www.mt.co.kr/world/2026/08/10/2026081005031736681",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01403846645546008",
-    "https://www.seoul.co.kr/news/economy/securities/2026/08/10/20260810031003?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/economy/securities/2026/08/10/20260810031003?wlog_tag3=naver",
+    "https://www.todayenergy.kr/news/articleView.html?idxno=301382"
    ],
    "seen_titles": [
-    "'이틀째하락세'SK하이닉스,일정앞당겨'보통주375원현금배당'실시",
     "완벽부활이동경,울산유니폼입고‘포항전첫골+개인통산최다연...",
     "SK하이닉스,2733억원규모분기배당…추가주주환원3분기확정",
     "서민금융진흥원,상반기미소금융1612억원공급…금융취약계층지원...",
@@ -3202,10 +3205,11 @@
     "SKT,10년이상장기고객400명과‘테이블데이’",
     "\"애플,中반도체도입추진\"…삼전닉스10%급락시켰던그기업",
     "[사설]산업장관친기업소신,입법뒷받침해야",
-    "삼전닉스레버리지문턱높이니,코스닥·지수형레버리지몰렸다"
+    "삼전닉스레버리지문턱높이니,코스닥·지수형레버리지몰렸다",
+    "[진단]석유화학업계,울산'사업재편'난항"
    ],
    "initialized": true,
-   "last_run": "2026-08-10T05:15:26.780792+09:00"
+   "last_run": "2026-08-10T05:20:27.161905+09:00"
   }
  },
  "press_names": {
