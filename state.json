@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-09T04:30:34.999663+09:00",
-     "전망 자사주 재개로 매입 개선 수급 P500 증시"
-    ],
-    [
      "2026-08-09T04:40:28.638930+09:00",
      "UCITS ETF 유로 돌파 7월 505억 500억 순유입 월간 기준 사상"
     ],
@@ -514,15 +510,17 @@
     [
      "2026-08-09T10:20:25.182635+09:00",
      "일본여행 가기 환전은 언제할까"
+    ],
+    [
+     "2026-08-09T10:35:23.987683+09:00",
+     ""
+    ],
+    [
+     "2026-08-09T10:35:23.987683+09:00",
+     "증가 이끈다 투자계획 데이터센터 발표 국내 전력수요"
     ]
    ],
    "seen_urls": [
-    "https://news.dealsitetv.com/articles/174439",
-    "http://www.popcornnews.net/news/articleView.html?idxno=129029",
-    "https://www.asiaa.co.kr/news/articleView.html?idxno=258069",
-    "https://www.asiatime.co.kr/article/20260807500237",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=662057",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475363",
     "https://kpenews.com/View.aspx?No=4178421",
     "https://www.newsis.com/view/NISX20260807_0003740675",
     "https://www.yna.co.kr/view/AKR20260807105400008?input=1195m",
@@ -2016,15 +2014,15 @@
     "http://www.newstomato.com/ReadNews.aspx?no=1309645&inflow=N",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=363264",
     "http://www.metroseoul.co.kr/article/20260809500039",
-    "https://www.seoulfn.com/news/articleView.html?idxno=635245"
+    "https://www.seoulfn.com/news/articleView.html?idxno=635245",
+    "https://www.econovill.com/news/articleView.html?idxno=747492",
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5211192",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1719672",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608090093&t=NN",
+    "https://www.yna.co.kr/view/AKR20260809015500011?input=1195m",
+    "https://kidd.co.kr/news/246960"
    ],
    "seen_titles": [
-    "1410원대내려간환율,\"당분간1400원초반대등락\"",
-    "트럼프,폴리실리콘‘가격장벽’…한화큐셀·OCI기회,삼전닉스변수",
-    "SK하이닉스,HBM넘어HBF띄운다…AI메모리'계층화'승부",
-    "[반도체공급전쟁]메모리3사,내년물량도완판…'뉴노멀'된장기계...",
-    "작업자·통신망이중관리…통신3사,폭염비상대응돌입",
-    "엔비디아도인정했다…\"미래AI승부처는'메모리지휘'능력\"",
     "[재계투데이]SK하이닉스,FMS2026서HBF등차세대반도체솔루션공개...",
     "신성이엔지\"3분기부터수익성개선\"…반도체수주확대·태양광회복자...",
     "'비은행강화목표'Sh수협은행,상상인증권인수추진...\"확정된바없...",
@@ -3518,10 +3516,16 @@
     "SK하이닉스,중충칭공장지분매각검토?…“확정된바없어”",
     "SKT,장기고객400명초청'테이블데이'서울행사성료",
     "SK텔레콤,장기고객프로그램'테이블데이'성료",
-    "[외환+]원화급등락반복···외환시장변동성최고수준"
+    "[외환+]원화급등락반복···외환시장변동성최고수준",
+    "2분기실적시즌막바지…상장사58%가시장기대치넘어섰다",
+    "SK하이닉스,'통합노조'출범움직임…\"성과급안건교섭력높인다\"",
+    "외국인,국채선물12일연속순매수…한은'추가인상'베팅철회",
+    "1조원육박'세기의재산분할'…재상고기한일주일앞",
+    "[연합뉴스이시각헤드라인]-10:30",
+    "AI데이터센터투자계획발표,국내전력수요증가이끈다"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T10:30:34.813887+09:00"
+   "last_run": "2026-08-09T10:35:23.987683+09:00"
   }
  },
  "press_names": {
@@ -4098,6 +4102,7 @@
   "datasom.co.kr": "데이터솜",
   "readersnews.com": "독서신문",
   "vogue.co.kr": "vogue.co.kr",
-  "dailyvet.co.kr": "dailyvet.co.kr"
+  "dailyvet.co.kr": "dailyvet.co.kr",
+  "kidd.co.kr": "산업일보"
  }
 }
