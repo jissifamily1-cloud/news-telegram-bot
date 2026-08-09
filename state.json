@@ -654,10 +654,13 @@
     [
      "2026-08-09T19:10:28.026329+09:00",
      "로봇 대약진 유니트리 상장 세계1위 무력시위"
+    ],
+    [
+     "2026-08-09T19:15:27.739878+09:00",
+     "부담 고령층 늘고 잔액 청년층 연체율도 마이너스통장 4조 상승"
     ]
    ],
    "seen_urls": [
-    "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260807&SEQUENCE=0116",
     "http://www.ikld.kr/news/articleView.html?idxno=338700",
     "https://www.tvreport.co.kr/breaking/article/1067137/",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691079",
@@ -2156,10 +2159,10 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=596292",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696879&plink=ORI&cooper=NAVER",
     "http://www.fnnews.com/news/202608091907186905",
-    "https://www.dt.co.kr/article/12077308"
+    "https://www.dt.co.kr/article/12077308",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=596296"
    ],
    "seen_titles": [
-    "[증권이모저모]교보증권,코스피200연계원금지급형ELB공모",
     "경제관료산업장관,정치인노동장관…번번이마찰음",
     "[속보]‘준공1년반에’…인천송도신축아파트테라스무너져",
     "SK하이닉스,청주M17팹19조원투자..\"AI메모리수요대응\"",
@@ -3658,10 +3661,11 @@
     "레버리지청산·규제강화에…한국증시변동성진정세",
     "[자막뉴스]'HBM핵심기술'유출'하닉전직원'\"영업비밀아냐\"…이...",
     "[사설]‘디지털전환실패’日자성,강건너불아니다",
-    "[기획]로봇세계1위유니트리상장…대약진中,美에‘무력시위’"
+    "[기획]로봇세계1위유니트리상장…대약진中,美에‘무력시위’",
+    "마이너스통장잔액3.4조늘고연체율도상승…고령층·청년층부담커..."
    ],
    "initialized": true,
-   "last_run": "2026-08-09T19:10:28.026329+09:00"
+   "last_run": "2026-08-09T19:15:27.739878+09:00"
   }
  },
  "press_names": {
