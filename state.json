@@ -662,13 +662,21 @@
     [
      "2026-08-09T18:20:26.783974+09:00",
      "달러 안정 찾는 초읽기 외환시장 1300원대"
+    ],
+    [
+     "2026-08-09T18:25:22.818150+09:00",
+     "건설현장 절주 캠페인 근로자 남구보건소"
+    ],
+    [
+     "2026-08-09T18:25:22.818150+09:00",
+     "호실적 타고 떴다 우주항공 급등 바이오도 스페이스X"
+    ],
+    [
+     "2026-08-09T18:25:22.818150+09:00",
+     "위력 양산도 메모리 원팀 앞당겨 HBM4E 패키징 파운드리"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260807165903576",
-    "https://www.hani.co.kr/arti/economy/economy_general/1271941.html",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7178078",
-    "https://cn.asiatoday.co.kr/view.php?key=20260807001707246",
     "http://www.lawissue.co.kr/view.php?ud=202608071744019823f4ab64559d_12",
     "https://www.sedaily.com/article/20077043",
     "https://www.thereport.co.kr/news/articleView.html?idxno=90264",
@@ -2164,13 +2172,13 @@
     "http://www.fnnews.com/news/202608091816524698",
     "https://www.hankyung.com/article/2026080928631",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260810010002802",
-    "http://www.fnnews.com/news/202608091815441936"
+    "http://www.fnnews.com/news/202608091815441936",
+    "https://www.ccdn.co.kr/news/articleView.html?idxno=1092909",
+    "http://www.ujeil.com/news/articleView.html?idxno=390054",
+    "http://www.fnnews.com/news/202608091820103988",
+    "https://www.sedaily.com/article/20077396"
    ],
    "seen_titles": [
-    "엔화개입에원화도20원하락…'수혜'는언제까지",
-    "[단독]한미반도체·두산로보틱스,생산세액공제못받는다",
-    "[속보]'삼전닉스'한국·'TSMC'대만,상반기수출서일본추월'사상처음...",
-    "AI반도체가뒤집은수출순위…韓·대만,사상첫日추월",
     "SK하이닉스,주당375원배당확정…이르면이달주주환원확대방안발...",
     "SK하이닉스,용인·청주에'54조'메모리공장짓는다",
     "SK海力士敲定龙仁第二座晶圆厂及清州M17投资",
@@ -3666,10 +3674,14 @@
     "반도체에가려졌던업종빛본다…건설·중공업·전기강세",
     "삼성SDI·에쓰오일…반도체밖으로번지는실적훈풍",
     "AI메모리국내생산확대…SK하닉,글로벌수요대응속도전",
-    "안정찾는외환시장…원·달러1300원대초읽기"
+    "안정찾는외환시장…원·달러1300원대초읽기",
+    "하이닉스,청주M17건설확정",
+    "남구보건소,건설현장근로자절주캠페인",
+    "스페이스X호실적타고우주항공떴다…바이오도급등[ETF스퀘어]",
+    "‘메모리+파운드리+패키징’원팀위력…HBM4E양산도앞당겨"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T18:20:26.783974+09:00"
+   "last_run": "2026-08-09T18:25:22.818150+09:00"
   }
  },
  "press_names": {
