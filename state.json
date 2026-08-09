@@ -550,18 +550,13 @@
     [
      "2026-08-09T11:05:21.714516+09:00",
      "아파트 사람이 탈서울 경기 서울 5채 가속 매입 10채"
+    ],
+    [
+     "2026-08-09T11:10:27.118826+09:00",
+     "사업 반도체 데이터센터 SK에코플랜트 보고서 발간 지속가능경영"
     ]
    ],
    "seen_urls": [
-    "https://www.womentimes.co.kr/news/articleView.html?idxno=105086",
-    "http://www.iminju.net/news/articleView.html?idxno=167786",
-    "https://www.seoul.co.kr/news/economy/securities/2026/08/07/20260807500181?wlog_tag3=naver",
-    "https://www.kizmom.com/news/articleView.html?idxno=111964",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=93444",
-    "http://www.fnnews.com/news/202608071543408955",
-    "http://www.joseilbo.com/news/news_read.php?uid=573438&class=53",
-    "https://theviewers.co.kr/View.aspx?No=4178529",
-    "https://www.dailian.co.kr/news/view/1675938/?sc=Naver",
     "https://en.yna.co.kr/view/AEN20260807007300320?input=2106m",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=06435366645545024",
     "https://www.seoul.co.kr/news/economy/securities/2026/08/07/20260807500182?wlog_tag3=naver",
@@ -2052,18 +2047,18 @@
     "http://www.yonhapnewstv.co.kr/news/MYH20260809010417RvE",
     "https://www.seoulfn.com/news/articleView.html?idxno=635195",
     "https://www.dailian.co.kr/news/view/1676220/?sc=Naver",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1393950"
+    "https://daily.hankooki.com/news/articleView.html?idxno=1393950",
+    "https://biz.newdaily.co.kr/site/data/html/2026/08/09/2026080900026.html",
+    "https://www.m-i.kr/news/articleView.html?idxno=1400274",
+    "https://biz.heraldcorp.com/article/10835034",
+    "https://www.newscj.com/news/articleView.html?idxno=3423577",
+    "https://biz.sbs.co.kr/article_hub/20000327494?division=NAVER",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1719674",
+    "https://www.yna.co.kr/view/AKR20260807146051004?input=1195m",
+    "https://economist.co.kr/article/view/ecn202608090001",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=442555"
    ],
    "seen_titles": [
-    "[EBN데이터센터]7일상승종목30選",
-    "올릴때도내릴때도'늦었다'…글로벌IB목표가산정의미는?[마켓프...",
-    "예산운용부터판정시비까지…월드컵실패후폭풍속K리그신뢰흔들",
-    "급락장에판돈더키운간큰개미들…현물20조털어파생상품으로",
-    "KOSPI200ClosingPriceList-2",
-    "단일종목레버리지ETF,규제에거래량90%급감했지만…반도체섹터,...",
-    "SK하이닉스,'FMS2026'서AI시대차세대메모리아키텍처방향성제시",
-    "코스피,0.60%하락한6258.77마감…삼전강보합·하이닉스4.88%↓",
-    "[마감시황]코스피,장중상승분반납하고6258.77마감…외국인8581억원...",
     "\"SK하이닉스또-30%?\"투자자두번놀라자…NXT결국'하한가주문'막...",
     "문턱높이자단일종목레버리지거래'뚝'…\"반도체·해외로풍선효과\"",
     "'단일종목레버리지규제'거래대금90%급감-한투증권",
@@ -3554,10 +3549,19 @@
     "[기업기상도]바람불어폭염가신기업vs열섬속에갇힌기업",
     "[중국의역습④]지정학적리스크더해진'위협'···\"반도체굴기가...",
     "배우지안,'158㎞강속구투수'엄정욱과결혼…\"이사람이라면평생함...",
-    "\"경기아파트10채중1.5채서울사람이매입\"…'탈서울'가속"
+    "\"경기아파트10채중1.5채서울사람이매입\"…'탈서울'가속",
+    "코스피9000다시못오나…이달거래대금·거래량올해최저",
+    "SKT,전국5개도시서장기고객1200명미식초청…롯데월드대관등혜...",
+    "‘롤러코스터’한국증시진정되나…블룸버그“레버리지과열해소조...",
+    "국가대표AI'독파모'2차4파전…국민평가시작등본격화",
+    "블룸버그\"레버리지청산에韓증시변동성진정가능성\"",
+    "SK하이닉스,中충칭'4조공장'지분매각설…AI메모리로투자축옮기...",
+    "최태원,노소영에약1조원지급하나…내주재상고안하면확정(종합)",
+    "[속보]“성과급약속지켜라”…SK하이닉스,통합노조신설추진",
+    "SK에코플랜트,지속가능경영보고서발간…반도체·데이터센터등사업..."
    ],
    "initialized": true,
-   "last_run": "2026-08-09T11:05:21.714516+09:00"
+   "last_run": "2026-08-09T11:10:27.118826+09:00"
   }
  },
  "press_names": {
