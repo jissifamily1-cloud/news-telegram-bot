@@ -538,14 +538,17 @@
     [
      "2026-08-10T08:05:21.861331+09:00",
      "인프라 2조 떴지만 개의 전력 기술"
+    ],
+    [
+     "2026-08-10T08:10:28.975207+09:00",
+     "데이터센터로 붙이고 GS건설 건설 LS 연다 대우건설 원전으로"
+    ],
+    [
+     "2026-08-10T08:10:28.975207+09:00",
+     "동화기업 배터리주 전고체 2차전지 상한가 질주"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10834293",
-    "https://www.slist.kr/news/articleView.html?idxno=757401",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608080365&t=NN",
-    "https://imnews.imbc.com/news/2026/world/article/6843277_36925.html",
-    "https://www.sedaily.com/article/20077173",
     "https://www.kbmaeil.com/article/20260808500003",
     "https://biz.sbs.co.kr/article_hub/20000327448?division=NAVER",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=85989",
@@ -2040,14 +2043,14 @@
     "https://biz.sbs.co.kr/article_hub/20000327390?division=NAVER",
     "https://www.apnews.kr/news/articleView.html?idxno=3050384",
     "https://www.hankyung.com/article/2026081031867",
-    "http://www.thevaluenews.co.kr/news/view.php?idx=200639"
+    "http://www.thevaluenews.co.kr/news/view.php?idx=200639",
+    "https://www.joongboo.com/news/articleView.html?idxno=363733439",
+    "https://www.newsis.com/view/NISX20260810_0003742085",
+    "https://biz.newdaily.co.kr/site/data/html/2026/08/10/2026081000021.html",
+    "https://www.etoday.co.kr/news/view/2612556",
+    "https://biz.sbs.co.kr/article_hub/20000327560?division=NAVER"
    ],
    "seen_titles": [
-    "차세대HBM거론되는‘CXL’…엔비디아가확산걸림돌이라고?[칩칩팹팹...",
-    "한국·대만상반기수출,사상첫일본추월…AI반도체영향",
-    "[AI돋보기]시장이사라진AI반도체전쟁…한국의선택은",
-    "잦아진오너들의자사주매입…책임경영일환이지만변동성확대지적도...",
-    "뉴욕증시,금리인상기대론후퇴에상승…S&P500사상최고치마",
     "'美고용악화'가오히려호재?…뉴욕증시,'금리인상기대론'후퇴에3대...",
     "미국증시,금리인상기대론후퇴에상승‥S&P500사상최고치마감",
     "뉴욕증시,고용악화따른금리인상론후퇴에일제히상승[데일리국제...",
@@ -3542,10 +3545,15 @@
     "SKT,AI로독립운동가발자취잇는다…전국10개‘기억하길’조성",
     "K-뷰티호황올라탄한국콜마…윤상현,美·中생산망'수주로채운다'",
     "\"군공항,반도체클러스터로?\"…李대통령,3대메가프로젝트2차점검",
-    "[박수연칼럼]K-AI인프라,2조첫삽떴지만...전력·기술두개의벽..."
+    "[박수연칼럼]K-AI인프라,2조첫삽떴지만...전력·기술두개의벽...",
+    "추미애\"반도체폐수부터줄여라\"…삼성·SK하이닉스정조준",
+    "美반도체강세…삼전닉스,프리마켓서동반2%대상승",
+    "[속보]美증시사상최고치마감호재…주말이란전쟁격화에도삼전...",
+    "LS證“건설,데이터센터로붙이고원전으로연다⋯GS건설·대우건설주...",
+    "[애프터마켓리뷰]2차전지전고체배터리주질주…동화기업상한가"
    ],
    "initialized": true,
-   "last_run": "2026-08-10T08:05:21.861331+09:00"
+   "last_run": "2026-08-10T08:10:28.975207+09:00"
   }
  },
  "press_names": {
