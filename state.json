@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-09T07:25:21.924614+09:00",
-     "관세 기대 적고 반도체 반사이익 폴리실리콘에 원료 영향"
-    ],
-    [
-     "2026-08-09T07:25:21.924614+09:00",
-     "확정된 없어 매각 SK하이닉스 충칭공장 지분 추진설"
-    ],
-    [
      "2026-08-09T07:30:34.958728+09:00",
      "가이던스 SK바이오팜 하반기가 상향 앞세워 기대된다 엑스코프리"
     ],
@@ -557,9 +549,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=662078",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=06632166645545024",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=595816",
     "https://www.etoday.co.kr/news/view/2612281",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608070478&t=NN",
     "https://www.etoday.co.kr/news/view/2612279",
@@ -2056,12 +2045,12 @@
     "http://www.cctimes.kr/news/articleView.html?idxno=920885",
     "https://www.insight.co.kr/news/567217",
     "http://www.samdailbo.com/news/articleView.html?idxno=268712",
-    "https://www.m-i.kr/news/articleView.html?idxno=1400295"
+    "https://www.m-i.kr/news/articleView.html?idxno=1400295",
+    "https://www.sportsseoul.com/news/read/1627428",
+    "https://www.newdaily.co.kr/site/data/html/2026/08/09/2026080900038.html",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=444286"
    ],
    "seen_titles": [
-    "SK하이닉스,주당375원현금배당…\"추가주주환원방안적극검토\"",
-    "'AI특수'한국·대만,상반기수출액나란히사상첫일본추월",
-    "기업공시[8월7일]",
     "[크레딧캐치]SK이노베이션E&S산하'도시가스3사'신용도안정···배...",
     "코스피,반도체부진·외국인매도에6250선마감",
     "[속보]SK하닉,54조투자…용인2기팹·청주M17건설",
@@ -3558,10 +3547,13 @@
     "SK하이닉스청주캠퍼스,지역고교과학기술인재에반도체현장개방",
     "대출잔액63%가'이연령대'에쏠렸다...10대증권사담보대출의민낯",
     "제주,전북잡고7경기연속무패질주",
-    "삼성·SK,3분기합산영업익200조달성하나…CXMT등中추격은변수"
+    "삼성·SK,3분기합산영업익200조달성하나…CXMT등中추격은변수",
+    "SKT,10년이상장기고객400명초청…“통신넘어경험으로보답”",
+    "조국\"산업부장관'996노동제'발언,반인권적발상…與입장밝혀야...",
+    "SK하이닉스통합노조설립움직임본격화,성과급체계불만에3500명결..."
    ],
    "initialized": true,
-   "last_run": "2026-08-09T13:20:27.529791+09:00"
+   "last_run": "2026-08-09T13:25:23.864739+09:00"
   }
  },
  "press_names": {
