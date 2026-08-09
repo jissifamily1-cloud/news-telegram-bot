@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-09T12:50:27.141753+09:00",
-     "140원 환율 변동성 금융위기 급락 1560원 찍고 이후"
-    ],
-    [
      "2026-08-09T12:51:36.769434+09:00",
      "아파트 요원 건축허가 용인반도체일반산단 났는데 첫삽 오피스텔"
     ],
@@ -678,11 +674,13 @@
     [
      "2026-08-09T18:45:33.335390+09:00",
      "이유는 이번주 달렸다 미국 결국 코스피 물가지수에"
+    ],
+    [
+     "2026-08-09T18:50:28.115327+09:00",
+     "호남반도체 전력망 하나 삼성 투자 직접"
     ]
    ],
    "seen_urls": [
-    "https://www.nocutnews.co.kr/news/6559982",
-    "https://www.newsinside.kr/news/articleView.html?idxno=4903222",
     "https://www.koreaittimes.com/news/articleView.html?idxno=155900",
     "https://www.mk.co.kr/article/12121141",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695343&plink=ORI&cooper=NAVER",
@@ -2180,11 +2178,11 @@
     "http://www.fnnews.com/news/202608091828529371",
     "https://www.jjan.kr/article/20260809500276",
     "http://www.fnnews.com/news/202608091833549571",
-    "https://biz.heraldcorp.com/article/10834417"
+    "https://biz.heraldcorp.com/article/10834417",
+    "https://www.spotvnews.co.kr/news/articleView.html?idxno=833730",
+    "https://www.namdonews.com/news/articleView.html?idxno=919507"
    ],
    "seen_titles": [
-    "SK하이닉스,용인·청주신규팹54조투자확정",
-    "프리마켓상·하한가주문한시금지…'하이닉스1주하한가'차단",
     "외국인매도에코스피6250선후퇴…반도체쉬어가자2차전지·바이오'...",
     "SK하이닉스,고교과학기술인재산업현장프로그램개최",
     "SK하이닉스,용인·청주에54조원투자…AI메모리생산기반확대",
@@ -3682,10 +3680,12 @@
     "'정책패싱'잔혹사털어내고'재계맏형'위상되찾는다",
     "[주간증시전망]성장성뒷받침되는업종중심대응필요",
     "반도체호황업고…신성이엔지'흑자전환'",
-    "[증시예보]이번주코스피,미국물가지수에달렸다?…이유는결국외..."
+    "[증시예보]이번주코스피,미국물가지수에달렸다?…이유는결국외...",
+    "\"평생함께\"지안,웨딩드레스입고야구선수엄정욱과결혼깜짝발표...",
+    "삼성·SK,호남반도체전력망직접투자하나"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T18:45:33.335390+09:00"
+   "last_run": "2026-08-09T18:50:28.115327+09:00"
   }
  },
  "press_names": {
