@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-09T15:25:02.276390+09:00",
-     "최적요금제 역설 줄여도 총지출은 수도 통신비"
-    ],
-    [
-     "2026-08-09T15:25:02.276390+09:00",
-     "레버리지 연체 부메랑 투자 60대부터 경고등 20대 대출"
-    ],
-    [
-     "2026-08-09T15:25:02.276390+09:00",
-     "영업비밀 직원 SK하이닉스 징역 항소심도 1년6개월 회사에 유출"
-    ],
-    [
      "2026-08-09T15:30:33.418969+09:00",
      "중소형주 리포트 삼전닉스 소외 주목한 광풍"
     ],
@@ -462,11 +450,17 @@
     [
      "2026-08-09T21:15:26.846659+09:00",
      "종착점 눈앞 여부에 9년 재상고 달렸다 결론 이혼소송 최태원 노소영"
+    ],
+    [
+     "2026-08-09T21:25:22.965860+09:00",
+     "아우르는 생산 SK하이닉스 통합노조 본격화 설립 사무직"
+    ],
+    [
+     "2026-08-09T21:25:22.965860+09:00",
+     "놀라운 경고 보니 아냐 무서운 애널리스트 삼전닉스"
     ]
    ],
    "seen_urls": [
-    "https://www.discoverynews.kr/news/articleView.html?idxno=1098124",
-    "https://www.seoul.co.kr/news/economy/industry/2026/08/07/20260807500226?wlog_tag3=naver",
     "https://www.tokenpost.kr/news/breaking/386676",
     "https://biz.sbs.co.kr/article_hub/20000327412?division=NAVER",
     "https://byline.network/?p=9004111222614602",
@@ -1964,11 +1958,11 @@
     "http://www.biztribune.co.kr/news/articleView.html?idxno=357179",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=357178",
     "https://www.sedaily.com/article/20077429",
-    "https://www.mediafine.co.kr/news/articleView.html?idxno=86167"
+    "https://www.mediafine.co.kr/news/articleView.html?idxno=86167",
+    "https://www.m-economynews.com/news/article.html?no=69568",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608090205&t=NN"
    ],
    "seen_titles": [
-    "SK하이닉스,용인·청주팹에54조투자…“AI시대메모리수요대응”",
-    "SK에코플랜트,'송도럭스오션SK뷰'테라스추락…전문가\"아파트전체...",
     "AI메모리판키운다…SK하이닉스,용인·청주에54조투자확정",
     "남동발전,국내최대400MW태양광단지착공",
     "SK하이닉스,AI반도체수요맞춰용인·청주공장54조선제투자",
@@ -3466,10 +3460,12 @@
     "SK하이닉스,생산시계12년당긴다…용인·청주에54조'쌍끌이증설'",
     "\"SK하이닉스,中충칭후공정에현지자본유치검토\"",
     "AI가부른메모리품귀현상에…애플,中CXMT로눈돌렸다",
-    "최태원·노소영9년이혼소송종착점눈앞-재상고여부에결론달렸다"
+    "최태원·노소영9년이혼소송종착점눈앞-재상고여부에결론달렸다",
+    "SK하이닉스,생산·사무직아우르는통합노조설립본격화",
+    "\"무서운경고그애널리스트아냐?\"…삼전닉스놀라운'뷰'보니"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T21:20:36.223614+09:00"
+   "last_run": "2026-08-09T21:25:22.965860+09:00"
   }
  },
  "press_names": {
