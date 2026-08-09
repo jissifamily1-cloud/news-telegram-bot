@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-09T08:25:20.898371+09:00",
-     "54조 국내엔 후공정 공장 지분매각 충칭 투자 SK하이닉스 검토"
-    ],
-    [
      "2026-08-09T08:35:21.136734+09:00",
      "초청 SKT 데이 개최 정재헌 참석 CEO 테이블 서울 장기고객 10년"
     ],
@@ -554,17 +550,21 @@
     [
      "2026-08-09T14:20:28.999300+09:00",
      "반도체 순환매 증시 고른 완화 쏠림 이어질까"
+    ],
+    [
+     "2026-08-09T14:25:21.413476+09:00",
+     "LGU 힘입은 역대급 네카오 SKT 실적 AIDC"
+    ],
+    [
+     "2026-08-09T14:25:21.413476+09:00",
+     "현지 유통사업까지 들고 한국 브랜드 엘브이엠씨홀딩스 동남아로"
+    ],
+    [
+     "2026-08-09T14:25:21.413476+09:00",
+     ""
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202608071640393397fbbec65dfb_1",
-    "https://biz.sbs.co.kr/article_hub/20000327394?division=NAVER",
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=238478",
-    "https://www.newsis.com/view/NISX20260807_0003740879",
-    "http://www.fnnews.com/news/202608071634363102",
-    "https://www.hankyung.com/article/202608071138g",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=06701046645545024",
-    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005896362",
     "https://www.pointe.co.kr/news/articleView.html?idxno=82950",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005896363",
     "https://www.ngonews.kr/news/articleView.html?idxno=234909",
@@ -2056,17 +2056,17 @@
     "https://www.dt.co.kr/article/12077229",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01849926645545680",
     "https://m.skyedaily.com/news_view.html?ID=309434",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=01830246645545680"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01830246645545680",
+    "https://sports.khan.co.kr/article/202608091420003?pt=nv",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608090111&t=NN",
+    "https://www.m-i.kr/news/articleView.html?idxno=1400307",
+    "https://www.kwnews.co.kr/article/20260809500593",
+    "https://www.ytn.co.kr/_ln/0102_202608091419024486",
+    "https://www.news1.kr/it-science/internet-platform/6253398",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475653",
+    "https://jp.yna.co.kr/view/AJP20260809000500882?input=1728m"
    ],
    "seen_titles": [
-    "코스피,외국인매도세에하락...6200선마감",
-    "'도파민'못잊은개인···순매수상위목록에'레버리지ETF'재진입",
-    "\\\"용인·청주에54조원투입\\\"..SK하이닉스,AI메모리생산능력확대계...",
-    "SK하이닉스,용인·청주에54조투자…AI메모리생산기지확대",
-    "자유현금흐름쏠림에빅테크현금소진…월가자금순환매확산",
-    "SK하닉,주당375원현금배당…\"주주환원9월내확정\"",
-    "코스피,외국인매도에6200선후퇴···SK하이닉스이틀째급락",
-    "SK하이닉스,용인·청주팹에54조투자…\"AI메모리수요선제대응\"",
     "원·달러환율,10개월만에1410원대기록",
     "SK하닉,용인·청주에'54조투자'…D램·낸드신규팹짓는다",
     "SK하이닉스,용인·청주에54조투자…HBM·낸드생산기지확충(종합)",
@@ -3558,10 +3558,18 @@
     "“살사람도팔사람도없다”…‘삼전닉스’비명에꽁꽁얼어붙은코...",
     "파죽지세코웨이…렌털영토넓혀1위굳히기",
     "삼성전자·하이닉스,3분기영업이익200조원간다",
-    "반도체쏠림완화…숨고른증시,순환매이어질까[주간증시전망]"
+    "반도체쏠림완화…숨고른증시,순환매이어질까[주간증시전망]",
+    "지배해도실속이없다…슈팅33개퍼붓고도고개숙인전북",
+    "삼전닉스문턱높였더니…코스닥레버리지'불기둥'",
+    "SK하이닉스,전임·기술사무직통합노조출범수순",
+    "조국“김정관장관‘996노동제’발언시대착오적…우리나라가배워...",
+    "\"성과급약속지켜야\"...SK하이닉스통합노조신설추진",
+    "네카오역대급실적…AIDC힘입은SKT·LGU+[뉴스잇(IT)쥬]",
+    "한국브랜드들고동남아로…엘브이엠씨홀딩스,현지유통사업까지확...",
+    "韓国・SK会長元妻に1千億円財産分与か＝再上告期限迫る"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T14:20:28.999300+09:00"
+   "last_run": "2026-08-09T14:25:21.413476+09:00"
   }
  },
  "press_names": {
