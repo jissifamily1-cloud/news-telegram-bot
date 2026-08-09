@@ -593,12 +593,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.hidomin.com/news/articleView.html?idxno=716394",
-    "https://www.sentv.co.kr/article/view/sentv202608070151",
-    "https://www.mediapen.com/news/view/1114965",
-    "https://www.itdaily.kr/news/articleView.html?idxno=240866",
-    "https://www.ytn.co.kr/_ln/0102_202608071603112443",
-    "https://www.yna.co.kr/view/AKR20260807114000008?input=1195m",
     "https://www.joongangenews.com/news/articleView.html?idxno=538624",
     "https://www.g-enews.com/view.php?ud=202608071543041384923c501012_1",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=206211",
@@ -2092,15 +2086,15 @@
     "https://www.dailian.co.kr/news/view/1676227/?sc=Naver",
     "https://www.mediapen.com/news/view/1115190",
     "https://biz.chosun.com/stock/stock_general/2026/08/09/FBFA6NQSCVHPTAPUEFY7CFNAS4/",
-    "https://www.sedaily.com/article/20077270"
+    "https://www.sedaily.com/article/20077270",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4429274",
+    "https://www.news2day.co.kr/article/20260809500015",
+    "https://www.ajunews.com/view/20260809112558499",
+    "https://www.insight.co.kr/news/567209",
+    "https://news.tf.co.kr/read/life/2352024.htm",
+    "https://news.tvchosun.com/site/data/html_dir/2026/08/09/2026080990042.html"
    ],
    "seen_titles": [
-    "하이닉스,전날10%폭락이어또4.8%급락…삼전0.2%↑(종합)",
-    "코스피,장초반반등에도0.6%하락",
-    "\"280층에사람있어요\"…SK하이닉스반토막,스타들도줄줄이'물렸다'...",
-    "코스피이틀째하락6200대…SK하이닉스또4.9%급락",
-    "코스피,6400회복했다6200대로'뚝'…외국인매도에이틀째하락",
-    "코스피,외인매도에이틀째약세…SK하이닉스5%급락",
     "반도체클러스터속도전…한화·두산,‘에너지밸류체인’주목",
     "SK하이닉스,AI메모리계층화…HBM·HBF·SSD잇는다",
     "NXT,12일부터프리마켓상·하한한시적제한",
@@ -3594,10 +3588,16 @@
     "SKT가10년고객에특급셰프요리대접한이유",
     "최태원·노소영재산분할‘재상고갈림길’…법정공방마침표찍나",
     "블룸버그“韓증시변동성진정국면…레버리지청산·규제효과”",
-    "8월코스피거래대금26조‘연중최저’…반도체·매크로악재겹쳐[..."
+    "8월코스피거래대금26조‘연중최저’…반도체·매크로악재겹쳐[...",
+    "SK하이닉스통합노조신설추진…\"성과급약속완벽이행\"",
+    "\"성과급약속이행이우선\"…SK하이닉스,통합노조신설추진",
+    "블룸버그\"韓증시극심한변동성완화…레버리지청산영향\"",
+    "中이직하려SK하이닉스영업비밀빼낸前직원,2심판결나왔다",
+    "최태원·노소영재산분할17일재상고기한…향방주목",
+    "최태원,노소영에9440억지급하나…재상고시한임박"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T11:30:33.313502+09:00"
+   "last_run": "2026-08-09T11:35:22.404885+09:00"
   }
  },
  "press_names": {
