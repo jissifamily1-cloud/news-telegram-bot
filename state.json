@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-09T15:40:27.501864+09:00",
-     "성장 LG헬로비전 독자 없는 빨간불 IPTV"
-    ],
-    [
      "2026-08-09T15:45:33.287486+09:00",
      "올해 대만 처음으로 한국과 제쳤다 상반기 수출액에서 일본을"
     ],
@@ -454,10 +450,13 @@
     [
      "2026-08-09T21:30:35.714237+09:00",
      "이상일 용인시장 정책 행정 10기 소개 다낭서"
+    ],
+    [
+     "2026-08-09T21:45:24.932425+09:00",
+     "속도 국가산단 반도체 부지 광주 군공항 본궤도 클러스터"
     ]
    ],
    "seen_urls": [
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608070646&t=NN",
     "https://www.sedaily.com/article/20077071",
     "https://www.electimes.com/news/articleView.html?idxno=371117",
     "https://www.viva100.com/article/20260807500739",
@@ -1956,10 +1955,10 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608090205&t=NN",
     "https://www.ulsanpress.net/news/articleView.html?idxno=580670",
     "https://www.etnews.com/20260809000128",
-    "https://www.busan.com/view/busan/view.php?code=2026080921264130437"
+    "https://www.busan.com/view/busan/view.php?code=2026080921264130437",
+    "http://www.kwangju.co.kr/article.php?aid=1786279200802105277"
    ],
    "seen_titles": [
-    "SK하이닉스,국내칩사업에384억달러투자",
     "외국인'팔자'에코스피주춤…이틀연속하락세",
     "AIDC얼라이언스…국산AI인프라묶어해외시장공략",
     "'AI특수'올라탄한국·대만…수출액첫일본역전",
@@ -3458,10 +3457,11 @@
     "\"무서운경고그애널리스트아냐?\"…삼전닉스놀라운'뷰'보니",
     "울산남구보건소'혹서기절주실천음주폐해예방캠페인'",
     "이상일용인시장,다낭서'팹10기·AI행정'정책소개",
-    "모건스탠리“메모리주가파른조정마무리”…낙관론제시"
+    "모건스탠리“메모리주가파른조정마무리”…낙관론제시",
+    "광주반도체클러스터본궤도…군공항부지국가산단‘속도’"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T21:40:27.197532+09:00"
+   "last_run": "2026-08-09T21:45:24.932425+09:00"
   }
  },
  "press_names": {
