@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-09T15:05:20.054574+09:00",
-     "김재희 찾아봐요 볼을"
-    ],
-    [
-     "2026-08-09T15:05:20.054574+09:00",
-     "뛴다 추경 공무원 신용한 봉급도 그래도"
-    ],
-    [
-     "2026-08-09T15:05:20.054574+09:00",
-     "민선9기 개최 군수 도지사 간담회 시장 우상호 강원특별자치도"
-    ],
-    [
-     "2026-08-09T15:05:20.054574+09:00",
-     ""
-    ],
-    [
-     "2026-08-09T15:05:20.054574+09:00",
-     "최저치 달러 수준 10개월만에 환율 1410원대"
-    ],
-    [
      "2026-08-09T15:10:27.262546+09:00",
      "시추에이셔널 스타트업에 대안 투자한 7000억 주장한 어웨어니 ASML"
     ],
@@ -542,11 +522,13 @@
     [
      "2026-08-09T21:02:10.191989+09:00",
      "FC 7경기 원정 연속 무패 제주SK 승리"
+    ],
+    [
+     "2026-08-09T21:05:21.867657+09:00",
+     "자본 현지 검토 SK하이닉스 유치 충칭 후공정에"
     ]
    ],
    "seen_urls": [
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=849656",
-    "https://economist.co.kr/article/view/ecn202608070041",
     "https://www.1conomynews.co.kr/news/articleView.html?idxno=49915",
     "https://www.the-pr.co.kr/news/articleView.html?idxno=62205",
     "https://www.discoverynews.kr/news/articleView.html?idxno=1098124",
@@ -2044,11 +2026,11 @@
     "https://www.sedaily.com/article/20077427",
     "http://www.gnmaeil.com/news/articleView.html?idxno=592363",
     "https://www.khan.co.kr/article/202608092100005",
-    "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026080920590020564?feed=na"
+    "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026080920590020564?feed=na",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=357179",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=357178"
    ],
    "seen_titles": [
-    "[사설]'엇박자'당연시하는노동부장관…부처논리넘어서야",
-    "[2027수시특집]한양대\"완성된결과가아닌성장가능성에주목\"",
     "[미토스쇼크]③AI대해킹시대,우리는어떻게대응하고있나",
     "이재용,반년새5대빅테크누볐다…파운드리회생시킨'회장세일즈'",
     "SK하이닉스,용인·청주팹에54조투자…“AI시대메모리수요대응”",
@@ -3546,10 +3528,12 @@
     "SK하이닉스통합노조설립추진…성과급갈등에3500명결집",
     "한국남동발전,하이닉스에전력공급한다",
     "고소득연구개발자노동시간늘리고수당축소…‘이중개악’비판",
-    "제주SKFC원정승리..7경기연속무패"
+    "제주SKFC원정승리..7경기연속무패",
+    "SK하이닉스,생산시계12년당긴다…용인·청주에54조'쌍끌이증설'",
+    "\"SK하이닉스,中충칭후공정에현지자본유치검토\""
    ],
    "initialized": true,
-   "last_run": "2026-08-09T21:02:10.191989+09:00"
+   "last_run": "2026-08-09T21:05:21.867657+09:00"
   }
  },
  "press_names": {
