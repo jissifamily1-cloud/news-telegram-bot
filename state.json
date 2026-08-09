@@ -298,14 +298,21 @@
     [
      "2026-08-10T06:25:22.681504+09:00",
      "먹통 eSIM 데이터 안된다고 휴가철 환불 속출 인데 해외서 로밍 피해"
+    ],
+    [
+     "2026-08-10T06:30:36.039088+09:00",
+     "코스닥 7일 코스피 주요공시는 포스코인터 거래일 포스코홀딩스"
+    ],
+    [
+     "2026-08-10T06:30:36.039088+09:00",
+     "DRAM 글로벌 HBM 3사 메모리 할당 완료 물량 2027년"
+    ],
+    [
+     "2026-08-10T06:30:36.039088+09:00",
+     "메모리주 마무리 널뛰기 바닥쳤나 코스피 단계"
     ]
    ],
    "seen_urls": [
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=855374",
-    "https://biz.heraldcorp.com/article/10834484",
-    "https://www.tokenpost.kr/news/market/386759",
-    "https://www.ajunews.com/view/20260807220827871",
-    "https://www.etnews.com/20260807000333",
     "http://www.metroseoul.co.kr/article/20260807500231",
     "https://www.ggilbo.com/news/articleView.html?idxno=1173285",
     "http://www.kwangju.co.kr/article.php?aid=1786108583802056372",
@@ -1800,14 +1807,14 @@
     "https://www.mk.co.kr/article/12122401",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632363",
     "https://www.news1.kr/bio/pharmaceutical-bio/6252477",
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=760689"
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=760689",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553444140",
+    "https://biz.sbs.co.kr/article_hub/20000327541?division=NAVER",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475698",
+    "https://www.g-enews.com/view.php?ud=202608100622389717fbbec65dfb_1",
+    "https://biz.sbs.co.kr/article_hub/20000327540?division=NAVER"
    ],
    "seen_titles": [
-    "삼전닉스폭락에美주식샀더니…월가“위험자산줄일때”경고터져...",
-    "“폭락은일단락”8월부터오른다는전문가…“삼전고점한참남았다...",
-    "삼전닉스레버리지상장예심평균13일…대표지수형보다이틀더걸렸다",
-    "'김보섭결승골'프로축구용인,2위부산에승리",
-    "이틀연속‘SK하닉’던지더니…초고수투자자들,‘이것’사들였다",
     "코스피·코스닥동반하락,외국인매도세와대외불안영향",
     "명현관해남군수,국내최대400MW태양광시대연다…6807억대형사업...",
     "SK하이닉스,주당375원분기배당…“3분기중추가주주환원방안발표...",
@@ -3302,10 +3309,15 @@
     "“하이닉스용인공장준공눈앞인데”…직원1만명,잘곳이마땅찮다",
     "이대통령,오늘‘메가프로젝트’점검2차회의주재",
     "뇌전증신약'세노바메이트'美처방확대…하반기성장기대감'쑥'",
-    "해외서데이터'먹통'인데환불안된다고?…휴가철로밍·eSIM피해속출"
+    "해외서데이터'먹통'인데환불안된다고?…휴가철로밍·eSIM피해속출",
+    "'韓국가대표수비수'김민재내세우고도'충격결과'…'흥행부진'아시...",
+    "[외신헤드라인]\"애플,中창신메모리칩테스트…공급초기논의\"",
+    "코스피·코스닥전거래일(7일)주요공시는...포스코홀딩스,포스코인터...",
+    "글로벌메모리3사,2027년HBM·DRAM물량할당완료",
+    "메모리주바닥쳤나?…\"'코스피널뛰기'마무리단계\"[글로벌뉴스픽]"
    ],
    "initialized": true,
-   "last_run": "2026-08-10T06:25:22.681504+09:00"
+   "last_run": "2026-08-10T06:30:36.039088+09:00"
   }
  },
  "press_names": {
