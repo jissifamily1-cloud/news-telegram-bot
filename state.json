@@ -186,14 +186,21 @@
     [
      "2026-08-10T05:05:21.346446+09:00",
      "해외 규제 고위험도 기웃 곱버스 바뀐 피한 레버리지로 지수"
+    ],
+    [
+     "2026-08-10T05:10:28.115166+09:00",
+     "급락시켰던 애플 반도체 기업 도입 삼전닉스"
+    ],
+    [
+     "2026-08-10T05:10:28.115166+09:00",
+     "뒷받침해야 친기업 장관 소신 산업 입법"
+    ],
+    [
+     "2026-08-10T05:10:28.115166+09:00",
+     "레버리지 코스닥 몰렸다 높이니 문턱 지수형 삼전닉스"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1719633",
-    "https://www.smarttoday.co.kr/ko-kr/articles/110246",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=269595",
-    "https://www.goal.com/kr/뉴스/a/blt4cf328e75a433b9d",
-    "https://www.thepowernews.co.kr/view.php?ud=202608071944555302de3f0aa1be_7",
     "https://www.insnews.co.kr/news/articleView.html?idxno=92209",
     "https://www.newspim.com/news/view/20260807001135",
     "https://www.cnbnews.com/news/articleView.html?idxno=1010815",
@@ -1688,14 +1695,14 @@
     "https://www.seoul.co.kr/news/editOpinion/opinion/CHAHYEONJIN/2026/08/10/20260810026002?wlog_tag3=naver",
     "https://www.newsis.com/view/NISX20260809_0003741842",
     "https://www.joongang.co.kr/article/25452025",
-    "https://www.etoday.co.kr/news/view/2612256"
+    "https://www.etoday.co.kr/news/view/2612256",
+    "https://www.seoul.co.kr/news/economy/industry/2026/08/10/20260810032002?wlog_tag3=naver",
+    "https://www.seoul.co.kr/news/economy/industry/2026/08/10/20260810023004?wlog_tag3=naver",
+    "https://www.mt.co.kr/world/2026/08/10/2026081005031736681",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01403846645546008",
+    "https://www.seoul.co.kr/news/economy/securities/2026/08/10/20260810031003?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "\"남아공전선수들도못했다\"김민재,솔직고백...'월드컵탈락'사과했다...",
-    "11주로SK하이닉스주가흔든프리마켓…넥스트레이드,상·하한가주문...",
-    "SK하이닉스54조베팅…용인엔D램,청주는낸드",
-    "SK하이닉스,용인·청주신규팹에54조원투자…중장기AI메모리거점...",
-    "[한앤코XSK디앤디]공개매수뒤1주당2.4주유증…소액주주가받아든세...",
     "'이틀째하락세'SK하이닉스,일정앞당겨'보통주375원현금배당'실시",
     "완벽부활이동경,울산유니폼입고‘포항전첫골+개인통산최다연...",
     "SK하이닉스,2733억원규모분기배당…추가주주환원3분기확정",
@@ -3190,10 +3197,15 @@
     "[차현진의박람궁리]생각없이백지장을맞들다간찢어진다",
     "최태원SK회장,이번주재상고여부정한다…\"9년소송전마침표찍나...",
     "“하닉290층사람있어요”…이뉴스2개뜨면,반도체팔아라",
-    "규제피한돈,지수레버리지로…곱버스·해외고위험도‘기웃’[바뀐..."
+    "규제피한돈,지수레버리지로…곱버스·해외고위험도‘기웃’[바뀐...",
+    "54조원투자·주주환원확대·성과급갈등…SK하이닉스‘AI호황과실’...",
+    "SKT,10년이상장기고객400명과‘테이블데이’",
+    "\"애플,中반도체도입추진\"…삼전닉스10%급락시켰던그기업",
+    "[사설]산업장관친기업소신,입법뒷받침해야",
+    "삼전닉스레버리지문턱높이니,코스닥·지수형레버리지몰렸다"
    ],
    "initialized": true,
-   "last_run": "2026-08-10T05:05:21.346446+09:00"
+   "last_run": "2026-08-10T05:10:28.115166+09:00"
   }
  },
  "press_names": {
