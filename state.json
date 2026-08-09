@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-09T14:55:21.683609+09:00",
-     "SK텔레콤 이상 대접 장기고객에 10년 셰프 요리"
-    ],
-    [
-     "2026-08-09T14:55:21.683609+09:00",
-     "손대지 성과급 통합노 SK하이닉스 다시 마라 아우른 기술직 생산"
-    ],
-    [
-     "2026-08-09T15:00:40.680870+09:00",
-     "해남에 규제 묵은 한국남동발전 10년 뚫었다 햇빛소득 환원"
-    ],
-    [
      "2026-08-09T15:05:20.054574+09:00",
      "김재희 찾아봐요 볼을"
     ],
@@ -542,11 +530,13 @@
     [
      "2026-08-09T20:50:28.594886+09:00",
      "만들기 서울대 반도체 10개 충북대 도전"
+    ],
+    [
+     "2026-08-09T21:00:43.558057+09:00",
+     "공급한다 하이닉스에 한국남동발전 전력"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260807135100011?input=1195m",
-    "https://www.sidae.com/article/2026080713565029186",
     "https://www.veritas-a.com/news/articleView.html?idxno=614788",
     "https://bizhankook.com/articles/ai-hacker-era-korea-response.html",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=849656",
@@ -2044,11 +2034,11 @@
     "https://biz.heraldcorp.com/article/10835227",
     "https://sports.khan.co.kr/article/202608092039003?pt=nv",
     "https://www.g-enews.com/view.php?ud=20260809203109351cd0bfacc1c_1",
-    "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260809&SEQUENCE=3404"
+    "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260809&SEQUENCE=3404",
+    "https://www.sedaily.com/article/20077427",
+    "http://www.gnmaeil.com/news/articleView.html?idxno=592363"
    ],
    "seen_titles": [
-    "[2027수시특집]고려대\"현재의성과보다는성장가능성과잠재력중시...",
-    "[2027수시특집]고려대2713명(62.5%)'확대'..반도체공학과(하닉)40명...",
     "\"中,반도체패키징서치고나올수도…국가차원메모리팹'올인'은위...",
     "[연합뉴스이시각헤드라인]-18:00",
     "[사설]'엇박자'당연시하는노동부장관…부처논리넘어서야",
@@ -3546,10 +3536,12 @@
     "“메모리주급락끝났다”…모건스탠리,삼전·SK하닉재조명",
     "“계약직전이었다”말디니,펩과르디올라협상과정비하인드언급·...",
     "모건스탠리\"메모리반도체주급락마무리…현주가재진입기회\"",
-    "충북대'서울대10개만들기'도전..\"반도체"
+    "충북대'서울대10개만들기'도전..\"반도체",
+    "SK하이닉스통합노조설립추진…성과급갈등에3500명결집",
+    "한국남동발전,하이닉스에전력공급한다"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T20:55:21.224389+09:00"
+   "last_run": "2026-08-09T21:00:43.558057+09:00"
   }
  },
  "press_names": {
