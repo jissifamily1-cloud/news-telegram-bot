@@ -250,16 +250,37 @@
     [
      "2026-08-09T23:50:28.987335+09:00",
      "청주 M17에 19조1000억원 생산기지 확충 낸드 투자 SK하이닉스"
+    ],
+    [
+     "2026-08-10T00:05:22.930735+09:00",
+     "우리투자증권 1조 실탄 박차 전업계 추격하 종투사 도약 성장 속도"
+    ],
+    [
+     "2026-08-10T00:05:22.930735+09:00",
+     "생산적 이환주 KB국민은행장 체질 성과 과제 자본효율"
+    ],
+    [
+     "2026-08-10T00:05:22.930735+09:00",
+     "집의 가치 브랜드 원베일리까지 바꾼 신원개발 인수서 건설 래미안이"
+    ],
+    [
+     "2026-08-10T00:05:22.930735+09:00",
+     "커진다 성장엔진 재편 존재감 통신3사 데이터센터"
+    ],
+    [
+     "2026-08-10T00:05:22.930735+09:00",
+     "자들에게 약한가 처벌은 유출한 산업기술"
+    ],
+    [
+     "2026-08-10T00:05:22.930735+09:00",
+     "바이오 대형 8월 IT 차익실현속 자동차 금융 첫째주"
+    ],
+    [
+     "2026-08-10T00:05:22.930735+09:00",
+     "시그널 신규 청약 금리 연준 유니트리"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=07832646645545024",
-    "https://biz.heraldcorp.com/article/10834226",
-    "https://www.aitimes.com/news/articleView.html?idxno=213662",
-    "https://www.mk.co.kr/article/12121223",
-    "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307237",
-    "https://www.sedaily.com/article/20077103",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=07872006645545024",
     "https://www.junggi.co.kr/news/articleView.html?idxno=37387",
     "http://www.00news.co.kr/news/articleView.html?idxno=105720",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=07904806645545024",
@@ -1752,16 +1773,16 @@
     "https://www.ccdailynews.com/news/articleView.html?idxno=2433128",
     "https://www.ccdailynews.com/news/articleView.html?idxno=2433142",
     "https://www.ccdailynews.com/news/articleView.html?idxno=2433126",
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=390062"
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=390062",
+    "https://www.fntimes.com/html/view.php?ud=20260807231615856dd55077bc2_18",
+    "https://www.fntimes.com/html/view.php?ud=202608072309447709dd55077bc2_18",
+    "https://www.fntimes.com/html/view.php?ud=202608080027313933dd55077bc2_18",
+    "https://news.tf.co.kr/read/economy/2351751.htm",
+    "https://www.gokorea.kr/news/articleView.html?idxno=874523",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=84482",
+    "https://www.newspim.com/news/view/20260809000135"
    ],
    "seen_titles": [
-    "[Today'sSignal]HormuzRiskIsReshapingtheCostofKorea'sAIandChi",
-    "전남광주,해남에국내최대400MW태양광단지…6807억원투입",
-    "넥스트레이드,프리마켓상·하한가주문한시적금지",
-    "[포토]김재희,신중하게볼을놓는다",
-    "‘298만→149만원’주가반토막났지만“믿는건반도체”…개미들폭...",
-    "엔비디아,'루빈울트라'메모리사양축소검토...HBM4E수급난항여파",
-    "코스피폭락경고8배급증…이번엔샌디공포[플러스관심종목]",
     "美,폴리실리콘에최저수입가격도입…韓반도체·태양광전방위영향권",
     "SK하이닉스,자사주1.2억원처분…“사외이사주식보상”",
     "[포토]김재희,폭염에도미소출발",
@@ -3254,10 +3275,17 @@
     "SK하이닉스청주캠퍼스,지역고교생에반도체현장개방",
     "레버리지청산에한국증시변동성진정되나",
     "SK하이닉스,청주M17에19조1000억원투자…낸드생산기지확충",
-    "애플,중국창신테크메모리반도체테스트…아이폰·맥북등에적용검..."
+    "애플,중국창신테크메모리반도체테스트…아이폰·맥북등에적용검...",
+    "'1조실탄'우리투자증권성장속도…종투사도약박차[전업계추격하...",
+    "이환주KB국민은행장,‘생산적’체질전환‘성과’…자본효율‘과제...",
+    "신원개발인수서원베일리까지…래미안이바꾼집의가치[건설브랜드...",
+    "통신3사성장엔진재편…'AI데이터센터'존재감커진다",
+    "\"산업기술유출한자들에게처벌은왜약한가\"",
+    "[증시프리즘]8월첫째주대형IT차익실현속금융·바이오·자동차'핀...",
+    "[중국증시주간포인트]①美연준금리시그널,유니트리신규청약,메..."
    ],
    "initialized": true,
-   "last_run": "2026-08-10T00:00:41.148491+09:00"
+   "last_run": "2026-08-10T00:05:22.930735+09:00"
   }
  },
  "press_names": {
