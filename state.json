@@ -490,13 +490,13 @@
     [
      "2026-08-10T07:55:22.516392+09:00",
      "레버리지 청산으로 한국증시 가능성 변동성 블룸버그 일단락"
+    ],
+    [
+     "2026-08-10T08:00:43.021505+09:00",
+     "설립 지분 노조 쏠린 SK하이닉스 삼성전자 매각"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20077045",
-    "https://www.kukinews.com/article/view/kuk202608070148",
-    "https://www.hankyung.com/article/2026080712611",
-    "https://www.ddaily.co.kr/page/view/2026080617484427754",
     "https://www.joongang.co.kr/article/25451785",
     "https://www.khan.co.kr/article/202608080600011",
     "https://www.newsis.com/view/NISX20260807_0003741163",
@@ -1992,13 +1992,13 @@
     "https://kpenews.com/View.aspx?No=4179864",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608051506584200102262",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4429303",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=142803"
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=142803",
+    "http://www.issuenbiz.com/news/articleView.html?idxno=78550",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=877411",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=280822",
+    "https://www.etoday.co.kr/news/view/2612548"
    ],
    "seen_titles": [
-    "李대통령초강경부동산정책에…추미애'경기도재정위기론'솔솔",
-    "[美증시]'고용악화가호재'3대지수동반상승…스페이X폭등에나스닥...",
-    "[주간증시전망]코스피,급락후반등세이어갈까…美CPI·외국인수급...",
-    "AI반도체에밀린일본…한국·대만에상반기수출첫추월",
     "‘과거와달라진증권사’1만피외침멈췄다",
     "한달만에22%폭락한코스피…\"지금이라도팔까버틸까\"",
     "[PLAYIT]‘루이?위!’불어번역시켜보니…번역은‘글쎄’",
@@ -3494,10 +3494,14 @@
     "SKT,장기고객에감사직접전해..‘테이블데이’서울행사성료",
     "[더벨][thebellnote]AIDC는구원투수가될수있을까",
     "대형주쉬어갈때뛴다…코스닥강세장공식재가동",
-    "블룸버그\"레버리지청산으로한국증시변동성일단락가능성\""
+    "블룸버그\"레버리지청산으로한국증시변동성일단락가능성\"",
+    "코스피·코스닥,전거래일(7일)주요공시",
+    "모건스탠리\"메모리주,급격한조정국면마무리…재진입매력적\"",
+    "재산분할9440억원최태원-노소영,다음주초재상고안하면확정",
+    "[증시키워드]SK하이닉스,'노조설립·지분매각'에쏠린눈…삼성전자..."
    ],
    "initialized": true,
-   "last_run": "2026-08-10T07:55:22.516392+09:00"
+   "last_run": "2026-08-10T08:00:43.021505+09:00"
   }
  },
  "press_names": {
