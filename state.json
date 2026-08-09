@@ -538,12 +538,17 @@
     [
      "2026-08-09T12:51:36.769434+09:00",
      "아파트 요원 건축허가 용인반도체일반산단 났는데 첫삽 오피스텔"
+    ],
+    [
+     "2026-08-09T12:55:20.912138+09:00",
+     "10일 2차 속도전 민관합동 3대 나선 점검회의 메가"
+    ],
+    [
+     "2026-08-09T12:55:20.912138+09:00",
+     "조국 5일제 이재명 때린 대선공약 실현이 산업장관"
     ]
    ],
    "seen_urls": [
-    "https://www.kado.net/news/articleView.html?idxno=2065472",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=314717",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=93449",
     "https://www.viewsnnews.com/article?q=237750",
     "https://www.ekn.kr/web/view.php?key=20260807024580654",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=265479",
@@ -2040,12 +2045,12 @@
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4099721",
     "https://www.etnews.com/20260809000065",
     "https://www.joongangenews.com/news/articleView.html?idxno=538737",
-    "https://www.kyeongin.com/article/1768670"
+    "https://www.kyeongin.com/article/1768670",
+    "https://zdnet.co.kr/view/?no=20260809125208",
+    "http://www.inews24.com/view/1993203",
+    "https://www.dt.co.kr/article/12077214"
    ],
    "seen_titles": [
-    "[탐사경]SK하이닉스,기술은더강해지는데주가는왜부진할까...'AI황...",
-    "[위클리오늘]산업일반소식_ADT캡스,한화호텔앤드리조트(8.7)",
-    "경상흑자500억달러인데…원화왜못웃나",
     "AI수요에D램공급난…난야·CXMT대규모증설로시장판도흔든다",
     "SK하이닉스,주당375원분기배당…\"3분기중주주환원방안확정\"",
     "코스피,이틀연속하락해6200대마감…코스닥엿새만에반락",
@@ -3542,10 +3547,13 @@
     "최태원,노소영에9440억지급하나…9년재산분할소송'마침표'임박",
     "“韓증시변동성완화”주목한블룸버그…레버리지청산,망한투자자...",
     "1560원찍고한달새140원급락...환율변동성금융위기이후최대",
-    "용인반도체일반산단오피스텔·아파트건축허가났는데‘첫삽’요원"
+    "용인반도체일반산단오피스텔·아파트건축허가났는데‘첫삽’요원",
+    "[ZD브리핑]3대메가프로젝트2차점검회의...독파모국민평가단참여",
+    "3대메가'속도전'나선李…10일2차민관합동점검회의",
+    "산업장관때린조국“주4.5일제실현이이재명대선공약”"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T12:51:36.769434+09:00"
+   "last_run": "2026-08-09T12:55:20.912138+09:00"
   }
  },
  "press_names": {
