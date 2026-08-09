@@ -373,7 +373,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12120829",
     "https://www.newsis.com/view/NISX20260807_0003740425",
     "https://www.huffingtonpost.kr/article/259351",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690969",
@@ -1872,10 +1871,10 @@
     "https://www.dt.co.kr/article/12077171",
     "https://www.segye.com/newsView/20260809504508?OutUrl=naver",
     "https://zdnet.co.kr/view/?no=20260809085350",
-    "https://www.g-enews.com/view.php?ud=202608090746456562fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202608090746456562fbbec65dfb_1",
+    "https://biz.sbs.co.kr/article_hub/20000327479?division=NAVER"
    ],
    "seen_titles": [
-    "[직설]사이드카일상화된변동성장세…예측불가증시,어디까지흔...",
     "미소금융상반기공급1612억원…영세자영업자·청년지원확대",
     "SK이노베이션,가족돌봄아동34명초청해진로탐색지원",
     "‘10조’레버리지자금이탈…코스닥반등신호탄될까",
@@ -3374,10 +3373,11 @@
     "‘성과급불만’SK하이닉스,새통합노조출범임박",
     "단일종목레버리지하지말랬더니…반도체레버리지로옮겨간투자자들",
     "CEO가직접인사...SKT,장기가입자400명에셰프요리대접",
-    "대만윈본드,2030년메모리장기계약쇄도…2027년쇼티지심화"
+    "대만윈본드,2030년메모리장기계약쇄도…2027년쇼티지심화",
+    "SK하이닉스통합노조설립추진…성과급갈등에임직원결집"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T08:55:21.634918+09:00"
+   "last_run": "2026-08-09T09:00:48.626433+09:00"
   }
  },
  "press_names": {
