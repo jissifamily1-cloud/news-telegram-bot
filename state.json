@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-09T09:40:28.028938+09:00",
-     "고정배당 000원 계산 과자 블라인드 500원 연간 SK하이닉스"
-    ],
-    [
      "2026-08-09T09:50:31.014289+09:00",
      "역할론 전력반도체 제기 달렸다 정부 성패 삼성에"
     ],
@@ -570,14 +566,17 @@
     [
      "2026-08-09T15:40:27.501864+09:00",
      "성장 LG헬로비전 독자 없는 빨간불 IPTV"
+    ],
+    [
+     "2026-08-09T15:45:33.287486+09:00",
+     "올해 대만 처음으로 한국과 제쳤다 상반기 수출액에서 일본을"
+    ],
+    [
+     "2026-08-09T15:45:33.287486+09:00",
+     "국장 이제 급변동 가능성 증시 일단락 대혼란"
     ]
    ],
    "seen_urls": [
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=390015",
-    "https://biz.heraldcorp.com/article/10834493",
-    "https://www.gokorea.kr/news/articleView.html?idxno=874425",
-    "https://www.sedaily.com/article/20077019",
-    "https://www.mk.co.kr/article/12121053",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608071644183880233",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=52015",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049219",
@@ -2072,14 +2071,14 @@
     "https://www.jnilbo.com/news/articleView.html?idxno=90000055474",
     "https://www.ziksir.com/news/articleView.html?idxno=142579",
     "https://www.newsis.com/view/NISX20260809_0003741804",
-    "http://www.metroseoul.co.kr/article/20260809500181"
+    "http://www.metroseoul.co.kr/article/20260809500181",
+    "https://www.hankyung.com/article/2026080926427",
+    "https://www.wikitree.co.kr/articles/1151324",
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5211232",
+    "https://www.huffingtonpost.kr/article/259399",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632200"
    ],
    "seen_titles": [
-    "美폴리실리콘관세에한화솔루션·OCI홀딩스11%급등…2차전지주도강...",
-    "넥스트레이드12일부터프리마켓상·하한가주문한시적금지,가격왜...",
-    "점유율1.6%대만난야,15조원투자EUV공장건설",
-    "코스피,외국인'팔자'에하락전환6,250선…코스닥도6일만에꺾였다",
-    "SK하이닉스,주당375원현금배당결정…“주주환원방안9월내발표”",
     "SK하이닉스,2천733억현금배당발표…주주환원정책앞당긴다",
     "하이닉스급락속2차전지·바이오선방…낙폭축소코스피6250선마감...",
     "“AI메모리수요선제대응”…SK하이닉스,용인Y2·청주M17에54조원...",
@@ -3574,10 +3573,15 @@
     "박선원\"광주군공항이전지연시반도체투자차질\"",
     "9440억원재산분할판결…최태원·노소영재상고주목",
     "고강도'레버리지규제'…\"지수·해외상품'풍선효과'지켜봐야\"",
-    "IPTV없는LG헬로비전,독자성장'빨간불'"
+    "IPTV없는LG헬로비전,독자성장'빨간불'",
+    "1600원코앞이더니1300원?…환율변동성금융위기이후'최대'",
+    "SK하이닉스비밀빼내중국회사에넘긴전직원,2심서도일부무죄적...",
+    "블룸버그\"한국증시변동성진정단계…한국주식저평가\"",
+    "한국과대만,올해상반기총수출액에서처음으로일본을제쳤다:AI반...",
+    "국장‘대혼란’이제끝?…“증시급변동일단락가능성”[지금뉴스]"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T15:40:27.501864+09:00"
+   "last_run": "2026-08-09T15:45:33.287486+09:00"
   }
  },
  "press_names": {
