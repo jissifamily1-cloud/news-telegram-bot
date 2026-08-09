@@ -573,9 +573,6 @@
     ]
    ],
    "seen_urls": [
-    "https://ilyo.co.kr/?ac=article_view&entry_id=512199",
-    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005896354",
-    "http://www.popcornnews.net/news/articleView.html?idxno=129047",
     "http://www.newstomato.com/ReadNews.aspx?no=1309603&inflow=N",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4429201",
     "https://biz.sbs.co.kr/article_hub/20000327389?division=NAVER",
@@ -2072,12 +2069,12 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02036886645545680",
     "https://www.ajunews.com/view/20260809133154615",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475656",
-    "https://news.tvchosun.com/site/data/html_dir/2026/08/09/2026080990074.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/08/09/2026080990074.html",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02079526645545680",
+    "https://news.jtbc.co.kr/article/NB12312401?influxDiv=NAVER",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=877395"
    ],
    "seen_titles": [
-    "SK하이닉스,주당375원분기배당…3분기내주주환원계획발표",
-    "중동긴장에반등실패한코스피···코스닥도0.36%↓",
-    "SK하이닉스,용인'Y2'팹과청주'M17'팹건설에54조투자결정",
     "(마감시황)코스피,엔비디아發악재에SK하이닉스약세…6,250선하락",
     "'삼전닉스'잔치에상대적박탈감…'반도체장비맨들'성과급투쟁시동",
     "SK하이닉스이틀째급락…외국인매도에5%가까이하락",
@@ -3574,10 +3571,13 @@
     "돌아온중소형주투심…코스닥레버리지ETF‘불기둥’[펀드와치]",
     "李,다음주800조반도체·부동산대책잇달아점검…어떤얘기오갈까",
     "\"외국인지갑다시열린다\"…파라다이스,카지노회복의변곡점",
-    "국민의힘\"관치금융,외국인투기세력도박장만들어…김용범경질하라..."
+    "국민의힘\"관치금융,외국인투기세력도박장만들어…김용범경질하라...",
+    "반도체독주끝?…“하반기전략,분산투자주목해야”[주톡피아]",
+    "조국\"김정관'중국996노동제'칭송,반인권·시대착오적\"",
+    "최태원,노소영에약1조원지급하나...다음주재상고안하면확정"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T14:37:04.131183+09:00"
+   "last_run": "2026-08-09T14:40:26.713621+09:00"
   }
  },
  "press_names": {
