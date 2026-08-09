@@ -534,11 +534,17 @@
     [
      "2026-08-09T21:00:43.558057+09:00",
      "공급한다 하이닉스에 한국남동발전 전력"
+    ],
+    [
+     "2026-08-09T21:02:10.191989+09:00",
+     "노동시간 개악 수당 연구개발자 비판 축소 고소득 늘리고 이중"
+    ],
+    [
+     "2026-08-09T21:02:10.191989+09:00",
+     "FC 7경기 원정 연속 무패 제주SK 승리"
     ]
    ],
    "seen_urls": [
-    "https://www.veritas-a.com/news/articleView.html?idxno=614788",
-    "https://bizhankook.com/articles/ai-hacker-era-korea-response.html",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=849656",
     "https://economist.co.kr/article/view/ecn202608070041",
     "https://www.1conomynews.co.kr/news/articleView.html?idxno=49915",
@@ -2036,11 +2042,11 @@
     "https://www.g-enews.com/view.php?ud=20260809203109351cd0bfacc1c_1",
     "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260809&SEQUENCE=3404",
     "https://www.sedaily.com/article/20077427",
-    "http://www.gnmaeil.com/news/articleView.html?idxno=592363"
+    "http://www.gnmaeil.com/news/articleView.html?idxno=592363",
+    "https://www.khan.co.kr/article/202608092100005",
+    "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026080920590020564?feed=na"
    ],
    "seen_titles": [
-    "\"中,반도체패키징서치고나올수도…국가차원메모리팹'올인'은위...",
-    "[연합뉴스이시각헤드라인]-18:00",
     "[사설]'엇박자'당연시하는노동부장관…부처논리넘어서야",
     "[2027수시특집]한양대\"완성된결과가아닌성장가능성에주목\"",
     "[미토스쇼크]③AI대해킹시대,우리는어떻게대응하고있나",
@@ -3538,10 +3544,12 @@
     "모건스탠리\"메모리반도체주급락마무리…현주가재진입기회\"",
     "충북대'서울대10개만들기'도전..\"반도체",
     "SK하이닉스통합노조설립추진…성과급갈등에3500명결집",
-    "한국남동발전,하이닉스에전력공급한다"
+    "한국남동발전,하이닉스에전력공급한다",
+    "고소득연구개발자노동시간늘리고수당축소…‘이중개악’비판",
+    "제주SKFC원정승리..7경기연속무패"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T21:00:43.558057+09:00"
+   "last_run": "2026-08-09T21:02:10.191989+09:00"
   }
  },
  "press_names": {
