@@ -150,11 +150,17 @@
     [
      "2026-08-10T04:25:25.317370+09:00",
      "메모리주 진단 구간 삼전닉스 끝났다 재진입 모건스탠리 급락"
+    ],
+    [
+     "2026-08-10T04:30:42.031000+09:00",
+     "테스트 애플 창신메모리"
+    ],
+    [
+     "2026-08-10T04:30:42.031000+09:00",
+     "레버리지 걷어내 비상장 시추에이셔널 투자 어웨어니스 투자자 무게"
     ]
    ],
    "seen_urls": [
-    "https://mhnse.com/news/articleView.html?idxno=1482640",
-    "https://mhnse.com/news/articleView.html?idxno=1482638",
     "https://mhnse.com/news/articleView.html?idxno=1482642",
     "https://mhnse.com/news/articleView.html?idxno=1482635",
     "https://mhnse.com/news/articleView.html?idxno=1482636",
@@ -1652,11 +1658,11 @@
     "https://www.etnews.com/20260810000023",
     "https://www.g-enews.com/view.php?ud=20260809145500562fbbec65dfb_1",
     "https://www.mt.co.kr/stock/2026/08/10/2026080919580535230",
-    "http://www.fnnews.com/news/202608092144264294"
+    "http://www.fnnews.com/news/202608092144264294",
+    "https://biz.sbs.co.kr/article_hub/20000327533?division=NAVER",
+    "https://biz.sbs.co.kr/article_hub/20000327532?division=NAVER"
    ],
    "seen_titles": [
-    "남동발전,국내최대400MW태양광착공…'RE100·지역상생'두토끼잡...",
-    "[주요공시]8월7일오후",
     "[mhn포토]김재희,우승정조준",
     "[mhn포토]김재희,하늘위뭘까요",
     "[mhn포토]김재희,뭔가요",
@@ -3154,10 +3160,12 @@
     "성수석이천시장,반도체교육센터찾아교육생격려",
     "AI투자성과확인기업76%…데이터준비됐다는6%뿐",
     "숨고르는코스피,눈쏠리는美금리·물가",
-    "모건스탠리\"메모리주급락끝났다\"…삼전닉스,재진입구간진단"
+    "모건스탠리\"메모리주급락끝났다\"…삼전닉스,재진입구간진단",
+    "[글로벌비즈브리핑]\"애플,中창신메모리칩테스트\"外",
+    "시추에이셔널어웨어니스,레버리지걷어내비상장투자무게...투자자..."
    ],
    "initialized": true,
-   "last_run": "2026-08-10T04:25:25.317370+09:00"
+   "last_run": "2026-08-10T04:30:42.031000+09:00"
   }
  },
  "press_names": {
