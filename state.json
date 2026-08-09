@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-10T00:40:26.910479+09:00",
-     "극찬 수비 실수 매체도 김민재 선제골 프리시즌 맹활약 없었다"
-    ],
-    [
-     "2026-08-10T00:40:26.910479+09:00",
-     "뉴노멀인 반도체 5년짜리 계약이 까닭은 이젠"
-    ],
-    [
      "2026-08-10T00:45:26.176927+09:00",
      "특허침해조사 2번째 SK하이닉스 ITC 특허공세 모노리식3D 착수"
     ],
@@ -305,8 +297,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.kwangju.co.kr/article.php?aid=1786108583802056372",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=855380",
     "https://www.yna.co.kr/view/AKR20260807160400001?input=1195m",
     "https://wemakenews.co.kr/news/view.php?no=26000",
     "https://www.getnews.co.kr/news/articleView.html?idxno=877360",
@@ -1804,11 +1794,11 @@
     "https://www.g-enews.com/view.php?ud=202608100622389717fbbec65dfb_1",
     "https://biz.sbs.co.kr/article_hub/20000327540?division=NAVER",
     "https://www.labortoday.co.kr/news/articleView.html?idxno=236135",
-    "https://www.newsis.com/view/NISX20260809_0003741895"
+    "https://www.newsis.com/view/NISX20260809_0003741895",
+    "https://www.kyeonggi.com/article/20260810580001",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01744966645546008"
    ],
    "seen_titles": [
-    "SK하이닉스,주당375원분기배당…“3분기중추가주주환원방안발표...",
-    "삼전닉스레버리지ETF,예비심사에13일소요…대표지수형보다길어",
     "상법개정후배당기업48%↑…배당금1위이재용,2·3위는?",
     "정청래“전남광주시반도체클러스터신속추진”",
     "전남광주,해남서국내최대400MW태양광착공",
@@ -3306,10 +3296,12 @@
     "글로벌메모리3사,2027년HBM·DRAM물량할당완료",
     "메모리주바닥쳤나?…\"'코스피널뛰기'마무리단계\"[글로벌뉴스픽]",
     "생산직·사무직SK하이닉스통합노조추진",
-    "축구협회,성접대논란사과…\"쇄신의기회로삼겠다\"[간추린주말뉴스..."
+    "축구협회,성접대논란사과…\"쇄신의기회로삼겠다\"[간추린주말뉴스...",
+    "이재명대통령,3대메가프로젝트‘속도전’…군공항이전·52시간‘핵...",
+    "\"애플,中CXMT메모리테스트…부품공급논의중\""
    ],
    "initialized": true,
-   "last_run": "2026-08-10T06:35:22.237504+09:00"
+   "last_run": "2026-08-10T06:40:28.565746+09:00"
   }
  },
  "press_names": {
