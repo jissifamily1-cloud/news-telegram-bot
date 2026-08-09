@@ -462,12 +462,13 @@
     [
      "2026-08-09T09:40:28.028938+09:00",
      "고정배당 000원 계산 과자 블라인드 500원 연간 SK하이닉스"
+    ],
+    [
+     "2026-08-09T09:50:31.014289+09:00",
+     "역할론 전력반도체 제기 달렸다 정부 성패 삼성에"
     ]
    ],
    "seen_urls": [
-    "https://news.ifm.kr/news/articleView.html?idxno=476712",
-    "http://www.newstomato.com/ReadNews.aspx?no=1309580&inflow=N",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475337",
     "https://www.womentimes.co.kr/news/articleView.html?idxno=105085",
     "https://www.the-today.com/news/articleView.html?idxno=88219",
     "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608070393&t=NNv",
@@ -1964,12 +1965,12 @@
     "https://zdnet.co.kr/view/?no=20260809084027",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696574&plink=ORI&cooper=NAVER",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=87697",
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5211177"
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5211177",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260809094516UWz",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01252966645545680",
+    "https://www.dt.co.kr/article/12077187"
    ],
    "seen_titles": [
-    "[산업브리핑]LG·CJ·SK하이닉스",
-    "한국·대만,올해상반기수출액첫일본추월",
-    "SK하이닉스,'FMS2026'서CXL기반차세대메모리기술선뵈",
     "SK하이닉스,'FMS2026'서차세대메모리아키텍처해법제시",
     "\"HBM단일제품으론한계\"…SK하이닉스,'계층형메모리'로AI판도바꾼...",
     "중국이어대만도설비투자…메모리‘삼국전쟁’",
@@ -3466,10 +3467,13 @@
     "\"SK하이닉스,4조원대中충칭공장지분매각검토\"",
     "독자AI파운데이션모델2차'4파전'…국가대표AI탈락팀은어디",
     "SKT,10년이상장기고객초청'테이블데이'서울행사성료",
-    "최태원,노소영에1조원주고9년소송끝낼까…17일까지재상고"
+    "최태원,노소영에1조원주고9년소송끝낼까…17일까지재상고",
+    "최태원,노소영에게1조지급하고소송끝내나…17일재상고기한",
+    "단일레버리지쏠림풀리자…코스닥레버리지‘불기둥’",
+    "“전력반도체성패,삼성에달렸다”…정부역할론제기"
    ],
    "initialized": true,
-   "last_run": "2026-08-09T09:45:26.507864+09:00"
+   "last_run": "2026-08-09T09:50:31.014289+09:00"
   }
  },
  "press_names": {
