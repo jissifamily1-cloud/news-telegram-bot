@@ -438,12 +438,21 @@
     [
      "2026-08-10T07:35:20.345456+09:00",
      "동전주 48곳 관리종목 상폐 무더기 지정 카운트다운"
+    ],
+    [
+     "2026-08-10T07:39:51.269990+09:00",
+     "한올바이오파마 CJ 휴젤 ENM"
+    ],
+    [
+     "2026-08-10T07:39:51.269990+09:00",
+     "특례 52시간 군공항 메가특구 맞물린 대통령 속도 내는 이전 모순"
+    ],
+    [
+     "2026-08-10T07:39:51.269990+09:00",
+     "창업 창립 65주년 회장이 한국경제인협회 맞아 이병철 만든 삼성"
     ]
    ],
    "seen_urls": [
-    "https://www.nocutnews.co.kr/news/6559985",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=269549",
-    "https://www.the-today.com/news/articleView.html?idxno=88237",
     "http://weekly.chosun.com/news/articleView.html?idxno=54097",
     "https://www.abcn.kr/news/articleView.html?idxno=90269",
     "http://www.fnnews.com/news/202608080534109868",
@@ -1940,12 +1949,12 @@
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690997",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690906",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=244779",
-    "https://www.ajunews.com/view/20260810011603174"
+    "https://www.ajunews.com/view/20260810011603174",
+    "https://www.etoday.co.kr/news/view/2612536",
+    "https://www.ziksir.com/news/articleView.html?idxno=142589",
+    "https://www.greened.kr/news/articleView.html?idxno=347203"
    ],
    "seen_titles": [
-    "[美증시]반도체혼조속메모리또'소외'…SK하이닉스·샌디스크하락",
-    "'팀K리그'축제마치고다시전장으로…K리그1'뜨거운'순위경쟁재개",
-    "'하닉-베선트'구원등판,환율1300원대복귀가능할까",
     "산업장관공세에도'노(No)'안하는노동장관…왜?",
     "[딜로이트글로벌경제리뷰]반도체'AI슈퍼사이클'이제기하는딜레...",
     "[솔리다임IPO3부작①]SK→SK스퀘어→SK하이닉스→솔리다임…미국IPO...",
@@ -3442,10 +3451,13 @@
     "통신사AIDC경쟁,운영기술이승부처...냉각·연결·전력효율집중",
     "파우치형배터리,열폭주관리기술로방산·로봇서부각",
     "[정재용칼럼]미리보는9월워싱턴미·중정상회담",
-    "[아주증시포커스]동전주상폐카운트다운…48곳무더기관리종목지정..."
+    "[아주증시포커스]동전주상폐카운트다운…48곳무더기관리종목지정...",
+    "[오늘의IR]CJENMㆍ휴젤ㆍ한올바이오파마등",
+    "메가특구속도내는李대통령…군공항이전·52시간특례'맞물린모순...",
+    "삼성이병철회장이만든한국경제인협회,창립65주년맞아끈'창업1..."
    ],
    "initialized": true,
-   "last_run": "2026-08-10T07:35:20.345456+09:00"
+   "last_run": "2026-08-10T07:39:51.269990+09:00"
   }
  },
  "press_names": {
