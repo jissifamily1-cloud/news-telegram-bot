@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-10T05:50:28.700839+09:00",
-     "투자전 올해엔 코스피 추천한 하반기 볼듯 다시 전문가가"
-    ],
-    [
-     "2026-08-10T05:50:28.700839+09:00",
-     "타이 주식 결국 전혀 속썩이는 모른다 반도체 매도 전문가들도"
-    ],
-    [
      "2026-08-10T05:55:21.112177+09:00",
      "판매제품에 아이폰 애플 시헝 CXMT 아이패드 적용 중국내 D램"
     ],
@@ -1314,15 +1306,21 @@
     [
      "2026-08-10T11:45:26.904886+09:00",
      "텅장 주요 복지예산 재정비상 선언 10월이후 추미애"
+    ],
+    [
+     "2026-08-10T11:50:29.609740+09:00",
+     "다국적 순수 연합팀 Water 우승 Blue 한국팀 0x4"
+    ],
+    [
+     "2026-08-10T11:50:29.609740+09:00",
+     "갈팡질팡 이혼 법원 세기의 소송서 보여준"
+    ],
+    [
+     "2026-08-10T11:50:29.609740+09:00",
+     "SK텔레콤 AI가 삼성전자 판단하는 RAN 실증 통신망"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202608090956161523fbbec65dfb_1",
-    "https://www.ajunews.com/view/20260809100943371",
-    "https://www.nocutnews.co.kr/news/6560149",
-    "http://www.fnnews.com/news/202608091043076317",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000001416&cp=nv",
-    "https://www.gokorea.kr/news/articleView.html?idxno=874518",
     "http://www.srtimes.kr/news/articleView.html?idxno=209470",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1719673",
     "https://www.gokorea.kr/news/articleView.html?idxno=874512",
@@ -2816,15 +2814,15 @@
     "https://www.munhwa.com/article/11608398",
     "https://biz.heraldcorp.com/article/10835941",
     "http://www.thevaluenews.co.kr/news/view.php?idx=200649",
-    "https://www.ytn.co.kr/_ln/0102_202608101132292670"
+    "https://www.ytn.co.kr/_ln/0102_202608101132292670",
+    "https://www.smartbizn.com/news/articleView.html?idxno=150794",
+    "https://www.etnews.com/20260810000200",
+    "https://www.newsis.com/view/NISX20260810_0003742549",
+    "https://www.dailysecu.com/news/articleView.html?idxno=207969",
+    "http://www.00news.co.kr/news/articleView.html?idxno=105741",
+    "https://www.kpinews.kr/newsView/1065577244362651"
    ],
    "seen_titles": [
-    "SK하이닉스통합노조설립본격화,성과급갈등에직원3500명결집",
-    "엔비디아,HBM수정검토…한국반도체영향은",
-    "최태원,노소영에재산분할액1조원지급하나…재상고17일까지",
-    "전남광주특별시,'통합발전공기업본사'유치전본격화",
-    "최태원·노소영'9440억재산분할'…17일재상고안하면'확정'",
-    "“성과급약속지켜라”…SK하닉통합노조신설추진",
     "코스피거래량급감…반도체대형주부진에시장'전전긍긍'",
     "성과급갈등SK하이닉스,생산·기술사무직통합노조설립추진",
     "코스닥레버리지로옮겨간단타자금…일주일새63%급등",
@@ -4318,10 +4316,16 @@
     "주식목표가중구난방…삼전닉스최대6.3배차이",
     "“저사양이라도”…빅테크의HBM구애",
     "[위클리ETF]8月1주차,‘SOLSK하이닉스선물단일종목인버스2X’수익...",
-    "\"주요복지예산10월이후'텅장'\"추미애'재정비상선언',왜?"
+    "\"주요복지예산10월이후'텅장'\"추미애'재정비상선언',왜?",
+    "통신망도AI로진화한다···AI-RAN,6G시대핵심인프라부상",
+    "'친환경'바이오연료의역설…팜계원료72%,공급망90%서'위험신호'",
+    "\"中CXMT,애플과칩공급협상\"…삼성·SK공급망까지뒤흔들까",
+    "[데프콘34CTF종합]다국적연합팀BlueWater우승...순수한국팀'0x4...",
+    "[기자의눈]세기의이혼소송서보여준갈팡질팡법원",
+    "AI가판단하는통신망…삼성전자·SK텔레콤,AI-RAN실증"
    ],
    "initialized": true,
-   "last_run": "2026-08-10T11:45:26.904886+09:00"
+   "last_run": "2026-08-10T11:50:29.609740+09:00"
   }
  },
  "press_names": {
