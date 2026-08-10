@@ -434,10 +434,13 @@
     [
      "2026-08-11T00:25:24.089209+09:00",
      "몰이에 반도체 민주당 800조 호남 동원된 대표"
+    ],
+    [
+     "2026-08-11T00:35:23.470495+09:00",
+     "거래 국내 소수점 카카오페이증권 주식 서비스"
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202608101038028872",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=308577",
     "https://biz.newdaily.co.kr/site/data/html/2026/08/10/2026081000081.html",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=84566",
@@ -1936,10 +1939,10 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008698966&plink=ORI&cooper=NAVER",
     "http://www.rightknow.co.kr/news/articleView.html?idxno=34536",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000001979&cp=nv",
-    "https://www.chosun.com/opinion/editorial/2026/08/11/XE4QUZVNBRDIDIWUQLCBZF3YRA/"
+    "https://www.chosun.com/opinion/editorial/2026/08/11/XE4QUZVNBRDIDIWUQLCBZF3YRA/",
+    "https://www.donga.com/news/Economy/article/all/20260810/134452456/2"
    ],
    "seen_titles": [
-    "코스닥질주에'매수사이드카'…코스피는1%대반등[fn오전시황]",
     "코스닥지수,개별종목레버리지ETF손질뒤랠리",
     "코스피주춤하니코스닥'훨훨'…6%대급등에매수사이드카",
     "[증시오늘(10일)주요특징주]코스피·코스닥동반상승…알테오젠·산...",
@@ -3438,10 +3441,11 @@
     "코스피는힘못쓰는데…코스닥'급등'이유는?",
     "최태원·노소영9440억원재산분할…재상고여부'마지막변수'",
     "[금융뒷담]그들이‘픽’하면오른다‘선행매매’의혹",
-    "[사설]민주당대표표몰이에동원된800조호남반도체"
+    "[사설]민주당대표표몰이에동원된800조호남반도체",
+    "[단신]카카오페이증권,국내주식소수점거래서비스外"
    ],
    "initialized": true,
-   "last_run": "2026-08-11T00:30:39.705950+09:00"
+   "last_run": "2026-08-11T00:35:23.470495+09:00"
   }
  },
  "press_names": {
