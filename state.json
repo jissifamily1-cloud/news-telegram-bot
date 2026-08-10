@@ -414,10 +414,13 @@
     [
      "2026-08-11T00:45:38.290270+09:00",
      "코스피 정책의 명과"
+    ],
+    [
+     "2026-08-11T00:55:23.420552+09:00",
+     "개막 시즌 270경기 4월11일까지 10월3일 2027년 KBL"
     ]
    ],
    "seen_urls": [
-    "https://www.newscj.com/news/articleView.html?idxno=3423756",
     "https://www.ntoday.co.kr/news/articleView.html?idxno=128652",
     "https://www.cwn.kr/news/articleView.html?idxno=52710",
     "http://www.inews24.com/view/1993278",
@@ -1916,10 +1919,10 @@
     "https://www.chosun.com/economy/tech_it/2026/08/11/YPX32KANU5A4JMHRUJ55NVB6WE/",
     "https://www.ekn.kr/web/view.php?key=20260811023511387",
     "https://www.ekn.kr/web/view.php?key=20260811029231418",
-    "https://www.hankyung.com/article/2026081050341"
+    "https://www.hankyung.com/article/2026081050341",
+    "https://www.segye.com/newsView/20260811500437?OutUrl=naver"
    ],
    "seen_titles": [
-    "갤럭시Z8사전판매30%↑…폴드8,1030·여성층까지넓혔다",
     "[마켓펄스]\"바이오로순환매\"...코스닥6%강세에'매수사이드카'",
     "추미애경기도지사,삼성·SK하이닉스에폐수감축재차요구",
     "삼성·SK하이닉스,美핫칩스서차세대HBM기술맞대결",
@@ -3418,10 +3421,11 @@
     "엔비디아차세대AI플랫폼‘베라루빈’1개원가5540만원에서메모리...",
     "[패트롤]경기도-경기도교육청-경기주택도시공사",
     "[패트롤]성남시-용인시-이천시-경기광주시-여주시",
-    "[양준영칼럼]'코스피5000'정책의명과암"
+    "[양준영칼럼]'코스피5000'정책의명과암",
+    "KBL,10월3일새시즌개막…2027년4월11일까지270경기"
    ],
    "initialized": true,
-   "last_run": "2026-08-11T00:50:37.328820+09:00"
+   "last_run": "2026-08-11T00:55:23.420552+09:00"
   }
  },
  "press_names": {
