@@ -422,13 +422,21 @@
     [
      "2026-08-11T06:20:30.533191+09:00",
      "청구서 고령자 요금 시각장애인 들어요 이젠 소리로"
+    ],
+    [
+     "2026-08-11T06:24:19.458127+09:00",
+     "가시권 달여 140원 달러 만에 1300원대 재진입"
+    ],
+    [
+     "2026-08-11T06:24:19.458127+09:00",
+     "현금 1위 삼성 우리운용 넘치는 혈전 시장 제치고 법인MMF"
+    ],
+    [
+     "2026-08-11T06:24:19.458127+09:00",
+     "710조원 조달 인프라 투자 월가와 엔비디아 확대 손잡고"
     ]
    ],
    "seen_urls": [
-    "http://www.celuvmedia.com/article.php?aid=1786327966525437005",
-    "https://www.yna.co.kr/view/AKR20260810064000008?input=1195m",
-    "https://www.cwn.kr/news/articleView.html?idxno=52706",
-    "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260810&SEQUENCE=0106",
     "https://www.newsis.com/view/NISX20260810_0003742555",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008697894&plink=ORI&cooper=NAVER",
     "https://www.mk.co.kr/article/12122667",
@@ -1924,13 +1932,13 @@
     "https://www.news1.kr/local/gwangju-jeonnam/6254494",
     "https://www.news1.kr/industry/general-industry/6254721",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6843796_37012.html",
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=761153"
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=761153",
+    "https://www.newstopkorea.com/news/articleView.html?idxno=46914",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608101443167800444",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092167699",
+    "http://www.inews24.com/view/1993692"
    ],
    "seen_titles": [
-    "전야구선수엄정욱,♥지안과결혼앞두고\"나쁜소식은없을예정\"[셀...",
-    "코스피,1%상승…코스닥은한때6.78%오르며매수사이드카",
-    "갤럭시Z8사전판매30%급증...폴드8앞세워글로벌흥행시동",
-    "충북도·교육청·하이닉스등청소년AI심리상담공동추진",
     "中'유니트리'증시입성…韓로봇주에호재일까악재일까",
     "남자농구대표팀,'에이스'이현중일본원정제외…12명참가",
     "Korea’sequipmentimportssurgenearly43%Jan.-May",
@@ -3426,10 +3434,14 @@
     "李대통령,호남반도체전격전선언…삼전·하닉'로드맵'주목",
     "정부가길닦는다…삼성전자·SK하이닉스반도체투자속도붙나",
     "\"호남반도체전격전‥군공항2년내이전\"",
-    "[소소한경영]요금청구서,이젠소리로들어요…시각장애인·고령자..."
+    "[소소한경영]요금청구서,이젠소리로들어요…시각장애인·고령자...",
+    "[기자수첩]레버리지ETF손실,정부는예견못했을까",
+    "원·달러,한달여만에140원‘뚝’…1300원대재진입가시권",
+    "넘치는현금,법인MMF시장혈전…우리운용,삼성제치고1위",
+    "엔비디아,월가와손잡고710조원조달추진⋯AI인프라투자확대"
    ],
    "initialized": true,
-   "last_run": "2026-08-11T06:20:30.533191+09:00"
+   "last_run": "2026-08-11T06:24:19.458127+09:00"
   }
  },
  "press_names": {
