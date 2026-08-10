@@ -310,11 +310,17 @@
     [
      "2026-08-11T05:35:30.084199+09:00",
      "갇힌 유동성 ETF 댐에"
+    ],
+    [
+     "2026-08-11T05:40:30.883528+09:00",
+     "조정 스페이스X 급등 지수 비관론에 3일째 3대 이란종전"
+    ],
+    [
+     "2026-08-11T05:40:30.883528+09:00",
+     "반토막에 일자리 증가 연체 고령층 급증 청년 마통"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2612723",
-    "https://www.newspim.com/news/view/20260810000328",
     "https://www.hankyung.com/article/202608104009i",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=361480",
     "https://www.ziksir.com/news/articleView.html?idxno=142643",
@@ -1812,11 +1818,11 @@
     "https://www.enetnews.co.kr/news/articleView.html?idxno=53250",
     "https://www.dt.co.kr/article/12077535",
     "https://www.chosun.com/economy/money/2026/08/11/I66SZZKR75D5JNR73OUAVGQIBI/",
-    "https://www.mt.co.kr/stock/2026/08/11/2026081010353572080"
+    "https://www.mt.co.kr/stock/2026/08/11/2026081010353572080",
+    "https://www.mediapen.com/news/view/1115504",
+    "https://www.mhns.co.kr/news/articleView.html?idxno=756103"
    ],
    "seen_titles": [
-    "최태원·노소영'9440억분할'판결,이번주재상고여부주목",
-    "'중년남성폰'벗어난Z폴드8…美30%↑·1030여성도몰렸다",
     "100원에화장품득템?…무신사·컬리·에이블리한꺼번에작정했다",
     "삼전,SK하이닉스맹추격…HBM시장2년뒤대격변",
     "애플,中CXMT메모리테스트…삼성·SK공급망변수",
@@ -3314,10 +3320,12 @@
     "[브랜드평판]SK텔레콤,통신상장기업8월1위...KT,LG유플러스뒤이...",
     "삼전닉스,외국인‘싹쓸이매도’에흔들…증권가“주주환원이향방...",
     "“어쩌면마지막매수기회,은행주팔아삼전닉스올라타라”",
-    "[우보세]ETF댐에갇힌유동성"
+    "[우보세]ETF댐에갇힌유동성",
+    "[美증시]이란종전비관론에3대지수조정…스페이스X3일째급등",
+    "[박근종칼럼]일자리증가폭반토막에청년·고령층'마통'연체급증..."
    ],
    "initialized": true,
-   "last_run": "2026-08-11T05:35:30.084199+09:00"
+   "last_run": "2026-08-11T05:40:30.883528+09:00"
   }
  },
  "press_names": {
