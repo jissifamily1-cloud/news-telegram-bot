@@ -458,10 +458,13 @@
     [
      "2026-08-11T00:10:30.765192+09:00",
      "반도체 호남권 괜찮나 전력망 AI센터보다 50배"
+    ],
+    [
+     "2026-08-11T00:15:27.201411+09:00",
+     "SK하이닉스 기회 매체가 주목한 오히려 주가 하락은"
     ]
    ],
    "seen_urls": [
-    "https://www.techm.kr/news/articleView.html?idxno=154135",
     "https://economychosun.com/site/data/html_dir/2026/08/01/2026080100022.html",
     "https://www.newspim.com/news/view/20260810000423",
     "https://www.spotvnews.co.kr/news/articleView.html?idxno=833832",
@@ -1960,10 +1963,10 @@
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=84641",
     "https://www.kwnews.co.kr/article/20260809500752",
     "https://www.kado.net/news/articleView.html?idxno=2065982",
-    "http://www.gjdream.com/news/articleView.html?idxno=671667"
+    "http://www.gjdream.com/news/articleView.html?idxno=671667",
+    "https://www.newsis.com/view/NISX20260810_0003742857"
    ],
    "seen_titles": [
-    "\"AI,어디까지활용가능하니?\"...LG·SKT독파모2단계경쟁'박차'",
     "[사상첫연이틀서킷브레이커,코스피시총865조원증발]한달새수...",
     "엠엑스온,엠엑스로보틱스에100억원추가출자",
     "KBO사상최고강속구투수,♥배우아내맞는다…\"나쁜소식은없을것...",
@@ -3462,10 +3465,11 @@
     "[심층분석]\"코스닥싹쓸이vs코스피이탈\"…10일수급주체별매매동...",
     "[특집]취임한달김중남강릉시장“민생살리고AI·바이오로강릉미...",
     "\"아시아남자주니어핸드볼정상우뚝\"박현종호축하행사참석",
-    "AI센터보다50배…호남권반도체전력망괜찮나"
+    "AI센터보다50배…호남권반도체전력망괜찮나",
+    "\"주가하락은오히려기회\"…美매체가주목한SK하이닉스"
    ],
    "initialized": true,
-   "last_run": "2026-08-11T00:10:30.765192+09:00"
+   "last_run": "2026-08-11T00:15:27.201411+09:00"
   }
  },
  "press_names": {
