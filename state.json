@@ -254,10 +254,13 @@
     [
      "2026-08-11T03:45:27.728105+09:00",
      "낸드로 HBF 성장동력 QLC 샌디스크 모색"
+    ],
+    [
+     "2026-08-11T04:00:42.127579+09:00",
+     "아킬레스건 니켈 의존도 배터리 산업의 높은 인니"
     ]
    ],
    "seen_urls": [
-    "https://www.cnbizm.com/news/articleView.html?idxno=311001",
     "https://www.lecturernews.com/news/articleView.html?idxno=208151",
     "https://www.hankookilbo.com/news/article/A2026081010300004127?did=NA",
     "https://www.g-enews.com/view.php?ud=202608100922066602923c501012_1",
@@ -1756,10 +1759,10 @@
     "https://www.g-enews.com/view.php?ud=202608101555456998fbbec65dfb_1",
     "https://www.tokenpost.kr/news/cryptocurrency/387891",
     "https://www.newspim.com/news/view/20260811000025",
-    "https://www.stnsports.co.kr/news/articleView.html?idxno=320688"
+    "https://www.stnsports.co.kr/news/articleView.html?idxno=320688",
+    "http://weekly.chosun.com/news/articleView.html?idxno=54120"
    ],
    "seen_titles": [
-    "\"최대90%할인\"…컬리,올하반기첫'그랜드뷰티컬리페스타'개최",
     "[미국뉴욕증시]애플,중국산메모리칩시험적용…K-반도체·코스피에...",
     "李,삼성·SK와메가프로젝트점검...'주52시간예외적용'논의될까",
     "코스피,6300선회복출발…삼전·닉스2~3%대강세",
@@ -3258,10 +3261,11 @@
     "HBM12단서8단후퇴검토…삼성·SK수율이판가른다",
     "베일리기포드“TSMC·SK하이닉스,AI칩준독점”",
     "[GAM]샌디스크②HBF·QLC낸드로새성장동력모색",
-    "농구의겨울다시온다...KBL,10월3일부산서'점프볼'"
+    "농구의겨울다시온다...KBL,10월3일부산서'점프볼'",
+    "인니의존도높은니켈…韓배터리산업의아킬레스건"
    ],
    "initialized": true,
-   "last_run": "2026-08-11T03:55:29.803319+09:00"
+   "last_run": "2026-08-11T04:00:42.127579+09:00"
   }
  },
  "press_names": {
