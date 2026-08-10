@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-11T01:15:28.869995+09:00",
-     "서울 사이 주춤한 울산 3연승 질주"
-    ],
-    [
      "2026-08-11T02:10:31.377071+09:00",
      "3D 체질 바꿔야 가야할 유리기판 신소재 반도체"
     ],
@@ -482,10 +478,13 @@
     [
      "2026-08-11T07:15:27.796777+09:00",
      "자치구 승격 5개 뇌관 법인지방소득세 반도체산단 광주"
+    ],
+    [
+     "2026-08-11T07:20:28.760472+09:00",
+     "전기차 NCM 배터리는 보급형 3만달러 LFP 봇물 대신 미만"
     ]
    ],
    "seen_urls": [
-    "https://www.munhwa.com/article/11608418",
     "https://biz.sbs.co.kr/article_hub/20000327646?division=NAVER",
     "https://biz.chosun.com/policy/politics/assembly/2026/08/10/ZMIUMDWW2RAJ7FSVEW5PZGXWFU/",
     "https://www.joongang.co.kr/article/25452095",
@@ -1984,10 +1983,10 @@
     "https://www.newspim.com/news/view/20260810001001",
     "http://www.newsian.co.kr/news/articleView.html?idxno=93552",
     "http://www.econonews.co.kr/news/articleView.html?idxno=442629",
-    "https://www.news1.kr/local/gwangju-jeonnam/6254589"
+    "https://www.news1.kr/local/gwangju-jeonnam/6254589",
+    "https://www.news1.kr/industry/auto-industry/6254630"
    ],
    "seen_titles": [
-    "중국CXMT칩,아이폰적용시험중…메모리시장흔든다",
     "SK하이닉스성과급60%주식으로?…직원4천명결집",
     "장동혁“이재명정권1년국민재산거덜나...부동산정책부정평가5...",
     "추미애“삼성·SK하이닉스,반도체공정수방류최소화하라”",
@@ -3486,10 +3485,11 @@
     "[기고]대미투자,돈보다먼저살펴야할'두개의규제문'",
     "[초점]353조'메가투자'시동…이재명\"속도전넘어전격전\"",
     "뉴욕증시,미국과이란간협상교착등영향하락⋯애플1%대,엔비디아...",
-    "광주5개자치구,시승격뇌관'반도체산단법인지방소득세'"
+    "광주5개자치구,시승격뇌관'반도체산단법인지방소득세'",
+    "美'3만달러미만'보급형전기차봇물…배터리는韓NCM대신中LFP"
    ],
    "initialized": true,
-   "last_run": "2026-08-11T07:15:27.796777+09:00"
+   "last_run": "2026-08-11T07:20:28.760472+09:00"
   }
  },
  "press_names": {
