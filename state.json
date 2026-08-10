@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-10T08:50:30.410829+09:00",
-     "그냥 삼전닉스 수도 버티면 레버리지에 5년 걸릴 물렸다"
-    ],
-    [
      "2026-08-10T08:55:20.880434+09:00",
      "걷는다 후손이 SKT 독립기념관 딛고 광복 81주년 걷기 선열이"
     ],
@@ -1194,21 +1190,25 @@
     [
      "2026-08-10T14:45:29.984338+09:00",
      "승부수 SK하이닉스 미래 올인 패키징 팔고 메모리"
+    ],
+    [
+     "2026-08-10T14:50:32.415593+09:00",
+     "landscape bonuses in reshape union Korea Performance"
+    ],
+    [
+     "2026-08-10T14:50:32.415593+09:00",
+     "산업계 덮친 임단협 삼성 하이닉스 청구서"
+    ],
+    [
+     "2026-08-10T14:50:32.415593+09:00",
+     "1300원대 기대 위협하다 보험사도 1600원 눈앞 개선 숨통 킥스"
+    ],
+    [
+     "2026-08-10T14:50:32.415593+09:00",
+     "네카오 투자 달라진 카톡 카카오는 집중하나"
     ]
    ],
    "seen_urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282219",
-    "https://www.huffingtonpost.kr/article/259394",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475657",
-    "https://www.hankookilbo.com/news/article/A2026080913360000210?did=NA",
-    "https://www.kado.net/news/articleView.html?idxno=2065551",
-    "http://www.segyebiz.com/newsView/20260809510064?OutUrl=naver",
-    "https://www.huffingtonpost.kr/article/259395",
-    "http://www.jeonmin.co.kr/news/articleView.html?idxno=444830",
-    "https://www.mediatoday.co.kr/news/articleView.html?idxno=336313",
-    "https://www.dailian.co.kr/news/view/1676284/?sc=Naver",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260809145341Yfu",
-    "https://www.newsis.com/view/NISX20260809_0003741793",
     "https://www.kyeonggi.com/article/20260809580126",
     "https://www.newdaily.co.kr/site/data/html/2026/08/09/2026080900042.html",
     "https://biz.chosun.com/it-science/ict/2026/08/09/PV6IEM7YNRFE3ILMVS6NHXJNMI/",
@@ -2696,21 +2696,21 @@
     "http://www.4th.kr/news/articleView.html?idxno=2116075",
     "https://www.g-enews.com/view.php?ud=20260810143539585127fa31d75c_1",
     "http://www.yonhapnewstv.co.kr/news/MYH20260810143832hhc",
-    "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608100185&t=NNv"
+    "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608100185&t=NNv",
+    "https://www.mydaily.co.kr/page/view/2026081014362249930",
+    "https://www.news1.kr/finance/general-stock/6254238",
+    "https://www.news2day.co.kr/article/20260810500115",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=223539",
+    "http://www.dailypop.kr/news/articleView.html?idxno=101372",
+    "https://www.ppss.kr/news/articleView.html?idxno=304688",
+    "https://www.newsis.com/view/NISX20260810_0003743018",
+    "https://www.ytn.co.kr/_ln/0102_202608101443293564",
+    "https://www.mk.co.kr/article/12122832",
+    "https://www.startuptoday.co.kr/news/articleView.html?idxno=809239",
+    "https://biz.newdaily.co.kr/site/data/html/2026/08/10/2026081000187.html",
+    "https://www.dailian.co.kr/news/view/1676664/?sc=Naver"
    ],
    "seen_titles": [
-    "최태원,노소영에약1조원지급하나...다음주확정",
-    "\"환율한달평균47원떨어져…'롤러코스터'환율기업엔부담\"",
-    "SK하이닉스에성과급두고'노조통합'움직임,사흘만에임직원10%이...",
-    "주가는조정받았는데호텔은꽉찼다…서부T&D에무슨일?",
-    "SK하이닉스,중국충칭낸드플래시패키징공장지분매각하나",
-    "SK하이닉스'통합노조'설립움직임…성과급갈등에3500명결집",
-    "신한투자증권,역대급실적",
-    "경기도,반도체호황에도웃지못한다:추미애\"빈껍데기부자신세\"",
-    "전북현대,33개슈팅에도제주에1-3패…'결정력'에울었다",
-    "신문윤리위\"조선일보'반도체숫자부터내놔라'김용범말인양왜곡\"주...",
-    "나흘만에3800명…SK하이닉스,3개노조묶는통합노조추진",
-    "성과급불만관련SK하이닉스통합노조신설추진",
     "SK하이닉스,이르면이달주주환원책확정…주주가치제고속도",
     "\"재상고안하면확정\"...최태원·노소영,9년이혼소송마침표찍을까",
     "국민의힘\"관치금융,한국증시도박장만들어…ETF국정조사해야\"",
@@ -4198,10 +4198,22 @@
     "추미애,삼성·SK반도체폐수감축압박…\"감소노력안해\"",
     "호황과불황의반복에서'수주산업'으로…메모리LTA봇물",
     "[사건현장]폭염에노숙인몰리자…공항측“나가라”명령",
-    "SK하이닉스,미래승부수…패키징팔고AI메모리올인"
+    "SK하이닉스,미래승부수…패키징팔고AI메모리올인",
+    "최수종연극에뜬'9440억의주인공'노소영과이영애,대체어떤사이길...",
+    "\"삼전·닉스천원에쪼개산다\"…카카오페이證,국내주식소수점거래...",
+    "[현장]'배재규한투운용사장\"반도체·전력에투자하고시간을내편으...",
+    "SK하이닉스141만원대약세…장중148만7000원찍고상승분반납",
+    "애플,中CXMT마저가격협상거절…메모리發'사면초가'심화",
+    "'3대메가프로젝트'진도는…이재명,대통령주재로대규모점검회의",
+    "이대통령\"메가프로젝트속도전넘어전격전…광주군공항기능2028년...",
+    "코스피상승6,300탈환시도...코스닥은6%급등",
+    "PerformancebonusesreshapeunionlandscapeinKorea",
+    "[데스크칼럼]'삼성·하이닉스발(發)'임단협청구서…산업계덮친'눈...",
+    "1600원위협하다1300원대눈앞…보험사도'숨통',킥스2%p개선기대",
+    "AI투자달라진'네카오'…카카오는왜'카톡'에집중하나"
    ],
    "initialized": true,
-   "last_run": "2026-08-10T14:45:29.984338+09:00"
+   "last_run": "2026-08-10T14:50:32.415593+09:00"
   }
  },
  "press_names": {
