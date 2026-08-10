@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-10T06:50:27.472962+09:00",
-     "5억 출장지서 근태 스스로 퇴근 1분 걷어찼다 상습 만에"
-    ],
-    [
      "2026-08-10T06:55:22.061711+09:00",
      "렌탈 롯데렌터카 1위 3위 코웨이 브랜드평판 2위 8월 분석 빅데이터"
     ],
@@ -1222,11 +1218,13 @@
     [
      "2026-08-10T12:45:25.850581+09:00",
      "매수 정책 주도주 완성 코스닥 타이밍 3박자 순환매"
+    ],
+    [
+     "2026-08-10T12:50:29.603536+09:00",
+     "맥북에 적용 시험 메모리 애플 중국 아이폰"
     ]
    ],
    "seen_urls": [
-    "https://www.koreaittimes.com/news/articleView.html?idxno=155918",
-    "https://www.incheonilbo.com/news/articleView.html?idxno=1329135",
     "https://mhnse.com/news/articleView.html?idxno=1483667",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475627",
     "https://www.etoday.co.kr/news/view/2611943",
@@ -2724,11 +2722,11 @@
     "https://www.sedaily.com/article/20077590",
     "https://www.catchnews.kr/news/articleView.html?idxno=127138",
     "https://www.kizmom.com/news/articleView.html?idxno=112008",
-    "https://news.mtn.co.kr/news-detail/2026081012231410618"
+    "https://news.mtn.co.kr/news-detail/2026081012231410618",
+    "https://www.kgnews.co.kr/news/article.html?no=907107",
+    "https://m.skyedaily.com/news_view.html?ID=309483"
    ],
    "seen_titles": [
-    "韓증시롤러코스터끝나나…블룸버그가주목한반전신호",
-    "SKHynixEyesNewShareholderReturnsAfter375-WonDividend",
     "용인SK반도체클러스터두번째팹윤곽…내년7월착공",
     "똑같은'좌완150㎞'인데…왕옌청은되고김범수는왜안될까,운명가...",
     "SK텔레콤,장기고객대상미식행사'테이블데이'성료",
@@ -4226,10 +4224,12 @@
     "추미애“삼성·SK하이닉스,반도체폐수방류최소화해야”",
     "컬리,올하반기첫'그랜드뷰티페스타'개최",
     "추미애,삼성전자·SK하이닉스에\"반도체폐수방류최소화하라\"",
-    "\"코스닥매수타이밍…'순환매·정책·주도주'3박자완성\""
+    "\"코스닥매수타이밍…'순환매·정책·주도주'3박자완성\"",
+    "수원시,26~28일'차세대반도체패키징산업전'개최",
+    "애플,아이폰·맥북에중국메모리시험적용"
    ],
    "initialized": true,
-   "last_run": "2026-08-10T12:45:25.850581+09:00"
+   "last_run": "2026-08-10T12:50:29.603536+09:00"
   }
  },
  "press_names": {
