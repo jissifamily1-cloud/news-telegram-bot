@@ -246,11 +246,17 @@
     [
      "2026-08-11T04:10:29.880842+09:00",
      "잣대는 투자 달러 옮겨갔다 시대 금리 수익성 1조"
+    ],
+    [
+     "2026-08-11T04:20:38.123813+09:00",
+     "700조원 엔비디아 큰손들과 월가 동맹 파이낸싱"
+    ],
+    [
+     "2026-08-11T04:20:38.123813+09:00",
+     "AI칩 엔비디아 직원 수출통제 구속 지하망 뚫은 대만 수사당국"
     ]
    ],
    "seen_urls": [
-    "https://www.ziksir.com/news/articleView.html?idxno=142632",
-    "https://www.yna.co.kr/view/AKR20260810058900008?input=1195m",
     "https://www.newstopkorea.com/news/articleView.html?idxno=46879",
     "https://biz.newdaily.co.kr/site/data/html/2026/08/10/2026081000073.html",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=725941",
@@ -1748,11 +1754,11 @@
     "http://weekly.chosun.com/news/articleView.html?idxno=54120",
     "https://www.mt.co.kr/stock/2026/08/11/2026081020025254462",
     "http://digitalchosun.dizzo.com/site/data/html_dir/2026/08/10/2026081080121.html",
-    "https://www.g-enews.com/view.php?ud=202608101608351596fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202608101608351596fbbec65dfb_1",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=01767926645546336",
+    "https://www.g-enews.com/view.php?ud=202608101613542149fbbec65dfb_1"
    ],
    "seen_titles": [
-    "SKT·독립기념관,광복81주년'기억하길'캠페인전개",
-    "[특징주]반도체장비주,SK하이닉스투자규모확정에강세",
     "빌게이츠방한앞둔정기선...HD현대,테라파워와'SMR판'키운다",
     "1조원대정부ESS3차입찰막오른다…배터리3사수주경쟁",
     "[조원경칼럼]금·엔·원이함께보내는신호…달러에무슨일이",
@@ -3250,10 +3256,12 @@
     "인니의존도높은니켈…韓배터리산업의아킬레스건",
     "코스피식자,코스닥펄펄…850선넘었다",
     "아우디코리아,문화마케팅으로고객접점확대…\"車소유넘어선프...",
-    "AI투자1조달러시대,잣대는'수익성·금리'로옮겨갔다"
+    "AI투자1조달러시대,잣대는'수익성·금리'로옮겨갔다",
+    "엔비디아,월가큰손들과700조원AI파이낸싱동맹",
+    "美수출통제뚫은AI칩지하망…대만수사당국,엔비디아직원첫구속"
    ],
    "initialized": true,
-   "last_run": "2026-08-11T04:15:33.011829+09:00"
+   "last_run": "2026-08-11T04:20:38.123813+09:00"
   }
  },
  "press_names": {
