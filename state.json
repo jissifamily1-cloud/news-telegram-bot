@@ -458,13 +458,21 @@
     [
      "2026-08-11T07:02:22.156681+09:00",
      "정정 SK디앤디 시그 한다 유증 최소 1년간 상폐 공시"
+    ],
+    [
+     "2026-08-11T07:05:23.038197+09:00",
+     "2년만에 삼양패키징 공모채 가능할 언더금리 복귀"
+    ],
+    [
+     "2026-08-11T07:05:23.038197+09:00",
+     "국가 대계 전력 대규모 투자로 삼성전자 바뀐"
+    ],
+    [
+     "2026-08-11T07:05:23.038197+09:00",
+     "키옥시아 됐다 일본 최대주주 SK하이닉스"
     ]
    ],
    "seen_urls": [
-    "http://www.thevaluenews.co.kr/news/view.php?idx=200649",
-    "https://www.ytn.co.kr/_ln/0102_202608101132292670",
-    "https://www.smartbizn.com/news/articleView.html?idxno=150794",
-    "https://www.etnews.com/20260810000200",
     "https://www.newsis.com/view/NISX20260810_0003742549",
     "https://www.dailysecu.com/news/articleView.html?idxno=207969",
     "http://www.00news.co.kr/news/articleView.html?idxno=105741",
@@ -1960,13 +1968,13 @@
     "https://www.koreatimes.co.kr/path/A2026081016060005760",
     "https://it.chosun.com/news/articleView.html?idxno=2023092167662",
     "http://www.issuenbiz.com/news/articleView.html?idxno=78564",
-    "https://www.sedaily.com/article/20077799"
+    "https://www.sedaily.com/article/20077799",
+    "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608110230&t=NNv",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608062343135040102582",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608071226428640102921",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608102216472080109616"
    ],
    "seen_titles": [
-    "[위클리ETF]8月1주차,‘SOLSK하이닉스선물단일종목인버스2X’수익...",
-    "\"주요복지예산10월이후'텅장'\"추미애'재정비상선언',왜?",
-    "통신망도AI로진화한다···AI-RAN,6G시대핵심인프라부상",
-    "'친환경'바이오연료의역설…팜계원료72%,공급망90%서'위험신호'",
     "\"中CXMT,애플과칩공급협상\"…삼성·SK공급망까지뒤흔들까",
     "[데프콘34CTF종합]다국적연합팀BlueWater우승...순수한국팀'0x4...",
     "[기자의눈]세기의이혼소송서보여준갈팡질팡법원",
@@ -3462,10 +3470,14 @@
     "[Interview]GKSbecomesgatewaytolifeinKoreaforUzbekscholar",
     "기업채용부터면접까지AI가맡는다[AI가바꾼채용시장①]",
     "[김성욱의세상과시간]KOSPI가시장을측정하는가,시장을움직이는가",
-    "유증추진SK디앤디정정공시…“최소1년간상폐추진안한다”[시그..."
+    "유증추진SK디앤디정정공시…“최소1년간상폐추진안한다”[시그...",
+    "엔비디아,월가큰손과5천억달러조달…인텔,유증추진",
+    "[더벨][발행사분석]삼양패키징,2년만에공모채복귀…언더금리가능할...",
+    "[더벨][PolicyRadar]삼성전자대규모투자로바뀐국가전력대계",
+    "[더벨]SK하이닉스,일본키옥시아'최대주주'됐다"
    ],
    "initialized": true,
-   "last_run": "2026-08-11T07:02:22.156681+09:00"
+   "last_run": "2026-08-11T07:05:23.038197+09:00"
   }
  },
  "press_names": {
