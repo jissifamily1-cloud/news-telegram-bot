@@ -962,10 +962,13 @@
     [
      "2026-08-10T21:55:28.934791+09:00",
      "행정지도 감소 SK하닉 노력 폐수 삼성 추미애"
+    ],
+    [
+     "2026-08-10T22:00:43.195434+09:00",
+     "뜬다 반도체 삼성 산업전 패키징"
     ]
    ],
    "seen_urls": [
-    "https://www.mediapen.com/news/view/1115296",
     "http://www.joseilbo.com/news/news_read.php?uid=573514&class=17",
     "https://www.mt.co.kr/stock/2026/08/10/2026081010124457629",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1719736",
@@ -2464,10 +2467,10 @@
     "https://www.ulsanpress.net/news/articleView.html?idxno=580756",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=269782",
     "https://www.hani.co.kr/arti/politics/politics_general/1272280.html",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8633331"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8633331",
+    "http://www.00news.co.kr/news/articleView.html?idxno=105758"
    ],
    "seen_titles": [
-    "코스피6310선돌파하며상승세…코스닥은5%대급등에'매수사이드카...",
     "삼성·SK는1%도못올랐는데…장비주는10%대급등[칩칩폭폭]",
     "한국거래소,SK하이닉스'충칭공장지분매각설'조회공시요구",
     "美고용쇼크가부른금리안도…외국인,코스피로돌아오나",
@@ -3966,10 +3969,11 @@
     "검증된인력전진배치…시정성과도출·조직안정도모",
     "\"우리곁으로돌아온순국선열의거리\"…SKT,AI활용'기억하길'복원",
     "250만평호남산단확대추진…송전선로1년당겨2028년구축",
-    "추미애“삼성·SK하닉폐수감소노력안해”…또행정지도"
+    "추미애“삼성·SK하닉폐수감소노력안해”…또행정지도",
+    "반도체패키징산업전...삼성·SK뜬다"
    ],
    "initialized": true,
-   "last_run": "2026-08-10T21:55:28.934791+09:00"
+   "last_run": "2026-08-10T22:00:43.195434+09:00"
   }
  },
  "press_names": {
