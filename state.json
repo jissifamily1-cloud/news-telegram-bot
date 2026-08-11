@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-12T00:10:30.989579+09:00",
-     "6만세대 정주여건 추정 호남권 주택수요 반도체팹"
-    ],
-    [
      "2026-08-12T00:20:37.458100+09:00",
      "4개월만 장타 중간배당으로 홈런성 결산배당 기업 주요"
     ],
@@ -370,10 +366,13 @@
     [
      "2026-08-12T06:10:28.986609+09:00",
      "KTX 노동자 미얀마 숨진 못쉰 내내 한달 달도 공사장서"
+    ],
+    [
+     "2026-08-12T06:15:27.846844+09:00",
+     "하락마감 뉴욕증시 하닉ADR"
     ]
    ],
    "seen_urls": [
-    "https://www.sisajournal.com/news/articleView.html?idxno=383085",
     "http://www.economytalk.kr/news/articleView.html?idxno=423435",
     "http://www.srtimes.kr/news/articleView.html?idxno=209633",
     "https://news.tvchosun.com/site/data/html_dir/2026/08/11/2026081190080.html",
@@ -1872,10 +1871,10 @@
     "https://it.chosun.com/news/articleView.html?idxno=2023092167753",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608111217035050580",
     "https://www.news1.kr/industry/sb-founded/6255860",
-    "https://www.khan.co.kr/article/202608120600181"
+    "https://www.khan.co.kr/article/202608120600181",
+    "https://www.munhwa.com/article/11608872"
    ],
    "seen_titles": [
-    "증시자금'코스닥'으로간다",
     "원·달러환율,1300원후반까지추가하락전망",
     "엇갈린증시…코스피하락,코스닥은1%대상승[투자360]",
     "K바이오,美직판시대정면돌파",
@@ -3374,10 +3373,11 @@
     "AI잘쓰는사람이합격한다[AI가바꾼채용시장②]",
     "[소부장NOW]한미반도체,美실리콘밸리에법인설립…북미공략본격화",
     "메모리훈풍탔는데…원익IPS,수주잔고4천억에도영업익반토막왜",
-    "[단독]“한달내내못쉰달도”…KTX공사장서숨진미얀마노동자,월..."
+    "[단독]“한달내내못쉰달도”…KTX공사장서숨진미얀마노동자,월...",
+    "[속보]뉴욕증시하락마감…하닉ADR4.7%↑"
    ],
    "initialized": true,
-   "last_run": "2026-08-12T06:10:28.986609+09:00"
+   "last_run": "2026-08-12T06:15:27.846844+09:00"
   }
  },
  "press_names": {
