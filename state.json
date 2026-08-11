@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-11T11:25:24.502900+09:00",
-     "모호한 쟁의 대상인가 노란봉투법 경계 성과급 경영권"
-    ],
-    [
-     "2026-08-11T11:25:24.502900+09:00",
-     "고배당 커버드콜로 개미들 머니무브 지친 롤러코스터 국장에"
-    ],
-    [
      "2026-08-11T11:30:35.726332+09:00",
      "헤럴딥 견제하는 이유 칩칩팹 뜨는데 엔비디아가 CXL HBM 차세대"
     ],
@@ -1274,16 +1266,25 @@
     [
      "2026-08-11T17:25:23.331782+09:00",
      "환경 추미애 전제 책임이 북부청사 인프라 6000억 반도체 지원"
+    ],
+    [
+     "2026-08-11T17:27:28.731821+09:00",
+     "반도체 추가 건설 다시 새만금 가능성 생산기지 주목받는"
+    ],
+    [
+     "2026-08-11T17:27:28.731821+09:00",
+     "160엔 동반 달러환율 턱밑 약세 원화 공조에도"
+    ],
+    [
+     "2026-08-11T17:27:28.731821+09:00",
+     "반도체 한국의 고리 약한 속도전"
+    ],
+    [
+     "2026-08-11T17:27:28.731821+09:00",
+     "정기연주회 수원가톨릭청소년교향악단 제15회 개최"
     ]
    ],
    "seen_urls": [
-    "https://www.koreatimes.co.kr/path/A2026081016060005760",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092167662",
-    "http://www.issuenbiz.com/news/articleView.html?idxno=78564",
-    "https://www.sedaily.com/article/20077799",
-    "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608110230&t=NNv",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608062343135040102582",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608071226428640102921",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608102216472080109616",
     "https://biz.sbs.co.kr/article_hub/20000327820?division=NAVER",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005898241",
@@ -2776,16 +2777,16 @@
     "https://www.catholicnews.co.kr/news/articleView.html?idxno=35268",
     "https://www.topstarnews.net/news/articleView.html?idxno=16160713",
     "https://www.hankyung.com/article/202608114880g",
-    "https://www.mt.co.kr/policy/2026/08/11/2026081116470193591"
+    "https://www.mt.co.kr/policy/2026/08/11/2026081116470193591",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=442666",
+    "https://www.viva100.com/article/20260811501216",
+    "https://www.sidae.com/article/2026081117044959519",
+    "https://www.jjan.kr/article/20260811500466",
+    "https://www.seoulfn.com/news/articleView.html?idxno=635423",
+    "https://www.mk.co.kr/article/12124200",
+    "https://www.catholictimes.org/article/20260810500201"
    ],
    "seen_titles": [
-    "[뉴욕증시]호르무즈협상난항'숨고르기',반도체주'뚝'···유가5%...",
-    "[기업톺아보기]놀던라인을LFP로…NCM설비전환으로입증한포스코...",
-    "SK하이닉스주주들'빚투'몰렸나…주식담보대출1년새438%폭증",
-    "'아기풀장'도뒀는데‥테라스추락,우리집은?",
-    "'다시세계3위,사브르끝판왕'오상욱의부상투혼\"AG2관왕수성!최신...",
-    "코스피33.3%하락에도EPS184%상향…루트형반등전망",
-    "SK바이오팜개발'수노시'매출20%↑…악섬,ADHD로적응증확대",
     "TopheadlinesinmajorS.Koreannewspapers",
     "청개구리개미군단…코스닥급등에레버리지팔고인버스산다",
     "[전문]김재섭\"집값폭등하니버스가서살아라?장난하냐?\"[정국기상...",
@@ -4278,10 +4279,17 @@
     "AI전력수요,핵발전소부터짓는정책은순서가거꾸로다",
     "엔비디아,월가와손잡고710조원AI자금조달",
     "\"미국·중국만있는줄알았지\"…수학金찍은'토종AI'정체",
-    "북부청사간추미애\"반도체인프라지원6000억,환경책임이전제\""
+    "북부청사간추미애\"반도체인프라지원6000억,환경책임이전제\"",
+    "용인특례시,반도체기업투자설명회개최",
+    "민주당,용인반도체산단방문…\"팹완공단축위한입법·정책지원\"",
+    "이상일용인시장\"반도체생태계완성,소부장협력체계필수\"",
+    "추가팹건설가능성?…다시주목받는반도체생산기지,새만금",
+    "미·일공조에도엔·달러환율160엔'턱밑'···원화'동반약세'로돌...",
+    "[김선걸칼럼]반도체속도전,한국의약한고리",
+    "수원가톨릭청소년교향악단제15회정기연주회개최"
    ],
    "initialized": true,
-   "last_run": "2026-08-11T17:25:23.331782+09:00"
+   "last_run": "2026-08-11T17:27:28.731821+09:00"
   }
  },
  "press_names": {
@@ -4860,6 +4868,7 @@
   "vogue.co.kr": "vogue.co.kr",
   "dailyvet.co.kr": "dailyvet.co.kr",
   "kidd.co.kr": "산업일보",
-  "psychiatricnews.net": "정신의학신문"
+  "psychiatricnews.net": "정신의학신문",
+  "catholictimes.org": "가톨릭신문"
  }
 }
