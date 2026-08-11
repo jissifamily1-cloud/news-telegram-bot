@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-11T06:50:28.266009+09:00",
-     "반도체 라는 오해 용수 폐수 말이 만드는"
-    ],
-    [
-     "2026-08-11T06:50:28.266009+09:00",
-     "시대 에이전트 해킹대회 세계 달군 해킹도"
-    ],
-    [
      "2026-08-11T06:55:29.254653+09:00",
      "반등 시작됐나 아직 위기 이익은 루트형 가격은 코스피"
     ],
@@ -1150,14 +1142,29 @@
     [
      "2026-08-11T12:50:27.191606+09:00",
      "한국 프로젝트 인권으로 메가 사회 저당잡힌 도박에 읽는 거품과"
+    ],
+    [
+     "2026-08-11T12:55:25.893962+09:00",
+     "SK쉴더스 소식 한화솔루션 산업일반"
+    ],
+    [
+     "2026-08-11T12:55:25.893962+09:00",
+     "ETF Plan After Market Hours Reject Asset Managers"
+    ],
+    [
+     "2026-08-11T12:55:25.893962+09:00",
+     "떴다 전기 정보 컴공 가자 서울대생 지고 삼전닉스"
+    ],
+    [
+     "2026-08-11T12:55:25.893962+09:00",
+     "기존 사업 렌터카 사실무근 방점 확장 현대차 인수설은"
+    ],
+    [
+     "2026-08-11T12:55:25.893962+09:00",
+     "외로움을 달래는 방법으로서의 몰아보기"
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0102_202608101629111574",
-    "https://www.tokenpost.kr/news/cryptocurrency/387469",
-    "http://www.newstomato.com/ReadNews.aspx?no=1309746&inflow=N",
-    "http://www.newstomato.com/ReadNews.aspx?no=1309790&inflow=N",
-    "https://economist.co.kr/article/view/ecn202608100036",
     "http://www.fnnews.com/news/202608101606046078",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008698380&plink=ORI&cooper=NAVER",
     "https://www.joongang.co.kr/article/25452179",
@@ -2652,14 +2659,14 @@
     "https://www.newsis.com/view/NISX20260811_0003744350",
     "https://www.peoplewatch.co.kr/article/view/ppw202608110003",
     "http://www.popcornnews.net/news/articleView.html?idxno=129300",
-    "https://www.pressian.com/pages/articles/2026081110311339164"
+    "https://www.pressian.com/pages/articles/2026081110311339164",
+    "http://www.weeklytoday.com/news/articleView.html?idxno=789751",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=274556",
+    "https://www.mk.co.kr/article/12123949",
+    "https://www.greened.kr/news/articleView.html?idxno=347338",
+    "http://www.psychiatricnews.net/news/articleView.html?idxno=36649"
    ],
    "seen_titles": [
-    "코스피,0.65%소폭상승...코스닥6%급등",
-    "코스피상승6,300턱밑마감...코스닥은7%급등",
-    "4000명참여한SK하이닉스새노조준비모임",
-    "급락장에꺾인국장열기…개인자금도다시해외로",
-    "CXMT이어유니트리도출격…국내증시영향'촉각'",
     "유가증권시장떠난외국인향한곳은?",
     "'개미달아날라'..'코리아프리미엄'앞세우며美교차상장묻는與",
     "[자막뉴스]외국인투자자의개미털어먹기?…\"매수보고서내고팔아치...",
@@ -4154,10 +4161,15 @@
     "코스피,상승전환해1%안팎등락…코스닥은다시하락",
     "엔비디아發‘순환금융’다시부각되나…국내반도체영향은",
     "충청도반세권입지,'메가프로젝트'소식에덩달아주목",
-    "AI거품과메가프로젝트도박에저당잡힌한국사회[인권으로읽는세..."
+    "AI거품과메가프로젝트도박에저당잡힌한국사회[인권으로읽는세...",
+    "[위클리오늘]산업일반소식_SK쉴더스,한화솔루션(8.11)",
+    "AssetManagersRejectETFAfter-HoursMarketPlan",
+    "서울대생“삼전닉스가자”…컴공지고‘전기·정보’떴다",
+    "\"인수설은사실무근\"…현대차,렌터카사업'기존사업확장'에방점",
+    "외로움을달래는방법으로서의몰아보기"
    ],
    "initialized": true,
-   "last_run": "2026-08-11T12:50:27.191606+09:00"
+   "last_run": "2026-08-11T12:55:25.893962+09:00"
   }
  },
  "press_names": {
@@ -4735,6 +4747,7 @@
   "readersnews.com": "독서신문",
   "vogue.co.kr": "vogue.co.kr",
   "dailyvet.co.kr": "dailyvet.co.kr",
-  "kidd.co.kr": "산업일보"
+  "kidd.co.kr": "산업일보",
+  "psychiatricnews.net": "정신의학신문"
  }
 }
