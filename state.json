@@ -282,10 +282,13 @@
     [
      "2026-08-12T05:15:28.060305+09:00",
      "만에 10개월 환율 410원대 사흘째 최저"
+    ],
+    [
+     "2026-08-12T05:25:21.872949+09:00",
+     "전면에 다시 설까 4대 작아진 목소리 재계 회장단"
     ]
    ],
    "seen_urls": [
-    "https://biz.newdaily.co.kr/site/data/html/2026/08/11/2026081100068.html",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7178388",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=422999",
     "https://www.etoday.co.kr/news/view/2613137",
@@ -1784,10 +1787,10 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=9000002406&cp=nv",
     "https://www.sidae.com/article/2026081113480845224",
     "https://www.etoday.co.kr/news/view/2613295",
-    "http://www.yonhapnewstv.co.kr/news/MYH202608120511129nl"
+    "http://www.yonhapnewstv.co.kr/news/MYH202608120511129nl",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608111102559500559"
    ],
    "seen_titles": [
-    "코스피'삼전닉스'약세에1%대↓6,200선…코스닥상승전환",
     "한국투자신탁운용,K전략산업'ACE반도체Plus전략산업ETF'상장",
     "SKT독자AI'A.XK2',국제수학올림피아드금메달급…수학평가공동1위",
     "[마켓펄스]삼전닉스숨고르기속'소부장'강세...코스닥2%상승전환",
@@ -3286,10 +3289,11 @@
     "[속보]SK하이닉스ADR4.75%↑…미증시약보합마감",
     "금정섭한화운용본부장\"레버리지ETF안정,반도체여전한0순위\"",
     "상반기거래2760조ETF‘숨은손’…차익거래로연1000억이상번다...",
-    "환율사흘째1,410원대…10개월만에최저"
+    "환율사흘째1,410원대…10개월만에최저",
+    "목소리작아진재계…4대그룹회장단,다시전면에설까"
    ],
    "initialized": true,
-   "last_run": "2026-08-12T05:20:37.140899+09:00"
+   "last_run": "2026-08-12T05:25:21.872949+09:00"
   }
  },
  "press_names": {
