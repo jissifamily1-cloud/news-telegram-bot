@@ -1401,13 +1401,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/market/388035",
-    "https://www.insight.co.kr/news/567505",
-    "https://www.cstimes.com/news/articleView.html?idxno=716361",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4429507",
-    "https://www.bntnews.co.kr/article/view/bnt202608110116",
-    "https://www.news1.kr/politics/assembly/6255023",
-    "https://news.tf.co.kr/read/economy/2352660.htm",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476171",
     "https://www.sentv.co.kr/article/view/sentv202608110022",
     "https://www.ajunews.com/view/20260811091404649",
@@ -2900,16 +2893,16 @@
     "https://www.livebiz.today/news/articleView.html?idxno=204054",
     "https://www.thepublic.kr/news/articleView.html?idxno=314589",
     "https://biz.sbs.co.kr/article_hub/20000327961?division=NAVER",
-    "https://www.newsis.com/view/NISX20260811_0003745149"
+    "https://www.newsis.com/view/NISX20260811_0003745149",
+    "https://www.news1.kr/photos/8051221",
+    "https://www.news1.kr/photos/8051223",
+    "https://www.news1.kr/photos/8051218",
+    "https://www.news1.kr/photos/8051219",
+    "https://www.news1.kr/photos/8051213",
+    "https://www.news1.kr/photos/8051214",
+    "https://www.news1.kr/photos/8051215"
    ],
    "seen_titles": [
-    "코스피·코스닥하락출발,미국증시하락영향‥환율1,418원대",
-    "SK텔레콤,통신상장기업브랜드평판8월빅데이터1위...KT·LG유플러스...",
-    "프로농구10월3일‘점프볼’",
-    "코스피,美약세에6200선하락출발…삼전·SK하닉↓",
-    "코스피,유가급등·美증시약세에하락…코스닥도1%대↓",
-    "용인반도체클러스터첫아파트나온다…전국청약·분양가상한제적용",
-    "[특징주]SK하이닉스,장초반1%대하락중…삼전도0.65%↓",
     "SK하이닉스,용인·청주공장에54조원투자확정",
     "[산업썰전]잘나가는SK하이닉스가美서경고한위험…매출4분의1이한...",
     "亞장초반...호주증시'상승',코스피&韓반도체주'뚝'",
@@ -4402,10 +4395,17 @@
     "롯데,롯데렌탈美TPG에매각...이사회,주식매매계약(SPA)체결승인",
     "외국인수급엇갈린반도체투톱…삼전'사고',하이닉스'팔고'",
     "[집중진단]10시넘어급등한삼성전자주가…4%올라24만원코앞,갑자...",
-    "[올댓차이나]홍콩증시,중동정세불투명에반락마감…H주1.09%↓"
+    "[올댓차이나]홍콩증시,중동정세불투명에반락마감…H주1.09%↓",
+    "SK하이닉스반도체팹건설현장둘러보는한병도",
+    "민주당위원들과인사나누는곽노정SK하이닉스사장",
+    "용인SK하이닉스반도체팹찾은민주당",
+    "민주당'3대메가프로젝트성공을위해'",
+    "민주당3대메가프로젝트지원특위,SK하이닉스반도체팹건설현장방...",
+    "민주당3대메가프로젝트지원특위,용인반도체팹건설현장방문",
+    "SK하이닉스반도체팹건설현장찾은민주당"
    ],
    "initialized": true,
-   "last_run": "2026-08-11T19:10:37.645595+09:00"
+   "last_run": "2026-08-11T19:15:26.997593+09:00"
   }
  },
  "press_names": {
