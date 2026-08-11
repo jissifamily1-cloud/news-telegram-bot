@@ -382,12 +382,13 @@
     [
      "2026-08-12T06:45:26.374317+09:00",
      "서울대 싶습니다 가고 전공 저도 공대생 9명 10명 삼전닉스"
+    ],
+    [
+     "2026-08-12T06:50:27.160892+09:00",
+     "대응 비거주 논란의 국토장관 공급 확대로 1주택 규제"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1719883",
-    "https://www.cwn.kr/news/articleView.html?idxno=52836",
-    "http://www.lawissue.co.kr/view.php?ud=20260811104157758867191f6c6e_12",
     "http://www.fnnews.com/news/202608110936421700",
     "https://www.ekn.kr/web/view.php?key=20260811027581138",
     "https://www.medicopharma.co.kr/news/articleView.html?idxno=69074",
@@ -1884,12 +1885,12 @@
     "https://www.hankyung.com/article/2026081051726",
     "https://www.news2day.co.kr/article/20260812500001",
     "https://www.labortoday.co.kr/news/articleView.html?idxno=236194",
-    "https://www.sedaily.com/article/20078355"
+    "https://www.sedaily.com/article/20078355",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1720026",
+    "https://www.news2day.co.kr/article/20260812500006",
+    "https://biz.sbs.co.kr/article_hub/20000328108?division=NAVER"
    ],
    "seen_titles": [
-    "대통령주도전격전개시…\"800조원호남반도체클러스터\"",
-    "반도체·조선·방산·원전한번에…한투운용전략산업ETF출시",
-    "송도럭스오션SK뷰테라스붕괴…정일영\"입주1년밖에안돼,있을수없...",
     "SK하이닉스,채권시장‘큰손’부상…한달새한전채2.7조매입",
     "[데이터뉴스룸]전자업체50곳재무건전성튼튼…신도리코·인탑스부...",
     "소유,10년전'삼전닉스'1억넣어둔결실…'편백사우나'갖춘자가최...",
@@ -3386,10 +3387,13 @@
     "압구정아파트도적용한다는데…신축테라스사고에'발칵'[주간이집]",
     "[N2포커스]외국인거래30%시대…증권사,해외개미'유치전'",
     "\"노동기본권파괴'메가특구특별법'철회\"거세지는목소리",
-    "“저도삼전닉스가고싶습니다”…서울대공대생10명중9명‘이전공..."
+    "“저도삼전닉스가고싶습니다”…서울대공대생10명중9명‘이전공...",
+    "AI반도체덮친'금리5%공포'…삼성전자·SK하이닉스새복병",
+    "뉴욕증시,호르무즈불확실성에이틀째하락…CPI앞두고경계감",
+    "논란의'비거주1주택'규제…국토장관\"공급확대로대응\""
    ],
    "initialized": true,
-   "last_run": "2026-08-12T06:45:26.374317+09:00"
+   "last_run": "2026-08-12T06:50:27.160892+09:00"
   }
  },
  "press_names": {
