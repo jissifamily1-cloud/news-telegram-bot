@@ -877,11 +877,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.mtn.co.kr/news-detail/2026081014202178194",
-    "https://www.joongangenews.com/news/articleView.html?idxno=539033",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475941",
-    "http://coinreaders.com/251941",
-    "https://www.sportsseoul.com/news/read/1627745",
     "https://www.thepublic.kr/news/articleView.html?idxno=314387",
     "https://www.asiatime.co.kr/article/20260810500268",
     "https://www.sentv.co.kr/article/view/sentv202608100113",
@@ -2376,14 +2371,14 @@
     "https://view.asiae.co.kr/article/2026081109344678791",
     "https://biz.sbs.co.kr/article_hub/20000327849?division=NAVER",
     "https://www.ajunews.com/view/20260810143820321",
-    "https://www.tokenpost.kr/news/market/388043"
+    "https://www.tokenpost.kr/news/market/388043",
+    "https://www.g-enews.com/view.php?ud=202608110912485084fbbec65dfb_1",
+    "https://www.mk.co.kr/article/12123724",
+    "https://biz.heraldcorp.com/article/10836903",
+    "https://www.yna.co.kr/view/AKR20260811044500008?input=1195m",
+    "https://www.seoulfn.com/news/articleView.html?idxno=635348"
    ],
    "seen_titles": [
-    "중견제약사,전문의약품호조로'외형성장'…약가인하방어는숙제",
-    "中CXMT,HBM·모바일D램'양면공세'…삼성전자·SK하이닉스와초격차...",
-    "코로나19치료제·백신株다시들썩…에이비온상한가'눈에띄네'",
-    "S&P500(SPX),AI돈폭탄'의역습...월가최대공포됐다",
-    "‘10월3일개막’KCC-LG빅매치커밍순!…KBL,2026~2027시즌일정확정",
     "李대통령,3대메가프로젝트2차점검회의…규제개혁·상생방안논의",
     "용인시의회,다낭시와경제·첨단산업등실질교류확대논의",
     "SK쉴더스“EQST,데프콘34AI해킹대회서글로벌5위”",
@@ -3878,10 +3873,15 @@
     "장초반주춤…코스피·코스닥약보합권",
     "[이시각시황]코스피1.2%↓…국제유가급등에LPG·해운주‘들썩’",
     "3년간의AI전쟁,中오픈소스시장서압승...60%장악에도美반격카드...",
-    "목표주가괴리율상위5곳에종근당·셀트리온"
+    "목표주가괴리율상위5곳에종근당·셀트리온",
+    "모건스탠리,\"메모리조정종료\"…외국인매도속시장혼란",
+    "“삼전닉스,지금아니면못산다?”…개미들다시‘빚투’,사흘새2...",
+    "소유,10년전1억넣은‘삼전닉스’덕에새집…사우나·헬스장딸린...",
+    "코스피,삼전닉스약세에1%대안팎하락…코스닥상승전환(종합)",
+    "코스피,美증시약세·중동불안에1%안팎하락···6200선으로밀려"
    ],
    "initialized": true,
-   "last_run": "2026-08-11T09:38:57.467822+09:00"
+   "last_run": "2026-08-11T09:40:27.536960+09:00"
   }
  },
  "press_names": {
