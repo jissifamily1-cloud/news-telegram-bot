@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-11T07:05:23.038197+09:00",
-     "2년만에 삼양패키징 공모채 가능할 언더금리 복귀"
-    ],
-    [
-     "2026-08-11T07:05:23.038197+09:00",
-     "국가 대계 전력 대규모 투자로 삼성전자 바뀐"
-    ],
-    [
-     "2026-08-11T07:05:23.038197+09:00",
-     "키옥시아 됐다 일본 최대주주 SK하이닉스"
-    ],
-    [
      "2026-08-11T07:10:36.248458+09:00",
      "10년전 소유 수익금으로 투자 장만 초호화 삼전닉스"
     ],
@@ -1134,15 +1122,25 @@
     [
      "2026-08-11T13:04:20.896831+09:00",
      "EV 상무 운영 스마트 베트남 모빌리티 이상천 경험 현장 로지시스"
+    ],
+    [
+     "2026-08-11T13:10:27.435012+09:00",
+     "주식 변동성 주요 관리 하반기 이슈"
+    ],
+    [
+     "2026-08-11T13:10:27.435012+09:00",
+     "규제 단일종목 날개 레버리지 급등세 몰린다 코스닥"
+    ],
+    [
+     "2026-08-11T13:10:27.435012+09:00",
+     "뮤지 끼리끼리 김풍 얼음 양잿물 추천 안재현 뜬금없이"
+    ],
+    [
+     "2026-08-11T13:10:27.435012+09:00",
+     "과학기술 혁신 기반 인공지능 가속화"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260810121800017?input=1195m",
-    "https://www.yna.co.kr/view/AKR20260810082800008?input=1195m",
-    "https://www.etoday.co.kr/news/view/2612883",
-    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005897959",
-    "http://www.newstomato.com/ReadNews.aspx?no=1309776&inflow=N",
-    "https://www.dynews.co.kr/news/articleView.html?idxno=861205",
     "https://www.socialvalue.kr/news/view/1065596411471446",
     "http://www.inews24.com/view/1993558",
     "https://www.greened.kr/news/articleView.html?idxno=347280",
@@ -2636,15 +2634,15 @@
     "http://www.ftoday.co.kr/news/articleView.html?idxno=363410",
     "https://www.electimes.com/news/articleView.html?idxno=371148",
     "https://www.youthdaily.co.kr/news/article.html?no=224930",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1719919"
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1719919",
+    "https://www.kpanews.co.kr/news/articleView.html?idxno=540234",
+    "https://www.kyeonggi.com/article/20260811580197",
+    "https://www.naeil.com/news/read/598457",
+    "https://biz.heraldcorp.com/article/10837351",
+    "http://enews.imbc.com/News/RetrieveNewsInfo/514424",
+    "https://www.naeil.com/news/read/598445"
    ],
    "seen_titles": [
-    "SK바사,2분기매출1557억…영업손실58%감소",
-    "SK쉴더스이큐스트,데프콘AICTF서글로벌5위",
-    "코스피주춤,코스닥만날았다…레버리지규제이후수급개선",
-    "SK쉴더스화이트해커그룹,데프콘34AICTF서글로벌5위기록",
-    "레버리지대책7일만에변동성지수급락…70선아래로",
-    "뉴노멀된반도체‘LTA’…메모리3사,2030년까지54조선불계약",
     "충북교육청,충북도·SK하이닉스등5개기관과AI심리상담'맞손'",
     "SKT,AI로독립운동가발자취되살린다…전국10개‘기억하길’조성",
     "TSMC,타오위안1.4나노공장재추진…대만메모리값40%↑전망",
@@ -4138,10 +4136,16 @@
     "[메세나브리핑-8월2주]카카오,'브런치북출판'수상작정식출간외",
     "이상천로지시스상무\"韓EV현장운영경험,베트남스마트모빌리티...",
     "반도체'쾌속질주'...2분기수출2천755억달러\"역대최대\"",
-    "HBM56%쥔SK하이닉스,몸값은마이크론절반…美서\"최고AI메모리주\""
+    "HBM56%쥔SK하이닉스,몸값은마이크론절반…美서\"최고AI메모리주\"",
+    "경쟁약등장에도엑스코프리'건재'…\"효능·병용가치로성장지속\"",
+    "준공1년6개월‘외벽테라스붕괴’송도아파트…하자5만7천건접수",
+    "“주식변동성관리,하반기주요이슈”",
+    "코스닥,단일종목레버리지규제‘날개’에급등세…돈몰린다",
+    "안재현,뜬금없이'양잿물'추천…김풍·뮤지얼음(끼리끼리)",
+    "인공지능기반과학기술혁신가속화"
    ],
    "initialized": true,
-   "last_run": "2026-08-11T13:05:22.196272+09:00"
+   "last_run": "2026-08-11T13:10:27.435012+09:00"
   }
  },
  "press_names": {
