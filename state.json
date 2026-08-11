@@ -1417,10 +1417,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/market/388018",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4429489",
-    "https://www.yna.co.kr/view/AKR20260811023200009?input=1195m",
-    "https://news.jtbc.co.kr/article/NB12312663?influxDiv=NAVER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695417&plink=ORI&cooper=NAVER",
     "https://www.datanet.co.kr/news/articleView.html?idxno=213662",
     "https://www.hankookilbo.com/news/article/A2026073113470002422?did=NA",
@@ -2916,13 +2912,13 @@
     "https://www.econovill.com/news/articleView.html?idxno=747719",
     "https://www.hankyung.com/article/2026081149361",
     "https://www.dailian.co.kr/news/view/1677304/?sc=Naver",
-    "https://www.sedaily.com/article/20078293"
+    "https://www.sedaily.com/article/20078293",
+    "https://www.bloter.net/news/articleView.html?idxno=670659",
+    "https://www.dailian.co.kr/news/view/1677307/?sc=Naver",
+    "https://www.tokenpost.kr/news/market/388375",
+    "https://www.joongang.co.kr/article/25452531"
    ],
    "seen_titles": [
-    "'압도적1위'삼성SDI,ESS3차전수성부담커진이유는",
-    "‘양궁농구’시흥TOP고등부,하늘내린인제전국유소년농구대회서...",
-    "뉴욕증시,유가급등에'약세'...WTI5%급등",
-    "'삼전닉스'프리마켓2%대하락...미반도체동반약세영향",
     "엔비디아,월가와709조원결성…HBM수요주기길어진다",
     "코스피약세에국내투자ETF팔고미국ETF로갈아타는개미들",
     "SK하이닉스손자회사‘솔리다임’중복상장?…“투자재원마련도구”",
@@ -4418,10 +4414,14 @@
     "롯데그룹,TPG와롯데렌탈매각본계약체결…1조3105억원에매각",
     "[단독]美TPG,롯데렌탈1.3조원에인수한다",
     "더불어민주당,삼성전자-SK하이닉스와간담회",
-    "재계호소에도…與,집단소송제‘3년소급적용’강행"
+    "재계호소에도…與,집단소송제‘3년소급적용’강행",
+    "롯데,TPG에롯데렌탈1.3조매각…포트폴리오조정속도",
+    "민주당3대메가프로젝트지원특위용인현장간담회",
+    "브렌트유10일5%급등,미증시3대지수하락",
+    "롯데렌탈,TPG에매각키로…1.3조원규모"
    ],
    "initialized": true,
-   "last_run": "2026-08-11T18:35:23.091295+09:00"
+   "last_run": "2026-08-11T18:40:28.757037+09:00"
   }
  },
  "press_names": {
