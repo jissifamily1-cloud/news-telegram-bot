@@ -202,12 +202,13 @@
     [
      "2026-08-12T04:00:40.433190+09:00",
      "HBM4 2나노 턴키 신호탄 삼성전자 반격 기술"
+    ],
+    [
+     "2026-08-12T04:05:21.557014+09:00",
+     "동반 화장품 상승 코스피 수출 훈풍에 반도체 코스닥"
     ]
    ],
    "seen_urls": [
-    "https://www.econovill.com/news/articleView.html?idxno=747637",
-    "https://www.abcn.kr/news/articleView.html?idxno=90382",
-    "https://www.sisajournal.com/news/articleView.html?idxno=383081",
     "https://www.sedaily.com/article/20077963",
     "https://biz.heraldcorp.com/article/10836967",
     "https://www.biospectator.com/view/news_view.php?varAtcId=29515",
@@ -1704,12 +1705,12 @@
     "https://www.greened.kr/news/articleView.html?idxno=347432",
     "https://www.mt.co.kr/industry/2026/08/12/2026081119442167576",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01449766645546664",
-    "https://www.g-enews.com/view.php?ud=202608111524282297fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202608111524282297fbbec65dfb_1",
+    "http://www.fnnews.com/news/202608111902354743",
+    "https://www.mt.co.kr/economy/2026/08/12/2026081119490866818",
+    "https://www.mt.co.kr/stock/2026/08/12/2026081119493743568"
    ],
    "seen_titles": [
-    "국산자율실험실생태계구축위해산학연뭉쳤다…협의체출범",
-    "AI가가설세우고로봇이24시간실험…'자율실험실'생태계만든다",
-    "AI반도체를우주로보낸다…우주항공청'K-우주데이터센터'2030실증승...",
     "D램수요27.6%성장전망,AI투자우려반박",
     "\"변동성확대·운용부담가중\"…증권·운용사,ETF애프터마켓도입반...",
     "\"유사투자리딩방수준\"‥오픈채팅방유도한주식방송4개'주의'",
@@ -3206,10 +3207,13 @@
     "나스닥밀리는데EWY2%↑·SOXL1%↑…'삼전4%반등'외국인이이어갈...",
     "HBM빈틈,CXL로…메모리'용량전쟁'",
     "中,유럽車부품공급망조용히장악…EU\"최대위협\"",
-    "삼성전자,2나노·HBM4'기술턴키'로반격신호탄"
+    "삼성전자,2나노·HBM4'기술턴키'로반격신호탄",
+    "소유,'삼전·닉스'투자수익얼마길래…\"새집이사비용에보탰다\"",
+    "\"호남팹2029년1차완공…용인팹전력공급2041년완료\"",
+    "반도체·화장품수출훈풍에…코스피·코스닥동반상승"
    ],
    "initialized": true,
-   "last_run": "2026-08-12T04:00:40.433190+09:00"
+   "last_run": "2026-08-12T04:05:21.557014+09:00"
   }
  },
  "press_names": {
