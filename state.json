@@ -214,10 +214,13 @@
     [
      "2026-08-12T04:40:35.341931+09:00",
      "엔비디아 메모리 주도 혼조 5천억달러 AI파이낸싱에도 반도체"
+    ],
+    [
+     "2026-08-12T04:55:21.869629+09:00",
+     "키옥시아 최대주주로 SK하이닉스 사실상"
     ]
    ],
    "seen_urls": [
-    "https://magazine.hankyung.com/business/article/202608104813b",
     "http://www.fnnews.com/news/202608111002370080",
     "https://www.apnews.kr/news/articleView.html?idxno=3050405",
     "https://www.ppss.kr/news/articleView.html?idxno=304913",
@@ -1716,10 +1719,10 @@
     "https://www.sportsseoul.com/news/read/1628150",
     "https://www.hankookilbo.com/news/article/A2026073113480003369?did=NA",
     "https://www.mediapen.com/news/view/1115757",
-    "https://biz.sbs.co.kr/article_hub/20000328097?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000328097?division=NAVER",
+    "https://biz.sbs.co.kr/article_hub/20000328098?division=NAVER"
    ],
    "seen_titles": [
-    "SK스퀘어,주가,8월11일장중916,000원3.48%하락",
     "코스피,중동발악재에0.5%하락…코스닥은2%대반등",
     "[포인트데일리특징주]美반도체한파에SK하이닉스,장초반1%대하락",
     "SKTA.XK2국제수학올림피아드금메달기준넘었다",
@@ -3218,10 +3221,11 @@
     "이상일“용인시·두앵커기업‘삼전닉스’와협의·논의하며발전하자...",
     "\"'TSMC온다'소문에산집,두배뛰었다\"…대만반도체발'부동산광...",
     "[美증시]엔비디아주도5천억달러AI파이낸싱에도반도체혼조…메모리...",
-    "월가도코스피ETF발작주목...\"AI발시장위험경고사례\""
+    "월가도코스피ETF발작주목...\"AI발시장위험경고사례\"",
+    "[글로벌비즈브리핑]SK하이닉스,日키옥시아사실상최대주주로外"
    ],
    "initialized": true,
-   "last_run": "2026-08-12T04:50:32.421260+09:00"
+   "last_run": "2026-08-12T04:55:21.869629+09:00"
   }
  },
  "press_names": {
