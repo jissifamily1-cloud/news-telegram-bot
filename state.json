@@ -213,7 +213,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.lawissue.co.kr/view.php?ud=20260811100456551567191f6c6e_12",
     "https://www.cctoday.co.kr/news/articleView.html?idxno=2234621",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003258121&CMPT_CD=P0010",
     "https://view.asiae.co.kr/article/2026081109561537661",
@@ -1712,10 +1711,10 @@
     "https://www.mt.co.kr/stock/2026/08/12/2026081119493743568",
     "https://www.mt.co.kr/opinion/2026/08/12/2026081115450635398",
     "https://www.g-enews.com/view.php?ud=202608111530042710fbbec65dfb_1",
-    "https://www.news2day.co.kr/article/20260810500279"
+    "https://www.news2day.co.kr/article/20260810500279",
+    "https://www.sportsseoul.com/news/read/1628150"
    ],
    "seen_titles": [
-    "\"실험장비·로봇·AI갖춘24시자율실험실구축\"...과기부,K-문샷AI연...",
     "이재명\"로봇1000대론부족\"…메가프로젝트2차점검",
     "코스닥급반등,소부장·바이오주도…추세회복분기점",
     "'하자투성이'인천송도럭스오션SK뷰결국테라스'와르르'",
@@ -3214,10 +3213,11 @@
     "반도체·화장품수출훈풍에…코스피·코스닥동반상승",
     "[사설]반도체산단,광주속도전앞서용인부터",
     "1조달러이상글로벌대기자금,머니무브시작…MMF에서사모크레딧...",
-    "단일종목레버리지조이자지수형과반도체로우회…규제사각지대점검..."
+    "단일종목레버리지조이자지수형과반도체로우회…규제사각지대점검...",
+    "이상일“용인시·두앵커기업‘삼전닉스’와협의·논의하며발전하자..."
    ],
    "initialized": true,
-   "last_run": "2026-08-12T04:30:41.021919+09:00"
+   "last_run": "2026-08-12T04:32:05.042389+09:00"
   }
  },
  "press_names": {
