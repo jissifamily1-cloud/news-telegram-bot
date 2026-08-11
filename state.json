@@ -318,11 +318,13 @@
     [
      "2026-08-12T05:50:27.966454+09:00",
      "글로벌 숏티지 틈타 PC CXMT HP 메모리 아수스 에이서"
+    ],
+    [
+     "2026-08-12T05:55:23.950830+09:00",
+     "달수 삼성의 아십니까"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260811056300005?input=1195m",
-    "https://www.news2day.co.kr/article/20260811500086",
     "https://sports.donga.com/sports/article/all/20260811/134455530/1",
     "https://biz.sbs.co.kr/article_hub/20000327903?division=NAVER",
     "https://www.businesspost.co.kr/BP?command=article_view&num=444415",
@@ -1820,11 +1822,11 @@
     "https://www.news2day.co.kr/article/20260811500103",
     "https://www.sedaily.com/article/20078351",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=270016",
-    "https://www.g-enews.com/view.php?ud=2026081117363552170c8c1c064d_1"
+    "https://www.g-enews.com/view.php?ud=2026081117363552170c8c1c064d_1",
+    "http://www.beyondpost.co.kr/view.php?ud=2026081205443221512aaae0046f_30",
+    "https://www.mt.co.kr/opinion/2026/08/12/2026081100235968719"
    ],
    "seen_titles": [
-    "정부‘자율실험실생태계’시동…삼성·SK등80여개기관뭉쳤다",
-    "SK쉴더스EQST,데프콘34서글로벌해커들과경쟁…AICTF글로벌5위",
     "코스피'국제유가·미국국채금리상승'에장중6220선하락,코스닥도...",
     "코스피,호르무즈불확실성에약세…코스닥은상승",
     "한투운용,국내5대전략산업투자ETF선보여",
@@ -3322,10 +3324,12 @@
     "[N2모닝경제브리핑-8월12일]美증시,CPI앞두고3대지수약세…대...",
     "뉴욕증시,중동혼란에이틀째약세...국제유가1%대상승[데일리국제...",
     "정일영'정색'해도시장은'힘숨찐'편...발코니붕괴SK에코플랜트,주가...",
-    "글로벌메모리숏티지틈타…CXMT,HP·아수스·에이서등글로벌PC공..."
+    "글로벌메모리숏티지틈타…CXMT,HP·아수스·에이서등글로벌PC공...",
+    "SK하이닉스ADR4.7%,마이크론0.87%↑...반도체주,호르무츠해협불확...",
+    "'삼성의달수'를아십니까[광화문]"
    ],
    "initialized": true,
-   "last_run": "2026-08-12T05:50:27.966454+09:00"
+   "last_run": "2026-08-12T05:55:23.950830+09:00"
   }
  },
  "press_names": {
