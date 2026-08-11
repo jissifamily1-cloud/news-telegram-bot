@@ -1130,14 +1130,17 @@
     [
      "2026-08-11T13:35:22.832301+09:00",
      "News Yonhap Summary"
+    ],
+    [
+     "2026-08-11T13:40:28.443495+09:00",
+     "220층 보고서 개미 울린 온다 구조대 하닉 고층 증권사"
+    ],
+    [
+     "2026-08-11T13:40:28.443495+09:00",
+     "용인반도체클러스터 아파트 시작 직주근접 분양"
     ]
    ],
    "seen_urls": [
-    "https://www.bzeronews.com/news/articleView.html?idxno=821057",
-    "https://sports.hankooki.com/news/articleView.html?idxno=6937768",
-    "https://www.news1.kr/sports/basketball/6254541",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04040966645546008",
-    "http://www.joseilbo.com/news/news_read.php?uid=573554&class=17",
     "https://news.tf.co.kr/read/economy/2352523.htm",
     "http://www.iminju.net/news/articleView.html?idxno=167850",
     "https://www.cwn.kr/news/articleView.html?idxno=52750",
@@ -2632,14 +2635,14 @@
     "https://www.tokenpost.kr/news/market/388207",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=142886",
     "https://www.mk.co.kr/article/12123958",
-    "https://en.yna.co.kr/view/AEN20260811004800315?input=2106m"
+    "https://en.yna.co.kr/view/AEN20260811004800315?input=2106m",
+    "https://www.etoday.co.kr/news/view/2613227",
+    "https://www.etoday.co.kr/news/view/2613222",
+    "https://www.hankyung.com/article/2026081199407",
+    "https://www.seoul.co.kr/news/economy/securities/2026/08/11/20260811500138?wlog_tag3=naver",
+    "https://www.viva100.com/article/20260811500699"
    ],
    "seen_titles": [
-    "[주요공시]8월10일오후",
-    "'24시간AI상담'으로위기청소년먼저찾는다",
-    "코스피6300선눈앞…삼성전자·SK하이닉스약세에비반도체관심확대",
-    "프로농구10월3일개천절개막…2026-27시즌일정확정",
-    "삼전닉스쉬자건설·기계'꿈틀'…코스피확산장오나",
     "SK하이닉스,4조규모中충칭공장지분매각설에“검토중”",
     "SK하이닉스,중국충칭공장매각설에\"확정된사항없어\"",
     "취임후'최저지지율'李대통령,메가프로젝트민심향방은?",
@@ -4134,10 +4137,15 @@
     "달러-원1,415.60원으로하락…엔화강세·네고영향",
     "코스피약세에코스닥이달만20%급등...'시장갈아타기'는신중해야",
     "“당분간오르고또떨어지겠지”…코스닥반등에도인버스사는개미",
-    "YonhapNewsSummary"
+    "YonhapNewsSummary",
+    "SKTAI모델'A.XK2',국제수학올림피아드서금메달성능…미·중이외...",
+    "외인ㆍ기관쌍끌이매수에코스피6400선위로⋯코스닥은하락전환",
+    "\"출장지서1분만에퇴근\"…SK하닉근태불량직원,9.5억날렸다",
+    "“하닉220층구조대안온다?”‘고층개미’들울린증권사보고서...",
+    "용인반도체클러스터,직주근접아파트분양시작"
    ],
    "initialized": true,
-   "last_run": "2026-08-11T13:35:22.832301+09:00"
+   "last_run": "2026-08-11T13:40:28.443495+09:00"
   }
  },
  "press_names": {
