@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-11T14:30:42.117849+09:00",
-     "결전 모티프 국가대표 탈락 LG 이달 1곳 업스테이지 SKT"
-    ],
-    [
-     "2026-08-11T14:30:42.117849+09:00",
-     "아산 변화 첨단산업 확대되는 주거시장 충청권 투자 천안"
-    ],
-    [
-     "2026-08-11T14:30:42.117849+09:00",
-     "윤활기유 정유사 중동 버팀목 전쟁에 몸값 든든한"
-    ],
-    [
      "2026-08-11T14:35:23.412209+09:00",
      "SK하이닉스의 밖에선 배당 역대급 고민 성과급 안에선"
     ],
@@ -1258,10 +1246,13 @@
     [
      "2026-08-11T20:30:37.009812+09:00",
      "콘퍼런스 제20회 참가 시큐리티 SK쉴더스 국제"
+    ],
+    [
+     "2026-08-11T20:35:21.536192+09:00",
+     "축소 재매수 대기 메모리 400만달러 주문 1529만달러"
     ]
    ],
    "seen_urls": [
-    "https://www.joongangenews.com/news/articleView.html?idxno=539199",
     "https://www.joongangenews.com/news/articleView.html?idxno=539200",
     "https://www.topstarnews.net/news/articleView.html?idxno=16160302",
     "https://www.cbci.co.kr/news/articleView.html?idxno=597038",
@@ -2760,10 +2751,10 @@
     "https://www.ajunews.com/view/20260811202013632",
     "https://www.mk.co.kr/article/12124465",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=07009366645546336",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2458090"
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2458090",
+    "https://www.tokenpost.kr/news/market/388427"
    ],
    "seen_titles": [
-    "호르무즈협상불확실성확산...美증시동반하락,나스닥0.32%'뚝'",
     "장초반주춤…코스피·코스닥약보합권",
     "[이시각시황]코스피1.2%↓…국제유가급등에LPG·해운주‘들썩’",
     "3년간의AI전쟁,中오픈소스시장서압승...60%장악에도美반격카드...",
@@ -4262,10 +4253,11 @@
     "조정식의장·한성숙총리,이번주빌게이츠와회동",
     "“삼전닉스덕에최대치찍었습니다”...2분기수출액389조원기록",
     "\"삼전닉스다닌다고말못해\"...외신이주목한'한국인기男'",
-    "[포토]SK쉴더스,'제20회국제시큐리티콘퍼런스'참가"
+    "[포토]SK쉴더스,'제20회국제시큐리티콘퍼런스'참가",
+    "1529만달러메모리롱축소주문,400만달러재매수대기"
    ],
    "initialized": true,
-   "last_run": "2026-08-11T20:30:37.009812+09:00"
+   "last_run": "2026-08-11T20:35:21.536192+09:00"
   }
  },
  "press_names": {
