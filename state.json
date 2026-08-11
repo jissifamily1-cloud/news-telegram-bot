@@ -1137,8 +1137,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.wsobi.com/news/articleView.html?idxno=316247",
-    "https://www.newsis.com/view/NISX20260810_0003743303",
     "https://www.yna.co.kr/view/AKR20260810121800017?input=1195m",
     "https://www.yna.co.kr/view/AKR20260810082800008?input=1195m",
     "https://www.etoday.co.kr/news/view/2612883",
@@ -2636,11 +2634,11 @@
     "https://www.ekn.kr/web/view.php?key=20260811023501530",
     "https://shindonga.donga.com/3/all/13/6335452/1",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=363410",
-    "https://www.electimes.com/news/articleView.html?idxno=371148"
+    "https://www.electimes.com/news/articleView.html?idxno=371148",
+    "https://www.youthdaily.co.kr/news/article.html?no=224930",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1719919"
    ],
    "seen_titles": [
-    "SK바이오사이언스,2분기157억영업손실…\"IDT실적은개선\"",
-    "통신3사,광복81주년기념캠페인전개·NH농협은행차세대AICC구축...",
     "SK바사,2분기매출1557억…영업손실58%감소",
     "SK쉴더스이큐스트,데프콘AICTF서글로벌5위",
     "코스피주춤,코스닥만날았다…레버리지규제이후수급개선",
@@ -4138,10 +4136,12 @@
     "김성환장관“AI데이터센터물사용량,우려만큼많지않아”",
     "세계제패한韓수출품81",
     "[메세나브리핑-8월2주]카카오,'브런치북출판'수상작정식출간외",
-    "이상천로지시스상무\"韓EV현장운영경험,베트남스마트모빌리티..."
+    "이상천로지시스상무\"韓EV현장운영경험,베트남스마트모빌리티...",
+    "반도체'쾌속질주'...2분기수출2천755억달러\"역대최대\"",
+    "HBM56%쥔SK하이닉스,몸값은마이크론절반…美서\"최고AI메모리주\""
    ],
    "initialized": true,
-   "last_run": "2026-08-11T13:04:20.896831+09:00"
+   "last_run": "2026-08-11T13:05:22.196272+09:00"
   }
  },
  "press_names": {
