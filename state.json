@@ -1041,7 +1041,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260811_0003743993",
     "https://magazine.hankyung.com/business/article/202608115988b",
     "http://www.newsian.co.kr/news/articleView.html?idxno=93568",
     "https://www.joongangenews.com/news/articleView.html?idxno=539195",
@@ -2540,10 +2539,10 @@
     "https://www.autodaily.co.kr/news/articleView.html?idxno=546558",
     "http://www.newsworker.co.kr/news/articleView.html?idxno=440756",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=556479",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=07393126645546336"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=07393126645546336",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=442664"
    ],
    "seen_titles": [
-    "코스피,미·이란협상교착에장초반1%대하락…개인·기관팔자",
     "\"SKT,데이터센터확장글로벌통신사1위…업계최고15GW목표\"",
     "해외증시온기에국내ETF자금이탈…해외로자금이동",
     "“恨많은국장,이제는떠나렵니다”...개미이탈에국내주식형ETF,올...",
@@ -4042,10 +4041,11 @@
     "국내1위렌터카롯데렌탈,美투자업체TPG에1.3조원에매각",
     "전남광주광산구,'반도체공급망'지역기업진입전략본격화",
     "유승민\"대구군공항,천덕꾸러기신세\"",
-    "[미리보는이데일리신문]정부제재에도…쿠팡‘납치광고’기승"
+    "[미리보는이데일리신문]정부제재에도…쿠팡‘납치광고’기승",
+    "코스피,강보합에6300선...삼성전자,삼성생명상승VSLG에너지솔루션..."
    ],
    "initialized": true,
-   "last_run": "2026-08-11T21:30:37.833833+09:00"
+   "last_run": "2026-08-11T21:31:41.770176+09:00"
   }
  },
  "press_names": {
