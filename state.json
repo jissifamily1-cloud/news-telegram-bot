@@ -1305,8 +1305,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.joseilbo.com/news/news_read.php?uid=573593&class=53",
-    "https://view.asiae.co.kr/article/2026081109344678791",
     "https://biz.sbs.co.kr/article_hub/20000327849?division=NAVER",
     "https://www.ajunews.com/view/20260810143820321",
     "https://www.tokenpost.kr/news/market/388043",
@@ -2804,11 +2802,11 @@
     "https://www.dailyt.co.kr/newsView/dlt202608110010",
     "https://www.segye.com/newsView/20260811522823?OutUrl=naver",
     "http://www.kwangju.co.kr/article.php?aid=1786446000802197277",
-    "https://www.segye.com/newsView/20260811519572?OutUrl=naver"
+    "https://www.segye.com/newsView/20260811519572?OutUrl=naver",
+    "https://www.businessplus.kr/news/articleView.html?idxno=115346",
+    "http://www.fnnews.com/news/202608111811108139"
    ],
    "seen_titles": [
-    "코스피,장초반1%대내림세⋯“美증시약세ㆍ유가급등의‘이중고’...",
-    "반도체주부진에코스피6200선약세출발…코스닥도소폭하락[개장시...",
     "키움증권“삼성전자·SK하닉목표가하향…HBM모멘텀은유효”",
     "코스피·코스닥하락출발…뉴욕증시약세영향",
     "코스피,기관·개인순매도에6240선약세",
@@ -4306,10 +4304,12 @@
     "입주1년여만에테라스붕괴…송도럭스오션SK뷰,‘5만7천여건하자’...",
     "SK하이닉스,일본키옥시아단일최대주주지위올라섰다",
     "광주5개자치구‘자치시전환’본격화…정치권갑론을박",
-    "서울단독질주속…K리그중상위권‘대혼전’"
+    "서울단독질주속…K리그중상위권‘대혼전’",
+    "롯데,롯데렌탈TPG에매각…\"포트폴리오조정가속화\"",
+    "롯데렌탈,美TPG품으로…1조3000억원에경영권매각"
    ],
    "initialized": true,
-   "last_run": "2026-08-11T20:05:25.825659+09:00"
+   "last_run": "2026-08-11T20:09:39.379868+09:00"
   }
  },
  "press_names": {
