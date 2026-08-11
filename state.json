@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-11T18:35:23.091295+09:00",
-     "삼성전자 SK하이닉스와 간담회 더불어민주당"
-    ],
-    [
-     "2026-08-11T18:35:23.091295+09:00",
-     "소급 3년 강행 호소에도 재계 적용 집단소송제"
-    ],
-    [
      "2026-08-11T18:45:34.693097+09:00",
      "한풀 걱정 이제 꺾인 이번엔 견딜만해 가뭄 폭염"
     ],
@@ -314,15 +306,33 @@
     [
      "2026-08-12T00:20:37.458100+09:00",
      "4개월만 장타 중간배당으로 홈런성 결산배당 기업 주요"
+    ],
+    [
+     "2026-08-12T00:35:25.493659+09:00",
+     "합작법인 배터리는 GM의 차세대 공동개발 삼성SDI 지분 인수"
+    ],
+    [
+     "2026-08-12T00:35:25.493659+09:00",
+     "트집 대미투자 잡는 삼전닉스 마이크론"
+    ],
+    [
+     "2026-08-12T00:35:25.493659+09:00",
+     "2배 해외보다 진입장벽 보호 자산 높은 증가율 레버리지 투자자"
+    ],
+    [
+     "2026-08-12T00:35:25.493659+09:00",
+     "렌터카 3조 판다 TPG에 롯데 받고"
+    ],
+    [
+     "2026-08-12T00:35:25.493659+09:00",
+     "5년 10개사 누빌 육성 K에너지 유니콘 세계"
+    ],
+    [
+     "2026-08-12T00:35:25.493659+09:00",
+     "구조조정 3분기 반짝 다시 흑자 먹구름 석화 서둘러야"
     ]
    ],
    "seen_urls": [
-    "https://www.topstarnews.net/news/articleView.html?idxno=16160345",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1394602",
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=238567",
-    "https://www.sentv.co.kr/article/view/sentv202608100169",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=855909",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=04529686645546336",
     "https://www.gokorea.kr/news/articleView.html?idxno=874645",
     "http://www.financialreview.co.kr/news/articleView.html?idxno=44130",
     "https://www.dailian.co.kr/news/view/1676790/?sc=Naver",
@@ -1816,15 +1826,15 @@
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553450520",
     "https://www.joongang.co.kr/article/25452586",
     "http://www.kwangju.co.kr/article.php?aid=1786461300802190074",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=52091"
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=52091",
+    "https://www.donga.com/news/Economy/article/all/20260811/134459537/2",
+    "https://www.donga.com/news/Economy/article/all/20260811/134459532/2",
+    "https://www.donga.com/news/Economy/article/all/20260811/134460070/2",
+    "https://www.donga.com/news/Economy/article/all/20260811/134460146/2",
+    "https://www.donga.com/news/Economy/article/all/20260811/134459915/2",
+    "https://www.donga.com/news/Economy/article/all/20260811/134460152/2"
    ],
    "seen_titles": [
-    "[특징주]삼성전자·SK하이닉스,美반도체지수급락..'약세'",
-    "\"삼전닉스급락끝났다,지금사라\"더니뒤로팔았다...외국계IB의'이...",
-    "미국증시약보합에코스피,1%가량하락출발",
-    "\"연구속도획기적단축\"과기정통부,24시간멈추지않는'자율실험실...",
-    "AI가밤새실험...80여곳'자율실험실'시동",
-    "\"중국반도체가SK하이닉스와TSMC추격어렵다\"평가나와,HBM이차별화...",
     "성과급에엇갈린노조결집..삼성은‘확대’,SK하이닉스는‘사수’",
     "신재생에너지株,개별종목온도차뚜렷…에스에너지25%대급등",
     "로봇한대로보안·건강까지…SK인텔릭스의승부수",
@@ -3318,10 +3328,16 @@
     "대한민국서'희망'봤나...\"혼자마차끌순없어\"바이에른뮌헨,분데...",
     "AI투자과열론에도…엔비디아또‘709조드라이브’",
     "‘전격전’으로광주반도체총력지원나선정부",
-    "주요기업,중간배당으로또홈런성장타…결산배당후4개월만"
+    "주요기업,중간배당으로또홈런성장타…결산배당후4개월만",
+    "삼성SDI,GM의美합작법인지분인수…차세대배터리는공동개발",
+    "삼전닉스대미투자트집잡는마이크론",
+    "해외보다2배높은레버리지자산증가율…“투자자보호진입장벽높...",
+    "롯데,美TPG에1.3조받고렌터카판다",
+    "“세계누빌K에너지유니콘10개사5년내육성”",
+    "‘반짝흑자’韓석화,3분기다시먹구름…“구조조정서둘러야”"
    ],
    "initialized": true,
-   "last_run": "2026-08-12T00:30:44.622924+09:00"
+   "last_run": "2026-08-12T00:35:25.493659+09:00"
   }
  },
  "press_names": {
