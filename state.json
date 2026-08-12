@@ -1193,8 +1193,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.beyondpost.co.kr/view.php?ud=20260811154001642aaae0046f_30",
-    "https://www.yna.co.kr/view/PYH20260811149600013?input=1196m",
     "https://www.seoul.co.kr/news/economy/securities/2026/08/11/20260811500210?wlog_tag3=naver",
     "https://www.yna.co.kr/view/PYH20260811149200013?input=1196m",
     "https://www.yna.co.kr/view/AKR20260811125400008?input=1195m",
@@ -2692,11 +2690,11 @@
     "https://www.khgames.co.kr/news/articleView.html?idxno=307245",
     "http://www.kdfnews.com/news/articleView.html?idxno=186435",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=726096",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=271604"
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=271604",
+    "https://www.dailian.co.kr/news/view/1677598/?sc=Naver",
+    "https://www.imaeil.com/page/view/2026081212015274695"
    ],
    "seen_titles": [
-    "반도체가끌어올린수출…2분기2755억달러‘역대최대’",
-    "이상일용인시장,복달임행사서취약계층어르신격려…생활불편도살...",
     "삼성전자4%급등…코스피0.73%오른6345.53마감",
     "코스피,외인·기관'사자'에강세마감…삼성전자4%대반등",
     "롯데렌탈,10년만에롯데떠난다…TPG에1.3조원매각",
@@ -4194,10 +4192,12 @@
     "'카트라이더러쉬플러스',제주SKFC와협업...축구공카트무료제공",
     "정석근SKTCIC장\"AI경쟁핵심은누가더많은인프라갖느냐…향후2...",
     "용인반도체팹앞당겼지만…기반시설공기맞추기과제",
-    "\"GM지분전량인수한삼성SDI…북미'50GWhESS공룡'탄생한다\""
+    "\"GM지분전량인수한삼성SDI…북미'50GWhESS공룡'탄생한다\"",
+    "경기도지자체·주민들,용인반도체클러스터축소·이전될까노심초사",
+    "코스피급등에매수사이드카발동…'삼전닉스'8%대상승"
    ],
    "initialized": true,
-   "last_run": "2026-08-12T12:25:23.106394+09:00"
+   "last_run": "2026-08-12T12:30:36.829641+09:00"
   }
  },
  "press_names": {
