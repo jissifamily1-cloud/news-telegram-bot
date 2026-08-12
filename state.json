@@ -478,11 +478,13 @@
     [
      "2026-08-13T07:40:30.258561+09:00",
      "사망 가습기살균제 싸워달라 대표 광화문서 피해자단체 죽으면"
+    ],
+    [
+     "2026-08-13T07:45:29.062883+09:00",
+     "LG디플 4곳 LG이노텍 MSCI한국지수에 빠져 신규편입"
     ]
    ],
    "seen_urls": [
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=271597",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=274640",
     "http://www.seouleconews.com/news/articleView.html?idxno=93028",
     "https://www.tokenpost.kr/news/blockchain/388804",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4429755",
@@ -1980,11 +1982,11 @@
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692380",
     "https://www.chosun.com/economy/int_economy/2026/08/13/35DXUBRK2JGUJEW5QTXH5HEDRY/",
     "https://www.mediapen.com/news/view/1116071",
-    "https://www.segye.com/newsView/20260813504467?OutUrl=naver"
+    "https://www.segye.com/newsView/20260813504467?OutUrl=naver",
+    "https://www.mt.co.kr/entertainment/2026/08/13/2026081307282631082",
+    "https://view.asiae.co.kr/article/2026081307394315583"
    ],
    "seen_titles": [
-    "‘행복한직장’1위삼전닉스아니었다…최고는‘이곳’",
-    "코스피,3%뛰며6500선회복…外人·기관1.5조원쓸어담아(종합)",
     "SK하이퍼정석근\"그룹내반도체·전력·건설·네트워크까지총동원해...",
     "ADT캡스,전국지사대상혹서기안전관리강화",
     "SK하이닉스'통합노조'출범임박…임단협판흔들변수로",
@@ -3482,10 +3484,12 @@
     "AI데이터센터發전력반도체시장경쟁새국면…8인치SiC전환가속",
     "물가둔화에AI주다시날았다…나스닥0.5%상승",
     "[美증시]AI인프라주전반불기둥…광트랜시버,서버제조업체까지",
-    "“나죽으면광화문서싸워달라”…가습기살균제피해자단체대표사망"
+    "“나죽으면광화문서싸워달라”…가습기살균제피해자단체대표사망",
+    "'삼전4.5만매수'김구라,\"하이닉스132만원이면들어가야\"",
+    "MSCI한국지수에LG이노텍신규편입…LG디플등4곳빠져"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T07:40:30.258561+09:00"
+   "last_run": "2026-08-13T07:45:29.062883+09:00"
   }
  },
  "press_names": {
