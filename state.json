@@ -593,8 +593,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12124976",
-    "https://www.sedaily.com/article/20078388",
     "https://www.sedaily.com/article/20078389",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000002460&cp=nv",
     "https://www.sedaily.com/article/20078434",
@@ -2092,11 +2090,11 @@
     "https://www.news1.kr/it-science/cc-newmedia/6257071",
     "https://www.joongang.co.kr/article/25452873",
     "https://www.topstarnews.net/news/articleView.html?idxno=16162041",
-    "https://www.munhwa.com/article/11609163"
+    "https://www.munhwa.com/article/11609163",
+    "https://www.seoul.co.kr/news/politics/2026/08/12/20260812500246?wlog_tag3=naver",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260812230240qfo"
    ],
    "seen_titles": [
-    "집토끼지키기나선통신3사..장기고객혜택강화",
-    "\"하반기채용,여기주목!\"잡코리아,상반기신입공고증가업종TOP5...",
     "美증시약세에도코스피2%상승6400선…삼전닉스3~4%강세",
     "코스피,삼전닉스상승하며장초반강세…코스닥은약세",
     "행복하지않지만떠나지도않는다,블라인드지수가짚은직장인의관망",
@@ -3594,10 +3592,12 @@
     "해킹악재바닥지나는통신3사…AIDC,효자가능성보인다",
     "김용범,17일만에SNS메시지“내일돈벌산업으로흘러가야”",
     "미국증시,CPI둔화에금리부담완화…엔비디아·SK하이닉스ADR강세",
-    "LG전자12%상승?‘증시고점징크스’재현되나"
+    "LG전자12%상승?‘증시고점징크스’재현되나",
+    "김용범“AI와반도체서축적한기술,다른산업에투자해야”",
+    "코스피6,500선탈환…반도체'삼전닉스'강세"
    ],
    "initialized": true,
-   "last_run": "2026-08-12T23:05:30.676264+09:00"
+   "last_run": "2026-08-12T23:10:30.347985+09:00"
   }
  },
  "press_names": {
