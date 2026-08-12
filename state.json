@@ -330,10 +330,13 @@
     [
      "2026-08-13T00:20:27.596951+09:00",
      "짠다 호남반도체 건설 전력 시간표 빨라지는 다시 용인"
+    ],
+    [
+     "2026-08-13T00:30:37.315756+09:00",
+     "호남 인프라 전력 완공한다는 계획부터 용수 2029년"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03975366645546664",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1720063",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=52098",
     "https://www.upkoreanews.kr/news/articleView.html?idxno=99724",
@@ -1832,10 +1835,10 @@
     "https://www.joongang.co.kr/article/25452898",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000002680&cp=nv",
     "https://www.hankyung.com/article/2026081275471",
-    "https://www.joongang.co.kr/article/25452911"
+    "https://www.joongang.co.kr/article/25452911",
+    "https://www.joongang.co.kr/article/25452926"
    ],
    "seen_titles": [
-    "변동성장세속순환매확산…화장품株,수출·실적날개달고'훨훨'",
     "[오늘일본은]日태풍15호관동강타…강풍피해속13일까지최대15...",
     "[신윤우의외환분석]팔아야할팔자",
     "대신증권,2분기어닝서프라이즈...하반기는평가손실부담",
@@ -3334,10 +3337,11 @@
     "[박석현의마켓나우]반도체이익전망,속도보다방향을보라",
     "한화,지역AI·우주항공인재양성…국립대3곳과맞손",
     "[데스크칼럼]또겉만보고따라하다간",
-    "빨라지는팹건설…용인·호남반도체‘전력시간표’다시짠다"
+    "빨라지는팹건설…용인·호남반도체‘전력시간표’다시짠다",
+    "[사설]2029년완공한다는호남팹,전력·용수인프라계획부터"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T00:25:26.812562+09:00"
+   "last_run": "2026-08-13T00:30:37.315756+09:00"
   }
  },
  "press_names": {
