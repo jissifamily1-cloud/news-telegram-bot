@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-12T21:40:23.261050+09:00",
-     "인기 무신사 뷰티상품 컬리 저렴하게"
-    ],
-    [
      "2026-08-12T21:45:27.734790+09:00",
      "Shareholder hynix Retail Returns Samsung Investors Amid Dump"
     ],
@@ -186,10 +182,13 @@
     [
      "2026-08-13T03:30:36.710228+09:00",
      "실질금리 재정 금리 경고 리셋 30년물 적자 돌파 국채"
+    ],
+    [
+     "2026-08-13T03:40:30.459844+09:00",
+     "2027년까지 영향은 공급난 한국 메모리 마이크론 반도체"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/it-science/mobile/6256407",
     "https://www.inven.co.kr/webzine/news/?news=319409",
     "https://www.viewsnnews.com/article?q=237851",
     "https://www.segye.com/newsView/20260812508114?OutUrl=naver",
@@ -1688,10 +1687,10 @@
     "https://www.greened.kr/news/articleView.html?idxno=347543",
     "https://www.ekn.kr/web/view.php?key=20260813029402299",
     "https://www.g-enews.com/view.php?ud=202608121621354604fbbec65dfb_1",
-    "https://www.g-enews.com/view.php?ud=202608121624402507fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202608121624402507fbbec65dfb_1",
+    "https://www.g-enews.com/view.php?ud=202608121628008450fbbec65dfb_1"
    ],
    "seen_titles": [
-    "\"인니투자는한국전기차밸류체인에중요한역할\"",
     "수협중앙회,70조금융체력으로증권까지확장…비은행키워어업인지...",
     "'수소전용'택한HD현대,'AI'앞세운SK·GS···윤활유영토전쟁",
     "코스피,반도체강세에6,400선회복...삼전닉스4∼3%상승",
@@ -3190,10 +3189,11 @@
     "'삼전닉스'6%뛴뒤美마이크론도6%↑…오늘또달릴까",
     "[패트롤]용인시-성남시-경기광주시-여주시-이천시",
     "기술주헤지펀드,AI거품·레버리지청산에2008년후최악손실",
-    "美,국채30년물금리5.25%돌파…재정적자·실질금리리셋경고"
+    "美,국채30년물금리5.25%돌파…재정적자·실질금리리셋경고",
+    "마이크론,2027년까지메모리공급난…한국반도체영향은"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T03:35:22.549434+09:00"
+   "last_run": "2026-08-13T03:40:30.459844+09:00"
   }
  },
  "press_names": {
