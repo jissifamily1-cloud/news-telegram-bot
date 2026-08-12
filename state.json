@@ -450,17 +450,29 @@
     [
      "2026-08-13T07:30:36.561640+09:00",
      "디테일 착공식서 5000억불 2주 투자 최태원 젠슨 인디애나"
+    ],
+    [
+     "2026-08-13T07:35:23.486653+09:00",
+     "대신 SK하닉은 찍은 삼성전기 모건스탠리 삼전"
+    ],
+    [
+     "2026-08-13T07:35:23.486653+09:00",
+     "싸움 메가특구의 시간 반도체"
+    ],
+    [
+     "2026-08-13T07:35:23.486653+09:00",
+     "주가 최소 하락도 증권사만 웃는다 얘기 수수료만"
+    ],
+    [
+     "2026-08-13T07:35:23.486653+09:00",
+     "갈랐다 성적이 주력 전문의약품 2Q 중견사"
+    ],
+    [
+     "2026-08-13T07:35:23.486653+09:00",
+     "시장 SiC 전력반도체 가속 국면 데이터센터 8인치 경쟁"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=444547",
-    "http://www.boannews.com/media/view.asp?idx=145121&kind=1",
-    "https://www.greened.kr/news/articleView.html?idxno=347469",
-    "https://biz.heraldcorp.com/article/10838647",
-    "https://www.ddaily.co.kr/page/view/2026081211185724446",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=270126",
-    "https://www.chosun.com/economy/tech_it/2026/08/12/LQDNFQTBB5C3HC6BTB5EM224CY/",
-    "https://www.news1.kr/sports/baseball/6256643",
     "https://www.fntimes.com/html/view.php?ud=2026081211190780672a735e27af_18",
     "https://www.youthdaily.co.kr/news/article.html?no=224994",
     "https://biz.heraldcorp.com/article/10838668",
@@ -1952,17 +1964,17 @@
     "https://biz.sbs.co.kr/article_hub/20000328389?division=NAVER",
     "http://tbs.seoul.kr/news/newsView.do?typ_800=1&idx_800=3537838&seq_800=20530721",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=361671",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=270238"
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=270238",
+    "https://www.public25.com/news/articleView.html?idxno=52636",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=442740",
+    "https://www.bntnews.co.kr/article/view/bnt202608130023",
+    "https://www.etoday.co.kr/news/view/2613937",
+    "https://www.news1.kr/industry/general-industry/6257308",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=03329206645546992",
+    "https://news.bizwatch.co.kr/article/healthcare/2026/08/12/0041",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692380"
    ],
    "seen_titles": [
-    "직장인행복도SK하이닉스상위3%…1위는가스공사",
-    "반도체힘받자코스피3%대로상승확대…코스닥은약보합",
-    "블루팜코리아,독감백신12개제품사전판매",
-    "넥슨카트라이더러쉬플러스,제주SKFC와협업…'축구공카트'전원무...",
-    "SK오션플랜트,2분기영업익193억…전년비24.4%↑",
-    "미래에셋증권2분기순이익1조8959억'역대최대':스페이스X관련자...",
-    "‘카트라이더러쉬플러스’제주SKFC와협업기념이벤트진행",
-    "“한국보다대만이낫지”…주춤한삼전닉스,다시끌어올릴‘한방’...",
     "북항재개발·정비사업호재…부산‘두산위브더제니스대연’주목",
     "\"이탁수의그녀\"전수완,미스코리아입상할까",
     "'고연봉'SK하이닉스,직장인행복도도'상위3%'",
@@ -3454,10 +3466,18 @@
     "[마켓프리뷰]반도체'불기둥'에코스피급등…코스닥도'강보합'",
     "뉴욕증시,인플레둔화속AI낙관론재개…나스닥0.5％↑",
     "CPI둔화속뉴욕증시혼조…나스닥0.5%↑",
-    "최태원-젠슨황,2주뒤인디애나팹착공식서'5000억불투자디테일'..."
+    "최태원-젠슨황,2주뒤인디애나팹착공식서'5000억불투자디테일'...",
+    "뉴욕증시,인플레둔화속혼조세나스닥0.54%↑...국제유가WTI0.1%↑",
+    "뉴욕증시,금리인상우려완화에도혼조세⋯엔비디아3%대,마이크론4%...",
+    "삼전닉스전망,머스크發엔비디아독점에훈풍",
+    "[증시키워드]삼전대신‘삼성전기’찍은모건스탠리⋯SK하닉은美패...",
+    "[팀장칼럼]반도체메가특구의시간싸움",
+    "수수료만최소4%,주가하락도남얘기..증권사만웃는다",
+    "[제약리그테이블]중견사,전문의약품·주력성적이2Q갈랐다",
+    "AI데이터센터發전력반도체시장경쟁새국면…8인치SiC전환가속"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T07:30:36.561640+09:00"
+   "last_run": "2026-08-13T07:35:23.486653+09:00"
   }
  },
  "press_names": {
