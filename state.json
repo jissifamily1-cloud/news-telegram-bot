@@ -170,10 +170,13 @@
     [
      "2026-08-13T04:05:26.052389+09:00",
      "효자 DC 성적 엇갈린 통신3사 2Q"
+    ],
+    [
+     "2026-08-13T04:11:42.677706+09:00",
+     "신약개발 도입 연구로 자체 파이프라 실제 구축하고 넘어 플랫폼"
     ]
    ],
    "seen_urls": [
-    "https://www.s-journal.co.kr/news/articleView.html?idxno=42983",
     "https://www.dailian.co.kr/news/view/1677500/?sc=Naver",
     "https://www.insight.co.kr/news/567727",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050542",
@@ -1672,10 +1675,10 @@
     "https://www.mt.co.kr/finance/2026/08/13/2026081219452426532",
     "https://www.g-enews.com/view.php?ud=202608121634281845fbbec65dfb_1",
     "https://www.mt.co.kr/stock/2026/08/13/2026081219540671059",
-    "https://www.mt.co.kr/tech/2026/08/13/2026081220004291074"
+    "https://www.mt.co.kr/tech/2026/08/13/2026081220004291074",
+    "https://www.medigatenews.com/news/3428983497"
    ],
    "seen_titles": [
-    "[주식시황]'삼전닉스'질주에코스피6,400선회복…코스닥은약세",
     "외인,삼전연이틀순매수…코스피2%상승세[시황]",
     "신한은행·신한카드'신한SOL클러스터부산'개소식개최·'Hi-PointPlan'2...",
     "야구티켓도NFT시대…네이버·NC다이노스,프로야구첫'Npay월렛'적...",
@@ -3174,10 +3177,11 @@
     "과금액↓…마이데이터비용부담줄인다",
     "AI투자,1조달러시대...타산업자금잠식우려작다",
     "美반도체약세속,삼전닉스강세…K증시동반상승",
-    "통신3사엇갈린2Q성적속…효자된AIDC"
+    "통신3사엇갈린2Q성적속…효자된AIDC",
+    "AI신약개발'도입'넘어실제연구로…자체플랫폼구축하고파이프라..."
    ],
    "initialized": true,
-   "last_run": "2026-08-13T04:10:28.472185+09:00"
+   "last_run": "2026-08-13T04:11:42.677706+09:00"
   }
  },
  "press_names": {
