@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-12T06:40:26.901603+09:00",
-     "시대 개미 해외 외국인 유치전 거래 증권사"
-    ],
-    [
-     "2026-08-12T06:40:26.901603+09:00",
-     "거세지는 노동기본권 철회 메가특구특별법 파괴 목소리"
-    ],
-    [
-     "2026-08-12T06:45:26.374317+09:00",
-     "서울대 싶습니다 가고 전공 저도 공대생 9명 10명 삼전닉스"
-    ],
-    [
      "2026-08-12T06:50:27.160892+09:00",
      "대응 비거주 논란의 국토장관 공급 확대로 1주택 규제"
     ],
@@ -1174,14 +1162,13 @@
     [
      "2026-08-12T12:25:23.106394+09:00",
      "공룡 탄생한다 삼성SDI 북미 GM 인수한 ESS 전량 50GWh 지분"
+    ],
+    [
+     "2026-08-12T12:45:28.779068+09:00",
+     "2차 방류수 줄여라 경기도 반도체 행정지시"
     ]
    ],
    "seen_urls": [
-    "https://news.dealsitetv.com/articles/174569",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4429603",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16160624",
-    "https://www.kgnews.co.kr/news/article.html?no=907386",
-    "https://www.tokenpost.kr/news/policy/388275",
     "https://www.donga.com/news/Economy/article/all/20260811/134457785/1",
     "https://www.hankyung.com/article/2026081159501",
     "https://www.mediapen.com/news/view/1115697",
@@ -2676,14 +2663,14 @@
     "https://kpenews.com/View.aspx?No=4183726",
     "http://www.wikileaks-kr.org/news/articleView.html?idxno=190854",
     "https://www.news1.kr/photos/8052337",
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5211952"
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5211952",
+    "https://www.energydaily.co.kr/news/articleView.html?idxno=202162",
+    "https://www.tokenpost.kr/news/market/389005",
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5211953",
+    "https://biz.heraldcorp.com/article/10838818",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008701773&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "내일부터NXT프리마켓상·하한가주문금지…‘1주급등락’막는다",
-    "다시‘천스닥’시대올까?“제도만으로는한계…근본체력개선해야...",
-    "[서울데이터랩]마감직후인기검색종목20選",
-    "‘내집마련’소유,사우나룸공개“만족도높아”",
-    "SK하이닉스,日키옥시아최대주주로…도시바지분축소여파",
     "\"광주반도체속도전\"대통령발언에전남광주관련주'들썩'",
     "[증시-마감]삼성전자4%대급등에코스피0.73%상승…코스닥도0.39%↑",
     "SK텔레콤주가,8월11일86,000원1.18%상승마감",
@@ -4178,10 +4165,15 @@
     "SK하이닉스,성과급갈등에4노조체제예고..통합노조설립초읽기",
     "코스피6600선회복…선물5%급등에매수사이드카발동",
     "호남권·용인반도체메가프로젝트전력공급업무협약",
-    "행복한직장1위는?삼전닉스아니라'이곳'"
+    "행복한직장1위는?삼전닉스아니라'이곳'",
+    "한전,'호남권·용인반도체메가프로젝트'적기전력공급한다",
+    "삼성전자2배상품장중17%상승…SK하이닉스도16%",
+    "코스피,4%대급등하며매수사이드카발동",
+    "코스피4%대급등에매수사이드카…삼전닉스7%급등[투자360]",
+    "경기도\"반도체방류수줄여라\"…2차행정지시"
    ],
    "initialized": true,
-   "last_run": "2026-08-12T12:40:26.112917+09:00"
+   "last_run": "2026-08-12T12:45:28.779068+09:00"
   }
  },
  "press_names": {
