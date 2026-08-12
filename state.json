@@ -1133,15 +1133,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.getnews.co.kr/news/articleView.html?idxno=877619",
-    "https://www.dt.co.kr/article/12077703",
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596892800255",
-    "http://www.fnnews.com/news/202608111607028208",
-    "https://www.delighti.co.kr/news/articleView.html?idxno=120083",
-    "https://www.econovill.com/news/articleView.html?idxno=747688",
-    "https://www.newspim.com/news/view/20260811000890",
-    "https://www.kado.net/news/articleView.html?idxno=2066074",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000002202&cp=nv",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008700427&plink=ORI&cooper=NAVER",
     "https://www.mt.co.kr/tech/2026/08/11/2026081115401387667",
     "https://www.moneystorm.kr/news/articleView.html?idxno=5618",
@@ -2632,17 +2623,18 @@
     "https://www.yna.co.kr/view/PYH20260812102200013?input=1196m",
     "https://www.yna.co.kr/view/PYH20260812102400013?input=1196m",
     "https://www.cnbizm.com/news/articleView.html?idxno=311290",
-    "https://www.econotimes.com/Asian-Stocks-Rise-as-AI-Chip-Rally-Lifts-South-Korea-Japan-1749256"
+    "https://www.econotimes.com/Asian-Stocks-Rise-as-AI-Chip-Rally-Lifts-South-Korea-Japan-1749256",
+    "https://www.insight.co.kr/news/567843",
+    "https://www.yna.co.kr/view/AKR20260812090200003?input=1195m",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050704",
+    "https://www.smarttoday.co.kr/ko-kr/articles/110394",
+    "https://www.joongang.co.kr/article/25452729",
+    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071857",
+    "https://www.newspim.com/news/view/20260812000747",
+    "http://www.joseilbo.com/news/news_read.php?uid=573704&class=53",
+    "https://www.newspim.com/news/view/20260812000746"
    ],
    "seen_titles": [
-    "美컨설턴트“한국,쿠팡등차별규제…트럼프압박다음타깃될수도...",
-    "'세노바메이트겨냥'경쟁약美진입채비…SK바팜\"차별점제한적\"",
-    "GPU깔고유통망뚫고...국산AI판커진다",
-    "애플의위험한외줄타기...정치적리스크에도'중국산메모리'매달리...",
-    "8월금통위'동결이냐,인상이냐'…유상대한은부총재추가인상무게",
-    "광복으로이어진길,그발자취를따르다",
-    "[골든크로스종목]동아쏘시오홀딩스SK가스푸드웰주목을",
-    "‘돌아온반도체’코스피,0.7%상승한6340선…삼성전자4.1%↑",
     "삼전닉스경영진\"전력·용수지원절실\",민주당\"필요입법·예산지원...",
     "코스피,0.73%올라6345.53마감...반도체·게임주강세속삼성전자4....",
     "삼성전자·SK하이닉스,역사새로썼다…올해2분기수출액390조원'신기...",
@@ -4134,10 +4126,18 @@
     "여야,광주반도체공방…與\"최적지\"野\"총선·대선용인기성정책\"",
     "'꿈의직장'삼전닉스아니었다…직장인행복도1위'이회사'",
     "롯데그룹,롯데렌탈경영권미TPG에매각",
-    "AsianStocksRiseasAIChipRallyLiftsSouthKorea,Japan"
+    "AsianStocksRiseasAIChipRallyLiftsSouthKorea,Japan",
+    "코스피5%대급등에매수사이드카발동",
+    "산업장관\"호남반도체부지,정부가기업에먼저제안\"",
+    "[포토]메가프로젝트전력공급협약식인사말하는'김성환기후부장관...",
+    "한전,호남·용인반도체산단전력공급협약…14GW이상수요대응",
+    "하닉도삼전도아니었다…직장인행복도1위는‘이곳’",
+    "CPI앞둔원·달러환율1410원대등락",
+    "호남권반도체산업단지전력공급협약식",
+    "코스맥스,2분기연결사상최대실적에…주가'우상향'[주가동향]"
    ],
    "initialized": true,
-   "last_run": "2026-08-12T13:45:27.215078+09:00"
+   "last_run": "2026-08-12T13:50:26.557166+09:00"
   }
  },
  "press_names": {
