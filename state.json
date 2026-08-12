@@ -341,8 +341,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.inews24.com/view/1994221",
-    "https://biz.chosun.com/stock/market_trend/2026/08/12/4XMNZ4UN4RF6ZB34FSBLC75XUE/",
     "https://www.news1.kr/it-science/cc-newmedia/6256524",
     "https://www.startuptoday.co.kr/news/articleView.html?idxno=809467",
     "https://www.yna.co.kr/view/AKR20260812064300017?input=1195m",
@@ -1840,11 +1838,11 @@
     "http://www.metroseoul.co.kr/article/20260813500001",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1720191",
     "https://www.womennews.co.kr/news/articleView.html?idxno=280980",
-    "https://www.greened.kr/news/articleView.html?idxno=347545"
+    "https://www.greened.kr/news/articleView.html?idxno=347545",
+    "https://www.hankyung.com/article/2026081379757",
+    "https://news.bizwatch.co.kr/article/industry/2026/08/12/0035"
    ],
    "seen_titles": [
-    "\"주식말고현금달라\"…SK하이닉스'통합노조'출범임박",
-    "박스권이냐V자반등이냐…반도체투톱주주환원에달렸다",
     "갤럭시Z8글로벌흥행조짐…한국39%·미국30%·유럽20%↑",
     "\"과반노조로교섭력높인다\"…SK하이닉스'통합노조'출범초읽기",
     "'꿈의직장'삼전닉스아니었다…만족도1위는한국가스공사",
@@ -3342,10 +3340,12 @@
     "바이오株질주멈칫…알테오젠·리가켐·에이비엘나란히하락",
     "572조굴리는테마섹,'삼전닉스'찜했다…K증시첫투자",
     "뉴욕증시,기술주강세혼조마감...나스닥0.5%↑",
-    "계좌엔2877만원인데'1억6260만원부족'…토스증권레버리지'3000만원'..."
+    "계좌엔2877만원인데'1억6260만원부족'…토스증권레버리지'3000만원'...",
+    "'세기의이혼'9440억최종결론은?…최태원결단'D-1'",
+    "[인사이드스토리]구마모토보다빠르게?…호남반도체'2029년'의딜레마"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T06:50:28.242328+09:00"
+   "last_run": "2026-08-13T06:55:20.861373+09:00"
   }
  },
  "press_names": {
