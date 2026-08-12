@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-12T04:35:24.108856+09:00",
-     "반도체발 대만 뛰었다 TSMC 부동산 소문에 온다"
-    ],
-    [
      "2026-08-12T04:40:35.341931+09:00",
      "엔비디아 메모리 주도 혼조 5천억달러 AI파이낸싱에도 반도체"
     ],
@@ -1082,14 +1078,17 @@
     [
      "2026-08-12T10:35:20.391311+09:00",
      "혁신 자율 설계 반도체 DAC 에이전트"
+    ],
+    [
+     "2026-08-12T10:40:29.028848+09:00",
+     "웃는다 얻은 덩달아 삼전닉스 700조원 우군 엔비디아 월가"
+    ],
+    [
+     "2026-08-12T10:40:29.028848+09:00",
+     "한국증시 뷰티 화장품주 장중 활짝 흥행"
     ]
    ],
    "seen_urls": [
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=855999",
-    "https://www.cwn.kr/news/articleView.html?idxno=52873",
-    "https://www.hankookilbo.com/news/article/A2026081114040000104?did=NA",
-    "https://kpenews.com/View.aspx?No=4182249",
-    "https://www.ytn.co.kr/_ln/0102_202608111431501315",
     "https://www.the-today.com/news/articleView.html?idxno=88333",
     "https://www.koreaherald.com/article/10837522",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1719946",
@@ -2584,14 +2583,14 @@
     "https://www.econovill.com/news/articleView.html?idxno=747768",
     "https://www.newsis.com/view/NISX20260812_0003745442",
     "https://www.yna.co.kr/view/AKR20260812056800011?input=1195m",
-    "https://www.g-enews.com/view.php?ud=20260812101309721fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=20260812101309721fbbec65dfb_1",
+    "https://www.newsis.com/view/NISX20260812_0003745511",
+    "https://view.asiae.co.kr/article/2026081209592843119",
+    "https://www.hankyung.com/article/202608126212g",
+    "https://biz.heraldcorp.com/article/10838497",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=169704"
    ],
    "seen_titles": [
-    "김성환기후장관\"용인·호남반도체팹전력차질없도록…탈원전시작...",
-    "SKT독자AI'A.XK2',IMO금메달급성적…AIME2026공동1위",
-    "SK하이닉스,키옥시아영향력확대하나…최대주주지위확보",
-    "[특징주]삼성전자,장중5%급등…SK하이닉스도1%대↑",
-    "김정관장관“호남반도체공장앞당긴다…2029년1차완공”",
     "삼전반등에코스피1%대상승6300선돌파…코스닥보합권",
     "'ETF아버지'배재규한투운용대표,'ACE'로차별화시동건다",
     "안에선‘성과급’,밖에선‘배당’…역대급돈번SK하이닉스의고민",
@@ -4086,10 +4085,15 @@
     "\"졸업하면바로취업\"…LG디스플레이,연세대서입시설명회",
     "세번의방출아픔딛고쌓은178홀드…통산홀드1위로올라선LG김진...",
     "[연합뉴스이시각헤드라인]-10:30",
-    "DAC2026,자율AI에이전트반도체설계혁신"
+    "DAC2026,자율AI에이전트반도체설계혁신",
+    "\"슈퍼사이클끝났나\"…증권가,삼전·닉스줄하향에목표가격차2배",
+    "삼전닉스주주환원,200조?300조?",
+    "'억대성과급'에\"학교안본다\"…신입싹쓸이나선기업들",
+    "700조원월가우군얻은엔비디아,삼전닉스덩달아웃는다[비즈360]",
+    "\"K-뷰티흥행\"...한국증시화장품주'장중활짝'"
    ],
    "initialized": true,
-   "last_run": "2026-08-12T10:35:20.391311+09:00"
+   "last_run": "2026-08-12T10:40:29.028848+09:00"
   }
  },
  "press_names": {
