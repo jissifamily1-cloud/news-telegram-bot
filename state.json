@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-12T22:45:30.538004+09:00",
-     "메모리주 반등 SK하이닉스 샌디스크 오른"
-    ],
-    [
-     "2026-08-12T22:50:26.970067+09:00",
-     "SNS 산업으로 메시지 김용범 17일 만에 흘러가야"
-    ],
-    [
-     "2026-08-12T22:50:26.970067+09:00",
-     "엔비디아 CPI 완화 강세 미국증시 SK하이닉스 부담 둔화에 금리 ADR"
-    ],
-    [
-     "2026-08-12T22:50:26.970067+09:00",
-     "LG전자 고점 징크스 상승 재현되나 증시"
-    ],
-    [
      "2026-08-12T23:35:23.259357+09:00",
      "상승 6500선 마감 코스피 기관 순매수세에 외인"
     ],
@@ -169,7 +153,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20260812000138",
     "https://www.hidomin.com/news/articleView.html?idxno=716946",
     "https://economist.co.kr/article/view/ecn202608120004",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1720070",
@@ -1668,10 +1651,10 @@
     "https://www.donga.com/news/Economy/article/all/20260813/134468984/2",
     "https://www.donga.com/news/Politics/article/all/20260813/134468958/2",
     "https://www.donga.com/news/Economy/article/all/20260813/134468692/2",
-    "https://www.donga.com/news/Society/article/all/20260812/134467281/2"
+    "https://www.donga.com/news/Society/article/all/20260812/134467281/2",
+    "https://www.mediapen.com/news/view/1116052"
    ],
    "seen_titles": [
-    "◇한국식'주주자본주의'에고려해야할부분은없나",
     "AMAT,UC버클리와AI칩상용화협력…EPIC센터가동",
     "대통령상·최강지역타이틀향한18번째결전…제18회대통령배KeG전...",
     "통신사‘AI구독상품’새승부수…불붙는‘요금제+AI’결합상품전...",
@@ -3170,10 +3153,11 @@
     "“광주-용인반도체산단에2000만kW전력공급”",
     "메가특구주52시간예외두고…김정관“논의”김영훈“신중”",
     "“반도체산단전력공급지자체협조”못박아…행정절차단축",
-    "[초대석]“AI-첨단소재키워포항철강재도약”"
+    "[초대석]“AI-첨단소재키워포항철강재도약”",
+    "[美증시]코어위브훈풍·인플레안정에반도체급등…SK하이닉스·마이..."
    ],
    "initialized": true,
-   "last_run": "2026-08-13T04:45:26.997807+09:00"
+   "last_run": "2026-08-13T04:50:29.943866+09:00"
   }
  },
  "press_names": {
