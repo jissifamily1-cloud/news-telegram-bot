@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-13T02:20:28.138472+09:00",
-     "삼전닉스 달릴까 마이크론도"
-    ],
-    [
      "2026-08-13T03:15:29.377706+09:00",
      "이천시 용인시 경기광주시 성남시 여주시"
     ],
@@ -578,15 +574,17 @@
     [
      "2026-08-13T08:15:28.780225+09:00",
      "SK해운 한앤컴퍼니 리밸런싱 에이치라인해운 단위 선대"
+    ],
+    [
+     "2026-08-13T08:20:29.550333+09:00",
+     "스페이스X 출렁 하향 미래에셋 290억 목표가 1달러에"
+    ],
+    [
+     "2026-08-13T08:20:29.550333+09:00",
+     "하닉 올라 미국 실적 ADR 양호 관련주"
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1677587/?sc=Naver",
-    "https://www.tokenpost.kr/news/market/388949",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=444561",
-    "https://www.seoulfn.com/news/articleView.html?idxno=635488",
-    "https://www.irobotnews.com/news/articleView.html?idxno=47875",
-    "https://www.munhwa.com/article/11608989",
     "https://www.techm.kr/news/articleView.html?idxno=154232",
     "https://www.catchnews.kr/news/articleView.html?idxno=127246",
     "https://www.fomos.kr/redirect/news_view?news_cate_id=2&entry_id=155050",
@@ -2080,15 +2078,15 @@
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608111136492760101576",
     "https://www.theguru.co.kr/news/article.html?no=105724",
     "https://biz.sbs.co.kr/article_hub/20000328392?division=NAVER",
-    "https://www.etoday.co.kr/news/view/2613962"
+    "https://www.etoday.co.kr/news/view/2613962",
+    "https://www.mt.co.kr/stock/2026/08/13/2026081308162999425",
+    "https://www.hankyung.com/article/2026081381616",
+    "https://www.g-enews.com/view.php?ud=20260813080124791744093b5d4e_1",
+    "https://www.news1.kr/finance/market-exr/6257484",
+    "https://biz.chosun.com/stock/stock_general/2026/08/13/4S3DERWY4REMHPAWSPBFJGQHQ4/",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=52132"
    ],
    "seen_titles": [
-    "30년전日'세가'가살린엔비디아,日'국산AI'지원…GPU2만7500기공급",
-    "8월초수출200억달러첫돌파…반도체가46.8%차지",
-    "IBM,AI클라우드구축에2억4000만달러투입",
-    "검암·청라'더블생활권'…'검암역푸르지오프라베뉴'8월분양",
-    "[단독]싱가포르테마섹,삼전닉스담는다…'K증시첫투자'",
-    "“연봉이전부아니었네”…삼전닉스넘어선직원행복도1위는‘이곳...",
     "한앤코SK디앤디지분79%로확대…소액주주집단행동본격",
     "미반도체훈풍에코스피장중3%대상승",
     "주가급등마무리국면?삼전닉스올라도속타는개미",
@@ -3582,10 +3580,16 @@
     "[더벨]롯데렌탈품는TPG,어피니티와달랐던점은",
     "[단독]현대모비스·SK온,중국정부주도'에너지공짜점검'명단전격...",
     "[애프터마켓리뷰]K-뷰티열풍…한국콜마,분기영업익첫1천억",
-    "한앤컴퍼니,SK해운·에이치라인해운'조단위'선대리밸런싱"
+    "한앤컴퍼니,SK해운·에이치라인해운'조단위'선대리밸런싱",
+    "\"SK오션플랜트,2Q양호…매출인식공백에목표가↓\"-DS",
+    "\"SK오션플랜트,내년실적축소전망…첫유럽수주는긍정적\"-DS",
+    "SK증권\"미래에셋증권,스페이스X변동성이부담..목표가하향\"",
+    "물가안도에美반도체주강세…'삼전닉스'프리마켓서5%상승",
+    "“스페이스X1달러에290억출렁”…SK證,미래에셋證목표가17.6%하향",
+    "하닉ADR9%올라…'미국AI관련주실적양호'"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T08:15:28.780225+09:00"
+   "last_run": "2026-08-13T08:20:29.550333+09:00"
   }
  },
  "press_names": {
