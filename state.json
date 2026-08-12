@@ -186,10 +186,13 @@
     [
      "2026-08-13T05:05:22.922552+09:00",
      "SK브로드밴드 바꾼다 AI로 조직까지 상품부터"
+    ],
+    [
+     "2026-08-13T05:20:30.275467+09:00",
+     "코어위브 급등 SK하이닉스 반도체주 강세"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026081209051689216",
     "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260812508&PRO_CODE=99",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=274631",
     "https://www.koreaittimes.com/news/articleView.html?idxno=156014",
@@ -1688,10 +1691,10 @@
     "https://www.joongang.co.kr/article/25452959",
     "https://www.seoul.co.kr/news/economy/securities/2026/08/13/20260813029003?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/economy/industry/2026/08/13/20260813031004?wlog_tag3=naver",
-    "https://news.tf.co.kr/read/baseball/2353621.htm"
+    "https://news.tf.co.kr/read/baseball/2353621.htm",
+    "https://www.news1.kr/world/international-economy/6257434"
    ],
    "seen_titles": [
-    "美CPI앞두고도코스피2%상승…AI반도체수급회복",
     "삼전·닉스강세에코스피6500선회복…코스닥은하락세",
     "'국장에실망했다'개미들자금,해외ETF에1조266억원쏠렸다",
     "[EBN데이터센터]장중시총상위대형주강세...코스피는반도체·2차전...",
@@ -3190,10 +3193,11 @@
     "동해~동서울송전망,KTX와함께깔았으면8년아꼈다",
     "동전주·시총미달36곳에‘상폐경고장’…‘1000원미만=부실’낙인...",
     "SK브로드밴드,상품부터조직까지AI로바꾼다",
-    "벼랑끝에서쌓은김진성의178홀드…모든실패자에게‘희망’을쏜다..."
+    "벼랑끝에서쌓은김진성의178홀드…모든실패자에게‘희망’을쏜다...",
+    "[속보]美AI·반도체주강세…코어위브19%·SK하이닉스9%급등"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T05:15:31.884388+09:00"
+   "last_run": "2026-08-13T05:20:30.275467+09:00"
   }
  },
  "press_names": {
