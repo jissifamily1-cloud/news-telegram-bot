@@ -202,10 +202,13 @@
     [
      "2026-08-13T05:25:24.261513+09:00",
      "급등 마감 스페이스X 나스닥 강보합"
+    ],
+    [
+     "2026-08-13T05:30:38.576153+09:00",
+     "여의도 포기 돈이 없었다 대출도 청약 펜트하우스 이창호"
     ]
    ],
    "seen_urls": [
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=315206",
     "https://www.sidae.com/article/2026081117154565296",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=361624",
     "https://view.asiae.co.kr/article/2026081115520848560",
@@ -1704,10 +1707,10 @@
     "https://www.news1.kr/world/international-economy/6257434",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608101810218690497",
     "https://www.mt.co.kr/society/2026/08/13/2026081222484364589",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000002729&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000002729&cp=nv",
+    "https://www.mt.co.kr/entertainment/2026/08/13/2026081305183896991"
    ],
    "seen_titles": [
-    "정청래\"내가당선되면李지지율10%p오를것\"",
     "日,53조원대외자유치로'반도체패권'재현총력",
     "월가낀AI순환금융,사모펀드들만돈번다면[트럼프스톡커]",
     "코스피,외인·기관'쌍끌이'에6500선회복…반도체株'강세'",
@@ -3206,10 +3209,11 @@
     "[속보]美AI·반도체주강세…코어위브19%·SK하이닉스9%급등",
     "[경쟁실종,선별수주시대]④광명하안주공,13조원규모12개단지시...",
     "'억대성과급'삼전닉스도제쳤다…직장인가장행복한회사는'이곳'",
-    "[속보]스페이스X9.65%급등…나스닥·S&P강보합마감"
+    "[속보]스페이스X9.65%급등…나스닥·S&P강보합마감",
+    "이창호,여의도펜트하우스청약포기\"돈이없었다…대출도안돼\""
    ],
    "initialized": true,
-   "last_run": "2026-08-13T05:25:24.261513+09:00"
+   "last_run": "2026-08-13T05:30:38.576153+09:00"
   }
  },
  "press_names": {
