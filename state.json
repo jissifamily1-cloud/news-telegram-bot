@@ -445,8 +445,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10838626",
-    "https://www.huffingtonpost.kr/article/259490",
     "https://game.donga.com/123768/",
     "https://www.ekn.kr/web/view.php?key=20260812027541920",
     "https://view.asiae.co.kr/article/2026081211131841465",
@@ -1944,11 +1942,11 @@
     "https://www.hankyung.com/article/2026081380166",
     "https://www.topstarnews.net/news/articleView.html?idxno=16162257",
     "https://www.newsis.com/view/NISX20260813_0003746986",
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=62791"
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=62791",
+    "https://news.tf.co.kr/read/economy/2353623.htm",
+    "https://biz.sbs.co.kr/article_hub/20000328388?division=NAVER"
    ],
    "seen_titles": [
-    "블루팜코리아,독감백신사전판매개시…110만도즈규모",
-    "\"글로벌K-뷰티전초기지\"…코스맥스비티아이,체질개선에주가방긋",
     "삼성·SK하닉,3분기내‘200조+α’역대급주주환원책쏜다",
     "코스피,3.4%급등에6550돌파...투심은'하이닉스보다삼성전자'",
     "[EBN데이터센터]메모리강세에반도체생산주동반상승...삼성전자6...",
@@ -3446,10 +3444,12 @@
     "CPI상승세둔화속혼조…나스닥0.54%↑[뉴욕증시브리핑]",
     "안재현,\"뭉클했어\"…뮤지멜로디언연주에울컥한순간",
     "'삼전4만5천원매수'김구라,하닉132만원에들어갔나",
-    "삼성,낸드1위지켰지만…\"수익성은고부가eSSD가좌우한다\""
+    "삼성,낸드1위지켰지만…\"수익성은고부가eSSD가좌우한다\"",
+    "뉴욕증시,7월CPI둔화·AI주랠리에혼조세…SK하닉ADR9%↑",
+    "[마켓브리핑]CPI예상치부합·금리인상우려완화…뉴욕증시랠리"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T07:15:30.704810+09:00"
+   "last_run": "2026-08-13T07:20:30.161447+09:00"
   }
  },
  "press_names": {
