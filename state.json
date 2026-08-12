@@ -1170,15 +1170,13 @@
     [
      "2026-08-12T12:55:35.289621+09:00",
      "식당서 셰프들 김풍 반성해야 내가 일이 무슨 아는"
+    ],
+    [
+     "2026-08-12T13:00:40.771259+09:00",
+     "정기선 회장 HD현대 게이츠 만나는 다시 이유"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=274592",
-    "http://www.fnnews.com/news/202608111525564148",
-    "https://news.mtn.co.kr/news-detail/2026081115470851007",
-    "https://www.viva100.com/article/20260811500931",
-    "https://www.smarttoday.co.kr/ko-kr/articles/110342",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16160623",
     "https://www.joongang.co.kr/article/25452471",
     "http://www.maniareport.com/view.php?ud=20260811134819643dad9f33a29_19",
     "http://www.yonhapnewstv.co.kr/news/MYH20260811155818sgr",
@@ -2672,15 +2670,15 @@
     "https://www.ajunews.com/view/20260812124428765",
     "https://www.getnews.co.kr/news/articleView.html?idxno=877700",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=04500166645546664",
-    "https://www.insight.co.kr/news/567814"
+    "https://www.insight.co.kr/news/567814",
+    "https://www.hankyung.com/article/2026081265956",
+    "https://www.nocutnews.co.kr/news/6561803",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4429769",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476637",
+    "https://www.namdonews.com/news/articleView.html?idxno=919821",
+    "http://www.globalepic.co.kr/view.php?ud=20260812125448502748439a4874_29"
    ],
    "seen_titles": [
-    "'N%성과급'여진…삼성전자·SK하이닉스노사셈법복잡해졌다",
-    "삼성·SK하이닉스·LG·현대차뭉쳤다…국내첫'AI자율실험실'협의체...",
-    "K리그2성남FC,새사령탑에김해운단장선임",
-    "호남반도체‘속도전’…광주군공항이전·산단조성병행",
-    "[실리콘밸리현장]USB넘어AI저장의심장으로…샌디스크의변신",
-    "GovernmentFast-TracksHonamSemiconductorCluster",
     "국내증시흔들리자쪼그라든주식형펀드…하반기들어65조증발",
     "반도체주상승에코스피오름세…코스닥도방긋[MTN마감시황]",
     "‘실적·투자’다잡는한국타이어⋯조현범가석방후대형M&A촉각",
@@ -4174,10 +4172,16 @@
     "[특징주]코스맥스,2분기역대최대실적에14%대급등",
     "8월공급될'검암역푸르지오프라베뉴'에관심↑",
     "'롤러코스터'코스피에지친외국인…대만으로눈돌렸다",
-    "김풍\"내가아는셰프들다반성해야돼\"...식당서무슨일이"
+    "김풍\"내가아는셰프들다반성해야돼\"...식당서무슨일이",
+    "코스피5%급등에매수사이드카발동…삼전닉스7%대강세",
+    "김정관산업장관\"호남반도체부지,정부가기업에먼저제안\"",
+    "'반도체산단전격전'…기후부-삼전-SK하닉,전력망구축협력",
+    "한전,호남·용인반도체산단전력공급협약...\"2041년까지20GW추진\"",
+    "전남광주·기후부한전·삼성·SK,호남반도체전력공급협약",
+    "정기선HD현대회장,빌게이츠다시만나는이유"
    ],
    "initialized": true,
-   "last_run": "2026-08-12T12:55:35.289621+09:00"
+   "last_run": "2026-08-12T13:00:40.771259+09:00"
   }
  },
  "press_names": {
