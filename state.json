@@ -1302,12 +1302,13 @@
     [
      "2026-08-12T19:40:27.597452+09:00",
      "관리종목 카운트다운 시작됐다 36곳 상장사 상장폐지 동전주 퇴출"
+    ],
+    [
+     "2026-08-12T19:45:26.093714+09:00",
+     "코스피가 상승"
     ]
    ],
    "seen_urls": [
-    "https://www.cstimes.com/news/articleView.html?idxno=716517",
-    "https://www.etoday.co.kr/news/view/2613567",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1720053",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476561",
     "https://www.munhwa.com/article/11608947",
     "https://view.asiae.co.kr/article/2026081208415917389",
@@ -2804,12 +2805,12 @@
     "https://www.sedaily.com/article/20078756",
     "https://biz.chosun.com/it-science/ict/2026/08/12/IWKYD5D7O5CQFLEL7DCBVL3PC4/",
     "https://www.koreajoongangdaily.com/business/koreas-chip-ambitions-face-hidden-test-can-power-lines-arrive-before-new-fabs-do/12819853",
-    "https://www.khan.co.kr/article/202608121908001"
+    "https://www.khan.co.kr/article/202608121908001",
+    "https://www.ccdn.co.kr/news/articleView.html?idxno=1093701",
+    "https://www.ggilbo.com/news/articleView.html?idxno=1175169",
+    "https://www.bigtanews.co.kr/article/view/big202608120024"
    ],
    "seen_titles": [
-    "[초점]호남반도체팹1호,2029년닻올린다…'800조투자'현실화3대...",
-    "美CPI앞둔관망장…반도체가코스피반등이끌까",
-    "SK증권\"코스맥스,하반기도고성장지속…목표가25만→29만원\"",
     "네이버구성원행복도상위2%...카카오는?",
     "반도체훈풍에코스피장초반강세…코스닥은반락",
     "美반도체지수상승에삼전4%↑…SK하닉도2%대강세[핫스탁]",
@@ -4306,10 +4307,13 @@
     "韓증시에선먹을만큼먹었나…외국인들,‘안정적’대만증시로눈돌...",
     "SK하이닉스,27일인디애나팹착공식…최태원·젠슨황참석가능성",
     "Korea’schipambitionsfacehiddentest:Canpowerlinesarrivebefore",
-    "‘동전주퇴출’시작됐다…상장사36곳관리종목,상장폐지카운트다운"
+    "‘동전주퇴출’시작됐다…상장사36곳관리종목,상장폐지카운트다운",
+    "SK하이닉스통합노조출범임박",
+    "[주식마감]'호남반도체'소식에금호건설·금호전기연속상한가...엠...",
+    "[증시오늘]코스피가3.7%상승"
    ],
    "initialized": true,
-   "last_run": "2026-08-12T19:40:27.597452+09:00"
+   "last_run": "2026-08-12T19:45:26.093714+09:00"
   }
  },
  "press_names": {
