@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-12T07:15:35.433201+09:00",
-     "전남광주 구축 광산구 체계 지원 반도체기업 인력양성"
-    ],
-    [
-     "2026-08-12T07:15:35.433201+09:00",
-     "시리즈A 520억 출신 김태훈의 IHW 유치 삼전닉스"
-    ],
-    [
      "2026-08-12T07:20:34.795963+09:00",
      "CPI 고용 7월 발표 밤엔"
     ],
@@ -1138,17 +1130,21 @@
     [
      "2026-08-12T13:15:25.451009+09:00",
      "국가유공자 놓치지 마세요 요금감면"
+    ],
+    [
+     "2026-08-12T13:20:31.349481+09:00",
+     "공급난에 중동 사상 호황 윤활기유 7월도 최고 스프레드 지속"
+    ],
+    [
+     "2026-08-12T13:20:31.349481+09:00",
+     "활짝 웃음꽃 SK스퀘어 주가"
+    ],
+    [
+     "2026-08-12T13:20:31.349481+09:00",
+     "한전 SK하이닉스 사장과 김동철 염성진 사장"
     ]
    ],
    "seen_urls": [
-    "https://www.bntnews.co.kr/article/view/bnt202608110265",
-    "https://dealsite.co.kr/articles/166984",
-    "https://www.ajunews.com/view/20260811154527985",
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=80457",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=423012",
-    "https://en.yna.co.kr/view/AEN20260811006251320?input=2106m",
-    "https://www.incheontoday.com/news/articleView.html?idxno=322268",
-    "https://www.newspim.com/news/view/20260811000925",
     "https://www.sedaily.com/article/20078149",
     "https://www.dt.co.kr/article/12077693",
     "https://www.etnews.com/20260811000317",
@@ -2640,17 +2636,17 @@
     "https://www.koreaherald.com/article/10838827",
     "https://www.biotimes.co.kr/news/articleView.html?idxno=33759",
     "https://www.mt.co.kr/politics/2026/08/12/2026081211424219139",
-    "https://www.dynews.co.kr/news/articleView.html?idxno=861434"
+    "https://www.dynews.co.kr/news/articleView.html?idxno=861434",
+    "https://www.aitimes.kr/news/articleView.html?idxno=41411",
+    "http://www.iminju.net/news/articleView.html?idxno=167960",
+    "https://www.ddaily.co.kr/page/view/2026081211502929036",
+    "https://www.startuptoday.co.kr/news/articleView.html?idxno=809493",
+    "https://www.ytn.co.kr/_ln/0102_202608121314067093",
+    "http://www.metroseoul.co.kr/article/20260812500234",
+    "https://www.ggilbo.com/news/articleView.html?idxno=1175047",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050669"
    ],
    "seen_titles": [
-    "코스피0.7%·코스닥0.3%상승마감",
-    "한국독자AI모델4종,에포크AI'주목할모델'선정…美·中과나란히",
-    "용인간與메가특위“조기완공전폭지원…일하는방식바꿀것\"",
-    "코스피,2거래일연속오름세…0.73%↑6340선탈환",
-    "6300선갇힌코스피…코스닥도급등세제동",
-    "롯데렌탈결국팔린다…새주인은美PEFTPG",
-    "삼성이학수부회장장남,롯데렌탈1.3조에인수",
-    "단일종목레버리지규제이후반도체독주주춤…건설·철강·바이오'바...",
     "2분기수출'역대최대'...상위10대기업무역집중도'역대최고'",
     "개미의해외투자못말린정부···국내유인관건'증시변동성완화'",
     "(LEAD)Seoulsharesendhigherfor2nddayonchipgains",
@@ -4142,10 +4138,18 @@
     "MyanmarworkerkilledatKTXsiteworkedupto355hoursamonth",
     "패시브유입인가,진짜베팅인가…글로벌자금으로본K-바이오현주소",
     "野\"최태원,서남권이라고만했다…반도체광주부지누가제안했나\"",
-    "\"국가유공자요금감면놓치지마세요\""
+    "\"국가유공자요금감면놓치지마세요\"",
+    "한전·기후부·전남광주통합시·삼성전자·SK하이닉스,호남권·용인반...",
+    "반도체산단'전력망청사진'확정…1·2단계순차구축",
+    "[독파모2차전下]‘벤치마크한계론’부터‘GPU지원규모’까지…지...",
+    "[이슈]대신증권,상반기순익4000억돌파…'거래대금·평가익'쌍끌이",
+    "용인·호남반도체산단'전력적기공급'협약",
+    "K-윤활기유스프레드사상최고…중동공급난에7월도호황지속",
+    "SK스퀘어주가,웃음꽃활짝...왜?",
+    "[포토]염성진SK하이닉스사장과김동철한전사장"
    ],
    "initialized": true,
-   "last_run": "2026-08-12T13:15:25.451009+09:00"
+   "last_run": "2026-08-12T13:20:31.349481+09:00"
   }
  },
  "press_names": {
