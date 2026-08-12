@@ -214,14 +214,21 @@
     [
      "2026-08-13T05:45:35.898179+09:00",
      "나선 SK하이닉스 HBM 채용 인력 핀셋 정조준"
+    ],
+    [
+     "2026-08-13T05:50:29.080821+09:00",
+     "샌프란 실리콘밸리 올린 851만원 아파트값 투룸 김창영 동탄 월세"
+    ],
+    [
+     "2026-08-13T05:50:29.080821+09:00",
+     "1위 가장 꼽은 삼전닉스 회사 직장인들이 행복하다고 아니었다"
+    ],
+    [
+     "2026-08-13T05:50:29.080821+09:00",
+     "유연성 삼성SDI 생산 SK온 홀로서기 LG엔솔 북미서 높여"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026081209561210112",
-    "https://view.asiae.co.kr/article/2026081210023586075",
-    "https://www.gokorea.kr/news/articleView.html?idxno=874775",
-    "https://www.delighti.co.kr/news/articleView.html?idxno=120105",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=856225",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1720081",
     "https://www.businesspost.co.kr/BP?command=article_view&num=444535",
     "https://www.news1.kr/finance/market-exr/6256503",
@@ -1716,14 +1723,14 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02259926645546992",
     "https://www.news1.kr/world/international-economy/6257437",
     "https://www.news1.kr/society/general-society/6256661",
-    "https://www.mt.co.kr/industry/2026/08/13/2026081216183545575"
+    "https://www.mt.co.kr/industry/2026/08/13/2026081216183545575",
+    "http://www.beyondpost.co.kr/view.php?ud=202608130539584862aaae0046f_30",
+    "http://www.fnnews.com/news/202608130542333555",
+    "https://www.sedaily.com/article/20078788",
+    "https://www.wikitree.co.kr/articles/1151955",
+    "https://www.sidae.com/article/2026081216034368034"
    ],
    "seen_titles": [
-    "주주환원,강력한한방나올까?…'삼전닉스'투자자이목집중",
-    "[개장시황]코스피,6,400선돌파하며강세출발…원/달러환율,1410원...",
-    "호남반도체팹,2029년'첫완공'…정부초고속건설시동",
-    "네이버-NC다이노스,예매·간편결제·NFT티켓결합한'네이버존'운영",
-    "SK·삼성물산때는됐는데…자사주로경영권방어어려워졌다",
     "또펀드로넘어간자동차렌탈",
     "[집단소송,과잉구제의덫]①사고한번에中企존폐위기,과거소환'파...",
     "네이버,NC다이노스와프로야구최초'Npay월렛NFT티켓'도입",
@@ -3218,10 +3225,15 @@
     "대학은연구비기근,중학생엔100만원펀드…\"예산칸막이없애야\"",
     "美AI반도체주강세…코어위브19%·SK하이닉스9%급등",
     "\"삼전닉스직원이1등신랑감,의사인기버금\"…WSJ도주목'반도체왕...",
-    "'핀셋채용'나선SK하이닉스,HBM인력정조준"
+    "'핀셋채용'나선SK하이닉스,HBM인력정조준",
+    "마이크론4.9%,SK하이닉스ADR9%↑...반도체주,7월CPI부합에일제히...",
+    "[뉴욕증시]S&P500·나스닥반등속다우지수만약보합…스페이스X,9.7%...",
+    "동탄아파트값,실리콘밸리월세올린AI...샌프란투룸851만원[김창영...",
+    "‘삼전닉스’아니었다…직장인들이가장행복하다고꼽은회사1위는...",
+    "LG엔솔·삼성SDI·SK온,북미서홀로서기…생산유연성높여"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T05:45:35.898179+09:00"
+   "last_run": "2026-08-13T05:50:29.080821+09:00"
   }
  },
  "press_names": {
