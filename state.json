@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-13T00:55:22.520279+09:00",
-     "다시 훈풍 갈까 삼전 7000피 급등 반도체"
-    ],
-    [
      "2026-08-13T02:05:27.254312+09:00",
      "수십년 교육교부금 농특세 그대로 바꿔야"
     ],
@@ -338,15 +334,21 @@
     [
      "2026-08-13T06:50:28.242328+09:00",
      "계좌엔 토스증권 레버리지 1억6260만원 부족 3000만원 2877만원인데"
+    ],
+    [
+     "2026-08-13T07:00:50.626022+09:00",
+     "깐부 정기선 만에 빌게이츠 다시 SMR 만난다 7개월"
+    ],
+    [
+     "2026-08-13T07:00:50.626022+09:00",
+     "자비 현장에 지진 두지 피해 않고 지원 베네수엘라 차별"
+    ],
+    [
+     "2026-08-13T07:00:50.626022+09:00",
+     "반도체지수 뉴욕증시 상승 엔비디아"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/it-science/cc-newmedia/6256524",
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=809467",
-    "https://www.yna.co.kr/view/AKR20260812064300017?input=1195m",
-    "https://biz.newdaily.co.kr/site/data/html/2026/08/12/2026081200116.html",
-    "https://www.g-enews.com/view.php?ud=20260812105432239923c501012_1",
-    "https://bizhankook.com/articles/line-group-owner-dongyang-architects.html",
     "https://www.businesspost.co.kr/BP?command=article_view&num=444545",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608101118098120103951",
     "https://www.etnews.com/20260812000036",
@@ -1840,15 +1842,15 @@
     "https://www.womennews.co.kr/news/articleView.html?idxno=280980",
     "https://www.greened.kr/news/articleView.html?idxno=347545",
     "https://www.hankyung.com/article/2026081379757",
-    "https://news.bizwatch.co.kr/article/industry/2026/08/12/0035"
+    "https://news.bizwatch.co.kr/article/industry/2026/08/12/0035",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=62789",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608130275&t=NN",
+    "https://www.seoulfn.com/news/articleView.html?idxno=635550",
+    "https://www.sedaily.com/article/20078795",
+    "https://www.btnnews.tv/news/articleView.html?idxno=91214",
+    "https://www.bntnews.co.kr/article/view/bnt202608130008"
    ],
    "seen_titles": [
-    "갤럭시Z8글로벌흥행조짐…한국39%·미국30%·유럽20%↑",
-    "\"과반노조로교섭력높인다\"…SK하이닉스'통합노조'출범초읽기",
-    "'꿈의직장'삼전닉스아니었다…만족도1위는한국가스공사",
-    "[AI칩지정학]⑱구글500만·아마존100만·MS30만특수칩생산열전",
-    "환율골든타임[오후여담]",
-    "[하우머니]블랙록,바이오·플랫폼비중확대…주도주변화시작되나",
     "민경설혁신성장실장\"'K-테마섹'국부펀드,내년투자액1조이상\"",
     "[포인트데일리특징주]'삼전닉스',美반도체주훈풍에동반불기둥",
     "국내AI스타트업“국산AI반도체,공공수요·수출기반必”⋯국회에...",
@@ -3342,10 +3344,16 @@
     "뉴욕증시,기술주강세혼조마감...나스닥0.5%↑",
     "계좌엔2877만원인데'1억6260만원부족'…토스증권레버리지'3000만원'...",
     "'세기의이혼'9440억최종결론은?…최태원결단'D-1'",
-    "[인사이드스토리]구마모토보다빠르게?…호남반도체'2029년'의딜레마"
+    "[인사이드스토리]구마모토보다빠르게?…호남반도체'2029년'의딜레마",
+    "\"동전주·시총미달36곳첫관리종목\"…'연속45일못버티면상폐'",
+    "美증시,7월CPI둔화속혼조마감···AI·반도체주,호실적에강세...",
+    "[뉴욕증시]CPI안도'AI·반도체랠리'···코어위브19%↑·SK하닉9%↑",
+    "정기선·빌게이츠‘SMR깐부’…7개월만에다시만난다",
+    "\"차별두지않고지원\"..베네수엘라지진피해현장에'자비'",
+    "뉴욕증시엔비디아3%↑,반도체지수2.49%상승"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T06:55:20.861373+09:00"
+   "last_run": "2026-08-13T07:00:50.626022+09:00"
   }
  },
  "press_names": {
@@ -3927,6 +3935,7 @@
   "psychiatricnews.net": "정신의학신문",
   "catholictimes.org": "가톨릭신문",
   "mjmedi.com": "민족의학신문",
-  "technoa.co.kr": "technoa.co.kr"
+  "technoa.co.kr": "technoa.co.kr",
+  "btnnews.tv": "BTN불교TV"
  }
 }
