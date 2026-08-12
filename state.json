@@ -494,11 +494,13 @@
     [
      "2026-08-13T07:55:24.551357+09:00",
      "소식 SK오션플랜트 DS 필요 안마 착공 프로젝트 해상풍력"
+    ],
+    [
+     "2026-08-13T08:00:42.076729+09:00",
+     "고개 CPI 금리 회의론은 손대지 꺾였으니"
     ]
    ],
    "seen_urls": [
-    "http://www.finomy.com/news/articleView.html?idxno=259019",
-    "https://www.todayenergy.kr/news/articleView.html?idxno=301483",
     "https://en.yna.co.kr/view/AEN20260812005000320?input=2106m",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608120480&t=NN",
     "https://www.donga.com/news/Inter/article/all/20260812/134463230/2",
@@ -1996,11 +1998,11 @@
     "https://www.sedaily.com/article/20078800",
     "https://www.newsis.com/view/NISX20260813_0003746984",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=03453846645546992",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03447286645546992"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=03447286645546992",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1720194",
+    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257230"
    ],
    "seen_titles": [
-    "SKhynixUnifiedUnionNearsLaunch",
-    "통신3사,'모두의AI'참여해실전검증…AI투자성적표나온다",
     "타이거리서치\"한국투자자해외유출700조원...국내시장이수요못...",
     "[외환]달러약보합·위험선호에소폭하락…1,410원대지지",
     "[속보]SK오션플랜트,2분기영업이익193억원…전년동기대비24.4%증가",
@@ -3498,10 +3500,12 @@
     "“아직덜올랐다,262만원간다”…삼전밀어내고모건스탠리‘원픽’...",
     "[오늘의증시]美물가둔화에AI주랠리…코스피도반도체중심반등지...",
     "미래에셋증권,최대실적에도목표가↓…“스페이스X가변수”-SK",
-    "SK오션플랜트,안마해상풍력프로젝트착공소식필요-DS"
+    "SK오션플랜트,안마해상풍력프로젝트착공소식필요-DS",
+    "삼전닉스6.5조담고코스닥하락에241억…개미자금'세갈래'",
+    "[넥스트-샷]\"CPI꺾였으니금리손대지말것\"···AI회의론은고개못..."
    ],
    "initialized": true,
-   "last_run": "2026-08-13T07:55:24.551357+09:00"
+   "last_run": "2026-08-13T08:00:42.076729+09:00"
   }
  },
  "press_names": {
