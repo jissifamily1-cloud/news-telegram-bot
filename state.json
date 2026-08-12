@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-12T03:50:28.883218+09:00",
-     "전쟁 CXL로 HBM 빈틈 메모리 용량"
-    ],
-    [
      "2026-08-12T04:00:40.433190+09:00",
      "공급망 부품 EU 유럽 장악 조용히 위협"
     ],
@@ -906,17 +902,17 @@
     [
      "2026-08-12T09:50:27.123642+09:00",
      "속도전 말라 방해만 하지 반도체"
+    ],
+    [
+     "2026-08-12T09:53:09.757332+09:00",
+     "징크스 고점 다시 끝물 오르면 고개 LG전자 증시"
+    ],
+    [
+     "2026-08-12T09:53:09.757332+09:00",
+     "부국증권 상상인 브로커리지 유동성 상상인증권 유입 증시 호조"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/sports/soccer/6255447",
-    "https://economist.co.kr/article/view/ecn202608110021",
-    "https://news.dealsitetv.com/articles/174548",
-    "https://www.m-i.kr/news/articleView.html?idxno=1401065",
-    "https://www.hankookilbo.com/news/article/A2026081110430004372?did=NA",
-    "https://www.mt.co.kr/tech/2026/08/11/2026081113270916319",
-    "https://www.ajunews.com/view/20260811134445481",
-    "https://www.newsis.com/view/NISX20260811_0003744431",
     "https://www.mt.co.kr/economy/2026/08/11/2026081113402411801",
     "https://biz.sbs.co.kr/article_hub/20000327885?division=NAVER",
     "https://view.asiae.co.kr/article/2026081113474242814",
@@ -2408,17 +2404,17 @@
     "https://www.etoday.co.kr/news/view/2613578",
     "http://www.inews24.com/view/1994160",
     "https://www.dt.co.kr/article/12077810",
-    "https://www.mk.co.kr/article/12124940"
+    "https://www.mk.co.kr/article/12124940",
+    "https://www.newsway.co.kr/news/view?ud=2026081209433254133",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16161284",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476577",
+    "https://www.kado.net/news/articleView.html?idxno=2066260",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=442686",
+    "https://www.mk.co.kr/article/12124943",
+    "https://www.chosun.com/economy/money/2026/08/12/H2GRJEBDMJEB3AK4POOMMLQ7MY/",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476574"
    ],
    "seen_titles": [
-    "SKTAI모델'A.XK2',국제수학올림피아드서금메달성능…미·중이외...",
-    "외인ㆍ기관쌍끌이매수에코스피6400선위로⋯코스닥은하락전환",
-    "\"출장지서1분만에퇴근\"…SK하닉근태불량직원,9.5억날렸다",
-    "“하닉220층구조대안온다?”‘고층개미’들울린증권사보고서...",
-    "용인반도체클러스터,직주근접아파트분양시작",
-    "정부,호남반도체클러스터전력원으로'재생에너지·ESS'적극활용",
-    "외국인수급이삼성닉스주가갈랐다!...삼성전자7천억넘게순매수,S...",
-    "델테크놀로지스포럼2026,코엑스서25일개최…AI인프라·사이버복...",
     "SK에코플랜트,반도체·AI에밀린'친환경'입지…매출비중19%로뚝",
     "반등한코스피…1.5%오르며6400돌파",
     "삼성전자,엔비디아주도글로벌AI보안연합체합류",
@@ -3910,10 +3906,18 @@
     "[특징주]호남반도체클러스터기대에금호전기이틀째上…금호건설도...",
     "코스피,장초반2%올라6500선⋯삼성전자4%↑",
     "SK하이닉스‘통합노조’출범초읽기…과반노조목표",
-    "[김선걸칼럼]반도체속도전,방해만하지말라"
+    "[김선걸칼럼]반도체속도전,방해만하지말라",
+    "미국발AI훈풍에국내반도체주강세…삼성전자4%상승[특징주]",
+    "SK이터닉스주가,8월12일장중52,000원1.76%상승",
+    "[단독]현대차·기아,전고체배터리'공동생산'길열어뒀다…美SEC서...",
+    "SK하이닉스'통합노조'출범임박…\"1만8000명과반노조목표\"",
+    "삼성전자·SK하이닉스,장초반동반강세…2~4%상승",
+    "미국반도체주상승에…장초반삼전·닉스·SK스퀘어등‘S7’동반상...",
+    "LG전자오르면증시끝물?다시고개든‘고점징크스’",
+    "증시유동성유입속브로커리지호조…상상인증권·부국증권·상상인..."
    ],
    "initialized": true,
-   "last_run": "2026-08-12T09:50:27.123642+09:00"
+   "last_run": "2026-08-12T09:53:09.757332+09:00"
   }
  },
  "press_names": {
