@@ -150,11 +150,13 @@
     [
      "2026-08-13T04:35:22.580636+09:00",
      "재도약 철강 포항 키워 첨단 소재"
+    ],
+    [
+     "2026-08-13T04:55:22.918195+09:00",
+     "하이닉스 그만두고 공장을 만든 현실로 꿈의"
     ]
    ],
    "seen_urls": [
-    "https://www.hidomin.com/news/articleView.html?idxno=716946",
-    "https://economist.co.kr/article/view/ecn202608120004",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1720070",
     "http://www.fnnews.com/news/202608121008487076",
     "https://www.yna.co.kr/view/AKR20260812053200009?input=1195m",
@@ -1652,11 +1654,11 @@
     "https://www.donga.com/news/Politics/article/all/20260813/134468958/2",
     "https://www.donga.com/news/Economy/article/all/20260813/134468692/2",
     "https://www.donga.com/news/Society/article/all/20260812/134467281/2",
-    "https://www.mediapen.com/news/view/1116052"
+    "https://www.mediapen.com/news/view/1116052",
+    "https://www.sportsseoul.com/news/read/1628427",
+    "https://www.chosun.com/economy/startup_story/2026/08/13/D6ELFSZHTBDLTNN3BHQQKLEWMI/"
    ],
    "seen_titles": [
-    "AMAT,UC버클리와AI칩상용화협력…EPIC센터가동",
-    "대통령상·최강지역타이틀향한18번째결전…제18회대통령배KeG전...",
     "통신사‘AI구독상품’새승부수…불붙는‘요금제+AI’결합상품전...",
     "갤럭시Z8,글로벌흥행…\"전작대비출하량두자릿수증가전망\"",
     "제18회대통령배KeG전국결선15일경주서개막",
@@ -3154,10 +3156,12 @@
     "메가특구주52시간예외두고…김정관“논의”김영훈“신중”",
     "“반도체산단전력공급지자체협조”못박아…행정절차단축",
     "[초대석]“AI-첨단소재키워포항철강재도약”",
-    "[美증시]코어위브훈풍·인플레안정에반도체급등…SK하이닉스·마이..."
+    "[美증시]코어위브훈풍·인플레안정에반도체급등…SK하이닉스·마이...",
+    "‘쉬고왔더니더잘하네’무더위는꺾였고,랜더스는롯데를꺾고!“...",
+    "꿈의공장을현실로,하이닉스그만두고만든것"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T04:50:29.943866+09:00"
+   "last_run": "2026-08-13T04:55:22.918195+09:00"
   }
  },
  "press_names": {
