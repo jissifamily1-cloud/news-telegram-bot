@@ -446,13 +446,13 @@
     [
      "2026-08-13T07:25:23.413812+09:00",
      "45분 80만명 레버리지 듣고나니 단일종목 110분 길어진 교육"
+    ],
+    [
+     "2026-08-13T07:30:36.561640+09:00",
+     "디테일 착공식서 5000억불 2주 투자 최태원 젠슨 인디애나"
     ]
    ],
    "seen_urls": [
-    "https://www.mydaily.co.kr/page/view/2026081211014267326",
-    "https://www.kado.net/news/articleView.html?idxno=2066278",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000002478&cp=nv",
-    "https://www.newsis.com/view/NISX20260812_0003745954",
     "https://www.businesspost.co.kr/BP?command=article_view&num=444547",
     "http://www.boannews.com/media/view.asp?idx=145121&kind=1",
     "https://www.greened.kr/news/articleView.html?idxno=347469",
@@ -1948,13 +1948,13 @@
     "https://biz.sbs.co.kr/article_hub/20000328388?division=NAVER",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=62794",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=142981",
-    "https://news.bizwatch.co.kr/article/market/2026/08/11/0022"
+    "https://news.bizwatch.co.kr/article/market/2026/08/11/0022",
+    "https://biz.sbs.co.kr/article_hub/20000328389?division=NAVER",
+    "http://tbs.seoul.kr/news/newsView.do?typ_800=1&idx_800=3537838&seq_800=20530721",
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=361671",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=270238"
    ],
    "seen_titles": [
-    "'5천억달러투자지원'젠슨황\"엔비디아는건당최대25%까지\"",
-    "400만장팔린신한카드'하이포인트'귀환…최대6%쌓인다",
-    "반도체·산업단지품은'전국구청약단지'주목",
-    "삼전·하이닉스가다시끌었다…코스피3%급등,6600선눈앞",
     "직장인행복도SK하이닉스상위3%…1위는가스공사",
     "반도체힘받자코스피3%대로상승확대…코스닥은약보합",
     "블루팜코리아,독감백신12개제품사전판매",
@@ -3450,10 +3450,14 @@
     "[마켓브리핑]CPI예상치부합·금리인상우려완화…뉴욕증시랠리",
     "인플레숨고르자AI불붙었다…나스닥0.54%상승마감",
     "[오늘의글로벌마켓]뉴욕증시,CPI상승률둔화속3대지수혼조세",
-    "80만명듣고나니...'45분→110분'길어진단일종목레버리지교육"
+    "80만명듣고나니...'45분→110분'길어진단일종목레버리지교육",
+    "[마켓프리뷰]반도체'불기둥'에코스피급등…코스닥도'강보합'",
+    "뉴욕증시,인플레둔화속AI낙관론재개…나스닥0.5％↑",
+    "CPI둔화속뉴욕증시혼조…나스닥0.5%↑",
+    "최태원-젠슨황,2주뒤인디애나팹착공식서'5000억불투자디테일'..."
    ],
    "initialized": true,
-   "last_run": "2026-08-13T07:25:23.413812+09:00"
+   "last_run": "2026-08-13T07:30:36.561640+09:00"
   }
  },
  "press_names": {
