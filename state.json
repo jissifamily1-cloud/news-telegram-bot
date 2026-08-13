@@ -1149,7 +1149,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=662299",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050791",
     "https://www.businesspost.co.kr/BP?command=article_view&num=444577",
     "http://www.lkp.news/news/articleView.html?idxno=82884",
@@ -2648,10 +2647,10 @@
     "https://view.asiae.co.kr/article/2026081312152199991",
     "https://www.kyeonggi.com/article/20260813580119",
     "https://www.kukinews.com/article/view/kuk202608130077",
-    "http://www.joseilbo.com/news/news_read.php?uid=573775&class=32"
+    "http://www.joseilbo.com/news/news_read.php?uid=573775&class=32",
+    "https://news.tf.co.kr/read/economy/2353790.htm"
    ],
    "seen_titles": [
-    "삼전·닉스'역대급'주주환원기대...코스피3%대급등",
     "넥슨,‘카트라이더러쉬플러스’제주SKFC와협업",
     "네이버-NC다이노스,한국프로야구최초'NFT티켓'도입",
     "가습기살균제피해자단체서영철대표별세…\"장례대신투쟁해달라\"",
@@ -4150,10 +4149,11 @@
     "독파모참여기업글로벌벤치마크서모티프·업스테이지모델1·2위",
     "준공1년6개월만에외벽무너진송도아파트…“정밀진단·재시공해야...",
     "SKT·LG·업스테이지앞섰다…‘독파모’후발주자모티프,AI평가서국...",
-    "\"널뛰기증시됐다\"...사이드카·서킷브레이커발동,역대최다"
+    "\"널뛰기증시됐다\"...사이드카·서킷브레이커발동,역대최다",
+    "SK에코플랜트,AIDC사업단신설…경쟁력키운다"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T12:25:23.335601+09:00"
+   "last_run": "2026-08-13T12:30:40.103003+09:00"
   }
  },
  "press_names": {
