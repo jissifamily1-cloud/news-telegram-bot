@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-13T17:15:31.293190+09:00",
-     "반도체 전남광주 7758곳 성장 지역 제조기업 896조 공급망"
-    ],
-    [
-     "2026-08-13T17:15:31.293190+09:00",
-     "정비 발목 연결 AI에이전트 권한 현장선 관리 MCP API 표준"
-    ],
-    [
      "2026-08-13T17:20:28.848661+09:00",
      "북미 삼성 ESS 독자 접고 배터리 승부수 띄운다 LG 합작사업"
     ],
@@ -594,11 +586,13 @@
     [
      "2026-08-13T23:15:29.783266+09:00",
      "챔피언십 김재희의 한국일보 아쉬운 출발 1라운드 메디힐"
+    ],
+    [
+     "2026-08-13T23:20:28.707426+09:00",
+     "코스피 반도체 반등에 강세장 CNBC 진입 기술적"
     ]
    ],
    "seen_urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=1401820",
-    "https://www.joongangenews.com/news/articleView.html?idxno=539739",
     "https://www.sentv.co.kr/article/view/sentv202608130011",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1720196",
     "https://www.mt.co.kr/tech/2026/08/13/2026081308390781832",
@@ -2096,11 +2090,11 @@
     "https://news.mtn.co.kr/news-detail/2026081323023599006",
     "https://www.topstarnews.net/news/articleView.html?idxno=16163069",
     "https://www.greened.kr/news/articleView.html?idxno=347648",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=07770326645546992"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=07770326645546992",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260813231532hbz",
+    "https://www.munhwa.com/article/11609445"
    ],
    "seen_titles": [
-    "CPI둔화·AI호실적에상승...나스닥0.54%↑[뉴욕증시]",
-    "정부,첨단산업규제푼다…반도체·이차전지·바이오등4.2조프로젝트...",
     "LG이노텍,MSCI한국지수편입…HLB등4개종목은제외",
     "'매출-632억'아이에스동서거래정지…제재가능성은낮은이유",
     "메모리떠났던인텔돌아오나…\"이석희영입보면알것\"[IT썰]",
@@ -3598,10 +3592,12 @@
     "빌게이츠1년만에방한왜?…정재계와SMR협력확대",
     "\"현재800만~900만원선\"…선우용여,SK하이닉스이어보석재테크성공...",
     "빌게이츠1년만에방한…정·재계연쇄회동예고",
-    "[골프IN화보]메디힐한국일보챔피언십1라운드,김재희의아쉬운출발..."
+    "[골프IN화보]메디힐한국일보챔피언십1라운드,김재희의아쉬운출발...",
+    "'삼전닉스'노조연대?…성과급전선확대",
+    "CNBC“반도체반등에코스피‘기술적강세장’진입”"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T23:15:29.783266+09:00"
+   "last_run": "2026-08-13T23:20:28.707426+09:00"
   }
  },
  "press_names": {
