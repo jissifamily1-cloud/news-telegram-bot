@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-13T17:10:37.769027+09:00",
-     "기업 투자법 싸우기보다 VIP운용 싶다 김민국의 돕고"
-    ],
-    [
-     "2026-08-13T17:10:37.769027+09:00",
-     "보통주 SK스퀘어 주식소각에 따른 변경상장"
-    ],
-    [
      "2026-08-13T17:15:31.293190+09:00",
      "반도체 전남광주 7758곳 성장 지역 제조기업 896조 공급망"
     ],
@@ -598,11 +590,13 @@
     [
      "2026-08-13T23:10:32.597316+09:00",
      "선우용여 900만 재테크 이어 800만 현재 SK하이닉스 성공 보석"
+    ],
+    [
+     "2026-08-13T23:15:29.783266+09:00",
+     "챔피언십 김재희의 한국일보 아쉬운 출발 1라운드 메디힐"
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/stock/stock_general/2026/08/13/T7DNFYQRPNELDJL2RIFPZS65Q4/",
-    "https://www.sedaily.com/article/20078822",
     "https://www.m-i.kr/news/articleView.html?idxno=1401820",
     "https://www.joongangenews.com/news/articleView.html?idxno=539739",
     "https://www.sentv.co.kr/article/view/sentv202608130011",
@@ -2100,11 +2094,11 @@
     "https://www.seoul.co.kr/news/economy/2026/08/13/20260813500299?wlog_tag3=naver",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4430066",
     "https://news.mtn.co.kr/news-detail/2026081323023599006",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16163069"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16163069",
+    "https://www.greened.kr/news/articleView.html?idxno=347648",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=07770326645546992"
    ],
    "seen_titles": [
-    "KB證“삼전·하이닉스,2027년영업익1000조육박…지금은극단적저평...",
-    "소비자물가3.4%상승으론금리전망못바꿔[트럼프스톡커]",
     "CPI둔화·AI호실적에상승...나스닥0.54%↑[뉴욕증시]",
     "정부,첨단산업규제푼다…반도체·이차전지·바이오등4.2조프로젝트...",
     "LG이노텍,MSCI한국지수편입…HLB등4개종목은제외",
@@ -3602,10 +3596,12 @@
     "오픈런아우성에…이주비·잔금대출푼다",
     "SK하이닉스ADR사흘째상승…유가하락속美도매물가안도",
     "빌게이츠1년만에방한왜?…정재계와SMR협력확대",
-    "\"현재800만~900만원선\"…선우용여,SK하이닉스이어보석재테크성공..."
+    "\"현재800만~900만원선\"…선우용여,SK하이닉스이어보석재테크성공...",
+    "빌게이츠1년만에방한…정·재계연쇄회동예고",
+    "[골프IN화보]메디힐한국일보챔피언십1라운드,김재희의아쉬운출발..."
    ],
    "initialized": true,
-   "last_run": "2026-08-13T23:10:32.597316+09:00"
+   "last_run": "2026-08-13T23:15:29.783266+09:00"
   }
  },
  "press_names": {
