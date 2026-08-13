@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-13T13:55:22.187559+09:00",
-     "8월13일 손바닥뉴스 페로타임즈"
-    ],
-    [
-     "2026-08-13T13:55:22.187559+09:00",
-     "LS일렉트릭 릴레이로 수주 공략 배전시장 북미 데이터센터"
-    ],
-    [
-     "2026-08-13T13:55:22.187559+09:00",
-     "주주환원 삼전닉스 배당이냐 자사주 반등 소각이냐 열쇠"
-    ],
-    [
      "2026-08-13T14:00:42.679135+09:00",
      "SK텔레콤 낸다 GS 주목 파이버프로 관련주 실증사업 UAM 속도"
     ],
@@ -1153,8 +1141,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=142981",
-    "https://news.bizwatch.co.kr/article/market/2026/08/11/0022",
     "https://biz.sbs.co.kr/article_hub/20000328389?division=NAVER",
     "http://tbs.seoul.kr/news/newsView.do?typ_800=1&idx_800=3537838&seq_800=20530721",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=361671",
@@ -2652,11 +2638,11 @@
     "https://www.bigtanews.co.kr/article/view/big202608130015",
     "https://www.newspim.com/news/view/20260813001368",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=270422",
-    "https://biz.sbs.co.kr/article_hub/20000328512?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000328512?division=NAVER",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608130694&t=NN",
+    "https://www.etoday.co.kr/news/view/2614408"
    ],
    "seen_titles": [
-    "[오늘의글로벌마켓]뉴욕증시,CPI상승률둔화속3대지수혼조세",
-    "80만명듣고나니...'45분→110분'길어진단일종목레버리지교육",
     "[마켓프리뷰]반도체'불기둥'에코스피급등…코스닥도'강보합'",
     "뉴욕증시,인플레둔화속AI낙관론재개…나스닥0.5％↑",
     "CPI둔화속뉴욕증시혼조…나스닥0.5%↑",
@@ -4154,10 +4140,12 @@
     "[증시오늘]코스피3.6%상승",
     "[코인시황]물가안도에도비트코인6만3500달러로…\"서프라이즈없인...",
     "[SK하이닉스노조]③중장기투자보다'현금성과급'고집…통합노조,...",
-    "'닥터둠'김영익\"9월또한번의반등이온다\"…하반기증시대전망[오..."
+    "'닥터둠'김영익\"9월또한번의반등이온다\"…하반기증시대전망[오...",
+    "\"성과급현금원칙사수\"…SK하닉직군벽허문'통합노조'출범",
+    "SK하이닉스통합노조공식출범…“1만8000명과반노조목표”"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T19:50:28.882362+09:00"
+   "last_run": "2026-08-13T19:55:22.866690+09:00"
   }
  },
  "press_names": {
