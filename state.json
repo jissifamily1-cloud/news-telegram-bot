@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-13T14:00:42.679135+09:00",
-     "SK텔레콤 낸다 GS 주목 파이버프로 관련주 실증사업 UAM 속도"
-    ],
-    [
-     "2026-08-13T14:00:42.679135+09:00",
-     "삼성물산 원전 총정리 저평가 원인 SMR이"
-    ],
-    [
-     "2026-08-13T14:00:42.679135+09:00",
-     "81주년 광복 사건 기억하는 제암 고주리 다시"
-    ],
-    [
-     "2026-08-13T14:00:42.679135+09:00",
-     "52톤급 배타고 떠나요 취항 안산호 대부도로"
-    ],
-    [
      "2026-08-13T14:04:29.103158+09:00",
      "걷고 임산부가 스마트폰 시각장애인 보며 계단"
     ],
@@ -1138,12 +1122,13 @@
     [
      "2026-08-13T19:50:28.882362+09:00",
      "증시 김영익 하반기 닥터둠 대전망 온다 9월 한번의 반등이"
+    ],
+    [
+     "2026-08-13T20:00:44.617756+09:00",
+     "몸에 데뷔 비시즌 익게끔 프로 시스템을 안성우"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000328389?division=NAVER",
-    "http://tbs.seoul.kr/news/newsView.do?typ_800=1&idx_800=3537838&seq_800=20530721",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=361671",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=270238",
     "https://www.public25.com/news/articleView.html?idxno=52636",
     "http://www.econonews.co.kr/news/articleView.html?idxno=442740",
@@ -2640,12 +2625,12 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=270422",
     "https://biz.sbs.co.kr/article_hub/20000328512?division=NAVER",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608130694&t=NN",
-    "https://www.etoday.co.kr/news/view/2614408"
+    "https://www.etoday.co.kr/news/view/2614408",
+    "https://www.lcnews.co.kr/news/articleView.html?idxno=206539",
+    "https://view.asiae.co.kr/article/2026081319535683798",
+    "https://basketkorea.com/news/newsview.php?ncode=1065595030657592"
    ],
    "seen_titles": [
-    "[마켓프리뷰]반도체'불기둥'에코스피급등…코스닥도'강보합'",
-    "뉴욕증시,인플레둔화속AI낙관론재개…나스닥0.5％↑",
-    "CPI둔화속뉴욕증시혼조…나스닥0.5%↑",
     "최태원-젠슨황,2주뒤인디애나팹착공식서'5000억불투자디테일'...",
     "뉴욕증시,인플레둔화속혼조세나스닥0.54%↑...국제유가WTI0.1%↑",
     "뉴욕증시,금리인상우려완화에도혼조세⋯엔비디아3%대,마이크론4%...",
@@ -4142,10 +4127,13 @@
     "[SK하이닉스노조]③중장기투자보다'현금성과급'고집…통합노조,...",
     "'닥터둠'김영익\"9월또한번의반등이온다\"…하반기증시대전망[오...",
     "\"성과급현금원칙사수\"…SK하닉직군벽허문'통합노조'출범",
-    "SK하이닉스통합노조공식출범…“1만8000명과반노조목표”"
+    "SK하이닉스통합노조공식출범…“1만8000명과반노조목표”",
+    "SK케미칼,자회사실적개선으로2분기실적↑",
+    "SK하이닉스통합노조출범…과반노조목표",
+    "‘프로데뷔첫비시즌’SK안성우,“팀시스템을몸에익게끔...”"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T19:55:22.866690+09:00"
+   "last_run": "2026-08-13T20:00:44.617756+09:00"
   }
  },
  "press_names": {
