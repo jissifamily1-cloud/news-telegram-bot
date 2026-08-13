@@ -913,9 +913,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=726147",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=03509606645546992",
-    "https://www.etoday.co.kr/news/view/2613960",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=62798",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=86498",
     "https://kpenews.com/View.aspx?No=4184663",
@@ -2412,12 +2409,12 @@
     "http://www.kjdaily.com/article.php?aid=1786624699684542227",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260813.99099003840",
     "https://www.ulsanpress.net/news/articleView.html?idxno=580987",
-    "https://www.dailian.co.kr/news/view/1678324/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1678324/?sc=Naver",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608130801&t=NN",
+    "https://www.sentv.co.kr/article/view/sentv202608130204",
+    "https://www.yna.co.kr/view/AKR20260813168500017?input=1195m"
    ],
    "seen_titles": [
-    "[프리마켓포커스]美반도체훈풍에3%가까이상승…SK하닉4%대↑",
-    "뉴욕증시,CPI안도감에상승…AI낙관론에기술주강세[뉴스새벽배송]",
-    "전남광주특별시,반도체산단2029년부터3GW전력공급",
     "[증시전망대]美물가둔화·AI훈풍에코스피'3일랠리'…상승장이어...",
     "뉴욕증시,CPI둔화에도혼조마감-AI인프라주'깜짝실적'에기술주강...",
     "“삼전·하이닉스가코스피절반인데”..단일종목만막는레버리지규제",
@@ -3914,10 +3911,13 @@
     "[오늘증시]삼성전자·SK하이닉스거래대금17조…동반상승",
     "공정위,정유4사에'주유소상대자사제품강제'의혹조사",
     "90년제련기술바탕반도체·배터리소재까지밸류체인확장",
-    "[데일리안오늘뉴스종합]총량규제번복했지만…“부동산·금융절연..."
+    "[데일리안오늘뉴스종합]총량규제번복했지만…“부동산·금융절연...",
+    "\"성과급현금으로받겠다\"…SK하이닉스통합노조출범",
+    "SK하이닉스,생산·사무직통합노조출범…“과반노조목표”",
+    "빌게이츠1년만에방한…정·재계와SMR협력논의"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T21:45:29.835093+09:00"
+   "last_run": "2026-08-13T21:50:28.532101+09:00"
   }
  },
  "press_names": {
