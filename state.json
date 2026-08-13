@@ -1206,14 +1206,13 @@
     [
      "2026-08-13T18:25:23.029472+09:00",
      "주임순씨"
+    ],
+    [
+     "2026-08-13T18:30:38.115984+09:00",
+     "목표주가는 증권사 하향 실적은 역대급 잇단"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20078792",
-    "https://www.mediapen.com/news/view/1116060",
-    "https://www.kbmaeil.com/article/20260813500002",
-    "https://www.lecturernews.com/news/articleView.html?idxno=208375",
-    "https://www.mt.co.kr/world/2026/08/13/2026081306074954763",
     "https://it.chosun.com/news/articleView.html?idxno=2023092167969",
     "https://view.asiae.co.kr/article/2026081214304102450",
     "https://www.news1.kr/industry/sb-founded/6257018",
@@ -2708,14 +2707,14 @@
     "https://www.newsquest.co.kr/news/articleView.html?idxno=271750",
     "http://www.fnnews.com/news/202608131822324844",
     "https://www.hani.co.kr/arti/society/society_general/1272829.html",
-    "http://www.fnnews.com/news/202608131820313969"
+    "http://www.fnnews.com/news/202608131820313969",
+    "http://www.jndn.com/article.php?aid=1786613095437849008",
+    "https://www.news1.kr/industry/general-industry/6258610",
+    "https://news.bizwatch.co.kr/article/real_estate/2026/08/13/0036",
+    "https://www.yna.co.kr/view/AKR20260813161800003?input=1195m",
+    "https://www.sentv.co.kr/article/view/sentv202608130103"
    ],
    "seen_titles": [
-    "뉴욕증시,무난한CPI에보합...‘AI인프라호실적’반도체주강세[...",
-    "[美증시]혼조속나스닥·S&P500상승…반도체주·스페이스X주도",
-    "뉴욕증시,CPI둔화에AI다시질주…나스닥0.54%↑",
-    "미국뉴욕증시,물가둔화에금리부담완화…다우존스하락,S&P500·나스...",
-    "9월금리동결론힘받았지만…인플레우려못떨친시장[뉴욕마감]",
     "AI수혜주바뀌나…반도체휘청일때,보안·SWETF선전",
     "한은부총재“원달러환율,4분기로갈수록낮아질것…경상흑자효과...",
     "\"반도체초호황은그들만의리그\"…中企낙수효과'아직'",
@@ -4210,10 +4209,15 @@
     "\"통신사허물벗는KT,AI인프라·해저케이블에'6조폭풍투입'\"",
     "[fn광장]반도체800조투자만으로부족하다",
     "‘이완용스퀴시’부터‘815러닝’까지…MZ세대의광복절맞이",
-    "[부고]주임순씨外"
+    "[부고]주임순씨外",
+    "호남반도체정부의지증명은실행력으로",
+    "SK하이닉스통합노조공식출범…TF\"정식노조승인됐다\"",
+    "'AI데이터센터'사업단만든SK에코플랜트",
+    "SK하이닉스글로벌성장TF장에윤풍영SK수펙스사장",
+    "증권사실적은역대급…목표주가는잇단하향"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T18:25:23.029472+09:00"
+   "last_run": "2026-08-13T18:30:38.115984+09:00"
   }
  },
  "press_names": {
