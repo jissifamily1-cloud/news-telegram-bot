@@ -1082,13 +1082,17 @@
     [
      "2026-08-13T14:45:31.654790+09:00",
      "14분의 거래대금 규제 19일 추가 토막 레버리지"
+    ],
+    [
+     "2026-08-13T14:50:30.172994+09:00",
+     "올라 SK하이닉스 삼성전자"
+    ],
+    [
+     "2026-08-13T14:50:30.172994+09:00",
+     "SK하이닉스 가속 다변화 생산거점 27일 인디애나 착공"
     ]
    ],
    "seen_urls": [
-    "http://www.4th.kr/news/articleView.html?idxno=2116220",
-    "http://www.newskr.kr/news/articleView.html?idxno=105581",
-    "https://www.mt.co.kr/stock/2026/08/12/2026081216265195534",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=850165",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283543",
     "http://www.kdfnews.com/news/articleView.html?idxno=186459",
     "https://www.m-i.kr/news/articleView.html?idxno=1401692",
@@ -2584,13 +2588,13 @@
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2459134",
     "https://zdnet.co.kr/view/?no=20260813104413",
     "https://www.ppss.kr/news/articleView.html?idxno=305313",
-    "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608130429&t=NNv"
+    "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608130429&t=NNv",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=223984",
+    "https://www.sidae.com/article/2026081313572195839",
+    "https://www.tokenpost.kr/news/market/389868",
+    "https://www.greened.kr/news/articleView.html?idxno=347603"
    ],
    "seen_titles": [
-    "'AI실험'넘어업무표준으로…BNK,그룹전체일하는방식바꾼다",
-    "아이폰원가40%뛴이유,메모리다",
-    "\"270층에서구조대기다려\"…삼전닉스팔까말까",
-    "日토픽스4139마감'0.94%↑'…사상최고",
     "전남광주특별시,호남권반도체산단전력적기공급협력체계구축",
     "[마감시황]반도체랠리에코스피6579선복귀…사흘째상승,사이드카...",
     "한전,호남·용인반도체산단전력망구축속도",
@@ -4086,10 +4090,14 @@
     "\"적자일땐합치자더니\"···티빙첫흑자,웨이브합병의'새변수'로",
     "[영상]\"AI가다해줄줄알았는데\"…보안기자가25시간해커톤서본현...",
     "SK증권,JYP목표가7.5만→6.6만원하향…트와이스재계약불확실성부...",
-    "19일추가규제...레버리지거래대금'14분의1'토막[마켓딥다이브]"
+    "19일추가규제...레버리지거래대금'14분의1'토막[마켓딥다이브]",
+    "주성엔지니어링주가2%대상승…반도체랠리에18만원선회복시도",
+    "환율125원급락한7월…원화값17년4개월만에최대폭상승",
+    "삼성전자5.48%·SK하이닉스7.25%올라",
+    "SK하이닉스,美인디애나팹27일착공…생산거점다변화가속"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T14:45:31.654790+09:00"
+   "last_run": "2026-08-13T14:50:30.172994+09:00"
   }
  },
  "press_names": {
