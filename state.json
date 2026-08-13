@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-13T05:45:35.898179+09:00",
-     "나선 SK하이닉스 HBM 채용 인력 핀셋 정조준"
-    ],
-    [
-     "2026-08-13T05:50:29.080821+09:00",
-     "샌프란 실리콘밸리 올린 851만원 아파트값 투룸 김창영 동탄 월세"
-    ],
-    [
-     "2026-08-13T05:50:29.080821+09:00",
-     "1위 가장 꼽은 삼전닉스 회사 직장인들이 행복하다고 아니었다"
-    ],
-    [
-     "2026-08-13T05:50:29.080821+09:00",
-     "유연성 삼성SDI 생산 SK온 홀로서기 LG엔솔 북미서 높여"
-    ],
-    [
      "2026-08-13T06:00:40.228885+09:00",
      "받아 노린다 회복 신용등급 두산 배당 실트론"
     ],
@@ -1226,14 +1210,17 @@
     [
      "2026-08-13T11:45:33.499937+09:00",
      "연속 순매도 1위 삼전은 이틀 사자 SK하닉"
+    ],
+    [
+     "2026-08-13T11:50:37.563397+09:00",
+     "대금 상반기 SK오션플랜트 지급 557억원 하도급"
+    ],
+    [
+     "2026-08-13T11:50:37.563397+09:00",
+     "SK하이닉스 타고 훈풍 복귀 160만닉스 ADR 강세"
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/policy/2026/08/12/2026081215193224420",
-    "https://www.viewsnnews.com/article?q=237862",
-    "https://biz.chosun.com/stock/stock_general/2026/08/12/GCL6OVLTLVAQFC6PDFHBO3QLHI/",
-    "https://www.sentv.co.kr/article/view/sentv202608120140",
-    "https://www.ziksir.com/news/articleView.html?idxno=142959",
     "http://www.iminju.net/news/articleView.html?idxno=167971",
     "http://www.newsian.co.kr/news/articleView.html?idxno=93649",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=206433",
@@ -2728,14 +2715,14 @@
     "https://www.tokenpost.kr/news/economy/389720",
     "https://www.newstnt.com/news/articleView.html?idxno=713828",
     "https://biz.sbs.co.kr/article_hub/20000328474?division=NAVER",
-    "https://www.sedaily.com/article/20078950"
+    "https://www.sedaily.com/article/20078950",
+    "http://www.newsworker.co.kr/news/articleView.html?idxno=441032",
+    "https://www.mdtoday.co.kr/news/articleView.html?idxno=608313",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1720259",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=390422",
+    "https://news.tf.co.kr/read/economy/2353775.htm"
    ],
    "seen_titles": [
-    "[분석]Sh수협은행,상상인증권인수추진···'2000억M&A'승부수",
-    "대형주급락에좁혀진우선주괴리율…배당매력에하락폭제한",
-    "KOSPI200ClosingPriceList-5",
-    "렌탈매각으로한숨돌린롯데…재무구조개선속도",
-    "SK하이닉스지원자주목…'바뀐전형'잡는가천대취업지원노하우",
     "'매머드주주환원설'에삼전닉스급등",
     "[마켓뷰]외국인,반도체집중매수…코스피급등",
     "코스피,반도체주강세에3%대상승마감",
@@ -4230,10 +4217,15 @@
     "[특징주]GS,정유주혼조속7%대강세…목표가상향에매수세",
     "[특징주]외국인'금호타이어·한화생명'…기관'PS일렉트로닉스·SK하...",
     "\"작은설비도대형취급\"…반도체협회,고압가스규제개선착수",
-    "이틀연속SK하닉‘사자’…삼전은순매도1위[주식초고수는지금]"
+    "이틀연속SK하닉‘사자’…삼전은순매도1위[주식초고수는지금]",
+    "[뉴스워커_SK에코플랜트]AI데이터센터사업단신설…관련조직통합",
+    "미래에셋증권,역대급실적에도목표가'하향'...하반기변동성우려",
+    "\"진짜대장주는삼성전기\"…모건스탠리'톱픽'에13%폭등",
+    "[공시]SK오션플랜트,상반기하도급대금557억원지급",
+    "ADR훈풍타고'160만닉스'복귀…SK하이닉스7%대강세"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T11:45:33.499937+09:00"
+   "last_run": "2026-08-13T11:50:37.563397+09:00"
   }
  },
  "press_names": {
