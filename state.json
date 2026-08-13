@@ -702,15 +702,17 @@
     [
      "2026-08-13T08:55:22.819995+09:00",
      "CPI가 강세 끌고 받치고 전망 증시 반도체가"
+    ],
+    [
+     "2026-08-13T09:00:51.645867+09:00",
+     "빅3 공시 없었다 ESG"
+    ],
+    [
+     "2026-08-13T09:00:51.645867+09:00",
+     "운용사 보류 시행되지만 괴리율 일단 제재는 19일 ETF"
     ]
    ],
    "seen_urls": [
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5211952",
-    "https://www.energydaily.co.kr/news/articleView.html?idxno=202162",
-    "https://www.tokenpost.kr/news/market/389005",
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5211953",
-    "https://biz.heraldcorp.com/article/10838818",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008701773&plink=ORI&cooper=NAVER",
     "http://www.yonhapnewstv.co.kr/news/MYH20260812124808kdR",
     "https://www.newsway.co.kr/news/view?ud=2026081212391104540",
     "https://www.nocutnews.co.kr/news/6561784",
@@ -2204,15 +2206,15 @@
     "http://www.atstar1.com/news/articleView.html?idxno=6037564",
     "http://www.newsprime.co.kr/news/article.html?no=743708",
     "https://www.mk.co.kr/article/12126140",
-    "https://www.newspim.com/news/view/20260813000100"
+    "https://www.newspim.com/news/view/20260813000100",
+    "https://www.ziksir.com/news/articleView.html?idxno=143006",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=856495",
+    "https://biz.sbs.co.kr/article_hub/20000328416?division=NAVER",
+    "https://www.youthdaily.co.kr/news/article.html?no=225049",
+    "https://magazine.hankyung.com/business/article/202608138308b",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4429899"
    ],
    "seen_titles": [
-    "용인반도체팹앞당겼지만…기반시설공기맞추기과제",
-    "\"GM지분전량인수한삼성SDI…북미'50GWhESS공룡'탄생한다\"",
-    "경기도지자체·주민들,용인반도체클러스터축소·이전될까노심초사",
-    "코스피급등에매수사이드카발동…'삼전닉스'8%대상승",
-    "‘끼리끼리’김풍“내가아는셰프들다반성해야돼”",
-    "호남권·용인반도체산업단지전력공급협약식",
     "[속보]삼성전자·SK하이닉스7%넘게급등…매수사이드카발동",
     "[속보]삼전닉스7%대↑…코스피4%대급등에'매수사이드카'",
     "SK하이닉스,성과급자사주지급안에노조반발…삼성전자노조에자문",
@@ -3706,10 +3708,16 @@
     "주식투자망한홍진경앞에서…김종국자랑\"난'5만전자'안팔아\"",
     "SK오션플랜트,실적공백앞두고도수주체력확인…회복가시성↑",
     "‘일회성’걷어낸KT,2분기깜짝호실적…AX로날개단다",
-    "[모닝리포트]\"반도체가끌고CPI가받치고…증시강세전망\""
+    "[모닝리포트]\"반도체가끌고CPI가받치고…증시강세전망\"",
+    "정부,첨단산업규제완화…4조2000억원투자유발기대",
+    "T커머스10곳재승인돌입…규제완화속상생주목",
+    "뉴욕증시,7월CPI둔화·AI주랠리에혼조세...나스닥0.5%↑",
+    "첨단3대프로젝트'속도전'…政,입지·규제풀고4.2조유치",
+    "AI빅3,ESG공시없었다[ESG뉴스5]",
+    "ETF괴리율2%룰19일시행되지만…운용사제재는'일단보류'"
    ],
    "initialized": true,
-   "last_run": "2026-08-13T08:55:22.819995+09:00"
+   "last_run": "2026-08-13T09:00:51.645867+09:00"
   }
  },
  "press_names": {
