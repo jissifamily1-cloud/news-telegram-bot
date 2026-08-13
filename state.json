@@ -253,8 +253,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=726153",
-    "https://www.newspim.com/news/view/20260813000223",
     "https://biz.chosun.com/stock/stock_general/2026/08/13/BSTECTSLU5AW5LJOCN2KDD7ZLU/",
     "http://www.metroseoul.co.kr/article/20260813500030",
     "https://www.yna.co.kr/view/AKR20260813038700008?input=1195m",
@@ -1752,11 +1750,11 @@
     "http://www.yonhapnewstv.co.kr/news/MYH20260814052927XQQ",
     "https://www.news1.kr/world/international-economy/6258739",
     "https://www.etoday.co.kr/news/view/2614211",
-    "https://view.asiae.co.kr/article/2026081405305739865"
+    "https://view.asiae.co.kr/article/2026081405305739865",
+    "https://www.ddaily.co.kr/page/view/2026081405363870034",
+    "https://www.mediapen.com/news/view/1116361"
    ],
    "seen_titles": [
-    "코스피,美반도체훈풍에4%대급등…SK하닉7%·삼전5%↑",
-    "[개장시황]코스피,'삼전닉스'급등에6800선회복...4%대↑",
     "[특징주]삼성전기,모건스탠리‘톱픽’선정에13%↑",
     "코스피,장초반5%가까이급등...반도체강세에6890선회복",
     "[특징주]반도체연일강세…삼전닉스5~8%대급등",
@@ -3254,10 +3252,12 @@
     "최태원·노소영9,440억분할확정?…오늘결론",
     "S&P500'사상최고'…CPI이어PPI둔화에금리인상우려완화[뉴욕마감...",
     "전통금융의선택은코인아닌토큰화…인력·제휴집중",
-    "[뉴욕증시]PPI보합에금리인상일부후퇴…S&P500최고치경신"
+    "[뉴욕증시]PPI보합에금리인상일부후퇴…S&P500최고치경신",
+    "S&P500최고치경신,반도체급등이이끌었다…샌디스크13%↑",
+    "[美증시]인플레안정·반도체강세에3대지수동반상승…메모리주도"
    ],
    "initialized": true,
-   "last_run": "2026-08-14T05:35:24.138131+09:00"
+   "last_run": "2026-08-14T05:40:28.557961+09:00"
   }
  },
  "press_names": {
