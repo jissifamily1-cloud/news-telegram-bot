@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-13T18:30:38.115984+09:00",
-     "목표주가는 증권사 하향 실적은 역대급 잇단"
-    ],
-    [
      "2026-08-13T18:40:29.974265+09:00",
      "젠슨 LG 초대로 캘리포니아 동맹 엔비디아 구광모 재확인"
     ],
@@ -334,16 +330,33 @@
     [
      "2026-08-14T00:25:22.074527+09:00",
      "던진 창신메모리 경고 쇼크가"
+    ],
+    [
+     "2026-08-14T00:35:31.873649+09:00",
+     "과잉 실적 클라우드 깜짝 투자론 잠재우나"
+    ],
+    [
+     "2026-08-14T00:35:31.873649+09:00",
+     "양쯔메모리 세계 톱3 1위 진입 낸드플래시 지켜 삼성전자는"
+    ],
+    [
+     "2026-08-14T00:35:31.873649+09:00",
+     "SK하이닉스 만나나 착공 27일 젠슨 인디애나 최태원"
+    ],
+    [
+     "2026-08-14T00:35:31.873649+09:00",
+     "주주환원 개미들 삼전닉스 전망 들썩 300조"
+    ],
+    [
+     "2026-08-14T00:35:31.873649+09:00",
+     "원화가치 한달새 기업들 급등 커지면 불안 변동성"
+    ],
+    [
+     "2026-08-14T00:35:31.873649+09:00",
+     "1년 만남 만에 한총리 빌게이츠 방한 정기선"
     ]
    ],
    "seen_urls": [
-    "https://www.businessplus.kr/news/articleView.html?idxno=115400",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260813090729Aa5",
-    "https://www.chosun.com/economy/stock-finance/2026/08/13/4VCQKOI56VBVBIJUDWP24LZJLY/",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=270256",
-    "https://www.apnews.kr/news/articleView.html?idxno=3050445",
-    "https://www.newsis.com/view/NISX20260813_0003747227",
-    "https://www.newspim.com/news/view/20260813000117",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1720211",
     "https://www.wikitree.co.kr/articles/1152145",
     "https://www.bloter.net/news/articleView.html?idxno=670823",
@@ -1836,16 +1849,16 @@
     "https://www.tokenpost.kr/news/cryptocurrency/390344",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000003036&cp=nv",
     "https://www.tokenpost.kr/news/cryptocurrency/390345",
-    "https://www.hankyung.com/article/2026081301371"
+    "https://www.hankyung.com/article/2026081301371",
+    "https://www.ytn.co.kr/_ln/0103_202608140031091776",
+    "https://www.chosun.com/economy/tech_it/2026/08/14/4SU4RLAN5FBCDFCPZWFJBKSBLI/",
+    "https://www.donga.com/news/Economy/article/all/20260813/134475008/2",
+    "https://www.donga.com/news/Economy/article/all/20260813/134475040/2",
+    "https://www.donga.com/news/Economy/article/all/20260813/134475023/2",
+    "https://www.donga.com/news/Economy/article/all/20260813/134475059/2",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260814003020o4r"
    ],
    "seen_titles": [
-    "[뉴스+]보안AI도'독자모델'경쟁…LG컨소참전에SKT·네이버합류...",
-    "[속보]코스피3%대상승…6,770선출발",
-    "[속보]코스피급등출발…삼성전자·SK하이닉스동반강세",
-    "SK증권\"KT,영업익기대치상회…B2B체질전환주목\"",
-    "다양한장점갖춘'용인반도체클러스터동일하이빌파크밸리',이달20일...",
-    "\"되살아난AI기대감\"…삼성전자4%↑SK하이닉스5%↑[핫스탁]",
-    "[특징주]美반도체훈풍·배당확대기대...프리마켓서대형반도체주...",
     "[원자재시황]CPI안도에도웃지못한시장",
     "코스피6773.92개장…내계좌에들어온수익률은얼마?",
     "[월간DCM]NH증권,KB제치고7월공모채주관'선두'",
@@ -3338,10 +3351,17 @@
     "75~100EB수요전망,샌디스크AI낸드겨냥",
     "양쯔메모리,낸드‘빅3’등극…저가범용시장틈새찌른中",
     "5000억달러AI금융,엔비디아GPU담보화시험대",
-    "[다산칼럼]창신메모리쇼크가던진경고"
+    "[다산칼럼]창신메모리쇼크가던진경고",
+    "오늘최태원-노소영'재산분할'재상고시한...소송전마무리?",
+    "AI클라우드‘깜짝실적’…과잉투자론잠재우나",
+    "中양쯔메모리세계톱3첫진입…삼성전자는낸드플래시1위지켜",
+    "SK하이닉스,美인디애나팹27일착공…최태원-젠슨황또만나나",
+    "“삼전닉스최대300조주주환원전망”개미들들썩",
+    "원화가치한달새9.4%급등…변동성더커지면기업들불안",
+    "빌게이츠1년만에방한…한총리·정기선만남예정"
    ],
    "initialized": true,
-   "last_run": "2026-08-14T00:30:37.160152+09:00"
+   "last_run": "2026-08-14T00:35:31.873649+09:00"
   }
  },
  "press_names": {
