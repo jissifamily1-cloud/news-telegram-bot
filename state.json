@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-13T06:10:35.697140+09:00",
-     "SEED가 흘러야 김용범 Mega로 반도체 다음 산업으로 성과"
-    ],
-    [
-     "2026-08-13T06:10:35.697140+09:00",
-     "쏠림 바이오 이익 상반기 제약 대형"
-    ],
-    [
      "2026-08-13T06:15:34.104257+09:00",
      "나스 부담 뉴욕증시 완화 다우존스 금리 하락 P500 물가 둔화에 미국"
     ],
@@ -1194,16 +1186,21 @@
     [
      "2026-08-13T12:10:28.500845+09:00",
      "Stanley Morgan Names Mechanics Surges Samsung After Pick Top Electro"
+    ],
+    [
+     "2026-08-13T12:14:27.858180+09:00",
+     "핫클립 8월 국내 ESG 3주차"
+    ],
+    [
+     "2026-08-13T12:14:27.858180+09:00",
+     "정권에 인용 총수 삭제 동원 매일경제 기사 신문 한국 대기업"
+    ],
+    [
+     "2026-08-13T12:14:27.858180+09:00",
+     "100명에 여주시 어르신 저소득 상생협약으로 SK하이닉스"
     ]
    ],
    "seen_urls": [
-    "https://it.chosun.com/news/articleView.html?idxno=2023092167988",
-    "https://news.tf.co.kr/read/economy/2353458.htm",
-    "https://www.hankookilbo.com/news/article/A2026081213540005573?did=NA",
-    "https://www.nocutnews.co.kr/news/6561993",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=662291",
-    "https://www.hankookilbo.com/news/article/A2026081212130003332?did=NA",
-    "https://biz.newdaily.co.kr/site/data/html/2026/08/12/2026081200257.html",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=142963",
     "http://www.weeklytoday.com/news/articleView.html?idxno=790029",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=662286",
@@ -2696,16 +2693,16 @@
     "https://www.fntimes.com/html/view.php?ud=2026081311595557487de3572ddd_18",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008703648&plink=ORI&cooper=NAVER",
     "https://www.munhwa.com/article/11609334",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=274726"
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=274726",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553455120",
+    "http://www.datanews.co.kr/news/article.html?no=146028",
+    "https://www.esgeconomy.com/news/articleView.html?idxno=16388",
+    "https://www.newsis.com/view/NISX20260813_0003747754",
+    "http://www.impacton.net/news/articleView.html?idxno=19963",
+    "https://www.mediatoday.co.kr/news/articleView.html?idxno=336417",
+    "http://www.weeklytoday.com/news/articleView.html?idxno=790201"
    ],
    "seen_titles": [
-    "악재털어낸KT…박윤영호,3분기부터'진짜성적표'",
-    "[EBN데이터센터]코스피6579.04마감…외국인·기관동반매수에3.68%...",
-    "외국인·기관'사자'코스피6570대로美반도체주강세…삼성전자6.7%↑",
-    "\"전국제패타이틀은어디\"…대통령배KeG전국결선,15일경주서개막",
-    "코스피,반도체주급등에6600선회복…사이드카발동",
-    "삼성전자6%·SK하이닉스5%'껑충'…코스피,6500선탈환",
-    "억대성과급'삼전닉스'아니었다...가장행복한회사1위는이곳",
     "호남반도체'전력속도전'…정부·한전·삼성·SK원팀가동",
     "[기획]대신증권,2분기호실적…'초대형IB'향해순항",
     "호남·용인반도체팹에6GW·14GW전력공급로드맵확정",
@@ -4198,10 +4195,17 @@
     "SK이노베이션,3년만에흑자기대...멈춘배당은어떻게[배당정책점검...",
     "[12뉴스]오늘의주요뉴스",
     "중도금대출풀고청년주담대늘려…‘꽉틀막’불만해소나섰다",
-    "SamsungElectro-MechanicsSurgesAfterMorganStanleyNamesTopPick"
+    "SamsungElectro-MechanicsSurgesAfterMorganStanleyNamesTopPick",
+    "김민재영입어려워진'나폴리은사'스팔레티,끝내KIM포기→다른센...",
+    "SK에코플랜트,AI데이터센터사업단신설…사업·기술·EPC통합",
+    "SK최태원,고손회사솔리다임나스닥상장추진...'5단중복상장'논란",
+    "공정위,정유4사'타사제품판매제한'조사…적발시최대4%과징금",
+    "8월3주차국내ESG핫클립",
+    "\"한국대기업총수,정권에동원\"日신문인용매일경제기사삭제",
+    "[위클리오늘]여주시,SK하이닉스상생협약으로저소득어르신100명에..."
    ],
    "initialized": true,
-   "last_run": "2026-08-13T12:10:28.500845+09:00"
+   "last_run": "2026-08-13T12:14:27.858180+09:00"
   }
  },
  "press_names": {
