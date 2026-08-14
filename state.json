@@ -285,8 +285,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2614570",
-    "https://www.etoday.co.kr/news/view/2614582",
     "https://www.seoulfn.com/news/articleView.html?idxno=635680",
     "https://www.etnews.com/20260814000107",
     "https://biz.newdaily.co.kr/site/data/html/2026/08/14/2026081400090.html",
@@ -1784,11 +1782,11 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4430301",
     "https://www.dailian.co.kr/news/view/1678634/?sc=Naver",
     "https://www.hankyung.com/article/2026081425401",
-    "https://www.joongangenews.com/news/articleView.html?idxno=540301"
+    "https://www.joongangenews.com/news/articleView.html?idxno=540301",
+    "https://www.insight.co.kr/news/568393",
+    "https://magazine.hankyung.com/business/article/202608152877b"
    ],
    "seen_titles": [
-    "반도체株주도권,SK하이닉스서삼성전자로이동할까",
-    "M.AX전도사김정관\"간부들이AX정책주도해야\"",
     "\"AI투자호황종료?아직멀었다\"…지옥탈출한삼전닉스개미들기대감...",
     "'승격도전'대구,K리그1안양에서홍재석임대영입...수준급수비수...",
     "코스피,美훈풍에장중'7천피'회복...삼전닉스1%대·5%대상승",
@@ -3286,10 +3284,12 @@
     "최태원,'노소영에9천440억지급'불복…파기환송심재상고",
     "[데일리안주간포토]빌게이츠,1년만에방한!정·재계만나SMR협력...",
     "[토요칼럼]K신약개발기업을위한변명",
-    "(종합)최태원SK회장,이혼재상고왜?…'노태우300억'배제에도노소..."
+    "(종합)최태원SK회장,이혼재상고왜?…'노태우300억'배제에도노소...",
+    "\"주주·그룹경영영향최소화\"...최태원,9440억판결재상고",
+    "노소영\"전액현금\"vs최태원\"주식도\"…9440억협상결렬이유"
    ],
    "initialized": true,
-   "last_run": "2026-08-15T01:10:28.227488+09:00"
+   "last_run": "2026-08-15T01:15:20.901743+09:00"
   }
  },
  "press_names": {
