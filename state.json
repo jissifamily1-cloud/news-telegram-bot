@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-14T07:15:28.845321+09:00",
-     "왕개미연구 은퇴자들이 주가 3가지 높을 후회하는"
-    ],
-    [
-     "2026-08-14T07:15:28.845321+09:00",
-     "KT 승부수 상처 해킹 AX로 딛고 박윤영의 다시 신뢰"
-    ],
-    [
-     "2026-08-14T07:15:28.845321+09:00",
-     "알파 삼전닉스에 봇물 ETF 롤러코스피 플러스 채권혼합 출시"
-    ],
-    [
      "2026-08-14T07:20:30.134765+09:00",
      "게이츠 이유 세우는 기업들이 한국 타고 전용기 촉각"
     ],
@@ -1046,15 +1034,17 @@
     [
      "2026-08-14T13:10:37.259686+09:00",
      "필리조선소 한화오션과 가치와 전망 핵심적"
+    ],
+    [
+     "2026-08-14T13:15:29.915669+09:00",
+     "보안 합류 방어체계 연합 강화 롯데카드 선제적"
+    ],
+    [
+     "2026-08-14T13:15:29.915669+09:00",
+     "부울경 손잡았다 해수부 내밀고 지방정부 상공계"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12126641",
-    "https://www.yna.co.kr/view/AKR20260813090451008?input=1195m",
-    "https://www.g-enews.com/view.php?ud=202608131615224602aa6f4cdad_1",
-    "https://www.ajunews.com/view/20260813161934830",
-    "https://www.etnews.com/20260813000394",
-    "https://www.ajunews.com/view/20260813161714827",
     "http://www.queen.co.kr/news/articleView.html?idxno=461729",
     "https://www.fetv.co.kr/news/articleView.html?idxno=308407",
     "https://www.businesspost.co.kr/BP?command=article_view&num=444701",
@@ -2548,15 +2538,15 @@
     "https://economist.co.kr/article/view/ecn202608140029",
     "https://news.tf.co.kr/read/economy/2354184.htm",
     "http://www.popcornnews.net/news/articleView.html?idxno=129738",
-    "https://www.handmk.com/news/articleView.html?idxno=42210"
+    "https://www.handmk.com/news/articleView.html?idxno=42210",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1720441",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=274845",
+    "https://www.etoday.co.kr/news/view/2614662",
+    "https://www.viva100.com/article/20260814500405",
+    "http://www.finomy.com/news/articleView.html?idxno=259244",
+    "https://www.naeil.com/news/read/598913"
    ],
    "seen_titles": [
-    "코스피,미CPI안도·반도체주강세에3.6%급등…외국인2조원‘사자...",
-    "변동성지수,레버리지대책후36%내려50대중반…3개월래최저(종합)",
-    "엑사이엔씨,상반기영업이익465%증가…순이익흑자전환",
-    "[마감시황]코스피,외국인2.1조순매수에3%대상승…美CPI안도·반도...",
-    "미국CPI둔화되자…코스피,3%이상상승해6813.34마감",
-    "SK에코플랜트,AI데이터센터사업단신설…AI인프라사업강화",
     "[오늘증시]코스피,미국발반도체훈풍에3.5%대'불기둥'...6800선돌파...",
     "SK케미칼,2Q영업익319억…전년비26.8%↑",
     "한전12분기연속흑자에도재무상태'빨간불',차기사장전력망구축...",
@@ -4050,10 +4040,16 @@
     "[오늘의삼전닉스]SK하이닉스가미국에메모리전공정공장도지을까요",
     "1300원대눈앞둔환율…한은추가인상'속도조절'변수되나",
     "통신3사,'통신'만해서는성장어렵다…2분기실적이보여준'AIDC'의가...",
-    "[금융트렌드]한화오션과美필리조선소,그핵심적가치와전망"
+    "[금융트렌드]한화오션과美필리조선소,그핵심적가치와전망",
+    "SK바이오사이언스,RSV예방항체1b상신청…영아대상임상본격화",
+    "KoreaSeekstoBecomeNext-GenerationNuclearHubinSMRTalksWithBil",
+    "코스피1%대↑,상승률둔화…코스닥은하락전환",
+    "민형배시장“SK,조만간100조원규모투자발표”",
+    "롯데카드,선제적방어체계강화위해AI보안연합합류",
+    "해수부손내밀고부울경지방정부·상공계손잡았다"
    ],
    "initialized": true,
-   "last_run": "2026-08-14T13:10:37.259686+09:00"
+   "last_run": "2026-08-14T13:15:29.915669+09:00"
   }
  },
  "press_names": {
