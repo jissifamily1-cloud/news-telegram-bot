@@ -174,12 +174,17 @@
     [
      "2026-08-15T06:25:13.024405+09:00",
      "최태원 따져달라 재산분할 9천440억 다시 대법원으로"
+    ],
+    [
+     "2026-08-15T06:30:27.402518+09:00",
+     "대형주 반도체 삼성전자 SK하이닉스 쓸어담았다"
+    ],
+    [
+     "2026-08-15T06:30:27.402518+09:00",
+     "필라델피아반도체지수 마이크론 약보합으로 반도체주"
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477411",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=361767",
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=80526",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608140429&t=NN",
     "https://www.kgnews.co.kr/news/article.html?no=907770",
     "https://view.asiae.co.kr/article/2026081410492422072",
@@ -1676,12 +1681,12 @@
     "https://www.segye.com/newsView/20260815503261?OutUrl=naver",
     "https://www.bntnews.co.kr/article/view/bnt202608150010",
     "https://www.moneystorm.kr/news/articleView.html?idxno=5731",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637867"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637867",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706496&plink=ORI&cooper=NAVER",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477646",
+    "http://www.beyondpost.co.kr/view.php?ud=2026081506185670742aaae0046f_30"
    ],
    "seen_titles": [
-    "대기업,비주력사업정리하고AI·반도체등미래산업에집중",
-    "SamsungretainstopspotinNANDmarket",
-    "“투자후남는현금모두주주에게”파격선언에주가14%급등…AI타...",
     "빌게이츠,韓원전공급망'결속'…테라파워상용화동맹넓힌다",
     "한화오션2분기환헤지17억弗↑…선물환매도'80억弗'대기추정",
     "대기업,AI·반도체·첨단소재진출활기...비주력정리로계열사는감소",
@@ -3178,10 +3183,13 @@
     "“피자반값·아이스크림30%할인”…통신사멤버십,외식비부담낮춘...",
     "최태원,노소영에9440억재산분할불복…재상고결정",
     "\"9천440억은과하다\"…최태원,대법원'재상고'로시간벌기나선진짜...",
-    "최태원‘9천440억재산분할다시따져달라’…또대법원으로"
+    "최태원‘9천440억재산분할다시따져달라’…또대법원으로",
+    "최태원,재산분할소송재상고…다시대법원으로",
+    "[주간거래소외국인]삼성전자·SK하이닉스쓸어담았다…반도체대형주...",
+    "필라델피아반도체지수0.3%↓,마이크론2.3%↑...반도체주,약보합으로..."
    ],
    "initialized": true,
-   "last_run": "2026-08-15T06:25:13.024405+09:00"
+   "last_run": "2026-08-15T06:30:27.402518+09:00"
   }
  },
  "press_names": {
