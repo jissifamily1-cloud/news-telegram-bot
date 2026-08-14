@@ -250,11 +250,17 @@
     [
      "2026-08-15T01:48:22.700727+09:00",
      "수도 1600원 급락 투자 넘보던 환율 늘면 150원 다시"
+    ],
+    [
+     "2026-08-15T01:55:19.366845+09:00",
+     "공동사업 테라파워 SMR SK이노"
+    ],
+    [
+     "2026-08-15T01:55:19.366845+09:00",
+     "양쯔메모리 계속 허위광고 소송 기각 특허전은"
     ]
    ],
    "seen_urls": [
-    "https://www.ziksir.com/news/articleView.html?idxno=143206",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=598237",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576437689762",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=85075",
     "https://www.cstimes.com/news/articleView.html?idxno=716870",
@@ -1752,11 +1758,11 @@
     "https://www.seoulfn.com/news/articleView.html?idxno=635764",
     "https://www.joongang.co.kr/article/25453547",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01295606645547648",
-    "https://www.donga.com/news/Economy/article/all/20260814/134481269/2"
+    "https://www.donga.com/news/Economy/article/all/20260814/134481269/2",
+    "https://www.joongang.co.kr/article/25453554",
+    "https://www.tokenpost.kr/news/cryptocurrency/391136"
    ],
    "seen_titles": [
-    "삼성전자·하이닉스대규모주주환원...시장이궁금해하는4가지",
-    "\"SK하이닉스고점에팔아\"최화정,65살에화장품모델발탁…\"살확빠...",
     "AI데이터센터반도체,2030년에1조8000억달러도달전망",
     "[개장시황]코스피,2%대강세출발7,000선터치후공방",
     "코스피,샌디스크發훈풍에장중7,000선돌파…SK하이닉스3.83%↑",
@@ -3254,10 +3260,12 @@
     "최태원,노소영과재산분할재상고···\"주주·그룹부정적영향최소화...",
     "‘9440억일부주식으로지급’협상불발…최태원재상고",
     "[마켓인]하루1조씩사더니…채권투자중단한SK하이닉스,왜?",
-    "1600원넘보던환율,150원급락…對美투자늘면다시뛸수도"
+    "1600원넘보던환율,150원급락…對美투자늘면다시뛸수도",
+    "[사진]테라파워·SK이노SMR공동사업",
+    "양쯔메모리허위광고소송기각,특허전은계속"
    ],
    "initialized": true,
-   "last_run": "2026-08-15T01:50:33.363891+09:00"
+   "last_run": "2026-08-15T01:55:19.366845+09:00"
   }
  },
  "press_names": {
