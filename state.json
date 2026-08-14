@@ -285,7 +285,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477422",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005900994",
     "https://www.sedaily.com/article/20079437",
     "http://www.sisunnews.co.kr/news/articleView.html?idxno=244321",
@@ -1784,10 +1783,10 @@
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=704212",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=86739",
     "https://www.imaeil.com/page/view/2026081507200049070",
-    "https://www.newscj.com/news/articleView.html?idxno=3425338"
+    "https://www.newscj.com/news/articleView.html?idxno=3425338",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608150440&t=NN"
    ],
    "seen_titles": [
-    "SK텔레콤주가,8월14일장중99,000원8.67%상승",
     "아자뉴스바이트20260814",
     "KDB생명,한국금융行'동원증권血鬪끝'…김남구20년만의박현주'터치...",
     "오늘밤'동거인'꼬리표떼는김희영…최태원'공식재혼'신호탄쏠까",
@@ -3286,10 +3285,11 @@
     "빌게이츠방한에한국원전업계'들썩'…SMR동맹본격화",
     "SK하이닉스,상반기매출64%미국서-빅테크2곳서34조원",
     "'불멸의4할타자'백인천전감독,별세…향년83세",
-    "'불멸의4할타자'백인천전감독,뇌출혈로별세…향년83세"
+    "'불멸의4할타자'백인천전감독,뇌출혈로별세…향년83세",
+    "'전설의4할타자'백인천전감독,뇌출혈로별세"
    ],
    "initialized": true,
-   "last_run": "2026-08-15T07:59:33.763262+09:00"
+   "last_run": "2026-08-15T08:00:34.232698+09:00"
   }
  },
  "press_names": {
