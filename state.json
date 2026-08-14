@@ -166,10 +166,13 @@
     [
      "2026-08-15T05:30:27.925172+09:00",
      "마이크론 약세 테크 고르기 상승"
+    ],
+    [
+     "2026-08-15T05:35:17.394514+09:00",
+     "인텔에 박신영의 CPU 개장전 요것만 10배 월가 주목하는 커진다 시장"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/local/gwangju-jeonnam/6259063",
     "https://www.polinews.co.kr/news/articleView.html?idxno=740154",
     "https://news.jtbc.co.kr/article/NB12313356?influxDiv=NAVER",
     "https://news.knn.co.kr/news/article_sns/1608",
@@ -1668,10 +1671,10 @@
     "https://www.nocutnews.co.kr/news/6563415",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=270619",
     "https://www.ddaily.co.kr/page/view/2026081414071629300",
-    "http://www.fnnews.com/news/202608150522052874"
+    "http://www.fnnews.com/news/202608150522052874",
+    "https://www.hankyung.com/article/202608152889i"
    ],
    "seen_titles": [
-    "산업부,간부대상‘AX역량강화’교육…제조AI정책전환주도",
     "코스피7,000선일시돌파…외국인투자자매수세주목",
     "100억소송털어낸HJ중공업⋯법원“수리선엔진고장은선주책임”",
     "코스피,장중7000선돌파···5거래일연속상승",
@@ -3170,10 +3173,11 @@
     "반도체'피크아웃론'에관한반박…\"변수는금리와미국지출\"[경제적본...",
     "[데스크칼럼]광복절78년…헌법상기업의자유·창의는존중받고있나",
     "만드는족족사가는데왜모자랄까…빅테크'메모리기근'의속사정",
-    "[뉴욕증시]숨고르기속빅테크약세…마이크론,2.3%상승"
+    "[뉴욕증시]숨고르기속빅테크약세…마이크론,2.3%상승",
+    "인텔에주목하는월가…\"CPU시장10배커진다\"[박신영의개장전요것만..."
    ],
    "initialized": true,
-   "last_run": "2026-08-15T05:30:27.925172+09:00"
+   "last_run": "2026-08-15T05:35:17.394514+09:00"
   }
  },
  "press_names": {
