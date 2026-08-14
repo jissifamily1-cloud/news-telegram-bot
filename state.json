@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-14T05:55:22.774114+09:00",
-     "둔화 하락에 뉴욕마 생산자물가 최고 P500 상승 사상 뉴욕증시 유가"
-    ],
-    [
-     "2026-08-14T05:55:22.774114+09:00",
-     "삼전닉스 일본으로 따라 확산 도쿄나 소니도 레버리지 키옥시아 ETF"
-    ],
-    [
      "2026-08-14T06:05:23.498173+09:00",
      "경제브리 낮추면서 목표가는 매수권고하는 한강로 증권사 삼전닉스"
     ],
@@ -1178,16 +1170,17 @@
     [
      "2026-08-14T11:55:21.794238+09:00",
      "소버린 글로벌 모티브 평가 흔든 스타트업"
+    ],
+    [
+     "2026-08-14T12:00:44.407137+09:00",
+     "노소영에 하루이자만 1억3천만원 9440억 줄까 최태원"
+    ],
+    [
+     "2026-08-14T12:00:44.407137+09:00",
+     "소아과 상륙 예방 화이자 아브리스보 산부인과서 RSV"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260813133200008?input=1195m",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1720332",
-    "https://www.sisaon.co.kr/news/articleView.html?idxno=203504",
-    "https://www.mk.co.kr/article/12126596",
-    "http://www.newstomato.com/ReadNews.aspx?no=1310226&inflow=N",
-    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005900395",
-    "https://www.etnews.com/20260813000079",
     "https://www.mk.co.kr/article/12126580",
     "https://www.topdaily.kr/articles/111455",
     "https://www.mydaily.co.kr/page/view/2026081315493170465",
@@ -2680,16 +2673,16 @@
     "https://www.yna.co.kr/view/AKR20260814077300017?input=1195m",
     "https://www.newsis.com/view/NISX20260814_0003748998",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=390578",
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580247799865"
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580247799865",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260814115813yOD",
+    "https://www.yna.co.kr/view/AKR20260814058200054?input=1195m",
+    "http://www.kdfnews.com/news/articleView.html?idxno=186587",
+    "https://www.itbiznews.com/news/articleView.html?idxno=221885",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260814115415Nxi",
+    "https://biz.sbs.co.kr/article_hub/20000328771?division=NAVER",
+    "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170185"
    ],
    "seen_titles": [
-    "코스피3.56%급등,6,800선회복…나흘연속상승(종합)",
-    "최태원이혼소송'마지막선택'…재상고냐9440억확정이냐",
-    "'스페이스X수혜'미래에셋증권,새먹거리는?…토큰증권·가상자산우...",
-    "대출'반토막'…내집마련눈높이,9억이하·경기도로낮아진다",
-    "AI로영토넓히는SK바이오팜…엔비디아협업여지",
-    "MSCI한국지수1개편입·4개편출…3회연속편출많아",
-    "[기획]“AI에먼저물어라”…석창규비즈플레이회장“5년만에복귀...",
     "삼전닉스빈자리에…바이오·뷰티순환매오나",
     "어펄마캐피탈,7호펀드시동…성장사다리2출자확보",
     "[공식발표]수원FC'K리그300경기이상출전'오반석스카우터선임...\"...",
@@ -4182,10 +4175,17 @@
     "SK바이오사이언스,남아공서RSV예방항체임상1b상신청",
     "\"한국증시믿은내가바보\"…외신이전한코스피개미들의눈물",
     "테오도르의시장분석(8월14일오전)",
-    "[메가이슈토픽]'소버린AI'판흔든스타트업...글로벌평가모티브·업..."
+    "[메가이슈토픽]'소버린AI'판흔든스타트업...글로벌평가모티브·업...",
+    "'9440억분할'확정될까…오늘재상고기한",
+    "민형배시장\"SK,전남동부권에100조데이터센터등투자\"",
+    "퍼셉트,레드닷디자인어워드수상...\"UX스튜디오서울로최고상\"",
+    "과기정통부,청년AI스타트업소통간담회…\"맞춤형지원강화\"",
+    "코스피,1%대로상승폭줄여…코스닥은하락전환",
+    "하루이자만1억3천만원...최태원,노소영에9440억줄까?",
+    "소아과전산부인과서RSV예방…화이자'아브리스보'상륙"
    ],
    "initialized": true,
-   "last_run": "2026-08-14T11:55:21.794238+09:00"
+   "last_run": "2026-08-14T12:00:44.407137+09:00"
   }
  },
  "press_names": {
