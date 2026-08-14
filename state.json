@@ -718,11 +718,13 @@
     [
      "2026-08-14T21:45:19.536666+09:00",
      "과반 지급 현금 통합노조 SK하이닉스 PS 확보 목표 출범"
+    ],
+    [
+     "2026-08-14T22:00:36.956596+09:00",
+     "나온다 삼전닉스 연프 언제 공개일"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260814040800008?input=1195m",
-    "https://www.ytn.co.kr/_ln/0103_202608140937352952",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477368",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1720396",
     "https://www.news2day.co.kr/article/20260814500045",
@@ -2220,11 +2222,11 @@
     "https://mhnse.com/news/articleView.html?idxno=1489764",
     "https://mhnse.com/news/articleView.html?idxno=1489769",
     "https://mhnse.com/news/articleView.html?idxno=1489753",
-    "https://mhnse.com/news/articleView.html?idxno=1489747"
+    "https://mhnse.com/news/articleView.html?idxno=1489747",
+    "https://www.thelec.kr/news/articleView.html?idxno=61005",
+    "https://www.ggilbo.com/news/articleView.html?idxno=1174754"
    ],
    "seen_titles": [
-    "[개장시황]\"반도체훈풍에급등\"…코스피,장중7000선터치",
-    "코스피,장초반'7000피'회복…15거래일만",
     "최태원-노소영재상고시한‥9,440억운명은?",
     "매출로답한이통3사AIDC…다음시험대는'투자회수'",
     "백인천전감독,한국프로야구유일4할타자별세",
@@ -3722,10 +3724,12 @@
     "[mhn포토]김재희,살피고또살핀다",
     "[mhn포토]김재희,한번에성공시킨다",
     "[mhn포토]김재희,디봇수리는필수다",
-    "[mhn포토]김재희,콤비캐디와이동"
+    "[mhn포토]김재희,콤비캐디와이동",
+    "SK이노·테라파워,'나트륨'SMR사업협력합의",
+    "'삼전닉스'연프나온다...공개일언제?"
    ],
    "initialized": true,
-   "last_run": "2026-08-14T21:55:21.316125+09:00"
+   "last_run": "2026-08-14T22:00:36.956596+09:00"
   }
  },
  "press_names": {
