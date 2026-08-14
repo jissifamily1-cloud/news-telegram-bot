@@ -146,11 +146,17 @@
     [
      "2026-08-15T04:55:19.791997+09:00",
      "메모리 AMAT 조정 장비주는 샌디스크 호실적 급락에 강세 급등"
+    ],
+    [
+     "2026-08-15T05:00:33.426167+09:00",
+     "24시간 시장 청산 동안 포지션 암호화폐 레버리지 8805만8930달러"
+    ],
+    [
+     "2026-08-15T05:00:33.426167+09:00",
+     "게이츠 손잡은 뚫는다 SMR로 전력난 테라파워"
     ]
    ],
    "seen_urls": [
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=361771",
-    "https://economist.co.kr/article/view/ecn202608140012",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=315388",
     "https://www.ddaily.co.kr/page/view/2026081410350548347",
     "https://www.gokorea.kr/news/articleView.html?idxno=875009",
@@ -1648,11 +1654,11 @@
     "https://www.globale.co.kr/news/articleView.html?idxno=39891",
     "https://www.news2day.co.kr/article/20260812500314",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072185",
-    "https://www.mediapen.com/news/view/1116654"
+    "https://www.mediapen.com/news/view/1116654",
+    "https://www.tokenpost.kr/news/briefing/391188",
+    "https://www.seoul.co.kr/news/economy/2026/08/15/20260815500002?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "40년넘게깨지지않은‘불멸의4할타율’…백인천전감독별세,향년...",
-    "102억원청구기각,HJ중공업수리선소송승소",
     "동부건설,상반기매출1조돌파…2분기실적개선폭키웠다",
     "[분석]빌게이츠방한,SMR넘어핵연료로",
     "최태원·노소영‘9440억재산분할’운명의날…오늘자정재상고마감",
@@ -3150,10 +3156,12 @@
     "최태원,노소영에9,440억재산분할불복재상고···결국대법원행",
     "[N2포커스]NXT,프리마켓상·하한가주문금지…가격왜곡우려는여...",
     "SK최태원노소영9440억원재산분할판결에재상고",
-    "[美증시]샌디스크급등메모리강세…장비주는호실적AMAT급락에조정"
+    "[美증시]샌디스크급등메모리강세…장비주는호실적AMAT급락에조정",
+    "암호화폐시장,24시간동안레버리지포지션8805만8930달러청산",
+    "빌게이츠‘테라파워’손잡은SK…“AI전력난,SMR로뚫는다”"
    ],
    "initialized": true,
-   "last_run": "2026-08-15T04:55:19.791997+09:00"
+   "last_run": "2026-08-15T05:00:33.426167+09:00"
   }
  },
  "press_names": {
