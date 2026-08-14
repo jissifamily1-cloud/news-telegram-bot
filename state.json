@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-14T13:25:17.721277+09:00",
-     "키옥시아 SK하이닉스 제2의 마켓무버 되나 ETF 레버리지"
-    ],
-    [
-     "2026-08-14T13:25:17.721277+09:00",
-     "베테랑 산업계 정년 다시 65세 시계 잡는 빨라졌"
-    ],
-    [
-     "2026-08-14T13:25:17.721277+09:00",
-     "확장 수혜 말까지 SK하이닉스 내년 업황"
-    ],
-    [
-     "2026-08-14T13:25:17.721277+09:00",
-     "환율 원화 신뢰와 한국 대외 환전 문제는 거부"
-    ],
-    [
      "2026-08-14T13:30:30.342507+09:00",
      "미래에셋자산운용 우리은행 교보생명"
     ],
@@ -1081,8 +1065,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=169866",
-    "https://www.etoday.co.kr/news/view/2614505",
     "https://www.joongangenews.com/news/articleView.html?idxno=540097",
     "https://www.lawtv.kr/news/articleView.html?idxno=60679",
     "https://www.hankyung.com/article/2026081408736",
@@ -2580,11 +2562,11 @@
     "https://www.sidae.com/article/2026081417495619927",
     "https://www.joongang.co.kr/article/25453462",
     "https://www.etnews.com/20260814000304",
-    "https://www.segye.com/newsView/20260814519745?OutUrl=naver"
+    "https://www.segye.com/newsView/20260814519745?OutUrl=naver",
+    "https://www.electimes.com/news/articleView.html?idxno=371335",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608140714&t=NN"
    ],
    "seen_titles": [
-    "[박현채칼럼]중국반도체굴기에대응하려면",
-    "최태원·노소영재산분할소송9년만에마무리되나...재상고기한오늘...",
     "최태원·노소영'9,440억이혼소송'오늘결론…재상고안하면확정",
     "샌디스크\"2030년까지매출10%대중후반성장\"…AI수요기대",
     "美인플레압력둔화·S&P'최고치'속...코스피'급등출발'",
@@ -4082,10 +4064,12 @@
     "SK이노베이션,테라파워와'나트륨SMR'사업협력합의서체결",
     "AI발주가급등에…박정원상반기보수456억‘최고’",
     "티맵모빌리티,2분기EBITDA44억흑자…AI·데이터사업호조",
-    "두산박정원상반기연봉만455억원‘총수1위’…2위는133억의구자..."
+    "두산박정원상반기연봉만455억원‘총수1위’…2위는133억의구자...",
+    "SK·테라파워'K-나트륨'띄운다…美넘어韓SMR도공략",
+    "주가급등에455억수령…상반기재계보수'1위'"
    ],
    "initialized": true,
-   "last_run": "2026-08-14T19:20:22.376362+09:00"
+   "last_run": "2026-08-14T19:25:18.934772+09:00"
   }
  },
  "press_names": {
