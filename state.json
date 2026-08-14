@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-14T16:30:30.180887+09:00",
-     "차등화 수자원공사 검토 삼성전자 물요금 SK하이닉스에"
-    ],
-    [
-     "2026-08-14T16:30:30.180887+09:00",
-     "급여 전년보다 직원 평균 8천100만원 상반기 SK이노"
-    ],
-    [
      "2026-08-14T16:35:19.484674+09:00",
      "사업 DX AX 상반기 견인 실적 영업익 증가"
     ],
@@ -642,10 +634,13 @@
     [
      "2026-08-14T22:20:21.607642+09:00",
      "다시 금융 1조달러 경고 꺼냈다 버리 엔비디아"
+    ],
+    [
+     "2026-08-14T22:35:17.978927+09:00",
+     "HBF 논란 비교 HBM 조건 샌디스크 시연"
     ]
    ],
    "seen_urls": [
-    "https://www.mstoday.co.kr/news/articleView.html?idxno=102325",
     "https://www.kukinews.com/article/view/kuk202608140030",
     "https://www.nocutnews.co.kr/news/6562888",
     "https://www.ziksir.com/news/articleView.html?idxno=143183",
@@ -2144,10 +2139,10 @@
     "http://www.atstar1.com/news/articleView.html?idxno=6037652",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4430293",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608140849&t=NN",
-    "https://www.tokenpost.kr/news/cryptocurrency/391004"
+    "https://www.tokenpost.kr/news/cryptocurrency/391004",
+    "https://www.tokenpost.kr/news/cryptocurrency/391012"
    ],
    "seen_titles": [
-    "최태원-노소영'운명의날'...9,440억재산분할확정될까?",
     "현대무벡스주가불기둥…AI·스마트팩토리수혜기대에SI주'들썩'",
     "[1%초고수의개장선택]하이닉스사고한미반도체팔았다",
     "[N2롱폼]K배터리비중국점유율,4년만에반토막...中에밀린이유는",
@@ -3646,10 +3641,11 @@
     "'나솔'22기경수좋겠다…♥옥순\"하이닉스200%수익률,절대손해안...",
     "SK하이닉스ADR2%상승…AI낙관론속나흘째질주하나",
     "팔았다가크게후회\"…개미군단'바글바글'모였다",
-    "1조달러AI금융,버리엔비디아경고다시꺼냈다"
+    "1조달러AI금융,버리엔비디아경고다시꺼냈다",
+    "샌디스크HBF시연,HBM비교조건논란"
    ],
    "initialized": true,
-   "last_run": "2026-08-14T22:30:30.084178+09:00"
+   "last_run": "2026-08-14T22:35:17.978927+09:00"
   }
  },
  "press_names": {
