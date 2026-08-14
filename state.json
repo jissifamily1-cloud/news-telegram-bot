@@ -1138,13 +1138,13 @@
     [
      "2026-08-14T12:10:28.958269+09:00",
      "오늘의 주요뉴스"
+    ],
+    [
+     "2026-08-14T12:15:27.604620+09:00",
+     "국장 돈으로 샀는데 내가 장만할 신혼집 하이닉스 바보 믿은"
     ]
    ],
    "seen_urls": [
-    "https://www.busan.com/view/busan/view.php?code=2026081316013852818",
-    "https://www.kgnews.co.kr/news/article.html?no=907603",
-    "https://www.etnews.com/20260813000381",
-    "http://www.queen.co.kr/news/articleView.html?idxno=461726",
     "http://www.fnnews.com/news/202608131555165177",
     "https://www.mt.co.kr/world/2026/08/13/2026081315534638340",
     "https://www.news1.kr/finance/market-exr/6258325",
@@ -2640,13 +2640,13 @@
     "http://www.updownnews.co.kr/news/articleView.html?idxno=318383",
     "https://www.news1.kr/diplomacy/defense-diplomacy/6259256",
     "http://www.rookie.co.kr/news/articleView.html?idxno=125959",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008705453&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008705453&plink=ORI&cooper=NAVER",
+    "http://www.4th.kr/news/articleView.html?idxno=2116377",
+    "http://www.newsprime.co.kr/news/article.html?no=743935",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000056900",
+    "https://www.seoul.co.kr/news/economy/2026/08/14/20260814500107?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "코스피3.56%급등,나흘연속상승…삼전닉스강세,외국인·기관'사자...",
-    "'6800선탈환'코스피,이틀연속3%대급등하며마감",
-    "2분기낸드시장…삼성1위·SK2위,YMTC첫3위입성",
-    "삼성전자,2분기낸드시장점유율25%1위...SK하이닉스22%로2위",
     "\"외인돌아왔나\"코스피,2조4000억원순매수에6800선회복[fn마감시황...",
     "CNBC\"한국증시강세장진입\"상승세이어갈까",
     "'CPI안도'돌아온외인,코스피6800선탈환…시총10위전종목'상승'[...",
@@ -4142,10 +4142,14 @@
     "동부건설,상반기매출1조돌파…영업익69%·순이익267%증가",
     "배우홍지민,독립유공자에SKT독립운동캠페인출연료전액기부",
     "[유노유농]KBL유스클럽출전앞둔안산TOP초지점손준화\"이번엔부...",
-    "[12뉴스]오늘의주요뉴스"
+    "[12뉴스]오늘의주요뉴스",
+    "HJ중공업,수리선사고102억손배소승소..\"엔진고장선주책임\"",
+    "HJ중공업'완승'···법원\"수리선출거중엔진불능사고는선주책임...",
+    "SK텔레콤·청암대,외국인유학생통신편의지원맞손",
+    "“신혼집장만할돈으로하이닉스샀는데”“국장믿은내가바보”심..."
    ],
    "initialized": true,
-   "last_run": "2026-08-14T12:10:47.483629+09:00"
+   "last_run": "2026-08-14T12:15:27.604620+09:00"
   }
  },
  "press_names": {
