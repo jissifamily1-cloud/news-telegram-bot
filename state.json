@@ -893,7 +893,6 @@
     ]
    ],
    "seen_urls": [
-    "https://imnews.imbc.com/news/2026/econo/article/6844714_36932.html",
     "https://view.asiae.co.kr/article/2026081409290883335",
     "https://news.dealsitetv.com/articles/174701",
     "https://news.dealsitetv.com/articles/174713",
@@ -2392,10 +2391,10 @@
     "https://www.mk.co.kr/article/12120899",
     "https://www.mk.co.kr/article/12120705",
     "https://basketkorea.com/news/newsview.php?ncode=1065595427210426",
-    "https://www.dailian.co.kr/news/view/1678799/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1678799/?sc=Naver",
+    "https://www.businessplus.kr/news/articleView.html?idxno=115525"
    ],
    "seen_titles": [
-    "[특징주]SK케미칼,분기기준최대매출소식에11%급등",
     "코스피,美물가안도에2%대급등···장중7000선회복",
     "코스피,21일만에장중7000선복귀...반도체강세·외국인매수",
     "CXMT수율90%?…中'간보기'에당한꼴",
@@ -3894,10 +3893,11 @@
     "CXMT,新D램4강이냐중국만의태풍이냐[경영전략노트]",
     "‘삼전닉스’두고증권가전망도‘극과극’",
     "‘KBL두번째시즌’SK알빈톨렌티노,“우승을꼭하고싶다”",
-    "[데일리안오늘뉴스종합]반도체株'국민주'됐다,李대통령,권력구조..."
+    "[데일리안오늘뉴스종합]반도체株'국민주'됐다,李대통령,권력구조...",
+    "[이슈+]주가오르자수백억보수로…두산박정원455억·LS구자은133억..."
    ],
    "initialized": true,
-   "last_run": "2026-08-14T21:02:07.304903+09:00"
+   "last_run": "2026-08-14T21:05:18.250316+09:00"
   }
  },
  "press_names": {
