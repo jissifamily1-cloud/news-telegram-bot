@@ -1045,7 +1045,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.queen.co.kr/news/articleView.html?idxno=461729",
     "https://www.fetv.co.kr/news/articleView.html?idxno=308407",
     "https://www.businesspost.co.kr/BP?command=article_view&num=444701",
     "https://www.viva100.com/article/20260813501037",
@@ -2544,10 +2543,10 @@
     "https://www.etoday.co.kr/news/view/2614662",
     "https://www.viva100.com/article/20260814500405",
     "http://www.finomy.com/news/articleView.html?idxno=259244",
-    "https://www.naeil.com/news/read/598913"
+    "https://www.naeil.com/news/read/598913",
+    "http://www.queen.co.kr/news/articleView.html?idxno=461768"
    ],
    "seen_titles": [
-    "[오늘증시]코스피,미국발반도체훈풍에3.5%대'불기둥'...6800선돌파...",
     "SK케미칼,2Q영업익319억…전년비26.8%↑",
     "한전12분기연속흑자에도재무상태'빨간불',차기사장전력망구축...",
     "독파모판뒤집은스타트업⋯모티프1위,글로벌최상위와는‘거리’...",
@@ -4046,10 +4045,11 @@
     "코스피1%대↑,상승률둔화…코스닥은하락전환",
     "민형배시장“SK,조만간100조원규모투자발표”",
     "롯데카드,선제적방어체계강화위해AI보안연합합류",
-    "해수부손내밀고부울경지방정부·상공계손잡았다"
+    "해수부손내밀고부울경지방정부·상공계손잡았다",
+    "'옥문아'김숙,ETF투자수익률공개…\"마이너스38%\"충격"
    ],
    "initialized": true,
-   "last_run": "2026-08-14T13:15:29.915669+09:00"
+   "last_run": "2026-08-14T13:20:25.699108+09:00"
   }
  },
  "press_names": {
