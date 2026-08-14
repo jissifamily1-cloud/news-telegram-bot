@@ -1146,16 +1146,25 @@
     [
      "2026-08-14T11:35:25.018066+09:00",
      "이사장 한국거래소 이정환 모친상"
+    ],
+    [
+     "2026-08-14T11:40:28.020339+09:00",
+     "9월부터 가입 서비스 SK텔레콤 신규 중단 종료 신호 3G"
+    ],
+    [
+     "2026-08-14T11:40:28.020339+09:00",
+     "삼성전자 사업장 마감공사 평택 수주 씨케이솔루션"
+    ],
+    [
+     "2026-08-14T11:40:28.020339+09:00",
+     "쏠리는 가능성 금리 인상 다시 후퇴 시선 증시에"
+    ],
+    [
+     "2026-08-14T11:40:28.020339+09:00",
+     "SK바사 항체 넘어 RSV 소아임상 백신 예방약"
     ]
    ],
    "seen_urls": [
-    "http://www.inews24.com/view/1994763",
-    "https://www.aitimes.com/news/articleView.html?idxno=213885",
-    "https://www.jbnews.com/news/articleView.html?idxno=1509436",
-    "https://www.m-i.kr/news/articleView.html?idxno=1402164",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=726202",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=308906",
-    "https://www.kado.net/news/articleView.html?idxno=2066581",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1720314",
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3031651",
     "http://www.joseilbo.com/news/news_read.php?uid=573797&class=53",
@@ -2648,16 +2657,16 @@
     "https://www.gokorea.kr/news/articleView.html?idxno=847287",
     "https://www.koreabiomed.com/news/articleView.html?idxno=32790",
     "https://bizhankook.com/articles/sk-biopharm-hires-radiopharmaceutical-expert.html",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2459346"
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2459346",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=444787",
+    "https://www.koreaittimes.com/news/articleView.html?idxno=156126",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260814113514M6q",
+    "https://biz.chosun.com/it-science/ict/2026/08/14/77CRICT3VZE5BA75MF37X53T7M/",
+    "https://www.mk.co.kr/article/12127825",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1720434",
+    "https://www.news1.kr/bio/pharmaceutical-bio/6259213"
    ],
    "seen_titles": [
-    "'호남반도체'최대수혜주?⋯금호그룹株연일'불기둥'",
-    "인텔,메모리사업재도전시사...\"CPU와메모리결합등구상\"",
-    "충북국회의원들,정기국회서입법·지역숙원사업'배수진'",
-    "CPI안도·AI실적훈풍에코스피3.56%↑...6800선회복[마감시황]",
-    "코스피,美반도체훈풍에3.6%급등…외국인2조원대'사자'",
-    "코스피…3.56%뛰며6800선탈환",
-    "코스피3.56%오른6813.34…양시장나란히4거래일연속↑",
     "[EBN데이터센터]코스피,사흘째급등하며6813.34마감...반도체대형...",
     "정부,'2조5천억규모'용인반도체산단투자조기집행지원",
     "'돌아온외국인·살아난반도체'…코스피,나흘연속상승6810선마감",
@@ -4150,10 +4159,17 @@
     "퍼셉트,'레드닷디자인어워드2026'최고상수상",
     "SKbiosciencetakesGates-backedRSVantibodyintoinfanttrialinSou",
     "[단독]SK바이오팜,방사성의약품사업박차\"미국서고위임원영입\"",
-    "[부고]이정환(전한국거래소이사장)씨모친상"
+    "[부고]이정환(전한국거래소이사장)씨모친상",
+    "코스피'건강한반등'기회열린다,레버리지투자위축과AI산업성장...",
+    "'TIGER200ETF'개인투자자몰렸다…연초이후순매수1조원돌파",
+    "[이시각헤드라인]8월14일뉴스센터",
+    "[단독]SK텔레콤,9월부터3G신규가입중단추진…서비스종료‘신호...",
+    "씨케이솔루션,삼성전자평택사업장마감공사수주",
+    "美금리인상가능성후퇴…韓증시에다시쏠리는시선",
+    "SK바사,백신넘어'항체'로…RSV예방약소아임상추진"
    ],
    "initialized": true,
-   "last_run": "2026-08-14T11:35:25.018066+09:00"
+   "last_run": "2026-08-14T11:40:28.020339+09:00"
   }
  },
  "press_names": {
