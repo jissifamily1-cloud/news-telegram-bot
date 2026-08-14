@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-14T13:15:29.915669+09:00",
-     "보안 합류 방어체계 연합 강화 롯데카드 선제적"
-    ],
-    [
-     "2026-08-14T13:15:29.915669+09:00",
-     "부울경 손잡았다 해수부 내밀고 지방정부 상공계"
-    ],
-    [
      "2026-08-14T13:25:17.721277+09:00",
      "키옥시아 SK하이닉스 제2의 마켓무버 되나 ETF 레버리지"
     ],
@@ -1078,15 +1070,17 @@
     [
      "2026-08-14T19:15:22.808208+09:00",
      "주주의 리노공업 임금만큼 노사갈등 한다 돈도 존중받아야"
+    ],
+    [
+     "2026-08-14T19:20:22.376362+09:00",
+     "호조 44억 2분기 티맵모빌리티 EBITDA 흑자 사업 데이터"
+    ],
+    [
+     "2026-08-14T19:20:22.376362+09:00",
+     "2위는 구자 1위 두산 상반기 박정원 연봉만 총수 133억의 455억원"
     ]
    ],
    "seen_urls": [
-    "http://www.newsprime.co.kr/news/article.html?no=743891",
-    "https://biz.heraldcorp.com/article/10841037",
-    "https://www.todaykorea.co.kr/news/articleView.html?idxno=404919",
-    "https://www.ajunews.com/view/20260814081314638",
-    "https://www.imaeil.com/page/view/2026081408511512404",
-    "https://www.youthdaily.co.kr/news/article.html?no=225138",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=169866",
     "https://www.etoday.co.kr/news/view/2614505",
     "https://www.joongangenews.com/news/articleView.html?idxno=540097",
@@ -2580,15 +2574,15 @@
     "http://www.inews24.com/view/1995326",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4430283",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260814.99099004090",
-    "https://www.wikitree.co.kr/articles/1152562"
+    "https://www.wikitree.co.kr/articles/1152562",
+    "https://biz.sbs.co.kr/article_hub/20000328797?division=NAVER",
+    "http://www.yonhapnewstv.co.kr/news/MYH202608141916052gs",
+    "https://www.sidae.com/article/2026081417495619927",
+    "https://www.joongang.co.kr/article/25453462",
+    "https://www.etnews.com/20260814000304",
+    "https://www.segye.com/newsView/20260814519745?OutUrl=naver"
    ],
    "seen_titles": [
-    "美반도체훈풍에장초반삼성전자2%↑…SK하닉5%강세[핫스탁]",
-    "“AI수요타고2030년까지성장”…샌디스크,매출두자릿수전망",
-    "최태원·노소영'9440억재산분할'오늘운명의날…재상고시한끝난다",
-    "[속보]코스피2%대상승…7,000선턱밑출발",
-    "[해외시황]뉴욕증시,美물가·유가안도감에'상승'…S&P500지수사상...",
-    "최태원·노소영재상고‘D-DAY’…9440억분할확정시재원마련방안...",
     "[박현채칼럼]중국반도체굴기에대응하려면",
     "최태원·노소영재산분할소송9년만에마무리되나...재상고기한오늘...",
     "최태원·노소영'9,440억이혼소송'오늘결론…재상고안하면확정",
@@ -4082,10 +4076,16 @@
     "SK하이닉스통합노조,1.8만명확보나선다…'PS현금지급'사수",
     "SK이노·테라파워,차세대SMR합의…최태원·게이츠만찬",
     "[속보]빌게이츠,정재계연쇄회동…‘AI전력난해법’SMR협력본격화",
-    "[기자수첩]리노공업노사갈등,임금만큼주주의돈도존중받아야한다"
+    "[기자수첩]리노공업노사갈등,임금만큼주주의돈도존중받아야한다",
+    "[이슈체크]\"들어갈까,말까?\"…외국인사자,코스피이번주내내상승...",
+    "재상고시한오늘까지…'세기의재산분할'확정될까",
+    "SK이노베이션,테라파워와'나트륨SMR'사업협력합의서체결",
+    "AI발주가급등에…박정원상반기보수456억‘최고’",
+    "티맵모빌리티,2분기EBITDA44억흑자…AI·데이터사업호조",
+    "두산박정원상반기연봉만455억원‘총수1위’…2위는133억의구자..."
    ],
    "initialized": true,
-   "last_run": "2026-08-14T19:15:22.808208+09:00"
+   "last_run": "2026-08-14T19:20:22.376362+09:00"
   }
  },
  "press_names": {
