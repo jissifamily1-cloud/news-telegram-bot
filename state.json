@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-15T00:35:18.374419+09:00",
-     "데이터 할인부터 광복절 통신3사 공략 여행객 추가까지 해외"
-    ],
-    [
      "2026-08-15T00:45:19.947755+09:00",
      "협력 논의 게이츠 SMR사업 한국에 정기선 만나 최태원"
     ],
@@ -193,9 +189,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=274816",
-    "https://www.sportsseoul.com/news/read/1628670",
-    "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307280",
     "http://www.press9.kr/news/articleView.html?idxno=81133",
     "https://www.joongangenews.com/news/articleView.html?idxno=540146",
     "https://www.etoday.co.kr/news/view/2614608",
@@ -1692,12 +1685,12 @@
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693375",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477647",
     "https://www.yna.co.kr/view/AKR20260814044400017?input=1195m",
-    "https://www.ytn.co.kr/_ln/0103_202608150629359376"
+    "https://www.ytn.co.kr/_ln/0103_202608150629359376",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=281065",
+    "https://www.news2day.co.kr/article/20260815500003",
+    "https://www.kyeonggi.com/article/20260815580001"
    ],
    "seen_titles": [
-    "방한한빌게이츠,SK최태원-HD현대정기선회장만난다",
-    "비주력사업정리하고AI·반도체진출...대기업계열사4곳감소",
-    "4할타율남긴백인천전감독별세…KBO장으로치른다",
     "법원,HJ중공업상대선주사102억원대손배청구기각",
     "'8년안전장치'부담도그렇고...(주)두산,실트론인수'허니문끝·하...",
     "에이직랜드,상반기'역대최대'매출에흑자전환'서프라이즈'…\"개발...",
@@ -3194,10 +3187,13 @@
     "\"고심끝에상고\"최태원SK회장,재산분할9440억판결불복",
     "[주간거래소기관]삼성전자·SK하이닉스사고한국전력·삼양식품팔았...",
     "[AI돋보기]AI가AI를개발한다…실리콘밸리가켠'통제불능'경고등",
-    "세기의결혼에서재상고까지...최태원-노소영의38년"
+    "세기의결혼에서재상고까지...최태원-노소영의38년",
+    "재산분할9440억원최태원대법원에재상고",
+    "외국인'SK하이닉스·삼성전자'던졌다…개미는SK하닉집중매수",
+    "‘세기의재산분할’최태원,고민끝재상고…9천400억과했나"
    ],
    "initialized": true,
-   "last_run": "2026-08-15T06:35:17.354336+09:00"
+   "last_run": "2026-08-15T06:40:23.353237+09:00"
   }
  },
  "press_names": {
