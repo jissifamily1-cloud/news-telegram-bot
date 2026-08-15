@@ -181,8 +181,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/market/390679",
-    "http://www.fnnews.com/news/202608141411065051",
     "https://ysmbc.co.kr/NewsArticle/1532260",
     "https://www.kizmom.com/news/articleView.html?idxno=112112",
     "https://www.ekn.kr/web/view.php?key=20260814022592827",
@@ -1680,11 +1678,11 @@
     "https://www.newsis.com/view/NISX20260815_0003750730",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212735",
     "https://news.jtbc.co.kr/article/NB12313544?influxDiv=NAVER",
-    "https://www.newsis.com/view/NISX20260815_0003750714"
+    "https://www.newsis.com/view/NISX20260815_0003750714",
+    "https://m.sports.naver.com/basketball/article/065/0000300741",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260815195059t8Z"
    ],
    "seen_titles": [
-    "삼전닉스합산시총,여전히대만TSMC에뒤져...TSMCADR기준으론무려...",
-    "SK텔레콤·현대차급등에밸류업테마상승…옥석가리기본격화",
     "SK바이오사이언스,RSV예방항체소아1b상신청…R&D외연확대",
     "“게이츠와6조시장도전”…SK바사,RSV예방항체개발속도",
     "SK네트웍스2분기영업익42.4%줄었다",
@@ -3182,10 +3180,12 @@
     "K리그1제주,성남서뛴'멀티플레이어'박수빈영입",
     "8월15일MBN뉴스센터주요뉴스",
     "최태원'9440억'판결에재상고…'시간벌기'해석도",
-    "백인천전감독떠난날…프로야구5개구장경기전추모묵념진행"
+    "백인천전감독떠난날…프로야구5개구장경기전추모묵념진행",
+    "[KBL유소년]'데뷔경기에서만점활약'SKU12마시현이보여준게임체...",
+    "재산분할9,440억판결불복…최태원'재상고'이유는?"
    ],
    "initialized": true,
-   "last_run": "2026-08-15T19:50:22.311472+09:00"
+   "last_run": "2026-08-15T19:55:17.626917+09:00"
   }
  },
  "press_names": {
