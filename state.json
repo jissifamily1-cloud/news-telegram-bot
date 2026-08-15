@@ -133,8 +133,6 @@
     ]
    ],
    "seen_urls": [
-    "https://thetracker.co.kr/View.aspx?No=4186144",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=444805",
     "https://www.meconomynews.com/news/articleView.html?idxno=200562",
     "http://www.inews24.com/view/1995119",
     "https://www.e-science.co.kr/news/articleView.html?idxno=133595",
@@ -1632,11 +1630,11 @@
     "https://sports.khan.co.kr/article/202608152217003?pt=nv",
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553461652",
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432549",
-    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597531"
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597531",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553461666",
+    "https://www.newspim.com/news/view/20260815000226"
    ],
    "seen_titles": [
-    "SK케미칼,2분기호실적에14%급등…분기기준최대매출달성",
-    "[여의도단신]NH투자증권·삼성증권·미래에셋자산운용",
     "뱅크웨어글로벌,디지털금융대전환속코어뱅킹솔루션수주속도",
     "[공시]SK네트웍스,중간현금배당결정…보통주70원·우선주95원",
     "하나금융,단자회사에서878조종합금융그룹으로…위기를기회로바꾼...",
@@ -3134,10 +3132,12 @@
     "한국남자농구,아시안게임모의고사에서일본에20점차대패",
     "[현장목소리]'리그3연패'유병훈감독,\"코리아컵리턴매치에서반드...",
     "'송민규2골1도움'서울,대전에4-2대역전극…제주4위도약·포항은...",
-    "'시즌마수걸이골작렬'제주SK유인수\"골장면이요?운이좋았다고생..."
+    "'시즌마수걸이골작렬'제주SK유인수\"골장면이요?운이좋았다고생...",
+    "[현장목소리]'리그8G연속무패'세르지우코스타감독,\"제주SK는언제...",
+    "[프로축구]'송민규2골1도움'선두서울,대전4-2제압...제주와포항..."
    ],
    "initialized": true,
-   "last_run": "2026-08-15T22:35:17.929740+09:00"
+   "last_run": "2026-08-15T22:39:24.665784+09:00"
   }
  },
  "press_names": {
