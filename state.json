@@ -461,8 +461,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.inews24.com/view/1995088",
-    "http://www.kwangju.co.kr/article.php?aid=1786677480802324277",
     "https://imnews.imbc.com/replay/2026/nw1200/article/6844760_36967.html",
     "https://www.tokenpost.kr/news/market/390624",
     "http://www.kwangju.co.kr/article.php?aid=1786673441802322277",
@@ -1960,11 +1958,11 @@
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2267998",
     "https://www.mt.co.kr/industry/2026/08/15/2026081417305488785",
     "https://www.radiokorea.com/news/article.php?uid=501671",
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257294"
+    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257294",
+    "http://www.4th.kr/news/articleView.html?idxno=2116435",
+    "https://www.mediapen.com/news/view/1116706"
    ],
    "seen_titles": [
-    "SK텔레콤·청암대,외국인유학생통신편의지원맞손",
-    "“신혼집장만할돈으로하이닉스샀는데”“국장믿은내가바보”심...",
     "민형배시장\"SK,전남동부권에100조원투자계획곧발표\"",
     "의대갈등풀릴까…목포대·순천대총장오늘'담판'",
     "SK,전남동부권에100조투자?…민형배\"조만간발표\"",
@@ -3462,10 +3460,12 @@
     "SK이노베이션·테라파워,차세대SMR'나트륨'글로벌협력확대",
     "빌게이츠한국오면꼭만나는두사람…코드명'SMR리더십'",
     "8월14일이브닝뉴스헤드라인",
-    "공포가지능을할인한다···제2차개미사냥미끼는'순환금융'"
+    "공포가지능을할인한다···제2차개미사냥미끼는'순환금융'",
+    "최태원,마감직전까지'깜깜이'전략..재상고승부수통할까",
+    "‘반도체대장주’에개미몰렸다…삼성전자·SK하이닉스소액주주1143..."
    ],
    "initialized": true,
-   "last_run": "2026-08-15T10:05:17.870826+09:00"
+   "last_run": "2026-08-15T10:10:21.891676+09:00"
   }
  },
  "press_names": {
