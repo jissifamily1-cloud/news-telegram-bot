@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-15T06:20:25.176180+09:00",
-     "멤버십 할인 피자 통신사 아이스크림 반값 낮춘 외식비 부담"
-    ],
-    [
-     "2026-08-15T06:25:13.024405+09:00",
-     "진짜 재상고 최태원 대법원 9천440억은 과하다 시간 나선 벌기"
-    ],
-    [
-     "2026-08-15T06:25:13.024405+09:00",
-     "최태원 따져달라 재산분할 9천440억 다시 대법원으로"
-    ],
-    [
      "2026-08-15T06:30:27.402518+09:00",
      "대형주 반도체 삼성전자 SK하이닉스 쓸어담았다"
     ],
@@ -446,12 +434,21 @@
     [
      "2026-08-15T12:10:25.350660+09:00",
      "광양 시의회 공동성명 여수 순천 균형성장 18일 100조 투자"
+    ],
+    [
+     "2026-08-15T12:25:19.365475+09:00",
+     "AI로 불리던 노린다 경기도 다낭 다낭시 베트남의"
+    ],
+    [
+     "2026-08-15T12:25:19.365475+09:00",
+     "한국장애인고용공단 위원장 행정보건복지위원회 김일수 경상북도의회"
+    ],
+    [
+     "2026-08-15T12:25:19.365475+09:00",
+     "전영현 상반기 비싼가 CEO 삼성전자 TSMC 최근 9억 연간 부회장"
     ]
    ],
    "seen_urls": [
-    "https://www.welfarenews.net/news/articleView.html?idxno=209710",
-    "https://view.asiae.co.kr/article/2026081313313848485",
-    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432528",
     "http://www.dailypop.kr/news/articleView.html?idxno=101578",
     "https://biz.heraldcorp.com/article/10841600",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072110",
@@ -1948,12 +1945,12 @@
     "http://www.newsworker.co.kr/news/articleView.html?idxno=441363",
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=704240",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=270637",
-    "https://news.tf.co.kr/read/life/2354593.htm"
+    "https://news.tf.co.kr/read/life/2354593.htm",
+    "https://www.chosun.com/international/international_general/2026/08/15/NHZJMVIZUFGCTC2Y23HS7MSGUI/",
+    "https://www.hidomin.com/news/articleView.html?idxno=717345",
+    "https://sateconomy.co.kr/news/view/1065581982327712"
    ],
    "seen_titles": [
-    "법무법인화우,공정거래·하도급전문가이기성변호사영입",
-    "게이츠원전에425억넣은정기선…4년뒤'배위원자로'그린다",
-    "[中경제,두개의실험실③]해킹·먹통막는AI…상포'사이버방패'",
     "코스피변동성조명한외신,개인투자자손실에…\"조울증앓는듯\"",
     "SK텔레콤주가장중8%대상승,AI스타트업앤트로픽지분가치기대감",
     "[데일리토픽]정유4사,2Q흑자행진···윤활기유특수누렸다",
@@ -3450,10 +3447,13 @@
     "여수·순천·광양시의회,18일'균형성장'공동성명...'SK100조투자'...",
     "전남광주통합특별시의회,SK동부권100조투자예고환영",
     "[2Q실적]'송도테라스붕괴'SK에코플랜트,영업익5336억원'깜짝실적...",
-    "최태원·노소영‘세기의재산분할’다시대법으로…경우의수따져보..."
+    "최태원·노소영‘세기의재산분할’다시대법으로…경우의수따져보...",
+    "‘경기도다낭시’로불리던다낭,AI로‘베트남의경기도’노린다",
+    "경상북도의회김일수행정보건복지위원회위원장,한국장애인고용공단...",
+    "삼성전자전영현부회장상반기23.9억,비싼가…TSMCCEO최근연간107..."
    ],
    "initialized": true,
-   "last_run": "2026-08-15T12:20:24.457795+09:00"
+   "last_run": "2026-08-15T12:25:19.365475+09:00"
   }
  },
  "press_names": {
