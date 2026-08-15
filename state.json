@@ -213,7 +213,6 @@
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260814008000320?input=2106m",
     "https://www.sentv.co.kr/article/view/sentv202608140154",
     "http://www.newsdream.kr/news/articleView.html?idxno=116336",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4430230",
@@ -1712,10 +1711,10 @@
     "https://www.slist.kr/news/articleView.html?idxno=759067",
     "https://www.mk.co.kr/article/12128829",
     "https://www.sedaily.com/article/20079842",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160032&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160032&t=NN",
+    "https://www.mydaily.co.kr/page/view/2026081601492742291"
    ],
    "seen_titles": [
-    "[EBN데이터센터]14일상승종목30選",
     "SK증권2분기순이익160.4%늘었다",
     "[속보]코스피2.42%오른6,977.94종료",
     "[단독]서학개미2조들고들어왔더니'국장급락'…'삼전닉스'1.1조샀...",
@@ -3214,10 +3213,11 @@
     "SSG닷컴,가을신상망라'브랜드쇼케이스'...최대50%할인",
     "“삼전·하닉서빠진돈어디갔나봤더니”…한달새21%뛴‘이곳’",
     "‘삼전닉스’돌아오자코스피7000터치…다음주증시향방은[선데이...",
-    "반도체반등에다시8,000억대…레버리지거래'꿈틀'"
+    "반도체반등에다시8,000억대…레버리지거래'꿈틀'",
+    "'슈팅33개→1골'후반기2승의전북,콤파뇨복귀로'골결정력문제'..."
    ],
    "initialized": true,
-   "last_run": "2026-08-16T07:47:15.309778+09:00"
+   "last_run": "2026-08-16T07:50:22.149552+09:00"
   }
  },
  "press_names": {
