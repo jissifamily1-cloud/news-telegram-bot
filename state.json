@@ -126,12 +126,17 @@
     [
      "2026-08-15T23:53:57.149387+09:00",
      "직주 자이르네 지하철 상가 충정로역 품은 쾌적한 아케이드"
+    ],
+    [
+     "2026-08-16T00:05:19.208403+09:00",
+     "전기전자 전력 지속 슈퍼사이클 운수 하반기"
+    ],
+    [
+     "2026-08-16T00:05:19.208403+09:00",
+     "전기전자 운수장비 중심 기관 사고 외인 실적주 담고"
     ]
    ],
    "seen_urls": [
-    "https://www.rapportian.com/news/articleView.html?idxno=239448",
-    "http://www.fnnews.com/news/202608141502232361",
-    "https://www.ziksir.com/news/articleView.html?idxno=143271",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=546645",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592969459730",
     "https://www.sedaily.com/article/20079530",
@@ -1628,12 +1633,12 @@
     "http://www.stoo.com/article.php?aid=108352656262",
     "https://www.livebiz.today/news/articleView.html?idxno=204173",
     "https://www.viva100.com/article/20260814500833",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=265795"
+    "http://www.whitepaper.co.kr/news/articleView.html?idxno=265795",
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432552",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=85151",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=85150"
    ],
    "seen_titles": [
-    "창신메모리시총5405억달러,인텔턱밑",
-    "\"송유관까는중동,공급선다양화한국\"…정유업계,글로벌생존법찾...",
-    "SKhynixFacesGovernanceQuestionsOverPotentialSolidigmIPO",
     "[여의도단신]한국투자금융그룹·신한투자증권·DB증권·SK증권",
     "라이트재단,ADB와중·저소득국바이오생산인력교육수료",
     "\"한국·미국주식환전없이거래하세요\"...SK증권,'통합증거금'선보여",
@@ -3130,10 +3135,13 @@
     "'송민규맹활약'서울,대전에짜릿한역전승…제주SK,안양격파",
     "'9440억재산분할'다시대법원으로...최태원,기한마감직전재상고한...",
     "[르포]지하철품은아케이드상가…‘충정로역자이르네’쾌적한직주...",
-    "최태원·노소영9440억재산분할다시대법원간다…최태원회장측재상..."
+    "최태원·노소영9440억재산분할다시대법원간다…최태원회장측재상...",
+    "'잇단전력누수'한국남자농구,광복절도쿄한일전서20점차완패…...",
+    "[더페어돋보기]\"AI·전력슈퍼사이클지속\"…올하반기전기전자·운수...",
+    "[심층분석]\"전기전자사고운수장비담고\"…외인·기관,실적주중심수..."
    ],
    "initialized": true,
-   "last_run": "2026-08-16T00:00:32.599028+09:00"
+   "last_run": "2026-08-16T00:05:19.208403+09:00"
   }
  },
  "press_names": {
