@@ -241,7 +241,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260814_0003749871",
     "https://en.yna.co.kr/view/AEN20260814008800320?input=2106m",
     "https://en.yna.co.kr/view/AEN20260814008600320?input=2106m",
     "https://www.mk.co.kr/article/12128075",
@@ -1740,10 +1739,10 @@
     "https://www.dailian.co.kr/news/view/1678506/?sc=Naver",
     "https://daily.hankooki.com/news/articleView.html?idxno=1396107",
     "https://theviewers.co.kr/View.aspx?No=4187991",
-    "https://www.seoulfn.com/news/articleView.html?idxno=635450"
+    "https://www.seoulfn.com/news/articleView.html?idxno=635450",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160035&t=NN"
    ],
    "seen_titles": [
-    "거버넌스포럼,SK'5단중복상장'반발…\"주주권익침해우려\"",
     "코스피장중7000선돌파…2.42%오른6977.94마감",
     "KOSPI200ClosingPriceList-4",
     "최태원회장,올해상반기SK서보수17.5억수령",
@@ -3242,10 +3241,11 @@
     "AI·로봇·우주로바뀌는영남…대기업312조투자시동",
     "SKT·KT·LGU+,장기고객잡아라…체험형프로그램'소통'",
     "돌아온外人,삼전닉스상승이어질까",
-    "[반도체패권전쟁③]TSMC·엔비디아·美동맹공급망···AI반도체패..."
+    "[반도체패권전쟁③]TSMC·엔비디아·美동맹공급망···AI반도체패...",
+    "삼전제친'신의직장'…상반기평균급여7,150만원"
    ],
    "initialized": true,
-   "last_run": "2026-08-16T08:15:24.893982+09:00"
+   "last_run": "2026-08-16T08:19:34.757645+09:00"
   }
  },
  "press_names": {
