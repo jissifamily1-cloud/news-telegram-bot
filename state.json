@@ -129,8 +129,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.inews24.com/view/1995199",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1396173",
     "https://www.topstarnews.net/news/articleView.html?idxno=16163706",
     "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545162",
     "https://www.asiaa.co.kr/news/articleView.html?idxno=258948",
@@ -1628,11 +1626,11 @@
     "https://www.yna.co.kr/view/AKR20260814181100003?input=1195m",
     "https://www.yna.co.kr/view/AKR20260815020000008?input=1195m",
     "http://www.inews24.com/view/1995420",
-    "https://www.yna.co.kr/view/AKR20260814179100008?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260814179100008?input=1195m",
+    "https://www.tokenpost.kr/news/market/391521",
+    "https://www.yna.co.kr/view/AKR20260814179700008?input=1195m"
    ],
    "seen_titles": [
-    "SK증권,환전없이국내외주식매매",
-    "SK하이닉스,HBF상용화…샌디스크와내년고객사샘플공급시작",
     "본업뛰고HJ중공업날고…동부건설,상반기매출1조원돌파",
     "SK증권,국내외주식‘통합증거금서비스’출시",
     "KBO\"백인천前감독사망아냐,맥박미세하게살아나응급실行\"",
@@ -3130,10 +3128,12 @@
     "삼전닉스주주환원,연간200조넘어300조가능할까",
     "쉬어가던반도체들썩이자삼전닉스'빚투'신용잔고다시'쑥'",
     "이통3사대표상반기보수보니…홍범식LGU+대표18억원'최고'",
-    "'규제강화후급락'단일레버리지거래대금,증가추세왜?"
+    "'규제강화후급락'단일레버리지거래대금,증가추세왜?",
+    "300조주주환원시나리오,삼성·SK공식안대기",
+    "이달상승장에도'하락베팅'늘어…공매도잔고증가"
    ],
    "initialized": true,
-   "last_run": "2026-08-16T06:25:17.621230+09:00"
+   "last_run": "2026-08-16T06:30:26.675556+09:00"
   }
  },
  "press_names": {
