@@ -462,11 +462,13 @@
     [
      "2026-08-15T11:10:21.867818+09:00",
      "2원 가격 이번주 7원 휘발유 내린 주유소 하락"
+    ],
+    [
+     "2026-08-15T11:14:52.390932+09:00",
+     "아자뉴스바이트"
     ]
    ],
    "seen_urls": [
-    "http://www.popcornnews.net/news/articleView.html?idxno=129738",
-    "https://www.handmk.com/news/articleView.html?idxno=42210",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1720441",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=274845",
     "https://www.etoday.co.kr/news/view/2614662",
@@ -1964,11 +1966,11 @@
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260815.99099004123",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=857167",
     "https://www.smartbizn.com/news/articleView.html?idxno=151358",
-    "https://www.newspim.com/news/view/20260815000048"
+    "https://www.newspim.com/news/view/20260815000048",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477684",
+    "http://kor.theasian.asia/archives/413157"
    ],
    "seen_titles": [
-    "노르웨이국부펀드,반도체강세에사상최대이익",
-    "9년끈최태원·노소영이혼소송…9440억확정오늘갈린다",
     "‘최태원-노소영9440억원재산분할’확정되나",
     "[뉴스1PICK]1년만에한국찾은빌게이츠…정부·재계와SMR협력논의",
     "부동산대출,이렇게달라진다'주담대오픈런'·'결혼페널티'해소기대",
@@ -3466,10 +3468,12 @@
     "최태원결국재상고선택,9440억현금지급판결동의못했나",
     "최태원·노소영재산분할,다시대법원으로",
     "'영원한4할타자'백인천전감독하늘의별이되다…15일별세,17일...",
-    "이번주주유소휘발유가격1.7원내린1668.2원…하락전환"
+    "이번주주유소휘발유가격1.7원내린1668.2원…하락전환",
+    "HBM투자에올라탄아이에스티이…\"하반기매출상반기웃돌것\"",
+    "아자뉴스바이트20260815"
    ],
    "initialized": true,
-   "last_run": "2026-08-15T11:10:21.867818+09:00"
+   "last_run": "2026-08-15T11:14:52.390932+09:00"
   }
  },
  "press_names": {
