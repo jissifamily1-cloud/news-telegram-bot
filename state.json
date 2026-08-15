@@ -238,12 +238,17 @@
     [
      "2026-08-16T08:15:24.893982+09:00",
      "엔비디아 TSMC 반도체 공급망 동맹"
+    ],
+    [
+     "2026-08-16T08:25:18.282328+09:00",
+     "미진 스프레드 수요는 크레디트 안정 채권"
+    ],
+    [
+     "2026-08-16T08:25:18.282328+09:00",
+     "확장 생태계 EDA 영토 개방형 지멘스 인공지능 무역확장법에 긴장"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260814008800320?input=2106m",
-    "https://en.yna.co.kr/view/AEN20260814008600320?input=2106m",
-    "https://www.mk.co.kr/article/12128075",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=850451",
     "http://www.koreastocknews.com/news/articleView.html?idxno=120603",
     "https://it.donga.com/109360/",
@@ -1740,12 +1745,12 @@
     "https://daily.hankooki.com/news/articleView.html?idxno=1396107",
     "https://theviewers.co.kr/View.aspx?No=4187991",
     "https://www.seoulfn.com/news/articleView.html?idxno=635450",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160035&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160035&t=NN",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1720567",
+    "https://www.tokenpost.kr/news/cryptocurrency/391537",
+    "https://www.ddaily.co.kr/page/view/2026081601020103469"
    ],
    "seen_titles": [
-    "코스피장중7000선돌파…2.42%오른6977.94마감",
-    "KOSPI200ClosingPriceList-4",
-    "최태원회장,올해상반기SK서보수17.5억수령",
     "최태원회장,올해상반기SK㈜서17.5억보수수령\"작년수준\"",
     "KOSPI200ClosingPriceList-3",
     "KOSPI200ClosingPriceList-1",
@@ -3242,10 +3247,13 @@
     "SKT·KT·LGU+,장기고객잡아라…체험형프로그램'소통'",
     "돌아온外人,삼전닉스상승이어질까",
     "[반도체패권전쟁③]TSMC·엔비디아·美동맹공급망···AI반도체패...",
-    "삼전제친'신의직장'…상반기평균급여7,150만원"
+    "삼전제친'신의직장'…상반기평균급여7,150만원",
+    "삼성전자·SK하이닉스반등에'빚투'도증가…신용잔고10조원육박",
+    "크레디트스프레드안정,채권수요는미진",
+    "지멘스EDA개방형인공지능생태계영토확장…美무역확장법에긴장..."
    ],
    "initialized": true,
-   "last_run": "2026-08-16T08:20:24.891187+09:00"
+   "last_run": "2026-08-16T08:25:18.282328+09:00"
   }
  },
  "press_names": {
