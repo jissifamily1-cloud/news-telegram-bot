@@ -170,12 +170,13 @@
     [
      "2026-08-15T19:05:17.251888+09:00",
      "11시 59분 재상고 최태원 66억 인지대만"
+    ],
+    [
+     "2026-08-15T19:10:23.778902+09:00",
+     "과부하 박수빈 영입 덜었다 플레이어 멀티 스쿼드 걱정 제주SK"
     ]
    ],
    "seen_urls": [
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=271817",
-    "https://www.yna.co.kr/view/AKR20260814098700051?input=1195m",
-    "https://www.hankyung.com/article/202608141714i",
     "https://www.seoul.co.kr/news/society/2026/08/14/20260814500158?wlog_tag3=naver",
     "https://www.businesspost.co.kr/BP?command=article_view&num=444798",
     "https://ilyo.co.kr/?ac=article_view&entry_id=512291",
@@ -1672,12 +1673,12 @@
     "https://www.nocutnews.co.kr/news/6563525",
     "http://www.fnnews.com/news/202608151843181723",
     "https://www.bigtanews.co.kr/article/view/big202608150007",
-    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545331"
+    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545331",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553461517",
+    "https://m.sports.naver.com/basketball/article/065/0000300738",
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597526"
    ],
    "seen_titles": [
-    "SK네트웍스,포트폴리오전반서성과..2분기매출1조4445억원·영업이익...",
-    "7월ICT수출,총수출의54%...두달연속500억달러넘어",
-    "SK네트웍스,2Q영업익248억원…전년比42.4%↓",
     "미래에셋자산운용,'TIGER200ETF',개인순매수1조원기록",
     "\"'KKR든든한백기사'등에업은SK이터닉스,PPA시장독식채비\"",
     "조경태의원,美하원의원들에쿠팡개인정보사건설명서한",
@@ -3174,10 +3175,13 @@
     "대선배백인천조문못해발동동…경기에묶인현직감독들",
     "\"트럼프도베팅했다\"…AI다음은'광물'전쟁,돈몰리는전략자산ETF",
     "미래에셋증권,8월둘째주일진전기등16종목매수추천",
-    "최태원,밤11시59분“재상고”…인지대만66억원"
+    "최태원,밤11시59분“재상고”…인지대만66억원",
+    "[오피셜]제주SK천군만마얻었다!'멀티플레이어'박수빈영입...\"윤활...",
+    "[KBL유소년]'대이변발생'디펜딩챔피언격침시킨정관장U11,선봉장은...",
+    "제주SK,'멀티플레이어'박수빈영입...스쿼드과부하걱정덜었다"
    ],
    "initialized": true,
-   "last_run": "2026-08-15T19:05:17.251888+09:00"
+   "last_run": "2026-08-15T19:10:23.778902+09:00"
   }
  },
  "press_names": {
