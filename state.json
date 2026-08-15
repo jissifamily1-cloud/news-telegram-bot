@@ -442,11 +442,17 @@
     [
      "2026-08-15T12:30:28.762001+09:00",
      "대법원으로 440억 다시 최태원 노소영"
+    ],
+    [
+     "2026-08-15T12:35:17.266820+09:00",
+     "생태계 장관 보급에 한국 김정관 제조 테라파워와 만남 표준화 SMR"
+    ],
+    [
+     "2026-08-15T12:35:17.266820+09:00",
+     "대법원 판결 최태원 재산분할 9440억원 불복 재상고 노소영에"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10841600",
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072110",
     "https://www.nocutnews.co.kr/news/6563081",
     "https://www.sedaily.com/article/20079352",
     "https://www.electimes.com/news/articleView.html?idxno=371276",
@@ -1944,11 +1950,11 @@
     "https://www.chosun.com/international/international_general/2026/08/15/NHZJMVIZUFGCTC2Y23HS7MSGUI/",
     "https://www.hidomin.com/news/articleView.html?idxno=717345",
     "https://sateconomy.co.kr/news/view/1065581982327712",
-    "https://imnews.imbc.com/replay/2026/nw1200/article/6844977_36967.html"
+    "https://imnews.imbc.com/replay/2026/nw1200/article/6844977_36967.html",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3665609",
+    "https://www.kado.net/news/articleView.html?idxno=2066854"
    ],
    "seen_titles": [
-    "SK텔레콤주가장중8%대상승,AI스타트업앤트로픽지분가치기대감",
-    "[데일리토픽]정유4사,2Q흑자행진···윤활기유특수누렸다",
     "에이직랜드상반기영익50억원…흑자전환",
     "경기도의회박상현의원,\"부천서부권종축교통대책점검…도시공간변...",
     "[이책어때]100만원중7000원,그돈이아까워진세계",
@@ -3446,10 +3452,12 @@
     "‘경기도다낭시’로불리던다낭,AI로‘베트남의경기도’노린다",
     "경상북도의회김일수행정보건복지위원회위원장,한국장애인고용공단...",
     "삼성전자전영현부회장상반기23.9억,비싼가…TSMCCEO최근연간107...",
-    "최태원·노소영'9,440억'‥다시대법원으로"
+    "최태원·노소영'9,440억'‥다시대법원으로",
+    "김정관장관,테라파워와만남…SMR표준화보급에한국제조생태계강...",
+    "최태원,노소영에9440억원재산분할판결불복…대법원재상고"
    ],
    "initialized": true,
-   "last_run": "2026-08-15T12:30:28.762001+09:00"
+   "last_run": "2026-08-15T12:35:17.266820+09:00"
   }
  },
  "press_names": {
