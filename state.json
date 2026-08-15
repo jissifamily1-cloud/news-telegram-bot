@@ -154,11 +154,13 @@
     [
      "2026-08-16T07:00:32.023445+09:00",
      "반도체가 여부에 끌어올린 7천선 안착 코스피"
+    ],
+    [
+     "2026-08-16T07:02:12.475625+09:00",
+     "법조 17일 이번주 8월 일정 21일"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20079549",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477541",
     "https://mhnse.com/news/articleView.html?idxno=1489332",
     "https://www.polinews.co.kr/news/articleView.html?idxno=740235",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1720492",
@@ -1656,11 +1658,11 @@
     "https://www.mt.co.kr/stock/2026/08/16/2026081414521369932",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477766",
     "https://www.kbmaeil.com/article/20260816500011",
-    "https://www.lecturernews.com/news/articleView.html?idxno=208696"
+    "https://www.lecturernews.com/news/articleView.html?idxno=208696",
+    "https://www.g-enews.com/view.php?ud=202608160655409742fbbec65dfb_1",
+    "https://www.lawtimes.co.kr/news/articleView.html?idxno=224927"
    ],
    "seen_titles": [
-    "엔비디아'파인만'AI반도체양산서두르나,삼성전자SK하이닉스HBM경...",
-    "빨라진中의추격…YMTC,삼전닉스이어낸드출하3위",
     "레버리지규제후삼전·닉스순매도한개인,'삼기·한전'최다순매수",
     "삼성전자·SK하이닉스동반상승…코스피2%대강세마감",
     "“하이닉스132만원?무조건들어가야지”연예인까지‘종목토크’…...",
@@ -3158,10 +3160,12 @@
     "'1.9조'대박부른스페이스X가복병…미래에셋증권목표가줄하향",
     "\"벌어들인돈주주에게돌린다\"…삼성전자·SK하이닉스300조원설솔솔",
     "코스피5일내리올라‘7000피’눈앞…외국인반도체베팅이어질까",
-    "[코스피·코스닥지수]반도체가끌어올린코스피,7천선안착여부에시..."
+    "[코스피·코스닥지수]반도체가끌어올린코스피,7천선안착여부에시...",
+    "美,애플에中메모리차단압박…삼성·SK반사이익전망",
+    "(이번주법조일정)8월17일~8월21일"
    ],
    "initialized": true,
-   "last_run": "2026-08-16T07:00:32.023445+09:00"
+   "last_run": "2026-08-16T07:02:12.475625+09:00"
   }
  },
  "press_names": {
