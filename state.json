@@ -234,10 +234,13 @@
     [
      "2026-08-16T08:05:17.256963+09:00",
      "삼전닉스 이어질까 돌아온 상승"
+    ],
+    [
+     "2026-08-16T08:15:24.893982+09:00",
+     "엔비디아 TSMC 반도체 공급망 동맹"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/industry/general-industry/6259606",
     "https://www.newsis.com/view/NISX20260814_0003749871",
     "https://en.yna.co.kr/view/AEN20260814008800320?input=2106m",
     "https://en.yna.co.kr/view/AEN20260814008600320?input=2106m",
@@ -1736,10 +1739,10 @@
     "https://www.sedaily.com/article/20079639",
     "https://www.dailian.co.kr/news/view/1678506/?sc=Naver",
     "https://daily.hankooki.com/news/articleView.html?idxno=1396107",
-    "https://theviewers.co.kr/View.aspx?No=4187991"
+    "https://theviewers.co.kr/View.aspx?No=4187991",
+    "https://www.seoulfn.com/news/articleView.html?idxno=635450"
    ],
    "seen_titles": [
-    "[증시-마감]코스피,7천피눈앞에두고마감…닷새연속상승",
     "거버넌스포럼,SK'5단중복상장'반발…\"주주권익침해우려\"",
     "코스피장중7000선돌파…2.42%오른6977.94마감",
     "KOSPI200ClosingPriceList-4",
@@ -3238,10 +3241,11 @@
     "LG·SKT에도전장낸스타트업…‘국가대표AI’4파전누가웃을까",
     "AI·로봇·우주로바뀌는영남…대기업312조투자시동",
     "SKT·KT·LGU+,장기고객잡아라…체험형프로그램'소통'",
-    "돌아온外人,삼전닉스상승이어질까"
+    "돌아온外人,삼전닉스상승이어질까",
+    "[반도체패권전쟁③]TSMC·엔비디아·美동맹공급망···AI반도체패..."
    ],
    "initialized": true,
-   "last_run": "2026-08-16T08:10:21.706725+09:00"
+   "last_run": "2026-08-16T08:15:24.893982+09:00"
   }
  },
  "press_names": {
