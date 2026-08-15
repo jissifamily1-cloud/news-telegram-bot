@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-15T12:30:28.762001+09:00",
-     "대법원으로 440억 다시 최태원 노소영"
-    ],
-    [
      "2026-08-15T12:35:17.266820+09:00",
      "생태계 장관 보급에 한국 김정관 제조 테라파워와 만남 표준화 SMR"
     ],
@@ -190,10 +186,13 @@
     [
      "2026-08-15T18:15:21.768742+09:00",
      "투자 수혜 실적 본격화 어디까지 반도체 성장 저스템"
+    ],
+    [
+     "2026-08-15T18:30:29.277445+09:00",
+     "투자 돌파 코스피 신뢰 회복이 관건 시험대 7000선"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=05113526645547320",
     "https://www.job-post.co.kr/news/articleView.html?idxno=224105",
     "https://daily.hankooki.com/news/articleView.html?idxno=1396125",
     "https://kpenews.com/View.aspx?No=4187082",
@@ -1692,10 +1691,10 @@
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597522",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477738",
     "https://www.donga.com/news/Economy/article/all/20260815/134483410/1",
-    "https://news.tf.co.kr/read/economy/2354624.htm"
+    "https://news.tf.co.kr/read/economy/2354624.htm",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1720560"
    ],
    "seen_titles": [
-    "\"2배수익좇다괴리율에발목\"…레버리지·인버스ETN'경고등'",
     "[오후장체크포인트]조선주,美함정수주기대감타고날아오르나?",
     "지안♥엄정욱,결혼앞두고수영장서초밀착..\"예랑이고생많아\"",
     "동부건설,올상반기순이익267%급증…매출1조원돌파",
@@ -3194,10 +3193,11 @@
     "'2연승도전'제주SK,FC안양전선발라인업발표",
     "저스템,반도체투자수혜본격화…실적성장어디까지",
     "‘9440억’재산분할소송새국면…“최회장주식·현금제안에노관...",
-    "최태원·노소영재산분할,다시대법으로…반도체기여논란'재점화'"
+    "최태원·노소영재산분할,다시대법으로…반도체기여논란'재점화'",
+    "[주간증시전망]코스피7000선돌파시험대…AI투자신뢰회복이관건"
    ],
    "initialized": true,
-   "last_run": "2026-08-15T18:25:19.412754+09:00"
+   "last_run": "2026-08-15T18:30:29.277445+09:00"
   }
  },
  "press_names": {
