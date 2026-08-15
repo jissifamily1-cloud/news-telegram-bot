@@ -118,10 +118,13 @@
     [
      "2026-08-16T06:10:23.703668+09:00",
      "가능할까 넘어 삼전닉스 300조 주주환원 연간 200조"
+    ],
+    [
+     "2026-08-16T06:15:24.766055+09:00",
+     "반도체 삼전닉스 쉬어가던 신용잔고 들썩이자 빚투 다시"
     ]
    ],
    "seen_urls": [
-    "https://www.bloter.net/news/articleView.html?idxno=670952",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1720476",
     "https://biz.chosun.com/stock/stock_general/2026/08/14/FJYLSAEX3FAGXGJPPWABRJE4YI/",
     "http://www.inews24.com/view/1995199",
@@ -1620,10 +1623,10 @@
     "https://it.chosun.com/news/articleView.html?idxno=2023092168158",
     "https://biz.sbs.co.kr/article_hub/20000328813?division=NAVER",
     "https://www.etoday.co.kr/news/view/2614757",
-    "https://www.yna.co.kr/view/AKR20260814181100003?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260814181100003?input=1195m",
+    "https://www.yna.co.kr/view/AKR20260815020000008?input=1195m"
    ],
    "seen_titles": [
-    "정부·통신사,불법스팸차단위해뭉친다···추석앞서AI필터링강화",
     "빌게이츠방한으로본'AI전력전쟁'…빅테크차세대원전선점",
     "HJ중공업,수리선충돌102억소송승소…법원'엔진불능선주책임'",
     "SK증권,환전없이국내외주식매매",
@@ -3122,10 +3125,11 @@
     "6G승부처로뜬AI-RAN…삼성전자,5G열세넘을까",
     "외신도주목한한국'1등신랑감'…의사·변호사도아닌데",
     "'실적쇼크·재계약·입대'삼중고JYP엔터…증권가\"신인키워야\"",
-    "삼전닉스주주환원,연간200조넘어300조가능할까"
+    "삼전닉스주주환원,연간200조넘어300조가능할까",
+    "쉬어가던반도체들썩이자삼전닉스'빚투'신용잔고다시'쑥'"
    ],
    "initialized": true,
-   "last_run": "2026-08-16T06:10:23.703668+09:00"
+   "last_run": "2026-08-16T06:15:24.766055+09:00"
   }
  },
  "press_names": {
