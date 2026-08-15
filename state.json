@@ -138,13 +138,13 @@
     [
      "2026-08-15T22:05:18.453492+09:00",
      "깊은 대통령 빛낸 백인천 시대 프로야구 애도"
+    ],
+    [
+     "2026-08-15T22:09:23.744269+09:00",
+     "2골1도움 승리 K리그1 역전승 송민규 4경기만의 서울 대전에"
     ]
    ],
    "seen_urls": [
-    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545158",
-    "https://www.mt.co.kr/world/2026/08/14/2026081414451534133",
-    "https://biz.chosun.com/science-chosun/bio/2026/08/14/Y36PWVNA2FDQ3C325ATSOEUVNY/",
-    "http://www.e2news.com/news/articleView.html?idxno=333264",
     "https://www.gukjenews.com/news/articleView.html?idxno=3665013",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05221766645547320",
     "https://www.imaeil.com/page/view/2026081414380090444",
@@ -1640,13 +1640,13 @@
     "https://www.dailian.co.kr/news/view/1678909/?sc=Naver",
     "https://www.ilyosisa.co.kr/news/article.html?no=257392",
     "https://www.news1.kr/sports/soccer/6260386",
-    "https://www.imaeil.com/page/view/2026081521575839458"
+    "https://www.imaeil.com/page/view/2026081521575839458",
+    "https://www.sportsseoul.com/news/read/1628839",
+    "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002083",
+    "https://www.newsis.com/view/NISX20260815_0003750721",
+    "https://www.yna.co.kr/view/AKR20260815050351007?input=1195m"
    ],
    "seen_titles": [
-    "SK증권,'통합증거금서비스'출시…환전없이국내외주식적시거래",
-    "최태원-노소영'세기의재산분할'...오늘마침표?[뉴스퀘어2PM]",
-    "[짚고가자]빌게이츠까지뛰어든'작은원전'…SMR이뭐길래",
-    "SK증권,상반기순익569억원…전년比266.4%↑",
     "1년만에한국찾은빌게이츠,조정식국회의장면담[현장영상]",
     "최태원SK회장\"반도체부족,내년이최악…수요더늘것\"",
     "백신넘어항체로…SK바이오,RSV예방항체글로벌임상시동",
@@ -3142,10 +3142,14 @@
     "이현중빠진남자농구,광복절한일전서20점차완패",
     "“주가하락분까지보전”제안했지만노소영거부",
     "'송민규멀티골'서울,대전4-2완파…2위와10점차선두",
-    "李대통령\"프로야구한시대빛낸故백인천…깊은애도\""
+    "李대통령\"프로야구한시대빛낸故백인천…깊은애도\"",
+    "송민규부활쇼!후반막판‘2골1도움’대활약…FC서울,대전에4-2역전...",
+    "우리가알던그궤적,밤하늘을갈랐다…감격의통산213호대포,랜더...",
+    "'송민규2골1도움'K리그1서울,대전에4-2짜릿한역전승(종합)",
+    "'송민규2골1도움'서울,대전에역전승…K리그14경기만의승리(종합)"
    ],
    "initialized": true,
-   "last_run": "2026-08-15T22:05:18.453492+09:00"
+   "last_run": "2026-08-15T22:09:23.744269+09:00"
   }
  },
  "press_names": {
