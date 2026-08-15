@@ -478,12 +478,13 @@
     [
      "2026-08-15T11:40:22.878989+09:00",
      "기선 제압 격파 KT U9"
+    ],
+    [
+     "2026-08-15T11:45:20.643886+09:00",
+     "가파른 5거래일 지속 주가 SK스퀘어 최근 상승세"
     ]
    ],
    "seen_urls": [
-    "http://www.newslock.co.kr/news/articleView.html?idxno=134248",
-    "http://www.4th.kr/news/articleView.html?idxno=2116385",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=790394",
     "http://www.thebigdata.co.kr/view.php?ud=202608141146483261570d99e4c8_23",
     "https://www.gokorea.kr/news/articleView.html?idxno=875053",
     "https://www.gokorea.kr/news/articleView.html?idxno=875052",
@@ -1980,12 +1981,12 @@
     "https://www.newsis.com/view/NISX20260815_0003750533",
     "https://www.pennmike.com/news/articleView.html?idxno=125752",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477689",
-    "https://basketkorea.com/news/newsview.php?ncode=1065579037923551"
+    "https://basketkorea.com/news/newsview.php?ncode=1065579037923551",
+    "https://wemakenews.co.kr/news/view.php?no=26050",
+    "https://www.ytn.co.kr/_ln/0103_202608151118511487",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16164322"
    ],
    "seen_titles": [
-    "해수부손내밀고부울경지방정부·상공계손잡았다",
-    "'옥문아'김숙,ETF투자수익률공개…\"마이너스38%\"충격",
-    "전남광주의과대학설립논의…목포대·순천대갈등의해법은?",
     "ICT수출534억달러역대7월최대...반도체179%↑",
     "대기업집단계열사3개월간4개감소…AI·반도체늘리고비주력줄여",
     "반도체'고점우려'한풀꺾였다…코스피닷새째상승·외국인귀환",
@@ -3482,10 +3483,13 @@
     "전남광주시의회\"SK전남동부권100조원투자,환영\"",
     "[재계핫이슈]최태원회장'11시59분상고'속사정은?",
     "SK하이닉스,AI호황에실적또뛴다…\"지금이비중확대기회\"",
-    "[KBL유소년클럽대회]‘기선제압’SKU9,KTU9격파"
+    "[KBL유소년클럽대회]‘기선제압’SKU9,KTU9격파",
+    "SK네트웍스,영업익42%줄었는데세전익44%↑…AI투자자산이효자",
+    "'세기의이혼'다시대법원으로...이번주법조계'키워드'",
+    "SK스퀘어주가최근5거래일가파른상승세지속"
    ],
    "initialized": true,
-   "last_run": "2026-08-15T11:40:22.878989+09:00"
+   "last_run": "2026-08-15T11:45:20.643886+09:00"
   }
  },
  "press_names": {
