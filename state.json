@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-16T11:45:20.949884+09:00",
-     "SMR Center of Visit TerraPower Puts Bill Companies Gates Korean at the"
-    ],
-    [
      "2026-08-16T12:05:21.589364+09:00",
      "기관 1위 개인 외인 한국전력 SK하이닉스 코스피 주간 삼성전자"
     ],
@@ -374,11 +370,13 @@
     [
      "2026-08-16T17:45:20.062448+09:00",
      "논쟁까지 강제집행 고심 최태원 부담에 기여도"
+    ],
+    [
+     "2026-08-16T17:50:20.500337+09:00",
+     "교부금 미래기금 커진다 개편 효과에 100조로"
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/market/390814",
-    "https://www.mediajeju.com/news/articleView.html?idxno=365735",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4430258",
     "https://dealsite.co.kr/articles/167276",
     "https://www.sentv.co.kr/article/view/sentv202608140087",
@@ -1876,11 +1874,11 @@
     "https://www.hankyung.com/article/2026081642091",
     "https://www.hankyung.com/article/2026081642071",
     "https://biz.heraldcorp.com/article/10841795",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=83286"
+    "https://www.pointe.co.kr/news/articleView.html?idxno=83286",
+    "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260816507&PRO_CODE=99",
+    "https://www.hankyung.com/article/2026081641991"
    ],
    "seen_titles": [
-    "[핫이슈]최태원·노소영재상고기한'코앞'…9년만에종결되나",
-    "SK네트웍스·바디프랜드,2분기세전이익371억원달성·건기식'바디프...",
     "빌게이츠,서울서소형원전공급망협력논의",
     "금오공대·영남대,반도체인재양성성과점검…“기업요구맞는실무...",
     "346만명된SK하이닉스소액주주,1년새5배",
@@ -3378,10 +3376,12 @@
     "[단독]年수익률20%…변동장에돌아온ELS",
     "[단독]공작기계상반기수주8년만에최대",
     "“‘삼전닉스’는알겠는데”국민연금이싹쓸이한‘이주식’…40→7...",
-    "[이승욱의포인트]강제집행부담에'기여도'논쟁까지…최태원,고심..."
+    "[이승욱의포인트]강제집행부담에'기여도'논쟁까지…최태원,고심...",
+    "'세기의이혼'최태원,재상고배경엔'9440억지급방식'에의견차",
+    "교부금개편효과에미래기금100조로커진다"
    ],
    "initialized": true,
-   "last_run": "2026-08-16T17:45:20.062448+09:00"
+   "last_run": "2026-08-16T17:50:20.500337+09:00"
   }
  },
  "press_names": {
