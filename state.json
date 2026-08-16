@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-16T06:20:22.699154+09:00",
-     "규제강화 증가추세 단일 레버리지 거래대금 급락"
-    ],
-    [
      "2026-08-16T06:35:18.064177+09:00",
      "전문가 어떻게 허용 평가선 2차 에이전틱AI 독파모 호출 평가"
     ],
@@ -377,7 +373,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20260814515594?OutUrl=naver",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5212554",
     "http://www.newswell.co.kr/news/articleView.html?idxno=21082",
     "https://www.newspim.com/news/view/20260814001005",
@@ -1876,10 +1871,10 @@
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=265799",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000003368&cp=nv",
     "https://www.yna.co.kr/view/AKR20260816020300004?input=1195m",
-    "https://www.ikbc.co.kr/article/view/kbc202608160019"
+    "https://www.ikbc.co.kr/article/view/kbc202608160019",
+    "https://www.slist.kr/news/articleView.html?idxno=759116"
    ],
    "seen_titles": [
-    "[마감시황]코스피외국인3조'사자'에7000선눈앞…코스닥도5일째상...",
     "SK네트웍스2분기세전이익371억,44%증가…AI투자성과에실적방어",
     "[골든크로스종목]알트빙그레탑코미디어동인기연동부건설폭등랠리",
     "[단독]SKTAI'에이닷',구글글래스적용되나…PoC진행",
@@ -3378,10 +3373,11 @@
     "\"안팔길정말잘했네\"…삼전·닉스주주환원,연간300조원기대",
     "[롤러코스피탑승기]청년도,노인도모두가주식을시작했다",
     "최태원\"9천440억원재산분할일부주식으로\"…노소영\"현금만\"",
-    "주가반등에다시몰리는개미들...시총1·2위반도체주'빚투'랠리"
+    "주가반등에다시몰리는개미들...시총1·2위반도체주'빚투'랠리",
+    "최태원\"9440억원재산분할일부주식으로\"…노소영\"현금만\""
    ],
    "initialized": true,
-   "last_run": "2026-08-16T12:20:21.631133+09:00"
+   "last_run": "2026-08-16T12:25:16.944526+09:00"
   }
  },
  "press_names": {
