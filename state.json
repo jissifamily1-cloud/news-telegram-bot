@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-16T14:30:26.573076+09:00",
-     ""
-    ],
-    [
      "2026-08-16T14:35:20.083736+09:00",
      "미자 날아갔다 주가 하루만 주식 SK하이닉스 심경 폭락에"
     ],
@@ -386,10 +382,13 @@
     [
      "2026-08-16T20:20:22.285315+09:00",
      "중리택지 첨단산업 이천시장 도시경관 미래 밑그림 역세권 성수석"
+    ],
+    [
+     "2026-08-16T20:30:27.658125+09:00",
+     "영원한 그라운드의 타자 4할 별이"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026081425501",
     "http://www.4th.kr/news/articleView.html?idxno=2116418",
     "https://it.chosun.com/news/articleView.html?idxno=2023092168230",
     "http://www.newswatch.kr/news/articleView.html?idxno=80774",
@@ -1888,10 +1887,10 @@
     "https://www.khan.co.kr/article/202608162010015",
     "https://m.sports.naver.com/basketball/article/065/0000300786",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1720590",
-    "http://www.newstown.co.kr/news/articleView.html?idxno=712608"
+    "http://www.newstown.co.kr/news/articleView.html?idxno=712608",
+    "https://www.khan.co.kr/article/202608162025025"
    ],
    "seen_titles": [
-    "SK하이닉스,상반기엔비디아매출17조…미국비중64%",
     "SK에코플랜트,2분기영업이익5336억원…AI인프라프로젝트실적견인",
     "“한국증시믿은내가바보”…외신이본‘코스피개미’의잔혹한여...",
     "김정관장관,빌게이츠테라파워의장면담…SMR협력방안논의",
@@ -3390,10 +3389,11 @@
     "[정동칼럼]지금은소통보다숙의가더필요",
     "[KBL유소년]농구인2세의뚜렷한목표,소노U10이유준은'은퇴식받는...",
     "최태원재상고9440억…'지배력방어'최대변수는SK㈜주가",
-    "성수석이천시장,미래도시경관밑그림…중리택지·역세권·첨단산업..."
+    "성수석이천시장,미래도시경관밑그림…중리택지·역세권·첨단산업...",
+    "그라운드의별이된‘영원한4할타자’"
    ],
    "initialized": true,
-   "last_run": "2026-08-16T20:25:17.726527+09:00"
+   "last_run": "2026-08-16T20:30:27.658125+09:00"
   }
  },
  "press_names": {
