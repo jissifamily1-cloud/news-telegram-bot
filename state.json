@@ -338,12 +338,17 @@
     [
      "2026-08-16T17:05:18.145608+09:00",
      "비서 기본 AI는 직접 이젠 쓰는 만든다 보고서"
+    ],
+    [
+     "2026-08-16T17:10:23.326539+09:00",
+     "가격 환불 없으니 옛날 고장 SSD값 뛰었는데 제품"
+    ],
+    [
+     "2026-08-16T17:10:23.326539+09:00",
+     "BBC가 조명한 삼전 SK하닉 포모족의 날렸다 결혼자금 2000만원"
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0102_202608141712483133",
-    "https://www.etoday.co.kr/news/view/2614875",
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=84517",
     "https://www.hankyung.com/article/202608141856i",
     "http://www.koreastocknews.com/news/articleView.html?idxno=120609",
     "https://www.gokorea.kr/news/articleView.html?idxno=875122",
@@ -1840,12 +1845,12 @@
     "https://it.chosun.com/news/articleView.html?idxno=2023092168276",
     "https://www.hankookilbo.com/news/article/A2026081413330000398?did=NA",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000003451&cp=nv",
-    "https://www.segye.com/newsView/20260816511079?OutUrl=naver"
+    "https://www.segye.com/newsView/20260816511079?OutUrl=naver",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1720586",
+    "https://view.asiae.co.kr/article/2026081616561464696",
+    "https://www.insight.co.kr/news/568521"
    ],
    "seen_titles": [
-    "빌게이츠방한…SK·HD현대·두산'SMR탄력'",
-    "SK하이닉스상반기직원평균급여1억4천여만원…전년보다23%↑",
-    "최태원회장,지주사SK로부터상반기급여17.5억수령",
     "최태원,상반기보수로17.5억원수령",
     "코스피·코스닥닷새연속상승세...장중'7천피'탈환",
     "최태원,상반기SK서17.5억수령…지난해와동일",
@@ -3342,10 +3347,13 @@
     "추격하는中반도체…YMTC,낸드출하량3위",
     "'9440억원지급'시간번최태원...두번째대법원,재산분할비율달...",
     "가속화하는UAM경쟁…한국도2년후상용화목표",
-    "“보고서쓰는AI는기본”…이젠‘AI비서’직접만든다"
+    "“보고서쓰는AI는기본”…이젠‘AI비서’직접만든다",
+    "\"코스피오르니더불안해\"…7000앞두고개미들'하락베팅'",
+    "SSD값두배뛰었는데고장…\"새제품없으니옛날가격환불\"",
+    "\"결혼자금2000만원날렸다\"...BBC가조명한삼전·SK하닉포모족의눈..."
    ],
    "initialized": true,
-   "last_run": "2026-08-16T17:05:18.145608+09:00"
+   "last_run": "2026-08-16T17:10:23.326539+09:00"
   }
  },
  "press_names": {
