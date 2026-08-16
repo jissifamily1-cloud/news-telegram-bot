@@ -418,12 +418,13 @@
     [
      "2026-08-16T11:15:21.201075+09:00",
      "요금제로 이어지나 차등제 전용 지역별 전기요금 AI데이터센터"
+    ],
+    [
+     "2026-08-16T11:20:21.547399+09:00",
+     "박수빈 영입 중원 성남 주장 강화 제주SK"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260814161018554",
-    "http://www.newskr.kr/news/articleView.html?idxno=105643",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000003202&cp=nv",
     "http://www.segyebiz.com/newsView/20260814516354?OutUrl=naver",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=169898",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1720512",
@@ -1920,12 +1921,12 @@
     "https://www.hani.co.kr/arti/economy/finance/1273089.html",
     "https://economist.co.kr/article/view/ecn202608160004",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=01328406645547976",
-    "https://kidd.co.kr/news/247042"
+    "https://kidd.co.kr/news/247042",
+    "https://www.mk.co.kr/article/12128889",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000057134",
+    "https://www.jejumaeil.net/news/articleView.html?idxno=403708"
    ],
    "seen_titles": [
-    "[공매도브리핑]8월14일삼성전자3,760억6,200만원…한국항공우주42.1...",
-    "[위클리오늘]이천시-청주시어린이들,문화교류로꽃핀창의도시우정",
-    "[더밸류브리핑]미래에셋·신한·KCGI자산운용,ETF·펀드시장공략속...",
     "배터리살아났는데소재는아직…이차전지업계실적'온도차'",
     "SK하이닉스호조에…SK스퀘어,2분기영업익19조'역대최대'",
     "코스피6977마감,외인3조순매수",
@@ -3422,10 +3423,13 @@
     "4대은행상반기급여7150만원,지주는1억대…삼전보다많아",
     "SK주가1만원에1300억널뛰기…최태원'9440억불복'속사정",
     "[크레딧시그널]금리꺾였지만스프레드는‘쑥’…회사채투자심리꽁...",
-    "전기요금지역별차등제,AI데이터센터전용요금제로이어지나"
+    "전기요금지역별차등제,AI데이터센터전용요금제로이어지나",
+    "은행원상반기에받아간평균급여7150만원…삼성전자보다많았다",
+    "삼전·닉스주주환원'300조시대'열리나…반도체초호황에기대감",
+    "제주SK,성남주장박수빈영입'중원강화'"
    ],
    "initialized": true,
-   "last_run": "2026-08-16T11:15:21.201075+09:00"
+   "last_run": "2026-08-16T11:20:21.547399+09:00"
   }
  },
  "press_names": {
