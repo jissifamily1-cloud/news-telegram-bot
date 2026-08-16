@@ -322,13 +322,13 @@
     [
      "2026-08-16T09:30:30.276130+09:00",
      "검토했으나 지급 하락분까지 9440억원 재상고 주가 결국 최태원"
+    ],
+    [
+     "2026-08-16T09:35:20.965338+09:00",
+     "AI서버 웃는 이유 36억 메모리만 1대 삼전닉스가"
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477564",
-    "http://www.newstomato.com/ReadNews.aspx?no=1310353&inflow=N",
-    "https://www.slist.kr/news/articleView.html?idxno=758879",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051572",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=726272",
     "https://www.newspim.com/news/view/20260814000972",
     "https://www.dailian.co.kr/news/view/1678659/?sc=Naver",
@@ -1824,13 +1824,13 @@
     "https://www.mydaily.co.kr/page/view/2026081608582131297",
     "https://www.eroun.net/news/articleView.html?idxno=87673",
     "https://magazine.hankyung.com/business/article/202608163777b",
-    "https://www.s-journal.co.kr/news/articleView.html?idxno=43058"
+    "https://www.s-journal.co.kr/news/articleView.html?idxno=43058",
+    "https://www.youthdaily.co.kr/news/article.html?no=225205",
+    "https://economist.co.kr/article/view/ecn202608160001",
+    "https://www.thepublic.kr/news/articleView.html?idxno=315097",
+    "https://www.mt.co.kr/industry/2026/08/16/2026081416184426163"
    ],
    "seen_titles": [
-    "동부건설상반기매출1조307억원돌파…영업이익69.2%급증",
-    "최태원,상반기보수17억5000만원…지난해와동일·상여금'0원'",
-    "SK스퀘어영업익19조'사상최대'…웃는하이닉스뒤신규투자성과는...",
-    "외인'사자'에코스피닷새째상승…장중'칠천피'회복",
     "[거래소외국인]삼성전자SK하이닉스현대차농심SK쓸어담았다",
     "코스피,5거래일연속상승…장중7000선도회복",
     "최태원·노소영9440억원재산분할확정되나…양측침묵",
@@ -3326,10 +3326,14 @@
     "제주의역대급상승세!후반기7G무패+2연승질주,안양2-0제압하고4...",
     "개인10조손실…단일종목레버리지ETF,무엇이문제였나",
     "[속보]“삼전보다많았다”4대은행평균급여‘역대최대’",
-    "최태원,9440억원지급검토했으나결국재상고…'주가하락분까지보..."
+    "최태원,9440억원지급검토했으나결국재상고…'주가하락분까지보...",
+    "성과급에퇴직금까지‘억대’...은행권임금상승폭13년만에최대",
+    "글로벌수익률1위코스닥…‘삼전·닉스’급반등에수급쏠림재현되...",
+    "끝난줄알았던'세기의이혼'다시대법원으로…최태원회장재상고",
+    "AI서버1대메모리만'36억'…삼전닉스가웃는이유[이슈속으로]"
    ],
    "initialized": true,
-   "last_run": "2026-08-16T09:30:30.276130+09:00"
+   "last_run": "2026-08-16T09:35:20.965338+09:00"
   }
  },
  "press_names": {
