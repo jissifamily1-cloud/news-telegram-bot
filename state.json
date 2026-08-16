@@ -278,10 +278,13 @@
     [
      "2026-08-17T07:45:19.609999+09:00",
      "아빠 이런 회사가 자녀들에 곳이었어 여름방학 일터 맞아"
+    ],
+    [
+     "2026-08-17T08:00:33.386826+09:00",
+     "작동한 반토막 ETF 결과였다 삼성전자 설계대로"
     ]
    ],
    "seen_urls": [
-    "http://www.newsprime.co.kr/news/article.html?no=744028",
     "https://www.thelec.kr/news/articleView.html?idxno=60982",
     "https://www.tokenpost.kr/news/breaking/390899",
     "https://biz.heraldcorp.com/article/10842056",
@@ -1780,10 +1783,10 @@
     "https://www.g-enews.com/view.php?ud=20260817073735492fbbec65dfb_1",
     "https://www.segye.com/newsView/20260817504147?OutUrl=naver",
     "https://biz.sbs.co.kr/article_hub/20000329034?division=NAVER",
-    "https://www.tokenpost.kr/news/market/391792"
+    "https://www.tokenpost.kr/news/market/391792",
+    "https://www.sisain.co.kr/news/articleView.html?idxno=58337"
    ],
    "seen_titles": [
-    "2027년샘플목표,샌디스크고대역폭플래시테이프아웃",
     "최태원,빌게이츠만나'나트륨SMR'글로벌사업손잡는다",
     "최태원·정기선만난빌게이츠…“한국기업과SMR공조가속”",
     "상반기보수1위두산박정원455억…주가급등에375억수령",
@@ -3282,10 +3285,11 @@
     "백악관자문이엔비디아의700조금융망을경고한이유",
     "“아빠회사가이런곳이었어?”…여름방학맞아자녀들에‘일터문’...",
     "상반기현금성자산삼성전자190조·SK하이닉스88조…6개월새117조↑",
-    "반도체우려정점진단,삼성·SK재평가전망"
+    "반도체우려정점진단,삼성·SK재평가전망",
+    "삼성전자ETF반토막,설계대로작동한결과였다"
    ],
    "initialized": true,
-   "last_run": "2026-08-17T07:55:16.734777+09:00"
+   "last_run": "2026-08-17T08:00:33.386826+09:00"
   }
  },
  "press_names": {
