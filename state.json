@@ -326,12 +326,17 @@
     [
      "2026-08-16T09:35:20.965338+09:00",
      "AI서버 웃는 이유 36억 메모리만 1대 삼전닉스가"
+    ],
+    [
+     "2026-08-16T09:40:23.190559+09:00",
+     "소비 수주 육박 서버 전력 데이터센터 폭증"
+    ],
+    [
+     "2026-08-16T09:40:23.190559+09:00",
+     "증권가 반도체 대형주 이제 사라 비중 코스닥 축소하고"
     ]
    ],
    "seen_urls": [
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=726272",
-    "https://www.newspim.com/news/view/20260814000972",
-    "https://www.dailian.co.kr/news/view/1678659/?sc=Naver",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=361821",
     "https://www.kado.net/news/articleView.html?idxno=2066811",
     "https://www.g-enews.com/view.php?ud=202608141554134414923c501012_1",
@@ -1828,12 +1833,12 @@
     "https://www.youthdaily.co.kr/news/article.html?no=225205",
     "https://economist.co.kr/article/view/ecn202608160001",
     "https://www.thepublic.kr/news/articleView.html?idxno=315097",
-    "https://www.mt.co.kr/industry/2026/08/16/2026081416184426163"
+    "https://www.mt.co.kr/industry/2026/08/16/2026081416184426163",
+    "http://www.fnnews.com/news/202608160909291216",
+    "https://www.g-enews.com/view.php?ud=202608160843331056fbbec65dfb_1",
+    "https://www.segye.com/newsView/20260816504644?OutUrl=naver"
    ],
    "seen_titles": [
-    "[거래소외국인]삼성전자SK하이닉스현대차농심SK쓸어담았다",
-    "코스피,5거래일연속상승…장중7000선도회복",
-    "최태원·노소영9440억원재산분할확정되나…양측침묵",
     "SK스퀘어,상반기영업익27조돌파…시총147조'껑충'",
     "코스피,외국인3조원순매수에6970선…장중7000선돌파",
     "SK스퀘어,2분기영업익19.2조'사상최대'…SK하이닉스효과",
@@ -3330,10 +3335,13 @@
     "성과급에퇴직금까지‘억대’...은행권임금상승폭13년만에최대",
     "글로벌수익률1위코스닥…‘삼전·닉스’급반등에수급쏠림재현되...",
     "끝난줄알았던'세기의이혼'다시대법원으로…최태원회장재상고",
-    "AI서버1대메모리만'36억'…삼전닉스가웃는이유[이슈속으로]"
+    "AI서버1대메모리만'36억'…삼전닉스가웃는이유[이슈속으로]",
+    "\"안팔길잘했다\"…삼전·닉스,'300조'역대급주주환원기대도",
+    "美데이터센터,전력소비12%육박…AI서버수주폭증",
+    "코스닥이제끝?…증권가“코스닥비중축소하고반도체·대형주사라..."
    ],
    "initialized": true,
-   "last_run": "2026-08-16T09:35:20.965338+09:00"
+   "last_run": "2026-08-16T09:40:23.190559+09:00"
   }
  },
  "press_names": {
