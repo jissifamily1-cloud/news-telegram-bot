@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-16T12:05:21.589364+09:00",
-     "기관 1위 개인 외인 한국전력 SK하이닉스 코스피 주간 삼성전자"
-    ],
-    [
      "2026-08-16T12:15:19.683867+09:00",
      "시한 코스 트럼프 유가쇼크 대통령 호르무즈 17일 경고 협상"
     ],
@@ -398,14 +394,21 @@
     [
      "2026-08-16T18:05:19.105219+09:00",
      "경축사에 광복절 무반응 대통령"
+    ],
+    [
+     "2026-08-16T18:10:22.760459+09:00",
+     "받을 기업 성장산업 이런 국내 핵심 투자 수혜 발굴 산업변화 집중"
+    ],
+    [
+     "2026-08-16T18:10:22.760459+09:00",
+     "정부 마라 애플에 제동 메모리 쓰지"
+    ],
+    [
+     "2026-08-16T18:10:22.760459+09:00",
+     "반등은 코스피 나선 불신에 매도 개미들 차익실현 기회"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=270597",
-    "https://biz.sbs.co.kr/article_hub/20000328884?division=NAVER",
-    "https://www.busan.com/view/busan/view.php?code=2026081417221985821",
-    "https://biz.sbs.co.kr/article_hub/20000328886?division=NAVER",
-    "https://www.nspna.com/news/?newsid=824460",
     "https://www.ajunews.com/view/20260814163245665",
     "https://www.econovill.com/news/articleView.html?idxno=748077",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608141153412530096",
@@ -1900,14 +1903,14 @@
     "https://www.hankyung.com/article/2026081641301",
     "http://www.rookie.co.kr/news/articleView.html?idxno=126035",
     "https://www.busan.com/view/busan/view.php?code=2026081618003759597",
-    "https://www.dailian.co.kr/news/view/1678980/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1678980/?sc=Naver",
+    "http://www.fnnews.com/news/202608161806428075",
+    "http://www.fnnews.com/news/202608161806416714",
+    "http://www.fnnews.com/news/202608161806376963",
+    "https://www.hankyung.com/article/2026081641751",
+    "https://www.segye.com/newsView/20260816511216?OutUrl=naver"
    ],
    "seen_titles": [
-    "SK에코플랜트,2분기영업이익5336억원…전년대비266%증가",
-    "미래에셋자산운용,'TIGER200'흥행속배당ETF강화",
-    "코스피,외국인폭풍매수에2.4%상승...'7천피'턱밑마감",
-    "곽노정,상반기보수261억…SK하이닉스직원평균급여1.4억",
-    "최태원,美메모리반도체전공정팹건설검토…\"현지고객들이원해...",
     "최태원SK회장,상반기보수로17.5억수령",
     "최태원“AI메모리수요계속된다…내년이공급부족최악”",
     "올상반기SK하닉직원평균급여1.4억…23%늘어",
@@ -3402,10 +3405,15 @@
     "은행원상반기평균급여7150만원",
     "[KBL유스]9살소년이좋아하는농구선수는'GOAT'마이클조던?SKU9김...",
     "[인터뷰]주용현울산해양경찰서장“울산바다는1초도방심못할최전...",
-    "[데일리안오늘뉴스종합]北,李대통령광복절경축사에무반응…공식..."
+    "[데일리안오늘뉴스종합]北,李대통령광복절경축사에무반응…공식...",
+    "전공정·장비주활약에‘반도체ETF’수익률톱10휩쓸어[ETF스퀘어]",
+    "악재걷힌삼전닉스,코스피반등이끄나[주간증시전망]",
+    "국내핵심성장산업집중투자..산업변화수혜받을기업발굴[이런펀...",
+    "\"中메모리쓰지마라\"…美정부,애플에제동",
+    "“반등은곧차익실현기회”…코스피불신에‘매도’나선개미들"
    ],
    "initialized": true,
-   "last_run": "2026-08-16T18:05:19.105219+09:00"
+   "last_run": "2026-08-16T18:10:22.760459+09:00"
   }
  },
  "press_names": {
