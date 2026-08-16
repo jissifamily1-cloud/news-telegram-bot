@@ -289,8 +289,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/market/390855",
-    "https://www.tokenpost.kr/news/cryptocurrency/390857",
     "https://www.agrinet.co.kr/news/articleView.html?idxno=406449",
     "https://newscham.net/articles/117068",
     "http://www.popcornnews.net/news/articleView.html?idxno=129850",
@@ -1788,11 +1786,11 @@
     "https://www.sportsworldi.com/newsView/20260816513943",
     "https://www.starnewskorea.com/sports/2026/08/16/2026081618291019957",
     "https://www.newsis.com/view/NISX20260816_0003751128",
-    "https://www.newspim.com/news/view/20260816000141"
+    "https://www.newspim.com/news/view/20260816000141",
+    "http://www.osen.co.kr/article/G1112858683",
+    "https://www.newspim.com/news/view/20260816000147"
    ],
    "seen_titles": [
-    "SK이노베이션,테라파워와'나트륨'SMR사업협력합의서체결",
-    "SK하이닉스,상반기설비18조원·R&D6조원투입…AI메모리투자확대",
     "SK스퀘어,2분기영업이익19조2354억원…상반기이익27조원넘어",
     "홍범식18억·정재헌17억…이통3사CEO,상반기보수1등은?",
     "3조9800억원손실SK하이닉스,교환사채회계처리반영",
@@ -3290,10 +3288,12 @@
     "‘수비휘청’전북,2연패부진…정정용감독“팬들에게할말없다...",
     "\"전북팬들에할말없다,조금만지켜봐달라\"정정용감독거듭사과...",
     "백인천감독빈소에야구인들조문이어져…일본닛폰햄조화",
-    "[프로야구]故백인천전감독빈소에야구계추모발길…장훈\"한국프..."
+    "[프로야구]故백인천전감독빈소에야구계추모발길…장훈\"한국프...",
+    "강원,울산원정서난타전끝3-2승...인천은김천과1-1무승부(종합...",
+    "한국男농구,일본에66-95대패…한일전최다점수차패배또경신"
    ],
    "initialized": true,
-   "last_run": "2026-08-16T22:10:22.346294+09:00"
+   "last_run": "2026-08-16T22:15:19.315954+09:00"
   }
  },
  "press_names": {
