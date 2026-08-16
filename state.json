@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-16T09:50:23.422976+09:00",
-     "파주 성남 좋은 상대로 갈증 간절한 리그 승리 기억 해소할까"
-    ],
-    [
      "2026-08-16T10:00:30.704848+09:00",
      "늘었다 급반등에 커지는 경계감 눈앞인데 공매도도 코스피"
     ],
@@ -350,12 +346,17 @@
     [
      "2026-08-16T15:45:20.520656+09:00",
      "아닌 아니다 SK하이닉스도 한국인이 삼성전자 레버리지 넣은 털어"
+    ],
+    [
+     "2026-08-16T15:55:18.840059+09:00",
+     "hynix could bil returns deliver record in shareholder Samsung"
+    ],
+    [
+     "2026-08-16T15:55:18.840059+09:00",
+     "유리 온다 주가는 플래터 제이앤티씨 바닥인데"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260814130800003?input=1195m",
-    "https://biz.chosun.com/it-science/ict/2026/08/14/6O2E5NU23NCPBGSAUT2WOIC4VY/",
-    "https://www.etoday.co.kr/news/view/2614585",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4100880",
     "https://www.newsis.com/view/NISX20260814_0003749519",
     "https://view.asiae.co.kr/article/2026081416592180630",
@@ -1852,12 +1853,12 @@
     "https://www.khan.co.kr/article/202608161540001",
     "https://www.wikitree.co.kr/articles/1152779",
     "http://www.fnnews.com/news/202608161522069655",
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=363717"
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=363717",
+    "https://kpenews.com/View.aspx?No=4188241",
+    "https://www.koreatimes.co.kr/path/A2026081612440000041",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477833"
    ],
    "seen_titles": [
-    "빌게이츠만난김정관산업장관\"SMR협력합시다\"",
-    "산업장관·빌게이츠회동…SMR분야국내기업참여확대논의",
-    "빌게이츠만난김정관…SK·테라파워손잡고글로벌SMR공략",
     "김정관,빌게이츠만나'SMR동맹'…韓기업테라파워공급망진입확대",
     "빌게이츠,정재계연쇄회동…'AI전력난해법'SMR협력본격화",
     "삼성전자,AI석학·메타출신데이터전문가영입…반도체AX강화",
@@ -3354,10 +3355,13 @@
     "낸드시장에서도거센중국공세…YMTC,키옥시아제치고출하량3위",
     "삼성전자·SK하이닉스도아니다…레버리지아닌한국인이털어넣은순...",
     "\"빚내서투자했나\"…'삼전·닉스'급등뒤신용잔고증가…빚투다시'꿈...",
-    "\"역대급실적에은행원웃었다\"…4대은행상반기평균급여7000만원돌..."
+    "\"역대급실적에은행원웃었다\"…4대은행상반기평균급여7000만원돌...",
+    "차익실현에거래만늘었다..단일종목레버리지개인4881억순매도",
+    "Samsung,SKhynixcoulddeliverrecord$212bil.inshareholderreturn",
+    "제이앤티씨,주가는바닥인데…'유리플래터'가온다"
    ],
    "initialized": true,
-   "last_run": "2026-08-16T15:50:21.930250+09:00"
+   "last_run": "2026-08-16T15:55:18.840059+09:00"
   }
  },
  "press_names": {
