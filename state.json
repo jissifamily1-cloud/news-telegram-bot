@@ -354,11 +354,13 @@
     [
      "2026-08-16T10:05:17.893036+09:00",
      "간다 2030년까지 반도체 슈퍼사이클"
+    ],
+    [
+     "2026-08-16T10:10:21.076529+09:00",
+     "독주에 다시 코스닥 제동 귀환에 외국인 코스피로"
     ]
    ],
    "seen_urls": [
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608141435386360105451",
-    "https://www.safetimes.co.kr/news/articleView.html?idxno=244934",
     "https://www.businesspost.co.kr/BP?command=article_view&num=444801",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=274877",
     "https://www.yna.co.kr/view/AKR20260814115100017?input=1195m",
@@ -1856,11 +1858,11 @@
     "https://www.mediapen.com/news/view/1116788",
     "https://www.g-enews.com/view.php?ud=202608160937592437fbbec65dfb_1",
     "https://biz.heraldcorp.com/article/10842009",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=361785"
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=361785",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1720570",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=598592"
    ],
    "seen_titles": [
-    "SK네트웍스,2분기영업익248억원···전년比42.4%하락세",
-    "SK,전남동부권에100조투자..민형배“AI·반도체분야”",
     "SK하이닉스호조에SK스퀘어2Q영업익19.2조…시총도6배",
     "SK네트웍스,올해2분기세전이익371억원전년비44.1%증가",
     "[더벨]젠슨황다시만난구광모,'ABC'비즈니스본격화",
@@ -3358,10 +3360,12 @@
     "규제철퇴맞은단일종목레버리지,거래대금반등에도'팔자'쏠림",
     "삼성전자,반도체대중수출625억달러…미국제쳐",
     "적자해운사의10년변천사…한앤코의‘3단계전략’들여다봤더니",
-    "반도체슈퍼사이클2030년까지간다"
+    "반도체슈퍼사이클2030년까지간다",
+    "코스닥8월수익률20%돌파…삼전·SK하닉반등에코스피추격",
+    "코스닥독주에제동…외국인귀환에다시코스피로"
    ],
    "initialized": true,
-   "last_run": "2026-08-16T10:05:17.893036+09:00"
+   "last_run": "2026-08-16T10:10:21.076529+09:00"
   }
  },
  "press_names": {
