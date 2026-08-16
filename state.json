@@ -406,11 +406,13 @@
     [
      "2026-08-16T18:25:09.779359+09:00",
      "성사 맞대결 성예건 K리그 부천은 신예 신입 최고 김예건"
+    ],
+    [
+     "2026-08-16T18:30:28.007373+09:00",
+     "불리 토스증권 SK하이닉스 주주엔 솔리다임 IPO"
     ]
    ],
    "seen_urls": [
-    "https://www.hani.co.kr/arti/economy/it/1272995.html",
-    "https://www.newsis.com/view/NISX20260814_0003750098",
     "https://dealsite.co.kr/articles/167310",
     "https://www.businesspost.co.kr/BP?command=article_view&num=444845",
     "https://www.womentimes.co.kr/news/articleView.html?idxno=105325",
@@ -1908,11 +1910,11 @@
     "https://www.mydaily.co.kr/page/view/2026081618231948298",
     "https://www.mydaily.co.kr/page/view/2026081617133317068",
     "https://www.hankyung.com/article/2026081641891",
-    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96460"
+    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96460",
+    "https://www.econovill.com/news/articleView.html?idxno=748124",
+    "https://www.the-today.com/news/articleView.html?idxno=88540"
    ],
    "seen_titles": [
-    "'K-증시M7'S7의역설…실적눈높이는'최대',목표가는'극과극'",
-    "국민연금,美주식도반도체사랑…2분기마이크론·AMD추가매입[시그...",
     "[오늘의주요공시]농심·SK스퀘어·한국카본등",
     "[위클리시그널]이통3사,무선사업성장'주춤'…장기고객잡기경쟁",
     "모티프,글로벌AI평가서1위?…‘AAII점수’어디까지믿어야하나",
@@ -3410,10 +3412,12 @@
     "나란히'리그4경기연속무패'달리는두팀이만났다…인천-김천맞대...",
     "'2G1골'전북정정용감독의결단!모따5G만에선발복귀,이승우와...",
     "\"앞으로반도체쏠림덜할것\"[한경프리미엄9TODAY]",
-    "[k1.live]'K리그최고신예'성예건-김예건맞대결성사…부천은'신입..."
+    "[k1.live]'K리그최고신예'성예건-김예건맞대결성사…부천은'신입...",
+    "최태원'9440억재상고'에…SK주가최대변수로",
+    "토스증권\"솔리다임IPO,SK하이닉스주주엔불리\"왜?"
    ],
    "initialized": true,
-   "last_run": "2026-08-16T18:25:09.779359+09:00"
+   "last_run": "2026-08-16T18:30:28.007373+09:00"
   }
  },
  "press_names": {
