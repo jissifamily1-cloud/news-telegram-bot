@@ -353,8 +353,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.nocutnews.co.kr/news/6563247",
-    "http://www.fnnews.com/news/202608141604596370",
     "https://www.yna.co.kr/view/AKR20260814130800003?input=1195m",
     "https://biz.chosun.com/it-science/ict/2026/08/14/6O2E5NU23NCPBGSAUT2WOIC4VY/",
     "https://www.etoday.co.kr/news/view/2614585",
@@ -1852,11 +1850,11 @@
     "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260816&SEQUENCE=0108",
     "https://www.newscj.com/news/articleView.html?idxno=3425546",
     "https://www.khan.co.kr/article/202608161540001",
-    "https://www.wikitree.co.kr/articles/1152779"
+    "https://www.wikitree.co.kr/articles/1152779",
+    "http://www.fnnews.com/news/202608161522069655",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=363717"
    ],
    "seen_titles": [
-    "산업장관,빌게이츠만나“한국기업,테라파워SMR핵심공급망역할...",
-    "코스피,외인3조순매수에2%↑···7000선턱밑마감",
     "빌게이츠만난김정관산업장관\"SMR협력합시다\"",
     "산업장관·빌게이츠회동…SMR분야국내기업참여확대논의",
     "빌게이츠만난김정관…SK·테라파워손잡고글로벌SMR공략",
@@ -3354,10 +3352,12 @@
     "SK하이닉스,19일청주서사전신청자대상채용설명회",
     "올해상반기4대은행직원평균급여7000만원돌파",
     "낸드시장에서도거센중국공세…YMTC,키옥시아제치고출하량3위",
-    "삼성전자·SK하이닉스도아니다…레버리지아닌한국인이털어넣은순..."
+    "삼성전자·SK하이닉스도아니다…레버리지아닌한국인이털어넣은순...",
+    "\"빚내서투자했나\"…'삼전·닉스'급등뒤신용잔고증가…빚투다시'꿈...",
+    "\"역대급실적에은행원웃었다\"…4대은행상반기평균급여7000만원돌..."
    ],
    "initialized": true,
-   "last_run": "2026-08-16T15:45:20.520656+09:00"
+   "last_run": "2026-08-16T15:50:21.930250+09:00"
   }
  },
  "press_names": {
