@@ -358,13 +358,25 @@
     [
      "2026-08-16T10:10:21.076529+09:00",
      "독주에 다시 코스닥 제동 귀환에 외국인 코스피로"
+    ],
+    [
+     "2026-08-16T10:15:20.008353+09:00",
+     "4사 키운다 호실적 정유 유통망 14조원대 다지고 신사업"
+    ],
+    [
+     "2026-08-16T10:15:20.008353+09:00",
+     "칩플레이션 검토 웨이퍼 SK하이닉스 공장 경고"
+    ],
+    [
+     "2026-08-16T10:15:20.008353+09:00",
+     "활짝 외국인 반도체 귀환 코스피도 살아나자 5조"
+    ],
+    [
+     "2026-08-16T10:15:20.008353+09:00",
+     "민간은 보훈 진화 드라이브 서비스로 정책 정부는 구현 디지털"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=444801",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=274877",
-    "https://www.yna.co.kr/view/AKR20260814115100017?input=1195m",
-    "http://www.thevaluenews.co.kr/news/view.php?idx=200823",
     "https://www.tokenpost.kr/news/briefing/390733",
     "http://www.inews24.com/view/1995222",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477560",
@@ -1860,13 +1872,13 @@
     "https://biz.heraldcorp.com/article/10842009",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=361785",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1720570",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=598592"
+    "https://www.cbci.co.kr/news/articleView.html?idxno=598592",
+    "http://www.sisafocus.co.kr/news/articleView.html?idxno=363845",
+    "https://www.g-enews.com/view.php?ud=202608161009395609fbbec65dfb_1",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260816101018WBY",
+    "https://www.techm.kr/news/articleView.html?idxno=154361"
    ],
    "seen_titles": [
-    "SK하이닉스호조에SK스퀘어2Q영업익19.2조…시총도6배",
-    "SK네트웍스,올해2분기세전이익371억원전년비44.1%증가",
-    "[더벨]젠슨황다시만난구광모,'ABC'비즈니스본격화",
-    "하이닉스자회사솔리다임나스닥행설에'쪼개기'논란",
     "이찬진표'강한금감원'1년소비자보호강드라이브,레버리지후폭풍은...",
     "SKChairmanOpenFront-EndMemoryFabtoU.S.",
     "SK스퀘어,2분기영업익19.2조'역대최대'",
@@ -3362,10 +3374,14 @@
     "적자해운사의10년변천사…한앤코의‘3단계전략’들여다봤더니",
     "반도체슈퍼사이클2030년까지간다",
     "코스닥8월수익률20%돌파…삼전·SK하닉반등에코스피추격",
-    "코스닥독주에제동…외국인귀환에다시코스피로"
+    "코스닥독주에제동…외국인귀환에다시코스피로",
+    "[이슈]정유4사'14조원대호실적'…유통망다지고신사업키운다",
+    "SK하이닉스,美웨이퍼공장검토…칩플레이션경고",
+    "반도체살아나자코스피도'활짝'…외국인6.5조귀환",
+    "정부는정책드라이브,민간은서비스로구현...'디지털보훈'진화중"
    ],
    "initialized": true,
-   "last_run": "2026-08-16T10:10:21.076529+09:00"
+   "last_run": "2026-08-16T10:15:20.008353+09:00"
   }
  },
  "press_names": {
