@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-16T10:05:17.893036+09:00",
-     "삼성전자 625억달러 제쳐 수출 대중 반도체 미국"
-    ],
-    [
-     "2026-08-16T10:05:17.893036+09:00",
-     "들여다봤더니 전략 변천사 10년 한앤코의 적자 3단계 해운사의"
-    ],
-    [
-     "2026-08-16T10:05:17.893036+09:00",
-     "간다 2030년까지 반도체 슈퍼사이클"
-    ],
-    [
-     "2026-08-16T10:10:21.076529+09:00",
-     "독주에 다시 코스닥 제동 귀환에 외국인 코스피로"
-    ],
-    [
      "2026-08-16T10:15:20.008353+09:00",
      "4사 키운다 호실적 정유 유통망 14조원대 다지고 신사업"
     ],
@@ -362,12 +346,17 @@
     [
      "2026-08-16T16:05:16.894354+09:00",
      "down Korean on builders double data centers"
+    ],
+    [
+     "2026-08-16T16:10:21.450671+09:00",
+     "20점차 최다 완패 남자농구 역대 한일전에 광복절"
+    ],
+    [
+     "2026-08-16T16:10:21.450671+09:00",
+     "청산 562만7567달러 24시간"
     ]
    ],
    "seen_urls": [
-    "https://biz.newdaily.co.kr/site/data/html/2026/08/14/2026081400194.html",
-    "https://www.news1.kr/economy/idustry-trade/6259681",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637414",
     "http://news.lghellovision.net/news/articleView.html?idxno=551076",
     "https://www.starnewskorea.com/sports/2026/08/14/2026081416425562128",
     "https://m.sports.naver.com/basketball/article/065/0000300662",
@@ -1864,12 +1853,12 @@
     "https://www.sedaily.com/article/20079924",
     "https://www.tokenpost.kr/news/market/391617",
     "https://it.chosun.com/news/articleView.html?idxno=2023092168275",
-    "https://www.koreaherald.com/article/10840444"
+    "https://www.koreaherald.com/article/10840444",
+    "https://www.kyeonggi.com/article/20260816580055",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000003430&cp=nv",
+    "https://www.tokenpost.kr/news/briefing/391619"
    ],
    "seen_titles": [
-    "[박수진의머니워치]美물가안도·반도체호조에…코스피5거래일연...",
-    "PMmeetswithBillGates,discussescooperationonSMRs",
-    "SKT,AI플랫폼법인청산…PAA대신AI인프라정조준",
     "MSCI8월정기리뷰실시…글로벌큰손이새로담은종목은?",
     "韓원전기업,테라파워SMR공급망뚫는다…\"한국을핵심생산거점으...",
     "SK이노,빌게이츠테라파워와'SMR'공동사업…김정관\"韓최적파트너...",
@@ -3366,10 +3355,13 @@
     "‘코스닥천하’일주일만에흔들…외국인은코스피로[이런국장저런...",
     "신용융자30조9300억원,빚투다시늘었다",
     "삼전닉스주주환원,연간300조기대감'솔솔'",
-    "KoreanbuildersdoubledownonAIdatacenters"
+    "KoreanbuildersdoubledownonAIdatacenters",
+    "4대시중은행상반기급여평균7천150만원…삼성전자제쳤다",
+    "남자농구,광복절한일전에역대최다20점차완패",
+    "[저녁뉴스브리핑]24시간562만7567달러청산外"
    ],
    "initialized": true,
-   "last_run": "2026-08-16T16:05:16.894354+09:00"
+   "last_run": "2026-08-16T16:10:21.450671+09:00"
   }
  },
  "press_names": {
