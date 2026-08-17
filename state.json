@@ -330,13 +330,17 @@
     [
      "2026-08-18T06:40:21.229073+09:00",
      "고용시장에 많아졌다 대기업 청년보다 50대가 무슨 일이"
+    ],
+    [
+     "2026-08-18T06:48:00.142019+09:00",
+     "테슬라 BYD 렌터카 공세 쏘카 투입하는 시장 900대 전기차"
+    ],
+    [
+     "2026-08-18T06:48:00.142019+09:00",
+     "5건 유출 털리는데 개인정보 털리고 4건은 자포자기 이제"
     ]
    ],
    "seen_urls": [
-    "http://kor.theasian.asia/archives/413157",
-    "https://www.g-enews.com/view.php?ud=20260812104647332906806b77b_1",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260815111649fT9",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1174767",
     "https://www.topstarnews.net/news/articleView.html?idxno=16164313",
     "https://www.ziksir.com/news/articleView.html?idxno=143317",
     "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374921",
@@ -1832,13 +1836,13 @@
     "https://www.hankyung.com/article/2026081857357",
     "https://www.slist.kr/news/articleView.html?idxno=759315",
     "https://www.namdonews.com/news/articleView.html?idxno=920245",
-    "https://www.kyeonggi.com/article/20260818580003"
+    "https://www.kyeonggi.com/article/20260818580003",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005902580",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260818064337yDm",
+    "https://www.viva100.com/article/20260817500438",
+    "https://biz.heraldcorp.com/article/10841973"
    ],
    "seen_titles": [
-    "HBM투자에올라탄아이에스티이…\"하반기매출상반기웃돌것\"",
-    "아자뉴스바이트20260815",
-    "[김대호진단]반도체열전(39)AMAT...전공정1인자\"웨이퍼팹WFE대왕...",
-    "[이시각헤드라인]8월15일토요와이드(11시)",
     "올해첫자금유출조짐…국내ETF서7천억빠져나가",
     "8월2주차SK하이닉스주가견조한상승세",
     "최태원,노소영재산분할판결재상고…9440억원지급다시대법원판단...",
@@ -3334,10 +3338,14 @@
     "청년보다50대가많아졌다…대기업고용시장에무슨일이",
     "대기업신규채용2년새15%감소…청년↓장년↑'세대역전'",
     "대기업채용2년새15%뚝…청년줄고50대이상늘었다",
-    "“30대줄고50대는늘었다”…대기업채용시장에닥친‘세대역전’"
+    "“30대줄고50대는늘었다”…대기업채용시장에닥친‘세대역전’",
+    "대기업신규채용2년새15%감소…청년줄고장년늘어",
+    "뉴욕증시,유가오르자일제하락…다우0.5%↓",
+    "BYD·테슬라900대투입하는쏘카···렌터카시장,中전기차공세거...",
+    "‘이제자포자기’털리고또털리는데…개인정보유출5건중4건은못..."
    ],
    "initialized": true,
-   "last_run": "2026-08-18T06:45:21.922097+09:00"
+   "last_run": "2026-08-18T06:48:00.142019+09:00"
   }
  },
  "press_names": {
