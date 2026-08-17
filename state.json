@@ -221,7 +221,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sisajournal.com/news/articleView.html?idxno=383742",
     "http://weekly.chosun.com/news/articleView.html?idxno=54360",
     "https://www.thelec.kr/news/articleView.html?idxno=61008",
     "https://jp.yna.co.kr/view/AJP20260814002400882?input=1728m",
@@ -1720,10 +1719,10 @@
     "https://www.segye.com/newsView/20260817513985?OutUrl=naver",
     "http://www.medisobizanews.com/news/articleView.html?idxno=141015",
     "https://www.seoul.co.kr/news/editOpinion/editorial/2026/08/18/20260818027008?wlog_tag3=naver",
-    "https://www.dt.co.kr/article/12078595"
+    "https://www.dt.co.kr/article/12078595",
+    "http://www.fnnews.com/news/202608180522180785"
    ],
    "seen_titles": [
-    "구자은133억·김승연116억…상반기재계총수'보수킹'은?",
     "SK'세기의재산분할'다시대법원행…최태원회장재상고",
     "최태원,9440억판결불복해재상고…하루1.3억'지연이자시계'늦췄다",
     "최태원,재산분할9440억원판결재상고",
@@ -3222,10 +3221,11 @@
     "“AI가AI개발”…글로벌연구진,美정부에통제촉구",
     "K-바이오,빅파마들러리끝…해외직판으로글로벌위상'UP'",
     "[사설]김민석與대표,강성지지층아닌국민목소리에귀열길",
-    "‘AI·주주환원’올라탄‘삼전닉스’…코스피7000선이끌까"
+    "‘AI·주주환원’올라탄‘삼전닉스’…코스피7000선이끌까",
+    "[뉴욕증시]이란긴장고조속이틀연속하락…마이크론,1000달러탈환"
    ],
    "initialized": true,
-   "last_run": "2026-08-18T05:25:17.272975+09:00"
+   "last_run": "2026-08-18T05:30:26.213785+09:00"
   }
  },
  "press_names": {
