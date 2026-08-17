@@ -522,11 +522,17 @@
     [
      "2026-08-17T17:05:19.383370+09:00",
      "코람코 디벨로퍼 신탁형 강남역 개발 1조"
+    ],
+    [
+     "2026-08-17T17:10:22.405128+09:00",
+     "상승 샌디스크 동반 강세 가까이 장전 메모리주"
+    ],
+    [
+     "2026-08-17T17:10:22.405128+09:00",
+     "보증까지 붙는다 테라파워 국내기업 SMR에 상용화"
     ]
    ],
    "seen_urls": [
-    "https://www.globale.co.kr/news/articleView.html?idxno=39891",
-    "https://www.news2day.co.kr/article/20260812500314",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072185",
     "https://www.mediapen.com/news/view/1116654",
     "https://www.tokenpost.kr/news/briefing/391188",
@@ -2024,11 +2030,11 @@
     "https://www.sisajournal.com/news/articleView.html?idxno=383368",
     "https://www.jbnews.com/news/articleView.html?idxno=1509567",
     "https://www.ajunews.com/view/20260817100738120",
-    "https://www.ajunews.com/view/20260817140012464"
+    "https://www.ajunews.com/view/20260817140012464",
+    "https://www.tokenpost.kr/news/market/392006",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260817010005445"
    ],
    "seen_titles": [
-    "SK는왜‘4중상장’에도전하나…성공하면달라지는것들[홍길용의...",
-    "최태원,노소영에9,440억재산분할불복재상고···결국대법원행",
     "[N2포커스]NXT,프리마켓상·하한가주문금지…가격왜곡우려는여...",
     "SK최태원노소영9440억원재산분할판결에재상고",
     "[美증시]샌디스크급등메모리강세…장비주는호실적AMAT급락에조정",
@@ -3526,10 +3532,12 @@
     "손흥민,압도적지목률로9년연속1위…박지성2위로급부상[2026누가...",
     "[기자수첩]실용의명분과민생의눈높이",
     "[아주초대석]이해성삼성화재헬스케어사업팀장\"헬스케어,서비스넘...",
-    "[디벨로퍼,생존의조건⑧]코람코,강남역1조개발…'신탁형디벨로퍼..."
+    "[디벨로퍼,생존의조건⑧]코람코,강남역1조개발…'신탁형디벨로퍼...",
+    "샌디스크장전6%가까이상승,메모리주동반강세",
+    "상용화전‘테라파워’SMR에…국내기업보증까지붙는다"
    ],
    "initialized": true,
-   "last_run": "2026-08-17T17:05:19.383370+09:00"
+   "last_run": "2026-08-17T17:10:22.405128+09:00"
   }
  },
  "press_names": {
