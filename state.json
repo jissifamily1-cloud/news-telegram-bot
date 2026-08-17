@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-17T22:35:17.566593+09:00",
-     "신랑감 고민 돼도 1등 한국 나야 삼전닉스야"
-    ],
-    [
      "2026-08-17T22:45:21.685405+09:00",
      "영향력 열독률 MBC 1위 급락했다 유튜브 신뢰"
     ],
@@ -130,15 +126,33 @@
     [
      "2026-08-18T04:30:29.677852+09:00",
      "마감 메타 SKHY 1시간 뉴욕증시 활짝 반도체주"
+    ],
+    [
+     "2026-08-18T04:35:18.273015+09:00",
+     "수수료 46거래일간 증권사는 레버리지 900억 울린 개미들 챙겼다"
+    ],
+    [
+     "2026-08-18T04:35:18.273015+09:00",
+     "여수 잭팟 터지나 광양 순천 100조"
+    ],
+    [
+     "2026-08-18T04:35:18.273015+09:00",
+     "격차 투자 상반기 역대급 33조 벌리기 삼전닉스 호황속"
+    ],
+    [
+     "2026-08-18T04:35:18.273015+09:00",
+     "해외엔 정부 대상 쟁의 경총 시행령으로 제외를 성과급 없어"
+    ],
+    [
+     "2026-08-18T04:35:18.273015+09:00",
+     "듣고도 이유 TSMC 하는 파업 삼전닉스 성과급 연봉 직원들 8억"
+    ],
+    [
+     "2026-08-18T04:35:18.273015+09:00",
+     "삭제하라 보안 TSMC의 사진 철통 초월 1위 세계 상상 당장"
     ]
    ],
    "seen_urls": [
-    "https://www.smarttoday.co.kr/ko-kr/articles/110520",
-    "https://www.greened.kr/news/articleView.html?idxno=347767",
-    "https://mhnse.com/news/articleView.html?idxno=1490746",
-    "https://www.news1.kr/sports/baseball/6260093",
-    "https://www.kgnews.co.kr/news/article.html?no=907788",
-    "https://news.unn.net/news/articleView.html?idxno=595958",
     "https://www.sportschosun.com/football/2026-08-15/202608130100079540004928",
     "https://www.sportsworldi.com/newsView/20260815505175",
     "https://www.segye.com/newsView/20260815505167?OutUrl=naver",
@@ -1632,15 +1646,15 @@
     "https://www.g-enews.com/view.php?ud=202608171651225490fbbec65dfb_1",
     "https://www.mt.co.kr/opinion/2026/08/18/2026081710343913649",
     "https://www.g-enews.com/view.php?ud=202608171807205789fbbec65dfb_1",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=169947"
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=169947",
+    "https://www.donga.com/news/Economy/article/all/20260818/134491665/2",
+    "https://www.donga.com/news/Society/article/all/20260818/134490659/2",
+    "https://www.donga.com/news/Economy/article/all/20260818/134491713/2",
+    "https://www.donga.com/news/Economy/article/all/20260818/134491711/2",
+    "https://www.hankookilbo.com/news/article/A2026080216300001150?did=NA",
+    "https://www.hankookilbo.com/news/article/A2026080117250000684?did=NA"
    ],
    "seen_titles": [
-    "'유일무이'4할타자백인천前감독별세…역대두번째KBO장",
-    "최태원-노소영'9400억재산분할소송'다시대법원으로...최태원'재상...",
-    "SK텔레콤·GS·네이버등AIDC구축경쟁...피플바이오·DCP등서울도심...",
-    "한국프로야구유일4할타자,마지막까지백인천답게떠났다...사상2...",
-    "'전설'백인천전감독별세…한일야구평정한'불멸의4할타자'",
-    "불멸의4할타자’백인천별세…한국야구의전설이지다",
     "'SK투자카드'전남광주,목포에'의대·병원'순천에는'본부·반도체...",
     "[K리그1프리뷰]위기의선두FC서울,분위기탄대전과격돌…위태로운...",
     "‘최초이자마지막4할타자’백인천전감독별세…향년83세",
@@ -3134,10 +3148,16 @@
     "수출물가49%밀어올린반도체,딜로이트가던진과열경고장",
     "오디세이와AI시대한국의항해[투데이窓/박영선]",
     "빅테크,1276조투자vs중소기업AI지출,0.1%…'수익회수'시험대",
-    "뉴욕증시마감1시간前...SKHY등반도체주'활짝',메타'뚝'"
+    "뉴욕증시마감1시간前...SKHY등반도체주'활짝',메타'뚝'",
+    "개미들울린레버리지…증권사는46거래일간900억수수료챙겼다",
+    "여수-순천-광양‘SK100조잭팟’터지나",
+    "[단독]삼전닉스,상반기R&D33조역대급투자…호황속격차벌리기",
+    "경총“N%성과급해외엔없어,정부시행령으로쟁의대상제외를”",
+    "'연봉1.8억'TSMC직원들,'삼전닉스성과급'듣고도파업안하는이유",
+    "\"당장사진삭제하라\"…세계1위TSMC의'상상초월'철통보안"
    ],
    "initialized": true,
-   "last_run": "2026-08-18T04:30:29.677852+09:00"
+   "last_run": "2026-08-18T04:35:18.273015+09:00"
   }
  },
  "press_names": {
