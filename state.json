@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-17T21:50:22.183564+09:00",
-     "어려워 친청 서용주 최고위원 김민석 3명 세우기"
-    ],
-    [
      "2026-08-17T22:05:21.964513+09:00",
      "엔비디아와 특별한 스페이스X의 공존"
     ],
@@ -126,10 +122,13 @@
     [
      "2026-08-18T03:20:22.246784+09:00",
      "과열 반도체 던진 딜로이트가 밀어올린 수출물가 경고장"
+    ],
+    [
+     "2026-08-18T03:55:24.425432+09:00",
+     "시대 항해 한국의 오디세이와"
     ]
    ],
    "seen_urls": [
-    "https://www.kbmaeil.com/article/20260815500017",
     "https://www.insight.co.kr/news/568400",
     "https://www.ikbc.co.kr/article/view/kbc202608150007",
     "https://www.smarttoday.co.kr/ko-kr/articles/110520",
@@ -1628,10 +1627,10 @@
     "https://www.chosun.com/economy/industry-company/2026/08/18/ECZST7WLQBAXJLMCWZV33GFFCA/",
     "https://www.tokenpost.kr/news/cryptocurrency/392171",
     "https://www.thescoop.co.kr/news/articleView.html?idxno=311285",
-    "https://www.g-enews.com/view.php?ud=202608171651225490fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202608171651225490fbbec65dfb_1",
+    "https://www.mt.co.kr/opinion/2026/08/18/2026081710343913649"
    ],
    "seen_titles": [
-    "'전설의4할타자'백인천전감독,끝내별세…향년83세",
     "최태원-노소영재산분할,다시대법원간다…최회장14일밤늦게재상...",
     "'한국프로야구유일4할타자'백인천전감독별세...향년83세",
     "'유일무이'4할타자백인천前감독별세…역대두번째KBO장",
@@ -3130,10 +3129,11 @@
     "반도체환호에묻힌소부장비명…“中,원자재문턱높이고있다”",
     "리퀴드,SNS피드서클릭3번에매매…블룸버그·CNBC연동은예고뿐",
     "개미들롤러코스터탈때…증권사·거래소1172억원벌었다",
-    "수출물가49%밀어올린반도체,딜로이트가던진과열경고장"
+    "수출물가49%밀어올린반도체,딜로이트가던진과열경고장",
+    "오디세이와AI시대한국의항해[투데이窓/박영선]"
    ],
    "initialized": true,
-   "last_run": "2026-08-18T03:50:21.890357+09:00"
+   "last_run": "2026-08-18T03:55:24.425432+09:00"
   }
  },
  "press_names": {
