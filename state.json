@@ -306,10 +306,13 @@
     [
      "2026-08-17T23:45:21.029872+09:00",
      "브랜드 연다 쇼케이스 모은 SSG닷컴 가을 신상품"
+    ],
+    [
+     "2026-08-17T23:50:21.323093+09:00",
+     "기업의 손자병법 중국 반도체"
     ]
    ],
    "seen_urls": [
-    "https://news.bizwatch.co.kr/article/industry/2026/08/15/0001",
     "https://www.g-enews.com/view.php?ud=20260815074939355fbbec65dfb_1",
     "https://www.pointe.co.kr/news/articleView.html?idxno=83266",
     "http://www.yonhapnewstv.co.kr/news/MYH20260815081121JOV",
@@ -1808,10 +1811,10 @@
     "https://www.sentv.co.kr/article/view/sentv202608170012",
     "https://www.hankyung.com/article/202608175622i",
     "https://en.yna.co.kr/view/AEN20260817003500315?input=2106m",
-    "https://www.sedaily.com/article/20080164"
+    "https://www.sedaily.com/article/20080164",
+    "https://www.chosun.com/opinion/correspondent_column/2026/08/17/CF7UHRJI3FB6DOWBWBED3VTBW4/"
    ],
    "seen_titles": [
-    "'4할타자'백인천전감독별세..향년83세",
     "'9440억현금'부담컸나…최태원,재상고택한이유",
     "넷리스트,마이크론·HPE美ITC제소…삼성합의직후",
     "[오늘일본은]日치바기록적폭우로8명숨져…주택침수피해확산",
@@ -3310,10 +3313,11 @@
     "최태원,9440억재산분할재상고…1조현금마련'첩첩산중'",
     "美증시유가영향약세에도AI낙관에반도체주상승",
     "(NewsFocus)Trump'sordertoreducemilitaryexercisesraiseshopes,",
-    "SSG닷컴,가을신상품모은‘브랜드쇼케이스’연다"
+    "SSG닷컴,가을신상품모은‘브랜드쇼케이스’연다",
+    "[특파원리포트]중국반도체기업의손자병법"
    ],
    "initialized": true,
-   "last_run": "2026-08-17T23:49:01.808554+09:00"
+   "last_run": "2026-08-17T23:50:21.323093+09:00"
   }
  },
  "press_names": {
