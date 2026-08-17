@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-17T11:20:22.614691+09:00",
-     "생물다양성 리스크 SK하이닉스 KB금융 검토해야 수처리시설 대출"
-    ],
-    [
      "2026-08-17T11:25:16.348526+09:00",
      "역대 내년 신입생 과학고 선발 의대 쏠림 전국 꺾이나"
     ],
@@ -514,13 +510,17 @@
     [
      "2026-08-17T17:10:22.405128+09:00",
      "보증까지 붙는다 테라파워 국내기업 SMR에 상용화"
+    ],
+    [
+     "2026-08-17T17:20:23.539703+09:00",
+     "전남 투자계획 동부권 환영 통합특별시의회 100조"
+    ],
+    [
+     "2026-08-17T17:20:23.539703+09:00",
+     "리밸런싱 국민연금 사들였다 5조원 SK하이닉스"
     ]
    ],
    "seen_urls": [
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072185",
-    "https://www.mediapen.com/news/view/1116654",
-    "https://www.tokenpost.kr/news/briefing/391188",
-    "https://www.seoul.co.kr/news/economy/2026/08/15/20260815500002?wlog_tag3=naver",
     "https://www.ajunews.com/view/20260814175309938",
     "https://www.ajunews.com/view/20260813172342099",
     "https://www.lawtimes.co.kr/news/articleView.html?idxno=224526",
@@ -2016,13 +2016,13 @@
     "https://www.ajunews.com/view/20260817100738120",
     "https://www.ajunews.com/view/20260817140012464",
     "https://www.tokenpost.kr/news/market/392006",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20260817010005445"
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260817010005445",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=93820",
+    "https://www.newsis.com/view/NISX20260817_0003751570",
+    "https://ysmbc.co.kr/NewsArticle/1532527",
+    "https://www.hankyung.com/article/2026081752107"
    ],
    "seen_titles": [
-    "[N2포커스]NXT,프리마켓상·하한가주문금지…가격왜곡우려는여...",
-    "SK최태원노소영9440억원재산분할판결에재상고",
-    "[美증시]샌디스크급등메모리강세…장비주는호실적AMAT급락에조정",
-    "암호화폐시장,24시간동안레버리지포지션8805만8930달러청산",
     "빌게이츠‘테라파워’손잡은SK…“AI전력난,SMR로뚫는다”",
     "빌게이츠만난최태원·정기선...테라파워와차세대원전협력확대",
     "팬오션·장금,VLCC에조단위베팅…호황뒤'공급과잉'우려도",
@@ -3518,10 +3518,14 @@
     "[아주초대석]이해성삼성화재헬스케어사업팀장\"헬스케어,서비스넘...",
     "[디벨로퍼,생존의조건⑧]코람코,강남역1조개발…'신탁형디벨로퍼...",
     "샌디스크장전6%가까이상승,메모리주동반강세",
-    "상용화전‘테라파워’SMR에…국내기업보증까지붙는다"
+    "상용화전‘테라파워’SMR에…국내기업보증까지붙는다",
+    "[이번주증시]코스피7000선안착'시험대'…美경기·중동변수",
+    "SK최태원·빌게이츠,1년만에'선혜원'서재회…'SMR동맹'강화",
+    "통합특별시의회\"SK전남동부권100조투자계획환영\"",
+    "국민연금리밸런싱한달반…SK하이닉스1.5조원사들였다"
    ],
    "initialized": true,
-   "last_run": "2026-08-17T17:15:22.282895+09:00"
+   "last_run": "2026-08-17T17:20:23.539703+09:00"
   }
  },
  "press_names": {
