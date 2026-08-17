@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-17T11:00:32.376315+09:00",
-     "증권사는 개미는 잔치 수수료 빚투"
-    ],
-    [
      "2026-08-17T11:05:16.601770+09:00",
      "시장 붕괴 테라스 현장방문 시공 럭스오션SK뷰 송도 박찬대 감리"
     ],
@@ -522,10 +518,13 @@
     [
      "2026-08-17T16:58:12.969284+09:00",
      "상위 20개주 쏠림 ETF 대형주 담은 상품화"
+    ],
+    [
+     "2026-08-17T17:00:34.288929+09:00",
+     "삼성전자 ETF서 1172억원 나왔다 SK하이닉스 수수료"
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/cryptocurrency/391136",
     "https://www.dt.co.kr/article/12078353",
     "https://www.newscj.com/news/articleView.html?idxno=3425324",
     "https://www.ceoscoredaily.com/page/view/2026081414230374886",
@@ -2024,10 +2023,10 @@
     "https://www.hani.co.kr/arti/economy/finance/1273251.html",
     "https://www.seoul.co.kr/news/economy/securities/2026/08/17/20260817500096?wlog_tag3=naver",
     "https://www.newsis.com/view/NISX20260817_0003751454",
-    "https://www.tokenpost.kr/news/market/391994"
+    "https://www.tokenpost.kr/news/market/391994",
+    "https://www.tokenpost.kr/news/market/392002"
    ],
    "seen_titles": [
-    "[사진]테라파워·SK이노SMR공동사업",
     "양쯔메모리허위광고소송기각,특허전은계속",
     "바이낸스,20배레버리지에24시간연중무휴거래…한국인은차단",
     "최태원왜재상고했나…9440억둘러싼'세가지쟁점'",
@@ -3526,10 +3525,11 @@
     "5일연속상승장에‘방향성베팅’늘어…눈치싸움중7천돌파관건",
     "“하닉280층,주식창열때마다손떨려”194만유튜버도물렸다[내가...",
     "독파모4파전막바지…'AAII1위'모티프돌풍,판도흔들까",
-    "상위20개주담은ETF,대형주쏠림상품화"
+    "상위20개주담은ETF,대형주쏠림상품화",
+    "1172억원수수료,삼성전자·SK하이닉스ETF서나왔다"
    ],
    "initialized": true,
-   "last_run": "2026-08-17T16:58:12.969284+09:00"
+   "last_run": "2026-08-17T17:00:34.288929+09:00"
   }
  },
  "press_names": {
