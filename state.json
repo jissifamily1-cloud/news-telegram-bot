@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-18T00:45:21.635594+09:00",
-     "김석배 별세 서울 교장 성산초"
-    ],
-    [
      "2026-08-18T00:50:22.311648+09:00",
      "원자재 비명 문턱 높이고 반도체 환호에 소부장 있다 묻힌"
     ],
@@ -337,9 +333,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.smartbizn.com/news/articleView.html?idxno=151358",
-    "https://www.newspim.com/news/view/20260815000048",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477684",
     "http://kor.theasian.asia/archives/413157",
     "https://www.g-enews.com/view.php?ud=20260812104647332906806b77b_1",
     "http://www.yonhapnewstv.co.kr/news/MYH20260815111649fT9",
@@ -1836,12 +1829,12 @@
     "https://www.yna.co.kr/view/AKR20260818006451072?input=1195m",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608180381&t=NN",
     "https://www.newsis.com/view/NISX20260817_0003751310",
-    "https://www.hankyung.com/article/2026081857357"
+    "https://www.hankyung.com/article/2026081857357",
+    "https://www.slist.kr/news/articleView.html?idxno=759315",
+    "https://www.namdonews.com/news/articleView.html?idxno=920245",
+    "https://www.kyeonggi.com/article/20260818580003"
    ],
    "seen_titles": [
-    "최태원·노소영재산분할,다시대법원으로",
-    "'영원한4할타자'백인천전감독하늘의별이되다…15일별세,17일...",
-    "이번주주유소휘발유가격1.7원내린1668.2원…하락전환",
     "HBM투자에올라탄아이에스티이…\"하반기매출상반기웃돌것\"",
     "아자뉴스바이트20260815",
     "[김대호진단]반도체열전(39)AMAT...전공정1인자\"웨이퍼팹WFE대왕...",
@@ -3338,10 +3331,13 @@
     "뉴욕증시,국제유가상승에일제히하락…다우0.5%↓(종합)",
     "대기업청년채용'바늘구멍'...장년은늘어세대역전",
     "\"코스피추세상승준비…주도주와금융섹터로리스크관리해야\"",
-    "청년보다50대가많아졌다…대기업고용시장에무슨일이"
+    "청년보다50대가많아졌다…대기업고용시장에무슨일이",
+    "대기업신규채용2년새15%감소…청년↓장년↑'세대역전'",
+    "대기업채용2년새15%뚝…청년줄고50대이상늘었다",
+    "“30대줄고50대는늘었다”…대기업채용시장에닥친‘세대역전’"
    ],
    "initialized": true,
-   "last_run": "2026-08-18T06:40:21.229073+09:00"
+   "last_run": "2026-08-18T06:45:21.922097+09:00"
   }
  },
  "press_names": {
