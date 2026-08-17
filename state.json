@@ -433,8 +433,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0103_202608141939331138",
-    "https://www.ajunews.com/view/20260814193731023",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637513",
     "https://www.hankookilbo.com/news/article/A2026081419260005804?did=NA",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212638",
@@ -1932,11 +1930,11 @@
     "http://www.yonhapnewstv.co.kr/news/AKR202608171004484Cv",
     "https://www.ziksir.com/news/articleView.html?idxno=143348",
     "https://sports.donga.com/economy/article/all/20260817/134487749/1",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000003629&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000003629&cp=nv",
+    "https://economist.co.kr/article/view/ecn202608170005",
+    "https://www.asiatime.co.kr/article/20260817500024"
    ],
    "seen_titles": [
-    "SK이노베이션,테라파워와나트륨SMR사업협력과차세대SMR의글로벌...",
-    "SK이노,테라파워와‘나트륨SMR’사업협력",
     "최태원-노소영'세기의재산분할'재상고여부는?[이슈플러스]",
     "바이낸스,네이버·LG전자등무기한선물출시…국내계정은차단",
     "목포대·순천대협상재개…‘100조투자’지렛대될까?",
@@ -3434,10 +3432,12 @@
     "SK하이닉스美자회사'솔리다임'IPO설…\"지분희석\"vs\"실익있다\"",
     "제주항공,제주월드컵경기장서스포츠마케팅전개",
     "제주항공,제주월드컵경기장서‘브랜드데이’…팬들과특별한소통",
-    "[롤러코스피탑승기]“집팔고풀대출”…‘반도체블랙홀’에탔다"
+    "[롤러코스피탑승기]“집팔고풀대출”…‘반도체블랙홀’에탔다",
+    "이재용0원·신동빈112억·박정원456억…재벌총수‘연봉계산법’은...",
+    "“전력수요최대1.4배뛴다”…반도체·AI클러스터맞춤형전력망짠..."
    ],
    "initialized": true,
-   "last_run": "2026-08-17T10:15:20.462051+09:00"
+   "last_run": "2026-08-17T10:20:22.828839+09:00"
   }
  },
  "press_names": {
