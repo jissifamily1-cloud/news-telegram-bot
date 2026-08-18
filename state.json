@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-18T18:35:16.880663+09:00",
-     "성장률 상향 무디스"
-    ],
-    [
-     "2026-08-18T18:35:16.880663+09:00",
-     "단일 손절 레버리지 반등에도 개인 눈물의"
-    ],
-    [
-     "2026-08-18T18:35:16.880663+09:00",
-     "송언석 코스피 롤러코스터 시작된"
-    ],
-    [
      "2026-08-18T18:45:24.904439+09:00",
      "매출 부품사 메모리 라인 날았다 반도체 상반기 없는"
     ],
@@ -365,8 +353,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.greened.kr/news/articleView.html?idxno=347821",
-    "https://www.gasnews.com/news/articleView.html?idxno=126385",
     "https://www.topstarnews.net/news/articleView.html?idxno=16165878",
     "https://www.m-i.kr/news/articleView.html?idxno=1403059",
     "https://www.etoday.co.kr/news/view/2615364",
@@ -1864,11 +1850,11 @@
     "https://www.tokenpost.kr/news/breaking/392645",
     "https://www.xportsnews.com/article/2185086",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000004153&cp=nv",
-    "https://www.joongang.co.kr/article/25454301"
+    "https://www.joongang.co.kr/article/25454301",
+    "https://www.chosun.com/economy/tech_it/2026/08/19/BQFM7DIA75AVZKZX7MWX5MZ6JU/",
+    "https://www.donga.com/news/Economy/article/all/20260818/134498989/2"
    ],
    "seen_titles": [
-    "코스피,반도체주강세에2%대상승…28만전자·170만닉스회복",
-    "SK이노·테라파워,'나트륨'SMR사업협력합의서체결",
     "SK하이닉스주가,8월18일장중1,768,000원7.48%상승",
     "靑\"대미투자1호로반도체논의사실아냐\"…美투자압박보도부인",
     "서울생애최초매수4년9개월만에최대…20·30대가이끌었다",
@@ -3366,10 +3352,12 @@
     "하이퍼리퀴드정책센터,SEC에무기한계약의견서제출했다",
     "롯데'승리확률0.7%'서대반전!6회까지0득점→7회에만13점대폭발,...",
     "“누가더빠르고싸게만드나”…SMR상용화경쟁,韓제조역량부각",
-    "[정운찬칼럼]3대메가프로젝트,성공은추진방식에달렸다"
+    "[정운찬칼럼]3대메가프로젝트,성공은추진방식에달렸다",
+    "SKT·업스테이지·LGAI연구원,‘국대AI’3차전진출",
+    "‘국가대표AI’선발경쟁,LG-SKT-업스테이지3파전압축"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T00:30:32.131349+09:00"
+   "last_run": "2026-08-19T00:35:18.099548+09:00"
   }
  },
  "press_names": {
