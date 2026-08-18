@@ -1157,10 +1157,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=80557",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1720675",
-    "http://www.beyondpost.co.kr/view.php?ud=202608180927239678be44c0aacd_30",
-    "https://www.sentv.co.kr/article/view/sentv202608180036",
     "https://www.newspim.com/news/view/20260818000065",
     "https://www.taxtimes.co.kr/news/article.html?no=276412",
     "https://news.bizwatch.co.kr/article/market/2026/08/18/0002",
@@ -2656,13 +2652,13 @@
     "https://news.jtbc.co.kr/article/NB12313899?influxDiv=NAVER",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5213234",
     "https://www.newsis.com/view/NISX20260818_0003753301",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=271955"
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=271955",
+    "https://www.ddaily.co.kr/page/view/2026081819270893411",
+    "https://www.hani.co.kr/arti/economy/it/1273479.html",
+    "http://www.inews24.com/view/1996020",
+    "https://view.asiae.co.kr/article/2026081818272423829"
    ],
    "seen_titles": [
-    "대기업신규채용2년새15%↓…청년줄고장년늘어'세대역전'",
-    "SK하이닉스노사,오늘대표자교섭…임단협막판담판",
-    "코스피,외인'사자'에2%대급등7100선회복…삼전3%·닉스6%↑",
-    "일레븐랩스“AI음성복원기술기업활용확대…미디어·IT등확산”",
     "대기업고용도'세대역전'…50대이상,30대이하첫추월",
     "법무법인화우,공정거래·하도급전문가이기성변호사영입",
     "하이닉스·이노베이션쌍끌…지주사SK몸값도뛴다",
@@ -4158,10 +4154,14 @@
     "[단독]\"한국처럼\"콕집어…대만반도체노조도'성과급'요구",
     "이준석\"'호텔경제학'을대미외교에…상대는진짜호텔운영하던트럼...",
     "[올댓차이나]홍콩증시,중국정책기대에상승마감…H주0.16%↑",
-    "\"SK의사운건결단…계열사총동원한'AIDC전면전'시작됐다\""
+    "\"SK의사운건결단…계열사총동원한'AIDC전면전'시작됐다\"",
+    "‘모두의AI’6파전…SKT·KT·카카오,AI동맹총출동(종합)",
+    "‘전국민무료AI’공모에SKT·카카오·KT등6개연합체도전장",
+    "'모두의AI'SKT·KT·카카오등6곳출사표⋯이달말사업자선정(종합...",
+    "전국민무료'모두의AI'에SKT·KT·카카오등6개사참여(종합)"
    ],
    "initialized": true,
-   "last_run": "2026-08-18T20:00:38.897131+09:00"
+   "last_run": "2026-08-18T20:02:36.550607+09:00"
   }
  },
  "press_names": {
