@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-18T09:25:18.750116+09:00",
-     "전력수요 3대 전기본 다시 메가 전망 반영 토론회 재개"
-    ],
-    [
-     "2026-08-18T09:25:18.750116+09:00",
-     "한국전력 반도체 축소 확대하고"
-    ],
-    [
-     "2026-08-18T09:25:18.750116+09:00",
-     "retail top Samsung hynix shareholders mn"
-    ],
-    [
-     "2026-08-18T09:25:18.750116+09:00",
-     "장초반 SK하이닉스는 삼성전자 증시 혼조 활짝"
-    ],
-    [
      "2026-08-18T09:30:27.729928+09:00",
      "투자 맞바꿀 100조 카드인가 순천대 의대와"
     ],
@@ -1154,14 +1138,17 @@
     [
      "2026-08-18T15:25:18.741418+09:00",
      "Science와 계약 체결 의약품 공급 Life 에스케이바이오팜"
+    ],
+    [
+     "2026-08-18T15:30:27.675444+09:00",
+     "다음 생활 진출 행보는 3차 산업 서비스 SK텔레콤"
+    ],
+    [
+     "2026-08-18T15:30:27.675444+09:00",
+     "독점 기술력 부각 수율의 반도체 핵심 고압 수소 HPSP 초미세"
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/market/391994",
-    "https://www.tokenpost.kr/news/market/392002",
-    "https://biz.heraldcorp.com/article/10843148",
-    "https://www.etnews.com/20260816000049",
-    "https://www.sisajournal.com/news/articleView.html?idxno=383368",
     "https://www.jbnews.com/news/articleView.html?idxno=1509567",
     "https://www.ajunews.com/view/20260817100738120",
     "https://www.ajunews.com/view/20260817140012464",
@@ -2656,14 +2643,14 @@
     "http://www.footballist.co.kr/news/articleView.html?idxno=213700",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2460257",
     "https://news.jtbc.co.kr/article/NB12313848?influxDiv=NAVER",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16166184"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16166184",
+    "https://www.pointe.co.kr/news/articleView.html?idxno=83389",
+    "https://www.etoday.co.kr/news/view/2615554",
+    "http://www.newsfc.co.kr/news/articleView.html?idxno=80571",
+    "https://zdnet.co.kr/view/?no=20260818152008",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478313"
    ],
    "seen_titles": [
-    "상위20개주담은ETF,대형주쏠림상품화",
-    "1172억원수수료,삼성전자·SK하이닉스ETF서나왔다",
-    "다시대법원으로간‘세기의이혼소송’…쟁점다툼시10년넘길수도",
-    "SFA,반도체물류통합시스템공략…전공정턴키추진",
-    "손흥민,압도적지목률로9년연속1위…박지성2위로급부상[2026누가...",
     "[기자수첩]실용의명분과민생의눈높이",
     "[아주초대석]이해성삼성화재헬스케어사업팀장\"헬스케어,서비스넘...",
     "[디벨로퍼,생존의조건⑧]코람코,강남역1조개발…'신탁형디벨로퍼...",
@@ -4158,10 +4145,15 @@
     "무너진수비와3연패,부담감커진서울전…다만유병훈호안양은언제...",
     "테라파워'나트륨'11월사전검토착수···한국형4세대'SMR'은언제?",
     "\"완전히미친짓\"…월가가본서학개미들의이상한미국투자",
-    "에스케이바이오팜,SKLifeScience와의약품공급계약체결"
+    "에스케이바이오팜,SKLifeScience와의약품공급계약체결",
+    "넷마블'뱀피르',정식출시1주년기념'레드문페스타'개최",
+    "'LCK킬러'캡스,페이커ㆍ우지와어깨나란히⋯서양최초'명예의전당...",
+    "LG·SKT·업스테이지독파모2차평가통과…모티프는탈락",
+    "[독파모2차발표]SK텔레콤3차진출,다음행보는\"산업·생활서비스...",
+    "초미세반도체수율의핵심…HPSP,'고압수소'독점기술력부각"
    ],
    "initialized": true,
-   "last_run": "2026-08-18T15:25:18.741418+09:00"
+   "last_run": "2026-08-18T15:30:27.675444+09:00"
   }
  },
  "press_names": {
