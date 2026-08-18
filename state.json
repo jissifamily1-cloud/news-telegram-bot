@@ -1254,14 +1254,17 @@
     [
      "2026-08-18T18:45:24.904439+09:00",
      "날아오고 청구서가 있다 전당대회"
+    ],
+    [
+     "2026-08-18T18:50:21.411227+09:00",
+     "K제조업 존재 경쟁에 시대로 누가 상용화 SMR 찍어내나 빨리"
+    ],
+    [
+     "2026-08-18T18:50:21.411227+09:00",
+     "결승타는 CXMT 신화 그것을 가능케"
     ]
    ],
    "seen_urls": [
-    "https://www.asiatime.co.kr/article/20260818500071",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1720668",
-    "https://news.dealsitetv.com/articles/174842",
-    "https://www.mk.co.kr/article/12129833",
-    "http://www.ikld.kr/news/articleView.html?idxno=339084",
     "http://www.yonhapnewstv.co.kr/news/MYH20260818090849npT",
     "https://biz.chosun.com/stock/stock_general/2026/08/18/YKXFUIZMYRGSLOBBTX4YQYS3AM/",
     "http://www.apparelnews.co.kr/news/news_view/?idx=226813",
@@ -2756,14 +2759,14 @@
     "https://www.thebilliards.kr/news/articleView.html?idxno=31715",
     "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=55973",
     "https://www.thepublic.kr/news/articleView.html?idxno=315245",
-    "https://www.sedaily.com/article/20080569"
+    "https://www.sedaily.com/article/20080569",
+    "http://www.fnnews.com/news/202608181847156646",
+    "https://www.ccdn.co.kr/news/articleView.html?idxno=1094470",
+    "https://kidd.co.kr/news/247055",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000004064&cp=nv",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275002"
    ],
    "seen_titles": [
-    "7월서울집합건물생애최초매수5년8개월만에최다",
-    "반도체반등이끌주주환원…韓기업,자본셈법은'변수'",
-    "[뉴욕브리핑]트럼프\"종전연장없다\"…유가급등·3대지수하락",
-    "“성과급일부자사주?”SK하이닉스노사,임단협막판담판…오늘최...",
-    "일레븐랩스AI음성복원서비스,주요산업분야로확산",
     "[속보]코스피2%대상승출발…7,000선회복",
     "美증시약세에도…코스피,반도체·대형주호재에2%대상승출발",
     "효성티앤씨,PIS서18개협력사와'공동관'운영",
@@ -4258,10 +4261,15 @@
     "'레펀스끌고,강지은밀고'하이원리조트,웰컴저축은행꺾고3연패탈...",
     "주목해야할2027년하반기-물리적장애확산과재무적어려움심화가...",
     "靑'대미투자1호반도체'부인...외신\"韓협상가장더딘편\"",
-    "[여명]與전당대회청구서가날아오고있다"
+    "[여명]與전당대회청구서가날아오고있다",
+    "전국민이누릴'모두의AI'…통신3사·카카오등도전장",
+    "\"용인반도체전력을왜충북이떠안나\"",
+    "“벤치맥싱없었다”정부,독파모2차결과발표…‘종합결과’당락",
+    "SMR,‘누가더빨리찍어내나’의시대로…상용화경쟁에K제조업존재...",
+    "[반도체전쟁]中CXMT'신화'…그것을가능케한결승타는?'"
    ],
    "initialized": true,
-   "last_run": "2026-08-18T18:45:24.904439+09:00"
+   "last_run": "2026-08-18T18:50:21.411227+09:00"
   }
  },
  "press_names": {
