@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-19T00:15:21.267936+09:00",
-     "반도체 호남 팔아야 철수로 미국에 미군 집회"
-    ],
-    [
      "2026-08-19T00:20:25.102606+09:00",
      "무기한계약 의견서 정책센터 하이퍼리퀴드 SEC에 제출했다"
     ],
@@ -342,12 +338,13 @@
     [
      "2026-08-19T06:15:20.967988+09:00",
      "필수 먹거리된 알고보니 제련업체 황산 이제껏 반도체 버렸는데"
+    ],
+    [
+     "2026-08-19T06:20:20.929592+09:00",
+     "나스닥 뉴욕증시 급등 고유가에 국채금리 하락"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260818057600011?input=1195m",
-    "https://www.nocutnews.co.kr/news/6563991",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7179377",
     "https://www.ngonews.kr/news/articleView.html?idxno=235718",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1720688",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2268813",
@@ -1844,12 +1841,12 @@
     "https://www.mk.co.kr/article/12130734",
     "https://www.news1.kr/local/gwangju-jeonnam/6262251",
     "https://www.nbntv.co.kr/news/articleView.html?idxno=4023931",
-    "https://www.mk.co.kr/article/12130730"
+    "https://www.mk.co.kr/article/12130730",
+    "https://www.news2day.co.kr/article/20260818500072",
+    "https://www.news1.kr/it-science/cc-newmedia/6262118",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=281147"
    ],
    "seen_titles": [
-    "[연합뉴스이시각헤드라인]-10:30",
-    "SK하이닉스노사오늘최종타결시도…\"9부능선넘었다\"",
-    "\"한국'美의회접촉',일본·대만보다활동량많지만질적차이나\"",
     "대기업신규채용2년새15%감소…\"청년줄고장년늘며세대역전\"",
     "[EBN데이터센터]반도체강세에코스피대형주엇갈림...코스닥은반도...",
     "반도체소재기업SK트리켐,'노사문화우수기업'인증",
@@ -3346,10 +3343,13 @@
     "“도박하듯주식하는버릇,안바뀌네요”…레버리지막자‘빚투’늘...",
     "8개월째쉼없는민형배통합시장…휴가반납하고시정몰두",
     "[AI특별기획②]레거시산업의철옹성을깬AI…제조·물류넘어채용...",
-    "이제껏버렸는데알고보니반도체필수…제련업체먹거리된황산"
+    "이제껏버렸는데알고보니반도체필수…제련업체먹거리된황산",
+    "[N2모닝경제브리핑-8월19일]美증시,장기금리급등에하락…반도체...",
+    "독파모3파전,모델뜯어보니…LG'초대형'·SKT'추론'·업스테이지'효...",
+    "뉴욕증시,미국채금리급등·고유가에하락...나스닥1.3%↓"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T06:15:20.967988+09:00"
+   "last_run": "2026-08-19T06:20:20.929592+09:00"
   }
  },
  "press_names": {
