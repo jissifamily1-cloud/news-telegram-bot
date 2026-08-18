@@ -382,11 +382,13 @@
     [
      "2026-08-19T00:15:21.267936+09:00",
      "반도체 호남 팔아야 철수로 미국에 미군 집회"
+    ],
+    [
+     "2026-08-19T00:20:25.102606+09:00",
+     "무기한계약 의견서 정책센터 하이퍼리퀴드 SEC에 제출했다"
     ]
    ],
    "seen_urls": [
-    "https://www.newscj.com/news/articleView.html?idxno=3425909",
-    "https://www.joongangenews.com/news/articleView.html?idxno=540575",
     "https://www.topstarnews.net/news/articleView.html?idxno=16165893",
     "https://www.segye.com/newsView/20260818506337?OutUrl=naver",
     "https://www.dailian.co.kr/news/view/1679277/?sc=Naver",
@@ -1884,11 +1886,11 @@
     "https://www.pharmnews.com/news/articleView.html?idxno=305673",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000004136&cp=nv",
     "https://www.chosun.com/opinion/editorial/2026/08/19/HF43IP4CAJCY3EWELF6GMKULZU/",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000004135&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000004135&cp=nv",
+    "https://biz.chosun.com/international/international_economy/2026/08/19/UDRCJOLCRZFBLGYG5XRB64KDMI/",
+    "https://www.tokenpost.kr/news/breaking/392645"
    ],
    "seen_titles": [
-    "SK하이닉스노사,임단협'9부능선'…오늘최종담판",
-    "SK텔레콤주가,8월18일장중103,800원3.28%상승",
     "SK스퀘어주가,8월18일장중1,234,000원6.93%상승",
     "대기업‘간판값’2.2兆‘역대최대’…SK,LG제치고1위",
     "외국인1조순매수…코스피장중7200선회복[시황]",
@@ -3386,10 +3388,12 @@
     "2026년상반기제약바이오성적표...원가상승·경쟁심화로양극화",
     "“데이터센터전력문제가AI경쟁서핵심…전력인프라에주목하라”",
     "[사설]“미군철수로호남반도체”집회,그반도체미국에팔아야",
-    "‘독자AI모델’LG·SKT·업스테이지3강압축…정부,GPU지원확대"
+    "‘독자AI모델’LG·SKT·업스테이지3강압축…정부,GPU지원확대",
+    "뉴욕증시,채권금리상승에부담…3대지수하락출발",
+    "하이퍼리퀴드정책센터,SEC에무기한계약의견서제출했다"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T00:18:21.594227+09:00"
+   "last_run": "2026-08-19T00:20:25.102606+09:00"
   }
  },
  "press_names": {
