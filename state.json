@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-18T13:35:17.986184+09:00",
-     "해외 풍선효과 틀어막자 번진 불씨 레버리지로 섹터 단일종목"
-    ],
-    [
-     "2026-08-18T13:35:17.986184+09:00",
-     "방긋 LS 수혜 ELECTRIC 전력기기 HD현대에너지솔루션 주가 모듈"
-    ],
-    [
-     "2026-08-18T13:35:17.986184+09:00",
-     "범송공자 인터 부족 유동성 삼전닉스 관망할 장우진 시장 아직"
-    ],
-    [
      "2026-08-18T13:40:22.216885+09:00",
      "매출 씨케이솔루션 2분기 기록 850억원 흑자전환"
     ],
@@ -1198,16 +1186,21 @@
     [
      "2026-08-18T19:30:28.001147+09:00",
      "직접 투자 시장이 체감 경제로 유치 이어져야"
+    ],
+    [
+     "2026-08-18T19:35:21.722554+09:00",
+     "대기업엔 30세 한국 이하 보다 많다 이상 50세"
+    ],
+    [
+     "2026-08-18T19:35:21.722554+09:00",
+     "곽노정 4만주 자사주 삼전닉스 임원 사이트 노태문 12만주 추적"
+    ],
+    [
+     "2026-08-18T19:35:21.722554+09:00",
+     "코스피 불확실성에 지정학적 하락마감 중동"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260818039000008?input=1195m",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478126",
-    "https://www.hani.co.kr/arti/economy/finance/1273332.html",
-    "https://www.mt.co.kr/stock/2026/08/18/2026081809185661608",
-    "http://www.efnews.co.kr/news/articleView.html?idxno=131656",
-    "https://www.thepowernews.co.kr/view.php?ud=202608180915582017de3f0aa1be_7",
-    "https://view.asiae.co.kr/article/2026081809202799395",
     "https://www.etoday.co.kr/news/view/2615328",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572150217516",
     "https://www.esgeconomy.com/news/articleView.html?idxno=16412",
@@ -2700,16 +2693,16 @@
     "https://news.mtn.co.kr/news-detail/2026081819185757832",
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05028246645548632",
     "https://www.sedaily.com/article/20080593",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8639513"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8639513",
+    "https://www.stnsports.co.kr/news/articleView.html?idxno=321102",
+    "https://zdnet.co.kr/view/?no=20260818192950",
+    "https://www.news1.kr/it-science/cc-newmedia/6262343",
+    "https://www.etnews.com/20260818000443",
+    "https://www.munhwa.com/article/11610224",
+    "http://www.inews24.com/view/1996007",
+    "https://www.betanews.net/article/view/beta202608180088"
    ],
    "seen_titles": [
-    "'RISE코리아밸류업위클리고정커버드콜ETF',2개월연속3%대분배금",
-    "파두의승부수…데이터센터용SSD이어차세대CXL진출속도",
-    "코스피7천선재차회복…삼전·닉스등반도체주강세영향",
-    "삼전닉스,장초반동반상승…미국반도체주강세에방긋",
-    "대기업신규채용2년새15%감소…청년줄고장년늘어'세대역전'심화",
-    "대기업‘브랜드값’2.2조사상최대…SK,LG제치고첫1위",
-    "코스피,7100선회복출발…코스닥은소폭하락",
     "외인'사자'에코스피7100선훌쩍…코스닥은하락전환",
     "넵튠'인도법인',크래프톤과'배그모바일인디아'광고운영공식파트...",
     "[정책브리핑]3대메가반영전력수요전망다시…전기본토론회재개",
@@ -4202,10 +4195,17 @@
     "'모두의AI'6개컨소시엄참전…카카오·LG연합,네이버는불참",
     "'모두의AI'공모에SKT·카카오·KT등6개사업자출사표",
     "통신3사·카카오,‘모두의AI’출사표…연내서비스개시",
-    "시장이직접‘투자유치’…“체감경제로이어져야”"
+    "시장이직접‘투자유치’…“체감경제로이어져야”",
+    "'최고의외국인타자'LG오스틴,장기계약이룰까?",
+    "모두의AI,6개컨소시엄출사표…SKT·카카오·KT맞대결",
+    "'전국민무료AI'누가만드나…SKT·카카오·KT등6개팀출사표",
+    "모두의AI,6파전경쟁확정…통신·AI·플랫폼기업출사표",
+    "한국대기업엔‘50세이상’이‘30세이하’보다많다",
+    "노태문12만주·곽노정1.4만주…'삼전닉스'임원자사주추적사이트등...",
+    "코스피,중동지정학적불확실성에하락마감"
    ],
    "initialized": true,
-   "last_run": "2026-08-18T19:30:28.001147+09:00"
+   "last_run": "2026-08-18T19:35:21.722554+09:00"
   }
  },
  "press_names": {
