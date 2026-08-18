@@ -542,11 +542,13 @@
     [
      "2026-08-18T23:05:21.869947+09:00",
      "김민준 9회 5경기 QS SSG 삼성 집중력 앞세워 연속 꺾어"
+    ],
+    [
+     "2026-08-18T23:15:21.684292+09:00",
+     "부담에 장초반 반도 약세 유가 엔비디아 기술주 미국증시 장기금리"
     ]
    ],
    "seen_urls": [
-    "https://www.dkilbo.com/news/articleView.html?idxno=551526",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=93844",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=390733",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=390731",
     "https://www.seoul.co.kr/news/economy/securities/2026/08/18/20260818500032?wlog_tag3=naver",
@@ -2044,11 +2046,11 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=05920406645548632",
     "https://www.sedaily.com/article/20080639",
     "https://www.segye.com/newsView/20260818519199?OutUrl=naver",
-    "https://www.newspim.com/news/view/20260818001294"
+    "https://www.newspim.com/news/view/20260818001294",
+    "https://www.hankyung.com/article/202608188217i",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16166514"
    ],
    "seen_titles": [
-    "포스코'간판값'1282억원…대기업5위",
-    "코스피장초반2%대급등…반도체강세에7150선돌파",
     "코스피,외국인매수·반도체주강세에'7천피'회복",
     "신규채용15%싹뚝…대기업고용시장청년줄고장년역전",
     "‘하닉180층곧오나’8%대급등…코스피7200돌파",
@@ -3546,10 +3548,12 @@
     "상반기에만현금50兆쏟았다…삼전·하닉AI설비‘쩐의전쟁’",
     "“입사한지몇년됐는데아직막내예요”…대기업채용15%줄고청년...",
     "[데스크의눈]관치금융이빚어낸레버리지참사",
-    "[AI상보]'김민준5경기연속QS'SSG,9회집중력앞세워삼성5-4꺾어"
+    "[AI상보]'김민준5경기연속QS'SSG,9회집중력앞세워삼성5-4꺾어",
+    "국채수익률상승여파로美증시하락…반도체주식일제↓",
+    "미국증시장초반,장기금리·유가부담에기술주약세…엔비디아·반도..."
    ],
    "initialized": true,
-   "last_run": "2026-08-18T23:10:24.471768+09:00"
+   "last_run": "2026-08-18T23:15:21.684292+09:00"
   }
  },
  "press_names": {
