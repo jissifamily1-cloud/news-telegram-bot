@@ -582,10 +582,13 @@
     [
      "2026-08-19T08:29:20.924664+09:00",
      "ETF 지급 KB운용 분배금 8월 코리아밸류업커버드콜"
+    ],
+    [
+     "2026-08-19T08:30:28.067411+09:00",
+     "IPTV 데인저러스 오늘부터 동시 서비스 극장 VOD 애니멀스"
     ]
    ],
    "seen_urls": [
-    "https://news.mtn.co.kr/news-detail/2026081811065764367",
     "https://news.tf.co.kr/read/photomovie/2354985.htm",
     "https://biz.heraldcorp.com/article/10843881",
     "https://www.mt.co.kr/tech/2026/08/18/2026081811163731186",
@@ -2084,10 +2087,10 @@
     "https://www.viva100.com/article/20260818501140",
     "https://www.etoday.co.kr/news/view/2615729",
     "https://www.theguru.co.kr/news/article.html?no=105956",
-    "http://www.finomy.com/news/articleView.html?idxno=259408"
+    "http://www.finomy.com/news/articleView.html?idxno=259408",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16167034"
    ],
    "seen_titles": [
-    "독파모2차,모티프탈락…업스테이지·SKT·LGAI연구원최종진출",
     "독자AI파운데이션모델2차평가발표,업스테이지·SKT·LG진출[TF사...",
     "‘국가대표AI’LG·SK텔레콤·업스테이지‘통과’…모티프‘탈락’",
     "독파모3차진출한업스테이지·SKT·LGAI연구원…다음목표는?",
@@ -3586,10 +3589,11 @@
     "[오늘의브릿지경제1면]독파모2차평가,업스테이지·SKT·LG통과…내...",
     "한성크린텍,SK하이닉스청주팹수처리수주…총368억규모예상",
     "'재무부담'플러그파워,벨기에친환경수소공장건설계획공식취소",
-    "KB운용'코리아밸류업커버드콜ETF'8월분배금지급"
+    "KB운용'코리아밸류업커버드콜ETF'8월분배금지급",
+    "'데인저러스애니멀스',오늘부터IPTV·VOD극장동시서비스"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T08:29:20.924664+09:00"
+   "last_run": "2026-08-19T08:30:28.067411+09:00"
   }
  },
  "press_names": {
