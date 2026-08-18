@@ -234,13 +234,13 @@
     [
      "2026-08-19T05:29:56.190016+09:00",
      "모두의 도전장 전국민 SKT 카카오 KT"
+    ],
+    [
+     "2026-08-19T05:35:17.438134+09:00",
+     "대형 악화 웃었다 중소형은 수익성 뚜렷 제약사만 양극화"
     ]
    ],
    "seen_urls": [
-    "http://www.seouleconews.com/news/articleView.html?idxno=93108",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=857467",
-    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432615",
-    "https://www.sedaily.com/article/20080262",
     "https://www.ikbc.co.kr/article/view/kbc202608180022",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284585",
     "https://www.namdonews.com/news/articleView.html?idxno=920262",
@@ -1736,13 +1736,13 @@
     "https://www.joongang.co.kr/article/25454329",
     "https://www.news1.kr/world/international-economy/6262455",
     "http://www.fnnews.com/news/202608190520449707",
-    "http://www.fnnews.com/news/202608181917424571"
+    "http://www.fnnews.com/news/202608181917424571",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000004208&cp=nv",
+    "https://www.mediapen.com/news/view/1117223",
+    "https://www.tokenpost.kr/news/market/392779",
+    "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170237"
    ],
    "seen_titles": [
-    "SK하이닉스,임단협'9부능선'…성과급자사주가막판변수",
-    "혜인,상반기영업익58%↑…수익성개선",
-    "'파죽의7연승'휴온스,PBA팀리그2R선두질주…크라운해태맹추격",
-    "대기업신규채용2년새15%↓…장년늘고청년줄며‘세대역전’",
     "청와대\"대미투자1호후보가반도체?사실아니다\"",
     "코스피,반도체쌍끌이에'7천피'탈환…6거래일째상승",
     "엔비디아'148조원'AI베팅…삼성전자·SK하이닉스훈풍이어지나",
@@ -3238,10 +3238,14 @@
     "논두렁시계,노무현조서엔없다…SBS흘린‘나쁜빨대’누구",
     "\"AI촉수,주식넘어채권까지뻗었다\"…JP모건의집중투자경고",
     "[뉴욕증시]고금리충격에사흘째하락…마이크론,7%급락",
-    "전국민'모두의AI',SKT·KT·카카오도전장"
+    "전국민'모두의AI',SKT·KT·카카오도전장",
+    "삼전닉스레버리지ETF거래89%증발…‘2배배율’까지손보나",
+    "[美증시]이란발국채금리급등·인플레우려에3대지수하락…반도체...",
+    "18일나스닥1.33%하락,반도체지수4.98%급락",
+    "대형제약사만웃었다…중소형은수익성악화'양극화'뚜렷"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T05:30:32.038542+09:00"
+   "last_run": "2026-08-19T05:35:17.438134+09:00"
   }
  },
  "press_names": {
