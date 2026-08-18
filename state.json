@@ -350,11 +350,17 @@
     [
      "2026-08-19T06:30:32.526471+09:00",
      "공개 세부 2차 알려야 독파모 점수 과정 평가 요구 투명하게"
+    ],
+    [
+     "2026-08-19T06:34:25.625822+09:00",
+     "지배구조 노소영 연장전 주가 최태원 재산분할"
+    ],
+    [
+     "2026-08-19T06:34:25.625822+09:00",
+     "위치 밸류체인서 K원전이 차지할 투자에서 SMR 글로벌 상용화로"
     ]
    ],
    "seen_urls": [
-    "https://www.hankookilbo.com/news/article/A2026081809550004755?did=NA",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=270735",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=84573",
     "http://www.financialreview.co.kr/news/articleView.html?idxno=44245",
     "https://www.newdaily.co.kr/site/data/html/2026/08/13/2026081300170.html",
@@ -1852,11 +1858,11 @@
     "https://www.bntnews.co.kr/article/view/bnt202608190006",
     "http://www.yonhapnewstv.co.kr/news/AKR20260819062533toF",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478411",
-    "https://www.edaily.co.kr/news/newspath.asp?newsid=02253366645548960"
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02253366645548960",
+    "https://www.news2day.co.kr/article/20260818500202",
+    "https://www.goodkyung.com/news/articleView.html?idxno=290367"
    ],
    "seen_titles": [
-    "SK하이닉스노사'성과급일부주식지급'합의하나...오늘대표자교섭",
-    "냉각마취리센스메디컬,SK증권성의담은'요리'보고서로본격꽃피다",
     "대기업신규채용2년새15%감소…장년이청년추월",
     "대기업브랜드사용료2조2000억원돌파…SK,LG제치고첫1위",
     "호남반도체'뭉치면살고,흩어지면죽는다'[채수조칼럼]",
@@ -3354,10 +3360,12 @@
     "뉴욕증시,국채금리19년만최고치에급락…나스닥1.33%↓",
     "대기업고액연봉자보수36%가주식보상…SK·두산63%",
     "반도체주에무슨일이…마이크론7%·SK하이닉스ADR9%폭락",
-    "독파모2차평가,세부점수공개요구…“평가과정투명하게알려야”"
+    "독파모2차평가,세부점수공개요구…“평가과정투명하게알려야”",
+    "[N2포커스]최태원·노소영재산분할‘연장전’…SK주가·지배구조'...",
+    "투자에서상용화로…글로벌SMR밸류체인서K원전이차지할위치"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T06:30:32.526471+09:00"
+   "last_run": "2026-08-19T06:34:25.625822+09:00"
   }
  },
  "press_names": {
