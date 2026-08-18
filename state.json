@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-19T01:20:22.528087+09:00",
-     "교체 피했다 프리시즌 악재 김민재 마다한 최종전 부상 관심도 맨유"
-    ],
-    [
-     "2026-08-19T01:20:22.528087+09:00",
-     "전망 8월 주요 제조업 3주"
-    ],
-    [
      "2026-08-19T02:05:17.146347+09:00",
      "환율 양면적 시각 하락을 보는"
     ],
@@ -442,13 +434,21 @@
     [
      "2026-08-19T07:15:20.729919+09:00",
      "특징주 최고가 증시 상승에 금리 흔들 반도체주 존슨앤드존슨"
+    ],
+    [
+     "2026-08-19T07:25:22.558418+09:00",
+     "19일 라이브투데이 8월"
+    ],
+    [
+     "2026-08-19T07:25:22.558418+09:00",
+     "19일"
+    ],
+    [
+     "2026-08-19T07:25:22.558418+09:00",
+     "HBM 전망 시험대 효율 AMD 삼성 수혜 가속기 4배"
     ]
    ],
    "seen_urls": [
-    "https://www.kukinews.com/article/view/kuk202608180067",
-    "http://www.inews24.com/view/1995741",
-    "https://www.newsis.com/view/NISX20260818_0003752357",
-    "https://news.mtn.co.kr/news-detail/2026081810502978213",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608071409011160109367",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608131718181560106141",
     "https://www.ajunews.com/view/20260818105748842",
@@ -1944,13 +1944,13 @@
     "https://www.hankyung.com/article/2026081983666",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005903400",
     "https://biz.sbs.co.kr/article_hub/20000329353?division=NAVER",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608190361&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608190361&t=NN",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=143202",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260819072112laW",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4430643",
+    "https://www.g-enews.com/view.php?ud=202608190707002787fbbec65dfb_1"
    ],
    "seen_titles": [
-    "SK하이닉스노사,임단협최종타결시도…“9부능선넘었다”",
-    "[속보]'국가대표AI'3강에LGAI연구원·SKT·업스테이지⋯모티프탈락",
-    "[속보]'독파모'2차평가서모티프탈락…최종3개팀압축",
-    "[속보]모티프테크놀로지스,독파모2차평가탈락",
     "[더벨]‘솔리다임IPO키맨’진정훈,북미스팩CEO겸직",
     "[더벨]SK하이닉스·하이퍼,AIDC주도'윤풍영·정석근키맨'",
     "국대AI3파전…모티프탈락·LG·SKT·업스테이지진출",
@@ -3446,10 +3446,14 @@
     "美국채금리급등여파로일제하락…나스닥1.3%↓[뉴욕증시브리핑...",
     "증시오늘'핫이슈'…\"되살아난'롤러코스피'악몽,단일레버리지ETF탓...",
     "[증시전략]美30년물금리,19년만에'최고'…시장파장은?",
-    "금리상승에AI·반도체주흔들…존슨앤드존슨최고가[美증시특징주..."
+    "금리상승에AI·반도체주흔들…존슨앤드존슨최고가[美증시특징주...",
+    "[오늘의글로벌마켓]뉴욕증시,국채금리급등에3대지수일제히하락",
+    "[이시각헤드라인]8월19일라이브투데이",
+    "[뉴욕마켓브리핑](19일)",
+    "AMD,AI가속기효율4배전망…삼성·SKHBM수혜시험대"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T07:20:20.996838+09:00"
+   "last_run": "2026-08-19T07:25:22.558418+09:00"
   }
  },
  "press_names": {
