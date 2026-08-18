@@ -486,13 +486,13 @@
     [
      "2026-08-19T07:50:06.299791+09:00",
      "바람 SK처럼 변경 기업 LG 우리도 바꾸자 영문사명"
+    ],
+    [
+     "2026-08-19T07:55:23.316504+09:00",
+     "에도 거래대금 증시 반등 시도 최저수준 거래량 7천피 연중"
     ]
    ],
    "seen_urls": [
-    "https://www.delighti.co.kr/news/articleView.html?idxno=120333",
-    "https://www.siminsori.com/news/articleView.html?idxno=401075",
-    "https://www.sisajournal.com/news/articleView.html?idxno=383832",
-    "https://www.ytn.co.kr/_ln/0105_202608181113010376",
     "https://www.ceoscoredaily.com/page/view/2026081810502085002",
     "https://view.asiae.co.kr/article/2026081810570892905",
     "https://www.etoday.co.kr/news/view/2615437",
@@ -1988,13 +1988,13 @@
     "https://www.khan.co.kr/article/202608190746001",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6845682_37012.html",
     "https://www.khan.co.kr/article/202608190730001",
-    "https://www.hankyung.com/article/202608198411i"
+    "https://www.hankyung.com/article/202608198411i",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02525606645548960",
+    "https://biz.heraldcorp.com/article/10844663",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000057710",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=878218"
    ],
    "seen_titles": [
-    "'자사주성과급'반발속막판담판…SK하이닉스임단협오늘결론나오...",
-    "한국,美의회접촉6천264건…\"양은많지만질적외교는일본·대만에뒤...",
-    "외국인1조원순매수에코스피'껑충'…장중7200선돌파",
-    "독자AI파운데이션모델2차평가...모티프테크놀로지스탈락",
     "[그래픽]세기의이혼최태원,노소영에약1조원재산분할",
     "과기정통부\"독파모2차단계평가업스테이지·SKT·LGAI연구원선정\"",
     "대기업'간판값'2.2조…SK,LG제치고1위",
@@ -3490,10 +3490,14 @@
     "뉴욕증시,유가·국채금리급등에사흘째하락…나스닥1.3%↓",
     "중동불안,국채금리상승에뉴욕증시하락",
     "대기업고액연봉자보수중36%가주식보상…곽노정SK하이닉스사장‘...",
-    "\"우리도LG·SK처럼바꾸자\"...日기업,영문사명변경바람[도쿄나우]"
+    "\"우리도LG·SK처럼바꾸자\"...日기업,영문사명변경바람[도쿄나우]",
+    "유가뛰고美30년물금리19년만최고…반도체주급락[뉴스새벽배송]",
+    "뉴욕증시,3거래일연속하락…미국채금리급등“우려커졌다”[투자...",
+    "뉴욕증시3대지수일제히하락…중동불안·국채금리급등'직격탄'",
+    "'7천피반등시도'에도증시거래대금·거래량연중최저수준"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T07:50:22.819797+09:00"
+   "last_run": "2026-08-19T07:55:23.316504+09:00"
   }
  },
  "press_names": {
