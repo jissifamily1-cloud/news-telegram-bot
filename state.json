@@ -665,9 +665,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.lawtimes.co.kr/news/articleView.html?idxno=224829",
-    "https://biz.sbs.co.kr/article_hub/20000329178?division=NAVER",
-    "https://www.hankookilbo.com/news/article/A2026081811170003937?did=NA",
     "https://m.skyedaily.com/news_view.html?ID=309955",
     "https://biz.heraldcorp.com/article/10843931",
     "https://www.businesspost.co.kr/BP?command=article_view&num=444951",
@@ -2164,12 +2161,12 @@
     "https://www.g-enews.com/view.php?ud=20260819083640921944093b5d4e_1",
     "https://www.gokorea.kr/news/articleView.html?idxno=875551",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4430671",
-    "https://www.datanet.co.kr/news/articleView.html?idxno=213872"
+    "https://www.datanet.co.kr/news/articleView.html?idxno=213872",
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570378480629",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3667937",
+    "https://biz.chosun.com/stock/stock_general/2026/08/19/C7IX743BMZFHDCBQCR42TM6MBQ/"
    ],
    "seen_titles": [
-    "Howthe'2026KoreaLawFirmConsumerReport'WasCreated",
-    "이시각주요뉴스",
-    "전영현4만3000주,곽노정1만4000주…삼전닉스임원자사주트래킹사...",
     "‘국가대표AI’외부평가모티프선두…최종순위는아직",
     "고차방정식된대미투자…반도체·안보까지변수로",
     "미국의'중국메모리반도체견제'의지재확인,삼성전자SK하이닉스안...",
@@ -3666,10 +3663,13 @@
     "한화투자증권\"저스템,마이크론향매출확대가실적성장견인\"",
     "\"국내AI시장의판도라상자…'모두의AI'프로젝트향방은?\"",
     "'채권큰손'SK하이닉스,상반기특정금전신탁순증만44兆",
-    "SK쉴더스,AI보안적용제로트러스트컨설팅사업확대"
+    "SK쉴더스,AI보안적용제로트러스트컨설팅사업확대",
+    "SK쉴더스,제로트러스트기반AI보안사업강화",
+    "'미기술주폭락'삼성전자·SK하이닉스프리장서5~6%급락",
+    "[특징주]美고금리여파에…삼전닉스,프리마켓서5%급락"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T08:47:04.329111+09:00"
+   "last_run": "2026-08-19T08:50:29.057223+09:00"
   }
  },
  "press_names": {
