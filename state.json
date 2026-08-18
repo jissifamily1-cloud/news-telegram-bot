@@ -490,14 +490,21 @@
     [
      "2026-08-19T07:55:23.316504+09:00",
      "에도 거래대금 증시 반등 시도 최저수준 거래량 7천피 연중"
+    ],
+    [
+     "2026-08-19T08:00:33.923161+09:00",
+     "북미사업 확대에 백종원 더본코리아 급등"
+    ],
+    [
+     "2026-08-19T08:00:33.923161+09:00",
+     "매출 찍은 영업익은 SK에코 아쉽지만 역대"
+    ],
+    [
+     "2026-08-19T08:00:33.923161+09:00",
+     "상승에 우려 위축 채권금리 투자 마이크론 급락"
     ]
    ],
    "seen_urls": [
-    "https://www.ceoscoredaily.com/page/view/2026081810502085002",
-    "https://view.asiae.co.kr/article/2026081810570892905",
-    "https://www.etoday.co.kr/news/view/2615437",
-    "https://www.slist.kr/news/articleView.html?idxno=759455",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4430515",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=850646",
     "https://www.newsis.com/view/NISX20260818_0003752425",
     "https://www.kyeonggi.com/article/20260818580107",
@@ -1992,14 +1999,14 @@
     "https://www.edaily.co.kr/news/newspath.asp?newsid=02525606645548960",
     "https://biz.heraldcorp.com/article/10844663",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000057710",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=878218"
+    "https://www.getnews.co.kr/news/articleView.html?idxno=878218",
+    "http://www.osen.co.kr/article/G1112859657",
+    "https://www.smartbizn.com/news/articleView.html?idxno=151501",
+    "https://biz.sbs.co.kr/article_hub/20000329362?division=NAVER",
+    "https://news.bizwatch.co.kr/article/real_estate/2026/08/18/0022",
+    "https://www.newspim.com/news/view/20260819000038"
    ],
    "seen_titles": [
-    "[그래픽]세기의이혼최태원,노소영에약1조원재산분할",
-    "과기정통부\"독파모2차단계평가업스테이지·SKT·LGAI연구원선정\"",
-    "대기업'간판값'2.2조…SK,LG제치고1위",
-    "LG·SKT·업스테이지,'독파모'2차평가통과…모티프탈락",
-    "SKT·LG·업스테이지,독파모다음단계진출…GPU지원확대",
     "[속보]독파모업스테이지·SK텔레콤·LGAI연구원3단계진출…모티프테...",
     "'국대AI'선발2차평가,SK·LG·업스테이지통과…모티프탈락(종합)",
     "[속보]LG·SKT·업스테이지독파모최종진출…모티프탈락",
@@ -3494,10 +3501,15 @@
     "유가뛰고美30년물금리19년만최고…반도체주급락[뉴스새벽배송]",
     "뉴욕증시,3거래일연속하락…미국채금리급등“우려커졌다”[투자...",
     "뉴욕증시3대지수일제히하락…중동불안·국채금리급등'직격탄'",
-    "'7천피반등시도'에도증시거래대금·거래량연중최저수준"
+    "'7천피반등시도'에도증시거래대금·거래량연중최저수준",
+    "‘LEC17회우승’캡스,‘페이커’·‘우지’이어세번째홀오브레...",
+    "뉴욕증시,유가·금리충격에흔들···항공권부담도커져",
+    "[애프터마켓리뷰]백종원'더본코리아',북미사업확대에급등",
+    "'역대최대'매출찍은SK에코,영업익은아쉽지만…",
+    "[미국특징주]마이크론,채권금리상승에7%급락…AI투자위축우려"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T07:55:23.316504+09:00"
+   "last_run": "2026-08-19T08:00:33.923161+09:00"
   }
  },
  "press_names": {
