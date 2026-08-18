@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-19T00:25:20.433517+09:00",
-     "메가프로젝트 방식에 3대 성공은 달렸다"
-    ],
-    [
      "2026-08-19T00:48:41.696960+09:00",
      "사태에서 레버리지 배울 것인가"
     ],
@@ -350,14 +346,13 @@
     [
      "2026-08-19T06:25:18.975578+09:00",
      "낙폭 뉴욕 증시 두드러져 약세 동반 반도체"
+    ],
+    [
+     "2026-08-19T06:30:32.526471+09:00",
+     "공개 세부 2차 알려야 독파모 점수 과정 평가 요구 투명하게"
     ]
    ],
    "seen_urls": [
-    "https://www.junggi.co.kr/news/articleView.html?idxno=37467",
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=80559",
-    "https://www.sisajournal.com/news/articleView.html?idxno=383829",
-    "https://www.newsis.com/view/NISX20260818_0003752303",
-    "https://www.news2day.co.kr/article/20260818500060",
     "https://www.hankookilbo.com/news/article/A2026081809550004755?did=NA",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=270735",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=84573",
@@ -1852,14 +1847,14 @@
     "https://www.yna.co.kr/view/AKR20260819006051072?input=1195m",
     "https://www.bntnews.co.kr/article/view/bnt202608190005",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=760845",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8639953"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8639953",
+    "https://www.newsis.com/view/NISX20260819_0003753390",
+    "https://www.bntnews.co.kr/article/view/bnt202608190006",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260819062533toF",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478411",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02253366645548960"
    ],
    "seen_titles": [
-    "삼성SDI,GM과美배터리합작종료…지분100%확보",
-    "코스피,삼전닉스강세에'7천피'회복…코스닥도올라",
-    "SK하이닉스임단협막바지…'성과급자사주'가타결변수",
-    "엠엑스온,2분기매출404억…전년比338.2%↑",
-    "[N2증시풍향계]좋은사람들부터인디에프까지,남북경협주대거‘상...",
     "SK하이닉스노사'성과급일부주식지급'합의하나...오늘대표자교섭",
     "냉각마취리센스메디컬,SK증권성의담은'요리'보고서로본격꽃피다",
     "대기업신규채용2년새15%감소…장년이청년추월",
@@ -3354,10 +3349,15 @@
     "뉴욕증시,중동불안·미국채금리급등에하락…나스닥1.3%↓(종합)",
     "낸드플래시5대기업매출77%급증…삼성1위",
     "가전사용설명서에QR코드만덜렁...종이설명서없어지면서노년층'막...",
-    "뉴욕증시동반약세…반도체낙폭두드러져"
+    "뉴욕증시동반약세…반도체낙폭두드러져",
+    "[구미소식]구미100대기업매출2.9%감소등",
+    "뉴욕증시,국채금리19년만최고치에급락…나스닥1.33%↓",
+    "대기업고액연봉자보수36%가주식보상…SK·두산63%",
+    "반도체주에무슨일이…마이크론7%·SK하이닉스ADR9%폭락",
+    "독파모2차평가,세부점수공개요구…“평가과정투명하게알려야”"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T06:25:18.975578+09:00"
+   "last_run": "2026-08-19T06:30:32.526471+09:00"
   }
  },
  "press_names": {
