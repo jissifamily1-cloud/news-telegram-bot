@@ -1169,11 +1169,6 @@
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260818001651320?input=2106m",
-    "https://economist.co.kr/article/view/ecn202608180005",
-    "https://www.newspim.com/news/view/20260818000111",
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=809930",
-    "https://biz.newdaily.co.kr/site/data/html/2026/08/18/2026081800059.html",
     "https://www.tokenpost.kr/news/market/392266",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478136",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=850600",
@@ -2668,14 +2663,14 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8639589",
     "https://www.ggilbo.com/news/articleView.html?idxno=1176052",
     "http://www.fnnews.com/news/202608181937466358",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4430619"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4430619",
+    "https://biz.sbs.co.kr/article_hub/20000329328?division=NAVER",
+    "https://news.jtbc.co.kr/article/NB12313886?influxDiv=NAVER",
+    "https://www.segye.com/newsView/20260818519130?OutUrl=naver",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608180933&t=NN",
+    "https://www.newspim.com/news/view/20260818001263"
    ],
    "seen_titles": [
-    "(LEAD)SeoulsharesopenhigherontechgainsamidMiddleEastconcerns",
-    "“연애·취업·독립다귀찮아요”‘아무것도안하는청년’늘어나는...",
-    "[모닝리포트]SK스퀘어\"하이닉스보다반등탄력크다\"…AI수요·배당...",
-    "[오늘증시]연휴끝난코스피,7100선직행…외인이다시샀다",
-    "코스피,외인'사자'에7100선훌쩍…반도체株'훈풍'",
     "[국내증시개장시황]국내증시상승세출발,코스피2.73%상승",
     "AI인프라투자폭발에반도체·지주사랠리…실적개선·밸류업동반...",
     "코스피,외인'사자'에7100선탈환…반도체주강세에2%상승",
@@ -4170,10 +4165,15 @@
     "독파모2차평가서모티프탈락…3개팀진출",
     "[주식마감]'남북경협주'코데즈컴바인·좋은사람들상한가...삼성공조...",
     "[기자수첩]애플이탐내는中CXMT",
-    "SKT·카카오·KT,모두의AI프로젝트참여한다"
+    "SKT·카카오·KT,모두의AI프로젝트참여한다",
+    "'모두의AI'SKT·KT·카카오등6개컨소시엄참전",
+    "에너지론'만족못하는'미국?…반도체투자압박\"아니\"라지만",
+    "코스피반등삼전·닉스‘주주환원정책’에달렸다",
+    "'모두의AI'사업에카카오·SKT등신청…네이버는불참",
+    "SK하이닉스노사,임단협막판협상…성과급자사주지급'변수'"
    ],
    "initialized": true,
-   "last_run": "2026-08-18T19:45:22.101926+09:00"
+   "last_run": "2026-08-18T19:50:22.424581+09:00"
   }
  },
  "press_names": {
