@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-19T02:05:17.146347+09:00",
-     "환율 양면적 시각 하락을 보는"
-    ],
-    [
      "2026-08-19T02:25:19.524550+09:00",
      "국채 고공행진에 기술주 급락 수익률 된서리 글로벌 장기"
     ],
@@ -533,12 +529,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4430513",
-    "https://biz.newdaily.co.kr/site/data/html/2026/08/18/2026081800100.html",
-    "http://www.thevaluenews.co.kr/news/view.php?idx=200845",
-    "https://www.hellot.net/news/article.html?no=114410",
-    "https://www.smartbizn.com/news/articleView.html?idxno=151432",
-    "https://www.thepowernews.co.kr/view.php?ud=202608181115195176de3f0aa1be_7",
     "https://www.yna.co.kr/view/AKR20260818075400017?input=1195m",
     "https://www.businesspost.co.kr/BP?command=article_view&num=444943",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260818.99099004733",
@@ -2032,15 +2022,15 @@
     "https://www.theguru.co.kr/news/article.html?no=105942",
     "https://www.epnc.co.kr/news/articleView.html?idxno=405683",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=850700",
-    "https://www.hankyung.com/article/2026081984386"
+    "https://www.hankyung.com/article/2026081984386",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02561686645548960",
+    "https://biz.newdaily.co.kr/site/data/html/2026/08/19/2026081900026.html",
+    "https://www.m-i.kr/news/articleView.html?idxno=1403457",
+    "https://www.lecturernews.com/news/articleView.html?idxno=208897",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052507",
+    "https://www.edaily.co.kr/news/newspath.asp?newsid=02555126645548960"
    ],
    "seen_titles": [
-    "[여의도드림]메리츠'본사영업'은상반기만2.7억…억대보수가일상",
-    "美,'中과양다리금지'경고에…삼성·SK,中반도체장비반입시험...",
-    "[위클리ETF]8月2주차,‘TIGER반도체TOP10레버리지’수익률톱39.28...",
-    "SK이노·테라파워,차세대나트륨SMR협력…'AI풀스택'전력사업확장",
-    "독파모2차평가서LG·SKT·업스테이지생존···모티프탈락",
-    "SK스퀘어영업익19.2조·이노베이션3.5조…SK지분가치다시뛴다",
     "독파모진출3팀GPU지원확대…정부\"새지원체계논의중\"",
     "업스테이지·SK텔레콤·LGAI연구원,과기정통부'독자AI'2차평가통과",
     "LG·SKT·업스테이지'독파모'최종진출",
@@ -3534,10 +3524,16 @@
     "SK팜테코,아일랜드생산시설증설…글로벌CDMO공급망강화",
     "[TECH한주]'파두사태'딛고턴어라운드…AI추론서버타고날아오르나",
     "[코스닥상폐딜레마㊤]'200억문턱'아래109곳…흑자기업도퇴출시계",
-    "\"테스,올해영업익85%증가전망…목표가↑\"-하나"
+    "\"테스,올해영업익85%증가전망…목표가↑\"-하나",
+    "중동불안·美국채금리급등에나스닥급락…환율1410원대후반상승...",
+    "[속보]삼전닉스,프리마켓서5~6%대급락…美국채금리급등에반도체...",
+    "SKT·KT·카카오등6곳,'모두의AI'출사표",
+    "미국뉴욕증시,중동발유가상승·금리급등에3거래일다우존스·S&P50...",
+    "[뉴욕증시]뉴욕증시,채권금리급등에하락…나스닥1.33%↓",
+    "저스템,2분기영업익346%↑…목표가2만7000원유지-한화"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T08:03:38.712859+09:00"
+   "last_run": "2026-08-19T08:05:17.391149+09:00"
   }
  },
  "press_names": {
