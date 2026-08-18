@@ -402,11 +402,13 @@
     [
      "2026-08-19T00:10:23.403718+09:00",
      "상승 심화로 양극화 원가 상반기 제약바이오 경쟁 성적표 2026년"
+    ],
+    [
+     "2026-08-19T00:15:21.267936+09:00",
+     "반도체 호남 팔아야 철수로 미국에 미군 집회"
     ]
    ],
    "seen_urls": [
-    "https://daily.hankooki.com/news/articleView.html?idxno=1396554",
-    "http://www.inews24.com/view/1995685",
     "https://www.joongangenews.com/news/articleView.html?idxno=540560",
     "https://www.newscj.com/news/articleView.html?idxno=3425909",
     "https://www.joongangenews.com/news/articleView.html?idxno=540575",
@@ -1904,11 +1906,11 @@
     "https://www.junggi.co.kr/news/articleView.html?idxno=37462",
     "https://www.ziksir.com/news/articleView.html?idxno=143468",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4430626",
-    "https://www.pharmnews.com/news/articleView.html?idxno=305673"
+    "https://www.pharmnews.com/news/articleView.html?idxno=305673",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000004136&cp=nv",
+    "https://www.chosun.com/opinion/editorial/2026/08/19/HF43IP4CAJCY3EWELF6GMKULZU/"
    ],
    "seen_titles": [
-    "SK하이닉스노사,오늘대표자교섭…임단협최종타결시도",
-    "코스피'7100탈환'장초반3%↑…코스닥약보합",
     "SK이터닉스주가,8월18일장중59,800원2.57%상승",
     "SK하이닉스노사,임단협'9부능선'…오늘최종담판",
     "SK텔레콤주가,8월18일장중103,800원3.28%상승",
@@ -3406,10 +3408,12 @@
     "반도체클러스터용수'안정적공급체계'구축을",
     "외인'7조원사자'에반등랠리…7000선안착앞두고매물시험대",
     "뉴욕증시,30년물금리상승에'비명'…필리지수5.44%↓",
-    "2026년상반기제약바이오성적표...원가상승·경쟁심화로양극화"
+    "2026년상반기제약바이오성적표...원가상승·경쟁심화로양극화",
+    "“데이터센터전력문제가AI경쟁서핵심…전력인프라에주목하라”",
+    "[사설]“미군철수로호남반도체”집회,그반도체미국에팔아야"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T00:10:23.403718+09:00"
+   "last_run": "2026-08-19T00:15:21.267936+09:00"
   }
  },
  "press_names": {
