@@ -449,9 +449,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608071409011160109367",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608131718181560106141",
-    "https://www.ajunews.com/view/20260818105748842",
     "https://www.dailian.co.kr/news/view/1679340/?sc=Naver",
     "http://www.sisunnews.co.kr/news/articleView.html?idxno=244443",
     "http://www.newstomato.com/ReadNews.aspx?no=1310516&inflow=N",
@@ -1948,12 +1945,12 @@
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=143202",
     "http://www.yonhapnewstv.co.kr/news/MYH20260819072112laW",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4430643",
-    "https://www.g-enews.com/view.php?ud=202608190707002787fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202608190707002787fbbec65dfb_1",
+    "https://m.sports.naver.com/basketball/article/065/0000300877",
+    "https://www.sportschosun.com/baseball/2026-08-19/202608190100108740006905",
+    "https://www.dt.co.kr/article/12078852"
    ],
    "seen_titles": [
-    "[더벨]‘솔리다임IPO키맨’진정훈,북미스팩CEO겸직",
-    "[더벨]SK하이닉스·하이퍼,AIDC주도'윤풍영·정석근키맨'",
-    "국대AI3파전…모티프탈락·LG·SKT·업스테이지진출",
     "'독파모'3강SK텔레콤\"국내AI생태계가활용할결과물만들것\"",
     "美국방부,트럼프'한미훈련축소'지시에\"적극이행노력\"外[오늘의...",
     "모티프,독파모2차평가서탈락…LG·SKT·업스테이지생존",
@@ -3450,10 +3447,13 @@
     "[오늘의글로벌마켓]뉴욕증시,국채금리급등에3대지수일제히하락",
     "[이시각헤드라인]8월19일라이브투데이",
     "[뉴욕마켓브리핑](19일)",
-    "AMD,AI가속기효율4배전망…삼성·SKHBM수혜시험대"
+    "AMD,AI가속기효율4배전망…삼성·SKHBM수혜시험대",
+    "공격력갖춘KT문경은감독\"수비?문정현과한희원에게거는기대가크...",
+    "'1위눈앞'24년만에역대급신인등장,32년전대선배기록마저깨나...",
+    "주가오르니보수도‘잭팟’…대기업임원주식보상3689억"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T07:25:22.558418+09:00"
+   "last_run": "2026-08-19T07:28:53.866278+09:00"
   }
  },
  "press_names": {
