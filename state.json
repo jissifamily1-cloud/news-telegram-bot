@@ -142,11 +142,17 @@
     [
      "2026-08-19T03:50:24.501088+09:00",
      "품귀 웨이퍼 HBM 서버 이유 D램 HBM보다 가격이 진짜"
+    ],
+    [
+     "2026-08-19T04:00:34.405704+09:00",
+     "메모리 만든 전망 반도체 앞지른 폭증 성장 판가가"
+    ],
+    [
+     "2026-08-19T04:00:34.405704+09:00",
+     "실적 훈풍 주가 반도체 밀어올린 너머도"
     ]
    ],
    "seen_urls": [
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=850609",
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257258",
     "https://www.news1.kr/sports/soccer/6261476",
     "https://www.businessplus.kr/news/articleView.html?idxno=115561",
     "http://www.fnnews.com/news/202608181001000822",
@@ -1644,11 +1650,11 @@
     "https://www.goal.com/kr/뉴스/a/blt6772bb2a35236826",
     "https://www.g-enews.com/view.php?ud=202608181718094509fbbec65dfb_1",
     "https://www.ggilbo.com/news/articleView.html?idxno=1175771",
-    "https://www.g-enews.com/view.php?ud=202608181728309744fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202608181728309744fbbec65dfb_1",
+    "https://www.g-enews.com/view.php?ud=202608181731263250fbbec65dfb_1",
+    "https://www.mt.co.kr/stock/2026/08/19/2026081819543887008"
    ],
    "seen_titles": [
-    "[ETF열전]삼성전자19%반등…수익률톱10전부'레버리지'",
-    "[김승중더봄]포도나무는자신이맺은포도를세지않는다",
     "코리아컵16강전,19일개최…ACL출전전북·대전·포항·강원가세",
     "[금융권이모저모]KB자산운용,커버드콜ETF두달연속3%대분배율外",
     "돌아온'7000피'…삼전닉스불붙자7200선도터치[fn오전시황]",
@@ -3146,10 +3152,12 @@
     "또한번'자이언트킬링'나올까…'ACL출전4개팀참가'코리아컵16강...",
     "엔비디아가칩보증액을절반깎고도6000억弗장담한이유",
     "대기업,간판값만으로2조2000억챙겼다...2위LG·1위는?",
-    "HBM發웨이퍼품귀,서버D램가격이HBM보다더뛴진짜이유"
+    "HBM發웨이퍼품귀,서버D램가격이HBM보다더뛴진짜이유",
+    "공식전망앞지른반도체성장…메모리판가가만든폭증",
+    "주가밀어올린실적…반도체너머도훈풍"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T03:55:19.931825+09:00"
+   "last_run": "2026-08-19T04:00:34.405704+09:00"
   }
  },
  "press_names": {
