@@ -1142,11 +1142,13 @@
     [
      "2026-08-18T20:10:24.035033+09:00",
      "동일하이빌 견본주택 방문 파크밸리 4일간 1만여명"
+    ],
+    [
+     "2026-08-18T20:15:20.242172+09:00",
+     "늘어나는 웃었다 팔리자 공장 수혜주 K뷰티 화장품 용기도"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000329119?division=NAVER",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1175767",
     "https://www.hankyung.com/article/2026081862976",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4101184",
     "https://www.namdonews.com/news/articleView.html?idxno=920256",
@@ -2644,11 +2646,11 @@
     "https://m.skyedaily.com/news_view.html?ID=310000",
     "https://www.kyeongin.com/article/1769218",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1534436",
-    "https://www.vegannews.co.kr/news/article.html?no=384793"
+    "https://www.vegannews.co.kr/news/article.html?no=384793",
+    "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260818510&PRO_CODE=99",
+    "http://www.bizwnews.com/news/articleView.html?idxno=143638"
    ],
    "seen_titles": [
-    "[이시각시황]반도체훈풍에코스피7천선돌파…AI·남북경협·해운주...",
-    "SK하이닉스주가,웃음꽃...이유는?",
     "美반도체훈풍에…'28만전자·170만닉스'회복",
     "일부언론대미투자1호'반도체'보도에...산업부\"사실과달라\"",
     "[특징주]주성엔지니어링,반도체랠리올라타6%강세…SK하이닉스發장...",
@@ -4146,10 +4148,12 @@
     "AI데이터센터전력확보전…SK는‘직접구축’,GS는‘유휴설비’",
     "[경인Pick]포천CU‘리퓨얼’1호매장가보니",
     "쇠기둥세워발코니추가붕괴대비…인천시,국토부와공동조사",
-    "동일하이빌파크밸리견본주택4일간1만여명방문"
+    "동일하이빌파크밸리견본주택4일간1만여명방문",
+    "삼성전자,사내익명게시판'실명제전환’...여론결집제약될까",
+    "화장품잘팔리자공장·용기도웃었다…늘어나는K뷰티수혜주"
    ],
    "initialized": true,
-   "last_run": "2026-08-18T20:10:24.035033+09:00"
+   "last_run": "2026-08-18T20:15:20.242172+09:00"
   }
  },
  "press_names": {
