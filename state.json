@@ -237,7 +237,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.namdonews.com/news/articleView.html?idxno=920265",
     "https://www.joongangenews.com/news/articleView.html?idxno=540581",
     "http://www.seouleconews.com/news/articleView.html?idxno=93108",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=857467",
@@ -1736,10 +1735,10 @@
     "https://www.joongang.co.kr/article/25454331",
     "https://www.etoday.co.kr/news/view/2615586",
     "https://www.joongang.co.kr/article/25454329",
-    "https://www.news1.kr/world/international-economy/6262455"
+    "https://www.news1.kr/world/international-economy/6262455",
+    "http://www.fnnews.com/news/202608190520449707"
    ],
    "seen_titles": [
-    "[주식시황]외국인5일째'사자'…코스피,17거래일만에7,100선탈환",
     "SK하이닉스주가,8월18일장중1,753,000원6.57%상승",
     "SK하이닉스,임단협'9부능선'…성과급자사주가막판변수",
     "혜인,상반기영업익58%↑…수익성개선",
@@ -3238,10 +3237,11 @@
     "“간신들때문이야”…尹코피쏟은엑스포대참사전말",
     "용인클러스터에들어갈돈산더미인데…세수나누자는경기도[국가산...",
     "논두렁시계,노무현조서엔없다…SBS흘린‘나쁜빨대’누구",
-    "\"AI촉수,주식넘어채권까지뻗었다\"…JP모건의집중투자경고"
+    "\"AI촉수,주식넘어채권까지뻗었다\"…JP모건의집중투자경고",
+    "[뉴욕증시]고금리충격에사흘째하락…마이크론,7%급락"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T05:20:22.687388+09:00"
+   "last_run": "2026-08-19T05:25:19.524485+09:00"
   }
  },
  "press_names": {
