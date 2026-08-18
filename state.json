@@ -902,10 +902,13 @@
     [
      "2026-08-18T21:35:21.292374+09:00",
      "이전 완료 상업생산 초읽기 송도 준비 내년 롯데바이오"
+    ],
+    [
+     "2026-08-18T21:40:23.032061+09:00",
+     "노동자에 숙소 근린생활시설물 공사장 임대 둔갑"
     ]
    ],
    "seen_urls": [
-    "http://www.seouleconews.com/news/articleView.html?idxno=93107",
     "https://www.gukjenews.com/news/articleView.html?idxno=3666892",
     "https://news.jtbc.co.kr/article/NB12313791?influxDiv=NAVER",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=62984",
@@ -2404,10 +2407,10 @@
     "https://www.hankyung.com/article/2026081880646",
     "https://www.incheonilbo.com/news/articleView.html?idxno=1329842",
     "http://www.econonews.co.kr/news/articleView.html?idxno=442990",
-    "https://www.incheonilbo.com/news/articleView.html?idxno=1329843"
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1329843",
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1329839"
    ],
    "seen_titles": [
-    "靑\"대미투자1호반도체논의보도는사실과달라\"",
     "코스피,반도체투톱강세에7200선돌파…삼성전자·SK하이닉스급등",
     "금융위\"레버리지ETF국조실평가받았다\"…국조실\"아니야\"",
     "최태원SK회장,이혼소송재상고…재산분할'득실'가를핵심변수는...",
@@ -3906,10 +3909,11 @@
     "삼전닉스뛰는데거래량급감…코스피상승뒤숨은'이상신호'",
     "지자체별산업구조제각각…맞춤형지원체계필요",
     "코스피,하락에6900선밑으로떨어져...삼성생명,SK하이닉스상승VS삼...",
-    "롯데바이오,송도이전완료...내년상업생산준비초읽기"
+    "롯데바이오,송도이전완료...내년상업생산준비초읽기",
+    "근린생활시설물,숙소둔갑…공사장노동자에임대"
    ],
    "initialized": true,
-   "last_run": "2026-08-18T21:35:21.292374+09:00"
+   "last_run": "2026-08-18T21:40:23.032061+09:00"
   }
  },
  "press_names": {
