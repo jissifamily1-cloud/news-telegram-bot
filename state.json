@@ -550,14 +550,13 @@
     [
      "2026-08-19T08:15:21.658001+09:00",
      "하락 이어지나 악재에 코스피 추가 반락 6일만"
+    ],
+    [
+     "2026-08-19T08:20:21.488037+09:00",
+     "24조5490억원 월분배 ETF 타고 커버드콜 커졌다 수요"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20080304",
-    "https://www.news1.kr/it-science/cc-newmedia/6261637",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092168328",
-    "https://www.sedaily.com/article/20080311",
-    "http://www.metroseoul.co.kr/article/20260818500187",
     "https://www.sentv.co.kr/article/view/sentv202608180088",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=274950",
     "http://www.inews24.com/view/1995761",
@@ -2052,14 +2051,14 @@
     "https://www.public25.com/news/articleView.html?idxno=52922",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260040&CMPT_CD=P0010",
     "https://www.smarttoday.co.kr/ko-kr/articles/110574",
-    "https://www.yna.co.kr/view/AKR20260819020700008?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260819020700008?input=1195m",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=63032",
+    "https://www.sedaily.com/article/20080665",
+    "https://www.cstimes.com/news/articleView.html?idxno=717171",
+    "https://www.hankyung.com/article/2026081985136",
+    "https://www.tokenpost.kr/news/market/392844"
    ],
    "seen_titles": [
-    "오늘의메모[8월19일]",
-    "모티프3,독파모2차서고배…임정환대표\"아쉽지만…계속노력\"",
-    "'국가대표AI'독파모2차평가…모티프테크놀로지스탈락",
-    "‘벤치마크세계10위’도탈락…LG·SKT·업스테이지독파모최종간다",
-    "넵튠,크래프톤손잡고인도애드테크시장공략…BGMI광고운영맡는...",
     "독파모2차평가서업스테이지·SKT·LG생존…모티프탈락",
     "[이슈분석]최태원'9440억재상고'득일까실일까…법정과증시사이...",
     "독파모3강에LGAI연구원·SKT·업스테이지⋯\"격차미세⋯고성능GPU확...",
@@ -3554,10 +3553,15 @@
     "[코스피·코스닥,SK바이오팜HJ중공업코오롱글로벌아이에이POSCO홀딩...",
     "주병기\"경제적강자,반칙성장못하게해야...시장은규제의집합체...",
     "SK·두산임원들,주식보상대박..박정원회장376억·곽노정사장218억",
-    "[마켓뷰]'6일만반락'코스피,美악재에추가하락이어지나"
+    "[마켓뷰]'6일만반락'코스피,美악재에추가하락이어지나",
+    "[증시전망대]미국채금리·유가동반급등…코스피,6거래일만에반락...",
+    "삼성전자4%·하이닉스6%급락…중동불안·국채금리급등여파[이런국...",
+    "대기업고액연봉자보수중36%가주식보상…SK·두산63%",
+    "美증시반도체쇼크…마이크론7%·하이닉스샌디스크9%↓",
+    "24조5490억원커버드콜ETF,월분배수요타고커졌다"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T08:15:21.658001+09:00"
+   "last_run": "2026-08-19T08:20:21.488037+09:00"
   }
  },
  "press_names": {
