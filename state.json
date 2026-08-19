@@ -442,12 +442,13 @@
     [
      "2026-08-20T07:25:16.320568+09:00",
      "토스증권 이익 해외주식이 대형사급"
+    ],
+    [
+     "2026-08-20T07:30:26.193921+09:00",
+     "독주 쏟는 마이크론 히로시마 청주 13조 흔든다 평택"
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/economy/securities/2026/08/19/20260819500102?wlog_tag3=naver",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2460609",
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=390854",
     "https://www.kukinews.com/article/view/kuk202608190088",
     "https://www.ezyeconomy.com/news/articleView.html?idxno=238851",
     "https://www.gukjenews.com/news/articleView.html?idxno=3668267",
@@ -1944,12 +1945,12 @@
     "http://www.fnnews.com/news/202608200706110402",
     "http://www.inews24.com/view/1996446",
     "https://www.mk.co.kr/article/12131804",
-    "https://news.bizwatch.co.kr/article/market/2026/08/19/0035"
+    "https://news.bizwatch.co.kr/article/market/2026/08/19/0035",
+    "https://www.bntnews.co.kr/article/view/bnt202608200039",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608200232&t=NN",
+    "https://www.g-enews.com/view.php?ud=202608200716363482fbbec65dfb_1"
    ],
    "seen_titles": [
-    "'모두의AI'출사표SKT,풀스택역량앞세워범국민서비스지원",
-    "인공지능시대핵심데이터센터성능관리,GPU에서‘열관리’로체인...",
-    "대미투자1호사업에한국·미국협상난항...반도체요구설에정부는...",
     "IPTV3사,1800만셋톱박스시청데이터푼다",
     "“어제하닉170층구조대왔는데”하루만에-8%급락,파랗게질렸다...",
     "양평군,SK텔레콤동부마케팅팀과업무협약식개최",
@@ -3446,10 +3447,13 @@
     "부천상동·대장에AI·반도체·콘텐츠거점조성",
     "[단독]과기정통부,'벤치맥싱'논란에독파모3차평가보완검토…\"벤...",
     "“삼전닉스안들어간ETF없나요”…요즘많이찾는그룹주따로있다",
-    "[금융투자상반기실적]토스증권,대형사급이익...해외주식이99%"
+    "[금융투자상반기실적]토스증권,대형사급이익...해외주식이99%",
+    "코리아컵결과,8강대진표는",
+    "뉴욕증시사흘하락끝반등…美국채금리급등세진정-[글로벌마감시...",
+    "13조쏟는마이크론히로시마팹,평택·청주독주흔든다"
    ],
    "initialized": true,
-   "last_run": "2026-08-20T07:25:16.320568+09:00"
+   "last_run": "2026-08-20T07:30:26.193921+09:00"
   }
  },
  "press_names": {
