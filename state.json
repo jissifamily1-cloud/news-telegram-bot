@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-19T19:44:29.894367+09:00",
-     "위메이드맥스 게임주 하락 썸에이지"
-    ],
-    [
-     "2026-08-19T19:44:29.894367+09:00",
-     "Investment Project Over First Stall Korea"
-    ],
-    [
-     "2026-08-19T19:44:29.894367+09:00",
-     "화신정공 아틀라스 공급 부품 휴머노이드 로봇 기대감에"
-    ],
-    [
      "2026-08-19T19:50:25.413070+09:00",
      "이랜드 영입 홍석준 프로축구 대체자로 변경준"
     ],
@@ -290,10 +278,13 @@
     [
      "2026-08-20T01:30:31.690880+09:00",
      "잇단 김정관 못해 지연 대미투자 동의 러트닉과 면담"
+    ],
+    [
+     "2026-08-20T01:45:21.875034+09:00",
+     "유통사업단 개척 소농 고령농 앞장 영암군 판로 농부남생이"
     ]
    ],
    "seen_urls": [
-    "https://www.nextdaily.co.kr/news/articleView.html?idxno=252273",
     "https://www.businesspost.co.kr/BP?command=article_view&num=445049",
     "http://www.newsian.co.kr/news/articleView.html?idxno=93910",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7179570",
@@ -1792,10 +1783,10 @@
     "https://www.chosun.com/economy/tech_it/2026/08/20/TFIL2MMRLJFQROFOOQIY7T6IEE/",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000057812",
     "https://www.greened.kr/news/articleView.html?idxno=348019",
-    "https://www.seoul.co.kr/news/economy/2026/08/20/20260820500004?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/economy/2026/08/20/20260820500004?wlog_tag3=naver",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000057868"
    ],
    "seen_titles": [
-    "\"국민AI주권잡는다\"…통신3사·카카오'모두의AI'사업참여",
     "대기업주식보상82%전문경영인에게…상위5명모두SK",
     "또변동성확대?단기차익실현?…미국채금리급등에코스피출렁",
     "SKT,'모두의AI'사업공모참여…20개전문기업·기관컨소시엄구성",
@@ -3294,10 +3285,11 @@
     "세금지원하는‘국대AI’선발…정부는왜순위공개하지않나",
     "신안군·서왕진의원,해상풍력정책간담회",
     "하이닉스10%폭락하자'40조자사주'…美상장주3%↑,오늘150만원지킬...",
-    "김정관,러트닉과잇단면담…“대미투자지연?동의못해”"
+    "김정관,러트닉과잇단면담…“대미투자지연?동의못해”",
+    "영암군농부남생이유통사업단,소농·고령농판로개척'앞장'"
    ],
    "initialized": true,
-   "last_run": "2026-08-20T01:40:23.422619+09:00"
+   "last_run": "2026-08-20T01:45:21.875034+09:00"
   }
  },
  "press_names": {
