@@ -313,7 +313,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260819075800008?input=1195m",
     "https://www.sisajournal.com/news/articleView.html?idxno=383974",
     "https://weeklytrade.co.kr/news/view.html?section=1&category=136&no=101082",
     "https://www.tokenpost.kr/news/breaking/393034",
@@ -1812,10 +1811,10 @@
     "https://www.etoday.co.kr/news/view/2616011",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000004599&cp=nv",
     "https://www.enetnews.co.kr/news/articleView.html?idxno=53519",
-    "http://www.fnnews.com/news/202608200202278608"
+    "http://www.fnnews.com/news/202608200202278608",
+    "https://www.mediapen.com/news/view/1117528"
    ],
    "seen_titles": [
-    "SK쉴더스,‘비인간주체’보안강화…AI거버넌스·컨설팅확대",
     "단일레버리지'신규개미',5시간모의거래해야매매가능",
     "SKT·카카오·KT맞붙는다…'모두의AI'경쟁본격화",
     "업비트·빗썸보유코인가치'뚝'…고객보유량은증가",
@@ -3314,10 +3313,11 @@
     "美ㆍ日국채금리폭등에엇갈린증시전망⋯“제2트러스쇼크우려”...",
     "[영상]코스피5.8%급락…여전히반도체좋게보는이유는",
     "[이넷뉴스브랜드평판]한국전력,태양광에너지상장기업8월1위...한화...",
-    "\"한주에160만원은부담\"…40조태운SK하이닉스,다음카드는'액면분..."
+    "\"한주에160만원은부담\"…40조태운SK하이닉스,다음카드는'액면분...",
+    "[美증시]국채금리하락·모더나대폭등에3대지수상승…반도체는조..."
    ],
    "initialized": true,
-   "last_run": "2026-08-20T06:15:21.922595+09:00"
+   "last_run": "2026-08-20T06:20:21.560897+09:00"
   }
  },
  "press_names": {
