@@ -1278,12 +1278,13 @@
     [
      "2026-08-19T19:44:29.894367+09:00",
      "화신정공 아틀라스 공급 부품 휴머노이드 로봇 기대감에"
+    ],
+    [
+     "2026-08-19T19:50:25.413070+09:00",
+     "이랜드 영입 홍석준 프로축구 대체자로 변경준"
     ]
    ],
    "seen_urls": [
-    "https://www.imaeil.com/page/view/2026081909421874719",
-    "https://www.delighti.co.kr/news/articleView.html?idxno=120387",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8640225",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=363811",
     "https://www.lawtimes.co.kr/news/articleView.html?idxno=225038",
     "http://www.newskr.kr/news/articleView.html?idxno=105709",
@@ -2780,12 +2781,12 @@
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260820.22009005334",
     "https://www.nspna.com/news/?newsid=824825",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=275089",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1176339"
+    "https://www.ggilbo.com/news/articleView.html?idxno=1176339",
+    "https://view.asiae.co.kr/article/2026081919444858308",
+    "https://www.ytn.co.kr/_ln/0134_202608191935297648",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=858000"
    ],
    "seen_titles": [
-    "LG유플러스·연세대,AI-RAN전환기술검증…6G대비속도",
-    "25만전자붕괴·SK하이닉스9%↓…소부장은‘역주행’칩칩폭폭",
-    "TopFiveFirmsAccountforHalfofSouthKorea'sExports",
     "\"반도체주다시시장이끈다…바벨전략펼쳐야\"",
     "지주사랠리서소외된CJ…커지는외형,수익성회복'과제'",
     "SK쉴더스,AI에이전트확산에'제로트러스트'보안서비스강화",
@@ -4282,10 +4283,13 @@
     "글로벌국채금리급등…코스피6400대‘폭삭’",
     "[업앤다운]게임주하락…위메이드맥스↑·썸에이지↓",
     "Korea,U.S.StallOverFirstInvestmentProject",
-    "[주식마감]휴머노이드로봇'아틀라스'부품공급기대감에화신정공..."
+    "[주식마감]휴머노이드로봇'아틀라스'부품공급기대감에화신정공...",
+    "'장애인과비장애인이하나가된다'…SK텔레콤어댑티브오픈",
+    "SK하이닉스'역대급'40조자사주소각...이제증시반등할까[몇층이세...",
+    "프로축구이랜드,변경준대체자로홍석준영입"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T19:45:19.911400+09:00"
+   "last_run": "2026-08-19T19:50:25.413070+09:00"
   }
  },
  "press_names": {
