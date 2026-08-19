@@ -209,7 +209,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.newsian.co.kr/news/articleView.html?idxno=93910",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7179570",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000004279&cp=nv",
     "https://news.dealsitetv.com/articles/174906",
@@ -1708,10 +1707,10 @@
     "https://www.greened.kr/news/articleView.html?idxno=348019",
     "https://www.seoul.co.kr/news/economy/2026/08/20/20260820500004?wlog_tag3=naver",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000057868",
-    "https://www.goodkyung.com/news/articleView.html?idxno=290427"
+    "https://www.goodkyung.com/news/articleView.html?idxno=290427",
+    "http://www.fnnews.com/news/202608200238448174"
    ],
    "seen_titles": [
-    "또변동성확대?단기차익실현?…미국채금리급등에코스피출렁",
     "SKT,'모두의AI'사업공모참여…20개전문기업·기관컨소시엄구성",
     "에피소드미디어,JDB엔터테인먼트와협업...예능콘텐츠'환골탈태프로...",
     "SK쉴더스AI에이전트보안시장공략,제로트러스트기반컨설팅확대",
@@ -3210,10 +3209,11 @@
     "하이닉스10%폭락하자'40조자사주'…美상장주3%↑,오늘150만원지킬...",
     "김정관,러트닉과잇단면담…“대미투자지연?동의못해”",
     "영암군농부남생이유통사업단,소농·고령농판로개척'앞장'",
-    "SK하이닉스,40조원자사주취득·소각…역대최대자사주소각"
+    "SK하이닉스,40조원자사주취득·소각…역대최대자사주소각",
+    "미재무부시장개입에금융시장훈풍...국채수익률하락,증시반등"
    ],
    "initialized": true,
-   "last_run": "2026-08-20T02:55:19.454403+09:00"
+   "last_run": "2026-08-20T03:00:34.589123+09:00"
   }
  },
  "press_names": {
