@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-19T23:45:24.840368+09:00",
-     "돌아온 인프라 여주시장 희생 이충우 남한강 전력 내줘도 용수"
-    ],
-    [
      "2026-08-19T23:50:25.956628+09:00",
      "자율주행 혁신의 바이두 심장 전진기지 아폴로 파크"
     ],
@@ -234,10 +230,13 @@
     [
      "2026-08-20T05:40:23.482381+09:00",
      "마벨 급등 상승 메모리주 미국증시 반도체주 SK하이닉스"
+    ],
+    [
+     "2026-08-20T05:50:22.109075+09:00",
+     "마이크론 필라델피아반도체지수 이틀 조정받 반도체주"
     ]
    ],
    "seen_urls": [
-    "http://www.newsworker.co.kr/news/articleView.html?idxno=441697",
     "https://www.energy-news.co.kr/news/articleView.html?idxno=227517",
     "https://www.news2day.co.kr/article/20260819500148",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=270916",
@@ -1736,10 +1735,10 @@
     "https://www.moneystorm.kr/news/articleView.html?idxno=5830",
     "https://www.mt.co.kr/stock/2026/08/20/2026081918452174148",
     "https://www.dailymedi.com/news/news_view.php?wr_id=939604",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=170129"
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=170129",
+    "http://www.beyondpost.co.kr/view.php?ud=202608200539356412aaae0046f_30"
    ],
    "seen_titles": [
-    "신안군,8.2GW해상풍력속도…전력망확충국회지원요청",
     "용인반도체송전망따라걸었다...거제의폭우가던진질문",
     "김종훈진보당대표“현장누비며불평등문제대안찾을것”[인터뷰...",
     "8·13공급대책발표에도입주까지시차…기분양단지로눈돌리는수요",
@@ -3238,10 +3237,11 @@
     "[뉴욕증시마감시황]재무부바이백에장기금리급락…미증시상승,나...",
     "\"290층구조대갑니다\"....순현금2배불린SK하닉,화끈한주주환원",
     "SK바이오팜,美특허소송관련합의도출…재판종결",
-    "미국증시반도체주?..마벨'급등',SK하이닉스'상승',메모리주'뚝'"
+    "미국증시반도체주?..마벨'급등',SK하이닉스'상승',메모리주'뚝'",
+    "필라델피아반도체지수2%,마이크론0.4%↓...반도체주,이틀째조정받..."
    ],
    "initialized": true,
-   "last_run": "2026-08-20T05:45:19.953083+09:00"
+   "last_run": "2026-08-20T05:50:22.109075+09:00"
   }
  },
  "press_names": {
