@@ -534,12 +534,17 @@
     [
      "2026-08-20T08:05:17.862580+09:00",
      "시간외 마이크론 상승탄력 하닉 거래서 ADR과"
+    ],
+    [
+     "2026-08-20T08:10:22.878706+09:00",
+     "SK하이닉스 코스피 코스닥 하나금융지주 카카 삼성화재 대우건설 JTC"
+    ],
+    [
+     "2026-08-20T08:10:22.878706+09:00",
+     "판결 크게 늘어 퇴직비용 대법 왠만한 삼성전자 하나"
     ]
    ],
    "seen_urls": [
-    "http://www.4th.kr/news/articleView.html?idxno=2116548",
-    "https://news.jtbc.co.kr/article/NB12314017?influxDiv=NAVER",
-    "https://en.yna.co.kr/view/AEN20260819004600320?input=2106m",
     "https://biz.sbs.co.kr/article_hub/20000329459?division=NAVER",
     "https://www.nocutnews.co.kr/news/6564728",
     "https://www.munhwa.com/article/11610441",
@@ -2036,12 +2041,12 @@
     "https://www.insightkorea.co.kr/news/articleView.html?idxno=252771",
     "https://www.yna.co.kr/view/AKR20260820017100011?input=1195m",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2460980",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=52247"
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=52247",
+    "https://www.etoday.co.kr/news/view/2616166",
+    "https://www.public25.com/news/articleView.html?idxno=52989",
+    "https://biz.heraldcorp.com/article/10846063"
    ],
    "seen_titles": [
-    "SKT·Kakaoenterthe'AIforAll'contest",
-    "고금리발목잡힌코스피5%하락…개인,저가매수세에6500사수[장중시...",
-    "로앤컴퍼니참여업스테이지컨소시엄,'독자AI모델'3차진출",
     "반도체호조에2분기충북광공업생산28%↑…물가전지역상승",
     "삼전·닉스빼도코스피상장사순익급증..상반기120%↑",
     "'AI버블'전망부터'금리의역설'까지…삼전닉스개미들에섬뜩한경고",
@@ -3538,10 +3543,13 @@
     "SKhynix劳资接近达成薪资协议，HBM红利分配成试金石",
     "[전국주요신문톱뉴스](20일조간)",
     "임단협막판진통···산업계'가을투쟁'전운고조",
-    "하닉ADR과마이크론시간외거래서상승탄력"
+    "하닉ADR과마이크론시간외거래서상승탄력",
+    "[증시키워드]SK하이닉스‘40조자사주소각’승부수…삼성전자급락...",
+    "[코스피·코스닥,SK하이닉스대우건설삼성화재하나금융지주JTC카카...",
+    "“왠만한M&A하나값”삼성전자,대법판결후퇴직비용크게늘어…..."
    ],
    "initialized": true,
-   "last_run": "2026-08-20T08:05:17.862580+09:00"
+   "last_run": "2026-08-20T08:10:22.878706+09:00"
   }
  },
  "press_names": {
