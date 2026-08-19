@@ -1130,13 +1130,13 @@
     [
      "2026-08-19T14:05:19.293705+09:00",
      "아파트 언제 지을 얼마나 있는데 용산 그래서"
+    ],
+    [
+     "2026-08-19T14:10:24.004830+09:00",
+     "끌고 종투사 IB가 우리투자증권 체급 비이자가 밀었다"
     ]
    ],
    "seen_urls": [
-    "https://news.skbroadband.com/news/articleView.html?idxno=235265",
-    "https://www.xportsnews.com/article/2184882",
-    "https://biz.chosun.com/it-science/ict/2026/08/18/VJ244GWL2RAXTM27VELKT2CJSU/",
-    "https://www.news1.kr/it-science/internet-platform/6262162",
     "https://www.ceoscoredaily.com/page/view/2026081817105759905",
     "https://www.businesspost.co.kr/BP?command=article_view&num=445005",
     "http://www.dailypop.kr/news/articleView.html?idxno=101650",
@@ -2632,13 +2632,13 @@
     "https://www.globale.co.kr/news/articleView.html?idxno=39942",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=726429",
     "https://www.daejonilbo.com/news/articleView.html?idxno=2295374",
-    "https://www.theguru.co.kr/news/article.html?no=105920"
+    "https://www.theguru.co.kr/news/article.html?no=105920",
+    "https://www.globale.co.kr/news/articleView.html?idxno=39943",
+    "http://www.popcornnews.net/news/articleView.html?idxno=130143",
+    "https://www.joongangenews.com/news/articleView.html?idxno=541046",
+    "https://www.goodkyung.com/news/articleView.html?idxno=290404"
    ],
    "seen_titles": [
-    "[오늘의키워드]'결정의무게'｜8월18일Btv전주뉴스",
-    "유럽의왕캡스',서양선수최초'LoL홀오브레전드'헌액\"모범되는...",
-    "통신·AI기업‘모두의AI’출사표…네이버는불참",
-    "성능평가1위'모티프',독파모탈락이유는?…\"사용성·활용성\"",
     "SKT·KT·LGU+·카카오,‘모두의AI’자웅겨룬다…네이버는불참",
     "'모두의AI'사업에카카오·SK텔레콤·KT·LG유플러스참여,8월사업자...",
     "LGAI연구원,'K-엑사원'독파모3차진출...초대형모델로경쟁력확대",
@@ -4134,10 +4134,14 @@
     "'순살테라스'송도아파트,다른층도'기울어짐'···입주민공포",
     "1400원벽깬원/달러…1300원대안착,한·미통화정책에달렸다",
     "충남중기청,오픈이노베이션밋업…대·중견기업등12곳참여",
-    "[머니웨이브]그래서용산아파트,언제얼마나지을수있는데?"
+    "[머니웨이브]그래서용산아파트,언제얼마나지을수있는데?",
+    "\"영업이익연동성과급은배임\"경찰,삼성·SK경영진고발인조사",
+    "한국투자증권,ELW상품군확대…271종목추가",
+    "코스피상장사영업익388조'역대최대'…삼전닉스가63%차지",
+    "[심층분석]IB가끌고비이자가밀었다…우리투자증권,'종투사체급'키..."
    ],
    "initialized": true,
-   "last_run": "2026-08-19T14:05:19.293705+09:00"
+   "last_run": "2026-08-19T14:10:24.004830+09:00"
   }
  },
  "press_names": {
