@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-19T06:20:20.929592+09:00",
-     "나스닥 뉴욕증시 급등 고유가에 국채금리 하락"
-    ],
-    [
      "2026-08-19T06:25:18.975578+09:00",
      "매출 기업 낸드플래시 5대 삼성 급증 1위"
     ],
@@ -1142,13 +1138,17 @@
     [
      "2026-08-19T12:15:21.886096+09:00",
      "논란에도 한마디 초과이익 배분 나오 반도체"
+    ],
+    [
+     "2026-08-19T12:20:21.001132+09:00",
+     "정관장 챔프전 목표 소노 소준혁의 이적생 우승에 도움이 되고파"
+    ],
+    [
+     "2026-08-19T12:20:21.001132+09:00",
+     "컨소시엄까지 본격화 통신3사 대전 풀스택부터"
     ]
    ],
    "seen_urls": [
-    "https://www.joongang.co.kr/article/25454179",
-    "https://www.ppss.kr/news/articleView.html?idxno=306008",
-    "https://www.gokorea.kr/news/articleView.html?idxno=875454",
-    "http://www.thevaluenews.co.kr/news/view.php?idx=200514",
     "https://www.namdonews.com/news/articleView.html?idxno=920276",
     "https://www.gokorea.kr/news/articleView.html?idxno=875439",
     "https://www.namdonews.com/news/articleView.html?idxno=920274",
@@ -2644,13 +2644,13 @@
     "https://www.etnews.com/20260819000173",
     "https://www.munhwa.com/article/11610447",
     "https://www.ekn.kr/web/view.php?key=20260819025124057",
-    "http://www.srtimes.kr/news/articleView.html?idxno=210345"
+    "http://www.srtimes.kr/news/articleView.html?idxno=210345",
+    "https://www.pointe.co.kr/news/articleView.html?idxno=83452",
+    "https://www.asiatime.co.kr/article/20260819500193",
+    "http://www.rookie.co.kr/news/articleView.html?idxno=126130",
+    "https://www.pressman.kr/news/articleView.html?idxno=103242"
    ],
    "seen_titles": [
-    "7200찍고6800선후퇴…유가·금리상승에코스피발목",
-    "美상원,애플에中메모리사용금지요구...SK하이닉스투자도거론",
-    "정부,AI벤치마크평가'과적합우려'해결…신뢰성확보",
-    "[CEO탐구]93.손연호경동나비엔회장,매출1.5조·1Q영업익62%↑…'3...",
     "[여의도칼럼]호남반도체대전환,이제실행이답이다",
     "삼성전자주가급락…시장의불안요인은무엇인가",
     "[AI·반도체알기②]HBM,AI두뇌돕는'초고속작업대'",
@@ -4146,10 +4146,14 @@
     "'AI에이전트와웹3의교차점'…포스텍,딥테크리더양성으로산업재...",
     "코스피와르르…장중‘25만전자·154만닉스’깨져",
     "바이오株기지개켜지만…“아무거나사면물린다”",
-    "[금융권횡제세①]반도체'초과이익배분'논란에도말한마디안나오..."
+    "[금융권횡제세①]반도체'초과이익배분'논란에도말한마디안나오...",
+    "한국투자증권,ELW271종목신규상장…지수·종목형다양화",
+    "코스피,상반기영업익3배·순익4배폭증…삼성·SK빼도실적개선",
+    "'정관장→소노'이적생소준혁의목표\"챔프전우승에도움이되고파\"",
+    "풀스택부터컨소시엄까지…통신3사AI대전본격화"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T12:15:21.886096+09:00"
+   "last_run": "2026-08-19T12:20:21.001132+09:00"
   }
  },
  "press_names": {
