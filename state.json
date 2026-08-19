@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-19T07:55:23.316504+09:00",
-     "에도 거래대금 증시 반등 시도 최저수준 거래량 7천피 연중"
-    ],
-    [
      "2026-08-19T08:00:33.923161+09:00",
      "북미사업 확대에 백종원 더본코리아 급등"
     ],
@@ -1150,17 +1146,21 @@
     [
      "2026-08-19T13:55:17.284271+09:00",
      "고려해야 레버리지 줄면 배율 단일종목 조정 거래대금"
+    ],
+    [
+     "2026-08-19T14:00:31.704144+09:00",
+     "논란 29조원 검증 에치드 평가에도 성능"
+    ],
+    [
+     "2026-08-19T14:00:31.704144+09:00",
+     "경영진 삼성 고발 경찰 배임 주주단체 성과급은 연동 영업이익"
+    ],
+    [
+     "2026-08-19T14:00:31.704144+09:00",
+     "던킨 도넛의 진행형 할인잔치는"
     ]
    ],
    "seen_urls": [
-    "http://www.newsmaker.or.kr/news/articleView.html?idxno=180888",
-    "https://futurechosun.com/?p=157838",
-    "http://www.e2news.com/news/articleView.html?idxno=333319",
-    "https://www.smartbizn.com/news/articleView.html?idxno=151493",
-    "http://www.whosaeng.com/172918",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=423148",
-    "https://www.bizwork.co.kr/news/articleView.html?idxno=418294",
-    "https://sateconomy.co.kr/news/view/1065597972904414",
     "https://view.asiae.co.kr/article/2026081817163225536",
     "https://www.namdonews.com/news/articleView.html?idxno=920342",
     "https://www.youthdaily.co.kr/news/article.html?no=225286",
@@ -2652,17 +2652,17 @@
     "https://www.joongangenews.com/news/articleView.html?idxno=541035",
     "https://www.koreatimes.co.kr/path/A2026081910500002849",
     "http://www.bizwnews.com/news/articleView.html?idxno=143702",
-    "https://www.dt.co.kr/article/12078952"
+    "https://www.dt.co.kr/article/12078952",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285223",
+    "http://www.metroseoul.co.kr/article/20260819500222",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=363827",
+    "https://www.lecturernews.com/news/articleView.html?idxno=208919",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4430778",
+    "https://www.tokenpost.kr/news/cryptocurrency/393099",
+    "https://www.joongangenews.com/news/articleView.html?idxno=541039",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052749"
    ],
    "seen_titles": [
-    "8월둘째주국내ETF시장,반도체레버리지강세",
-    "또시작된‘롤러코스피’?...6거래일만에하락마감",
-    "호남반도체산단,송전망보강하면새발전소불필요",
-    "경기남부집값상승세어디까지···동탄구올해아파트값15.99%↑",
-    "글로벌오픈이노베이션위크-바이오헬스컨퍼런스개최",
-    "주식2종목채권혼합ETF봇물···퇴직연금안전자산'30%룰우회'논란",
-    "반도체벨트집값'고공행진'…경기남부신규분양잇따라",
-    "R&D149억·광고확대…SK인텔릭스,'AI웰니스'성장군불",
     "\"호남반도체팹6.3GW전력수요,신규발전소없이도공급가능\"",
     "김민석,취임첫날靑강훈식과포옹…'당청안정'강조",
     "코스피,6거래일만에하락…유가·금리상승에6,800대로'후퇴'",
@@ -4154,10 +4154,18 @@
     "한국투자증권,ELW271종신규상장...삼전닉스포함",
     "SKTjoinsgovernment's'AIforAll'initiativetoexpandpublicaccess",
     "한투운용,'한투스테이션'라이브세미나연다",
-    "거래대금90%줄면끝?“단일종목레버리지배율조정고려해야”"
+    "거래대금90%줄면끝?“단일종목레버리지배율조정고려해야”",
+    "양평군,SK텔레콤과디지털취약계층지원맞손",
+    "SK바이오팜,'세노바메이트'美소송첫합의...\"특허방어강화\"",
+    "한투운용,19일K전략산업투자라이브세미나...이벤트진행",
+    "[코스피‧코스닥지수]코스피상장사상반기'역대급실적'…반도체쌍...",
+    "크레딧'큰손'SK하이닉스빠졌지만…\"가격메리트가공백메웠다\"",
+    "에치드29조원평가에도성능검증논란",
+    "\"영업이익연동성과급은배임\"…주주단체삼성·SK경영진고발,경찰...",
+    "던킨도넛의할인잔치는'진행형'"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T13:55:17.284271+09:00"
+   "last_run": "2026-08-19T14:00:31.704144+09:00"
   }
  },
  "press_names": {
