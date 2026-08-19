@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-20T00:10:25.970449+09:00",
-     "다졌 내실 영업이익률 상반기 양적 넘어 제약바이오 성장 돌파"
-    ],
-    [
-     "2026-08-20T00:10:25.970449+09:00",
-     "식지 거래액 열풍 서학개미 않는 레버리지 차지"
-    ],
-    [
      "2026-08-20T00:35:20.012547+09:00",
      "흐지부지되나 성과급 주총서 견제"
     ],
@@ -310,13 +302,17 @@
     [
      "2026-08-20T06:10:24.144959+09:00",
      "꺾였다 끝없이 없어 PER 삼전닉스 전망 싸다할 오르던 4배 실적"
+    ],
+    [
+     "2026-08-20T06:15:21.922595+09:00",
+     "1위 한국전력 8월 한화 상장기업 태양광에너지"
+    ],
+    [
+     "2026-08-20T06:15:21.922595+09:00",
+     "SK하이닉스 카드는 주에 160만원은 부담 액면분 태운 다음 40조"
     ]
    ],
    "seen_urls": [
-    "https://www.mydaily.co.kr/page/view/2026081910413084075",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=93913",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=309196",
-    "https://www.safetimes.co.kr/news/articleView.html?idxno=244991",
     "https://www.yna.co.kr/view/AKR20260819075800008?input=1195m",
     "https://www.sisajournal.com/news/articleView.html?idxno=383974",
     "https://weeklytrade.co.kr/news/view.html?section=1&category=136&no=101082",
@@ -1812,13 +1808,13 @@
     "https://www.mt.co.kr/opinion/2026/08/20/2026081820521093593",
     "https://www.newsis.com/view/NISX20260819_0003754709",
     "https://www.lecturernews.com/news/articleView.html?idxno=208954",
-    "https://www.news1.kr/finance/general-stock/6263572"
+    "https://www.news1.kr/finance/general-stock/6263572",
+    "https://www.etoday.co.kr/news/view/2616011",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000004599&cp=nv",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=53519",
+    "http://www.fnnews.com/news/202608200202278608"
    ],
    "seen_titles": [
-    "미국채금리발작…순항하던반도체株폭락신호",
-    "AI시대'혁신학'으로승부…인스콜라리,글로벌리더가주목한교육과...",
-    "KT,국산반도체·AI모델결합'엔피유LLM스테이션'···소버린확보",
-    "저는아직삼십대청년입니다만,명퇴자네요",
     "SK쉴더스,‘비인간주체’보안강화…AI거버넌스·컨설팅확대",
     "단일레버리지'신규개미',5시간모의거래해야매매가능",
     "SKT·카카오·KT맞붙는다…'모두의AI'경쟁본격화",
@@ -3314,10 +3310,14 @@
     "반도체'골든프라이스'전략으로",
     "최대300조주주환원?삼전·닉스에다시몰리는'빚투'",
     "다큐인사이트,'반도체머니돈의궤적'반도체가만든부의명암조명",
-    "끝없이오르던'삼전닉스'실적전망꺾였다…\"PER4배싸다할수없어\""
+    "끝없이오르던'삼전닉스'실적전망꺾였다…\"PER4배싸다할수없어\"",
+    "美ㆍ日국채금리폭등에엇갈린증시전망⋯“제2트러스쇼크우려”...",
+    "[영상]코스피5.8%급락…여전히반도체좋게보는이유는",
+    "[이넷뉴스브랜드평판]한국전력,태양광에너지상장기업8월1위...한화...",
+    "\"한주에160만원은부담\"…40조태운SK하이닉스,다음카드는'액면분..."
    ],
    "initialized": true,
-   "last_run": "2026-08-20T06:10:24.144959+09:00"
+   "last_run": "2026-08-20T06:15:21.922595+09:00"
   }
  },
  "press_names": {
