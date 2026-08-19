@@ -542,11 +542,13 @@
     [
      "2026-08-20T08:10:22.878706+09:00",
      "판결 크게 늘어 퇴직비용 대법 왠만한 삼성전자 하나"
+    ],
+    [
+     "2026-08-20T08:12:30.560215+09:00",
+     "연봉킹"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000329459?division=NAVER",
-    "https://www.nocutnews.co.kr/news/6564728",
     "https://www.munhwa.com/article/11610441",
     "https://www.tokenpost.kr/news/market/393074",
     "https://www.inthenews.co.kr/news/article.html?no=90671",
@@ -2044,11 +2046,11 @@
     "https://www.koreareport.co.kr/news/articleView.html?idxno=52247",
     "https://www.etoday.co.kr/news/view/2616166",
     "https://www.public25.com/news/articleView.html?idxno=52989",
-    "https://biz.heraldcorp.com/article/10846063"
+    "https://biz.heraldcorp.com/article/10846063",
+    "https://www.cstimes.com/news/articleView.html?idxno=717278",
+    "https://news.tvchosun.com/site/data/html_dir/2026/08/20/2026082090030.html"
    ],
    "seen_titles": [
-    "반도체호조에2분기충북광공업생산28%↑…물가전지역상승",
-    "삼전·닉스빼도코스피상장사순익급증..상반기120%↑",
     "'AI버블'전망부터'금리의역설'까지…삼전닉스개미들에섬뜩한경고",
     "Listedfirms'profitssoarinH1,drivenbyAI-ledsemiconductorboom",
     "반도체에엇갈린지역경제…충북광공업생산28%↑",
@@ -3546,10 +3548,12 @@
     "하닉ADR과마이크론시간외거래서상승탄력",
     "[증시키워드]SK하이닉스‘40조자사주소각’승부수…삼성전자급락...",
     "[코스피·코스닥,SK하이닉스대우건설삼성화재하나금융지주JTC카카...",
-    "“왠만한M&A하나값”삼성전자,대법판결후퇴직비용크게늘어…..."
+    "“왠만한M&A하나값”삼성전자,대법판결후퇴직비용크게늘어…...",
+    "'모두의AI'6파전…카카오'카톡'·SKT'풀스택'·KT'AI연합'",
+    "[키워드NOW]연봉킹"
    ],
    "initialized": true,
-   "last_run": "2026-08-20T08:10:22.878706+09:00"
+   "last_run": "2026-08-20T08:12:30.560215+09:00"
   }
  },
  "press_names": {
