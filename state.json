@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-19T19:30:31.427856+09:00",
-     "교섭장에 원청은 자동차가 5달째 이틀 없다 멈춘다"
-    ],
-    [
-     "2026-08-19T19:30:31.427856+09:00",
-     "유병훈 경쟁 메시지 보내는 선발진에게 그들이 감독이"
-    ],
-    [
      "2026-08-19T19:35:16.597724+09:00",
      "Through Lithium Ronbay Expands to POSCO China Partne Push Sales"
     ],
@@ -302,10 +294,13 @@
     [
      "2026-08-20T00:55:18.378858+09:00",
      "150만원 상장주 40조 폭락하자 하이닉스 지킬 자사주"
+    ],
+    [
+     "2026-08-20T01:30:31.690880+09:00",
+     "잇단 김정관 못해 지연 대미투자 동의 러트닉과 면담"
     ]
    ],
    "seen_urls": [
-    "https://www.newspost.kr/news/articleView.html?idxno=225014",
     "https://www.nextdaily.co.kr/news/articleView.html?idxno=252273",
     "https://www.businesspost.co.kr/BP?command=article_view&num=445049",
     "http://www.newsian.co.kr/news/articleView.html?idxno=93910",
@@ -1804,10 +1799,10 @@
     "https://www.chosun.com/economy/stock-finance/2026/08/20/MW6HKPGG7BFD3KDFAOLI5BT5BY/",
     "https://www.chosun.com/economy/tech_it/2026/08/20/TFIL2MMRLJFQROFOOQIY7T6IEE/",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000057812",
-    "https://www.greened.kr/news/articleView.html?idxno=348019"
+    "https://www.greened.kr/news/articleView.html?idxno=348019",
+    "https://www.seoul.co.kr/news/economy/2026/08/20/20260820500004?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "대기업고액연봉자보수중36%는주식…SK·두산이63%차지",
     "\"국민AI주권잡는다\"…통신3사·카카오'모두의AI'사업참여",
     "대기업주식보상82%전문경영인에게…상위5명모두SK",
     "또변동성확대?단기차익실현?…미국채금리급등에코스피출렁",
@@ -3306,10 +3301,11 @@
     "삼전닉스외상반기코스피상장사영업익75%증가",
     "세금지원하는‘국대AI’선발…정부는왜순위공개하지않나",
     "신안군·서왕진의원,해상풍력정책간담회",
-    "하이닉스10%폭락하자'40조자사주'…美상장주3%↑,오늘150만원지킬..."
+    "하이닉스10%폭락하자'40조자사주'…美상장주3%↑,오늘150만원지킬...",
+    "김정관,러트닉과잇단면담…“대미투자지연?동의못해”"
    ],
    "initialized": true,
-   "last_run": "2026-08-20T01:25:21.307274+09:00"
+   "last_run": "2026-08-20T01:30:31.690880+09:00"
   }
  },
  "press_names": {
