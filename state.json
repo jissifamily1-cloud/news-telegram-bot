@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-19T14:35:17.842890+09:00",
-     "달러 400원선 작년 네고 아래로 최저 출회 9월29일 숏베팅"
-    ],
-    [
-     "2026-08-19T14:35:17.842890+09:00",
-     "SK하이닉스에 기술유출까 잘나가자 특허공세 소송부터 삼성 HBM"
-    ],
-    [
      "2026-08-19T14:40:20.582005+09:00",
      "tv 상영 28회 서울국제여성영화제 특집관 SIWFF 브로드밴드"
     ],
@@ -1237,8 +1229,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10845031",
-    "https://www.nextdaily.co.kr/news/articleView.html?idxno=252267",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=857805",
     "https://www.e-science.co.kr/news/articleView.html?idxno=133738",
     "http://www.4th.kr/news/articleView.html?idxno=2116544",
@@ -2736,11 +2726,11 @@
     "http://coinreaders.com/253548",
     "http://www.cctimes.kr/news/articleView.html?idxno=922564",
     "http://www.cctimes.kr/news/articleView.html?idxno=922565",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260819202537rrz"
+    "http://www.yonhapnewstv.co.kr/news/MYH20260819202537rrz",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712374&plink=ORI&cooper=NAVER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712373&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "동일토건,'용인반도체클러스터동일하이빌파크밸리'분양",
-    "SK매직·코웨이'MEGAICEFESTA'진행·'S인덕션'출시",
     "코스피5∼6%대급락…삼성전자·SK하이닉스동반약세",
     "[개장시황]코스피,외국인·기관'동반매도'에6,400선으로급락…사...",
     "AI도검증하는시대…SK쉴더스,제로트러스트기반보안강화",
@@ -4238,10 +4228,12 @@
     "美증시,국채금리19년최고찍고후퇴...반도체·연준에시선집중",
     "SK하이닉스40조자사주매입∙소각",
     "반도체의힘…충북생산27.8%`쑥'",
-    "'삼전닉스레버리지'후폭풍?…'5일간모의거래'의무화[뉴스더보기]"
+    "'삼전닉스레버리지'후폭풍?…'5일간모의거래'의무화[뉴스더보기]",
+    "환율11개월만에최저…1,300원대로'뚝'",
+    "6,500무너졌지만…'하닉'40조자사주소각훈풍?"
    ],
    "initialized": true,
-   "last_run": "2026-08-19T20:30:34.715430+09:00"
+   "last_run": "2026-08-19T20:35:30.103498+09:00"
   }
  },
  "press_names": {
