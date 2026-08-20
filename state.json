@@ -1109,8 +1109,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260819143853690",
-    "http://www.wikileaks-kr.org/news/articleView.html?idxno=191126",
     "https://economist.co.kr/article/view/ecn202608190069",
     "https://www.koreajoongangdaily.com/business/kospi-tumbles-58-below-6500-as-us-treasury-yields-surge/12832977",
     "https://www.mk.co.kr/article/12131505",
@@ -2608,11 +2606,11 @@
     "https://www.mk.co.kr/article/12132157",
     "https://www.lawtv.kr/news/articleView.html?idxno=60716",
     "https://www.koreatimes.co.kr/path/A2026082010330002206",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=740719"
+    "https://www.polinews.co.kr/news/articleView.html?idxno=740719",
+    "http://www.press9.kr/news/articleView.html?idxno=81417",
+    "http://www.areyou.co.kr/news/articleView.html?idxno=94946"
    ],
    "seen_titles": [
-    "증시약세에도환율1300원대…달러버티는데원화는왜강해졌나",
-    "[권가림의금만세]ETF쏠림에신탁수수료잔치…하반기꺾이나",
     "[하반기ETF승부수]①미래에셋운용,안정성·성장성'투트랙'…韓·美...",
     "[CEOAtoZ]조용했던구광모,LG의'세일즈최전선'에나서다",
     "Kospitumbles5.8%below6,500asU.S.Treasuryyieldssurge",
@@ -4110,10 +4108,12 @@
     "“PER4배,싸보인다고샀다가는”…실적전망꺾인삼전닉스,‘이것...",
     "자동차서철강까지...올여름한국제조업흔드는'동시다발하투'",
     "BitGobecomes1stforeigndigitalassetentitytosecureVASPlicense",
-    "[분석]한번빠져나가면되돌릴수없다…대한민국핵심기술'유출비상..."
+    "[분석]한번빠져나가면되돌릴수없다…대한민국핵심기술'유출비상...",
+    "SK하이닉스,40조원자사주매입소각발표...FCF환원기준50%이상상향-토...",
+    "[아유경제_부동산]삼성전자아산반도체제조공장오는9월착공…충남..."
    ],
    "initialized": true,
-   "last_run": "2026-08-20T13:48:40.808852+09:00"
+   "last_run": "2026-08-20T13:50:22.000439+09:00"
   }
  },
  "press_names": {
