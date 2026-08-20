@@ -854,10 +854,13 @@
     [
      "2026-08-20T21:35:18.986059+09:00",
      "급등에 코스피 상승 삼전닉스"
+    ],
+    [
+     "2026-08-20T21:40:22.216672+09:00",
+     "ICS 3000억 신종자본증권 발행 강화 교보생명"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20081256",
     "https://biz.chosun.com/it-science/ict/2026/08/20/TDPK4QOPHBDZRDXNDYCQFDPZJU/",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=662759",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=88185",
@@ -2356,10 +2359,10 @@
     "https://www.khan.co.kr/article/202608202132005",
     "http://www.econonews.co.kr/news/articleView.html?idxno=443106",
     "http://www.econonews.co.kr/news/articleView.html?idxno=443105",
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=557219"
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=557219",
+    "https://www.fntimes.com/html/view.php?ud=202608201816148051141825007d_18"
    ],
    "seen_titles": [
-    "중동리스크에뛴유가…1300원대들어선원달러환율",
     "SK증권주가장중상한가,SK하이닉스자사주취득중개소식에우선주...",
     "SK하이닉스40조자사주중개소식에…SK증권‘상한가’[이런국장저런...",
     "SK하이닉스,차세대광연결‘CPO’로드맵제시…네이처일렉트로닉...",
@@ -3858,10 +3861,11 @@
     "3대메가,원전19기전력량필요",
     "코스피,5%대급등에6800선회복...SK하이닉스,SK스퀘어,삼성전자상...",
     "[상한가종목]SK증권-금호전기이어소마젠-엔투텍등마감",
-    "코스피,삼전닉스급등에5%대상승"
+    "코스피,삼전닉스급등에5%대상승",
+    "[DCM]교보생명,K-ICS강화위해신종자본증권3000억발행"
    ],
    "initialized": true,
-   "last_run": "2026-08-20T21:35:18.986059+09:00"
+   "last_run": "2026-08-20T21:40:22.216672+09:00"
   }
  },
  "press_names": {
