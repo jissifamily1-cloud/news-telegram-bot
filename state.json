@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-20T13:00:34.537824+09:00",
-     "방미 좁혔나 대미투자 이견 만에 급거 나흘 관세 김정관 귀국길"
-    ],
-    [
      "2026-08-20T13:05:20.162830+09:00",
      "2나노 확대 차세대 관측 대만 인텔 PC칩"
     ],
@@ -1334,12 +1330,17 @@
     [
      "2026-08-20T18:55:18.468488+09:00",
      "외치는 나라 기술굴기 드라마조차"
+    ],
+    [
+     "2026-08-20T19:00:37.023626+09:00",
+     "아래선 확대 국민연금 멈출 씨티 환율 390원 수도 환헤지"
+    ],
+    [
+     "2026-08-20T19:00:37.023626+09:00",
+     "반도체 투톱이 이끌어 급반등 증시 삼전닉스"
     ]
    ],
    "seen_urls": [
-    "https://www.fetv.co.kr/news/articleView.html?idxno=308726",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=662754",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1176415",
     "http://www.metroseoul.co.kr/article/20260820500104",
     "https://www.newspim.com/news/view/20260820000361",
     "https://www.news1.kr/finance/market-exr/6264045",
@@ -2836,12 +2837,12 @@
     "https://www.kukinews.com/article/view/kuk202608200219",
     "http://www.yonhapnewstv.co.kr/news/MYH20260820184812u7m",
     "https://www.sedaily.com/article/20081590",
-    "https://www.sedaily.com/article/20081587"
+    "https://www.sedaily.com/article/20081587",
+    "https://www.newsis.com/view/NISX20260820_0003756637",
+    "https://www.yna.co.kr/view/AKR20260820170400002?input=1195m",
+    "http://www.econotelling.com/news/articleView.html?idxno=21154"
    ],
    "seen_titles": [
-    "SK엔무브,북미그룹Ⅲ윤활기유공급망확장",
-    "SKT,3G신규가입서비스중단한다...2G이어역사속으로",
-    "한투운용고배당주커버드콜ETF,개인순매수1000억돌파",
     "미래에셋배당커버드콜ETF,수익률61.6%1위",
     "SK증권주가,상한가...왜?",
     "어제는급락,오늘은급등...코스피,매수사이드카발동",
@@ -4338,10 +4339,13 @@
     "성과급7억이면현금은2.8억…SK하이닉스새보상안통과할까",
     "40조주주환원에'삼전닉스'초강세…코스피6%가까이급등",
     "美中의포스트ASML경쟁[기자의눈]",
-    "[여담]드라마조차기술굴기외치는나라"
+    "[여담]드라마조차기술굴기외치는나라",
+    "이현중·안영준복귀…농구대표팀,월드컵예선최종명단발표",
+    "씨티\"환율1,390원아래선국민연금환헤지확대멈출수도\"",
+    "'삼전닉스'반도체투톱이증시급반등이끌어"
    ],
    "initialized": true,
-   "last_run": "2026-08-20T18:55:18.468488+09:00"
+   "last_run": "2026-08-20T19:00:37.023626+09:00"
   }
  },
  "press_names": {
