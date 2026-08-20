@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-21T02:45:22.254373+09:00",
-     "부천시 안양시 군포시 의왕시 과천시"
-    ],
-    [
      "2026-08-21T03:50:21.022989+09:00",
      "원인조사 붕괴 사고조사위 인천시 외벽 국토부 착수 테라스 송도"
     ],
@@ -602,17 +598,21 @@
     [
      "2026-08-21T08:40:20.998385+09:00",
      "다시 우주로 쏘고 돌아오고"
+    ],
+    [
+     "2026-08-21T08:45:23.681937+09:00",
+     "가속화 사업 수탁 디지털자산 하나금융"
+    ],
+    [
+     "2026-08-21T08:45:23.681937+09:00",
+     "전승 10연승 휴온스 신화 우승 2라운드 팀리그"
+    ],
+    [
+     "2026-08-21T08:45:23.681937+09:00",
+     "폭등한 곱버스 개미들 탔다 936억 하이닉스 삼성 레버리지"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/society/court-prosecution/6264315",
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=609021",
-    "https://www.sedaily.com/article/20081335",
-    "https://www.s-journal.co.kr/news/articleView.html?idxno=43144",
-    "https://www.newsis.com/view/NISX20260820_0003755269",
-    "https://www.mt.co.kr/society/2026/08/20/2026082010204662049",
-    "https://www.sedaily.com/article/20081332",
-    "https://www.ccreview.co.kr/news/articleView.html?idxno=355466",
     "https://biz.sbs.co.kr/article_hub/20000329735?division=NAVER",
     "https://www.s-journal.co.kr/news/articleView.html?idxno=43145",
     "https://www.seoul.co.kr/news/economy/securities/2026/08/20/20260820500110?wlog_tag3=naver",
@@ -2104,17 +2104,17 @@
     "http://www.srtimes.kr/news/articleView.html?idxno=210521",
     "https://biz.sbs.co.kr/article_hub/20000329919?division=NAVER",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=143349",
-    "https://news.tvchosun.com/site/data/html_dir/2026/08/21/2026082190055.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/08/21/2026082190055.html",
+    "https://www.ajunews.com/view/20260821084000301",
+    "https://www.dailian.co.kr/news/view/1680569/?sc=Naver",
+    "https://www.newspim.com/news/view/20260821000056",
+    "https://www.mk.co.kr/article/12132905",
+    "https://www.newsis.com/view/NISX20260821_0003756957",
+    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=704976",
+    "https://www.kukinews.com/article/view/kuk202608210016",
+    "http://www.fnnews.com/news/202608210638505443"
    ],
    "seen_titles": [
-    "인포시즈,'AI써밋서울2026'참가",
-    "'14조유가담합'…정유사4사·임직원들첫공판서혐의부인",
-    "SK하이닉스임단협잠정합의안윤곽나오나…오늘긴급대의원대회",
-    "벤처투자역대최대8.9조…AI·반도체스타트업채용확대",
-    "40조원으로2407만주'삭제'…SK하이닉스,HBM으로키운현금을'주당가...",
-    "다시오르는삼전닉스…\"메모리반도체주가는美국채금리에달려\"",
-    "'14조유가담합'정유4개사,첫재판서전부혐의부인",
-    "“40조소각·100조환원”…SK하이닉스,주가부양승부수",
     "[오늘]수도권전력식민지충북",
     "SK하이닉스호재에K반도체…내년까지보나?",
     "1%도안남은3G에'최대70만원'건다…SKT23년망정리뒤남는'주파...",
@@ -3606,10 +3606,18 @@
     "토스증권,올리브영과손잡고신규투자자유치",
     "[어제장오늘장]코스피분위기반전에7천피안착도전…삼성전자·SK하...",
     "[증시포인트]외국인수급따른업종별차별화장세전망",
-    "[아이온의AI:온]쏘고,돌아오고…다시우주로"
+    "[아이온의AI:온]쏘고,돌아오고…다시우주로",
+    "[마켓프리뷰]뉴욕증시금리재상승에일제히하락…코스피,반도체·외...",
+    "李대통령,최태원과전격만찬…대미투자반도체카드오갔나",
+    "[AIMY증시전망]코스피,美증시약세영향에하락출발전망",
+    "“SK,‘아직시작도안했다’…자회사실적호조·주주환원확대기대...",
+    "유안타證\"SK,자회사실적·주주환원호조…목표가83만원\"",
+    "하나금융,디지털자산수탁사업가속화",
+    "휴온스,팀리그2라운드10연승…‘전승우승’신화[PBA]",
+    "\"곱버스탔다\"...삼성·하이닉스10%폭등한날,레버리지개미들936억..."
    ],
    "initialized": true,
-   "last_run": "2026-08-21T08:40:20.998385+09:00"
+   "last_run": "2026-08-21T08:45:23.681937+09:00"
   }
  },
  "press_names": {
