@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-20T13:35:19.043465+09:00",
-     "국장 뛰자 순대외금융자산 대외부채 감소 역대"
-    ],
-    [
-     "2026-08-20T13:35:19.043465+09:00",
-     "충주시장 충주시민들이 이동석 선택한 충주시정 젊은"
-    ],
-    [
-     "2026-08-20T13:35:19.043465+09:00",
-     "Summary Yonhap News"
-    ],
-    [
-     "2026-08-20T13:35:19.043465+09:00",
-     "분양 아파트 경쟁 주차까지 건설업계 관리비 정보부터 강화"
-    ],
-    [
      "2026-08-20T13:40:24.666399+09:00",
      "바이트댄스 1만개씩 확보 빗장 풀었다 텐센트 H200"
     ],
@@ -1266,11 +1250,13 @@
     [
      "2026-08-20T19:30:27.316079+09:00",
      "대비 남부권 전기 받는다 역차별 853억 인천 만드는"
+    ],
+    [
+     "2026-08-20T19:40:23.574186+09:00",
+     "AWS 지원 15개사 피지컬AI 개시 상용화"
     ]
    ],
    "seen_urls": [
-    "http://www.footballist.co.kr/news/articleView.html?idxno=213737",
-    "https://www.ziksir.com/news/articleView.html?idxno=143684",
     "https://www.g-enews.com/view.php?ud=20260820100532276844093b5d4e_1",
     "https://news.mtn.co.kr/news-detail/2026082009111610167",
     "https://www.newsis.com/view/NISX20260820_0003755562",
@@ -2768,11 +2754,11 @@
     "https://www.sportsworldi.com/newsView/20260820523031",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479153",
     "http://www.e-platform.net/news/articleView.html?idxno=104691",
-    "https://www.incheonilbo.com/news/articleView.html?idxno=1330046"
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1330046",
+    "https://www.seoul.co.kr/news/economy/industry/2026/08/21/20260821030002?wlog_tag3=naver",
+    "https://www.dt.co.kr/article/12079347"
    ],
    "seen_titles": [
-    "코스피,매수사이드카발동…美금리진정·SK하이닉스효과",
-    "\"단일종목ETF막았더니빚투·서학개미로\"…식지않는레버리지열풍",
     "[공식발표]남자U19대표팀,U20아시안컵예선출전명단확정'레바논...",
     "코스피,SK하이닉스자사주소각에5%급등…6800선눈앞",
     "[특징주]SK증권,SK하이닉스40조원자사주매입중개..'상한가'",
@@ -4270,10 +4256,12 @@
     "이현중-안영준합류…마줄스호,월드컵예선최종명단12인발표",
     "한투운용,'ACE고배당주Plus커버드콜액티브ETF'개인순매수1000억",
     "SK이노,울산CLX서전시에너지공급대응체계점검",
-    "전기만드는인천,남부권대비연853억역차별받는다"
+    "전기만드는인천,남부권대비연853억역차별받는다",
+    "“잉여현금465조”…하닉‘초특급주주환원’에삼성100조대쏘나",
+    "AWS,韓15개사피지컬AI상용화지원개시"
    ],
    "initialized": true,
-   "last_run": "2026-08-20T19:35:18.328772+09:00"
+   "last_run": "2026-08-20T19:40:23.574186+09:00"
   }
  },
  "press_names": {
