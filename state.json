@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-20T12:55:16.407937+09:00",
-     "견본주택 전남광주 개관 21일 제일풍경채 638가구 첨단3지구 공급"
-    ],
-    [
-     "2026-08-20T12:55:16.407937+09:00",
-     "고속도로 등장 테슬라 사업에 휴게소 충전소 전기차 GS차지비"
-    ],
-    [
      "2026-08-20T13:00:34.537824+09:00",
      "방미 좁혔나 대미투자 이견 만에 급거 나흘 관세 김정관 귀국길"
     ],
@@ -1334,14 +1326,17 @@
     [
      "2026-08-20T18:50:22.893615+09:00",
      "SK이노베이션 산업일반 현대엘리베이터 소식"
+    ],
+    [
+     "2026-08-20T18:55:18.468488+09:00",
+     "경쟁 포스트 ASML"
+    ],
+    [
+     "2026-08-20T18:55:18.468488+09:00",
+     "외치는 나라 기술굴기 드라마조차"
     ]
    ],
    "seen_urls": [
-    "https://www.pressian.com/pages/articles/2026082010271693056",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=662741",
-    "https://www.news2day.co.kr/article/20260820500063",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=662747",
-    "https://www.insightkorea.co.kr/news/articleView.html?idxno=252790",
     "https://www.fetv.co.kr/news/articleView.html?idxno=308726",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=662754",
     "https://www.ggilbo.com/news/articleView.html?idxno=1176415",
@@ -2836,14 +2831,14 @@
     "https://biz.newdaily.co.kr/site/data/html/2026/08/19/2026081900272.html",
     "http://www.weeklytoday.com/news/articleView.html?idxno=791067",
     "https://www.mk.co.kr/article/12132613",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=791052"
+    "http://www.weeklytoday.com/news/articleView.html?idxno=791052",
+    "http://www.fnnews.com/news/202608201849393514",
+    "https://www.kukinews.com/article/view/kuk202608200219",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260820184812u7m",
+    "https://www.sedaily.com/article/20081590",
+    "https://www.sedaily.com/article/20081587"
    ],
    "seen_titles": [
-    "인천발코니붕괴아파트사조위구성…내일착수회의",
-    "'U-20월드컵향한첫걸음'김정수호,아시안컵예선명단23명발표...21...",
-    "조용익부천시장\"산업거점확대기업성장무대만들겠다\"",
-    "SK하이닉스,CPO로드맵공개",
-    "코스피,SK하이닉스주주환원에약5%급등…매수사이드카발동",
     "SK엔무브,북미그룹Ⅲ윤활기유공급망확장",
     "SKT,3G신규가입서비스중단한다...2G이어역사속으로",
     "한투운용고배당주커버드콜ETF,개인순매수1000억돌파",
@@ -4338,10 +4333,15 @@
     "SK하닉,사상최대40조자사주매입…삼전닉스220조주주환원기대감...",
     "[위클리오늘]삼전닉스주주환원300조···외환시장영향은?",
     "반도체만보면더오를것같지만…“코스피6000에사고7000에팔아라”...",
-    "[위클리오늘]산업일반소식_현대엘리베이터,SK이노베이션(8.20)"
+    "[위클리오늘]산업일반소식_현대엘리베이터,SK이노베이션(8.20)",
+    "SK하닉성과급60%는주식으로...노사,임금6.3%인상등잠정합의",
+    "성과급7억이면현금은2.8억…SK하이닉스새보상안통과할까",
+    "40조주주환원에'삼전닉스'초강세…코스피6%가까이급등",
+    "美中의포스트ASML경쟁[기자의눈]",
+    "[여담]드라마조차기술굴기외치는나라"
    ],
    "initialized": true,
-   "last_run": "2026-08-20T18:50:22.893615+09:00"
+   "last_run": "2026-08-20T18:55:18.468488+09:00"
   }
  },
  "press_names": {
