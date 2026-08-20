@@ -262,10 +262,13 @@
     [
      "2026-08-21T01:55:18.443165+09:00",
      "부정적 된다 파급 전남광주 파업은 이미지 기아"
+    ],
+    [
+     "2026-08-21T02:05:17.386985+09:00",
+     "역대급 시장 삼전이 이어가나 주주환원에 하닉 릴레이 환호"
     ]
    ],
    "seen_urls": [
-    "https://www.ppss.kr/news/articleView.html?idxno=306376",
     "https://news.ifm.kr/news/articleView.html?idxno=477573",
     "https://www.mt.co.kr/policy/2026/08/20/2026082010530145855",
     "https://www.newsis.com/view/NISX20260820_0003755601",
@@ -1764,10 +1767,10 @@
     "https://www.ytn.co.kr/_ln/0102_202608210039300267",
     "https://www.chosun.com/politics/blue_house/2026/08/21/TCUVQ43UQNGCXEHVWAARY4LE2U/",
     "https://www.starnewskorea.com/sports/2026/08/21/2026082022465670441",
-    "http://www.kjdaily.com/article.php?aid=1787226540684944018"
+    "http://www.kjdaily.com/article.php?aid=1787226540684944018",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000004886&cp=nv"
    ],
    "seen_titles": [
-    "3G역사속으로...SKT\"신규가입중단\"",
     "삼성증권,SK하이닉스목표가300만원유지...\"40조소각은이익자신감...",
     "SK하이닉스40조자사주소각에놀란증권가…\"리레이팅기대확산\"",
     "조용익부천시장\"기업성장이곧도시성장…시장개척직접뛰겠다\"",
@@ -3266,10 +3269,11 @@
     "'40조주주환원'하이닉스13%폭등...코스피5.9%↑",
     "李대통령,최태원과비공개회동…호남반도체논의",
     "\"NBA도전끝나자마자레바논직행\"이현중대표팀복귀...월드컵예선...",
-    "[사설]전남광주부정적이미지파급기아파업은안된다"
+    "[사설]전남광주부정적이미지파급기아파업은안된다",
+    "하닉역대급주주환원에시장환호…삼전이릴레이이어가나"
    ],
    "initialized": true,
-   "last_run": "2026-08-21T02:00:37.426723+09:00"
+   "last_run": "2026-08-21T02:05:17.386985+09:00"
   }
  },
  "press_names": {
