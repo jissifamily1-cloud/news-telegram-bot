@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-20T13:10:22.861532+09:00",
-     "종료 추진한다 SK텔레콤 3G서비스"
-    ],
-    [
-     "2026-08-20T13:10:22.861532+09:00",
-     "3대 충남도 메가프로젝트 속도전"
-    ],
-    [
-     "2026-08-20T13:10:22.861532+09:00",
-     "무증자 차액 합병 자회사 손금 세법상 아냐"
-    ],
-    [
      "2026-08-20T13:15:22.084855+09:00",
      "금리 인상 FOMC 위원 많은 연준 7월 물가 우려 언급"
     ],
@@ -1314,16 +1302,13 @@
     [
      "2026-08-20T19:05:19.482547+09:00",
      "반도체클러스터 경기 열렸다 유치경쟁"
+    ],
+    [
+     "2026-08-20T19:15:21.665906+09:00",
+     "Korea next call Bank rate inflation Won rebound complicates of as"
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20260820508629?OutUrl=naver",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608200848005000101273",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=790934",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=423174",
-    "https://www.pressman.kr/news/articleView.html?idxno=103251",
-    "https://us.aving.net/news/articleView.html?idxno=54227",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478950",
     "https://bizhankook.com/articles/sk-bioscience-sanofi-pneumococcal-vaccine.html",
     "https://www.thepowernews.co.kr/view.php?ud=202608201031527065de3f0aa1be_7",
     "https://www.inthenews.co.kr/news/article.html?no=90709",
@@ -2816,16 +2801,16 @@
     "https://www.betanews.net/article/view/beta202608200088",
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032219",
     "https://www.mk.co.kr/article/12132619",
-    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032221"
+    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032221",
+    "https://www.mydaily.co.kr/page/view/2026082019033607266",
+    "https://www.kukinews.com/article/view/kuk202608200200",
+    "http://www.jndn.com/article.php?aid=1787220490438192003",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1721093",
+    "https://www.newstnt.com/news/articleView.html?idxno=714677",
+    "https://www.dkilbo.com/news/articleView.html?idxno=551903",
+    "https://www.koreajoongangdaily.com/business/wons-rebound-complicates-bank-of-koreas-next-rate-call-as-inflation-pressures-ease/12835425"
    ],
    "seen_titles": [
-    "이스트소프트,AI비서'알비서'로모두의AI도전",
-    "[위클리오늘]이동통신소식_LG유플러스,SK텔레콤(8.20)",
-    "또‘롤러코스피’…5%대급등,매수사이드카발동",
-    "[더벨][영상|interview]DS자산운용,헤지펀드의성공역량…ETF로확장",
-    "[위클리오늘]산업일반소식_SK엔무브,KCC(8.20)",
-    "[단독]SK텔레콤,'김앤장전관'으로변호인단싹바꾸고'5G상고심'대응",
-    "'예술문턱낮춘다',미술관안팎서예술경험확장하는기업들",
     "SHScientificUnveils'RotaryKiln'HeatTreatmentEquipmentatK-BAT",
     "망분리규제완화및디지털금융혁신호재…핀테크株주가파죽지세",
     "[단독]SK바이오사이언스-사노피,21가폐렴구균백신추정상표출원",
@@ -4318,10 +4303,17 @@
     "코스피,반도체강세에5%대상승마감...6800선회복",
     "747억인천예술인회관사업에'오염토변수'",
     "경기,반도체클러스터유치경쟁길열렸다",
-    "반도체훈풍덕?이천·화성시고용률나란히도내1·2위차지"
+    "반도체훈풍덕?이천·화성시고용률나란히도내1·2위차지",
+    "[공식발표]이현중·안영준이돌아왔다!남자농구대표팀,2027FIBA농구...",
+    "SK하이닉스자사주소각에코스피급등…‘칠천피’성큼",
+    "“호남반도체팹4기가동전력6.3GW공급충분”",
+    "[운용&Now]미래에셋운용,'TIGER배당커버드콜액티브ETF'연초이후...",
+    "[공시]SK하이닉스65만주·LG유플러스20만주…21일,코스피51개종목'...",
+    "경북최초국립의대설립본격화…2030년개교박차",
+    "Won’sreboundcomplicatesBankofKorea’snextratecallasinflation."
    ],
    "initialized": true,
-   "last_run": "2026-08-20T19:10:22.712069+09:00"
+   "last_run": "2026-08-20T19:15:21.665906+09:00"
   }
  },
  "press_names": {
