@@ -613,8 +613,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000329735?division=NAVER",
-    "https://www.s-journal.co.kr/news/articleView.html?idxno=43145",
     "https://www.seoul.co.kr/news/economy/securities/2026/08/20/20260820500110?wlog_tag3=naver",
     "https://www.sedaily.com/article/20081336",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=609023",
@@ -2112,11 +2110,11 @@
     "https://www.newsis.com/view/NISX20260821_0003756957",
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=704976",
     "https://www.kukinews.com/article/view/kuk202608210016",
-    "http://www.fnnews.com/news/202608210638505443"
+    "http://www.fnnews.com/news/202608210638505443",
+    "https://biz.sbs.co.kr/article_hub/20000329924?division=NAVER",
+    "https://www.newspim.com/news/view/20260821000079"
    ],
    "seen_titles": [
-    "[오늘]수도권전력식민지충북",
-    "SK하이닉스호재에K반도체…내년까지보나?",
     "1%도안남은3G에'최대70만원'건다…SKT23년망정리뒤남는'주파...",
     "하이닉스가40조쏘는데‘이종목’이상한가…“혹시너도?”덩달아...",
     "성장률3.2%상향에도고용은6만명감소…‘고용없는성장’",
@@ -3614,10 +3612,12 @@
     "유안타證\"SK,자회사실적·주주환원호조…목표가83만원\"",
     "하나금융,디지털자산수탁사업가속화",
     "휴온스,팀리그2라운드10연승…‘전승우승’신화[PBA]",
-    "\"곱버스탔다\"...삼성·하이닉스10%폭등한날,레버리지개미들936억..."
+    "\"곱버스탔다\"...삼성·하이닉스10%폭등한날,레버리지개미들936억...",
+    "'바이백약발'끝?...뉴욕증시,일제히하락마감",
+    "[모닝리포트]\"신성이엔지,반도체팹투자확대에수주증가\""
    ],
    "initialized": true,
-   "last_run": "2026-08-21T08:45:23.681937+09:00"
+   "last_run": "2026-08-21T08:50:20.089393+09:00"
   }
  },
  "press_names": {
