@@ -1022,19 +1022,17 @@
     [
      "2026-08-21T13:45:23.706546+09:00",
      "투자 100조 동부권 의료수요 현실화되면 커진다 의대 순천대"
+    ],
+    [
+     "2026-08-21T13:50:20.114057+09:00",
+     "지표로 경제 한국"
+    ],
+    [
+     "2026-08-21T13:50:20.114057+09:00",
+     "네이버 NAVER 회복 장중 22만원선 반등"
     ]
    ],
    "seen_urls": [
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=851001",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=316198",
-    "https://biz.sbs.co.kr/article_hub/20000329726?division=NAVER",
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=546759",
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=609065",
-    "https://www.news2day.co.kr/article/20260820500244",
-    "https://www.dailian.co.kr/news/view/1680429/?sc=Naver",
-    "https://www.yna.co.kr/view/AKR20260820145400008?input=1195m",
-    "https://www.betanews.net/article/view/beta202608200036",
-    "https://biz.newdaily.co.kr/site/data/html/2026/08/20/2026082000193.html",
     "https://www.news1.kr/finance/general-stock/6264629",
     "https://www.newspim.com/news/view/20260820001130",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=423191",
@@ -2524,19 +2522,19 @@
     "https://www.edaily.co.kr/News/Read?newsId=03578486645549616&mediaCodeNo=257",
     "https://www.goal.com/kr/뉴스/a/bltf6771ed62b96ede0",
     "https://www.newspim.com/news/view/20260821000440",
-    "http://www.inews24.com/view/1997020"
+    "http://www.inews24.com/view/1997020",
+    "https://www.insight.co.kr/news/569304",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479370",
+    "https://www.safetimes.co.kr/news/articleView.html?idxno=245082",
+    "https://www.cwn.kr/news/articleView.html?idxno=53920",
+    "https://www.newsis.com/view/NISX20260821_0003757571",
+    "http://www.newsmp.com/news/articleView.html?idxno=257620",
+    "https://www.newspost.kr/news/articleView.html?idxno=225096",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260821134354tLk",
+    "https://monthly.chosun.com/news/articleView.html?idxno=71159",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=600008"
    ],
    "seen_titles": [
-    "SK하이닉스노사,잠정합의안도출…\"40%현금,60%자사주\"",
-    "3G서비스신규가입중단…\"트래픽감소·장비노후화\"",
-    "[오후장체크포인트]SK하이닉스40조자사주매입삼성전자주주환원...",
-    "SK하이닉스,임단협잠정합의⋯성과급60%자사주로지급",
-    "SK하이닉스,성과급60%주식으로…노사'주가연동보상'잠정합의",
-    "SK이노,전시유류공급망점검...울산CLX서해상급유훈련",
-    "SK이노베이션,해군첫해상급유훈련지원…전시유류공급체계점검",
-    "삼전닉스급등에…단일레버리지거래대금이틀만에1조넘어",
-    "SKB,서울국제여성영화제4년연속후원…독립·예술영화접근성넓힌다",
-    "대산1호석화재편최종관문넘어…여수구조조정도'파란불',울산...",
     "주주환원發반도체'불기둥'소부장으로…바이오도뛰며코스닥2%↑",
     "송도아파트외벽테라스붕괴사고조사위구성…설계·시공등조사",
     "KDB생명인수나선한투,미래에셋대비'열세'자산운용강화기대",
@@ -4026,10 +4024,20 @@
     "코스피30%급락…‘빚투’후폭풍에흔들린증시체질개선",
     "울산현대중,K리그U-14챔피언십정상...김호유감독“성장해프로서...",
     "2분기전세계랜섬웨어전년대비48%증가...SK쉴더스분석보고서",
-    "SK100조투자현실화되면동부권의료수요더커진다…순천대의대필..."
+    "SK100조투자현실화되면동부권의료수요더커진다…순천대의대필...",
+    "SK쉴더스\"VPN·계정이랜섬웨어침투통로\"...2분기피해48%증가",
+    "밸류업정책기대감속'옥석가리기'…실질주주환원기업주목을",
+    "마이크론,10년간100억달러투자…美첫메모리연구소세운다",
+    "드리미,개인정보보호·AS강화...한국시장신뢰높인다",
+    "SK하이닉스'성과급60%주식지급'24~25일찬반투표,결과는",
+    "제약ㆍ바이오,유가증권상장사고전ㆍ코스닥상장사선전",
+    "최태원회장,李대통령과비공개회동…SK반도체현안챙겼나[재계P...",
+    "검찰,‘노태우비자금의혹’김옥숙여사자택압수수색",
+    "[특집/한국경제]지표로본한국경제",
+    "NAVER(네이버),장중반등…22만원선회복"
    ],
    "initialized": true,
-   "last_run": "2026-08-21T13:45:23.706546+09:00"
+   "last_run": "2026-08-21T13:50:20.114057+09:00"
   }
  },
  "press_names": {
