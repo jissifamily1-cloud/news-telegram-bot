@@ -725,7 +725,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/economy/industry/2026/08/21/20260821031007?wlog_tag3=naver",
     "https://magazine.hankyung.com/business/article/202608199989b",
     "https://www.seoul.co.kr/news/peoples/2026/08/21/20260821023007?wlog_tag3=naver",
     "https://www.nongmin.com/article/20260819500713",
@@ -2224,10 +2223,10 @@
     "https://www.mydaily.co.kr/page/view/2026082120192713863",
     "https://www.businesspost.co.kr/BP?command=article_view&num=445369",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716253&plink=ORI&cooper=NAVER",
-    "https://www.kbmaeil.com/article/20260821500206"
+    "https://www.kbmaeil.com/article/20260821500206",
+    "https://www.smartbizn.com/news/articleView.html?idxno=151854"
    ],
    "seen_titles": [
-    "SK하닉성과급‘주식60%+현금40%’지급",
     "“키워쓸바엔안뽑는다”…AI에더좁아진20대취업문",
     "3G‘영상통화시대’막내린다",
     "[이사람]“농업진흥구역제1호카페도전…‘보리커피’로승부”",
@@ -3726,10 +3725,11 @@
     "'와미쳤다'LG얼마나든든할까,박해민단한번도안빠졌다…700G연...",
     "[8월22일자]비즈니스포스트아침의주요기사",
     "이혼이소환한'비자금'…김옥숙자택압수수색",
-    "‘300억비자금’30년미스터리,검찰수사로풀리나"
+    "‘300억비자금’30년미스터리,검찰수사로풀리나",
+    "\"형광등하나까지아꼈던회사\"···SK하이닉스의'위기극복DNA'"
    ],
    "initialized": true,
-   "last_run": "2026-08-21T20:52:43.481852+09:00"
+   "last_run": "2026-08-21T20:55:17.108511+09:00"
   }
  },
  "press_names": {
