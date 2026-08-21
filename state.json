@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-21T13:45:23.706546+09:00",
-     "투자 100조 동부권 의료수요 현실화되면 커진다 의대 순천대"
-    ],
-    [
-     "2026-08-21T13:50:20.114057+09:00",
-     "지표로 경제 한국"
-    ],
-    [
-     "2026-08-21T13:50:20.114057+09:00",
-     "네이버 NAVER 회복 장중 22만원선 반등"
-    ],
-    [
      "2026-08-21T13:55:18.452820+09:00",
      "미션은 빅테크 요새 메모리 절감이라는데"
     ],
@@ -886,11 +874,13 @@
     [
      "2026-08-21T19:45:21.352879+09:00",
      "갈까 NHN의 카카오는 네이버 길을"
+    ],
+    [
+     "2026-08-21T19:50:23.784332+09:00",
+     "현대차 한인기업들 보나 조지아주 수혜"
     ]
    ],
    "seen_urls": [
-    "https://www.hankookilbo.com/news/article/A2026081116210002809?did=NA",
-    "https://www.hankookilbo.com/news/article/A2026082015520004512?did=NA",
     "http://www.e2news.com/news/articleView.html?idxno=333437",
     "https://www.donga.com/news/Society/article/all/20260820/134515044/2",
     "https://www.donga.com/news/Economy/article/all/20260821/134516271/2",
@@ -2388,11 +2378,11 @@
     "https://news.jtbc.co.kr/article/NB12314506?influxDiv=NAVER",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=245107",
     "http://okfashion.co.kr/detail.php?number=64004&thread=62r04",
-    "https://byline.network/?p=9004111222616223"
+    "https://byline.network/?p=9004111222616223",
+    "https://www.mk.co.kr/article/12133547",
+    "https://www.dongponews.net/news/articleView.html?idxno=60004"
    ],
    "seen_titles": [
-    "\"메모리슈퍼사이클끝났냐고?\"...대만반도체거물이본'삼전닉스'미...",
-    "1400원깨진환율,'삼전·닉스'가더끌어내릴까…134조원이변수",
     "반도체공장·데이터센터볼모된2040전력계획",
     "‘송도테라스붕괴’국토부-市공동조사",
     "하이닉스노사‘성과급60%자사주로지급’잠정합의",
@@ -3890,10 +3880,12 @@
     "삼성전자주주환원'110조'…사상최대돈보따리푼다",
     "'노동자2명사망'4개월뒤폭발…검찰,SK이노베이션압수수색",
     "패션·섬유·뷰티주대부분약세,종목별차별화뚜렷",
-    "[심재석의입장]카카오는네이버-NHN의길을갈까"
+    "[심재석의입장]카카오는네이버-NHN의길을갈까",
+    "110조투자·110조환원…미래동력·주주가치키우는삼성전자",
+    "미조지아주한인기업들,현대차수혜보나"
    ],
    "initialized": true,
-   "last_run": "2026-08-21T19:45:21.352879+09:00"
+   "last_run": "2026-08-21T19:50:23.784332+09:00"
   }
  },
  "press_names": {
