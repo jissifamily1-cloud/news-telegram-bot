@@ -150,11 +150,13 @@
     [
      "2026-08-22T06:35:17.230668+09:00",
      "한국 숫자로 따져보니 세계 3강인가 정말"
+    ],
+    [
+     "2026-08-22T06:40:25.902645+09:00",
+     "토큰화 온도 주식 선두"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000329904?division=NAVER",
-    "https://www.g-enews.com/view.php?ud=20260821071040101fbbec65dfb_1",
     "https://www.etoday.co.kr/news/view/2616629",
     "https://www.sedaily.com/article/20081639",
     "https://www.hankyung.com/article/2026082135636",
@@ -1652,11 +1654,11 @@
     "https://www.mk.co.kr/article/12133699",
     "https://www.wikitree.co.kr/articles/1154047",
     "https://www.segye.com/newsView/20260821504014?OutUrl=naver",
-    "https://www.yna.co.kr/view/AKR20260821019900017?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260821019900017?input=1195m",
+    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375079",
+    "https://www.tokenpost.kr/news/cryptocurrency/395398"
    ],
    "seen_titles": [
-    "[마켓브리핑]시장,국채바이백임시방편우려…채권자경단출연",
-    "TSMC,76%폭등한ASML보다더매력적인이유",
     "대신증권\"원·달러환율,수급개선속연내연내1350원까지하락가능...",
     "정유4社,11조흑자에도하반기역래깅대비…신사업승부수[biz-플러스...",
     "뉴욕증시,美국채금리반등에일제히하락…반도체주는선방[뉴욕증시...",
@@ -3154,10 +3156,12 @@
     "개인도기업도“달러쌀때쟁여놓자”…달러예금15조원줍줍했다",
     "삼성전자·SK하이닉스덕에엄청나게걷히는세금,이렇게쓰인다(정부...",
     "2만원대에사서한주도안팔았다…전원주‘하이닉스잭팟’",
-    "[AI돋보기]한국AI정말세계3강인가…숫자로따져보니"
+    "[AI돋보기]한국AI정말세계3강인가…숫자로따져보니",
+    "[게임노트]2026년8월21일...'0-9를뒤집었다'짐머맨무너진한화,LG...",
+    "온도34.9%로토큰화주식선두"
    ],
    "initialized": true,
-   "last_run": "2026-08-22T06:35:17.230668+09:00"
+   "last_run": "2026-08-22T06:40:25.902645+09:00"
   }
  },
  "press_names": {
