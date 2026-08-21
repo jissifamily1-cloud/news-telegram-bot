@@ -197,7 +197,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/industry/general-industry/6264833",
     "https://www.starnewskorea.com/sports/2026/08/21/2026082020272256232",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6846277_37012.html",
     "http://www.osen.co.kr/article/G1112861092",
@@ -1696,10 +1695,10 @@
     "http://www.the-biz.co.kr/news/articleView.html?idxno=726594",
     "https://www.newsis.com/view/NISX20260821_0003757988",
     "https://www.dailian.co.kr/news/view/1680886/?sc=Naver",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092168595"
+    "https://it.chosun.com/news/articleView.html?idxno=2023092168595",
+    "https://www.sportschosun.com/baseball/2026-08-22/202608220100129450008261"
    ],
    "seen_titles": [
-    "\"지금이체질개선기회\"…삼성·SK하이닉스'내부정비'속도",
     "'배아파서어쩌나'SSG가버린좌타자,KT이적후첫경기부터개인최...",
     "하이닉스노사\"성과급60%주식으로\"‥1명당7억?",
     "9위팀방출→1위팀영입,전화위복성공기만들까…1군콜업첫출장→...",
@@ -3198,10 +3197,11 @@
     "[바이오핫클릭]백신자급률30%위기…지원마저끊기네",
     "SK하닉이어삼전도쐈다…파격주주환원에주가탄력받나",
     "'호남팹논의'최태원,'제네시스럭셔리승부수'정의선[재계-in]",
-    "'1조규모'ESS3차입찰임박…배터리3사'새먹거리'격돌"
+    "'1조규모'ESS3차입찰임박…배터리3사'새먹거리'격돌",
+    "9-0을뒤집힌다고?'너덜너덜'LG,'역대2위'최다점수차역전패불명예..."
    ],
    "initialized": true,
-   "last_run": "2026-08-22T07:05:19.362840+09:00"
+   "last_run": "2026-08-22T07:08:11.699572+09:00"
   }
  },
  "press_names": {
