@@ -974,14 +974,13 @@
     [
      "2026-08-21T18:05:18.799106+09:00",
      ""
+    ],
+    [
+     "2026-08-21T18:10:22.143135+09:00",
+     "삼전닉스 주주환원이 방어 상승에도 시장 국채금리"
     ]
    ],
    "seen_urls": [
-    "http://www.fnnews.com/news/202608202316559393",
-    "https://view.asiae.co.kr/article/2026082023320316018",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=858369",
-    "https://www.newsis.com/view/NISX20260820_0003756784",
-    "https://en.yna.co.kr/view/AEN20260820011900320?input=2106m",
     "http://www.inews24.com/view/1996910",
     "https://biz.chosun.com/policy/politics/president_office/2026/08/20/ST4MY2GT5FFW3PJFVTRF6PLNRA/",
     "https://www.ytn.co.kr/_ln/0101_202608202347009997",
@@ -2476,14 +2475,14 @@
     "https://economist.co.kr/article/view/ecn202608210054",
     "https://www.yna.co.kr/view/AKR20260821150800011?input=1195m",
     "http://www.lawissue.co.kr/view.php?ud=202608211759206277f4ab64559d_12",
-    "https://jp.yna.co.kr/view/AJP20260821003100882?input=1728m"
+    "https://jp.yna.co.kr/view/AJP20260821003100882?input=1728m",
+    "https://biz.sbs.co.kr/article_hub/20000330122?division=NAVER",
+    "https://www.seoul.co.kr/news/economy/industry/2026/08/21/20260821500314?wlog_tag3=naver",
+    "https://www.livebiz.today/news/articleView.html?idxno=204324",
+    "http://www.lawissue.co.kr/view.php?ud=202608211805113888f4ab64559d_12",
+    "https://www.hankyung.com/article/2026082154751"
    ],
    "seen_titles": [
-    "李대통령,최태원SK회장과비공개회동…반도체등현안논의",
-    "[뉴욕증시]미국채금리하루만에반등…일제히하락",
-    "'이현중·안영준포함'韓농구,WC예선명단발표",
-    "이대통령,최태원과비공개만찬…반도체팹·대미투자논의한듯",
-    "LeemeetsSKchairmanforpossiblediscussiononchipprojects:source",
     "이재명대통령,최태원회장과만찬…반도체투자논의한듯",
     "李대통령,최태원과비공개회동…반도체·대미투자논의한듯",
     "이대통령,최태원과비공개만찬...대미투자논의여부주목",
@@ -3978,10 +3977,15 @@
     "반도체‘투톱’이만든지수착시…코스피6900선넘었지만그늘도커...",
     "[연합뉴스이시각헤드라인]-18:00",
     "법무법인광장,ALB사이버보안·데이터분야로펌선정",
-    "韓国きょうのニュース（8月21日）"
+    "韓国きょうのニュース（8月21日）",
+    "반도체주주환원의힘…코스피,다시7천선코앞으로",
+    "삼성전자,사상최대110조주주환원…3분기30조현금배당",
+    "삼성전자,올해최대110조규모주주환원...3분기에30조가량현금배당",
+    "SK쉴더스,상반기랜섬웨어피해4744건분석",
+    "\"美국채금리상승에도…삼전닉스주주환원이시장방어\""
    ],
    "initialized": true,
-   "last_run": "2026-08-21T18:05:18.799106+09:00"
+   "last_run": "2026-08-21T18:10:22.143135+09:00"
   }
  },
  "press_names": {
