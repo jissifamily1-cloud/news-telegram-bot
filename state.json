@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-22T00:15:24.651715+09:00",
-     "엔비디아 한국 스타트업 잠재적 리벨리온과 반도체"
-    ],
-    [
-     "2026-08-22T00:15:24.651715+09:00",
-     "삼전닉스 있는 숫자들 40조 주주환원 기막힌 이유 30조 셈법"
-    ],
-    [
      "2026-08-22T00:25:17.724140+09:00",
      "부른 투자 폭탄 IPO 풋옵션 수백억 개미 실패"
     ],
@@ -162,11 +154,17 @@
     [
      "2026-08-22T06:15:22.797889+09:00",
      "SK증권 부각 자사주 수혜주로 40조 SK하이닉스 매입"
+    ],
+    [
+     "2026-08-22T06:20:21.437882+09:00",
+     "SK하이닉스 삼성전자 현황 규모 주주환원"
+    ],
+    [
+     "2026-08-22T06:20:21.437882+09:00",
+     "15조원 쟁여놓자 개인도 달러 줍줍했다 기업도 달러예금"
     ]
    ],
    "seen_urls": [
-    "https://www.greened.kr/news/articleView.html?idxno=348120",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1721116",
     "https://biz.sbs.co.kr/article_hub/20000329901?division=NAVER",
     "https://isplus.com/article/view/isp202608210012",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478968",
@@ -1664,11 +1662,11 @@
     "https://www.womennews.co.kr/news/articleView.html?idxno=281295",
     "https://www.moneystorm.kr/news/articleView.html?idxno=5888",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716459&plink=ORI&cooper=NAVER",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=423230"
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=423230",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=63213",
+    "https://www.mk.co.kr/article/12133699"
    ],
    "seen_titles": [
-    "이재명대통령,최태원회장과비공개만찬회동'반도체논의(?)'...이재...",
-    "SK하이닉스,40조'통큰베팅'…곳간줄어도재무여력충분",
     "[증시전략]美국가부채40조달러첫돌파…'재정안정'방안은?",
     "NBA도전도,태극마크도놓치지않는다…이현중미국서곧장레바논행",
     "[단독]SK하이닉스,AI데이터이동줄이는신기술확보…美특허확인",
@@ -3166,10 +3164,12 @@
     "뉴욕증시,저가매수에상승...3대지수,주간기준하락",
     "뉴욕증시,금리상승에도저가매수반등…하이닉스ADR·마이크론은보...",
     "[모닝와이드]오늘의주요뉴스",
-    "[주간e종목]SK증권,SK하이닉스40조자사주매입수혜주로부각"
+    "[주간e종목]SK증권,SK하이닉스40조자사주매입수혜주로부각",
+    "삼성전자·SK하이닉스주주환원규모현황",
+    "개인도기업도“달러쌀때쟁여놓자”…달러예금15조원줍줍했다"
    ],
    "initialized": true,
-   "last_run": "2026-08-22T06:15:22.797889+09:00"
+   "last_run": "2026-08-22T06:20:21.437882+09:00"
   }
  },
  "press_names": {
