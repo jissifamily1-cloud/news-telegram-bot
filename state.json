@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-21T05:55:16.987175+09:00",
-     "하나 품은 문턱 넘었다 비트고코리아 VASP SKT"
-    ],
-    [
-     "2026-08-21T05:55:16.987175+09:00",
-     "삼성 수율 D램 숫자의 따라잡았다"
-    ],
-    [
      "2026-08-21T06:05:16.725182+09:00",
      "속으로 역사 23년 서비스 3G 신규 SKT 가입 만에 중단"
     ],
@@ -1086,15 +1078,21 @@
     [
      "2026-08-21T11:50:23.444775+09:00",
      "SK하이닉스 선언 선순환 갈까요 200만원 주주가치"
+    ],
+    [
+     "2026-08-21T11:55:19.262862+09:00",
+     "임박 ESS 저가출혈 입찰 언제까지 경쟁 3차"
+    ],
+    [
+     "2026-08-21T11:55:19.262862+09:00",
+     "관계도 주식 임금동결 반도체도 노사 호황 1등 쏜다 위기"
+    ],
+    [
+     "2026-08-21T11:55:19.262862+09:00",
+     "트라우마만 남았다 레버리지 로이터 광풍 증시 불신과"
     ]
    ],
    "seen_urls": [
-    "https://www.cbci.co.kr/news/articleView.html?idxno=599723",
-    "https://www.womentimes.co.kr/news/articleView.html?idxno=105444",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=143331",
-    "https://www.hankookilbo.com/news/article/A2026082013230004334?did=NA",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1721069",
-    "http://www.00news.co.kr/news/articleView.html?idxno=106002",
     "http://www.newsworker.co.kr/news/articleView.html?idxno=442057",
     "https://www.viva100.com/article/20260820500972",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694370",
@@ -2588,15 +2586,15 @@
     "https://www.newsworks.co.kr/news/articleView.html?idxno=851115",
     "https://www.ytn.co.kr/_ln/0102_202608211143248703",
     "https://www.yna.co.kr/view/AKR20260821084800008?input=1195m",
-    "https://economist.co.kr/article/view/ecn202608210021"
+    "https://economist.co.kr/article/view/ecn202608210021",
+    "https://view.asiae.co.kr/article/2026082111511498683",
+    "https://www.newsis.com/view/NISX20260821_0003757109",
+    "https://www.ytn.co.kr/_ln/0103_202608211146076147",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=851000",
+    "https://www.segye.com/newsView/20260821506687?OutUrl=naver",
+    "https://www.news1.kr/world/northeast-asia/6265475"
    ],
    "seen_titles": [
-    "코스피불기둥…삼성전자·SK하이닉스·SK스퀘어↑,한화에어로스페이스...",
-    "SK하이닉스노사,전체성과급의60%주식지급잠정합의",
-    "코스피,외인순매수에6%급등한6852마감...'반도체만'초강세",
-    "SK하이닉스,'빛'으로AI데이터병목푼다…차세대연결기술방향제...",
-    "[1%초고수의선택]급등주도엇갈렸다…'반도체'사고'바이오·증권'...",
-    "삼성·SK'주주부자시대'정조준",
     "[뉴스워커_미래에셋]'TIGER배당커버드콜액티브',연초이후수익률61...",
     "SK하이닉스가쏘아올린밸류업⋯‘코리아디스카운트’종식당길까",
     "방미통위,'유료방송활성화'민관협의체출범…규제·콘텐츠대가논의",
@@ -4090,10 +4088,16 @@
     "검찰'노태우비자금의혹'강제수사착수…김옥숙자택등압수수색",
     "코스피1.5%하락출발...코스닥'매도사이드카'",
     "\"주주환원의힘\"…美찬바람에도삼전닉스강세에코스피상승탄력",
-    "[오늘의삼전닉스]주주가치선순환선언,SK하이닉스200만원갈까요"
+    "[오늘의삼전닉스]주주가치선순환선언,SK하이닉스200만원갈까요",
+    "권민수한은신임부총재\"신중하고유연한통화정책필요\"",
+    "'성과급60%주식'최종확정되나…SK하이닉스노조찬반투표결과'촉각...",
+    "검찰,'노태우비자금의혹'첫압수수색...김옥숙자택도포함",
+    "[취재노트]3차ESS입찰임박…저가출혈경쟁언제까지",
+    "“위기땐임금동결,호황땐주식쏜다”…반도체도1등,노사관계도...",
+    "\"韓증시,레버리지광풍뒤불신과트라우마만남았다\"-로이터"
    ],
    "initialized": true,
-   "last_run": "2026-08-21T11:50:23.444775+09:00"
+   "last_run": "2026-08-21T11:55:19.262862+09:00"
   }
  },
  "press_names": {
