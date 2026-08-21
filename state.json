@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-21T08:00:32.130444+09:00",
-     "곳간 제각각 사정은 통신3사 투자 전념하는"
-    ],
-    [
      "2026-08-21T08:05:18.564510+09:00",
      "해군 해상 지원 함정 급유 분배 유류 훈련 SK이노베이션 합동"
     ],
@@ -1038,13 +1034,17 @@
     [
      "2026-08-21T13:55:18.452820+09:00",
      "한국 전액 서울아산병원 Folia Award 교수 김효원 상금"
+    ],
+    [
+     "2026-08-21T14:00:34.660707+09:00",
+     "단통법 사라져도 잠잠했나 번호이동 통신시장"
+    ],
+    [
+     "2026-08-21T14:00:34.660707+09:00",
+     "returns announce Samsung to likely Electronics tln won shareholder"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260820162843416",
-    "http://www.metroseoul.co.kr/article/20260820500558",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=272138",
-    "http://www.issuenbiz.com/news/articleView.html?idxno=78904",
     "https://biz.sbs.co.kr/article_hub/20000329805?division=NAVER",
     "http://www.metroseoul.co.kr/article/20260820500405",
     "http://www.newsprime.co.kr/news/article.html?no=744515",
@@ -2540,13 +2540,13 @@
     "https://news.mtn.co.kr/news-detail/2026082111220840245",
     "https://www.khan.co.kr/article/202608211352001",
     "https://biz.newdaily.co.kr/site/data/html/2026/08/21/2026082100113.html",
-    "https://www.ibabynews.com/news/articleView.html?idxno=153878"
+    "https://www.ibabynews.com/news/articleView.html?idxno=153878",
+    "http://topclass.chosun.com/news/articleView.html?idxno=36683",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479371",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=726591",
+    "https://en.yna.co.kr/view/AEN20260821005900320?input=2106m"
    ],
    "seen_titles": [
-    "[마감시황]코스피,외국인'사자'에5%대급등…하루만에6800선회복",
-    "독파모2차평가,SKT·LGAI연구원사용자평가서최고점",
-    "\"40조는시작일뿐…SK하이닉스,245조원대주주환원폭탄터뜨린다\"",
-    "코스피,6800선마감...반도체·외국인이주가올렸다",
     "삼전·SK하닉급등에…단일레버리지거래대금이틀만에1조넘어",
     "광주시,박관열시장정부에‘역세권추가지정·국가산단유치’전격...",
     "코스피,美국채금리진정·반도체강세에'6800선회복'…코스닥1.99%↑",
@@ -4042,10 +4042,14 @@
     "요새빅테크미션은메모리절감이라는데..[AI칩인사이드]",
     "이대통령,최태원과비공개회동…호남반도체·대미투자논의했나",
     "'선행매매'인가,'책임경영'인가…최태원49억자사주매입두고갑작...",
-    "[나눔트렌드]서울아산병원김효원교수,'FoliaAward'상금전액한국..."
+    "[나눔트렌드]서울아산병원김효원교수,'FoliaAward'상금전액한국...",
+    "하이닉스40조자사주소각…내주식은얼마나달라질까?/SK하이닉스발...",
+    "밸류업공시이행력따라수급쏠림…대형통신·금융주차별화장세...",
+    "단통법사라져도번호이동2.5%↑…통신시장왜잠잠했나",
+    "SamsungElectronicslikelytoannounce100tln-wonshareholderretur"
    ],
    "initialized": true,
-   "last_run": "2026-08-21T13:55:18.452820+09:00"
+   "last_run": "2026-08-21T14:00:34.660707+09:00"
   }
  },
  "press_names": {
