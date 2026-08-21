@@ -893,7 +893,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20081624",
     "https://www.mt.co.kr/opinion/2026/08/21/2026082014284731194",
     "https://www.mt.co.kr/opinion/2026/08/21/2026082012270511974",
     "https://www.yna.co.kr/view/AKR20260821006200091?input=1195m",
@@ -2392,10 +2391,10 @@
     "http://www.yonhapnewstv.co.kr/news/MYH202608211919041HI",
     "https://news.jtbc.co.kr/article/NB12314503?influxDiv=NAVER",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=609263",
-    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546368"
+    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546368",
+    "https://www.hani.co.kr/arti/society/society_general/1274104.html"
    ],
    "seen_titles": [
-    "이재명대통령,최태원SK회장과비공개만찬…반도체투자·노사현안...",
     "[사설]삼전닉스주주환원,국장도약계기돼야",
     "엔비디아가부러운게아니다[특파원칼럼]",
     "마이크론,美에첫'메모리전문연구소'설립…14조원투입",
@@ -3894,10 +3893,11 @@
     "'삼전닉스'가끌었다…코스피6,900선회복",
     "노소영이꺼낸'300억메모'부메랑…재산몰수가능성",
     "SK하이닉스,대규모자사주소각으로주가급등:메디컬투데이TV",
-    "[아는기자]이혼이소환한‘비자금’…35년만에환수?"
+    "[아는기자]이혼이소환한‘비자금’…35년만에환수?",
+    "최태원이혼이쏘아올린30여년전‘노태우비자금’수사…국고환수..."
    ],
    "initialized": true,
-   "last_run": "2026-08-21T19:38:49.306786+09:00"
+   "last_run": "2026-08-21T19:40:21.377740+09:00"
   }
  },
  "press_names": {
