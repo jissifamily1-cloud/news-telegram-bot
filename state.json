@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-21T19:04:09.567575+09:00",
-     "어디로 갈까 카카오X는"
-    ],
-    [
      "2026-08-21T19:20:22.387530+09:00",
      "이혼소송서 이어질까 몰수까지 단초 메모 비자금"
     ],
@@ -197,8 +193,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=726330",
-    "https://www.ytn.co.kr/_ln/0104_202608210636128218",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479173",
     "https://www.bloter.net/news/articleView.html?idxno=671437",
     "https://biz.chosun.com/international/international_economy/2026/08/21/KCWCO3KCZJCQ3IOESYGZL2OMFM/",
@@ -1696,11 +1690,11 @@
     "https://byline.network/?p=9004111222616189",
     "https://www.joongang.co.kr/article/25455215",
     "https://www.chosun.com/national/court_law/2026/08/22/SX7NYVCHKZFG5LTK5LF5C7LBH4/",
-    "https://www.chosun.com/economy/tech_it/2026/08/22/PISTH3GOGBFHBPQW4XXIJH6HGU/"
+    "https://www.chosun.com/economy/tech_it/2026/08/22/PISTH3GOGBFHBPQW4XXIJH6HGU/",
+    "https://mhnse.com/news/articleView.html?idxno=1497591",
+    "https://www.joongang.co.kr/article/25455235"
    ],
    "seen_titles": [
-    "[THECEO]박병무엔씨공동대표",
-    "마이크론,미국에14조원투입해메모리연구소설립...삼성·하이닉스...",
     "마이크론,삼성·SK하이닉스추격에14조원베팅…美에'메모리연구소...",
     "마이크론,美최초AI메모리연구소설립…100억달러투자",
     "뉴욕증시,국채금리상승·월마트실적부진에동반하락마감",
@@ -3198,10 +3192,12 @@
     "카카오가인적분할하려는이유(feat.일문일답))",
     "사상가‘설계’철학자‘설파’…미기술패권바꾼팔란티어",
     "최태원이혼이소환한‘노태우비자금’…검찰,강제수사착수",
-    "삼성전자“주주들에올해110조환원”"
+    "삼성전자“주주들에올해110조환원”",
+    "‘가을’문턱서다시만난LGvs한화,결과는15:11…한화의대역전승...",
+    "‘노태우비자금’김옥숙여사자택압수수색"
    ],
    "initialized": true,
-   "last_run": "2026-08-22T01:01:05.044611+09:00"
+   "last_run": "2026-08-22T01:05:19.319580+09:00"
   }
  },
  "press_names": {
