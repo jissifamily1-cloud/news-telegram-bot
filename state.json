@@ -282,10 +282,13 @@
     [
      "2026-08-22T08:15:21.277901+09:00",
      "만에 쌀값 2주 3191엔 하락"
+    ],
+    [
+     "2026-08-22T08:45:21.912961+09:00",
+     "라피더스 패널 착수 독주 TSMC 맞불 600mm 패키징"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260821014800011?input=1195m",
     "https://jp.yna.co.kr/view/AJP20260821000100882?input=1728m",
     "https://www.hankookilbo.com/news/article/A2026082015050003506?did=NA",
     "https://www.banronbodo.com/news/articleView.html?idxno=32857",
@@ -1784,10 +1787,10 @@
     "https://www.sidae.com/article/2026082108510452390",
     "https://www.sportsseoul.com/news/read/1630013",
     "https://www.pointe.co.kr/news/articleView.html?idxno=83420",
-    "https://www.sedaily.com/article/20082023"
+    "https://www.sedaily.com/article/20082023",
+    "https://www.g-enews.com/view.php?ud=202608220808587771fbbec65dfb_1"
    ],
    "seen_titles": [
-    "[전국주요신문톱뉴스](21일조간)",
     "韓国主要紙の朝刊ヘッドライン（8月21日）",
     "AI·로봇연결SI기술로피지컬AI강자떠올라",
     "[주간기업동향]이재현CJ회장,북미K-라이프스타일전략점검外",
@@ -3286,10 +3289,11 @@
     "주가폭락후에야목표가줄하향,투자자가봐야할지표들",
     "전원버핏,9000%잭팟…전원주,2만원대하이닉스15년간‘진짜1주도...",
     "[오늘일본은]日쌀값5㎏3191엔…2주만에하락",
-    "전북잡고‘4경기무패’달린부천,포항상대로시즌첫연승도전"
+    "전북잡고‘4경기무패’달린부천,포항상대로시즌첫연승도전",
+    "라피더스,600mm패널패키징착수…TSMC독주맞불"
    ],
    "initialized": true,
-   "last_run": "2026-08-22T08:40:20.843535+09:00"
+   "last_run": "2026-08-22T08:45:21.912961+09:00"
   }
  },
  "press_names": {
