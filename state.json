@@ -130,17 +130,29 @@
     [
      "2026-08-22T23:45:19.722490+09:00",
      "삼성 줄일까 하이닉스와의 IPO 중국 격차 양쯔메모리"
+    ],
+    [
+     "2026-08-23T00:05:17.503961+09:00",
+     "대전환 기회 전기차로 소부장 녹색 열린다 공급망 물류"
+    ],
+    [
+     "2026-08-23T00:05:17.503961+09:00",
+     "데이터센터 경쟁 확보 건설업계 먹거리 기술"
+    ],
+    [
+     "2026-08-23T00:05:17.503961+09:00",
+     "닥공 서울시 거세진다 속도전에 정부 논란 용산공원"
+    ],
+    [
+     "2026-08-23T00:05:17.503961+09:00",
+     "소각의 불씨 수급 반도체 40조원 대형주 자사주"
+    ],
+    [
+     "2026-08-23T00:05:17.503961+09:00",
+     "파도 증명한 주주환원이 막아선 배분 고금리 자본"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260821048600008?input=1195m",
-    "https://www.ajunews.com/view/20260821094625530",
-    "https://www.news1.kr/finance/market-exr/6265247",
-    "https://www.ilovepc.co.kr/news/articleView.html?idxno=60384",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=5872",
-    "https://biz.sbs.co.kr/article_hub/20000329947?division=NAVER",
-    "https://www.sentv.co.kr/article/view/sentv202608210056",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=94017",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=851079",
     "https://economist.co.kr/article/view/ecn202608210009",
     "https://www.mediapen.com/news/view/1117924",
@@ -1632,17 +1644,17 @@
     "https://n.news.naver.com/mnews/article/077/0007131944",
     "https://n.news.naver.com/mnews/article/077/0007131949",
     "https://www.gokorea.kr/news/articleView.html?idxno=875941",
-    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597822"
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597822",
+    "https://www.xportsnews.com/article/2186820",
+    "https://news.tf.co.kr/read/economy/2356831.htm",
+    "http://www.footballist.co.kr/news/articleView.html?idxno=213833",
+    "https://www.theguru.co.kr/news/article.html?no=106116",
+    "https://www.theguru.co.kr/news/article.html?no=106114",
+    "https://news.tf.co.kr/read/economy/2356832.htm",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=85788",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=85786"
    ],
    "seen_titles": [
-    "[특징주]금호전기,‘호남반도체클러스터’호재에장초반26%대급...",
-    "[특징주]SK증권,'하닉자사주매입'수혜기대에이틀연속급등",
-    "[특징주]SK증권,SK하이닉스40조원자사주매입중개에2거래일째강세",
-    "또치솟는美국채금리,코스피하락세…'주주환원'삼전닉스보합[개장...",
-    "[디지털포스트모닝픽]카카오,지주사전환추진…카톡·AI별도법인...",
-    "[탐사경]AI가끌어올린성장,AI가밀어올린금리…'공짜자본'의시대...",
-    "'하이닉스자사주매입'수혜기대…SK증권,이틀째두자릿수폭등",
-    "코스피,금리상승우려에1%하락출발…6800선반납",
     "코스피,美장기금리부담에1%대하락출발…6780선등락",
     "SK하이닉스,'日미야기현에메모리팹건립추진'보도\"사실무근\"",
     "코스피상승전환...국채금리상승도'반도체열풍'막지못해",
@@ -3134,10 +3146,18 @@
     "메모리반도체반등에…서학개미,'삼전·닉스'라운드힐ETF1천억싹...",
     "GermanySoccerCup",
     "중국양쯔메모리IPO추진…삼성-하이닉스와의격차줄일까?",
-    "제주SK데뷔전치른박수빈\"팀에도움이되지못해아쉬워\""
+    "제주SK데뷔전치른박수빈\"팀에도움이되지못해아쉬워\"",
+    "\"모든것이완벽했다\"7-0대승에김기동감독미소…\"우승언급?9월슬...",
+    "[비즈토크<하>]역대급주주환원…삼전닉스임원주식추적사이트'주...",
+    "'7-0대승'서울,K리그1최다점수차승리타이…단일팀단일경기...",
+    "美물류,전기차로'녹색대전환'...K-소부장공급망기회열린다",
+    "건설업계,새먹거리'AI데이터센터'기술확보경쟁",
+    "[비즈토크<상>]정부·서울시'닥공'속도전에용산공원논란거세진다",
+    "[증시프리즘]\"40조원자사주소각의힘\"…반도체대형주수급불씨살...",
+    "[더페어돋보기]\"고금리파도막아선자본배분\"…주주환원이증명한..."
    ],
    "initialized": true,
-   "last_run": "2026-08-23T00:00:35.663559+09:00"
+   "last_run": "2026-08-23T00:05:17.503961+09:00"
   }
  },
  "press_names": {
