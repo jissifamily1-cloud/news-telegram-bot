@@ -122,10 +122,13 @@
     [
      "2026-08-22T22:40:20.800668+09:00",
      "언론 진보 징계에 보수 국힘 쏟아졌다 비판 비당권파"
+    ],
+    [
+     "2026-08-22T23:10:23.173254+09:00",
+     "삼전 닉스 반도체 라운드 메모리 개미 ETF 반등에 서학 1천억"
     ]
    ],
    "seen_urls": [
-    "https://www.news2day.co.kr/article/20260821500060",
     "http://www.newsian.co.kr/news/articleView.html?idxno=94016",
     "https://www.joongangenews.com/news/articleView.html?idxno=541627",
     "https://www.gokorea.kr/news/articleView.html?idxno=875765",
@@ -1624,10 +1627,10 @@
     "http://www.newstown.co.kr/news/articleView.html?idxno=713262",
     "https://www.mediatoday.co.kr/news/articleView.html?idxno=336631",
     "https://www.stnsports.co.kr/news/articleView.html?idxno=321346",
-    "https://www.newsis.com/view/NISX20260822_0003758600"
+    "https://www.newsis.com/view/NISX20260822_0003758600",
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432760"
    ],
    "seen_titles": [
-    "[N2증시풍향계]더본코리아·삼양바이오팜·SK증권‘강세’…네오이...",
     "[초점]李대통령,최태원과비공개만찬…'반도체·대미투자'해법논...",
     "[개장시황]\"외인·기관동반순매도\"…코스피,장초반하락전환",
     "이재명대통령-최태원SK회장비공식만찬…호남반도체프로젝트논의...",
@@ -3126,10 +3129,11 @@
     "[용인민선9기연속기획⑦·총정리]이상일시장,민선8기성과넘어...",
     "국힘비당권파징계에진보·보수언론비판쏟아졌다",
     "FC서울,'연고지더비'서안양7-0완파…전북은울산에1-0승",
-    "'연고악연'서울에0-7로진안양유병훈감독\"1000%내잘못\""
+    "'연고악연'서울에0-7로진안양유병훈감독\"1000%내잘못\"",
+    "메모리반도체반등에…서학개미,'삼전·닉스'라운드힐ETF1천억싹..."
    ],
    "initialized": true,
-   "last_run": "2026-08-22T23:05:18.814442+09:00"
+   "last_run": "2026-08-22T23:10:23.173254+09:00"
   }
  },
  "press_names": {
