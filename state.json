@@ -390,10 +390,13 @@
     [
      "2026-08-22T09:50:22.708408+09:00",
      "약세 반등할까 새주 딛고 130만원선 삼성전기 엇갈린 증시"
+    ],
+    [
+     "2026-08-22T10:00:34.248904+09:00",
+     "강세 마감 증시 올라 상승 미국 반도체는 다우"
     ]
    ],
    "seen_urls": [
-    "https://dealsite.co.kr/articles/167530",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=609107",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=316251",
     "http://www.srtimes.kr/news/articleView.html?idxno=210521",
@@ -1892,10 +1895,10 @@
     "https://www.sidae.com/article/2026082209244741468",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=275304",
     "https://www.cbci.co.kr/news/articleView.html?idxno=600154",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16170092"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16170092",
+    "https://www.seoul.co.kr/news/economy/securities/2026/08/22/20260822500008?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "[충정로에서]SK하이닉스의주주환원,그리고솔리다임",
     "원·달러환율1350원까지추가하락전망",
     "이재명대통령,최태원과비공개만찬…대미·국내반도체투자논의",
     "토스증권,올리브영과손잡고신규투자자유치",
@@ -3394,10 +3397,11 @@
     "인천송도아파트외벽'테라스붕괴'…국토부·인천시합동조사착수",
     "SamsungElectronicsPledgesUpto110TrillionWoninRecordSharehold",
     "삼성전기,엇갈린증시속약세…새주130만원선딛고반등할까",
-    "\"9점차또뒤집기\"한화,3번째대역전승에도짐머맨난조숙제"
+    "\"9점차또뒤집기\"한화,3번째대역전승에도짐머맨난조숙제",
+    "[서울데이터랩]미국증시상승마감…다우0.98%올라강세,반도체는차..."
    ],
    "initialized": true,
-   "last_run": "2026-08-22T09:55:16.515554+09:00"
+   "last_run": "2026-08-22T10:00:34.248904+09:00"
   }
  },
  "press_names": {
