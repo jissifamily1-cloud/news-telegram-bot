@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-22T05:35:18.217118+09:00",
-     "앤트로픽 클로드용 설계팀 자체 꾸린다"
-    ],
-    [
-     "2026-08-22T05:35:18.217118+09:00",
-     "국채 반등 수익률 테슬라 급등 상승에도"
-    ],
-    [
      "2026-08-22T05:45:19.600892+09:00",
      "대한제국 상실 조약 한일합방 국권 사실상"
     ],
@@ -477,8 +469,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=316260",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260821090635xBx",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=271373",
     "http://www.globalepic.co.kr/view.php?ud=2026082108515540297cc35ccc5c_29",
     "https://www.kukinews.com/article/view/kuk202608210018",
@@ -1976,11 +1966,11 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479545",
     "https://www.topstarnews.net/news/articleView.html?idxno=16170194",
     "https://www.topstarnews.net/news/articleView.html?idxno=16170192",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479546"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479546",
+    "https://www.abcn.kr/news/articleView.html?idxno=90764",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16170197"
    ],
    "seen_titles": [
-    "코스피,1%대하락출발…6759.95개장",
-    "[속보]코스피1%대하락…6,750선출발",
     "SK증권\"탄소중립기본법개정,중장기감축목표법제화\"",
     "[맞수탐구]미래에셋vs한국투자…증권넘어종합금융그룹대결",
     "이익늘고배당커지고…삼성전자‘100조특별배당’기대↑",
@@ -3478,10 +3468,12 @@
     "[주간코스닥기관]삼성전자·한미반도체사고삼성전기·SK하이닉스...",
     "8월3주차SK이터닉스주가6만원대고점형성후하락",
     "최근5거래일SK스퀘어주가흐름",
-    "[주간거래소기관]삼성전자우SK텔레콤삼양식품이수페타시스'폭풍..."
+    "[주간거래소기관]삼성전자우SK텔레콤삼양식품이수페타시스'폭풍...",
+    "[ABC뉴스칼럼]접착제로붙인아파트테라스붕괴...SK의안전불감증",
+    "최근5거래일SK증권주가급등마감"
    ],
    "initialized": true,
-   "last_run": "2026-08-22T11:30:24.891091+09:00"
+   "last_run": "2026-08-22T11:35:18.341495+09:00"
   }
  },
  "press_names": {
