@@ -434,11 +434,13 @@
     [
      "2026-08-22T10:40:21.319482+09:00",
      "YMTC도 잰걸음 낸드업체 CXMT 이어 6조8천억원 조달 IPO 계획"
+    ],
+    [
+     "2026-08-22T10:45:22.498669+09:00",
+     "2분기 동시에 영업익 끌었다 AI가 반도체 8조원"
     ]
    ],
    "seen_urls": [
-    "https://news.dealsitetv.com/articles/175007",
-    "https://www.nspna.com/news/?newsid=825014",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1721130",
     "http://www.datanews.co.kr/news/article.html?no=146096",
     "https://www.newspim.com/news/view/20260821000147",
@@ -1936,11 +1938,11 @@
     "https://economist.co.kr/article/view/ecn202608210050",
     "http://www.kjdaily.com/article.php?aid=1787362579684957227",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=87523",
-    "https://www.yna.co.kr/view/AKR20260822023800089?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260822023800089?input=1195m",
+    "https://www.sentv.co.kr/article/view/sentv202608220019",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479532"
    ],
    "seen_titles": [
-    "[뉴욕브리핑]美국채금리반등에3대지수일제하락",
-    "대신증권,원·달러10개월만에1300원대…“연내1350원간다”",
     "[Tech&Now]SK쉴더스,'공통인프라'노린랜섬웨어경고…로보티즈,中...",
     "포스코퓨처엠,LFP전환속도전…음극재묶어회복노린다",
     "경북국립의과대학신설속도붙었다...경북도,추진계획서제출",
@@ -3438,10 +3440,12 @@
     "하루1시간씩5일…‘레버리지’투자전반드시해볼세가지[재.밌.돈...",
     "[이번주증시]SK하이닉스·삼성전자58조거래",
     "한화,0-9열세뒤집은대역전극···LG에15-11승리하며6연패탈출",
-    "CXMT이어中낸드업체YMTC도IPO잰걸음…6조8천억원조달계획"
+    "CXMT이어中낸드업체YMTC도IPO잰걸음…6조8천억원조달계획",
+    "中낸드강자YMTC,6조8000억조달IPO나선다",
+    "SK,2분기영업익4.8조원…반도체·AI가동시에끌었다"
    ],
    "initialized": true,
-   "last_run": "2026-08-22T10:40:21.319482+09:00"
+   "last_run": "2026-08-22T10:45:22.498669+09:00"
   }
  },
  "press_names": {
