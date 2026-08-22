@@ -122,10 +122,13 @@
     [
      "2026-08-22T22:20:22.785076+09:00",
      "예상 미스코리아 우지원 우서윤 못해 전혀 됐다"
+    ],
+    [
+     "2026-08-22T22:35:16.990885+09:00",
+     "시장 이상일 넘어 민선 성과 8기"
     ]
    ],
    "seen_urls": [
-    "https://www.goal.com/kr/뉴스/a/blt903d573556aa1a1c",
     "https://www.businesspost.co.kr/BP?command=article_view&num=445257",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1534810",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608210299&t=NN",
@@ -1624,10 +1627,10 @@
     "https://www.news1.kr/sports/soccer/6266464",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4081753",
     "https://www.tvreport.co.kr/uncategorized/article/1070408/",
-    "https://www.newsis.com/view/NISX20260822_0003758608"
+    "https://www.newsis.com/view/NISX20260822_0003758608",
+    "http://www.newstown.co.kr/news/articleView.html?idxno=713262"
    ],
    "seen_titles": [
-    "[오피셜]‘러시아혼혈골키퍼’송안톤주장완장찬다!아시안컵예...",
     "NH투자\"다음주코스피6400~7500전망,증시제약요인대부부해소\"",
     "SK하이닉스노사,임금·단체협약잠정합의",
     "트럼프,對이란'경제고립작전'선언...내주경제제재안발표-[굿모닝...",
@@ -3126,10 +3129,11 @@
     "서울,'연고지더비'서안양에7-0대승…전북은울산제압(종합)",
     "영주역~원도심잇는길,주민손으로더쾌적하게",
     "'우지원딸'우서윤,미스코리아진됐다..\"전혀예상못해\"",
-    "서울,'연고지더비'서안양7-0대파…전북은울산1-0제압(종합2보)"
+    "서울,'연고지더비'서안양7-0대파…전북은울산1-0제압(종합2보)",
+    "[용인민선9기연속기획⑦·총정리]이상일시장,민선8기성과넘어..."
    ],
    "initialized": true,
-   "last_run": "2026-08-22T22:30:27.140833+09:00"
+   "last_run": "2026-08-22T22:35:16.990885+09:00"
   }
  },
  "press_names": {
