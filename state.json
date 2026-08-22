@@ -266,10 +266,13 @@
     [
      "2026-08-23T08:25:00.771402+09:00",
      "규제 9분의 감소 거래대금 ETF 단일종목"
+    ],
+    [
+     "2026-08-23T08:30:27.033473+09:00",
+     "판도 신기록 메모리 CPU 폭락 데스크톱 변화 AMD"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260821064000004?input=1195m",
     "https://biz.heraldcorp.com/article/10847775",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=858484",
     "https://www.news1.kr/politics/assembly/6265337",
@@ -1768,10 +1771,10 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4431346",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4431344",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608230026&t=NN",
-    "https://www.tokenpost.kr/news/market/395828"
+    "https://www.tokenpost.kr/news/market/395828",
+    "https://www.g-enews.com/view.php?ud=202608230754416929fbbec65dfb_1"
    ],
    "seen_titles": [
-    "SK하이닉스,일본'반도체공장'추진…호남보다작은규모일듯",
     "검찰,'노태우비자금의혹'김옥숙연희동자택등압수수색",
     "SK하이닉스노사,성과급난맥함께풀었다…위기분담조항눈길[비즈...",
     "[개장시황]美국채금리재상승…코스피1%대↓",
@@ -3270,10 +3273,11 @@
     "예탁금한방에단일종목레버리지거래'뚝'…사이드카는계속",
     "금리에막힌코스피,주주환원이받친다…\"대형주딱붙어있어라\"",
     "SK하이닉스'성과급60%주식'…이번주노조투표'촉각'",
-    "거래대금9분의1,단일종목ETF규제뒤감소"
+    "거래대금9분의1,단일종목ETF규제뒤감소",
+    "데스크톱CPU20%폭락속AMD신기록…韓메모리판도변화"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T08:25:16.551544+09:00"
+   "last_run": "2026-08-23T08:30:27.033473+09:00"
   }
  },
  "press_names": {
