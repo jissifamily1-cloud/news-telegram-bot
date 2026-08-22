@@ -198,13 +198,21 @@
     [
      "2026-08-23T07:50:09.411302+09:00",
      "한국 원인은 서버값 엔비디아 인상 메모리"
+    ],
+    [
+     "2026-08-23T07:55:16.981373+09:00",
+     "사라지는 1차 3G 속으로 채비 중단에 SKT 퇴장 완전 역사 신규가입"
+    ],
+    [
+     "2026-08-23T07:55:16.981373+09:00",
+     "공석 AI미래기획수석 언제쯤 인선 달째 컨트롤타워"
+    ],
+    [
+     "2026-08-23T07:55:16.981373+09:00",
+     "마이크론 설립 추격할 연구소 삼전닉스 메모리"
     ]
    ],
    "seen_urls": [
-    "http://www.mkhealth.co.kr/news/articleView.html?idxno=79703",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=170233",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3670532",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=271390",
     "http://www.yonhapnewstv.co.kr/news/MYH20260821101610vkQ",
     "https://www.edaily.co.kr/News/Read?newsId=03178326645549616&mediaCodeNo=257",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608210417&t=NN",
@@ -1700,13 +1708,13 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4431343",
     "https://www.kbmaeil.com/article/20260823500019",
     "https://www.dt.co.kr/article/12079528",
-    "https://www.edaily.co.kr/News/Read?newsId=01118486645550272&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01118486645550272&mediaCodeNo=257",
+    "https://www.tfmedia.co.kr/news/article.html?no=206651",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694382",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694562",
+    "https://www.sedaily.com/article/20082033"
    ],
    "seen_titles": [
-    "전원주,하닉수익률9000%예상…\"더기다린다\"",
-    "물많이마시는여름…내가먹는물·얼음은안전할까",
-    "장중,한국증시'혼조'속...삼전닉스'활짝',조선·방산주'뚝'",
-    "SK하이닉스주가상승,주주환원정책효과",
     "삼성전자이사회'임박'…주주환원,FCF절반최소110조원전망",
     "코스피,하락출발후등락거듭…6,800선움직임",
     "삼전닉스폭등에\"지금이기회다\"탈출…개미들936억던졌다",
@@ -3202,10 +3210,14 @@
     "'역대급주주환원'에정부도웃는다…삼전닉스덕에세수'보너스'",
     "이번주뉴욕증시‘3대분수령’…엔비디아·PCE·워시잭슨홀",
     "‘성과급60%주식으로’…SK하이닉스임단협,24일부터노조투표",
-    "엔비디아,AI서버값15%인상…\"원인은한국메모리\""
+    "엔비디아,AI서버값15%인상…\"원인은한국메모리\"",
+    "'삼전닉스에도전中낸드YMTC,IPO로6조8천억원조달계획",
+    "(1차)역사속으로사라지는3G...SKT신규가입중단에'완전퇴장'채비",
+    "AI컨트롤타워넉달째공석...AI미래기획수석인선언제쯤",
+    "마이크론,첫메모리연구소설립...‘삼전닉스추격할것’"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T07:50:09.411302+09:00"
+   "last_run": "2026-08-23T07:55:16.981373+09:00"
   }
  },
  "press_names": {
