@@ -213,7 +213,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202608210914003103923c501012_1",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1721147",
     "https://www.widedaily.com/news/articleView.html?idxno=299750",
     "https://www.news1.kr/finance/market-exr/6265217",
@@ -1712,10 +1711,10 @@
     "https://www.yna.co.kr/view/AKR20260822034300007?input=1195m",
     "https://www.newsis.com/view/NISX20260822_0003758483",
     "http://www.footballist.co.kr/news/articleView.html?idxno=213787",
-    "https://www.news1.kr/sports/soccer/6266354"
+    "https://www.news1.kr/sports/soccer/6266354",
+    "https://www.sedaily.com/article/20082119"
    ],
    "seen_titles": [
-    "삼전·닉스너무올랐나...코스피,하방압력속약보합",
     "\"40조자사주매입은시작\"…글로벌IB\"SK하이닉스,추가환원여력충...",
     "[특징주]SK증권,SK하이닉스'40조자사주취득'중개소식에이틀째급...",
     "주주환원랠리쉬어가나…삼전닉스장초반보합권[핫종목]",
@@ -3214,10 +3213,11 @@
     "[부고]유인수(프로축구제주SKFC선수)씨부친상",
     "[부고]유인수(프로축구제주SK선수)씨부친상",
     "[부고]제주SKFC유인수선수부친상",
-    "[부고]유인수씨(프로축구제주SK선수)부친상"
+    "[부고]유인수씨(프로축구제주SK선수)부친상",
+    "CXMT이어YMTC도…中메모리굴기,증시입성속도전"
    ],
    "initialized": true,
-   "last_run": "2026-08-22T15:45:20.302197+09:00"
+   "last_run": "2026-08-22T15:50:22.221710+09:00"
   }
  },
  "press_names": {
