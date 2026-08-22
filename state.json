@@ -194,12 +194,13 @@
     [
      "2026-08-23T07:35:17.169541+09:00",
      "통신 승부 3사 AIDC에 멈추자 성장 AI로 무선 건다"
+    ],
+    [
+     "2026-08-23T07:50:09.411302+09:00",
+     "한국 원인은 서버값 엔비디아 인상 메모리"
     ]
    ],
    "seen_urls": [
-    "https://www.newspost.kr/news/articleView.html?idxno=225076",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642565",
-    "https://www.newsis.com/view/NISX20260821_0003757168",
     "http://www.mkhealth.co.kr/news/articleView.html?idxno=79703",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=170233",
     "https://www.gukjenews.com/news/articleView.html?idxno=3670532",
@@ -1696,12 +1697,12 @@
     "https://www.yna.co.kr/view/AKR20260821159200003?input=1195m",
     "https://www.the-today.com/news/articleView.html?idxno=88797",
     "https://www.yna.co.kr/view/AKR20260821093400017?input=1195m",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4431343"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4431343",
+    "https://www.kbmaeil.com/article/20260823500019",
+    "https://www.dt.co.kr/article/12079528",
+    "https://www.edaily.co.kr/News/Read?newsId=01118486645550272&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "SK하이닉스순매수1위,인버스ETF도담았다",
-    "SK브로드밴드,'서울국제여성영화제'상영작Btv특집관편성",
-    "[단독]검찰,‘노태우비자금의혹’김옥숙여사자택등압수수색",
     "전원주,하닉수익률9000%예상…\"더기다린다\"",
     "물많이마시는여름…내가먹는물·얼음은안전할까",
     "장중,한국증시'혼조'속...삼전닉스'활짝',조선·방산주'뚝'",
@@ -3198,10 +3199,13 @@
     "K-배터리3사글로벌등록특허10만건눈앞…3년새약2배로↑",
     "SK성장의비밀…직물공장선경,재계5위로—최태원·노소영이혼이...",
     "무선성장멈추자AI로…통신3사,AIDC에승부건다",
-    "'역대급주주환원'에정부도웃는다…삼전닉스덕에세수'보너스'"
+    "'역대급주주환원'에정부도웃는다…삼전닉스덕에세수'보너스'",
+    "이번주뉴욕증시‘3대분수령’…엔비디아·PCE·워시잭슨홀",
+    "‘성과급60%주식으로’…SK하이닉스임단협,24일부터노조투표",
+    "엔비디아,AI서버값15%인상…\"원인은한국메모리\""
    ],
    "initialized": true,
-   "last_run": "2026-08-23T07:45:19.849227+09:00"
+   "last_run": "2026-08-23T07:50:09.411302+09:00"
   }
  },
  "press_names": {
