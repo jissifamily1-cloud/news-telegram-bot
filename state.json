@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-22T05:45:19.600892+09:00",
-     "대한제국 상실 조약 한일합방 국권 사실상"
-    ],
-    [
      "2026-08-22T05:55:18.306648+09:00",
      "실적 덮은 호조 다음주 엔비디아 국채 불안 촉각 경기지표"
     ],
@@ -489,8 +485,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ggilbo.com/news/articleView.html?idxno=1176633",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1721138",
     "https://www.electimes.com/news/articleView.html?idxno=371445",
     "https://biz.chosun.com/stock/stock_general/2026/08/21/JU2E4L4GU5BOFK2IBJXTTFRVCY/",
     "https://news.jtbc.co.kr/article/NB12314346?influxDiv=NAVER",
@@ -1988,11 +1982,11 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16170209",
     "https://www.hankyung.com/article/2026082260327",
     "https://www.getnews.co.kr/news/articleView.html?idxno=878475",
-    "https://www.mk.co.kr/article/12133765"
+    "https://www.mk.co.kr/article/12133765",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479551",
+    "http://www.newsfc.co.kr/news/articleView.html?idxno=80643"
    ],
    "seen_titles": [
-    "코미코주가,급등세...무슨회사길래",
-    "코스피1.5%내려6750선…코스닥은3%급락",
     "(기자의눈)검사기관넘어'산업의안전파트너'로",
     "[특징주]SK증권,하이닉스40조자사주중개소식에연이틀강세",
     "[인터뷰]\"800조반도체,시민삶의변화로\"…광산구가그리는미래전략",
@@ -3490,10 +3484,12 @@
     "8월3주차SK텔레콤주가,10만원선등락끝상승마감",
     "삼전닉스턱밑까지쫓아온中YMTC…6.8조실탄마련나선다",
     "[김선한의짜오베트남]\"삼성전자,반도체전략재편에메모리후공정...",
-    "“유학비부담확줄어좋아요”…삼전닉스주주환원300조원의‘나비..."
+    "“유학비부담확줄어좋아요”…삼전닉스주주환원300조원의‘나비...",
+    "SK하이닉스,40조원통큰주주환원…추가카드나오나",
+    "삼성전자\"올해최대110조주주환원\"…주가탄력받나"
    ],
    "initialized": true,
-   "last_run": "2026-08-22T11:43:17.121293+09:00"
+   "last_run": "2026-08-22T11:45:20.533461+09:00"
   }
  },
  "press_names": {
