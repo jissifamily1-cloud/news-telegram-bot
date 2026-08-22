@@ -454,11 +454,13 @@
     [
      "2026-08-22T10:50:22.422014+09:00",
      "잔치 벌일 애플 두드렸다 삼전닉스가 CXMT는"
+    ],
+    [
+     "2026-08-22T11:00:31.441778+09:00",
+     "국내 엔비디아 협상 NPU 인수 리벨리온과 스타트업"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/AKR20260821090059SNs",
-    "https://news.jtbc.co.kr/article/NB12314348?influxDiv=NAVER",
     "https://biz.heraldcorp.com/article/10847578",
     "http://www.thebigdata.co.kr/view.php?ud=2026082013381762410ecbf9426b_23",
     "https://www.hinews.co.kr/view.php?ud=2026082012004131789284fa285d_48",
@@ -1956,11 +1958,11 @@
     "https://www.g-enews.com/view.php?ud=20260822103823165fbbec65dfb_1",
     "https://www.pennmike.com/news/articleView.html?idxno=126172",
     "http://www.osen.co.kr/article/G1112861779",
-    "https://www.sedaily.com/article/20082081"
+    "https://www.sedaily.com/article/20082081",
+    "https://www.ytn.co.kr/_ln/0102_202608221054383202",
+    "https://www.aitimes.com/news/articleView.html?idxno=214241"
    ],
    "seen_titles": [
-    "이대통령,SK최태원과만찬회동…메가프로젝트논의",
-    "40조원주주환원'통했다'…SK하이닉스13%가까이'쑥'",
     "“스마트폰이어의료기기까지”…수면AI에이슬립,전통제약사품고...",
     "레인보우로보틱스,삼성향매출3배…美흑자·생산확대",
     "윌로펌프음식물처리기'디퍼',배관막힘방지구조적용9월출시",
@@ -3458,10 +3460,12 @@
     "中,메모리19.6조상장실탄…삼성시안·SK우시정면충돌",
     "[재계핫이슈]삼전닉스가'잔치'벌일때,CXMT는'애플문'두드렸다",
     "\"9점차역전말이안된다.이런야구를해본적이없다\"역대2위진기...",
-    "삼성‘110조환원’에도머쓱…‘40조소각’띄운SK하이닉스는호평..."
+    "삼성‘110조환원’에도머쓱…‘40조소각’띄운SK하이닉스는호평...",
+    "삼성전자,사상최대주주환원...장마감뒤거래는하락",
+    "엔비디아,국내NPU스타트업리벨리온과인수협상중"
    ],
    "initialized": true,
-   "last_run": "2026-08-22T10:55:20.282579+09:00"
+   "last_run": "2026-08-22T11:00:31.441778+09:00"
   }
  },
  "press_names": {
