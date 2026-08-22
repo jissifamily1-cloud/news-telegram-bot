@@ -270,11 +270,13 @@
     [
      "2026-08-23T08:30:27.033473+09:00",
      "판도 신기록 메모리 CPU 폭락 데스크톱 변화 AMD"
+    ],
+    [
+     "2026-08-23T08:35:16.487723+09:00",
+     "청사진은 광주 반도체 양산 시작 개발 63만평 연말엔"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10847775",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=858484",
     "https://www.news1.kr/politics/assembly/6265337",
     "http://www.srtimes.kr/news/articleView.html?idxno=210489",
     "http://www.kdfnews.com/news/articleView.html?idxno=186856",
@@ -1772,11 +1774,11 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4431344",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608230026&t=NN",
     "https://www.tokenpost.kr/news/market/395828",
-    "https://www.g-enews.com/view.php?ud=202608230754416929fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202608230754416929fbbec65dfb_1",
+    "https://www.dt.co.kr/article/12079533",
+    "https://www.newsis.com/view/NISX20260821_0003757929"
    ],
    "seen_titles": [
-    "검찰,'노태우비자금의혹'김옥숙연희동자택등압수수색",
-    "SK하이닉스노사,성과급난맥함께풀었다…위기분담조항눈길[비즈...",
     "[개장시황]美국채금리재상승…코스피1%대↓",
     "김민석\"강릉ITS총회성공지원\"…TF위원장에김우영·롯데이돈태",
     "쿠쿠VSSK인텔릭스,말련시장경쟁…승자누가되나",
@@ -3274,10 +3276,12 @@
     "금리에막힌코스피,주주환원이받친다…\"대형주딱붙어있어라\"",
     "SK하이닉스'성과급60%주식'…이번주노조투표'촉각'",
     "거래대금9분의1,단일종목ETF규제뒤감소",
-    "데스크톱CPU20%폭락속AMD신기록…韓메모리판도변화"
+    "데스크톱CPU20%폭락속AMD신기록…韓메모리판도변화",
+    "삼전닉스‘150조+α’배당폭탄에도...코스피회전율·거래량연중최저",
+    "'2030광주産반도체양산'청사진은…연말엔63만평개발시작"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T08:30:27.033473+09:00"
+   "last_run": "2026-08-23T08:35:16.487723+09:00"
   }
  },
  "press_names": {
