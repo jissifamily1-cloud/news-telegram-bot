@@ -265,7 +265,6 @@
     ]
    ],
    "seen_urls": [
-    "http://enews.imbc.com/News/RetrieveNewsInfo/515440",
     "https://news.jtbc.co.kr/article/NB12314392?influxDiv=NAVER",
     "https://www.yna.co.kr/view/AKR20260821064000004?input=1195m",
     "https://biz.heraldcorp.com/article/10847775",
@@ -1764,10 +1763,10 @@
     "https://economist.co.kr/article/view/ecn202608180046",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257633",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4431346",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4431344"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4431344",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608230026&t=NN"
    ],
    "seen_titles": [
-    "美나랏빚첫'40조달러'돌파...재무부,국채바이백2배대폭확대",
     "전원주,SK하이닉스수익률8000%…\"한주도안팔았다\"",
     "SK하이닉스,일본'반도체공장'추진…호남보다작은규모일듯",
     "검찰,'노태우비자금의혹'김옥숙연희동자택등압수수색",
@@ -3266,10 +3265,11 @@
     "'공장만지으면끝?'...메가특구성패'소부장·인력'에달려",
     "상반기순익두배뛴중소형증권사들···실적뜯어보니온도차",
     "예탁금한방에단일종목레버리지거래'뚝'…사이드카는계속",
-    "금리에막힌코스피,주주환원이받친다…\"대형주딱붙어있어라\""
+    "금리에막힌코스피,주주환원이받친다…\"대형주딱붙어있어라\"",
+    "SK하이닉스'성과급60%주식'…이번주노조투표'촉각'"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T08:15:22.902048+09:00"
+   "last_run": "2026-08-23T08:20:20.684856+09:00"
   }
  },
  "press_names": {
