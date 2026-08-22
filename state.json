@@ -133,8 +133,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/cryptocurrency/394593",
-    "https://news.tf.co.kr/read/economy/2356361.htm",
     "https://www.sedaily.com/article/20081686",
     "https://www.tokenpost.kr/news/market/394585",
     "https://biz.heraldcorp.com/article/10847635",
@@ -1632,11 +1630,11 @@
     "https://www.ytn.co.kr/_ln/0102_202608221637447333",
     "https://www.starnewskorea.com/sports/2026/08/22/2026082216415043993",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=858689",
-    "https://basketkorea.com/news/newsview.php?ncode=1065594755084398"
+    "https://basketkorea.com/news/newsview.php?ncode=1065594755084398",
+    "https://www.starnewskorea.com/sports/2026/08/22/2026082214551943578",
+    "https://www.mk.co.kr/article/12133832"
    ],
    "seen_titles": [
-    "1510억달러지속가능채권,한국에너지·배터리도찾았다",
-    "최태원,EBS석학강연대선다…'AI시대새자본주의'설명",
     "美국채금리재반등에코스피1.35%하락출발…삼전닉스혼조세[마켓시...",
     "[국내증시개장시황]국내증시약세,코스피·코스닥동반하락",
     "팀리그2R우승휴온스,‘10연승’전승마무리",
@@ -3134,10 +3132,12 @@
     "삼성전자,최대주주환원발표이후주가'출렁'...정규장전망은?",
     "[부고]유인수(제주SKFC선수)씨부친상",
     "최태원이혼서불거진'노태우비자금'檢강제수사",
-    "‘연습경기에입석까지?’소노를향한위너스의진심,그리고위너스..."
+    "‘연습경기에입석까지?’소노를향한위너스의진심,그리고위너스...",
+    "소나기치곤많은'시간당20㎜',대전LG-한화전끝내우천취소...잠실...",
+    "[부고]유인수(제주SK선수)씨부친상"
    ],
    "initialized": true,
-   "last_run": "2026-08-22T17:15:21.985227+09:00"
+   "last_run": "2026-08-22T17:20:20.088696+09:00"
   }
  },
  "press_names": {
