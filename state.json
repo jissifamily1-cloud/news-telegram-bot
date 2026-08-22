@@ -282,11 +282,17 @@
     [
      "2026-08-23T08:50:23.630114+09:00",
      "쏠림에 개미들 비명 튈까요 반도체 지금이라도 코스닥"
+    ],
+    [
+     "2026-08-23T08:55:16.215016+09:00",
+     "3대 전자제품 지켜낸 반도체 CCL 두산 뼈대"
+    ],
+    [
+     "2026-08-23T08:55:16.215016+09:00",
+     "삼성전자는 자사주 매입인 배당 주주환원 역대 SK하이닉스는"
     ]
    ],
    "seen_urls": [
-    "https://www.ntoday.co.kr/news/articleView.html?idxno=128874",
-    "http://amenews.kr/news/view.php?idx=67758",
     "https://www.news2day.co.kr/article/20260821500094",
     "https://www.g-enews.com/view.php?ud=202608210944111211bb91c46fcd_1",
     "https://www.hankyung.com/article/202608214153i",
@@ -1784,11 +1790,11 @@
     "https://www.ddaily.co.kr/page/view/2026082302215635744",
     "https://www.ddaily.co.kr/page/view/2026082308142919414",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694802",
-    "https://www.segye.com/newsView/20260821513908?OutUrl=naver"
+    "https://www.segye.com/newsView/20260821513908?OutUrl=naver",
+    "https://www.econovill.com/news/articleView.html?idxno=747441",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4431348"
    ],
    "seen_titles": [
-    "블룸버그\"삼성전자,최대110조원주주환원계획\"",
-    "[마켓펄스]\"이번반도체슈퍼사이클과거보다길다\"...'삼전닉스'강세...",
     "상반기글로벌전기차용분리막적재량,전년比24%",
     "코스닥4.89%급락,매도사이드카발동…코스피'약보합'",
     "권민수한은부총재취임\"물가목표수준웃돌고가계부채위험\"",
@@ -3286,10 +3292,12 @@
     "K-배터리,북미공략본격화…ESS증설·투자재원확보속도[위클리배...",
     "테슬라2㎚칩승부수띄운삼성파운드리…SK하이닉스'빛의연결'CPO...",
     "[증시전망]코스피7000선시험대...엔비디아실적·美국채금리주목",
-    "“지금이라도튈까요”…반도체쏠림에코스닥개미들‘비명’"
+    "“지금이라도튈까요”…반도체쏠림에코스닥개미들‘비명’",
+    "[박정원회장의빅피처①]'전자제품뼈대'CCL지켜낸두산,반도체'3대...",
+    "'역대최대'주주환원,삼성전자는배당·SK하이닉스는자사주매입인..."
    ],
    "initialized": true,
-   "last_run": "2026-08-23T08:50:23.630114+09:00"
+   "last_run": "2026-08-23T08:55:16.215016+09:00"
   }
  },
  "press_names": {
