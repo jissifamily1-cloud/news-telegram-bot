@@ -370,12 +370,13 @@
     [
      "2026-08-22T09:23:53.360003+09:00",
      "선수 기억을 치매의 유니폼으로 말한다 사라졌다 제주SK 이름이"
+    ],
+    [
+     "2026-08-22T09:35:17.790552+09:00",
+     "틈새 봇물 변동성 장세에 투자상품"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260821000060",
-    "https://www.ajunews.com/view/20260821081952246",
-    "https://www.newspim.com/news/view/20260821000078",
     "https://www.segye.com/newsView/20260821502771?OutUrl=naver",
     "http://www.nongaek.com/news/articleView.html?idxno=96467",
     "https://www.ajunews.com/view/20260821082559253",
@@ -1872,12 +1873,12 @@
     "https://www.sedaily.com/article/20082094",
     "https://www.theguru.co.kr/news/article.html?no=106137",
     "http://www.fnnews.com/news/202608220911163808",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716615&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716615&plink=ORI&cooper=NAVER",
+    "https://www.lecturernews.com/news/articleView.html?idxno=209124",
+    "https://www.sentv.co.kr/article/view/sentv202608220015",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092168633"
    ],
    "seen_titles": [
-    "유안타證\"주주환원이버팀목된코스피…반도체대형주중심대응\"",
-    "李대통령,최태원과만찬회동…대미투자논의여부주목",
-    "[모닝리포트]\"수급반전지속되면환율연내1350원하락\"",
     "“차경고등켜지면앱부터”…130만렌터카시장,‘정비전쟁’불붙...",
     "[오늘의사설]\"'흥청망청'교육교부금...손볼때됐다\"",
     "[아주증시포커스]'땡큐SK하이닉스'…코스피,381p뛰어6800선단숨에...",
@@ -3374,10 +3375,13 @@
     "삼성전자,110조주주환원확정…내년188조‘배당메가사이클’",
     "[통신리뷰]SKT,'모두의AI'사업참여…풀스택역량총집결(8월3주차)",
     "\"선수이름이사라졌다\"…제주SK,유니폼으로치매의기억을말한다",
-    "서학개미,'삼전닉스'라운드힐ETF일주일동안1천억샀다"
+    "서학개미,'삼전닉스'라운드힐ETF일주일동안1천억샀다",
+    "[코스피·코스닥지수]서학개미,삼성전자·SK하이닉스담은메모리ETF...",
+    "서학개미,반도체ETF쓸어담았다…라운드힐에한주새1185억",
+    "변동성장세에'틈새투자상품'봇물"
    ],
    "initialized": true,
-   "last_run": "2026-08-22T09:30:26.940833+09:00"
+   "last_run": "2026-08-22T09:35:17.790552+09:00"
   }
  },
  "press_names": {
