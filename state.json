@@ -457,8 +457,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20081656",
-    "https://www.m-i.kr/news/articleView.html?idxno=1404453",
     "http://www.yonhapnewstv.co.kr/news/AKR20260821090059SNs",
     "https://news.jtbc.co.kr/article/NB12314348?influxDiv=NAVER",
     "https://biz.heraldcorp.com/article/10847578",
@@ -1956,11 +1954,11 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479533",
     "https://www.pennmike.com/news/articleView.html?idxno=126174",
     "https://www.g-enews.com/view.php?ud=20260822103823165fbbec65dfb_1",
-    "https://www.pennmike.com/news/articleView.html?idxno=126172"
+    "https://www.pennmike.com/news/articleView.html?idxno=126172",
+    "http://www.osen.co.kr/article/G1112861779",
+    "https://www.sedaily.com/article/20082081"
    ],
    "seen_titles": [
-    "유안타證,SK목표가83만원‘유지’…“내년부터주주환원본격화”...",
-    "랜섬웨어피해상반기4744건…SK쉴더스\"취약점하나가연쇄피해로\"",
     "이대통령,SK최태원과만찬회동…메가프로젝트논의",
     "40조원주주환원'통했다'…SK하이닉스13%가까이'쑥'",
     "“스마트폰이어의료기기까지”…수면AI에이슬립,전통제약사품고...",
@@ -3458,10 +3456,12 @@
     "신성이엔지,사상첫매출2000억돌파…하반기더기대되는이유",
     "[재계핫이슈]최태원회장,호남반도체와9440억원의틈바구니",
     "中,메모리19.6조상장실탄…삼성시안·SK우시정면충돌",
-    "[재계핫이슈]삼전닉스가'잔치'벌일때,CXMT는'애플문'두드렸다"
+    "[재계핫이슈]삼전닉스가'잔치'벌일때,CXMT는'애플문'두드렸다",
+    "\"9점차역전말이안된다.이런야구를해본적이없다\"역대2위진기...",
+    "삼성‘110조환원’에도머쓱…‘40조소각’띄운SK하이닉스는호평..."
    ],
    "initialized": true,
-   "last_run": "2026-08-22T10:50:22.422014+09:00"
+   "last_run": "2026-08-22T10:54:19.990447+09:00"
   }
  },
  "press_names": {
