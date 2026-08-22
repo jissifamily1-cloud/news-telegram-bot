@@ -373,7 +373,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4431111",
     "https://www.newspim.com/news/view/20260821000060",
     "https://www.ajunews.com/view/20260821081952246",
     "https://www.newspim.com/news/view/20260821000078",
@@ -1872,10 +1871,10 @@
     "http://www.yonhapnewstv.co.kr/news/MYH20260822091430iMY",
     "https://www.sedaily.com/article/20082094",
     "https://www.theguru.co.kr/news/article.html?no=106137",
-    "http://www.fnnews.com/news/202608220911163808"
+    "http://www.fnnews.com/news/202608220911163808",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716615&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "금융권벌써'국감모드'…삼전닉스·부동산대출·메리츠'정조준'",
     "유안타證\"주주환원이버팀목된코스피…반도체대형주중심대응\"",
     "李대통령,최태원과만찬회동…대미투자논의여부주목",
     "[모닝리포트]\"수급반전지속되면환율연내1350원하락\"",
@@ -3374,10 +3373,11 @@
     "'꿈의암백신'모더나3상에들썩…K-바이오는어디쯤?",
     "삼성전자,110조주주환원확정…내년188조‘배당메가사이클’",
     "[통신리뷰]SKT,'모두의AI'사업참여…풀스택역량총집결(8월3주차)",
-    "\"선수이름이사라졌다\"…제주SK,유니폼으로치매의기억을말한다"
+    "\"선수이름이사라졌다\"…제주SK,유니폼으로치매의기억을말한다",
+    "서학개미,'삼전닉스'라운드힐ETF일주일동안1천억샀다"
    ],
    "initialized": true,
-   "last_run": "2026-08-22T09:25:17.820034+09:00"
+   "last_run": "2026-08-22T09:30:26.940833+09:00"
   }
  },
  "press_names": {
