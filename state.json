@@ -133,7 +133,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.namdonews.com/news/articleView.html?idxno=920707",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=316691",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=265850",
     "http://www.metroseoul.co.kr/article/20260820500648",
@@ -1632,10 +1631,10 @@
     "https://www.the-today.com/news/articleView.html?idxno=88793",
     "http://www.e-platform.net/news/articleView.html?idxno=104726",
     "https://www.tokenpost.kr/news/market/395798",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092168629"
+    "https://it.chosun.com/news/articleView.html?idxno=2023092168629",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260823062440Eus"
    ],
    "seen_titles": [
-    "랜섬웨어공격확산···공통인프라취약점하나가기업줄줄이노린...",
     "[특징주]SK증권,하이닉스40조자사주매입수혜기대에이틀째급등",
     "대규모주주환원계획에...삼성전자우선주·SK증권상승세",
     "李대통령,최태원회장과비공개만찬회동…대미투자·메가프로젝트논...",
@@ -3134,10 +3133,11 @@
     "[백용재칼럼]최태원의진짜위기는9440억아닌'제2의소버린'사태",
     "3대메가감안된12차전기본수용전원,원전이유일할것",
     "잉여현금흐름50%,초과현금100%와다르다",
-    "삼성전자·SK하이닉스·TDF[이주의상장ETF]"
+    "삼성전자·SK하이닉스·TDF[이주의상장ETF]",
+    "반도체반등에도거래는‘뚝’…코스피회전율연중최저"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T06:25:17.501244+09:00"
+   "last_run": "2026-08-23T06:30:27.733109+09:00"
   }
  },
  "press_names": {
