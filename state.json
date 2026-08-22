@@ -98,12 +98,13 @@
     [
      "2026-08-22T21:35:17.145899+09:00",
      "김천 제주"
+    ],
+    [
+     "2026-08-22T21:40:21.338782+09:00",
+     "연고지 최다 더비에서 안양과 서울 K리그1 폭격"
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/policy/policy_sub/2026/08/21/H2JYOTVRCJHJ3OLFBPF7JT6KGU/",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=309385",
-    "http://www.iminju.net/news/articleView.html?idxno=168329",
     "http://www.inews24.com/view/1996843",
     "https://www.newsway.co.kr/news/view?ud=2026082109250789695",
     "https://www.pointe.co.kr/news/articleView.html?idxno=83419",
@@ -1600,12 +1601,12 @@
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553477692",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597819",
     "https://www.news1.kr/sports/soccer/6266459",
-    "https://www.yna.co.kr/view/AKR20260822047400007?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260822047400007?input=1195m",
+    "http://www.stoo.com/article.php?aid=108464231203",
+    "https://www.sportsseoul.com/news/read/1630085",
+    "https://www.nocutnews.co.kr/news/6566438"
    ],
    "seen_titles": [
-    "원·달러환율,2.9원내린1389.7원",
-    "'용인동일하이빌',지역통장외면…84㎡A만1순위마감",
-    "EU포장재규제첫발…SK케미칼,리사이클전략통할까",
     "고석태제논대표,\"제나로'모두의AI'도전⋯검증된AI경험을국민에...",
     "호르무즈긴장지속…운임상승기대에SK그린로지스7%대강세[특징주...",
     "[오늘일본은]日철도작업중4명참변…'열차감시원'정보공유문제...",
@@ -3102,10 +3103,13 @@
     "[K리그124R]제주SK-김천,0-0무승부...무패행진지속에만족",
     "제주SK,김천과득점없이무승부...리그9G연속무패",
     "[K리그1]전적종합(22일)",
-    "[프로축구서귀포전적]제주0-0김천"
+    "[프로축구서귀포전적]제주0-0김천",
+    "'정승원1골2도움'서울,안양과의연고지더비서7-0대승…전북·부천...",
+    "이승우·김현석감독‘언쟁’+‘충돌’한현대가더비,전북의1-0승리...",
+    "'7-0'서울,안양과연고지더비에서K리그1최다골폭격"
    ],
    "initialized": true,
-   "last_run": "2026-08-22T21:35:17.145899+09:00"
+   "last_run": "2026-08-22T21:40:21.338782+09:00"
   }
  },
  "press_names": {
