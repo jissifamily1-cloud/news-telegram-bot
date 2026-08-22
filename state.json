@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-22T02:55:19.092454+09:00",
-     "더블 전주성에서 갔나 축구가 전북은 어디로 정정용"
-    ],
-    [
      "2026-08-22T04:07:59.898674+09:00",
      "줄였나 80회 시험 사이드카 존폐 5분 충격 멈춤은"
     ],
@@ -294,10 +290,13 @@
     [
      "2026-08-22T08:53:16.921875+09:00",
      "탈출했다 한화 6연패 대역전승"
+    ],
+    [
+     "2026-08-22T09:00:36.517659+09:00",
+     "좀비 싫어요 안양 무승부는 후보 살아난 우승 축구"
     ]
    ],
    "seen_urls": [
-    "https://www.banronbodo.com/news/articleView.html?idxno=32857",
     "http://www.breaknews.com/1230491",
     "https://www.hankyung.com/article/2026082136796",
     "https://www.etoday.co.kr/news/view/2616642",
@@ -1796,10 +1795,10 @@
     "https://www.sedaily.com/article/20082023",
     "https://www.g-enews.com/view.php?ud=202608220808587771fbbec65dfb_1",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=662922",
-    "https://www.newdaily.co.kr/site/data/html/2026/08/22/2026082200002.html"
+    "https://www.newdaily.co.kr/site/data/html/2026/08/22/2026082200002.html",
+    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96736"
    ],
    "seen_titles": [
-    "[주간기업동향]이재현CJ회장,북미K-라이프스타일전략점검外",
     "[추적]〈SK하이닉스〉⑯9351억판개미,1조받은외국인·기타법인…...",
     "\"SK,'아직시작도안했다'…주주환원확대기대\"-유안타",
     "[오늘의투자전략]코스피약세출발전망⋯美월마트실적부진ㆍ금리...",
@@ -3298,10 +3297,11 @@
     "전북잡고‘4경기무패’달린부천,포항상대로시즌첫연승도전",
     "라피더스,600mm패널패키징착수…TSMC독주맞불",
     "피터웨버'킬링AI',드론의인간사냥",
-    "'0-9→15-11'…한화'대역전승',6연패탈출했다"
+    "'0-9→15-11'…한화'대역전승',6연패탈출했다",
+    "[k1.preview]'또'무승부는싫어요…좀비축구살아난안양,우승후보..."
    ],
    "initialized": true,
-   "last_run": "2026-08-22T08:55:16.873873+09:00"
+   "last_run": "2026-08-22T09:00:36.517659+09:00"
   }
  },
  "press_names": {
