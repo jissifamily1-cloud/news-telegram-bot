@@ -130,10 +130,13 @@
     [
      "2026-08-23T06:25:17.501244+09:00",
      "삼성전자 SK하이닉스 TDF"
+    ],
+    [
+     "2026-08-23T06:45:20.999692+09:00",
+     "6조8천억원 YMTC 도전 계획 조달 IPO로 삼전닉스에 낸드"
     ]
    ],
    "seen_urls": [
-    "https://www.wolyo.co.kr/news/articleView.html?idxno=316691",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=265850",
     "http://www.metroseoul.co.kr/article/20260820500648",
     "https://www.ziksir.com/news/articleView.html?idxno=143840",
@@ -1632,10 +1635,10 @@
     "http://www.e-platform.net/news/articleView.html?idxno=104726",
     "https://www.tokenpost.kr/news/market/395798",
     "https://it.chosun.com/news/articleView.html?idxno=2023092168629",
-    "http://www.yonhapnewstv.co.kr/news/AKR20260823062440Eus"
+    "http://www.yonhapnewstv.co.kr/news/AKR20260823062440Eus",
+    "https://biz.sbs.co.kr/article_hub/20000330182?division=NAVER"
    ],
    "seen_titles": [
-    "[특징주]SK증권,하이닉스40조자사주매입수혜기대에이틀째급등",
     "대규모주주환원계획에...삼성전자우선주·SK증권상승세",
     "李대통령,최태원회장과비공개만찬회동…대미투자·메가프로젝트논...",
     "경북도,국립경국대의대신설계획교육부제출…2030학년도개교목표",
@@ -3134,10 +3137,11 @@
     "3대메가감안된12차전기본수용전원,원전이유일할것",
     "잉여현금흐름50%,초과현금100%와다르다",
     "삼성전자·SK하이닉스·TDF[이주의상장ETF]",
-    "반도체반등에도거래는‘뚝’…코스피회전율연중최저"
+    "반도체반등에도거래는‘뚝’…코스피회전율연중최저",
+    "'삼전닉스에도전'中낸드YMTC,IPO로6조8천억원조달계획"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T06:40:24.897356+09:00"
+   "last_run": "2026-08-23T06:45:20.999692+09:00"
   }
  },
  "press_names": {
