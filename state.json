@@ -466,11 +466,17 @@
     [
      "2026-08-22T11:30:24.891091+09:00",
      "이수페타시스 SK텔레콤 삼성전자우 폭풍 삼양식품"
+    ],
+    [
+     "2026-08-22T11:40:22.700559+09:00",
+     "대비 들여 8공장 확보 1300억 장비 한미반도체 쇼티지"
+    ],
+    [
+     "2026-08-22T11:40:22.700559+09:00",
+     "최태원 비공 만에 동생과 대통령과 조현준 법정 대면 12년"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=271373",
-    "http://www.globalepic.co.kr/view.php?ud=2026082108515540297cc35ccc5c_29",
     "https://www.kukinews.com/article/view/kuk202608210018",
     "https://www.chosun.com/economy/stock-finance/2026/08/21/POW22O3EIJAYBIKVZESFWX2MZI/",
     "https://biz.chosun.com/stock/stock_general/2026/08/21/INCGI3NCBJGCZBMTPGXYLZMQY4/",
@@ -1968,11 +1974,11 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16170192",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479546",
     "https://www.abcn.kr/news/articleView.html?idxno=90764",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16170197"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16170197",
+    "https://www.econovill.com/news/articleView.html?idxno=748644",
+    "https://www.seoultimes.news/news/article.html?no=2000099033"
    ],
    "seen_titles": [
-    "SK증권\"탄소중립기본법개정,중장기감축목표법제화\"",
-    "[맞수탐구]미래에셋vs한국투자…증권넘어종합금융그룹대결",
     "이익늘고배당커지고…삼성전자‘100조특별배당’기대↑",
     "美국채금리반등에코스피,1.35%하락출발",
     "코스피,1.35%하락출발…美국채금리·유통주악재에투심위축",
@@ -3470,10 +3476,12 @@
     "최근5거래일SK스퀘어주가흐름",
     "[주간거래소기관]삼성전자우SK텔레콤삼양식품이수페타시스'폭풍...",
     "[ABC뉴스칼럼]접착제로붙인아파트테라스붕괴...SK의안전불감증",
-    "최근5거래일SK증권주가급등마감"
+    "최근5거래일SK증권주가급등마감",
+    "한미반도체,1300억들여8공장확보…\"장비쇼티지대비\"",
+    "[CEO위클리]조현준12년만에동생과법정대면…최태원대통령과비공..."
    ],
    "initialized": true,
-   "last_run": "2026-08-22T11:35:18.341495+09:00"
+   "last_run": "2026-08-22T11:40:22.700559+09:00"
   }
  },
  "press_names": {
