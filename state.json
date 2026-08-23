@@ -134,11 +134,17 @@
     [
      "2026-08-24T04:15:20.745528+09:00",
      "인상 버틴 엔비디아도 메모리값 예고 서버가격"
+    ],
+    [
+     "2026-08-24T04:20:27.048654+09:00",
+     "ETF 이유 똑같이 깨진 움직인 3배와 분산투자 QQQ 반도체"
+    ],
+    [
+     "2026-08-24T04:20:27.048654+09:00",
+     "삼전닉스 이끌까 사상 반등 코스피 주주환원 꺼낸"
     ]
    ],
    "seen_urls": [
-    "https://www.junggi.co.kr/news/articleView.html?idxno=37523",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479391",
     "https://www.kyeonggi.com/article/20260821580126",
     "https://www.newspim.com/news/view/20260821000595",
     "https://www.news2day.co.kr/article/20260821500171",
@@ -1636,11 +1642,11 @@
     "https://www.g-enews.com/view.php?ud=202608231755124183fbbec65dfb_1",
     "https://www.mt.co.kr/policy/2026/08/24/2026082319432244301",
     "https://www.mt.co.kr/stock/2026/08/24/2026082319470622957",
-    "https://biz.sbs.co.kr/article_hub/20000330227?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000330227?division=NAVER",
+    "https://www.g-enews.com/view.php?ud=202608231759243434fbbec65dfb_1",
+    "https://www.dt.co.kr/article/12079685"
    ],
    "seen_titles": [
-    "SK하이닉스,‘100조+α’자사주소각…진짜돈잔치이제시작",
-    "통신3사중SKT계약직비율최고…8.02%",
     "조선·기자재주차익실현매물출회…LNG테마단기숨고르기돌입",
     "최태원·노소영이혼소송이쏘아올린공…‘노태우비자금’35년만에...",
     "삼성전자·SK하이닉스주주환원기대감에코스피상승전환",
@@ -3138,10 +3144,12 @@
     "SK하이닉스,40조자사주소각나선까닭…저평가해소승부수되나",
     "'내신문턱'높아진반도체,낮아진통신·디스플레이",
     "7천피안착시험대…'2대분수령'주목",
-    "엔비디아도못버틴메모리값...AI서버가격인상예고"
+    "엔비디아도못버틴메모리값...AI서버가격인상예고",
+    "QQQ3배와똑같이움직인반도체ETF…美분산투자깨진이유",
+    "‘사상최대주주환원’꺼낸삼전닉스…코스피반등이끌까"
    ],
    "initialized": true,
-   "last_run": "2026-08-24T04:15:20.745528+09:00"
+   "last_run": "2026-08-24T04:20:27.048654+09:00"
   }
  },
  "press_names": {
