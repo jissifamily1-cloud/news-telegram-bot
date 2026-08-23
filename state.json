@@ -434,13 +434,13 @@
     [
      "2026-08-23T10:40:22.053006+09:00",
      "안양 어웨이게임 서울 대승 FC 세리머니 논란도"
+    ],
+    [
+     "2026-08-23T10:45:20.842454+09:00",
+     "특례 탄력 국회발 수급안정선도기업 준혁신형 자료요구"
     ]
    ],
    "seen_urls": [
-    "https://www.sportsseoul.com/news/read/1629901",
-    "https://www.donga.com/news/Society/article/all/20260821/134517949/2",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=445282",
-    "https://www.tjb.co.kr/news05/bodo/view/id/102669",
     "https://dhnews.co.kr/news/view/1065577124128345",
     "https://www.ziksir.com/news/articleView.html?idxno=143777",
     "https://www.smartbizn.com/news/articleView.html?idxno=151763",
@@ -1936,13 +1936,13 @@
     "https://www.medigatenews.com/news/2170033716",
     "https://en.asiatoday.co.kr/view.php?key=20260823001005425",
     "https://www.busan.com/view/busan/view.php?code=2026082310373973897",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261103&CMPT_CD=P0010"
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261103&CMPT_CD=P0010",
+    "https://www.mk.co.kr/article/12133953",
+    "https://www.nextdaily.co.kr/news/articleView.html?idxno=252396",
+    "https://www.dt.co.kr/article/12079562",
+    "https://www.pharmnews.com/news/articleView.html?idxno=305770"
    ],
    "seen_titles": [
-    "40억자산가전원주,하이닉스찐수익9000%였다“2만원대에사서안...",
-    "“아직단1주도안팔았다”전원주,2만원에산SK하이닉스수천%수...",
-    "[속보]검찰,‘노태우비자금의혹’김옥숙여사자택등압수수색",
-    "코스피장중소폭하락6810선,코스닥은5%대내려'매도사이드카'",
     "검찰,'노태우전대통령비자금의혹'김옥숙자택등압수수색",
     "서경대-서울청년센터강북,‘청년취·창업지원’맞손",
     "[최소라직썰]단일종목레버리지ETF규제,시장안정인가거래위축인...",
@@ -3438,10 +3438,14 @@
     "목포대·순천대통합불발에경국대‘어부지리’?…교육부“이달중...",
     "AIchipbattlegroundshiftsfromcomputationtointerconnectionasSa",
     "\"AI주권,모델보유보다운용역량이핵심\"…소버린AI2.0제언",
-    "안양어웨이게임7-0대승'FC서울',골세리머니논란도"
+    "안양어웨이게임7-0대승'FC서울',골세리머니논란도",
+    "메모리값상승못버틴엔비디아…AI서버가격15%이상올린다",
+    "최종현학술원\"AI주권기준,'보유'에서'운용'으로바꿔야\"",
+    "“삼전닉스잉여현금50%환원…마이크론100%보다더클수있다”",
+    "국회발자료요구...'수급안정선도기업'준혁신형특례탄력"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T10:40:22.053006+09:00"
+   "last_run": "2026-08-23T10:45:20.842454+09:00"
   }
  },
  "press_names": {
