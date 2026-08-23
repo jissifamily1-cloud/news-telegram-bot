@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T12:45:22.737976+09:00",
-     "급감 상장사 밑돌았다 에도 코스피는 평균 널뛰기 거래대금"
-    ],
-    [
      "2026-08-23T13:05:17.588174+09:00",
      "승부처 배터리 선박까지 AI부터 다음 로봇"
     ],
@@ -458,12 +454,17 @@
     [
      "2026-08-23T18:35:16.942965+09:00",
      "내는 합법적으로 방법 양도세"
+    ],
+    [
+     "2026-08-23T18:45:23.210017+09:00",
+     "산업기술 전문수사 경기남부 강화된다 범죄"
+    ],
+    [
+     "2026-08-23T18:45:23.210017+09:00",
+     "연속 170만원선 새주 SK하이닉스 강세로 흐름은"
     ]
    ],
    "seen_urls": [
-    "https://monthly.chosun.com/news/articleView.html?idxno=71159",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=600008",
-    "https://biz.heraldcorp.com/article/10847929",
     "https://biz.sbs.co.kr/article_hub/20000329730?division=NAVER",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=87467",
     "https://www.edaily.co.kr/News/Read?newsId=03591606645549616&mediaCodeNo=257",
@@ -1960,12 +1961,12 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1721325",
     "https://www.newsis.com/view/NISX20260819_0003753845",
     "http://www.fnnews.com/news/202608231830044369",
-    "https://www.hankyung.com/article/2026082371111"
+    "https://www.hankyung.com/article/2026082371111",
+    "https://www.ytn.co.kr/_ln/0102_202608231841463428",
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1330176",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=600489"
    ],
    "seen_titles": [
-    "검찰,‘노태우비자금의혹’김옥숙여사자택압수수색",
-    "[특집/한국경제]지표로본한국경제",
-    "NAVER(네이버),장중반등…22만원선회복",
     "‘하이닉스40조쐈는데,우리는?’…150조기대감에‘삼전개미’들...",
     "[이슈체크]SK하이닉스40조‘통큰결단’…이제삼성전자100조주주...",
     "삼성전자,100조원대주주환원관측-특별배당·차기정책에쏠린눈",
@@ -3462,10 +3463,13 @@
     "[EBN오늘(23일)이슈종합]삼성전자누적특허30만건눈앞,투자자손...",
     "[기자수첩]N%성과급'셀프보완'SK하이닉스,체인저역할론커진다",
     "李대통령,올해이재용12회만났다…장인화9회·최태원8회·정의선...",
-    "합법적으로양도세안내는방법[한경프리미엄9TODAY]"
+    "합법적으로양도세안내는방법[한경프리미엄9TODAY]",
+    "부동산세제개편파장...삼전닉스역대급주주환원",
+    "경기남부'산업기술범죄'전문수사강화된다",
+    "SK하이닉스,연속강세로170만원선…새주흐름은?"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T18:40:23.424354+09:00"
+   "last_run": "2026-08-23T18:45:23.210017+09:00"
   }
  },
  "press_names": {
