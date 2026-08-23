@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T08:10:21.691475+09:00",
-     "상반기 증권사들 뜯어보니 실적 온도차 중소형 순익"
-    ],
-    [
      "2026-08-23T08:15:22.902048+09:00",
      "사이드카는 거래 예탁금 한방에 레버리지 계속 단일종목"
     ],
@@ -430,11 +426,17 @@
     [
      "2026-08-23T14:10:21.376831+09:00",
      "K실리콘밸리 한국 경제 체질 조성 유니콘 100개 만들 기업 바꿀"
+    ],
+    [
+     "2026-08-23T14:15:21.051167+09:00",
+     "강화 하닉 서버값 슈퍼 인상 지위 엔비디아 삼전"
+    ],
+    [
+     "2026-08-23T14:15:21.051167+09:00",
+     "이사장배 직장스크린골프대회 제11회 성료 청주산업단지관리공단"
     ]
    ],
    "seen_urls": [
-    "https://www.youthdaily.co.kr/news/article.html?no=225460",
-    "https://www.dailypharm.com/user/news/341654?REFERER=NP",
     "http://www.newslock.co.kr/news/articleView.html?idxno=134671",
     "https://www.ppss.kr/news/articleView.html?idxno=306625",
     "https://www.aitimes.com/news/articleView.html?idxno=214194",
@@ -1932,11 +1934,11 @@
     "https://www.newsworks.co.kr/news/articleView.html?idxno=851178",
     "https://www.ddaily.co.kr/page/view/2026082313590732061",
     "https://www.edaily.co.kr/News/Read?newsId=01610486645550272&mediaCodeNo=257",
-    "https://www.edaily.co.kr/News/Read?newsId=01607206645550272&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01607206645550272&mediaCodeNo=257",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092168660",
+    "http://www.cctimes.kr/news/articleView.html?idxno=922904"
    ],
    "seen_titles": [
-    "[특징주]SK증권'하이닉스자사주매입'수혜기대감영향'상승'",
-    "코스피,반도체株주주환원기대에6,900선'회복'…코스닥은5%대'급락...",
     "상반기바이오투자액2년새2.5배↑…회복하는투심",
     "수협은행,해양진흥공사와기업신용리스크관리역량공유",
     "하나금융,코인'금고지기'된다…비트고코리아VASP신고수리",
@@ -3434,10 +3436,12 @@
     "[주간증시전망]글로벌금리상승에흔들린증시…엔비디아실적이'...",
     "광주군공항찾는김용범실장…호남반도체산단확대주목",
     "삼성전자,110조주주환원에도주가‘출렁’…반등주도할까",
-    "\"한국경제체질바꿀'K실리콘밸리'조성,유니콘기업100개만들것\""
+    "\"한국경제체질바꿀'K실리콘밸리'조성,유니콘기업100개만들것\"",
+    "엔비디아,AI서버값15%인상…삼전·하닉'슈퍼乙'지위강화",
+    "제11회청주산업단지관리공단이사장배직장스크린골프대회성료"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T14:10:21.376831+09:00"
+   "last_run": "2026-08-23T14:15:21.051167+09:00"
   }
  },
  "press_names": {
