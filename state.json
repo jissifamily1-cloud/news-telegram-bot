@@ -130,10 +130,13 @@
     [
      "2026-08-24T04:11:04.794544+09:00",
      "안착 7천피 시험대 주목 2대 분수령"
+    ],
+    [
+     "2026-08-24T04:15:20.745528+09:00",
+     "인상 버틴 엔비디아도 메모리값 예고 서버가격"
     ]
    ],
    "seen_urls": [
-    "https://www.ekn.kr/web/view.php?key=20260821025314831",
     "https://www.junggi.co.kr/news/articleView.html?idxno=37523",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479391",
     "https://www.kyeonggi.com/article/20260821580126",
@@ -1632,10 +1635,10 @@
     "https://www.g-enews.com/view.php?ud=202608231751202041fbbec65dfb_1",
     "https://www.g-enews.com/view.php?ud=202608231755124183fbbec65dfb_1",
     "https://www.mt.co.kr/policy/2026/08/24/2026082319432244301",
-    "https://www.mt.co.kr/stock/2026/08/24/2026082319470622957"
+    "https://www.mt.co.kr/stock/2026/08/24/2026082319470622957",
+    "https://biz.sbs.co.kr/article_hub/20000330227?division=NAVER"
    ],
    "seen_titles": [
-    "[단독]최태원,30일일본간다…AI·반도체등협력논의",
     "SK하이닉스,‘100조+α’자사주소각…진짜돈잔치이제시작",
     "통신3사중SKT계약직비율최고…8.02%",
     "조선·기자재주차익실현매물출회…LNG테마단기숨고르기돌입",
@@ -3134,10 +3137,11 @@
     "연방보조금삭감뚫은AI전력난…美친환경자본250조몰린이유",
     "SK하이닉스,40조자사주소각나선까닭…저평가해소승부수되나",
     "'내신문턱'높아진반도체,낮아진통신·디스플레이",
-    "7천피안착시험대…'2대분수령'주목"
+    "7천피안착시험대…'2대분수령'주목",
+    "엔비디아도못버틴메모리값...AI서버가격인상예고"
    ],
    "initialized": true,
-   "last_run": "2026-08-24T04:11:04.794544+09:00"
+   "last_run": "2026-08-24T04:15:20.745528+09:00"
   }
  },
  "press_names": {
