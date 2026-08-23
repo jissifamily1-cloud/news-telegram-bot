@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T04:05:17.998255+09:00",
-     "170만닉스 부담 40조 설레는 나올까 주도 쐈는데 다음 카드"
-    ],
-    [
-     "2026-08-23T04:07:46.304134+09:00",
-     "몸값 vs 인프라 전력기기 갈린 메모리 갇힌 치솟는 이유"
-    ],
-    [
      "2026-08-23T05:05:17.863529+09:00",
      "우지원과 아빠 미스코리아 17년 우서윤 붕어빵 출연했던"
     ],
@@ -398,13 +390,13 @@
     [
      "2026-08-23T10:05:16.297825+09:00",
      "암호화 포착한 보안SW부터 끄고 변화 SK쉴더스가 랜섬웨어"
+    ],
+    [
+     "2026-08-23T10:10:21.224041+09:00",
+     "네이버 카카오 회사 본진까지 정조준 검색 쪼개 골든타임 잡는다"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026082110393117077",
-    "https://www.edaily.co.kr/News/Read?newsId=03286566645549616&mediaCodeNo=257",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092168579",
-    "http://www.00news.co.kr/news/articleView.html?idxno=106024",
     "https://www.newspim.com/news/view/20260821000392",
     "https://weekly.khan.co.kr/article/202608211048001",
     "https://www.theguru.co.kr/news/article.html?no=106104",
@@ -1900,13 +1892,13 @@
     "https://news.ifm.kr/news/articleView.html?idxno=477706",
     "https://www.joongdo.co.kr/web/view.php?key=20260822010006581",
     "https://www.mt.co.kr/economy/2026/08/23/2026082110315365105",
-    "https://www.bloter.net/news/articleView.html?idxno=671500"
+    "https://www.bloter.net/news/articleView.html?idxno=671500",
+    "https://www.edaily.co.kr/News/Read?newsId=01292326645550272&mediaCodeNo=257",
+    "https://www.news1.kr/it-science/cc-newmedia/6266552",
+    "http://www.srtimes.kr/news/articleView.html?idxno=210611",
+    "http://www.metroseoul.co.kr/article/20260823500026"
    ],
    "seen_titles": [
-    "검찰,'노태우비자금'첫강제수사...김옥숙자택포함",
-    "‘세기의이혼’불똥튀었다…‘904억비자금메모’노태우부인자택...",
-    "전세계2분기랜섬웨어피해48%급증…SK쉴더스KARA보고서",
-    "李대통령·최태원SK회장,비공개만찬…반도체·대미투자논의",
     "李대통령또만난최태원,무슨말오갔나",
     "檢,'노태우비자금은닉의혹'김옥숙여사자택압수수색",
     "검찰,‘노태우비자금’김옥숙연희동자택압수수색,‘904억메모’...",
@@ -3402,10 +3394,14 @@
     "최태원·노소영'세기의이혼'이남긴것…부부재산,누구돈까지나눠...",
     "'세종자족도시완성'견인…'연동면'산업기반잠재력부각",
     "전문가도반으로갈렸다…8월금리'인상·동결'5대5",
-    "보안SW부터끄고암호화...SK쉴더스가포착한랜섬웨어변화"
+    "보안SW부터끄고암호화...SK쉴더스가포착한랜섬웨어변화",
+    "에이전트AI시대…\"국가안보,보유에서운용으로바꿔야\"",
+    "'모두의AI'출사표KT.국산NPU·AI모델총집결한다",
+    "K-배터리3사,글로벌특허10만건육박…'초격차'기술방어막친다",
+    "카카오,회사쪼개AI'골든타임'잡는다…네이버검색본진까지정조준"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T10:05:16.297825+09:00"
+   "last_run": "2026-08-23T10:10:21.224041+09:00"
   }
  },
  "press_names": {
