@@ -450,13 +450,13 @@
     [
      "2026-08-23T10:55:16.608292+09:00",
      "LG CNS도 웃고 2조달러 임박 기대 앤트로픽 네이버 몸값 IPO SKT"
+    ],
+    [
+     "2026-08-23T11:00:33.730659+09:00",
+     "전력난에 산업용 부른다 발전엔진 시장이 뜨는 DC"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1721179",
-    "https://www.newsis.com/view/NISX20260821_0003757312",
-    "https://dealsite.co.kr/articles/167587",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608182356137040109110",
     "https://dealsite.co.kr/articles/167593",
     "https://www.xportsnews.com/article/2186190",
     "http://www.finomy.com/news/articleView.html?idxno=259674",
@@ -1952,13 +1952,13 @@
     "https://biz.sbs.co.kr/article_hub/20000330207?division=NAVER",
     "https://www.seoulfn.com/news/articleView.html?idxno=636223",
     "https://biz.chosun.com/it-science/ict/2026/08/23/QUQ24UOHUJACJJLUTOLFQXJWPE/",
-    "https://www.newsis.com/view/NISX20260823_0003758779"
+    "https://www.newsis.com/view/NISX20260823_0003758779",
+    "https://www.dt.co.kr/article/12079567",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005906189",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643598",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000005200&cp=nv"
    ],
    "seen_titles": [
-    "랜섬웨어,개별기업서'공통인프라'로공격확대…\"취약점·계정관리...",
-    "[AI빈부격차시대④]\"AI깔아주고끝?\"…중기AX지원'구축'넘어'판...",
-    "송도발코니붕괴아파트…박찬대\"인허가과정살펴봐야\"",
-    "[삼전닉스주주환원]환원규모어디까지…하닉이어삼전'기대'",
     "[더벨][CompanyWatch]'신사업본궤도'한선엔지니어링,성장기반강화",
     "상반기직원당급여10억…토러스운용수수료만1818억",
     "전원주,하닉주식2만원에샀다더니…\"아직안팔아\"수익률만9000%(다...",
@@ -3454,10 +3454,14 @@
     "삼성·SK'50%환원'인데…미국반도체사는왜100%?",
     "엔비디아,메모리품귀현상에주요제품가격인상",
     "KT,‘모두의AI’사업에토종AI기업컨소시엄으로도전장",
-    "‘몸값2조달러’앤트로픽IPO임박…SKT웃고네이버·LGCNS도기대"
+    "‘몸값2조달러’앤트로픽IPO임박…SKT웃고네이버·LGCNS도기대",
+    "K-배터리3사특허9만3500건…3년반만에‘2배’",
+    "코스피회전율올해최저…반도체반등에도투자심리'냉랭'",
+    "AI서버값‘고공행진’…엔비디아,고객사에가격15%인상예고",
+    "AIDC전력난에뜨는‘산업용발전엔진’…美시장이부른다"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T10:55:16.608292+09:00"
+   "last_run": "2026-08-23T11:00:33.730659+09:00"
   }
  },
  "press_names": {
