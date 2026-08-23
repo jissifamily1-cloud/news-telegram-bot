@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T05:55:18.148308+09:00",
-     "1년새 4배로 순매도 달러 환율안정 뭉칫돈 수출기업 배경에"
-    ],
-    [
-     "2026-08-23T05:57:56.851560+09:00",
-     "가린다더니 사용성 쓰이는 평가는"
-    ],
-    [
      "2026-08-23T06:05:16.669354+09:00",
      "웃었다 금리에 급반등 울고 주주환원에 급락 롤러코스피"
     ],
@@ -478,12 +470,17 @@
     [
      "2026-08-23T11:55:17.309208+09:00",
      "에이전트가 국산 바꾼다 기술 혁명 산업 NPU와 지형"
+    ],
+    [
+     "2026-08-23T12:00:34.684538+09:00",
+     "코스피는 엇갈린 코스닥은 동력 뒷걸음질 달리는데 상승"
+    ],
+    [
+     "2026-08-23T12:00:34.684538+09:00",
+     "24일 매수 52개 신청 코스피 삼성전자 SK하이닉 자사주 종목"
     ]
    ],
    "seen_urls": [
-    "https://www.sisajournal.com/news/articleView.html?idxno=384319",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008715455&plink=ORI&cooper=NAVER",
-    "https://biz.heraldcorp.com/article/10847914",
     "http://www.fnnews.com/news/202608211052016861",
     "https://www.newsis.com/view/NISX20260821_0003757190",
     "https://news.mtn.co.kr/news-detail/2026082110543112595",
@@ -1980,12 +1977,12 @@
     "https://view.asiae.co.kr/article/2026082311490351793",
     "https://www.news2day.co.kr/article/20260823500009",
     "https://www.gokorea.kr/news/articleView.html?idxno=875980",
-    "https://www.gokorea.kr/news/articleView.html?idxno=875974"
+    "https://www.gokorea.kr/news/articleView.html?idxno=875974",
+    "https://www.dailian.co.kr/news/view/1681184/?sc=Naver",
+    "https://m.skyedaily.com/news_view.html?ID=310265",
+    "https://www.newstnt.com/news/articleView.html?idxno=714871"
    ],
    "seen_titles": [
-    "코스닥장중5%대급락에'매도사이드카'발동",
-    "[경북24시]경북도,국립경국대의대신설계획교육부제출",
-    "검찰,'노태우비자금의혹'김옥숙자택등압수수색",
     "“시민이주인‘민주도시’울산…트램사업재검토,시민위한것”[...",
     "\"삼성물산배당도주주에게\"KCC주주환원더세져…SK,깜짝실적에내...",
     "삼전·SK하닉,용인산단송전망직접건설가능…운영은한전이",
@@ -3482,10 +3479,13 @@
     "최종현학술원\"에이전트AI시대,주권의기준은보유에서운용\"",
     "[재계인사이드]SK하이닉스채용방식이바꿀대학생,취준생의모습",
     "통신사들,인공지능데이터센터로'새로운수익원'발굴…AI사업매출급...",
-    "AI기술혁명…국산NPU와AI에이전트가산업지형바꾼다"
+    "AI기술혁명…국산NPU와AI에이전트가산업지형바꾼다",
+    "엔비디아,AI서버값15%인상…메모리품귀에업계긴장",
+    "코스피는달리는데코스닥은뒷걸음질…엇갈린상승동력",
+    "[공시]24일코스피52개종목'자사주매수'신청...삼성전자·SK하이닉..."
    ],
    "initialized": true,
-   "last_run": "2026-08-23T11:55:17.309208+09:00"
+   "last_run": "2026-08-23T12:00:34.684538+09:00"
   }
  },
  "press_names": {
