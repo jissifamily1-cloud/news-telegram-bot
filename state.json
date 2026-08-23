@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T12:13:09.756488+09:00",
-     "모친 장모 유진선 이광진 부친 유인수"
-    ],
-    [
      "2026-08-23T12:20:20.856741+09:00",
      "스페이스X USD1 월드리버티파이낸셜 무기한 시장 활용처 확대 금까지"
     ],
@@ -466,11 +462,13 @@
     [
      "2026-08-23T18:10:24.816297+09:00",
      "팔아도 외인 제4 기관 견인 지수 개인 매수주체 기타법인이"
+    ],
+    [
+     "2026-08-23T18:15:20.181310+09:00",
+     "통화정책에 연준 시장관심 의장 쏠릴"
     ]
    ],
    "seen_urls": [
-    "https://zdnet.co.kr/view/?no=20260821115139",
-    "https://www.ppss.kr/news/articleView.html?idxno=306649",
     "https://www.cwn.kr/news/articleView.html?idxno=53926",
     "http://www.newsian.co.kr/news/articleView.html?idxno=94037",
     "https://www.edaily.co.kr/News/Read?newsId=03578486645549616&mediaCodeNo=257",
@@ -1968,11 +1966,11 @@
     "https://www.interfootball.co.kr/news/articleView.html?idxno=693049",
     "https://www.namdonews.com/news/articleView.html?idxno=920816",
     "https://www.namdonews.com/news/articleView.html?idxno=920819",
-    "https://www.sedaily.com/article/20082304"
+    "https://www.sedaily.com/article/20082304",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000058867",
+    "https://www.jjan.kr/article/20260823500259"
    ],
    "seen_titles": [
-    "'삼전닉스',앞으로90일더산다...타업종소외감심화",
-    "\"서버이전·AS망370곳확충\"…드리미,스마트홈생태계로韓공략",
     "[기업해부SK⑧]사업재편의최종성적표는주주에게돌아갔나…SK주주...",
     "'노태우비자금300억'실체드러날까...검찰,김옥숙사저압수수색",
     "글로벌IB\"SK하닉지금이매집기회\"…목표가최고470만원",
@@ -3470,10 +3468,12 @@
     "대학무대괴물스트라이커→위기의성남에온복덩이...안산전역전골...",
     "[반도체·데이터센터,전남광주시대연다]⑨용수확보-하루65만t필요한...",
     "전남광주시,삼성·SK명예도로명검토",
-    "외인·기관·개인팔아도기타법인이지수견인…‘제4매수주체’된S..."
+    "외인·기관·개인팔아도기타법인이지수견인…‘제4매수주체’된S...",
+    "기고·이현〉800조반도체시대,공장보다먼저사람의마음을준비해야...",
+    "[주간증시전망]미연준의장통화정책에시장관심쏠릴듯"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T18:10:24.816297+09:00"
+   "last_run": "2026-08-23T18:15:20.181310+09:00"
   }
  },
  "press_names": {
