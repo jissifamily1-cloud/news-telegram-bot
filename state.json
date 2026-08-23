@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T05:05:17.863529+09:00",
-     "우지원과 아빠 미스코리아 17년 우서윤 붕어빵 출연했던"
-    ],
-    [
-     "2026-08-23T05:05:17.863529+09:00",
-     "포모 2배 병원행 늘어 하락장에 투자자들 뛰어든"
-    ],
-    [
      "2026-08-23T05:20:23.241881+09:00",
      "지역경제 금융기관 살린다 소진공등 태안군 6개"
     ],
@@ -454,16 +446,17 @@
     [
      "2026-08-23T11:00:33.730659+09:00",
      "전력난에 산업용 부른다 발전엔진 시장이 뜨는 DC"
+    ],
+    [
+     "2026-08-23T11:05:20.152394+09:00",
+     "덮친 기업 vs 비온 물폭탄 맑게"
+    ],
+    [
+     "2026-08-23T11:05:20.152394+09:00",
+     "투자 주목 주주환원 기아 GS 고금리엔 LG"
     ]
    ],
    "seen_urls": [
-    "https://dealsite.co.kr/articles/167593",
-    "https://www.xportsnews.com/article/2186190",
-    "http://www.finomy.com/news/articleView.html?idxno=259674",
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=810408",
-    "https://www.etnews.com/20260821000117",
-    "http://www.iminju.net/news/articleView.html?idxno=168362",
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=609148",
     "https://zdnet.co.kr/view/?no=20260821104801",
     "https://www.seoul.co.kr/news/economy/securities/2026/08/21/20260821500099?wlog_tag3=naver",
     "https://www.yna.co.kr/view/AKR20260821073200003?input=1195m",
@@ -1956,16 +1949,16 @@
     "https://www.dt.co.kr/article/12079567",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005906189",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643598",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000005200&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000005200&cp=nv",
+    "https://www.starnewskorea.com/sports/2026/08/23/2026082305092014569",
+    "https://www.edaily.co.kr/News/Read?newsId=01364486645550272&mediaCodeNo=257",
+    "https://www.sentv.co.kr/article/view/sentv202608230025",
+    "https://www.news1.kr/economy/trend/6266525",
+    "https://www.news1.kr/world/usa-canada/6266603",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260822161436xGz",
+    "https://www.edaily.co.kr/News/Read?newsId=01338246645550272&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "[더벨][CompanyWatch]'신사업본궤도'한선엔지니어링,성장기반강화",
-    "상반기직원당급여10억…토러스운용수수료만1818억",
-    "전원주,하닉주식2만원에샀다더니…\"아직안팔아\"수익률만9000%(다...",
-    "코스피,美국채금리상승에6830선약세···코스닥5%↓",
-    "[오늘증시]반도체가코스피살렸다…코스닥은800선마저'와르르'",
-    "美증시약세에국내증시하락…코스닥급락에매도사이드카",
-    "檢,'노태우비자금의혹'김옥숙여사자택등압수수색",
     "SK하이닉스,40조자사주소각이슈로이틀째주가강세",
     "국내반도체장비업계'방긋'...삼성·SK증설에수주잔고2배급증",
     "폭락장버티니‘40조대박’…‘하이닉스2만원’전원주“다그냥있...",
@@ -3458,10 +3451,17 @@
     "K-배터리3사특허9만3500건…3년반만에‘2배’",
     "코스피회전율올해최저…반도체반등에도투자심리'냉랭'",
     "AI서버값‘고공행진’…엔비디아,고객사에가격15%인상예고",
-    "AIDC전력난에뜨는‘산업용발전엔진’…美시장이부른다"
+    "AIDC전력난에뜨는‘산업용발전엔진’…美시장이부른다",
+    "\"강등만피하자\"던승격팀이8월최강팀됐다...'강원·전북·포항격파...",
+    "삼전닉스주주환원업고코스피날까…엔비디아·잭슨홀주목[주간증시...",
+    "엔비디아,AI서버값15%인상예고…내년초출하분부터",
+    "기업들달러'폭풍매도'…1560원환율1380원까지밀었다",
+    "삼성·SK하닉힘세졌다…엔비디아,AI서버가격최대15%인상",
+    "[기업기상도]비온뒤맑게갠기업vs물폭탄덮친기업",
+    "“고금리엔주주환원株투자…기아·LG·GS등주목”"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T11:00:33.730659+09:00"
+   "last_run": "2026-08-23T11:05:20.152394+09:00"
   }
  },
  "press_names": {
