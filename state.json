@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T10:50:20.993742+09:00",
-     "메모리 웨이보 트럼프 중국산 근거는 허용 보도 애플 루머"
-    ],
-    [
-     "2026-08-23T10:50:20.993742+09:00",
-     "인데 반도체사는 삼성 미국 환원"
-    ],
-    [
-     "2026-08-23T10:55:16.608292+09:00",
-     "LG CNS도 웃고 2조달러 임박 기대 앤트로픽 네이버 몸값 IPO SKT"
-    ],
-    [
      "2026-08-23T11:00:33.730659+09:00",
      "전력난에 산업용 부른다 발전엔진 시장이 뜨는 DC"
     ],
@@ -394,11 +382,13 @@
     [
      "2026-08-23T16:48:44.170870+09:00",
      "반도체 전남광주통합특별시 앞에서 천년의 러쉬가 기회"
+    ],
+    [
+     "2026-08-23T16:55:17.550914+09:00",
+     "담았더니 껑충 웃었다 하이닉스 나흘새"
     ]
    ],
    "seen_urls": [
-    "https://www.insightkorea.co.kr/news/articleView.html?idxno=252890",
-    "https://www.koreajoongangdaily.com/bilingual-news/three-mistakes-by-the-lee-administrations-economic-team-kor/12836458",
     "https://www.naeil.com/news/read/599579",
     "https://www.itbiznews.com/news/articleView.html?idxno=222400",
     "https://www.sisajournal.com/news/articleView.html?idxno=384188",
@@ -1896,11 +1886,11 @@
     "http://www.yonhapnewstv.co.kr/news/MYH20260823164306Y6Y",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008717552&plink=ORI&cooper=NAVER",
     "https://www.joongang.co.kr/article/25455429",
-    "http://www.jndn.com/article.php?aid=1787470826438239130"
+    "http://www.jndn.com/article.php?aid=1787470826438239130",
+    "https://www.hankookilbo.com/news/article/A2026082315060005741?did=NA",
+    "http://www.fnnews.com/news/202608230930509654"
    ],
    "seen_titles": [
-    "삼성전자·SK하이닉스,AI인재확보속도…채용방식도바꾼다",
-    "YMTCSpeedsUpIPOasChina'sMemoryPushRaisesPressureonKorea",
     "ThreemistakesbytheLeeadministration’seconomicteam(KOR)",
     "‘유가담합’정유4사,첫재판서혐의부인",
     "피지컬AI스타트업성장돕는다…AWS,'프론티어프로그램'본격화",
@@ -3398,10 +3388,12 @@
     "SK하닉노조,내일임단협찬반투표시작",
     "[자막뉴스]메모리품귀에엔비디아결국AI서버값15%↑…삼전닉스...",
     "엔비디아서버값15%인상…삼성·하이닉스‘메모리가격권력’커진...",
-    "반도체러쉬가될땅,전남광주통합특별시천년의기회앞에서"
+    "반도체러쉬가될땅,전남광주통합특별시천년의기회앞에서",
+    "미국이냐일본이냐,해외투자고심하는K반도체...\"중요한건기술주...",
+    "\"금·하이닉스담았더니웃었다\"…나흘새12%'껑충'[ETF스퀘어]"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T16:50:20.113342+09:00"
+   "last_run": "2026-08-23T16:55:17.550914+09:00"
   }
  },
  "press_names": {
