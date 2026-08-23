@@ -514,14 +514,21 @@
     [
      "2026-08-24T07:45:18.707137+09:00",
      "배전 삼단 송전 직류 구조 과도 LS ELECTRIC 우려 CAPEX"
+    ],
+    [
+     "2026-08-24T07:50:21.028213+09:00",
+     "가속 HD현대일렉트릭 증설로 성장"
+    ],
+    [
+     "2026-08-24T07:50:21.028213+09:00",
+     "운명의 8000선 이벤트 갈림길 4대 코스피"
+    ],
+    [
+     "2026-08-24T07:50:21.028213+09:00",
+     "쏠림 종목 iM증권 일시적 반도체 4분기 차별화 커질"
     ]
    ],
    "seen_urls": [
-    "https://www.donga.com/news/Society/article/all/20260821/134519142/1",
-    "https://www.etoday.co.kr/news/view/2616926",
-    "http://www.segyebiz.com/newsView/20260821510693?OutUrl=naver",
-    "https://biz.chosun.com/stock/stock_general/2026/08/21/P3SO6ZDDT5G3PDTU7JSC3LGAKA/",
-    "https://www.dt.co.kr/article/12079428",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053608",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642858",
     "http://www.fnnews.com/news/202608211559026226",
@@ -2016,14 +2023,14 @@
     "https://www.g-enews.com/view.php?ud=202608240718301610fbbec65dfb_1",
     "https://www.smartbizn.com/news/articleView.html?idxno=151873",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=85870",
-    "https://www.edaily.co.kr/News/Read?newsId=01928646645550600&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01928646645550600&mediaCodeNo=257",
+    "https://biz.sbs.co.kr/article_hub/20000330261?division=NAVER",
+    "https://www.etoday.co.kr/news/view/2617209",
+    "https://www.etoday.co.kr/news/view/2617210",
+    "https://www.newspim.com/news/view/20260824000012",
+    "https://www.etoday.co.kr/news/view/2617207"
    ],
    "seen_titles": [
-    "코스피,'삼전닉스'주주환원랠리에6910선상승…코스닥은4.63%급락",
-    "검찰,‘노태우비자금’강제수사…김옥숙152억기부금자금흐름추...",
-    "[환율마감]삼전·SK하닉주주환원…원·달러6일째하락‘11개월만최...",
-    "코스피,반도체강세에6912.95마감…코스닥은사이드카발동4.63%급락",
-    "[마켓뷰]삼전닉스‘주주환원’의힘…‘7000피’눈앞",
     "‘주주환원기대감’탄삼전3.9%급등마감…하닉도2.3%동반랠리",
     "[마감시황]코스피,삼전·닉스강세에6900선강보합…코스닥4%대↓",
     "[단독]검찰,SK이노베이션·SK지오센트릭압수수색…중대재해처벌법위...",
@@ -3518,10 +3525,15 @@
     "슈퍼마이크로,내부조사완료…경영진무혐의속직원해고",
     "삼성전자,역대최대환원책내고도시간외급락···시장은왜실망했...",
     "\"하반기대기업채용문열렸다\"…인크루트,AI'신입나비'로서류합격...",
-    "LSELECTRIC,배전·송전·직류‘삼단구조’…AICAPEX우려과도-SK"
+    "LSELECTRIC,배전·송전·직류‘삼단구조’…AICAPEX우려과도-SK",
+    "[비즈나우]엔비디아가격인상…메모리'양날의검'",
+    "하나證“삼성전자·SK하이닉스,주주환원기대여전…반도체비중확대...",
+    "SK證\"HD현대일렉트릭,증설로성장가속\"",
+    "[AIMY증시전망]'운명의4대이벤트'…코스피8000선갈림길",
+    "iM증권“반도체쏠림일시적…4분기종목차별화더커질것”"
    ],
    "initialized": true,
-   "last_run": "2026-08-24T07:45:18.707137+09:00"
+   "last_run": "2026-08-24T07:50:21.028213+09:00"
   }
  },
  "press_names": {
