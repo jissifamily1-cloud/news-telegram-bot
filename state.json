@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T12:25:18.797156+09:00",
-     "GST 충남콘진원 오픈이노베이션 입주기업 밋업"
-    ],
-    [
-     "2026-08-23T12:25:18.797156+09:00",
-     "150조 식어버린 SK하이닉스 주주환원 투심 삼성전자 살릴까"
-    ],
-    [
      "2026-08-23T12:30:26.518673+09:00",
      "모델 주권이 국산 운용 접근 확보만으로는 중요 부족"
     ],
@@ -462,15 +454,17 @@
     [
      "2026-08-23T18:20:24.099363+09:00",
      "삼전닉스 150조 관건 돈잔치에도 안착이 역대급 7천피"
+    ],
+    [
+     "2026-08-23T18:25:19.123672+09:00",
+     "순매수 고배당주PLUS커버드콜액티브 ACE 돌파 1천억"
+    ],
+    [
+     "2026-08-23T18:25:19.123672+09:00",
+     "나흘 귀한 ETF 급등 뛰니 금값 만에 채굴기업"
     ]
    ],
    "seen_urls": [
-    "https://www.goal.com/kr/뉴스/a/bltf6771ed62b96ede0",
-    "https://www.newspim.com/news/view/20260821000440",
-    "http://www.inews24.com/view/1997020",
-    "https://www.insight.co.kr/news/569304",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479370",
-    "https://www.safetimes.co.kr/news/articleView.html?idxno=245082",
     "https://www.cwn.kr/news/articleView.html?idxno=53920",
     "https://www.newsis.com/view/NISX20260821_0003757571",
     "http://www.newsmp.com/news/articleView.html?idxno=257620",
@@ -1964,15 +1958,15 @@
     "https://www.jjan.kr/article/20260823500259",
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553478817",
     "https://www.sedaily.com/article/20082315",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608230070&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608230070&t=NN",
+    "https://www.seoul.co.kr/news/economy/2026/08/23/20260823500088?wlog_tag3=naver",
+    "https://www.hankyung.com/article/2026082371431",
+    "https://www.asiatime.co.kr/article/20260823500080",
+    "https://www.hankyung.com/article/202608237206i",
+    "http://www.fnnews.com/news/202608231821048961",
+    "http://www.fnnews.com/news/202608231818561055"
    ],
    "seen_titles": [
-    "코스피30%급락…‘빚투’후폭풍에흔들린증시체질개선",
-    "울산현대중,K리그U-14챔피언십정상...김호유감독“성장해프로서...",
-    "2분기전세계랜섬웨어전년대비48%증가...SK쉴더스분석보고서",
-    "SK100조투자현실화되면동부권의료수요더커진다…순천대의대필...",
-    "SK쉴더스\"VPN·계정이랜섬웨어침투통로\"...2분기피해48%증가",
-    "밸류업정책기대감속'옥석가리기'…실질주주환원기업주목을",
     "마이크론,10년간100억달러투자…美첫메모리연구소세운다",
     "드리미,개인정보보호·AS강화...한국시장신뢰높인다",
     "SK하이닉스'성과급60%주식지급'24~25일찬반투표,결과는",
@@ -3466,10 +3460,16 @@
     "[주간증시전망]미연준의장통화정책에시장관심쏠릴듯",
     "[현장목소리]'인천전득점기억'최경록,\"분위기처지지않았다,이제...",
     "이익급증·역대급수주에도…웃지못하는건설사들",
-    "삼전닉스'150조+α'역대급돈잔치에도…\"7천피안착이관건\""
+    "삼전닉스'150조+α'역대급돈잔치에도…\"7천피안착이관건\"",
+    "삼전닉스레버리지,예탁금3배뛰자30대절반짐쌌다",
+    "삼전닉스쫓는YMTC…IPO로6.8조원조달한다",
+    "엔비디아,내년AI서버‘가격인상’예고",
+    "애플,퀄컴이어…엔비디아도AI칩가격15％인상예고",
+    "ACE고배당주PLUS커버드콜액티브순매수1천억돌파",
+    "금값뛰니채굴기업ETF‘귀한몸’…나흘만에12%급등[ETF스퀘어]"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T18:20:24.099363+09:00"
+   "last_run": "2026-08-23T18:25:19.123672+09:00"
   }
  },
  "press_names": {
