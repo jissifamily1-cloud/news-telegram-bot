@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T13:40:21.669072+09:00",
-     "온도차 건설사 탄소배출 외쳤지만 넷제로 역주행 친환경"
-    ],
-    [
-     "2026-08-23T13:40:21.669072+09:00",
-     "메모리 엔비디아도 삼전닉스가 주도권 결국"
-    ],
-    [
      "2026-08-23T13:45:19.416840+09:00",
      "투자비용이 뛴다 서버 시험대 수익성 비싼"
     ],
@@ -434,11 +426,13 @@
     [
      "2026-08-23T19:30:26.813005+09:00",
      "인비테이셔 드림팀 전사들이 드라마 7인의 역전 신바람 3Ps 청주"
+    ],
+    [
+     "2026-08-23T19:40:22.682920+09:00",
+     "주식 반등에도 회전율 연중 최저 관망 개미들 코스피 반도체"
     ]
    ],
    "seen_urls": [
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=726591",
-    "https://en.yna.co.kr/view/AEN20260821005900320?input=2106m",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479373",
     "https://www.ajunews.com/view/20260821135819042",
     "http://www.fnnews.com/news/202608211344532343",
@@ -1936,11 +1930,11 @@
     "https://www.koreajoongangdaily.com/business/samsungs-record-shareholder-return-still-falls-short-of-lofty-investor-expectations/12838560",
     "https://www.kyeongin.com/article/1769455",
     "https://www.dt.co.kr/article/12079676",
-    "https://basketkorea.com/news/newsview.php?ncode=1065608298720630"
+    "https://basketkorea.com/news/newsview.php?ncode=1065608298720630",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260824.22010006314",
+    "https://www.g-enews.com/view.php?ud=20260823193258520923c501012_1"
    ],
    "seen_titles": [
-    "밸류업공시이행력따라수급쏠림…대형통신·금융주차별화장세...",
-    "단통법사라져도번호이동2.5%↑…통신시장왜잠잠했나",
     "SamsungElectronicslikelytoannounce100tln-wonshareholderretur",
     "코미코·SK텔레콤급등vsJYPEnt.약세…코리아밸류업지수엇갈린...",
     "드리미,한국서'신뢰'승부수…로봇청소기넘어종합가전정조준",
@@ -3438,10 +3432,12 @@
     "Samsung'srecordshareholderreturnstillfallsshortofloftyinvest",
     "계양TV신속공급주문에도…인프라·기업유치제자리",
     "엔비디아도15%인상…극한칩플레이션덮친다",
-    "7인의전사들이쓴‘신바람역전드라마’청주드림팀,3Ps인비테이셔..."
+    "7인의전사들이쓴‘신바람역전드라마’청주드림팀,3Ps인비테이셔...",
+    "‘삼전닉스’주주환원이어AI반도체까지…금주코스피시험대",
+    "반도체반등에도개미들'관망'…코스피주식회전율연중'최저'"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T19:35:55.782795+09:00"
+   "last_run": "2026-08-23T19:40:22.682920+09:00"
   }
  },
  "press_names": {
