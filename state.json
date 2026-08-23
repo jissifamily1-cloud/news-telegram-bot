@@ -153,7 +153,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.beyondpost.co.kr/view.php?ud=2026082114363179872aaae0046f_30",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=423211",
     "https://www.mydaily.co.kr/page/view/2026082114452973985",
     "http://www.fnnews.com/news/202608211438203626",
@@ -1652,10 +1651,10 @@
     "http://coinreaders.com/254355",
     "https://www.donga.com/news/Society/article/all/20260823/134527573/2",
     "https://www.hankookilbo.com/news/article/A2026082109510005647?did=NA",
-    "https://biz.sbs.co.kr/article_hub/20000330233?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000330233?division=NAVER",
+    "https://view.asiae.co.kr/article/2026082404442467534"
    ],
    "seen_titles": [
-    "고려대고령사회연구원,한·중·일고령사회대응방안논의",
     "닛케이,\"삼성전자100조원규모주주환원정책내놓는다\"...국내기업중...",
     "신용융자잔고증가세,순증가1위삼성전자···순감소1위는한화시스...",
     "삼성전자,‘100조주주환원’초읽기…하이닉스40조넘어설까",
@@ -3154,10 +3153,11 @@
     "엔비디아(NVDA)AI서버15%인상...메모리품귀역습",
     "5개월넘긴석유최고가격제…물가눌렀지만재정부담커져",
     "개인정보유출제재,공공·민간동일해야[기고]",
-    "[글로벌비즈브리핑]엔비디아도못버틴메모리값...AI서버가격인상..."
+    "[글로벌비즈브리핑]엔비디아도못버틴메모리값...AI서버가격인상...",
+    "엔비디아,AI모델개발로영토확장…서버가격15%인상예고"
    ],
    "initialized": true,
-   "last_run": "2026-08-24T04:46:49.825381+09:00"
+   "last_run": "2026-08-24T04:50:21.046518+09:00"
   }
  },
  "press_names": {
