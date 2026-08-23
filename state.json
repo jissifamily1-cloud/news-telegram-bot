@@ -370,15 +370,17 @@
     [
      "2026-08-24T06:55:19.506074+09:00",
      "중동 정유 모두 흑자 전쟁 톡톡 4사"
+    ],
+    [
+     "2026-08-24T07:00:32.228673+09:00",
+     "마지막 1만8000명 몰렸다 민간분양 사흘 만에 첨단3지구"
+    ],
+    [
+     "2026-08-24T07:00:32.228673+09:00",
+     "in Top newspapers major Korean headlines"
     ]
    ],
    "seen_urls": [
-    "https://www.gokorea.kr/news/articleView.html?idxno=875870",
-    "https://www.segye.com/newsView/20260821510009?OutUrl=naver",
-    "https://biz.heraldcorp.com/article/10848292",
-    "https://en.yna.co.kr/view/AEN20260821007500320?input=2106m",
-    "https://en.yna.co.kr/view/AEN20260821007700320?input=2106m",
-    "https://www.ytn.co.kr/_ln/0102_202608211540374294",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7180076",
     "https://en.yna.co.kr/view/AEN20260821007400320?input=2106m",
     "https://biz.sbs.co.kr/article_hub/20000330060?division=NAVER",
@@ -1872,15 +1874,15 @@
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6846755_37012.html",
     "https://www.newspim.com/news/view/20260823000151",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1721330",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=52288"
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=52288",
+    "http://www.fnnews.com/news/202608231538138551",
+    "https://www.m-i.kr/news/articleView.html?idxno=1404824",
+    "https://www.m-i.kr/news/articleView.html?idxno=1404823",
+    "https://www.g-enews.com/view.php?ud=2026082323354675240c8c1c064d_1",
+    "https://www.sedaily.com/article/20082318",
+    "https://en.yna.co.kr/view/AEN20260824000400315?input=2106m"
    ],
    "seen_titles": [
-    "애플,공급망재편가능성…K-반도체·부품사셈법은",
-    "노태우전대통령비자금수사…노재헌자택포함압수수색",
-    "최태원이혼소송서공개된‘노태우비자금’국고환수될까",
-    "SK하이닉스성과급주식지급안,다음주全조합원투표로결정…주총...",
-    "KOSPI200ClosingPriceList-2",
-    "KOSPI200ClosingPriceList-4",
     "[속보]코스피,소폭상승해6,900선회복...코스닥급락",
     "검찰,노태우일가비자금의혹수사…김옥숙여사자택등압수수색",
     "KOSPI200ClosingPriceList-1",
@@ -3374,10 +3376,16 @@
     "미리보는오늘",
     "메모리값급등에엔비디아도백기…AI서버가격15%이상올린다",
     "'칠천피'복귀기다리는증시…엔비디아·금리·주주환원3대변수",
-    "[상반기기업분석]정유4사,중동전쟁덕'톡톡'…모두흑자전환"
+    "[상반기기업분석]정유4사,중동전쟁덕'톡톡'…모두흑자전환",
+    "유럽디젤부족에마진뛴다…정유4사,하반기도'호황'이어가나",
+    "美ETF자금,코스닥반도체소부장까지들어올까",
+    "40조소각·최대110조환원...K반도체재평가시험대",
+    "\"AI메모리폭등타고증시입성\"…세계3위낸드'YMTC모회사',상하이...",
+    "첨단3지구마지막민간분양…사흘만에1만8000명몰렸다",
+    "TopheadlinesinmajorS.Koreannewspapers"
    ],
    "initialized": true,
-   "last_run": "2026-08-24T06:55:19.506074+09:00"
+   "last_run": "2026-08-24T07:00:32.228673+09:00"
   }
  },
  "press_names": {
