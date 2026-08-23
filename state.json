@@ -394,14 +394,13 @@
     [
      "2026-08-23T10:10:21.224041+09:00",
      "네이버 카카오 회사 본진까지 정조준 검색 쪼개 골든타임 잡는다"
+    ],
+    [
+     "2026-08-23T10:15:19.922342+09:00",
+     "SK하이닉스인 무려 아니 삼성전자 있는 1주가 250만원 처음"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260821000392",
-    "https://weekly.khan.co.kr/article/202608211048001",
-    "https://www.theguru.co.kr/news/article.html?no=106104",
-    "https://cn.asiatoday.co.kr/view.php?key=20260821000945381",
-    "https://cn.asiatoday.co.kr/view.php?key=20260821000948003",
     "https://biz.newdaily.co.kr/site/data/html/2026/08/21/2026082100106.html",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=275234",
     "https://www.news1.kr/local/sejong-chungbuk/6265391",
@@ -1896,14 +1895,14 @@
     "https://www.edaily.co.kr/News/Read?newsId=01292326645550272&mediaCodeNo=257",
     "https://www.news1.kr/it-science/cc-newmedia/6266552",
     "http://www.srtimes.kr/news/articleView.html?idxno=210611",
-    "http://www.metroseoul.co.kr/article/20260823500026"
+    "http://www.metroseoul.co.kr/article/20260823500026",
+    "https://weekly.hankooki.com/news/articleView.html?idxno=7180175",
+    "https://www.viva100.com/article/20260822500216",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000058772",
+    "https://www.newsway.co.kr/news/view?ud=2026082310024638297",
+    "https://biz.heraldcorp.com/article/10848972"
    ],
    "seen_titles": [
-    "李대통령또만난최태원,무슨말오갔나",
-    "檢,'노태우비자금은닉의혹'김옥숙여사자택압수수색",
-    "검찰,‘노태우비자금’김옥숙연희동자택압수수색,‘904억메모’...",
-    "블룸버그\"오늘삼성전자최대110조원대주주환원책발표\"",
-    "AI芯片竞争从算力转向“连接”三星·SK加码先进封装",
     "李在明与崔泰源举行非公开晚餐会晤或讨论对美投资",
     "K배터리,저점통과했나…공장가동률4년만에반등",
     "[OpeningMarket]KOSPIFluctuatesAround6,900EarlyinTheSession",
@@ -3398,10 +3397,15 @@
     "에이전트AI시대…\"국가안보,보유에서운용으로바꿔야\"",
     "'모두의AI'출사표KT.국산NPU·AI모델총집결한다",
     "K-배터리3사,글로벌특허10만건육박…'초격차'기술방어막친다",
-    "카카오,회사쪼개AI'골든타임'잡는다…네이버검색본진까지정조준"
+    "카카오,회사쪼개AI'골든타임'잡는다…네이버검색본진까지정조준",
+    "충남신보,태안군전통시장활성화위해6개기관업무협약체결",
+    "[주간증시전망]코스피,AI반도체훈풍타고7000선넘을까",
+    "\"가격상승못막은엔비디아\"…AI서버값15%오른다",
+    "K-메모리귀하신몸됐다…엔비디아AI서버가격인상",
+    "삼성전자1주가무려‘250만원’?SK하이닉스인줄…처음있는게아니..."
    ],
    "initialized": true,
-   "last_run": "2026-08-23T10:10:21.224041+09:00"
+   "last_run": "2026-08-23T10:15:19.922342+09:00"
   }
  },
  "press_names": {
