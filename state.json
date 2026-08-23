@@ -382,11 +382,13 @@
     [
      "2026-08-23T09:55:19.381165+09:00",
      "국내 부담 팔기도 주식 회전율 사기도"
+    ],
+    [
+     "2026-08-23T10:00:32.605233+09:00",
+     "GPU 실증 본격화 의존 NPU 국산 외산 줄인다"
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/society/2026/08/21/2026082109451183370",
-    "https://www.imaeil.com/page/view/2026082110414998854",
     "https://biz.newdaily.co.kr/site/data/html/2026/08/21/2026082100101.html",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=85719",
     "https://www.sisajournal.com/news/articleView.html?idxno=384345",
@@ -1884,11 +1886,11 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053762",
     "http://www.newstomato.com/ReadNews.aspx?no=1311040&inflow=N",
     "https://magazine.hankyung.com/business/article/202608198733b",
-    "https://biz.chosun.com/stock/stock_general/2026/08/23/QVWNCCBB6JF4HCB6IBVLZVUWA4/"
+    "https://biz.chosun.com/stock/stock_general/2026/08/23/QVWNCCBB6JF4HCB6IBVLZVUWA4/",
+    "https://www.g-enews.com/view.php?ud=202608230947373856fbbec65dfb_1",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000058766"
    ],
    "seen_titles": [
-    "檢,노태우일가비자금의혹수사…연희동사저등압수수색",
-    "\"추정수익률9000%\"…하이닉스2만원때사하나도안팔았다",
     "코스닥800선붕괴…5%급락에매도사이드카발동",
     "현대·대우·포스코·롯데현금흐름마이너스…건설사들돈이안돈다",
     "[증시오늘(21일)주요특징주]\"기술주·2차전지급락vs방산·금융방...",
@@ -3386,10 +3388,12 @@
     "SK하이닉스,'성과급60%자사주지급'24~25일투표…임단협'분수령'",
     "현금대신자사주60%…SK하이닉스이번주찬반투표",
     "도널드트럼프美대통령\"한·미연합훈련대폭축소…김정은과매우...",
-    "“사기도팔기도부담”…국내주식회전율‘뚝’"
+    "“사기도팔기도부담”…국내주식회전율‘뚝’",
+    "반도체품귀에기기값60%껑충…한국메모리협상력뛴다",
+    "\"외산GPU의존줄인다\"…'국산NPU'실증본격화"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T09:55:19.381165+09:00"
+   "last_run": "2026-08-23T10:00:32.605233+09:00"
   }
  },
  "press_names": {
