@@ -341,7 +341,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1680696/?sc=Naver",
     "http://www.newsian.co.kr/news/articleView.html?idxno=94026",
     "https://monthly.chosun.com/news/articleView.html?idxno=71155",
     "https://www.yna.co.kr/view/AKR20260821039952002?input=1195m",
@@ -1840,10 +1839,10 @@
     "https://www.newsway.co.kr/news/view?ud=2026082116252556255",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4102156",
     "https://www.sentv.co.kr/article/view/sentv202608230008",
-    "https://economist.co.kr/article/view/ecn202608230001"
+    "https://economist.co.kr/article/view/ecn202608230001",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1721295"
    ],
    "seen_titles": [
-    "삼성전자'150조'주주환원예고…한국기업역사상최대규모",
     "검찰,김옥숙여사자택등압수수색…'노태우비자금의혹'강제수사",
     "검찰,'노태우비자금의혹'강제수사…김옥숙자택압수수색",
     "李대통령,최태원SK회장과비공개만찬회동…무슨논의오갔나",
@@ -3342,10 +3341,11 @@
     "반도체넘어전산업으로…증시달구는'주주환원랠리'",
     "김용범,광주반도체부지내일방문…국가산단확대주목",
     "K-배터리3사특허9만3500건…3년새1.9배늘었다",
-    "갈길먼'30만전자'5명중1명개미인데…증권가월요일전망은"
+    "갈길먼'30만전자'5명중1명개미인데…증권가월요일전망은",
+    "K-배터리3사특허10만건육박…3년반만에약2배"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T09:15:20.393583+09:00"
+   "last_run": "2026-08-23T09:20:22.687653+09:00"
   }
  },
  "press_names": {
