@@ -446,12 +446,13 @@
     [
      "2026-08-23T10:50:20.993742+09:00",
      "인데 반도체사는 삼성 미국 환원"
+    ],
+    [
+     "2026-08-23T10:55:16.608292+09:00",
+     "LG CNS도 웃고 2조달러 임박 기대 앤트로픽 네이버 몸값 IPO SKT"
     ]
    ],
    "seen_urls": [
-    "https://www.sisajournal.com/news/articleView.html?idxno=384354",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608201518224760103588",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=309391",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1721179",
     "https://www.newsis.com/view/NISX20260821_0003757312",
     "https://dealsite.co.kr/articles/167587",
@@ -1948,12 +1949,12 @@
     "https://www.pharmnews.com/news/articleView.html?idxno=305770",
     "https://biz.heraldcorp.com/article/10848990",
     "http://www.4th.kr/news/articleView.html?idxno=2116735",
-    "https://biz.sbs.co.kr/article_hub/20000330207?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000330207?division=NAVER",
+    "https://www.seoulfn.com/news/articleView.html?idxno=636223",
+    "https://biz.chosun.com/it-science/ict/2026/08/23/QUQ24UOHUJACJJLUTOLFQXJWPE/",
+    "https://www.newsis.com/view/NISX20260823_0003758779"
    ],
    "seen_titles": [
-    "검찰,'노태우비자금의혹'김옥숙여사연희동자택등압수수색",
-    "檢,'노태우비자금'강제수사착수…김옥숙여사자택등압수수색",
-    "[더벨]디지털자산리스크덜은하나금융…비트고코리아VASP획득",
     "랜섬웨어,개별기업서'공통인프라'로공격확대…\"취약점·계정관리...",
     "[AI빈부격차시대④]\"AI깔아주고끝?\"…중기AX지원'구축'넘어'판...",
     "송도발코니붕괴아파트…박찬대\"인허가과정살펴봐야\"",
@@ -3450,10 +3451,13 @@
     "국회발자료요구...'수급안정선도기업'준혁신형특례탄력",
     "김용범실장,광주반도체부지방문예정",
     "\"트럼프,애플중국산메모리허용\"보도…근거는웨이보루머",
-    "삼성·SK'50%환원'인데…미국반도체사는왜100%?"
+    "삼성·SK'50%환원'인데…미국반도체사는왜100%?",
+    "엔비디아,메모리품귀현상에주요제품가격인상",
+    "KT,‘모두의AI’사업에토종AI기업컨소시엄으로도전장",
+    "‘몸값2조달러’앤트로픽IPO임박…SKT웃고네이버·LGCNS도기대"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T10:50:20.993742+09:00"
+   "last_run": "2026-08-23T10:55:16.608292+09:00"
   }
  },
  "press_names": {
