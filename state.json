@@ -370,11 +370,13 @@
     [
      "2026-08-23T09:40:23.341759+09:00",
      "로봇 9개 ETF 상위 10개 전력 뜯어보니 중복"
+    ],
+    [
+     "2026-08-23T09:50:22.915830+09:00",
+     "성과급 요구 봇물 이어 파업 철강까지 자동차 초읽기 조선"
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0102_202608211047187396",
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5213871",
     "https://www.newsis.com/view/NISX20260821_0003757279",
     "https://www.edaily.co.kr/News/Read?newsId=03266886645549616&mediaCodeNo=257",
     "https://news.tf.co.kr/read/economy/2356408.htm",
@@ -1872,11 +1874,11 @@
     "https://biz.sbs.co.kr/article_hub/20000330193?division=NAVER",
     "https://www.g-enews.com/view.php?ud=202608230827084127fbbec65dfb_1",
     "https://www.mk.co.kr/article/12133152",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053695"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053695",
+    "http://www.4th.kr/news/articleView.html?idxno=2116734",
+    "http://www.joseilbo.com/news/news_read.php?uid=574301&class=33"
    ],
    "seen_titles": [
-    "코스닥갈아탔더니'-5%사이드카'…다시치고나간'삼전닉스'",
-    "한국은행부총재에'국제통'권민수...\"금리인상부작용도\"",
     "'김옥숙메모'904억어디로…검찰,노태우일가강제수사",
     "삼성전자,'100조+α'메가주주환원'임박'…\"韓기업역사상최대규모...",
     "조용익부천시장\"첨단산업육성,기업지원강화\"",
@@ -3374,10 +3376,12 @@
     "기업들달러4배더팔았다…고환율잡은'수출기업달러'",
     "엔비디아,AI서버값15%전격인상…빅테크투자비상",
     "삼전닉스빼면IMF라는데…[편집장레터]",
-    "AI·로봇·전력ETF뜯어보니…상위10개중최대9개중복"
+    "AI·로봇·전력ETF뜯어보니…상위10개중최대9개중복",
+    "메모리공급난심화..엔비디아AI서버값15%이상올린다",
+    "‘N%성과급’요구봇물…자동차·조선이어철강까지파업초읽기"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T09:45:19.642990+09:00"
+   "last_run": "2026-08-23T09:50:22.915830+09:00"
   }
  },
  "press_names": {
