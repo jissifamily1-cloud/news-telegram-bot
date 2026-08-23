@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T15:20:23.638843+09:00",
-     "회의 붕괴 조사 인천시 아파트 송도 사고 테라스 국토부"
-    ],
-    [
      "2026-08-23T15:25:17.822438+09:00",
      "정치권 35년 운명 실행력이 새만금 청사진 관건 반복한"
     ],
@@ -366,11 +362,17 @@
     [
      "2026-08-23T21:05:17.479852+09:00",
      "모든 7골 완벽했다 몰아친 김기동"
+    ],
+    [
+     "2026-08-23T21:25:16.182678+09:00",
+     "코스피 차지 순이익 삼전 상장사 하닉 상반기"
+    ],
+    [
+     "2026-08-23T21:25:16.182678+09:00",
+     "사회의 가치 미래 다문화 고민의"
     ]
    ],
    "seen_urls": [
-    "https://www.joongangenews.com/news/articleView.html?idxno=541712",
-    "https://www.aitimes.com/news/articleView.html?idxno=214209",
     "https://www.smarttoday.co.kr/ko-kr/articles/110687",
     "https://www.sisajournal.com/news/articleView.html?idxno=384362",
     "http://www.ibulgyo.com/news/articleView.html?idxno=441441",
@@ -1868,11 +1870,11 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=858828",
     "http://www.fnnews.com/news/202608232113054634",
     "https://www.seoul.co.kr/news/economy/securities/2026/08/23/20260823500018?wlog_tag3=naver",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3672017"
+    "https://www.gukjenews.com/news/articleView.html?idxno=3672017",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=557316",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=557362"
    ],
    "seen_titles": [
-    "SK증권주가,8월21일장중2,935원4.45%상승",
-    "SK텔레콤주가,8월21일장중100,600원4.14%상승",
     "마이크론,14조투자해미국첫AI메모리전문연구소설립",
     "삼성전자,외신발\"오늘주주환원발표\"에상승폭확대",
     "삼성전자'역대급주주환원'나오나…증권가100조원대전망",
@@ -3370,10 +3372,12 @@
     "엔비디아,AI서버시스템공급가15%인상",
     "엔비디아,내년부터AI서버가격15%인상",
     "‘삼전닉스’아니면줄줄내렸다…‘파란불’가득한계좌에개미들허...",
-    "소진공,6개기관,태안전통시장활성화위해업무협약"
+    "소진공,6개기관,태안전통시장활성화위해업무협약",
+    "코스피상장사상반기순이익333%↑…삼전·하닉65%차지",
+    "[2026대한민국다문화어울림엑스포]다문화사회의미래가치고민의..."
    ],
    "initialized": true,
-   "last_run": "2026-08-23T21:20:21.020341+09:00"
+   "last_run": "2026-08-23T21:25:16.182678+09:00"
   }
  },
  "press_names": {
