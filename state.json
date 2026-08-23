@@ -354,17 +354,17 @@
     [
      "2026-08-23T09:30:27.599413+09:00",
      "최종현학술원 주권 전환해야 소버린 운용 보유"
+    ],
+    [
+     "2026-08-23T09:35:19.672727+09:00",
+     "서버 가격 영향 내년부터 메모리값 엔비디아 급등"
+    ],
+    [
+     "2026-08-23T09:35:19.672727+09:00",
+     "넓어진다 국산 에이전트까지 NPU부터 경쟁판"
     ]
    ],
    "seen_urls": [
-    "https://news.mtn.co.kr/news-detail/2026082110314960730",
-    "https://biz.chosun.com/it-science/ict/2026/08/21/M4MXO32XUVBIJDUEHOOGVLJK5I/",
-    "https://www.ikbc.co.kr/article/view/kbc202608210025",
-    "http://www.fnnews.com/news/202608211033294909",
-    "https://www.kado.net/news/articleView.html?idxno=2067871",
-    "https://www.hani.co.kr/arti/economy/economy_general/1273984.html",
-    "http://www.seouleconews.com/news/articleView.html?idxno=93214",
-    "https://www.wikitree.co.kr/articles/1153852",
     "https://www.wikitree.co.kr/articles/1153843",
     "https://www.koreajoongangdaily.com/business/sellside-sidecar-triggered-on-kosdaq/12836567",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1721166",
@@ -1856,17 +1856,17 @@
     "https://www.pennmike.com/news/articleView.html?idxno=126194",
     "https://www.mt.co.kr/stock/2026/08/23/2026082117360154802",
     "http://www.popcornnews.net/news/articleView.html?idxno=130496",
-    "https://www.ddaily.co.kr/page/view/2026082309232270428"
+    "https://www.ddaily.co.kr/page/view/2026082309232270428",
+    "https://www.edaily.co.kr/News/Read?newsId=01243126645550272&mediaCodeNo=257",
+    "http://www.breaknews.com/1230787",
+    "https://www.ekn.kr/web/view.php?key=20260823029405478",
+    "https://www.youthdaily.co.kr/news/article.html?no=225526",
+    "https://www.etoday.co.kr/news/view/2617096",
+    "https://www.etnews.com/20260821000042",
+    "https://www.viva100.com/article/20260823500149",
+    "https://www.yna.co.kr/view/AKR20260821079000017?input=1195m"
    ],
    "seen_titles": [
-    "검찰,‘노태우비자금의혹’김옥숙여사연희동자택등압수수색",
-    "호남반도체산단전력·용수인프라예타면제‘초읽기’",
-    "2분기랜섬웨어피해48%급증…SK쉴더스“공통플랫폼·인프라공격확...",
-    "[속보]검찰,'노태우비자금의혹'김옥숙연희동자택압수수색...'904...",
-    "검찰,노태우일가'비자금은닉'강제수사...김옥숙사저등압수수색",
-    "코스닥장중5%급락…매도사이드카발동",
-    "[속보]코스닥5%대급락…‘매도사이드카’발동",
-    "코스피,또美국채금리에발목6,800선하락...코스닥매도사이드카발동",
     "SK하이닉스와관련해전해진대형소식...\"일본에생산공장추진\"(이유...",
     "수익률무려9000%…’2만원대’산하이닉스주식,아직1주도안팔았...",
     "Sell-sidesidecartriggeredonKosdaq",
@@ -3358,10 +3358,18 @@
     "이창용전총재,李저격?\"추가세수,단기고통완화나반도체투자에...",
     "금리상승vs주주환원에급등락한증시…뛴종목은?[김근희의증시랩업...",
     "\"국산AI모델확보만으론부족\"…AI주권기준'보유'에서'운용능력'...",
-    "\"AI주권,'보유'서'운용'으로전환해야\"…최종현학술원'소버린AI2.0..."
+    "\"AI주권,'보유'서'운용'으로전환해야\"…최종현학술원'소버린AI2.0...",
+    "삼전닉스뛰는데거래는뚝…코스피회전율‘연중최저’",
+    "트럼프發관세폭탄속반도체‘110조주주환원’증시구원투수등판",
+    "“삼전닉스올라도안산다”…코스피7000향해도투자자들‘관망’",
+    "무선수익으로AI인프라장전…통신3사,AIDC총력전",
+    "삼전·하이닉스주주환원,美경쟁사의절반?…“단순비교의착시”",
+    "통신3사,CPO권한강화규정마련착수…개보법개정대응",
+    "엔비디아,내년부터AI서버가격15%↑⋯“메모리값급등영향”",
+    "[AI위클리]국산NPU부터AI에이전트까지…경쟁판넓어진다"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T09:30:27.599413+09:00"
+   "last_run": "2026-08-23T09:35:19.672727+09:00"
   }
  },
  "press_names": {
