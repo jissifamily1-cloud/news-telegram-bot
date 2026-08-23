@@ -322,11 +322,17 @@
     [
      "2026-08-24T06:10:22.572231+09:00",
      "국내 상승이 증시를 금리 걸까요 흔든 국채"
+    ],
+    [
+     "2026-08-24T06:15:13.178661+09:00",
+     "AI로 서비스 고객 신뢰 맞춤"
+    ],
+    [
+     "2026-08-24T06:15:13.178661+09:00",
+     "데이터센터에 두배 반년 4164조 몰린다 전망치"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026082115324381891",
-    "https://biz.chosun.com/entertainment/enter_general/2026/08/21/PZF5JRNA3NF5BH27DO5NNHXNH4/",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479417",
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=705102",
     "http://www.thevaluenews.co.kr/news/view.php?idx=200977",
@@ -1824,11 +1830,11 @@
     "https://magazine.hankyung.com/business/article/202608190689b",
     "https://www.news1.kr/finance/general-stock/6266779",
     "https://it.chosun.com/news/articleView.html?idxno=2023092168420",
-    "https://www.newsis.com/view/NISX20260820_0003756362"
+    "https://www.newsis.com/view/NISX20260820_0003756362",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=761980",
+    "https://www.news1.kr/it-science/cc-newmedia/6266757"
    ],
    "seen_titles": [
-    "SK쉴더스\"상반기랜섬웨어피해4744건…취약점·계정관리체계선제...",
-    "소진공등6개기관손잡고태안군지역경제활성화",
     "전원주,2만원에산하이닉스1주도안팔았다…수익률8000%",
     "백신·진단테마단기숨고르기…실질파이프라인보유주주목",
     "하나금융도합류···5대은행,디지털자산수탁'진용완성'",
@@ -3326,10 +3332,12 @@
     "AI전력난구원투수로뜬SMR…원전이‘공장’으로간다[7대첨단기술...",
     "거래식었는데'AI슈퍼위크'…삼전닉스에달린'칠천피'",
     "통신사AI서비스늘수록소외되는노인들[통신소외고령층①]",
-    "美국채금리상승이왜국내증시를흔든걸까요[금알못]"
+    "美국채금리상승이왜국내증시를흔든걸까요[금알못]",
+    "[소비자가뽑은참좋은브랜드-SK텔레콤]맞춤서비스·AI로고객신뢰...",
+    "\"데이터센터에4164조몰린다\"…'AI붐'에반년새전망치두배"
    ],
    "initialized": true,
-   "last_run": "2026-08-24T06:10:22.572231+09:00"
+   "last_run": "2026-08-24T06:15:13.178661+09:00"
   }
  },
  "press_names": {
