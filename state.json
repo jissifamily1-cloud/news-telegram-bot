@@ -466,16 +466,21 @@
     [
      "2026-08-23T11:50:23.839124+09:00",
      "불편한 증권맨들의 점심시간 여의도"
+    ],
+    [
+     "2026-08-23T11:55:17.309208+09:00",
+     "채용방식이 대학생 바꿀 취준생의 SK하이닉스 모습"
+    ],
+    [
+     "2026-08-23T11:55:17.309208+09:00",
+     "새로운 AI사업 인공지능 발굴 데이터센터로 수익원 매출 통신사들"
+    ],
+    [
+     "2026-08-23T11:55:17.309208+09:00",
+     "에이전트가 국산 바꾼다 기술 혁명 산업 NPU와 지형"
     ]
    ],
    "seen_urls": [
-    "https://it.chosun.com/news/articleView.html?idxno=2023092168592",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260821111630vyF",
-    "https://www.munhwa.com/article/11610975",
-    "https://www.etoday.co.kr/news/view/2616786",
-    "https://biz.heraldcorp.com/article/10847901",
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4101961",
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=391034",
     "https://www.sisajournal.com/news/articleView.html?idxno=384319",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008715455&plink=ORI&cooper=NAVER",
     "https://biz.heraldcorp.com/article/10847914",
@@ -1968,16 +1973,16 @@
     "https://www.etnews.com/20260823000039",
     "https://www.gokorea.kr/news/articleView.html?idxno=875968",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5214156",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4431352"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4431352",
+    "http://www.stoo.com/article.php?aid=108467042694",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000005209&cp=nv",
+    "https://www.edaily.co.kr/News/Read?newsId=01443206645550272&mediaCodeNo=257",
+    "https://view.asiae.co.kr/article/2026082311490351793",
+    "https://www.news2day.co.kr/article/20260823500009",
+    "https://www.gokorea.kr/news/articleView.html?idxno=875980",
+    "https://www.gokorea.kr/news/articleView.html?idxno=875974"
    ],
    "seen_titles": [
-    "삼성·SK하이닉스,R&D비용반기에만33조…마이크론도나섰다",
-    "글로벌랜섬웨어피해4744건…전년동기대비48%증가",
-    "검찰,‘노태우비자금의혹’김옥숙여사자택등압수수색",
-    "‘2만닉스’전원주,수익률9000%추정에도“더기다린다”",
-    "김민석“미중일정당외교추진…李페이스메이커역할지원”",
-    "SK하이닉스,성과급난맥‘위기분담’극복",
-    "검찰,'노태우비자금은닉의혹'강제수사...김옥숙여사자택압수수...",
     "코스닥장중5%대급락에'매도사이드카'발동",
     "[경북24시]경북도,국립경국대의대신설계획교육부제출",
     "검찰,'노태우비자금의혹'김옥숙자택등압수수색",
@@ -3470,10 +3475,17 @@
     "삼전닉스반등에도개미들은불신…코스피회전율·거래량연중최저",
     "김용범청와대실장,광주군공항반도체국가산단확장위한현장방문...",
     "엔비디아,고객사에AI서버가격15%인상예고…'D램품귀'",
-    "[증권가이모저모]여의도증권맨들의'불편한점심시간'"
+    "[증권가이모저모]여의도증권맨들의'불편한점심시간'",
+    "'현대모비스영구결번'우지원딸우서윤,미스코리아진당선…\"전혀...",
+    "메모리가격상승에엔비디아도서버값15%인상예고",
+    "SK하이닉스'PS60%자사주'통할까…노조표심주목",
+    "최종현학술원\"에이전트AI시대,주권의기준은보유에서운용\"",
+    "[재계인사이드]SK하이닉스채용방식이바꿀대학생,취준생의모습",
+    "통신사들,인공지능데이터센터로'새로운수익원'발굴…AI사업매출급...",
+    "AI기술혁명…국산NPU와AI에이전트가산업지형바꾼다"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T11:50:23.839124+09:00"
+   "last_run": "2026-08-23T11:55:17.309208+09:00"
   }
  },
  "press_names": {
