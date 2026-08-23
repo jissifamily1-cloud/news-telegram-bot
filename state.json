@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T08:15:22.902048+09:00",
-     "사이드카는 거래 예탁금 한방에 레버리지 계속 단일종목"
-    ],
-    [
-     "2026-08-23T08:15:22.902048+09:00",
-     "주주환원이 막힌 대형주 코스피 금리에 받친다 붙어있어라"
-    ],
-    [
      "2026-08-23T08:25:00.771402+09:00",
      "규제 9분의 감소 거래대금 ETF 단일종목"
     ],
@@ -437,7 +429,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.newslock.co.kr/news/articleView.html?idxno=134671",
     "https://www.ppss.kr/news/articleView.html?idxno=306625",
     "https://www.aitimes.com/news/articleView.html?idxno=214194",
     "http://www.nongaek.com/news/articleView.html?idxno=96475",
@@ -1936,10 +1927,10 @@
     "https://www.edaily.co.kr/News/Read?newsId=01610486645550272&mediaCodeNo=257",
     "https://www.edaily.co.kr/News/Read?newsId=01607206645550272&mediaCodeNo=257",
     "https://it.chosun.com/news/articleView.html?idxno=2023092168660",
-    "http://www.cctimes.kr/news/articleView.html?idxno=922904"
+    "http://www.cctimes.kr/news/articleView.html?idxno=922904",
+    "https://zdnet.co.kr/view/?no=20260823141059"
    ],
    "seen_titles": [
-    "상반기바이오투자액2년새2.5배↑…회복하는투심",
     "수협은행,해양진흥공사와기업신용리스크관리역량공유",
     "하나금융,코인'금고지기'된다…비트고코리아VASP신고수리",
     "\"AI로만나는아기상어\"...셀렉트스타,'다투모'로대화안전성검증",
@@ -3438,10 +3429,11 @@
     "삼성전자,110조주주환원에도주가‘출렁’…반등주도할까",
     "\"한국경제체질바꿀'K실리콘밸리'조성,유니콘기업100개만들것\"",
     "엔비디아,AI서버값15%인상…삼전·하닉'슈퍼乙'지위강화",
-    "제11회청주산업단지관리공단이사장배직장스크린골프대회성료"
+    "제11회청주산업단지관리공단이사장배직장스크린골프대회성료",
+    "[ZD브리핑]카카오김범수,다시법정으로…삼성·SK하이닉스,美서AI메..."
    ],
    "initialized": true,
-   "last_run": "2026-08-23T14:15:21.051167+09:00"
+   "last_run": "2026-08-23T14:20:21.949258+09:00"
   }
  },
  "press_names": {
