@@ -449,7 +449,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/economy/industry/2026/08/21/20260821500109?wlog_tag3=naver",
     "https://en.yna.co.kr/view/AEN20260821005100320?input=2106m",
     "https://www.yna.co.kr/view/AKR20260821076800054?input=1195m",
     "https://www.starnewskorea.com/sports/2026/08/21/2026082110414529595",
@@ -1948,10 +1947,10 @@
     "https://www.sisajournal-e.com/news/articleView.html?idxno=423247",
     "https://www.hankookilbo.com/news/article/A2026082311450003265?did=NA",
     "https://biz.newdaily.co.kr/site/data/html/2026/08/23/2026082300033.html",
-    "https://www.goodmorningcc.com/news/articleView.html?idxno=451056"
+    "https://www.goodmorningcc.com/news/articleView.html?idxno=451056",
+    "http://www.newstomato.com/ReadNews.aspx?no=1311045&inflow=N"
    ],
    "seen_titles": [
-    "코스피,삼전·닉스상승에6900선턱밑…코스닥은‘매도사이드카’",
     "형광등하나까지아꼈던SK하이닉스,성과급해법찾은‘위기극복DNA’",
     "SeoulstockstadhigherlateFri.morningonchipgains",
     "호남지역건설경기호전…작년말부터수주액증가",
@@ -3450,10 +3449,11 @@
     "삼성전자·SK하이닉스150조주주환원···식어버린투심살릴까",
     "\"국산AI모델확보만으로는부족…접근·운용주권이중요\"",
     "코스피6900선회복에도투심'냉랭'…회전율연중최저,IPO시장도위...",
-    "화력발전폐쇄충격에태안소상공인24억특례보증"
+    "화력발전폐쇄충격에태안소상공인24억특례보증",
+    "반도체‘150조’메가주주환원…SK하이닉스에삼성도가세"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T12:35:16.717909+09:00"
+   "last_run": "2026-08-23T12:40:21.000035+09:00"
   }
  },
  "press_names": {
