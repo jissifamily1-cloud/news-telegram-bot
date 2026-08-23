@@ -442,13 +442,21 @@
     [
      "2026-08-24T07:05:16.796262+09:00",
      "뺏긴 SK렌터카 어피니티 급해졌다 엑시트 롯데렌탈"
+    ],
+    [
+     "2026-08-24T07:10:22.506033+09:00",
+     "국채금리 잭슨홀 대기 PCE 급등에도 상승 뉴욕증시"
+    ],
+    [
+     "2026-08-24T07:10:22.506033+09:00",
+     "윤석열 58명 최종 김건희 종합특검 기소한"
+    ],
+    [
+     "2026-08-24T07:10:22.506033+09:00",
+     "110조 보따리에도 개미들 시큰둥 뭐가 삼성전자 달랐나 하이닉스와"
     ]
    ],
    "seen_urls": [
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=726628",
-    "http://www.newsdream.kr/news/articleView.html?idxno=116686",
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=705117",
-    "https://www.newstopkorea.com/news/articleView.html?idxno=47195",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=546784",
     "https://imnews.imbc.com/news/2026/econo/article/6846378_36932.html",
     "https://hbnpress.com/news/view/1065594939109628",
@@ -1944,13 +1952,13 @@
     "http://www.economytalk.kr/news/articleView.html?idxno=422783",
     "https://view.asiae.co.kr/article/2026082117083130282",
     "https://www.goodkyung.com/news/articleView.html?idxno=290508",
-    "https://www.bloter.net/news/articleView.html?idxno=671516"
+    "https://www.bloter.net/news/articleView.html?idxno=671516",
+    "https://www.sedaily.com/article/20082243",
+    "https://biz.sbs.co.kr/article_hub/20000330248?division=NAVER",
+    "https://www.safetimes.co.kr/news/articleView.html?idxno=245112",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643833"
    ],
    "seen_titles": [
-    "[글로벌증시따라잡기]베선트바이백1일천하?\"미장기국채불안여...",
-    "반도체쌍끌이에코스피6900탈환…코스닥은4.6%급락",
-    "[시황]코스피,이틀연속상승장…6900선회복마감",
-    "반도체가끌어올린코스피6900선회복···코스닥은사이드카발동'급...",
     "[카카오인적분할]지주사대신인적분할선택한카카오,복합기업할인...",
     "SK하이닉스일본팹설확산⋯회사측\"현재구체검토된부분없어\"",
     "미국금리상승에코스닥4.6%급락‥코스피는1%상승",
@@ -3446,10 +3454,14 @@
     "[창간27주년기자수첩]가파른AI발전…해킹보다무서운'기본보안...",
     "프랑크푸르트는어떻게유럽의데이터센터중심지가됐나[AIDC시대의공...",
     "KB금융,국내최초'자연자본리스크시스템'박차…여신·투자심사패...",
-    "롯데렌탈뺏긴어피니티,SK렌터카엑시트급해졌다"
+    "롯데렌탈뺏긴어피니티,SK렌터카엑시트급해졌다",
+    "엔비디아·잭슨홀에달린코스피…7000피안착시험대[주간증시전망]",
+    "[증시전략]뉴욕증시,美국채금리급등에도상승…잭슨홀·PCE대기",
+    "[오늘의주요일정·24일]윤석열·김건희등58명기소한종합특검최종...",
+    "삼성전자110조보따리에도개미들‘시큰둥’…하이닉스와뭐가달랐나..."
    ],
    "initialized": true,
-   "last_run": "2026-08-24T07:05:16.796262+09:00"
+   "last_run": "2026-08-24T07:10:22.506033+09:00"
   }
  },
  "press_names": {
