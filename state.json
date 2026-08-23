@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T09:25:17.888234+09:00",
-     "바꿔야 주권 최종현 보유에서 학술원 운용으로 기준"
-    ],
-    [
-     "2026-08-23T09:25:17.888234+09:00",
-     "이창용 단기 저격 완화나 총재 반도체투자에 추가세수 고통"
-    ],
-    [
-     "2026-08-23T09:25:17.888234+09:00",
-     "vs 주주환원에 증시 급등락한 종목은 상승 김근희의 금리 증시랩업"
-    ],
-    [
-     "2026-08-23T09:30:27.599413+09:00",
-     "최종현학술원 주권 전환해야 소버린 운용 보유"
-    ],
-    [
      "2026-08-23T09:35:19.672727+09:00",
      "서버 가격 영향 내년부터 메모리값 엔비디아 급등"
     ],
@@ -402,12 +386,17 @@
     [
      "2026-08-23T15:25:17.822438+09:00",
      "정치권 35년 운명 실행력이 새만금 청사진 관건 반복한"
+    ],
+    [
+     "2026-08-23T15:30:28.167528+09:00",
+     "코스피에 단비 매입이 될까 삼전닉스 자사주"
+    ],
+    [
+     "2026-08-23T15:30:28.167528+09:00",
+     "hynix windfall divide on buybacks or Dividends Samsung"
     ]
    ],
    "seen_urls": [
-    "http://www.joseilbo.com/news/news_read.php?uid=574234&class=18",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642749",
-    "https://www.kwnews.co.kr/article/20260821500090",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642746",
     "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170310",
     "https://www.starnewskorea.com/business-life/2026/08/21/2026082112144032982",
@@ -1904,12 +1893,12 @@
     "https://www.kgnews.co.kr/news/article.html?no=908600",
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032323",
     "https://www.ytn.co.kr/_ln/0102_202608231516112138",
-    "https://www.jjan.kr/article/20260823500025"
+    "https://www.jjan.kr/article/20260823500025",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2274179",
+    "https://www.mk.co.kr/article/12134050",
+    "https://www.koreaherald.com/article/10849101"
    ],
    "seen_titles": [
-    "\"AI인재찾아종횡무진\"…삼성전자는외국인경력·SK하이닉스는신입...",
-    "권민수“환율,펀더멘털상하향이맞다…원화국제화가첫과제”",
-    "[무등의아침]“삼성전자,광주에플랙트공조라인구축…반도체등...",
     "강릉찾은김민석더불어민주당대표“ITS세계총회적극지원하겠다”",
     "[단독]‘노태우비자금의혹’연희동자택등압수수색…‘904억김옥...",
     "뇌전증신약엑스코프리,국내출시초읽기…약가협상시작",
@@ -3406,10 +3395,13 @@
     "인천시-국토부,송도아파트테라스붕괴사고조사첫회의",
     "반도체호황,청년취업률높이는기회",
     "이번주엔비디아실적영향관심...기준금리도주목",
-    "35년청사진반복한‘새만금운명’정치권실행력이관건"
+    "35년청사진반복한‘새만금운명’정치권실행력이관건",
+    "\"국산AI모델확보만으론부족\"…AI주권기준'보유'에서'운용'으로",
+    "‘삼전닉스’자사주매입이코스피에‘단비’될까",
+    "Dividendsorbuybacks:Samsung,SKhynixdivideonAIwindfall"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T15:25:17.822438+09:00"
+   "last_run": "2026-08-23T15:30:28.167528+09:00"
   }
  },
  "press_names": {
