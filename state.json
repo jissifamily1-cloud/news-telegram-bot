@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T07:55:16.981373+09:00",
-     "사라지는 1차 3G 속으로 채비 중단에 SKT 퇴장 완전 역사 신규가입"
-    ],
-    [
-     "2026-08-23T07:55:16.981373+09:00",
-     "공석 AI미래기획수석 언제쯤 인선 달째 컨트롤타워"
-    ],
-    [
-     "2026-08-23T07:55:16.981373+09:00",
-     "마이크론 설립 추격할 연구소 삼전닉스 메모리"
-    ],
-    [
      "2026-08-23T08:00:32.255070+09:00",
      "SK가 논의 바닷속에 데이터센터를 협력"
     ],
@@ -474,11 +462,13 @@
     [
      "2026-08-23T13:50:24.188964+09:00",
      "삼전닉스 추격 IPO 시동 대규모 낸드 YMTC 제조사"
+    ],
+    [
+     "2026-08-23T13:55:18.287283+09:00",
+     "Investment Servers Are Costs Put Profi Pricier Rising"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026082111511498683",
-    "https://www.newsis.com/view/NISX20260821_0003757109",
     "https://www.ytn.co.kr/_ln/0103_202608211146076147",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=851000",
     "https://www.segye.com/newsView/20260821506687?OutUrl=naver",
@@ -1976,11 +1966,11 @@
     "https://www.etnews.com/20260823000053",
     "https://view.asiae.co.kr/article/2026082013063737180",
     "https://www.pressian.com/pages/articles/2026082311154794829",
-    "https://www.hankookilbo.com/news/article/A2026082310550000860?did=NA"
+    "https://www.hankookilbo.com/news/article/A2026082310550000860?did=NA",
+    "http://www.fnnews.com/news/202608231329238216",
+    "https://www.koreaittimes.com/news/articleView.html?idxno=156351"
    ],
    "seen_titles": [
-    "[오늘의삼전닉스]주주가치선순환선언,SK하이닉스200만원갈까요",
-    "권민수한은신임부총재\"신중하고유연한통화정책필요\"",
     "'성과급60%주식'최종확정되나…SK하이닉스노조찬반투표결과'촉각...",
     "검찰,'노태우비자금의혹'첫압수수색...김옥숙자택도포함",
     "[취재노트]3차ESS입찰임박…저가출혈경쟁언제까지",
@@ -3478,10 +3468,12 @@
     "30만전자탈환앞뒀는데…800만삼성개미들,역대최대주주환원에발...",
     "\"달러1350원까지내린다\"증권가전망이유는?[주末머니]",
     "[새만금에1000조(兆)담기]⑧'7공구의기적'…\"현대차의'본진'에협력...",
-    "'삼전닉스추격'中낸드제조사YMTC,대규모IPO시동"
+    "'삼전닉스추격'中낸드제조사YMTC,대규모IPO시동",
+    "삼성110조의'빈칸'…SK하이닉스40조소각이던진숙제[fn마켓워치]",
+    "[Today'sSignal]AIInvestmentCostsAreRisingPricierServersPutPr"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T13:50:24.188964+09:00"
+   "last_run": "2026-08-23T13:55:18.287283+09:00"
   }
  },
  "press_names": {
