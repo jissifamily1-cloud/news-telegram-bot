@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T06:10:23.070062+09:00",
-     "잉여현금 차이 해외기업 개념 삼전닉스 절반 주주환원"
-    ],
-    [
      "2026-08-23T06:15:20.947508+09:00",
      "현금 노조 성과 실험 공유 자사주 SK하이닉스 대신 남았다 선택만"
     ],
@@ -442,12 +438,13 @@
     [
      "2026-08-23T12:05:18.357348+09:00",
      "날개 달아오른 코스피 주주환원에 엔비디아 달까"
+    ],
+    [
+     "2026-08-23T12:13:09.756488+09:00",
+     "모친 장모 유진선 이광진 부친 유인수"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=445297",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=445275",
-    "https://www.news1.kr/finance/market-exr/6265428",
     "https://www.hani.co.kr/arti/economy/economy_general/1274001.html",
     "https://biz.heraldcorp.com/article/10847926",
     "http://enews.imbc.com/News/RetrieveNewsInfo/515454",
@@ -1944,12 +1941,12 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=858718",
     "https://www.g-enews.com/view.php?ud=202608211534135607923c501012_1",
     "https://www.nocutnews.co.kr/news/6566498",
-    "https://www.gokorea.kr/news/articleView.html?idxno=876015"
+    "https://www.gokorea.kr/news/articleView.html?idxno=876015",
+    "https://www.sportsworldi.com/newsView/20260823505046",
+    "https://www.chosun.com/economy/economy_general/2026/08/23/XK2OFTAPDZEUNLITQOWFICEE4Q/",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=445375"
    ],
    "seen_titles": [
-    "검찰,'노태우비자금'첫강제수사…김옥숙여사자택등압수수색",
-    "SK증권주가장중6%대상승,SK하이닉스자사주매입중개에이틀째강...",
-    "SK쉴더스\"상반기랜섬웨어피해4744건,취약점·계정관리중요\"",
     "'삼전닉스'3~4%대강세,코스피6900선회복…코스닥5%급락[장중시황...",
     "한은부총재“금리인상부작용도…균형있게판단”",
     "40조쏜하닉,다음은삼전…‘150조기대’에주가퀀텀점프",
@@ -3446,10 +3443,13 @@
     "기업달러순매도3배급증…환율하락압력",
     "[주간증시전망]주주환원에달아오른코스피,‘엔비디아’로날개달까",
     "기업달러순매도1년새4배증가…환율안정에'일등공신'",
-    "SK하이닉스임단협투표…성과급자사주지급안에이목집중"
+    "SK하이닉스임단협투표…성과급자사주지급안에이목집중",
+    "‘주전경쟁청신호’풀타임뛴김민재,철벽수비로슈퍼컵정상이끌...",
+    "정부환율관리압박에수출기업달러쏟아냈다…상반기달러순매도1...",
+    "[부음]유진선모친,유인수부친,이광진장모외"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T12:10:22.515242+09:00"
+   "last_run": "2026-08-23T12:13:09.756488+09:00"
   }
  },
  "press_names": {
