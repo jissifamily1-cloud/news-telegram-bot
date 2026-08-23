@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T10:30:26.895020+09:00",
-     "수순 3파전 퇴장 3G는 23년만에 국대 압축"
-    ],
-    [
      "2026-08-23T10:35:17.294771+09:00",
      "굳힌다 메모리값 버틴 SK하이닉스 삼성 슈퍼 엔비디아도"
     ],
@@ -402,13 +398,21 @@
     [
      "2026-08-23T16:25:20.324223+09:00",
      "110조원 주가는 갈랐다 푼다는데 떨어졌나 삼성전자 주당가치"
+    ],
+    [
+     "2026-08-23T16:30:28.556307+09:00",
+     "역대급 초대형 타면 스페이스X 상장하 소외될 나만 깬다 지금 기록"
+    ],
+    [
+     "2026-08-23T16:30:28.556307+09:00",
+     "U14 K리그 울산 챔피언십 HD U15 현대중 우승"
+    ],
+    [
+     "2026-08-23T16:30:28.556307+09:00",
+     "주주들 삼전 보따리 냉랭 주주환원 110조 풀었지만"
     ]
    ],
    "seen_urls": [
-    "https://ent.sbs.co.kr/news/article.do?article_id=E10010320946&plink=ORI&cooper=NAVER",
-    "https://www.newsis.com/view/NISX20260821_0003757500",
-    "https://www.sejungilbo.com/news/articleView.html?idxno=59746",
-    "https://www.m-i.kr/news/articleView.html?idxno=1404504",
     "http://www.newsprime.co.kr/news/article.html?no=744635",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5213878",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=87449",
@@ -1904,13 +1908,13 @@
     "https://www.hankyung.com/article/2026082366341",
     "https://www.hankyung.com/article/2026082366201",
     "https://biz.chosun.com/it-science/ict/2026/08/23/JTWZUPWPMVAKBHBDKVIWQB7MGM/",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000058834"
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000058834",
+    "https://www.dt.co.kr/article/12079647",
+    "https://www.wikitree.co.kr/articles/1154292",
+    "https://www.iusm.co.kr/news/articleView.html?idxno=1066915",
+    "https://www.joongang.co.kr/article/25455424"
    ],
    "seen_titles": [
-    "꼴찌서전승우승까지,달라진휴온스[PBA]",
-    "전원주,2만원대산SK하이닉스주식여전히보유중…추정수익률최...",
-    "SK하이닉스,'日반도체공장'추진보도에\"전혀결정된바없어\"",
-    "[세미콜론]\"조사4국이실력발휘\"외쳤던임광현…노태우비자금조사...",
     "광주시,광주역세권주변2만호·국가산업단지조성정부에건의",
     "[숏폼]일본반도체부활,최태원이완성할까?",
     "삼성전자,'역대최대'주주환원임박?…100조원대보따리푸나",
@@ -3406,10 +3410,14 @@
     "박영걸삼정KPMG부대표\"반도체M&A좁은문,소부장으로뚫어라\"",
     "물값은싼데물은부족하다…반도체시대의'수자원안보'",
     "“엔비디아,韓AI반도체기업리벨리온과협력논의”…젠슨황·박성...",
-    "삼성전자110조원푼다는데주가는왜떨어졌나…'주당가치'가갈랐다"
+    "삼성전자110조원푼다는데주가는왜떨어졌나…'주당가치'가갈랐다",
+    "‘7억성과급에자사주60%’…SK하이닉스노조투표통과할까",
+    "스페이스X기록깬다…지금안타면나만소외될역대급초대형상장하...",
+    "울산HDU15현대중'2026K리그U14챔피언십'우승",
+    "삼전‘최대110조’주주환원보따리풀었지만…주주들냉랭,왜"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T16:25:20.324223+09:00"
+   "last_run": "2026-08-23T16:30:28.556307+09:00"
   }
  },
  "press_names": {
