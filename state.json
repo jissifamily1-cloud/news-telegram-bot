@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T18:30:29.113881+09:00",
-     "30만건 삼성전자 눈앞 특허 누적 투자자"
-    ],
-    [
-     "2026-08-23T18:35:16.942965+09:00",
-     "내는 합법적으로 방법 양도세"
-    ],
-    [
      "2026-08-23T18:45:23.210017+09:00",
      "산업기술 전문수사 경기남부 강화된다 범죄"
     ],
@@ -190,14 +182,17 @@
     [
      "2026-08-24T00:25:18.345298+09:00",
      "메모리 인상 AI서버 엔비디아마저 손들었다 품귀에"
+    ],
+    [
+     "2026-08-24T00:35:17.883243+09:00",
+     "순매도 2배 수출기업들 1869억달러 작년의 상반기"
+    ],
+    [
+     "2026-08-24T00:35:17.883243+09:00",
+     "보완 선박 전원 5조 엔진 부상 수주 HD현대 전력 상반기"
     ]
    ],
    "seen_urls": [
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=84787",
-    "https://www.newspim.com/news/view/20260821000576",
-    "https://www.delighti.co.kr/news/articleView.html?idxno=120570",
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=63179",
-    "https://www.hankyung.com/article/202608214497g",
     "http://www.tjb.co.kr/sub0301/bodo/view/id/102676",
     "https://www.bzeronews.com/news/articleView.html?idxno=821464",
     "https://www.fetv.co.kr/news/articleView.html?idxno=308814",
@@ -1692,14 +1687,14 @@
     "https://www.kado.net/news/articleView.html?idxno=2068104",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000005363&cp=nv",
     "https://www.kwnews.co.kr/article/20260823501264",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000005365&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000005365&cp=nv",
+    "https://www.donga.com/news/Economy/article/all/20260823/134526910/2",
+    "https://www.donga.com/news/Economy/article/all/20260823/134526913/2",
+    "https://www.donga.com/news/Economy/article/all/20260823/134526957/2",
+    "https://www.chosun.com/economy/economy_general/2026/08/24/S6IGPTWTYNBYXKSGNFUNAZGSJM/",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000005367&cp=nv"
    ],
    "seen_titles": [
-    "여수거쳐보령에서훈련진행중인상명대…후반기에는경기력과승리...",
-    "\"한회사에안맡긴다\"…현대차그룹,배터리공급망재편본격화",
-    "태안전통시장서온누리상품권'페이백'...6개기관지역상권살리기'맞...",
-    "권민수한은부총재\"신중하면서도유연하게금리결정해야할시점\"",
-    "삼성전자,최대110조원'역대급보따리'풀까…주주환원결정임박",
     "성과급갈등은커녕\"적자나면월급나중에받겠다\"…SK하닉노사'뜻밖...",
     "삼성전자100조원대역대최대주주환원…이르면오늘발표",
     "'570억원투자'나유타,공장짓고본사까지청주이전",
@@ -3194,10 +3189,15 @@
     "보선채비엇갈린여야…민주'현안공략'국힘'내홍'",
     "주가는뚝…둘로나누는카카오,성장성입증할까",
     "김민석“강릉국회의원몫까지역할다하겠다”…보궐선거민심공략...",
-    "메모리품귀에엔비디아마저손들었다…“AI서버값15%인상”"
+    "메모리품귀에엔비디아마저손들었다…“AI서버값15%인상”",
+    "엔비디아“AI서버값15%이상인상”예고",
+    "삼전닉스추격中낸드제조사YMTC,‘6.8조실탄’IPO시동",
+    "기업달러순매도작년의3.7배…환율하락세1300원대로",
+    "수출기업들,상반기1869억달러순매도…작년의3.2배",
+    "‘선박엔진’AI전력보완전원부상…HD현대,상반기美서1.5조수주"
    ],
    "initialized": true,
-   "last_run": "2026-08-24T00:30:27.565464+09:00"
+   "last_run": "2026-08-24T00:35:17.883243+09:00"
   }
  },
  "press_names": {
