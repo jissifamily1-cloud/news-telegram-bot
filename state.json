@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-24T00:25:18.345298+09:00",
-     "메모리 인상 AI서버 엔비디아마저 손들었다 품귀에"
-    ],
-    [
      "2026-08-24T00:35:17.883243+09:00",
      "순매도 2배 수출기업들 1869억달러 작년의 상반기"
     ],
@@ -334,11 +330,13 @@
     [
      "2026-08-24T06:25:17.188937+09:00",
      "8조 대규모 낸드 시동 조달 YMTC IPO 3위"
+    ],
+    [
+     "2026-08-24T06:30:26.259002+09:00",
+     "본격화 경쟁 나선 특허 IP K바이오"
     ]
    ],
    "seen_urls": [
-    "https://mhnse.com/news/articleView.html?idxno=1496425",
-    "https://www.yna.co.kr/view/AKR20260821048651008?input=1195m",
     "https://www.livebiz.today/news/articleView.html?idxno=204319",
     "https://en.yna.co.kr/view/AEN20260821006900320?input=2106m",
     "https://www.moneystorm.kr/news/articleView.html?idxno=5879",
@@ -1836,11 +1834,11 @@
     "https://www.news1.kr/it-science/cc-newmedia/6266757",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608211618421040873",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=762001",
-    "https://www.mt.co.kr/world/2026/08/24/2026082405423221901"
+    "https://www.mt.co.kr/world/2026/08/24/2026082405423221901",
+    "https://sports.donga.com/sports/article/all/20260824/134528595/1",
+    "https://www.viva100.com/article/20260823500512"
    ],
    "seen_titles": [
-    "[더밸류브리핑]오늘의금융권소식...NH농협은행·수협중앙회·Sh수협...",
-    "서울에겐유독까다로운안양…두번만나두번비긴두팀,이번엔다...",
     "[특징주]SK증권,'하닉자사주매입'수혜기대에이틀연속급등(종합)",
     "(종합)카카오,인적분할…카카오Xㆍ카카오AI2개기업체제로",
     "Stocksendhigheronchipgainsamidhopesforshareholderreturnplans",
@@ -3338,10 +3336,12 @@
     "\"데이터센터에4164조몰린다\"…'AI붐'에반년새전망치두배",
     "[최고가제,시행반년④]정부1차손실5000억~6000억추산…업계는\"兆...",
     "올리브영·다이소·정관장·갤럭시…'2026소비자가뽑은참좋은브랜드...",
-    "'낸드3위'中YMTC,대규모IPO시동…6.8조조달추진"
+    "'낸드3위'中YMTC,대규모IPO시동…6.8조조달추진",
+    "MVP김도영뛰어넘을‘2026시즌김도영’…이승엽넘어최연소40홈런...",
+    "특허‘양→질’전환나선K바이오⋯”IP경쟁본격화”"
    ],
    "initialized": true,
-   "last_run": "2026-08-24T06:25:17.188937+09:00"
+   "last_run": "2026-08-24T06:30:26.259002+09:00"
   }
  },
  "press_names": {
