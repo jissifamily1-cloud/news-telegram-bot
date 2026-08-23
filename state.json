@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T09:15:20.393583+09:00",
-     "1명 증권가 30만전자 전망은 개미인데 월요일 5명 갈길"
-    ],
-    [
      "2026-08-23T09:25:17.888234+09:00",
      "바꿔야 주권 최종현 보유에서 학술원 운용으로 기준"
     ],
@@ -398,11 +394,13 @@
     [
      "2026-08-23T15:15:19.722413+09:00",
      "수원음협 커피 함께하는 개최 수원뮤직페스티벌 클래식"
+    ],
+    [
+     "2026-08-23T15:20:23.638843+09:00",
+     "회의 붕괴 조사 인천시 아파트 송도 사고 테라스 국토부"
     ]
    ],
    "seen_urls": [
-    "https://www.newstnt.com/news/articleView.html?idxno=714764",
-    "https://www.mstoday.co.kr/news/articleView.html?idxno=102380",
     "https://www.mstoday.co.kr/news/articleView.html?idxno=102384",
     "https://www.wikitree.co.kr/articles/1153859",
     "https://www.newsis.com/view/NISX20260821_0003757447",
@@ -1900,11 +1898,11 @@
     "http://www.newstomato.com/ReadNews.aspx?no=1311082&inflow=N",
     "https://www.ajunews.com/view/20260823150939878",
     "https://www.busan.com/view/busan/view.php?code=2026082314482758848",
-    "https://www.kyeonggi.com/article/20260823580163"
+    "https://www.kyeonggi.com/article/20260823580163",
+    "https://www.joongangenews.com/news/articleView.html?idxno=541972",
+    "https://www.kgnews.co.kr/news/article.html?no=908600"
    ],
    "seen_titles": [
-    "노태우비자금'904억'밝혀지나‥검찰수사착수",
-    "[특징주]통신장비주상승사이클오나…2027년주파수투자확대주목",
     "美국채불안재점화…코스피는반도체로버텼다",
     "AI·반도체가바꾼전력지도…2040년165GW",
     "[위키만평]어질어질국회유치원",
@@ -3402,10 +3400,12 @@
     "메모리값급등에엔비디아도백기…AI서버값15%인상",
     "李대통령,다음주與·재계연쇄회동…올하반기국정운영속도높인...",
     "'성과급60%자사주'SK하이닉스임단협…가결여부이번주결정",
-    "“커피향함께하는클래식”…수원음협,2026수원뮤직페스티벌개최"
+    "“커피향함께하는클래식”…수원음협,2026수원뮤직페스티벌개최",
+    "엔비디아도감당못한메모리값…삼성전자·SK하이닉스협상력어디까지...",
+    "인천시-국토부,송도아파트테라스붕괴사고조사첫회의"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T15:15:19.722413+09:00"
+   "last_run": "2026-08-23T15:20:23.638843+09:00"
   }
  },
  "press_names": {
