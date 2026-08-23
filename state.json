@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-23T19:30:26.813005+09:00",
-     "인비테이셔 드림팀 전사들이 드라마 7인의 역전 신바람 3Ps 청주"
-    ],
-    [
      "2026-08-23T19:40:22.682920+09:00",
      "주식 반등에도 회전율 연중 최저 관망 개미들 코스피 반도체"
     ],
@@ -166,10 +162,13 @@
     [
      "2026-08-24T01:00:33.052252+09:00",
      "경영 신호의 40조원을 SK하이닉스는 태우나"
+    ],
+    [
+     "2026-08-24T01:35:17.954359+09:00",
+     "단일종목 도박인가 8월 투자인가 21일 레버리지 2026년"
     ]
    ],
    "seen_urls": [
-    "https://www.fetv.co.kr/news/articleView.html?idxno=308814",
     "https://economist.co.kr/article/view/ecn202608210029",
     "https://www.mk.co.kr/article/12133165",
     "http://www.fnnews.com/news/202608211102133532",
@@ -1668,10 +1667,10 @@
     "https://www.chosun.com/economy/economy_general/2026/08/24/S6IGPTWTYNBYXKSGNFUNAZGSJM/",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000005367&cp=nv",
     "https://www.chosun.com/economy/tech_it/2026/08/24/MNDEGLZ4VRC2TEWW3IVEK7AY4A/",
-    "https://www.hankyung.com/article/2026082370501"
+    "https://www.hankyung.com/article/2026082370501",
+    "https://www.the-today.com/news/articleView.html?idxno=88832"
    ],
    "seen_titles": [
-    "'570억원투자'나유타,공장짓고본사까지청주이전",
     "SK지오센트릭,그룹의지로매각한울산부지…차익은44억",
     "전원주,SK하닉수익률9000%육박…폭락장에도'꿋꿋'주목",
     "반도체처럼…완성차노조도“성과급N%자사주로달라”",
@@ -3170,10 +3169,11 @@
     "수출기업들,상반기1869억달러순매도…작년의3.2배",
     "‘선박엔진’AI전력보완전원부상…HD현대,상반기美서1.5조수주",
     "메모리값급등…엔비디아도AI서버가격15%올린다",
-    "[비즈니스인사이트]신호의경영,SK하이닉스는왜40조원을태우나"
+    "[비즈니스인사이트]신호의경영,SK하이닉스는왜40조원을태우나",
+    "[NZSIINDEX]2026년8월21일단일종목레버리지,투자인가도박인가"
    ],
    "initialized": true,
-   "last_run": "2026-08-24T01:30:26.341923+09:00"
+   "last_run": "2026-08-24T01:35:17.954359+09:00"
   }
  },
  "press_names": {
