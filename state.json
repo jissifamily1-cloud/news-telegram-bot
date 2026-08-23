@@ -398,12 +398,17 @@
     [
      "2026-08-23T10:15:19.922342+09:00",
      "SK하이닉스인 무려 아니 삼성전자 있는 1주가 250만원 처음"
+    ],
+    [
+     "2026-08-23T10:20:20.957397+09:00",
+     "AI지원 다른 에서 접근 줄까 벗어나야"
+    ],
+    [
+     "2026-08-23T10:20:20.957397+09:00",
+     "뉴런 1600만개 병목 시험대 전력 해법 가동 서버랙"
     ]
    ],
    "seen_urls": [
-    "https://biz.newdaily.co.kr/site/data/html/2026/08/21/2026082100106.html",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275234",
-    "https://www.news1.kr/local/sejong-chungbuk/6265391",
     "https://www.topstarnews.net/news/articleView.html?idxno=16169278",
     "https://www.joongangenews.com/news/articleView.html?idxno=541675",
     "http://www.joseilbo.com/news/news_read.php?uid=574223&class=32",
@@ -1900,12 +1905,12 @@
     "https://www.viva100.com/article/20260822500216",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000058772",
     "https://www.newsway.co.kr/news/view?ud=2026082310024638297",
-    "https://biz.heraldcorp.com/article/10848972"
+    "https://biz.heraldcorp.com/article/10848972",
+    "https://www.dt.co.kr/article/12079558",
+    "https://zdnet.co.kr/view/?no=20260823101657",
+    "https://www.g-enews.com/view.php?ud=202608231009009066fbbec65dfb_1"
    ],
    "seen_titles": [
-    "李在明与崔泰源举行非公开晚餐会晤或讨论对美投资",
-    "K배터리,저점통과했나…공장가동률4년만에반등",
-    "[OpeningMarket]KOSPIFluctuatesAround6,900EarlyinTheSession",
     "2026충북도명장선정…'항공기정비'박제홍준위등5명",
     "\"추정수익률7000~9000%대\"…전원주,SK하이닉스주식언급",
     "[1보]검찰,'노태우비자금의혹'김옥숙연희동자택등압수수색",
@@ -3402,10 +3407,13 @@
     "[주간증시전망]코스피,AI반도체훈풍타고7000선넘을까",
     "\"가격상승못막은엔비디아\"…AI서버값15%오른다",
     "K-메모리귀하신몸됐다…엔비디아AI서버가격인상",
-    "삼성전자1주가무려‘250만원’?SK하이닉스인줄…처음있는게아니..."
+    "삼성전자1주가무려‘250만원’?SK하이닉스인줄…처음있는게아니...",
+    "“엔비디아,AI칩15%인상통보”…메모리장악‘삼전닉스’막강한...",
+    "[안광섭AI진테제]AI지원韓中日다른접근...\"더줄까\"에서벗어나야",
+    "뉴런1600만개서버랙가동…AI전력병목해법시험대"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T10:15:19.922342+09:00"
+   "last_run": "2026-08-23T10:20:20.957397+09:00"
   }
  },
  "press_names": {
