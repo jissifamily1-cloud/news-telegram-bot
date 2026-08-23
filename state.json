@@ -406,11 +406,13 @@
     [
      "2026-08-23T10:20:20.957397+09:00",
      "뉴런 1600만개 병목 시험대 전력 해법 가동 서버랙"
+    ],
+    [
+     "2026-08-23T10:30:26.895020+09:00",
+     "수순 3파전 퇴장 3G는 23년만에 국대 압축"
     ]
    ],
    "seen_urls": [
-    "https://www.chosun.com/national/court_law/2026/08/21/VVWKGGFQVVDXVDBUNPMWKSH7TY/",
-    "https://www.newsis.com/view/NISX20260821_0003757280",
     "https://www.edaily.co.kr/News/Read?newsId=03280006645549616&mediaCodeNo=257",
     "https://www.kukinews.com/article/view/kuk202608210036",
     "https://www.tokenpost.kr/news/cryptocurrency/394690",
@@ -1908,11 +1910,11 @@
     "https://www.g-enews.com/view.php?ud=202608231009009066fbbec65dfb_1",
     "https://view.asiae.co.kr/article/2026082310224387924",
     "https://www.yna.co.kr/view/AKR20260821120351054?input=1195m",
-    "http://www.newstomato.com/ReadNews.aspx?no=1311042&inflow=N"
+    "http://www.newstomato.com/ReadNews.aspx?no=1311042&inflow=N",
+    "https://magazine.hankyung.com/business/article/202608236590b",
+    "https://www.news1.kr/it-science/cc-newmedia/6266572"
    ],
    "seen_titles": [
-    "[속보]검찰,'노태우비자금의혹'김옥숙여사연희동자택압수수색",
-    "檢,‘노태우비자금’김옥숙여사자택·동아시아문화재단압수수색",
     "권민수한은부총재\"환율·성장·물가고려해금리결정\"(종합)",
     "권민수한은부총재\"금리올리면효과있지만부작용도…신중·유연하...",
     "구윤철부총리“소상공인·서민부담완화방안신속마련”",
@@ -3410,10 +3412,12 @@
     "뉴런1600만개서버랙가동…AI전력병목해법시험대",
     "엔비디아,고객사에AI서버가격15%인상예고",
     "김용범,광주반도체부지방문예정…국가산단확대주목(종합)",
-    "K-배터리3사특허경쟁가속…글로벌등록10만건육박"
+    "K-배터리3사특허경쟁가속…글로벌등록10만건육박",
+    "“메모리값얼마나올랐길래”엔비디아결국백기",
+    "'국대AI'3파전압축…3G는23년만에퇴장수순[뉴스잇(IT)쥬]"
    ],
    "initialized": true,
-   "last_run": "2026-08-23T10:25:16.557274+09:00"
+   "last_run": "2026-08-23T10:30:26.895020+09:00"
   }
  },
  "press_names": {
