@@ -322,11 +322,13 @@
     [
      "2026-08-25T06:45:21.589323+09:00",
      "가족 대응 서울서 성인인데 신고 2차 경찰 장미란씨 아니냐 가출"
+    ],
+    [
+     "2026-08-25T06:50:20.328181+09:00",
+     "터졌는데 코스닥 샀을까 이제 내가 비명 이걸 가격 개미들"
     ]
    ],
    "seen_urls": [
-    "http://www.press9.kr/news/articleView.html?idxno=81540",
-    "https://www.etnews.com/20260824000073",
     "https://www.ddaily.co.kr/page/view/2026082409474637561",
     "https://www.m-i.kr/news/articleView.html?idxno=1405072",
     "https://www.segye.com/newsView/20260824504378?OutUrl=naver",
@@ -1824,11 +1826,11 @@
     "https://www.wolyo.co.kr/news/articleView.html?idxno=316799",
     "https://www.bntnews.co.kr/article/view/bnt202608250011",
     "https://www.labortoday.co.kr/news/articleView.html?idxno=236402",
-    "https://www.dailian.co.kr/news/view/1681791/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1681791/?sc=Naver",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=600863",
+    "https://www.sedaily.com/article/20082810"
    ],
    "seen_titles": [
-    "코스피외인·기관매도에6900붕괴···코스닥상승출발",
-    "진단키트·백신개발사수급쏠림…셀리드·신풍제약폭등랠리주목",
     "코스피6700선후퇴…삼성전자,주주환원에도6%↓",
     "SKT,서울대와'미래AI인재'키운다…정재헌대표가첫강의",
     "의료기관해킹5년새3.9배↑…SK쉴더스·엘림넷보안사업맞손",
@@ -3326,10 +3328,12 @@
     "영업익늘었는데투자줄였다…삼성·SK하이닉스빼면캐펙스11%감소",
     "엔비디아26일실적발표…데이터센터수요가관건,주가는최장약세",
     "미국의AI데이터센터반대운동과대한민국",
-    "장미란씨가족,서울서2차신고…“성인인데가출아니냐”경찰대응..."
+    "장미란씨가족,서울서2차신고…“성인인데가출아니냐”경찰대응...",
+    "뉴욕증시혼조마감…엔비디아7거래일연속하락,반도체주흔들",
+    "‘내가이걸왜샀을까’코스닥개미들비명터졌는데…“이제가격움..."
    ],
    "initialized": true,
-   "last_run": "2026-08-25T06:45:21.589323+09:00"
+   "last_run": "2026-08-25T06:50:20.328181+09:00"
   }
  },
  "press_names": {
