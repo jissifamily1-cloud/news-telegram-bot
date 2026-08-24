@@ -246,12 +246,13 @@
     [
      "2026-08-25T05:45:21.675227+09:00",
      "반도체 하락에도 나스닥 국채금리 투매 뉴욕증시 유가"
+    ],
+    [
+     "2026-08-25T05:50:24.370105+09:00",
+     "쌓죠 나온 20층이나 질문에 김창영의 송곳 답변은 실리콘 HBM 굳이"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202608240920111820923c501012_1",
-    "https://www.tokenpost.kr/news/market/396231",
-    "https://biz.newdaily.co.kr/site/data/html/2026/08/24/2026082400049.html",
     "https://www.bizwork.co.kr/news/articleView.html?idxno=418404",
     "https://www.e-science.co.kr/news/articleView.html?idxno=133944",
     "https://www.eroun.net/news/articleView.html?idxno=88152",
@@ -1748,12 +1749,12 @@
     "https://www.dt.co.kr/article/12079938",
     "https://www.fnnews.com/news/202608250527457012",
     "https://www.g-enews.com/view.php?ud=2026082418030739310c8c1c064d_1",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4431560"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4431560",
+    "https://www.news2day.co.kr/article/20260824500058",
+    "https://www.mediapen.com/news/view/1118583",
+    "https://www.sedaily.com/article/20082807"
    ],
    "seen_titles": [
-    "제주도-제주SKFC,'이름없는유니폼'치매공감확산",
-    "“110조환원에도실망”…삼성전자5%급락,코스피끌어내렸다",
-    "첨단3지구마지막민간분양제일풍경채견본주택,주말3일간1만8000명...",
     "“충남마켓프로젝트본격추진”…서부발전,5개기관과맞손",
     "SKT,서울대와'미래AI리더'육성",
     "코스피1.2%하락,삼성전자4.8%내려",
@@ -3250,10 +3251,13 @@
     "110조푸는삼전vs40조태우는SK하닉…주주환원차이에엇갈린주가...",
     "[뉴욕증시]국채수익률내렸지만기술주약세…반도체급락",
     "\"CXMT이어또잭팟\"…中낸드1위YMTC모회사,'역대급상장'돌입",
-    "뉴욕증시,유가·국채금리하락에도반도체투매…나스닥·S&P500↓"
+    "뉴욕증시,유가·국채금리하락에도반도체투매…나스닥·S&P500↓",
+    "[N2모닝경제브리핑-8월25일]美증시,국채금리하락에도AI주매도…...",
+    "[美증시]반도체털썩나스닥조정,카드주급등다우는상승",
+    "왜굳이20층이나쌓죠?HBM송곳질문에나온답변은[김창영의실리콘..."
    ],
    "initialized": true,
-   "last_run": "2026-08-25T05:45:21.675227+09:00"
+   "last_run": "2026-08-25T05:50:24.370105+09:00"
   }
  },
  "press_names": {
