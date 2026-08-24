@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-24T06:25:17.188937+09:00",
-     "추산 손실 업계는 1차 5000억 정부 6000억"
-    ],
-    [
-     "2026-08-24T06:25:17.188937+09:00",
-     "갤럭시 소비자가 뽑은 정관장 다이소 좋은 브랜드 올리브영"
-    ],
-    [
-     "2026-08-24T06:25:17.188937+09:00",
-     "8조 대규모 낸드 시동 조달 YMTC IPO 3위"
-    ],
-    [
      "2026-08-24T06:30:26.259002+09:00",
      "본격화 경쟁 나선 특허 IP K바이오"
     ],
@@ -1225,10 +1213,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.metroseoul.co.kr/article/20260821500276",
-    "https://www.ytn.co.kr/_ln/0102_202608221256550393",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479572",
-    "https://www.thescoop.co.kr/news/articleView.html?idxno=311331",
     "https://www.joongangenews.com/news/articleView.html?idxno=541912",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479578",
     "https://www.jibs.co.kr/news/articles/articlesDetail/64762?feed=na",
@@ -2724,13 +2708,13 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=858980",
     "https://www.sedaily.com/article/20082525",
     "http://www.yonhapnewstv.co.kr/news/MYH20260824120924grC",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=271715"
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=271715",
+    "https://m.sports.naver.com/basketball/article/065/0000301006",
+    "https://www.thepublic.kr/news/articleView.html?idxno=315906",
+    "https://www.thepublic.kr/news/articleView.html?idxno=315910",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275357"
    ],
    "seen_titles": [
-    "디에이치글로벌,IFA2026서150L다목적김치냉장고·스마트냉장고·쇼...",
-    "모자회사중복상장규제도입및과제",
-    "삼성전자·SK하이닉스ETF에1천억몰렸다",
-    "기업구조조정을위한정책적·제도적지원기반강화필요성",
     "“큰손들AI메모리株떠난다”…‘150조승부수’삼성·하이닉스괜찮...",
     "[야구]한화,LG에대역전승…0-9→15-11",
     "中낸드1위YMTC,6.8조규모IPO신청",
@@ -4226,10 +4210,14 @@
     "SK쉴더스-엘림넷,의료기관보안서비스협력",
     "넥센타이어,경남양산공장에4MW규모재생에너지도입",
     "110조환원도기대못채웠다…삼성전자7%↓",
-    "\"몸값최대2780조\"앤트로픽상장초읽기…SKT3.5조지분'잭폿'기대"
+    "\"몸값최대2780조\"앤트로픽상장초읽기…SKT3.5조지분'잭폿'기대",
+    "[오프시즌위클리]한국찾는구마모토·FE나고야,해외로향하는KB스...",
+    "SKT,서울대에산학협력강좌개설…'미래AI리더'육성나선다",
+    "메모리품귀에'GPU제왕'도항복…엔비디아AI서버값15%넘게뛴다",
+    "SKhynixConsidersBuildingFirstJapaneseMemoryChipPlant"
    ],
    "initialized": true,
-   "last_run": "2026-08-24T12:20:25.734112+09:00"
+   "last_run": "2026-08-24T12:25:18.285289+09:00"
   }
  },
  "press_names": {
