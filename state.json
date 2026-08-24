@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-24T14:49:33.452914+09:00",
-     "시장 위촉 조상호 확산 명예회장 모금회 나눔문화"
-    ],
-    [
-     "2026-08-24T14:49:33.452914+09:00",
-     "소환되나 증권사 정무위 국감 CEO ETF 무더기 레버리지 후폭풍"
-    ],
-    [
      "2026-08-24T14:55:16.762218+09:00",
      "같은 D램 청주산 공제는 3배"
     ],
@@ -1042,11 +1034,13 @@
     [
      "2026-08-24T20:45:22.497797+09:00",
      "시찰도 경영진들 SK하이닉스 사업지 채용설명회 광주서"
+    ],
+    [
+     "2026-08-24T20:50:22.950693+09:00",
+     "수익주 K바이오 변모 기대주 글로벌"
     ]
    ],
    "seen_urls": [
-    "https://www.sisajournal.com/news/articleView.html?idxno=384079",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=271632",
     "http://www.fnnews.com/news/202608240837392900",
     "https://www.ajunews.com/view/20260824085616611",
     "https://www.wikitree.co.kr/articles/1154383",
@@ -2544,11 +2538,11 @@
     "https://www.khan.co.kr/article/202608242035035",
     "http://www.newstown.co.kr/news/articleView.html?idxno=713430",
     "https://www.businesspost.co.kr/BP?command=article_view&num=445488",
-    "https://kjmbc.co.kr/NewsArticle/1533679"
+    "https://kjmbc.co.kr/NewsArticle/1533679",
+    "https://www.cstimes.com/news/articleView.html?idxno=717830",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1721480"
    ],
    "seen_titles": [
-    "[Tech&Now]SK쉴더스,의료기관보안강화…한컴그룹,제2회한컴문학...",
-    "대기업하반기채용시작…SK하이닉스·KT&G등신입모집",
     "정재헌SKTCEO,서울대강단선다…AI인재육성나서",
     "SKT,서울대와AI인재키운다…정재헌대표가직접특강",
     "한국투자신탁운용,삼성전자·SK하이닉스에채권섞은ETF출시",
@@ -4046,10 +4040,12 @@
     "원유시장,전쟁적응해가는데…‘정제유’는공급우려커졌다",
     "이상일용인특례시장\"용인반도체프로젝트조기가동\"…국도45호선·...",
     "[8월25일자]비즈니스포스트아침의주요기사",
-    "SK하이닉스,광주서채용설명회..경영진들사업지시찰도"
+    "SK하이닉스,광주서채용설명회..경영진들사업지시찰도",
+    "서부발전,소진공등5개기관과'충남마켓프로젝트'본격추진",
+    "[EBN오늘(24일)이슈종합]K바이오'기대주→수익주'변모…글로벌큰..."
    ],
    "initialized": true,
-   "last_run": "2026-08-24T20:45:22.497797+09:00"
+   "last_run": "2026-08-24T20:50:22.950693+09:00"
   }
  },
  "press_names": {
