@@ -781,7 +781,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/stock/2026/08/24/2026082409120855682",
     "https://www.newspim.com/news/view/20260824000119",
     "https://www.etoday.co.kr/news/view/2617283",
     "http://www.fieldnews.kr/news/articleView.html?idxno=30951",
@@ -2280,10 +2279,10 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480186",
     "http://www.econonews.co.kr/news/articleView.html?idxno=443253",
     "http://www.bizwnews.com/news/articleView.html?idxno=144180",
-    "https://www.ajunews.com/view/20260824212505613"
+    "https://www.ajunews.com/view/20260824212505613",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644786"
    ],
    "seen_titles": [
-    "“8,000돌파6,000지지갈림길…엔비디아·잭슨홀최대변수”<대신證...",
     "SKT,서울대와AI대학원정규과정개설…모델링부터인프라까지전수",
     "SK쉴더스,의료기관사이버보안강화…통합보안서비스추진",
     "코스닥,'막연한기대'넘어체력으로입증했다…올해상반기영업익6...",
@@ -3782,10 +3781,11 @@
     "삼전닉스주주환원에'2배베팅'다시꿈틀...레버리지ETF3일간2.8조손...",
     "코스피,외인과기관매도에6700선밑으로...LG에너지솔루션,삼성바이...",
     "넥센타이어,양산공장에PPA첫도입…\"생산단계부터재생에너지늘린다...",
-    "[아주경제오늘의뉴스종합]제주서또다른실종자시신발견…22일부..."
+    "[아주경제오늘의뉴스종합]제주서또다른실종자시신발견…22일부...",
+    "‘발달장애프로골퍼’이승민,후배들의‘꿈과희망’"
    ],
    "initialized": true,
-   "last_run": "2026-08-24T22:00:37.459845+09:00"
+   "last_run": "2026-08-24T22:05:20.089289+09:00"
   }
  },
  "press_names": {
