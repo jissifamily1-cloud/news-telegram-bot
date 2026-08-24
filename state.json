@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-24T23:10:25.516051+09:00",
-     "산학협력 SKT 개설 강좌 육성 서울대와 리더"
-    ],
-    [
-     "2026-08-24T23:10:25.516051+09:00",
-     "분수령 쏠리는 성과급 SK하이닉스에 주식"
-    ],
-    [
      "2026-08-24T23:40:22.522139+09:00",
      "팔란티어의 박신영의 현실로 개장전 저주가 위협받는 요것 앤트로픽"
     ],
@@ -238,11 +230,17 @@
     [
      "2026-08-25T05:10:24.403909+09:00",
      "11개월 수준 하락 환율 1370원대까지 만에 원달러 최저"
+    ],
+    [
+     "2026-08-25T05:15:25.209442+09:00",
+     "하락 동반 약세 나스닥 메모리주"
+    ],
+    [
+     "2026-08-25T05:15:25.209442+09:00",
+     "주식 노조 넘나 판가름 투표 SK하이닉스 문턱 성과급"
     ]
    ],
    "seen_urls": [
-    "https://news.mtn.co.kr/news-detail/2026082409241356749",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479894",
     "http://www.lawissue.co.kr/view.php?ud=2026082409323911349817d053b9_12",
     "https://www.news1.kr/industry/auto-industry/6267120",
     "https://www.seoulfn.com/news/articleView.html?idxno=636251",
@@ -1740,11 +1738,11 @@
     "https://www.joongang.co.kr/article/25455868",
     "https://www.sidae.com/article/2026082416065437063",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053905",
-    "https://www.seoul.co.kr/news/economy/finance/2026/08/25/20260825030003?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/economy/finance/2026/08/25/20260825030003?wlog_tag3=naver",
+    "https://www.tokenpost.kr/news/market/396921",
+    "https://www.newsis.com/view/NISX20260824_0003760366"
    ],
    "seen_titles": [
-    "넥센타이어,재생에너지전환속도…유럽완성차공급망겨냥",
-    "넥센타이어,국내공장에‘직접PPA’첫도입…탄소중립·OE수출총력...",
     "MemoryCrunchForcesNvidiatoRaiseServerPrices,BoostingSamsunga",
     "서부발전,유관기관협력해'충남마켓프로젝트'추진한다",
     "\"AI투자와변동성잡기\"…한투운용,ACE삼성전자SK하이닉스플러스채권...",
@@ -3242,10 +3240,12 @@
     "위조막는다더니위조에뚫렸다?…‘PASS신분증’폐지논란",
     "환율11개월만에1300원대로…\"원화약세요인,상당부분해소\"",
     "[IT리더열전-보안<종합>]삼성vsSKvsKT…'AI'보안솔루션고도화경...",
-    "원달러환율1370원대까지하락…11개월만에최저수준"
+    "원달러환율1370원대까지하락…11개월만에최저수준",
+    "나스닥0.76%하락,메모리주동반약세",
+    "SK하이닉스'성과급60%주식'오늘판가름…노조투표문턱넘나"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T05:10:24.403909+09:00"
+   "last_run": "2026-08-25T05:15:25.209442+09:00"
   }
  },
  "press_names": {
