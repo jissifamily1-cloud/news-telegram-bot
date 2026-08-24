@@ -234,10 +234,13 @@
     [
      "2026-08-25T05:05:21.806830+09:00",
      "보안솔루션 vs 고도화 삼성 KT"
+    ],
+    [
+     "2026-08-25T05:10:24.403909+09:00",
+     "11개월 수준 하락 환율 1370원대까지 만에 원달러 최저"
     ]
    ],
    "seen_urls": [
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=238998",
     "https://news.mtn.co.kr/news-detail/2026082409241356749",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479894",
     "http://www.lawissue.co.kr/view.php?ud=2026082409323911349817d053b9_12",
@@ -1736,10 +1739,10 @@
     "https://www.joongang.co.kr/article/25455870",
     "https://www.joongang.co.kr/article/25455868",
     "https://www.sidae.com/article/2026082416065437063",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053905"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053905",
+    "https://www.seoul.co.kr/news/economy/finance/2026/08/25/20260825030003?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "반도체등연봉협상뉴노멀되나...'성과급60%는주식으로'SK하이닉스...",
     "넥센타이어,재생에너지전환속도…유럽완성차공급망겨냥",
     "넥센타이어,국내공장에‘직접PPA’첫도입…탄소중립·OE수출총력...",
     "MemoryCrunchForcesNvidiatoRaiseServerPrices,BoostingSamsunga",
@@ -3238,10 +3241,11 @@
     "“K조선밀어내자”LNG선베팅하는일본…업계는‘갸우뚱’",
     "위조막는다더니위조에뚫렸다?…‘PASS신분증’폐지논란",
     "환율11개월만에1300원대로…\"원화약세요인,상당부분해소\"",
-    "[IT리더열전-보안<종합>]삼성vsSKvsKT…'AI'보안솔루션고도화경..."
+    "[IT리더열전-보안<종합>]삼성vsSKvsKT…'AI'보안솔루션고도화경...",
+    "원달러환율1370원대까지하락…11개월만에최저수준"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T05:05:21.806830+09:00"
+   "last_run": "2026-08-25T05:10:24.403909+09:00"
   }
  },
  "press_names": {
