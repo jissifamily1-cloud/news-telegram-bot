@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-25T01:05:20.764397+09:00",
-     "마이크론 7조 외국인 급락 선물 현물 삼전 매도"
-    ],
-    [
      "2026-08-25T01:35:18.250999+09:00",
      "ETF 상장 삼성전자SK하이닉스플러스채권혼합50 신규 ACE 한투운용"
     ],
@@ -390,11 +386,17 @@
     [
      "2026-08-25T07:05:17.326103+09:00",
      "체질 인프라로 번째 환경에서"
+    ],
+    [
+     "2026-08-25T07:10:22.617043+09:00",
+     "레버리지서 ETF 파킹 빼고 뜬다 머니마켓"
+    ],
+    [
+     "2026-08-25T07:10:22.617043+09:00",
+     "온다 vs 보안 해커 시대 스스로 기업도 공격해야 자주"
     ]
    ],
    "seen_urls": [
-    "https://www.topstarnews.net/news/articleView.html?idxno=16171538",
-    "https://www.boannews.com/news/articleView.html?idxno=145367",
     "http://www.inews24.com/view/1997492",
     "http://www.fnnews.com/news/202608240934138387",
     "https://www.thepowernews.co.kr/view.php?ud=202608240953259330de3f0aa1be_7",
@@ -1892,11 +1894,11 @@
     "http://www.issuenbiz.com/news/articleView.html?idxno=78968",
     "http://www.econotelling.com/news/articleView.html?idxno=21134",
     "https://www.fetv.co.kr/news/articleView.html?idxno=308939",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=726678"
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=726678",
+    "https://www.dailian.co.kr/news/view/1681676/?sc=Naver",
+    "https://www.hankyung.com/article/202608247984i"
    ],
    "seen_titles": [
-    "SK하이닉스주가,8월24일장중1,737,000원0.40%상승",
-    "한투운용,'ACE삼성전자SK하이닉스플러스채권혼합50ETF'새로선봬",
     "메모리값급등에엔비디아AI서버가격15%이상인상",
     "코스피,하락출발…이번주美증시슈퍼위크",
     "\"SK하닉·KCC공채떴다\"…인크루트\"신입Navi로이력서점검하세요\"",
@@ -3394,10 +3396,12 @@
     "[김성욱의세상과시간]AI시대메모리,Give-and-Take전략으로",
     "[특별기획]'SK70년'최종건ㆍ최종현語錄유산(84)ESG경영의새사업...",
     "[SK그룹리빌딩]①M&A로구축된지배구조,새성장축은'AI'",
-    "[SK에코2막①]환경에서AI인프라로…두번째'체질전환'"
+    "[SK에코2막①]환경에서AI인프라로…두번째'체질전환'",
+    "레버리지서돈빼고'파킹'으로…머니마켓ETF뜬다",
+    "“AI해커vsAI보안시대온다…기업도스스로더자주공격해야”"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T07:05:17.326103+09:00"
+   "last_run": "2026-08-25T07:10:22.617043+09:00"
   }
  },
  "press_names": {
