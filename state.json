@@ -274,10 +274,13 @@
     [
      "2026-08-25T00:35:22.314255+09:00",
      "주주 환원 기업 한국 증시 우상향 이끌 반도체"
+    ],
+    [
+     "2026-08-25T00:40:23.006686+09:00",
+     "사라지는 자소서 채용 어차피 시장서 텐데"
     ]
    ],
    "seen_urls": [
-    "https://daily.hankooki.com/news/articleView.html?idxno=1398340",
     "https://www.thepublic.kr/news/articleView.html?idxno=315863",
     "https://www.bizwork.co.kr/news/articleView.html?idxno=418399",
     "https://www.m-i.kr/news/articleView.html?idxno=1405054",
@@ -1776,10 +1779,10 @@
     "https://www.chosun.com/economy/stock-finance/2026/08/25/XRHC4BQQTREQ7KMIVM5JSVNPBU/",
     "https://www.news2day.co.kr/article/20260824500180",
     "https://www.donga.com/news/Economy/article/all/20260824/134535317/2",
-    "https://www.donga.com/news/Economy/article/all/20260824/134535321/2"
+    "https://www.donga.com/news/Economy/article/all/20260824/134535321/2",
+    "https://www.chosun.com/economy/tech_it/2026/08/25/LRF35A5QIREZLHB33GCPNL5PGU/"
    ],
    "seen_titles": [
-    "삼전닉스'쩐의전쟁'더세진다…쪼개는삼성,뭉치는SK[김대영의노무...",
     "[이동네이사업]김천시스마트시티조성사업",
     "SK팜테코,CPHI밀라노2026참가…글로벌수주전",
     "SKT,서울대와AI강좌개설…정재헌대표내달첫수업",
@@ -3278,10 +3281,11 @@
     "업비트운영두나무,나스닥상장추진",
     "[신(新)인물탐구(56)]두산그룹박정원회장⑦리스크관리-복구형에서...",
     "[단신]하나은행‘트래블로그외화통장’10만좌돌파外",
-    "[애널리스트의마켓뷰]반도체기업주주환원,한국증시우상향이끌..."
+    "[애널리스트의마켓뷰]반도체기업주주환원,한국증시우상향이끌...",
+    "“어차피AI쓸텐데”…채용시장서사라지는자소서"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T00:35:22.314255+09:00"
+   "last_run": "2026-08-25T00:40:23.006686+09:00"
   }
  },
  "press_names": {
