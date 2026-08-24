@@ -222,10 +222,13 @@
     [
      "2026-08-25T02:20:21.514835+09:00",
      "경사 설영우 국가대표 마침내 축구 입성한 초대형 리그 수비수"
+    ],
+    [
+     "2026-08-25T02:35:18.081887+09:00",
+     "바짝 적군들 시장에 다가서는 반도체 엔비디아의 우군과"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20082417",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=275323",
     "https://www.energydaily.co.kr/news/articleView.html?idxno=202439",
     "http://www.fnnews.com/news/202608240905150998",
@@ -1724,10 +1727,10 @@
     "http://www.bizwnews.com/news/articleView.html?idxno=144087",
     "https://www.hankyung.com/article/2026082495201",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000005833&cp=nv",
-    "https://www.goal.com/kr/뉴스/a/blt999ae61f1d9e340a"
+    "https://www.goal.com/kr/뉴스/a/blt999ae61f1d9e340a",
+    "https://www.newspim.com/news/view/20260825000008"
    ],
    "seen_titles": [
-    "SKT,서울대와미래AI인재키운다…산학협력강좌운영",
     "코스피,6900선아래로…삼성전자‘셀온’에5%급락",
     "코스피,외인·기관'팔자'에약세…코스닥은상승",
     "의료기관사이버위협4배증가…SK쉴더스,대응강화나서",
@@ -3226,10 +3229,11 @@
     "한투운용,'ACE삼성전자SK하이닉스플러스채권혼합50ETF'신규상장",
     "[이심기칼럼]국가가기업이될때,실패는누가책임지나",
     "역대최대110조주주환원에도-9%…삼성전자왜떨어지나",
-    "韓축구초대형경사!'국가대표수비수'설영우,마침내빅리그입성한..."
+    "韓축구초대형경사!'국가대표수비수'설영우,마침내빅리그입성한...",
+    "[미국특징주]엔비디아의반도체시장에바짝다가서는우군과적군들"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T02:30:32.243604+09:00"
+   "last_run": "2026-08-25T02:35:18.081887+09:00"
   }
  },
  "press_names": {
