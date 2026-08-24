@@ -925,8 +925,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=02259926645550600&mediaCodeNo=257",
-    "https://www.ytn.co.kr/_ln/0102_202608240903534365",
     "https://www.news2day.co.kr/article/20260824500033",
     "https://kpenews.com/View.aspx?No=4196173",
     "https://www.mt.co.kr/stock/2026/08/24/2026082409120855682",
@@ -2424,11 +2422,11 @@
     "https://tjmbc.co.kr/NewsArticle/858356",
     "https://www.ikbc.co.kr/article/view/kbc202608240056",
     "https://www.khan.co.kr/article/202608242112015",
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=557462"
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=557462",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480186",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=443253"
    ],
    "seen_titles": [
-    "동반성장몰,중소기업제품216개모은추석기획전…소상공인판로지...",
-    "[Editor'sLetter]FortuneKorea'sSeptemberIssueWillBeReleasedon",
     "SKT-서울대,'미래AI리더'육성맞손…'AI공동과정'개설",
     "상반기실적개선보여준코스닥,반등시작될까",
     "“8,000돌파6,000지지갈림길…엔비디아·잭슨홀최대변수”<대신證...",
@@ -3926,10 +3924,12 @@
     "[리포트]충청권정보보안생태계'세종'에조성",
     "\"광주반도체4기에서더커진다\"...삼성·SK팹추가검토",
     "금산법에묶인삼전‘배당’…지배구조보호닉스는‘소각’",
-    "대형주약세에코스피3.12%↓"
+    "대형주약세에코스피3.12%↓",
+    "삼전닉스주주환원에'2배베팅'다시꿈틀...레버리지ETF3일간2.8조손...",
+    "코스피,외인과기관매도에6700선밑으로...LG에너지솔루션,삼성바이..."
    ],
    "initialized": true,
-   "last_run": "2026-08-24T21:30:31.397307+09:00"
+   "last_run": "2026-08-24T21:35:18.446156+09:00"
   }
  },
  "press_names": {
