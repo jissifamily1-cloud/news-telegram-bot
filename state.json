@@ -322,12 +322,21 @@
     [
      "2026-08-25T06:30:27.244323+09:00",
      "디에이치 현대건설 하이엔드 1위 주거 8월 롯데건설"
+    ],
+    [
+     "2026-08-25T06:35:17.397395+09:00",
+     "주가 K뷰티 반도체주보다 홀린 화장발 유럽 뛰었다"
+    ],
+    [
+     "2026-08-25T06:35:17.397395+09:00",
+     "현대백화점그룹 회장 정지선"
+    ],
+    [
+     "2026-08-25T06:35:17.397395+09:00",
+     "BMW 주주환원 있는데 환호 최소 삼전닉스 130조 나이키"
     ]
    ],
    "seen_urls": [
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=309491",
-    "https://www.ytn.co.kr/_ln/0102_202608240944335042",
-    "https://www.yna.co.kr/view/AKR20260824039200008?input=1195m",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4431417",
     "http://www.inews24.com/view/1997509",
     "https://www.joongangenews.com/news/articleView.html?idxno=542038",
@@ -1824,12 +1833,12 @@
     "https://www.enetnews.co.kr/news/articleView.html?idxno=53645",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000005864&cp=nv",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=87788",
-    "https://www.enetnews.co.kr/news/articleView.html?idxno=53652"
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=53652",
+    "https://www.hankyung.com/article/2026082492606",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=726474",
+    "https://www.news1.kr/industry/general-industry/6267998"
    ],
    "seen_titles": [
-    "李대통령,정의선회장과회동…AI·로봇·대미투자논의주목",
-    "[주식시황]삼성전자7%빠지자코스피'휘청'…6700선까지밀렸다",
-    "SK텔레콤,서울대와AI리더육성산학협력강좌개설…2026년2학기부터...",
     "삼성전자,100조환원에도7%↓…SK하이닉스와뭐가달랐나[칩칩폭폭]",
     "코스피,개장직후1%대하락…삼성전자5.60%급락",
     "SKT,서울대와AI인재육성나선다…정재헌CEO강단에",
@@ -3326,10 +3335,13 @@
     "[이넷뉴스브랜드평판]삼성SDI,전력저장장치ESS상장기업8월1위...L...",
     "‘성과급자사주60%’통과할까…SK하이닉스합의안미지수",
     "유튜브제작진전원하차에전원주건강이상설'솔솔'",
-    "[브랜드평판]현대건설디에이치,하이엔드주거8월1위...롯데건설르..."
+    "[브랜드평판]현대건설디에이치,하이엔드주거8월1위...롯데건설르...",
+    "美·유럽홀린K뷰티화장발…주가반도체주보다더뛰었다[종목+]",
+    "[THECEO]정지선현대백화점그룹회장",
+    "삼전닉스,주주환원최소130조'환호'…나이키·BMW살수있는데"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T06:30:27.244323+09:00"
+   "last_run": "2026-08-25T06:35:17.397395+09:00"
   }
  },
  "press_names": {
