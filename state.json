@@ -1246,13 +1246,13 @@
     [
      "2026-08-24T19:00:34.545801+09:00",
      "전북에 추가 반도체 조성할까"
+    ],
+    [
+     "2026-08-24T19:15:21.414475+09:00",
+     "한국 글로벌 경제시대의 재벌총수들"
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/it-science/ict/2026/08/24/KVX72LWHDBH6NI2AAB7W7BUY4I/",
-    "https://www.etoday.co.kr/news/view/2617252",
-    "https://www.newspim.com/news/view/20260824000070",
-    "https://www.mediapen.com/news/view/1118307",
     "https://www.newspim.com/news/view/20260824000062",
     "https://www.chosun.com/economy/stock-finance/2026/08/24/O4LFRCUPIRHSTEZIGJV35UJ3HA/",
     "https://www.newsis.com/view/NISX20260824_0003759314",
@@ -2748,13 +2748,13 @@
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4102416",
     "https://www.m-i.kr/news/articleView.html?idxno=1405471",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=309564",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2462485"
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2462485",
+    "http://www.fieldnews.kr/news/articleView.html?idxno=30991",
+    "https://www.dt.co.kr/article/12079932",
+    "https://www.ytn.co.kr/_ln/0101_202608241910475953",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260825.22018006834"
    ],
    "seen_titles": [
-    "정재헌SKTCEO,서울대서AI특강…미래인재만난다",
-    "[마켓프리뷰]잭슨홀·엔비디아실적앞둔코스피…7000선재도전",
-    "\"코스피,이번주7,000선재진입시도…잭슨홀·엔비디아분수령\"<키움證...",
-    "코스피,엔비디아실적등앞두고방향성탐색···반도체환원책주목",
     "HD현대일렉트릭,美수요폭발에증설·수주'상향'..SK증권\"주가조정...",
     "[특징주]삼성전자,프리마켓3%대약세…SK하이닉스는1%대↑",
     "북미서존재감키우는HD현대일렉트릭…황제주등극기대감[애널리스트...",
@@ -4250,10 +4250,14 @@
     "[금융한입]'100조주주환원'에도삼성전자폭락…반도체투톱향방은...",
     "李대통령,최태원이어정의선·이재용연쇄회동...'3대메가'속도",
     "삼전·닉스에미국채까지…미래에셋,혼합ETF출격",
-    "이상일시장\"용인반도체프로젝트속도내초격차유지해야\""
+    "이상일시장\"용인반도체프로젝트속도내초격차유지해야\"",
+    "이상일용인시장\"삼성·SK투자빨라졌다…국가산단·전력·교통도속도...",
+    "[기획]110조도역부족…주주환원덫걸린삼전",
+    "이대통령,최태원이어정의선·이재용연쇄회동할듯...'3대메가'등...",
+    "[화요경제항산항심]글로벌경제시대의한국재벌총수들"
    ],
    "initialized": true,
-   "last_run": "2026-08-24T19:10:26.895307+09:00"
+   "last_run": "2026-08-24T19:15:21.414475+09:00"
   }
  },
  "press_names": {
