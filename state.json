@@ -254,11 +254,17 @@
     [
      "2026-08-25T00:40:23.006686+09:00",
      "사라지는 자소서 채용 어차피 시장서 텐데"
+    ],
+    [
+     "2026-08-25T00:50:23.569357+09:00",
+     "급락 자사주 소각 110조 삼성전자 주주환원에도 빠졌다"
+    ],
+    [
+     "2026-08-25T00:50:23.569357+09:00",
+     "늘어 소각액 자사주 5배로 증시 2년새"
     ]
    ],
    "seen_urls": [
-    "https://www.thepublic.kr/news/articleView.html?idxno=315863",
-    "https://www.bizwork.co.kr/news/articleView.html?idxno=418399",
     "https://www.m-i.kr/news/articleView.html?idxno=1405054",
     "http://www.inews24.com/view/1997486",
     "http://www.fnnews.com/news/202608240851285574",
@@ -1756,11 +1762,11 @@
     "https://www.news2day.co.kr/article/20260824500180",
     "https://www.donga.com/news/Economy/article/all/20260824/134535317/2",
     "https://www.donga.com/news/Economy/article/all/20260824/134535321/2",
-    "https://www.chosun.com/economy/tech_it/2026/08/25/LRF35A5QIREZLHB33GCPNL5PGU/"
+    "https://www.chosun.com/economy/tech_it/2026/08/25/LRF35A5QIREZLHB33GCPNL5PGU/",
+    "https://www.chosun.com/economy/stock-finance/2026/08/25/UFRMI4PNOZE6HIIUWN6I22NLUA/",
+    "https://www.chosun.com/economy/stock-finance/2026/08/25/IJUIHIEX45CENNZMC4AVTY6RVI/"
    ],
    "seen_titles": [
-    "[이동네이사업]김천시스마트시티조성사업",
-    "SK팜테코,CPHI밀라노2026참가…글로벌수주전",
     "SKT,서울대와AI강좌개설…정재헌대표내달첫수업",
     "'110조'삼전4%↓…'40조자사주소각'SK하닉은3%↑[핫종목]",
     "넥센타이어,바람·햇빛으로공장돌린다…양산공장직접PPA도입",
@@ -3258,10 +3264,12 @@
     "[신(新)인물탐구(56)]두산그룹박정원회장⑦리스크관리-복구형에서...",
     "[단신]하나은행‘트래블로그외화통장’10만좌돌파外",
     "[애널리스트의마켓뷰]반도체기업주주환원,한국증시우상향이끌...",
-    "“어차피AI쓸텐데”…채용시장서사라지는자소서"
+    "“어차피AI쓸텐데”…채용시장서사라지는자소서",
+    "“자사주소각빠졌다”삼성전자110조주주환원에도급락",
+    "증시자사주소각액2년새4.5배로늘어"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T00:48:47.565870+09:00"
+   "last_run": "2026-08-25T00:50:23.569357+09:00"
   }
  },
  "press_names": {
