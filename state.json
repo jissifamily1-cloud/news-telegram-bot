@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-24T18:35:17.156913+09:00",
-     "신산업선 통합특별시 광주 반도체 모빌리티 묶는 총력"
-    ],
-    [
-     "2026-08-24T18:35:17.156913+09:00",
-     "10원 매도에 네고 연저점 역외"
-    ],
-    [
      "2026-08-24T18:40:23.419386+09:00",
      "안착 전남광주통합특별시 초기 분수령 국무회의"
     ],
@@ -266,13 +258,25 @@
     [
      "2026-08-25T00:25:19.634728+09:00",
      "데이터센터 광통신이 판도 배경은 차세대 바꾼다"
+    ],
+    [
+     "2026-08-25T00:35:22.314255+09:00",
+     "업비트 나스닥 상장 두나무 운영"
+    ],
+    [
+     "2026-08-25T00:35:22.314255+09:00",
+     "복구형에서 회장 박정원 관리 리스크 두산그룹"
+    ],
+    [
+     "2026-08-25T00:35:22.314255+09:00",
+     "트래블로그 외화통장 10만좌 돌파 하나은행"
+    ],
+    [
+     "2026-08-25T00:35:22.314255+09:00",
+     "주주 환원 기업 한국 증시 우상향 이끌 반도체"
     ]
    ],
    "seen_urls": [
-    "https://www.jibs.co.kr/news/articles/articlesDetail/64789?feed=na",
-    "https://www.tokenpost.kr/news/market/396222",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=170332",
-    "https://www.edaily.co.kr/News/Read?newsId=02348486645550600&mediaCodeNo=257",
     "https://daily.hankooki.com/news/articleView.html?idxno=1398340",
     "https://www.thepublic.kr/news/articleView.html?idxno=315863",
     "https://www.bizwork.co.kr/news/articleView.html?idxno=418399",
@@ -1768,13 +1772,13 @@
     "https://www.sedaily.com/article/20082768",
     "http://www.kwangju.co.kr/article.php?aid=1787583900802599087",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480184",
-    "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62326"
+    "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62326",
+    "https://www.chosun.com/economy/stock-finance/2026/08/25/XRHC4BQQTREQ7KMIVM5JSVNPBU/",
+    "https://www.news2day.co.kr/article/20260824500180",
+    "https://www.donga.com/news/Economy/article/all/20260824/134535317/2",
+    "https://www.donga.com/news/Economy/article/all/20260824/134535321/2"
    ],
    "seen_titles": [
-    "코스피,외국인·기관'팔자'에1%대하락…6900선내줘",
-    "코스피,개장직후1%대하락세…6830선에서등락중",
-    "[중금채물량폭탄]머니무브·금통위관건…수급블랙홀경계",
-    "[중금채물량폭탄]단번에1.6조발행…스플확대·커브왜곡우려도",
     "삼전닉스'쩐의전쟁'더세진다…쪼개는삼성,뭉치는SK[김대영의노무...",
     "[이동네이사업]김천시스마트시티조성사업",
     "SK팜테코,CPHI밀라노2026참가…글로벌수주전",
@@ -3270,10 +3274,14 @@
     "[사설]주가이어환율도급변동,대증요법보다체질강화가해법",
     "폐버스·고시원",
     "삼성전자배당확대에삼성물산'잭팟'기대…주주환원확신으로",
-    "차세대AI데이터센터판도,광통신이바꾼다..그배경은?"
+    "차세대AI데이터센터판도,광통신이바꾼다..그배경은?",
+    "업비트운영두나무,나스닥상장추진",
+    "[신(新)인물탐구(56)]두산그룹박정원회장⑦리스크관리-복구형에서...",
+    "[단신]하나은행‘트래블로그외화통장’10만좌돌파外",
+    "[애널리스트의마켓뷰]반도체기업주주환원,한국증시우상향이끌..."
    ],
    "initialized": true,
-   "last_run": "2026-08-25T00:30:31.587075+09:00"
+   "last_run": "2026-08-25T00:35:22.314255+09:00"
   }
  },
  "press_names": {
