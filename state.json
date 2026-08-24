@@ -326,12 +326,13 @@
     [
      "2026-08-25T06:55:19.378955+09:00",
      "허용 중국산칩 메모리주 애플 휘청 수입 트럼프 루머에"
+    ],
+    [
+     "2026-08-25T07:00:37.306491+09:00",
+     "흔들리나 코스피 급락에 미국발 반도체"
     ]
    ],
    "seen_urls": [
-    "https://www.epnc.co.kr/news/articleView.html?idxno=405912",
-    "https://www.g-enews.com/view.php?ud=202608240939377354fbbec65dfb_1",
-    "https://www.hankyung.com/article/202608247926H",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608240110&t=NN",
     "https://www.mediapen.com/news/view/1118334",
     "https://www.etnews.com/20260824000089",
@@ -1828,12 +1829,12 @@
     "https://www.seoulfn.com/news/articleView.html?idxno=636331",
     "http://www.yonhapnewstv.co.kr/news/MYH20260825065226nP8",
     "https://news.bizwatch.co.kr/article/industry/2026/08/24/0044",
-    "https://www.mediapen.com/news/view/1118587"
+    "https://www.mediapen.com/news/view/1118587",
+    "https://www.newstopkorea.com/news/articleView.html?idxno=47227",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608250284&t=NN",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1721485"
    ],
    "seen_titles": [
-    "SK브로드밴드,청년창업자다룬'위대한삼촌'시즌28월24일첫방송",
-    "SKT,서울대와AI공동과정개설…15주간산학협력교육",
-    "SK쉴더스-엘림넷,의료기관특화'통합보안서비스'추진",
     "[기자수첩]AI시대,개발자만인재가아니다",
     "고려대고령사회연구원,제2회국제심포지엄성료",
     "[이슈]차세대메모리승부처'3DDRAM'…국내장비업계선점경쟁",
@@ -3330,10 +3331,13 @@
     "[뉴욕증시]국채금리꺾였는데기술주'팔자'···엔비디아!반도체주...",
     "[AM-PM]이대통령,오늘민주당신임지도부초청만찬外",
     "K-배터리,ESS넘어로봇용전고체본다",
-    "[美증시]트럼프애플중국산칩수입허용루머에메모리주'휘청'"
+    "[美증시]트럼프애플중국산칩수입허용루머에메모리주'휘청'",
+    "삼성·알리바바흔들리자亞증시약세...기술주경계확산",
+    "\"같은주주환원인데삼전-8%\"…'110조vs40조'엇갈린온도차,이유는",
+    "미국발반도체급락에코스피또흔들리나"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T06:55:19.378955+09:00"
+   "last_run": "2026-08-25T07:00:37.306491+09:00"
   }
  },
  "press_names": {
