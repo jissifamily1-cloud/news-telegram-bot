@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-25T00:35:22.314255+09:00",
-     "업비트 나스닥 상장 두나무 운영"
-    ],
-    [
-     "2026-08-25T00:35:22.314255+09:00",
-     "복구형에서 회장 박정원 관리 리스크 두산그룹"
-    ],
-    [
-     "2026-08-25T00:35:22.314255+09:00",
-     "트래블로그 외화통장 10만좌 돌파 하나은행"
-    ],
-    [
-     "2026-08-25T00:35:22.314255+09:00",
-     "주주 환원 기업 한국 증시 우상향 이끌 반도체"
-    ],
-    [
-     "2026-08-25T00:40:23.006686+09:00",
-     "사라지는 자소서 채용 어차피 시장서 텐데"
-    ],
-    [
      "2026-08-25T00:50:23.569357+09:00",
      "급락 자사주 소각 110조 삼성전자 주주환원에도 빠졌다"
     ],
@@ -334,12 +314,13 @@
     [
      "2026-08-25T06:35:17.397395+09:00",
      "BMW 주주환원 있는데 환호 최소 삼전닉스 130조 나이키"
+    ],
+    [
+     "2026-08-25T06:40:23.315849+09:00",
+     "AI데이터센터 미국의 대한민국 반대운동과"
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4431417",
-    "http://www.inews24.com/view/1997509",
-    "https://www.joongangenews.com/news/articleView.html?idxno=542038",
     "http://www.popcornnews.net/news/articleView.html?idxno=130548",
     "http://www.press9.kr/news/articleView.html?idxno=81540",
     "https://www.etnews.com/20260824000073",
@@ -1836,12 +1817,12 @@
     "https://www.enetnews.co.kr/news/articleView.html?idxno=53652",
     "https://www.hankyung.com/article/2026082492606",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=726474",
-    "https://www.news1.kr/industry/general-industry/6267998"
+    "https://www.news1.kr/industry/general-industry/6267998",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=316799",
+    "https://www.bntnews.co.kr/article/view/bnt202608250011",
+    "https://www.labortoday.co.kr/news/articleView.html?idxno=236402"
    ],
    "seen_titles": [
-    "삼성전자,100조환원에도7%↓…SK하이닉스와뭐가달랐나[칩칩폭폭]",
-    "코스피,개장직후1%대하락…삼성전자5.60%급락",
-    "SKT,서울대와AI인재육성나선다…정재헌CEO강단에",
     "‘110조주주환원내놨는데’…삼성전자,장초반6%대급락[종목Pick]",
     "코스피외인·기관매도에6900붕괴···코스닥상승출발",
     "진단키트·백신개발사수급쏠림…셀리드·신풍제약폭등랠리주목",
@@ -3338,10 +3319,13 @@
     "[브랜드평판]현대건설디에이치,하이엔드주거8월1위...롯데건설르...",
     "美·유럽홀린K뷰티화장발…주가반도체주보다더뛰었다[종목+]",
     "[THECEO]정지선현대백화점그룹회장",
-    "삼전닉스,주주환원최소130조'환호'…나이키·BMW살수있는데"
+    "삼전닉스,주주환원최소130조'환호'…나이키·BMW살수있는데",
+    "영업익늘었는데투자줄였다…삼성·SK하이닉스빼면캐펙스11%감소",
+    "엔비디아26일실적발표…데이터센터수요가관건,주가는최장약세",
+    "미국의AI데이터센터반대운동과대한민국"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T06:35:17.397395+09:00"
+   "last_run": "2026-08-25T06:40:23.315849+09:00"
   }
  },
  "press_names": {
