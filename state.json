@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-24T05:15:22.668406+09:00",
-     "오피스텔로 아파트 머니무브 50억 꿈틀 막히자 고가 주거시장"
-    ],
-    [
      "2026-08-24T05:25:19.047881+09:00",
      "보상 불씨 인플레 반도체 줄파업 초래 산업계"
     ],
@@ -1214,18 +1210,13 @@
     [
      "2026-08-24T11:15:19.534789+09:00",
      "25일 분수령 반도체 3대 국무회의 공공기관 의대 현안"
+    ],
+    [
+     "2026-08-24T11:20:23.031677+09:00",
+     "주주환원 전략적 모호성 요인 삼전닉스 극명 저평가 거버넌스포럼"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10848632",
-    "https://www.viva100.com/article/20260822500005",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260822091240rAc",
-    "https://www.greened.kr/news/articleView.html?idxno=348200",
-    "https://www.sedaily.com/article/20082088",
-    "https://www.newsis.com/view/NISX20260822_0003758336",
-    "http://www.sisafocus.co.kr/news/articleView.html?idxno=364096",
-    "https://www.mk.co.kr/article/12133740",
-    "https://www.thepublic.kr/news/articleView.html?idxno=315791",
     "https://www.thepublic.kr/news/articleView.html?idxno=315808",
     "http://www.yonhapnewstv.co.kr/news/MYH20260822091430iMY",
     "https://www.sedaily.com/article/20082094",
@@ -2716,18 +2707,18 @@
     "http://www.metroseoul.co.kr/article/20260824500149",
     "https://biz.newdaily.co.kr/site/data/html/2026/08/24/2026082400129.html",
     "https://biz.heraldcorp.com/article/10849810",
-    "https://www.newsis.com/view/NISX20260824_0003759762"
+    "https://www.newsis.com/view/NISX20260824_0003759762",
+    "https://sports.donga.com/economy/article/all/20260824/134530287/1",
+    "https://www.sisajournal.com/news/articleView.html?idxno=384512",
+    "https://www.ppss.kr/news/articleView.html?idxno=306926",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2274658",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=878644",
+    "https://www.businessplus.kr/news/articleView.html?idxno=115819",
+    "https://www.delighti.co.kr/news/articleView.html?idxno=120632",
+    "https://www.lcnews.co.kr/news/articleView.html?idxno=207000",
+    "https://news.mtn.co.kr/news-detail/2026082411052720675"
    ],
    "seen_titles": [
-    "게임사들,저마다다른방식으로AI승부를건다[엑's이슈]",
-    "“삼전닉스흔들리면큰일”...대형주쏠림경고한외신",
-    "'삼전닉스오디세이'에표류하는김대리,구조될방법은?[인치범의주식...",
-    "대규모주주환원에반등한증시,지속가능성은'글쎄'",
-    "싼통신요금찾아온고객,'최적요금제'안내는왜못받을까",
-    "[IT뒷담화]성능1순위모델탈락,순위는비공개···'독파모'논란계...",
-    "[이주의전자수첩]마이크론'10년14조'판키웠다…삼성·하닉잡을...",
-    "SK텔레콤,23년만에3G종료···KT도종료예정",
-    "[ETF워치]잦아든단일레버리지소란…간만에금가격급등",
     "엔비디아·애플등에업은마이크론…韓HBM주도권비상",
     "서학개미,삼전닉스담는美반도체ETF에1185억원투자",
     "“매출14.6배·기업가치2조달러”앤트로픽,이달IPO신청",
@@ -4218,10 +4209,19 @@
     "SK텔레콤,서울대학교와AI공동교육과정개설",
     "K배터리美집중하는사이…中,유럽·중동ESS선점속도",
     "삼성전자는왜SK하이닉스처럼못할까[조원경의경제·산업답사기]",
-    "'반도체·공공기관·의대'3대현안,25일국무회의'분수령'"
+    "'반도체·공공기관·의대'3대현안,25일국무회의'분수령'",
+    "넥센타이어,국내공장재생에너지전환가속…글로벌경쟁력높인다",
+    "110조원푼다는데삼성전자주가'뚝'…시장은왜실망했나",
+    "코스피,외국인매도에1.9%급락…삼성전자7%↓·SK하이닉스는선방",
+    "SK브로드밴드,지역정착청년조명'위대한삼촌'시즌2",
+    "분상제·전국청약通...용인반도체클러스터동일하이빌파크밸리청약...",
+    "[금융권이모저모]한국투자신탁운용,삼성전자·SK하이닉스담은혼합...",
+    "SK쉴더스,엘림넷과의료기관통합보안서비스공동추진",
+    "[타이어Pick]넥센,양산공장PPA도입…금호,슈퍼레이스챔피언십1~3...",
+    "거버넌스포럼\"삼전닉스주주환원,'전략적모호성'극명…저평가요인..."
    ],
    "initialized": true,
-   "last_run": "2026-08-24T11:15:19.534789+09:00"
+   "last_run": "2026-08-24T11:20:23.031677+09:00"
   }
  },
  "press_names": {
