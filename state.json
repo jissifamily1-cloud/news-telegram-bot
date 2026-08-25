@@ -1114,15 +1114,13 @@
     [
      "2026-08-25T12:40:23.595336+09:00",
      "Deal by Votes Labor Tentative Rejects Union hynix"
+    ],
+    [
+     "2026-08-25T12:45:20.819829+09:00",
+     "기후에너지 일자리 찾아볼까 기업"
     ]
    ],
    "seen_urls": [
-    "https://www.koreatimes.co.kr/path/A2026082415420003160",
-    "http://www.dailypop.kr/news/articleView.html?idxno=101826",
-    "https://www.newsis.com/view/NISX20260824_0003760409",
-    "https://www.newsis.com/view/NISX20260824_0003760200",
-    "https://biz.sbs.co.kr/article_hub/20000330349?division=NAVER",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16171995",
     "https://www.hankyung.com/article/2026082479291",
     "https://www.seoul.co.kr/news/economy/securities/2026/08/24/20260824500183?wlog_tag3=naver",
     "https://www.getnews.co.kr/news/articleView.html?idxno=878700",
@@ -2616,15 +2614,15 @@
     "https://m.skyedaily.com/news_view.html?ID=310435",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=663067",
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=705533",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275461"
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275461",
+    "https://www.asiatime.co.kr/article/20260825500192",
+    "https://biz.heraldcorp.com/article/10851387",
+    "https://www.consumuch.com/news/articleView.html?idxno=78854",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2276485",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8645394",
+    "https://biz.heraldcorp.com/article/10851388"
    ],
    "seen_titles": [
-    "[나이스증시전망]새변수로떠오른미국국채금리",
-    "[게임스테이션]'오늘두호두'출시·'타임'플레이테스트·게임명'파레...",
-    "코스피삼전급락에6700선붕괴…코스닥은1%대↑",
-    "국민누구나,'1인1에이전트'시대…IT·통신기업'모두의AI'끝장승...",
-    "[마감시황]코스피,3.12%급락해6696.96마감…외국인·기관동반순매...",
-    "(마감시황)삼전주주환원실망에코스피3%급락…코스닥은1.42%상승",
     "KOSPIplungesmorethan3%asSamsung,SKhynixsharestumble",
     "반도체가지킨코스피6900선,잭슨홀·엔비디아실적…이번주국내증...",
     "코스피,삼성그룹주급락에6600선후퇴…외인3.9조폭풍매도",
@@ -4118,10 +4116,16 @@
     "큰손세대별최애주달랐다…2030하닉·40대이상삼전",
     "SK하이닉스성과급안25표차부결",
     "영종학생들하굣길한결편해진다…'영종5-6번'공영버스31일운행",
-    "SKhynixUnionRejectsTentativeLaborDealby25Votes"
+    "SKhynixUnionRejectsTentativeLaborDealby25Votes",
+    "[25일인천영종구]운서중~영종하늘도시잇는공영버스5-6번신설등",
+    "[헤럴드pic]기후에너지일자리박람회개막",
+    "삼성물산,삼성전자배당확대수혜기대",
+    "[통신]KT대졸신입채용/SKT갤럭시퀀텀7/LGU+유독Pick확대",
+    "SK하이닉스임단협잠정안‘부결’",
+    "[헤럴드pic]기후에너지기업일자리찾아볼까"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T12:40:23.595336+09:00"
+   "last_run": "2026-08-25T12:45:20.819829+09:00"
   }
  },
  "press_names": {
