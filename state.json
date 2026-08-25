@@ -510,12 +510,13 @@
     [
      "2026-08-26T07:58:04.823014+09:00",
      "해치텍 상장 하락 주가"
+    ],
+    [
+     "2026-08-26T08:00:33.761862+09:00",
+     "해법 정의선 투자 만나는 최태원 논의 이재용"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260825081200008?input=1195m",
-    "https://www.yna.co.kr/view/AKR20260825084000065?input=1195m",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=362149",
     "http://www.wsobi.com/news/articleView.html?idxno=316965",
     "https://www.thedailypost.kr/news/articleView.html?idxno=115141",
     "https://www.newstree.kr/newsView/ntr202608250012",
@@ -2012,12 +2013,12 @@
     "https://www.public25.com/news/articleView.html?idxno=53343",
     "https://www.smartbizn.com/news/articleView.html?idxno=152125",
     "https://www.nspna.com/news/?newsid=825497",
-    "https://www.thelec.kr/news/articleView.html?idxno=61347"
+    "https://www.thelec.kr/news/articleView.html?idxno=61347",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=63378",
+    "https://www.seoulfn.com/news/articleView.html?idxno=636440",
+    "https://www.hankyung.com/article/2026082627197"
    ],
    "seen_titles": [
-    "코스피,1∼2%대하락세…장중낙폭은다소줄여",
-    "[인천소식]운서중∼영종하늘도시공영버스신설",
-    "엔비디아에발목잡힌'AI낙관론'",
     "미래에셋자산운용·교보생명'TIGER삼성전자SK하이닉스미국채혼합50'E...",
     "위버스브레인,SKT와손잡고대화형AI에이전트공동개발나서",
     "SKT,얇고가벼운AI폰'갤럭시퀀텀7'출시...출고가71만원",
@@ -3514,10 +3515,13 @@
     "[코스피·코스닥,SK이노베이션심텍우원개발예스티MH에탄올노타대...",
     "엔비디아,920억달러매출전망에도불안한시장···HBM판도흔드나",
     "[들어보니]키움·카카오페이證,반대매매·강제청산에개미만당했다",
-    "해치텍,상장첫날주가40%하락"
+    "해치텍,상장첫날주가40%하락",
+    "[증시전망대]美반도체훈풍에코스피'상승탄력'시험대…엔비디아...",
+    "SK이노·SKIET합병···배터리분리막사업,직접챙긴다",
+    "이재용·최태원·정의선만나는李…AI·美투자해법논의"
    ],
    "initialized": true,
-   "last_run": "2026-08-26T07:58:04.823014+09:00"
+   "last_run": "2026-08-26T08:00:33.761862+09:00"
   }
  },
  "press_names": {
