@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-25T03:00:37.920393+09:00",
-     "정조준 전력이 LS ELECTRIC 전력시장 경쟁력 데이터센터"
-    ],
-    [
      "2026-08-25T03:15:20.901828+09:00",
      "HD현대일렉트릭 목표 올렸다 초고압 배전까지 수주 잘하더니"
     ],
@@ -682,15 +678,21 @@
     [
      "2026-08-25T09:00:36.150670+09:00",
      "메모리 마이크론 625달러까지 하락 올랐는데 고점 주가는 목표주가"
+    ],
+    [
+     "2026-08-25T09:01:30.796415+09:00",
+     "공략 데이터센터 시장 800V 전력변환 본격화 솔루엠"
+    ],
+    [
+     "2026-08-25T09:01:30.796415+09:00",
+     "원목마루 강화 전문성 프리미엄 가조띠코리아 주거시장서"
+    ],
+    [
+     "2026-08-25T09:01:30.796415+09:00",
+     "4GW를 집적국가 담는다 청사진 10만"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISI20260824_0021408346",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275337",
-    "https://www.newsis.com/view/NISX20260824_0003759422",
-    "http://www.lkp.news/news/articleView.html?idxno=83243",
-    "https://www.newspim.com/news/view/20260824000359",
-    "https://www.mk.co.kr/article/12134516",
     "https://biz.heraldcorp.com/article/10849728",
     "https://www.ziksir.com/news/articleView.html?idxno=144029",
     "https://www.bizwork.co.kr/news/articleView.html?idxno=418412",
@@ -2184,15 +2186,15 @@
     "https://www.yna.co.kr/view/AKR20260825034600003?input=1195m",
     "https://www.seoultimes.news/news/article.html?no=2000099101",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=275417",
-    "http://coinreaders.com/254600"
+    "http://coinreaders.com/254600",
+    "https://www.sentv.co.kr/article/view/sentv202608250015",
+    "https://news.tf.co.kr/read/economy/2357476.htm",
+    "https://view.asiae.co.kr/article/2026082508590575573",
+    "https://www.dt.co.kr/article/12079076",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275403",
+    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257624"
    ],
    "seen_titles": [
-    "SK하이닉스노조,'성과급60%자사주지급'임단협찬반투표돌입",
-    "“日조선재건?”한국이긴장안되는이유",
-    "KoreantelecomsbetonAIdatacentersforgrowth",
-    "국내AI업계최대이슈'모두의AI'...통신3사서로다른승부수",
-    "코스피,삼성전자급락에1%대↓···6800선약세",
-    "‘삼성D지분매각’삼성SDI,8%대↑…2차전지株‘불기둥’[줍줍리포...",
     "[특징주]100조주주환원에도오히려실망...삼성전자6%대급락",
     "코스피,삼성전자6%대급락에6,820선후퇴…코스닥은2%대상승",
     "삼성배당·하이닉스자사주…단기수급은매입·소각우위-토스증권",
@@ -3686,10 +3688,16 @@
     "SK케미칼,스카이펠소재적용제품방석·매트리스로확대",
     "[뉴스앤데이터]대기업영업이익279조늘어도‘생산적투자’제자...",
     "TIGERETFBlendsChipGrowth,DollarAssets",
-    "마이크론목표주가1,625달러까지올랐는데주가는하락…메모리고점..."
+    "마이크론목표주가1,625달러까지올랐는데주가는하락…메모리고점...",
+    "삼전닉스뺀대기업,영업익72%늘어도설비투자11%줄였다",
+    "SK케미칼,특수소재'스카이펠'로침구류시장공략",
+    "SK케미칼'스카이펠',올레핀대체침구소재로영역확대",
+    "AI데이터센터800V전환본격화…솔루엠,랙전력변환시장공략",
+    "가조띠코리아,프리미엄주거시장서원목마루전문성강화",
+    "[K-지능강국]③18.4GW를10만㎢에담는다···'AI집적국가'청사진"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T09:00:36.150670+09:00"
+   "last_run": "2026-08-25T09:01:30.796415+09:00"
   }
  },
  "press_names": {
