@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-25T12:50:21.124703+09:00",
-     "대우건설 동향 커브 증시 주시 강세 급락에도 주가 국내"
-    ],
-    [
      "2026-08-25T12:55:19.172750+09:00",
      "ETF에 가까 필라델피아반도체지수 추종하는 3배 지난 1조원 서학개미"
     ],
@@ -1254,11 +1250,13 @@
     [
      "2026-08-25T18:47:49.936415+09:00",
      "마감 격화 증시 미중대립 홍콩 H주 속락 우려에"
+    ],
+    [
+     "2026-08-25T18:50:24.313601+09:00",
+     "가이던스 마진 910억달러 엔비디아 시험대"
     ]
    ],
    "seen_urls": [
-    "https://www.globale.co.kr/news/articleView.html?idxno=40030",
-    "https://view.asiae.co.kr/article/2026082509324844989",
     "https://www.news1.kr/finance/general-stock/6268375",
     "http://www.newsprime.co.kr/news/article.html?no=744961",
     "https://www.fntimes.com/html/view.php?ud=2026082509241482152a735e27af_18",
@@ -2756,11 +2754,11 @@
     "https://www.news2day.co.kr/article/20260825500276",
     "https://www.datanet.co.kr/news/articleView.html?idxno=214008",
     "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307344",
-    "https://www.newsis.com/view/NISX20260825_0003762341"
+    "https://www.newsis.com/view/NISX20260825_0003762341",
+    "https://www.ccdn.co.kr/news/articleView.html?idxno=1095756",
+    "https://www.tokenpost.kr/news/ai/397422"
    ],
    "seen_titles": [
-    "SK하이닉스임단협잠정합의안부결···성과급지급갈등커져",
-    "[포토]코스닥,코스피동반하락",
     "삼전發글로벌반도체'셀온'…삼전4%·SK하닉6%급락[핫종목]",
     "[카드]SKT,AI탑재'갤럭시퀀텀7'출시…출고가71만7200원",
     "삼성전자·SK하이닉스,같은곳향하지만다른선택…주주환원도‘각자...",
@@ -4258,10 +4256,12 @@
     "[현장]청년고용절벽넘어‘첫직장계층화’…김위상의원,“일회성...",
     "위버스브레인·SK텔레콤,AI에이전트사업맞손",
     "110조풀고도'25만전자'···주가되살릴'40조카드'남았다",
-    "[올댓차이나]홍콩증시,미중대립격화우려에속락마감…H주0.31%↓"
+    "[올댓차이나]홍콩증시,미중대립격화우려에속락마감…H주0.31%↓",
+    "충북도,기후에너지청년일자리협약",
+    "910억달러가이던스,엔비디아마진시험대"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T18:47:49.936415+09:00"
+   "last_run": "2026-08-25T18:50:24.313601+09:00"
   }
  },
  "press_names": {
