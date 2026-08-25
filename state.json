@@ -578,11 +578,13 @@
     [
      "2026-08-25T23:35:20.482596+09:00",
      "AX 코오롱 포럼 더존 리더십 고려대 참가"
+    ],
+    [
+     "2026-08-25T23:40:21.890849+09:00",
+     "10곳 생성형 AI에 맡기기 기업 회사 꺼려져 데이터 국내 6곳"
     ]
    ],
    "seen_urls": [
-    "https://www.thepowernews.co.kr/view.php?ud=202608251003552862de3f0aa1be_7",
-    "https://www.imaeil.com/page/view/2026082509455135564",
     "https://www.apnews.kr/news/articleView.html?idxno=3050653",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=265933",
     "http://www.weeklytoday.com/news/articleView.html?idxno=791457",
@@ -2080,11 +2082,11 @@
     "http://www.kwangju.co.kr/article.php?aid=1787667630802671011",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008721616&plink=ORI&cooper=NAVER",
     "https://www.news1.kr/sports/baseball/6269402",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=851505"
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=851505",
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432867",
+    "https://www.newscj.com/news/articleView.html?idxno=3427753"
    ],
    "seen_titles": [
-    "SK하이닉스임단협잠정합의안부결…성과급지급방식재협상불가피",
-    "11개월만에1300원대진입한환율…증권가가꼽은수혜업종은?",
     "산업단지개발앞둔지역,초기분양단지관심확대",
     "SK하이닉스,성과급주식지급안'턱걸이부결'…노사재협상간다",
     "[위클리오늘]코스피6500선하락출발···환율1380원대",
@@ -3582,10 +3584,12 @@
     "KBO에없던홈런…KIA이호연,9회2사대타끝내기만루포",
     "선두서울,부천꺾고3연승…클리말라10호골",
     "끝내기만루포에울었던KIA,대타끝내기만루포로분풀이(종합)",
-    "[클라우드월드]더존'AX리더십포럼'·코오롱'델포럼'참가·고려대..."
+    "[클라우드월드]더존'AX리더십포럼'·코오롱'델포럼'참가·고려대...",
+    "'10년만의우승보인다'서울,부천잡고3연승…전북과승점15차",
+    "국내기업10곳중6곳\"생성형AI에회사데이터맡기기꺼려져\""
    ],
    "initialized": true,
-   "last_run": "2026-08-25T23:35:20.482596+09:00"
+   "last_run": "2026-08-25T23:40:21.890849+09:00"
   }
  },
  "press_names": {
