@@ -502,12 +502,17 @@
     [
      "2026-08-26T07:55:16.325660+09:00",
      "코스피 노타 예스티 우원개발 MH에탄올 SK이노베이션 코스닥 심텍"
+    ],
+    [
+     "2026-08-26T07:58:04.823014+09:00",
+     "개미만 키움 반대매매 강제청산에 카카오페이 당했다"
+    ],
+    [
+     "2026-08-26T07:58:04.823014+09:00",
+     "해치텍 상장 하락 주가"
     ]
    ],
    "seen_urls": [
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=86046",
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575851275865",
-    "http://www.yonhapnewstv.co.kr/news/AKR20260825110854uI1",
     "https://www.yna.co.kr/view/AKR20260825081200008?input=1195m",
     "https://www.yna.co.kr/view/AKR20260825084000065?input=1195m",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=362149",
@@ -2004,12 +2009,12 @@
     "https://www.edaily.co.kr/News/Read?newsId=02522326645551256&mediaCodeNo=257",
     "https://www.cbci.co.kr/news/articleView.html?idxno=601194",
     "https://biz.sbs.co.kr/article_hub/20000330755?division=NAVER",
-    "https://www.public25.com/news/articleView.html?idxno=53343"
+    "https://www.public25.com/news/articleView.html?idxno=53343",
+    "https://www.smartbizn.com/news/articleView.html?idxno=152125",
+    "https://www.nspna.com/news/?newsid=825497",
+    "https://www.thelec.kr/news/articleView.html?idxno=61347"
    ],
    "seen_titles": [
-    "\"10억이상자산가80%늘었다\"…키움증권자산가들,SK하이닉스·현대차...",
-    "[메가이슈토픽]SK하이닉스,임단협잠정안불과25표차이로부결…노...",
-    "키움증권\"2030고액자산가는SK하이닉스,4050은삼성전자\"",
     "코스피,1∼2%대하락세…장중낙폭은다소줄여",
     "[인천소식]운서중∼영종하늘도시공영버스신설",
     "엔비디아에발목잡힌'AI낙관론'",
@@ -3506,10 +3511,13 @@
     "건설주,잘나가는이유살펴보니...주택아닌비주택수주호황-한화",
     "SK하이닉스,167만8000원서반등마감…반도체주회복세시험대",
     "[애프터마켓리뷰]AI전력수요에원전주'활활'…한전기술급등",
-    "[코스피·코스닥,SK이노베이션심텍우원개발예스티MH에탄올노타대..."
+    "[코스피·코스닥,SK이노베이션심텍우원개발예스티MH에탄올노타대...",
+    "엔비디아,920억달러매출전망에도불안한시장···HBM판도흔드나",
+    "[들어보니]키움·카카오페이證,반대매매·강제청산에개미만당했다",
+    "해치텍,상장첫날주가40%하락"
    ],
    "initialized": true,
-   "last_run": "2026-08-26T07:55:16.325660+09:00"
+   "last_run": "2026-08-26T07:58:04.823014+09:00"
   }
  },
  "press_names": {
