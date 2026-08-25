@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-25T06:45:21.589323+09:00",
-     "가족 대응 서울서 성인인데 신고 2차 경찰 장미란씨 아니냐 가출"
-    ],
-    [
-     "2026-08-25T06:50:20.328181+09:00",
-     "터졌는데 코스닥 샀을까 이제 내가 비명 이걸 가격 개미들"
-    ],
-    [
      "2026-08-25T06:55:19.378955+09:00",
      "신임 민주당 초청 대통령 만찬 지도부"
     ],
@@ -1118,12 +1110,13 @@
     [
      "2026-08-25T12:45:20.819829+09:00",
      "기후에너지 일자리 찾아볼까 기업"
+    ],
+    [
+     "2026-08-25T12:50:21.124703+09:00",
+     "대우건설 동향 커브 증시 주시 강세 급락에도 주가 국내"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026082479291",
-    "https://www.seoul.co.kr/news/economy/securities/2026/08/24/20260824500183?wlog_tag3=naver",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=878700",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=52310",
     "https://www.etnews.com/20260824000336",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597883",
@@ -2620,12 +2613,12 @@
     "https://www.consumuch.com/news/articleView.html?idxno=78854",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2276485",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8645394",
-    "https://biz.heraldcorp.com/article/10851388"
+    "https://biz.heraldcorp.com/article/10851388",
+    "https://www.pointe.co.kr/news/articleView.html?idxno=83786",
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=362170",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=600950"
    ],
    "seen_titles": [
-    "KOSPIplungesmorethan3%asSamsung,SKhynixsharestumble",
-    "반도체가지킨코스피6900선,잭슨홀·엔비디아실적…이번주국내증...",
-    "코스피,삼성그룹주급락에6600선후퇴…외인3.9조폭풍매도",
     "[현장]8억원대페라리첫전기차'루체'韓상륙…직접만나보니",
     "[투자전략따라잡기]40조소각VS110조배당왜SK오르고삼성은떨어...",
     "[공매도브리핑]8월24일삼성전자1조원대…AJ네트웍스50.47%",
@@ -4122,10 +4115,13 @@
     "삼성물산,삼성전자배당확대수혜기대",
     "[통신]KT대졸신입채용/SKT갤럭시퀀텀7/LGU+유독Pick확대",
     "SK하이닉스임단협잠정안‘부결’",
-    "[헤럴드pic]기후에너지기업일자리찾아볼까"
+    "[헤럴드pic]기후에너지기업일자리찾아볼까",
+    "AI데이터센터·HVDC겨냥…효성중공업,글로벌전력망시장공략가속",
+    "SK하이닉스임단협25표차부결…'자사주성과급'이견에발목",
+    "대우건설,국내증시급락에도주가4%대강세…동향커브주시"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T12:45:20.819829+09:00"
+   "last_run": "2026-08-25T12:50:21.124703+09:00"
   }
  },
  "press_names": {
