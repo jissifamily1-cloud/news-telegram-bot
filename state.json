@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-25T05:45:21.675227+09:00",
-     "반도체 하락에도 나스닥 국채금리 투매 뉴욕증시 유가"
-    ],
-    [
      "2026-08-25T05:50:24.370105+09:00",
      "쌓죠 나온 20층이나 질문에 김창영의 송곳 답변은 실리콘 HBM 굳이"
     ],
@@ -1178,12 +1174,13 @@
     [
      "2026-08-25T11:43:07.738109+09:00",
      "시각 주요"
+    ],
+    [
+     "2026-08-25T11:45:22.351131+09:00",
+     "다시 스마트폰 쓴다 AIDC 대신 성장공식"
     ]
    ],
    "seen_urls": [
-    "https://www.newsway.co.kr/news/view?ud=2026082415452655809",
-    "https://www.edaily.co.kr/News/Read?newsId=03683446645550600&mediaCodeNo=257",
-    "https://www.asiatime.co.kr/article/20260824500181",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=851302",
     "http://www.metroseoul.co.kr/article/20260824500410",
     "https://www.businesspost.co.kr/BP?command=article_view&num=445448",
@@ -2680,12 +2677,12 @@
     "https://www.gukjenews.com/news/articleView.html?idxno=3673606",
     "http://www.dailypop.kr/news/articleView.html?idxno=101861",
     "https://www.newsis.com/view/NISX20260825_0003761556",
-    "https://biz.sbs.co.kr/article_hub/20000330584?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000330584?division=NAVER",
+    "http://www.lawissue.co.kr/view.php?ud=20260825114220797567191f6c6e_12",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480323",
+    "https://www.bloter.net/news/articleView.html?idxno=671713"
    ],
    "seen_titles": [
-    "코스피,3%급락에6700아래로...외인·기관5조순매도",
-    "삼전8%대폭락",
-    "[자막뉴스]\"1.5%에5억까지대출해준다\"삼전닉스'주택대출'실탄곧...",
     "삼성전자급락에그룹주도'출렁'…코스피6700선이탈[fn마감시황]",
     "삼전9%급락에맥못춘코스피,6600선'턱걸이'…코스닥은상승마감",
     "외인3.7조순매도에도'원화강세'…달러·원1376원까지하락(종합)",
@@ -4182,10 +4179,13 @@
     "국회서청주반도체산업현안집중논의",
     "[기업들]'미래세대·사회가치창출'폭넓은행보...글로벌인재육성부...",
     "\"R&D빛났다\"…K-바이오,올해기술수출17조훌쩍",
-    "이시각주요뉴스"
+    "이시각주요뉴스",
+    "포스코이앤씨,느티마을4단지리모델링‘더샵분당하이스트’9월분양",
+    "KB자산운용,'RISE삼성전자SK하이닉스채권혼합50ETF'4조돌파",
+    "[낸드리부트]①스마트폰대신AIDC…성장공식다시쓴다"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T11:43:07.738109+09:00"
+   "last_run": "2026-08-25T11:45:22.351131+09:00"
   }
  },
  "press_names": {
