@@ -433,10 +433,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.cstimes.com/news/articleView.html?idxno=717907",
-    "http://www.queen.co.kr/news/articleView.html?idxno=462199",
-    "https://www.ekn.kr/web/view.php?key=20260825027056149",
-    "https://www.businessplus.kr/news/articleView.html?idxno=115870",
     "https://www.techm.kr/news/articleView.html?idxno=154580",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=851396",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=851387",
@@ -1932,13 +1928,13 @@
     "https://www.xportsnews.com/article/2187810",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000006169&cp=nv",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000006165&cp=nv",
-    "https://m.sports.naver.com/basketball/article/065/0000301034"
+    "https://m.sports.naver.com/basketball/article/065/0000301034",
+    "https://www.chosun.com/economy/industry-company/2026/08/26/Q5BVQXTNWNDMPNXWQJ6YFI7QBQ/",
+    "https://www.chosun.com/economy/tech_it/2026/08/26/QO6HY6IQRZC6HE3JDPYRTA2BLE/",
+    "https://www.donga.com/news/Economy/article/all/20260825/134542376/2",
+    "https://www.donga.com/news/Economy/article/all/20260825/134542570/2"
    ],
    "seen_titles": [
-    "SKT,'갤럭시퀀텀7'출시…두께6.9㎜·AI기능강화",
-    "SK하이닉스노조,성과급자사주지급안부결…재협상불가피",
-    "가상자산·금동반급등…비트코인반등,환율11개월최저",
-    "[금융권이모저모]삼성자산운용,국내자산100%담은첫TDFETF상장外",
     "두나무앤파트너스,英AI유망주'칼로섬'에70억베팅",
     "[에듀픽]위버스-SKT'MOU'·테크빌'AI신간'·리얼아카데미'CNN영어글...",
     "미래에셋·한투운용,'채권혼합ETF'경쟁…퇴직연금시장정조준",
@@ -3434,10 +3430,14 @@
     "전원주,도전부터구설·제작진하차까지…파란만장유튜브1년[엑's이...",
     "곳간채운대기업들설비투자제자리…삼전닉스빼면11%줄어",
     "“성과급주식말고현금달라”…SK하닉합의안25표차부결",
-    "'가벼워진SK'부상털어낸최원혁...워니-힉스와다시함께달린다"
+    "'가벼워진SK'부상털어낸최원혁...워니-힉스와다시함께달린다",
+    "SK이노,분리막사업자회사흡수합병",
+    "단25표차로‘부결’",
+    "美반도체주찬바람버틴코스피,0.7%상승마감",
+    "SK이노,적자자회사추가합병…리밸런싱‘마지막퍼즐’맞췄다"
    ],
    "initialized": true,
-   "last_run": "2026-08-26T00:30:31.701356+09:00"
+   "last_run": "2026-08-26T00:35:17.327851+09:00"
   }
  },
  "press_names": {
