@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-25T12:35:15.798766+09:00",
-     "세대별 큰손 40대 이상 하닉 달랐다 삼전 최애주"
-    ],
-    [
      "2026-08-25T12:40:23.595336+09:00",
      "Deal by Votes Labor Tentative Rejects Union hynix"
     ],
@@ -1214,15 +1210,25 @@
     [
      "2026-08-25T18:30:30.123215+09:00",
      "한국산업단지공단 에너지전환 해법은 국회서 토론 산단 분산에너지"
+    ],
+    [
+     "2026-08-25T18:35:20.268228+09:00",
+     "시장 배터리 글로벌 톱7 휩쓴"
+    ],
+    [
+     "2026-08-25T18:35:20.268228+09:00",
+     "증권주 상승 SK증권 한국금융지주"
+    ],
+    [
+     "2026-08-25T18:35:20.268228+09:00",
+     "종목 이달 상승 10개 공방 7개 코스닥 800선"
+    ],
+    [
+     "2026-08-25T18:35:20.268228+09:00",
+     "개최 테크놀로지스 포럼 전략 공유 실전 도입"
     ]
    ],
    "seen_urls": [
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000059288",
-    "https://www.ccdailynews.com/news/articleView.html?idxno=2436002",
-    "https://www.womentimes.co.kr/news/articleView.html?idxno=105559",
-    "https://www.joongangenews.com/news/articleView.html?idxno=542388",
-    "https://www.greened.kr/news/articleView.html?idxno=348323",
-    "https://www.tokenpost.kr/news/market/397060",
     "https://www.namdonews.com/news/articleView.html?idxno=921005",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=271910",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571888468865",
@@ -2716,15 +2722,15 @@
     "https://www.asiatime.co.kr/article/20260825500467",
     "https://www.newstree.kr/newsView/ntr202608250021",
     "https://www.sisajournal.com/news/articleView.html?idxno=384791",
-    "https://www.imaeil.com/page/view/2026082518255771440"
+    "https://www.imaeil.com/page/view/2026082518255771440",
+    "http://www.srtimes.kr/news/articleView.html?idxno=210835",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8645582",
+    "https://www.hankyung.com/article/2026082521951",
+    "https://www.nspna.com/news/?newsid=825557",
+    "https://www.etoday.co.kr/news/view/2617998",
+    "https://www.cnet.co.kr/view/?no=20260825182238"
    ],
    "seen_titles": [
-    "SK하이닉스임단협잠정합의안,노조투표서50.08%반대로부결",
-    "SK하이닉스임단협잠정합의안'초박빙'부결…노사재협상",
-    "SKT,얇고가벼운디자인·준플래그십단말'갤럭시퀀텀7'출시",
-    "[종합]SK하이닉스임단협잠정합의안'25표차'부결…결국'PS60%자사...",
-    "코스피,반도체주연일약세에6400선으로...SK하이닉스160만원붕괴",
-    "주식80%코리아TDFETF25일상장",
     "'삼전닉스'급락에코스피장초반4%↓…6,400선도위협(종합)",
     "[속보]SK하닉노조,'자사주60%성과급'합의안부결…반대50.1%",
     "‘셀트리온vs삼성바이오로직스’선두경쟁...K-브랜드지수제약·바이...",
@@ -4218,10 +4224,16 @@
     "SK이노베이션,SKIET흡수합병…분리막사업재무안정·경쟁력강화",
     "SK이노,자회사SKIET흡수합병...\"운영효율성높인다\"",
     "WSJ\"코스피,세계에서가장미친주식시장…공포의놀이기구\"",
-    "산단에너지전환해법은'분산에너지'…한국산업단지공단,국회서토론..."
+    "산단에너지전환해법은'분산에너지'…한국산업단지공단,국회서토론...",
+    "SK이노베이션,분리막자회사SKIET합병…재무안정성확보",
+    "SK하이닉스임단협잠정안‘부결’…재협상",
+    "글로벌배터리시장70%휩쓴中'톱7'",
+    "[업앤다운]증권주상승,한국금융지주↑·SK증권↓",
+    "800선공방코스닥…이달10개중7개종목상승",
+    "‘델테크놀로지스포럼2026’개최…AI실전도입전략공유"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T18:30:30.123215+09:00"
+   "last_run": "2026-08-25T18:35:20.268228+09:00"
   }
  },
  "press_names": {
