@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-25T13:55:18.480341+09:00",
-     "비공개 만난 프로 메가 정의선과도 3대 만남 최태원 이재용"
-    ],
-    [
-     "2026-08-25T13:55:18.480341+09:00",
-     "부족 7곳 기업 대규모 데이터센터 10곳 감당할"
-    ],
-    [
      "2026-08-25T14:00:40.438068+09:00",
      "삼성 배당 지배구조 셈법 숨은 150조 소각 환원에"
     ],
@@ -1281,8 +1273,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260825039051008?input=1195m",
-    "https://www.esgeconomy.com/news/articleView.html?idxno=16484",
     "https://www.gokorea.kr/news/articleView.html?idxno=876208",
     "https://www.smartbizn.com/news/articleView.html?idxno=152015",
     "https://www.socialvalue.kr/news/view/1065571477172296",
@@ -2780,11 +2770,11 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608250543&t=NN",
     "https://www.ggilbo.com/news/articleView.html?idxno=1177481",
     "https://news.mtn.co.kr/news-detail/2026082519325048328",
-    "https://www.newstnt.com/news/articleView.html?idxno=715244"
+    "https://www.newstnt.com/news/articleView.html?idxno=715244",
+    "https://www.ekn.kr/web/view.php?key=20260825021516477",
+    "http://www.inews24.com/view/1998206"
    ],
    "seen_titles": [
-    "美반도체찬바람·삼전닉스약세지속…코스피2~3%대하락(종합)",
-    "[정책브리핑]석탄비중50%넘어도녹색채권발행시국민연금투자대상...",
     "SK케미칼,센스맘과손잡고스카이펠로침구류혁신추진",
     "반도체가끌어올린세수···정부,내년'800조슈퍼예산'편성한다",
     "'무한상사',박명수X정준하전격합류!새로운인물·이야기로확장",
@@ -4282,10 +4272,12 @@
     "[속보]왕개미는계좌에뭐담았나봤더니…1년새'확'달라진패턴나...",
     "[주식마감]'FDA희귀의약품지정'에신라젠상한가...금호에이치티,차...",
     "SK이노,자회사SKIET흡수합병…분사7년만에다시품는다",
-    "[공시]26일,코스피상장사55개종목자사주매수신청"
+    "[공시]26일,코스피상장사55개종목자사주매수신청",
+    "SK이노베이션,‘분리막자회사’SKIET흡수합병…“운영효율성·사업...",
+    "SK하이닉스노조,'현금성과급'요구확산...사측\"후속일정협의\"(종..."
    ],
    "initialized": true,
-   "last_run": "2026-08-25T19:50:20.970511+09:00"
+   "last_run": "2026-08-25T19:55:18.506300+09:00"
   }
  },
  "press_names": {
