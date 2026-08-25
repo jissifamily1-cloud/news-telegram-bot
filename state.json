@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-25T08:15:21.316713+09:00",
-     "931억 독식 수수료만 레버리지ETF 대형증권"
-    ],
-    [
-     "2026-08-25T08:15:21.316713+09:00",
-     "채권 달러 덮친 비용 혼조 우려 주식 반도체주"
-    ],
-    [
-     "2026-08-25T08:15:21.316713+09:00",
-     "대기업 제조업 쌓여도 반도체 투자 닫은 독주 걷어내면 지갑 곳간"
-    ],
-    [
      "2026-08-25T08:20:22.966857+09:00",
      "등극 1위 SK뷰 호감도 힐스테이트 아이파크 실수요자 올상반기"
     ],
@@ -1030,20 +1018,21 @@
     [
      "2026-08-25T14:10:22.743512+09:00",
      "대응 데이터센터로 현대화 한계 시급 국내 기업 인프라"
+    ],
+    [
+     "2026-08-25T14:15:22.241212+09:00",
+     "수도권 급등 가격 분양가 경쟁력 공공분양이 내세운 1년"
+    ],
+    [
+     "2026-08-25T14:15:22.241212+09:00",
+     "이통3사 모두의 통신 경쟁 격돌 서비스 넘어"
+    ],
+    [
+     "2026-08-25T14:15:22.241212+09:00",
+     "충청권 지역현안 종합결산 예결위원들 강조 질의"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20260824007152320?input=2106m",
-    "https://www.seoultimes.news/news/article.html?no=2000099093",
-    "https://www.newspim.com/news/view/20260824001085",
-    "https://news.mtn.co.kr/news-detail/2026082416110037771",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1721456",
-    "http://www.lkp.news/news/articleView.html?idxno=83268",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480127",
-    "https://www.asiatime.co.kr/article/20260824500352",
-    "http://www.efnews.co.kr/news/articleView.html?idxno=131839",
-    "http://www.newswatch.kr/news/articleView.html?idxno=80841",
-    "https://www.sisajournal.com/news/articleView.html?idxno=384609",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=859078",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=275391",
     "https://www.catchnews.kr/news/articleView.html?idxno=127626",
@@ -2532,20 +2521,20 @@
     "http://www.newscape.co.kr/news/articleView.html?idxno=124107",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1721543",
     "https://www.mediapen.com/news/view/1118675",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000059446"
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000059446",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092168778",
+    "https://www.dailian.co.kr/news/view/1682089/?sc=Naver",
+    "https://www.thepowernews.co.kr/view.php?ud=202608251413068324de3f0aa1be_7",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=225010",
+    "https://www.ddaily.co.kr/page/view/2026082514064877659",
+    "https://www.g-enews.com/view.php?ud=20260825135617841927fa31d75c_1",
+    "https://www.edaily.co.kr/News/Read?newsId=03571926645550928&mediaCodeNo=257",
+    "https://www.dt.co.kr/article/12080069",
+    "https://www.hankyung.com/article/202608251400O",
+    "https://www.sisaon.co.kr/news/articleView.html?idxno=203783",
+    "https://www.jbnews.com/news/articleView.html?idxno=1510100"
    ],
    "seen_titles": [
-    "SK하이닉스경영진,광주군공항현장점검…반도체클러스터협의구...",
-    "“금요일에샀는데…”주주환원삼전8%폭락이유",
-    "삼성전자·SK하이닉스,'150조'역대급주주환원…투자경쟁속재원배분...",
-    "삼성전자25만7000원마감…110조주주환원뒤8.70%급락",
-    "파기환송심결심공판향하는홍지호전SK케미칼대표",
-    "제주SK,포항잡고5위넘어상위권정조준",
-    "(2ndLD)Seoulstockscloseover3pctloweramidSamsung'sshareholder",
-    "SK증권,싱가포르Vizzio국내로드쇼주관…CEO·CSO방한",
-    "법정향하는홍지호전SK케미칼대표",
-    "광주군공항에온SK하이닉스경영진…반도체생산기지밑그림",
-    "[Telecom&Now]LGU+,글로벌화이트해커와보안'취약점'찾는다등",
     "110조주주환원에도SK하이닉스와비교당한삼성전자...투자동력안배...",
     "한투운용,삼성전자·SK하이닉스채권혼합ETF상장",
     "주주단체,삼전닉스성과급관련정부-기업‘뒷거래’의혹",
@@ -4034,10 +4023,21 @@
     "[현장]페라리첫전기차'루체'한국상륙…SK온·삼성디스플레이협업",
     "도심복합사업,2029년일몰연장…건설사새먹거리될까",
     "'기소·수사분리'눈앞…영장·수사오남용등재계도우려커진다",
-    "국내기업72%\"현데이터센터로AI대응한계\"…인프라현대화시급"
+    "국내기업72%\"현데이터센터로AI대응한계\"…인프라현대화시급",
+    "셀트리온,제약바이오K-브랜드지수1위…삼성바이오로직스2위",
+    "대기업이익늘어도중장기설비투자제자리…삼전닉스빼면11%↓",
+    "SKT전용‘갤럭시퀀텀7’나왔다…음성받아쓰기·번역AI탑재",
+    "SK스퀘어104만원,3.35%하락…SK하이닉스약세에동반조정",
+    "SK하이닉스임단협잠정합의안,50.1%반대로부결…성과급주식지급재...",
+    "자사주매각불확실에발목잡힌삼성전자…추가환원'딜레마'",
+    "WSJ\"韓'롤러코스피'에투자자들막대한손실\"",
+    "2030SK하닉·40대이상삼전‘픽’…고액자산가새로담은종목은?",
+    "수도권분양가1년새22%급등…‘가격경쟁력’내세운공공분양이...",
+    "이통3사,'모두의AI'격돌…통신넘어AI서비스경쟁",
+    "충청권예결위원들,종합결산질의통해지역현안등강조"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T14:10:22.743512+09:00"
+   "last_run": "2026-08-25T14:15:22.241212+09:00"
   }
  },
  "press_names": {
