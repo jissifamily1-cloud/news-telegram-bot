@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-26T02:05:21.178394+09:00",
-     "부결 재충돌 인상안 노조 놓고 성과급 임금 SK하이닉스"
-    ],
-    [
      "2026-08-26T02:10:23.207500+09:00",
      "설영우 입성 마침내 유럽 최고 풀백 역대 리그 4대 거듭난다"
     ],
@@ -562,14 +558,21 @@
     [
      "2026-08-26T08:05:16.803372+09:00",
      "열과의 돌파 HBM 본딩 HBM으로 SK하이닉스 하이브리드 전쟁"
+    ],
+    [
+     "2026-08-26T08:10:21.478020+09:00",
+     "반등 3분기 인상으로 전망 판가 롯데에너지머티"
+    ],
+    [
+     "2026-08-26T08:10:21.478020+09:00",
+     "숨고르기 동결 전망 금통위 기준금리 한은"
+    ],
+    [
+     "2026-08-26T08:10:21.478020+09:00",
+     "자체보다 엔비디아에 쏠린 실적 메시지 컨퍼런스콜"
     ]
    ],
    "seen_urls": [
-    "http://www.metroseoul.co.kr/article/20260825500194",
-    "http://www.4th.kr/news/articleView.html?idxno=2116819",
-    "https://www.thelec.kr/news/articleView.html?idxno=61307",
-    "https://www.newscj.com/news/articleView.html?idxno=3427505",
-    "https://www.mstoday.co.kr/news/articleView.html?idxno=102400",
     "https://www.segye.com/newsView/20260825507513?OutUrl=naver",
     "https://dealsite.co.kr/articles/167765",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608250434&t=NN",
@@ -2064,14 +2067,14 @@
     "https://www.insightkorea.co.kr/news/articleView.html?idxno=253146",
     "https://www.dailian.co.kr/news/view/1682338/?sc=Naver",
     "https://www.epnc.co.kr/news/articleView.html?idxno=406043",
-    "https://www.news1.kr/industry/general-industry/6269265"
+    "https://www.news1.kr/industry/general-industry/6269265",
+    "https://www.seoul.co.kr/news/international/2026/08/26/20260826500016?wlog_tag3=naver",
+    "https://news.tvchosun.com/site/data/html_dir/2026/08/26/2026082690027.html",
+    "https://www.etoday.co.kr/news/view/2618113",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=364201",
+    "https://www.yna.co.kr/view/AKR20260826019800009?input=1195m"
    ],
    "seen_titles": [
-    "삼성전자·SK하이닉스에달러자산까지…퇴직연금100%ETF상장",
-    "키움증권고액자산가1년새80.7%↑..20·30최다보유'SK하이닉스'",
-    "SK하이닉스임단협잠정합의안25표차이로부결",
-    "SK하이닉스임단협잠정합의안25표차부결…'성과급60%자사주'재협...",
-    "110조삼성vs40조하이닉스…주가가른'소각'",
     "‘빠질만큼빠졌어’…‘반도체3배’1조베팅나선서학개미들[수...",
     "[IT는지금]카카오브랜드메시지,발송비1원당5원매출효과外",
     "[속보]나스닥흔들려도…간큰개미들오히려'3배몰빵'",
@@ -3566,10 +3569,15 @@
     "AI存储设备有望成为SamsungElectronics未来核心收益来源",
     "배당쏘고,자사주태운다…판커지는주주환원",
     "위버스브레인,SKT와AI에이전트사업협력…AI튜터서비스공동개발",
-    "SK하이닉스,HBM'열과의전쟁'…하이브리드본딩·I-HBM으로돌파"
+    "SK하이닉스,HBM'열과의전쟁'…하이브리드본딩·I-HBM으로돌파",
+    "“세계서가장미친韓주식시장,공포의놀이기구됐다”…‘3배뛰고...",
+    "[키워드NOW]7억성과급부결",
+    "SK證\"롯데에너지머티,3분기판가인상으로반등전망\"",
+    "한은금통위,기준금리2.75%동결전망\"숨고르기\"",
+    "엔비디아에쏠린눈…\"실적자체보다컨퍼런스콜메시지\""
    ],
    "initialized": true,
-   "last_run": "2026-08-26T08:05:16.803372+09:00"
+   "last_run": "2026-08-26T08:10:21.478020+09:00"
   }
  },
  "press_names": {
