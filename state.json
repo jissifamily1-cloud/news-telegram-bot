@@ -1250,13 +1250,21 @@
     [
      "2026-08-25T19:10:26.802664+09:00",
      "합병 자회사 직접 전격 투자한다 배터리 분리막 SK이노"
+    ],
+    [
+     "2026-08-25T19:14:10.676618+09:00",
+     "국악방송 판소리 50년 연구 조명 발로 명예교수 최동현 군산대"
+    ],
+    [
+     "2026-08-25T19:14:10.676618+09:00",
+     "돌아온 농구 이현중 되살릴까"
+    ],
+    [
+     "2026-08-25T19:14:10.676618+09:00",
+     "증권사만 독식 단일종목 주장 레버리지 무리수"
     ]
    ],
    "seen_urls": [
-    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546816",
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2296396",
-    "https://biz.chosun.com/it-science/ict/2026/08/25/3PR7BAPPH5DVXEU45KH5SDAQCA/",
-    "https://news.mtn.co.kr/news-detail/2026082509082486717",
     "http://www.newsprime.co.kr/news/article.html?no=744966",
     "http://www.newscape.co.kr/news/articleView.html?idxno=124097",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608250359&t=NN",
@@ -2752,13 +2760,13 @@
     "https://www.gukjenews.com/news/articleView.html?idxno=3674517",
     "https://www.sedaily.com/article/20083248",
     "https://www.yna.co.kr/view/AKR20260825165600083?input=1195m",
-    "https://www.dt.co.kr/article/12080192"
+    "https://www.dt.co.kr/article/12080192",
+    "http://www.e-platform.net/news/articleView.html?idxno=104785",
+    "http://www.beyondpost.co.kr/view.php?ud=20260825190732485892e75d13a3_30",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260826.22015007299",
+    "http://www.00news.co.kr/news/articleView.html?idxno=106113"
    ],
    "seen_titles": [
-    "[속보]SK하이닉스,성과급60%주식지급합의안부결",
-    "SK하이닉스잠정합의안노조투표부결…반대50.1%",
-    "SKT,AI기능강화한‘갤럭시퀀텀7’출시…출고가71만7200원",
-    "삼전닉스채권혼합ETF반등…'SK하닉+샌디스크'상품도각광",
     "[카드]SK케미칼,스카이펠소재적용영역확대",
     "대기업호황에도설비투자'몸사리기'…'삼전·닉스'빼면11%줄어",
     "단25표로노조투표부결…SK하이닉스임단협재협상예고",
@@ -4254,10 +4262,14 @@
     "영종구,'영종5-6번'공영버스노선신설",
     "골드만“中첨단반도체공급격차10년내급감”",
     "中매체\"샤오미최신프로세서에CXMTLPDDR6탑재할것\"",
-    "SK이노,배터리분리막자회사전격합병…美에직접투자한다"
+    "SK이노,배터리분리막자회사전격합병…美에직접투자한다",
+    "반도체클러스터후보지청주,낮은전력자립률해소과제\"전문가'이구...",
+    "국악방송,최동현군산대명예교수'발로뛴50년판소리연구'조명…'...",
+    "돌아온이현중…韓농구되살릴까",
+    "[기자의눈]단일종목레버리지'증권사만독식'주장무리수"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T19:10:26.802664+09:00"
+   "last_run": "2026-08-25T19:14:10.676618+09:00"
   }
  },
  "press_names": {
