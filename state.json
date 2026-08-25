@@ -4,30 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-25T18:15:23.533491+09:00",
-     "리그 포항전 발표 무패 라인업 선발 도전 10경기 제주SK 연속"
-    ],
-    [
-     "2026-08-25T18:15:23.533491+09:00",
-     "하반기도 렌털업계 불황에 실적 기대 빌려쓴다 사고"
-    ],
-    [
-     "2026-08-25T18:15:23.533491+09:00",
-     "전쟁에 잇딴 무기 K방산 비상걸린 절호의 소진 미군 기회"
-    ],
-    [
-     "2026-08-25T18:15:23.533491+09:00",
-     "19개사와 씨엔티테크 논의 협업 지역 스타트업 중견기업"
-    ],
-    [
-     "2026-08-25T18:15:23.533491+09:00",
-     "NH투자증권 키움증권 현대차증권"
-    ],
-    [
-     "2026-08-25T18:15:23.533491+09:00",
-     "전약후강 6400선 롤러코스피 탈환 6700선 밀렸다"
-    ],
-    [
      "2026-08-25T18:20:25.589877+09:00",
      "합의안 생산직 하이닉스 노조 부결 잠정"
     ],
@@ -490,13 +466,13 @@
     [
      "2026-08-26T00:15:23.035652+09:00",
      "반도체 아이폰18 출격 보안까 애플 채비 앱스토어"
+    ],
+    [
+     "2026-08-26T00:20:23.903317+09:00",
+     "퀀텀7 초슬림 SKT 71만원대 IP68에 갤럭시 출시"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/bio/pharmaceutical-bio/6268490",
-    "https://www.seoul.co.kr/news/economy/industry/2026/08/25/20260825500053?wlog_tag3=naver",
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=609510",
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=810731",
     "https://www.topstarnews.net/news/articleView.html?idxno=16172734",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7180482",
     "https://www.etnews.com/20260825000117",
@@ -1992,13 +1968,13 @@
     "https://www.g-enews.com/view.php?ud=202608210847212733906806b77b_1",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3073144",
     "http://www.gjdream.com/news/articleView.html?idxno=672072",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=600496"
+    "https://www.cbci.co.kr/news/articleView.html?idxno=600496",
+    "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003932",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000006161&cp=nv",
+    "http://www.gjdream.com/news/articleView.html?idxno=672138",
+    "https://www.apnews.kr/news/articleView.html?idxno=3050684"
    ],
    "seen_titles": [
-    "셀트리온,제약·바이오브랜드지수1위…삼성바이오로직스2위",
-    "SK하이닉스임단협잠정합의안부결…50.1%반대",
-    "SK하이닉스임단협부결…노사두달협상'원점으로'",
-    "[이슈]SK하이닉스노사,임단협잠정안부결…찬반25표초박빙차이로...",
     "SK하이닉스주가,8월25일장중1,580,000원약세전환",
     "SK하이닉스노사,다시협상테이블로…임단협잠정합의안부결",
     "충북도,'청주반도체클러스터'지정총력…산·학·연추진전략결집",
@@ -3494,10 +3470,14 @@
     "[김대호진단]반도체열전(47)텍사스TI...실리콘밸리사관학교",
     "[잡채기칼럼]'100조+α'의경제논리",
     "[기고]군공항반도체,낙관론만으론성공할수없다",
-    "[기업家]애플②ㅣ아이폰18출격채비…AI·반도체·앱스토어·보안까..."
+    "[기업家]애플②ㅣ아이폰18출격채비…AI·반도체·앱스토어·보안까...",
+    "[SPO현장]'조기우승+재계약'진행시킬까...김기동감독,허창수회장...",
+    "엔비디아·잭슨홀·금통위앞두고韓증시시험대",
+    "호남반도체클러스터'시동'…범시민추진위출범",
+    "SKT,71만원대'갤럭시퀀텀7'출시…AI·IP68에6.9㎜초슬림"
    ],
    "initialized": true,
-   "last_run": "2026-08-26T00:15:23.035652+09:00"
+   "last_run": "2026-08-26T00:20:23.903317+09:00"
   }
  },
  "press_names": {
