@@ -1125,10 +1125,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.segyebiz.com/newsView/20260825505001?OutUrl=naver",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=663041",
-    "https://www.newspim.com/news/view/20260825000279",
-    "https://www.nextdaily.co.kr/news/articleView.html?idxno=252443",
     "https://news.mtn.co.kr/news-detail/2026082509465486479",
     "http://www.breaknews.com/1231218",
     "https://www.sedaily.com/article/20082877",
@@ -2624,13 +2620,13 @@
     "https://www.businesspost.co.kr/BP?command=article_view&num=445595",
     "http://www.e-platform.net/news/articleView.html?idxno=104795",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=87893",
-    "http://web.ubc.co.kr/wp/archives/129620"
+    "http://web.ubc.co.kr/wp/archives/129620",
+    "http://www.inews24.com/view/1998220",
+    "https://www.dailian.co.kr/news/view/1682324/?sc=Naver",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2463051",
+    "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260825027&PRO_CODE=4"
    ],
    "seen_titles": [
-    "SK하이닉스임단협잠정합의안50.1%반대‘부결’",
-    "코스피,외인순매도에6480선급락",
-    "산업단지개발지역…배후주거지신규분양이어져",
-    "SKT,슬림디자인준플래그십단말'갤럭시퀀텀7'출시",
     "SK하이닉스임단협합의안25표차부결…'성과급자사주'발목",
     "대기업,CAPEX‘정체’..“역대급실적에도곳간만채웠다”",
     "SK바이오팜,美뇌전증신약경쟁심화에도…처방성장세견조[Why바이...",
@@ -4126,10 +4122,14 @@
     "[8월26일자]비즈니스포스트아침의주요기사",
     "SK이노,분리막사업내재화위해SKIET흡수합병",
     "SK이노베이션,SKIET흡수합병-분리막사업경쟁력강화",
-    "하반기채용시장기지개..키워드는'AI·실행력'"
+    "하반기채용시장기지개..키워드는'AI·실행력'",
+    "\"샤오미,창신메모리반도체탑재…거대기업과동등\"中매체",
+    "“韓증시는도박판이자카지노...세계에서가장미친주식시장”",
+    "청주반도체클러스터지정촉구국회세미나성황리개최",
+    "청주반도체클러스터지정'사활'..세미나열고전략모색"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T20:55:20.128027+09:00"
+   "last_run": "2026-08-25T20:59:47.179407+09:00"
   }
  },
  "press_names": {
