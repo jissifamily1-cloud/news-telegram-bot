@@ -198,12 +198,21 @@
     [
      "2026-08-26T05:50:22.884517+09:00",
      "코어에 서버 단일 통합 생태계 폐쇄형 IBM 아키텍처 2개 확장"
+    ],
+    [
+     "2026-08-26T05:55:18.104181+09:00",
+     "엔비디아 3대 앞두고 실적 증시"
+    ],
+    [
+     "2026-08-26T05:55:18.104181+09:00",
+     "산업이 불붙인 영업이익 멈췄다 삼전닉스가"
+    ],
+    [
+     "2026-08-26T05:55:18.104181+09:00",
+     "AMD 격돌에 공급망 분산 에이전틱 HBM 급증 패키징"
     ]
    ],
    "seen_urls": [
-    "http://www.seouleconews.com/news/articleView.html?idxno=93270",
-    "http://www.kdfnews.com/news/articleView.html?idxno=187013",
-    "http://www.finomy.com/news/articleView.html?idxno=259854",
     "https://www.cnbnews.com/news/articleView.html?idxno=1012670",
     "https://www.sentv.co.kr/article/view/sentv202608250055",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=609518",
@@ -1700,12 +1709,12 @@
     "https://www.mediapen.com/news/view/1118835",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608251040236830203",
     "http://www.yonhapnewstv.co.kr/news/MYH20260826054702PmB",
-    "https://www.g-enews.com/view.php?ud=202608260512147705fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202608260512147705fbbec65dfb_1",
+    "https://www.news2day.co.kr/article/20260825500036",
+    "https://www.sidae.com/article/2026082414283987379",
+    "https://www.g-enews.com/view.php?ud=20260826054652323fbbec65dfb_1"
    ],
    "seen_titles": [
-    "SK닉스,'성과급60%자사주'임금안25표차부결…재협상2대해법은",
-    "SK하이닉스임단협잠정합의안부결…찬반단25표차",
-    "코스피,美반도체주약세에2%↓···6500선후퇴",
     "국립부경대-SKAX,인공지능·디지털전환인재양성업무협약",
     "셀트리온·삼성바이오,K-브랜드지수제약·바이오1·2위격돌",
     "삼전닉스동반급락…외국인'팔자'에4%·6%↓",
@@ -3202,10 +3211,13 @@
     "[美증시]국채금리·유가하락에3대지수동반상승…반도체·제약주주...",
     "[맞수]K-반도체,미국서2막연다…‘삼성은전공정·SK는후공정’",
     "SK하이닉스성과급'60%주식'25표차부결…재협상불가피",
-    "단일코어에2개아키텍처통합…IBM폐쇄형서버생태계확장"
+    "단일코어에2개아키텍처통합…IBM폐쇄형서버생태계확장",
+    "[N2모닝경제브리핑-8월26일]美증시,엔비디아실적앞두고3대지...",
+    "삼전닉스가불붙인'영업이익N%'에전산업이멈췄다",
+    "에이전틱AI격돌에AMD패키징급증…HBM공급망분산"
    ],
    "initialized": true,
-   "last_run": "2026-08-26T05:50:22.884517+09:00"
+   "last_run": "2026-08-26T05:55:18.104181+09:00"
   }
  },
  "press_names": {
