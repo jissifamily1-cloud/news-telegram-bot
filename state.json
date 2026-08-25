@@ -1178,15 +1178,13 @@
     [
      "2026-08-25T11:45:22.351131+09:00",
      "다시 스마트폰 쓴다 AIDC 대신 성장공식"
+    ],
+    [
+     "2026-08-25T11:50:21.700033+09:00",
+     "나노팀 급등세 주가"
     ]
    ],
    "seen_urls": [
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=851302",
-    "http://www.metroseoul.co.kr/article/20260824500410",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=445448",
-    "https://www.ziksir.com/news/articleView.html?idxno=144113",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4431510",
-    "https://www.cnbnews.com/news/articleView.html?idxno=1012541",
     "http://news.lghellovision.net/news/articleView.html?idxno=552137",
     "https://www.namdonews.com/news/articleView.html?idxno=920917",
     "https://gamefocus.co.kr/detail.php?number=178507",
@@ -2680,15 +2678,15 @@
     "https://biz.sbs.co.kr/article_hub/20000330584?division=NAVER",
     "http://www.lawissue.co.kr/view.php?ud=20260825114220797567191f6c6e_12",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480323",
-    "https://www.bloter.net/news/articleView.html?idxno=671713"
+    "https://www.bloter.net/news/articleView.html?idxno=671713",
+    "http://www.cctimes.kr/news/articleView.html?idxno=923364",
+    "https://www.m-economynews.com/news/article.html?no=70085",
+    "http://www.newsprime.co.kr/news/article.html?no=745005",
+    "https://www.viva100.com/article/20260825500626",
+    "http://www.newsprime.co.kr/news/article.html?no=745004",
+    "https://www.ggilbo.com/news/articleView.html?idxno=1177338"
    ],
    "seen_titles": [
-    "삼성전자급락에그룹주도'출렁'…코스피6700선이탈[fn마감시황]",
-    "삼전9%급락에맥못춘코스피,6600선'턱걸이'…코스닥은상승마감",
-    "외인3.7조순매도에도'원화강세'…달러·원1376원까지하락(종합)",
-    "코스피,외인'팔자'에6700선밑으로…'25만전자'로뚝[마감시황]",
-    "삼전닉스150조원주주환원…달러풀려환율더내려갈까",
-    "주주환원도못살린삼전닉스,‘반등열쇠’는엔비디아2분기실적",
     "[통신풍향계]SKT-서울대'AI공동과정'개설·KT'AX플랫폼컴퍼니'강...",
     "전남광주통합특별시,SK하이닉스의광주군공항현장직접방문…호남권...",
     "AI데이터센터에조단위공격투자나선통신3사,엔비디아AI서버값인...",
@@ -4182,10 +4180,16 @@
     "이시각주요뉴스",
     "포스코이앤씨,느티마을4단지리모델링‘더샵분당하이스트’9월분양",
     "KB자산운용,'RISE삼성전자SK하이닉스채권혼합50ETF'4조돌파",
-    "[낸드리부트]①스마트폰대신AIDC…성장공식다시쓴다"
+    "[낸드리부트]①스마트폰대신AIDC…성장공식다시쓴다",
+    "SK하이닉스임단협잠정합의안부결…노사재협상",
+    "코스피,뉴욕기술주급락에장중1~2%대하락…장중낙폭은다소축소",
+    "SK하이닉스임단협잠정합의안부결…단25표차",
+    "SK하이닉스,임단협잠정합의안25표차부결⋯노사,다시협상테이블로",
+    "[카드]'정자역품은1149가구'더샵분당하이스트,리모델링으로새단...",
+    "나노팀주가,급등세...왜?"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T11:45:22.351131+09:00"
+   "last_run": "2026-08-25T11:50:21.700033+09:00"
   }
  },
  "press_names": {
