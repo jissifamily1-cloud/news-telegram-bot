@@ -290,14 +290,21 @@
     [
      "2026-08-26T06:15:24.528180+09:00",
      "엔비디아 에도 삼전닉스 어닝서프 4번 떨게 빠졌다 주가는 연속"
+    ],
+    [
+     "2026-08-26T06:20:22.608747+09:00",
+     "연쇄 투자 호남 조율 총수들과 재계 회동 반도체 새만금 대통령"
+    ],
+    [
+     "2026-08-26T06:20:22.608747+09:00",
+     "만에 분리막 SK이노 품는다 다시 재무 통합 5년 사업 SKIET"
+    ],
+    [
+     "2026-08-26T06:20:22.608747+09:00",
+     "동시 퀵커머스 승부수 스마슈 본업 똑똑 리뉴얼 이마트 출점"
     ]
    ],
    "seen_urls": [
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=663057",
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=810736",
-    "https://www.fnnews.com/news/202608251016286306",
-    "http://www.4th.kr/news/articleView.html?idxno=2116814",
-    "https://www.kukinews.com/article/view/kuk202608250060",
     "https://www.mk.co.kr/article/12135490",
     "https://www.youthdaily.co.kr/news/article.html?no=225646",
     "https://www.newsway.co.kr/news/view?ud=2026082510170685730",
@@ -1792,14 +1799,14 @@
     "https://www.bntnews.co.kr/article/view/bnt202608260006",
     "https://www.mk.co.kr/article/12136319",
     "https://www.sidae.com/article/2026082514373784544",
-    "https://www.fnnews.com/news/202608251517255057"
+    "https://www.fnnews.com/news/202608251517255057",
+    "https://www.seoul.co.kr/news/economy/2026/08/26/20260826500010?wlog_tag3=naver",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=5983",
+    "https://biz.sbs.co.kr/article_hub/20000330747?division=NAVER",
+    "https://www.insight.co.kr/news/570064",
+    "https://www.sedaily.com/article/20083238"
    ],
    "seen_titles": [
-    "KB운용반도체채권혼합ETF,순자산4조돌파…국내최대",
-    "[오늘증시]엔비디아실적앞'살얼음판'…코스피6500선·코스닥800선↓",
-    "삼전닉스에美국채까지…퇴직연금100%투자ETF나왔다",
-    "SK하이닉스임단협25표차부결..'성과급60%자사주'제동",
-    "SK하이닉스임단협잠정합의안‘부결’…노조반대50.08%",
     "SKhynixunionrejectstentativewagedealbynarrowmargin",
     "'25표차'로꺾인타결안…SK하이닉스노사\"원점재협상\"",
     "25표차부결SK하이닉스임단협…재교섭장기전가나",
@@ -3294,10 +3301,15 @@
     "KIA이호연,끝내기만루포KBO최초기록",
     "“죽다겨우살아났는데”…개미들27·28일주식창만봐야하는이유",
     "TV판도흔든중국식굴기,메모리서삼성·SK겨눈다",
-    "4번연속'어닝서프'에도주가는빠졌다…삼전닉스떨게한엔비디아[증..."
+    "4번연속'어닝서프'에도주가는빠졌다…삼전닉스떨게한엔비디아[증...",
+    "[서울데이터랩]미국증시,기술주강세에일제히상승마감",
+    "[뉴욕증시마감시황]국채금리하락·반도체반등에뉴욕증시동반상승...",
+    "李대통령,재계총수들과연쇄회동…호남반도체·새만금투자조율",
+    "SK이노,SKIET5년만에다시품는다...분리막재무·사업통합",
+    "출점·퀵커머스·리뉴얼동시추진…이마트,본업승부수[똑똑!스마슈..."
    ],
    "initialized": true,
-   "last_run": "2026-08-26T06:15:24.528180+09:00"
+   "last_run": "2026-08-26T06:20:22.608747+09:00"
   }
  },
  "press_names": {
