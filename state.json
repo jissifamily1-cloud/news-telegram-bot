@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-25T09:50:22.730326+09:00",
-     "임협 연봉 현대차 4084만원씩 111일만 타결 노사 오른다"
-    ],
-    [
-     "2026-08-25T09:50:22.730326+09:00",
-     "물꼬 우즈베키스탄 농산물 수출 확대 제주산"
-    ],
-    [
      "2026-08-25T09:55:17.765227+09:00",
      "곳간만 대기업 CAPEX 정체 채웠다 역대급 실적에도"
     ],
@@ -1042,13 +1034,13 @@
     [
      "2026-08-25T15:45:23.081501+09:00",
      "서울대 다시 10년 만에 손잡았다 SK텔레콤"
+    ],
+    [
+     "2026-08-25T15:50:24.776986+09:00",
+     "특별한 발달장애 만든 골퍼와 대회 프로가 SKT가"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/local/gwangju-jeonnam/6267988",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1398630",
-    "https://www.energy-news.co.kr/news/articleView.html?idxno=227615",
-    "https://www.seoultimes.news/news/article.html?no=2000099097",
     "http://www.paxetv.com/news/articleView.html?idxno=280128",
     "https://biz.sbs.co.kr/article_hub/20000330462?division=NAVER",
     "http://www.4th.kr/news/articleView.html?idxno=2116794",
@@ -2544,13 +2536,13 @@
     "https://www.newsway.co.kr/news/view?ud=2026082514173264576",
     "https://www.newsis.com/view/NISX20260825_0003761903",
     "https://en.yna.co.kr/view/AEN20260825008600320?input=2106m",
-    "https://www.cwn.kr/news/articleView.html?idxno=54074"
+    "https://www.cwn.kr/news/articleView.html?idxno=54074",
+    "https://www.dt.co.kr/article/12080107",
+    "https://www.munhwa.com/article/11611956",
+    "https://www.fnnews.com/news/202608251540100450",
+    "https://www.hankyung.com/article/202608251715g"
    ],
    "seen_titles": [
-    "[연합뉴스이시각헤드라인]-18:00",
-    "초호황기입증된'삼전닉스',호재넘치는데주가는왜?",
-    "주주환원발표에하이닉스는↑삼성은↓...이유는?",
-    "호남반도체팹확대구체화기대한다",
     "삼전역대급주주환원에도'실망매물'출회…\"대형주쏠림심화에한국...",
     "반도체주하락하자또3배레버리지베팅…메모리주비중확대[서학픽]",
     "\"호남반도체팹결국9기까지갈것\"…정치권도'확장론'전망",
@@ -4046,10 +4038,14 @@
     "캐즘끝나니나온'한국판IRA'…위기때힘쓰는제도되려면[기자수첩...",
     "'호남반도체산단마중물'용수인프라사업예타면제",
     "KOSPI200ClosingPriceList-5",
-    "SK텔레콤·서울대,10년만에다시손잡았다"
+    "SK텔레콤·서울대,10년만에다시손잡았다",
+    "정부,서남권반도체6조지원…26개사업예타면제추진",
+    "UNIST,최첨단스마트강의실‘넥서스홀’개소…반도체인재양성거...",
+    "코스피6740선반등…외국인3.8조팔았지만기관·개인'받았다'[fn마감...",
+    "\"발달장애골퍼와프로가한팀\"…SKT가만든'특별한대회'"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T15:45:23.081501+09:00"
+   "last_run": "2026-08-25T15:50:24.776986+09:00"
   }
  },
  "press_names": {
