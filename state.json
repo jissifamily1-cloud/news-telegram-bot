@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-25T06:00:34.763126+09:00",
-     "경계에 금리 데일 엔비디아 증시 하락에도 혼조 국채 실적"
-    ],
-    [
-     "2026-08-25T06:00:34.763126+09:00",
-     "한국 반도체주 하락 ETF 미국"
-    ],
-    [
      "2026-08-25T06:05:18.492883+09:00",
      "SKT 삼성SDS 맞손 협력 서울대와"
     ],
@@ -1182,17 +1174,25 @@
     [
      "2026-08-25T11:55:16.099990+09:00",
      "하락 외국인 우위 반도체 매도 출발 투톱"
+    ],
+    [
+     "2026-08-25T12:00:35.141862+09:00",
+     "전망 27년 4조엔 반도체장비 급증 7월"
+    ],
+    [
+     "2026-08-25T12:00:35.141862+09:00",
+     "시험대 AI전력소모 K반도체 30배 도약 초격차 아낀 루빈 베라"
+    ],
+    [
+     "2026-08-25T12:00:35.141862+09:00",
+     "테크놀로지스 제시 청사진 성과 창출 포럼 비즈니스 성료"
+    ],
+    [
+     "2026-08-25T12:00:35.141862+09:00",
+     "지능 결정은 승부수 SK하이닉스 3D 풀링 GPU CXL 적층 메모리"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20082614",
-    "https://news.dealsitetv.com/articles/175106",
-    "https://www.dailian.co.kr/news/view/1681630/?sc=Naver",
-    "https://www.siminsori.com/news/articleView.html?idxno=401171",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480105",
-    "https://www.cstimes.com/news/articleView.html?idxno=717798",
-    "https://www.news1.kr/industry/auto-industry/6267722",
-    "https://www.ekn.kr/web/view.php?key=20260824027435733",
     "https://www.newspim.com/news/view/20260824000890",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=84892",
     "http://www.financialreview.co.kr/news/articleView.html?idxno=44350",
@@ -2684,17 +2684,17 @@
     "https://swtvnews.com/news/newsview.php?ncode=1065572083883374",
     "https://www.the-stock.kr/news/articleView.html?idxno=33231",
     "https://www.mt.co.kr/industry/2026/08/25/2026082510561339847",
-    "https://www.ytn.co.kr/_ln/0102_202608251146021687"
+    "https://www.ytn.co.kr/_ln/0102_202608251146021687",
+    "https://www.thepublic.kr/news/articleView.html?idxno=316068",
+    "https://www.news1.kr/industry/general-industry/6268553",
+    "https://www.ppss.kr/news/articleView.html?idxno=307153",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2276374",
+    "https://www.g-enews.com/view.php?ud=202608251156137430e7e8286d56_1",
+    "https://www.munhwa.com/article/11611882",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1721571",
+    "https://www.ddaily.co.kr/page/view/2026082511532277352"
    ],
    "seen_titles": [
-    "[마감시황]110조주주환원에도삼성전자8.7%급락마감",
-    "넥슨-제주SKFC'카트라이더러쉬플러스'협업이벤트종료",
-    "SK하이닉스,광주군공항점검…반도체클러스터가속화",
-    "SK텔레콤AICIC장유경상\"모두가쓰는'일상의AI'목표,종합AI역량...",
-    "[시황]코스피,6600선하락마감…삼전8.7%↓",
-    "코스피,삼성그룹주급락에3%대하락…6600선으후퇴",
-    "“속도전아닌전격전”SK하이닉스경영진,호남권반도체부지점검",
-    "SK하이닉스경영진,광주군공항전격방문…반도체클러스터'가속'",
     "삼성전자‘역대급돈보따리’효과無…코스피,6700선내줬다[시황]",
     "'첨단3지구A6블록제일풍경채'이달21일견본주택개관",
     "[거래소기관]삼성전자·SK하이닉스줄줄이매도...NAVER삼성SDI엘앤에...",
@@ -4186,10 +4186,18 @@
     "SK바이오팜,‘K-브랜드지수’제약·바이오부문톱10탈락…동아제약...",
     "[멜콘IPO]워트보다우위자신…보수적몸값자신감",
     "SK하이닉스노사합의안부결에역풍부나..현대차는극적타결",
-    "반도체투톱3%대하락출발...외국인매도우위"
+    "반도체투톱3%대하락출발...외국인매도우위",
+    "미래에셋운용,삼성전자·SK하이닉스·미국채담은혼합ETF상장",
+    "'불과25표'SK하닉합의안부결…자사주비율놓고재협상전망",
+    "코스피,반도체주급락에장초반4%대급락…6,400선위협",
+    "SK케미칼·센스맘,'스카이펠'침구내장재시장확대",
+    "日반도체장비7월35%급증…27년7.4조엔전망",
+    "AI전력소모30배아낀‘베라루빈’…K반도체초격차도약시험대",
+    "델테크놀로지스,'포럼2026'성료…AI비즈니스성과창출청사진제시",
+    "\"GPU지능결정은메모리\"…SK하이닉스,3D적층·CXL풀링승부수"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T11:55:16.099990+09:00"
+   "last_run": "2026-08-25T12:00:35.141862+09:00"
   }
  },
  "press_names": {
