@@ -270,11 +270,17 @@
     [
      "2026-08-26T06:05:18.783108+09:00",
      "해커 네이버 잡는 3파전 SKT 예상 방패 LG 만든다"
+    ],
+    [
+     "2026-08-26T06:10:24.358290+09:00",
+     "방안 대통령 경찰개혁 마련하라 국세청"
+    ],
+    [
+     "2026-08-26T06:10:24.358290+09:00",
+     "사고 이긴 쪽이 통신사 해킹 없앤 증거를"
     ]
    ],
    "seen_urls": [
-    "https://www.newstnt.com/news/articleView.html?idxno=715088",
-    "https://www.businessplus.kr/news/articleView.html?idxno=115877",
     "https://www.topstarnews.net/news/articleView.html?idxno=16172784",
     "http://tbs.seoul.kr/news/newsView.do?typ_800=1&idx_800=3538055&seq_800=20530947",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1721536",
@@ -1772,11 +1778,11 @@
     "https://biz.chosun.com/stock/market_trend/2026/08/26/R6KUSH2MXREAPKS2Q2Y3B7ANHQ/",
     "https://www.hankyung.com/article/2026082522511",
     "https://biz.chosun.com/it-science/ict/2026/08/26/33MFXT4A6BEHBPT2SIRMV2WNTY/",
-    "https://www.newsis.com/view/NISX20260825_0003762287"
+    "https://www.newsis.com/view/NISX20260825_0003762287",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=851486",
+    "https://www.sidae.com/article/2026082510160329099"
    ],
    "seen_titles": [
-    "SKT·KT·LGU+,AI·구독·인재경쟁…통신3사고객·사업경쟁력강화",
-    "SKT,70만원대AI폰'갤럭시퀀텀7'출시…6.9㎜슬림디자인",
     "SK텔레콤주가,8월25일장중101,000원1.27%하락",
     "SK하이닉스임단협잠정합의안부결…재협상돌입",
     "삼성·SK호남팹'인재수혈'빨라진다…GIST도가세,R&D허브구축",
@@ -3274,10 +3280,12 @@
     "SK하닉결단만나오면...스톤브릿지,노종원전사장과솔리다임공동...",
     "ETF성장의역설…사라진장기투자자",
     "韓D램1㎏가치,금620g맞먹어…“메모리공급부족더심해진다”",
-    "'AI해커'잡는'AI방패'만든다…SKT·네이버·LG'3파전'예상"
+    "'AI해커'잡는'AI방패'만든다…SKT·네이버·LG'3파전'예상",
+    "[출근길브리핑-8월26일]李대통령\"경찰개혁방안마련하라\"·국세청...",
+    "[시대데스크]증거를없앤쪽이이긴통신사해킹사고"
    ],
    "initialized": true,
-   "last_run": "2026-08-26T06:05:18.783108+09:00"
+   "last_run": "2026-08-26T06:10:24.358290+09:00"
   }
  },
  "press_names": {
