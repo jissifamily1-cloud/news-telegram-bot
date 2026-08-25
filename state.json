@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-26T00:40:25.192708+09:00",
-     "출렁이는 자금 증시 몰려 지수형 미국 ETF에"
-    ],
-    [
      "2026-08-26T01:10:23.349418+09:00",
      "끝나지 경쟁 유력했는데 신인왕 않은 허인서"
     ],
@@ -322,14 +318,21 @@
     [
      "2026-08-26T06:40:21.366076+09:00",
      "전망 08달러 919억달러 EPS 27일 실적발표 매출 엔비디아"
+    ],
+    [
+     "2026-08-26T06:45:22.844992+09:00",
+     "시행사 뒤쫓아 8월 DK아시아 1위 BS산업 신영"
+    ],
+    [
+     "2026-08-26T06:45:22.844992+09:00",
+     "전가 대란 인상 기기값 아마존 메모리 소비자"
+    ],
+    [
+     "2026-08-26T06:45:22.844992+09:00",
+     "다우 만에 뉴욕증시 8일 나스닥 엔비디아 반등"
     ]
    ],
    "seen_urls": [
-    "https://www.getnews.co.kr/news/articleView.html?idxno=878766",
-    "https://www.imaeil.com/page/view/2026082510374545319",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=445504",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=445503",
-    "http://www.press9.kr/news/articleView.html?idxno=81610",
     "https://it.chosun.com/news/articleView.html?idxno=2023092168761",
     "https://biz.chosun.com/it-science/ict/2026/08/25/5TWGFWLI2JH37KJZHLVRCL6LAI/",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=207070",
@@ -1824,14 +1827,14 @@
     "https://www.hankyung.com/article/2026082519186",
     "https://www.g-enews.com/view.php?ud=202608260558505880fbbec65dfb_1",
     "https://ic.newdaily.co.kr/site/data/html/2026/08/26/2026082600005.html",
-    "https://www.bntnews.co.kr/article/view/bnt202608260009"
+    "https://www.bntnews.co.kr/article/view/bnt202608260009",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1721666",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=53687",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=53692",
+    "https://www.g-enews.com/view.php?ud=202608260628512012fbbec65dfb_1",
+    "https://www.bntnews.co.kr/article/view/bnt202608260010"
    ],
    "seen_titles": [
-    "증권가\"삼전자사주소각여력은최대20조원추정\"",
-    "[여의도단신]LS증권·미래에셋자산운용·KB자산운용",
-    "KT'모두의AI'풀스택전략가동,국산NPU부터AI모델·클라우드까지...",
-    "미국투자기관SK하이닉스ADR목표가220달러로상향,'40조자사주매...",
-    "SK텔링크,인마샛과손잡고차세대해상통신서비스도입확대",
     "SK하이닉스임단협잠정합의안부결…재협상예고",
     "‘성과급60%자사주’SK하이닉스임단협잠정안부결…25표차",
     "SK케미칼,편안한잠자리소재확대…센스맘과협업",
@@ -3326,10 +3329,15 @@
     "\"하이닉스레버리지투자해69%손실\"…'공포의롤러코스피'조명",
     "美,韓반도체에메모리공장촉구…800조원한국투자속딜레마",
     "영종구학생맞춤형공영버스‘영종5-6번’신설…학생통학불편해소",
-    "엔비디아,27일실적발표…EPS2.08달러·매출919억달러전망"
+    "엔비디아,27일실적발표…EPS2.08달러·매출919억달러전망",
+    "샌프란시스코서밋한달만에…李대통령,재계총수와AI투자현안조율...",
+    "[이넷뉴스브랜드평판]삼성중공업,액화천연가스LNG상장기업8월1위...",
+    "[브랜드평판]DK아시아,시행사8월1위...BS산업,신영뒤쫓아",
+    "아마존,기기값최대60%인상…메모리대란소비자전가",
+    "뉴욕증시다우0.30%·나스닥0.66%↑…엔비디아8일만에반등"
    ],
    "initialized": true,
-   "last_run": "2026-08-26T06:40:21.366076+09:00"
+   "last_run": "2026-08-26T06:45:22.844992+09:00"
   }
  },
  "press_names": {
