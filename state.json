@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-25T13:15:20.535773+09:00",
-     "수시 기업들의 인재로 트렌드 맞춤형 달라진 채용 보편화"
-    ],
-    [
      "2026-08-25T13:20:20.756177+09:00",
      "Renewable GW Energy by Korea of Targets"
     ],
@@ -1262,11 +1258,13 @@
     [
      "2026-08-25T19:14:10.676618+09:00",
      "증권사만 독식 단일종목 주장 레버리지 무리수"
+    ],
+    [
+     "2026-08-25T19:15:23.222940+09:00",
+     "IE with Innovation Technology Merges"
     ]
    ],
    "seen_urls": [
-    "http://www.newsprime.co.kr/news/article.html?no=744966",
-    "http://www.newscape.co.kr/news/articleView.html?idxno=124097",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608250359&t=NN",
     "https://www.ziksir.com/news/articleView.html?idxno=144168",
     "https://www.sentv.co.kr/article/view/sentv202608250032",
@@ -2764,11 +2762,11 @@
     "http://www.e-platform.net/news/articleView.html?idxno=104785",
     "http://www.beyondpost.co.kr/view.php?ud=20260825190732485892e75d13a3_30",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260826.22015007299",
-    "http://www.00news.co.kr/news/articleView.html?idxno=106113"
+    "http://www.00news.co.kr/news/articleView.html?idxno=106113",
+    "http://www.jndn.com/article.php?aid=1787652605438447001",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275505"
    ],
    "seen_titles": [
-    "[카드]SK케미칼,스카이펠소재적용영역확대",
-    "대기업호황에도설비투자'몸사리기'…'삼전·닉스'빼면11%줄어",
     "단25표로노조투표부결…SK하이닉스임단협재협상예고",
     "미래에셋운용,삼성전자·SK하이닉스에미국단기국채더한ETF상장",
     "AI더하고무게는줄였다…SKT,‘갤럭시퀀텀7’단독출시",
@@ -4266,10 +4264,12 @@
     "반도체클러스터후보지청주,낮은전력자립률해소과제\"전문가'이구...",
     "국악방송,최동현군산대명예교수'발로뛴50년판소리연구'조명…'...",
     "돌아온이현중…韓농구되살릴까",
-    "[기자의눈]단일종목레버리지'증권사만독식'주장무리수"
+    "[기자의눈]단일종목레버리지'증권사만독식'주장무리수",
+    "호남반도체핵심기반전력·용수인프라사업예타면제",
+    "SKInnovationMergeswithSKIETechnology"
    ],
    "initialized": true,
-   "last_run": "2026-08-25T19:14:10.676618+09:00"
+   "last_run": "2026-08-25T19:15:23.222940+09:00"
   }
  },
  "press_names": {
