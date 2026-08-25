@@ -585,8 +585,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2617860",
-    "https://www.segye.com/newsView/20260825503181?OutUrl=naver",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=316672",
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553483669",
     "https://www.newsworker.co.kr/news/articleView.html?idxno=500675",
@@ -2084,11 +2082,11 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4431777",
     "https://www.kbmaeil.com/article/20260826500020",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608210210430260106766",
-    "https://www.newspim.com/news/view/20260826000047"
+    "https://www.newspim.com/news/view/20260826000047",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=272070",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=272069"
    ],
    "seen_titles": [
-    "‘원화독존’…달러화뿐아닌주요선진국통화대비강세",
-    "성균관대권석준교수②“한국은국가안보관련AI국내통제권갖춰...",
     "\"상반기4대그룹은AX였다\"···AI가공장·인사까지",
     "[공식발표]'강인권수석·박경수타격·최태원작전'아시안게임나서...",
     "[뉴스워커_SKT]전용스마트폰'갤럭시퀀텀7'출시…출고가71만7200원",
@@ -3586,10 +3584,12 @@
     "[카카오인적분할②]투자사로남는카카오X…6.4조로성장동력찾기",
     "美반도체훈풍에코스피추가반등시동…엔비디아실적‘분수령’",
     "[더벨][재무전략분석]40조태워40조조달…SK하이닉스바이백에숨은...",
-    "[모닝리포트]\"금리하락에국내증시상승전망…회복탄력성주목\""
+    "[모닝리포트]\"금리하락에국내증시상승전망…회복탄력성주목\"",
+    "SK증권\"롯데에너지머티리얼즈,3분기판가인상으로반등여력\"",
+    "이대통령,이재용·정의선연쇄회동'임박'…3대메가프로젝트'드라이..."
    ],
    "initialized": true,
-   "last_run": "2026-08-26T08:20:21.942025+09:00"
+   "last_run": "2026-08-26T08:21:09.058383+09:00"
   }
  },
  "press_names": {
