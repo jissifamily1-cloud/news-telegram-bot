@@ -457,11 +457,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=266005",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=272152",
-    "https://www.dailypharm.com/user/news/341761?REFERER=NP",
-    "https://www.wikitree.co.kr/articles/1155055",
-    "https://www.biospectator.com/view/news_view.php?varAtcId=29652",
     "http://www.globalepic.co.kr/view.php?ud=20260826120454103048439a4874_29",
     "https://www.koreatimes.co.kr/path/A2026081913070002192",
     "https://en.yna.co.kr/view/AEN20260826004500320?input=2106m",
@@ -1956,14 +1951,14 @@
     "https://www.techm.kr/news/articleView.html?idxno=154655",
     "https://www.newspim.com/news/view/20260827000046",
     "http://www.bizwnews.com/news/articleView.html?idxno=144353",
-    "https://www.munhwa.com/article/11612376"
+    "https://www.munhwa.com/article/11612376",
+    "https://www.etoday.co.kr/news/view/2618616",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=443389",
+    "https://biz.heraldcorp.com/article/10853477",
+    "https://www.gosiweek.com/article/1065565870337789",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6847657_37012.html"
    ],
    "seen_titles": [
-    "이재명대통령,국내경제총수들과의연쇄회동…AI전략협력주목",
-    "“증시흔드는AI데이터센터역풍”…美중간선거변수,한국도닥칠까...",
-    "SK이노베이션,SKIET품고비용600억원줄인다…2년내흑자전환목표",
-    "리츠2026년8월브랜드평판...SK리츠,롯데리츠,신한알파리츠順",
-    "SK바이오팜,1.1조투자해'뇌전증신약후보물질'도입",
     "SK이노베이션\"합병시너지,연간600억원효과…2년내흑자전환\"",
     "레볼레이드빈틈노린제네릭...오리지널없는고용량등재",
     "현역은퇴한김연경,'깜짝근황'전하며제2의배구인생시작한다",
@@ -3458,10 +3453,15 @@
     "젠슨황엔비디아CEO\"내년매출전년비70%↑...메모리급등,수익성...",
     "中장강메모리,삼성·SK하이닉스낸드아성에도전장",
     "한화자산운용,'PLUS글로벌HBM반도체'해외주식형4관왕",
-    "박현주회장“주주환원은허접한얘기…배당안해야회사좋아져”"
+    "박현주회장“주주환원은허접한얘기…배당안해야회사좋아져”",
+    "하나\"SK이노베이션,SKIET소규모합병⋯지분희석보다자금부담우려...",
+    "용인특례시,국지도57호선(원삼~마평)개량사업예비타당성조사통과",
+    "SK가스,SK어드밴스드합병…프로판·프로필렌통합밸류체인구축",
+    "하반기취업시장은?...현대차92개공고·LG전자·SK텔레콤신입채용",
+    "엔비디아실적앞뒀던뉴욕증시약보합마감‥나스닥0.08%↓"
    ],
    "initialized": true,
-   "last_run": "2026-08-27T07:45:22.801464+09:00"
+   "last_run": "2026-08-27T07:50:21.685553+09:00"
   }
  },
  "press_names": {
