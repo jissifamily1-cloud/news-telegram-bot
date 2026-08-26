@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-26T12:10:24.108324+09:00",
-     "변수 데이터센터 흔드는 증시 중간선거 닥칠까 한국도 역풍"
-    ],
-    [
      "2026-08-26T12:15:22.043060+09:00",
      "노린 등재 오리지널 레볼레이드 없는 제네릭 고용량 빈틈"
     ],
@@ -1230,21 +1226,25 @@
     [
      "2026-08-26T18:10:23.673033+09:00",
      "고유가에 낮췄다 경유 HD현대오일뱅크 500억 계약주유소 지원 50원"
+    ],
+    [
+     "2026-08-26T18:15:20.791541+09:00",
+     "종목 자금조달 코스닥 특정 산다 쏠림에 키워야 유동성 약화"
+    ],
+    [
+     "2026-08-26T18:15:20.791541+09:00",
+     "종목 52조 거래대금 증시에 시총 상위 급감 왜곡된"
+    ],
+    [
+     "2026-08-26T18:15:20.791541+09:00",
+     "경남FC 아시아 U18 진주고 맞대결 강호와"
+    ],
+    [
+     "2026-08-26T18:15:20.791541+09:00",
+     "SK어드밴스드 기회 공급과잉에 성장 흡수합병 SK가스에 흔들린"
     ]
    ],
    "seen_urls": [
-    "https://www.news2day.co.kr/article/20260826500096",
-    "https://www.newspost.kr/news/articleView.html?idxno=225198",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16173678",
-    "https://www.news1.kr/industry/general-industry/6269648",
-    "https://www.sedaily.com/article/20083369",
-    "https://biz.heraldcorp.com/article/10852342",
-    "https://www.pressman.kr/news/articleView.html?idxno=103342",
-    "https://www.ajunews.com/view/20260826094501735",
-    "https://www.ekn.kr/web/view.php?key=20260826026566621",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480585",
-    "https://newscham.net/articles/117107",
-    "https://www.geconomy.co.kr/news/article.html?no=323076",
     "https://zdnet.co.kr/view/?no=20260826095136",
     "https://www.s-journal.co.kr/news/articleView.html?idxno=43265",
     "https://www.ajunews.com/view/20260826094324721",
@@ -2732,21 +2732,21 @@
     "https://www.sedaily.com/article/20083701",
     "https://www.edaily.co.kr/News/Read?newsId=04657606645551256&mediaCodeNo=257",
     "https://www.pennmike.com/news/articleView.html?idxno=126498",
-    "https://www.insight.co.kr/news/570265"
+    "https://www.insight.co.kr/news/570265",
+    "https://www.fnnews.com/news/202608261812257916",
+    "https://www.fnnews.com/news/202608261812046758",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275576",
+    "https://www.fnnews.com/news/202608261809283902",
+    "http://www.newstomato.com/ReadNews.aspx?no=1311569&inflow=N",
+    "http://www.newstomato.com/ReadNews.aspx?no=1311574&inflow=N",
+    "https://biz.sbs.co.kr/article_hub/20000330948?division=NAVER",
+    "https://www.delighti.co.kr/news/articleView.html?idxno=120806",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260826010008838",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260826010008813",
+    "https://www.idomin.com/news/articleView.html?idxno=2013283",
+    "https://www.seoul.co.kr/news/economy/industry/2026/08/26/20260826500280?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "'퍼주는회사·더달라는노조'…SK하이닉스,노사합의안부결'파장'",
-    "美국채금리하락에안도…코스피강세,6800선회복",
-    "미반도체발훈풍에삼전닉스상승...코스피는보합",
-    "두산'안방마님'양의지가포수로이뤄낸불가능한기록",
-    "\"이르면이달중결정·발표\"…전남광주vs경북,의대는어디에",
-    "SK인텔릭스'나무엑스',IR52장영실상수상…세계최초웰니스로봇기...",
-    "[개장시황]\"美국채금리하락에안도\"…코스피,6800선회복",
-    "[공시Pick]SK이노베이션,SKIET흡수합병에10%대주가급락",
-    "SKAX,SAP와협력강화…'AI네이티브엔터프라이즈'구현",
-    "SK하이닉스주가,8월26일장중1,688,000원0.60%상승",
-    "공기질·건강관리한번에…SK인텔릭스'나무엑스'IR52장영실상수상",
-    "SK인텔릭스,웰니스로봇나무엑스‘IR52장영실상’수상",
     "갈길잃은코스피…美반도체주반등에도6700선보합[투자360]",
     "'움직이는AI집사'나무엑스,장영실상품었다",
     "[특징주]흡수합병결정에SK이노베이션14%급락…SKIET5%↑",
@@ -4234,10 +4234,22 @@
     "“얼마나담을까보다어떻게나눌까…변동장에자산가투자법달라져”",
     "파나마운하빨리통과하는데74억낸韓회사",
     "[금융핫이슈]미국의빚이삼전닉스까지흔든다…국채금리발'나비효과...",
-    "HD현대오일뱅크,고유가에500억지원...계약주유소경유50원더낮췄다"
+    "HD현대오일뱅크,고유가에500억지원...계약주유소경유50원더낮췄다",
+    "\"10분만에상대팀전술간파\"…AI코치에펜싱국대'든든'[현장르포...",
+    "SKAX·獨SAP'AI네이티브엔터프라이즈'동맹",
+    "[마감시황]코스피,외국인매도세'둔화'에6,800선회복마감",
+    "SK바이오팜,1조원대뇌전증신약확보\"발작빈도감소효과\"…하반기...",
+    "사이버보안특화AI놓고SKT·네이버맞붙는다",
+    "코스피,개인2.2조'팔자'에도0.97%↑…6800선회복",
+    "美반도체발훈풍…코스피6800선탈환",
+    "코스피,엔비디아실적발표앞두고등락거듭하다0.97%상승마감",
+    "특정종목쏠림에유동성·자금조달약화…“코스닥키워야산다”",
+    "왜곡된증시에시총상위종목거래대금52조급감",
+    "경남FCU18진주고,아시아강호와맞대결",
+    "공급과잉에흔들린SK어드밴스드,SK가스에흡수합병…“새성장기회..."
    ],
    "initialized": true,
-   "last_run": "2026-08-26T18:10:23.673033+09:00"
+   "last_run": "2026-08-26T18:15:20.791541+09:00"
   }
  },
  "press_names": {
