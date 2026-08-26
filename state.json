@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-26T20:55:17.767477+09:00",
-     "증시 레버리지 변동성 국내 ETF 아니다 박현주"
-    ],
-    [
      "2026-08-26T21:00:35.317434+09:00",
      "혜인 신라젠 나이벡 더콘텐츠온 아난티 거래정 공매도금지"
     ],
@@ -241,7 +237,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695591",
     "http://www.4th.kr/news/articleView.html?idxno=2116869",
     "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521672",
     "https://www.yna.co.kr/view/AKR20260826073600054?input=1195m",
@@ -1740,10 +1735,10 @@
     "https://www.yna.co.kr/view/AKR20260827001500087?input=1195m",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000006584&cp=nv",
     "https://www.newspim.com/news/view/20260827000025",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000006591&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000006591&cp=nv",
+    "https://www.etoday.co.kr/news/view/2618582"
    ],
    "seen_titles": [
-    "코스피,엔비디아실적발표경계감에장중보합권유지",
     "SKT,거제수해지역통신망복구…대피소구호물품지원",
     "[무등의아침]정진욱“반도체전격전은시간이생명…용수기반시설...",
     "Samsung,SKhynixsetforfurthermemorysalesgrowthaschipdemandsur",
@@ -3242,10 +3237,11 @@
     "엘니뇨공포확산…파나마·엘살바도르에비상사태·적색경보",
     "돌아온이현중,마줄스호구할까",
     "[GAM]램리서치①AI반도체제조의핵심축...가속화하는성장세",
-    "중국차공세에도…현대차“2030년까지신차100종”자신감"
+    "중국차공세에도…현대차“2030년까지신차100종”자신감",
+    "박현주“디지털자산150조로키운다…디지털엑스,미래에셋3.0핵심축..."
    ],
    "initialized": true,
-   "last_run": "2026-08-27T02:50:22.188555+09:00"
+   "last_run": "2026-08-27T02:55:18.283645+09:00"
   }
  },
  "press_names": {
