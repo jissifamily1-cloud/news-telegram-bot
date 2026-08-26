@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-26T08:00:33.761862+09:00",
-     "해법 정의선 투자 만나는 최태원 논의 이재용"
-    ],
-    [
      "2026-08-26T08:05:16.803372+09:00",
      "훈풍에 프리마켓서 반도체 삼전 강세 닉스"
     ],
@@ -1122,10 +1118,13 @@
     [
      "2026-08-26T13:58:13.537066+09:00",
      "Chip More Seeks Korean Honam as Advances Investment Project"
+    ],
+    [
+     "2026-08-26T14:00:40.907110+09:00",
+     "SK이노가 상장 품는 사라지는 까닭은 만에 SKIET 5년"
     ]
    ],
    "seen_urls": [
-    "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2026082500033&story_seq=0&soCode=114&socttSn=NS2026082500033&socttSeq=0",
     "https://www.newsis.com/view/NISX20260825_0003762244",
     "http://www.inews24.com/view/1998180",
     "https://biz.sbs.co.kr/article_hub/20000330687?division=NAVER",
@@ -2624,10 +2623,10 @@
     "https://www.nocutnews.co.kr/news/6568373",
     "http://worknworld.kctu.org/news/articleView.html?idxno=509871",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=63406",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275557"
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275557",
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=423306"
    ],
    "seen_titles": [
-    "'AI로재편되는채용패러다임'특별강연하는이준전무[포토]",
     "새매장출점하고全지점퀵커머스…이마트,오프라인경쟁력강화가속",
     "반도체주주환원기대에환율급락했는데…당국,추가달러매도제한...",
     "SK이노베이션,SKIET흡수합병…'분리막사업'직접품는다",
@@ -4126,10 +4125,11 @@
     "정치권도'800조반도체'속도전가세…특위띄우고지원총력",
     "민주노총충북본부,대표자회의열고하반기4대투쟁목표결의",
     "IMF잣대로본산업통상부'5년산단'…규제개혁인가삼성·SK일정관리...",
-    "U.S.SeeksMoreKoreanChipInvestmentasHonamProjectAdvances"
+    "U.S.SeeksMoreKoreanChipInvestmentasHonamProjectAdvances",
+    "상장5년만에사라지는SKIET···SK이노가품는까닭은"
    ],
    "initialized": true,
-   "last_run": "2026-08-26T13:58:13.537066+09:00"
+   "last_run": "2026-08-26T14:00:40.907110+09:00"
   }
  },
  "press_names": {
