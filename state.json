@@ -4,30 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-26T06:35:17.238561+09:00",
-     "배터리산업 조지아 커머스는 중심지"
-    ],
-    [
-     "2026-08-26T06:35:17.238561+09:00",
-     "접고 잠정합의 현대차노사 순익"
-    ],
-    [
-     "2026-08-26T06:35:17.238561+09:00",
-     "레버리지 조명 투자해 손실 하이닉스 롤러코스피 공포의"
-    ],
-    [
-     "2026-08-26T06:35:17.238561+09:00",
-     "촉구 공장 800조 메모리 투자 한국 반도체에 딜레마"
-    ],
-    [
-     "2026-08-26T06:35:17.238561+09:00",
-     "공영버스 학생 불편 신설 6번 영종구 통학 해소 학생맞춤형 영종5"
-    ],
-    [
-     "2026-08-26T06:40:21.366076+09:00",
-     "전망 08달러 919억달러 EPS 27일 실적발표 매출 엔비디아"
-    ],
-    [
      "2026-08-26T06:45:22.844992+09:00",
      "시행사 뒤쫓아 8월 DK아시아 1위 BS산업 신영"
     ],
@@ -1178,14 +1154,17 @@
     [
      "2026-08-26T12:35:07.264673+09:00",
      "Panama Pays Gas Transit Canal Record Fee"
+    ],
+    [
+     "2026-08-26T12:40:21.817154+09:00",
+     "세액공제 늘려야 결정 카카오 경쟁 패권 데이터센터 4년내 SKT"
+    ],
+    [
+     "2026-08-26T12:40:21.817154+09:00",
+     "Japan to its Korea have may push shipbuilding stage checking comeback"
     ]
    ],
    "seen_urls": [
-    "https://www.dkilbo.com/news/articleView.html?idxno=552262",
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257795",
-    "https://zdnet.co.kr/view/?no=20260825161227",
-    "https://www.mt.co.kr/industry/2026/08/25/2026082513343246931",
-    "https://www.newsis.com/view/NISX20260825_0003762096",
     "https://news.skbroadband.com/news/articleView.html?idxno=235923",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=275492",
     "http://www.newsian.co.kr/news/articleView.html?idxno=94201",
@@ -2680,14 +2659,14 @@
     "https://www.etoday.co.kr/news/view/2618222",
     "https://www.etoday.co.kr/news/view/2618333",
     "https://www.aitimes.kr/news/articleView.html?idxno=41606",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275541"
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275541",
+    "https://magazine.hankyung.com/business/article/202608263853b",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695631",
+    "https://www.asiaa.co.kr/news/articleView.html?idxno=260008",
+    "https://www.mt.co.kr/tech/2026/08/26/2026082612240347193",
+    "https://www.koreajoongangdaily.com/business/japans-push-to-stage-shipbuilding-comeback-may-have-korea-checking-its-stern/12842412"
    ],
    "seen_titles": [
-    "포스코이앤씨,'더샵분당하이스트'9월공급",
-    "임영미고용정책실장'더팩트미래전략포럼'특별강연[포토]",
-    "금융위,개인사업자마이데이터도입…AI가맞춤형대출신청",
-    "美·캐나다관세전쟁에車·배터리긴장…북미공급망균열우려",
-    "반도체흔들리고비트코인뛰고…위험자산투자지형바뀌나",
     "[AI칩지정학]⑲딥마인드고향영국은왜SF국가로전락했나",
     "델포럼에모인국내IT기업들…AI성과전략한자리에",
     "주가는반토막,성과급은7억…SK하이닉스노조에주주들'부글'",
@@ -4182,10 +4161,15 @@
     "외국인유학생30만시대…“유치넘어취업·정착으로”[2026ISN200]",
     "유경연SK그룹매니저'인사팀이본외국인유학생취업가이드'[포토]",
     "SKAX,SAP와'AI네이티브엔터프라이즈'동맹강화…기업운영AX혁신가...",
-    "SKGasPaysRecordPanamaCanalTransitFee"
+    "SKGasPaysRecordPanamaCanalTransitFee",
+    "[속보]“삼전닉스덕분에”원달러환율추가하락전망",
+    "SKAX,SAP와'AI네이티브엔터프라이즈'확장협력",
+    "SK이노베이션\"SKIET흡수합병으로연600억원절감...2년내흑자전환\"",
+    "AI데이터센터패권경쟁,3~4년내결정…카카오·SKT,세액공제늘려야...",
+    "Japan’spushtostageshipbuildingcomebackmayhaveKoreacheckingit"
    ],
    "initialized": true,
-   "last_run": "2026-08-26T12:35:07.264673+09:00"
+   "last_run": "2026-08-26T12:40:21.817154+09:00"
   }
  },
  "press_names": {
