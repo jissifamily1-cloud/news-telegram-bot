@@ -206,10 +206,13 @@
     [
      "2026-08-27T03:15:22.636848+09:00",
      "월가 3분의1 엔비디아 증시 돈은 이익 독식한 비트코인으로"
+    ],
+    [
+     "2026-08-27T03:20:25.086690+09:00",
+     "애플 독점 2나노 TSMC 판도 변화 공개 M6 수혜"
     ]
    ],
    "seen_urls": [
-    "https://kpenews.com/View.aspx?No=4199710",
     "https://biz.heraldcorp.com/article/10852610",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=275535",
     "https://www.edaily.co.kr/News/Read?newsId=03417766645551256&mediaCodeNo=257",
@@ -1708,10 +1711,10 @@
     "https://www.mt.co.kr/tech/2026/08/27/2026082619562036077",
     "https://www.mt.co.kr/tech/2026/08/27/2026082619562160663",
     "https://www.kyeonggi.com/article/20260826580555",
-    "https://www.g-enews.com/view.php?ud=202608270308509060e7e8286d56_1"
+    "https://www.g-enews.com/view.php?ud=202608270308509060e7e8286d56_1",
+    "https://www.g-enews.com/view.php?ud=202608261857214023fbbec65dfb_1"
    ],
    "seen_titles": [
-    "[사설]美,이란·캐나다와경제戰…엉뚱한불똥튀는일없도록",
     "中CXMT생산한계도달…D램공급난완화기대꺾였다",
     "\"AI서버용MLCC수요5년간3.3배..소부장병목확산\"",
     "[Advertorial]제주아동·청소년,축구꿈과함께한스포츠토토'스포츠...",
@@ -3210,10 +3213,11 @@
     "AG가는AI코치…'팀SKT',금빛기술지원나선다",
     "\"K미토스만들자\"…SKT·네이버2파전",
     "[사설]데이터센터주민반발…변화뒤처진행정탓이다",
-    "美증시이익3분의1독식한엔비디아…월가돈은비트코인으로턴?"
+    "美증시이익3분의1독식한엔비디아…월가돈은비트코인으로턴?",
+    "애플,첫2나노M6공개TSMC독점수혜판도변화"
    ],
    "initialized": true,
-   "last_run": "2026-08-27T03:15:22.636848+09:00"
+   "last_run": "2026-08-27T03:20:25.086690+09:00"
   }
  },
  "press_names": {
