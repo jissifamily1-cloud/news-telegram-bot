@@ -326,10 +326,13 @@
     [
      "2026-08-27T01:05:16.309453+09:00",
      "엘니뇨 적색경보 파나마 공포 엘살바도르에 확산 비상사태"
+    ],
+    [
+     "2026-08-27T01:20:23.802402+09:00",
+     "구할까 돌아온 이현중 마줄스호"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12136577",
     "https://www.ddaily.co.kr/page/view/2026082610202395393",
     "https://biz.heraldcorp.com/article/10852558",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695591",
@@ -1828,10 +1831,10 @@
     "https://www.joongang.co.kr/article/25456534",
     "http://www.gjdream.com/news/articleView.html?idxno=672156",
     "https://www.cbci.co.kr/news/articleView.html?idxno=601467",
-    "https://www.yna.co.kr/view/AKR20260827001500087?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260827001500087?input=1195m",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000006584&cp=nv"
    ],
    "seen_titles": [
-    "SKAX,SAP와'AI네이티브엔터프라이즈'동맹강화…기업운영AX혁신...",
     "600억원절감앞세운SK이노베이션흡수합병",
     "SK디앤디대규모유증에소액주주반발…지분희석에공시변경논란까...",
     "코스피,엔비디아실적발표경계감에장중보합권유지",
@@ -3330,10 +3333,11 @@
     "174조물린개미본전심리,7000피막는다",
     "광주군공항부지에반도체산단,'환매권'문제없나",
     "SK이노베이션SKIET합병코멘트에증권가촉각…KB증권투자의견NotRa...",
-    "엘니뇨공포확산…파나마·엘살바도르에비상사태·적색경보"
+    "엘니뇨공포확산…파나마·엘살바도르에비상사태·적색경보",
+    "돌아온이현중,마줄스호구할까"
    ],
    "initialized": true,
-   "last_run": "2026-08-27T01:15:21.905047+09:00"
+   "last_run": "2026-08-27T01:20:23.802402+09:00"
   }
  },
  "press_names": {
