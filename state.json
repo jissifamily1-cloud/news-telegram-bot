@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-26T23:45:20.738439+09:00",
-     "리스크 지정학적 완화에 코스피 상승마감 기관 순매수"
-    ],
-    [
      "2026-08-27T00:00:43.855333+09:00",
      "vs 미래 분배 불붙은 논쟁 투자 이윤 초과 사회"
     ],
@@ -230,10 +226,13 @@
     [
      "2026-08-27T05:35:19.005509+09:00",
      "임박 최소화 고심 사업 발표 리스크 국익 극대화 1호 대미투자"
+    ],
+    [
+     "2026-08-27T05:50:24.762893+09:00",
+     "주주가치 훼손 합치고 적자 논란 쪼개고 나자 SKIET"
     ]
    ],
    "seen_urls": [
-    "https://www.chosun.com/economy/tech_it/2026/08/26/AOCZMDOOYVGJZFFB7QCMCDECQM/",
     "http://www.4th.kr/news/articleView.html?idxno=2116875",
     "http://www.newscape.co.kr/news/articleView.html?idxno=124133",
     "http://www.newsian.co.kr/news/articleView.html?idxno=94248",
@@ -1732,10 +1731,10 @@
     "https://www.todayenergy.kr/news/articleView.html?idxno=302042",
     "https://www.dailymedi.com/news/news_view.php?wr_id=939838",
     "https://www.fnnews.com/news/202608270525434357",
-    "https://www.dailian.co.kr/news/view/1682860/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1682860/?sc=Naver",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=316940"
    ],
    "seen_titles": [
-    "SKAX,SAP와기업운영에'AI에이전트'심는다",
     "서프라이즈만으론부족…엔비디아실적,'셀온'깰관전포인트는",
     "SK하이닉스,DTF2026서AI인프라겨냥메모리총망라",
     "블룸버그\"SK가스,파나마운하급행료73억지불...사상최대\"",
@@ -3234,10 +3233,11 @@
     "[포커스]SK가스,SK어드밴스드'흡수합병'",
     "SK바이오팜\"美직판블록버스터의약품2개목표\"",
     "[뉴욕증시]엔비디아실적발표앞두고하락…팔란티어,2.9%상승",
-    "대미투자1호사업발표임박…靑,국익극대화·리스크최소화'고심'"
+    "대미투자1호사업발표임박…靑,국익극대화·리스크최소화'고심'",
+    "돈될땐쪼개고,적자나자합치고...SKIET주주가치훼손논란"
    ],
    "initialized": true,
-   "last_run": "2026-08-27T05:45:20.412275+09:00"
+   "last_run": "2026-08-27T05:50:24.762893+09:00"
   }
  },
  "press_names": {
