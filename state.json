@@ -598,22 +598,21 @@
     [
      "2026-08-27T08:40:22.855039+09:00",
      "1위인데 탈락 이의신청 잡음 벤치마크 국가대표 모티프 선발"
+    ],
+    [
+     "2026-08-27T08:45:21.514225+09:00",
+     "급감 가뭄에 수량 엘리뇨발 비상사태 파나마운하도"
+    ],
+    [
+     "2026-08-27T08:45:21.514225+09:00",
+     "미래에셋증권 2026년 채권 KB증권 8월 브랜드평판 KR투자증권"
+    ],
+    [
+     "2026-08-27T08:45:21.514225+09:00",
+     "물량 엑시트 FI 오버행 해소 경계감 관건"
     ]
    ],
    "seen_urls": [
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695620",
-    "https://biz.sbs.co.kr/article_hub/20000330789?division=NAVER",
-    "https://www.edaily.co.kr/News/Read?newsId=03732646645551256&mediaCodeNo=257",
-    "https://www.chosun.com/economy/economy_general/2026/08/26/N2GEKRIM4ZEXZHBKDCIJKQHI6U/",
-    "https://www.dt.co.kr/article/12080325",
-    "http://www.popcornnews.net/news/articleView.html?idxno=130819",
-    "https://www.thepowernews.co.kr/view.php?ud=2026082613404168719aeda69934_7",
-    "https://biz.sbs.co.kr/article_hub/20000330788?division=NAVER",
-    "https://www.sportsworldi.com/newsView/20260826510289",
-    "https://www.mt.co.kr/industry/2026/08/26/2026082612291373883",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=357932",
-    "https://biz.heraldcorp.com/article/10852829",
-    "https://www.cwn.kr/news/articleView.html?idxno=54301",
     "http://www.ttlnews.com/news/articleView.html?idxno=3137316",
     "https://www.itdaily.kr/news/articleView.html?idxno=241212",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480680",
@@ -2100,22 +2099,22 @@
     "https://www.dt.co.kr/article/12080489",
     "http://datanews.co.kr/news/article.html?no=146175",
     "https://www.newspim.com/news/view/20260827000134",
-    "https://www.chosun.com/economy/tech_it/2026/08/27/HF2RACDKC5G7LBI36NEGMFILWM/"
+    "https://www.chosun.com/economy/tech_it/2026/08/27/HF2RACDKC5G7LBI36NEGMFILWM/",
+    "https://www.m-i.kr/news/articleView.html?idxno=1406516",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=94309",
+    "https://www.pointe.co.kr/news/articleView.html?idxno=83862",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=94308",
+    "https://www.ajunews.com/view/20260827084037952",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=272392",
+    "https://www.yna.co.kr/view/AKR20260827028800017?input=1195m",
+    "https://www.edaily.co.kr/News/Read?newsId=02715846645551584&mediaCodeNo=257",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=143606",
+    "http://www.thebigdata.co.kr/view.php?ud=202608270753381621d0a8833aad_23",
+    "https://biz.sbs.co.kr/article_hub/20000331043?division=NAVER",
+    "https://www.energy-news.co.kr/news/articleView.html?idxno=227693",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608251344414080105254"
    ],
    "seen_titles": [
-    "코스피,기관1.9조원순매수에2%대급등",
-    "SK인텔릭스로봇'나무엑스',IR52장영실상수상",
-    "\"SK하이닉스,中AI가속기HBM채택확대에성장지속전망\"",
-    "가계대출금리오름세…내일한은기준금리3.0%될까",
-    "SK이노,SKIET사업부로흡수...2029년영업익흑자전환목표",
-    "[직설]트럼프,이란경제압박…美장기국채금리하락,엔비디아실적...",
-    "코스피,상승전환해6800선…삼전닉스자사주매입에탄력",
-    "기관순매수에코스피2%대반등...삼성전자2.72%,SK하이닉스2.92%상승",
-    "SK이노베이션“SKIET,재무부담커져합병결정…조직통합해고정비절...",
-    "미래에셋자산운용\"반도체슈퍼사이클2막은소부장\"…'TIGERAI반도체핵...",
-    "“정유사계열주유소만정산장려금”...알뜰주유소협회,공정위에조사...",
-    "[시장따라잡기]\"하반기원전뜬다\"…원전잘짓는건설사는?",
-    "제주SKFC와이무진이함께만드는특별한'에피소드'",
     "SKIET품은SK이노베이션\"2029년내분리막흑자전환\"",
     "[특징주]SK바이오팜,뇌전증신약에1.1조투자…주가도강세",
     "HBM슈퍼사이클의역설…가격치솟자빅테크‘메모리다이어트’[비즈...",
@@ -3602,10 +3601,23 @@
     "젠슨황,메모리가격급등에두손들었다…마진가이던스1%p낮춰",
     "SK에코플랜트,반도체체질전환…매출2배·영업익7배↑",
     "한투운용'ACE반도체Plus전략산업ETF'순자산3000억원돌파",
-    "“벤치마크1위인데왜탈락”모티프이의신청…국가대표AI선발잡음"
+    "“벤치마크1위인데왜탈락”모티프이의신청…국가대표AI선발잡음",
+    "용인특례시,'원삼~마평국지도57호선'개량사업예타통과",
+    "하반기대기업채용문활짝…현대차·LG전자·SK텔레콤신입공채",
+    "엔비디아13분기연속신기록…AI폭발적수요에코스피·반도체투톱...",
+    "SK이노·SKIET합병두고엇갈린증권가…\"주주에불리\"vs\"낙폭과도\"",
+    "박현주\"삼전·닉스배당할때아니다…기업키우려면자본축적해야\"",
+    "[박정식의국내주식시황]엔비디아시간외4%대상승…국내반도체주...",
+    "'AAII최고점인데탈락'모티프,독파모평가에이의제기",
+    "RISE네트워크인프라ETF,6개월수익률67%‘1위’",
+    "엔비디아서프라이즈에'삼전닉스'프리마켓3~4%강세...메모리가격협...",
+    "미래에셋증권,채권브랜드평판8월빅데이터1위...KB증권뒤이어",
+    "파나마운하도'비상사태'…엘리뇨발가뭄에수량급감",
+    "채권2026년8월브랜드평판...미래에셋증권,KB증권,KR투자증권順",
+    "[더벨][티앤이코리아IPO]FI물량엑시트경계감…오버행해소관건"
    ],
    "initialized": true,
-   "last_run": "2026-08-27T08:40:22.855039+09:00"
+   "last_run": "2026-08-27T08:45:21.514225+09:00"
   }
  },
  "press_names": {
