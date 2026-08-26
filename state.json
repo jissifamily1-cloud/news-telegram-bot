@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-27T01:20:23.802402+09:00",
-     "구할까 돌아온 이현중 마줄스호"
-    ],
-    [
      "2026-08-27T02:00:39.083665+09:00",
      "핵심축 가속화하는 제조의 성장세 램리서치 반도체"
     ],
@@ -410,12 +406,13 @@
     [
      "2026-08-27T07:15:22.521411+09:00",
      "물류비까지 덮친 공포 비상 중남미 전력난 가뭄 엘니뇨"
+    ],
+    [
+     "2026-08-27T07:25:18.874449+09:00",
+     "생존경쟁 아니다 본게임 허가 끝난게"
     ]
    ],
    "seen_urls": [
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=546879",
-    "https://www.viva100.com/article/20260826500655",
-    "https://www.sisaon.co.kr/news/articleView.html?idxno=203825",
     "http://www.inews24.com/view/1998419",
     "https://www.tokenpost.kr/news/market/397972",
     "https://www.hankookilbo.com/news/article/A2026082608220004861?did=NA",
@@ -1912,12 +1909,12 @@
     "https://biz.sbs.co.kr/article_hub/20000331013?division=NAVER",
     "https://www.newsway.co.kr/news/view?ud=2026082617140001304",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000059934",
-    "https://www.seoul.co.kr/news/economy/industry/2026/08/27/20260827500010?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/economy/industry/2026/08/27/20260827500010?wlog_tag3=naver",
+    "http://www.newstomato.com/ReadNews.aspx?no=1311588&inflow=N",
+    "https://www.g-enews.com/view.php?ud=202608270718259920fbbec65dfb_1",
+    "https://news.bizwatch.co.kr/article/healthcare/2026/08/21/0032"
    ],
    "seen_titles": [
-    "美국채금리·국제유가하락…코스피6,800선회복",
-    "AI분석기관\"한국,글로벌AI경쟁서미·중이어3위\"",
-    "미반도체주반등에삼전닉스상승...코스피혼조세",
     "‘AI올인’李정부…로봇등‘30대선도프로젝트’드라이브[문화미래...",
     "삼성은5억,하이닉스는1억⋯성과급다음은'사내대출경쟁'인가?",
     "SK하이닉스,델포럼서차세대AI메모리솔루션공개",
@@ -3414,10 +3411,13 @@
     "[증시전략]엔비디아,분기매출962억달러…13분기연속신기록",
     "유료방송'한파'에도빚줄인LG헬로비전…재무부담은덜었지만",
     "중남미덮친'엘니뇨공포'…가뭄·전력난·물류비까지비상",
-    "엔비디아분기매출133조원…베라루빈양산·AI수요자신"
+    "엔비디아분기매출133조원…베라루빈양산·AI수요자신",
+    "이대통령,이재용과비공개만찬…메가프로젝트·대미투자논의",
+    "키옥시아1조엔증설과YMTC상장에낸드공급망긴장",
+    "[K-신약]②'허가'끝난게아니다…생존경쟁본게임"
    ],
    "initialized": true,
-   "last_run": "2026-08-27T07:20:23.742339+09:00"
+   "last_run": "2026-08-27T07:25:18.874449+09:00"
   }
  },
  "press_names": {
