@@ -222,10 +222,13 @@
     [
      "2026-08-27T05:05:20.774543+09:00",
      "선임연구원 코인 조윤성 주식까지 타이거리서치 넘어"
+    ],
+    [
+     "2026-08-27T05:15:22.134189+09:00",
+     "상속세 하나 고치겠다던 근로소득세는 개편"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=03430886645551256&mediaCodeNo=257",
     "http://www.finomy.com/news/articleView.html?idxno=259960",
     "https://www.newsis.com/view/NISX20260826_0003763160",
     "https://daily.hankooki.com/news/articleView.html?idxno=1399359",
@@ -1724,10 +1727,10 @@
     "https://www.segye.com/newsView/20260826515620?OutUrl=naver",
     "https://www.seoul.co.kr/news/economy/2026/08/27/20260827001007?wlog_tag3=naver",
     "https://www.sidae.com/article/2026082514401522238",
-    "https://www.news2day.co.kr/article/20260826500226"
+    "https://www.news2day.co.kr/article/20260826500226",
+    "https://www.seoul.co.kr/news/editOpinion/column/company-management-jgh/2026/08/27/20260827025001?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "토종'사이버보안특화AI'국제표준화시동...ITU에개발가이드라인제...",
     "李,이재용·최태원·정의선줄줄이만난다…AI투자'전격전'",
     "SK이노베이션,자회사SKIET흡수합병…재무안정·운영효율제고",
     "코스피,외국인·기관'팔자'에도강보합···6750선",
@@ -3226,10 +3229,11 @@
     "[경제단신]한화건설,에너지효율국책과제참여외",
     "영호남산업전기료,최대10%인하혜택",
     "배당늘리고자사주소각…'주주환원'기업가치가른다",
-    "[N2인터뷰]조윤성타이거리서치선임연구원“코인넘어韓주식까지..."
+    "[N2인터뷰]조윤성타이거리서치선임연구원“코인넘어韓주식까지...",
+    "고치겠다던상속세·근로소득세는왜개편안하나[전경하의집중]"
    ],
    "initialized": true,
-   "last_run": "2026-08-27T05:10:23.378343+09:00"
+   "last_run": "2026-08-27T05:15:22.134189+09:00"
   }
  },
  "press_names": {
