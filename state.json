@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-26T23:30:34.303456+09:00",
-     "김민석 강원택 재계 대표 민주당 운집"
-    ],
-    [
      "2026-08-26T23:45:20.738439+09:00",
      "리스크 지정학적 완화에 코스피 상승마감 기관 순매수"
     ],
@@ -230,11 +226,13 @@
     [
      "2026-08-27T05:30:30.060298+09:00",
      "의약품 SK바이오팜 목표 2개 블록버스터 직판"
+    ],
+    [
+     "2026-08-27T05:35:19.005509+09:00",
+     "임박 최소화 고심 사업 발표 리스크 국익 극대화 1호 대미투자"
     ]
    ],
    "seen_urls": [
-    "https://www.fnnews.com/news/202608261119162217",
-    "http://www.iminju.net/news/articleView.html?idxno=168579",
     "https://www.chosun.com/economy/tech_it/2026/08/26/AOCZMDOOYVGJZFFB7QCMCDECQM/",
     "http://www.4th.kr/news/articleView.html?idxno=2116875",
     "http://www.newscape.co.kr/news/articleView.html?idxno=124133",
@@ -1732,11 +1730,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=214425",
     "https://www.news2day.co.kr/article/20260826500113",
     "https://www.todayenergy.kr/news/articleView.html?idxno=302042",
-    "https://www.dailymedi.com/news/news_view.php?wr_id=939838"
+    "https://www.dailymedi.com/news/news_view.php?wr_id=939838",
+    "https://www.fnnews.com/news/202608270525434357",
+    "https://www.dailian.co.kr/news/view/1682860/?sc=Naver"
    ],
    "seen_titles": [
-    "SK바이오팜,1.1조규모뇌전증신약도입…글로벌독점권리확보",
-    "SK바이오팜,뇌전증신약‘오파칼림’최대1.1조원에도입",
     "SKAX,SAP와기업운영에'AI에이전트'심는다",
     "서프라이즈만으론부족…엔비디아실적,'셀온'깰관전포인트는",
     "SK하이닉스,DTF2026서AI인프라겨냥메모리총망라",
@@ -3234,10 +3232,12 @@
     "[게시판]SKAX,SAP와'AI엔터프라이즈'협력강화등단신",
     "[N2모닝경제브리핑-8월27일]美증시,PCE예상웃돌자약보합…엔비...",
     "[포커스]SK가스,SK어드밴스드'흡수합병'",
-    "SK바이오팜\"美직판블록버스터의약품2개목표\""
+    "SK바이오팜\"美직판블록버스터의약품2개목표\"",
+    "[뉴욕증시]엔비디아실적발표앞두고하락…팔란티어,2.9%상승",
+    "대미투자1호사업발표임박…靑,국익극대화·리스크최소화'고심'"
    ],
    "initialized": true,
-   "last_run": "2026-08-27T05:30:30.060298+09:00"
+   "last_run": "2026-08-27T05:35:19.005509+09:00"
   }
  },
  "press_names": {
