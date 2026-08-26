@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-26T22:45:25.372743+09:00",
-     "이유가 있습니 자회사를 합병시키나 SK이노 급락한 주가 적자"
-    ],
-    [
      "2026-08-26T23:00:37.916203+09:00",
      "달렸다 삼전닉스 입에 운명의 젠슨"
     ],
@@ -202,10 +198,13 @@
     [
      "2026-08-27T04:45:21.443256+09:00",
      "다시 갈림길 사고 외국인 삼전 5시20분 하이닉스 실적 엔비디아"
+    ],
+    [
+     "2026-08-27T04:50:21.774583+09:00",
+     "엘니뇨에 운하가 국가비상사태 물동량 흔들린다 세계 파나마"
     ]
    ],
    "seen_urls": [
-    "http://www.srtimes.kr/news/articleView.html?idxno=210868",
     "https://biz.heraldcorp.com/article/10852601",
     "https://www.techm.kr/news/articleView.html?idxno=154624",
     "https://daily.hankooki.com/news/articleView.html?idxno=1399347",
@@ -1704,10 +1703,10 @@
     "https://www.donga.com/news/Society/article/all/20260827/134551080/2",
     "https://www.donga.com/news/Economy/article/all/20260827/134552748/2",
     "https://www.donga.com/news/Politics/article/all/20260827/134552744/2",
-    "https://www.greened.kr/news/articleView.html?idxno=348533"
+    "https://www.greened.kr/news/articleView.html?idxno=348533",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480856"
    ],
    "seen_titles": [
-    "엔비디아실적발표D-1…국내증시영향은?",
     "SK바이오팜,美바이오헤이븐뇌전증신약도입…최대1조995억원규모",
     "\"한척통과에73억\"...SK가스,파나마운하사상최고액급행료지불",
     "변이바이러스재확산및진단키트수요재부각...코로나19테마일제...",
@@ -3206,10 +3205,11 @@
     "“좋아하는음악을직업으로”…장애예술인의학교이자직장",
     "남부권전기료10%낮추면,반도체팹생산비용年1조절감",
     "[단독]“한미,대미투자수익분배-이자율등이견조율중”",
-    "엔비디아실적5시20분…삼전사고하이닉스판외국인,다시갈림길"
+    "엔비디아실적5시20분…삼전사고하이닉스판외국인,다시갈림길",
+    "엘니뇨에파나마국가비상사태…세계물동량5%운하가흔들린다"
    ],
    "initialized": true,
-   "last_run": "2026-08-27T04:45:21.443256+09:00"
+   "last_run": "2026-08-27T04:50:21.774583+09:00"
   }
  },
  "press_names": {
