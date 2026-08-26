@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-26T20:00:36.083701+09:00",
-     "대내외 이번주 일정 주요 갇힌 분수령 2주째 코스피"
-    ],
-    [
      "2026-08-26T20:05:19.254725+09:00",
      "Licenses Opacalium Trillion Deal Won in Biopharmaceuticals"
     ],
@@ -274,10 +270,13 @@
     [
      "2026-08-27T01:20:23.802402+09:00",
      "구할까 돌아온 이현중 마줄스호"
+    ],
+    [
+     "2026-08-27T02:00:39.083665+09:00",
+     "핵심축 가속화하는 제조의 성장세 램리서치 반도체"
     ]
    ],
    "seen_urls": [
-    "https://www.ddaily.co.kr/page/view/2026082610202395393",
     "https://biz.heraldcorp.com/article/10852558",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695591",
     "http://www.4th.kr/news/articleView.html?idxno=2116869",
@@ -1776,10 +1775,10 @@
     "http://www.gjdream.com/news/articleView.html?idxno=672156",
     "https://www.cbci.co.kr/news/articleView.html?idxno=601467",
     "https://www.yna.co.kr/view/AKR20260827001500087?input=1195m",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000006584&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000006584&cp=nv",
+    "https://www.newspim.com/news/view/20260827000025"
    ],
    "seen_titles": [
-    "600억원절감앞세운SK이노베이션흡수합병",
     "SK디앤디대규모유증에소액주주반발…지분희석에공시변경논란까...",
     "코스피,엔비디아실적발표경계감에장중보합권유지",
     "SKT,거제수해지역통신망복구…대피소구호물품지원",
@@ -3278,10 +3277,11 @@
     "광주군공항부지에반도체산단,'환매권'문제없나",
     "SK이노베이션SKIET합병코멘트에증권가촉각…KB증권투자의견NotRa...",
     "엘니뇨공포확산…파나마·엘살바도르에비상사태·적색경보",
-    "돌아온이현중,마줄스호구할까"
+    "돌아온이현중,마줄스호구할까",
+    "[GAM]램리서치①AI반도체제조의핵심축...가속화하는성장세"
    ],
    "initialized": true,
-   "last_run": "2026-08-27T01:55:19.045560+09:00"
+   "last_run": "2026-08-27T02:00:39.083665+09:00"
   }
  },
  "press_names": {
