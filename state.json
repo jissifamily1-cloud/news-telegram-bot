@@ -1162,13 +1162,13 @@
     [
      "2026-08-26T12:40:21.817154+09:00",
      "Japan to its Korea have may push shipbuilding stage checking comeback"
+    ],
+    [
+     "2026-08-26T12:45:19.203749+09:00",
+     "올랐나 아시아 포브스가 100곳 꼽은 누가 유망기업 한국에선"
     ]
    ],
    "seen_urls": [
-    "https://news.skbroadband.com/news/articleView.html?idxno=235923",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275492",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=94201",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1721633",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000006015&cp=nv",
     "https://www.donga.com/news/It/article/all/20260825/134540960/1",
     "https://www.fnnews.com/news/202608251635074896",
@@ -2664,13 +2664,13 @@
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695631",
     "https://www.asiaa.co.kr/news/articleView.html?idxno=260008",
     "https://www.mt.co.kr/tech/2026/08/26/2026082612240347193",
-    "https://www.koreajoongangdaily.com/business/japans-push-to-stage-shipbuilding-comeback-may-have-korea-checking-its-stern/12842412"
+    "https://www.koreajoongangdaily.com/business/japans-push-to-stage-shipbuilding-comeback-may-have-korea-checking-its-stern/12842412",
+    "https://www.mediafine.co.kr/news/articleView.html?idxno=87960",
+    "https://www.etoday.co.kr/news/view/2618334",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=741288",
+    "https://platum.kr/archives/293305"
    ],
    "seen_titles": [
-    "[AI칩지정학]⑲딥마인드고향영국은왜SF국가로전락했나",
-    "델포럼에모인국내IT기업들…AI성과전략한자리에",
-    "주가는반토막,성과급은7억…SK하이닉스노조에주주들'부글'",
-    "접는아이폰드디어나오나…'아이폰18·폴더블'내달9일공개할듯",
     "[오늘의키워드]'결정의문턱'｜8월25일Btv전주뉴스",
     "[ClosingMarket]KOSPIReclaims6,700onSemiconductorRebound",
     "6400선까지밀렸던코스피,기관매수에반전…0.68%상승",
@@ -4166,10 +4166,14 @@
     "SKAX,SAP와'AI네이티브엔터프라이즈'확장협력",
     "SK이노베이션\"SKIET흡수합병으로연600억원절감...2년내흑자전환\"",
     "AI데이터센터패권경쟁,3~4년내결정…카카오·SKT,세액공제늘려야...",
-    "Japan’spushtostageshipbuildingcomebackmayhaveKoreacheckingit"
+    "Japan’spushtostageshipbuildingcomebackmayhaveKoreacheckingit",
+    "SK바이오팜,뇌전증신약'오파칼림'도입-최대1조995억원규모계약",
+    "이투데이,외국인유학생네트워크200개최[포토]",
+    "[이슈]당정,호남반도체속도전…李대통령'최태원·이재용연쇄회동...",
+    "포브스가꼽은아시아유망기업100곳,한국에선누가올랐나"
    ],
    "initialized": true,
-   "last_run": "2026-08-26T12:40:21.817154+09:00"
+   "last_run": "2026-08-26T12:45:19.203749+09:00"
   }
  },
  "press_names": {
