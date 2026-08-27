@@ -509,9 +509,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.cbci.co.kr/news/articleView.html?idxno=601626",
-    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553491282",
-    "https://www.m-i.kr/news/articleView.html?idxno=1406806",
     "https://www.etoday.co.kr/news/view/2618769",
     "https://www.dailian.co.kr/news/view/1683163/?sc=Naver",
     "https://www.sedaily.com/article/20083877",
@@ -2008,12 +2005,12 @@
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696048",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257969",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=859989",
-    "https://www.yna.co.kr/view/AKR20260828013800011?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260828013800011?input=1195m",
+    "https://www.tfmedia.co.kr/news/article.html?no=206801",
+    "https://www.newdaily.co.kr/site/data/html/2026/08/28/2026082800008.html",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000060295"
    ],
    "seen_titles": [
-    "[기자수첩]'아직은앞선다'는안도",
-    "최태원회장,5조5000억원베팅AI반도체美현지생산",
-    "\"같은라운드인데누구는뛰고누구는못뛴다\"AG대표팀소집논란......",
     "호실적에도요동친엔비디아주가…삼전·닉스반등동력'시험대'[stock&...",
     "성장호조에커지는물가부담...증권가\"3연속금리인상가능성\"",
     "'금리인상'소식에엔비디아효과축소…코스피6900서등락",
@@ -3510,10 +3507,13 @@
     "스마트폰·PC원가15~40%오른다…범용D램부족發악순환",
     "[넥스트-샷]AI는날았지만···유가·금리·관세,여전히'복병'",
     "디젤값뛰는데…정유4사,원윳값에실적갈린다",
-    "[연합뉴스이시각헤드라인]-07:30"
+    "[연합뉴스이시각헤드라인]-07:30",
+    "SK하이닉스,美인디애나팹착공…年수십만장7세대HBM생산",
+    "SK하이닉스,美서HBM4E만든다…'메이드인USA'AI메모리첫생산",
+    "엔비디아'서프라이즈'터졌다…반도체주줄줄이급등"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T07:35:18.859806+09:00"
+   "last_run": "2026-08-28T07:40:21.154407+09:00"
   }
  },
  "press_names": {
