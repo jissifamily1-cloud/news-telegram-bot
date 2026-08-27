@@ -285,7 +285,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12137607",
     "https://magazine.hankyung.com/business/article/202608276321b",
     "https://view.asiae.co.kr/article/2026082709282044832",
     "https://www.sedaily.com/article/20083945",
@@ -1784,10 +1783,10 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=272475",
     "https://www.hani.co.kr/arti/international/america/1275045.html",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=88517",
-    "https://www.yna.co.kr/view/AKR20260828000351071?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260828000351071?input=1195m",
+    "https://www.mk.co.kr/article/12138361"
    ],
    "seen_titles": [
-    "기술팔던K-바이오의반격…SK바이오팜이바꾼공식",
     "‘난개발’오명벗은용인시,세계최대반도체도시로날아올랐다",
     "증권가,'백투백금리인상'에\"선제적긴축불가피…10월또올릴듯\"",
     "철수설딛고가동률90%…LG화학분리막,ESS로반전",
@@ -3286,10 +3285,11 @@
     "'MadeinUSA'HBM…SK하이닉스인디애나투자,'한미경제협력'새역사",
     "[인터뷰]칩스법주도영의원“패키징만으론부족…반도체모든영역...",
     "SK하이닉스,美인디애나에첫HBM생산기지착공…40억달러베팅",
-    "[인터뷰]SK곽노정\"美AI산업에좋은소식더전하고싶다\""
+    "[인터뷰]SK곽노정\"美AI산업에좋은소식더전하고싶다\"",
+    "SK하닉곽노정,美추가투자에“또다른좋은소식희망…어디든열려있..."
    ],
    "initialized": true,
-   "last_run": "2026-08-28T02:40:28.459256+09:00"
+   "last_run": "2026-08-28T02:45:21.560473+09:00"
   }
  },
  "press_names": {
