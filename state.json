@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-27T21:05:18.617451+09:00",
-     "애물단지 알짜회사인 지금은"
-    ],
-    [
-     "2026-08-27T21:05:18.617451+09:00",
-     "독파모 전체 LG만 축적 4개사는 데이터 공개 개방 선별"
-    ],
-    [
      "2026-08-27T21:10:23.445963+09:00",
      "8월 담았다 대신 삼전닉스 셀트리온 외국인 순매수 바이오 삼바"
     ],
@@ -270,11 +262,13 @@
     [
      "2026-08-28T03:00:38.359380+09:00",
      "반도체 높이나 완제품도 장벽 검토 적용 이어"
+    ],
+    [
+     "2026-08-28T03:05:19.206456+09:00",
+     "기업 주가 상대 다음날 젠슨 저녁"
     ]
    ],
    "seen_urls": [
-    "http://www.suwonilbo.kr/news/articleView.html?idxno=317748",
-    "https://www.munhwa.com/article/11612453",
     "https://www.gukjenews.com/news/articleView.html?idxno=3676433",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262301&CMPT_CD=P0010",
     "https://www.kukinews.com/article/view/kuk202608270076",
@@ -1772,11 +1766,11 @@
     "https://www.newsis.com/view/NISX20260828_0003766122",
     "https://www.edaily.co.kr/News/Read?newsId=01279206645551912&mediaCodeNo=257",
     "https://www.hankookilbo.com/news/article/A2026082801190001094?did=NA",
-    "https://www.dkilbo.com/news/articleView.html?idxno=552601"
+    "https://www.dkilbo.com/news/articleView.html?idxno=552601",
+    "https://www.epnc.co.kr/news/articleView.html?idxno=406184",
+    "https://www.g-enews.com/view.php?ud=2026082800011790769a1f309431_1"
    ],
    "seen_titles": [
-    "SKT·업스테이지손잡고'보안AI'개발…국산모델2강뭉쳤다",
-    "추미애지사\"반도체승부는친환경전력\"...글로벌기업과RE100해법논...",
     "엔비디아\"내년에도메모리병목\"…삼전닉스시장장악력더커진다",
     "‘독파모탈락’모티프,재심의·세부평가점수공개요청…“AAII1위...",
     "[오늘증시]엔비디아호실적에'AI수요'검증…반도체업고코스피69...",
@@ -3274,10 +3268,12 @@
     "곽노정SK하닉사장,美투자묻자\"어디든열려있다\"(종합)",
     "한국지킨美노병에기립박수…SK,일자리로한미동맹잇는다",
     "\"AI메모리수요,2년전보다훨씬강해\"…SK하이닉스,미국추가투자...",
-    "美,반도체장벽더높이나…\"칩이어완제품도적용검토\""
+    "美,반도체장벽더높이나…\"칩이어완제품도적용검토\"",
+    "곽노정CEO\"한미AI의새로운미래시작\"…SK하이닉스,美HBM생산거점...",
+    "젠슨황“내저녁상대기업주가,다음날두배”"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T03:00:38.359380+09:00"
+   "last_run": "2026-08-28T03:05:19.206456+09:00"
   }
  },
  "press_names": {
