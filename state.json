@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-27T07:55:17.301122+09:00",
-     "반도체 서학개미 몰렸다 7억1879만달러 ETF에"
-    ],
-    [
-     "2026-08-27T07:55:17.301122+09:00",
-     "코스피 SK이노베이 한전산업 현대차 코스닥 현대건설 하나은행 씨이랩"
-    ],
-    [
      "2026-08-27T08:00:36.251752+09:00",
      "강세 전력 공조까지 수혜 호실적에 LS증권 엔비디아 생태계 동반"
     ],
@@ -1086,15 +1078,17 @@
     [
      "2026-08-27T13:50:23.035825+09:00",
      "AX 새로운 WAVE 개최 넥서스 산업 주도 울산시"
+    ],
+    [
+     "2026-08-27T13:55:17.943549+09:00",
+     "아직은 앞선다 안도"
+    ],
+    [
+     "2026-08-27T13:55:17.943549+09:00",
+     "최태원 5조5000억원 베팅 현지생산 AI반도체 회장"
     ]
    ],
    "seen_urls": [
-    "https://www.donga.com/news/Health/article/all/20260826/134549691/1",
-    "https://www.nocutnews.co.kr/news/6568635",
-    "https://www.joongang.co.kr/article/25456405",
-    "https://www.joongang.co.kr/article/25456403",
-    "https://magazine.hankyung.com/business/article/202608264621b",
-    "https://www.newsis.com/view/NISX20260826_0003764006",
     "https://ilyo.co.kr/?ac=article_view&entry_id=512454",
     "http://www.newsprime.co.kr/news/article.html?no=745304",
     "https://www.etoday.co.kr/news/view/2618531",
@@ -2588,15 +2582,15 @@
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=275636",
     "https://news.mtn.co.kr/news-detail/2026082711190362840",
     "http://news.inochong.org/detail.php?number=6557&thread=22r07",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=52385"
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=52385",
+    "https://www.m-i.kr/news/articleView.html?idxno=1406796",
+    "https://www.sedaily.com/article/20084003",
+    "https://www.asiatime.co.kr/article/20260827500262",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=53784",
+    "http://www.metroseoul.co.kr/article/20260827500251",
+    "http://www.globalepic.co.kr/view.php?ud=20260827134820303848439a4874_29"
    ],
    "seen_titles": [
-    "SK가스,자회사SK어드밴스드합병…밸류체인통합구축",
-    "SK바이오팜,뇌전증신약'오파칼림'에최대1.1조베팅…\"완벽한보완재...",
-    "SK이노베이션14%급락...SKIET흡수합병발표에주가엇갈려",
-    "이재명대통령,이재용,최태원,정의선과연쇄회동추진…AI경쟁대응...",
-    "이재용,오늘李대통령과회동…메가특구'속도전'담판",
-    "SK바이오팜,뇌전증신약‘오파칼림’도입…“두번째블록버스터시...",
     "정부'보안특화'AI공모마감…SKT·네이버2파전",
     "K바이오잇단‘빅딜’…SK바이오팜1.1조베팅,올해기술수출16조",
     "아시안게임에도AI실전투입…SKT,AI펜싱분석기술첫공개",
@@ -4090,10 +4084,16 @@
     "SKhynixBreaksGroundon$3.87BillionU.S.HBMPlant",
     "배경훈부총리\"AI기술3개월마다바뀌는데...독파모평가방식의문\"",
     "SK실트론노조,SK본사앞상경피켓시위",
-    "울산시,산업AX주도…새로운넥서스WAVE개최"
+    "울산시,산업AX주도…새로운넥서스WAVE개최",
+    "K-반도체,美'추가투자'압박속현지화전략가속",
+    "‘보안국가대표’는누가될까…SKTvs네이버,진검승부",
+    "\"HBM다음병목은MLCC·기판…반도체슈퍼사이클2막열린다\"",
+    "\"SK하이닉스100조투자·반도체기업이전이어진다\"컬리넌청주,청주...",
+    "[기자수첩]'아직은앞선다'는안도",
+    "최태원회장,5조5000억원베팅AI반도체美현지생산"
    ],
    "initialized": true,
-   "last_run": "2026-08-27T13:50:23.035825+09:00"
+   "last_run": "2026-08-27T13:55:17.943549+09:00"
   }
  },
  "press_names": {
