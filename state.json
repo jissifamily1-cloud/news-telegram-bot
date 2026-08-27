@@ -266,11 +266,13 @@
     [
      "2026-08-28T02:55:18.510265+09:00",
      "지킨 잇는다 일자리로 한국 한미동맹 기립박수 노병에"
+    ],
+    [
+     "2026-08-28T03:00:38.359380+09:00",
+     "반도체 높이나 완제품도 장벽 검토 적용 이어"
     ]
    ],
    "seen_urls": [
-    "https://www.it-b.co.kr/news/articleView.html?idxno=89645",
-    "https://www.newsis.com/view/NISX20260827_0003765055",
     "http://www.suwonilbo.kr/news/articleView.html?idxno=317748",
     "https://www.munhwa.com/article/11612453",
     "https://www.gukjenews.com/news/articleView.html?idxno=3676433",
@@ -1768,11 +1770,11 @@
     "https://www.mk.co.kr/article/12138361",
     "https://www.nocutnews.co.kr/news/6569478",
     "https://www.newsis.com/view/NISX20260828_0003766122",
-    "https://www.edaily.co.kr/News/Read?newsId=01279206645551912&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01279206645551912&mediaCodeNo=257",
+    "https://www.hankookilbo.com/news/article/A2026082801190001094?did=NA",
+    "https://www.dkilbo.com/news/articleView.html?idxno=552601"
    ],
    "seen_titles": [
-    "ASML,2분기출하86대급증…AI설비투자지속여부시험대",
-    "SK인텔릭스,로봇‘나무엑스’IR52장영실상",
     "SKT·업스테이지손잡고'보안AI'개발…국산모델2강뭉쳤다",
     "추미애지사\"반도체승부는친환경전력\"...글로벌기업과RE100해법논...",
     "엔비디아\"내년에도메모리병목\"…삼전닉스시장장악력더커진다",
@@ -3270,10 +3272,12 @@
     "SK하닉곽노정,美추가투자에“또다른좋은소식희망…어디든열려있...",
     "SK하닉,미국내'1호HBM팹'구축본격화…\"차세대제품대량양산\"",
     "곽노정SK하닉사장,美투자묻자\"어디든열려있다\"(종합)",
-    "한국지킨美노병에기립박수…SK,일자리로한미동맹잇는다"
+    "한국지킨美노병에기립박수…SK,일자리로한미동맹잇는다",
+    "\"AI메모리수요,2년전보다훨씬강해\"…SK하이닉스,미국추가투자...",
+    "美,반도체장벽더높이나…\"칩이어완제품도적용검토\""
    ],
    "initialized": true,
-   "last_run": "2026-08-28T02:55:18.510265+09:00"
+   "last_run": "2026-08-28T03:00:38.359380+09:00"
   }
  },
  "press_names": {
