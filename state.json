@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-28T02:35:18.474151+09:00",
-     "싶다 산업에 소식 좋은 곽노정 전하고"
-    ],
-    [
      "2026-08-28T02:55:18.510265+09:00",
      "지킨 잇는다 일자리로 한국 한미동맹 기립박수 노병에"
     ],
@@ -622,14 +618,25 @@
     [
      "2026-08-28T08:35:17.939894+09:00",
      "한은 성장률 올해보다 내년이 내년 대폭 높다 상향"
+    ],
+    [
+     "2026-08-28T08:40:22.885825+09:00",
+     "이용하세요 SK스토아 쿠폰 장보기 하루 추석"
+    ],
+    [
+     "2026-08-28T08:40:22.885825+09:00",
+     "데이터센터 증권가 중국 호재 삼전에 굴기 오히려 반도체"
+    ],
+    [
+     "2026-08-28T08:40:22.885825+09:00",
+     "오른 ESS 삼아알미늄 8월 경고 기대와 과열"
+    ],
+    [
+     "2026-08-28T08:40:22.885825+09:00",
+     "LS 증가 투자의견 적자 비중 배터리 SK이노베이션 합병으로"
     ]
    ],
    "seen_urls": [
-    "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90739",
-    "http://www.impacton.net/news/articleView.html?idxno=20123",
-    "http://www.4th.kr/news/articleView.html?idxno=2116968",
-    "https://www.mediapen.com/news/view/1119324",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1721949",
     "https://www.koit.co.kr/news/articleView.html?idxno=208686",
     "https://www.koreaherald.com/article/10854363",
     "https://www.ajunews.com/view/20260827143403894",
@@ -2124,14 +2131,14 @@
     "http://www.newsroad.co.kr/news/articleView.html?idxno=63511",
     "https://www.knnews.co.kr/news/articleView.php?idxno=1549601",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=364329",
-    "https://theviewers.co.kr/View.aspx?No=4202680"
+    "https://theviewers.co.kr/View.aspx?No=4202680",
+    "http://www.newsprime.co.kr/news/article.html?no=745508",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=317087",
+    "https://www.mk.co.kr/article/12138455",
+    "https://www.tokenpost.kr/news/market/399354",
+    "https://biz.chosun.com/stock/stock_general/2026/08/28/C7LCB3UBCNDPBPJP7QD3NXN4S4/"
    ],
    "seen_titles": [
-    "메리츠증권,무형자산취득9배'껑충'…IT투자로리테일승부수",
-    "ASML코리아,하반기세자릿수공채돌입…첨단팹기술인력대거충원",
-    "'수치'로증명한엔비디아,삼전·닉스주가에'훈풍'",
-    "정부-이통3사,차세대망투자협의체발족…연내종합대책마련",
-    "추미애“경기도,세계친환경반도체산업의새기준으로만들것”",
     "그로쓰리서치\"지아이에스,MLCC업사이클로실적성장본격화\"",
     "정부,통신3사와통신망투자'맞손'…협의체출범",
     "김준평동아에스티팀장\"K-신약허가·심사변화,개선넘어혁신\"",
@@ -3626,10 +3633,15 @@
     "[증시전망대]연준의장잭슨홀연설앞두고'엔비디아랠리'이어갈까...",
     "[대학특집]연암공과대학교",
     "SKT'에이전틱'vs네이버클라우드'풀스택'...보안AI주도권격돌",
-    "[애널픽]한은,내년성장률2.9%로대폭상향…\"올해보다내년이높다\""
+    "[애널픽]한은,내년성장률2.9%로대폭상향…\"올해보다내년이높다\"",
+    "[해외시황]뉴욕증시,엔비디아호실적·AI낙관론에'상승'…나스닥1....",
+    "SK스토아\"추석장보기하루두번최대50%쿠폰이용하세요\"",
+    "중국반도체굴기,삼전에오히려호재?…증권가“AI데이터센터최대...",
+    "8월110%오른삼아알미늄,ESS기대와과열경고",
+    "LS證“SK이노베이션,합병으로적자배터리비중증가…투자의견‘보..."
    ],
    "initialized": true,
-   "last_run": "2026-08-28T08:35:17.939894+09:00"
+   "last_run": "2026-08-28T08:40:22.885825+09:00"
   }
  },
  "press_names": {
