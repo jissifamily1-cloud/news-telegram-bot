@@ -641,9 +641,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.economytalk.kr/news/articleView.html?idxno=423775",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=601565",
-    "http://www.newsdream.kr/news/articleView.html?idxno=116990",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4432067",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=86281",
     "https://www.cnbizm.com/news/articleView.html?idxno=312917",
@@ -2140,12 +2137,12 @@
     "https://www.dt.co.kr/article/12080718",
     "https://www.it-b.co.kr/news/articleView.html?idxno=89659",
     "http://www.e-platform.net/news/articleView.html?idxno=104864",
-    "https://biz.heraldcorp.com/article/10854561"
+    "https://biz.heraldcorp.com/article/10854561",
+    "https://platum.kr/archives/293456",
+    "http://coinreaders.com/255227",
+    "https://www.bloter.net/news/articleView.html?idxno=672022"
    ],
    "seen_titles": [
-    "SKTandUpstagejoinhandstodevelopsecureAI",
-    "'독자보안AI'도전네이버클라우드·LGCNS…풀스택기술력'승부수'",
-    "용인처인구전세•월세거래감소,신규분양단지로수요이동",
     "李대통령,최태원이어이재용과비공개만찬…반도체·대미투자논의",
     "SK텔레콤주가,8월27일장중98,400원1.20%하락",
     "모티프테크놀로지스,독파모2차결과이의제기…“평가점수·기준공...",
@@ -3642,10 +3639,13 @@
     "과기정통부,독파모2차평가세부점수전면공개…SKT1위",
     "SKT,AIDC전문기업'SK호라이즌'세운다…'AI인프라함대'구축",
     "﻿SK이터닉스,삼성바이오로직스와170MW규모PPA체결",
-    "“주가는이난리인데”우량등급기업은더늘었다고?[투자360]"
+    "“주가는이난리인데”우량등급기업은더늘었다고?[투자360]",
+    "'독파모'2차세부점수공개…종합1위SK텔레콤,벤치마크합산은모티...",
+    "HBM영업이익률70%넘는데…SK하이닉스,샌디스크·마이크론처럼날아...",
+    "정부,모티프반발속독파모2차전체점수공개…SKT1위"
    ],
    "initialized": true,
-   "last_run": "2026-08-27T22:45:21.949756+09:00"
+   "last_run": "2026-08-27T22:50:22.335714+09:00"
   }
  },
  "press_names": {
