@@ -269,8 +269,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10854089",
-    "https://biz.heraldcorp.com/article/10854090",
     "https://www.news1.kr/local/gyeonggi/6271262",
     "https://www.joongangenews.com/news/articleView.html?idxno=543242",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257892",
@@ -1768,11 +1766,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=214511",
     "https://www.goal.com/kr/뉴스/a/blt286d8187fd3cdf37",
     "https://biz.chosun.com/international/international_economy/2026/08/28/7KPAO362N5BTBDHFYVVZVGFLLI/",
-    "https://www.chosun.com/economy/money/2026/08/28/5FP73LZOHVDJPP4SIWOA5I33OA/"
+    "https://www.chosun.com/economy/money/2026/08/28/5FP73LZOHVDJPP4SIWOA5I33OA/",
+    "https://www.g-enews.com/view.php?ud=20260828052320149e250e8e188_1",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=6048"
    ],
    "seen_titles": [
-    "엔비디아영향초반급등코스피…금리인상에6900선으로",
-    "한국피지컬AI기술이국방과방산분야경쟁력,싱크탱크\"중국공급망...",
     "FCP,삼성측에스원지분인수제안…45%프리미엄제시[시그널]",
     "[드림Talk]SK이노베이션,SKIET품고급한불껐지만…정상화는먼길",
     "SK하이닉스,美인디애나팹착공",
@@ -3270,10 +3268,12 @@
     "과기부,독파모평가성적표전체공개...\"전문가·국민평가희비갈려...",
     "[오피셜]'韓최고풀백'설영우,빅리그서등번호7번달고뛴다!아우...",
     "뉴욕증시,엔비디아發훈풍에일제히상승…나스닥1.57%올라",
-    "환율1300원대진입,부자들은지금이자산을모으고"
+    "환율1300원대진입,부자들은지금이자산을모으고",
+    "[뉴욕증시]엔비디아9%폭등에반도체주'축제'…나스닥411P↑",
+    "[비즈인사이트]SK하이닉스,美인디애나에첫HBM생산기지착공…202..."
    ],
    "initialized": true,
-   "last_run": "2026-08-28T05:25:23.072320+09:00"
+   "last_run": "2026-08-28T05:30:29.178447+09:00"
   }
  },
  "press_names": {
