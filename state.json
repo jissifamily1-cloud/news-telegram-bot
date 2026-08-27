@@ -465,7 +465,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mydaily.co.kr/page/view/2026082710401378526",
     "https://www.topstarnews.net/news/articleView.html?idxno=16174877",
     "https://www.ajunews.com/view/20260827102344417",
     "https://www.hankyung.com/article/2026082762496",
@@ -1964,10 +1963,10 @@
     "https://www.edaily.co.kr/News/Read?newsId=06304166645551584&mediaCodeNo=257",
     "https://www.tokenpost.kr/news/ai/399098",
     "https://m.sports.naver.com/basketball/article/065/0000301070",
-    "http://www.suwonilbo.kr/news/articleView.html?idxno=317769"
+    "http://www.suwonilbo.kr/news/articleView.html?idxno=317769",
+    "https://www.newspim.com/news/view/20260827001312"
    ],
    "seen_titles": [
-    "엔비디아,2분기매출106%↑962억달러…13분기연속최대매출경신",
     "Lee,Samsungchiefreportedlyholdprivatedinneramidchipinvestmen",
     "日키옥시아,1조엔들여이와테현메모리공장증설…AI수요대응",
     "SK이노베이션주주들뿔났다",
@@ -3466,10 +3465,11 @@
     "[골프IN화보]김재희,1라운드경기장면'제15회KG레이디스오픈'",
     "엔비디아데이터센터절반,초대형클라우드밖으로",
     "부상최소화위한특단의조치,SK전희철감독“체중감량,대신근력...",
-    "[이병희탄생100년]③대한민국미래산업을수원에심다"
+    "[이병희탄생100년]③대한민국미래산업을수원에심다",
+    "SK하이닉스,美인디애나공장첫삽…2028년차세대HBM양산"
    ],
    "initialized": true,
-   "last_run": "2026-08-27T23:35:21.603408+09:00"
+   "last_run": "2026-08-27T23:40:22.944498+09:00"
   }
  },
  "press_names": {
