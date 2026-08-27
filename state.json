@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-28T00:15:25.092805+09:00",
-     "인디애나팹 SK하이닉스 만든다 메이드 HBM 착공 USA"
-    ],
-    [
-     "2026-08-28T00:20:23.439357+09:00",
-     "매출도 성장할 실적 엔비디아 내년 신기록"
-    ],
-    [
      "2026-08-28T00:25:20.264804+09:00",
      "대법 물려 당연한 원청대표에 하청근로자 과실사고 책임"
     ],
@@ -338,15 +330,17 @@
     [
      "2026-08-28T06:15:23.803606+09:00",
      "빨라져 과제는 유연성 신약 다음 요청 산업계 허가심사"
+    ],
+    [
+     "2026-08-28T06:20:24.196854+09:00",
+     "트럼프 필요한 제공할 대홍수 네팔 참혹 도움"
+    ],
+    [
+     "2026-08-28T06:20:24.196854+09:00",
+     "5조 SK하이닉스 착공 향한 투입해 거점 메모리"
     ]
    ],
    "seen_urls": [
-    "http://www.inews24.com/view/1998766",
-    "https://magazine.hankyung.com/business/article/202608276290b",
-    "https://www.ftimes.kr/news/articleView.html?idxno=39247",
-    "http://www.paxetv.com/news/articleView.html?idxno=280373",
-    "http://www.paxetv.com/news/articleView.html?idxno=280372",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=272342",
     "https://www.yna.co.kr/view/AKR20260827097300007?input=1195m",
     "https://www.sedaily.com/article/20083972",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647733",
@@ -1840,15 +1834,15 @@
     "https://www.kukinews.com/article/view/kuk202608280002",
     "https://www.ytn.co.kr/_ln/0104_202608280608327708",
     "https://www.nocutnews.co.kr/news/6569483",
-    "https://www.hitnews.co.kr/news/articleView.html?idxno=78694"
+    "https://www.hitnews.co.kr/news/articleView.html?idxno=78694",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=6049",
+    "https://biz.sbs.co.kr/article_hub/20000331273?division=NAVER",
+    "https://www.g-enews.com/view.php?ud=2026082723594490090c8c1c064d_1",
+    "http://www.beyondpost.co.kr/view.php?ud=2026082806073752742aaae0046f_30",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260828061805F90",
+    "https://www.g-enews.com/view.php?ud=2026082806072261402bd56fbc3c_1"
    ],
    "seen_titles": [
-    "[판결]\"트럭조작잘못해근로자사망,중대재해무죄\"",
-    "중국정부등에업은YMTC,삼전닉스에‘치킨게임’선전포고",
-    "AI,이제성능보다'쓸곳'…산업현장으로번지는활용경쟁",
-    "“AI가생산성·수익만들어내”…젠슨황‘피크아웃론’정면돌파",
-    "추미애경기지사,삼성·SK·애플과반도체RE100협력…2030년10GW추진",
-    "한화자산운용,PLUS200커버드콜액티브8월분배금지급",
     "李대통령,이재용회장과회동…반도체·대미투자논의했을듯",
     "[위클리오늘]이동통신소식_LG유플러스,SK텔레콤,KT(8.27)",
     "김은숙청주시의원\"SK하이닉스100조투자,청주미래성장동력으로\"",
@@ -3342,10 +3336,16 @@
     "SK하이닉스,美HBM거점‘인디애나팹’착공…“2029년첫양산목표...",
     "\"미,반도체관세확대검토\"...SK하이닉스\"미국서HBM생산\"",
     "세계10위AI만든탈락팀요청에…국가대표AI점수공개",
-    "\"신약허가심사빨라져…산업계요청다음과제는'유연성'\""
+    "\"신약허가심사빨라져…산업계요청다음과제는'유연성'\"",
+    "[뉴욕증시마감시황]엔비디아9%폭등했는데…마이크론은왜떨어지고...",
+    "'매출신기록'엔비디아8.74%급등…기술주랠리견인",
+    "\"삼성·SK하이닉스추격\"…日키옥시아,1조엔들여日북부에신규팹...",
+    "SK하이닉스,인디애나주에차세대HBM팹기공식열어...미국에서생산...",
+    "트럼프\"네팔대홍수참혹…필요한도움제공할것\"",
+    "美로향한SK하이닉스...5조투입해'AI메모리'거점착공"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T06:15:23.803606+09:00"
+   "last_run": "2026-08-28T06:20:24.196854+09:00"
   }
  },
  "press_names": {
