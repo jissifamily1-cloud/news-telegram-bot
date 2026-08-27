@@ -4,30 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-27T14:40:24.360671+09:00",
-     "거래 대형개발 품은 이어져 호재 억대 부동산 상승"
-    ],
-    [
-     "2026-08-27T14:40:24.360671+09:00",
-     "대형사는 경쟁 중견사는 변전소 원전 먹거리 건설업 클린룸"
-    ],
-    [
-     "2026-08-27T14:40:24.360671+09:00",
-     "보수 경력채용도 감독기관은 4억원 미달 해외 금감원 전문직에"
-    ],
-    [
-     "2026-08-27T14:40:24.360671+09:00",
-     "순자산 반도체Plus전략산업 ACE 돌파 3000억원 ETF"
-    ],
-    [
-     "2026-08-27T14:40:24.360671+09:00",
-     "동부건설 대우건설 우미건설"
-    ],
-    [
-     "2026-08-27T14:40:24.360671+09:00",
-     "위클리 ESG 1주차 9월 행사"
-    ],
-    [
      "2026-08-27T14:50:22.156753+09:00",
      "수요 경쟁률 청약 몰렸다 의왕역 5대 1순위 실거주 한신더휴"
     ],
@@ -1150,16 +1126,17 @@
     [
      "2026-08-27T20:40:23.327303+09:00",
      "공정성 4개팀과 협의해 밝힌 기준 과기정통부가 평가의 독파모"
+    ],
+    [
+     "2026-08-27T20:45:23.345259+09:00",
+     "열리는 애프터마켓 다음달 거래소 ETF 거래는 빠질"
+    ],
+    [
+     "2026-08-27T20:45:23.345259+09:00",
+     "SK하이닉스 162만원선 메모리 시험 흐름"
     ]
    ],
    "seen_urls": [
-    "https://www.newsway.co.kr/news/view?ud=2026082709592079732",
-    "https://news.tf.co.kr/read/economy/2358516.htm",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=362290",
-    "https://www.hankyung.com/article/202608265005r",
-    "https://www.ekn.kr/web/view.php?key=20260827029056483",
-    "https://www.tokenpost.kr/news/market/398636",
-    "https://www.sedaily.com/article/20083841",
     "https://www.sedaily.com/article/20083838",
     "https://www.sedaily.com/article/20083835",
     "https://www.sedaily.com/article/20083851",
@@ -2652,16 +2629,16 @@
     "https://daily.hankooki.com/news/articleView.html?idxno=1400104",
     "http://www.inews24.com/view/1999200",
     "https://www.mk.co.kr/article/12138268",
-    "https://www.edaily.co.kr/News/Read?newsId=05549766645551584&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=05549766645551584&mediaCodeNo=257",
+    "https://www.sedaily.com/article/20084252",
+    "https://view.asiae.co.kr/article/2026082720411434399",
+    "https://biz.heraldcorp.com/article/10854558",
+    "https://www.koreajoongangdaily.com/business/samsung-bets-on-pim-while-sk-hynix-keeps-eye-on-hbm/12846274",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608270745&t=NN",
+    "https://www.ajunews.com/view/20260827202551954",
+    "https://www.tokenpost.kr/news/market/398996"
    ],
    "seen_titles": [
-    "독파모탈락이의제기한모티프“평가상세공개·재심의”",
-    "엔비디아실적훈풍,반도체투톱삼전닉스주가상승세",
-    "자본몰리고규제푸는美데이터센터…한국전력·HBM주목이유",
-    "글로벌벤치마크1위하고탈락한모티프,독파모평가이의제기",
-    "키옥시아,日신규공장에1조엔투자하며AI메모리투자전가세…'삼...",
-    "SKT,'사이버보안특화AI'개발…업스테이지·안랩등참여",
-    "'독파모3강'SKT-업스테이지,'사이버보안특화모델'개발맞손",
     "동부건설,순항하는플랜트성장축부상",
     "'최고점탈락'모티프,국가대표AI평가에이의신청",
     "SKT컨소시엄,사이버보안특화AI모델개발도전...대한민국지킬방...",
@@ -4154,10 +4131,17 @@
     "SKT,SK브로드밴드인적분할…AIDC인프라기업'SK호라이즌'설립",
     "과기정통부,독파모세부점수공개…SKT1위·업스테이지순",
     "정부,독파모2차평가점수공개…SKT1위",
-    "과기정통부가밝힌독파모평가의‘공정성’…“4개팀과협의해기준..."
+    "과기정통부가밝힌독파모평가의‘공정성’…“4개팀과협의해기준...",
+    "과기정통부,독파모2차평가전체점수공개…SKT1위",
+    "독파모2차평가점수공개…SKT1위",
+    "‘고맙다엔비디아!’삼전닉스주가까지신바람[투자360]",
+    "SamsungbetsonPIMwhileSKhynixkeepseyeonHBM",
+    "퇴근길ETF거래막히나…애프터마켓서제외가닥",
+    "다음달열리는거래소애프터마켓…ETF거래는빠질듯",
+    "162만원선SK하이닉스,AI메모리흐름시험"
    ],
    "initialized": true,
-   "last_run": "2026-08-27T20:40:23.327303+09:00"
+   "last_run": "2026-08-27T20:45:23.345259+09:00"
   }
  },
  "press_names": {
