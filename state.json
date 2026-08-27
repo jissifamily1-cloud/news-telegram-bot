@@ -337,9 +337,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.seouleconews.com/news/articleView.html?idxno=93346",
-    "https://www.businessplus.kr/news/articleView.html?idxno=116006",
-    "https://www.hankookilbo.com/news/article/A2026082709320005364?did=NA",
     "https://www.fnnews.com/news/202608271013393388",
     "https://www.koreajoongangdaily.com/bilingual-news/hyundais-retirementage-deal-risks-squeezing-youth-jobs-kor/12846825",
     "https://www.businesspost.co.kr/BP?command=article_view&num=445726",
@@ -1836,12 +1833,12 @@
     "https://www.etoday.co.kr/news/view/2619100",
     "https://www.newspim.com/news/view/20260828000016",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008725846&plink=ORI&cooper=NAVER",
-    "https://www.news1.kr/world/usa-canada/6272063"
+    "https://www.news1.kr/world/usa-canada/6272063",
+    "https://biz.chosun.com/it-science/ict/2026/08/28/F46BD7CQ3ZBAXGISF4MEOMYJNI/",
+    "https://www.asiatime.co.kr/article/20260828500002",
+    "https://thetracker.co.kr/View.aspx?No=4202537"
    ],
    "seen_titles": [
-    "李대통령,대기업총수잦은만남…재계\"실질적규제혁파병행돼야...",
-    "“땡큐엔비디아”삼전닉스,안도랠리재개?“반도체투자심리호전”",
-    "SamsungElectronics,SKhynixjumponNvidiaearningsbeat",
     "엔비디아,메모리대란에이익률전망치낮춰",
     "[특징주]엔비디아'깜짝실적'에삼성전자·하이닉스동반상승",
     "네이버클라우드-LGCNS,정부'보안특화AI'사업동반참여",
@@ -3338,10 +3335,13 @@
     "SK하이닉스,美인디애나HBM거점첫삽…2029년‘메이드인USA’양산",
     "[종합]SK하이닉스,美HBM시대연다…2029년한미생산체계가동",
     "SK하이닉스,미인디애나팹착공…\"연간수십만장HBM생산\"",
-    "[속보]곽노정SK하이닉스대표\"美추가투자숏리스트있어…확정된..."
+    "[속보]곽노정SK하이닉스대표\"美추가투자숏리스트있어…확정된...",
+    "SK하이닉스,美인디애나서차세대HBM첫삽…2029년하반기양산목표",
+    "SK하이닉스,美인디애나팹착공…'메이드인USA'HBM시대연다",
+    "SK하이닉스,美인디애나HBM생산기지첫삽…40억달러이상투자"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T01:15:24.783161+09:00"
+   "last_run": "2026-08-28T01:20:24.155315+09:00"
   }
  },
  "press_names": {
