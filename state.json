@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-27T14:30:26.025011+09:00",
-     "대한항공 아시아나 주주환원에 삼전닉스 웃는 이유"
-    ],
-    [
-     "2026-08-27T14:30:26.025011+09:00",
-     "정부에 에너지 대우건설 정원주 의지 전달 사업 건설 베트남 회장"
-    ],
-    [
-     "2026-08-27T14:30:26.025011+09:00",
-     "패치형 면역증강제 집중 접고 SK바이오사이언스 독감백신 개발"
-    ],
-    [
-     "2026-08-27T14:30:26.025011+09:00",
-     "첨단산업 직접환급 세액공제 막혔나 생색만 없는데 세금"
-    ],
-    [
      "2026-08-27T14:35:17.568678+09:00",
      "시대 배후도시 호남권 부상 반도체 화순군"
     ],
@@ -1178,16 +1162,17 @@
     [
      "2026-08-27T20:25:17.852360+09:00",
      "호미로 막겠다 인상 먼저 기준금리"
+    ],
+    [
+     "2026-08-27T20:30:27.850609+09:00",
+     "해피 엔딩 파티"
+    ],
+    [
+     "2026-08-27T20:30:27.850609+09:00",
+     "하트 vs 기괴해 예쁘다 들여 은행나무 무려 1400만원 만든"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202608270957029204fbbec65dfb_1",
-    "https://www.segye.com/newsView/20260827505483?OutUrl=naver",
-    "https://www.ajunews.com/view/20260827084646965",
-    "https://www.etnews.com/20260827000082",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055416",
-    "https://news.dealsitetv.com/articles/175244",
-    "https://biz.sbs.co.kr/article_hub/20000331066?division=NAVER",
     "https://www.aitimes.kr/news/articleView.html?idxno=41622",
     "https://www.hankyung.com/article/2026082760446",
     "http://www.4th.kr/news/articleView.html?idxno=2116940",
@@ -2680,16 +2665,16 @@
     "http://www.paxetv.com/news/articleView.html?idxno=280422",
     "https://www.kyeonggi.com/article/20260827580182",
     "https://www.dynews.co.kr/news/articleView.html?idxno=863264",
-    "https://www.obsnews.co.kr/news/articleView.html?idxno=1535544"
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1535544",
+    "http://www.kjdaily.com/article.php?aid=1787822841685399008",
+    "https://www.yna.co.kr/view/AKR20260827190600017?input=1195m",
+    "http://www.epj.co.kr/news/articleView.html?idxno=39259",
+    "https://www.news1.kr/it-science/internet-platform/6272022",
+    "https://www.khan.co.kr/article/202608272017005",
+    "https://www.ulsanpress.net/news/articleView.html?idxno=581826",
+    "https://www.sedaily.com/article/20084249"
    ],
    "seen_titles": [
-    "AAII최고점받고도독파모탈락한모티프…결과에이의제기",
-    "[개장시황]\"엔비디아실적서프라이즈\"…코스피,2%대상승출발",
-    "국지도57호선(용인원삼~마평)개량사업,기획예산처예비타당성조사...",
-    "SK스퀘어주가,8월27일장중1,059,000원소폭오름세",
-    "엔비디아훈풍에반도체주'들썩'…코스피장중7000선'바짝'",
-    "동부건설,'플랜트'존재감확대…상반기매출55%증가",
-    "\"땡큐젠슨황\"…엔비디아훈풍에국내반도체株동반강세",
     "용인마평~원삼반도체산단국지도12㎞개량사업예타통과",
     "SK,전기차관련사업잇따라손절·합병…캐즘돌파안간힘",
     "인텔,x86점유율53.6%로후퇴…삼성·SK서버공급망재편파장",
@@ -4182,10 +4167,17 @@
     "SK에코플랜트,SK에코엔지니어링합병…AI·반도체인프라강화",
     "하이로컬이천,청년창업생태계키운다…25개팀육성·7개기업이천에...",
     "충남청양지천댐,주민반대에도'짓는다'",
-    "기준금리또인상3.00%…\"호미로먼저막겠다\""
+    "기준금리또인상3.00%…\"호미로먼저막겠다\"",
+    "화순,호남권반도체뒷받침‘배후정주도시’로주목",
+    "과기정통부,독파모2차평가점수공개…SKT1위",
+    "SK이터닉스,삼성바이오로직스에170MW재생에너지공급추진",
+    "정부,'독파모'2차평가논란에전체점수공개…총점1위SKT",
+    "모티프,글로벌AI벤치마크1위하고도독파모탈락‘불복’",
+    "해피엔딩파티",
+    "무려1400만원들여만든‘하트은행나무’…“예쁘다”vs“기괴해”..."
    ],
    "initialized": true,
-   "last_run": "2026-08-27T20:25:17.852360+09:00"
+   "last_run": "2026-08-27T20:30:27.850609+09:00"
   }
  },
  "press_names": {
