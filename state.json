@@ -254,10 +254,13 @@
     [
      "2026-08-28T04:05:18.714314+09:00",
      "실패 무색 금리인상에 엔비디아 칠천피 효과 탈환"
+    ],
+    [
+     "2026-08-28T04:10:22.069701+09:00",
+     "나스닥 마감 P테크 엔비디아 80분 급등 미국증시"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/local/gyeonggi/6271220",
     "https://biz.heraldcorp.com/article/10854007",
     "https://www.inthenews.co.kr/news/article.html?no=91026",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647682",
@@ -1756,10 +1759,10 @@
     "https://www.tokenpost.kr/news/market/399244",
     "https://www.edaily.co.kr/News/Read?newsId=01456326645551912&mediaCodeNo=257",
     "https://www.news1.kr/world/usa-canada/6272069",
-    "https://www.mt.co.kr/stock/2026/08/28/2026082719384269839"
+    "https://www.mt.co.kr/stock/2026/08/28/2026082719384269839",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=170582"
    ],
    "seen_titles": [
-    "가을야구막차타려는롯데…너무늦었나?",
     "추미애,삼전닉스·애플·아마존·MS등만나\"경기도에오면가장빨리...",
     "강원,83초동안2골...광주,172일만의승리꿈무산",
     "금리인상에도반도체株‘강세’…엔비디아가키운‘메모리기대’",
@@ -3258,10 +3261,11 @@
     "마이크론2500억달러투자,7월1일주가10.67%하락",
     "곽노정“메모리공급부족2030년말까지…다운턴와도과거와다를것”...",
     "[르포]옥수수밭이HBM전진기지로…SK하이닉스美첫공장가다",
-    "금리인상에엔비디아효과'무색'…칠천피탈환실패"
+    "금리인상에엔비디아효과'무색'…칠천피탈환실패",
+    "미국증시마감80분전...엔비디아·나스닥·S&P테크'급등'"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T04:05:18.714314+09:00"
+   "last_run": "2026-08-28T04:10:22.069701+09:00"
   }
  },
  "press_names": {
