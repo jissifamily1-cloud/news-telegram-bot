@@ -1389,9 +1389,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260827026400009?input=1195m",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608261855024820477",
-    "https://biz.sbs.co.kr/article_hub/20000331056?division=NAVER",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608270849461650497",
     "https://www.cstimes.com/news/articleView.html?idxno=718241",
     "https://www.pointe.co.kr/news/articleView.html?idxno=83867",
@@ -2888,12 +2885,12 @@
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=275669",
     "https://www.donga.com/news/Economy/article/all/20260827/134559068/1",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262457&CMPT_CD=P0010",
-    "https://www.hankyung.com/article/2026082777341"
+    "https://www.hankyung.com/article/2026082777341",
+    "https://www.gokorea.kr/news/articleView.html?idxno=876461",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275670",
+    "https://www.etnews.com/20260827000399"
    ],
    "seen_titles": [
-    "133조원'깜짝매출'엔비디아,이익률전망낮춰삼전·닉스'협상우위...",
-    "엔비디아또어닝서프라이즈…매출133조원,13분기연속신기록",
-    "모티프,'국가대표AI'2차탈락에이의제기…\"평가점수상세공개해야...",
     "엔비디아가잠재운'AI고점론'…코스피7000선재돌파코앞",
     "[1%초고수의개장선택]'산일전기'사고'컴투스'줄였다",
     "“4000세대단지25평전세1건”노도강전세가율文때로회귀[부동산...",
@@ -4390,10 +4387,13 @@
     "[ClosingMarket]KOSPISettlesAbove6,910onForeign,Institutional",
     "SKT,브로드밴드인적분할…데이터센터전문‘호라이즌’신설",
     "이천시,반도체현장서해법찾는다...SK하이닉스견학",
-    "SKT·네이버클라우드'K미토스'공모도전"
+    "SKT·네이버클라우드'K미토스'공모도전",
+    "동부건설,상반기플랜트매출54.5%급증...반도체프로젝트로매출신...",
+    "SKT,AI데이터센터전문기업'SK호라이즌'설립…3조원대투자유치",
+    "日키옥시아,이와테현에1조엔규모공장신설"
    ],
    "initialized": true,
-   "last_run": "2026-08-27T18:50:24.141590+09:00"
+   "last_run": "2026-08-27T18:55:17.044227+09:00"
   }
  },
  "press_names": {
