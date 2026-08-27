@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-27T23:50:25.377434+09:00",
-     "구축 인디애나 거점 하이닉스 패키징 착공 메모리"
-    ],
-    [
      "2026-08-27T23:55:19.260066+09:00",
      "부족 박신영의 확장 개장 어닝서프라이즈론 영토 엔비디아의 끝없는"
     ],
@@ -270,14 +266,21 @@
     [
      "2026-08-28T05:35:18.844038+09:00",
      "삼전닉스 한가인 고수였네 직전 조정 주식 팔았다"
+    ],
+    [
+     "2026-08-28T05:55:18.076992+09:00",
+     "1위 알뜰폰 KT엠모바일 8월 프리티 뒤쫓 SK세븐모바일"
+    ],
+    [
+     "2026-08-28T05:55:18.076992+09:00",
+     "엔비디아 어닝 서프라이즈 증시"
+    ],
+    [
+     "2026-08-28T05:55:18.076992+09:00",
+     "제주 쏠린 어디까지 실종에 찾을 있나 휴대폰으로"
     ]
    ],
    "seen_urls": [
-    "https://www.newscj.com/news/articleView.html?idxno=3428122",
-    "http://www.bizwnews.com/news/articleView.html?idxno=144447",
-    "https://www.donga.com/news/Economy/article/all/20260827/134554753/1",
-    "https://biz.heraldcorp.com/article/10854133",
-    "https://www.news1.kr/politics/general-politics/6271211",
     "https://biz.heraldcorp.com/article/10854127",
     "http://www.dailypop.kr/news/articleView.html?idxno=101967",
     "https://www.yna.co.kr/view/AKR20260827092200061?input=1195m",
@@ -1772,14 +1775,14 @@
     "https://www.news1.kr/world/international-economy/6272079",
     "https://www.sedaily.com/article/20084291",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4432295",
-    "https://www.mediapen.com/news/view/1119452"
+    "https://www.mediapen.com/news/view/1119452",
+    "https://www.g-enews.com/view.php?ud=202608280545311836fbbec65dfb_1",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608280209&t=NN",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=53787",
+    "https://www.news2day.co.kr/article/20260827500031",
+    "https://www.news1.kr/it-science/cc-newmedia/6271757"
    ],
    "seen_titles": [
-    "SKT,업스테이지등과'보안특화AI'개발컨소시엄구성",
-    "“AI가선수시선과칼끝까지따라가분석한다”",
-    "국가대표AI탈락모티프“재심의해달라”",
-    "추미애\"경기도,친환경반도체산업의새기준만들것\"",
-    "'반도체·로봇'움직이는곳엔다있다'...글로벌빅테크생산라인에필...",
     "[K-지능강국]④특수반도체팹더생기면안돼?···화합물·전력반도...",
     "배경훈부총리,모티프논란의식\"AI모델기업도유니콘·데카콘성장...",
     "코스피,엔비디아온기에7000선눈앞…한은금리인상충격제한적",
@@ -3274,10 +3277,15 @@
     "나스닥1.6%↑…AI랠리재확산,엔비디아9%폭등[뉴욕마감]",
     "엔비디아9%급등...뉴욕증시,AI기대감에일제히상승[데일리국제금...",
     "[뉴욕증시]엔비디아9%급등속기술업종만강세…3대지수동반상승",
-    "[美증시]엔비디아폭풍실적에3대지수동반상승…소프트웨어주대폭..."
+    "[美증시]엔비디아폭풍실적에3대지수동반상승…소프트웨어주대폭...",
+    "엔비디아1600억달러메모리약정,한국HBM가치사슬수주가시성직결",
+    "\"AI열풍꺼지지않았다\"랠리재점화'환호'…엔비디아9%'급등'",
+    "[브랜드평판]KT엠모바일,알뜰폰8월1위...프리티,SK세븐모바일뒤쫓...",
+    "[N2모닝경제브리핑-8월28일]美증시,엔비디아‘어닝서프라이즈’...",
+    "제주실종에쏠린눈…휴대폰으로어디까지찾을수있나"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T05:50:23.600461+09:00"
+   "last_run": "2026-08-28T05:55:18.076992+09:00"
   }
  },
  "press_names": {
