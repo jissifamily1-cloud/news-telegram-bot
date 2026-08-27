@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-27T20:15:23.078109+09:00",
-     "퇴근길 가닥 ETF거래 없던"
-    ],
-    [
-     "2026-08-27T20:20:24.430677+09:00",
-     "코스피 매수 50개 신청 자사주 28일 상장사 종목"
-    ],
-    [
-     "2026-08-27T20:20:24.430677+09:00",
-     "협약기업과 워크숍 울산시자원봉사센터 실무 20개"
-    ],
-    [
      "2026-08-27T20:25:17.852360+09:00",
      "하이로컬이천 이천에 생태계 청년창업 육성 7개 25개팀 기업 키운다"
     ],
@@ -306,11 +294,13 @@
     [
      "2026-08-28T02:15:21.769691+09:00",
      "회장도 관심 투자 요청 SK에 토드 상원의원 바이오 최태원"
+    ],
+    [
+     "2026-08-28T02:20:26.608299+09:00",
+     "미국 반도체 생태계 정계 투자 도움 SK하이닉스의 재구축에"
     ]
    ],
    "seen_urls": [
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=811026",
-    "https://www.cwn.kr/news/articleView.html?idxno=54416",
     "https://www.incheonilbo.com/news/articleView.html?idxno=1330566",
     "https://www.mk.co.kr/article/12137611",
     "https://www.mk.co.kr/article/12137610",
@@ -1808,11 +1798,11 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=272469",
     "https://www.newsis.com/view/NISX20260828_0003766115",
     "https://www.news1.kr/world/usa-canada/6272066",
-    "https://www.edaily.co.kr/News/Read?newsId=01275926645551912&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01275926645551912&mediaCodeNo=257",
+    "https://view.asiae.co.kr/article/2026082802162813636",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=272473"
    ],
    "seen_titles": [
-    "박현주“배당많이했다면삼전닉스생겼겠냐…더투자해야”[마켓시...",
-    "[노성열의AI경제]무감소비와시성비의시대,사라지는'나'",
     "\"K-신약,경쟁력끌어올리려면합리적규제필요\"",
     "AAII1위에도탈락한모티프…\"평가결과공개·재심의해야\"",
     "'AI순환금융'반박한젠슨황\"더투자하지못해후회\"",
@@ -3310,10 +3300,12 @@
     "역사새로운장열었다…지역사회호평일색\"SK하이닉스,단순한장소...",
     "SK하이닉스,2029년미국산HBM양산…\"연간수십만장생산능력\"(종합2보...",
     "SK하이닉스,2029년美서HBM생산…\"추가투자열려있어\"(종합2보)",
-    "토드영美상원의원“SK에바이오투자요청…최태원회장도관심”"
+    "토드영美상원의원“SK에바이오투자요청…최태원회장도관심”",
+    "[현장]곽노정\"반도체강세이어질것\"…추가투자어디든열려있어",
+    "미정계\"SK하이닉스의투자,미국반도체생태계재구축에큰도움\""
    ],
    "initialized": true,
-   "last_run": "2026-08-28T02:15:21.769691+09:00"
+   "last_run": "2026-08-28T02:20:26.608299+09:00"
   }
  },
  "press_names": {
