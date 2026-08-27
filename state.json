@@ -590,15 +590,13 @@
     [
      "2026-08-27T23:00:37.605067+09:00",
      "코스피 소폭 엔비디아 긴축 서프라이즈 상승 우려에"
+    ],
+    [
+     "2026-08-27T23:05:20.816028+09:00",
+     "생산기지 인디애나 미국 SK하이닉스 기공식"
     ]
    ],
    "seen_urls": [
-    "https://theopiniontimes.news/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-2%eb%b6%84%ea%b8%b0-%eb%a7%a4%ec%b6%9c-106%e2%86%91-962%ec%96%b5%eb%8b%ac%eb%9f%ac13%eb%b6%84%ea%b8%b0-%ec%97%b0%ec%86%8d-%ec%b5%9c%eb%8c%80-%eb%a7%a4/",
-    "https://www.mk.co.kr/article/12137525",
-    "https://www.news1.kr/world/international-economy/6271018",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=362297",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=726890",
-    "https://www.kbanker.co.kr/news/articleView.html?idxno=225770",
     "http://www.inews24.com/view/1998731",
     "https://www.topstarnews.net/news/articleView.html?idxno=16174850",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=362300",
@@ -2092,15 +2090,15 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=860226",
     "http://sateconomy.co.kr/news/view/1065621047105543",
     "https://www.venturesquare.net/1109135/",
-    "https://www.betanews.net/article/view/beta202608270089"
+    "https://www.betanews.net/article/view/beta202608270089",
+    "http://www.suwonilbo.kr/news/articleView.html?idxno=317770",
+    "https://www.aitimes.kr/news/articleView.html?idxno=41641",
+    "https://www.news1.kr/world/usa-canada/6271847",
+    "https://biz.newdaily.co.kr/site/data/html/2026/08/27/2026082700387.html",
+    "https://www.newsis.com/view/NISX20260827_0003764426",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260827180022Znn"
    ],
    "seen_titles": [
-    "[개장시황]코스피,혼조출발후6,800선공방…반도체대장주숨고르...",
-    "SKT,보안기업·대학과사이버보안특화AI모델개발",
-    "2026하반기대기업채용문활짝…현대차·LG전자·SK텔레콤신입공채",
-    "독자AI정예팀뭉쳤다…SKT,'보안올스타팀'으로'보안AI개발'출사표",
-    "모티프,독파모탈락이의제기…\"세부점수공개·재심의해야\"",
-    "자소서부터쓰던내가알던공채가아니야…대기업하반기채용,첫관...",
     "[단독]최태원5.5조베팅에美도움직였다…인프라깔고30년세수7천억",
     "장강메모리'제2창신과기'될까,中메모리IPO최대어출격",
     "[금통위금리인상②증권가]높아진이자·할인율에증시부담…환율...",
@@ -3594,10 +3592,16 @@
     "'로맥앞홈런'SSG전의산\"중심타선적응됐어\"",
     "엔비디아매출106%급증…中매출빼고도1080억달러전망,韓HBM호황...",
     "“멈춘로봇몇대?”…다임리서치,공장데이터읽는AI에이전트만든...",
-    "코스피,엔비디아서프라이즈...긴축우려에소폭상승"
+    "코스피,엔비디아서프라이즈...긴축우려에소폭상승",
+    "이상일용인특례시장,반도체산단필수전력·용수공급정부에요청",
+    "SKT,AIDC인프라컴퍼니'SK호라이즌'출범...'아시아AI인프라허브'를...",
+    "SK하이닉스,美인디애나HBM팹첫삽…'메이드인USA'연다",
+    "SK하이닉스,美인디애나서첫삽…HBM공급망현지화속도",
+    "SK하이닉스,미국산HBM만든다…美생산거점기공식",
+    "SK하이닉스,인디애나팹기공식…첫미국생산기지"
    ],
    "initialized": true,
-   "last_run": "2026-08-27T23:00:37.605067+09:00"
+   "last_run": "2026-08-27T23:05:20.816028+09:00"
   }
  },
  "press_names": {
