@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-27T19:15:22.102519+09:00",
-     "논란과 양극화의 4년 기간제"
-    ],
-    [
-     "2026-08-27T19:15:22.102519+09:00",
-     "축소 상승폭 한국은행 웃은 금리 실적에 엔비디아 인상에 증시"
-    ],
-    [
-     "2026-08-27T19:15:22.102519+09:00",
-     "인상 미지근했지만 금리 악재 넘었다"
-    ],
-    [
      "2026-08-27T19:40:23.206160+09:00",
      "D램 죽음의 정부 버티게 계곡 1위 선언 지원 낸드 자급"
     ],
@@ -342,14 +330,13 @@
     [
      "2026-08-28T01:10:28.704218+09:00",
      "CXMT DDR5 높인다 속도 SK하이닉스 추격 D램 수율 삼성전자"
+    ],
+    [
+     "2026-08-28T01:15:24.783161+09:00",
+     "투자 추가 곽노정 SK하이닉스 확정된 대표 있어 숏리스트"
     ]
    ],
    "seen_urls": [
-    "https://www.pennmike.com/news/articleView.html?idxno=126531",
-    "https://biz.heraldcorp.com/article/10853950",
-    "https://www.newspim.com/news/view/20260827000543",
-    "https://www.koreajoongangdaily.com/bilingual-news/rebalancing-and-retirement-asset-management-kor/12846715",
-    "https://www.mydaily.co.kr/page/view/2026082701461101675",
     "http://www.seouleconews.com/news/articleView.html?idxno=93346",
     "https://www.businessplus.kr/news/articleView.html?idxno=116006",
     "https://www.hankookilbo.com/news/article/A2026082709320005364?did=NA",
@@ -1844,14 +1831,14 @@
     "https://www.g-enews.com/view.php?ud=2026082719072444829a1f309431_1",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1722013",
     "https://www.news1.kr/world/usa-canada/6272062",
-    "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62364"
+    "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62364",
+    "https://www.tokenpost.kr/news/ai/399170",
+    "https://www.etoday.co.kr/news/view/2619100",
+    "https://www.newspim.com/news/view/20260828000016",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008725846&plink=ORI&cooper=NAVER",
+    "https://www.news1.kr/world/usa-canada/6272063"
    ],
    "seen_titles": [
-    "Nvidia接触韩国AI芯片初创公司Rebellions",
-    "디매트릭스,3DD램적층에차세대AI추론메모리경쟁격화",
-    "[초동시각]주주환원,이제부터시작이다",
-    "휴머노이드·피지컬AI에4.3조투입…혁신기업엔최대100억지원",
-    "‘엔비디아훈풍’에삼전닉스동반강세",
     "李대통령,대기업총수잦은만남…재계\"실질적규제혁파병행돼야...",
     "“땡큐엔비디아”삼전닉스,안도랠리재개?“반도체투자심리호전”",
     "SamsungElectronics,SKhynixjumponNvidiaearningsbeat",
@@ -3346,10 +3333,15 @@
     "엔비디아발AI낙관론확산…나스닥선물·아시아반도체동반상승",
     "SK하이닉스,美첫HBM생산거점기공식…\"한미AI의새로운미래시작\"",
     "[속보]곽노정SK하이닉스대표\"메모리공급부족2030년말까지이어질...",
-    "“DDR5수율90%”..CXMT,삼성전자·SK하이닉스D램추격속도높인다!"
+    "“DDR5수율90%”..CXMT,삼성전자·SK하이닉스D램추격속도높인다!",
+    "엔비디아데이터센터117%증가,회수기간논쟁으로",
+    "SK하이닉스,美인디애나HBM거점첫삽…2029년‘메이드인USA’양산",
+    "[종합]SK하이닉스,美HBM시대연다…2029년한미생산체계가동",
+    "SK하이닉스,미인디애나팹착공…\"연간수십만장HBM생산\"",
+    "[속보]곽노정SK하이닉스대표\"美추가투자숏리스트있어…확정된..."
    ],
    "initialized": true,
-   "last_run": "2026-08-28T01:10:28.704218+09:00"
+   "last_run": "2026-08-28T01:15:24.783161+09:00"
   }
  },
  "press_names": {
