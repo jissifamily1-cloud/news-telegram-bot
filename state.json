@@ -1386,18 +1386,13 @@
     [
      "2026-08-27T18:35:19.081954+09:00",
      "구축 호라이즌 체제 DC 분사한다 하이퍼 SKB 데이터센터 SKT 3각"
+    ],
+    [
+     "2026-08-27T18:40:21.947449+09:00",
+     "걱정 고마운데 호남 기후부 반도체 전기 김성환 장관"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260827092018144",
-    "https://www.newsway.co.kr/news/view?ud=2026082709313121057",
-    "https://www.newscj.com/news/articleView.html?idxno=3428077",
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=705963",
-    "http://weekly.chosun.com/news/articleView.html?idxno=54691",
-    "https://view.asiae.co.kr/article/2026082709141431184",
-    "https://biz.newdaily.co.kr/site/data/html/2026/08/27/2026082700041.html",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1721878",
-    "https://biz.heraldcorp.com/article/10853682",
     "https://www.g-enews.com/view.php?ud=20260827091622109044093b5d4e_1",
     "https://www.tokenpost.kr/news/market/398615",
     "https://www.tokenpost.kr/news/market/398617",
@@ -2888,18 +2883,18 @@
     "https://www.thelec.kr/news/articleView.html?idxno=61453",
     "https://biz.newdaily.co.kr/site/data/html/2026/08/27/2026082700374.html",
     "https://www.veritas-a.com/news/articleView.html?idxno=624902",
-    "http://www.inews24.com/view/1999175"
+    "http://www.inews24.com/view/1999175",
+    "https://sports.donga.com/sports/article/all/20260827/134559250/1",
+    "https://www.newscj.com/news/articleView.html?idxno=3428302",
+    "https://www.newsis.com/view/NISX20260827_0003766023",
+    "https://magazine.hankyung.com/business/article/202608277833b",
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=88498",
+    "http://www.kdfnews.com/news/articleView.html?idxno=187170",
+    "https://www.thelec.kr/news/articleView.html?idxno=61455",
+    "https://www.seoultimes.news/news/article.html?no=2000099231",
+    "https://www.ikbc.co.kr/article/view/kbc202608270062"
    ],
    "seen_titles": [
-    "\"사이버안보방패만든다\"…SKT·업스테이지등'국가대표AI·보안드...",
-    "코스피,엔비디아호실적에2%대급등…7000선눈앞",
-    "[EBN데이터센터]코스피,엔비디아發훈풍에7000선근접",
-    "코스피,장초반2%대상승해7천피탈환시도(종합)",
-    "SK이노베이션,SKIET흡수합병결정…\"재무·사업리스크모회사가떠안...",
-    "코스피,엔비디아호실적에반도체주강세출발···7000선회복시도",
-    "\"쪼갤땐언제고적자나니재합병\"…SK이노주주잔혹사에\"이게국장맛...",
-    "AI데이터센터특수잡았다…삼성SDI,프리미엄ESS잭팟",
-    "(LEAD)SeoulstocksopensharplyhigheronrobustearningsfromNvidia",
     "2%강세코스피,외인·기관순매수에7000재도전...엔비디아가살린'...",
     "[애널픽]\"SK바이오팜,차기뇌전증신약가치3.2조…목표가↑\"",
     "엔비디아\"내년매출70%↑…마진72~73%예상\"(종합)",
@@ -4390,10 +4385,19 @@
     "SK이터닉스,삼성바이오로직스에재생에너지170MW공급",
     "돈풀고금리올리는'아마추어정부'…고통은서민에게[긴급진단-기...",
     "[단독][2027대입잣대]지난해SKY중도탈락2012명'4년래최저'..'2026의...",
-    "SKB'AIDC'분사한다…'SKT-하이퍼-호라이즌'데이터센터3각체제구축..."
+    "SKB'AIDC'분사한다…'SKT-하이퍼-호라이즌'데이터센터3각체제구축...",
+    "대전하나U-18수비수김도연,바이에른뮌헨이적…2주간트라이얼서...",
+    "SKT,AI인프라함대완성…3조800억투자유치",
+    "기후장관\"호남산단팹4기이상이면추가전력·용수계획필요\"",
+    "SK이터닉스,삼성바이오와170MW재생에너지공급협력",
+    "SK에코플랜트-SK에코엔지니어링합병···AI·반도체인프라사업가...",
+    "SKT,AIDC승부수…SK호라이즌신설·3조800억원투자유치",
+    "SK에코플랜트-SK에코엔지니어링12월합병",
+    "SKT,AI데이터센터‘SK호라이즌’분리…3조800억원투자유치",
+    "김성환기후부장관\"호남반도체,물·전기돼?...고마운데,걱정안해..."
    ],
    "initialized": true,
-   "last_run": "2026-08-27T18:35:19.081954+09:00"
+   "last_run": "2026-08-27T18:40:21.947449+09:00"
   }
  },
  "press_names": {
