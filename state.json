@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-27T05:55:21.429949+09:00",
-     "SK바이오팜은 실패한 임상 오파칼림 2번 5500억 베팅했나"
-    ],
-    [
      "2026-08-27T06:05:18.973487+09:00",
      "Gates MS 테라 파워 SMR 전도사 Bill 빌게이츠"
     ],
@@ -1178,13 +1174,17 @@
     [
      "2026-08-27T11:55:18.619173+09:00",
      "BBQ 동서식품 상미당 대응부터 육성까 SKT 기후위기 인재"
+    ],
+    [
+     "2026-08-27T12:00:37.358151+09:00",
+     "제약 압박 한숨 양극화 전통제약 약가인하 매출원가율 심화"
+    ],
+    [
+     "2026-08-27T12:00:37.358151+09:00",
+     "기준 성장하는 만들 첨단기술 함께 친환경에너지 글로벌 추미애"
     ]
    ],
    "seen_urls": [
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=663218",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=316897",
-    "http://www.metroseoul.co.kr/article/20260826500490",
-    "https://platum.kr/archives/293340",
     "https://www.ddaily.co.kr/page/view/2026082616350971226",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260826010008939",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480802",
@@ -2680,13 +2680,13 @@
     "https://biz.heraldcorp.com/article/10854133",
     "https://www.news1.kr/politics/general-politics/6271211",
     "https://biz.heraldcorp.com/article/10854127",
-    "http://www.dailypop.kr/news/articleView.html?idxno=101967"
+    "http://www.dailypop.kr/news/articleView.html?idxno=101967",
+    "https://www.yna.co.kr/view/AKR20260827092200061?input=1195m",
+    "https://www.kpinews.kr/newsView/1065581167233130",
+    "https://www.dailypharm.com/user/news/341819?REFERER=NP",
+    "https://www.newspim.com/news/view/20260827000633"
    ],
    "seen_titles": [
-    "코스피,기관'사자'에1%가까이상승···6800선마감",
-    "SKAX,독일SAP와‘AI경영자동화’동맹…기업AX사업확장",
-    "코스피,6800선회복...기관매수세에연속상승",
-    "“반도체반등에6800선회복”…코스피,엔비디아실적앞두고1%상승",
     "코스피,美금리·유가하락에0.97%상승…6800선회복",
     "코스피,상승폭확대에6800선마감",
     "SK가스,SK어드밴스드흡수합병…프로판사업밸류체인재편",
@@ -4182,10 +4182,14 @@
     "연산2.5만톤‘리튬2공장’준공…포스코,‘40%마진’시대연다[K-...",
     "이언주\"반도체는전략산업,美투자요구응하기쉽지않다\"[팩트앤뷰...",
     "SK가스·어드밴스드합병…프로판·프로필렌통합",
-    "[기업들]상미당·BBQ·SKT·동서식품...기후위기대응부터인재육성까..."
+    "[기업들]상미당·BBQ·SKT·동서식품...기후위기대응부터인재육성까...",
+    "글로벌반도체기업들만난추미애\"경기도를세계기준만들것\"",
+    "추미애\"경기도를세계친환경반도체산업새기준만들겠다\"",
+    "제약매출원가율양극화심화…'약가인하압박'전통제약한숨",
+    "추미애\"첨단기술·친환경에너지함께성장하는글로벌기준만들것\""
    ],
    "initialized": true,
-   "last_run": "2026-08-27T11:55:18.619173+09:00"
+   "last_run": "2026-08-27T12:00:37.358151+09:00"
   }
  },
  "press_names": {
