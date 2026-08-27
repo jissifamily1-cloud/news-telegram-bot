@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-27T23:20:23.748443+09:00",
-     "반도체 투자에 확대 검토설 트럼프 가능성 연동 관세"
-    ],
-    [
-     "2026-08-27T23:25:19.553757+09:00",
-     "삼성증권 이벤트 ISA 점프 실시 중개형"
-    ],
-    [
-     "2026-08-27T23:25:19.553757+09:00",
-     "김재희 제15회 장면 1라운드 경기 KG 오픈 레이디스"
-    ],
-    [
      "2026-08-27T23:30:29.575928+09:00",
      "절반 데이터센터 엔비디아 초대형 클라우드 밖으로"
     ],
@@ -274,11 +262,13 @@
     [
      "2026-08-28T05:20:21.267956+09:00",
      "설영우 달고 풀백 리그서 아우 7번 등번호 뛴다 최고"
+    ],
+    [
+     "2026-08-28T05:25:23.072320+09:00",
+     "1300원대 자산을 진입 지금 환율 모으고 부자들은"
     ]
    ],
    "seen_urls": [
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608270373&t=NN",
-    "http://www.worktoday.co.kr/news/articleView.html?idxno=88468",
     "https://biz.heraldcorp.com/article/10854089",
     "https://biz.heraldcorp.com/article/10854090",
     "https://www.news1.kr/local/gyeonggi/6271262",
@@ -1776,11 +1766,11 @@
     "https://www.seoul.co.kr/news/economy/industry/2026/08/28/20260828032004?wlog_tag3=naver",
     "https://www.edaily.co.kr/News/Read?newsId=01807286645551912&mediaCodeNo=257",
     "https://www.aitimes.com/news/articleView.html?idxno=214511",
-    "https://www.goal.com/kr/뉴스/a/blt286d8187fd3cdf37"
+    "https://www.goal.com/kr/뉴스/a/blt286d8187fd3cdf37",
+    "https://biz.chosun.com/international/international_economy/2026/08/28/7KPAO362N5BTBDHFYVVZVGFLLI/",
+    "https://www.chosun.com/economy/money/2026/08/28/5FP73LZOHVDJPP4SIWOA5I33OA/"
    ],
    "seen_titles": [
-    "SKAX,SAP와'AI네이티브엔터프라이즈'협력논의",
-    "[데이터뉴스룸]석화업체50곳중80%넘게상반기매출성적에방긋…...",
     "엔비디아영향초반급등코스피…금리인상에6900선으로",
     "한국피지컬AI기술이국방과방산분야경쟁력,싱크탱크\"중국공급망...",
     "FCP,삼성측에스원지분인수제안…45%프리미엄제시[시그널]",
@@ -3278,10 +3268,12 @@
     "SKTAI데이터센터‘호라이즌’세운다",
     "[속보]엔비디아발훈풍에뉴욕증시상승마감…나스닥1.5%↑",
     "과기부,독파모평가성적표전체공개...\"전문가·국민평가희비갈려...",
-    "[오피셜]'韓최고풀백'설영우,빅리그서등번호7번달고뛴다!아우..."
+    "[오피셜]'韓최고풀백'설영우,빅리그서등번호7번달고뛴다!아우...",
+    "뉴욕증시,엔비디아發훈풍에일제히상승…나스닥1.57%올라",
+    "환율1300원대진입,부자들은지금이자산을모으고"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T05:20:21.267956+09:00"
+   "last_run": "2026-08-28T05:25:23.072320+09:00"
   }
  },
  "press_names": {
