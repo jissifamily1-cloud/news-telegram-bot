@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-28T02:20:26.608299+09:00",
-     "미국 반도체 생태계 정계 투자 도움 SK하이닉스의 재구축에"
-    ],
-    [
      "2026-08-28T02:30:28.894927+09:00",
      "패키징만으론 모든 부족 영역 반도체 주도 칩스법 의원"
     ],
@@ -590,17 +586,21 @@
     [
      "2026-08-28T08:20:21.327472+09:00",
      "케빈의 관건은 엔비디아는 AI랠리 이제 증명했다"
+    ],
+    [
+     "2026-08-28T08:25:18.836076+09:00",
+     "통신 넘어 15만원 데이터센터로 미래에셋증권 SK텔레콤 목표가"
+    ],
+    [
+     "2026-08-28T08:25:18.836076+09:00",
+     "KG이니 삼성바이오로직스 한국금융지주 SK텔레콤"
+    ],
+    [
+     "2026-08-28T08:25:18.836076+09:00",
+     "엔비디아발 7000선 눈치보기 훈풍에도 코스피 앞두고"
     ]
    ],
    "seen_urls": [
-    "https://www.nspna.com/news/?newsid=825831",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481093",
-    "https://www.m-i.kr/news/articleView.html?idxno=1406766",
-    "http://www.inews24.com/view/1998972",
-    "https://www.sisaon.co.kr/news/articleView.html?idxno=203878",
-    "https://news.mtn.co.kr/news-detail/2026082714074770986",
-    "https://www.ddaily.co.kr/page/view/2026082713503947560",
-    "https://www.sedaily.com/article/20084026",
     "http://www.newsian.co.kr/news/articleView.html?idxno=94338",
     "https://www.job-post.co.kr/news/articleView.html?idxno=225312",
     "https://biz.heraldcorp.com/article/10854344",
@@ -2092,17 +2092,17 @@
     "https://weekly.hankooki.com/news/articleView.html?idxno=7181083",
     "https://www.newsis.com/view/NISX20260828_0003766228",
     "https://biz.heraldcorp.com/article/10854931",
-    "https://www.ytn.co.kr/_ln/0102_202608280809306190"
+    "https://www.ytn.co.kr/_ln/0102_202608280809306190",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1722035",
+    "https://www.fnnews.com/news/202608280734449479",
+    "https://www.etoday.co.kr/news/view/2619139",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481360",
+    "https://www.tokenpost.kr/news/market/399345",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=851830",
+    "https://www.g-enews.com/view.php?ud=20260828081228919923c501012_1",
+    "https://www.ajunews.com/view/20260828081642219"
    ],
    "seen_titles": [
-    "AI시대통신망투자다시뛴다…민·관협의체본격가동",
-    "'적자SKIET'다시품은SK이노…'기업가치제고'로이어질까",
-    "추미애,\"경기도를세계친환경반도체산업새기준으로\"",
-    "ESS중앙계약시장3차'1GW시대'열리나...LG엔솔·삼성SDI·SK온격돌",
-    "삼성전자·하이닉스,엔비디아실적서하반기메모리수요확인…호황...",
-    "[더밸류브리핑]오늘의ETF소식...미래에셋자산운용·KB자산운용·한화...",
-    "SK스토아노조,라포랩스매각재추진반발…“계약파기·법위반조사...",
-    "'판돈3400억원'불법도박사이트일당덜미",
     "두원공과대학교반도체부트캠프사업으로교육생태계구축...반도체·A...",
     "SK이노베이션,해쌀태양광지분절반매각...신재생에너지재편본격화",
     "SK하이닉스,美인디애나AI메모리패키징공장기공식",
@@ -3594,10 +3594,18 @@
     "SK하이닉스,'메이드인USA'HBM나온다…인디애나공장착공",
     "'메이드인USA'HBM양산나선SK하이닉스…\"가장신뢰받는파트너될것...",
     "엔비디아‘깜짝실적’에8.74%급등…AI·기술주랠리[투자360]",
-    "AI랠리,엔비디아는증명했다...이제관건은케빈의입"
+    "AI랠리,엔비디아는증명했다...이제관건은케빈의입",
+    "SK하이닉스,3500명'통합노조'적법지위인정",
+    "\"폭락직전전량매도했다\"…한가인이공개한주식계좌내역보니",
+    "엔비디아9%↑ㆍ세일즈포스23%↑...반도체ㆍSW주방긋[뉴욕증시무버...",
+    "SK하이닉스,통합노조에'적법지위'확인…노사관계새변수로",
+    "에스지,용인반도체클러스터에친환경아스콘시공",
+    "미래에셋증권\"SK텔레콤,통신넘어AI데이터센터로…목표가15만원\"",
+    "[개장전주요공시]삼성바이오로직스·SK텔레콤·한국금융지주·KG이니...",
+    "[마켓프리뷰]엔비디아발훈풍에도코스피7000선앞두고'눈치보기'전..."
    ],
    "initialized": true,
-   "last_run": "2026-08-28T08:20:21.327472+09:00"
+   "last_run": "2026-08-28T08:25:18.836076+09:00"
   }
  },
  "press_names": {
