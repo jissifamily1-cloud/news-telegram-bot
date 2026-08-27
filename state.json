@@ -321,10 +321,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260827_0003764968",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=791645",
-    "https://www.hankyung.com/article/202608263062r",
-    "http://www.seouleconews.com/news/articleView.html?idxno=93342",
     "https://www.g-enews.com/view.php?ud=202608271102271055153ddfb15a_1",
     "https://www.yna.co.kr/view/AKR20260827076000073?input=1195m",
     "https://www.businesspost.co.kr/BP?command=article_view&num=445713",
@@ -1820,13 +1816,13 @@
     "https://www.news1.kr/world/usa-canada/6272058",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=272466",
     "http://www.newsian.co.kr/news/articleView.html?idxno=94356",
-    "https://www.chosun.com/politics/politics_general/2026/08/28/JM4CVPYW7ZAFLC4P66D4AUFWAU/"
+    "https://www.chosun.com/politics/politics_general/2026/08/28/JM4CVPYW7ZAFLC4P66D4AUFWAU/",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260828004942f54",
+    "http://www.4th.kr/news/articleView.html?idxno=2117015",
+    "https://www.joongangenews.com/news/articleView.html?idxno=543481",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=317001"
    ],
    "seen_titles": [
-    "AI전력폭주에몸값뛴다…한중엔시에스,열관리핵심수혜주부상",
-    "FCP,삼성그룹보유에스원지분'싹산다'…45%웃돈붙여9066억원제안",
-    "스노우플레이크,韓매출4년만에18배…\"AI,실험아닌성과로\"",
-    "네이버클라우드,LGCNS와'사이버보완특화AI'개발도전…SKT와2파전",
     "엔비디아70%성장신호…삼전닉스강세",
     "'보안AI'놓고SKTvs네이버클라우드맞붙었다…정부,9월한곳선정",
     "용인국지도57호선개량,반도체클러스터와시중심부연결‘청신호...",
@@ -3322,10 +3318,14 @@
     "강경화대사\"SK하닉美공장한미협력모범…李정부지원아끼지않을...",
     "곽노정\"SK하이닉스,인디애나투자통해미국에첨단메모리공급망구...",
     "토드영상원의원\"SK하이닉스인디애나팹,美반도체생태계재건의...",
-    "공소취소대신대장동면소?靑‘배임죄없앤뒤특례법’가닥"
+    "공소취소대신대장동면소?靑‘배임죄없앤뒤특례법’가닥",
+    "SK하이닉스,미인디애나서HBM첫생산…2029년양산",
+    "SK하이닉스,美인디애나HBM기지첫삽..40억달러투자",
+    "[종합]SK하이닉스,한국서D램만들고미국서HBM완성…엔비디아'안방...",
+    "SK하이닉스,미국서HBM패키징첫삽…5조원대AI메모리거점구축"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T00:50:24.038368+09:00"
+   "last_run": "2026-08-28T00:55:21.479519+09:00"
   }
  },
  "press_names": {
