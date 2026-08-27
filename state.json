@@ -258,12 +258,17 @@
     [
      "2026-08-28T04:10:22.069701+09:00",
      "나스닥 마감 P테크 엔비디아 80분 급등 미국증시"
+    ],
+    [
+     "2026-08-28T04:15:18.064004+09:00",
+     "역량 통합 합병 SK에코엔지니어링 사업 SK에코플랜트 인프라"
+    ],
+    [
+     "2026-08-28T04:15:18.064004+09:00",
+     "SOCCER NORWAY"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10854007",
-    "https://www.inthenews.co.kr/news/article.html?no=91026",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647682",
     "https://www.newsis.com/view/NISI20260827_0021412895",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=170548",
     "https://www.donga.com/news/It/article/all/20260827/134553541/2",
@@ -1760,12 +1765,12 @@
     "https://www.edaily.co.kr/News/Read?newsId=01456326645551912&mediaCodeNo=257",
     "https://www.news1.kr/world/usa-canada/6272069",
     "https://www.mt.co.kr/stock/2026/08/28/2026082719384269839",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=170582"
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=170582",
+    "https://www.fnnews.com/news/202608280404071382",
+    "http://www.inews24.com/view/1999216",
+    "https://n.news.naver.com/mnews/article/091/0010293115"
    ],
    "seen_titles": [
-    "추미애,삼전닉스·애플·아마존·MS등만나\"경기도에오면가장빨리...",
-    "강원,83초동안2골...광주,172일만의승리꿈무산",
-    "금리인상에도반도체株‘강세’…엔비디아가키운‘메모리기대’",
     "추미애“경기도목표세계최고수준완결형반도체생태계만드는것”",
     "SK이노베이션,5년만에SKIET흡수합병...개미'곡소리'는어쩌나",
     "‘쪼개기상장’SKIET다시품는SK이노…뿔난주주들국민청원도",
@@ -3262,10 +3267,13 @@
     "곽노정“메모리공급부족2030년말까지…다운턴와도과거와다를것”...",
     "[르포]옥수수밭이HBM전진기지로…SK하이닉스美첫공장가다",
     "금리인상에엔비디아효과'무색'…칠천피탈환실패",
-    "미국증시마감80분전...엔비디아·나스닥·S&P테크'급등'"
+    "미국증시마감80분전...엔비디아·나스닥·S&P테크'급등'",
+    "곽노정SK하이닉스CEO\"메모리다운턴신호없다…AI가시장구조바꿨...",
+    "SK에코플랜트,SK에코엔지니어링합병…AI인프라사업역량통합",
+    "NORWAYSOCCER"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T04:10:22.069701+09:00"
+   "last_run": "2026-08-28T04:15:18.064004+09:00"
   }
  },
  "press_names": {
