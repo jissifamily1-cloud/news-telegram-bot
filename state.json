@@ -610,17 +610,21 @@
     [
      "2026-08-28T08:30:31.585956+09:00",
      "용인 시공 모크업 SK하이닉스 에코스틸아스콘 클러스터에 SG"
+    ],
+    [
+     "2026-08-28T08:35:17.939894+09:00",
+     "연암공과대학교"
+    ],
+    [
+     "2026-08-28T08:35:17.939894+09:00",
+     "vs 풀스택 주도권 SKT 에이전틱 보안 네이버클라우드 격돌"
+    ],
+    [
+     "2026-08-28T08:35:17.939894+09:00",
+     "한은 성장률 올해보다 내년이 내년 대폭 높다 상향"
     ]
    ],
    "seen_urls": [
-    "https://daily.hankooki.com/news/articleView.html?idxno=1399869",
-    "http://www.inews24.com/view/1998998",
-    "http://www.yonhapnewstv.co.kr/news/AKR20260827143537K7E",
-    "http://www.efnews.co.kr/news/articleView.html?idxno=131939",
-    "http://www.lawissue.co.kr/view.php?ud=20260827143716227867191f6c6e_12",
-    "https://www.greened.kr/news/articleView.html?idxno=348571",
-    "https://www.greened.kr/news/articleView.html?idxno=348581",
-    "http://www.metroseoul.co.kr/article/20260827500349",
     "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90739",
     "http://www.impacton.net/news/articleView.html?idxno=20123",
     "http://www.4th.kr/news/articleView.html?idxno=2116968",
@@ -2112,17 +2116,17 @@
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608251144152240104133",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4432318",
     "https://www.newsis.com/view/NISI20260828_0021413983",
-    "https://www.newsis.com/view/NISX20260828_0003766235"
+    "https://www.newsis.com/view/NISX20260828_0003766235",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=170597",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260828083209dJD",
+    "https://www.seoul.co.kr/news/economy/2026/08/28/20260828500014?wlog_tag3=naver",
+    "https://theviewers.co.kr/View.aspx?No=4202685",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=63511",
+    "https://www.knnews.co.kr/news/articleView.php?idxno=1549601",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=364329",
+    "https://theviewers.co.kr/View.aspx?No=4202680"
    ],
    "seen_titles": [
-    "삼성전자26만5000원,1%대상승…엔비디아호실적에반도체株투자심리...",
-    "SK텔레콤,업스테이지와‘사이버보안특화AI’개발도전",
-    "AI시대통신망투자늘린다…정부·통신3사,규제·세제개선추진",
-    "과기정통부통신3사와'AI시대통신망투자협의체'가동,연내종합대책...",
-    "화순군,호남권반도체시대배후도시부상",
-    "용인특례시\"국지도57호선원삼~마평개량사업예비타당성조사통과,...",
-    "미국은직접환급인데…세액공제뿐인한국판IRA에與도우려",
-    "[SKI-SKIET합병]캐즘똑같이겪었는데…피어그룹은회복,SKIET만적자...",
     "메리츠증권,무형자산취득9배'껑충'…IT투자로리테일승부수",
     "ASML코리아,하반기세자릿수공채돌입…첨단팹기술인력대거충원",
     "'수치'로증명한엔비디아,삼전·닉스주가에'훈풍'",
@@ -3614,10 +3618,18 @@
     "[더벨][이사회사무국점검]대기업이사회지원조직절반은기존부서가...",
     "'전기먹는하마'AI데이터센터…전체전력소비4분의1흡수",
     "축사하는강경화주미한국대사",
-    "SG,SK하이닉스용인클러스터에에코스틸아스콘모크업시공"
+    "SG,SK하이닉스용인클러스터에에코스틸아스콘모크업시공",
+    "SK하이닉스,첫美생산거점착공...\"핵심HBM생산기지로\"",
+    "네팔·티베트대홍수수색속도…사망자392명",
+    "한가인“삼전닉스조정직전다팔았다”…주식강의듣더니‘이것’...",
+    "SK하이닉스,미국서‘메이드인USA’HBM만든다",
+    "[증시전망대]연준의장잭슨홀연설앞두고'엔비디아랠리'이어갈까...",
+    "[대학특집]연암공과대학교",
+    "SKT'에이전틱'vs네이버클라우드'풀스택'...보안AI주도권격돌",
+    "[애널픽]한은,내년성장률2.9%로대폭상향…\"올해보다내년이높다\""
    ],
    "initialized": true,
-   "last_run": "2026-08-28T08:30:31.585956+09:00"
+   "last_run": "2026-08-28T08:35:17.939894+09:00"
   }
  },
  "press_names": {
