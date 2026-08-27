@@ -258,14 +258,13 @@
     [
      "2026-08-28T03:15:21.939474+09:00",
      "도시 SK하이닉스가 7000개 5만 들썩 일자리 인구 만든대"
+    ],
+    [
+     "2026-08-28T03:35:22.267263+09:00",
+     "투자 잡은 전략은 삼전닉스 닫으세요 개미 손절 상투"
     ]
    ],
    "seen_urls": [
-    "https://www.sportsseoul.com/news/read/1631215",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=143628",
-    "https://www.busan.com/view/busan/view.php?code=2026082711264392395",
-    "https://biz.heraldcorp.com/article/10854020",
-    "https://en.yna.co.kr/view/AEN20260827004600320?input=2106m",
     "https://biz.heraldcorp.com/article/10854016",
     "https://www.newsis.com/view/NISI20260827_0021412897",
     "https://www.newsis.com/view/NISI20260827_0021412896",
@@ -1760,14 +1759,14 @@
     "https://www.g-enews.com/view.php?ud=2026082800011790769a1f309431_1",
     "https://www.kyeonggi.com/article/20260827580534",
     "https://www.hani.co.kr/arti/international/america/1275047.html",
-    "https://www.edaily.co.kr/News/Read?newsId=01315286645551912&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01315286645551912&mediaCodeNo=257",
+    "https://www.edaily.co.kr/News/Read?newsId=01371046645551912&mediaCodeNo=257",
+    "https://www.newsis.com/view/NISI20260828_0002223572",
+    "https://www.newsis.com/view/NISI20260828_0002223577",
+    "https://www.newsis.com/view/NISI20260828_0002223578",
+    "https://www.mt.co.kr/stock/2026/08/28/2026082716490961773"
    ],
    "seen_titles": [
-    "SK텔레콤·업스테이지,'보안특화AI'개발맞손...9개보안기업합류",
-    "이상일용인특례시장,'용인반도체국가산단·일반산단가동,필요한전...",
-    "[세계지식포럼연사]관세시대,한국기업이공장지을땅…미국주정...",
-    "삼성전자‘zHBF’상표출원…HBM다음AI메모리선점나선다",
-    "'독파모정예팀'SKT·업스테이지뭉쳤다…'보안AI올스타팀'가동",
     "추미애\"평택호등에대규모재생에너지사업,2030년까지10GW보급\"",
     "엔비디아‘깜짝실적’에다시힘내는반도체주",
     "“삼전닉스에맞불”키옥시아8.6조원베팅",
@@ -3262,10 +3261,15 @@
     "젠슨황“내저녁상대기업주가,다음날두배”",
     "[사설]판교원격운전공유차,대한민국미래가걸려있다",
     "[인터뷰]곽노정“메모리공급부족2030년말까지”…미국추가투자도...",
-    "\"SK하이닉스가7000개일자리만든대\"…인구4.5만美도시‘들썩’"
+    "\"SK하이닉스가7000개일자리만든대\"…인구4.5만美도시‘들썩’",
+    "SK,2030년까지美투자·자산62조넘는다…“인디애나는시작”",
+    "SK하이닉스인디애나기공식서연설하는곽노정사장",
+    "기자회견하는곽노정SK하이닉스사장",
+    "취재진질문에답하는곽노정SK하이닉스사장",
+    "\"삼전닉스손절?앱닫으세요\"…상투잡은개미,투자전략은[부꾸미]"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T03:30:30.430749+09:00"
+   "last_run": "2026-08-28T03:35:22.267263+09:00"
   }
  },
  "press_names": {
