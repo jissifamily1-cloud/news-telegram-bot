@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-27T23:00:37.605067+09:00",
-     "코스피 소폭 엔비디아 긴축 서프라이즈 상승 우려에"
-    ],
-    [
      "2026-08-27T23:05:20.816028+09:00",
      "생산기지 인디애나 미국 SK하이닉스 기공식"
     ],
@@ -254,15 +250,21 @@
     [
      "2026-08-28T04:55:18.964605+09:00",
      "반도체 혼조 훈풍에도 강세 마이크론 SK하이닉스 엔비디아"
+    ],
+    [
+     "2026-08-28T05:05:19.073975+09:00",
+     "어려운 무기는 신입의 고시보다 대표 취업 대입 서미영 인크루트"
+    ],
+    [
+     "2026-08-28T05:05:19.073975+09:00",
+     "자사주 배당이냐 매입이냐"
+    ],
+    [
+     "2026-08-28T05:05:19.073975+09:00",
+     "공정률 전초기지 가고있어요 HBM 계획대로 윤곽"
     ]
    ],
    "seen_urls": [
-    "https://www.cnbnews.com/news/articleView.html?idxno=1013060",
-    "https://www.greened.kr/news/articleView.html?idxno=348570",
-    "https://biz.sbs.co.kr/article_hub/20000331089?division=NAVER",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=445739",
-    "https://www.sedaily.com/article/20083949",
-    "http://www.newsdream.kr/news/articleView.html?idxno=117003",
     "https://biz.heraldcorp.com/article/10854074",
     "https://www.aitimes.com/news/articleView.html?idxno=214437",
     "https://www.siminsori.com/news/articleView.html?idxno=401224",
@@ -1756,15 +1758,15 @@
     "https://www.fnnews.com/news/202608280442502942",
     "https://www.yna.co.kr/view/AKR20260827025552071?input=1195m",
     "https://biz.sbs.co.kr/article_hub/20000331257?division=NAVER",
-    "https://www.mediapen.com/news/view/1119448"
+    "https://www.mediapen.com/news/view/1119448",
+    "https://www.nocutnews.co.kr/news/6569481",
+    "https://www.nocutnews.co.kr/news/6569479",
+    "https://www.news2day.co.kr/article/20260828500008",
+    "https://magazine.hankyung.com/business/article/202608278038b",
+    "https://www.seoul.co.kr/news/editOpinion/world-stories/2026/08/28/20260828027004?wlog_tag3=naver",
+    "https://www.newsis.com/view/NISX20260827_0003765182"
    ],
    "seen_titles": [
-    "장중...아시아8곳증시'혼조',亞반도체주는'활짝'",
-    "한국,미·중이어글로벌AI경쟁서‘명확한3위’평가",
-    "[오늘의삼전닉스]금리인상에반도체주발목,외국인과기관'쌍끌이...",
-    "여전히발목잡는공장가동률…K배터리3사,타개책마련안간힘",
-    "'곽빈X김도영없는'AG특수도글쎄…5강사실상확정?나란히추락하는...",
-    "네이버클라우드,LGCNS손잡고‘K-미토스’만든다",
     "SK바이오팜,오파칼림뭐기에‘시장출렁’..차세대뇌전증신약도입",
     "네이버클라우드·LGCNS,보안특화AI사업참여",
     "엔비디아실적컨퍼런스콜서등장한삼전닉스·LG·현대차…젠슨황“...",
@@ -3258,10 +3260,16 @@
     "\"SK추가투자확신\"…美상원의원\"HBM넘어바이오까지기대\"",
     "SK하이닉스,美인디애나팹착공…年수십만장7세대HBM생산(종합2보)",
     "[글로벌비즈브리핑]'통화정책신호등'美연준잭슨홀개막外",
-    "[美증시]엔비디아훈풍에도반도체혼조…SK하이닉스강세,마이크론..."
+    "[美증시]엔비디아훈풍에도반도체혼조…SK하이닉스강세,마이크론...",
+    "SK하이닉스,'메이드인USA'HBM연간수십만장씩생산한다",
+    "'AI피크아웃론'잠재운엔비디아실적…'삼전닉스'메모리파워부각",
+    "엔비디아발훈풍에K반도체'들썩'…KRX반도체지수2.48%'껑충'",
+    "인크루트서미영대표“대입·고시보다어려운취업,신입의무기는A...",
+    "[열린세상]배당이냐,자사주매입이냐",
+    "[르포]SKHBM美전초기지윤곽…\"공정률7%,계획대로가고있어요\""
    ],
    "initialized": true,
-   "last_run": "2026-08-28T05:00:34.672038+09:00"
+   "last_run": "2026-08-28T05:05:19.073975+09:00"
   }
  },
  "press_names": {
