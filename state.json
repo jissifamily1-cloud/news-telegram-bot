@@ -170,10 +170,13 @@
     [
      "2026-08-29T00:25:20.238277+09:00",
      "풀리는 반도체 800조 난제 삼성전자 호남 SK하이닉스"
+    ],
+    [
+     "2026-08-29T00:37:29.718960+09:00",
+     "제품도 세지는 검토 반도체 관세 들어간 부과"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2619206",
     "https://www.sedaily.com/article/20084343",
     "https://www.etnews.com/20260828000039",
     "https://www.mt.co.kr/stock/2026/08/28/2026082808484796614",
@@ -1672,10 +1675,10 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=602040",
     "https://biz.heraldcorp.com/article/10855960",
     "https://www.chosun.com/opinion/editorial/2026/08/29/PXWAZIEAVBAH5JIMCYXDPPR55Q/",
-    "https://www.joongangenews.com/news/articleView.html?idxno=543853"
+    "https://www.joongangenews.com/news/articleView.html?idxno=543853",
+    "https://www.chosun.com/economy/tech_it/2026/08/29/TUQKPDOLSNDC5GAHQ2S56ZQEC4/"
    ],
    "seen_titles": [
-    "SK하이닉스,HBM'미국산시대'연다⋯인디애나에40억달러베팅",
     "코스피,반도체투톱약세에6830선후퇴…코스닥은약보합",
     "코스피,美엔비디아훈풍에도장초반6800선약세",
     "\"미국과AI새미래시작\"5조이상투자HBM첫거점승부수SK하이닉스...",
@@ -3174,10 +3177,11 @@
     "두산에너빌리티장세약세속껑충,주말이후흐름은?",
     "“주주가주인은아니다”…중복상장SKIET다시품은SK이노의메시지...",
     "[사설]전당대회싸움엔거침없더니국민삶챙길때는몸사려",
-    "[종합]최대난제풀리는'800조호남반도체'…삼성전자·SK하이닉스투..."
+    "[종합]최대난제풀리는'800조호남반도체'…삼성전자·SK하이닉스투...",
+    "더세지는美반도체관세…“칩들어간제품도부과검토”"
    ],
    "initialized": true,
-   "last_run": "2026-08-29T00:35:19.633035+09:00"
+   "last_run": "2026-08-29T00:37:29.718960+09:00"
   }
  },
  "press_names": {
