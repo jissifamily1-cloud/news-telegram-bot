@@ -518,11 +518,13 @@
     [
      "2026-08-28T22:30:29.461512+09:00",
      "2분기 20조원 규모 매출 창신메모리 하이닉스의"
+    ],
+    [
+     "2026-08-28T22:35:19.770071+09:00",
+     "요기요 신세계면세점 KT알파 SK스토아"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20084339",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275694",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481406",
     "https://www.pointe.co.kr/news/articleView.html?idxno=83928",
     "https://magazine.hankyung.com/business/article/202608288570b",
@@ -2020,11 +2022,11 @@
     "http://www.inews24.com/view/1999639",
     "https://www.koreaherald.com/article/10855962",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8649316",
-    "http://www.4th.kr/news/articleView.html?idxno=2117073"
+    "http://www.4th.kr/news/articleView.html?idxno=2117073",
+    "https://www.seoul.co.kr/news/economy/industry/2026/08/28/20260828500292?wlog_tag3=naver",
+    "https://www.ekn.kr/web/view.php?key=20260828028407831"
    ],
    "seen_titles": [
-    "[속보]코스피,1%대하락출발…6800선등락",
-    "SK하이닉스,美첫HBM공장착공…2029년HBM4E양산",
     "‘부울경기업취업희망청년모여라’…9월3일삼육대서채용박람회",
     "장초반亞증시는?...코스피'하락'vsN225·AXJO'상승'",
     "SKT,'보안올스타팀'결성…국산AI로사이버보안주권강화",
@@ -3522,10 +3524,12 @@
     "한가인\"주식폭락전다팔아\"…전문가감탄한최근매입종목은?",
     "KoreapicksSKTelecom,Kakao,KTtobuildfreenationwideAIservices",
     "대전하나반등성공…상위스플릿경쟁‘불씨’",
-    "中창신메모리2분기매출20조원…하이닉스의26%규모"
+    "中창신메모리2분기매출20조원…하이닉스의26%규모",
+    "中CXMT,상반기매출10배…순이익15조원대",
+    "[똑똑한소비]신세계면세점,KT알파,요기요,SK스토아"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T22:30:29.461512+09:00"
+   "last_run": "2026-08-28T22:35:19.770071+09:00"
   }
  },
  "press_names": {
