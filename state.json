@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-28T19:30:30.693969+09:00",
-     "외풍에 취약한 주가 삼전닉스"
-    ],
-    [
-     "2026-08-28T19:30:30.693969+09:00",
-     "전수완 웃었다 미코 행복했던 수상 불발에도 전희철 여름"
-    ],
-    [
      "2026-08-28T19:50:24.008656+09:00",
      "수해에 20억 10억 거제 통영 4대 70억 추가 LG"
     ],
@@ -138,10 +130,13 @@
     [
      "2026-08-29T01:15:28.153921+09:00",
      "보안 튼튼한 갖춰야 시스템 모두의"
+    ],
+    [
+     "2026-08-29T01:35:21.119508+09:00",
+     "판매 공익상 부적절 ETF 레버리지 단일종목 금융청 금지"
     ]
    ],
    "seen_urls": [
-    "http://www.sisacast.kr/news/articleView.html?idxno=99297",
     "https://www.mediapen.com/news/view/1119505",
     "https://biz.chosun.com/stock/stock_general/2026/08/28/JY2D4TKQGRAZTL7EDQB34ZMQRM/",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4432344",
@@ -1640,10 +1635,10 @@
     "https://www.joongang.co.kr/article/25457209",
     "https://m.sports.naver.com/basketball/article/065/0000301090",
     "https://www.joongang.co.kr/article/25457210",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000007207&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000007207&cp=nv",
+    "https://www.tfmedia.co.kr/news/article.html?no=206819"
    ],
    "seen_titles": [
-    "[속보]‘한국형챗GPT’모두의AI,사업자로SKT·카카오·KT선정",
     "[속보]전국민'모두의AI',SKT·카카오·KT가만든다",
     "SK바이오팜,1조‘오파칼림’베팅…주가8.5%급등",
     "7000선앞두고제동걸린코스피…장초반6800선후퇴[개장시황]",
@@ -3142,10 +3137,11 @@
     "삼성·SK·LG·롯데,수해복구성금",
     "\"공격에서더나아지고싶다\"KCC식스맨최진광이전한새시즌목표",
     "[사진]SK하이닉스,미국HBM생산기지기공식",
-    "[사설]‘모두의AI’튼튼한보안시스템갖춰야"
+    "[사설]‘모두의AI’튼튼한보안시스템갖춰야",
+    "日금융청\"공익상부적절\"…단일종목레버리지ETF판매금지"
    ],
    "initialized": true,
-   "last_run": "2026-08-29T01:30:27.426603+09:00"
+   "last_run": "2026-08-29T01:35:21.119508+09:00"
   }
  },
  "press_names": {
