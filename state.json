@@ -102,12 +102,17 @@
     [
      "2026-08-29T05:25:19.802313+09:00",
      "김창영 정치인들 기공식서 미국에 기여하라 반발에"
+    ],
+    [
+     "2026-08-29T05:35:19.355235+09:00",
+     "돌아온 방심은 금물 강하면 농구 이현중 사우디에만 한국"
+    ],
+    [
+     "2026-08-29T05:35:19.355235+09:00",
+     "일제히 남았다 워시 빅테크 하락 발언에 대체로"
     ]
    ],
    "seen_urls": [
-    "https://www.hankookilbo.com/news/article/A2026082809270004818?did=NA",
-    "https://www.tokenpost.kr/news/market/399385",
-    "https://www.obsnews.co.kr/news/articleView.html?idxno=1535574",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572481752211",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1722053",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=663340",
@@ -1604,12 +1609,12 @@
     "https://www.nocutnews.co.kr/news/6569965",
     "https://www.nocutnews.co.kr/news/6570025",
     "https://www.edaily.co.kr/News/Read?newsId=01354646645552240&mediaCodeNo=257",
-    "https://www.sedaily.com/article/20084705"
+    "https://www.sedaily.com/article/20084705",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4432464",
+    "https://www.stardailynews.co.kr/news/articleView.html?idxno=547813",
+    "https://www.fnnews.com/news/202608290528098266"
    ],
    "seen_titles": [
-    "[윤영숙의시선]점수를공개해도남는'독파모'의질문",
-    "SKT·KT·카카오,‘모두의AI’사업자선정…연내국민AI서비스출시",
-    "코스피,장초반1%대약세...엔비디아급등에도'삼전닉스'-2%",
     "과기정통부,'모두의AI'컨소시엄발표…SKT·KT·카카오선정",
     "SK하이닉스,美인디애나HBM생산거점착공",
     "SK하이닉스,美서HBM첫생산…인디애나팹2029년가동",
@@ -3106,10 +3111,13 @@
     "'모두의AI'선정된SKT·KT·카카오…차별화전략은?",
     "AI데이터센터가강원도미래먹거리라고요?[기후로운경제생활]",
     "비트고코리아“기관수탁부터…지갑·자산이체로韓사업넓힌다”",
-    "AI반발에...美정치인들,SK팹기공식서“미국에기여하라”[김창영..."
+    "AI반발에...美정치인들,SK팹기공식서“미국에기여하라”[김창영...",
+    "[뉴욕증시]'매파워시'에하락…30년물금리에울고웃고",
+    "[FIBA]\"사우디에만강하면끝?\"방심은금물…이현중돌아온한국농구...",
+    "[뉴욕증시]\"할일남았다\"워시발언에일제히하락…빅테크,대체로강..."
    ],
    "initialized": true,
-   "last_run": "2026-08-29T05:30:34.226020+09:00"
+   "last_run": "2026-08-29T05:35:19.355235+09:00"
   }
  },
  "press_names": {
