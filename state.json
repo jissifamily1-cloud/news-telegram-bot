@@ -1197,16 +1197,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026082776241",
-    "https://sports.hankooki.com/news/articleView.html?idxno=6938652",
-    "https://www.sedaily.com/article/20084221",
-    "https://www.nocutnews.co.kr/news/6569435",
-    "https://www.news1.kr/industry/general-industry/6271947",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1722005",
-    "http://www.hellodd.com/news/articleView.html?idxno=112965",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2463994",
-    "https://www.fnnews.com/news/202608271823599432",
-    "https://www.fnnews.com/news/202608271824027130",
     "https://www.smartbizn.com/news/articleView.html?idxno=152366",
     "https://www.mk.co.kr/article/12138193",
     "https://sports.khan.co.kr/article/202608271829013?pt=nv",
@@ -2696,19 +2686,19 @@
     "https://www.cnbnews.com/news/articleView.html?idxno=1013261",
     "https://www.sentv.co.kr/article/view/sentv202608280082",
     "http://www.issuenbiz.com/news/articleView.html?idxno=79215",
-    "https://www.koreaittimes.com/news/articleView.html?idxno=156523"
+    "https://www.koreaittimes.com/news/articleView.html?idxno=156523",
+    "https://www.news1.kr/sports/baseball/6272555",
+    "https://www.news1.kr/sports/soccer/6272548",
+    "https://www.veritas-a.com/news/articleView.html?idxno=625058",
+    "http://www.newstomato.com/ReadNews.aspx?no=1311755&inflow=N",
+    "http://www.lawissue.co.kr/view.php?ud=202608281150473884204ead0791_12",
+    "https://www.koreaittimes.com/news/articleView.html?idxno=156524",
+    "https://biz.sbs.co.kr/article_hub/20000331357?division=NAVER",
+    "https://biz.heraldcorp.com/article/10855419",
+    "https://biz.heraldcorp.com/article/10855420",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8648862"
    ],
    "seen_titles": [
-    "추미애경기지사,삼성·SK·애플·AWS와RE100해법논의...\"친환경반도...",
-    "12월5GSA전국개통추진…통신망투자민관협의체가동",
-    "SKT,AI데이터센터전문'SK호라이즌'신설…국산보안AI개발체계구...",
-    "SKIET다시품는SK이노베이션…'주주가치훼손'개인주주뿔났다",
-    "SKT,AIDC전문회사'SK호라이즌'만든다",
-    "[기획]달라진ETF시장…반도체'쏠림현상'완화",
-    "SK하이닉스,미국인디애나패키징팹기공식라이브중계",
-    "박현주\"삼성전자·SK하이닉스,배당늘리기보다미래에투자해야\"",
-    "독자권익위원회97차정기회의제안,이렇게반영했습니다",
-    "대전생활과학고등학교'전국최초바이오헬스특성화고'타이틀쟁취",
     "\"삼전닉스에더이상밀리면안돼\"...日키옥시아,1조엔들여신공장",
     "[시대와의대화]\"대통령되면구름위에…땅이잘안보여\"",
     "한국서18배성장한스노우플레이크…이제AI가‘일하는기업’만든다",
@@ -4198,10 +4188,20 @@
     "SK에코플랜트,자회사SK에코엔지니어링흡수합병",
     "카톡·전화로쓰는AI…카카오,‘모두의AI’내달베타공개",
     "[특징주]SKT,데이터센터확장가속화전망에상승세",
-    "SKEcoplantBetsonIntegratedEngineeringasAIDataCenterRaceAccel"
+    "SKEcoplantBetsonIntegratedEngineeringasAIDataCenterRaceAccel",
+    "'KS우승2회'SSG김성현,9월5일은퇴식…21년선수생활마감",
+    "8월에만4승1패…달라진대전,제주상대'3연승+최대5위도약'도전",
+    "숭실대대학일자리플러스센터SK하이닉스/삼성전자현직자초청반도체...",
+    "'모두의AI'사업자에SKT·KT·카카선정",
+    "SK스토아,추석맞아전채널쇼핑혜택강화",
+    "SKhynixBreaksGroundon$4BillionIndianaHBMPlant,BringingAIMemo",
+    "HBM미국선만든다…SK하이닉스첫삽",
+    "2029년3분기첫‘메이드인USA’HBM4E가쏟아진다",
+    "‘SK하닉이최대주주’日키옥시아,43조원투자…낸드‘쩐의전쟁’...",
+    "SK하이닉스,3,500명통합노조‘적법한노조’지위확인"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T11:50:22.926099+09:00"
+   "last_run": "2026-08-28T11:55:17.442559+09:00"
   }
  },
  "press_names": {
