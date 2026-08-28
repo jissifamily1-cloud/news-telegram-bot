@@ -113,7 +113,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572481752211",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1722053",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=663340",
     "https://it.chosun.com/news/articleView.html?idxno=2023092169020",
@@ -1612,10 +1611,10 @@
     "https://www.sedaily.com/article/20084705",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4432464",
     "https://www.stardailynews.co.kr/news/articleView.html?idxno=547813",
-    "https://www.fnnews.com/news/202608290528098266"
+    "https://www.fnnews.com/news/202608290528098266",
+    "https://www.mediapen.com/news/view/1119729"
    ],
    "seen_titles": [
-    "과기정통부,'모두의AI'컨소시엄발표…SKT·KT·카카오선정",
     "SK하이닉스,美인디애나HBM생산거점착공",
     "SK하이닉스,美서HBM첫생산…인디애나팹2029년가동",
     "“전국민무료AI”사업자에SKT·카카오·KT선정",
@@ -3114,10 +3113,11 @@
     "AI반발에...美정치인들,SK팹기공식서“미국에기여하라”[김창영...",
     "[뉴욕증시]'매파워시'에하락…30년물금리에울고웃고",
     "[FIBA]\"사우디에만강하면끝?\"방심은금물…이현중돌아온한국농구...",
-    "[뉴욕증시]\"할일남았다\"워시발언에일제히하락…빅테크,대체로강..."
+    "[뉴욕증시]\"할일남았다\"워시발언에일제히하락…빅테크,대체로강...",
+    "[美증시]케빈워시금리인상시사3대지수동반조정…반도체하락,빅..."
    ],
    "initialized": true,
-   "last_run": "2026-08-29T05:50:25.658605+09:00"
+   "last_run": "2026-08-29T05:55:18.497627+09:00"
   }
  },
  "press_names": {
