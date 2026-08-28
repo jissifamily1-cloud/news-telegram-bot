@@ -177,7 +177,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20084343",
     "https://www.etnews.com/20260828000039",
     "https://www.mt.co.kr/stock/2026/08/28/2026082808484796614",
     "https://www.newsis.com/view/NISX20260828_0003766459",
@@ -1676,10 +1675,10 @@
     "https://biz.heraldcorp.com/article/10855960",
     "https://www.chosun.com/opinion/editorial/2026/08/29/PXWAZIEAVBAH5JIMCYXDPPR55Q/",
     "https://www.joongangenews.com/news/articleView.html?idxno=543853",
-    "https://www.chosun.com/economy/tech_it/2026/08/29/TUQKPDOLSNDC5GAHQ2S56ZQEC4/"
+    "https://www.chosun.com/economy/tech_it/2026/08/29/TUQKPDOLSNDC5GAHQ2S56ZQEC4/",
+    "https://www.chosun.com/economy/tech_it/2026/08/29/BRO27M46DRGWHD7MU4FEFH2ZJU/"
    ],
    "seen_titles": [
-    "코스피,반도체투톱약세에6830선후퇴…코스닥은약보합",
     "코스피,美엔비디아훈풍에도장초반6800선약세",
     "\"미국과AI새미래시작\"5조이상투자HBM첫거점승부수SK하이닉스...",
     "엔비디아훈풍하루만에끝났나…코스피장초반1%대하락",
@@ -3178,10 +3177,11 @@
     "“주주가주인은아니다”…중복상장SKIET다시품은SK이노의메시지...",
     "[사설]전당대회싸움엔거침없더니국민삶챙길때는몸사려",
     "[종합]최대난제풀리는'800조호남반도체'…삼성전자·SK하이닉스투...",
-    "더세지는美반도체관세…“칩들어간제품도부과검토”"
+    "더세지는美반도체관세…“칩들어간제품도부과검토”",
+    "전국민무료로쓰는‘모두의AI’사업자에SKT·카카오·KT선정"
    ],
    "initialized": true,
-   "last_run": "2026-08-29T00:37:29.718960+09:00"
+   "last_run": "2026-08-29T00:40:23.167287+09:00"
   }
  },
  "press_names": {
