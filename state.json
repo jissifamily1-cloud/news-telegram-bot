@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-28T06:30:28.998405+09:00",
-     "확보 다이 늘리고 대역폭 공개 엔비디아 맞춤형 NVHBM"
-    ],
-    [
      "2026-08-28T06:35:19.611965+09:00",
      "라포랩스 SK스토아 경영 논란 인수 개입 재도전"
     ],
@@ -1118,13 +1114,13 @@
     [
      "2026-08-28T12:30:27.370152+09:00",
      "희망에 매긴다면 고율 엔비디아가 관세"
+    ],
+    [
+     "2026-08-28T12:35:12.167176+09:00",
+     "Trump Steep Semiconductors Weighs on Tariffs"
     ]
    ],
    "seen_urls": [
-    "https://www.hani.co.kr/arti/opinion/column/1275012.html",
-    "https://www.gokorea.kr/news/articleView.html?idxno=876508",
-    "http://www.econotelling.com/news/articleView.html?idxno=21197",
-    "https://www.starnewskorea.com/star/2026/08/27/2026082718503260142",
     "https://www.edaily.co.kr/News/Read?newsId=05198806645551584&mediaCodeNo=257",
     "https://www.dt.co.kr/article/12080712",
     "http://www.finomy.com/news/articleView.html?idxno=260173",
@@ -2620,13 +2616,13 @@
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553494347",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=143704",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8648889",
-    "https://www.sedaily.com/article/20084422"
+    "https://www.sedaily.com/article/20084422",
+    "http://www.newstomato.com/ReadNews.aspx?no=1311767&inflow=N",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3677745",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055981",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275733"
    ],
    "seen_titles": [
-    "[경제와삶]AI메모리반도체호황이쏘아올린과제",
-    "SKT,데이터센터전문사'SK호라이즌'출범…'AI함대'구축",
-    "SKTelecomSpinsOffSKHorizonAIUnit",
-    "[단독]금감원,SK이노-SKIET합병두고제동걸듯…\"주주소통없는합...",
     "모티프이의신청에'독파모'평가공방확산…과기정통부\"규정에따라...",
     "엔비디아,삼성·SK하이닉스와메모리대규모계약…386조원규모의반...",
     "SKT,AI데이터센터전문기업'SK호라이즌'출범···3조원투자유치",
@@ -4122,10 +4118,14 @@
     "제주SKFC,베테랑정운앞세워대전전승리정조준",
     "엔비디아폭등에도코스피·삼전닉스약세....오늘밤'케빈워시연설'로...",
     "SK하이닉스,인디애나팹착공…최초의‘메이드인USA’HBM만든다",
-    "엔비디아가쏜AI희망에고율관세매긴다면[트럼프스톡커]"
+    "엔비디아가쏜AI희망에고율관세매긴다면[트럼프스톡커]",
+    "연내모두의AI출격…SKT'행동형'·KT'생활밀착'·카카오'카톡완결'",
+    "삼전·닉스55조자사주매입에도…코스피7,000선벽에갇힌이유",
+    "'모두의AI'SKT,'A.XK2'중심전국민AI비서만든다",
+    "TrumpWeighsSteepTariffsonSemiconductors"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T12:30:27.370152+09:00"
+   "last_run": "2026-08-28T12:35:12.167176+09:00"
   }
  },
  "press_names": {
