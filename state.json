@@ -173,8 +173,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260828_0003766459",
-    "https://www.esgeconomy.com/news/articleView.html?idxno=16524",
     "https://www.newsis.com/view/NISX20260828_0003766447",
     "http://www.sisacast.kr/news/articleView.html?idxno=99297",
     "https://www.mediapen.com/news/view/1119505",
@@ -1672,11 +1670,11 @@
     "https://www.chosun.com/economy/tech_it/2026/08/29/TUQKPDOLSNDC5GAHQ2S56ZQEC4/",
     "https://www.chosun.com/economy/tech_it/2026/08/29/BRO27M46DRGWHD7MU4FEFH2ZJU/",
     "https://www.cbci.co.kr/news/articleView.html?idxno=602055",
-    "https://www.joongang.co.kr/article/25457209"
+    "https://www.joongang.co.kr/article/25457209",
+    "https://m.sports.naver.com/basketball/article/065/0000301090",
+    "https://www.joongang.co.kr/article/25457210"
    ],
    "seen_titles": [
-    "엔비디아훈풍하루만에끝났나…코스피장초반1%대하락",
-    "[속보]SKT·카카오·KT,'모두의AI'사업자선정",
     "모티프반발에독파모점수공개한정부…SKT,2차평가1위",
     "[속보]‘한국형챗GPT’모두의AI,사업자로SKT·카카오·KT선정",
     "[속보]전국민'모두의AI',SKT·카카오·KT가만든다",
@@ -3174,10 +3172,12 @@
     "더세지는美반도체관세…“칩들어간제품도부과검토”",
     "전국민무료로쓰는‘모두의AI’사업자에SKT·카카오·KT선정",
     "두산에너빌리티,빌게이츠방한이후SMR협력축재조명…주가2%대상...",
-    "삼성·SK·LG·롯데,수해복구성금"
+    "삼성·SK·LG·롯데,수해복구성금",
+    "\"공격에서더나아지고싶다\"KCC식스맨최진광이전한새시즌목표",
+    "[사진]SK하이닉스,미국HBM생산기지기공식"
    ],
    "initialized": true,
-   "last_run": "2026-08-29T00:45:23.140537+09:00"
+   "last_run": "2026-08-29T00:50:25.957283+09:00"
   }
  },
  "press_names": {
