@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-28T06:35:19.611965+09:00",
-     "라포랩스 SK스토아 경영 논란 인수 개입 재도전"
-    ],
-    [
-     "2026-08-28T06:35:19.611965+09:00",
-     "특별연장근로 연구 한다더니 업무량 폭증"
-    ],
-    [
-     "2026-08-28T06:35:19.611965+09:00",
-     "노동자들 60시간 눈물 내몰린 공급망 삼전하닉 뒤에서"
-    ],
-    [
-     "2026-08-28T06:35:19.611965+09:00",
-     "자해적 반도체 대미투자 워싱 관세 검토하는 압박용인가 이상은의"
-    ],
-    [
      "2026-08-28T06:40:21.734458+09:00",
      "밸류체인 화색 훈풍에 엔비디아"
     ],
@@ -1118,13 +1102,13 @@
     [
      "2026-08-28T12:35:12.167176+09:00",
      "Trump Steep Semiconductors Weighs on Tariffs"
+    ],
+    [
+     "2026-08-28T12:40:20.599561+09:00",
+     "제동 기준도 된다 비영리법인 법원서 설립 거부 없이"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=05198806645551584&mediaCodeNo=257",
-    "https://www.dt.co.kr/article/12080712",
-    "http://www.finomy.com/news/articleView.html?idxno=260173",
-    "https://www.nspna.com/news/?newsid=825925",
     "https://www.mk.co.kr/article/12138218",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=609826",
     "https://www.polinews.co.kr/news/articleView.html?idxno=741404",
@@ -2620,13 +2604,13 @@
     "http://www.newstomato.com/ReadNews.aspx?no=1311767&inflow=N",
     "https://www.gukjenews.com/news/articleView.html?idxno=3677745",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055981",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275733"
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275733",
+    "https://www.mt.co.kr/tech/2026/08/28/2026082811102032086",
+    "https://www.khan.co.kr/article/202608281237001",
+    "https://www.newsinside.kr/news/articleView.html?idxno=4956013",
+    "https://futurechosun.com/?p=158929"
    ],
    "seen_titles": [
-    "모티프이의신청에'독파모'평가공방확산…과기정통부\"규정에따라...",
-    "엔비디아,삼성·SK하이닉스와메모리대규모계약…386조원규모의반...",
-    "SKT,AI데이터센터전문기업'SK호라이즌'출범···3조원투자유치",
-    "부산반도체기업‘리노공업’한달넘게파업…성과금놓고이견팽...",
     "엔비디아2분기매출133조원…호실적에반도체상승장전환",
     "SKT,AI데이터센터신설법인'호라이즌'설립…브로드밴드인적분할",
     "SKT,아시아AI인프라허브노린다…AIDC인프라컴퍼니‘SK호라이즌...",
@@ -4122,10 +4106,14 @@
     "연내모두의AI출격…SKT'행동형'·KT'생활밀착'·카카오'카톡완결'",
     "삼전·닉스55조자사주매입에도…코스피7,000선벽에갇힌이유",
     "'모두의AI'SKT,'A.XK2'중심전국민AI비서만든다",
-    "TrumpWeighsSteepTariffsonSemiconductors"
+    "TrumpWeighsSteepTariffsonSemiconductors",
+    "\"전국민잡아라\"SKT·KT·카카오'모두의AI'밑그림살펴보니…",
+    "트럼프행정부,고강도반도체관세카드만지작···대미투자압박수...",
+    "'모두의AI'사업…SKT·카카오·KT3파전압축",
+    "“기준도없이안된다?”…비영리법인설립거부,법원서제동"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T12:35:12.167176+09:00"
+   "last_run": "2026-08-28T12:40:20.599561+09:00"
   }
  },
  "press_names": {
