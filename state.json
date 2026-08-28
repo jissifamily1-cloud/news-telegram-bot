@@ -166,12 +166,13 @@
     [
      "2026-08-29T06:20:25.414174+09:00",
      "생산기지 hynix 반도체 인디애나주에"
+    ],
+    [
+     "2026-08-29T06:25:18.371683+09:00",
+     "어느 박신영의 1800조원은 기업지도 기업으로 데이터센터의 월가"
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/economy/securities/2026/08/28/20260828500040?wlog_tag3=naver",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008726260&plink=ORI&cooper=NAVER",
-    "https://cn.asiatoday.co.kr/view.php?key=20260828000926445",
     "https://www.seoul.co.kr/news/economy/securities/2026/08/28/20260828500042?wlog_tag3=naver",
     "https://www.koreaittimes.com/news/articleView.html?idxno=156502",
     "https://zdnet.co.kr/view/?no=20260828093721",
@@ -1668,12 +1669,12 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481655",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=63549",
     "https://www.ajunews.com/view/20260828173727498",
-    "https://www.koreadaily.com/article/20260828141522916"
+    "https://www.koreadaily.com/article/20260828141522916",
+    "https://www.maniareport.com/view.php?ud=20260829061940267291b55a0d56_19",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481656",
+    "https://www.hankyung.com/article/202608290490i"
    ],
    "seen_titles": [
-    "엔비디아급등에도반도체관세우려…코스피장초반약세",
-    "HBM품귀더간다…곽노정CEO\"메모리부족2030년말까지\"",
-    "[이시각시황]코스피6,900선반납…외국인·기관‘팔자’에낙폭확...",
     "“엔비디아호재는어제선반영”...코스피,엔비디아8.7%폭등에도약...",
     "SKT·카카오·KT'모두의AI'선정…전국민AI서비스속도낸다",
     "SK하이닉스\"솔리다임IPO는검토단계…계획철회아냐\"",
@@ -3170,10 +3171,13 @@
     "[주간거래소기관]삼성전자·SK하이닉스팔고삼성SDI·두산에너빌리...",
     "SK하이닉스미국인디애나HBM생산공장건설",
     "[김호균칼럼]꼬리가몸통을흔드는'약탈금융'",
-    "SKhynix,인디애나주에AI반도체생산기지"
+    "SKhynix,인디애나주에AI반도체생산기지",
+    "'4회1-14도뒤집는게야구인데'…염경엽감독의조기승부포기와'미...",
+    "[주간거래소외국인]삼성전자·SK하이닉스대신삼성전기담았다…무...",
+    "1800조원은어느기업으로?…AI데이터센터의기업지도[박신영의월가..."
    ],
    "initialized": true,
-   "last_run": "2026-08-29T06:20:25.414174+09:00"
+   "last_run": "2026-08-29T06:25:18.371683+09:00"
   }
  },
  "press_names": {
