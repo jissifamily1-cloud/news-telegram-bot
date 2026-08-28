@@ -238,12 +238,17 @@
     [
      "2026-08-29T07:15:23.218752+09:00",
      "노사 요구한 성과급 삼성 마이크론 체계 대만 갈등 메모리"
+    ],
+    [
+     "2026-08-29T07:35:17.273109+09:00",
+     "메가 프로젝트 한국 반도체 관세 트럼프의 겨냥"
+    ],
+    [
+     "2026-08-29T07:35:17.273109+09:00",
+     "제로트러스트 노린 해법 공격 공급망 사이버"
     ]
    ],
    "seen_urls": [
-    "https://www.mediapen.com/news/view/1119511",
-    "https://www.edaily.co.kr/News/Read?newsId=02991366645551912&mediaCodeNo=257",
-    "https://www.greened.kr/news/articleView.html?idxno=348656",
     "https://www.ytn.co.kr/_ln/0102_202608280940422532",
     "https://www.news1.kr/it-science/internet-platform/6272303",
     "https://www.mt.co.kr/stock/2026/08/28/2026082809402813832",
@@ -1740,12 +1745,12 @@
     "https://www.ceoscoredaily.com/page/view/2026082715140978545",
     "https://www.news1.kr/local/gwangju-jeonnam/6273221",
     "https://www.g-enews.com/view.php?ud=202608290703568182fbbec65dfb_1",
-    "https://www.seoulfn.com/news/articleView.html?idxno=636755"
+    "https://www.seoulfn.com/news/articleView.html?idxno=636755",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696615",
+    "https://www.newsverse.kr/news/articleView.html?idxno=11312",
+    "https://www.sedaily.com/article/20084648"
    ],
    "seen_titles": [
-    "엔비디아훈풍어디갔나…삼성전자·SK하이닉스동반약세",
-    "통신3사,전국민AI서비스만든다…'모두의AI'SKT·카카오·KT컨소시...",
-    "SKhynix'sIndianaFabOpensNewHorizonforS.Korea-U.S.AIChipAllia",
     "AIDC인프라기업'SK호라이즌'설립추진…3조원투자유치",
     "美증시훈풍에도\"국내증시선반영\"···코스피1%대약세출발",
     "SK하이닉스,美인디애나HBM생산거점첫삽…\"한미AI의새로운미래\"...",
@@ -3242,10 +3247,13 @@
     "중소형증권사IB‘한파’…교보증권만지난해수준지켰다",
     "'800조반도체'가풀어낸광주군공항이전…호남반도체클러스터탄력",
     "삼성·SK성과급체계요구한대만마이크론…메모리노사갈등",
-    "[뉴욕증시]워시\"할일있다\",반도체주'털썩'···M7'강세'·메모리..."
+    "[뉴욕증시]워시\"할일있다\",반도체주'털썩'···M7'강세'·메모리...",
+    "바이낸스,마라·아이온큐등5개종목무기한선물출시",
+    "[오늘의경제뉴스]트럼프의반도체관세,한국'메가프로젝트'겨냥?…...",
+    "“공급망노린사이버공격...‘제로트러스트’가해법”"
    ],
    "initialized": true,
-   "last_run": "2026-08-29T07:30:28.255143+09:00"
+   "last_run": "2026-08-29T07:35:17.273109+09:00"
   }
  },
  "press_names": {
