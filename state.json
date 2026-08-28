@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-28T20:20:26.916928+09:00",
-     "착공 메이드 SK하이닉스 HBM USA"
-    ],
-    [
      "2026-08-28T20:35:19.739160+09:00",
      "수혜는 데이터센터 중국발"
     ],
@@ -133,7 +129,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4432344",
     "https://www.dailian.co.kr/news/view/1683535/?sc=Naver",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=143694",
     "https://www.ajunews.com/view/20260828093240399",
@@ -1632,10 +1627,10 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=9000007207&cp=nv",
     "https://www.tfmedia.co.kr/news/article.html?no=206819",
     "https://www.donga.com/news/Economy/article/all/20260828/134566748/2",
-    "https://www.donga.com/news/People/article/all/20260828/134566864/2"
+    "https://www.donga.com/news/People/article/all/20260828/134566864/2",
+    "https://www.voakorea.com/a/korea-now-082826/8191534.html"
    ],
    "seen_titles": [
-    "7000선앞두고제동걸린코스피…장초반6800선후퇴[개장시황]",
     "코스피,외인·기관동반매도에6800선까지밀려…삼전·SK하닉↓",
     "美엔비디아훈풍에도국내증시약보합출발⋯기관ㆍ외국인‘팔자’",
     "[속보]‘모두의AI’사업에SKT·카카오·KT컨소선정...이변은없었다",
@@ -3134,10 +3129,11 @@
     "[사설]‘모두의AI’튼튼한보안시스템갖춰야",
     "日금융청\"공익상부적절\"…단일종목레버리지ETF판매금지",
     "‘모두의AI’사업자에SKT-KT-카카오선정",
-    "삼성30억,SK20억,LG-롯데10억수해복구성금"
+    "삼성30억,SK20억,LG-롯데10억수해복구성금",
+    "[한국은지금]모두의AI시행사선정…지방국립대신입생등록금‘..."
    ],
    "initialized": true,
-   "last_run": "2026-08-29T02:20:26.385105+09:00"
+   "last_run": "2026-08-29T02:25:17.270805+09:00"
   }
  },
  "press_names": {
