@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-29T00:05:21.146492+09:00",
-     "재정위기 수도 뒷감당 건보 실패 떠맡은 정책 연말"
-    ],
-    [
-     "2026-08-29T00:05:21.146492+09:00",
-     "카드 장이 240억 비싸 포켓몬 이렇게까지 무려"
-    ],
-    [
-     "2026-08-29T00:05:21.146492+09:00",
-     "모두의 선정 컨소시엄 2026년 3대 프로젝트 본격화"
-    ],
-    [
-     "2026-08-29T00:05:21.146492+09:00",
-     "Blue 반도체 Owl 실리콘밸리 파이 열전 블루아울"
-    ],
-    [
-     "2026-08-29T00:05:21.146492+09:00",
-     "달라 카카오노조 영업익 보도 우리도"
-    ],
-    [
      "2026-08-29T00:15:21.679947+09:00",
      "엔비디아 삼전 주가 호실적인데 닉스 내렸나"
     ],
@@ -174,12 +154,17 @@
     [
      "2026-08-29T06:05:16.975384+09:00",
      "연간 양산 수십만장 SK하이닉스 생산 3년 공장서 HBM4E"
+    ],
+    [
+     "2026-08-29T06:10:25.078530+09:00",
+     "엔비디아 반도체주 케빈 워시 필라델피아반도체지수"
+    ],
+    [
+     "2026-08-29T06:10:25.078530+09:00",
+     "기업결합은 늑장일까 공정위의 진짜"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000331293?division=NAVER",
-    "https://www.chosun.com/economy/money/2026/08/28/LXYXDC6YL5BX3CGUYHV34LUQ5I/",
-    "https://www.mt.co.kr/tech/2026/08/28/2026082809264168238",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=851838",
     "https://www.namdonews.com/news/articleView.html?idxno=921506",
     "http://www.impacton.net/news/articleView.html?idxno=20127",
@@ -1676,12 +1661,12 @@
     "https://www.joongangenews.com/news/articleView.html?idxno=543809",
     "https://www.newsis.com/view/NISX20260828_0003766674",
     "https://www.newsis.com/view/NISX20260828_0003767660",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=423376"
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=423376",
+    "https://news.mtn.co.kr/news-detail/2026082816370011019",
+    "http://www.beyondpost.co.kr/view.php?ud=2026082906012838792aaae0046f_30",
+    "https://news.tvchosun.com/site/data/html_dir/2026/08/28/2026082890274.html"
    ],
    "seen_titles": [
-    "靑\"노란봉투법쟁의기준,시행령아닌지침으로즉시적용\"",
-    "코스피숨고르기,1%안팎하락세(종합)",
-    "이화여대베이징대와교류협력30주년..'AI/미래교육협력확대논의'",
     "[시황]코스피,6800선거래시작…장초반약세",
     "(LEAD)SeoulstocksopenlowerdespiteU.S.rally",
     "SK㈜,SK시그넷2차공개매수…소액주주에추가매도기회",
@@ -3178,10 +3163,13 @@
     "용인특례시,'생활용수10만㎥증량'요청",
     "세제개편후흔들린'강남불패'…강북은'불장'[서울부동산,지금①...",
     "[오늘의주요일정]사회(8월29일토요일)",
-    "SK하이닉스,3년뒤美공장서HBM4E양산···\"연간수십만장생산\""
+    "SK하이닉스,3년뒤美공장서HBM4E양산···\"연간수십만장생산\"",
+    "금리·경기우려속반도체기대…9월코스피7000선시험대",
+    "엔비디아4.6%,필라델피아반도체지수3.47%↓...반도체주,케빈워시美...",
+    "[취재후Talk]공정위의기업결합은진짜늑장일까"
    ],
    "initialized": true,
-   "last_run": "2026-08-29T06:05:16.975384+09:00"
+   "last_run": "2026-08-29T06:10:25.078530+09:00"
   }
  },
  "press_names": {
