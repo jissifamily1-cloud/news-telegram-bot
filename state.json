@@ -238,10 +238,13 @@
     [
      "2026-08-29T07:10:22.283603+09:00",
      "풀어낸 클러스터 탄력 호남 이전 광주 800조 군공항 반도체"
+    ],
+    [
+     "2026-08-29T07:15:23.218752+09:00",
+     "노사 요구한 성과급 삼성 마이크론 체계 대만 갈등 메모리"
     ]
    ],
    "seen_urls": [
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696271",
     "http://www.beyondpost.co.kr/view.php?ud=202608280937159197be44c0aacd_30",
     "https://www.mediapen.com/news/view/1119511",
     "https://www.edaily.co.kr/News/Read?newsId=02991366645551912&mediaCodeNo=257",
@@ -1740,10 +1743,10 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=272611",
     "https://it.chosun.com/news/articleView.html?idxno=2023092169032",
     "https://www.ceoscoredaily.com/page/view/2026082715140978545",
-    "https://www.news1.kr/local/gwangju-jeonnam/6273221"
+    "https://www.news1.kr/local/gwangju-jeonnam/6273221",
+    "https://www.g-enews.com/view.php?ud=202608290703568182fbbec65dfb_1"
    ],
    "seen_titles": [
-    "쿠팡플레이,31일한국-사우디FIBA월드컵예선생중계",
     "퇴근길ETF거래안된다?…애프터마켓제외전망",
     "엔비디아훈풍어디갔나…삼성전자·SK하이닉스동반약세",
     "통신3사,전국민AI서비스만든다…'모두의AI'SKT·카카오·KT컨소시...",
@@ -3242,10 +3245,11 @@
     "\"메모리가AI성패좌우\"…삼성·SK,美생산인프라·맞춤형기술로시...",
     "통신사위협하는포털·쇼핑사OTT제휴상품",
     "중소형증권사IB‘한파’…교보증권만지난해수준지켰다",
-    "'800조반도체'가풀어낸광주군공항이전…호남반도체클러스터탄력"
+    "'800조반도체'가풀어낸광주군공항이전…호남반도체클러스터탄력",
+    "삼성·SK성과급체계요구한대만마이크론…메모리노사갈등"
    ],
    "initialized": true,
-   "last_run": "2026-08-29T07:10:22.283603+09:00"
+   "last_run": "2026-08-29T07:15:23.218752+09:00"
   }
  },
  "press_names": {
