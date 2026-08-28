@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-28T06:50:23.073076+09:00",
-     "인디애나 개최 2029년 기공식 미국산 HB SK하이닉스 HBM생산거점"
-    ],
-    [
      "2026-08-28T06:55:18.562474+09:00",
      "거래 퇴근길 거래소 여는 막힐 ETF 내달 애프터마켓"
     ],
@@ -1110,13 +1106,21 @@
     [
      "2026-08-28T12:45:22.278652+09:00",
      "초호황이라는 반도체 착시와 착각"
+    ],
+    [
+     "2026-08-28T12:50:23.824774+09:00",
+     "디지털 주권부터 국감 ICT 방송위기까지 사이버보안 전환의 그늘"
+    ],
+    [
+     "2026-08-28T12:50:23.824774+09:00",
+     "맞춤 영양 응원전 총동원 기술 아시안게임 향한 기업 장비"
+    ],
+    [
+     "2026-08-28T12:50:23.824774+09:00",
+     "경기 서북부 남부 반도체 심화 특수에 아파트값 양극화"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026082779121",
-    "https://biz.heraldcorp.com/article/10854684",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608271855173150667",
-    "https://www.veritas-a.com/news/articleView.html?idxno=624948",
     "https://www.dailian.co.kr/news/view/1683427/?sc=Naver",
     "https://www.munhwa.com/article/11612627",
     "https://www.ggilbo.com/news/articleView.html?idxno=1178090",
@@ -2612,13 +2616,13 @@
     "https://www.edaily.co.kr/News/Read?newsId=03388246645551912&mediaCodeNo=257",
     "http://www.inews24.com/view/1999407",
     "https://www.chiefexe.com/news/ArticleView.asp?listId=NDk2OHx8bGltaXRfZmFsc2Ug",
-    "https://www.chiefexe.com/news/ArticleView.asp?listId=NTAwNnx8bGltaXRfZmFsc2Ug"
+    "https://www.chiefexe.com/news/ArticleView.asp?listId=NTAwNnx8bGltaXRfZmFsc2Ug",
+    "https://www.hankyung.com/article/202608289255i",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1722084",
+    "https://www.mhj21.com/news/articleView.html?idxno=253748",
+    "https://www.newsis.com/view/NISX20260828_0003766289"
    ],
    "seen_titles": [
-    "한가인,주식계좌최초공개\"SK하이닉스25주\"..전문가칭찬[자유부인...",
-    "[해설]SKT,AIDC‘3각편대’완성…3조800억원외부자본으로확장승...",
-    "SKB,AIDC·해저케이블사업떼어낸다…‘SK호라이즌’신설",
-    "'독파모라이벌'SKT·업스테이지한배탔다⋯이번엔'보안AI'",
     "[사업추진브리핑]이상일용인특례시장,정부에“반도체산단인프라...",
     "SKT,AIDC전문'SK호라이즌'세운다",
     "SK바이오팜,뇌전증신약에1조원투자…美상업화박차",
@@ -4114,10 +4118,14 @@
     "日언론\"韓,반도체대호황에들떠있을때아냐\"진단",
     "ESS법적분류명확화.이격거리기준신설…주차로봇허용",
     "[안기현한국반도체산업협회전무]K-반도체의위상유지,3가지본질경...",
-    "[경제시평]반도체착시와초호황이라는착각"
+    "[경제시평]반도체착시와초호황이라는착각",
+    "한국‘개미지옥’본日…개별레버리지ETF선제차단[최만수의재팬...",
+    "AI주권부터사이버보안·방송위기까지…ICT국감'디지털전환의그늘...",
+    "기술·영양·맞춤장비총동원…아시안게임향한'기업응원전'",
+    "반도체특수에경기아파트값양극화심화…남부↑·서북부↓"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T12:45:22.278652+09:00"
+   "last_run": "2026-08-28T12:50:23.824774+09:00"
   }
  },
  "press_names": {
