@@ -1118,11 +1118,13 @@
     [
      "2026-08-28T12:50:23.824774+09:00",
      "경기 서북부 남부 반도체 심화 특수에 아파트값 양극화"
+    ],
+    [
+     "2026-08-28T12:55:17.458024+09:00",
+     "2026년 8월 1만4783원 SKIET 10만5000원에 25일 상장한 기준"
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1683427/?sc=Naver",
-    "https://www.munhwa.com/article/11612627",
     "https://www.ggilbo.com/news/articleView.html?idxno=1178090",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1722001",
     "https://www.ppss.kr/news/articleView.html?idxno=307721",
@@ -2620,11 +2622,11 @@
     "https://www.hankyung.com/article/202608289255i",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1722084",
     "https://www.mhj21.com/news/articleView.html?idxno=253748",
-    "https://www.newsis.com/view/NISX20260828_0003766289"
+    "https://www.newsis.com/view/NISX20260828_0003766289",
+    "https://www.ajunews.com/view/20260828124810784",
+    "https://www.the-today.com/news/articleView.html?idxno=89080"
    ],
    "seen_titles": [
-    "[사업추진브리핑]이상일용인특례시장,정부에“반도체산단인프라...",
-    "SKT,AIDC전문'SK호라이즌'세운다",
     "SK바이오팜,뇌전증신약에1조원투자…美상업화박차",
     "SKT·업스테이지,보안특화모델개발…9개보안기업참여",
     "재생에너지,반도체·AI경쟁력핵심인프라로…산업계\"공급확대·전력...",
@@ -4122,10 +4124,12 @@
     "한국‘개미지옥’본日…개별레버리지ETF선제차단[최만수의재팬...",
     "AI주권부터사이버보안·방송위기까지…ICT국감'디지털전환의그늘...",
     "기술·영양·맞춤장비총동원…아시안게임향한'기업응원전'",
-    "반도체특수에경기아파트값양극화심화…남부↑·서북부↓"
+    "반도체특수에경기아파트값양극화심화…남부↑·서북부↓",
+    "[食전食후]코스피,외국인매도에1%대하락…삼성전자·SK하이닉스약...",
+    "[NZSIINDEX]2026년8월25일…10만5000원에상장한SKIET,1만4783원기준..."
    ],
    "initialized": true,
-   "last_run": "2026-08-28T12:50:23.824774+09:00"
+   "last_run": "2026-08-28T12:55:17.458024+09:00"
   }
  },
  "press_names": {
