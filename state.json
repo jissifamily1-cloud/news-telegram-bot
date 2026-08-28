@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-28T08:20:21.327472+09:00",
-     "케빈의 관건은 엔비디아는 AI랠리 이제 증명했다"
-    ],
-    [
      "2026-08-28T08:25:18.836076+09:00",
      "통신 넘어 15만원 데이터센터로 미래에셋증권 SK텔레콤 목표가"
     ],
@@ -998,16 +994,17 @@
     [
      "2026-08-28T14:15:22.119559+09:00",
      "호남 반도체 보상 협의 증축 확보 동복댐 용수 주민 관문"
+    ],
+    [
+     "2026-08-28T14:20:23.142408+09:00",
+     "투톱 8조5000억 매입 삼성전자 자사주 지속 반도체 SK하이닉스 6일째"
+    ],
+    [
+     "2026-08-28T14:20:23.142408+09:00",
+     "학생 성공지 특성화 안동 글로컬대학 경북의 예천캠"
     ]
    ],
    "seen_urls": [
-    "http://www.econonews.co.kr/news/articleView.html?idxno=443445",
-    "https://www.m-economynews.com/news/article.html?no=70172",
-    "https://www.mk.co.kr/article/12138294",
-    "https://www.ytn.co.kr/_ln/0134_202608272132394006",
-    "http://www.ttlnews.com/news/articleView.html?idxno=3137872",
-    "https://www.khan.co.kr/article/202608272142001",
-    "https://www.tokenpost.kr/news/ai/399042",
     "https://www.mt.co.kr/world/2026/08/27/2026082721020775187",
     "http://www.globalepic.co.kr/view.php?ud=2026082714275928675f69d33b22_29",
     "http://www.globalepic.co.kr/view.php?ud=2026082714584888725f69d33b22_29",
@@ -2500,16 +2497,16 @@
     "https://www.kyosu.net/news/articleView.html?idxno=209446",
     "https://www.thelec.kr/news/articleView.html?idxno=61486",
     "https://www.edaily.co.kr/News/Read?newsId=03581766645551912&mediaCodeNo=257",
-    "https://www.news1.kr/local/gwangju-jeonnam/6272625"
+    "https://www.news1.kr/local/gwangju-jeonnam/6272625",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=170655",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1400382",
+    "http://www.financialreview.co.kr/news/articleView.html?idxno=44452",
+    "http://www.kdfnews.com/news/articleView.html?idxno=187218",
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=423373",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=272595",
+    "https://www.kyosu.net/news/articleView.html?idxno=209462"
    ],
    "seen_titles": [
-    "\"삼전닉스고점에싹팔았다\"…'♥연정훈'한가인,주식전문가도놀란...",
-    "SKT·업스테이지,'보안특화AI파운데이션모델'개발",
-    "[8월28일자]비즈니스포스트아침의주요기사",
-    "정부,모티프반발에독파모2차평가점수공개…SKT1위·업스테이지...",
-    "한가인,주식실력이정도였어?…“조정직전싹팔고세금내”",
-    "동부건설상반기플랜트매출1535억원…전년동기대비54.5%↑",
-    "독자AI파운데이션모델2차평가SKT1위…업스테이지·LG뒤이어",
     "설비투자규모확정안됐는데…댐먼저짓고보겠다는정부",
     "SK가스,자회사SK어드밴스드흡수합병…11월4일합병기일",
     "SouthKoreareleasessovereignAIprojectscores,SKTranksfirst",
@@ -4002,10 +3999,17 @@
     "[경기과기대]반도체'현장맞춤형전문기술교육'중점추진…5년간75...",
     "SK실트론,노조에임직원처우안제시",
     "韓증시쇼크에…日,개별레버리지ETF선제차단",
-    "호남반도체용수확보첫관문…동복댐증축주민보상협의"
+    "호남반도체용수확보첫관문…동복댐증축주민보상협의",
+    "美워시잭슨홀연설촉각속...일본증시'장중상승'",
+    "동신대,'학과별특화교육과정'으로AI·반도체시대취업력강화",
+    "[오늘의통신]SKT·KT",
+    "SKhynixBreaksGroundonIndianaHBMHub,LinkingKoreaWaferstoU.S.A",
+    "개인,국내ETF순매도···2년여전엔비디아투자열풍'데자뷔'",
+    "반도체투톱'자사주매입'지속…삼성전자·SK하이닉스6일째8조5000억...",
+    "[국립경국대]경북의글로컬대학,안동‧예천캠특성화…AI학생성공지..."
    ],
    "initialized": true,
-   "last_run": "2026-08-28T14:15:22.119559+09:00"
+   "last_run": "2026-08-28T14:20:23.142408+09:00"
   }
  },
  "press_names": {
