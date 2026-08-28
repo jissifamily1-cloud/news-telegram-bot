@@ -82,13 +82,25 @@
     [
      "2026-08-29T04:55:21.335547+09:00",
      "마벨 금리인상 급락 엔비디아 가능성에 휘청 반도체 메모리"
+    ],
+    [
+     "2026-08-29T05:05:18.131118+09:00",
+     "25만원 에도 삼성전자 주저앉 110조 37만원 간다더니"
+    ],
+    [
+     "2026-08-29T05:05:18.131118+09:00",
+     "로펌 규제산업 데이터센터 블루오션 떴다"
+    ],
+    [
+     "2026-08-29T05:05:18.131118+09:00",
+     "전략은 선정된 카카오 차별화 SKT 모두의 KT"
+    ],
+    [
+     "2026-08-29T05:05:18.131118+09:00",
+     "먹거리라고요 미래 데이터센터가 강원도"
     ]
    ],
    "seen_urls": [
-    "https://www.chosun.com/economy/tech_it/2026/08/28/QRETXXHYW5BXRAZ7R52WUXU4T4/",
-    "https://www.seoulfn.com/news/articleView.html?idxno=636685",
-    "https://economist.co.kr/article/view/ecn202608280008",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1722055",
     "http://www.koreastocknews.com/news/articleView.html?idxno=120856",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=266086",
     "https://www.hankookilbo.com/news/article/A2026082809270004818?did=NA",
@@ -1584,13 +1596,13 @@
     "https://www.yna.co.kr/view/AKR20260829005600091?input=1195m",
     "https://www.wikitree.co.kr/articles/1155750",
     "https://www.news2day.co.kr/article/20260828500095",
-    "https://www.mediapen.com/news/view/1119725"
+    "https://www.mediapen.com/news/view/1119725",
+    "https://www.segye.com/newsView/20260829500870?OutUrl=naver",
+    "https://www.lawtimes.co.kr/news/articleView.html?idxno=225485",
+    "https://www.nocutnews.co.kr/news/6569965",
+    "https://www.nocutnews.co.kr/news/6570025"
    ],
    "seen_titles": [
-    "[속보]모두의AI사업수행기관SKT·카카오·KT컨소시엄선정",
-    "[정책브리핑]재생에너지PPA온라인플랫폼출범…정식운영개시",
-    "유안타증권,'K-반도체주식뽑기'이벤트진행",
-    "SK에코플랜트,100%자회사SK에코엔지니어링합병'경영효율'극대",
     "상반기에만작년매출78%달성…동부건설,플랜트사업'질주'",
     "[특징주]SK이노에흡수합병앞둔SKIET,이틀째급락",
     "[윤영숙의시선]점수를공개해도남는'독파모'의질문",
@@ -3086,10 +3098,14 @@
     "\"하드웨어의한국·소프트웨어의실리콘밸리,AI동맹맺어야\"",
     "바이낸스,순손실낸채굴기업MARA주식에20배레버리지무기한선물...",
     "외국인6.1조던졌다…삼성전자·SK하이닉스팔고조선·방산株‘러브...",
-    "[美증시]반도체엔비디아·마벨급락,금리인상가능성에휘청…메모리..."
+    "[美증시]반도체엔비디아·마벨급락,금리인상가능성에휘청…메모리...",
+    "“37만원간다더니왜25만원?”…삼성전자‘최대110조’에도주저앉...",
+    "규제산업된AI데이터센터…로펌'블루오션'으로떴다",
+    "'모두의AI'선정된SKT·KT·카카오…차별화전략은?",
+    "AI데이터센터가강원도미래먹거리라고요?[기후로운경제생활]"
    ],
    "initialized": true,
-   "last_run": "2026-08-29T05:00:38.952650+09:00"
+   "last_run": "2026-08-29T05:05:18.131118+09:00"
   }
  },
  "press_names": {
