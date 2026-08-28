@@ -1186,14 +1186,17 @@
     [
      "2026-08-28T11:45:19.793789+09:00",
      "주요 시각"
+    ],
+    [
+     "2026-08-28T11:50:22.926099+09:00",
+     "전망에 상승세 가속화 확장 SKT 데이터센터"
+    ],
+    [
+     "2026-08-28T11:50:22.926099+09:00",
+     "on Race Acceler Ecoplant Integrated as Engineering Center Data Bets"
     ]
    ],
    "seen_urls": [
-    "https://www.jjan.kr/article/20260827500060",
-    "https://www.cctoday.co.kr/news/articleView.html?idxno=2235654",
-    "https://www.fnnews.com/news/202608271820521431",
-    "https://www.sidae.com/article/2026081312192112122",
-    "https://www.venturesquare.net/1108964/",
     "https://www.hankyung.com/article/2026082776241",
     "https://sports.hankooki.com/news/articleView.html?idxno=6938652",
     "https://www.sedaily.com/article/20084221",
@@ -2688,14 +2691,14 @@
     "https://www.sedaily.com/article/20084410",
     "https://biz.heraldcorp.com/article/10855387",
     "https://zdnet.co.kr/view/?no=20260828113700",
-    "https://biz.sbs.co.kr/article_hub/20000331350?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000331350?division=NAVER",
+    "https://biz.heraldcorp.com/article/10855414",
+    "https://www.cnbnews.com/news/articleView.html?idxno=1013261",
+    "https://www.sentv.co.kr/article/view/sentv202608280082",
+    "http://www.issuenbiz.com/news/articleView.html?idxno=79215",
+    "https://www.koreaittimes.com/news/articleView.html?idxno=156523"
    ],
    "seen_titles": [
-    "SK텔레콤,SK브로드밴드인적분할로SK호라이즌신설",
-    "SKT,SKB인적분할…AIDC전문자회사'SK호라이즌'설립",
-    "삼성·SK·현대차,美투자시계빨라졌다",
-    "SK텔레콤,SK브로드밴드인적분할해AIDC전문기업'SK호라이즌'설립",
-    "이해민의원,개인정보침해사고기록보존의무화법안발의",
     "추미애경기지사,삼성·SK·애플·AWS와RE100해법논의...\"친환경반도...",
     "12월5GSA전국개통추진…통신망투자민관협의체가동",
     "SKT,AI데이터센터전문'SK호라이즌'신설…국산보안AI개발체계구...",
@@ -4190,10 +4193,15 @@
     "삼성전기에꽂힌상위1%,하나마이크론·심텍은팔았다[주식초고수는...",
     "“10억집있나요?”…반도체머니에들썩이는동탄",
     "[모두의AI]고배마신제논\"공모과정서경쟁력확인…개방형전략지...",
-    "이시각주요뉴스"
+    "이시각주요뉴스",
+    "SK텔레콤,AI데이터센터사업3각편대재편",
+    "SK에코플랜트,자회사SK에코엔지니어링흡수합병",
+    "카톡·전화로쓰는AI…카카오,‘모두의AI’내달베타공개",
+    "[특징주]SKT,데이터센터확장가속화전망에상승세",
+    "SKEcoplantBetsonIntegratedEngineeringasAIDataCenterRaceAccel"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T11:45:19.793789+09:00"
+   "last_run": "2026-08-28T11:50:22.926099+09:00"
   }
  },
  "press_names": {
