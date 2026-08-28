@@ -1114,12 +1114,13 @@
     [
      "2026-08-28T18:40:25.179714+09:00",
      "and chosen KT Telecom project public for service Kakao"
+    ],
+    [
+     "2026-08-28T18:45:22.111959+09:00",
+     "HBM"
     ]
    ],
    "seen_urls": [
-    "https://news.ifm.kr/news/articleView.html?idxno=478133",
-    "https://www.news2day.co.kr/article/20260828500052",
-    "https://www.news2day.co.kr/article/20260828500014",
     "https://www.itdaily.kr/news/articleView.html?idxno=241261",
     "https://www.mt.co.kr/stock/2026/08/28/2026082809094581049",
     "http://www.financialreview.co.kr/news/articleView.html?idxno=44438",
@@ -2616,12 +2617,12 @@
     "http://www.srtimes.kr/news/articleView.html?idxno=211125",
     "http://www.yonhapnewstv.co.kr/news/MYH20260828183354YU7",
     "https://view.asiae.co.kr/article/2026082817133592590",
-    "https://www.koreajoongangdaily.com/business/sk-telecom-kakao-and-kt-chosen-for-public-ai-service-project/12849094"
+    "https://www.koreajoongangdaily.com/business/sk-telecom-kakao-and-kt-chosen-for-public-ai-service-project/12849094",
+    "https://www.energy-news.co.kr/news/articleView.html?idxno=227745",
+    "https://www.mk.co.kr/article/12139121",
+    "https://www.nspna.com/jp/news/?newsid=826150"
    ],
    "seen_titles": [
-    "[디지털포스트모닝픽]엔비디아'AI'살렸다…하루만에시총+600조",
-    "SKT,AI데이터센터사업분리…3조원투자유치",
-    "SK하이닉스,美서차세대핵심HBM생산거점기공",
     "SKT,AI데이터센터인프라전문사'SK호라이즌'출범추진",
     "\"메이드인USAHBM만든다\"SK하이닉스,美인디애나팹착공",
     "美엔비디아급등에도삼전·닉스장초반1%안팎약세[핫스탁]",
@@ -4118,10 +4119,13 @@
     "SK그룹,거제·통영등남부수해지역에성금20억지원",
     "엔비디아훈풍무색…코스피1.79%하락",
     "동신대,AI·반도체시대대응'학과별특화교육과정'",
-    "SKTelecom,KakaoandKTchosenforpublicAIserviceproject"
+    "SKTelecom,KakaoandKTchosenforpublicAIserviceproject",
+    "알뜰폰2026년8월브랜드평판...KT엠모바일,프리티,SK세븐모바일順",
+    "한국보고배운일본…단일종목레버리지ETF판매금지",
+    "SKハイニックス、米初のHBM生産拠点着工…40億ドル以上を投資"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T18:40:25.179714+09:00"
+   "last_run": "2026-08-28T18:45:22.111959+09:00"
   }
  },
  "press_names": {
