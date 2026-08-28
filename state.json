@@ -1034,20 +1034,13 @@
     [
      "2026-08-28T17:15:24.869309+09:00",
      "알짜 공백 떼어내는 메우기 DC 신사업 과제 SKB"
+    ],
+    [
+     "2026-08-28T17:20:22.802649+09:00",
+     "신세계인터내셔날 소식 산업일반 ADT캡스"
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0102_202608280809306190",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1722035",
-    "https://www.fnnews.com/news/202608280734449479",
-    "https://www.etoday.co.kr/news/view/2619139",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481360",
-    "https://www.tokenpost.kr/news/market/399345",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=851830",
-    "https://www.g-enews.com/view.php?ud=20260828081228919923c501012_1",
-    "https://www.ajunews.com/view/20260828081642219",
-    "https://biz.sbs.co.kr/article_hub/20000331292?division=NAVER",
-    "https://www.edaily.co.kr/News/Read?newsId=02692886645551912&mediaCodeNo=257",
     "https://www.globale.co.kr/news/articleView.html?idxno=40079",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4432319",
     "http://www.ttlnews.com/news/articleView.html?idxno=3137898",
@@ -2536,20 +2529,20 @@
     "http://www.weeklytoday.com/news/articleView.html?idxno=792115",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608281658337440101280",
     "https://magazine.hankyung.com/business/article/202608289994b",
-    "https://www.newsway.co.kr/news/view?ud=2026082815514288585"
+    "https://www.newsway.co.kr/news/view?ud=2026082815514288585",
+    "https://view.asiae.co.kr/article/2026082817180787218",
+    "http://www.newsfc.co.kr/news/articleView.html?idxno=80782",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=391534",
+    "https://weekly.donga.com/3/all/11/6364930/1",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=879191",
+    "https://www.g-enews.com/view.php?ud=202608281712168289153ddfb15a_1",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=860431",
+    "https://www.ntoday.co.kr/news/articleView.html?idxno=129025",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260828171430jgZ",
+    "https://www.kpinews.kr/newsView/1065596964641553",
+    "http://www.weeklytoday.com/news/articleView.html?idxno=792022"
    ],
    "seen_titles": [
-    "곽노정SK하이닉스사장\"키옥시아와협력강화방안검토\"",
-    "[일본특징주]키옥시아,샌디스크와6년간5조엔투자...AI메모리증산...",
-    "SK에코플랜트,SK에코엔지니어링흡수합병…AI인프라사업통합속도",
-    "SKT-SK에코플랜트,AIDC인프라컴퍼니'SK호라이즌'추진...SK에코엔지...",
-    "'미국산HBM'시대연다…SK하이닉스,40억달러투자첫삽",
-    "SK하이닉스,美서'메이드인USA'HBM짓는다…\"2029년양산\"",
-    "[굿모닝!글로벌뉴욕증시]엔비디아압도적가이던스제시로기술주중...",
-    "[박정식의국내주식시황]엔비디아훈풍으로상승기조유지될모습",
-    "엔비디아훈풍에도삼전·하닉,프리마켓서약세…7000선앞두고눈치보...",
-    "SK하이닉스,3,500명통합노조'적법'지위확인",
-    "SK바이오팜오파칼림,1.1조딜뒤'이중로열티'…美매출두곳에지급",
     "[뉴욕증시]엔비디아·세일즈포스효과에반등…나스닥1.57%↑",
     "SK곽노정“메모리공급부족2030년말까지이어질것…경기하강양상...",
     "[운용&Now]삼성액티브운용,'KoAct고배당액티브ETF'첫월분배실시...",
@@ -4038,10 +4031,21 @@
     "[위클리오늘]온라인게임_컴투스,스마일게이트(8.28)",
     "[더벨]한화리츠공모채2배이상수요…복귀성공",
     "“삼전닉스에10조베팅”코스피는박스권",
-    "DC떼어내는SKB,알짜신사업공백메우기'과제'"
+    "DC떼어내는SKB,알짜신사업공백메우기'과제'",
+    "4년적자에도SK어드밴스드품은SK가스…\"2028년이후업황회복기대\"",
+    "'SK닉스1주하한가'여파에NXT,시가단일가매매도입하나",
+    "'삼전·닉스'동반급락에발목…코스피1.79%하락마감",
+    "외국인,주주환원재료소멸SK하이닉스·삼성전자8조순매도",
+    "[종합]삼성전자·SK·현대차·LG,거제·통영등집중호우피해복구에...",
+    "삼전·닉스자사주10조'폭풍매수'…\"45조추가매수여력\"",
+    "뷰노,314억유증…CB부담덜고성장'베팅'",
+    "SK하이닉스,'메이드인USA'HBM시대연다",
+    "삼전닉스급락…코스피1.79%하락마감",
+    "\"금리인상됐지만,삼성대출변수\"…동탄부동산양극화심화전망",
+    "[위클리오늘]산업일반소식_ADT캡스,신세계인터내셔날(8.28)"
    ],
    "initialized": true,
-   "last_run": "2026-08-28T17:15:24.869309+09:00"
+   "last_run": "2026-08-28T17:20:22.802649+09:00"
   }
  },
  "press_names": {
