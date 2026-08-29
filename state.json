@@ -173,7 +173,6 @@
     ]
    ],
    "seen_urls": [
-    "https://zdnet.co.kr/view/?no=20260828101829",
     "https://www.tokenpost.kr/news/market/399416",
     "https://en.yna.co.kr/view/AEN20260828002600320?input=2106m",
     "https://biz.heraldcorp.com/article/10855183",
@@ -1672,10 +1671,10 @@
     "https://www.mediatoday.co.kr/news/articleView.html?idxno=336763",
     "https://www.ytn.co.kr/replay/view.php?idx=274&key=202608291745012110",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=546960",
-    "https://www.sedaily.com/article/20084758"
+    "https://www.sedaily.com/article/20084758",
+    "http://www.osen.co.kr/article/G1112865894"
    ],
    "seen_titles": [
-    "모티프이의제기에독파모2차세부점수공개…SKT종합1위",
     "SK하이닉스,미국에첫HBM생산거점착공…2029년HBM4E양산",
     "SK하이닉스,美인디애나팹착공…2029년하반기양산",
     "용인특례시,정부에생활용수10만㎥추가공급요청",
@@ -3174,10 +3173,11 @@
     "이대통령지지율하락에중앙일보\"위기본질직시해야\"한겨레\"국정...",
     "[팩트추적]불붙은'초과이윤'논쟁\"사회분배\"vs\"미래투자\"",
     "경상지역수해복구에삼성30억원·SK20억지원",
-    "“한국경제,이대로괜찮나”…반도체호황속나온‘섬뜩한경고’"
+    "“한국경제,이대로괜찮나”…반도체호황속나온‘섬뜩한경고’",
+    "“유소년가족들이횡성군을재방문하도록만들겠다!”이수정횡성군의..."
    ],
    "initialized": true,
-   "last_run": "2026-08-29T18:55:17.485289+09:00"
+   "last_run": "2026-08-29T19:00:34.080389+09:00"
   }
  },
  "press_names": {
