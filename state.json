@@ -302,12 +302,13 @@
     [
      "2026-08-30T08:05:19.362275+09:00",
      "환율 눈앞 1600원대 위협하던 1300원대"
+    ],
+    [
+     "2026-08-30T08:10:27.407223+09:00",
+     "400억 환자 정조준 통풍 시장 젊어진 제약사"
     ]
    ],
    "seen_urls": [
-    "http://www.suwonilbo.kr/news/articleView.html?idxno=317779",
-    "https://www.huffingtonpost.kr/article/259943",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=851868",
     "https://www.getnews.co.kr/news/articleView.html?idxno=879140",
     "http://www.queen.co.kr/news/articleView.html?idxno=462426",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=272494",
@@ -1804,12 +1805,12 @@
     "https://www.g-enews.com/view.php?ud=2026082814320351493d7a510102_1",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=851876",
     "https://www.busan.com/view/busan/view.php?code=2026082717432540784",
-    "http://woman.chosun.com/news/articleView.html?idxno=126474"
+    "http://woman.chosun.com/news/articleView.html?idxno=126474",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696649",
+    "https://www.sentv.co.kr/article/view/sentv202608300003",
+    "https://www.seoulfn.com/news/articleView.html?idxno=636731"
    ],
    "seen_titles": [
-    "[금융권이모저모]신한투자증권,일본서'한일딥테크컨퍼런스'外",
-    "[OpeningMarket]KOSPISlidesBelow6,800onInterestRateCaution",
-    "“사회초년생도집살래요”…‘연1.5%·5억대출’삼성맨움직이자동...",
     "치솟는부천아파트분양가…가격경쟁력갖춘‘대장지구’공공분양...",
     "“효성중공업,美중국산장비규제수혜주…추가수주따낼것”",
     "“제이미사진한장못찍었네”…한유섬,5년만에만난로맥과아쉬...",
@@ -3306,10 +3307,13 @@
     "정부추진,'모두의AI'…SKT·카카오·KT최종선정",
     "증권가\"내년HBM41위는삼성전자\"…승부처는결국'캐파'",
     "[비즈앤피플]질주하는휴머노이드…‘황금알’배터리각축전",
-    "[이코노미스몰토크]1600원대위협하던환율,1300원대눈앞"
+    "[이코노미스몰토크]1600원대위협하던환율,1300원대눈앞",
+    "[증시전망]코스피7000선회복재시도...변수는?",
+    "‘삼전·닉스’단일종목레버리지규제한달…개인1조7000억팔아",
+    "젊어진통풍환자···제약사,400억시장'정조준'"
    ],
    "initialized": true,
-   "last_run": "2026-08-30T08:05:19.362275+09:00"
+   "last_run": "2026-08-30T08:10:27.407223+09:00"
   }
  },
  "press_names": {
