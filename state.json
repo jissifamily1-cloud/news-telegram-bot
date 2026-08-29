@@ -494,11 +494,13 @@
     [
      "2026-08-29T10:30:26.172969+09:00",
      "6조 ETF 몰린 코스피 일주일 흔들리자 방어형"
+    ],
+    [
+     "2026-08-29T10:35:18.443575+09:00",
+     "사업 키운다 디자인하우스 시스템반도체 센서 강자로 싸이닉솔루션"
     ]
    ],
    "seen_urls": [
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2297233",
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=706204",
     "https://www.dailian.co.kr/news/view/1683567/?sc=Naver",
     "https://idsn.co.kr/news/view/1065574681073524",
     "http://www.inews24.com/view/1999196",
@@ -1996,11 +1998,11 @@
     "https://www.sisajournal-e.com/news/articleView.html?idxno=423382",
     "http://www.newsian.co.kr/news/articleView.html?idxno=94432",
     "https://www.thescoop.co.kr/news/articleView.html?idxno=311422",
-    "https://www.kbmaeil.com/article/20260829500054"
+    "https://www.kbmaeil.com/article/20260829500054",
+    "https://www.sedaily.com/article/20084663",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481692"
    ],
    "seen_titles": [
-    "[특징주]美·이란외교돌파구기대후퇴에유가상승…정유주동반강...",
-    "‘모두의AI’사업자에SKT·카카오·KT선정…연내전국민서비스",
     "SK하이닉스,3500명통합노조'적법지위'확인..교섭구도변수",
     "[1보]SKT·카카오·KT,정부'모두의AI'최종선정…연내서비스",
     "'모두의AI'사업에SK텔레콤·카카오·KT선정…\"연내서비스출시\"",
@@ -3498,10 +3500,12 @@
     "반도체부터로봇까지···삼성·SK·현대차,美에뭐짓나",
     "한국증시급등락'반면교사'?…日,단일레버리지ETF판매에제동",
     "'엔비디아호재'도무용지물…국장발목잡은금리와트럼프[주간증...",
-    "코스피흔들리자일주일새2.6조몰린‘방어형ETF’"
+    "코스피흔들리자일주일새2.6조몰린‘방어형ETF’",
+    "SK이노합병앞두고…SKIET이틀연속8%대급락[이런국장저런주식]",
+    "싸이닉솔루션,시스템반도체디자인하우스강자로…센서사업키운다"
    ],
    "initialized": true,
-   "last_run": "2026-08-29T10:30:26.172969+09:00"
+   "last_run": "2026-08-29T10:35:18.443575+09:00"
   }
  },
  "press_names": {
