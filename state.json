@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-29T15:40:25.799057+09:00",
-     "섬사람 서드 제주SK 20년 담은 공개 유니폼"
-    ],
-    [
      "2026-08-29T15:50:21.963861+09:00",
      "창신메모리 깜짝 불똥 실적 삼전 하닉 주가에"
     ],
@@ -150,11 +146,13 @@
     [
      "2026-08-29T21:30:29.267492+09:00",
      "사용성 독파모 논란 벤치마크 탈락 1위가"
+    ],
+    [
+     "2026-08-29T21:45:21.475443+09:00",
+     "손인사 출발 김재희 반가운"
     ]
    ],
    "seen_urls": [
-    "https://www.chosun.com/economy/tech_it/2026/08/28/EIVFB7XNWZBDTPH47OKDCA3JZM/",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=52401",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2464134",
     "https://biz.sbs.co.kr/article_hub/20000331294?division=NAVER",
     "https://daily.hankooki.com/news/articleView.html?idxno=1400283",
@@ -1652,11 +1650,11 @@
     "https://www.econovill.com/news/articleView.html?idxno=749271",
     "https://www.mediatoday.co.kr/news/articleView.html?idxno=336765",
     "https://www.aitimes.com/news/articleView.html?idxno=214606",
-    "https://www.yna.co.kr/view/AKR20260828170551017?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260828170551017?input=1195m",
+    "https://www.globale.co.kr/news/articleView.html?idxno=40103",
+    "https://www.edaily.co.kr/News/Read?newsId=02630566645552240&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "[모두의AI]카카오\"익숙한메신저로국민AI장벽낮춘다…외부에이...",
-    "콘텐츠웨이브,NAV확대향방은…합병장기화'걸림돌'",
     "정제마진강세에커지는실적개선기대감…정유株일제히불기둥",
     "과학기술정보통신부,KT·SKT·카카오3곳'모두의AI'사업자로선정",
     "SK하이닉스,첫‘메이드인USA’HBM만든다…2029년하반기양산",
@@ -3154,10 +3152,12 @@
     "엔비디아2분기매출133조…\"내년70%더성장\"",
     "\"신선한농작물의고장에서배송\"알고보니중국산김치",
     "[AI이슈트렌드]엔비디아호재안통한삼전·하이닉스…박위사고·제...",
-    "[테크톡노트]벤치마크1위가탈락…독파모'사용성'논란(종합)"
+    "[테크톡노트]벤치마크1위가탈락…독파모'사용성'논란(종합)",
+    "정부'독파모'2차평가지표공방가열···벤치마크1위탈락",
+    "[포토]김재희,반가운손인사출발"
    ],
    "initialized": true,
-   "last_run": "2026-08-29T21:40:21.652714+09:00"
+   "last_run": "2026-08-29T21:45:21.475443+09:00"
   }
  },
  "press_names": {
