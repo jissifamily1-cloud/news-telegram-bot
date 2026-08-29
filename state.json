@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-29T14:25:17.584099+09:00",
-     "유동성 307조 국내 무기한선물 해외로"
-    ],
-    [
      "2026-08-29T14:30:29.372863+09:00",
      "나혼자 기타법인 홀로 지지 산다 매입으로 코스피 자사주"
     ],
@@ -150,10 +146,13 @@
     [
      "2026-08-29T19:55:19.062283+09:00",
      "손잡아야 AI동맹 한국과 러브콜 보낸 실리콘밸리가"
+    ],
+    [
+     "2026-08-29T20:25:18.310323+09:00",
+     "증시 가장 반박 외신 금융위 세계서 미친 정면"
     ]
    ],
    "seen_urls": [
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=266093",
     "https://www.seoul.co.kr/news/economy/2026/08/28/20260828500069?wlog_tag3=naver",
     "https://www.dizzotv.com/site/data/html_dir/2026/08/28/2026082880028.html",
     "https://www.busan.com/view/busan/view.php?code=2026082810233252101",
@@ -1652,10 +1651,10 @@
     "https://news.tvchosun.com/site/data/html_dir/2026/08/29/2026082990127.html",
     "https://news.tvchosun.com/site/data/html_dir/2026/08/29/2026082990110.html",
     "https://www.bigtanews.co.kr/article/view/big202608290006",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608290412&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608290412&t=NN",
+    "https://www.ggilbo.com/news/articleView.html?idxno=1177577"
    ],
    "seen_titles": [
-    "코스피숨고르기,1%안팎하락6,800선...삼전닉스1∼2%↓",
     "시행령→지침…李정부‘노란봉투법’손질본격화",
     "[모두의AI]KT\"챗봇넘어과업까지처리,실생활체감으로승부\"",
     "국민연금수익률27.22%,국내주식107.37%",
@@ -3154,10 +3153,11 @@
     "\"꼭호남에반도체?\"…국힘,이재용·최태원청문회추진",
     "[돈이보이는경제]잇단호재에도주가는지지부진…반도체상승장은...",
     "미래에셋증권,8월마지막주한화등9종목매수추천",
-    "\"한국과손잡아야\"…실리콘밸리가보낸'AI동맹'러브콜"
+    "\"한국과손잡아야\"…실리콘밸리가보낸'AI동맹'러브콜",
+    "외신,韓\"세계서가장미친증시\"…금융위정면반박"
    ],
    "initialized": true,
-   "last_run": "2026-08-29T20:20:23.666626+09:00"
+   "last_run": "2026-08-29T20:25:18.310323+09:00"
   }
  },
  "press_names": {
