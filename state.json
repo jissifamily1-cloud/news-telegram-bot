@@ -265,8 +265,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260828050151017?input=1195m",
-    "https://www.koreaherald.com/article/10855250",
     "https://www.businessplus.kr/news/articleView.html?idxno=116067",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=275717",
     "https://biz.heraldcorp.com/article/10855245",
@@ -1764,11 +1762,11 @@
     "https://www.mt.co.kr/economy/2026/08/30/2026082922061668228",
     "https://www.tokenpost.kr/news/market/400503",
     "https://it.chosun.com/news/articleView.html?idxno=2023092169089",
-    "https://www.spotvnews.co.kr/news/articleView.html?idxno=1004685"
+    "https://www.spotvnews.co.kr/news/articleView.html?idxno=1004685",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608300038&t=NN",
+    "http://www.joseilbo.com/news/news_read.php?uid=574714&class=17"
    ],
    "seen_titles": [
-    "SKT·카카오·KT가'모두의AI'맡는다...정부최종사업자선정",
-    "SK하이닉스,美인디애나HBM생산거점기공식",
     "'모두의AI'사업자에SKT·카카오·KT…6곳경쟁서3곳선정",
     "광주서'성장사다리'연'모두의AI'…SKT·카카오·KT,전국민서비스...",
     "[단독]국회산자위,'호남반도체'이재용·최태원청문회추진",
@@ -3266,10 +3264,12 @@
     "\"이월급받고밤샘까지?\"청년떠난빈자리…결국로봇·외국인이채웠...",
     "지에스45.17%상승,정제마진강세탔다",
     "삼성SK·신약바이오·머니마켓·낸드메모리[이주의상장ETF]",
-    "이정후진짜잘났네,2안타1타점+재치만점수비까지…하지만SF,DH1차..."
+    "이정후진짜잘났네,2안타1타점+재치만점수비까지…하지만SF,DH1차...",
+    "예탁금3배뛰자…개미,한달만에1.7조팔았다",
+    "반도체슈퍼사이클에세수도잭팟…삼성·SK상반기법인세11.2조"
    ],
    "initialized": true,
-   "last_run": "2026-08-30T07:55:17.279780+09:00"
+   "last_run": "2026-08-30T08:00:35.261323+09:00"
   }
  },
  "press_names": {
