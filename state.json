@@ -206,11 +206,13 @@
     [
      "2026-08-29T17:30:29.391113+09:00",
      "앞둔 직업계고 관심 설명회 개교 폭발 용인반도체고"
+    ],
+    [
+     "2026-08-29T17:35:18.072515+09:00",
+     "아틀라스 투입 현대차 업계 로봇 속도 변모 완성차 상용화 격전지로"
     ]
    ],
    "seen_urls": [
-    "https://it.chosun.com/news/articleView.html?idxno=2023092169013",
-    "http://www.econonews.co.kr/news/articleView.html?idxno=443472",
     "https://www.seoultimes.news/news/article.html?no=2000099250",
     "https://www.topstarnews.net/news/articleView.html?idxno=16175831",
     "https://www.it-b.co.kr/news/articleView.html?idxno=89662",
@@ -1708,11 +1710,11 @@
     "https://www.ggilbo.com/news/articleView.html?idxno=1177536",
     "https://www.mk.co.kr/article/12139452",
     "http://www.osen.co.kr/article/G1112865822",
-    "https://www.newsis.com/view/NISX20260829_0003767929"
+    "https://www.newsis.com/view/NISX20260829_0003767929",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608290373&t=NN",
+    "https://www.pointe.co.kr/news/articleView.html?idxno=83974"
    ],
    "seen_titles": [
-    "亞장중..코스피'하락'vs대만증시'활짝',亞반도체주'혼조'",
-    "연내‘모두의AI’3개나온다…SKT·카카오·KT뭐가다를까",
     "'모두의AI'SKT·카카오·KT선정…이통3사모두참여",
     "전화·문자로서비스'척척'…'모두의AI'서SKT·KT·카카오선정",
     "[뉴스+]전국민이용하는'모두의AI'…SKT·카카오·KT3곳최종선종",
@@ -3210,10 +3212,12 @@
     "고액자산가들네이버·카카오대신…'이종목'담았다",
     "9월코스피8100까지간다...장기금리진정될것",
     "“횡성군에서청소년농구국제대회까지유치할것”김철회강원특별자...",
-    "용인반도체고개교앞둔설명회…직업계고관심폭발"
+    "용인반도체고개교앞둔설명회…직업계고관심폭발",
+    "中D램'깜짝실적'…\"월요일국장어쩌나\"개미들촉각",
+    "현대차아틀라스투입속도,완성차업계로봇상용화격전지로변모"
    ],
    "initialized": true,
-   "last_run": "2026-08-29T17:30:29.391113+09:00"
+   "last_run": "2026-08-29T17:35:18.072515+09:00"
   }
  },
  "press_names": {
