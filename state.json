@@ -186,10 +186,13 @@
     [
      "2026-08-29T17:45:23.352159+09:00",
      "사용자를 한국 국민 겨냥한 AI에 5000만 국산 붙인다 실험이"
+    ],
+    [
+     "2026-08-29T18:00:34.668665+09:00",
+     "한겨레 대통령 하락에 위기 본질 직시해야 중앙일보 국정 지지율"
     ]
    ],
    "seen_urls": [
-    "https://www.seoulfn.com/news/articleView.html?idxno=636698",
     "https://www.cstimes.com/news/articleView.html?idxno=718447",
     "http://www.seouleconews.com/news/articleView.html?idxno=93372",
     "https://www.asiatime.co.kr/article/20260828500065",
@@ -1688,10 +1691,10 @@
     "https://www.edaily.co.kr/News/Read?newsId=02364886645552240&mediaCodeNo=257",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=860554",
     "https://platum.kr/archives/293572",
-    "https://www.apnews.kr/news/articleView.html?idxno=3050799"
+    "https://www.apnews.kr/news/articleView.html?idxno=3050799",
+    "https://www.mediatoday.co.kr/news/articleView.html?idxno=336763"
    ],
    "seen_titles": [
-    "정부,노란봉투법'쟁의대상기준'시행지침으로구체화",
     "SK하이닉스,'임직원10%'통합노조공식인정…노사교섭판커졌다",
     "\"파이프라인가치입증했다\"…신풍제약,신약임상모멘텀부각",
     "SKT,'모두의AI'로국민일상파고든다…답변넘어'행동하는AI'구현",
@@ -3190,10 +3193,11 @@
     "[골프IN화보]김재희,3라운드경기장면'제15회KG레이디스오픈'",
     "'이도류도전'울산하재훈\"만족하며야구하고싶어\"",
     "국산AI에5000만사용자를붙인다…한국'전국민AI'실험이겨냥한것",
-    "\"등본떼고병원예약까지\"…SKT,'모두의AI'로행동형AI대중화"
+    "\"등본떼고병원예약까지\"…SKT,'모두의AI'로행동형AI대중화",
+    "이대통령지지율하락에중앙일보\"위기본질직시해야\"한겨레\"국정..."
    ],
    "initialized": true,
-   "last_run": "2026-08-29T17:55:20.878766+09:00"
+   "last_run": "2026-08-29T18:00:34.668665+09:00"
   }
  },
  "press_names": {
