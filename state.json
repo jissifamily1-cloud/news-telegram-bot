@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-29T17:15:22.622015+09:00",
-     "네이버 대신 종목 카카오 담았다 고액자산가들"
-    ],
-    [
      "2026-08-29T17:20:22.672126+09:00",
      "진정될 코스피 8100까지 9월 간다 장기금리"
     ],
@@ -118,10 +114,13 @@
     [
      "2026-08-29T23:00:33.401122+09:00",
      "활약에 미친 무서운 거절 대반전 개막전 맨유 아스널 김민재 빌라"
+    ],
+    [
+     "2026-08-29T23:15:25.472774+09:00",
+     "내려 경유 휘발유 4원 기름값 연속 하락 주유소 판매 1원 15주"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20084374",
     "https://www.news1.kr/finance/general-stock/6272381",
     "https://biz.heraldcorp.com/article/10855195",
     "https://www.peoplewatch.co.kr/article/view/ppw202608280003",
@@ -1620,10 +1619,10 @@
     "https://www.mk.co.kr/article/12139568",
     "https://www.wflower.info/news/article.html?no=12354",
     "https://www.yna.co.kr/view/AKR20260829050451007?input=1195m",
-    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97105"
+    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97105",
+    "https://www.energy-news.co.kr/news/articleView.html?idxno=227750"
    ],
    "seen_titles": [
-    "SKT,'모두의AI'사업자선정…10월'전국민AI비서'베타서비스",
     "유안타증권,신규·휴면고객...'K-반도체주식뽑기'이벤트",
     "미트럼프정부,또반도체관세카드만지작...“단기적자승자박,장...",
     "'모두의AI'SKT·카카오·KT최종선정...\"내년부터전국민서비스\"",
@@ -3122,10 +3121,11 @@
     "“죄송합니다,감독님이인터뷰를거절했습니다”안양유병훈감독,부...",
     "카타르항공까지뜬다…도봉구청년취업멘토링콘서트",
     "안양유병훈감독,K리그100번째경기무승부후기자회견불참(종합)",
-    "'맨유·아스널·빌라거절'김민재무서운대반전...개막전미친활약에..."
+    "'맨유·아스널·빌라거절'김민재무서운대반전...개막전미친활약에...",
+    "주유소판매기름값15주연속하락…휘발유-1.1원,경유-0.4원내려"
    ],
    "initialized": true,
-   "last_run": "2026-08-29T23:10:51.850756+09:00"
+   "last_run": "2026-08-29T23:15:25.472774+09:00"
   }
  },
  "press_names": {
