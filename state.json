@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-29T11:40:25.091380+09:00",
-     "SK증권 조건 털어냈나 갖춰 이제 서진시스템 반등 악재"
-    ],
-    [
-     "2026-08-29T11:40:25.091380+09:00",
-     "삼성 YMTC에 엑스태킹 이미 설계도 추월 따라간다 낸드"
-    ],
-    [
-     "2026-08-29T11:45:20.870229+09:00",
-     "소폭 넷째 이달 하락세 내려 가격 휘발유 연속 15주 경유 주유소"
-    ],
-    [
-     "2026-08-29T11:45:20.870229+09:00",
-     "성금 수해지역 전달 손길 삼성 롯데 보탰다 LG 70억"
-    ],
-    [
      "2026-08-29T11:50:23.375154+09:00",
      "CXMT 만에 1년 적자였는데 전엔 반년 16조 벌었다"
     ],
@@ -210,11 +194,17 @@
     [
      "2026-08-29T17:40:21.087289+09:00",
      "KG 오픈 경기 레이디스 3라운드 김재희 장면 제15회"
+    ],
+    [
+     "2026-08-29T17:45:23.352159+09:00",
+     "만족하며 야구하고 싶어 이도류 도전 울산 하재훈"
+    ],
+    [
+     "2026-08-29T17:45:23.352159+09:00",
+     "사용자를 한국 국민 겨냥한 AI에 5000만 국산 붙인다 실험이"
     ]
    ],
    "seen_urls": [
-    "https://www.topstarnews.net/news/articleView.html?idxno=16175831",
-    "https://www.it-b.co.kr/news/articleView.html?idxno=89662",
     "https://en.asiatoday.co.kr/view.php?key=20260828000903482",
     "https://www.seoulfn.com/news/articleView.html?idxno=636698",
     "https://www.cstimes.com/news/articleView.html?idxno=718447",
@@ -1712,11 +1702,11 @@
     "https://www.newsis.com/view/NISX20260829_0003767929",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608290373&t=NN",
     "https://www.pointe.co.kr/news/articleView.html?idxno=83974",
-    "https://www.edaily.co.kr/News/Read?newsId=02364886645552240&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=02364886645552240&mediaCodeNo=257",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=860554",
+    "https://platum.kr/archives/293572"
    ],
    "seen_titles": [
-    "전화·문자로서비스'척척'…'모두의AI'서SKT·KT·카카오선정",
-    "[뉴스+]전국민이용하는'모두의AI'…SKT·카카오·KT3곳최종선종",
     "\"AI혁신전쟁:SK텔레콤·카카오·KT,'모두의AI'프로젝트주도권잡다...",
     "정부,노란봉투법'쟁의대상기준'시행지침으로구체화",
     "SK하이닉스,'임직원10%'통합노조공식인정…노사교섭판커졌다",
@@ -3214,10 +3204,12 @@
     "용인반도체고개교앞둔설명회…직업계고관심폭발",
     "中D램'깜짝실적'…\"월요일국장어쩌나\"개미들촉각",
     "현대차아틀라스투입속도,완성차업계로봇상용화격전지로변모",
-    "[골프IN화보]김재희,3라운드경기장면'제15회KG레이디스오픈'"
+    "[골프IN화보]김재희,3라운드경기장면'제15회KG레이디스오픈'",
+    "'이도류도전'울산하재훈\"만족하며야구하고싶어\"",
+    "국산AI에5000만사용자를붙인다…한국'전국민AI'실험이겨냥한것"
    ],
    "initialized": true,
-   "last_run": "2026-08-29T17:40:21.087289+09:00"
+   "last_run": "2026-08-29T17:45:23.352159+09:00"
   }
  },
  "press_names": {
