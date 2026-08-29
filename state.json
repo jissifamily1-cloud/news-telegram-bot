@@ -538,11 +538,17 @@
     [
      "2026-08-29T11:40:25.091380+09:00",
      "삼성 YMTC에 엑스태킹 이미 설계도 추월 따라간다 낸드"
+    ],
+    [
+     "2026-08-29T11:45:20.870229+09:00",
+     "소폭 넷째 이달 하락세 내려 가격 휘발유 연속 15주 경유 주유소"
+    ],
+    [
+     "2026-08-29T11:45:20.870229+09:00",
+     "성금 수해지역 전달 손길 삼성 롯데 보탰다 LG 70억"
     ]
    ],
    "seen_urls": [
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5215462",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2464149",
     "https://view.asiae.co.kr/article/2026082810051301821",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008726354&plink=ORI&cooper=NAVER",
     "https://www.lawtv.kr/news/articleView.html?idxno=60783",
@@ -2040,11 +2046,11 @@
     "https://www.interfootball.co.kr/news/articleView.html?idxno=693460",
     "https://www.fnnews.com/news/202608291109486077",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481705",
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258026"
+    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258026",
+    "https://www.viva100.com/article/20260829500089",
+    "https://www.ntoday.co.kr/news/articleView.html?idxno=129045"
    ],
    "seen_titles": [
-    "[속보]'모두의AI'수행기관에SKT·카카오·KT최종선정…연내정식...",
-    "\"키옥시아레버리지ETF역상륙막아라\"日금융청,판매제동",
     "SK하이닉스,美인디애나HBM패키징공장첫삽..2029년HBM양산돌입",
     "SK하이닉스,인디애나팹기공식…“2029년미국산HBM양산”",
     "전국민대상'모두의AI'사업…SKT·카카오·KT최종선정",
@@ -3542,10 +3548,12 @@
     "[K리그1포인트]입추지나자'5G4승'무서운상승세…'가을황선홍'의...",
     "최태원'AI드라이브'에SKB도쪼갠다…3조원몰리는'이사업'[공시록...",
     "서진시스템,악재털어냈나…SK증권\"이제반등조건갖춰\"",
-    "[분석]삼성낸드,中YMTC에이미추월···엑스태킹설계도따라간다"
+    "[분석]삼성낸드,中YMTC에이미추월···엑스태킹설계도따라간다",
+    "이달넷째주주유소휘발유·경유가격소폭내려…15주연속하락세",
+    "삼성·SK·LG·롯데,수해지역손길보탰다…70억성금전달"
    ],
    "initialized": true,
-   "last_run": "2026-08-29T11:40:25.091380+09:00"
+   "last_run": "2026-08-29T11:45:20.870229+09:00"
   }
  },
  "press_names": {
