@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-29T23:35:16.492198+09:00",
-     "문수로 11억9000만원 상승폭 울산 배로 남구 아파트값"
-    ],
-    [
      "2026-08-30T00:05:19.658013+09:00",
      "삼전닉스 미래 상장 동시 ETF 한투운용 맞붙는다"
     ],
@@ -74,10 +70,13 @@
     [
      "2026-08-30T05:30:30.124296+09:00",
      "교훈 채권 250억달러 소환 CPDO 다시"
+    ],
+    [
+     "2026-08-30T05:35:18.868313+09:00",
+     "탈출 금리 바닥 기대에 끼얹은 바이오의 겨울 박진 잔혹한 찬물"
     ]
    ],
    "seen_urls": [
-    "http://www.press9.kr/news/articleView.html?idxno=81774",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=391472",
     "https://www.hankyung.com/article/202608264162r",
     "https://www.mk.co.kr/article/12138590",
@@ -1576,10 +1575,10 @@
     "https://www.nocutnews.co.kr/news/6570054",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=317169",
     "https://www.dt.co.kr/article/12080817",
-    "https://www.tokenpost.kr/news/economy/400470"
+    "https://www.tokenpost.kr/news/economy/400470",
+    "https://www.dt.co.kr/article/12080818"
    ],
    "seen_titles": [
-    "SK하이닉스,'MadeinUSA'HBM만든다…2029년7세대양산",
     "SK하이닉스,美인디애나HBM팹착공…엔비디아·TSMC잇는'AI삼각동맹...",
     "SK하이닉스,美인디애나HBM거점착공…2029년하반기양산",
     "'모두의AI'프로젝트에SKT·카카오·KT컨소시엄최종선정",
@@ -3078,10 +3077,11 @@
     "군공항비우고팹건설까지…호남반도체'2029년'가능할까",
     "끝나지않는호르무즈쇼크…비싼화석연료가재생에너지전환앞당겨",
     "원·달러환율13개월만에‘최저’…얼마나더내릴까",
-    "250억달러AI채권,CPDO교훈다시소환"
+    "250억달러AI채권,CPDO교훈다시소환",
+    "‘바닥탈출’기대에찬물끼얹은금리…K-바이오의잔혹한겨울[박진..."
    ],
    "initialized": true,
-   "last_run": "2026-08-30T05:30:30.124296+09:00"
+   "last_run": "2026-08-30T05:35:18.868313+09:00"
   }
  },
  "press_names": {
