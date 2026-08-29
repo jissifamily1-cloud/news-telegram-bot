@@ -114,12 +114,13 @@
     [
      "2026-08-29T23:20:21.809209+09:00",
      "통영 20억원 지원도 수해에 거제 SK그룹 구호 통신 가동"
+    ],
+    [
+     "2026-08-29T23:35:16.492198+09:00",
+     "문수로 11억9000만원 상승폭 울산 배로 남구 아파트값"
     ]
    ],
    "seen_urls": [
-    "https://www.fetv.co.kr/news/articleView.html?idxno=309226",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=94389",
-    "https://news.mtn.co.kr/news-detail/2026082810311183882",
     "https://www.topstarnews.net/news/articleView.html?idxno=16175849",
     "http://www.breaknews.com/1232312",
     "https://www.nocutnews.co.kr/news/6569609",
@@ -1616,12 +1617,12 @@
     "https://www.energy-news.co.kr/news/articleView.html?idxno=227750",
     "https://mhnse.com/news/articleView.html?idxno=1512833",
     "https://mhnse.com/news/articleView.html?idxno=1512831",
-    "https://www.thedailypost.kr/news/articleView.html?idxno=115243"
+    "https://www.thedailypost.kr/news/articleView.html?idxno=115243",
+    "https://mhnse.com/news/articleView.html?idxno=1512901",
+    "https://mhnse.com/news/articleView.html?idxno=1512904",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=879226"
    ],
    "seen_titles": [
-    "'모두의AI'주인공은카카오·SKT·KT···연내진짜승부시작된다",
-    "[증시타임]엔비디아폭등,AI랠리어디까지?…숨겨진레버리지위험은",
-    "SK텔레콤,'모두의AI'최종선정…10월'AI비서'베타서비스",
     "카톡·전화·IPTV에AI심는다…SKT·카카오·KT'국민접점'경쟁",
     "美서첫생산기지짓는SK하이닉스…'전공정밸류체인'까지이어질까",
     "SKT·카카오·KT뭉쳤다…정부'모두의AI'사업자선정",
@@ -3118,10 +3119,13 @@
     "주유소판매기름값15주연속하락…휘발유-1.1원,경유-0.4원내려",
     "[mhn포토]김재희,가리키는곳으로공략",
     "[mhn포토]김재희,들어가라",
-    "SK그룹,거제·통영수해에20억원…구호·통신지원도가동"
+    "SK그룹,거제·통영수해에20억원…구호·통신지원도가동",
+    "[mhn포토]김재희,우승정조준",
+    "[mhn포토]김재희,홀인원노린다",
+    "울산아파트값상승폭두배로…남구0.18%,문수로84㎡11억9000만원"
    ],
    "initialized": true,
-   "last_run": "2026-08-29T23:30:30.806017+09:00"
+   "last_run": "2026-08-29T23:35:16.492198+09:00"
   }
  },
  "press_names": {
