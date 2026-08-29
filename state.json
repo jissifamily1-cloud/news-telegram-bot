@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-29T13:35:19.373207+09:00",
-     "8월 한미약품 SK바이오팜 4주차"
-    ],
-    [
      "2026-08-29T13:55:16.687650+09:00",
      "증권사 회복 국면 풍력 종목은 업황 주목하는"
     ],
@@ -162,11 +158,17 @@
     [
      "2026-08-29T19:35:18.194237+09:00",
      "사고 방치 안전망 대법원 중대재해법 무죄 돌발 실형"
+    ],
+    [
+     "2026-08-29T19:40:21.290277+09:00",
+     "국힘 이재용 호남에 청문회 반도체 최태원"
+    ],
+    [
+     "2026-08-29T19:40:21.290277+09:00",
+     "호재에도 상승장은 주가는 지지부진 반도체 잇단"
     ]
    ],
    "seen_urls": [
-    "https://www.imaeil.com/page/view/2026082810192319115",
-    "https://www.starnewskorea.com/business-life/2026/08/28/2026082810214873598",
     "https://www.womennews.co.kr/news/articleView.html?idxno=281494",
     "https://www.hankyung.com/article/2026082888336",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=266093",
@@ -1664,11 +1666,11 @@
     "http://www.yonhapnewstv.co.kr/news/MYH20260829191139kdR",
     "https://www.ddaily.co.kr/page/view/2026082919283894829",
     "https://www.etnews.com/20260829000027",
-    "https://www.sedaily.com/article/20084552"
+    "https://www.sedaily.com/article/20084552",
+    "https://news.tvchosun.com/site/data/html_dir/2026/08/29/2026082990127.html",
+    "https://news.tvchosun.com/site/data/html_dir/2026/08/29/2026082990110.html"
    ],
    "seen_titles": [
-    "SK하이닉스,미국서'메이드인USA'HBM만든다…2029년하반기양산",
-    "SKHynixbuildsHBMproductionbaseinIndiana,U.S.",
     "SK하이닉스,美인디아나HBM팹착공····2029년하반기양산",
     "SKT,전국민AI비서만든다…10월베타출시",
     "코스피숨고르기,1%안팎하락6,800선...삼전닉스1∼2%↓",
@@ -3166,10 +3168,12 @@
     "1,550원서1,370원대로…'고환율'흐름꺾이나",
     "진격의'오디세이',800만관객돌파…'트로이'까지반사인기",
     "이천시,6·7급공무원대상반도체현장교육실시",
-    "‘안전망방치’는실형,‘돌발사고’는무죄…대법원중대재해법처..."
+    "‘안전망방치’는실형,‘돌발사고’는무죄…대법원중대재해법처...",
+    "\"꼭호남에반도체?\"…국힘,이재용·최태원청문회추진",
+    "[돈이보이는경제]잇단호재에도주가는지지부진…반도체상승장은..."
    ],
    "initialized": true,
-   "last_run": "2026-08-29T19:35:18.194237+09:00"
+   "last_run": "2026-08-29T19:40:21.290277+09:00"
   }
  },
  "press_names": {
