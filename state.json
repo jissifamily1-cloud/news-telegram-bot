@@ -234,11 +234,13 @@
     [
      "2026-08-30T07:10:25.656519+09:00",
      "정유주 상승에 정제 마진 원유보다 강세 제품 정상화 느린"
+    ],
+    [
+     "2026-08-30T07:15:20.383763+09:00",
+     "삼성 앞서 샤오미 폴드 탑재 내달 양산 LPDDR6 CXMT"
     ]
    ],
    "seen_urls": [
-    "https://www.cnbizm.com/news/articleView.html?idxno=313037",
-    "http://www.kdfnews.com/news/articleView.html?idxno=187207",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=88523",
     "https://www.viva100.com/article/20260828500249",
     "https://www.peoplewatch.co.kr/article/view/ppw202608280004",
@@ -1736,11 +1738,11 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=602195",
     "https://www.yna.co.kr/view/AKR20260829022600008?input=1195m",
     "https://www.yna.co.kr/view/AKR20260829001400008?input=1195m",
-    "https://www.yna.co.kr/view/AKR20260829011900008?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260829011900008?input=1195m",
+    "https://www.lecturernews.com/news/articleView.html?idxno=209647",
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=546963"
    ],
    "seen_titles": [
-    "[공식발표]'한국판람이될까'대전18세김도연,독일챔피언바이에...",
-    "SKT,‘모두의AI’사업자선정…AI서비스전화·문자로이용",
     "SKT,AIDC인프라전문기업'SK호라이즌'신설⋯3조원실탄확보",
     "'모두의AI'최종3곳은SKT·카카오·KT…서비스차별화경쟁본격화",
     "SKT,'모두의AI'로행동형AI승부…일상업무까지대신한다",
@@ -3238,10 +3240,12 @@
     "코스피털썩…삼성전자·SK하이닉스동반약세,삼성전기는↑",
     "'삼전·닉스'단일종목레버리지규제한달…개미1.7조팔았다",
     "'롤러코스피'멈췄지만…활력위축에7천선문턱걸린코스피",
-    "정유주,정제마진상승에강세…\"원유보다느린제품정상화\""
+    "정유주,정제마진상승에강세…\"원유보다느린제품정상화\"",
+    "[코스피·코스닥지수]미국기준금리인상우려확산…코스피,반도체...",
+    "中CXMT,삼성·SK앞서LPDDR6양산⋯샤오미18폴드내달탑재"
    ],
    "initialized": true,
-   "last_run": "2026-08-30T07:10:25.656519+09:00"
+   "last_run": "2026-08-30T07:15:20.383763+09:00"
   }
  },
  "press_names": {
