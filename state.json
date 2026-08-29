@@ -66,10 +66,13 @@
     [
      "2026-08-30T05:05:18.755661+09:00",
      "않는 호르무즈 비싼 재생에너지 화석연료가 쇼크 앞당겨 끝나지"
+    ],
+    [
+     "2026-08-30T05:25:20.588373+09:00",
+     "얼마나 13개월 최저 달러 만에 내릴까 환율"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260828057700011?input=1195m",
     "http://www.newstomato.com/ReadNews.aspx?no=1311756&inflow=N",
     "http://www.press9.kr/news/articleView.html?idxno=81774",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=391472",
@@ -1568,10 +1571,10 @@
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=317144",
     "https://www.g-enews.com/view.php?ud=202608291729063935fbbec65dfb_1",
     "https://www.nocutnews.co.kr/news/6570054",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=317169"
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=317169",
+    "https://www.dt.co.kr/article/12080817"
    ],
    "seen_titles": [
-    "'모두의AI'사업자3곳확정…SKT·카카오·KT,국민AI서비스만든다",
     "'모두의AI'결착…SKT·카카오·KT최종선정",
     "SK하이닉스,'MadeinUSA'HBM만든다…2029년7세대양산",
     "SK하이닉스,美인디애나HBM팹착공…엔비디아·TSMC잇는'AI삼각동맹...",
@@ -3070,10 +3073,11 @@
     "[증시UP&DOWN]고금리장기화에펀더멘털중심'옥석가리기'",
     "AI발데이터센터,냉각수3배급증경고에글로벌수자원규제확산",
     "군공항비우고팹건설까지…호남반도체'2029년'가능할까",
-    "끝나지않는호르무즈쇼크…비싼화석연료가재생에너지전환앞당겨"
+    "끝나지않는호르무즈쇼크…비싼화석연료가재생에너지전환앞당겨",
+    "원·달러환율13개월만에‘최저’…얼마나더내릴까"
    ],
    "initialized": true,
-   "last_run": "2026-08-30T05:20:24.742436+09:00"
+   "last_run": "2026-08-30T05:25:20.588373+09:00"
   }
  },
  "press_names": {
