@@ -510,14 +510,13 @@
     [
      "2026-08-30T14:05:19.148933+09:00",
      "인센티브 인디애나서 인재와 SK하닉이 이유는 HBM을 만드는"
+    ],
+    [
+     "2026-08-30T14:20:21.225337+09:00",
+     "output boost rivals YMTC NAND back hold as to Korean"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=272595",
-    "https://www.kyosu.net/news/articleView.html?idxno=209462",
-    "https://www.hani.co.kr/arti/politics/politics_general/1275125.html",
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=762615",
-    "https://www.thepowernews.co.kr/view.php?ud=202608281420211237de3f0aa1be_7",
     "https://www.news1.kr/industry/distribution/6272683",
     "https://www.todayenergy.kr/news/articleView.html?idxno=302134",
     "https://www.joongangenews.com/news/articleView.html?idxno=543676",
@@ -2012,14 +2011,14 @@
     "https://www.businesspost.co.kr/BP?command=article_view&num=445928",
     "https://news.tvchosun.com/site/data/html_dir/2026/08/30/2026083090056.html",
     "https://news.tvchosun.com/site/data/html_dir/2026/08/30/2026083090055.html",
-    "https://www.yna.co.kr/view/AKR20260830011451007?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260830011451007?input=1195m",
+    "https://www.ajunews.com/view/20260830135537863",
+    "https://www.insight.co.kr/news/570925",
+    "https://www.hankookilbo.com/news/article/A2026083013400000041?did=NA",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000060711",
+    "https://www.koreaherald.com/article/10856454"
    ],
    "seen_titles": [
-    "'반도체기업변신'SK에코플랜트,건설전통사업은‘손실’…향후과...",
-    "SKT'모두의AI'사업자선정···대국민서비스계획",
-    "'유소년농구축제횡성한우컵',유소년꿈나무들열정속29일부터횡성...",
-    "[경기과기대]반도체'현장맞춤형전문기술교육'중점추진…5년간75...",
-    "SK실트론,노조에임직원처우안제시",
     "韓증시쇼크에…日,개별레버리지ETF선제차단",
     "호남반도체용수확보첫관문…동복댐증축주민보상협의",
     "美워시잭슨홀연설촉각속...일본증시'장중상승'",
@@ -3514,10 +3513,15 @@
     "신현송\"원화이제면역력갖춰…미국금리흐름기계적으로대응안한...",
     "신현송\"대미투자,환율에부담안돼…최근하락은ADR,수출기업덕\"",
     "통신품질미흡87곳재점검했더니…지하철8곳'미흡'지속",
-    "이정후,MLB애리조나와DH1차전멀티히트…2차전서는쐐기타(종합)"
+    "이정후,MLB애리조나와DH1차전멀티히트…2차전서는쐐기타(종합)",
+    "단일종목레버리지거래급감에도정부,'긴급조치권'확대속도",
+    "삼성·하이닉스상반기법인세11조...AI반도체호황에'역대급세수'",
+    "통신품질미흡지역91%개선…지하철8개구간은여전히'미흡'",
+    "'열흘만의멀티히트'이정후,샌프란시스코2차전승리이끈쐐기포",
+    "YMTCtoboostNANDoutputasKoreanrivalsholdback"
    ],
    "initialized": true,
-   "last_run": "2026-08-30T14:15:21.111166+09:00"
+   "last_run": "2026-08-30T14:20:21.225337+09:00"
   }
  },
  "press_names": {
