@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-30T11:30:28.142070+09:00",
-     "환율 내려간다 연중 달러 전문가들 기록한 최저치"
-    ],
-    [
-     "2026-08-30T11:35:16.114157+09:00",
-     "K콘텐츠 IPTV협회장 유용화 규제가 전근대적"
-    ],
-    [
      "2026-08-30T11:40:24.076062+09:00",
      "항소심 사노피 폐렴구균 승소 화이자 SK바이오사이언스 특허 백신"
     ],
@@ -485,8 +477,6 @@
     ]
    ],
    "seen_urls": [
-    "https://vn.asiatoday.co.kr/view.php?key=20260828000918213",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481570",
     "https://www.techm.kr/news/articleView.html?idxno=154729",
     "https://www.m-i.kr/news/articleView.html?idxno=1407332",
     "https://www.nocutnews.co.kr/news/6569830",
@@ -1984,11 +1974,11 @@
     "https://www.mk.co.kr/article/12139877",
     "https://www.mk.co.kr/article/12139867",
     "https://www.hankyung.com/article/2026083019191",
-    "https://www.hankyung.com/article/2026083018871"
+    "https://www.hankyung.com/article/2026083018871",
+    "https://news.tf.co.kr/read/economy/2359559.htm",
+    "https://www.fnnews.com/news/202608301108010371"
    ],
    "seen_titles": [
-    "하이닉스,노조인정했지만\"교섭권없다\"…노사갈등새변수",
-    "SK그룹,집중호우피해복구에성금20억원기부",
     "SK그룹,거제·통영등집중호우피해복구성금20억원지원",
     "SK그룹,집중호우피해복구위해성금20억원기탁",
     "\"누구나쓰는AI로\"...카카오·SKT·KT연내'국민AI비서'내놓는다",
@@ -3486,10 +3476,12 @@
     "AI반도체시대'새로운금맥'…美서삼성전기담은ETF출시",
     "앤트로픽상장기대감…SKT주가다시달리나",
     "스폰서이탈·대회축소…생사기로에선KPGA",
-    "지방전문대,대기업취업길넓어진다"
+    "지방전문대,대기업취업길넓어진다",
+    "최태원\"韓日경제공동체구축해청년노동시장개방하자\"제안",
+    "美금리인상우려에…코스피7000선안착'시험대'[주간증시전망]"
    ],
    "initialized": true,
-   "last_run": "2026-08-30T17:30:27.699369+09:00"
+   "last_run": "2026-08-30T17:35:18.950752+09:00"
   }
  },
  "press_names": {
