@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-31T02:15:22.664623+09:00",
-     "낸드 경고등 2위 한국 YMTC 내년 되겠다 1위 후발"
-    ],
-    [
      "2026-08-31T02:55:16.746621+09:00",
      "purpose Smart 150L Refrigerator DH Global Multi Unveils Refrigera Kimchi"
     ],
@@ -550,16 +546,21 @@
     [
      "2026-08-31T08:10:24.657401+09:00",
      "경계감 매파적 워시 발언에 연준의장 9월 FOMC"
+    ],
+    [
+     "2026-08-31T08:15:23.734558+09:00",
+     "혜택 주유소 SK에너지 확대 결제 포인트 네이버페이와"
+    ],
+    [
+     "2026-08-31T08:15:23.734558+09:00",
+     "SK하닉 시험대 하락 삼전 재돌파 코스피 프리마켓서"
+    ],
+    [
+     "2026-08-31T08:15:23.734558+09:00",
+     "9월 단단해지는 밴드 코스피 바닥"
     ]
    ],
    "seen_urls": [
-    "https://www.smarttoday.co.kr/ko-kr/articles/110925",
-    "https://www.newsway.co.kr/news/view?ud=2026082814544048470",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16176242",
-    "https://zdnet.co.kr/view/?no=20260828170203",
-    "https://www.kyosu.net/news/articleView.html?idxno=209495",
-    "https://www.youthdaily.co.kr/news/article.html?no=225979",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5056110",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=358081",
     "https://www.insight.co.kr/news/570776",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=52420",
@@ -2052,16 +2053,16 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=860666",
     "https://www.etoday.co.kr/news/view/2619756",
     "https://swtvnews.com/news/newsview.php?ncode=1065567622152595",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=272529"
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=272529",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=272810",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=443560",
+    "https://www.mt.co.kr/industry/2026/08/31/2026083108084595416",
+    "https://www.yna.co.kr/view/AKR20260831019100008?input=1195m",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481949",
+    "https://www.dt.co.kr/article/12081039",
+    "https://www.edaily.co.kr/News/Read?newsId=02099206645552896&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "[마켓펄스]'잭슨홀미팅'앞두고경계심리↑...코스피1.79%하락마감",
-    "SKT·KT·카카오가만들'모두의AI'어떻게다를까...점수비공개에논...",
-    "SK'가을교체설'솔솔,최창원수펙스의장거취주목",
-    "삼성·SK부터AI낸드까지…ETF4종,내달1일신규상장",
-    "SK그룹은다이어트나서는데...SKT,'AI별동대'띄운속내",
-    "[공매도브리핑]SK하이닉스2966억…한미반도체34.67%",
-    "[유미's픽]AX로돈버는법찾았나…대기업SI영업이익률'1위'누구",
     "숭실대,2026년반도체구조·JD해독클래스성료…SK하이닉스·삼성전...",
     "코스피,반도체투톱'삼전닉스'급락에1.79%↓…6,800선'턱걸이'",
     "SK그룹,집중호우피해복구성금20억기탁",
@@ -3554,10 +3555,17 @@
     "SK온,미국서9GWh대형배터리셀공급계약",
     "키움운용,삼성전자·SK하이닉스중심'삼성SK그룹TOP4+ETF'내달1일상...",
     "'女사브르간판'전하영,김창환배펜싱선수권개인전우승",
-    "[박정식의국내주식시황]워시연준의장매파적발언에9월FOMC경계감..."
+    "[박정식의국내주식시황]워시연준의장매파적발언에9월FOMC경계감...",
+    "SK증권\"SK,실적개선·주주환원재평가…자사주소각·특별배당기대...",
+    "SK온,美네오볼타파워에ESS배터리9GWh공급…북미공략속도",
+    "[속보]SK온,美네오볼타에5년간9GWhESS용배터리공급",
+    "\"HBM공급자경쟁구도정상화\"…LS증권,삼전목표가↑·닉스↓",
+    "SK에너지,네이버페이와주유소결제·포인트혜택확대",
+    "삼전·SK하닉,프리마켓서2%대하락…코스피7000재돌파시험대",
+    "\"단단해지는바닥\"…9월코스피밴드6600~8000"
    ],
    "initialized": true,
-   "last_run": "2026-08-31T08:10:24.657401+09:00"
+   "last_run": "2026-08-31T08:15:23.734558+09:00"
   }
  },
  "press_names": {
