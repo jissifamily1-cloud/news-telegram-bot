@@ -406,14 +406,13 @@
     [
      "2026-08-30T09:20:20.969467+09:00",
      "11조원 잭팟 반도체 호황에 SK하이닉스 세수도 삼성 법인세"
+    ],
+    [
+     "2026-08-30T09:25:17.182763+09:00",
+     "호남반도체 이재용 있었나요 최태원씨 국힘 압력 청문회"
     ]
    ],
    "seen_urls": [
-    "https://www.koreatimes.co.kr/path/A2026082810530003163",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000060362",
-    "https://www.hidomin.com/news/articleView.html?idxno=718958",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=663347",
-    "https://www.dailian.co.kr/news/view/1683640/?sc=Naver",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578610273199",
     "https://www.ekn.kr/web/view.php?key=20260828023027644",
     "https://biz.chosun.com/it-science/ict/2026/08/28/NKNL2I252ZFQ5AL3WSJ3D7L2NE/",
@@ -1908,14 +1907,14 @@
     "http://www.newsian.co.kr/news/articleView.html?idxno=94455",
     "http://www.joseilbo.com/news/news_read.php?uid=574716&class=17",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5056162",
-    "https://www.youthdaily.co.kr/news/article.html?no=226000"
+    "https://www.youthdaily.co.kr/news/article.html?no=226000",
+    "https://biz.heraldcorp.com/article/10856283",
+    "https://economist.co.kr/article/view/ecn202608300001",
+    "https://www.dt.co.kr/article/12080862",
+    "https://www.newsis.com/view/NISX20260830_0003768131",
+    "https://www.mk.co.kr/article/12139633"
    ],
    "seen_titles": [
-    "“군민무시한폭거”청양군수,지천댐일방추진에강력반발",
-    "\"46조원더산다\"…삼전·닉스,6일간자사주8조5000억매입",
-    "SK하이닉스,미국첫생산기지착공…미국산HBM만든다",
-    "SKT,AIDC사업총괄...318MW호라이즌·15GW하이퍼로분업",
-    "‘모두의AI’사업자에SKT·카카오·KT선정...연내서비스개시",
     "카카오-LGU+,카톡·전화기반'모두의AI'만든다",
     "[오늘증시]코스피,엔비디아훈풍에도6800선후퇴…7000재도전은'다...",
     "전국민무료AI만든다…SKT·카카오·KT'모두의AI'사업자선정",
@@ -3410,10 +3409,15 @@
     "9월코스피향방은…이익늘지만고금리에'느린반등'",
     "연1.5%·최대5억에사내FAQ‘폭발’…삼성전자주택대출기준살펴보...",
     "[궁금해집]걸어서의왕역10분·초등학교5분…'의왕역한신더휴'",
-    "반도체호황에세수도‘잭팟’...삼성·SK하이닉스법인세11조원"
+    "반도체호황에세수도‘잭팟’...삼성·SK하이닉스법인세11조원",
+    "신현송“美금리맞춰우리도따라가는것아냐”",
+    "[속보]삼성·SK반기법인세역대2위기록…SK하이닉스는반기기준...",
+    "국장흔들리자미장탈출…서학개미,하반기두달간美주식10조순매...",
+    "이정후,애리조나와DH1차전서2안타1볼넷…열흘만에멀티히트",
+    "“이재용·최태원씨,호남반도체압력있었나요?”…국힘청문회추진"
    ],
    "initialized": true,
-   "last_run": "2026-08-30T09:20:20.969467+09:00"
+   "last_run": "2026-08-30T09:25:17.182763+09:00"
   }
  },
  "press_names": {
