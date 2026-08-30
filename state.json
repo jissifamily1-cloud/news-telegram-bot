@@ -406,11 +406,13 @@
     [
      "2026-08-30T20:10:23.665679+09:00",
      "중국 D램 경고 던진 요구 한국에 애플의"
+    ],
+    [
+     "2026-08-30T20:15:20.218474+09:00",
+     "동시 최태원 선택은 러브콜 받은 정부서 이재용"
     ]
    ],
    "seen_urls": [
-    "https://www.polinews.co.kr/news/articleView.html?idxno=741559",
-    "http://www.iminju.net/news/articleView.html?idxno=168738",
     "https://www.mt.co.kr/stock/2026/08/28/2026082815394652011",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2281851",
     "https://www.yna.co.kr/view/AKR20260828038851008?input=1195m",
@@ -1908,11 +1910,11 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16177523",
     "https://www.g-enews.com/view.php?ud=202608301953151989daecd3dad5_1",
     "https://www.besteleven.com/news/articleView.html?idxno=311661",
-    "https://www.khan.co.kr/article/202608302002005"
+    "https://www.khan.co.kr/article/202608302002005",
+    "https://www.kyeongin.com/article/1769909",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=94471"
    ],
    "seen_titles": [
-    "SK그룹,남부집중호우피해복구에20억원기탁...자원봉사키트도전...",
-    "'독파모평가1위'이어'모두의AI'까지…SKT,정부AI사업서'존재감...",
     "하이퍼에이어호라이즌…SKT가DC사업쪼개는이유",
     "[이슈]정부,메가프로젝트지원위해지천댐·아미천댐등신규댐5개...",
     "코스피,1.79%내린6788.88마감…원·달러환율8.4원하락",
@@ -3410,10 +3412,12 @@
     "삼성전자·SK하이닉스레버리지규제한달…개미1.8조이탈",
     "이상희,일본투어생애첫우승...JGTO산산KBC오거스타",
     "[오피셜]7년밀라노생활청산하고튀르키예행!하파엘레앙,갈라타사...",
-    "[아침을열며]애플의‘중국D램’요구,한국에던진경고"
+    "[아침을열며]애플의‘중국D램’요구,한국에던진경고",
+    "규정피해외부보관‘수원중고차’2만8천대달한다",
+    "[기자수첩]韓·美정부서동시'러브콜'받은이재용·최태원선택은?"
    ],
    "initialized": true,
-   "last_run": "2026-08-30T20:10:23.665679+09:00"
+   "last_run": "2026-08-30T20:15:20.218474+09:00"
   }
  },
  "press_names": {
