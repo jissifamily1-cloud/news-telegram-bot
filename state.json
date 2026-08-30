@@ -537,7 +537,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1683627/?sc=Naver",
     "https://www.edaily.co.kr/News/Read?newsId=03335766645551912&mediaCodeNo=257",
     "https://www.donga.com/news/Economy/article/all/20260828/134562411/1",
     "https://it.chosun.com/news/articleView.html?idxno=2023092169017",
@@ -2036,10 +2035,10 @@
     "https://www.chosun.com/economy/money/2026/08/30/C4LDMGV2RFHS3PRFA75SGJ4NWI/",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481799",
     "https://www.segye.com/newsView/20260830503979?OutUrl=naver",
-    "https://www.khan.co.kr/article/202608301043001"
+    "https://www.khan.co.kr/article/202608301043001",
+    "https://www.ekn.kr/web/view.php?key=20260830024468201"
    ],
    "seen_titles": [
-    "SK플라즈마'레볼팍',차별화전략본격가동…고용량제형으로승부수",
     "‘토종AI비서’국민속으로…글로벌빅테크에‘도전장’",
     "SK하이닉스,美인디애나에첫HBM생산거점구축...'MadeinUSA'공급본...",
     "SKT·카카오·KT,정부'모두의AI'프로젝트사업자선정",
@@ -3538,10 +3537,11 @@
     "中CXMT‘깜짝실적’…삼전·하닉엔호재일까악재일까",
     "원자재가격안정화호재…화학업종전반매수온기확산",
     "‘국장’부진했던두달,서학개미10조원대이동…매수1위는‘속슬’",
-    "‘오디세이’열풍에20년전‘트로이’4000%폭등···안방도‘고대..."
+    "‘오디세이’열풍에20년전‘트로이’4000%폭등···안방도‘고대...",
+    "삼성전자,다음달임직원주택자금대출접수…‘무주택’요건명시"
    ],
    "initialized": true,
-   "last_run": "2026-08-30T10:50:22.516706+09:00"
+   "last_run": "2026-08-30T10:55:20.836686+09:00"
   }
  },
  "press_names": {
