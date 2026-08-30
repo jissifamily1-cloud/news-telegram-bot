@@ -182,11 +182,17 @@
     [
      "2026-08-31T05:10:23.042757+09:00",
      "물가 다시 폭염에 내려갈 9월부터"
+    ],
+    [
+     "2026-08-31T05:25:16.921270+09:00",
+     "중복 집결 뭉치고 리밸런싱 쪼개고 핵심은"
+    ],
+    [
+     "2026-08-31T05:25:16.921270+09:00",
+     "재건축 수주전 하안주공 13조 조용한"
     ]
    ],
    "seen_urls": [
-    "https://www.redian.org/news/articleView.html?idxno=257216",
-    "https://www.ziksir.com/news/articleView.html?idxno=144678",
     "https://www.ajunews.com/view/20260828161203232",
     "http://www.dailypop.kr/news/articleView.html?idxno=102026",
     "https://www.sedaily.com/article/20084531",
@@ -1684,11 +1690,11 @@
     "https://www.joongang.co.kr/article/25457520",
     "https://www.seoul.co.kr/news/economy/industry/2026/08/31/20260831032003?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/economy/industry/2026/08/31/20260831030002?wlog_tag3=naver",
-    "https://www.edaily.co.kr/News/Read?newsId=01413686645552896&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01413686645552896&mediaCodeNo=257",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608291629013410799",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608301345513650848"
    ],
    "seen_titles": [
-    "재계,수해복구지원잇따라…삼성30억·SK20억·LG10억(종합)",
-    "美관세공포에삼전·닉스'털썩'…코스피6800선하회",
     "[마감시황]'삼전닉스'내리자코스피1.79%하락마감…코스닥은강보합",
     "SK그룹,집중호우피해복구에20억원기탁...계열사현장구호활동전개",
     "코스피,삼전닉스급락에2%가까이하락…6780선마감",
@@ -3186,10 +3192,12 @@
     "“코스피,최악은지났는데…”8820조굴리는美금융사의조언",
     "모두의AI3색전략",
     "‘삼전닉스’법인세11조원…호황뒤엔美·中이중압박",
-    "\"폭염에물가다시3%대...9월부터내려갈듯\"[물가폴]"
+    "\"폭염에물가다시3%대...9월부터내려갈듯\"[물가폴]",
+    "[재계는지금]쪼개고뭉치고…SK‘리밸런싱’핵심은‘AI집결·중복...",
+    "13조하안주공재건축‘조용한수주전’"
    ],
    "initialized": true,
-   "last_run": "2026-08-31T05:20:22.421252+09:00"
+   "last_run": "2026-08-31T05:25:16.921270+09:00"
   }
  },
  "press_names": {
