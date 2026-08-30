@@ -390,10 +390,13 @@
     [
      "2026-08-31T07:07:31.420079+09:00",
      "효과로 찬바람 수송용은 1톤 LPG수요 온기 트럭"
+    ],
+    [
+     "2026-08-31T07:10:23.861291+09:00",
+     "놓지 않나 김용범을 이재명은"
     ]
    ],
    "seen_urls": [
-    "http://www.lawleader.co.kr/news/articleView.html?idxno=19822",
     "https://www.yna.co.kr/view/AKR20260828067251008?input=1195m",
     "https://biz.sbs.co.kr/article_hub/20000331443?division=NAVER",
     "http://www.kdfnews.com/news/articleView.html?idxno=187232",
@@ -1892,10 +1895,10 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481902",
     "https://www.etoday.co.kr/news/view/2619728",
     "https://biz.sbs.co.kr/article_hub/20000331622?division=NAVER",
-    "http://www.e2news.com/news/articleView.html?idxno=333721"
+    "http://www.e2news.com/news/articleView.html?idxno=333721",
+    "https://economist.co.kr/article/view/ecn202608310001"
    ],
    "seen_titles": [
-    "코스피,반도체투톱급락에1.79%하락",
     "SK하이닉스,미국에첫HBM생산거점구축",
     "SKT,AI인프라판키운다…'호라이즌·하이퍼'로DC체제완성",
     "SK그룹사회적책임,집중호우피해복구성금20억지원",
@@ -3394,10 +3397,11 @@
     "코웨이정수기,LG전자·브리타제쳤다…8월브랜드평판1위",
     "주식'10억클럽'임원명단열어보니…삼전·SK하닉소속이'91%'",
     "4대그룹주식10억클럽임원91%가'삼전닉스'",
-    "LPG수요찬바람…1톤트럭효과로수송용은온기"
+    "LPG수요찬바람…1톤트럭효과로수송용은온기",
+    "왜이재명은김용범을놓지않나"
    ],
    "initialized": true,
-   "last_run": "2026-08-31T07:07:31.420079+09:00"
+   "last_run": "2026-08-31T07:10:23.861291+09:00"
   }
  },
  "press_names": {
