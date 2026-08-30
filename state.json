@@ -570,13 +570,13 @@
     [
      "2026-08-30T11:20:21.749798+09:00",
      "따뜻한 SK오션플랜트 실천 띠앗 나눔 봉사단"
+    ],
+    [
+     "2026-08-30T11:25:19.804129+09:00",
+     "사회공헌활동 동해면 SK오션플랜트 고성군"
     ]
    ],
    "seen_urls": [
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=610059",
-    "https://thetracker.co.kr/View.aspx?No=4202960",
-    "https://www.edaily.co.kr/News/Read?newsId=03388246645551912&mediaCodeNo=257",
-    "http://www.inews24.com/view/1999407",
     "https://www.chiefexe.com/news/ArticleView.asp?listId=NDk2OHx8bGltaXRfZmFsc2Ug",
     "https://www.chiefexe.com/news/ArticleView.asp?listId=NTAwNnx8bGltaXRfZmFsc2Ug",
     "https://www.hankyung.com/article/202608289255i",
@@ -2072,13 +2072,13 @@
     "http://www.metroseoul.co.kr/article/20260830500067",
     "https://www.dailysecu.com/news/articleView.html?idxno=208256",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=88376",
-    "https://www.newsgn.com/news/articleView.html?idxno=570357"
+    "https://www.newsgn.com/news/articleView.html?idxno=570357",
+    "https://www.ekn.kr/web/view.php?key=20260830026208207",
+    "https://www.mediapen.com/news/view/1119817",
+    "https://www.etoday.co.kr/news/view/2619640",
+    "https://www.idomin.com/news/articleView.html?idxno=2013473"
    ],
    "seen_titles": [
-    "SK하이닉스,인디애나팹착공…최초의‘메이드인USA’HBM만든다",
-    "엔비디아가쏜AI희망에고율관세매긴다면[트럼프스톡커]",
-    "연내모두의AI출격…SKT'행동형'·KT'생활밀착'·카카오'카톡완결'",
-    "삼전·닉스55조자사주매입에도…코스피7,000선벽에갇힌이유",
     "'모두의AI'SKT,'A.XK2'중심전국민AI비서만든다",
     "TrumpWeighsSteepTariffsonSemiconductors",
     "\"전국민잡아라\"SKT·KT·카카오'모두의AI'밑그림살펴보니…",
@@ -3574,10 +3574,14 @@
     "[오늘AI]5000만카톡이'AI비서'로…카카오,국민일상선점나선다",
     "과기정통부,'독자AI파운데이션모델'학습데이터29종개방…약1.56조...",
     "삼성전자,무주택임직원에최대5억원주택대출…연1.5%지원",
-    "SK오션플랜트띠앗봉사단,따뜻한나눔실천"
+    "SK오션플랜트띠앗봉사단,따뜻한나눔실천",
+    "삼전닉스,올상반기법인세11조원…‘실적호황’에세수확대",
+    "삼성전자,내달임직원주택대출최대5억지원…사내부부1건제한",
+    "중국메모리굴기가속…CXMT,샤오미폴더플폰에LPDDR6공급",
+    "SK오션플랜트,고성군동해면사회공헌활동"
    ],
    "initialized": true,
-   "last_run": "2026-08-30T11:20:21.749798+09:00"
+   "last_run": "2026-08-30T11:25:19.804129+09:00"
   }
  },
  "press_names": {
