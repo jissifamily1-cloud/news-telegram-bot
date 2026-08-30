@@ -453,10 +453,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.fnnews.com/news/202608281118212711",
-    "http://www.dailypop.kr/news/articleView.html?idxno=102015",
-    "https://www.mt.co.kr/stock/2026/08/28/2026082811071230848",
-    "https://www.dailian.co.kr/news/view/1683524/?sc=Naver",
     "http://www.4th.kr/news/articleView.html?idxno=2117038",
     "https://www.donga.com/news/It/article/all/20260828/134562184/2",
     "https://www.businesspost.co.kr/BP?command=article_view&num=445843",
@@ -1952,13 +1948,13 @@
     "https://www.thepublic.kr/news/articleView.html?idxno=316735",
     "https://www.segye.com/newsView/20260828511254?OutUrl=naver",
     "https://www.thepublic.kr/news/articleView.html?idxno=316774",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000060659"
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000060659",
+    "https://biz.sbs.co.kr/article_hub/20000331545?division=NAVER",
+    "https://news.mtn.co.kr/news-detail/2026083009392756143",
+    "https://www.nocutnews.co.kr/news/6570128",
+    "https://biz.chosun.com/it-science/ict/2026/08/30/ASFA2PTFSZACJGJXXM7IJIX5FM/"
    ],
    "seen_titles": [
-    "[오늘의삼전닉스]'2차반도체관세'검토에화들짝,트럼프를어찌할...",
-    "이화여대,中베이징대와AI·교육분야협력확대논의",
-    "[더벨][i-point]SG,SK하이닉스용인클러스터에에코스틸아스콘모크업...",
-    "3500명가입SK하이닉스통합노조'적법노조'지위확인",
     "모두의AI사업자3곳확정…SKT·카카오·KT",
     "외국인5.9조팔았는데도버틴코스피…삼전·SK하닉자사주효과",
     "SKT·카카오·KT'모두의AI'사업자선정…연내전국민무료AI챗봇서...",
@@ -3454,10 +3450,14 @@
     "SK하이닉스,美인디애나에HBM공장착공…2029년하반기양산",
     "코스피변동성잡혔다...다만증시체력추가회복은필수",
     "삼성전자,110조풀었는데25만원…돈풀었는데주가는빠졌다?",
-    "\"AI잘써야살아남는다\"…수학·영어만큼필수교육된"
+    "\"AI잘써야살아남는다\"…수학·영어만큼필수교육된",
+    "美주식10조쓸어담은서학개미…엔비디아팔고‘이종목’샀다",
+    "삼전닉스,상반기법인세11조…역대두번째규모",
+    "삼전닉스올해상반기법인세만11조넘어…역대2위기록",
+    "‘D램집중’삼전·하이닉스빈틈파고드는中YMTC…낸드1위노린다"
    ],
    "initialized": true,
-   "last_run": "2026-08-30T09:45:21.992725+09:00"
+   "last_run": "2026-08-30T09:50:22.197326+09:00"
   }
  },
  "press_names": {
