@@ -558,16 +558,13 @@
     [
      "2026-08-31T08:15:23.734558+09:00",
      "9월 단단해지는 밴드 코스피 바닥"
+    ],
+    [
+     "2026-08-31T08:20:22.646731+09:00",
+     "개미 이탈 대거 투자자들 레버리지 삼전닉스 ETF에서"
     ]
    ],
    "seen_urls": [
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=358081",
-    "https://www.insight.co.kr/news/570776",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=52420",
-    "https://www.mk.co.kr/article/12138990",
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=762646",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5056124",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=792115",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608281658337440101280",
     "https://magazine.hankyung.com/business/article/202608289994b",
     "https://www.newsway.co.kr/news/view?ud=2026082815514288585",
@@ -2060,16 +2057,16 @@
     "https://www.yna.co.kr/view/AKR20260831019100008?input=1195m",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481949",
     "https://www.dt.co.kr/article/12081039",
-    "https://www.edaily.co.kr/News/Read?newsId=02099206645552896&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=02099206645552896&mediaCodeNo=257",
+    "https://news.dealsitetv.com/articles/175380",
+    "https://www.newspim.com/news/view/20260831000051",
+    "https://www.ajunews.com/view/20260831081138573",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=727049",
+    "https://www.yna.co.kr/view/AKR20260830058700003?input=1195m",
+    "https://www.newsis.com/view/NISX20260831_0003768739",
+    "https://www.theguru.co.kr/news/article.html?no=106445"
    ],
    "seen_titles": [
-    "숭실대,2026년반도체구조·JD해독클래스성료…SK하이닉스·삼성전...",
-    "코스피,반도체투톱'삼전닉스'급락에1.79%↓…6,800선'턱걸이'",
-    "SK그룹,집중호우피해복구성금20억기탁",
-    "SKT,'모두의AI'로AI대중화…전화·문자로문턱낮춘다",
-    "폴리뉴스창간26주년...여야·재계총출동,강원택교수특강으로정치...",
-    "삼성전자·SK하이닉스급락…코스피1.8%내려6789",
-    "“강남아파트안부러워요”...중랑·성북아파트값‘들썩’",
     "5대그룹,경북·경남수해복구에100억기부...식품·유통업계서도구...",
     "SKT,SK브로드밴드인적분할…AIDC인프라기업'SK호라이즌'출범",
     "[위클리오늘]온라인게임_컴투스,스마일게이트(8.28)",
@@ -3562,10 +3559,17 @@
     "\"HBM공급자경쟁구도정상화\"…LS증권,삼전목표가↑·닉스↓",
     "SK에너지,네이버페이와주유소결제·포인트혜택확대",
     "삼전·SK하닉,프리마켓서2%대하락…코스피7000재돌파시험대",
-    "\"단단해지는바닥\"…9월코스피밴드6600~8000"
+    "\"단단해지는바닥\"…9월코스피밴드6600~8000",
+    "SK온,美9GWh배터리공급…ESS공략",
+    "[AIMY증시전망]코스피,美잭슨홀부담속변동성전망…반도체수급...",
+    "[마켓프리뷰]美금리인상우려에반도체'먹구름'…코스피변동성확...",
+    "[프리마켓포커스]美반도체한파에투심'꽁꽁'…삼전·SK하닉2%안팎...",
+    "SK온,미국서9GWhLFP배터리셀공급계약…1.5조규모",
+    "美반도체급락에…삼전·닉스,프리마켓서2%하락",
+    "개미투자자들,삼전닉스레버리지ETF에서대거이탈"
    ],
    "initialized": true,
-   "last_run": "2026-08-31T08:15:23.734558+09:00"
+   "last_run": "2026-08-31T08:20:22.646731+09:00"
   }
  },
  "press_names": {
