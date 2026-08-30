@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-30T12:05:21.321019+09:00",
-     "연말 품질 고속철 통신 재점검 미흡지역 5G는 개선"
-    ],
-    [
-     "2026-08-30T12:05:21.321019+09:00",
-     "87곳 통신품질 79곳 지하철 미흡 8곳은 여전히 개선"
-    ],
-    [
-     "2026-08-30T12:05:21.321019+09:00",
-     "레버리지 사태 삼전닉스 긴급조치권 확대 막는다"
-    ],
-    [
-     "2026-08-30T12:05:21.321019+09:00",
-     "반도체와 도시가 쉬어야 사람이 함께 산다"
-    ],
-    [
      "2026-08-30T12:15:21.244764+09:00",
      "기후부 청와대 신설 실장 이원주 보좌관에 메가프로젝트"
     ],
@@ -494,13 +478,13 @@
     [
      "2026-08-30T18:05:17.288633+09:00",
      "삼전뱅크 쏘아올린"
+    ],
+    [
+     "2026-08-30T18:10:22.712585+09:00",
+     "대전전 제주 발표 제주SK 라인업 이적 선발 박수빈"
     ]
    ],
    "seen_urls": [
-    "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521812",
-    "https://www.chosun.com/economy/industry-company/2026/08/28/MTDKKC6ZA5EJ7EE2RPJDRZTJFY/",
-    "https://www.news1.kr/bio/general/6272835",
-    "https://en.yna.co.kr/view/AEN20260828007400320?input=2106m",
     "https://www.slist.kr/news/articleView.html?idxno=762095",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1722143",
     "http://www.sisacast.kr/news/articleView.html?idxno=99325",
@@ -1996,13 +1980,13 @@
     "https://www.newsworks.co.kr/news/articleView.html?idxno=851924",
     "https://www.seoulfn.com/news/articleView.html?idxno=636771",
     "https://www.fnnews.com/news/202608301758514526",
-    "https://www.sedaily.com/article/20084970"
+    "https://www.sedaily.com/article/20084970",
+    "https://www.livebiz.today/news/articleView.html?idxno=204504",
+    "https://www.fnnews.com/news/202608301803388983",
+    "https://www.fnnews.com/news/202608301803405509",
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=598202"
    ],
    "seen_titles": [
-    "거액성금에구호물품까지...재계,수해복구'온정듬뿍'",
-    "용인시,기후부에용수공급량확대·평창배수지증설승인요청",
-    "SK그룹,남부지역집중호우피해복구에성금20억원쾌척",
-    "SK그룹,거제·통영수해복구에성금20억원지원",
     "美엔비디아훈풍에도삼전·닉스동반3%↓[핫스탁](종합)",
     "삼전닉스약세…코스피나흘만에하락",
     "[기획]SK에코플랜트,엔지니어링품고반도체·AI정조준",
@@ -3498,10 +3482,14 @@
     "[주간증시전망]금리불확실성에코스피'숨고르기'…7000선안착시험...",
     "[주간증시전망]'반도체관세(?)'로끝내'잭슨홀'로출발···브로드컴...",
     "증시대기자금빠지는데빚투는늘어…삼전닉스로몰렸다",
-    "[여명]‘삼전뱅크’가쏘아올린공"
+    "[여명]‘삼전뱅크’가쏘아올린공",
+    "中CXMT\"'차세대모바일D램'LPDDR6양산...\"삼전닉스에앞서\"",
+    "삼전닉스,상반기에만법인세11조냈다",
+    "최태원\"韓·日청년노동시장연결,저출산해법될수있어\"",
+    "'박수빈제주이적후첫선발'제주SK,대전전선발라인업발표"
    ],
    "initialized": true,
-   "last_run": "2026-08-30T18:05:17.288633+09:00"
+   "last_run": "2026-08-30T18:10:22.712585+09:00"
   }
  },
  "press_names": {
