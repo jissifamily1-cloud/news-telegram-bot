@@ -525,8 +525,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.lkp.news/news/articleView.html?idxno=83450",
-    "http://www.wikileaks-kr.org/news/articleView.html?idxno=191404",
     "https://www.businesspost.co.kr/BP?command=article_view&num=445851",
     "https://www.fnnews.com/news/202608281328398422",
     "https://www.jbnews.com/news/articleView.html?idxno=1510313",
@@ -2024,11 +2022,11 @@
     "https://www.edaily.co.kr/News/Read?newsId=01712166645552568&mediaCodeNo=257",
     "https://www.busan.com/view/busan/view.php?code=2026083013342047918",
     "https://www.koreaherald.com/article/10856430",
-    "http://www.samdailbo.com/news/articleView.html?idxno=269600"
+    "http://www.samdailbo.com/news/articleView.html?idxno=269600",
+    "https://www.insight.co.kr/news/570907",
+    "https://www.chosun.com/economy/tech_it/2026/08/30/T6GTGIQTGREUPMOEI3JRMDRPGI/"
    ],
    "seen_titles": [
-    "[정비사업디코드]광명하안주공재건축,공공임대반영요구에건설사...",
-    "정부'모두의AI'에SKT·카카오·KT선정···\"연내정식출시할것\"",
     "'모두의AI'주인공은SKT·카카오·KT…연내서비스출격",
     "미국첫HBM공장,SK하이닉스가짓는다…'미국산'으로엔비디아정조준",
     "“왜전라도에반도체?”…국힘,이재용·최태원불러청문회개최추진",
@@ -3526,10 +3524,12 @@
     "반도체ETF잘나가자더깊게판다…CPU·낸드‘핀셋투자’",
     "신현송“원화면역력생겨…200억달러대미투자부담안돼”",
     "SKChemicalseyesEuropeancan-coatingmarket",
-    "제주SKFC,서드유니폼'섬사람(ISLANDER)'공개"
+    "제주SKFC,서드유니폼'섬사람(ISLANDER)'공개",
+    "이정후열흘만에멀티히트맹타...타율0.291복귀에도팀완패에빛바...",
+    "‘모두의AI’사업자선정...제2의‘공공배달앱’될까우려도"
    ],
    "initialized": true,
-   "last_run": "2026-08-30T13:45:22.799699+09:00"
+   "last_run": "2026-08-30T13:50:22.278846+09:00"
   }
  },
  "press_names": {
