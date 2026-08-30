@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-30T11:20:21.749798+09:00",
-     "따뜻한 SK오션플랜트 실천 띠앗 나눔 봉사단"
-    ],
-    [
      "2026-08-30T11:25:19.804129+09:00",
      "사회공헌활동 동해면 SK오션플랜트 고성군"
     ],
@@ -474,13 +470,17 @@
     [
      "2026-08-30T17:20:20.779506+09:00",
      "고향 아내의 호날두 연봉 향했다 포기하고 남편의 도전은"
+    ],
+    [
+     "2026-08-30T17:25:18.158183+09:00",
+     "LTE 일부 여전히 문제 구간 품질 부산도시철도"
+    ],
+    [
+     "2026-08-30T17:25:18.158183+09:00",
+     "대통령 주문도 노동계 눈치보기에 주장 국힘의"
     ]
    ],
    "seen_urls": [
-    "https://www.techm.kr/news/articleView.html?idxno=154718",
-    "http://www.newsprime.co.kr/news/article.html?no=745614",
-    "https://www.cnbnews.com/news/articleView.html?idxno=1013329",
-    "https://www.news1.kr/industry/general-industry/6272792",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=727000",
     "https://www.wikitree.co.kr/articles/1155623",
     "https://www.ppss.kr/news/articleView.html?idxno=307764",
@@ -1976,13 +1976,13 @@
     "https://www.asiatoday.co.kr/kn/view.php?key=20260830010010196",
     "https://view.asiae.co.kr/article/2026083017160004069",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=860347",
-    "https://www.joongang.co.kr/article/25457404"
+    "https://www.joongang.co.kr/article/25457404",
+    "https://www.seoul.co.kr/news/economy/2026/08/30/20260830500086?wlog_tag3=naver",
+    "https://www.news1.kr/world/international-economy/6273971",
+    "https://www.busan.com/view/busan/view.php?code=2026083017210327973",
+    "https://www.munhwa.com/article/11613090"
    ],
    "seen_titles": [
-    "SK텔레콤,AIDC인프라컴퍼니‘SK호라이즌’출범",
-    "SK하이닉스,2029년미국서HBM생산…기술·인재·공급망잡는다",
-    "\"이재용·최태원부르자\"국힘청문회카드…국감증인신청도검토",
-    "컴투스제우스,통신3사청구할인프로모션…출시흥행세굳힌다",
     "SK,남부지역수해복구에20억원기부",
     "컴투스-통신3사'제우스:오만의신'결제할인프로모션",
     "장애와비장애의경계를허물다,'SK텔레콤어댑티브오픈2026'성황리...",
@@ -3478,10 +3478,14 @@
     "美,베네수엘라원유650억배럴확보추진…정유4사대체수급선주목",
     "中CXMT,차세대모바일D램LPDDR6양산…샤오미폰에첫탑재",
     "한은,2연속금리인상...취약차주금융부담과제",
-    "연봉85%포기하고‘호날두고향’향했다...남편의도전은아내의결..."
+    "연봉85%포기하고‘호날두고향’향했다...남편의도전은아내의결...",
+    "[속보]최태원“한일경제공동체만들어야…저출산문제풀어갈해법”",
+    "中CXMT,최신모바일D램LPDDR6양산…샤오미신형폴더블폰에공급",
+    "부산도시철도일부구간LTE품질,여전히문제",
+    "“노동계눈치보기에대통령주문도안통해”…국힘의주장"
    ],
    "initialized": true,
-   "last_run": "2026-08-30T17:20:20.779506+09:00"
+   "last_run": "2026-08-30T17:25:18.158183+09:00"
   }
  },
  "press_names": {
