@@ -422,17 +422,17 @@
     [
      "2026-08-30T09:35:18.210657+09:00",
      "수학만큼 이제 AI는 중요해졌다 역량 필수 영어"
+    ],
+    [
+     "2026-08-30T09:40:25.689037+09:00",
+     "안전까지 AI로 집만 챙긴다 ADT캡스 지키지 않는다 가족"
+    ],
+    [
+     "2026-08-30T09:40:25.689037+09:00",
+     "합치고 돌려쓰고 증설 배터리 시간 위클리배터리 재편의 멈추고"
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20260828504563?OutUrl=naver",
-    "https://gg.newdaily.co.kr/site/data/html/2026/08/28/2026082800093.html",
-    "https://www.sidae.com/article/2026082810034632827",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1400304",
-    "https://www.spotvnews.co.kr/news/articleView.html?idxno=1004460",
-    "https://www.ikbc.co.kr/article/view/kbc202608280022",
-    "https://www.cnbizm.com/news/articleView.html?idxno=313045",
-    "https://economist.co.kr/article/view/ecn202608280018",
     "https://news.unn.net/news/articleView.html?idxno=596574",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608281049345880103873",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=851871",
@@ -1924,17 +1924,17 @@
     "http://www.ftoday.co.kr/news/articleView.html?idxno=364425",
     "https://www.yna.co.kr/view/AKR20260829047700017?input=1195m",
     "https://www.viva100.com/article/20260830500068",
-    "https://www.yna.co.kr/view/AKR20260829029400017?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260829029400017?input=1195m",
+    "https://www.maniareport.com/view.php?ud=2026083009243792046cf2d78c68_19",
+    "https://www.kyeonggi.com/article/20260830580038",
+    "https://www.thepublic.kr/news/articleView.html?idxno=316748",
+    "https://www.thepublic.kr/news/articleView.html?idxno=316740",
+    "https://www.munhwa.com/article/11613026",
+    "https://www.etoday.co.kr/news/view/2619621",
+    "https://www.thepublic.kr/news/articleView.html?idxno=316744",
+    "https://www.ddaily.co.kr/page/view/2026083001404817293"
    ],
    "seen_titles": [
-    "ADT캡스,AI로홈보안강화…“위험감지부터출동까지”",
-    "SK하이닉스,미국산HBM만든다…인디애나팹착공",
-    "코스피,외국인매도에1%하락…반도체·바이오대형주약세",
-    "SK하이닉스솔리다임,中맞춤형협업으로'AI스토리지'영토확장",
-    "SK하이닉스,\"미국선5.4조원팹착공,안방선성과급내홍\"",
-    "SK텔레콤,AI데이터센터분사로3조실탄…\"정제마진초호황\"S-Oil,목표...",
-    "노란봉투법'쟁의기준'시행령대신지침…정부속도전,법적분쟁불씨...",
-    "\"전국민무료\"…'모두의AI'사업자에SKT·카카오·KT",
     "“AI비서를전화·문자로”…SKT,‘모두의AI’10월베타공개",
     "SK이노베이션합병부담에도현금흐름개선정제마진강세가변수",
     "과기정통부,‘모두의AI’수행기관에SKT·카카오·KT선정",
@@ -3426,10 +3426,18 @@
     "삼성전자,임직원주택자금최대5억원지원…금리연1.5%",
     "우본노조위원장조합비주식투자…노조내부징계절차",
     "中YMTC낸드증설공세⋯글로벌순위권노린다",
-    "[AI위클리]AI는이제필수역량…영어·수학만큼중요해졌다"
+    "[AI위클리]AI는이제필수역량…영어·수학만큼중요해졌다",
+    "'열흘만에멀티히트'이정후2안타2타점반등...팀은만루포에1-7완...",
+    "[속보]삼전닉스상반기법인세11조넘었다…연간100조넘길수도",
+    "SKT컨소시엄,'모두의AI'사업자선정…10월베타출시목표",
+    "\"엔비디아가이정도인데\"…삼성전자·SK하이닉스실적전망도상향",
+    "이정후,10일만에멀티히트·3출루…‘KBO출신’켈리맞대결도판정승",
+    "삼전ㆍ하이닉스,상반기법인세11.2조…역대최대납부예고",
+    "\"집만지키지않는다\"…ADT캡스,AI로가족안전까지챙긴다",
+    "증설멈추고합치고돌려쓰고…K-배터리,'재편의시간'[위클리배터리..."
    ],
    "initialized": true,
-   "last_run": "2026-08-30T09:35:18.210657+09:00"
+   "last_run": "2026-08-30T09:40:25.689037+09:00"
   }
  },
  "press_names": {
