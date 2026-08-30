@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-30T08:30:29.298229+09:00",
-     "개미들 불안하네 외면하는 코스피"
-    ],
-    [
-     "2026-08-30T08:35:17.383055+09:00",
-     "2조 승부수 잭팟 SK바이오팜 릴레이 1조 한미 신약 빅딜"
-    ],
-    [
-     "2026-08-30T08:35:17.383055+09:00",
-     "SK하이닉스 생산기지 한은 인상 HBM 기준금리"
-    ],
-    [
      "2026-08-30T08:39:27.094842+09:00",
      "3출루 만에 멀티히트 애리조나와 열흘 1차전 이정후 DH 2안타"
     ],
@@ -521,10 +509,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481514",
-    "https://www.donga.com/news/Inter/article/all/20260828/134562480/1",
-    "https://www.e-science.co.kr/news/articleView.html?idxno=134316",
-    "https://www.asiatime.co.kr/article/20260828500254",
     "https://www.ajunews.com/view/20260828141757960",
     "https://www.kyosu.net/news/articleView.html?idxno=209474",
     "https://www.dizzotv.com/site/data/html_dir/2026/08/28/2026082880099.html",
@@ -2020,13 +2004,13 @@
     "http://www.osen.co.kr/article/G1112866328",
     "https://www.busan.com/view/busan/view.php?code=2026083014274959878",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7181365",
-    "https://www.dt.co.kr/article/12080939"
+    "https://www.dt.co.kr/article/12080939",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=364387",
+    "https://www.jemin.com/news/articleView.html?idxno=842259",
+    "https://biz.chosun.com/it-science/ict/2026/08/30/OYLNXZEZINA6NBUEWZUDROYOMQ/",
+    "https://www.donga.com/news/Economy/article/all/20260830/134569594/1"
    ],
    "seen_titles": [
-    "개인,국내ETF순매도···2년여전엔비디아투자열풍'데자뷔'",
-    "반도체투톱'자사주매입'지속…삼성전자·SK하이닉스6일째8조5000억...",
-    "[국립경국대]경북의글로컬대학,안동‧예천캠특성화…AI학생성공지...",
-    "김성원국회산자위원장“이재용·최태원청문회추진”",
     "\"AI의새로운미래시작\"...SK하이닉스,美서2029년HBM양산",
     "컴투스,신작‘제우스’통신3사와협업…출시마케팅확대",
     "신세계면세점,추석부터웨딩성수기까지가을프로모션",
@@ -3522,10 +3506,14 @@
     "‘NBA슈퍼스타’지미버틀러의기를받은동대문토모,U13부값진우승...",
     "삼성전자,9월부터주택대출지원…5억원,연1.5%파격조건",
     "신현송\"원화,대외충격에면역력생겨…대미투자도환율부담안돼...",
-    "美원유늘리는정유사…비용압박가중"
+    "美원유늘리는정유사…비용압박가중",
+    "SKT,AIDC'전략·운영·개발'3각체제구축...AI인프라승부수",
+    "현무암처럼제주에뿌리내린20년…제주SK'섬사람'입는다",
+    "삼성전자,9월부터무주택직원에최대5억대출…연금리1.5%·DSR미적...",
+    "단일종목레버리지거래대금,19분의1급감…규제한달만에1.7조순매..."
    ],
    "initialized": true,
-   "last_run": "2026-08-30T14:30:27.122990+09:00"
+   "last_run": "2026-08-30T14:35:19.891434+09:00"
   }
  },
  "press_names": {
