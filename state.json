@@ -422,11 +422,13 @@
     [
      "2026-08-30T19:30:28.627617+09:00",
      "무료서비스 카카오 사업자에 모두의 연내 SKT 국민 KT"
+    ],
+    [
+     "2026-08-30T19:45:21.159971+09:00",
+     "농구 감독 전술 마줄스 도마 대패"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/PYH20260828115100013?input=1196m",
-    "https://www.yna.co.kr/view/PYH20260828115200013?input=1196m",
     "https://www.hankookilbo.com/news/article/A2026082815190000564?did=NA",
     "https://www.yna.co.kr/view/PYH20260828114800013?input=1196m",
     "https://www.yna.co.kr/view/PYH20260828114900013?input=1196m",
@@ -1924,11 +1926,11 @@
     "https://www.sportsworldi.com/newsView/20260830510676",
     "http://www.osen.co.kr/article/G1112866404",
     "https://www.incheonilbo.com/news/articleView.html?idxno=1330780",
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260831.22014008481"
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260831.22014008481",
+    "https://news.tvchosun.com/site/data/html_dir/2026/08/30/2026083090120.html",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260831.22018008637"
    ],
    "seen_titles": [
-    "재계,수해복구힘보탠다…삼성·SK·LG성금60억전달",
-    "SKT,KKR·IMM손잡고'SK호라이즌'신설...투자금으로사업확대",
     "코스피1.79%하락마감…코스닥은강보합",
     "삼성전자·SK하이닉스약세에코스피1.79%하락마감...코스닥은↑",
     "삼성·SK·LG,'집중호우피해'남부지방에피해복구성금60억",
@@ -3426,10 +3428,12 @@
     "‘더블헤더멀티출루행진’이정후,ML타율TOP10재진입…네계단껑...",
     "“스테판커리를좋아해요!”날카로운슈팅선보인U9부MVP김준우[횡...",
     "삼성전자·SK하이닉스법인세상반기11.2조…연간역대최고치경신가...",
-    "‘모두의AI’사업자에SKT·카카오·KT…연내전국민무료서비스"
+    "‘모두의AI’사업자에SKT·카카오·KT…연내전국민무료서비스",
+    "'4번타자'이정후,열흘만에멀티히트…더블헤더2경기연속타점",
+    "男농구또대패…마줄스감독전술도마위"
    ],
    "initialized": true,
-   "last_run": "2026-08-30T19:40:24.514525+09:00"
+   "last_run": "2026-08-30T19:45:21.159971+09:00"
   }
  },
  "press_names": {
