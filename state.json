@@ -510,16 +510,25 @@
     [
      "2026-08-30T10:30:28.134968+09:00",
      "울산 보인다 2골 트로피 HD 득점왕 역전승 주역 야고"
+    ],
+    [
+     "2026-08-30T10:35:19.720646+09:00",
+     "모두 잡는다 통신3사 통신망 모두의 이어 올라탄 관문"
+    ],
+    [
+     "2026-08-30T10:35:19.720646+09:00",
+     "공급자 이끄는 SK하닉 TSMC 독점적 경제용어사 반도체 삼전"
+    ],
+    [
+     "2026-08-30T10:35:19.720646+09:00",
+     "탈락 잊지 못할 심경 당선 전희철 우지원 미스코리아"
+    ],
+    [
+     "2026-08-30T10:35:19.720646+09:00",
+     "네이버 승부수 따로 사업 법인 SKT 키운다 별도 AIDC"
     ]
    ],
    "seen_urls": [
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=610036",
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=80769",
-    "https://www.munhwa.com/article/11612835",
-    "http://www.press9.kr/news/articleView.html?idxno=81791",
-    "https://www.munhwa.com/article/11612836",
-    "https://www.redian.org/news/articleView.html?idxno=257213",
-    "http://www.kdfnews.com/news/articleView.html?idxno=187216",
     "https://www.joongang.co.kr/article/25457032",
     "https://www.veritas-a.com/news/articleView.html?idxno=625059",
     "https://www.mediawatch.kr/news/article.html?no=260814",
@@ -2012,16 +2021,16 @@
     "https://www.mediapen.com/news/view/1119811",
     "https://www.dt.co.kr/article/12080873",
     "https://www.g-enews.com/view.php?ud=202608301016002697fbbec65dfb_1",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262928&CMPT_CD=P0010"
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262928&CMPT_CD=P0010",
+    "https://www.econovill.com/news/articleView.html?idxno=749288",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=310007",
+    "https://www.etoday.co.kr/news/view/2619483",
+    "https://www.etoday.co.kr/news/view/2619444",
+    "https://www.thescoop.co.kr/news/articleView.html?idxno=311419",
+    "https://www.tvreport.co.kr/entertainment/article/1072017/",
+    "https://www.etoday.co.kr/news/view/2619510"
    ],
    "seen_titles": [
-    "SK스토아,추석맞아전채널쇼핑혜택강화",
-    "SKhynixBreaksGroundon$4BillionIndianaHBMPlant,BringingAIMemo",
-    "HBM미국선만든다…SK하이닉스첫삽",
-    "2029년3분기첫‘메이드인USA’HBM4E가쏟아진다",
-    "‘SK하닉이최대주주’日키옥시아,43조원투자…낸드‘쩐의전쟁’...",
-    "SK하이닉스,3,500명통합노조‘적법한노조’지위확인",
-    "삼성전자·SK하이닉스,글로벌반도체매출'톱3'…AI메모리수요폭발",
     "연내국민AI비서나온다…SKT.카카오KT붙었다",
     "SK하이닉스,통합노조적법지위인정…\"임단협교섭권은없어\"",
     "카카오,정부'모두의AI'사업자선정…카톡·전화AI기반베타서비스...",
@@ -3514,10 +3523,17 @@
     "단일종목레버리지규제한달…개미,삼전·닉스서1조7천억손절",
     "삼성·SK하이닉스,상반기법인세11조원돌파…반도체호황에세수도...",
     "중간단계지운애플vs엔비디아추격…1.5TBAI칩로드맵파장",
-    "울산HD역전승주역'야고'2골...득점왕트로피보인다"
+    "울산HD역전승주역'야고'2골...득점왕트로피보인다",
+    "삼전닉스법인세도'슈퍼사이클'…상반기11.2조납부",
+    "신현송\"원화,대외충격견딜체력갖춰…대미투자도감당가능\"",
+    "‘메이드인USA’HBM생산넘어R&D까지…SK하이닉스,AI메모리거점...",
+    "통신3사모두올라탄‘모두의AI’…통신망이어AI관문잡는다[모두...",
+    "삼전,SK하닉,TSMC…AI이끄는'반도체독점적공급자'들[경제용어사...",
+    "'우지원딸'진당선속…'전희철딸',미스코리아탈락심경\"잊지못할...",
+    "AIDC사업따로키운다…SKT·네이버‘별도법인’승부수"
    ],
    "initialized": true,
-   "last_run": "2026-08-30T10:30:28.134968+09:00"
+   "last_run": "2026-08-30T10:35:19.720646+09:00"
   }
  },
  "press_names": {
