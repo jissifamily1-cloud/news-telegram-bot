@@ -170,12 +170,21 @@
     [
      "2026-08-31T05:05:17.900543+09:00",
      "굴리는 코스피 조언 8820조 최악은 금융사의 지났는데"
+    ],
+    [
+     "2026-08-31T05:10:23.042757+09:00",
+     "3색 전략 모두의"
+    ],
+    [
+     "2026-08-31T05:10:23.042757+09:00",
+     "삼전닉스 압박 호황 11조원 이중 뒤엔 법인세"
+    ],
+    [
+     "2026-08-31T05:10:23.042757+09:00",
+     "물가 다시 폭염에 내려갈 9월부터"
     ]
    ],
    "seen_urls": [
-    "http://www.4th.kr/news/articleView.html?idxno=2117058",
-    "https://www.g-enews.com/view.php?ud=202608281547418474923c501012_1",
-    "https://www.namdonews.com/news/articleView.html?idxno=921521",
     "https://www.redian.org/news/articleView.html?idxno=257216",
     "https://www.ziksir.com/news/articleView.html?idxno=144678",
     "https://www.ajunews.com/view/20260828161203232",
@@ -1672,12 +1681,12 @@
     "https://www.segye.com/newsView/20260831500669?OutUrl=naver",
     "https://www.newsis.com/view/NISX20260828_0003767095",
     "https://www.startuptoday.co.kr/news/articleView.html?idxno=811229",
-    "https://www.joongang.co.kr/article/25457520"
+    "https://www.joongang.co.kr/article/25457520",
+    "https://www.seoul.co.kr/news/economy/industry/2026/08/31/20260831032003?wlog_tag3=naver",
+    "https://www.seoul.co.kr/news/economy/industry/2026/08/31/20260831030002?wlog_tag3=naver",
+    "https://www.edaily.co.kr/News/Read?newsId=01413686645552896&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "코스피,‘반도체투톱’급락에동반하락…6,700선마감",
-    "코스피,美반도체관세부담·외인1.7조매도에1.79%급락…코스닥...",
-    "동신대,AI·반도체시대'학과별특화교육과정'대대적시행",
     "재계,수해복구지원잇따라…삼성30억·SK20억·LG10억(종합)",
     "美관세공포에삼전·닉스'털썩'…코스피6800선하회",
     "[마감시황]'삼전닉스'내리자코스피1.79%하락마감…코스닥은강보합",
@@ -3174,10 +3183,13 @@
     "“강남빠질때우린뛴다”…같은단지84㎡12일새5800만원뛰었다...",
     "\"의료를하나로\"…굿닥,'모두의AI'SKT와함께간다",
     "[이슈]SK에코플랜트,100%자회사SK에코엔지니어링흡수합병…12월1일...",
-    "“코스피,최악은지났는데…”8820조굴리는美금융사의조언"
+    "“코스피,최악은지났는데…”8820조굴리는美금융사의조언",
+    "모두의AI3색전략",
+    "‘삼전닉스’법인세11조원…호황뒤엔美·中이중압박",
+    "\"폭염에물가다시3%대...9월부터내려갈듯\"[물가폴]"
    ],
    "initialized": true,
-   "last_run": "2026-08-31T05:05:17.900543+09:00"
+   "last_run": "2026-08-31T05:10:23.042757+09:00"
   }
  },
  "press_names": {
