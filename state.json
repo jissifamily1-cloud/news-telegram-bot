@@ -534,10 +534,13 @@
     [
      "2026-08-30T12:25:17.833412+09:00",
      "판매량 싸고 꽂히더니 먹었는데 귀한 Z세대 됐다 흔해서"
+    ],
+    [
+     "2026-08-30T12:30:30.560921+09:00",
+     "SK아이이테크놀로지 회복 아쉽다는 타이밍 이후 합병 평가 2027년 가능"
     ]
    ],
    "seen_urls": [
-    "https://www.sportsseoul.com/news/read/1631531",
     "https://www.seoulfn.com/news/articleView.html?idxno=636716",
     "https://www.onews.tv/news/articleView.html?idxno=285742",
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=706247",
@@ -2036,10 +2039,10 @@
     "http://www.4th.kr/news/articleView.html?idxno=2117097",
     "https://news.tf.co.kr/read/economy/2359502.htm",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8649755",
-    "https://www.sedaily.com/article/20084851"
+    "https://www.sedaily.com/article/20084851",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=602244"
    ],
    "seen_titles": [
-    "미래에셋증권,글로벌비중'껑충'…美·日로해외영토넓힌다",
     "'모두의AI'...SKT·카카오·KT3개사컨소시엄선정",
     "'모두의AI'사업자에SKT·카카오·KT최종선정...GPUB200512장지원",
     "40억달러들여미국서HBM만든다…SK하이닉스,인디애나팹착공",
@@ -3538,10 +3541,11 @@
     "강경파끌어안고경제·부동산문책…李,위기돌파형첫중폭개각",
     "반도체호황에…삼성전자·SK하이닉스상반기법인세11조돌파",
     "삼성·SK법인세11조돌파…역대2위규모",
-    "“싸고흔해서먹었는데귀한몸됐다”…Z세대꽂히더니판매량30%폭..."
+    "“싸고흔해서먹었는데귀한몸됐다”…Z세대꽂히더니판매량30%폭...",
+    "SK아이이테크놀로지,합병타이밍아쉽다는평가…2027년이후회복가능..."
    ],
    "initialized": true,
-   "last_run": "2026-08-30T12:25:17.833412+09:00"
+   "last_run": "2026-08-30T12:30:30.560921+09:00"
   }
  },
  "press_names": {
