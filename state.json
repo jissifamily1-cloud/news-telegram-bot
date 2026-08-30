@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-30T07:25:16.968208+09:00",
-     "선급금 없다 이동훈 사장 SK바이오팜 문제 4억불"
-    ],
-    [
      "2026-08-30T07:30:31.230358+09:00",
      "허깅페이스 반도체 인수 묶는다 AI로 오픈소스 엔비디아"
     ],
@@ -518,14 +514,17 @@
     [
      "2026-08-30T13:20:21.694491+09:00",
      "논문도 논란에 신현송 인용 연준 꺼낸 워시가 불친절한 24년"
+    ],
+    [
+     "2026-08-30T13:25:17.206892+09:00",
+     "회복할까 불확실성 대외변수 코스피 이번주 커지는"
+    ],
+    [
+     "2026-08-30T13:25:17.206892+09:00",
+     "있나 반도체 움직임에 관세 어떻게 대응하고"
     ]
    ],
    "seen_urls": [
-    "https://www.gukjenews.com/news/articleView.html?idxno=3677809",
-    "http://www.popcornnews.net/news/articleView.html?idxno=131095",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=423364",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262554&CMPT_CD=P0010",
-    "https://www.newsway.co.kr/news/view?ud=2026082811060892433",
     "https://www.smarttoday.co.kr/ko-kr/articles/110916",
     "https://www.todaykorea.co.kr/news/articleView.html?idxno=405418",
     "https://www.insightkorea.co.kr/news/articleView.html?idxno=253346",
@@ -2020,14 +2019,14 @@
     "https://www.fntoday.co.kr/news/articleView.html?idxno=391568",
     "https://www.joongboo.com/news/articleView.html?idxno=363735110",
     "https://www.mt.co.kr/industry/2026/08/30/2026083012192629378",
-    "https://m.skyedaily.com/news_view.html?ID=310711"
+    "https://m.skyedaily.com/news_view.html?ID=310711",
+    "https://www.ddaily.co.kr/page/view/2026083013144171281",
+    "https://www.ddaily.co.kr/page/view/2026083013082273524",
+    "https://www.ajunews.com/view/20260830111637608",
+    "https://www.mt.co.kr/stock/2026/08/30/2026083011014632198",
+    "https://www.viva100.com/article/20260830500108"
    ],
    "seen_titles": [
-    "명품매출40%대·수입차등록42.5%급증",
-    "\"로맥형진짜보고싶었어\"...155홈런거포로맥,온가족과문학구장...",
-    "韓증시,두차례금리인상에셈법복잡…유동성감소vs외국인수급...",
-    "SK하이닉스,미국인디애나HBM패키징거점착공…2029년현지양산",
-    "6곳경쟁한‘모두의AI’…SKT·카카오·KT최종선정",
     "SKT,'모두의AI'사업자선정…10월전국민AI비서베타출시",
     "SK인텔릭스'나무엑스',산업기술상'IR52장영실상'수상",
     "대진첨단소재,폐플라스틱에CNT입혀'신재급'으로…배터리트레이기...",
@@ -3522,10 +3521,15 @@
     "8월4주차(24일~28일)주요이슈정리와다음주전망",
     "수원시립합창단'주니어콰이어'2기출범…23명활동돌입",
     "가능성넘어성과로…코리아콘퍼런스,K스타트업글로벌진출'결실'",
-    "‘불친절한연준’논란에워시가꺼낸답…24년전신현송논문도인용"
+    "‘불친절한연준’논란에워시가꺼낸답…24년전신현송논문도인용",
+    "개미투자자,다시미국증시로?…두달간美주식9.7조원순매수",
+    "삼성·SK하이닉스상반기법인세11.2조원,역대두번째",
+    "코스피조정에서학개미美증시로…두달새10조원순매수",
+    "커지는대외변수불확실성…코스피,이번주7000회복할까?",
+    "[사설]반도체관세움직임에어떻게대응하고있나"
    ],
    "initialized": true,
-   "last_run": "2026-08-30T13:20:21.694491+09:00"
+   "last_run": "2026-08-30T13:25:17.206892+09:00"
   }
  },
  "press_names": {
