@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-30T04:20:22.355606+09:00",
-     "3배 급증 냉각수 글로벌 데이터센터 AI발 확산 수자원 경고에 규제"
-    ],
-    [
      "2026-08-30T05:05:18.755661+09:00",
      "2029년 건설까지 군공항 호남 가능할까 비우고 반도체"
     ],
@@ -478,13 +474,17 @@
     [
      "2026-08-30T10:15:21.262320+09:00",
      "회장 SK그룹 최태원 서울김포비즈니스항공센터 출국하는"
+    ],
+    [
+     "2026-08-30T10:20:22.892505+09:00",
+     "단지에 4000세대 무서워요 달랑 집값 전세 급등보다 이게 25평"
+    ],
+    [
+     "2026-08-30T10:20:22.892505+09:00",
+     "보여야 검색 성의 좋은 실적 알겠는데 주주에게도 개미들"
     ]
    ],
    "seen_urls": [
-    "https://zdnet.co.kr/view/?no=20260828113700",
-    "https://biz.sbs.co.kr/article_hub/20000331350?division=NAVER",
-    "https://biz.heraldcorp.com/article/10855414",
-    "https://www.cnbnews.com/news/articleView.html?idxno=1013261",
     "https://www.sentv.co.kr/article/view/sentv202608280082",
     "http://www.issuenbiz.com/news/articleView.html?idxno=79215",
     "https://www.koreaittimes.com/news/articleView.html?idxno=156523",
@@ -1980,13 +1980,13 @@
     "https://www.newspim.com/news/view/20260830000028",
     "https://www.newspim.com/news/view/20260830000026",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262914&CMPT_CD=P0010",
-    "https://www.newspim.com/news/view/20260830000030"
+    "https://www.newspim.com/news/view/20260830000030",
+    "https://www.sedaily.com/article/20084809",
+    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000547673",
+    "https://www.mk.co.kr/article/12139650",
+    "https://www.mk.co.kr/article/12139649"
    ],
    "seen_titles": [
-    "SK에코플랜트,반도체·AI인프라에조직역량모은다…SK에코엔지니어...",
-    "'모두의AI'사업자에SKT·KT·카카오낙점...1인1에이전트시대연다",
-    "엔비디아급등에도코스피뒷걸음…반도체약세에6800선밀려",
-    "SK하이닉스,3500명통합노조'적법한노조'지위확인",
     "용인특례시,반도체산단생활용수10만㎥증량요청",
     "대림통상,1341억핵심자산유동화잰걸음",
     "인디애나팹공사현장",
@@ -3482,10 +3482,14 @@
     "최태원SK그룹회장,한일상공회의소회장단회의참석",
     "최태원SK그룹회장,일본출국",
     "'프로데뷔2G연속골'전민규,성남의새로운해결사",
-    "서울김포비즈니스항공센터출국하는최태원SK그룹회장"
+    "서울김포비즈니스항공센터출국하는최태원SK그룹회장",
+    "규제한달만에…‘삼전·닉스’개미들‘이만큼’던졌다",
+    "삼성전자·SK하이닉스상반기법인세11조…역대두번째",
+    "“집값급등보다이게더무서워요”…4000세대단지에25평전세달랑...",
+    "“실적좋은건알겠는데,주주에게도성의보여야”…개미들검색‘삼..."
    ],
    "initialized": true,
-   "last_run": "2026-08-30T10:15:21.262320+09:00"
+   "last_run": "2026-08-30T10:20:22.892505+09:00"
   }
  },
  "press_names": {
