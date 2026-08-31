@@ -162,10 +162,13 @@
     [
      "2026-09-01T03:00:37.250591+09:00",
      "외국인 삼전 약세에도 하이닉스 마이크론 엔비디아 지수 반등"
+    ],
+    [
+     "2026-09-01T03:45:21.756716+09:00",
+     "성패 데이터센터 관건은 누가 것인가 4GW"
     ]
    ],
    "seen_urls": [
-    "https://www.epnc.co.kr/news/articleView.html?idxno=406266",
     "https://www.bigtanews.co.kr/article/view/big202608310003",
     "https://view.asiae.co.kr/article/2026083110171457246",
     "https://www.asiatime.co.kr/article/20260831500079",
@@ -1664,10 +1667,10 @@
     "https://www.ekn.kr/web/view.php?key=20260901025098831",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000007857&cp=nv",
     "https://www.greened.kr/news/articleView.html?idxno=348878",
-    "https://www.mt.co.kr/industry/2026/09/01/2026083120015424030"
+    "https://www.mt.co.kr/industry/2026/09/01/2026083120015424030",
+    "https://www.newsverse.kr/news/articleView.html?idxno=11331"
    ],
    "seen_titles": [
-    "SK온,美네오볼타파워에9GWh배터리공급…북미ESS사업확대",
     "<빅터뉴스주가예측>코스피시가총액상위15선_8월31일",
     "모바일신분증,QR로검증해위·변조막는다…통신3사PASS캠페인진행",
     "[HR뉴스브리핑]알바몬'알바투어',에피어워드코리아·부산국제마케...",
@@ -3166,10 +3169,11 @@
     "[패트롤]수원시-용인시-평택시-이천시-여주시",
     "지역별다르게쓴삼전닉스성과급…이천은‘부동산’청주는‘지역...",
     "美지수약세에도엔비디아·마이크론반등…삼전·하이닉스,외국인현...",
-    "美ESS1.5조수주…SK온흑자잇는다"
+    "美ESS1.5조수주…SK온흑자잇는다",
+    "[오늘의경제뉴스]AI데이터센터8.4GW,누가쓸것인가…성패관건은..."
    ],
    "initialized": true,
-   "last_run": "2026-09-01T03:40:22.539948+09:00"
+   "last_run": "2026-09-01T03:45:21.756716+09:00"
   }
  },
  "press_names": {
