@@ -177,7 +177,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10857097",
     "https://www.epnc.co.kr/news/articleView.html?idxno=406266",
     "https://www.bigtanews.co.kr/article/view/big202608310003",
     "https://view.asiae.co.kr/article/2026083110171457246",
@@ -1676,10 +1675,10 @@
     "https://www.hankyung.com/article/2026083145821",
     "https://www.ekn.kr/web/view.php?key=20260901025098831",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000007857&cp=nv",
-    "https://www.greened.kr/news/articleView.html?idxno=348878"
+    "https://www.greened.kr/news/articleView.html?idxno=348878",
+    "https://www.mt.co.kr/industry/2026/09/01/2026083120015424030"
    ],
    "seen_titles": [
-    "SK하이닉스,인텔파운드리활용검토…‘1석3조’다중포석",
     "SK온,美네오볼타파워에9GWh배터리공급…북미ESS사업확대",
     "<빅터뉴스주가예측>코스피시가총액상위15선_8월31일",
     "모바일신분증,QR로검증해위·변조막는다…통신3사PASS캠페인진행",
@@ -3178,10 +3177,11 @@
     "[이슈프리즘]반도체파티보다중요한것",
     "[패트롤]수원시-용인시-평택시-이천시-여주시",
     "지역별다르게쓴삼전닉스성과급…이천은‘부동산’청주는‘지역...",
-    "美지수약세에도엔비디아·마이크론반등…삼전·하이닉스,외국인현..."
+    "美지수약세에도엔비디아·마이크론반등…삼전·하이닉스,외국인현...",
+    "美ESS1.5조수주…SK온흑자잇는다"
    ],
    "initialized": true,
-   "last_run": "2026-09-01T03:25:20.318886+09:00"
+   "last_run": "2026-09-01T03:30:31.096921+09:00"
   }
  },
  "press_names": {
