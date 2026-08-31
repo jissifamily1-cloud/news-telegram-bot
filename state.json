@@ -218,11 +218,17 @@
     [
      "2026-09-01T05:10:21.898415+09:00",
      "베팅 SK바이오팜 오파칼림 경영진 잇따라 매입 1조원 자사주"
+    ],
+    [
+     "2026-09-01T05:20:25.316972+09:00",
+     "묻지마 입법 예산 오른 없어야 속도전 정기국회"
+    ],
+    [
+     "2026-09-01T05:20:25.316972+09:00",
+     "5조원대 공장 속도 ESS 공급계약 실적 SK온 반등"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10857124",
-    "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90759",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=272562",
     "http://www.paxetv.com/news/articleView.html?idxno=280573",
     "https://www.cbci.co.kr/news/articleView.html?idxno=602350",
@@ -1720,11 +1726,11 @@
     "https://www.newsis.com/view/NISX20260831_0003770034",
     "https://www.joongang.co.kr/article/25457932",
     "https://www.etoday.co.kr/news/view/2620158",
-    "https://www.kpanews.co.kr/news/articleView.html?idxno=542027"
+    "https://www.kpanews.co.kr/news/articleView.html?idxno=542027",
+    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/09/01/20260901027003?wlog_tag3=naver",
+    "https://www.newsis.com/view/NISX20260831_0003770107"
    ],
    "seen_titles": [
-    "‘이젠놀랍지도않다’또3%급락…삼전닉스자사주효과에도소용없...",
-    "[르포]이통사에부는脫로밍바람…LGU+,도쿄서체험행사진행",
     "'사진찍으면AI가정리'…SK텔레콤,에이닷로그써보니",
     "SK에너지·네이버페이,주유고객혜택확대…내년Npay포인트적립",
     "통신3사,10월5일까지PASS신분증QR검증캠페인…경품2,076명증정",
@@ -3222,10 +3228,12 @@
     "삼성전자·SK하이닉스,'세미콘타이완'참여…'AI메모리'병목해소청...",
     "소부장700%번수퍼개미“삼전역대급배당,이수혜주사라”",
     "호르무즈피했더니가뭄…말라붙은물길에세계물류‘이중고’[세계...",
-    "1조원오파칼림베팅…SK바이오팜경영진잇따라자사주매입"
+    "1조원오파칼림베팅…SK바이오팜경영진잇따라자사주매입",
+    "[사설]막오른정기국회…입법·예산‘묻지마속도전’없어야",
+    "SK온,1.5조원대美ESS공급계약…실적반등·공장전환'속도'"
    ],
    "initialized": true,
-   "last_run": "2026-09-01T05:15:21.163798+09:00"
+   "last_run": "2026-09-01T05:20:25.316972+09:00"
   }
  },
  "press_names": {
