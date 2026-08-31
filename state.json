@@ -330,12 +330,13 @@
     [
      "2026-09-01T00:45:23.916632+09:00",
      "칩이 차이나 밀려온다"
+    ],
+    [
+     "2026-09-01T01:00:37.572410+09:00",
+     "반도체 나간 관가 허리 방산으로"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008729539&plink=ORI&cooper=NAVER",
-    "https://en.yna.co.kr/view/AEN20260831003500320?input=2106m",
-    "https://www.sedaily.com/article/20085163",
     "https://www.ziksir.com/news/articleView.html?idxno=144771",
     "https://www.nextdaily.co.kr/news/articleView.html?idxno=252612",
     "https://www.kukinews.com/article/view/kuk202608310046",
@@ -1832,12 +1833,12 @@
     "https://basketkorea.com/news/newsview.php?ncode=1065541051155388",
     "https://www.chosun.com/culture-life/culture_general/2026/09/01/DITU5FKZJJHNTDBK7C6SYQVBAE/",
     "https://www.chosun.com/economy/tech_it/2026/09/01/O2WAHR5YMVFUPFXHEOENFRX2OM/",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000007819&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000007819&cp=nv",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000007831&cp=nv",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=602601",
+    "https://www.chosun.com/economy/industry-company/2026/09/01/34BNU3TPINBUTCVCHJQT4646VM/"
    ],
    "seen_titles": [
-    "'주식10억원이상보유'비오너임원총398명",
-    "SKOnsignsESSbatterydealwithU.S.firmNeoVoltaPower",
-    "與서미화“이재용·최태원청문회는시대착오적사고”",
     "환율,잭슨홀發달러강세에수급공방···1370원대중반등락",
     "SKT,'에이닷로그'출시…AI글래스·스마트폰사진AI가정리",
     "이동훈SK바이오팜사장,자사주2000주매입…1억8000만원규모",
@@ -3334,10 +3335,13 @@
     "[바코인사이드]김선형은꿈꾼다,‘봄농구’에도달할그날을!",
     "90년대감성에트렌드입혀…1060이함께즐긴다",
     "“우리도삼성전자·하이닉스만큼달라”대만마이크론으로번진성과...",
-    "[돋을새김]차이나칩이밀려온다"
+    "[돋을새김]차이나칩이밀려온다",
+    "SK온,美서‘1.5조원’ESS계약…“1건에올목표절반채워”",
+    "SK하이닉스목표가240만원으로하향HBM성장지속에도공급자프리미...",
+    "반도체·방산으로…‘허리’나간관가"
    ],
    "initialized": true,
-   "last_run": "2026-09-01T00:55:20.757207+09:00"
+   "last_run": "2026-09-01T01:00:37.572410+09:00"
   }
  },
  "press_names": {
