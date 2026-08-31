@@ -518,11 +518,17 @@
     [
      "2026-08-31T22:20:24.780081+09:00",
      "에너지 정치인 이소영 젊은 등용 용혜인 국정에 새로운 이연희"
+    ],
+    [
+     "2026-08-31T23:00:36.837068+09:00",
+     "선별 뛰고 미국증시 유가 상승 반도체는 장기금리 충돌에 이란"
+    ],
+    [
+     "2026-08-31T23:00:36.837068+09:00",
+     "예선 현재 꺾고 사우디아라비아 4위 아시아 월드컵 농구 순위"
     ]
    ],
    "seen_urls": [
-    "https://www.news2day.co.kr/article/20260831500087",
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=811309",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=860728",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=207426",
     "http://www.seouleconews.com/news/articleView.html?idxno=93404",
@@ -2020,11 +2026,11 @@
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433062",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=88458",
     "https://biz.heraldcorp.com/article/10857739",
-    "https://www.energy-news.co.kr/news/articleView.html?idxno=227792"
+    "https://www.energy-news.co.kr/news/articleView.html?idxno=227792",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16178694",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16178655"
    ],
    "seen_titles": [
-    "코스피,반도체주급락에6,600선후퇴…SK하이닉스3.39%↓",
-    "[오늘증시]코스피7000멀어지고…'매파워시'에6600선까지후퇴",
     "'뇌전증신약도입'이동훈대표,1.8억자사주매입",
     "SK온,美ESS기업과대형LFP배터리공급계약체결…'조지아공장서생...",
     "SK온,美배터리공장ESS로돌린다…1.5조9GWh공급계약",
@@ -3522,10 +3528,12 @@
     "'이현중·여준석43점폭발'한국,사우디제압하고2027월드컵본선희...",
     "코스피,장중3.55%급락딛고6,820선반등-금리인상공포에'롤러코스...",
     "하이닉스목표가‘240만원’으로‘뚝’…삼성전자는올랐다?HBM4경쟁...",
-    "SK가스‧SK에너지등도9월LPG가격동결"
+    "SK가스‧SK에너지등도9월LPG가격동결",
+    "미국증시,미·이란충돌에유가뛰고장기금리상승…반도체는선별강...",
+    "농구월드컵아시아예선,사우디아라비아꺾고조4위…현재순위→다..."
    ],
    "initialized": true,
-   "last_run": "2026-08-31T22:55:21.296893+09:00"
+   "last_run": "2026-08-31T23:00:36.837068+09:00"
   }
  },
  "press_names": {
