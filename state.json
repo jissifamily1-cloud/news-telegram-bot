@@ -230,17 +230,29 @@
     [
      "2026-09-01T05:30:31.265560+09:00",
      "이현중 본선 승리 진출 한국 월드컵 25점 사우디아라비아에"
+    ],
+    [
+     "2026-09-01T05:45:23.335414+09:00",
+     "이란 하락 우려에 공격 3대 메모리주 금리인상 지수 동반"
+    ],
+    [
+     "2026-09-01T05:45:23.335414+09:00",
+     "기대 오파칼림 두드리는 증권가 계산기"
+    ],
+    [
+     "2026-09-01T05:45:23.335414+09:00",
+     "기업은 Arm에 데이터센 긴장하는 퀄컴 인텔 스마트폰 엔비디아"
+    ],
+    [
+     "2026-09-01T05:45:23.335414+09:00",
+     "expansion BOK vs Fiscal tightening"
+    ],
+    [
+     "2026-09-01T05:45:23.335414+09:00",
+     "반등 방어선 구축 이어질까 삼전닉스 자사주로 주가 추세"
     ]
    ],
    "seen_urls": [
-    "http://www.paxetv.com/news/articleView.html?idxno=280573",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=602350",
-    "http://www.paxetv.com/news/articleView.html?idxno=280571",
-    "https://www.etnews.com/20260831000124",
-    "https://biz.heraldcorp.com/article/10857141",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275826",
-    "https://www.econovill.com/news/articleView.html?idxno=749345",
-    "https://www.ekn.kr/web/view.php?key=20260831027538385",
     "https://www.econovill.com/news/articleView.html?idxno=749339",
     "https://www.newsis.com/view/NISX20260831_0003769215",
     "http://www.newsian.co.kr/news/articleView.html?idxno=94502",
@@ -1732,17 +1744,17 @@
     "https://www.kpanews.co.kr/news/articleView.html?idxno=542027",
     "https://www.seoul.co.kr/news/editOpinion/editorial/2026/09/01/20260901027003?wlog_tag3=naver",
     "https://www.newsis.com/view/NISX20260831_0003770107",
-    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375328"
+    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375328",
+    "https://www.fnnews.com/news/202609010528256643",
+    "https://www.sedaily.com/article/20085522",
+    "https://www.newsis.com/view/NISX20260831_0003770243",
+    "https://www.mediapen.com/news/view/1120221",
+    "https://www.monews.co.kr/news/articleView.html?idxno=413501",
+    "https://www.sedaily.com/article/20085530",
+    "https://www.koreaherald.com/article/10857682",
+    "https://www.dt.co.kr/article/12081280"
    ],
    "seen_titles": [
-    "SK에너지·네이버페이,주유고객혜택확대…내년Npay포인트적립",
-    "통신3사,10월5일까지PASS신분증QR검증캠페인…경품2,076명증정",
-    "SK온,美네오볼타에9GWh배터리공급…ESS사업확대",
-    "SK온,1.5조원규모美ESS배터리셀공급계약체결",
-    "해외단일레버리지,‘손실20%’되면이제‘경고음’뜬다",
-    "SK온,美네오볼타파워와9GWh배터리공급계약",
-    "SK온,美서9GWhESS배터리수주…북미사업확대본격화",
-    "SK에너지·네이버페이‘맞손’…SK주유소에서포인트적립가능해진다",
     "예탁원,9월의무보유등록2억2948만주해제…케이뱅크물량최대",
     "[올댓차이나]中CXMT,차세대LPDDR6양산개시…샤오미‘18폴드’에...",
     "[STOCK톺]美긴축우려에…SK하이닉스3%대·삼성전자2%대↓",
@@ -3234,10 +3246,18 @@
     "1조원오파칼림베팅…SK바이오팜경영진잇따라자사주매입",
     "[사설]막오른정기국회…입법·예산‘묻지마속도전’없어야",
     "SK온,1.5조원대美ESS공급계약…실적반등·공장전환'속도'",
-    "'이현중25점'한국,사우디아라비아에85-72승리...월드컵본선진출..."
+    "'이현중25점'한국,사우디아라비아에85-72승리...월드컵본선진출...",
+    "[뉴욕증시]'미-이란교전재개'에하락…8월전체로는상승",
+    "반도체성과급받아테슬라산다…‘반세권’소비최대4%증가[Pick코...",
+    "최태원\"투자검토중\"…SK하이닉스,美·日추가생산거점어디에",
+    "[美증시]美이란공격·금리인상우려에3대지수동반하락…메모리주...",
+    "'오파칼림'기대속계산기두드리는증권가",
+    "퀄컴·Arm에긴장하는엔비디아·인텔...스마트폰칩기업은왜데이터센...",
+    "[YooChoon-sik]Fiscalexpansionvs.BOKtightening",
+    "‘삼전닉스’자사주로방어선구축…주가반등추세이어질까"
    ],
    "initialized": true,
-   "last_run": "2026-09-01T05:40:25.342428+09:00"
+   "last_run": "2026-09-01T05:45:23.335414+09:00"
   }
  },
  "press_names": {
