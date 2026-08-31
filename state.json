@@ -789,7 +789,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mediapen.com/news/view/1119729",
     "https://www.hankyung.com/article/202608290471i",
     "https://www.moneystorm.kr/news/articleView.html?idxno=6071",
     "https://www.etoday.co.kr/news/view/2619529",
@@ -2288,10 +2287,10 @@
     "https://www.news1.kr/industry/general-industry/6274241",
     "http://www.popcornnews.net/news/articleView.html?idxno=131234",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572347127631",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=482020"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=482020",
+    "https://www.newsis.com/view/NISX20260831_0003768971"
    ],
    "seen_titles": [
-    "[美증시]케빈워시금리인상시사3대지수동반조정…반도체하락,빅...",
     "머스크\"스페이스X연간매출4800조원된다\"[박신영의개장전요것만]",
     "[탐사경]\"달러가떨어질수도있다\"…1천억달러달러예금시대,이제는...",
     "[주간증시전망]코스피7500선열리나...다음타자는2차전지·AI플랫폼...",
@@ -3790,10 +3789,11 @@
     "SK온,올해ESS수주목표절반채웠다…서산·美조지아LFP전환속도",
     "통신3사,'AI활용처'넓힌다…개인기록부터금융·에너지안전까지",
     "SK온,美ESS서'18GWh잭팟'…전기차넘어새먹거리키운다",
-    "차익실현물량에하락종목출회…선별적접근필요한전기제품업종"
+    "차익실현물량에하락종목출회…선별적접근필요한전기제품업종",
+    "\"물가우려\"워시매파적발언에…원·달러,1380원대턱밑"
    ],
    "initialized": true,
-   "last_run": "2026-08-31T09:28:56.448968+09:00"
+   "last_run": "2026-08-31T09:30:27.997900+09:00"
   }
  },
  "press_names": {
