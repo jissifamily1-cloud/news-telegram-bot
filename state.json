@@ -625,8 +625,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10857048",
-    "https://www.mydaily.co.kr/page/view/2026083110185781736",
     "https://www.businesspost.co.kr/BP?command=article_view&num=445954",
     "https://www.naeil.com/news/read/600497",
     "http://www.newsian.co.kr/news/articleView.html?idxno=94499",
@@ -2124,11 +2122,11 @@
     "https://www.hankyung.com/article/2026083143326",
     "https://www.edaily.co.kr/News/Read?newsId=05015126645552896&mediaCodeNo=257",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8650903",
-    "https://www.natv.go.kr/natv/news/newsView.do?newsId=514094"
+    "https://www.natv.go.kr/natv/news/newsView.do?newsId=514094",
+    "https://m.skyedaily.com/news_view.html?ID=310817",
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433062"
    ],
    "seen_titles": [
-    "최태원“한일경제연대,AI등시너지분야서실천과제부터도출해야...",
-    "한기범희망나눔주최'2026청소년건강증진하반기3X3서울농구대회'...",
     "코스피'미국금리인상우려'에장중하락세6690선,코스닥도2%대내...",
     "스마트폰으로사진찍으면AI가기록·정리한다",
     "한일상의회장단\"지역중심교류로한일미래산업경제연대구축\"",
@@ -3626,10 +3624,12 @@
     "\"330만원서240만원으로\"…SK하이닉스,충격의목표가하향[종목+]",
     "SK오션플랜트4100억에매각…'친환경확장상징'SK품떠난다",
     "SK오션플랜트매각…디오션컨소시엄‘최대주주’",
-    "이연희\"이소영·용혜인등젊은정치인등용…국정에새로운에너지불..."
+    "이연희\"이소영·용혜인등젊은정치인등용…국정에새로운에너지불...",
+    "\"역대급실적SK하이닉스,하청노동자차별여전…최태원회장에직접...",
+    "'이현중·여준석43점폭발'한국,사우디제압하고2027월드컵본선희..."
    ],
    "initialized": true,
-   "last_run": "2026-08-31T22:25:21.516642+09:00"
+   "last_run": "2026-08-31T22:30:31.578960+09:00"
   }
  },
  "press_names": {
