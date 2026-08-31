@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-31T22:00:38.645569+09:00",
-     "LACP 2개 부문 SK증권 플래티넘 석권 어워즈 비전"
-    ],
-    [
      "2026-08-31T22:10:25.069842+09:00",
      "채웠다 SK온 한해 ESS 계약 절반 한건으로 파죽지세 목표"
     ],
@@ -158,12 +154,21 @@
     [
      "2026-09-01T03:45:21.756716+09:00",
      "성패 데이터센터 관건은 누가 것인가 4GW"
+    ],
+    [
+     "2026-09-01T04:00:38.652342+09:00",
+     "투자 200억 경보제약에 국민성장펀드"
+    ],
+    [
+     "2026-09-01T04:00:38.652342+09:00",
+     "빅테크 대이동 공모채 투자 막힌 사모펀드로 달러 5조"
+    ],
+    [
+     "2026-09-01T04:00:38.652342+09:00",
+     "프리미엄 출시 라이프 ZENITH 카드 혜택 담아 iM뱅크"
     ]
    ],
    "seen_urls": [
-    "https://www.bigtanews.co.kr/article/view/big202608310003",
-    "https://view.asiae.co.kr/article/2026083110171457246",
-    "https://www.asiatime.co.kr/article/20260831500079",
     "http://www.newstomato.com/ReadNews.aspx?no=1311925&inflow=N",
     "https://zdnet.co.kr/view/?no=20260831103348",
     "https://www.joongboo.com/news/articleView.html?idxno=363735202",
@@ -1660,12 +1665,12 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=9000007857&cp=nv",
     "https://www.greened.kr/news/articleView.html?idxno=348878",
     "https://www.mt.co.kr/industry/2026/09/01/2026083120015424030",
-    "https://www.newsverse.kr/news/articleView.html?idxno=11331"
+    "https://www.newsverse.kr/news/articleView.html?idxno=11331",
+    "https://www.mt.co.kr/thebio/2026/09/01/2026083119570830872",
+    "https://www.g-enews.com/view.php?ud=202608311738095396fbbec65dfb_1",
+    "http://www.bizwnews.com/news/articleView.html?idxno=144808"
    ],
    "seen_titles": [
-    "<빅터뉴스주가예측>코스피시가총액상위15선_8월31일",
-    "모바일신분증,QR로검증해위·변조막는다…통신3사PASS캠페인진행",
-    "[HR뉴스브리핑]알바몬'알바투어',에피어워드코리아·부산국제마케...",
     "'시가산정'막차탄SK이노베이션…신주발행에합병비율왜곡우려",
     "메타AI글래스로찍으면에이닷이알아서정리한다",
     "1천261명뚫은클래식샛별5인…'성정대상'겨룬다",
@@ -3162,10 +3167,13 @@
     "지역별다르게쓴삼전닉스성과급…이천은‘부동산’청주는‘지역...",
     "美지수약세에도엔비디아·마이크론반등…삼전·하이닉스,외국인현...",
     "美ESS1.5조수주…SK온흑자잇는다",
-    "[오늘의경제뉴스]AI데이터센터8.4GW,누가쓸것인가…성패관건은..."
+    "[오늘의경제뉴스]AI데이터센터8.4GW,누가쓸것인가…성패관건은...",
+    "국민성장펀드,경보제약에200억투자",
+    "공모채막힌빅테크AI투자4.5조달러,사모펀드로대이동",
+    "iM뱅크,'ZENITH카드'출시…프리미엄라이프혜택담아"
    ],
    "initialized": true,
-   "last_run": "2026-09-01T03:55:19.811429+09:00"
+   "last_run": "2026-09-01T04:00:38.652342+09:00"
   }
  },
  "press_names": {
