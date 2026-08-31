@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-08-31T06:55:18.444188+09:00",
-     "9월 증시 방산 담아라 온다는데 전력 IT하드웨어 조정"
-    ],
-    [
-     "2026-08-31T06:55:18.444188+09:00",
-     "혜택 롯데온 뷰티 뷰세라 담은 2주간 연간 진행"
-    ],
-    [
-     "2026-08-31T06:55:18.444188+09:00",
-     "오펜하이머 열풍에 트로이 오디세이 뜬다"
-    ],
-    [
-     "2026-08-31T06:55:18.444188+09:00",
-     "한국형 온다 2035년 저궤도 생태계 위성망 장비 SW 마련"
-    ],
-    [
      "2026-08-31T07:05:19.655079+09:00",
      "예심청구 돌입 데이터 경쟁력 신뢰성 내달"
     ],
@@ -1137,8 +1121,6 @@
     ]
    ],
    "seen_urls": [
-    "https://kpenews.com/View.aspx?No=4204558",
-    "http://www.osen.co.kr/article/G1112866303",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4432524",
     "https://www.hankookilbo.com/news/article/A2026082814350002028?did=NA",
     "https://www.joongang.co.kr/article/25457349",
@@ -2636,11 +2618,11 @@
     "https://www.koit.co.kr/news/articleView.html?idxno=208742",
     "http://www.newsbrite.net/news/articleView.html?idxno=200061",
     "https://www.asiatime.co.kr/article/20260831500187",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008729934&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008729934&plink=ORI&cooper=NAVER",
+    "https://www.m-i.kr/news/articleView.html?idxno=1407895",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=852092"
    ],
    "seen_titles": [
-    "중국양쯔메모리테크놀로지,낸드값흔드나..내년48만6000장증산",
-    "'원정서설욕노린다'전북,인천맞대결서'결정력회복+선두추격'두...",
     "[채권-주간]매파워시발언속내년예산안주시…방향성탐색전",
     "레버리지규제한달,19조→5000억뚝…뒤늦게잡은과열불씨",
     "삼전닉스,상반기법인세만11조…법인세‘100조시대’오나",
@@ -4138,10 +4120,12 @@
     "어플라이드\"AI반도체경쟁,데이터이동·전력효율이좌우\"…D램·HBM...",
     "SK온,ESS시장대규모배터리공급계약체결...북미시장공략강화",
     "이천·청주등반도체수혜지역소비최대4%증가",
-    "반도체패키징산업전…\"HBM다음기술은?\""
+    "반도체패키징산업전…\"HBM다음기술은?\"",
+    "\"모바일신분증위·변조막는다\"…통신3사,PASSQR검증캠페인",
+    "한은\"반도체성과급,소비진작기여…내년파급효과더클것\""
    ],
    "initialized": true,
-   "last_run": "2026-08-31T12:55:17.860124+09:00"
+   "last_run": "2026-08-31T13:00:35.849632+09:00"
   }
  },
  "press_names": {
