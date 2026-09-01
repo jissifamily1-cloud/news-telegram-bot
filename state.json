@@ -858,13 +858,13 @@
     [
      "2026-09-01T21:35:19.964288+09:00",
      "서한 건설사로 확장 수주 1649억 영토 전국구 전남서"
+    ],
+    [
+     "2026-09-01T21:45:26.613853+09:00",
+     "대통령 사퇴 개각으로 부담 청와대 덜기 김용범"
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20260831516127?OutUrl=naver",
-    "https://www.mk.co.kr/article/12140868",
-    "https://biz.chosun.com/it-science/ict/2026/09/01/GXWCVUGK4RFQPOILRTUWRA7OGY/",
-    "https://www.bosa.co.kr/news/articleView.html?idxno=3011143",
     "https://www.viva100.com/article/20260825500479",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1722361",
     "https://www.viva100.com/article/20260831501106",
@@ -2360,13 +2360,13 @@
     "https://www.seoul.co.kr/news/economy/2026/09/01/20260901500336?wlog_tag3=naver",
     "https://us.aving.net/news/articleView.html?idxno=54448",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=275985",
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=558299"
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=558299",
+    "https://www.thelec.kr/news/articleView.html?idxno=61651",
+    "https://www.betanews.net/article/view/beta202609010085",
+    "http://www.gnmaeil.com/news/articleView.html?idxno=593951",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8652015"
    ],
    "seen_titles": [
-    "[단독]독감백신NIP차질…사노피50만도즈펑크에민간물량전환",
-    "통신3사“AI시장잡아라”…플랫폼주도권경쟁본격화",
-    "외국인들이먹고빠져나간국장…개미들‘기도메타’는이곳향했다",
-    "[비즈톡톡]CXMT‘세계최초’차세대D램상용화발표에의문투성이",
     "코스피제약업종주가회복국면접어드나",
     "초록뱀미디어,‘AI심야극장’9월3일정규편성…AI콘텐츠페스티벌...",
     "샤오미손잡은CXMT,LPDDR6선점…中'메모리자립'속도",
@@ -3862,10 +3862,14 @@
     "젠슨황“지금주식사라”말믿었다면…석달뒤주가성적표는?[재...",
     "DHGlobaltoUnveil150LKimchiRefrigeratoratIFA2026",
     "SamsungHoldsTopSpotInQ2eSSDMarket",
-    "서한,전남서1649억수주…전국구건설사로영토확장"
+    "서한,전남서1649억수주…전국구건설사로영토확장",
+    "삼성D,충남도와67조투자MOU체결",
+    "한국거래소,애프터마켓14일개장…ETF·ETN은시간외거래제외",
+    "\"SK오션플랜트매각모든조치강구할것\"",
+    "[시사플랫폼]“청와대부담덜기위해김용범사퇴…개각으로대통령..."
    ],
    "initialized": true,
-   "last_run": "2026-09-01T21:40:24.586162+09:00"
+   "last_run": "2026-09-01T21:45:26.613853+09:00"
   }
  },
  "press_names": {
