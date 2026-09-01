@@ -738,11 +738,13 @@
     [
      "2026-09-01T21:45:26.613853+09:00",
      "대통령 사퇴 개각으로 부담 청와대 덜기 김용범"
+    ],
+    [
+     "2026-09-01T22:10:27.154855+09:00",
+     "170조 순매도 오른다 정치가 놔둬야 외인 삼전닉스"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1722361",
-    "https://www.viva100.com/article/20260831501106",
     "https://www.hankyung.com/article/2026083146441",
     "https://www.ddaily.co.kr/page/view/2026083111451975231",
     "https://www.dailian.co.kr/news/view/1684609/?sc=Naver",
@@ -2240,11 +2242,11 @@
     "https://www.betanews.net/article/view/beta202609010085",
     "http://www.gnmaeil.com/news/articleView.html?idxno=593951",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8652015",
-    "http://www.inews24.com/view/2000837"
+    "http://www.inews24.com/view/2000837",
+    "https://www.ajunews.com/view/20260901212921263",
+    "https://www.hankyung.com/article/2026090173176"
    ],
    "seen_titles": [
-    "초록뱀미디어,‘AI심야극장’9월3일정규편성…AI콘텐츠페스티벌...",
-    "샤오미손잡은CXMT,LPDDR6선점…中'메모리자립'속도",
     "리가켐이어경보제약⋯정부‘ADC’연속베팅이유는",
     "삼전닉스말고또있다…큰손이찍은韓'잠자는호랑이'",
     "[CPU대란주의보①]\"GPU1개당CPU1개\"…빅테크수장사이로터져나...",
@@ -3742,10 +3744,12 @@
     "한국거래소,애프터마켓14일개장…ETF·ETN은시간외거래제외",
     "\"SK오션플랜트매각모든조치강구할것\"",
     "[시사플랫폼]“청와대부담덜기위해김용범사퇴…개각으로대통령...",
-    "최성환SK네트웍스사장,보유주식대부분매도…45억원규모"
+    "최성환SK네트웍스사장,보유주식대부분매도…45억원규모",
+    "[오늘의뉴스종합]애프터마켓서ETF·ETN은거래못한다",
+    "\"삼전닉스,정치가놔둬야오른다\"…외인170조순매도[분석+]"
    ],
    "initialized": true,
-   "last_run": "2026-09-01T22:05:21.576860+09:00"
+   "last_run": "2026-09-01T22:10:27.154855+09:00"
   }
  },
  "press_names": {
