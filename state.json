@@ -250,16 +250,37 @@
     [
      "2026-09-02T06:15:28.446644+09:00",
      "신설 학종 융합인재전형 3명도 뽑는다 지역의사"
+    ],
+    [
+     "2026-09-02T06:20:25.663917+09:00",
+     "도로 괜찮습니다 가려내는 굴착기는 SKT 위험"
+    ],
+    [
+     "2026-09-02T06:20:25.663917+09:00",
+     "웃지 이유 코스닥 6조 빈집 상승에 반등 못하는 거래액 초라한"
+    ],
+    [
+     "2026-09-02T06:20:25.663917+09:00",
+     "끝났나 1300원 수출기업들 초반 고환율 특수 간다는데 달러"
+    ],
+    [
+     "2026-09-02T06:20:25.663917+09:00",
+     "반도체 한계 호남 800조 산으로 리스크 노봉법 인프라 가는"
+    ],
+    [
+     "2026-09-02T06:20:25.663917+09:00",
+     "메모리 이유 가능성은 SK하이닉스 한일 주목하는 일본에 동맹"
+    ],
+    [
+     "2026-09-02T06:20:25.663917+09:00",
+     "정유 전쟁에 높이는 증권가 정제마진 목표가 길어지는"
+    ],
+    [
+     "2026-09-02T06:20:25.663917+09:00",
+     "캐즘 배터리 후진 끝나가는데 전기차 3년째"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/industry/general-industry/6275186",
-    "https://dealsite.co.kr/articles/168132",
-    "https://kpenews.com/View.aspx?No=4207033",
-    "https://news.knn.co.kr/news/article/191885",
-    "https://www.yna.co.kr/view/AKR20260901015700011?input=1195m",
-    "http://www.seouleconews.com/news/articleView.html?idxno=93396",
-    "https://www.yna.co.kr/view/AKR20260901022800008?input=1195m",
     "https://www.edaily.co.kr/News/Read?newsId=02601046645575856&mediaCodeNo=257",
     "https://biz.sbs.co.kr/article_hub/20000331888?division=NAVER",
     "http://www.newsmp.com/news/articleView.html?idxno=257822",
@@ -1752,16 +1773,16 @@
     "https://www.kukinews.com/article/view/kuk202609010203",
     "https://www.ddaily.co.kr/page/view/2026083111555594997",
     "https://biz.chosun.com/it-science/ict/2026/09/02/RM2RIWTCCJDWFI5DBO4EM63TTE/",
-    "https://biz.newdaily.co.kr/site/data/html/2026/09/01/2026090100298.html"
+    "https://biz.newdaily.co.kr/site/data/html/2026/09/01/2026090100298.html",
+    "https://www.newsis.com/view/NISX20260901_0003771599",
+    "https://www.news1.kr/finance/general-stock/6276862",
+    "https://www.newsis.com/view/NISX20260901_0003771864",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092169220",
+    "https://www.news1.kr/industry/general-industry/6276565",
+    "https://www.newsis.com/view/NISX20260901_0003772181",
+    "https://www.dt.co.kr/article/12081544"
    ],
    "seen_titles": [
-    "코웨이독주속쿠쿠약진,SK인텔릭스\"역성장\"…렌탈3사,올상반기...",
-    "美-베네수'25년원유협정'…정유사'단비'되나'예의주시'",
-    "[모두의AI시동]SKT·카카오·KT출격…각기다른승부수",
-    "SK증권,시장신뢰높인다..ESG공시역량글로벌인정",
-    "'SK오션플랜트'디오션컨소시엄와계약체결",
-    "[전국주요신문톱뉴스](1일조간)",
-    "생각을깊게잘하는것보다어떤생각을하느냐가더중요",
     "[마켓뷰]중동긴장에美증시약세…코스피'전약후강'보일까",
     "SFA반도체,삼성전자DDR5외주화수혜…턴어라운드기대-SK",
     "[애프터마켓리뷰]리튬가격반등·공급불확실성부각…2차전지강세",
@@ -3254,10 +3275,17 @@
     "‘드디어반등’글로벌공급망재편기대감에2차전지株빛볼까",
     "[CPU대란주의보②]‘GPU50주→HBM폭등→CPU완판’…3년만에덮친...",
     "“TSMC예약꽉찼다”…美빅테크,개량형패키징기술내세운인텔에...",
-    "[성균관대①]학종'융합인재전형'신설…'지역의사'3명도뽑는다[2..."
+    "[성균관대①]학종'융합인재전형'신설…'지역의사'3명도뽑는다[2...",
+    "[현장]\"이굴착기는괜찮습니다\"…도로위위험가려내는SKTAI",
+    "코스닥16%상승에웃지못하는이유…거래액6조초라한'빈집반등'",
+    "\"원·달러1300원초반간다는데\"…韓수출기업들'고환율특수'끝났나",
+    "\"노봉법리스크+인프라한계\"…산으로가는'800조호남반도체'",
+    "SK하이닉스,일본에주목하는이유…'한일메모리동맹'가능성은?",
+    "길어지는전쟁에정제마진'쑥'…정유株목표가높이는증권가",
+    "전기차캐즘끝나가는데…K-배터리3년째‘후진중’"
    ],
    "initialized": true,
-   "last_run": "2026-09-02T06:15:28.446644+09:00"
+   "last_run": "2026-09-02T06:20:25.663917+09:00"
   }
  },
  "press_names": {
