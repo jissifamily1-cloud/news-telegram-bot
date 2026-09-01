@@ -1065,10 +1065,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/thebio/2026/09/01/2026083119570830872",
-    "https://www.g-enews.com/view.php?ud=202608311738095396fbbec65dfb_1",
-    "http://www.bizwnews.com/news/articleView.html?idxno=144808",
-    "https://www.mt.co.kr/stock/2026/09/01/2026083120021893958",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=317361",
     "https://www.mt.co.kr/economy/2026/09/01/2026083119575639042",
     "https://www.mt.co.kr/industry/2026/09/01/2026083119514725311",
@@ -2564,13 +2560,13 @@
     "https://www.etoday.co.kr/news/view/2620718",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260902.22015000192",
     "http://www.rookie.co.kr/news/articleView.html?idxno=126524",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1179031"
+    "https://www.ggilbo.com/news/articleView.html?idxno=1179031",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609010863&t=NN",
+    "https://www.newsis.com/view/NISX20260901_0003772207",
+    "https://www.khan.co.kr/article/202609012000001",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=275979"
    ],
    "seen_titles": [
-    "[오늘의경제뉴스]AI데이터센터8.4GW,누가쓸것인가…성패관건은...",
-    "국민성장펀드,경보제약에200억투자",
-    "공모채막힌빅테크AI투자4.5조달러,사모펀드로대이동",
-    "iM뱅크,'ZENITH카드'출시…프리미엄라이프혜택담아",
     "원화강세에…미국ETF수익률희비",
     "[출근길포인트]AI시대선제대응…SK하이닉스,한국·미국이어일본...",
     "'반도체성과급'에지갑열렸다…화성·이천·청주소비'쑥'",
@@ -4066,10 +4062,14 @@
     "거래소,14일개장애프터마켓서ETFㆍETN거래제외",
     "이현중이살린불씨…男농구,월드컵본선행실낱희망",
     "KCC또'킹'으로이끌까...'3점슛43.5%'스코어러외국선수가한국행...",
-    "[주식마감]'탈모치료제'기대감에현대약품·JW신약상한가...SK디앤디..."
+    "[주식마감]'탈모치료제'기대감에현대약품·JW신약상한가...SK디앤디...",
+    "'퇴근길ETF·ETN'결국…애프터마켓서거래제외",
+    "[올댓차이나]홍콩증시,중동정세악화에하락마감…H주0.59%↓",
+    "삼전·닉스,자사주13조어치샀다···‘증시버팀목’효과지속될까",
+    "Samsung,SKhynixUnveilNext-GenMemoryStrategiesinTaiwan"
    ],
    "initialized": true,
-   "last_run": "2026-09-01T20:05:17.654981+09:00"
+   "last_run": "2026-09-01T20:10:23.303427+09:00"
   }
  },
  "press_names": {
