@@ -314,14 +314,17 @@
     [
      "2026-09-02T06:45:21.058243+09:00",
      "9월 광역단체장 전국 일정 2일"
+    ],
+    [
+     "2026-09-02T06:55:16.537803+09:00",
+     "100년 200년 기업으로 신성엽 정진 대표 원림 영속"
+    ],
+    [
+     "2026-09-02T06:55:16.537803+09:00",
+     "완료 메리츠 자사주 신고 물량 전망 소화 10월16일 SK하닉"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260901025800008?input=1195m",
-    "https://www.hankyung.com/article/2026090152106",
-    "https://www.ntoday.co.kr/news/articleView.html?idxno=129058",
-    "https://www.public25.com/news/articleView.html?idxno=53733",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=482200",
     "https://biz.sbs.co.kr/article_hub/20000331899?division=NAVER",
     "https://biz.heraldcorp.com/article/10858047",
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=706722",
@@ -1816,14 +1819,14 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609020268&t=NN",
     "https://www.labortoday.co.kr/news/articleView.html?idxno=236557",
     "https://www.dailian.co.kr/news/view/1685239/?sc=Naver",
-    "https://www.newspim.com/news/view/20260901001274"
+    "https://www.newspim.com/news/view/20260901001274",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005913263",
+    "https://www.kyeonggi.com/article/20260902580003",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=443708",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=52522",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=94615"
    ],
    "seen_titles": [
-    "[오늘의브릿지경제1면][단독]‘마이바흐1년치를두달만에’⋯2...",
-    "한투증권\"9월투자전략,IT대형주에시클리컬업종추가\"",
-    "\"SK이노베이션,미국ESS시장진출첫걸음고무적이지만…\"-iM",
-    "최태원,취임28주년…'부상투혼'부터'하닉소각'까지발빨랐다",
-    "[코스피·코스닥,삼성물산셀트리온한화에어로스페이스토스뱅크한신...",
     "합칠곳합치고키울곳키운다…SK그룹,리밸런싱으로계열사'합종연...",
     "[기업이슈]SK온,美ESS대규모수주에…2차전지관련주강세",
     "‘3.5%급락→상승마감’코스피…美증시약세딛고오늘도‘후반반...",
@@ -3318,10 +3321,15 @@
     "상반기급여1위,\"삼전닉스아니네\"...성과급덕에'쑥'",
     "산업부,반도체경쟁력강화5년계획만든다",
     "용혜인,안산주택'단타'…中국적자에팔아2000만원차익등[9/2(수)...",
-    "전국광역단체장9월2일일정"
+    "전국광역단체장9월2일일정",
+    "500대기업상반기평균급여5,499만원…금융지주·증권'고연봉'독식",
+    "대기업상반기평균급여5천499만원…전년대비7.1%늘었다",
+    "뉴욕증시,미국과이란교전재개와인플레우려등영향하락⋯엔비디아...",
+    "[인터뷰]신성엽원림대표\"100년,200년영속기업으로정진\"",
+    "메리츠證\"SK하닉자사주신고물량21.6%소화\"…10월16일완료전망"
    ],
    "initialized": true,
-   "last_run": "2026-09-02T06:50:23.095026+09:00"
+   "last_run": "2026-09-02T06:55:16.537803+09:00"
   }
  },
  "press_names": {
