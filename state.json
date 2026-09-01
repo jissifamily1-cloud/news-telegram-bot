@@ -702,12 +702,13 @@
     [
      "2026-09-01T22:10:27.154855+09:00",
      "170조 순매도 오른다 정치가 놔둬야 외인 삼전닉스"
+    ],
+    [
+     "2026-09-01T22:25:19.340369+09:00",
+     "늘렸지만 우려 슈퍼예산 162조 기후 미래대응기금 820조"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026083146441",
-    "https://www.ddaily.co.kr/page/view/2026083111451975231",
-    "https://www.dailian.co.kr/news/view/1684609/?sc=Naver",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=852137",
     "https://www.bloter.net/news/articleView.html?idxno=672228",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=310097",
@@ -2204,12 +2205,12 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8652015",
     "http://www.inews24.com/view/2000837",
     "https://www.ajunews.com/view/20260901212921263",
-    "https://www.hankyung.com/article/2026090173176"
+    "https://www.hankyung.com/article/2026090173176",
+    "https://www.hankookilbo.com/news/article/A2026090115030000904?did=NA",
+    "https://www.venturesquare.net/1110186/",
+    "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307389"
    ],
    "seen_titles": [
-    "리가켐이어경보제약⋯정부‘ADC’연속베팅이유는",
-    "삼전닉스말고또있다…큰손이찍은韓'잠자는호랑이'",
-    "[CPU대란주의보①]\"GPU1개당CPU1개\"…빅테크수장사이로터져나...",
     "'구형·저가'머물던中반도체옛말…플래그십까지파고든다",
     "[출근길브리핑-9월1일]제주실종사건'사인불명'·국힘'당협위원장...",
     "[박종면칼럼]스마일게이트권혁빈이혼재판과재산분할시나리오",
@@ -3706,10 +3707,13 @@
     "[시사플랫폼]“청와대부담덜기위해김용범사퇴…개각으로대통령...",
     "최성환SK네트웍스사장,보유주식대부분매도…45억원규모",
     "[오늘의뉴스종합]애프터마켓서ETF·ETN은거래못한다",
-    "\"삼전닉스,정치가놔둬야오른다\"…외인170조순매도[분석+]"
+    "\"삼전닉스,정치가놔둬야오른다\"…외인170조순매도[분석+]",
+    "LG·한화·삼성계약학과생긴다…부산대·전남대·충남대'국가대표거...",
+    "국가AI모델,국민서비스까지가볍게돌린다…노타‘모두의AI’참여",
+    "820조'슈퍼예산'…'기후'18%늘렸지만162조미래대응기금\"우려\""
    ],
    "initialized": true,
-   "last_run": "2026-09-01T22:20:23.076603+09:00"
+   "last_run": "2026-09-01T22:25:19.340369+09:00"
   }
  },
  "press_names": {
