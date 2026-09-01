@@ -162,12 +162,21 @@
     [
      "2026-09-02T04:20:23.919273+09:00",
      "나스닥 마이크론 뉴욕증시에선 장중 출렁 메모리ETF SKHY"
+    ],
+    [
+     "2026-09-02T04:30:33.340421+09:00",
+     "삼성 넘는다 승부수 한계 메모리 CUBE"
+    ],
+    [
+     "2026-09-02T04:30:33.340421+09:00",
+     "있는 인프라 성능보다 능력 관건 운영 신뢰할 새로운 IBM"
+    ],
+    [
+     "2026-09-02T04:30:33.340421+09:00",
+     "요동에 시장 달러 경고 160조 빅테크 거품 부채 채권"
     ]
    ],
    "seen_urls": [
-    "http://www.issuenbiz.com/news/articleView.html?idxno=79259",
-    "http://www.e-platform.net/news/articleView.html?idxno=104943",
-    "https://www.ziksir.com/news/articleView.html?idxno=144890",
     "https://www.topstarnews.net/news/articleView.html?idxno=16178863",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=272994",
     "https://www.womennews.co.kr/news/articleView.html?idxno=281624",
@@ -1664,12 +1673,12 @@
     "https://www.mt.co.kr/industry/2026/09/02/2026090119580446657",
     "https://www.mt.co.kr/stock/2026/09/02/2026090120032059692",
     "https://www.g-enews.com/view.php?ud=2026090118320380779a1f309431_1",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=170821"
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=170821",
+    "https://www.mt.co.kr/industry/2026/09/02/2026090119464455173",
+    "https://www.aitimes.com/news/articleView.html?idxno=214723",
+    "https://www.g-enews.com/view.php?ud=202609011826078483fbbec65dfb_1"
    ],
    "seen_titles": [
-    "말로만주주환원…우선주,보통주대비반값거래수두룩",
-    "[김성욱의세상과시간]사람과사람을이어주는AI의하루",
-    "9월국내LPG공급가격인상요인에도'동결'",
     "외인·기관1.3조매물폭탄…삼전닉스,1.5조'자사주방패'로막았다",
     "미국증시,중동긴장·장기금리부담에혼조…다우0.70%↓·반도체반등",
     "AI호재와시공악재겹친SK에코플랜트,SK오션플랜트'매각'",
@@ -3166,10 +3175,13 @@
     "\"맨홀이탐지됐습니다\"…통신망위험물찾는'매눈'",
     "개인·외인·기관떠난코스피,자사주가지켰다",
     "EU‘탈중국배터리’해법으로韓3사부상",
-    "장중뉴욕증시에선..메모리ETF·마이크론·SKHY'출렁',나스닥'뚝'"
+    "장중뉴욕증시에선..메모리ETF·마이크론·SKHY'출렁',나스닥'뚝'",
+    "메모리한계넘는다,삼성'CUBE'승부수",
+    "IBM\"AI성능보다'신뢰할수있는운영능력'이관건…새로운인프라준...",
+    "160조달러채권시장요동에빅테크부채거품경고"
    ],
    "initialized": true,
-   "last_run": "2026-09-02T04:25:19.550814+09:00"
+   "last_run": "2026-09-02T04:30:33.340421+09:00"
   }
  },
  "press_names": {
