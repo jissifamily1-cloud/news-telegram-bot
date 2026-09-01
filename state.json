@@ -934,13 +934,13 @@
     [
      "2026-09-01T20:55:20.584391+09:00",
      "전망 최고 500달러 극과 마이크론 최저 360달러"
+    ],
+    [
+     "2026-09-01T21:05:21.580374+09:00",
+     "주요기사 아침의 비즈니스포스트"
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/09/01/20260901027003?wlog_tag3=naver",
-    "https://www.newsis.com/view/NISX20260831_0003770107",
-    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375328",
-    "https://www.fnnews.com/news/202609010528256643",
     "https://www.sedaily.com/article/20085522",
     "https://www.newsis.com/view/NISX20260831_0003770243",
     "https://www.mediapen.com/news/view/1120221",
@@ -2436,13 +2436,13 @@
     "https://www.veritas-a.com/news/articleView.html?idxno=625662",
     "https://www.veritas-a.com/news/articleView.html?idxno=625661",
     "http://www.bizwnews.com/news/articleView.html?idxno=144902",
-    "http://coinreaders.com/255947"
+    "http://coinreaders.com/255947",
+    "http://www.kjdaily.com/article.php?aid=1788263772685763227",
+    "https://www.tjb.co.kr/news05/bodo/view/id/103085",
+    "https://www.greened.kr/news/articleView.html?idxno=348994",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=446160"
    ],
    "seen_titles": [
-    "1조원오파칼림베팅…SK바이오팜경영진잇따라자사주매입",
-    "[사설]막오른정기국회…입법·예산‘묻지마속도전’없어야",
-    "SK온,1.5조원대美ESS공급계약…실적반등·공장전환'속도'",
-    "'이현중25점'한국,사우디아라비아에85-72승리...월드컵본선진출...",
     "[뉴욕증시]'미-이란교전재개'에하락…8월전체로는상승",
     "반도체성과급받아테슬라산다…‘반세권’소비최대4%증가[Pick코...",
     "최태원\"투자검토중\"…SK하이닉스,美·日추가생산거점어디에",
@@ -3938,10 +3938,14 @@
     "[2027과고경쟁률]충남2.78대1'상승'",
     "[2027과고경쟁률]대구일2.89대1'상승'",
     "하나증권,'DiscoverKorea'행사마쳐",
-    "마이크론전망극과극!최저360달러·최고3,500달러"
+    "마이크론전망극과극!최저360달러·최고3,500달러",
+    "[주식마감]JW신약·현대약품상한가…삼성전자·SK하이닉스도상승",
+    "(R)\"충남대,서울대10개선봉\"\"..5년간3,500억지원",
+    "67조'아산투자'첫발…삼성디스플레이,2028년6월까지신규라인구축",
+    "[9월2일자]비즈니스포스트아침의주요기사"
    ],
    "initialized": true,
-   "last_run": "2026-09-01T21:00:39.306158+09:00"
+   "last_run": "2026-09-01T21:05:21.580374+09:00"
   }
  },
  "press_names": {
