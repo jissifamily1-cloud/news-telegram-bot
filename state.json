@@ -918,19 +918,21 @@
     [
      "2026-09-01T21:05:21.580374+09:00",
      "주요기사 아침의 비즈니스포스트"
+    ],
+    [
+     "2026-09-01T21:15:26.545412+09:00",
+     "과제 SK오션플랜트 주인"
+    ],
+    [
+     "2026-09-01T21:15:26.545412+09:00",
+     "멘토링 UOS 페스티벌 공기업 채용 8일 서울시립대 현직자"
+    ],
+    [
+     "2026-09-01T21:15:26.545412+09:00",
+     "초비상 찔렀다 환호했는데 반전에 급소 7년 한국"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20085522",
-    "https://www.newsis.com/view/NISX20260831_0003770243",
-    "https://www.mediapen.com/news/view/1120221",
-    "https://www.monews.co.kr/news/articleView.html?idxno=413501",
-    "https://www.sedaily.com/article/20085530",
-    "https://www.koreaherald.com/article/10857682",
-    "https://www.dt.co.kr/article/12081280",
-    "https://view.asiae.co.kr/article/2026090105573014992",
-    "http://www.beyondpost.co.kr/view.php?ud=2026090105354876022aaae0046f_30",
-    "https://www.mt.co.kr/industry/2026/09/01/2026083016270948087",
     "https://www.ddaily.co.kr/page/view/2026082816563927007",
     "https://news.mtn.co.kr/news-detail/2026083116181754368",
     "https://www.etoday.co.kr/news/view/2620071",
@@ -2420,19 +2422,19 @@
     "http://www.kjdaily.com/article.php?aid=1788263772685763227",
     "https://www.tjb.co.kr/news05/bodo/view/id/103085",
     "https://www.greened.kr/news/articleView.html?idxno=348994",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=446160"
+    "https://www.businesspost.co.kr/BP?command=article_view&num=446160",
+    "https://www.mk.co.kr/article/12138812",
+    "https://www.sedaily.com/article/20086042",
+    "https://www.khan.co.kr/article/202609012110025",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260901210612fig",
+    "https://www.segye.com/newsView/20260901517277?OutUrl=naver",
+    "https://www.hankyung.com/article/2026090177307",
+    "https://tjmbc.co.kr/NewsArticle/859960",
+    "https://www.knnews.co.kr/news/articleView.php?idxno=1549874",
+    "https://www.fnnews.com/news/202609012108091052",
+    "https://www.hankyung.com/article/2026090174781"
    ],
    "seen_titles": [
-    "[뉴욕증시]'미-이란교전재개'에하락…8월전체로는상승",
-    "반도체성과급받아테슬라산다…‘반세권’소비최대4%증가[Pick코...",
-    "최태원\"투자검토중\"…SK하이닉스,美·日추가생산거점어디에",
-    "[美증시]美이란공격·금리인상우려에3대지수동반하락…메모리주...",
-    "'오파칼림'기대속계산기두드리는증권가",
-    "퀄컴·Arm에긴장하는엔비디아·인텔...스마트폰칩기업은왜데이터센...",
-    "[YooChoon-sik]Fiscalexpansionvs.BOKtightening",
-    "‘삼전닉스’자사주로방어선구축…주가반등추세이어질까",
-    "[뉴욕증시]미·이란충돌재개…유가상승에하락마감",
-    "엔비디아1.5%,마이크론1.7%↑...반도체주,미-이란교전재개에도반...",
     "'억'소리나는성과급계산기보다필요한것[기자수첩]",
     "[모두의AI㊦]중소·중견주도팀고배…업계“AI생태계이익확산구...",
     "美전력망서'中빗장'건트럼프…韓배터리3사,볕들까",
@@ -3922,10 +3924,20 @@
     "[주식마감]JW신약·현대약품상한가…삼성전자·SK하이닉스도상승",
     "(R)\"충남대,서울대10개선봉\"\"..5년간3,500억지원",
     "67조'아산투자'첫발…삼성디스플레이,2028년6월까지신규라인구축",
-    "[9월2일자]비즈니스포스트아침의주요기사"
+    "[9월2일자]비즈니스포스트아침의주요기사",
+    "내집마련나선2030…왜은평구인가[감평사의부동산현장진단]",
+    "마이크론대만노조파업예고···이익배분요구",
+    "충청권첨단산업,삼성디스플레이67조원투자로첫발",
+    "미·이란충돌에도코스피상승…'자사주'방어",
+    "삼성“메모리초격차유지”…용량·대역폭·효율다잡는다",
+    "애프터마켓서ETF·ETN거래제외…14일부터적용",
+    "[리포트]충남대,빅3선도대학선정⋯\"3천5백억원지원\"",
+    "[초점]SK오션플랜트새주인과제",
+    "서울시립대,8일'2026UOS잡페스티벌'…공기업채용·현직자멘토링...",
+    "\"中급소찔렀다\"환호했는데…7년후반전에한국'초비상'"
    ],
    "initialized": true,
-   "last_run": "2026-09-01T21:10:26.042034+09:00"
+   "last_run": "2026-09-01T21:15:26.545412+09:00"
   }
  },
  "press_names": {
