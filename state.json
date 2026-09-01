@@ -1130,16 +1130,13 @@
     [
      "2026-09-01T18:45:25.140618+09:00",
      "동시에 반도체주에 매수세와 몰렸다 코스피 공매도"
+    ],
+    [
+     "2026-09-01T19:00:34.089506+09:00",
+     "LG유플러스 주목할 종목 SK텔레콤 SK이노베이션"
     ]
    ],
    "seen_urls": [
-    "https://www.polinews.co.kr/news/articleView.html?idxno=741715",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=52474",
-    "https://www.edaily.co.kr/News/Read?newsId=05323446645552896&mediaCodeNo=257",
-    "https://www.edaily.co.kr/News/Read?newsId=05320166645552896&mediaCodeNo=257",
-    "http://www.newstown.co.kr/news/articleView.html?idxno=714240",
-    "https://www.joongang.co.kr/article/25457879",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=86663",
     "https://www.joongang.co.kr/article/25457886",
     "https://www.joongang.co.kr/article/25457883",
     "https://www.newspim.com/news/view/20260901000002",
@@ -2632,16 +2629,16 @@
     "https://biz.heraldcorp.com/article/10859016",
     "https://www.news1.kr/world/northeast-asia/6276775",
     "https://news.tf.co.kr/read/economy/2360697.htm",
-    "https://www.junggi.co.kr/news/articleView.html?idxno=37621"
+    "https://www.junggi.co.kr/news/articleView.html?idxno=37621",
+    "https://sports.hankooki.com/news/articleView.html?idxno=6938841",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=52508",
+    "https://www.joongdo.co.kr/web/view.php?key=20260901010000347",
+    "https://www.newstnt.com/news/articleView.html?idxno=716103",
+    "https://www.womentimes.co.kr/news/articleView.html?idxno=105841",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260901184754A17",
+    "https://www.hellot.net/news/article.html?no=114695"
    ],
    "seen_titles": [
-    "YMTC낸드증산본격화…삼성·SK하이닉스생산격차좁혀질까",
-    "'모두의AI'출범…검색·대화부터일상업무지원까지",
-    "반도체호황,내수로번졌다…성과급소비효과1.7조",
-    "[단독]中CXMT,화웨이·샤오미업고글로벌안착…K메모리흔들까",
-    "[단독]내수용오명벗은中CXMT…매출64%해외서거뒀다",
-    "반인숙안성시의회의장,기후에너지환경부장관방문동행…지역환경...",
-    "SK온,미국ESS시장서1.5조배터리셀계약",
     "[심층분석]3.5%급락딛고돌아선코스피…반도체·2차전지대형주가반...",
     "‘하닉성과급’어디로가나…이천‘부동산’청주‘백화점’",
     "“한·일,서로의시장넓혀주자”…최태원‘경제연대론’또제안",
@@ -4134,10 +4131,17 @@
     "‘코스피보다더낫다’8월에만2조원폭풍매수…코스닥에몰려가는개...",
     "대만마이크론노조도'성과급파업'예고…\"삼전·닉스보라\"",
     "롯데,롯데렌탈매각10월내종결…1조3000억원유입",
-    "코스피반도체주에매수세와공매도동시에몰렸다"
+    "코스피반도체주에매수세와공매도동시에몰렸다",
+    "하나증권,푸투증권VIP투자자초청'DiscoverKorea'성료",
+    "중동악재에도코스피뒷심…반도체주반등에6836마감",
+    "[충남대,서울대10개국가대표로]교육-연구-산업연결'NEXUS'들여다보...",
+    "[공시]9월2일,코스피상장사51개종목자사주매수신청",
+    "삼성전자·SK하이닉스,8월에만자사주매입21%집행...10월종료전망",
+    "코스피6,800선회복…삼전닉스자사주매입효과",
+    "[헬로스톡]9/1주목할종목:LG유플러스·SK텔레콤·SK이노베이션·현..."
    ],
    "initialized": true,
-   "last_run": "2026-09-01T18:55:19.176649+09:00"
+   "last_run": "2026-09-01T19:00:34.089506+09:00"
   }
  },
  "press_names": {
