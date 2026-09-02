@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-02T14:00:33.247546+09:00",
-     "쩐의 벌이는 빅테크가"
-    ],
-    [
-     "2026-09-02T14:00:33.247546+09:00",
-     "조지아 한국인 사태 1년 인력들 구금 현장 돌아오는"
-    ],
-    [
-     "2026-09-02T14:00:33.247546+09:00",
-     "함부르크서 조선해양기업 6개사 개척 판로 수출 울산"
-    ],
-    [
-     "2026-09-02T14:00:33.247546+09:00",
-     "거론되자 가나 세종행 금융당국 어디로 들썩 부산이"
-    ],
-    [
-     "2026-09-02T14:00:33.247546+09:00",
-     "마이크론 글로벌 노조 이익 원가 요구한 부담 설비투자"
-    ],
-    [
      "2026-09-02T14:10:23.910980+09:00",
      "global audit peers behind far lag Korean fees"
     ],
@@ -1186,12 +1166,17 @@
     [
      "2026-09-02T19:50:26.421637+09:00",
      "STX그린로지스 해운주 호르무즈해협 우려에 봉쇄"
+    ],
+    [
+     "2026-09-02T20:00:35.213336+09:00",
+     "취업박람회 기업 삼육대 부울경 청년과 잇는 개최 수도권"
+    ],
+    [
+     "2026-09-02T20:00:35.213336+09:00",
+     "KCC 특급 우승 롱의 듀오 1옵션 우린 건재해 이끈 송최 빠졌어도"
     ]
    ],
    "seen_urls": [
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608311437020840106045",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608310947076920101485",
-    "https://dealsite.co.kr/articles/168152",
     "https://dealsite.co.kr/articles/167805",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608311605002680108594",
     "https://futurechosun.com/?p=159170",
@@ -2688,12 +2673,12 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16180746",
     "https://www.cbci.co.kr/news/articleView.html?idxno=603212",
     "https://www.edaily.co.kr/News/Read?newsId=05146326645576184&mediaCodeNo=257",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1179324"
+    "https://www.ggilbo.com/news/articleView.html?idxno=1179324",
+    "https://www.joongang.co.kr/article/25458575",
+    "http://www.withinnews.co.kr/news/view.html?section=1&category=139&no=40301",
+    "http://www.rookie.co.kr/news/articleView.html?idxno=126562"
    ],
    "seen_titles": [
-    "대기업직원상반기평균급여5499만원…1년새7.1%상승",
-    "국제유가5%급등…美·이란장중교전재개[글로벌머니플로우]",
-    "포스코인터·GS리테일법인세1425억…10대유통사절반넘어[2026년상...",
     "[V차트]티엘비,AI서버용PCB확대...2Q호실적",
     "[Invest]AI인프라짓기만하면돈버는데…SK제외하면속도더딘대기업...",
     "티빙,쿠팡과징금유탄맞나…‘남일아니다’유통플랫폼초긴장",
@@ -4190,10 +4175,13 @@
     "아시안게임남자농구최종명단…최준용,이현중·여준석과금메달도전...",
     "이병철,'불멸의총수'1위수성'7개월연속'…정주영·유일한2위권치...",
     "9부능선넘은롯데렌탈인수전…TPG,공정위승인[마켓인]",
-    "[주식마감]호르무즈해협봉쇄우려에'해운주'↑...STX그린로지스상..."
+    "[주식마감]호르무즈해협봉쇄우려에'해운주'↑...STX그린로지스상...",
+    "최태원“키옥시아와공동생산등가능…연내日투자안내놓을것”",
+    "삼육대,수도권청년과부울경기업잇는취업박람회개최",
+    "\"송최듀오빠졌어도우린건재해\"KCC우승이끈'특급1옵션'숀롱의..."
    ],
    "initialized": true,
-   "last_run": "2026-09-02T19:55:19.341128+09:00"
+   "last_run": "2026-09-02T20:00:35.213336+09:00"
   }
  },
  "press_names": {
@@ -4794,6 +4782,7 @@
   "golfjournal.co.kr": "골프저널 Golf Journal",
   "wflower.info": "2026 Woman's Flower News",
   "golfdigest.co.kr": "골프다이제스트코리아",
-  "brainmedia.co.kr": "brainmedia.co.kr"
+  "brainmedia.co.kr": "brainmedia.co.kr",
+  "withinnews.co.kr": "withinnews.co.kr"
  }
 }
