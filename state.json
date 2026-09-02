@@ -762,14 +762,25 @@
     [
      "2026-09-02T22:00:37.516044+09:00",
      "공감 워크숍 덕양에너젠과 SK이노 전력거래소 소통"
+    ],
+    [
+     "2026-09-02T22:10:24.695298+09:00",
+     "상승에 하락 회피 코스피 마감 위험자산 국제유가"
+    ],
+    [
+     "2026-09-02T22:10:24.695298+09:00",
+     "드러낸 최원태 닥터K 진면목 삼진쇼 10K"
+    ],
+    [
+     "2026-09-02T22:10:24.695298+09:00",
+     "환승 써요 달라졌다 요즘 해외여행객들이 막으 로밍 누가 이심"
+    ],
+    [
+     "2026-09-02T22:10:24.695298+09:00",
+     "반도체주 큰일 브로드컴에 달렸다 떨어지면 삼전닉스"
     ]
    ],
    "seen_urls": [
-    "https://www.insightkorea.co.kr/news/articleView.html?idxno=253654",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2465336",
-    "https://biz.sbs.co.kr/article_hub/20000332191?division=NAVER",
-    "https://www.etoday.co.kr/news/view/2620758",
-    "https://www.sentv.co.kr/article/view/sentv202609020005",
     "https://www.lecturernews.com/news/articleView.html?idxno=209861",
     "https://www.smartbizn.com/news/articleView.html?idxno=152764",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=727189",
@@ -2264,14 +2275,14 @@
     "https://mpmbc.co.kr/NewsArticle/1535123",
     "https://www.ulsanpress.net/news/articleView.html?idxno=582252",
     "https://www.hankyung.com/article/202609020591i",
-    "https://www.ekn.kr/web/view.php?key=20260902023199655"
+    "https://www.ekn.kr/web/view.php?key=20260902023199655",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609020846&t=NN",
+    "https://www.betanews.net/article/view/beta202609020123",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=558498",
+    "https://www.sedaily.com/article/20086536",
+    "https://www.hankyung.com/article/2026090298976"
    ],
    "seen_titles": [
-    "'김용범사퇴로끝날일아니다?'…레버리지ETF국감도마",
-    "[오늘의증시]유가·금리발작에美증시'출렁'…코스피,하락출발전망",
-    "뉴욕증시,유가·국채금리급등에일제히하락마감…나스닥1.03%↓",
-    "[오늘의투자전략]코스피,유가ㆍ금리부담에하락출발전망⋯“급락...",
-    "SK,'나트륨SMR'베팅…민간주도원전사업모델시험대에오르다",
     "[단독]보험권도'N%성과급'요구안첫등장...KB손보노조\"당기순익의...",
     "SamsungElectronics和SKhynix绩效奖金点燃海外存储行业劳资矛盾",
     "반도체업계'글로벌인재쟁탈전'심화···삼전,성과급등다양한미...",
@@ -3766,10 +3777,15 @@
     "800조반도체투자…지역성장으로이어지려면",
     "'WAVE2026'10일개막…제조업AX청사진제시",
     "러트닉,\"수입반도체관세부과방안검토중\"…또대미투자압박",
-    "[에너지소식]전력거래소,공감·소통워크숍…SK이노E&S,덕양에너젠과..."
+    "[에너지소식]전력거래소,공감·소통워크숍…SK이노E&S,덕양에너젠과...",
+    "러트닉상무장관\"반도체관세체계마련중\"",
+    "코스피,4%하락마감...국제유가상승에위험자산'회피'",
+    "10K삼진쇼…진면목드러낸'닥터K'최원태",
+    "“요즘누가로밍써요”해외여행객들이달라졌다…‘이심환승’막으...",
+    "\"삼전닉스더떨어지면큰일\"…브로드컴에반도체주달렸다[분석+]"
    ],
    "initialized": true,
-   "last_run": "2026-09-02T22:05:24.575134+09:00"
+   "last_run": "2026-09-02T22:10:24.695298+09:00"
   }
  },
  "press_names": {
