@@ -178,15 +178,33 @@
     [
      "2026-09-03T04:15:24.549461+09:00",
      "악몽 부르나 커지는 ELS 주식형랩 손실"
+    ],
+    [
+     "2026-09-03T04:40:24.024675+09:00",
+     "기업 자금조달 길목 돌부리 규제 곳곳에"
+    ],
+    [
+     "2026-09-03T04:40:24.024675+09:00",
+     "구금사태 Hyundai 출장 비자 1년 이젠 일사천리"
+    ],
+    [
+     "2026-09-03T04:40:24.024675+09:00",
+     "AI경쟁 투자 주주환원 삼전닉스는 골든타임 잃을수도 150조"
+    ],
+    [
+     "2026-09-03T04:40:24.024675+09:00",
+     "두달만에 소비자물가 반등 지난달 올라 대로"
+    ],
+    [
+     "2026-09-03T04:40:24.024675+09:00",
+     "늘고 위축 기업투자 뜀박질 국채금리도 이자부담 우려"
+    ],
+    [
+     "2026-09-03T04:40:24.024675+09:00",
+     "생산성 반등 과도기 J자처럼 겪어야"
     ]
    ],
    "seen_urls": [
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=143882",
-    "https://www.news1.kr/economy/trend/6276941",
-    "https://www.m-economynews.com/news/article.html?no=70324",
-    "https://www.kukinews.com/article/view/kuk202609020012",
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=63705",
-    "https://www.segye.com/newsView/20260902503582?OutUrl=naver",
     "https://www.newsis.com/view/NISX20260902_0003772445",
     "https://www.goodkyung.com/news/articleView.html?idxno=290870",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1722609",
@@ -1680,15 +1698,15 @@
     "https://www.medigatenews.com/news/2862854755",
     "https://www.g-enews.com/view.php?ud=202609021920379198fbbec65dfb_1",
     "https://www.mt.co.kr/stock/2026/09/03/2026090219412252955",
-    "https://www.mt.co.kr/stock/2026/09/03/2026090219412118476"
+    "https://www.mt.co.kr/stock/2026/09/03/2026090219412118476",
+    "https://www.donga.com/news/Economy/article/all/20260903/134595085/2",
+    "https://www.donga.com/news/People/article/all/20260903/134595070/2",
+    "https://www.donga.com/news/Economy/article/all/20260903/134595087/2",
+    "https://www.donga.com/news/Economy/article/all/20260903/134595415/2",
+    "https://www.donga.com/news/Economy/article/all/20260903/134595417/2",
+    "https://www.donga.com/news/People/article/all/20260903/134595066/2"
    ],
    "seen_titles": [
-    "SG,인니960㎞도로인프라시장공략…현지생산체계구축",
-    "[속보]소비자물가두달만3%대로'껑충'…작년SK통신비할인'기저효...",
-    "[르포]달리는차가통신망훑는다…SKT,AI로'사람점검'바꾼다",
-    "\"한국AI투자최대수혜자는엔비디아…모티프왜탈락했나\"[IT썰]",
-    "홍콩식단일종목'가변'레버리지무가동…\"투자자보호난제\"",
-    "[증시포인트]하락출발전망...장중낙폭만회할듯",
     "물가두달만에3%대,통신기저효과에상승…추석밥상부담여전",
     "500대기업상반기평균급여7.1%↑...금융지주·증권‘상위권’",
     "8월물가3.1%로다시3%대…정부“통신비효과빼면2.5%”",
@@ -3182,10 +3200,16 @@
     "SK바이오팜,엔비디아AI가속기'B200'128장도입으로'TR-AX'고도화",
     "300%뛴반도체ETF,삼각수렴진입…한국메모리공급망촉각",
     "4조던진외인·기관…코스피4%주르륵",
-    "ELS악몽부르나…손실커지는주식형랩"
+    "ELS악몽부르나…손실커지는주식형랩",
+    "기업자금조달길목곳곳에규제‘돌부리’",
+    "“구금사태1년,이젠‘Hyundai출장’비자일사천리”",
+    "AI경쟁속삼전닉스는150조주주환원“투자골든타임잃을수도”",
+    "지난달소비자물가3.1%올라두달만에3%대로반등",
+    "韓국채금리도4.4%로뜀박질,이자부담늘고기업투자위축우려",
+    "“AI전환,과도기겪어야J자처럼생산성반등”"
    ],
    "initialized": true,
-   "last_run": "2026-09-03T04:35:18.491570+09:00"
+   "last_run": "2026-09-03T04:40:24.024675+09:00"
   }
  },
  "press_names": {
