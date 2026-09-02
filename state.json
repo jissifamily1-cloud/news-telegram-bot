@@ -362,14 +362,25 @@
     [
      "2026-09-03T00:30:34.634220+09:00",
      "유호림 만에 정책도 타이밍 종부세 조세 29일 수정"
+    ],
+    [
+     "2026-09-03T00:45:23.591410+09:00",
+     "승부처 성능 받침대가 경쟁 첨단 HBM 아래"
+    ],
+    [
+     "2026-09-03T00:45:23.591410+09:00",
+     "선박 내고 급행료 사상 SK가스 파나마 최고 통과 운하 74억원"
+    ],
+    [
+     "2026-09-03T00:45:23.591410+09:00",
+     "TSMC 패키징 주목 첨단 대안으로 기술 인텔"
+    ],
+    [
+     "2026-09-03T00:45:23.591410+09:00",
+     "탐지됐습니다 통신망 미리 찾는 공사장 AI가 위험"
     ]
    ],
    "seen_urls": [
-    "http://www.metroseoul.co.kr/article/20260902500011",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608271718236200102319",
-    "https://www.newsis.com/view/NISX20260902_0003772411",
-    "https://www.newspim.com/news/view/20260902000078",
-    "https://www.m-i.kr/news/articleView.html?idxno=1408880",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1722607",
     "http://www.segyebiz.com/newsView/20260902503475?OutUrl=naver",
     "https://biz.sbs.co.kr/article_hub/20000332203?division=NAVER",
@@ -1864,14 +1875,14 @@
     "https://www.news1.kr/world/usa-canada/6278217",
     "https://www.thedailypost.kr/news/articleView.html?idxno=115352",
     "https://www.sedaily.com/article/20086492",
-    "https://news.cpbc.co.kr/article/1175506?division=NAVER"
+    "https://news.cpbc.co.kr/article/1175506?division=NAVER",
+    "https://www.joongang.co.kr/article/25458662",
+    "https://www.chosun.com/economy/tech_it/2026/09/03/SB4UAVELUFH7PGWZF46WFFVZBY/",
+    "https://www.chosun.com/economy/economy_general/2026/09/03/OHXBCSLT3JB3RKXZ4ECT2BAOYE/",
+    "https://www.chosun.com/economy/tech_it/2026/09/03/KWZW6YRUBNEPVESZA3DI37VNHM/",
+    "https://www.donga.com/news/Economy/article/all/20260902/134592397/2"
    ],
    "seen_titles": [
-    "SK브로드밴드,셋톱박스를‘홈오브제’로..AI5세계4대디자인상석...",
-    "[원자재시황]유가5%뛰자미국채금리도5bp올랐다",
-    "[클릭e종목]\"엠케이전자,SoCAMM2타고AI패키징소재주로재평가\"",
-    "(LEAD)Consumerpricesup3.1pctinAug.onfuel,mobilesubscriptionf",
-    "[뉴욕증시]국제유가·국채금리충격에'휘청'…나스닥1.03%↓",
     "반도체호황,지역소비긍정적…확산열쇠는고용",
     "[더벨][이슈&보드]SK이노-SKIET합병,특별위3개월거친이유",
     "중동전운다시고조…삼전·SK하닉프리마켓서3%약세",
@@ -3366,10 +3377,15 @@
     "美해군함정후보에韓·日·튀르키예함정올라…충남급호위함검토\"",
     "서울대강단선SKT정재헌대표\"AI시대핵심은인재의통찰과공감\"",
     "증권채수요예측흥행가도…하나·DB證에2.6조몰렸다[시그널]",
-    "[시사천국]유호림\"조세정책도타이밍\"…29일만에종부세수정"
+    "[시사천국]유호림\"조세정책도타이밍\"…29일만에종부세수정",
+    "지인청탁문자,식약처장에그대로보낸김승원",
+    "첨단HBM성능경쟁…맨아래받침대가승부처",
+    "74억원사상최고급행료내고…SK가스선박,파나마운하통과",
+    "인텔첨단패키징기술,TSMC대안으로주목",
+    "“삐,공사장탐지됐습니다”…AI가미리찾는통신망위험"
    ],
    "initialized": true,
-   "last_run": "2026-09-03T00:40:25.098624+09:00"
+   "last_run": "2026-09-03T00:45:23.591410+09:00"
   }
  },
  "press_names": {
