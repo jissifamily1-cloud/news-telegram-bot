@@ -306,12 +306,21 @@
     [
      "2026-09-03T00:45:23.591410+09:00",
      "탐지됐습니다 통신망 미리 찾는 공사장 AI가 위험"
+    ],
+    [
+     "2026-09-03T01:15:22.221011+09:00",
+     "SK이노 10주년 후원 음악축제 발달장애인"
+    ],
+    [
+     "2026-09-03T01:15:22.221011+09:00",
+     "화성시 안성시 오산시 평택시 수원시"
+    ],
+    [
+     "2026-09-03T01:15:22.221011+09:00",
+     "견뎌야 J커브로 불편함의 성장 골짜기 AX"
     ]
    ],
    "seen_urls": [
-    "http://www.segyebiz.com/newsView/20260902503475?OutUrl=naver",
-    "https://biz.sbs.co.kr/article_hub/20000332203?division=NAVER",
-    "https://www.news1.kr/industry/general-industry/6276989",
     "https://biz.heraldcorp.com/article/10859567",
     "https://www.mt.co.kr/industry/2026/09/02/2026090208123386592",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5216373",
@@ -1808,12 +1817,12 @@
     "https://www.chosun.com/economy/economy_general/2026/09/03/OHXBCSLT3JB3RKXZ4ECT2BAOYE/",
     "https://www.chosun.com/economy/tech_it/2026/09/03/KWZW6YRUBNEPVESZA3DI37VNHM/",
     "https://www.donga.com/news/Economy/article/all/20260902/134592397/2",
-    "https://imnews.imbc.com/replay/2026/nw2500/article/6849225_36989.html"
+    "https://imnews.imbc.com/replay/2026/nw2500/article/6849225_36989.html",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000008584&cp=nv",
+    "https://www.ekn.kr/web/view.php?key=20260903023199963",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000008582&cp=nv"
    ],
    "seen_titles": [
-    "[더벨][이슈&보드]SK이노-SKIET합병,특별위3개월거친이유",
-    "중동전운다시고조…삼전·SK하닉프리마켓서3%약세",
-    "[AIMY증시전망]코스피,유가·금리급등에약세출발전망",
     "미·이란충돌재격화에유가5%급등...나스닥1.03%↓[뉴욕증시]",
     "[속보]8월소비자물가3.1%상승…두달만에3%대",
     "[뉴욕증시]미·이란긴장속하락…나스닥1%↓",
@@ -3310,10 +3319,13 @@
     "74억원사상최고급행료내고…SK가스선박,파나마운하통과",
     "인텔첨단패키징기술,TSMC대안으로주목",
     "“삐,공사장탐지됐습니다”…AI가미리찾는통신망위험",
-    "치솟는국채금리에증시'휘청'‥코스피4%급락"
+    "치솟는국채금리에증시'휘청'‥코스피4%급락",
+    "SK이노후원‘발달장애인음악축제’10주년",
+    "[패트롤]수원시-화성시-평택시-오산시-안성시",
+    "“AX불편함의골짜기견뎌야J커브로성장”"
    ],
    "initialized": true,
-   "last_run": "2026-09-03T01:10:29.455750+09:00"
+   "last_run": "2026-09-03T01:15:22.221011+09:00"
   }
  },
  "press_names": {
