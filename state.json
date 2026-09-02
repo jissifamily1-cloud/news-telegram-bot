@@ -842,17 +842,33 @@
     [
      "2026-09-02T21:25:18.797468+09:00",
      "로비설 특검 게이트 ETF 미래에셋 사퇴에 김용범"
+    ],
+    [
+     "2026-09-02T21:35:18.574936+09:00",
+     "미래 기업가 만드는 정신으로 함께"
+    ],
+    [
+     "2026-09-02T21:35:18.574936+09:00",
+     "성장할게요 펼치는 재능 전문 예술인으로 마음껏"
+    ],
+    [
+     "2026-09-02T21:35:18.574936+09:00",
+     "반대에 중국 G20 공동성명 무산 대중"
+    ],
+    [
+     "2026-09-02T21:35:18.574936+09:00",
+     "6600선 현대차 코스피 낙폭에 LG에너지솔루션 밑으로 SK스퀘어"
+    ],
+    [
+     "2026-09-02T21:35:18.574936+09:00",
+     "여의도 일대 이촌 SKT 지킨다 불꽃축제 AI로 품질 한강공원 통신"
+    ],
+    [
+     "2026-09-02T21:35:18.574936+09:00",
+     "성장으로 이어지려면 지역 800조 반도체 투자"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202609020738573358fbbec65dfb_1",
-    "https://www.greened.kr/news/articleView.html?idxno=349011",
-    "https://www.public25.com/news/articleView.html?idxno=53855",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697264",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4432984",
-    "https://biz.sbs.co.kr/article_hub/20000332208?division=NAVER",
-    "https://www.newsis.com/view/NISX20260902_0003772388",
-    "http://www.joseilbo.com/news/news_read.php?uid=574900&class=53",
     "https://www.etoday.co.kr/news/view/2620759",
     "https://www.betanews.net/article/view/beta202609010045",
     "https://www.youthdaily.co.kr/news/article.html?no=226171",
@@ -2344,17 +2360,17 @@
     "https://www.tbc.co.kr/news/view?pno=20260902152117AE04978&id=210614",
     "https://www.dailian.co.kr/news/view/1685728/?sc=Naver",
     "https://www.hankyung.com/article/202609017824g",
-    "https://news.tvchosun.com/site/data/html_dir/2026/09/02/2026090290229.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/09/02/2026090290229.html",
+    "https://www.etoday.co.kr/news/view/2621241",
+    "https://www.ajunews.com/view/20260902212500725",
+    "http://www.gnmaeil.com/news/articleView.html?idxno=594067",
+    "http://www.gnmaeil.com/news/articleView.html?idxno=594008",
+    "https://futurechosun.com/?p=159283",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=443777",
+    "https://www.aitimes.kr/news/articleView.html?idxno=41727",
+    "https://mpmbc.co.kr/NewsArticle/1535123"
    ],
    "seen_titles": [
-    "국제유가부담에뉴욕증시하락…나스닥1%↓",
-    "미국채금리파동,반도체사이클에찬물끼얹나[AI칩인사이드]",
-    "미·이란교전재개에유가5%급등,뉴욕증시3대지수일제히하락",
-    "[오늘의증시일정]SK디앤디·CMG제약·국일제지등",
-    "레버리지ETF·국민성장펀드…올해국감정무위·기재위핵심쟁점은?",
-    "“거래대금줄어도증권주매력여전…신용융자반등주목”",
-    "\"모델보다시스템\"…TSMC는하이닉스엔우군,삼성은독자노선",
-    "최태원회장,ESG·AI이어'뉴캐피탈리즘'화두제시...14일EBS교양방...",
     "IBK기업은행,법인사업자주유특화'B-OIL카드'출시…소상공인월최...",
     "대미투자협상막바지...韓반도체'무관세한도'받을수있을까?",
     "김용범후임에'성장·민생'조율형찾는다…김정관·윤창렬·하준경등...",
@@ -3846,10 +3862,18 @@
     "민선9기첫시정질문...핵심현안'전략부재'질타",
     "[데일리안오늘뉴스종합]'신혼여행비모금의혹'제기된용혜인…법조...",
     "\"돈대신주식\"확바뀐월급공식…직장인들난리난이유[김대영의노...",
-    "김용범사퇴에'미래에셋로비설'…野\"ETF게이트특검추진\""
+    "김용범사퇴에'미래에셋로비설'…野\"ETF게이트특검추진\"",
+    "금리발작에기업들차환‘경고등’",
+    "최태원\"키옥시아와공동생산가능\"…AI메모리부족에日생산거점검...",
+    "기업가정신으로함께만드는중·한미래",
+    "재능마음껏펼치는전문예술인으로성장할게요",
+    "[더나은미래경제브리핑]중국반대에G20공동성명무산…美,‘대중압...",
+    "코스피,4%낙폭에6600선밑으로...SK스퀘어,현대차,LG에너지솔루션,...",
+    "SKT,AI로불꽃축제통신품질지킨다...여의도·이촌한강공원일대불...",
+    "800조반도체투자…지역성장으로이어지려면"
    ],
    "initialized": true,
-   "last_run": "2026-09-02T21:30:31.843856+09:00"
+   "last_run": "2026-09-02T21:35:18.574936+09:00"
   }
  },
  "press_names": {
