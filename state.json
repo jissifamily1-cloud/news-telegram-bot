@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-03T01:15:22.221011+09:00",
-     "SK이노 10주년 후원 음악축제 발달장애인"
-    ],
-    [
-     "2026-09-03T01:15:22.221011+09:00",
-     "화성시 안성시 오산시 평택시 수원시"
-    ],
-    [
-     "2026-09-03T01:15:22.221011+09:00",
-     "견뎌야 J커브로 불편함의 성장 골짜기 AX"
-    ],
-    [
      "2026-09-03T01:40:24.088189+09:00",
      "거론 충남급 3파전 튀르키예와 차기 호위함에"
     ],
@@ -422,11 +410,17 @@
     [
      "2026-09-03T07:15:20.873609+09:00",
      "전영현 삼성전자 DS부문장 대표이사 부회장"
+    ],
+    [
+     "2026-09-03T07:20:21.138588+09:00",
+     "대표이사 허제홍 엘앤에프"
+    ],
+    [
+     "2026-09-03T07:20:21.138588+09:00",
+     "노사 갈등 통신업계 노조 확산 도입도 필요하나 합의"
     ]
    ],
    "seen_urls": [
-    "http://www.beyondpost.co.kr/view.php?ud=2026090209243953642aaae0046f_30",
-    "https://www.yna.co.kr/view/AKR20260902041100008?input=1195m",
     "https://www.ddaily.co.kr/page/view/2026090209261866339",
     "https://www.news1.kr/photos/8083314",
     "http://www.nongaek.com/news/articleView.html?idxno=96637",
@@ -1924,11 +1918,11 @@
     "https://www.ceoscoredaily.com/page/view/2026090211111312364",
     "https://www.ceoscoredaily.com/page/view/2026090215325659267",
     "https://www.lecturernews.com/news/articleView.html?idxno=209531",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=444352"
+    "https://www.businesspost.co.kr/BP?command=article_view&num=444352",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=445938",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092169296"
    ],
    "seen_titles": [
-    "SK브로드밴드‘AI5셋톱박스’,세계4대디자인상석권…그랜드슬램...",
-    "[국내증시개장시황]국내증시약세,코스피·코스닥동반하락",
     "[서울데이터랩]코스피,장초반2.79%하락한6645.09…외국인·기관동반...",
     "지난달소비자물가상승률,다시3%로올라서...지난해SKT통신요금인...",
     "[특징주]중동긴장재고조에삼전·닉스장초반2∼3%대하락",
@@ -3426,10 +3420,12 @@
     "[권혁빈이혼소송]③현금분할시,100%지배구조‘흔들’…“아직상...",
     "SK에코,오션플랜트팔고엔지니어링합친다…반도체·AIEPC‘총력’",
     "[이용호의손에잡히는인공지능]챗봇에서행동하는AI로,'모두의AI'...",
-    "[WhoIs?]전영현삼성전자DS부문장대표이사부회장"
+    "[WhoIs?]전영현삼성전자DS부문장대표이사부회장",
+    "[WhoIs?]허제홍엘앤에프대표이사",
+    "AI도입도노조합의필요하나…통신업계노사갈등확산"
    ],
    "initialized": true,
-   "last_run": "2026-09-03T07:15:20.873609+09:00"
+   "last_run": "2026-09-03T07:20:21.138588+09:00"
   }
  },
  "press_names": {
