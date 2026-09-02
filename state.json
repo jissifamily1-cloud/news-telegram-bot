@@ -245,8 +245,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12141948",
-    "https://biz.chosun.com/stock/stock_general/2026/09/02/KDK6RZQY2NAZROB4LUS5LJ7OCU/",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=273256",
     "http://www.datanews.co.kr/news/article.html?no=146252",
     "https://m.sports.naver.com/basketball/article/065/0000301209",
@@ -1744,11 +1742,11 @@
     "https://www.fnnews.com/news/202609030521267777",
     "https://www.news2day.co.kr/article/20260903500006",
     "https://www.news1.kr/realestate/general/6278028",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609021452185210410"
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609021452185210410",
+    "http://www.beyondpost.co.kr/view.php?ud=2026090305254553832aaae0046f_30",
+    "https://www.dt.co.kr/article/12081824"
    ],
    "seen_titles": [
-    "주요국국채금리폭등,'글로벌재정위기'공포",
-    "SK이노발달장애인음악제10주년…326팀3천313명참여",
     "SK바이오팜,‘세노바메이트’의존도88.8%…‘오파칼림’승부수",
     "친환경에서AI까지…GS,계열사증가재계최대",
     "SK플라즈마,복약편의성개선한고용량저혈소판치료제출시",
@@ -3246,10 +3244,12 @@
     "[뉴욕증시]채권'숨고르기',나흘만에반등…엔비디아,3.2%급등",
     "[N2포커스]8월새내기ETF11종'엇갈린승자'…수익률'마이티'·자금...",
     "주택넘어AI데이터센터로…대형건설사'수주전'본격화",
-    "최태원ㆍ류진물러나나…대한상의ㆍ한경협수장교체기임박"
+    "최태원ㆍ류진물러나나…대한상의ㆍ한경협수장교체기임박",
+    "엔비디아3.2%,마이크론2.4%↑...반도체주,일제히반등",
+    "‘국채발작’진정+엔비디아3%대급등…삼전ㆍ하닉오늘은힘낼까[뉴..."
    ],
    "initialized": true,
-   "last_run": "2026-09-03T05:35:21.712740+09:00"
+   "last_run": "2026-09-03T05:40:24.225999+09:00"
   }
  },
  "press_names": {
