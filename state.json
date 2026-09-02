@@ -326,17 +326,25 @@
     [
      "2026-09-03T06:50:24.868990+09:00",
      "지켜봤다 호실적 시간외 개미 브로드컴 죽이고 카드 반전"
+    ],
+    [
+     "2026-09-03T07:00:35.460829+09:00",
+     "관광까지 경기 보고 1인당 외지 관람객 제주서 117만원 썼다"
+    ],
+    [
+     "2026-09-03T07:00:35.460829+09:00",
+     "진정세 코스피 공포 금리 투심 회복 미국발 시동"
+    ],
+    [
+     "2026-09-03T07:00:35.460829+09:00",
+     "급여 삼전닉스 증권사가 아냐 상반기 1위 상위권"
+    ],
+    [
+     "2026-09-03T07:00:35.460829+09:00",
+     "챔피언스시티 2030년 오는 전체 구성 입주 전남광주"
     ]
    ],
    "seen_urls": [
-    "https://economist.co.kr/article/view/ecn202609020006",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4433031",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7181905",
-    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3033336",
-    "http://www.newskr.kr/news/articleView.html?idxno=106054",
-    "https://www.seoultimes.news/news/article.html?no=2000099411",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=84143",
-    "https://www.newsway.co.kr/news/view?ud=2026090209170874640",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609020345&t=NN",
     "http://www.joseilbo.com/news/news_read.php?uid=574907&class=53",
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=707020",
@@ -1828,17 +1836,17 @@
     "https://biz.chosun.com/international/international_general/2026/09/03/22Y2YTBUBJES3AP53D4IKQQ6BA/",
     "https://www.sedaily.com/article/20086556",
     "https://www.fnnews.com/news/202609030614119048",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609030218&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609030218&t=NN",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=281748",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1722768",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483261",
+    "https://www.chosun.com/economy/int_economy/2026/09/03/Y6OCT7J3QBBAFMXQOCQFQZMMKM/",
+    "https://www.fnnews.com/news/202609030649327859",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1722769",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260903065029Was",
+    "https://www.munhwa.com/article/11614130"
    ],
    "seen_titles": [
-    "코스피6625.47개장…하락장속대형주낙폭1위는?",
-    "서울대강단선정재헌\"AI시대엔통찰·공감능력이경쟁력\"",
-    "8월소비자물가다시3%대…SKT기저효과에추석밥상물가도'들썩'",
-    "한국금융지주상반기평균급여1위,비금융1위는SK하이닉스",
-    "SK바이오팜,엔비디아AI가속기'B200'128장도입",
-    "SK이노베이션,발달장애인음악축제10년째개최",
-    "이상일용인시장\"반도체산단전력·용수공급망조기구축해야\"",
-    "202조투자신호탄쐈다...삼성디스플레이,아산에67조'통큰투자'",
     "SK이노베이션발달장애인음악축제10년…3313명연주자참가",
     "8월소비자물가3.1%상승…한달만에다시3%대반등",
     "코스피,중동긴장감에3%대하락출발…삼전닉스도'미끌'[개장시황]",
@@ -3330,10 +3338,18 @@
     "뉴욕증시,美국채금리상승세주춤하며상승마감",
     "국채금리숨고르기...뉴욕증시,4거래일만에반등[데일리국제금융]",
     "\"외인7조던졌다\"...피멍든삼전·하이닉스,브로드컴이살릴까",
-    "[속보]개미,'반전'카드죽이고지켜봤다…'호실적'브로드컴,시간외..."
+    "[속보]개미,'반전'카드죽이고지켜봤다…'호실적'브로드컴,시간외...",
+    "뉴욕증시,국채금리진정에4일만에반등...다우존스0.6%↑",
+    "SK하이닉스,성과급논란속\"구성원성과·보상은지킬것\"",
+    "반도체상장기업브랜드평판9월빅데이터분석..1위삼성전자,2위SK하...",
+    "뉴욕증시,국채금리진정에나흘만에반등…다우0.56%↑",
+    "제주서경기보고관광까지…외지관람객1인당117만원썼다",
+    "미국발'금리공포'진정세…코스피투심회복시동",
+    "상반기급여1위삼전닉스아냐…증권사가상위권",
+    "전남광주‘챔피언스시티’오는2030년입주…전체79%84㎡로구성"
    ],
    "initialized": true,
-   "last_run": "2026-09-03T06:55:19.368360+09:00"
+   "last_run": "2026-09-03T07:00:35.460829+09:00"
   }
  },
  "press_names": {
