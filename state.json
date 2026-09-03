@@ -738,10 +738,13 @@
     [
      "2026-09-03T22:55:21.010748+09:00",
      "하락에 테슬라 반도체주는 엇갈려 나스닥 뛰고 미국증시 금리"
+    ],
+    [
+     "2026-09-03T23:05:22.472970+09:00",
+     "7조 국채금리 5거래일간 부담 외인 삼전닉스 팔자 긴장"
     ]
    ],
    "seen_urls": [
-    "https://www.smartbizn.com/news/articleView.html?idxno=152893",
     "http://www.yonhapnewstv.co.kr/news/AKR20260903092800PPS",
     "https://www.itdaily.kr/news/articleView.html?idxno=241373",
     "https://www.dailian.co.kr/news/view/1685824/?sc=Naver",
@@ -2240,10 +2243,10 @@
     "https://www.hankyung.com/article/202609033194h",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058412",
     "https://www.topstarnews.net/news/articleView.html?idxno=16182566",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16182560"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16182560",
+    "https://www.edaily.co.kr/News/Read?newsId=06117206645576512&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "정부,'보안특화AI'사업자로네이버클라우드컨소시엄선정",
     "한전,삼성·하이닉스에25조원전기요금선납제안",
     "[속보]정부'보안특화AI모델'네이버클라우드컨소시엄선정",
     "네이버클라우드,SKT제치고'사이버보안AI'사업자낙점",
@@ -3742,10 +3745,11 @@
     "전남광주'챔피언스시티1차'견본주택4일개장…3216가구공급",
     "'새TV커머스표준제시'SK스토아,방송에생동감더했다",
     "문가영,SK-II캠페인현장서빛낸청량비주얼…'LockinYouth'행보",
-    "미국증시,금리하락에나스닥0.8%↑…테슬라뛰고반도체주는엇갈려"
+    "미국증시,금리하락에나스닥0.8%↑…테슬라뛰고반도체주는엇갈려",
+    "美국채금리부담속외인5거래일간4.7조‘팔자’…삼전닉스긴장"
    ],
    "initialized": true,
-   "last_run": "2026-09-03T23:00:36.648133+09:00"
+   "last_run": "2026-09-03T23:05:22.472970+09:00"
   }
  },
  "press_names": {
