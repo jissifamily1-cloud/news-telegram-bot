@@ -1106,16 +1106,29 @@
     [
      "2026-09-03T20:55:20.649564+09:00",
      "ENM CJ 경남제약 거래 더콘텐츠온 인바이츠바이오코아 정지"
+    ],
+    [
+     "2026-09-03T21:05:20.339070+09:00",
+     "10일 경북 개막 헴프 재생의료 총출동 바이오엑스포 백신"
+    ],
+    [
+     "2026-09-03T21:05:20.339070+09:00",
+     "아침의 주요기사 비즈니스포스트"
+    ],
+    [
+     "2026-09-03T21:05:20.339070+09:00",
+     "할인 공휴일 충전하면 주말 전기차"
+    ],
+    [
+     "2026-09-03T21:05:20.339070+09:00",
+     "축배의 시간 주주환원 삼전닉스"
+    ],
+    [
+     "2026-09-03T21:05:20.339070+09:00",
+     "삼전닉스에 제안 25조원 한전 전기요금 선납"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260903000094",
-    "https://www.chosun.com/economy/stock-finance/2026/09/03/B6SPTY26TJAADBFGUXISA2IO3U/",
-    "http://www.e2news.com/news/articleView.html?idxno=333847",
-    "http://www.popcornnews.net/news/articleView.html?idxno=131721",
-    "https://www.g-enews.com/view.php?ud=20260903084903415344093b5d4e_1",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4433221",
-    "https://www.newspim.com/news/view/20260903000217",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483346",
     "https://biz.sbs.co.kr/article_hub/20000332469?division=NAVER",
     "https://www.newsis.com/view/NISX20260903_0003774276",
@@ -2608,16 +2621,16 @@
     "http://www.ujeil.com/news/articleView.html?idxno=391494",
     "https://www.greened.kr/news/articleView.html?idxno=349206",
     "https://news.tvchosun.com/site/data/html_dir/2026/09/03/2026090390254.html",
-    "https://www.newstnt.com/news/articleView.html?idxno=716639"
+    "https://www.newstnt.com/news/articleView.html?idxno=716639",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=862107",
+    "https://www.m-i.kr/news/articleView.html?idxno=1409951",
+    "http://andongmbc.co.kr/adboard/NewsView84572",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=446384",
+    "https://www.khan.co.kr/article/202609032101005",
+    "https://www.mk.co.kr/article/12138748",
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2298727"
    ],
    "seen_titles": [
-    "[모닝리포트]SK케미칼,코폴리에스터·전력직접판매'쌍끌이'",
-    "원래는반대로움직이는데…高유가·긴축재연에주식·채권동반추락",
-    "SK이노베이션울산CLX,'WAVE2026'서AI밸류체인선보인다",
-    "메리츠증권,'현금·주식모두MOUM'이벤트…11월말까지",
-    "하나증권\"SK이터닉스,태양광전력구매계약사업기회확대\"",
-    "美반도체관세예고…靑\"우리기업불이익없도록협의\"",
-    "SK이노베이션울산CLX,WAVE2026서제조AI기술선보인다",
     "SK하이닉스,임단협부결후구성원달래기나서…\"성과보상지킬것\"",
     "뉴욕증시,국채금리급등세진정에나흘만에반등",
     "[속보]삼성전자·SK하이닉스,나란히1%대상승출발",
@@ -4110,10 +4123,17 @@
     "SK이노울산CLX,'제조AI기술'미래선보인다",
     "이재명대통령,최태원·이재용이어정의선회장과비공개회동...새만...",
     "4100억원에새주인맞는SK오션플랜트…디오션컨소시엄이인수",
-    "[공시]더콘텐츠온·인바이츠바이오코아'거래정지',CJENM·경남제약..."
+    "[공시]더콘텐츠온·인바이츠바이오코아'거래정지',CJENM·경남제약...",
+    "이재명•정의선비공개회동...새만금•대미투자논의",
+    "SK이노울산CLX,제조AI'듀얼브레인'공개…AX가속",
+    "10일경북바이오엑스포개막..'재생의료·백신·헴프'총출동",
+    "[9월4일자]비즈니스포스트아침의주요기사",
+    "주말·공휴일낮전기차충전하면‘최대32%’할인",
+    "삼전닉스發주주환원…축배의시간?",
+    "한전,삼전닉스에전기요금25조원선납제안"
    ],
    "initialized": true,
-   "last_run": "2026-09-03T21:00:35.940181+09:00"
+   "last_run": "2026-09-03T21:05:20.339070+09:00"
   }
  },
  "press_names": {
