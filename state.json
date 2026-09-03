@@ -262,12 +262,21 @@
     [
      "2026-09-04T06:15:24.789628+09:00",
      "국내 해외선 사업장 RE100 재생에너지 사용률 기업 국내선"
+    ],
+    [
+     "2026-09-04T06:20:21.171665+09:00",
+     "효율확장 인프라 김진영 대표 엑시나 아닌 승부처 메모리 연산"
+    ],
+    [
+     "2026-09-04T06:20:21.171665+09:00",
+     "금리인상에 숙인 증권주 급감 잔치는 끝났나 거래대금 고개"
+    ],
+    [
+     "2026-09-04T06:20:21.171665+09:00",
+     "삼성의 4천억 병원 전략 생산까지 확장 펀드부터 신약개발"
     ]
    ],
    "seen_urls": [
-    "https://www.livebiz.today/news/articleView.html?idxno=204615",
-    "https://magazine.hankyung.com/business/article/202609031488b",
-    "https://news.bizwatch.co.kr/article/mobile/2026/09/03/0004",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=86965",
     "https://www.g-enews.com/view.php?ud=202609030956093359923c501012_1",
     "https://www.smartbizn.com/news/articleView.html?idxno=152911",
@@ -1764,12 +1773,12 @@
     "https://www.news1.kr/finance/general-stock/6279591",
     "https://www.fetv.co.kr/news/articleView.html?idxno=309608",
     "https://it.chosun.com/news/articleView.html?idxno=2023092169439",
-    "https://www.khan.co.kr/article/202609040600031"
+    "https://www.khan.co.kr/article/202609040600031",
+    "https://www.news1.kr/industry/sb-founded/6279286",
+    "https://www.khan.co.kr/article/202609040600041",
+    "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3042416"
    ],
    "seen_titles": [
-    "네이버클라우드,정부'사이버보안특화AI'개발맡는다",
-    "[속보]한전,삼전닉스에전기료25조선납제안",
-    "LG손잡은네이버클라우드,'사이버보안특화'독파모만든다",
     "\"SK하이닉스연계월수익산출\"…교보증권,원금지급형ELB공모",
     "교보증권,SK하이닉스기초자산ELB456회공모",
     "한전,삼성·SK하이닉스에25조원전기료선납제안···반도체전력망...",
@@ -3266,10 +3275,13 @@
     "\"해외IB보고서믿어도될까\"…외국인은파는데코스피1만전망유지",
     "한화손보,캐롯손보통합1년…車보험시장점유율6%",
     "스페이스X외면한타임폴리오,CXMT뺀KB운용…왜?",
-    "“국내RE100기업사업장재생에너지사용률,국내선13%,해외선67%”"
+    "“국내RE100기업사업장재생에너지사용률,국내선13%,해외선67%”",
+    "김진영엑시나대표\"AI인프라승부처,연산아닌메모리효율확장\"[K-...",
+    "잔치는끝났나…거래대금급감·금리인상에고개숙인증권주",
+    "4천억펀드부터병원·생산까지…삼성의신약개발확장전략"
    ],
    "initialized": true,
-   "last_run": "2026-09-04T06:15:24.789628+09:00"
+   "last_run": "2026-09-04T06:20:21.171665+09:00"
   }
  },
  "press_names": {
