@@ -410,10 +410,13 @@
     [
      "2026-09-04T07:40:25.067933+09:00",
      "김진영 이요셉 기대주 박광순 메달 핸드볼"
+    ],
+    [
+     "2026-09-04T07:50:42.524268+09:00",
+     "코스피 삼호개발 한화오션 코스닥 에이프로젠바이오로직 삼성화재"
     ]
    ],
    "seen_urls": [
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609030353&t=NN",
     "http://www.seouleconews.com/news/articleView.html?idxno=93501",
     "https://kpenews.com/View.aspx?No=4210955",
     "https://news.unn.net/news/articleView.html?idxno=596764",
@@ -1912,10 +1915,10 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=861882",
     "https://www.tfmedia.co.kr/news/article.html?no=206969",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698029",
-    "https://www.yna.co.kr/view/AKR20260903123400007?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260903123400007?input=1195m",
+    "https://www.public25.com/news/articleView.html?idxno=54044"
    ],
    "seen_titles": [
-    "\"성과불이익없다\"…SK하이닉스,임단협부결후첫소통",
     "코스피,美증시반등에6,500선…환율14개월만에1,350원대",
     "SKT,AI인프라수익화속도..SK하이퍼·호라이즌‘투트랙’",
     "가천대·건국대등대학가,'실전취업'강화\"대기업채용전형그대로...",
@@ -3414,10 +3417,11 @@
     "美지고유럽뜨고…K배터리지형도바뀐다",
     "김석봉씨티證부사장,모건스탠리韓IB공동대표로선임",
     "美ESS에'안보빗장'…북미공장가진K배터리'수주랠리'기대",
-    "[아시안게임]메달기대주⑲핸드볼이요셉·김진영·박광순"
+    "[아시안게임]메달기대주⑲핸드볼이요셉·김진영·박광순",
+    "[코스피·코스닥,한화오션삼성화재삼호개발에이프로젠바이오로직..."
    ],
    "initialized": true,
-   "last_run": "2026-09-04T07:45:27.562726+09:00"
+   "last_run": "2026-09-04T07:50:42.524268+09:00"
   }
  },
  "press_names": {
