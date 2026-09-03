@@ -214,14 +214,21 @@
     [
      "2026-09-04T05:05:24.336842+09:00",
      "100년 만의 가격 메모리 홍수"
+    ],
+    [
+     "2026-09-04T05:15:19.892766+09:00",
+     "2개월 1350원대 기업 달러 환율 영향 1년 만에 엔화 강세 매도"
+    ],
+    [
+     "2026-09-04T05:15:19.892766+09:00",
+     "한전 선납 삼전닉스에 5년 25조 전기료 제안"
+    ],
+    [
+     "2026-09-04T05:15:19.892766+09:00",
+     "대구로 국내 까닭은 1위 TSE가"
     ]
    ],
    "seen_urls": [
-    "https://www.ekn.kr/web/view.php?key=20260903020249806",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1722811",
-    "https://www.thepowernews.co.kr/view.php?ud=202609021418538529de3f0aa1be_7",
-    "https://www.nextdaily.co.kr/news/articleView.html?idxno=252745",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=94706",
     "https://daily.hankooki.com/news/articleView.html?idxno=1402280",
     "https://www.news2day.co.kr/article/20260903500055",
     "https://biz.heraldcorp.com/article/10861212",
@@ -1716,14 +1723,14 @@
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=317930",
     "https://www.joongang.co.kr/article/25459021",
     "https://it.chosun.com/news/articleView.html?idxno=2023092169409",
-    "https://www.tokenpost.kr/news/tech/402183"
+    "https://www.tokenpost.kr/news/tech/402183",
+    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/09/04/20260904027003?wlog_tag3=naver",
+    "https://www.hani.co.kr/arti/economy/marketing/1276188.html",
+    "https://www.seoul.co.kr/news/economy/2026/09/04/20260904031008?wlog_tag3=naver",
+    "https://www.seoul.co.kr/news/economy/2026/09/04/20260904032004?wlog_tag3=naver",
+    "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/09/04/20260904019006?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "노동권강화가부동산정책막나…대기업성과급·사내대출역설",
-    "[1%초고수의개장선택]'LS'사고'JW신약'순매도",
-    "회사채시장얼어붙었다는데58조발행…‘발행한파’의실체는따로...",
-    "SKT,수능77일앞두고'수능응원백서'캠페인본격운영",
-    "코스피,美국채금리부담완화에반등…6600선안팎등락",
     "\"성과·보상,불이익없게할것\"…SK하이닉스,임단협부결뒤첫소통...",
     "코스피,저가매수세에6,630선회복…삼전·하이닉스동반상승",
     "삼일PwC·서울대,부산서‘기후리스크’공동포럼개최",
@@ -3218,10 +3225,15 @@
     "[통신맥락읽기]끊기지만않으면기본권?…요금제손질'동상이몽'",
     "“일안해도연1.5억탄다”…1억→20억만든그의110%종목",
     "95일걸린티빙의사과[줌인IT]",
-    "쿡\"메모리가격100년만의홍수\""
+    "쿡\"메모리가격100년만의홍수\"",
+    "[사설]또美반도체관세압박,‘공장빼가기’막을논리세워야",
+    "러트닉“미국서반도체생산안하면관세”…‘지경학위기’직면한...",
+    "환율1년2개월만에1350원대…기업달러매도·엔화강세영향",
+    "한전,삼전닉스에5년치전기료25조선납제안",
+    "국내1위TSE가대구로간까닭은?"
    ],
    "initialized": true,
-   "last_run": "2026-09-04T05:10:27.271631+09:00"
+   "last_run": "2026-09-04T05:15:19.892766+09:00"
   }
  },
  "press_names": {
