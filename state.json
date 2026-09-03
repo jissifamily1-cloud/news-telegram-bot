@@ -282,17 +282,29 @@
     [
      "2026-09-04T06:45:19.759821+09:00",
      "노동사회연대기금 자본 재분배해야 디지털 초과이윤"
+    ],
+    [
+     "2026-09-04T07:00:34.258796+09:00",
+     "안착 로직 재편 HBM 본딩 하이브리드 연기로 소부장"
+    ],
+    [
+     "2026-09-04T07:00:34.258796+09:00",
+     "회사 지분구조 근거 놓치고 찬성"
+    ],
+    [
+     "2026-09-04T07:00:34.258796+09:00",
+     "상승 기대 롤러코스터 코스피 증시 훈풍에"
+    ],
+    [
+     "2026-09-04T07:00:34.258796+09:00",
+     "평택 매각 3400억에 ESR 삼성SRA운용애 물류센터"
+    ],
+    [
+     "2026-09-04T07:00:34.258796+09:00",
+     "바뀐다 경제 공공기관 판이 가사혁명까지 대수술부터"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20086651",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=358376",
-    "https://www.gokorea.kr/news/articleView.html?idxno=877019",
-    "https://www.kado.net/news/articleView.html?idxno=2070363",
-    "https://www.edaily.co.kr/News/Read?newsId=03362006645576512&mediaCodeNo=257",
-    "https://www.g-enews.com/view.php?ud=20260903093929464924debea800_1",
-    "https://www.mt.co.kr/economy/2026/09/03/2026090310083577923",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16181749",
     "https://www.cstimes.com/news/articleView.html?idxno=719244",
     "http://www.4th.kr/news/articleView.html?idxno=2117377",
     "https://www.gokorea.kr/news/articleView.html?idxno=877012",
@@ -1784,17 +1796,17 @@
     "http://www.beyondpost.co.kr/view.php?ud=2026090406253346422aaae0046f_30",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483694",
     "https://www.enetnews.co.kr/news/articleView.html?idxno=54039",
-    "https://www.labortoday.co.kr/news/articleView.html?idxno=236614"
+    "https://www.labortoday.co.kr/news/articleView.html?idxno=236614",
+    "https://sports.hankooki.com/news/articleView.html?idxno=6939033",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483697",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483696",
+    "https://www.g-enews.com/view.php?ud=202609040649278393fbbec65dfb_1",
+    "https://www.apnews.kr/news/articleView.html?idxno=3050972",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1722950",
+    "https://thetracker.co.kr/View.aspx?No=4212496",
+    "https://biz.sbs.co.kr/article_hub/20000332692?division=NAVER"
    ],
    "seen_titles": [
-    "10년물이자5%직전인데‘칩플레’어쩌자고[트럼프스톡커]",
-    "[뉴욕증시]국채금리진정에4거래일만에반등",
-    "국채금리주춤,국내증시반등시도에투자자관심집중",
-    "한전,삼전·닉스에\"5년치전기료미리내달라\"…25조원선납제안",
-    "교보증권,SK하이닉스연계월지급식ELB공모...연최고5.7%수익",
-    "SK이노베이션울산CLX,‘WAVE2026’서제조AI미래제시",
-    "한전,'삼전닉스'에25조요금선납제안…용인·호남전력공급'윈윈'",
-    "SK이터닉스주가,9월3일장중51,400원0.98%상승",
     "SKT,수능77일앞두고'수능응원백서'캠페인확대",
     "\"AI추론,GPU작업절반이상데이터이동..메모리가병목\"",
     "네이버클라우드,사이버보안AI모델개발최종선정...국내보안혁신...",
@@ -3286,10 +3298,18 @@
     "엔비디아,1.8%상승하며전고점에바짝접근...SK하이닉스ADR,씨티그룹...",
     "에코프로,화학상장기업브랜드평판1위…포스코퓨처엠·LG화학제쳤다",
     "[브랜드평판]삼성,대기업집단9월1위...SK,LG뒤이어",
-    "디지털자본초과이윤'노동사회연대기금'재분배해야"
+    "디지털자본초과이윤'노동사회연대기금'재분배해야",
+    "문가영,상큼한손키스",
+    "삼성,대기업집단브랜드평판1위…SK·LG와격차벌렸다",
+    "CEO브랜드평판9월빅데이터분석...1위삼성이재용,2위LG구광모,...",
+    "로직안착하이브리드본딩,HBM연기로소부장재편",
+    "[상법개정과운용사의결권②]'찬성'근거?…지분구조놓치고회사설...",
+    "'롤러코스터'코스피…美증시훈풍에상승기대",
+    "ESR,삼성SRA운용애평택물류센터3400억에매각",
+    "[조간브리핑]공공기관대수술부터AI가사혁명까지…경제판이바뀐다"
    ],
    "initialized": true,
-   "last_run": "2026-09-04T06:55:16.629661+09:00"
+   "last_run": "2026-09-04T07:00:34.258796+09:00"
   }
  },
  "press_names": {
