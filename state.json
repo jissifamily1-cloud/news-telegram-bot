@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-04T01:25:19.680908+09:00",
-     "이상 투자협상 대미 반도체 본격화 없나 압박 미국"
-    ],
-    [
      "2026-09-04T01:45:22.683233+09:00",
      "Advanced Hosts KoreaBIO in Job Briefing Joint Bus Industries"
     ],
@@ -378,13 +374,21 @@
     [
      "2026-09-04T07:20:21.898816+09:00",
      "SK하이닉스까지 KODEX 6조 40조 논란부터 머니카운터 변동성 소각"
+    ],
+    [
+     "2026-09-04T07:30:26.578534+09:00",
+     "알아야 시장 국내외 경제"
+    ],
+    [
+     "2026-09-04T07:30:26.578534+09:00",
+     "본격화 관세 김정관 방미 않을 압박 반도체 불리하지"
+    ],
+    [
+     "2026-09-04T07:30:26.578534+09:00",
+     "고용 랠리에도 엔화에 중동 증시 불안한 달렸다 월러"
     ]
    ],
    "seen_urls": [
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=392038",
-    "https://www.ddaily.co.kr/page/view/2026090310263378380",
-    "https://www.ikbc.co.kr/article/view/kbc202609030012",
-    "https://www.ajunews.com/view/20260903101655355",
     "https://www.ytn.co.kr/_ln/0104_202609031028393627",
     "https://www.newsis.com/view/NISX20260903_0003774324",
     "https://www.topstarnews.net/news/articleView.html?idxno=16181767",
@@ -1880,13 +1884,13 @@
     "https://news.jtbc.co.kr/article/NB12316659?influxDiv=NAVER",
     "https://www.greened.kr/news/articleView.html?idxno=349218",
     "https://www.ppss.kr/news/articleView.html?idxno=308737",
-    "https://news.ifm.kr/news/articleView.html?idxno=478592"
+    "https://news.ifm.kr/news/articleView.html?idxno=478592",
+    "https://www.globale.co.kr/news/articleView.html?idxno=40205",
+    "https://www.fntimes.com/html/view.php?ud=202609040711552946141825007d_18",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=94765",
+    "https://biz.sbs.co.kr/article_hub/20000332694?division=NAVER"
    ],
    "seen_titles": [
-    "[기획]'이재명정권ETF게이트(1)'개미들의무덤'이된단일종목레...",
-    "에임인텔리전스,'모두의AI'SKT컨소시엄참여…\"대국민보안강화\"",
-    "박성현광양시장,포스코·SK에투자요청공문발송",
-    "곽노정SK하이닉스사장\"성과보상,구성원과함께고민할것\"…임단협...",
     "러트닉'반도체표적관세'공식화...김정관과협의주목",
     "\"구성원보상지킬것\"임단협부결뒤첫내부소통나선SK하이닉스",
     "SK텔레콤주가,9월3일장중89,800원1.75%하락",
@@ -3382,10 +3386,14 @@
     "이재용·최태원,28일뉴욕서젠슨황만난다…수상직접축하",
     "이재용·최태원회장,오는28일뉴욕에서젠슨황CEO와회동왜?...트럼...",
     "'새만금투자논의했나'…이재명·정의선,비공개회동에이목집중",
-    "'6조KODEX'변동성논란부터'40조소각'SK하이닉스까지[머니카운터..."
+    "'6조KODEX'변동성논란부터'40조소각'SK하이닉스까지[머니카운터...",
+    "뉴욕증시,연준발언·금리안정에일제상승···코스피훈풍기대",
+    "[KFT모닝브리프]2026.09.04—오늘꼭알아야할국내외경제·시장...",
+    "美반도체관세압박본격화…방미김정관\"韓불리하지않을것\"",
+    "[증시전략]월러랠리에도불안한증시…고용·중동·엔화에달렸다"
    ],
    "initialized": true,
-   "last_run": "2026-09-04T07:25:16.963797+09:00"
+   "last_run": "2026-09-04T07:30:26.578534+09:00"
   }
  },
  "press_names": {
