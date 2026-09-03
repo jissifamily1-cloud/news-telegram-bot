@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-03T19:55:20.133937+09:00",
-     "팔아라 찔끔 단타 폭락 단타만이 살길 사고 오르고"
-    ],
-    [
      "2026-09-03T20:05:19.533993+09:00",
      "미모 에스 일이야 포토월에서 순간 무슨 빛난 문가영"
     ],
@@ -362,10 +358,13 @@
     [
      "2026-09-04T01:45:22.683233+09:00",
      "Advanced Hosts KoreaBIO in Job Briefing Joint Bus Industries"
+    ],
+    [
+     "2026-09-04T02:00:18.120003+09:00",
+     "반도체는 매도 나스닥 외국인 하이닉스 인데 돌아올 3782억"
     ]
    ],
    "seen_urls": [
-    "https://www.ddaily.co.kr/page/view/2026090309473634332",
     "https://www.goodmorningcc.com/news/articleView.html?idxno=451711",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1722810",
     "https://www.g-enews.com/view.php?ud=2026090309392243944093b5d4e_1",
@@ -1864,10 +1863,10 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=9000008978&cp=nv",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000008987&cp=nv",
     "https://www.xportsnews.com/article/2191786",
-    "https://us.aving.net/news/articleView.html?idxno=54462"
+    "https://us.aving.net/news/articleView.html?idxno=54462",
+    "https://www.greened.kr/news/articleView.html?idxno=349214"
    ],
    "seen_titles": [
-    "황기연수은행장,호남반도체기업방문…“생태계강화적극지원”",
     "\"미국서만들거나관세내든가\"…트럼프발반도체압박에청와대긴급...",
     "2파전벌인'보안특화AI',네이버클라우드가잡았다",
     "[특징주]삼성전자·SK하이닉스,美3대주가지수강세..'상승'",
@@ -3366,10 +3365,11 @@
     "“청년일자리민관보조맞춰야해결”",
     "[사설]미국‘반도체압박’본격화,대미투자협상이상없나",
     "한회최초'2루수골글'주인공,2군서만루홈런쾅!무력시위펼쳤다…...",
-    "KoreaBIOHostsJoint'2026AI×AdvancedIndustriesJobBriefing'inBu"
+    "KoreaBIOHostsJoint'2026AI×AdvancedIndustriesJobBriefing'inBu",
+    "나스닥1.2%↑인데반도체는-1%…'하이닉스3782억매도'외국인돌아올..."
    ],
    "initialized": true,
-   "last_run": "2026-09-04T01:55:19.569980+09:00"
+   "last_run": "2026-09-04T02:00:18.120003+09:00"
   }
  },
  "press_names": {
