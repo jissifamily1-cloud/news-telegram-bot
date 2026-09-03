@@ -194,11 +194,13 @@
     [
      "2026-09-04T03:45:22.803274+09:00",
      ""
+    ],
+    [
+     "2026-09-04T04:10:21.935178+09:00",
+     "끌어올리려 동맹국 끌어내리는 지지율"
     ]
    ],
    "seen_urls": [
-    "https://www.mstoday.co.kr/news/articleView.html?idxno=102490",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=310320",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=300188",
     "https://theviewers.co.kr/View.aspx?No=4210781",
     "https://www.mediapen.com/news/view/1120982",
@@ -1696,11 +1698,11 @@
     "https://www.mt.co.kr/opinion/2026/09/04/2026090217575830789",
     "https://www.mt.co.kr/industry/2026/09/04/2026090319551279617",
     "https://www.mt.co.kr/world/2026/09/04/2026090320092061899",
-    "https://www.irobotnews.com/news/articleView.html?idxno=48290"
+    "https://www.irobotnews.com/news/articleView.html?idxno=48290",
+    "https://www.mt.co.kr/tech/2026/09/04/2026090313302443594",
+    "https://www.mt.co.kr/world/2026/09/04/2026090319040280300"
    ],
    "seen_titles": [
-    "금리숨고르자뉴욕반등…코스피도1%대출발",
-    "코스피0.8%상승…개인·기관동반순매수",
     "美반도체표적관세윤곽…삼성·SK'미국투자'가방패될까",
     "[유통갤러리]대교뉴이프,SK텔레콤컨소시엄‘모두의AI’사업참여...",
     "코스피,장초반1%가까이상승하며6600선회복",
@@ -3198,10 +3200,12 @@
     "AI강국,국가순위보다중요한것[투데이窓/최연구]",
     "SK이노울산CLX,제조AI미래제시",
     "美\"반도체표적관세\"…'표'나게압박하는트럼프",
-    "[기업최전선을가다-(주)피넛AI]"
+    "[기업최전선을가다-(주)피넛AI]",
+    "네이버컨소시엄,정부'보안특화AI'사업따냈다",
+    "지지율끌어올리려,동맹국끌어내리는美"
    ],
    "initialized": true,
-   "last_run": "2026-09-04T04:05:17.095061+09:00"
+   "last_run": "2026-09-04T04:10:21.935178+09:00"
   }
  },
  "press_names": {
