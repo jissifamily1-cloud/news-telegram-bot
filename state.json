@@ -821,9 +821,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260903200805242",
-    "https://www.kyeongin.com/article/1770222",
-    "https://view.asiae.co.kr/article/2026090320084374070",
     "https://www.topstarnews.net/news/articleView.html?idxno=16182409",
     "http://www.segyebiz.com/newsView/20260903518876?OutUrl=naver",
     "http://www.jmbc.co.kr/news/view/67641",
@@ -2320,12 +2317,12 @@
     "https://www.thedailypost.kr/news/articleView.html?idxno=115391",
     "https://www.newstnt.com/news/articleView.html?idxno=716792",
     "http://www.hellodd.com/news/articleView.html?idxno=113066",
-    "https://biz.sbs.co.kr/article_hub/20000332818?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000332818?division=NAVER",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=446483",
+    "https://www.bigtanews.co.kr/article/view/big202609040017",
+    "https://www.newsis.com/view/NISX20260904_0003777275"
    ],
    "seen_titles": [
-    "이대통령,양대노총위원장만나3대메가프로젝트논의",
-    "'빚더미'한전,'삼성닉스'에SOS!‥\"전기료25조원미리내달라\"",
-    "김석봉씨티부사장,모건스탠리한국IB공동대표로",
     "이름같다고'용혜인테마주'된혜인…엉뚱한테마주논란",
     "[춘추칼럼]바다의가치는누가부여하는가",
     "이상일용인시장“반도체산단공사대비안전시스템구축”",
@@ -3822,10 +3819,13 @@
     "인크로스,틱톡공식에이전시파트너선정…숏폼마케팅경쟁력격상",
     "[공시]9월7일,코스피상장사42개종목자사주매수신청",
     "\"소부장미래기술이끌경영자찾습니다\"",
-    "[이슈체크]노무라\"67만전자·470만닉스간다\"…지금주가안보이나?현..."
+    "[이슈체크]노무라\"67만전자·470만닉스간다\"…지금주가안보이나?현...",
+    "농심3세신상열부사장13일결혼,예비신부는대기업평사원",
+    "[증시오늘]코스피6680선반등",
+    "'농심3세'신상열부사장,13일결혼…예비신부는SKT직원"
    ],
    "initialized": true,
-   "last_run": "2026-09-04T20:35:16.618550+09:00"
+   "last_run": "2026-09-04T20:40:22.657544+09:00"
   }
  },
  "press_names": {
