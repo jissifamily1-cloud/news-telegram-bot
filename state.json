@@ -129,8 +129,6 @@
     ]
    ],
    "seen_urls": [
-    "http://weekly.chosun.com/news/articleView.html?idxno=54935",
-    "https://sports.hankooki.com/news/articleView.html?idxno=6939014",
     "https://www.segye.com/newsView/20260903515442?OutUrl=naver",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=276173",
     "https://sports.hankooki.com/news/articleView.html?idxno=6939024",
@@ -1628,11 +1626,11 @@
     "https://sports.hankooki.com/news/articleView.html?idxno=6939140",
     "https://www.news2day.co.kr/article/20260905500005",
     "https://www.newsverse.kr/news/articleView.html?idxno=11367",
-    "https://www.fnnews.com/news/202609050530337193"
+    "https://www.fnnews.com/news/202609050530337193",
+    "https://www.news2day.co.kr/article/20260905500007",
+    "http://www.beyondpost.co.kr/view.php?ud=2026090505330843322aaae0046f_30"
    ],
    "seen_titles": [
-    "SK증권,IRP·연금저축이벤트연장",
-    "KEPCOSeeksAdvanceBillsfromSamsung,SKhynix:Why?",
     "[기획]\"개미10조잃을때,미래에셋은1조를벌었다\"레버리지ETF가남...",
     "용혜인장관지명되자'혜인'주가25%뚝…무슨관계길래?",
     "트와이스미나,눈부신등장",
@@ -3130,10 +3128,12 @@
     "'페디-폰세급외인,SSG도얻었다'…'5승-ERA1.40'아빌라,이제관건은...",
     "외인·기관'삼전·하닉'팔고삼성전기·SK이노베이션샀다…개인은현...",
     "[오늘의경제뉴스]트럼프는삼성·SK끌어당기는데,美첨단소부장은...",
-    "[뉴욕증시]'깜짝고용'따른금리인상우려에하락…테슬라,5.9%급락"
+    "[뉴욕증시]'깜짝고용'따른금리인상우려에하락…테슬라,5.9%급락",
+    "美고용‘서프라이즈’에뉴욕증시하락…반도체는나홀로강세",
+    "마이크론6%,SK하이닉스ADR8.14%급등...노무라증권반도체긍정평가..."
    ],
    "initialized": true,
-   "last_run": "2026-09-05T05:45:23.127871+09:00"
+   "last_run": "2026-09-05T05:50:23.656589+09:00"
   }
  },
  "press_names": {
