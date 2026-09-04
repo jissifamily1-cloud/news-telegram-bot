@@ -210,11 +210,17 @@
     [
      "2026-09-05T01:30:30.253900+09:00",
      "입맛까지 염탐인가 노래 꿰뚫은 알고리즘인가 부장"
+    ],
+    [
+     "2026-09-05T01:50:22.632710+09:00",
+     "결혼 신상열 SKT 직원과 부사장 13일 농심 3세"
+    ],
+    [
+     "2026-09-05T01:50:22.632710+09:00",
+     "권환기 별세"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=276168",
-    "https://tk.newdaily.co.kr/site/data/html/2026/09/03/2026090300371.html",
     "http://www.rightknow.co.kr/news/articleView.html?idxno=34645",
     "https://www.hankyung.com/article/202609033194h",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058412",
@@ -1712,11 +1718,11 @@
     "http://www.paxetv.com/news/articleView.html?idxno=281104",
     "https://www.hankyung.com/article/202609055459i",
     "https://www.chosun.com/economy/industry-company/2026/09/05/7CUTZNG3TJDRNGTV6LMBCMA3TM/",
-    "https://www.joongang.co.kr/article/25459269"
+    "https://www.joongang.co.kr/article/25459269",
+    "https://www.donga.com/news/People/article/all/20260904/134609799/2",
+    "https://www.donga.com/news/People/article/all/20260904/134609806/2"
    ],
    "seen_titles": [
-    "美,\"반도체관세내거나공장짓거나\"…삼성ㆍSK겨냥",
-    "“오늘사고오늘팔죠”…단타몰린‘삼전닉스’,반도체주변동성은...",
     "메리츠증권'MOUM'계좌개설고객에현금·주식제공",
     "MicronJoinsRaceforPost-HBMMemory",
     "티에스이,대구시반도체검사설계거점에300억투자",
@@ -3214,10 +3220,12 @@
     "[1분영상]현대백화점VIP잡은하나증권…\"흔들릴수록현금비중높인...",
     "美국채서떠나려는국부펀드는어디?…주가부진,메모리는잘못이없...",
     "인성묻던자소서,이젠AI역량묻는다",
-    "노래·입맛까지김부장꿰뚫은AI…알고리즘인가염탐인가"
+    "노래·입맛까지김부장꿰뚫은AI…알고리즘인가염탐인가",
+    "‘농심3세’신상열부사장SKT직원과13일결혼",
+    "[부고]권환기별세外"
    ],
    "initialized": true,
-   "last_run": "2026-09-05T01:45:21.952756+09:00"
+   "last_run": "2026-09-05T01:50:22.632710+09:00"
   }
  },
  "press_names": {
