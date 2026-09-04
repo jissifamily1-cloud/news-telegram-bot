@@ -674,13 +674,13 @@
     [
      "2026-09-04T21:40:23.877313+09:00",
      "상승에 코스피 KB금융 6600선 회복 삼성전기 SK스퀘어 상승 VS"
+    ],
+    [
+     "2026-09-04T21:55:18.132787+09:00",
+     "인상적 시장 베를린 클로이드 LG전자 로봇"
     ]
    ],
    "seen_urls": [
-    "https://www.greened.kr/news/articleView.html?idxno=349206",
-    "https://news.tvchosun.com/site/data/html_dir/2026/09/03/2026090390254.html",
-    "https://www.newstnt.com/news/articleView.html?idxno=716639",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=862107",
     "https://www.m-i.kr/news/articleView.html?idxno=1409951",
     "http://andongmbc.co.kr/adboard/NewsView84572",
     "https://www.businesspost.co.kr/BP?command=article_view&num=446384",
@@ -2176,13 +2176,13 @@
     "https://www.mk.co.kr/article/12144902",
     "https://www.sedaily.com/article/20087450",
     "https://www.dailian.co.kr/news/view/1686722/?sc=Naver",
-    "http://www.econonews.co.kr/news/articleView.html?idxno=443904"
+    "http://www.econonews.co.kr/news/articleView.html?idxno=443904",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1403042",
+    "http://sateconomy.co.kr/news/view/1065616920311549",
+    "https://www.industrynews.co.kr/news/articleView.html?idxno=85552",
+    "https://www.fnnews.com/news/202609042129421778"
    ],
    "seen_titles": [
-    "미반도체새관세예고\"대미투자안하면완제품확대\"",
-    "[통신/IT]SKT수능응원백서/LGU+제천음악영화제/LGU+디지털포용...",
-    "SK이노울산CLX,'제조AI기술'미래선보인다",
-    "이재명대통령,최태원·이재용이어정의선회장과비공개회동...새만...",
     "4100억원에새주인맞는SK오션플랜트…디오션컨소시엄이인수",
     "[공시]더콘텐츠온·인바이츠바이오코아'거래정지',CJENM·경남제약...",
     "이재명•정의선비공개회동...새만금•대미투자논의",
@@ -3678,10 +3678,14 @@
     "곧100만명바글바글몰려든다는‘이곳’…불꽃축제대란에맞서는이...",
     "“코인팔아마련한1500억,어디로갔나보니”…30대절반,‘똘똘한...",
     "[데일리안오늘뉴스종합]이재명정부인사검증부실논란재점화,용...",
-    "코스피,1%대상승에6600선회복...SK스퀘어,삼성전기상승VSKB금융,..."
+    "코스피,1%대상승에6600선회복...SK스퀘어,삼성전기상승VSKB금융,...",
+    "'오너가3세'신상열농심부사장,SK텔레콤평사원과결혼",
+    "美,“미국서만들라”압박…美기업4곳은한국반도체생태계로",
+    "농심오너가3세신상열부사장,13일결혼",
+    "獨베를린시장\"LG전자홈로봇'클로이드'인상적\"[IFA2026]"
    ],
    "initialized": true,
-   "last_run": "2026-09-04T21:50:23.441846+09:00"
+   "last_run": "2026-09-04T21:55:18.132787+09:00"
   }
  },
  "press_names": {
