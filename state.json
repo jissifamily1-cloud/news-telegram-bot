@@ -354,10 +354,13 @@
     [
      "2026-09-05T09:10:20.579779+09:00",
      "가격이 인치범의 100만원 사야 하나 무인도 1개 말아야 초코파이"
+    ],
+    [
+     "2026-09-05T09:20:22.586227+09:00",
+     "삼성전자 팔고 SK하이닉스 대거 우리금융지주"
     ]
    ],
    "seen_urls": [
-    "https://www.fnnews.com/news/202609031536318929",
     "https://economist.co.kr/article/view/ecn202608310061",
     "https://biz.chosun.com/real_estate/real_estate_general/2026/09/04/DF2XWLNRRJDGFDYHZYJZEK6DPQ/",
     "https://biz.chosun.com/industry/company/2026/09/04/OPUHQS36LVGQJBTJ2XNMXHY4XI/",
@@ -1856,10 +1859,10 @@
     "https://www.asiaa.co.kr/news/articleView.html?idxno=261136",
     "https://www.ajunews.com/view/20260904154927588",
     "https://it.chosun.com/news/articleView.html?idxno=2023092169520",
-    "https://www.fnnews.com/news/202609042259398452"
+    "https://www.fnnews.com/news/202609042259398452",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484098"
    ],
    "seen_titles": [
-    "[기자수첩]반도체IPO러시,중요한건그다음이다",
     "삼전ㆍ하닉,상승장선9천피엔진⋯하락장선방패[코스피버팀목된반...",
     "삼전닉스자사주매입‘속도전’⋯조기종료시수급절벽우려↑[코스...",
     "\"매크로못이기는업황\"…AI반도체투자심리꺾였다",
@@ -3358,10 +3361,11 @@
     "SKT,'자원순환의날'맞아폐IT기기수거...취약계층아동에재제조기...",
     "[김준환의교육&시선]'5극3특'의하위수단으로전락한'서울대10개만...",
     "\"기다렸다가는못뽑아\"…AI인재'선별채용'강화나섰다",
-    "\"무인도초코파이1개가격이100만원?\"사야하나말아야하나[인치범의..."
+    "\"무인도초코파이1개가격이100만원?\"사야하나말아야하나[인치범의...",
+    "[주간거래소외국인]SK하이닉스·삼성전자대거팔고우리금융지주·..."
    ],
    "initialized": true,
-   "last_run": "2026-09-05T09:15:19.659605+09:00"
+   "last_run": "2026-09-05T09:20:22.586227+09:00"
   }
  },
  "press_names": {
