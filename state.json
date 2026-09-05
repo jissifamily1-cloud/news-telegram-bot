@@ -250,13 +250,13 @@
     [
      "2026-09-06T07:20:23.403470+09:00",
      "여수 1호 석화업계 울산 제자리 사업재편 출범 대산 첫발"
+    ],
+    [
+     "2026-09-06T07:30:24.762618+09:00",
+     "둔화 26억달러대로 일간 거래대금 Trade xyz"
     ]
    ],
    "seen_urls": [
-    "http://www.weeklytoday.com/news/articleView.html?idxno=792998",
-    "https://www.newsis.com/view/NISX20260904_0003776095",
-    "https://www.ntoday.co.kr/news/articleView.html?idxno=129157",
-    "http://www.wsobi.com/news/articleView.html?idxno=317555",
     "https://news.ifm.kr/news/articleView.html?idxno=478634",
     "https://www.bloter.net/news/articleView.html?idxno=672578",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483787",
@@ -1752,13 +1752,13 @@
     "https://www.lecturernews.com/news/articleView.html?idxno=210143",
     "https://www.yna.co.kr/view/AKR20260903150000054?input=1195m",
     "https://www.newsway.co.kr/news/view?ud=2026090416144665329",
-    "https://www.news1.kr/industry/general-industry/6280689"
+    "https://www.news1.kr/industry/general-industry/6280689",
+    "https://www.mydaily.co.kr/page/view/2026090514552646938",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=604018",
+    "https://www.g-enews.com/view.php?ud=202609060719068424fbbec65dfb_1",
+    "https://www.tokenpost.kr/news/cryptocurrency/403128"
    ],
    "seen_titles": [
-    "SK렌터카,법인차량맞춤형컨설팅확대…운영부담줄인다",
-    "7월경상수지…반도체중심420.8억달러흑자",
-    "[서울데이터랩]코스피,장초반1.55%올라6681.48…외국인·기관동반...",
-    "[위클리오늘]서울집값상승세수도권확산…'국민평형'20억아파트21...",
     "코스피,美금리동결기대감에1.5%상승…외인·기관'사자'",
     "동아쏘시오,13년만의재통합…투자속도빨라진다",
     "삼성전자·SKT,IFA2026서'삼성크리에이터허브'운영·자원순환캠페...",
@@ -3254,10 +3254,14 @@
     "서학개미,9월반도체개별주대거매도…3배레버리지ETF'속슬'은매수",
     "하수재이용수,호남반도체용수예비→주공급원",
     "다시붙붙은신용거래융자…증시정체속'빚투'주의",
-    "'대산1호출범'석화업계사업재편…여수'첫발',울산'제자리'"
+    "'대산1호출범'석화업계사업재편…여수'첫발',울산'제자리'",
+    "차영현치어리더'여전히상큼해'[치얼UP영상]",
+    "양대지수동반상승,삼성전자·SK하이닉스·원익IPS껑충…미국증시는...",
+    "대만반도체공급망,美에200억弗추가투자…패키징주도권경쟁",
+    "Trade.xyz일간거래대금26억달러대로둔화"
    ],
    "initialized": true,
-   "last_run": "2026-09-06T07:25:15.265236+09:00"
+   "last_run": "2026-09-06T07:30:24.762618+09:00"
   }
  },
  "press_names": {
