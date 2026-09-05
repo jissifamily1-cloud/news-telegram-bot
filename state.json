@@ -238,13 +238,21 @@
     [
      "2026-09-06T07:10:22.007496+09:00",
      "실행형 모두의 다른 입구 같은"
+    ],
+    [
+     "2026-09-06T07:20:23.403470+09:00",
+     "주공급원 재이용수 예비 용수 하수 호남 반도체"
+    ],
+    [
+     "2026-09-06T07:20:23.403470+09:00",
+     "주의 붙붙은 빚투 증시 다시 신용거래융자 정체"
+    ],
+    [
+     "2026-09-06T07:20:23.403470+09:00",
+     "여수 1호 석화업계 울산 제자리 사업재편 출범 대산 첫발"
     ]
    ],
    "seen_urls": [
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=143986",
-    "https://www.g-enews.com/view.php?ud=202609040930437231112616b072_1",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=310408",
-    "https://www.seoul.co.kr/news/economy/securities/2026/09/04/20260904500042?wlog_tag3=naver",
     "http://www.weeklytoday.com/news/articleView.html?idxno=792998",
     "https://www.newsis.com/view/NISX20260904_0003776095",
     "https://www.ntoday.co.kr/news/articleView.html?idxno=129157",
@@ -1740,13 +1748,13 @@
     "https://www.koreatimes.co.kr/path/A2026090214330005662",
     "https://www.womennews.co.kr/news/articleView.html?idxno=281799",
     "https://www.newsway.co.kr/news/view?ud=2026090410503516095",
-    "https://www.dt.co.kr/article/12082212"
+    "https://www.dt.co.kr/article/12082212",
+    "https://www.lecturernews.com/news/articleView.html?idxno=210143",
+    "https://www.yna.co.kr/view/AKR20260903150000054?input=1195m",
+    "https://www.newsway.co.kr/news/view?ud=2026090416144665329",
+    "https://www.news1.kr/industry/general-industry/6280689"
    ],
    "seen_titles": [
-    "코스피,장초반1%대상승…정유株동반강세",
-    "SKT,폐스마트폰·노트북수거해재활용···취약계층아동지원",
-    "[위클리오늘]반도체수출호조에7월경상수지421억달러흑자…역대...",
-    "美증시강세에코스피1%오른6600등락...기관·외인순매수",
     "SK렌터카,법인차량맞춤형컨설팅확대…운영부담줄인다",
     "7월경상수지…반도체중심420.8억달러흑자",
     "[서울데이터랩]코스피,장초반1.55%올라6681.48…외국인·기관동반...",
@@ -3242,10 +3250,14 @@
     "[COVERSTORY]FromTigertoAlign,shareholderactivismtakesrootinK",
     "유리거미줄,빵끈금이불...SK창업주옛집채운여성작가들",
     "삼성전자저리대출에웃는삼세권...동탄·영통이어천안까지후끈",
-    "같은‘실행형AI’,다른입구…‘모두의AI’3社3色"
+    "같은‘실행형AI’,다른입구…‘모두의AI’3社3色",
+    "서학개미,9월반도체개별주대거매도…3배레버리지ETF'속슬'은매수",
+    "하수재이용수,호남반도체용수예비→주공급원",
+    "다시붙붙은신용거래융자…증시정체속'빚투'주의",
+    "'대산1호출범'석화업계사업재편…여수'첫발',울산'제자리'"
    ],
    "initialized": true,
-   "last_run": "2026-09-06T07:15:19.710844+09:00"
+   "last_run": "2026-09-06T07:20:23.403470+09:00"
   }
  },
  "press_names": {
