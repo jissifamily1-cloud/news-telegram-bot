@@ -458,12 +458,13 @@
     [
      "2026-09-05T11:45:20.550906+09:00",
      "9월 5만원대 주가 SK이터닉스 상승 마감 4일"
+    ],
+    [
+     "2026-09-05T12:00:32.433080+09:00",
+     "펀드 핌코 공급망 넓힌다 앞선"
     ]
    ],
    "seen_urls": [
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609020534272140105627",
-    "https://weekly.donga.com/3/all/11/6371404/1",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609031100381210558",
     "https://www.sedaily.com/article/20087029",
     "https://www.bloter.net/news/articleView.html?idxno=672514",
     "https://www.news1.kr/world/usa-canada/6279534",
@@ -1960,12 +1961,12 @@
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005915945",
     "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97407",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=558690",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16183862"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16183862",
+    "https://www.mydaily.co.kr/page/view/2026090511490264201",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=879910",
+    "https://www.tokenpost.kr/news/ai/402901"
    ],
    "seen_titles": [
-    "[더벨]대주주바뀐원스토어,새대표에구강서",
-    "불꽃축제2026하루앞으로…'100만인파'대비책마련분주",
-    "증시호황에성과급‘잭팟’…상반기수령액메리츠1.65억·유안타1.5...",
     "[더벨]정재헌SKT대표\"AIDC5GW구축에최대500조\"",
     "“국내증시숨고르기중…조만간‘화끈한장세’재현가능성크지...",
     "3분기에도꽁꽁언IPO시장…작년6건주관한키움·신영증권도'상장無...",
@@ -3462,10 +3463,13 @@
     "AI데이터센터전력확보경쟁본격화…LNG·ESS이어SMR주목",
     "[k1.preview]'또'무승부는싫어요…1부잔류목표부천,대전잡고'중...",
     "[2026대한민국다문화어울림엑스포]\"한국취·창업,미리미리준비하...",
-    "9월4일SK이터닉스주가5만원대마감상승전환"
+    "9월4일SK이터닉스주가5만원대마감상승전환",
+    "농심3세신상열부사장,13일SKT직원과결혼…“신라면들고웨딩사진...",
+    "AI데이터센터전력확보전...'에너지올인원'설루션산업부상",
+    "97%앞선핌코펀드,AI공급망넓힌다"
    ],
    "initialized": true,
-   "last_run": "2026-09-05T11:55:17.319568+09:00"
+   "last_run": "2026-09-05T12:00:32.433080+09:00"
   }
  },
  "press_names": {
