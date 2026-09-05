@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-05T06:25:17.810295+09:00",
-     "P500 혼조 반도체 증시 강세에도 미국 마감 다우"
-    ],
-    [
      "2026-09-05T06:35:18.172216+09:00",
      "데이터센터로 통신사 기지국이 변신 시작됐다"
     ],
@@ -402,10 +398,13 @@
     [
      "2026-09-05T12:10:21.426029+09:00",
      "정부 지지율 이재명 최저 인사 논란 네팔 취임후"
+    ],
+    [
+     "2026-09-05T12:30:27.953853+09:00",
+     "먹거리 제철 쇼핑객 할인 잡아라 주말 K패션 팝업부터"
     ]
    ],
    "seen_urls": [
-    "https://www.seoulfn.com/news/articleView.html?idxno=637230",
     "https://www.edaily.co.kr/News/Read?newsId=02384566645576840&mediaCodeNo=257",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8654513",
     "https://www.g-enews.com/view.php?ud=20260904070948481fbbec65dfb_1",
@@ -1904,10 +1903,10 @@
     "https://www.etnews.com/20260904000276",
     "https://www.topstarnews.net/news/articleView.html?idxno=16183869",
     "https://www.g-enews.com/view.php?ud=202609051155371471e7e8286d56_1",
-    "https://www.aitimes.com/news/articleView.html?idxno=214872"
+    "https://www.aitimes.com/news/articleView.html?idxno=214872",
+    "https://www.sentv.co.kr/article/view/sentv202609050017"
    ],
    "seen_titles": [
-    "[美중간선거D-60]③한국계후보들면면…제주고씨이민3세도전장",
     "\"아이폰17'차비폰'됐다\"…아이폰신작출시에통신사보조금경쟁시...",
     "현대百,계열사24개중절반이‘상장사’…4대유통그룹중‘최다’,...",
     "[뉴욕증시]9월금리동결'50대50',1%대상승···비트코인도8만달러...",
@@ -3406,10 +3405,11 @@
     "SKT'수요'·KT'이음'·카카오'편리'…모두의AI개발시동",
     "9월1주차SK이노베이션주가13만원대후반마감",
     "앤트로픽,11월美선거직전상장…몸값2조달러",
-    "[AI이슈트렌드]'지지율취임후최저'이재명정부인사논란…네팔홍..."
+    "[AI이슈트렌드]'지지율취임후최저'이재명정부인사논란…네팔홍...",
+    "주말쇼핑객잡아라…K패션팝업부터제철먹거리할인"
    ],
    "initialized": true,
-   "last_run": "2026-09-05T12:25:16.169665+09:00"
+   "last_run": "2026-09-05T12:30:27.953853+09:00"
   }
  },
  "press_names": {
