@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-05T15:50:22.713757+09:00",
-     "감축 넘어 끝나지 순간 않는다 버려지는 폐기물"
-    ],
-    [
      "2026-09-05T16:15:21.484746+09:00",
      "특별 은퇴식 원클럽맨 등록 출전 선발 김성현 SSG 엔트리 2루수 21년"
     ],
@@ -161,8 +157,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/bio/pharmaceutical-bio/6279711",
-    "https://www.g-enews.com/view.php?ud=202609040844422610fbbec65dfb_1",
     "https://www.news1.kr/finance/market-exr/6279708",
     "https://dealsite.co.kr/articles/168252",
     "https://www.lawtv.kr/news/articleView.html?idxno=60841",
@@ -1660,11 +1654,11 @@
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553516036",
     "https://www.sportsseoul.com/news/read/1633028",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=862470",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8655676"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8655676",
+    "https://www.sportsseoul.com/news/read/1633031",
+    "https://www.sportsseoul.com/news/read/1633030"
    ],
    "seen_titles": [
-    "SK텔레콤,'리파인데이'통해자원순환캠페인시행",
-    "[AIMY증시전망]코스피,美금리하락·증시강세에상승출발전망",
     "[더벨][멜콘IPO]국내기업매출편중낮춘다…글로벌고객확보집중",
     "“Second-HalfPerformancetoOutpaceFirstHalf”…CelltrionExpected",
     "강덕수전STX회장복귀시동,중견조선소지배구조재편",
@@ -3162,10 +3156,12 @@
     "[현장목소리]세르지우코스타감독\"무승부에상당히분한선수들,또...",
     "1부첫5실점‘완패’,부천이영민감독“어수선한하루,나도선수들...",
     "프로축구서울,인천잡고5연승…전북은2위탈환",
-    "고성군“1조원투자·3,600명고용…‘3대요구’”"
+    "고성군“1조원투자·3,600명고용…‘3대요구’”",
+    "‘발목밟고퇴장한야고’울산,수적열세에도제주원정서0-0무승부",
+    "상대퇴장에도가까스로‘시즌첫5연승’서울김기동감독“축구라..."
    ],
    "initialized": true,
-   "last_run": "2026-09-05T21:50:22.014567+09:00"
+   "last_run": "2026-09-05T21:55:16.997831+09:00"
   }
  },
  "press_names": {
