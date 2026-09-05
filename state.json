@@ -377,9 +377,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/science-chosun/bio/2026/09/04/KT2BS7CHUVAJRLHU5VHPDDWXGU/",
-    "https://www.news1.kr/finance/general-stock/6279593",
-    "https://www.news1.kr/finance/general-stock/6279591",
     "https://www.fetv.co.kr/news/articleView.html?idxno=309608",
     "https://it.chosun.com/news/articleView.html?idxno=2023092169439",
     "https://www.khan.co.kr/article/202609040600031",
@@ -1876,12 +1873,12 @@
     "https://www.g-enews.com/view.php?ud=202609050839358339fbbec65dfb_1",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484099",
     "https://www.cbci.co.kr/news/articleView.html?idxno=604079",
-    "http://www.bizwnews.com/news/articleView.html?idxno=144988"
+    "http://www.bizwnews.com/news/articleView.html?idxno=144988",
+    "http://www.whitepaper.co.kr/news/articleView.html?idxno=266449",
+    "https://www.hankyung.com/article/2026090556937",
+    "https://www.the-today.com/news/articleView.html?idxno=89527"
    ],
    "seen_titles": [
-    "공급은계속주는데소비도못줄여…경유가격‘고공행진’에정유사...",
-    "손경식\"경영자,과거보다큰짐…'기업할환경'만들어줘야\"[문답]",
-    "[CPU대란주의보④]“CPU만있으면뭐하나,보드가안돈다”",
     "K바이오기술수출벌써21兆…역대최대실적기대",
     "5%넘보는美10년국채금리…투자위축시코스피직격탄",
     "\"해외IB보고서믿어도될까\"…외국인은파는데코스피1만전망유지",
@@ -3378,10 +3375,13 @@
     "화웨이AI칩16만대택한딥시크,시험대오른한국메모리",
     "[주간거래소기관]포스코인터내셔널포스코DXSK이노베이션신한지주...",
     "삼성전기,코스피강세속껑충…주말이후흐름은",
-    "SK핀크스,제주레스토랑미식경쟁력강화…'블루리본'연속선정"
+    "SK핀크스,제주레스토랑미식경쟁력강화…'블루리본'연속선정",
+    "'농심3세'신상열부사장,13일회사원과결혼",
+    "'2조달러'앤트로픽IPO에불안한삼전·닉스개미들",
+    "[단독]헝가리SK온배터리공장관측정서유해물질검출…지하수오염..."
    ],
    "initialized": true,
-   "last_run": "2026-09-05T09:50:19.742787+09:00"
+   "last_run": "2026-09-05T09:55:16.450702+09:00"
   }
  },
  "press_names": {
