@@ -174,10 +174,13 @@
     [
      "2026-09-06T06:35:16.479112+09:00",
      "소외 대형주 쏠리는 상장사 기업분석 중심으로 신규 증권사"
+    ],
+    [
+     "2026-09-06T06:45:21.896734+09:00",
+     "셈법 주식시장 환율 원화 찍던 1560원 바뀐다 강세에 1350원대로"
     ]
    ],
    "seen_urls": [
-    "https://www.chosun.com/economy/money/2026/09/04/2SLWEJPZGZHOXDU6QNWSHBREDQ/",
     "https://www.edaily.co.kr/News/Read?newsId=02883126645576840&mediaCodeNo=257",
     "https://www.news1.kr/finance/market-exr/6279801",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=88824",
@@ -1676,10 +1679,10 @@
     "https://biz.heraldcorp.com/article/10863319",
     "https://www.news1.kr/industry/general-industry/6277973",
     "https://www.goodkyung.com/news/articleView.html?idxno=290990",
-    "https://www.yna.co.kr/view/AKR20260905001300008?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260905001300008?input=1195m",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484195"
    ],
    "seen_titles": [
-    "[특징주]삼전·닉스,미국발훈풍에장초반2%대강세",
     "코스피,美금리진정에6600선회복…외국인·기관'쌍끌이'",
     "SK렌터카,법인차량컨설팅기반'맞춤형모빌리티솔루션'제공",
     "미국채금리진정에기술주반등…코스피도1%대상승출발",
@@ -3178,10 +3181,11 @@
     "“이러다K-반도체도LCD꼴난다”…中CXMT,애플업고삼성·SK흔드나...",
     "렌털약정기간늘리자폐기손실'뚝'…月요금낮추고고객록인",
     "[위클리에너지리포트]OCI홀딩스,美텍사스260㎿태양광프로젝트착...",
-    "대형주중심으로쏠리는증권사기업분석…신규상장사'소외'"
+    "대형주중심으로쏠리는증권사기업분석…신규상장사'소외'",
+    "1560원찍던환율1350원대로…원화강세에주식시장셈법바뀐다"
    ],
    "initialized": true,
-   "last_run": "2026-09-06T06:40:19.965562+09:00"
+   "last_run": "2026-09-06T06:45:21.896734+09:00"
   }
  },
  "press_names": {
