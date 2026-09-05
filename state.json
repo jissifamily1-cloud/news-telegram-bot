@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-05T06:45:20.586159+09:00",
-     "줄인 테퍼 마이크론 2위 보유가치는"
-    ],
-    [
      "2026-09-05T07:00:34.729829+09:00",
      "SK하이닉스 마이크론 메모리ETF 반도체주 미국증시 껑충"
     ],
@@ -390,11 +386,17 @@
     [
      "2026-09-05T12:30:27.953853+09:00",
      "먹거리 제철 쇼핑객 할인 잡아라 주말 K패션 팝업부터"
+    ],
+    [
+     "2026-09-05T12:45:20.970989+09:00",
+     "전화 검색으로 속도 인공지능 개발 카톡 모두의 쓰는 국산"
+    ],
+    [
+     "2026-09-05T12:45:20.970989+09:00",
+     "선납 SK에 25조원 투자인가 한전 요구 삼성 전력망 자금 돌려"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=02384566645576840&mediaCodeNo=257",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8654513",
     "https://www.g-enews.com/view.php?ud=20260904070948481fbbec65dfb_1",
     "https://news.tf.co.kr/read/economy/2361836.htm",
     "https://news.jtbc.co.kr/article/NB12316659?influxDiv=NAVER",
@@ -1892,11 +1894,11 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16183869",
     "https://www.g-enews.com/view.php?ud=202609051155371471e7e8286d56_1",
     "https://www.aitimes.com/news/articleView.html?idxno=214872",
-    "https://www.sentv.co.kr/article/view/sentv202609050017"
+    "https://www.sentv.co.kr/article/view/sentv202609050017",
+    "https://www.segye.com/newsView/20260904509745?OutUrl=naver",
+    "https://www.ppss.kr/news/articleView.html?idxno=308982"
    ],
    "seen_titles": [
-    "\"아이폰17'차비폰'됐다\"…아이폰신작출시에통신사보조금경쟁시...",
-    "현대百,계열사24개중절반이‘상장사’…4대유통그룹중‘최다’,...",
     "[뉴욕증시]9월금리동결'50대50',1%대상승···비트코인도8만달러...",
     "국민의힘,용혜인·김승원‘쌍끌이낙마’총공세[오늘의여의도]",
     "“달러값1350원대로급락”…지금안사면또후회할까?[잇슈머니]",
@@ -3394,10 +3396,12 @@
     "9월1주차SK이노베이션주가13만원대후반마감",
     "앤트로픽,11월美선거직전상장…몸값2조달러",
     "[AI이슈트렌드]'지지율취임후최저'이재명정부인사논란…네팔홍...",
-    "주말쇼핑객잡아라…K패션팝업부터제철먹거리할인"
+    "주말쇼핑객잡아라…K패션팝업부터제철먹거리할인",
+    "전화·카톡·검색으로쓰는국산AI…‘모두의인공지능’개발속도",
+    "[시론]한전,삼성·SK에25조원선납요구…전력망투자인가자금돌려..."
    ],
    "initialized": true,
-   "last_run": "2026-09-05T12:40:19.965022+09:00"
+   "last_run": "2026-09-05T12:45:20.970989+09:00"
   }
  },
  "press_names": {
