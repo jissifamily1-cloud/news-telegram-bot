@@ -242,11 +242,17 @@
     [
      "2026-09-07T06:15:22.982953+09:00",
      "불붙은 쌓은 경쟁 기업 몰린다 신뢰 주주환원"
+    ],
+    [
+     "2026-09-07T06:30:25.135119+09:00",
+     "SK텔레콤 계획 AI데이터센터 사업 운영"
+    ],
+    [
+     "2026-09-07T06:30:25.135119+09:00",
+     "선고 여부 권혁빈 다음주 쟁점은 이혼소송 혼인 파탄"
     ]
    ],
    "seen_urls": [
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000062546",
-    "https://www.thelec.kr/news/articleView.html?idxno=61834",
     "https://www.g-enews.com/view.php?ud=202609041409525476923c501012_1",
     "https://www.koreaherald.com/article/10862994",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698272",
@@ -1744,11 +1750,11 @@
     "https://www.news1.kr/economy/trend/6281478",
     "https://www.sedaily.com/article/20087760",
     "https://www.segye.com/newsView/20260906508746?OutUrl=naver",
-    "https://www.segye.com/newsView/20260906508213?OutUrl=naver"
+    "https://www.segye.com/newsView/20260906508213?OutUrl=naver",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=63869",
+    "https://www.sidae.com/article/2026090409533216290"
    ],
    "seen_titles": [
-    "'한국형공포지수'VKOSPI40선붕괴…6개월여만에최저",
-    "정부,'모두의AI'에내년2500억편성…SKT·카카오·KT에100억씩",
     "삼전·닉스선물증거금률50%육박…거래소,변동성'고삐'죈다",
     "SamsungnarrowsHBMgapwithSKhynix",
     "SKT·KT·카카오'모두의AI'출격채비…외산넘을대국민AI시동",
@@ -3246,10 +3252,12 @@
     "기업이쏟아낸달러에환율1340원대…\"1300원간다\"vs\"4분기반등\"",
     "“노후자금까지주식에탈탈”…보험·카드론대출늘리는5060,증시꺾...",
     "삼성약진에中CXMT진출…HBM시장요동",
-    "불붙은주주환원경쟁…‘신뢰쌓은기업’에돈몰린다[마이머니]"
+    "불붙은주주환원경쟁…‘신뢰쌓은기업’에돈몰린다[마이머니]",
+    "SK텔레콤AI데이터센터사업운영계획",
+    "권혁빈이혼소송다음주선고…쟁점은혼인파탄여부"
    ],
    "initialized": true,
-   "last_run": "2026-09-07T06:25:20.319008+09:00"
+   "last_run": "2026-09-07T06:30:25.135119+09:00"
   }
  },
  "press_names": {
