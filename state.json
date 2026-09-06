@@ -410,13 +410,17 @@
     [
      "2026-09-06T09:30:28.424190+09:00",
      "1300원대 열리나 내린 200원 만에 환율 초반까지"
+    ],
+    [
+     "2026-09-06T09:40:21.251797+09:00",
+     "종부세 내는 22개구로 서울 확산 세금인 강남만 알았는데"
+    ],
+    [
+     "2026-09-06T09:40:21.251797+09:00",
+     "확산한 AI로 지역 방안 일상까지 찾는다 혁신 산업부터 울산상의"
     ]
    ],
    "seen_urls": [
-    "http://www.rightknow.co.kr/news/articleView.html?idxno=34652",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=727335",
-    "https://www.edaily.co.kr/News/Read?newsId=03007766645576840&mediaCodeNo=257",
-    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553512827",
     "https://www.gokorea.kr/news/articleView.html?idxno=877161",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483821",
     "https://news.mtn.co.kr/news-detail/2026090409541043421",
@@ -1912,13 +1916,13 @@
     "https://www.edaily.co.kr/News/Read?newsId=01262806645577496&mediaCodeNo=257",
     "https://www.etoday.co.kr/news/view/2622249",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=144037",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=144041"
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=144041",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609060047&t=NN",
+    "https://www.yna.co.kr/view/AKR20260904152200017?input=1195m",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484219",
+    "https://www.edaily.co.kr/News/Read?newsId=01282486645577496&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "반도체질주에경상흑자'잭팟'",
-    "정용진,美첨단산업인재육성행사참석…리플렉션AI협력도논의",
-    "[박래혁의테크오딧세이]AI가'추론'을넘어'실행'으로...CPU'인사이드...",
-    "eSIM에1위뺏긴통신사로밍…'여행서비스'로반격",
     "\"용혜인이사장임?\"…난데없이'정치테마주'된혜인",
     "[오피셜]'韓축구희소식!'태극전사전원,챔피언스리그출격…김민재...",
     "국채금리안정,코스피·코스닥동반상승...반도체주가상승세주도",
@@ -3414,10 +3418,14 @@
     "OTT구독피로줄인다…SK브로드밴드‘Btv+max’활용법",
     "신규상장40곳중목표가3곳…상장후기업분석‘뚝’",
     "[이번주증시]美고용호조속주초반제한적흐름보일듯",
-    "[이번주환율]두달만에200원내린환율…1300원대초반까지열리나"
+    "[이번주환율]두달만에200원내린환율…1300원대초반까지열리나",
+    "항공주웃고車는울상…환율하락에'희비'",
+    "[AI위클리]'미토스'맞설국산보안AI뜬다…'모두의AI'도출격",
+    "\"강남만내는세금인줄알았는데\"…종부세,서울22개구로확산",
+    "SK·울산상의,산업부터일상까지확산한AI로지역혁신방안찾는다"
    ],
    "initialized": true,
-   "last_run": "2026-09-06T09:35:17.531283+09:00"
+   "last_run": "2026-09-06T09:40:21.251797+09:00"
   }
  },
  "press_names": {
