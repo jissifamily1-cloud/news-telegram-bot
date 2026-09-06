@@ -278,11 +278,13 @@
     [
      "2026-09-07T00:25:18.147504+09:00",
      "반도체 굴기 중국의 대장 반환점 돌아선"
+    ],
+    [
+     "2026-09-07T00:35:17.611750+09:00",
+     "시장 액체냉각 경쟁 데이터센터 정유사 발열 잡아라"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000332822?division=NAVER",
-    "https://thetracker.co.kr/View.aspx?No=4212849",
     "https://www.mediapen.com/news/view/1121352",
     "https://www.ziksir.com/news/articleView.html?idxno=145428",
     "https://www.news1.kr/economy/trend/6280135",
@@ -1780,11 +1782,11 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=604331",
     "https://www.cbci.co.kr/news/articleView.html?idxno=604295",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000009539&cp=nv",
-    "https://www.joongang.co.kr/article/25459529"
+    "https://www.joongang.co.kr/article/25459529",
+    "https://www.donga.com/news/Economy/article/all/20260906/134614962/2",
+    "https://www.donga.com/news/Economy/article/all/20260906/134614964/2"
    ],
    "seen_titles": [
-    "'국민1인1에이전트'첫발...SKT·KT·카카오.모두의AI'출사표'",
-    "노무라증권\"삼전·닉스,심각한저평가…전례없는수요호조\"",
     "SK네트웍스,AI투자성과실적반영…사업전환도속도",
     "\"상황은바뀌었는데규제만…\"고민깊어지는증권업계",
     "[문답]한은\"경상수지연4500억달러전망달성가능\"",
@@ -3282,10 +3284,12 @@
     "서학개미,9월개별반도체주대거차익실현…'3배레버리지'속슬은...",
     "오픈AI새모델'아스트라'공개에필라델피아반도체3.4%급등…코스...",
     "석화재편1년만에첫통합법인…정부목표량엔여전히미달",
-    "[백서인의중국과학기술굴기]반환점돌아선중국의반도체굴기대장..."
+    "[백서인의중국과학기술굴기]반환점돌아선중국의반도체굴기대장...",
+    "“AI로지역문제해결”11일‘울산포럼’열린다",
+    "“AI데이터센터발열잡아라”…정유사‘액체냉각’새시장경쟁"
    ],
    "initialized": true,
-   "last_run": "2026-09-07T00:30:26.136604+09:00"
+   "last_run": "2026-09-07T00:35:17.611750+09:00"
   }
  },
  "press_names": {
