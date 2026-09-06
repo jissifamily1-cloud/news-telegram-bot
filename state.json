@@ -430,11 +430,17 @@
     [
      "2026-09-06T18:11:20.252970+09:00",
      "금리 보다 외국인 리밸런싱 팔아도 비중은 상승 코리아 170조"
+    ],
+    [
+     "2026-09-06T18:25:18.380673+09:00",
+     "상승하며 부담 국내증시에 국채금리"
+    ],
+    [
+     "2026-09-06T18:25:18.380673+09:00",
+     "팔았다 반도체주는 4억3100만달러 순매수 SOXL"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=03388246645576840&mediaCodeNo=257",
-    "https://www.dailypharm.com/user/news/342146?REFERER=NP",
     "https://www.newscj.com/news/articleView.html?idxno=3430076",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576641153262",
     "https://www.consumuch.com/news/articleView.html?idxno=78956",
@@ -1932,11 +1938,11 @@
     "https://www.incheonilbo.com/news/articleView.html?idxno=1331346",
     "https://www.mk.co.kr/article/12145573",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260907010002205",
-    "https://www.etoday.co.kr/news/view/2622225"
+    "https://www.etoday.co.kr/news/view/2622225",
+    "https://www.jjan.kr/article/20260906500352",
+    "https://www.tokenpost.kr/news/market/403311"
    ],
    "seen_titles": [
-    "삼성전자·SK하이닉스,낸드시장1·2위지켰다…2분기매출70%급증",
-    "SKT·KT·카카오“AI서비스로국민일상바꾼다”…‘모두의AI’출사...",
     "신약성과에K-뷰티가세…제약바이오상반기수출호조",
     "수원시축제'정조대왕능행차'내달재현…안양시-행궁광장12㎞잇는...",
     "'전기국가'올라탄K-배터리…LG엔솔오창·삼성SDI울산·북미'ESS전초...",
@@ -3434,10 +3440,12 @@
     "[제물포럼]인천대공공의대설립,지금이골든타임이다",
     "글로벌머니무브…큰손들이핵심만'콕'",
     "22번째불꽃쏘아올린한화…26년만에재계5위로우뚝",
-    "170조팔아도외국인비중은상승…‘셀코리아’보다금리·리밸런싱..."
+    "170조팔아도외국인비중은상승…‘셀코리아’보다금리·리밸런싱...",
+    "[주간증시전망]미국채금리상승하며국내증시에부담",
+    "4억3100만달러SOXL순매수,반도체주는팔았다"
    ],
    "initialized": true,
-   "last_run": "2026-09-06T18:20:20.397133+09:00"
+   "last_run": "2026-09-06T18:25:18.380673+09:00"
   }
  },
  "press_names": {
