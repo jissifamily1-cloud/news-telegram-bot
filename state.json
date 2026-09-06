@@ -162,11 +162,13 @@
     [
      "2026-09-07T01:15:20.797000+09:00",
      "위협 수출시장 흔든다 K정유까지 아시아 전기차"
+    ],
+    [
+     "2026-09-07T03:15:20.702402+09:00",
+     "실효성 통폐합 전략 있는 세워야 공공기관"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2621966",
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=763106",
     "https://platum.kr/archives/294007",
     "https://www.consumuch.com/news/articleView.html?idxno=78962",
     "https://www.bloter.net/news/articleView.html?idxno=672685",
@@ -1664,11 +1666,11 @@
     "https://www.dt.co.kr/article/12082360",
     "https://www.chosun.com/national/labor/2026/09/07/PFW2UNJPR5FJZPTQ6S5BL5L42Y/",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000009559&cp=nv",
-    "https://www.newsverse.kr/news/articleView.html?idxno=11381"
+    "https://www.newsverse.kr/news/articleView.html?idxno=11381",
+    "https://www.g-enews.com/view.php?ud=2026090623123572279a1f309431_1",
+    "https://www.kyeonggi.com/article/20260906580372"
    ],
    "seen_titles": [
-    "정부·플랫폼·통신사손잡고'모두의AI'…일상속에이전트로",
-    "HD현대케미칼·롯데대산석화통합법인'H&LAdvanced'출범…대산석화...",
     "카카오컨소시엄,카카오톡에서쓰는'모두의AI'만든다",
     "SK렌터카,법인맞춤모빌리티사업본격화",
     "삼성·SK하이닉스,美D램담합소송첫공동반격…\"시장대응일뿐\"",
@@ -3166,10 +3168,12 @@
     "“심각한저평가”…노무라‘삼전닉스’목표가‘67만·470만’유지",
     "“30분거리발령나면파업되나요?”노란봉투법지침혼란",
     "조립식AI데이터센터뜬다…“2년걸릴공사,6개월이면끝”",
-    "[오늘의경제뉴스]中전기차,K정유까지위협…아시아수출시장흔든다"
+    "[오늘의경제뉴스]中전기차,K정유까지위협…아시아수출시장흔든다",
+    "엔비디아·SK하이닉스호재에도마이크론'무반응'",
+    "[사설]공공기관통폐합‚실효성있는추진전략세워야"
    ],
    "initialized": true,
-   "last_run": "2026-09-07T03:10:21.480006+09:00"
+   "last_run": "2026-09-07T03:15:20.702402+09:00"
   }
  },
  "press_names": {
