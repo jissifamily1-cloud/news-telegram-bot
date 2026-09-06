@@ -422,12 +422,21 @@
     [
      "2026-09-06T19:55:53.141615+09:00",
      "리포 70만원 SK하이닉스보다 충격적 230만원 반토막 심하다"
+    ],
+    [
+     "2026-09-06T20:05:16.893474+09:00",
+     "도는 크로반 뱅뱅 일본에 태풍 폭우 오키나와"
+    ],
+    [
+     "2026-09-06T20:05:16.893474+09:00",
+     "목표주가 때도 물린 오를 내릴 뒷북 개미들"
+    ],
+    [
+     "2026-09-06T20:05:16.893474+09:00",
+     "반도체 삼전닉스의 GPT 불붙은 월요일에 시간 옵니까 6에"
     ]
    ],
    "seen_urls": [
-    "https://www.sisajournal.com/news/articleView.html?idxno=386084",
-    "https://kpenews.com/View.aspx?No=4213261",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20260904010001752",
     "https://www.newstree.kr/newsView/ntr202609040009",
     "https://www.gokorea.kr/news/articleView.html?idxno=877181",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260904010001748",
@@ -1924,12 +1933,12 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=862574",
     "https://www.hidomin.com/news/articleView.html?idxno=720029",
     "https://biz.heraldcorp.com/article/10863371",
-    "https://biz.heraldcorp.com/article/10864055"
+    "https://biz.heraldcorp.com/article/10864055",
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5217367",
+    "https://www.seoul.co.kr/news/economy/2026/09/07/20260907001001?wlog_tag3=naver",
+    "https://www.mk.co.kr/article/12145603"
    ],
    "seen_titles": [
-    "SKT·KT·카카오,'모두의AI'개발착수…배경훈\"국민감탄할서비스...",
-    "2분기글로벌낸드매출70%껑충…삼성·SK1·2위지켜",
-    "37%빠진삼성전자·SK하이닉스..노무라“저평가과도”",
     "[포토]배부총리,‘모두의AI’기업들과간담회",
     "SKT,임직원대상자원순환캠페인'리파인데이'진행",
     "반도체수출호조로7월경상수지역대최대흑자기록,한국경제반등...",
@@ -3426,10 +3435,13 @@
     "SK·울산상의,11일'울산포럼'개최",
     "'취업사관학교'영진전문대수시모집서2309명뽑는다",
     "[증시예보]美10년물5%문턱…코스피,CPI·만기일에반등시험대",
-    "“230만원→70만원”SK하이닉스보다심하다…‘반토막’에충격적리포..."
+    "“230만원→70만원”SK하이닉스보다심하다…‘반토막’에충격적리포...",
+    "오키나와'뱅뱅'도는태풍크로반…일본에또폭우",
+    "오를때도내릴때도‘뒷북’…‘목표주가’에물린개미들[목표주가...",
+    "“월요일에삼전닉스의시간옵니까”…GPT-6에불붙은美반도체"
    ],
    "initialized": true,
-   "last_run": "2026-09-06T20:00:32.222084+09:00"
+   "last_run": "2026-09-06T20:05:16.893474+09:00"
   }
  },
  "press_names": {
