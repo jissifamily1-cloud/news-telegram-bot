@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-06T05:15:20.058876+09:00",
-     "테마개미 이유 주가 같아서라고 헤매는 쫓아 폭등한 이름"
-    ],
-    [
-     "2026-09-06T05:15:20.058876+09:00",
-     "풀고 장단에 조이고 미루는 정책에 맞추나 증시 개미 분통 어느"
-    ],
-    [
      "2026-09-06T05:40:22.685914+09:00",
      "급락 환율 코스피 개미 타고 박스권 미장 갇힌"
     ],
@@ -522,12 +514,21 @@
     [
      "2026-09-06T11:05:17.012125+09:00",
      "한은 열어둔 강세인데 금리 향방은 원화"
+    ],
+    [
+     "2026-09-06T11:15:21.794505+09:00",
+     "전력망 SK케미칼 공장 지붕부터 태양광 발전소까지"
+    ],
+    [
+     "2026-09-06T11:15:21.794505+09:00",
+     "코리아 백화점 세일 주춤한 바겐 성장세"
+    ],
+    [
+     "2026-09-06T11:15:21.794505+09:00",
+     "표준화 모듈러 AI데이터센터 단축 GS건설 승부 공기"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260904000344",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=276200",
-    "https://www.jejudomin.co.kr/news/articleView.html?idxno=322052",
     "https://www.donga.com/news/Economy/article/all/20260904/134603781/1",
     "https://www.hankyung.com/article/202609016659r",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4433461",
@@ -2024,12 +2025,12 @@
     "https://www.asiatime.co.kr/article/20260906500039",
     "http://www.yonhapnewstv.co.kr/news/MYH202609051553160Xj",
     "https://www.bloter.net/news/articleView.html?idxno=672743",
-    "https://news.bizwatch.co.kr/article/finance/2026/09/04/0028"
+    "https://news.bizwatch.co.kr/article/finance/2026/09/04/0028",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2467127",
+    "https://www.edaily.co.kr/News/Read?newsId=01433366645577496&mediaCodeNo=257",
+    "http://www.4th.kr/news/articleView.html?idxno=2117549"
    ],
    "seen_titles": [
-    "\"연내대국민AI띄운다\"…SKT·카카오·KT,'모두의AI'청사진공개",
-    "코스피,美금리인상경계완화에1%대상승…6670선",
-    "[중국특징주]CXMT이어초대형메모리IPO...'YMTC'심사본격화",
     "SouthKoreaPostsRecordJulyCurrentAccountSurplus",
     "제주SK,울산전서순위도약·설욕노린다",
     "가전들AI로연결하고지휘하는클로이드…LG전자,베를린서미래홈선...",
@@ -3526,10 +3527,13 @@
     "1300원대로내려온환율…기업달러예금'뭉칫돈'",
     "[기업기상도]비그치고볕든기업vs태풍소식에흔들린기업",
     "[낸드리부트]⑤키옥시아제친中YMTC…'물량'넘어'고부가'로",
-    "원화강세인데'3.5%'열어둔한은…금리향방은?"
+    "원화강세인데'3.5%'열어둔한은…금리향방은?",
+    "[에너지전환2050]SK케미칼,공장지붕부터발전소까지'태양광전력망...",
+    "'코리아바겐세일'끝?…주춤한백화점성장세",
+    "GS건설,AI데이터센터모듈러표준화…공기단축승부"
    ],
    "initialized": true,
-   "last_run": "2026-09-06T11:10:22.443029+09:00"
+   "last_run": "2026-09-06T11:15:21.794505+09:00"
   }
  },
  "press_names": {
