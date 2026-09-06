@@ -450,11 +450,17 @@
     [
      "2026-09-06T19:15:19.954734+09:00",
      "2030년 도봉 종부세 빼고 금천 이대로면 강북 과세권"
+    ],
+    [
+     "2026-09-06T19:30:27.054797+09:00",
+     "삼성전자 9월 4일 역대급 자사주 AD SK하이닉스 2026년"
+    ],
+    [
+     "2026-09-06T19:30:27.054797+09:00",
+     "푸본 무대 시원 잇는 가디언스와 동행 대만 눈빛"
     ]
    ],
    "seen_urls": [
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698237",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8654922",
     "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87900",
     "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87901",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5217018",
@@ -1952,11 +1958,11 @@
     "https://www.kyeongin.com/article/1770306",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260906010002115",
     "https://www.tokenpost.kr/news/market/403330",
-    "https://www.munhwa.com/article/11614862"
+    "https://www.munhwa.com/article/11614862",
+    "https://www.the-today.com/news/articleView.html?idxno=89572",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16184593"
    ],
    "seen_titles": [
-    "[현장]\"외산AI로는안된다\"…SKT·KT·카카오,'모두의AI'로소버린...",
-    "정재헌SKTCEO\"한국어·문화최적화'모두의AI'로외산의존낮춰야\"",
     "[뉴스in뉴스]“N%성과급파업에제동”…노동부지침쟁점은",
     "네이버클라우드,정부사이버보안AI사업자로최종선정",
     "원화강세에수출기업이익감소우려…반도체영향은제한적",
@@ -3454,10 +3460,12 @@
     "[화제의선수]‘900경기출장대기록’kt우규민",
     "\"재건축입찰해야하나\"…공공임대공포번진광명서주판알튕기는건...",
     "국내증시공포탐욕지수,매시간투자심리보여준다",
-    "“이대로면2030년강북·금천·도봉빼고다종부세과세권”"
+    "“이대로면2030년강북·금천·도봉빼고다종부세과세권”",
+    "[NZSIINDEX]2026년9월4일…삼성전자·SK하이닉스'역대급자사주',AD...",
+    "시원,푸본가디언스와새동행…대만무대잇는눈빛"
    ],
    "initialized": true,
-   "last_run": "2026-09-06T19:25:16.952788+09:00"
+   "last_run": "2026-09-06T19:30:27.054797+09:00"
   }
  },
  "press_names": {
