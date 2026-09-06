@@ -226,15 +226,33 @@
     [
      "2026-09-07T06:10:21.214443+09:00",
      "제넨텍에 기술수출 비만 임주 한미약품 3조원대 신약"
+    ],
+    [
+     "2026-09-07T06:15:22.982953+09:00",
+     "공공 CCTV 딥엑스 로봇 퓨리오사 유럽 DC NPU 리벨리온 3색"
+    ],
+    [
+     "2026-09-07T06:15:22.982953+09:00",
+     "떠는 항공 250원 웃는 환율 급락 철강 자동차 달러"
+    ],
+    [
+     "2026-09-07T06:15:22.982953+09:00",
+     "쏟아낸 4분기 달러에 반등 환율 1340원대 기업이 간다 1300원 vs"
+    ],
+    [
+     "2026-09-07T06:15:22.982953+09:00",
+     "노후자금까지 대출 주식에 탈탈 카드론 늘리는 보험 증시"
+    ],
+    [
+     "2026-09-07T06:15:22.982953+09:00",
+     "HBM시장 CXMT 요동 진출 약진에 삼성"
+    ],
+    [
+     "2026-09-07T06:15:22.982953+09:00",
+     "불붙은 쌓은 경쟁 기업 몰린다 신뢰 주주환원"
     ]
    ],
    "seen_urls": [
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=63817",
-    "https://www.yna.co.kr/view/AKR20260904100800008?input=1195m",
-    "https://www.newsis.com/view/NISX20260904_0003776404",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=423511",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=226221",
-    "https://www.g-enews.com/view.php?ud=202609041355476439fbbec65dfb_1",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000062546",
     "https://www.thelec.kr/news/articleView.html?idxno=61834",
     "https://www.g-enews.com/view.php?ud=202609041409525476923c501012_1",
@@ -1728,15 +1746,15 @@
     "https://www.news1.kr/economy/trend/6280531",
     "https://biz.newdaily.co.kr/site/data/html/2026/09/07/2026090700001.html",
     "https://www.newsis.com/view/NISX20260901_0003771722",
-    "https://economychosun.com/site/data/html_dir/2026/08/30/2026083000019.html"
+    "https://economychosun.com/site/data/html_dir/2026/08/30/2026083000019.html",
+    "https://www.news1.kr/industry/sb-founded/6281329",
+    "https://www.smartbizn.com/news/articleView.html?idxno=153150",
+    "https://www.news1.kr/economy/trend/6281478",
+    "https://www.sedaily.com/article/20087760",
+    "https://www.segye.com/newsView/20260906508746?OutUrl=naver",
+    "https://www.segye.com/newsView/20260906508213?OutUrl=naver"
    ],
    "seen_titles": [
-    "[로드픽]AMD,CPU를보안중심축으로…삼성전자AIPC승부처는'부팅...",
-    "코스피200변동성지수,장중40선아래로…6개월여만최저",
-    "고려아연,영업이익만2.5배늘었다…최윤범號,'고속성장'흐름주목",
-    "1~3위점유율감소,키움證4위로상승···회사채주관'톱5'자리다툼...",
-    "SK하이닉스167만원돌파'4.8%↑'…반도체투심살아나며장중고가",
-    "데이터센터투자,25년간4.2경원…칩교체주기가장기수요견인",
     "'한국형공포지수'VKOSPI40선붕괴…6개월여만에최저",
     "정부,'모두의AI'에내년2500억편성…SKT·카카오·KT에100억씩",
     "삼전·닉스선물증거금률50%육박…거래소,변동성'고삐'죈다",
@@ -3230,10 +3248,16 @@
     "'반도체·LNG·이란'까지꺼낸美…한·미대미투자협상'복합딜'로",
     "[단국대②]'AI·X캠퍼스'전환박차…AI교수부터첨단연구·산학협...",
     "수십조푼삼전·닉스,주가는왜엇갈렸을까[금알못]",
-    "[재계이슈]한미약품,美제넨텍에3조원대비만신약기술수출|임주..."
+    "[재계이슈]한미약품,美제넨텍에3조원대비만신약기술수출|임주...",
+    "'공공CCTV·유럽DC·로봇'…K-NPU,리벨리온·퓨리오사·딥엑스'3색'승...",
+    "원·달러환율,두달새250원급락···웃는항공·철강,떠는자동차",
+    "기업이쏟아낸달러에환율1340원대…\"1300원간다\"vs\"4분기반등\"",
+    "“노후자금까지주식에탈탈”…보험·카드론대출늘리는5060,증시꺾...",
+    "삼성약진에中CXMT진출…HBM시장요동",
+    "불붙은주주환원경쟁…‘신뢰쌓은기업’에돈몰린다[마이머니]"
    ],
    "initialized": true,
-   "last_run": "2026-09-07T06:10:21.214443+09:00"
+   "last_run": "2026-09-07T06:15:22.982953+09:00"
   }
  },
  "press_names": {
