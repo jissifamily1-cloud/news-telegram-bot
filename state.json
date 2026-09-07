@@ -126,12 +126,17 @@
     [
      "2026-09-08T04:15:23.141318+09:00",
      "D램 호황기 점유율 삼성 독주"
+    ],
+    [
+     "2026-09-08T04:40:23.239779+09:00",
+     "신입 오늘부터 삼성 정기공채 늘릴듯 채용 반도체"
+    ],
+    [
+     "2026-09-08T04:40:23.239779+09:00",
+     "시장이 과소평가 1만 고수 골드만삭스 코스피 전망"
     ]
    ],
    "seen_urls": [
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=52655",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003264598&CMPT_CD=P0010",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=879967",
     "https://biz.sbs.co.kr/article_hub/20000333014?division=NAVER",
     "https://www.fnnews.com/news/202609070712243442",
     "https://www.newswhoplus.com/news/articleView.html?idxno=68937",
@@ -1628,12 +1633,12 @@
     "https://www.ekn.kr/web/view.php?key=20260908025021772",
     "https://www.mt.co.kr/stock/2026/09/08/2026090719400012030",
     "https://www.g-enews.com/view.php?ud=202609071929284539fbbec65dfb_1",
-    "https://www.mt.co.kr/industry/2026/09/08/2026090719580453387"
+    "https://www.mt.co.kr/industry/2026/09/08/2026090719580453387",
+    "https://www.hankookilbo.com/news/article/A2026090717470000678?did=NA",
+    "https://www.donga.com/news/Economy/article/all/20260908/134623189/2",
+    "http://coinreaders.com/256958"
    ],
    "seen_titles": [
-    "9월7일'푸른하늘의날'...“우리모두의행동으로만드는맑고푸른...",
-    "과기부,모두의AI사업착수간담회가져",
-    "팬들속뒤집어놓은선수...생각할수록참고맙네",
     "서학개미,9월개별반도체주대거처분…'3배'속슬은매수",
     "[서학개미브리핑]서학개미,글로벌국채금리상승세에초단기美국채...",
     "\"주가38%빠졌는데,내년물량없다\"…삼전닉스반전오나",
@@ -3130,10 +3135,13 @@
     "[패트롤]경기도-경기도의회-경기도교육청-경기연구원-경기관광공사",
     "개미8조던져도끄떡없다…삼전닉스질주칠천피'턱밑'",
     "9월연준금리인상확률60%진입…대차대조표축소론부상",
-    "D램호황기…삼성점유율38.2%독주"
+    "D램호황기…삼성점유율38.2%독주",
+    "대미투자1호프로젝트최종조율들어간당정…원전도후속검토",
+    "삼성오늘부터신입정기공채,반도체채용늘릴듯",
+    "\"시장이과소평가\"...골드만삭스,코스피1만2,000전망고수"
    ],
    "initialized": true,
-   "last_run": "2026-09-08T04:35:19.826681+09:00"
+   "last_run": "2026-09-08T04:40:23.239779+09:00"
   }
  },
  "press_names": {
