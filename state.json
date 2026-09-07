@@ -850,14 +850,25 @@
     [
      "2026-09-07T21:00:33.528114+09:00",
      "비즈니스포스트 아침의 주요기사"
+    ],
+    [
+     "2026-09-07T21:15:21.183728+09:00",
+     "골드만삭스 찬사에 폭등 반도체"
+    ],
+    [
+     "2026-09-07T21:15:21.183728+09:00",
+     "반도체 닛케이 상승 6만6399엔 훈풍에"
+    ],
+    [
+     "2026-09-07T21:15:21.183728+09:00",
+     "씁쓸 잭팟 주주는 SK온 SKIET 수주"
+    ],
+    [
+     "2026-09-07T21:15:21.183728+09:00",
+     "조끼 함성 섰다 앞에 붉은 멈춰 기업들이"
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/science-chosun/bio/2026/09/07/M23L4QAUOJH4JGDIVDGDAYYM3A/",
-    "https://www.news1.kr/economy/trend/6281268",
-    "https://www.dailypharm.com/user/news/342198?REFERER=NP",
-    "https://www.yakup.com/news/index.html?cat=12&nid=332137",
-    "https://www.cctoday.co.kr/news/articleView.html?idxno=2236221",
     "https://www.yeongnam.com/web/view.php?key=20260906025026839",
     "https://www.etoday.co.kr/news/view/2622052",
     "https://biz.chosun.com/it-science/ict/2026/09/07/V7UWTGBE45GZ5LCMWXD3C5RQAQ/",
@@ -2352,14 +2363,14 @@
     "https://www.incheonilbo.com/news/articleView.html?idxno=1331455",
     "https://news.jtbc.co.kr/article/NB12317164?influxDiv=NAVER",
     "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260907020&PRO_CODE=4",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=446605"
+    "https://www.businesspost.co.kr/BP?command=article_view&num=446605",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=52691",
+    "http://www.00news.co.kr/news/articleView.html?idxno=106403",
+    "https://www.g-enews.com/view.php?ud=202609072100286958e7e8286d56_1",
+    "https://www.mk.co.kr/article/12144331",
+    "https://www.mk.co.kr/article/12144274"
    ],
    "seen_titles": [
-    "SK바이오팜신약개발'글로벌스텝'···엔비디아GPU도입",
-    "[바이오톺아보기]SK‘한지붕두바이오’엇갈린성장…최윤정역할...",
-    "2030년'1000조예산'시대온다…반도체호황꺾이면'확장재정'부담",
-    "젤잔즈,난치성자가면역질환'구제요법'오프라벨처방급증",
-    "상장제약·바이오사2Q평균매출코스피2116억원,코스닥557억원",
     "[투데이춘추]K-이코노미와K-컬처,그리고세계를향한K-프리미엄",
     "[사설]TK차별국정운영멈추길바란다",
     "‘15년만기족쇄’우려깬흥행…8800억초장기기술펀드에55곳지원",
@@ -3854,10 +3865,15 @@
     "경기-충북지사,지방재정개편논의·공동대응",
     "\"AGI시대열어\"아스트라,호평속'섬뜩한대목'뭐길래",
     "재정위기충북·경기도,지방세확충맞손",
-    "[9월8일자]비즈니스포스트아침의주요기사"
+    "[9월8일자]비즈니스포스트아침의주요기사",
+    "한화운용\"AI투자영토,반도체넘어전력·국방·제조업으로\"",
+    "['클릭'증시]골드만삭스찬사에반도체폭등",
+    "닛케이2.12%뛴6만6399엔…美반도체훈풍에상승",
+    "SK온수주잭팟…SKIET주주는씁쓸[재계톡톡]",
+    "‘붉은조끼’함성앞에기업들이멈춰섰다"
    ],
    "initialized": true,
-   "last_run": "2026-09-07T21:10:22.756955+09:00"
+   "last_run": "2026-09-07T21:15:21.183728+09:00"
   }
  },
  "press_names": {
