@@ -397,7 +397,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/industry/general-industry/6280725",
     "https://www.mt.co.kr/living/2026/09/07/2026090618313936874",
     "https://www.fnnews.com/news/202609060934024282",
     "https://www.mk.co.kr/article/12145648",
@@ -1896,10 +1895,10 @@
     "https://www.venturesquare.net/1111537/",
     "https://www.newscj.com/news/articleView.html?idxno=3430800",
     "https://www.edaily.co.kr/News/Read?newsId=04191846645577824&mediaCodeNo=257",
-    "http://weekly.chosun.com/news/articleView.html?idxno=55055"
+    "http://weekly.chosun.com/news/articleView.html?idxno=55055",
+    "https://mhnse.com/news/articleView.html?idxno=1530358"
    ],
    "seen_titles": [
-    "[성과급전쟁①]'억대보너스시대'의역설…'노조·회사·주주'모두가...",
     "日모가미에밀렸던'韓충남함'…호주대신美시장서'설욕전'펴나",
     "일단때리고보자?과징금·세무조사폭주…기업들만멍든다",
     "AI병목에'연산하는메모리'뜬다…D램3사기술개발속도",
@@ -3398,10 +3397,11 @@
     "AI코딩이센서·모터로…‘토이톤’,5시간만에실물41개구현",
     "대미투자1호'텍사스가스발전'확정…대형원전8기후속유력",
     "뉴욕·도쿄,끊임없이리모델링…서울은임대수익급급해방치",
-    "\"AGI가왔다\"…'아스트라'가깨운반도체株,코스피7000코앞"
+    "\"AGI가왔다\"…'아스트라'가깨운반도체株,코스피7000코앞",
+    "곽튜브\"하이닉스에돈다때려박아'-14%'계좌인증\"…주식손실한탄..."
    ],
    "initialized": true,
-   "last_run": "2026-09-07T23:35:19.184244+09:00"
+   "last_run": "2026-09-07T23:40:21.408447+09:00"
   }
  },
  "press_names": {
