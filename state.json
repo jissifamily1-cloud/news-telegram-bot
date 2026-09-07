@@ -214,12 +214,21 @@
     [
      "2026-09-08T02:05:19.121112+09:00",
      "마이크론 1000달러선 회복 실적 기대에"
+    ],
+    [
+     "2026-09-08T02:15:23.691811+09:00",
+     "후보로 호위함 최신예 눈도장 충남급 한국 해군 차기"
+    ],
+    [
+     "2026-09-08T02:15:23.691811+09:00",
+     "영빈관 전초기지로 네트워킹 VIP 사로잡는 글로벌 재계"
+    ],
+    [
+     "2026-09-08T02:15:23.691811+09:00",
+     "4만 1330원대 GNI 찍은 달러 장중 눈앞 환율 1인당"
     ]
    ],
    "seen_urls": [
-    "http://www.newsian.co.kr/news/articleView.html?idxno=94866",
-    "https://biz.sbs.co.kr/article_hub/20000333010?division=NAVER",
-    "https://news.tf.co.kr/read/economy/2362470.htm",
     "https://www.dailian.co.kr/news/view/1686635/?sc=Naver",
     "http://www.metroseoul.co.kr/article/20260907500001",
     "https://biz.sbs.co.kr/article_hub/20000333015?division=NAVER",
@@ -1716,12 +1725,12 @@
     "https://www.munhwa.com/article/11615183",
     "https://www.newsis.com/view/NISX20260907_0003779496",
     "https://www.news2day.co.kr/article/20260907500243",
-    "https://www.edaily.co.kr/News/Read?newsId=01088966645578152&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01088966645578152&mediaCodeNo=257",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000010009&cp=nv",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000010008&cp=nv",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000010005&cp=nv"
    ],
    "seen_titles": [
-    "미국증시,CPI·10년물금리분수령…서학개미는SOXL베팅",
-    "38조방어막걷힌뒤코스피는?…이르면10월'수급공백'우려",
-    "[증시전략]연준의금리결정,돌고돌아\"데이터기반\"…물가관건",
     "SK그룹,11일울산포럼개최…제조AX·일상속AI논의",
     "반도체다음은이것?…다시불붙은2차전지ETF",
     "SK오션플랜트,목표주가최대39%격차…\"2027년저점,2028년반등\"",
@@ -3218,10 +3227,13 @@
     "저축가능합니까…‘170만원’서울아파트신규월세평균",
     "\"한국경제'빛좋은개살구'\"…반도체호황뒤숨은위험은",
     "'모두의AI'전쟁시작됐다…SKT·카카오·KT,국민접점선점경쟁",
-    "[美특징주]마이크론,실적기대에6%↑…1000달러선회복"
+    "[美특징주]마이크론,실적기대에6%↑…1000달러선회복",
+    "美해군,차기호위함후보로한국최신예‘충남급’눈도장",
+    "VIP사로잡는재계‘영빈관’…글로벌네트워킹전초기지로",
+    "장중1330원대찍은환율…1인당GNI첫4만달러눈앞"
    ],
    "initialized": true,
-   "last_run": "2026-09-08T02:10:22.604477+09:00"
+   "last_run": "2026-09-08T02:15:23.691811+09:00"
   }
  },
  "press_names": {
