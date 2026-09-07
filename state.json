@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-07T19:10:20.214596+09:00",
-     "막아라 이지스 카드 공백 해군 미니 함정 핵심 충남급"
-    ],
-    [
      "2026-09-07T19:20:24.451881+09:00",
      "귀환인가 삼전닉스"
     ],
@@ -250,11 +246,17 @@
     [
      "2026-09-08T00:45:25.115933+09:00",
      "평균 가능합니까 저축 신규 서울 월세 아파트 170만원"
+    ],
+    [
+     "2026-09-08T01:10:22.132904+09:00",
+     "반도체 한국 경제 숨은 개살구 위험은 호황 좋은"
+    ],
+    [
+     "2026-09-08T01:10:22.132904+09:00",
+     "전쟁 경쟁 SKT 카카오 KT 국민 시작됐다 선점 접점 모두의"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026090315071464529",
-    "https://www.ulsanpress.net/news/articleView.html?idxno=582496",
     "https://www.topstarnews.net/news/articleView.html?idxno=16184995",
     "http://www.newsian.co.kr/news/articleView.html?idxno=94866",
     "https://biz.sbs.co.kr/article_hub/20000333010?division=NAVER",
@@ -1752,11 +1754,11 @@
     "https://www.mydaily.co.kr/page/view/2026090800394580716",
     "https://www.chosun.com/economy/money/2026/09/08/JACUDBINKBHD5KIBUDS2S3IASA/",
     "https://www.chosun.com/national/obituary-personnel/2026/09/08/ITVV6JP6WJFKDPEDTTFDQUJHUU/",
-    "https://www.munhwa.com/article/11615183"
+    "https://www.munhwa.com/article/11615183",
+    "https://www.newsis.com/view/NISX20260907_0003779496",
+    "https://www.news2day.co.kr/article/20260907500243"
    ],
    "seen_titles": [
-    "'모두의AI'전에,'모두의보안'부터[기자수첩-ICT]",
-    "[2026양성평등지수]객관적데이터와새평가항목도입해신뢰도높였다",
     "[영상]오늘울산은(9월7일월울산신문)",
     "미국증시,CPI·10년물금리분수령…서학개미는SOXL베팅",
     "38조방어막걷힌뒤코스피는?…이르면10월'수급공백'우려",
@@ -3254,10 +3256,12 @@
     "곽튜브\"가진돈하이닉스에투자,마이너스14%\"",
     "“삼전닉스메모리재고열흘치도안돼”",
     "[부음]강영규별세외",
-    "저축가능합니까…‘170만원’서울아파트신규월세평균"
+    "저축가능합니까…‘170만원’서울아파트신규월세평균",
+    "\"한국경제'빛좋은개살구'\"…반도체호황뒤숨은위험은",
+    "'모두의AI'전쟁시작됐다…SKT·카카오·KT,국민접점선점경쟁"
    ],
    "initialized": true,
-   "last_run": "2026-09-08T01:05:20.116003+09:00"
+   "last_run": "2026-09-08T01:10:22.132904+09:00"
   }
  },
  "press_names": {
