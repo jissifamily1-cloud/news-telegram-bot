@@ -1154,15 +1154,13 @@
     [
      "2026-09-07T19:00:32.789839+09:00",
      "금리인상 반락 경계에 홍콩 H주 증시 마감"
+    ],
+    [
+     "2026-09-07T19:10:20.214596+09:00",
+     "막아라 이지스 카드 공백 해군 미니 함정 핵심 충남급"
     ]
    ],
    "seen_urls": [
-    "https://www.kwnews.co.kr/article/20260906500587",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=87154",
-    "https://www.ksilbo.co.kr/news/articleView.html?idxno=1066454",
-    "https://www.ksilbo.co.kr/news/articleView.html?idxno=1066474",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=87155",
-    "https://www.fntimes.com/html/view.php?ud=202609042018561578dd55077bc2_18",
     "https://news.tf.co.kr/read/economy/2361965.htm",
     "https://www.cbci.co.kr/news/articleView.html?idxno=604332",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260906010002096",
@@ -2656,15 +2654,15 @@
     "https://www.edaily.co.kr/News/Read?newsId=03985206645577824&mediaCodeNo=257",
     "https://www.joongboo.com/news/articleView.html?idxno=363735955",
     "https://www.etnews.com/20260907000470",
-    "https://www.newsis.com/view/NISX20260907_0003779862"
+    "https://www.newsis.com/view/NISX20260907_0003779862",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=276364",
+    "https://www.dongascience.com/news/view/79808",
+    "https://biz.chosun.com/it-science/ict/2026/09/07/WPP22NIOWVFTLLAZB2QIQDRWIM/",
+    "https://news.bbsi.co.kr/news/articleView.html?idxno=4105112",
+    "https://www.ytn.co.kr/_ln/0102_202609071857409511",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000009886&cp=nv"
    ],
    "seen_titles": [
-    "[인터뷰]주용현울산해양경찰서장,\"국내최대산업항울산,빈틈없는...",
-    "[월요칼럼]강원경제의미래,‘원팀’으로승부하자",
-    "[심층분석]\"하반기박스권뚫어낼까\"…주요증권사,코스피지수상단...",
-    "SKT,AI데이터센터'삼각편대'체계로",
-    "꿈나무들희망키우도록…지역기업들한마음",
-    "[증시프리즘]\"금리인하·AI훈풍에사자\"…증권가,하반기주도업종...",
     "채권혼합·커버드콜·배당ETF…롤러코스터증시'투자자셈법'",
     "'무늬만프리미엄?'…iM뱅크'제니스',큰손고객공략'글쎄'",
     "올해신규상장사40곳중목표가제시'단3곳'…증권사대형주쏠림...",
@@ -4158,10 +4156,16 @@
     "재무문턱높아진가상자산사업자,투자금마련총력전[only이데일리]",
     "[시대만필]국가AI전력망최적화를위한컨트롤타워가필요하다",
     "젠슨황,아스트라지목“AGI시대왔다”…AI주랠리다시시작하나",
-    "[올댓차이나]홍콩증시,美금리인상경계에반락마감…H주1.47%↓"
+    "[올댓차이나]홍콩증시,美금리인상경계에반락마감…H주1.47%↓",
+    "SamsungandSKhynixDominateD-RAMMarket",
+    "[사이언스게시판]과기정통부'2026기술개발인의날'기념식개최外",
+    "2분기글로벌D램매출60%급증…삼성39.4%로1위굳혀",
+    "[금융한입]다시뜨거워진반도체주…삼전닉스어디까지",
+    "원·달러환율장중1,330원대...1년11개월만에최저",
+    "“美함정공백막아라”…‘미니이지스’충남급,미해군핵심카드..."
    ],
    "initialized": true,
-   "last_run": "2026-09-07T19:05:20.472945+09:00"
+   "last_run": "2026-09-07T19:10:20.214596+09:00"
   }
  },
  "press_names": {
