@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-09T00:50:27.028574+09:00",
-     "상업적 500조 합리성 추가세수와"
-    ],
-    [
      "2026-09-09T01:30:31.837042+09:00",
      "옐런 최태원 시즌6로 강연 위대한 돌아온 50명 EBS 수업"
     ],
@@ -238,13 +234,17 @@
     [
      "2026-09-09T06:45:22.493263+09:00",
      "SK하닉 물량 늘었다 호황에 생산 상반기 재고 13조 삼전"
+    ],
+    [
+     "2026-09-09T06:55:18.006749+09:00",
+     "하방 전망 코스피 압력 반도체발 차익실현 VS 지지"
+    ],
+    [
+     "2026-09-09T06:55:18.006749+09:00",
+     "강단으로 성공할 로컬리더 전한다 10명 제주대 제주서도 있다"
     ]
    ],
    "seen_urls": [
-    "https://www.dt.co.kr/article/12082604",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1723304",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=6298",
-    "https://www.news1.kr/finance/general-stock/6282806",
     "https://www.news2day.co.kr/article/20260907500214",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=762977",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1723242",
@@ -1740,13 +1740,13 @@
     "https://news.mtn.co.kr/news-detail/2026090814555910987",
     "https://www.g-enews.com/view.php?ud=202609090624159765fbbec65dfb_1",
     "https://www.news1.kr/industry/general-industry/6283911",
-    "https://www.fnnews.com/news/202609071524180869"
+    "https://www.fnnews.com/news/202609071524180869",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16187284",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609090259&t=NN",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1723506",
+    "https://www.fnnews.com/news/202609090646278469"
    ],
    "seen_titles": [
-    "[출근길브리핑-9월8일]낸드까지中추격·警김승원'신약로비의혹...",
-    "[CPU대란주의보⑧·完]시스템병목뚫어라…K-반도체,메모리넘어...",
-    "“TSMC3나노,하반기매출5나노추월…AI반도체수요지속”",
-    "늦어지는코스닥셀렉트…\"불확실성만키운다\"",
     "[마켓뷰]원화이어엔화까지강해진다…'달러약세'넘어환율지형이...",
     "'자사주매입'총알떨어지면어쩌나…금리안정·반도체수요관건",
     "[전문가7인AI특별대담시즌2③]AI,사람을줄이나…자리보다먼저...",
@@ -3242,10 +3242,14 @@
     "HBM전환속범용D램감산...담합입증가능성은[AI칩인사이드]",
     "스마트폰원가40%삼킨메모리…삼성·SK가판가쥐었다",
     "獨에보닉,코팅·접착제사업철수…SK케미칼,수혜기대감'물씬'",
-    "AI호황에생산물량늘었다…삼전·SK하닉상반기재고13조↑"
+    "AI호황에생산물량늘었다…삼전·SK하닉상반기재고13조↑",
+    "미국증시,중동긴장·유가급등에하락…다우1.17%↓반도체는선별매...",
+    "역대최대이혼재산분할나올까...스마일게이트권혁빈1심선고",
+    "코스피\"반도체발하방지지VS차익실현압력\"전망",
+    "제주대,로컬리더10명강단으로…\"제주서도성공할수있다\"전한다"
    ],
    "initialized": true,
-   "last_run": "2026-09-09T06:50:25.886484+09:00"
+   "last_run": "2026-09-09T06:55:18.006749+09:00"
   }
  },
  "press_names": {
