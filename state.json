@@ -1086,15 +1086,17 @@
     [
      "2026-09-08T20:35:19.708009+09:00",
      "넥사다이내믹스 거래정지 투자경고 41건 파두"
+    ],
+    [
+     "2026-09-08T20:45:31.016343+09:00",
+     "298만원에 같은 SK하이닉스 물렸는데 건넜다 엔비디아도 어떡해"
+    ],
+    [
+     "2026-09-08T20:45:31.016343+09:00",
+     "글로벌X재팬 한국 상장 ETF 반도체 미래에셋자산운용 계열"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260907_0003779862",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=276364",
-    "https://www.dongascience.com/news/view/79808",
-    "https://biz.chosun.com/it-science/ict/2026/09/07/WPP22NIOWVFTLLAZB2QIQDRWIM/",
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4105112",
-    "https://www.ytn.co.kr/_ln/0102_202609071857409511",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000009886&cp=nv",
     "https://www.ccdn.co.kr/news/articleView.html?idxno=1098305",
     "https://biz.heraldcorp.com/article/10865505",
@@ -2588,15 +2590,15 @@
     "http://www.kwangju.co.kr/article.php?aid=1788865800803149008",
     "https://www.mk.co.kr/article/12147525",
     "https://www.yna.co.kr/view/AKR20260908165800007?input=1195m",
-    "https://www.newstnt.com/news/articleView.html?idxno=717340"
+    "https://www.newstnt.com/news/articleView.html?idxno=717340",
+    "https://www.sportsseoul.com/news/read/1633792",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16187041",
+    "https://www.yna.co.kr/view/AKR20260908160051007?input=1195m",
+    "https://www.betanews.net/article/view/beta202609080080",
+    "https://biz.heraldcorp.com/article/10865965",
+    "https://www.ajunews.com/view/20260908203134748"
    ],
    "seen_titles": [
-    "[시대만필]국가AI전력망최적화를위한컨트롤타워가필요하다",
-    "젠슨황,아스트라지목“AGI시대왔다”…AI주랠리다시시작하나",
-    "[올댓차이나]홍콩증시,美금리인상경계에반락마감…H주1.47%↓",
-    "SamsungandSKhynixDominateD-RAMMarket",
-    "[사이언스게시판]과기정통부'2026기술개발인의날'기념식개최外",
-    "2분기글로벌D램매출60%급증…삼성39.4%로1위굳혀",
     "[금융한입]다시뜨거워진반도체주…삼전닉스어디까지",
     "원·달러환율장중1,330원대...1년11개월만에최저",
     "“美함정공백막아라”…‘미니이지스’충남급,미해군핵심카드...",
@@ -4090,10 +4092,16 @@
     "‘제주천적’정지훈,광주FC무승끊을까",
     "원화값어디까지올라가요?…美중간선거까진봐야하는이유[백석현의...",
     "KIA김도영,국내선수로는8년만에40홈런고지정복",
-    "[공시]넥사다이내믹스'거래정지',파두'투자경고'등...41건"
+    "[공시]넥사다이내믹스'거래정지',파두'투자경고'등...41건",
+    "‘드디어!’김도영40호나왔다!…타이거즈최초‘토종40홈런타자’...",
+    "\"시즌40호포\"김도영,KIA최초토종40홈런타자",
+    "AG남자농구대표팀,부상안영준대신문정현발탁(종합)",
+    "코스피,중동지정학적불확실성에하락마감",
+    "SK하이닉스298만원에물렸는데,어떡해?‘엔비디아도같은늪건넜다...",
+    "미래에셋자산운용계열글로벌X재팬,日서한국반도체ETF상장"
    ],
    "initialized": true,
-   "last_run": "2026-09-08T20:40:24.789812+09:00"
+   "last_run": "2026-09-08T20:45:31.016343+09:00"
   }
  },
  "press_names": {
