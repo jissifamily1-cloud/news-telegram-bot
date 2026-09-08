@@ -166,10 +166,13 @@
     [
      "2026-09-09T04:10:28.047874+09:00",
      "4만달러 소득 기업이 밥상이다 차린"
+    ],
+    [
+     "2026-09-09T04:30:29.700192+09:00",
+     "수요 급증 전망 확산에 당분간 의존 불가피 한국 전력 원전"
     ]
    ],
    "seen_urls": [
-    "https://www.joongang.co.kr/article/25459874",
     "https://www.kdpress.co.kr/news/articleView.html?idxno=208393",
     "https://www.ziksir.com/news/articleView.html?idxno=145615",
     "https://www.sportsseoul.com/news/read/1633492",
@@ -1668,10 +1671,10 @@
     "https://www.g-enews.com/view.php?ud=202609081727045731fbbec65dfb_1",
     "https://www.g-enews.com/view.php?ud=202609081740349222fbbec65dfb_1",
     "https://www.mt.co.kr/tech/2026/09/09/2026090718102885331",
-    "https://www.mt.co.kr/opinion/2026/09/09/2026090811224014089"
+    "https://www.mt.co.kr/opinion/2026/09/09/2026090811224014089",
+    "https://www.voakorea.com/a/south-korea-nuclear-energy-090826/8195674.html"
    ],
    "seen_titles": [
-    "[사설]대미투자1호확정,한미통상·안보실타래풀전기되길",
     "[그래도K리그]‘5연승’FC서울,현대가까지삼키나…10년만의우승...",
     "형들,우린한일전이겼어요",
     "[주요공시]씨에스윈드,비나텍,나우로보틱스,셀트리온,한국카본,한...",
@@ -3170,10 +3173,11 @@
     "기관96%\"AI성능도약임박\"…전문직소프트웨어직투가속",
     "인텔서15조날린엔비디아…오픈AI상장대박으로판뒤집나",
     "자본력으로쏟아부은혜택…가입자절반이통3사에몰렸다",
-    "[사설]소득4만달러,기업이차린밥상이다"
+    "[사설]소득4만달러,기업이차린밥상이다",
+    "한국,AI확산에전력수요급증전망…“당분간원전의존불가피”"
    ],
    "initialized": true,
-   "last_run": "2026-09-09T04:25:20.080128+09:00"
+   "last_run": "2026-09-09T04:30:29.700192+09:00"
   }
  },
  "press_names": {
