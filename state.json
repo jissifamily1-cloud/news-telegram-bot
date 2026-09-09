@@ -774,14 +774,17 @@
     [
      "2026-09-09T22:00:37.651480+09:00",
      "무승부 동점골 1대1 전북현대와 연속 4경기 아부달라 무패 강원FC"
+    ],
+    [
+     "2026-09-09T22:10:26.632904+09:00",
+     "낸드 강경주의 키옥시아 제안에 한일 최태원 거절 동맹 엇박자"
+    ],
+    [
+     "2026-09-09T22:10:26.632904+09:00",
+     "승점 전북 우승 16점 유지 마지노선 15격차 서울 제동"
     ]
    ],
    "seen_urls": [
-    "http://www.inews24.com/view/2003500",
-    "http://www.newsprime.co.kr/news/article.html?no=746958",
-    "https://biz.heraldcorp.com/article/10867063",
-    "http://www.newsprime.co.kr/news/article.html?no=746957",
-    "https://www.hankyung.com/article/2026090927326",
     "https://www.etoday.co.kr/news/view/2623370",
     "https://www.kbmaeil.com/article/20260909500028",
     "https://www.yna.co.kr/view/AKR20260909028300008?input=1195m",
@@ -2276,14 +2279,14 @@
     "https://www.yna.co.kr/view/AKR20260909186200007?input=1195m",
     "https://www.newsis.com/view/NISX20260909_0003783365",
     "http://www.sisacast.kr/news/articleView.html?idxno=99835",
-    "https://www.kwnews.co.kr/article/20260909501787"
+    "https://www.kwnews.co.kr/article/20260909501787",
+    "https://sports.khan.co.kr/article/202609092204003?pt=nv",
+    "https://www.newscj.com/news/articleView.html?idxno=3431427",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3690330",
+    "https://www.hankyung.com/article/2026090944836",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16188158"
    ],
    "seen_titles": [
-    "소유,최초고백→끝내눈물터졌다…\"제작진에도못한이야기\"('끼리끼...",
-    "[마켓프리뷰]중동발긴장에뉴욕증시하락…코스피7000선돌파주목",
-    "삼성전자오너일가주식가치첫100조돌파…이재용47조'1위'",
-    "[해외시황]뉴욕증시,중동확전우려속유가급등·물가우려에'하락...",
-    "‘오늘은뚫을까’유가100달러육박에도美반도체는훈풍…‘칠천피...",
     "지엔씨에너지,'점유율70%'로AI데이터센터3조수주'임박'…\"가장먼...",
     "\"지엔씨에너지,신규수주올해4700억→2028년1조원전망\"-IBK",
     "SK이노베이션E&S,한·인니청년창업지원통합…기후테크생태계확장",
@@ -3778,10 +3781,15 @@
     "K리그13위전북,강원과1-1비겨…FC서울,우승반걸음앞으로",
     "전북,강원과1-1무승부로3위추락…제주는광주1-0꺾고4위도약(종...",
     "SK하이닉스,'2026미래포럼'개최…AI시대풀스택AI메모리크리에이...",
-    "‘아부달라동점골’강원FC,전북현대와1대1무승부⋯4경기연속무패"
+    "‘아부달라동점골’강원FC,전북현대와1대1무승부⋯4경기연속무패",
+    "‘2위수성실패’전북,강원과비기며3위추락…광주는‘26경기무승...",
+    "SK하이닉스노조,임단협재투표돌입…추석전타결여부주목",
+    "용인특례시-철원군자매결연체결…18번째자매도시탄생",
+    "최태원제안에키옥시아'거절'…한일낸드동맹'엇박자'[강경주의테...",
+    "승점15격차유지…전북제동,서울우승마지노선16점"
    ],
    "initialized": true,
-   "last_run": "2026-09-09T22:05:20.904971+09:00"
+   "last_run": "2026-09-09T22:10:26.632904+09:00"
   }
  },
  "press_names": {
