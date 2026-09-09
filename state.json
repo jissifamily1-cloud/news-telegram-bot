@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-10T00:30:37.703893+09:00",
-     "하남시의회 파주시의회 김포시의회 고양시의회"
-    ],
-    [
-     "2026-09-10T00:30:37.703893+09:00",
-     "성장 상품 2배 난립 ETF 유사 1년간 시장 자산운용사"
-    ],
-    [
      "2026-09-10T00:45:24.820277+09:00",
      "2분기 영업이익률 최고 국내 역대 기업"
     ],
@@ -302,10 +294,13 @@
     [
      "2026-09-10T06:20:31.141107+09:00",
      "하이닉 좋지만 마이크론 승자 SK하이닉스는 월가 메모리 강력"
+    ],
+    [
+     "2026-09-10T06:35:20.064470+09:00",
+     "시간 SK하이닉스의 포스코의"
     ]
    ],
    "seen_urls": [
-    "https://www.gukjenews.com/news/articleView.html?idxno=3689335",
     "https://www.the-today.com/news/articleView.html?idxno=89784",
     "http://www.kdfnews.com/news/articleView.html?idxno=187724",
     "https://www.apnews.kr/news/articleView.html?idxno=3051102",
@@ -1804,10 +1799,10 @@
     "https://www.mediapen.com/news/view/1122501",
     "https://www.nbntv.co.kr/news/articleView.html?idxno=4024734",
     "https://www.kpanews.co.kr/news/articleView.html?idxno=543383",
-    "https://www.g-enews.com/view.php?ud=202609100605213201e250e8e188_1"
+    "https://www.g-enews.com/view.php?ud=202609100605213201e250e8e188_1",
+    "https://www.bloter.net/news/articleView.html?idxno=673168"
    ],
    "seen_titles": [
-    "SK이노베이션E&S,한·인니기후테크청년창업전과정지원나선다",
     "코스피7000공방속전력·조선뛰고코스닥‘소부장랠리’[이런국장...",
     "제주SK18세유승재,손흥민소속LAFC산하LAFC2임대이적",
     "CXMT,삼성·SK하이닉스턱밑추격…중국메모리'기술독립'속도",
@@ -3306,10 +3301,11 @@
     "[美증시]유가100달러돌파에3대지수또하락…메모리는급등랠리",
     "[이슈분석]'조단위'세기의이혼…스마일게이트vsSK,무엇이달랐나",
     "약대제친'반도체계약학과'...굳건했던'의치한약수'흔들",
-    "월가\"마이크론좋지만SK하이닉스는더강력…AI메모리승자하이닉..."
+    "월가\"마이크론좋지만SK하이닉스는더강력…AI메모리승자하이닉...",
+    "[길진홍의See그널]포스코의시간,SK하이닉스의시간"
    ],
    "initialized": true,
-   "last_run": "2026-09-10T06:30:31.031320+09:00"
+   "last_run": "2026-09-10T06:35:20.064470+09:00"
   }
  },
  "press_names": {
