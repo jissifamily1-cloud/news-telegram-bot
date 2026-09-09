@@ -206,11 +206,17 @@
     [
      "2026-09-10T05:10:24.339681+09:00",
      "열릴까 성장판 쏟아지는 하반기에 매출 얼마나 블록버스터"
+    ],
+    [
+     "2026-09-10T05:20:25.021665+09:00",
+     "금리 교차 유가 등락 상승에 하락 동반 뉴욕증시 반도체 SW주"
+    ],
+    [
+     "2026-09-10T05:20:25.021665+09:00",
+     "세상의 정상인 레버리지"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/202609092980i",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2468340",
     "https://www.businesspost.co.kr/BP?command=article_view&num=446724",
     "https://edu.donga.com/news/articleView.html?idxno=111726",
     "https://www.goodkyung.com/news/articleView.html?idxno=291162",
@@ -1708,11 +1714,11 @@
     "https://www.joongang.co.kr/article/25460601",
     "https://www.etoday.co.kr/news/view/2623699",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060315",
-    "http://www.medisobizanews.com/news/articleView.html?idxno=142057"
+    "http://www.medisobizanews.com/news/articleView.html?idxno=142057",
+    "https://www.ddaily.co.kr/page/view/2026091005170980758",
+    "https://www.seoul.co.kr/news/editOpinion/column/journalist-viewpoint/2026/09/10/20260910027005?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "KB증권\"AI모델경쟁에메모리수요증가,삼성전자·SK하이닉스최대...",
-    "코스피상승출발...7000선안착재도전",
     "AI가불러온뜻밖의HDD부활...가격사상최고",
     "조장연여주시의원\"재정비상인식하고허리띠졸라매야\"",
     "하나증권\"'메가프로젝트'전력수요에원전확충필요성커져,관심주두...",
@@ -3210,10 +3216,12 @@
     "적자코앞인데건보료또동결…“제2재정위기온다”무서운경고",
     "AI돈벼락맞은반도체맨⋯아시아新부유층떴다[AI시대新기술귀족’...",
     "[인물+]바이오사업미래키쥔SK3세의리더십",
-    "하반기에쏟아지는K-블록버스터…'매출성장판'얼마나열릴까"
+    "하반기에쏟아지는K-블록버스터…'매출성장판'얼마나열릴까",
+    "유가·금리동반상승에뉴욕증시하락…반도체·SW주등락교차",
+    "[데스크시각]레버리지세상의정상인"
    ],
    "initialized": true,
-   "last_run": "2026-09-10T05:15:23.622307+09:00"
+   "last_run": "2026-09-10T05:20:25.021665+09:00"
   }
  },
  "press_names": {
