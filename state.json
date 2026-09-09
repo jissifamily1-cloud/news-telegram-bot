@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-09T23:30:32.058144+09:00",
-     "제2의 없도록 2배로 제주경찰 야간근무 부경장 실종수사팀도 2인"
-    ],
-    [
      "2026-09-09T23:45:25.458431+09:00",
      "연계 SK이노베이션 협력 프로그램 기후테크 인니 창업"
     ],
@@ -210,11 +206,17 @@
     [
      "2026-09-10T05:20:25.021665+09:00",
      "세상의 정상인 레버리지"
+    ],
+    [
+     "2026-09-10T05:30:35.594398+09:00",
+     "10일 경제 9월 캘린더"
+    ],
+    [
+     "2026-09-10T05:30:35.594398+09:00",
+     "46개월째 실적 어디로 내리막 취업자 청년은 기업 역대급인데"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=446724",
-    "https://edu.donga.com/news/articleView.html?idxno=111726",
     "https://www.goodkyung.com/news/articleView.html?idxno=291162",
     "https://www.esgeconomy.com/news/articleView.html?idxno=16651",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003265801&CMPT_CD=P0010",
@@ -1712,11 +1714,11 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060315",
     "http://www.medisobizanews.com/news/articleView.html?idxno=142057",
     "https://www.ddaily.co.kr/page/view/2026091005170980758",
-    "https://www.seoul.co.kr/news/editOpinion/column/journalist-viewpoint/2026/09/10/20260910027005?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/editOpinion/column/journalist-viewpoint/2026/09/10/20260910027005?wlog_tag3=naver",
+    "https://www.ytn.co.kr/_ln/0102_202609100524164910",
+    "https://www.thescoop.co.kr/news/articleView.html?idxno=311542"
    ],
    "seen_titles": [
-    "AI가불러온뜻밖의HDD부활...가격사상최고",
-    "조장연여주시의원\"재정비상인식하고허리띠졸라매야\"",
     "하나증권\"'메가프로젝트'전력수요에원전확충필요성커져,관심주두...",
     "서울시립대학교,취업박람회2026UOSJobFestival성료",
     "[굿모닝!금융지식]증권사실적,코스피만보면안된다…돈버는구조...",
@@ -3214,10 +3216,12 @@
     "[인물+]바이오사업미래키쥔SK3세의리더십",
     "하반기에쏟아지는K-블록버스터…'매출성장판'얼마나열릴까",
     "유가·금리동반상승에뉴욕증시하락…반도체·SW주등락교차",
-    "[데스크시각]레버리지세상의정상인"
+    "[데스크시각]레버리지세상의정상인",
+    "■9월10일(목)경제캘린더",
+    "기업실적역대급인데청년은어디로…취업자46개월째내리막"
    ],
    "initialized": true,
-   "last_run": "2026-09-10T05:25:21.674199+09:00"
+   "last_run": "2026-09-10T05:30:35.594398+09:00"
   }
  },
  "press_names": {
