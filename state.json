@@ -618,10 +618,13 @@
     [
      "2026-09-09T23:10:25.911451+09:00",
      "만에 돌파 코스피 7000선 영향 33거래일 모멘텀"
+    ],
+    [
+     "2026-09-09T23:20:26.314136+09:00",
+     "주식 신고가 미국 SK하이닉스 상승 장중"
     ]
    ],
    "seen_urls": [
-    "http://weekly.chosun.com/news/articleView.html?idxno=55089",
     "https://www.newspim.com/news/view/20260909000085",
     "https://www.newsis.com/view/NISX20260909_0003781944",
     "https://biz.heraldcorp.com/article/10867108",
@@ -2120,10 +2123,10 @@
     "https://www.segye.com/newsView/20260909519756?OutUrl=naver",
     "http://www.metroseoul.co.kr/article/20260909500649",
     "https://www.segye.com/newsView/20260909521029?OutUrl=naver",
-    "https://www.betanews.net/article/view/beta202609090131"
+    "https://www.betanews.net/article/view/beta202609090131",
+    "https://www.tokenpost.kr/news/breaking/405280"
    ],
    "seen_titles": [
-    "[기자의눈]기업에만‘초과이익’배분?고위공직자부동산차익은?",
     "서원대,중기업·벤처기업육성성과인정받으며중부권창업지원거점...",
     "\"8조원재산절반달라\"…스마일게이트창업자이혼소송오늘결론",
     "[모닝리포트]\"지엔씨에너지,AI센터수주본격화…목표가7만원\"",
@@ -3622,10 +3625,11 @@
     "2조5000억재산분할당한권혁빈은누구?…한때국내4위부호",
     "\"최대105만원혜택\"SK증권,비대면고객에‘연금이전이벤트’마련",
     "KIA김도영,번트타구에코뼈골절…AG‘비상’",
-    "코스피,33거래일만에7000선돌파...AI모멘텀영향"
+    "코스피,33거래일만에7000선돌파...AI모멘텀영향",
+    "SK하이닉스미국주식,장중신고가…5%대상승"
    ],
    "initialized": true,
-   "last_run": "2026-09-09T23:15:24.102120+09:00"
+   "last_run": "2026-09-09T23:20:26.314136+09:00"
   }
  },
  "press_names": {
