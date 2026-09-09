@@ -398,11 +398,17 @@
     [
      "2026-09-10T00:20:24.735563+09:00",
      "해킹 부글부글 이용자 포인트 보상 5천원 4천만 계정 티빙"
+    ],
+    [
+     "2026-09-10T00:30:37.703893+09:00",
+     "하남시의회 파주시의회 김포시의회 고양시의회"
+    ],
+    [
+     "2026-09-10T00:30:37.703893+09:00",
+     "성장 상품 2배 난립 ETF 유사 1년간 시장 자산운용사"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10867101",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742611&plink=ORI&cooper=NAVER",
     "https://www.tenasia.co.kr/article/2026090924994",
     "http://www.newsprime.co.kr/news/article.html?no=746962",
     "https://www.donga.com/news/Economy/article/all/20260909/134632332/1",
@@ -1900,11 +1906,11 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=9000010672&cp=nv",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000010669&cp=nv",
     "https://www.cbci.co.kr/news/articleView.html?idxno=605370",
-    "http://www.babytimes.co.kr/news/articleView.html?idxno=74119"
+    "http://www.babytimes.co.kr/news/articleView.html?idxno=74119",
+    "https://www.ekn.kr/web/view.php?key=20260910029352845",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000010675&cp=nv"
    ],
    "seen_titles": [
-    "SOLAI반도체소부장ETF,AI반도체훈풍에한달수익률23%",
-    "'용인반도체클러스터동일하이빌파크밸리',1순위청약마감후정당계...",
     "[단독]곧문닫는검찰‘노태우비자금의혹’수사속도…동아시아문...",
     "4대그룹중유일…삼성은왜70년째'공채'를고집할까?[스프]",
     "밥값만인당20만원대…전희철딸,미스코리아는놓쳤지만5성급호텔서...",
@@ -3402,10 +3408,12 @@
     "GPU만빨라선안된다…AI데이터센터‘연결전쟁’",
     "곽노정“현메모리시장은곡선도로달리기”…‘맞춤형’강화",
     "\"최태원·노소영9천억뛰어넘었다\"…권혁빈스마일게이트창업자,2.5...",
-    "티빙,4천만계정해킹보상포인트5천원?…이용자'부글부글'"
+    "티빙,4천만계정해킹보상포인트5천원?…이용자'부글부글'",
+    "[패트롤]고양시의회-김포시의회-파주시의회-하남시의회",
+    "ETF시장1년간2배성장…자산운용사유사상품난립"
    ],
    "initialized": true,
-   "last_run": "2026-09-10T00:25:19.820576+09:00"
+   "last_run": "2026-09-10T00:30:37.703893+09:00"
   }
  },
  "press_names": {
