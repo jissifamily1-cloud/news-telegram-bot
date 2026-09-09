@@ -982,12 +982,13 @@
     [
      "2026-09-09T20:45:25.248589+09:00",
      "Checks Steps Battery EU Up Chinese"
+    ],
+    [
+     "2026-09-09T20:55:19.710707+09:00",
+     "넘는다 AI칩 한계 ASML 생산 TSMC 대형"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026090817544125447",
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=239538",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1723489",
     "https://view.asiae.co.kr/article/2026090819164246707",
     "https://www.newspim.com/news/view/20260908000705",
     "https://biz.newdaily.co.kr/site/data/html/2026/09/09/2026090900017.html",
@@ -2484,12 +2485,12 @@
     "https://www.newsis.com/view/NISX20260909_0003783329",
     "http://www.yonhapnewstv.co.kr/news/MYH20260909203339zZF",
     "https://www.rcast.co.kr/news/articleView.html?idxno=31593",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=276574"
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=276574",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008745686&plink=ORI&cooper=NAVER",
+    "https://www.segye.com/newsView/20260909517135?OutUrl=naver",
+    "https://www.safetimes.co.kr/news/articleView.html?idxno=245585"
    ],
    "seen_titles": [
-    "SK이노E&S,한·인니청년창업연결…'기후테크'키운다",
-    "SK이노E&S,부산서한·인니청년창업가만났다…기후테크협력확대",
-    "SK이노E&S,한·인니창업생태계잇는다…AI기후테크육성",
     "SKT,SK브로드밴드쪼개AIDC승부수…외부자본3.1조수혈",
     "SK이노E&S,한·인니'전략적동반자'잇는민간외교종횡무진",
     "주한인니부대사\"한·인니스타트업협력,양국넘어글로벌시장으로...",
@@ -3986,10 +3987,13 @@
     "\"2.5조원현금아닌주식으로\"…권혁빈이혼,최태원과왜달랐나",
     "[이시각헤드라인]9월9일뉴스리뷰",
     "NH저축은행,최고연6%NHFIC올바른지구정기적금출시外",
-    "EUStepsUpChineseBatteryChecks"
+    "EUStepsUpChineseBatteryChecks",
+    "중동먹구름에도반도체훈풍…코스피'7천선'탈환",
+    "‘40홈런’불방망이김도영,AG5연패몰아칠까",
+    "TSMC·ASML,대형AI칩생산한계넘는다"
    ],
    "initialized": true,
-   "last_run": "2026-09-09T20:50:29.782436+09:00"
+   "last_run": "2026-09-09T20:55:19.710707+09:00"
   }
  },
  "press_names": {
