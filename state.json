@@ -574,10 +574,13 @@
     [
      "2026-09-09T23:20:26.314136+09:00",
      "주식 신고가 미국 SK하이닉스 상승 장중"
+    ],
+    [
+     "2026-09-09T23:30:32.058144+09:00",
+     "제2의 없도록 2배로 제주경찰 야간근무 부경장 실종수사팀도 2인"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260909000085",
     "https://www.newsis.com/view/NISX20260909_0003781944",
     "https://biz.heraldcorp.com/article/10867108",
     "https://www.newsis.com/view/NISX20260909_0003781903",
@@ -2076,10 +2079,10 @@
     "http://www.metroseoul.co.kr/article/20260909500649",
     "https://www.segye.com/newsView/20260909521029?OutUrl=naver",
     "https://www.betanews.net/article/view/beta202609090131",
-    "https://www.tokenpost.kr/news/breaking/405280"
+    "https://www.tokenpost.kr/news/breaking/405280",
+    "https://www.mk.co.kr/article/12148838"
    ],
    "seen_titles": [
-    "서원대,중기업·벤처기업육성성과인정받으며중부권창업지원거점...",
     "\"8조원재산절반달라\"…스마일게이트창업자이혼소송오늘결론",
     "[모닝리포트]\"지엔씨에너지,AI센터수주본격화…목표가7만원\"",
     "하나證\"SKT,2032년데이터센터영업익1조…목표가14만원\"",
@@ -3578,10 +3581,11 @@
     "\"최대105만원혜택\"SK증권,비대면고객에‘연금이전이벤트’마련",
     "KIA김도영,번트타구에코뼈골절…AG‘비상’",
     "코스피,33거래일만에7000선돌파...AI모멘텀영향",
-    "SK하이닉스미국주식,장중신고가…5%대상승"
+    "SK하이닉스미국주식,장중신고가…5%대상승",
+    "제2의부경장없도록…제주경찰야간근무1→2인,실종수사팀도2배로"
    ],
    "initialized": true,
-   "last_run": "2026-09-09T23:25:19.754298+09:00"
+   "last_run": "2026-09-09T23:30:32.058144+09:00"
   }
  },
  "press_names": {
