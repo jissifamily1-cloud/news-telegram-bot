@@ -1158,17 +1158,17 @@
     [
      "2026-09-09T19:25:26.213235+09:00",
      "연결 카이스트 GPU 움직이는 칩처럼 속도 데이터"
+    ],
+    [
+     "2026-09-09T19:35:20.877072+09:00",
+     "D램에 2028년 공정 SK하이닉스 미세 투입 장비 노광 승부수 차세대"
+    ],
+    [
+     "2026-09-09T19:35:20.877072+09:00",
+     "166만 개보위 128억 유출 개인정보 과징금 GS리테일 철퇴"
     ]
    ],
    "seen_urls": [
-    "https://www.fntimes.com/html/view.php?ud=202609090705006156141825007d_18",
-    "https://www.fnnews.com/news/202609090642308112",
-    "https://biz.sbs.co.kr/article_hub/20000333518?division=NAVER",
-    "http://www.newskr.kr/news/articleView.html?idxno=106209",
-    "https://www.starnewskorea.com/sports/2026/09/09/2026082116015139898",
-    "https://biz.chosun.com/stock/stock_general/2026/09/09/BX4RRXH65BDJHPKMAY6XCI2OMM/",
-    "http://www.newsdream.kr/news/articleView.html?idxno=117726",
-    "https://view.asiae.co.kr/article/2026090810314498551",
     "http://www.newsian.co.kr/news/articleView.html?idxno=95023",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7182300",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=245515",
@@ -2660,17 +2660,17 @@
     "https://view.asiae.co.kr/article/2026090919170071412",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=266623",
     "https://futurechosun.com/?p=159821",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000010622&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000010622&cp=nv",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553527342",
+    "http://www.kjdaily.com/article.php?aid=1788949344686456004",
+    "https://www.newsis.com/view/NISX20260909_0003783304",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260909192525AaG",
+    "https://www.lcnews.co.kr/news/articleView.html?idxno=208019",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8659116",
+    "https://www.thepublic.kr/news/articleView.html?idxno=318201",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=226892"
    ],
    "seen_titles": [
-    "최태원\"韓·日뭉치면6조달러\"…한일경제공동체필요성강조",
-    "삼성전자,2028년D램승부수···TSMC·인텔과ASML신기술선점경쟁",
-    "[KFT모닝브리프]2026.09.09—오늘꼭알아야할국내외경제·시장...",
-    "\"주식다빼서여기넣는다\"…'연10%배당'소식에1200억싸들고달려...",
-    "[마켓브리핑]미·캐나다무역긴장고조…'칩플레이션'도불안",
-    "[오늘의이슈]밤사이뉴욕이틀째하락…오늘고용·가계대출동시발표",
-    "\"저신인땐TV중계도귀했죠\"상상못할2026년KBO티켓전쟁,정근우...",
-    "하나證“SKT,데이터센터로2032년매출5조가능…목표가14만원유지...",
     "[키-리포트]하나\"SK텔레콤,통신서비스업종'탑픽'유지\"",
     "[이주의관.종]'K-뷰티'열풍타고…한국콜마,한달새73%급등",
     "하나證,SKT목표가14만원유지…\"데이터센터확장주주에호재\"",
@@ -4162,10 +4162,18 @@
     "권혁빈1인지배구조깨지나…스마일게이트\"본연업무충실\"",
     "\"분쟁조속히해결위한대승적차원\"…최태원,노소영재산분할9440억...",
     "[더나은미래경제브리핑]최윤범고려아연회장,임시주총서웃었다…권...",
-    "GPU‘속도’서‘연결’로…카이스트,한개칩처럼움직이는데이터..."
+    "GPU‘속도’서‘연결’로…카이스트,한개칩처럼움직이는데이터...",
+    "[현장목소리]'승리가절실한'이정규감독,\"변화보다잘하는점지속...",
+    "“호남반도체중심지역산업생태계변화전략절실”",
+    "방미통위,롯데홈쇼핑·홈앤쇼핑등12개사업자재승인…유효기간7년",
+    "중동·관세악재에도…코스피,33거래일만에7천피탈환",
+    "[금융게시판]KB금융,BS그룹과'생산적금융'협력…우리금융·농협금융...",
+    "권혁빈‘역대최대’2조5천억재산분할…최태원은2440억만다툰다",
+    "SK하이닉스,2028년D램에'차세대노광장비'투입…미세공정승부수",
+    "GS리테일,166만명개인정보유출…개보위과징금128억철퇴"
    ],
    "initialized": true,
-   "last_run": "2026-09-09T19:30:31.458213+09:00"
+   "last_run": "2026-09-09T19:35:20.877072+09:00"
   }
  },
  "press_names": {
