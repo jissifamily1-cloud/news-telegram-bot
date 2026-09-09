@@ -746,12 +746,17 @@
     [
      "2026-09-09T22:10:26.632904+09:00",
      "승점 전북 우승 16점 유지 마지노선 15격차 서울 제동"
+    ],
+    [
+     "2026-09-09T22:25:21.135875+09:00",
+     "이벤트 SK증권 30일까지 이전 연금저축"
+    ],
+    [
+     "2026-09-09T22:25:21.135875+09:00",
+     "마이크론 SK하이닉스의 전략 서로 삼성 다른 미국"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2623370",
-    "https://www.kbmaeil.com/article/20260909500028",
-    "https://www.yna.co.kr/view/AKR20260909028300008?input=1195m",
     "https://www.newsway.co.kr/news/view?ud=2026090908173236525",
     "https://biz.sbs.co.kr/article_hub/20000333544?division=NAVER",
     "https://www.tbc.co.kr/news/view?pno=20260908154305AE05252&id=210849",
@@ -2248,12 +2253,12 @@
     "https://www.newscj.com/news/articleView.html?idxno=3431427",
     "https://www.gukjenews.com/news/articleView.html?idxno=3690330",
     "https://www.hankyung.com/article/2026090944836",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16188158"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16188158",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553527468",
+    "http://www.bizwnews.com/news/articleView.html?idxno=145756",
+    "https://www.news2day.co.kr/article/20260909500334"
    ],
    "seen_titles": [
-    "지엔씨에너지,'점유율70%'로AI데이터센터3조수주'임박'…\"가장먼...",
-    "\"지엔씨에너지,신규수주올해4700억→2028년1조원전망\"-IBK",
-    "SK이노베이션E&S,한·인니청년창업지원통합…기후테크생태계확장",
     "반도체는뛰고유가는100달러턱밑…코스피‘7000선’재도전",
     "KB증권\"AI모델경쟁최대수혜는삼성전자·SK하이닉스\"",
     "SK텔레콤,AIDC확장에배당기대까지…\"14만원간다\"[애널리스트의시각...",
@@ -3750,10 +3755,13 @@
     "SK하이닉스노조,임단협재투표돌입…추석전타결여부주목",
     "용인특례시-철원군자매결연체결…18번째자매도시탄생",
     "최태원제안에키옥시아'거절'…한일낸드동맹'엇박자'[강경주의테...",
-    "승점15격차유지…전북제동,서울우승마지노선16점"
+    "승점15격차유지…전북제동,서울우승마지노선16점",
+    "[현장목소리]광주FC치켜세운승자세르지우코스타감독의품격,\"이정...",
+    "SK증권,연금저축이전이벤트…30일까지",
+    "[마켓인사이드]마이크론·삼성·SK하이닉스의‘서로다른미국전략’"
    ],
    "initialized": true,
-   "last_run": "2026-09-09T22:20:25.683436+09:00"
+   "last_run": "2026-09-09T22:25:21.135875+09:00"
   }
  },
  "press_names": {
