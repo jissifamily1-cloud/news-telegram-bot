@@ -258,16 +258,29 @@
     [
      "2026-09-11T06:45:21.297018+09:00",
      "투자 심의 0건 통과 9조인데 국가전략기술 AIDC"
+    ],
+    [
+     "2026-09-11T06:55:18.406534+09:00",
+     "코스피도 조정 급락에 외국인 안갯속 반도체주 압력 향방"
+    ],
+    [
+     "2026-09-11T06:55:18.406534+09:00",
+     "보안체계론 무너지는 기존 보안 막아 경계선"
+    ],
+    [
+     "2026-09-11T06:55:18.406534+09:00",
+     "업무 혁신 보안 파트너 에이전틱 양날의 재앙"
+    ],
+    [
+     "2026-09-11T06:55:18.406534+09:00",
+     "최태원 동거인에 검찰 고소당한 변호사 불기 노소영 썼다 1000억"
+    ],
+    [
+     "2026-09-11T06:55:18.406534+09:00",
+     "금리 속수무책 유가 반도체도 오라클 꺾여 발작 시간"
     ]
    ],
    "seen_urls": [
-    "https://biz.newdaily.co.kr/site/data/html/2026/09/10/2026091000054.html",
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=392596",
-    "https://www.itooza.com/common/iview.php?no=2026091009340100075",
-    "https://en.yna.co.kr/view/AEN20260910002300320?input=2106m",
-    "https://zdnet.co.kr/view/?no=20260909174729",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1180852",
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575827840592",
     "https://www.sedaily.com/article/20089290",
     "https://www.gukjenews.com/news/articleView.html?idxno=3689942",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=317596",
@@ -1760,16 +1773,16 @@
     "https://www.stardailynews.co.kr/news/articleView.html?idxno=549776",
     "https://www.enetnews.co.kr/news/articleView.html?idxno=54267",
     "https://it.chosun.com/news/articleView.html?idxno=2023092169888",
-    "https://www.yna.co.kr/view/AKR20260910128000017?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260910128000017?input=1195m",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=282082",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16189430",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1723847",
+    "https://www.viva100.com/article/20260910501040",
+    "https://www.viva100.com/article/20260910501039",
+    "https://news.tvchosun.com/site/data/html_dir/2026/09/11/2026091190023.html",
+    "https://www.seoulfn.com/news/articleView.html?idxno=637733"
    ],
    "seen_titles": [
-    "ADT캡스,하나은행과소상공인디지털전환지원⋯500개사업장대상",
-    "신한카드,'모두의AI'컨소시엄핵심금융파트너참여",
-    "현대엔지니어링,하루새에너지사업2.3조수주",
-    "SKT,글로벌통신업계와AI성장·디지털신뢰협력강화",
-    "SK스퀘어,‘AI네이티브’투자회사로전환속도낸다",
-    "[빅데이터투데이]증권사2026년9월브랜드평판랭킹...1위미래에셋증...",
-    "[52주]신고가3개,신저가17개...코스피7000하회",
     "SKGroupchieftovisitAIdatacenterunderconstructioninUlsan",
     "[유미's픽]예산4.7조더쏟는정부,'프론티어AI'새개발진꾸리나",
     "중앙에너비스주가,급등세...이유는?",
@@ -3262,10 +3275,17 @@
     "'캐치!티니핑',전북현대홈경기뜬다…스포츠로넓어진IP접점",
     "[이넷뉴스브랜드평판]GS칼텍스,주유소9월1위...HD현대오일뱅크,에...",
     "같은반도체ETF인데…수익률은27%p차이왜?",
-    "[AI프리즘]국가전략기술투자45.9조인데…AIDC심의통과'0건'"
+    "[AI프리즘]국가전략기술투자45.9조인데…AIDC심의통과'0건'",
+    "뉴욕증시,유가·미국채금리급등에나흘째하락...나스닥0.6%↓",
+    "미국증시,PPI·유가·국채금리충격에하락…엔비디아·반도체주약세",
+    "美반도체주급락에코스피도조정압력…외국인향방안갯속",
+    "“기존보안체계론못막아”⋯무너지는보안경계선",
+    "양날의검‘에이전틱AI’⋯‘업무혁신파트너’냐‘보안재앙’이...",
+    "\"최태원,동거인에1000억썼다\"고소당한노소영측변호사…검찰,불기...",
+    "[뉴욕증시]유가·금리발작'속수무책',반도체도꺾여···오라클시간..."
    ],
    "initialized": true,
-   "last_run": "2026-09-11T06:50:21.662388+09:00"
+   "last_run": "2026-09-11T06:55:18.406534+09:00"
   }
  },
  "press_names": {
