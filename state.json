@@ -898,13 +898,17 @@
     [
      "2026-09-10T21:40:25.587541+09:00",
      "100달러 빗장 뱃길마다 뚫렸다 국제유가 걸리니"
+    ],
+    [
+     "2026-09-10T21:55:18.661143+09:00",
+     "초단타 레버리지 증권사 놀아났나 수수료 삼전닉스 외국인"
+    ],
+    [
+     "2026-09-10T21:55:18.661143+09:00",
+     "울산 시즌 역사로 하나 이동경 3연승"
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20260910000032",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485668",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=300628",
-    "https://www.ngonews.kr/news/articleView.html?idxno=237728",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1723709",
     "https://www.sentv.co.kr/article/view/sentv202609100024",
     "http://datanews.co.kr/news/article.html?no=146410",
@@ -2400,13 +2404,13 @@
     "http://www.ujeil.com/news/articleView.html?idxno=391920",
     "http://www.lawissue.co.kr/view.php?ud=202609102135052608204ead0791_12",
     "https://www.newspim.com/news/view/20260910001223",
-    "https://www.khan.co.kr/article/202609102125025"
+    "https://www.khan.co.kr/article/202609102125025",
+    "https://www.ulsanpress.net/news/articleView.html?idxno=582881",
+    "https://www.cnbnews.com/news/articleView.html?idxno=1015296",
+    "https://www.etnews.com/20260910000423",
+    "https://www.ulsanpress.net/news/articleView.html?idxno=582822"
    ],
    "seen_titles": [
-    "정재헌SKTCEO,GSMA서‘AI풀스택’청사진공유",
-    "SK하이닉스,2030년까지물누적6억t아낀다",
-    "하나카드,'모두의AI'금융파트너참여…'에이전트페이'개발",
-    "삼성전자·SK하이닉스내리는데…반도체장비주는줄줄이상승랠리",
     "HBM넘어D램·낸드까지'품귀'…SK하이닉스ADR최고가",
     "SK하이닉스,지난해하루용수17만톤절감…2030년까지6억톤목표",
     "[Tech&Now]ADT캡스,소상공인500곳DX…로킷헬스케어,中하이난진출",
@@ -3902,10 +3906,14 @@
     "빠르게발전하는AI,산업넘어일상으로",
     "롯데온,환절기겨냥보습·피부관리상품편성강화",
     "[AI상보]'新에이스'아빌라앞세운SSG,한화에4-3신승…한화6연승...",
-    "뱃길마다빗장걸리니…국제유가‘100달러’또뚫렸다"
+    "뱃길마다빗장걸리니…국제유가‘100달러’또뚫렸다",
+    "울산AI데이터센터현장점검",
+    "SK하이닉스잇는이천시-청주시…고향사랑기부'교차참여'",
+    "삼전닉스레버리지'초단타외국인'에놀아났나…증권사초단타수수료...",
+    "울산,이동경새역사로시즌첫홈3연승하나"
    ],
    "initialized": true,
-   "last_run": "2026-09-10T21:50:23.720833+09:00"
+   "last_run": "2026-09-10T21:55:18.661143+09:00"
   }
  },
  "press_names": {
