@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-11T00:30:27.713082+09:00",
-     "최태원 한미동맹대상 전역장병 보훈 회장 수상 지원"
-    ],
-    [
      "2026-09-11T00:40:23.032518+09:00",
      "뭉칫돈 국채 ETF에 서학개미 몰려 초단기"
     ],
@@ -266,12 +262,17 @@
     [
      "2026-09-11T06:20:21.255621+09:00",
      "JW중외로 통풍치료제 제3의 올까 물결"
+    ],
+    [
+     "2026-09-11T06:30:31.194001+09:00",
+     "산업계 표준되나 영업이익"
+    ],
+    [
+     "2026-09-11T06:30:31.194001+09:00",
+     "전까지 반등의 10월 하나 전문가가 조건 삼전하닉 FOMC 관망해야"
     ]
    ],
    "seen_urls": [
-    "https://www.chosun.com/economy/industry-company/2026/09/10/EKLZCEX33BEZJAN23UVLJIJZBY/",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4434235",
-    "http://www.newslock.co.kr/news/articleView.html?idxno=135935",
     "https://www.etoday.co.kr/news/view/2623953",
     "https://daily.hankooki.com/news/articleView.html?idxno=1404667",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609100941085320411",
@@ -1768,12 +1769,12 @@
     "https://www.news1.kr/finance/general-finance/6286655",
     "https://www.news1.kr/industry/sb-founded/6286467",
     "https://www.mk.co.kr/article/12150023",
-    "https://www.monews.co.kr/news/articleView.html?idxno=413736"
+    "https://www.monews.co.kr/news/articleView.html?idxno=413736",
+    "https://www.news1.kr/world/international-economy/6287027",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609101503004590511",
+    "https://www.newsis.com/view/NISX20260910_0003783590"
    ],
    "seen_titles": [
-    "SK하이닉스ADR7%↑...상장후최고가경",
-    "최태원SK그룹회장,울산AI데이터센터·CLX현장점검",
-    "최태원SK회장,울산AI데이터센터현장점검..AI현장행보강화",
     "SK하이닉스노사,성과급'현금50%·주식50%'지급합의",
     "최태원,울산포럼앞두고SKAI데이터센터점검…경영진총출동",
     "현대엔지니어링,용인·신호남발전소건설사업우협대상자로선정",
@@ -3270,10 +3271,13 @@
     "'마이크끈'이억원금융위원장…조용한취임1주년맞는다",
     "메모리호황에'소모성소재'잘팔린다…솔브레인·동진실적'쑥'",
     "“가만히있었는데14%녹았습니다”…환차손얻어맞은서학개미",
-    "통풍치료제,JW중외로'제3의물결'올까"
+    "통풍치료제,JW중외로'제3의물결'올까",
+    "유가·금리쇼크에와르르…SK하닉ADR5.2%·마이크론4.9%↓",
+    "[산업계이중고]‘영업이익N%’산업계표준되나",
+    "\"FOMC전까지관망해야하나\"…전문가가본삼전하닉10월반등의조건"
    ],
    "initialized": true,
-   "last_run": "2026-09-11T06:25:16.762750+09:00"
+   "last_run": "2026-09-11T06:30:31.194001+09:00"
   }
  },
  "press_names": {
