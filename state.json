@@ -538,10 +538,13 @@
     [
      "2026-09-10T23:35:23.832274+09:00",
      "노소영 동거인에 1000억원 불기소 넘게 최태원 변호사"
+    ],
+    [
+     "2026-09-10T23:50:23.960025+09:00",
+     "면접에 취준생 우는"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260910092731102",
     "https://www.widedaily.com/news/articleView.html?idxno=300861",
     "https://zdnet.co.kr/view/?no=20260910085712",
     "https://www.sedaily.com/article/20089247",
@@ -2040,10 +2043,10 @@
     "https://medicalworldnews.co.kr/news/view.php?idx=1510977186",
     "https://www.cnbizm.com/news/articleView.html?idxno=314763",
     "https://www.tokenpost.kr/news/tech/405918",
-    "https://www.joongang.co.kr/article/25460879"
+    "https://www.joongang.co.kr/article/25460879",
+    "https://www.chosun.com/opinion/journalist_view/2026/09/10/NIYI7KGFBBAIBMRNTSYA345V5M/"
    ],
    "seen_titles": [
-    "코스피,장초반7000선약보합…코스닥0.7%↓",
     "정재헌SKTCEO“AI시대고객·사회신뢰가기업경쟁력좌우”",
     "[EBN데이터센터]코스피,장초반7029.21로숨고르기...기관매도부담",
     "코스피,유가·美국채금리급등에'하락'…코스닥은'급락'",
@@ -3542,10 +3545,11 @@
     "[9월10일병원계이모저모④]고려대구로,서울대,이대서울,일산백병...",
     "서울시의회이민석위원장,'제로서울기업실천단2기출범식'참석...참...",
     "마이크론DRAM24%,SK하이닉스와1%p격차",
-    "“최태원,동거인에1000억원넘게써”…노소영측변호사불기소"
+    "“최태원,동거인에1000억원넘게써”…노소영측변호사불기소",
+    "[기자의시각]AI면접에두번우는취준생"
    ],
    "initialized": true,
-   "last_run": "2026-09-10T23:45:20.784440+09:00"
+   "last_run": "2026-09-10T23:50:23.960025+09:00"
   }
  },
  "press_names": {
