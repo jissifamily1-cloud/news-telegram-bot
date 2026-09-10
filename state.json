@@ -390,10 +390,13 @@
     [
      "2026-09-11T07:15:20.172300+09:00",
      "상위사 의존 전략 IB 경쟁 키움증권 배경은 파트너 변경"
+    ],
+    [
+     "2026-09-11T07:20:22.738922+09:00",
+     "외부자본 SK하이퍼 연결 투입자금 대규모"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260910000436",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699553",
     "http://www.newsian.co.kr/news/articleView.html?idxno=95127",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699556",
@@ -1892,10 +1895,10 @@
     "https://www.hankyung.com/article/2026091073231",
     "https://economist.co.kr/article/view/ecn202609070071",
     "https://www.sedaily.com/article/20089666",
-    "https://www.fetv.co.kr/news/articleView.html?idxno=309996"
+    "https://www.fetv.co.kr/news/articleView.html?idxno=309996",
+    "https://www.fetv.co.kr/news/articleView.html?idxno=309980"
    ],
    "seen_titles": [
-    "SK하이닉스노사,'성과급현금50%·주식50%'잠정합의안마련",
     "SK하이닉스노사,임단협수정안마련...성과급'현금50%·주식50%'",
     "SK하이닉스노사,성과급지급방식수정합의…15~16일총투표",
     "신한카드,SK텔레콤과손잡고AI결제표준제시",
@@ -3394,10 +3397,11 @@
     "\"삼성·SK가자\"대학생들난리…떴다하면순식간에'완판'",
     "이름값못하는‘우선주’…보통주반도안되는값에거래",
     "성과급현금비중늘린SK하이닉스…이번엔임단협넘을까[biz-플러스]",
-    "키움증권,'파트너의존→상위사경쟁'IB전략변경배경은"
+    "키움증권,'파트너의존→상위사경쟁'IB전략변경배경은",
+    "[SKTAIDC재편]②SK하이퍼,대규모투입자금'외부자본'과연결"
    ],
    "initialized": true,
-   "last_run": "2026-09-11T07:15:20.172300+09:00"
+   "last_run": "2026-09-11T07:20:22.738922+09:00"
   }
  },
  "press_names": {
