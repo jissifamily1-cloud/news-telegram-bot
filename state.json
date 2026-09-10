@@ -182,11 +182,13 @@
     [
      "2026-09-11T05:45:22.232231+09:00",
      "육박 10년물 뉴욕증시 하락 유가 108달러 데일리국제금융 일제"
+    ],
+    [
+     "2026-09-11T05:57:22.256104+09:00",
+     "엔비디아 마이크론 반도체주 재확산 우려에 인플레이션"
     ]
    ],
    "seen_urls": [
-    "https://www.joongangenews.com/news/articleView.html?idxno=547022",
-    "https://www.seoulfn.com/news/articleView.html?idxno=637645",
     "http://www.beyondpost.co.kr/view.php?ud=20260910094810775be44c0aacd_30",
     "http://www.efnews.co.kr/news/articleView.html?idxno=132285",
     "https://www.ziksir.com/news/articleView.html?idxno=145954",
@@ -1684,11 +1686,11 @@
     "https://www.ytn.co.kr/_ln/0102_202609110529073469",
     "https://view.asiae.co.kr/article/2026091105390924589",
     "https://www.yakup.com/news/index.html?cat=12&nid=332406",
-    "https://www.sedaily.com/article/20089674"
+    "https://www.sedaily.com/article/20089674",
+    "https://www.segye.com/newsView/20260911500794?OutUrl=naver",
+    "http://www.beyondpost.co.kr/view.php?ud=2026091105351839052aaae0046f_30"
    ],
    "seen_titles": [
-    "100달러돌파한국제유가…정유주‘불기둥’[특징주]",
-    "[뉴욕브리핑]유가100달러·국채금리급등…美증시3일째하락",
     "최태원SK회장,울산서AX실행점검…\"AI풀스택\"현장확인",
     "SK브로드밴드,Btv+가입자대상KBO포스트시즌직관이벤트진행",
     "[개장시황]\"기관매물에밀렸다\"…코스피0.3%하락한7020선",
@@ -3186,10 +3188,12 @@
     "■9월11일(금)경제캘린더",
     "[뉴욕증시]WTI100달러돌파·30년물금리19년만에최고…일제히하락...",
     "SK바이오팜,오파칼림FDA부분임상보류…추가비임상자료로해제추...",
-    "유가108달러·美10년물5%육박...뉴욕증시일제하락[데일리국제금융..."
+    "유가108달러·美10년물5%육박...뉴욕증시일제하락[데일리국제금융...",
+    "이상일용인시장,방한동티모르학생단접견…“세계최대반도체도시...",
+    "엔비디아2.37%,마이크론4.9%↓...반도체주,인플레이션재확산우려에..."
    ],
    "initialized": true,
-   "last_run": "2026-09-11T05:55:18.262411+09:00"
+   "last_run": "2026-09-11T05:57:22.256104+09:00"
   }
  },
  "press_names": {
