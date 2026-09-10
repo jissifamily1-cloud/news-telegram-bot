@@ -194,10 +194,13 @@
     [
      "2026-09-11T02:20:22.136603+09:00",
      "만나 용인시장 즐거운 만들길 학생단 동티모르 이상일 추억"
+    ],
+    [
+     "2026-09-11T02:45:22.933761+09:00",
+     "FDA 오파칼림 비임상 독성 공개 부분임상 SK바이오팜 이슈 보류"
     ]
    ],
    "seen_urls": [
-    "https://www.newspost.kr/news/articleView.html?idxno=225564",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609100311&t=NN",
     "https://www.newspim.com/news/view/20260910000312",
     "https://www.etoday.co.kr/news/view/2623929",
@@ -1696,10 +1699,10 @@
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2299753",
     "https://www.hankyung.com/article/2026091076641",
     "https://www.ekn.kr/web/view.php?key=20260911029013375",
-    "https://www.thereport.co.kr/news/articleView.html?idxno=91275"
+    "https://www.thereport.co.kr/news/articleView.html?idxno=91275",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=275076"
    ],
    "seen_titles": [
-    "하나카드,국가AI사업금융파트너선정…'AgentPay'로AI금융혁신...",
     "정재헌SKTCEO,GSMAM360서'AI풀스택'협력확대",
     "코스피,기관매도에0.3%하락한7020선…삼성전자0.8%↓",
     "최태원SK그룹회장,AX현장경영나선다",
@@ -3198,10 +3201,11 @@
     "SK하이닉스,하루17만톤물사용줄였다…2030년누적6억톤절감",
     "[포토]최태원,울산서AX현장경영",
     "[패트롤]성남시-용인시-경기광주시-이천시-여주시",
-    "이상일용인시장,동티모르학생단만나\"즐거운추억만들길\""
+    "이상일용인시장,동티모르학생단만나\"즐거운추억만들길\"",
+    "비임상독성이슈...SK바이오팜\"FDA,오파칼림'부분임상보류'\"공개"
    ],
    "initialized": true,
-   "last_run": "2026-09-11T02:40:24.451898+09:00"
+   "last_run": "2026-09-11T02:45:22.933761+09:00"
   }
  },
  "press_names": {
