@@ -166,14 +166,25 @@
     [
      "2026-09-11T05:00:35.162694+09:00",
      "폭락하던 거래됐다 낮게 제값보다 곱버스"
+    ],
+    [
+     "2026-09-11T05:15:20.790935+09:00",
+     "블룸버그와 KB금융 협력 해외사업"
+    ],
+    [
+     "2026-09-11T05:15:20.790935+09:00",
+     "빚투 열었다 놓친 그들이 주식창 대출로 학자금"
+    ],
+    [
+     "2026-09-11T05:15:20.790935+09:00",
+     "9월11일 금요일 울산"
+    ],
+    [
+     "2026-09-11T05:15:20.790935+09:00",
+     "11일 울산"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/AKR20260910094223yLJ",
-    "https://www.news1.kr/local/gyeonggi/6285896",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609100856465890393",
-    "https://www.newsis.com/view/NISX20260910_0003783805",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1723715",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=664239",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1723723",
     "http://www.newskr.kr/news/articleView.html?idxno=106266",
@@ -1668,14 +1679,14 @@
     "https://n.news.naver.com/mnews/article/091/0010307236",
     "https://n.news.naver.com/mnews/article/091/0010307240",
     "https://www.mediapen.com/news/view/1122815",
-    "https://www.thescoop.co.kr/news/articleView.html?idxno=311557"
+    "https://www.thescoop.co.kr/news/articleView.html?idxno=311557",
+    "https://www.starnewskorea.com/sports/2026/09/11/2026091015533923668",
+    "https://www.segye.com/newsView/20260910516068?OutUrl=naver",
+    "https://www.nocutnews.co.kr/news/6576439",
+    "https://www.newsis.com/view/NISX20260910_0003784887",
+    "https://www.news1.kr/local/ulsan/6286896"
    ],
    "seen_titles": [
-    "현대엔지니어링,용인·신호남발전사업우선협상대상자선정",
-    "SK이노·SKIET,14~15일합병관련주주간담회개최",
-    "코스피,개인·외국인순매수에7000p회복강세",
-    "이재용은1.9조에사고,최태원은7000억에지켰다…삼성·SK‘지분의값...",
-    "최태원,울산SKAI데이터센터점검…경영진총출동",
     "추미애\"경기도재정난,지방세제뜯어고치지않으면해결불가능\"",
     "경북도바이오산업엑스포안동서개막…첨단바이오미래연다",
     "SK하이닉스노사,성과급재합의…'주식6대현금4'→'반반'으로조정",
@@ -3170,10 +3181,15 @@
     "epaselectTURKEYSOCCER",
     "TURKEYSOCCER",
     "[美증시특징주]금리인상경계감에메모리'털썩'…SK하이닉스·마이크...",
-    "곱버스-59.95%폭락하던날…제값보다더낮게거래됐다"
+    "곱버스-59.95%폭락하던날…제값보다더낮게거래됐다",
+    "\"폰세-페디그이상\"수치로입증,'9구단초비상'아빌라\"계약기다리...",
+    "[이코노브리핑]KB금융,블룸버그와해외사업등협력외",
+    "학자금대출로주식창열었다…'빚투'2030,그들이놓친것",
+    "[오늘의주요일정]울산(9월11일금요일)",
+    "[오늘의주요일정]울산(11일,금)"
    ],
    "initialized": true,
-   "last_run": "2026-09-11T05:10:24.387587+09:00"
+   "last_run": "2026-09-11T05:15:20.790935+09:00"
   }
  },
  "press_names": {
