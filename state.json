@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-12T00:30:32.350063+09:00",
-     "9월 2주"
-    ],
-    [
      "2026-09-12T00:40:22.554408+09:00",
      "비자금 메모 노소영 소송서 이혼 검찰 나온 300억 참고인조사"
     ],
@@ -118,11 +114,17 @@
     [
      "2026-09-12T06:20:23.094798+09:00",
      "대출은 중앙은행 엔비디아 건전할까 과연"
+    ],
+    [
+     "2026-09-12T06:31:06.549913+09:00",
+     "영예 노벨상 알테오젠 유한양행 제약바이오"
+    ],
+    [
+     "2026-09-12T06:31:06.549913+09:00",
+     "상승 증시 일제히 반도체지 미국 기술주 마감 강세에"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=275069",
-    "https://www.segye.com/newsView/20260910519213?OutUrl=naver",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000011005&cp=nv",
     "https://www.businesspost.co.kr/BP?command=article_view&num=446956",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609100675&t=NN",
@@ -1620,11 +1622,11 @@
     "https://www.mk.co.kr/article/12150959",
     "https://www.hitnews.co.kr/news/articleView.html?idxno=79090",
     "https://www.hitnews.co.kr/news/articleView.html?idxno=79078",
-    "https://www.mt.co.kr/world/2026/09/12/2026091119083173001"
+    "https://www.mt.co.kr/world/2026/09/12/2026091119083173001",
+    "https://www.dailymedi.com/news/news_view.php?wr_id=940456",
+    "https://www.seoul.co.kr/news/economy/2026/09/12/20260912500004?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "(LEAD)SKGroupchiefvisitsAIdatacenterunderconstructioninUlsan",
-    "'페디·네일도넘었다고?'…아빌라,데뷔10GERA1.41,21년만에'역대...",
     "'진짜페디-폰세넘었다'SSG아빌라,데뷔후선발10경기ERA역대2위...",
     "충남도,첨단기업27곳서1조5303억투자유치…1811명신규고용",
     "최태원SK그룹회장,제3회한미동맹대상수상…\"한미유대강화에기여...",
@@ -3122,10 +3124,12 @@
     "반도체ETF에도급이란게있습니다…HBM넘어613%오른낸드株",
     "[경력채용]동아제약,환인제약,코오롱제약,SK플라즈마,메디톡스",
     "재평가대상약제공개…AI시대라도'한땀한땀'신약개발",
-    "'AI중앙은행'엔비디아,과연그대출은건전할까?[PADO]"
+    "'AI중앙은행'엔비디아,과연그대출은건전할까?[PADO]",
+    "제약바이오노벨상첫영예'유한양행·알테오젠'",
+    "[서울데이터랩]미국증시,기술주강세에일제히상승마감…반도체지..."
    ],
    "initialized": true,
-   "last_run": "2026-09-12T06:25:19.602669+09:00"
+   "last_run": "2026-09-12T06:31:06.549913+09:00"
   }
  },
  "press_names": {
