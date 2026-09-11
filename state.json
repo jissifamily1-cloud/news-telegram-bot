@@ -210,12 +210,13 @@
     [
      "2026-09-12T08:15:22.673879+09:00",
      "걸어서 한신더휴 5분 10분 초등학교 의왕역"
+    ],
+    [
+     "2026-09-12T08:25:17.809955+09:00",
+     "기회 빠른 커진다 성장 생산국 수혜까지 도입"
     ]
    ],
    "seen_urls": [
-    "https://mhnse.com/news/articleView.html?idxno=1535652",
-    "https://mhnse.com/news/articleView.html?idxno=1535642",
-    "https://mhnse.com/news/articleView.html?idxno=1535646",
     "https://www.dailian.co.kr/news/view/1689055/?sc=Naver",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=275071",
     "https://www.news1.kr/society/court-prosecution/6286978",
@@ -1712,12 +1713,12 @@
     "https://www.yna.co.kr/view/AKR20260911129200008?input=1195m",
     "https://view.asiae.co.kr/article/2026091112450761035",
     "https://www.newspim.com/news/view/20260911000732",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061390"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061390",
+    "https://www.etoday.co.kr/news/view/2624710",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=171207",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4434554"
    ],
    "seen_titles": [
-    "[mhn포토]김재희,이악물고날린다",
-    "[mhn포토]김재희,어드레스정렬",
-    "[mhn포토]김재희,버디정조준",
     "[mhn포토]김재희,메이저우승기대해주세요",
     "[mhn포토]김재희,메이저우승정조준",
     "[mhn포토]김재희,컨디션좋은미소",
@@ -3214,10 +3215,13 @@
     "박스권증시에'파킹형'ETF로일주일간1.5조유입",
     "[칩톡]마이크론HBM월10만장승부수…'K-메모리양강'흔들까",
     "삼전닉스부터미국메모리·소부장까지…자산운용사,반도체ETF차별화",
-    "[분양현장]걸어서의왕역10분·초등학교5분…'의왕역한신더휴'"
+    "[분양현장]걸어서의왕역10분·초등학교5분…'의왕역한신더휴'",
+    "방향잃은증시…파킹형ETF로투자금이동",
+    "다음주증시...유가향방·美FOMC가최대변수?",
+    "\"AI도입빠른韓,생산국수혜까지…성장기회커진다\""
    ],
    "initialized": true,
-   "last_run": "2026-09-12T08:20:21.784838+09:00"
+   "last_run": "2026-09-12T08:25:17.809955+09:00"
   }
  },
  "press_names": {
