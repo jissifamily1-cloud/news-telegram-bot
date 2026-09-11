@@ -869,8 +869,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/photos/8100321",
-    "https://www.hitnews.co.kr/news/articleView.html?idxno=79052",
     "https://www.news1.kr/photos/8100319",
     "https://www.news1.kr/photos/8100320",
     "https://www.businesspost.co.kr/BP?command=article_view&num=446952",
@@ -2368,11 +2366,11 @@
     "http://www.beyondpost.co.kr/view.php?ud=2026091119233351164c878f8fa1_30",
     "http://www.00news.co.kr/news/articleView.html?idxno=106542",
     "https://www.dailymedi.com/news/news_view.php?wr_id=940426",
-    "https://www.gamechosun.co.kr/webzine/article/view.php?no=225200"
+    "https://www.gamechosun.co.kr/webzine/article/view.php?no=225200",
+    "https://www.mydaily.co.kr/page/view/2026091119511737904",
+    "https://www.edaily.co.kr/News/Read?newsId=05392326645579136&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "김기현의원“中반도체추격..반도체원팀으로해결해야”",
-    "\"임직원1만명이면AI라이선스수백억\"...SK하이닉스가찾은해법은'나...",
     "울산찾은최태원SK회장…“SK그룹의AX혁신이끌어달라”",
     "울산찾은최태원SK회장\"멤버사간시너지로AI시대선도하자\"",
     "AI데이터센터건설현장살피는최태원회장",
@@ -3870,10 +3868,12 @@
     "이상일용인시장“백암전통지키고지역발전속도”…백중문화제서...",
     "['클릭'증시]韓수출호조에도...국제유가·금리급등부담감",
     "한미약품·삼성에피스등5곳'일자리으뜸기업'",
-    "넥써쓰,KT·LG유플러스·서틱대상제3자배정유상증자로약38억원조..."
+    "넥써쓰,KT·LG유플러스·서틱대상제3자배정유상증자로약38억원조...",
+    "라포랩스,SK스토아인수재도전…“인수자금이번엔100%자기자본”",
+    "‘노태우비자금은닉’수사…검찰,노소영에참고인소환통보"
    ],
    "initialized": true,
-   "last_run": "2026-09-11T20:00:35.691431+09:00"
+   "last_run": "2026-09-11T20:05:22.374796+09:00"
   }
  },
  "press_names": {
