@@ -990,12 +990,17 @@
     [
      "2026-09-11T18:20:25.759305+09:00",
      "빠른 네트워크 망에서 도약 피지컬 단계 뜬다 위한"
+    ],
+    [
+     "2026-09-11T18:30:30.290356+09:00",
+     "주파수 세워야 원칙 다르나 산정 대역마다 따로 재할당"
+    ],
+    [
+     "2026-09-11T18:30:30.290356+09:00",
+     "SK하이닉스 BGF리테일 1위 097억"
     ]
    ],
    "seen_urls": [
-    "https://www.mydaily.co.kr/page/view/2026091018404169766",
-    "http://www.yonhapnewstv.co.kr/news/MYH20260910184122rPk",
-    "https://www.edaily.co.kr/News/Read?newsId=05106966645578808&mediaCodeNo=257",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075002",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2469218",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2469179",
@@ -2492,12 +2497,12 @@
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260911.99099003867",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4434514",
     "https://www.kbmaeil.com/article/20260911500227",
-    "https://www.itdaily.kr/news/articleView.html?idxno=241560"
+    "https://www.itdaily.kr/news/articleView.html?idxno=241560",
+    "https://www.yna.co.kr/view/AKR20260911150700030?input=1195m",
+    "https://www.ddaily.co.kr/page/view/2026091118143056478",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16190106"
    ],
    "seen_titles": [
-    "이상일시장,동티모르학생들과따뜻한만남…용인·한국문화이야기...",
-    "“제조업강국대한민국,AI칩·배터리·액추에이터3가지모두갖춰‘...",
-    "中'세계최초'그림자…LPDDR6수율은요?",
     "2026울산포럼,제조업AX실행전략찾는다",
     "[ICT종합]네이버치지직및넥써쓰소식외",
     "SK바이오팜오파칼림,美FDA부분임상보류…신규환자등록중단",
@@ -3994,10 +3999,13 @@
     "[차호중의재테크칼럼]기업분할에대한이해",
     "S&P,SK이노신용등급전망'안정적'으로상향",
     "“TK는왜안되나”…송언석·구자근,신공항·반도체‘지역차별’정...",
-    "\"빠른망에서한단계도약\"피지컬AI위한'AI네트워크'뜬다"
+    "\"빠른망에서한단계도약\"피지컬AI위한'AI네트워크'뜬다",
+    "라포랩스\"SK스토아최다액출자자변경승인재신청\"",
+    "주파수재할당,왜대역마다다르나…“산정원칙따로세워야”",
+    "[공매도브리핑]SK하이닉스6,097억1위…BGF리테일45.20%"
    ],
    "initialized": true,
-   "last_run": "2026-09-11T18:25:17.471899+09:00"
+   "last_run": "2026-09-11T18:30:30.290356+09:00"
   }
  },
  "press_names": {
