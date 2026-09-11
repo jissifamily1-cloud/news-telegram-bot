@@ -146,11 +146,13 @@
     [
      "2026-09-12T07:05:18.741531+09:00",
      "개최 제11회 백암 백중문화제 용인특례시"
+    ],
+    [
+     "2026-09-12T07:15:22.595460+09:00",
+     "유가 나스닥 떨어지자 5거래일 반등 만에"
     ]
    ],
    "seen_urls": [
-    "https://sports.hankooki.com/news/articleView.html?idxno=6939495",
-    "https://mhnse.com/news/articleView.html?idxno=1535626",
     "https://mhnse.com/news/articleView.html?idxno=1535616",
     "https://www.sportschosun.com/baseball/2026-09-10/202609100100075790004898",
     "https://mhnse.com/news/articleView.html?idxno=1535611",
@@ -1648,11 +1650,11 @@
     "https://www.dailian.co.kr/news/view/1689347/?sc=Naver",
     "https://www.etoday.co.kr/news/view/2624447",
     "https://www.ceoscoredaily.com/page/view/2026091016034356818",
-    "https://www.m-i.kr/news/articleView.html?idxno=1413069"
+    "https://www.m-i.kr/news/articleView.html?idxno=1413069",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=606114",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=6428"
    ],
    "seen_titles": [
-    "[mhn포토]김재희,버디성공후캐디와파이팅",
-    "[mhn포토]김재희,기분좋은버디마무리",
     "[mhn포토]김재희,버디미소가득",
     "‘SK크루즈소환실화?’전구단아빌라피하고싶어할만하네!SSG,...",
     "한화6연승도전,'폰세급'아빌라에게막혔다…SSG는2연승[문학에서...",
@@ -3150,10 +3152,12 @@
     "파리서'AI동맹'맺은이재용·울산간최태원·1조베팅정기선[재계...",
     "‘GPT-6아스트라’가쏘아올린AGI…K메모리,‘상시추론’타고슈퍼...",
     "中‘배터리굴기’,글로벌시장덮쳤다…K-배터리‘EV밖’돌파구모...",
-    "용인특례시,제11회백암백중문화제개최"
+    "용인특례시,제11회백암백중문화제개최",
+    "코스피7000선하회…삼성전자SK하이닉스등↓KB금융↑",
+    "[뉴욕증시마감시황]유가떨어지자5거래일만에반등…나스닥1%↑,반..."
    ],
    "initialized": true,
-   "last_run": "2026-09-12T07:10:23.156358+09:00"
+   "last_run": "2026-09-12T07:15:22.595460+09:00"
   }
  },
  "press_names": {
