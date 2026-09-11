@@ -174,11 +174,13 @@
     [
      "2026-09-12T07:50:25.017040+09:00",
      "들어간 SK하닉 에서 됐다 280층에 서동주 근황"
+    ],
+    [
+     "2026-09-12T08:00:35.969545+09:00",
+     "SK스퀘어 대한항공 SK이노베이션 현대모비스에"
     ]
    ],
    "seen_urls": [
-    "http://www.datanews.co.kr/news/article.html?no=146432",
-    "https://www.yna.co.kr/view/PYH20260910213600003?input=1196m",
     "https://www.yna.co.kr/view/PYH20260910213500003?input=1196m",
     "https://www.seoultimes.news/news/article.html?no=2000099751",
     "https://www.newsis.com/view/NISX20260910_0003785013",
@@ -1676,11 +1678,11 @@
     "https://www.abcn.kr/news/articleView.html?idxno=91714",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486350",
     "https://view.asiae.co.kr/article/2026091207462145206",
-    "https://www.hankyung.com/article/2026091200327"
+    "https://www.hankyung.com/article/2026091200327",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16190637",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486353"
    ],
    "seen_titles": [
-    "스마일게이트권혁빈전처\"법원판단감사,재산분할비율아쉽다\"",
-    "한남대,졸업기업-선정기업연결하는'창업기업알럼나이'개최",
     "동티모르학생들에반도체수업…이상일용인시장이전한첨단도시의큰...",
     "\"최태원,동거인에1천억썼다\"노소영변호사불기소",
     "최태원SK그룹회장,AI데이터센터울산현장챙겨",
@@ -3178,10 +3180,12 @@
     "[ABC뉴스말말말]\"최태원회장이동거인에게쓴돈1000억넘을것\"",
     "[주간거래소기관]삼성전자SK하이닉스한미반도체두산에너빌리티'...",
     "[에너지오디세이]②46년석유비축패러다임전환…'정적비축'서'동적...",
-    "\"-50%에서-27%됐다\"…SK하닉280층에들어간서동주근황"
+    "\"-50%에서-27%됐다\"…SK하닉280층에들어간서동주근황",
+    "미국증시,유가3%가까이반락에안도…금리뛰어도나스닥0.96%↑",
+    "[주간거래소외국인]SK스퀘어대한항공SK이노베이션현대모비스에꽂..."
    ],
    "initialized": true,
-   "last_run": "2026-09-12T07:55:18.190340+09:00"
+   "last_run": "2026-09-12T08:00:35.969545+09:00"
   }
  },
  "press_names": {
