@@ -702,12 +702,17 @@
     [
      "2026-09-11T20:50:23.438219+09:00",
      "비즈니스포스트 주요기사 아침의"
+    ],
+    [
+     "2026-09-11T21:00:34.371021+09:00",
+     "요구 월급 68개월치 달라 빗발치자 성과급 삼전닉스처럼"
+    ],
+    [
+     "2026-09-11T21:00:34.371021+09:00",
+     "주식 RWA 무기한선물 8월 비중 1월 확대"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=276675",
-    "https://www.ytn.co.kr/_ln/0102_202609101851406625",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7183580",
     "https://www.news1.kr/industry/general-industry/6286928",
     "https://www.segye.com/newsView/20260910515833?OutUrl=naver",
     "https://www.namdonews.com/news/articleView.html?idxno=923050",
@@ -2204,12 +2209,12 @@
     "https://www.ubc.co.kr/news/28023/",
     "https://www.gukjenews.com/news/articleView.html?idxno=3692612",
     "https://www.dailian.co.kr/news/view/1689532/?sc=Naver",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=447063"
+    "https://www.businesspost.co.kr/BP?command=article_view&num=447063",
+    "http://www.4th.kr/news/articleView.html?idxno=2117920",
+    "https://www.sedaily.com/article/20090050",
+    "https://www.tokenpost.kr/news/cryptocurrency/406479"
    ],
    "seen_titles": [
-    "\"10년걸려의사되느니,4년뒤반도체대기업가겠다\"",
-    "한의대포기하고'반'수",
-    "SKY수시모집의대주춤,반도체학과는약진",
     "화학산업협회,울산·여수·서산서'수달탐정'키웠다",
     "TvingFacesBacklashOverInadequateDataBreachCompensation",
     "은행권정기예금금리줄인상...증시자금은행으로?",
@@ -3706,10 +3711,13 @@
     "울산,'피지컬AI'표준화선도한다",
     "\"규제완화냐,골목상권보호냐\"...캐피탈-렌터카업계'본업비율'격돌",
     "덜먹고더싸게…딥시크'AI소식좌'에삼전·하닉화들짝",
-    "[9월12일자]비즈니스포스트아침의주요기사"
+    "[9월12일자]비즈니스포스트아침의주요기사",
+    "검찰,노소영소환일정조율…'선경300억'노태우비자금실체캔다",
+    "“삼전닉스처럼성과급달라”요구빗발치자…최대‘월급68개월치’...",
+    "RWA무기한선물주식비중,1월9%서8월62.3%로확대"
    ],
    "initialized": true,
-   "last_run": "2026-09-11T20:55:20.749831+09:00"
+   "last_run": "2026-09-11T21:00:34.371021+09:00"
   }
  },
  "press_names": {
