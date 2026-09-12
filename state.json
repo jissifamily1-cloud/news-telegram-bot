@@ -290,15 +290,17 @@
     [
      "2026-09-13T08:15:24.644563+09:00",
      "할인 3주 추석 쇼핑 통신혜택 2가지 나들이 9월 LGU"
+    ],
+    [
+     "2026-09-13T08:25:18.653518+09:00",
+     "집은 이준석이 아니었으면 종목 국회의원 몰빵"
+    ],
+    [
+     "2026-09-13T08:25:18.653518+09:00",
+     "반도체 비법 공장 운영 삼성전자 전수 공공나노팹"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026091109091685895",
-    "https://www.g-enews.com/view.php?ud=20260911090029641620ae620e86_1",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4434393",
-    "https://www.dt.co.kr/article/12083392",
-    "http://www.press9.kr/news/articleView.html?idxno=82573",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699879",
     "http://www.inews24.com/view/2004510",
     "http://www.press9.kr/news/articleView.html?idxno=82584",
     "https://www.apsk.co.kr/news/articleView.html?idxno=540421",
@@ -1792,15 +1794,15 @@
     "https://www.sidae.com/article/2026091115365947210",
     "https://www.busan.com/view/busan/view.php?code=2026091017310150501",
     "https://www.yna.co.kr/view/AKR20260912034700003?input=1195m",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061219"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061219",
+    "https://biz.heraldcorp.com/article/10871434",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=444230",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=864645",
+    "https://www.yna.co.kr/view/AKR20260912036600003?input=1195m",
+    "https://www.hankyung.com/article/2026091307217",
+    "https://www.thelec.kr/news/articleView.html?idxno=62202"
    ],
    "seen_titles": [
-    "60만원찍고30만원된LS...이제야목표주가도낮아졌다",
-    "'KIWOOM삼성전자&SK하이닉스채권혼합50'ETF,9월분배금주당151원",
-    "서산투자유치신바람...SK온등5개사와2,974억원협약",
-    "바이오헤이븐,뇌전증치료제FDA'부분임상중단'…주가14%급락",
-    "반도체호재타고경기남부집값들썩…비규제지역수원권선구관심...",
-    "최태원SK회장,울산서AX현장경영…AI데이터센터·제조혁신점검",
     "코스피6800선후퇴...외인·기관매도에장초반2.58%↓",
     "[특징주]삼성전자3%·SK하이닉스4%↓⋯유가·美금리쇼크",
     "SK바이오팜\"오파칼림,1200명이상투여...비임상독성관련이상사례...",
@@ -3294,10 +3296,16 @@
     "공장부터일상까지AI적용,울산포럼서해법찾다",
     "피지컬AI춘추전국시대…전세계‘왕좌전쟁’[비즈앤피플]",
     "최태원\"AI,비즈니스모델로이익내는지속가능구조로가야\"",
-    "[와이파이]9월3주,추석쇼핑·나들이할인…LGU+외2가지통신혜택"
+    "[와이파이]9월3주,추석쇼핑·나들이할인…LGU+외2가지통신혜택",
+    "환율1340원대급락…삼성전자·SK하이닉스이익전망도꺾였다[투자36...",
+    "최태원SK회장\"미래울산은'AI시티'…제조AI·시민행복·예술아울러...",
+    "최태원\"울산,제조AI·시민서비스·예술결합도시로\"",
+    "최태원\"울산,제조AX·시민행복·예술아우른AI도시로\"",
+    "\"국회의원아니었으면몰빵\"…이준석이콕집은'이종목'",
+    "삼성전자,반도체공장운영비법'공공나노팹'에전수"
    ],
    "initialized": true,
-   "last_run": "2026-09-13T08:20:21.634151+09:00"
+   "last_run": "2026-09-13T08:25:18.653518+09:00"
   }
  },
  "press_names": {
