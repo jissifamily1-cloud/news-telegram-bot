@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-12T21:25:20.079920+09:00",
-     "반도체 육성 속도 관건 여부 기업 인재 참여"
-    ],
-    [
      "2026-09-12T21:40:24.283075+09:00",
      "출발 에너지를 먹는다 필수 김재희"
     ],
@@ -134,10 +130,13 @@
     [
      "2026-09-13T03:15:22.975857+09:00",
      "할인 핸드폰비 정체 공약이라는 문자 대통령 오늘부터"
+    ],
+    [
+     "2026-09-13T03:30:30.589654+09:00",
+     "만의 샀나 최고 22년 금리 다시 덮쳤지만 기술주를 월가는"
     ]
    ],
    "seen_urls": [
-    "https://www.the-today.com/news/articleView.html?idxno=89932",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6851112_37012.html",
     "https://www.mhj21.com/news/articleView.html?idxno=253925",
     "https://biz.sbs.co.kr/article_hub/20000334027?division=NAVER",
@@ -1636,10 +1635,10 @@
     "https://www.tokenpost.kr/news/market/407014",
     "https://it.chosun.com/news/articleView.html?idxno=2023092170021",
     "https://www.g-enews.com/view.php?ud=202609121702484164fbbec65dfb_1",
-    "https://www.munhwa.com/article/11616522"
+    "https://www.munhwa.com/article/11616522",
+    "https://www.g-enews.com/view.php?ud=20260912170545407fbbec65dfb_1"
    ],
    "seen_titles": [
-    "中SMIC,파운드리3위로…삼성턱밑추격",
     "[이슈]\"최대1.1조계약2주만에FDA제동\"…SK바이오팜,오파칼림임...",
     "뉴욕증시,유가·미국채금리급등에하락마감",
     "SK스퀘어,AI로투자·사업모델뜯어고친다",
@@ -3138,10 +3137,11 @@
     "S&P5008250전망…2027년6500조정시나리오",
     "SameSemiconductorETFs,Yeta27Percentage-PointReturnGap—Why?",
     "AI증시버블지표5개경고등…연말8250찍고6500후퇴전망",
-    "“오늘부터핸드폰비25%할인!”…대통령공약이라는문자정체"
+    "“오늘부터핸드폰비25%할인!”…대통령공약이라는문자정체",
+    "22년만의최고금리덮쳤지만…월가는왜다시기술주를샀나"
    ],
    "initialized": true,
-   "last_run": "2026-09-13T03:25:16.355942+09:00"
+   "last_run": "2026-09-13T03:30:30.589654+09:00"
   }
  },
  "press_names": {
