@@ -245,11 +245,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.kukinews.com/article/view/kuk202609100203",
-    "https://byline.network/?p=9004111222619399",
-    "https://www.yeongnam.com/web/view.php?key=20260910022357950",
-    "https://www.dailypharm.com/user/news/342372?REFERER=NP",
-    "https://www.yakup.com/news/index.html?cat=12&nid=332329",
     "https://www.sedaily.com/article/20089521",
     "https://zdnet.co.kr/view/?no=20260910090943",
     "https://www.dailian.co.kr/news/view/1689036/?sc=Naver",
@@ -1744,14 +1739,14 @@
     "https://www.newsis.com/view/NISX20260911_0003785699",
     "https://view.asiae.co.kr/article/2026091215220004173",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=598919",
-    "https://www.mk.co.kr/article/12151063"
+    "https://www.mk.co.kr/article/12151063",
+    "https://mhnse.com/news/articleView.html?idxno=1539963",
+    "https://mhnse.com/news/articleView.html?idxno=1539961",
+    "https://mhnse.com/news/articleView.html?idxno=1539959",
+    "https://mhnse.com/news/articleView.html?idxno=1539957",
+    "https://biz.sbs.co.kr/article_hub/20000334272?division=NAVER"
    ],
    "seen_titles": [
-    "수입독감백신출하승인지연...민간접종시장품귀우려",
-    "EV배터리사용량30%‘뚝’…삼성SDI,美생산라인ESS전환‘분수령...",
-    "네이버클라우드가그리는소버린AI,다음무대는‘사이버보안’",
-    "[자유성]지경학위기",
-    "기술쇼핑에서사업화동행으로…제약오픈이노베이션진화",
     "상장제약·바이오사2Q평균순이익코스피271억원,코스닥50억원달...",
     "항공사도반도체수혜…대한항공,항공화물장기계약3배늘었다[biz-플...",
     "[인터뷰]2000억투입한네이버,'보파모'로사업보국실현…\"AI보안주...",
@@ -3246,10 +3241,15 @@
     "대기업하반기채용본격화…\"AI활용한문제해결능력중시\"[AI로달라...",
     "이상일시장“시민목소리가용인발전의힘”…풍덕천2동·유림1동소...",
     "제주SK,부천원정선발라인업발표...'유인수선발복귀'",
-    "또하나의연고지더비…‘첫승’노리는부천,‘후반기1패’제주와..."
+    "또하나의연고지더비…‘첫승’노리는부천,‘후반기1패’제주와...",
+    "[mhn포토]김재희,그린으로이동",
+    "[mhn포토]김재희,정타날려보낸다",
+    "[mhn포토]김재희,핀하이로날린다",
+    "[mhn포토]김재희,들어가라",
+    "K바이오,해외신약'선점경쟁'승부수…1조원베팅도"
    ],
    "initialized": true,
-   "last_run": "2026-09-12T15:35:17.290133+09:00"
+   "last_run": "2026-09-12T15:40:29.177856+09:00"
   }
  },
  "press_names": {
