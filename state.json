@@ -345,8 +345,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/policy/2026/09/11/2026091020051710247",
-    "https://www.mt.co.kr/opinion/2026/09/11/2026091015301930879",
     "https://www.fnnews.com/news/202609101957372484",
     "https://www.newsis.com/view/NISX20260910_0003784856",
     "https://www.donga.com/news/People/article/all/20260911/134646978/2",
@@ -1844,11 +1842,11 @@
     "https://www.asiaa.co.kr/news/articleView.html?idxno=262232",
     "https://www.koreaittimes.com/news/articleView.html?idxno=157058",
     "https://www.topstarnews.net/news/articleView.html?idxno=16190785",
-    "https://www.tvreport.co.kr/entertainment/article/1075186/"
+    "https://www.tvreport.co.kr/entertainment/article/1075186/",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1724004",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16190799"
    ],
    "seen_titles": [
-    "김정관,9·11맞춰또뉴욕으로…다시러트닉마음녹일수있을까",
-    "최상위권학생들\"의대대신삼전닉스갈래요\"",
     "[사설]부동산거래냉각,세금·규제후유증인가",
     "\"'꿈의9000피'상승기여도…진짜'삼전·닉스'였다\"",
     "오피스줄이는건설사…건설경기침체에비용절감",
@@ -3346,10 +3344,12 @@
     "SSG닷컴,가을패션·뷰티할인전...'F/W슈퍼위크'개최",
     "[인사이트]엔비디아는왜경쟁AI칩을자기생태계로끌어들이나",
     "SK이노베이션주가최근5거래일널뛰기장세",
-    "'미코탈락'전수완,더예뻐졌네…샤넬백들고5성급호텔서초호화생..."
+    "'미코탈락'전수완,더예뻐졌네…샤넬백들고5성급호텔서초호화생...",
+    "박스권에갈곳잃은돈…파킹형ETF에일주일새1.5조몰렸다",
+    "최근5거래일SK증권주가하락전환변동성커져"
    ],
    "initialized": true,
-   "last_run": "2026-09-12T12:50:22.783608+09:00"
+   "last_run": "2026-09-12T12:55:18.469906+09:00"
   }
  },
  "press_names": {
