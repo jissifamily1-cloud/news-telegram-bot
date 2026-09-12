@@ -158,10 +158,13 @@
     [
      "2026-09-12T20:25:18.060908+09:00",
      "파킹형 박스권 증시에 5조 몰려 잃은 ETF에"
+    ],
+    [
+     "2026-09-12T20:50:23.420431+09:00",
+     "월요일 전엔 삼성전자 절대 팔지 마라 40만원 터질 터지나"
     ]
    ],
    "seen_urls": [
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609091015181600106053",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609081007224040103614",
     "http://www.segyebiz.com/newsView/20260910516732?OutUrl=naver",
     "https://news.dealsitetv.com/articles/175714",
@@ -1660,10 +1663,10 @@
     "https://www.mk.co.kr/article/12151131",
     "https://www.besteleven.com/news/articleView.html?idxno=312149",
     "https://www.bzeronews.com/news/articleView.html?idxno=822583",
-    "http://www.inews24.com/view/2004934"
+    "http://www.inews24.com/view/2004934",
+    "https://biz.heraldcorp.com/article/10871312"
    ],
    "seen_titles": [
-    "“반도체투자정점은2028년으로전망…하반기는SK하이닉스에기대”",
     "[더벨][SKTAIDC키맨]'재무통'박종석CFO,사업계열사영향력확대일...",
     "[더벨][SKTAIDC키맨]'기술·투자섭렵'정석근AICIC장,조타수임무...",
     "신한·하나카드'AI결제'구축나서…결제·보안인프라확대",
@@ -3162,10 +3165,11 @@
     "부천이영민감독,‘상대도발성세리머니’에분노“손하트?굳이그...",
     "[B11현장]10골넣어도겸손한갈레고,\"부천에서기회를받았고,동료...",
     "공주피크타임페스티벌…청년'취업·문화한자리'",
-    "박스권증시에갈곳잃은돈⋯파킹형ETF에1.5조몰려"
+    "박스권증시에갈곳잃은돈⋯파킹형ETF에1.5조몰려",
+    "“삼성전자,40만원전엔절대팔지마라”월요일터질게터지나‘들..."
    ],
    "initialized": true,
-   "last_run": "2026-09-12T20:45:20.578536+09:00"
+   "last_run": "2026-09-12T20:50:23.420431+09:00"
   }
  },
  "press_names": {
