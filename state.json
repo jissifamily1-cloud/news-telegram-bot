@@ -342,15 +342,25 @@
     [
      "2026-09-12T10:05:19.131884+09:00",
      "19조 증시로 MMF서 대기자금 이동하는 빠졌다"
+    ],
+    [
+     "2026-09-12T10:15:21.106445+09:00",
+     "성장 CEO 아세안 시대 논의 정재헌 참석 GSMA 전략 M360 SKT"
+    ],
+    [
+     "2026-09-12T10:15:21.106445+09:00",
+     "아꼈다 6억톤 SK하이닉스 지난해 하루 2030년까지 감축 17만톤"
+    ],
+    [
+     "2026-09-12T10:15:21.106445+09:00",
+     "소상공인 디지털 지원 CCTV 솔루션 ADT캡스 키오스크 500곳에"
+    ],
+    [
+     "2026-09-12T10:15:21.106445+09:00",
+     "가격 증산 경제일타 감산이 D램 박사 이주완 하락할 올려"
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/tech/405918",
-    "https://www.joongang.co.kr/article/25460879",
-    "https://www.chosun.com/opinion/journalist_view/2026/09/10/NIYI7KGFBBAIBMRNTSYA345V5M/",
-    "https://www.joongang.co.kr/article/25460906",
-    "https://www.joongang.co.kr/article/25460920",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000011044&cp=nv",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000011045&cp=nv",
     "http://www.gjdream.com/news/articleView.html?idxno=672578",
     "http://www.gjdream.com/news/articleView.html?idxno=672577",
@@ -1844,15 +1854,15 @@
     "https://www.sedaily.com/article/20090098",
     "https://www.sedaily.com/article/20090096",
     "https://www.sedaily.com/article/20090102",
-    "https://www.sedaily.com/article/20090100"
+    "https://www.sedaily.com/article/20090100",
+    "http://www.newsprime.co.kr/news/article.html?no=747477",
+    "http://www.kjdaily.com/article.php?aid=1789175408686642227",
+    "https://www.thepublic.kr/news/articleView.html?idxno=318376",
+    "https://www.thepublic.kr/news/articleView.html?idxno=318391",
+    "https://www.thepublic.kr/news/articleView.html?idxno=318388",
+    "https://news.mtn.co.kr/news-detail/2026091015195482115"
    ],
    "seen_titles": [
-    "서울시의회이민석위원장,'제로서울기업실천단2기출범식'참석...참...",
-    "마이크론DRAM24%,SK하이닉스와1%p격차",
-    "“최태원,동거인에1000억원넘게써”…노소영측변호사불기소",
-    "[기자의시각]AI면접에두번우는취준생",
-    "‘삼전닉스’자사주가방파제,7000선지켰다",
-    "AI·로스쿨다유리…‘경쟁률113대1’SKY철학과떴다",
     "“10개국폐기물200종뒤져…재활용최적폐이불찾아냈죠”",
     "2022년국내최초로화학적재활용상용화",
     "'26경기무승'광주FC컨트롤타워가없다",
@@ -3346,10 +3356,16 @@
     "“3년물4%·유가100달러·환율1345원…‘3高트리플쇼크’현실화”",
     "“반도체계약학과28대1”5992명몰린취업보장전쟁",
     "엔화강세에日기업비상…도요타,환율1엔오르면영업익4353억감소",
-    "MMF서19조빠졌다…증시로이동하는‘대기자금’"
+    "MMF서19조빠졌다…증시로이동하는‘대기자금’",
+    "[해외시황]뉴욕증시,유가하락·CPI안도에5거래일만에'반등'…나스...",
+    "[이번주증시]삼성전자·SK하이닉스58조거래",
+    "정재헌SKTCEO,'GSMAM360아세안'참석…AI시대성장전략논의",
+    "SK하이닉스,지난해하루물17만톤아꼈다…\"2030년까지6억톤감축\"",
+    "ADT캡스,소상공인500곳에AICCTV·키오스크등디지털솔루션지원",
+    "이주완박사\"감산이D램가격올려…증산땐가격하락할것\"[경제일타..."
    ],
    "initialized": true,
-   "last_run": "2026-09-12T10:10:22.877726+09:00"
+   "last_run": "2026-09-12T10:15:21.106445+09:00"
   }
  },
  "press_names": {
