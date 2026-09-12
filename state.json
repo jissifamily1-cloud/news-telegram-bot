@@ -398,10 +398,13 @@
     [
      "2026-09-12T11:50:23.269228+09:00",
      "났는데 있었다 삼전직스 이유 피눈물 롤러코스피 레버리지에"
+    ],
+    [
+     "2026-09-12T12:00:41.764152+09:00",
+     "9월 108만원대 하락세 주가 2주차 마감 SK스퀘어"
     ]
    ],
    "seen_urls": [
-    "https://www.geconomy.co.kr/news/article.html?no=323601",
     "http://www.newstomato.com/ReadNews.aspx?no=1313352&inflow=N",
     "https://www.sportsseoul.com/news/read/1634368",
     "https://www.mt.co.kr/stock/2026/09/11/2026091019560087617",
@@ -1900,10 +1903,10 @@
     "https://www.sedaily.com/article/20090108",
     "https://www.cbci.co.kr/news/articleView.html?idxno=606140",
     "https://www.ddaily.co.kr/page/view/2026091209201364474",
-    "https://magazine.hankyung.com/business/article/202609120205b"
+    "https://magazine.hankyung.com/business/article/202609120205b",
+    "https://www.joongangenews.com/news/articleView.html?idxno=547725"
    ],
    "seen_titles": [
-    "비임상독성이슈...SK바이오팜\"FDA,오파칼림'부분임상보류'\"공개",
     "외국인2.5조던져도버틴코스피…‘7000선’지킨힘은",
     "(단독)청와대후임정책실장에'하태경'급부상",
     "8위인데?페디-폰세-네일다내뒤로집합!아빌라가아빌라했네,한화...",
@@ -3402,10 +3405,11 @@
     "‘누구’때문에0.25%P안올리면이상해진9월[트럼프스톡커]",
     "딥시크,초저가신모델'V4.1플래시'공개…HBM수요둔화우려에반도...",
     "반도체타고박스권상단향하는코스피…‘호르무즈파병’암초만났...",
-    "삼전직스레버리지에피눈물났는데...‘롤러코스피’이유있었다"
+    "삼전직스레버리지에피눈물났는데...‘롤러코스피’이유있었다",
+    "9월2주차SK스퀘어주가108만원대마감하락세전환"
    ],
    "initialized": true,
-   "last_run": "2026-09-12T11:55:17.794604+09:00"
+   "last_run": "2026-09-12T12:00:41.764152+09:00"
   }
  },
  "press_names": {
