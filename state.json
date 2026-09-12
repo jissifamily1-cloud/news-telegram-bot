@@ -282,11 +282,17 @@
     [
      "2026-09-12T09:10:20.831036+09:00",
      "패권 웨이퍼부터 폭풍에 절벽 HBM까지 굳힌다 반도체 공급"
+    ],
+    [
+     "2026-09-12T09:30:29.982700+09:00",
+     "알파벳 SOXL 1위 14억달러 거래 순매수"
+    ],
+    [
+     "2026-09-12T09:30:29.982700+09:00",
+     "추석 기회 지금이 쏟아진다 화장품까지 할인 장보기 갈비"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISI20260910_0021432790",
-    "https://www.seoul.co.kr/news/economy/industry/2026/09/10/20260910500326?wlog_tag3=naver",
     "https://www.newsis.com/view/NISI20260910_0021432791",
     "https://www.newsis.com/view/NISI20260910_0021432792",
     "http://www.newstown.co.kr/news/articleView.html?idxno=715452",
@@ -1784,11 +1790,11 @@
     "https://www.mt.co.kr/industry/2026/09/12/2026091015591745277",
     "https://www.boannews.com/news/articleView.html?idxno=145781",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7183731",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=275279"
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=275279",
+    "http://www.kjdaily.com/article.php?aid=1789172825686644227",
+    "https://www.edaily.co.kr/News/Read?newsId=01840086645579464&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "이상일용인특례시장,동티모르학생단에용인반도체비전소개",
-    "[현장]고동진의원,국산NPU수출길해법찾다...\"실증·레퍼런스가관...",
     "[단독]레버리지ETF,'1월비공개'당시사실상반대의견도...김용범강...",
     "최태원SK회장,울산서AI현장경영",
     "최태원,울산AI데이터센터·울산CLX현장방문…“AI시대선도”",
@@ -3286,10 +3292,12 @@
     "아스트라성능뛰자메모리중요성도↑…삼전닉스에더커지는기회",
     "[단독]현대차협력사도해킹…韓기업공급망위협공포확산",
     "['픽'ETF]흔들리는안전자산…美'단기채ETF'부상",
-    "웨이퍼부터HBM까지'공급절벽'…AI폭풍에韓반도체패권굳힌다"
+    "웨이퍼부터HBM까지'공급절벽'…AI폭풍에韓반도체패권굳힌다",
+    "[이번주해외주식]SOXL14억달러거래…알파벳순매수1위",
+    "\"추석장보기지금이기회\"갈비·화장품까지…할인쏟아진다"
    ],
    "initialized": true,
-   "last_run": "2026-09-12T09:25:17.466513+09:00"
+   "last_run": "2026-09-12T09:30:29.982700+09:00"
   }
  },
  "press_names": {
