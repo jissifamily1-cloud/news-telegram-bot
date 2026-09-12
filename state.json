@@ -158,15 +158,17 @@
     [
      "2026-09-12T18:40:23.576890+09:00",
      "김진호 원정서 대구 데뷔골 용인"
+    ],
+    [
+     "2026-09-12T18:55:18.090254+09:00",
+     "나노신소재 CNT가 웃었다 부진에도 전기차 뜨거워진다 2027년"
+    ],
+    [
+     "2026-09-12T18:55:18.090254+09:00",
+     "당국 55개 SK온 우물 유해 이반차 배터리 용매 전수조사서 헝가리"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260910128000017?input=1195m",
-    "https://www.womennews.co.kr/news/articleView.html?idxno=282082",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16189430",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1723847",
-    "https://www.viva100.com/article/20260910501040",
-    "https://www.viva100.com/article/20260910501039",
     "https://news.tvchosun.com/site/data/html_dir/2026/09/11/2026091190023.html",
     "https://www.seoulfn.com/news/articleView.html?idxno=637733",
     "https://m.sports.naver.com/basketball/article/065/0000301474",
@@ -1660,15 +1662,15 @@
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=598924",
     "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000550103",
     "https://www.mk.co.kr/article/12151111",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=864614"
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=864614",
+    "http://www.osen.co.kr/article/G1112874485",
+    "https://www.sportschosun.com/football/2026-09-12/202609120100083870005473",
+    "https://www.news1.kr/sports/soccer/6288484",
+    "https://www.kukinews.com/article/view/kuk202609120025",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486426",
+    "https://www.g-enews.com/view.php?ud=2026091218393429150c8c1c064d_1"
    ],
    "seen_titles": [
-    "같은반도체ETF인데…수익률은27%p차이왜?",
-    "[AI프리즘]국가전략기술투자45.9조인데…AIDC심의통과'0건'",
-    "뉴욕증시,유가·미국채금리급등에나흘째하락...나스닥0.6%↓",
-    "미국증시,PPI·유가·국채금리충격에하락…엔비디아·반도체주약세",
-    "美반도체주급락에코스피도조정압력…외국인향방안갯속",
-    "“기존보안체계론못막아”⋯무너지는보안경계선",
     "양날의검‘에이전틱AI’⋯‘업무혁신파트너’냐‘보안재앙’이...",
     "\"최태원,동거인에1000억썼다\"고소당한노소영측변호사…검찰,불기...",
     "[뉴욕증시]유가·금리발작'속수무책',반도체도꺾여···오라클시간...",
@@ -3162,10 +3164,16 @@
     "'이탈로1골1도움'제주SK,부천원정서2-2무승부...4G연속무패행진",
     "서동주“물타서–27%,‘반려닉스’”",
     "‘1:0→1:1→1:2→2:2’공방혈투연고지더비…‘갈레고맹활약’...",
-    "'김진호데뷔골'용인,대구원정서1-3패"
+    "'김진호데뷔골'용인,대구원정서1-3패",
+    "'아이아스도발세리머니?'2-2무승부에제주코스타감독,\"늘해왔던...",
+    "'11~12호멀티골'클리말라추가시간6분'극장골'폭발!단독선두서울...",
+    "'클리말라멀티골'서울,전북에2-1극적승리…선두질주",
+    "‘장군멍군’…연고지이전‘악연’부천·제주사이좋게2-2‘난타전...",
+    "전기차부진에도CNT가웃었다…나노신소재2027년더뜨거워진다",
+    "헝가리당국,\"이반차55개우물전수조사서'SK온배터리유해용매'미..."
    ],
    "initialized": true,
-   "last_run": "2026-09-12T18:50:22.771321+09:00"
+   "last_run": "2026-09-12T18:55:18.090254+09:00"
   }
  },
  "press_names": {
