@@ -182,12 +182,17 @@
     [
      "2026-09-12T22:30:30.773318+09:00",
      "거리 한복판에서 분위기 돌아올 포착된 준비 여행자 차연호로 이민기"
+    ],
+    [
+     "2026-09-12T22:40:21.565078+09:00",
+     "안보 모디 정상회담 개막 시진핑 BRICS"
+    ],
+    [
+     "2026-09-12T22:40:21.565078+09:00",
+     "상자 판도라의 아스트라 열어젖힌"
     ]
    ],
    "seen_urls": [
-    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005920375",
-    "https://www.nspna.com/news/?newsid=827698",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=864066",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699673",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258605",
     "https://biz.heraldcorp.com/article/10869847",
@@ -1684,12 +1689,12 @@
     "http://www.breaknews.com/1236166",
     "http://www.breaknews.com/1236165",
     "http://www.stoo.com/article.php?aid=108844864108",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16191018"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16191018",
+    "https://m.sports.naver.com/basketball/article/065/0000301526",
+    "http://kor.theasian.asia/archives/415335",
+    "https://www.eroun.net/news/articleView.html?idxno=89948"
    ],
    "seen_titles": [
-    "유가·美국채금리급등에일제하락…반도체주급락[뉴욕증시브리핑...",
-    "증시오늘'핫이슈'\"40%넘는'역김치프리미엄'하이닉스ADR,이유는?...",
-    "[경쟁력보니]Sh수협은행,연임벽넘을까…신학기성적표‘재조명’",
     "美ESS보안장벽,배터리업계새시험대로",
     "美중간선거임박…K배터리'AMPC방어선'유지갈림길",
     "[넥스트-샷]기름값이불붙이고PPI가부채질···다시매가된연준",
@@ -3186,10 +3191,13 @@
     "트럼프‘조기종전’공언에도…미·이란전장기화에‘코스피7천피’...",
     "‘통계의착시’에가려진반도체위기…삼성·SK,일본없으면멈춰!",
     "'클리말라멀티골'서울,전북에2-1극장승…울산이동경은'韓선수최...",
-    "이민기,거리한복판에서포착된여행자분위기…차연호로돌아올준비"
+    "이민기,거리한복판에서포착된여행자분위기…차연호로돌아올준비",
+    "[코리아투어]이수체인저스·경북농구협회·블랙라벨스포츠·라이트무브...",
+    "[동북아정세브리핑]시진핑-모디정상회담·BRICS개막…中AI안보·H...",
+    "'아스트라'가열어젖힌판도라의상자"
    ],
    "initialized": true,
-   "last_run": "2026-09-12T22:35:16.650574+09:00"
+   "last_run": "2026-09-12T22:40:21.565078+09:00"
   }
  },
  "press_names": {
