@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-12T17:00:34.926159+09:00",
-     "주식에 몰빵 제일 나라면 한화 재벌 똑똑 이준석 동관이형"
-    ],
-    [
      "2026-09-12T17:15:22.698883+09:00",
      "코스피 애프터마켓 넘나드는 개장 다음주 7000선"
     ],
@@ -198,11 +194,13 @@
     [
      "2026-09-12T22:50:23.284495+09:00",
      "전통 다시 백중문화제 백암 개최 사흘간 용인 백암의 제11회 울린다"
+    ],
+    [
+     "2026-09-12T23:00:36.585543+09:00",
+     "출연료 선우용여 고백 돈타령 자충수 되나 제발 그만 전원주 갈등"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10869847",
-    "https://www.fntimes.com/html/view.php?ud=202609110715428142141825007d_18",
     "https://www.hankookilbo.com/news/article/A2026091107400002008?did=NA",
     "https://www.gokorea.kr/news/articleView.html?idxno=878013",
     "https://www.dailypharm.com/user/news/342384?REFERER=NP",
@@ -1700,11 +1698,11 @@
     "http://kor.theasian.asia/archives/415335",
     "https://www.eroun.net/news/articleView.html?idxno=89948",
     "https://www.etoday.co.kr/news/view/2624716",
-    "https://www.tournews21.com/news/articleView.html?idxno=143359"
+    "https://www.tournews21.com/news/articleView.html?idxno=143359",
+    "https://sports.khan.co.kr/article/202609122250003?pt=nv",
+    "https://www.newsen.com/news_view.php?uid=202609122209592510"
    ],
    "seen_titles": [
-    "[넥스트-샷]기름값이불붙이고PPI가부채질···다시매가된연준",
-    "최태원SK회장“멤버사간시너지로AI선도하자”",
     "[KFT모닝브리프]2026.09.11—오늘꼭알아야할국내외경제·시장...",
     "국제유가··美국채금리급등...뉴욕증시나흘째하락",
     "SK그룹회장법적분쟁,노소영관장변호사'명예훼손불기소'결정의...",
@@ -3202,10 +3200,12 @@
     "[동북아정세브리핑]시진핑-모디정상회담·BRICS개막…中AI안보·H...",
     "'아스트라'가열어젖힌판도라의상자",
     "취업난에‘대기업보장’반도체계약학과몰렸다…지원자역대최대",
-    "용인백암의전통,사흘간다시울린다…제11회백암백중문화제개최"
+    "용인백암의전통,사흘간다시울린다…제11회백암백중문화제개최",
+    "‘클리말라멀티골’서울,전북잡고우승까지‘승점13’남겨…울산...",
+    "“제발돈타령그만”전원주,출연료갈등고백자충수되나‥선우용여..."
    ],
    "initialized": true,
-   "last_run": "2026-09-12T22:55:59.023211+09:00"
+   "last_run": "2026-09-12T23:00:36.585543+09:00"
   }
  },
  "press_names": {
