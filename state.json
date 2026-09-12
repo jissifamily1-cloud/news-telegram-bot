@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-12T06:31:06.549913+09:00",
-     "영예 노벨상 알테오젠 유한양행 제약바이오"
-    ],
-    [
-     "2026-09-12T06:31:06.549913+09:00",
-     "상승 증시 일제히 반도체지 미국 기술주 마감 강세에"
-    ],
-    [
      "2026-09-12T06:45:22.640907+09:00",
      "유가 저가매수에 직접 5일만에 이란 걸프국 뉴욕 진정 증시 담판에"
     ],
@@ -342,12 +334,17 @@
     [
      "2026-09-12T12:00:41.764152+09:00",
      "9월 108만원대 하락세 주가 2주차 마감 SK스퀘어"
+    ],
+    [
+     "2026-09-12T12:35:17.527175+09:00",
+     "뷰티 패션 개최 할인전 가을 SSG닷컴 슈퍼위크"
+    ],
+    [
+     "2026-09-12T12:35:17.527175+09:00",
+     "자기 칩을 엔비디아는 경쟁 생태계로 끌어들이나"
     ]
    ],
    "seen_urls": [
-    "https://www.sportsseoul.com/news/read/1634368",
-    "https://www.mt.co.kr/stock/2026/09/11/2026091019560087617",
-    "https://www.mt.co.kr/industry/2026/09/11/2026091020043694906",
     "https://www.mt.co.kr/industry/2026/09/11/2026091019492620570",
     "https://www.chosun.com/international/us/2026/09/11/A2FVZYNJE5CVBLKFDEV23G2EPM/",
     "https://www.mt.co.kr/policy/2026/09/11/2026091020051710247",
@@ -1844,12 +1841,12 @@
     "https://www.ddaily.co.kr/page/view/2026091209201364474",
     "https://magazine.hankyung.com/business/article/202609120205b",
     "https://www.joongangenews.com/news/articleView.html?idxno=547725",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16190756"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16190756",
+    "https://www.asiaa.co.kr/news/articleView.html?idxno=262231",
+    "https://www.asiaa.co.kr/news/articleView.html?idxno=262232",
+    "https://www.koreaittimes.com/news/articleView.html?idxno=157058"
    ],
    "seen_titles": [
-    "(단독)청와대후임정책실장에'하태경'급부상",
-    "8위인데?페디-폰세-네일다내뒤로집합!아빌라가아빌라했네,한화...",
-    "소재·에너지돌더니…반도체로돌아온'온기'",
     "'현금50%·자사주50%'SK하이닉스,성과급수정안마련",
     "최태원\"울산서AI풀스택프로바이더완성\"",
     "김정관,9·11맞춰또뉴욕으로…다시러트닉마음녹일수있을까",
@@ -3346,10 +3343,13 @@
     "반도체타고박스권상단향하는코스피…‘호르무즈파병’암초만났...",
     "삼전직스레버리지에피눈물났는데...‘롤러코스피’이유있었다",
     "9월2주차SK스퀘어주가108만원대마감하락세전환",
-    "9월2주차SK이터닉스주가5만원대등락지속"
+    "9월2주차SK이터닉스주가5만원대등락지속",
+    "거래구조조정한라포랩스,SK스토아최다액출자자변경승인재신청",
+    "SSG닷컴,가을패션·뷰티할인전...'F/W슈퍼위크'개최",
+    "[인사이트]엔비디아는왜경쟁AI칩을자기생태계로끌어들이나"
    ],
    "initialized": true,
-   "last_run": "2026-09-12T12:30:28.964861+09:00"
+   "last_run": "2026-09-12T12:35:17.527175+09:00"
   }
  },
  "press_names": {
