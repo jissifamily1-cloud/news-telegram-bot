@@ -146,10 +146,13 @@
     [
      "2026-09-13T06:35:15.941198+09:00",
      "어디까지 뚫렸다 개인정보 시대 OTT 털리나 미용까지"
+    ],
+    [
+     "2026-09-13T06:45:24.974958+09:00",
+     "공포 결제정보까지 전화번호 넘어 개인정보 이름 확산 유출 상담"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000334049?division=NAVER",
     "https://www.joongang.co.kr/article/25460999",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=64140",
     "https://www.thepublic.kr/news/articleView.html?idxno=318365",
@@ -1648,10 +1651,10 @@
     "https://biz.heraldcorp.com/article/10871059",
     "https://www.news1.kr/it-science/internet-platform/6288383",
     "http://www.jbsori.com/news/articleView.html?idxno=17880",
-    "https://www.yna.co.kr/view/AKR20260911145600017?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260911145600017?input=1195m",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486434"
    ],
    "seen_titles": [
-    "삼성SDI,R&D22%확대…배터리3사중최대",
     "뉴욕증시,美국채금리·유가고공행진에나흘째하락",
     "SK바이오팜1조원대도입추진‘오파칼림’,美임상부분보류",
     "[증시전망대]유가·미금리'이중악재'…코스피7,000선방어시험대",
@@ -3150,10 +3153,11 @@
     "中추격에더멀리달아난다…ASML과삼성·인텔·TSMC가쌓아올리는‘...",
     "[AI밸류체인전쟁]①'독파모'만으론역부족…달라진AI주권경쟁",
     "전북현대,홈에서서울에1-2패배...2위탈환실패,간신히3위유지",
-    "AI시대개인정보어디까지털리나…OTT·미용까지뚫렸다"
+    "AI시대개인정보어디까지털리나…OTT·미용까지뚫렸다",
+    "이름·전화번호넘어상담·결제정보까지…개인정보유출공포확산"
    ],
    "initialized": true,
-   "last_run": "2026-09-13T06:41:55.852174+09:00"
+   "last_run": "2026-09-13T06:45:24.974958+09:00"
   }
  },
  "press_names": {
