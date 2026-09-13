@@ -386,14 +386,29 @@
     [
      "2026-09-14T07:15:21.458677+09:00",
      "수시 나선다 접수 동동 구제 정부 대입 못해"
+    ],
+    [
+     "2026-09-14T07:20:22.313613+09:00",
+     "강국 열어 삼성전자 패키징 TSMC도 소부장 거점 택한"
+    ],
+    [
+     "2026-09-14T07:20:22.313613+09:00",
+     "자금조달 유재호 전진배치 대규모 SK하이퍼 CFO"
+    ],
+    [
+     "2026-09-14T07:20:22.313613+09:00",
+     "민주주의와 충청경제 풀뿌리"
+    ],
+    [
+     "2026-09-14T07:20:22.313613+09:00",
+     "600홈런 대기록 통산 달성 이승엽"
+    ],
+    [
+     "2026-09-14T07:20:22.313613+09:00",
+     "분산 던진 반도체 이런국장 ETF 원전 저런주 2차전지로 개미"
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1689384/?sc=Naver",
-    "https://www.seoul.co.kr/news/economy/IT/2026/09/11/20260911500213?wlog_tag3=naver",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486270",
-    "https://www.insightkorea.co.kr/news/articleView.html?idxno=254369",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=300775",
     "https://en.yna.co.kr/view/AEN20260911006751320?input=2106m",
     "https://www.fnnews.com/news/202609111555122620",
     "http://enews.imbc.com/News/RetrieveNewsInfo/517990",
@@ -1888,14 +1903,14 @@
     "https://www.segye.com/newsView/20260910520404?OutUrl=naver",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609101806068080104640",
     "http://www.inews24.com/view/2005020",
-    "https://www.nocutnews.co.kr/news/6577342"
+    "https://www.nocutnews.co.kr/news/6577342",
+    "http://www.inews24.com/view/2004953",
+    "https://www.fetv.co.kr/news/articleView.html?idxno=310055",
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2300878",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292514",
+    "https://www.sedaily.com/article/20090237"
    ],
    "seen_titles": [
-    "코스피,이틀만에7000선붕괴…반도체약세에6900선마감",
-    "아이폰18사전예약D-1…이통3사,보상부터AI까지‘맞불’",
-    "고유가·美금리겹악재에투심위축…코스피6900선턱걸이",
-    "[증시-마감]코스피,1.76%하락마감…'국제유가·금리급등'부담",
-    "고유가·고금리공포덮친코스피,7000선밑으로[시황]",
     "오픈AI,아스트라수요폭발에월200달러최고가요금제판매중단",
     "[거래소외국인]NAVER우리금융지주셀트리온매수집중...SK하이닉스삼...",
     "CoupangKeepsGrowingAfterDataLeakasLocalE-CommercePlayersFigh",
@@ -3390,10 +3405,15 @@
     "5년내8배확장추진하는전남해상풍력…‘계통’은여전히불안요소...",
     "[더벨][CompanyWatch]SK넥실리스,말레이시아법인100%자회사전환",
     "아이폰듀오329만원출격…삼성D·LGD,하반기'애플효과'커진다",
-    "대입수시접수못해'발동동'…정부,구제나선다[오늘아침]"
+    "대입수시접수못해'발동동'…정부,구제나선다[오늘아침]",
+    "삼성전자,日패키징R&D거점문열어…TSMC도택한'소부장강국'",
+    "[SKTAIDC재편]③SK하이퍼,유재호CFO전진배치…대규모자금조달과...",
+    "[세상보기]풀뿌리민주주의와충청경제",
+    "[10년전그날]이승엽,한·일통산600홈런대기록달성",
+    "반도체ETF던진개미…금·원전·2차전지로‘분산’[이런국장저런주..."
    ],
    "initialized": true,
-   "last_run": "2026-09-14T07:15:21.458677+09:00"
+   "last_run": "2026-09-14T07:20:22.313613+09:00"
   }
  },
  "press_names": {
