@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-13T10:05:19.415366+09:00",
-     "금리 착수 F4 대응 커지자 가능성 회의 인상 연준"
-    ],
-    [
      "2026-09-13T10:15:21.099888+09:00",
      "정유업계 안정 늘었다 석유 중동전쟁에도 수급 도입 원유"
     ],
@@ -430,17 +426,21 @@
     [
      "2026-09-13T16:00:36.383157+09:00",
      "지역 충주시장 망가져도 이동석 알릴 미래도시 좋아 있다면"
+    ],
+    [
+     "2026-09-13T16:10:23.772570+09:00",
+     "현직자 미래 기술 체험까지 멘토링부터"
+    ],
+    [
+     "2026-09-13T16:10:23.772570+09:00",
+     "모두 신축으로 탈바꿈 국평 원스톱 20평 학세권 구축이"
+    ],
+    [
+     "2026-09-13T16:10:23.772570+09:00",
+     "개미보호 폭주했는데 규정 레버리지 하닉 괴리율 삼전 공백 LP관리"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/photos/8101160",
-    "http://www.lawissue.co.kr/view.php?ud=202609111254497115204ead0791_12",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1405183",
-    "https://www.news1.kr/photos/8101169",
-    "https://www.news1.kr/photos/8101161",
-    "https://economychosun.com/site/data/html_dir/2026/09/07/2026090700021.html",
-    "https://www.g-enews.com/view.php?ud=202609111247028158fbbec65dfb_1",
-    "https://www.huffingtonpost.kr/article/260397",
     "https://www.cnbizm.com/news/articleView.html?idxno=314806",
     "https://www.etnews.com/20260911000178",
     "https://www.cnet.co.kr/view/?no=20260911120733",
@@ -1932,17 +1932,17 @@
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1537315",
     "https://www.donga.com/news/Economy/article/all/20260913/134657465/1",
     "https://www.hankyung.com/article/202609106449r",
-    "https://www.khan.co.kr/article/202609131553011"
+    "https://www.khan.co.kr/article/202609131553011",
+    "https://mhnse.com/news/articleView.html?idxno=1542047",
+    "https://news.tf.co.kr/read/economy/2365234.htm",
+    "https://www.edaily.co.kr/News/Read?newsId=02151686645579792&mediaCodeNo=257",
+    "https://www.thepowernews.co.kr/view.php?ud=202609131558343981de3f0aa1be_7",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=880607",
+    "https://www.ccdailynews.com/news/articleView.html?idxno=2440273",
+    "https://www.mk.co.kr/article/12151387",
+    "http://www.newstomato.com/ReadNews.aspx?no=1313400&inflow=N"
    ],
    "seen_titles": [
-    "'2026울산포럼'참석한최태원SK그룹회장",
-    "최태원·김상욱,'2026울산포럼'참석",
-    "SK스토아,추석앞두고식품협력사제조현장품질점검",
-    "[유통레이터]귀뚜라미그룹,제니퍼룸,힐러비리엔케이,매일유업,롯데...",
-    "'2026울산포럼'참석한최태원·김상욱",
-    "'2026울산포럼'개회",
-    "[재계이슈]K-방산4사,2년연속'글로벌톱100'|한화6계단뛰어세...",
-    "치솟던램값에맞선프레임워크…마이크론뚫고소급환불결단",
     "사우디아라비아8월원유생산량1990년이후최저:중동원유의존심...",
     "금천구,'2026년제2차공중케이블정비협의회'개최...관계기관이현장...",
     "첨단의료AI보안·안전성검증…'2026첨단AI의료제품레드팀챌린지...",
@@ -3434,10 +3434,18 @@
     "삼전·닉스떠나는개미들…5개월만에'팔자'",
     "샌디스크,韓엔지니어채용…D램이어낸드까지인재쟁탈전",
     "남상욱딜로이트대표\"M&A성패는PMI에달려…사업재편기회잡아야\"",
-    "“지역알릴수있다면망가져도좋아”…이동석충주시장,‘미래도시..."
+    "“지역알릴수있다면망가져도좋아”…이동석충주시장,‘미래도시...",
+    "\"출연료올려달랬다가\"...전원주,유튜브중단진짜이유고백에비난...",
+    "턱시도입고등장한'농심3세'신상열부사장…결혼축하인사에\"감사...",
+    "25표에뒤집힌SK하이닉스임단협…성과급수정안,이번엔넘을까",
+    "최태원\"울산,AI시티로가야\"…데이터센터900MW·한일에너지협력제...",
+    "최태원회장,AI투자넘어수익창출로...재투자가능한사업구조강조",
+    "현직자멘토링부터미래기술체험까지",
+    "20평구축이국평신축으로탈바꿈…원스톱학세권,초·중·고모두걸...",
+    "삼전·하닉레버리지폭주했는데…개미보호·LP관리공백,괴리율규정..."
    ],
    "initialized": true,
-   "last_run": "2026-09-13T16:05:18.565229+09:00"
+   "last_run": "2026-09-13T16:10:23.772570+09:00"
   }
  },
  "press_names": {
