@@ -510,15 +510,17 @@
     [
      "2026-09-13T12:15:21.977816+09:00",
      "아쉽게 제주 부천 원정서 비겨"
+    ],
+    [
+     "2026-09-13T12:30:28.698063+09:00",
+     "Kakao ChatGPT 제공 금융서비스 카카오와 신한카드 for"
+    ],
+    [
+     "2026-09-13T12:30:28.698063+09:00",
+     "공동개발 재생에너지 협업 중부발전과 태양광 BESS로 LS일렉트릭 협력"
     ]
    ],
    "seen_urls": [
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609101952430020567",
-    "https://dealsite.co.kr/articles/168859",
-    "https://view.asiae.co.kr/article/2026091107381960310",
-    "https://www.insightkorea.co.kr/news/articleView.html?idxno=254364",
-    "https://www.slist.kr/news/articleView.html?idxno=765406",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16189721",
     "https://economist.co.kr/article/view/ecn202609110006",
     "https://news.dealsitetv.com/articles/175885",
     "https://www.newsworker.co.kr/news/articleView.html?idxno=503877",
@@ -2012,15 +2014,15 @@
     "https://www.dailian.co.kr/news/view/1689683/?sc=Naver",
     "https://m.skyedaily.com/news_view.html?ID=311459",
     "https://www.busan.com/view/busan/view.php?code=2026091311290038340",
-    "http://www.samdailbo.com/news/articleView.html?idxno=270193"
+    "http://www.samdailbo.com/news/articleView.html?idxno=270193",
+    "https://www.meconomynews.com/news/articleView.html?idxno=201555",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092170034",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2301578",
+    "https://kpenews.com/View.aspx?No=4224569",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=358875",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=358872"
    ],
    "seen_titles": [
-    "데이터로여는HR의다음단계…'PA|AIConnect2026'개최",
-    "이상일시장,용인찾은동티모르학생단과환담…'반도체프로젝트와...",
-    "SK바이오팜“오파칼림임상보류해소후딜클로징”",
-    "반도체호황의두얼굴…증시변동성키우고집값수요도자극",
-    "SamsungElectronics与SKhynix同一时期关注日本",
-    "생활맥주'이클립스'협업→롯데칠성음료,온열질환예방캠페인",
     "[산업분석]메모리반도체삼성전자·SK하이닉스,AI에2027공급부족",
     "'독성이슈'FDA제동걸린SK바이오팜신약…“11월해소,계약금집행...",
     "[유통24시]에이피알,에이지알'헬로키티에디션'선봬外",
@@ -3514,10 +3516,16 @@
     "고용노동교육원,민간노사교육확대…노란봉투법·성과급갈등예방",
     "美금리‘올라도,멈춰도’살종목있다…하나증권이꼽은수혜주는",
     "[속보]'삼전닉스'개미13조매도에도…SK하이닉스8%상승한이유는",
-    "제주,부천원정서2-2아쉽게비겨"
+    "제주,부천원정서2-2아쉽게비겨",
+    "美원전건설기대감에투자심리활활...'원자력ETF'강세",
+    "'농심3세'신상열부사장오늘결혼…재계인사참석주목",
+    "최태원\"울산,제조AI·시민생활·예술결합한'AI시티'로가야\"",
+    "신동원농심회장장남신상열부사장,오늘결혼..범롯데가인사참석...",
+    "신한카드,카카오와'ChatGPTforKakao'서금융서비스제공",
+    "LS일렉트릭,중부발전과재생에너지공동개발협력…태양광·BESS로협업..."
    ],
    "initialized": true,
-   "last_run": "2026-09-13T12:25:16.871269+09:00"
+   "last_run": "2026-09-13T12:30:28.698063+09:00"
   }
  },
  "press_names": {
