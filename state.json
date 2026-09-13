@@ -510,19 +510,17 @@
     [
      "2026-09-13T13:59:09.678320+09:00",
      "ETF 들썩 대미투자 기대에 건설 원전 1호 한주간"
+    ],
+    [
+     "2026-09-13T14:10:23.835546+09:00",
+     "SK하이닉스 7천선 다시 코스피 주목 삼성전자 넘을까"
+    ],
+    [
+     "2026-09-13T14:10:23.835546+09:00",
+     "center pace says chief Tech cooperation data gaining Big"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000334107?division=NAVER",
-    "https://www.delighti.co.kr/news/articleView.html?idxno=121691",
-    "https://www.news1.kr/finance/market-exr/6287439",
-    "https://www.sisajournal.com/news/articleView.html?idxno=386862",
-    "https://www.ytn.co.kr/_ln/0102_202609111135231266",
-    "https://www.newspim.com/news/view/20260911000619",
-    "https://economist.co.kr/article/view/ecn202609110010",
-    "https://www.wolyo.co.kr/news/articleView.html?idxno=317644",
-    "https://biz.heraldcorp.com/article/10870425",
-    "https://biz.heraldcorp.com/article/10870423",
     "https://en.yna.co.kr/view/AEN20260911003800320?input=2106m",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2469381",
     "https://biz.newdaily.co.kr/site/data/html/2026/09/11/2026091100097.html",
@@ -2012,19 +2010,19 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1724035",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005921026",
     "https://www.dt.co.kr/article/12083602",
-    "https://www.edaily.co.kr/News/Read?newsId=01951606645579792&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01951606645579792&mediaCodeNo=257",
+    "https://www.sportsseoul.com/news/read/1634724",
+    "https://www.sisajournal.com/news/articleView.html?idxno=387025",
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5218847",
+    "https://www.huffingtonpost.kr/article/260432",
+    "https://www.mt.co.kr/policy/2026/09/13/2026091310440898484",
+    "https://www.news1.kr/finance/general-stock/6288776",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=447075",
+    "https://www.koreaherald.com/article/10871611",
+    "http://www.kjdaily.com/article.php?aid=1789275434686662227",
+    "https://www.koreaherald.com/article/10871612"
    ],
    "seen_titles": [
-    "'태극마크정조준'정승원vs이승우,'전설매치'정면승부",
-    "국제유가뛰고美국채부담까지…코스피6800선'후퇴'",
-    "최근3년여간대기업화학물질관리법위반89건…SK그룹21건최다",
-    "유가·금리충격에코스피2%대하락…외인·기관2.2조'팔자'[장중시황...",
-    "[경북24시]경북바이오산업엑스포개막…77개기업·기관참가",
-    "유가100달러에코스피7,000선반납...삼전·닉스4%↓",
-    "'삼성전자·SK하이닉스채권혼합50'ETF,151원분배",
-    "[오늘의삼전닉스]삼성·SK하닉'쌍끌이'올해반도체수출최초400조...",
-    "롯데칠성,SK에코플랜트현장서온열질환예방캠페인진행",
-    "서남권반도체속도전…“2030년상반기첫생산”",
     "삼전닉스레버리지해외가더커졌다",
     "SeoulsharesnarrowlosseslateFri.morningamidinflationconcerns",
     "안동서막오른첨단바이오의미래…'2026경북바이오산업엑스포'화...",
@@ -3514,10 +3512,20 @@
     "[Telecom&Now]65세이상40%넘는지역서SKT,보이스피싱예방돕는다...",
     "환율직격탄맞은반도체…두달만에영업이익21조원증발",
     "이상일용인시장“삼성·SK투자로용인반도체산단약1600조원시대...",
-    "한주간원전·건설ETF'쑥'…대미투자1호기대에들썩[펀드와치]"
+    "한주간원전·건설ETF'쑥'…대미투자1호기대에들썩[펀드와치]",
+    "SKT‘찾아가는서비스’지자체와확대…경남4개군서8회운영",
+    "반도체인재쟁탈전…샌디스크,한국엔지니어채용",
+    "개미들'삼전·닉스'13조팔았다…5개월만에매도세전환",
+    "최태원SK회장은AI다음과제로'지속가능성'을꼽았다:울산서'AX선...",
+    "반도체계약학과역대최고경쟁률…'등록금0원'지거국도웃었다",
+    "개미도돌아선'삼전닉스'…5개월만에'팔자'이달13조순매도",
+    "개인투자자9월들어'삼전·닉스'매도전환,대규모자사주매입이수...",
+    "Forumputspower,talentatcenterofsouthwestchippush",
+    "[주식시장전망]코스피7천선다시넘을까…삼성전자·SK하이닉스주목",
+    "SKchiefsaysBigTechAIdatacentercooperationgainingpace"
    ],
    "initialized": true,
-   "last_run": "2026-09-13T14:05:19.659319+09:00"
+   "last_run": "2026-09-13T14:10:23.835546+09:00"
   }
  },
  "press_names": {
