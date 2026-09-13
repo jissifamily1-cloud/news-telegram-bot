@@ -218,10 +218,13 @@
     [
      "2026-09-13T23:30:33.271295+09:00",
      "부담 앤스로픽의 안전 경고 단기 섹터에 장기"
+    ],
+    [
+     "2026-09-13T23:40:23.049667+09:00",
+     "시작해야 이전 도청 충주 연구 충북"
     ]
    ],
    "seen_urls": [
-    "http://www.thevaluenews.co.kr/news/view.php?idx=201521",
     "https://www.thebigdata.co.kr/view.php?ud=20260911143251352337600e7ec7_23",
     "https://www.m-i.kr/news/articleView.html?idxno=1412865",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=275200",
@@ -1720,10 +1723,10 @@
     "http://www.newsbrite.net/news/articleView.html?idxno=200347",
     "https://www.thereport.co.kr/news/articleView.html?idxno=91334",
     "https://www.thedailypost.kr/news/articleView.html?idxno=115581",
-    "https://www.newspim.com/news/view/20260913000213"
+    "https://www.newspim.com/news/view/20260913000213",
+    "https://www.ccdailynews.com/news/articleView.html?idxno=2440330"
    ],
    "seen_titles": [
-    "[더밸류브리핑]오늘의신한금융소식...신한은행·신한카드",
     "특허법인본,산업별전문변리사·기업부설연구소기반AI특허서비스...",
     "[기획]'비반세권'분당·수지오르는데,'반세권'평택·이천은안오른...",
     "최종화SK에너지사장\"AI,실제현장서구현되어야힘발휘…울산AI수...",
@@ -3222,10 +3225,11 @@
     "최태원SK회장\"미래울산은AI시티의모습이돼야\"",
     "이상일\"용인반도체투자1600조전망\"…관건은전력·용수",
     "최태원회장,울산에'AI심장'심는다…\"제조넘어시민일상까지\"",
-    "[미국특징주]앤스로픽의AI안전경고,칩섹터에단기부담…장기상..."
+    "[미국특징주]앤스로픽의AI안전경고,칩섹터에단기부담…장기상...",
+    "[데스크시각]충북도청충주이전연구시작해야"
    ],
    "initialized": true,
-   "last_run": "2026-09-13T23:35:20.036562+09:00"
+   "last_run": "2026-09-13T23:40:23.049667+09:00"
   }
  },
  "press_names": {
