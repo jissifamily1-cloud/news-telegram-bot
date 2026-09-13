@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-13T09:30:28.977346+09:00",
-     "개미들 던졌다 속슬도 대탈출 삼전닉스도 반도체"
-    ],
-    [
-     "2026-09-13T09:30:28.977346+09:00",
-     "사이 임상 오파칼림 SK바이오팜 11월 보류 부분 해결될"
-    ],
-    [
      "2026-09-13T09:40:23.467914+09:00",
      "대기업 89건 다쳐도 21건 위반 최다 사람 화관법"
     ],
@@ -462,11 +454,13 @@
     [
      "2026-09-13T15:25:18.298482+09:00",
      "최악의 20대 취업 외환위기 취업난 업체 사교육 파고드는"
+    ],
+    [
+     "2026-09-13T15:35:19.425944+09:00",
+     "대응도 해킹 사례로 MDR 분석 SK쉴더스 전문가에게"
     ]
    ],
    "seen_urls": [
-    "https://mhnse.com/news/articleView.html?idxno=1537373",
-    "http://www.lawissue.co.kr/view.php?ud=202609111252519695204ead0791_12",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=245640",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609110417&t=NN",
     "https://www.kpanews.co.kr/news/articleView.html?idxno=543625",
@@ -1964,11 +1958,11 @@
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=611826",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=853492",
     "https://daily.hankooki.com/news/articleView.html?idxno=1405510",
-    "https://www.seoul.co.kr/news/economy/2026/09/13/20260913500056?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/economy/2026/09/13/20260913500056?wlog_tag3=naver",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4083954",
+    "https://www.bloter.net/news/articleView.html?idxno=673359"
    ],
    "seen_titles": [
-    "WSJ“한국증시는세계서가장광적인시장”",
-    "‘10경기피홈런0’아빌라,초반기세는폰세·페디도넘었다…ERA역...",
     "롯데칠성음료,건설현장근로자대상온열질환예방활동",
     "SK그룹,대기업화학물질관리법위반'최다'",
     "\"농담아닙니다\"…달에반도체공장짓겠다는기업[글로벌pick]",
@@ -3466,10 +3460,12 @@
     "라포랩스,SK스토아인수다시나선다…SKT와거래구조조정",
     "[주간증시전망]'아스트라효과'에7000피회복…FOMC·국채금리는변...",
     "최태원\"울산,제조AI·생활AI결합한'AI시티'로가야\"",
-    "외환위기후최악의20대취업난…그속파고드는‘취업사교육’업체"
+    "외환위기후최악의20대취업난…그속파고드는‘취업사교육’업체",
+    "구미취업한마당16일개최…70개기업503명채용예정",
+    "해킹분석·대응도전문가에게…SK쉴더스사례로본MDR"
    ],
    "initialized": true,
-   "last_run": "2026-09-13T15:30:28.520135+09:00"
+   "last_run": "2026-09-13T15:35:19.425944+09:00"
   }
  },
  "press_names": {
