@@ -498,12 +498,13 @@
     [
      "2026-09-13T12:30:28.698063+09:00",
      "공동개발 재생에너지 협업 중부발전과 태양광 BESS로 LS일렉트릭 협력"
+    ],
+    [
+     "2026-09-13T12:40:22.171978+09:00",
+     "결심 충격 반전 헤어질 개미들 삼전닉스와"
     ]
    ],
    "seen_urls": [
-    "https://economist.co.kr/article/view/ecn202609110006",
-    "https://news.dealsitetv.com/articles/175885",
-    "https://www.newsworker.co.kr/news/articleView.html?idxno=503877",
     "https://www.mk.co.kr/article/12150272",
     "https://www.chukkyung.co.kr/news/articleView.html?idxno=82750",
     "https://www.dailian.co.kr/news/view/1689201/?sc=Naver",
@@ -2000,12 +2001,12 @@
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2301578",
     "https://kpenews.com/View.aspx?No=4224569",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=358875",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=358872"
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=358872",
+    "https://www.newsis.com/view/NISX20260913_0003787248",
+    "https://www.newsis.com/view/NISX20260913_0003787232",
+    "https://magazine.hankyung.com/business/article/202609131033b"
    ],
    "seen_titles": [
-    "[산업분석]메모리반도체삼성전자·SK하이닉스,AI에2027공급부족",
-    "'독성이슈'FDA제동걸린SK바이오팜신약…“11월해소,계약금집행...",
-    "[유통24시]에이피알,에이지알'헬로키티에디션'선봬外",
     "엔이씨파워,SK에코플랜트기술탈취의혹으로지재처신고…SK\"탈취사...",
     "“GPU더꽂고싶어도전기가없다”…AI전쟁,이젠‘전력확보전’",
     "농협은행경기,어르신금융사기예방앞장",
@@ -3502,10 +3503,13 @@
     "최태원\"울산,제조AI·시민생활·예술결합한'AI시티'로가야\"",
     "신동원농심회장장남신상열부사장,오늘결혼..범롯데가인사참석...",
     "신한카드,카카오와'ChatGPTforKakao'서금융서비스제공",
-    "LS일렉트릭,중부발전과재생에너지공동개발협력…태양광·BESS로협업..."
+    "LS일렉트릭,중부발전과재생에너지공동개발협력…태양광·BESS로협업...",
+    "환율내렸지만…서학개미,美주식3개월만에순매도",
+    "'농심3세'신상열부사장,오늘결혼…서울소재호텔서화촉",
+    "[속보]삼전닉스와'헤어질결심'...개미들'충격'반전"
    ],
    "initialized": true,
-   "last_run": "2026-09-13T12:35:23.065384+09:00"
+   "last_run": "2026-09-13T12:40:22.171978+09:00"
   }
  },
  "press_names": {
