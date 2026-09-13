@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-13T21:15:22.250599+09:00",
-     "서울 반도체 꺾였다 의대 수시 솟구치고"
-    ],
-    [
      "2026-09-13T21:30:28.976828+09:00",
      "미래 융합기술 제시 에너지"
     ],
@@ -162,11 +158,17 @@
     [
      "2026-09-14T02:50:22.482751+09:00",
      "실현 가속도 용인 중심도시 세계 최고 붙었다 반도체"
+    ],
+    [
+     "2026-09-14T03:15:23.332814+09:00",
+     "독점 꺼진다 빅테크 스티글리츠가 던진 깨지면 경고 거품"
+    ],
+    [
+     "2026-09-14T03:15:23.332814+09:00",
+     "반도체주 속도조절론 투자 흐름은 긴장 장기 건재"
     ]
    ],
    "seen_urls": [
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=171194",
-    "https://news.ifm.kr/news/articleView.html?idxno=479228",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609091104421400108389",
     "https://www.newspim.com/news/view/20260911000872",
     "https://www.newsis.com/view/NISX20260908_0003780603",
@@ -1664,11 +1666,11 @@
     "https://www.ekn.kr/web/view.php?key=20260914027174159",
     "https://www.tournews21.com/news/articleView.html?idxno=143385",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000011640&cp=nv",
-    "https://www.todayenergy.kr/news/articleView.html?idxno=302969"
+    "https://www.todayenergy.kr/news/articleView.html?idxno=302969",
+    "https://www.g-enews.com/view.php?ud=202609131714469677fbbec65dfb_1",
+    "https://www.g-enews.com/view.php?ud=202609131955311839a1f309431_1"
    ],
    "seen_titles": [
-    "경기회복흐름속중동전쟁·관세영향불확실성확대",
-    "SK하이닉스,네온가스재활용성공…반도체희귀가스'공급망자립'",
     "「脱Coupang」続かず、本土ECは生存戦へ",
     "엑스엘에이트'이벤트켓',스타트업글로벌무대'언어장벽'허문다",
     "신한카드의'AI고도화'속...카카오AI는신한카드품었다",
@@ -3166,10 +3168,12 @@
     "[패트롤]수원시-화성시-평택시-용인시-성남시",
     "[인터뷰]천조개벽용인이끈이상일시장…마음속에는오직'시민'뿐",
     "세계최고‘반도체중심도시용인’실현가속도붙었다",
-    "대한석유협회\"정유업계,석유제품가격·수급안정전념\"강조"
+    "대한석유협회\"정유업계,석유제품가격·수급안정전념\"강조",
+    "빅테크독점깨지면거품꺼진다…스티글리츠가던진경고",
+    "AI‘속도조절론’에반도체주긴장…“장기투자흐름은건재”"
    ],
    "initialized": true,
-   "last_run": "2026-09-14T03:10:23.612611+09:00"
+   "last_run": "2026-09-14T03:15:23.332814+09:00"
   }
  },
  "press_names": {
