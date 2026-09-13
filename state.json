@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-13T15:25:18.298482+09:00",
-     "최악의 20대 취업 외환위기 취업난 업체 사교육 파고드는"
-    ],
-    [
      "2026-09-13T15:35:19.425944+09:00",
      "대응도 해킹 사례로 MDR 분석 SK쉴더스 전문가에게"
     ],
@@ -314,10 +310,13 @@
     [
      "2026-09-13T21:15:22.250599+09:00",
      "서울 반도체 꺾였다 의대 수시 솟구치고"
+    ],
+    [
+     "2026-09-13T21:30:28.976828+09:00",
+     "미래 융합기술 제시 에너지"
     ]
    ],
    "seen_urls": [
-    "https://www.asiatime.co.kr/article/20260911500238",
     "https://www.job-post.co.kr/news/articleView.html?idxno=227166",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609111408253110651",
     "https://www.stnsports.co.kr/news/articleView.html?idxno=322483",
@@ -1816,10 +1815,10 @@
     "https://www.news2day.co.kr/article/20260913500046",
     "https://www.energy-news.co.kr/news/articleView.html?idxno=228128",
     "https://www.betanews.net/article/view/beta202609130021",
-    "https://www.chosun.com/national/education/2026/09/13/NI3XBYKNJ5GLNBIUDDMG74XUAE/"
+    "https://www.chosun.com/national/education/2026/09/13/NI3XBYKNJ5GLNBIUDDMG74XUAE/",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=559465"
    ],
    "seen_titles": [
-    "최태원,울산서AX현장경영…“AI데이터센터·제조현장하나로이어져...",
     "한전기술15만원돌파…美원전8기건설기대에4%대강세",
     "[증권가로수]하나증권/유진투자증권/NH투자증권/키움투자운용/미래에셋...",
     "경기중관중물병맞은터키프로팀감독'돌연사퇴'선언",
@@ -3318,10 +3317,11 @@
     "[마켓인사이드]트럼프정부의인텔투자,1년만에400%넘는평가차익",
     "최태원회장\"울산,제조AI·시민행복·예술아우른'AI시티'로도약해야...",
     "이상일시장“용인반도체에1600조투자전망…정부‘속도전’나서...",
-    "2027수시,반도체솟구치고서울의대꺾였다"
+    "2027수시,반도체솟구치고서울의대꺾였다",
+    "물·에너지·AI융합기술미래제시"
    ],
    "initialized": true,
-   "last_run": "2026-09-13T21:25:16.902655+09:00"
+   "last_run": "2026-09-13T21:30:28.976828+09:00"
   }
  },
  "press_names": {
