@@ -482,16 +482,21 @@
     [
      "2026-09-13T13:15:21.084566+09:00",
      "배터리 노린다 휴머노이드 선점 시장 전고체로"
+    ],
+    [
+     "2026-09-13T13:25:27.415401+09:00",
+     "신부와 3세 SK텔레콤 다니는 예비 백년 농심 신상열 결혼 부사장"
+    ],
+    [
+     "2026-09-13T13:25:27.415401+09:00",
+     "공급 1600조 반도체 정부에 투자 용인시장 이상일 전력 전망 용수"
+    ],
+    [
+     "2026-09-13T13:25:27.415401+09:00",
+     "목표 약속 1조원 고작 농어촌상생기금 3255억원 10년간"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1723905",
-    "https://zdnet.co.kr/view/?no=20260911105941",
-    "https://www.imaeil.com/page/view/2026091110343583343",
-    "https://magazine.hankyung.com/business/article/202609118659b",
-    "http://www.wsobi.com/news/articleView.html?idxno=318018",
-    "https://www.seoul.co.kr/news/economy/securities/2026/09/11/20260911500094?wlog_tag3=naver",
-    "http://www.4th.kr/news/articleView.html?idxno=2117876",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5218556",
     "https://www.mt.co.kr/stock/2026/09/11/2026091111103649567",
     "https://biz.heraldcorp.com/article/10870381",
@@ -1984,16 +1989,16 @@
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075190",
     "https://www.segye.com/newsView/20260913504799?OutUrl=naver",
     "https://www.m-i.kr/news/articleView.html?idxno=1412954",
-    "https://www.m-i.kr/news/articleView.html?idxno=1412898"
+    "https://www.m-i.kr/news/articleView.html?idxno=1412898",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1724034",
+    "http://www.cctimes.kr/news/articleView.html?idxno=927077",
+    "http://www.srtimes.kr/news/articleView.html?idxno=212266",
+    "https://www.news2day.co.kr/article/20260913500035",
+    "https://www.insight.co.kr/news/573227",
+    "http://www.fieldnews.kr/news/articleView.html?idxno=31478",
+    "https://www.safetimes.co.kr/news/articleView.html?idxno=245667"
    ],
    "seen_titles": [
-    "코스피,장중2%넘게하락해6,800대…삼전닉스4%내외하락",
-    "원스토어주주들,넥써쓰로갈아탄다…뒤바뀐'지분지도'",
-    "中CXMT,상하이신규팹설비투자준비…韓맹추격",
-    "삼전닉스,대규모주주환원에도상승폭온도차…왜이럴까[매일뭐니머...",
-    "“삼전닉스빈틈노렸다”CXMT질주",
-    "현대엔지니어링·삼성E&A,에너지사업분야에서연속성과·35억달러규...",
-    "“美국채금리5%,‘버블붕괴’신호”3주전여의도에서나온경고...",
     "[경제소식]NH농협은행,VVIP카드출시기념자산관리세미나",
     "국제유가·글로벌금리부담'겹악재'…코스피장중2%이상하락",
     "코스피발목잡은유가·금리상승…FOMC이후달라질까?",
@@ -3486,10 +3491,17 @@
     "대구물비즈니스외연넓혔다",
     "'우린경험해봤다'…증권가,여전히'반도체GO'외치는이유",
     "[기획]車·반도체·조선·배터리까지…中추격에K-산업비상",
-    "K-배터리,전고체로휴머노이드시장선점노린다"
+    "K-배터리,전고체로휴머노이드시장선점노린다",
+    "KT,국민일상을'모두의AI'로…성능향상위해추가GPU확보",
+    "한국교통대교육부'초광역성장엔진인재육성사업'선정",
+    "SKT,경남4개지자체와'찾아가는서비스'MOU체결",
+    "최태원\"울산을AI시티로\"...제조AX부터복지·교통·의료까지확장",
+    "농심3세신상열부사장오늘결혼...SK텔레콤다니는예비신부와백년...",
+    "이상일용인시장\"반도체투자1600조전망\"…정부에전력·용수공급속...",
+    "10년간1조원약속농어촌상생기금고작3255억원…목표32.6%"
    ],
    "initialized": true,
-   "last_run": "2026-09-13T13:20:23.664786+09:00"
+   "last_run": "2026-09-13T13:25:27.415401+09:00"
   }
  },
  "press_names": {
