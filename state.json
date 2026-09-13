@@ -430,17 +430,13 @@
     [
      "2026-09-13T09:55:16.676496+09:00",
      "전략 주목 반도체 유효할 FOMC 중심"
+    ],
+    [
+     "2026-09-13T10:05:19.415366+09:00",
+     "금리 착수 F4 대응 커지자 가능성 회의 인상 연준"
     ]
    ],
    "seen_urls": [
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=864315",
-    "https://www.ajunews.com/view/20260911090422478",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=300731",
-    "https://www.g-enews.com/view.php?ud=20260911094137569244093b5d4e_1",
-    "https://news.mtn.co.kr/news-detail/2026091109472091125",
-    "https://www.besteleven.com/news/articleView.html?idxno=312078",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1723879",
-    "https://www.bloter.net/news/articleView.html?idxno=673366",
     "https://www.nocutnews.co.kr/news/6576614",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1723882",
     "https://thetracker.co.kr/View.aspx?No=4222690",
@@ -1932,17 +1928,17 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008750394&plink=ORI&cooper=NAVER",
     "https://www.gokorea.kr/news/articleView.html?idxno=878171",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1724025",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=144364"
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=144364",
+    "https://sports.donga.com/ent/article/all/20260913/134656030/1",
+    "https://www.mk.co.kr/article/12151260",
+    "https://news.ifm.kr/news/articleView.html?idxno=479279",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=87872",
+    "https://biz.chosun.com/it-science/ict/2026/09/13/IIBN6KZ5Y5C3ROXAST7GXXF3N4/",
+    "https://www.edaily.co.kr/News/Read?newsId=01325126645579792&mediaCodeNo=257",
+    "https://www.socialvalue.kr/news/view/1065574351093759",
+    "https://biz.chosun.com/policy/policy_sub/2026/09/13/K255ZSTIWFG5VEOXAURBBCQEDE/"
    ],
    "seen_titles": [
-    "코스피,美금리·유가부담에3%대급락출발…6,850선안착안간힘",
-    "[개장시황]코스피2%대하락…7000선반납",
-    "SK바이오팜\"오파칼림美임상일부보류,10월말해제전망\"",
-    "9000피올린것도,무너뜨린것도'삼전닉스'였다",
-    "[특징주]삼성전자·SK하이닉스,美기술주휘청..동반'약세'",
-    "유가·금리급등에코스피,장초반2%대하락…6800선후퇴",
-    "\"반드시이길수있도록하겠다\"…'두번의0-1패배'부천,제주전설...",
-    "'제2블록버스터'보고1.1조베팅했는데…SK바팜'오파칼림',뜻밖의암...",
     "[데스크시각]SK이노합병설명서에붙은'질문프리미엄'",
     "'역대최장기록?'PBA전통의강호자존심지켰다…NH농협카드,휴온스...",
     "[1%초고수의개장선택]'한화오션'사고'삼성SDI'줄였다",
@@ -3434,10 +3430,18 @@
     "1,200만원짜리취업코칭·하이닉스대비반도…구직청년들'한숨'",
     "국제긴장속한국증시,AI기술바람타고반등할까?",
     "[주간증시전망]고유가·고금리vsAI…코스피7000선재탈환분수령",
-    "[이번주증시]미FOMC주목...반도체중심전략유효할듯"
+    "[이번주증시]미FOMC주목...반도체중심전략유효할듯",
+    "전원주또돈…유튜브제작진하차이유밝혀져[DA이슈]",
+    "“하이닉스합격하려면우리학원등록해”…구직청년울리는‘취업...",
+    "'국민주'삼성전자·SK하이닉스앞세운ELS…연29.7%뒤엔원금100%손실...",
+    "경남고령층디지털구출나선SKT…지자체손잡고'찾아가는서비스'확...",
+    "지자체와함께하는‘찾아가는서비스’…SK텔레콤,경남4개군과손잡...",
+    "‘반도체올인’멈춘개미…韓·美증시서순매도전환",
+    "최태원회장,울산미래상으로‘AI시티’제시…“AI로시민행복높여...",
+    "美연준금리인상가능성커지자…韓‘F4′회의대응착수"
    ],
    "initialized": true,
-   "last_run": "2026-09-13T10:00:35.131059+09:00"
+   "last_run": "2026-09-13T10:05:19.415366+09:00"
   }
  },
  "press_names": {
