@@ -1074,13 +1074,13 @@
     [
      "2026-09-14T12:55:16.620694+09:00",
      "지갑이 늘어 블로 인베스코 4686개 하루 QQQ 보유"
+    ],
+    [
+     "2026-09-14T13:05:19.713980+09:00",
+     "ETF 빨랐던 너무 레버리지"
     ]
    ],
    "seen_urls": [
-    "https://www.aitimes.com/news/articleView.html?idxno=215192",
-    "https://www.mk.co.kr/article/12151135",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1724017",
-    "https://www.joongang.co.kr/article/25461310",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=598927",
     "https://www.besteleven.com/news/articleView.html?idxno=312148",
     "https://www.mk.co.kr/article/12151131",
@@ -2576,13 +2576,13 @@
     "http://www.smedaily.co.kr/news/articleView.html?idxno=363141",
     "https://vop.co.kr/A00001696683.html",
     "http://www.yonhapnewstv.co.kr/news/MYH20260914124443i47",
-    "https://www.tokenpost.kr/news/blockchain/407437"
+    "https://www.tokenpost.kr/news/blockchain/407437",
+    "https://hbnpress.com/news/view/1065584943533014",
+    "https://www.cwn.kr/news/articleView.html?idxno=56257",
+    "http://www.finomy.com/news/articleView.html?idxno=261472",
+    "http://www.inews24.com/view/2005168"
    ],
    "seen_titles": [
-    "'도발세리머니논란'아이아스에이영민부천감독,\"내선수였다면혼...",
-    "클리말라추가시간5분극장골폭발…서울,전북2-1잡고독주굳히기...",
-    "[B11현장]제주감독과는다른반응→\"조롱으로받아들일수도\",부천...",
-    "'부천전무승부'세르지우코스타감독\"어려운경기...승리자있었다면...",
     "‘세리머니후격한신경전’제주코스타감독,아이아스에대해“축...",
     "[B11현장]아이아스의공격적셀레브레이션?제주코스타감독,\"항상...",
     "K리그1선두서울,전북상대극장승…울산은인천격파(종합)",
@@ -4078,10 +4078,14 @@
     "삼성전자·SK하이닉스,한전'전기료25조선납'결국거절",
     "‘주먹구구·깜깜이’호남반도체용수65만톤예측,주민·공장‘물...",
     "내년법인세200조돌파예상…소득세추월전망",
-    "[로빈후드온체인]인베스코QQQ보유지갑이하루새4686개늘어...블로..."
+    "[로빈후드온체인]인베스코QQQ보유지갑이하루새4686개늘어...블로...",
+    "[人터뷰]이동섭전국회의원“반도체·처인성·태권도&외교…용인...",
+    "코스피,'6000선박스권'갇혀...AI개발속도조절론까지겹쳤다",
+    "SKAX'AI활용능력'정부인정이어장관상⋯인재양성성과",
+    "[기자수첩]너무빨랐던'레버리지ETF'"
    ],
    "initialized": true,
-   "last_run": "2026-09-14T13:00:36.582193+09:00"
+   "last_run": "2026-09-14T13:05:19.713980+09:00"
   }
  },
  "press_names": {
