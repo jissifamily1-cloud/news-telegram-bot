@@ -778,12 +778,17 @@
     [
      "2026-09-14T22:10:25.906674+09:00",
      "용인특례시 지관서가 용인 심곡서원에 조성"
+    ],
+    [
+     "2026-09-14T22:25:18.255959+09:00",
+     "발행어음에 몰리고 연금도 꿈틀 STO"
+    ],
+    [
+     "2026-09-14T22:25:18.255959+09:00",
+     "법률실무강좌 사내변호사 화우 인기 대상"
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20260913509456?OutUrl=naver",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000011658&cp=nv",
-    "https://biz.sbs.co.kr/article_hub/20000334330?division=NAVER",
     "https://www.chosun.com/economy/industry-company/2026/09/14/LDD5NS5PAVHVHD755H5USPA6BI/",
     "https://www.joongang.co.kr/article/25461537",
     "https://www.etoday.co.kr/news/view/2624679",
@@ -2280,12 +2285,12 @@
     "http://www.yonhapnewstv.co.kr/news/MYH20260914215937PMf",
     "https://www.hankyung.com/article/2026091437166",
     "https://www.newspim.com/news/view/20260914001151",
-    "http://www.newstown.co.kr/news/articleView.html?idxno=715798"
+    "http://www.newstown.co.kr/news/articleView.html?idxno=715798",
+    "https://www.wikitree.co.kr/articles/1159463",
+    "https://www.news2day.co.kr/article/20260914500326",
+    "http://www.legaltimes.co.kr/news/articleView.html?idxno=96008"
    ],
    "seen_titles": [
-    "아셴브레너의귀환...SK하이닉스에다시베팅",
-    "최태원“AX경쟁력심은울산,AI선도모델만들자”",
-    "중동위기에도수급안정…7월원유9318만배럴도입,전년比10%↑",
     "삼전닉스각개전투할때…中반도체정부·은행·기업원팀[中반도체공...",
     "[씨줄날줄]고려아연을둘러싼이중전선",
     "두달간200원넘게떨어진환율…美긴축에다시반등할까",
@@ -3782,10 +3787,13 @@
     "[이시각헤드라인]9월14일뉴스투나잇",
     "\"9천피다시올거야\"버텼는데…석달만에2000조증발했다[분석+]",
     "[글로벌특징주]AI수장들의속도조절론에AI주일제히급락",
-    "용인특례시,심곡서원에'용인지관서가'조성"
+    "용인특례시,심곡서원에'용인지관서가'조성",
+    "퇴근하면서주식거래...오후8시까지가능해진KRX,첫날결과는?",
+    "[증권데일리]발행어음에돈몰리고…STO·연금도꿈틀",
+    "[로펌iN]화우'사내변호사대상법률실무강좌'인기"
    ],
    "initialized": true,
-   "last_run": "2026-09-14T22:20:24.751316+09:00"
+   "last_run": "2026-09-14T22:25:18.255959+09:00"
   }
  },
  "press_names": {
