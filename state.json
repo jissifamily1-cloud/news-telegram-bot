@@ -158,13 +158,21 @@
     [
      "2026-09-15T04:15:24.135129+09:00",
      "국내증시 유가 270조 한달새 반도체 고금리 증발"
+    ],
+    [
+     "2026-09-15T04:40:22.608484+09:00",
+     "마이크론 AI감속론에 SK하이닉스 날벼락 반도체주"
+    ],
+    [
+     "2026-09-15T04:40:22.608484+09:00",
+     "영상 찾아줍니다 학습한 눈길 에이전트가 성공 콘텐츠"
+    ],
+    [
+     "2026-09-15T04:40:22.608484+09:00",
+     "붕괴 경고 선행 가지 충족 버블 필요 스티글리츠 조건"
     ]
    ],
    "seen_urls": [
-    "https://www.nbntv.co.kr/news/articleView.html?idxno=4024842",
-    "https://view.asiae.co.kr/article/2026090923463677870",
-    "https://www.betanews.net/article/view/beta202609140001",
-    "https://www.munhwa.com/article/11616652",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486563",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1724054",
     "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=909306",
@@ -1660,13 +1668,13 @@
     "https://www.newsverse.kr/news/articleView.html?idxno=11439",
     "https://www.mt.co.kr/opinion/2026/09/15/2026091413573325717",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=319232",
-    "https://www.mydaily.co.kr/page/view/2026091504220628272"
+    "https://www.mydaily.co.kr/page/view/2026091504220628272",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553537684",
+    "https://www.mediapen.com/news/view/1123480",
+    "https://www.hankookilbo.com/news/article/A2026091319510004135?did=NA",
+    "https://biz.sbs.co.kr/article_hub/20000334586?division=NAVER"
    ],
    "seen_titles": [
-    "[소비자민원평가-렌탈]\"제품은고장반복,관리는부실\"...품질·렌탈관...",
-    "반도체호황에내년법인세216.7조‘역대최대’…소득세15년만에...",
-    "삼전닉스,토큰으로사고팔아…내년2월장선다[토큰증권이온다①]",
-    "[외신헤드라인]아모데이\"AI속도조절에中이가장큰난제\"",
     "[단독-메가특구법노동특례?]삼성전자·SK하이닉스,기간제·파견확대...",
     "무신사,정보보호인증두달만에유출사고…\"ISMS보완해야\"",
     "[데스크칼럼]농심3세의'평범한'결혼식이쏘아올린재계의뉴노멀",
@@ -3162,10 +3170,14 @@
     "[오늘의경제뉴스]반도체메가프로젝트숨은병목...전력망보다먼저...",
     "[사설]계약학과열풍,인재양성의문더넓혀야",
     "[출근길포인트]국내증시한달새270조증발…고금리·유가·반도체3大...",
-    "KBL개막미디어데이&팬페스트29일개최,10개구단대표선수들참석"
+    "KBL개막미디어데이&팬페스트29일개최,10개구단대표선수들참석",
+    "\"목90도꺾여\"희귀난치병56세이봉주,근황공개...몸상태호전\"포...",
+    "[美증시특징주]AI감속론에반도체주'날벼락'…SK하이닉스·마이크론...",
+    "\"성공영상학습한AI에이전트가눈길끌콘텐츠찾아줍니다\"",
+    "스티글리츠,AI버블붕괴경고...\"세가지선행조건충족필요\""
    ],
    "initialized": true,
-   "last_run": "2026-09-15T04:35:17.676200+09:00"
+   "last_run": "2026-09-15T04:40:22.608484+09:00"
   }
  },
  "press_names": {
