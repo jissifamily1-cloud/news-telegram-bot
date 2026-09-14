@@ -210,13 +210,21 @@
     [
      "2026-09-15T05:40:22.319777+09:00",
      "점령 찍고 마트도 아마존 강자 미국 뷰티 숨은 나온다"
+    ],
+    [
+     "2026-09-15T05:50:22.192287+09:00",
+     "초토화 미국 상장주 SK하닉 반도체주 나스닥 속도조절론"
+    ],
+    [
+     "2026-09-15T05:50:22.192287+09:00",
+     "기술주 뉴욕증시 AI속도조절론에 나스닥 급락"
+    ],
+    [
+     "2026-09-15T05:50:22.192287+09:00",
+     "와르르 마이크론 반도 걸린 엔비디아 급제동 하이닉스ADR"
     ]
    ],
    "seen_urls": [
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609101456182240102682",
-    "https://www.sedaily.com/article/20090240",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=447059",
-    "https://www.segye.com/newsView/20260910520404?OutUrl=naver",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609101806068080104640",
     "http://www.inews24.com/view/2005020",
     "https://www.nocutnews.co.kr/news/6577342",
@@ -1712,13 +1720,13 @@
     "https://www.fnnews.com/news/202609150523068826",
     "https://www.joongang.co.kr/article/25461874",
     "https://www.newsis.com/view/NISX20260914_0003789138",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609140258&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609140258&t=NN",
+    "https://www.yna.co.kr/view/AKR20260914175951072?input=1195m",
+    "https://www.news1.kr/world/international-economy/6290380",
+    "https://www.newsis.com/view/NISX20260915_0003789307",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609150150&t=NN"
    ],
    "seen_titles": [
-    "[더벨][NewIssuer]10년만에공모채복귀LS증권,최대1400억조달",
-    "‘150조생산금융’띄웠지만…가계빚·레버리지복병갇힌‘이억원호...",
-    "[더벨][동상이목(同想異目)]'세기의'이혼경제캠프",
-    "[더벨][CompanyWatch]유진테크,메모리투자확대에호법공장캐파키운...",
     "[더벨][밸류업가속하는SK렌터카]구매·렌탈·정비·매각'생애주기경...",
     "SK이노·SKIET합병,금감원제동에개미까지‘세결집’…“헐값매각...",
     "[더벨]삼성전자,갤S27에마이크론최선단D램탑재목전",
@@ -3214,10 +3222,14 @@
     "[뉴욕증시]금리인상우려에하락…반도체급락속'SOXL'17%폭락",
     "[대한민국의중심충청]반도체투자훈풍‘청주기업·일자리’로잇...",
     "AI칩수요에파운드리경쟁재점화…삼성공채속인텔도한국채용",
-    "아마존찍고미국마트도점령…K-뷰티,숨은강자나온다"
+    "아마존찍고미국마트도점령…K-뷰티,숨은강자나온다",
+    "'AI개발제동론'에엔비디아등美반도체주동반급락(종합)",
+    "AI'속도조절론'에미국반도체주초토화…SK하닉나스닥상장주7.6%↓",
+    "뉴욕증시,AI속도조절론에기술주급락…나스닥0.56%↓",
+    "[속보]엔비디아·하이닉스ADR·마이크론등'와르르'…급제동걸린반도..."
    ],
    "initialized": true,
-   "last_run": "2026-09-15T05:45:21.325738+09:00"
+   "last_run": "2026-09-15T05:50:22.192287+09:00"
   }
  },
  "press_names": {
