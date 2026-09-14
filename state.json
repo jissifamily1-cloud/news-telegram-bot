@@ -737,10 +737,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.chosun.com/economy/industry-company/2026/09/14/LDD5NS5PAVHVHD755H5USPA6BI/",
-    "https://www.joongang.co.kr/article/25461537",
-    "https://www.etoday.co.kr/news/view/2624679",
-    "https://www.joongang.co.kr/article/25461527",
     "https://www.sedaily.com/article/20090247",
     "https://www.news1.kr/it-science/internet-platform/6276471",
     "https://www.mt.co.kr/industry/2026/09/14/2026091313432962793",
@@ -2236,13 +2232,13 @@
     "http://www.newstown.co.kr/news/articleView.html?idxno=715798",
     "https://www.wikitree.co.kr/articles/1159463",
     "https://www.news2day.co.kr/article/20260914500326",
-    "http://www.legaltimes.co.kr/news/articleView.html?idxno=96008"
+    "http://www.legaltimes.co.kr/news/articleView.html?idxno=96008",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553539321",
+    "https://www.sportschosun.com/entertainment/2026-09-14/202609140100099290006461",
+    "https://www.newspim.com/news/view/20260914001139",
+    "https://www.newspim.com/news/view/20260914001158"
    ],
    "seen_titles": [
-    "삼전닉스각개전투할때…中반도체정부·은행·기업원팀[中반도체공...",
-    "[씨줄날줄]고려아연을둘러싼이중전선",
-    "두달간200원넘게떨어진환율…美긴축에다시반등할까",
-    "개미들의삼전닉스‘변심’…9월들어매도세로전환[경제레이더]",
     "[단독]반도체호황덕에…정부‘한은마통’사용43%급감",
     "[글로벌비즈브리핑]\"AI속도늦추자\"...아모데이\"中이가장큰난제...",
     "[단독]“5년치전기료25조선납”한전제안에삼전닉스“NO”",
@@ -3738,10 +3734,14 @@
     "용인특례시,심곡서원에'용인지관서가'조성",
     "퇴근하면서주식거래...오후8시까지가능해진KRX,첫날결과는?",
     "[증권데일리]발행어음에돈몰리고…STO·연금도꿈틀",
-    "[로펌iN]화우'사내변호사대상법률실무강좌'인기"
+    "[로펌iN]화우'사내변호사대상법률실무강좌'인기",
+    "'대한민국전감독'벤투,야인생활청산하나...오현규활약중인튀르...",
+    "'삼전닉스'로50억번남편의'소름돋는'이혼고민…\"5천만주고이혼...",
+    "애프터마켓첫날1조8000억거래…'삼전닉스'에55%몰렸다",
+    "[AIMY뉴스]뉴욕반도체주프리뷰...AI'속도조절론'에반도체주'일..."
    ],
    "initialized": true,
-   "last_run": "2026-09-14T22:30:31.454795+09:00"
+   "last_run": "2026-09-14T22:35:20.217224+09:00"
   }
  },
  "press_names": {
