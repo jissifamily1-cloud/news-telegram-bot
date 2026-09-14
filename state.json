@@ -349,7 +349,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=727804",
     "https://biz.heraldcorp.com/article/10871935",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609091538584360104929",
     "https://www.hankyung.com/article/202609131422i",
@@ -1848,10 +1847,10 @@
     "https://www.nocutnews.co.kr/news/6578043",
     "http://www.metroseoul.co.kr/article/20260915500005",
     "https://www.cbci.co.kr/news/articleView.html?idxno=606713",
-    "https://imnews.imbc.com/news/2026/world/article/6851835_36925.html"
+    "https://imnews.imbc.com/news/2026/world/article/6851835_36925.html",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=282192"
    ],
    "seen_titles": [
-    "“5년치전기료25조원선납”…한전제안거절한삼성전자·SK하이닉스",
     "삼성전자·SK하이닉스공장늘린다…54조투자에‘숨은수혜주’주목",
     "삼성전자·SK하이닉스,한전'25조전기료선납'제안거절",
     "최태원\"AI경쟁다음단계는'수익화'…독자적비즈니스모델갖춰야...",
@@ -3350,10 +3349,11 @@
     "트럼프\"AI규제는역겨운음모\"↔\"통제시급\"…美대선흔든다",
     "코스피,7000선공방전…FOMC앞두고'빚투'부담까지",
     "15일코스피장흐름은,반도체투심이최대변수",
-    "'AI개발제동론'에엔비디아등미반도체주동반급락"
+    "'AI개발제동론'에엔비디아등미반도체주동반급락",
+    "뉴욕증시,국채금리급등등에하락…나스닥0.56%↓"
    ],
    "initialized": true,
-   "last_run": "2026-09-15T06:57:14.181133+09:00"
+   "last_run": "2026-09-15T07:00:35.200934+09:00"
   }
  },
  "press_names": {
