@@ -162,10 +162,13 @@
     [
      "2026-09-15T03:15:24.381758+09:00",
      "겹쳤다 증시 중간선거 약세 구간 유가"
+    ],
+    [
+     "2026-09-15T04:00:39.715374+09:00",
+     "EUV 도전 노린다 없이 개조해 28나노 HBM 케플러 대안 양산"
     ]
    ],
    "seen_urls": [
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609122210294150731",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=763570",
     "https://biz.heraldcorp.com/article/10871843",
     "https://it.chosun.com/news/articleView.html?idxno=2023092169671",
@@ -1664,10 +1667,10 @@
     "https://www.g-enews.com/view.php?ud=2026091422171474209a1f309431_1",
     "https://www.greened.kr/news/articleView.html?idxno=350053",
     "https://www.munhwa.com/article/11616953",
-    "https://www.g-enews.com/view.php?ud=2026091419534340379a1f309431_1"
+    "https://www.g-enews.com/view.php?ud=2026091419534340379a1f309431_1",
+    "https://www.g-enews.com/view.php?ud=202609141655541384fbbec65dfb_1"
    ],
    "seen_titles": [
-    "서울대병원\"원내기술사업화·투자연계강화\"",
     "크래프톤상반기R&D투자4300억,10대게임사중'톱'...연구과제28개...",
     "\"달러로벌어원화로바꾸니…\"잘나가던K-반도체발목잡은환율급락",
     "\"亞스테이블코인,달러뚫고폭발성장…ASA,시장잇는윤활유\"",
@@ -3166,10 +3169,11 @@
     "키옥시아,美ADR상장서최소100억달러조달검토",
     "美반도체장중5%급락…외국인'삼전·하닉'2.9조매도이어질까",
     "‘하닉하락적중했던그보고서’…이번엔삼성전자목표가낮췄다",
-    "美증시,중간선거앞‘약세구간’…AI·유가겹쳤다"
+    "美증시,중간선거앞‘약세구간’…AI·유가겹쳤다",
+    "EUV없이HBM대안노린다…케플러,28나노개조해양산도전"
    ],
    "initialized": true,
-   "last_run": "2026-09-15T03:55:18.193820+09:00"
+   "last_run": "2026-09-15T04:00:39.715374+09:00"
   }
  },
  "press_names": {
