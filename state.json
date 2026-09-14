@@ -222,15 +222,17 @@
     [
      "2026-09-15T05:50:22.192287+09:00",
      "와르르 마이크론 반도 걸린 엔비디아 급제동 하이닉스ADR"
+    ],
+    [
+     "2026-09-15T06:00:39.120211+09:00",
+     "독감백신 속도 제약사 공급도 독감 늘자 환자 코로나"
+    ],
+    [
+     "2026-09-15T06:00:39.120211+09:00",
+     "애프터마켓 주가 요동 거래 뜨자 8조 첫날 공시 개장"
     ]
    ],
    "seen_urls": [
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609101806068080104640",
-    "http://www.inews24.com/view/2005020",
-    "https://www.nocutnews.co.kr/news/6577342",
-    "http://www.inews24.com/view/2004953",
-    "https://www.fetv.co.kr/news/articleView.html?idxno=310055",
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2300878",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292514",
     "https://www.sedaily.com/article/20090237",
     "https://www.g-enews.com/view.php?ud=202609140712548069fbbec65dfb_1",
@@ -1724,15 +1726,15 @@
     "https://www.yna.co.kr/view/AKR20260914175951072?input=1195m",
     "https://www.news1.kr/world/international-economy/6290380",
     "https://www.newsis.com/view/NISX20260915_0003789307",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609150150&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609150150&t=NN",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4434809",
+    "https://www.news2day.co.kr/article/20260914500066",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260915055144Q19",
+    "https://www.dt.co.kr/article/12083910",
+    "https://www.kpanews.co.kr/news/articleView.html?idxno=543858",
+    "https://www.news2day.co.kr/article/20260915500016"
    ],
    "seen_titles": [
-    "[더벨][밸류업가속하는SK렌터카]구매·렌탈·정비·매각'생애주기경...",
-    "SK이노·SKIET합병,금감원제동에개미까지‘세결집’…“헐값매각...",
-    "[더벨]삼성전자,갤S27에마이크론최선단D램탑재목전",
-    "中ADC91%·RNA62%수출독식…韓차세대먹거리에경고등",
-    "[WhoIs?]신재호LS엠트론대표이사사장",
-    "5년내8배확장추진하는전남해상풍력…‘계통’은여전히불안요소...",
     "[더벨][CompanyWatch]SK넥실리스,말레이시아법인100%자회사전환",
     "아이폰듀오329만원출격…삼성D·LGD,하반기'애플효과'커진다",
     "대입수시접수못해'발동동'…정부,구제나선다[오늘아침]",
@@ -3226,10 +3228,16 @@
     "'AI개발제동론'에엔비디아등美반도체주동반급락(종합)",
     "AI'속도조절론'에미국반도체주초토화…SK하닉나스닥상장주7.6%↓",
     "뉴욕증시,AI속도조절론에기술주급락…나스닥0.56%↓",
-    "[속보]엔비디아·하이닉스ADR·마이크론등'와르르'…급제동걸린반도..."
+    "[속보]엔비디아·하이닉스ADR·마이크론등'와르르'…급제동걸린반도...",
+    "[뉴욕증시]AI속도조절론에'화들짝'…필리지수6%급락",
+    "[N2모닝경제브리핑-9월15일]美증시,AI경고·국채금리급등에3대...",
+    "미국채금리·유가상승에뉴욕증시하락…반도체주동반급락",
+    "국채ㆍ유가ㆍAI‘3중지뢰밭’…SK하닉7%·마이크론6%,엔비디아3%폭...",
+    "독감·코로나환자늘자…제약사독감백신공급도속도",
+    "\"공시뜨자주가요동\"…애프터마켓개장첫날1.8조거래"
    ],
    "initialized": true,
-   "last_run": "2026-09-15T05:55:18.996249+09:00"
+   "last_run": "2026-09-15T06:00:39.120211+09:00"
   }
  },
  "press_names": {
