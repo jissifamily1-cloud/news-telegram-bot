@@ -266,10 +266,13 @@
     [
      "2026-09-16T01:15:23.919136+09:00",
      "레버리지 반도체 51조 흔들린다 출렁이면 폭증"
+    ],
+    [
+     "2026-09-16T01:40:24.936874+09:00",
+     "멈출까 외국인 3조 지수 반도체 삼전 하닉 밀려도 반등 매도"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=20260914071058926020990b2dc5_1",
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=709232",
     "https://www.sedaily.com/article/20090901",
     "https://www.sportsseoul.com/news/read/1635116",
@@ -1768,10 +1771,10 @@
     "https://www.chosun.com/economy/realty/2026/09/16/K2M573PQYNDTFHJTACGC4VJXTQ/",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000012441&cp=nv",
     "http://www.kjdaily.com/article.php?aid=1789488073686971227",
-    "https://www.g-enews.com/view.php?ud=202609152006051636fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202609152006051636fbbec65dfb_1",
+    "https://www.greened.kr/news/articleView.html?idxno=350166"
    ],
    "seen_titles": [
-    "최태원측,'동거인에1000억원'발언불기소에항고",
     "[프리마켓포커스]AI속도조절론에반도체직격탄…국내증시1%대↓",
     "전남광주특별시의회,'2030년양산목표'호남권반도체클러스터기반...",
     "[증시키워드]현대차,엔비디아와자율주행협력…네이버,두나무편입...",
@@ -3270,10 +3273,11 @@
     "2020~2024년입주,6개월이상거주한1423명일대일면접",
     "국내최대자본시장IR‘코리아프리미엄위크’개막",
     "삼익제약회전율211%…상장주식수의2.1배",
-    "반도체레버리지51조폭증,10%출렁이면4%p더흔들린다"
+    "반도체레버리지51조폭증,10%출렁이면4%p더흔들린다",
+    "美지수밀려도반도체반등…외국인'삼전·하닉'1.3조매도멈출까"
    ],
    "initialized": true,
-   "last_run": "2026-09-16T01:35:19.870897+09:00"
+   "last_run": "2026-09-16T01:40:24.936874+09:00"
   }
  },
  "press_names": {
