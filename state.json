@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-16T01:15:23.919136+09:00",
-     "개막 코리아 국내 자본시장 IR 프리미엄 위크"
-    ],
-    [
-     "2026-09-16T01:15:23.919136+09:00",
-     "회전율 수의 1배 삼익제약 상장주식"
-    ],
-    [
-     "2026-09-16T01:15:23.919136+09:00",
-     "레버리지 반도체 51조 흔들린다 출렁이면 폭증"
-    ],
-    [
      "2026-09-16T01:40:24.936874+09:00",
      "멈출까 외국인 3조 지수 반도체 삼전 하닉 밀려도 반등 매도"
     ],
@@ -362,15 +350,29 @@
     [
      "2026-09-16T07:10:22.205574+09:00",
      "Top newspapers in major Korean headlines"
+    ],
+    [
+     "2026-09-16T07:20:23.164040+09:00",
+     "앞둔 여당 기자회견 의원들 대통령에 공소취소"
+    ],
+    [
+     "2026-09-16T07:20:23.164040+09:00",
+     "웃는 환율 주주환원 커지나 금융지주 보따리 하락에 연말"
+    ],
+    [
+     "2026-09-16T07:20:23.164040+09:00",
+     "클래리티법 상원서 비트코인 부결 절차표결 급락세"
+    ],
+    [
+     "2026-09-16T07:20:23.164040+09:00",
+     "힐스테이트 자이 브랜드평판 지켰다 1위 급등"
+    ],
+    [
+     "2026-09-16T07:20:23.164040+09:00",
+     "일자리 으뜸기업 블루어드 선정 대한민국"
     ]
    ],
    "seen_urls": [
-    "https://www.handmk.com/news/articleView.html?idxno=43132",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=865220",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700553",
-    "https://hbnpress.com/news/view/1065570686403184",
-    "https://www.ekn.kr/web/view.php?key=20260915027234685",
-    "http://www.bizwnews.com/news/articleView.html?idxno=146214",
     "https://www.ikbc.co.kr/article/view/kbc202609150018",
     "https://www.todaykorea.co.kr/news/articleView.html?idxno=406090",
     "https://www.ajunews.com/view/20260915085719790",
@@ -1864,15 +1866,15 @@
     "https://www.news1.kr/industry/general-industry/6291723",
     "https://www.businesspost.co.kr/BP?command=article_view&num=446718",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8664543",
-    "https://en.yna.co.kr/view/AEN20260916000500320?input=2106m"
+    "https://en.yna.co.kr/view/AEN20260916000500320?input=2106m",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=282240",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003267685&CMPT_CD=P0010",
+    "https://www.dailian.co.kr/news/view/1690609/?sc=Naver",
+    "https://biz.sbs.co.kr/article_hub/20000334867?division=NAVER",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487353",
+    "https://www.etnews.com/20260916000010"
    ],
    "seen_titles": [
-    "최태원,'동거인에1천억'발언노소영변호인불기소에항고",
-    "삼전·SK하이닉스등'대기업계약학과'수시지원역대최다",
-    "BNK證“SK하이닉스,메모리반도체가격둔화·원화강세에하반기실적...",
-    "유안타증권\"SK이노베이션,2026년실적횡재예상보다클것\"",
-    "[더스토리]SK家일군최종현선대회장...인재양성의대의(大義)를생각...",
-    "최태원측,'동거인1000억설'재판단요구",
     "SKB,사회보장정보원디지털전환지원…·SKTAI기술활용",
     "SK텔레콤,2026KS-CQI최우수기업선정..5년연속",
     "33회가스안전대상에안영훈동북아엘엔지허브터미널대표이사",
@@ -3366,10 +3368,16 @@
     "SK이노·SKIET,이틀간주주간담회…'합병기대효과'강조",
     "[WhoIs?]곽노정SK하이닉스대표이사사장",
     "“AI개발늦추면삼전닉스폭락?”…K반도체위기설뜯어보니[잇슈머...",
-    "TopheadlinesinmajorS.Koreannewspapers"
+    "TopheadlinesinmajorS.Koreannewspapers",
+    "뉴욕증시,국채금리·유가급등에이틀째하락…나스닥0.8%↓",
+    "[손병관의뉴스프레소]여당의원들,기자회견앞둔대통령에'공소취소...",
+    "환율하락에웃는금융지주…연말'주주환원보따리'커지나",
+    "[증시전략]美클래리티법,상원서절차표결부결…비트코인급락세",
+    "힐스테이트1위지켰다…자이브랜드평판51%급등",
+    "블루어드,'2026대한민국일자리으뜸기업'선정"
    ],
    "initialized": true,
-   "last_run": "2026-09-16T07:15:23.387057+09:00"
+   "last_run": "2026-09-16T07:20:23.164040+09:00"
   }
  },
  "press_names": {
