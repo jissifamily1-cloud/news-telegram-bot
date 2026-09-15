@@ -286,13 +286,21 @@
     [
      "2026-09-16T06:35:21.128801+09:00",
      "건설자재대상 삼표시멘트"
+    ],
+    [
+     "2026-09-16T06:45:22.161346+09:00",
+     "도시바에서 키옥시아홀딩스 사실상 최대주주 바뀌었다 SK하이닉스로"
+    ],
+    [
+     "2026-09-16T06:45:22.161346+09:00",
+     "쌍둥이 인데 분당 리모델링 분양가 단지 3억"
+    ],
+    [
+     "2026-09-16T06:45:22.161346+09:00",
+     "실적 마의 국채금리 뚫린 대응해야 중심"
     ]
    ],
    "seen_urls": [
-    "https://www.the-today.com/news/articleView.html?idxno=90140",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=88040",
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=709244",
-    "https://www.the-today.com/news/articleView.html?idxno=90143",
     "https://biz.sbs.co.kr/article_hub/20000334642?division=NAVER",
     "https://www.etoday.co.kr/news/view/2625531",
     "https://www.etnews.com/20260915000015",
@@ -1788,13 +1796,13 @@
     "https://www.newstopkorea.com/news/articleView.html?idxno=47681",
     "https://www.goodkyung.com/news/articleView.html?idxno=291419",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609120157181830707",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609130149090290736"
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609130149090290736",
+    "https://www.seoul.co.kr/news/economy/securities/2026/09/16/20260916500007?wlog_tag3=naver",
+    "http://www.beyondpost.co.kr/view.php?ud=2026091606330751712aaae0046f_30",
+    "https://news.bizwatch.co.kr/article/real_estate/2026/09/14/0036",
+    "https://www.news1.kr/finance/general-stock/6291716"
    ],
    "seen_titles": [
-    "배당·자사주소각기대에…주주환원ETF수익률도고공행진",
-    "리밸런싱으로자회사부실턴SK최창원...개미에겐유증'폭탄'됐다",
-    "삼전닉스계약학과수시지원8994명…'역대최다'",
-    "SK하이닉스,협력사80여곳에'감사커피'2만잔",
     "[한국반도체,두총수의대전략(1)]승자의함정과패자의반전",
     "\"AI에이전트결제,문자로승인한다\"…SKT,GSMARCS회의서새표준제...",
     "한화운용,HBM·AI반도체ETF2종신규상장",
@@ -3290,10 +3298,14 @@
     "메모리장기계약,'독'될수도...경종울린한기평",
     "삼성전자,올해HBM시장입지넓힌다…HBM4시장기대감상승",
     "[2026대경스마트건설대상]OSC대상성지제강",
-    "[2026대경스마트건설대상]건설자재대상삼표시멘트"
+    "[2026대경스마트건설대상]건설자재대상삼표시멘트",
+    "[서울데이터랩]미국증시,기술주약세에일제하락마감…반도체지수...",
+    "키옥시아홀딩스,최대주주도시바에서SK하이닉스로사실상바뀌었다.....",
+    "'쌍둥이단지'인데3억뛴분당리모델링분양가",
+    "'마의5%'뚫린美국채금리…\"실적株중심대응해야\""
    ],
    "initialized": true,
-   "last_run": "2026-09-16T06:40:22.553190+09:00"
+   "last_run": "2026-09-16T06:45:22.161346+09:00"
   }
  },
  "press_names": {
