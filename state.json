@@ -206,14 +206,29 @@
     [
      "2026-09-16T05:30:30.869439+09:00",
      "16일 캘린더 9월 경제"
+    ],
+    [
+     "2026-09-16T05:40:23.849850+09:00",
+     "경고 BNK 반도체 실적 이런국장 재차 전망치 삼전닉스"
+    ],
+    [
+     "2026-09-16T05:40:23.849850+09:00",
+     "독파모 성능 3강 올린 투트랙 활용 다음은"
+    ],
+    [
+     "2026-09-16T05:40:23.849850+09:00",
+     "부결 SK하이닉스 임단협 5만명 투표서 결론 재투표 25표"
+    ],
+    [
+     "2026-09-16T05:40:23.849850+09:00",
+     "유가 나스닥 일제히 국채금리 지수 3대 급등에"
+    ],
+    [
+     "2026-09-16T05:40:23.849850+09:00",
+     "8902억 1조 자금 FOMC 유입 채권 갈렸다 ETF 이탈 주식 앞두고"
     ]
    ],
    "seen_urls": [
-    "https://www.sentv.co.kr/article/view/sentv202609150016",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1724235",
-    "https://kpenews.com/View.aspx?No=4227039",
-    "https://www.yna.co.kr/view/AKR20260915026600008?input=1195m",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487018",
     "https://www.segye.com/newsView/20260915502789?OutUrl=naver",
     "http://www.econonews.co.kr/news/articleView.html?idxno=444334",
     "https://www.fnnews.com/news/202609150815507532",
@@ -1708,14 +1723,14 @@
     "https://www.joongang.co.kr/article/25462213",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609151053444560077",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609151326229160116",
-    "https://www.ytn.co.kr/_ln/0102_202609160514438540"
+    "https://www.ytn.co.kr/_ln/0102_202609160514438540",
+    "https://www.sedaily.com/article/20091244",
+    "https://www.news1.kr/it-science/internet-platform/6290294",
+    "https://www.newsis.com/view/NISX20260915_0003790762",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=6511",
+    "https://www.news2day.co.kr/article/20260915500311"
    ],
    "seen_titles": [
-    "한국사회보장정보원,SKT·SKB와손잡고복지위기가구선제발굴",
-    "[MUSTKNOW5]SK하이닉스ADR7%↓·앤트로픽IPO추진…투자자가알아야...",
-    "인포시즈,박준전SK텔레콤부사장CBO영입…엔터프라이즈AI확대",
-    "최태원-노소영또충돌…'동거인1000억지출'놓고법적공방",
-    "\"동거인에1000억썼다는건허위\"…최태원,노소영측변호사불기소에...",
     "미성년'주식큰손'급증…1억원이상보유자5400명",
     "최태원회장측,검찰불기소에불복항고..이상원변호사명예훼손건",
     "유안타증권\"SK이노베이션목표가상향…실적개선전망\"",
@@ -3210,10 +3225,15 @@
     "AI가구글·하닉‘문송’없앴다…카카오뚫은문과생채용팁",
     "[‘글로벌AI’꿈꾼SKT…미국에이전트접고인프라로]①SKT,결국꽃...",
     "[‘글로벌AI’꿈꾼SKT…미국에이전트접고인프라로]②AI서비스접...",
-    "■9월16일(수)경제캘린더"
+    "■9월16일(수)경제캘린더",
+    "BNK證재차‘반도체경고’…“삼전닉스실적전망치↓”[이런국장...",
+    "[AI밸류체인]④'AI3강'올린독파모,다음은?…성능·활용'투트랙'",
+    "1.5만명투표서단'25표차'부결…SK하이닉스임단협재투표오늘결론",
+    "[뉴욕증시마감시황]나스닥등3대지수유가·국채금리급등에일제히...",
+    "FOMC앞두고ETF자금갈렸다…주식8902억이탈·채권1조유입"
    ],
    "initialized": true,
-   "last_run": "2026-09-16T05:35:18.890425+09:00"
+   "last_run": "2026-09-16T05:40:23.849850+09:00"
   }
  },
  "press_names": {
