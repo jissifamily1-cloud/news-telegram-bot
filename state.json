@@ -162,13 +162,25 @@
     [
      "2026-09-16T04:40:22.477667+09:00",
      "아이돌급 이요셉 MVP 외모에 H리그 핸드볼 금메달로 AG 실력"
+    ],
+    [
+     "2026-09-16T05:00:35.560456+09:00",
+     "이천시의회 화성시의회 안성시의회 용인시의회"
+    ],
+    [
+     "2026-09-16T05:00:35.560456+09:00",
+     "평택시 이천시 경기광주시 여주시 안성시"
+    ],
+    [
+     "2026-09-16T05:00:35.560456+09:00",
+     "경기도 경기경제자유구역청 경기주 경기도교육청 경기도의회"
+    ],
+    [
+     "2026-09-16T05:00:35.560456+09:00",
+     "자산뺏기 드려요 옮기면 증권사 전쟁 주식 소리없는 현금"
     ]
    ],
    "seen_urls": [
-    "https://news.jtbc.co.kr/article/NB12318349?influxDiv=NAVER",
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=393002",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4434828",
-    "https://www.kbmaeil.com/article/20260915500026",
     "https://www.mt.co.kr/stock/2026/09/15/2026091508175551074",
     "https://www.edaily.co.kr/News/Read?newsId=02568246645580448&mediaCodeNo=257",
     "https://www.itooza.com/common/iview.php?no=2026091508175873657",
@@ -1664,13 +1676,13 @@
     "https://www.donga.com/news/Economy/article/all/20260916/134676848/2",
     "https://www.donga.com/news/People/article/all/20260916/134676362/2",
     "https://www.mediapen.com/news/view/1123809",
-    "https://www.hankookilbo.com/news/article/A2026091509430001109?did=NA"
+    "https://www.hankookilbo.com/news/article/A2026091509430001109?did=NA",
+    "https://www.ekn.kr/web/view.php?key=20260916027225274",
+    "https://www.ekn.kr/web/view.php?key=20260916023555262",
+    "https://www.ekn.kr/web/view.php?key=20260916026475223",
+    "https://www.startuptoday.co.kr/news/articleView.html?idxno=813204"
    ],
    "seen_titles": [
-    "최태원회장측,'1000억지출'주장변호사불기소에항고",
-    "최태원측\"노소영변호사,금액50배부풀려\"…檢불기소불복항고",
-    "고유가에'AI속도조절론'까지…뉴욕증시3대지수동반하락",
-    "AI기술속도조절논의에반도체주식급락,투자자들충격",
     "'AI속도조절론'속미국반도체주급락…SK하닉나스닥상장주7.6%↓",
     "AI속도조절·고유가·금리공포삼중고…코스피3.2%폭락,6600선후퇴",
     "[뉴욕마켓워치]사우디송유관가동중단에다급해진트럼프…주식↓채...",
@@ -3166,10 +3178,14 @@
     "“美연준금리인상확률92%”…기업자금조달-투자위축우려",
     "[부고]남승우별세外",
     "[美증시특징주]유가·금리불안반도체혼조속메모리약세…AMD·퀄컴...",
-    "아이돌급외모에MVP실력...男핸드볼이요셉\"AG금메달로H리그붐이..."
+    "아이돌급외모에MVP실력...男핸드볼이요셉\"AG금메달로H리그붐이...",
+    "[패트롤]안성시의회-용인시의회-이천시의회-화성시의회",
+    "[패트롤]평택시-안성시-이천시-여주시-경기광주시",
+    "[패트롤]경기도-경기도의회-경기도교육청-경기경제자유구역청-경기주...",
+    "[기획]\"주식옮기면현금드려요\"…증권사'자산뺏기'소리없는전쟁"
    ],
    "initialized": true,
-   "last_run": "2026-09-16T04:55:17.200472+09:00"
+   "last_run": "2026-09-16T05:00:35.560456+09:00"
   }
  },
  "press_names": {
