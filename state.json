@@ -430,11 +430,13 @@
     [
      "2026-09-16T23:30:31.460255+09:00",
      "108팀 제13회 본선 14곡 노을동요제 경연"
+    ],
+    [
+     "2026-09-16T23:45:23.554527+09:00",
+     "기후산업국제박람회 SK이노베이션 참가"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2626020",
-    "http://www.aptn.co.kr/news/articleView.html?idxno=112869",
     "https://www.etoday.co.kr/news/view/2626032",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=88176",
     "https://www.edaily.co.kr/News/Read?newsId=02732246645580776&mediaCodeNo=257",
@@ -1932,11 +1934,11 @@
     "https://www.edaily.co.kr/News/Read?newsId=05904006645580776&mediaCodeNo=257",
     "https://www.thedailypost.kr/news/articleView.html?idxno=115662",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4435262",
-    "http://www.newstown.co.kr/news/articleView.html?idxno=716132"
+    "http://www.newstown.co.kr/news/articleView.html?idxno=716132",
+    "https://www.apnews.kr/news/articleView.html?idxno=3051326",
+    "http://www.lawissue.co.kr/view.php?ud=202609162340598259f4ab64559d_12"
    ],
    "seen_titles": [
-    "[모닝리포트]\"코윈로보틱스,ESS·로봇수주빠르게확대\"",
-    "[온체인주식선물]삼성전자,정규장종가보다0.34%할인",
     "브이앤에스운용,ESG전문성공시...의결권행사'반대0건'",
     "서초구'신반포2'33평,10억떨어진46.2억원에거래[일일하락가]",
     "패시브없는DS운용의선택…AI반도체전영역담는액티브출시",
@@ -3434,10 +3436,12 @@
     "SK하이닉스,인텔과손잡나…美개장전주가3%상승",
     "[TECHBOX]➀AI경쟁,'말솜씨'서'추론력'으로…SKTA.XK2,수학으로...",
     "뉴욕증시,FOMC대기하며혼조출발",
-    "제13회노을동요제108팀경연…14곡본선"
+    "제13회노을동요제108팀경연…14곡본선",
+    "SKT,美F5와'AI클라우드보안'동맹…국내첫MSP됐다",
+    "SK이노베이션,기후산업국제박람회참가"
    ],
    "initialized": true,
-   "last_run": "2026-09-16T23:40:24.861739+09:00"
+   "last_run": "2026-09-16T23:45:23.554527+09:00"
   }
  },
  "press_names": {
