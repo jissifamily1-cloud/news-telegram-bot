@@ -922,13 +922,13 @@
     [
      "2026-09-16T20:20:28.072155+09:00",
      "export contract Asia Korea with 14m Central inks"
+    ],
+    [
+     "2026-09-16T20:30:29.675069+09:00",
+     "청년 기업 구직자 잇는다 경상국립대"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202609160038291379fda4f5ab74_1",
-    "https://www.newsis.com/view/NISX20260916_0003791092",
-    "https://www.edaily.co.kr/News/Read?newsId=02522326645580776&mediaCodeNo=257",
-    "https://www.edaily.co.kr/News/Read?newsId=02496086645580776&mediaCodeNo=257",
     "https://www.edaily.co.kr/News/Read?newsId=02489526645580776&mediaCodeNo=257",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=359079",
     "https://www.ytn.co.kr/_ln/0102_202609160740405870",
@@ -2424,13 +2424,13 @@
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2471449",
     "https://www.koreaherald.com/article/10876042",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=359153",
-    "https://www.koreaherald.com/article/10876041"
+    "https://www.koreaherald.com/article/10876041",
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=89350",
+    "https://biz.heraldcorp.com/article/10876050",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=444438",
+    "https://www.gnnews.co.kr/news/articleView.html?idxno=645708"
    ],
    "seen_titles": [
-    "블루어드,'2026대한민국일자리으뜸기업'선정",
-    "KB證“AI우려와달리주문더강하다⋯삼전ㆍSK하닉향후반등준비할...",
-    "[KFT모닝브리프]2026.09.16—오늘꼭알아야할국내외경제·시장...",
-    "AI감속론에도HBM은뜬다…왜?",
     "미국증시10년물5%·유가106달러에하락…연준앞두고엔비디아는반...",
     "SK하이닉스,성과급'운명의날'…임단협재투표오늘결론",
     "[마켓프리뷰]금리·유가우려에나흘째밀린코스피…코스닥은반등",
@@ -3926,10 +3926,14 @@
     "청주대,신헌철전서울시립교향악단이사장초청명사특강개최",
     "SKhynixdeniesUSproductionrumorslinkedtoIntel",
     "증권가,ESG보폭확대…디지털·환경·아동까지사회공헌다각화",
-    "Koreainks$14mexportcontractwithCentralAsia"
+    "Koreainks$14mexportcontractwithCentralAsia",
+    "SK하이닉스,인텔과美반도체생산협력설에선긋기…\"확정된사안없...",
+    "“SK하닉-인텔,미국서메모리생산협상중”",
+    "[부고]윤영두(SK이노베이션부사장)씨부친상",
+    "경상국립대,'기업-청년구직자'잇는다"
    ],
    "initialized": true,
-   "last_run": "2026-09-16T20:25:20.147415+09:00"
+   "last_run": "2026-09-16T20:30:29.675069+09:00"
   }
  },
  "press_names": {
