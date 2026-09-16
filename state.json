@@ -221,8 +221,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.econonews.co.kr/news/articleView.html?idxno=444399",
-    "http://www.yonhapnewstv.co.kr/news/AKR20260916091833pg5",
     "http://www.inews24.com/view/2006087",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=600482",
     "https://news.mtn.co.kr/news-detail/2026091609151472245",
@@ -1720,11 +1718,11 @@
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=319547",
     "https://www.g-enews.com/view.php?ud=202609162042436909a1f309431_1",
     "https://www.mt.co.kr/industry/2026/09/17/2026091619514071925",
-    "https://www.mt.co.kr/economy/2026/09/17/2026091615522142701"
+    "https://www.mt.co.kr/economy/2026/09/17/2026091615522142701",
+    "https://biz.sbs.co.kr/article_hub/20000335103?division=NAVER",
+    "https://biz.sbs.co.kr/article_hub/20000335102?division=NAVER"
    ],
    "seen_titles": [
-    "[속보]삼성전자·SK하이닉스,정규장약보합출발",
-    "신용한지사,반도체·이차전지·바이오인프라-육성비전적극홍보",
     "“현장난제,AX로푼다”…SK,‘2026SKAI해커톤’실시",
     "[속보]SK하이닉스,'성과급현금50%-자사주50%'합의안가결",
     "계약학과지원자38.7%증가…7개대기업연계2478명",
@@ -3222,10 +3220,12 @@
     "[출근길포인트]진퇴양난홈플러스·저커버그AI속도조절론선긋기·쿠...",
     "메모리품귀에중소PC·폰업체‘생존설계’…가짜칩검사까지",
     "열오른히트펌프…'에너지솔루션'공략",
-    "\"요즘은인턴도'金턴',경력직뽑는다\"...스펙빵빵해도탈락,탈락"
+    "\"요즘은인턴도'金턴',경력직뽑는다\"...스펙빵빵해도탈락,탈락",
+    "너무비싼가...낸드값인상자제나선日키옥시아",
+    "\"SK하이닉스,인텔과美서메모리생산논의\""
    ],
    "initialized": true,
-   "last_run": "2026-09-17T04:30:29.478283+09:00"
+   "last_run": "2026-09-17T04:35:19.111595+09:00"
   }
  },
  "press_names": {
