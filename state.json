@@ -302,16 +302,21 @@
     [
      "2026-09-17T06:05:29.145898+09:00",
      "우려 당장은 장기화 격화에 버텨도 긴장 중동전쟁 산업계"
+    ],
+    [
+     "2026-09-17T06:20:23.220042+09:00",
+     "둘째딸 최민정 최태원 창업 3년 터지나 대박 헬스케어"
+    ],
+    [
+     "2026-09-17T06:20:23.220042+09:00",
+     "로봇 승부수 웰니스 말레이시아 나무엑스 진출 SK인텔릭스"
+    ],
+    [
+     "2026-09-17T06:20:23.220042+09:00",
+     "한화제약 휴젤 리가켐바이오 SK케미칼 차바이오텍"
     ]
    ],
    "seen_urls": [
-    "https://www.mediapen.com/news/view/1123895",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=311308",
-    "https://www.viva100.com/article/20260916500350",
-    "https://www.seoul.co.kr/news/economy/securities/2026/09/16/20260916500036?wlog_tag3=naver",
-    "https://www.ajunews.com/view/20260916093505572",
-    "https://www.ziksir.com/news/articleView.html?idxno=146585",
-    "https://www.pharmnews.com/news/articleView.html?idxno=306333",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075534",
     "https://www.gukjenews.com/news/articleView.html?idxno=3696701",
     "https://kpenews.com/View.aspx?No=4229144",
@@ -1804,16 +1809,16 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4435278",
     "https://www.nbntv.co.kr/news/articleView.html?idxno=4024898",
     "https://www.munhwa.com/article/11617599",
-    "https://www.yna.co.kr/view/AKR20260916169600003?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260916169600003?input=1195m",
+    "https://news.mtn.co.kr/news-detail/2026091706120544458",
+    "https://www.chosun.com/economy/int_economy/2026/09/17/HDFTEQIST5CQDFVXPNUCYJKRAY/",
+    "https://www.kbmaeil.com/article/20260917500003",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609170275&t=NN",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=764010",
+    "https://www.news1.kr/industry/general-industry/6292330",
+    "https://www.hitnews.co.kr/news/articleView.html?idxno=79201"
    ],
    "seen_titles": [
-    "SK하이닉스임단협재합의안가결…성과급현금·주식50%씩",
-    "남인순\"블록버스터신약탄생임박…제약바이오선진국올랐다\"",
-    "SK하이닉스노조,임단협수정합의안'가결'…'성과급,현금·주식절반...",
-    "엔코아플레이데이터,KDT해커톤최우수상배출…AI실무인재양성성...",
-    "\"글로벌밸류체인진입기대\"…뉴인텍·에스테크엠주가날개",
-    "K-의약품태국진출지원…식약처·제약바이오협'원팀'가동",
-    "[종합]SK하이닉스임단협57.08%가결…'자사주진통'25표차부결딛고...",
     "SK,'WCE2026'서통합에너지솔루션공개...AI데이터센터전력해법제...",
     "코스피,하락개장후상승전환…강보합권등락중",
     "SK하이닉스임단협수정안가결…PS현금비중40%→50%",
@@ -3306,10 +3311,17 @@
     "[뉴욕증시]매파색채뚜렷한FOMC…동반하락",
     "[헐크이만수의힘]프놈펜에그려질희망의그라운드,캄보디아를향해...",
     "[속보]美기준금리인상…다우1.21%↓“인플레5년넘게목표치웃돌고...",
-    "중동전쟁격화에산업계'긴장'…당장은버텨도장기화우려"
+    "중동전쟁격화에산업계'긴장'…당장은버텨도장기화우려",
+    "뉴욕증시연준금리인상·추가긴축우려에하락…다우1.21%↓[뉴욕마감...",
+    "금리인상보다매서웠던워시의입…다우1.2%하락",
+    "3년2개월만에금리올린연준…다우631P하락,석달만에최저",
+    "[속보]하이닉스손잡더니4%'껑충'…금리인상덮친시장서인텔웃었...",
+    "[단독]최태원둘째딸최민정,美서AI헬스케어대박터지나?…창업3년...",
+    "K-웰니스로봇승부수…SK인텔릭스'나무엑스'말레이시아진출",
+    "[경력채용]휴젤,리가켐바이오,SK케미칼,차바이오텍,한화제약"
    ],
    "initialized": true,
-   "last_run": "2026-09-17T06:15:21.749352+09:00"
+   "last_run": "2026-09-17T06:20:23.220042+09:00"
   }
  },
  "press_names": {
