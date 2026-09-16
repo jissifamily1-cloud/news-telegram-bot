@@ -358,15 +358,29 @@
     [
      "2026-09-17T00:20:29.283636+09:00",
      "20종목 국내 상장 뉴욕증권거래소 아카 반도체 KCHP"
+    ],
+    [
+     "2026-09-17T00:30:30.682282+09:00",
+     "대한민국의 수도권 탄생은 축복 버금가는 메가시티"
+    ],
+    [
+     "2026-09-17T00:30:30.682282+09:00",
+     "논쟁이 이유 반가운 속도조절론"
+    ],
+    [
+     "2026-09-17T00:30:30.682282+09:00",
+     "AI까지 기후산업의 풍력 펼쳐진 SMR 부산에 미래"
+    ],
+    [
+     "2026-09-17T00:30:30.682282+09:00",
+     "판매가격 무게 소폭 국내 인상 10월 LPG"
+    ],
+    [
+     "2026-09-17T00:30:30.682282+09:00",
+     "바닥 증시 아직 경고한 시나리오 아니다 교수가 코스피 김영익"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260916000094",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487395",
-    "https://slownews.kr/166470",
-    "https://www.theguru.co.kr/news/article.html?no=107135",
-    "https://www.seoul.co.kr/news/economy/securities/2026/09/16/20260916500014?wlog_tag3=naver",
-    "https://www.fnnews.com/news/202609160907289422",
     "https://www.news1.kr/industry/general-industry/6291934",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487410",
     "https://www.sedaily.com/article/20091451",
@@ -1860,15 +1874,15 @@
     "https://www.ziksir.com/news/articleView.html?idxno=146631",
     "https://www.cbci.co.kr/news/articleView.html?idxno=607224",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000012812&cp=nv",
-    "https://www.tokenpost.kr/news/market/409132"
+    "https://www.tokenpost.kr/news/market/409132",
+    "https://www.thedailypost.kr/news/articleView.html?idxno=115667",
+    "https://www.hankyung.com/article/2026091693161",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=319510",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000012818&cp=nv",
+    "https://www.todayenergy.kr/news/articleView.html?idxno=303178",
+    "https://www.newsis.com/view/NISX20260916_0003792072"
    ],
    "seen_titles": [
-    "나흘내린코스피,6600선지킬까…유가·美금리에반등시험대",
-    "원·달러환율'1500→1300원대'...\"1200원대진입가능성\"전망도",
-    "SK이노,‘WCE2026’서AI시대‘통합에너지솔루션’선봬",
-    "잡코리아\"상반기AI직무공고128%↑…22%는비개발직무\"",
-    "[특징주]'삼전닉스'반도체대형株…프리마켓보합권등락",
-    "SK바이오사이언스,소아감염병예방최신정보공유",
     "SK,WCE서'통합에너지설루션'공개…에너지·AI기술집결",
     "잡코리아,올해상반기AI직무공고128%증가…5건중1건은비개발...",
     "잡코리아,상반기AI직무공고128%증가…비개발직무비중21.6%",
@@ -3362,10 +3376,16 @@
     "코스피6600선후퇴에도…4대금융주는'역주행'",
     "짐펜트라·엑스코프리,2027년'연매출10억달러'돌파전망…국산첫...",
     "“병원대기시간AI가전화해확인”…SKT의‘실행형에이전트’",
-    "KCHP,국내반도체20종목뉴욕증권거래소아카상장"
+    "KCHP,국내반도체20종목뉴욕증권거래소아카상장",
+    "SKT,스타트업과'윈윈'파트너십강화…정재헌CEO,현장소통행보",
+    "[현승윤칼럼]수도권버금가는메가시티탄생은대한민국의축복",
+    "[최영운의소갈머리]'AI속도조절론'논쟁이반가운이유",
+    "풍력·SMR·AI까지…부산에펼쳐진‘기후산업의미래’",
+    "[전망]10월국내LPG판매가격'소폭인상'무게",
+    "\"코스피아직바닥아니다\"…김영익교수가경고한증시시나리오"
    ],
    "initialized": true,
-   "last_run": "2026-09-17T00:25:19.050661+09:00"
+   "last_run": "2026-09-17T00:30:30.682282+09:00"
   }
  },
  "press_names": {
