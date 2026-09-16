@@ -1042,16 +1042,21 @@
     [
      "2026-09-16T19:20:25.580971+09:00",
      "드림에이지 해긴 주요 소식"
+    ],
+    [
+     "2026-09-16T19:30:33.128563+09:00",
+     "직업별 됐다 가능성 사이 대체 계산 일자리 기준이"
+    ],
+    [
+     "2026-09-16T19:30:33.128563+09:00",
+     "기술로 문제 JS솔루션 현장의 푸는 모듈 안전 반도체 화재 산업 묵은"
+    ],
+    [
+     "2026-09-16T19:30:33.128563+09:00",
+     "단기 장기적 제한은 반도체 영향 YES 속도조절론 타격"
     ]
    ],
    "seen_urls": [
-    "https://www.investchosun.com/site/data/html_dir/2026/09/15/2026091580141.html",
-    "https://www.investchosun.com/site/data/html_dir/2026/09/15/2026091580145.html",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609141613580640105856",
-    "https://www.newsis.com/view/NISX20260915_0003790567",
-    "https://www.news1.kr/industry/general-industry/6291440",
-    "https://www.news1.kr/industry/general-industry/6291723",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=446718",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8664543",
     "https://en.yna.co.kr/view/AEN20260916000500320?input=2106m",
     "https://www.womennews.co.kr/news/articleView.html?idxno=282240",
@@ -2544,16 +2549,16 @@
     "https://www.ajunews.com/view/20260916080246240",
     "https://news.mtn.co.kr/news-detail/2026091618503155253",
     "https://it.chosun.com/news/articleView.html?idxno=2023092170320",
-    "https://www.gamevu.co.kr/news/articleView.html?idxno=60861"
+    "https://www.gamevu.co.kr/news/articleView.html?idxno=60861",
+    "https://www.edaily.co.kr/News/Read?newsId=05172566645580776&mediaCodeNo=257",
+    "http://www.inews24.com/view/2006460",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=444452",
+    "https://byline.network/?p=9004111222620400",
+    "https://www.seoul.co.kr/news/economy/industry/2026/09/16/20260916500285?wlog_tag3=naver",
+    "https://it.donga.com/109543/",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8665181"
    ],
    "seen_titles": [
-    "'마의5%'뚫린美국채금리…\"실적株중심대응해야\"",
-    "美국채금리5%·유가100달러돌파…코스피,연이틀하락압력",
-    "국산신약첫‘블록버스터’눈앞…짐펜트라·엑스코프리내년1조돌...",
-    "[ICK혁신대학을가다/영진전문대학교]품격(格)이다른'글로벌취업...",
-    "한국투자증권,ELW268종목신규상장外",
-    "[재계빅4,지배구조2.0리포트③]최태원,자사주방패태운다…‘32%...",
-    "현대건설·롯데건설·대우건설톱3…건설사브랜드빅데이터28%늘었다",
     "25표차부결됐던SK하닉임단협,오늘재투표마감",
     "[뉴욕증시]국채5%·유가108달러'더블펀치',이틀째휘청···반도체...",
     "[오늘의주요일정·16일]한성숙총리국가테러대책위원회",
@@ -4046,10 +4051,17 @@
     "개인정보유출신고3년새2.7배…전문조사인력확충'한계'",
     "[급등수사본부]미'블룸에너지·블룸SK퓨얼셀'향공급확대'한선엔지...",
     "방미통위,고가요금제유도대처강화",
-    "[게임뉴스]드림에이지및해긴외주요소식"
+    "[게임뉴스]드림에이지및해긴외주요소식",
+    "증권사STO독자플랫폼구축붐…대형SI·블록체인社'수주전'",
+    "정재헌CEO만난협력사대표들\"SKT,가장스타트업친화적\"",
+    "SK하이닉스\"美메모리생산·인텔협력확정된바없어\"",
+    "SKT,F5보안솔루션재판매파트너계약체결",
+    "‘AI’가일자리새기준이됐다…직업별‘AI대체가능성’계산사이...",
+    "반도체모듈·화재안전기술로산업현장의묵은문제푸는‘JS솔루션...",
+    "‘AI속도조절론’에K반도체타격?…“단기영향YES,장기적제한은..."
    ],
    "initialized": true,
-   "last_run": "2026-09-16T19:25:19.849885+09:00"
+   "last_run": "2026-09-16T19:30:33.128563+09:00"
   }
  },
  "press_names": {
