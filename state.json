@@ -214,12 +214,17 @@
     [
      "2026-09-17T04:45:20.423459+09:00",
      "거미줄 유리 천장에 매달린 거대한 한옥"
+    ],
+    [
+     "2026-09-17T04:55:23.399481+09:00",
+     "코스닥 이제 곳만 상위 기업 바이오 시총 7곳이었는데 남았 10곳"
+    ],
+    [
+     "2026-09-17T04:55:23.399481+09:00",
+     "삼성전자 이것은 한국 신발인가 디즈니가 반한 스타 스마트폰인가"
     ]
    ],
    "seen_urls": [
-    "https://news.mtn.co.kr/news-detail/2026091609151472245",
-    "https://www.sedaily.com/article/20091462",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=664635",
     "https://www.dt.co.kr/article/12084206",
     "https://www.mediapen.com/news/view/1123857",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000065916",
@@ -1716,12 +1721,12 @@
     "https://biz.sbs.co.kr/article_hub/20000335103?division=NAVER",
     "https://biz.sbs.co.kr/article_hub/20000335102?division=NAVER",
     "https://www.donga.com/news/Economy/article/all/20260917/134684842/2",
-    "https://www.donga.com/news/Culture/article/all/20260917/134684622/2"
+    "https://www.donga.com/news/Culture/article/all/20260917/134684622/2",
+    "https://biz.sbs.co.kr/article_hub/20000335108?division=NAVER",
+    "https://www.mk.co.kr/article/12154897",
+    "https://www.chosun.com/economy/startup_story/2026/09/17/NY776DP455DPRESFCOM6SU23ZU/"
    ],
    "seen_titles": [
-    "계약학과지원자38.7%증가…7개대기업연계2478명",
-    "\"1990년대도입TV시청측정,시대뒤처져\"...IPTV3사,1800만대데이터...",
-    "[K-행동주의2.0]강대권라이프운용대표\"패자없는인게이지먼트…핵...",
     "기업에돈은몰리고있는데…‘생산적금융’효과는어디에?",
     "SK,'AI해커톤'마무리…구성원이직접AX해법찾았다",
     "SK하이닉스임단협수정안가결…성과급주식비중50%",
@@ -3218,10 +3223,13 @@
     "너무비싼가...낸드값인상자제나선日키옥시아",
     "\"SK하이닉스,인텔과美서메모리생산논의\"",
     "“SK하이닉스,인텔과美서메모리생산검토”",
-    "한옥천장에매달린거대한‘유리거미줄’"
+    "한옥천장에매달린거대한‘유리거미줄’",
+    "[글로벌비즈브리핑]\"SK하이닉스,인텔과美서메모리생산논의\"外",
+    "코스닥시총상위10곳중7곳이었는데…바이오기업,이제한곳만남았...",
+    "“이것은신발인가,스마트폰인가”삼성전자·디즈니가반한한국스타..."
    ],
    "initialized": true,
-   "last_run": "2026-09-17T04:50:22.940188+09:00"
+   "last_run": "2026-09-17T04:55:23.399481+09:00"
   }
  },
  "press_names": {
