@@ -354,16 +354,33 @@
     [
      "2026-09-18T00:10:23.807267+09:00",
      "연휴 오후 25일 귀성길 11시 추석 가장 귀경길 오전 24일 1시"
+    ],
+    [
+     "2026-09-18T00:20:27.106413+09:00",
+     "프레임 숨지 합의 말고 노사정 뒤에 정부가"
+    ],
+    [
+     "2026-09-18T00:20:27.106413+09:00",
+     "반등 금리 약세 유가 하락에 단기채 인상에 장기채"
+    ],
+    [
+     "2026-09-18T00:20:27.106413+09:00",
+     "부정적 재확인 인프라 HBM 인텔 CXL에 오픈AI도 서밋서 독주"
+    ],
+    [
+     "2026-09-18T00:20:27.106413+09:00",
+     "총정리 가격은 폴더블 시리즈 혜택 출시일 통신사별 아이폰18"
+    ],
+    [
+     "2026-09-18T00:20:27.106413+09:00",
+     "차세대 비전 SK하이닉스 PIM 메모리 가능 연산 서밋서 기반"
+    ],
+    [
+     "2026-09-18T00:20:27.106413+09:00",
+     "SK하이닉스 우려 해소 인텔 손잡나 압박 기술유출 투자"
     ]
    ],
    "seen_urls": [
-    "https://www.dt.co.kr/article/12084440",
-    "https://biz.sbs.co.kr/article_hub/20000335134?division=NAVER",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000066299",
-    "https://www.fnnews.com/news/202609170710593561",
-    "https://www.jasm.co.kr/news/articleView.html?idxno=315739",
-    "https://www.globale.co.kr/news/articleView.html?idxno=40446",
-    "http://www.inews24.com/view/2006496",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=245758",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487774",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003267634&CMPT_CD=P0010",
@@ -1856,16 +1873,16 @@
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067683",
     "https://www.betanews.net/article/view/beta202609170084",
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067688",
-    "https://www.kwnews.co.kr/article/20260917501878"
+    "https://www.kwnews.co.kr/article/20260917501878",
+    "http://www.ktnews.com/news/articleView.html?idxno=148680",
+    "https://www.joongang.co.kr/article/25462874",
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433669",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=607665",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3698945",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=607705",
+    "https://www.ytn.co.kr/_ln/0102_202609180009178292"
    ],
    "seen_titles": [
-    "CXL은보완일뿐,AI시장에서HBM독주계속될듯",
-    "[마켓브리핑]美다시인플레의전쟁선포…금리0.25%p인상",
-    "\"전쟁장기화우려\"…국내정유·유화업계'경영타격'긴장",
-    "HBM독주계속된다…\"CXL,저장장치보완재일뿐\"",
-    "[뉴욕증시]금리인상·워시매파발언에뉴욕증시하락…S&P·다우동반하...",
-    "미연준3년2개월만에금리인상,뉴욕증시또일제히하락",
-    "뉴욕증시,연준기준금리인상에하락⋯다우1.21%↓",
     "[부고종합·16일]정남준전행정안전부차관모친상등",
     "오픈AI대니얼모리스\"CXL쓰임새못찾겠다\"…HBM독주이어지나",
     "'대박'이라던삼성파운드리의민낯과정부의오판[반도체특별과외]",
@@ -3358,10 +3375,17 @@
     "동서발전,방콕서LNG공급기업3곳과협약",
     "코스피,美기준금리인상에약보합마감",
     "[제7기차세대CEO아카데미(특강)]김상욱울산시장\"울산새성장축,제...",
-    "추석연휴귀성길‘24일오전11시’귀경길‘25일오후1시’가장막..."
+    "추석연휴귀성길‘24일오전11시’귀경길‘25일오후1시’가장막...",
+    "중국산'K뷰티',쿠팡·네이버타고전국팔렸다",
+    "[박영범의이코노믹스]‘노사정합의’프레임뒤에숨지말고정부가...",
+    "美금리인상에단기채약세…유가·美금리하락에장기채반등",
+    "AI인프라서밋서HBM독주재확인…인텔·오픈AI도CXL에부정적",
+    "'아이폰18시리즈출시일'통신사별혜택총정리...폴더블가격은?",
+    "SK하이닉스,美서밋서'연산가능메모리'(PIM)기반차세대AI비전공...",
+    "SK하이닉스,인텔손잡나?...\"투자압박해소\"\"기술유출우려\""
    ],
    "initialized": true,
-   "last_run": "2026-09-18T00:15:29.237294+09:00"
+   "last_run": "2026-09-18T00:20:27.106413+09:00"
   }
  },
  "press_names": {
