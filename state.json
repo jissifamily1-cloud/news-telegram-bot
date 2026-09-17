@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-17T13:20:24.129512+09:00",
-     "성적 청약 몰린 이유 125배 반세권인데 동탄에 같은 통장"
-    ],
-    [
-     "2026-09-17T13:20:24.129512+09:00",
-     "사무국장 몰랐다 오산시 가짜 중인 해프닝 채용"
-    ],
-    [
-     "2026-09-17T13:20:24.129512+09:00",
-     "감속론 영업익 만난 3분기 삼전닉스 환율 190조 가능할까"
-    ],
-    [
-     "2026-09-17T13:20:24.129512+09:00",
-     "실체 1000억원 노소영 있나 셈법 논란"
-    ],
-    [
-     "2026-09-17T13:20:24.129512+09:00",
-     "반도체 퍼듀대와 인디애나 주미대사 연구시설 강경화 방문"
-    ],
-    [
      "2026-09-17T13:35:17.186504+09:00",
      "넘어 자율주행 상승랠리 시스템반도체로 타고 메모리"
     ],
@@ -1118,14 +1098,13 @@
     [
      "2026-09-17T19:10:26.536813+09:00",
      "4곳 10곳 추석 상여금 기업 경기 어려워"
+    ],
+    [
+     "2026-09-17T19:20:30.251893+09:00",
+     "금리인상에도 코스피는 유지 3년 연준 6700선"
     ]
    ],
    "seen_urls": [
-    "https://www.donga.com/news/Culture/article/all/20260917/134684622/2",
-    "https://biz.sbs.co.kr/article_hub/20000335108?division=NAVER",
-    "https://www.mk.co.kr/article/12154897",
-    "https://www.chosun.com/economy/startup_story/2026/09/17/NY776DP455DPRESFCOM6SU23ZU/",
-    "https://www.hani.co.kr/arti/economy/finance/1278187.html",
     "https://www.seoul.co.kr/news/economy/securities/2026/09/17/20260917031006?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/economy/IT/2026/09/17/20260917029001?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/economy/industry/2026/09/17/20260917030002?wlog_tag3=naver",
@@ -2620,14 +2599,14 @@
     "https://magazine.hankyung.com/business/article/202609172284b",
     "https://www.dailian.co.kr/news/view/1691880/?sc=Naver",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260918.22012005748",
-    "https://futurechosun.com/?p=160621"
+    "https://futurechosun.com/?p=160621",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092170413",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000013130&cp=nv",
+    "https://view.asiae.co.kr/article/2026091719144836146",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063684",
+    "https://www.womentimes.co.kr/news/articleView.html?idxno=106316"
    ],
    "seen_titles": [
-    "한옥천장에매달린거대한‘유리거미줄’",
-    "[글로벌비즈브리핑]\"SK하이닉스,인텔과美서메모리생산논의\"外",
-    "코스닥시총상위10곳중7곳이었는데…바이오기업,이제한곳만남았...",
-    "“이것은신발인가,스마트폰인가”삼성전자·디즈니가반한한국스타...",
-    "[현장에서]증권사수수료잔치가‘생산적금융’?…금융위의‘흐린...",
     "美FOMC만보는박스권코스피",
     "입사부터퇴사까지AI가찍는다",
     "“SK하이닉스,인텔과美생산협의”",
@@ -4122,10 +4101,15 @@
     "SK온,엘앤에프와1600억규모LFP양극재공급계약",
     "SK바이오팜,파킨슨병신약으로'외연확장'승부",
     "국내최대자본시장IR(기업설명)행사출범",
-    "[더나은미래경제브리핑]기업10곳중4곳“경기어려워,추석상여금..."
+    "[더나은미래경제브리핑]기업10곳중4곳“경기어려워,추석상여금...",
+    "SK온,엘앤에프서1600억규모ESS용LFP양극재조달",
+    "한경협,美건국250주년만찬…“안보넘어경제·기술동맹으로”",
+    "SK온,엘앤에프와1600억LFP양극재계약…ESS'탈중국'속도",
+    "SK온,엘앤에프서LFP양극재1600억조달…한·미ESS공략속도",
+    "연준3년만금리인상에도…코스피는6700선유지"
    ],
    "initialized": true,
-   "last_run": "2026-09-17T19:15:24.162424+09:00"
+   "last_run": "2026-09-17T19:20:30.251893+09:00"
   }
  },
  "press_names": {
