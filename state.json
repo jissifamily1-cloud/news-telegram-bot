@@ -706,14 +706,13 @@
     [
      "2026-09-17T22:05:19.653553+09:00",
      "내로 도요토미 등장시킨 아시안게임에 이순신은 된다더니"
+    ],
+    [
+     "2026-09-17T22:30:31.353196+09:00",
+     "음악인 디딤돌 젊은 위너 콘서트 성정문화재단"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20091832",
-    "http://www.metroseoul.co.kr/article/20260917500005",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=171403",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1724561",
-    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005923212",
     "https://www.news2day.co.kr/article/20260917500019",
     "https://www.topstarnews.net/news/articleView.html?idxno=16196379",
     "https://www.ajunews.com/view/20260917070420794",
@@ -2208,14 +2207,14 @@
     "https://www.livebiz.today/news/articleView.html?idxno=204967",
     "http://www.popcornnews.net/news/articleView.html?idxno=133388",
     "https://www.sedaily.com/article/20092399",
-    "https://swtvnews.com/news/newsview.php?ncode=179586003823379"
+    "https://swtvnews.com/news/newsview.php?ncode=179586003823379",
+    "https://www.energy-news.co.kr/news/articleView.html?idxno=228310",
+    "https://www.thelec.kr/news/articleView.html?idxno=62472",
+    "http://www.4th.kr/news/articleView.html?idxno=2118291",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=228104",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1537899"
    ],
    "seen_titles": [
-    "코스피5일만에반등했지만…개미는“레버리지팔고인버스베팅”[...",
-    "\"코스피,2006년이후가장싼구간\"…하반기이익·주주환원주목",
-    "FED쇼크속,나스닥100은'선방'..AI주·인텔·스페이스X'활짝'",
-    "美금리인상에국채5%…코스피,반도체로버티나",
-    "증시오늘'핫이슈'…\"뉴욕증시,미연준기준금리인상에하락\"",
     "[투데이Pick]美금리인상에코스피도시험대…환율·외인수급‘촉각...",
     "미국증시,연준추가인상신호에하락…다우1.21%↓·엔비디아는반등",
     "[뉴욕증시마감]연준금리인상·추가긴축신호에하락…다우1.21%↓",
@@ -3710,10 +3709,15 @@
     "SK그룹부회장단'총출동'...SK하이닉스임원250명1대1심층면담",
     "SK온,엘앤에프와1600억LFP양극재계약…ESS공급망강화",
     "“이순신은안된다더니”…도요토미등장시킨日아시안게임에‘내로...",
-    "[쇼츠인터뷰]'홀인원&공동선두'성유진하나금융챔피언십1R코멘트"
+    "[쇼츠인터뷰]'홀인원&공동선두'성유진하나금융챔피언십1R코멘트",
+    "SK온,ESS용LFP양극재국산화···엘앤에프와3년계약",
+    "SK온,엘앤에프서1600억원규모LFP양극재구매",
+    "셀라딕스·가히·고려은단비타민등짝퉁…쿠팡·네이버서45억원유통",
+    "이상일용인시장,핵심리더과정특강…'용인르네상스2.0'비전제시",
+    "성정문화재단,위너콘서트…\"젊은음악인디딤돌\""
    ],
    "initialized": true,
-   "last_run": "2026-09-17T22:25:22.160508+09:00"
+   "last_run": "2026-09-17T22:30:31.353196+09:00"
   }
  },
  "press_names": {
