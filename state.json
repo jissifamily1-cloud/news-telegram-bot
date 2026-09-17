@@ -646,11 +646,17 @@
     [
      "2026-09-17T22:50:25.129677+09:00",
      "SK바이오팜에 퍼스트바이오테라퓨틱스 308억원 파킨슨병 후보물질"
+    ],
+    [
+     "2026-09-17T23:00:38.565070+09:00",
+     "한국 없다 인력난에 사람이 반도체 지어도 긴급 직원까지 공장"
+    ],
+    [
+     "2026-09-17T23:00:38.565070+09:00",
+     "2차관 이호현 파트너십 주요 있는 회복력 20개국에 기후 전력망"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000335118?division=NAVER",
-    "https://www.yna.co.kr/view/AKR20260917016800091?input=1195m",
     "https://weekly.donga.com/3/all/11/6389041/1",
     "http://www.segyebiz.com/newsView/20260916514409?OutUrl=naver",
     "https://www.newscj.com/news/articleView.html?idxno=3433347",
@@ -2148,11 +2154,11 @@
     "https://www.tokenpost.kr/news/breaking/409761",
     "https://www.topstarnews.net/news/articleView.html?idxno=16197446",
     "https://www.goal.com/kr/뉴스/ablt8d08439497291d1b",
-    "http://www.paxetv.com/news/articleView.html?idxno=282235"
+    "http://www.paxetv.com/news/articleView.html?idxno=282235",
+    "https://www.newspim.com/news/view/20260917001303",
+    "https://biz.heraldcorp.com/article/10877660"
    ],
    "seen_titles": [
-    "[증시전략]워시의장-트럼프갈등,중간선거앞두고격화전망",
-    "AI시장HBM독주계속될듯…\"대체기술CXL,저장장치보완재일뿐\"",
     "트럼프-시진핑‘반도체빅딜’가능성…경보음켜진K-반도체",
     "‘AI는개발자만의직무?’…비개발AI직무공고비중1년새갑절‘껑...",
     "[경제인사이드]공사비보고현장살피는AI…건설사활용영역넓어진...",
@@ -3650,10 +3656,12 @@
     "SK하이닉스·마이크론,장중주가상승폭나란히5%로확대",
     "미국증시,연준금리인상충격털고반등…유가·금리하락에반도체강...",
     "[오피셜]'드리블에이은환상스루패스'대구세징야,8월'페덱스이...",
-    "퍼스트바이오테라퓨틱스,SK바이오팜에파킨슨병후보물질'4,308억원규..."
+    "퍼스트바이오테라퓨틱스,SK바이오팜에파킨슨병후보물질'4,308억원규...",
+    "AI반도체공장지어도사람이없다…美인력난에한국직원까지'긴급...",
+    "이호현기후2차관,주요20개국에‘회복력있는전력망파트너십’제..."
    ],
    "initialized": true,
-   "last_run": "2026-09-17T22:55:22.327028+09:00"
+   "last_run": "2026-09-17T23:00:38.565070+09:00"
   }
  },
  "press_names": {
