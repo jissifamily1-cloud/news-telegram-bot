@@ -390,14 +390,21 @@
     [
      "2026-09-18T00:00:38.919770+09:00",
      "나스닥 금리보다 유가 급반등 하루만에 증시"
+    ],
+    [
+     "2026-09-18T00:10:23.807267+09:00",
+     "인상에 코스피 기준금리 약보합마감"
+    ],
+    [
+     "2026-09-18T00:10:23.807267+09:00",
+     "울산 울산시장 김상욱 성장축"
+    ],
+    [
+     "2026-09-18T00:10:23.807267+09:00",
+     "연휴 오후 25일 귀성길 11시 추석 가장 귀경길 오전 24일 1시"
     ]
    ],
    "seen_urls": [
-    "https://www.newscj.com/news/articleView.html?idxno=3433257",
-    "https://www.mk.co.kr/article/12154484",
-    "https://www.hankyung.com/article/2026091691481",
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2301746",
-    "http://www.econonews.co.kr/news/articleView.html?idxno=444460",
     "https://www.dt.co.kr/article/12084440",
     "https://biz.sbs.co.kr/article_hub/20000335134?division=NAVER",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000066299",
@@ -1892,14 +1899,14 @@
     "http://www.worktoday.co.kr/news/articleView.html?idxno=89415",
     "https://www.sedaily.com/article/20092412",
     "https://www.sedaily.com/article/20092420",
-    "https://www.hankyung.com/article/202609172437i"
+    "https://www.hankyung.com/article/202609172437i",
+    "https://www.newsis.com/view/NISX20260917_0003793578",
+    "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067683",
+    "https://www.betanews.net/article/view/beta202609170084",
+    "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067688",
+    "https://www.kwnews.co.kr/article/20260917501878"
    ],
    "seen_titles": [
-    "[기자수첩]2500억AI띄우기전'전국민지킬보안'부터",
-    "매경이전하는세상의지식(매-세-지,9월17일)",
-    "성과급수억받는'반도체부자'…종착지는결국'이곳'",
-    "[김재근칼럼]대통령만모르는지지율하락의원인",
-    "뉴욕증시,연준기준금리인상등영향하락⋯BofA2%대,골드만삭스3%...",
     "CXL은보완일뿐,AI시장에서HBM독주계속될듯",
     "[마켓브리핑]美다시인플레의전쟁선포…금리0.25%p인상",
     "\"전쟁장기화우려\"…국내정유·유화업계'경영타격'긴장",
@@ -3394,10 +3401,15 @@
     "SK온,엘앤에프와1600억원규모LFP양극재공급계약",
     "대한상의,청년4.9만명취업지원",
     "“AI공격맞설해법은‘연대’…어제의경쟁자와도손잡아야”",
-    "\"금리보다유가\"…美증시하루만에급반등,나스닥1.6%↑"
+    "\"금리보다유가\"…美증시하루만에급반등,나스닥1.6%↑",
+    "\"인텔과손잡는순간터집니다\"…SK하이닉스호재에반도체장비업체주...",
+    "동서발전,방콕서LNG공급기업3곳과협약",
+    "코스피,美기준금리인상에약보합마감",
+    "[제7기차세대CEO아카데미(특강)]김상욱울산시장\"울산새성장축,제...",
+    "추석연휴귀성길‘24일오전11시’귀경길‘25일오후1시’가장막..."
    ],
    "initialized": true,
-   "last_run": "2026-09-18T00:05:19.500862+09:00"
+   "last_run": "2026-09-18T00:10:23.807267+09:00"
   }
  },
  "press_names": {
