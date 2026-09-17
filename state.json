@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-18T00:45:22.899274+09:00",
-     "88조 됐다 큰손 하이닉스 자산 채권시장 현금성"
-    ],
-    [
-     "2026-09-18T00:45:22.899274+09:00",
-     "온다 가혹한 긴축이"
-    ],
-    [
      "2026-09-18T00:55:20.018870+09:00",
      "특화 단지 허브로 조성 소부장 반도체 익산역을 교통"
     ],
@@ -246,10 +238,13 @@
     [
      "2026-09-18T06:39:36.280993+09:00",
      "버틴 인상에도 여전 변수는 코스피 금리"
+    ],
+    [
+     "2026-09-18T06:50:24.331695+09:00",
+     "기술주 외국인 기대 반도체 훈풍에 귀환 코스피"
     ]
    ],
    "seen_urls": [
-    "https://www.insight.co.kr/news/573905",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=301088",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000066314",
     "https://www.edaily.co.kr/News/Read?newsId=02591206645581104&mediaCodeNo=257",
@@ -1748,10 +1743,10 @@
     "https://www.hankyung.com/article/2026091719006",
     "https://www.bloter.net/news/articleView.html?idxno=673860",
     "https://www.mt.co.kr/economy/2026/09/18/2026091718494438647",
-    "https://imnews.imbc.com/replay/2026/nwtoday/article/6852652_37012.html"
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6852652_37012.html",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1724755"
    ],
    "seen_titles": [
-    "\"SK하이닉스,인텔과美메모리생산협의중\"",
     "[굿모닝!글로벌뉴욕증시]Fed의금리인상및케빈워시연준의장매파...",
     "\"CXL로HBM못넘는다\"…AI시대'고대역폭메모리'독주계속",
     "美증시연준금리인상에하락…반도체주선방[뉴스새벽배송]",
@@ -3250,10 +3245,11 @@
     "\"사내대출로집안사는게이상\"…반도체머니에'들썩'[시장톡]",
     "[K바이오돈의경로]재무에서투자로…커진유창호입지｜SK바이오팜②",
     "면접갔더니\"경력없네요?\"...인턴마저퇴짜,청년어디로",
-    "금리인상에도버틴코스피‥변수는여전"
+    "금리인상에도버틴코스피‥변수는여전",
+    "美기술주·반도체훈풍에코스피외국인귀환기대"
    ],
    "initialized": true,
-   "last_run": "2026-09-18T06:45:22.524075+09:00"
+   "last_run": "2026-09-18T06:50:24.331695+09:00"
   }
  },
  "press_names": {
