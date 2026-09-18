@@ -242,16 +242,33 @@
     [
      "2026-09-19T08:25:16.647577+09:00",
      "국가 이후 G3 챗GPT 경쟁에"
+    ],
+    [
+     "2026-09-19T08:35:17.606656+09:00",
+     "해외로 공급망 기업 강화 재편 생산지도 국내선 생산거점은"
+    ],
+    [
+     "2026-09-19T08:35:17.606656+09:00",
+     "정규장 삼성전자 할인 종가보다"
+    ],
+    [
+     "2026-09-19T08:35:17.606656+09:00",
+     "제동 경쟁약도 안전성 임상 SK바이오팜 Kv7 시험대 신약"
+    ],
+    [
+     "2026-09-19T08:35:17.606656+09:00",
+     "초격차 추격 CXMT 마이크론 K메모리 쌍끌이 흔들"
+    ],
+    [
+     "2026-09-19T08:35:17.606656+09:00",
+     "추석 돈맥경화 중기 명절이 두렵다"
+    ],
+    [
+     "2026-09-19T08:35:17.606656+09:00",
+     "RISE 순자산 KB운용 ETF 코리아밸류업위클리고정커버드콜"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000335410?division=NAVER",
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258862",
-    "https://www.mediapen.com/news/view/1124453",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1724758",
-    "https://news.bizwatch.co.kr/article/market/2026/09/17/0013",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701497",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=53041",
     "https://www.thepublic.kr/news/articleView.html?idxno=319237",
     "https://www.sedaily.com/article/20092432",
     "https://www.thepublic.kr/news/articleView.html?idxno=319239",
@@ -1744,16 +1761,16 @@
     "https://www.edaily.co.kr/News/Read?newsId=01804006645581760&mediaCodeNo=257",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4435741",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4435740",
-    "https://www.seoulfn.com/news/articleView.html?idxno=638250"
+    "https://www.seoulfn.com/news/articleView.html?idxno=638250",
+    "http://www.bizwnews.com/news/articleView.html?idxno=146750",
+    "http://www.sisafocus.co.kr/news/articleView.html?idxno=365192",
+    "https://www.tokenpost.kr/news/insights/410597",
+    "https://www.medipana.com/news/articleView.html?idxno=417928",
+    "https://www.etoday.co.kr/news/view/2627464",
+    "https://biz.heraldcorp.com/article/10878590",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1724917"
    ],
    "seen_titles": [
-    "SK온,엘앤에프서1600억LFP양극재조달…ESS‘탈중국’공급망강화",
-    "\"2030년자립\"큰소리친젠슨황…10년벽갇힌中노광장비의맨얼굴",
-    "이상일용인특례시장,\"반도체서나올성과...시민윤택한삶누리게\"",
-    "[KFT모닝브리프]2026.09.18—오늘꼭알아야할국내외경제뉴스",
-    "경기도,용인반도체클러스터점검…용수공급과방류수저감방안등...",
-    "[증시전략]美금리올리자국채금리하락반전…불안감잦아드나?",
-    "[넥스트-샷]금리인상충격은하루짜리?···유가꺾이자나스닥1.7%...",
     "[美증시]젠슨황\"내년칩판매량2배로증가\"…AI수요고점론일축",
     "마이크론대만노조\"영업익15%나눠라\"…삼성·SK성과급제도소환",
     "[단독]변동성증시안전판필요...금투협,공모펀드활성화재시동",
@@ -3246,10 +3263,17 @@
     "SK바이오팜세노바메이트‘공급규모확대’어디까지…美처방확대...",
     "\"AI인프라병목,GPU에서'메모리'로이동…내년공급부족심화\"",
     "美국채5%인데'삼전닉스'왜버티나…50년전'니프티피프티'교훈",
-    "[창간24/한국의AI③]챗GPT이후'AIG3'로···韓,AI국가경쟁에..."
+    "[창간24/한국의AI③]챗GPT이후'AIG3'로···韓,AI국가경쟁에...",
+    "[헬스HOT뉴스]SK바이오팜'세노바메이트',일본신약허가획득",
+    "[이슈]생산거점은해외로,국내선공급망강화…기업생산지도재편",
+    "[온체인주식선물]삼성전자,정규장종가보다1.13%할인",
+    "SK바이오팜경쟁약도임상제동…Kv7신약안전성시험대",
+    "中CXMT·美마이크론‘쌍끌이추격’⋯K메모리초격차흔들",
+    "명절이더두렵다…중기,추석앞‘돈맥경화’[중기+]",
+    "[운용&Now]KB운용RISE코리아밸류업위클리고정커버드콜ETF,순자산3..."
    ],
    "initialized": true,
-   "last_run": "2026-09-19T08:30:28.696065+09:00"
+   "last_run": "2026-09-19T08:35:17.606656+09:00"
   }
  },
  "press_names": {
