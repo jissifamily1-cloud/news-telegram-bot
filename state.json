@@ -226,17 +226,25 @@
     [
      "2026-09-19T08:15:21.074326+09:00",
      "속도 달릴까 다시 반도체주 조절론 vs 젠슨"
+    ],
+    [
+     "2026-09-19T08:25:16.647577+09:00",
+     "확대 처방 규모 공급 SK바이오팜 세노바메이트 어디까지"
+    ],
+    [
+     "2026-09-19T08:25:16.647577+09:00",
+     "내년 병목 인프라 공급부족 GPU에서 심화 메모리 이동"
+    ],
+    [
+     "2026-09-19T08:25:16.647577+09:00",
+     "니프티 인데 버티나 피프티 삼전닉스 50년전 교훈 국채"
+    ],
+    [
+     "2026-09-19T08:25:16.647577+09:00",
+     "국가 이후 G3 챗GPT 경쟁에"
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1691812/?sc=Naver",
-    "http://www.economytalk.kr/news/articleView.html?idxno=424174",
-    "https://biz.sbs.co.kr/article_hub/20000335423?division=NAVER",
-    "https://biz.heraldcorp.com/article/10877719",
-    "https://www.g-enews.com/view.php?ud=20260918063833324fbbec65dfb_1",
-    "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160299436715648",
-    "https://www.fntimes.com/html/view.php?ud=202609180641154063141825007d_18",
-    "https://view.asiae.co.kr/article/2026091807124646107",
     "https://biz.sbs.co.kr/article_hub/20000335410?division=NAVER",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258862",
     "https://www.mediapen.com/news/view/1124453",
@@ -1728,17 +1736,17 @@
     "https://biz.sbs.co.kr/article_hub/20000335323?division=NAVER",
     "https://www.newsis.com/view/NISX20260918_0003794854",
     "https://www.sidae.com/article/2026091714102976779",
-    "https://www.mt.co.kr/stock/2026/09/19/2026091816351285150"
+    "https://www.mt.co.kr/stock/2026/09/19/2026091816351285150",
+    "https://sports.donga.com/region/article/all/20260919/134700178/1",
+    "https://www.econovill.com/news/articleView.html?idxno=751329",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16199308",
+    "https://www.the-today.com/news/articleView.html?idxno=90404",
+    "https://www.edaily.co.kr/News/Read?newsId=01804006645581760&mediaCodeNo=257",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4435741",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4435740",
+    "https://www.seoulfn.com/news/articleView.html?idxno=638250"
    ],
    "seen_titles": [
-    "매파FOMC에엇갈린코스피·코스닥…코스닥은왜버티나[코주부]",
-    "[WhoIs?]이기두HPSP대표이사",
-    "애플,팀쿡에서터너스로…AI·폴더블에삼성·LG·SK하이닉스기회커...",
-    "[에이전틱AI맵2026]셀렉트스타,AI에이전트임무수행전과정검증...",
-    "[경제간첩경보②]연구원부터협력사까지싹쓸이'두뇌사냥'",
-    "국산1호코로나백신은어디갔을까…허울뿐인'백신주권'[기자수첩...",
-    "SKT,스타트업과AI협업확대…현장에서본점검드론은'시에라베이스...",
-    "[마켓브리핑]하루만에분위기반전…연준'인플레와전쟁'선포",
     "SK온,엘앤에프서1600억LFP양극재조달…ESS‘탈중국’공급망강화",
     "\"2030년자립\"큰소리친젠슨황…10년벽갇힌中노광장비의맨얼굴",
     "이상일용인특례시장,\"반도체서나올성과...시민윤택한삶누리게\"",
@@ -3230,10 +3238,18 @@
     "SK하닉성과급갈등일단락…삼성노조는'두쪽'수순[많이본경제기...",
     "\"우린,늦출여유없다\"…美속도조절론속'韓AI'반격카드[AI감속론...",
     "OTT홍수시대,SKB'Btv+max'하나면끝",
-    "AI속도조절론vs젠슨황…반도체주다시달릴까?"
+    "AI속도조절론vs젠슨황…반도체주다시달릴까?",
+    "용인특례시,기업상생·산업혁신정책역량인정받았다",
+    "SK하이닉스솔리다임,美첫낸드생산거점검토...빅테크수요대응",
+    "미국증시,10년물5%재접근에도반도체강세…나스닥0.4%상승",
+    "이남우기업거버넌스회장,솔리다임美상장설…SK하이닉스주주보호...",
+    "SK바이오팜세노바메이트‘공급규모확대’어디까지…美처방확대...",
+    "\"AI인프라병목,GPU에서'메모리'로이동…내년공급부족심화\"",
+    "美국채5%인데'삼전닉스'왜버티나…50년전'니프티피프티'교훈",
+    "[창간24/한국의AI③]챗GPT이후'AIG3'로···韓,AI국가경쟁에..."
    ],
    "initialized": true,
-   "last_run": "2026-09-19T08:20:22.093625+09:00"
+   "last_run": "2026-09-19T08:25:16.647577+09:00"
   }
  },
  "press_names": {
