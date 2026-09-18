@@ -206,10 +206,13 @@
     [
      "2026-09-18T23:30:33.371200+09:00",
      "오름테라퓨틱 지어소프트 엘앤에프 한화시스템 두산"
+    ],
+    [
+     "2026-09-19T00:00:43.922838+09:00",
+     "스튜디오드래곤 한국가스공사 LS마린솔루션 한섬 오름테라퓨틱"
     ]
    ],
    "seen_urls": [
-    "http://www.osen.co.kr/article/G1112877364",
     "https://www.donga.com/news/Economy/article/all/20260918/134692542/2",
     "https://www.donga.com/news/Society/article/all/20260918/134691436/2",
     "https://www.mediapen.com/news/view/1124441",
@@ -1708,10 +1711,10 @@
     "http://sateconomy.co.kr/news/view/1065622014532518",
     "https://www.topstarnews.net/news/articleView.html?idxno=16199031",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609181750466090716",
-    "https://www.kdpress.co.kr/news/articleView.html?idxno=208739"
+    "https://www.kdpress.co.kr/news/articleView.html?idxno=208739",
+    "https://www.kdpress.co.kr/news/articleView.html?idxno=208750"
    ],
    "seen_titles": [
-    "'작년엔삼전,올해는하닉'새마을금고가계대출숙제",
     "'짜릿한홀인원'성유진,하나금융그룹챔피언십1R공동선두[KLPGA]",
     "60대가된MZ도피할수없는질병…'치매'는조기관리가답[Weekend헬스]",
     "[AI시대,권력대이동-신한투자증권]블록체인으로증권가혁신이끈다",
@@ -3210,10 +3213,11 @@
     "[김승원칼럼]추석앞당긴9.6조…상생에는빠른입금이더힘이세다",
     "미국증시,일본금리인상에장초반반락…국채금리5%·반도체는선별...",
     "용인시,‘대한민국문화경영대상’지방자치부문수상…'대기업과중...",
-    "[주요공시]오름테라퓨틱,한화시스템,엘앤에프,두산,지어소프트,SK..."
+    "[주요공시]오름테라퓨틱,한화시스템,엘앤에프,두산,지어소프트,SK...",
+    "한섬,LS마린솔루션,오름테라퓨틱,스튜디오드래곤,한국가스공사외"
    ],
    "initialized": true,
-   "last_run": "2026-09-18T23:56:49.081930+09:00"
+   "last_run": "2026-09-19T00:00:43.922838+09:00"
   }
  },
  "press_names": {
