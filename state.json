@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-18T23:30:33.371200+09:00",
-     "오름테라퓨틱 지어소프트 엘앤에프 한화시스템 두산"
-    ],
-    [
      "2026-09-19T00:00:43.922838+09:00",
      "스튜디오드래곤 한국가스공사 LS마린솔루션 한섬 오름테라퓨틱"
     ],
@@ -82,11 +78,17 @@
     [
      "2026-09-19T05:10:59.892910+09:00",
      "넘었지만 영상 현안 여전 우려 연임 부동산 기자회견 공소취소"
+    ],
+    [
+     "2026-09-19T05:35:18.841326+09:00",
+     "속도조절론까지 김근희의 종목은 증시 빅위크 FOMC부터 상승한"
+    ],
+    [
+     "2026-09-19T05:35:18.841326+09:00",
+     "속슬 마감 반도체 강세 급등 혼조세"
     ]
    ],
    "seen_urls": [
-    "https://m.sports.naver.com/basketball/article/065/0000301676",
-    "https://biz.chosun.com/stock/stock_general/2026/09/18/RA7VEHZP7RGXJPUFH6PXF5RGGU/",
     "https://www.news1.kr/finance/general-stock/6294575",
     "https://it.chosun.com/news/articleView.html?idxno=2023092170393",
     "https://daily.hankooki.com/news/articleView.html?idxno=1407370",
@@ -1584,11 +1586,11 @@
     "https://www.donga.com/news/Politics/article/all/20260919/134699711/2",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=171486",
     "https://www.mediapen.com/news/view/1124717",
-    "https://www.nocutnews.co.kr/news/6580767"
+    "https://www.nocutnews.co.kr/news/6580767",
+    "https://www.mt.co.kr/stock/2026/09/19/2026091817595497664",
+    "https://www.fnnews.com/news/202609190523172107"
    ],
    "seen_titles": [
-    "'NPU넘어AI인프라로'몸집키우는리벨리온",
-    "엔비디아2.5%,마이크론5.5%↑...반도체주,유가와금리하락에일제히...",
     "AI데이터센터냉각시장공략나선'K정유'..개발넘어실증본격화",
     "[美증시]'매파연준'이호재로둔갑,3대지수반등…반도체·M7주도",
     "[글로벌마켓뷰]뉴욕증시FOMC충격하루만에진정…SK하이닉스ADR등...",
@@ -3086,10 +3088,12 @@
     "“레버리지ETF,어떻게결정됐는지세부내용파악못해”",
     "WTI'급락'속...장중미국증시'혼조',마이크론'활짝'vsIGV'뚝'",
     "[美증시특징주]SK하이닉스·샌디스크급등…디램·낸드공급난+가격급...",
-    "첫현안기자회견…연임·공소취소넘었지만부동산등우려여전[영상..."
+    "첫현안기자회견…연임·공소취소넘었지만부동산등우려여전[영상...",
+    "FOMC부터AI속도조절론까지…빅위크중상승한종목은?[김근희의증시...",
+    "[뉴욕증시]혼조세마감…반도체강세속'속슬'8%급등"
    ],
    "initialized": true,
-   "last_run": "2026-09-19T05:30:30.141952+09:00"
+   "last_run": "2026-09-19T05:35:18.841326+09:00"
   }
  },
  "press_names": {
