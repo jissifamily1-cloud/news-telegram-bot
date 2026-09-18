@@ -162,11 +162,17 @@
     [
      "2026-09-19T00:25:21.040321+09:00",
      "장현국은 시간 규제 넥써쓰 지연을 않나 원스토어로 두려워하지"
+    ],
+    [
+     "2026-09-19T00:40:21.362238+09:00",
+     "셰프로 넘어 방앗간"
+    ],
+    [
+     "2026-09-19T00:40:21.362238+09:00",
+     "8배 회전율 상장주식 수의 빛샘전자"
     ]
    ],
    "seen_urls": [
-    "https://www.chosun.com/economy/industry-company/2026/09/18/7QHMEZAUBRCNRC2FUU2VYBANAY/",
-    "https://www.mediapen.com/news/view/1124443",
     "https://www.namdonews.com/news/articleView.html?idxno=923835",
     "https://www.fnnews.com/news/202609180516520666",
     "https://www.sedaily.com/article/20092425",
@@ -1664,11 +1670,11 @@
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=88550",
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433683",
     "https://www.joongang.co.kr/article/25463162",
-    "http://sateconomy.co.kr/news/view/1065539704513085"
+    "http://sateconomy.co.kr/news/view/1065539704513085",
+    "https://www.joongang.co.kr/article/25463173",
+    "http://www.kjdaily.com/article.php?aid=1789743601687204276"
    ],
    "seen_titles": [
-    "\"모두의AI야,엄마병원추천좀\"…3개컨소시엄,특장점뜯어보니",
-    "“GDP13위한국,체감경제는29위중27위”",
     "“반도체용수저수지직방류철회하라”",
     "SK하이닉스,협력사가족3만명서울랜드초청",
     "대한상의,청년5만명에실무노하우전한다",
@@ -3166,10 +3172,12 @@
     "[심층분석]\"반도체·2차전지대형주반등주도\"…시총상위종목수급...",
     "美금리올렸는데코스피6900육박…장기금리·유가떨어지자반도체...",
     "평생질문쫓는알파고아버지…“지능은어떻게작동하는가”",
-    "넥써쓰장현국은왜규제지연을두려워하지않나…원스토어로산'시간..."
+    "넥써쓰장현국은왜규제지연을두려워하지않나…원스토어로산'시간...",
+    "[에디터프리즘]방앗간넘어셰프로",
+    "빛샘전자회전율184%…상장주식수의1.8배"
    ],
    "initialized": true,
-   "last_run": "2026-09-19T00:35:17.979121+09:00"
+   "last_run": "2026-09-19T00:40:21.362238+09:00"
   }
  },
  "press_names": {
