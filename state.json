@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-18T12:50:24.289655+09:00",
-     "118만달러어치 메타 라이프 발행돼 새로 토큰이"
-    ],
-    [
-     "2026-09-18T12:50:24.289655+09:00",
-     "일부 대미투자 재협의 미흡했다 ETF 보완책"
-    ],
-    [
      "2026-09-18T13:00:34.423206+09:00",
      "찾아 신약 필요한 쇼핑 성장동력 엑스코프리 SK바이오팜 제2"
     ],
@@ -938,15 +930,21 @@
     [
      "2026-09-18T18:40:28.759650+09:00",
      "증설 수요 경쟁 폭증에 빅테크"
+    ],
+    [
+     "2026-09-18T18:55:19.354875+09:00",
+     "전폭 지주 도약 우리투자 잰걸음 종투사 지원에"
+    ],
+    [
+     "2026-09-18T18:55:19.354875+09:00",
+     "부동산 공급 최대한 대통령 투기 신속"
+    ],
+    [
+     "2026-09-18T18:55:19.354875+09:00",
+     "York Considers NAND Factory Solidigm New"
     ]
    ],
    "seen_urls": [
-    "https://www.bloter.net/news/articleView.html?idxno=673947",
-    "http://weekly.chosun.com/news/articleView.html?idxno=55363",
-    "https://www.livebiz.today/news/articleView.html?idxno=204967",
-    "http://www.popcornnews.net/news/articleView.html?idxno=133388",
-    "https://www.sedaily.com/article/20092399",
-    "https://swtvnews.com/news/newsview.php?ncode=179586003823379",
     "https://www.energy-news.co.kr/news/articleView.html?idxno=228310",
     "https://www.thelec.kr/news/articleView.html?idxno=62472",
     "http://www.4th.kr/news/articleView.html?idxno=2118291",
@@ -2440,15 +2438,15 @@
     "https://www.ytn.co.kr/_ln/0102_202609181829057616",
     "http://www.econotelling.com/news/articleView.html?idxno=21335",
     "https://www.nocutnews.co.kr/news/6580723",
-    "http://www.00news.co.kr/news/articleView.html?idxno=106692"
+    "http://www.00news.co.kr/news/articleView.html?idxno=106692",
+    "https://www.sentv.co.kr/article/view/sentv202609180114",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=53068",
+    "https://www.thelec.kr/news/articleView.html?idxno=62529",
+    "https://www.sentv.co.kr/article/view/sentv202609170144",
+    "https://futurechosun.com/?p=160750",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=277341"
    ],
    "seen_titles": [
-    "레버리지ETF거래줄었는데...'빚투'여전왜?",
-    "\"AI응답속도10배빠르게\"…삼전·하닉AI추론메모리경쟁",
-    "\"울산AI경쟁력,센터규모보다산업데이터결합이관건\"",
-    "한국동서발전,글로벌3개사와LNG수급협력",
-    "조정훈의원“정보는자산,정보유출은절도”···‘티빙개인정보...",
-    "Btv에이닷출시2년…SKB\"이용자55%추천콘텐츠시청\"",
     "\"나도샀을지몰라\"…쿠팡에서팔린중국산'가짜화장품'8만개",
     "SK그룹부회장단'총출동'...SK하이닉스임원250명1대1심층면담",
     "SK온,엘앤에프와1600억LFP양극재계약…ESS공급망강화",
@@ -3942,10 +3940,16 @@
     "[기업]통신3사,추석앞두고협력사납품대금조기지급",
     "반도체주오랜만에'중거리포'",
     "롯데,창업주고향울산과'동행'…투자·사회공헌·신사업확대",
-    "['클릭'증시]AI수요폭증에빅테크증설경쟁"
+    "['클릭'증시]AI수요폭증에빅테크증설경쟁",
+    "中장악LFP파고든엘앤에프…공급망경쟁본격화",
+    "외국인돌아오자코스피2.7%급등…6890대회복",
+    "SK하이닉스손자회사솔리다임,美낸드공장구축검토",
+    "지주전폭지원에…우리투자證,종투사도약‘잰걸음’",
+    "[더나은미래경제브리핑]李대통령“부동산공급최대한신속,‘투기...",
+    "SolidigmConsidersNewYorkNANDFactory"
    ],
    "initialized": true,
-   "last_run": "2026-09-18T18:50:23.137801+09:00"
+   "last_run": "2026-09-18T18:55:19.354875+09:00"
   }
  },
  "press_names": {
