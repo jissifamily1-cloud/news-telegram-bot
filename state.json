@@ -729,8 +729,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.joongang.co.kr/article/25462874",
-    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433669",
     "https://www.cbci.co.kr/news/articleView.html?idxno=607665",
     "https://www.gukjenews.com/news/articleView.html?idxno=3698945",
     "https://www.cbci.co.kr/news/articleView.html?idxno=607705",
@@ -2228,11 +2226,11 @@
     "https://news.mtn.co.kr/news-detail/2026091820212750058",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1538005",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=245851",
-    "https://www.ekn.kr/web/view.php?key=20260918027136820"
+    "https://www.ekn.kr/web/view.php?key=20260918027136820",
+    "https://www.tokenpost.kr/news/cryptocurrency/410339",
+    "https://sports.khan.co.kr/article/202609182034003?pt=nv"
    ],
    "seen_titles": [
-    "동서발전,방콕서LNG공급기업3곳과협약",
-    "코스피,美기준금리인상에약보합마감",
     "[제7기차세대CEO아카데미(특강)]김상욱울산시장\"울산새성장축,제...",
     "추석연휴귀성길‘24일오전11시’귀경길‘25일오후1시’가장막...",
     "중국산'K뷰티',쿠팡·네이버타고전국팔렸다",
@@ -3730,10 +3728,12 @@
     "KRX애프터마켓서반도체주↑…대한광통신·성호전자·가온전선도급등",
     "송도아파트'발코니붕괴'한달'피해여전'…대규모주민집회",
     "SK하이닉스,인텔과미국메모리생산협의설…\"미확정\"",
-    "[패트롤]경주시의회-대구남구-대구경북병무청-대구가톨릭대병원-대구..."
+    "[패트롤]경주시의회-대구남구-대구경북병무청-대구가톨릭대병원-대구...",
+    "게이트,현물30개중7개L1깊이1위",
+    "‘9경기22득점’최근리그무패+23년만에ACLE승리...폭주하는대전..."
    ],
    "initialized": true,
-   "last_run": "2026-09-18T20:40:22.338605+09:00"
+   "last_run": "2026-09-18T20:45:20.640081+09:00"
   }
  },
  "press_names": {
