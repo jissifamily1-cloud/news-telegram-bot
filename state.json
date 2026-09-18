@@ -86,10 +86,13 @@
     [
      "2026-09-19T04:45:33.734484+09:00",
      "장중 마이크론 혼조 WTI 급락 vs IGV 활짝 미국증시"
+    ],
+    [
+     "2026-09-19T05:00:38.671288+09:00",
+     "SK하이닉스 디램 낸드 샌디스크 가격 급등 공급난"
     ]
    ],
    "seen_urls": [
-    "https://www.mediapen.com/news/view/1124444",
     "https://www.moneystorm.kr/news/articleView.html?idxno=6606",
     "https://m.sports.naver.com/basketball/article/065/0000301676",
     "https://biz.chosun.com/stock/stock_general/2026/09/18/RA7VEHZP7RGXJPUFH6PXF5RGGU/",
@@ -1588,10 +1591,10 @@
     "https://www.joongang.co.kr/article/25463200",
     "https://www.joongang.co.kr/article/25463196",
     "https://www.donga.com/news/Politics/article/all/20260919/134699711/2",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=171486"
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=171486",
+    "https://www.mediapen.com/news/view/1124717"
    ],
    "seen_titles": [
-    "“연준인플레대응에안도”나스닥1.7%급등[데일리국제금융]",
     "\"AI호황에해외서도커진보상요구\"…메모리업계,성과급갈등'확산'",
     "'NPU넘어AI인프라로'몸집키우는리벨리온",
     "엔비디아2.5%,마이크론5.5%↑...반도체주,유가와금리하락에일제히...",
@@ -3090,10 +3093,11 @@
     "토허제확대1년…수도권거래마르고값은트리플상승",
     "AI힘싣기,SK그룹부회장3명하이닉스로",
     "“레버리지ETF,어떻게결정됐는지세부내용파악못해”",
-    "WTI'급락'속...장중미국증시'혼조',마이크론'활짝'vsIGV'뚝'"
+    "WTI'급락'속...장중미국증시'혼조',마이크론'활짝'vsIGV'뚝'",
+    "[美증시특징주]SK하이닉스·샌디스크급등…디램·낸드공급난+가격급..."
    ],
    "initialized": true,
-   "last_run": "2026-09-19T04:55:19.051978+09:00"
+   "last_run": "2026-09-19T05:00:38.671288+09:00"
   }
  },
  "press_names": {
