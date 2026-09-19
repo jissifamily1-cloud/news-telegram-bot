@@ -326,13 +326,25 @@
     [
      "2026-09-19T09:20:58.913832+09:00",
      "200원 최근 주가 등락 거듭하며 SK이터닉스 마감 5거래일"
+    ],
+    [
+     "2026-09-19T09:30:29.917758+09:00",
+     "샌드위치 협공에 이익률 위기 뺏긴 1위 반도체"
+    ],
+    [
+     "2026-09-19T09:30:29.917758+09:00",
+     "중국의 삼성과 SK하이닉스의 메모리 미국과 급부상 시장 한국 위협하는"
+    ],
+    [
+     "2026-09-19T09:30:29.917758+09:00",
+     "문화경영대상 수상 동반성장 정책 인정받아 지방자치 용인시"
+    ],
+    [
+     "2026-09-19T09:30:29.917758+09:00",
+     "속도조절론에도 메모리 키운다 배우는 반도체 계속"
     ]
    ],
    "seen_urls": [
-    "https://it.chosun.com/news/articleView.html?idxno=2023092170376",
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258845",
-    "https://www.newsis.com/view/NISI20260918_0021442341",
-    "https://www.newsis.com/view/NISI20260918_0021442339",
     "https://biz.newdaily.co.kr/site/data/html/2026/09/18/2026091800036.html",
     "https://biz.heraldcorp.com/article/10877789",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1724765",
@@ -1828,13 +1840,13 @@
     "https://www.mt.co.kr/stock/2026/09/19/2026091817115720031",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=728096",
     "https://www.wikitree.co.kr/articles/1160619",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16199375"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16199375",
+    "https://economist.co.kr/article/view/ecn202609190001",
+    "https://www.gokorea.kr/news/articleView.html?idxno=879105",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3700532",
+    "https://www.mt.co.kr/industry/2026/09/19/2026091716102917837"
    ],
    "seen_titles": [
-    "국민성장펀드에PE인재상도변화…산업·이공계출신부상",
-    "[주간기업동향]이재용삼성전자회장,日참의원대표단과반도체·AI...",
-    "한양대AI반도체혁신연구소개소…110명석·박사인재키운다",
-    "파나마운하'급행료'파나마운하'급행료'",
     "\"공급과잉\"vs\"쇼티지지속\"…증권가,반도체업황두고\"동상이몽\"",
     "'호남400조'발묶인SK하이닉스,美·日로눈돌리는속사정은",
     "[K-지능열전]⑥통신3사에담기엔너무커졌다···SKT15GW'AI공장'...",
@@ -3330,10 +3342,14 @@
     "'반등도AI부터…'AI·반도체ETF출시이어진다",
     "[이주의전자수첩]안사곤못배긴다…삼성·TSMC홀린5500억'괴물장...",
     "'추석연휴때가장막히는고속도로'1~5위가모두...",
-    "최근5거래일SK이터닉스주가,등락거듭하며51,200원마감"
+    "최근5거래일SK이터닉스주가,등락거듭하며51,200원마감",
+    "이익률1위뺏긴K-반도체,중·미협공에'샌드위치'위기",
+    "한국메모리시장위협하는미국과중국의급부상,삼성과SK하이닉스의...",
+    "용인시,문화경영대상수상…지방자치동반성장정책인정받아",
+    "AI속도조절론에도…'계속배우는AI'가메모리반도체판키운다"
    ],
    "initialized": true,
-   "last_run": "2026-09-19T09:25:18.371272+09:00"
+   "last_run": "2026-09-19T09:30:29.917758+09:00"
   }
  },
  "press_names": {
