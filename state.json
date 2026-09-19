@@ -378,14 +378,17 @@
     [
      "2026-09-19T10:10:21.713998+09:00",
      "200원대로 하락할 반영해 반등 단기 펀더멘털 달러"
+    ],
+    [
+     "2026-09-19T10:20:22.909383+09:00",
+     "부담에도 강세 뉴욕증시 혼조 반도체주 국채금리"
+    ],
+    [
+     "2026-09-19T10:20:22.909383+09:00",
+     "총력 글로벌 3인 SK하이닉스 반도체 전격 부회장 전문경영인 집결"
     ]
    ],
    "seen_urls": [
-    "https://www.newsway.co.kr/news/view?ud=2026091808154420580",
-    "https://www.newsis.com/view/NISX20260918_0003794871",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=84926",
-    "https://www.ddaily.co.kr/page/view/2026091719204035592",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063732",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=728047",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=276342",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488249",
@@ -1880,14 +1883,14 @@
     "https://daily.hankooki.com/news/articleView.html?idxno=1407930",
     "https://dgmbc.com/NewsArticle/862992",
     "https://www.thescoop.co.kr/news/articleView.html?idxno=311668",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4435749"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4435749",
+    "https://www.mydaily.co.kr/page/view/2026091909505748851",
+    "https://www.thepublic.kr/news/articleView.html?idxno=319384",
+    "https://www.g-enews.com/view.php?ud=202609190913126404fbbec65dfb_1",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=53078",
+    "https://www.thepublic.kr/news/articleView.html?idxno=319283"
    ],
    "seen_titles": [
-    "[마켓뷰]美증시긴축소화하며반등…코스피도이어받을까",
-    "SKT,T팩토리성수에서'이모션랩'전시선보여",
-    "[전날애프터마켓]코스피ㆍ코스닥대형주퇴근길‘훈풍’⋯한양디지...",
-    "엘앤에프,LFP수주1.8조…비중국공급망선점부각[애널리스트의시각...",
-    "美반도체훈풍에프리마켓서삼전·닉스3%대강세",
     "신한카드,민간데이터댐연합과공공AI혁신이끈다",
     "엘앤에프,SK온에1600억원LFP양극재공급…서산·美ESS라인투입",
     "[뉴욕증시]금리인상불확실성해소에반등…나스닥1.69%↑",
@@ -3382,10 +3385,15 @@
     "기술도입확대하는SK바이오팜,'확장형R&D'드라이브",
     "수수료6,900억벌었는데···한국거래소,시장감시인력은오히려줄...",
     "젠슨황에웃고트럼프에울고…이란리스크와국장[주간증시해설서]",
-    "\"달러-원,단기반등후펀더멘털반영해1,200원대로하락할것\""
+    "\"달러-원,단기반등후펀더멘털반영해1,200원대로하락할것\"",
+    "[MD포커스]쿠팡·네이버타고수십억원팔린가짜화장품…조직화한中...",
+    "[집중분석]AI개발'속도조절론'확산…그이면에숨은수익화셈법",
+    "\"칩2배팔겠다\"황의호언뒤편…40개월장비덫에갇힌K-반도체",
+    "뉴욕증시혼조…국채금리부담에도반도체주강세",
+    "SK전문경영인부회장3인,SK하이닉스전격집결…글로벌반도체'총력..."
    ],
    "initialized": true,
-   "last_run": "2026-09-19T10:15:25.467834+09:00"
+   "last_run": "2026-09-19T10:20:22.909383+09:00"
   }
  },
  "press_names": {
