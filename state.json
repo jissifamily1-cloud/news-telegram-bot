@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-19T11:30:32.362637+09:00",
-     "커진다 삼성SDI 사업 SK온 고객 확보 엘앤에프 LFP 잇따라"
-    ],
-    [
-     "2026-09-19T11:30:32.362637+09:00",
-     "4명 지적 의견 9월 활동 무슨 둘째 23건 내용"
-    ],
-    [
-     "2026-09-19T11:30:32.362637+09:00",
-     "노조 삼성 DX 2명도 초기업노조 반도체 간부 축출"
-    ],
-    [
      "2026-09-19T11:55:16.347761+09:00",
      "40일 문자 초읽기 대혼란 어쩌나 시장 기업들"
     ],
@@ -194,13 +182,25 @@
     [
      "2026-09-19T17:10:22.812130+09:00",
      "꺾이면 상승세 비강남권 확산 종부세 집값"
+    ],
+    [
+     "2026-09-19T17:35:17.448901+09:00",
+     "메모리 협공에 비상등 쫓기는 닉스 삼전"
+    ],
+    [
+     "2026-09-19T17:35:17.448901+09:00",
+     "삼성 테스 P4 장비 확대 M15X 투자 커진다 수요도"
+    ],
+    [
+     "2026-09-19T17:35:17.448901+09:00",
+     "납부 8억원 접수 재상고 재산분할 인지대 최태원"
+    ],
+    [
+     "2026-09-19T17:35:17.448901+09:00",
+     "민낯 40대 지원한 채용 대한민국의 신입 씁쓸한"
     ]
    ],
    "seen_urls": [
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=266984",
-    "https://www.etoday.co.kr/news/view/2627083",
-    "https://www.yna.co.kr/view/PYH20260918021500013?input=1196m",
-    "https://www.dailian.co.kr/news/view/1691948/?sc=Naver",
     "https://www.yna.co.kr/view/PYH20260918021100013?input=1196m",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4435548",
     "https://www.ajunews.com/view/20260918084141789",
@@ -1696,13 +1696,13 @@
     "https://www.news1.kr/society/incident-accident/6296170",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488716",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2472504",
-    "https://www.mk.co.kr/article/12156613"
+    "https://www.mk.co.kr/article/12156613",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609190394&t=NN",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488723",
+    "https://www.segye.com/newsView/20260918510564?OutUrl=naver",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268734&CMPT_CD=P0010"
    ],
    "seen_titles": [
-    "코스피2.54%상승출발…SK하이닉스3.6%",
-    "SKT·KT,추석앞두고협력사에총2925억조기지급",
-    "SK바이오팜,파킨슨병신약후보물질4308억원에도입…글로벌권리확보",
-    "KB운용,‘RISE코리아밸류업위클리고정커버드콜ETF’순자산3000억돌...",
     "SKT,추석종합대책가동",
     "“내감정이향수·색이된다”…SKT,성수서‘이모션랩’",
     "'삼전닉스'용인반도체산단용수공급시설착공…일31만톤댄다",
@@ -3198,10 +3198,14 @@
     "호르무즈파병반대부터기후정의까지…주말도심곳곳집회",
     "팬오션,벌크선사맞아?…VLCC·LNG로'에너지수송'대변신",
     "[증시동향]기타법인'8조순매수'에도횡보하는국내증시",
-    "집값상승세안꺾이면...종부세비강남권확산[김경민의부동산NOW]"
+    "집값상승세안꺾이면...종부세비강남권확산[김경민의부동산NOW]",
+    "美·中협공에쫓기는K-메모리…삼전·닉스'비상등'",
+    "삼성P4·SKM15X투자확대…테스장비수요도커진다",
+    "최태원,재산분할재상고접수…인지대8억원납부",
+    "'신입채용'지원한40대...대한민국의씁쓸한민낯"
    ],
    "initialized": true,
-   "last_run": "2026-09-19T17:30:27.761235+09:00"
+   "last_run": "2026-09-19T17:35:17.448901+09:00"
   }
  },
  "press_names": {
