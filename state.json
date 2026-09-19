@@ -282,10 +282,13 @@
     [
      "2026-09-19T14:50:23.222130+09:00",
      "1569억 포설 해저케이블 수주 신안우이 LS마린솔루션 해상풍력 운송"
+    ],
+    [
+     "2026-09-19T15:00:35.226858+09:00",
+     "전세 격차 이곳 강남서 같은 동네 벌어진 20억 아파트는 4억"
     ]
    ],
    "seen_urls": [
-    "https://www.bizwork.co.kr/news/articleView.html?idxno=419280",
     "https://www.handmk.com/news/articleView.html?idxno=43272",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075840",
     "https://jtv.co.kr/news/article.php?id=71173",
@@ -1784,10 +1787,10 @@
     "https://www.edaily.co.kr/News/Read?newsId=02072966645581760&mediaCodeNo=257",
     "http://www.dailypop.kr/news/articleView.html?idxno=102747",
     "https://view.asiae.co.kr/article/2026091713402347593",
-    "http://www.econonews.co.kr/news/articleView.html?idxno=444602"
+    "http://www.econonews.co.kr/news/articleView.html?idxno=444602",
+    "https://www.insight.co.kr/news/574316"
    ],
    "seen_titles": [
-    "[증시전망대]美증시,긴축여파딛고반등…코스피도'미국발훈풍'탈...",
     "[Invest]SK그룹부회장3인,연말인사앞두고하이닉스行",
     "SKT,감정을데이터로바꾼다…‘이모션랩’전시선봬",
     "수도권주거수요경기남부로…'수원이목지구디에트르더리체Ⅱ'잔여...",
@@ -3286,10 +3289,11 @@
     "'나스닥100VS코스피200'ETF1억투자...16년뒤승자는?",
     "SKT,추석·아시안게임맞아통신품질강화·상생지원…성수동서'감정...",
     "반도체주는고금리파도를넘을수있을까[주末머니]",
-    "LS마린솔루션,신안우이해상풍력1569억수주…해저케이블운송·포설·..."
+    "LS마린솔루션,신안우이해상풍력1569억수주…해저케이블운송·포설·...",
+    "같은동네,'이곳'은20억옆아파트는4억...강남서벌어진'전세격차..."
    ],
    "initialized": true,
-   "last_run": "2026-09-19T14:55:17.554700+09:00"
+   "last_run": "2026-09-19T15:00:35.226858+09:00"
   }
  },
  "press_names": {
