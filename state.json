@@ -322,11 +322,13 @@
     [
      "2026-09-19T09:10:23.091263+09:00",
      "사곤 TSMC 5500억 홀린 배긴다 삼성 괴물"
+    ],
+    [
+     "2026-09-19T09:20:58.913832+09:00",
+     "200원 최근 주가 등락 거듭하며 SK이터닉스 마감 5거래일"
     ]
    ],
    "seen_urls": [
-    "https://kids.donga.com/news/articleView.html?idxno=169880",
-    "https://www.youthdaily.co.kr/news/article.html?no=227269",
     "https://it.chosun.com/news/articleView.html?idxno=2023092170376",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258845",
     "https://www.newsis.com/view/NISI20260918_0021442341",
@@ -1824,11 +1826,11 @@
     "https://www.sisajournal-e.com/news/articleView.html?idxno=423778",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=144635",
     "https://www.mt.co.kr/stock/2026/09/19/2026091817115720031",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=728096"
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=728096",
+    "https://www.wikitree.co.kr/articles/1160619",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16199375"
    ],
    "seen_titles": [
-    "메리츠證“두산,1조CCL증설로화룡점정⋯2029년전자BG매출6.5조”",
-    "[오늘의증시]美증시긴축충격버틴코스피,반등나서나",
     "국민성장펀드에PE인재상도변화…산업·이공계출신부상",
     "[주간기업동향]이재용삼성전자회장,日참의원대표단과반도체·AI...",
     "한양대AI반도체혁신연구소개소…110명석·박사인재키운다",
@@ -3326,10 +3328,12 @@
     "티빙해킹보상나섰지만정부는피해구제실태도몰라",
     "[위클리PICK3]SK하이닉스임단협타결부터,美연준기준금리인상까...",
     "'반등도AI부터…'AI·반도체ETF출시이어진다",
-    "[이주의전자수첩]안사곤못배긴다…삼성·TSMC홀린5500억'괴물장..."
+    "[이주의전자수첩]안사곤못배긴다…삼성·TSMC홀린5500억'괴물장...",
+    "'추석연휴때가장막히는고속도로'1~5위가모두...",
+    "최근5거래일SK이터닉스주가,등락거듭하며51,200원마감"
    ],
    "initialized": true,
-   "last_run": "2026-09-19T09:15:22.737303+09:00"
+   "last_run": "2026-09-19T09:20:58.913832+09:00"
   }
  },
  "press_names": {
