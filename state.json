@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-19T16:35:19.031636+09:00",
-     "한화그룹이 데이터센터 만든다 부각 수요 수혜 한화엔진 직접"
-    ],
-    [
-     "2026-09-19T16:35:19.031636+09:00",
-     "보던 데이터센터 이젠 엔진까지 배만 HD현대마린솔루션 잡는다"
-    ],
-    [
      "2026-09-19T16:45:21.154848+09:00",
      "회사 배만 HD현대중공업 만드는 데이터센터가 시장 아니다"
     ],
@@ -165,7 +157,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20260918036800008?input=1195m",
     "http://www.wsobi.com/news/articleView.html?idxno=318439",
     "https://www.joongboo.com/news/articleView.html?idxno=363737192",
     "https://www.news1.kr/finance/market-exr/6294783",
@@ -1664,10 +1655,10 @@
     "https://www.the-today.com/news/articleView.html?idxno=90430",
     "https://www.aitimes.com/news/articleView.html?idxno=215491",
     "http://weekly.chosun.com/news/articleView.html?idxno=55446",
-    "http://www.kjdaily.com/article.php?aid=1789780807687228276"
+    "http://www.kjdaily.com/article.php?aid=1789780807687228276",
+    "https://www.cwn.kr/news/articleView.html?idxno=56890"
    ],
    "seen_titles": [
-    "[특징주]삼성전자장초반2.6%급등…SK하이닉스는4.2%↑",
     "금융권,ADGM-한화자산운용과디지털금융영토확장·'하나더넥스트대...",
     "SK인천석유화학,서해구에'1%행복나눔기금'3억전달",
     "美장기금리안정세에…삼전·SK하닉3~4%대상승[핫종목]",
@@ -3166,10 +3157,11 @@
     "[NZSIINDEX]2026년9월14일…코스피3.26%급락…거래시간연장보다투...",
     "[AI이슈트렌드]역대급수출실적속AI속도조절론·대통령지지율최...",
     "삼성전자최대노조'반도체만'남는다…96%찬성으로DX배제",
-    "[이번주증시]SK하이닉스레버리지1.4조거래"
+    "[이번주증시]SK하이닉스레버리지1.4조거래",
+    "삼성전자·SK하이닉스,'K-메모리초격차흔들리나'…중국·미국협공에..."
    ],
    "initialized": true,
-   "last_run": "2026-09-19T22:35:16.814482+09:00"
+   "last_run": "2026-09-19T22:40:21.939022+09:00"
   }
  },
  "press_names": {
