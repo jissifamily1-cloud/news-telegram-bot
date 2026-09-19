@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-20T01:30:30.545682+09:00",
-     "덮친 국장 개미 낮엔 박진우의 24시 피로의 미장 밤엔 1400만"
-    ],
-    [
      "2026-09-20T04:15:21.807108+09:00",
      "광교 훨훨 동탄 5억 영통 대출 풀렸더니 삼전 집값"
     ],
@@ -174,13 +170,25 @@
     [
      "2026-09-20T07:25:15.731334+09:00",
      "시총 코스닥 10위 하락장 5개월만에 순위 바뀐"
+    ],
+    [
+     "2026-09-20T07:35:17.007113+09:00",
+     "SK하이닉스 수율 본딩 HBM 속도전에도 하이브리드 높이"
+    ],
+    [
+     "2026-09-20T07:35:17.007113+09:00",
+     "설계 과제 속도내는 세분화 직무 기업들"
+    ],
+    [
+     "2026-09-20T07:35:17.007113+09:00",
+     "정자동 관심 리모델링 단지 고민 가격이 있지만 분당하이스트 더샵"
+    ],
+    [
+     "2026-09-20T07:35:17.007113+09:00",
+     "상장사 담았다 신규 SK그룹 ETF 삼성 4종목 상장"
     ]
    ],
    "seen_urls": [
-    "https://www.greened.kr/news/articleView.html?idxno=350389",
-    "https://www.ziksir.com/news/articleView.html?idxno=146850",
-    "https://www.mk.co.kr/article/12156144",
-    "http://www.popcornnews.net/news/articleView.html?idxno=133415",
     "https://www.edaily.co.kr/News/Read?newsId=02771606645581432&mediaCodeNo=257",
     "https://www.koreaittimes.com/news/articleView.html?idxno=157300",
     "https://www.seoulfn.com/news/articleView.html?idxno=638287",
@@ -1676,13 +1684,13 @@
     "https://www.dailian.co.kr/news/view/1692407/?sc=Naver",
     "https://it.chosun.com/news/articleView.html?idxno=2023092170423",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=276475",
-    "https://www.newsway.co.kr/news/view?ud=2026091814315316858"
+    "https://www.newsway.co.kr/news/view?ud=2026091814315316858",
+    "https://biz.heraldcorp.com/article/10878772",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092170451",
+    "https://www.newsis.com/view/NISX20260918_0003796184",
+    "https://www.dailian.co.kr/news/view/1692396/?sc=Naver"
    ],
    "seen_titles": [
-    "코스피,美금리하락·반도체반등에2%↑...6850선회복",
-    "코스피,장초반2%대급등…반도체주일제히강세",
-    "미국뉴욕증시반등에…코스피도2%대상승출발,6800선회복",
-    "통신3사,추석연휴'AI품질관제·대금조기지급'총력대응",
     "용인반도체산단에하루31만톤용수공급…47㎞전용관로첫삽",
     "SKT,감정을향과색으로바꾼다…T팩토리성수'이모션랩'공개",
     "美반도체급반등이어받은코스피···2%오른6860선출발",
@@ -3178,10 +3186,14 @@
     "애플도삼성앞에선못깎았다?…D램몸값어디까지",
     "[에이전틱AI맵2026]비큐에이아이,저작권확보뉴스로모니터링·보...",
     "'AIDC'뭐길래…통신3사수조원쏟아붓는이유",
-    "하락장5개월만에시총10위순위싹바뀐코스닥"
+    "하락장5개월만에시총10위순위싹바뀐코스닥",
+    "‘HBM더높이’속도전에도…SK하이닉스“하이브리드본딩수율90%포...",
+    "AI전환속도내는기업들…직무설계세분화과제",
+    "\"관심있지만가격이고민\"…정자동리모델링단지'더샵분당하이스트...",
+    "삼성·SK그룹상장사담았다…ETF4종목신규상장"
    ],
    "initialized": true,
-   "last_run": "2026-09-20T07:30:29.377474+09:00"
+   "last_run": "2026-09-20T07:35:17.007113+09:00"
   }
  },
  "press_names": {
