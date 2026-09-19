@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-19T05:10:59.892910+09:00",
-     "넘었지만 영상 현안 여전 우려 연임 부동산 기자회견 공소취소"
-    ],
-    [
      "2026-09-19T05:35:18.841326+09:00",
      "속도조절론까지 김근희의 종목은 증시 빅위크 FOMC부터 상승한"
     ],
@@ -394,14 +390,25 @@
     [
      "2026-09-19T11:05:17.471880+09:00",
      "미래지식 상주시의회 인구감소 시대 모색 아카데미 전략 개강"
+    ],
+    [
+     "2026-09-19T11:15:22.505792+09:00",
+     "300여 송도 집회 SK뷰 주민 인천경제청 피해 럭스오션"
+    ],
+    [
+     "2026-09-19T11:15:22.505792+09:00",
+     "순매수 코스피 6800선 회복 외국인"
+    ],
+    [
+     "2026-09-19T11:15:22.505792+09:00",
+     "접수 최태원 대법원 재산분할 노소영 재상고"
+    ],
+    [
+     "2026-09-19T11:15:22.505792+09:00",
+     "일하는 따라갈까 현실로 안전기준도 휴머노이드"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/industry/general-industry/6294671",
-    "https://www.m-i.kr/news/articleView.html?idxno=1415677",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4435536",
-    "https://www.newspim.com/news/view/20260918000051",
-    "https://www.joongangenews.com/news/articleView.html?idxno=549081",
     "https://daily.hankooki.com/news/articleView.html?idxno=1407608",
     "https://www.sentv.co.kr/article/view/sentv202609180012",
     "https://www.etoday.co.kr/news/view/2627064",
@@ -1896,14 +1903,14 @@
     "https://www.g-enews.com/view.php?ud=202609191036186598fbbec65dfb_1",
     "http://www.kjdaily.com/article.php?aid=1789782722687215276",
     "https://www.gukjenews.com/news/articleView.html?idxno=3700638",
-    "https://www.hidomin.com/news/articleView.html?idxno=721835"
+    "https://www.hidomin.com/news/articleView.html?idxno=721835",
+    "http://www.newslock.co.kr/news/articleView.html?idxno=136526",
+    "https://www.kgnews.co.kr/news/article.html?no=912263",
+    "https://www.gokorea.kr/news/articleView.html?idxno=879016",
+    "https://www.gokorea.kr/news/articleView.html?idxno=879020",
+    "http://www.newslock.co.kr/news/articleView.html?idxno=136295"
    ],
    "seen_titles": [
-    "건국대'하계주니어엘리트프로그램'성료...'조립형인공지능'원천...",
-    "[사설]기업별엣지데이터센터를지원하라",
-    "[해외시황]뉴욕증시,금리부담완화·기술株강세에'반등'…나스닥...",
-    "SK핵심부회장3인,SK하이닉스합류…250명임원1:1심층면담",
-    "이상일용인특례시장,핵심리더과정서용인르네상스2.0특강",
     "SK온,엘앤에프와1천600억LFP양극재공급계약",
     "[모닝리포트]\"엘앤에프,ESS용LFP성장본격화\"",
     "SKT,내감정'향수·색'으로만든다…T팩토리성수'이모션랩'오픈",
@@ -3398,10 +3405,15 @@
     "반도체장비'품귀'의역설…납기40개월벽에부딪힌AI반도체증설...",
     "[이번주증시]아이티센피엔에스66%급등…상승률1위",
     "황선홍감독\"팀분위기최고\"…대전,인천전서6위굳히기도전",
-    "상주시의회미래지식아카데미개강..인구감소·AI시대전략모색"
+    "상주시의회미래지식아카데미개강..인구감소·AI시대전략모색",
+    "SKT,추석종합대책가동...통신품질관리및협력사지원",
+    "송도럭스오션SK뷰피해주민300여명인천경제청앞집회",
+    "코스피6800선회복외국인순매수전환",
+    "최태원·노소영재산분할재상고대법원접수",
+    "[뉴스락특별기획]'일하는휴머노이드'현실로...안전기준도따라갈까"
    ],
    "initialized": true,
-   "last_run": "2026-09-19T11:10:23.279380+09:00"
+   "last_run": "2026-09-19T11:15:22.505792+09:00"
   }
  },
  "press_names": {
