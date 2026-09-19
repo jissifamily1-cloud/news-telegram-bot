@@ -198,12 +198,17 @@
     [
      "2026-09-19T16:45:21.154848+09:00",
      "회사 배만 HD현대중공업 만드는 데이터센터가 시장 아니다"
+    ],
+    [
+     "2026-09-19T17:00:35.522544+09:00",
+     "주말 곳곳 집회 도심 파병 기후정의까지 반대부터 호르무즈"
+    ],
+    [
+     "2026-09-19T17:00:35.522544+09:00",
+     "벌크선사 VLCC 대변신 맞아 수송 LNG로 에너지 팬오션"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/photos/8113190",
-    "https://www.newsis.com/view/NISI20260918_0021442357",
-    "https://www.mt.co.kr/stock/2026/09/18/2026091808381285874",
     "https://www.tokenpost.kr/news/breaking/409992",
     "https://www.dailian.co.kr/news/view/1691950/?sc=Naver",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=266984",
@@ -1700,12 +1705,12 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488712",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488711",
     "https://www.g-enews.com/view.php?ud=202609191633563081e30fcb1ba8_1",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488713"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488713",
+    "https://www.newscj.com/news/articleView.html?idxno=3434073",
+    "https://www.news1.kr/society/incident-accident/6296170",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488716"
    ],
    "seen_titles": [
-    "SK텔레콤,추석종합대책가동",
-    "통신3社,추석연휴통신망집중관리…24시간대응체계가동",
-    "감정을향∙색으로표현하는신규전시‘이모션랩’",
     "SKT,T팩토리성수서‘데이터센터시리즈’두번째전시운영",
     "두산,하이엔드CCL에9700억투자…\"매출6.5조로확대\"-메리츠",
     "코스피2.54%상승출발…SK하이닉스3.6%",
@@ -3202,10 +3207,13 @@
     "한화그룹이직접수요만든다…한화엔진데이터센터수혜부각",
     "배만보던HD현대마린솔루션,이젠데이터센터엔진까지잡는다",
     "中은범용D램·美는HBM맹추격…삼성·SK‘메모리양강’흔든다",
-    "HD현대중공업,배만만드는회사아니다…AI데이터센터가새시장"
+    "HD현대중공업,배만만드는회사아니다…AI데이터센터가새시장",
+    "삼성·SK하이닉스아성흔드는中·美…D램·HBM점유율추격거세진다",
+    "호르무즈파병반대부터기후정의까지…주말도심곳곳집회",
+    "팬오션,벌크선사맞아?…VLCC·LNG로'에너지수송'대변신"
    ],
    "initialized": true,
-   "last_run": "2026-09-19T16:55:16.823302+09:00"
+   "last_run": "2026-09-19T17:00:35.522544+09:00"
   }
  },
  "press_names": {
