@@ -69,7 +69,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mstoday.co.kr/news/articleView.html?idxno=102644",
     "http://www.segyebiz.com/newsView/20260918504271?OutUrl=naver",
     "https://economist.co.kr/article/view/ecn202609180003",
     "https://www.ekn.kr/web/view.php?key=20260918022126360",
@@ -1568,10 +1567,10 @@
     "https://www.jnilbo.com/news/articleView.html?idxno=90000066981",
     "https://www.newsis.com/view/NISX20260918_0003795244",
     "https://www.dt.co.kr/article/12084851",
-    "https://www.tenasia.co.kr/article/2026091953784"
+    "https://www.tenasia.co.kr/article/2026091953784",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=608289"
    ],
    "seen_titles": [
-    "SK하이닉스,인텔과美메모리전공정검토",
     "코스피6860선단숨에돌파…코스닥도1%대동반상승출발",
     "최태원,3명부회장단묶어서SK하이닉스로이동속내는",
     "[특징주]삼성전자·SK하이닉스동반강세…美반도체주훈풍",
@@ -3070,10 +3069,11 @@
     "김용혁페르소나AI본부장\"AI명확히통제하고지시하는'에이전트보스...",
     "SK하이닉스,'중국통'부회장전진배치…中현지반도체전략은",
     "AI우려에흔들린반도체…삼전·SK하닉,추석앞반등시험대[증시전망...",
-    "안문숙,자선바자회서노소영관장만났다…“꼼꼼하게봐주시고”"
+    "안문숙,자선바자회서노소영관장만났다…“꼼꼼하게봐주시고”",
+    "삼성전자·SK하이닉스,범용D램은중국에,HBM은마이크론에...K-반도체..."
    ],
    "initialized": true,
-   "last_run": "2026-09-20T05:58:13.785054+09:00"
+   "last_run": "2026-09-20T06:00:35.566173+09:00"
   }
  },
  "press_names": {
