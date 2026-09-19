@@ -122,10 +122,13 @@
     [
      "2026-09-20T06:30:29.578343+09:00",
      "김옥숙 일가 수사선 노소영 안방 놓친 비자금 30년 다시 자금"
+    ],
+    [
+     "2026-09-20T06:40:21.888566+09:00",
+     "반도체시장 6조달러로 속도조절론에도 올해 가속 성장"
     ]
    ],
    "seen_urls": [
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=866460",
     "https://www.g-enews.com/view.php?ud=202609180938476441cd0bfacc1c_1",
     "https://www.businesspost.co.kr/BP?command=article_view&num=447532",
     "https://www.cstimes.com/news/articleView.html?idxno=721243",
@@ -1624,10 +1627,10 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609180386&t=NN",
     "https://www.newsis.com/view/NISX20260918_0003796271",
     "https://www.businesspost.co.kr/BP?command=article_view&num=447485",
-    "https://www.segye.com/newsView/20260920500944?OutUrl=naver"
+    "https://www.segye.com/newsView/20260920500944?OutUrl=naver",
+    "https://www.yna.co.kr/view/AKR20260918167800003?input=1195m"
    ],
    "seen_titles": [
-    "[개장시황]美증시반등…코스피,2%대상승",
     "신한카드,민간데이터·AI로지역축제효과분석나선다",
     "SK그룹부회장서진우·유정준·이형희,SK하이닉스로이동",
     "[특징주]삼전닉스,美반도체주훈풍에급등",
@@ -3126,10 +3129,11 @@
     "[방산혁신골든타임①]국방AI도‘자립’고집…\"기술쓰되지휘권...",
     "국힘,국감앞두고레버리지ETF·농지전수조사부각…특검추진도",
     "엘앤에프ESS수요급증에LFP양극재'입도선매',허제홍하이니켈양극...",
-    "30년전놓친‘안방비자금’…김옥숙·노소영일가자금다시수사선..."
+    "30년전놓친‘안방비자금’…김옥숙·노소영일가자금다시수사선...",
+    "AI속도조절론에도…\"올해반도체시장1.6조달러로성장가속\""
    ],
    "initialized": true,
-   "last_run": "2026-09-20T06:35:17.929742+09:00"
+   "last_run": "2026-09-20T06:40:21.888566+09:00"
   }
  },
  "press_names": {
