@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-19T16:00:36.628086+09:00",
-     "분석해보니 회담 반도체 외교장관 결과문 온도차"
-    ],
-    [
      "2026-09-19T16:15:21.272406+09:00",
      "하반기부터 싸이맥스 실적 반토막 반전 온다 고점서 6월"
     ],
@@ -158,10 +154,13 @@
     [
      "2026-09-19T21:30:36.494841+09:00",
      "코스피 9월 연장보다 14일 거래시간 2026년 급락"
+    ],
+    [
+     "2026-09-19T22:00:39.622609+09:00",
+     "속도조절론 대통령 실적 수출 지지율 역대급"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260918_0003795020",
     "http://www.wikileaks-kr.org/news/articleView.html?idxno=192157",
     "https://www.cstimes.com/news/articleView.html?idxno=721237",
     "https://www.yna.co.kr/view/AKR20260918036800008?input=1195m",
@@ -1660,10 +1659,10 @@
     "https://www.joongangenews.com/news/articleView.html?idxno=549398",
     "https://www.mk.co.kr/article/12156520",
     "https://www.dailysecu.com/news/articleView.html?idxno=208550",
-    "https://www.the-today.com/news/articleView.html?idxno=90430"
+    "https://www.the-today.com/news/articleView.html?idxno=90430",
+    "https://www.aitimes.com/news/articleView.html?idxno=215491"
    ],
    "seen_titles": [
-    "美반도체훈풍…삼전전자2%·하이닉스4%대강세[핫스탁]",
     "[한국건설,80년의기록]⑥부평역앞목재상에서세계최장현수교까...",
     "코스피,2%대반등...6860선기록",
     "[특징주]삼성전자장초반2.6%급등…SK하이닉스는4.2%↑",
@@ -3162,10 +3161,11 @@
     "中CXMT·美마이크론동시에치고온다…삼성전자·SK하이닉스'메모리...",
     "“삼성SDI지금들어가야?”...국내주식유망주더있다",
     "[이혁중CISO칼럼]IoT/OT보안2-이미현실세계를흔들고있는사이버...",
-    "[NZSIINDEX]2026년9월14일…코스피3.26%급락…거래시간연장보다투..."
+    "[NZSIINDEX]2026년9월14일…코스피3.26%급락…거래시간연장보다투...",
+    "[AI이슈트렌드]역대급수출실적속AI속도조절론·대통령지지율최..."
    ],
    "initialized": true,
-   "last_run": "2026-09-19T21:55:17.656172+09:00"
+   "last_run": "2026-09-19T22:00:39.622609+09:00"
   }
  },
  "press_names": {
