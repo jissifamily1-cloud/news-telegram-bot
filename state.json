@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-19T11:05:17.471880+09:00",
-     "미래지식 상주시의회 인구감소 시대 모색 아카데미 전략 개강"
-    ],
-    [
      "2026-09-19T11:15:22.505792+09:00",
      "300여 송도 집회 SK뷰 주민 인천경제청 피해 럭스오션"
     ],
@@ -206,11 +202,17 @@
     [
      "2026-09-19T17:00:35.522544+09:00",
      "벌크선사 VLCC 대변신 맞아 수송 LNG로 에너지 팬오션"
+    ],
+    [
+     "2026-09-19T17:10:22.812130+09:00",
+     "국내 기타법인 8조 에도 순매수 횡보하는 증시"
+    ],
+    [
+     "2026-09-19T17:10:22.812130+09:00",
+     "꺾이면 상승세 비강남권 확산 종부세 집값"
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/breaking/409992",
-    "https://www.dailian.co.kr/news/view/1691950/?sc=Naver",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=266984",
     "https://www.etoday.co.kr/news/view/2627083",
     "https://www.yna.co.kr/view/PYH20260918021500013?input=1196m",
@@ -1708,11 +1710,11 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488713",
     "https://www.newscj.com/news/articleView.html?idxno=3434073",
     "https://www.news1.kr/society/incident-accident/6296170",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488716"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488716",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2472504",
+    "https://www.mk.co.kr/article/12156613"
    ],
    "seen_titles": [
-    "SKT,T팩토리성수서‘데이터센터시리즈’두번째전시운영",
-    "두산,하이엔드CCL에9700억투자…\"매출6.5조로확대\"-메리츠",
     "코스피2.54%상승출발…SK하이닉스3.6%",
     "SKT·KT,추석앞두고협력사에총2925억조기지급",
     "SK바이오팜,파킨슨병신약후보물질4308억원에도입…글로벌권리확보",
@@ -3210,10 +3212,12 @@
     "HD현대중공업,배만만드는회사아니다…AI데이터센터가새시장",
     "삼성·SK하이닉스아성흔드는中·美…D램·HBM점유율추격거세진다",
     "호르무즈파병반대부터기후정의까지…주말도심곳곳집회",
-    "팬오션,벌크선사맞아?…VLCC·LNG로'에너지수송'대변신"
+    "팬오션,벌크선사맞아?…VLCC·LNG로'에너지수송'대변신",
+    "[증시동향]기타법인'8조순매수'에도횡보하는국내증시",
+    "집값상승세안꺾이면...종부세비강남권확산[김경민의부동산NOW]"
    ],
    "initialized": true,
-   "last_run": "2026-09-19T17:05:16.527136+09:00"
+   "last_run": "2026-09-19T17:10:22.812130+09:00"
   }
  },
  "press_names": {
