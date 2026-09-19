@@ -198,11 +198,17 @@
     [
      "2026-09-19T17:35:17.448901+09:00",
      "민낯 40대 지원한 채용 대한민국의 신입 씁쓸한"
+    ],
+    [
+     "2026-09-19T17:45:23.177332+09:00",
+     "용인특례시 소상공인 이상일의 조명 경제정책 중소기업 대기업"
+    ],
+    [
+     "2026-09-19T17:45:23.177332+09:00",
+     "자전거 주차 쏘카 매출 KTX까지 카셰어링 넓힌다"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/PYH20260918021100013?input=1196m",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4435548",
     "https://www.ajunews.com/view/20260918084141789",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=866076",
     "http://www.yonhapnewstv.co.kr/news/MYH202609180908514yk",
@@ -1700,11 +1706,11 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609190394&t=NN",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488723",
     "https://www.segye.com/newsView/20260918510564?OutUrl=naver",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268734&CMPT_CD=P0010"
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268734&CMPT_CD=P0010",
+    "https://www.tournews21.com/news/articleView.html?idxno=143930",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488724"
    ],
    "seen_titles": [
-    "SKT,추석종합대책가동",
-    "“내감정이향수·색이된다”…SKT,성수서‘이모션랩’",
     "'삼전닉스'용인반도체산단용수공급시설착공…일31만톤댄다",
     "용인반도체산단용수공급시설착공…하루107만t공급",
     "실증넘은AI결제...카드사'표준'경쟁점화",
@@ -3202,10 +3208,12 @@
     "美·中협공에쫓기는K-메모리…삼전·닉스'비상등'",
     "삼성P4·SKM15X투자확대…테스장비수요도커진다",
     "최태원,재산분할재상고접수…인지대8억원납부",
-    "'신입채용'지원한40대...대한민국의씁쓸한민낯"
+    "'신입채용'지원한40대...대한민국의씁쓸한민낯",
+    "이상일의경제정책조명...용인특례시,대기업·중소기업·소상공인함...",
+    "쏘카매출77%가카셰어링…자전거·주차·KTX까지넓힌다"
    ],
    "initialized": true,
-   "last_run": "2026-09-19T17:40:21.576255+09:00"
+   "last_run": "2026-09-19T17:45:23.177332+09:00"
   }
  },
  "press_names": {
