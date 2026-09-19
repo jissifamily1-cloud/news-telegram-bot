@@ -186,12 +186,17 @@
     [
      "2026-09-20T07:35:17.007113+09:00",
      "상장사 담았다 신규 SK그룹 ETF 삼성 4종목 상장"
+    ],
+    [
+     "2026-09-20T07:45:56.710896+09:00",
+     "스탈로바볼라 SK넥실리스 폴란드 고교생 수여 장학금"
+    ],
+    [
+     "2026-09-20T07:45:56.710896+09:00",
+     "지역서 화합의 개최 시간 3개 동민의 가져 용인시 행사"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=02771606645581432&mediaCodeNo=257",
-    "https://www.koreaittimes.com/news/articleView.html?idxno=157300",
-    "https://www.seoulfn.com/news/articleView.html?idxno=638287",
     "https://www.socialvalue.kr/news/view/1065572557066915",
     "https://news.tf.co.kr/read/economy/2367410.htm",
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067716",
@@ -1688,12 +1693,12 @@
     "https://biz.heraldcorp.com/article/10878772",
     "https://it.chosun.com/news/articleView.html?idxno=2023092170451",
     "https://www.newsis.com/view/NISX20260918_0003796184",
-    "https://www.dailian.co.kr/news/view/1692396/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1692396/?sc=Naver",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609200035&t=NN",
+    "https://www.g-enews.com/view.php?ud=2026092007282541432bd56fbc3c_1",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3701025"
    ],
    "seen_titles": [
-    "용인반도체산단에하루31만톤용수공급…47㎞전용관로첫삽",
-    "SKT,감정을향과색으로바꾼다…T팩토리성수'이모션랩'공개",
-    "美반도체급반등이어받은코스피···2%오른6860선출발",
     "“감정을색과향으로표현”…SKT,T팩토리성수서‘이모션랩’전...",
     "노소영측'1000억증여'왜기부금도포함했나…최태원측\"알고도왜곡...",
     "용인·광주보다최대수억저렴하다…'이천휴먼빌클래스원'안전마진...",
@@ -3190,10 +3195,13 @@
     "‘HBM더높이’속도전에도…SK하이닉스“하이브리드본딩수율90%포...",
     "AI전환속도내는기업들…직무설계세분화과제",
     "\"관심있지만가격이고민\"…정자동리모델링단지'더샵분당하이스트...",
-    "삼성·SK그룹상장사담았다…ETF4종목신규상장"
+    "삼성·SK그룹상장사담았다…ETF4종목신규상장",
+    "삼전닉스자사주매입끝?…추석후'수급절벽'우려",
+    "SK넥실리스폴란드,스탈로바볼라고교생장학금수여",
+    "용인시,3개지역서'면·동민의날'행사개최…화합의시간가져"
    ],
    "initialized": true,
-   "last_run": "2026-09-20T07:40:22.076102+09:00"
+   "last_run": "2026-09-20T07:45:56.710896+09:00"
   }
  },
  "press_names": {
