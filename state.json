@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-19T15:00:35.226858+09:00",
-     "전세 격차 이곳 강남서 같은 동네 벌어진 20억 아파트는 4억"
-    ],
-    [
      "2026-09-19T15:15:22.897877+09:00",
      "표명 유감 SK오션플랜트 행정사무감사 불출석에 고성군의회"
     ],
@@ -162,10 +158,13 @@
     [
      "2026-09-19T20:35:18.314061+09:00",
      "교수 중국대학원 성균관대 세계의 시대 박기순 누가"
+    ],
+    [
+     "2026-09-19T21:00:35.357092+09:00",
+     "SK하이닉스 치고 동시에 마이크론 CXMT 온다 메모리 삼성전자"
     ]
    ],
    "seen_urls": [
-    "http://www.newsdream.kr/news/articleView.html?idxno=118457",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1724786",
     "https://www.kado.net/news/articleView.html?idxno=2073597",
     "https://www.hankyung.com/article/2026091828656",
@@ -1664,10 +1663,10 @@
     "https://www.tournews21.com/news/articleView.html?idxno=143937",
     "https://economychosun.com/site/data/html_dir/2026/09/11/2026091100021.html",
     "https://economychosun.com/site/data/html_dir/2026/09/11/2026091100015.html",
-    "https://economychosun.com/site/data/html_dir/2026/09/11/2026091100017.html"
+    "https://economychosun.com/site/data/html_dir/2026/09/11/2026091100017.html",
+    "https://www.joongangenews.com/news/articleView.html?idxno=549398"
    ],
    "seen_titles": [
-    "SKT,T팩토리성수서'이모션랩'전시…\"감정도데이터로연결한다\"",
     "SK그룹부회장3명,SK하이닉스로이동…글로벌전략·조직정비힘싣는...",
     "[속보]코스피2%대상승출발…장초반6800선회복",
     "코스피,美금리인상소화하며장초반2%대반등",
@@ -3166,10 +3165,11 @@
     "\"지금용인은축제중\"...이상일시장,\"주민과함께만드는'살기좋은...",
     "[법으로읽는경제인사이트|한종목에‘2배’로투자하는시대]단일...",
     "[재계이슈]최태원,한일상공회의소회장단회의서경제공동체강조...",
-    "[특별기고]박기순성균관대중국대학원교수|AI시대,누가세계의판..."
+    "[특별기고]박기순성균관대중국대학원교수|AI시대,누가세계의판...",
+    "中CXMT·美마이크론동시에치고온다…삼성전자·SK하이닉스'메모리..."
    ],
    "initialized": true,
-   "last_run": "2026-09-19T20:55:18.343570+09:00"
+   "last_run": "2026-09-19T21:00:35.357092+09:00"
   }
  },
  "press_names": {
