@@ -518,13 +518,17 @@
     [
      "2026-09-20T18:30:28.753461+09:00",
      "톱10 반도체 절반 코스닥 소부장의 시간 차지 시총"
+    ],
+    [
+     "2026-09-20T18:41:28.834559+09:00",
+     "한일전 남자농구 아시안게임 나고야 결승 20일 아이치"
+    ],
+    [
+     "2026-09-20T18:41:28.834559+09:00",
+     "패배 강원FC 제주SK에 0대1 선수 공백 이겨낸 홈에서 주축"
     ]
    ],
    "seen_urls": [
-    "https://www.ngetnews.com/news/articleView.html?idxno=553480",
-    "http://www.inews24.com/view/2007203",
-    "https://view.asiae.co.kr/article/2026091810334546195",
-    "https://www.tokenpost.kr/news/cryptocurrency/410142",
     "https://www.g-enews.com/view.php?ud=202609181342109179daecd3dad5_1",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=614217",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=854212",
@@ -2020,13 +2024,13 @@
     "https://www.ccdn.co.kr/news/articleView.html?idxno=1101031",
     "https://www.dt.co.kr/article/12085013",
     "https://www.yna.co.kr/view/AKR20260920045700007?input=1195m",
-    "https://www.hankyung.com/article/2026092062901"
+    "https://www.hankyung.com/article/2026092062901",
+    "https://www.sportsseoul.com/news/read/1636536",
+    "https://www.fnnews.com/news/202609201835424361",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16201109",
+    "https://www.kwnews.co.kr/article/20260920501766"
    ],
    "seen_titles": [
-    "정유업계,AI데이터센터열관리패권경쟁…밸류체인구축속도",
-    "재판선'분할재산'언론선'동거인에쓴돈'…최태원한남동자택300억...",
-    "[기자회견일문일답]李\"국민존중심부족...개혁포기안해\"",
-    "원·달러환율6거래일간46.1원급등…다시1400원가나",
     "TLT무기한계약출시…최대20배·365일거래",
     "먼저홀인원박보겸은9800만CN모터스하이리무진차,두번째홀인원...",
     "SK부회장3인,하이닉스로전격이동…반도체총력전",
@@ -3522,10 +3526,14 @@
     "충북학사,지역기업탐방프로그램",
     "[기획]이자뛰는데만기성큼…고금리에자금조달‘발등의불’",
     "[프로축구강릉전적]제주1-0강원",
-    "반도체소부장의시간…코스닥시총톱10중절반차지"
+    "반도체소부장의시간…코스닥시총톱10중절반차지",
+    "김태현자책골에추가시간‘극장골실점’전북,광주와1-1무승부4위...",
+    "삼전닉스‘반등시그널’…현물팔던외국인들,선물순매수",
+    "2026아이치나고야아시안게임남자농구,오늘(20일)결승한일전…중...",
+    "주축선수공백못이겨낸강원FC,홈에서제주SK에0대1패배"
    ],
    "initialized": true,
-   "last_run": "2026-09-20T18:40:23.300865+09:00"
+   "last_run": "2026-09-20T18:41:28.834559+09:00"
   }
  },
  "press_names": {
