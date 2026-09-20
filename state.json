@@ -458,11 +458,17 @@
     [
      "2026-09-20T20:35:18.104989+09:00",
      "정면 반도체 호남 65만톤 국가기관간 충돌 용수 타당성"
+    ],
+    [
+     "2026-09-20T20:45:21.243282+09:00",
+     "울산대 인공지능 업무혁신 문제 업무 SK에너지 산업현장 해결"
+    ],
+    [
+     "2026-09-20T20:45:21.243282+09:00",
+     "광주 쐈다 앰코 투자 클러스터 반도체 신호탄"
     ]
    ],
    "seen_urls": [
-    "https://www.ekn.kr/web/view.php?key=20260918029546378",
-    "https://www.agrinet.co.kr/news/articleView.html?idxno=407300",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=88545",
     "https://edu.donga.com/news/articleView.html?idxno=112116",
     "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609180417&t=NNv",
@@ -1960,11 +1966,11 @@
     "https://www.ccdailynews.com/news/articleView.html?idxno=2442055",
     "https://www.newsway.co.kr/news/view?ud=2026092020234599034",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488856",
-    "https://www.ksmnews.co.kr/news/view.php?idx=622774"
+    "https://www.ksmnews.co.kr/news/view.php?idx=622774",
+    "http://www.ujeil.com/news/articleView.html?idxno=392385",
+    "http://www.kwangju.co.kr/article.php?aid=1789904100803567277"
    ],
    "seen_titles": [
-    "‘15兆AI데이터센터’판벌인GS…자금조달관건은‘빅테크고객’",
-    "“환율하락이배당으로?”...4대금융주주들웃을이유생겼다[머니+]",
     "\"반도체오폐수직방류철회를\"…안성농민'3보1배'투쟁",
     "\"전문가가운용하는연금저축\"…SK증권,'연금저축랩'출시로장기자산...",
     "IPARK현대산업개발,'청주가경아이파크7·8단지'10월분양…약6300세...",
@@ -3462,10 +3468,12 @@
     "충북학사,SK하이닉스기업탐방프로그램진행",
     "코스피받친'35조매수세'막바지…삼전닉스,자사주조기종료눈앞",
     "SK온,헝가리서'나눔실천모범상'수상…현지밀착형CSR성과인정",
-    "호남반도체‘65만톤용수타당성’국가기관간정면충돌"
+    "호남반도체‘65만톤용수타당성’국가기관간정면충돌",
+    "산업현장업무문제'인공지능'이해결…울산대·SK에너지'AI업무혁신...",
+    "앰코,광주반도체클러스터투자신호탄쐈다"
    ],
    "initialized": true,
-   "last_run": "2026-09-20T20:40:33.994732+09:00"
+   "last_run": "2026-09-20T20:45:21.243282+09:00"
   }
  },
  "press_names": {
