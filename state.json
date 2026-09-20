@@ -141,7 +141,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/general-stock/6295010",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591354165219",
     "https://www.job-post.co.kr/news/articleView.html?idxno=228241",
     "https://it.chosun.com/news/articleView.html?idxno=2023092170441",
@@ -1640,10 +1639,10 @@
     "https://www.donga.com/news/Economy/article/all/20260920/134705345/2",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2313103",
     "https://www.chosun.com/politics/diplomacy-defense/2026/09/21/HX3APICXTJBP7AIP6GOFLFGUSM/",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=276629"
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=276629",
+    "https://www.joongangenews.com/news/articleView.html?idxno=549448"
    ],
    "seen_titles": [
-    "[이남석의집맥]도심복합사업은어떻게대형사들의러브콜을받게됐을...",
     "[단독]'SK하닉470만원간다'외쳤던애널…美반도체리서치업체'법인...",
     "한국지텔프,2027년도공인회계사시험대비영어성적인정기준안내",
     "한미반도체23만6500원,4.88%상승…HBM장비주에매수세",
@@ -3142,10 +3141,11 @@
     "SOVAC,기업-기관228곳과‘지역의미래’논의",
     "[SKT],F5와AI클라우드보안협력/'표준협회KS-CQI'5년연속최우...",
     "韓,파병딜레마…美는대미투자·반도체·쿠팡‘다중압박’",
-    "경주'무도런'열기이어간다…SKT,가을러너겨냥'런메이트'프로모..."
+    "경주'무도런'열기이어간다…SKT,가을러너겨냥'런메이트'프로모...",
+    "AMD,엔비디아베라에'2.24배'성능자신…삼성전자·SK하이닉스서버..."
    ],
    "initialized": true,
-   "last_run": "2026-09-21T01:35:19.256719+09:00"
+   "last_run": "2026-09-21T01:40:21.601093+09:00"
   }
  },
  "press_names": {
