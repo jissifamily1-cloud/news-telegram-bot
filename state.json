@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-20T17:15:21.293038+09:00",
-     "활용한 기술 SKT 선보인다 사회문제 해결"
-    ],
-    [
-     "2026-09-20T17:15:21.293038+09:00",
-     "확산 갈등 SK하이닉스 용인 전기 안성 클러스터"
-    ],
-    [
-     "2026-09-20T17:15:21.293038+09:00",
-     "100년 선구자 국회의원 전북 미래 초대석 피지컬AI 정동영 성장엔진"
-    ],
-    [
-     "2026-09-20T17:15:21.293038+09:00",
-     "영산대 관광전공 기획안 구현 학생 OK캐쉬백 서비스로"
-    ],
-    [
      "2026-09-20T17:25:16.855507+09:00",
      "증시의 한국 허와"
     ],
@@ -298,11 +282,13 @@
     [
      "2026-09-20T23:00:32.927399+09:00",
      "CXMT 삼성전자 SK하이닉스 추격 5세대 모바일 D램 메모리 양산"
+    ],
+    [
+     "2026-09-20T23:15:22.887511+09:00",
+     "JOB 열다 구미시 춘하 Tomorrow 채우다"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/general-stock/6295337",
-    "https://www.mediapen.com/news/view/1124544",
     "http://www.srtimes.kr/news/articleView.html?idxno=212856",
     "https://www.greened.kr/news/articleView.html?idxno=350456",
     "https://www.yna.co.kr/view/AKR20260918109400011?input=1195m",
@@ -1800,11 +1786,11 @@
     "https://www.joongangenews.com/news/articleView.html?idxno=549446",
     "https://m.sports.naver.com/basketball/article/065/0000301773",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8668121",
-    "https://www.joongangenews.com/news/articleView.html?idxno=549447"
+    "https://www.joongangenews.com/news/articleView.html?idxno=549447",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2313100",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=743631"
    ],
    "seen_titles": [
-    "금리인상악재에도버티는코스피…\"역시반도체\"",
-    "7000바라보는코스피…금리·유가'진정'외인·기관순매수[장중시황...",
     "이대통령\"주택공급신속히늘릴것…농지조사계획,추석전발표\"",
     "사보원부산경남지역센터,지역아동센터부산지원단과협약체결",
     "[데이터뉴스룸]석화業50곳영업손익70%넘게껑충…S-Oil·LG화학·롯...",
@@ -3302,10 +3288,12 @@
     "中CATL,美픽업전용배터리개발…LG엔솔·SK온·삼성SDI북미수주전...",
     "[2026AG]‘병역특례만8명’이현중·여준석,해외도전장벽사라졌...",
     "노동부,청주SK하이닉스산업안전보건위반119건적발",
-    "中CXMT,5세대D램양산…삼성전자·SK하이닉스모바일메모리추격가..."
+    "中CXMT,5세대D램양산…삼성전자·SK하이닉스모바일메모리추격가...",
+    "SK텔레콤,러닝고객공략확대…'런메이트'프로모션잇따라",
+    "내일(JOB)을채우다,내일(Tomorrow)을열다!…구미시,'2026춘하秋동..."
    ],
    "initialized": true,
-   "last_run": "2026-09-20T23:10:21.603208+09:00"
+   "last_run": "2026-09-20T23:15:22.887511+09:00"
   }
  },
  "press_names": {
