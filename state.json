@@ -454,13 +454,17 @@
     [
      "2026-09-20T11:45:25.018156+09:00",
      "제312회 폐회 정례회 고성군의회 제1차"
+    ],
+    [
+     "2026-09-20T12:00:41.052089+09:00",
+     "정유 사우디 석유시설 원료 덮친 조달 후티 살얼음 석화"
+    ],
+    [
+     "2026-09-20T12:00:41.052089+09:00",
+     "송민우 4강이 김해가야고 절실하다 야전사령관"
     ]
    ],
    "seen_urls": [
-    "https://www.ekn.kr/web/view.php?key=20260918027036393",
-    "http://www.4th.kr/news/articleView.html?idxno=2118310",
-    "http://www.ikld.kr/news/articleView.html?idxno=340969",
-    "https://www.hankookilbo.com/news/article/A2026091810220001573?did=NA",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701614",
     "https://www.insight.co.kr/news/574141",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2472083",
@@ -1956,13 +1960,13 @@
     "https://news.tf.co.kr/read/economy/2368031.htm",
     "https://biz.heraldcorp.com/article/10879487",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=311613",
-    "https://www.newsgn.com/news/articleView.html?idxno=574837"
+    "https://www.newsgn.com/news/articleView.html?idxno=574837",
+    "https://biz.newdaily.co.kr/site/data/html/2026/09/20/2026092000038.html",
+    "https://www.newsis.com/view/NISX20260920_0003797051",
+    "http://www.newstomato.com/ReadNews.aspx?no=1314272&inflow=N",
+    "https://basketkorea.com/news/newsview.php?ncode=1065581024163271"
    ],
    "seen_titles": [
-    "SK이터닉스주가,9월18일장중51,800원5.82%상승",
-    "배터리도‘차이나프리’…K배터리,LFP소재탈중국시동건다",
-    "SKT·LGU+,추석통신망24시간관제..AI로트래픽대응",
-    "한전기술,원전설계에AI접목…AX성과인정",
     "아이폰18프로국내출시…통신3사고객잡기경쟁",
     "애플메모리도'메이드인USA'되나…SK하이닉스·인텔협력설",
     "\"반도체가미래다\"...SK부회장3명,하이닉스로전격이동",
@@ -3458,10 +3462,14 @@
     "SK온,헝가리서지역상생성과인정받아",
     "“80만원→30만원,삼전닉스보다더심하다”‘반토막’에목표가줄하...",
     "경북5대생활권재편...인구감소지역이거점도시인구2배빨아들인다",
-    "고성군의회,제312회제1차정례회폐회"
+    "고성군의회,제312회제1차정례회폐회",
+    "삼성전자·SK하이닉스35조자사주매입내달끝난다…증시'수급공백...",
+    "한화그룹,추석앞두고협력사대금1850억조기지급…상생경영실천",
+    "사우디석유시설덮친후티…정유·석화원료조달‘살얼음’",
+    "[바코인사이드]“4강이절실하다!”김해가야고야전사령관‘송민우..."
    ],
    "initialized": true,
-   "last_run": "2026-09-20T11:55:18.596371+09:00"
+   "last_run": "2026-09-20T12:00:41.052089+09:00"
   }
  },
  "press_names": {
