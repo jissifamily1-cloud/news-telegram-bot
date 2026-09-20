@@ -334,11 +334,13 @@
     [
      "2026-09-21T07:05:16.947319+09:00",
      "아닐까 신호일까 삼전닉스 탈출 돌파 국채"
+    ],
+    [
+     "2026-09-21T07:15:21.497302+09:00",
+     "49만원 찍은 89조 영업익 삼성전자 품귀 골드만 타고 베팅"
     ]
    ],
    "seen_urls": [
-    "https://www.koreatimes.co.kr/path/A2026091815200000065",
-    "https://www.dailian.co.kr/news/view/1692261/?sc=Naver",
     "https://www.m-i.kr/news/articleView.html?idxno=1416101",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609180486&t=NN",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4435673",
@@ -1836,11 +1838,11 @@
     "https://www.mt.co.kr/tech/2026/09/21/2026092015245914259",
     "https://www.koreatimes.co.kr/path/A2026092014270003169",
     "https://www.edaily.co.kr/News/Read?newsId=01777766645582416&mediaCodeNo=257",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8668188"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8668188",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609210019&t=NN",
+    "https://www.g-enews.com/view.php?ud=202609210656395048fbbec65dfb_1"
    ],
    "seen_titles": [
-    "SK증권,전문가운용'연금저축랩'출시",
-    "Presidentstresses'commercialviability'in$350bil.USinvestment",
     "\"SK하닉,美서낸드만든다…뉴욕에새반도체공장검토\"",
     "최태원,재산분할재상고인지대8.5억원…대법사건접수",
     "[매크로인사이트]“원·달러환율반등압력우세…증시는케빈워시...",
@@ -3338,10 +3340,12 @@
     "메모리값오른댔는데\"다들재고가득\"…반도체호황파티에'일침'[IT썰...",
     "Strongerwontotestchip,displayfirms'Q3profitability",
     "[MUSTKNOW5]스페이스X매도급증…AI침입·드러켄밀러방한",
-    "미국채5%돌파…삼전닉스탈출신호일까?아닐까?[잇슈머니]"
+    "미국채5%돌파…삼전닉스탈출신호일까?아닐까?[잇슈머니]",
+    "금리상승에도반도체연이틀강세[굿모닝글로벌이슈]",
+    "AI품귀타고영업익89조찍은삼성전자…골드만'49만원'베팅"
    ],
    "initialized": true,
-   "last_run": "2026-09-21T07:10:22.691177+09:00"
+   "last_run": "2026-09-21T07:15:21.497302+09:00"
   }
  },
  "press_names": {
