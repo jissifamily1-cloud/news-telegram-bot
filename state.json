@@ -437,10 +437,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news2day.co.kr/article/20260918500082",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092170427",
-    "https://www.inthenews.co.kr/news/article.html?no=92092",
-    "http://www.finomy.com/news/articleView.html?idxno=261927",
     "https://www.itdaily.kr/news/articleView.html?idxno=241714",
     "https://www.businesspost.co.kr/BP?command=article_view&num=447531",
     "https://www.fnnews.com/news/202609180941030681",
@@ -1936,13 +1932,13 @@
     "https://www.socialvalue.kr/news/view/1065574810357096",
     "https://www.fnnews.com/news/202609201034482911",
     "https://www.chosun.com/economy/money/2026/09/20/XSRIHR2Q4ZHNDPXSE72XWO74G4/",
-    "https://www.mt.co.kr/industry/2026/09/20/2026092009391131683"
+    "https://www.mt.co.kr/industry/2026/09/20/2026092009391131683",
+    "https://www.seoultimes.news/news/article.html?no=2000100074",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=365785",
+    "https://www.viva100.com/article/20260920500249",
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=89505"
    ],
    "seen_titles": [
-    "삼성SDI·SK온LFP뚫은엘앤에프,6년만에'기업얼굴'새단장",
-    "[N2증시풍향계]삼성전자·SK하이닉스강세…반도체소부장·전선株‘...",
-    "통신3사,추석연휴특별소통대책마련",
-    "이통3사,추석앞두고네트워크집중관리돌입…협력사상생도나서",
     "코스피,美증시훈풍에2%대상승···6800선회복",
     "'아이폰18프로'​​​​​​​예약비중70%이상…이통3사,출시혜택...",
     "IBK증권\"롯데이노베이트데이터센터부문성장기대,설계·구축·운영...",
@@ -3438,10 +3434,14 @@
     "30년만에다시불거진'노태우비자금'…노소영까지향한검찰수사",
     "SOVAC,228개기업·기관과'지역의미래'위해머리맞댄다",
     "외국인공백채웠던삼전닉스자사주매입...이르면다음달중순끝날듯",
-    "최태원의SOVAC,'사회적가치페스타'주관…\"로컬-지역의미래\""
+    "최태원의SOVAC,'사회적가치페스타'주관…\"로컬-지역의미래\"",
+    "SK온,헝가리서‘나눔실천모범상’…CSR시상식2년연속수상",
+    "반도체일자리17만4000개역대최대…신규채용은8년새22%↓",
+    "최태원회장제안SOVAC,‘지역의미래’와AI활용사회적가치해법조...",
+    "SK온,헝가리CSR2년연속수상…현지생산거점과지역사회상생강화"
    ],
    "initialized": true,
-   "last_run": "2026-09-20T10:55:16.303119+09:00"
+   "last_run": "2026-09-20T11:00:33.130980+09:00"
   }
  },
  "press_names": {
