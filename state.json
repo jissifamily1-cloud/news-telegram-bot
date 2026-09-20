@@ -102,11 +102,17 @@
     [
      "2026-09-21T04:40:23.332858+09:00",
      "빼고 찾는 기업들 대신 줄였다 은행 삼성 회사채"
+    ],
+    [
+     "2026-09-21T04:55:16.714125+09:00",
+     "희토류 11월 앉았다 놓고 다시 무역 마주"
+    ],
+    [
+     "2026-09-21T04:55:16.714125+09:00",
+     "속도조절론 기업공개 앤트로픽 11월로"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=447574",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=228250",
     "https://www.joongangenews.com/news/articleView.html?idxno=549274",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=319849",
     "https://www.koreaherald.com/article/10878606",
@@ -1604,11 +1610,11 @@
     "https://www.newsis.com/view/NISX20260920_0003797126",
     "https://biz.sbs.co.kr/article_hub/20000335753?division=NAVER",
     "https://www.donga.com/news/Economy/article/all/20260921/134706429/2",
-    "https://www.mt.co.kr/finance/2026/09/21/2026091716354473752"
+    "https://www.mt.co.kr/finance/2026/09/21/2026091716354473752",
+    "https://www.geconomy.co.kr/news/article.html?no=323837",
+    "https://biz.sbs.co.kr/article_hub/20000335756?division=NAVER"
    ],
    "seen_titles": [
-    "TSMC올리자AMD도AI칩가격10%인상…삼성전자·SK하이닉스HBM가격도...",
-    "최태원,대법에재산분할재상고접수·인지대8억납부",
     "주성엔지니어링20만4500원강보합…장중21만4000원찍고상승폭반납",
     "SK하이닉스,미국서'낸드'도만든다?…자회사솔리다임첫현지생산거...",
     "이재명\"대미3500억달러투자,상업적합리성있어야\"",
@@ -3106,10 +3112,12 @@
     "금리인상악재에도굳건한증시…\"10월반등기회온다\"",
     "中창신메모리,5세대D램공정양산돌입…‘삼전닉스’추격가속",
     "[단독]‘엔비디아천하’AI칩,국산상용화첫발…“의존낮출선택지...",
-    "삼성빼고다줄였다…회사채대신은행찾는기업들"
+    "삼성빼고다줄였다…회사채대신은행찾는기업들",
+    "[글로벌경제]美·中,AI·희토류놓고다시마주앉았다…11월‘무역...",
+    "[글로벌비즈브리핑]'AI속도조절론'속...앤트로픽,기업공개11월로..."
    ],
    "initialized": true,
-   "last_run": "2026-09-21T04:50:21.843266+09:00"
+   "last_run": "2026-09-21T04:55:16.714125+09:00"
   }
  },
  "press_names": {
