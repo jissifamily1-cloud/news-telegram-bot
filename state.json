@@ -690,13 +690,21 @@
     [
      "2026-09-21T21:40:28.989405+09:00",
      "KODEX 거래 ETF 거래대금 1위 하루 3조"
+    ],
+    [
+     "2026-09-21T21:55:19.715599+09:00",
+     "100가구에 17종 취약 SK에너지와 생필품 함께"
+    ],
+    [
+     "2026-09-21T21:55:19.715599+09:00",
+     "해법 난제 석화 정유 찾는다 현장"
+    ],
+    [
+     "2026-09-21T21:55:19.715599+09:00",
+     "목표 연간 하도급률 3분기 건설공사 돌파"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=2026092022075720220c8c1c064d_1",
-    "https://news.mtn.co.kr/news-detail/2026092017095825346",
-    "https://www.sedaily.com/article/20093184",
-    "https://www.segye.com/newsView/20260920509208?OutUrl=naver",
     "https://www.segye.com/newsView/20260921500152?OutUrl=naver",
     "http://www.metroseoul.co.kr/article/20260920500286",
     "https://www.edaily.co.kr/News/Read?newsId=01607206645582416&mediaCodeNo=257",
@@ -2192,13 +2200,13 @@
     "http://www.econotelling.com/news/articleView.html?idxno=21346",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2473145",
     "http://www.econonews.co.kr/news/articleView.html?idxno=444681",
-    "http://www.kjdaily.com/article.php?aid=1789994238687460276"
+    "http://www.kjdaily.com/article.php?aid=1789994238687460276",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489304",
+    "https://www.ulsanpress.net/news/articleView.html?idxno=583533",
+    "https://www.ulsanpress.net/news/articleView.html?idxno=583491",
+    "https://www.ulsanpress.net/news/articleView.html?idxno=583530"
    ],
    "seen_titles": [
-    "SK이노베이션,베트남국영PV파워와'꾸인랍LNG발전소'합작법인공식...",
-    "미중정상회담·추석앞둔코스피…상승세이어갈까",
-    "美·中정상24일백악관회담…빅테크CEO대거배석[글로벌모닝브리...",
-    "전남광주‘3청사체제’10월7일가동",
     "김후곤광장대표변호사“기술유출범죄네트워크에대응할법필요”...",
     "메트로신문9월21일자한줄뉴스",
     "“반도체공장가동앞두고도로·용수아직…인프라지원서둘러야\"",
@@ -3694,10 +3702,14 @@
     "'군계일학'삼성전자의약진",
     "청주대평생교육원,행복모아장애인재직자대상'충북시민대학'하반...",
     "코스피,1%대상승에7000선회복...삼성전자,SK스퀘어등상승",
-    "[오늘증권]KODEX200하루2.3조거래…ETF거래대금1위"
+    "[오늘증권]KODEX200하루2.3조거래…ETF거래대금1위",
+    "삼성자산운용,미국반도체에SK하이닉스ADR편입...AI메모리투자확대",
+    "SK에너지와함께취약100가구에17종생필품",
+    "정유·석화현장난제해법찾는다",
+    "3분기건설공사하도급률38.06%연간목표돌파"
    ],
    "initialized": true,
-   "last_run": "2026-09-21T21:50:24.201257+09:00"
+   "last_run": "2026-09-21T21:55:19.715599+09:00"
   }
  },
  "press_names": {
