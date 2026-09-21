@@ -1066,12 +1066,17 @@
     [
      "2026-09-21T19:45:24.388732+09:00",
      "상한가 신규상장 토마토시스템 비트플래 네오사피엔스"
+    ],
+    [
+     "2026-09-21T20:00:36.422816+09:00",
+     "선물 상승세 상당한 초반 유럽시장 월스트리트"
+    ],
+    [
+     "2026-09-21T20:00:36.422816+09:00",
+     "여준석 뒤엔 이현중 있었다 농구 쾌거 이정현"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=20260920155217239fbbec65dfb_1",
-    "https://www.g-enews.com/view.php?ud=202609201554436085fbbec65dfb_1",
-    "https://www.g-enews.com/view.php?ud=202609201600365869fbbec65dfb_1",
     "https://www.newsis.com/view/NISX20260920_0003797126",
     "https://biz.sbs.co.kr/article_hub/20000335753?division=NAVER",
     "https://www.donga.com/news/Economy/article/all/20260921/134706429/2",
@@ -2568,12 +2573,12 @@
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=277466",
     "https://www.fnnews.com/news/202609211922462441",
     "https://www.thelec.kr/news/articleView.html?idxno=62626",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1183123"
+    "https://www.ggilbo.com/news/articleView.html?idxno=1183123",
+    "https://www.bigtanews.co.kr/article/view/big202609210031",
+    "https://www.newsis.com/view/NISX20260921_0003799159",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260922.22013007305"
    ],
    "seen_titles": [
-    "유럽이마주한AI의딜레마,전력망한계와기술종속의갈림길",
-    "오픈AI추격에카드뽑은앤트로픽,신모델검토하며상장시계도조율...",
-    "300단고비넘는AI스토리지,웨이퍼본딩으로원가절감나선다",
     "금리인상악재에도굳건한증시…\"10월반등기회온다\"",
     "中창신메모리,5세대D램공정양산돌입…‘삼전닉스’추격가속",
     "[단독]‘엔비디아천하’AI칩,국산상용화첫발…“의존낮출선택지...",
@@ -4070,10 +4075,13 @@
     "S&PWarnsKoreaDataCenterBoomMayPressureRatings",
     "[구본영칼럼]국정기조바꾸라는민심의경고등",
     "곽노정\"메모리없는AI산업없다...용인·미국서기술우위\"",
-    "[주식마감]'신규상장'네오사피엔스상한가...토마토시스템,비트플래..."
+    "[주식마감]'신규상장'네오사피엔스상한가...토마토시스템,비트플래...",
+    "[증시오늘]7거래일만에코스피7000선탈환",
+    "미월스트리트선물및유럽시장초반상당한상승세…'미-중'",
+    "男농구쾌거…이현중뒤엔이정현·여준석있었다"
    ],
    "initialized": true,
-   "last_run": "2026-09-21T19:55:20.074803+09:00"
+   "last_run": "2026-09-21T20:00:36.422816+09:00"
   }
  },
  "press_names": {
