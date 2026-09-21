@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-21T13:20:23.285586+09:00",
-     "갈랐다 현금 여유 호황이 순차입금 10대 산업 84조 체력"
-    ],
-    [
-     "2026-09-21T13:20:23.285586+09:00",
-     "품귀 독감백신 조달 공급망 물량 남겼다 충분한데 숙제 최저가"
-    ],
-    [
      "2026-09-21T13:30:28.495920+09:00",
      "개최 밋업데이 공동 밸류업 딥테크 스타트 서울창조경제혁신센터"
     ],
@@ -1106,12 +1098,13 @@
     [
      "2026-09-21T19:15:24.214793+09:00",
      "주목해야 어디에 국내 추석 전후 증시 하나"
+    ],
+    [
+     "2026-09-21T19:25:20.456732+09:00",
+     "반도체주 몰빵의 대가 빚투 무너졌나 개미는"
     ]
    ],
    "seen_urls": [
-    "https://www.newsverse.kr/news/articleView.html?idxno=11483",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000013882&cp=nv",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000013887&cp=nv",
     "https://www.donga.com/news/Economy/article/all/20260920/134705350/2",
     "https://www.donga.com/news/Economy/article/all/20260920/134705345/2",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2313103",
@@ -2608,12 +2601,12 @@
     "https://www.hidomin.com/news/articleView.html?idxno=722230",
     "https://www.sedaily.com/article/20093666",
     "https://www.fnnews.com/news/202609211900189636",
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4107833"
+    "https://news.bbsi.co.kr/news/articleView.html?idxno=4107833",
+    "https://www.industrynews.co.kr/news/articleView.html?idxno=86359",
+    "https://www.munhwa.com/article/11618686",
+    "http://www.sisacast.kr/news/articleView.html?idxno=100310"
    ],
    "seen_titles": [
-    "[오늘의경제뉴스]'삼전·닉스레버리지ETF'국감뇌관…박현주증언...",
-    "개미56조손실…증권사두달간수백억수수료수익",
-    "[국민논단]한국경제대박의빛과그림자",
     "‘반도체’근로자,月943만원벌었다…성과급에월급도초격차",
     "SOVAC,기업-기관228곳과‘지역의미래’논의",
     "[SKT],F5와AI클라우드보안협력/'표준협회KS-CQI'5년연속최우...",
@@ -4110,10 +4103,13 @@
     "포스코,냉각수재사용하고물도아낀다",
     "원안위,美와SMR심사협력추진한다",
     "SK하닉‘채권60조매입說’…시장떠받쳤지만고금리는부담",
-    "[금융한입]추석전후국내증시,어디에주목해야하나"
+    "[금융한입]추석전후국내증시,어디에주목해야하나",
+    "[배터리코리아]K-배터리,가격경쟁넘어초격차기술경쟁으로…차세...",
+    "4천대1뚫고들어간‘하닉’신입4명입사하자마자해고,왜?",
+    "[증시이슈]반도체주몰빵의대가…빚투개미는왜무너졌나"
    ],
    "initialized": true,
-   "last_run": "2026-09-21T19:20:23.106705+09:00"
+   "last_run": "2026-09-21T19:25:20.456732+09:00"
   }
  },
  "press_names": {
