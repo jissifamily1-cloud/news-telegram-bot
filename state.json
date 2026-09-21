@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-21T23:40:28.291163+09:00",
-     "받고 성과급도 무슨 SK하이닉스서 해고된 신입"
-    ],
-    [
      "2026-09-21T23:55:20.494441+09:00",
      "HVAC 삼성전자 지역 본격화 착공 투자 생산라인 광주 반도체"
     ],
@@ -162,12 +158,17 @@
     [
      "2026-09-22T05:35:19.351586+09:00",
      "수급 대란 백신이 독감접종 비급여 없어요 현실화"
+    ],
+    [
+     "2026-09-22T05:45:21.375257+09:00",
+     "논란 매달려 지하철이 손잡이 운동 철봉 체육관"
+    ],
+    [
+     "2026-09-22T05:45:21.375257+09:00",
+     "K배터리 북미 호황에 수주 순풍 ESS"
     ]
    ],
    "seen_urls": [
-    "https://www.thelec.kr/news/articleView.html?idxno=62540",
-    "https://www.slist.kr/news/articleView.html?idxno=767623",
-    "https://www.sedaily.com/article/20093058",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701784",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=866495",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701904",
@@ -1664,12 +1665,12 @@
     "https://www.dt.co.kr/article/12085291",
     "https://www.news1.kr/world/international-economy/6298139",
     "http://coinreaders.com/259494",
-    "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170826"
+    "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170826",
+    "https://www.sedaily.com/article/20093713",
+    "http://www.yonhapnewstv.co.kr/news/MYH20260922054205mHC",
+    "https://www.sidae.com/article/2026092114512811619"
    ],
    "seen_titles": [
-    "SK온,헝가리사회공헌모범상수상",
-    "'사랑의하츄핑:고래보석의전설',오늘(21일)부터IPTV서비스",
-    "“불공정체감커져…정부,개입보다시장통해답찾아야”",
     "'카드없이전기차충전'시장열린다...완성차vs충전사업자선점전",
     "EV판도바뀐다…K배터리셈법은",
     "에이전틱AI로가는데이터퍼스트전략어떻게?...'디지털인사이트202...",
@@ -3166,10 +3167,13 @@
     "[속보]나스닥2.26%급등…AI·반도체주‘폭풍랠리’",
     "美반도체주AI훈풍에급등…AMD시총1조달러돌파",
     "바이낸스,주식토큰25종상장...SK하이닉스·테슬라까지거래'오케이...",
-    "\"백신이없어요\"…현실화된비급여독감접종'수급대란'"
+    "\"백신이없어요\"…현실화된비급여독감접종'수급대란'",
+    "나스닥,AI주급등에사상최고...AMD,시총1조弗돌파[데일리국제금...",
+    "[[이시각핫뉴스]지하철이체육관?…손잡이매달려철봉운동논란外",
+    "북미ESS호황에K배터리수주순풍"
    ],
    "initialized": true,
-   "last_run": "2026-09-22T05:40:23.934343+09:00"
+   "last_run": "2026-09-22T05:45:21.375257+09:00"
   }
  },
  "press_names": {
