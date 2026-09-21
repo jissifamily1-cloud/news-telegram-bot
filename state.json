@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-21T21:15:24.703115+09:00",
-     "사의 대오 강훈식 표명 흐트러 참모진에"
-    ],
-    [
      "2026-09-21T21:30:29.175946+09:00",
      "피델릭스 엑시콘 거래정지 예고 광전자 에이치엠넥스 투자"
     ],
@@ -174,10 +170,13 @@
     [
      "2026-09-22T02:30:29.231537+09:00",
      "이수페타시스 1위 상승률 급등하며"
+    ],
+    [
+     "2026-09-22T03:20:22.008014+09:00",
+     "AI가 해결자 사회문제 복잡해진"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/industry/general-industry/6295639",
     "http://www.economytalk.kr/news/articleView.html?idxno=424222",
     "https://www.mt.co.kr/tech/2026/09/21/2026092015245914259",
     "https://www.koreatimes.co.kr/path/A2026092014270003169",
@@ -1676,10 +1675,10 @@
     "https://www.chosun.com/economy/industry-company/2026/09/22/VUK3OE2U4NFJ7P3OXCVUMW7L7Y/",
     "https://www.joongangenews.com/news/articleView.html?idxno=549877",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000014262&cp=nv",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489315"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489315",
+    "https://www.mt.co.kr/industry/2026/09/22/2026092119440526291"
    ],
    "seen_titles": [
-    "빅테크'현금고갈?'28년까지투자'실탄'충분…삼전닉스'미소'",
     "[AX·6G③]알뜰폰,가입자늘린다음은?SKT가꺼낸'자생력과제'",
     "메모리값오른댔는데\"다들재고가득\"…반도체호황파티에'일침'[IT썰...",
     "Strongerwontotestchip,displayfirms'Q3profitability",
@@ -3178,10 +3177,11 @@
     "“美,메가프로젝트발표에불만…한국이간본다고생각”",
     "골드만삭스\"韓반도체내년순현금300조원↑·GDP9.3%\"…삼성전자·SK...",
     "“자산50%는‘코어자산’으로두고유동성비중20%는지켜라”",
-    "[KOSPI200]이수페타시스6.36%급등하며상승률1위"
+    "[KOSPI200]이수페타시스6.36%급등하며상승률1위",
+    "\"복잡해진사회문제,AI가해결자될것\""
    ],
    "initialized": true,
-   "last_run": "2026-09-22T03:15:23.461861+09:00"
+   "last_run": "2026-09-22T03:20:22.008014+09:00"
   }
  },
  "press_names": {
