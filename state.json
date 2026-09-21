@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-21T23:55:20.494441+09:00",
-     "HVAC 삼성전자 지역 본격화 착공 투자 생산라인 광주 반도체"
-    ],
-    [
-     "2026-09-21T23:55:20.494441+09:00",
-     "마감 투자심리 7000선 강화 탈환 코스피"
-    ],
-    [
      "2026-09-22T00:05:17.794487+09:00",
      "발목 코앞인데 용인 가동 도로 용수에"
     ],
@@ -166,10 +158,13 @@
     [
      "2026-09-22T05:45:21.375257+09:00",
      "K배터리 북미 호황에 수주 순풍 ESS"
+    ],
+    [
+     "2026-09-22T05:55:24.686068+09:00",
+     "증시 마감 금리 유가 하락에 상승"
     ]
    ],
    "seen_urls": [
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701784",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=866495",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701904",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701662",
@@ -1668,10 +1663,10 @@
     "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170826",
     "https://www.sedaily.com/article/20093713",
     "http://www.yonhapnewstv.co.kr/news/MYH20260922054205mHC",
-    "https://www.sidae.com/article/2026092114512811619"
+    "https://www.sidae.com/article/2026092114512811619",
+    "https://www.news2day.co.kr/article/20260921500263"
    ],
    "seen_titles": [
-    "'카드없이전기차충전'시장열린다...완성차vs충전사업자선점전",
     "EV판도바뀐다…K배터리셈법은",
     "에이전틱AI로가는데이터퍼스트전략어떻게?...'디지털인사이트202...",
     "10월'아이폰듀오'국내출시…통신사'애플특수'이어지나",
@@ -3170,10 +3165,11 @@
     "\"백신이없어요\"…현실화된비급여독감접종'수급대란'",
     "나스닥,AI주급등에사상최고...AMD,시총1조弗돌파[데일리국제금...",
     "[[이시각핫뉴스]지하철이체육관?…손잡이매달려철봉운동논란外",
-    "북미ESS호황에K배터리수주순풍"
+    "북미ESS호황에K배터리수주순풍",
+    "[N2모닝경제브리핑-9월22일]美증시,유가·금리하락에상승마감..."
    ],
    "initialized": true,
-   "last_run": "2026-09-22T05:50:23.737320+09:00"
+   "last_run": "2026-09-22T05:55:24.686068+09:00"
   }
  },
  "press_names": {
