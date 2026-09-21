@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-21T19:00:39.534701+09:00",
-     "상승률인데 수준 록펠러 변동성은 위기국 회장이 세계 최고"
-    ],
-    [
-     "2026-09-21T19:00:39.534701+09:00",
-     "홍콩 약품주 증시 마감 H주 정책 강세로 기대 상승"
-    ],
-    [
-     "2026-09-21T19:00:39.534701+09:00",
-     "부동산 정점 언제 올지 쏠림 계산 바꾸려 불가능 메모리 공급"
-    ],
-    [
      "2026-09-21T19:15:24.214793+09:00",
      "포스코 재사용하고 물도 냉각수 아낀다"
     ],
@@ -278,10 +266,13 @@
     [
      "2026-09-22T00:50:24.377439+09:00",
      "예탁금 석달 줄어 증시 게걸음 주식 넘게 40조"
+    ],
+    [
+     "2026-09-22T01:00:41.301100+09:00",
+     "발표에 불만 한국이 생각 본다고 메가프로젝트"
     ]
    ],
    "seen_urls": [
-    "https://shindonga.donga.com/3/all/13/6392110/1",
     "https://economist.co.kr/article/view/ecn202609150052",
     "https://economist.co.kr/article/view/ecn202609170034",
     "https://www.nocutnews.co.kr/news/6579958",
@@ -1780,10 +1771,10 @@
     "https://www.joongangenews.com/news/articleView.html?idxno=549876",
     "https://www.chosun.com/economy/tech_it/2026/09/22/PBHEMQ5UV5EHDC5YOEKLEGLV44/",
     "https://www.donga.com/news/Economy/article/all/20260921/134713142/2",
-    "https://www.chosun.com/economy/money/2026/09/22/VIOOVCM64RDIDEYLXOY3VX7QUU/"
+    "https://www.chosun.com/economy/money/2026/09/22/VIOOVCM64RDIDEYLXOY3VX7QUU/",
+    "https://www.chosun.com/economy/industry-company/2026/09/22/VUK3OE2U4NFJ7P3OXCVUMW7L7Y/"
    ],
    "seen_titles": [
-    "“李정부국정과제1호는대통령감옥안가게하는건가”",
     "삼성·SK하이닉스통크게쐈지만…갈길먼기업‘주주환원’확대",
     "한국주식싸다고팔릴까?",
     "'교육의경계허물다'울산과학대학교,통념넘어새대학모델제시",
@@ -3282,10 +3273,11 @@
     "中CATL·BYD,나트륨배터리'400GWh'질주…LG엔솔·삼성SDI·SK온새원...",
     "진화하는中창신메모리…웨이퍼한장서칩50%더뽑아내",
     "SK하이닉스“차세대메모리로새AI시대개척”",
-    "게걸음증시…주식예탁금석달새40조넘게줄어"
+    "게걸음증시…주식예탁금석달새40조넘게줄어",
+    "“美,메가프로젝트발표에불만…한국이간본다고생각”"
    ],
    "initialized": true,
-   "last_run": "2026-09-22T00:55:17.468153+09:00"
+   "last_run": "2026-09-22T01:00:41.301100+09:00"
   }
  },
  "press_names": {
