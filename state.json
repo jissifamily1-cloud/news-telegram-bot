@@ -1030,11 +1030,13 @@
     [
      "2026-09-21T20:00:36.422816+09:00",
      "여준석 뒤엔 이현중 있었다 농구 쾌거 이정현"
+    ],
+    [
+     "2026-09-21T20:10:23.078368+09:00",
+     "발목 청주에 전력이 100조 쏟아붓는데"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260920_0003797126",
-    "https://biz.sbs.co.kr/article_hub/20000335753?division=NAVER",
     "https://www.donga.com/news/Economy/article/all/20260921/134706429/2",
     "https://www.mt.co.kr/finance/2026/09/21/2026091716354473752",
     "https://www.geconomy.co.kr/news/article.html?no=323837",
@@ -2532,11 +2534,11 @@
     "https://www.ggilbo.com/news/articleView.html?idxno=1183123",
     "https://www.bigtanews.co.kr/article/view/big202609210031",
     "https://www.newsis.com/view/NISX20260921_0003799159",
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260922.22013007305"
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260922.22013007305",
+    "http://www.paxetv.com/news/articleView.html?idxno=282474",
+    "http://www.cctimes.kr/news/articleView.html?idxno=928872"
    ],
    "seen_titles": [
-    "금리인상악재에도굳건한증시…\"10월반등기회온다\"",
-    "中창신메모리,5세대D램공정양산돌입…‘삼전닉스’추격가속",
     "[단독]‘엔비디아천하’AI칩,국산상용화첫발…“의존낮출선택지...",
     "삼성빼고다줄였다…회사채대신은행찾는기업들",
     "[글로벌경제]美·中,AI·희토류놓고다시마주앉았다…11월‘무역...",
@@ -4034,10 +4036,12 @@
     "[주식마감]'신규상장'네오사피엔스상한가...토마토시스템,비트플래...",
     "[증시오늘]7거래일만에코스피7000선탈환",
     "미월스트리트선물및유럽시장초반상당한상승세…'미-중'",
-    "男농구쾌거…이현중뒤엔이정현·여준석있었다"
+    "男농구쾌거…이현중뒤엔이정현·여준석있었다",
+    "SK바이오팜,'대한민국사회적가치페스타'참가...뇌전증환자와가족...",
+    "청주에100조쏟아붓는데물·전력이`발목?'"
    ],
    "initialized": true,
-   "last_run": "2026-09-21T20:05:19.544767+09:00"
+   "last_run": "2026-09-21T20:10:23.078368+09:00"
   }
  },
  "press_names": {
