@@ -322,16 +322,33 @@
     [
      "2026-09-23T07:30:29.723605+09:00",
      "국내외 알아야 경제뉴스"
+    ],
+    [
+     "2026-09-23T07:40:22.452656+09:00",
+     "VOD 공개 오케이마담2"
+    ],
+    [
+     "2026-09-23T07:40:22.452656+09:00",
+     "무슨 신입사원 해고 4명 SK하이닉스 연수"
+    ],
+    [
+     "2026-09-23T07:40:22.452656+09:00",
+     "VOD 시작 동시 서비스 마담2 IPTV 오케이 극장"
+    ],
+    [
+     "2026-09-23T07:40:22.452656+09:00",
+     "빗겨간 코스피 매도 개인 7천피 AI훈풍 턱걸이"
+    ],
+    [
+     "2026-09-23T07:40:22.452656+09:00",
+     "이제는 싸움 줄인다 249만톤 수요 석화"
+    ],
+    [
+     "2026-09-23T07:40:22.452656+09:00",
+     "반도체 한미동맹 새공식 철강 프렌드쇼어링"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764947&plink=ORI&cooper=NAVER",
-    "https://www.fntimes.com/html/view.php?ud=202609220714294731141825007d_18",
-    "http://www.newsdream.kr/news/articleView.html?idxno=118647",
-    "https://biz.sbs.co.kr/article_hub/20000336080?division=NAVER",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16206140",
-    "https://www.greened.kr/news/articleView.html?idxno=350608",
-    "https://isplus.com/article/view/isp202609220008",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=276907",
     "https://www.dt.co.kr/article/12085299",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702102",
@@ -1824,16 +1841,16 @@
     "https://www.news2day.co.kr/article/20260922500042",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003269555&CMPT_CD=P0010",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609230016&t=NN",
-    "https://www.fntimes.com/html/view.php?ud=202609230712135499141825007d_18"
+    "https://www.fntimes.com/html/view.php?ud=202609230712135499141825007d_18",
+    "https://www.newsway.co.kr/news/view?ud=2026092307174757294",
+    "https://www.bntnews.co.kr/article/view/bnt202609230028",
+    "http://www.joseilbo.com/news/news_read.php?uid=576254&class=78",
+    "https://www.slist.kr/news/articleView.html?idxno=768242",
+    "https://biz.sbs.co.kr/article_hub/20000336381?division=NAVER",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=867407",
+    "https://weekly.hankooki.com/news/articleView.html?idxno=7184827"
    ],
    "seen_titles": [
-    "[VC·PE20년의헌사]소프트뱅크떠난SBVA,AUM3조눈앞",
-    "아시안게임금메달선수보러가자…모레부터프로농구시범경기",
-    "[KFT모닝브리프]2026.09.22—오늘꼭알아야할국내외경제뉴스",
-    "[키-리포트]유안타\"대한유화,하반기실적부진전망\"",
-    "[마켓프리뷰]추석앞두고관망심리이겨낸코스피…'7천피'재탈환",
-    "'오픈매치데이'로개막준비…KBL시범경기24일tip-off",
-    "최태원회장\"사회적비용해결책은AI·사회적가치인센티브시스템\"...",
     "'AG금'남자농구대표팀열기국내로...추석연휴에프로농구시범경...",
     "유안타증권\"대한유화,하반기실적부진우려...내년스페셜티에기대...",
     "메타,AI에이전트‘뮤즈’돌풍에주가11%급등…AMD도시총1조달러...",
@@ -3326,10 +3343,17 @@
     "[N2모닝경제브리핑-9월23일]美증시,반도체랠리에나스닥또‘사...",
     "\"AI로인류멸종?한국은다른것부터고민해야한다\"",
     "1인당최소'7억원'날렸다…SK하닉신입4명,입사하자마자짐싼이유",
-    "[KFT모닝브리프]2026.09.23—오늘꼭알아야할국내외경제뉴스"
+    "[KFT모닝브리프]2026.09.23—오늘꼭알아야할국내외경제뉴스",
+    "뉴욕증시,반도체주강세속혼조…나스닥0.45%↑최고치",
+    "‘오케이마담2’오늘VOD공개",
+    "SK하이닉스,신입사원4명연수중해고…무슨일?",
+    "'오케이마담2'극장동시IPTV·VOD서비스시작",
+    "[마켓프리뷰]개인매도'AI훈풍'빗겨간코스피…7천피'턱걸이'",
+    "석화249만톤줄인다…이제는'수요싸움'",
+    "[뉴(NEW)희망의시대]한미동맹새공식'프렌드쇼어링'…K반도체·철강..."
    ],
    "initialized": true,
-   "last_run": "2026-09-23T07:35:18.348785+09:00"
+   "last_run": "2026-09-23T07:40:22.452656+09:00"
   }
  },
  "press_names": {
