@@ -986,13 +986,13 @@
     [
      "2026-09-22T19:55:21.535421+09:00",
      "앓는 성장통 증시"
+    ],
+    [
+     "2026-09-22T20:05:19.539640+09:00",
+     "손봐야 서비스 다가온 5G SA 제도 눈앞에 중립성"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=04536246645582416&mediaCodeNo=257",
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260922.22010007152",
-    "https://sjbnews.com/news/news.php?number=888398",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=277466",
     "https://www.fnnews.com/news/202609211922462441",
     "https://www.thelec.kr/news/articleView.html?idxno=62626",
     "https://www.ggilbo.com/news/articleView.html?idxno=1183123",
@@ -2488,13 +2488,13 @@
     "https://www.incheonilbo.com/news/articleView.html?idxno=1332754",
     "https://www.yna.co.kr/view/AKR20260922189200007?input=1195m",
     "https://dealsite.co.kr/articles/169542",
-    "https://www.fnnews.com/news/202609221946111560"
+    "https://www.fnnews.com/news/202609221946111560",
+    "https://www.bigtanews.co.kr/article/view/big202609220028",
+    "https://www.sedaily.com/article/20094228",
+    "https://www.ajunews.com/view/20260921152045219",
+    "https://www.ajunews.com/view/20260922144133259"
    ],
    "seen_titles": [
-    "S&P\"韓데이터센터에1200조원투자…기업신용도부담\"",
-    "[미리보는이데일리신문]시동건대미투자,꽉막힌실무채널",
-    "‘7000피’복귀",
-    "FTA수혜대기업의‘농어촌외면’…상생기금95%가중소기업에쏠려",
     "S&PWarnsKoreaDataCenterBoomMayPressureRatings",
     "[구본영칼럼]국정기조바꾸라는민심의경고등",
     "곽노정\"메모리없는AI산업없다...용인·미국서기술우위\"",
@@ -3990,10 +3990,14 @@
     "굴뚝대신예술…인천공장의변신",
     "[아시안게임]남자핸드볼,이란과26-26아쉬운무승부",
     "포스코퓨처엠,SK온에1.1조LFP양극재공급",
-    "[기자수첩]성장통앓는증시"
+    "[기자수첩]성장통앓는증시",
+    "[증시오늘]차익실현매물에혼조마감",
+    "홍지선국토장관,취임첫현장은부천대장…“속도감있는공급”",
+    "[통신망세대교체]3G망유지·5GSA확대병행…통신업계비용부담↑",
+    "[통신망세대교체]눈앞에다가온5GSA서비스,망중립성제도손봐야"
    ],
    "initialized": true,
-   "last_run": "2026-09-22T20:01:16.090215+09:00"
+   "last_run": "2026-09-22T20:05:19.539640+09:00"
   }
  },
  "press_names": {
