@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-22T03:20:22.008014+09:00",
-     "AI가 해결자 사회문제 복잡해진"
-    ],
-    [
      "2026-09-22T04:10:24.808399+09:00",
      "연구실 업무 AI로 인사평가까지 통한다 넘어 모든 공장"
     ],
@@ -606,15 +602,13 @@
     [
      "2026-09-22T09:15:23.549095+09:00",
      "기술주 삼전닉스 메타 흥행 훈풍에 뛴다"
+    ],
+    [
+     "2026-09-22T09:20:28.044990+09:00",
+     "SK하이닉스는 삼성전자 급등 뛰어 장초반"
     ]
    ],
    "seen_urls": [
-    "https://www.asiatime.co.kr/article/20260921500067",
-    "https://www.tokenpost.kr/news/market/411265",
-    "https://www.edaily.co.kr/News/Read?newsId=02305846645582416&mediaCodeNo=257",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=267051",
-    "https://www.g-enews.com/view.php?ud=2026092109262733853084322ec9_1",
-    "https://www.dailian.co.kr/news/view/1692784/?sc=Naver",
     "https://www.etoday.co.kr/news/view/2627842",
     "https://www.mt.co.kr/stock/2026/09/21/2026092109031993104",
     "https://www.g-enews.com/view.php?ud=20260921093400617044093b5d4e_1",
@@ -2108,15 +2102,15 @@
     "https://www.it-b.co.kr/news/articleView.html?idxno=89988",
     "https://www.wikitree.co.kr/articles/1161232",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4436032",
-    "https://www.mt.co.kr/stock/2026/09/22/2026092209095870089"
+    "https://www.mt.co.kr/stock/2026/09/22/2026092209095870089",
+    "https://biz.chosun.com/stock/stock_general/2026/09/22/L6C25EAP2FH5VMLCV7I3UD4BXM/",
+    "https://www.yna.co.kr/view/AKR20260922039500003?input=1195m",
+    "https://www.sedaily.com/article/20093758",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489421",
+    "https://www.dt.co.kr/article/12085321",
+    "https://www.yna.co.kr/view/AKR20260922041100008?input=1195m"
    ],
    "seen_titles": [
-    "[데이터A]대형건설사이자감당성적표,GS'최하'·현엔'곤두박질'",
-    "[국내증시개장시황]코스피하락,코스닥상승:혼조세속외국인매수...",
-    "美반도체지수에SK하이닉스입성…국내ETF로도투자한다",
-    "한화그룹,추석앞두고협력사에1850억원조기지급",
-    "ESS배터리출하71%급증…K배터리,美현지생산에승부",
-    "삼성전자3%대강세…코스피,장중7000선회복[시황]",
     "한미글로벌,SK하이닉스美인디애나HBM공장건설PM수행",
     "글로벌금리상승부담에도코스피1%대↑…27만전자도회복",
     "[특징주]삼성전자·SK하이닉스,美반도체주강세..동반'상승'",
@@ -3610,10 +3604,16 @@
     "SKT,공공AI·빅데이터활용사례∙기술공개",
     "코스피7161.61출발…개장과동시에급등한'이유'",
     "'차관→경제사령탑'첫직행이형일…물가·부동산고차방정식과제",
-    "메타AI흥행·美기술주훈풍에삼전닉스뛴다"
+    "메타AI흥행·美기술주훈풍에삼전닉스뛴다",
+    "‘나스닥최고치경신’미국發훈풍에…코스피7100선돌파",
+    "K-배터리주도권되찾는다…정부,나트륨·전고체집중지원",
+    "KB자산운용,‘RISE삼성SK그룹’ETF출시…양대그룹주압축투자",
+    "코스피,장초반2%대급등해7150선…삼성전자·SK하이닉스동반강세",
+    "코스피,2%대상승…삼전·SK하닉강세에7100선재탈환",
+    "[특징주]삼성전자,장초반2.4%급등…SK하이닉스는3%뛰어"
    ],
    "initialized": true,
-   "last_run": "2026-09-22T09:15:23.549095+09:00"
+   "last_run": "2026-09-22T09:20:28.044990+09:00"
   }
  },
  "press_names": {
