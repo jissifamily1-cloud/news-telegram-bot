@@ -538,10 +538,13 @@
     [
      "2026-09-22T22:30:38.146658+09:00",
      "이재한 충북도 정무특보"
+    ],
+    [
+     "2026-09-22T22:45:22.150241+09:00",
+     "희비 레버리지 ETF도 엇갈리자 SK하이닉스 삼성전자"
     ]
    ],
    "seen_urls": [
-    "http://www.ujeil.com/news/articleView.html?idxno=392440",
     "http://www.ujeil.com/news/articleView.html?idxno=392491",
     "https://www.dailyt.co.kr/newsView/dlt202609210026",
     "https://www.gukjenews.com/news/articleView.html?idxno=3701620",
@@ -2040,10 +2043,10 @@
     "https://www.ajunews.com/view/20260922213827488",
     "https://www.getnews.co.kr/news/articleView.html?idxno=881614",
     "https://zdnet.co.kr/view/?no=20260922170144",
-    "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260922022&PRO_CODE=4"
+    "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260922022&PRO_CODE=4",
+    "http://www.kjdaily.com/article.php?aid=1790083701687573276"
    ],
    "seen_titles": [
-    "정유·석유화학현장문제,울산청년이해결한다…SK이노울산CLX-울산...",
     "SK에너지,취약계층행복꾸러미지원",
     "지역하도급률연간목표치달성'총력'",
     "10대건설사하자심사판정323건…대우건설87건·현대건설59건·현대엔...",
@@ -3542,10 +3545,11 @@
     "[아주경제오늘의뉴스종합]李대통령,여당의원전원에'노무현평전...",
     "[제약건기식]제일약품,249억투자로백암공장생산능력71%확대外SK케...",
     "SKC,앱솔릭스유상증자에921억추가투입…유리기판상용화박차",
-    "[이슈인초대석]이재한충북도정무특보"
+    "[이슈인초대석]이재한충북도정무특보",
+    "[오늘증권]삼성전자·SK하이닉스엇갈리자…레버리지ETF도희비"
    ],
    "initialized": true,
-   "last_run": "2026-09-22T22:40:27.707692+09:00"
+   "last_run": "2026-09-22T22:45:22.150241+09:00"
   }
  },
  "press_names": {
