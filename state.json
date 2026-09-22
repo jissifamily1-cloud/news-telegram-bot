@@ -378,12 +378,21 @@
     [
      "2026-09-22T23:25:22.822309+09:00",
      "아이파크현대산업 멀티캠퍼스 보령 셀리드 포스코퓨처엠"
+    ],
+    [
+     "2026-09-22T23:35:22.316765+09:00",
+     "토론회 부의장 성남시의회 정연화 수소교통"
+    ],
+    [
+     "2026-09-22T23:35:22.316765+09:00",
+     "인텔만 인텔 9월 들어 뛰나 주가 유독 급등"
+    ],
+    [
+     "2026-09-22T23:35:22.316765+09:00",
+     "4주 9월 전망 주요 제조업"
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20260921000444",
-    "https://www.donga.com/news/Opinion/article/all/20260921/134714950/2",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16204851",
     "https://www.hani.co.kr/arti/economy/consumer/1278961.html",
     "http://www.kjdaily.com/article.php?aid=1789999312687458276",
     "https://www.edaily.co.kr/News/Read?newsId=05572726645582416&mediaCodeNo=257",
@@ -1880,12 +1889,12 @@
     "https://view.asiae.co.kr/article/2026092223033296401",
     "https://www.thedailypost.kr/news/articleView.html?idxno=115791",
     "http://www.kjdaily.com/article.php?aid=1790086517687571276",
-    "https://www.kdpress.co.kr/news/articleView.html?idxno=208847"
+    "https://www.kdpress.co.kr/news/articleView.html?idxno=208847",
+    "https://www.m-i.kr/news/articleView.html?idxno=1417630",
+    "https://www.news2day.co.kr/article/20260922500311",
+    "https://www.laborplus.co.kr/news/articleView.html?idxno=41536"
    ],
    "seen_titles": [
-    "삼성전자·SK하이닉스,HBM이어SSD도뜬다…북미CSP주문전망상향",
-    "서남권HBM거점낙점한산업부,“진짜과제는팹리스부활과인력난...",
-    "[광화문에서/이유종]‘서울대10개’선정국립대들…지원종료뒤자...",
     "미국증시,유가·국채금리하락에반등…나스닥1%대·반도체주강세",
     "정수기구매하면고민끝?필터교체가격만만찮네",
     "삼성전자·SK하이닉스거래대금11.2조…상위50종목의53.9%",
@@ -3382,10 +3391,13 @@
     "[뉴욕증시]2거래일연속유가하락…나스닥장중최고치",
     "SKT,'고객행동'서신뢰찾는다…'2026인사이트데이'개최",
     "SK하이닉스·삼성전자거래대금11.2조…삼성전기1.4조3위",
-    "[주요공시]셀리드,멀티캠퍼스,포스코퓨처엠,보령,아이파크현대산업..."
+    "[주요공시]셀리드,멀티캠퍼스,포스코퓨처엠,보령,아이파크현대산업...",
+    "정연화성남시의회부의장,수소교통전환토론회",
+    "[마켓인사이드]인텔주가9월들어36%급등…왜유독인텔만뛰나",
+    "9월4주주요제조업전망"
    ],
    "initialized": true,
-   "last_run": "2026-09-22T23:30:30.970984+09:00"
+   "last_run": "2026-09-22T23:35:22.316765+09:00"
   }
  },
  "press_names": {
