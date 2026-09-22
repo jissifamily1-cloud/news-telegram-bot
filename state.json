@@ -990,18 +990,21 @@
     [
      "2026-09-22T18:15:21.051296+09:00",
      "반도체주 지킨 7천피 코스피 급등에도 겨우"
+    ],
+    [
+     "2026-09-22T18:25:20.695704+09:00",
+     "바꾼 반도체가 세수지도 육박 7조 경기 5개 도시 법인지방소득세"
+    ],
+    [
+     "2026-09-22T18:25:20.695704+09:00",
+     "8500억원 SKC 자기자본 대비 자금보충약정 체결 규모"
+    ],
+    [
+     "2026-09-22T18:25:20.695704+09:00",
+     "8월 수요 1000억달러 수출주문 반도체 사상 대만 서버 돌파"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260921153116257",
-    "https://www.ajunews.com/view/20260921141721978",
-    "https://www.kpinews.kr/newsView/1065600153856833",
-    "http://www.4th.kr/news/articleView.html?idxno=2118493",
-    "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609210162&t=NNv",
-    "http://www.finomy.com/news/articleView.html?idxno=262078",
-    "https://www.ppss.kr/news/articleView.html?idxno=311941",
-    "https://news.tvchosun.com/site/data/html_dir/2026/09/21/2026092190210.html",
-    "https://www.sedaily.com/article/20093618",
     "https://www.ajunews.com/view/20260921092539019",
     "https://daily.hankooki.com/news/articleView.html?idxno=1408568",
     "https://www.edaily.co.kr/News/Read?newsId=04122966645582416&mediaCodeNo=257",
@@ -2492,18 +2495,18 @@
     "https://www.ajunews.com/view/20260922141305106",
     "https://www.aitimes.com/news/articleView.html?idxno=215567",
     "http://www.gndomin.com/news/articleView.html?idxno=490503",
-    "https://www.hankyung.com/article/2026092217351"
+    "https://www.hankyung.com/article/2026092217351",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609221800066540239",
+    "https://news.bizwatch.co.kr/article/industry/2026/09/22/0042",
+    "https://www.dt.co.kr/article/12085546",
+    "https://www.mt.co.kr/estate/2026/09/22/2026092218105297542",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4436176",
+    "https://biz.sbs.co.kr/article_hub/20000336324?division=NAVER",
+    "https://www.etoday.co.kr/news/view/2628786",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=609122",
+    "https://www.joongangenews.com/news/articleView.html?idxno=550218"
    ],
    "seen_titles": [
-    "[오늘의주목주]'반도체강세'삼성전자우주가6%대올라,코스피기관...",
-    "팹가동다가오는데…용인반도체클러스터,기초인프라지연에'발동...",
-    "미중정상회담D-3...'AI증류'해법에반도체·소부장활짝",
-    "사회적가치플랫폼SOVAC,'사회적가치페스타'서지역미래해법모색",
-    "[SOVAC2026]SK바이오팜,뇌전증환아일상조명…환자중심활동확대",
-    "최태원\"AI,사회문제강력한해결자\"[뉴스+현장]",
-    "K배터리,ESS시장성장에'라인전환·품질관리'총력",
-    "SK하이닉스청주캠,산업안전보건법위반119건적발...초호황속안전불...",
-    "SK바이오팜,뇌전증인식개선동참…\"뇌전증편견낮춘다\"",
     "쏠림덜어낸반도체투톱,박스피탈출이끄나",
     "'회장님들'의시총전쟁1년…승자는SK그룹'최태원'",
     "SK스토아,3년만에경력쇼호스트공개채용…한자릿수선발",
@@ -3994,10 +3997,19 @@
     "삼성'AI깐부'AMD,시총1조달러…커지는엔비디아밖공급망",
     "[게시판]포지큐브,S-OIL·하나은행에AI에이전트구축등단신",
     "한가위에도쉼없는스포츠…AG금빛도전·모레노호첫걸음",
-    "美반도체주급등에도…7천피겨우지킨코스피"
+    "美반도체주급등에도…7천피겨우지킨코스피",
+    "SK온,포스코퓨처엠서1.1조원규모LFP양극재조달…美ESS‘탈중국’...",
+    "포스코퓨처엠,SK온서1.1조LFP따냈다…삼원계쏠림던다",
+    "SK온-포스코퓨처엠,LFP양극재공급계약…“1.1조원규모”",
+    "국토장관,취임첫현장은3기신도시…\"주택공급,계획보다실행\"",
+    "포스코퓨처엠,1.1조원규모LFP양극재공급계약",
+    "'전강후약'코스피7000선사수…환율1350원대급락",
+    "반도체가바꾼경기세수지도…5개도시법인지방소득세‘7조육박’...",
+    "[속보]SKC,8500억원규모자금보충약정체결…자기자본대비26.51%",
+    "대만,8월수출주문사상첫1000억달러돌파…AI반도체·서버수요폭..."
    ],
    "initialized": true,
-   "last_run": "2026-09-22T18:20:24.059358+09:00"
+   "last_run": "2026-09-22T18:25:20.695704+09:00"
   }
  },
  "press_names": {
