@@ -206,13 +206,17 @@
     [
      "2026-09-23T05:30:34.913180+09:00",
      "감당 더는 과잉생산 싸움에 고래 빗장 EU 중국발 힘들다"
+    ],
+    [
+     "2026-09-23T05:55:21.641471+09:00",
+     "상승세 엔비디아 마이크론 이어가 SK하이닉스 6거래일째"
+    ],
+    [
+     "2026-09-23T05:55:21.641471+09:00",
+     "강릉은 막힌다 24일 광주 대전은 23일 25일 부산은"
     ]
    ],
    "seen_urls": [
-    "https://www.sidae.com/article/2026092114512811619",
-    "https://www.news2day.co.kr/article/20260921500263",
-    "https://www.segye.com/newsView/20260921516191?OutUrl=naver",
-    "https://view.asiae.co.kr/article/2026092122490626948",
     "https://www.moneystorm.kr/news/articleView.html?idxno=6694",
     "https://www.newspim.com/news/view/20260921000632",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1725122",
@@ -1708,13 +1712,13 @@
     "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/09/23/20260923019006?wlog_tag3=naver",
     "https://www.nocutnews.co.kr/news/6582145",
     "https://www.ddaily.co.kr/page/view/2026092305272527482",
-    "https://weekly.khan.co.kr/article/202609230527001"
+    "https://weekly.khan.co.kr/article/202609230527001",
+    "https://www.news1.kr/world/international-economy/6299668",
+    "http://www.yonhapnewstv.co.kr/news/MYH202609230545301l8",
+    "http://www.beyondpost.co.kr/view.php?ud=2026092305461353932aaae0046f_30",
+    "https://www.mt.co.kr/tech/2026/09/23/2026091708520090102"
    ],
    "seen_titles": [
-    "[[이시각핫뉴스]지하철이체육관?…손잡이매달려철봉운동논란外",
-    "북미ESS호황에K배터리수주순풍",
-    "[N2모닝경제브리핑-9월22일]美증시,유가·금리하락에상승마감...",
-    "“차세대메모리로AI새로운가능성열겠다”",
     "K배터리,미래기술에5년간8兆투자…\"나트륨·전고체배터리집중지...",
     "[글로벌마켓뷰]뉴욕증시,유가·금리하락에급등…나스닥사상최고...",
     "SK바이오팜,자체개발서'바이앤빌드'로…1.5조베팅",
@@ -3210,10 +3214,14 @@
     "호남반도체산단전격전,내년착공…2030년6월첫양산‘목표’",
     "D램이어낸드까지…中CXMT의'종합메모리'도전장",
     "나스닥사상최고치경신…반도체주상승에최고종가",
-    "“중국발과잉생산더는감당힘들다”빗장건미·EU…고래싸움에한..."
+    "“중국발과잉생산더는감당힘들다”빗장건미·EU…고래싸움에한...",
+    "美반도체주일제히상승…마이크론5%·SK하이닉스3.45%급등",
+    "[이시각핫뉴스]연수기간술마신SK하이닉스신입4명해고外",
+    "마이크론5%,SK하이닉스3.45%↑...엔비디아,6거래일째상승세이어가",
+    "대전은23일,광주·강릉은24일,부산은25일막힌다"
    ],
    "initialized": true,
-   "last_run": "2026-09-23T05:50:23.214747+09:00"
+   "last_run": "2026-09-23T05:55:21.641471+09:00"
   }
  },
  "press_names": {
