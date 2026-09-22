@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-22T18:25:20.695704+09:00",
-     "바꾼 반도체가 세수지도 육박 7조 경기 5개 도시 법인지방소득세"
-    ],
-    [
-     "2026-09-22T18:25:20.695704+09:00",
-     "8500억원 SKC 자기자본 대비 자금보충약정 체결 규모"
-    ],
-    [
-     "2026-09-22T18:25:20.695704+09:00",
-     "8월 수요 1000억달러 수출주문 반도체 사상 대만 서버 돌파"
-    ],
-    [
      "2026-09-22T18:35:18.453466+09:00",
      "사회공헌 나왔다 기업 기반 측정 평가 플랫폼"
     ],
@@ -314,12 +302,17 @@
     [
      "2026-09-23T00:10:29.761878+09:00",
      "활용 제도 나스닥 필요 기업 높아졌다 문턱 한국 FPI 상장"
+    ],
+    [
+     "2026-09-23T00:25:26.248452+09:00",
+     "착시효과만 정부 대책 추석물가에 유발 1900억 석병훈"
+    ],
+    [
+     "2026-09-23T00:25:26.248452+09:00",
+     "소재 질주 공급난 빠진 초미세 AI칩 엔비디아"
     ]
    ],
    "seen_urls": [
-    "https://www.kdpress.co.kr/news/articleView.html?idxno=208796",
-    "http://www.kwangju.co.kr/article.php?aid=1790003400803593074",
-    "https://www.joongangenews.com/news/articleView.html?idxno=549874",
     "https://www.hankyung.com/article/202609229353i",
     "https://www.joongangenews.com/news/articleView.html?idxno=549869",
     "https://www.kado.net/news/articleView.html?idxno=2074261",
@@ -1816,12 +1809,12 @@
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=88870",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076325",
     "https://www.newsis.com/view/NISX20260922_0003799798",
-    "https://www.junggi.co.kr/news/articleView.html?idxno=37862"
+    "https://www.junggi.co.kr/news/articleView.html?idxno=37862",
+    "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62636",
+    "https://news.cpbc.co.kr/article/1175951?division=NAVER",
+    "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62630"
    ],
    "seen_titles": [
-    "인천시,취약계층주거환경개선'환경보건안심집'30가구조성완료",
-    "[주요공시]삼성물산,에스엠벡셀,제이스로보틱스,셀트리온,에코프로...",
-    "‘반도체도시광주’신호탄쏜앰코증액투자",
     "삼성전자·SK하이닉스메모리값뛰자스마트폰'칩전쟁'재점화…2nm·A...",
     "브렌트유100달러아래로…美채권과주식일제상승",
     "TSMC,AUO패널공장잇단방문…AI반도체'CoPoS·유리기판'새판짠다",
@@ -3318,10 +3311,13 @@
     "[증시프리즘]주요증권사리서치센터별올하반기목표주가·추천종...",
     "로봇부품부터그룹주까지…ETF상장",
     "\"추석전현금20%챙겨라\"…김구라채널서제안한포트폴리오재편",
-    "나스닥상장문턱높아졌다…\"한국기업,FPI제도활용필요\""
+    "나스닥상장문턱높아졌다…\"한국기업,FPI제도활용필요\"",
+    "포스코퓨처엠,SK온과1.1조규모LFP양극재공급계약..LFP시장경쟁력...",
+    "[시사천국]석병훈\"정부대책,착시효과만유발\"…추석물가에1900억투...",
+    "엔비디아AI칩질주..공급난빠진초미세소재"
    ],
    "initialized": true,
-   "last_run": "2026-09-23T00:20:23.750561+09:00"
+   "last_run": "2026-09-23T00:25:26.248452+09:00"
   }
  },
  "press_names": {
