@@ -710,11 +710,13 @@
     [
      "2026-09-22T21:15:23.101098+09:00",
      "하자 최다 건설사 판정 10대 대우건설"
+    ],
+    [
+     "2026-09-22T21:35:22.288317+09:00",
+     "지식이 고여 가른다 자본이 모여 키웠다 대만을"
     ]
    ],
    "seen_urls": [
-    "http://www.newsian.co.kr/news/articleView.html?idxno=95783",
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=64713",
     "https://www.newstnt.com/news/articleView.html?idxno=719607",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=560314",
     "http://www.econotelling.com/news/articleView.html?idxno=21346",
@@ -2212,11 +2214,11 @@
     "https://www.ekn.kr/web/view.php?key=20260922020338088",
     "https://www.g-enews.com/view.php?ud=2026092219023598383084322ec9_1",
     "https://www.newstnt.com/news/articleView.html?idxno=719846",
-    "https://www.mk.co.kr/article/12156578"
+    "https://www.mk.co.kr/article/12156578",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=444748",
+    "https://www.khan.co.kr/article/202609222129005"
    ],
    "seen_titles": [
-    "[데일리안오늘뉴스종합]'사의표명'강훈식,靑참모진에\"대오흐트러...",
-    "코스피변동성,투자자피해넘어국가이미지문제로…\"브랜드코리아...",
     "10대건설사하자판정률최대29배격차…보수이행실적도공개해야",
     "[공시]엑시콘·피델릭스'거래정지예고',광전자·에이치엠넥스'투자...",
     "엘앤에프,SK온과1600억규모LFP양극재공급계약",
@@ -3714,10 +3716,12 @@
     "호남권반도체클러스터,2030년첫양산목표",
     "SK온,포스코퓨처엠서1.1조LFP양극재조달…美ESS공략속도",
     "[공시]9월23일,코스피상장사48개종목자사주매수신청",
-    "10대건설사하자판정,대우건설‘최다’[국회방청석]"
+    "10대건설사하자판정,대우건설‘최다’[국회방청석]",
+    "코스피,소폭상승에7000선유지...삼성전자,삼성전기상승VSSK하이닉...",
+    "지식이모여대만을키웠다자본이고여대만을가른다"
    ],
    "initialized": true,
-   "last_run": "2026-09-22T21:30:36.082946+09:00"
+   "last_run": "2026-09-22T21:35:22.288317+09:00"
   }
  },
  "press_names": {
