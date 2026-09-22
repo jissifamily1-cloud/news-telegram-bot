@@ -370,18 +370,21 @@
     [
      "2026-09-23T07:50:26.492872+09:00",
      "ACEA 규정 영국 EU 배터리 원산지 2029년까지 유예"
+    ],
+    [
+     "2026-09-23T08:00:41.266882+09:00",
+     "실증 노타 기반 피지컬 퀄컴 NPU 기술 최적화"
+    ],
+    [
+     "2026-09-23T08:00:41.266882+09:00",
+     "SK팜테코 확대 젬마바이오와 치료제 위탁생산 희귀질환"
+    ],
+    [
+     "2026-09-23T08:00:41.266882+09:00",
+     "칩에 HBC 퀄컴 심었다 데이터센터용 스마트폰"
     ]
    ],
    "seen_urls": [
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258958",
-    "https://www.sedaily.com/article/20093494",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3702813",
-    "https://www.betanews.net/article/view/beta202609220001",
-    "https://www.etoday.co.kr/news/view/2628256",
-    "https://www.edaily.co.kr/News/Read?newsId=02522326645582744&mediaCodeNo=257",
-    "https://www.sedaily.com/article/20093727",
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258952",
-    "https://www.ajunews.com/view/20260921093718067",
     "https://www.ajunews.com/view/20260922075026627",
     "https://www.insightkorea.co.kr/news/articleView.html?idxno=255109",
     "https://biz.sbs.co.kr/article_hub/20000336083?division=NAVER",
@@ -1872,18 +1875,18 @@
     "https://kjmbc.co.kr/NewsArticle/1538218",
     "https://view.asiae.co.kr/article/2026092211273703837",
     "http://www.breaknews.com/1238774",
-    "https://www.g-enews.com/view.php?ud=2026092307312350602bd56fbc3c_1"
+    "https://www.g-enews.com/view.php?ud=2026092307312350602bd56fbc3c_1",
+    "https://www.itbiznews.com/news/articleView.html?idxno=225902",
+    "https://www.cstimes.com/news/articleView.html?idxno=721776",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=277159",
+    "https://www.edaily.co.kr/News/Read?newsId=02509206645583072&mediaCodeNo=257",
+    "https://www.cstimes.com/news/articleView.html?idxno=721294",
+    "https://www.businessplus.kr/news/articleView.html?idxno=117265",
+    "https://biz.sbs.co.kr/article_hub/20000336384?division=NAVER",
+    "https://www.theguru.co.kr/news/article.html?no=107488",
+    "https://www.thelec.kr/news/articleView.html?idxno=62685"
    ],
    "seen_titles": [
-    "[디깅노트]CNS전주기넓힌SK바이오팜,중요한건속도가아니다",
-    "[넥스트-샷]\"AI천천히\"라더니일주일만에풀액셀···나스닥사상최...",
-    "“中D램맹추격에…韓,대만과첨단반도체협력필요성커져”",
-    "인천시,환경보건안심집30가구개선완료…21일성과보고회개최",
-    "SK텔레콤42년,‘통신1등’넘어AI인프라기업으로…신뢰회복·수익...",
-    "[전날애프터마켓]코스피·코스닥대형주일제히강세...네오사피엔스...",
-    "대한유화,하반기펀더멘탈약화에도2가지기대유효-유안타",
-    "亞게임금메달리스트코트로…프로농구,24일부터‘시범경기’",
-    "[K-지능열전]⑦데이터는움직이기싫다···HBM부터K-멜로디까지",
     "[경제일보]롯데케미칼새성장로드맵,'첨단소재·전지·수소'키운다",
     "[아주증시포커스]미중정상회담D-3…'AI증류'해법에반도체·소부장...",
     "崔泰源的AI蓝图逐渐成形，SK海力士扩大至AI基础设施生态系统",
@@ -3374,10 +3377,19 @@
     "（수정）2026_9_23오늘의주요뉴스",
     "[이주의관.종]'전자'가견인하는두산…AI사이클탑승",
     "[수급검증]선물2조샀다고‘반등베팅’?…SK하이닉스미결제약정9....",
-    "ACEA,EU·영국배터리원산지규정2029년까지유예"
+    "ACEA,EU·영국배터리원산지규정2029년까지유예",
+    "SK온,포스코퓨처엠과1조1000억원규모LFP양극재공급계약",
+    "호남반도체2030년6월첫양산목표…전력·용수2028년까지구축",
+    "포항서만든LFP,美조지아로…SK온-포스코퓨처엠'배터리동맹'",
+    "포스코퓨처엠,기다리던첫LFP공식수주...추가수주기대감↑-DS",
+    "통신3사,추석연휴24시간비상체제가동",
+    "LG에너지솔루션,20분기째적자…고려아연·KT&G등7곳은106분기흑자",
+    "[애프터마켓리뷰]노타,퀄컴NPU기반피지컬AI최적화기술실증",
+    "SK팜테코,美젬마바이오와희귀질환치료제위탁생산확대",
+    "[스냅드래곤서밋]퀄컴,스마트폰칩에데이터센터용HBC심었다"
    ],
    "initialized": true,
-   "last_run": "2026-09-23T07:55:18.716751+09:00"
+   "last_run": "2026-09-23T08:00:41.266882+09:00"
   }
  },
  "press_names": {
