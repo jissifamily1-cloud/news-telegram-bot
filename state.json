@@ -810,11 +810,17 @@
     [
      "2026-09-23T18:45:26.307465+09:00",
      "성장률 한국 상향 G20 전망 OECD 대폭 올해 상승"
+    ],
+    [
+     "2026-09-23T18:55:20.776664+09:00",
+     "코리아 삼성 스타트업까지 프리미엄 대기업부터 유망 위크"
+    ],
+    [
+     "2026-09-23T18:55:20.776664+09:00",
+     "소식 카카오게임즈 컴투스홀딩스"
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1693739/?sc=Naver",
-    "https://www.ziksir.com/news/articleView.html?idxno=147344",
     "https://www.news2day.co.kr/article/20260922500157",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=867603",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8669613",
@@ -2312,11 +2318,11 @@
     "http://www.newstomato.com/ReadNews.aspx?no=1314718&inflow=N",
     "https://futurechosun.com/?p=161271",
     "https://biz.heraldcorp.com/article/10882859",
-    "http://www.queen.co.kr/news/articleView.html?idxno=463869"
+    "http://www.queen.co.kr/news/articleView.html?idxno=463869",
+    "https://www.m-i.kr/news/articleView.html?idxno=1417868",
+    "https://www.gamevu.co.kr/news/articleView.html?idxno=61035"
    ],
    "seen_titles": [
-    "SK하이닉스,잇단해외팹투자설…곽노정\"신규거점준비중\"",
-    "포스코퓨처엠,SK온에LFP양극재공급…1.1조규모계약",
     "포스코퓨처엠,SK온과1조1000억규모LFP양극재공급계약체결",
     "추석전쉬어가는증시…연휴뒤반등노리는증권가",
     "[마감시황]코스피,장초반상승분반납",
@@ -3814,10 +3820,12 @@
     "IPTV단독상품가입막은통신3사제재…방미통위,4900만원과징금",
     "[더나은미래경제브리핑]이찬진,은행지주사회장단소집“금융자회...",
     "“연휴끝나면주가오른다”22번중15번…이번에도통할까?[투자360]",
-    "OECD,한국올해성장률전망3.7%로대폭상향\"G20중최대상승\""
+    "OECD,한국올해성장률전망3.7%로대폭상향\"G20중최대상승\"",
+    "삼성·SK등대기업부터유망스타트업까지…'코리아프리미엄위크'28...",
+    "[게임뉴스]카카오게임즈및컴투스홀딩스소식외"
    ],
    "initialized": true,
-   "last_run": "2026-09-23T18:50:26.603614+09:00"
+   "last_run": "2026-09-23T18:55:20.776664+09:00"
   }
  },
  "press_names": {
