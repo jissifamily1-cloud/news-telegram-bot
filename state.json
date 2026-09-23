@@ -822,15 +822,25 @@
     [
      "2026-09-23T17:45:22.214729+09:00",
      "100달러 만에 국제유가 아래로 2주"
+    ],
+    [
+     "2026-09-23T18:00:37.558491+09:00",
+     "주주와 온도차 대규모 유증 한앤코의 SK디앤디 필요성 두고"
+    ],
+    [
+     "2026-09-23T18:00:37.558491+09:00",
+     "신고 무신사 침해사고 8개 이어 정부 조사 기업도"
+    ],
+    [
+     "2026-09-23T18:00:37.558491+09:00",
+     "일정 반도체클러스터 공개 전남광주통합특별시 호남권 기반시설 구축"
+    ],
+    [
+     "2026-09-23T18:00:37.558491+09:00",
+     "KB자산운용 한화자산운용 한국투자신탁운용"
     ]
    ],
    "seen_urls": [
-    "http://www.osen.co.kr/article/G1112880165",
-    "https://www.insightkorea.co.kr/news/articleView.html?idxno=255216",
-    "https://www.asiatime.co.kr/article/20260922500344",
-    "https://magazine.hankyung.com/money/article/202609221607c",
-    "https://www.bntnews.co.kr/article/view/bnt202609220270",
-    "http://www.finomy.com/news/articleView.html?idxno=262200",
     "http://www.jndn.com/article.php?aid=1790064454440113003",
     "https://www.mt.co.kr/stock/2026/09/22/2026092216441320463",
     "https://swtvnews.com/news/newsview.php?ncode=1065600113759870",
@@ -2324,15 +2334,15 @@
     "https://www.businesspost.co.kr/BP?command=article_view&num=447987",
     "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609230116&t=NNv",
     "http://www.wikileaks-kr.org/news/articleView.html?idxno=192435",
-    "https://www.newsinside.kr/news/articleView.html?idxno=5007332"
+    "https://www.newsinside.kr/news/articleView.html?idxno=5007332",
+    "https://www.wikitree.co.kr/articles/1161708",
+    "https://www.ziksir.com/news/articleView.html?idxno=147448",
+    "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=522959",
+    "http://www.4th.kr/news/articleView.html?idxno=2118662",
+    "http://www.newsmaker.or.kr/news/articleView.html?idxno=183131",
+    "http://www.wikileaks-kr.org/news/articleView.html?idxno=192420"
    ],
    "seen_titles": [
-    "전남광주반도체산단내년첫삽···2030년6월생산목표",
-    "골프멤버십기업플러스골프가KPGA김한별후원계약...VIP초청자선...",
-    "삼성·하이닉스,'범용D램'딜레마...중국CXMT,턱밑추격거세다",
-    "SK에코플랜트,반도체·AI인재68명전진배치…하이테크사업강화",
-    "코스피,7000선사수...미국발AI훈풍에도강보합마감",
-    "‘트루먼의사랑’추석연휴안방공략",
     "코스피,2%대상승분반납'강보합'···7000선'사수'",
     "통합특별시,2030년6월첫반도체양산목표‘박차’",
     "유가반등에'브레이크'코스피강보합마감,반도체기판·게임주강세",
@@ -3826,10 +3836,16 @@
     "[오늘의주목주]'냉각기술'기대감SK이노베이션주가5%대올라,코스...",
     "\"가장강력한AI칩\"…공급망무장한레드칩온다[레드칩의역습①]",
     "[WIKI이슈]美中정상회담D-1…관세·희토류·AI·대만에세계시선집...",
-    "[뉴스인사이드_뉴스톡톡]국제유가,2주만에100달러아래로外"
+    "[뉴스인사이드_뉴스톡톡]국제유가,2주만에100달러아래로外",
+    "‘맛집1위’라더니맥도날드였다…관광공사맛집차트들여다보니",
+    "SKT,추석해외여행'가족로밍'부터T멤버십혜택까지…알뜰한연휴지...",
+    "한앤코의SK디앤디,대규모유증추진…필요성두고주주와온도차",
+    "무신사이어8개기업도침해사고신고…정부조사",
+    "전남광주통합특별시,호남권반도체클러스터기반시설구축일정공개",
+    "[운용NOW]KB자산운용·한국투자신탁운용·한화자산운용"
    ],
    "initialized": true,
-   "last_run": "2026-09-23T17:55:18.368762+09:00"
+   "last_run": "2026-09-23T18:00:37.558491+09:00"
   }
  },
  "press_names": {
