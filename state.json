@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-23T21:05:17.371445+09:00",
-     "멀었다 JP모건은 메모리 고점"
-    ],
-    [
-     "2026-09-23T21:05:17.371445+09:00",
-     "박지희 여자 희망 개인전 국제대회 플뢰레 입상 없던"
-    ],
-    [
      "2026-09-23T21:15:22.445809+09:00",
      "골때녀 챔피언 핸드볼 가린다 초대"
     ],
@@ -158,12 +150,17 @@
     [
      "2026-09-24T01:45:25.976529+09:00",
      "호주 안정적 에너지 시장 덕분에 한국"
+    ],
+    [
+     "2026-09-24T03:05:21.191718+09:00",
+     "대통령 어느 때보다 선도하는 한미 긴밀 세계경제 변모 국가로"
+    ],
+    [
+     "2026-09-24T03:05:21.191718+09:00",
+     "삼성전자 먼저 경쟁 주도권 퀄컴 CXMT 추격에 뚫었다 LPDDR6 검증"
     ]
    ],
    "seen_urls": [
-    "http://www.4th.kr/news/articleView.html?idxno=2118587",
-    "https://news.tf.co.kr/read/economy/2369153.htm",
-    "https://news.mtn.co.kr/news-detail/2026092218000761956",
     "http://www.newstomato.com/ReadNews.aspx?no=1314636&inflow=N",
     "https://www.yna.co.kr/view/AKR20260922180900003?input=1195m",
     "https://www.thelec.kr/news/articleView.html?idxno=62670",
@@ -1660,12 +1657,12 @@
     "https://www.donga.com/news/Economy/article/all/20260923/134729896/2",
     "https://www.donga.com/news/Politics/article/all/20260923/134730279/2",
     "https://www.hankyung.com/article/2026092344401",
-    "https://view.asiae.co.kr/article/2026092402420830407"
+    "https://view.asiae.co.kr/article/2026092402420830407",
+    "https://www.mk.co.kr/article/12160433",
+    "https://www.newsis.com/view/NISX20260924_0003802782",
+    "https://www.joongangenews.com/news/articleView.html?idxno=550434"
    ],
    "seen_titles": [
-    "SK온,포스코퓨처엠과1.1조LFP계약…美ESS탈중국공급망구축",
-    "홍지선국토장관첫행보…\"주택공급은계획보다실행이중요\"",
-    "포스코퓨처엠-SK온,1.1조원규모LFP양극재공급계약…美ESS시장공략",
     "SK온·포스코퓨처엠,1.1조LFP공급계약",
     "국토장관,취임첫현장은부천대장…\"주택공급,계획보다실행\"",
     "정부ESS물량봇물…배터리3사2조원대ESS수주전격돌",
@@ -3162,10 +3159,13 @@
     "LG전자-SK엔무브,AI데이터센터열관리손잡아",
     "李“호주덕분에한국에너지시장안정적”",
     "李대통령,월가큰손들에'韓투자'세일즈",
-    "월가큰손들과다시만난李\"韓투자,나중에왜안했나할것\"(종합..."
+    "월가큰손들과다시만난李\"韓투자,나중에왜안했나할것\"(종합...",
+    "李\"메가프로젝트에투자를\"월가세일즈",
+    "이대통령\"韓세계경제선도하는국가로변모…한미어느때보다긴밀...",
+    "삼성전자,LPDDR6퀄컴검증먼저뚫었다…中CXMT추격에주도권경쟁"
    ],
    "initialized": true,
-   "last_run": "2026-09-24T03:00:37.682815+09:00"
+   "last_run": "2026-09-24T03:05:21.191718+09:00"
   }
  },
  "press_names": {
