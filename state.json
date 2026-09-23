@@ -778,12 +778,13 @@
     [
      "2026-09-23T19:15:24.090688+09:00",
      "변동성 앞두고 조절 대책 시행 마감 상승 명절"
+    ],
+    [
+     "2026-09-23T19:30:29.793181+09:00",
+     "LFP 양극재 손잡고 확보 SK온 정조준 시장 포스코퓨처엠과"
     ]
    ],
    "seen_urls": [
-    "https://www.joongangenews.com/news/articleView.html?idxno=550186",
-    "https://www.hankyung.com/article/2026092216587",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=609093",
     "https://www.imaeil.com/page/view/2026092217151532057",
     "https://www.sedaily.com/article/20094107",
     "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88272",
@@ -2280,12 +2281,12 @@
     "https://news.tvchosun.com/site/data/html_dir/2026/09/23/2026092390224.html",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490100",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=277664",
-    "http://www.00news.co.kr/news/articleView.html?idxno=106805"
+    "http://www.00news.co.kr/news/articleView.html?idxno=106805",
+    "http://www.newsbrite.net/news/articleView.html?idxno=200590",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702833",
+    "http://www.newsbrite.net/news/articleView.html?idxno=200589"
    ],
    "seen_titles": [
-    "코스피‘수급공백’누가메우나…삼전닉스55조자사주매입종료눈...",
-    "삼성전자·SK하이닉스800조호남프로젝트본궤도…내년착공·2030년첫...",
-    "[속보]포스코퓨처엠,SK온에1조700억원규모LFP양극재공급",
     "[속보]포스코퓨처엠,SK온에1조742억원규모LFP양극재공급계약…지...",
     "\"세상에서가장비싼술\"…SK하이닉스신입4명,연수중음주했다가해...",
     "배터리3사다뚫었다…포스코퓨처엠,SK온과1조원LFP양극재계약",
@@ -3782,10 +3783,13 @@
     "코스피4거래일연속상승7,080마감",
     "한화자산운용,반도체'퓨어플레이어'ETF3종제시",
     "SKhynixADRsTradeNear40%Premium",
-    "['클릭'증시]변동성조절대책시행...명절앞두고상승마감"
+    "['클릭'증시]변동성조절대책시행...명절앞두고상승마감",
+    "SK엔무브·LG전자,차세대열관리기술로글로벌시장정조준",
+    "방미통위,온라인단독가입제한IPTV3사에과징금",
+    "SK온,포스코퓨처엠과손잡고LFP양극재확보…美시장정조준"
    ],
    "initialized": true,
-   "last_run": "2026-09-23T19:25:19.070792+09:00"
+   "last_run": "2026-09-23T19:30:29.793181+09:00"
   }
  },
  "press_names": {
