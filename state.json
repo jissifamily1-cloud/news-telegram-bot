@@ -322,11 +322,13 @@
     [
      "2026-09-24T07:35:20.341487+09:00",
      "IT업계 추석맞이 총력전 프로모션"
+    ],
+    [
+     "2026-09-24T07:45:20.415952+09:00",
+     "울상 아시아 금리 통화 폭격에 계속 고민은 각국"
     ]
    ],
    "seen_urls": [
-    "http://www.e2news.com/news/articleView.html?idxno=334542",
-    "https://www.newsis.com/view/NISX20260922_0003800864",
     "https://www.ggilbo.com/news/articleView.html?idxno=1183438",
     "https://www.incheonilbo.com/news/articleView.html?idxno=1332754",
     "https://www.yna.co.kr/view/AKR20260922189200007?input=1195m",
@@ -1824,11 +1826,11 @@
     "https://www.mt.co.kr/entertainment/2026/09/24/2026092406535233079",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609240006&t=NN",
     "http://sateconomy.co.kr/news/view/1065565933581609",
-    "https://www.sidae.com/article/2026092211513865305"
+    "https://www.sidae.com/article/2026092211513865305",
+    "https://www.dt.co.kr/article/12085700",
+    "https://www.g-enews.com/view.php?ud=202609221032243300e7e8286d56_1"
    ],
    "seen_titles": [
-    "SK에코플랜트,전문성갖춘실무형인재양성…반도체·AI경쟁력강화",
-    "남자핸드볼,이란과26-26극적무승부…내일바레인상대[나고야AG]",
     "[주식마감]'퀄컴NPU서로봇AI최적화'노타상한가...셀리드,더블유...",
     "굴뚝대신예술…인천공장의변신",
     "[아시안게임]남자핸드볼,이란과26-26아쉬운무승부",
@@ -3326,10 +3328,12 @@
     "김규원,첫'라스'출연후인생역전?SNS화제로광고'러브콜'",
     "'6억성과급'에200만원대의자까지...\"세부안연휴뒤공개\"",
     "삼성SDI,ESS629MW경험안고1.18GW시장맞는다…커진국내수주판",
-    "IT업계추석맞이프로모션총력전"
+    "IT업계추석맞이프로모션총력전",
+    "“1인당6억+α”…삼성반도체,초대형성과급세부안나온다",
+    "[기자수첩]美금리폭격에아시아통화‘울상’...각국고민은계속"
    ],
    "initialized": true,
-   "last_run": "2026-09-24T07:40:23.723766+09:00"
+   "last_run": "2026-09-24T07:45:20.415952+09:00"
   }
  },
  "press_names": {
