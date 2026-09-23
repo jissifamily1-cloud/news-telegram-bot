@@ -154,12 +154,17 @@
     [
      "2026-09-24T05:15:21.083161+09:00",
      "개발은 구슬땀 독파모 정예팀 추석에도 SKT 계속된다 K3 개발"
+    ],
+    [
+     "2026-09-24T05:35:18.905021+09:00",
+     "대신 추석 자소서 받고 쓰는 귀향 성과급 고치자 팔자 직장인들"
+    ],
+    [
+     "2026-09-24T05:35:18.905021+09:00",
+     "나스닥 행진 최고 반도체 약세 3일 사상 만에 종료"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260922141305106",
-    "https://www.aitimes.com/news/articleView.html?idxno=215567",
-    "http://www.gndomin.com/news/articleView.html?idxno=490503",
     "https://www.hankyung.com/article/2026092217351",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609221800066540239",
     "https://news.bizwatch.co.kr/article/industry/2026/09/22/0042",
@@ -1656,12 +1661,12 @@
     "https://www.mt.co.kr/entertainment/2026/09/24/2026092323233685295",
     "https://www.dailian.co.kr/news/view/1694088/?sc=Naver",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=277342",
-    "https://www.dailian.co.kr/news/view/1693984/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1693984/?sc=Naver",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=6761",
+    "https://www.mt.co.kr/industry/2026/09/24/2026092314412274925",
+    "https://www.fnnews.com/news/202609240522539326"
    ],
    "seen_titles": [
-    "삼성'AI깐부'AMD,시총1조달러…커지는엔비디아밖공급망",
-    "[게시판]포지큐브,S-OIL·하나은행에AI에이전트구축등단신",
-    "한가위에도쉼없는스포츠…AG금빛도전·모레노호첫걸음",
     "美반도체주급등에도…7천피겨우지킨코스피",
     "SK온,포스코퓨처엠서1.1조원규모LFP양극재조달…美ESS‘탈중국’...",
     "포스코퓨처엠,SK온서1.1조LFP따냈다…삼원계쏠림던다",
@@ -3158,10 +3163,13 @@
     "선우용여,전원주'하이닉스대박'에도\"봤어?\"…주식투자불신",
     "\"명절문자믿었다간큰코\"…택배·선물사칭스미싱집중감시",
     "창사이래적자는없다…현대백화점95분기등15곳'無적자신화'",
-    "\"추석에도AI개발은계속된다\"…SKT독파모정예팀,A.XK3개발구슬땀"
+    "\"추석에도AI개발은계속된다\"…SKT독파모정예팀,A.XK3개발구슬땀",
+    "李대통령\"트럼프와군함건조논의…한미안보·산업협력구체화\"",
+    "\"성과급받고팔자고치자\"…추석귀향대신자소서쓰는직장인들",
+    "[뉴욕증시]나스닥,3일만에사상최고행진종료…반도체,약세전환"
    ],
    "initialized": true,
-   "last_run": "2026-09-24T05:31:04.661099+09:00"
+   "last_run": "2026-09-24T05:35:18.905021+09:00"
   }
  },
  "press_names": {
