@@ -502,11 +502,13 @@
     [
      "2026-09-23T21:40:22.123090+09:00",
      "개인 1곳서만 ETF 확인 손실 규모 레버리지 투자자 증권사"
+    ],
+    [
+     "2026-09-23T21:50:23.606208+09:00",
+     "않는 거래대금 돌아오지 연중 활력 믿겠다 국장 최저치"
     ]
    ],
    "seen_urls": [
-    "https://www.thebigdata.co.kr/view.php?ud=2026092217152123070a47484cf8_23",
-    "http://www.newsprime.co.kr/news/article.html?no=748780",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=320284",
     "https://www.gukjenews.com/news/articleView.html?idxno=3703773",
     "https://www.ajunews.com/view/20260922172018037",
@@ -2004,11 +2006,11 @@
     "http://www.bizwnews.com/news/articleView.html?idxno=147301",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490103",
     "http://www.econonews.co.kr/news/articleView.html?idxno=444794",
-    "https://news.tvchosun.com/site/data/html_dir/2026/09/23/2026092390259.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/09/23/2026092390259.html",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=53230",
+    "https://biz.heraldcorp.com/article/10882903"
    ],
    "seen_titles": [
-    "SKT,KISTI와양자암호통신망‘디지털트윈’개발...구축전성능검증",
-    "호남권반도체클러스터속도…2030년첫양산",
     "사회적가치연구원,AI로CSR성과측정한다…'SEESV'첫공개",
     "[속보]포스코퓨처엠,SK온과1조742억규모LFP양극재공급계약체결",
     "포스코퓨처엠,SK온과LFP양극재1조1000억공급계약체결",
@@ -3506,10 +3508,12 @@
     "한화운용,반도체ETF3종라인업완성",
     "[표]개인,코스피서1조4543억원순매도…삼성전자집중매도",
     "코스피,소폭상승에7000선유지...삼성전자,SK스퀘어상승VS현대차,...",
-    "[단독]'레버리지ETF'손실규모첫확인…개인투자자,증권사1곳서만..."
+    "[단독]'레버리지ETF'손실규모첫확인…개인투자자,증권사1곳서만...",
+    "현대해상,청년현장경험기록하는'프로젝트트레일마크'공개",
+    "‘국장못믿겠다’돌아오지않는활력…거래대금연중최저치‘뚝’..."
    ],
    "initialized": true,
-   "last_run": "2026-09-23T21:45:23.349673+09:00"
+   "last_run": "2026-09-23T21:50:23.606208+09:00"
   }
  },
  "press_names": {
