@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-23T18:55:20.776664+09:00",
-     "코리아 삼성 스타트업까지 프리미엄 대기업부터 유망 위크"
-    ],
-    [
-     "2026-09-23T18:55:20.776664+09:00",
-     "소식 카카오게임즈 컴투스홀딩스"
-    ],
-    [
      "2026-09-23T19:15:24.090688+09:00",
      "Premium Near hynix Trade ADRs"
     ],
@@ -222,12 +214,13 @@
     [
      "2026-09-24T00:50:27.524366+09:00",
      "50종목의 SK하이닉스 4조 거래대금 삼성전자 상위"
+    ],
+    [
+     "2026-09-24T01:00:41.802574+09:00",
+     "식기건조기와 제품명보다 살균기 기능표 확인"
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489745",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7185690",
-    "https://www.hankyung.com/article/2026092217611",
     "https://www.kyosu.net/news/articleView.html?idxno=210683",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260922010008475",
     "https://www.edaily.co.kr/News/Read?newsId=04693686645582744&mediaCodeNo=257",
@@ -1724,12 +1717,12 @@
     "https://www.chosun.com/economy/industry-company/2026/09/24/AIDJWNW5DBBSPHNE5QATF7QAUM/",
     "https://www.chosun.com/economy/stock-finance/2026/09/24/FVVO7ZGUFVE3DOZQMMHSTXH664/",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000017049&cp=nv",
-    "http://www.kjdaily.com/article.php?aid=1790177952687589276"
+    "http://www.kjdaily.com/article.php?aid=1790177952687589276",
+    "https://www.newscj.com/news/articleView.html?idxno=3435307",
+    "https://www.newdaily.co.kr/site/data/html/2026/09/24/2026092400001.html",
+    "https://www.vegannews.co.kr/news/article.html?no=386846"
    ],
    "seen_titles": [
-    "[22일투자자매매동향]개인,코스피서1조6000억원순매도…삼성전자...",
-    "SK온,포스코퓨처엠과손잡고LFP양극재확보",
-    "삼아알미늄,AI데이터센터'숨은수혜주'부상",
     "세대·교육·AI…일상의질문을사회학으로다시보다",
     "SK하이닉스시스템IC,장기차입'1兆'↑…재무개선이어실적과제",
     "홍지선장관,취임첫행보3기신도시부천대장지구방문",
@@ -3226,10 +3219,13 @@
     "연휴에도돌아가는총수들의‘경영시계’",
     "정책이키운‘불나방빚투’…개미들,석달간9兆잃었다",
     "[데스크시각]고금리시대에돈이넘치면",
-    "삼성전자·SK하이닉스거래대금11.4조…상위50종목의52%"
+    "삼성전자·SK하이닉스거래대금11.4조…상위50종목의52%",
+    "李대통령\"트럼프와군함건조포함조선협력논의…실질성과기대...",
+    "李대통령\"트럼프와군함건조논의\"…월가에韓투자요청[대한민국...",
+    "식기건조기와살균기,제품명보다기능표확인"
    ],
    "initialized": true,
-   "last_run": "2026-09-24T00:55:20.702237+09:00"
+   "last_run": "2026-09-24T01:00:41.802574+09:00"
   }
  },
  "press_names": {
