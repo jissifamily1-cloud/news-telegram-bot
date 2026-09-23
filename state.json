@@ -217,7 +217,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.asiatoday.co.kr/kn/view.php?key=20260922010008475",
     "https://www.edaily.co.kr/News/Read?newsId=04693686645582744&mediaCodeNo=257",
     "https://www.joongang.co.kr/article/25464157",
     "https://www.mk.co.kr/article/12159694",
@@ -1716,10 +1715,10 @@
     "https://www.newscj.com/news/articleView.html?idxno=3435307",
     "https://www.newdaily.co.kr/site/data/html/2026/09/24/2026092400001.html",
     "https://www.vegannews.co.kr/news/article.html?no=386846",
-    "https://www.smartbizn.com/news/articleView.html?idxno=154564"
+    "https://www.smartbizn.com/news/articleView.html?idxno=154564",
+    "http://www.kjdaily.com/article.php?aid=1790179880687591276"
    ],
    "seen_titles": [
-    "SK하이닉스시스템IC,장기차입'1兆'↑…재무개선이어실적과제",
     "홍지선장관,취임첫행보3기신도시부천대장지구방문",
     "일상·민원AI에맡기고,AI와통화도…‘모두의AI’띄우기본격화[팩...",
     "포스코퓨처엠,SK온에1조양극재공급",
@@ -3218,10 +3217,11 @@
     "李대통령\"트럼프와군함건조포함조선협력논의…실질성과기대...",
     "李대통령\"트럼프와군함건조논의\"…월가에韓투자요청[대한민국...",
     "식기건조기와살균기,제품명보다기능표확인",
-    "모두가쉬는나흘,산업의심장은멈추지않는다"
+    "모두가쉬는나흘,산업의심장은멈추지않는다",
+    "반도체레버리지ETF최대6.51%↑…삼성전자·SK하이닉스동반상승"
    ],
    "initialized": true,
-   "last_run": "2026-09-24T01:20:39.692972+09:00"
+   "last_run": "2026-09-24T01:25:17.656811+09:00"
   }
  },
  "press_names": {
