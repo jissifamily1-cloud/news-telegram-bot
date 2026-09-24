@@ -458,11 +458,17 @@
     [
      "2026-09-24T12:25:19.739150+09:00",
      "지속 증시 시한부 단기 2개월 불확실성 안도 휴전"
+    ],
+    [
+     "2026-09-24T12:35:18.212091+09:00",
+     "사칭 인출 71배 주차위반 QR 1000만원 공공 2년새 큐싱 찍자"
+    ],
+    [
+     "2026-09-24T12:35:18.212091+09:00",
+     "건당 급증 보이스피싱 6배 복제되는 2244만원 목소리 3초면"
     ]
    ],
    "seen_urls": [
-    "https://www.cbci.co.kr/news/articleView.html?idxno=609070",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092170710",
     "https://www.yna.co.kr/view/AKR20260922016600007?input=1195m",
     "http://www.newsian.co.kr/news/articleView.html?idxno=95869",
     "https://www.sedaily.com/article/20094279",
@@ -1960,11 +1966,11 @@
     "https://www.g-enews.com/view.php?ud=2026092411381732fbbec65dfb_1",
     "https://www.kbmaeil.com/article/20260924500100",
     "https://news.mtn.co.kr/news-detail/2026092314100646376",
-    "http://www.newstomato.com/ReadNews.aspx?no=1314733&inflow=N"
+    "http://www.newstomato.com/ReadNews.aspx?no=1314733&inflow=N",
+    "https://www.imaeil.com/page/view/2026092412190559016",
+    "https://www.imaeil.com/page/view/2026092412183769378"
    ],
    "seen_titles": [
-    "코스피강세,7,000선지켜…삼성전자우·삼성전기↑",
-    "50%수익기본…'유니콘'주가급등에미소짓는증권사",
     "◇내일의경기(24·25·26·27일)",
     "뉴욕증시이틀째사상최고치…반도체강세·유가안정에기술주상승",
     "뉴욕증시,美·이란대화재개에혼조...국제유가100달러아래로[데일...",
@@ -3462,10 +3468,12 @@
     "10조달러쏟아붓는美AI인프라,전력삼키고부채뇌관건드렸다",
     "삼성전자반도체(DS)부문,세계최고가사무용의자7만5000명에게순차...",
     "명절에도AI개발로분주…SKT·KT·카카오,'모두의AI'베타사활",
-    "미·중‘2개월시한부휴전’…韓증시단기안도속불확실성지속"
+    "미·중‘2개월시한부휴전’…韓증시단기안도속불확실성지속",
+    "주차위반큐싱QR찍자1000만원인출…공공사칭2년새71배",
+    "보이스피싱건당2244만원,4.6배급증…3초면복제되는목소리"
    ],
    "initialized": true,
-   "last_run": "2026-09-24T12:30:32.370265+09:00"
+   "last_run": "2026-09-24T12:35:18.212091+09:00"
   }
  },
  "press_names": {
