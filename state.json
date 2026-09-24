@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-24T10:30:29.174230+09:00",
-     "박수갈채 시니어 효자효부에 대한노인회 미주총연합회"
-    ],
-    [
-     "2026-09-24T10:30:29.174230+09:00",
-     "효율 게이밍 ANF 모두 기술 잡았다 성능 전력 퀄컴"
-    ],
-    [
      "2026-09-24T10:40:25.282013+09:00",
      "최고경영자과정 AMP 서원대 2학기 리더십 제공 실전형 개강 교육"
     ],
@@ -321,7 +313,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000336384?division=NAVER",
     "https://www.theguru.co.kr/news/article.html?no=107488",
     "https://www.thelec.kr/news/articleView.html?idxno=62685",
     "https://www.joongangenews.com/news/articleView.html?idxno=550229",
@@ -1820,10 +1811,10 @@
     "https://news.bizwatch.co.kr/article/real_estate/2026/09/21/0040",
     "https://www.joongangenews.com/news/articleView.html?idxno=550438",
     "https://www.greened.kr/news/articleView.html?idxno=350803",
-    "http://www.kjdaily.com/article.php?aid=1790233429687603276"
+    "http://www.kjdaily.com/article.php?aid=1790233429687603276",
+    "https://economist.co.kr/article/view/ecn202609240010"
    ],
    "seen_titles": [
-    "[애프터마켓리뷰]노타,퀄컴NPU기반피지컬AI최적화기술실증",
     "SK팜테코,美젬마바이오와희귀질환치료제위탁생산확대",
     "[스냅드래곤서밋]퀄컴,스마트폰칩에데이터센터용HBC심었다",
     "AI투자'빚의가격'뛰기시작했다…하이퍼스케일러내년회사채4200억...",
@@ -3322,10 +3313,11 @@
     "[르포]\"반도체온다지만거래는뚝\"…토허제에식어버린광주",
     "노트북용DDR5가격1년여만에6배…완제품까지번진'메모리쇼크'",
     "코스피쉬자美반도체1.2%↓…월요일'3일치변수'한꺼번에온다",
-    "서학개미순매수1위는‘반도체3배인버스’…7351만달러"
+    "서학개미순매수1위는‘반도체3배인버스’…7351만달러",
+    "“삼전조정오면사라\"는데…53만→63만원vs35만원‘엇갈림’"
    ],
    "initialized": true,
-   "last_run": "2026-09-24T16:25:20.244844+09:00"
+   "last_run": "2026-09-24T16:30:29.695325+09:00"
   }
  },
  "press_names": {
