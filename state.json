@@ -90,16 +90,33 @@
     [
      "2026-09-24T23:45:23.922986+09:00",
      "주차장 무료 여기에 응급실 궁금하다면 문여는 물어봐 추석에"
+    ],
+    [
+     "2026-09-25T00:10:24.434615+09:00",
+     "건설사 원전 데이터센터로 플랜트서"
+    ],
+    [
+     "2026-09-25T00:10:24.434615+09:00",
+     "대표기업까지 삼성 피지컬AI SK그룹주부터 ETF 신규 상장 한미 4종"
+    ],
+    [
+     "2026-09-25T00:10:24.434615+09:00",
+     "vs 투자했다면 용돈 삼전닉스 많이 작년 웃은 1년 가장 추석"
+    ],
+    [
+     "2026-09-25T00:10:24.434615+09:00",
+     "3분기 지분 외국인 전력 싹쓸이 SK하이닉스 방산 대장주"
+    ],
+    [
+     "2026-09-25T00:10:24.434615+09:00",
+     "넘는 삼성과 SK가 있다 이유 속에 자서전 이병철 정답 한강을 진짜"
+    ],
+    [
+     "2026-09-25T00:10:24.434615+09:00",
+     "쉬는 거래 정상 국장 연휴 나흘간 ETF 미국 머니 무브 추석 미장은"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10882855",
-    "https://www.etnews.com/20260923000014",
-    "https://www.viva100.com/article/20260923500078",
-    "https://www.mt.co.kr/industry/2026/09/23/2026092308305494597",
-    "https://www.fnnews.com/news/202609230836341478",
-    "https://www.youthdaily.co.kr/news/article.html?no=227542",
-    "http://www.newsprime.co.kr/news/article.html?no=748826",
     "https://biz.sbs.co.kr/article_hub/20000336408?division=NAVER",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=311864",
     "https://dealsite.co.kr/articles/169512",
@@ -1592,16 +1609,16 @@
     "http://www.metroseoul.co.kr/article/20260924500097",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769389&plink=ORI&cooper=NAVER",
     "https://www.mk.co.kr/article/12161156",
-    "https://www.maniareport.com/view.php?ud=202609242339006162dad9f33a29_19"
+    "https://www.maniareport.com/view.php?ud=202609242339006162dad9f33a29_19",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=88959",
+    "https://www.theguru.co.kr/news/article.html?no=107290",
+    "https://www.theguru.co.kr/news/article.html?no=107361",
+    "https://news.tf.co.kr/read/economy/2369545.htm",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=88958",
+    "https://www.newsis.com/view/NISX20260922_0003800117",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=609629"
    ],
    "seen_titles": [
-    "KB자산운용,‘KB온국민TDF2055’수익률1위",
-    "증시떠받친삼전닉스자사주매입막바지…추석후'수급절벽'어쩌나",
-    "현대해상,청년사회문제해결경험을채용기회로잇는다",
-    "SK행복나래,'지속가능사회적경제'조명…\"더많은해피히어로\"",
-    "삼성물산,주주환원눈높이올라가는데…\"주가여전히저평가\"",
-    "고려아연·KT&G등7곳,106분기\"연속흑자\"…LG엔솔은20분기째'적자'",
-    "[해외시황]뉴욕증시,미·이란협상주시속'혼조'…나스닥'최고치재...",
     "뉴욕증시,반도체강세에도혼조마감…나스닥또최고치",
     "코스피,추석명절앞두고관망세전망",
     "AI투자'돈의전쟁'…회사채349조원,GPU담보까지",
@@ -3094,10 +3111,17 @@
     "월가큰손만난이대통령\"韓세계경제선도하는국가로변모…진화하...",
     "힐리어드39호홈런앞세운kt,80승고지…가을야구까지'9승'남았다",
     "추석에문여는응급실,무료주차장궁금하다면…여기에물어봐",
-    "DB·현대모비스·소노,KBL시범경기첫날나란히승리"
+    "DB·현대모비스·소노,KBL시범경기첫날나란히승리",
+    "[증시프리즘]반도체투톱으로쏠린외국인표심…SK하이닉스·삼성전...",
+    "[AI發해외건설체질개선](上)플랜트서원전·데이터센터로…건설사...",
+    "삼성·SK그룹주부터피지컬AI·한미대표기업까지…ETF4종신규상장",
+    "작년추석용돈'금vs삼전닉스'투자했다면…1년뒤가장많이웃은곳...",
+    "[심층분석]외국인,3분기대장주싹쓸이…SK하이닉스·전력·방산지분...",
+    "\"이병철자서전속에정답있다\"…삼성과SK가한강을안넘는진짜이유",
+    "국장쉬는나흘간미장은정상거래…추석연휴'미국ETF'로머니무브"
    ],
    "initialized": true,
-   "last_run": "2026-09-25T00:08:10.872780+09:00"
+   "last_run": "2026-09-25T00:10:24.434615+09:00"
   }
  },
  "press_names": {
