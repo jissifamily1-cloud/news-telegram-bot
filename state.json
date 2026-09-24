@@ -326,12 +326,21 @@
     [
      "2026-09-24T15:55:20.400911+09:00",
      "vs 기회 63만원 35만원 매수 라는데 조정은 제각각 53만 삼전"
+    ],
+    [
+     "2026-09-24T16:05:17.144712+09:00",
+     "반도체 거래는 온다지만 광주 토허제에 식어버린"
+    ],
+    [
+     "2026-09-24T16:05:17.144712+09:00",
+     "1년여 번진 쇼크 노트북용 가격 메모리 6배 완제품까지 만에 DDR5"
+    ],
+    [
+     "2026-09-24T16:05:17.144712+09:00",
+     "변수 반도체 3일치 월요일 쉬자 한꺼번에 코스피 온다"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=277159",
-    "https://www.edaily.co.kr/News/Read?newsId=02509206645583072&mediaCodeNo=257",
-    "https://www.cstimes.com/news/articleView.html?idxno=721294",
     "https://www.businessplus.kr/news/articleView.html?idxno=117265",
     "https://biz.sbs.co.kr/article_hub/20000336384?division=NAVER",
     "https://www.theguru.co.kr/news/article.html?no=107488",
@@ -1828,12 +1837,12 @@
     "https://economist.co.kr/article/view/ecn202609240008",
     "https://www.seoul.co.kr/news/economy/securities/2026/09/24/20260924500066?wlog_tag3=naver",
     "https://www.koreajoongangdaily.com/korea/beyond-gks-more-scholarships-for-international-students-in-korea/12890502",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609240058&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609240058&t=NN",
+    "https://news.bizwatch.co.kr/article/real_estate/2026/09/21/0040",
+    "https://www.joongangenews.com/news/articleView.html?idxno=550438",
+    "https://www.greened.kr/news/articleView.html?idxno=350803"
    ],
    "seen_titles": [
-    "포항서만든LFP,美조지아로…SK온-포스코퓨처엠'배터리동맹'",
-    "포스코퓨처엠,기다리던첫LFP공식수주...추가수주기대감↑-DS",
-    "통신3사,추석연휴24시간비상체제가동",
     "LG에너지솔루션,20분기째적자…고려아연·KT&G등7곳은106분기흑자",
     "[애프터마켓리뷰]노타,퀄컴NPU기반피지컬AI최적화기술실증",
     "SK팜테코,美젬마바이오와희귀질환치료제위탁생산확대",
@@ -3330,10 +3339,13 @@
     "'빅쇼트'버리,또반도체공매도확대…”2년내메모리공급난끝난다...",
     "“추석지나면도로24만전자?”안절부절개미들…31%의확률이었다는...",
     "BeyondGKS:MorescholarshipsforinternationalstudentsinKorea",
-    "\"삼전조정은매수기회\"라는데…53만→63만원vs35만원'제각각'"
+    "\"삼전조정은매수기회\"라는데…53만→63만원vs35만원'제각각'",
+    "[르포]\"반도체온다지만거래는뚝\"…토허제에식어버린광주",
+    "노트북용DDR5가격1년여만에6배…완제품까지번진'메모리쇼크'",
+    "코스피쉬자美반도체1.2%↓…월요일'3일치변수'한꺼번에온다"
    ],
    "initialized": true,
-   "last_run": "2026-09-24T16:00:37.302050+09:00"
+   "last_run": "2026-09-24T16:05:17.144712+09:00"
   }
  },
  "press_names": {
