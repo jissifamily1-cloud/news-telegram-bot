@@ -4,30 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-24T09:55:19.264447+09:00",
-     "특별성과급 얼마 추석 받나 자사주로 삼성전자 벗는다 DS 베일"
-    ],
-    [
-     "2026-09-24T09:55:19.264447+09:00",
-     "워싱턴 열리는 담판 흔들 핵심 추석에 증시 국내"
-    ],
-    [
-     "2026-09-24T09:55:19.264447+09:00",
-     "갈렸다 낸드플래시 흐름 스마트폰에 D램 같은 가격 들어가는데"
-    ],
-    [
-     "2026-09-24T09:55:19.264447+09:00",
-     "1위 찾았더니 맛집 맥도날드가 관광공사 민낯 지역 맛집차트"
-    ],
-    [
-     "2026-09-24T09:55:19.264447+09:00",
-     "SKT가 해외여행족부터 제안하는 알뜰한 집콕족까지 빈틈없이 추석"
-    ],
-    [
-     "2026-09-24T09:55:19.264447+09:00",
-     "경험 현대해상 해결 청년 연결한다 사회문제 채용과"
-    ],
-    [
      "2026-09-24T10:05:21.533774+09:00",
      "계약 3사 수명 15년서 배터리 25년으로 ESS 경쟁 붙는다"
     ],
@@ -342,11 +318,17 @@
     [
      "2026-09-24T15:40:26.526813+09:00",
      "24만전자 확률이었다는 추석 도로 개미들 지나면 안절부절"
+    ],
+    [
+     "2026-09-24T15:55:20.400911+09:00",
+     "international More Korea in GKS scholarships Beyond for students"
+    ],
+    [
+     "2026-09-24T15:55:20.400911+09:00",
+     "vs 기회 63만원 35만원 매수 라는데 조정은 제각각 53만 삼전"
     ]
    ],
    "seen_urls": [
-    "https://www.itbiznews.com/news/articleView.html?idxno=225902",
-    "https://www.cstimes.com/news/articleView.html?idxno=721776",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=277159",
     "https://www.edaily.co.kr/News/Read?newsId=02509206645583072&mediaCodeNo=257",
     "https://www.cstimes.com/news/articleView.html?idxno=721294",
@@ -1844,11 +1826,11 @@
     "https://www.newscj.com/news/articleView.html?idxno=3435382",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=89687",
     "https://economist.co.kr/article/view/ecn202609240008",
-    "https://www.seoul.co.kr/news/economy/securities/2026/09/24/20260924500066?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/economy/securities/2026/09/24/20260924500066?wlog_tag3=naver",
+    "https://www.koreajoongangdaily.com/korea/beyond-gks-more-scholarships-for-international-students-in-korea/12890502",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609240058&t=NN"
    ],
    "seen_titles": [
-    "SK온,포스코퓨처엠과1조1000억원규모LFP양극재공급계약",
-    "호남반도체2030년6월첫양산목표…전력·용수2028년까지구축",
     "포항서만든LFP,美조지아로…SK온-포스코퓨처엠'배터리동맹'",
     "포스코퓨처엠,기다리던첫LFP공식수주...추가수주기대감↑-DS",
     "통신3사,추석연휴24시간비상체제가동",
@@ -3346,10 +3328,12 @@
     "추석뒤삼성반도체'6억원성과급'윤곽…200만원대의자도순차도입",
     "SKT,추석연휴맞아'가족로밍'부터영화·외식할인까지…T멤버십혜...",
     "'빅쇼트'버리,또반도체공매도확대…”2년내메모리공급난끝난다...",
-    "“추석지나면도로24만전자?”안절부절개미들…31%의확률이었다는..."
+    "“추석지나면도로24만전자?”안절부절개미들…31%의확률이었다는...",
+    "BeyondGKS:MorescholarshipsforinternationalstudentsinKorea",
+    "\"삼전조정은매수기회\"라는데…53만→63만원vs35만원'제각각'"
    ],
    "initialized": true,
-   "last_run": "2026-09-24T15:50:24.007683+09:00"
+   "last_run": "2026-09-24T15:55:20.400911+09:00"
   }
  },
  "press_names": {
