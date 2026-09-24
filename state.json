@@ -310,14 +310,25 @@
     [
      "2026-09-24T16:15:22.274987+09:00",
      "인버스 반도체 1위는 3배 7351만달러 서학개미 순매수"
+    ],
+    [
+     "2026-09-24T16:40:22.854111+09:00",
+     "한미정상회담 대통령 멕시코 투자서밋 국빈 마치고 유엔총회 방문"
+    ],
+    [
+     "2026-09-24T16:40:22.854111+09:00",
+     "5천억 매매 최악 만에 타이밍 고점 27년 개미 손실 9조"
+    ],
+    [
+     "2026-09-24T16:40:22.854111+09:00",
+     "자급률 전력 분산전력망 호남 최적지"
+    ],
+    [
+     "2026-09-24T16:40:22.854111+09:00",
+     "벨트 수원 아직 삼성전자 뜨거운 반도체 집값 인근 영통"
     ]
    ],
    "seen_urls": [
-    "https://www.theguru.co.kr/news/article.html?no=107488",
-    "https://www.thelec.kr/news/articleView.html?idxno=62685",
-    "https://www.joongangenews.com/news/articleView.html?idxno=550229",
-    "https://www.yna.co.kr/view/AKR20260923015400011?input=1195m",
-    "https://www.joongangenews.com/news/articleView.html?idxno=550228",
     "https://www.joongangenews.com/news/articleView.html?idxno=550227",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=728325",
     "http://www.beyondpost.co.kr/view.php?ud=20260923080900656246a9e4dd7f_30",
@@ -1812,14 +1823,14 @@
     "https://www.joongangenews.com/news/articleView.html?idxno=550438",
     "https://www.greened.kr/news/articleView.html?idxno=350803",
     "http://www.kjdaily.com/article.php?aid=1790233429687603276",
-    "https://economist.co.kr/article/view/ecn202609240010"
+    "https://economist.co.kr/article/view/ecn202609240010",
+    "http://www.rookie.co.kr/news/articleView.html?idxno=127237",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=64868",
+    "https://www.wikitree.co.kr/articles/1161853",
+    "https://www.seoul.co.kr/news/society/2026/09/24/20260924500076?wlog_tag3=naver",
+    "https://www.seoul.co.kr/news/economy/estate/2026/09/24/20260924500070?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "SK팜테코,美젬마바이오와희귀질환치료제위탁생산확대",
-    "[스냅드래곤서밋]퀄컴,스마트폰칩에데이터센터용HBC심었다",
-    "AI투자'빚의가격'뛰기시작했다…하이퍼스케일러내년회사채4200억...",
-    "[전국주요신문톱뉴스](23일조간)",
-    "앤트로픽,클로드오퍼스5.5출시…비용40%낮추고'통제우회'85%줄...",
     "애플,맥4대로'1조파라미터AI'돌렸다…클라우드비용줄여MS·엔비...",
     "[프리마켓포커스]美반도체훈풍에코스피상승예열…삼전·SK하닉...",
     "DK아시아,시행사브랜드평판2026년9월...1위",
@@ -3314,10 +3325,15 @@
     "노트북용DDR5가격1년여만에6배…완제품까지번진'메모리쇼크'",
     "코스피쉬자美반도체1.2%↓…월요일'3일치변수'한꺼번에온다",
     "서학개미순매수1위는‘반도체3배인버스’…7351만달러",
-    "“삼전조정오면사라\"는데…53만→63만원vs35만원‘엇갈림’"
+    "“삼전조정오면사라\"는데…53만→63만원vs35만원‘엇갈림’",
+    "소노손창환감독\"이정현은오늘결장,제임스-오브라이언트는아직맞...",
+    "李대통령,유엔총회·한미정상회담·투자서밋마치고멕시코국빈방문...",
+    "고점개미9조5천억손실…27년만에'최악'의매매타이밍",
+    "“호남전력자급률210%...분산전력망최적지”",
+    "아직뜨거운‘반도체벨트’집값…‘삼성전자인근’수원영통,전..."
    ],
    "initialized": true,
-   "last_run": "2026-09-24T16:35:18.671425+09:00"
+   "last_run": "2026-09-24T16:40:22.854111+09:00"
   }
  },
  "press_names": {
