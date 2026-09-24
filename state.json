@@ -302,13 +302,25 @@
     [
      "2026-09-24T17:40:25.911076+09:00",
      "ETF SK하이닉스는 3일간 삼성전자 레버리지"
+    ],
+    [
+     "2026-09-24T17:55:18.260706+09:00",
+     "DS 대박 터지나 6억 특별성과급 기준 추석 삼성전자 직후"
+    ],
+    [
+     "2026-09-24T17:55:18.260706+09:00",
+     "합병 수순 밟나 LG헬로비전 몸집 줄이는 LG유플러스"
+    ],
+    [
+     "2026-09-24T17:55:18.260706+09:00",
+     "그리는 조달 투자 하우스리뷰 팔방미인 회수 상승곡선 어펄마가"
+    ],
+    [
+     "2026-09-24T17:55:18.260706+09:00",
+     "연휴 반도체 방산은 동반 하락 증시 ETF가 원유 휩쓴"
     ]
    ],
    "seen_urls": [
-    "http://www.newsprime.co.kr/news/article.html?no=748805",
-    "https://news.dealsitetv.com/articles/176241",
-    "https://www.youthdaily.co.kr/news/article.html?no=227483",
-    "https://www.youthdaily.co.kr/news/article.html?no=227407",
     "https://dealsite.co.kr/articles/169413",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=363636",
     "https://dealsite.co.kr/articles/169409",
@@ -1804,13 +1816,13 @@
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2317284",
     "https://www.getnews.co.kr/news/articleView.html?idxno=881778",
     "https://www.g-enews.com/view.php?ud=20260923170628251127fa31d75c_1",
-    "http://www.kjdaily.com/article.php?aid=1790238316687602276"
+    "http://www.kjdaily.com/article.php?aid=1790238316687602276",
+    "https://www.insight.co.kr/news/575208",
+    "http://www.metroseoul.co.kr/article/20260924500063",
+    "https://biz.heraldcorp.com/article/10883551",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490208"
    ],
    "seen_titles": [
-    "우리넷,'차세대양자암호표준'선점…\"팔로알토·크라우드스트라이크...",
-    "[핀포인트][SK하이닉스]美인텔협력만지작…팹'200억달러·4년'가능...",
-    "\"서학개미중개에서ETF수출로\"…美시장으로발길돌린'K-금투사'",
-    "\"종적감춘밸류업\"...알짜지분팔고'적자'자회사합병한SK가스",
     "롯데에너지머티,AI·반도체붐에믹스개선…턴어라운드'목전'",
     "바이오경쟁,'자체개발'서'기술도입'으로",
     "포토넘어CMP슬러리까지…와이씨켐,소재사업확장'속도'",
@@ -3306,10 +3318,14 @@
     "SK텔레콤,양자암호·공공AI기술고도화…고객신뢰지표도직접만든다",
     "[금융zip]우리은행,신보·기보와청년창업기업에2000억원금융지원...",
     "넘어야할산많은K배터리…민관합동으로부활할수있을까",
-    "삼성전자레버리지ETF3일간19%↑…SK하이닉스는1%대"
+    "삼성전자레버리지ETF3일간19%↑…SK하이닉스는1%대",
+    "\"최대6억대박터지나\"...삼성전자DS,추석직후'특별성과급기준'...",
+    "몸집줄이는LG헬로비전…LG유플러스합병수순밟나",
+    "투자·회수·조달‘팔방미인’어펄마가그리는상승곡선[하우스리뷰...",
+    "[주간ETF]AI반도체ETF가휩쓴연휴전증시…원유·방산은동반'하락..."
    ],
    "initialized": true,
-   "last_run": "2026-09-24T17:50:25.497926+09:00"
+   "last_run": "2026-09-24T17:55:18.260706+09:00"
   }
  },
  "press_names": {
