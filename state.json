@@ -54,11 +54,17 @@
     [
      "2026-09-25T01:05:20.417937+09:00",
      "시대 AI가 지능이 투자법 바꾸는 거래되는"
+    ],
+    [
+     "2026-09-25T04:15:21.890946+09:00",
+     "덮치는 누가 레버리지 폭락 증권가 만들었나 국감"
+    ],
+    [
+     "2026-09-25T04:15:21.890946+09:00",
+     "따라오지 일자리는 신기록인데 수출은"
     ]
    ],
    "seen_urls": [
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065569651400318",
-    "https://view.asiae.co.kr/article/2026092308513235022",
     "http://www.srtimes.kr/news/articleView.html?idxno=213195",
     "https://www.news1.kr/finance/insurance-card/6299806",
     "https://www.newsway.co.kr/news/view?ud=2026092308321203932",
@@ -1556,11 +1562,11 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=609629",
     "https://biz.heraldcorp.com/article/10884403",
     "https://www.joongangenews.com/news/articleView.html?idxno=550520",
-    "https://www.econovill.com/news/articleView.html?idxno=751561"
+    "https://www.econovill.com/news/articleView.html?idxno=751561",
+    "https://www.news2day.co.kr/article/20260923500003",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=881761"
    ],
    "seen_titles": [
-    "현대해상,청년사회문제해결경험‘미래역량’으로연결",
-    "반도체'퓨어플레이어'에투자…PLUSETF솔루션3종완성",
     "키움증권,'철권스타즈컵'개최…e스포츠마케팅확대",
     "현대해상,청년사회문제해결경험'취업기회'로연결",
     "삼성물산,건설·배당기대감에목표가50만원대안착[애널리스트의시...",
@@ -3058,10 +3064,12 @@
     "국장쉬는나흘간미장은정상거래…추석연휴'미국ETF'로머니무브",
     "“정권바뀌면책임질라”…‘1500조원’3대메가·‘273조원’대미투...",
     "구글,다음주AI칩실은위성쏜다…'우주데이터센터'첫궤도실증",
-    "지능이거래되는시대,AI가바꾸는투자법[도서]"
+    "지능이거래되는시대,AI가바꾸는투자법[도서]",
+    "[N2포커스]‘레버리지發폭락’누가만들었나…증권가덮치는국감...",
+    "[허원순의경제로세상보기]수출은신기록인데,일자리는왜따라오지..."
    ],
    "initialized": true,
-   "last_run": "2026-09-25T04:10:23.677618+09:00"
+   "last_run": "2026-09-25T04:15:21.890946+09:00"
   }
  },
  "press_names": {
