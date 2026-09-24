@@ -294,12 +294,17 @@
     [
      "2026-09-24T19:35:18.074630+09:00",
      "큰손 개미의 레버리지 해외로 멈추지 한국 막았더니"
+    ],
+    [
+     "2026-09-24T19:55:17.735382+09:00",
+     "메모리 속도전 3공장 우한 CXMT 증설 YMTC 가동 42만장"
+    ],
+    [
+     "2026-09-24T19:55:17.735382+09:00",
+     "힐리어드 솔로홈런 39호 kt 선두 선착 80승 폭발"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/market-exr/6299735",
-    "https://www.bntnews.co.kr/article/view/bnt202609230090",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2473768",
     "https://news.tf.co.kr/read/economy/2369201.htm",
     "https://www.smarttoday.co.kr/ko-kr/articles/111938",
     "http://www.newsprime.co.kr/news/article.html?no=748818",
@@ -1796,12 +1801,12 @@
     "https://m.sports.naver.com/basketball/article/065/0000301934",
     "https://www.mk.co.kr/article/12160998",
     "http://www.metroseoul.co.kr/article/20260924500077",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16211666"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16211666",
+    "https://m.sports.naver.com/basketball/article/065/0000301937",
+    "https://www.joongangenews.com/news/articleView.html?idxno=550502",
+    "https://www.yna.co.kr/view/AKR20260923192700007?input=1195m"
    ],
    "seen_titles": [
-    "美반도체훈풍…프리마켓서삼전·SK하닉2%대강세",
-    "‘어서와한국은’로맥,김강민재회에울컥",
-    "울산지역하도급률38.06%…3분기연간목표37%첫돌파",
     "키움증권,배재민출격'철권스타즈컵'개최…고객대상이벤트",
     "현대해상,AI시대미래인재육성‘프로젝트트레일마크’공개",
     "티로보틱스,정부'국산로봇도입확대'수혜…\"새만금피지컬AI클러...",
@@ -3298,10 +3303,13 @@
     "[오픈매치]고양소노와서울SK의경기(소노99-86승)",
     "‘무서울정도로들어간다’3P20개폭발한소노,SK꺾고오픈매치승...",
     "LG전자·SK엔무브,AI데이터센터열관리맞손…차세대냉매공동개발",
-    "프로농구오픈매치데이시작,현대모비스·DB·소노승리…경기일정보..."
+    "프로농구오픈매치데이시작,현대모비스·DB·소노승리…경기일정보...",
+    "[출정식]고양소노,팬과함께한26-27시즌출정식",
+    "中메모리증설속도전…CXMT월42만장·YMTC우한3공장가동",
+    "힐리어드39호솔로홈런폭발…단독선두kt80승선착"
    ],
    "initialized": true,
-   "last_run": "2026-09-24T19:50:28.617424+09:00"
+   "last_run": "2026-09-24T19:55:17.735382+09:00"
   }
  },
  "press_names": {
