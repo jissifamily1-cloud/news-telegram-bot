@@ -478,12 +478,17 @@
     [
      "2026-09-24T09:35:20.234221+09:00",
      "기술 SK엔무브 열관리 협력 차세대 LG전자"
+    ],
+    [
+     "2026-09-24T09:42:46.123313+09:00",
+     "회담 반도체 백악관 배터리 철강 셈법 제각각 정상 미중 24일"
+    ],
+    [
+     "2026-09-24T09:42:46.123313+09:00",
+     "코스피 하락 코스닥 상승 혼조세"
     ]
    ],
    "seen_urls": [
-    "https://www.joongang.co.kr/article/25464240",
-    "https://www.joongang.co.kr/article/25464231",
-    "https://www.joongang.co.kr/article/25464234",
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068097",
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068069",
     "https://news.tf.co.kr/read/economy/2368996.htm",
@@ -1980,12 +1985,12 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4436390",
     "https://magazine.hankyung.com/business/article/202609244841b",
     "https://www.getnews.co.kr/news/articleView.html?idxno=881657",
-    "https://news.dealsitetv.com/articles/176330"
+    "https://news.dealsitetv.com/articles/176330",
+    "https://www.dailian.co.kr/news/view/1694348/?sc=Naver",
+    "http://www.newskr.kr/news/articleView.html?idxno=106645",
+    "https://www.tokenpost.kr/news/market/413193"
    ],
    "seen_titles": [
-    "반도체아닌냉각·전력기술로…LG·MS‘AI동맹’",
-    "[Biz&Now]포스코퓨처엠,SK온에양극재공급",
-    "“문제해결능력,스펙으로알수있나”AI가바꾼채용문법",
     "[배성철칼럼]스펙에서역량으로",
     "[경상시론]울산,대한민국산업AX의실증도시로도약해야",
     "1000억증자에자금표는석달치…한앤코SK디앤디'반쪽답변'논란",
@@ -3482,10 +3487,13 @@
     "이억원,추석연휴도업무모드…환율·레버리지ETF국감대비",
     "이재용은미국,최태원·구광모는멕시코…총수들의'추석경영'",
     "[추석기획]가격·차종만이아니었다...제주서SK렌터카이용해보니",
-    "[재계투데이]LG전자·SK엔무브,차세대열관리기술협력外"
+    "[재계투데이]LG전자·SK엔무브,차세대열관리기술협력外",
+    "李대통령,월가에\"한국투자안하면후회\"…트럼프와군함건조논의",
+    "미중정상24일백악관회담…韓반도체·배터리·철강셈법제각각",
+    "[국내증시개장시황]코스피하락,코스닥상승속혼조세"
    ],
    "initialized": true,
-   "last_run": "2026-09-24T09:40:23.640192+09:00"
+   "last_run": "2026-09-24T09:42:46.123313+09:00"
   }
  },
  "press_names": {
