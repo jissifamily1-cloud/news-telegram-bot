@@ -309,9 +309,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20260923000097",
-    "https://www.kbmaeil.com/article/20260923500022",
-    "https://www.newspim.com/news/view/20260923000083",
     "https://www.yna.co.kr/view/AKR20260923026700008?input=1195m",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000016784&cp=nv",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=301502",
@@ -1808,12 +1805,12 @@
     "http://www.rookie.co.kr/news/articleView.html?idxno=127246",
     "https://basketkorea.com/news/newsview.php?ncode=1065602942598229",
     "https://www.yna.co.kr/view/AKR20260924040151007?input=1195m",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16211593"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16211593",
+    "https://m.sports.naver.com/basketball/article/065/0000301927",
+    "https://basketkorea.com/news/newsview.php?ncode=1065606309430766",
+    "http://www.rookie.co.kr/news/articleView.html?idxno=127248"
    ],
    "seen_titles": [
-    "[AIMY증시전망]코스피,추석연휴직전상승전망…반도체강세'주목...",
-    "반도체훈풍탄코스피,추석앞두고4일째오를까",
-    "[모닝리포트]\"우리넷,AI시대양자암호수요확대\"",
     "DS증권\"포스코퓨처엠,LFP첫공식수주…추가수주기대유효\"",
     "[뉴욕마켓]마이크론·샌디스크강세…나스닥최고치랠리",
     "[박정식의국내주식시황]美반도체관련주강세속...국내증시도반...",
@@ -3310,10 +3307,13 @@
     "제임스-오브라이언트앞세운소노,SK에13점차승리",
     "[OPENMATCH]‘이정현없어도강했다!’화력폭발한소노,3점포20방앞...",
     "DB·현대모비스·소노,프로농구시범경기첫날승전고(종합)",
-    "엄정화X박성웅'오케이마담2',VOD서비스시작…관객수→손익분기점..."
+    "엄정화X박성웅'오케이마담2',VOD서비스시작…관객수→손익분기점...",
+    "'3점슛을20개나성공?'화력앞세운소노,오픈매치에서첫승신고",
+    "[OPENMATCH]완패인정한전희철SK감독,“소노의슛이너무잘들어갔...",
+    "SK전희철감독\"시즌때도저렇게들어가면답이없다\""
    ],
    "initialized": true,
-   "last_run": "2026-09-24T18:45:24.449255+09:00"
+   "last_run": "2026-09-24T18:50:26.785754+09:00"
   }
  },
  "press_names": {
