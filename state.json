@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-24T04:15:23.339630+09:00",
-     "찾는 반도체 서버만 열풍 서두른다 한국 찬바람 구형"
-    ],
-    [
      "2026-09-24T04:40:23.568476+09:00",
      "반도체 유가 채권금리 하이닉스 숨고르기 급등"
     ],
@@ -522,13 +518,17 @@
     [
      "2026-09-24T10:05:21.533774+09:00",
      "목표 본격화 IPO 1조 청구 유니콘 내년 예심 뤼튼"
+    ],
+    [
+     "2026-09-24T10:15:23.484673+09:00",
+     "길어지는 가스전 확보한 주목 LNG K에너지 비중동 수급 불확실성"
+    ],
+    [
+     "2026-09-24T10:15:23.484673+09:00",
+     "사나이 따라간 팬들 피리 프로야구 부는 자만추 논란 호텔까지"
     ]
    ],
    "seen_urls": [
-    "https://www.chosun.com/economy/stock-finance/2026/09/23/FTGTEA7YKVA5BEM2ADBF3M563E/",
-    "https://www.chosun.com/economy/tech_it/2026/09/23/EMCJCAIXRBAQ7ICZXGCFVU2YOY/",
-    "https://www.chosun.com/economy/tech_it/2026/09/23/CWU3KXV6IFD2TDHATCOOTIWWAI/",
-    "https://www.kwnews.co.kr/article/20260922501193",
     "https://www.sedaily.com/article/20093925",
     "https://www.topstarnews.net/news/articleView.html?idxno=16207811",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000016738&cp=nv",
@@ -2024,13 +2024,13 @@
     "https://www.g-enews.com/view.php?ud=2026092310523795993084322ec9_1",
     "https://www.sedaily.com/article/20094793",
     "https://www.sedaily.com/article/20094787",
-    "https://www.sedaily.com/article/20094789"
+    "https://www.sedaily.com/article/20094789",
+    "https://economist.co.kr/article/view/ecn202609240003",
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=600695",
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=423841",
+    "https://www.idaegu.com/news/articleView.html?idxno=665881"
    ],
    "seen_titles": [
-    "500조원넘었던ETF,440조원대로줄어",
-    "낸드,소비자용제품중심가격하락압력커져",
-    "‘삼전닉스式성과급’사측과조정결렬되자마이크론대만노조,파업...",
-    "23일부터민족대이동…강원도손님맞이행사‘풍성’",
     "술때문에억대성과급놓쳤다…SK하이닉스신입4명해고된이유",
     "슈퍼주니어시원,옥토버화보로강렬존재감…그레이슈트분위기",
     "[단독]‘엇나간상생’…9대그룹농어촌직접지원14%,SK·포스코‘...",
@@ -3526,10 +3526,14 @@
     "ESS계약15년서25년으로…배터리3사‘수명경쟁’붙는다",
     "대기업총수들2027판짜기시작…추석에도경영전선",
     "“불평등계약족쇄벗은APR-1400…美원전시장서‘가격경쟁력’입증...",
-    "1조유니콘된뤼튼,IPO본격화…내년예심청구목표"
+    "1조유니콘된뤼튼,IPO본격화…내년예심청구목표",
+    "추석에도멈추지않는'경영시계'…총수들美·英·멕시코로",
+    "SKT,추석연휴고객잡기나섰다⋯로밍데이터·일본현지할인확대",
+    "길어지는LNG수급불확실성···비중동가스전확보한K에너지'주목'",
+    "호텔까지따라간팬들'자만추'논란…'피리부는사나이'된프로야구..."
    ],
    "initialized": true,
-   "last_run": "2026-09-24T10:10:24.648169+09:00"
+   "last_run": "2026-09-24T10:15:23.484673+09:00"
   }
  },
  "press_names": {
