@@ -89,7 +89,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/stock/2026/09/23/2026092309085264312",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=366023",
     "http://www.popcornnews.net/news/articleView.html?idxno=133978",
     "https://www.newsis.com/view/NISX20260923_0003801443",
@@ -1588,10 +1587,10 @@
     "https://www.nocutnews.co.kr/news/6582429",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=277377",
     "https://www.dailian.co.kr/news/view/1694090/?sc=Naver",
-    "https://www.vegannews.co.kr/news/article.html?no=387378"
+    "https://www.vegannews.co.kr/news/article.html?no=387378",
+    "https://www.news1.kr/politics/president/6301456"
    ],
    "seen_titles": [
-    "삼성전자·SK하이닉스,반도체수요증가기대감에동반상승",
     "현대해상,청년경험·역량기록하는'프로젝트트레일마크'공개",
     "한화자산운용,반도체매출비중높은기업에집중…PLUSETF3종소개",
     "美반도체랠리에장초반삼전·닉스3%안팎강세[핫스탁]",
@@ -3090,10 +3089,11 @@
     "[단독]제재763건절반은'경고'…'과징금폭탄'의이면",
     "쏟아지는빅테크주문…삼성·SK,'HBM4·고용량DDR5'승부수",
     "'읽지않는사람들'부터'데미안'까지…SK텔레콤경영진이강추한책",
-    "휴대전화데이터사용량과통신사집계가다르면"
+    "휴대전화데이터사용량과통신사집계가다르면",
+    "李대통령,최태원·구광모등멕시코진출기업인들과현지간담회"
    ],
    "initialized": true,
-   "last_run": "2026-09-25T05:30:30.816669+09:00"
+   "last_run": "2026-09-25T05:35:18.896360+09:00"
   }
  },
  "press_names": {
