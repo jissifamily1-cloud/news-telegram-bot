@@ -278,11 +278,17 @@
     [
      "2026-09-24T19:15:24.111890+09:00",
      "SV 성과 공개 CSR 사회적가치연구원 SEE 측정"
+    ],
+    [
+     "2026-09-24T19:25:20.626586+09:00",
+     "25P 상대하는 첫선부터 제임스 소노를 스카티 KBL"
+    ],
+    [
+     "2026-09-24T19:25:20.626586+09:00",
+     "홈경기 한복 강원FC 27일 경품 입으면 추첨 인천과"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026092308242769454",
-    "https://www.bloter.net/news/articleView.html?idxno=674176",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609221018060640092",
     "https://www.greened.kr/news/articleView.html?idxno=350681",
     "https://daily.hankooki.com/news/articleView.html?idxno=1409183",
@@ -1780,11 +1786,11 @@
     "http://www.rookie.co.kr/news/articleView.html?idxno=127249",
     "https://basketkorea.com/news/newsview.php?ncode=1065607006682687",
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553566544",
-    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2317286"
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2317286",
+    "https://basketkorea.com/news/newsview.php?ncode=1065608043250167",
+    "https://chmbc.co.kr/article/J6RKYlhSuOP7iOPP-RlM1"
    ],
    "seen_titles": [
-    "[클릭e종목]\"티로보틱스,진공로봇·ESS·휴머노이드'삼각편대'…2027년...",
-    "\"AI트래픽늘어도SKT·KT·LGU+수익제자리\"…통신망해법은",
     "HL디앤아이한라,‘신분평에피트더웨이시티’분양",
     "미중정상회담,배터리경쟁에도영향줄까…LG엔솔촉각",
     "호서대,AI·반도체·디스플레이·미래차기술창업투자플랫폼출범",
@@ -3282,10 +3288,12 @@
     "소노손창환감독\"이겼지만다시금다잡아야한다는걸느꼈다\"",
     "[OPENMATCH]승리에도아쉬움밝힌손창환소노감독,“우승후보란말...",
     "프로농구오픈매치개막,DB·소노,화끈한공격력앞세워첫승,현대...",
-    "사회적가치연구원,AI로CSR성과측정'SEESV'첫공개"
+    "사회적가치연구원,AI로CSR성과측정'SEESV'첫공개",
+    "[OPENMATCH]‘KBL첫선부터25P’스카티제임스“소노를상대하는팀...",
+    "강원FC,27일인천과홈경기..한복입으면경품추첨"
    ],
    "initialized": true,
-   "last_run": "2026-09-24T19:20:25.314874+09:00"
+   "last_run": "2026-09-24T19:25:20.626586+09:00"
   }
  },
  "press_names": {
