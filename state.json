@@ -102,10 +102,13 @@
     [
      "2026-09-25T22:30:35.144034+09:00",
      "기관 동반 삼성전자 4조1880억원 순매수 외국인"
+    ],
+    [
+     "2026-09-25T22:55:20.548147+09:00",
+     "미국증시 상승 반등 강세 장초반 SK하이닉스 메모리 ADR"
     ]
    ],
    "seen_urls": [
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8670265",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1725526",
     "https://www.gukjenews.com/news/articleView.html?idxno=3704392",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=359505",
@@ -1604,10 +1607,10 @@
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553567657",
     "https://www.ajunews.com/view/20260925212436441",
     "https://www.ikbc.co.kr/article/view/kbc202609250039",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490323"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490323",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16213332"
    ],
    "seen_titles": [
-    "SKC,1.16조유증뒤SK넥실리스8500억자금조달…지원가능성남아",
     "[사가페2026]SK하이닉스,이천너머사회위해팔걷다",
     "[무등의아침]서왕진“민주당,반도체관련광주군공항방문한적도...",
     "[현장]취임8개월김은경원장,을입장에서기업·서민'윈윈'모색",
@@ -3106,10 +3109,11 @@
     "이정현·유기상이어이주영·김승우도일냈다!韓3X3남자농구,사상...",
     "[아주경제오늘의뉴스종합]최태원\"멕시코백신역량협력\"…구광모...",
     "동복댐높이고물길잇고…반도체'생명수'이렇게뚫린다",
-    "[주간매매동향]외국인·기관,삼성전자4조1880억원동반순매수…주..."
+    "[주간매매동향]외국인·기관,삼성전자4조1880억원동반순매수…주...",
+    "미국증시장초반반등…메모리강세,SK하이닉스ADR2%대상승"
    ],
    "initialized": true,
-   "last_run": "2026-09-25T22:50:24.248737+09:00"
+   "last_run": "2026-09-25T22:55:20.548147+09:00"
   }
  },
  "press_names": {
