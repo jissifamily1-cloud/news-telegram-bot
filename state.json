@@ -301,7 +301,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.cbci.co.kr/news/articleView.html?idxno=609345",
     "https://www.businessplus.kr/news/articleView.html?idxno=117286",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=393691",
     "http://www.yonhapnewstv.co.kr/news/MYH20260923102907l5Z",
@@ -1800,10 +1799,10 @@
     "https://www.incheontoday.com/news/articleView.html?idxno=323547",
     "https://news.bizwatch.co.kr/article/industry/2026/09/22/0044",
     "https://www.g-enews.com/view.php?ud=202609242001056543153ddfb15a_1",
-    "https://thetracker.co.kr/View.aspx?No=4241543"
+    "https://thetracker.co.kr/View.aspx?No=4241543",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260925151630mz3"
    ],
    "seen_titles": [
-    "포스코퓨처엠SK온과1조742억원LFP동맹체결",
     "SK엔무브-LG전자손잡았다글로벌냉매·공조시장공략",
     "시행사브랜드평판2026년9월빅데이터분석결과…1위DK아시아·2위BS...",
     "[금융권이모저모]KB자산운용,'KB온국민TDF2055'5년수익률1위外",
@@ -3302,10 +3301,11 @@
     "[인천30년지킴이]3대째일군K-꽃게,태평양건너세계밥상노린다",
     "[AI열폭주잡는K산업]下\"기름에서버풍덩\"…정유4사꽂힌새먹거리",
     "TIMEKorea플러스배당액티브ETF,9월1%분배…특별분배더한다",
-    "SK는'규모'·삼성은'속도'…호남반도체클러스터투자구체화"
+    "SK는'규모'·삼성은'속도'…호남반도체클러스터투자구체화",
+    "챗GPT다음은클로드…국내AI앱2위자리굳혀"
    ],
    "initialized": true,
-   "last_run": "2026-09-25T15:15:27.936337+09:00"
+   "last_run": "2026-09-25T15:20:22.842359+09:00"
   }
  },
  "press_names": {
