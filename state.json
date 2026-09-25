@@ -410,13 +410,17 @@
     [
      "2026-09-25T10:35:19.596867+09:00",
      "기업인들 경제협정 서둘러 달라 셰인바움 만난"
+    ],
+    [
+     "2026-09-25T11:00:35.694408+09:00",
+     "거래 17시15분 공시엔 이미 17시22분 거래정지 가능 공시"
+    ],
+    [
+     "2026-09-25T11:00:35.694408+09:00",
+     "한국 일본은 묶었나 메가특구는 특구를"
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4436268",
-    "https://www.etnews.com/20260923000039",
-    "https://biz.heraldcorp.com/article/10882868",
-    "https://www.imaeil.com/page/view/2026092309592755025",
     "https://www.koreaherald.com/article/10883064",
     "https://www.fnnews.com/news/202609230949054900",
     "https://www.mk.co.kr/article/12160076",
@@ -1912,13 +1916,13 @@
     "https://www.sportschosun.com/baseball/2026-09-25/202609250100168610011079",
     "https://www.edaily.co.kr/News/Read?newsId=01807286645583728&mediaCodeNo=257",
     "https://www.gokorea.kr/news/articleView.html?idxno=879684",
-    "http://www.joseilbo.com/news/news_read.php?uid=576340&class=32"
+    "http://www.joseilbo.com/news/news_read.php?uid=576340&class=32",
+    "https://www.tjb.co.kr/news05/bodo/view/id/104057",
+    "https://www.gokorea.kr/news/articleView.html?idxno=879701",
+    "http://www.breaknews.com/1239126",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8671586"
    ],
    "seen_titles": [
-    "LG전자-SK엔무브,열관리핵심소재공동개발맞손",
-    "LG전자,AIDC차세대열관리핵심소재개발..SK엔무브와맞손",
-    "LG전자-SK엔무브,AIDC용차세대냉매개발MOU",
-    "LG전자-SK엔무브,AI데이터센터용열관리기술공동개발한다",
     "LG전자·SK엔무브,AI데이터센터열관리소재개발‘맞손’",
     "원전은뜨는데한전은왜이래…유가에발목잡힌주가[왜울株]",
     "LGElectronics,SKEnmoveteamuponAIdatacentercooling",
@@ -3414,10 +3418,14 @@
     "80승선착!9월에만14승'폭풍질주'…정규시즌우승확률95.2%잡았다→...",
     "李·셰인바움만난韓기업인들“경제협정서둘러달라”(종합)",
     "누리호발사임박,15기국산위성의특별한임무와기술력공개",
-    "李대통령,韓-멕시코기업인간담회…최태원·구광모등한자리에"
+    "李대통령,韓-멕시코기업인간담회…최태원·구광모등한자리에",
+    "해양쓰레기·우주의약품·반도체실증까지…누리호에실리는15개임무",
+    "이재명대통령,멕시코와경제협력강화논의...'플랜멕시코'합류선...",
+    "[공시검증]17시15분공시엔거래가능,17시22분공시땐이미거래정지...",
+    "[특구1281]④일본은왜특구를묶었나…한국메가특구는?"
    ],
    "initialized": true,
-   "last_run": "2026-09-25T10:55:17.735607+09:00"
+   "last_run": "2026-09-25T11:00:35.694408+09:00"
   }
  },
  "press_names": {
