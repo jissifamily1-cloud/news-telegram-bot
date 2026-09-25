@@ -290,14 +290,17 @@
     [
      "2026-09-26T08:15:21.837297+09:00",
      "이것 수익률 몰렸다 개미들의 선택은 싹쓸이"
+    ],
+    [
+     "2026-09-26T08:25:18.344679+09:00",
+     "반도체 지표도 발표 물가 늘었나 얼마나 생산 금리"
+    ],
+    [
+     "2026-09-26T08:25:18.344679+09:00",
+     "주도권 주식 이란 달러 잡았나 채권 유화파가 혼조"
     ]
    ],
    "seen_urls": [
-    "https://www.busan.com/view/busan/view.php?code=2026092312055695026",
-    "https://www.s-journal.co.kr/news/articleView.html?idxno=43989",
-    "https://www.goodkyung.com/news/articleView.html?idxno=291726",
-    "https://www.wikitree.co.kr/articles/1161616",
-    "https://dealsite.co.kr/articles/169429",
     "https://www.etoday.co.kr/news/view/2629078",
     "https://www.eroun.net/news/articleView.html?idxno=90869",
     "https://news.mtn.co.kr/news-detail/2026092312094422265",
@@ -1792,14 +1795,14 @@
     "https://www.g-enews.com/view.php?ud=2026092316503391713d7a510102_1",
     "https://biz.sbs.co.kr/article_hub/20000336566?division=NAVER",
     "https://www.chosun.com/economy/tech_it/2026/09/26/YBYFDB2725G6BCJ3QKL6N3RX7M/",
-    "https://www.mt.co.kr/stock/2026/09/26/2026092316413646682"
+    "https://www.mt.co.kr/stock/2026/09/26/2026092316413646682",
+    "https://biz.chosun.com/international/international_general/2026/09/26/3L3HYPQTGJGYRLZ5IGGR5BTV7A/",
+    "https://www.slist.kr/news/articleView.html?idxno=768829",
+    "https://www.g-enews.com/view.php?ud=202609260802245218fbbec65dfb_1",
+    "https://www.yna.co.kr/view/AKR20260926014400002?input=1195m",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4436525"
    ],
    "seen_titles": [
-    "美나스닥최고치속삼성전자상승·DB하이텍하락",
-    "현대해상,청년미래인재육성프로젝트공개",
-    "위기의11번가…1020세대서중국‘쉬인’에밀렸다",
-    "[최태원-노소영이혼소송재상고쟁점]기여도서빠진'선경300억'…재...",
-    "[금융이모저모]하나은행,청소년대상AI게임창작대회개최",
     "'포스코퓨처엠'SK온과LFP양극재공급계약…배터리3사공급완성",
     "[ETF언박싱]KB운용,삼성·SK그룹주묶은ETF출격…AI생태계투자",
     "美반도체훈풍에도코스피ㆍ코스닥강보합세⋯“추석연휴앞두고관망...",
@@ -3294,10 +3297,15 @@
     "10월부터‘최적요금제’고지의무화…통신비절감효과는",
     "배당8%받고건보료도아낀다…'돈몰리는'종목은[많이본경제기사...",
     "정수기빌려주던코웨이,中로봇청소기로출격…보안도관리해주나요...",
-    "개미들의선택은'이것'으로몰렸다…한주수익률싹쓸이"
+    "개미들의선택은'이것'으로몰렸다…한주수익률싹쓸이",
+    "李대통령“한·멕시코무역협정으로양국경제협력강화해야”",
+    "로이터\"SK하이닉스솔리다임,美IPO추진…기업가치최대1500억달러\"",
+    "인텔하이-NA선제가동…삼성·SK·TSMC차세대양산시표조율",
+    "[다음주경제]반도체생산얼마나늘었나…물가·금리지표도발표",
+    "[뉴욕마켓워치]이란,유화파가주도권잡았나…주식↑달러↓채권혼조"
    ],
    "initialized": true,
-   "last_run": "2026-09-26T08:20:23.027652+09:00"
+   "last_run": "2026-09-26T08:25:18.344679+09:00"
   }
  },
  "press_names": {
