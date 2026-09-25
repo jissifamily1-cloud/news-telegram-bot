@@ -418,12 +418,17 @@
     [
      "2026-09-25T11:00:35.694408+09:00",
      "한국 일본은 묶었나 메가특구는 특구를"
+    ],
+    [
+     "2026-09-25T11:10:22.714193+09:00",
+     "증시 정상회담 추석연휴 전망은 이후 체크포인트"
+    ],
+    [
+     "2026-09-25T11:10:22.714193+09:00",
+     "시즌 3분기 비반도체는 임박 맑음 반도체는 환율에 실적 희비"
     ]
    ],
    "seen_urls": [
-    "https://www.koreaherald.com/article/10883064",
-    "https://www.fnnews.com/news/202609230949054900",
-    "https://www.mk.co.kr/article/12160076",
     "https://www.gukjenews.com/news/articleView.html?idxno=3704299",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1725504",
     "http://www.4th.kr/news/articleView.html?idxno=2118603",
@@ -1920,12 +1925,12 @@
     "https://www.tjb.co.kr/news05/bodo/view/id/104057",
     "https://www.gokorea.kr/news/articleView.html?idxno=879701",
     "http://www.breaknews.com/1239126",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8671586"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8671586",
+    "https://www.fnnews.com/news/202609251049550230",
+    "https://www.fntimes.com/html/view.php?ud=202609232054475505179ad43907_18",
+    "https://www.sedaily.com/article/20094852"
    ],
    "seen_titles": [
-    "LG전자·SK엔무브,AI데이터센터열관리소재개발‘맞손’",
-    "원전은뜨는데한전은왜이래…유가에발목잡힌주가[왜울株]",
-    "LGElectronics,SKEnmoveteamuponAIdatacentercooling",
     "미국발반도체훈풍,소부장도온기[종목NOW]",
     "“삼성전자목표주가63만원”…30만선회복앞두고증권가전망보니",
     "제주이탈로,강원전결승골로K리그130라운드MVP...K리그2는박재용",
@@ -3422,10 +3427,13 @@
     "해양쓰레기·우주의약품·반도체실증까지…누리호에실리는15개임무",
     "이재명대통령,멕시코와경제협력강화논의...'플랜멕시코'합류선...",
     "[공시검증]17시15분공시엔거래가능,17시22분공시땐이미거래정지...",
-    "[특구1281]④일본은왜특구를묶었나…한국메가특구는?"
+    "[특구1281]④일본은왜특구를묶었나…한국메가특구는?",
+    "\"추석떡값100만원생겼다면…\"운용사들은'반도체·월배당·반반'찍...",
+    "美中정상회담등체크포인트…추석연휴이후韓증시전망은",
+    "3분기실적시즌임박…반도체는‘맑음’,비반도체는환율에‘희비’..."
    ],
    "initialized": true,
-   "last_run": "2026-09-25T11:05:18.796153+09:00"
+   "last_run": "2026-09-25T11:10:22.714193+09:00"
   }
  },
  "press_names": {
