@@ -234,16 +234,13 @@
     [
      "2026-09-25T18:00:39.532011+09:00",
      "기술 SK엔무브 데이터센터까지 열관리 LG전자 협력 맞손"
+    ],
+    [
+     "2026-09-25T18:15:23.030941+09:00",
+     "명절 결혼 푼다 취업 보상소비 언제할거니 스트레스"
     ]
    ],
    "seen_urls": [
-    "https://www.the-today.com/news/articleView.html?idxno=90649",
-    "https://www.seoul.co.kr/news/society/2026/09/23/20260923500070?wlog_tag3=naver",
-    "https://www.sedaily.com/article/20094407",
-    "https://www.news1.kr/finance/general-stock/6300072",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=609352",
-    "http://www.inews24.com/view/2008704",
-    "https://www.sedaily.com/article/20094404",
     "https://www.mydaily.co.kr/page/view/2026092212405021903",
     "http://www.wikileaks-kr.org/news/articleView.html?idxno=192392",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=318229",
@@ -1736,16 +1733,16 @@
     "http://www.sisafocus.co.kr/news/articleView.html?idxno=365417",
     "https://www.ikbc.co.kr/article/view/kbc202609250026",
     "https://news.ifm.kr/news/articleView.html?idxno=480252",
-    "https://www.pressman.kr/news/articleView.html?idxno=103791"
+    "https://www.pressman.kr/news/articleView.html?idxno=103791",
+    "https://www.mk.co.kr/article/12161404",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2474311",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2474312",
+    "https://www.ajunews.com/view/20260925123448989",
+    "https://www.ajunews.com/view/20260925153334135",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008767736&plink=ORI&cooper=NAVER",
+    "https://www.edaily.co.kr/News/Read?newsId=02069686645583728&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "대기업33%5년이상흑자행진…10년이상흑자는20%",
-    "현대해상,AI시대청년미래인재육성'프로젝트트레일마크'공개",
-    "LG전자,SK엔무브와'AI데이터센터'차세대열관리핵심소재공동개발...",
-    "전남광주통합특별시출범첫승진인사단행…“조직안정·성과최우선”",
-    "메타뮤즈열풍에나스닥최고치…기술주랠리재점화",
-    "반도체매출비중높은종목만…한화운용,ETF3종라인업제시",
-    "삼성물산36만9500원강세…유럽SMR'BWRX-300'동맹에증권가도주목",
     "'삼성분산'KB운용vs'SK올인'교보운용⋯ETF상장첫날승자는?",
     "한국형원전美수출길열렸다…APR-14002기건설협의",
     "통신3사,추석맞이납품대금3175억원지급…전년比364억원↓",
@@ -3238,10 +3235,17 @@
     "최태원·구광모멕시코행,이재용뉴욕·런던행…추석에도분주",
     "추석연휴에도분주한재계총수들...북미·유럽서네트워크강화",
     "삼성은가전,기아는전기차,LS는전력…멕시코간9개기업'누가무엇...",
-    "SK엔무브·LG전자,열관리기술맞손…AI데이터센터까지협력"
+    "SK엔무브·LG전자,열관리기술맞손…AI데이터센터까지협력",
+    "7년끈투자보장협정난제…李·셰인바움,일괄타결",
+    "\"추석에도경영시계는돈다\"···재계총수들AI·반도체광폭행보",
+    "삼성·SK하닉'호남반도체'움직인다···2030년첫양산시동",
+    "추석연휴콘텐츠경쟁…IPTV3사,영화·할인혜택제공",
+    "앤트로픽클로드,챗GPT에이어국내AI앱2위",
+    "[똑소리톡]삼성전자·SK하이닉스현직자들이원하는신입의'진짜스펙...",
+    "\"취업·결혼언제할거니\"…명절스트레스'보상소비'로푼다"
    ],
    "initialized": true,
-   "last_run": "2026-09-25T18:10:25.526574+09:00"
+   "last_run": "2026-09-25T18:15:23.030941+09:00"
   }
  },
  "press_names": {
