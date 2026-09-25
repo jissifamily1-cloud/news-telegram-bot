@@ -66,13 +66,25 @@
     [
      "2026-09-25T22:55:20.548147+09:00",
      "미국증시 상승 반등 강세 장초반 SK하이닉스 메모리 ADR"
+    ],
+    [
+     "2026-09-26T00:15:11.044716+09:00",
+     "뚫렸다 가전까지 로청은 이미 TV 넘보는"
+    ],
+    [
+     "2026-09-26T00:15:11.044716+09:00",
+     "제재 현대백화점 박성훈 공개 공정위 763건 의원 대기업 기업집단"
+    ],
+    [
+     "2026-09-26T00:15:11.044716+09:00",
+     "LG유플러스 소상공인 나선다 9월4주 솔루션 맞춤형 AX 개발"
+    ],
+    [
+     "2026-09-26T00:15:11.044716+09:00",
+     "돕던 삼전닉스 다음 자사주 상승 수급 종료 매입 부담 코스피 커지"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1725526",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3704392",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=359505",
-    "https://www.huffingtonpost.kr/article/260749",
     "https://www.newdaily.co.kr/site/data/html/2026/09/23/2026092300143.html",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1725528",
     "https://www.newscj.com/news/articleView.html?idxno=3435055",
@@ -1568,13 +1580,13 @@
     "https://www.ajunews.com/view/20260925212436441",
     "https://www.ikbc.co.kr/article/view/kbc202609250039",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490323",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16213332"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16213332",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=318192",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=64898",
+    "https://www.theguru.co.kr/news/article.html?no=107565",
+    "https://www.theguru.co.kr/news/article.html?no=107381"
    ],
    "seen_titles": [
-    "[사가페2026]SK하이닉스,이천너머사회위해팔걷다",
-    "[무등의아침]서왕진“민주당,반도체관련광주군공항방문한적도...",
-    "[현장]취임8개월김은경원장,을입장에서기업·서민'윈윈'모색",
-    "제주SK김륜성,고향팀서K리그통산100경기달성",
     "\"하이브,BTS복귀로최대실적…관건은신인IP성장\"-SK",
     "미국내디젤가격급등에'유럽수출금지'요구확산:한국정유사들...",
     "국면전환용으로또'내란'꺼낸민주당…장동혁\"정권종말도돌이표...",
@@ -3070,10 +3082,14 @@
     "[아주경제오늘의뉴스종합]최태원\"멕시코백신역량협력\"…구광모...",
     "동복댐높이고물길잇고…반도체'생명수'이렇게뚫린다",
     "[주간매매동향]외국인·기관,삼성전자4조1880억원동반순매수…주...",
-    "미국증시장초반반등…메모리강세,SK하이닉스ADR2%대상승"
+    "미국증시장초반반등…메모리강세,SK하이닉스ADR2%대상승",
+    "[차이나인베이전③]로청은이미뚫렸다…TV·가전까지넘보는中'전...",
+    "박성훈의원,대기업공정위제재763건공개…현대백화점기업집단최...",
+    "[통신리뷰]LG유플러스,소상공인맞춤형AX솔루션개발나선다(9월4주...",
+    "코스피상승돕던삼전닉스자사주매입,다음달종료…수급부담커지..."
    ],
    "initialized": true,
-   "last_run": "2026-09-26T00:10:26.284361+09:00"
+   "last_run": "2026-09-26T00:15:11.044716+09:00"
   }
  },
  "press_names": {
