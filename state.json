@@ -289,9 +289,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296226",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=423918",
-    "https://www.mk.co.kr/article/12160123",
     "https://www.fntimes.com/html/view.php?ud=2026092310335778767492587736_18",
     "https://view.asiae.co.kr/article/2026092310343212614",
     "http://www.4th.kr/news/articleView.html?idxno=2118607",
@@ -1788,12 +1785,12 @@
     "https://www.newsis.com/view/NISX20260925_0003803452",
     "https://www.mt.co.kr/politics/2026/09/25/2026092515275236609",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490314",
-    "https://zdnet.co.kr/view/?no=20260924000748"
+    "https://zdnet.co.kr/view/?no=20260924000748",
+    "https://biz.heraldcorp.com/article/10884611",
+    "https://www.joongangenews.com/news/articleView.html?idxno=550559",
+    "http://www.inews24.com/view/2009085"
    ],
    "seen_titles": [
-    "리츠브랜드평판2026년9월빅데이터분석결과…1위SK리츠·2위롯데리...",
-    "SK엔무브·LG전자,'차세대열관리'맞손…냉매·액침냉각개발정조준",
-    "정연화성남시의회부의장,수소기반미래형도시교통전환방안모색",
     "삼성전자,AMAT·베시와하이브리드본딩'밀착'···HBM4E타겟유지",
     "2%가까이뛰었던코스피,장중7100선내줘…상승폭축소",
     "'국산LFP로승부'SK온,엘앤에프이어포스코퓨처엠과맞손",
@@ -3290,10 +3287,13 @@
     "靑\"한-멕시코FTA협상재개,USMCA원산지문제해결돼야논의가능\"",
     "한-멕시코기업인간담회…최태원\"백신협력\"구광모\"전장투자확대\"",
     "중동전쟁에윤활기유값폭등…한국정유사에몰리는주문",
-    "AI가알려준PC문제해결법,믿고실행해도될까"
+    "AI가알려준PC문제해결법,믿고실행해도될까",
+    "국내AI앱1위는챗GPT…추격하는2위는",
+    "재계총수들,추석연휴에북미·유럽'광폭행보'...글로벌네트워크강...",
+    "대기업갑질·불공정제재763건…현대百,5년간82건'최다불명예'"
    ],
    "initialized": true,
-   "last_run": "2026-09-25T15:50:23.209861+09:00"
+   "last_run": "2026-09-25T15:55:17.289551+09:00"
   }
  },
  "press_names": {
