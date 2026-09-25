@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-25T06:45:22.228156+09:00",
-     "기름값 소식에 고속도로 반색 정유사 소비자 물량 할인"
-    ],
-    [
      "2026-09-25T06:55:18.652757+09:00",
      "선착하며 힐리어드 24일 홈런 39호 고지 9월 kt 2026년"
     ],
@@ -382,11 +378,17 @@
     [
      "2026-09-25T12:40:22.260461+09:00",
      "결합할인 가족 회선 빠지면 달라져 조건 확인"
+    ],
+    [
+     "2026-09-25T12:50:27.617332+09:00",
+     "후드 토큰이 12만달러어치 캣츠 발행돼 새로"
+    ],
+    [
+     "2026-09-25T12:50:27.617332+09:00",
+     "해외서 이재용 연휴에도 추석 광폭행보 최태원 총수들 재계"
     ]
    ],
    "seen_urls": [
-    "http://www.ferrotimes.com/news/articleView.html?idxno=50549",
-    "https://sateconomy.co.kr/news/view/1065575094323698",
     "https://view.asiae.co.kr/article/2026092310161534823",
     "https://www.impacton.net/news/articleView.html?idxno=20371",
     "https://www.nocutnews.co.kr/news/6582509",
@@ -1884,11 +1886,11 @@
     "https://www.ppss.kr/news/articleView.html?idxno=312466",
     "https://www.sentv.co.kr/article/view/sentv202609250021",
     "https://thetracker.co.kr/View.aspx?No=4241504",
-    "https://www.vegannews.co.kr/news/article.html?no=387596"
+    "https://www.vegannews.co.kr/news/article.html?no=387596",
+    "https://www.tokenpost.kr/news/blockchain/413933",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=881800"
    ],
    "seen_titles": [
-    "키움증권,내달17일'철권스타즈컵'개최…무릎배재민출전",
-    "행복나래,사회적가치페스타서10년간사회문제해결성과공유",
     "포스코퓨처엠,SK온에LFP양극재1.1조공급…삼원계서사업확대",
     "[증권업소식]키움·KB·신한투자·대신·한국투자·카카오페이증권",
     "즉시입주하는항공클러스터직주근접오피스텔‘영종SK뷰'특별분양...",
@@ -3386,10 +3388,12 @@
     "[기업해부롯데①]일본에서시작한껌회사,한국에서다시출발하다",
     "중동공급난에K-윤활기유수출급증…하반기실적기대감",
     "미중무역휴전연장…한국산업계,반도체·배터리영향'촉각'",
-    "가족한명빠지면결합할인달라져…회선조건확인"
+    "가족한명빠지면결합할인달라져…회선조건확인",
+    "[로빈후드온체인]델토큰이12만달러어치새로발행돼...후드캣츠거...",
+    "이재용ㆍ최태원등재계총수들,추석연휴에도해외서'광폭행보'"
    ],
    "initialized": true,
-   "last_run": "2026-09-25T12:45:20.242497+09:00"
+   "last_run": "2026-09-25T12:50:27.617332+09:00"
   }
  },
  "press_names": {
