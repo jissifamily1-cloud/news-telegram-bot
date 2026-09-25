@@ -46,10 +46,13 @@
     [
      "2026-09-26T01:25:19.903118+09:00",
      "기존 투자 센터장 업종 황승택 주도주 유망 AI인프라"
+    ],
+    [
+     "2026-09-26T02:45:22.974137+09:00",
+     "이르면 SK하이닉스 솔리다임 내년 로이터 상장"
     ]
    ],
    "seen_urls": [
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=311887",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1725547",
     "https://hbnpress.com/news/view/1065578903962226",
     "https://www.econovill.com/news/articleView.html?idxno=751530",
@@ -1548,10 +1551,10 @@
     "https://www.theguru.co.kr/news/article.html?no=107381",
     "https://www.joongangenews.com/news/articleView.html?idxno=550578",
     "https://imnews.imbc.com/news/2026/politics/article/6854150_36911.html",
-    "http://www.paxetv.com/news/articleView.html?idxno=282728"
+    "http://www.paxetv.com/news/articleView.html?idxno=282728",
+    "https://www.newspim.com/news/view/20260926000031"
    ],
    "seen_titles": [
-    "수천억과징금에국감소환까지…기업'보안민낯'정조준",
     "AI해킹막을'보안독파모'본격시동…\"보안특화AI필수적\"",
     "코스피,장중7000선턱걸이",
     "[EBN데이터센터]반도체대표주(생산)혼조...삼성전자강세,SK하이닉...",
@@ -3050,10 +3053,11 @@
     "코스피상승돕던삼전닉스자사주매입,다음달종료…수급부담커지...",
     "삼성전자·SK하이닉스,소니플레이스테이션6메모리잡는다…24GbGDDR7...",
     "멕시코대통령만난최태원\"예방접종사업참여\"‥구광모\"생산거점확...",
-    "[추석이후증시]황승택센터장\"AI인프라투자업종유망.기존주도주..."
+    "[추석이후증시]황승택센터장\"AI인프라투자업종유망.기존주도주...",
+    "로이터\"SK하이닉스솔리다임,이르면내년美상장추진\""
    ],
    "initialized": true,
-   "last_run": "2026-09-26T02:40:25.298069+09:00"
+   "last_run": "2026-09-26T02:45:22.974137+09:00"
   }
  },
  "press_names": {
