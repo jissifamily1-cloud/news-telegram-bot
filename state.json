@@ -322,13 +322,13 @@
     [
      "2026-09-26T08:35:19.607724+09:00",
      "지켰다 주가 5만원선 SK이터닉스"
+    ],
+    [
+     "2026-09-26T08:45:21.441259+09:00",
+     "울리는 개미 맞나요 반토막 코스피 쏠림장세 상한가"
     ]
    ],
    "seen_urls": [
-    "https://www.energy-news.co.kr/news/articleView.html?idxno=228540",
-    "https://www.kukinews.com/article/view/kuk202609230117",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=277251",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=881669",
     "https://www.theguru.co.kr/news/article.html?no=107528",
     "https://wemakenews.co.kr/news/view.php?no=26389",
     "https://www.tokenpost.kr/news/blockchain/412624",
@@ -1824,13 +1824,13 @@
     "https://www.dailian.co.kr/news/view/1694489/?sc=Naver",
     "https://www.newsis.com/view/NISX20260922_0003799721",
     "https://www.dt.co.kr/article/12085827",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=610000"
+    "https://www.cbci.co.kr/news/articleView.html?idxno=610000",
+    "https://www.mt.co.kr/stock/2026/09/26/2026092608170096601",
+    "https://www.m-economynews.com/news/article.html?no=71064",
+    "https://www.ikbc.co.kr/article/view/kbc202609260006",
+    "https://biz.heraldcorp.com/article/10884751"
    ],
    "seen_titles": [
-    "인천환경보건센터,취약계층30가구주거환경개선",
-    "Fromshipyardstosteel:WhyKorealeadshumanoiddeployment",
-    "시행사2026년9월브랜드평판...DK아시아,BS산업,신영順",
-    "LG전자·SK엔무브,AI데이터센터‘열’잡는다…차세대냉각소재공동...",
     "키움증권,'철권스타즈컵'개최…e스포츠마케팅박차",
     "키움증권,내달'철권스타즈컵'개최…다양한이벤트펼쳐",
     "SK실트론CSS美미시간공장청산막바지…130명고용종료",
@@ -3326,10 +3326,14 @@
     "[추석민심르포]\"대기업온다는디될랑가\"…메가프로젝트놓고갈린...",
     "\"국평이20억\"…반도체품은동탄,올해집값전국1위",
     "이재용·최태원에한은총재까지…‘사칭리딩방’의끝없는유혹",
-    "SK이터닉스주가5만원선지켰다"
+    "SK이터닉스주가5만원선지켰다",
+    "10년전1억원투자했다면…엔비디아138억·비트코인135억원",
+    "李대통령“한·멕시코무역협정조속재개”...첨단산업·에너지협력...",
+    "李대통령\"한국·멕시코무역협정,양국경제협력고도화할것\"",
+    "‘코스피7000맞나요’개미울리는쏠림장세…상한가‘반토막’,신..."
    ],
    "initialized": true,
-   "last_run": "2026-09-26T08:40:22.306516+09:00"
+   "last_run": "2026-09-26T08:45:21.441259+09:00"
   }
  },
  "press_names": {
