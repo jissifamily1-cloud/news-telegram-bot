@@ -257,10 +257,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.todayenergy.kr/news/articleView.html?idxno=303443",
-    "https://www.viva100.com/article/20260923500352",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1725505",
-    "http://www.thevaluenews.co.kr/news/view.php?idx=201861",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2473873",
     "https://www.ziksir.com/news/articleView.html?idxno=147404",
     "https://www.it-b.co.kr/news/articleView.html?idxno=90014",
@@ -1756,13 +1752,13 @@
     "https://news.mtn.co.kr/news-detail/2026092516024383163",
     "https://www.pointe.co.kr/news/articleView.html?idxno=85161",
     "https://www.etoday.co.kr/news/view/2629366",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=363737"
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=363737",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008770033&plink=ORI&cooper=NAVER",
+    "https://www.joongangenews.com/news/articleView.html?idxno=550562",
+    "https://www.m-economynews.com/news/article.html?no=71058",
+    "http://www.inews24.com/view/2009088"
    ],
    "seen_titles": [
-    "LG에너지솔루션美랜싱공장22일가동시작",
-    "중국CXMT5세대D램\"삼성전자나SK하이닉스와비교어렵다\"평가,기술...",
-    "SK온,1.1조원LFP양극재확보…美ESS공급망강화",
-    "LG전자,SK엔무브와맞손⋯AI데이터센터차세대열관리소재공동개발",
     "SK온,ESS공략속도…美배터리이어LFP공급망까지'착착'",
     "교보악사자산운용,18년합작마침표…‘교보자산운용’새출발",
     "현대해상,청년미래인재육성'프로젝트트레일마크'공개",
@@ -3258,10 +3254,14 @@
     "최태원,멕시코서\"예방접종사업참여\"…구광모\"생산거점확대\"",
     "한-멕시코투자보장협정개정타결...7년만에결실맺어",
     "이재용·최태원,추석연휴도해외로⋯북미·유럽서‘글로벌경영’",
-    "배터리3사동반흑자,보조금·보상금빼면삼성SDI만"
+    "배터리3사동반흑자,보조금·보상금빼면삼성SDI만",
+    "챗GPT다음은클로드…국내AI앱2위굳혀",
+    "美트럼프\"반도체미국서만들어라\"…정작HBM은삼성전자·SK하이닉스...",
+    "K-윤활기유,하반기도'맑음'...반사이익넘어공급망대안으로",
+    "SK는부지·삼성은속도각기다른전략…호남반도체투자구체화"
    ],
    "initialized": true,
-   "last_run": "2026-09-25T16:25:19.099723+09:00"
+   "last_run": "2026-09-25T16:30:31.199962+09:00"
   }
  },
  "press_names": {
