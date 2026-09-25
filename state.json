@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-25T04:30:32.720867+09:00",
-     "논의 대통령과 대통령 트럼프 협력 한국 조선 군함"
-    ],
-    [
      "2026-09-25T04:50:24.940658+09:00",
      "구자은 총출동 멕시코 보탠다 최태원 구광모 경제협력"
     ],
@@ -418,11 +414,13 @@
     [
      "2026-09-25T10:25:17.901295+09:00",
      "반도체 밖에서도 특수 HBM 제2전선 커진다"
+    ],
+    [
+     "2026-09-25T10:35:19.596867+09:00",
+     "기업인들 경제협정 서둘러 달라 셰인바움 만난"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=02932326645583072&mediaCodeNo=257",
-    "https://www.thisisgame.com/articles/430349",
     "http://www.segyebiz.com/newsView/20260923503108?OutUrl=naver",
     "https://kpenews.com/View.aspx?No=4239383",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4436268",
@@ -1920,11 +1918,11 @@
     "http://www.newsprime.co.kr/news/article.html?no=748964",
     "http://www.newsprime.co.kr/news/article.html?no=748965",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490280",
-    "https://www.seoulfn.com/news/articleView.html?idxno=638466"
+    "https://www.seoulfn.com/news/articleView.html?idxno=638466",
+    "https://www.sportschosun.com/baseball/2026-09-25/202609250100168610011079",
+    "https://www.edaily.co.kr/News/Read?newsId=01807286645583728&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "LG전자-SK엔무브,AI데이터센터용차세대열관리소재공동개발",
-    "LG전자,SK엔무브와AI데이터센터열관리핵심소재공동개발",
     "LG전자-SK엔무브,AI데이터센터열관리맞손…핵심소재공동개발",
     "스마일게이트희망스튜디오,'제3회대한민국사회적가치페스타'참가",
     "LG전자-SK엔무브,열관리핵심소재공동개발맞손",
@@ -3422,10 +3420,12 @@
     "[해외시황]뉴욕증시,유가·국채금리급등에'혼조'…다우0.31%↓",
     "추석에도해외향한총수들…이재용·최태원,젠슨황만날까",
     "차빌려주던쏘카가달라졌다…전기자전거·주차이어자율주행진출",
-    "HBM밖에서도AI특수···K-반도체'제2전선'커진다"
+    "HBM밖에서도AI특수···K-반도체'제2전선'커진다",
+    "80승선착!9월에만14승'폭풍질주'…정규시즌우승확률95.2%잡았다→...",
+    "李·셰인바움만난韓기업인들“경제협정서둘러달라”(종합)"
    ],
    "initialized": true,
-   "last_run": "2026-09-25T10:30:28.088245+09:00"
+   "last_run": "2026-09-25T10:35:19.596867+09:00"
   }
  },
  "press_names": {
