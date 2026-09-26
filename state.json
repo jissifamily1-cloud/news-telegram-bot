@@ -230,10 +230,13 @@
     [
      "2026-09-27T07:30:29.776997+09:00",
      "전화 카카오 vs KT 카톡 모두의 생활서비스 3사3색 SKT"
+    ],
+    [
+     "2026-09-27T07:40:21.705751+09:00",
+     "대미 기대 변압기 수출 2차 효과 투자 ESS 보나"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260923_0003802404",
     "https://www.hankyung.com/article/2026092339651",
     "https://biz.sbs.co.kr/article_hub/20000336493?division=NAVER",
     "https://www.seoul.co.kr/news/economy/securities/2026/09/23/20260923500253?wlog_tag3=naver",
@@ -1732,10 +1735,10 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4436550",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490450",
     "https://www.cbci.co.kr/news/articleView.html?idxno=610074",
-    "http://www.inews24.com/view/2009142"
+    "http://www.inews24.com/view/2009142",
+    "https://view.asiae.co.kr/article/2026092310281746130"
    ],
    "seen_titles": [
-    "\"26년간단한번도적자없었다\"...106분기연속무적자기업7개어딘...",
     "코스피,추석앞두고0.9%상승…7080선마감",
     "코스피,추석연휴앞두고0.9%↑…7080선안착하며두달만에최고치",
     "KT도신규가입중단…3G시대완전히끝난다",
@@ -3234,10 +3237,11 @@
     "빡빡했던자금시장…추석이후전망은",
     "AI데이터센터발전력난속태양광주'방긋'…OCI홀딩스·한화솔루션급...",
     "코스피·코스닥,연휴뒤28일장어디로…삼성전자·SK하이닉스·주성엔...",
-    "SKT전화vsKT생활서비스vs카카오카톡·…'모두의AI'3사3색"
+    "SKT전화vsKT생활서비스vs카카오카톡·…'모두의AI'3사3색",
+    "대미투자2차효과보나…ESS·변압기美수출기대"
    ],
    "initialized": true,
-   "last_run": "2026-09-27T07:35:20.165981+09:00"
+   "last_run": "2026-09-27T07:40:21.705751+09:00"
   }
  },
  "press_names": {
