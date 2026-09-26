@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-26T12:15:23.671430+09:00",
-     "다시 2029년 증설에도 공급부족 통신3사 AIDC"
-    ],
-    [
-     "2026-09-26T12:15:23.671430+09:00",
-     "4분기 경제기상 짓는 청신호 멈췄지만 가뭄에 수주 유럽 원전"
-    ],
-    [
      "2026-09-26T12:25:53.714958+09:00",
      "SK하이닉스 증시 상장하나 손자회사도"
     ],
@@ -206,13 +198,13 @@
     [
      "2026-09-26T18:10:21.391249+09:00",
      "통계 지표 금리 줄줄이 산업 다음 한눈 발표 물가"
+    ],
+    [
+     "2026-09-26T18:20:23.308412+09:00",
+     "제때 구축 인재 확보 공급망 본격화 반도체"
     ]
    ],
    "seen_urls": [
-    "https://www.wkorea.com/2026/09/23/%ed%99%94%ec%9e%a5%eb%8c%80%ec%97%90-%ec%97%86%ec%9c%bc%eb%a9%b4-%eb%b6%88%ec%95%88%ed%95%9c-%ec%8a%a4%ed%82%a8%ec%bc%80%ec%96%b4-%ec%95%84%ec%9d%b4%ed%85%9c-11/",
-    "https://www.hankookilbo.com/news/article/A2026092314060003621?did=NA",
-    "https://www.sidae.com/article/2026092314494875160",
-    "https://news.dealsitetv.com/articles/176351",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=53214",
     "http://www.weeklytoday.com/news/articleView.html?idxno=795857",
     "https://www.cnbnews.com/news/articleView.html?idxno=1017120",
@@ -1708,13 +1700,13 @@
     "http://www.rightknow.co.kr/news/articleView.html?idxno=34818",
     "https://www.ajunews.com/view/20260926152040053",
     "https://www.ajunews.com/view/20260926101847715",
-    "https://thetracker.co.kr/View.aspx?No=4241964"
+    "https://thetracker.co.kr/View.aspx?No=4241964",
+    "http://www.kjdaily.com/article.php?aid=1790413612687633276",
+    "https://view.asiae.co.kr/article/2026092618060164998",
+    "https://www.yna.co.kr/view/AKR20260926035351007?input=1195m",
+    "https://www.ikbc.co.kr/article/view/kbc202609260030"
    ],
    "seen_titles": [
-    "전남광주특별시첫인사키워드는'성과와안정'",
-    "[단독]LG,중앙亞·중동에‘엑사원’수출추진…소버린AI동맹신흥국...",
-    "화장대에없으면불안한스킨케어아이템11",
-    "교과서정답대신사회문제해결경험…현대해상의새로운채용실험",
     "한화운용\"반도체퓨어플레이어ETF3종에투자하라\"",
     "교보자산운용,'악사'떼고사명변경…ETF강화",
     "18년합작끝낸교보악사운용…'교보자산운용'새출발",
@@ -3210,10 +3202,14 @@
     "근거없이단정한영상…법원,유튜버에1000만원배상판결",
     "롤코장이은'박스피'…개미들은美ETF로몰렸다",
     "마이크론,역대최대매출달성하나…K-반도체도합산영업익190조'눈...",
-    "다음주물가·금리지표줄줄이발표…산업·물가·금리통계등'한눈..."
+    "다음주물가·금리지표줄줄이발표…산업·물가·금리통계등'한눈...",
+    "SK하이닉스손자회사솔리다임,내년美상장검토",
+    "남자핸드볼,중국이기고8년만에4강진출",
+    "[아시안게임]남자핸드볼,4연속우승도전카타르와4강서격돌(종합...",
+    "[기획]\"반도체팹인재,제때확보\"...인재공급망구축본격화"
    ],
    "initialized": true,
-   "last_run": "2026-09-26T18:15:21.192162+09:00"
+   "last_run": "2026-09-26T18:20:23.308412+09:00"
   }
  },
  "press_names": {
