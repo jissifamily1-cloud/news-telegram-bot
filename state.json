@@ -58,10 +58,13 @@
     [
      "2026-09-27T05:40:21.857293+09:00",
      "오른다 칩도 가격 원료도 도미노 웨이퍼도 인상 공급망 반도체"
+    ],
+    [
+     "2026-09-27T05:50:24.374731+09:00",
+     "미래대응기금 넘을 50조원 200조원 내년 올해 초과세수"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12160393",
     "https://en.yna.co.kr/view/AEN20260923008100320?input=2106m",
     "http://www.intn.co.kr/news/articleView.html?idxno=2053641",
     "https://www.yna.co.kr/view/AKR20260923064051008?input=1195m",
@@ -1560,10 +1563,10 @@
     "https://www.dailian.co.kr/news/view/1694083/?sc=Naver",
     "https://www.nocutnews.co.kr/news/6582782",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=277419",
-    "https://www.mt.co.kr/industry/2026/09/27/2026092313501624453"
+    "https://www.mt.co.kr/industry/2026/09/27/2026092313501624453",
+    "https://www.yna.co.kr/view/AKR20260926037000002?input=1195m"
    ],
    "seen_titles": [
-    "KOSPI200ClosingPriceList-4",
     "KOSPI200ClosingPriceList-2",
     "“추석에일본여행가세요”…SKT,로밍·현지할인확대",
     "KOSPI200ClosingPriceList-3",
@@ -3062,10 +3065,11 @@
     "\"추석지나면AI가일상으로\"…‘모두의AI’,10월베타돌입",
     "주가뒤쫓는목표주가…'매도회피'에'방향타'역할실패",
     "[노태우비자금]①노소영만들고김옥숙돈대고노재헌이굴린재단",
-    "원료도웨이퍼도칩도다오른다…반도체공급망'가격인상도미노'"
+    "원료도웨이퍼도칩도다오른다…반도체공급망'가격인상도미노'",
+    "올해초과세수'50조원+α'…내년미래대응기금200조원넘을듯"
    ],
    "initialized": true,
-   "last_run": "2026-09-27T05:45:23.267187+09:00"
+   "last_run": "2026-09-27T05:50:24.374731+09:00"
   }
  },
  "press_names": {
