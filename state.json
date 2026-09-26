@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-27T00:30:29.103860+09:00",
-     "삼성전자 반도체주 흐름 주목 동반 SK하이닉스 새주장 상승"
-    ],
-    [
      "2026-09-27T00:45:19.814268+09:00",
      "1500억달러 기업가치 SK하이닉스 검토 IPO 솔리디그"
     ],
@@ -142,12 +138,13 @@
     [
      "2026-09-27T06:25:17.762873+09:00",
      "역전포 현대모비스 2연승으로 아바디아노 LG에 승리 시즌"
+    ],
+    [
+     "2026-09-27T06:35:19.147179+09:00",
+     "초과세수 신바람에 증시 랠리 50조 이상 반도체 훈풍"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008768050&plink=ORI&cooper=NAVER",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092170790",
-    "https://www.etoday.co.kr/news/view/2629195",
     "https://www.mk.co.kr/article/12160478",
     "http://www.inews24.com/view/2008919",
     "https://www.sedaily.com/article/20094595",
@@ -1644,12 +1641,12 @@
     "https://www.businesspost.co.kr/BP?command=article_view&num=447945",
     "https://www.ziksir.com/news/articleView.html?idxno=147424",
     "https://www.newspim.com/news/view/20260922001095",
-    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375989"
+    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375989",
+    "https://www.sidae.com/article/2026092313564331772",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260927010009179",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=277425"
    ],
    "seen_titles": [
-    "교보악사자산운용,‘교보자산운용’새출발…교보생명완전자회사전...",
-    "삼성전자3%뛰어도…코스피,또7100선못지켰다",
-    "삼성전자,연휴앞두고3%대급등마감…SK하이닉스도1.2%↑",
     "AI데이터센터부터에이전틱AI까지…'AI-클라우드빅테크2026'10월1일...",
     "연휴앞둔관망세에2%상승후반락한코스피⋯삼성전자3%↑",
     "데이터센터'열과의전쟁'정유사도가세",
@@ -3146,10 +3143,13 @@
     "SK최태원일본반도체공장밀어붙이나,잦은재해에일본정부인허가...",
     "\"11조팔던외인,다시돌아올까\"…추석후코스피'수급'첫시험대",
     "[단독]레버리지ETF후삼성전자장중변동폭41%·하이닉스57%확대",
-    "'아바디아노역전포'현대모비스,LG에85-84승리...2연승으로시즌앞..."
+    "'아바디아노역전포'현대모비스,LG에85-84승리...2연승으로시즌앞...",
+    "K반도체,3분기도사상최대실적전망",
+    "\"SK하이닉스미손자회사솔리다임,기업가치최대204조원美IPO검토\"...",
+    "'반도체'신바람에'증시랠리'훈풍...초과세수50조이상"
    ],
    "initialized": true,
-   "last_run": "2026-09-27T06:30:28.530221+09:00"
+   "last_run": "2026-09-27T06:35:19.147179+09:00"
   }
  },
  "press_names": {
