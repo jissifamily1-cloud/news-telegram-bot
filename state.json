@@ -142,12 +142,17 @@
     [
      "2026-09-26T20:30:32.376545+09:00",
      "대통령 닿을까 연내 공약 모두에게 정말 모두의 출시"
+    ],
+    [
+     "2026-09-26T20:40:23.826713+09:00",
+     "집결 자본시장 가상자산계 열린다 IR 국내 KBW"
+    ],
+    [
+     "2026-09-26T20:40:23.826713+09:00",
+     "YK 대표 대법관 빙모상 권순일 법무법인 변호사"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=03824486645583072&mediaCodeNo=257",
-    "https://www.delighti.co.kr/news/articleView.html?idxno=122404",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=665231",
     "http://www.newsdream.kr/news/articleView.html?idxno=118845",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4436329",
     "https://www.mt.co.kr/tech/2026/09/23/2026092314124921692",
@@ -1644,12 +1649,12 @@
     "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307530",
     "https://www.sportsseoul.com/news/read/1637625",
     "https://www.chosun.com/sports/sports_special/2026/09/26/3WPHRFBCH5HM3J3GP4SGE44KXQ/",
-    "https://www.khan.co.kr/article/202609262016001"
+    "https://www.khan.co.kr/article/202609262016001",
+    "https://www.betanews.net/article/view/beta202609260016",
+    "https://www.tfmedia.co.kr/news/article.html?no=207488",
+    "http://www.inews24.com/view/2009140"
    ],
    "seen_titles": [
-    "금융위기도피했다…26년간‘無적자’7개기업어디?",
-    "GH,SK닉스배후2호산업용지'이천미니산단'조성협약...3호확정되면...",
-    "추석에도쉴틈없다…이재용·최태원·구광모해외로",
     "SKT,추석연휴해외가족여행부터국내T멤버십까지다양한혜택마련",
     "[기획]KB자산운용,ETF점유율'우상향'…8%복귀하나",
     "[주식도락]우리금융담는외인들…이달에만'4800억'줍줍",
@@ -3146,10 +3151,13 @@
     "추석용돈50만원,'여기'넣었더니111만원됐다",
     "“학력위조·중국간첩까지?”김희영둘러싼유튜브허위설…법원서줄...",
     "오상욱이뒤집었다…‘어펜저스’4연속金",
-    "이대통령공약‘모두의AI’연내출시···정말모두에게닿을까"
+    "이대통령공약‘모두의AI’연내출시···정말모두에게닿을까",
+    "반도체생산·물가·대출금리잇따라발표…다음주경제지표주목",
+    "[N위크]국내최대자본시장'IR'열린다...가상자산계집결'KBW'도",
+    "[부음]권순일전대법관(법무법인YK대표변호사)빙모상"
    ],
    "initialized": true,
-   "last_run": "2026-09-26T20:35:17.963988+09:00"
+   "last_run": "2026-09-26T20:40:23.826713+09:00"
   }
  },
  "press_names": {
