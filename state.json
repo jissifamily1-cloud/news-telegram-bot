@@ -234,12 +234,17 @@
     [
      "2026-09-27T07:40:21.705751+09:00",
      "대미 기대 변압기 수출 2차 효과 투자 ESS 보나"
+    ],
+    [
+     "2026-09-27T07:50:22.246661+09:00",
+     "종료 찾아보니 3G 저무는 해외 사례 통신"
+    ],
+    [
+     "2026-09-27T07:50:22.246661+09:00",
+     "미국 K배터리 목표 성장 기회 저장용량 1TWh ESS 2032년까지"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026092339651",
-    "https://biz.sbs.co.kr/article_hub/20000336493?division=NAVER",
-    "https://www.seoul.co.kr/news/economy/securities/2026/09/23/20260923500253?wlog_tag3=naver",
     "https://zdnet.co.kr/view/?no=20260923150731",
     "https://www.fnnews.com/news/202609231605278942",
     "https://www.koreatimes.co.kr/path/A2026092313310000955",
@@ -1736,12 +1741,12 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490450",
     "https://www.cbci.co.kr/news/articleView.html?idxno=610074",
     "http://www.inews24.com/view/2009142",
-    "https://view.asiae.co.kr/article/2026092310281746130"
+    "https://view.asiae.co.kr/article/2026092310281746130",
+    "https://www.news1.kr/economy/trend/6301975",
+    "https://zdnet.co.kr/view/?no=20260927074736",
+    "https://www.yna.co.kr/view/AKR20260923076400003?input=1195m"
    ],
    "seen_titles": [
-    "코스피,추석앞두고0.9%상승…7080선마감",
-    "코스피,추석연휴앞두고0.9%↑…7080선안착하며두달만에최고치",
-    "KT도신규가입중단…3G시대완전히끝난다",
     "[미중정상회담따라잡기]AI개발늦추면중국에기회?가속이냐감속...",
     "[서울데이터랩]마감직후인기검색종목20選",
     "사랑하는사람떠올리니나만의향수가…SKT의이색실험",
@@ -3238,10 +3243,13 @@
     "AI데이터센터발전력난속태양광주'방긋'…OCI홀딩스·한화솔루션급...",
     "코스피·코스닥,연휴뒤28일장어디로…삼성전자·SK하이닉스·주성엔...",
     "SKT전화vsKT생활서비스vs카카오카톡·…'모두의AI'3사3색",
-    "대미투자2차효과보나…ESS·변압기美수출기대"
+    "대미투자2차효과보나…ESS·변압기美수출기대",
+    "휴전기대에도유가100달러대…중동공급정상화내년2분기전망",
+    "저무는3G통신,해외종료사례찾아보니",
+    "미국ESS,2032년까지저장용량1TWh목표…K배터리성장기회"
    ],
    "initialized": true,
-   "last_run": "2026-09-27T07:45:21.888874+09:00"
+   "last_run": "2026-09-27T07:50:22.246661+09:00"
   }
  },
  "press_names": {
