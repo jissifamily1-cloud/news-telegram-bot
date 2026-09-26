@@ -49,7 +49,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.wsobi.com/news/articleView.html?idxno=318750",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1725581",
     "https://www.hankyung.com/article/2026092338906",
     "https://www.wikitree.co.kr/articles/1161678",
@@ -1548,10 +1547,10 @@
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=89051",
     "https://it.chosun.com/news/articleView.html?idxno=2023092170872",
     "https://www.sportschosun.com/entertainment/2026-09-27/202609270100175130011568",
-    "https://www.g-enews.com/view.php?ud=202609262309033019a1f309431_1"
+    "https://www.g-enews.com/view.php?ud=202609262309033019a1f309431_1",
+    "https://www.g-enews.com/view.php?ud=202609261639097982fbbec65dfb_1"
    ],
    "seen_titles": [
-    "코스피,연휴전마지막날'전강후약'보합권마감",
     "[보험뉴스브리핑]한화생명금융서비스장애인직원'원팀데이'개최",
     "SK엔무브·SKT,LG전자와차세대열관리핵심소재공동개발·추석연휴...",
     "[EBN데이터센터]코스피,'기관'사자에0.9%상승…반도체대형주강세",
@@ -3050,10 +3049,11 @@
     "SK하이닉스솔리디그IPO검토…기업가치최대1500억달러",
     "\"50%ReturnsastheNorm\"…SecuritiesFirmsCheeras'Unicorn'SharesS",
     "최태원동거인김희영,유튜버상대또이겼다…2000만원이어이번엔1...",
-    "마이크론30일실적발표…월가,내년매출90%증가전망"
+    "마이크론30일실적발표…월가,내년매출90%증가전망",
+    "AI폭식에열린메모리곳간…마이크론68조원대매출정조준"
    ],
    "initialized": true,
-   "last_run": "2026-09-27T03:10:22.080161+09:00"
+   "last_run": "2026-09-27T03:15:21.436164+09:00"
   }
  },
  "press_names": {
