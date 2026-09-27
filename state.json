@@ -118,11 +118,17 @@
     [
      "2026-09-28T04:30:33.337341+09:00",
      "글로벌 1천280조원 주식으로 순매수 1년간 역대 뭉칫돈"
+    ],
+    [
+     "2026-09-28T04:40:24.492770+09:00",
+     "30년물 뉴노멀 국채금리 넘는다 연내"
+    ],
+    [
+     "2026-09-28T04:40:24.492770+09:00",
+     "올해 초과세수 반도체 호황에 넘을듯 85조 미래기금 200조"
     ]
    ],
    "seen_urls": [
-    "https://www.asiatime.co.kr/article/20260921500407",
-    "https://www.joongangenews.com/news/articleView.html?idxno=550477",
     "https://www.wikitree.co.kr/articles/1161792",
     "https://www.joongangenews.com/news/articleView.html?idxno=550442",
     "https://www.newsis.com/view/NISX20260923_0003802267",
@@ -1620,11 +1626,11 @@
     "https://www.g-enews.com/view.php?ud=202609271956234875fbbec65dfb_1",
     "https://www.mt.co.kr/industry/2026/09/28/2026092719251976645",
     "https://biz.sbs.co.kr/article_hub/20000336852?division=NAVER",
-    "https://biz.sbs.co.kr/article_hub/20000336847?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000336847?division=NAVER",
+    "https://biz.sbs.co.kr/article_hub/20000336853?division=NAVER",
+    "https://www.donga.com/news/Economy/article/all/20260928/134739505/2"
    ],
    "seen_titles": [
-    "부상이겨낸'로컬보이'김륜성,K리그100경기출전금자탑...코스타...",
-    "이재용·최태원빠진1차명단…재계총수누가증인석설까",
     "SK전희철감독\"오늘은승패를떠나2~3쿼터경기력점검할것\"",
     "\"데이터폭증,AI로막는다\"…이통3사,명절통신대책가동",
     "추석에도바쁜총수들…이재용美·英,최태원·구광모멕시코行",
@@ -3122,10 +3128,12 @@
     "기름값공포가몰고온유럽의전기차역주행,지갑닫던소비자가돌아...",
     "원료도소재도…반도체공급망가격들썩",
     "“SK하이닉스손자회사솔리다임,이르면내년미국상장검토”",
-    "글로벌뭉칫돈,美주식으로...1년간1천280조원순매수'역대최대'"
+    "글로벌뭉칫돈,美주식으로...1년간1천280조원순매수'역대최대'",
+    "[글로벌비즈브리핑]美국채금리5%'뉴노멀'...\"30년물연내6%넘는다...",
+    "반도체호황에올해초과세수85조…미래기금200조넘을듯"
    ],
    "initialized": true,
-   "last_run": "2026-09-28T04:35:17.958086+09:00"
+   "last_run": "2026-09-28T04:40:24.492770+09:00"
   }
  },
  "press_names": {
