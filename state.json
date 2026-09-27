@@ -497,8 +497,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/blockchain/413293",
-    "http://www.economytalk.kr/news/articleView.html?idxno=424324",
     "https://m.sports.naver.com/basketball/article/065/0000301889",
     "http://www.newsprime.co.kr/news/article.html?no=748952",
     "https://www.insidevina.com/news/articleView.html?idxno=44125",
@@ -1996,11 +1994,11 @@
     "https://www.dynews.co.kr/news/articleView.html?idxno=867340",
     "https://www.kyeongin.com/article/1771531",
     "http://www.cctimes.kr/news/articleView.html?idxno=929443",
-    "https://news.jtbc.co.kr/article/NB12320162?influxDiv=NAVER"
+    "https://news.jtbc.co.kr/article/NB12320162?influxDiv=NAVER",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=359615",
+    "https://www.newsway.co.kr/news/view?ud=2026092719202012860"
    ],
    "seen_titles": [
-    "미·중‘2개월시한부휴전’…韓증시단기안도속불확실성지속",
-    "주차위반큐싱QR찍자1000만원인출…공공사칭2년새71배",
     "보이스피싱건당2244만원,4.6배급증…3초면복제되는목소리",
     "[로빈후드온체인]메타보유지갑이하루새3420개늘어...버킷숍거래...",
     "[리스트업]2026Y'Q1~Q4'주요공모주(국내·주관)",
@@ -3498,10 +3496,12 @@
     "충북출신태극전사들아시안게임서잇단메달낭보",
     "성과급에밀린육아휴직",
     "SK하이닉스투자여파…청주시흥덕구4개洞땅값`들썩'",
-    "뉴욕·런던보다비싼'한국통신비'…전문가가본원인은"
+    "뉴욕·런던보다비싼'한국통신비'…전문가가본원인은",
+    "개인정보위,출범6년간제재1821건…확인된유출1억4000만건",
+    "젠슨황'밴플리트상'받는28일…이재용·최태원도뉴욕행"
    ],
    "initialized": true,
-   "last_run": "2026-09-27T19:30:28.307448+09:00"
+   "last_run": "2026-09-27T19:35:20.082788+09:00"
   }
  },
  "press_names": {
