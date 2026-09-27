@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-27T23:15:22.373352+09:00",
-     "입지 반도체팹 한복판 도심 최적의"
-    ],
-    [
      "2026-09-27T23:55:21.161128+09:00",
      "협상도 CEPA 개정 타결 물꼬 멕시코와 논의 투자협정"
     ],
@@ -162,11 +158,17 @@
     [
      "2026-09-28T05:05:20.412334+09:00",
      "물가 복병 고유가가 내려오겠지만 후반으로 추석 이른"
+    ],
+    [
+     "2026-09-28T05:15:23.773664+09:00",
+     "어느 아빠의 죄책감"
+    ],
+    [
+     "2026-09-28T05:15:23.773664+09:00",
+     "뚫린 유출됐다 4000만건 정보 1억 6년간"
     ]
    ],
    "seen_urls": [
-    "http://www.kjdaily.com/article.php?aid=1790238316687602276",
-    "https://www.insight.co.kr/news/575208",
     "http://www.metroseoul.co.kr/article/20260924500063",
     "https://biz.heraldcorp.com/article/10883551",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490208",
@@ -1664,11 +1666,11 @@
     "https://www.etoday.co.kr/news/view/2628584",
     "https://www.sidae.com/article/2026092714544891074",
     "https://www.etoday.co.kr/news/view/2629065",
-    "https://www.edaily.co.kr/News/Read?newsId=01371046645584712&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01371046645584712&mediaCodeNo=257",
+    "https://www.seoul.co.kr/news/editOpinion/wayside-column/2026/09/28/20260928026003?wlog_tag3=naver",
+    "https://www.seoul.co.kr/news/economy/2026/09/28/20260928031002?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "SK텔레콤,양자암호·공공AI기술고도화…고객신뢰지표도직접만든다",
-    "[금융zip]우리은행,신보·기보와청년창업기업에2000억원금융지원...",
     "넘어야할산많은K배터리…민관합동으로부활할수있을까",
     "삼성전자레버리지ETF3일간19%↑…SK하이닉스는1%대",
     "\"최대6억대박터지나\"...삼성전자DS,추석직후'특별성과급기준'...",
@@ -3166,10 +3168,12 @@
     "AI·반도체뛰는데전력망은‘거북이’⋯‘블랙아웃’보다무서운‘병...",
     "이번주증시,반도체기대감vs물가·금리경계감",
     "[노트북너머]성과급이남긴청구서",
-    "“물가2%대후반으로내려오겠지만…이른추석·고유가가복병”"
+    "“물가2%대후반으로내려오겠지만…이른추석·고유가가복병”",
+    "[길섶에서]어느아빠의죄책감",
+    "뻥뚫린내정보…6년간1억4000만건유출됐다"
    ],
    "initialized": true,
-   "last_run": "2026-09-28T05:10:24.120971+09:00"
+   "last_run": "2026-09-28T05:15:23.773664+09:00"
   }
  },
  "press_names": {
