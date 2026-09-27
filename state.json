@@ -454,17 +454,21 @@
     [
      "2026-09-27T10:15:23.571757+09:00",
      "통합 반도체 매매가격 효과 광주 아파트 상승세"
+    ],
+    [
+     "2026-09-27T10:30:27.199339+09:00",
+     "컴퓨팅 구독 증설 활주로는 빠진 늪에 넓어졌다 유료"
+    ],
+    [
+     "2026-09-27T10:30:27.199339+09:00",
+     "집값 삼전 효과인가 광주 심상치 매매가 않다 상승전 SK하이닉스"
+    ],
+    [
+     "2026-09-27T10:30:27.199339+09:00",
+     "째깍 시계 상용화 나트륨 주도권 K배터리 되찾을까 전고체"
     ]
    ],
    "seen_urls": [
-    "https://www.econovill.com/news/articleView.html?idxno=751731",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=267208",
-    "https://www.maxmovie.com/news/articleView.html?idxno=502070",
-    "https://realty.chosun.com/site/data/html_dir/2026/09/23/2026092303685.html",
-    "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609230144&t=NNv",
-    "https://www.econovill.com/news/articleView.html?idxno=751766",
-    "http://www.yonhapnewstv.co.kr/news/MYH202609231725578Nf",
-    "http://www.rookie.co.kr/news/articleView.html?idxno=127204",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=560537",
     "http://www.intn.co.kr/news/articleView.html?idxno=2053643",
     "https://news.mtn.co.kr/news-detail/2026092315390745635",
@@ -1956,17 +1960,17 @@
     "http://www.econonews.co.kr/news/articleView.html?idxno=444856",
     "https://www.edaily.co.kr/News/Read?newsId=01315286645584384&mediaCodeNo=257",
     "https://www.etoday.co.kr/news/view/2629088",
-    "https://www.yna.co.kr/view/AKR20260923075800054?input=1195m"
+    "https://www.yna.co.kr/view/AKR20260923075800054?input=1195m",
+    "https://www.fnnews.com/news/202609271019294348",
+    "https://www.khan.co.kr/article/202609271024001",
+    "https://www.hankyung.com/article/202609277167i",
+    "http://www.yonhapnewstv.co.kr/news/AKR20260927102154PXi",
+    "https://www.newsis.com/view/NISX20260927_0003804051",
+    "https://www.g-enews.com/view.php?ud=202609271015057407fbbec65dfb_1",
+    "https://biz.heraldcorp.com/article/10885140",
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=423891"
    ],
    "seen_titles": [
-    "[마감시황]삼성전자3%급등에코스피7080···연휴경계에상승폭반...",
-    "7000피사수했지만‘전강후약’…연휴휴장속美中정상회담촉각(종합...",
-    "키움증권,내달'철권스타즈컵'개최",
-    "삼성·SK·LG총수들,추석연휴반납하고글로벌경영행보",
-    "엄정화'오케이마담2',오늘부터안방출격…극장동시IPTV·VOD",
-    "\"분당30억아파트뜨자검색1위\"…'더샵분당하이스트'청약일부미달",
-    "[단독]21년만에규제푼다…렌트시장지각변동예고",
-    "니켈값떨어져도LFP로간다…배터리3사모두뚫은포스코퓨처엠",
     "[비즈&]대한항공,'세계최고항공사'10위선정外",
     "[유노유농]시흥TOP은계점U14대표팀,창단후첫공식대회에나서자...",
     "[특별기고]AI메가프로젝트,대구·경북도스스로판을짜자",
@@ -3458,10 +3462,18 @@
     "최태원\"韓·멕시코,첨단산업·공급망서새로운기회만들어야\"",
     "외국인美주식순매수1300조원‘사상최대’…채권수요는둔화",
     "추석용돈·떡값으로ETF사볼까…운용사추천상품",
-    "광주아파트매매가격상승세전환…'통합·반도체효과'"
+    "광주아파트매매가격상승세전환…'통합·반도체효과'",
+    "\"성과급억대인데,올해는쉬면안돼\"삼전닉스육아휴직률동반하락",
+    "‘억대성과급’앞두고삼전닉스육아휴직률첫동반하락",
+    "\"진작여기투자할걸\"…SK하이닉스보다주가11배더뛴종목은[대기업...",
+    "삼전닉스육아휴직률첫동반하락…억대성과급기대영향",
+    "올해초과세수50조+α가능성…미래대응기금200조넘길수도",
+    "유료구독3%늪에빠진AI,컴퓨팅증설활주로는더넓어졌다",
+    "‘삼전·SK하이닉스효과인가’광주집값심상치않다…매매가상승전...",
+    "전고체·나트륨상용화시계'째깍'···K배터리,주도권되찾을까"
    ],
    "initialized": true,
-   "last_run": "2026-09-27T10:25:17.058034+09:00"
+   "last_run": "2026-09-27T10:30:27.199339+09:00"
   }
  },
  "press_names": {
