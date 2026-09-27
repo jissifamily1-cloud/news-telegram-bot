@@ -490,12 +490,13 @@
     [
      "2026-09-27T19:25:18.309669+09:00",
      "전문가가 원인은 뉴욕 런던 비싼 보다 한국 통신비"
+    ],
+    [
+     "2026-09-27T19:45:21.354592+09:00",
+     "수준 증시 개장 국내 국채금리 최고"
     ]
    ],
    "seen_urls": [
-    "https://m.sports.naver.com/basketball/article/065/0000301889",
-    "http://www.newsprime.co.kr/news/article.html?no=748952",
-    "https://www.insidevina.com/news/articleView.html?idxno=44125",
     "https://www.newsis.com/view/NISX20260921_0003798066",
     "https://www.news2day.co.kr/article/20260924500067",
     "https://www.tokenpost.kr/news/tech/413302",
@@ -1992,12 +1993,12 @@
     "http://www.cctimes.kr/news/articleView.html?idxno=929443",
     "https://news.jtbc.co.kr/article/NB12320162?influxDiv=NAVER",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=359615",
-    "https://www.newsway.co.kr/news/view?ud=2026092719202012860"
+    "https://www.newsway.co.kr/news/view?ud=2026092719202012860",
+    "https://www.dkilbo.com/news/articleView.html?idxno=555548",
+    "https://www.ekn.kr/web/view.php?key=20260927021419191",
+    "https://www.ytn.co.kr/_ln/0102_202609271910115191"
    ],
    "seen_titles": [
-    "보이스피싱건당2244만원,4.6배급증…3초면복제되는목소리",
-    "[로빈후드온체인]메타보유지갑이하루새3420개늘어...버킷숍거래...",
-    "[리스트업]2026Y'Q1~Q4'주요공모주(국내·주관)",
     "[부상]‘어지럼증’김보배,오픈매치데이결장할듯…개막전출전은...",
     "李\"한국경제,새로운지점향해…대도약투자자로함께해달라\"",
     "[베트남주간이슈]비수기뚫은'아이폰·테슬라'…공룡들진격속규제...",
@@ -3494,10 +3495,13 @@
     "SK하이닉스투자여파…청주시흥덕구4개洞땅값`들썩'",
     "뉴욕·런던보다비싼'한국통신비'…전문가가본원인은",
     "개인정보위,출범6년간제재1821건…확인된유출1억4000만건",
-    "젠슨황'밴플리트상'받는28일…이재용·최태원도뉴욕행"
+    "젠슨황'밴플리트상'받는28일…이재용·최태원도뉴욕행",
+    "국감앞둔여야,무엇을부각하나…與'민생성과'vs野'정부실정'",
+    "“3분기웃는기업은따로있다”...상장사45%이익전망하향",
+    "내일국내증시개장...미국채금리'최고수준'"
    ],
    "initialized": true,
-   "last_run": "2026-09-27T19:40:22.784019+09:00"
+   "last_run": "2026-09-27T19:45:21.354592+09:00"
   }
  },
  "press_names": {
