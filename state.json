@@ -554,13 +554,13 @@
     [
      "2026-09-27T18:50:23.470036+09:00",
      "유일 업계의 파트너 엔비디아 주문형 반도체 국내 에이직랜드 TSMC"
+    ],
+    [
+     "2026-09-27T19:00:36.648837+09:00",
+     "슈퍼사이클 장기화 메모리 기대 삼성"
     ]
    ],
    "seen_urls": [
-    "https://www.pointe.co.kr/news/articleView.html?idxno=85156",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=85155",
-    "https://www.g-enews.com/view.php?ud=202609241123406675fbbec65dfb_1",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4436398",
     "https://www.econovill.com/news/articleView.html?idxno=751812",
     "https://www.hani.co.kr/arti/hanihealth/pharm/1279384.html",
     "https://thetracker.co.kr/View.aspx?No=4240913",
@@ -2056,13 +2056,13 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=9000017530&cp=nv",
     "http://www.ujeil.com/news/articleView.html?idxno=392663",
     "http://www.ujeil.com/news/articleView.html?idxno=392638",
-    "https://biz.heraldcorp.com/article/10885366"
+    "https://biz.heraldcorp.com/article/10885366",
+    "https://www.xportsnews.com/article/2201045",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000017535&cp=nv",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1725710",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1725711"
    ],
    "seen_titles": [
-    "\"추석엔얼굴보고인사하세요\"…이통3사,연휴영상통화무료",
-    "관세대응1년···재계총수들,미국현장서투자성과따진다",
-    "이대통령\"대한민국대도약에투자\"…글로벌금융계에적극세일즈",
-    "SK엔무브·LG전자,차세대열관리및액침냉각기술개발나선다",
     "현대해상·SK,청년일경험한계넘는프로젝트트레일마크선봬",
     "AI랙구리선병목뚫은마벨…2나노광통신승부수에주가6%뛰었다",
     "추석맞아멈추는코스피…'AI랠리·미중담판'이가른다",
@@ -3558,10 +3558,14 @@
     "“솔리다임,내년美상장추진”…SK‘중복상장’논란재점화",
     "與野,국정감사대격돌예고",
     "SK엔무브·LG전자,글로벌환경규제대응차세대냉매개발한다",
-    "‘국내유일TSMC파트너’에이직랜드…주문형반도체업계의엔비디아..."
+    "‘국내유일TSMC파트너’에이직랜드…주문형반도체업계의엔비디아...",
+    "\"모레노감독이K리그조금더보면무조건뽑힌다\"정경호감독자신…...",
+    "美ESS업계‘1테라시대’예고…K배터리도영역넓힌다",
+    "외국인美주식순매수9420억달러…사상최대",
+    "[EBN오늘(27일)이슈종합]삼성·SK'메모리슈퍼사이클'장기화기대..."
    ],
    "initialized": true,
-   "last_run": "2026-09-27T18:55:18.864593+09:00"
+   "last_run": "2026-09-27T19:00:36.648837+09:00"
   }
  },
  "press_names": {
