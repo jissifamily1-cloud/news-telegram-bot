@@ -390,10 +390,13 @@
     [
      "2026-09-27T21:15:21.126611+09:00",
      "치솟아도 바뀌나 돈의 주가 금리 떨어졌다"
+    ],
+    [
+     "2026-09-27T21:30:31.504324+09:00",
+     "대통령 멕시코 시험대 외교 인사 안고 마무리 순방 성과"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202609231008172956139bf6e4b2_1",
     "https://www.g-enews.com/view.php?ud=202609232010439665153ddfb15a_1",
     "https://www.newsis.com/view/NISX20260923_0003801686",
     "https://www.bloter.net/news/articleView.html?idxno=674245",
@@ -1892,10 +1895,10 @@
     "https://www.yeongnam.com/web/view.php?key=20260927029590246",
     "https://www.edaily.co.kr/News/Read?newsId=01977846645584384&mediaCodeNo=257",
     "https://www.segye.com/newsView/20260927508199?OutUrl=naver",
-    "https://www.khan.co.kr/article/202609272101005"
+    "https://www.khan.co.kr/article/202609272101005",
+    "https://www.fnnews.com/news/202609261820011350"
    ],
    "seen_titles": [
-    "11.7%지분확보한업스테이지…SK네트웍스기업가치다시보나",
     "재계개정상법실현과국가역할론",
     "삼성전자심상찮다…외인담자7일연속'상승행진'[종목+]",
     "\"보조금끊기자전기차곤두박질\"…K배터리,美세액공제'날벼락'",
@@ -3394,10 +3397,11 @@
     "중국독점깨는‘K-LFP’…지역2차전지소재社,글로벌공급망재편선...",
     "美국채금리·마이크론실적대기…연휴뒤코스피향방가를변수는",
     "환율하락·AI속도조절론뚫고…K반도체,3Q성적표도‘A+’",
-    "금리치솟아도,주가안떨어졌다…‘돈의공식’바뀌나"
+    "금리치솟아도,주가안떨어졌다…‘돈의공식’바뀌나",
+    "李대통령美·멕시코순방마무리…외교성과안고'인사시험대'"
    ],
    "initialized": true,
-   "last_run": "2026-09-27T21:25:18.488535+09:00"
+   "last_run": "2026-09-27T21:30:31.504324+09:00"
   }
  },
  "press_names": {
