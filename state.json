@@ -342,10 +342,13 @@
     [
      "2026-09-27T22:05:18.799275+09:00",
      "6개 2위 도시 통신비 주요 세계 서울"
+    ],
+    [
+     "2026-09-27T22:15:22.127653+09:00",
+     "2007년 이야기 금리 국채금리가 찍었을 수준을 빚과 빅테크의 다시"
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490173",
     "http://www.kjdaily.com/article.php?aid=1790228495687600276",
     "https://www.mt.co.kr/thebio/2026/09/24/2026092218382277582",
     "http://www.00news.co.kr/news/articleView.html?idxno=106734",
@@ -1844,10 +1847,10 @@
     "https://www.ulsanpress.net/news/articleView.html?idxno=583719",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=560778",
     "https://www.kwnews.co.kr/article/20260927500708",
-    "http://www.yonhapnewstv.co.kr/news/MYH202609272153204xn"
+    "http://www.yonhapnewstv.co.kr/news/MYH202609272153204xn",
+    "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=56023"
    ],
    "seen_titles": [
-    "GS칼텍스,실적개선이후성과급기준쟁점…통합노조교섭본격화",
     "삼성전자,산업현장통신망구축…로봇운용위한5G기술시험",
     "휴대전화약정끝났다면선택약정25%할인확인",
     "포스코퓨처엠,첫LFP수주터졌다…SK온과1조원대공급계약",
@@ -3346,10 +3349,11 @@
     "SK엔무브·LG전자,열관리핵심소재개발'맞손'",
     "경북,46개공공기관유치목표…산업연계'4대전략'가동",
     "존스컵우승에시범경기2연승…원주DB,새시즌출격준비끝",
-    "\"서울통신비,세계6개주요도시중1~2위\""
+    "\"서울통신비,세계6개주요도시중1~2위\"",
+    "빅테크의빚과금리이야기-국채금리가2007년수준을다시찍었을때..."
    ],
    "initialized": true,
-   "last_run": "2026-09-27T22:10:24.089901+09:00"
+   "last_run": "2026-09-27T22:15:22.127653+09:00"
   }
  },
  "press_names": {
