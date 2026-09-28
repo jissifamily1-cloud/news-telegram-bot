@@ -326,17 +326,21 @@
     [
      "2026-09-29T07:15:23.062979+09:00",
      "비서관 신임 6명 92억 사법제도 박지영 평균 43억 참모"
+    ],
+    [
+     "2026-09-29T07:30:31.894760+09:00",
+     "경제뉴스 국내외 알아야"
+    ],
+    [
+     "2026-09-29T07:30:31.894760+09:00",
+     "유가 불확실성 실적 펀더멘털 엄습 견조에도 금리"
+    ],
+    [
+     "2026-09-29T07:30:31.894760+09:00",
+     "모듈값도 돌파 5배 2000달러 폭등 RDIMM D램 천정부지 10개월"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20260928075852730",
-    "https://www.dt.co.kr/article/12086034",
-    "https://www.raonnews.com/news/article.html?no=61417",
-    "https://www.mk.co.kr/article/12162236",
-    "https://www.sejungilbo.com/news/articleView.html?idxno=60290",
-    "https://www.ajunews.com/view/20260928081637771",
-    "https://www.news1.kr/finance/market-exr/6302628",
-    "https://www.etoday.co.kr/news/view/2629652",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609280004&t=NN",
     "https://biz.chosun.com/stock/stock_general/2026/09/28/GG2OXFQJCZFFTHKDJRF5J7KBYA/",
     "https://news.tf.co.kr/read/economy/2369933.htm",
@@ -1828,17 +1832,17 @@
     "https://www.khan.co.kr/article/202609290707001",
     "https://www.sedaily.com/article/20095801",
     "https://www.gosiweek.com/article/1065564330620992",
-    "https://www.ajunews.com/view/20260929070402342"
+    "https://www.ajunews.com/view/20260929070402342",
+    "https://www.gokorea.kr/news/articleView.html?idxno=879884",
+    "https://www.dt.co.kr/article/12086277",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673353",
+    "https://biz.sbs.co.kr/article_hub/20000337134?division=NAVER",
+    "https://www.hankyung.com/article/2026092906806",
+    "https://www.fntimes.com/html/view.php?ud=202609290713507949141825007d_18",
+    "https://biz.sbs.co.kr/article_hub/20000337129?division=NAVER",
+    "https://www.news1.kr/industry/general-industry/6303535"
    ],
    "seen_titles": [
-    "[굿모닝경제]반려인90%\"병원비부담\"/한달에2번가는영화관/\"육...",
-    "위기에서더빛난다...믿음과책임감이만든두번의역전극→두개의...",
-    "'200층보인다'삼전닉스형타자,KT최원준\"꿈의대기록이지만,하늘에...",
-    "AI전력분석까지더했다…SKT24년펜싱후원'금빛결실'",
-    "한국펜싱전종목메달…SKT'24년지원·AI전력분석'빛났다",
-    "4연패달성한펜싱사브르대표팀…SKT24년장기후원·AI기술뒷받침...",
-    "미래에셋증권,채권브랜드평판2026년9월...1위",
-    "“서진시스템,3분기기점으로실적회복…목표가↑”-SK",
     "'코리아프리미엄위크'개막",
     "[마켓프리뷰]美AI주강세에도금리부담…코스피7000선공방전망",
     "삼전·SK하닉,프리마켓약세…AI주도력회복에도금리부담경계",
@@ -3330,10 +3334,18 @@
     "퇴직공직자6명중1명대기업행…어디로가나봤더니,삼성·한화쏠림...",
     "박촌역접근성·공원입지두가지선택지…계양첫민간분양1110가구",
     "“AI가대신써주는데자소서왜쓰나”…구직자58%‘폐지긍정’",
-    "[재산공개]靑신임참모6명평균43억…박지영사법제도비서관92억..."
+    "[재산공개]靑신임참모6명평균43억…박지영사법제도비서관92억...",
+    "\"젠슨황,엔비디아CEO의한미경제협력이끈혁신리더십조명\"",
+    "젠슨황,‘한미관계기여’밴플리트상…이재용·최태원시상시참석...",
+    "젠슨황,‘한미관계기여’밴플리트상…이재용·최태원도한자리",
+    "젠슨황,'한미관계기여'밴플리트상받아…이재용·최태원도한자리",
+    "美,이란'7일계획'거부에주요지수하락…유가·국채금리↑[뉴욕증...",
+    "[KFT모닝브리프]2026.09.29—오늘꼭알아야할국내외경제뉴스",
+    "[마켓브리핑]펀더멘털·실적견조에도유가·금리불확실성엄습",
+    "D램모듈값도천정부지'RDIMM'2000달러돌파…10개월새5배폭등"
    ],
    "initialized": true,
-   "last_run": "2026-09-29T07:25:22.478764+09:00"
+   "last_run": "2026-09-29T07:30:31.894760+09:00"
   }
  },
  "press_names": {
