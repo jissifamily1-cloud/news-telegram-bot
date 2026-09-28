@@ -346,12 +346,13 @@
     [
      "2026-09-28T23:50:25.377779+09:00",
      "반도체 시대 온다 결합한 원전 FNDC"
+    ],
+    [
+     "2026-09-29T00:00:49.225834+09:00",
+     "흑자 11곳 연속 100분기 이상 5년 이상도 대기업"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2628584",
-    "https://www.sidae.com/article/2026092714544891074",
-    "https://www.etoday.co.kr/news/view/2629065",
     "https://www.edaily.co.kr/News/Read?newsId=01371046645584712&mediaCodeNo=257",
     "https://www.seoul.co.kr/news/editOpinion/wayside-column/2026/09/28/20260928026003?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/economy/2026/09/28/20260928031002?wlog_tag3=naver",
@@ -1848,12 +1849,12 @@
     "https://www.ekn.kr/web/view.php?key=20260928026289581",
     "https://www.tokenpost.kr/news/breaking/415250",
     "https://www.edaily.co.kr/News/Read?newsId=05398886645584712&mediaCodeNo=257",
-    "https://www.chosun.com/opinion/taepyeongro/2026/09/28/7ANZNW43MFC4JA55LREFBLJYWM/"
+    "https://www.chosun.com/opinion/taepyeongro/2026/09/28/7ANZNW43MFC4JA55LREFBLJYWM/",
+    "https://www.tokenpost.kr/news/breaking/415271",
+    "https://www.etnews.com/20260928000395",
+    "https://www.ggilbo.com/news/articleView.html?idxno=1183491"
    ],
    "seen_titles": [
-    "[글로벌비즈브리핑]美국채금리5%'뉴노멀'...\"30년물연내6%넘는다...",
-    "반도체호황에올해초과세수85조…미래기금200조넘을듯",
-    "추석끝나면코스피대체로올랐다…삼전닉스상승세이어갈까",
     "“추석연휴끝?오히려좋아요”…쉬는게더괴로운2030",
     "[노태우비자금]④'독립몰수제'쥔검찰…일가은닉비자금환수되나",
     "삼성전자가이끈'역대급'호황...韓반도체·부품·에너지기업낙수효...",
@@ -3350,10 +3351,13 @@
     "전남광주·울산,AI미래산업동맹",
     "SK하이닉스·샌디스크,미증시서5%넘게하락",
     "[마켓인]美국채5.2%쇼크…연중최고뚫린회사채에기업조달‘비상...",
-    "[태평로]원전·AI·반도체결합한‘FNDC시대’온다"
+    "[태평로]원전·AI·반도체결합한‘FNDC시대’온다",
+    "AI·가상자산주약세…SK하이닉스5.60%하락",
+    "'30조'역대급배당막차에도…삼성전자외국인매도폭탄왜?",
+    "대기업33%,5년이상연속흑자…100분기이상도11곳"
    ],
    "initialized": true,
-   "last_run": "2026-09-28T23:55:21.951352+09:00"
+   "last_run": "2026-09-29T00:00:49.225834+09:00"
   }
  },
  "press_names": {
