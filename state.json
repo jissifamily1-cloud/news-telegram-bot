@@ -254,11 +254,17 @@
     [
      "2026-09-29T06:25:20.085850+09:00",
      "하락 뉴욕증시 하닉ADR 마감"
+    ],
+    [
+     "2026-09-29T06:35:21.289896+09:00",
+     "국내 글라스 신세계아이앤씨 디자인한 메타 리사가"
+    ],
+    [
+     "2026-09-29T06:35:21.289896+09:00",
+     "보증까지 재무 나서지만 부담 SKC 사업 출자에 재편"
     ]
    ],
    "seen_urls": [
-    "https://www.getnews.co.kr/news/articleView.html?idxno=881867",
-    "https://www.etoday.co.kr/news/view/2629632",
     "https://www.cstimes.com/news/articleView.html?idxno=721867",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609190247460000103665",
     "https://www.edaily.co.kr/News/Read?newsId=01958166645584712&mediaCodeNo=257",
@@ -1756,11 +1762,11 @@
     "http://www.consumernews.co.kr/news/articleView.html?idxno=764384",
     "https://www.enetnews.co.kr/news/articleView.html?idxno=54789",
     "https://www.sidae.com/article/2026092815073133966",
-    "https://www.munhwa.com/article/11619997"
+    "https://www.munhwa.com/article/11619997",
+    "https://www.sedaily.com/article/20095701",
+    "https://www.goodkyung.com/news/articleView.html?idxno=291792"
    ],
    "seen_titles": [
-    "수요살아나도현금부족…배터리소재'이중고'",
-    "저가폰줄고고가폰늘고...스마트폰시장판도바뀐다",
     "[서학개미브리핑]美증시상승베팅한서학개미들지난주차익실현",
     "[와글와글플러스]\"성과급놓칠라\"‥삼전닉스육아휴직률하락",
     "[KFT모닝브리프]2026.09.28—오늘꼭알아야할국내외경제뉴스",
@@ -3258,10 +3264,12 @@
     "[민원평가탑티어-삼성전자]소비자목소리에전사적협력체제...선제적...",
     "[브랜드평판]DK아시아로열파크씨티,주거커뮤니티9월1위...롯데건설...",
     "중국핵심광물장악력재확인,K배터리공급망다변화빛본다",
-    "[속보]뉴욕증시하락마감…하닉ADR5%↓"
+    "[속보]뉴욕증시하락마감…하닉ADR5%↓",
+    "리사가디자인한AI글라스?…신세계아이앤씨,‘메타글라스’국내...",
+    "SKC,출자에보증까지사업재편나서지만…재무부담↑"
    ],
    "initialized": true,
-   "last_run": "2026-09-29T06:30:31.403340+09:00"
+   "last_run": "2026-09-29T06:35:21.289896+09:00"
   }
  },
  "press_names": {
