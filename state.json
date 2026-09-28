@@ -234,14 +234,21 @@
     [
      "2026-09-29T06:35:21.289896+09:00",
      "보증까지 재무 나서지만 부담 SKC 사업 출자에 재편"
+    ],
+    [
+     "2026-09-29T06:45:23.322049+09:00",
+     "203조 발목 급락 SK하닉 중복상장설에 짜리 ADR 잡혔나"
+    ],
+    [
+     "2026-09-29T06:45:23.322049+09:00",
+     "알테오젠 코스닥 강세 에코프로비엠 HLB"
+    ],
+    [
+     "2026-09-29T06:45:23.322049+09:00",
+     "탄소시장 민간 그린워싱 탄소감축량"
     ]
    ],
    "seen_urls": [
-    "https://www.cstimes.com/news/articleView.html?idxno=721867",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609190247460000103665",
-    "https://www.edaily.co.kr/News/Read?newsId=01958166645584712&mediaCodeNo=257",
-    "https://www.smartbizn.com/news/articleView.html?idxno=154888",
-    "https://kjmbc.co.kr/NewsArticle/1538628",
     "https://www.etoday.co.kr/news/view/2629629",
     "https://www.newsway.co.kr/news/view?ud=2026092807491205239",
     "https://www.edaily.co.kr/News/Read?newsId=01997526645584712&mediaCodeNo=257",
@@ -1736,14 +1743,14 @@
     "https://www.sidae.com/article/2026092815073133966",
     "https://www.munhwa.com/article/11619997",
     "https://www.sedaily.com/article/20095701",
-    "https://www.goodkyung.com/news/articleView.html?idxno=291792"
+    "https://www.goodkyung.com/news/articleView.html?idxno=291792",
+    "https://www.labortoday.co.kr/news/articleView.html?idxno=236964",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673308",
+    "https://www.fnnews.com/news/202609290623315704",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=610413",
+    "https://www.labortoday.co.kr/news/articleView.html?idxno=236974"
    ],
    "seen_titles": [
-    "[서학개미브리핑]美증시상승베팅한서학개미들지난주차익실현",
-    "[와글와글플러스]\"성과급놓칠라\"‥삼전닉스육아휴직률하락",
-    "[KFT모닝브리프]2026.09.28—오늘꼭알아야할국내외경제뉴스",
-    "[아주증시포커스]롤러코스터장겪은2030,첫투자선택지달라졌다…...",
-    "'군필'베테랑부터'19세'막내까지...'12년만의韓농구金'새역사숨...",
     "[코스피·코스닥,현대건설셀트리온LG디스플레이HLD&I현대로템SK바...",
     "[단종레국부유출백서]정부가물타기막고등떠밀어…개인들만낭떠...",
     "\"단일레버리지규제로거래대금92%급감...회전율도한자릿수\"",
@@ -3238,10 +3245,15 @@
     "중국핵심광물장악력재확인,K배터리공급망다변화빛본다",
     "[속보]뉴욕증시하락마감…하닉ADR5%↓",
     "리사가디자인한AI글라스?…신세계아이앤씨,‘메타글라스’국내...",
-    "SKC,출자에보증까지사업재편나서지만…재무부담↑"
+    "SKC,출자에보증까지사업재편나서지만…재무부담↑",
+    "[2026국정감사]'이재용·최태원'에멈춘기후노동위국감'맹탕'우려",
+    "젠슨황·이재용·최태원뉴욕회동…“AI협력논의할듯”",
+    "SK하닉ADR5%급락…'203조'짜리중복상장설에발목잡혔나",
+    "코스닥강세…알테오젠·에코프로비엠·HLB↑",
+    "민간탄소시장탄소감축량90%\"그린워싱\""
    ],
    "initialized": true,
-   "last_run": "2026-09-29T06:40:25.403026+09:00"
+   "last_run": "2026-09-29T06:45:23.322049+09:00"
   }
  },
  "press_names": {
