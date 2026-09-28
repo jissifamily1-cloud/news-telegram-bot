@@ -721,7 +721,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202609270953003055906806b77b_1",
     "https://www.newsis.com/view/NISX20260925_0003803450",
     "http://www.gjdream.com/news/articleView.html?idxno=672999",
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553569949",
@@ -2220,10 +2219,10 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=868537",
     "http://www.e2news.com/news/articleView.html?idxno=334629",
     "https://www.thelec.kr/news/articleView.html?idxno=62873",
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=560889"
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=560889",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=444914"
    ],
    "seen_titles": [
-    "[기자수첩]‘롤러코스피’에휘둘리지않는비법",
     "황만순한국투자파트너스대표,8000억원규모펀딩…AUM6조원목전[VC...",
     "20억보다설레는NBA",
     "“AI인프라투자가파른증가…금리등금융변수고려해야”[2026한국...",
@@ -3722,10 +3721,11 @@
     "송경희\"이통3사CEO가개인정보직접챙겨야\"",
     "국회기후에너지환경노동위,내달6~27일국정감사",
     "SK하이닉스,TSMC와HBM5검증...2년연속올해파트너수상",
-    "'금4개'활약빛났지만…과제도남긴한국펜싱"
+    "'금4개'활약빛났지만…과제도남긴한국펜싱",
+    "코스피,2%대낙폭에6900선밑으로...LG에너지솔루션,삼성바이오로직..."
    ],
    "initialized": true,
-   "last_run": "2026-09-28T21:35:22.069055+09:00"
+   "last_run": "2026-09-28T21:40:25.514149+09:00"
   }
  },
  "press_names": {
