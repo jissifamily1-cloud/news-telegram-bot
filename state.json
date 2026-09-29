@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-09-29T06:45:23.322049+09:00",
-     "203조 발목 급락 SK하닉 중복상장설에 짜리 ADR 잡혔나"
-    ],
-    [
-     "2026-09-29T06:45:23.322049+09:00",
-     "알테오젠 코스닥 강세 에코프로비엠 HLB"
-    ],
-    [
-     "2026-09-29T06:45:23.322049+09:00",
-     "탄소시장 민간 그린워싱 탄소감축량"
-    ],
-    [
      "2026-09-29T06:55:18.084538+09:00",
      "현안질의 국회 DMZ 폭발 사고 긴급 국방위"
     ],
@@ -1026,14 +1014,21 @@
     [
      "2026-09-29T12:30:29.576724+09:00",
      "조엘진 빛내는 AG 이해란까지 태극전사 다문화 비웨사에"
+    ],
+    [
+     "2026-09-29T12:50:24.058562+09:00",
+     "맞먹자 애플 PC 75와트 2나노 그래픽카드 반도체 발열벽 두뇌 모바일"
+    ],
+    [
+     "2026-09-29T12:50:24.058562+09:00",
+     "증시 10월 공포 다시 금리인상 확률 긴축"
+    ],
+    [
+     "2026-09-29T12:50:24.058562+09:00",
+     "AMC 하루 0배로 뛰어 만에 엔터테인먼트 거래대금이"
     ]
    ],
    "seen_urls": [
-    "https://www.boannews.com/news/articleView.html?idxno=146055",
-    "https://www.jejumaeil.net/news/articleView.html?idxno=405045",
-    "https://www.ziksir.com/news/articleView.html?idxno=147584",
-    "https://www.techm.kr/news/articleView.html?idxno=155616",
-    "https://www.asiatime.co.kr/article/20260928500245",
     "https://www.todayenergy.kr/news/articleView.html?idxno=303528",
     "https://www.tokenpost.kr/news/cryptocurrency/414985",
     "http://journal.kobeta.com/?post_type=post&p=63975",
@@ -2528,14 +2523,14 @@
     "http://www.worktoday.co.kr/news/articleView.html?idxno=89809",
     "https://www.yna.co.kr/view/AKR20260929091700007?input=1195m",
     "https://www.mk.co.kr/article/12163561",
-    "http://www.newstomato.com/ReadNews.aspx?no=1315067&inflow=N"
+    "http://www.newstomato.com/ReadNews.aspx?no=1315067&inflow=N",
+    "https://www.huffingtonpost.kr/article/260833",
+    "https://www.sisajournal.com/news/articleView.html?idxno=388562",
+    "https://www.g-enews.com/view.php?ud=20260929095730276fbbec65dfb_1",
+    "https://m.skyedaily.com/news_view.html?ID=312222",
+    "https://www.tokenpost.kr/news/blockchain/415569"
    ],
    "seen_titles": [
-    "AI시대전력저장뜬다…ESS관련주장중상승세확산",
-    "HD현대·SK·LS,3분기이익눈높이31~54%↑…반도체밖으로번진‘인프...",
-    "거래대금반토막에주춤한이업종…“배당매력커졌다”",
-    "\"이동하지못하면교육·노동도없다\"…박경석전장연대표,복지TV서장...",
-    "골드만삭스ㆍ블랙록ㆍ日금융청한자리에⋯‘코리아프리미엄위크’...",
     "SKT,대학생찾아가는캠퍼스운영…진로상담부터AI서비스체험까지",
     "7천피다음은천스닥?…‘코리아프리미엄위크’기대감솔솔",
     "이억원\"대한민국국가대표자본시장IR\"…코리아프리미엄위크개막",
@@ -4030,10 +4025,15 @@
     "이재용·최태원회장,젠슨황CEO'밴플리트상'수상직접축하…\"한...",
     "[아시안게임]AG빛내는다문화태극전사…조엘진·비웨사에이해란까지",
     "젠슨황과다시뭉친이재용·최태원…뉴욕서과시한‘AI깐부동맹’",
-    "‘깐부’젠슨황시상식달려간총수들…엔비디아밀월강화‘총력’"
+    "‘깐부’젠슨황시상식달려간총수들…엔비디아밀월강화‘총력’",
+    "10월국정감사앞두고기업인증인채택속속:정무위단일종목레버리...",
+    "이재용·최태원,젠슨황밴플리트상수상축하…\"진정한동반자\"",
+    "발열벽깬애플2나노모바일두뇌,75와트PC그래픽카드맞먹자반도체...",
+    "美10월금리인상확률70%,증시다시‘긴축공포’",
+    "[로빈후드온체인]AMC엔터테인먼트거래대금이하루만에6.0배로뛰어..."
    ],
    "initialized": true,
-   "last_run": "2026-09-29T12:45:22.000424+09:00"
+   "last_run": "2026-09-29T12:50:24.058562+09:00"
   }
  },
  "press_names": {
