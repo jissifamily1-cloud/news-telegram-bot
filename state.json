@@ -230,11 +230,13 @@
     [
      "2026-09-30T05:05:19.490773+09:00",
      "K반도체 종착지 중국 숨겨 훔친 양말 기술"
+    ],
+    [
+     "2026-09-30T05:15:22.234314+09:00",
+     "KODEX ADR SK하이닉스 편입 반도체"
     ]
    ],
    "seen_urls": [
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=366220",
-    "https://www.ziksir.com/news/articleView.html?idxno=147668",
     "http://www.newswell.co.kr/news/articleView.html?idxno=22208",
     "https://www.bloter.net/news/articleView.html?idxno=674502",
     "https://www.ziksir.com/news/articleView.html?idxno=147669",
@@ -1732,11 +1734,11 @@
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=320706",
     "https://www.wikitree.co.kr/articles/1157871",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=277907",
-    "https://www.joongang.co.kr/article/25465833"
+    "https://www.joongang.co.kr/article/25465833",
+    "https://www.the-today.com/news/articleView.html?idxno=90964",
+    "https://www.seoul.co.kr/news/economy/finance/2026/09/30/20260930024008?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "\"국장·반도체팔고미국장으로\"…코스피7000무너지자ETF뭉칫돈이탈",
-    "진학사캐치,구직자58%“자기소개서전형폐지긍정적”응답",
     "[증시전망대]'7천피'무너진코스피,미국채·유가겹악재에또흔들리...",
     "엔비디아젠슨황,벤플리트상수상...'韓美관계기여'",
     "여기어때,'제휴기업특가'상품으로B2B시장공략",
@@ -3234,10 +3236,12 @@
     "[출근길포인트]LG이노텍,자율주행'플릿'띄워데이터직접캔다",
     "드디어오늘...SK하이닉스배당금지급일,100주있으면얼마받을까?",
     "배터리2조빚안고반도체4천억실탄…SK의리밸런싱'속도전'",
-    "[단독]양말속숨겨훔친K반도체기술,종착지75%가중국"
+    "[단독]양말속숨겨훔친K반도체기술,종착지75%가중국",
+    "[단독]SK온헝가리배터리공장,지하수오염적발…또'1억포린트'벌...",
+    "KODEX美반도체,SK하이닉스ADR편입"
    ],
    "initialized": true,
-   "last_run": "2026-09-30T05:10:45.230110+09:00"
+   "last_run": "2026-09-30T05:15:22.234314+09:00"
   }
  },
  "press_names": {
