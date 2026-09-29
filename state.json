@@ -222,11 +222,13 @@
     [
      "2026-09-30T05:40:23.751114+09:00",
      "4위 장원영 연예인 2위 1원도 전원주 아무리 벌어도 주변에"
+    ],
+    [
+     "2026-09-30T05:50:27.492871+09:00",
+     "지수 앤트로픽 반도체만 3대 국채금리 급등 조정 훈풍에"
     ]
    ],
    "seen_urls": [
-    "http://www.srtimes.kr/news/articleView.html?idxno=213403",
-    "https://www.medipana.com/news/articleView.html?idxno=418372",
     "https://www.etoday.co.kr/news/view/2630122",
     "https://biz.sbs.co.kr/article_hub/20000337149?division=NAVER",
     "https://www.forbeskorea.co.kr/news/articleView.html?idxno=402581",
@@ -1724,11 +1726,11 @@
     "https://www.fnnews.com/news/202609292129250218",
     "https://www.fnnews.com/news/202609300515491370",
     "https://www.greened.kr/news/articleView.html?idxno=351038",
-    "https://www.news1.kr/entertain/celebrity-topic/6304614"
+    "https://www.news1.kr/entertain/celebrity-topic/6304614",
+    "https://www.mydaily.co.kr/page/view/2026092922154502106",
+    "https://www.mediapen.com/news/view/1126753"
    ],
    "seen_titles": [
-    "[VC·PE20년의헌사]카카오벤처스,10곳중9곳에최초투자했다",
-    "유가·금리부담에투자심리위축…삼성전자·SK하이닉약세",
     "[해외시황]뉴욕증시,유가·국채금리상승에'하락'…나스닥0.92%↓",
     "7000선무너진코스피,오늘도금리·유가압박…저가매수세유입주목",
     "SK하이닉스,TSMCOIP서차세대AI메모리공개…2년연속'올해의파트...",
@@ -3226,10 +3228,12 @@
     "\"삼전·닉스D램더오른다\"…서버용4분기최대20%상승전망",
     "[뉴욕증시]국채수익률고공행진에이틀째하락…반도체는강세",
     "美금리5.29%에도반도체1.5%반등…마이크론실적앞둔삼성·하이닉스",
-    "\"아무리돈벌어도주변에1원도안쓸연예인\"…2위전원주4위장원영..."
+    "\"아무리돈벌어도주변에1원도안쓸연예인\"…2위전원주4위장원영...",
+    "'103구째156km'이런선수어떻게데려왔나…9회등판자청→16년만에...",
+    "[美증시]국채금리급등3대지수또'조정'…앤트로픽훈풍에반도체만..."
    ],
    "initialized": true,
-   "last_run": "2026-09-30T05:45:24.548040+09:00"
+   "last_run": "2026-09-30T05:50:27.492871+09:00"
   }
  },
  "press_names": {
