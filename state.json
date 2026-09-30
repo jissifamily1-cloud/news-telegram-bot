@@ -406,16 +406,29 @@
     [
      "2026-10-01T07:45:20.308547+09:00",
      "사흘째 금리 마감 부담에 코스피 하락 장기국채"
+    ],
+    [
+     "2026-10-01T08:00:37.171549+09:00",
+     "추가 축소 상승 이오테크닉스 상승폭 삼전 SK하닉"
+    ],
+    [
+     "2026-10-01T08:00:37.171549+09:00",
+     "성적표 반도체 절반 188조 수출 영업익"
+    ],
+    [
+     "2026-10-01T08:00:37.171549+09:00",
+     "7조 다올 4조 발주 데이터센터 건설업 먹거리"
+    ],
+    [
+     "2026-10-01T08:00:37.171549+09:00",
+     "배후설을 감독 암살자 전제로 박정희"
+    ],
+    [
+     "2026-10-01T08:00:37.171549+09:00",
+     "잔치 이익 증가 IT 3분기 독식 실적 열린다는데"
     ]
    ],
    "seen_urls": [
-    "http://www.paxetv.com/news/articleView.html?idxno=282962",
-    "https://www.sedaily.com/article/20096371",
-    "https://www.newspim.com/news/view/20260930000119",
-    "https://www.sedaily.com/article/20096370",
-    "https://www.hankyung.com/article/2026093035436",
-    "https://www.youthdaily.co.kr/news/article.html?no=227741",
-    "https://www.news1.kr/it-science/cc-newmedia/6305392",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=868861",
     "https://www.edaily.co.kr/News/Read?newsId=02856886645585368&mediaCodeNo=257",
     "https://www.ajunews.com/view/20260930085114316",
@@ -1908,16 +1921,16 @@
     "https://www.hankyung.com/article/2026100162137",
     "http://www.kjdaily.com/article.php?aid=1790807966688040276",
     "https://www.dailyt.co.kr/newsView/dlt202610010004",
-    "https://biz.sbs.co.kr/article_hub/20000337685?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000337685?division=NAVER",
+    "https://biz.sbs.co.kr/article_hub/20000337687?division=NAVER",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6855133_37012.html",
+    "https://www.etoday.co.kr/news/view/2631189",
+    "http://www.newskr.kr/news/articleView.html?idxno=106800",
+    "https://www.etoday.co.kr/news/view/2631186",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271737&CMPT_CD=P0010",
+    "https://www.edaily.co.kr/News/Read?newsId=02564966645608656&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "SK브로드밴드'Btv핫딜',10개월만에판매액100억원",
-    "“SK하이닉스,자사주매입끝나도추가주주환원기대..SK스퀘어수혜”...",
-    "[모닝리포트]\"SK텔레콤,4분기배당1050원전망…주가상승시도지속...",
-    "삼성전자·SK하이닉스,美국채금리급등에도프리마켓서1%대상승[코...",
-    "미분양무덤된경기도…반도체도시만달랐다",
-    "SK최태원회장의'18년지속후원'…핸드볼AG금빛재도약",
-    "SKB'Btv핫딜'판매액100억돌파…TV숏폼커머스통했다",
     "[1.5℃HOW]재생에너지전환골든타임놓치나",
     "여자는전승금메달,남자는4강…한국핸드볼,亞무대서반등",
     "어플라이드-키옥시아,차세대AI메모리공동개발…EPIC생태계확대",
@@ -3410,10 +3423,17 @@
     "\"서울운전자만봉이네\"…가장비싼주유소어디길래",
     "SOXL사고SOXS팔고…서학개미반도체관심",
     "세계투자자앞에선한국자본시장…3주간‘코리아프리미엄위크’...",
-    "[마켓프리뷰]美장기국채금리부담에코스피사흘째하락마감"
+    "[마켓프리뷰]美장기국채금리부담에코스피사흘째하락마감",
+    "[애프터마켓리뷰]미알래스카LNG투자기대에강관주강세",
+    "뉴욕증시,물가지표예상치밑돌았지만혼조마감",
+    "[전날애프터마켓]삼전·SK하닉추가상승…이오테크닉스상승폭축소",
+    "[오늘의이슈]수출절반·영업익188조…반도체첫성적표",
+    "다올證“데이터센터,건설업새먹거리⋯연9.7조~17.4조발주”",
+    "[손병관의뉴스프레소]'암살자(들)'감독\"박정희배후설을전제로만...",
+    "3분기실적잔치열린다는데…이익증가96%‘IT독식’"
    ],
    "initialized": true,
-   "last_run": "2026-10-01T07:55:17.528388+09:00"
+   "last_run": "2026-10-01T08:00:37.171549+09:00"
   }
  },
  "press_names": {
