@@ -373,12 +373,6 @@
     ]
    ],
    "seen_urls": [
-    "https://thetracker.co.kr/View.aspx?No=4246041",
-    "https://www.joongangenews.com/news/articleView.html?idxno=551438",
-    "https://www.newspim.com/news/view/20260930000086",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4437013",
-    "https://www.g-enews.com/view.php?ud=202609300842058217923c501012_1",
-    "https://www.news1.kr/finance/blockchain-fintech/6304962",
     "https://www.ajunews.com/view/20260930084034297",
     "https://www.edaily.co.kr/News/Read?newsId=02820806645585368&mediaCodeNo=257",
     "https://www.yna.co.kr/view/AKR20260930030000007?input=1195m",
@@ -1872,15 +1866,15 @@
     "https://www.itdaily.kr/news/articleView.html?idxno=241890",
     "https://www.koreatimes.co.kr/path/A2026092911020001969",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=728327",
-    "https://www.itooza.com/common/iview.php?no=2026093013515215232"
+    "https://www.itooza.com/common/iview.php?no=2026093013515215232",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4437234",
+    "https://www.fnnews.com/news/202610010712159816",
+    "https://news.tf.co.kr/read/economy/2371649.htm",
+    "https://view.asiae.co.kr/article/2026093015170008670",
+    "https://www.munhwa.com/article/11620683",
+    "https://www.kpinews.kr/newsView/1065564322575473"
    ],
    "seen_titles": [
-    "롯데면세점,SK-II와맞손…글로벌브랜드협업범위넓힌다",
-    "SK텔레콤,1년만에KCSI1위탈환…국내3대고객만족도조사'그랜드슬...",
-    "[모닝리포트]\"켐트로스,반도체소재성장본격화\"",
-    "두나무,신규투자·경영관리'기동력'높인다…두나무센트럴설립",
-    "[개장전주요공시]제일기획·현대건설·한미약품·한국가스공사등",
-    "美거래소크라켄\"한국주식도토큰으로…해외투자자접근성높일것...",
     "엔비디아,11월서울서'AI데이'…피지컬·에이전틱AI총집결",
     "1년만에KPGA투어돌아온최경주,후배들과샷대결…‘선수를위한대...",
     "SK,18년간핸드볼발전에1천700억원지원…아시안게임서결실",
@@ -3374,10 +3368,16 @@
     "[피싱②]보이스피싱전쟁…정부‧이통사'AI방어선'구축",
     "Beyondsponsorship,companiesprovidetechnologytosports",
     "[삼성턴키해부②]다묶어준다는데…빅테크는왜외면하나",
-    "[리스트]실적시즌앞두고눈길가는우량저평가주...국내합성전략..."
+    "[리스트]실적시즌앞두고눈길가는우량저평가주...국내합성전략...",
+    "\"대미투자,지금협상했으면5천500억弗이었을것\"…판도바뀐한미통...",
+    "美중국특위″한중밀착,미국에중대위험″…국무부에서한[이석우의...",
+    "美마이크론매출379%폭증…삼전닉스주가,10월첫날웃을까",
+    "SK하이닉스,목표주가340만원유지하는이유…\"메모리수요견조\"[클릭...",
+    "분기매출73.5조원‘사상최대’기록마이크론…“내년실적더강력기...",
+    "SK배터리아메리카,美프린스턴뉴에너지와배터리재활용협력확대"
    ],
    "initialized": true,
-   "last_run": "2026-10-01T07:20:21.003533+09:00"
+   "last_run": "2026-10-01T07:25:18.225859+09:00"
   }
  },
  "press_names": {
