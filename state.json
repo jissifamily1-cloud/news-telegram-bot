@@ -198,13 +198,21 @@
     [
      "2026-10-01T05:40:22.517784+09:00",
      "속슬 나스닥만 9월 반등 넘게 혼조세 폭등"
+    ],
+    [
+     "2026-10-01T05:50:21.741888+09:00",
+     "이유 음원 플랫폼이 뛰어든 설립까지 공연장 0원에 수수료 무대로"
+    ],
+    [
+     "2026-10-01T05:50:21.741888+09:00",
+     "마감 10년물 돌파 PCE 혼조 둔화"
+    ],
+    [
+     "2026-10-01T05:50:21.741888+09:00",
+     "시대 클라우드 SI는 빅테크가 장악한 무엇을 파나"
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491223",
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=65051",
-    "https://sports.donga.com/sports/article/all/20260930/134751857/1",
-    "https://www.thelec.kr/news/articleView.html?idxno=62982",
     "https://www.etoday.co.kr/news/view/2630616",
     "https://biz.sbs.co.kr/article_hub/20000337423?division=NAVER",
     "http://www.bizwnews.com/news/articleView.html?idxno=147551",
@@ -1700,13 +1708,13 @@
     "https://www.seoul.co.kr/news/society/2026/10/01/20261001022001?wlog_tag3=naver",
     "https://www.news1.kr/world/international-economy/6306803",
     "https://www.sedaily.com/article/20096866",
-    "https://www.fnnews.com/news/202610010523457999"
+    "https://www.fnnews.com/news/202610010523457999",
+    "https://www.dt.co.kr/article/12086829",
+    "https://www.newsen.com/news_view.php?uid=202609301802092610",
+    "https://view.asiae.co.kr/article/2026100105042767895",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609301054354410880"
    ],
    "seen_titles": [
-    "KT엠모바일알뜰폰,브랜드평판1위…프리티·SK세븐모바일順",
-    "고금리에도SK회사채에7천200억몰렸다…모집액5배'완판흥행'",
-    "‘선수를위한최고의대회’현대해상최경주인비테이셔널,1일부터...",
-    "서울대,AI반도체인재키운다...6년간석박사급110명양성",
     "뉴욕증시,국채금리고공행진에약보합마감⋯다우0.26%↓[종합]",
     "[마켓프리뷰]美국채금리에코스피이틀째후퇴…삼전닉스보합권",
     "KB자산운용'글로벌AI낸드메모리반도체ETF'주목",
@@ -3202,10 +3210,14 @@
     "“K팝생태계새로운접근돋보여…조어사용은신중해야”[독자권익...",
     "마이크론실적예상상회…AI메모리호황에가이던스도'서프라이즈'(상...",
     "美10년물금리,24년만에5.3%돌파...양호한PCE에뉴욕증시혼조[데...",
-    "[뉴욕증시]혼조세속나스닥만반등…'속슬'9월30%넘게폭등"
+    "[뉴욕증시]혼조세속나스닥만반등…'속슬'9월30%넘게폭등",
+    "호실적마이크론시간외거래강세…삼전닉스도달릴까",
+    "수수료0원에공연장설립까지…음원플랫폼이무대로뛰어든이유",
+    "[뉴욕증시]PCE둔화·10년물5.3%돌파…혼조마감",
+    "[SI3사3색]①빅테크가클라우드장악한시대,SI는무엇을파나"
    ],
    "initialized": true,
-   "last_run": "2026-10-01T05:45:25.774318+09:00"
+   "last_run": "2026-10-01T05:50:21.741888+09:00"
   }
  },
  "press_names": {
