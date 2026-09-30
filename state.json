@@ -958,16 +958,25 @@
     [
      "2026-09-30T19:50:24.153986+09:00",
      "외주 상한가 확대 기대감에 윈팩 D램 SK하이닉스 후공정"
+    ],
+    [
+     "2026-09-30T20:15:22.135121+09:00",
+     "의혹도 고성장 후공정에 투자 뒤엔 CXMT 7조 삼성전자 기술유출"
+    ],
+    [
+     "2026-09-30T20:15:22.135121+09:00",
+     "생산거점 구축 반도체 JSR 소재 오창에"
+    ],
+    [
+     "2026-09-30T20:15:22.135121+09:00",
+     "면밀한 기우는 국무장관에 한국 의회 관찰 중국에 필요"
+    ],
+    [
+     "2026-09-30T20:15:22.135121+09:00",
+     "갈등 용인 양상 격화 반도체클러스터 처리수"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026093000272610187",
-    "https://www.hankyung.com/article/202609293017i",
-    "https://www.chosun.com/international/international_general/2026/09/30/LQMQ3ZLRAJBXHPOXUT5BPKIXGE/",
-    "https://www.chosun.com/politics/assembly/2026/09/30/6QB65KOIGVCA3DYIIMCVHIK2HQ/",
-    "https://www.chosun.com/politics/politics_general/2026/09/30/7NLFKMWKVBHONAHSLHLP6CGK7A/",
-    "https://www.gametoc.co.kr/news/articleView.html?idxno=111858",
-    "https://www.vegannews.co.kr/news/article.html?no=389675",
     "http://www.babytimes.co.kr/news/articleView.html?idxno=74245",
     "https://www.starnewskorea.com/sports/2026/09/30/2026092915571368204",
     "https://www.xportsnews.com/article/2202187",
@@ -2460,16 +2469,16 @@
     "https://www.dynews.co.kr/news/articleView.html?idxno=867914",
     "https://www.seoul.co.kr/news/economy/2026/09/30/20260930500268?wlog_tag3=naver",
     "https://www.womentimes.co.kr/news/articleView.html?idxno=106641",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1184595"
+    "https://www.ggilbo.com/news/articleView.html?idxno=1184595",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1539101",
+    "https://www.ekn.kr/web/view.php?key=20260930022540569",
+    "https://www.dt.co.kr/article/12086757",
+    "https://www.econovill.com/news/articleView.html?idxno=752343",
+    "http://www.cctimes.kr/news/articleView.html?idxno=930151",
+    "https://www.chosun.com/international/us/2026/09/30/2CT4S3QWYZEU5A6H7CSAIPNGBI/",
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1333233"
    ],
    "seen_titles": [
-    "젠슨황\"삼성·SK와앞으로33년더협력할것\"",
-    "마이크론순익940%폭증예상…메모리'정점론'잠재울까",
-    "‘밴플리트상’젠슨황“앞으로33년도韓과함께할것”",
-    "與,김현지·김용범·김승원다빼고…조희대만증인채택",
-    "김상욱31억·추미애9억불렸다…6개월새‘펀드대박’",
-    "넥써쓰,원스토어완전흡수한다",
-    "마이크론4분기실적30일발표…매출500억달러전망",
     "SK하이닉스,협력사와'파트너스데이'…상생모델구축",
     "'9회에도158㎞'괴물대체외인미쳤다!13G만에'커·하김광현'소환...",
     "'페디·폰세보다잘한다!'…104구로LG잠재운아빌라,9이닝6K1실점완...",
@@ -3962,10 +3971,17 @@
     "충북이보지못한청년들의'직주락'(職住樂)",
     "‘반도체공룡’마이크론오늘실적발표…주식분할에쏠린눈[재테...",
     "사이드카도멈춘9월코스피…7000선회복뒤다시6800선대",
-    "[주식마감]SK하이닉스D램후공정외주확대기대감에윈팩상한가......"
+    "[주식마감]SK하이닉스D램후공정외주확대기대감에윈팩상한가......",
+    "[비즈투데이]SK텔레콤,개인정보보호의날캠페인",
+    "“진실의순간왔다”…삼전닉스버팀목사라지자‘코스피4000’경고...",
+    "‘반도체풍향계’마이크론실적드디어나온다…‘삼전닉스’랠리재...",
+    "CXMT,R&D·후공정에7조투자…고성장뒤엔삼성전자기술유출의혹도",
+    "JSR,오창에반도체소재생산거점구축",
+    "[단독]美의회“중국에기우는한국면밀한관찰필요”…국무장관에...",
+    "용인반도체클러스터처리수갈등격화양상"
    ],
    "initialized": true,
-   "last_run": "2026-09-30T20:10:31.608734+09:00"
+   "last_run": "2026-09-30T20:15:22.135121+09:00"
   }
  },
  "press_names": {
