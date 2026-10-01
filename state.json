@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-01T12:45:23.159595+09:00",
-     "AX"
-    ],
-    [
-     "2026-10-01T12:45:23.159595+09:00",
-     "Urges Panel Scrutiny Deepening Korea Ties China House of"
-    ],
-    [
-     "2026-10-01T12:45:23.159595+09:00",
-     "가을야구 두산 4위까지 확정 내친김에"
-    ],
-    [
      "2026-10-01T12:55:16.564520+09:00",
      "60만달러어치가 페폰스 헬스 토큰 줄어 힘스앤허스"
     ],
@@ -1050,16 +1038,21 @@
     [
      "2026-10-01T18:35:20.007624+09:00",
      "골목까지 투자 삼성 19조 구미 벌써 착수"
+    ],
+    [
+     "2026-10-01T18:45:26.638897+09:00",
+     "고용 확보 세제지원 조승래 국회 취약계층 첨단산업 인재 재경위원장"
+    ],
+    [
+     "2026-10-01T18:45:26.638897+09:00",
+     "성장의 어르신 시민 이상일 행복부터 활력까지 농촌 용인시 성과"
+    ],
+    [
+     "2026-10-01T18:45:26.638897+09:00",
+     "새도약기금에 연체채권 미소금융 넘긴다"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20096855",
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=600812",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3709947",
-    "https://www.tokenpost.kr/news/insights/416541",
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=765014",
-    "https://www.newsworker.co.kr/news/articleView.html?idxno=506675",
-    "https://www.newspim.com/news/view/20260930001363",
     "https://www.segye.com/newsView/20260930516602?OutUrl=naver",
     "https://www.newscj.com/news/articleView.html?idxno=3436911",
     "https://www.newscj.com/news/articleView.html?idxno=3436920",
@@ -2552,16 +2545,16 @@
     "https://www.hankyung.com/article/2026100185261",
     "https://www.nocutnews.co.kr/news/6586149",
     "https://www.segye.com/newsView/20261001519050?OutUrl=naver",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675765"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675765",
+    "https://news.ifm.kr/news/articleView.html?idxno=480723",
+    "https://www.etnews.com/20261001000486",
+    "https://www.sentv.co.kr/article/view/sentv202610010233",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=278085",
+    "https://www.news2day.co.kr/article/20261001500265",
+    "http://www.beyondpost.co.kr/view.php?ud=202610011822399924c878f8fa1_30",
+    "https://www.hankyung.com/article/2026100185041"
    ],
    "seen_titles": [
-    "美하원중국특위위원장“한중밀착경계해야”…루비오에서한",
-    "엔비디아,11월코엑스서'AI데이서울'⋯2000명·20개파트너참여",
-    "송도K-바이오랩허브착공식개최…2029년준공목표",
-    "[인터뷰]톰리\"15개월중12개월이약세장…그사이이더리움600만개...",
-    "SK팜테코,5년간美사업장에2억달러투자…펩타이드정제역량강화",
-    "민형배시장,'작전미스'...SK하이닉스10월입주협약여건점검",
-    "미하원중국특위위원장\"한중관계발전,미국에중대한위험초래가...",
     "[열린마당]개인정보보호도‘경영’해야한다",
     "리사수7개월만에재방한…엔비디아·AMD,한국서맞붙는다",
     "넷스케이프개발자가본암호화폐…\"접근은열렸다,이제는신뢰\"",
@@ -4054,10 +4047,17 @@
     "커버드콜ETF껑충…횡보장서안정적수익",
     "\"하이닉스거래정지사태등시장경보정량적발동개선필요\"",
     "매경은지웠고SK는사라졌다...22세송민혁의남은우승버킷리스트‘...",
-    "[신주현의시사K]“구미삼성19조투자벌써착수”…“골목까지돈..."
+    "[신주현의시사K]“구미삼성19조투자벌써착수”…“골목까지돈...",
+    "[오늘의증시]코스피7000선'눈앞'…반도체·수출이끌고코스닥은4.5%...",
+    "영진전문대수시1차1만3896명지원…평균경쟁률7.4대1…“반도체전자...",
+    "정재헌SKT대표“고객신뢰에감사…더나은서비스로보답”",
+    "[마감시황]마이크론훈풍에장중대반전…코스피,반도체'투톱'급등...",
+    "조승래국회재경위원장,취약계층고용·첨단산업인재확보세제지원...",
+    "이상일“어르신행복부터농촌활력까지”…용인시,성장의성과시민...",
+    "[단독]미소금융연체채권새도약기금에넘긴다"
    ],
    "initialized": true,
-   "last_run": "2026-10-01T18:40:29.081323+09:00"
+   "last_run": "2026-10-01T18:45:26.638897+09:00"
   }
  },
  "press_names": {
