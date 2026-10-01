@@ -294,12 +294,17 @@
     [
      "2026-10-02T07:15:22.721423+09:00",
      "수업6 회장 위대한 최태원 재닛 마르소 옐런 소피 역대"
+    ],
+    [
+     "2026-10-02T07:30:28.105406+09:00",
+     "알아야 경제뉴스 국내외"
+    ],
+    [
+     "2026-10-02T07:30:28.105406+09:00",
+     "이번엔 증시 2011년 프랑스가 핫이슈 어게인 유럽재정위기"
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4437248",
-    "https://www.sedaily.com/article/20096882",
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=711773",
     "https://www.edaily.co.kr/News/Read?newsId=02660086645608656&mediaCodeNo=257",
     "https://slownews.kr/167228",
     "http://www.metroseoul.co.kr/article/20261001500009",
@@ -1796,12 +1801,12 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16233492",
     "https://www.munhwa.com/article/11620976",
     "https://www.edaily.co.kr/News/Read?newsId=02460006645608984&mediaCodeNo=257",
-    "https://www.slist.kr/news/articleView.html?idxno=770392"
+    "https://www.slist.kr/news/articleView.html?idxno=770392",
+    "https://www.public25.com/news/articleView.html?idxno=55800",
+    "https://www.fntimes.com/html/view.php?ud=202610020713125603141825007d_18",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005930427"
    ],
    "seen_titles": [
-    "삼전닉스가찜한美아비세나,인터베스트도1천만달러베팅",
-    "삼전닉스개미들귀쫑긋…“내년HBM공급부족계속,가격2배이상뛴...",
-    "코스피7600의전제···이익이먼저다",
     "\"네오클라우드기업비중확대필요\"…네이버·SK텔레콤등추천",
     "중수청은개문발차아니라개문주차,트럭으로사건기록실어날라야할...",
     "마이크론,분기매출542억달러'사상최대'…\"내년실적더강력해\"",
@@ -3298,10 +3303,13 @@
     "미국증시상승마감…금리급락에반도체반등SK하이닉스ADR5%↑",
     "[속보]SK하이닉스ADR5%급등,마이크론도3%↑…금리상승에도반도체강...",
     "[르포]“한국서쓰던번호그대로”…오키나와서써본SKT‘가족로밍’",
-    "최태원SK회장·재닛옐런·소피마르소...'위대한수업6'역대최대50..."
+    "최태원SK회장·재닛옐런·소피마르소...'위대한수업6'역대최대50...",
+    "뉴욕증시국채금리진정에다우0.04%↑...국제유가브렌트유4.37%급등",
+    "[KFT모닝브리프]2026.10.02—오늘꼭알아야할국내외경제뉴스",
+    "증시오늘'핫이슈'\"2011년유럽재정위기어게인?이번엔프랑스가'타..."
    ],
    "initialized": true,
-   "last_run": "2026-10-02T07:25:17.587093+09:00"
+   "last_run": "2026-10-02T07:30:28.105406+09:00"
   }
  },
  "press_names": {
