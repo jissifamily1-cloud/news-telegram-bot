@@ -146,11 +146,17 @@
     [
      "2026-10-02T05:20:26.110613+09:00",
      "자진 기다렸나 하차 대표팀 호날두 이때만 등번호 7번 포르투갈"
+    ],
+    [
+     "2026-10-02T05:30:32.143919+09:00",
+     "증시 꺾이자 치솟던 반등 금리 3대"
+    ],
+    [
+     "2026-10-02T05:30:32.143919+09:00",
+     "교사가 있어요 중학교 버는 고수 기회 정리한 재테크 아직 배당"
     ]
    ],
    "seen_urls": [
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609301006303600104517",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609301612049880101073",
     "https://dealsite.co.kr/articles/169783",
     "https://www.ceoscoredaily.com/page/view/2026093014322747048",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609281735042600104411",
@@ -1648,11 +1654,11 @@
     "https://www.nongmin.com/article/20260930500414",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000019246&cp=nv",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=321093",
-    "https://www.goal.com/kr/뉴스/a/blta10fb9b7bebbd25c"
+    "https://www.goal.com/kr/뉴스/a/blta10fb9b7bebbd25c",
+    "https://www.news2day.co.kr/article/20261001500245",
+    "https://www.chosun.com/economy/money/2026/10/02/DZEJ37XWN5FT5A6CTAR552ABVY/"
    ],
    "seen_titles": [
-    "[더벨]SK인텔릭스,웰니스로봇협의체구축추진",
-    "[더벨][현장줌인]퓨처플레이,스타트업채용박람회로'밸류업지원'...",
     "[한앤코의SK디앤디]계열분리에도SK단다…사업네트워크도활용",
     "K-정유4사CEO국감증언대서나…“‘기름값담합’추산액26조,판도...",
     "[더벨][thebelldesk]SKIET,리밸런싱출구찾아서",
@@ -3150,10 +3156,12 @@
     "[치유산업]“유리온실서토마토키우며자립의꿈가꿔요”",
     "[속보]국채금리급등에도SK하이닉스5.08%↑…뉴욕증시상승",
     "[출근길포인트]美원전8기중2기는K-원전···산재사망연3명이상...",
-    "'이때만기다렸나?'…포르투갈,'대표팀자진하차'호날두등번호7번..."
+    "'이때만기다렸나?'…포르투갈,'대표팀자진하차'호날두등번호7번...",
+    "[N2모닝경제브리핑-10월2일]美증시,치솟던금리꺾이자반등…3대...",
+    "“아직기회있어요”재테크고수중학교교사가정리한돈버는배당..."
    ],
    "initialized": true,
-   "last_run": "2026-10-02T05:25:18.912060+09:00"
+   "last_run": "2026-10-02T05:30:32.143919+09:00"
   }
  },
  "press_names": {
