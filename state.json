@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-01T20:40:23.736072+09:00",
-     "수원문화재단 소년합창단 파리나무십자가 개최 특별 초청공연"
-    ],
-    [
      "2026-10-01T20:50:24.249474+09:00",
      "상장사 2일 종목 자사주 코스피 10월 50개 매수 신청"
     ],
@@ -218,11 +214,17 @@
     [
      "2026-10-02T01:05:24.120373+09:00",
      "반도 인프라 대비 처인구 도로 50만 확충 용인시장 이상일 문화 성장"
+    ],
+    [
+     "2026-10-02T02:40:24.698445+09:00",
+     "평택시 경기광주시 여주시 이천시 성남시 용인시"
+    ],
+    [
+     "2026-10-02T02:40:24.698445+09:00",
+     "투자 판가 두뇌 마이크론 삼성 로봇 방어벽 던지며 선점 33조 폭탄"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008777758&plink=ORI&cooper=NAVER",
-    "https://www.the-today.com/news/articleView.html?idxno=91025",
     "https://www.chosun.com/economy/tech_it/2026/10/01/2VFCN3U2MJHMXHGFSEKUBK74W4/",
     "https://biz.sbs.co.kr/article_hub/20000337690?division=NAVER",
     "https://www.slist.kr/news/articleView.html?idxno=770067",
@@ -1720,11 +1722,11 @@
     "https://www.donga.com/news/Economy/article/all/20261001/134770995/2",
     "https://www.chosun.com/politics/politics_general/2026/10/02/7Q67XV6MJ5GIZFFNIQVRNL3J3Y/",
     "http://www.fieldnews.kr/news/articleView.html?idxno=31950",
-    "http://www.worktoday.co.kr/news/articleView.html?idxno=89981"
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=89981",
+    "https://www.ekn.kr/web/view.php?key=20261002025031487",
+    "https://www.g-enews.com/view.php?ud=202610011748092261fbbec65dfb_1"
    ],
    "seen_titles": [
-    "초과세수'역대최대'…또불거진'쌈짓돈'논란",
-    "[단독]SK온美조지아공장,PNE와손잡고'배터리부산물재활용'추진",
     "美마이크론,‘AI붐’타고실적5배…韓반도체도청신호",
     "SKT·카카오·KT,10월전국민무료'모두의AI'첫선",
     "SKT·카카오·KT,이달'모두의AI'선봬…전국민무료",
@@ -3222,10 +3224,12 @@
     "울산현대차공장전기차전환인허가3년→1년단축",
     "‘삼성·SK주거비지원’논란에…李“기업에수조원은괜찮고,직원...",
     "이상일용인시장,처인구50만성장대비도로·문화인프라확충…반도...",
-    "현대차,고객아이디어로차량앱발굴…'플레오스커넥트'생태계확..."
+    "현대차,고객아이디어로차량앱발굴…'플레오스커넥트'생태계확...",
+    "[패트롤]성남시-경기광주시-평택시-이천시-용인시-여주시",
+    "마이크론,33조투자폭탄던지며로봇두뇌선점…삼성·SK판가방어벽..."
    ],
    "initialized": true,
-   "last_run": "2026-10-02T02:35:21.639158+09:00"
+   "last_run": "2026-10-02T02:40:24.698445+09:00"
   }
  },
  "press_names": {
