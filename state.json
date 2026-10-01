@@ -942,16 +942,21 @@
     [
      "2026-10-01T20:00:46.578983+09:00",
      "결제까지 모두의 출시 베타 신청 이달 맡긴다 예약"
+    ],
+    [
+     "2026-10-01T20:15:23.302898+09:00",
+     "발전 수원시의회 동행하겠다 장애인 문화예술인"
+    ],
+    [
+     "2026-10-01T20:15:23.302898+09:00",
+     "감사 대표도 해킹 한국 국감 되는 빅테크"
+    ],
+    [
+     "2026-10-01T20:15:23.302898+09:00",
+     "디아이 아이쓰리시스템 대한해 두산에너빌리티 우진엔텍"
     ]
    ],
    "seen_urls": [
-    "https://www.donga.com/news/Economy/article/all/20260930/134762985/2",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16230906",
-    "https://www.newsis.com/view/NISX20260930_0003809210",
-    "https://www.g-enews.com/view.php?ud=2026093023040228349a1f309431_1",
-    "https://www.joongangenews.com/news/articleView.html?idxno=551756",
-    "https://www.newsis.com/view/NISX20260930_0003808514",
-    "https://www.joongangenews.com/news/articleView.html?idxno=551759",
     "https://www.g-enews.com/view.php?ud=202609301948133763fbbec65dfb_1",
     "https://www.kyeonggi.com/article/20260930580531",
     "https://www.voakorea.com/a/south-korea-china-relationship-letter-093026/8206287.html",
@@ -2444,16 +2449,16 @@
     "http://www.paxetv.com/news/articleView.html?idxno=283191",
     "http://www.newsbrite.net/news/articleView.html?idxno=200710",
     "https://www.fnnews.com/news/202610011507044183",
-    "https://www.mediaus.co.kr/news/articleView.html?idxno=318298"
+    "https://www.mediaus.co.kr/news/articleView.html?idxno=318298",
+    "https://www.joongang.co.kr/article/25466464",
+    "http://www.bizwnews.com/news/articleView.html?idxno=147912",
+    "https://www.hani.co.kr/arti/economy/marketing/1280507.html",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675908",
+    "https://www.nspna.com/news/?newsid=830350",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1726480",
+    "https://www.kdpress.co.kr/news/articleView.html?idxno=209036"
    ],
    "seen_titles": [
-    "韓산업고객만족도인증식…40여개기업-기관참여",
-    "미국증시,PCE둔화에나스닥1%↑…HPE·마이크론AI주강세",
-    "\"연말까지역시삼성전자·SK하이닉스\"…HBM4가이던스에시선쏠린다",
-    "터너스새애플CEO,감원·사업정리추진…메모리값도부담",
-    "美FTC,오픈AI·앤트로픽전면조사…AI에이전트'통제실패'규제현...",
-    "\"상상초월폭등온다\"…투자전문가가메모리반도체에'올인'한이유",
-    "아마존,시놉시스와10억달러+반도체동맹…AWS자체AI칩개발가속",
     "거대해진AI칩이밀어올린패키지,장비업계는나노미터틈새서길을...",
     "[사설]미래대응기금,반도체본산경기도에지원해야",
     "하원중국특위위원장“한중관계변화,미국에중대한위험”",
@@ -3946,10 +3951,17 @@
     "집에쌓인폐의약품…동래구서방문수거",
     "코오롱베니트,기업의성공적인'AX여정'지원책제시한다",
     "상승폭둔화해도9월D램·낸드가격또역대최고",
-    "'모두의AI'이달베타출시…예약·신청·결제까지맡긴다"
+    "'모두의AI'이달베타출시…예약·신청·결제까지맡긴다",
+    "반도체기술유출추적보도이후…정부“처벌실효성강화”",
+    "\"AI시대글로벌특허경쟁,대응방안모색\"…지식재산처,'K-AI특허전략...",
+    "‘칩풍향계’마이크론역대최대분기실적",
+    "[여기는안동]영주시일자리박람회열려…56개업체참가외",
+    "[현장의정리포트]수원시의회,장애인문화예술인발전동행하겠다",
+    "[EBN오늘(1일)이슈종합]해킹감사되는국감...빅테크한국대표도...",
+    "[주요공시]디아이,두산에너빌리티,우진엔텍,아이쓰리시스템,대한해..."
    ],
    "initialized": true,
-   "last_run": "2026-10-01T20:10:25.425727+09:00"
+   "last_run": "2026-10-01T20:15:23.302898+09:00"
   }
  },
  "press_names": {
