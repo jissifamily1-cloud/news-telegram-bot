@@ -746,11 +746,13 @@
     [
      "2026-10-01T21:25:17.863379+09:00",
      "줄소환 재계 잔혹사 재현되나 만에 4년 총수"
+    ],
+    [
+     "2026-10-01T21:35:20.297847+09:00",
+     "debate as earnings strong chip slowdown Micron grows demand signal"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20260930_0003809322",
-    "https://www.joongang.co.kr/article/25466218",
     "https://www.seoul.co.kr/news/sport/Asiangame2026-aichi-nagoya/2026/10/01/20261001034006?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/society/2026/10/01/20261001022001?wlog_tag3=naver",
     "https://www.news1.kr/world/international-economy/6306803",
@@ -2248,11 +2250,11 @@
     "https://www.dailian.co.kr/news/view/1697122/?sc=Naver",
     "https://www.edaily.co.kr/News/Read?newsId=06438646645608656&mediaCodeNo=257",
     "http://www.yonhapnewstv.co.kr/news/MYH20261001211106ntA",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=665697"
+    "https://www.kfenews.co.kr/news/articleView.html?idxno=665697",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=445156",
+    "https://www.arirang.com/news/view?id=301488"
    ],
    "seen_titles": [
-    "삼전·닉스,이달'국내최대반도체전시회'서격돌…\"차세대HBM기술...",
-    "[단독]대기업만가던‘3대메가회의’…李“중기도와달라”",
     "세계서한국왔다,목표는이제세계로",
     "“K팝생태계새로운접근돋보여…조어사용은신중해야”[독자권익...",
     "마이크론실적예상상회…AI메모리호황에가이던스도'서프라이즈'(상...",
@@ -3750,10 +3752,12 @@
     "[데일리안오늘뉴스종합]국민의힘,美'알래스카LNG투자'일방발표...",
     "[미리보는이데일리신문]\"세금대신토큰증권으로축구장짓자\"",
     "코스피,마이크론·반도체훈풍에7,000선회복눈앞",
-    "[2026국감체크]4년만에재계총수'줄소환'…잔혹사재현되나"
+    "[2026국감체크]4년만에재계총수'줄소환'…잔혹사재현되나",
+    "코스피,2%상승에7000선회복눈앞...SK하이닉스,삼성전자상승VSKB금...",
+    "AIslowdowndebategrowsasMicronearningssignalstrongchipdemand"
    ],
    "initialized": true,
-   "last_run": "2026-10-01T21:30:33.667746+09:00"
+   "last_run": "2026-10-01T21:35:20.297847+09:00"
   }
  },
  "press_names": {
