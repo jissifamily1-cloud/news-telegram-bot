@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-01T23:05:19.548428+09:00",
-     "현안 퇴원한 당내 4시간 정청래와 논의 대통령 국정 만찬"
-    ],
-    [
      "2026-10-01T23:15:23.978738+09:00",
      "파격 1만원대 특가 에어 프로모션 요금 선봬 SKT 1주년"
     ],
@@ -142,16 +138,25 @@
     [
      "2026-10-02T04:35:22.731949+09:00",
      "따돌린다 시간 늘려 민주노총 중국 우매한 추격 노동 위원장"
+    ],
+    [
+     "2026-10-02T05:10:24.654711+09:00",
+     "활용 보물 호남반도체 하수처리수"
+    ],
+    [
+     "2026-10-02T05:10:24.654711+09:00",
+     "가꿔요 키우며 자립의 토마토 유리온실서"
+    ],
+    [
+     "2026-10-02T05:10:24.654711+09:00",
+     "뉴욕증시 SK하이닉스 상승 급등에도 국채금리"
+    ],
+    [
+     "2026-10-02T05:10:24.654711+09:00",
+     "이상 사망 원전 2기는 산재 8기 3명"
     ]
    ],
    "seen_urls": [
-    "https://www.topstarnews.net/news/articleView.html?idxno=16231270",
-    "https://www.dailian.co.kr/news/view/1696354/?sc=Naver",
-    "https://www.investchosun.com/site/data/html_dir/2026/09/30/2026093080123.html",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609281843160320109133",
-    "https://www.investchosun.com/site/data/html_dir/2026/10/01/2026100180001.html",
-    "https://www.investchosun.com/site/data/html_dir/2026/10/01/2026100180003.html",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609281511149000108061",
     "https://weekly.donga.com/3/all/11/6402757/1",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609301006303600104517",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609301612049880101073",
@@ -1644,16 +1649,16 @@
     "https://www.mt.co.kr/industry/2026/10/02/2026100119441370555",
     "https://www.donga.com/news/Economy/article/all/20261002/134772287/2",
     "https://www.hankookilbo.com/news/article/A2026100114410000544?did=NA",
-    "https://www.mediapen.com/news/view/1127409"
+    "https://www.mediapen.com/news/view/1127409",
+    "https://www.seoul.co.kr/news/economy/industry/2026/10/02/20261002031008?wlog_tag3=naver",
+    "https://www.seoul.co.kr/news/economy/industry/2026/10/02/20261002029002?wlog_tag3=naver",
+    "https://www.nocutnews.co.kr/news/6586071",
+    "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/10/02/20261002019010?wlog_tag3=naver",
+    "https://www.nongmin.com/article/20260930500414",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000019246&cp=nv",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=321093"
    ],
    "seen_titles": [
-    "미국증시혼조마감,장기금리급등에도나스닥지킨AI와반도체투자심...",
-    "단일종목레버리지에데인ETF시장,개선방안은",
-    "[Invest]가이드라인나왔어도'감감무소식'…중복상장피해해외상장힘...",
-    "[더벨][SKT정재헌호출범1년]위기수습탁월했던구원투수,사업성과...",
-    "[Invest]亞딜리스트유출·합병설·스타딜메이커퇴사…격동의글로벌...",
-    "[Invest]“돈더줘야팝니다”…흔들리는PEF‘공개매수→상폐’공식",
-    "[더벨][thebellnote]SK하이닉스의'본질'",
     "검색없이쇼핑하고호텔예약도척척…일상생활AI비서메타‘뮤즈...",
     "[더벨]SK인텔릭스,웰니스로봇협의체구축추진",
     "[더벨][현장줌인]퓨처플레이,스타트업채용박람회로'밸류업지원'...",
@@ -3146,10 +3151,17 @@
     "메모리'더블호재'…삼전닉스실적날개",
     "“연말연초증시강세가능성…‘전력’등주도주미리챙겨야”",
     "[단독]민주노총위원장\"노동시간늘려중국추격따돌린다?우매한생...",
-    "[美증시특징주]반도체,마이크론훈풍·국채수익률급락에강세…SK하..."
+    "[美증시특징주]반도체,마이크론훈풍·국채수익률급락에강세…SK하...",
+    "정재헌SKTCEO“믿음1년만에되찾아…뜻깊고무겁다”",
+    "마이크론‘깜짝실적’에삼전닉스‘두근’…거품론꺼질까",
+    "28년까지없어서못판다…'메모리슈퍼사이클'삼전닉스기대↑",
+    "‘보물’된하수처리수…호남반도체‘활용’",
+    "[치유산업]“유리온실서토마토키우며자립의꿈가꿔요”",
+    "[속보]국채금리급등에도SK하이닉스5.08%↑…뉴욕증시상승",
+    "[출근길포인트]美원전8기중2기는K-원전···산재사망연3명이상..."
    ],
    "initialized": true,
-   "last_run": "2026-10-02T05:05:19.209509+09:00"
+   "last_run": "2026-10-02T05:10:24.654711+09:00"
   }
  },
  "press_names": {
