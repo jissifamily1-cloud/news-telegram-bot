@@ -1074,18 +1074,13 @@
     [
      "2026-10-01T12:45:23.159595+09:00",
      "가을야구 두산 4위까지 확정 내친김에"
+    ],
+    [
+     "2026-10-01T12:55:16.564520+09:00",
+     "60만달러어치가 페폰스 헬스 토큰 줄어 힘스앤허스"
     ]
    ],
    "seen_urls": [
-    "https://www.datasom.co.kr/news/articleView.html?idxno=210157",
-    "https://www.newsworker.co.kr/news/articleView.html?idxno=506579",
-    "https://www.m-economynews.com/news/article.html?no=71191",
-    "https://www.insight.co.kr/news/575922",
-    "http://www.metroseoul.co.kr/article/20260930500255",
-    "http://www.globalepic.co.kr/view.php?ud=20260930140304287048439a4874_29",
-    "https://www.mt.co.kr/industry/2026/09/30/2026093013232716551",
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=366348",
-    "https://www.dailian.co.kr/news/view/1696254/?sc=Naver",
     "http://www.popcornnews.net/news/articleView.html?idxno=134486",
     "https://www.hankyung.com/article/202609304612i",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=209022",
@@ -2576,18 +2571,18 @@
     "https://www.newscj.com/news/articleView.html?idxno=3437039",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610011227446290136",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=278035",
-    "https://www.newsq.co.kr/news/articleView.html?idxno=500323"
+    "https://www.newsq.co.kr/news/articleView.html?idxno=500323",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=728619",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=230102",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3710463",
+    "http://www.sisafocus.co.kr/news/articleView.html?idxno=365686",
+    "http://www.economytalk.kr/news/articleView.html?idxno=424424",
+    "https://www.etnews.com/20261001000265",
+    "https://www.dailysecu.com/news/articleView.html?idxno=208672",
+    "https://tk.newdaily.co.kr/site/data/html/2026/10/01/2026100100202.html",
+    "https://www.tokenpost.kr/news/blockchain/416896"
    ],
    "seen_titles": [
-    "국세수입,추경보다63.2조원더걷힌다…절반이상은법인세",
-    "솔리다임美상장루머에출렁인SK하이닉스…증권가는\"단기우려과도...",
-    "경찰,여성1인가구밀집지역순찰강화...드론45대·순찰로봇투입",
-    "\"우린딸이름도같아\"이재용회장이공개한젠슨황과의세가지공통...",
-    "증권가“4분기에도변동성장세”…반도체실적주목",
-    "리사수·이재용회장,2차회동추진",
-    "홍선근시대회장\"AI산업은복합적생태계…시너지내는협력필수\"",
-    "SKT,KCSI1위탈환…3대고객만족도조사'그랜드슬램'달성",
-    "SKT정재헌\"개인정보보호는고객신뢰출발점\"…AI시대보호원칙강...",
     "SK케미칼,MSCIESG평가'AAA'최고등급...화학산업군국내유일",
     "“갈아타기어려워진시대…가격비슷하면큰집사야”[집코노미박람...",
     "미국에서시작된렌터카직영판매,롯데렌탈도도입",
@@ -4078,10 +4073,19 @@
     "SKT·카카오·KT,이달'모두의AI'첫선…1500만이용자조준",
     "[테크NOW]SKAX",
     "U.S.HouseChinaPanelUrgesScrutinyofDeepeningKorea-ChinaTies",
-    "가을야구확정두산,내친김에4위까지?[프로야구]"
+    "가을야구확정두산,내친김에4위까지?[프로야구]",
+    "마이크론역대최대실적…삼성·SK하이닉스도기대감",
+    "한국맥도날드,군장병에햄버거600인분전달...국군의날응원",
+    "국세수입478조6000억원전망…전년대비104조7000억원증가",
+    "솔리다임美상장설에입연SK하이닉스…\"주주가치최우선\"",
+    "[전망]삼전닉스,3분기최대실적전망…4분기HBM4기대",
+    "ADT캡스,KCSI무인경비부문1위…AI·데이터기반서비스확대",
+    "ADT캡스,2026KCSI무인경비부문1위선정",
+    "영진전문대,수시1차‘1만3896명지원’…공학계열49%증가",
+    "[로빈후드온체인]힘스앤허스헬스토큰60만달러어치가줄어...페폰스..."
    ],
    "initialized": true,
-   "last_run": "2026-10-01T12:50:25.581147+09:00"
+   "last_run": "2026-10-01T12:55:16.564520+09:00"
   }
  },
  "press_names": {
