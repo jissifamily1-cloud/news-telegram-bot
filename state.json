@@ -866,13 +866,13 @@
     [
      "2026-10-02T20:05:20.265575+09:00",
      "넘는다 구글 데이터센터 여는 전력난 시대 부지 한계 우주"
+    ],
+    [
+     "2026-10-02T20:15:26.200553+09:00",
+     "유치전 셔틀버스 영재학교 대학까지 3곳 올해 영재 달아오르는"
     ]
    ],
    "seen_urls": [
-    "https://it.chosun.com/news/articleView.html?idxno=2023092171269",
-    "https://www.ibabynews.com/news/articleView.html?idxno=154900",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491991",
-    "http://www.jndn.com/article.php?aid=1790849236440614001",
     "https://www.newspim.com/news/view/20261001001387",
     "https://www.hidomin.com/news/articleView.html?idxno=723421",
     "https://www.cwn.kr/news/articleView.html?idxno=58088",
@@ -2368,13 +2368,13 @@
     "https://www.ibabynews.com/news/articleView.html?idxno=154966",
     "https://www.ajunews.com/view/20261002195525952",
     "https://www.hankyung.com/article/202610029426i",
-    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5222814"
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5222814",
+    "https://www.koreaherald.com/article/10892308",
+    "http://www.yonhapnewstv.co.kr/news/MYH202610022010226ui",
+    "https://www.ppss.kr/news/articleView.html?idxno=313811",
+    "https://www.joongang.co.kr/article/25466758"
    ],
    "seen_titles": [
-    "[ClosingMarket]MicronSparksKOSPIReversalAbove6,970",
-    "'모두의AI실험실'경진대회390개아이디어모여…12팀본선행",
-    "마이크론호실적에'칠천피'목전…코스닥4%급등",
-    "국회정무위,폴싱어엘리엇회장국감증인채택",
     "김종민의원\"대형개인정보유출90%는안전조치의무위반\"",
     "[금융경제트렌드]신혼부부보금자리론소득기준완화…부부중1인...",
     "[코스피지수선물옵션]SK이노베이션·S-Oil하락했는데…삼성전자·SK...",
@@ -3870,10 +3870,14 @@
     "[제약·바이오트렌드]조아제약,성장기어린이건강기능식품'잘크톤...",
     "[인문자의피지컬AI이야기|인간.문화.자연]AI의심장은반도체지만...",
     "기업지배구조의신규리스크…오너의이혼[화우의가사분쟁솔루션]",
-    "부지·전력난한계넘는다…'우주데이터센터'시대여는구글"
+    "부지·전력난한계넘는다…'우주데이터센터'시대여는구글",
+    "KoreaInvestmentSecuritiestobuy400billionwonworthofSKshares",
+    "최태원,9천억원SK지분매각…\"재산분할대비\"",
+    "최태원,SK지분9440억원매각…노소영재산분할액과동일",
+    "”대학까지셔틀버스”달아오르는영재유치전…올해영재학교3곳추..."
    ],
    "initialized": true,
-   "last_run": "2026-10-02T20:10:25.854715+09:00"
+   "last_run": "2026-10-02T20:15:26.200553+09:00"
   }
  },
  "press_names": {
