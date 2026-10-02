@@ -194,13 +194,21 @@
     [
      "2026-10-03T08:05:19.049198+09:00",
      "포인트 점유율 추격 격차 SK하이닉스 D램 2위 마이크론 턱밑"
+    ],
+    [
+     "2026-10-03T08:15:23.673234+09:00",
+     "달러 5000억 신중론에 가능성 담보 엔비디아 월가 대출안 조건 강화"
+    ],
+    [
+     "2026-10-03T08:15:23.673234+09:00",
+     "주주반발 상장설 솔리다임 자금조달 SK하이닉스 딜레마"
+    ],
+    [
+     "2026-10-03T08:15:23.673234+09:00",
+     "무료 SKT 국민 KT 모두의 첫선 카카오 10월"
     ]
    ],
    "seen_urls": [
-    "https://www.donga.com/news/Economy/article/all/20261001/134771008/2",
-    "https://www.donga.com/news/Economy/article/all/20261001/134771097/2",
-    "https://www.chosun.com/economy/tech_it/2026/10/02/2TO5P2FXENDWZG3DMJ46TCK7P4/",
-    "https://www.donga.com/news/Economy/article/all/20261001/134771000/2",
     "https://www.donga.com/news/Economy/article/all/20261001/134770995/2",
     "https://www.chosun.com/politics/politics_general/2026/10/02/7Q67XV6MJ5GIZFFNIQVRNL3J3Y/",
     "http://www.fieldnews.kr/news/articleView.html?idxno=31950",
@@ -1696,13 +1704,13 @@
     "https://www.gukjenews.com/news/articleView.html?idxno=3712367",
     "https://h21.hani.co.kr/arti/politics/politics_general/59983.html",
     "https://it.chosun.com/news/articleView.html?idxno=2023092171211",
-    "https://zdnet.co.kr/view/?no=20261002134906"
+    "https://zdnet.co.kr/view/?no=20261002134906",
+    "https://view.asiae.co.kr/article/2026100216420352538",
+    "https://www.g-enews.com/view.php?ud=202610020811257708fda4f5ab74_1",
+    "https://www.sentv.co.kr/article/view/sentv202610020099",
+    "https://www.sentv.co.kr/article/view/sentv202610020100"
    ],
    "seen_titles": [
-    "‘풍향계’마이크론매출5배뛰며최대실적…삼전닉스도날까",
-    "\"반도체업황긍정적이지만\"…삼성전자·SK하이닉스대신'소부장'쏠리...",
-    "[중앙시평]SK,그리고안성과고삼:반도체와상생",
-    "‘반도체풍향계’마이크론,영업익1097%증가한59조원",
     "마이크론1년새5배매출…삼전-하닉도186조영업익전망",
     "SK하이닉스,솔리다임美상장설에“주주가치최우선”",
     "“주주가치우선”솔리다임상장한발뺀하이닉스",
@@ -3198,10 +3206,14 @@
     "이상일용인시장,함평군대표단과반도체클러스터현장시찰…산업협...",
     "메가프로젝트,단군보시기에숭고할까",
     "우리아파트·빌라인터넷장비전기료도보상받을수있을까",
-    "마이크론,D램2위SK하이닉스턱밑추격…점유율격차1%포인트"
+    "마이크론,D램2위SK하이닉스턱밑추격…점유율격차1%포인트",
+    "\"2028년엔더부족\"…마이크론까지'공급자우위',메모리상승국면계...",
+    "엔비디아5000억달러칩담보대출안,월가신중론에조건강화가능성",
+    "SK하이닉스,솔리다임美상장설…'주주반발'·'자금조달'딜레마",
+    "SKT·카카오·KT,전국민무료‘모두의AI’10월첫선"
    ],
    "initialized": true,
-   "last_run": "2026-10-03T08:10:23.389525+09:00"
+   "last_run": "2026-10-03T08:15:23.673234+09:00"
   }
  },
  "press_names": {
