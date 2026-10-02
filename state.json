@@ -190,10 +190,13 @@
     [
      "2026-10-03T07:20:23.704014+09:00",
      "대덕전자 SK하이닉 담고 쓸어 삼성전자 삼성전기"
+    ],
+    [
+     "2026-10-03T07:45:22.077556+09:00",
+     "삼전 빼면 역대 3분기 하이닉스 이익이라더니"
     ]
    ],
    "seen_urls": [
-    "https://basketkorea.com/news/newsview.php?ncode=1065622365577538",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000019189&cp=nv",
     "https://www.newsis.com/view/NISX20261001_0003810947",
     "https://www.joongang.co.kr/article/25466546",
@@ -1692,10 +1695,10 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068240",
     "https://www.mt.co.kr/industry/2026/10/03/2026100215064489840",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261003.99099000588",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492416"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492416",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=611888"
    ],
    "seen_titles": [
-    "[증시시황]'K-반도체'훈풍에살아난투자심리…코스피6,971선회복·코...",
     "SK하이닉스“솔리다임美상장확정안돼”진화나서",
     "마이크론“내후년도수급빠듯”…삼전닉스초호황청신호",
     "[최송목의CEO전략]억만장자들은왜전용기를탈까",
@@ -3194,10 +3197,11 @@
     "[2026국감-IT]티빙최주희,6일·13일연달아증인대…윤상현제외",
     "두둑해진곳간에주주환원관심↑…삼전닉스\"주주가치최우선\"",
     "\"삼전닉스ETF출시때투자자보호대신시장확대만급급\"",
-    "[주간거래소기관]삼성전기·대덕전자쓸어담고…삼성전자·SK하이닉..."
+    "[주간거래소기관]삼성전기·대덕전자쓸어담고…삼성전자·SK하이닉...",
+    "[경제전망대]\"역대최대이익이라더니\"…삼전·하이닉스빼면3분기상..."
    ],
    "initialized": true,
-   "last_run": "2026-10-03T07:40:23.242990+09:00"
+   "last_run": "2026-10-03T07:45:22.077556+09:00"
   }
  },
  "press_names": {
