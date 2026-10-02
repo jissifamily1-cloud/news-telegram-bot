@@ -150,14 +150,21 @@
     [
      "2026-10-03T01:15:22.868632+09:00",
      "청춘의 불안에 최하위 초상 갇힌 30대 만족도"
+    ],
+    [
+     "2026-10-03T01:50:26.280804+09:00",
+     "마이크론 올라왔다 SK하이닉스와 치고 점유율 D램"
+    ],
+    [
+     "2026-10-03T01:50:26.280804+09:00",
+     "월가 GPU 엔비디아와 담보가치에 기싸움"
+    ],
+    [
+     "2026-10-03T01:50:26.280804+09:00",
+     "재산 분당에 2채 아파트 김지용 38억원 신고"
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492037",
-    "http://andongmbc.co.kr/adboard/NewsView85062",
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=814805",
-    "https://www.edaily.co.kr/News/Read?newsId=06914246645608656&mediaCodeNo=257",
-    "http://www.ujeil.com/news/articleView.html?idxno=392955",
     "http://www.ujeil.com/news/articleView.html?idxno=392956",
     "https://www.edaily.co.kr/News/Read?newsId=06924086645608656&mediaCodeNo=257",
     "https://www.edaily.co.kr/News/Read?newsId=06917526645608656&mediaCodeNo=257",
@@ -1652,14 +1659,14 @@
     "http://www.kjdaily.com/article.php?aid=1790956156688180276",
     "https://www.chosun.com/national/court_law/2026/10/03/7KXMOJUEJZC7JK364J5JNZMDCM/",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2324699",
-    "https://news.cpbc.co.kr/article/1176105?division=NAVER"
+    "https://news.cpbc.co.kr/article/1176105?division=NAVER",
+    "https://www.donga.com/news/Sports/article/all/20261002/134779027/2",
+    "https://www.donga.com/news/Economy/article/all/20261002/134779062/2",
+    "http://www.kjdaily.com/article.php?aid=1790959640688182276",
+    "https://www.hankyung.com/article/202610031370i",
+    "https://www.donga.com/news/Politics/article/all/20261002/134779182/2"
    ],
    "seen_titles": [
-    "AIslowdowndebategrowsasMicronearningssignalstrongchipdemand",
-    "SK하이닉스·삼성전자거래대금7조7천억원…반도체주상위권",
-    "수소교통복합기지내년초착공정상추진",
-    "[공시]피에스케이홀딩스·씨싸이트'거래정지예고',아스플로·애니메...",
-    "[표]10월1일매매동향...외국인·기관,삼성전기동반'순매수'",
     "영주일자리박람회..SK스페셜티·베어링아트등",
     "[현장]AI가투자상품집어주는시대…황근호KAIST교수\"책임·통제함...",
     "[포토]김재희,핀을향하여",
@@ -3154,10 +3161,15 @@
     "SK하이닉스·삼성전자레버리지ETF엇갈려…반도체ETF약세",
     "수장없이첫발뗀중수청·공소청…수뇌부7명중5명이‘친여’",
     "이상일용인시장,함평군과SK하이닉스반도체클러스터현장찾아",
-    "[시사천국]30대삶만족도최하위…불안에갇힌청춘의초상"
+    "[시사천국]30대삶만족도최하위…불안에갇힌청춘의초상",
+    "아이돌등장한듯…‘페이커’무대올라오자관중석뒤집어졌다",
+    "최태원,‘이혼재산분할’SK지분9440억매각결정",
+    "마이크론치고올라왔다…SK하이닉스와D램점유율1%P차",
+    "엔비디아와월가,GPU담보가치에기싸움[박신영의개장전요것만]",
+    "김지용,재산38억원신고…분당에아파트2채"
    ],
    "initialized": true,
-   "last_run": "2026-10-03T01:45:23.878267+09:00"
+   "last_run": "2026-10-03T01:50:26.280804+09:00"
   }
  },
  "press_names": {
