@@ -398,11 +398,17 @@
     [
      "2026-10-02T23:10:23.986118+09:00",
      "최태원 9440억 판다 지분 재산분할"
+    ],
+    [
+     "2026-10-02T23:20:31.945320+09:00",
+     "1조 삼성전자 SK하이닉스 반도체주에 거래"
+    ],
+    [
+     "2026-10-02T23:20:31.945320+09:00",
+     "만에 5거래일 회복 7000선 강보합 마감 코스피"
     ]
    ],
    "seen_urls": [
-    "https://www.s-journal.co.kr/news/articleView.html?idxno=44144",
-    "https://news.jtbc.co.kr/article/NB12320935?influxDiv=NAVER",
     "https://www.ekn.kr/web/view.php?key=20261001029341388",
     "http://www.cctimes.kr/news/articleView.html?idxno=930375",
     "https://www.cstimes.com/news/articleView.html?idxno=722690",
@@ -1900,11 +1906,11 @@
     "https://www.thedailypost.kr/news/articleView.html?idxno=115997",
     "https://www.moneystorm.kr/news/articleView.html?idxno=7027",
     "https://www.topstarnews.net/news/articleView.html?idxno=16235479",
-    "http://www.00news.co.kr/news/articleView.html?idxno=106968"
+    "http://www.00news.co.kr/news/articleView.html?idxno=106968",
+    "http://www.kjdaily.com/article.php?aid=1790950518688178276",
+    "http://www.newswatch.kr/news/articleView.html?idxno=81414"
    ],
    "seen_titles": [
-    "국가반도체클러스터기반강화속도",
-    "삼성전자·SK하이닉스10월첫거래일동반상승",
     "한전-SK하이닉스‘반도체산단전력공급’협약",
     "SK하이닉스,솔리다임상장설에주주보호강조…\"확정된사항없어\"",
     "두산에너빌리티,베트남서올해만5건3조8700억수주…오몬3발전소84...",
@@ -3402,10 +3408,12 @@
     "하이브랩,대규모프리IPO투자유치…기업가치1000억달성",
     "[이슈추적]최태원회장지분매각에결정적방패역할하는SK자사주24.8%",
     "미국증시고용둔화에장초반급등…금리·유가하락에AI반도체강세",
-    "최태원,9440억재산분할위해SK지분판다"
+    "최태원,9440억재산분할위해SK지분판다",
+    "삼성전자·SK하이닉스등반도체주에9.1조거래",
+    "[머니워치]코스피,5거래일만에7000선회복…강보합마감"
    ],
    "initialized": true,
-   "last_run": "2026-10-02T23:15:27.700954+09:00"
+   "last_run": "2026-10-02T23:20:31.945320+09:00"
   }
  },
  "press_names": {
