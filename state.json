@@ -485,12 +485,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008777712&plink=ORI&cooper=NAVER",
-    "https://www.newsis.com/view/NISX20261001_0003810017",
-    "https://www.etoday.co.kr/news/view/2631264",
-    "https://www.etoday.co.kr/news/view/2631261",
-    "https://www.dt.co.kr/article/12086853",
-    "https://biz.sbs.co.kr/article_hub/20000337716?division=NAVER",
     "https://www.asiatime.co.kr/article/20261001500042",
     "https://www.econovill.com/news/articleView.html?idxno=752373",
     "https://www.wikitree.co.kr/articles/1163191",
@@ -1984,15 +1978,15 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610020005&t=NN",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065569812920923",
     "https://www.etnews.com/20261001000501",
-    "https://www.newsway.co.kr/news/view?ud=2026100208325254435"
+    "https://www.newsway.co.kr/news/view?ud=2026100208325254435",
+    "https://www.ngetnews.com/news/articleView.html?idxno=553944",
+    "https://www.yna.co.kr/view/AKR20261002031300008?input=1195m",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1726499",
+    "https://www.mt.co.kr/stock/2026/10/02/2026100208473014474",
+    "https://www.newsway.co.kr/news/view?ud=2026100208445722005",
+    "https://www.yna.co.kr/view/AKR20261002029900063?input=1195m"
    ],
    "seen_titles": [
-    "[친절한경제]코스피급락에\"세계최악\"…폭락원인은?",
-    "정재헌SKT대표\"고객만족도1위,신뢰회복완성아냐…더나은서비스...",
-    "현대차,‘플레오스커넥트’아이디어공모전…대상에‘창밖동화’",
-    "SKT,자급제용‘에어’1주년기념특가프로모션…100GB요금제월1만...",
-    "마이크론호실적에도삼전·하닉약세…코스피6800선하락출발",
-    "뉴욕증시,물가둔화에도장기국채금리부담에혼조마감",
     "SKT‘에어’출시1년…포인트96%사용‘호응’",
     "연쇄신뢰회복마'정재헌SKTCEO,3대고객만족도1위에도아직배고픈...",
     "코스피6814.49출발…반도체투톱동반약세",
@@ -3486,10 +3480,16 @@
     "\"우주AI칩발사도,유럽판매대박도안먹혔다\"…테슬라·스페이스X...",
     "SK쉴더스,AWS'위협탐지및대응'보안컴피턴시획득",
     "석달만에'사상최대'…'60조'마이크론,다음은'190조'삼전닉스",
-    "HBM다음은eSSD…AI메모리투자전쟁속솔리다임의'성장방정식'"
+    "HBM다음은eSSD…AI메모리투자전쟁속솔리다임의'성장방정식'",
+    "통신3사,나란히국감집결…해킹후'보안성적표'따진다",
+    "신한운용'SOL글로벌DRAM반도체플러스'ETF7일상장",
+    "[원자재시황]금·유가동반상승…뉴욕증시강보합",
+    "SG,삼성전자온양캠퍼스에에코스틸아스콘1차시공완료",
+    "SK쉴더스,AWS'위협탐지·대응'보안컴피턴시국내최초획득",
+    "'아산탕정2도시개발사업'착공…주택2만1천35가구공급"
    ],
    "initialized": true,
-   "last_run": "2026-10-02T08:55:17.983930+09:00"
+   "last_run": "2026-10-02T09:00:38.932834+09:00"
   }
  },
  "press_names": {
