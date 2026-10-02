@@ -234,11 +234,13 @@
     [
      "2026-10-03T08:40:23.684560+09:00",
      "국감 서울 개편 집값 3대 국토위 쟁점 LH 건설안전"
+    ],
+    [
+     "2026-10-03T08:50:24.765732+09:00",
+     "경제성 계약 세미나허브 교육 시뮬레이션 PPA 정산 재생에너지"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=01505526645608984&mediaCodeNo=257",
-    "https://www.mt.co.kr/industry/2026/10/02/2026100119441370555",
     "https://www.donga.com/news/Economy/article/all/20261002/134772287/2",
     "https://www.hankookilbo.com/news/article/A2026100114410000544?did=NA",
     "https://www.mediapen.com/news/view/1127409",
@@ -1736,11 +1738,11 @@
     "http://www.econonews.co.kr/news/articleView.html?idxno=445217",
     "https://www.g-enews.com/view.php?ud=202610030707137268fda4f5ab74_1",
     "https://www.tokenpost.kr/news/insights/417798",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1411928"
+    "https://daily.hankooki.com/news/articleView.html?idxno=1411928",
+    "https://www.seoulfn.com/news/articleView.html?idxno=639314",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491697"
    ],
    "seen_titles": [
-    "마이크론,33조투자폭탄던지며로봇두뇌선점…삼성·SK판가방어벽...",
-    "원유는가벼워지는데디젤은말라간다…중동포화속곪아터진석유의...",
     "마이크론'깜짝실적'에도美금리5.3%…반도체강세,삼전·하닉외인...",
     "'자사주'막바지…롤러코스피다시타나",
     "스페이스X넘는역대급IPO될까…앤스로픽,'11월중순'상장추진",
@@ -3238,10 +3240,12 @@
     "최태원,SK㈜지분9440억매각…재산분할자금마련",
     "AI낙관론에글로벌증시펀드2주째순유입…기술주'숨고르기'속자금...",
     "[온체인주식선물]삼성전자,정규장종가보다1.76%웃돈",
-    "건설안전·서울집값·LH개편…국토위국감'3대쟁점'"
+    "건설안전·서울집값·LH개편…국토위국감'3대쟁점'",
+    "[뉴욕증시]고용둔화에힘받는금리동결론,엔비디아'신고가'···금...",
+    "세미나허브,재생에너지PPA계약·정산·경제성시뮬레이션교육"
    ],
    "initialized": true,
-   "last_run": "2026-10-03T08:45:27.232490+09:00"
+   "last_run": "2026-10-03T08:50:24.765732+09:00"
   }
  },
  "press_names": {
