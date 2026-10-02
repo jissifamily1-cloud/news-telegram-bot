@@ -518,11 +518,17 @@
     [
      "2026-10-02T21:45:22.859250+09:00",
      "개인 외국인 10월 순매도 1위는 SK하이닉스 2일 매매동향"
+    ],
+    [
+     "2026-10-02T22:10:24.484218+09:00",
+     "중수청 폐지 알아보니 공소청 뭘까 검찰청 이유는"
+    ],
+    [
+     "2026-10-02T22:10:24.484218+09:00",
+     "개입이냐 번에 사용자 지원이냐 상견례 공방"
     ]
    ],
    "seen_urls": [
-    "https://www.nspna.com/news/?newsid=830350",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1726480",
     "https://www.kdpress.co.kr/news/articleView.html?idxno=209036",
     "http://www.cctimes.kr/news/articleView.html?idxno=930385",
     "https://www.vegannews.co.kr/news/article.html?no=390185",
@@ -2020,11 +2026,11 @@
     "https://www.tournews21.com/news/articleView.html?idxno=144860",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492408",
     "http://www.metroseoul.co.kr/article/20261002500178",
-    "http://www.worktoday.co.kr/news/articleView.html?idxno=90014"
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=90014",
+    "https://www.wikitree.co.kr/articles/1163655",
+    "http://www.rightknow.co.kr/news/articleView.html?idxno=34883"
    ],
    "seen_titles": [
-    "반도체기술유출추적보도이후…정부“처벌실효성강화”",
-    "\"AI시대글로벌특허경쟁,대응방안모색\"…지식재산처,'K-AI특허전략...",
     "‘칩풍향계’마이크론역대최대분기실적",
     "[여기는안동]영주시일자리박람회열려…56개업체참가외",
     "[현장의정리포트]수원시의회,장애인문화예술인발전동행하겠다",
@@ -3522,10 +3528,12 @@
     ".함평군,용인반도체클러스터찾아'반도체생태계'해법찾는다",
     "[표]10월2일매매동향...외국인·개인,순매도1위는\"SK하이닉스\"",
     "용인특례시-구마모토시,반도체산업교류본격화",
-    "최태원,SK㈜지분2.3%매각…9440억원확보"
+    "최태원,SK㈜지분2.3%매각…9440억원확보",
+    "공소청중수청뜻알아보니…검찰청폐지이유는뭘까?",
+    "[RTK만평]지원이냐개입이냐…상견례한번에'사용자'공방"
    ],
    "initialized": true,
-   "last_run": "2026-10-02T22:05:19.988633+09:00"
+   "last_run": "2026-10-02T22:10:24.484218+09:00"
   }
  },
  "press_names": {
