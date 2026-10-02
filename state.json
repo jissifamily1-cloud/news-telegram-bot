@@ -166,16 +166,33 @@
     [
      "2026-10-03T07:10:23.414523+09:00",
      "엔비디아 시총 최고가 대만 사상 TSMC 경신 오르며"
+    ],
+    [
+     "2026-10-03T07:20:23.704014+09:00",
+     "고용 미국증시 강세 금리 둔화에 테슬라 상승 재반등에도 반도체"
+    ],
+    [
+     "2026-10-03T07:20:23.704014+09:00",
+     "1일 6만9000원 고지 무제한 최적요금제 시행 2만원 4만9000원"
+    ],
+    [
+     "2026-10-03T07:20:23.704014+09:00",
+     "윤상현 최주희 제외 증인대 6일 13일 티빙 연달아"
+    ],
+    [
+     "2026-10-03T07:20:23.704014+09:00",
+     "주주환원 주주가치 곳간에 관심 두둑해진 삼전닉스 최우선"
+    ],
+    [
+     "2026-10-03T07:20:23.704014+09:00",
+     "출시 보호 확대만 투자자 시장 급급 삼전닉스 대신 ETF"
+    ],
+    [
+     "2026-10-03T07:20:23.704014+09:00",
+     "대덕전자 SK하이닉 담고 쓸어 삼성전자 삼성전기"
     ]
    ],
    "seen_urls": [
-    "https://www.cbci.co.kr/news/articleView.html?idxno=611685",
-    "https://www.newsis.com/view/NISX20261001_0003809987",
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077094",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=611638",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000019184&cp=nv",
-    "https://www.joongang.co.kr/article/25466524",
-    "https://m.skyedaily.com/news_view.html?ID=312329",
     "https://basketkorea.com/news/newsview.php?ncode=1065622365577538",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000019189&cp=nv",
     "https://www.newsis.com/view/NISX20261001_0003810947",
@@ -1668,16 +1685,16 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=278592",
     "https://www.ajunews.com/view/20261002163027495",
     "https://www.newspim.com/news/view/20261002000796",
-    "http://www.beyondpost.co.kr/view.php?ud=2026100306503956792aaae0046f_30"
+    "http://www.beyondpost.co.kr/view.php?ud=2026100306503956792aaae0046f_30",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=611994",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16235705",
+    "https://www.imaeil.com/page/view/2026100307154356508",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068240",
+    "https://www.mt.co.kr/industry/2026/10/03/2026100215064489840",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261003.99099000588",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492416"
    ],
    "seen_titles": [
-    "취임1년정재헌사장“답은고객에있었다”",
-    "[증시프리즘]\"마이크론실적호조가당긴반도체폭승\"…삼성전자·SK...",
-    "개막부터우승후보격돌…원주DB,안방서첫승노린다",
-    "배팅잘한최원준,베팅잘한KT",
-    "[마켓포커스]\"피크아웃우려비웃었다\"…마이크론깜짝실적에삼전·...",
-    "마이크론역대급실적에도주가주춤…'삼전닉스'는어디로",
-    "[카카오인사전망]②5월14명승진뒤다시짠조직…AI·금융책임자...",
     "[증시시황]'K-반도체'훈풍에살아난투자심리…코스피6,971선회복·코...",
     "SK하이닉스“솔리다임美상장확정안돼”진화나서",
     "마이크론“내후년도수급빠듯”…삼전닉스초호황청신호",
@@ -3170,10 +3187,17 @@
     "\"영업익190조시대\"…삼성·SK,잔치뒤에숨은3가지과제",
     "[주간증시전망]코스피7000선안착시험대…삼성전자실적·美금리가...",
     "[中거인의공급망]①냉각파트너'영유극과기'없으면'화웨이'도없다",
-    "엔비디아,대만TSMC,사상최고가경신...엔비디아,1.34%오르며시총..."
+    "엔비디아,대만TSMC,사상최고가경신...엔비디아,1.34%오르며시총...",
+    "코스피7000선회복…SK하이닉스·LG에너지솔루션↑,삼성바이오로직스...",
+    "미국증시,고용둔화에상승…금리재반등에도반도체·테슬라강세",
+    "최적요금제고지1일시행…무제한6만9000원→4만9000원,월2만원",
+    "[2026국감-IT]티빙최주희,6일·13일연달아증인대…윤상현제외",
+    "두둑해진곳간에주주환원관심↑…삼전닉스\"주주가치최우선\"",
+    "\"삼전닉스ETF출시때투자자보호대신시장확대만급급\"",
+    "[주간거래소기관]삼성전기·대덕전자쓸어담고…삼성전자·SK하이닉..."
    ],
    "initialized": true,
-   "last_run": "2026-10-03T07:15:22.982068+09:00"
+   "last_run": "2026-10-03T07:20:23.704014+09:00"
   }
  },
  "press_names": {
