@@ -74,10 +74,13 @@
     [
      "2026-10-04T05:15:24.811056+09:00",
      "2백조원 솔리다임의 몸값 빅피처는 부활 화려한 SK하이닉스"
+    ],
+    [
+     "2026-10-04T05:40:25.857231+09:00",
+     "경제 외화내빈 실질임금 감소 동반 소비 한국"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261002000058",
     "https://www.ajunews.com/view/20261002080122014",
     "https://www.mt.co.kr/economy/2026/10/02/2026100207130884071",
     "https://news.skbroadband.com/news/articleView.html?idxno=239221",
@@ -1576,10 +1579,10 @@
     "https://www.segye.com/newsView/20261004500646?OutUrl=naver",
     "https://www.nocutnews.co.kr/news/6586813",
     "https://www.etoday.co.kr/news/view/2632266",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=278669"
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=278669",
+    "https://www.ytn.co.kr/_ln/0102_202610040522457137"
    ],
    "seen_titles": [
-    "9월소비자물가2.9%상승·예상치부합…근원물가2.8%↑",
     "[속보]국채금리진정에뉴욕증시롤러코스터…3대지수'강보합',삼...",
     "\"삼전닉스도오를까\"…마이크론사상최대실적에반도체주훈풍[1분브...",
     "뉴욕증시,국채금리등락에롤러코스터…강보합마감",
@@ -3078,10 +3081,11 @@
     "13만원무제한믿었는데…1588고객센터1시간에7128원샌다[숫자뒤의...",
     "뚫릴까막힐까…코스피'110조매물대'를읽는방법[경제적본능]",
     "산업부국감핵심쟁점은⋯대미투자검증·메가프로젝트공방예고",
-    "'몸값2백조원'솔리다임의화려한부활…SK하이닉스빅피처는"
+    "'몸값2백조원'솔리다임의화려한부활…SK하이닉스빅피처는",
+    "'외화내빈'한국경제...실질임금·소비동반감소"
    ],
    "initialized": true,
-   "last_run": "2026-10-04T05:35:18.718654+09:00"
+   "last_run": "2026-10-04T05:40:25.857231+09:00"
   }
  },
  "press_names": {
