@@ -102,10 +102,13 @@
     [
      "2026-10-03T20:20:24.024522+09:00",
      "방이 공사 용인 속도 한창인데 없어요 반도체클러스터 주거지 배후"
+    ],
+    [
+     "2026-10-03T20:45:21.181709+09:00",
+     "한은 상승 물가 월급은 왕창 찔끔 10월 내외 물가는"
     ]
    ],
    "seen_urls": [
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259260",
     "https://biz.chosun.com/science-chosun/bio/2026/10/02/SKTGSQYGNFG2BMYH6GJUVJQCLU/",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271587&CMPT_CD=P0010",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=364065",
@@ -1604,10 +1607,10 @@
     "https://www.wikitree.co.kr/articles/1163332",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5222928",
     "http://www.newstomato.com/ReadNews.aspx?no=1315617&inflow=N",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2476939"
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2476939",
+    "https://www.segye.com/newsView/20261002507457?OutUrl=naver"
    ],
    "seen_titles": [
-    "美국채금리24년만에최고치찍고진정...뉴욕증시강보합",
     "코스닥달구는소부장·바이오…대형주서중소형주로수급확산",
     "[데스크칼럼]삼성·SK엔25조구걸,내부는8000억돈잔치…한전의기...",
     "독파모중단설에과기정통부장·차관잇단등판…프런티어AI와투트랙...",
@@ -3106,10 +3109,11 @@
     "삼성전자도현대차도아니다…9월외국인이가장많이산주식'1위'어...",
     "용인반도체클러스터공사한창인데\"방이없어요\"…배후주거지'속도...",
     "마이크론,SK하이닉스턱밑추격…D램2위경쟁‘초접전’",
-    "이상일용인시장,함평군과반도체산단조성경험공유"
+    "이상일용인시장,함평군과반도체산단조성경험공유",
+    "내월급은‘찔끔’물가는‘왕창’…한은“10월물가,3%내외상승전..."
    ],
    "initialized": true,
-   "last_run": "2026-10-03T20:40:23.196044+09:00"
+   "last_run": "2026-10-03T20:45:21.181709+09:00"
   }
  },
  "press_names": {
