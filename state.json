@@ -250,11 +250,13 @@
     [
      "2026-10-03T12:55:23.083252+09:00",
      "지갑 발행돼 토큰이 새로 후디 79만달러어치 서클"
+    ],
+    [
+     "2026-10-03T13:30:32.268373+09:00",
+     "개최 스마일 제8회 페스티벌 영주시노인복지관"
     ]
    ],
    "seen_urls": [
-    "https://www.getnews.co.kr/news/articleView.html?idxno=882450",
-    "https://www.slist.kr/news/articleView.html?idxno=770381",
     "https://biz.sbs.co.kr/article_hub/20000337963?division=NAVER",
     "https://www.businessplus.kr/news/articleView.html?idxno=117619",
     "https://www.mt.co.kr/world/2026/10/02/2026100206405949880",
@@ -1752,11 +1754,11 @@
     "http://www.kjdaily.com/article.php?aid=1790999119688185276",
     "https://www.tokenpost.kr/news/blockchain/417846",
     "https://www.fnnews.com/news/202610021404176159",
-    "https://www.fnnews.com/news/202610031102542402"
+    "https://www.fnnews.com/news/202610031102542402",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=366625",
+    "https://www.hidomin.com/news/articleView.html?idxno=723519"
    ],
    "seen_titles": [
-    "[어두워진하반기증권사전망]중소형증권사“생존활로좁아진다”",
-    "[소비자분쟁The50㊳]신축아파트하자보수'기다리라'며질질…하자...",
     "美금리발작에도실적이버팀목…코스피,반도체선전기대",
     "[뉴욕증시마감시황]이란폭격설에유가4%급등했는데…SK하이닉스AD...",
     "뉴욕증시,美국채금리등락에강보합마감",
@@ -3254,10 +3256,12 @@
     "SK하이닉스·삼성전자에46조…반도체주거래대금59.6조",
     "[로빈후드온체인]서클토큰이79만달러어치새로발행돼...후디지갑...",
     "삼전·하이닉스18조판개미...증권사훈수는달랐다",
-    "\"하루1조사들이던'큰손'빠진다\"…삼전닉스자사주매입종료에코스..."
+    "\"하루1조사들이던'큰손'빠진다\"…삼전닉스자사주매입종료에코스...",
+    "AI슈퍼사이클,이제'자금조달'본다…HBM업황의새변수",
+    "영주시노인복지관,제8회'스마일페스티벌'개최"
    ],
    "initialized": true,
-   "last_run": "2026-10-03T13:25:18.056966+09:00"
+   "last_run": "2026-10-03T13:30:32.268373+09:00"
   }
  },
  "press_names": {
