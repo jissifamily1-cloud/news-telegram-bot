@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-03T19:35:19.727292+09:00",
-     "주식 1위 현대차도 9월 가장 외국인이 삼성전자도 아니다 많이"
-    ],
-    [
      "2026-10-03T20:20:24.024522+09:00",
      "방이 공사 용인 속도 한창인데 없어요 반도체클러스터 주거지 배후"
     ],
@@ -82,10 +78,13 @@
     [
      "2026-10-04T00:30:37.224044+09:00",
      "명당 주소 2등 당첨 인터넷 1244회 4매 85곳 GS25서 1매 1등 로또 고액"
+    ],
+    [
+     "2026-10-04T01:41:03.971913+09:00",
+     "교통통제 수원 능행차 4일 서울 정조대왕"
     ]
    ],
    "seen_urls": [
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8676337",
     "https://m.sports.naver.com/basketball/article/065/0000302206",
     "http://www.joseilbo.com/news/news_read.php?uid=576730&class=18",
     "https://www.etoday.co.kr/news/view/2631779",
@@ -1584,10 +1583,10 @@
     "https://www.g-enews.com/view.php?ud=202609280920022891906806b77b_1",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=89724",
     "https://www.suwonilbo.kr/view.html?id=L261003233149f932",
-    "https://www.econovill.com/news/articleView.html?idxno=752676"
+    "https://www.econovill.com/news/articleView.html?idxno=752676",
+    "https://www.vegannews.co.kr/news/article.html?no=391197"
    ],
    "seen_titles": [
-    "[더벨]엔트리움,프리IPO추진…'700억몸값'상장채비",
     "소잃고AWS와외양간고치는티빙,국회국정감사역할론급부상",
     "‘좌아하게’라는위기신호,“대통령이고립감을느끼는것같다”:...",
     "[애프터마켓리뷰]알지노믹스,RNA치료플랫폼확장기대감에급등",
@@ -3086,10 +3085,11 @@
     "[김대호진단]반도체열전(60)솔리다임...최태원의승부수",
     "[더페어돋보기]\"외인장바구니뚜렷한온도차\"…4분기지분율상·하위...",
     "[수원화성문화제]“차두고오세요”…능행차에수원도심곳곳교통통...",
-    "1244회로또고액당첨명당85곳주소…인터넷1등1매·GS25서2등4매..."
+    "1244회로또고액당첨명당85곳주소…인터넷1등1매·GS25서2등4매...",
+    "정조대왕능행차4일서울·수원교통통제"
    ],
    "initialized": true,
-   "last_run": "2026-10-04T01:35:19.461554+09:00"
+   "last_run": "2026-10-04T01:41:03.971913+09:00"
   }
  },
  "press_names": {
