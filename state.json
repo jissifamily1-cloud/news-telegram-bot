@@ -253,8 +253,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1697185/?sc=Naver",
-    "https://www.news1.kr/economy/trend/6308440",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570833304687",
     "https://www.newsis.com/view/NISX20261002_0003811903",
     "https://www.it-b.co.kr/news/articleView.html?idxno=90097",
@@ -1752,11 +1750,11 @@
     "https://www.g-enews.com/view.php?ud=2026100407122722712bd56fbc3c_1",
     "https://www.segye.com/newsView/20261002512830?OutUrl=naver",
     "http://www.newsian.co.kr/news/articleView.html?idxno=96495",
-    "https://www.ddaily.co.kr/page/view/2026100309042551702"
+    "https://www.ddaily.co.kr/page/view/2026100309042551702",
+    "http://www.kjdaily.com/article.php?aid=1791068231688203276",
+    "https://www.ekn.kr/web/view.php?key=20261004024462068"
    ],
    "seen_titles": [
-    "[원자재시황]금·유가동반상승…뉴욕증시강보합",
-    "SG,삼성전자온양캠퍼스에에코스틸아스콘1차시공완료",
     "SK쉴더스,AWS'위협탐지·대응'보안컴피턴시국내최초획득",
     "'아산탕정2도시개발사업'착공…주택2만1천35가구공급",
     "SK쉴더스,AWS위협탐지·대응인증획득…국내처음",
@@ -3254,10 +3252,12 @@
     "LG엔솔,메르세데스에46100원통형배터리공급추진…2028년인도목표",
     "‘풍향계’마이크론은메모리순풍예고,삼전닉스영업익180조다가간...",
     "삼성전자,분기영업익100조시대눈앞…'K-메모리슈퍼사이클'어디까...",
-    "美는260만원인데왜한국에선180만원?…속타는SK하이닉스투자자들의..."
+    "美는260만원인데왜한국에선180만원?…속타는SK하이닉스투자자들의...",
+    "솔리다임몸집키우는SK하이닉스…자금조달해법고심",
+    "외국인,한달새코스피20조팔아…매도1위종목은"
    ],
    "initialized": true,
-   "last_run": "2026-10-04T07:55:22.631802+09:00"
+   "last_run": "2026-10-04T08:00:39.166551+09:00"
   }
  },
  "press_names": {
