@@ -122,10 +122,13 @@
     [
      "2026-10-03T16:45:21.962580+09:00",
      "갇힌 악재에 코스피 7000선 달째"
+    ],
+    [
+     "2026-10-03T17:20:25.331863+09:00",
+     "무슨 삼성전자 너무 싸다 싸도 주가 46만 간다는데"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026100290346",
     "https://www.ajunews.com/view/20261002070317966",
     "https://www.topstarnews.net/news/articleView.html?idxno=16233492",
     "https://www.munhwa.com/article/11620976",
@@ -1624,10 +1627,10 @@
     "https://www.newsis.com/view/NISX20261002_0003812729",
     "https://www.the-today.com/news/articleView.html?idxno=91148",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2476926",
-    "https://economist.co.kr/article/view/ecn202610030009"
+    "https://economist.co.kr/article/view/ecn202610030009",
+    "https://www.sedaily.com/article/20097941"
    ],
    "seen_titles": [
-    "박하나“죄송한데남편자랑좀할게요”건물주전남친→시험관재도...",
     "마뗑킴~코이세이오?1300만관중프로야구,패션협업‘홈런’터졌다",
     "K방산ETF효자였던한화오션…올해는애물단지",
     "중랑구,중랑창업지원센터복합화사업착공",
@@ -3126,10 +3129,11 @@
     "마이크론,SK하이닉스턱밑까지왔다…D램점유율격차줄어든배경은?",
     "[이슈]최태원,9440억마련에SK지분축소…계열사지배구조는유지하...",
     "[증시현황]악재에갇힌코스피···두달째7000선",
-    "생산캐파30%차에도마이크론턱밑추격,'SK하이닉스위기론'실체는"
+    "생산캐파30%차에도마이크론턱밑추격,'SK하이닉스위기론'실체는",
+    "“삼성전자,싸도너무싸다”…주가46만원간다는데,무슨일?"
    ],
    "initialized": true,
-   "last_run": "2026-10-03T17:15:23.022246+09:00"
+   "last_run": "2026-10-03T17:20:25.331863+09:00"
   }
  },
  "press_names": {
