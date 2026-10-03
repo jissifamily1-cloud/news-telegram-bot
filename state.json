@@ -278,12 +278,13 @@
     [
      "2026-10-04T08:15:22.130182+09:00",
      "K배터리 ESS로 전기차서 재취업 배터리 은퇴한 번째"
+    ],
+    [
+     "2026-10-04T08:25:20.322336+09:00",
+     "누리호 발사 조립서 양산 한화 AI까지 서비스로 위성"
     ]
    ],
    "seen_urls": [
-    "https://www.polinews.co.kr/news/articleView.html?idxno=744679",
-    "https://dealsite.co.kr/articles/169924",
-    "https://dealsite.co.kr/articles/169934",
     "http://www.segyebiz.com/newsView/20261001514863?OutUrl=naver",
     "https://www.hani.co.kr/arti/economy/economy_general/1280567.html",
     "http://www.paxetv.com/news/articleView.html?idxno=283220",
@@ -1780,12 +1781,12 @@
     "https://www.news1.kr/local/gwangju-jeonnam/6309248",
     "https://news.bizwatch.co.kr/article/market/2026/10/02/0030",
     "https://www.fnnews.com/news/202610031956131257",
-    "https://view.asiae.co.kr/article/2026100215402810412"
+    "https://view.asiae.co.kr/article/2026100215402810412",
+    "https://magazine.hankyung.com/business/article/202610042165b",
+    "http://www.kjdaily.com/article.php?aid=1791068937688204276",
+    "https://www.ekn.kr/web/view.php?key=20261004029482003"
    ],
    "seen_titles": [
-    "“리뷰개수보다정보의질”…베네피아,AI요약서비스도입",
-    "파생결합증권·사채잔액96조7000억원…2023년6월이후최대",
-    "[개장시황]외국인매도에코스피0.47%하락출발",
     "[20263Q리그테이블][M&A재무자문]외국계IB에밀렸던빅4토종회계법...",
     "폴리뉴스모닝브리핑10월2일금요일",
     "[20263Q리그테이블][DCM]NH증권,KB독주끝냈다…대형딜기반1위탈...",
@@ -3282,10 +3283,13 @@
     "\"호남반도체팹오기전필수의료부터\"…인프라확충시급",
     "[공모주달력]징검다리휴일속빼곡한일정…엘리스그룹청약돌입",
     "에너지자원공사울산유치는지정학적이점...울산항만공사통합은딜...",
-    "[중화학ON]전기차서은퇴한배터리,ESS로재취업…K배터리'두번째생..."
+    "[중화학ON]전기차서은퇴한배터리,ESS로재취업…K배터리'두번째생...",
+    "[속보]외인,한달간코스피서20조'팔자'",
+    "삼성전자·SK하이닉스‘성과급’늘어난다…반도체호황속비용변수",
+    "[에어로텍2026]한화,누리호조립서발사서비스로…위성양산·AI까지..."
    ],
    "initialized": true,
-   "last_run": "2026-10-04T08:20:22.729676+09:00"
+   "last_run": "2026-10-04T08:25:20.322336+09:00"
   }
  },
  "press_names": {
