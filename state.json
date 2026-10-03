@@ -321,8 +321,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1726490",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=6991",
     "https://www.getnews.co.kr/news/articleView.html?idxno=882450",
     "https://www.slist.kr/news/articleView.html?idxno=770381",
     "https://biz.sbs.co.kr/article_hub/20000337963?division=NAVER",
@@ -1820,11 +1818,11 @@
     "https://news.tvchosun.com/site/data/html_dir/2026/10/03/2026100390035.html",
     "https://biz.heraldcorp.com/article/10892468",
     "http://www.kjdaily.com/article.php?aid=1790999119688185276",
-    "https://www.tokenpost.kr/news/blockchain/417846"
+    "https://www.tokenpost.kr/news/blockchain/417846",
+    "https://www.fnnews.com/news/202610021404176159",
+    "https://www.fnnews.com/news/202610031102542402"
    ],
    "seen_titles": [
-    "[피지컬AI현장을가다]⑨모비스손잡고LG달려도⋯‘피지컬AI’한...",
-    "3.2兆규모대형公共공사주인찾는다",
     "[어두워진하반기증권사전망]중소형증권사“생존활로좁아진다”",
     "[소비자분쟁The50㊳]신축아파트하자보수'기다리라'며질질…하자...",
     "美금리발작에도실적이버팀목…코스피,반도체선전기대",
@@ -3322,10 +3320,12 @@
     "최태원동거인김희영,뉴욕기업무대등장…재산분할후첫동행",
     "오건영“금리오르면큰일?이생각낭패…투자포트폴리오AI로향해야...",
     "SK하이닉스·삼성전자에46조…반도체주거래대금59.6조",
-    "[로빈후드온체인]서클토큰이79만달러어치새로발행돼...후디지갑..."
+    "[로빈후드온체인]서클토큰이79만달러어치새로발행돼...후디지갑...",
+    "삼전·하이닉스18조판개미...증권사훈수는달랐다",
+    "\"하루1조사들이던'큰손'빠진다\"…삼전닉스자사주매입종료에코스..."
    ],
    "initialized": true,
-   "last_run": "2026-10-03T13:00:41.355568+09:00"
+   "last_run": "2026-10-03T13:05:20.176670+09:00"
   }
  },
  "press_names": {
