@@ -170,11 +170,17 @@
     [
      "2026-10-04T06:15:23.730419+09:00",
      "투자 넘어 100조 코스닥 미미 다른 국민연금 공적연금은"
+    ],
+    [
+     "2026-10-04T06:26:22.365740+09:00",
+     "외인 비중 한달간 코스피서 닉스 삼전 팔자 20조"
+    ],
+    [
+     "2026-10-04T06:26:22.365740+09:00",
+     "HBM에 SK하이닉스 솔리다임 바쁜 호남까지 자금조달 갈길 고심"
     ]
    ],
    "seen_urls": [
-    "https://www.topstarnews.net/news/articleView.html?idxno=16233564",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=301950",
     "https://thetracker.co.kr/View.aspx?No=4248662",
     "https://biz.sbs.co.kr/article_hub/20000337992?division=NAVER",
     "https://www.raonnews.com/news/article.html?no=61579",
@@ -1672,11 +1678,11 @@
     "https://www.yna.co.kr/view/AKR20261002151000003?input=1195m",
     "https://news.mtn.co.kr/news-detail/2026100321125975774",
     "https://news.mtn.co.kr/news-detail/2026100213461472438",
-    "https://www.yna.co.kr/view/AKR20261002179500008?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261002179500008?input=1195m",
+    "https://www.yna.co.kr/view/AKR20261003023800008?input=1195m",
+    "https://www.yna.co.kr/view/AKR20261002140900003?input=1195m"
    ],
    "seen_titles": [
-    "[마켓프리뷰]금리급등세진정에美증시안정세…코스피숨고르기전...",
-    "SG,삼성전자온양캠퍼스에‘에코스틸아스콘’1차시공…민ㆍ관인프...",
     "\"로봇한대에메모리수백GB\"…삼전·닉스,로봇서새시장바라본다",
     "삼전·SK하닉프리마켓서희비…美반도체훈풍에도금리부담",
     "'어서와한국은처음이지'서울남대문설화불고기·수육맛집위치는?...",
@@ -3174,10 +3180,12 @@
     "반도체호황에성과급↑…메모리3사실적에'보상비용'변수",
     "'물량보다고부가'마이크론의역습…SK하이닉스D램2위위협",
     "\"RSU로성과급\"…제약·바이오'주식보상'확산",
-    "국민연금,코스닥투자100조넘어…다른공적연금은'미미'"
+    "국민연금,코스닥투자100조넘어…다른공적연금은'미미'",
+    "외인,한달간코스피서20조'팔자'…삼전비중46%·닉스49%대",
+    "HBM에호남까지갈길바쁜SK하이닉스…솔리다임자금조달고심"
    ],
    "initialized": true,
-   "last_run": "2026-10-04T06:25:17.501352+09:00"
+   "last_run": "2026-10-04T06:26:22.365740+09:00"
   }
  },
  "press_names": {
