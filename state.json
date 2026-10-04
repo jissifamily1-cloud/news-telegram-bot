@@ -354,13 +354,17 @@
     [
      "2026-10-04T10:35:18.887249+09:00",
      "SK하이닉스 같은 주식 맞나 한국과 웃돈 붙었다"
+    ],
+    [
+     "2026-10-04T10:45:22.245095+09:00",
+     "뉴욕서 함께 최태원 재산분할 김희영 이후 포착 파기환송심"
+    ],
+    [
+     "2026-10-04T10:45:22.245095+09:00",
+     "증시 주식 4분기 비중 주식시장 시작한 증권가 이탈보단 골든타 확대"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/202610029404i",
-    "https://www.yna.co.kr/view/AKR20261002036500002?input=1195m",
-    "http://www.press9.kr/news/articleView.html?idxno=83631",
-    "https://www.newsis.com/view/NISX20261002_0003811849",
     "https://www.mydaily.co.kr/page/view/2026100209203242992",
     "https://daily.hankooki.com/news/articleView.html?idxno=1411617",
     "https://www.sentv.co.kr/article/view/sentv202610020036",
@@ -1856,13 +1860,13 @@
     "http://www.metroseoul.co.kr/article/20261004500001",
     "http://www.yonhapnewstv.co.kr/news/MYH20261004102545xrL",
     "http://www.yonhapnewstv.co.kr/news/MYH20261004102216gvR",
-    "https://economist.co.kr/article/view/ecn202610040005"
+    "https://economist.co.kr/article/view/ecn202610040005",
+    "https://www.munhwa.com/article/11621304",
+    "https://www.thepublic.kr/news/articleView.html?idxno=321082",
+    "https://view.asiae.co.kr/article/2026100410315411854",
+    "https://www.segye.com/newsView/20261004503119?OutUrl=naver"
    ],
    "seen_titles": [
-    "SK바이오팜,美직판망'멀티프로덕트'체제로확대",
-    "미국,중동에세번째항공모함파견소식에…정유주'들썩'",
-    "국제유가급증에S-Oil7%강세…정유주동반상승",
-    "SK바이오팜,美서영업전략회의…'멀티프로덕트'성장구체화",
     "SK바이오팜,美법인세일즈인력160명모았다…하반기현장실행전...",
     "한은\"10월물가상승률3%내외높은수준예상\"",
     "SK바이오팜,美직판조직멀티프로덕트체제로확대…신규제품도입대...",
@@ -3358,10 +3362,14 @@
     "코인거래식어도'달러코인'은해외로…스테이블코인지난해10조순유...",
     "한달간20조매도…삼전닉스외인비중줄어",
     "전기차라인을에너지저장장치로전환…배터리시험대",
-    "SK하이닉스,美선40%웃돈붙었다…한국과'같은주식'맞나"
+    "SK하이닉스,美선40%웃돈붙었다…한국과'같은주식'맞나",
+    "‘9월코스피맥못춘이유있었네…’한달간외국인20조팔아치워,1...",
+    "최태원회장,SK지분팔아재산분할금마련…주가수익스와프계약병행",
+    "최태원·김희영,뉴욕서함께…재산분할파기환송심이후첫포착",
+    "4분기시작한주식시장…증권가“증시이탈보단주식비중확대골든타..."
    ],
    "initialized": true,
-   "last_run": "2026-10-04T10:40:23.724143+09:00"
+   "last_run": "2026-10-04T10:45:22.245095+09:00"
   }
  },
  "press_names": {
