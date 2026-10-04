@@ -362,11 +362,13 @@
     [
      "2026-10-04T10:45:22.245095+09:00",
      "증시 주식 4분기 비중 주식시장 시작한 증권가 이탈보단 골든타 확대"
+    ],
+    [
+     "2026-10-04T10:55:17.890966+09:00",
+     "끝났다 납품 짠다 674조 인프라 단순 삼성"
     ]
    ],
    "seen_urls": [
-    "https://www.mydaily.co.kr/page/view/2026100209203242992",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1411617",
     "https://www.sentv.co.kr/article/view/sentv202610020036",
     "http://www.newskr.kr/news/articleView.html?idxno=106851",
     "https://biz.heraldcorp.com/article/10891334",
@@ -1864,11 +1866,11 @@
     "https://www.munhwa.com/article/11621304",
     "https://www.thepublic.kr/news/articleView.html?idxno=321082",
     "https://view.asiae.co.kr/article/2026100410315411854",
-    "https://www.segye.com/newsView/20261004503119?OutUrl=naver"
+    "https://www.segye.com/newsView/20261004503119?OutUrl=naver",
+    "https://www.news2day.co.kr/article/20261004500004",
+    "https://www.g-enews.com/view.php?ud=202610041020044299fbbec65dfb_1"
    ],
    "seen_titles": [
-    "SK바이오팜,美법인세일즈인력160명모았다…하반기현장실행전...",
-    "한은\"10월물가상승률3%내외높은수준예상\"",
     "SK바이오팜,美직판조직멀티프로덕트체제로확대…신규제품도입대...",
     "한해\"하닉260층들어갔다피봐…카페로2억날려\"",
     "SK바이오팜,美법인‘2026POA’미팅…상업화역량강화",
@@ -3366,10 +3368,12 @@
     "‘9월코스피맥못춘이유있었네…’한달간외국인20조팔아치워,1...",
     "최태원회장,SK지분팔아재산분할금마련…주가수익스와프계약병행",
     "최태원·김희영,뉴욕서함께…재산분할파기환송심이후첫포착",
-    "4분기시작한주식시장…증권가“증시이탈보단주식비중확대골든타..."
+    "4분기시작한주식시장…증권가“증시이탈보단주식비중확대골든타...",
+    "李정부2년차국감6일시작…민주'민생성과'·국힘'부동산·안보'...",
+    "단순납품끝났다…삼성·SK,674조AI인프라판짠다"
    ],
    "initialized": true,
-   "last_run": "2026-10-04T10:50:23.402121+09:00"
+   "last_run": "2026-10-04T10:55:17.890966+09:00"
   }
  },
  "press_names": {
