@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-04T10:35:18.887249+09:00",
-     "에너지저장장치로 배터리 시험대 라인을 전기차"
-    ],
-    [
-     "2026-10-04T10:35:18.887249+09:00",
-     "SK하이닉스 같은 주식 맞나 한국과 웃돈 붙었다"
-    ],
-    [
      "2026-10-04T10:45:22.245095+09:00",
      "뉴욕서 함께 최태원 재산분할 김희영 이후 포착 파기환송심"
     ],
@@ -222,11 +214,13 @@
     [
      "2026-10-04T16:25:20.366982+09:00",
      "3사는 점유율 하락 배터리 7개사"
+    ],
+    [
+     "2026-10-04T16:40:23.411857+09:00",
+     "부품 공급 금속배선 시대 존재감 지오엘리먼트 핵심 박막증착"
     ]
    ],
    "seen_urls": [
-    "https://www.cnbizm.com/news/articleView.html?idxno=316920",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16233677",
     "https://www.yna.co.kr/view/AKR20261002049400008?input=1195m",
     "https://www.thepublic.kr/news/articleView.html?idxno=320948",
     "https://www.epnc.co.kr/news/articleView.html?idxno=407719",
@@ -1724,11 +1718,11 @@
     "https://www.jnilbo.com/news/articleView.html?idxno=90000070822",
     "https://www.ajunews.com/view/20261004161541017",
     "https://www.medipana.com/news/articleView.html?idxno=418733",
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=600917"
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=600917",
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5223004",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492593"
    ],
    "seen_titles": [
-    "코스피,하락출발뒤강보합…코스닥은900선회복[fn오전시황]",
-    "연금계좌로DRAM투자…신한자산운용,글로벌메모리ETF출시",
     "[특징주]S-Oil,국제유가4%대급등에7%↑…정유주강세",
     "키움증권,연금저축·중개형ISA신규개설고객'삼전닉스'추첨지급",
     "HBM다음은eSSD…솔리다임IPO설에SK하이닉스자본배분'촉각'",
@@ -3226,10 +3220,12 @@
     "삼성전자,3분기영업익108조전망…'100조시대'연다",
     "[인문자의앤트로픽이야기|인간·문화·자연]앤트로픽상장,반도체...",
     "비만약열풍에펩타이드공장키운다…SK팜테코,美에2억달러투자",
-    "中배터리7개사점유율73.3%⋯韓3사는12.7%로3.9%p하락"
+    "中배터리7개사점유율73.3%⋯韓3사는12.7%로3.9%p하락",
+    "[영상]최태원옆한복입은김희영…뉴욕공식행사참석",
+    "지오엘리먼트,박막증착·금속배선핵심부품공급…AI시대존재감키..."
    ],
    "initialized": true,
-   "last_run": "2026-10-04T16:35:18.202128+09:00"
+   "last_run": "2026-10-04T16:40:23.411857+09:00"
   }
  },
  "press_names": {
