@@ -214,11 +214,17 @@
     [
      "2026-10-04T18:10:22.095636+09:00",
      "우려는 시기상조 투자 확대에도 메모리 마이크론 공급과잉"
+    ],
+    [
+     "2026-10-04T18:20:26.102349+09:00",
+     "공동 센터 EPIC 메모리 키옥시아 협력 어플라이드"
+    ],
+    [
+     "2026-10-04T18:20:26.102349+09:00",
+     "실적 주목 국채금리 삼성전자"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/market-exr/6308529",
-    "https://www.cstimes.com/news/articleView.html?idxno=722763",
     "https://www.etoday.co.kr/news/view/2631891",
     "https://www.dailian.co.kr/news/view/1697248/?sc=Naver",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=855417",
@@ -1716,11 +1722,11 @@
     "https://www.hankyung.com/article/2026100426111",
     "https://www.hankyung.com/article/2026100426691",
     "https://www.hankyung.com/article/2026100426991",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1726694"
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1726694",
+    "https://www.econovill.com/news/articleView.html?idxno=752699",
+    "http://www.kjdaily.com/article.php?aid=1791105269688212276"
    ],
    "seen_titles": [
-    "코스피,외국인·기관매도에6950선기록",
-    "[트래블투데이]수원시,세계인까지사로잡는다...수원화성문화제와정...",
     "소비자물가한달만에2%대복귀···고유가·가공식품부담지속",
     "“이거누가다갚나”…개인정보유출과징금704억인데보험금은13억,...",
     "美반도체훈풍에도'주춤'…삼전1%↓·SK하닉보합권[핫종목]",
@@ -3218,10 +3224,12 @@
     "'고성능'업스테이지AI,높은연산비용은과제",
     "자산가들,삼전닉스팔고커버드콜담았다",
     "'배당'노린슈퍼리치,우선주담았다",
-    "마이크론투자확대에도…\"메모리공급과잉우려는시기상조\""
+    "마이크론투자확대에도…\"메모리공급과잉우려는시기상조\"",
+    "어플라이드·키옥시아EPIC센터협력…AI메모리공동R&D협력",
+    "[이번주증시]삼성전자실적·美국채금리주목"
    ],
    "initialized": true,
-   "last_run": "2026-10-04T18:15:24.193329+09:00"
+   "last_run": "2026-10-04T18:20:26.102349+09:00"
   }
  },
  "press_names": {
