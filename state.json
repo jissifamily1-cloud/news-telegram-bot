@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-04T12:30:30.953933+09:00",
-     "인버스 KODEX 거래 TIGER 292조 늘고 줄었다 ETF 9월"
-    ],
-    [
      "2026-10-04T12:35:48.234524+09:00",
      "고심 넘치는 자금조달 솔리다임 SK하이닉스"
     ],
@@ -222,10 +218,13 @@
     [
      "2026-10-04T18:20:26.102349+09:00",
      "실적 주목 국채금리 삼성전자"
+    ],
+    [
+     "2026-10-04T18:30:31.023796+09:00",
+     "순매도 9월 20조원 코스피 17조 SK하이닉스에 삼성전자 외국인 이후"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2631891",
     "https://www.dailian.co.kr/news/view/1697248/?sc=Naver",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=855417",
     "https://view.asiae.co.kr/article/2026100209571054589",
@@ -1724,10 +1723,10 @@
     "https://www.hankyung.com/article/2026100426991",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1726694",
     "https://www.econovill.com/news/articleView.html?idxno=752699",
-    "http://www.kjdaily.com/article.php?aid=1791105269688212276"
+    "http://www.kjdaily.com/article.php?aid=1791105269688212276",
+    "https://www.betanews.net/article/view/beta202610040008"
    ],
    "seen_titles": [
-    "소비자물가한달만에2%대복귀···고유가·가공식품부담지속",
     "“이거누가다갚나”…개인정보유출과징금704억인데보험금은13억,...",
     "美반도체훈풍에도'주춤'…삼전1%↓·SK하닉보합권[핫종목]",
     "한은,물가상승세확대전망…10월도3%안팎",
@@ -3226,10 +3225,11 @@
     "'배당'노린슈퍼리치,우선주담았다",
     "마이크론투자확대에도…\"메모리공급과잉우려는시기상조\"",
     "어플라이드·키옥시아EPIC센터협력…AI메모리공동R&D협력",
-    "[이번주증시]삼성전자실적·美국채금리주목"
+    "[이번주증시]삼성전자실적·美국채금리주목",
+    "외국인,9월이후코스피20조원순매도…삼성전자·SK하이닉스에17조..."
    ],
    "initialized": true,
-   "last_run": "2026-10-04T18:25:17.424818+09:00"
+   "last_run": "2026-10-04T18:30:31.023796+09:00"
   }
  },
  "press_names": {
