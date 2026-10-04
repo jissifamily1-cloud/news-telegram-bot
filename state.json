@@ -338,13 +338,17 @@
     [
      "2026-10-04T10:00:37.356228+09:00",
      "범죄 이통사들 예방 AI로 나선 의심됩니다 피싱"
+    ],
+    [
+     "2026-10-04T10:15:21.844600+09:00",
+     "선택지 모리타 퍼플렉시티 법인 APAC 연내 설립"
+    ],
+    [
+     "2026-10-04T10:15:21.844600+09:00",
+     "식어도 거래 해외로 순유 10조 지난해 달러 코인 스테이블코인"
     ]
    ],
    "seen_urls": [
-    "http://www.srtimes.kr/news/articleView.html?idxno=213843",
-    "http://www.segyebiz.com/newsView/20261002503642?OutUrl=naver",
-    "https://www.pharmnews.com/news/articleView.html?idxno=306651",
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=711993",
     "https://www.hankyung.com/article/2026100294316",
     "https://www.mt.co.kr/stock/2026/10/02/2026100209153388972",
     "http://www.medisobizanews.com/news/articleView.html?idxno=142793",
@@ -1840,13 +1844,13 @@
     "https://news.ifm.kr/news/articleView.html?idxno=480837",
     "https://economist.co.kr/article/view/ecn202610040003",
     "https://www.inthenews.co.kr/news/article.html?no=92627",
-    "http://www.yonhapnewstv.co.kr/news/MYH20261004095553FgE"
+    "http://www.yonhapnewstv.co.kr/news/MYH20261004095553FgE",
+    "https://www.sidae.com/article/2026100409352639412",
+    "https://economist.co.kr/article/view/ecn202610040004",
+    "https://zdnet.co.kr/view/?no=20261004000952",
+    "http://www.metroseoul.co.kr/article/20261004500001"
    ],
    "seen_titles": [
-    "SG,삼성전자온양캠퍼스에에코스틸아스콘시공…민간적용확대",
-    "베네피아,상품리뷰AI요약서비스선보여",
-    "중랑구,신내동창업지원센터착공…2028년하반기준공목표",
-    "[속보]코스피0.4%하락…6,930선출발",
     "유안타증권,에이블리·4910과제휴…신규고객에투자지원금제공",
     "9월소비자물가2.9%상승...“석유최고가격제로0.6%p낮춰”",
     "SK바이오팜美법인,'2026POA'미팅개최...하반기영업전략점검",
@@ -3342,10 +3346,14 @@
     "\"AI반도체,지금사도될까?\"…ETF이름보다'무엇을담았나'부터봐야...",
     "'포모마저그립다'…외국인한달새20조팔아치운'삼전·닉스',자사주...",
     "[주간AI노트]AI패권,특허로승부본다…민·관‘K-AI’원팀출범",
-    "\"범죄의심됩니다\"…AI로피싱예방나선이통사들"
+    "\"범죄의심됩니다\"…AI로피싱예방나선이통사들",
+    "삼성전자,분기영업익첫100조원넘본다",
+    "삼전·닉스제쳤다…한달새20%넘게뛴'이종목'",
+    "[AI리더스]모리타준퍼플렉시티APAC\"연내韓법인설립,AI선택지...",
+    "코인거래식어도'달러코인'은해외로…스테이블코인지난해10조순유..."
    ],
    "initialized": true,
-   "last_run": "2026-10-04T10:10:23.573407+09:00"
+   "last_run": "2026-10-04T10:15:21.844600+09:00"
   }
  },
  "press_names": {
