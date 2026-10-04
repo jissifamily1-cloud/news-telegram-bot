@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-04T06:26:22.365740+09:00",
-     "외인 비중 한달간 코스피서 닉스 삼전 팔자 20조"
-    ],
-    [
-     "2026-10-04T06:26:22.365740+09:00",
-     "HBM에 SK하이닉스 솔리다임 바쁜 호남까지 자금조달 갈길 고심"
-    ],
-    [
      "2026-10-04T06:40:25.784194+09:00",
      "오징어 벌어지나 메모리 게임 싱크탱크의 공급 과잉"
     ],
@@ -258,11 +250,13 @@
     [
      "2026-10-04T12:15:22.404378+09:00",
      "주요뉴스 12시 시각"
+    ],
+    [
+     "2026-10-04T12:30:30.953933+09:00",
+     "인버스 KODEX 거래 TIGER 292조 늘고 줄었다 ETF 9월"
     ]
    ],
    "seen_urls": [
-    "https://www.mediafine.co.kr/news/articleView.html?idxno=91431",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=145182",
     "https://www.viva100.com/article/20261002500069",
     "https://www.viva100.com/article/20261002500074",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4437518",
@@ -1760,11 +1754,11 @@
     "http://www.rookie.co.kr/news/articleView.html?idxno=127683",
     "https://www.sedaily.com/article/20097799",
     "https://www.ddaily.co.kr/page/view/2026100223325276488",
-    "https://www.ktv.go.kr/content/view?content_id=761958"
+    "https://www.ktv.go.kr/content/view?content_id=761958",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261004.99099000732",
+    "http://www.kjdaily.com/article.php?aid=1791084209688207276"
    ],
    "seen_titles": [
-    "9월물가2.9%상승⋯2%대복귀에도석유류·먹거리부담여전[종합]",
-    "[AIMY증시전망]코스피,금리부담완화에도유가·고용경계",
     "SK바이오팜,美서POA미팅…세노바메이트넘어‘멀티프로덕트’시동",
     "HBM떼어내는상장아니다…솔리다임,LG화학때와다른이유",
     "뉴욕증시,국채금리급등에도강보합…S&P5000.19%상승",
@@ -3262,10 +3256,12 @@
     "DB이적생조은후,오픈매치서손목부상악재...개막전결장한다",
     "‘K-모더나’키울랩허브착공…“사업비는빠듯”",
     "韓ESS·유럽EV수주전재점화…K-배터리물량경쟁[위클리배터리]",
-    "이시각주요뉴스(26.10.04.12시)"
+    "이시각주요뉴스(26.10.04.12시)",
+    "SK지주최태원지분율3%하락…최회장재산분할자금충당",
+    "KODEX200·TIGER200거래늘고인버스줄었다…9월ETF292조"
    ],
    "initialized": true,
-   "last_run": "2026-10-04T12:25:18.762304+09:00"
+   "last_run": "2026-10-04T12:30:30.953933+09:00"
   }
  },
  "press_names": {
