@@ -346,12 +346,17 @@
     [
      "2026-10-04T10:15:21.844600+09:00",
      "식어도 거래 해외로 순유 10조 지난해 달러 코인 스테이블코인"
+    ],
+    [
+     "2026-10-04T10:35:18.887249+09:00",
+     "에너지저장장치로 배터리 시험대 라인을 전기차"
+    ],
+    [
+     "2026-10-04T10:35:18.887249+09:00",
+     "SK하이닉스 같은 주식 맞나 한국과 웃돈 붙었다"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026100294316",
-    "https://www.mt.co.kr/stock/2026/10/02/2026100209153388972",
-    "http://www.medisobizanews.com/news/articleView.html?idxno=142793",
     "https://www.hankyung.com/article/202610029404i",
     "https://www.yna.co.kr/view/AKR20261002036500002?input=1195m",
     "http://www.press9.kr/news/articleView.html?idxno=83631",
@@ -1848,12 +1853,12 @@
     "https://www.sidae.com/article/2026100409352639412",
     "https://economist.co.kr/article/view/ecn202610040004",
     "https://zdnet.co.kr/view/?no=20261004000952",
-    "http://www.metroseoul.co.kr/article/20261004500001"
+    "http://www.metroseoul.co.kr/article/20261004500001",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261004102545xrL",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261004102216gvR",
+    "https://economist.co.kr/article/view/ecn202610040005"
    ],
    "seen_titles": [
-    "유안타증권,에이블리·4910과제휴…신규고객에투자지원금제공",
-    "9월소비자물가2.9%상승...“석유최고가격제로0.6%p낮춰”",
-    "SK바이오팜美법인,'2026POA'미팅개최...하반기영업전략점검",
     "SK바이오팜,美직판망'멀티프로덕트'체제로확대",
     "미국,중동에세번째항공모함파견소식에…정유주'들썩'",
     "국제유가급증에S-Oil7%강세…정유주동반상승",
@@ -3350,10 +3355,13 @@
     "삼성전자,분기영업익첫100조원넘본다",
     "삼전·닉스제쳤다…한달새20%넘게뛴'이종목'",
     "[AI리더스]모리타준퍼플렉시티APAC\"연내韓법인설립,AI선택지...",
-    "코인거래식어도'달러코인'은해외로…스테이블코인지난해10조순유..."
+    "코인거래식어도'달러코인'은해외로…스테이블코인지난해10조순유...",
+    "한달간20조매도…삼전닉스외인비중줄어",
+    "전기차라인을에너지저장장치로전환…배터리시험대",
+    "SK하이닉스,美선40%웃돈붙었다…한국과'같은주식'맞나"
    ],
    "initialized": true,
-   "last_run": "2026-10-04T10:30:28.921518+09:00"
+   "last_run": "2026-10-04T10:35:18.887249+09:00"
   }
  },
  "press_names": {
