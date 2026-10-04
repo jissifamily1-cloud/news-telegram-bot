@@ -86,10 +86,13 @@
     [
      "2026-10-05T00:55:18.878749+09:00",
      "삼전 막은 20조 외국인 닉스 자사주로 매도 연휴"
+    ],
+    [
+     "2026-10-05T01:05:19.961007+09:00",
+     "젠슨 이유 수출할 한국에 주목한 역량 갖춰 AI를 다시 산업화"
     ]
    ],
    "seen_urls": [
-    "https://www.joongangenews.com/news/articleView.html?idxno=552248",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298368",
     "https://www.widedaily.com/news/articleView.html?idxno=301678",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=318574",
@@ -1588,10 +1591,10 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=9000019766&cp=nv",
     "https://www.joongang.co.kr/article/25467114",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7187404",
-    "https://www.newsverse.kr/news/articleView.html?idxno=11588"
+    "https://www.newsverse.kr/news/articleView.html?idxno=11588",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000070851"
    ],
    "seen_titles": [
-    "SK쉴더스,AWS'보안컴피턴시'획득…위협대응역량인정",
     "[2026국감]잇따르는정보유출사고…5년간보험금지급13억뿐",
     "삼성전자,자사주계획물량모두매입…9천억여유,300만주더살듯",
     "SK렌터카,청년인턴십진행천안오토옥션견학등실무중심프로그램...",
@@ -3090,10 +3093,11 @@
     "메모리공급과잉우려다시고개…“2028년까진공급부족”",
     "[리셋코리아]기술경쟁력넘어국제규칙만드는힘키워야",
     "[공기업레이더]'경영평가지표부적절·빚더미성과급'에'유출정보삭...",
-    "[오늘의경제뉴스]삼전·닉스자사주로막은외국인20조매도…연휴..."
+    "[오늘의경제뉴스]삼전·닉스자사주로막은외국인20조매도…연휴...",
+    "젠슨황,한국에다시주목한이유…\"AI를산업화·수출할역량갖춰\""
    ],
    "initialized": true,
-   "last_run": "2026-10-05T01:00:35.303366+09:00"
+   "last_run": "2026-10-05T01:05:19.961007+09:00"
   }
  },
  "press_names": {
