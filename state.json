@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-05T00:55:18.878749+09:00",
-     "삼전 막은 20조 외국인 닉스 자사주로 매도 연휴"
-    ],
-    [
      "2026-10-05T01:05:19.961007+09:00",
      "젠슨 이유 수출할 한국에 주목한 역량 갖춰 AI를 다시 산업화"
     ],
@@ -162,10 +158,13 @@
     [
      "2026-10-05T06:40:22.934342+09:00",
      "895조 공시 가늠한다 반도체 설비투자로 총수 국감 빠진 실체 서남권"
+    ],
+    [
+     "2026-10-05T07:00:38.662436+09:00",
+     "DMZ 인사 레버리지ETF 여야 부동산 지뢰까지"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=448501",
     "https://www.ntoday.co.kr/news/articleView.html?idxno=129791",
     "https://www.moneystorm.kr/news/articleView.html?idxno=7000",
     "http://www.gjdream.com/news/articleView.html?idxno=673158",
@@ -1664,10 +1663,10 @@
     "https://www.yna.co.kr/view/AKR20261004035100017?input=1195m",
     "https://www.goodkyung.com/news/articleView.html?idxno=292007",
     "https://zdnet.co.kr/view/?no=20261004150224",
-    "https://www.ngetnews.com/news/articleView.html?idxno=554013"
+    "https://www.ngetnews.com/news/articleView.html?idxno=554013",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=96511"
    ],
    "seen_titles": [
-    "\"물가2%대로내려왔는데\"…장바구니부담은여전한이유",
     "자산매각·반도체효과···SK에코플랜트,6조차입금부담'정면돌파...",
     "'황금알낳는거위'솔리다임…따로상장할까",
     "“삼전닉스성과급풀리면침대·가전산다”…중소·중견기업들‘반도...",
@@ -3166,10 +3165,11 @@
     "[AI돋보기]은행도플랫폼도털렸다…AI로개인정보조각맞춘다",
     "\"성장세는계속\"…SK하이닉스,3분기도HBM효과톡톡",
     "사람은내리고AI는올린다…뒤집히는통신망공식",
-    "총수빠진895조서남권반도체국감...공시·설비투자로실체가늠한다"
+    "총수빠진895조서남권반도체국감...공시·설비투자로실체가늠한다",
+    "[2026국정감사D-1]부동산·레버리지ETF·인사·DMZ지뢰까지…여야전..."
    ],
    "initialized": true,
-   "last_run": "2026-10-05T06:55:18.664032+09:00"
+   "last_run": "2026-10-05T07:00:38.662436+09:00"
   }
  },
  "press_names": {
