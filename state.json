@@ -210,13 +210,21 @@
     [
      "2026-10-04T16:15:21.992569+09:00",
      "키우는 주가수익스왑 증권사 부동산금융 위축"
+    ],
+    [
+     "2026-10-04T16:25:20.366982+09:00",
+     "반도체 앤트로픽 상장"
+    ],
+    [
+     "2026-10-04T16:25:20.366982+09:00",
+     "열풍에 2억달러 공장 SK팜테코 투자 비만약 펩타이드 키운다"
+    ],
+    [
+     "2026-10-04T16:25:20.366982+09:00",
+     "3사는 점유율 하락 배터리 7개사"
     ]
    ],
    "seen_urls": [
-    "https://www.fnnews.com/news/202610020943558349",
-    "https://www.newspim.com/news/view/20261002000232",
-    "https://www.newspim.com/news/view/20261002000235",
-    "https://www.newspim.com/news/view/20261002000224",
     "https://www.cnbizm.com/news/articleView.html?idxno=316920",
     "https://www.topstarnews.net/news/articleView.html?idxno=16233677",
     "https://www.yna.co.kr/view/AKR20261002049400008?input=1195m",
@@ -1712,13 +1720,13 @@
     "https://www.hani.co.kr/arti/economy/marketing/1280825.html",
     "https://www.g-enews.com/view.php?ud=202610041538405380daecd3dad5_1",
     "https://www.sedaily.com/article/20097925",
-    "https://www.bloter.net/news/articleView.html?idxno=674935"
+    "https://www.bloter.net/news/articleView.html?idxno=674935",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000070822",
+    "https://www.ajunews.com/view/20261004161541017",
+    "https://www.medipana.com/news/articleView.html?idxno=418733",
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=600917"
    ],
    "seen_titles": [
-    "한은“9월물가오름세다소확대”…10월3%안팎전망",
-    "SK바이오팜,美영업조직활용해신규제품상업화확대",
-    "신한자산운용\"SOL글로벌DRAM반도체플러스ETF신규상장\"",
-    "코스피,하락출발뒤상승전환…6980선등락",
     "코스피,하락출발뒤강보합…코스닥은900선회복[fn오전시황]",
     "연금계좌로DRAM투자…신한자산운용,글로벌메모리ETF출시",
     "[특징주]S-Oil,국제유가4%대급등에7%↑…정유주강세",
@@ -3214,10 +3222,14 @@
     "‘호남반도체’격전지된산자위국감…대미투자는뜻밖의초당적협...",
     "한·미신인왕출신유해란,하이트진로우승상금2억7000만...4년6개월...",
     "“패션플랫폼몸값10조?”…무신사도전통할까[시그널]",
-    "부동산금융위축,주가수익스왑키우는증권사"
+    "부동산금융위축,주가수익스왑키우는증권사",
+    "삼성전자,3분기영업익108조전망…'100조시대'연다",
+    "[인문자의앤트로픽이야기|인간·문화·자연]앤트로픽상장,반도체...",
+    "비만약열풍에펩타이드공장키운다…SK팜테코,美에2억달러투자",
+    "中배터리7개사점유율73.3%⋯韓3사는12.7%로3.9%p하락"
    ],
    "initialized": true,
-   "last_run": "2026-10-04T16:20:23.862827+09:00"
+   "last_run": "2026-10-04T16:25:20.366982+09:00"
   }
  },
  "press_names": {
