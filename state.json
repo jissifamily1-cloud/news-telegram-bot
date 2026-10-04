@@ -94,11 +94,17 @@
     [
      "2026-10-05T00:15:25.801954+09:00",
      "메이저 챔피언십 제패 유해란 하이트진로"
+    ],
+    [
+     "2026-10-05T00:30:29.047698+09:00",
+     "다시 과잉 공급 고개 부족 메모리 우려 2028년까진"
+    ],
+    [
+     "2026-10-05T00:30:29.047698+09:00",
+     "경쟁력 국제 넘어 키워야 규칙 기술 만드는"
     ]
    ],
    "seen_urls": [
-    "https://www.ddaily.co.kr/page/view/2026100210083501780",
-    "https://www.dailian.co.kr/news/view/1697268/?sc=Naver",
     "https://www.yna.co.kr/view/AKR20261002042100008?input=1195m",
     "https://vop.co.kr/A00001696966.html",
     "https://www.joongangenews.com/news/articleView.html?idxno=552248",
@@ -1596,11 +1602,11 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610050001&t=NN",
     "https://www.dailian.co.kr/news/view/1697604/?sc=Naver",
     "https://www.cbci.co.kr/news/articleView.html?idxno=612355",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=744822"
+    "https://www.polinews.co.kr/news/articleView.html?idxno=744822",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000019766&cp=nv",
+    "https://www.joongang.co.kr/article/25467114"
    ],
    "seen_titles": [
-    "K배터리,1~8월美전기차공급분전년비40%↓",
-    "[개장]코스피,美반등에도보합…고용지표앞두고'관망'",
     "'중부권최대규모신도시'아산탕정2첫삽…2만1천호신도시",
     "SK바이오팜,美법인세일즈인력한자리에…하반기성과점검",
     "SK쉴더스,AWS'보안컴피턴시'획득…위협대응역량인정",
@@ -3098,10 +3104,12 @@
     "\"삼전닉스17조던집니다만\"…폭풍매도큰손,어디로향했나봤더니",
     "고금리시대증시투자…성과내기어려운업종은",
     "삼성전자·SK하이닉스'삼전닉스'6일장출격…연휴뒤반도체株방향은",
-    "[KLPGA]'메이저퀸'유해란,하이트진로챔피언십제패..한·미메이저..."
+    "[KLPGA]'메이저퀸'유해란,하이트진로챔피언십제패..한·미메이저...",
+    "메모리공급과잉우려다시고개…“2028년까진공급부족”",
+    "[리셋코리아]기술경쟁력넘어국제규칙만드는힘키워야"
    ],
    "initialized": true,
-   "last_run": "2026-10-05T00:25:18.432670+09:00"
+   "last_run": "2026-10-05T00:30:29.047698+09:00"
   }
  },
  "press_names": {
