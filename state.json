@@ -294,12 +294,21 @@
     [
      "2026-10-05T08:20:23.072889+09:00",
      "hits year voting five high NPS shareholder"
+    ],
+    [
+     "2026-10-05T08:40:23.966604+09:00",
+     "개발사업 아산시 중부권 본격화"
+    ],
+    [
+     "2026-10-05T08:40:23.966604+09:00",
+     "웃돈 현대차 종가보다 정규장"
+    ],
+    [
+     "2026-10-05T08:40:23.966604+09:00",
+     "샀다 HBM 두드린다 불량 쎄크 잡는 삼성 마이크론도"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20097495",
-    "http://www.newsdream.kr/news/articleView.html?idxno=119331",
-    "https://www.news1.kr/industry/general-industry/6308705",
     "http://www.newsian.co.kr/news/articleView.html?idxno=96427",
     "https://www.joongangenews.com/news/articleView.html?idxno=552295",
     "https://www.fnnews.com/news/202610021029412980",
@@ -1796,12 +1805,12 @@
     "http://www.kjdaily.com/article.php?aid=1791155650688217276",
     "https://www.mk.co.kr/article/12168265",
     "https://www.koreajoongangdaily.com/korea/nps-shareholder-voting-hits-fiveyear-high/12902912",
-    "https://www.maniareport.com/view.php?ud=20261005081933859991b55a0d56_19"
+    "https://www.maniareport.com/view.php?ud=20261005081933859991b55a0d56_19",
+    "https://www.viva100.com/article/20261005500039",
+    "https://www.tokenpost.kr/news/insights/418235",
+    "https://economist.co.kr/article/view/ecn202609220062"
    ],
    "seen_titles": [
-    "SK하이닉스\"솔리다임미국상장,결정된것없어···주주가치제고최...",
-    "솔리다임상장설,LG화학과다른배경...증권가\"투자부담완화기대\"",
-    "신한자산운용,글로벌메모리반도체10종목담은ETF상장",
     "[개장시황]코스피,혼조세속6,970선안착시도…외국인'팔자'vs개...",
     "SK쉴더스,AWS보안컴피턴시획득…국내최초",
     "키움증권,연금저축·ISA계좌만들면현금·주식혜택쏜다",
@@ -3298,10 +3307,13 @@
     "단일종목레버리지ETF,급락장서LP호가공백…최대2시간",
     "“공포?그런거몰라요”…7월폭락장에베팅한‘간큰개미들’얼마...",
     "NPSshareholdervotinghitsfive-yearhigh",
-    "'이럴수가'2위삼성,한국시리즈우승확률'제로'?...단일리그정규..."
+    "'이럴수가'2위삼성,한국시리즈우승확률'제로'?...단일리그정규...",
+    "아산시,중부권최대개발사업본격화",
+    "[온체인주식선물]현대차,정규장종가보다1.48%웃돈",
+    "마이크론도샀다…‘HBM불량’잡는쎄크,삼성·SK문두드린다"
    ],
    "initialized": true,
-   "last_run": "2026-10-05T08:35:18.293890+09:00"
+   "last_run": "2026-10-05T08:40:23.966604+09:00"
   }
  },
  "press_names": {
