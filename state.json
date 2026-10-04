@@ -254,12 +254,21 @@
     [
      "2026-10-04T12:30:30.953933+09:00",
      "인버스 KODEX 거래 TIGER 292조 늘고 줄었다 ETF 9월"
+    ],
+    [
+     "2026-10-04T12:35:48.234524+09:00",
+     "고심 넘치는 자금조달 솔리다임 SK하이닉스"
+    ],
+    [
+     "2026-10-04T12:35:48.234524+09:00",
+     "외식 할인 1주 KT 통신혜택 10월 문화 2가지 가을"
+    ],
+    [
+     "2026-10-04T12:35:48.234524+09:00",
+     "삼성 후발주자 장악 빅딜 최종 시장 목표는 승부수"
     ]
    ],
    "seen_urls": [
-    "https://www.viva100.com/article/20261002500069",
-    "https://www.viva100.com/article/20261002500074",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4437518",
     "https://www.mediapen.com/news/view/1127452",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492135",
     "https://www.fnnews.com/news/202610020914290621",
@@ -1756,12 +1765,12 @@
     "https://www.ddaily.co.kr/page/view/2026100223325276488",
     "https://www.ktv.go.kr/content/view?content_id=761958",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261004.99099000732",
-    "http://www.kjdaily.com/article.php?aid=1791084209688207276"
+    "http://www.kjdaily.com/article.php?aid=1791084209688207276",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610040025&t=NN",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068279",
+    "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307593"
    ],
    "seen_titles": [
-    "SK바이오팜,美서POA미팅…세노바메이트넘어‘멀티프로덕트’시동",
-    "HBM떼어내는상장아니다…솔리다임,LG화학때와다른이유",
-    "뉴욕증시,국채금리급등에도강보합…S&P5000.19%상승",
     "코스피,0.47%내린6938출발...美반도체급등에도'삼전닉스'지지부...",
     "[개장시황]코스피,외인·기관‘팔자’에6940선으로하락⋯코스닥은...",
     "SK바이오팜美법인,‘2026POA’미팅개최…하반기성과점검",
@@ -3258,10 +3267,13 @@
     "韓ESS·유럽EV수주전재점화…K-배터리물량경쟁[위클리배터리]",
     "이시각주요뉴스(26.10.04.12시)",
     "SK지주최태원지분율3%하락…최회장재산분할자금충당",
-    "KODEX200·TIGER200거래늘고인버스줄었다…9월ETF292조"
+    "KODEX200·TIGER200거래늘고인버스줄었다…9월ETF292조",
+    "돈쓸곳넘치는SK하이닉스…솔리다임자금조달'고심'",
+    "[와이파이]10월1주,가을외식·문화할인…KT외2가지통신혜택",
+    "'후발주자'삼성빅딜승부수···최종목표는시장장악?"
    ],
    "initialized": true,
-   "last_run": "2026-10-04T12:35:18.153292+09:00"
+   "last_run": "2026-10-04T12:35:48.234524+09:00"
   }
  },
  "press_names": {
