@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-05T16:50:28.461284+09:00",
-     "왔다고 미장이 국장보다 본전 낫다 팔면"
-    ],
-    [
-     "2026-10-05T16:50:28.461284+09:00",
-     "로봇 스타트업 엔비디아도 원천 도둑 점찍은 보안으로"
-    ],
-    [
      "2026-10-05T17:00:41.365589+09:00",
      "주요기사 비즈니스포스트 아침의"
     ],
@@ -394,13 +386,25 @@
     [
      "2026-10-05T22:00:44.515304+09:00",
      "조절이 관건이다 김재희"
+    ],
+    [
+     "2026-10-05T22:55:22.991308+09:00",
+     "아무리 이럴 친선대회라고 축구 충격 월드 수가 하지만"
+    ],
+    [
+     "2026-10-05T22:55:22.991308+09:00",
+     "중동전쟁 발발 제4차 탐마삿대학 태국"
+    ],
+    [
+     "2026-10-05T22:55:22.991308+09:00",
+     "반도체클러스터 15명 찾아 용인 인프라 함평군 시찰 전략 방문단"
+    ],
+    [
+     "2026-10-05T22:55:22.991308+09:00",
+     "혼조 엔비디아 부담 서버 강세에도 장초반 국채금리 미국증시"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1726591",
-    "http://www.yonhapnewstv.co.kr/news/MYH2026100117452138h",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=209161",
-    "https://www.fnnews.com/news/202610020809305608",
     "https://www.insightkorea.co.kr/news/articleView.html?idxno=255760",
     "https://economist.co.kr/article/view/ecn202610020036",
     "https://www.polinews.co.kr/news/articleView.html?idxno=744700",
@@ -1896,13 +1900,13 @@
     "https://www.ilemonde.com/news/articleView.html?idxno=30742",
     "https://www.edaily.co.kr/News/Read?newsId=04201686645609968&mediaCodeNo=257",
     "https://www.mk.co.kr/article/12168758",
-    "https://www.thereport.co.kr/news/articleView.html?idxno=91990"
+    "https://www.thereport.co.kr/news/articleView.html?idxno=91990",
+    "https://www.goal.com/kr/뉴스/a/blt92383c6aec231c4f",
+    "http://kor.theasian.asia/archives/417022",
+    "https://www.newsworker.co.kr/news/articleView.html?idxno=507161",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16238807"
    ],
    "seen_titles": [
-    "원유수입선다변화가속…관세청,FTA·운송비지원확대",
-    "삼전닉스,3분기영업익200조육박…'메모리슈퍼사이클'대폭발",
-    "집값에등떠밀린2030…줄줄이‘탈서울’",
-    "SK바이오팜,美직판망'다품목플랫폼'으로확장…세노바메이트이후...",
     "[초격차수호③]\"훔쳐도막기어렵다\"…K-반도체기술유출방어선은어...",
     "[CEO풍향계]'뉴욕깐부회동'이재용…'국방AI강화'김승연",
     "소독용알코올에서반도체핵심소재까지…IPA의진화",
@@ -3398,10 +3402,14 @@
     "은행권해킹사건-문을연것은AI가아니다",
     "[포토]김재희,힘조절이관건이다",
     "삼닉레버리지‘20좌미만’단주출구마련",
-    "국내기준없는'반도체방류수염류'…경기도,용인가동전관리공백..."
+    "국내기준없는'반도체방류수염류'…경기도,용인가동전관리공백...",
+    "‘이럴수가’아무리친선대회라고하지만…‘충격’韓축구U-17월드...",
+    "[아시아오늘의역사10.6]제4차중동전쟁발발(1973)·태국탐마삿대학...",
+    "함평군,'15명방문단시찰'...용인반도체클러스터찾아인프라전략...",
+    "미국증시장초반혼조,엔비디아AI서버강세에도국채금리부담"
    ],
    "initialized": true,
-   "last_run": "2026-10-05T22:50:26.470241+09:00"
+   "last_run": "2026-10-05T22:55:22.991308+09:00"
   }
  },
  "press_names": {
