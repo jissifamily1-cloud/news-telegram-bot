@@ -326,10 +326,13 @@
     [
      "2026-10-06T01:15:25.423451+09:00",
      "한일 최태원이 던진 경제공동체론"
+    ],
+    [
+     "2026-10-06T01:30:32.734350+09:00",
+     "뚫었는데 평행선 반도체로 TK신공항 6년째 광주는"
     ]
    ],
    "seen_urls": [
-    "https://www.hani.co.kr/arti/economy/finance/1280655.html",
     "https://www.yna.co.kr/view/AKR20261002121351008?input=1195m",
     "https://www.m-i.kr/news/articleView.html?idxno=2002275",
     "https://www.ajunews.com/view/20261002152442220",
@@ -1828,10 +1831,10 @@
     "http://www.weeklytoday.com/news/articleView.html?idxno=796903",
     "https://www.todayenergy.kr/news/articleView.html?idxno=303834",
     "https://www.hankyung.com/article/202610064008i",
-    "https://www.hankyung.com/article/2026100537681"
+    "https://www.hankyung.com/article/2026100537681",
+    "https://www.dailian.co.kr/news/view/1697949/?sc=Naver"
    ],
    "seen_titles": [
-    "4만5000명품는아산탕정2착공…첨단산업배후도시만든다",
     "대주전자재료주가폭등랠리...무슨호재있나",
     "코스피,강보합으로7000선회복…코스닥은약보합마감",
     "美국채금리부담에도버틴코스피…7000선돌파마감",
@@ -3330,10 +3333,11 @@
     "[위클리오늘]이남오함평군수ㆍ함평군(10.6)",
     "[포커스]SK가스,SK어드밴스드지분100%확보...'흡수합병'최종결정",
     "美증시,국채금리올라도나스닥사상최고…엔비디아도최고치돌파",
-    "[특파원칼럼]최태원이던진한일경제공동체론"
+    "[특파원칼럼]최태원이던진한일경제공동체론",
+    "광주는반도체로뚫었는데…TK신공항6년째'평행선'"
    ],
    "initialized": true,
-   "last_run": "2026-10-06T01:25:18.827171+09:00"
+   "last_run": "2026-10-06T01:30:32.734350+09:00"
   }
  },
  "press_names": {
