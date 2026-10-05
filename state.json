@@ -410,15 +410,25 @@
     [
      "2026-10-05T18:00:43.281806+09:00",
      "대통령실의 깜냥"
+    ],
+    [
+     "2026-10-05T18:15:27.297319+09:00",
+     "매입 앞서 부작용 위축 살펴야 투자 장려 자사주"
+    ],
+    [
+     "2026-10-05T18:15:27.297319+09:00",
+     "방류 수질 재이용 폐수 줄이고 주문 추미애 늘려라"
+    ],
+    [
+     "2026-10-05T18:15:27.297319+09:00",
+     "턴다 약한 고리 대신 협력사 AI해커 사냥 삼성 현대차"
+    ],
+    [
+     "2026-10-05T18:15:27.297319+09:00",
+     "세리머니 최우진 지뢰 금메달 긴급 축구"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=448533",
-    "https://www.e-science.co.kr/news/articleView.html?idxno=136664",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1411780",
-    "http://www.smarttimes.co.kr/news/articleView.html?idxno=49424",
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=366564",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=278549",
     "https://dealsite.co.kr/articles/170037",
     "https://www.kukinews.com/article/view/kuk202610020114",
     "https://www.joongangenews.com/news/articleView.html?idxno=552401",
@@ -1912,15 +1922,15 @@
     "https://biz.heraldcorp.com/article/10893398",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1539505",
     "https://www.sedaily.com/article/20098212",
-    "https://www.idomin.com/news/articleView.html?idxno=2016306"
+    "https://www.idomin.com/news/articleView.html?idxno=2016306",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261005010001152",
+    "https://www.joongboo.com/news/articleView.html?idxno=363738469",
+    "https://www.hani.co.kr/arti/opinion/because/1280991.html",
+    "https://www.donga.com/news/Society/article/all/20261005/134788248/1",
+    "https://www.hankyung.com/article/2026100537521",
+    "https://www.dailian.co.kr/news/view/1697927/?sc=Naver"
    ],
    "seen_titles": [
-    "SK스퀘어115만원대보합권…사상최대이익뒤NAV가핵심",
-    "삼성전자,자사주계획물량101%,14.1조매입…수급우려커지나",
-    "SK바사,배우이민정모델독감백신‘스카이셀플루’신규광고공개",
-    "\"솔리다임중복상장?LG엔솔과달라\"…증권가,하이닉스실익'주목'",
-    "마이크론2분기D램점유율24%,2위SK하이닉스와1%p차이",
-    "SK쉴더스,AWS위협탐지·대응역량검증…TDR컴피턴시획득",
     "SK바이오사이언스,배우이민정모델로독감백신'스카이셀플루'광고...",
     "9월소비자물가2.9%상승…기름값·먹거리부담여전",
     "SK바이오사이언스,배우이민정함께한'스카이셀플루'신규광고공개",
@@ -3414,10 +3424,16 @@
     "리사수한국다시찾는다…AMD,韓AI협력확대기대감",
     "SK하이닉스방류수염소·황산이온,'FAO권고치'초과",
     "美규제허점틈타액침DUV343대비축…“中,7나노AI칩생산기반확...",
-    "[현장의눈]대통령실의깜냥2"
+    "[현장의눈]대통령실의깜냥2",
+    "반도체ETF월최대30%수익…개미는'AI소부장'더담았다",
+    "용인반도체산단가동앞두고…경기도\"방류수관리기준강화해야\"",
+    "자사주매입장려앞서투자위축부작용살펴야[왜냐면]",
+    "“폐수방류줄이고재이용늘려라”…추미애주문석달뒤‘수질경...",
+    "삼성·현대차대신협력사턴다…AI해커'약한고리'사냥",
+    "[데일리안오늘뉴스종합]지뢰세리머니'축구금메달'최우진긴급해..."
    ],
    "initialized": true,
-   "last_run": "2026-10-05T18:10:25.407671+09:00"
+   "last_run": "2026-10-05T18:15:27.297319+09:00"
   }
  },
  "press_names": {
