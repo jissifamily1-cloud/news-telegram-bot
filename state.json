@@ -365,7 +365,6 @@
     ]
    ],
    "seen_urls": [
-    "https://economist.co.kr/article/view/ecn202610020036",
     "https://www.polinews.co.kr/news/articleView.html?idxno=744700",
     "https://www.donga.com/news/Economy/article/all/20261002/134774057/1",
     "https://www.getnews.co.kr/news/articleView.html?idxno=882506",
@@ -1864,10 +1863,10 @@
     "http://kor.theasian.asia/archives/417022",
     "https://www.newsworker.co.kr/news/articleView.html?idxno=507161",
     "https://www.topstarnews.net/news/articleView.html?idxno=16238807",
-    "http://www.inews24.com/view/2011804"
+    "http://www.inews24.com/view/2011804",
+    "https://www.etnews.com/20261005000141"
    ],
    "seen_titles": [
-    "[CEO풍향계]'뉴욕깐부회동'이재용…'국방AI강화'김승연",
     "소독용알코올에서반도체핵심소재까지…IPA의진화",
     "\"1년만에3억이실화냐\"...6억대다시안나온다,외곽덮친'몸테크'",
     "AMDのリサ・スーCEO、7カ月ぶりの再訪韓を調整SamsungとのAIメモリ協力...",
@@ -3366,10 +3365,11 @@
     "[아시아오늘의역사10.6]제4차중동전쟁발발(1973)·태국탐마삿대학...",
     "함평군,'15명방문단시찰'...용인반도체클러스터찾아인프라전략...",
     "미국증시장초반혼조,엔비디아AI서버강세에도국채금리부담",
-    "삼성·SK,SEDEX서차세대HBM격돌…AI칩·소부장도총출동"
+    "삼성·SK,SEDEX서차세대HBM격돌…AI칩·소부장도총출동",
+    "경기도,이천죽당천조사…염소·황산이온배출기준마련정부에건의"
    ],
    "initialized": true,
-   "last_run": "2026-10-05T23:20:24.771772+09:00"
+   "last_run": "2026-10-05T23:25:20.651112+09:00"
   }
  },
  "press_names": {
