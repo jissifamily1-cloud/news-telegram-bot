@@ -358,13 +358,25 @@
     [
      "2026-10-05T23:10:26.941073+09:00",
      "차세대 삼성 AI칩 SEDEX서 격돌 총출동 HBM 소부장도"
+    ],
+    [
+     "2026-10-05T23:40:25.535799+09:00",
+     "대기업 20대 비중 조직으론 어둡다 미래 항아리"
+    ],
+    [
+     "2026-10-05T23:40:25.535799+09:00",
+     "아직도 불안하면 개장전 그래도 싸다 박신영의 AI반도체주 종목"
+    ],
+    [
+     "2026-10-05T23:40:25.535799+09:00",
+     "먹잇감 바보 해킹 100점 심사론 만든 이런 보안"
+    ],
+    [
+     "2026-10-05T23:40:25.535799+09:00",
+     "껍데기는 모오든 가라 길을 묻다 2026년"
     ]
    ],
    "seen_urls": [
-    "https://www.polinews.co.kr/news/articleView.html?idxno=744700",
-    "https://www.donga.com/news/Economy/article/all/20261002/134774057/1",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=882506",
-    "https://www.livebiz.today/news/articleView.html?idxno=205305",
     "https://biz.newdaily.co.kr/site/data/html/2026/10/02/2026100200246.html",
     "https://www.kpinews.kr/newsView/1065581477925016",
     "https://www.cnbnews.com/news/articleView.html?idxno=1018012",
@@ -1860,13 +1872,13 @@
     "https://www.newsworker.co.kr/news/articleView.html?idxno=507161",
     "https://www.topstarnews.net/news/articleView.html?idxno=16238807",
     "http://www.inews24.com/view/2011804",
-    "https://www.etnews.com/20261005000141"
+    "https://www.etnews.com/20261005000141",
+    "https://www.donga.com/news/Opinion/article/all/20261005/134789452/2",
+    "https://www.hankyung.com/article/202610053986i",
+    "https://www.donga.com/news/Opinion/article/all/20261005/134789456/2",
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=90067"
    ],
    "seen_titles": [
-    "소독용알코올에서반도체핵심소재까지…IPA의진화",
-    "\"1년만에3억이실화냐\"...6억대다시안나온다,외곽덮친'몸테크'",
-    "AMDのリサ・スーCEO、7カ月ぶりの再訪韓を調整SamsungとのAIメモリ協力...",
-    "엔비디아320조·SK하닉40조·삼성전자15조,'자사주매입이후성적표...",
     "뉴욕증시,美국채금리급등에도강보합…S&P5000.19%↑",
     "코오롱베니트,‘AXBOOSTSUMMIT’열고AI전환사례공유",
     "한국거래소\"삼성전자,자사주계획물량모두매입\"…수급공백우려",
@@ -3362,10 +3374,14 @@
     "함평군,'15명방문단시찰'...용인반도체클러스터찾아인프라전략...",
     "미국증시장초반혼조,엔비디아AI서버강세에도국채금리부담",
     "삼성·SK,SEDEX서차세대HBM격돌…AI칩·소부장도총출동",
-    "경기도,이천죽당천조사…염소·황산이온배출기준마련정부에건의"
+    "경기도,이천죽당천조사…염소·황산이온배출기준마련정부에건의",
+    "[사설]대기업20대비중18%…‘항아리’조직으론미래어둡다",
+    "\"AI반도체주아직도싸다?\"…그래도불안하면이종목[박신영의개장전...",
+    "[사설]‘100점보안’바보만든AI해킹…이런심사론‘먹잇감’만...",
+    "[칼럼]AI길을묻다:2026년모오든껍데기는가라"
    ],
    "initialized": true,
-   "last_run": "2026-10-05T23:35:20.599577+09:00"
+   "last_run": "2026-10-05T23:40:25.535799+09:00"
   }
  },
  "press_names": {
