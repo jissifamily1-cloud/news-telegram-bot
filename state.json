@@ -410,10 +410,13 @@
     [
      "2026-10-05T10:20:25.287621+09:00",
      "TSMC에 타진 부딪히자 머스크 내밀며 반도체 동맹 독자"
+    ],
+    [
+     "2026-10-05T10:30:30.563737+09:00",
+     "SK바이오팜 한미약품 10대 삼성바이오 아태 바이오거래 선정"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=278120",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4437565",
     "https://www.yna.co.kr/view/AKR20261002063900004?input=1195m",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1726548",
@@ -1912,10 +1915,10 @@
     "https://www.sisajournal.com/news/articleView.html?idxno=388808",
     "https://www.gqkorea.co.kr/2026/10/05/%ed%81%ac%eb%a6%ac%ec%97%90%ec%9d%b4%ed%8b%b0%eb%b8%8c-%eb%94%94%eb%a0%89%ed%84%b0-%ec%a0%95%ea%b5%ac%ed%98%b8-%ec%93%b8%eb%8d%b0%ec%97%86%eb%8a%94-%ec%8b%9c%ea%b0%84-%eb%82%ad%eb%b9%84%ec%9d%98/",
     "https://www.mediapen.com/news/view/1127870",
-    "https://www.g-enews.com/view.php?ud=202610050958447161fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202610050958447161fbbec65dfb_1",
+    "https://www.yna.co.kr/view/AKR20261005012400017?input=1195m"
    ],
    "seen_titles": [
-    "[더밸류브리핑]오늘의키움증권소식...AI검색·절세2종",
     "\"아이폰400만원?맥북700만원?\"…앱등이의절규[김익환의부처핸즈업...",
     "$200billioninvestmentintheU.S.begins",
     "\"기술료빠진진짜실력드러난다\"···K-바이오,3분기'본업'주목",
@@ -3414,10 +3417,11 @@
     "다시상승세탄비트코인…10만달러탈환가를'두변수'",
     "크리에이티브디렉터정구호“쓸데없는시간,낭비의시간이라는건없...",
     "외국인K패션매출55%↑…롯데면세점,명동본점쇼핑영토넓힌다",
-    "머스크,독자반도체벽부딪히자TSMC에손내밀며팹동맹타진"
+    "머스크,독자반도체벽부딪히자TSMC에손내밀며팹동맹타진",
+    "삼성바이오·SK바이오팜·한미약품,아태10대바이오거래선정"
    ],
    "initialized": true,
-   "last_run": "2026-10-05T10:25:18.531943+09:00"
+   "last_run": "2026-10-05T10:30:30.563737+09:00"
   }
  },
  "press_names": {
