@@ -374,16 +374,29 @@
     [
      "2026-10-05T13:15:22.600435+09:00",
      "실적도 주목 개막 삼성전자 국감 페스타"
+    ],
+    [
+     "2026-10-05T13:40:25.470724+09:00",
+     "한국가스공사 일정 KCC 5일 경기 프로농구 VS 정관 현대모비스"
+    ],
+    [
+     "2026-10-05T13:40:25.470724+09:00",
+     "어르신 페스티벌 스마일 1000여 영주시노인복지관 제8회 마무리"
+    ],
+    [
+     "2026-10-05T13:40:25.470724+09:00",
+     "정보 고객 티빙 국감행 줄줄이 이통3사 유출"
+    ],
+    [
+     "2026-10-05T13:40:25.470724+09:00",
+     "Won Investors Foreign More Trillion in Shares Than KOSPI Sell"
+    ],
+    [
+     "2026-10-05T13:40:25.470724+09:00",
+     "올라 실수요도 대기 집값 청약 마련 뛰어 분양가도 기다렸는데"
     ]
    ],
    "seen_urls": [
-    "https://www.smartbizn.com/news/articleView.html?idxno=155363",
-    "https://www.newsis.com/view/NISX20261002_0003812191",
-    "https://www.ajunews.com/view/20261002112808749",
-    "https://www.donga.com/news/Economy/article/all/20261002/134774732/2",
-    "https://www.joongangenews.com/news/articleView.html?idxno=552350",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16233925",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4437592",
     "https://www.hg-times.com/news/articleView.html?idxno=305772",
     "https://www.ytn.co.kr/_ln/0102_202610021149189775",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000019312&cp=nv",
@@ -1876,16 +1889,16 @@
     "https://www.edaily.co.kr/News/Read?newsId=01945046645609968&mediaCodeNo=257",
     "https://zdnet.co.kr/view/?no=20261005111000",
     "https://www.fnnews.com/news/202610051320527656",
-    "http://www.segyebiz.com/newsView/20261005505709?OutUrl=naver"
+    "http://www.segyebiz.com/newsView/20261005505709?OutUrl=naver",
+    "http://www.cctimes.kr/news/articleView.html?idxno=930566",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092171426",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16238485",
+    "https://www.kbsm.net/news/view.php?idx=536550",
+    "https://www.asiatime.co.kr/article/20261005500053",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=278219",
+    "https://www.mt.co.kr/estate/2026/10/05/2026100213515497219"
    ],
    "seen_titles": [
-    "한전-SK하이닉스,K-반도체초격차위한전력공급파트너십체결",
-    "AIDC붐타고HBM특허분쟁가열…넷리스트,마이크론AI메모리제소",
-    "유안타증권,에이블리·4910과제휴…쇼핑·투자혜택동시에",
-    "미국채금리에또출렁…코스피롤러코스터",
-    "실적886%뛰었는데···SK증권IB는왜뒷걸음질쳤나",
-    "\"AI3대메가프로젝트파도친다…물들어올때노저어야\"",
-    "[食전食후]코스피·코스닥동반강보합…기타법인매수에반도체주소...",
     "SK렌터카하계인턴십종료…청년들에‘실전모빌리티경험’선사",
     "[캐시워크오퀴즈정답]캐시워크10월2일11시퀴즈정답정리",
     "[캐시워크정답]돈버는퀴즈정답10월2일11시캐시워크정답확인",
@@ -3378,10 +3391,17 @@
     "한달새20%대뛴반도체공정·소부장ETF…이달도달릴까",
     "[ZD브리핑]'AI페스타26'개막…국감·삼성전자실적도주목",
     "삼성바이오·SK바이오팜·한미약품,올해'아태10대바이오거래'선정",
-    "단일종목레버리지20주단위거래…단주처분방안검토"
+    "단일종목레버리지20주단위거래…단주처분방안검토",
+    "'108만평규모'아산탕정2도시개발사업착공",
+    "아태지역흔든K-바이오…삼성·SK·한미,'영향력큰딜'선정",
+    "프로농구오늘(5일)경기일정…현대모비스VSKCC-한국가스공사VS정관...",
+    "영주시노인복지관,'제8회스마일페스티벌'마무리...어르신1000여명...",
+    "“고객정보유출왜(?)”…티빙·이통3사줄줄이국감행",
+    "ForeignInvestorsSellMoreThan20TrillionWoninKOSPIShares",
+    "\"집값올라청약기다렸는데분양가도뛰어\"…대기실수요도내집마련..."
    ],
    "initialized": true,
-   "last_run": "2026-10-05T13:35:21.748353+09:00"
+   "last_run": "2026-10-05T13:40:25.470724+09:00"
   }
  },
  "press_names": {
