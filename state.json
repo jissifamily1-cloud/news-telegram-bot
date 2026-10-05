@@ -250,12 +250,17 @@
     [
      "2026-10-06T06:50:26.622668+09:00",
      "기술수출 반도 자금 한파 바이오 코스닥 21조에도"
+    ],
+    [
+     "2026-10-06T07:00:41.580675+09:00",
+     "가시밭길 정유 재판 호황 실적은 국감까지 경영은 4사"
+    ],
+    [
+     "2026-10-06T07:00:41.580675+09:00",
+     "하천 마련 방류 기준 황산이온 건의 염소 SK하이닉스"
     ]
    ],
    "seen_urls": [
-    "http://www.joseilbo.com/news/news_read.php?uid=576784&class=32",
-    "https://www.mk.co.kr/article/12167224",
-    "https://www.dt.co.kr/article/12087170",
     "https://it.chosun.com/news/articleView.html?idxno=2023092171355",
     "https://www.wikitree.co.kr/articles/1163614",
     "http://www.newstomato.com/ReadNews.aspx?no=1315568&inflow=N",
@@ -1752,12 +1757,12 @@
     "https://www.sedaily.com/article/20098163",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1726726",
     "https://www.enetnews.co.kr/news/articleView.html?idxno=55003",
-    "https://www.newsverse.kr/news/articleView.html?idxno=11589"
+    "https://www.newsverse.kr/news/articleView.html?idxno=11589",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492744",
+    "https://news.bizwatch.co.kr/article/industry/2026/10/02/0037",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8678153"
    ],
    "seen_titles": [
-    "[증시-마감]코스피,막판7,000선탈환…코스닥,900선찍고반납",
-    "[속보]최태원,SK지분2.3%매각...“9440억원재산분할금마련”",
-    "SK하이닉스-마이크론,D램점유율격차1%",
     "가짜석유주유소최근5년간감소…\"반복위반업소처분강화해야\"",
     "[마감]삼전닉스자사주매입이구세주…코스피,7천선회복",
     "[속보]최태원,SK지분2.3%매각결정...9440억규모",
@@ -3254,10 +3259,13 @@
     "레버리지ETF‘20주미만’투자자출구연다…시간외매도허용검토...",
     "美금리급등에도기술주질주…코스피도'금리보다AI'힘받나",
     "[브랜드평판]삼성전자,반도체상장기업10월1위...SK하이닉스,한미...",
-    "[오늘의경제뉴스]기술수출21조에도'바이오한파'…코스닥자금반도..."
+    "[오늘의경제뉴스]기술수출21조에도'바이오한파'…코스닥자금반도...",
+    "삼성전자·SK하이닉스쌍끌이…반도체브랜드평판9.61%뛰었다",
+    "'실적은호황,경영은가시밭길'…정유4사,재판·국감까지",
+    "SK하이닉스방류하천염소·황산이온기준마련건의"
    ],
    "initialized": true,
-   "last_run": "2026-10-06T06:55:24.312701+09:00"
+   "last_run": "2026-10-06T07:00:41.580675+09:00"
   }
  },
  "press_names": {
