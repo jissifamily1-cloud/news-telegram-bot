@@ -334,10 +334,13 @@
     [
      "2026-10-06T00:50:25.593670+09:00",
      "흡수 합병 결정 SK가스 지분 확보 최종 SK어드밴스드"
+    ],
+    [
+     "2026-10-06T01:00:48.199481+09:00",
+     "나스닥 올라도 사상최고 국채금리 돌파 엔비디아도 최고치 증시"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026100205346",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1726611",
     "https://www.hani.co.kr/arti/economy/finance/1280655.html",
     "https://www.yna.co.kr/view/AKR20261002121351008?input=1195m",
@@ -1836,10 +1839,10 @@
     "https://it.chosun.com/news/articleView.html?idxno=2023092171436",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000020021&cp=nv",
     "http://www.weeklytoday.com/news/articleView.html?idxno=796903",
-    "https://www.todayenergy.kr/news/articleView.html?idxno=303834"
+    "https://www.todayenergy.kr/news/articleView.html?idxno=303834",
+    "https://www.hankyung.com/article/202610064008i"
    ],
    "seen_titles": [
-    "'1000억가문193곳'박종문마법…고액자산가삼성증권으로몰렸다",
     "[CAR브리프]르노ㆍKGMㆍGMㆍ한국앤컴퍼니ㆍ한국타이어ㆍSK렌터카ㆍ벤...",
     "4만5000명품는아산탕정2착공…첨단산업배후도시만든다",
     "대주전자재료주가폭등랠리...무슨호재있나",
@@ -3338,10 +3341,11 @@
     "FollowingKiwoom,MiraeAssetJoinsRaceforMLCCETFs,the'Riceofthe",
     "“독파모만으론어렵다”…정부,프론티어AI개발에4.7조투입",
     "[위클리오늘]이남오함평군수ㆍ함평군(10.6)",
-    "[포커스]SK가스,SK어드밴스드지분100%확보...'흡수합병'최종결정"
+    "[포커스]SK가스,SK어드밴스드지분100%확보...'흡수합병'최종결정",
+    "美증시,국채금리올라도나스닥사상최고…엔비디아도최고치돌파"
    ],
    "initialized": true,
-   "last_run": "2026-10-06T00:55:20.458365+09:00"
+   "last_run": "2026-10-06T01:00:48.199481+09:00"
   }
  },
  "press_names": {
