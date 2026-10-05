@@ -402,18 +402,17 @@
     [
      "2026-10-05T15:55:21.203744+09:00",
      "목소리 지금 후회 팔면 전문가들 삼전닉스 크게 유명 투자"
+    ],
+    [
+     "2026-10-05T16:05:21.265675+09:00",
+     "마이크론 최고가에 조정 원인은 삼전닉스 D램 전망치 호조에도"
+    ],
+    [
+     "2026-10-05T16:05:21.265675+09:00",
+     "동탄 토허구역 지정에도 경기로 계속 오르는 서울 집값 불장 이동"
     ]
    ],
    "seen_urls": [
-    "https://www.pointe.co.kr/news/articleView.html?idxno=85510",
-    "http://www.yonhapnewstv.co.kr/news/MYH20261002125946CZ8",
-    "https://byline.network/?p=9004111222622115",
-    "http://www.newsprime.co.kr/news/article.html?no=749808",
-    "https://www.s-journal.co.kr/news/articleView.html?idxno=44158",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492231",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=359972",
-    "https://www.naeil.com/news/read/604094",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=359965",
     "https://www.naeil.com/news/read/604095",
     "https://www.news2day.co.kr/article/20261002500185",
     "https://www.insightkorea.co.kr/news/articleView.html?idxno=255681",
@@ -1904,18 +1903,18 @@
     "https://news.tvchosun.com/site/data/html_dir/2026/10/05/2026100590065.html",
     "https://www.pressian.com/pages/articles/2026100515390601015",
     "https://www.suwonilbo.kr/view.html?id=L2610051535052ebb",
-    "https://biz.heraldcorp.com/article/10893223"
+    "https://biz.heraldcorp.com/article/10893223",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=882629",
+    "https://www.newsis.com/view/NISX20261005_0003814470",
+    "https://news.jtbc.co.kr/article/NB12321400?influxDiv=NAVER",
+    "https://www.newscj.com/news/articleView.html?idxno=3437935",
+    "https://biz.chosun.com/topics/topics_social/2026/10/05/ZZENCUELMFA4ZODHHNH7SRRNZI/",
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5223110",
+    "https://news.tvchosun.com/site/data/html_dir/2026/10/05/2026100590070.html",
+    "https://www.g-enews.com/view.php?ud=20261002144245684327fa31d75c_1",
+    "https://www.joongang.co.kr/article/25467203"
    ],
    "seen_titles": [
-    "KB증권\"4분기메모리가격두자릿수상승…가속구간진입\"",
-    "영란은행총재\"AI투자열풍\"경고VS블랙록CEO\"AI버블없다\"",
-    "[K리그1스타]'정경호픽'강성윤이쓴성장서사...대전B팀방출후조...",
-    "솔리다임IPO논의부상…AI메모리투자전쟁속'자본배분'고민",
-    "[스톡포인트]솔리다임美상장설에SK하이닉스\"주주가치우선\"…증권가...",
-    "물가다시2%대로내렸지만…\"10월엔3%대\"",
-    "SKAX,‘AI부트캠프바이브’교육출시",
-    "한국은행\"물가상승률3%내외높은수준이어갈것\"",
-    "'중복상장'우려에입연SK하이닉스…솔리다임,美자본으로성장판...",
     "SK바이오사이언스,독감백신'스카이셀플루'신규광고론칭",
     "한화가한달당긴인사시계…재계'조기인사'확산되나",
     "ELS조기상환급증…수익률7.8%로상승",
@@ -3406,10 +3405,19 @@
     "SK하이닉스방류하천염소·황산이온농도…'FAO권고치'초과",
     "‘용인반도체클러스터’가동앞둔경기도\"하천내염소이온·황산이...",
     "피해확인·정밀검증없이…반도체산업규제부터요구하는경기도",
-    "“삼전닉스지금팔면크게후회”유명전문가들한목소리…왜?[투자..."
+    "“삼전닉스지금팔면크게후회”유명전문가들한목소리…왜?[투자...",
+    "경기도\"이천SK하이닉스방류죽당천수질FAO권고치보다높아\"...강화...",
+    "하이닉스방류수염소등FAO기준초과,안성농업계'촉각'",
+    "과기부\"독파모중단없다\"...프론티어AI개발에4조7000억원투입",
+    "반도체방류수에기준없는염소·황산…경기도,SK하이닉스가동전관...",
+    "SK하이닉스방류하천,염소·황산이온농도‘FAO권고치’보다높아",
+    "경기도\"SK하이닉스방류수유입하천서염소·황산이온'권고치초과'\"",
+    "\"SK하이닉스방류수,FAO권고치초과\"…경기도,정부에관리기준마련...",
+    "D램최고가에마이크론호조에도삼전닉스전망치조정…원인은?",
+    "토허구역지정에도집값계속오르는동탄…서울‘불장’경기로이동..."
    ],
    "initialized": true,
-   "last_run": "2026-10-05T16:00:40.255590+09:00"
+   "last_run": "2026-10-05T16:05:21.265675+09:00"
   }
  },
  "press_names": {
