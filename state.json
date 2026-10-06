@@ -734,21 +734,13 @@
     [
      "2026-10-07T08:50:26.177638+09:00",
      "중개형 혜자 실시 ISA 이벤트 시즌3 키움증권"
+    ],
+    [
+     "2026-10-07T08:55:22.180864+09:00",
+     "가려진 빈틈 ESS 국산화"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=278775",
-    "https://www.segye.com/newsView/20261006505343?OutUrl=naver",
-    "https://www.greened.kr/news/articleView.html?idxno=351430",
-    "https://www.nocutnews.co.kr/news/6587314",
-    "https://www.sentv.co.kr/article/view/sentv202610060058",
-    "https://www.wikitree.co.kr/articles/1164114",
-    "https://www.thepublic.kr/news/articleView.html?idxno=321170",
-    "http://www.beyondpost.co.kr/view.php?ud=202610061001069873be44c0aacd_30",
-    "https://www.ekn.kr/web/view.php?key=20261006023442530",
-    "https://www.edaily.co.kr/News/Read?newsId=03024166645610296&mediaCodeNo=257",
-    "https://biz.newdaily.co.kr/site/data/html/2026/10/06/2026100600074.html",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=728797",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=424131",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=278786",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=278242",
@@ -2236,21 +2228,21 @@
     "https://www.ajunews.com/view/20261007084248433",
     "http://www.datanews.co.kr/news/article.html?no=146781",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=279031",
-    "https://view.asiae.co.kr/article/2026100708465339666"
+    "https://view.asiae.co.kr/article/2026100708465339666",
+    "https://kpenews.com/View.aspx?No=4254310",
+    "https://magazine.hankyung.com/business/article/202610077179b",
+    "https://www.sedaily.com/article/20098817",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1726921",
+    "https://www.edaily.co.kr/News/Read?newsId=02876566645610624&mediaCodeNo=257",
+    "https://www.newsis.com/view/NISX20261007_0003816665",
+    "https://www.etoday.co.kr/news/view/2633145",
+    "https://www.thepowernews.co.kr/view.php?ud=202610061707441141de3f0aa1be_7",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=445356",
+    "https://www.mt.co.kr/stock/2026/10/07/2026100708250884456",
+    "https://www.kpinews.kr/newsView/1065569481861307",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092171500"
    ],
    "seen_titles": [
-    "SKT,한글창제뜻'디지털언어'에담았다",
-    "삼전·닉스주춤하며코스피7000선공방…코스닥은2%대껑충",
-    "코스피,美금리부담에강보합...코스닥은1%대↑",
-    "미장불붙어도코스피7천선공방…코스닥2%대상승",
-    "코스피,연휴뒤첫거래일7000선공방전…외국인'팔자'",
-    "함평군,용인반도체현장에서미래산업해법찾는다",
-    "삼성·SK반도체베테랑中으로…CXMT간27명중26명퇴사",
-    "코스피,美증시훈풍에도강보합출발…7000선공방",
-    "[단독]‘상습위반’대기업지원하는정부…산업부산하기관210억지...",
-    "주거용오피스텔재조명…‘영종SKVIEW’특별분양",
-    "中노광장비수백대비축…美마이크론,D램·HBM바짝추격[샌드위치...",
-    "통신사멤버십,10월엔뭐가유리할까…혜택뜯어보니",
     "엔비디아,삼성전자·SK하이닉스에'HBM더얇게'주문했다",
     "국방AX청사진,SKT가제시...군용'AI참모'공개",
     "U.S.AIDataCentersFace34%PowerShortfallby2028",
@@ -3738,10 +3730,22 @@
     "[마켓프리뷰]美증시사상최고치…코스피,하락딛고반등할까",
     "SKT휴대폰가입자한달새5만명줄어든이유는",
     "은행업,3분기숨고르기…4분기수익성반등전망",
-    "키움증권,'중개형ISA혜자이벤트시즌3'실시"
+    "키움증권,'중개형ISA혜자이벤트시즌3'실시",
+    "키움증권,연말절세·투자동시에..중개형ISA혜택확대",
+    "“100조넘긴다”삼성전자신기록전망",
+    "추미애“반도체산단폐수,수질관리도필요”",
+    "대기업오너4·5세94%유학파…컬럼비아대최다",
+    "SK온,포드품질인증‘Q1’획득…헝가리공장품질경쟁력입증",
+    "SK온,포드'Q1인증'획득…\"헝가리생산거점품질경쟁력입증\"",
+    "SK온헝가리이반차공장,포드최고품질인증…양산2년만에‘Q1’",
+    "반도체수출603억달러'사상최대'인데삼성·하이닉스는빠졌다…돈은...",
+    "SKT,AI로100년전우리말되살린다…'2026말모이'캠페인",
+    "\"SK하닉,현재주가지나치게저평가돼…목표가400만원\"-IBK",
+    "추미애,염소황산검출에\"반도체산단수질관리절대필요\"",
+    "'ESS100%국산화'에가려진빈틈[줌인IT]"
    ],
    "initialized": true,
-   "last_run": "2026-10-07T08:50:26.177638+09:00"
+   "last_run": "2026-10-07T08:55:22.180864+09:00"
   }
  },
  "press_names": {
