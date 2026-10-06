@@ -1078,11 +1078,17 @@
     [
      "2026-10-06T20:25:21.832922+09:00",
      "증거인멸 LG유플러스 서버 개인정보 국감서 유출뒤 집중포화 폐기"
+    ],
+    [
+     "2026-10-06T20:30:36.570443+09:00",
+     "국가도시공원 울산대공원인가"
+    ],
+    [
+     "2026-10-06T20:30:36.570443+09:00",
+     "위험요인 꼼꼼히 이전 공항 박성민 광주"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=01649846645610296&mediaCodeNo=257",
-    "https://www.edaily.co.kr/News/Read?newsId=01653126645610296&mediaCodeNo=257",
     "https://www.etoday.co.kr/news/view/2628659",
     "https://www.etoday.co.kr/news/view/2627307",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=278745",
@@ -2580,11 +2586,11 @@
     "https://www.straightnews.co.kr/news/articleView.html?idxno=312629",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610060163&t=NN",
     "http://www.kjdaily.com/article.php?aid=1791285326688408002",
-    "https://www.thelec.kr/news/articleView.html?idxno=63308"
+    "https://www.thelec.kr/news/articleView.html?idxno=63308",
+    "http://www.ujeil.com/news/articleView.html?idxno=393073",
+    "http://www.ujeil.com/news/articleView.html?idxno=393136"
    ],
    "seen_titles": [
-    "SK윤활기유R＆D파워…“글로벌업체번호표뽑고기다려”",
-    "[사설]AI에뚫린금융보안망,국제공조로해법찾아야",
     "광주군공항이전속도전…트럼프美공장압박빌미될라",
     "납품단가다음은‘데이터’⋯AI시대대기업·中企‘新갑을관계’탄...",
     "같은회사인데몸값은달라졌다⋯AI가만든‘직장인新계급’[AI신계...",
@@ -4082,10 +4088,12 @@
     "정진욱의원\"초광역특구에기업유치하려면전력·R&D등파격적인센...",
     "2배벌려다2.3조원날렸다…단일종목ETF손실액첫공개",
     "‘호남반도체클러스터전략’삼성평택팹서찾는다",
-    "개인정보유출뒤서버폐기LG유플러스...국감서'증거인멸'집중포화"
+    "개인정보유출뒤서버폐기LG유플러스...국감서'증거인멸'집중포화",
+    "국가도시공원,왜울산대공원인가",
+    "[지역국회의원국감활동]박성민\"광주軍공항이전위험요인꼼꼼히..."
    ],
    "initialized": true,
-   "last_run": "2026-10-06T20:25:21.832922+09:00"
+   "last_run": "2026-10-06T20:30:36.570443+09:00"
   }
  },
  "press_names": {
