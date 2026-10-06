@@ -1149,8 +1149,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026100537681",
-    "https://www.dailian.co.kr/news/view/1697949/?sc=Naver",
     "http://www.economytalk.kr/news/articleView.html?idxno=424482",
     "https://www.mt.co.kr/opinion/2026/10/06/2026100510240948822",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000020038&cp=nv",
@@ -2648,11 +2646,11 @@
     "https://www.pressian.com/pages/articles/2026100618435492346",
     "http://www.joseilbo.com/news/news_read.php?uid=576926&class=1",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=278317",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=745032"
+    "https://www.polinews.co.kr/news/articleView.html?idxno=745032",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261007.22006001491",
+    "https://www.fntimes.com/html/view.php?ud=202610061847568191179ad43907_18"
    ],
    "seen_titles": [
-    "美증시,국채금리올라도나스닥사상최고…엔비디아도최고치돌파",
-    "[특파원칼럼]최태원이던진한일경제공동체론",
     "광주는반도체로뚫었는데…TK신공항6년째'평행선'",
     "전기세25조선납요구에성과급잔치?한전이조금은억울한이유",
     "과징금전성시대유감[청계광장/이성엽]",
@@ -4150,10 +4148,12 @@
     "안호영의원\"국정감사와메가프로젝트는정쟁의대상아니야\"",
     "이재용주식재산13.2조감소…48개그룹총수18.6조줄었다",
     "27ExperiencedEngineersfromSamsungandSKhynixJoinedCXMT",
-    "[2026국감-과방위]독자파운데이션모델·로봇·보안총출동…'AI패권..."
+    "[2026국감-과방위]독자파운데이션모델·로봇·보안총출동…'AI패권...",
+    "여야,국감서알래스카LNG사업집중추궁",
+    "단일종목레버리지ETF공방…이형일·권대영\"송구하다\"[2026국감]"
    ],
    "initialized": true,
-   "last_run": "2026-10-06T19:30:35.519963+09:00"
+   "last_run": "2026-10-06T19:35:20.692098+09:00"
   }
  },
  "press_names": {
