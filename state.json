@@ -678,19 +678,21 @@
     [
      "2026-10-07T08:30:31.138043+09:00",
      "코스피 증시 급락 최고치에도 ADR 하이닉스 긴장"
+    ],
+    [
+     "2026-10-07T08:35:22.609996+09:00",
+     "LCD 반도체 참사 라인 저가 중국 온다 범용 무너지는 덤핑에 제2의"
+    ],
+    [
+     "2026-10-07T08:35:22.609996+09:00",
+     "웃돈 종가보다 현대차 정규장"
+    ],
+    [
+     "2026-10-07T08:35:22.609996+09:00",
+     "삼위일체 국내외 코스맥스 고성장 법인 SK증권 메출"
     ]
    ],
    "seen_urls": [
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=617415",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=209235",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492838",
-    "https://biz.newdaily.co.kr/site/data/html/2026/10/06/2026100600072.html",
-    "https://www.g-enews.com/view.php?ud=202610060957291409153ddfb15a_1",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=96559",
-    "https://www.yna.co.kr/view/AKR20261006055500017?input=1195m",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610060927174110501",
-    "https://biz.heraldcorp.com/article/10893821",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704948",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=870182",
     "https://www.gukjenews.com/news/articleView.html?idxno=3713690",
     "https://www.ajunews.com/view/20261006082734496",
@@ -2180,19 +2182,19 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1726873",
     "https://www.news1.kr/photos/8145225",
     "https://biz.sbs.co.kr/article_hub/20000338627?division=NAVER",
-    "https://www.kbmaeil.com/article/20261007500031"
+    "https://www.kbmaeil.com/article/20261007500031",
+    "https://www.chosun.com/economy/money/2026/10/07/UL6MXIUYXRDIBLNWSMVZ66TAFY/",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=279027",
+    "https://magazine.hankyung.com/business/article/202610077053b",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=96630",
+    "https://www.ziksir.com/news/articleView.html?idxno=148503",
+    "https://www.etoday.co.kr/news/view/2633129",
+    "https://www.edaily.co.kr/News/Read?newsId=02824086645610624&mediaCodeNo=257",
+    "https://www.pointe.co.kr/news/articleView.html?idxno=85663",
+    "https://www.tokenpost.kr/news/insights/419110",
+    "https://www.cstimes.com/news/articleView.html?idxno=723119"
    ],
    "seen_titles": [
-    "국민연금,삼성전자팔고하이닉스1.6조매수",
-    "'軍참모가된AI'…SKT,국방AX기술선보여",
-    "86주째오른서울집값에…국토부국감'공급실효성'정조준",
-    "美국채금리급등에코스피7000선보합…코스닥2%상승",
-    "단일종목레버리지ETF,8월급락장서'LP호가의무위반'집중",
-    "코스피,장초반7000선공방…코스닥2%대급등",
-    "[AI픽]전장데이터읽고판단돕는다…SKT'AI참모'공개",
-    "경기도,반도체공장수질관리대책마련촉구…추미애\"공정수재사용...",
-    "삼성전자,3분기또‘새역사’…국내기업최초분기영업익‘100조...",
-    "국내외AI기업350곳집결…과기정통부,'AI페스타'개최",
     "[개장]코스피,연휴후7000선안팎등락",
     "SK텔레콤,'2026지상군페스티벌'서AI참모·저궤도위성등국방AX기...",
     "SKT,UX라이팅가이드개발…고객과소통하는디지털언어강화",
@@ -3682,10 +3684,20 @@
     "[증권&Now]키움증권,강소기업15곳초청'키움콥데이'개최등",
     "[그래픽]'삼전닉스'연령별평균매입단가·보유기간",
     "[어제장오늘장]코스피쉬어가…코스닥은900선탈환",
-    "美증시최고치에도코스피‘긴장’…하이닉스ADR6.39%급락"
+    "美증시최고치에도코스피‘긴장’…하이닉스ADR6.39%급락",
+    "삼성전자,사상최초분기영업이익’100조시대'연다...주가반등할까",
+    "[국감2026]LGU+,IMSI체계·해킹은폐논란...배경훈\"문제인식,살펴...",
+    "두산은NYU,GS는스탠퍼드…재벌가'단골유학'대학보니",
+    "대기업오너4·5세94%'유학파'…컬럼비아대에가장많이몰렸다",
+    "반도체숨고르기…삼성전자·SK하이닉스,실적앞두고프리마켓서동반...",
+    "SK證“KB·신한·하나금융,주주환원50%대…금리상승·환율하락수혜...",
+    "“100년전글씨가폰트로”…SKT,AI로‘말모이체’만들었다",
+    "\"제2의LCD참사온다\"...중국저가덤핑에무너지는반도체범용라인...",
+    "[온체인주식선물]현대차,정규장종가보다0.97%웃돈",
+    "SK증권\"코스맥스,국내외법인메출고성장…한·중·미삼위일체\""
    ],
    "initialized": true,
-   "last_run": "2026-10-07T08:30:31.138043+09:00"
+   "last_run": "2026-10-07T08:35:22.609996+09:00"
   }
  },
  "press_names": {
