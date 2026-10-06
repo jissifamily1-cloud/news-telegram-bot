@@ -458,10 +458,13 @@
     [
      "2026-10-07T07:20:24.053140+09:00",
      "목표주가 150만원으로 SK스퀘어 상향 주주환원 강화"
+    ],
+    [
+     "2026-10-07T07:25:19.699234+09:00",
+     "경제뉴스 알아야 국내외"
     ]
    ],
    "seen_urls": [
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=53424",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000071066",
     "https://www.fetv.co.kr/news/articleView.html?idxno=311262",
     "https://www.viva100.com/article/20261006500139",
@@ -1960,10 +1963,10 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068380",
     "https://www.hankyung.com/article/2026100768816",
     "https://www.smarttoday.co.kr/ko-kr/articles/112334",
-    "https://view.asiae.co.kr/article/2026100615342713070"
+    "https://view.asiae.co.kr/article/2026100615342713070",
+    "https://www.fntimes.com/html/view.php?ud=202610070712126219141825007d_18"
    ],
    "seen_titles": [
-    "SKT,'2026지상군페스티벌'참가...'AI참모'중점소개",
     "연휴끝증시,삼성전자실적에쏠린눈…코스피7000선안착시험대",
     "BC카드,파리나무십자가소년합창단공연예매할인",
     "SKT,한글날맞아쉬운우리말담은‘UX라이팅가이드’개발",
@@ -3462,10 +3465,11 @@
     "'디스플레이공룡'중국BOE참전…'반도체유리기판'삼성·SK·LG에도전장",
     "AI반도체株에다시돈몰렸다…AMD·브로드컴·마벨등강세[뉴욕증시...",
     "만드는데만10주걸려없어서못판다…AI전력폭증이부른MLCC품귀",
-    "\"SK스퀘어,주주환원강화…목표주가150만원으로상향\"[클릭e종목]"
+    "\"SK스퀘어,주주환원강화…목표주가150만원으로상향\"[클릭e종목]",
+    "[KFT모닝브리프]2026.10.07—오늘꼭알아야할국내외경제뉴스"
    ],
    "initialized": true,
-   "last_run": "2026-10-07T07:20:24.053140+09:00"
+   "last_run": "2026-10-07T07:25:19.699234+09:00"
   }
  },
  "press_names": {
