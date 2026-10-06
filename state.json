@@ -702,17 +702,29 @@
     [
      "2026-10-07T08:40:27.299927+09:00",
      "유지 목표가 수요에 400만원 SK하이닉스"
+    ],
+    [
+     "2026-10-07T08:45:24.969229+09:00",
+     "생성형 로그프레소 연동 챗GPT 출시 보안관리 엔터프라이즈"
+    ],
+    [
+     "2026-10-07T08:45:24.969229+09:00",
+     "400만원 흔들리지마세요 IBK투자증권 갑니다 하이닉스 지나친"
+    ],
+    [
+     "2026-10-07T08:45:24.969229+09:00",
+     "너무 아직 SK하이닉스가 간다 170만원대 400만원 저평가"
+    ],
+    [
+     "2026-10-07T08:45:24.969229+09:00",
+     "의혹 매각 최태원 공시하라 회피 지분 공동보유"
+    ],
+    [
+     "2026-10-07T08:45:24.969229+09:00",
+     "많아 흔들리지 않을 400만닉스 이유 목표주가 바꿨다"
     ]
    ],
    "seen_urls": [
-    "https://dealsite.co.kr/articles/170093",
-    "https://www.dailian.co.kr/news/view/1697601/?sc=Naver",
-    "https://www.edaily.co.kr/News/Read?newsId=02961846645610296&mediaCodeNo=257",
-    "https://www.edaily.co.kr/News/Read?newsId=02952006645610296&mediaCodeNo=257",
-    "https://www.hankyung.com/article/202610053516i",
-    "http://www.newslock.co.kr/news/articleView.html?idxno=137409",
-    "https://www.theguru.co.kr/news/article.html?no=107856",
-    "https://www.edaily.co.kr/News/Read?newsId=02929046645610296&mediaCodeNo=257",
     "https://www.bigtanews.co.kr/article/view/big202610060004",
     "http://fpn119.co.kr/257523",
     "https://www.sisajournal.com/news/articleView.html?idxno=389195",
@@ -2204,17 +2216,17 @@
     "https://www.munhwa.com/article/11621806",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069279",
     "https://biz.chosun.com/stock/stock_general/2026/10/07/XGRA4OA7JBFQDBEXJX4SZJLYAA/",
-    "https://www.newspim.com/news/view/20261007000077"
+    "https://www.newspim.com/news/view/20261007000077",
+    "https://www.etoday.co.kr/news/view/2633138",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069292",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1412551",
+    "https://www.public25.com/news/articleView.html?idxno=56011",
+    "https://www.sedaily.com/article/20098812",
+    "https://www.fnnews.com/news/202610070840018776",
+    "https://www.sentv.co.kr/article/view/sentv202610070011",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610070025&t=NN"
    ],
    "seen_titles": [
-    "[AI돌봄]SKT,맞춤형중재…발달장애도전행동34%줄여",
-    "AI반도체·독자모델한자리에…코엑스서3일간‘AI페스타’",
-    "과기정통부,코엑스서'AI주간2026'개최…350개사참여",
-    "[알림]제37회신용평가전문가설문(SRE)을실시합니다",
-    "“합법적으로맘껏해킹할수있어…평생공부는'숙명'이죠”",
-    "[뉴스락특별기획]원유수입지원확대...정유업계중동의존도는낮...",
-    "[단독]한솔케미칼,TSMC코앞에반도체핵심소재기지구축…대만정...",
-    "“우선주특별대우아냐…삼성전자,자사주소각최대화해야”",
     "<빅터뉴스주가예측>코스피시가총액상위15선_10월6일",
     "“화면을보는게아니라읽어야한다”-Ⅱ",
     "단일종목레버리지'20주씩'…1~19주는시간외매도'출구'",
@@ -3706,10 +3718,18 @@
     "최태원·정의선등국내대기업오너배출대학1위는‘이곳’",
     "경북도,투자상담서산업현장까지잇는다…'경북형투자플랫폼'2라운...",
     "55조자사주매입끝나가는데…“삼전닉스,오히려매물부담줄었다”",
-    "[모닝리포트]\"SK하이닉스,AI수요에목표가400만원유지\""
+    "[모닝리포트]\"SK하이닉스,AI수요에목표가400만원유지\"",
+    "추미애,반도체폐수'수량→수질'…염소·황산겨냥두번째행정지도...",
+    "대기업오너4·5세94%가유학파…미국컬럼비아대출신'최다'",
+    "SKT,'2026말모이'캠페인전개\"우리말기록일상에서다시쓰기\"",
+    "로그프레소,'챗GPT엔터프라이즈'연동앱출시…생성형AI보안관리강...",
+    "“흔들리지마세요400만원갑니다”…IBK투자증권“하이닉스,지나친...",
+    "SK하이닉스가아직170만원대?...\"너무저평가,400만원간다\"",
+    "‘3%룰회피’의혹최태원SK지분매각…“공동보유공시하라”",
+    "'400만닉스'목표주가안바꿨다...\"흔들리지않을이유많아\""
    ],
    "initialized": true,
-   "last_run": "2026-10-07T08:40:27.299927+09:00"
+   "last_run": "2026-10-07T08:45:24.969229+09:00"
   }
  },
  "press_names": {
