@@ -546,13 +546,13 @@
     [
      "2026-10-07T07:55:21.043654+09:00",
      "허가 간암 청신호 소식에 급등 신약 HLB그룹주"
+    ],
+    [
+     "2026-10-07T08:00:39.410806+09:00",
+     "최소 미수거래 한국투자증권 삼전닉스 상향 포함 증거금률"
     ]
    ],
    "seen_urls": [
-    "https://www.medicopharma.co.kr/news/articleView.html?idxno=69743",
-    "https://www.inthenews.co.kr/news/article.html?no=92686",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492825",
-    "https://www.news1.kr/photos/8143649",
     "https://www.sedaily.com/article/20098318",
     "https://www.news1.kr/photos/8143652",
     "https://isplus.com/article/view/isp202610060042",
@@ -2048,13 +2048,13 @@
     "https://www.etoday.co.kr/news/view/2633094",
     "https://www.etoday.co.kr/news/view/2633091",
     "https://news.bizwatch.co.kr/article/consumer/2026/10/06/0041",
-    "https://biz.sbs.co.kr/article_hub/20000338618?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000338618?division=NAVER",
+    "https://www.etoday.co.kr/news/view/2633101",
+    "https://www.edaily.co.kr/News/Read?newsId=02712566645610624&mediaCodeNo=257",
+    "https://www.etoday.co.kr/news/view/2633096",
+    "https://www.smarttoday.co.kr/ko-kr/articles/112337"
    ],
    "seen_titles": [
-    "SK바이오팜,방사성의약품'SKL35501'美FDA희귀의약품지정",
-    "[인더리포트]이차전지,ESS기대가소재수주로…주가는실적을기다린...",
-    "AI데이터센터짓고싶어도전기가없다…수도권'전기길'60%포화",
-    "SKT의'AI작전지원체계'가궁금해",
     "SK바사실적반등열쇠는‘PCV21’…17조폐렴구균시장정조준[Why바...",
     "'SKT의AI작전지원체계체험해요'",
     "[IS피플]'늦게와서더강했다'아빌라,7월영입에도9승…대체외인...",
@@ -3550,10 +3550,14 @@
     "[증시키워드]HLB·주성급등에관심↑…반도체는관망세",
     "한국IR협의회“제닉스로보틱스,반도체용스토커수주회복…하반기실...",
     "설화수,'K럭셔리뷰티'로일본럭셔리백화점뚫었다",
-    "[애프터마켓리뷰]HLB그룹주,간암신약허가‘청신호’소식에급등"
+    "[애프터마켓리뷰]HLB그룹주,간암신약허가‘청신호’소식에급등",
+    "IBK투자證\"SK하이닉스,안정적현금흐름·주주환원매력…주가저평가...",
+    "뱅크오브아메리카\"기술주·코스피버블형성중\"",
+    "[전날애프터마켓]모비릭스·아톤상한가…삼전·SK하닉반등",
+    "한국투자증권,미수거래최소증거금률40%상향..삼전닉스포함"
    ],
    "initialized": true,
-   "last_run": "2026-10-07T07:55:21.043654+09:00"
+   "last_run": "2026-10-07T08:00:39.410806+09:00"
   }
  },
  "press_names": {
