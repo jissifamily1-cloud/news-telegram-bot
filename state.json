@@ -870,11 +870,17 @@
     [
      "2026-10-06T21:25:20.244561+09:00",
      "전망 1주 제조업 10월 주요"
+    ],
+    [
+     "2026-10-06T21:45:25.906696+09:00",
+     "주가 6일 10월 순매수에 주성엔지니어링 기관 매매동향 외국인"
+    ],
+    [
+     "2026-10-06T21:45:25.906696+09:00",
+     "산단 확보 공동방재망 주력되길 골든타임"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/local/kangwon/6310559",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610021437126560331",
     "https://www.news1.kr/finance/general-stock/6309343",
     "https://www.news1.kr/industry/general-industry/6310478",
     "https://www.hankyung.com/article/202610064040i",
@@ -2372,11 +2378,11 @@
     "https://www.ikbc.co.kr/article/view/kbc202610060069",
     "http://www.yonhapnewstv.co.kr/news/MYH20261006212550ecY",
     "http://www.econonews.co.kr/news/articleView.html?idxno=445327",
-    "https://jtv.co.kr/news/article.php?id=71453"
+    "https://jtv.co.kr/news/article.php?id=71453",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493131",
+    "https://www.ulsanpress.net/news/articleView.html?idxno=584205"
    ],
    "seen_titles": [
-    "\"삼전·닉스만큼내놔\"…글로벌반도체덮친성과급후폭풍",
-    "문턱낮추고민생지원금살린김중남강릉시장의100일…다음행보주목",
     "ESS·전기차동시성장…배터리3사‘폼팩터전쟁’",
     "[ETF업&다운]3분기엇갈린반도체…삼전닉스빠지고소부장버텼다",
     "LNG한방울에걸린14년…자원빈국韓에던진바로사의질문",
@@ -3874,10 +3880,12 @@
     "김정관산업장관\"호남반도체입지,기업이결정\"",
     "연휴끝코스피,7,000선하회…외국인매도",
     "코스피,7000선회복하루만에다시붕괴...삼성전기,LG에너지솔루션...",
-    "이원택호100일···도민주권첫발,체감성장'과제'"
+    "이원택호100일···도민주권첫발,체감성장'과제'",
+    "[표]10월6일매매동향...외국인·기관주성엔지니어링순매수에주가...",
+    "산단공동방재망,골든타임확보주력되길"
    ],
    "initialized": true,
-   "last_run": "2026-10-06T21:40:26.172452+09:00"
+   "last_run": "2026-10-06T21:45:25.906696+09:00"
   }
  },
  "press_names": {
