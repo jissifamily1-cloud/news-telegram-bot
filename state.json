@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-06T23:29:41.565065+09:00",
-     "지원 수시 지켜야 과기원 키우고 급증 4대 인재 이공계"
-    ],
-    [
      "2026-10-06T23:35:21.314751+09:00",
      "회의 비공개라 회의록 레버리지 없다"
     ],
@@ -226,15 +222,33 @@
     [
      "2026-10-07T05:10:26.623581+09:00",
      "심사기준 SMR 규제 완비 짓겠다는 갇혔다 2032년에나 기업들"
+    ],
+    [
+     "2026-10-07T05:30:33.017732+09:00",
+     "엔비디아 신기록 나스닥 P500 나흘째 사상 최고"
+    ],
+    [
+     "2026-10-07T05:30:33.017732+09:00",
+     "ADR은 마감 강보합 SK하이닉스 뉴욕증시"
+    ],
+    [
+     "2026-10-07T05:30:33.017732+09:00",
+     "10대 바이오 3건 아태 거래 선정 기업 한국"
+    ],
+    [
+     "2026-10-07T05:30:33.017732+09:00",
+     "전장 SKT 지휘관 돕는다 참모 분석"
+    ],
+    [
+     "2026-10-07T05:30:33.017732+09:00",
+     "속도전 만들고 품질관리 활용 AI가 K제약사 신약"
+    ],
+    [
+     "2026-10-07T05:30:33.017732+09:00",
+     "정부 7조 승부수 한국판 집중 GPU 1만장 최상위 투입"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2632557",
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=65303",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000071049",
-    "https://www.ajunews.com/view/20261006081025431",
-    "https://www.yakup.com/news/index.html?cat=12&nid=333332",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=728792",
     "https://www.newspim.com/news/view/20261006000056",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=870140",
     "https://www.sentv.co.kr/article/view/sentv202610060003",
@@ -1728,15 +1742,15 @@
     "https://www.news1.kr/world/international-economy/6312167",
     "https://www.edaily.co.kr/News/Read?newsId=01695766645610624&mediaCodeNo=257",
     "https://www.sidae.com/article/2026100610461971643",
-    "https://www.joongang.co.kr/article/25467701"
+    "https://www.joongang.co.kr/article/25467701",
+    "https://www.fnnews.com/news/202610070525261635",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000020473&cp=nv",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000020453&cp=nv",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000020435&cp=nv",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000020450&cp=nv",
+    "https://www.geconomy.co.kr/news/article.html?no=324165"
    ],
    "seen_titles": [
-    "함평군,용인특례시벤치마킹…\"미래반도체산업기반조성박차\"",
-    "[오늘의투자전략]코스피,금리ㆍ삼성전자실적주목⋯“반도체이익...",
-    "[증시전망대]연휴끝난코스피,'7천피'지킬까…나스닥사상최고·美...",
-    "개천절연휴마친코스피,美빅테크랠리에'7000선'안착할까",
-    "[마켓프리뷰]美국채금리급등에도나스닥최고치…반도체株훈풍이...",
-    "올해아·태제약바이오거래‘톱10’중한국기업참여3건합류",
     "[프리마켓포커스]고금리도못꺾은실적기대…국내증시0.6%상승",
     "[특징주]美기술주훈풍에'S7'강세…삼성전기160만원돌파",
     "인포시즈,AI보안솔루션GOS출시",
@@ -3230,10 +3244,16 @@
     "BofA\"美기술주버블쌓이는중\"…그래도상승장올라타라",
     "[책]기업넘어국가까지가세…반도체패권전쟁",
     "5%대금리에도AI주질주…실적이관건",
-    "[단독]SMR짓겠다는기업들,규제갇혔다…2032년에나심사기준완비"
+    "[단독]SMR짓겠다는기업들,규제갇혔다…2032년에나심사기준완비",
+    "[뉴욕증시]S&P500·나스닥사상최고…엔비디아,나흘째신기록",
+    "[속보]뉴욕증시강보합마감…SK하이닉스ADR은6.37%↓",
+    "‘아태바이오10대거래’에한국기업3건선정",
+    "지휘관전장분석돕는다…SKT‘AI참모’",
+    "AI가신약만들고품질관리…K제약사활용속도전",
+    "정부,‘한국판최상위AI’에4.7조승부수…GPU1만장집중투입"
    ],
    "initialized": true,
-   "last_run": "2026-10-07T05:25:21.009060+09:00"
+   "last_run": "2026-10-07T05:30:33.017732+09:00"
   }
  },
  "press_names": {
