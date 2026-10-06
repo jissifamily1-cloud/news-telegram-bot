@@ -150,11 +150,17 @@
     [
      "2026-10-07T03:05:22.784480+09:00",
      "청구서 단가 달러 메우면 금융 메모리 장부 깎인다 4조 빅테크"
+    ],
+    [
+     "2026-10-07T03:20:26.976869+09:00",
+     "배터리 국내 공급망 3사 계약 강화 가속 삼성SDI 포스코퓨처엠"
+    ],
+    [
+     "2026-10-07T03:20:26.976869+09:00",
+     "기업들 쟁탈전 현장 AI만 된다 엔지니어 깔아선"
     ]
    ],
    "seen_urls": [
-    "http://www.inews24.com/view/2011855",
-    "http://www.economytalk.kr/news/articleView.html?idxno=424481",
     "https://www.newswhoplus.com/news/articleView.html?idxno=70978",
     "https://www.jasm.co.kr/news/articleView.html?idxno=319920",
     "https://www.slist.kr/news/articleView.html?idxno=771179",
@@ -1652,11 +1658,11 @@
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=712571",
     "https://www.joongboo.com/news/articleView.html?idxno=363738621",
     "https://www.ekn.kr/web/view.php?key=20261007020363039",
-    "https://www.g-enews.com/view.php?ud=202610061956594499fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202610061956594499fbbec65dfb_1",
+    "https://www.mt.co.kr/industry/2026/10/07/2026100619564666261",
+    "https://www.mt.co.kr/tech/2026/10/07/2026100620124518176"
    ],
    "seen_titles": [
-    "백스사이트31가PCV3상주요평가충족…SK바사후속백신기준높아져",
-    "티빙·통신3사CISO국감출석…과방위,개인정보유출·보안체계집중...",
     "[전망]'AI대모'의월드랩스인수나선AMD…삼성·SK영향은?",
     "최태원,9440억재산분할판결뒤김희영과美行…SK지분2.3%매각",
     "SK하이닉스방류하천염소·황산이온농도,'FAO권고치'넘어섰다",
@@ -3154,10 +3160,12 @@
     "추미애지사\"반도체폐수,수량뿐아니라수질관리도절대필요\"",
     "추미애,삼성·SK반도체폐수에칼빼들었다…\"기준치2배\"",
     "취임100일성수석이천시장,“반도체·역세권·경마공원으로미래100...",
-    "AI청구서4조달러못메우면메모리단가깎인다…빅테크장부외금융..."
+    "AI청구서4조달러못메우면메모리단가깎인다…빅테크장부외금융...",
+    "포스코퓨처엠,삼성SDI계약…국내배터리3사공급망강화'가속'",
+    "\"AI만깔아선돈안된다\"…기업들'현장AI엔지니어'쟁탈전"
    ],
    "initialized": true,
-   "last_run": "2026-10-07T03:15:27.509797+09:00"
+   "last_run": "2026-10-07T03:20:26.976869+09:00"
   }
  },
  "press_names": {
