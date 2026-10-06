@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-07T00:50:26.357461+09:00",
-     "800조 몰아주기 vs SK하이닉스 삼성전자 기업이 호남 선택"
-    ],
-    [
      "2026-10-07T00:55:22.702843+09:00",
      "정조 양만 산단 수질 추미애 지사 된다 이번엔 반도체 줄여선"
     ],
@@ -322,15 +318,17 @@
     [
      "2026-10-07T06:35:19.954864+09:00",
      "기반시설 광주 2030년 목표 가능할까 공장 반도체 양산 부지"
+    ],
+    [
+     "2026-10-07T06:50:28.073385+09:00",
+     "한국가스공사 1위 가스 유틸리티 상장기업 10월"
+    ],
+    [
+     "2026-10-07T06:50:28.073385+09:00",
+     "신한은행 집단소송 시작 30만원 해킹 청구 1인당 피해자"
     ]
    ],
    "seen_urls": [
-    "http://www.newsdream.kr/news/articleView.html?idxno=119389",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=855572",
-    "https://www.fnnews.com/news/202610060841477323",
-    "https://www.g-enews.com/view.php?ud=20261006082904144fbbec65dfb_1",
-    "https://www.ajunews.com/view/20261002143944075",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=855605",
     "https://www.etoday.co.kr/news/view/2632581",
     "https://www.mt.co.kr/politics/2026/10/06/2026100608541666121",
     "https://zdnet.co.kr/view/?no=20261006085646",
@@ -1824,15 +1822,15 @@
     "https://www.datanet.co.kr/news/articleView.html?idxno=214929",
     "https://www.businessplus.kr/news/articleView.html?idxno=117772",
     "https://it.chosun.com/news/articleView.html?idxno=2023092171484",
-    "https://www.joongang.co.kr/article/25467753"
+    "https://www.joongang.co.kr/article/25467753",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=96625",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=55025",
+    "https://www.imaeil.com/page/view/2026100706423976183",
+    "https://www.imaeil.com/page/view/2026100706412715223",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=55023",
+    "https://www.imaeil.com/page/view/2026100706404458724"
    ],
    "seen_titles": [
-    "[키-리포트]SK\"삼성전자,현저한저평가\"",
-    "다시열린전력망,늘어나는출력제어…전남광주재생에너지'명'과'암...",
-    "한미반도체,삼성첫거래·MSVP수주확대'두마리토끼'",
-    "1회충전1000km벽넘는차세대배터리…현대차장기전선언에中2026...",
-    "[경제일보]AI가해킹도자율수행…신한은행정보유출로드러난'AI에...",
-    "전남광주시출범100일…행정칸막이걷혔지만,권역이견여전",
     "SKT,AI참모·저궤도위성등국방AX기술제시…지상군페스티벌참가",
     "연쇄해킹에AI정책혼선까지…과방위국감,사이버안보·독파모쟁점",
     "SKT,고객감정까지살펴안내문쓴다",
@@ -3326,10 +3324,16 @@
     "[OT보안①]사이버위협,물리적피해로이어져",
     "[AI냉각전쟁/①]가전,통신,정유사까지…AI데이터센터가연냉각시...",
     "광주반도체2030년양산목표…공장부지·기반시설가능할까",
-    "대기업오너4·5세94%는유학파…최다출신대는"
+    "대기업오너4·5세94%는유학파…최다출신대는",
+    "[초점]금융권해킹파장대형교회·권익위등공공기관까지…개인정보...",
+    "[브랜드평판]에코프로,화학상장기업10월1위...LG화학,포스코퓨처...",
+    "서울1인가구65~69세,집있으면자산3.6배…나이들수록격차커져",
+    "대기업오너4·5세94%유학파…해외는컬럼비아대,국내는고려대최다",
+    "[이넷뉴스브랜드평판]한국가스공사,가스유틸리티상장기업10월1위...",
+    "신한은행해킹피해자집단소송시작…1인당최대30만원청구"
    ],
    "initialized": true,
-   "last_run": "2026-10-07T06:45:26.854751+09:00"
+   "last_run": "2026-10-07T06:50:28.073385+09:00"
   }
  },
  "press_names": {
