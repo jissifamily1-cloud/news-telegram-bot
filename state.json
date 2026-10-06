@@ -1130,12 +1130,17 @@
     [
      "2026-10-06T20:05:21.397164+09:00",
      "몰리더니 퇴직금 60대 은퇴했는데 사나 깜짝 먹고"
+    ],
+    [
+     "2026-10-06T20:10:26.892232+09:00",
+     "돌파 4조원 수주 어깨 도시정비 대형사와 나란히 올해 두산건설"
+    ],
+    [
+     "2026-10-06T20:10:26.892232+09:00",
+     "단일종목 증권사 잃었다 레버리지로 집계했더니 10곳 넘게 개미들 2조"
     ]
    ],
    "seen_urls": [
-    "https://www.news2day.co.kr/article/20261004500054",
-    "https://www.chosun.com/international/us/2026/10/06/KFHBPNOHI5HPJAM26CC2GKRP7I/",
-    "https://www.edaily.co.kr/News/Read?newsId=01659686645610296&mediaCodeNo=257",
     "https://www.etoday.co.kr/news/view/2632440",
     "https://www.etoday.co.kr/news/view/2632453",
     "https://www.newsis.com/view/NISX20261005_0003814534",
@@ -2632,12 +2637,12 @@
     "https://www.edaily.co.kr/News/Read?newsId=05651446645610296&mediaCodeNo=257",
     "https://www.segye.com/newsView/20261006515689?OutUrl=naver",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1539637",
-    "https://www.hankyung.com/article/2026100663241"
+    "https://www.hankyung.com/article/2026100663241",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8678888",
+    "http://www.koreastocknews.com/news/articleView.html?idxno=121618",
+    "https://www.segye.com/newsView/20261006518434?OutUrl=naver"
    ],
    "seen_titles": [
-    "[美증시특징주]메모리,데이터센터전력대란에약세…엔비디아·브로...",
-    "9월신규ETF성적표,반도체집중'통했다…한화운용1·2위",
-    "한·미·일비공개3자대화개최…美무역대표,삼성·SK총수등참석",
     "군공항이전,한미협의불가피…美'메모리펩건설'압박활용할수도",
     "김병주·박진영·김범석…올해국감장불려가는경제인들[국감증인정...",
     "작년엔최태원불렀던국회…1년만에달라진‘국감증인셈법’[국감...",
@@ -4134,10 +4139,13 @@
     "[미리보는이데일리신문]\"홍보영상이젠직접\"…AI가삼킨외주일감",
     "삼전닉스앞지른‘소부장’…해킹사태로떠오른‘보안’",
     "수소도시인천비상…국내최대액화수소시설정비에버스충전대란우...",
-    "\"은퇴했는데뭐먹고사나\"…퇴직금쥔60대몰리더니'깜짝'"
+    "\"은퇴했는데뭐먹고사나\"…퇴직금쥔60대몰리더니'깜짝'",
+    "이원택취임100일…‘체감성장’시험대",
+    "두산건설,올해도시정비수주4조원돌파···대형사와어깨나란히",
+    "증권사10곳집계했더니…개미들,단일종목레버리지로2조넘게잃었다"
    ],
    "initialized": true,
-   "last_run": "2026-10-06T20:05:21.397164+09:00"
+   "last_run": "2026-10-06T20:10:26.892232+09:00"
   }
  },
  "press_names": {
