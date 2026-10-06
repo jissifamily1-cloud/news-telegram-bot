@@ -1005,8 +1005,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2632353",
-    "https://www.sidae.com/article/2026100518233916529",
     "https://www.etoday.co.kr/news/view/2632136",
     "https://www.etoday.co.kr/news/view/2631880",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=278671",
@@ -2504,11 +2502,11 @@
     "http://www.kwangju.co.kr/article.php?aid=1791286200804016372",
     "https://www.mbceg.co.kr/post/140760",
     "https://www.newsis.com/view/NISX20261006_0003816346",
-    "https://chmbc.co.kr/article/14082756"
+    "https://chmbc.co.kr/article/14082756",
+    "http://www.kjdaily.com/article.php?aid=1791287235688422276",
+    "https://www.venturesquare.net/1118085/"
    ],
    "seen_titles": [
-    "삼전닉스에법인세폭등…면세기업은8년째늘었다[김익환의부처핸...",
-    "일단부르고안나와도그만…국감증인10년성적표[국감증인정치학...",
     "해킹1건에6개기관이각개전투대응…\"사이버안보청필요\"",
     "국감최대화두는‘서울집값’⋯한숨돌린건설사수장들",
     "‘감축뻥튀기’논란자발적탄소시장…연말개장앞두고‘품질기준...",
@@ -4006,10 +4004,12 @@
     "국민의힘‘호남반도체’또딴지…삼성·SK투자배경집중추궁",
     "김중남강릉시장\"11월에대규모조직개편,내년에역점사업추진\"",
     "[올댓차이나]홍콩증시,뉴욕증시강세에이틀째상승마감…H주0.96...",
-    "[리포트]김중남강릉시장\"다음달대규모조직개편\""
+    "[리포트]김중남강릉시장\"다음달대규모조직개편\"",
+    "삼성전자·SK하이닉스거래대금8.6조…상위50개45.5%",
+    "인핸스·SKT,흩어진군데이터‘관계’까지AI가읽는다…온톨로지작..."
    ],
    "initialized": true,
-   "last_run": "2026-10-06T20:45:28.947089+09:00"
+   "last_run": "2026-10-06T20:50:27.090309+09:00"
   }
  },
  "press_names": {
