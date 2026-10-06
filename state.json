@@ -153,7 +153,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610060013&t=NN",
     "https://www.fntimes.com/html/view.php?ud=202610060719198784141825007d_18",
     "https://www.ajunews.com/view/20261006071902326",
     "https://www.topstarnews.net/news/articleView.html?idxno=16238884",
@@ -1652,10 +1651,10 @@
     "https://www.edaily.co.kr/News/Read?newsId=01456326645610624&mediaCodeNo=257",
     "https://www.edaily.co.kr/News/Read?newsId=01462886645610624&mediaCodeNo=257",
     "https://www.edaily.co.kr/News/Read?newsId=01466166645610624&mediaCodeNo=257",
-    "https://www.mt.co.kr/culture/2026/10/07/2026100622292443310"
+    "https://www.mt.co.kr/culture/2026/10/07/2026100622292443310",
+    "https://www.ytn.co.kr/_ln/0102_202610070402472975"
    ],
    "seen_titles": [
-    "[넥스트-샷]채권은22년전으로,나스닥은새역사로···또'AI勝'",
     "\"설마했는데진짜?\"...삼전닉스개미들,실적전망에'술렁'",
     "[KFT모닝브리프]2026.10.06—오늘꼭알아야할국내외경제뉴스",
     "[아주증시포커스][단독]국민성장펀드18조승인했지만실제집행률25...",
@@ -3154,10 +3153,11 @@
     "군더더기없는설계미학…SK실용주의서린빌딩",
     "\"땅보다사업\"매각도불사…반도체업고다시품은'종로의심장'",
     "고정좌석·칸막이없애자…SK일하는방식이달라졌다",
-    "머니투데이오프라인헤드라인-7일"
+    "머니투데이오프라인헤드라인-7일",
+    "호남반도체부지'진실공방'...알래스카LNG논쟁도"
    ],
    "initialized": true,
-   "last_run": "2026-10-07T04:05:22.913771+09:00"
+   "last_run": "2026-10-07T04:10:29.401396+09:00"
   }
  },
  "press_names": {
