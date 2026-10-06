@@ -334,11 +334,13 @@
     [
      "2026-10-07T06:55:23.627502+09:00",
      "손실 레버리지 ETF 삼전닉스 달도 2조3천억 개인"
+    ],
+    [
+     "2026-10-07T07:00:39.807033+09:00",
+     "실적 일제히 상승 뉴욕증시 나스닥 기대감에 최고치"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/it-science/cc-newmedia/6310846",
-    "https://www.mt.co.kr/tech/2026/10/06/2026100608492217701",
     "https://zdnet.co.kr/view/?no=20261006085004",
     "https://www.news1.kr/it-science/cc-newmedia/6310828",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=278763",
@@ -1836,11 +1838,11 @@
     "https://www.etoday.co.kr/news/view/2633072",
     "https://www.topstarnews.net/news/articleView.html?idxno=16240130",
     "https://www.sedaily.com/article/20098648",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4438003"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4438003",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493143",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=282996"
    ],
    "seen_titles": [
-    "SKT,지상군페스티벌서'AI참모·스텔스와이파이'시연",
-    "\"상이합니다→다릅니다\"…SKT,한글날맞이쉬운말가이드개발",
     "SKT국방AX공략…전술판단돕는‘AI참모’선봬",
     "\"이렇게소통하세요\"…SKT,한글날맞아고객언어가이드개발",
     "삼성바이오로직스,파업·환율부담에도실적기대치부합",
@@ -3338,10 +3340,12 @@
     "대기업오너일가,유학도빨라졌다⋯4ㆍ5세10명중9명해외서공부",
     "미국증시사상최고…금리하락에AI인프라강세,메모리는약세",
     "“코스닥대세도반도체”…주성엔지니어링,시총2위등극[코주부]",
-    "삼전닉스레버리지ETF,석달도안돼개인2조3천억손실"
+    "삼전닉스레버리지ETF,석달도안돼개인2조3천억손실",
+    "CEO브랜드평판10월순위공개…이재용·정의선·박정원웃었다",
+    "뉴욕증시,실적기대감에일제히상승...나스닥·S&P최고치"
    ],
    "initialized": true,
-   "last_run": "2026-10-07T06:55:23.627502+09:00"
+   "last_run": "2026-10-07T07:00:39.807033+09:00"
   }
  },
  "press_names": {
