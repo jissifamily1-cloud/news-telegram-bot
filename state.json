@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-08T00:35:28.933258+09:00",
-     "물류단상 38도선의 포르투갈에서"
-    ],
-    [
-     "2026-10-08T00:35:28.933258+09:00",
-     "미끄러지나 7000서 박스권 갇힌 코스피 번번이"
-    ],
-    [
      "2026-10-08T00:40:27.635061+09:00",
      "삼성전자 주가 사상 운명의 실적 예상 향방은"
     ],
@@ -266,10 +258,13 @@
     [
      "2026-10-08T06:35:21.508904+09:00",
      "TC 본더 수요 1300억 육박 전망 한미반도체 3Q 영업익"
+    ],
+    [
+     "2026-10-08T06:40:24.932905+09:00",
+     "MTS 준다 주식 쇼핑하면 증권사 거래 벗어나는"
     ]
    ],
    "seen_urls": [
-    "https://news.dealsitetv.com/articles/176722",
     "https://biz.chosun.com/stock/finance/2026/10/07/ZKEG5D62KVAZJJDNASNGW2P3CM/",
     "https://biz.newdaily.co.kr/site/data/html/2026/10/07/2026100700106.html",
     "https://www.dailian.co.kr/news/view/1698718/?sc=Naver",
@@ -1768,10 +1763,10 @@
     "https://www.hankyung.com/article/2026100789456",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077752",
     "https://www.news1.kr/it-science/cc-newmedia/6313265",
-    "https://www.news1.kr/industry/general-industry/6312751"
+    "https://www.news1.kr/industry/general-industry/6312751",
+    "https://www.news1.kr/finance/general-stock/6313489"
    ],
    "seen_titles": [
-    "안호영\"메가프로젝트는정쟁대상아니다\"…정책국감촉구",
     "IBK투자증권\"SK하이닉스,지나치게저평가...목표주가400만원유지\"",
     "[분석]삼전·하이닉스55조자사주매입마무리...\"수급우려불필요\"",
     "해외플랫폼트래픽절반시대...망사용료역차별인가통상장벽인가",
@@ -3270,10 +3265,11 @@
     "칠천피'통곡의벽'…美·대만최고치인데25%밀린韓[분석+]",
     "[뉴스클레임사설]정유사들위기틈타기름값짬짜미,과징금최대로...",
     "\"하객룩골라줘\"말하니결제까지…KT'모두의AI'써보니",
-    "한미반도체,3Q영업익1300억육박전망…TC본더수요↑"
+    "한미반도체,3Q영업익1300억육박전망…TC본더수요↑",
+    "쇼핑하면주식살돈준다…'거래앱'벗어나는증권사MTS"
    ],
    "initialized": true,
-   "last_run": "2026-10-08T06:35:21.508904+09:00"
+   "last_run": "2026-10-08T06:40:24.932905+09:00"
   }
  },
  "press_names": {
