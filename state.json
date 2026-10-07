@@ -1254,11 +1254,13 @@
     [
      "2026-10-07T20:05:56.214988+09:00",
      "전쟁이 한국 생존법은 경제 시대 흔드는"
+    ],
+    [
+     "2026-10-07T20:11:00.178616+09:00",
+     "삼성 떠났다 로펌으로 5000명 허리 공직사회"
     ]
    ],
    "seen_urls": [
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061830148350657",
-    "https://www.newsis.com/view/NISX20261007_0003816750",
     "https://www.asiatoday.co.kr/kn/view.php?key=20261007010001797",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610070024&t=NN",
     "https://biz.heraldcorp.com/article/10895071",
@@ -2756,11 +2758,11 @@
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261008.22003001799",
     "https://www.rcast.co.kr/news/articleView.html?idxno=31778",
     "https://www.hankyung.com/article/202610064965H",
-    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000554079"
+    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000554079",
+    "https://www.seoul.co.kr/news/society/science-news/2026/10/08/20261008002002?wlog_tag3=naver",
+    "https://www.seoul.co.kr/news/economy/2026/10/08/20261008029001?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "1인가구자산차이...서울60대주택소유자,無주택자의3.5배",
-    "[개장시황]코스피하락출발…외국인3800억'팔자'",
     "키움증권,연말절세시즌맞이중개형ISA이벤트개최",
     "[특징주]코스맥스,3분기실적기대감에장초반강세",
     "美증시는사상최고치인데코스피는왜7000에서번번이미끄러지나",
@@ -4258,10 +4260,12 @@
     "SMR인허가심사기준2032년께마련?골든타임놓칠판",
     "신한투자증권,'SOLLINK'시즌2이벤트실시外",
     "박충권\"북한10배이상강해져…'암살자(들)'은문화매국노\"[인터뷰]",
-    "전쟁이경제흔드는시대…한국생존법은?"
+    "전쟁이경제흔드는시대…한국생존법은?",
+    "민간이개발·발사…한국형뉴스페이스,달·화성향해쏜다",
+    "삼성·SK·로펌으로…공직사회‘허리’5000명떠났다"
    ],
    "initialized": true,
-   "last_run": "2026-10-07T20:05:56.214988+09:00"
+   "last_run": "2026-10-07T20:11:00.178616+09:00"
   }
  },
  "press_names": {
