@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-07T14:30:31.664449+09:00",
-     "삼성 증시 하나금융 찬바람 증권가 추천 종목은 키움 배당주"
-    ],
-    [
-     "2026-10-07T14:30:31.664449+09:00",
-     "노사 하락 환율 이중고에도 연간 달성 갈등 삼성바이오로직스 목표"
-    ],
-    [
-     "2026-10-07T14:30:31.664449+09:00",
-     "10위권 로봇 격화 순위 시총 코스닥 지각변동 뜨자 소부장 싸움"
-    ],
-    [
      "2026-10-07T14:35:20.318552+09:00",
      "사람 해킹 덮친 공포 증권가 늘렸는데도"
     ],
@@ -1146,11 +1134,13 @@
     [
      "2026-10-07T20:25:21.219350+09:00",
      "반락 홍콩 매도로 증시 만에 마감 사흘 지분조정 H주"
+    ],
+    [
+     "2026-10-07T20:30:37.160085+09:00",
+     "주인시대 김태성 군민 신안군정 100일 약속 내건 선거"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=279035",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4438045",
     "https://www.interfootball.co.kr/news/articleView.html?idxno=695912",
     "https://biz.chosun.com/topics/law_firm/2026/10/07/CDZBUWPNONHCDF2AUGVIL2J37M/",
     "https://www.ajunews.com/view/20261007085447525",
@@ -2648,11 +2638,11 @@
     "https://www.mk.co.kr/article/12170895",
     "https://www.ajunews.com/view/20261007101924976",
     "https://www.edaily.co.kr/News/Read?newsId=05674406645610624&mediaCodeNo=257",
-    "https://www.newsis.com/view/NISX20261007_0003818144"
+    "https://www.newsis.com/view/NISX20261007_0003818144",
+    "https://www.s-journal.co.kr/news/articleView.html?idxno=44292",
+    "https://www.joongangenews.com/news/articleView.html?idxno=553377"
    ],
    "seen_titles": [
-    "\"KB금융,총주주환원율55%전망…내년엔더늘듯\"<SK證>",
-    "K-배터리3사,AI데이터센터'전력해결사'노린다",
     "코스피장초반혼조…개인나홀로양대시장순매수",
     "75%발사성공률누리호5호…오늘하늘문연다",
     "뉴욕증시는신고가인데…코스피,6900선도내줬다",
@@ -4150,10 +4140,12 @@
     "삼전닉스레버리지ETF,개인확정손실2.3조원",
     "정유4사대표국감총출동...주유방식넘어거래관행까지살핀다",
     "[美특징주]AMD리사수,방한해삼전·SK하닉과만남…개장전↓",
-    "[올댓차이나]홍콩증시,지분조정매도로사흘만에반락마감…H주0..."
+    "[올댓차이나]홍콩증시,지분조정매도로사흘만에반락마감…H주0...",
+    "우리금융지주,자본여력회복…성장기대감커진다",
+    "[기획특집]선거때내건'군민주인시대'100일…김태성신안군정,약속..."
    ],
    "initialized": true,
-   "last_run": "2026-10-07T20:25:21.219350+09:00"
+   "last_run": "2026-10-07T20:30:37.160085+09:00"
   }
  },
  "press_names": {
