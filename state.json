@@ -366,12 +366,21 @@
     [
      "2026-10-08T07:10:27.148589+09:00",
      "반도체 부치는 대안 투자 힘에 2차전지 될까"
+    ],
+    [
+     "2026-10-08T07:15:24.650562+09:00",
+     "이틀 기록 숨고르기 연속 사상 최고치 뉴욕증시"
+    ],
+    [
+     "2026-10-08T07:15:24.650562+09:00",
+     "수요 유지 지속 목표주가 SK하이닉스 메모리 400만원"
+    ],
+    [
+     "2026-10-08T07:15:24.650562+09:00",
+     "솔리다임 100억달러 SK하이닉스 IPO 2027년 블룸버그"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1726949",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3714883",
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572855508414",
     "https://www.hankyung.com/article/202610064950r",
     "https://mhnse.com/news/articleView.html?idxno=1577535",
     "http://www.newsdream.kr/news/articleView.html?idxno=119535",
@@ -1868,12 +1877,12 @@
     "https://www.bloter.net/news/articleView.html?idxno=675132",
     "https://www.itooza.com/common/iview.php?no=2026100714450020445",
     "https://www.slist.kr/news/articleView.html?idxno=771815",
-    "https://www.dailian.co.kr/news/view/1699008/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1699008/?sc=Naver",
+    "https://biz.sbs.co.kr/article_hub/20000338866?division=NAVER",
+    "https://view.asiae.co.kr/article/2026100715012973574",
+    "https://www.slist.kr/news/articleView.html?idxno=771819"
    ],
    "seen_titles": [
-    "골드만삭스,삼성전자'매도세압박·변동성폭증'경고…8일수급리스...",
-    "美증시강세에도코스피보합…코스닥1%대하락[fn오전시황]",
-    "'말모이'손글씨누구나쓴다…SKT,AI글꼴무료제공",
     "개미들'울상'…'삼전닉스레버리지'2달만에손실'2조'넘어",
     "국정감사첫날,조희대증언거부에법사위파행…레버리지ETF·반도체...",
     "삼성전자8일'수급이벤트'몰린다…골드만삭스\"변동성주의\"",
@@ -3370,10 +3379,13 @@
     "[데스크시각]앤트로픽지분너머SKT의AI성적표",
     "[리스트]연6%배당준다는데...국내고배당주20선",
     "최태원SK회장,'위대한수업'시즌6첫강연…AI시대'新자본주의'...",
-    "힘에부치는반도체…2차전지,투자대안될까"
+    "힘에부치는반도체…2차전지,투자대안될까",
+    "[마켓브리핑]뉴욕증시,이틀연속사상최고치기록후'숨고르기'",
+    "\"SK하이닉스,목표주가400만원유지…메모리수요지속\"[클릭e종목]",
+    "블룸버그\"SK하이닉스솔리다임,2027년美IPO추진…최대100억달러조..."
    ],
    "initialized": true,
-   "last_run": "2026-10-08T07:10:27.148589+09:00"
+   "last_run": "2026-10-08T07:15:24.650562+09:00"
   }
  },
  "press_names": {
