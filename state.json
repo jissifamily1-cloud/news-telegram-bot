@@ -1150,12 +1150,13 @@
     [
      "2026-10-07T12:45:26.618596+09:00",
      "모더나 발행돼 20만달러어치 토큰이 새로 델리시움"
+    ],
+    [
+     "2026-10-07T12:50:27.859863+09:00",
+     "후원 결실 SKT 값진 아시안게임 나눴다 선수와"
     ]
    ],
    "seen_urls": [
-    "http://www.financialreview.co.kr/news/articleView.html?idxno=45310",
-    "https://biz.sbs.co.kr/article_hub/20000338494?division=NAVER",
-    "https://www.seoul.co.kr/news/economy/securities/2026/10/06/20261006500201?wlog_tag3=naver",
     "https://www.news1.kr/it-science/cc-newmedia/6311664",
     "http://www.iminju.net/news/articleView.html?idxno=170427",
     "https://biz.sbs.co.kr/article_hub/20000338463?division=NAVER",
@@ -2652,12 +2653,12 @@
     "http://www.beyondpost.co.kr/view.php?ud=202610071237473072aaae0046f_30",
     "http://amenews.kr/news/view.php?idx=68233",
     "https://www.kizmom.com/news/articleView.html?idxno=113163",
-    "https://www.tokenpost.kr/news/blockchain/419220"
+    "https://www.tokenpost.kr/news/blockchain/419220",
+    "http://www.kjdaily.com/article.php?aid=1791344765688435276",
+    "https://www.news1.kr/world/international-economy/6312775",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=321524"
    ],
    "seen_titles": [
-    "삼전·하이닉스50배베팅까지…해외서폭증한'무기한선물'경고등",
-    "[자막뉴스]'삼전닉스'맨'단물'빼먹고버렸다…'파격조건'믿고중국...",
-    "7000찍고밀린코스피…코스닥은3%뛰며920선눈앞",
     "하나카드,신세계백화점혜택더한'신세계byJADE'출시",
     "김정관\"호남반도체입지,제안은정부·결정은기업\"",
     "외인1.7조'팔자'에밀린코스피…반도체약세에6940선후퇴",
@@ -4154,10 +4155,13 @@
     "외인,7거래일만에삼성전자3700억원넘게순매수...자사주매입완료된...",
     "공정위,SK에너지·현대오일뱅크휘발유·경유·등유담합사건심의개...",
     "SK에너지·현대오일뱅크,기름값담합의혹…공정위심의착수",
-    "[로빈후드온체인]모더나토큰이20만달러어치새로발행돼...델리시움..."
+    "[로빈후드온체인]모더나토큰이20만달러어치새로발행돼...델리시움...",
+    "삼성전자·SK하이닉스거래대금4.8조…상위20개56%",
+    "대만,韓제치고올해증시수익률1위…가권72%vs코스피65%",
+    "SKT,아시안게임후원선수와'값진결실'나눴다"
    ],
    "initialized": true,
-   "last_run": "2026-10-07T12:45:26.618596+09:00"
+   "last_run": "2026-10-07T12:50:27.859863+09:00"
   }
  },
  "press_names": {
