@@ -1221,11 +1221,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.nocutnews.co.kr/news/6587573",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=230847",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=278870",
-    "http://www.press9.kr/news/articleView.html?idxno=83763",
-    "https://news.dealsitetv.com/articles/176684",
     "https://www.m-economynews.com/news/article.html?no=71384",
     "https://www.kyeonggi.com/article/20261006580235",
     "https://www.asiatime.co.kr/article/20261006500329",
@@ -2720,14 +2715,14 @@
     "https://www.youthdaily.co.kr/news/article.html?no=228043",
     "https://www.newstnt.com/news/articleView.html?idxno=721783",
     "https://www.mt.co.kr/future/2026/10/07/2026100711213161314",
-    "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=244541"
+    "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=244541",
+    "https://www.ddaily.co.kr/page/view/2026100711475937293",
+    "http://www.seouleconews.com/news/articleView.html?idxno=94193",
+    "https://www.e-science.co.kr/news/articleView.html?idxno=136857",
+    "http://www.inews24.com/view/2012593",
+    "https://www.fnnews.com/news/202610071148132793"
    ],
    "seen_titles": [
-    "[수도권주요뉴스]경기도,16~18일가평서무형유산대축제",
-    "코스피대형주약세에KODEX2001.41%하락",
-    "[K-증권붐업]반도체에밀린코스닥제약주…반등은'임상·실적'부터",
-    "거버넌스포럼,최태원SK지분9440억매각에\"3%룰회피의도설명해야...",
-    "[보험·카드24시]하나카드,'무빙카드'출시98일만에10만돌파外",
     "김정관“알래스카LNG상업성전제로검토”...서남권부지는기업이...",
     "삼전·하닉핵심27명中CXMT로…\"기술넘기고3년도안돼퇴사\"",
     "[2026국감]배경훈“LGU+해킹은폐밝혀지면가입자위약금면제요...",
@@ -4222,10 +4217,15 @@
     "코스피,7,000선눈앞서하락전환…반도체약세에6,880대",
     "[특징주]외국인'퀀텀레일·국제약품',기관'솔루엠·케이씨텍'러브콜",
     "젠슨황사인받았던막걸리,이번엔젠슨황축하주로올랐다",
-    "미국배터리분리막시장동향"
+    "미국배터리분리막시장동향",
+    "SKT,AI로100년전우리말되살린다",
+    "대기업오너4~5세94%는유학파…美컬럼비아大최다",
+    "SKT,AI가100년전'말모이'손글씨읽었다…한글글꼴로되살려",
+    "반도체·AI데이터센터투자러쉬…외국인투자도착액'역대최대'",
+    "우상호강원지사취임100일…AI데이터센터유치성과속재정난숙제"
    ],
    "initialized": true,
-   "last_run": "2026-10-07T11:55:20.580092+09:00"
+   "last_run": "2026-10-07T12:00:40.567032+09:00"
   }
  },
  "press_names": {
