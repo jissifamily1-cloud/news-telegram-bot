@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-07T14:55:20.131220+09:00",
-     "공급망 8개사 해상풍력 구축 주기 터빈 GX 사용비율 국산"
-    ],
-    [
-     "2026-10-07T14:55:20.131220+09:00",
-     "실리콘밸리 IT 동맹 핵심 완성할 한자리 컴퍼니 거물들과 SKT"
-    ],
-    [
-     "2026-10-07T14:55:20.131220+09:00",
-     "단군의 한국 개발한 에어캡 온라인 김지호 CTO 대표 머드게임"
-    ],
-    [
      "2026-10-07T15:00:42.192821+09:00",
      "아트스토어에 공개 30점 삼성전자 영국 박물관 소장품"
     ],
@@ -1098,11 +1086,13 @@
     [
      "2026-10-07T20:50:26.356674+09:00",
      "하자담보 추가 약속 연장 GTX 현대건설 5년"
+    ],
+    [
+     "2026-10-07T20:55:25.262483+09:00",
+     "차마 사진 달라 투병 산업재해 보는 인정해 아내 반도체"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261007_0003816762",
-    "http://www.ikld.kr/news/articleView.html?idxno=341854",
     "https://en.yna.co.kr/view/AEN20261007001551320?input=2106m",
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553595021",
     "https://www.thepowernews.co.kr/view.php?ud=2026100708362037461d72a7352_7",
@@ -2600,11 +2590,11 @@
     "http://www.phmbc.co.kr/www/news/desk_news?idx=204863",
     "https://biz.heraldcorp.com/article/10895238",
     "https://www.vegannews.co.kr/news/article.html?no=391643",
-    "http://www.popcornnews.net/news/articleView.html?idxno=135290"
+    "http://www.popcornnews.net/news/articleView.html?idxno=135290",
+    "https://www.econovill.com/news/articleView.html?idxno=753003",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6856417_37004.html"
    ],
    "seen_titles": [
-    "키움증권,연말맞이중개형ISA이벤트실시",
-    "SKT,AI로만든말모이체·순우리말100선공개",
     "추미애지사“반도체산단폐수,수량뿐아니라수질관리절대필요”",
     "코스피,1%하락6800선출발…삼전강세·SK하닉약세",
     "美증시사상최고치기록···코스피는하락출발",
@@ -4102,10 +4092,12 @@
     "포항시,글로벌에너지기업‘아모지’와무탄소발전협력",
     "“이제8거래일쯤남았다”예견된공포…‘삼전닉스’넘어코스피까지...",
     "케이씨텍주가14.53%상승…CMP·세정장비기대",
-    "[2026년국감]현대건설'GTX-A하자담보'5년추가연장약속"
+    "[2026년국감]현대건설'GTX-A하자담보'5년추가연장약속",
+    "리사수AMD회장\"韓HBM공급망많이의존·협력…게임,AMD핵심산업...",
+    "차마못보는아내투병사진‥\"반도체산업재해인정해달라\""
    ],
    "initialized": true,
-   "last_run": "2026-10-07T20:50:26.356674+09:00"
+   "last_run": "2026-10-07T20:55:25.262483+09:00"
   }
  },
  "press_names": {
