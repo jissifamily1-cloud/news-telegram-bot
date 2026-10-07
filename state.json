@@ -354,10 +354,13 @@
     [
      "2026-10-08T00:40:27.635061+09:00",
      "삼성전자 주가 사상 운명의 실적 예상 향방은"
+    ],
+    [
+     "2026-10-08T00:50:26.864299+09:00",
+     "유럽 10배 확대 K배터리 안심 현지생산 선점 못한다"
     ]
    ],
    "seen_urls": [
-    "https://www.newsmap.co.kr/news/articleView.html?idxno=3853",
     "https://www.segye.com/newsView/20261007505033?OutUrl=naver",
     "https://www.kyeonggi.com/article/20261007580044",
     "http://www.weeklytoday.com/news/articleView.html?idxno=797114",
@@ -1856,10 +1859,10 @@
     "https://www.donga.com/news/Economy/article/all/20261007/134804848/2",
     "https://www.news2day.co.kr/article/20261007500209",
     "https://www.chosun.com/economy/money/2026/10/08/PGZ4J3ISHZDTJKXS7KIYZA53A4/",
-    "https://www.kbmaeil.com/article/20261008500006"
+    "https://www.kbmaeil.com/article/20261008500006",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000020809&cp=nv"
    ],
    "seen_titles": [
-    "[오늘의외환분석]달러힘빠진사이…1,330원대하단탐색",
     "[마켓펄스]삼성전자,대규모주주환원기대에강세...7000피재탈환시...",
     "세스코,살균소독·탈취·제습담은'마이랩카케어'5종공개",
     "다시'천스닥'시동거는코스닥",
@@ -3358,10 +3361,11 @@
     "글로벌빅테크수장잇단방한…韓과‘AI협력’속도",
     "[미네르바의눈]물류단상(物流斷想):38도선의두끝,포르투갈에서묻...",
     "박스권갇힌코스피…왜7000서번번이미끄러지나",
-    "삼성전자‘오늘운명의날’…사상최대실적예상,주가향방은"
+    "삼성전자‘오늘운명의날’…사상최대실적예상,주가향방은",
+    "‘유럽선점’K배터리안심못한다…中,현지생산‘10배’확대"
    ],
    "initialized": true,
-   "last_run": "2026-10-08T00:45:29.420073+09:00"
+   "last_run": "2026-10-08T00:50:26.864299+09:00"
   }
  },
  "press_names": {
