@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-07T17:30:39.315440+09:00",
-     "멀어진 코스피"
-    ],
-    [
-     "2026-10-07T17:30:39.315440+09:00",
-     "강자는 AI가 쏘렌토 자동차 추천한 아이오닉5 BMW"
-    ],
-    [
      "2026-10-07T17:35:21.787858+09:00",
      "돌입 투자유치 2라운드 경북 미래전략산업"
     ],
@@ -538,10 +530,13 @@
     [
      "2026-10-07T23:30:35.197062+09:00",
      "확대 다지고 정책 고성 미래 기반 민생"
+    ],
+    [
+     "2026-10-07T23:35:21.678139+09:00",
+     "기업 가계는 예금 사상 여윳돈 주식으로"
     ]
    ],
    "seen_urls": [
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=209318",
     "https://www.smartbizn.com/news/articleView.html?idxno=155728",
     "https://www.yna.co.kr/view/AKR20261007037451008?input=1195m",
     "https://theopiniontimes.news/%ec%a7%91%ec%9d%b4-%ea%b0%80%eb%a5%b8-%eb%85%b8%ed%9b%84%ec%84%9c%ec%9a%b8-1%ec%9d%b8-%ea%b0%80%ea%b5%ac-%ec%9e%90%ec%82%b0-%ea%b2%a9%ec%b0%a8-%eb%82%b4-%ec%a7%91-%ec%9c%a0%eb%ac%b4/",
@@ -2040,10 +2035,10 @@
     "https://www.kdpress.co.kr/news/articleView.html?idxno=209148",
     "https://www.apnews.kr/news/articleView.html?idxno=3051833",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=601001",
-    "http://www.gnmaeil.com/news/articleView.html?idxno=596200"
+    "http://www.gnmaeil.com/news/articleView.html?idxno=596200",
+    "https://www.newscj.com/news/articleView.html?idxno=3438706"
    ],
    "seen_titles": [
-    "SK하이닉스주가,10월7일장중1,770,000원0.17%하락",
     "집있느냐없느냐에따라자산격차최대3.6배",
     "테오도르의지수주요종목기술적분석",
     "골드만삭스\"삼성전자,8일변동성확대…매도요인겹쳐\"",
@@ -3542,10 +3537,11 @@
     "[주요공시]",
     "'TeamSKT',AG서20개메달합작…AI전력분석도힘보탰다",
     "SK하이닉스노동자,집단산재신청⋯\"유방암·뇌종양·림프종피해\"",
-    "\"고성미래기반다지고민생정책확대\""
+    "\"고성미래기반다지고민생정책확대\"",
+    "기업여윳돈사상최대…가계는예금빼주식으로"
    ],
    "initialized": true,
-   "last_run": "2026-10-07T23:30:35.197062+09:00"
+   "last_run": "2026-10-07T23:35:21.678139+09:00"
   }
  },
  "press_names": {
