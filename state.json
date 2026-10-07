@@ -666,10 +666,13 @@
     [
      "2026-10-07T22:35:24.646334+09:00",
      "거래 SK하이닉스 동반 5천308억 ETF 삼성전자 레버리지"
+    ],
+    [
+     "2026-10-07T22:50:27.243273+09:00",
+     "미국증시 장초반 AI반도체 동반 유가 급등에 장기금리 중소형주 하락"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261007000308",
     "https://www.yna.co.kr/view/AKR20261007050000007?input=1195m",
     "https://www.businesspost.co.kr/BP?command=article_view&num=448766",
     "https://biz.newdaily.co.kr/site/data/html/2026/10/07/2026100700084.html",
@@ -2168,10 +2171,10 @@
     "https://www.m-i.kr/news/articleView.html?idxno=2003751",
     "http://www.kjdaily.com/article.php?aid=1791379838688534276",
     "http://www.bizwnews.com/news/articleView.html?idxno=148281",
-    "https://www.newscj.com/news/articleView.html?idxno=3438695"
+    "https://www.newscj.com/news/articleView.html?idxno=3438695",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16241150"
    ],
    "seen_titles": [
-    "케이씨텍,반도체장비株강세에이틀째급등…12%대↑[종목now]",
     "[특징주]삼성전자잠정실적앞두고2%대상승…SK하닉은보합",
     "'무패로3위점프'제주세르지우코스타감독,K리그9월의감독",
     "SK이터닉스임직원,'따뜻한겨울나기'키트제작…밀알복지재단기부",
@@ -3670,10 +3673,11 @@
     "SK에너지·HD현대오일뱅크,'44조'담합의혹…공정위심의진행",
     "삼성전자·SK하이닉스ETF5천308억거래…레버리지동반↓",
     "신한자산운용,'SOL글로벌DRAM반도체플러스'상장",
-    "AMD리사수,삼성전영현·SK곽노정잇달아만나…AI협력확대"
+    "AMD리사수,삼성전영현·SK곽노정잇달아만나…AI협력확대",
+    "미국증시장초반동반하락…유가·장기금리급등에AI반도체·중소형주..."
    ],
    "initialized": true,
-   "last_run": "2026-10-07T22:45:28.337449+09:00"
+   "last_run": "2026-10-07T22:50:27.243273+09:00"
   }
  },
  "press_names": {
