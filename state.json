@@ -358,10 +358,13 @@
     [
      "2026-10-08T00:50:26.864299+09:00",
      "유럽 10배 확대 K배터리 안심 현지생산 선점 못한다"
+    ],
+    [
+     "2026-10-08T00:55:20.021601+09:00",
+     "노조 마이크론 성과급 파업 찬성 삼전닉스만큼 달라"
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20261007505033?OutUrl=naver",
     "https://www.kyeonggi.com/article/20261007580044",
     "http://www.weeklytoday.com/news/articleView.html?idxno=797114",
     "https://www.nextdaily.co.kr/news/articleView.html?idxno=253625",
@@ -1860,10 +1863,10 @@
     "https://www.news2day.co.kr/article/20261007500209",
     "https://www.chosun.com/economy/money/2026/10/08/PGZ4J3ISHZDTJKXS7KIYZA53A4/",
     "https://www.kbmaeil.com/article/20261008500006",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000020809&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000020809&cp=nv",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610080001&t=NN"
    ],
    "seen_titles": [
-    "[마켓펄스]삼성전자,대규모주주환원기대에강세...7000피재탈환시...",
     "세스코,살균소독·탈취·제습담은'마이랩카케어'5종공개",
     "다시'천스닥'시동거는코스닥",
     "파두·네패스아크·두산테스나등하락...반도체생태계종목엇갈린흐...",
@@ -3362,10 +3365,11 @@
     "[미네르바의눈]물류단상(物流斷想):38도선의두끝,포르투갈에서묻...",
     "박스권갇힌코스피…왜7000서번번이미끄러지나",
     "삼성전자‘오늘운명의날’…사상최대실적예상,주가향방은",
-    "‘유럽선점’K배터리안심못한다…中,현지생산‘10배’확대"
+    "‘유럽선점’K배터리안심못한다…中,현지생산‘10배’확대",
+    "\"삼전닉스만큼성과급달라\"…마이크론노조99%파업찬성"
    ],
    "initialized": true,
-   "last_run": "2026-10-08T00:50:26.864299+09:00"
+   "last_run": "2026-10-08T00:55:20.021601+09:00"
   }
  },
  "press_names": {
