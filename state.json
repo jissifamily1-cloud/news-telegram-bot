@@ -1377,8 +1377,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH20261007090846Ewt",
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077601",
     "http://www.srtimes.kr/news/articleView.html?idxno=214118",
     "https://www.chosun.com/economy/stock-finance/2026/10/07/JXQC3Z3DKRGGRINS3VJDHC3SHU/",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=728863",
@@ -2876,11 +2874,11 @@
     "https://biz.chosun.com/it-science/ict/2026/10/07/U6RGMVVTO5ANVCHCJWEWZ2NESI/",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493497",
     "https://m.sports.naver.com/basketball/article/065/0000302546",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679941"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679941",
+    "https://www.edaily.co.kr/News/Read?newsId=05343126645610624&mediaCodeNo=257",
+    "https://www.nspna.com/news/?newsid=830966"
    ],
    "seen_titles": [
-    "800조반도체'나비효과'…교육도,도시개발도곳곳훈풍",
-    "장스푸드스텔라떡볶이,‘무뼈닭발떡볶이’출시기념리뷰이벤트",
     "'리그3위'코스타제주감독,9월'이달의감독상'주인공…4경기무패",
     "대기업집단2026년10월브랜드평판...삼성,SK,현대자동차順",
     "SK온헝가리공장,포드'Q1어워드'수상…\"품질경쟁력인증\"",
@@ -4378,10 +4376,12 @@
     "HBM급한AMD,파운드리수주노리는삼성…리사수“더폭넓은파트너...",
     "[코스피지수선물옵션]삼성전자·SK하이닉스급락…개별주식선물시장...",
     "[웜업터뷰]‘개막2경기연속5반칙퇴장’알루마,가스공사연패탈...",
-    "[단독]셀프주유‘정액·정량’선택안해도된다고?…“연천억원줄..."
+    "[단독]셀프주유‘정액·정량’선택안해도된다고?…“연천억원줄...",
+    "리사수AMDCEO,韓AI·반도체·게임생태계잇달아접촉",
+    "포항시·아모지,영일만무탄소발전2029년40MW확대"
    ],
    "initialized": true,
-   "last_run": "2026-10-07T18:55:21.258485+09:00"
+   "last_run": "2026-10-07T19:00:42.924339+09:00"
   }
  },
  "press_names": {
