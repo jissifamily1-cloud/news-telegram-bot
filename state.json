@@ -397,7 +397,6 @@
     ]
    ],
    "seen_urls": [
-    "http://journal.kobeta.com/?post_type=post&p=64095",
     "https://www.dt.co.kr/article/12087854",
     "https://www.ddaily.co.kr/page/view/2026100710321854366",
     "https://www.ppss.kr/news/articleView.html?idxno=314346",
@@ -1896,10 +1895,10 @@
     "https://www.discoverynews.kr/news/articleView.html?idxno=1103539",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705640",
     "https://www.businesspost.co.kr/BP?command=article_view&num=448871",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704387"
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704387",
+    "http://www.e-platform.net/news/articleView.html?idxno=105990"
    ],
    "seen_titles": [
-    "자가거주50대1인가구,무주택자자산의3배",
     "SKOn’sHungaryplantearnsFord’stopQ1qualitycertification",
     "인천사랑의열매,지역기업5곳과사회복지시설태양광발전설비지원",
     "신한운용,'SOL글로벌DRAM반도체플러스'ETF상장",
@@ -3398,10 +3397,11 @@
     "용인시,반도체대전서지역소부장기업판로개척",
     "K배터리,3분기어닝서프라이즈기대...ESS출하증가로AMPC효과↑",
     "[WhoIs?]정해린에스원대표이사사장",
-    "[이진호의신통방통]넷플릭스영상은미국서날아오지않는다…'CDN'의..."
+    "[이진호의신통방통]넷플릭스영상은미국서날아오지않는다…'CDN'의...",
+    "SK에너지·현대오일뱅크담합공정위심의착수"
    ],
    "initialized": true,
-   "last_run": "2026-10-08T07:35:20.416351+09:00"
+   "last_run": "2026-10-08T07:40:26.767290+09:00"
   }
  },
  "press_names": {
