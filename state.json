@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-07T07:55:21.043654+09:00",
-     "급등에 관망세 HLB 반도체는 주성 관심"
-    ],
-    [
-     "2026-10-07T07:55:21.043654+09:00",
-     "회복 스토커 한국IR협의회 반도체용 하반기 수주 제닉스로보틱스"
-    ],
-    [
-     "2026-10-07T07:55:21.043654+09:00",
-     "설화수 뷰티 백화점 뚫었다 K럭셔리 럭셔리 일본"
-    ],
-    [
-     "2026-10-07T07:55:21.043654+09:00",
-     "허가 간암 청신호 소식에 급등 신약 HLB그룹주"
-    ],
-    [
-     "2026-10-07T08:00:39.410806+09:00",
-     "최소 미수거래 한국투자증권 삼전닉스 상향 포함 증거금률"
-    ],
-    [
      "2026-10-07T08:05:20.180316+09:00",
      "AIDC만으론 이승현 반도체 에반젤리스트 라이너"
     ],
@@ -1102,15 +1082,17 @@
     [
      "2026-10-07T13:55:20.885958+09:00",
      "이구동성 삼성전자 환율 증권가는 악재에도 100조 실적발표"
+    ],
+    [
+     "2026-10-07T14:00:41.675148+09:00",
+     "직전 폭증 사건 폐지 미제 18만 검찰청"
+    ],
+    [
+     "2026-10-07T14:00:41.675148+09:00",
+     "심화 산업 1만배 기적 62년 양극화는 성장"
     ]
    ],
    "seen_urls": [
-    "https://www.polinews.co.kr/news/articleView.html?idxno=744932",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610060122&t=NN",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=744957",
-    "http://www.newstomato.com/ReadNews.aspx?no=1315797&inflow=N",
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=712505",
-    "https://www.insight.co.kr/news/576700",
     "https://www.getnews.co.kr/news/articleView.html?idxno=882742",
     "https://www.mt.co.kr/tech/2026/10/06/2026100614464058850",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008785262&plink=ORI&cooper=NAVER",
@@ -2604,15 +2586,15 @@
     "https://www.wikitree.co.kr/articles/1164527",
     "https://www.job-post.co.kr/news/articleView.html?idxno=231054",
     "https://www.ddaily.co.kr/page/view/2026100713370392402",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=424157"
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=424157",
+    "https://www.e-science.co.kr/news/articleView.html?idxno=136883",
+    "https://www.edaily.co.kr/News/Read?newsId=03945846645610624&mediaCodeNo=257",
+    "https://www.delighti.co.kr/news/articleView.html?idxno=122910",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008786986&plink=ORI&cooper=NAVER",
+    "https://www.newsgn.com/news/articleView.html?idxno=577854",
+    "http://www.segyebiz.com/newsView/20261007510622?OutUrl=naver"
    ],
    "seen_titles": [
-    "[ETF시황]'TIGER라틴35'11%급등…코스닥·2차전지ETF'인기'",
-    "삼전닉스약세에코스피6941선…코스닥3%↑900선탈환[시황종합]",
-    "김정관“알래스카LNG,전략적가치생겨…상업적합리성전제”",
-    "“반도체株약세에코스피7000선이탈”…2차전지·소부장강세,코스닥...",
-    "[2026국감]LGU+'IMSI'소환…국힘조경태\"15년무방비,위약금면제...",
-    "[기업들]LG전자SDV콕핏부터SKT국방AX까지…차세대기술선점총력",
     "반도체팹건설지연요인개선···정부,삼성·SK인허가수속단축...",
     "코스피7천선내줘...코스닥은900돌파",
     "SKT,군전장데이터활용한AI기술공개",
@@ -4106,10 +4088,16 @@
     "김경문감독대신‘이사람’을?…한화이글스감독후보로거론중인...",
     "SK스퀘어117만2000원…지분가치기대속강보합",
     "[종합]리사수AMD,GPU·국산NPU묶는다…韓'이기종AI'생태계협력...",
-    "삼성전자실적발표D-1···증권가는환율악재에도100조'이구동성'"
+    "삼성전자실적발표D-1···증권가는환율악재에도100조'이구동성'",
+    "SK텔레콤후원선수,아시안게임서메달20개…펜싱AI분석도활용",
+    "외국인매도세에…코스피6800선서횡보",
+    "SKT,아시안게임메달리스트초청해'값진결실'축하",
+    "전쟁틈타44조원대유가담합…SK에너지·HD현대오일뱅크심판대에",
+    "검찰청폐지직전미제사건18만건폭증",
+    "[수출1조달러시대]62년새1만배성장기적…산업간양극화는심화"
    ],
    "initialized": true,
-   "last_run": "2026-10-07T13:55:20.885958+09:00"
+   "last_run": "2026-10-07T14:00:41.675148+09:00"
   }
  },
  "press_names": {
