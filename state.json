@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-08T18:10:29.809853+09:00",
-     "호황 루빈 삼성 12단 유지 간다 카운터포인트 HBM4"
-    ],
-    [
      "2026-10-08T18:15:27.199357+09:00",
      "4조6000억 외국인 역대급 실적에도 삼전닉스 순매도"
     ],
@@ -326,14 +322,21 @@
     [
      "2026-10-09T00:05:21.789429+09:00",
      "외국인 개인 기관 받아냈다 최근 던지고 반도체 1개 IT"
+    ],
+    [
+     "2026-10-09T00:15:25.270689+09:00",
+     "29년까지 7조 유치 데이터센터 360MW급 세종시 규모"
+    ],
+    [
+     "2026-10-09T00:15:25.270689+09:00",
+     "줄여 시중유동성 3고 기대부 시대엔 인플레이션"
+    ],
+    [
+     "2026-10-09T00:15:25.270689+09:00",
+     "시동 불꽃야구 군산상일고 니퍼트 상대는 직관 시즌2 17번째"
     ]
    ],
    "seen_urls": [
-    "https://www.mediapen.com/news/view/1128668",
-    "https://www.newscj.com/news/articleView.html?idxno=3438747",
-    "https://www.yna.co.kr/view/AKR20261008038500017?input=1195m",
-    "https://www.mediapen.com/news/view/1128599",
-    "https://www.edaily.co.kr/News/Read?newsId=02840486645610952&mediaCodeNo=257",
     "https://www.ngonews.kr/news/articleView.html?idxno=240103",
     "https://www.topstarnews.net/news/articleView.html?idxno=16241449",
     "https://www.news2day.co.kr/article/20261008500093",
@@ -1828,14 +1831,14 @@
     "https://www.betanews.net/article/view/beta202610080172",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000021141&cp=nv",
     "https://biz.heraldcorp.com/article/10897607",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=90167"
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=90167",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=613525",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=613565",
+    "http://www.ccnnews.co.kr/news/articleView.html?idxno=415989",
+    "https://www.joongang.co.kr/article/25468323",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3716266"
    ],
    "seen_titles": [
-    "[개장]코스피약보합…삼성전자,107조영업익불구하락",
-    "'사상첫100조'뚫은삼성전자…수급악재겹쳐주가는약세",
-    "코스피,장초반조정…삼성전자호실적에도'하락'",
-    "누리호타고우주간SK하이닉스반도체…실제우주환경서성능검증",
-    "[AI픽]금융권해킹,핵심시스템아닌'보안사각지대'노렸다",
     "가습기살균제배상,국가·기업공동책임체계가동…15개사분담금납...",
     "SK이터닉스,마스턴투자운용과연료전지기반AI데이터센터개발",
     "8일부터국가주도가습기살균제피해배상시행···내년4월7일까...",
@@ -3330,10 +3333,15 @@
     "코스피,삼전'어닝서프라이즈'에도셀온매물출회...하락마감",
     "해킹범은中광둥성거주26세?…클로드에이력서쓰다흔적",
     "솔리다임,누구를위한상장인가?…‘국민주식’SK하이닉스주주의걱...",
-    "[심층분석]외국인·기관'반도체·IT'던지고개인받아냈다…최근1개..."
+    "[심층분석]외국인·기관'반도체·IT'던지고개인받아냈다…최근1개...",
+    "\"분기영업익107조\"사상최대썼는데…삼전주가·코스피동반추락왜...",
+    "몸값135조대어뜬다…SK하이닉스솔리다임,골드만손잡고美상장시...",
+    "세종시,7조원규모AI데이터센터유치...'29년까지360MW급",
+    "[김정식의이코노믹스]3고시대엔시중유동성줄여인플레이션기대부...",
+    "'불꽃야구시즌2'17번째직관상대는군산상일고...니퍼트시동"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T00:10:29.675691+09:00"
+   "last_run": "2026-10-09T00:15:25.270689+09:00"
   }
  },
  "press_names": {
