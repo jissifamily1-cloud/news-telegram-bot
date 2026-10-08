@@ -301,7 +301,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.newslock.co.kr/news/articleView.html?idxno=137623",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=145403",
     "http://www.econonews.co.kr/news/articleView.html?idxno=445440",
     "https://kr.aving.net/news/articleView.html?idxno=1815178",
@@ -1800,10 +1799,10 @@
     "http://www.newsroad.co.kr/news/articleView.html?idxno=65520",
     "https://www.g-enews.com/view.php?ud=202610090735468455fbbec65dfb_1",
     "https://www.koreaittimes.com/news/articleView.html?idxno=157963",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1727257"
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1727257",
+    "https://www.slist.kr/news/articleView.html?idxno=772148"
    ],
    "seen_titles": [
-    "코스피,삼성전자호실적에도하락전환···6800선하회",
     "\"최근금융권AI해킹,기존공격기법자동화·고도화\"...SK쉴더스분석",
     "SKT,업스테이지와'독자AI사이버보안협의체'출범",
     "코스피,상위종목동반하락에6800하회...삼성전자,호실적에도보합...",
@@ -3302,10 +3301,11 @@
     "AI기대꺾이자뉴욕증시휘청…나스닥1.25%급락,다우는소폭상승",
     "월가최고가3000달러찍은마이크론…AI메모리공급난2028년까지달린...",
     "[Insight]FromApprovalstoRecurringRevenue…MedicalAIValuations",
-    "엔비디아투자했는데도IPO연기…AI데이터센터기업들'상장비상'"
+    "엔비디아투자했는데도IPO연기…AI데이터센터기업들'상장비상'",
+    "오픈AI매출'기대이하'보도에美반도체주급락…엔비디아2.9%↓"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T07:55:18.926636+09:00"
+   "last_run": "2026-10-09T08:00:37.749616+09:00"
   }
  },
  "press_names": {
