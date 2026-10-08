@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-09T01:10:27.813466+09:00",
-     "정상 FC서울 승점 남았다 리그 10점 눈앞"
-    ],
-    [
      "2026-10-09T01:25:20.058355+09:00",
      "나설 치유에 사태 이젠 가습기살균제 15년 때다"
     ],
@@ -274,12 +270,13 @@
     [
      "2026-10-09T07:10:25.193778+09:00",
      "사들인 외인이 매도한 추종 괜찮을까 30조 종목 매수"
+    ],
+    [
+     "2026-10-09T07:15:26.078497+09:00",
+     "국제유가 이란 브렌트유 미국 공격 급등 우려 등에"
     ]
    ],
    "seen_urls": [
-    "http://www.seouleconews.com/news/articleView.html?idxno=94210",
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=366860",
-    "https://www.ddaily.co.kr/page/view/2026100810145775667",
     "https://www.segye.com/newsView/20261008505272?OutUrl=naver",
     "https://www.viva100.com/article/20261008500278",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069802",
@@ -1776,12 +1773,12 @@
     "https://theviewers.co.kr/View.aspx?No=4248181",
     "https://www.newsis.com/view/NISX20261008_0003819087",
     "https://www.mk.co.kr/article/12172148",
-    "https://www.dailian.co.kr/news/view/1699585/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1699585/?sc=Naver",
+    "https://www.ziksir.com/news/articleView.html?idxno=148850",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000021230&cp=nv",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=283129"
    ],
    "seen_titles": [
-    "SKT·업스테이지,11개기관과‘독자AI보안’생태계구축",
-    "SKT·업스테이지'독파모',사이버보안확장나선다",
-    "코스피,삼전약발에도6,800선등락...외인·기관순매도",
     "SK스토아,단독브랜드'알렌오'누적주문액18억원돌파",
     "국산AI에보안현장데이터입힌다…SKT·업스테이지협의체출범",
     "‘영업익100조’에도삼전하락전환…코스피도6740선턱걸이",
@@ -3278,10 +3275,13 @@
     "[통신3사경제학①]수조원쓰고제자리…점유율순위왜안바뀌나",
     "'107조잭팟'삼성전자,'63만전자'시동거나",
     "세달만에90만원뚝,33%급락한SK하닉…코스피톱10곳중8곳도떨어...",
-    "30조매도한외인이사들인'종목',추종매수괜찮을까"
+    "30조매도한외인이사들인'종목',추종매수괜찮을까",
+    "'유가급등·오픈AI쇼크'뉴욕증시혼조…나스닥1.25%급락",
+    "“한국삼전닉스처럼성과급!”…마이크론대만노조파업경고",
+    "국제유가,미국이란공격우려등에급등...브렌트유4%↑"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T07:10:25.193778+09:00"
+   "last_run": "2026-10-09T07:15:26.078497+09:00"
   }
  },
  "press_names": {
