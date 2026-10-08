@@ -274,13 +274,21 @@
     [
      "2026-10-09T07:20:27.163253+09:00",
      "최고 반도체 에도 실적 주가 전망은 시장"
+    ],
+    [
+     "2026-10-09T07:35:21.943754+09:00",
+     "단순노무 이주민 일자리 열었다 SK하이닉스 벗어나 핵심 인재로"
+    ],
+    [
+     "2026-10-09T07:35:21.943754+09:00",
+     "뉴욕증시 나란히 나스닥 약세 관련주"
+    ],
+    [
+     "2026-10-09T07:35:21.943754+09:00",
+     "매물 코스피 실적에 하락 차익실현 역대급 삼성전자 6600선까지"
     ]
    ],
    "seen_urls": [
-    "https://www.epnc.co.kr/news/articleView.html?idxno=407940",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=855926",
-    "https://www.mt.co.kr/industry/2026/10/08/2026100714170372595",
-    "https://www.fnnews.com/news/202610080918126231",
     "http://www.newsdream.kr/news/articleView.html?idxno=119592",
     "https://www.ekn.kr/web/view.php?key=20261008020383532",
     "https://www.mydaily.co.kr/page/view/2026100810044140394",
@@ -1776,13 +1784,13 @@
     "https://www.koreaittimes.com/news/articleView.html?idxno=157962",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790087&plink=ORI&cooper=NAVER",
     "https://www.hankyung.com/article/2026100923007",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=364421"
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=364421",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790144&plink=ORI&cooper=NAVER",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=279555",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=145470",
+    "https://www.fnnews.com/news/202610082215402483"
    ],
    "seen_titles": [
-    "최태원,EBS'위대한수업'서AI시대'새로운자본주의'제시",
-    "에코프로비엠·삼아알미늄부터부품주까지…2차전지소재부품株폭등랠...",
-    "SKT-업스테이지,국내보안기업·대학과AI보안기술협력추진",
-    "[2026국감]ETF괴리율초과올해219건'역대최다'…개인24.7조거래",
     "\"배터리경쟁,후반전준비를\"…K배터리'ESS출사표'내놓는다",
     "이억원금융위원장\"가계부채관리엄격하게..실수요자대출은핀셋형\"",
     "[드림Talk]차남이키운'반도체소재'장남품으로…BGF,승계판다시짜...",
@@ -3278,10 +3286,14 @@
     "[인사이트]'허가몇건'보다'반복매출'…의료AI기업가치계산법이달...",
     "'최고실적'에도주가↓…반도체시장전망은?",
     "\"오픈AI매출기대못미친다\"…S&P500·나스닥'하락'[뉴욕증시브리핑...",
-    "오픈AI실적우려에뉴욕증시혼조…나스닥1%↓"
+    "오픈AI실적우려에뉴욕증시혼조…나스닥1%↓",
+    "뉴욕증시,AI기술주약세속혼조마감…나스닥1.25%↓",
+    "단순노무벗어나AI핵심인재로…SK하이닉스,이주민일자리열었다",
+    "[오늘의글로벌마켓]뉴욕증시,AI관련주나란히약세...나스닥1.3%↓",
+    "삼성전자역대급실적에차익실현매물…코스피6600선까지하락"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T07:30:36.899175+09:00"
+   "last_run": "2026-10-09T07:35:21.943754+09:00"
   }
  },
  "press_names": {
