@@ -1114,14 +1114,13 @@
     [
      "2026-10-08T12:50:27.210602+09:00",
      "AMD 광폭행보 제품 리사 반도체 수요 동맹부터 확대 정조준"
+    ],
+    [
+     "2026-10-08T12:55:19.297595+09:00",
+     "전기제품 배터리 결실 전장부품 테마 수주 차세대 몰리 거래대금"
     ]
    ],
    "seen_urls": [
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=665987",
-    "https://www.ddaily.co.kr/page/view/2026100716302192451",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2477900",
-    "https://www.m-i.kr/news/articleView.html?idxno=2003606",
-    "https://www.etoday.co.kr/news/view/2633455",
     "https://www.delighti.co.kr/news/articleView.html?idxno=122968",
     "https://view.asiae.co.kr/article/2026100716294337018",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=424169",
@@ -2616,14 +2615,14 @@
     "https://www.tokenpost.kr/news/blockchain/419742",
     "http://www.kjdaily.com/article.php?aid=1791430999688548276",
     "https://www.betanews.net/article/view/beta202610080085",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1727152"
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1727152",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=360285",
+    "https://kbench.com/?q=node%2F282428",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=360294",
+    "https://www.etnews.com/20261008000190",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493717"
    ],
    "seen_titles": [
-    "44조원대석유제품담합의혹…공정위,SK에너지·현대오일뱅크심의착...",
-    "신한자산운용,'SOL글로벌DRAM반도체플러스'ETF상장…한미일메모리...",
-    "[마감]코스피,2%하락6800선턱걸이…삼전실적발표경계심",
-    "코스피,외국인·기관순매도에6800선하락마감",
-    "\"반도체는팀스포츠\"…리사수AMDCEO,韓삼성·SK등메모리·파운드...",
     "전력자립3.9%깬다…박용선포항시장,'아모지'손잡고영일만무탄소...",
     "리사수,전영현·곽노정회동…AI반도체협력논의",
     "리사수AMD회장“반도체는팀스포츠”⋯삼성ㆍSK와AI메모리협력...",
@@ -4118,10 +4117,15 @@
     "[로빈후드온체인]레딧토큰24만달러어치가줄어...워작거래3.8배",
     "삼성전자·SK하이닉스거래대금4조4천억원…상위20개58%",
     "SKB,'Btv+'가입자KBO한국시리즈직관티켓제공",
-    "광폭행보리사수,韓반도체·AI동맹부터AMD제품수요확대'정조준..."
+    "광폭행보리사수,韓반도체·AI동맹부터AMD제품수요확대'정조준...",
+    "[분석]영업익'100조신화'쓴이재용의삼성…세계테크기업최초",
+    "리사수“게이밍은AMD의핵심”…한국게이머피드백강조한AMD게이...",
+    "[분석]LG전자,3분기실적기대치하회…증권가가주목한'AI냉각·로봇...",
+    "이억원금융위원장,단일종목레버리지ETF논란에“더세심하게살폈...",
+    "\"차세대배터리·전장부품수주결실\"…전기제품테마,거래대금몰리..."
    ],
    "initialized": true,
-   "last_run": "2026-10-08T12:50:27.210602+09:00"
+   "last_run": "2026-10-08T12:55:19.297595+09:00"
   }
  },
  "press_names": {
