@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-09T00:35:26.716356+09:00",
-     "상위 50개 절반 11조원 삼성전자 SK하이닉스 거래대금 차지"
-    ],
-    [
      "2026-10-09T00:55:24.499372+09:00",
      "3사 초호황 1000원어치 메모리 800원 2030년까지 남기는 팔면"
     ],
@@ -206,10 +202,13 @@
     [
      "2026-10-09T06:35:21.645214+09:00",
      "급등 뉴욕증시 혼조 국제유가는 마감"
+    ],
+    [
+     "2026-10-09T06:40:24.930813+09:00",
+     "최태원 반도체 군공항 점검 방문 호남 광주 클러스터"
     ]
    ],
    "seen_urls": [
-    "https://www.namdonews.com/news/articleView.html?idxno=925611",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705797",
     "https://www.meconomynews.com/news/articleView.html?idxno=202340",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=364347",
@@ -1708,10 +1707,10 @@
     "https://www.ytn.co.kr/_ln/0102_202610090633166797",
     "https://www.yna.co.kr/view/AKR20261008163800003?input=1195m",
     "https://www.businessplus.kr/news/articleView.html?idxno=117926",
-    "https://biz.chosun.com/international/international_economy/2026/10/09/WWQJZNRXIJFHXN6X5DS26JUOMA/"
+    "https://biz.chosun.com/international/international_economy/2026/10/09/WWQJZNRXIJFHXN6X5DS26JUOMA/",
+    "https://magazine.hankyung.com/business/article/202610092279b"
    ],
    "seen_titles": [
-    "'뉴요커'라면김용범,유시민,정용진을어떻게썼을까",
     "SK케미칼,2030년매출2.8조목표…주주환원율30%이상",
     "[특징주]'역대급실적'삼성전자,장초반약세…SK하이닉스는상승",
     "최태원SK회장,EBS'위대한수업'첫강연자로...AI사회문제의식제...",
@@ -3210,10 +3209,11 @@
     "AI로불러낸우리말...한글로고에서체개발도",
     "'꿈의영업익'달성한K-메모리…SK하이닉스로바통이을까",
     "[AI냉각전쟁/③]서버식히는정유사,검증하는통신사…냉각생태계...",
-    "뉴욕증시,혼조마감…국제유가는4%급등"
+    "뉴욕증시,혼조마감…국제유가는4%급등",
+    "최태원,광주군공항첫방문…호남반도체클러스터점검"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T06:35:21.645214+09:00"
+   "last_run": "2026-10-09T06:40:24.930813+09:00"
   }
  },
  "press_names": {
