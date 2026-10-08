@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-08T16:45:26.975396+09:00",
-     "호실적에도 하락 삼성 TSMC 닛케이 아시아증시"
-    ],
-    [
-     "2026-10-08T16:45:26.975396+09:00",
-     "tn collusion KRW oil price"
-    ],
-    [
-     "2026-10-08T16:45:26.975396+09:00",
-     "10월 8일 애프터마켓 하락 700원 SK텔레콤 주가"
-    ],
-    [
-     "2026-10-08T16:45:26.975396+09:00",
-     "추구 운용사와 고수익 변질 투자일임 우려 쉐어 성과보수 판매사의"
-    ],
-    [
      "2026-10-08T16:50:25.808625+09:00",
      "대란 산업부가 나섰다 질소 최악의 수급"
     ],
@@ -618,10 +602,13 @@
     [
      "2026-10-08T22:30:37.077715+09:00",
      "확정손실 레버리지 도입으로 2조3천억원대 이억원 개인"
+    ],
+    [
+     "2026-10-08T22:50:25.349933+09:00",
+     "동반 급등 엔비디아 반도체 미국증시 약세 이란 전쟁에 유가 금리"
     ]
    ],
    "seen_urls": [
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=424183",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=279342",
     "https://www.tjb.co.kr/news05/bodo/view/id/104540",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=366852",
@@ -2120,10 +2107,10 @@
     "https://mhnse.com/news/articleView.html?idxno=1581304",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8681437",
     "https://www.moneystorm.kr/news/articleView.html?idxno=7139",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000072037"
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000072037",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16242167"
    ],
    "seen_titles": [
-    "나인테크주가'활활'…무슨이슈있나",
     "대기업오너4·5세94%는유학파…미국컬럼비아·뉴욕·코넬대최다",
     "KT해킹서버로그삭제지시한건'CPO'···일부직원불응해일부만...",
     "SKT,'AI사이버보안원팀'결성…11개기관협의체본격가동",
@@ -3622,10 +3609,11 @@
     "[mhn포토]김재희,장갑고쳐잡고",
     "세종시-SK증권,데이터센터건립협약…7조원규모",
     "[국감현장]이억원,레버리지도입으로개인확정손실2조3천억원대추...",
-    "최태원SK회장,9일광주군공항첫방문…반도체공장점검"
+    "최태원SK회장,9일광주군공항첫방문…반도체공장점검",
+    "미국증시,이란전쟁에유가·금리동반급등…엔비디아·반도체약세,..."
    ],
    "initialized": true,
-   "last_run": "2026-10-08T22:45:24.375394+09:00"
+   "last_run": "2026-10-08T22:50:25.349933+09:00"
   }
  },
  "press_names": {
