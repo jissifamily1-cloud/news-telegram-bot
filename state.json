@@ -218,11 +218,13 @@
     [
      "2026-10-09T06:50:27.080380+09:00",
      "SK하이닉스 담고 3조원 삼성SDI 이수페타시스"
+    ],
+    [
+     "2026-10-09T06:55:18.638378+09:00",
+     "SK스퀘어 삼성SDI LG에너지솔루션 LG이 SK이노베이션"
     ]
    ],
    "seen_urls": [
-    "https://theviewers.co.kr/View.aspx?No=4256116",
-    "http://www.finomy.com/news/articleView.html?idxno=263167",
     "https://www.newspost.kr/news/articleView.html?idxno=226210",
     "https://www.seoultimes.news/news/article.html?no=2000100664",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273520&CMPT_CD=P0010",
@@ -1720,11 +1722,11 @@
     "https://magazine.hankyung.com/business/article/202610092279b",
     "https://www.moneystorm.kr/news/articleView.html?idxno=7140",
     "https://www.wikitree.co.kr/articles/1164890",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493927"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493927",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16242203",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493928"
    ],
    "seen_titles": [
-    "SKT·업스테이지,안랩등6개보안사와맞손...'AI사이버보안연합'출...",
-    "\"솔리다임IPO주관사선정…공모규모100억弗\"",
     "[유통갤러리]리엔케이,美코스트코입점…글로벌공략본격화外",
     "SK브로드밴드,Btv가입자에한국시리즈직관티켓쏜다",
     "SK브로드밴드,KBO한국시리즈티켓추첨이벤트시작",
@@ -3222,10 +3224,12 @@
     "최태원,광주군공항첫방문…호남반도체클러스터점검",
     "[뉴욕증시마감시황]유가급등·AI거품론에나스닥1.25%↓…반도체주...",
     "10월9일한글날택배쉬나요,주식시장·은행·병원휴무여부는?",
-    "[주간거래소외국인]이수페타시스·삼성SDI담고SK하이닉스3조원넘..."
+    "[주간거래소외국인]이수페타시스·삼성SDI담고SK하이닉스3조원넘...",
+    "미국증시나스닥1.25%하락…유가급등에AI수익성우려,반도체주급...",
+    "[주간거래소기관]SK스퀘어삼성SDISK이노베이션LG에너지솔루션LG이..."
    ],
    "initialized": true,
-   "last_run": "2026-10-09T06:50:27.080380+09:00"
+   "last_run": "2026-10-09T06:55:18.638378+09:00"
   }
  },
  "press_names": {
