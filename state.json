@@ -1189,7 +1189,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=302265",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=666003",
     "https://www.seoul.co.kr/news/economy/2026/10/08/20261008500031?wlog_tag3=naver",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4438276",
@@ -2688,10 +2687,10 @@
     "http://www.kjdaily.com/article.php?aid=1791454115688629002",
     "https://biz.newdaily.co.kr/site/data/html/2026/10/08/2026100800357.html",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705945",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000021098&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000021098&cp=nv",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610081904140110966"
    ],
    "seen_titles": [
-    "SK브로드밴드,'Btv+'가입자한국시리즈직관티켓증정",
     "코스피,상승개장후6800선하회…삼전·닉스도방향성탐색",
     "SK브로드밴드,Btv구독자에한국시리즈관람권제공",
     "코스피,외국인·기관순매도에6760선약세",
@@ -4190,10 +4189,11 @@
     "“농어촌기본소득내년전면도입”",
     "솔리다임,美IPO주관사선정…블룸버그\"100억달러조달가능\"",
     "[국감2026]알맹이없는산업부국감…증인·자료없이소모적공방되풀...",
-    "일단내놓고수습반복…‘설익은정책’에혼란가중"
+    "일단내놓고수습반복…‘설익은정책’에혼란가중",
+    "대한건설협회,‘MEETtheCEOs:연세대미래건설인타운홀미팅’개최"
    ],
    "initialized": true,
-   "last_run": "2026-10-08T19:20:29.768797+09:00"
+   "last_run": "2026-10-08T19:25:21.145091+09:00"
   }
  },
  "press_names": {
