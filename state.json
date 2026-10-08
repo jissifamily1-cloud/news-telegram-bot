@@ -773,7 +773,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.newskr.kr/news/articleView.html?idxno=106996",
     "https://www.mt.co.kr/tech/2026/10/08/2026100809170480927",
     "http://www.newsian.co.kr/news/articleView.html?idxno=96725",
     "https://www.mediapen.com/news/view/1128641",
@@ -2272,10 +2271,10 @@
     "https://biz.sbs.co.kr/article_hub/20000339097?division=NAVER",
     "http://www.econonews.co.kr/news/articleView.html?idxno=445467",
     "https://www.yna.co.kr/view/AKR20261008207900007?input=1195m",
-    "http://www.newstomato.com/ReadNews.aspx?no=1316170&inflow=N"
+    "http://www.newstomato.com/ReadNews.aspx?no=1316170&inflow=N",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8681356"
    ],
    "seen_titles": [
-    "“함께하지못하게돼너무죄송”…‘시즌아웃’LG김진성,팬들에게...",
     "경북도,홍콩상장엑스탈파이안동유치추진",
     "삼성전자영업이익107조,아람코이어세계두번째",
     "SKT·업스테이지,독자AI모델에보안데이터학습…사이버보안협의체...",
@@ -3774,10 +3773,11 @@
     "SK최태원회장,호남반도체클러스터첫현장방문",
     "코스피,2%대낙폭에6700선무너져...LG에너지솔루션상승VSSK스퀘어,...",
     "[프로농구중간순위]8일",
-    "김용범빠진'레버리지국감'...책임추궁한계(종합)"
+    "김용범빠진'레버리지국감'...책임추궁한계(종합)",
+    "최태원회장,내일‘반도체부지’광주군공항방문"
    ],
    "initialized": true,
-   "last_run": "2026-10-08T21:45:27.905762+09:00"
+   "last_run": "2026-10-08T21:50:28.119745+09:00"
   }
  },
  "press_names": {
