@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-08T17:15:26.239919+09:00",
-     "눌러도 주유 정액 30년간 가득 됐는데 몰랐다 정량"
-    ],
-    [
-     "2026-10-08T17:15:26.239919+09:00",
-     "손질 통제 경쟁사 SK에너지 강화 접촉 가격담합 의혹에 거래구조"
-    ],
-    [
-     "2026-10-08T17:15:26.239919+09:00",
-     "하이비젼 LG엔솔 협력사 시스템알앤디 대진기계 부도에 ESS 중용"
-    ],
-    [
      "2026-10-08T17:20:28.456455+09:00",
      "주차 플랫폼 아이파킹 매각 SK이노베이션"
     ],
@@ -501,7 +489,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=279342",
     "https://www.tjb.co.kr/news05/bodo/view/id/104540",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=366852",
     "https://www.sentv.co.kr/article/view/sentv202610080018",
@@ -2000,10 +1987,10 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8681437",
     "https://www.moneystorm.kr/news/articleView.html?idxno=7139",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000072037",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16242167"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16242167",
+    "https://www.mk.co.kr/article/12172041"
    ],
    "seen_titles": [
-    "대기업오너4·5세94%는유학파…미국컬럼비아·뉴욕·코넬대최다",
     "KT해킹서버로그삭제지시한건'CPO'···일부직원불응해일부만...",
     "SKT,'AI사이버보안원팀'결성…11개기관협의체본격가동",
     "SK하이닉스반도체도우주로…국산기술검증할위성교신성공",
@@ -3502,10 +3489,11 @@
     "세종시-SK증권,데이터센터건립협약…7조원규모",
     "[국감현장]이억원,레버리지도입으로개인확정손실2조3천억원대추...",
     "최태원SK회장,9일광주군공항첫방문…반도체공장점검",
-    "미국증시,이란전쟁에유가·금리동반급등…엔비디아·반도체약세,..."
+    "미국증시,이란전쟁에유가·금리동반급등…엔비디아·반도체약세,...",
+    "최태원,광주반도체팹예정지찾는다…용지·전력등점검"
    ],
    "initialized": true,
-   "last_run": "2026-10-08T23:10:26.856658+09:00"
+   "last_run": "2026-10-08T23:15:26.445251+09:00"
   }
  },
  "press_names": {
