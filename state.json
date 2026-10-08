@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-08T13:10:25.675990+09:00",
-     "영업익 글로벌 100조 107조원 삼성전자 빅테크 3분기 클럽"
-    ],
-    [
-     "2026-10-08T13:10:25.675990+09:00",
-     "사후정산 사전 공급가격 담합 의혹 폐지 유가 공개 SK에너지"
-    ],
-    [
      "2026-10-08T13:15:24.566006+09:00",
      "급한 만기에 껐지만 유상증자로 SK디앤디 차입금 불어난 11월"
     ],
@@ -1190,16 +1182,17 @@
     [
      "2026-10-08T19:05:22.449290+09:00",
      "다음엔 vs 금융망 금융사 방패 미국 초유의 한국 해킹 삼은 뚫린"
+    ],
+    [
+     "2026-10-08T19:10:27.468043+09:00",
+     "세종 대처 방안은 법무법인 자본시장 기업 흐름에 시장 바뀌는"
+    ],
+    [
+     "2026-10-08T19:10:27.468043+09:00",
+     "약세에 H주 뉴욕 홍콩 속락 증시 마감"
     ]
    ],
    "seen_urls": [
-    "https://www.munhwa.com/article/11622117",
-    "https://www.news2day.co.kr/article/20261008500057",
-    "https://www.mk.co.kr/article/12171136",
-    "https://view.asiae.co.kr/article/2026100809205094324",
-    "https://www.newspim.com/news/view/20261008000041",
-    "https://www.handmk.com/news/articleView.html?idxno=43902",
-    "https://www.etoday.co.kr/news/view/2633727",
     "https://www.viva100.com/article/20261008500198",
     "https://www.mk.co.kr/article/12171146",
     "https://www.dailian.co.kr/news/view/1699246/?sc=Naver",
@@ -2692,16 +2685,16 @@
     "https://www.ytn.co.kr/_ln/0102_202610081854560931",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=53528",
     "https://www.insight.co.kr/news/577097",
-    "https://ilyo.co.kr/?ac=article_view&entry_id=513092"
+    "https://ilyo.co.kr/?ac=article_view&entry_id=513092",
+    "https://www.segye.com/newsView/20261008513957?OutUrl=naver",
+    "http://www.lawissue.co.kr/view.php?ud=202610081905434316f4ab64559d_12",
+    "https://www.segye.com/newsView/20261008517116?OutUrl=naver",
+    "http://www.inews24.com/view/2013358",
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5223846",
+    "https://biz.heraldcorp.com/article/10897509",
+    "https://www.newsis.com/view/NISX20261008_0003819852"
    ],
    "seen_titles": [
-    "섬유·에너지·통신까지‘73년개척정신’…이제반도체로미래연다...",
-    "이명재·이유현·이탈로·클리말라,K리그9월선수상경쟁",
-    "사재털어시작한‘인재보국’…장학생5300명·박사1000명‘인재숲...",
-    "[2026국감]금융위국감,AI해킹·ETF·국책은행내부통제정조준",
-    "KFTCbeginsreviewofalleged44tnwonfuelcartel",
-    "SK쉴더스\"AI는새로운취약점아닌기존공격의자동화·고도화\"",
-    "\"반도체고가자\"…충북반도체고,신입생설명회5배몰려",
     "세스코,차량실내위생관리'카케어'5종선봬",
     "SKT·업스테이지,‘독자AI사이버보안협의체’출범…상호레드티밍...",
     "SKB,‘Btv+’·‘Btv+max’가입자대상한국시리즈직관티켓제공",
@@ -4194,10 +4187,17 @@
     "[기업]SKT,AI로100년전우리말분석...글꼴도제작",
     "삼성전자실적호재도'매도세'막지못했다",
     "정재헌,2300만고객과AI잇는다...SKT'토큰경제'승부수",
-    "뚫린한국금융망vsAI방패삼은미국…초유의금융사AI해킹,다음엔..."
+    "뚫린한국금융망vsAI방패삼은미국…초유의금융사AI해킹,다음엔...",
+    "가습기살균제피해국가주도배상시작…연내세부기준공개",
+    "SK에너지,석유제품가격구조개편·내부통제강화방안마련",
+    "3대메가프로젝트에중소기업도참여…이소영“대통령이회의들어오...",
+    "\"실적세계1위인데도떨어지다니\"…삼성전자하락에개미들'허탈'",
+    "삼성전자영업익100조돌파…글로벌빅테크최초기록",
+    "“바뀌는시장흐름에기업대처방안은”…법무법인세종‘자본시장...",
+    "[올댓차이나]홍콩증시,뉴욕증시약세에속락마감…H주0.89%↓"
    ],
    "initialized": true,
-   "last_run": "2026-10-08T19:05:22.449290+09:00"
+   "last_run": "2026-10-08T19:10:27.468043+09:00"
   }
  },
  "press_names": {
