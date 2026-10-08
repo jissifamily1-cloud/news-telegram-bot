@@ -294,10 +294,13 @@
     [
      "2026-10-09T07:50:25.955775+09:00",
      "From Are Valuations Medical Recurring Approvals Revenue to"
+    ],
+    [
+     "2026-10-09T07:55:18.926636+09:00",
+     "상장 비상 기업들 데이터센터 엔비디아 연기 IPO 투자했는데도"
     ]
    ],
    "seen_urls": [
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705838",
     "http://www.newslock.co.kr/news/articleView.html?idxno=137623",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=145403",
     "http://www.econonews.co.kr/news/articleView.html?idxno=445440",
@@ -1796,10 +1799,10 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4438459",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=65520",
     "https://www.g-enews.com/view.php?ud=202610090735468455fbbec65dfb_1",
-    "https://www.koreaittimes.com/news/articleView.html?idxno=157963"
+    "https://www.koreaittimes.com/news/articleView.html?idxno=157963",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1727257"
    ],
    "seen_titles": [
-    "107조원벌었지만삼성전자주가는주춤…'반도체고점'경계감여전",
     "코스피,삼성전자호실적에도하락전환···6800선하회",
     "\"최근금융권AI해킹,기존공격기법자동화·고도화\"...SK쉴더스분석",
     "SKT,업스테이지와'독자AI사이버보안협의체'출범",
@@ -3298,10 +3301,11 @@
     "[뉴욕마켓워치]되살아난AI의구심에반도체주급락…채권↑달러↓",
     "AI기대꺾이자뉴욕증시휘청…나스닥1.25%급락,다우는소폭상승",
     "월가최고가3000달러찍은마이크론…AI메모리공급난2028년까지달린...",
-    "[Insight]FromApprovalstoRecurringRevenue…MedicalAIValuations"
+    "[Insight]FromApprovalstoRecurringRevenue…MedicalAIValuations",
+    "엔비디아투자했는데도IPO연기…AI데이터센터기업들'상장비상'"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T07:50:25.955775+09:00"
+   "last_run": "2026-10-09T07:55:18.926636+09:00"
   }
  },
  "press_names": {
