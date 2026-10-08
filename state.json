@@ -182,11 +182,17 @@
     [
      "2026-10-09T01:10:27.813466+09:00",
      "정상 FC서울 승점 남았다 리그 10점 눈앞"
+    ],
+    [
+     "2026-10-09T01:25:20.058355+09:00",
+     "나설 치유에 사태 이젠 가습기살균제 15년 때다"
+    ],
+    [
+     "2026-10-09T01:25:20.058355+09:00",
+     "Shifts Sentiment Equipment Stocks Semiconductor Investor and Materials"
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4438285",
-    "https://zdnet.co.kr/view/?no=20261008095332",
     "https://www.hankyung.com/article/202610080150g",
     "http://www.ikld.kr/news/articleView.html?idxno=341937",
     "http://www.breaknews.com/1241702",
@@ -1684,11 +1690,11 @@
     "http://www.worktoday.co.kr/news/articleView.html?idxno=90225",
     "http://www.kjdaily.com/article.php?aid=1791473410688642276",
     "https://www.chosun.com/economy/tech_it/2026/10/09/AS47QRSLRNC2DMTWYW63CQHSO4/",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000021182&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000021182&cp=nv",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000021187&cp=nv",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092171729"
    ],
    "seen_titles": [
-    "SKT·업스테이지,사이버보안에독자AI투입…11개기관뭉쳤다",
-    "삼성전자실적발표에도코스피·코스닥혼조세",
     "코스피7천선안착못한이유…\"AI사이클주도권,메모리서이동\"",
     "데이터창고넘어‘AI토큰공장’으로\"한국에기회왔다”",
     "채용공고도이력서도쏟아진다…'귀한몸'된반도체경력직",
@@ -3186,10 +3192,12 @@
     "대기업채용시장살아나나…3분기반도체채용공고102%급증",
     "삼성전자·SK하이닉스거래대금11조원…상위50개절반차지",
     "1000원어치팔면800원남기는메모리3사…“2030년까지초호황”",
-    "승점10점남았다…FC서울,리그정상눈앞"
+    "승점10점남았다…FC서울,리그정상눈앞",
+    "[사설]가습기살균제사태15년…이젠치유에나설때다",
+    "SemiconductorInvestorSentimentShifts:MaterialsandEquipmentSt"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T01:20:32.423355+09:00"
+   "last_run": "2026-10-09T01:25:20.058355+09:00"
   }
  },
  "press_names": {
