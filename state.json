@@ -353,7 +353,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/it-science/cc-newmedia/6313993",
     "https://www.mk.co.kr/article/12171218",
     "https://www.topstarnews.net/news/articleView.html?idxno=16241482",
     "https://www.cbci.co.kr/news/articleView.html?idxno=613445",
@@ -1852,10 +1851,10 @@
     "https://www.tokenpost.kr/news/insights/420219",
     "https://www.mt.co.kr/stock/2026/10/09/2026100817445057794",
     "https://www.etnews.com/20261009000007",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000072046"
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000072046",
+    "https://www.fnnews.com/news/202610090835517924"
    ],
    "seen_titles": [
-    "[오늘의통신]SKT,독자AI보안적용확대…KT‘모두의AI’실증",
     "EBS강연나서는최태원\"AI시대,자본주의도새로운가치담아야\"",
     "\"GPU·전력다음은메모리\"…AIDC경쟁변화,韓에기회",
     "LGEnergySolutionrisesonrecordquarterlyearnings",
@@ -3354,10 +3353,11 @@
     "[온체인주식선물]SK하이닉스,정규장종가보다1.01%할인",
     "팔았지만판게아니다?…최태원SK지분매각에숨은PRS구조",
     "엔비디아넘어선'분기영업익100조'삼성전자…내년전망도밝은데주...",
-    "'꿈의마진'80%벽넘나…HBM훈풍탄하이닉스실적주목"
+    "'꿈의마진'80%벽넘나…HBM훈풍탄하이닉스실적주목",
+    "삼성전자,분기영업익107조찍었는데주가는주춤?...\"극단적저평가..."
    ],
    "initialized": true,
-   "last_run": "2026-10-09T08:40:26.251299+09:00"
+   "last_run": "2026-10-09T08:45:23.830187+09:00"
   }
  },
  "press_names": {
