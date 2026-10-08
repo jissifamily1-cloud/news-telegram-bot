@@ -266,11 +266,17 @@
     [
      "2026-10-09T07:05:21.461367+09:00",
      "107조 삼성전자 잭팟 63만전자 시동거나"
+    ],
+    [
+     "2026-10-09T07:10:25.193778+09:00",
+     "8곳도 90만원 떨어 세달만에 급락한 코스피 SK하닉 10곳"
+    ],
+    [
+     "2026-10-09T07:10:25.193778+09:00",
+     "사들인 외인이 매도한 추종 괜찮을까 30조 종목 매수"
     ]
    ],
    "seen_urls": [
-    "https://www.asiatime.co.kr/article/20261008500085",
-    "http://www.srtimes.kr/news/articleView.html?idxno=214268",
     "http://www.seouleconews.com/news/articleView.html?idxno=94210",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=366860",
     "https://www.ddaily.co.kr/page/view/2026100810145775667",
@@ -1768,11 +1774,11 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=279409",
     "https://www.fetv.co.kr/news/articleView.html?idxno=311474",
     "https://theviewers.co.kr/View.aspx?No=4248181",
-    "https://www.newsis.com/view/NISX20261008_0003819087"
+    "https://www.newsis.com/view/NISX20261008_0003819087",
+    "https://www.mk.co.kr/article/12172148",
+    "https://www.dailian.co.kr/news/view/1699585/?sc=Naver"
    ],
    "seen_titles": [
-    "금리4%시대의배당주투자...\"주주환원체력도함께봐야\"",
-    "한투'ACE라이프자산주주가치액티브',액티브ETF중6개월초과성과1...",
     "SKT·업스테이지,11개기관과‘독자AI보안’생태계구축",
     "SKT·업스테이지'독파모',사이버보안확장나선다",
     "코스피,삼전약발에도6,800선등락...외인·기관순매도",
@@ -3270,10 +3276,12 @@
     "삼성전자축포터졌다…SK하이닉스성적표에커지는기대",
     "[호반인사&조직]②호반건설,송종민수석부회장'6년만에'대표복귀",
     "[통신3사경제학①]수조원쓰고제자리…점유율순위왜안바뀌나",
-    "'107조잭팟'삼성전자,'63만전자'시동거나"
+    "'107조잭팟'삼성전자,'63만전자'시동거나",
+    "세달만에90만원뚝,33%급락한SK하닉…코스피톱10곳중8곳도떨어...",
+    "30조매도한외인이사들인'종목',추종매수괜찮을까"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T07:05:21.461367+09:00"
+   "last_run": "2026-10-09T07:10:25.193778+09:00"
   }
  },
  "press_names": {
