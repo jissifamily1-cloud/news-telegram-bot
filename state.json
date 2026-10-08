@@ -370,10 +370,13 @@
     [
      "2026-10-08T22:50:25.349933+09:00",
      "동반 급등 엔비디아 반도체 미국증시 약세 이란 전쟁에 유가 금리"
+    ],
+    [
+     "2026-10-08T23:50:25.094826+09:00",
+     "토큰 정재헌 SKT 기어 위한 선점 경제 성장 CEO 전략 제시"
     ]
    ],
    "seen_urls": [
-    "https://www.tjb.co.kr/news05/bodo/view/id/104540",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=366852",
     "https://www.sentv.co.kr/article/view/sentv202610080018",
     "https://byline.network/?p=9004111222622655",
@@ -1872,10 +1875,10 @@
     "https://www.moneystorm.kr/news/articleView.html?idxno=7139",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000072037",
     "https://www.topstarnews.net/news/articleView.html?idxno=16242167",
-    "https://www.mk.co.kr/article/12172041"
+    "https://www.mk.co.kr/article/12172041",
+    "https://view.asiae.co.kr/article/2026100823483544280"
    ],
    "seen_titles": [
-    "KT해킹서버로그삭제지시한건'CPO'···일부직원불응해일부만...",
     "SKT,'AI사이버보안원팀'결성…11개기관협의체본격가동",
     "SK하이닉스반도체도우주로…국산기술검증할위성교신성공",
     "ACE라이프자산주주가치액티브,6개월성과액티브ETF중1위",
@@ -3374,10 +3377,11 @@
     "[국감현장]이억원,레버리지도입으로개인확정손실2조3천억원대추...",
     "최태원SK회장,9일광주군공항첫방문…반도체공장점검",
     "미국증시,이란전쟁에유가·금리동반급등…엔비디아·반도체약세,...",
-    "최태원,광주반도체팹예정지찾는다…용지·전력등점검"
+    "최태원,광주반도체팹예정지찾는다…용지·전력등점검",
+    "정재헌SKTCEO,토큰경제선점위한'성장기어전략'제시"
    ],
    "initialized": true,
-   "last_run": "2026-10-08T23:45:25.902654+09:00"
+   "last_run": "2026-10-08T23:50:25.094826+09:00"
   }
  },
  "press_names": {
