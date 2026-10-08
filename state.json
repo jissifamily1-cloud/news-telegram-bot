@@ -182,12 +182,17 @@
     [
      "2026-10-09T06:15:59.580851+09:00",
      "매도 삼성 한투지주 매수 국민연금 미래에셋 키움 매매 대신"
+    ],
+    [
+     "2026-10-09T06:25:20.691814+09:00",
+     "파업 상향 마이크론 위기에도 목표가"
+    ],
+    [
+     "2026-10-09T06:25:20.691814+09:00",
+     "잇따라 해외공장서 위반 실효성 도마 안전 3사 시정조치 배터리"
     ]
    ],
    "seen_urls": [
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=302287",
-    "https://www.inthenews.co.kr/news/article.html?no=92839",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=209387",
     "https://www.hankyung.com/article/202610077572r",
     "https://www.seoulfn.com/news/articleView.html?idxno=639635",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1727126",
@@ -1684,12 +1689,12 @@
     "https://it.chosun.com/news/articleView.html?idxno=2023092171626",
     "https://www.livebiz.today/news/articleView.html?idxno=205435",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610080122&t=NN",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=424216"
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=424216",
+    "https://www.yna.co.kr/view/AKR20261009007251072?input=1195m",
+    "https://www.sedaily.com/article/20099771",
+    "https://www.ngetnews.com/news/articleView.html?idxno=554266"
    ],
    "seen_titles": [
-    "최태원SK회장EBS'위대한수업'출격…AI시대'새자본주의'해법제...",
-    "\"국내주식액티브ESG펀드3년수익률,비ESG대비68.1%p웃돌아\"",
-    "SK텔레콤·업스테이지·6개보안사·3개대학,AI사이버보안협의체출...",
     "최태원,EBS‘위대한수업’첫강연자로나서…“새로운가치의자본...",
     "KB증권,고객감동경영대상20년연속수상...'명예의전당'기록이어가",
     "기업에쓰던PRS,개인에게도…최태원회장거래에증권가주목",
@@ -3186,10 +3191,13 @@
     "리사수이어매디슨황도방한…넓어지는AI협력",
     "[생생Job]군·기업·경찰·법조의'별'…상징은남고특혜는줄었다",
     "주주반발에도'강행?'...'신의한수'나올까[B급기자의B급리포트]",
-    "미래에셋·삼성·키움·한투지주매도,대신證매수···국민연금매매..."
+    "미래에셋·삼성·키움·한투지주매도,대신證매수···국민연금매매...",
+    "뉴욕증시,AI기술주약세에혼조마감…나스닥1.25%↓(종합)",
+    "마이크론파업위기에도…“목표가43%상향”[마켓무버]",
+    "배터리3사해외공장서안전위반잇따라…시정조치실효성도마"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T06:20:27.289786+09:00"
+   "last_run": "2026-10-09T06:25:20.691814+09:00"
   }
  },
  "press_names": {
