@@ -1082,13 +1082,13 @@
     [
      "2026-10-08T20:05:21.866796+09:00",
      "내린 애플도 월가 못한 주가 삼전 분석은 엔비디아 801억달러 벌고"
+    ],
+    [
+     "2026-10-08T20:15:25.383744+09:00",
+     "직접 방문 광주 반도체 최태원 공항 챙긴다"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1727120",
-    "https://www.handmk.com/news/articleView.html?idxno=43910",
-    "https://www.yna.co.kr/view/AKR20261008048600008?input=1195m",
-    "https://www.fnnews.com/news/202610080913528651",
     "https://www.news1.kr/photos/8148706",
     "https://www.raonnews.com/news/article.html?no=61718",
     "https://www.handmk.com/news/articleView.html?idxno=43909",
@@ -2584,13 +2584,13 @@
     "https://www.hankyung.com/article/202610081723i",
     "https://www.hankyung.com/article/2026100820787",
     "https://www.ajunews.com/view/20261008195701375",
-    "https://www.joongang.co.kr/article/25468276"
+    "https://www.joongang.co.kr/article/25468276",
+    "https://sports.donga.com/life/article/all/20261008/134812198/1",
+    "https://www.edaily.co.kr/News/Read?newsId=06773206645610952&mediaCodeNo=257",
+    "https://biz.chosun.com/industry/company/2026/10/08/M3D3MAEHHRBQREJBES7IXZCJ7A/",
+    "https://www.ikbc.co.kr/article/view/kbc202610080063"
    ],
    "seen_titles": [
-    "SK브로드밴드,Btv+고객과'가을야구마지막승부'함께한다",
-    "SKT·업스테이지,국산AI로해킹막는다···보안기업·대학11곳뭉쳤...",
-    "코스피6770선출발…삼성전자잠정실적에도보합권",
-    "SK쉴더스,AI활용자동화공격보안가이드공개",
     "[특징주]삼성전자,실적호조에도장초반약세…하닉은0.7%↑",
     "상장첫날개인58억샀다…SOL글로벌DRAM반도체플러스,하반기반도체...",
     "'독자AI사이버보안협의체'출범",
@@ -4086,10 +4086,14 @@
     "엔비디아·애플도못한801억달러벌고주가내린삼전…월가분석은",
     "'반도체부지점검'…최태원SK회장,9일광주군공항방문",
     "최태원SK그룹회장,9일광주군공항첫방문…반도체투자점검",
-    "최태원SK그룹회장,9일‘호남반도체’광주군공항방문"
+    "최태원SK그룹회장,9일‘호남반도체’광주군공항방문",
+    "파리나무십자가소년합창단,캐럴이가장잘어울리는소년들[PS]",
+    "최태원,9일광주군공항첫방문…반도체공장부지점검",
+    "최태원SK그룹회장,9일광주군공항방문예정",
+    "최태원\"광주반도체팹,직접챙긴다\"…군공항첫방문"
    ],
    "initialized": true,
-   "last_run": "2026-10-08T20:10:24.936527+09:00"
+   "last_run": "2026-10-08T20:15:25.383744+09:00"
   }
  },
  "press_names": {
