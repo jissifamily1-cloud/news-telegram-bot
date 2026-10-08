@@ -926,10 +926,13 @@
     [
      "2026-10-08T21:10:27.528704+09:00",
      "비즈니스포스트 주요기사 아침의"
+    ],
+    [
+     "2026-10-08T21:15:23.788770+09:00",
+     "제자리 이유는 실적은 주가는 신기록"
     ]
    ],
    "seen_urls": [
-    "https://www.smartbizn.com/news/articleView.html?idxno=155880",
     "https://www.yna.co.kr/view/AKR20261008050200008?input=1195m",
     "https://view.asiae.co.kr/article/2026100809393559978",
     "https://www.greened.kr/news/articleView.html?idxno=351657",
@@ -2428,10 +2431,10 @@
     "https://www.mk.co.kr/article/12166936",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493900",
     "http://www.yonhapnewstv.co.kr/news/MYH20261008210753OG1",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=448980"
+    "https://www.businesspost.co.kr/BP?command=article_view&num=448980",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8681310"
    ],
    "seen_titles": [
-    "삼성전자깜짝실적에도…코스피,하락전환해6700선털썩",
     "블룸버그“SK하닉손자회사솔리다임,골드만삭스등IPO주관사선정”",
     "코스피,美장기금리급등에6770선하락···외인·기관매도",
     "KKR\"韓기업개혁,투자매력커져…AI·반도체가실적견인\"",
@@ -3930,10 +3933,11 @@
     "이제쇼핑도자율주행시대…‘AI쇼퍼’떴다[스페셜리포트]",
     "[국감]단일종목레버리지2.3조확정손실...금융위,투자자보호체계시...",
     "삼성전자100조벌어도…코스피2.62%'뚝'",
-    "[10월9일자]비즈니스포스트아침의주요기사"
+    "[10월9일자]비즈니스포스트아침의주요기사",
+    "실적은‘신기록’주가는‘제자리’…이유는?"
    ],
    "initialized": true,
-   "last_run": "2026-10-08T21:10:27.528704+09:00"
+   "last_run": "2026-10-08T21:15:23.788770+09:00"
   }
  },
  "press_names": {
