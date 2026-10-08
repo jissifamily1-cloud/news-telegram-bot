@@ -274,11 +274,17 @@
     [
      "2026-10-09T07:15:26.078497+09:00",
      "국제유가 이란 브렌트유 미국 공격 급등 우려 등에"
+    ],
+    [
+     "2026-10-09T07:20:27.163253+09:00",
+     "보다 허가 기업가치 반복매출 계산법이 의료AI"
+    ],
+    [
+     "2026-10-09T07:20:27.163253+09:00",
+     "최고 반도체 에도 실적 주가 전망은 시장"
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20261008505272?OutUrl=naver",
-    "https://www.viva100.com/article/20261008500278",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069802",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493664",
     "https://www.epnc.co.kr/news/articleView.html?idxno=407940",
@@ -1776,11 +1782,11 @@
     "https://www.dailian.co.kr/news/view/1699585/?sc=Naver",
     "https://www.ziksir.com/news/articleView.html?idxno=148850",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000021230&cp=nv",
-    "https://www.womennews.co.kr/news/articleView.html?idxno=283129"
+    "https://www.womennews.co.kr/news/articleView.html?idxno=283129",
+    "https://www.koreaittimes.com/news/articleView.html?idxno=157962",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790087&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "SK스토아,단독브랜드'알렌오'누적주문액18억원돌파",
-    "국산AI에보안현장데이터입힌다…SKT·업스테이지협의체출범",
     "‘영업익100조’에도삼전하락전환…코스피도6740선턱걸이",
     "ETF괴리율기준초과올해219건‘역대최다’…개인거래대금24조원",
     "최태원,EBS'위대한수업'서AI시대'새로운자본주의'제시",
@@ -3278,10 +3284,12 @@
     "30조매도한외인이사들인'종목',추종매수괜찮을까",
     "'유가급등·오픈AI쇼크'뉴욕증시혼조…나스닥1.25%급락",
     "“한국삼전닉스처럼성과급!”…마이크론대만노조파업경고",
-    "국제유가,미국이란공격우려등에급등...브렌트유4%↑"
+    "국제유가,미국이란공격우려등에급등...브렌트유4%↑",
+    "[인사이트]'허가몇건'보다'반복매출'…의료AI기업가치계산법이달...",
+    "'최고실적'에도주가↓…반도체시장전망은?"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T07:15:26.078497+09:00"
+   "last_run": "2026-10-09T07:20:27.163253+09:00"
   }
  },
  "press_names": {
