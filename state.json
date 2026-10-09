@@ -289,11 +289,6 @@
     ]
    ],
    "seen_urls": [
-    "https://basketkorea.com/news/newsview.php?ncode=1065586577692558",
-    "https://biz.sbs.co.kr/article_hub/20000338958?division=NAVER",
-    "https://www.ccdailynews.com/news/articleView.html?idxno=2445207",
-    "https://www.news1.kr/it-science/internet-platform/6314325",
-    "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88535",
     "http://www.newsdream.kr/news/articleView.html?idxno=119652",
     "https://m.sports.naver.com/basketball/article/065/0000302589",
     "https://www.ajunews.com/view/20261008130901374",
@@ -1788,14 +1783,14 @@
     "https://news.jtbc.co.kr/article/NB12322245?influxDiv=NAVER",
     "https://www.mk.co.kr/article/12172396",
     "https://www.joongang.co.kr/article/25468457",
-    "https://www.asiaa.co.kr/news/articleView.html?idxno=265532"
+    "https://www.asiaa.co.kr/news/articleView.html?idxno=265532",
+    "https://www.the-today.com/news/articleView.html?idxno=91453",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=765595",
+    "https://www.donga.com/news/Economy/article/all/20261009/134814699/1",
+    "http://www.newsprime.co.kr/news/article.html?no=750437",
+    "https://www.newsis.com/view/NISX20261009_0003820269"
    ],
    "seen_titles": [
-    "송변전호황·배전시장개화…LS일렉트릭,수혜본격화",
-    "로맥\"날잊었을까걱정했는데\"…5년만팬들앞울컥(어서와)",
-    "\"靑주범\"vs\"음모론\"...정무위'레버리지ETF'책임론공방",
-    "가습기살균제국가주도배상시동…정부·기업손잡고신속지급나선...",
-    "삼성전자,3분기영업익107조원…글로벌빅테크최초‘100조클럽’",
     "'유가담합의혹'SK에너지,공급가격사전공개·사후정산폐지추진",
     "'분기영업익100조'삼성전자,내년HBM으로더번다",
     "호르무즈통항두달여만에최저…원유물동량27%↓",
@@ -3290,10 +3285,15 @@
     "호남반도체부지간최태원\"전력·용수늦어도먼저짓겠다\"",
     "반도체소부장·2차전지덕에코스닥은선방",
     "해킹급증에도“사이버보험이뭐예요?”…韓시장日의65분의1",
-    "[A주간서머리]경제·산업계\"금융권,AI해킹사태일파만파...삼성전..."
+    "[A주간서머리]경제·산업계\"금융권,AI해킹사태일파만파...삼성전...",
+    "최태원,광주반도체클러스터첫현장방문…\"용인과동시건설도추진...",
+    "최태원SK그룹회장,광주반도체부지점검…\"용인과공장병행건설할...",
+    "최태원“호남반도체빠른속도로건설…규모는용인의3분의2”",
+    "'호남반도체'부지찾은최태원\"속도감있게진행\"",
+    "최태원SK회장,호남권반도체부지첫방문…\"속도감있게추진\""
    ],
    "initialized": true,
-   "last_run": "2026-10-09T17:05:20.576744+09:00"
+   "last_run": "2026-10-09T17:10:28.961598+09:00"
   }
  },
  "press_names": {
