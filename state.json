@@ -202,13 +202,21 @@
     [
      "2026-10-10T07:25:21.472013+09:00",
      "최고치인데 박스권 달째 증시 코스피"
+    ],
+    [
+     "2026-10-10T07:35:21.335562+09:00",
+     "기반 민형배 최태원 반도체공장 조기착수 지원 인재 정주여건"
+    ],
+    [
+     "2026-10-10T07:35:21.335562+09:00",
+     "소액주주 비싸게 한화 피해 이중 싸게 경영권은 신주는"
+    ],
+    [
+     "2026-10-10T07:35:21.335562+09:00",
+     "SK온 2조 공장 잔류 감원 환수 보조금 배터리 30명"
     ]
    ],
    "seen_urls": [
-    "https://www.fnnews.com/news/202610081415105549",
-    "http://www.dailypop.kr/news/articleView.html?idxno=103185",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=231391",
-    "http://www.beyondpost.co.kr/view.php?ud=2026100814400165642aaae0046f_30",
     "https://www.newsinside.kr/news/articleView.html?idxno=5019607",
     "https://www.greened.kr/news/articleView.html?idxno=351691",
     "https://www.huffingtonpost.kr/article/261084",
@@ -1704,13 +1712,13 @@
     "https://www.moneystorm.kr/news/articleView.html?idxno=7147",
     "https://www.pointe.co.kr/news/articleView.html?idxno=85850",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790812&plink=ORI&cooper=NAVER",
-    "https://imnews.imbc.com/replay/2026/nwtoday/article/6856911_37012.html"
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6856911_37012.html",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16242850",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=871475",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4438520",
+    "https://www.the-today.com/news/articleView.html?idxno=91464"
    ],
    "seen_titles": [
-    "LG,현대차제치고그룹시총3위…325일만에탈환",
-    "SK에너지,기름값담합의혹에가격체계개편·내부통제강화",
-    "정석근SK하이퍼대표\"미래AIDC경쟁력,메모리역량·사업성·수익구...",
-    "“인공지능데이터센터전력난잡는다”…SK이터닉스,연료전지연계출...",
     "가습기살균제'국가주도배상'시작…오늘부터신청",
     "반도체생산시설조성본격화…용인·호남공업용수공급준비",
     "민형배\"통합은옳은선택\"100일성과강조…남은과제는",
@@ -3206,10 +3214,14 @@
     "최태원,호남반도체부지찾아…\"가장빠른속도로짓겠다\"...\"규모커...",
     "최태원SK회장,전남광주반도체특화단지점검…생산기지확충가속",
     "미증시최고치인데…코스피석달째박스권,왜?",
-    "호남찾은최태원‥\"가장빠른속도로짓겠다\""
+    "호남찾은최태원‥\"가장빠른속도로짓겠다\"",
+    "미국증시다우423포인트상승…이란공격유예에안도,반도체는약세",
+    "반도체공장…최태원\"조기착수\"-민형배\"기반·인재·정주여건지원총...",
+    "경영권은비싸게,신주는싸게…한화證\"소액주주이중피해\"",
+    "[단독]SK온美배터리공장또감원…'잔류30명'에1.2조보조금환수..."
    ],
    "initialized": true,
-   "last_run": "2026-10-10T07:30:36.505154+09:00"
+   "last_run": "2026-10-10T07:35:21.335562+09:00"
   }
  },
  "press_names": {
