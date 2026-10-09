@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-09T10:10:28.747726+09:00",
-     "보안 협의체 SKT 맞손 출범 독자 안랩 업스테이지 11곳과"
-    ],
-    [
      "2026-10-09T10:15:24.602040+09:00",
      "안동은 북부권 영주는 경북 첨단베어링 투자유치전 AI바이오"
     ],
@@ -298,13 +294,13 @@
     [
      "2026-10-09T16:10:27.761084+09:00",
      "6조 ETF 집중 인버스 ETN은 2배에 거래 코스피200"
+    ],
+    [
+     "2026-10-09T16:15:23.758013+09:00",
+     "중장기 장기계약 삼성전자 목표 메모리 생산능력"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=279386",
-    "https://www.chosun.com/economy/startup_story/2026/10/08/ANP3UOAJ5NGCXCNEROFTVVXC6A/",
-    "https://www.newsis.com/view/NISX20261008_0003818977",
-    "http://www.newsbrite.net/news/articleView.html?idxno=200820",
     "https://www.newstnt.com/news/articleView.html?idxno=722027",
     "https://www.tgdaily.co.kr/news/articleView.html?idxno=407335",
     "https://www.munhwa.com/article/11622252",
@@ -1800,13 +1796,13 @@
     "https://www.getnews.co.kr/news/articleView.html?idxno=883107",
     "https://view.asiae.co.kr/article/2026100916075553520",
     "https://www.koreaherald.com/article/10897855",
-    "http://www.kjdaily.com/article.php?aid=1791529578688656276"
+    "http://www.kjdaily.com/article.php?aid=1791529578688656276",
+    "https://www.hidomin.com/news/articleView.html?idxno=724208",
+    "https://www.nocutnews.co.kr/news/6589385",
+    "https://www.kado.net/news/articleView.html?idxno=2077171",
+    "https://www.tokenpost.kr/news/tech/420386"
    ],
    "seen_titles": [
-    "'유가담합의혹'SK에너지\"국민께송구…가격체계전면손질\"",
-    "\"우리도삼성전자처럼\"…마이크론대만노조,영업이익15%성과급요구",
-    "리밸런싱수급부담?삼성전자역대최대실적에도코스피약세",
-    "‘충분히내렸나’…최대사모펀드KKR“한국기업투자기회”",
     "삼전3Q영업익107조…빅테크첫100조돌파",
     "'100조벽'깬삼성전자,메모리호황날개",
     "이억원금융위원장“단일종목레버리지도입으로국민심려끼쳐죄송...",
@@ -3302,10 +3298,14 @@
     "최태원\"호남반도체,용인의3분의2규모..빠른착공우선\"",
     "'호남팹'부지찾은최태원\"가장빠른속도로…용인3분의2규모\"",
     "SKchiefeyesGwangjuchipfabsalongsideYongincluster",
-    "코스피200ETF2.6조거래…ETN은인버스2배에집중"
+    "코스피200ETF2.6조거래…ETN은인버스2배에집중",
+    "최태원\"용인만으론부족…호남반도체,전력·용수늦어도먼저착공\"",
+    "최태원\"용수·전력늦어도먼저\"…호남권반도체팹속도전",
+    "최태원\"호남반도체클러스터최대한빨리짓겠다…필요하면용인과동...",
+    "삼성전자,중장기메모리생산능력60~70%장기계약목표"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T16:10:27.761084+09:00"
+   "last_run": "2026-10-09T16:15:23.758013+09:00"
   }
  },
  "press_names": {
