@@ -313,10 +313,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=364379",
-    "http://www.joseilbo.com/news/news_read.php?uid=577047&class=18",
-    "https://www.seoultimes.news/news/article.html?no=2000100676",
-    "https://www.goodkyung.com/news/articleView.html?idxno=292165",
     "https://www.edaily.co.kr/News/Read?newsId=03273446645610952&mediaCodeNo=257",
     "http://www.mdilbo.com/detail/0kIA7d/759423",
     "http://www.hellodd.com/news/articleView.html?idxno=113434",
@@ -1812,13 +1808,13 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=9000021286&cp=nv",
     "https://www.joongang.co.kr/article/25468434",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494024",
-    "https://www.newsis.com/view/NISX20261009_0003820110"
+    "https://www.newsis.com/view/NISX20261009_0003820110",
+    "https://www.newsis.com/view/NISX20261009_0003820224",
+    "https://www.hani.co.kr/arti/economy/finance/1281677.html",
+    "https://www.hankyung.com/article/2026100926837",
+    "https://biz.sbs.co.kr/article_hub/20000339125?division=NAVER"
    ],
    "seen_titles": [
-    "[경제진단]삼성전자는107조벌었는데코스피는왜하락했나…'실적의...",
-    "SK에너지,공정위조사에사과…\"가격구조개편·내부통제강화\"",
-    "SK에너지가격구조개편4대방안마련가격투명성·내부통제·상생·공급...",
-    "경상흑자,4개월연속400억달러넘나…한은“9월,8월보다좋을듯”",
     "SK에너지,석유제품가격·거래투명성강화...‘가격투명성,내부통제...",
     "신한은행,복정역세권개발에2조2800억원자금조달완료",
     "SK에너지,석유제품가격·거래관행점검…내부통제강화한다",
@@ -3314,10 +3310,14 @@
     "SK하이닉스‘꿈의이익률’80%달성할까…삼성이어실적기대감고조",
     "“우리도삼전닉스처럼”…마이크론대만노조99%파업찬성",
     "SK하이닉스,HBM4·서버D램이성장견인…실적이주가재평가이끈다",
-    "'서울외곽아파트'vs'교통좋은경기도'…집값오를진짜입지는?"
+    "'서울외곽아파트'vs'교통좋은경기도'…집값오를진짜입지는?",
+    "[속보]최태원SK회장\"용수·전력늦더라도광주팹먼저들어갈것\"",
+    "오픈AI매출전망흔들리자기술주전반우수수…AI산업‘순환구조’...",
+    "[속보]최태원\"호남권반도체규모는용인3분의2수준\"",
+    "[속보]최태원\"호남반도체,상황되면가장빠른속도로짓겠다\""
    ],
    "initialized": true,
-   "last_run": "2026-10-09T14:55:19.247596+09:00"
+   "last_run": "2026-10-09T15:00:41.342281+09:00"
   }
  },
  "press_names": {
