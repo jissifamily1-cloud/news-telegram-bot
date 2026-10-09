@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-09T17:15:26.454388+09:00",
-     "말모이체 캠페인 100주년 탄생 만나 한글이 100년전 SKT 한글날"
-    ],
-    [
      "2026-10-09T17:25:19.571007+09:00",
      "시장은 투자 뒷걸음질 쏟아져도 반도체 현금에 집착하는가"
     ],
@@ -178,10 +174,13 @@
     [
      "2026-10-09T23:05:20.103439+09:00",
      "축소 SK하이닉스에 AI의 번진 아이폰18 삼성전자 주문 역설"
+    ],
+    [
+     "2026-10-09T23:20:27.450095+09:00",
+     "논란에 반전 200억달러 반도체 급락 연말 매출 오픈AI 700억달러"
     ]
    ],
    "seen_urls": [
-    "https://www.job-post.co.kr/news/articleView.html?idxno=231334",
     "https://www.newsis.com/view/NISX20261008_0003818533",
     "http://www.newsfc.co.kr/news/articleView.html?idxno=81633",
     "https://www.yna.co.kr/view/AKR20261008121300030?input=1195m",
@@ -1680,10 +1679,10 @@
     "http://www.lkp.news/news/articleView.html?idxno=84811",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=871469",
     "https://www.topstarnews.net/news/articleView.html?idxno=16242755",
-    "http://www.worktoday.co.kr/news/articleView.html?idxno=90254"
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=90254",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16242760"
    ],
    "seen_titles": [
-    "[신간]SNS속타인과비교할수록불행해지는이유…『노자인생수업』...",
     "민형배시장\"통합은옳은선택\"…농어촌기본소득확대제안",
     "가습기살균제피해자'소송없는배상'…15개기업도비용분담",
     "[Telecom&Now]SKT-업스테이지,'독자AI사이버보안협의체'출범등",
@@ -3182,10 +3181,11 @@
     "SK그룹최태원회장,광주반도체클러스터방문...\"용인과병행건설\"...",
     "프로축구강원,부천잡고3위도약…대전·인천도승리",
     "아이폰18주문15%축소…삼성전자·SK하이닉스에번진AI의역설",
-    "광주부지찾은최태원SK그룹회장\"호남반도체,용인의3분의2규모..."
+    "광주부지찾은최태원SK그룹회장\"호남반도체,용인의3분의2규모...",
+    "오픈AI매출200억달러논란에반도체급락…연말700억달러반전"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T23:15:24.477601+09:00"
+   "last_run": "2026-10-09T23:20:27.450095+09:00"
   }
  },
  "press_names": {
