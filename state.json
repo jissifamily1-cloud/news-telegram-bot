@@ -478,10 +478,13 @@
     [
      "2026-10-09T10:35:19.841986+09:00",
      "CSR 민팃 50년 돌봄 점자도서 SK네트웍스"
+    ],
+    [
+     "2026-10-09T10:45:24.164353+09:00",
+     "반도체 삼성 LX세미콘 현대차까지 LG 공급망 넘어 깬다"
     ]
    ],
    "seen_urls": [
-    "https://www.m-economynews.com/news/article.html?no=71461",
     "https://www.ytn.co.kr/_ln/0134_202610081042572650",
     "https://www.newsis.com/view/NISX20261008_0003818652",
     "https://www.newsis.com/view/NISX20261008_0003818598",
@@ -1980,10 +1983,10 @@
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5223901",
     "https://www.joongdo.co.kr/web/view.php?key=20261009010002193",
     "http://www.economytalk.kr/news/articleView.html?idxno=424561",
-    "https://www.ntoday.co.kr/news/articleView.html?idxno=129957"
+    "https://www.ntoday.co.kr/news/articleView.html?idxno=129957",
+    "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307637"
    ],
    "seen_titles": [
-    "신한은행,복정역세권PF2조2800억원조달…대형개발사업잇단성과",
     "SK쉴더스,AI자동화공격시대'ShadowIT·API보안'가이드공개",
     "코스피,삼성전자'영업익100조'호재속장초반혼조",
     "삼성전자영업이익발표에주식앱을열었다...그대로닫았다...[자막뉴...",
@@ -3482,10 +3485,11 @@
     "[아침&피플]해킹범은中광둥성거주26세?…AI에흔적남겼다[아침&매...",
     "[장상현의재미있는고사성어]제232강알묘조장(?苗助長)",
     "[사회공헌특집(187)]'50년CSR'SK네트웍스…\"점자도서·민팃·AI돌봄...",
-    "[마켓펄스]금리부담에유가까지급등...뉴욕증시혼조,기술주'휘청'"
+    "[마켓펄스]금리부담에유가까지급등...뉴욕증시혼조,기술주'휘청'",
+    "LG넘어삼성·현대차까지···LX세미콘,반도체공급망틀깬다"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T10:40:28.642633+09:00"
+   "last_run": "2026-10-09T10:45:24.164353+09:00"
   }
  },
  "press_names": {
