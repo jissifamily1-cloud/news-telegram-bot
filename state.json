@@ -293,8 +293,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.m-economynews.com/news/article.html?no=71471",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610080082&t=NN",
     "https://www.dizzotv.com/site/data/html_dir/2026/10/08/2026100880085.html",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223739",
     "https://zdnet.co.kr/view/?no=20261008111756",
@@ -1792,11 +1790,11 @@
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223942",
     "https://www.kukinews.com/article/view/kuk202610090023",
     "http://www.4th.kr/news/articleView.html?idxno=2119488",
-    "https://www.news1.kr/local/gwangju-jeonnam/6315327"
+    "https://www.news1.kr/local/gwangju-jeonnam/6315327",
+    "https://www.hankookilbo.com/news/article/A2026100915160000735?did=NA",
+    "https://news.tf.co.kr/read/national/2374687.htm"
    ],
    "seen_titles": [
-    "이재용최태원도관심,젠슨황축하만찬에오른한국술화제",
-    "삼성전자,경제사새로썼지만주가는주춤…증권가\"적극매수\"",
     "최태원SK그룹회장,EBS'위대한수업'출격...AI시대새로운자본주의...",
     "[특징주]외국인·기관,삼성전자동반매도…모아데이타·대한항공등...",
     "넥써쓰판교서과천으로사무실이전",
@@ -3294,10 +3292,12 @@
     "호남반도체부지간최태원\"용인3분의2규모…최대한빨리짓겠다\"",
     "최태원“호남반도체클러스터최대한빨리”…용인보다커질까",
     "최태원\"호남반도체최대한빨리..용인3분의2수준\"…논란속현장방...",
-    "\"전력·용수늦어도착공부터\"…최태원,호남팹속도전의지(종합)"
+    "\"전력·용수늦어도착공부터\"…최태원,호남팹속도전의지(종합)",
+    "전남광주반도체팹예정지찾은최태원SK그룹회장...\"상황되면최대...",
+    "광주군공항둘러본최태원SK그룹회장\"호남반도체팹,상황되면빨리..."
    ],
    "initialized": true,
-   "last_run": "2026-10-09T16:25:20.234449+09:00"
+   "last_run": "2026-10-09T16:30:35.099248+09:00"
   }
  },
  "press_names": {
