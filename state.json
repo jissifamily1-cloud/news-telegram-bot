@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-09T17:50:27.064235+09:00",
-     "내년 물량 장기계약분 삼성전자"
-    ],
-    [
-     "2026-10-09T17:50:27.064235+09:00",
-     "올스톱 하나만 없어도 데이터센터 부품"
-    ],
-    [
      "2026-10-09T17:55:19.709627+09:00",
      "부품 5년 빅테크 계약 메모리 넘어 전력 줄섰 기기 확보전"
     ],
@@ -150,10 +142,13 @@
     [
      "2026-10-09T23:30:34.733020+09:00",
      "2300만 SKT 통신 토큰 정재헌 고객 경제 하나로 선점한다 기반"
+    ],
+    [
+     "2026-10-09T23:50:29.543069+09:00",
+     "급락 3사 독점구도 통신 스페이스X 통신주 주파수 흔들리나 확보에"
     ]
    ],
    "seen_urls": [
-    "https://www.womentimes.co.kr/news/articleView.html?idxno=106886",
     "https://www.pressian.com/pages/articles/2026100814012973747",
     "https://biz.chosun.com/it-science/ict/2026/10/08/Q6ACJOC7SZCJRPJ5OFW7ACMVSY/",
     "https://www.namdonews.com/news/articleView.html?idxno=925627",
@@ -1652,10 +1647,10 @@
     "https://www.greened.kr/news/articleView.html?idxno=351753",
     "https://www.apnews.kr/news/articleView.html?idxno=3051919",
     "https://www.newscj.com/news/articleView.html?idxno=3439116",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=209452"
+    "https://www.lcnews.co.kr/news/articleView.html?idxno=209452",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16242770"
    ],
    "seen_titles": [
-    "SK에너지,담합의혹후속조치\"거래관행·내부통제개선\"",
     "가습기살균제국가배상첫발…김성환\"기업분쟁에배상늦어져선안...",
     "마스턴운용-SK이터닉스,연료전지연계형AI데이터센터개발",
     "\"분기영업익107조신기록썼는데\"…삼성전자약세",
@@ -3154,10 +3149,11 @@
     "최태원,\"전력·용수늦어도먼저착공\"…광주반도체속도전예고",
     "SKT정재헌\"통신·AI하나로\"…2300만고객기반'토큰경제'선점한다",
     "[축구]강원,포항2-0꺾고3위로도약",
-    "탄약고부지방문한최태원\"용인만으론부족,광주공장최대한빨리\""
+    "탄약고부지방문한최태원\"용인만으론부족,광주공장최대한빨리\"",
+    "스페이스X주파수확보에미통신주급락…통신3사독점구도흔들리나"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T23:45:28.774943+09:00"
+   "last_run": "2026-10-09T23:50:29.543069+09:00"
   }
  },
  "press_names": {
