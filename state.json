@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-09T07:15:26.078497+09:00",
-     "국제유가 이란 브렌트유 미국 공격 급등 우려 등에"
-    ],
-    [
      "2026-10-09T07:20:27.163253+09:00",
      "보다 허가 기업가치 반복매출 계산법이 의료AI"
     ],
@@ -346,11 +342,17 @@
     [
      "2026-10-09T13:15:23.127916+09:00",
      "달라 노조 대만 파업 찬성으로 마이크론 성과급 삼전닉스식"
+    ],
+    [
+     "2026-10-09T13:20:25.437180+09:00",
+     "상생협의체 용인 핵심 반도체 경기도의원 기후부 국토부 임창휘"
+    ],
+    [
+     "2026-10-09T13:20:25.437180+09:00",
+     "정무위 정유4사 예고 최고가격제 집중 포화 총출동 담합 CEO"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=278464",
-    "https://www.hankyung.com/article/202610080451i",
     "https://m.sports.naver.com/basketball/article/065/0000302586",
     "https://kpenews.com/View.aspx?No=4256215",
     "https://www.todayenergy.kr/news/articleView.html?idxno=303974",
@@ -1848,11 +1850,11 @@
     "https://news.dealsitetv.com/articles/176807",
     "https://www.donga.com/news/Economy/article/all/20261009/134813875/1",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=279587",
-    "https://www.chosun.com/economy/tech_it/2026/10/09/HL62AIWVXVH33HTDH74H6RYMUY/"
+    "https://www.chosun.com/economy/tech_it/2026/10/09/HL62AIWVXVH33HTDH74H6RYMUY/",
+    "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/10/09/20261009500094?wlog_tag3=naver",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1727274"
    ],
    "seen_titles": [
-    "누적경상흑자2800억달러…반도체질주에연간4500억달러‘순항’(종...",
-    "SK이터닉스·마스턴투자운용,국내최초'연료전지연계AI데이터센터'...",
     "[OpeningMarket]KOSPIOpensHigher,TurnsSoftAsSamsungEarningsBe",
     "삼성전자보다뜨거운소부장·배터리…‘펩트론쇼크'에바이오는눈물",
     "[26슬램게임]\"수비로오래살아남고싶어요\"단국대김태영(017)",
@@ -3350,10 +3352,12 @@
     "[ELS체크]삼전닉스담아연30%대수익…이면엔'고위험'",
     "오픈AI매출부진에美기술주급락…나스닥1.25%하락",
     "SKT,2300만고객·AI·인프라기반'토큰게이트웨이'사업화추진",
-    "“삼전닉스식성과급달라”마이크론대만노조,99%찬성으로파업결..."
+    "“삼전닉스식성과급달라”마이크론대만노조,99%찬성으로파업결...",
+    "임창휘경기도의원“용인반도체상생협의체,국토부·기후부핵심부...",
+    "정유4사CEO정무위총출동…담합·최고가격제'집중포화'예고"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T13:15:23.127916+09:00"
+   "last_run": "2026-10-09T13:20:25.437180+09:00"
   }
  },
  "press_names": {
