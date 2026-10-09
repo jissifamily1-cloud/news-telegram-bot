@@ -230,10 +230,13 @@
     [
      "2026-10-09T21:40:25.747854+09:00",
      "기업 엇갈린 소비자 경기 움츠리고 달린다 신호"
+    ],
+    [
+     "2026-10-09T21:45:25.844430+09:00",
+     "100만원이나 싸다 갑자기 이건 너무 주가 화들짝 150만원 보고"
     ]
    ],
    "seen_urls": [
-    "https://news.tvchosun.com/site/data/html_dir/2026/10/08/2026100890117.html",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1727170",
     "https://biz.chosun.com/industry/company/2026/10/08/KNV74GWR4ZFTXGSR4PZZDN6RQA/",
     "http://www.e2news.com/news/articleView.html?idxno=334929",
@@ -1732,10 +1735,10 @@
     "https://www.lawleader.co.kr/news/articleView.html?idxno=20134",
     "https://www.gokorea.kr/news/articleView.html?idxno=880946",
     "https://www.gokorea.kr/news/articleView.html?idxno=880945",
-    "http://www.bizwnews.com/news/articleView.html?idxno=148430"
+    "http://www.bizwnews.com/news/articleView.html?idxno=148430",
+    "https://biz.heraldcorp.com/article/10897964"
    ],
    "seen_titles": [
-    "8월경상수지461억달러흑자…반도체수출에역대두번째규모",
     "최고의9월보낸제주SK,선두서울상대로파이널A향한발걸음재촉한...",
     "SK증권,'AI투자지도2027'세미나…반도체투자전략짚는다",
     "\"한달만에181조가증발했다\"…국민연금쇼크,개미들떨게만든이유",
@@ -3234,10 +3237,11 @@
     "광주부지찾은SK그룹최태원\"호남권반도체클러스터속도감추진\"",
     "최태원회장,광주군공항방문으로호남반도체투자확고한의지표명",
     "최태원SK회장,반도체클러스터광주방문...신속한투자가속화주목",
-    "美,소비자움츠리고기업달린다…엇갈린경기신호"
+    "美,소비자움츠리고기업달린다…엇갈린경기신호",
+    "“150만원?이건너무싸다”주가보고‘화들짝’…갑자기100만원이나..."
    ],
    "initialized": true,
-   "last_run": "2026-10-09T21:40:25.747854+09:00"
+   "last_run": "2026-10-09T21:45:25.844430+09:00"
   }
  },
  "press_names": {
