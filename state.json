@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-09T15:10:25.879106+09:00",
-     "빅딜데 아모레퍼시픽 컨센서스 영업익 3분기 아마존 SK증권 밑돌"
-    ],
-    [
      "2026-10-09T15:15:24.758270+09:00",
      "반도체팹 호남 예정지 입장 SK회장 최태원 밝히는"
     ],
@@ -278,10 +274,13 @@
     [
      "2026-10-09T20:50:23.287192+09:00",
      "간다 달라진 재벌가 자제들 서울대 요즘 많은 애들"
+    ],
+    [
+     "2026-10-09T21:10:28.513597+09:00",
+     "두뇌 만든다 27년 반도체 재도전 LG 이번엔 자동차 만에"
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/it-science/ict/2026/10/08/6GFKZGKWI5DVLM7B2IY2MESCEU/",
     "https://www.news1.kr/sports/soccer/6314294",
     "https://www.mydaily.co.kr/page/view/2026100814144930889",
     "https://www.newstopkorea.com/news/articleView.html?idxno=48063",
@@ -1780,10 +1779,10 @@
     "https://www.dizzotv.com/site/data/html_dir/2026/10/09/2026100980054.html",
     "https://www.seoul.co.kr/news/society/2026/10/09/20261009500156?wlog_tag3=naver",
     "https://mpmbc.co.kr/NewsArticle/1540335",
-    "https://www.mk.co.kr/article/12167094"
+    "https://www.mk.co.kr/article/12167094",
+    "https://www.kbmaeil.com/article/20261009500124"
    ],
    "seen_titles": [
-    "'유가담합'SK에너지,대표입장문통해\"합리적구매환경만들겠다\"",
     "발사대·위성·반도체까지민간손길…누리호,내년제작·관제넓힌다",
     "사이드카23회터진'국장폭탄'…단일레버리지ETF국감서고개",
     "세종에7조원규모AI데이터센터들어선다",
@@ -3282,10 +3281,11 @@
     "최태원SK회장“호남권반도체클러스터속도전”",
     "“요즘돈많은애들?서울대안간다”…확달라진韓재벌가자제들...",
     "최태원회장,광주군공항방문..반도체공장건설점검",
-    "HBM넘어‘AI메모리종합회사’노린다[CEO라운지]"
+    "HBM넘어‘AI메모리종합회사’노린다[CEO라운지]",
+    "27년만에반도체재도전LG…이번엔자동차‘두뇌’만든다"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T21:05:24.117767+09:00"
+   "last_run": "2026-10-09T21:10:28.513597+09:00"
   }
  },
  "press_names": {
