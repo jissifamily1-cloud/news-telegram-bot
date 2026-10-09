@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-09T06:00:39.874000+09:00",
-     "베선트 벽으로 모닝 7명 글로벌 서류철이 떠난 날아갔다 고위직 재무부"
-    ],
-    [
      "2026-10-09T06:05:57.213329+09:00",
      "내부통제 강화 공정 SK에너지 거래"
     ],
@@ -470,11 +466,17 @@
     [
      "2026-10-09T11:55:17.563526+09:00",
      "as favors hynix Samsung push layer Rubin HBM4"
+    ],
+    [
+     "2026-10-09T12:00:42.106222+09:00",
+     "제28회 용인특례시 참가 반도체대전"
+    ],
+    [
+     "2026-10-09T12:00:42.106222+09:00",
+     "3대 메가프로젝트도 구조적 양극화는 심화 반도체 오히려 호황에도"
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493689",
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077796",
     "https://www.newsis.com/view/NISI20261008_0021481239",
     "https://www.businessplus.kr/news/articleView.html?idxno=117891",
     "https://www.ajunews.com/view/20261008103756010",
@@ -1972,11 +1974,11 @@
     "https://www.cwn.kr/news/articleView.html?idxno=58823",
     "https://biz.heraldcorp.com/article/10897481",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273839&CMPT_CD=P0010",
-    "https://www.koreaherald.com/article/10897751"
+    "https://www.koreaherald.com/article/10897751",
+    "https://www.globalepic.co.kr/view.php?ud=2026100814230859705f69d33b22_29",
+    "https://www.yeongnam.com/web/view.php?key=20261009026063481"
    ],
    "seen_titles": [
-    "신한은행,복정역세권개발에2조2800억원PF금융주선",
-    "가습기살균제배상이행업무협약식엇갈린표정",
     "SK에너지,석유제품가격체계개선…공정거래내부통제강화",
     "SKT업스테이지독자AI사이버보안협의체출범",
     "협약식장소떠나는김성환장관과기업체대표",
@@ -3474,10 +3476,12 @@
     "SK하이닉스,'꿈의80%영업이익률눈앞'…삼성전자의신화넘본다",
     "“SK하이닉스는믿는다”역대급실적에도주가‘털썩’…SK하이닉스는...",
     "월드컵금메달이끝이아니었다...한국장애인펜싱의새도전",
-    "SKhynix,Samsungpush16-layerHBM4asRubinfavors12"
+    "SKhynix,Samsungpush16-layerHBM4asRubinfavors12",
+    "용인특례시,‘제28회반도체대전’참가",
+    "반도체호황에도구조적양극화는오히려심화…3대메가프로젝트도난..."
    ],
    "initialized": true,
-   "last_run": "2026-10-09T11:55:17.563526+09:00"
+   "last_run": "2026-10-09T12:00:42.106222+09:00"
   }
  },
  "press_names": {
