@@ -86,10 +86,13 @@
     [
      "2026-10-10T05:05:21.424690+09:00",
      "넘본다 HBM 차세대 시장 43주년 메모리 창립 넘어 SK하이닉스 맞은"
+    ],
+    [
+     "2026-10-10T05:30:34.229903+09:00",
+     "기술주 상승 일제히 반등에도 반도체는 지수 3대 부진"
     ]
    ],
    "seen_urls": [
-    "https://www.hidomin.com/news/articleView.html?idxno=724136",
     "http://www.newsprime.co.kr/news/article.html?no=750350",
     "https://www.thepowernews.co.kr/view.php?ud=202610081405511264de3f0aa1be_7",
     "https://www.kbmaeil.com/article/20261008500142",
@@ -1588,10 +1591,10 @@
     "https://www.xportsnews.com/article/2206058",
     "https://www.lawtimes.co.kr/news/articleView.html?idxno=226978",
     "https://www.nocutnews.co.kr/news/6589285",
-    "https://www.newsis.com/view/NISX20261007_0003817543"
+    "https://www.newsis.com/view/NISX20261007_0003817543",
+    "https://www.fnnews.com/news/202610100522497887"
    ],
    "seen_titles": [
-    "케이블TV,규제개선필요성강조…제도개선'한목소리'",
     "[2026국감]레버리지ETF둘러싼여야공방…청와대개입의혹쟁점",
     "충북반도체고,신입생입시설명회1800여명참여…지난해보다5배증가",
     "가습기살균제국가·기업‘공동배상’경남피해자숨통트이나",
@@ -3090,10 +3093,11 @@
     "'수술→재활중'최정,생애첫직관서큰깨달음…\"오태곤보니까초...",
     "[법조광장]기업책임불분명한AI기본법",
     "정부·기업손잡고10년간1천조넘게투자…K-GX대해부[기후로운경제...",
-    "창립43주년맞은SK하이닉스…HBM넘어차세대AI메모리시장넘본다"
+    "창립43주년맞은SK하이닉스…HBM넘어차세대AI메모리시장넘본다",
+    "[뉴욕증시]3대지수일제히상승…기술주반등에도반도체는부진"
    ],
    "initialized": true,
-   "last_run": "2026-10-10T05:25:22.207478+09:00"
+   "last_run": "2026-10-10T05:30:34.229903+09:00"
   }
  },
  "press_names": {
