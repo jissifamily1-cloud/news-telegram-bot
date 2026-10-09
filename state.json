@@ -414,10 +414,13 @@
     [
      "2026-10-09T12:20:24.810211+09:00",
      "엔비디아 HBM4 GPU서 루빈 축소 유지 12단 단수"
+    ],
+    [
+     "2026-10-09T12:35:19.025691+09:00",
+     "최적요금제 챗GPT서 10월 2가지 LGU 통신혜택 2주 탐색"
     ]
    ],
    "seen_urls": [
-    "http://www.sisacast.kr/news/articleView.html?idxno=100068",
     "https://www.businessplus.kr/news/articleView.html?idxno=117890",
     "https://biz.heraldcorp.com/article/10896750",
     "https://www.newsis.com/view/NISX20261008_0003818800",
@@ -1916,10 +1919,10 @@
     "https://ilyo.co.kr/?ac=article_view&entry_id=513095",
     "http://www.newstomato.com/ReadNews.aspx?no=1316173&inflow=N",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=617980",
-    "https://www.segye.com/newsView/20261009504631?OutUrl=naver"
+    "https://www.segye.com/newsView/20261009504631?OutUrl=naver",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069957"
    ],
    "seen_titles": [
-    "SKchiefpitchesnewcapitalisminrareTVturn",
     "김성환장관과비교되는기업체대표의표정",
     "[生기업TALK]마스턴투자운용,환경친화적인경영혁신추구...재생에너...",
     "신한은행,복정역세권개발2조2800억원금융주선…2차PF3800억원마무...",
@@ -3418,10 +3421,11 @@
     "‘44조원대기름값담합의혹’제재착수…SK에너지·현대오일뱅크엇...",
     "GPU서HBM4단수축소?…“엔비디아루빈,12단유지”",
     "엔비디아,'루빈'HBM412단유지전망...\"HBM수요둔화우려기우\"",
-    "최태원SK그룹회장,호남반도체클러스터부지첫방문"
+    "최태원SK그룹회장,호남반도체클러스터부지첫방문",
+    "[와이파이]10월2주,챗GPT서최적요금제탐색…LGU+외2가지통신혜택"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T12:30:31.757209+09:00"
+   "last_run": "2026-10-09T12:35:19.025691+09:00"
   }
  },
  "press_names": {
