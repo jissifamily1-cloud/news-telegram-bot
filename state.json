@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-09T23:00:45.645269+09:00",
-     "3위 잡고 대전 인천도 도약 프로축구 부천 승리 강원"
-    ],
-    [
-     "2026-10-09T23:05:20.103439+09:00",
-     "축소 SK하이닉스에 AI의 번진 아이폰18 삼성전자 주문 역설"
-    ],
-    [
      "2026-10-09T23:20:27.450095+09:00",
      "논란에 반전 200억달러 반도체 급락 연말 매출 오픈AI 700억달러"
     ],
@@ -86,13 +78,21 @@
     [
      "2026-10-10T04:45:22.967246+09:00",
      "조정 무기 AI투자 지속 우려 거품 반도체 메모리"
+    ],
+    [
+     "2026-10-10T05:05:21.424690+09:00",
+     "기업 기본법 불분명한 책임"
+    ],
+    [
+     "2026-10-10T05:05:21.424690+09:00",
+     "10년간 1천조 경제 손잡고 기업 넘게 정부 대해부 투자 GX 기후로운"
+    ],
+    [
+     "2026-10-10T05:05:21.424690+09:00",
+     "넘본다 HBM 차세대 시장 43주년 메모리 창립 넘어 SK하이닉스 맞은"
     ]
    ],
    "seen_urls": [
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=665495",
-    "https://news.tf.co.kr/read/economy/2374353.htm",
-    "http://www.techholic.co.kr/news/articleView.html?idxno=223184",
-    "http://www.finomy.com/news/articleView.html?idxno=263193",
     "https://www.hidomin.com/news/articleView.html?idxno=724136",
     "http://www.newsprime.co.kr/news/article.html?no=750350",
     "https://www.thepowernews.co.kr/view.php?ud=202610081405511264de3f0aa1be_7",
@@ -1588,13 +1588,13 @@
     "https://www.donga.com/news/Economy/article/all/20261009/134816843/2",
     "https://www.chosun.com/international/international_general/2026/10/10/J7RJXO2XXJHLZI3WDHMRZ556KI/",
     "https://www.goal.com/kr/뉴스/a/bltb4dd54cfe77544ad",
-    "https://www.mediapen.com/news/view/1129010"
+    "https://www.mediapen.com/news/view/1129010",
+    "https://www.xportsnews.com/article/2206058",
+    "https://www.lawtimes.co.kr/news/articleView.html?idxno=226978",
+    "https://www.nocutnews.co.kr/news/6589285",
+    "https://www.newsis.com/view/NISX20261007_0003817543"
    ],
    "seen_titles": [
-    "이소영“메가프로젝트에中企의견반영”…이달말협의체구성착수",
-    "44조원대'기름값담합'의혹…SK에너지·HD현대오일뱅크과징금수조원...",
-    "SK쉴더스,'룰메이커'자처···보안사각지대선점가속",
-    "SK증권,'AI시대투자지도'고객초청세미나…2027년시장전망제시",
     "케이블TV,규제개선필요성강조…제도개선'한목소리'",
     "[2026국감]레버리지ETF둘러싼여야공방…청와대개입의혹쟁점",
     "충북반도체고,신입생입시설명회1800여명참여…지난해보다5배증가",
@@ -3090,10 +3090,14 @@
     "광주팹부지찾은최태원“가장빠른속도로건설”",
     "아시안게임못가열린‘야구드림컵’…참가3國모두한국감독이...",
     "[오피셜]“선수단·코칭스태프와함께영광나누고파”K리그9월이달...",
-    "[美증시특징주]반도체또조정,AI투자거품우려지속…메모리'무기..."
+    "[美증시특징주]반도체또조정,AI투자거품우려지속…메모리'무기...",
+    "'수술→재활중'최정,생애첫직관서큰깨달음…\"오태곤보니까초...",
+    "[법조광장]기업책임불분명한AI기본법",
+    "정부·기업손잡고10년간1천조넘게투자…K-GX대해부[기후로운경제...",
+    "창립43주년맞은SK하이닉스…HBM넘어차세대AI메모리시장넘본다"
    ],
    "initialized": true,
-   "last_run": "2026-10-10T05:00:41.906879+09:00"
+   "last_run": "2026-10-10T05:05:21.424690+09:00"
   }
  },
  "press_names": {
