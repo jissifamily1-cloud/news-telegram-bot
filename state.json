@@ -286,15 +286,13 @@
     [
      "2026-10-09T17:05:20.576744+09:00",
      "경제 사태 삼성전 해킹 일파만파 산업계 금융권"
+    ],
+    [
+     "2026-10-09T17:15:26.454388+09:00",
+     "말모이체 캠페인 100주년 탄생 만나 한글이 100년전 SKT 한글날"
     ]
    ],
    "seen_urls": [
-    "http://www.newsdream.kr/news/articleView.html?idxno=119652",
-    "https://m.sports.naver.com/basketball/article/065/0000302589",
-    "https://www.ajunews.com/view/20261008130901374",
-    "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=913689",
-    "https://biz.newdaily.co.kr/site/data/html/2026/10/08/2026100800195.html",
-    "https://news.dealsitetv.com/articles/176788",
     "https://www.newscj.com/news/articleView.html?idxno=3438802",
     "https://www.kyeongin.com/article/1772199",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=65466",
@@ -1788,15 +1786,15 @@
     "http://www.consumernews.co.kr/news/articleView.html?idxno=765595",
     "https://www.donga.com/news/Economy/article/all/20261009/134814699/1",
     "http://www.newsprime.co.kr/news/article.html?no=750437",
-    "https://www.newsis.com/view/NISX20261009_0003820269"
+    "https://www.newsis.com/view/NISX20261009_0003820269",
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=601063",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=366971",
+    "https://biz.heraldcorp.com/article/10897899",
+    "https://zdnet.co.kr/view/?no=20261009163220",
+    "https://www.wikitree.co.kr/articles/1165038",
+    "https://news.jtbc.co.kr/article/NB12322249?influxDiv=NAVER"
    ],
    "seen_titles": [
-    "'유가담합의혹'SK에너지,공급가격사전공개·사후정산폐지추진",
-    "'분기영업익100조'삼성전자,내년HBM으로더번다",
-    "호르무즈통항두달여만에최저…원유물동량27%↓",
-    "\"검색만하던AI,이제직접움직인다\"…'실행형AI'경쟁본격화",
-    "[국감]단일종목레버리지ETF책임공방…이억원\"청와대지시아냐\"",
-    "SK디앤디,유상증자로급한불껐지만…불어난차입금·11월만기에'산...",
     "국산반도체·위성부품우주서시험하는검증위성2호기,누리호5차발...",
     "[2026국감]공무원도금투협도靑지목?…이억원\"단일레버리지靑지...",
     "SKT·업스테이지,보안기업·대학9곳과'AI사이버보안협의체'출범",
@@ -3290,10 +3288,16 @@
     "최태원SK그룹회장,광주반도체부지점검…\"용인과공장병행건설할...",
     "최태원“호남반도체빠른속도로건설…규모는용인의3분의2”",
     "'호남반도체'부지찾은최태원\"속도감있게진행\"",
-    "최태원SK회장,호남권반도체부지첫방문…\"속도감있게추진\""
+    "최태원SK회장,호남권반도체부지첫방문…\"속도감있게추진\"",
+    "최태원SK회장,호남반도체부지첫방문…\"가장빠른속도로짓겠다\"",
+    "최태원\"용인도부족하다\"…광주반도체공장건설속도전",
+    "최태원회장“호남반도체공장최대한빨리착공…시점곧발표”",
+    "최태원\"호남반도체팹규모,용인3분의2수준검토\"",
+    "SK하이닉스주가168만원대…최태원회장이휴일'광주'찾은이유",
+    "100년전한글이AI만나'말모이체'로탄생...SKT,한글날100주년캠페인"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T17:10:28.961598+09:00"
+   "last_run": "2026-10-09T17:15:26.454388+09:00"
   }
  },
  "press_names": {
