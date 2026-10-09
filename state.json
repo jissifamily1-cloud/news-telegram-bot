@@ -482,17 +482,29 @@
     [
      "2026-10-09T11:00:40.137437+09:00",
      "회원정보 북오프 중고서점 해킹 643만 비상"
+    ],
+    [
+     "2026-10-09T11:05:19.679566+09:00",
+     "수급이 6600선으로 밀린 먼저였다 코스피 이유 실적보다"
+    ],
+    [
+     "2026-10-09T11:05:19.679566+09:00",
+     "October Letter Slow"
+    ],
+    [
+     "2026-10-09T11:05:19.679566+09:00",
+     "해외에도 있다 했나 검증은 금융위 2조원대 손실"
+    ],
+    [
+     "2026-10-09T11:05:19.679566+09:00",
+     "유리 오피스 LX글라스 아파트 회색 외관으로 넘어"
+    ],
+    [
+     "2026-10-09T11:05:19.679566+09:00",
+     "2조2800억원 복합개발사업 신한은행 복정역세권 금융주선 완료"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261008_0003818598",
-    "https://www.widedaily.com/news/articleView.html?idxno=301805",
-    "https://view.asiae.co.kr/article/2026100810390596015",
-    "https://www.newswhoplus.com/news/articleView.html?idxno=71279",
-    "https://en.asiatoday.co.kr/view.php?key=20261008001036044",
-    "https://www.news1.kr/local/gwangju-jeonnam/6314073",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493680",
-    "https://www.news2day.co.kr/article/20261008500111",
     "https://www.businesspost.co.kr/BP?command=article_view&num=448901",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=267595",
     "http://www.newsdream.kr/news/articleView.html?idxno=119625",
@@ -1984,17 +1996,17 @@
     "https://www.ntoday.co.kr/news/articleView.html?idxno=129957",
     "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307637",
     "https://www.seoul.co.kr/news/economy/industry/2026/10/09/20261009500055?wlog_tag3=naver",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=85827"
+    "https://www.pointe.co.kr/news/articleView.html?idxno=85827",
+    "https://www.m-economynews.com/news/article.html?no=71502",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=613831",
+    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=713079",
+    "https://kpenews.com/View.aspx?No=4257571",
+    "https://slownews.kr/167675",
+    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=713080",
+    "https://www.imwood.co.kr/news/articleView.html?idxno=41953",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=883100"
    ],
    "seen_titles": [
-    "삼성전자영업이익발표에주식앱을열었다...그대로닫았다...[자막뉴...",
-    "삼성전자,올3분기영업이익률55%신기록…반도체부문은70%돌파할...",
-    "최태원SK그룹회장\"AI로사회난제풀어야\"…韓日경제연대필요성도...",
-    "'AI대전'맞붙던SKT·업스테이지,'사이버보안'지키려뭉쳤다",
-    "정석근SK하이퍼대표\"향후AIDC경쟁력,메모리역량·수익구조될것\"",
-    "[전문]SK에너지,'석유시장가격구조개편및내부통제강화'조치시...",
-    "CheyTae-wonappearsonEBSGreatMindstosharenewgrowthsolutionsfo",
-    "민형배\"전남광주시민이통합잘했다고말하도록하겠다\"",
     "LG에너지솔루션·삼성SDI주가강세…ESS용LFP배터리공급확대호재",
     "[10월8일고용24채용정보]SK하이스텍·BGF푸드·한국벤처투자·수원도...",
     "코스피삼성전자호실적에도외국인·기관매도에장중하락세6750선,코...",
@@ -3486,10 +3498,18 @@
     "[마켓펄스]금리부담에유가까지급등...뉴욕증시혼조,기술주'휘청'",
     "LG넘어삼성·현대차까지···LX세미콘,반도체공급망틀깬다",
     "삼성전자영업익107조이어…SK하이닉스,이익률80%넘보나",
-    "[오늘일본은]日해킹비상…중고서점북오프회원정보최대643만건유..."
+    "[오늘일본은]日해킹비상…중고서점북오프회원정보최대643만건유...",
+    "뉴욕증시,AI기술주약세·국제유가급등에혼조...나스닥1.25%하락",
+    "[기업家]SK하이닉스③ㅣAI반도체넘어우주·친환경까지…미래성장...",
+    "[2026국감]레버리지ETF놓고격돌…野\"개미약탈게이트\",與\"도입불...",
+    "실적보다수급이먼저였다..코스피6600선으로밀린이유",
+    "SlowLetter:October09,2026.",
+    "\"해외에도있다\"는금융위…2조원대손실,검증은했나",
+    "LX글라스회색유리,오피스넘어아파트외관으로",
+    "신한은행,'복정역세권복합개발사업'2조2800억원금융주선완료"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T11:00:40.137437+09:00"
+   "last_run": "2026-10-09T11:05:19.679566+09:00"
   }
  },
  "press_names": {
@@ -4113,6 +4133,7 @@
   "arirang.com": "arirang.com",
   "allurekorea.com": "allure Korea",
   "travelitoday.com": "travelitoday.com",
-  "hemophilia.co.kr": "헤모필리아라이프"
+  "hemophilia.co.kr": "헤모필리아라이프",
+  "imwood.co.kr": "나무신문"
  }
 }
