@@ -293,15 +293,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.dizzotv.com/site/data/html_dir/2026/10/08/2026100880085.html",
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223739",
-    "https://zdnet.co.kr/view/?no=20261008111756",
-    "https://www.munhwa.com/article/11622260",
-    "https://www.mt.co.kr/industry/2026/10/08/2026100809512931721",
-    "https://www.kukinews.com/article/view/kuk202610080082",
-    "https://www.asiaa.co.kr/news/articleView.html?idxno=265610",
-    "https://www.newsis.com/view/NISX20261008_0003818985",
-    "https://www.dailian.co.kr/news/view/1699411/?sc=Naver",
     "https://www.sedaily.com/article/20099496",
     "http://www.4th.kr/news/articleView.html?idxno=2119408",
     "https://www.greened.kr/news/articleView.html?idxno=351684",
@@ -1792,18 +1783,18 @@
     "http://www.4th.kr/news/articleView.html?idxno=2119488",
     "https://www.news1.kr/local/gwangju-jeonnam/6315327",
     "https://www.hankookilbo.com/news/article/A2026100915160000735?did=NA",
-    "https://news.tf.co.kr/read/national/2374687.htm"
+    "https://news.tf.co.kr/read/national/2374687.htm",
+    "https://www.ziksir.com/news/articleView.html?idxno=148868",
+    "https://www.ddaily.co.kr/page/view/2026100916315838686",
+    "https://www.thedailypost.kr/news/articleView.html?idxno=116127",
+    "http://www.gjdream.com/news/articleView.html?idxno=673326",
+    "https://www.ddaily.co.kr/page/view/2026100916285062281",
+    "https://www.joongangenews.com/news/articleView.html?idxno=553742",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=448986",
+    "https://www.fnnews.com/news/202610091626326807",
+    "https://news.jtbc.co.kr/article/NB12322212?influxDiv=NAVER"
    ],
    "seen_titles": [
-    "최태원SK그룹회장,EBS'위대한수업'출격...AI시대새로운자본주의...",
-    "[특징주]외국인·기관,삼성전자동반매도…모아데이타·대한항공등...",
-    "넥써쓰판교서과천으로사무실이전",
-    "‘차이나리스크’주의보…中D램,韓턱밑추격",
-    "‘하루1.2조’초격차실적…세계빅테크史새로썼다",
-    "삼전호실적도못받친코스피…외국인·기관‘팔자’에코스피6730선",
-    "신한은행,복정역세권복합개발사업2조2,800억금융주선성공",
-    "SK쉴더스“AI해킹,새로운공격아닌자동화…자산·API관리중요”",
-    "최태원,EBS'위대한수업'첫강연…AI시대'새로운자본주의'해법...",
     "\"메모리값올랏다더니\"…'삼중고'에목표가1만6천원→1만2500원내려간...",
     "로맥,5년만에찾은랜더스필드에서울컥“팬들이나를잊은줄알았...",
     "이억원금융위원장,레버리지ETF도입사과...대통령실개입의혹부인",
@@ -3294,10 +3285,19 @@
     "최태원\"호남반도체최대한빨리..용인3분의2수준\"…논란속현장방...",
     "\"전력·용수늦어도착공부터\"…최태원,호남팹속도전의지(종합)",
     "전남광주반도체팹예정지찾은최태원SK그룹회장...\"상황되면최대...",
-    "광주군공항둘러본최태원SK그룹회장\"호남반도체팹,상황되면빨리..."
+    "광주군공항둘러본최태원SK그룹회장\"호남반도체팹,상황되면빨리...",
+    "[CEO직썰]최태원SK그룹회장\"호남반도체클러스터,최대한빠른속...",
+    "최태원SK회장\"용인12년당겨도부족…광주·용인팹병행건설속도...",
+    "최태원회장,광주군공항직접찾았다…호남반도체클러스터추진가...",
+    "최태원SK회장,광주반도체클러스터부지찾는다",
+    "최태원SK회장광주行…\"호남반도체클러스터속도감있게추진\"",
+    "[종합]삼성전자·SK하이닉스800조호남반도체투자가속…최태원\"최...",
+    "최태원\"호남반도체클러스트상황허락되면빨리지을것,규모는용인...",
+    "[속보]최태원,SK하이닉스경영진에\"서남권반도체최대한속도감있게...",
+    "최태원\"호남반도체용인의3분의2규모…수요늘면더커질수도\""
    ],
    "initialized": true,
-   "last_run": "2026-10-09T16:30:35.099248+09:00"
+   "last_run": "2026-10-09T16:35:19.358126+09:00"
   }
  },
  "press_names": {
