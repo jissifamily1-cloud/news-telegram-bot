@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-09T18:00:42.717223+09:00",
-     "TSMC 선단 패키징 접었던 부활 손잡고 글로벌파운드리의 공정"
-    ],
-    [
      "2026-10-09T18:05:20.084534+09:00",
      "대통령 놓고 폭발 지뢰 비판 DMZ 강경파"
     ],
@@ -142,10 +138,13 @@
     [
      "2026-10-09T23:50:29.543069+09:00",
      "급락 3사 독점구도 통신 스페이스X 통신주 주파수 흔들리나 확보에"
+    ],
+    [
+     "2026-10-10T00:00:44.135351+09:00",
+     "처음이지 인천 한국은 위치는 맛집 한우갈비 옥련동 로맥의 어서와"
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/it-science/ict/2026/10/08/Q6ACJOC7SZCJRPJ5OFW7ACMVSY/",
     "https://www.namdonews.com/news/articleView.html?idxno=925627",
     "https://biz.chosun.com/policy/politics/assembly/2026/10/08/MYOTNHFFTNBLBGJNN3PTIFR5FM/",
     "https://www.asiatoday.co.kr/kn/view.php?key=20261008010002535",
@@ -1644,10 +1643,10 @@
     "https://www.newscj.com/news/articleView.html?idxno=3439116",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=209452",
     "https://www.topstarnews.net/news/articleView.html?idxno=16242770",
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000021362&cp=nv"
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000021362&cp=nv",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16242773"
    ],
    "seen_titles": [
-    "마스턴운용-SK이터닉스,연료전지연계형AI데이터센터개발",
     "\"분기영업익107조신기록썼는데\"…삼성전자약세",
     "민형배시장\"통합은옳았다…반도체가전남광주성장동력\"",
     "삼성,영업익100조벽깼다…슈퍼사이클로새역사",
@@ -3146,10 +3145,11 @@
     "[축구]강원,포항2-0꺾고3위로도약",
     "탄약고부지방문한최태원\"용인만으론부족,광주공장최대한빨리\"",
     "스페이스X주파수확보에미통신주급락…통신3사독점구도흔들리나",
-    "[포토]호남반도체부지간최태원·민형배"
+    "[포토]호남반도체부지간최태원·민형배",
+    "'어서와한국은처음이지'인천옥련동한우갈비맛집위치는?\"로맥의..."
    ],
    "initialized": true,
-   "last_run": "2026-10-09T23:55:19.811036+09:00"
+   "last_run": "2026-10-10T00:00:44.135351+09:00"
   }
  },
  "press_names": {
