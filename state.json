@@ -205,7 +205,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.topdaily.kr/articles/112268",
     "https://www.fnnews.com/news/202610081415105549",
     "http://www.dailypop.kr/news/articleView.html?idxno=103185",
     "https://www.job-post.co.kr/news/articleView.html?idxno=231391",
@@ -1704,10 +1703,10 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068387",
     "https://www.moneystorm.kr/news/articleView.html?idxno=7147",
     "https://www.pointe.co.kr/news/articleView.html?idxno=85850",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790812&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790812&plink=ORI&cooper=NAVER",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6856911_37012.html"
    ],
    "seen_titles": [
-    "'HL클레무브지분인수'인도가브리엘,佛포르비아와맞손…자동차시...",
     "LG,현대차제치고그룹시총3위…325일만에탈환",
     "SK에너지,기름값담합의혹에가격체계개편·내부통제강화",
     "정석근SK하이퍼대표\"미래AIDC경쟁력,메모리역량·사업성·수익구...",
@@ -3206,10 +3205,11 @@
     "정재헌vs박윤영vs홍범식,AI이용자서비스개편…이통3사,AX2차대전",
     "최태원,호남반도체부지찾아…\"가장빠른속도로짓겠다\"...\"규모커...",
     "최태원SK회장,전남광주반도체특화단지점검…생산기지확충가속",
-    "미증시최고치인데…코스피석달째박스권,왜?"
+    "미증시최고치인데…코스피석달째박스권,왜?",
+    "호남찾은최태원‥\"가장빠른속도로짓겠다\""
    ],
    "initialized": true,
-   "last_run": "2026-10-10T07:25:21.472013+09:00"
+   "last_run": "2026-10-10T07:30:36.505154+09:00"
   }
  },
  "press_names": {
