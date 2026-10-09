@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-10T01:45:26.548759+09:00",
-     "가장 부지 찾은 최태원 빠른 건설 속도로 광주"
-    ],
-    [
      "2026-10-10T03:00:41.768569+09:00",
      "9월 나누고파 영광 이달 코칭스태프와 선수단 K리그 함께"
     ],
@@ -222,11 +218,13 @@
     [
      "2026-10-10T07:45:25.782290+09:00",
      "돌아오고 다시 10년 메모리가 있다 DDR4"
+    ],
+    [
+     "2026-10-10T07:50:25.731585+09:00",
+     "빅테크 반도체 고객사 폭등 10년물 빚더미에 한국 국채"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20261008144853678",
-    "https://www.banronbodo.com/news/articleView.html?idxno=33152",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=145443",
     "https://www.newspim.com/news/view/20261008000494",
     "https://www.sidae.com/article/2026100813090822123",
@@ -1724,11 +1722,11 @@
     "https://www.the-today.com/news/articleView.html?idxno=91464",
     "https://www.dailyt.co.kr/newsView/dlt202610100002",
     "https://www.womennews.co.kr/news/articleView.html?idxno=283152",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706199"
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706199",
+    "https://www.tfmedia.co.kr/news/article.html?no=207861",
+    "https://www.g-enews.com/view.php?ud=202610100736151620fbbec65dfb_1"
    ],
    "seen_titles": [
-    "정부·기업가습기살균제배상맞손…15개사분담금낸다",
-    "SK하이닉스솔리다임IPO본격화…중복상장논란들여다보니",
     "SK하이닉스,‘AI환경연구소’신설…반도체녹색전환주도한다",
     "[단독]통신비대책?요금제손보면뭐하나…휴대폰가격급등에'말짱...",
     "신한운용,연금계좌로투자하는'글로벌DRAM반도체ETF'상장",
@@ -3226,10 +3224,12 @@
     "[단독]SK온美배터리공장또감원…'잔류30명'에1.2조보조금환수...",
     "국내유명비즈니스협업조직BNI강남엑설런트'챕터18기비전선포식...",
     "뉴욕증시,기술주반등에상승...다우존스0.8%↑",
-    "10년된DDR4메모리가다시돌아오고있다"
+    "10년된DDR4메모리가다시돌아오고있다",
+    "최태원회장\"호남반도체,용인3분의2...가장빠른속도로짓겠다\"",
+    "美10년물국채5.36%폭등,빅테크AI빚더미에한국반도체고객사긴..."
    ],
    "initialized": true,
-   "last_run": "2026-10-10T07:45:25.782290+09:00"
+   "last_run": "2026-10-10T07:50:25.731585+09:00"
   }
  },
  "press_names": {
