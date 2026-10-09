@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-09T17:30:33.144780+09:00",
-     "베이스 판도 흔들리는 쥐자 손에 HBM4 삼성 다이까지 소리"
-    ],
-    [
      "2026-10-09T17:35:20.100941+09:00",
      "담합 적발돼도 피해보상은"
     ],
@@ -174,10 +170,13 @@
     [
      "2026-10-09T23:20:27.450095+09:00",
      "논란에 반전 200억달러 반도체 급락 연말 매출 오픈AI 700억달러"
+    ],
+    [
+     "2026-10-09T23:30:34.733020+09:00",
+     "2300만 SKT 통신 토큰 정재헌 고객 경제 하나로 선점한다 기반"
     ]
    ],
    "seen_urls": [
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=81633",
     "https://www.yna.co.kr/view/AKR20261008121300030?input=1195m",
     "https://www.yna.co.kr/view/AKR20261008120200017?input=1195m",
     "https://www.womentimes.co.kr/news/articleView.html?idxno=106886",
@@ -1676,10 +1675,10 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16242755",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=90254",
     "https://www.topstarnews.net/news/articleView.html?idxno=16242760",
-    "https://www.greened.kr/news/articleView.html?idxno=351753"
+    "https://www.greened.kr/news/articleView.html?idxno=351753",
+    "https://www.apnews.kr/news/articleView.html?idxno=3051919"
    ],
    "seen_titles": [
-    "가습기살균제피해자'소송없는배상'…15개기업도비용분담",
     "[Telecom&Now]SKT-업스테이지,'독자AI사이버보안협의체'출범등",
     "‘유가담합의혹’SK에너지,거래관행개선책발표",
     "SK에너지,담합의혹후속조치\"거래관행·내부통제개선\"",
@@ -3178,10 +3177,11 @@
     "아이폰18주문15%축소…삼성전자·SK하이닉스에번진AI의역설",
     "광주부지찾은최태원SK그룹회장\"호남반도체,용인의3분의2규모...",
     "오픈AI매출200억달러논란에반도체급락…연말700억달러반전",
-    "최태원,\"전력·용수늦어도먼저착공\"…광주반도체속도전예고"
+    "최태원,\"전력·용수늦어도먼저착공\"…광주반도체속도전예고",
+    "SKT정재헌\"통신·AI하나로\"…2300만고객기반'토큰경제'선점한다"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T23:25:24.626413+09:00"
+   "last_run": "2026-10-09T23:30:34.733020+09:00"
   }
  },
  "press_names": {
