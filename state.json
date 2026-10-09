@@ -257,8 +257,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261008000797",
-    "https://www.newsmap.co.kr/news/articleView.html?idxno=3909",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=267618",
     "http://www.thevaluenews.co.kr/news/view.php?idx=202217",
     "https://www.ajunews.com/view/20261008145744715",
@@ -1756,11 +1754,11 @@
     "http://woman.chosun.com/news/articleView.html?idxno=126669",
     "https://news.bizwatch.co.kr/article/real_estate/2026/10/08/0042",
     "https://view.asiae.co.kr/article/2026100920430147451",
-    "https://www.etoday.co.kr/news/view/2633718"
+    "https://www.etoday.co.kr/news/view/2633718",
+    "https://m.sports.naver.com/basketball/article/065/0000302690",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=145483"
    ],
    "seen_titles": [
-    "삼성전자·LG전자,나란히실적상승...전자·배터리업계3분기실적'훈...",
-    "삼성전자·SK하이닉스주목하는일본…첨단반도체협력의명암과과제...",
     "SK에너지,\"석유가격체계투명성높일것\"",
     "레버리지ETF사태에고개숙인이억원…\"부처협의거쳐도입\"",
     "'뜨거운안녕'강훈,짠내작렬무명개그맨된다⋯두달만tvN복귀",
@@ -3258,10 +3256,12 @@
     "고액자산가들은자산을어떻게지키고불릴까②",
     "반도체가이끈집값상승,서울도밀어올릴까?",
     "[에너지오디세이]⑩SMR로'세마리토끼'잡는다…전세계가속도전",
-    "ETF·반도체·지뢰파고든野…국감초반‘정책책임론’전선넓힌국..."
+    "ETF·반도체·지뢰파고든野…국감초반‘정책책임론’전선넓힌국...",
+    "신입생중최고라고자신했던건국대김태균,대학리그득점왕우뚝",
+    "[오늘의글로벌마켓]뉴욕증시,AI기술주반등에3대지수일제히상승"
    ],
    "initialized": true,
-   "last_run": "2026-10-10T08:05:20.207740+09:00"
+   "last_run": "2026-10-10T08:10:25.335634+09:00"
   }
  },
  "press_names": {
