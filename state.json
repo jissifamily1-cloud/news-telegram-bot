@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-09T17:45:26.287305+09:00",
-     "인프라 CPU 주도주는 MLCC 다음 기판"
-    ],
-    [
-     "2026-10-09T17:45:26.287305+09:00",
-     "최태원 커질것으로 예상 호남반도체 광주찾은"
-    ],
-    [
      "2026-10-09T17:50:27.064235+09:00",
      "내년 물량 장기계약분 삼성전자"
     ],
@@ -161,7 +153,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20261008120200017?input=1195m",
     "https://www.womentimes.co.kr/news/articleView.html?idxno=106886",
     "https://www.pressian.com/pages/articles/2026100814012973747",
     "https://biz.chosun.com/it-science/ict/2026/10/08/Q6ACJOC7SZCJRPJ5OFW7ACMVSY/",
@@ -1660,10 +1651,10 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16242760",
     "https://www.greened.kr/news/articleView.html?idxno=351753",
     "https://www.apnews.kr/news/articleView.html?idxno=3051919",
-    "https://www.newscj.com/news/articleView.html?idxno=3439116"
+    "https://www.newscj.com/news/articleView.html?idxno=3439116",
+    "https://www.lcnews.co.kr/news/articleView.html?idxno=209452"
    ],
    "seen_titles": [
-    "‘유가담합의혹’SK에너지,거래관행개선책발표",
     "SK에너지,담합의혹후속조치\"거래관행·내부통제개선\"",
     "가습기살균제국가배상첫발…김성환\"기업분쟁에배상늦어져선안...",
     "마스턴운용-SK이터닉스,연료전지연계형AI데이터센터개발",
@@ -3162,10 +3153,11 @@
     "오픈AI매출200억달러논란에반도체급락…연말700억달러반전",
     "최태원,\"전력·용수늦어도먼저착공\"…광주반도체속도전예고",
     "SKT정재헌\"통신·AI하나로\"…2300만고객기반'토큰경제'선점한다",
-    "[축구]강원,포항2-0꺾고3위로도약"
+    "[축구]강원,포항2-0꺾고3위로도약",
+    "탄약고부지방문한최태원\"용인만으론부족,광주공장최대한빨리\""
    ],
    "initialized": true,
-   "last_run": "2026-10-09T23:40:27.841210+09:00"
+   "last_run": "2026-10-09T23:45:28.774943+09:00"
   }
  },
  "press_names": {
