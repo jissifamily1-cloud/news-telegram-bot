@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-09T17:35:20.100941+09:00",
-     "담합 적발돼도 피해보상은"
-    ],
-    [
-     "2026-10-09T17:35:20.100941+09:00",
-     "와이드17 10월 9일"
-    ],
-    [
-     "2026-10-09T17:35:20.100941+09:00",
-     "영향력 소부장 대만 껑충 동박판 기판 커져"
-    ],
-    [
      "2026-10-09T17:40:26.032909+09:00",
      "방식 vs 성장성에 계산 균열 차이일"
     ],
@@ -177,7 +165,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20261008121300030?input=1195m",
     "https://www.yna.co.kr/view/AKR20261008120200017?input=1195m",
     "https://www.womentimes.co.kr/news/articleView.html?idxno=106886",
     "https://www.pressian.com/pages/articles/2026100814012973747",
@@ -1676,10 +1663,10 @@
     "http://www.worktoday.co.kr/news/articleView.html?idxno=90254",
     "https://www.topstarnews.net/news/articleView.html?idxno=16242760",
     "https://www.greened.kr/news/articleView.html?idxno=351753",
-    "https://www.apnews.kr/news/articleView.html?idxno=3051919"
+    "https://www.apnews.kr/news/articleView.html?idxno=3051919",
+    "https://www.newscj.com/news/articleView.html?idxno=3439116"
    ],
    "seen_titles": [
-    "[Telecom&Now]SKT-업스테이지,'독자AI사이버보안협의체'출범등",
     "‘유가담합의혹’SK에너지,거래관행개선책발표",
     "SK에너지,담합의혹후속조치\"거래관행·내부통제개선\"",
     "가습기살균제국가배상첫발…김성환\"기업분쟁에배상늦어져선안...",
@@ -3178,10 +3165,11 @@
     "광주부지찾은최태원SK그룹회장\"호남반도체,용인의3분의2규모...",
     "오픈AI매출200억달러논란에반도체급락…연말700억달러반전",
     "최태원,\"전력·용수늦어도먼저착공\"…광주반도체속도전예고",
-    "SKT정재헌\"통신·AI하나로\"…2300만고객기반'토큰경제'선점한다"
+    "SKT정재헌\"통신·AI하나로\"…2300만고객기반'토큰경제'선점한다",
+    "[축구]강원,포항2-0꺾고3위로도약"
    ],
    "initialized": true,
-   "last_run": "2026-10-09T23:30:34.733020+09:00"
+   "last_run": "2026-10-09T23:35:20.125996+09:00"
   }
  },
  "press_names": {
