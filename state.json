@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-09T18:50:24.483726+09:00",
-     "한글 AI가 뉴욕에도 광고 우리말 재조명 아름다운"
-    ],
-    [
      "2026-10-09T19:10:25.818179+09:00",
      "후반전 상승 포항 강원 꺾고 K리그1 3위로"
     ],
@@ -154,11 +150,13 @@
     [
      "2026-10-10T00:40:25.911326+09:00",
      "오직 학벌 실력만 나이 본다 경력"
+    ],
+    [
+     "2026-10-10T00:50:25.974640+09:00",
+     "3개 3시간반 부터 순회근무 민형배 청사 돌면 꼬였다"
     ]
    ],
    "seen_urls": [
-    "https://www.gukjenews.com/news/articleView.html?idxno=3716118",
-    "https://www.knnews.co.kr/news/articleView.php?idxno=1552456",
     "http://www.4th.kr/news/articleView.html?idxno=2119443",
     "https://news.skbroadband.com/news/articleView.html?idxno=239771",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1727173",
@@ -1656,11 +1654,11 @@
     "https://www.voakorea.com/a/un-report-south-korea-s-economy-100926/8209557.html",
     "https://www.joongang.co.kr/article/25468532",
     "https://www.chosun.com/economy/industry-company/2026/10/10/F6RO6MRTCVFGTM6EOX25VAB3ZM/",
-    "https://www.chosun.com/economy/industry-company/2026/10/10/EFBW7VKFDJH3RC3AXMHPIVXGOU/"
+    "https://www.chosun.com/economy/industry-company/2026/10/10/EFBW7VKFDJH3RC3AXMHPIVXGOU/",
+    "https://www.joongang.co.kr/article/25468535",
+    "https://www.joongang.co.kr/article/25468537"
    ],
    "seen_titles": [
-    "민형배전남광주시장\"인구소멸위기지역에농어촌기본소득전면시행...",
-    "금융권‘보안사각지대’파고든AI…“자동화로해킹규모·속도키워...",
     "민형배\"통합,옳은선택이었다\"...전남광주특별시장취임100일기자회...",
     "김용범없는정무위‘레버리지ETF’국감…野“靑개입”與“음모...",
     "SK엔무브생산실적62%…그룹Ⅲ공급난에생산여력부각",
@@ -3158,10 +3156,12 @@
     "유엔“한국올해경제성장률3.3%…반도체수요가견인”",
     "해킹피해느는데…국내기업84%“사이버보험이뭐예요?”",
     "나이·학벌·경력안본다,오직AI실력만본다",
-    "최태원,호남반도체부지찾아“전력·용수늦어져도착공부터”"
+    "최태원,호남반도체부지찾아“전력·용수늦어져도착공부터”",
+    "[사진]최태원“호남반도체가장빠른속도로”",
+    "3개청사다돌면3시간반…민형배‘순회근무’부터꼬였다"
    ],
    "initialized": true,
-   "last_run": "2026-10-10T00:45:24.217735+09:00"
+   "last_run": "2026-10-10T00:50:25.974640+09:00"
   }
  },
  "press_names": {
