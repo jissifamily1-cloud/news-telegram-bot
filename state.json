@@ -185,7 +185,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20261008124200003?input=1195m",
     "https://www.viva100.com/article/20261008500702",
     "https://www.m-i.kr/news/articleView.html?idxno=2004100",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1727206",
@@ -1684,10 +1683,10 @@
     "https://www.mediapen.com/news/view/1129043",
     "https://isplus.com/article/view/isp202610100014",
     "https://www.hankyung.com/article/2026100813616",
-    "https://imnews.imbc.com/news/2026/sports/article/6856956_36946.html"
+    "https://imnews.imbc.com/news/2026/sports/article/6856956_36946.html",
+    "https://www.starnewskorea.com/sports/2026/10/10/2026101014425135068"
    ],
    "seen_titles": [
-    "민형배\"내년농어촌기본소득확대시행\"(종합)",
     "중기장관\"국가성장프로젝트에주연으로\"이달말협의체가동",
     "KOSPI200ClosingPriceList-4",
     "상법개정후KOSPI200주주환원확대…박상혁의원\"공시접근성은개선...",
@@ -3186,10 +3185,11 @@
     "SSG,통산72승잠수함투수박종훈과결별…박종훈포함8명'재계약불...",
     "‘잠수함투수’박종훈,결국SSG떠난다…“진로모색할수있도록”",
     "앤트로픽데뷔전노린다…에이전틱AI상품등판[이수의ETF줌인]",
-    "프로야구SSG,잠수함투수박종훈과결별‥8명재계약불가통보"
+    "프로야구SSG,잠수함투수박종훈과결별‥8명재계약불가통보",
+    "'韓최초비FA계약→5년65억→고작6승'SSG,박종훈결국떠난다...새..."
    ],
    "initialized": true,
-   "last_run": "2026-10-10T15:10:27.133436+09:00"
+   "last_run": "2026-10-10T15:15:26.283201+09:00"
   }
  },
  "press_names": {
