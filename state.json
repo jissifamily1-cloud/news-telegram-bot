@@ -322,10 +322,13 @@
     [
      "2026-10-10T09:05:24.567527+09:00",
      "용인 찾은 군공항 계획중 최태원 규모 광주"
+    ],
+    [
+     "2026-10-10T09:15:27.569824+09:00",
+     "퇴직 SK하이닉스서 청춘 헌신한 투병 주부 40대 악성림프종"
     ]
    ],
    "seen_urls": [
-    "http://www.popcornnews.net/news/articleView.html?idxno=135423",
     "https://www.newsworker.co.kr/news/articleView.html?idxno=507783",
     "https://view.asiae.co.kr/article/2026100815092236688",
     "https://www.bloter.net/news/articleView.html?idxno=675297",
@@ -1824,10 +1827,10 @@
     "https://news.bizwatch.co.kr/article/market/2026/10/08/0025",
     "https://www.sedaily.com/article/20099900",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478636",
-    "https://www.mk.co.kr/article/12172657"
+    "https://www.mk.co.kr/article/12172657",
+    "https://www.lawleader.co.kr/news/articleView.html?idxno=20127"
    ],
    "seen_titles": [
-    "SK증권,20일투자세미나개최…2027년반도체전략진단",
     "가습기살균제피해'국가주도배상'가동…민관\"기업분쟁인한배상지...",
     "국힘,국감서이억원집중추궁…\"ETF졸속도입·위증의혹\"",
     "최태원SK그룹회장,EBS'위대한수업'나선다…AI·새로운자본주의...",
@@ -3326,10 +3329,11 @@
     "[ETF워치]2차전지날고방산추락…개인은커버드콜담았다",
     "63위→4위‘대반전’…코스닥시총경쟁,소부장이흔들었다[마켓시그...",
     "[이뉴스Live]\"용인2/3규모계획중\"···광주군공항찾은최태원SK회...",
-    "삼전닉스대신방산·반도체테마형으로…변화하는레버리지ETF판도"
+    "삼전닉스대신방산·반도체테마형으로…변화하는레버리지ETF판도",
+    "\"SK하이닉스서청춘헌신한40대주부,퇴직후악성림프종투병\""
    ],
    "initialized": true,
-   "last_run": "2026-10-10T09:10:27.325291+09:00"
+   "last_run": "2026-10-10T09:15:27.569824+09:00"
   }
  },
  "press_names": {
