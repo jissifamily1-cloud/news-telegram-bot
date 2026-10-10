@@ -193,9 +193,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478422",
-    "https://www.fnnews.com/news/202610081604413850",
-    "https://www.g-enews.com/view.php?ud=202610081555236879923c501012_1",
     "https://www.mediapen.com/news/view/1128824",
     "https://www.slist.kr/news/articleView.html?idxno=772054",
     "https://www.yna.co.kr/view/AKR20261008143151008?input=1195m",
@@ -1692,12 +1689,12 @@
     "https://www.xportsnews.com/article/2206265",
     "https://www.ytn.co.kr/_ln/0102_202610101815005051",
     "https://www.sportschosun.com/football/2026-10-10/202610100100064140004130",
-    "https://www.newswhoplus.com/news/articleView.html?idxno=71389"
+    "https://www.newswhoplus.com/news/articleView.html?idxno=71389",
+    "https://www.maniareport.com/view.php?ud=202610101755192250dad9f33a29_19",
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600239",
+    "https://www.newsis.com/view/NISX20261010_0003820637"
    ],
    "seen_titles": [
-    "(LEAD)Seoulsharesdownfor3rddayamidinflationworries",
-    "[증시-마감]코스피,삼전역대급실적에도2.62%반락…6,625.93마감",
-    "뻔했던삼전호실적…2.6%하락코스피,6600선마감[시황]",
     "[마감]외국인'팔자'에코스피2.6%급락…6700선붕괴",
     "[ETF시황]반도체ETF반등…증시하락에'인버스'수익률1위",
     "최태원,EBS'위대한수업'강사로출연…'뉴캐피탈리즘'등강연",
@@ -3194,10 +3191,13 @@
     "뒤숭숭한국가대표팀,구성윤이바라본팀분위기…\"좋지만은않은것...",
     "'100조시대'삼성전자최대실적...주가는하락",
     "[현장인터뷰]'패장'세르지우코스타감독\"우리는패할자격없다고생...",
-    "광주반도체팹은속도전…SK'동부권100조투자'는어디로갔나"
+    "광주반도체팹은속도전…SK'동부권100조투자'는어디로갔나",
+    "'매직넘버7'서울,제주2-1꺾고10년만의우승눈앞",
+    "군입대앞둔제주SK장민규\"더멋진남자되어돌아올게요\"",
+    "'AG금메달'서울황도윤\"태극마크무게감잘알아…논란안타까워\""
    ],
    "initialized": true,
-   "last_run": "2026-10-10T18:50:27.941544+09:00"
+   "last_run": "2026-10-10T18:55:20.787498+09:00"
   }
  },
  "press_names": {
