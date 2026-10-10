@@ -346,10 +346,13 @@
     [
      "2026-10-10T12:05:19.586690+09:00",
      "서울시의원 돌고 김병진 화곡동 남부골목시장 돌아"
+    ],
+    [
+     "2026-10-10T12:20:24.124636+09:00",
+     "부채비율 바이오사 상장 상반기 제약 코스피 코스닥 평균"
     ]
    ],
    "seen_urls": [
-    "http://www.lawissue.co.kr/view.php?ud=202610081527402337b3279dfb36_12",
     "https://www.fnnews.com/news/202610081526228546",
     "https://www.s-journal.co.kr/news/articleView.html?idxno=44315",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4438374",
@@ -1848,10 +1851,10 @@
     "https://economist.co.kr/article/view/ecn202610100007",
     "https://www.ggilbo.com/news/articleView.html?idxno=1185397",
     "http://news.lghellovision.net/news/articleView.html?idxno=557566",
-    "https://www.joongangenews.com/news/articleView.html?idxno=553834"
+    "https://www.joongangenews.com/news/articleView.html?idxno=553834",
+    "https://www.yakup.com/news/index.html?cat=12&nid=333483"
    ],
    "seen_titles": [
-    "\"국민께진심으로송구\"…SK에너지,'가격담합의혹'공식사과",
     "한국경제평론가협회,경제·부동산세미나개최…\"한국경제기회와위...",
     "10월1주차국내ESG핫클립",
     "송언석“김용범지시이미정설”…이억원,레버리지ETF외압의혹부...",
@@ -3350,10 +3353,11 @@
     "삼전닉스성과급7억5천만원,현실은…'실수령액'따져보니",
     "김천상무,전병관·박세진·이건희포함13명전역발표",
     "[서울을걷다]'돌고돌아화곡동남부골목시장'··김병진서울시의원",
-    "10월첫째주SK네트웍스주가변동현황"
+    "10월첫째주SK네트웍스주가변동현황",
+    "상장제약·바이오사상반기평균부채비율코스피75.08%,코스닥58.73%"
    ],
    "initialized": true,
-   "last_run": "2026-10-10T12:15:23.449007+09:00"
+   "last_run": "2026-10-10T12:20:24.124636+09:00"
   }
  },
  "press_names": {
