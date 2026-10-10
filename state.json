@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-10T08:35:19.908069+09:00",
-     "할인 SK하이닉스 종가보다 정규장"
-    ],
-    [
      "2026-10-10T08:45:24.371091+09:00",
      "밀어올린 일주일 기관이 최다 코스닥 순매수 종목은 리노"
     ],
@@ -229,7 +225,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.beyondpost.co.kr/view.php?ud=2026100815371346442aaae0046f_30",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1727201",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=871241",
     "https://en.yna.co.kr/view/AEN20261008006100320?input=2106m",
@@ -1728,10 +1723,10 @@
     "https://www.yna.co.kr/view/AKR20261010028900007?input=1195m",
     "https://www.the-today.com/news/articleView.html?idxno=91473",
     "https://economist.co.kr/article/view/ecn202610100010",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16243242"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16243242",
+    "https://sports.khan.co.kr/article/202610101429003?pt=nv"
    ],
    "seen_titles": [
-    "취임열흘만에이소영중기부장관,3대메가프로젝트참여이끌어",
     "해킹막는국산AI키운다…SKT·업스테이지,실전보안역량검증",
     "신한운용‘SOL글로벌DRAM반도체플러스’,상장첫날개인순매수1위",
     "SKT-업스테이지,보안기업6곳과'AI보안동맹'…독자모델상용화속...",
@@ -3230,10 +3225,11 @@
     "SSG,'잠수함투수'박종훈과결별…8명재계약불가통보",
     "2870억보조금받고또해고…美공장30명남기는SK온,'일자리약속'...",
     "코스피후퇴원인,'이것'찾았다…삼전'역대급'실적에도6600선'-30%대...",
-    "\"245경기72승잠수함에이스\"…SSG,박종훈과결별결정"
+    "\"245경기72승잠수함에이스\"…SSG,박종훈과결별결정",
+    "SSG,박종훈등8명방출…“폭넓은진로모색할수있도록”"
    ],
    "initialized": true,
-   "last_run": "2026-10-10T14:30:34.313549+09:00"
+   "last_run": "2026-10-10T14:35:19.921721+09:00"
   }
  },
  "press_names": {
