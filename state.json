@@ -374,11 +374,13 @@
     [
      "2026-10-10T11:10:26.543041+09:00",
      "삼성전자 사고팔았나 거래 43조원 누가 SK하이닉스"
+    ],
+    [
+     "2026-10-10T11:20:25.401009+09:00",
+     "7개로 키워드 짚어본 이모저모 국정감사"
     ]
    ],
    "seen_urls": [
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610081511138320925",
-    "https://sateconomy.co.kr/news/view/1065593785371086",
     "http://www.newsian.co.kr/news/articleView.html?idxno=96756",
     "https://www.pennmike.com/news/articleView.html?idxno=129192",
     "https://www.impacton.net/news/articleView.html?idxno=30193",
@@ -1876,11 +1878,11 @@
     "https://www.seoulfn.com/news/articleView.html?idxno=639531",
     "https://www.topstarnews.net/news/articleView.html?idxno=16243031",
     "http://www.kjdaily.com/article.php?aid=1791597980688663276",
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=815387"
+    "https://www.startuptoday.co.kr/news/articleView.html?idxno=815387",
+    "https://www.thepowernews.co.kr/view.php?ud=202610091727109284caa2b7671d_7",
+    "https://www.ytn.co.kr/_ln/0101_202610101100108521"
    ],
    "seen_titles": [
-    "이소영장관“중기부,3대메가프로젝트참여…중소벤처역할강화”",
-    "자사주공시의무확대에도…\"주주가치제고판단어렵다\"",
     "KKR“韓기업지배구조개혁이亞핵심투자테마”",
     "세종시,대한민국AI산업거점도약…7조원대데이터센터들어선다",
     "\"삼전닉스수억받는데4200만원?\"대만마이크론노조파업결의",
@@ -3378,10 +3380,12 @@
     "[전문가기고]차세대산업경쟁력,금융산업에달렸다",
     "10월2주차SK스퀘어주가100만원대급락",
     "삼성전자·SK하이닉스43조원거래…누가사고팔았나",
-    "[이슈]SK쉴더스\"AI가새해킹법만들진않아\"…먼저뚫리는건'Shadow..."
+    "[이슈]SK쉴더스\"AI가새해킹법만들진않아\"…먼저뚫리는건'Shadow...",
+    "최태원SK그룹회장“광주반도체공장최대한빠르게건설”",
+    "키워드7개로짚어본국정감사첫주'이모저모'"
    ],
    "initialized": true,
-   "last_run": "2026-10-10T11:15:25.641503+09:00"
+   "last_run": "2026-10-10T11:20:25.401009+09:00"
   }
  },
  "press_names": {
