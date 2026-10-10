@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-10T06:40:25.027694+09:00",
-     "비상처방 지을래도 한전 한전서 공장 준다 독점 목소리에 전기"
-    ],
-    [
-     "2026-10-10T06:40:25.027694+09:00",
-     "나스닥 다우 증시 반도 미국 마감 상승 동반 P500"
-    ],
-    [
      "2026-10-10T06:45:26.532477+09:00",
      "연출 김민 김대희 논란이 상한가 조작설 오히려 나혼산"
     ],
@@ -338,10 +330,13 @@
     [
      "2026-10-10T12:25:19.197767+09:00",
      "건강기능식풍 글자에 적발 54억원어치 중국산 가짜 덜미"
+    ],
+    [
+     "2026-10-10T12:45:22.508257+09:00",
+     "126만달러어치가 거래 줄어 토큰 서클 세레브로"
     ]
    ],
    "seen_urls": [
-    "https://www.aitimes.com/news/articleView.html?idxno=216069",
     "https://www.newscj.com/news/articleView.html?idxno=3438869",
     "http://www.metroseoul.co.kr/article/20261008500166",
     "http://www.paxetv.com/news/articleView.html?idxno=283695",
@@ -1840,10 +1835,10 @@
     "https://www.yakup.com/news/index.html?cat=12&nid=333483",
     "https://www.abcn.kr/news/articleView.html?idxno=92896",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478645",
-    "https://www.ntoday.co.kr/news/articleView.html?idxno=129966"
+    "https://www.ntoday.co.kr/news/articleView.html?idxno=129966",
+    "https://www.tokenpost.kr/news/blockchain/420778"
    ],
    "seen_titles": [
-    "AI가새로운해킹만든게아니었다...\"관리사각지대쉐도우IT노려\"",
     "SK에너지,유가담합의혹에사과…공급가격체계개편·내부통제강화",
     "케이블TV업계,방발기금소송돌입…콘텐츠사용료갈등도지속",
     "금융사연쇄해킹에주목받는AI침투도구‘아르텍스’",
@@ -3342,10 +3337,11 @@
     "상장제약·바이오사상반기평균부채비율코스피75.08%,코스닥58.73%",
     "'건강기능식풍'한글자에덜미…중국산가짜54억원어치적발",
     "[증시동향]美S&P500·나스닥최고치경신했는데국내증시는침체",
-    "'호남반도체'직접챙긴최태원…\"가장빠르게짓겠다\""
+    "'호남반도체'직접챙긴최태원…\"가장빠르게짓겠다\"",
+    "[로빈후드온체인]서클토큰126만달러어치가줄어...세레브로거래4...."
    ],
    "initialized": true,
-   "last_run": "2026-10-10T12:40:24.113651+09:00"
+   "last_run": "2026-10-10T12:45:22.508257+09:00"
   }
  },
  "press_names": {
