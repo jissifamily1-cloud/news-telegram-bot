@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-10T12:45:22.508257+09:00",
-     "126만달러어치가 거래 줄어 토큰 서클 세레브로"
-    ],
-    [
      "2026-10-10T13:00:38.031074+09:00",
      "맡았다 솔라 추론 업스테이지 글로벌 베슬AI 1550억 하루 프로4"
     ],
@@ -193,8 +189,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2633993",
-    "https://www.fntimes.com/html/view.php?ud=2026100816034972192a735e27af_18",
     "https://www.edaily.co.kr/News/Read?newsId=04582166645610952&mediaCodeNo=257",
     "http://www.newstomato.com/ReadNews.aspx?no=1316115&inflow=N",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478422",
@@ -1692,11 +1686,11 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=871526",
     "https://www.news1.kr/sports/soccer/6315655",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600238",
-    "https://www.yna.co.kr/view/AKR20261010034000007?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261010034000007?input=1195m",
+    "https://www.xportsnews.com/article/2206265",
+    "https://www.ytn.co.kr/_ln/0102_202610101815005051"
    ],
    "seen_titles": [
-    "분기100조원시대연삼성전자…'예상상회'에도주가는왜밀리나[마...",
-    "SK인천석유화학,1400억신종자본증권상환연기",
     "'유가담합의혹'SK에너지\"거래관행개선·내부통제강화\"",
     "삼전'분기익100조'돌파에도…코스피,美금리급등에2%대하락6625.9...",
     "(LEAD)Seoulsharesdownfor3rddayamidinflationworries",
@@ -3194,10 +3188,12 @@
     "프로야구SSG,박종훈포함8명재계약불가통보",
     "제주꺾은서울,10년만의우승까지7점…안양은김천제압(종합)",
     "'원더전역복귀골'제주SK이건희\"세르지우감독님훈련스타일?저와...",
-    "[프로농구중간순위]10일"
+    "[프로농구중간순위]10일",
+    "뒤숭숭한국가대표팀,구성윤이바라본팀분위기…\"좋지만은않은것...",
+    "'100조시대'삼성전자최대실적...주가는하락"
    ],
    "initialized": true,
-   "last_run": "2026-10-10T18:40:27.278106+09:00"
+   "last_run": "2026-10-10T18:45:25.796585+09:00"
   }
  },
  "press_names": {
