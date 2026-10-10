@@ -181,7 +181,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.huffingtonpost.kr/article/261095",
     "http://www.newsian.co.kr/news/articleView.html?idxno=96766",
     "http://www.newstomato.com/ReadNews.aspx?no=1316127&inflow=N",
     "http://www.iminju.net/news/articleView.html?idxno=170635",
@@ -1680,10 +1679,10 @@
     "https://www.imaeil.com/page/view/2026101107194282889",
     "https://www.imaeil.com/page/view/2026101107210725442",
     "https://www.newsway.co.kr/news/view?ud=2026100813322118547",
-    "http://www.metroseoul.co.kr/article/20261011500001"
+    "http://www.metroseoul.co.kr/article/20261011500001",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610110006&t=NN"
    ],
    "seen_titles": [
-    "코스피,삼성전자'글로벌빅테크최초100조영업익'에도2.62%↓",
     "AI로바뀌는건설산업…건설사CEO,대학생과진로·미래논의",
     "삼성전자역대급실적에도코스피6600선후퇴…외국인2조원순매도",
     "최악의질소수급대란…산업부가나섰다",
@@ -3182,10 +3181,11 @@
     "주민번호변경신청올해32%급감…보이스피싱줄어든탓",
     "삼성전자·SK하이닉스하락에도KRX반도체11.4%올라…소부장이끌었다",
     "9월코스닥수익률꼴찌'제약·바이오주'…4분기반전이룰까",
-    "美증시신고가,코스피는6600선...삼전·닉스팔고소부장담는외국인"
+    "美증시신고가,코스피는6600선...삼전·닉스팔고소부장담는외국인",
+    "최대실적에도짐싼외국인…삼전닉스보유율'뚝'"
    ],
    "initialized": true,
-   "last_run": "2026-10-11T07:40:28.037460+09:00"
+   "last_run": "2026-10-11T07:45:24.770568+09:00"
   }
  },
  "press_names": {
