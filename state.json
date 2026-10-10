@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-10T08:20:25.416748+09:00",
-     "세미나 집중 바꾸는 반도체 AI가 투자지도 개최 SK증권"
-    ],
-    [
-     "2026-10-10T08:20:25.416748+09:00",
-     "띄운다 결합 게이트웨이 통신 데이터센터 토큰 SKT 본격화"
-    ],
-    [
-     "2026-10-10T08:20:25.416748+09:00",
-     "메모리 한국만 편중에 호황인데 외국인도 주춤 돌렸다"
-    ],
-    [
      "2026-10-10T08:25:21.240020+09:00",
      "기술주 반등 실적에 오픈AI 강세 SW 울고 반도체 웃다"
     ],
@@ -242,14 +230,13 @@
     [
      "2026-10-10T14:15:25.304336+09:00",
      "투수 차례 함께한 잠수함 SSG와 박종훈 우승 결별"
+    ],
+    [
+     "2026-10-10T14:25:19.181042+09:00",
+     "남기는 2870억 보조금 공장 SK온 30명 해고 약속 일자리 받고"
     ]
    ],
    "seen_urls": [
-    "https://www.ddaily.co.kr/page/view/2026100811380519712",
-    "https://www.news1.kr/local/gwangju-jeonnam/6314514",
-    "https://www.fnnews.com/news/202610081502133796",
-    "https://en.yna.co.kr/view/AEN20261008006000320?input=2106m",
-    "http://www.intn.co.kr/news/articleView.html?idxno=2053915",
     "https://www.joongangenews.com/news/articleView.html?idxno=553624",
     "https://biz.chosun.com/it-science/ict/2026/10/08/6ZBZS7QZ6FFTTOEESYLDZ45OGQ/",
     "http://www.beyondpost.co.kr/view.php?ud=2026100815371346442aaae0046f_30",
@@ -1744,14 +1731,14 @@
     "https://sports.khan.co.kr/article/202610101409003?pt=nv",
     "https://basketkorea.com/news/newsview.php?ncode=1065589684183587",
     "https://www.mk.co.kr/article/12172695",
-    "https://www.edaily.co.kr/News/Read?newsId=01905686645611608&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01905686645611608&mediaCodeNo=257",
+    "https://www.news1.kr/sports/baseball/6315575",
+    "https://www.sportschosun.com/baseball/2026-10-10/202610100100063680004101",
+    "https://www.newsis.com/view/NISX20261010_0003820561",
+    "https://www.yna.co.kr/view/AKR20261010028900007?input=1195m",
+    "https://www.the-today.com/news/articleView.html?idxno=91473"
    ],
    "seen_titles": [
-    "세종시,7조원규모AI데이터센터투자협약",
-    "코스피,삼성전자영업익100조발표에도6600선'털썩'",
-    "[속보]삼성전자역대급실적에도코스피6600선하락마감",
-    "코스피,외인·기관3.6조'팔자'에2.6%급락…6600선",
-    "신한은행,복정역세권개발에2조2800억PF금융주선완료",
     "SKT,업스테이지·보안기업과'AI사이버보안'협의체출범",
     "SK브로드밴드,Btv구독자에한국시리즈직관기회…최대60매",
     "취임열흘만에이소영중기부장관,3대메가프로젝트참여이끌어",
@@ -3246,10 +3233,15 @@
     "AG축구대표팀‘병역혜택발언논란’에안타까움금치못한김기동...",
     "넘어지면손내밀고득점엔아낌없는환호,위례SK‘2026추계자체농...",
     "“이달의감독상?바꿀수있다면서울전승점3점과바꿀것”제주세...",
-    "‘두차례우승함께한잠수함투수’박종훈,SSG와결별"
+    "‘두차례우승함께한잠수함투수’박종훈,SSG와결별",
+    "SSG잠수함투수박종훈,방출통보…\"새팀찾을기회제공\"",
+    "[오피셜]\"거취고민\"보상금만11억,우승함께한핵잠수함왜방출통보...",
+    "'우승멤버'잠수함투수박종훈,17년몸담은SSG에서방출",
+    "SSG,'잠수함투수'박종훈과결별…8명재계약불가통보",
+    "2870억보조금받고또해고…美공장30명남기는SK온,'일자리약속'..."
    ],
    "initialized": true,
-   "last_run": "2026-10-10T14:20:24.647479+09:00"
+   "last_run": "2026-10-10T14:25:19.181042+09:00"
   }
  },
  "press_names": {
