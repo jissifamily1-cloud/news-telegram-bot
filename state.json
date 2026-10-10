@@ -78,11 +78,13 @@
     [
      "2026-10-10T22:50:23.992130+09:00",
      "이익 사업 시장 기대 늘었지만 전년보다 환율 미쳐 LG전자 SK증권"
+    ],
+    [
+     "2026-10-10T22:55:18.408927+09:00",
+     "마이크론 반도체 SK하이닉스 ETF 엇갈려 순매수 3배 1위"
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/industry/company/2026/10/08/RRGYHO2PDVBS3MGOPAX7PMVU3E/",
-    "https://www.mt.co.kr/stock/2026/10/08/2026100816102328773",
     "http://www.lkp.news/news/articleView.html?idxno=84773",
     "https://www.etnews.com/20261008000314",
     "https://www.newsworker.co.kr/news/articleView.html?idxno=507737",
@@ -1580,11 +1582,11 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682408",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682452",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000072215",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494045"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494045",
+    "https://sports.khan.co.kr/article/202610102250003?pt=nv",
+    "http://www.kjdaily.com/article.php?aid=1791640259688674276"
    ],
    "seen_titles": [
-    "코스피,삼성전자호실적에도6600선붕괴",
-    "삼성전자‘역대급실적’에도코스피2.62%급락…6,625.93마감",
     "'삼전'역대급실적에도주가하락...코스피도실망추락6625.93마감",
     "신한은행,복정역세권개발2조2800억원금융주선",
     "삼전'깜짝실적'도못살린코스피…2.6%급락에6620선까지밀려",
@@ -3082,10 +3084,12 @@
     "최태원“가장빠르게”…범정부차원속도전요구",
     "제주SK,5경기연속무패마침표…코스타,‘이달의감독’첫수상",
     "최태원\"먼저들어가겠다\"…호남반도체,이제'행정속도'관건",
-    "SK증권\"LG전자,전년보다이익늘었지만시장기대못미쳐…환율·사업..."
+    "SK증권\"LG전자,전년보다이익늘었지만시장기대못미쳐…환율·사업...",
+    "결승골‘헤더도움’문선민의유쾌한너스레“그거때문에머리벗겨...",
+    "美반도체3배ETF순매수1위…마이크론·SK하이닉스엇갈려"
    ],
    "initialized": true,
-   "last_run": "2026-10-10T22:50:23.992130+09:00"
+   "last_run": "2026-10-10T22:55:18.408927+09:00"
   }
  },
  "press_names": {
