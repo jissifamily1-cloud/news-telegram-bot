@@ -141,7 +141,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610080127&t=NN",
     "https://www.edaily.co.kr/News/Read?newsId=04637926645610952&mediaCodeNo=257",
     "http://www.popcornnews.net/news/articleView.html?idxno=135440",
     "https://www.bloter.net/news/articleView.html?idxno=675314",
@@ -1640,10 +1639,10 @@
     "https://mhnse.com/news/articleView.html?idxno=1585544",
     "https://mhnse.com/news/articleView.html?idxno=1585556",
     "https://mhnse.com/news/articleView.html?idxno=1585538",
-    "https://www.dailian.co.kr/news/view/1699926/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1699926/?sc=Naver",
+    "https://mhnse.com/news/articleView.html?idxno=1585702"
    ],
    "seen_titles": [
-    "솔리다임,美IPO주관사선정…골드만·모건스탠리대표주관",
     "외인·기관'4조'던진코스피,6600선붕괴",
     "반도체수출이이끈경상수지,461억달러흑자달성",
     "코스피장막판급락…6600대로주저앉아",
@@ -3142,10 +3141,11 @@
     "[mhn포토]김재희,파워실어날린다",
     "[mhn포토]김재희,타구방향확인",
     "[mhn포토]김재희,신나는미소",
-    "‘클리말라결승포’서울,제주꺾고10년만의우승까지승점7"
+    "‘클리말라결승포’서울,제주꺾고10년만의우승까지승점7",
+    "전설의명장'3김'무덤된한화…김응룡도김성근도김경문도,결국투..."
    ],
    "initialized": true,
-   "last_run": "2026-10-10T20:25:20.056175+09:00"
+   "last_run": "2026-10-10T20:30:31.417942+09:00"
   }
  },
  "press_names": {
