@@ -229,7 +229,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.viva100.com/article/20261008500830",
     "https://www.seoul.co.kr/news/economy/securities/2026/10/08/20261008500220?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/economy/securities/2026/10/08/20261008500218?wlog_tag3=naver",
     "https://www.kpinews.kr/newsView/1065597491507309",
@@ -1728,10 +1727,10 @@
     "http://www.the-biz.co.kr/news/articleView.html?idxno=729038",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=871555",
     "https://www.newsis.com/view/NISX20261010_0003820658",
-    "https://biz.heraldcorp.com/article/10898033"
+    "https://biz.heraldcorp.com/article/10898033",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706224"
    ],
    "seen_titles": [
-    "재계,올해도‘조기인사’추세…’사업확장’중점",
     "[민주IT]한컴·SK쉴더스·KT",
     "‘국가대표AI맞수’SKT·업스테이지,손잡았다…“SK쉴더스·안랩등...",
     "누리호성공에도한화에어로8%급락…80만원대로[이런국장저런주식...",
@@ -3230,10 +3229,11 @@
     "[Biz&Law]SK하이닉스,美'NPE와의전쟁'맞소송피소",
     "서울문선민\"김기동감독님일찍만났다면…\"",
     "최태원,이틀뒤상고이유서시한…노소영,부대상고포기하나",
-    "“이젠삶의질”“경제부터”…취임100일시·도지사‘청사진’"
+    "“이젠삶의질”“경제부터”…취임100일시·도지사‘청사진’",
+    "[증시전망]삼성전자실적도안통했다...코스피반등열쇠는?"
    ],
    "initialized": true,
-   "last_run": "2026-10-11T08:15:22.502569+09:00"
+   "last_run": "2026-10-11T08:20:24.592635+09:00"
   }
  },
  "press_names": {
