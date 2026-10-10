@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-10T07:50:25.731585+09:00",
-     "빅테크 반도체 고객사 폭등 10년물 빚더미에 한국 국채"
-    ],
-    [
      "2026-10-10T08:05:20.207740+09:00",
      "로봇회사 LG 전략 속도 탈바꿈 가속화"
     ],
@@ -238,14 +234,17 @@
     [
      "2026-10-10T13:50:25.592043+09:00",
      "메모리가 이면의 PC 절벽 공급망 1580만 삼킨 증발 출하 부른 AI가"
+    ],
+    [
+     "2026-10-10T13:55:19.022949+09:00",
+     "아쉬워 서울 감독 아시안게임 논란 선배로서 김기동"
+    ],
+    [
+     "2026-10-10T13:55:19.022949+09:00",
+     "Cluster May Says Fall Short Yongin Chey Urg of Acceleration Year"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000339017?division=NAVER",
-    "https://biz.sbs.co.kr/article_hub/20000339009?division=NAVER",
-    "https://biz.sbs.co.kr/article_hub/20000338965?division=NAVER",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680970",
-    "http://www.finomy.com/news/articleView.html?idxno=263228",
     "https://www.kukinews.com/article/view/kuk202610080137",
     "https://www.mk.co.kr/article/12171562",
     "http://www.metroseoul.co.kr/article/20261008500168",
@@ -1740,14 +1739,14 @@
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037074",
     "https://sports.khan.co.kr/article/202610101348003?pt=nv",
     "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99058",
-    "https://www.g-enews.com/view.php?ud=20261010134325952fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=20261010134325952fbbec65dfb_1",
+    "https://www.xportsnews.com/article/2206195",
+    "https://www.sportsseoul.com/news/read/1640470",
+    "https://www.news1.kr/sports/soccer/6315565",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=871504",
+    "https://www.koreaittimes.com/news/articleView.html?idxno=157974"
    ],
    "seen_titles": [
-    "최태원SK회장,EBS‘위대한수업’첫강연자로…AI시대생존전략...",
-    "[속보]삼성전자·SK하이닉스2%대하락마감",
-    "백억커피,LG유플러스·배민·SKT프로모션진행",
-    "98년된옛만경강철교,관광명소로'재탄생'",
-    "[이슈플러스]'수시흥행'부산대,\"이제는세계명문으로\"_최재원부산...",
     "국민연금기금,한달만에181조증발...국내주식주가하락영향",
     "[똑똑한교육]웅진씽크빅,EBS,미래엔,빙그레-메가스터디교육,에누마...",
     "삼성전자매출-이익최고기록에도주가저평가이유",
@@ -3242,10 +3241,15 @@
     "민주당안성시지역위원회,'SK반도체방류수대책위원회'출범",
     "서울전승리만바라보는코스타감독“이달의감독상?오늘승점3과바...",
     "[k1.live]'2위와15점차'김기동감독,\"우승근접?아직은취할때가아...",
-    "AI가삼킨메모리가부른PC출하절벽…1580만대증발이면의공급망..."
+    "AI가삼킨메모리가부른PC출하절벽…1580만대증발이면의공급망...",
+    "김기동감독,AG대표팀'병역혜택논란'생각밝혔다…\"선수들이가ㄱ...",
+    "A대표팀내분·AG병역논란에김기동감독“듣는얘기있지만확실한팩...",
+    "김기동감독,'AG병역특례논란'에\"가벼운인터뷰,선배로서아쉽다...",
+    "김기동서울감독\"아시안게임논란,선배로서아쉬워\"",
+    "SK'sCheySays12-YearAccelerationofYonginClusterMayFallShort,U"
    ],
    "initialized": true,
-   "last_run": "2026-10-10T13:50:25.592043+09:00"
+   "last_run": "2026-10-10T13:55:19.022949+09:00"
   }
  },
  "press_names": {
