@@ -222,11 +222,13 @@
     [
      "2026-10-10T16:05:20.182220+09:00",
      "대기업 2배 실감 3분기 채용공고 늘었다 반도체 슈퍼사이클"
+    ],
+    [
+     "2026-10-10T16:10:26.407829+09:00",
+     "2주차 한은 줄줄이 감사 국민연금 국세청 국감 연휴"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/general-stock/6314627",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705997",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=267617",
     "http://www.iminju.net/news/articleView.html?idxno=170621",
     "https://dgmbc.com/NewsArticle/866388",
@@ -1724,11 +1726,11 @@
     "https://www.edaily.co.kr/News/Read?newsId=02469846645611608&mediaCodeNo=257",
     "https://www.edaily.co.kr/News/Read?newsId=02479686645611608&mediaCodeNo=257",
     "https://www.edaily.co.kr/News/Read?newsId=02473126645611608&mediaCodeNo=257",
-    "https://www.mk.co.kr/article/12171718"
+    "https://www.mk.co.kr/article/12171718",
+    "http://www.osen.co.kr/article/G1112890866",
+    "https://www.etoday.co.kr/news/view/2634223"
    ],
    "seen_titles": [
-    "[마감시황]코스피,177.97포인트(-2.62%)내린6625.93마감",
-    "LG유플러스,유심자동업데이트로'IMSI보안우려'해소나선다",
     "솔리다임IPO주관에골드만·MS…프리IPO도막바지",
     "대한건설협회,8일연세대서'미래건설인타운홀미팅'개최",
     "반도체대기업채용2배늘었다…경력직공고는157%증가",
@@ -3226,10 +3228,12 @@
     "[포토]김재희,우승에너지는필수로먹는다",
     "[포토]김재희,추격을시작한다",
     "[포토]김재희,선두권을정조준한다",
-    "반도체슈퍼사이클실감…3분기대기업채용공고2배늘었다"
+    "반도체슈퍼사이클실감…3분기대기업채용공고2배늘었다",
+    "'매직넘버7'찍었다...문선민이열고클리말라가끝낸서울,제주무패...",
+    "연휴뒤국감2주차…한은·국세청·국민연금줄줄이감사"
    ],
    "initialized": true,
-   "last_run": "2026-10-10T16:05:20.182220+09:00"
+   "last_run": "2026-10-10T16:10:26.407829+09:00"
   }
  },
  "press_names": {
