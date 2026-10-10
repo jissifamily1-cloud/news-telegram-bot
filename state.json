@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-10T16:00:41.619911+09:00",
-     "우승 유현조 HJ중공업 4점 무빙데 KLPGA투어 초읽기 동부건설"
-    ],
-    [
-     "2026-10-10T16:00:41.619911+09:00",
-     "fulfills society dreams aging in food Fast"
-    ],
-    [
      "2026-10-10T16:05:20.182220+09:00",
      "버디 함께 김재희 성공 미소와"
     ],
@@ -150,11 +142,17 @@
     [
      "2026-10-10T21:55:18.933912+09:00",
      "용인 광주로 동시 생산기지 SK그룹 넘어 최태원 반도체 건설 회장"
+    ],
+    [
+     "2026-10-10T22:00:42.439659+09:00",
+     "상한제도 영향 슈카 강남 부동산 분양가 관심 만난 커진 이창용"
+    ],
+    [
+     "2026-10-10T22:00:42.439659+09:00",
+     "범정부 차원 가장 빠르게 속도전 요구 최태원"
     ]
    ],
    "seen_urls": [
-    "http://www.popcornnews.net/news/articleView.html?idxno=135443",
-    "http://www.ttlnews.com/news/articleView.html?idxno=3150477",
     "https://www.delighti.co.kr/news/articleView.html?idxno=123053",
     "https://www.yna.co.kr/view/AKR20261008093451008?input=1195m",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493851",
@@ -1652,11 +1650,11 @@
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553603369",
     "https://biz.heraldcorp.com/article/10897544",
     "https://news.jtbc.co.kr/article/NB12322349?influxDiv=NAVER",
-    "https://www.e-science.co.kr/news/articleView.html?idxno=137038"
+    "https://www.e-science.co.kr/news/articleView.html?idxno=137038",
+    "https://view.asiae.co.kr/article/2026101021544498395",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682408"
    ],
    "seen_titles": [
-    "코스피,2%대하락마감...삼성전자'셀온'",
-    "건설협회,연세대서‘미래건설인타운홀미팅’개최",
     "SK에너지,공정위조사에사과…석유제품가격체계·내부통제전면개선",
     "국감서'IMSI체계'지적받은LGU+…유심자동업데이트나선다",
     "코스피,'삼전영업익107조'에도2.6%급락...6,600대로후퇴",
@@ -3154,10 +3152,12 @@
     "'3승→2승→1승→0승'추락한65억에이스,투구폼까지바꿨지만반전없...",
     "“극단적인저평가”이래도주가안오르면…‘세계1위’삼성전자P...",
     "제주SK무패행진끊은FC서울…10년만의정상보인다",
-    "SK그룹최태원회장,AI반도체생산기지용인넘어광주로…'동시건설..."
+    "SK그룹최태원회장,AI반도체생산기지용인넘어광주로…'동시건설...",
+    "슈카만난이창용\"강남부동산관심커진덴분양가상한제도영향…보...",
+    "최태원“가장빠르게”…범정부차원속도전요구"
    ],
    "initialized": true,
-   "last_run": "2026-10-10T21:55:18.933912+09:00"
+   "last_run": "2026-10-10T22:00:42.439659+09:00"
   }
  },
  "press_names": {
