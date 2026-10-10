@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-10T14:40:25.963264+09:00",
-     "마침표 선수 박종훈과 SSG 동행 방출 8명 잠수함"
-    ],
-    [
      "2026-10-10T15:05:21.018290+09:00",
      "에이전틱 앤트로픽 상품 데뷔전 등판 노린다"
     ],
@@ -138,10 +134,13 @@
     [
      "2026-10-10T19:55:22.420799+09:00",
      "Fast Gwangju Semiconductor Chey Orders Build"
+    ],
+    [
+     "2026-10-10T20:45:25.319232+09:00",
+     "안전 자동 갑자기 쓰러지자 작업자 AI로 지킨다 경고"
     ]
    ],
    "seen_urls": [
-    "http://www.popcornnews.net/news/articleView.html?idxno=135440",
     "https://www.bloter.net/news/articleView.html?idxno=675314",
     "https://www.getnews.co.kr/news/articleView.html?idxno=883046",
     "http://www.issuenbiz.com/news/articleView.html?idxno=80475",
@@ -1640,10 +1639,10 @@
     "https://mhnse.com/news/articleView.html?idxno=1585538",
     "https://www.dailian.co.kr/news/view/1699926/?sc=Naver",
     "https://mhnse.com/news/articleView.html?idxno=1585702",
-    "http://www.osen.co.kr/article/G1112890945"
+    "http://www.osen.co.kr/article/G1112890945",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791280&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "반도체수출이이끈경상수지,461억달러흑자달성",
     "코스피장막판급락…6600대로주저앉아",
     "美금리불안,코스피'급락'...삼성SDI는'활짝',CJ제일제당도'선방'",
     "[퇴근길7분뉴스]영업익100조·성과급7.5억·솔리다임·오픈AI",
@@ -3142,10 +3141,11 @@
     "[mhn포토]김재희,신나는미소",
     "‘클리말라결승포’서울,제주꺾고10년만의우승까지승점7",
     "전설의명장'3김'무덤된한화…김응룡도김성근도김경문도,결국투...",
-    "\"경쟁자라생각했는지비법안알려주더라\"슈팅배우고싶었던정승원..."
+    "\"경쟁자라생각했는지비법안알려주더라\"슈팅배우고싶었던정승원...",
+    "작업자갑자기쓰러지자'자동경고'…AI로'안전'지킨다"
    ],
    "initialized": true,
-   "last_run": "2026-10-10T20:40:24.357269+09:00"
+   "last_run": "2026-10-10T20:45:25.319232+09:00"
   }
  },
  "press_names": {
