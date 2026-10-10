@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-10T11:25:19.127054+09:00",
-     "SK이터닉스 5만원대 1주간 흐름 10월 주가"
-    ],
-    [
      "2026-10-10T11:45:22.427336+09:00",
      "반도체 부지를 광주 직접 최태원은 찾았나"
     ],
@@ -202,13 +198,13 @@
     [
      "2026-10-10T16:45:24.036725+09:00",
      "한화 없이 준우승 김경문 우승 감독 KS 마침표 5번 떠난다"
+    ],
+    [
+     "2026-10-10T17:25:20.397395+09:00",
+     "바람 김재희 먼저 살핀다 방향"
     ]
    ],
    "seen_urls": [
-    "http://www.00news.co.kr/news/articleView.html?idxno=107061",
-    "https://www.news2day.co.kr/article/20261008500240",
-    "http://www.newskr.kr/news/articleView.html?idxno=107033",
-    "https://www.apnews.kr/news/articleView.html?idxno=3051877",
     "https://www.getnews.co.kr/news/articleView.html?idxno=883041",
     "https://www.sentv.co.kr/article/view/sentv202610080159",
     "http://www.yonhapnewstv.co.kr/news/MYH20261008160712ah1",
@@ -1704,13 +1700,13 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=871518",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791238&plink=ORI&cooper=NAVER",
     "https://www.newsis.com/view/NISX20261010_0003820605",
-    "https://www.kizmom.com/news/articleView.html?idxno=113209"
+    "https://www.kizmom.com/news/articleView.html?idxno=113209",
+    "https://www.edaily.co.kr/News/Read?newsId=03145526645611608&mediaCodeNo=257",
+    "https://www.edaily.co.kr/News/Read?newsId=03152086645611608&mediaCodeNo=257",
+    "https://www.newspim.com/news/view/20261010000061",
+    "https://www.edaily.co.kr/News/Read?newsId=03155366645611608&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "코스피,2.6%밀린6600선마감...반도체주약세",
-    "삼성전자역대최대실적에도코스피2%대하락마감‥금리·유가영향",
-    "[마켓뷰]삼성전자역대급실적에도…코스피6620선으로추락",
-    "SKT·업스테이지,11개기관참여'독자AI사이버보안협의체'출범",
     "신한은행,복정역세권개발사업2조2800억원PF금융주선완료",
     "주주제안받아든코메론…자사주매입이어대규모소각까지",
     "SK최태원회장\"한국경제,일본과손잡아야\"…AI시대'새로운자본주...",
@@ -3206,10 +3202,14 @@
     "김기동서울감독\"중요한승리,우승근접했다고본다\"",
     "'클리말라결승골'서울,제주제압…우승매직넘버'7점'",
     "'우승까지승점7'서울김기동감독\"재계약논의,좋은쪽으로노력중...",
-    "[스포츠]SSG선수단정비…박종훈·석정우등8명재계약불가"
+    "[스포츠]SSG선수단정비…박종훈·석정우등8명재계약불가",
+    "[포토]김재희,미소와함께준비",
+    "[포토]김재희,언제나미소와함께출발해요",
+    "[프로축구]서울,제주잡고10년만의우승까지승점-7…클리말라득...",
+    "[포토]김재희,바람방향먼저살핀다"
    ],
    "initialized": true,
-   "last_run": "2026-10-10T17:20:27.184148+09:00"
+   "last_run": "2026-10-10T17:25:20.397395+09:00"
   }
  },
  "press_names": {
