@@ -90,10 +90,13 @@
     [
      "2026-10-11T00:25:20.847494+09:00",
      "꽂혔다 커지자 데이터센터 삼성 LG 냉각"
+    ],
+    [
+     "2026-10-11T00:35:20.765901+09:00",
+     "내년에도 1위 전망 반도체일 업종 증가율 이익"
     ]
    ],
    "seen_urls": [
-    "https://www.nocutnews.co.kr/news/6589118",
     "https://zdnet.co.kr/view/?no=20261008153444",
     "https://www.aitimes.kr/news/articleView.html?idxno=42228",
     "https://www.viewsnnews.com/article?q=238946",
@@ -1592,10 +1595,10 @@
     "http://www.osen.co.kr/article/G1112890968",
     "https://www.cbci.co.kr/news/articleView.html?idxno=613965",
     "https://www.dt.co.kr/article/12088251",
-    "https://www.smartbizn.com/news/articleView.html?idxno=155932"
+    "https://www.smartbizn.com/news/articleView.html?idxno=155932",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610110001&t=NN"
    ],
    "seen_titles": [
-    "SK증권,2027년인공지능전환기맞춤형반도체투자세미나연다",
     "코스피,삼전영업익107조에도'고금리·고유가'에2.6%급락마감",
     "셀온?리밸런싱?…삼성전자역대최대실적에도코스피2.6%하락(종합)",
     "코스피,삼성전자'영업이익107조'에도지수6620선후퇴…코스닥도하...",
@@ -3094,10 +3097,11 @@
     "KIA에이스올러,11일롯데전선발출격배수진...'3위매직넘버1'이범...",
     "삼성전자·SK하이닉스동반하락…'삼전닉스'새주흐름주목",
     "반도체,5%급락코스피구할까…실적반등기대속금리·유가변수[증...",
-    "AI데이터센터커지자···삼성·LG·SK,'냉각'에꽂혔다"
+    "AI데이터센터커지자···삼성·LG·SK,'냉각'에꽂혔다",
+    "\"내년에도반도체일줄\"…이익증가율1위전망업종[주식R]"
    ],
    "initialized": true,
-   "last_run": "2026-10-11T00:30:37.426879+09:00"
+   "last_run": "2026-10-11T00:35:20.765901+09:00"
   }
  },
  "press_names": {
