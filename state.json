@@ -42,11 +42,17 @@
     [
      "2026-10-11T05:05:21.338155+09:00",
      "그리는 이상일 시장이 산단을 용인 반도체"
+    ],
+    [
+     "2026-10-11T05:35:18.677457+09:00",
+     "제주냐 다음달 확정한다 고흥이냐 제2우주센터"
+    ],
+    [
+     "2026-10-11T05:35:18.677457+09:00",
+     "결승골 자력 제주 서울 클리말라 우승까지 남겨 꺾고 승점"
     ]
    ],
    "seen_urls": [
-    "http://www.kdfnews.com/news/articleView.html?idxno=189075",
-    "https://www.etoday.co.kr/news/view/2634013",
     "https://www.yna.co.kr/view/AKR20261008159800003?input=1195m",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478434",
     "https://www.seoulfn.com/news/articleView.html?idxno=639694",
@@ -1544,11 +1550,11 @@
     "https://www.news2day.co.kr/article/20261008500283",
     "https://www.starnewskorea.com/sports/2026/10/11/2026101022340466639",
     "https://www.g-enews.com/view.php?ud=202610081658327142e30fcb1ba8_1",
-    "http://www.fieldnews.kr/news/articleView.html?idxno=32133"
+    "http://www.fieldnews.kr/news/articleView.html?idxno=32133",
+    "https://www.chosun.com/politics/diplomacy-defense/2026/10/11/E5RBRXEFFZDIHJPCOKYKJMQ6KY/",
+    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=376393"
    ],
    "seen_titles": [
-    "[2026국감레이더⑫]미래에셋박현주·한투김남구회장,증권업계국...",
-    "외인·기관동반매도에…코스피14거래일만에6600대까지털썩",
     "넥써쓰,원스토어와한지붕…판교사옥떠나과천이전",
     "공정위담합심의에…SK에너지\"공정거래내부통제강화\"",
     "마스턴투자운용-SK이터닉스,‘연료전지연계형하이퍼스케일데이터센...",
@@ -3046,10 +3052,12 @@
     "[원화강세시대ETF투자전략⑦]K반도체·전력인프라주목…NH-Amundi운...",
     "'대표팀92-96내분이요?'질문에선그은92년생김진수\"자세히몰라,...",
     "[3분기실적]건물팔고환율덕에순익방어…4대금융,마진·수수료는...",
-    "[강성원의현장톡(TALK)]이상일시장이그리는'반도체용인'…산단을..."
+    "[강성원의현장톡(TALK)]이상일시장이그리는'반도체용인'…산단을...",
+    "고흥이냐,제주냐...제2우주센터다음달확정한다",
+    "'클리말라결승골'서울,제주2-1꺾고자력우승까지승점'7'남겨"
    ],
    "initialized": true,
-   "last_run": "2026-10-11T05:30:32.888989+09:00"
+   "last_run": "2026-10-11T05:35:18.677457+09:00"
   }
  },
  "press_names": {
