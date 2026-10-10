@@ -385,7 +385,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.mtn.co.kr/news-detail/2026100814541378612",
     "https://www.news2day.co.kr/article/20261008500200",
     "https://www.mt.co.kr/tech/2026/10/08/2026100814481746535",
     "https://byline.network/?p=9004111222622532",
@@ -1884,10 +1883,10 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16243042",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=424232",
     "https://www.bigtanews.co.kr/article/view/big202610100005",
-    "https://www.businessplus.kr/news/articleView.html?idxno=117961"
+    "https://www.businessplus.kr/news/articleView.html?idxno=117961",
+    "https://www.joongangenews.com/news/articleView.html?idxno=553819"
    ],
    "seen_titles": [
-    "LG그룹,현대차제치고그룹시총3위탈환…325일만에'역전'",
     "SK쉴더스,AI자동화공격분석\"보안사각지대,주요표적\"",
     "SK에너지,‘44조담합의혹’공정위제재착수하루만에공식사과",
     "정무위도레버리지ETF공방…‘정보유출’5대은행장부른다",
@@ -3386,10 +3385,11 @@
     "SK이터닉스10월1주간5만원대주가흐름",
     "SK최태원,호남반도체속도강조···착공난제여전",
     "[쇼츠뉴스]5년전삼성전자,SK하이닉스투자승자는?",
-    "[뉴스+]최태원은왜광주반도체부지를직접찾았나"
+    "[뉴스+]최태원은왜광주반도체부지를직접찾았나",
+    "10월1주차SK텔레콤주가하락전환마감"
    ],
    "initialized": true,
-   "last_run": "2026-10-10T11:45:22.427336+09:00"
+   "last_run": "2026-10-10T11:50:26.995911+09:00"
   }
  },
  "press_names": {
