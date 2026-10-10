@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-10T06:20:25.739267+09:00",
-     "급락 경유 기술주는 통신주 주파수 완화에 인수에 제재 스페이스X"
-    ],
-    [
      "2026-10-10T06:30:33.361710+09:00",
      "약세 이어가 엔비디아 반도체주 이틀 연속 마이크론"
     ],
@@ -350,10 +346,13 @@
     [
      "2026-10-10T12:20:24.124636+09:00",
      "부채비율 바이오사 상장 상반기 제약 코스피 코스닥 평균"
+    ],
+    [
+     "2026-10-10T12:25:19.197767+09:00",
+     "건강기능식풍 글자에 적발 54억원어치 중국산 가짜 덜미"
     ]
    ],
    "seen_urls": [
-    "https://www.fnnews.com/news/202610081526228546",
     "https://www.s-journal.co.kr/news/articleView.html?idxno=44315",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4438374",
     "https://www.aitimes.com/news/articleView.html?idxno=216069",
@@ -1852,10 +1851,10 @@
     "https://www.ggilbo.com/news/articleView.html?idxno=1185397",
     "http://news.lghellovision.net/news/articleView.html?idxno=557566",
     "https://www.joongangenews.com/news/articleView.html?idxno=553834",
-    "https://www.yakup.com/news/index.html?cat=12&nid=333483"
+    "https://www.yakup.com/news/index.html?cat=12&nid=333483",
+    "https://www.abcn.kr/news/articleView.html?idxno=92896"
    ],
    "seen_titles": [
-    "한국경제평론가협회,경제·부동산세미나개최…\"한국경제기회와위...",
     "10월1주차국내ESG핫클립",
     "송언석“김용범지시이미정설”…이억원,레버리지ETF외압의혹부...",
     "AI가새로운해킹만든게아니었다...\"관리사각지대쉐도우IT노려\"",
@@ -3354,10 +3353,11 @@
     "김천상무,전병관·박세진·이건희포함13명전역발표",
     "[서울을걷다]'돌고돌아화곡동남부골목시장'··김병진서울시의원",
     "10월첫째주SK네트웍스주가변동현황",
-    "상장제약·바이오사상반기평균부채비율코스피75.08%,코스닥58.73%"
+    "상장제약·바이오사상반기평균부채비율코스피75.08%,코스닥58.73%",
+    "'건강기능식풍'한글자에덜미…중국산가짜54억원어치적발"
    ],
    "initialized": true,
-   "last_run": "2026-10-10T12:20:24.124636+09:00"
+   "last_run": "2026-10-10T12:25:19.197767+09:00"
   }
  },
  "press_names": {
