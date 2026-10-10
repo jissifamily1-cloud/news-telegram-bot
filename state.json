@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-10T16:45:24.036725+09:00",
-     "한화 없이 준우승 김경문 우승 감독 KS 마침표 5번 떠난다"
-    ],
-    [
      "2026-10-10T17:25:20.397395+09:00",
      "바람 김재희 먼저 살핀다 방향"
     ],
@@ -78,11 +74,13 @@
     [
      "2026-10-10T22:00:42.439659+09:00",
      "범정부 차원 가장 빠르게 속도전 요구 최태원"
+    ],
+    [
+     "2026-10-10T22:50:23.992130+09:00",
+     "이익 사업 시장 기대 늘었지만 전년보다 환율 미쳐 LG전자 SK증권"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20261008093451008?input=1195m",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493851",
     "https://biz.chosun.com/industry/company/2026/10/08/RRGYHO2PDVBS3MGOPAX7PMVU3E/",
     "https://www.mt.co.kr/stock/2026/10/08/2026100816102328773",
     "http://www.lkp.news/news/articleView.html?idxno=84773",
@@ -1580,11 +1578,11 @@
     "https://www.e-science.co.kr/news/articleView.html?idxno=137038",
     "https://view.asiae.co.kr/article/2026101021544498395",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682408",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682452"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682452",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000072215",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494045"
    ],
    "seen_titles": [
-    "국감서'IMSI체계'지적받은LGU+…유심자동업데이트나선다",
-    "코스피,'삼전영업익107조'에도2.6%급락...6,600대로후퇴",
     "코스피,삼성전자호실적에도6600선붕괴",
     "삼성전자‘역대급실적’에도코스피2.62%급락…6,625.93마감",
     "'삼전'역대급실적에도주가하락...코스피도실망추락6625.93마감",
@@ -3082,10 +3080,12 @@
     "SK그룹최태원회장,AI반도체생산기지용인넘어광주로…'동시건설...",
     "슈카만난이창용\"강남부동산관심커진덴분양가상한제도영향…보...",
     "최태원“가장빠르게”…범정부차원속도전요구",
-    "제주SK,5경기연속무패마침표…코스타,‘이달의감독’첫수상"
+    "제주SK,5경기연속무패마침표…코스타,‘이달의감독’첫수상",
+    "최태원\"먼저들어가겠다\"…호남반도체,이제'행정속도'관건",
+    "SK증권\"LG전자,전년보다이익늘었지만시장기대못미쳐…환율·사업..."
    ],
    "initialized": true,
-   "last_run": "2026-10-10T22:45:23.761042+09:00"
+   "last_run": "2026-10-10T22:50:23.992130+09:00"
   }
  },
  "press_names": {
