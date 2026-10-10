@@ -113,7 +113,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.newstomato.com/ReadNews.aspx?no=1316137&inflow=N",
     "https://www.thelec.kr/news/articleView.html?idxno=63484",
     "https://www.etoday.co.kr/news/view/2634017",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680998",
@@ -1612,10 +1611,10 @@
     "https://www.news1.kr/industry/general-industry/6315250",
     "https://www.g-enews.com/view.php?ud=202610110635128271fbbec65dfb_1",
     "https://www.mt.co.kr/living/2026/10/11/2026100810365179189",
-    "https://www.yna.co.kr/view/AKR20261009038700008?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261009038700008?input=1195m",
+    "https://www.livebiz.today/news/articleView.html?idxno=205483"
    ],
    "seen_titles": [
-    "삼성전자‘분기영업익100조시대’열었지만…주가2%대하락,SK하이...",
     "세종,AI데이터센터7조추가유치…360MW급초대형시설추진",
     "SKT,11개기관과AI사이버보안협의체마련...AI경쟁력확대",
     "코스피,삼성전자역대급호실적에도'6620선마감'…코스닥0.69%↓",
@@ -3114,10 +3113,11 @@
     "SK하이닉스이르면28일실적공개…영업이익률80%돌파하나",
     "한국,남미광물공급망다변화…AI반도체리스크정면돌파",
     "\"욕실코팅해주세요\"1만건눈앞…교원웰스,다음타깃은'싱크대'",
-    "올해신용등급하향,기업수는줄었지만건수로는48%늘어"
+    "올해신용등급하향,기업수는줄었지만건수로는48%늘어",
+    "사상최대실적에도삼전닉스외국인지분율'뚝'…삼전,46%대로금융위..."
    ],
    "initialized": true,
-   "last_run": "2026-10-11T06:40:26.371911+09:00"
+   "last_run": "2026-10-11T06:45:22.591799+09:00"
   }
  },
  "press_names": {
