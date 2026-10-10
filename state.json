@@ -113,7 +113,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.thelec.kr/news/articleView.html?idxno=63484",
     "https://www.etoday.co.kr/news/view/2634017",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680998",
     "https://www.topstarnews.net/news/articleView.html?idxno=16241902",
@@ -1612,10 +1611,10 @@
     "https://www.g-enews.com/view.php?ud=202610110635128271fbbec65dfb_1",
     "https://www.mt.co.kr/living/2026/10/11/2026100810365179189",
     "https://www.yna.co.kr/view/AKR20261009038700008?input=1195m",
-    "https://www.livebiz.today/news/articleView.html?idxno=205483"
+    "https://www.livebiz.today/news/articleView.html?idxno=205483",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610110002&t=NN"
    ],
    "seen_titles": [
-    "세종,AI데이터센터7조추가유치…360MW급초대형시설추진",
     "SKT,11개기관과AI사이버보안협의체마련...AI경쟁력확대",
     "코스피,삼성전자역대급호실적에도'6620선마감'…코스닥0.69%↓",
     "세종에7조원투입한AI데이터센터들어선다",
@@ -3114,10 +3113,11 @@
     "한국,남미광물공급망다변화…AI반도체리스크정면돌파",
     "\"욕실코팅해주세요\"1만건눈앞…교원웰스,다음타깃은'싱크대'",
     "올해신용등급하향,기업수는줄었지만건수로는48%늘어",
-    "사상최대실적에도삼전닉스외국인지분율'뚝'…삼전,46%대로금융위..."
+    "사상최대실적에도삼전닉스외국인지분율'뚝'…삼전,46%대로금융위...",
+    "삼전'107조'잔치에도주가는'주춤'…반등열쇠는美금리"
    ],
    "initialized": true,
-   "last_run": "2026-10-11T06:45:22.591799+09:00"
+   "last_run": "2026-10-11T06:50:26.949296+09:00"
   }
  },
  "press_names": {
