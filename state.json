@@ -225,7 +225,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/AKR20261008155458chc",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=366926",
     "http://www.inews24.com/view/2012550",
     "https://www.polinews.co.kr/news/articleView.html?idxno=745248",
@@ -1724,10 +1723,10 @@
     "https://www.etoday.co.kr/news/view/2634223",
     "https://www.yna.co.kr/view/AKR20261010035000007?input=1195m",
     "http://www.stoo.com/article.php?aid=109296964552",
-    "https://www.nocutnews.co.kr/news/6589475"
+    "https://www.nocutnews.co.kr/news/6589475",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16243277"
    ],
    "seen_titles": [
-    "[마감시황]'107조실적'도역부족…코스피2.6%내린6625.93마감",
     "삼성자산운용,하루만에'주성엔지니어링'2000억쓸어담았다…왜?",
     "[공시]SK케미칼,2030년매출2조8000억원목표···주주환원율30%↑",
     "금융위,개인간중고거래카드결제길열었다…24건혁신서비스지정",
@@ -3226,10 +3225,11 @@
     "연휴뒤국감2주차…한은·국세청·국민연금줄줄이감사",
     "'클리말라결승골'서울,제주1-0꺾고자력우승까지'승점7'",
     "'문선민·클리말라골'서울,제주에2-1승리…우승확정까지승점7점",
-    "'클리말라결승골'서울,10년만의우승까지매직넘버'7'"
+    "'클리말라결승골'서울,10년만의우승까지매직넘버'7'",
+    "\"승점65-우승까지7점\"FC서울,제주제압하며선두질주"
    ],
    "initialized": true,
-   "last_run": "2026-10-10T16:20:25.144912+09:00"
+   "last_run": "2026-10-10T16:25:19.980784+09:00"
   }
  },
  "press_names": {
