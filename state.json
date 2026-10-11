@@ -218,10 +218,13 @@
     [
      "2026-10-11T23:35:19.361350+09:00",
      "빚투 막혔다 사려는데 SK하이닉스 신용 증권사마다 삼성전자 다른"
+    ],
+    [
+     "2026-10-11T23:45:22.962065+09:00",
+     "외국인 100조 삼성전자 이러나 시대 열었지만 주가 도망치는"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790087&plink=ORI&cooper=NAVER",
     "https://www.hankyung.com/article/2026100923007",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=364421",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790144&plink=ORI&cooper=NAVER",
@@ -1720,10 +1723,10 @@
     "https://www.segye.com/newsView/20261011511938?OutUrl=naver",
     "http://www.newstown.co.kr/news/articleView.html?idxno=718142",
     "https://www.g-enews.com/view.php?ud=2026101123122868752bd56fbc3c_1",
-    "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307651"
+    "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307651",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=231510"
    ],
    "seen_titles": [
-    "SK떠나‘친정’인텔복귀한이석희“첨단패키징역량확인…다가올...",
     "[인터뷰]'가치투자1세대'이채원\"1만피?3천피?…코스피,다지는시간...",
     "삼성전자축포터졌다…SK하이닉스성적표에커지는기대",
     "[호반인사&조직]②호반건설,송종민수석부회장'6년만에'대표복귀",
@@ -3222,10 +3225,11 @@
     "[이종호칼럼]지금이미래신기술준비할때",
     "수원특례시의회김미경의장,출산·양육부터시민안전까지현장소통",
     "ASML·자이스,5나노미터급미세패턴인쇄하는차세대하이퍼NA노광장...",
-    "삼성전자·SK하이닉스사려는데빚투막혔다···증권사마다다른신용..."
+    "삼성전자·SK하이닉스사려는데빚투막혔다···증권사마다다른신용...",
+    "도망치는외국인...'100조시대'열었지만,삼성전자주가왜이러나"
    ],
    "initialized": true,
-   "last_run": "2026-10-11T23:40:24.445004+09:00"
+   "last_run": "2026-10-11T23:45:22.962065+09:00"
   }
  },
  "press_names": {
