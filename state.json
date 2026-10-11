@@ -173,8 +173,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.jasm.co.kr/news/articleView.html?idxno=320906",
-    "https://www.globale.co.kr/news/articleView.html?idxno=40884",
     "https://slownews.kr/167649",
     "https://www.mediafine.co.kr/news/articleView.html?idxno=92090",
     "http://www.joseilbo.com/news/news_read.php?uid=577105&class=53",
@@ -1672,11 +1670,11 @@
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434328",
     "https://www.chosun.com/national/court_law/2026/10/12/UZRQXZWI4FETHKCCCWNA3I7KLI/",
     "https://www.chosun.com/national/national_general/2026/10/12/G56HBX6S45FZHC74E3GN3ZJMGI/",
-    "https://sports.khan.co.kr/article/202610120100006?pt=nv"
+    "https://sports.khan.co.kr/article/202610120100006?pt=nv",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=871649",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=321832"
    ],
    "seen_titles": [
-    "광주서창동을세창동으로…산업통상부,'호남반도체클러스터'예타...",
-    "[현대百M&A史]수입브랜드로몸집키운한섬…'제2의타임'은아직",
     "[시큐리티핫이슈]잇단AI해킹속'오펜시브보안'뜬다",
     "단일종목레버리지ETF도입누가결정했나..이억원\"청와대지시아니...",
     "차세대원전,SMR규제'엇박자'…\"2028년허가신청,2032년심사기준마...",
@@ -3174,10 +3172,12 @@
     "로봇,삼성전자·SK하이닉스새성장동력으로부상",
     "공소청이끝내나,중수청에넘기나…“우리수사어디서”기업혼란",
     "폰으로몸관리,톡으로관계관리…한국인건강도우미된테크기업",
-    "바루아‘원맨쇼’광주‘눈물의2승’"
+    "바루아‘원맨쇼’광주‘눈물의2승’",
+    "휴머노이드로봇고도화가D램수요폭증시킨다",
+    "최태원SK그룹회장\"광주반도체공장최대한빠른속도로건설\""
    ],
    "initialized": true,
-   "last_run": "2026-10-12T01:20:26.436764+09:00"
+   "last_run": "2026-10-12T01:25:19.597206+09:00"
   }
  },
  "press_names": {
