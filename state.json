@@ -298,14 +298,17 @@
     [
      "2026-10-11T09:25:18.100917+09:00",
      "한투증권 한투운용 미래에셋증권 마스턴투자운 키움증권"
+    ],
+    [
+     "2026-10-11T09:35:20.889810+09:00",
+     "목표가는 애널리스트는 낮추고도 매수 못하 매도 말하지"
+    ],
+    [
+     "2026-10-11T09:35:20.889810+09:00",
+     "무엇도 해킹이 신뢰하지 남긴 말라 교훈"
     ]
    ],
    "seen_urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=2004162",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=267629",
-    "https://www.newsis.com/view/NISX20261008_0003819518",
-    "https://www.mt.co.kr/tech/2026/10/08/2026100816524412457",
-    "https://www.asiatime.co.kr/article/20261008500243",
     "http://www.segyebiz.com/newsView/20261008515407?OutUrl=naver",
     "https://news.tf.co.kr/read/photomovie/2374508.htm",
     "https://www.namdonews.com/news/articleView.html?idxno=925646",
@@ -1800,14 +1803,14 @@
     "https://www.g-enews.com/view.php?ud=202610110915205838112616b072_1",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610080937354360865",
     "https://www.xportsnews.com/article/2206349",
-    "https://www.edaily.co.kr/News/Read?newsId=01213606645611936&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01213606645611936&mediaCodeNo=257",
+    "https://www.g-enews.com/view.php?ud=202610110923187948fbbec65dfb_1",
+    "http://www.kjdaily.com/article.php?aid=1791678682688677276",
+    "https://www.dt.co.kr/article/12088277",
+    "https://news.ifm.kr/news/articleView.html?idxno=481235",
+    "https://www.yna.co.kr/view/AKR20261009036700017?input=1195m"
    ],
    "seen_titles": [
-    "이억원금융위원장\"단일종목레버리지ETF,靑지시아냐…도입필요성...",
-    "정재헌SKTCEO,통신·AI하나로묶는다…'성장기어'전략제시",
-    "SKT,통신·AI통합성장전략가동…'토큰게이트웨이'신사업추진",
-    "SK이터닉스,연료전지연계AI데이터센터추진",
-    "SK텔레콤,AI·AX전략으로통신·서비스·인프라연결강화",
     "가을야구직관기회…SKB,한국시리즈2~7차전티켓증정",
     "SK이터닉스,연료전지로AI데이터센터전력댄다···마스턴과맞손",
     "100조넘는삼전영업익에도코스피,6,600대급락",
@@ -3302,10 +3305,15 @@
     "한화·HD현대이어삼성·SK도인사채비…재계'가을인사'확산",
     "[증권가로수]키움증권/한투증권/미래에셋증권/한투운용/마스턴투자운...",
     "중도퇴진→중도퇴진→감독23년만에처음만기퇴진…'1000승'김경문감...",
-    "55조자사주매입끝나가는코스피…반도체실적이바통받을까[주간증..."
+    "55조자사주매입끝나가는코스피…반도체실적이바통받을까[주간증...",
+    "ASML부품값10%인상에도삼성·SK하이닉스수용…반도체공급망전반...",
+    "삼성전자·SK하이닉스하락에도반도체지수11%급등",
+    "삼전·SK하닉부진에도…반도체소부장강세에KRX반도체11%↑",
+    "목표가는38%나낮추고도'매수'…애널리스트는왜'매도'를말하지못하...",
+    "[AI위클리]\"무엇도신뢰하지말라\"…AI해킹이남긴교훈"
    ],
    "initialized": true,
-   "last_run": "2026-10-11T09:30:32.789768+09:00"
+   "last_run": "2026-10-11T09:35:20.889810+09:00"
   }
  },
  "press_names": {
