@@ -433,8 +433,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.koreajoongangdaily.com/business/lg-energy-solution-tops-9-trillion-won-in-revenue-for-first-time-in-earnings-surprise/12909919",
-    "https://www.globale.co.kr/news/articleView.html?idxno=40868",
     "https://economist.co.kr/article/view/ecn202610080052",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5223837",
     "https://www.newsis.com/view/NISX20261008_0003819773",
@@ -1932,11 +1930,11 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610110025&t=NN",
     "https://www.sportsseoul.com/news/read/1640587",
     "https://www.chosun.com/economy/tech_it/2026/10/11/FSKKXF2SE5HGLH63UBJE5ZKXOE/",
-    "https://www.pennmike.com/news/articleView.html?idxno=129301"
+    "https://www.pennmike.com/news/articleView.html?idxno=129301",
+    "https://www.mk.co.kr/article/12172911",
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5224117"
    ],
    "seen_titles": [
-    "최태원SK회장,EBS'위대한수업'서AI시대자본주의해법제시",
-    "대한건설협회,연세대서미래건설인타운홀미팅개최",
     "가습기살균제피해배상정부와기업이책임진다",
     "한글날기념'혜자로운'폰트에한글사용굿즈·AI말모이까지",
     "세종시,7조원규모AI데이터센터유치추진…",
@@ -3434,10 +3432,12 @@
     "[속보]삼전닉스주춤한사이'질주'…한달새40%'불기둥'",
     "‘올해의골예약’환상바이시클킥작렬…제주‘예비역’이건희의...",
     "휴머노이드로봇‘두뇌’D램수요,2030년20배로…삼전닉스새시장...",
-    "[재계핫이슈]최태원회장의'호남반도체행보'배경은?"
+    "[재계핫이슈]최태원회장의'호남반도체행보'배경은?",
+    "역대급실적인데외국인은왜떠날까..삼전보유율18년만최저",
+    "\"로봇용D램수요,2030년20배로\"…삼전닉스새먹거리기대"
    ],
    "initialized": true,
-   "last_run": "2026-10-11T12:25:18.514823+09:00"
+   "last_run": "2026-10-11T12:30:33.492473+09:00"
   }
  },
  "press_names": {
