@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-11T12:10:24.903444+09:00",
-     "가스 부족 부담 확보 유럽 LNG 재고 한국도"
-    ],
-    [
      "2026-10-11T12:15:24.129225+09:00",
      "삼전닉스 주춤한 질주 불기둥 사이"
     ],
@@ -510,15 +506,13 @@
     [
      "2026-10-11T18:05:19.989358+09:00",
      "소외 삼전닉스 올라 마이크론 반도체 반등서"
+    ],
+    [
+     "2026-10-11T18:10:27.850824+09:00",
+     "낸드 솔솔 잭팟 로봇용 기대감 삼전닉스 D램도 터진다"
     ]
    ],
    "seen_urls": [
-    "https://www.cbci.co.kr/news/articleView.html?idxno=613525",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=613565",
-    "http://www.ccnnews.co.kr/news/articleView.html?idxno=415989",
-    "https://www.joongang.co.kr/article/25468323",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3716266",
-    "http://www.worktoday.co.kr/news/articleView.html?idxno=90225",
     "http://www.kjdaily.com/article.php?aid=1791473410688642276",
     "https://www.chosun.com/economy/tech_it/2026/10/09/AS47QRSLRNC2DMTWYW63CQHSO4/",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000021182&cp=nv",
@@ -2012,15 +2006,15 @@
     "https://www.asiatoday.co.kr/kn/view.php?key=20261011010002939",
     "https://www.dynews.co.kr/news/articleView.html?idxno=868881",
     "https://www.ajunews.com/view/20261011121204500",
-    "https://www.sedaily.com/article/20100194"
+    "https://www.sedaily.com/article/20100194",
+    "https://sports.donga.com/sports/article/all/20261011/134819604/1",
+    "https://biz.chosun.com/policy/policy_sub/2026/10/11/JLB7I2EZUVCC7MERDUVAZ7G3CQ/",
+    "http://www.inews24.com/view/2013642",
+    "https://www.hankyung.com/article/2026101144331",
+    "https://www.namdonews.com/news/articleView.html?idxno=925787",
+    "https://www.fnnews.com/news/202610111804450944"
    ],
    "seen_titles": [
-    "최태원SK회장,9일광주군공항첫방문…반도체공장점검",
-    "미국증시,이란전쟁에유가·금리동반급등…엔비디아·반도체약세,...",
-    "최태원,광주반도체팹예정지찾는다…용지·전력등점검",
-    "정재헌SKTCEO,토큰경제선점위한'성장기어전략'제시",
-    "\"앤트로픽상장은터무니없다…기존투자자만이득\"[박신영의개장전...",
-    "이억원\"코스닥상폐에'시총'은최소기준…해외도마찬가지\"",
     "SKT,통신·AI묶어'성장엔진'재편…토큰경제선점나선다",
     "\"분기영업익107조\"전무후무대기록에도…코스피'셀온폭탄'에6600선...",
     "코스피,삼전'어닝서프라이즈'에도셀온매물출회...하락마감",
@@ -3514,10 +3508,16 @@
     "'싼돈'47조빠지고'비싼돈'57조몰려…은행권수익성압박↑",
     "충북반도체고입학설명회참가자5배급증",
     "K-배터리3사,동반흑자한분기만에균열...고객사보상금에실적희...",
-    "마이크론12%뛸때삼전닉스1%도못올라…반도체株반등서소외"
+    "마이크론12%뛸때삼전닉스1%도못올라…반도체株반등서소외",
+    "광주,울산잡고28경기무승마감…선두서울의10년만의K리그1정상...",
+    "이창용“반도체호황,10년간다지만…조기종료걱정”",
+    "최태원SK회장\"美·中증설빨라지면韓점유율줄어…우리도서둘러...",
+    "\"로봇용D램수요,2030년20배로\"",
+    "[뉴스분석]SK최태원,호남반도체투자우려직접'불식'",
+    "삼전닉스'낸드'잭팟터진다…로봇용D램도기대감솔솔"
    ],
    "initialized": true,
-   "last_run": "2026-10-11T18:05:19.989358+09:00"
+   "last_run": "2026-10-11T18:10:27.850824+09:00"
   }
  },
  "press_names": {
