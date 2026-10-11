@@ -350,11 +350,17 @@
     [
      "2026-10-11T10:05:20.163827+09:00",
      "주식 전문가가 선택 불확실한 시장의 자산 살까 짚은"
+    ],
+    [
+     "2026-10-11T10:10:26.053260+09:00",
+     "개미는 사고 외국인은 베팅했을까 정반대 팔고 하이닉스"
+    ],
+    [
+     "2026-10-11T10:10:26.053260+09:00",
+     "데이터센터 첨단도시 대전환 7조원 세종"
     ]
    ],
    "seen_urls": [
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478495",
-    "https://www.etnews.com/20261008000337",
     "https://www.goodkyung.com/news/articleView.html?idxno=292189",
     "https://news.jtbc.co.kr/article/NB12322069?influxDiv=NAVER",
     "http://www.ttlnews.com/news/articleView.html?idxno=3150323",
@@ -1852,11 +1858,11 @@
     "https://www.yna.co.kr/view/AKR20261011015200003?input=1195m",
     "https://www.ddaily.co.kr/page/view/2026101023202889185",
     "https://www.khan.co.kr/article/202610111000001",
-    "https://www.newsis.com/view/NISX20261010_0003820590"
+    "https://www.newsis.com/view/NISX20261010_0003820590",
+    "https://www.mk.co.kr/article/12172868",
+    "https://www.ccdailynews.com/news/articleView.html?idxno=2445446"
    ],
    "seen_titles": [
-    "SKT정재헌\"통신·AI하나의성장엔진으로\"…'토큰경제'공략",
-    "SK에너지,'기름값담합의혹'대국민사과⋯공급가사전고지추진",
     "[해킹공포속보안성적표②]티빙·통신3사·쿠팡보안투자약속지켰...",
     "SK텔레콤'AI토큰경제'신성장전략발표,AI모델·인프라연결'토큰게...",
     "코스피,삼성전자호실적에도외국인·기관줄매도에6620선후퇴",
@@ -3354,10 +3360,12 @@
     "로봇용D램수요,2030년20배로…삼성·SK새먹거리부상",
     "북미는LFP·유럽은하이니켈…K-양극재전략재편[위클리배터리]",
     "중국은‘4분’,한국은‘18분’…전기차충전속도전,이젠전력망싸...",
-    "\"주식,집,금중뭐살까\"…전문가가짚은불확실한시장의자산선택..."
+    "\"주식,집,금중뭐살까\"…전문가가짚은불확실한시장의자산선택...",
+    "개미는팔고외국인은사고...‘하이닉스’왜정반대베팅했을까",
+    "7조원AI데이터센터세종첨단도시대전환"
    ],
    "initialized": true,
-   "last_run": "2026-10-11T10:05:20.163827+09:00"
+   "last_run": "2026-10-11T10:10:26.053260+09:00"
   }
  },
  "press_names": {
