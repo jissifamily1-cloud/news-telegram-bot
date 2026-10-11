@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-11T09:50:23.231632+09:00",
-     "안정성 법인세 벗어난 의존도 전망치 재정 쓰고도 높아지며"
-    ],
-    [
-     "2026-10-11T09:50:23.231632+09:00",
-     "중심으로 사업 통신3사 부가서비스도 세대교체 재정비"
-    ],
-    [
-     "2026-10-11T09:50:23.231632+09:00",
-     "개미 봤더니 퇴근 담았나 주식 후에도 샀다"
-    ],
-    [
      "2026-10-11T10:00:41.282097+09:00",
      "핀테크 AI쇼핑으로 카드사 간편지급 시대 새판짜기 시동"
     ],
@@ -478,14 +466,13 @@
     [
      "2026-10-11T15:45:23.559418+09:00",
      "본격화 SK텔레콤 아이폰 실적 출시 이어간다 갤럭시 반등 효과"
+    ],
+    [
+     "2026-10-11T15:50:26.456654+09:00",
+     "구성윤의 아니었다 만에 발언 국대 맞다 분위기 6년 소문이 최악"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026100820787",
-    "https://www.ajunews.com/view/20261008195701375",
-    "https://www.joongang.co.kr/article/25468276",
-    "https://sports.donga.com/life/article/all/20261008/134812198/1",
-    "https://www.edaily.co.kr/News/Read?newsId=06773206645610952&mediaCodeNo=257",
     "https://biz.chosun.com/industry/company/2026/10/08/M3D3MAEHHRBQREJBES7IXZCJ7A/",
     "https://www.ikbc.co.kr/article/view/kbc202610080063",
     "https://www.news1.kr/local/gwangju-jeonnam/6315007",
@@ -1980,14 +1967,14 @@
     "https://www.donga.com/news/Society/article/all/20261011/134819584/1",
     "https://basketkorea.com/news/newsview.php?ncode=1065594905936322",
     "http://www.metroseoul.co.kr/article/20261011500232",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494189"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494189",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261011154528WgL",
+    "http://www.yonhapnewstv.co.kr/news/MYH202610111545065cq",
+    "https://www.ppss.kr/news/articleView.html?idxno=314872",
+    "https://www.etnews.com/20261011000084",
+    "https://www.fnnews.com/news/202610111541514850"
    ],
    "seen_titles": [
-    "[2026국감]\"감옥갈사안\"\"김용범나와야\"레버리지ETF책임공방(종합)",
-    "[이슈국감]금융위\"생산적금융확대\"…레버리지ETF책임론대두",
-    "[주식마감]'상장폐지절차유예'에이엔피·유진테크놀로지·형지I&C상...",
-    "최태원SK회장,광주첫현장방문…반도체투자우려덜까",
-    "[뉴스인사이드뉴스톡톡]삼성전자9조→107조…'실적사과'뒤집은전영...",
     "\"제약계삼전닉스키워야\"…국감서'초혁신형제약기업'도입제안",
     "\"최악의실패vs가만있어야했나\"…레버리지ETF국감격돌(종합)",
     "최태원회장,‘호남반도체부지’광주군공항찾는다",
@@ -3482,10 +3469,15 @@
     "“반도체팹10기집적…‘한국의실리콘밸리’용인만들것”",
     "코트위유소년이청년이되어다시뭉쳤다,의정부SK‘OB팀’공식창...",
     "ESS가끌고유럽전기차가밀고…실적회복기대커진K배터리",
-    "갤럭시·아이폰출시효과본격화…SK텔레콤실적반등이어간다"
+    "갤럭시·아이폰출시효과본격화…SK텔레콤실적반등이어간다",
+    "한화·HD현대'포문'…재계인사올해도빨라지나",
+    "외국인삼성전자지분46%대로'뚝'…금융위기수준",
+    "삼성전자역대급실적에도외국인은팔았다…지분율18년만에최저",
+    "삼성전자최대실적에도떠나는외국인…지분율17년만에최저,금융위...",
+    "소문이아니었다!\"분위기최악맞다\"6년만에국대간구성윤의발언..."
    ],
    "initialized": true,
-   "last_run": "2026-10-11T15:45:23.559418+09:00"
+   "last_run": "2026-10-11T15:50:26.456654+09:00"
   }
  },
  "press_names": {
