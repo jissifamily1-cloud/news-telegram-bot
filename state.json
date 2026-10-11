@@ -533,9 +533,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/photos/8151534",
-    "https://www.ngonews.kr/news/articleView.html?idxno=240205",
-    "https://www.yna.co.kr/view/PYH20261009054300054?input=1196m",
     "https://www.yna.co.kr/view/PYH20261009054400054?input=1196m",
     "https://www.etoday.co.kr/news/view/2634162",
     "https://www.fnnews.com/news/202610091511302368",
@@ -2032,12 +2029,12 @@
     "https://view.asiae.co.kr/article/2026101208063084682",
     "http://www.press9.kr/news/articleView.html?idxno=83983",
     "https://www.newspim.com/news/view/20261012000064",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4438597"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4438597",
+    "https://www.etoday.co.kr/news/view/2634415",
+    "https://www.dt.co.kr/article/12088436",
+    "https://www.newspim.com/news/view/20261012000076"
    ],
    "seen_titles": [
-    "최태원SK회장“호남권반도체규모,용인3분의2수준…땅·수요있...",
-    "현장서기자들과문답하는최태원회장",
-    "반도체산단부지소감밝히는최태원회장",
     "최태원\"전력·용수늦어져도먼저착공\"…광주반도체800조투자속도...",
     "반도체산단발언하는최태원SK하이닉스회장",
     "최태원회장“호남반도체공장,용인보다클수도”…SK‘투트랙증설...",
@@ -3534,10 +3531,13 @@
     "[굿모닝증시]코스피,7000선재도전…美CPI·반도체실적이방향가른...",
     "최태원SK회장,광주부지점검·호남반도체클러스터속도전",
     "[모닝리포트]\"코스피반등,반도체이익상향에달려\"",
-    "\"창신메모리,美규제에도글로벌시장점유율확대전망\""
+    "\"창신메모리,美규제에도글로벌시장점유율확대전망\"",
+    "[오늘의투자전략]\"코스피,실적상향속반등시도…6000선후반회복...",
+    "美반도체급락여파…삼전·SK하닉,프리마켓동반하락",
+    "[모닝리포트]\"SK텔레콤,통신정체넘어AI인프라로\""
    ],
    "initialized": true,
-   "last_run": "2026-10-12T08:15:22.786771+09:00"
+   "last_run": "2026-10-12T08:20:25.161721+09:00"
   }
  },
  "press_names": {
