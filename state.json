@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-11T10:35:18.923738+09:00",
-     "4개 원주 액화수소 조정 생산시설 대정비로 시내버스 일부 노선"
-    ],
-    [
-     "2026-10-11T10:35:18.923738+09:00",
-     "푸틴 트럼프 경유 삼성전자 투자 깜짝실적 전략은 증시 합의와"
-    ],
-    [
-     "2026-10-11T10:35:18.923738+09:00",
-     "삼전닉스 지분율 떠나는 외국인"
-    ],
-    [
      "2026-10-11T10:45:24.225311+09:00",
      "전기차 폭스바겐 6개월 배터리 리콜 만에 재발"
     ],
@@ -442,15 +430,21 @@
     [
      "2026-10-11T16:30:33.045131+09:00",
      "조기 우승 서울 2위 광주에 충격패 보인다 최하위 울산"
+    ],
+    [
+     "2026-10-11T16:35:19.496894+09:00",
+     "밀린 6600선까지 코스피 물가지표 주목"
+    ],
+    [
+     "2026-10-11T16:35:19.496894+09:00",
+     "데이터센터 개발 풀스택 모델 짓고 가속 SK텔레콤"
+    ],
+    [
+     "2026-10-11T16:35:19.496894+09:00",
+     "침묵 예측 삼전 7년 영업익 족집게 리포트도"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12171968",
-    "https://theviewers.co.kr/View.aspx?No=4257300",
-    "https://www.edaily.co.kr/News/Read?newsId=06894566645610952&mediaCodeNo=257",
-    "https://biz.heraldcorp.com/article/10897407",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493917",
-    "https://www.kyeongin.com/article/1772229",
     "https://www.topstarnews.net/news/articleView.html?idxno=16242095",
     "https://www.goodmorningcc.com/news/articleView.html?idxno=453690",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1727250",
@@ -1944,15 +1938,15 @@
     "https://www.donga.com/news/Economy/article/all/20261011/134820072/1",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494200",
     "https://www.public25.com/news/articleView.html?idxno=56232",
-    "https://www.dailian.co.kr/news/view/1700036/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1700036/?sc=Naver",
+    "https://mhnse.com/news/articleView.html?idxno=1587203",
+    "https://www.hani.co.kr/arti/economy/finance/1281805.html",
+    "http://www.inews24.com/view/2013631",
+    "https://view.asiae.co.kr/article/2026101116325880057",
+    "https://www.hankyung.com/article/2026101139971",
+    "https://www.mt.co.kr/stock/2026/10/11/2026101114351565390"
    ],
    "seen_titles": [
-    "정재헌“AI토큰시대,SKT에새로운성장기회온다”[리더의나침반...",
-    "아비바코리아,화학공정설계에디지털기술접목…전국대학생경진대...",
-    "최태원회장,‘반도체클러스터예정지’광주군공항방문",
-    "\"레버리지ETF靑지시없었다\"…54조손실논란에고개숙인이억원",
-    "정무위'레버리지ETF'공방…\"개미약탈게이트\"·\"음모론\"(종합)",
-    "與임문영,AMD리사수회장에게\"광주에연구소짓자\"제안",
     "쉼표찍은광주·전남…‘반전의가을’연다",
     "한투운용'ACE라이프자산주주가치액티브',6개월성과1위",
     "\"한글쓰는국가인데\"...국내상장기업3/4은회사이름이외국어",
@@ -3446,10 +3440,16 @@
     "로봇탑재D램수요,2030년엔20배로…삼전닉스새먹거리부상",
     "SK하이닉스,D램가격인상효과반영…목표주가400만원제시",
     "[부고]이병옥씨별세·백창현씨(SK브로드밴드기남방송기자)조모상",
-    "서울조기우승보인다!…2위울산,최하위광주에충격패"
+    "서울조기우승보인다!…2위울산,최하위광주에충격패",
+    "\"우리는한국선수들만때린다\"前K리거충격폭로...2002월드컵히딩...",
+    "하반기코스피‘대형주쏠림’완화…시가총액낮을수록수익률더좋...",
+    "로봇용D램수요4년새20배…삼성·SK,새시장공략",
+    "[마켓ING]6600선까지밀린코스피,美물가지표주목",
+    "SK텔레콤,데이터센터짓고,모델개발…'풀스택AI'가속",
+    "삼전영업익족집게예측…'7년침묵'깬리포트도"
    ],
    "initialized": true,
-   "last_run": "2026-10-11T16:30:33.045131+09:00"
+   "last_run": "2026-10-11T16:35:19.496894+09:00"
   }
  },
  "press_names": {
