@@ -437,7 +437,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12171837",
     "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610080065&t=NNv",
     "https://www.nspna.com/news/?newsid=831123",
     "https://news.mtn.co.kr/article/2026100816222166631",
@@ -1936,10 +1935,10 @@
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578796404740",
     "https://www.newsis.com/view/NISX20261011_0003820887",
     "https://www.public25.com/news/articleView.html?idxno=56212",
-    "https://www.segye.com/newsView/20261011506973?OutUrl=naver"
+    "https://www.segye.com/newsView/20261011506973?OutUrl=naver",
+    "https://kpenews.com/View.aspx?No=4258351"
    ],
    "seen_titles": [
-    "거침없이달리는주성엔지…하루거래대금1조나몰려",
     "가습기살균제피해국가주도배상…\"기업분쟁으로지연없어야\"",
     "삼전역대최대실적에도코스피2.62%하락…이번에도선반영?",
     "정재헌SKTCEO\"통신·AI하나의성장엔진으로…토큰경제선점\"",
@@ -3438,10 +3437,11 @@
     "최태원,400조호남반도체클러스터현장점검…\"용인과동시건설할수...",
     "\"매도세심상찮더니…\"삼성전자외국인지분,17년만에최저",
     "[이슈진단]다음주뉴욕증시,물가지표·주요은행실적·워시의장발언...",
-    "외국인은‘반도체엑소더스’·개인은‘미국행’…韓증시동반이탈"
+    "외국인은‘반도체엑소더스’·개인은‘미국행’…韓증시동반이탈",
+    "휴머노이드로봇,반도체새격전지부상..D램수요2030년까지20배급..."
    ],
    "initialized": true,
-   "last_run": "2026-10-11T11:15:22.460971+09:00"
+   "last_run": "2026-10-11T11:17:06.183642+09:00"
   }
  },
  "press_names": {
