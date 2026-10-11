@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-11T16:35:19.496894+09:00",
-     "밀린 6600선까지 코스피 물가지표 주목"
-    ],
-    [
-     "2026-10-11T16:35:19.496894+09:00",
-     "데이터센터 개발 풀스택 모델 짓고 가속 SK텔레콤"
-    ],
-    [
-     "2026-10-11T16:35:19.496894+09:00",
-     "침묵 예측 삼전 7년 영업익 족집게 리포트도"
-    ],
-    [
      "2026-10-11T16:40:24.832904+09:00",
      "3차 SK온 재편되는 입찰서 노린다 LFP로 시장 ESS 반전"
     ],
@@ -314,11 +302,13 @@
     [
      "2026-10-11T22:30:35.145335+09:00",
      "입시설명회 1800명 참여 충북반도체고 올해"
+    ],
+    [
+     "2026-10-11T22:35:20.662625+09:00",
+     "2026년 중요한 실적보다 방향 9월 23일 삼성전자 시장의"
     ]
    ],
    "seen_urls": [
-    "https://theviewers.co.kr/View.aspx?No=4248181",
-    "https://www.newsis.com/view/NISX20261008_0003819087",
     "https://www.mk.co.kr/article/12172148",
     "https://www.dailian.co.kr/news/view/1699585/?sc=Naver",
     "https://www.ziksir.com/news/articleView.html?idxno=148850",
@@ -1816,11 +1806,11 @@
     "https://www.ikbc.co.kr/article/view/kbc202610110056",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682642",
     "https://www.ccdailynews.com/news/articleView.html?idxno=2445506",
-    "https://www.ccdailynews.com/news/articleView.html?idxno=2445501"
+    "https://www.ccdailynews.com/news/articleView.html?idxno=2445501",
+    "https://www.insightkorea.co.kr/news/articleView.html?idxno=256215",
+    "https://www.the-today.com/news/articleView.html?idxno=91487"
    ],
    "seen_titles": [
-    "‘득점90.3점·실점85.7점’LG농구가달라졌다?···“이제수비로...",
-    "뉴욕증시,AI기술주약세에혼조마감…나스닥1.25%↓",
     "AI주팔고방어주샀다…뉴욕증시혼조,나스닥1.25%↓",
     "[ETF리그테이블][2026년3분기]신한운용,더블업이끈압축포트의역...",
     "미래에셋등초대형IBNPL비율0~1%대‘양호’…대형-중소형양극화선...",
@@ -3318,10 +3308,12 @@
     "최태원\"美中증설은점유율위기…광주넘어어디든공장늘려야\"",
     "“호남몰빵”대“국가전략투자”…22일현지국감서도‘반도체’쟁...",
     "3분기실적발표본격화…LG엔솔분기최대매출",
-    "충북반도체고입시설명회올해1800명참여"
+    "충북반도체고입시설명회올해1800명참여",
+    "이재용삼성전자회장,'HBM4세계최초양산'으로SK하이닉스턱밑추...",
+    "[NZSIINDEX]2026년9월23일…삼성전자실적보다중요한시장의방향"
    ],
    "initialized": true,
-   "last_run": "2026-10-11T22:30:35.145335+09:00"
+   "last_run": "2026-10-11T22:35:20.662625+09:00"
   }
  },
  "press_names": {
