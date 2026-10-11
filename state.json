@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-12T00:45:29.425827+09:00",
-     "끝내나 넘기나 공소청이 중수청에 수사 우리 어디서 혼란 기업"
-    ],
-    [
-     "2026-10-12T00:50:25.269901+09:00",
-     "관리 톡으로 기업 건강 한국인 관계 도우미 폰으로 테크"
-    ],
-    [
      "2026-10-12T02:10:28.300168+09:00",
      "3203억원에 발전자원 태양광 양도 SK이터닉스"
     ],
@@ -318,11 +310,13 @@
     [
      "2026-10-12T06:35:18.632779+09:00",
      "찾는다 빅테크 목마른 원전에서 전력"
+    ],
+    [
+     "2026-10-12T06:50:26.855219+09:00",
+     "이어 대세 장기공급계약 반도체 업계에서도 부품 인프라"
     ]
    ],
    "seen_urls": [
-    "http://www.newstomato.com/ReadNews.aspx?no=1316173&inflow=N",
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=617980",
     "https://www.segye.com/newsView/20261009504631?OutUrl=naver",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069957",
     "https://www.tokenpost.kr/news/blockchain/420316",
@@ -1820,11 +1814,11 @@
     "https://www.sedaily.com/article/20100085",
     "https://www.fntimes.com/html/view.php?ud=202610081400081973141825007d_18",
     "https://www.sidae.com/article/2026100815431343113",
-    "https://www.news1.kr/sports/soccer/6316075"
+    "https://www.news1.kr/sports/soccer/6316075",
+    "https://www.sportschosun.com/football/2026-10-11/202610110100071580004634",
+    "https://www.news1.kr/industry/general-industry/6316090"
    ],
    "seen_titles": [
-    "[오늘의삼전닉스]'이제는SK하이닉스차례'어떤기록세울까?",
-    "SK하이닉스,'꿈의80%영업이익률눈앞'…삼성전자의신화넘본다",
     "“SK하이닉스는믿는다”역대급실적에도주가‘털썩’…SK하이닉스는...",
     "월드컵금메달이끝이아니었다...한국장애인펜싱의새도전",
     "SKhynix,Samsungpush16-layerHBM4asRubinfavors12",
@@ -3322,10 +3316,12 @@
     "거래소애프터마켓한달…개미는‘삼성전자우’사고하이닉스팔았다...",
     "[DCM]KB선두내줬다…NH,신종자본증권앞세워1위탈환[3분기리뷰③...",
     "전력목마른빅테크,원전에서답찾는다",
-    "'매직넘버4'서울,전북과어깨나란히할까…32R조기우승도전"
+    "'매직넘버4'서울,전북과어깨나란히할까…32R조기우승도전",
+    "A대표팀다녀온구성윤\"좋지만은않은것같다…중재할사람필요할것...",
+    "장기공급계약,반도체이어AI인프라부품업계에서도'대세'"
    ],
    "initialized": true,
-   "last_run": "2026-10-12T06:45:24.624251+09:00"
+   "last_run": "2026-10-12T06:50:26.855219+09:00"
   }
  },
  "press_names": {
