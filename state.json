@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-11T06:20:24.477274+09:00",
-     "열쇠는 실적 107조 금리 반등 에도 코스피 삼성전자"
-    ],
-    [
-     "2026-10-11T06:20:24.477274+09:00",
-     "주춤했지만 1위는 선전에 한달간 수익률 반도체 삼전닉스 소부장"
-    ],
-    [
      "2026-10-11T06:35:19.538758+09:00",
      "보유율 수준으로 2008년 금융위기 삼성전자 외국인"
     ],
@@ -434,12 +426,13 @@
     [
      "2026-10-11T12:15:24.129225+09:00",
      "삼전닉스 주춤한 질주 불기둥 사이"
+    ],
+    [
+     "2026-10-11T12:25:18.514823+09:00",
+     "회장의 행보 호남반도체 최태원 배경은"
     ]
    ],
    "seen_urls": [
-    "https://www.koscaj.com/news/articleView.html?idxno=326885",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610081741523480105965",
-    "https://www.nbntv.co.kr/news/articleView.html?idxno=4025860",
     "https://www.koreajoongangdaily.com/business/lg-energy-solution-tops-9-trillion-won-in-revenue-for-first-time-in-earnings-surprise/12909919",
     "https://www.globale.co.kr/news/articleView.html?idxno=40868",
     "https://economist.co.kr/article/view/ecn202610080052",
@@ -1936,12 +1929,12 @@
     "https://kpenews.com/View.aspx?No=4258389",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=87317",
     "http://www.newstomato.com/ReadNews.aspx?no=1316186&inflow=N",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610110025&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610110025&t=NN",
+    "https://www.sportsseoul.com/news/read/1640587",
+    "https://www.chosun.com/economy/tech_it/2026/10/11/FSKKXF2SE5HGLH63UBJE5ZKXOE/",
+    "https://www.pennmike.com/news/articleView.html?idxno=129301"
    ],
    "seen_titles": [
-    "[글로벌핫스톡]中반도체투자수혜…백성계통과기수주급증",
-    "美·日·대만증시달리는데…코스피만뒷걸음",
-    "[마감시황]코스피,삼성전자역대급호실적에도6,600선후퇴…외국인...",
     "최태원SK회장,EBS'위대한수업'서AI시대자본주의해법제시",
     "대한건설협회,연세대서미래건설인타운홀미팅개최",
     "가습기살균제피해배상정부와기업이책임진다",
@@ -3438,10 +3431,13 @@
     "삼성전자외인지분율46%대..금융위기수준후퇴",
     "로봇수요급증에D램시장2030년20배급증…삼전·하닉신규동력확...",
     "(주간증시전망)7000선무너진코스피…미국물가·실적에반등갈림길",
-    "[속보]삼전닉스주춤한사이'질주'…한달새40%'불기둥'"
+    "[속보]삼전닉스주춤한사이'질주'…한달새40%'불기둥'",
+    "‘올해의골예약’환상바이시클킥작렬…제주‘예비역’이건희의...",
+    "휴머노이드로봇‘두뇌’D램수요,2030년20배로…삼전닉스새시장...",
+    "[재계핫이슈]최태원회장의'호남반도체행보'배경은?"
    ],
    "initialized": true,
-   "last_run": "2026-10-11T12:20:22.288969+09:00"
+   "last_run": "2026-10-11T12:25:18.514823+09:00"
   }
  },
  "press_names": {
