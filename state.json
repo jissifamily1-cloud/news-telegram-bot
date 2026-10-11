@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-11T18:45:22.480654+09:00",
-     "빅테크 6조 현금 청구서 부채에 달러 금융권 매출 DC 받은"
-    ],
-    [
      "2026-10-11T18:50:24.294347+09:00",
      "선택적 알권리는 소통 민형배 시민 시장의 어디에"
     ],
@@ -202,11 +198,13 @@
     [
      "2026-10-12T00:35:19.390839+09:00",
      "겸직 리더십 삼성 사업부장 해소 주목 개편 인사 빨라진"
+    ],
+    [
+     "2026-10-12T00:45:29.425827+09:00",
+     "끝내나 넘기나 공소청이 중수청에 수사 우리 어디서 혼란 기업"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261008_0003819968",
-    "http://woman.chosun.com/news/articleView.html?idxno=126668",
     "http://www.popcornnews.net/news/articleView.html?idxno=135418",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4438466",
     "https://www.jasm.co.kr/news/articleView.html?idxno=320906",
@@ -1704,11 +1702,11 @@
     "https://www.donga.com/news/Economy/article/all/20261011/134821476/2",
     "https://www.donga.com/news/Economy/article/all/20261011/134821488/2",
     "https://www.the-today.com/news/articleView.html?idxno=91523",
-    "https://www.chosun.com/economy/tech_it/2026/10/12/2W7T4Z3HVVAW5IM4ZYJVP5ZFGY/"
+    "https://www.chosun.com/economy/tech_it/2026/10/12/2W7T4Z3HVVAW5IM4ZYJVP5ZFGY/",
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434328",
+    "https://www.chosun.com/national/court_law/2026/10/12/UZRQXZWI4FETHKCCCWNA3I7KLI/"
    ],
    "seen_titles": [
-    "[Insight]FromApprovalstoRecurringRevenue…MedicalAIValuations",
-    "엔비디아투자했는데도IPO연기…AI데이터센터기업들'상장비상'",
     "오픈AI매출'기대이하'보도에美반도체주급락…엔비디아2.9%↓",
     "우리말살리기부터고객언어개선까지…SKT,한글날의미되새겨",
     "광주서창동을세창동으로…산업통상부,'호남반도체클러스터'예타...",
@@ -3206,10 +3204,12 @@
     "“휴머노이드로봇D램…2030년20배로급증”",
     "빨라진인사…삼성‘사업부장겸직해소’SK‘리더십개편’주목",
     "[NZSIINDEX]2026년9월30일…국민연금9월까지수익률약15%로추정",
-    "“휴머노이드두뇌용D램수요,4년후20배로”"
+    "“휴머노이드두뇌용D램수요,4년후20배로”",
+    "로봇,삼성전자·SK하이닉스새성장동력으로부상",
+    "공소청이끝내나,중수청에넘기나…“우리수사어디서”기업혼란"
    ],
    "initialized": true,
-   "last_run": "2026-10-12T00:40:26.891222+09:00"
+   "last_run": "2026-10-12T00:45:29.425827+09:00"
   }
  },
  "press_names": {
