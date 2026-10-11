@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-11T16:30:33.045131+09:00",
-     "조기 우승 서울 2위 광주에 충격패 보인다 최하위 울산"
-    ],
-    [
      "2026-10-11T16:35:19.496894+09:00",
      "밀린 6600선까지 코스피 물가지표 주목"
     ],
@@ -314,11 +310,13 @@
     [
      "2026-10-11T22:00:41.369323+09:00",
      "국가전략투자 호남 몰빵 국감서도 22일 현지 반도체"
+    ],
+    [
+     "2026-10-11T22:30:35.145335+09:00",
+     "입시설명회 1800명 참여 충북반도체고 올해"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=279409",
-    "https://www.fetv.co.kr/news/articleView.html?idxno=311474",
     "https://theviewers.co.kr/View.aspx?No=4248181",
     "https://www.newsis.com/view/NISX20261008_0003819087",
     "https://www.mk.co.kr/article/12172148",
@@ -1816,11 +1814,11 @@
     "https://www.knnews.co.kr/news/articleView.php?idxno=1552498",
     "https://www.ulsanpress.net/news/articleView.html?idxno=584421",
     "https://www.ikbc.co.kr/article/view/kbc202610110056",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682642"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682642",
+    "https://www.ccdailynews.com/news/articleView.html?idxno=2445506",
+    "https://www.ccdailynews.com/news/articleView.html?idxno=2445501"
    ],
    "seen_titles": [
-    "[주간거래소기관]SK스퀘어삼성SDISK이노베이션LG에너지솔루션LG이...",
-    "[단독]현대트랜시스,美조지아에7500억증설…하이브리드구동계거...",
     "‘득점90.3점·실점85.7점’LG농구가달라졌다?···“이제수비로...",
     "뉴욕증시,AI기술주약세에혼조마감…나스닥1.25%↓",
     "AI주팔고방어주샀다…뉴욕증시혼조,나스닥1.25%↓",
@@ -3318,10 +3316,12 @@
     "SK오션고용승계·주민우선채용합의…직원정착방안이견",
     "SK에너지,가격체계손보고내부통제강화나선다",
     "최태원\"美中증설은점유율위기…광주넘어어디든공장늘려야\"",
-    "“호남몰빵”대“국가전략투자”…22일현지국감서도‘반도체’쟁..."
+    "“호남몰빵”대“국가전략투자”…22일현지국감서도‘반도체’쟁...",
+    "3분기실적발표본격화…LG엔솔분기최대매출",
+    "충북반도체고입시설명회올해1800명참여"
    ],
    "initialized": true,
-   "last_run": "2026-10-11T22:25:21.494878+09:00"
+   "last_run": "2026-10-11T22:30:35.145335+09:00"
   }
  },
  "press_names": {
