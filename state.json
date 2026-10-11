@@ -158,10 +158,13 @@
     [
      "2026-10-12T04:40:25.932871+09:00",
      "실리콘밸리 한국의 용인 10기 만들 들어서는 반도체"
+    ],
+    [
+     "2026-10-12T04:55:21.819640+09:00",
+     "인스웨이브 계약 34억 SK와 저축은행 차세대"
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/industry/2026/10/09/2026100817181632529",
     "http://www.nongup.net/news/articleView.html?idxno=33823",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=145450",
     "https://www.ekn.kr/web/view.php?key=20261008025203789",
@@ -1660,10 +1663,10 @@
     "https://www.edaily.co.kr/News/Read?newsId=01308726645612264&mediaCodeNo=257",
     "https://www.mt.co.kr/tech/2026/10/12/2026101122390521820",
     "https://www.vegannews.co.kr/news/article.html?no=392158",
-    "https://www.donga.com/news/Society/article/all/20261011/134821804/2"
+    "https://www.donga.com/news/Society/article/all/20261011/134821804/2",
+    "https://www.vegannews.co.kr/news/article.html?no=392165"
    ],
    "seen_titles": [
-    "삼성전자,분기영업익107조찍었는데주가는주춤?...\"극단적저평가...",
     "코스피2.62%↓…삼성전자·SK하이닉스약세,SK스퀘어7%대털썩",
     "“AI기대너무컸나”…반도체주줄하락에나스닥1.25%↓[투자360]",
     "뉴욕증시,AI매출·차입우려에혼조…나스닥1.3%하락",
@@ -3162,10 +3165,11 @@
     "쿠팡·배민부사장국감장선다…‘쿠폰비전가·배달비’집중추궁",
     "머니투데이오프라인헤드라인-12일",
     "SK하이닉스용인창고구축납기5개월연장",
-    "“반도체팹10기들어서는용인,한국의실리콘밸리만들것”"
+    "“반도체팹10기들어서는용인,한국의실리콘밸리만들것”",
+    "인스웨이브,SK와저축은행차세대34억계약"
    ],
    "initialized": true,
-   "last_run": "2026-10-12T04:50:23.550203+09:00"
+   "last_run": "2026-10-12T04:55:21.819640+09:00"
   }
  },
  "press_names": {
