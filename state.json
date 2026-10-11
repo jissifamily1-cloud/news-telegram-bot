@@ -461,7 +461,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newstree.kr/newsView/ntr202610080023",
     "https://www.ceoscoredaily.com/page/view/2026100813501605512",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=321789",
     "https://www.sedaily.com/article/20099738",
@@ -1960,10 +1959,10 @@
     "http://www.newstomato.com/ReadNews.aspx?no=1316199&inflow=N",
     "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523541",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259553",
-    "https://www.newsis.com/view/NISX20261011_0003820897"
+    "https://www.newsis.com/view/NISX20261011_0003820897",
+    "https://www.news2day.co.kr/article/20261011500008"
    ],
    "seen_titles": [
-    "중흥그룹,호남반도체메가프로젝트·인재육성100억기부약정",
     "SK에너지,가격체계·거래관행개선…석유시장신뢰회복추진",
     "반도체물량장세주인공은소부장,리노공업·ISC·티에스이테스트부품...",
     "HBM가격2배뛰고범용도품귀…증권가“내년영업익630조넘는다”",
@@ -3462,10 +3461,11 @@
     "SK하이닉스도최대실적예고…AI메모리호황지속",
     "최태원SK회장,광주군공항부지전격방문…\"호남권반도체클러스...",
     "[분석]SK쉴더스,해킹은제대로해부하고대책은'자동화'···정상API...",
-    "투자지연우려불식나선최태원회장…\"호남팹,인프라늦어도선제..."
+    "투자지연우려불식나선최태원회장…\"호남팹,인프라늦어도선제...",
+    "[N2포커스]코스피,5.39%급락…삼전역대급실적에도6600선턱걸이"
    ],
    "initialized": true,
-   "last_run": "2026-10-11T11:35:19.159419+09:00"
+   "last_run": "2026-10-11T11:40:24.051857+09:00"
   }
  },
  "press_names": {
