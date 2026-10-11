@@ -458,11 +458,13 @@
     [
      "2026-10-11T20:20:27.703956+09:00",
      "김경문 한화 김응용 명장들 흑역 김성근 김인식 무덤"
+    ],
+    [
+     "2026-10-11T20:25:19.818645+09:00",
+     "줄줄이 신한 KB국민 IT 강국 은행권 털렸다 하나"
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/international/international_economy/2026/10/09/WWQJZNRXIJFHXN6X5DS26JUOMA/",
-    "https://magazine.hankyung.com/business/article/202610092279b",
     "https://www.moneystorm.kr/news/articleView.html?idxno=7140",
     "https://www.wikitree.co.kr/articles/1164890",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493927",
@@ -1960,11 +1962,11 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610110055&t=NN",
     "https://www.khan.co.kr/article/202610112008025",
     "http://www.segyebiz.com/newsView/20261011515173?OutUrl=naver",
-    "https://www.khan.co.kr/article/202610112005025"
+    "https://www.khan.co.kr/article/202610112005025",
+    "https://www.m-i.kr/news/articleView.html?idxno=2004432",
+    "http://www.sisacast.kr/news/articleView.html?idxno=100876"
    ],
    "seen_titles": [
-    "주주반발에도'강행?'...'신의한수'나올까[B급기자의B급리포트]",
-    "미래에셋·삼성·키움·한투지주매도,대신證매수···국민연금매매...",
     "뉴욕증시,AI기술주약세에혼조마감…나스닥1.25%↓(종합)",
     "마이크론파업위기에도…“목표가43%상향”[마켓무버]",
     "배터리3사해외공장서안전위반잇따라…시정조치실효성도마",
@@ -3462,10 +3464,12 @@
     "\"반도체호황착시일수도,10년호황장담못한다\"…슈카만난이창용...",
     "‘퇴근길’개미들,삼전사고하닉팔았다",
     "최태원“미·중증설시우리점유율줄어”…속도전강조",
-    "김인식→김응용→김성근→김경문…‘명장들무덤’된한화흑역..."
+    "김인식→김응용→김성근→김경문…‘명장들무덤’된한화흑역...",
+    "최태원\"美·中빠르게증설하면韓점유율감소…우리도서둘러야\"",
+    "[이슈포커스]신한·KB국민·하나등은행권줄줄이털렸다…IT강국한..."
    ],
    "initialized": true,
-   "last_run": "2026-10-11T20:20:27.703956+09:00"
+   "last_run": "2026-10-11T20:25:19.818645+09:00"
   }
  },
  "press_names": {
