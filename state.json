@@ -225,7 +225,6 @@
     ]
    ],
    "seen_urls": [
-    "https://sports.donga.com/economy/article/all/20261012/134824582/1",
     "https://www.mydaily.co.kr/page/view/2026101209550908308",
     "https://www.sedaily.com/article/20100411",
     "https://biz.chosun.com/stock/stock_general/2026/10/12/LSAPQ6EK7VFPZJFZ6WXOATKGQA/",
@@ -1724,10 +1723,10 @@
     "https://www.seoul.co.kr/news/economy/2026/10/13/20261013031002?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/economy/industry/2026/10/13/20261013032001?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/editOpinion/column/politics-story/2026/10/13/20261013025001?wlog_tag3=naver",
-    "https://www.news1.kr/realestate/general/6317445"
+    "https://www.news1.kr/realestate/general/6317445",
+    "http://www.osen.co.kr/article/G1112891595"
    ],
    "seen_titles": [
-    "마이크론나는데하닉은왜?“솔리다임상장설영향”",
     "SK,AI청년인재에‘월300만원’파격지원…2년제비학위‘아이젠’...",
     "8개월째공석인석화업계수장…차기화학산업협회장은언제쯤",
     "최태원호남반도체속도전에…금호전기30%·금호건설25%↑[이런국장저...",
@@ -3226,10 +3225,11 @@
     "10월수출도2배로뛰었지만…그온기,가계엔안퍼졌다",
     "SKT,문화유물·지역여행잇는‘K-보물길’추진",
     "[세종로의아침]삼성전자‘100조시대’가불안한이유",
-    "10·15대책1년,서울집값10.4%상승…전셋값도10%가까이올라"
+    "10·15대책1년,서울집값10.4%상승…전셋값도10%가까이올라",
+    "경기후엔외박,모여서경기이야기도안했다...모레노호에남은훈련..."
    ],
    "initialized": true,
-   "last_run": "2026-10-13T05:15:29.967525+09:00"
+   "last_run": "2026-10-13T05:20:27.291823+09:00"
   }
  },
  "press_names": {
