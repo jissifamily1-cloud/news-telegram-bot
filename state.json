@@ -986,12 +986,13 @@
     [
      "2026-10-12T21:45:24.601252+09:00",
      "제자리 가격 LPG 휘발유 경유는 46원 10월 급등"
+    ],
+    [
+     "2026-10-12T21:50:25.316613+09:00",
+     "의혹 전쟁 GS칼텍스 틈타 폭리 도마 정유4사"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20261012030552008?input=1195m",
-    "http://www.seouleconews.com/news/articleView.html?idxno=94253",
-    "https://www.newsinside.kr/news/articleView.html?idxno=5022346",
     "http://www.sisafocus.co.kr/news/articleView.html?idxno=366008",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=278580",
     "https://www.econovill.com/news/articleView.html?idxno=753262",
@@ -2488,12 +2489,12 @@
     "https://www.ulsanpress.net/news/articleView.html?idxno=584552",
     "https://www.khan.co.kr/article/202610122140015",
     "https://news.tvchosun.com/site/data/html_dir/2026/10/12/2026101290242.html",
-    "https://www.ulsanpress.net/news/articleView.html?idxno=584546"
+    "https://www.ulsanpress.net/news/articleView.html?idxno=584546",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494614",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000021920&cp=nv",
+    "http://www.4th.kr/news/articleView.html?idxno=2119608"
    ],
    "seen_titles": [
-    "SK텔레콤국립중앙박물관과'K-보물길'프로젝트추진,성수에서문화유...",
-    "코스피·코스닥,삼전닉스약세에2~3%대급락…외국인'팔자'",
-    "최태원SK회장\"수요있는데못늘리면문제\"…호남반도체팹서두른...",
     "쿠팡,공정위조사거부논란국감도마外",
     "울산장생포'고래등길'개통…고래문화마을·울산대교한눈에",
     "[개장시황]코스피,0.72하락한6500대에서개장…원/달러환율,소폭상...",
@@ -3990,10 +3991,13 @@
     "울산장생포바다경관품은새로운명소'고래등길'열린다",
     "중CXMT“차세대D램기술적용한서버용메모리연내출시”",
     "삼성전자외국인지분율46%대로추락…역대최고실적에도왜파나?",
-    "10월LPG가격46원급등…휘발유·경유는제자리"
+    "10월LPG가격46원급등…휘발유·경유는제자리",
+    "[표]10월12일...코스피,외국인2조180억원순매도에'급락'",
+    "최태원,노소영몫재산분할33%불복…상고이유서제출",
+    "[국감]전쟁틈타폭리의혹...GS칼텍스등정유4사도마"
    ],
    "initialized": true,
-   "last_run": "2026-10-12T21:45:24.601252+09:00"
+   "last_run": "2026-10-12T21:50:25.316613+09:00"
   }
  },
  "press_names": {
