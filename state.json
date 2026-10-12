@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-12T22:00:45.135689+09:00",
-     "통로 탈취의 디스커버리 보호의 양날의 핵심기술 특허"
-    ],
-    [
      "2026-10-12T22:05:19.413084+09:00",
      "증거조사 추후 확대 관리비용 특허 추계는 영업비밀 지재처"
     ],
@@ -178,11 +174,17 @@
     [
      "2026-10-13T04:00:44.947670+09:00",
      "재벌 착취 같은 발언에 여야 집중 질타 생각 주병기 지금도"
+    ],
+    [
+     "2026-10-13T04:05:19.407305+09:00",
+     "불러야 국감에 정유사 했나 경영진"
+    ],
+    [
+     "2026-10-13T04:05:19.407305+09:00",
+     "기댈 휘청 코스피 반도체마저 없는"
     ]
    ],
    "seen_urls": [
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=729054",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610071346027080109434",
     "http://www.kbiznews.co.kr/news/articleView.html?idxno=114963",
     "https://www.newstopkorea.com/news/articleView.html?idxno=48095",
     "https://www.topstarnews.net/news/articleView.html?idxno=16244508",
@@ -1680,11 +1682,11 @@
     "https://www.g-enews.com/view.php?ud=202610121813469729fbbec65dfb_1",
     "https://www.g-enews.com/view.php?ud=202610121816224740fbbec65dfb_1",
     "https://www.mt.co.kr/industry/2026/10/13/2026101219511686552",
-    "https://www.mt.co.kr/politics/2026/10/13/2026101219543132230"
+    "https://www.mt.co.kr/politics/2026/10/13/2026101219543132230",
+    "https://www.mt.co.kr/opinion/2026/10/13/2026101216230344401",
+    "https://www.mt.co.kr/stock/2026/10/13/2026101219472473364"
    ],
    "seen_titles": [
-    "SKlaunches2-yearAItrainingprogramwithW3mmonthlystipend",
-    "'로봇한대가자율주행차급'…삼성·SK노리는새먹거리",
     "[더벨][합병결실맺는SK이노E&S]LNG사업'새지평',남은과제'글로...",
     "인포시즈,온톨로지에기반한AX로고객사수익극대화",
     "삼성전자최연소임원박길재,'민팃'대표맡은이유",
@@ -3182,10 +3184,12 @@
     "1000억개AI품겠다는폰,50기가램장벽에멈춰선현실",
     "미국빗장뚫고영토넓히는중국D램…한국레거시판가흔든다",
     "\"AI활용사회적가치측정·보상…자본주의진화\"",
-    "주병기\"재벌착취지금도같은생각\"발언에여야집중질타"
+    "주병기\"재벌착취지금도같은생각\"발언에여야집중질타",
+    "[사설]국감에정유사경영진꼭불러야했나",
+    "반도체마저'휘청'…기댈곳없는코스피"
    ],
    "initialized": true,
-   "last_run": "2026-10-13T04:00:44.947670+09:00"
+   "last_run": "2026-10-13T04:05:19.407305+09:00"
   }
  },
  "press_names": {
