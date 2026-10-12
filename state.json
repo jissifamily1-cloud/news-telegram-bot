@@ -1269,10 +1269,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.worktoday.co.kr/news/articleView.html?idxno=90291",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=449035",
-    "https://www.wolyo.co.kr/news/articleView.html?idxno=318892",
-    "https://www.widedaily.com/news/articleView.html?idxno=301843",
     "https://www.womentimes.co.kr/news/articleView.html?idxno=106922",
     "https://zdnet.co.kr/view/?no=20261012102149",
     "https://www.ajunews.com/view/20261012101413842",
@@ -2768,13 +2764,13 @@
     "https://www.impacton.net/news/articleView.html?idxno=30216",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1540216",
     "https://www.apnews.kr/news/articleView.html?idxno=3051984",
-    "http://www.cctimes.kr/news/articleView.html?idxno=931643"
+    "http://www.cctimes.kr/news/articleView.html?idxno=931643",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1413968",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1540226",
+    "https://www.mhns.co.kr/news/articleView.html?idxno=763680",
+    "https://www.yna.co.kr/view/AKR20261012174800003?input=1195m"
    ],
    "seen_titles": [
-    "SK이터닉스주가,10월12일장중43,850원4.67%하락",
-    "SK,AI시대청년인재키운다…2년간월300만원지원'아이젠'출범",
-    "코스피장중외국인매도에1%대내린6540선,코스닥도1%대내려",
-    "성수에서만나는우리문화,SKTT팩토리에'K-보물길'조성",
     "SK,AI시대이끌청년인재키운다…파격지원담은'아이젠'출범",
     "SK,AI시대도전·혁신청년인재지원'SKAIGEN(아이젠)'프로그램신...",
     "SKT,성수에서지역박물관까지잇는'K-보물길'연다",
@@ -4270,10 +4266,14 @@
     "[팩트체크]AI데이터센터1∼3뒤가동…신규LNG보다태양광·ESS가유...",
     "[비즈투데이]SK,2년제비학위프로그램'아이젠'신설지원",
     "AI성장에메모리·전력공급난…삼성운용,'병목해소'투자전략제시",
-    "충북도미래성장동력확보속도"
+    "충북도미래성장동력확보속도",
+    "최태원,재산분할비율재차다툰다…\"노소영기여도33%부당\"",
+    "최태원,노소영과67:33재산분할비율문제제기",
+    "문세윤·이미주·이상엽,SBS'영크크는출근중'출격…18일첫방송",
+    "산업장관\"호남반도체,기업절박해의구심갖지않아도돼\""
    ],
    "initialized": true,
-   "last_run": "2026-10-12T20:20:27.692126+09:00"
+   "last_run": "2026-10-12T20:25:20.843153+09:00"
   }
  },
  "press_names": {
