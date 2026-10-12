@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-12T12:40:24.765897+09:00",
-     "종목 최태원 하닉은 상한가 갔다 인데 나만없 마디에"
-    ],
-    [
-     "2026-10-12T12:40:24.765897+09:00",
-     "사채 목적이었나 한전 재원이었나 관리가 삼전닉 전력망"
-    ],
-    [
-     "2026-10-12T12:40:24.765897+09:00",
-     "원주 수소 시내버스 운행 조정 차질 수급 액화"
-    ],
-    [
      "2026-10-12T12:45:24.085336+09:00",
      "한은 총재 검토 위험 경고 ETF 금리 신현송 인상 추가"
     ],
@@ -1322,13 +1310,17 @@
     [
      "2026-10-12T18:35:19.744667+09:00",
      "화순 동복댐 상생대책 반도체 증축 임지락 산단 화순군수 연계"
+    ],
+    [
+     "2026-10-12T18:40:31.623724+09:00",
+     "부가서비스 없었다 유료 기준 내놓고 개선 점검은"
+    ],
+    [
+     "2026-10-12T18:40:31.623724+09:00",
+     "의혹에 국감 정유사들 나온 불똥 손실 보전까지 담합 속앓이"
     ]
    ],
    "seen_urls": [
-    "https://www.mediapen.com/news/view/1129186",
-    "http://www.rightknow.co.kr/news/articleView.html?idxno=35001",
-    "https://www.newsway.co.kr/news/view?ud=2026101209240046760",
-    "https://www.smartbizn.com/news/articleView.html?idxno=156045",
     "http://www.metroseoul.co.kr/article/20261012500089",
     "https://view.asiae.co.kr/article/2026101209342745975",
     "https://www.etoday.co.kr/news/view/2634500",
@@ -2824,13 +2816,13 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494587",
     "https://www.newspim.com/news/view/20261012001428",
     "http://www.inews24.com/view/2014138",
-    "https://www.newsworker.co.kr/news/articleView.html?idxno=508188"
+    "https://www.newsworker.co.kr/news/articleView.html?idxno=508188",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=53577",
+    "https://www.globale.co.kr/news/articleView.html?idxno=41000",
+    "https://www.itdaily.kr/news/articleView.html?idxno=242131",
+    "https://www.edaily.co.kr/News/Read?newsId=04391926645612264&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "SK,최태원인재육성의지담은'AI청년인재'지원프로그램신설",
-    "코스피,장초반1%가까이하락…6500선등락중",
-    "[2026국감]해킹숨기고'안전'홍보의혹…통신이용자선택권침해논...",
-    "금호전기,최태원'호남반도체속도전'발언에강세[특징주]",
     "코스피,외국인매도에6500선하락출발···美증시훈풍에도약세",
     "SK텔레콤'K-보물길'연다…정부와문화관광프로젝트추진",
     "SKT,T팩토리성수에서민관협력문화관광프로젝트공동추진",
@@ -4326,10 +4318,14 @@
     "KB자산운용,밸류업커버드콜ETF순자산4000억돌파",
     "[핌in잠실]두산김원형감독의눈은WC를향한다,잭로그불펜이동승...",
     "\"세계1등도소용없구나\"…삼성전자,4%넘게급락에개미'한탄'",
-    "임지락화순군수,\"반도체산단연계동복댐증축등...화순상생대책..."
+    "임지락화순군수,\"반도체산단연계동복댐증축등...화순상생대책...",
+    "코스피3.7%급락…두달만에6300대로",
+    "여야,SK에너지·HD현대오일뱅크정유담합에'전쟁돈벌이'질타",
+    "[국감]유료부가서비스개선기준내놓고점검은없었다",
+    "담합의혹에손실보전까지'불똥'…국감나온정유사들속앓이(종합)"
    ],
    "initialized": true,
-   "last_run": "2026-10-12T18:35:19.744667+09:00"
+   "last_run": "2026-10-12T18:40:31.623724+09:00"
   }
  },
  "press_names": {
