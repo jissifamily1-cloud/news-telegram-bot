@@ -1161,8 +1161,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.nocutnews.co.kr/news/6589733",
-    "https://www.imaeil.com/page/view/2026101210092051484",
     "https://news.tf.co.kr/read/economy/2374964.htm",
     "https://www.job-post.co.kr/news/articleView.html?idxno=231538",
     "https://www.itbiznews.com/news/articleView.html?idxno=227577",
@@ -2660,11 +2658,11 @@
     "https://www.businesspost.co.kr/BP?command=article_view&num=449127",
     "http://www.kwangju.co.kr/article.php?aid=1791805200804209277",
     "https://www.yna.co.kr/view/AKR20261012142351089?input=1195m",
-    "https://www.newstnt.com/news/articleView.html?idxno=722510"
+    "https://www.newstnt.com/news/articleView.html?idxno=722510",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261012205659gaF",
+    "https://www.ddaily.co.kr/page/view/2026101219545187132"
    ],
    "seen_titles": [
-    "코스피,6500선내줘...美기술주약세여파[fn오전시황]",
-    "SK,AI청년인재키운다…2년간월300만원지원",
     "최태원'호남반도체클러스터'속도전강조…관련株급등",
     "ESS성장에LG엔솔은3분기호실적…삼성SDI·SK온성적표는?",
     "[오늘의증시]10월12일코스피6,419.99·코스닥859.54…양대지수3%대...",
@@ -4162,10 +4160,12 @@
     "[10월13일자]비즈니스포스트아침의주요기사",
     "산업부장관도광주에…반도체‘속도전’",
     "中CXMT,차세대D램기술진전…\"삼전닉스에도전\"(종합)",
-    "[공시]10월13일,코스피상장사52개종목자사주매수신청"
+    "[공시]10월13일,코스피상장사52개종목자사주매수신청",
+    "\"패륜정치\"vs\"대통령이왕?\"…이진숙,국감제척가결",
+    "정유4사,국감서고개숙였지만…담합의혹·경영진관여엔말아껴"
    ],
    "initialized": true,
-   "last_run": "2026-10-12T20:55:21.594227+09:00"
+   "last_run": "2026-10-12T21:00:41.239459+09:00"
   }
  },
  "press_names": {
