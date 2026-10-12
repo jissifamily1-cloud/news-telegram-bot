@@ -1130,11 +1130,13 @@
     [
      "2026-10-12T12:05:24.614315+09:00",
      "도입 노린다 제약사업 전성기 제2 SK케미칼 공격적 확대"
+    ],
+    [
+     "2026-10-12T12:10:26.557878+09:00",
+     "SK이노베이션 동반 하락 Oil 오전"
     ]
    ],
    "seen_urls": [
-    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553603369",
-    "https://biz.heraldcorp.com/article/10897544",
     "https://news.jtbc.co.kr/article/NB12322349?influxDiv=NAVER",
     "https://www.e-science.co.kr/news/articleView.html?idxno=137038",
     "https://view.asiae.co.kr/article/2026101021544498395",
@@ -2632,11 +2634,11 @@
     "https://biz.chosun.com/it-science/ict/2026/10/12/YIKHNV5PYZEK7GNDPXFRM6LTM4/",
     "https://www.joongangenews.com/news/articleView.html?idxno=553958",
     "https://www.mt.co.kr/economy/2026/10/12/2026101209285742654",
-    "https://www.medipana.com/news/articleView.html?idxno=419052"
+    "https://www.medipana.com/news/articleView.html?idxno=419052",
+    "https://www.eroun.net/news/articleView.html?idxno=92073",
+    "https://www.vegannews.co.kr/news/article.html?no=392251"
    ],
    "seen_titles": [
-    "[K리그1스타]'스트라이커,저도있습니다'...모레노감독앞원더골쾅...",
-    "'3승→2승→1승→0승'추락한65억에이스,투구폼까지바꿨지만반전없...",
     "“극단적인저평가”이래도주가안오르면…‘세계1위’삼성전자P...",
     "제주SK무패행진끊은FC서울…10년만의정상보인다",
     "SK그룹최태원회장,AI반도체생산기지용인넘어광주로…'동시건설...",
@@ -4134,10 +4136,12 @@
     "KISA·SKT,‘에이닷전화’에음성스팸신고기능도입",
     "SK텔레콤,국립중앙박물관과손잡고'K-보물길'추진…성수에서지역관...",
     "\"경제개선세이어갔지만\"…'소비개선세완만'에주목한KDI",
-    "SK케미칼,제약사업제2전성기노린다…공격적도입·확대"
+    "SK케미칼,제약사업제2전성기노린다…공격적도입·확대",
+    "경북도,안동에1750억원규모의약품산업거점조성나선다",
+    "S-Oil·SK이노베이션오전동반하락"
    ],
    "initialized": true,
-   "last_run": "2026-10-12T12:05:24.614315+09:00"
+   "last_run": "2026-10-12T12:10:26.557878+09:00"
   }
  },
  "press_names": {
