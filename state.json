@@ -1110,14 +1110,17 @@
     [
      "2026-10-12T11:25:20.234421+09:00",
      "배경은 투자자 메모리반도체 주가 우려 정점 코스피 아닌 이탈 저평가"
+    ],
+    [
+     "2026-10-12T11:30:32.637272+09:00",
+     "매도 공세 급락 논란에 외국인 코스피 장중 거품"
+    ],
+    [
+     "2026-10-12T11:30:32.637272+09:00",
+     "국립중앙박물관과 SKT 연계 K보물길 방문위 지역관광"
     ]
    ],
    "seen_urls": [
-    "https://www.starnewskorea.com/sports/2026/10/10/2026101015172249140",
-    "http://www.osen.co.kr/article/G1112890878",
-    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99071",
-    "https://www.newsis.com/view/NISX20261010_0003820604",
-    "https://www.xportsnews.com/article/2206217",
     "https://sports.khan.co.kr/article/202610101655003?pt=nv",
     "http://www.osen.co.kr/article/G1112890887",
     "https://www.starnewskorea.com/sports/2026/10/10/2026101015170797078",
@@ -2612,14 +2615,14 @@
     "https://www.newspim.com/news/view/20261012000478",
     "https://sateconomy.co.kr/news/view/1065577432730538",
     "http://www.mdilbo.com/detail/tohfpC/759495",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=449051"
+    "https://www.businesspost.co.kr/BP?command=article_view&num=449051",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=871777",
+    "https://economychosun.com/site/data/html_dir/2026/10/03/2026100300016.html",
+    "https://biz.heraldcorp.com/article/10899482",
+    "https://www.ppss.kr/news/articleView.html?idxno=314987",
+    "https://www.fnnews.com/news/202610121115403888"
    ],
    "seen_titles": [
-    "[현장인터뷰]'우승카운트다운-7'김기동감독\"지금상황에서는근접...",
-    "\"질경기아니었지만...\"코스타제주감독\"K리그최고팀들이펼친명...",
-    "'제주전극적인2-1승리'김기동감독,\"어려움딛고나아갈수있는승...",
-    "[k1.interview]'우승까지7점남았다!'김기동감독,\"우승에근접,재계...",
-    "'5경기무패마감'제주코스타감독\"선수들너무나자랑스러워\"",
     "서울,'7번째별'에한걸음더…클리말라14호골+문선민1G1AS→'파죽지...",
     "서울전분패가못내아쉬운코스타감독“오늘은우리가패해야할경...",
     "'1골1도움'영웅된문선민,\"패스돌려놓으면서머리더벗겨진것같아...",
@@ -4114,10 +4117,15 @@
     "[캐피탈마켓대상]삼성운용,금융위원장상…KODEX178조로ETF혁신선도",
     "HBM이오히려판가발목잡아…SK하이닉스,다음이익레버리지는‘모...",
     "‘통합지원금20조·반도체팹입지·조직개편’광주특별시현안도마...",
-    "코스피투자자이탈배경은메모리반도체정점우려,\"주가저평가아닌..."
+    "코스피투자자이탈배경은메모리반도체정점우려,\"주가저평가아닌...",
+    "SK하이닉스ADR2.5%가흔든다...\"볼모로잡힌한국증시\"",
+    "[재계이슈]뉴욕서다시뭉친엔비디아·삼성·SK리더반도체동맹|...",
+    "SK텔레콤,성수동‘K-보물길’프로젝트",
+    "코스피장중3%급락…AI거품논란에외국인매도공세",
+    "방문위,SKT·국립중앙박물관과'K보물길'추진…지역관광연계"
    ],
    "initialized": true,
-   "last_run": "2026-10-12T11:25:20.234421+09:00"
+   "last_run": "2026-10-12T11:30:32.637272+09:00"
   }
  },
  "press_names": {
