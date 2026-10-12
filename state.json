@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-12T21:50:25.316613+09:00",
-     "의혹 전쟁 GS칼텍스 틈타 폭리 도마 정유4사"
-    ],
-    [
      "2026-10-12T21:55:46.411897+09:00",
      "가른다 미국증시 유가 100달러대에 은행 CPI 실적이 반등 발목"
     ],
@@ -190,10 +186,13 @@
     [
      "2026-10-13T03:35:20.509008+09:00",
      "멈춰 1000억개 장벽에 품겠다는 현실 50기가"
+    ],
+    [
+     "2026-10-13T03:50:26.140094+09:00",
+     "레거시 영토 미국 넓히는 뚫고 D램 한국 판가 중국 빗장 흔든다"
     ]
    ],
    "seen_urls": [
-    "http://www.finomy.com/news/articleView.html?idxno=263280",
     "https://www.epnc.co.kr/news/articleView.html?idxno=407995",
     "https://www.koreaherald.com/article/10899355",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=729054",
@@ -1692,10 +1691,10 @@
     "https://www.apnews.kr/news/articleView.html?idxno=3051990",
     "https://www.ekn.kr/web/view.php?key=20261013028315327",
     "https://www.ekn.kr/web/view.php?key=20261013020335319",
-    "https://www.g-enews.com/view.php?ud=202610121813469729fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202610121813469729fbbec65dfb_1",
+    "https://www.g-enews.com/view.php?ud=202610121816224740fbbec65dfb_1"
    ],
    "seen_titles": [
-    "SK,청년위한2년제'아이젠'신설...AI융합형인재육성본격화",
     "SKT,T팩토리성수서'K-보물길'선보인다⋯우리유물로지역관광연결",
     "AMD,삼성·SK하이닉스와HBM동맹강화…2027년AI반도체공급대폭확...",
     "SKlaunches2-yearAItrainingprogramwithW3mmonthlystipend",
@@ -3194,10 +3193,11 @@
     "셀프주유소'즉시종료'버튼생긴다…정유4사,2~3개월내추진",
     "[패트롤]용인시의회-이천시의회-평택시의회",
     "[패트롤]경기광주시-평택시-이천시-용인시-여주시-성남시",
-    "1000억개AI품겠다는폰,50기가램장벽에멈춰선현실"
+    "1000억개AI품겠다는폰,50기가램장벽에멈춰선현실",
+    "미국빗장뚫고영토넓히는중국D램…한국레거시판가흔든다"
    ],
    "initialized": true,
-   "last_run": "2026-10-13T03:45:27.758612+09:00"
+   "last_run": "2026-10-13T03:50:26.140094+09:00"
   }
  },
  "press_names": {
