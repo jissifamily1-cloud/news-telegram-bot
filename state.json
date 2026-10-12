@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-12T13:35:20.005607+09:00",
-     "취지와 선납 기업 제안 본래 전기요금 달라 조지연 의원"
-    ],
-    [
-     "2026-10-12T13:35:20.005607+09:00",
-     "코스피만 노이즈 이러나 수급 불안에 반도체 나홀로 급락"
-    ],
-    [
-     "2026-10-12T13:35:20.005607+09:00",
-     "증인 4사 쿠팡 국감 의혹 채택 정유 집중 점검 공정위"
-    ],
-    [
      "2026-10-12T13:40:27.659865+09:00",
      "하림 입사 팬오션 승진 7명 계열 5명 첫해 김준영"
     ],
@@ -1358,16 +1346,21 @@
     [
      "2026-10-12T19:30:34.738127+09:00",
      "해운대 세가사미 홈플 개발 돈맥경화 좌초 잇단 PF"
+    ],
+    [
+     "2026-10-12T19:35:21.416680+09:00",
+     "팔란티어 스토어 팝업 SSR 획득 서울 GS인증"
+    ],
+    [
+     "2026-10-12T19:35:21.416680+09:00",
+     "오를땐 조속 늦게 송구 국민에 내릴땐 정유 개선 4사 빨리"
+    ],
+    [
+     "2026-10-12T19:35:21.416680+09:00",
+     "2억 해킹 이중잣대 법원은 최형두 피해 민간은 1300억 의원"
     ]
    ],
    "seen_urls": [
-    "https://news.bizwatch.co.kr/article/market/2026/10/12/0004",
-    "https://view.asiae.co.kr/article/2026101210042190714",
-    "http://www.ddanzi.com/896769814",
-    "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200045.html",
-    "https://www.mt.co.kr/stock/2026/10/12/2026101210042218417",
-    "https://www.imaeil.com/page/view/2026101209371154962",
-    "http://www.4th.kr/news/articleView.html?idxno=2119528",
     "https://www.etoday.co.kr/news/view/2634546",
     "http://news.lghellovision.net/news/articleView.html?idxno=557787",
     "https://www.delighti.co.kr/news/articleView.html?idxno=123078",
@@ -2860,16 +2853,16 @@
     "https://www.hani.co.kr/arti/economy/it/1282047.html",
     "http://www.00news.co.kr/news/articleView.html?idxno=107096",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683440",
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261013.22004003271"
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261013.22004003271",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=856250",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=302453",
+    "https://www.betanews.net/article/view/beta202610120161",
+    "https://www.econovill.com/news/articleView.html?idxno=753313",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=856249",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=449122",
+    "https://www.gnnews.co.kr/news/articleView.html?idxno=647260"
    ],
    "seen_titles": [
-    "SK,AI인재키운다…청년50명에2년간월300만원지원",
-    "메리츠증권,SK하이닉스목표가상향…\"메모리공급부족은명확\"",
-    "코스피,외국인매도세에장중2%대하락",
-    "[뉴공아카이브]박시동경제평론가·12시에만나요진행자,이광수광수...",
-    "美관세·투자압박에고금리·AI대응까지…'시계제로'경영환경에...",
-    "정유주동반약세…트럼프\"러·우,에너지휴전\"",
-    "한국은조정,미국은신고가…개인투자자다시미국행",
     "SKTT팩토리성수,지역박물관·여행안내거점으로..'K-보물길'추진",
     "SK바이오팜,美서신약개발·상업화경험공유…글로벌협력모색",
     "최태원SK회장,광주군공항방문…반도체투자강조",
@@ -4362,10 +4355,17 @@
     "방미통위“KT허위·기만광고의혹사실조사마쳐…후속절차진행중...",
     "['클릭'증시]삼전·닉스호실적에도동반급락...시장떠난개인자금",
     "코스피,3.65%급락…반도체‘투톱’동반하락",
-    "PF‘돈맥경화’…해운대옛홈플·세가사미개발잇단좌초"
+    "PF‘돈맥경화’…해운대옛홈플·세가사미개발잇단좌초",
+    "[통신풍향계]SKT'K-보물길'추진·KT'모두의AI커넥트서밋'개최·...",
+    "\"3분기영업이익13조역대급잭팟…SK이노베이션,호주DLNG터졌다\"",
+    "최태원방문사흘만에산업부장관도광주로…반도체클러스터조성속...",
+    "SK텔레콤,T팩토리성수서문화관광프로젝트'K-보물길'추진",
+    "[시큐리티포커스]SSR'GS인증'획득·팔란티어'서울팝업스토어'개...",
+    "'오를땐빨리,내릴땐늦게'정유4사\"국민에송구…조속개선\"",
+    "최형두의원\"해킹피해민간은1300억,법원은2억…이중잣대\""
    ],
    "initialized": true,
-   "last_run": "2026-10-12T19:30:34.738127+09:00"
+   "last_run": "2026-10-12T19:35:21.416680+09:00"
   }
  },
  "press_names": {
