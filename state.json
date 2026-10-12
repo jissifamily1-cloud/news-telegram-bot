@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-13T00:25:21.561300+09:00",
-     "이코노미 강단에 문제 사회 해결하는 EBS 만들자 최태원"
-    ],
-    [
-     "2026-10-13T00:30:33.390347+09:00",
-     "돌고 모레노 한국 다르다 도는 클린스만과 A매치 끝나도 K리그 일단"
-    ],
-    [
      "2026-10-13T00:35:20.215839+09:00",
      ""
     ],
@@ -338,11 +330,13 @@
     [
      "2026-10-13T06:25:19.106863+09:00",
      "건설사 불황에도 대형 충원 핀셋 채용문"
+    ],
+    [
+     "2026-10-13T06:30:36.071074+09:00",
+     "활로 반등 찾을까 급락 코스피"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH20261012113834VgL",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=145523",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1727405",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=279782",
     "https://biz.sbs.co.kr/article_hub/20000339333?division=NAVER",
@@ -1840,11 +1834,11 @@
     "https://www.mk.co.kr/article/12174058",
     "https://www.mk.co.kr/article/12174057",
     "https://www.munhwa.com/article/11622937",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609301010540010854"
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609301010540010854",
+    "https://biz.sbs.co.kr/article_hub/20000339521?division=NAVER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794142&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "이통3사,제휴부가서비스크게늘며소비자피해도증가",
-    "[이시각헤드라인]10월12일뉴스센터",
     "코스닥,외인·기관매도에3.7%급락...톱텐동반약세로860붕괴",
     "SEDEX달구는삼성·SK…HBM4E·HBF·첨단패키징총망라",
     "AI서버다음은로봇…삼성·SK가'휴머노이드'에공들이는이유",
@@ -3342,10 +3336,12 @@
     "“레버리지,막는다고안합니까”…삼전닉스막았더니3배‘속슬’더...",
     "“이제국장투자더는못하겠습니다”…3분기거래대금34%급감",
     "[속보]마이크론3.9%급락…美반도체주일제하락",
-    "불황에도채용문…대형건설사‘핀셋’충원"
+    "불황에도채용문…대형건설사‘핀셋’충원",
+    "[외신헤드라인]메타,최고성능AI'뮤즈원더'공개",
+    "코스피3.7%급락…반등활로찾을까"
    ],
    "initialized": true,
-   "last_run": "2026-10-13T06:25:19.106863+09:00"
+   "last_run": "2026-10-13T06:30:36.071074+09:00"
   }
  },
  "press_names": {
