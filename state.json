@@ -214,11 +214,17 @@
     [
      "2026-10-13T05:10:24.303889+09:00",
      "보물길 여행 잇는 SKT 지역 문화유물"
+    ],
+    [
+     "2026-10-13T05:15:29.967525+09:00",
+     "삼성전자 시대 이유 100조 불안한"
+    ],
+    [
+     "2026-10-13T05:15:29.967525+09:00",
+     "상승 서울 집값 전셋값도 올라 1년 가까이 대책"
     ]
    ],
    "seen_urls": [
-    "https://www.thepublic.kr/news/articleView.html?idxno=321784",
-    "https://www.munhwa.com/article/11622747",
     "https://sports.donga.com/economy/article/all/20261012/134824582/1",
     "https://www.mydaily.co.kr/page/view/2026101209550908308",
     "https://www.sedaily.com/article/20100411",
@@ -1716,11 +1722,11 @@
     "https://www.seoul.co.kr/news/economy/industry/2026/10/13/20261013030001?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/economy/securities/2026/10/13/20261013031005?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/economy/2026/10/13/20261013031002?wlog_tag3=naver",
-    "https://www.seoul.co.kr/news/economy/industry/2026/10/13/20261013032001?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/economy/industry/2026/10/13/20261013032001?wlog_tag3=naver",
+    "https://www.seoul.co.kr/news/editOpinion/column/politics-story/2026/10/13/20261013025001?wlog_tag3=naver",
+    "https://www.news1.kr/realestate/general/6317445"
    ],
    "seen_titles": [
-    "세스코,차량위생관리제품5종출시",
-    "현대리바트,5년간64차례제재…공정위는'재발관리'깜깜",
     "마이크론나는데하닉은왜?“솔리다임상장설영향”",
     "SK,AI청년인재에‘월300만원’파격지원…2년제비학위‘아이젠’...",
     "8개월째공석인석화업계수장…차기화학산업협회장은언제쯤",
@@ -3218,10 +3224,12 @@
     "中CXMT“차세대서버용D램연내출시”…K반도체앞서나",
     "코스피6300선급락,환율2년만에최저…‘예측불허’증권가",
     "10월수출도2배로뛰었지만…그온기,가계엔안퍼졌다",
-    "SKT,문화유물·지역여행잇는‘K-보물길’추진"
+    "SKT,문화유물·지역여행잇는‘K-보물길’추진",
+    "[세종로의아침]삼성전자‘100조시대’가불안한이유",
+    "10·15대책1년,서울집값10.4%상승…전셋값도10%가까이올라"
    ],
    "initialized": true,
-   "last_run": "2026-10-13T05:10:24.303889+09:00"
+   "last_run": "2026-10-13T05:15:29.967525+09:00"
   }
  },
  "press_names": {
