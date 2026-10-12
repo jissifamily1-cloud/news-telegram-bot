@@ -193,7 +193,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.epnc.co.kr/news/articleView.html?idxno=407995",
     "https://www.koreaherald.com/article/10899355",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=729054",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610071346027080109434",
@@ -1692,10 +1691,10 @@
     "https://www.ekn.kr/web/view.php?key=20261013028315327",
     "https://www.ekn.kr/web/view.php?key=20261013020335319",
     "https://www.g-enews.com/view.php?ud=202610121813469729fbbec65dfb_1",
-    "https://www.g-enews.com/view.php?ud=202610121816224740fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202610121816224740fbbec65dfb_1",
+    "https://www.mt.co.kr/industry/2026/10/13/2026101219511686552"
    ],
    "seen_titles": [
-    "SKT,T팩토리성수서'K-보물길'선보인다⋯우리유물로지역관광연결",
     "AMD,삼성·SK하이닉스와HBM동맹강화…2027년AI반도체공급대폭확...",
     "SKlaunches2-yearAItrainingprogramwithW3mmonthlystipend",
     "'로봇한대가자율주행차급'…삼성·SK노리는새먹거리",
@@ -3194,10 +3193,11 @@
     "[패트롤]용인시의회-이천시의회-평택시의회",
     "[패트롤]경기광주시-평택시-이천시-용인시-여주시-성남시",
     "1000억개AI품겠다는폰,50기가램장벽에멈춰선현실",
-    "미국빗장뚫고영토넓히는중국D램…한국레거시판가흔든다"
+    "미국빗장뚫고영토넓히는중국D램…한국레거시판가흔든다",
+    "\"AI활용사회적가치측정·보상…자본주의진화\""
    ],
    "initialized": true,
-   "last_run": "2026-10-13T03:50:26.140094+09:00"
+   "last_run": "2026-10-13T03:55:19.249068+09:00"
   }
  },
  "press_names": {
