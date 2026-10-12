@@ -222,12 +222,21 @@
     [
      "2026-10-13T05:15:29.967525+09:00",
      "상승 서울 집값 전셋값도 올라 1년 가까이 대책"
+    ],
+    [
+     "2026-10-13T05:25:20.358277+09:00",
+     "약세에 유가 하락 속슬 폭락 상승 반도체 기술주"
+    ],
+    [
+     "2026-10-13T05:25:20.358277+09:00",
+     "키운다 2년간 300만원 청년 주고"
+    ],
+    [
+     "2026-10-13T05:25:20.358277+09:00",
+     "체질개선 본게임 너머 실적 사장단"
     ]
    ],
    "seen_urls": [
-    "https://www.mydaily.co.kr/page/view/2026101209550908308",
-    "https://www.sedaily.com/article/20100411",
-    "https://biz.chosun.com/stock/stock_general/2026/10/12/LSAPQ6EK7VFPZJFZ6WXOATKGQA/",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=318899",
     "https://www.dt.co.kr/article/12088486",
     "https://www.segye.com/newsView/20261012509435?OutUrl=naver",
@@ -1724,12 +1733,12 @@
     "https://www.seoul.co.kr/news/economy/industry/2026/10/13/20261013032001?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/editOpinion/column/politics-story/2026/10/13/20261013025001?wlog_tag3=naver",
     "https://www.news1.kr/realestate/general/6317445",
-    "http://www.osen.co.kr/article/G1112891595"
+    "http://www.osen.co.kr/article/G1112891595",
+    "https://www.fnnews.com/news/202610130518302889",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610121216043200164",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610121046244520142"
    ],
    "seen_titles": [
-    "SK,AI청년인재에‘월300만원’파격지원…2년제비학위‘아이젠’...",
-    "8개월째공석인석화업계수장…차기화학산업협회장은언제쯤",
-    "최태원호남반도체속도전에…금호전기30%·금호건설25%↑[이런국장저...",
     "오픈AI거품론에외국인‘팔자’…코스피,2%하락해6500선반납",
     "조경태\"KT해킹은폐의혹철저히조사…위법확인땐신규가입제한...",
     "SEDEX서맞붙는삼성전자vs하이닉스…HBM4E·차세대메모리공개",
@@ -3226,10 +3235,13 @@
     "SKT,문화유물·지역여행잇는‘K-보물길’추진",
     "[세종로의아침]삼성전자‘100조시대’가불안한이유",
     "10·15대책1년,서울집값10.4%상승…전셋값도10%가까이올라",
-    "경기후엔외박,모여서경기이야기도안했다...모레노호에남은훈련..."
+    "경기후엔외박,모여서경기이야기도안했다...모레노호에남은훈련...",
+    "[뉴욕증시]유가상승·반도체약세에기술주하락…'속슬'8.2%폭락",
+    "[SK인사·인재기상도]②SK,월300만원주고청년2년간키운다",
+    "[SK인사·인재기상도]①실적너머‘AI체질개선’본게임…SK사장단..."
    ],
    "initialized": true,
-   "last_run": "2026-10-13T05:20:27.291823+09:00"
+   "last_run": "2026-10-13T05:25:20.358277+09:00"
   }
  },
  "press_names": {
