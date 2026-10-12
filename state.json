@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-12T20:05:19.963625+09:00",
-     "거부 담합 현장조사 집중포화 쿠팡에 공정위"
-    ],
-    [
-     "2026-10-12T20:05:19.963625+09:00",
-     "B급리 최고가에도 아직 사상 B급기자의 저렴하다 나스닥 이유"
-    ],
-    [
      "2026-10-12T20:20:27.692126+09:00",
      "내년 성과급 1인당 SK하닉 7억대"
     ],
@@ -250,10 +242,13 @@
     [
      "2026-10-13T01:10:42.577793+09:00",
      "시장서 전기차 확장세 LFP 양극재 글로벌"
+    ],
+    [
+     "2026-10-13T02:05:21.298527+09:00",
+     "개미는 삼전닉스 시름 실적에도 코스피 붕괴 역대급"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=449049",
     "https://www.getnews.co.kr/news/articleView.html?idxno=883210",
     "https://www.eroun.net/news/articleView.html?idxno=92087",
     "https://www.viva100.com/article/20261012500482",
@@ -1752,10 +1747,10 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794026&plink=ORI&cooper=NAVER",
     "https://www.tvreport.co.kr/broadcast/article/1082502/",
     "http://www.e2news.com/news/articleView.html?idxno=334998",
-    "https://www.tokenpost.kr/news/market/421556"
+    "https://www.tokenpost.kr/news/market/421556",
+    "https://www.kmib.co.kr/article/view.asp?arcid=9000021968&cp=nv"
    ],
    "seen_titles": [
-    "KB자산운용'RISE코리아밸류업위클리고정커버드콜'순자산4000억원돌파",
     "금호건설주가장중24%대올라,반도체클러스터기대감에호남건설주...",
     "SK바이오팜,미국서글로벌신약개발경험공유",
     "SK,청년AI인재육성'AIGEN'신설...2년간월300만원지원",
@@ -3254,10 +3249,11 @@
     "코스피,한달만에최대하락…반등활로찾을까",
     "SK최태원,\"사회문제해결도경쟁\"…715억실험으로'새자본주의'제안...",
     "글로벌전기차양극재시장서LFP확장세",
-    "마이크론2.88%·AAOI6.47%하락…메모리·광통신낙폭축소"
+    "마이크론2.88%·AAOI6.47%하락…메모리·광통신낙폭축소",
+    "삼전닉스역대급실적에도개미는시름…코스피6400붕괴"
    ],
    "initialized": true,
-   "last_run": "2026-10-13T02:00:45.033207+09:00"
+   "last_run": "2026-10-13T02:05:21.298527+09:00"
   }
  },
  "press_names": {
