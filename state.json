@@ -166,11 +166,17 @@
     [
      "2026-10-13T04:05:19.407305+09:00",
      "기댈 휘청 코스피 반도체마저 없는"
+    ],
+    [
+     "2026-10-13T04:10:26.795889+09:00",
+     "모시는 인력 공사가 건설사 블랙홀 인재 반도체 하이테크"
+    ],
+    [
+     "2026-10-13T04:10:26.795889+09:00",
+     "신기술로 EUV 방열 하이닉스 뚫는 판가름 기판 40배 한계 삼성"
     ]
    ],
    "seen_urls": [
-    "http://www.kbiznews.co.kr/news/articleView.html?idxno=114963",
-    "https://www.newstopkorea.com/news/articleView.html?idxno=48095",
     "https://www.topstarnews.net/news/articleView.html?idxno=16244508",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=856136",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=395024",
@@ -1668,11 +1674,11 @@
     "https://www.mt.co.kr/industry/2026/10/13/2026101219511686552",
     "https://www.mt.co.kr/politics/2026/10/13/2026101219543132230",
     "https://www.mt.co.kr/opinion/2026/10/13/2026101216230344401",
-    "https://www.mt.co.kr/stock/2026/10/13/2026101219472473364"
+    "https://www.mt.co.kr/stock/2026/10/13/2026101219472473364",
+    "https://www.mt.co.kr/estate/2026/10/13/2026101219295481400",
+    "https://www.g-enews.com/view.php?ud=202610121821597878fbbec65dfb_1"
    ],
    "seen_titles": [
-    "[더벨][합병결실맺는SK이노E&S]LNG사업'새지평',남은과제'글로...",
-    "인포시즈,온톨로지에기반한AX로고객사수익극대화",
     "삼성전자최연소임원박길재,'민팃'대표맡은이유",
     "영화'암살자(들)'논란,창작의자유훼손54.2%…청년남녀인식엇갈...",
     "44조대규제폭풍…정유'빅4'유통관행수술대",
@@ -3170,10 +3176,12 @@
     "\"AI활용사회적가치측정·보상…자본주의진화\"",
     "주병기\"재벌착취지금도같은생각\"발언에여야집중질타",
     "[사설]국감에정유사경영진꼭불러야했나",
-    "반도체마저'휘청'…기댈곳없는코스피"
+    "반도체마저'휘청'…기댈곳없는코스피",
+    "반도체공사가인력블랙홀…'하이테크'인재모시는건설사",
+    "EUV한계40배뚫는AI기판…삼성·하이닉스방열신기술로판가름"
    ],
    "initialized": true,
-   "last_run": "2026-10-13T04:06:30.021666+09:00"
+   "last_run": "2026-10-13T04:10:26.795889+09:00"
   }
  },
  "press_names": {
