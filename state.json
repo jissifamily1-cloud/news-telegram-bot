@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-12T06:10:29.361571+09:00",
-     "규모 소각 코메론 자사주 발행주식"
-    ],
-    [
      "2026-10-12T06:15:25.449338+09:00",
      "예적금은 공통점 긴축의 투자 4인방 시대지만 포트폴리오 대가"
     ],
@@ -1137,9 +1133,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.jtbc.co.kr/article/NB12322349?influxDiv=NAVER",
-    "https://www.e-science.co.kr/news/articleView.html?idxno=137038",
-    "https://view.asiae.co.kr/article/2026101021544498395",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682408",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682452",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000072215",
@@ -2636,12 +2629,12 @@
     "https://www.mt.co.kr/economy/2026/10/12/2026101209285742654",
     "https://www.medipana.com/news/articleView.html?idxno=419052",
     "https://www.eroun.net/news/articleView.html?idxno=92073",
-    "https://www.vegannews.co.kr/news/article.html?no=392251"
+    "https://www.vegannews.co.kr/news/article.html?no=392251",
+    "https://www.vegannews.co.kr/news/article.html?no=392253",
+    "http://www.newsdream.kr/news/articleView.html?idxno=119741",
+    "https://imnews.imbc.com/replay/2026/nw1200/article/6857226_36967.html"
    ],
    "seen_titles": [
-    "“극단적인저평가”이래도주가안오르면…‘세계1위’삼성전자P...",
-    "제주SK무패행진끊은FC서울…10년만의정상보인다",
-    "SK그룹최태원회장,AI반도체생산기지용인넘어광주로…'동시건설...",
     "슈카만난이창용\"강남부동산관심커진덴분양가상한제도영향…보...",
     "최태원“가장빠르게”…범정부차원속도전요구",
     "제주SK,5경기연속무패마침표…코스타,‘이달의감독’첫수상",
@@ -4138,10 +4131,13 @@
     "\"경제개선세이어갔지만\"…'소비개선세완만'에주목한KDI",
     "SK케미칼,제약사업제2전성기노린다…공격적도입·확대",
     "경북도,안동에1750억원규모의약품산업거점조성나선다",
-    "S-Oil·SK이노베이션오전동반하락"
+    "S-Oil·SK이노베이션오전동반하락",
+    "한글날연휴뒤삼성전자·SK스퀘어약세",
+    "KISA,SKT'에이닷'에음성스팸신고기능탑재…\"녹음파일자동연계...",
+    "'반도체약세'코스피6,500내줘‥외국인'팔자'"
    ],
    "initialized": true,
-   "last_run": "2026-10-12T12:10:26.557878+09:00"
+   "last_run": "2026-10-12T12:15:22.890533+09:00"
   }
  },
  "press_names": {
