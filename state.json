@@ -842,11 +842,17 @@
     [
      "2026-10-12T22:05:19.413084+09:00",
      "취업사기 한국축 정도면 손흥민 모레노 감독 이강인 김민재"
+    ],
+    [
+     "2026-10-12T22:35:19.890798+09:00",
+     "2조 소용없었다 역대급 실적도 매도 외인 삼전"
+    ],
+    [
+     "2026-10-12T22:35:19.890798+09:00",
+     "반도체주 뉴욕 추격에 마이크론 프리뷰 반도체 급락"
     ]
    ],
    "seen_urls": [
-    "https://www.bigtanews.co.kr/article/view/big202610120005",
-    "https://www.1conomynews.co.kr/news/articleView.html?idxno=50760",
     "https://it.chosun.com/news/articleView.html?idxno=2023092171781",
     "https://www.edaily.co.kr/News/Read?newsId=02666646645612264&mediaCodeNo=257",
     "https://news.tf.co.kr/read/economy/2374983.htm",
@@ -2344,11 +2350,11 @@
     "https://www.wikitree.co.kr/articles/1165612",
     "https://www.m-i.kr/news/articleView.html?idxno=2004982",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=318935",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479289"
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479289",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=614640",
+    "https://www.newspim.com/news/view/20261012001534"
    ],
    "seen_titles": [
-    "[특징주]금호전기,최태원호남반도체클러스터속도전강조에'상한...",
-    "<빅터뉴스주가예측>코스피시가총액상위15선_10월6일_오차율",
     "[2026국감]해킹숨겨반사이익누린KT…신규모집금지압박",
     "가입자이탈에도실적방어SKT·KT…AI데이터센터로성장돌파구",
     "성수서만난우리문화유물,지역여행으로…SKT‘K-보물길’추진",
@@ -3846,10 +3852,12 @@
     "“모레노감독,이정도면취업사기”…손흥민・이강인・김민재한국축...",
     "정유4사,국감서사과·개선약속…담합의혹엔\"절차따르겠다\"",
     "[2026국감]정무위\"정유사들,전쟁불안을돈벌이기회삼아\"",
-    "[2026국감]한전전력망투자·원전수출계약도마···산업현안집중..."
+    "[2026국감]한전전력망투자·원전수출계약도마···산업현안집중...",
+    "[코스피6300선추락]삼전역대급실적도소용없었다…외인2조매도폭...",
+    "[AIMY뉴스]뉴욕반도체주프리뷰...中반도체추격에마이크론2%급락"
    ],
    "initialized": true,
-   "last_run": "2026-10-12T22:30:36.709301+09:00"
+   "last_run": "2026-10-12T22:35:19.890798+09:00"
   }
  },
  "press_names": {
