@@ -438,10 +438,13 @@
     [
      "2026-10-13T23:35:22.556154+09:00",
      "글로벌 원유도 8000만달러 3000만달러 원유 운송비 러시아 폭등"
+    ],
+    [
+     "2026-10-13T23:40:26.313338+09:00",
+     "호실적에 낙폭 은행주 증시 하락 뉴욕 제한 SK하닉은"
     ]
    ],
    "seen_urls": [
-    "http://www.issuenbiz.com/news/articleView.html?idxno=80546",
     "https://www.ntoday.co.kr/news/articleView.html?idxno=130007",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494765",
     "https://www.kado.net/news/articleView.html?idxno=2077714",
@@ -1940,10 +1943,10 @@
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=278711",
     "https://www.donga.com/news/Opinion/article/all/20261013/134836857/2",
     "http://www.00news.co.kr/news/articleView.html?idxno=107126",
-    "https://www.joongangenews.com/news/articleView.html?idxno=554689"
+    "https://www.joongangenews.com/news/articleView.html?idxno=554689",
+    "https://www.news1.kr/world/usa-canada/6318961"
    ],
    "seen_titles": [
-    "'HBM아버지'김정호KAIST교수,과학기술혁신대상수상",
     "[N2증시풍향계]삼성전자·SK하이닉스‘급락’…호남반도체·보안株...",
     "'베트남서터진낭보'SK어스온,'황금낙타'광구서첫원유생산개시",
     "[특징주]삼성전자·SK하이닉스,5~6%급락…'23만전자·150만닉스'흔...",
@@ -3442,10 +3445,11 @@
     "GlobalChipmakersForgeR&DAllianceAgainstChina'sCXMTRise",
     "“중국의삼성전자가되겠다”는CXMT쇼크[횡설수설/김창덕]",
     "中CXMT'4F²D램'기습선언에반도체시장시끌",
-    "러시아원유운송비3000만달러폭등…美원유도8000만달러,글로벌유..."
+    "러시아원유운송비3000만달러폭등…美원유도8000만달러,글로벌유...",
+    "뉴욕증시,은행주호실적에낙폭제한…SK하닉은4%대하락"
    ],
    "initialized": true,
-   "last_run": "2026-10-13T23:35:22.556154+09:00"
+   "last_run": "2026-10-13T23:40:26.313338+09:00"
   }
  },
  "press_names": {
