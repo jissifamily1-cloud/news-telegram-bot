@@ -222,10 +222,13 @@
     [
      "2026-10-14T03:25:21.427353+09:00",
      "평택시 여주시 경기광주시 용인시 이천시 성남시"
+    ],
+    [
+     "2026-10-14T03:30:33.843907+09:00",
+     "의문 모두의 실효성 출시 12월"
     ]
    ],
    "seen_urls": [
-    "http://www.joseilbo.com/news/news_read.php?uid=577253&class=53",
     "https://www.ajunews.com/view/20261013101722758",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794686&plink=ORI&cooper=NAVER",
     "http://www.newsprime.co.kr/news/article.html?no=750699",
@@ -1724,10 +1727,10 @@
     "https://www.edaily.co.kr/News/Read?newsId=01220166645612920&mediaCodeNo=257",
     "https://www.newspim.com/news/view/20261014000016",
     "https://www.g-enews.com/view.php?ud=2026101322301216409a1f309431_1",
-    "https://www.ekn.kr/web/view.php?key=20261014025295876"
+    "https://www.ekn.kr/web/view.php?key=20261014025295876",
+    "https://www.ytn.co.kr/_ln/0105_202610140323396566"
    ],
    "seen_titles": [
-    "[증시오늘(13일)주요특징주]반도체·자동차대장주일제히급락…코...",
     "역대급실적에도짐싸는외국인…'삼전닉스'집중매도",
     "SK어스온,베트남'황금낙타'광구서원유생산돌입…신규유층도추가...",
     "코스피5%대급락,매도사이드카...삼성전자·SK하이닉스동반급락",
@@ -3226,10 +3229,11 @@
     "[美특징주]CXMT충격지속…마이크론등반도체주이틀째약세",
     "유럽증시,中CXMT發반도체충격에약보합…ASM인터내셔널은6.3%급락",
     "美반도체ETF6일연속하락위기…은행주도조정국면",
-    "[패트롤]여주시-용인시-이천시-평택시-경기광주시-성남시"
+    "[패트롤]여주시-용인시-이천시-평택시-경기광주시-성남시",
+    "'모두의AI'12월출시...실효성의문"
    ],
    "initialized": true,
-   "last_run": "2026-10-14T03:25:21.427353+09:00"
+   "last_run": "2026-10-14T03:30:33.843907+09:00"
   }
  },
  "press_names": {
