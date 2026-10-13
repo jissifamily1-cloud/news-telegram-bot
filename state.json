@@ -686,16 +686,17 @@
     [
      "2026-10-14T08:52:28.386798+09:00",
      "자본 인수 결정한 이익만으로 신한지주에 자체 요건 롯데손보"
+    ],
+    [
+     "2026-10-14T08:55:18.866690+09:00",
+     "페스티벌 임직원 성과 개최 공유 포스코퓨처엠 활용"
+    ],
+    [
+     "2026-10-14T08:55:18.866690+09:00",
+     "주요공시 13일 10월 주식시장"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261013000280",
-    "https://view.asiae.co.kr/article/2026101310320874056",
-    "https://www.etoday.co.kr/news/view/2635081",
-    "http://www.metroseoul.co.kr/article/20261013500110",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=278670",
-    "https://www.fnnews.com/news/202610131130069425",
-    "https://www.munhwa.com/article/11623111",
     "https://it.chosun.com/news/articleView.html?idxno=2023092171877",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=267715",
     "https://www.yna.co.kr/view/AKR20261013095700001?input=1195m",
@@ -2188,16 +2189,16 @@
     "http://datanews.co.kr/news/article.html?no=146892",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=872558",
     "https://www.newsis.com/view/NISX20261014_0003824947",
-    "https://biz.chosun.com/stock/stock_general/2026/10/14/XD4PKBVE6NCVLNIGTWW7VA5ZKA/"
+    "https://biz.chosun.com/stock/stock_general/2026/10/14/XD4PKBVE6NCVLNIGTWW7VA5ZKA/",
+    "http://www.newsprime.co.kr/news/article.html?no=750839",
+    "https://www.ziksir.com/news/articleView.html?idxno=149263",
+    "https://www.ajunews.com/view/20261014085021198",
+    "https://news.jtbc.co.kr/article/NB12322858?influxDiv=NAVER",
+    "https://www.tokenpost.kr/news/tech/422286",
+    "https://biz.heraldcorp.com/article/10901795",
+    "https://www.catchnews.kr/news/articleView.html?idxno=129248"
    ],
    "seen_titles": [
-    "부트캠프학생들,반도체·미래차등첨단산업현직자멘토링기회",
-    "교육부,반도체·미래차인재지원…삼전닉스체험하고취업상담",
-    "부트캠프학생들,삼전닉스기업전시회방문…현직자직무상담",
-    "기업현장과만나진로탐색…교육부,반도체·미래차취업역량높인다",
-    "반도체·미래차부트캠프학생들,최신기술보고취업상담까지",
-    "반도체·미래차인재한자리에…삼성·SK하이닉스등산업현장체험",
-    "폴리텍대,'기술인재장학생'3기선발...1·2기생SK하이닉스·테슬라...",
     "{OpeningMarket]KOSPIFallsBelow6,000AmidForeignSelloff",
     "대학부트캠프학생들,반도체·미래차산업현장찾는다",
     "마포1164세대전세달랑‘2’…강남집값꺾였지만세입자고통[부동...",
@@ -3690,10 +3691,17 @@
     "SK바이오사이언스,IDT성장·백신부진…미래투자지속",
     "엘림넷,의료기관보안지원",
     "\"AI반도체패러다임바뀐다\"…삼성전자·SK하이닉스흔드는'진부화공...",
-    "롯데손보인수결정한신한지주에…SK證“자체이익만으로자본요건..."
+    "롯데손보인수결정한신한지주에…SK證“자체이익만으로자본요건...",
+    "한화오션,3분기실적기대치하회…해양·함정수주가반등열쇠",
+    "SK이노베이션,생태계복원·기후대응앞장…베트남서맹그로브숲확...",
+    "메리츠證\"SK이노베이션,국제유가상승으로수혜…목표주가21만원\"",
+    "외국인하루4조5천억팔았다…코스피장중7%대급락",
+    "어플라이드머티어리얼즈,반도체연구에50억달러투자",
+    "포스코퓨처엠,‘AI페스티벌’개최…“임직원AI활용성과공유”",
+    "10월13일주식시장주요공시"
    ],
    "initialized": true,
-   "last_run": "2026-10-14T08:52:28.386798+09:00"
+   "last_run": "2026-10-14T08:55:18.866690+09:00"
   }
  },
  "press_names": {
