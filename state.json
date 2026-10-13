@@ -450,18 +450,25 @@
     [
      "2026-10-14T07:50:26.207162+09:00",
      "W자 SK하이닉스 기대 찍었나 바닥 반등 두번째 삼성전자"
+    ],
+    [
+     "2026-10-14T07:55:20.636136+09:00",
+     "분할매수 5배 실익 대신 PER 이하서 유효 없어 매도"
+    ],
+    [
+     "2026-10-14T07:55:20.636136+09:00",
+     "무너질때 흑사병 주주 치솟은 와르르 러시아 코스피 의심 종목"
+    ],
+    [
+     "2026-10-14T07:55:20.636136+09:00",
+     "최태원 수용하고 9440억 노소영에 판결 지급 2440억 재상고 7000억"
+    ],
+    [
+     "2026-10-14T07:55:20.636136+09:00",
+     "62조원 주주환원에 썼다 절반 삼성 SK가 차지"
     ]
    ],
    "seen_urls": [
-    "https://www.munhwa.com/article/11623051",
-    "https://www.asiatime.co.kr/article/20261013500150",
-    "http://www.wikileaks-kr.org/news/articleView.html?idxno=193103",
-    "https://www.joongangenews.com/news/articleView.html?idxno=554441",
-    "https://www.fnnews.com/news/202610131023497022",
-    "https://www.dailian.co.kr/news/view/1700832/?sc=Naver",
-    "https://www.fnnews.com/news/202610131054538575",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=280045",
-    "https://www.koreatimes.co.kr/path/A2026101310380001113",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=278667",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1727584",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4438942",
@@ -1952,18 +1959,18 @@
     "https://slownews.kr/167866",
     "https://www.imaeil.com/page/view/2026101407434995457",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6857793_37012.html",
-    "https://www.edaily.co.kr/News/Read?newsId=02496086645612920&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=02496086645612920&mediaCodeNo=257",
+    "https://www.newspim.com/news/view/20261014000028",
+    "https://www.kado.net/news/articleView.html?idxno=2077968",
+    "https://biz.sbs.co.kr/article_hub/20000339794?division=NAVER",
+    "https://www.m-i.kr/news/articleView.html?idxno=2005546",
+    "https://www.hankyung.com/article/2026101400976",
+    "https://www.edaily.co.kr/News/Read?newsId=02525606645612920&mediaCodeNo=257",
+    "https://www.fnnews.com/news/202610140738379301",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000073116",
+    "https://biz.sbs.co.kr/article_hub/20000339800?division=NAVER"
    ],
    "seen_titles": [
-    "[6천피이탈]LS證정다운\"실적반영못하는시장…금리정점네러티브시...",
-    "오세훈\"성탄절까지3만호착공완수\"…11개정비사업공정직접챙긴...",
-    "[6천피이탈]iM證박상현\"과도한하락세…단기반등여지충분\"",
-    "타사에교섭요구…끝없는노봉법폐해[포럼]",
-    "[사설]국장투매부른반도체주가를흔드는‘보이지않는손’있나",
-    "[운용NOW]삼성자산운용·KB자산운용·한국투자신탁운용",
-    "SKT·KT·LGU+,AI데이터센터에수조원베팅…매출급증에수익성도잡...",
-    "\"에이피알,목표가낮췄지만\"펀더멘털훼손과는거리멀다\"…\"SK텔레콤...",
-    "'레버리지후폭풍'7월급락후처음…코스피장중6000선붕괴",
     "오세훈\"크리스마스까지3만가구착공완료\"",
     "CXMT의차세대D램양산선언…삼성·SK가여전히느긋한이유",
     "KAIST’sHBMpioneerhonoredwithS&TInnovationAward",
@@ -3454,10 +3461,19 @@
     "성장률전망과따로가는코스피,CXMT충격이덮친검은화요일:슬로우...",
     "최태원은재상고,노소영은맞상고안해…9440억재산분할대법원으로",
     "뉴욕증시,美은행실적·반도체약세에하락",
-    "삼성전자·SK하이닉스,두번째바닥찍었나…“W자반등기대”"
+    "삼성전자·SK하이닉스,두번째바닥찍었나…“W자반등기대”",
+    "노소영,재산분할맞상고포기…최태원재상고로만대법곧심리",
+    "노소영,최태원재산분할맞상고포기…대법서최종판단",
+    "[애프터마켓리뷰]에이피알,증권가3분기실적눈높이하향",
+    "SK네트웍스,업스테이지에200억원추가투자",
+    "삼전닉스폭락했는데…증권가\"영업익1000조,곧W자반등\"[분석+]",
+    "대신證\"PER5배이하서매도실익없어...분할매수유효\"",
+    "\"러시아흑사병의심\"...코스피와르르무너질때15%치솟은종목[주주...",
+    "최태원,노소영에9440억지급판결…7000억수용하고2440억재상고",
+    "주주환원에62조원썼다…삼성·SK가절반차지"
    ],
    "initialized": true,
-   "last_run": "2026-10-14T07:50:26.207162+09:00"
+   "last_run": "2026-10-14T07:55:20.636136+09:00"
   }
  },
  "press_names": {
