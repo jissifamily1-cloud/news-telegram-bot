@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-13T13:40:24.806908+09:00",
-     "34bp 감소 순익 CET1 3곳"
-    ],
-    [
-     "2026-10-13T13:40:24.806908+09:00",
-     "고금리 금값 벽에 부딪혔나 잘나가던"
-    ],
-    [
-     "2026-10-13T13:40:24.806908+09:00",
-     "몸값은 차질 장기화 공급망 적정 해운주 전망"
-    ],
-    [
      "2026-10-13T13:45:23.712585+09:00",
      "다시 부른다 막바지에 정유 담합 김병주 이기승 국감 산자중기위"
     ],
@@ -1234,12 +1222,17 @@
     [
      "2026-10-13T19:35:20.092128+09:00",
      "베팅했는데 상승 정신 개미들 날벼락 잡으세요"
+    ],
+    [
+     "2026-10-13T19:40:26.959009+09:00",
+     "공격 차지 3분의 노조미 자격증명"
+    ],
+    [
+     "2026-10-13T19:40:26.959009+09:00",
+     "빠르다 사실이면 삼전닉스보다 긴장 창신메모리"
     ]
    ],
    "seen_urls": [
-    "http://www.breaknews.com/1242508",
-    "https://www.mt.co.kr/industry/2026/10/13/2026101309042017541",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4438889",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=90333",
     "https://www.news1.kr/finance/market-exr/6317874",
     "https://www.news2day.co.kr/article/20261013500053",
@@ -2736,12 +2729,12 @@
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261014.22005003696",
     "https://www.namdonews.com/news/articleView.html?idxno=926063",
     "https://www.incheonilbo.com/news/articleView.html?idxno=1334040",
-    "http://www.inews24.com/view/2014646"
+    "http://www.inews24.com/view/2014646",
+    "https://news.jtbc.co.kr/article/NB12322809?influxDiv=NAVER",
+    "https://www.datanet.co.kr/news/articleView.html?idxno=215052",
+    "https://news.jtbc.co.kr/article/NB12322795?influxDiv=NAVER"
    ],
    "seen_titles": [
-    "SK어스온,베트남원유생산본격화…자원개발확대",
-    "삼성전자,OCP서AI메모리청사진제시…AMD와CXL기술시연",
-    "삼성전자,'속도·확장성·영속성'초점새메모리전략공개",
     "코스피,미반도체주약세에6100선하회",
     "대기업,온실가스배출량감소세다시확대..반도체·IT역주행",
     "[단독]LG엔솔,엘앤에프와조단위첫LFP양극재계약체결",
@@ -4238,10 +4231,13 @@
     "KTX·SRT통합,이재용·최태원증인채택두고여야신경전",
     "민형배전남광주통합특별시장취임100일\"반도체·통합의힘으로새성...",
     "총리·LH사장\"주택공급속도\"현장행보",
-    "\"개미들정신꽉잡으세요\"…'상승'베팅했는데'날벼락'"
+    "\"개미들정신꽉잡으세요\"…'상승'베팅했는데'날벼락'",
+    "중국발반도체쇼크에내려앉았다…'6천피턱걸이'",
+    "노조미\"자격증명관련공격,3분의1차지\"",
+    "창신메모리,사실이면\"삼전닉스보다빠르다\"…긴장"
    ],
    "initialized": true,
-   "last_run": "2026-10-13T19:35:20.092128+09:00"
+   "last_run": "2026-10-13T19:40:26.959009+09:00"
   }
  },
  "press_names": {
