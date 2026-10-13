@@ -378,16 +378,21 @@
     [
      "2026-10-14T07:20:25.665772+09:00",
      "엇갈린 연일 실적 은행주들 반도체주 하락세"
+    ],
+    [
+     "2026-10-14T07:30:32.695969+09:00",
+     "알아야 경제뉴스 국내외"
+    ],
+    [
+     "2026-10-14T07:30:32.695969+09:00",
+     "SK리츠 삼양컴텍 명신산업"
+    ],
+    [
+     "2026-10-14T07:30:32.695969+09:00",
+     "간신히 쇼크 메모리 중국산 사수 6천피 세진"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=02738806645612592&mediaCodeNo=257",
-    "http://kor.theasian.asia/archives/418319",
-    "https://www.hellot.net/news/article.html?no=115406",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4438932",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610081342293400104033",
-    "https://www.seoul.co.kr/news/economy/securities/2026/10/13/20261013500083?wlog_tag3=naver",
-    "https://www.ekn.kr/web/view.php?key=20261013020305453",
     "https://view.asiae.co.kr/article/2026101309574198959",
     "https://sports.hankooki.com/news/articleView.html?idxno=6941532",
     "https://mhnse.com/news/articleView.html?idxno=1589701",
@@ -1880,16 +1885,16 @@
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005938103",
     "https://www.slist.kr/news/articleView.html?idxno=773159",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=90580",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=883437"
+    "https://www.getnews.co.kr/news/articleView.html?idxno=883437",
+    "https://www.ziksir.com/news/articleView.html?idxno=149254",
+    "https://www.etoday.co.kr/news/view/2635406",
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=364609",
+    "https://www.sidae.com/article/2026101407185128573",
+    "https://www.fntimes.com/html/view.php?ud=202610140710069087141825007d_18",
+    "https://www.etoday.co.kr/news/view/2635411",
+    "https://www.ytn.co.kr/_ln/0102_202610140725026640"
    ],
    "seen_titles": [
-    "Samsung,SKhynixextendlossesonCXMTconcern",
-    "美어플라이드,50억달러EPIC센터오픈…삼성·SK“AI메모리혁신가...",
-    "“젠슨황이매번간이유있었네”…세계1위오른‘K-푸드’는",
-    "화학산업협회,하반기전망세미나…회원사소통강화",
-    "경복대학교,‘2026KBU커리어페스티벌’서맞춤형취업지원강화",
-    "[헬로즈업]AI페스타2026,‘AI가현실이되는순간'을말하다",
-    "[6천피이탈]신한강진혁\"외국인매물받아줄수급없다\"",
     "[더벨][CompanyWatch]SK케미칼,코폴리의존낮춘다…수익구조'다변화...",
     "“어쩌다다시23만전자”3조쓸어담은개미들‘패닉’[내가샀다]",
     "外人떠나자6000선깨졌다…귀환조건따져보니",
@@ -3382,10 +3387,17 @@
     "증시오늘'핫이슈'…\"국채'롱'·주식'숏'외친블랙록,'채권시대'열...",
     "SK최태원,9440억원재산분할불복재상고...노소영은부대상고포기",
     "뉴욕증시모두하락…은행실적호조마이크론3.6%급락",
-    "뉴욕증시,美은행실적혼조·반도체약세에소폭하락마감"
+    "뉴욕증시,美은행실적혼조·반도체약세에소폭하락마감",
+    "中D램공세·월가은행쇼크…뉴욕증시,일제히'털썩'",
+    "뉴욕증시하락⋯반도체주밀리고은행실적엇갈려[종합]",
+    "은행실적실망에뉴욕증시하락…다우0.35%↓",
+    "뉴욕증시,중반도체주공세에하락세…나스닥0.15%↓",
+    "[KFT모닝브리프]2026.10.14—오늘꼭알아야할국내외경제뉴스",
+    "[오늘의IR]SK리츠·삼양컴텍·명신산업등",
+    "[스타트경제]간신히'6천피'사수...더세진중국산메모리쇼크,K-반..."
    ],
    "initialized": true,
-   "last_run": "2026-10-14T07:25:19.539622+09:00"
+   "last_run": "2026-10-14T07:30:32.695969+09:00"
   }
  },
  "press_names": {
