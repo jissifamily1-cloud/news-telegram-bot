@@ -994,12 +994,13 @@
     [
      "2026-10-13T21:20:26.440486+09:00",
      "받는 유독 코스피만 반도체 같은데 영향 이유 타격"
+    ],
+    [
+     "2026-10-13T21:25:19.922776+09:00",
+     "이어갈까 KT 연승 행진 가스공사 잡고"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1727560",
-    "https://www.tfmedia.co.kr/news/article.html?no=207941",
-    "https://www.news2day.co.kr/article/20261013500055",
     "https://www.joongangenews.com/news/articleView.html?idxno=554388",
     "https://www.businesspost.co.kr/BP?command=article_view&num=449140",
     "https://www.slist.kr/news/articleView.html?idxno=772969",
@@ -2496,12 +2497,12 @@
     "https://www.namdonews.com/news/articleView.html?idxno=926056",
     "https://it.chosun.com/news/articleView.html?idxno=2023092171967",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=53610",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684728"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684728",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=562217",
+    "http://www.e2news.com/news/articleView.html?idxno=335045",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=562202"
    ],
    "seen_titles": [
-    "안성시의회,송전선로지중화·LNG발전소환경문제논의",
-    "China’sCXMTtargetsnext-genDRAMlaunchthisyear",
-    "강원도,반도체대전2026참가…도내기업3곳과공동홍보관운영",
     "1인당국민소득4만달러의환상-하승수",
     "대기업탄소배출2.5%감소...발전·철강줄고반도체·IT는늘었다",
     "中기술추격에흔들린韓반도체투톱…코스피까지직격탄",
@@ -3998,10 +3999,13 @@
     "[이슈포커스]전남광주통합교육청출범그후:(중)반도체·AI인재양성...",
     "中CXMT,서버용차세대D램출시예고…韓반도체추격",
     "키움운용,반도체채권혼합ETF주당146원분배…6개월누적907원",
-    "반도체영향받는건같은데…코스피만유독타격큰이유?"
+    "반도체영향받는건같은데…코스피만유독타격큰이유?",
+    "코스피5.5%급락…장중6천피붕괴",
+    "SK가스,900억원규모자사주매입…주주환원정책강화",
+    "가스공사,KT잡고연승행진이어갈까"
    ],
    "initialized": true,
-   "last_run": "2026-10-13T21:20:26.440486+09:00"
+   "last_run": "2026-10-13T21:25:19.922776+09:00"
   }
  },
  "press_names": {
