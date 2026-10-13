@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-13T22:35:21.082255+09:00",
-     "추격에 프리뷰 반도체주 뉴욕 반도체 급락 메모리주"
-    ],
-    [
      "2026-10-13T22:40:28.124406+09:00",
      "프로젝트 호남 반도체 잡히나 발목 메가 정치권에 800조원"
     ],
@@ -206,13 +202,17 @@
     [
      "2026-10-14T04:25:19.870355+09:00",
      "소재 본격화 밀착 배터리 중국산 본궤도 밀어내기"
+    ],
+    [
+     "2026-10-14T04:35:21.094691+09:00",
+     "씨티그룹 마이크론 장중 하락 SKHY 미국증시 4대지수"
+    ],
+    [
+     "2026-10-14T04:35:21.094691+09:00",
+     "넓힌 전세 오르고 1년 집값 외곽 서울 규제지역 대책"
     ]
    ],
    "seen_urls": [
-    "http://www.inews24.com/view/2014311",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=278648",
-    "https://www.etnews.com/20261013000108",
-    "https://www.joongang.co.kr/article/25469227",
     "http://www.wikileaks-kr.org/news/articleView.html?idxno=193143",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=601114",
     "https://www.sentv.co.kr/article/view/sentv202610130054",
@@ -1708,13 +1708,13 @@
     "http://coinreaders.com/262991",
     "https://www.edaily.co.kr/News/Read?newsId=01420246645612920&mediaCodeNo=257",
     "https://www.koreaittimes.com/news/articleView.html?idxno=158080",
-    "https://www.mt.co.kr/industry/2026/10/14/2026101319384817158"
+    "https://www.mt.co.kr/industry/2026/10/14/2026101319384817158",
+    "https://www.donga.com/news/Economy/article/all/20261014/134837228/2",
+    "https://www.koreaittimes.com/news/articleView.html?idxno=158081",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=172183",
+    "https://www.hankookilbo.com/news/article/A2026101314120002265?did=NA"
    ],
    "seen_titles": [
-    "\"손흥민공격,누가조작하는것아닌가\"…신문선작심발언,정승원은...",
-    "\"항암제70%자연에서\"생물다양성,제약사생존과제",
-    "SK온은끌어안고,롯데케미칼은덜어내고[THECOMPASS]",
-    "브로드컴CEO\"AI성장걸림돌은반도체아닌자본\"",
     "ForeignInvestorsSell199TrillionWoninKoreanStocksWhileBuying9",
     "[미리보는테크서밋]<1>삼성전자·SK하이닉스“AI시대메모리미래청...",
     "‘HBM아버지’김정호KAIST교수,대전과학기술혁신대상",
@@ -3210,10 +3210,14 @@
     "S&P500종목들,절반은20%이상추락...사상최고가는착시?",
     "한은\"반도체아직괜찮지만..AI투자축소·中추격대비해야\"",
     "미국은행은이익늘리는데세계경제는더위험해진다",
-    "美'중국산밀어내기'본격화…韓배터리·소재밀착본궤도"
+    "美'중국산밀어내기'본격화…韓배터리·소재밀착본궤도",
+    "中CXMT發차세대메모리쇼크…코스피5%급락,6000턱걸이",
+    "USBankProfitsRiseasGlobalEconomicRisksMount",
+    "미국증시장중...4대지수'하락',마이크론·SKHY·씨티그룹'뚝'",
+    "규제지역넓힌'10·15대책'1년...서울집값10%오르고외곽전세매..."
    ],
    "initialized": true,
-   "last_run": "2026-10-14T04:30:35.749194+09:00"
+   "last_run": "2026-10-14T04:35:21.094691+09:00"
   }
  },
  "press_names": {
