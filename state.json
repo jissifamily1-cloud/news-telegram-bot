@@ -350,11 +350,17 @@
     [
      "2026-10-14T00:25:22.255224+09:00",
      "경제 코스피 폭락에 성장률 현실 전망은 가려진 한국"
+    ],
+    [
+     "2026-10-14T00:30:38.540253+09:00",
+     "삼전닉스 떨어지나 공급 과잉 우려 환율이 메모리 호황인데"
+    ],
+    [
+     "2026-10-14T00:30:38.540253+09:00",
+     "쇼크 손질해야 장밋빛 반도체 경제정책 중국발 믿고"
     ]
    ],
    "seen_urls": [
-    "https://www.fnnews.com/news/202610131005249221",
-    "https://www.welfarenews.net/news/articleView.html?idxno=212026",
     "https://biz.heraldcorp.com/article/10900632",
     "https://www.ziksir.com/news/articleView.html?idxno=149123",
     "http://www.ttlnews.com/news/articleView.html?idxno=3151237",
@@ -1852,11 +1858,11 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=9000022296&cp=nv",
     "https://news.tf.co.kr/read/life/2375929.htm",
     "https://www.joongang.co.kr/article/25469494",
-    "https://news.cpbc.co.kr/article/1176307?division=NAVER"
+    "https://news.cpbc.co.kr/article/1176307?division=NAVER",
+    "https://www.newsis.com/view/NISX20261013_0003823459",
+    "https://www.joongang.co.kr/article/25469504"
    ],
    "seen_titles": [
-    "어플라이드,美반도체R&D센터공개…삼성·SK참여",
-    "하이테커,'미래내일일경험사업'4년째참여...올해신규기업15곳발...",
     "SK어스온,베트남새유전서원유생산…개발2년만",
     "삼전닉스떨어져도…호남반도체주는급등[종목NOW]",
     "장애인신문뉴스브리핑'(2026.10.09)",
@@ -3354,10 +3360,12 @@
     "SK어스온,베트남‘황금낙타’구조서원유생산시작",
     "노소영,'세기의재산분할'맞상고포기…최태원만재상고",
     "CXMT쇼크에…삼전-7%,닉스-10%,간신히6000피",
-    "[시사천국]코스피폭락에성장률전망은3.3%…한국경제,가려진현실..."
+    "[시사천국]코스피폭락에성장률전망은3.3%…한국경제,가려진현실...",
+    "메모리호황인데'삼전닉스'왜떨어지나…\"공급과잉우려·환율이발...",
+    "[사설]중국발쇼크…반도체믿고짠장밋빛경제정책손질해야"
    ],
    "initialized": true,
-   "last_run": "2026-10-14T00:25:22.255224+09:00"
+   "last_run": "2026-10-14T00:30:38.540253+09:00"
   }
  },
  "press_names": {
