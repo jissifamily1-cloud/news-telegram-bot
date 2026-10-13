@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-13T13:15:24.945783+09:00",
-     "기업들이 챙기겠다는 빠뜨린 직원 마음"
-    ],
-    [
-     "2026-10-13T13:15:24.945783+09:00",
-     "약국에서 프랑스 대박났는데 목수정의 수출 바스 감지된 위기"
-    ],
-    [
      "2026-10-13T13:25:19.989660+09:00",
      "필요 허리 신호일 통증 있어 주의 척추질환"
     ],
@@ -1257,8 +1249,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.m-economynews.com/news/article.html?no=71581",
-    "https://www.handmk.com/news/articleView.html?idxno=44015",
     "https://www.yna.co.kr/view/AKR20261013046300009?input=1195m",
     "https://www.enetnews.co.kr/news/articleView.html?idxno=55214",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1727546",
@@ -2756,11 +2746,11 @@
     "http://www.inews24.com/view/2014631",
     "https://www.newsis.com/view/NISX20261013_0003824613",
     "https://www.edaily.co.kr/News/Read?newsId=04575606645612592&mediaCodeNo=257",
-    "https://www.dt.co.kr/article/12088911"
+    "https://www.dt.co.kr/article/12088911",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479737",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684522"
    ],
    "seen_titles": [
-    "[특징주]삼전·닉스급락…美반도체주약세에中CXMT기술추격까지",
-    "최태원,'재산분할67:33비율불복'…대법에항소이유서제출",
     "인핸스,KES2026서기업AI운영체계'AgentOS'선보여…\"업무맥락이...",
     "中반도체기술력우려…삼전·닉스5%하락세[특징주]",
     "발전·철강↓반도체↑…대기업온실가스'업종별양극화'",
@@ -4258,10 +4248,12 @@
     "\"한국인10명중7명,업무에AI활용\"CES주최사가주목한변화",
     "[올댓차이나]홍콩증시,자원주강세에사흘째상승마감…H주0.08%↑",
     "AI투자회의론·中창신우려에…日닛케이1.82%↓",
-    "\"中CXMT충격파끄떡없다\"…韓·美·대만'기술동맹'과시"
+    "\"中CXMT충격파끄떡없다\"…韓·美·대만'기술동맹'과시",
+    "이상일용인시장,반도체근로자숙소PF기준완화건의",
+    "장중6천선아래로밀린코스피…2달여전으로후퇴"
    ],
    "initialized": true,
-   "last_run": "2026-10-13T19:15:23.741428+09:00"
+   "last_run": "2026-10-13T19:20:25.326980+09:00"
   }
  },
  "press_names": {
