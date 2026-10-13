@@ -1202,14 +1202,21 @@
     [
      "2026-10-13T13:25:19.989660+09:00",
      "필요 허리 신호일 통증 있어 주의 척추질환"
+    ],
+    [
+     "2026-10-13T13:30:34.733531+09:00",
+     ""
+    ],
+    [
+     "2026-10-13T13:30:34.733531+09:00",
+     "급락 붕괴 이상 144만원 SK하이닉스"
+    ],
+    [
+     "2026-10-13T13:30:34.733531+09:00",
+     ""
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20261012162318286",
-    "https://www.ikbc.co.kr/article/view/kbc202610120061",
-    "https://www.inven.co.kr/webzine/news/?news=321995",
-    "https://www.chosun.com/economy/industry-company/2026/10/12/TYVUR66OPZGCZAPDEDVQPMMXLQ/",
-    "https://www.jbnews.com/news/articleView.html?idxno=1513290",
     "https://www.sedaily.com/article/20100668",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008793798&plink=ORI&cooper=NAVER",
     "https://www.edaily.co.kr/News/Read?newsId=04293526645612264&mediaCodeNo=257",
@@ -2704,14 +2711,14 @@
     "https://news.jtbc.co.kr/article/NB12322719?influxDiv=NAVER",
     "https://www.kmaeil.com/news/articleView.html?idxno=654099",
     "https://www.mk.co.kr/article/12174352",
-    "http://www.bokuennews.com/news/article.html?no=285410"
+    "http://www.bokuennews.com/news/article.html?no=285410",
+    "https://www.ezyeconomy.com/news/articleView.html?idxno=240724",
+    "https://www.yna.co.kr/view/AKR20261013101400008?input=1195m",
+    "https://jp.yna.co.kr/view/AJP20261013000900882?input=1728m",
+    "https://www.news1.kr/finance/general-stock/6318252",
+    "https://www.nspna.com/cn/news/?newsid=831422"
    ],
    "seen_titles": [
-    "주요증권사정보보안에550억원…해킹‘선제차단’강화",
-    "[K-디스커버리역설]글로벌'특허괴물'안방서활개칠라...'기획소송...",
-    "김정관\"반도체기업들에겐생존이걸린절박한문제\"...정치권부지논...",
-    "[붉은사막]AMD경영진,방한중국내게임사로는펄어비스만찾았다",
-    "한전사장“호남반도체전력망비용1.4조중삼전닉스가80%이상부담...",
     "SK호크스,골·세이브마다5만원적립…충북대병원의료취약계층지원",
     "外人올해코스피서200조순매도…자사주방어막사라지자수급불안",
     "계약만료앞둔김태형롯데감독\"3년안에못했으면감독책임\"",
@@ -4206,10 +4213,15 @@
     "일론머스크\"중국이기술확보하면생산막강\"…차세대D램따라잡힐판",
     "[2026국감]'반도체경쟁력'주52시간예외국감서다시쟁점",
     "SK하이닉스급락에도…하나證“360만원간다”[오늘,이종목",
-    "허리·목통증,척추질환신호일수있어주의필요"
+    "허리·목통증,척추질환신호일수있어주의필요",
+    "SK어스온,베트남서원유생산확대…추산자원량6000만배럴",
+    "코스피연일급락에공포지수23%급등…시총5천조원깨져",
+    "韓日協力を模索「未来経済フォーラム」参加受け付け開始＝ソウルで11...",
+    "[속보]SK하이닉스10%이상급락…144만원붕괴",
+    "SK集团会长崔泰源视察光州半导体项目用地：“将以最快速度推进建设”"
    ],
    "initialized": true,
-   "last_run": "2026-10-13T13:25:19.989660+09:00"
+   "last_run": "2026-10-13T13:30:34.733531+09:00"
   }
  },
  "press_names": {
