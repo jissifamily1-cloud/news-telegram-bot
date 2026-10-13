@@ -1098,10 +1098,13 @@
     [
      "2026-10-13T20:45:24.123297+09:00",
      "같이 미장이랑 떨어질땐 멀어지는 오르고 떨어지고 코스 오를땐"
+    ],
+    [
+     "2026-10-13T20:50:25.901508+09:00",
+     "반도체 높아졌지만 양극화는 부문만 성장률은 심화 수혜는 K자"
     ]
    ],
    "seen_urls": [
-    "https://www.peoplewatch.co.kr/article/view/ppw202610130002",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=279990",
     "https://www.hidomin.com/news/articleView.html?idxno=724604",
     "https://www.m-economynews.com/news/article.html?no=71578",
@@ -2600,10 +2603,10 @@
     "http://coinreaders.com/262916",
     "https://www.businesspost.co.kr/BP?command=article_view&num=449246",
     "https://www.nytimes.com/2026/10/13/business/dealbook/dealbook-summit-lineup.html?partner=naver",
-    "https://biz.heraldcorp.com/article/10901067"
+    "https://biz.heraldcorp.com/article/10901067",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6857702_37004.html"
    ],
    "seen_titles": [
-    "SK하닉,'40조'자사주매입'도루묵'…주가150만원대로'회귀'",
     "내년코스피'상저하고'...하반기1만선도전",
     "SK이노계열SK어스온,베트남15-1/05광구첫원유생산",
     "코스피,6080선까지밀려…반도체주급락",
@@ -4102,10 +4105,11 @@
     "코스피폭락에도비트코인은버텼다!SK하이닉스10%급락속8만4,000달...",
     "[10월14일자]비즈니스포스트아침의주요기사",
     "Vance,Altman,Musk,Mamdani,BieberandMoreattheDealBookSummit",
-    "‘떨어질땐같이떨어지고오를땐안오르고’미장이랑멀어지는코스..."
+    "‘떨어질땐같이떨어지고오를땐안오르고’미장이랑멀어지는코스...",
+    "성장률은높아졌지만수혜는반도체부문만?‥K자양극화는심화"
    ],
    "initialized": true,
-   "last_run": "2026-10-13T20:45:24.123297+09:00"
+   "last_run": "2026-10-13T20:50:25.901508+09:00"
   }
  },
  "press_names": {
