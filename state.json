@@ -570,19 +570,17 @@
     [
      "2026-10-14T08:20:25.689103+09:00",
      "원주시의료기기산업진흥원 강원도 홍천군보건소"
+    ],
+    [
+     "2026-10-14T08:25:20.341600+09:00",
+     "HL만도 싹쓸이 구상 테크 주지사 현대차 SK하이닉스 미시간"
+    ],
+    [
+     "2026-10-14T08:25:20.341600+09:00",
+     "어플라이드 설립 머티어리얼즈 세계 센터"
     ]
    ],
    "seen_urls": [
-    "https://ilyo.co.kr/?ac=article_view&entry_id=513111",
-    "https://www.hankyung.com/article/2026101272766",
-    "https://www.ekn.kr/web/view.php?key=20261013021245404",
-    "https://www.sedaily.com/article/20100891",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1727575",
-    "https://biz.heraldcorp.com/article/10900855",
-    "https://www.hidomin.com/news/articleView.html?idxno=724613",
-    "https://biz.heraldcorp.com/article/10900881",
-    "https://biz.sbs.co.kr/article_hub/20000339612?division=NAVER",
-    "https://www.ajunews.com/view/20261013113236162",
     "https://biz.sbs.co.kr/article_hub/20000339611?division=NAVER",
     "https://www.nocutnews.co.kr/news/6590499",
     "https://www.sidae.com/article/2026101311010383493",
@@ -2072,19 +2070,19 @@
     "https://www.newsquest.co.kr/news/articleView.html?idxno=302561",
     "https://www.etoday.co.kr/news/view/2635441",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=302562",
-    "https://www.ekn.kr/web/view.php?key=20261014022495844"
+    "https://www.ekn.kr/web/view.php?key=20261014022495844",
+    "http://www.datanews.co.kr/news/article.html?no=146908",
+    "https://www.tjb.co.kr/news05/bodo/view/id/104771",
+    "https://biz.sbs.co.kr/article_hub/20000339802?division=NAVER",
+    "https://www.sedaily.com/article/20101276",
+    "https://www.mt.co.kr/tech/2026/10/14/2026101408070493867",
+    "https://www.kbmaeil.com/article/20261014500028",
+    "http://www.joseilbo.com/news/news_read.php?uid=577333&class=53",
+    "http://www.press9.kr/news/articleView.html?idxno=84169",
+    "https://www.theguru.co.kr/news/article.html?no=108199",
+    "https://www.thelec.kr/news/articleView.html?idxno=63655"
    ],
    "seen_titles": [
-    "7000선에서6000선붕괴까지단5거래일…코스피장중5950까지밀려",
-    "최태원측,대법원에상고이유서제출…재산분할비율다툰다",
-    "한국2차전지산업의위기,이제무엇을해야하는가?",
-    "김광석교수“2027년반도체가격꺾이면한국경제도흔들린다”",
-    "윤지호\"2028년실적까지봐야…삼전닉스전망치상향확인\"[한경넥스...",
-    "“뭔가잘못되고있다”…삼전닉스폭락,월가큰손들도‘변심’[이슈...",
-    "“우리아들,삼전닉스취업하면좋겠어요”…입학정원단64명뿐인데...",
-    "[차이나풍향계]中은'기술돌파구'美는'양산난제'…CXMT에흔들린K...",
-    "멈출줄모르는외국인매도세[코스피6000붕괴]",
-    "\"50만인구지키기넘어설것\"…박용선포항시장,'100만생활권거점도...",
     "코오롱베니트‘AX서밋2026’개최",
     "차세대D램먼저내놓겠다는중국…삼전닉스턱밑추격",
     "[특징주]에이피알,3분기실적우려에16%급락",
@@ -3574,10 +3572,20 @@
     "[굿모닝!글로벌뉴욕증시]CXMT여파에도반도체주낙폭축소하며약조...",
     "현대차證“외국인203조순매도…삼전·하닉실적이복귀신호탄될까...",
     "[박정식의국내주식시황]CXMT여파에따른단기차익매물출회가마무...",
-    "[패트롤]강원도-원주시의료기기산업진흥원…홍천군보건소"
+    "[패트롤]강원도-원주시의료기기산업진흥원…홍천군보건소",
+    "엔코아플레이데이터,오프라인교육생3500명돌파",
+    "美반도체지수5거래일연속하락…7월말이후처음",
+    "[기업이슈]반도체주폭락에코스피'검은화요일'",
+    "반도체무너진날2차전지는반등…LG엔솔3%대상승[코주부]",
+    "머스크\"마이크론빼고메모리가격지나쳐\"…삼전닉스겨냥?[IT썰]",
+    "장중무너진6000피,오늘은버틸까…외국인매도·반도체반등이관건",
+    "코스피,1000포인트증발에'6000선위태'…증권가\"지금팔아도실익없...",
+    "삼성전자·SK하이닉스,내년합산영업익1000조원가시권-KB증권",
+    "'K-테크싹쓸이구상'美미시간주지사,현대차·SK하이닉스·HL만도비...",
+    "어플라이드머티어리얼즈,세계최대R&D센터설립"
    ],
    "initialized": true,
-   "last_run": "2026-10-14T08:20:25.689103+09:00"
+   "last_run": "2026-10-14T08:25:20.341600+09:00"
   }
  },
  "press_names": {
