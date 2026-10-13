@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-13T12:45:23.240617+09:00",
-     "발행돼 마이크론 33만달러어치 토큰이 커맨더 새로"
-    ],
-    [
-     "2026-10-13T12:45:23.240617+09:00",
-     "반도체 산업부 전담 반도체혁신성장지원단 메가프로젝트 신설"
-    ],
-    [
      "2026-10-13T12:55:22.420401+09:00",
      "재계 방산 김동관이 잭팟 올린 해양 쏘아"
     ],
@@ -1238,14 +1230,13 @@
     [
      "2026-10-13T18:40:25.009379+09:00",
      "금리 채권 글로벌 국채 시장으로 돌린 자본 급등"
+    ],
+    [
+     "2026-10-13T18:45:23.784362+09:00",
+     "무려 여기저기 코스피 곡소리 이러니 200조 팔았 녹아내리지"
     ]
    ],
    "seen_urls": [
-    "https://www.newscj.com/news/articleView.html?idxno=3439766",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=313004",
-    "https://www.seoulfn.com/news/articleView.html?idxno=639898",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=53584",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=856262",
     "https://www.namdonews.com/news/articleView.html?idxno=925946",
     "http://www.amnews.co.kr/news/articleView.html?idxno=74981",
     "https://www.seoul.co.kr/news/economy/securities/2026/10/13/20261013500032?wlog_tag3=naver",
@@ -2740,14 +2731,14 @@
     "https://www.laborplus.co.kr/news/articleView.html?idxno=41638",
     "https://www.fnnews.com/news/202610131832520192",
     "https://www.dt.co.kr/article/12088894",
-    "http://www.00news.co.kr/news/articleView.html?idxno=107123"
+    "http://www.00news.co.kr/news/articleView.html?idxno=107123",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479735",
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1334039",
+    "https://www.etnews.com/20261013000445",
+    "https://www.ytn.co.kr/_ln/0102_202610131837263805",
+    "https://biz.heraldcorp.com/article/10901059"
    ],
    "seen_titles": [
-    "[개장시황]코스피,5거래일연속하락…4%대급락에6100선이탈",
-    "최태원,'노소영몫33.3%'에이의제기...재산분할재상고상고이유서...",
-    "SK어스온,베트남황금낙타서원유캔다…2년만의결실",
-    "[서울데이터랩]코스피,장초반6100선붕괴…외국인매도에4%대급락",
-    "5거래일만에7000선에서6000선으로…코스피,오늘도하락출발",
     "코스피,중국발메모리경쟁우려에4.57%급락",
     "코스피,美반도체주약세에장중4%대급락···6100선까지밀려",
     "중국창신\"한국보다먼저D램신기술\"…마케팅발표로공세",
@@ -4242,10 +4233,15 @@
     "[2026노동국감]메가프로젝트노동시간문제집중제기",
     "외국인13조던지자5일간1000p빠졌다[코스피장중6000붕괴]",
     "[사설]대기업이대한민국착취한다는주병기위원장의위험한기업관",
-    "['클릭'증시]글로벌국채금리급등...채권시장으로눈돌린자본"
+    "['클릭'증시]글로벌국채금리급등...채권시장으로눈돌린자본",
+    "이상일용인시장,국토부에반도체교통망확충요청",
+    "삼성전자'HBM5·CXL'새AI메모리전략공개",
+    "[포토]장중6,000무너진코스피,폭락",
+    "'검은화요일'코스피,5%대폭락...장중6천선붕괴",
+    "‘이러니코스피녹아내리지’여기저기곡소리…무려‘200조’나팔았..."
    ],
    "initialized": true,
-   "last_run": "2026-10-13T18:40:25.009379+09:00"
+   "last_run": "2026-10-13T18:45:23.784362+09:00"
   }
  },
  "press_names": {
