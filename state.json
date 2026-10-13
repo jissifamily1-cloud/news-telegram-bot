@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-14T00:45:25.467699+09:00",
-     "장비 반도체 공정용 부품"
-    ],
-    [
      "2026-10-14T00:50:26.384500+09:00",
      "재상고 재산분할 최태원만 9440억 대법원으로 다시"
     ],
@@ -306,13 +302,21 @@
     [
      "2026-10-14T06:40:26.669598+09:00",
      "키우나 어떻게 쓰는 사람"
+    ],
+    [
+     "2026-10-14T06:50:25.406363+09:00",
+     "역할 부각 사회안전망 해킹의 역설"
+    ],
+    [
+     "2026-10-14T06:50:25.406363+09:00",
+     "약세 반도체주 독일 영국 하락 영향 유럽증시 약보합"
+    ],
+    [
+     "2026-10-14T06:50:25.406363+09:00",
+     "맞상고 노소영은 최태원 2440억만 재산분할 안했다 불복"
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4438926",
-    "https://www.newscj.com/news/articleView.html?idxno=3439790",
-    "https://www.segye.com/newsView/20261013509159?OutUrl=naver",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=313015",
     "https://www.smarttoday.co.kr/ko-kr/articles/112571",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=172165",
     "https://www.youngnong.co.kr/news/articleView.html?idxno=71011",
@@ -1808,13 +1812,13 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610140008&t=NN",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495021",
     "http://www.newsian.co.kr/news/articleView.html?idxno=96996",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495020"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495020",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1727696",
+    "http://www.fins.co.kr/news/articleView.html?idxno=110209",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=445639",
+    "https://www.fnnews.com/news/202610140633209764"
    ],
    "seen_titles": [
-    "[속보]코스피6%대급락…6000선깨졌다",
-    "[속보]'중국발메모리'로깨진코스피6000…삼성-6.99%,SK-8.85%",
-    "글로벌시민단체유엔에\"SK텔레콤미얀마온실가스감축사업인증중단...",
-    "亞반도체주,中경쟁심화우려에급락…키옥시아장중10%대급락",
     "코스피,두달반만에6000선밑으로…장중매도사이드카발동",
     "올코스피외국인순매도200조돌파…지수는6000선‘붕괴’",
     "코스피,외국인매도에6000선붕괴…반도체주급락",
@@ -3310,10 +3314,14 @@
     "\"중국발충격이틀째\"…반도체지수5일연속하락,뉴욕증시약세[글로...",
     "삼성전자17조원·SK하이닉스14조원…자사주소각쏠림뚜렷",
     "금리공포에꺾인'AI랠리'…글로벌반도체투매쇼크에韓증시'휘청...",
-    "코스피·코스닥전거래일(13일)주요공시는...SK네트웍스\"업스테이지..."
+    "코스피·코스닥전거래일(13일)주요공시는...SK네트웍스\"업스테이지...",
+    "中메모리공세에美반도체주흔들…코스피반등부담",
+    "[기자수첩]해킹의역설,사회안전망역할부각",
+    "유럽증시,반도체주약세등영향하락⋯독일0.07%-영국0.06%약보합마...",
+    "노소영은'재산분할'맞상고안했다…최태원,'2440억만불복'"
    ],
    "initialized": true,
-   "last_run": "2026-10-14T06:45:23.952626+09:00"
+   "last_run": "2026-10-14T06:50:25.406363+09:00"
   }
  },
  "press_names": {
