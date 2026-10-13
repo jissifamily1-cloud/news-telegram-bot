@@ -778,20 +778,21 @@
     [
      "2026-10-13T08:55:22.213846+09:00",
      "Letter Slow October"
+    ],
+    [
+     "2026-10-13T09:00:45.464909+09:00",
+     "모레노 SNS에 이런 논란 남겼다 축구 대표팀 파벌"
+    ],
+    [
+     "2026-10-13T09:00:45.464909+09:00",
+     "항공유 SK에너지 움직이는 전투기 GS칼"
+    ],
+    [
+     "2026-10-13T09:00:45.464909+09:00",
+     "360만원 기대 유지 SK하이닉스 주주환원도 목표가 실적도"
     ]
    ],
    "seen_urls": [
-    "https://www.segye.com/newsView/20261012513745?OutUrl=naver",
-    "https://biz.sbs.co.kr/article_hub/20000339392?division=NAVER",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683205",
-    "http://www.osen.co.kr/article/G1112891521",
-    "https://www.newsworker.co.kr/news/articleView.html?idxno=508097",
-    "https://news.tf.co.kr/read/economy/2375156.htm",
-    "https://www.kado.net/news/articleView.html?idxno=2077486",
-    "https://www.edaily.co.kr/News/Read?newsId=03296406645612264&mediaCodeNo=257",
-    "http://www.4th.kr/news/articleView.html?idxno=2119569",
-    "https://www.m-i.kr/news/articleView.html?idxno=2004769",
-    "https://www.peoplewatch.co.kr/article/view/ppw202610120008",
     "http://www.inews24.com/view/2013931",
     "https://bizhankook.com/articles/gyeongbuk-bio-investment-platform.html",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=321933",
@@ -2280,20 +2281,20 @@
     "https://www.etnews.com/20261013000017",
     "https://www.ajunews.com/view/20261013084314299",
     "https://www.medicopharma.co.kr/news/articleView.html?idxno=69833",
-    "https://slownews.kr/167816"
+    "https://slownews.kr/167816",
+    "https://www.youthdaily.co.kr/news/article.html?no=228250",
+    "https://www.cstimes.com/news/articleView.html?idxno=723712",
+    "https://www.youthdaily.co.kr/news/article.html?no=228247",
+    "https://www.mt.co.kr/stock/2026/10/13/2026101308324828949",
+    "https://www.ziksir.com/news/articleView.html?idxno=149088",
+    "https://www.seoultimes.news/news/article.html?no=2000100796",
+    "https://www.etoday.co.kr/news/view/2634958",
+    "https://www.etoday.co.kr/news/view/2634961",
+    "https://www.wikitree.co.kr/articles/1165707",
+    "https://www.mediapen.com/news/view/1129431",
+    "https://www.newsis.com/view/NISX20261013_0003823209"
    ],
    "seen_titles": [
-    "\"더싼요금알려준다더니\"…최적요금제'함정'",
-    "인스콜라리,AI시대실행형인재위한‘혁신학’교육과정공개",
-    "삼성전자,분기영업익107조에도주가뒷걸음",
-    "[성공예감]삼전닉스물린투자자들,‘이익의저점’을봐야합니다-곽...",
-    "\"경기끝나면나가고,끝나면나가고\"모레노,답답할만했네...3주간의...",
-    "김정관산업부장관,군공항찾아'서남권반도체클러스터점검'",
-    "최태원\"이타심만으론한계…'새로운자본주의'전환앞당겨야\"",
-    "춘천공단오거리~한림성심병원19일부터전선지중화작업",
-    "최태원회장“성과기반인센티브로‘새로운자본주의’전환앞당겨...",
-    "최태원\"사회적가치창출보상받는새자본주의로전환해야\"",
-    "'사회적가치'10년실험…최태원\"새자본주의전환필요\"",
     "한은총재도\"국민께송구\"…레버리지ETF,도입경위규명만남았다",
     "최태원SK회장\"사회적가치보상받는새자본주의로전환해야\"",
     "경북전체를'투자플랫폼'으로…중국기업유치전략바꾼다",
@@ -3782,10 +3783,21 @@
     "지스트홀딩스-전남창업기술지주,한전·포스코등과지역첨단기술기업...",
     "[경제일보]대전생명서자산34조미래에셋생명으로…투자형보험사자...",
     "BMS,악티늄-225첫3상성공…SK바이오팜RPT전략에기준선",
-    "SlowLetter:October13,2026."
+    "SlowLetter:October13,2026.",
+    "발전·철강줄고,IT서비스급증…대기업탄소배출감소율2.0%로확대",
+    "SK증권\"에이피알,수익성부담은일시적…유럽시장침투에집중\"",
+    "주식팔고ETF는담고…외국인,국내증시수급‘온도차‘",
+    "\"SK하이닉스올해실적전망치상향조정…영업이익405조\"-하나",
+    "SK어스온,베트남서원유생산시작…추가원유확보가능성도확인",
+    "[뉴스앤데이터]대기업온실가스배출량2.5%감소…반도체·IT·방산...",
+    "‘HBM아버지’김정호KAIST교수,과학기술혁신대상수상",
+    "딜로이트안진,'글로벌인사·세무관리세미나'개최…해외파견세무...",
+    "모레노,축구대표팀파벌논란속SNS에'이런말'남겼다",
+    "[미르의알기쉬운비즈니스]美전투기움직이는韓항공유…SK에너지·GS칼...",
+    "SK하이닉스목표가360만원유지,왜?…\"실적도주주환원도기대\""
    ],
    "initialized": true,
-   "last_run": "2026-10-13T08:55:22.213846+09:00"
+   "last_run": "2026-10-13T09:00:45.464909+09:00"
   }
  },
  "press_names": {
