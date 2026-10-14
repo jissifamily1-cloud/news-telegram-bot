@@ -697,7 +697,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newscj.com/news/articleView.html?idxno=3440134",
     "http://www.finomy.com/news/articleView.html?idxno=263544",
     "https://www.naeil.com/news/read/605110",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=278749",
@@ -2196,10 +2195,10 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=872928",
     "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20261014&SEQUENCE=4377",
     "https://www.segye.com/newsView/20261014520362?OutUrl=naver",
-    "https://www.kdpress.co.kr/news/articleView.html?idxno=209297"
+    "https://www.kdpress.co.kr/news/articleView.html?idxno=209297",
+    "https://www.businessplus.kr/news/articleView.html?idxno=118196"
    ],
    "seen_titles": [
-    "'2026반도체대전'개막…삼성전자·SK하이닉스등300개사집결",
     "정부,조선M.AX얼라이언스출범…2030년까지1.4조투자",
     "전기차캐즘돌파기대…부품·소재주매수세확산'눈에띄네'",
     "[포토]SK하이닉스PCDRAM설명듣는관람객들",
@@ -3698,10 +3697,11 @@
     "에이클라,가종현신임대표이사선임...SKT·하이브거친전문가",
     "SK하이닉스셔틀버스잡아라..수백억운송시장'촉각'",
     "삼전닉스차세대기술총출동…‘SEDEX2026’16일까지열려",
-    "[주요공시]티피씨,대주전자재료,넥사다이내믹스,스피어,SNT에너지,..."
+    "[주요공시]티피씨,대주전자재료,넥사다이내믹스,스피어,SNT에너지,...",
+    "[비즈+]SK그룹,국내원전기업들과웨스팅하우스지분투자검토…컨소시..."
    ],
    "initialized": true,
-   "last_run": "2026-10-14T23:10:29.673547+09:00"
+   "last_run": "2026-10-14T23:15:25.448347+09:00"
   }
  },
  "press_names": {
