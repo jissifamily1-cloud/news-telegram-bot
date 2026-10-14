@@ -694,17 +694,21 @@
     [
      "2026-10-14T08:55:18.866690+09:00",
      "주요공시 13일 10월 주식시장"
+    ],
+    [
+     "2026-10-14T09:00:43.532993+09:00",
+     "위기에 6000선 붕괴 반전 증권가가"
+    ],
+    [
+     "2026-10-14T09:00:43.532993+09:00",
+     "출신 감사 축하해주셔서 결혼 SSG 치어리더 11월 이리안 최민준"
+    ],
+    [
+     "2026-10-14T09:00:43.532993+09:00",
+     "영향 받는데 나라도 흔들리나 크게 코스피만 다른 반도체"
     ]
    ],
    "seen_urls": [
-    "https://it.chosun.com/news/articleView.html?idxno=2023092171877",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=267715",
-    "https://www.yna.co.kr/view/AKR20261013095700001?input=1195m",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684209",
-    "https://www.hankyung.com/article/202610138492g",
-    "https://www.news2day.co.kr/article/20261013500121",
-    "http://kor.theasian.asia/archives/418338",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795022&plink=ORI&cooper=NAVER",
     "https://mhnse.com/news/articleView.html?idxno=1589809",
     "https://www.munhwa.com/article/11623125",
     "https://www.munhwa.com/article/11623121",
@@ -2196,17 +2200,17 @@
     "https://news.jtbc.co.kr/article/NB12322858?influxDiv=NAVER",
     "https://www.tokenpost.kr/news/tech/422286",
     "https://biz.heraldcorp.com/article/10901795",
-    "https://www.catchnews.kr/news/articleView.html?idxno=129248"
+    "https://www.catchnews.kr/news/articleView.html?idxno=129248",
+    "https://www.newsis.com/view/NISX20261014_0003824962",
+    "https://www.newspim.com/news/view/20261014000162",
+    "https://www.news2day.co.kr/article/20261014500056",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1727708",
+    "https://www.slist.kr/news/articleView.html?idxno=773239",
+    "https://magazine.hankyung.com/business/article/202610140389b",
+    "https://www.etoday.co.kr/news/view/2635480",
+    "https://www.mk.co.kr/article/12175144"
    ],
    "seen_titles": [
-    "{OpeningMarket]KOSPIFallsBelow6,000AmidForeignSelloff",
-    "대학부트캠프학생들,반도체·미래차산업현장찾는다",
-    "마포1164세대전세달랑‘2’…강남집값꺾였지만세입자고통[부동...",
-    "Hackerscrossindustries...Governmentresponsesvary",
-    "SK이노,베트남광구서첫원유생산…개발2년만에성과",
-    "野\"기업팔비틀기규명\"·與\"정쟁\"…'호남반도체'증인공방",
-    "코스피장중6,000선밑으로…‘매도사이드카’발동",
-    "\"삼성전자당분간은…\"충격전망에'반도체돈잔치'딜레마",
     "삼성전자,메모리값상승분보급형폰원가부담으로",
     "[아시아라운드업20261013]파키스탄\"비상사태주정부,아프간연관무...",
     "[12뉴스]오늘의주요뉴스",
@@ -3698,10 +3702,18 @@
     "외국인하루4조5천억팔았다…코스피장중7%대급락",
     "어플라이드머티어리얼즈,반도체연구에50억달러투자",
     "포스코퓨처엠,‘AI페스티벌’개최…“임직원AI활용성과공유”",
-    "10월13일주식시장주요공시"
+    "10월13일주식시장주요공시",
+    "SK이노베이션,베트남껀터에'서울숲4배'맹그로브숲추가조성",
+    "[모닝리포트]\"SK이노베이션,에너지인플레수혜부각\"",
+    "“내년코스피1만선도전…반도체실적·外人수급관건”<유안타證>",
+    "[서학개미안테나]창신메모리發반도체급락…월가\"차익실현구실일...",
+    "SK스토아,AI음성·실시간소통결합한패션프로그램'패라스'론칭",
+    "“6000선붕괴위기에”증권가가본반전",
+    "SSG최민준ㆍ치어리더출신이리안,11월결혼⋯“축하해주셔서감사”",
+    "다른나라도반도체영향받는데…왜코스피만더크게흔들리나"
    ],
    "initialized": true,
-   "last_run": "2026-10-14T08:55:18.866690+09:00"
+   "last_run": "2026-10-14T09:00:43.532993+09:00"
   }
  },
  "press_names": {
