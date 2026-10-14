@@ -470,14 +470,25 @@
     [
      "2026-10-15T07:50:26.278469+09:00",
      "원전 차세대 삼성 반도체 배터리 청사진 공개"
+    ],
+    [
+     "2026-10-15T07:55:20.277301+09:00",
+     "소폭 상승 삼전 대양금속 SK하닉 상한가"
+    ],
+    [
+     "2026-10-15T07:55:20.277301+09:00",
+     "VOD 공개 스트라이크 럭키"
+    ],
+    [
+     "2026-10-15T07:55:20.277301+09:00",
+     "발언 반도체 테마에 압력 일론 머스크 가중 폭탄 하락"
+    ],
+    [
+     "2026-10-15T07:55:20.277301+09:00",
+     "SK하이닉스 공급 공업용수 894억원 청주시와 협약"
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1701400/?sc=Naver",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=424292",
-    "https://www.etnews.com/20261014000215",
-    "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523681",
-    "https://www.naeil.com/news/read/605003",
     "https://www.wikitree.co.kr/articles/1166115",
     "https://www.goal.com/kr/뉴스/a/blt916f64f237cccae1",
     "https://sports.khan.co.kr/article/202610141308003?pt=nv",
@@ -1972,14 +1983,14 @@
     "https://www.tjb.co.kr/news05/bodo/view/id/104827",
     "https://www.businessplus.kr/news/articleView.html?idxno=118198",
     "https://www.gukjenews.com/news/articleView.html?idxno=3721973",
-    "https://www.etoday.co.kr/news/view/2635936"
+    "https://www.etoday.co.kr/news/view/2635936",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1727882",
+    "https://www.etoday.co.kr/news/view/2635938",
+    "https://www.bntnews.co.kr/article/view/bnt202610150047",
+    "https://www.mediapen.com/news/view/1130011",
+    "http://www.kjdaily.com/article.php?aid=1792018086689139276"
    ],
    "seen_titles": [
-    "[현장]'zHBM'삼성vs'젠슨황서명'SK…반도체대전뜨거운열기",
-    "안현SK하이닉스사장\"메모리계층최적화로데이터병목극복해야\"",
-    "안현SK하이닉스사장,반도체대전기조강연",
-    "SEDEX2026서기조강연하는안현사장",
-    "안현SK하이닉스사장,반도체미래비전제시",
     "SK하이닉스안현사장\"HBM넘어3DD램·HBF로…AI메모리계층최적화...",
     "[SEDEX·KES2026]안현SK하이닉스사장\"2030년AI인프라20배커진다\"",
     "[현장]SK하이닉스안현사장\"또다른메모리병목발생…3DD램·HBF로돌...",
@@ -3474,10 +3485,15 @@
     "9월CPI쇼크에인플레우려고조...뉴욕증시일제하락",
     "[요즘테크+/⑧]'모두의AI'본격화…사업자준비속정책일관성시험대",
     "'나는솔로'34기영철공무원→상철'SK하닉'...나이와직업공개",
-    "[증시키워드]삼성·SK차세대반도체청사진공개…원전·배터리등주..."
+    "[증시키워드]삼성·SK차세대반도체청사진공개…원전·배터리등주...",
+    "위성·AI·센싱결합한6G…삼성전자,차세대통신주도권노린다",
+    "[전날애프터마켓]대양금속상한가…삼전·SK하닉소폭상승",
+    "‘럭키스트라이크’오늘VOD공개",
+    "[美증시]일론머스크발언폭탄...반도체등AI테마에하락압력가중",
+    "SK하이닉스,청주시와894억원공업용수공급협약"
    ],
    "initialized": true,
-   "last_run": "2026-10-15T07:50:26.278469+09:00"
+   "last_run": "2026-10-15T07:55:20.277301+09:00"
   }
  },
  "press_names": {
