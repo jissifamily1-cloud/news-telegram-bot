@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-14T05:35:19.924545+09:00",
-     "실망 은행 반도체 실적 공세 나스닥"
-    ],
-    [
-     "2026-10-14T05:35:19.924545+09:00",
-     "29일 DC부터 OT보안까지 오른다 인프라 프런티어"
-    ],
-    [
      "2026-10-14T05:40:27.274626+09:00",
      "메모리주 반도체주 뉴욕증시 vs 주요 AI칩주 상승"
     ],
@@ -1150,14 +1142,17 @@
     [
      "2026-10-14T11:30:33.817703+09:00",
      "용인특례시장 반도체클러스터 교통망 장관에 성공 국토부 이상일"
+    ],
+    [
+     "2026-10-14T11:40:26.367306+09:00",
+     "삼성전자 매수 외국인 기관 동반 HMM도 한온시스템"
+    ],
+    [
+     "2026-10-14T11:40:26.367306+09:00",
+     "가능 낸드 SK하이닉스 연산 넘어 매체로 확장 저장"
     ]
    ],
    "seen_urls": [
-    "http://www.metroseoul.co.kr/article/20261013500459",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7188700",
-    "http://www.iminju.net/news/articleView.html?idxno=170767",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1414290",
-    "https://zdnet.co.kr/view/?no=20261013155522",
     "https://www.news1.kr/politics/president/6318413",
     "https://www.hidomin.com/news/articleView.html?idxno=724698",
     "https://www.mediapen.com/news/view/1129620",
@@ -2652,14 +2647,14 @@
     "http://www.seouleconews.com/news/articleView.html?idxno=94322",
     "https://en.yna.co.kr/view/AEN20261014004700320?input=2106m",
     "https://www.widedaily.com/news/articleView.html?idxno=301957",
-    "https://www.ekn.kr/web/view.php?key=20261014027516023"
+    "https://www.ekn.kr/web/view.php?key=20261014027516023",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610140067&t=NN",
+    "https://www.kbmaeil.com/article/20261014500292",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=302624",
+    "https://www.newstnt.com/news/articleView.html?idxno=722843",
+    "http://www.4th.kr/news/articleView.html?idxno=2119709"
    ],
    "seen_titles": [
-    "[김노천의베쓰볼]6위로돌아온SSG,가을의저력으로청라의미래를열...",
-    "SK하이닉스2배레버리지상품20.43%하락보도",
-    "딜로이트안진,해외인력운영변화에따른인사·세무관리세미나개...",
-    "外人반도체투매에코스피5%급락…6000선턱걸이",
-    "코스피,5.46%급락한6035.35마감…원·달러환율1345.1원",
     "\"해킹후폭풍끝?\"SKT·KT·LGU+,3Q영업익1조3000억돌파전망",
     "中CXMT,차세대메모리기술약진…삼성·SK하이닉스긴장",
     "李대통령,북극항로귀항식서\"해수부기능강화…남부해양수도권육성...",
@@ -4154,10 +4149,15 @@
     "삼성·SK하이닉스,中CXMT4F²추격주시...서버D램방어시험대",
     "SeoulsharesreboundlateWed.morningontechgains",
     "삼성전자·SK하이닉스덮친'기술도태'우려…AI전환기맞은반도체투...",
-    "노소영맞상고포기…최태원,재산분할2440억원만대법서다툰다"
+    "노소영맞상고포기…최태원,재산분할2440억원만대법서다툰다",
+    "삼전닉스흔든중국CXMT…기술력인가과장인가",
+    "안동시,자체통신망구축본격화…연간통신비11억원절감전망",
+    "HL디앤아이한라,청주신분평에피트더웨이시티992세대공급…16일견...",
+    "[특징주]외국인·기관,한온시스템동반매수…삼성전자·HMM도매수상...",
+    "SK하이닉스\"낸드,저장넘어AI연산매체로확장가능\""
    ],
    "initialized": true,
-   "last_run": "2026-10-14T11:35:19.816932+09:00"
+   "last_run": "2026-10-14T11:40:26.367306+09:00"
   }
  },
  "press_names": {
