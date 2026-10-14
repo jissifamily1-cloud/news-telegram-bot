@@ -1474,14 +1474,17 @@
     [
      "2026-10-14T18:45:24.181085+09:00",
      "엔비디아 HBM4 슈퍼칩에 탑재되는"
+    ],
+    [
+     "2026-10-14T18:50:24.384130+09:00",
+     "최적화로 견인 성장 메모리 SK하이닉스"
+    ],
+    [
+     "2026-10-14T18:50:24.384130+09:00",
+     "청사진만 공개 양산까지 최소 제품사양 CXMT 내놔도 없이 시제품"
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495118",
-    "http://www.ddanzi.com/896900839",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=729205",
-    "https://www.fnnews.com/news/202610140945224523",
-    "http://www.newslock.co.kr/news/articleView.html?idxno=137853",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=872597",
     "https://www.joongangenews.com/news/articleView.html?idxno=554774",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7188782",
@@ -2976,14 +2979,14 @@
     "https://www.gukjenews.com/news/articleView.html?idxno=3721720",
     "https://www.rcast.co.kr/news/articleView.html?idxno=31814",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=302668",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480024"
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480024",
+    "http://www.jndn.com/article.php?aid=1791971122441207001",
+    "https://www.ccdn.co.kr/news/articleView.html?idxno=1104834",
+    "https://www.nocutnews.co.kr/news/6591625",
+    "https://www.ccdn.co.kr/news/articleView.html?idxno=1104838",
+    "https://www.sedaily.com/article/20101708"
    ],
    "seen_titles": [
-    "반도체,이익전망대비과도한하락…\"분할매수대응“",
-    "티앤씨재단,경남거제서'밥먹차'운영…수해피해240명식사제공",
-    "삼전·닉스,전날급락딛고장초반2∼3%대상승",
-    "전날급락코스피,상승출발…1∼2%대오름세",
-    "“AI반도체전력·성능한계깬다”…정부,차세대반도체개발본격화",
     "'검은화요일'딛고코스피2%대반등…외국인7거래일만에'사자'",
     "SK이노,베트남맹그로브숲확대…기후대응나서",
     "[개장]저가매수나선외국인…코스피,2%올라6100선회복",
@@ -4478,10 +4481,15 @@
     "울산시,21개기업과사회공헌협약체결…지역나눔실천",
     "우양상선,발레25년장기일감확보…2조2천억규모4척발주",
     "\"3분기영업이익9230억'쇼크'?…HD현대중공업,환율·휴가악재넘어...",
-    "[포토]엔비디아슈퍼칩에탑재되는HBM4"
+    "[포토]엔비디아슈퍼칩에탑재되는HBM4",
+    "호남반도체산단1단계63만평내년첫삽…토사공급윤곽",
+    "충북반도체기업4곳,공동관운영",
+    "청주시,SK하이닉스와894억원공업용수부담금협약체결",
+    "SK하이닉스\"메모리최적화로AI성장견인\"",
+    "中CXMT,제품사양공개없이청사진만…“시제품내놔도양산까지최소..."
    ],
    "initialized": true,
-   "last_run": "2026-10-14T18:45:24.181085+09:00"
+   "last_run": "2026-10-14T18:50:24.384130+09:00"
   }
  },
  "press_names": {
