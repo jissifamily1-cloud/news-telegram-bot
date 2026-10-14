@@ -698,19 +698,17 @@
     [
      "2026-10-15T08:45:24.223081+09:00",
      "다시 코스피 6000선 시험대"
+    ],
+    [
+     "2026-10-15T08:50:26.832346+09:00",
+     "LFP 부담 기대에도 엘앤에프 하락에 적자전환 리튬값 성장 3분기"
+    ],
+    [
+     "2026-10-15T08:50:26.832346+09:00",
+     "10월 14일 주요공시 주식시장"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/202610141354h",
-    "https://www.fnnews.com/news/202610141325128819",
-    "https://en.yna.co.kr/view/AEN20261014005300320?input=2106m",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=729226",
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4112174",
-    "http://www.srtimes.kr/news/articleView.html?idxno=214719",
-    "https://www.socialvalue.kr/news/view/1065588253801962",
-    "https://news.mtn.co.kr/article/2026101411550288347",
-    "http://www.iminju.net/news/articleView.html?idxno=170833",
-    "https://www.m-i.kr/news/articleView.html?idxno=2005788",
     "https://www.newsis.com/view/NISX20261014_0003825570",
     "https://news.tf.co.kr/read/economy/2376100.htm",
     "https://www.etnews.com/20261014000262",
@@ -2200,19 +2198,19 @@
     "https://www.newspim.com/news/view/20261015000109",
     "https://www.yna.co.kr/view/AKR20261015025200003?input=1195m",
     "https://www.slist.kr/news/articleView.html?idxno=773590",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=313187"
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=313187",
+    "https://www.insight.co.kr/news/577805",
+    "https://www.newsis.com/view/NISX20261015_0003826622",
+    "https://www.fnnews.com/news/202610150829444191",
+    "https://www.sedaily.com/article/20101783",
+    "https://kpenews.com/View.aspx?No=4264296",
+    "https://www.viva100.com/article/20261015500098",
+    "https://www.edaily.co.kr/News/Read?newsId=02728966645613248&mediaCodeNo=257",
+    "https://www.busan.com/view/busan/view.php?code=2026101508401545529",
+    "http://www.newsprime.co.kr/news/article.html?no=751028",
+    "https://www.catchnews.kr/news/articleView.html?idxno=129308"
    ],
    "seen_titles": [
-    "삼성전자우선주소각압박확산…해외선ADR발행까지제안",
-    "AI시대모빌리티로봇의미래...FIX2026,21일대구서개막",
-    "머스크\"마이크론제외메모리업체,터무니없는가격요구\"…삼전닉스...",
-    "CESorganizerhighlightsS.Koreanfirms'AIinnovationaheadof2027s",
-    "5GSA연내상용화…속도·배터리·요금뭐가달라지나",
-    "[인터뷰]이상식충북도의장\"올바른의정의기반은의정비...3.5%인상...",
-    "HL디앤아이한라,청주'신분평에피트더웨이시티'견본주택16일개관",
-    "SK이노베이션,베트남껀터시에‘아시아의허파’심는다",
-    "월가구루\"코스피,6~12개월내전고점돌파…외인매도세끝나가\"",
-    "안현SK하이닉스사장\"메모리계층최적화…3DD램·HBF시대온다\"",
     "저가부터첨단까지中공습…K-산업,'고부가·기술혁신'승부수",
     "울산연구원\"AI데이터센터,지역상생형모델로\"",
     "공모가보다60%추락…더본코리아,적자에법인재판까지이중고",
@@ -3702,10 +3700,20 @@
     "[모닝리포트]\"SK가스,900억자사주소각·특별배당검토…주주환원확...",
     "삼성전자실리콘밸리미래통신서밋개최…차세대네트워크조명",
     "카드고릴라,통신비절약설문'알뜰폰이용'1위…혜택카드활용17.6%",
-    "코스피6000선다시시험대"
+    "코스피6000선다시시험대",
+    "SK텔레콤,AI-RAN무인이송기술로국제상...2027년완성차공장실증",
+    "자율주행칩없는일반車도무인이동…SKT'AI-RAN'글로벌혁신상",
+    "최태원\"한·일경제공동체구축해야…에너지·AI공동대응\"",
+    "최태원지분사는마이클델…엔비디아로이어진파트너십관계확대",
+    "삼성전자·SK하이닉스,차세대AI반도체주도권노린다..첨단솔루션공...",
+    "삼성전자,美실리콘밸리서글로벌통신업계와6G협력논의",
+    "美CPI충격에…삼성전자6%·SK하이닉스8%급락",
+    "삼전닉스프리마켓서동반급락…SK하이닉스시총1000조원하회",
+    "엘앤에프,리튬값하락에3분기'적자전환'…LFP성장기대에도부담",
+    "10월14일주식시장주요공시"
    ],
    "initialized": true,
-   "last_run": "2026-10-15T08:45:24.223081+09:00"
+   "last_run": "2026-10-15T08:50:26.832346+09:00"
   }
  },
  "press_names": {
