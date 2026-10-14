@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-14T23:45:24.981148+09:00",
-     "신세계면세점 SK스토아 우아한형제들 타오바오 GS25"
-    ],
-    [
      "2026-10-14T23:55:22.821669+09:00",
      "노린다 원전 핵심기술 대형 확보 수직계열화"
     ],
@@ -262,11 +258,17 @@
     [
      "2026-10-15T05:40:25.023430+09:00",
      "사업 내년 변화하는 답이 하지 사회공헌 현장에 있다"
+    ],
+    [
+     "2026-10-15T05:45:26.003299+09:00",
+     "한다 화병도 주목해야 돌봄제공자의 돌봄을돌보다 분노와"
+    ],
+    [
+     "2026-10-15T05:45:26.003299+09:00",
+     "SK하이닉 나스닥 뉴욕증시 물가 충격에 급락"
     ]
    ],
    "seen_urls": [
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000022449&cp=nv",
-    "https://www.slist.kr/news/articleView.html?idxno=773332",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=395264",
     "http://www.yonhapnewstv.co.kr/news/MYH202610141144500Jo",
     "https://biz.sbs.co.kr/article_hub/20000339864?division=NAVER",
@@ -1764,11 +1766,11 @@
     "https://www.joongang.co.kr/article/25469864",
     "https://www.joongang.co.kr/article/25469866",
     "https://www.joongang.co.kr/article/25469868",
-    "https://www.joongang.co.kr/article/25469865"
+    "https://www.joongang.co.kr/article/25469865",
+    "http://www.mjmedi.com/news/articleView.html?idxno=63245",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=7274"
    ],
    "seen_titles": [
-    "107조벌어도밀린삼전…코스피,55조자사주방패걷히자6000선출렁",
-    "IMF,韓부채전망'54.4→46.1%'하향…\"성장·세입개선반영\"",
     "[GOAL현장]‘전북총력전예고’콤파뇨-티아고-모따-이탈로-도도출격...",
     "이상일용인특례시장,반도체클러스터성공위해국토부장관에교통망...",
     "'2년연속MVP도전'이동경,6경기이어5경기연속공격포인트사냥…...",
@@ -3266,10 +3268,12 @@
     "[더버터]돌봄공백,기술이연결하고이웃이돌본다",
     "[더버터]돌봄공백메우고재난막는스타트업…기술에도온도가있다",
     "[더버터]일상의문제,스타트업과함께푼다",
-    "[더버터]내년사회공헌사업뭐하지?변화하는현장에답이있다"
+    "[더버터]내년사회공헌사업뭐하지?변화하는현장에답이있다",
+    "돌봄을돌보다(10)돌봄제공자의분노와화병도주목해야한다",
+    "[글로벌마켓뷰]美물가충격에뉴욕증시급락…나스닥1.88%↓·SK하이닉..."
    ],
    "initialized": true,
-   "last_run": "2026-10-15T05:40:25.023430+09:00"
+   "last_run": "2026-10-15T05:45:26.003299+09:00"
   }
  },
  "press_names": {
