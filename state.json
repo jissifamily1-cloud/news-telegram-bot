@@ -802,19 +802,17 @@
     [
      "2026-10-14T09:20:25.200837+09:00",
      "50곳 임원 보수 2억 상반기 업체 정보통신 넘어 LG"
+    ],
+    [
+     "2026-10-14T09:25:18.930957+09:00",
+     "Seoul losses LEAD shares higher start concerns despite Street Wall"
+    ],
+    [
+     "2026-10-14T09:25:18.930957+09:00",
+     "부담 현실화해야 세제 낡은 이광재 촉구 의원 근로소득자 완화"
     ]
    ],
    "seen_urls": [
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272884&CMPT_CD=P0010",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=96953",
-    "https://www.newsway.co.kr/news/view?ud=2026101310394992771",
-    "https://news.jtbc.co.kr/article/NB12322719?influxDiv=NAVER",
-    "https://www.kmaeil.com/news/articleView.html?idxno=654099",
-    "https://www.mk.co.kr/article/12174352",
-    "http://www.bokuennews.com/news/article.html?no=285410",
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=240724",
-    "https://www.yna.co.kr/view/AKR20261013101400008?input=1195m",
-    "https://jp.yna.co.kr/view/AJP20261013000900882?input=1728m",
     "https://www.news1.kr/finance/general-stock/6318252",
     "https://www.nspna.com/cn/news/?newsid=831422",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=856308",
@@ -2304,19 +2302,19 @@
     "https://www.mt.co.kr/stock/2026/10/14/2026101409144832740",
     "https://www.dt.co.kr/article/12088957",
     "https://www.seoul.co.kr/news/economy/securities/2026/10/14/20261014500020?wlog_tag3=naver",
-    "https://www.greened.kr/news/articleView.html?idxno=351998"
+    "https://www.greened.kr/news/articleView.html?idxno=351998",
+    "https://www.viva100.com/article/20261014500302",
+    "https://www.tjb.co.kr/news05/bodo/view/id/104776",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=883443",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495095",
+    "https://news.tf.co.kr/read/economy/2375962.htm",
+    "https://www.yna.co.kr/view/AKR20261014041200008?input=1195m",
+    "https://www.fnnews.com/news/202610140835153874",
+    "https://www.newspim.com/news/view/20261014000195",
+    "https://en.yna.co.kr/view/AEN20261014001551320?input=2106m",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071428"
    ],
    "seen_titles": [
-    "[서울데이터랩]코스피장중6000선붕괴…반도체주급락에외국인매도...",
-    "[경제읽기]코스피급락에'매도사이드카'…장중6천선붕괴",
-    "직원마음챙기겠다는기업들이빠뜨린것[ESG세상]",
-    "수출71.5%대박났는데...프랑스약국에서감지된위기[목수정의바스...",
-    "코스피6%대급락에전문가,'과매도'진단…외국인매도는당분간지속",
-    "최태원,도쿄포럼서한일반도체협력모색…SK하이닉스日거점주목",
-    "일론머스크\"중국이기술확보하면생산막강\"…차세대D램따라잡힐판",
-    "[2026국감]'반도체경쟁력'주52시간예외국감서다시쟁점",
-    "SK하이닉스급락에도…하나證“360만원간다”[오늘,이종목",
-    "허리·목통증,척추질환신호일수있어주의필요",
     "SK어스온,베트남서원유생산확대…추산자원량6000만배럴",
     "코스피연일급락에공포지수23%급등…시총5천조원깨져",
     "韓日協力を模索「未来経済フォーラム」参加受け付け開始＝ソウルで11...",
@@ -3806,10 +3804,20 @@
     "중국기술추격에급락했던삼전닉스,장초반나란히상승",
     "5거래일급락뒤코스피반등…삼전·SK하닉2~3%대↑",
     "삼성전자·SK하이닉스에쏠린관심…검색상위20개는상승·하락반반",
-    "[데이터뉴스룸]정보통신업체50곳올상반기임원보수2억넘어…LG..."
+    "[데이터뉴스룸]정보통신업체50곳올상반기임원보수2억넘어…LG...",
+    "[개장시황]코스피,전날폭락딛고1.9%반등⋯6150선회복",
+    "\"차세대반도체원천기술확보\"…'K-문샷'반도체미션완료도전",
+    "SK어스온,베트남'황금낙타'구조서첫원유생산",
+    "코스피,이틀간급락뒤6130선반등...반도체대형주동반강세",
+    "SK이노베이션,베트남에맹그로브숲200헥타르조성",
+    "[특징주]삼전·닉스,전날급락딛고장초반2∼3%대상승",
+    "삼전닉스급락에도...\"지금이저점,실적이W자반등이끌것\"",
+    "[모닝리포트]\"코스피,5거래일급락끝반등시도…저가매수기대\"",
+    "(LEAD)SeoulsharesstarthigherdespiteWallStreetlosses,AIconcer",
+    "이광재의원\"낡은세제현실화해야\"…근로소득자세부담완화촉구"
    ],
    "initialized": true,
-   "last_run": "2026-10-14T09:20:25.200837+09:00"
+   "last_run": "2026-10-14T09:25:18.930957+09:00"
   }
  },
  "press_names": {
