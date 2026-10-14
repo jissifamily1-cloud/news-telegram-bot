@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-15T00:45:26.575243+09:00",
-     "인프라 HBM만으론 폭증 SK하닉 부족 안현"
-    ],
-    [
-     "2026-10-15T00:45:26.575243+09:00",
-     "중앙환경분쟁조정위원장 별세 환경부 박종건"
-    ],
-    [
      "2026-10-15T01:10:27.120840+09:00",
      "찍은 기업 하이닉스 엔비디아 아이브스 머스크"
     ],
@@ -298,14 +290,17 @@
     [
      "2026-10-15T06:45:23.540783+09:00",
      "한전 지원 대기업 기술기업 협력 투자유치 지역"
+    ],
+    [
+     "2026-10-15T06:50:26.057802+09:00",
+     "추돌 평화로서 사고 중경상 다중 16명 제주"
+    ],
+    [
+     "2026-10-15T06:50:26.057802+09:00",
+     "울상 정유 4사 국감서 정제마진 호재에도 질타받은"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=03516166645612920&mediaCodeNo=257",
-    "https://www.edaily.co.kr/News/Read?newsId=03509606645612920&mediaCodeNo=257",
-    "https://www.pressman.kr/news/articleView.html?idxno=103991",
-    "https://www.thisisgame.com/articles/430931",
-    "https://www.imaeil.com/page/view/2026101412105038849",
     "https://www.xportsnews.com/article/2207330",
     "https://www.joongangenews.com/news/articleView.html?idxno=554911",
     "https://www.nocutnews.co.kr/news/6591268",
@@ -1800,14 +1795,14 @@
     "https://www.moneystorm.kr/news/articleView.html?idxno=7275",
     "https://biz.heraldcorp.com/article/10902933",
     "https://www.newspim.com/news/view/20261015000039",
-    "https://www.electimes.com/news/articleView.html?idxno=373440"
+    "https://www.electimes.com/news/articleView.html?idxno=373440",
+    "https://www.slist.kr/news/articleView.html?idxno=773492",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=883575",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1727876",
+    "https://www.safetimes.co.kr/news/articleView.html?idxno=246319",
+    "https://www.newstopkorea.com/news/articleView.html?idxno=48180"
    ],
    "seen_titles": [
-    "하방압력커진코스피…중동확전공포에7000선복귀'가시밭길'",
-    "머스크“마이크론빼고메모리값터무니없어”…삼전닉스저격?",
-    "“삼전닉스10조팔고소부장샀다”…外人순매수10개중7개반도체...",
-    "SK이노베이션,베트남숲복원확대…생태계보전·일자리창출",
-    "[현장]AI반도체기술총집결…'SEDEX2026'개막",
     "[현장]AI반도체기술한자리에…'SEDEX2026'역대최대규모개막",
     "한화오션불안한실적...목표주가잇단하향[오늘,이종목]",
     "같은반세권인데청약성적125배…입지끝판왕동탄에청약통장몰려",
@@ -3302,10 +3297,15 @@
     "SK·삼성·현대'원전팀코리아'뭉친다…웨스팅하우스에최대4조투자",
     "뉴욕증시,물가충격·반도체약세에하락…나스닥1.9%급락",
     "[미국특징주]델11%급락…기업용AI수요지연우려에데이터센터주...",
-    "한전,지역기술기업투자유치·대기업협력지원"
+    "한전,지역기술기업투자유치·대기업협력지원",
+    "뉴욕증시,물가충격·반도체약세에하락…나스닥1.9%↓",
+    "뉴욕증시,물가상승·반도체약세에하락…나스닥1.9%↓",
+    "美물가·반도체악재에코스피살얼음판…반등동력기로",
+    "[안전상황실·15일]제주평화로서다중추돌사고…16명중경상",
+    "국감서질타받은정유4사...정제마진호재에도'울상'"
    ],
    "initialized": true,
-   "last_run": "2026-10-15T06:45:23.540783+09:00"
+   "last_run": "2026-10-15T06:50:26.057802+09:00"
   }
  },
  "press_names": {
