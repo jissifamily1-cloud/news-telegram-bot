@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-14T08:00:40.887773+09:00",
-     "대표 공략 삼성물산 확장 SMR 오세철 시장 미래먹거리"
-    ],
-    [
-     "2026-10-14T08:00:40.887773+09:00",
-     "메모리 하락에 가능 투자 반도체주 반등 불안까지 가격"
-    ],
-    [
-     "2026-10-14T08:00:40.887773+09:00",
-     "LS머트리얼즈 코스피 신한지주 SK네트웍스 삼성전자 대우건설 코스닥"
-    ],
-    [
      "2026-10-14T08:05:20.064654+09:00",
      "잉여현금흐름 고배당 기업 280개 불과 플러스는 168개"
     ],
@@ -1194,15 +1182,17 @@
     [
      "2026-10-14T13:55:21.180029+09:00",
      "긍정적 롯데손보 대상 신용등급 등록 한기평 검토"
+    ],
+    [
+     "2026-10-14T14:00:43.875568+09:00",
+     "시장 침구 노크 배경 SK케미칼 매트리스"
+    ],
+    [
+     "2026-10-14T14:00:43.875568+09:00",
+     "bottlenecks hynix to HBM memory tackle looks beyond"
     ]
    ],
    "seen_urls": [
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=395193",
-    "https://www.khan.co.kr/article/202610131721001",
-    "https://biz.sbs.co.kr/article_hub/20000339720?division=NAVER",
-    "https://www.insightkorea.co.kr/news/articleView.html?idxno=256410",
-    "https://www.dt.co.kr/article/12088871",
-    "http://www.yonhapnewstv.co.kr/news/MYH202610131718496Ka",
     "http://www.thevaluenews.co.kr/news/view.php?idx=202279",
     "https://www.ezyeconomy.com/news/articleView.html?idxno=240736",
     "https://biz.heraldcorp.com/article/10901413",
@@ -2696,15 +2686,15 @@
     "https://www.newspim.com/news/view/20261014000884",
     "http://www.newstomato.com/ReadNews.aspx?no=1316168&inflow=N",
     "https://www.thepublic.kr/news/articleView.html?idxno=322208",
-    "https://www.junggi.co.kr/news/articleView.html?idxno=38080"
+    "https://www.junggi.co.kr/news/articleView.html?idxno=38080",
+    "https://www.news1.kr/photos/8158392",
+    "https://www.joongangenews.com/news/articleView.html?idxno=554940",
+    "https://www.mediapen.com/news/view/1129843",
+    "https://www.edaily.co.kr/News/Read?newsId=03768726645612920&mediaCodeNo=257",
+    "https://www.newsq.co.kr/news/articleView.html?idxno=500433",
+    "https://www.koreaherald.com/article/10902362"
    ],
    "seen_titles": [
-    "[마감시황]외국인4.5조매도에코스피5.46%급락…6000선턱걸이",
-    "코스피장중6천선깨져…매도사이드카도",
-    "통신3사연간영업익5조보인다…일회성털고반등",
-    "외국인,올해국내주식200조넘게팔았지만ETF계속샀다(종합)",
-    "SNS부터타운홀까지…통신3사CEO의소통법'눈길'",
-    "이마트천호점부지재개발…현대百·롯데마트웃을까...천호역유통상...",
     "'검은화요일'코스피5.46%폭락…닷새만에시총796조증발",
     "'검은화요일'외인4.5조팔아치웠다…코스피6,000선턱걸이",
     "삼전·닉스ETF20%넘게급락…개인은1259억원순매수",
@@ -4198,10 +4188,16 @@
     "AI와바둑두는관람객들",
     "데이터트래픽3년새46%늘었는데…통신3사설비투자올해도감소",
     "닷새만에1000포인트증발한코스피…6000선도붕괴",
-    "한기평,롯데손보신용등급긍정적검토대상등록"
+    "한기평,롯데손보신용등급긍정적검토대상등록",
+    "안현sk하이닉스사장\"AI는이제시작…대한민국에절호의찬스\"",
+    "AI반도체설계부터양산까지...에이직랜드,SEDEX서차세대AI반도체솔...",
+    "SK하이닉스안현사장\"HBM넘어전체메모리계층최적화로AI병목깬다...",
+    "상승폭키우는코스피…'이재용증여'삼전2%대상승세",
+    "SK케미칼매트리스?침구시장노크배경[뉴스Q]",
+    "SKhynixlooksbeyondHBMtotackleAImemorybottlenecks"
    ],
    "initialized": true,
-   "last_run": "2026-10-14T13:55:21.180029+09:00"
+   "last_run": "2026-10-14T14:00:43.875568+09:00"
   }
  },
  "press_names": {
