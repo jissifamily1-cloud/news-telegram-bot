@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-15T16:45:26.358029+09:00",
-     "장동혁 국민의힘 15일 욕설까지 최고위원회의 살벌했던 격분해"
-    ],
-    [
-     "2026-10-15T16:45:26.358029+09:00",
-     "웨스팅하우스와 노리 전력난에 원전까지 풀스택"
-    ],
-    [
-     "2026-10-15T16:45:26.358029+09:00",
-     "주인은 기업의 시대 누구인가"
-    ],
-    [
      "2026-10-15T16:50:26.699262+09:00",
      "대비 반토막 하이닉스만 담았는데 고점 급락 2주새"
     ],
@@ -653,8 +641,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.kukinews.com/article/view/kuk202610150056",
-    "http://www.seouleconews.com/news/articleView.html?idxno=94346",
     "http://www.efnews.co.kr/news/articleView.html?idxno=133146",
     "https://biz.heraldcorp.com/article/10903389",
     "https://www.ekn.kr/web/view.php?key=20261015024466534",
@@ -2152,11 +2138,11 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=873346",
     "https://www.newspim.com/news/view/20261015001321",
     "https://www.khan.co.kr/article/202610152223025",
-    "https://www.newspim.com/news/view/20261015001327"
+    "https://www.newspim.com/news/view/20261015001327",
+    "https://www.tokenpost.kr/news/breaking/422938",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16248382"
    ],
    "seen_titles": [
-    "SK텔레콤,비엔나네트워크엑스어워드서5G혁신서비스상수상",
-    "나라살림적자43조원,8년만에최소…반도체호황에세수69조원급증",
     "美中한풍에코스피,5대%↓5,600선'털썩'...삼전닉스6∼9%대↓",
     "삼성전자,美실리콘밸리서'미래통신서밋'개최…AI·6G기술협력강...",
     "“코스피,6~12개월내전고점돌파할것”파격전망…‘월가족집게’...",
@@ -3654,10 +3640,12 @@
     "국토부장관군공항점검…'광주반도체팹'기반시설구축속도",
     "삼성·SK하이닉스주가폭락…中반도체추격에'2029년공급과잉'경고...",
     "국내증시7%넘게‘곤두박질’",
-    "[AIMY뉴스]뉴욕반도체주프리뷰...TSMC호실적도못막은AI주매도세"
+    "[AIMY뉴스]뉴욕반도체주프리뷰...TSMC호실적도못막은AI주매도세",
+    "나스닥1.29%하락…SK하이닉스·샌디스크도6%급락",
+    "미국증시,나스닥1.24%급락·다우상승…엔비디아·SK하이닉스반도체..."
    ],
    "initialized": true,
-   "last_run": "2026-10-15T22:40:27.670934+09:00"
+   "last_run": "2026-10-15T22:45:26.496623+09:00"
   }
  },
  "press_names": {
