@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-15T07:00:40.822795+09:00",
-     "headlines in newspapers major Korean Top"
-    ],
-    [
-     "2026-10-15T07:00:40.822795+09:00",
-     "9월 전년대비 예상치 상승 웃돌아 CPI"
-    ],
-    [
-     "2026-10-15T07:00:40.822795+09:00",
-     "거품 털썩 충격 속슬 기술주 우려 CPI"
-    ],
-    [
      "2026-10-15T07:05:22.384445+09:00",
      "담합 현대오일뱅크 공정위 규모 SK에너지 기름값 44조1000억"
     ],
@@ -1278,15 +1266,17 @@
     [
      "2026-10-15T12:55:19.631607+09:00",
      "가치 상승은 17조원 누구의 자회사 SK바이오팜"
+    ],
+    [
+     "2026-10-15T13:00:41.754656+09:00",
+     "레버리지 맞나보다 나오지 상품 닉스 말았어야했을 상장일"
+    ],
+    [
+     "2026-10-15T13:00:41.754656+09:00",
+     "120만닉스 코스닥 브레이커 양시장 서킷 20만전자 코스피"
     ]
    ],
    "seen_urls": [
-    "https://it.chosun.com/news/articleView.html?idxno=2023092172041",
-    "http://www.srtimes.kr/news/articleView.html?idxno=214707",
-    "https://www.hankyung.com/article/2026101420441",
-    "https://biz.newdaily.co.kr/site/data/html/2026/10/14/2026101400366.html",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=232348",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20261014010004517",
     "https://www.mt.co.kr/industry/2026/10/14/2026101416251317090",
     "https://www.mk.co.kr/article/12175895",
     "http://www.paxetv.com/news/articleView.html?idxno=284139",
@@ -2780,15 +2770,15 @@
     "https://www.the-today.com/news/articleView.html?idxno=91784",
     "https://www.gokorea.kr/news/articleView.html?idxno=881502",
     "http://www.financialreview.co.kr/news/articleView.html?idxno=45520",
-    "https://www.the-today.com/news/articleView.html?idxno=91785"
+    "https://www.the-today.com/news/articleView.html?idxno=91785",
+    "https://www.ddaily.co.kr/page/view/2026101512543340932",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1415165",
+    "https://www.news1.kr/finance/general-stock/6321109",
+    "https://www.womentimes.co.kr/news/articleView.html?idxno=107036",
+    "https://www.mk.co.kr/article/12176623",
+    "https://biz.chosun.com/stock/2026/10/15/VR3WESSB5FFG7IUJSS3AL2CQHA/"
    ],
    "seen_titles": [
-    "SK가스,글로벌사업확장…2027~2030년연평균4500억목표",
-    "HBM이후준비하는삼성·SK…SEDEX서미래메모리청사진내놨다",
-    "\"국장반등,삼성전자·SK하이닉스의화끈한주주환원에달렸다\"",
-    "HBM4E스펙'무승부'…삼성은IDM,SK는엔비디아동맹과시",
-    "HD현대오일뱅크,44조유가담합에도'침묵'…고도의법리적전략인가",
-    "인천\"항공·바이오·환경특화산단조성\"",
     "SK가스,새로운10년이끌'3대성장축'공개",
     "안현SK하이닉스사장\"AI성능,2030년20배로커질것\"...낙관론제시",
     "\"서남권반도체산단농업용수활용,정책신뢰도확보관건\"",
@@ -4282,10 +4272,16 @@
     "코스피·코스닥결국둘다멈췄다…8%폭락에'동시서킷브레이커'",
     "AI투자논란과소비자물가지수충격,주식시장불안가중되는이유",
     "[2026국감-한국관광공사①]방한객1,893만명시대…체류6.5일·숙박...",
-    "[SK그룹계열사상장]17조원SK바이오팜,자회사가치상승은누구의가..."
+    "[SK그룹계열사상장]17조원SK바이오팜,자회사가치상승은누구의가...",
+    "코스피·코스닥,동반서킷브레이커…삼성전자9.70%·하이닉스11.35%↓",
+    "전남광주시,서남권반도체클러스터조성본격화",
+    "'반도체쇼크'코스피·코스닥8%폭락…동반서킷브레이커(상보)",
+    "미래모빌리티·방산기반6G·저궤도우주항공통신주도권경쟁치열",
+    "“나오지말았어야했을상품맞나보다”…‘닉스’레버리지,상장일대...",
+    "코스피·코스닥양시장‘서킷브레이커’…20만전자·120만닉스"
    ],
    "initialized": true,
-   "last_run": "2026-10-15T12:55:19.631607+09:00"
+   "last_run": "2026-10-15T13:00:41.754656+09:00"
   }
  },
  "press_names": {
