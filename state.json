@@ -201,7 +201,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=367328",
     "https://www.e-science.co.kr/news/articleView.html?idxno=137407",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610150048&t=NN",
     "https://www.pointe.co.kr/news/articleView.html?idxno=86101",
@@ -1700,10 +1699,10 @@
     "https://www.sidae.com/article/2026100812475112163",
     "https://n.news.naver.com/mnews/article/077/0007202804",
     "https://www.donga.com/news/Economy/article/all/20261016/134851745/2",
-    "https://n.news.naver.com/mnews/article/077/0007202806"
+    "https://n.news.naver.com/mnews/article/077/0007202806",
+    "https://www.sidae.com/article/2026101211144627559"
    ],
    "seen_titles": [
-    "상반기2배오르더니…코스피,닛케이하락폭의‘2배’로고꾸라졌다",
     "삼성8%·하이닉스10%폭락…‘CXMT쇼크’때문만은아니다[칩칩폭폭...",
     "美물가·AI투자우려겹쳤다…코스피·코스닥6%대급락",
     "SK텔레콤,장애청소년110명참여'행복AI챌린지'개최…AI활용교육...",
@@ -3202,10 +3201,11 @@
     "[美증시특징주]반도체,생산자물가충격에또'휘청'…메모리폭락세...",
     "K반도체건설힘찬새벽…\"손자위해역사를쓴다\"",
     "NorwayConferenceLeagueSoccer",
-    "주저앉은코스피,넉달새3560P날아갔다"
+    "주저앉은코스피,넉달새3560P날아갔다",
+    "AI메모리수요급증에반도체팹건설속도전"
    ],
    "initialized": true,
-   "last_run": "2026-10-16T04:40:29.002327+09:00"
+   "last_run": "2026-10-16T04:45:26.271621+09:00"
   }
  },
  "press_names": {
