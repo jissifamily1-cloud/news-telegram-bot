@@ -281,7 +281,6 @@
     ]
    ],
    "seen_urls": [
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225069",
     "https://www.cbci.co.kr/news/articleView.html?idxno=615738",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=90768",
     "https://www.segye.com/newsView/20261015508738?OutUrl=naver",
@@ -1780,10 +1779,10 @@
     "https://www.joongang.co.kr/article/25470199",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=319115",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000023072&cp=nv",
-    "https://www.newsverse.kr/news/articleView.html?idxno=11681"
+    "https://www.newsverse.kr/news/articleView.html?idxno=11681",
+    "http://www.babytimes.co.kr/news/articleView.html?idxno=74380"
    ],
    "seen_titles": [
-    "미국발물가·기술주충격에코스피·코스닥동반'매도사이드카'발동",
     "삼전닉스급락에코스피'털썩'…7%내려5,500대",
     "[속보]삼성전자·SK하이닉스부진에HBM관련주도흔들…한미반도체8%...",
     "[증시오늘(15일)주요특징주]시가총액상위반도체·배터리대장주동...",
@@ -3282,10 +3281,11 @@
     "“이젠물타기할돈도없다”",
     "미래에셋증권,5개월여만에주가73%추락...향후전망은?",
     "[사설]추락하는증시,반도체호황이후준비돼있나",
-    "[오늘의경제뉴스]코스피5,500선추락·고점론에도...월가1만2000전망..."
+    "[오늘의경제뉴스]코스피5,500선추락·고점론에도...월가1만2000전망...",
+    "한국증시공포의'검은목요일'…하룻새시총410조증발"
    ],
    "initialized": true,
-   "last_run": "2026-10-16T01:25:24.589529+09:00"
+   "last_run": "2026-10-16T01:30:37.539772+09:00"
   }
  },
  "press_names": {
