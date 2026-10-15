@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-15T14:15:22.937016+09:00",
-     "시험대 유럽 환경갈등 데브레첸 배터리 투자 거점"
-    ],
-    [
-     "2026-10-15T14:15:22.937016+09:00",
-     "익스체인지 개최 데브데이 AI보안산업본부 오픈AI KISA"
-    ],
-    [
-     "2026-10-15T14:15:22.937016+09:00",
-     "장중 증시 공포 덮친 증발 고금리 우려와 가까이 시총 400조 버블"
-    ],
-    [
-     "2026-10-15T14:15:22.937016+09:00",
-     "추락의 107조원 분기 하락세 실적도 삼전닉스 막은"
-    ],
-    [
-     "2026-10-15T14:15:22.937016+09:00",
-     "장중 반도체주 휘청 털썩 일본증시 쇼크 키옥시아"
-    ],
-    [
      "2026-10-15T14:20:23.996053+09:00",
      "지역 선관위 허위 오늘의 투표율 30개 입력 주요뉴스"
     ],
@@ -1242,12 +1222,13 @@
     [
      "2026-10-15T20:10:32.668247+09:00",
      "꼬였던 일정 소노전서 뒤늦은 개막전 18일 안방 5연전서 서울"
+    ],
+    [
+     "2026-10-15T20:15:26.038568+09:00",
+     "미래 실리콘밸리서 삼성전자 네트워크 기술 6G 통신 공개 서밋"
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/breaking/422567",
-    "https://www.seoul.co.kr/news/economy/securities/2026/10/15/20261015500043?wlog_tag3=naver",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798688&plink=ORI&cooper=NAVER",
     "https://www.hankyung.com/article/202610142072r",
     "http://www.wsobi.com/news/articleView.html?idxno=319711",
     "https://www.ntoday.co.kr/news/articleView.html?idxno=130074",
@@ -2744,12 +2725,12 @@
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1540658",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1540660",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1540659",
-    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434489"
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434489",
+    "http://www.kjdaily.com/article.php?aid=1792062217689309002",
+    "http://www.paxetv.com/news/articleView.html?idxno=284264",
+    "http://www.paxetv.com/news/articleView.html?idxno=284276"
    ],
    "seen_titles": [
-    "美물가쇼크·AI기업부채우려에SK하이닉스장중10%급락…도로120만닉...",
-    "코스피7거래일째하락…삼성전자·SK하이닉스6%대급락",
-    "삼성전자·SK하이닉스동반급락…코스피6000선붕괴",
     "코스피·코스닥서잇단매도사이드카발동",
     "스톤브릿지,삼전·SK하닉납품반도체장비회사2000억에인수",
     "삼성전자,동남아가전테크세미나개최·'서울디자인위크2026'참가·...",
@@ -4246,10 +4227,13 @@
     "코스피5,500선추락…하루410조원증발",
     "'검은목요일'한미일동반하락…코스피낙폭'갑절'",
     "용인반도체기업한자리에…일자리박람회구직자발길",
-    "일정꼬였던서울SK,18일소노전서뒤늦은홈개막전…안방5연전서기..."
+    "일정꼬였던서울SK,18일소노전서뒤늦은홈개막전…안방5연전서기...",
+    "“호남반도체산단부지유례없는속도로조성”",
+    "[리포트]\"HBM4E부터zHBM·HBF까지\"…삼성·SK,'AI메모리'신기술공개",
+    "삼성전자,실리콘밸리서'미래통신서밋'…6G·AI네트워크기술공개"
    ],
    "initialized": true,
-   "last_run": "2026-10-15T20:10:32.668247+09:00"
+   "last_run": "2026-10-15T20:15:26.038568+09:00"
   }
  },
  "press_names": {
