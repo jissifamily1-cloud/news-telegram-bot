@@ -405,8 +405,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072080",
-    "http://www.popcornnews.net/news/articleView.html?idxno=136100",
     "http://www.srtimes.kr/news/articleView.html?idxno=214857",
     "https://www.fnnews.com/news/202610151037379635",
     "https://www.newspim.com/news/view/20261015000394",
@@ -1904,11 +1902,11 @@
     "https://www.dailian.co.kr/news/view/1702139/?sc=Naver",
     "http://www.inews24.com/view/2015564",
     "https://www.newsis.com/view/NISX20261015_0003828037",
-    "https://www.fetv.co.kr/news/articleView.html?idxno=311833"
+    "https://www.fetv.co.kr/news/articleView.html?idxno=311833",
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5225258",
+    "https://www.seoulfn.com/news/articleView.html?idxno=640206"
    ],
    "seen_titles": [
-    "반도체호황에1∼8월나라살림적자43조원…8년만에최소",
-    "'검은목요일'충격빠진국내증시...코스피·코스닥매도사이드카동...",
     "SKT,'네트워크X어워드'수상…네트워크기술력인정",
     "SKT,장애청소년110명참여'행복AI챌린지'열어",
     "삼성전자,미국실리콘밸리서'미래통신서밋2026'개최",
@@ -3406,10 +3404,12 @@
     "\"3.5%상방열어둬야\"…증시옥죄는고금리우려,내년에도?",
     "中'4F²'발표에놀란시장…삼성·하이닉스추월은'아직'",
     "\"290층에도사람있어요\"…SK하닉·현대차·삼성물산,대형주줄줄이'반...",
-    "[솔리다임조달전략]②LS넘지못한'중복상장규제',해외카드꺼내나"
+    "[솔리다임조달전략]②LS넘지못한'중복상장규제',해외카드꺼내나",
+    "코스피'검은목요일'…밤사이뉴욕증시반도체종목약세",
+    "[뉴욕증시]국채·주식'반등',\"반도체대신나이키\"···코어위브,황..."
    ],
    "initialized": true,
-   "last_run": "2026-10-16T07:05:20.828977+09:00"
+   "last_run": "2026-10-16T07:10:28.629372+09:00"
   }
  },
  "press_names": {
