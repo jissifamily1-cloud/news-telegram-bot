@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-15T06:25:19.591692+09:00",
-     "성과가 인사 재계 바꾸나 시험대 연말 지형"
-    ],
-    [
-     "2026-10-15T06:25:19.591692+09:00",
-     "사람이 붓기 빠진 없습니다"
-    ],
-    [
-     "2026-10-15T06:25:19.591692+09:00",
-     "계약 고령자 요금 탭까지 몰래 낮춰준다더니"
-    ],
-    [
-     "2026-10-15T06:25:19.591692+09:00",
-     "나스닥 증시 반도체주 기술주 급락에 미국"
-    ],
-    [
      "2026-10-15T06:35:20.360579+09:00",
      "선고되면 검찰은 집행유예 포기했다 항소"
     ],
@@ -1301,10 +1285,6 @@
     ]
    ],
    "seen_urls": [
-    "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026101400058&story_seq=0&soCode=114&socttSn=NS2026101400058&socttSeq=0",
-    "https://www.mt.co.kr/stock/2026/10/14/2026101416271656481",
-    "https://biz.heraldcorp.com/article/10902727",
-    "https://www.fnnews.com/news/202610141708238087",
     "https://www.donga.com/news/Economy/article/all/20261014/134840095/1",
     "https://www.lawissue.co.kr/view.php?ud=2026101417103019979817d053b9_12",
     "https://www.joongdo.co.kr/web/view.php?key=20261014010003583",
@@ -2800,13 +2780,13 @@
     "https://biz.chosun.com/stock/stock_general/2026/10/15/CKGAW2PGHNES7DZ2KX7IACQVJE/",
     "https://www.mediaus.co.kr/news/articleView.html?idxno=318476",
     "https://biz.newdaily.co.kr/site/data/html/2026/10/15/2026101500120.html",
-    "https://dealsite.co.kr/articles/170725"
+    "https://dealsite.co.kr/articles/170725",
+    "https://www.sportsseoul.com/news/read/1641605",
+    "https://www.newsis.com/view/NISX20261015_0003827209",
+    "http://www.bizwnews.com/news/articleView.html?idxno=148950",
+    "https://zdnet.co.kr/view/?no=20261015115843"
    ],
    "seen_titles": [
-    "SK가스,연평균세전이익4500억원목표…'Next10년'전략가동",
-    "[SEDEX2026]SK하이닉스,HBM만으로는부족…'신개념AI메모리'꺼냈다",
-    "삼전·닉스희망있나…댄아이브스'추천목록'에메모리無",
-    "청주시-SK하이닉스,894억원규모공업용수공급협약",
     "코스피,美CPI발표앞두고경계심리↑…물가둔화확인할까",
     "‘멈추지않는외인대탈주’코스피6거래일연속하락…‘육천피’턱...",
     "SK하이닉스주주환원확대,SK스퀘어기업가치에도호재",
@@ -4302,10 +4282,14 @@
     "스톤브릿지캐피탈도반도체소부장베팅…포이스1970억원에인수",
     "CPI쇼크에뉴욕증시하락…코스피도장초반급락",
     "\"저축은행보안괜찮나\"…1400억규모차세대공동망역할주목",
-    "삼전닉스흔든'中창신쇼크'…해외서과잉반응론"
+    "삼전닉스흔든'中창신쇼크'…해외서과잉반응론",
+    "6경기‘1승’,위기의전북…‘최후의보루’파이널A지켜야,제주전...",
+    "아시아증시,일제히폭락세…코스피7%·日닛케이4%'뚝'",
+    "인천시,'2026년인천산업단지조성현황및분양설명회'성황리개최",
+    "베슬AI\"2030년GPU20만장확보…글로벌톱티어네오클라우드도약\""
    ],
    "initialized": true,
-   "last_run": "2026-10-15T12:25:19.228186+09:00"
+   "last_run": "2026-10-15T12:30:35.497628+09:00"
   }
  },
  "press_names": {
