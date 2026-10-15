@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-15T13:10:26.587893+09:00",
-     "전문가들 CXMT 기술 진전에도 차세대 D램 비관적"
-    ],
-    [
-     "2026-10-15T13:10:26.587893+09:00",
-     "상장설 SK하이닉스 재점화 주가 솔리다임 급락하는데"
-    ],
-    [
-     "2026-10-15T13:10:26.587893+09:00",
-     "인공지능 16곳 뚫려 해킹에 금융사"
-    ],
-    [
-     "2026-10-15T13:10:26.587893+09:00",
-     "직격탄 거품 한국경제 록펠러 회장 터지면"
-    ],
-    [
      "2026-10-15T13:15:22.496476+09:00",
      "직접전력거래계약 SK이터닉스 규모 5077억원 체결"
     ],
@@ -1410,14 +1394,17 @@
     [
      "2026-10-15T19:05:21.498968+09:00",
      "폭락한 빠질 한국만 대만 이유"
+    ],
+    [
+     "2026-10-15T19:10:28.548593+09:00",
+     "동반 닛케이지수 역대 하락에 3위 급락 반도체주 낙폭"
+    ],
+    [
+     "2026-10-15T19:10:28.548593+09:00",
+     "웨스팅하우스 노리는 진출 우군으로 품는다 원전 시장"
     ]
    ],
    "seen_urls": [
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000073550",
-    "https://www.nocutnews.co.kr/news/6591772",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=449387",
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=395343",
-    "https://www.fnnews.com/news/202610150922452379",
     "https://www.munhwa.com/article/11623638",
     "https://magazine.hankyung.com/business/article/202610153305b",
     "https://www.munhwa.com/article/11623637",
@@ -2912,14 +2899,14 @@
     "https://www.newstopkorea.com/news/articleView.html?idxno=48220",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008799962&plink=ORI&cooper=NAVER",
     "https://news.tvchosun.com/site/data/html_dir/2026/10/15/2026101590203.html",
-    "https://news.jtbc.co.kr/article/NB12323206?influxDiv=NAVER"
+    "https://news.jtbc.co.kr/article/NB12323206?influxDiv=NAVER",
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5225226",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16248285",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8686678",
+    "https://www.betanews.net/article/view/beta202610150167",
+    "https://www.socialvalue.kr/news/view/1065597359750704"
    ],
    "seen_titles": [
-    "AI투자회의론에증시‘와르르’...코스피·코스닥매도사이드카",
-    "AI수익성회의론에증시'검은목요일'…코스피6%폭락·양시장사이...",
-    "7%가까이빠진코스피…코스피·코스닥모두'매도사이드카'",
-    "중국CXMT의D램신기술에해외증권가회의적,\"미국의규제에맞설대...",
-    "테오도르의시장분석:외국인대량매도가폭락세주도",
     "SK하닉-10%폭락...강제청산당한'빚투'개미들\"320만원간다더니\"비...",
     "금융리스크분석·신약물질탐색…‘전문가AI’차별화속도",
     "[속보]SK하이닉스-10%···130만원선깨졌다",
@@ -4414,10 +4401,15 @@
     "\"AI반도체공급부족지속…고점아직멀었다\"",
     "프로농구SK주장오세근,아이들과미래재단에기부금전달",
     "대만해상풍력시장에'K-바람'…SK오션플랜트,대만재생에너지행사...",
-    "미·일·대만1~4%빠질때…한국만'7%대'폭락한이유"
+    "미·일·대만1~4%빠질때…한국만'7%대'폭락한이유",
+    "삼전닉스10%'뚝'…이틀만에또추풍낙엽코스피5000대까지후퇴",
+    "\"기부금전달\"…서울SK오세근,아이들과미래재단찾아나눔실천",
+    "코스피·코스닥동반서킷브레이커…미국발충격에‘검은목요일’",
+    "日닛케이지수4.9%급락…AI·반도체주동반하락에낙폭역대3위",
+    "美시장진출노리는K-원전…웨스팅하우스우군으로품는다"
    ],
    "initialized": true,
-   "last_run": "2026-10-15T19:05:21.498968+09:00"
+   "last_run": "2026-10-15T19:10:28.548593+09:00"
   }
  },
  "press_names": {
