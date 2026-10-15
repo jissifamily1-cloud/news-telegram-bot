@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-15T06:20:27.515129+09:00",
-     "이것이 개막 차세대 반도체대전 HBM4E"
-    ],
-    [
      "2026-10-15T06:25:19.591692+09:00",
      "성과가 인사 재계 바꾸나 시험대 연말 지형"
     ],
@@ -1294,13 +1290,17 @@
     [
      "2026-10-15T12:20:23.570442+09:00",
      "늘었지만 법인세 믿는 피크아웃 정부 커져 우려 28조 반도체만"
+    ],
+    [
+     "2026-10-15T12:25:19.228186+09:00",
+     "저축은행 괜찮나 차세대 공동망 보안 1400억 주목 규모 역할"
+    ],
+    [
+     "2026-10-15T12:25:19.228186+09:00",
+     "창신쇼크 반응론 삼전닉스 과잉 흔든 해외서"
     ]
    ],
    "seen_urls": [
-    "https://www.energy-news.co.kr/news/articleView.html?idxno=228949",
-    "https://www.etnews.com/20261014000408",
-    "https://www.dailian.co.kr/news/view/1701469/?sc=Naver",
-    "https://www.ccreview.co.kr/news/articleView.html?idxno=359871",
     "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026101400058&story_seq=0&soCode=114&socttSn=NS2026101400058&socttSeq=0",
     "https://www.mt.co.kr/stock/2026/10/14/2026101416271656481",
     "https://biz.heraldcorp.com/article/10902727",
@@ -2796,13 +2796,13 @@
     "http://www.metroseoul.co.kr/article/20261014500651",
     "https://www.thepublic.kr/news/articleView.html?idxno=322341",
     "https://www.munhwa.com/article/11623774",
-    "https://www.munhwa.com/article/11623776"
+    "https://www.munhwa.com/article/11623776",
+    "https://biz.chosun.com/stock/stock_general/2026/10/15/CKGAW2PGHNES7DZ2KX7IACQVJE/",
+    "https://www.mediaus.co.kr/news/articleView.html?idxno=318476",
+    "https://biz.newdaily.co.kr/site/data/html/2026/10/15/2026101500120.html",
+    "https://dealsite.co.kr/articles/170725"
    ],
    "seen_titles": [
-    "울산시-21개기업,사회공헌협약…지역안전망강화기대",
-    "아산'해맑은벼'재배급감…'신품종개발'재도전",
-    "[데일리픽]애플,스마트홈제품군공개…XRP레저반등할까",
-    "윤병석SK가스사장\"2027~2030년세전이익연4500억이상\"",
     "SK가스,연평균세전이익4500억원목표…'Next10년'전략가동",
     "[SEDEX2026]SK하이닉스,HBM만으로는부족…'신개념AI메모리'꺼냈다",
     "삼전·닉스희망있나…댄아이브스'추천목록'에메모리無",
@@ -4298,10 +4298,14 @@
     "황병직영주시장,취임100일…“행정의변화,시민이체감하는성과로...",
     "美물가다시뛰자뉴욕증시하락…나스닥1.88%↓",
     "2시간만에8%폭락…‘CPI·금리·AI거품’3각파도덮쳤다",
-    "반도체만믿는정부…법인세28조늘었지만피크아웃우려커져"
+    "반도체만믿는정부…법인세28조늘었지만피크아웃우려커져",
+    "스톤브릿지캐피탈도반도체소부장베팅…포이스1970억원에인수",
+    "CPI쇼크에뉴욕증시하락…코스피도장초반급락",
+    "\"저축은행보안괜찮나\"…1400억규모차세대공동망역할주목",
+    "삼전닉스흔든'中창신쇼크'…해외서과잉반응론"
    ],
    "initialized": true,
-   "last_run": "2026-10-15T12:20:23.570442+09:00"
+   "last_run": "2026-10-15T12:25:19.228186+09:00"
   }
  },
  "press_names": {
