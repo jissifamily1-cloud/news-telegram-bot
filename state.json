@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-15T06:05:22.204209+09:00",
-     "발목 이자마진 3분기 자금조달 금융지주 뒷걸음질 4대 비용에"
-    ],
-    [
      "2026-10-15T06:15:23.855360+09:00",
      "반도체주 깨졌나 장밋빛 환상 폭락 연쇄 충격"
     ],
@@ -1282,17 +1278,21 @@
     [
      "2026-10-15T12:05:20.503386+09:00",
      "15년 참사 가습기살균제 찾았다 피해자"
+    ],
+    [
+     "2026-10-15T12:10:27.297024+09:00",
+     "신해산업단지에 가남 기업 여주시 총력전 유치 반도체"
+    ],
+    [
+     "2026-10-15T12:10:27.297024+09:00",
+     "코스피 된다 생각보다 돈이 키옥시아 수직낙하 아시"
+    ],
+    [
+     "2026-10-15T12:10:27.297024+09:00",
+     "2028년 전망 AI서버용 차지 SSD YMTC 엔진은 매출 성장"
     ]
    ],
    "seen_urls": [
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087217",
-    "https://ilyo.co.kr/?ac=article_view&entry_id=513137",
-    "http://www.newslock.co.kr/news/articleView.html?idxno=137931",
-    "https://www.seoul.co.kr/news/economy/securities/2026/10/14/20261014500216?wlog_tag3=naver",
-    "https://www.news1.kr/politics/assembly/6320121",
-    "http://www.popcornnews.net/news/articleView.html?idxno=135974",
-    "https://www.cnbnews.com/news/articleView.html?idxno=1019278",
-    "https://www.hankookilbo.com/news/article/A2026101416210005371?did=NA",
     "https://www.wikitree.co.kr/articles/1166229",
     "https://www.news1.kr/industry/general-industry/6320152",
     "https://www.newspim.com/news/view/20261014000938",
@@ -2784,17 +2784,17 @@
     "https://news.bizwatch.co.kr/article/market/2026/10/15/0011",
     "https://www.investchosun.com/site/data/html_dir/2026/10/15/2026101580087.html",
     "http://weekly.chosun.com/news/articleView.html?idxno=56182",
-    "https://www.nocutnews.co.kr/news/6591926"
+    "https://www.nocutnews.co.kr/news/6591926",
+    "https://www.nocutnews.co.kr/news/6591939",
+    "https://www.mstoday.co.kr/news/articleView.html?idxno=200158",
+    "https://www.munhwa.com/article/11623759",
+    "https://www.hankyung.com/article/202610153352i",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=283337",
+    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037671",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=145691",
+    "https://www.g-enews.com/view.php?ud=20261015114507859139bf6e4b2_1"
    ],
    "seen_titles": [
-    "SK가스,2030년연세전이익4500억달성목표…성장투자·주주환원균형...",
-    "엑시나,인텔·퀄컴출신핑거허트CBO영입…'MX1'상용화박차",
-    "中YMTC,낸드출하량세계3위…IPO로삼전닉스추격가속",
-    "[기자수첩]단일종목레버리지ETF,투자자문턱만높이면안전한가",
-    "[문준호의넥스트프레임]반도체호황의역설,가장위험한순간은가...",
-    "[단독]‘MICRON’명칭충돌…하나마이크론미국상표등록제동걸리나",
-    "SK가스,신성장전략발표...에너지사업확장·해외공급망강화",
-    "“이재용도25만원에샀대”삼전4조‘줍줍’개미들떨고있니[내가...",
     "여야,농지전수조사부작용우려…\"투기악용·임차농피해막아야\"(종...",
     "[2026국감]백신없는국책연구기관서버,낡아가는KISA방패…사이버...",
     "[내예기]'에너지혁신'나선한전···로드맵들여다보니",
@@ -4286,10 +4286,18 @@
     "\"코스피지지선5000포인트…당분간비중확대자제해야\"",
     "[Invest]분기영업익세계1위삼성전자,주가는왜또폭락한건데?",
     "하이닉스130만원붕괴…얼어붙은반도체주,반등가능할까",
-    "\"가습기살균제참사15년…피해자1%도못찾았다\""
+    "\"가습기살균제참사15년…피해자1%도못찾았다\"",
+    "전남광주특별시,반도체산단단계적착공추진…2030년첫양산목표",
+    "美물가·AI투자충격…코스피5500선위협",
+    "삼전·닉스‘10%폭락’…새파랗게질린韓증시",
+    "“AI투자할돈,계속빌릴수있나”…증시덮친‘15%의경고’[빈난...",
+    "미국AI주급락에코스피도7%대추락…5500선까지밀려",
+    "여주시,가남·신해산업단지에반도체기업유치총력전",
+    "'AI,생각보다돈이안된다'...코스피5500수직낙하,키옥시아등아시...",
+    "YMTC성장엔진은AI서버용SSD…2028년매출39%차지전망"
    ],
    "initialized": true,
-   "last_run": "2026-10-15T12:05:20.503386+09:00"
+   "last_run": "2026-10-15T12:10:27.297024+09:00"
   }
  },
  "press_names": {
