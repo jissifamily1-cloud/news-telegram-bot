@@ -214,10 +214,13 @@
     [
      "2026-10-16T05:05:22.967061+09:00",
      "거르는 최악 면접자 한화팬 불합격 삼성이 서울대생 뽑았다"
+    ],
+    [
+     "2026-10-16T05:10:28.285445+09:00",
+     "엇갈린 흑자 데이터센터 빚더미 경제학 AI서비스 반도체"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/world/international-economy/6320814",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=873075",
     "https://www.fnnews.com/news/202610150820050214",
     "https://www.kukinews.com/article/view/kuk202610150073",
@@ -1716,10 +1719,10 @@
     "https://www.joongang.co.kr/article/25470218",
     "https://www.joongang.co.kr/article/25470223",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=280750",
-    "https://www.joongang.co.kr/article/25470213"
+    "https://www.joongang.co.kr/article/25470213",
+    "https://www.seoul.co.kr/news/economy/industry/2026/10/16/20261016030002?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "코스피,美물가충격에6%대급락…양대시장매도사이드카",
     "최태원SK회장\"한일경제공동체로발전해야…에너지공동구매로비용...",
     "美반도체주시총1주일새1.6조달러증발…닛케이도4%급락세",
     "빗썸,OK캐쉬백적립하면비트코인도지급",
@@ -3218,10 +3221,11 @@
     "“서울집값盧때와똑같다,이때부터하락”…고수의영끌전략",
     "“중복상장안막나”문자폭탄…힘빠진코스피,與악재됐다",
     "[솔리다임분석]①\"쪼개기상장\"통념깬다…20년치미래고점선점할...",
-    "“서울대생불합격,한화팬뽑았다”삼성이거르는최악면접자"
+    "“서울대생불합격,한화팬뽑았다”삼성이거르는최악면접자",
+    "흑자AI서비스·빚더미데이터센터…‘엇갈린AI경제학’韓반도체촉..."
    ],
    "initialized": true,
-   "last_run": "2026-10-16T05:05:22.967061+09:00"
+   "last_run": "2026-10-16T05:10:28.285445+09:00"
   }
  },
  "press_names": {
