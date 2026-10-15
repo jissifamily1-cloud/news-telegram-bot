@@ -1333,10 +1333,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.newsian.co.kr/news/articleView.html?idxno=97064",
-    "https://www.vegannews.co.kr/news/article.html?no=392579",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=232346",
-    "https://view.asiae.co.kr/article/2026101417025089424",
     "https://www.dailian.co.kr/news/view/1701541/?sc=Naver",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480013",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=313133",
@@ -2832,13 +2828,13 @@
     "http://www.press9.kr/news/articleView.html?idxno=84306",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8686439",
     "https://www.peoplewatch.co.kr/article/view/ppw202610150008",
-    "https://www.tokenpost.kr/news/market/422624"
+    "https://www.tokenpost.kr/news/market/422624",
+    "https://www.munhwa.com/article/11623739",
+    "http://www.newstomato.com/ReadNews.aspx?no=1316789&inflow=N",
+    "https://www.livebiz.today/news/articleView.html?idxno=205613",
+    "https://www.pointe.co.kr/news/articleView.html?idxno=86110"
    ],
    "seen_titles": [
-    "HL디앤아이한라,청주'신분평에피트더웨이시티'16일분양",
-    "이상일용인특례시장“호황기에도예산신중히”…반도체건설인력유...",
-    "코스피,6거래일연속하락...외국인매도에6,000선간신히사수",
-    "코스피,2.57%반등도못지켰다…6일째하락‘6000선턱걸이’",
     "코스피,외인1.1조매도에반등실패…또6000선'턱걸이'",
     "청주‘신분평에피트더웨이시티’16일견본주택개관",
     "이상일용인시장\"선심성복지지출경계해야\"",
@@ -4334,10 +4330,14 @@
     "美물가쇼크에뉴욕증시하락…국내증시도투자심리위축",
     "[무등의아침]박선원“광주군공항,무안으로바로가는게가장합당...",
     "하락할수록더사는개미들..반도체株괴리에속탄다",
-    "SKHX공매도평가액2704만달러로늘린주소포착"
+    "SKHX공매도평가액2704만달러로늘린주소포착",
+    "AI피크論에코스피폭락,반도체편중위험직시할때[사설]",
+    "삼성전자,실리콘밸리서6G기술공개…AI·위성통신협력확대",
+    "韓美증시급락에동학·서학개미모두곡소리...\"손절타이밍놓쳤다....",
+    "미국물가쇼크·AI수익성경고겹악재…코스피장중7%대급락"
    ],
    "initialized": true,
-   "last_run": "2026-10-15T11:55:18.973007+09:00"
+   "last_run": "2026-10-15T12:00:41.446468+09:00"
   }
  },
  "press_names": {
