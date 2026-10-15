@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-15T06:35:20.360579+09:00",
-     "선고되면 검찰은 집행유예 포기했다 항소"
-    ],
-    [
-     "2026-10-15T06:35:20.360579+09:00",
-     "확장하는 굴뚝업체들 데이터센터로 외연"
-    ],
-    [
      "2026-10-15T06:40:25.928141+09:00",
      "선물 앞에선 기대감 외국인 팔아치우면서 코스피 반등 사들이는"
     ],
@@ -1286,10 +1278,13 @@
     [
      "2026-10-15T12:35:18.960838+09:00",
      "3000억 지분 처분할까 파두 상장 떠난 창업자 재판 뻥튀기"
+    ],
+    [
+     "2026-10-15T12:40:24.462796+09:00",
+     "전폭 지지 반도체는 산업 지방정부 CXMT 전략적 국가안보"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20261014161200064?input=1195m",
     "http://www.joseilbo.com/news/news_read.php?uid=577413&class=53",
     "https://www.ccdailynews.com/news/articleView.html?idxno=2446318",
     "https://www.ccdailynews.com/news/articleView.html?idxno=2446320",
@@ -2788,10 +2783,10 @@
     "https://www.news1.kr/it-science/internet-platform/6321044",
     "https://www.ntoday.co.kr/news/articleView.html?idxno=130085",
     "https://view.asiae.co.kr/article/2026101512295086676",
-    "https://www.thelec.kr/news/articleView.html?idxno=63751"
+    "https://www.thelec.kr/news/articleView.html?idxno=63751",
+    "https://www.yna.co.kr/view/AKR20261015093400089?input=1195m"
    ],
    "seen_titles": [
-    "챔피언십진출팀결정되는2026KEL이터널리턴서킷4슈퍼위크경남1...",
     "삼성전자'zHBMvsSK하닉'HBF'전면에…AI반도체경쟁'후끈'",
     "SK하이닉스안현사장,SEDEX2026기조연설…\"AI추론시대,메모리계층...",
     "청주시,SK하이닉스와894억원규모공업용수공급협약",
@@ -4290,10 +4285,11 @@
     "베슬AI\"GPU20만장확보해글로벌시장공략\"…수요80%해외서",
     "\"빚투27조육박했는데삼전닉스폭락\"...반대매매'공포'덮친증시",
     "이상일“반도체로늘어난세수,철도망에투자”…최대1조원조성",
-    "'뻥튀기상장'재판중떠난파두창업자...3000억지분처분할까"
+    "'뻥튀기상장'재판중떠난파두창업자...3000억지분처분할까",
+    "中지방정부\"반도체는국가안보전략적산업…CXMT전폭지지\""
    ],
    "initialized": true,
-   "last_run": "2026-10-15T12:35:18.960838+09:00"
+   "last_run": "2026-10-15T12:40:24.462796+09:00"
   }
  },
  "press_names": {
