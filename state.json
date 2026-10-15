@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-16T00:25:23.969796+09:00",
-     "있는 수원문화재단 31일 스트릿댄스 해설이 공연 개최 카르페디엠"
-    ],
-    [
      "2026-10-16T00:30:36.733112+09:00",
      "Expo Tech Future Exhibitors Convenes Daegu Global in Innovation"
     ],
@@ -350,10 +346,13 @@
     [
      "2026-10-16T06:20:27.401031+09:00",
      "내일의 경기 18일"
+    ],
+    [
+     "2026-10-16T06:30:35.262160+09:00",
+     "불렀던 코어위브도 반등 폭락장 젠슨 역시"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261015_0003827087",
     "http://www.thevaluenews.co.kr/news/view.php?idx=202364",
     "https://www.ppss.kr/news/articleView.html?idxno=315632",
     "https://www.cbci.co.kr/news/articleView.html?idxno=615759",
@@ -1852,10 +1851,10 @@
     "http://www.beyondpost.co.kr/view.php?ud=202610160610413612aaae0046f_30",
     "https://www.moneystorm.kr/news/articleView.html?idxno=7319",
     "https://www.yna.co.kr/view/AKR20261015076100007?input=1195m",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=616057"
+    "https://www.cbci.co.kr/news/articleView.html?idxno=616057",
+    "https://www.mt.co.kr/world/2026/10/16/2026101606231752124"
    ],
    "seen_titles": [
-    "[사설]美웨스팅하우스기업투자,수출확대로이어져야",
     "한국회계기준원,KSSB비상임위원에김정일대한상의상근부회장선임",
     "파두DB하이텍급락…미국증시기술주부진에반도체주동반약세",
     "SK이노베이션주가,10월15일장중157,300원3.62%하락",
@@ -3354,10 +3353,11 @@
     "엔비디아1.84%↓,마이크론1.87%↑...반도체주,혼조로마감",
     "[뉴욕증시마감시황]코스피한숨돌리나…美기술주반등에메모리주...",
     "◇내일의경기(17·18일)",
-    "코스피·코스닥동반폭락,삼성전자·SK하이닉스·알테오젠등'풀썩'…..."
+    "코스피·코스닥동반폭락,삼성전자·SK하이닉스·알테오젠등'풀썩'…...",
+    "폭락장불렀던코어위브도반등…역시젠슨황[뉴욕마감]"
    ],
    "initialized": true,
-   "last_run": "2026-10-16T06:25:23.553160+09:00"
+   "last_run": "2026-10-16T06:30:35.262160+09:00"
   }
  },
  "press_names": {
