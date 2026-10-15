@@ -402,14 +402,25 @@
     [
      "2026-10-16T07:05:20.828977+09:00",
      "LS 규제 중복상장 넘지 못한 꺼내나 해외카드"
+    ],
+    [
+     "2026-10-16T07:15:28.769750+09:00",
+     "8거래일 팔자 순매도 연속 이달에만 외국인 18조원"
+    ],
+    [
+     "2026-10-16T07:15:28.769750+09:00",
+     "카카오 승부수 검색 베타 돌입 카톡으로 SKT KT 모두의 전화"
+    ],
+    [
+     "2026-10-16T07:15:28.769750+09:00",
+     "실적 방어전 보상금 ESS가 K배터리 갈랐다 3사"
+    ],
+    [
+     "2026-10-16T07:15:28.769750+09:00",
+     "청산 나선 다르다 위험자산 7월과 포지션 축소 외국인 넘어"
     ]
    ],
    "seen_urls": [
-    "http://www.srtimes.kr/news/articleView.html?idxno=214857",
-    "https://www.fnnews.com/news/202610151037379635",
-    "https://www.newspim.com/news/view/20261015000394",
-    "https://zdnet.co.kr/view/?no=20261015111144",
-    "https://biz.newdaily.co.kr/site/data/html/2026/10/15/2026101500105.html",
     "https://www.sportsseoul.com/news/read/1641578",
     "https://sports.khan.co.kr/article/202610151114003?pt=nv",
     "https://www.delighti.co.kr/news/articleView.html?idxno=123291",
@@ -1904,14 +1915,14 @@
     "https://www.newsis.com/view/NISX20261015_0003828037",
     "https://www.fetv.co.kr/news/articleView.html?idxno=311833",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5225258",
-    "https://www.seoulfn.com/news/articleView.html?idxno=640206"
+    "https://www.seoulfn.com/news/articleView.html?idxno=640206",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=90850",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=883734",
+    "https://www.newsway.co.kr/news/view?ud=2026101515080970946",
+    "https://news.bizwatch.co.kr/article/industry/2026/10/15/0029",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=97179"
    ],
    "seen_titles": [
-    "SKT,'네트워크X어워드'수상…네트워크기술력인정",
-    "SKT,장애청소년110명참여'행복AI챌린지'열어",
-    "삼성전자,미국실리콘밸리서'미래통신서밋2026'개최",
-    "이통3사,AI활용넓히고사회공헌활동이어가",
-    "美웨스팅지분인수윤곽…SK이노베이션,'4조규모컨소시엄구성'검토",
     "반도체투톱급락에소부장까지'와르르'…전기전자·정밀기기동반폭...",
     "ASML韓장비매출2.6배에도…외인,10월삼전닉스11.6조'팔자'",
     "장애청소년110명,AI로창의력겨뤘다",
@@ -3406,10 +3417,15 @@
     "\"290층에도사람있어요\"…SK하닉·현대차·삼성물산,대형주줄줄이'반...",
     "[솔리다임조달전략]②LS넘지못한'중복상장규제',해외카드꺼내나",
     "코스피'검은목요일'…밤사이뉴욕증시반도체종목약세",
-    "[뉴욕증시]국채·주식'반등',\"반도체대신나이키\"···코어위브,황..."
+    "[뉴욕증시]국채·주식'반등',\"반도체대신나이키\"···코어위브,황...",
+    "뉴욕증시,AI주급락충격딛고반등…다우1.08%상승",
+    "외국인이달에만18조원순매도…8거래일연속'팔자'",
+    "SKT·KT·카카오'모두의AI'베타돌입…전화·검색·카톡으로승부수",
+    "K배터리3사,실적방어전…보상금·ESS가갈랐다",
+    "\"7월과다르다\"…'포지션청산'넘어'위험자산축소'나선외국인"
    ],
    "initialized": true,
-   "last_run": "2026-10-16T07:10:28.629372+09:00"
+   "last_run": "2026-10-16T07:15:28.769750+09:00"
   }
  },
  "press_names": {
