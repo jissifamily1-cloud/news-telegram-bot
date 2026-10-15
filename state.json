@@ -1370,18 +1370,21 @@
     [
      "2026-10-15T18:05:22.535414+09:00",
      "종목별 신규 비중 메리츠 적용 신용융자 차단 삼전닉스"
+    ],
+    [
+     "2026-10-15T18:10:26.728595+09:00",
+     "현안 대변해 지역 시민 목소리 선도하고"
+    ],
+    [
+     "2026-10-15T18:10:26.728595+09:00",
+     "동반 U14 남대천 TOP 양양 시흥 대표팀 르네상스배 출전"
+    ],
+    [
+     "2026-10-15T18:10:26.728595+09:00",
+     "맞불 증인 김현미 김건희 의혹 불법사찰 공방 요구 여야"
     ]
    ],
    "seen_urls": [
-    "https://www.smarttoday.co.kr/ko-kr/articles/112705",
-    "https://www.imaeil.com/page/view/2026101509244885325",
-    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5224990",
-    "http://www.kdfnews.com/news/articleView.html?idxno=189315",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4439345",
-    "https://www.smartbizn.com/news/articleView.html?idxno=156466",
-    "https://www.widedaily.com/news/articleView.html?idxno=301969",
-    "https://www.thepowernews.co.kr/view.php?ud=202610150943098485de3f0aa1be_7",
-    "https://www.newsis.com/view/NISX20261015_0003826841",
     "https://www.newsway.co.kr/news/view?ud=2026101509292025090",
     "https://www.eroun.net/news/articleView.html?idxno=92473",
     "https://www.etnews.com/20261015000075",
@@ -2872,18 +2875,18 @@
     "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610150121&t=NNv",
     "https://www.ajunews.com/view/20261015160348728",
     "https://www.ajunews.com/view/20261015091755315",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20261015010005009"
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261015010005009",
+    "https://www.dailian.co.kr/news/view/1702123/?sc=Naver",
+    "https://www.sedaily.com/article/20102192",
+    "https://biz.sbs.co.kr/article_hub/20000340252?division=NAVER",
+    "https://www.ytn.co.kr/_ln/0102_202610151805299481",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=745846",
+    "https://www.news1.kr/finance/general-stock/6321656",
+    "https://www.namdonews.com/news/articleView.html?idxno=926292",
+    "http://www.rookie.co.kr/news/articleView.html?idxno=128462",
+    "https://www.yna.co.kr/view/AKR20261015090451001?input=1195m"
    ],
    "seen_titles": [
-    "CheyTapsMichaelDell'sFamilyFundin944BillionWonDivorceFunding",
-    "코스피,검은목요일..코스피6천,지지선에서벽으로바뀔판",
-    "증시급락에도운송株홀로웃었다…해상운임급등에해운주'뱃고동'",
-    "[특별대담]'행복밥상'부터신청사건립까지…민선9기경기여주시가...",
-    "美물가·AI충격에코스피·코스닥급락…이틀만에다시선사이드카",
-    "美기술주급락에맥못추는삼전닉스…대형주하락잇따라",
-    "SK텔레콤,AI-RAN차량이송기술로'NetworkX'수상",
-    "미국발물가충격에'검은목요일'덮친국내증시…코스피·코스닥매...",
-    "코스피장중6%급락…코스피·코스닥매도사이드카발동",
     "'검은목요일'코스피·코스닥매도사이드카발동[뉴시스Pic]",
     "삼전·닉스급락에5700선까지밀린코스피…매도사이드카발동[개장시...",
     "SKT,AI기반네트워크기술수상...AI기반기술력인정받아",
@@ -4374,10 +4377,19 @@
     "'검은목요일'시총400조증발...서킷발동시장'패닉'",
     "[박진영의비즈+]\"D램부터낸드까지넘본다\"…中반도체추격이무서운...",
     "[기자의눈]코리아프리미엄,화려한행사보다중요한건'신뢰'",
-    "메리츠證,삼전닉스신용융자신규차단…종목별비중'15%룰'첫적용"
+    "메리츠證,삼전닉스신용융자신규차단…종목별비중'15%룰'첫적용",
+    "\"하루새410조증발\"…코스피시총'와르르'",
+    "되살아난7월의악몽…“앞으로2주가데드크로스분수령”[검은목요일...",
+    "7월악몽재현됐다…'검은목요일'증시폭락",
+    "[기업]SKT,글로벌5G서비스혁신상...\"AI로일반차량무인이송\"",
+    "[마감시황]AI수익성·美물가충격···코스피5500선추락",
+    "\"매수타이밍왔다\"코스피'패닉장'인데…개미삼전닉스'줍줍'",
+    "[29기독자권익위제5차회의]\"지역현안선도하고시민목소리대변해...",
+    "[유노유농]'양양남대천르네상스배동반출전'시흥TOPU14·15대표팀...",
+    "여야,'불법사찰의혹'공방…'김현미·김건희'증인요구맞불(종합)"
    ],
    "initialized": true,
-   "last_run": "2026-10-15T18:05:22.535414+09:00"
+   "last_run": "2026-10-15T18:10:26.728595+09:00"
   }
  },
  "press_names": {
