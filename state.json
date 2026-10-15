@@ -193,7 +193,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610150048&t=NN",
     "https://www.pointe.co.kr/news/articleView.html?idxno=86101",
     "https://www.businesspost.co.kr/BP?command=article_view&num=449399",
     "https://biz.heraldcorp.com/article/10903450",
@@ -1692,10 +1691,10 @@
     "https://www.donga.com/news/Economy/article/all/20261016/134851745/2",
     "https://n.news.naver.com/mnews/article/077/0007202806",
     "https://www.sidae.com/article/2026101211144627559",
-    "https://www.interfootball.co.kr/news/articleView.html?idxno=696478"
+    "https://www.interfootball.co.kr/news/articleView.html?idxno=696478",
+    "https://www.sidae.com/article/2026101211192779028"
    ],
    "seen_titles": [
-    "美물가·AI투자우려겹쳤다…코스피·코스닥6%대급락",
     "SK텔레콤,장애청소년110명참여'행복AI챌린지'개최…AI활용교육...",
     "3배수익꿈꿨는데오히려'곤두박질'…-13%서학개미'곡소리'",
     "반도체훈풍에세수풍년…나라살림적자8년만에최소치",
@@ -3194,10 +3193,11 @@
     "NorwayConferenceLeagueSoccer",
     "주저앉은코스피,넉달새3560P날아갔다",
     "AI메모리수요급증에반도체팹건설속도전",
-    "[K-관전포인트]'우승확정까지단1승?'서울의운명은…대전vs광주대..."
+    "[K-관전포인트]'우승확정까지단1승?'서울의운명은…대전vs광주대...",
+    "AI투자열풍에반도체호황2028년까지간다"
    ],
    "initialized": true,
-   "last_run": "2026-10-16T04:50:35.540483+09:00"
+   "last_run": "2026-10-16T04:55:22.231693+09:00"
   }
  },
  "press_names": {
