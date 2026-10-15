@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-15T13:30:32.619112+09:00",
-     "sink crashes Samsung over as hynix Kospi"
-    ],
-    [
-     "2026-10-15T13:30:32.619112+09:00",
-     "기지국의 AI로 흔드는 시대 활로 스타링크 통신사"
-    ],
-    [
      "2026-10-15T13:35:22.750525+09:00",
      "KOSPI"
     ],
@@ -1385,8 +1377,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.kukinews.com/article/view/kuk202610150045",
-    "https://www.mk.co.kr/article/12176468",
     "https://www.sentv.co.kr/article/view/sentv202610150027",
     "https://www.socialvalue.kr/news/view/1065574678938084",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=267793",
@@ -2884,11 +2874,11 @@
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=714174",
     "https://www.hani.co.kr/arti/area/yeongnam/1282631.html",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4112630",
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=601197"
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=601197",
+    "https://weekly.khan.co.kr/article/202610151926001",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8686737"
    ],
    "seen_titles": [
-    "삼성전자,실리콘밸리서미래통신서밋개최…AI·6G기술공개",
-    "美물가충격에시퍼렇게질린증시…양시장매도사이드카",
     "현대차·LX인터등11곳‘2026년아이키우기좋은기업’수상",
     "SKT,장애청소년AI활용역량키운다…‘행복AI챌린지’열어",
     "“AI가100년통신망바꾼다”...삼성전자,6G생태계협력주도",
@@ -4386,10 +4376,12 @@
     "홍지선국토부장관,'반도체국가산단'예정지광주군공항부지서현장...",
     "전국곳곳미디어파사드유행…잦은고장에일부는골칫거리",
     "홍지선국토부장관,반도체부지방문\"산단적기제공\"",
-    "솔리다임美상장에與칼빼들어⋯\"주주가치훼손안된다\""
+    "솔리다임美상장에與칼빼들어⋯\"주주가치훼손안된다\"",
+    "“국민연금240조증발,고갈10년빨라진다”?…코스피폭락후퍼진글...",
+    "‘강릉데이터센터’논란확산…국민의힘“우상호고발할것”"
    ],
    "initialized": true,
-   "last_run": "2026-10-15T19:25:22.746848+09:00"
+   "last_run": "2026-10-15T19:30:39.104423+09:00"
   }
  },
  "press_names": {
