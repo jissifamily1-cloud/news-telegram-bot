@@ -113,8 +113,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495790",
-    "https://www.econovill.com/news/articleView.html?idxno=753797",
     "https://www.mt.co.kr/industry/2026/10/16/2026101523212871551",
     "https://www.yna.co.kr/view/AKR20261016023600008?input=1195m",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=280772",
@@ -1612,11 +1610,11 @@
     "https://www.lawtimes.co.kr/news/articleView.html?idxno=227907",
     "https://www.segye.com/newsView/20261016511943?OutUrl=naver",
     "https://www.lawtimes.co.kr/news/articleView.html?idxno=227799",
-    "https://www.sedaily.com/article/20102702"
+    "https://www.sedaily.com/article/20102702",
+    "http://www.beyondpost.co.kr/view.php?ud=2026101705410478072aaae0046f_30",
+    "https://www.fnnews.com/news/202610170540489641"
    ],
    "seen_titles": [
-    "“SK하이닉스,트럼프에美공장짓는대신中공장장비반입허용요구...",
-    "비트코인8만1000달러아래로밀렸다…아시아증시급락에위험자산매...",
     "SK하이닉스,43년역사담은'초심'캠페인공개",
     "LG유플러스아이폰Duo6개월반납에\"70%보상\"국내첫도입",
     "中D램공습?현물가는뛰었다…내년삼전닉스합산익'964조'전망",
@@ -3114,10 +3112,12 @@
     "K-반도체날자'美특허괴물'이움직인다",
     "“헛똑똑이다”…남보라,엔비디아수익률300%찍고도돈못번이유",
     "[코트의시선]해킹맛집,사기천국",
-    "EU,중국에‘킬스위치’만지작…시장문통째로닫나[글로벌모닝브..."
+    "EU,중국에‘킬스위치’만지작…시장문통째로닫나[글로벌모닝브...",
+    "반도체3배추종'속슬(SOXL)',12.7%급락...9거래일간하락율,무려53%...",
+    "[뉴욕증시]반도체급락속일제히하락…'속슬'12.7%폭락"
    ],
    "initialized": true,
-   "last_run": "2026-10-17T05:45:23.100214+09:00"
+   "last_run": "2026-10-17T05:50:26.704349+09:00"
   }
  },
  "press_names": {
