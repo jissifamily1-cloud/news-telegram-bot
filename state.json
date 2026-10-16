@@ -221,7 +221,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.intn.co.kr/news/articleView.html?idxno=2054068",
     "https://www.pointe.co.kr/news/articleView.html?idxno=86146",
     "https://www.imaeil.com/page/view/2026101609001546709",
     "https://www.thebigdata.co.kr/view.php?ud=2026101516444992030ecbf9426b_23",
@@ -1720,10 +1719,10 @@
     "https://www.theguru.co.kr/news/article.html?no=108390",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=65926",
     "https://www.globale.co.kr/news/articleView.html?idxno=41075",
-    "https://www.newdaily.co.kr/site/data/html/2026/10/17/2026101700009.html"
+    "https://www.newdaily.co.kr/site/data/html/2026/10/17/2026101700009.html",
+    "https://m.sports.naver.com/basketball/article/065/0000303000"
    ],
    "seen_titles": [
-    "베슬AI,한국투자증권과손잡고AI반도체인프라투자확대추진",
     "[미르의알기쉬운비즈니스]AI에돈쏟아붓던월가…계산기를다시꺼낸...",
     "[국세칼럼]분기영업익107조대박,마냥환호만할때인가",
     "[오늘일본은]韓·日,100억달러통화스와프3년연장…2029년까지금융...",
@@ -3222,10 +3221,11 @@
     "[통신리뷰]KT,AI매장음악서비스'래디오비즈'출시(10월2주차)",
     "용인특례시,진주시와자매결연…19번째국내자매도시",
     "뉴욕증시,AI신용위험재부각·헤지펀드매도에급락마감",
-    "'꼴찌'맞대결,소노가이겼다"
+    "'꼴찌'맞대결,소노가이겼다",
+    "[주말프리뷰]'무패듀오,잠실형제'돌아온SK,개막5연승에도전하..."
    ],
    "initialized": true,
-   "last_run": "2026-10-17T07:55:21.291186+09:00"
+   "last_run": "2026-10-17T08:00:38.542917+09:00"
   }
  },
  "press_names": {
