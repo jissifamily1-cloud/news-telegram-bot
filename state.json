@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-16T06:15:25.730778+09:00",
-     "약세 반도체 강남3구 지속에도 경기 남부 불장 벨트는"
-    ],
-    [
-     "2026-10-16T06:15:25.730778+09:00",
-     "500선까지 폭락 목요일 검은 밀렸다"
-    ],
-    [
-     "2026-10-16T06:15:25.730778+09:00",
-     "1위 전기차 10월 상장기업 기아 현대차 충전"
-    ],
-    [
-     "2026-10-16T06:15:25.730778+09:00",
-     "63억 해외수주 그쳐 반토막 달러 이상 건설사 절반 현대건설 홀로 10대"
-    ],
-    [
      "2026-10-16T06:20:27.401031+09:00",
      "안전자산 방어주 뉴욕 증시 하락 데일리 선호에 반등 국채 금리 중심"
     ],
@@ -1273,10 +1257,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202610151539071857e30fcb1ba8_1",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=172255",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1187196",
-    "http://www.segyebiz.com/newsView/20261015518580?OutUrl=naver",
     "https://www.fnnews.com/news/202610151546306221",
     "http://www.metroseoul.co.kr/article/20261015500448",
     "https://www.koreaherald.com/article/10904070",
@@ -2772,13 +2752,13 @@
     "https://www.s-journal.co.kr/news/articleView.html?idxno=44512",
     "https://www.newspost.kr/news/articleView.html?idxno=226444",
     "https://www.hitnews.co.kr/news/articleView.html?idxno=79885",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610160068&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610160068&t=NN",
+    "https://www.sportsseoul.com/news/read/1641786",
+    "https://www.econovill.com/news/articleView.html?idxno=753839",
+    "https://www.econovill.com/news/articleView.html?idxno=753829",
+    "http://www.newsfc.co.kr/news/articleView.html?idxno=81780"
    ],
    "seen_titles": [
-    "[뉴스1PICK]코스피·코스닥7%대급락'검은목요일'",
-    "국내증시패닉,외인매도세에7%대폭락",
-    "[SEDEX2026르포]삼성은쌓고SK는늘린다…차세대메모리대전",
-    "연1200억벌려는신한…롯데손보적자메우고자본확충나설듯",
     "양대악재,코스피'곤두박질'...에스원·코웨이는'활짝'",
     "'HBM의아버지'KAIST김정호교수과학기술혁신대상수상",
     "‘ETF명가’삼성자산운용,상품라인업혁신가속",
@@ -4274,10 +4254,14 @@
     "[TheCeo-Verse]정재헌SK텔레콤대표취임1년,실적회복넘어AI데이...",
     "[현장]장정훈인텔리빅스대표\"26년간안전AI올인해진입장벽구축...",
     "\"품절약을구하는것도능력\"…각자도생에내몰리는약국들",
-    "괜히겁먹고던졌나…\"중국기술은종이호랑이\""
+    "괜히겁먹고던졌나…\"중국기술은종이호랑이\"",
+    "따뜻한마음은코트를타고…SK오세근,아이들과미래재단에기부금전...",
+    "유안타證\"코스피급락,외국인매도받아낼매수세부족비롯\"",
+    "삼전·하이닉스급락에KB證\"실적훼손보다수급공백…과도한조정\"",
+    "서학개미.주가급락에도'반도체3배레버리지'4천억순매수"
    ],
    "initialized": true,
-   "last_run": "2026-10-16T12:15:24.880076+09:00"
+   "last_run": "2026-10-16T12:20:26.303853+09:00"
   }
  },
  "press_names": {
