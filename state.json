@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-16T12:45:24.766542+09:00",
-     "줄어 42만달러어치가 아르쿠스 토큰 3x 레딧 후드"
-    ],
-    [
      "2026-10-16T12:50:27.773630+09:00",
      "대기시간 비대면으로 출차 SK렌터카 제주지점 감소"
     ],
@@ -1102,11 +1098,17 @@
     [
      "2026-10-16T18:40:28.797119+09:00",
      "없습니다 약은 식약처 잘하는 공부 수능"
+    ],
+    [
+     "2026-10-16T18:45:33.358543+09:00",
+     "터진 뒤에야 점검 빚투 앵커 급락에 코스피 CNBC 일침"
+    ],
+    [
+     "2026-10-16T18:45:33.358543+09:00",
+     "처벌 주진우 집행유예가 기술유출 여전히 약해"
     ]
    ],
    "seen_urls": [
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=145738",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1728050",
     "https://www.ajunews.com/view/20261016072248699",
     "https://www.greened.kr/news/articleView.html?idxno=352224",
     "https://www.news1.kr/society/court-prosecution/6321639",
@@ -2604,11 +2606,11 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8687781",
     "https://www.mk.co.kr/article/12178156",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=279024",
-    "https://futurechosun.com/?p=163481"
+    "https://futurechosun.com/?p=163481",
+    "http://www.joseilbo.com/news/news_read.php?uid=577584&class=53",
+    "https://www.mt.co.kr/politics/2026/10/16/2026101618382444219"
    ],
    "seen_titles": [
-    "[머니테크…커버드콜바로알기]‘고분배율’이면의덫…원금갉아먹...",
-    "[오늘의이슈]코스피폭락다음날,숨돌릴수있나",
     "[오늘의글로벌마켓]뉴욕증시,기술주경계감속국채금리진정에3대...",
     "삼성전기4.3조이어SK트리켐도…세종명학산단달군다",
     "[아주증시포커스]코스피·코스닥7%동반급락…'패닉'에빠진증시外",
@@ -4106,10 +4108,12 @@
     "일언론,최태원‘한일경제공동체’조명“긍정적…실현은미지수”",
     "“내년까지주식계좌안볼랍니다”…8일만에추락겨우멈췄지만",
     "KOSPIReboundsAbove5,600AfterSeven-DaySlide",
-    "[더나은미래경제브리핑]“공부잘하는약은없습니다”식약처,수능..."
+    "[더나은미래경제브리핑]“공부잘하는약은없습니다”식약처,수능...",
+    "“빚투터진뒤에야점검?”…코스피급락에CNBC앵커‘일침’",
+    "주진우\"기술유출여전히처벌약해...집행유예가73%\""
    ],
    "initialized": true,
-   "last_run": "2026-10-16T18:40:53.045384+09:00"
+   "last_run": "2026-10-16T18:45:33.358543+09:00"
   }
  },
  "press_names": {
