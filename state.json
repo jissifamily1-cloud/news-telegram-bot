@@ -1094,16 +1094,17 @@
     [
      "2026-10-16T17:55:21.238536+09:00",
      "열쇠는 신뢰 반등 가격 싸졌지만 증시 수급과"
+    ],
+    [
+     "2026-10-16T18:00:43.040136+09:00",
+     "뛴다 서버용 가격 씨마른 4분기 범용 D램 쏠림에"
+    ],
+    [
+     "2026-10-16T18:00:43.040136+09:00",
+     "기회 저가매수 메모리 업황 탄탄"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20261015076100007?input=1195m",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=616057",
-    "https://www.mt.co.kr/world/2026/10/16/2026101606231752124",
-    "https://www.munhwa.com/article/11623876",
-    "https://www.news1.kr/industry/general-industry/6321526",
-    "https://www.labortoday.co.kr/news/articleView.html?idxno=237231",
-    "https://www.hankyung.com/article/2026101549476",
     "https://www.imaeil.com/page/view/2026101606373173311",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=280586",
     "https://www.todayenergy.kr/news/articleView.html?idxno=304242",
@@ -2596,16 +2597,16 @@
     "https://www.hankyung.com/article/2026101670881",
     "https://www.businesspost.co.kr/BP?command=article_view&num=449598",
     "https://www.news1.kr/local/gwangju-jeonnam/6322907",
-    "https://www.edaily.co.kr/News/Read?newsId=04808486645613576&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=04808486645613576&mediaCodeNo=257",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=90975",
+    "https://www.hankyung.com/article/2026101671401",
+    "https://www.m-i.kr/news/articleView.html?idxno=2006974",
+    "https://www.edaily.co.kr/News/Read?newsId=04870806645613576&mediaCodeNo=257",
+    "https://www.mk.co.kr/article/12178100",
+    "https://www.mk.co.kr/article/12178104",
+    "https://www.mk.co.kr/article/12178105"
    ],
    "seen_titles": [
-    "엔비디아1.84%↓,마이크론1.87%↑...반도체주,혼조로마감",
-    "[뉴욕증시마감시황]코스피한숨돌리나…美기술주반등에메모리주...",
-    "◇내일의경기(17·18일)",
-    "코스피·코스닥동반폭락,삼성전자·SK하이닉스·알테오젠등'풀썩'…...",
-    "폭락장불렀던코어위브도반등…역시젠슨황[뉴욕마감]",
-    "[속보]국채금리하락에뉴욕증시일제히상승마감…마이크론1.87%↑",
-    "'너도나도'삼성·SK하닉,소부장부스'한산'…반도체양극화[르포]",
     "[단독-중대재해리포트⑥]'조희대코트'중대재해무죄율,형사재판의...",
     "\"AI호황끝났나?\"…美긴축우려고조속하락한장기채금리[분석+]",
     "애플터너스CEO\"메모리위기,중국산포함모든선택지검토\"",
@@ -4098,10 +4099,17 @@
     "스타트업군단,누리호발사참여…민간주도'뉴스페이스'개막",
     "[이주의ETF]한국투자신탁운용'ACE인버스'18.17%올라상승률1위,인...",
     "'반도체클러스터조성'전남광주특별시에'반도체로'생겼다",
-    "\"韓증시,가격싸졌지만반등열쇠는수급과AI신뢰\""
+    "\"韓증시,가격싸졌지만반등열쇠는수급과AI신뢰\"",
+    "아시아증시,기술주매도충격딛고반등…한국코스피2.1%상승",
+    "코스피PER26년來최저…이렇게싼데선뜻안산다",
+    "SK하이닉스,협력사직원·가족3만명서울랜드초청",
+    "텍사스보는TSMC·日자금업은GF…커지는美파운드리판",
+    "[뉴스&분석]애플\"메모리품귀위기\"…중국산검토",
+    "서버용쏠림에씨마른범용D램…4분기가격최대15%뛴다",
+    "\"메모리株업황탄탄…저가매수기회\""
    ],
    "initialized": true,
-   "last_run": "2026-10-16T17:55:21.238536+09:00"
+   "last_run": "2026-10-16T18:00:43.040136+09:00"
   }
  },
  "press_names": {
