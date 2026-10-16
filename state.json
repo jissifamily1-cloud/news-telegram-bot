@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-16T05:45:26.169935+09:00",
-     "3대 물가 충격에도 지수 상승 증시"
-    ],
-    [
-     "2026-10-16T05:45:26.169935+09:00",
-     "에이전트 시대 이유 주목하는 다시 문자 SKT가"
-    ],
-    [
-     "2026-10-16T05:45:26.169935+09:00",
-     "정유 공전 석화 확전 중동 손익계산서 복잡해진"
-    ],
-    [
      "2026-10-16T05:50:27.844937+09:00",
      "SOCCER NORWAY"
     ],
@@ -1306,15 +1294,17 @@
     [
      "2026-10-16T11:45:25.261065+09:00",
      "혁신 경기도 스타트업 산업 성료 경기 서밋 투자"
+    ],
+    [
+     "2026-10-16T11:50:26.491666+09:00",
+     "양산 28년 케이블 탠덤 소재 한화솔루션 키운다 초고압"
+    ],
+    [
+     "2026-10-16T11:50:26.491666+09:00",
+     "과도 월가 추격론 발표와 양산은 CXMT 별개"
     ]
    ],
    "seen_urls": [
-    "https://www.kmib.co.kr/article/view.asp?arcid=9000022888&cp=nv",
-    "https://www.joongangenews.com/news/articleView.html?idxno=555420",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=883669",
-    "https://news.dealsitetv.com/articles/177026",
-    "https://www.edaily.co.kr/News/Read?newsId=04733046645613248&mediaCodeNo=257",
-    "https://www.nocutnews.co.kr/news/6592160",
     "https://www.cstimes.com/news/articleView.html?idxno=724120",
     "https://dealsite.co.kr/articles/170751",
     "https://www.idaegu.com/news/articleView.html?idxno=666305",
@@ -2808,15 +2798,15 @@
     "https://www.cwn.kr/news/articleView.html?idxno=59546",
     "https://biz.sbs.co.kr/article_hub/20000340378?division=NAVER",
     "https://www.koreaittimes.com/news/articleView.html?idxno=158214",
-    "https://it.donga.com/109710/"
+    "https://it.donga.com/109710/",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=319138",
+    "https://www.sedaily.com/article/20102435",
+    "https://www.ppss.kr/news/articleView.html?idxno=315859",
+    "https://www.hani.co.kr/arti/economy/finance/1282728.html",
+    "https://www.news1.kr/industry/general-industry/6322297",
+    "https://www.yna.co.kr/view/AKR20261016056400009?input=1195m"
    ],
    "seen_titles": [
-    "국민의힘강원도당\"우상호도지사는강릉AI데이터센터유치확정근거...",
-    "행안부,‘사회연대경제생태계리더십국제교류회’개최…15개국리더...",
-    "[거래소기관]삼성전자폭풍매수왜?…KB금융·삼성바이오로직스도'러...",
-    "‘빚투’개미덮친급락후폭풍…'레버리지사태'이후최대",
-    "코스피7.57%급락마감…6000선내주며5554.22",
-    "SK바이오팜주가,10월15일69,400원1.28%하락",
     "AI필살기로글로벌통신우군섭외총력전삼성전자,6G대관식'성큼'",
     "전남광주반도체클러스터속도전…최태원·정부릴레이점검",
     "삼전·하닉주가는폭락…증권가평균목표가는2배이상",
@@ -4310,10 +4300,16 @@
     "애플아이폰듀오사전예약출격...이통3사,혜택대결본격화",
     "'AI슈퍼사이클'벌써끝?…나흘만에시총1조달러증발",
     "[인사이트]TSMC는사상최대실적,한국증시는급락…AI투자에대한...",
-    "'2026경기스타트업서밋'성료...경기도혁신스타트업,투자-산업-글..."
+    "'2026경기스타트업서밋'성료...경기도혁신스타트업,투자-산업-글...",
+    "어디혜택이제일낫나,이통3사일제히'아이폰듀오'예약개시",
+    "9%하락한삼성전자…수익률상위1%개미집중매수[주식초고수는지...",
+    "코스피,7%대폭락하루만에반등…외국인매도에회복세는'불안'",
+    "’전날7%폭락’코스피반등...3%대상승중",
+    "한화솔루션,탠덤셀28년양산초고압케이블소재키운다(종합)",
+    "월가\"CXMT추격론과도\"…\"발표와양산은별개\""
    ],
    "initialized": true,
-   "last_run": "2026-10-16T11:45:25.261065+09:00"
+   "last_run": "2026-10-16T11:50:26.491666+09:00"
   }
  },
  "press_names": {
