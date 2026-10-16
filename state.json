@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-16T13:05:19.850006+09:00",
-     "요구 국감서 증인 최태원 기노위 이재용 송구"
-    ],
-    [
      "2026-10-16T13:10:28.687695+09:00",
      "공유 응답 지연 기술 검증 줄일 메모리 SK하이닉스"
     ],
@@ -1106,11 +1102,13 @@
     [
      "2026-10-16T19:00:46.050253+09:00",
      "데이 곽노정 땡스풀 대표이사 하는 감사인사"
+    ],
+    [
+     "2026-10-16T19:05:24.981982+09:00",
+     "견본 에피트 청주 남부권 부상 타운 더웨이시티 신분평 브랜드 16일"
     ]
    ],
    "seen_urls": [
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259800",
-    "https://news.ifm.kr/news/articleView.html?idxno=481811",
     "https://news.bizwatch.co.kr/article/healthcare/2026/10/14/0036",
     "https://www.gosiweek.com/article/1065565685162775",
     "https://www.etoday.co.kr/news/view/2636448",
@@ -2608,11 +2606,11 @@
     "https://www.todaykorea.co.kr/news/articleView.html?idxno=407280",
     "https://www.kmecnews.co.kr/news/articleView.html?idxno=52356",
     "http://www.00news.co.kr/news/articleView.html?idxno=107211",
-    "https://www.yna.co.kr/view/PYH20261016106400003?input=1196m"
+    "https://www.yna.co.kr/view/PYH20261016106400003?input=1196m",
+    "https://www.kizmom.com/news/articleView.html?idxno=113344",
+    "https://www.econovill.com/news/articleView.html?idxno=753935"
    ],
    "seen_titles": [
-    "[K-금융글로벌전략2026][폴란드·헝가리]한국기업만바라보지않는...",
-    "[KFT모닝브리프]2026.10.16—오늘꼭알아야할국내외경제뉴스",
     "[넥스트-샷]AI대신운동화?···물가1.3%급등에도뉴욕증시반등한...",
     "[증권사빚투의그늘①]63조원까지불어난증권사신용공여…부동산금...",
     "사옥·지분내다파는바이오기업…'자금확보'안간힘",
@@ -4110,10 +4108,12 @@
     "[투코현장]청년은둔부터노년고립까지···고려대,생애주기별대응...",
     "충북반도체고,'반도체전시회'참가해반도체설비기술탐방",
     "['클릭'증시]젠슨황·케빈워시발언에시장불안완화",
-    "'땡스풀데이'서감사인사하는곽노정대표이사"
+    "'땡스풀데이'서감사인사하는곽노정대표이사",
+    "[스포츠]전북현대,18일제주SK와맞대결…파이널A진출걸린'승점사...",
+    "\"청주남부권브랜드타운부상\"…'신분평에피트더웨이시티'16일견본..."
    ],
    "initialized": true,
-   "last_run": "2026-10-16T19:00:46.050253+09:00"
+   "last_run": "2026-10-16T19:05:24.981982+09:00"
   }
  },
  "press_names": {
