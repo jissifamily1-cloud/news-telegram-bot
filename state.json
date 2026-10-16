@@ -326,14 +326,17 @@
     [
      "2026-10-17T08:45:22.374053+09:00",
      "주가 변동성 5거래일 약세 SK하이닉스 최근 확대 마감"
+    ],
+    [
+     "2026-10-17T08:50:23.720648+09:00",
+     "참여 성장의 메가프로젝트 열린다 3대 김기문 주체로"
+    ],
+    [
+     "2026-10-17T08:50:23.720648+09:00",
+     "하락 인버스 미국 기술주 몰렸 베팅에 만에 ETF 하루 자금 NBIS"
     ]
    ],
    "seen_urls": [
-    "https://www.ekn.kr/web/view.php?key=20261016028506996",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072121",
-    "https://www.tokenpost.kr/news/breaking/423141",
-    "https://economist.co.kr/article/view/ecn202610160003",
-    "https://www.tokenpost.kr/news/breaking/423146",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495820",
     "http://www.press9.kr/news/articleView.html?idxno=84373",
     "https://www.newsis.com/view/NISX20261016_0003828485",
@@ -1828,14 +1831,14 @@
     "https://www.bntnews.co.kr/article/view/bnt202610170066",
     "https://www.topstarnews.net/news/articleView.html?idxno=16249543",
     "https://mhnse.com/news/articleView.html?idxno=1598172",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16249546"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16249546",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1728182",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=53734",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16249551",
+    "http://www.kbiznews.co.kr/news/articleView.html?idxno=114977",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496077"
    ],
    "seen_titles": [
-    "폴더블아이폰구매부담대폭낮춘다",
-    "상장이틀차멜콘,반도체폭락장에도연일강세…14%대상승",
-    "한미재계,3500억달러투자이행선언…미국은한국의비관세장벽해소...",
-    "백억커피,IFS프랜차이즈창업산업박람회참가…300호점넘어가맹사...",
-    "코스피5650.67로1.74%상승개장…반도체주도2%대",
     "구직자뽑은관심기업,SK하이닉스·삼성전자'1·2위가아니네'",
     "코스피1.8%오른5653.99개장…삼성전자·SK하이닉스2%대",
     "코스피,장초반1.70%반등해5640선회복...삼성전자·SK하이닉스동반...",
@@ -3330,10 +3333,15 @@
     "‘영크크는출근중’이미주,학폭편견반박",
     "이미주\"직업계고,날라리만모인곳아냐…학폭은드라마일뿐\"",
     "이미주,직업계고편견에일침…\"학폭은드라마일뿐이다\"('영크크는...",
-    "최근5거래일SK하이닉스주가변동성확대속약세마감"
+    "최근5거래일SK하이닉스주가변동성확대속약세마감",
+    "\"AI우려에유가폭탄까지\"…뉴욕증시기술주잔혹사,'금융위기급'신...",
+    "AI주급락·유가급등…뉴욕증시동반하락",
+    "최근5거래일SK스퀘어주가70만원대등락",
+    "김기문\"中企도성장의주체로\"…3대메가프로젝트참여길열린다",
+    "하루만에24%뛴NBIS인버스ETF…미국기술주하락베팅에자금몰렸..."
    ],
    "initialized": true,
-   "last_run": "2026-10-17T08:45:22.374053+09:00"
+   "last_run": "2026-10-17T08:50:23.720648+09:00"
   }
  },
  "press_names": {
