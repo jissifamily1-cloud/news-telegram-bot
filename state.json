@@ -1177,13 +1177,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ziksir.com/news/articleView.html?idxno=149540",
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=87610",
-    "https://www.womennews.co.kr/news/articleView.html?idxno=283347",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000073770",
-    "https://news.mtn.co.kr/article/2026101515292252041",
-    "http://www.metroseoul.co.kr/article/20261015500382",
-    "https://biz.sbs.co.kr/article_hub/20000340199?division=NAVER",
     "https://www.epnc.co.kr/news/articleView.html?idxno=408276",
     "http://www.metroseoul.co.kr/article/20261015500393",
     "https://www.sedaily.com/article/20102052",
@@ -2676,16 +2669,16 @@
     "https://www.industrynews.co.kr/news/articleView.html?idxno=87621",
     "https://www.newsq.co.kr/news/articleView.html?idxno=500474",
     "https://www.sedaily.com/article/20102409",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=798333"
+    "http://www.weeklytoday.com/news/articleView.html?idxno=798333",
+    "https://mhnse.com/news/articleView.html?idxno=1595263",
+    "https://www.inthenews.co.kr/news/article.html?no=93148",
+    "https://www.widedaily.com/news/articleView.html?idxno=302021",
+    "https://biz.heraldcorp.com/article/10904808",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=616229",
+    "https://www.sisajournal.com/news/articleView.html?idxno=390494",
+    "https://www.news2day.co.kr/article/20261016500094"
    ],
    "seen_titles": [
-    "금융당국'증시폭락'긴급점검회의…\"불법공매도엄정대응\"",
-    "여주시,가남신해산업단지홍보총력전",
-    "'SSD경쟁자'中YMTC는6조IPO…솔리다임도실탄시급",
-    "이미승인한SK하이닉스의미국산반도체장비중국반입'태클'",
-    "한경협,제36차한미재계회의개최…전략투자이행·첨단산업협력강화...",
-    "AI로문제풀고영상제작까지…SKT,장애청소년110명참여한경진대회...",
-    "한미연이뽑은‘2026아이키우기좋은기업’11곳어디?",
     "2030년첫양산…전남광주시,반도체산단조기착공속도전",
     "증시폭락에긴급회의…금융당국\"과도한빚투자제해야\"",
     "기노위국감기업총수증인미채택에반발…'명지라인'남광우자료미...",
@@ -4178,10 +4171,17 @@
     "[전문가칼럼]'투자자보호'외치던금감원,획일적상폐에는왜침묵...",
     "ACL진출엔총력,본선은로테이션…기묘한딜레마[K리그]",
     "“韓금융당국에한말씀드릴게요”‘버럭’한美유명앵커…작심발...",
-    "[건설업계동향]현대건설ㆍSK에코플랜트ㆍ호반건설(10.16)"
+    "[건설업계동향]현대건설ㆍSK에코플랜트ㆍ호반건설(10.16)",
+    "'13남매장녀'남보라,주식금손이었네…\"엔비디아300%→하이닉스10%...",
+    "SK오션플랜트,대만에너지전시회4년연속참가…해상풍력협력확대",
+    "\"취준생원픽은SK하이닉스\"…현대차·인천공항제치고관심기업1위",
+    "엑시나,OCP글로벌서밋2026서CXL기반메모리기술공개…AI추론활...",
+    "삼성바이오로직스,10월제약상장기업브랜드평판1위…셀트리온·한미...",
+    "대형주의배신…고점서하닉57%·삼전41%·현대차49%'뚝'",
+    "구직자관심기업1·2위는SK하이닉스·현대차…삼성전자는5위"
    ],
    "initialized": true,
-   "last_run": "2026-10-16T10:55:19.322639+09:00"
+   "last_run": "2026-10-16T11:00:42.971917+09:00"
   }
  },
  "press_names": {
