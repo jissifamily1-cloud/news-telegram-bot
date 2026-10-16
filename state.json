@@ -146,11 +146,13 @@
     [
      "2026-10-17T06:25:22.976690+09:00",
      "식혀라 냉각시 LG 데이터센터 열을 삼성 서버"
+    ],
+    [
+     "2026-10-17T06:30:33.078182+09:00",
+     "하이닉스 개미들 던질 16조 삼전 쓸어담은 외국인 7조"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2636492",
-    "http://www.ttlnews.com/news/articleView.html?idxno=3152342",
     "https://www.insight.co.kr/news/577914",
     "https://www.edaily.co.kr/News/Read?newsId=02706006645613576&mediaCodeNo=257",
     "https://www.ngonews.kr/news/articleView.html?idxno=240679",
@@ -1648,11 +1650,11 @@
     "https://www.m-economynews.com/news/article.html?no=71778",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=209771",
     "https://www.mediapen.com/news/view/1130624",
-    "https://www.newsverse.kr/news/articleView.html?idxno=11695"
+    "https://www.newsverse.kr/news/articleView.html?idxno=11695",
+    "https://www.yna.co.kr/view/AKR20261017005151072?input=1195m",
+    "https://www.segye.com/newsView/20261017503199?OutUrl=naver"
    ],
    "seen_titles": [
-    "“금융위기때만큼싸다…삼전닉스비중확대적기”[오늘나온보고서...",
-    "\"초격차전고체와가성비나트륨\"…韓,미래배터리'투트랙R&D'집중...",
     "호남권반도체산단'속도전'…기업투자맞춰부지공급",
     "LOT폴란드항공서울취항10년…131만명수송ㆍ비즈니스탑승률90%육...",
     "2026LoL월즈개막...롤드컵우승가르는'징크스',올해도이어질까",
@@ -3150,10 +3152,12 @@
     "뉴욕증시,AI·반도체주급락에일제히하락...나스닥2.15%↓",
     "[증권Pick]이번주상장소식모아보기",
     "[美증시]AI부채공포·유가급등에3대지수동반하락…코어위브발반...",
-    "[오늘의경제뉴스]\"AI서버열을식혀라\"…삼성·LG,데이터센터냉각시..."
+    "[오늘의경제뉴스]\"AI서버열을식혀라\"…삼성·LG,데이터센터냉각시...",
+    "AI경고등에유가급등까지…반도체급락,나스닥2.2%↓(종합)",
+    "외국인16조던질때…삼전·하이닉스7조쓸어담은개미들"
    ],
    "initialized": true,
-   "last_run": "2026-10-17T06:25:22.976690+09:00"
+   "last_run": "2026-10-17T06:30:33.078182+09:00"
   }
  },
  "press_names": {
