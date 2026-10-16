@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-16T05:40:28.285603+09:00",
-     "556P 다우 기술주 갈아타기 가치주로 상승 던지고"
-    ],
-    [
      "2026-10-16T05:45:26.169935+09:00",
      "3대 물가 충격에도 지수 상승 증시"
     ],
@@ -1302,18 +1298,17 @@
     [
      "2026-10-16T11:40:26.386309+09:00",
      "25년 전력공급 규모 장기 5000억 삼성바이오로직스와 SK이터닉스"
+    ],
+    [
+     "2026-10-16T11:45:25.261065+09:00",
+     "증시는 한국 TSMC는 사상 투자에 급락 실적"
+    ],
+    [
+     "2026-10-16T11:45:25.261065+09:00",
+     "혁신 경기도 스타트업 산업 성료 경기 서밋 투자"
     ]
    ],
    "seen_urls": [
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707474",
-    "https://www.yna.co.kr/view/AKR20261015063300530?input=1195m",
-    "https://www.newspim.com/news/view/20261015000327",
-    "https://www.news1.kr/photos/8161405",
-    "https://www.mediapen.com/news/view/1130220",
-    "https://www.kado.net/news/articleView.html?idxno=2078341",
-    "https://www.viva100.com/article/20261015500772",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495690",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610150119&t=NN",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000022888&cp=nv",
     "https://www.joongangenews.com/news/articleView.html?idxno=555420",
     "https://www.getnews.co.kr/news/articleView.html?idxno=883669",
@@ -2804,18 +2799,18 @@
     "https://www.fntoday.co.kr/news/articleView.html?idxno=395456",
     "https://dealsite.co.kr/articles/170804",
     "https://www.mk.co.kr/article/12177677",
-    "https://www.donga.com/news/Economy/article/all/20261016/134853705/1"
+    "https://www.donga.com/news/Economy/article/all/20261016/134853705/1",
+    "https://www.hankyung.com/article/202610166167O",
+    "https://www.munhwa.com/article/11624010",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610160060&t=NN",
+    "https://www.fnnews.com/news/202610161106527840",
+    "http://www.inews24.com/view/2015800",
+    "https://www.cwn.kr/news/articleView.html?idxno=59546",
+    "https://biz.sbs.co.kr/article_hub/20000340378?division=NAVER",
+    "https://www.koreaittimes.com/news/articleView.html?idxno=158214",
+    "https://it.donga.com/109710/"
    ],
    "seen_titles": [
-    "미국발한풍에코스피폭락...'검은목요일'개미들패닉",
-    "'반도체휘청'코스피검은목요일",
-    "행안부,사회적기업월드포럼세션주관...글로벌연대강화",
-    "15개국사회연대경제주요인사서울집결…국제협력방안논의",
-    "'검은목요일'코스피·코스닥폭락...동반서킷브레이커",
-    "[게시판]행안부,'사회연대경제생태계리더십국제교류회'개최",
-    "스코틀랜드장관등15개국39명방한…사회연대경제국제협력논의",
-    "'반도체휘청'코스피폭락마감",
-    "美CPI충격에코스피도'휘청'…증시어디로가나",
     "국민의힘강원도당\"우상호도지사는강릉AI데이터센터유치확정근거...",
     "행안부,‘사회연대경제생태계리더십국제교류회’개최…15개국리더...",
     "[거래소기관]삼성전자폭풍매수왜?…KB금융·삼성바이오로직스도'러...",
@@ -4306,10 +4301,19 @@
     "SK디앤디,최대주주한앤코개발홀딩스유상신주취득…지분율80.58%로...",
     "앤트로픽‘2조달러'흔들…K반도체·전력망에경고등",
     "“삼전닉스레버리지몰릴때뭐하고있었냐”…美앵커,韓금융당국대...",
-    "SK이터닉스,삼성바이오로직스와5000억원규모25년장기전력공급계..."
+    "SK이터닉스,삼성바이오로직스와5000억원규모25년장기전력공급계...",
+    "아크메르동탄,16일견본주택개관…공원·교통·산업단지접근성갖춰",
+    "리밸런싱못한국민연금…“외국인ATM전락”",
+    "\"일주일내내곡소리나더니\"…코스피모처럼'활짝'",
+    "\"엔비디아수익률300%찍고팔았다\"남보라고백에탄식나온이유",
+    "구직자관심기업1위SK하이닉스…현대차2위·삼성전자5위",
+    "애플아이폰듀오사전예약출격...이통3사,혜택대결본격화",
+    "'AI슈퍼사이클'벌써끝?…나흘만에시총1조달러증발",
+    "[인사이트]TSMC는사상최대실적,한국증시는급락…AI투자에대한...",
+    "'2026경기스타트업서밋'성료...경기도혁신스타트업,투자-산업-글..."
    ],
    "initialized": true,
-   "last_run": "2026-10-16T11:40:26.386309+09:00"
+   "last_run": "2026-10-16T11:45:25.261065+09:00"
   }
  },
  "press_names": {
