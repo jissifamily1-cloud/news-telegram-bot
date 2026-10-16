@@ -337,7 +337,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495820",
     "http://www.press9.kr/news/articleView.html?idxno=84373",
     "https://www.newsis.com/view/NISX20261016_0003828485",
     "https://www.thebigdata.co.kr/view.php?ud=202610160748409724d0a8833aad_23",
@@ -1836,10 +1835,10 @@
     "https://www.koreareport.co.kr/news/articleView.html?idxno=53734",
     "https://www.topstarnews.net/news/articleView.html?idxno=16249551",
     "http://www.kbiznews.co.kr/news/articleView.html?idxno=114977",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496077"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496077",
+    "https://www.sentv.co.kr/article/view/sentv202610170008"
    ],
    "seen_titles": [
-    "구직자뽑은관심기업,SK하이닉스·삼성전자'1·2위가아니네'",
     "코스피1.8%오른5653.99개장…삼성전자·SK하이닉스2%대",
     "코스피,장초반1.70%반등해5640선회복...삼성전자·SK하이닉스동반...",
     "삼성·하이닉스,AI투자경계감해소'메모리수요'가관건",
@@ -3338,10 +3337,11 @@
     "AI주급락·유가급등…뉴욕증시동반하락",
     "최근5거래일SK스퀘어주가70만원대등락",
     "김기문\"中企도성장의주체로\"…3대메가프로젝트참여길열린다",
-    "하루만에24%뛴NBIS인버스ETF…미국기술주하락베팅에자금몰렸..."
+    "하루만에24%뛴NBIS인버스ETF…미국기술주하락베팅에자금몰렸...",
+    "AI부채우려에반도체주급락…나스닥2.2%↓"
    ],
    "initialized": true,
-   "last_run": "2026-10-17T08:50:23.720648+09:00"
+   "last_run": "2026-10-17T08:55:19.900605+09:00"
   }
  },
  "press_names": {
