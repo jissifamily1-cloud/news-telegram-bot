@@ -450,12 +450,17 @@
     [
      "2026-10-17T12:45:23.239381+09:00",
      "10만달러어치 새로 발행돼 토큰이 모더나 후드포크"
+    ],
+    [
+     "2026-10-17T13:00:37.010624+09:00",
+     "아닌 바잉 맞닥뜨린 셀링 버텨야 폭락장 하나 여의도 패닉"
+    ],
+    [
+     "2026-10-17T13:00:37.010624+09:00",
+     "투자협력 일본 경북도 확대 모색 공관 경제단체와"
     ]
    ],
    "seen_urls": [
-    "https://www.inthenews.co.kr/news/article.html?no=93128",
-    "https://biz.sbs.co.kr/article_hub/20000340341?division=NAVER",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610160035&t=NN",
     "https://www.newsis.com/view/NISX20261016_0003828435",
     "http://www.yonhapnewstv.co.kr/news/AKR202610160940245av",
     "http://www.weeklytoday.com/news/articleView.html?idxno=798320",
@@ -1952,12 +1957,12 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1728189",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2481324",
     "https://www.tokenpost.kr/news/blockchain/423629",
-    "https://www.tournews21.com/news/articleView.html?idxno=145968"
+    "https://www.tournews21.com/news/articleView.html?idxno=145968",
+    "https://www.newspost.kr/news/articleView.html?idxno=226467",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1728190",
+    "https://tk.newdaily.co.kr/site/data/html/2026/10/17/2026101700027.html"
    ],
    "seen_titles": [
-    "코스피5653.99출발…코스닥도상승종목속출",
-    "증시급락에반대매매급증…33조‘빚투’투자자비상",
-    "통신3사,아이폰듀오사전예약개시…23일정식출시",
     "코스피급락에도매수세실종…반도체투매경계",
     "'최대500만원'접는아이폰韓상륙...이통사혜택경쟁",
     "아이폰듀오사전예약오늘밤9시시작…이통3사,할인·보상혜택경쟁",
@@ -3454,10 +3459,13 @@
     "국내증시조정받자…해외코인선물'큰손'들,90%이상\"반등에올인...",
     "[증시동향]외인대규모매도에'수급공백'현실화",
     "[로빈후드온체인]모더나토큰이10만달러어치새로발행돼...후드포크...",
-    "포스텍,글로컬대학성과공유회개최…\"연구실기술이지역기업제품으..."
+    "포스텍,글로컬대학성과공유회개최…\"연구실기술이지역기업제품으...",
+    "SK하이닉스,'ThanksFULLDay'개최…협력사구성원·가족3만명초청",
+    "\"패닉바잉아닌패닉셀링\"…폭락장맞닥뜨린여의도,버텨야하나털...",
+    "경북도,일본공관·경제단체와투자협력확대모색"
    ],
    "initialized": true,
-   "last_run": "2026-10-17T12:55:18.588991+09:00"
+   "last_run": "2026-10-17T13:00:37.010624+09:00"
   }
  },
  "press_names": {
