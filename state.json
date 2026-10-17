@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-17T13:40:23.562112+09:00",
-     "SK하이닉스 순익 D램 삼성전자 26조원 중국 충격 CXMT 흔드는"
-    ],
-    [
-     "2026-10-17T13:40:23.562112+09:00",
-     "SK하이닉스 청주 다쳐 끊어진 2명 근로자 케이블에 공사현장서"
-    ],
-    [
      "2026-10-17T14:05:20.121871+09:00",
      "LG그룹 기술 1등 확인 에너지 총출동 히트펌프에 까지 ESS"
     ],
@@ -166,13 +158,17 @@
     [
      "2026-10-17T19:15:21.963275+09:00",
      "주주에게 SK하이닉스 성과급은 직원에게 청원 국회 주가 손실은"
+    ],
+    [
+     "2026-10-17T19:45:24.954037+09:00",
+     "CXMT 매출 전망 3분기 23조 껑충 전년비"
+    ],
+    [
+     "2026-10-17T19:45:24.954037+09:00",
+     "부상 청주 끊어져 SK하이닉스 2명 와이어로프 공사장서"
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/world/2026/10/16/2026101609164264281",
-    "https://www.xportsnews.com/article/2208066",
-    "https://www.news1.kr/sports/soccer/6322161",
-    "http://www.wsobi.com/news/articleView.html?idxno=319801",
     "https://www.businesspost.co.kr/BP?command=article_view&num=449513",
     "https://www.sedaily.com/article/20102377",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=364740",
@@ -1668,13 +1664,13 @@
     "https://sports.khan.co.kr/article/202610171909003?pt=nv",
     "https://www.edaily.co.kr/News/Read?newsId=02778166645613904&mediaCodeNo=257",
     "https://www.kukinews.com/article/view/kuk202610170024",
-    "https://www.newspim.com/news/view/20261017000161"
+    "https://www.newspim.com/news/view/20261017000161",
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434532",
+    "http://www.newstomato.com/ReadNews.aspx?no=1317034&inflow=N",
+    "https://zdnet.co.kr/view/?no=20261017151149",
+    "http://www.newstomato.com/ReadNews.aspx?no=1317035&inflow=N"
    ],
    "seen_titles": [
-    "싱가포르거래소,SK하이닉스·TSMC등AI밸류체인5개사예탁증서상장",
-    "대치·잠실재건축심의통과…1185가구이주수요도주목(종합)",
-    "나스닥은올랐지만반도체주는8일째하락…수요견조한데자본이문제",
-    "남보라,엔비디아수익률300%찍었는데…알고보니'달랑1주'(돈쭐청...",
     "발달장애인·비장애인함께뛰는'K리그플레이원컵'16일개막",
     "통신3사,아이폰듀오사전예약개시",
     "중국CXMT위협에삼성전자SK하이닉스주가하락,UBS\"주주환원강화...",
@@ -3170,10 +3166,14 @@
     "‘야고결승골’울산,부천에역전승,2년만에파이널A복귀…서울의...",
     "성과급은직원에게,주가손실은주주에게?…SK하이닉스국회청원",
     "삼전닉스떨고있나…中CXMT,3분기매출600%폭증예고",
-    "[프로축구]'야고결승골'울산,부천에2-1역전승…2년만에파이널A..."
+    "[프로축구]'야고결승골'울산,부천에2-1역전승…2년만에파이널A...",
+    "울산,부천에2-1역전승…파이널A확정·서울조기우승제동",
+    "중국CXMT,3분기매출600%대↑…삼성·SK맹추격",
+    "CXMT,3분기매출23조전망...전년비600%'껑충'",
+    "청주SK하이닉스공사장서와이어로프끊어져2명부상"
    ],
    "initialized": true,
-   "last_run": "2026-10-17T19:40:23.302171+09:00"
+   "last_run": "2026-10-17T19:45:24.954037+09:00"
   }
  },
  "press_names": {
