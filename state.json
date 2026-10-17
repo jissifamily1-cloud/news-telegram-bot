@@ -233,7 +233,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2636568",
     "https://www.sedaily.com/article/20102343",
     "http://enews.imbc.com/News/RetrieveNewsInfo/521451",
     "http://www.press9.kr/news/articleView.html?idxno=84375",
@@ -1732,10 +1731,10 @@
     "https://www.sisajournal.com/news/articleView.html?idxno=390382",
     "https://www.kyeonggi.com/article/20261017580137",
     "https://www.insight.co.kr/news/578137",
-    "https://www.munhwa.com/article/11624181"
+    "https://www.munhwa.com/article/11624181",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000074203"
    ],
    "seen_titles": [
-    "이통3사'아이폰듀오'사전예약개시…\"최대221만원혜택\"",
     "\"삼전닉스,'W자형반등'위한두번째저점\"...KB증권,코스피PER8배로...",
     "여자핸드볼AG금메달동료들,전국체전서맞대결⋯22일결승",
     "동탄20%뛰자인접비규제급등…반도체벨트‘신고가속출’",
@@ -3234,10 +3233,11 @@
     "44조원대정유사담합의혹,법원의저울은어디로기울까",
     "SK하이닉스공사장서작업중밧줄‘툭’끊겨…근로자2명부상",
     "최태원\"앞으로대학졸업장필요없어...AI시대엔'이능력'이핵심\"",
-    "[속보]‘삼전·닉스추격’CXMT,분기매출600%↑기대"
+    "[속보]‘삼전·닉스추격’CXMT,분기매출600%↑기대",
+    "中창신메모리,3분기매출600%급증전망"
    ],
    "initialized": true,
-   "last_run": "2026-10-17T17:10:24.948355+09:00"
+   "last_run": "2026-10-17T17:15:21.019842+09:00"
   }
  },
  "press_names": {
