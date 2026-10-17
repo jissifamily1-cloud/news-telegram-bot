@@ -301,10 +301,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.lawissue.co.kr/view.php?ud=2026101611054971679817d053b9_12",
-    "https://biz.heraldcorp.com/article/10904843",
-    "http://www.kdfnews.com/news/articleView.html?idxno=189389",
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=87677",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072526",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610160044&t=NN",
     "https://www.ceoscoredaily.com/page/view/2026101610520121761",
@@ -1800,13 +1796,13 @@
     "https://www.kmib.co.kr/article/view.asp?arcid=9000023386&cp=nv",
     "https://www.news1.kr/industry/general-industry/6322820",
     "https://www.kbmaeil.com/article/20261018500021",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610180006&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610180006&t=NN",
+    "https://www.gokorea.kr/news/articleView.html?idxno=881805",
+    "https://www.gokorea.kr/news/articleView.html?idxno=881806",
+    "https://www.dt.co.kr/article/12089591",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496160"
    ],
    "seen_titles": [
-    "[MD포커스]요동치는코스피,두가지악재…“외국인투자자도위험자...",
-    "코스피급락,와중황제주9종목서5종목으로…100조클럽도축소",
-    "SK텔레콤,아이폰듀오사전예약실시",
-    "삼전닉스바닥쳤나2%대반등…“극단적저평가·매수적기?”[종목Pic...",
     "'최대할인'넘어교체·구독까지…통신3사,폴더블아이폰고객쟁탈...",
     "전날7%대급락했던코스피,반발매수세에상승출발…외국인은'팔자...",
     "'아이폰듀오'사전예약시작…이통3사,'할인·보상·경품'마케팅경쟁",
@@ -3302,10 +3298,14 @@
     "‘아,삼전닉스!’…국민연금,3분기보유주식182조원증발",
     "주가떨어지는데웃는직원들?…반도체자사주성과급의역설",
     "삼성전자17.8%·하이닉스24.3%폭락…금융위기이후최악의한주",
-    "\"국민노후자금어쩌나\"…100일만에182조원'증발'"
+    "\"국민노후자금어쩌나\"…100일만에182조원'증발'",
+    "AI와반도체위기에흔들리는한국증시,반등가능성은?",
+    "국민연금182조손실충격,삼성전자·SK하이닉스하락에투자자'촉각'",
+    "“서버용메모리中공세에도가격하락제한적”",
+    "대규모손실속에서도바닥다지기?…국민연금,저가매수나선종목은"
    ],
    "initialized": true,
-   "last_run": "2026-10-18T07:50:23.572637+09:00"
+   "last_run": "2026-10-18T07:55:19.184989+09:00"
   }
  },
  "press_names": {
