@@ -114,11 +114,17 @@
     [
      "2026-10-18T05:50:24.033762+09:00",
      "연속 한국 잠재성장률 전망 반등 만에 40년 대반전"
+    ],
+    [
+     "2026-10-18T05:55:20.169078+09:00",
+     "낮아 최저 가장 환율 19년만에 이달 2년1개월만에"
+    ],
+    [
+     "2026-10-18T05:55:20.169078+09:00",
+     "IMF 거품 세계경제 회복력 재정 경고 직면 한계"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=449508",
-    "https://www.news2day.co.kr/article/20261016500091",
     "https://kr.aving.net/news/articleView.html?idxno=1815562",
     "http://www.seouleconews.com/news/articleView.html?idxno=94371",
     "https://www.delighti.co.kr/news/articleView.html?idxno=123346",
@@ -1616,11 +1622,11 @@
     "https://www.mt.co.kr/future/2026/10/18/2026101323470260792",
     "https://www.dailian.co.kr/news/view/1702356/?sc=Naver",
     "https://www.yna.co.kr/view/AKR20261017019100002?input=1195m",
-    "https://www.segye.com/newsView/20261016509468?OutUrl=naver"
+    "https://www.segye.com/newsView/20261016509468?OutUrl=naver",
+    "https://www.yna.co.kr/view/AKR20261017023400002?input=1195m",
+    "https://www.the-today.com/news/articleView.html?idxno=91913"
    ],
    "seen_titles": [
-    "아이폰듀오예약시작…통신3사,할인·반납보상경쟁",
-    "SK스퀘어주가,10월16일장중785,000원2.61%상승",
     "코스피저가매수세유입장중1%대올라5640선회복,코스닥도2%대상...",
     "[N2증시풍향계]급락장딛고‘삼전·닉스’반등…우주항공·화장품...",
     "\"AI,기술을넘어일상이되다\"…2026미래혁신기술박람회,10월21일엑...",
@@ -3118,10 +3124,12 @@
     "\"반도체도이제는재료바꿀때\"…실리콘한계넘을'2차원소재'",
     "해킹·희망퇴직부담벗어난통신3사,3Q기저효과본격화",
     "한국잠재성장률'대반전'…40년만에연속반등전망",
-    "‘329만원’아이폰,화면수리만165만원…듀오흥행변수는"
+    "‘329만원’아이폰,화면수리만165만원…듀오흥행변수는",
+    "이달환율2년1개월만에최저…원/엔19년만에가장낮아",
+    "[핫이슈]IMF\"세계경제회복력한계직면\"…AI거품·재정경고속韓증..."
    ],
    "initialized": true,
-   "last_run": "2026-10-18T05:52:42.760135+09:00"
+   "last_run": "2026-10-18T05:55:20.169078+09:00"
   }
  },
  "press_names": {
