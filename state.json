@@ -370,14 +370,21 @@
     [
      "2026-10-18T08:40:25.757484+09:00",
      "선봬 오페라 포도뮤지엄 선혜원서 공연 궁중무용"
+    ],
+    [
+     "2026-10-18T08:45:21.386388+09:00",
+     "토큰 경쟁 전쟁 먹거리 시작 정재헌vs박윤영vs홍범식 AX시대"
+    ],
+    [
+     "2026-10-18T08:45:21.386388+09:00",
+     "코스피 최태원 법적 장기화 코스닥 재상고로 공방 동반"
+    ],
+    [
+     "2026-10-18T08:45:21.386388+09:00",
+     "지역 호남반도체 변수 속도전 야권 난제 견제"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10904901",
-    "https://www.newsis.com/view/NISX20261016_0003828834",
-    "https://biz.heraldcorp.com/article/10904925",
-    "https://www.mk.co.kr/article/12177663",
-    "https://www.news1.kr/finance/general-stock/6322308",
     "https://www.munhwa.com/article/11623986",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577445217647",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1728071",
@@ -1872,14 +1879,14 @@
     "https://www.cnbizm.com/news/articleView.html?idxno=318331",
     "https://www.mk.co.kr/article/12178633",
     "https://www.g-enews.com/view.php?ud=2026101808343074750c8c1c064d_1",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496169"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496169",
+    "http://www.kjdaily.com/article.php?aid=1792280595689375276",
+    "https://www.sentv.co.kr/article/view/sentv202610180001",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072682",
+    "http://www.srtimes.kr/news/articleView.html?idxno=214924",
+    "https://www.yna.co.kr/view/AKR20261015155900054?input=1195m"
    ],
    "seen_titles": [
-    "애플CEO\"메모리부족은절대적위기…모든선택지고려\"",
-    "전날7%대급락했던증시반등…코스피2%·코스닥3%대상승",
-    "글로벌AI·반도체시총4일간1조달러증발",
-    "'검은목요일'하루만에반격…코스피,3%대상승에5700선탈환(종합)",
-    "“외국인,너무높은변동성에한국주식팔았다”[이슈&뷰]",
     "노무라“AI데이터센터株최선호는삼성SDS…네이버는글쎄”",
     "'외인집요한매도세'코스피5700선공방…코스닥3%↑[장중시황]",
     "한국경제‘포트폴리오’다시짤때다",
@@ -3374,10 +3381,15 @@
     "SK·포도뮤지엄,선혜원서오페라·궁중무용선보인다",
     "“삼전닉스믿었는데”…국민연금,3분기보유주식182조원증발",
     "\"LG엔솔납품ESS화재→지하수오염\"…美넥스트에라,뉴욕2개저장소...",
-    "SK·포도뮤지엄,선혜원서오페라·궁중무용공연선봬"
+    "SK·포도뮤지엄,선혜원서오페라·궁중무용공연선봬",
+    "SK하이닉스·삼성전자거래대금59조원육박…외국인8조8천억원순매도",
+    "원달러환율2년1개월만에최저…반도체수출이끌어내려",
+    "정재헌vs박윤영vs홍범식,'AI토큰'경쟁시작…AX시대먹거리전쟁",
+    "[주간브리핑]최태원재상고로법적공방장기화…코스피·코스닥동반...",
+    "호남반도체'민·관·정'속도전…야권견제·지역난제변수"
    ],
    "initialized": true,
-   "last_run": "2026-10-18T08:40:25.757484+09:00"
+   "last_run": "2026-10-18T08:45:21.386388+09:00"
   }
  },
  "press_names": {
