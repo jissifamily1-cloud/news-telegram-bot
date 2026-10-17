@@ -166,10 +166,13 @@
     [
      "2026-10-17T19:45:24.954037+09:00",
      "부상 청주 끊어져 SK하이닉스 2명 와이어로프 공사장서"
+    ],
+    [
+     "2026-10-17T19:50:23.313430+09:00",
+     "부지 장관들 잇단 의구심 호남 재우기 반도체 방문"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=449513",
     "https://www.sedaily.com/article/20102377",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=364740",
     "https://www.cnbnews.com/news/articleView.html?idxno=1019596",
@@ -1668,10 +1671,10 @@
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434532",
     "http://www.newstomato.com/ReadNews.aspx?no=1317034&inflow=N",
     "https://zdnet.co.kr/view/?no=20261017151149",
-    "http://www.newstomato.com/ReadNews.aspx?no=1317035&inflow=N"
+    "http://www.newstomato.com/ReadNews.aspx?no=1317035&inflow=N",
+    "https://www.segye.com/newsView/20261017505140?OutUrl=naver"
    ],
    "seen_titles": [
-    "발달장애인·비장애인함께뛰는'K리그플레이원컵'16일개막",
     "통신3사,아이폰듀오사전예약개시",
     "중국CXMT위협에삼성전자SK하이닉스주가하락,UBS\"주주환원강화...",
     "코스피시가총액상위20종목상승…급락후반등흐름[마켓시그널]",
@@ -3170,10 +3173,11 @@
     "울산,부천에2-1역전승…파이널A확정·서울조기우승제동",
     "중국CXMT,3분기매출600%대↑…삼성·SK맹추격",
     "CXMT,3분기매출23조전망...전년비600%'껑충'",
-    "청주SK하이닉스공사장서와이어로프끊어져2명부상"
+    "청주SK하이닉스공사장서와이어로프끊어져2명부상",
+    "호남반도체부지장관들잇단방문…의구심잠재우기?[이슈플러스]"
    ],
    "initialized": true,
-   "last_run": "2026-10-17T19:45:24.954037+09:00"
+   "last_run": "2026-10-17T19:50:23.313430+09:00"
   }
  },
  "press_names": {
