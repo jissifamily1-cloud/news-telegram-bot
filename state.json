@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-17T08:30:31.654688+09:00",
-     "봉사활동 경기도지부 SK청솔노인복지관서 배식 KH한국건강관리협회"
-    ],
-    [
      "2026-10-17T08:35:18.147988+09:00",
      "21세 문세윤 마이스터고 영크크는 SK하이닉스 출근 첫째 직원에"
     ],
@@ -358,11 +354,13 @@
     [
      "2026-10-17T14:25:18.398087+09:00",
      "영업익 열릴까 무려 추정치 3분기 시대 5조원 이통3사"
+    ],
+    [
+     "2026-10-17T14:35:17.940495+09:00",
+     "삼성전자 연말 평가도 하이닉스 ELS 상환 부담 주가 기준 밑돌았다"
     ]
    ],
    "seen_urls": [
-    "https://www.viva100.com/article/20261016500109",
-    "https://www.geconomy.co.kr/news/article.html?no=324414",
     "https://www.topstarnews.net/news/articleView.html?idxno=16248693",
     "https://www.newsis.com/view/NISX20261016_0003828536",
     "https://www.yna.co.kr/view/AKR20261016045600053?input=1195m",
@@ -1860,11 +1858,11 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610170020&t=NN",
     "https://www.g-enews.com/view.php?ud=202610171414437887fbbec65dfb_1",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610170010&t=NN",
-    "https://www.m-i.kr/news/articleView.html?idxno=2007030"
+    "https://www.m-i.kr/news/articleView.html?idxno=2007030",
+    "https://biz.sbs.co.kr/article_hub/20000340553?division=NAVER",
+    "https://www.sedaily.com/article/20102771"
    ],
    "seen_titles": [
-    "AI투자열풍에월가은행들'잭팟'…수수료수입'두배'",
-    "남보라\"엔비디아수익률300%찍고매도…하이닉스19만원에매수\"",
     "[개장시황]코스피,전날급락딛고1.49%반등…5630선",
     "코스피7.57%폭락에서킷브레이커발동…AI반도체불안,한국증시강...",
     "코스피장초반2%대반등…외국인3387억매도에도5680선",
@@ -3362,10 +3360,12 @@
     "[속보]中창신메모리,3분기매출600%급증전망…순이익흑자전환",
     "TSMC2나노돌풍에파운드리요동…삼성‘추격’,SK‘수혜’",
     "이통3사영업익'5조원시대'열릴까…3분기추정치무려",
-    "SK하이닉스청주P&T7공사장서작업중사고…근로자2명부상"
+    "SK하이닉스청주P&T7공사장서작업중사고…근로자2명부상",
+    "CXMT,3분기매출600%급증전망…최대4천억자사주매입",
+    "삼성전자·하이닉스주가,ELS상환기준밑돌았다…연말평가도부담"
    ],
    "initialized": true,
-   "last_run": "2026-10-17T14:30:30.890400+09:00"
+   "last_run": "2026-10-17T14:35:17.940495+09:00"
   }
  },
  "press_names": {
