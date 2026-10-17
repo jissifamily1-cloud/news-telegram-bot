@@ -166,10 +166,13 @@
     [
      "2026-10-17T20:45:24.274825+09:00",
      "외치더니 20만원 공포 적자 1년 삼성전자 7만원 하이닉스"
+    ],
+    [
+     "2026-10-17T20:55:20.408644+09:00",
+     "폭락장 사도 월요일엔 조언은 전문가 될끼 개미들에 버틴"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/AKR20261016101448ELO",
     "https://www.sedaily.com/article/20102378",
     "https://news.tf.co.kr/read/economy/2377033.htm",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=280827",
@@ -1668,10 +1671,10 @@
     "https://mhnse.com/news/articleView.html?idxno=1598933",
     "https://mhnse.com/news/articleView.html?idxno=1598925",
     "https://www.ilemonde.com/news/articleView.html?idxno=30805",
-    "https://biz.heraldcorp.com/article/10905882"
+    "https://biz.heraldcorp.com/article/10905882",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610170043&t=NN"
    ],
    "seen_titles": [
-    "[속보]\"코어위브재무건전성매일개선\"젠슨황발언에…급락딛고반...",
     "\"AI서버마다쌓던데이터함께쓴다\"…엑시나,추론메모리공략",
     "SK에코플랜트,자원순환캠페인이어간다…누적기부물품3만건↑",
     "한화에어로8%,삼성물산5%상승…非반도체종목강세[줍줍리포트]",
@@ -3170,10 +3173,11 @@
     "[mhn포토]김재희,위험합니다",
     "[mhn포토]김재희,야디지북보며살핀다",
     "[기획특집.코리아디스카운트②]ESG이전에주주자본주의부터…주병...",
-    "“삼성전자7만원,하이닉스20만원”외치더니…“1년후적자”공포..."
+    "“삼성전자7만원,하이닉스20만원”외치더니…“1년후적자”공포...",
+    "\"월요일엔사도될끼\"…폭락장버틴개미들에전문가조언은"
    ],
    "initialized": true,
-   "last_run": "2026-10-17T20:50:25.145134+09:00"
+   "last_run": "2026-10-17T20:55:20.408644+09:00"
   }
  },
  "press_names": {
