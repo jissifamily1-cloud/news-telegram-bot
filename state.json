@@ -478,11 +478,17 @@
     [
      "2026-10-17T11:05:19.736760+09:00",
      "공포로 연속 빚투 8일 급락 반도체주"
+    ],
+    [
+     "2026-10-17T11:15:23.816845+09:00",
+     "반도체가 방패 실리콘 패권 지정학과 정재용 경쟁"
+    ],
+    [
+     "2026-10-17T11:15:23.816845+09:00",
+     "올린다 서밋 정례화 향한 허브 바이오 ABDD 글로벌 인천시"
     ]
    ],
    "seen_urls": [
-    "https://www.smartbizn.com/news/articleView.html?idxno=156609",
-    "https://dealsite.co.kr/articles/170742",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8687384",
     "https://www.viva100.com/article/20261016500104",
     "https://www.sportsworldi.com/newsView/20261016506384",
@@ -1980,11 +1986,11 @@
     "https://sports.khan.co.kr/article/202610171100003?pt=nv",
     "https://www.khan.co.kr/article/202610171058001",
     "https://www.ekn.kr/web/view.php?key=20261017024597485",
-    "https://www.viewsnnews.com/article?q=239085"
+    "https://www.viewsnnews.com/article?q=239085",
+    "http://kor.theasian.asia/archives/418776",
+    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037850"
    ],
    "seen_titles": [
-    "SK하이닉스,제조업고용감소기에도1년새2525명증가",
-    "[산업썰전]국민밉상돼가는삼성전자직원들…'초일류기업'명성에먹...",
     "통신3사,'접히는'아이폰사전예약개시",
     "[ETF언박싱]NH아문디상반기흥행카드단독상품화…삼성전기고정",
     "[전격시사]양경규정의당대표-“의석이없지,입이없나?극단적정...",
@@ -3482,10 +3488,12 @@
     "소슬지,SBS교양‘영크크는출근중’MC맡아…문세윤·이미주·이상...",
     "AI투자우려에뉴욕증시일제히하락…나스닥2.15%↓",
     "“환율보다고운임”…HMM·팬오션,3Q실적기대감↑",
-    "'AI빚투'공포로美반도체주8일연속급락"
+    "'AI빚투'공포로美반도체주8일연속급락",
+    "[신간]정재용'지정학과실리콘방패'…미·중패권경쟁속K-반도체가...",
+    "인천시,'글로벌바이오허브'향한닻올린다…'ABDD서밋'등정례화"
    ],
    "initialized": true,
-   "last_run": "2026-10-17T11:10:24.918317+09:00"
+   "last_run": "2026-10-17T11:15:23.816845+09:00"
   }
  },
  "press_names": {
