@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-17T14:35:17.940495+09:00",
-     "삼성전자 연말 평가도 하이닉스 ELS 상환 부담 주가 기준 밑돌았다"
-    ],
-    [
      "2026-10-17T15:05:20.010492+09:00",
      "오페라 아트프로젝트 선혜원 개최 포도뮤지엄 궁중무용"
     ],
@@ -165,9 +161,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.cstimes.com/news/articleView.html?idxno=724212",
-    "http://www.4th.kr/news/articleView.html?idxno=2119869",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=616203",
     "https://www.gukjenews.com/news/articleView.html?idxno=3723343",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=873416",
     "https://www.imaeil.com/page/view/2026101609552028555",
@@ -1664,12 +1657,12 @@
     "https://mhnse.com/news/articleView.html?idxno=1598898",
     "https://mhnse.com/news/articleView.html?idxno=1598900",
     "https://www.stnsports.co.kr/news/articleView.html?idxno=324202",
-    "http://www.rightknow.co.kr/news/articleView.html?idxno=35128"
+    "http://www.rightknow.co.kr/news/articleView.html?idxno=35128",
+    "https://www.mediaus.co.kr/news/articleView.html?idxno=318520",
+    "https://www.handmk.com/news/articleView.html?idxno=44200",
+    "https://www.mk.co.kr/article/12178565"
    ],
    "seen_titles": [
-    "재산분할'9440억'최태원회장어쩌나…'SK㈜주가하락'지분매각변...",
-    "美AI주시총1조달러증발…최근반도체투매이유는",
-    "코스피,전일급락딛고상승...5680선기록",
     "첫접는아이폰예약돌입…통신사,보상금앞세워고객경쟁",
     "SK하이닉스·삼성전자동반상승…한미반도체·이오테크닉스등반도체...",
     "서해구,경로잔치개최…1,900명어르신에건강식·밀키트제공",
@@ -3166,10 +3159,13 @@
     "[mhn포토]김재희,타수줄일거에요",
     "[mhn포토]김재희,강한자신감업",
     "K리그울산,부천에2-1역전승...'파이널A'확정",
-    "[2026국감]\"교체율이30%밖에안됩니다\"…구형유심220만명은원격..."
+    "[2026국감]\"교체율이30%밖에안됩니다\"…구형유심220만명은원격...",
+    "포도뮤지엄,선혜원서오페라·전통궁중무용공연개최",
+    "포도뮤지엄,서울선혜원서오페라·전통궁중무용공연개최",
+    "‘서울우승확정멈춰!’5경기연속공격포인트이동경앞세운울산,..."
    ],
    "initialized": true,
-   "last_run": "2026-10-17T20:30:33.420977+09:00"
+   "last_run": "2026-10-17T20:35:22.404464+09:00"
   }
  },
  "press_names": {
