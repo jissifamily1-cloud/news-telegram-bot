@@ -346,10 +346,13 @@
     [
      "2026-10-18T08:05:18.081538+09:00",
      "대전환 삼원계에서 열풍에 LFP로 전략 ESS K배터리"
+    ],
+    [
+     "2026-10-18T08:10:24.001828+09:00",
+     "의심하자 반도체 코스피가 무너졌다 쏠림"
     ]
    ],
    "seen_urls": [
-    "https://www.newstnt.com/news/articleView.html?idxno=723325",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=90518",
     "https://www.kukinews.com/article/view/kuk202610160059",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=302830",
@@ -1848,10 +1851,10 @@
     "https://it.chosun.com/news/articleView.html?idxno=2023092172156",
     "https://www.asiaa.co.kr/news/articleView.html?idxno=266706",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072563",
-    "https://view.asiae.co.kr/article/2026101514205438112"
+    "https://view.asiae.co.kr/article/2026101514205438112",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=319195"
    ],
    "seen_titles": [
-    "[굿모닝!16일건설업계소식]GS건설·포스코이앤씨·IPARK현대산업개발...",
     "법무법인광장,이달28일에‘제12회M&A포럼’개최",
     "[특징주]스페이스X우려털어낸통신·장비주…AIDC·피지컬AI수혜기...",
     "SK에코플랜트,자원순환캠페인기부품3만건돌파…장애인자립지원",
@@ -3350,10 +3353,11 @@
     "6개월반짝할인넘어'평생'…알뜰폰생존경쟁격화",
     "M&A로산업화가속...블록체인·금융권,플랫폼·인프라확보전",
     "[와이파이]10월3주,제미나이·스타벅스'한번에'…KT외2가지통신혜...",
-    "삼원계에서LFP로…ESS열풍에K배터리전략대전환"
+    "삼원계에서LFP로…ESS열풍에K배터리전략대전환",
+    "[글로벌주간브리핑]AI의심하자코스피가무너졌다…'반도체쏠림'드..."
    ],
    "initialized": true,
-   "last_run": "2026-10-18T08:05:18.081538+09:00"
+   "last_run": "2026-10-18T08:10:24.001828+09:00"
   }
  },
  "press_names": {
