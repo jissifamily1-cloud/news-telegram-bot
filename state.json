@@ -382,13 +382,13 @@
     [
      "2026-10-18T08:45:21.386388+09:00",
      "지역 호남반도체 변수 속도전 야권 난제 견제"
+    ],
+    [
+     "2026-10-18T08:50:25.483850+09:00",
+     "주춤 반등 셀은 회복 배터리 온도차 소재는"
     ]
    ],
    "seen_urls": [
-    "https://www.munhwa.com/article/11623986",
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577445217647",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1728071",
-    "https://www.econovill.com/news/articleView.html?idxno=753859",
     "http://www.ferrotimes.com/news/articleView.html?idxno=50906",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=280850",
     "https://biz.heraldcorp.com/article/10904899",
@@ -1884,13 +1884,13 @@
     "https://www.sentv.co.kr/article/view/sentv202610180001",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072682",
     "http://www.srtimes.kr/news/articleView.html?idxno=214924",
-    "https://www.yna.co.kr/view/AKR20261015155900054?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261015155900054?input=1195m",
+    "https://www.ddaily.co.kr/page/view/2026101715175550889",
+    "https://www.dt.co.kr/article/12089595",
+    "https://www.yna.co.kr/view/AKR20261018009900003?input=1195m",
+    "https://www.ddaily.co.kr/page/view/2026101803215291766"
    ],
    "seen_titles": [
-    "노무라“AI데이터센터株최선호는삼성SDS…네이버는글쎄”",
-    "'외인집요한매도세'코스피5700선공방…코스닥3%↑[장중시황]",
-    "한국경제‘포트폴리오’다시짤때다",
-    "[메가이슈토픽]LG유플러스임단협12차교섭'빈손'…\"노사갈등장기화...",
     "폭락하는삼전닉스에폭탄얹는'2배ETF'…하루8800억축소압력",
     "[SEDEX·KES2026]'국내유일TSMCVCA'에이직랜드,AI반도체고객확보...",
     "페로타임즈손바닥뉴스10월15일(목)",
@@ -3386,10 +3386,14 @@
     "원달러환율2년1개월만에최저…반도체수출이끌어내려",
     "정재헌vs박윤영vs홍범식,'AI토큰'경쟁시작…AX시대먹거리전쟁",
     "[주간브리핑]최태원재상고로법적공방장기화…코스피·코스닥동반...",
-    "호남반도체'민·관·정'속도전…야권견제·지역난제변수"
+    "호남반도체'민·관·정'속도전…야권견제·지역난제변수",
+    "HBM쏠림에구형DDR4마저폭등…SEDEX서격돌한삼성·SK차세대3D메...",
+    "삼전닉스,19년만최대하락폭…“과도”vs“단기반등어려워”",
+    "SK온제2회미래기술원학술대회…기술혁신역량결집",
+    "셀은반등,소재는주춤…K-배터리회복온도차[위클리배터리]"
    ],
    "initialized": true,
-   "last_run": "2026-10-18T08:45:21.386388+09:00"
+   "last_run": "2026-10-18T08:50:25.483850+09:00"
   }
  },
  "press_names": {
