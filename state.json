@@ -337,11 +337,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20261016045600053?input=1195m",
-    "https://www.seoul.co.kr/news/economy/2026/10/16/20261016500049?wlog_tag3=naver",
-    "https://biz.heraldcorp.com/article/10904633",
-    "https://www.joongangenews.com/news/articleView.html?idxno=555525",
-    "https://biz.sbs.co.kr/article_hub/20000340350?division=NAVER",
     "https://www.imaeil.com/page/view/2026101609161872165",
     "https://www.mt.co.kr/stock/2026/10/16/2026101609472697576",
     "https://news.tf.co.kr/read/economy/2377010.htm",
@@ -1836,14 +1831,14 @@
     "https://biz.sbs.co.kr/article_hub/20000340553?division=NAVER",
     "https://www.sedaily.com/article/20102771",
     "https://www.kmib.co.kr/article/view.asp?arcid=9000023346&cp=nv",
-    "http://www.yonhapnewstv.co.kr/news/MYH20261017143414WDR"
+    "http://www.yonhapnewstv.co.kr/news/MYH20261017143414WDR",
+    "https://www.ajunews.com/view/20261017144455052",
+    "https://www.newsis.com/view/NISX20261017_0003829984",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8688193",
+    "https://www.mk.co.kr/article/12178459",
+    "https://www.news1.kr/local/sejong-chungbuk/6323253"
    ],
    "seen_titles": [
-    "코스피장초반2%대반등…외국인3387억매도에도5680선",
-    "최소329만원인데물량도적다…'아이폰듀오'흥행변수는(종합)",
-    "한일정상회담계기로경북투자유치전…일본기업,현장방문",
-    "코스피,1%대상승출발…‘삼전닉스’저가매입세유입",
-    "외국인떠난증시,개미가떠받쳤다…코스피1%대반등[투자360]",
     "SK하이닉스주가,10월16일장중1,260,000원0.16%하락",
     "KB증권\"삼전·닉스급락과도…상승여력큰구간\"",
     "\"삼전주가5만원기원\"...개미들곡소리에도하락바라는직원들,왜",
@@ -3338,10 +3333,15 @@
     "CXMT,3분기매출600%급증전망…최대4천억자사주매입",
     "삼성전자·하이닉스주가,ELS상환기준밑돌았다…연말평가도부담",
     "중국CXMT,3분기매출600%대급증전망…최대4000억자사주매입도",
-    "로봇타고D램더뜬다…중국추격은변수"
+    "로봇타고D램더뜬다…중국추격은변수",
+    "中CXMT,3분기매출600%대급증전망…최대4000억원자사주매입",
+    "전선설치중로프튕겨…SK하이닉스공사장서2명부상",
+    "SK하이닉스P&T7공사현장서끊어진밧줄에작업자2명부상",
+    "中CXMT,3분기매출7배급증전망…삼성·SK추격",
+    "SK하이닉스공사현장서밧줄끊어져근로자2명다쳐"
    ],
    "initialized": true,
-   "last_run": "2026-10-17T14:45:22.763931+09:00"
+   "last_run": "2026-10-17T14:50:23.043390+09:00"
   }
  },
  "press_names": {
