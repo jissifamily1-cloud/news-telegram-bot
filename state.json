@@ -182,11 +182,17 @@
     [
      "2026-10-18T00:05:20.062641+09:00",
      "열쇠인가 비싼 지분은 관람권인가 웨스팅하우스"
+    ],
+    [
+     "2026-10-18T00:10:23.189007+09:00",
+     "증시 105조원 50개 인버스 급락에 거래 급등 상위 ETF"
+    ],
+    [
+     "2026-10-18T00:10:23.189007+09:00",
+     "경제정책의 1970년 재평가"
     ]
    ],
    "seen_urls": [
-    "https://sports.khan.co.kr/article/202610161031018?pt=nv",
-    "https://www.segye.com/newsView/20261016507898?OutUrl=naver",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=87666",
     "https://www.daejonilbo.com/news/articleView.html?idxno=2307352",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480929",
@@ -1684,11 +1690,11 @@
     "https://www.newsis.com/view/NISX20261017_0003830125",
     "https://www.cbci.co.kr/news/articleView.html?idxno=616546",
     "https://www.cbci.co.kr/news/articleView.html?idxno=616575",
-    "https://www.businessplus.kr/news/articleView.html?idxno=118322"
+    "https://www.businessplus.kr/news/articleView.html?idxno=118322",
+    "http://www.kjdaily.com/article.php?aid=1792249571689378276",
+    "http://www.jeollailbo.com/news/articleView.html?idxno=813816"
    ],
    "seen_titles": [
-    "증시폭락에'황제주'절반가까이줄어…100조클럽도감소",
-    "개인·외인동반이탈에흔들리는韓증시…수급기반마저'흔들'",
     "스포플,프로농구서울SK나이츠와공식리커버리파트너십체결",
     "서킷브레이커딛고코스피5700선회복…外人은9일째‘팔자’",
     "구직자관심기업1위에SK하이닉스…2위는현대차",
@@ -3186,10 +3192,12 @@
     "소유,10년묻어둔삼전닉스팔아산옥수동아파트는…",
     "[뉴욕증시급락]코어위브12%폭락·유가110달러육박…AI거품론속'...",
     "[코인큰손베팅]\"지금이바닥이다\"…해외코인거래소'큰손'90%이상...",
-    "[시선+]웨스팅하우스지분은열쇠인가,비싼관람권인가"
+    "[시선+]웨스팅하우스지분은열쇠인가,비싼관람권인가",
+    "증시급락에인버스ETF급등…상위50개105조원거래",
+    "[전라Insight]1970년경제정책의재평가"
    ],
    "initialized": true,
-   "last_run": "2026-10-18T00:05:20.062641+09:00"
+   "last_run": "2026-10-18T00:10:23.189007+09:00"
   }
  },
  "press_names": {
