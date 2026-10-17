@@ -389,9 +389,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.ferrotimes.com/news/articleView.html?idxno=50906",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=280850",
-    "https://biz.heraldcorp.com/article/10904899",
     "https://h21.hani.co.kr/arti/economy/economy_general/60033.html",
     "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91351",
     "https://www.newspim.com/news/view/20261016000557",
@@ -1888,12 +1885,12 @@
     "https://www.ddaily.co.kr/page/view/2026101715175550889",
     "https://www.dt.co.kr/article/12089595",
     "https://www.yna.co.kr/view/AKR20261018009900003?input=1195m",
-    "https://www.ddaily.co.kr/page/view/2026101803215291766"
+    "https://www.ddaily.co.kr/page/view/2026101803215291766",
+    "https://www.tjb.co.kr/news05/bodo/view/id/104959",
+    "https://www.etoday.co.kr/news/view/2636972",
+    "https://www.chosun.com/economy/stock-finance/2026/10/18/VFB2R5M7MND7FG4IFM75JXRLTE/"
    ],
    "seen_titles": [
-    "폭락하는삼전닉스에폭탄얹는'2배ETF'…하루8800억축소압력",
-    "[SEDEX·KES2026]'국내유일TSMCVCA'에이직랜드,AI반도체고객확보...",
-    "페로타임즈손바닥뉴스10월15일(목)",
     "CNBC암울전망에도...돈나무언니\"AI덕에2030년세계성장률7.3%\"",
     "‘한달에한번꼴’서킷브레이커…코스피올해만10번멈췄다",
     "대형원전사업까지노리는SK",
@@ -3390,10 +3387,13 @@
     "HBM쏠림에구형DDR4마저폭등…SEDEX서격돌한삼성·SK차세대3D메...",
     "삼전닉스,19년만최대하락폭…“과도”vs“단기반등어려워”",
     "SK온제2회미래기술원학술대회…기술혁신역량결집",
-    "셀은반등,소재는주춤…K-배터리회복온도차[위클리배터리]"
+    "셀은반등,소재는주춤…K-배터리회복온도차[위클리배터리]",
+    "[T나는경제]머스크,중국산메모리띄우는이유는...삼성·SK하이닉스...",
+    "SK온,미래기술원학술대회정례화…글로벌배터리기술리더십높인다",
+    "SK하이닉스,美솔리다임상장추진에‘중복상장’논란"
    ],
    "initialized": true,
-   "last_run": "2026-10-18T08:50:25.483850+09:00"
+   "last_run": "2026-10-18T08:55:19.041669+09:00"
   }
  },
  "press_names": {
