@@ -362,10 +362,13 @@
     [
      "2026-10-18T08:15:22.608929+09:00",
      "중복상장 솔리다임서 베어로보틱스까지 딜레마"
+    ],
+    [
+     "2026-10-18T08:25:18.061586+09:00",
+     "사내 박차 선점 배터리 연구 혁신 성과 SK온 기술 공유 미래"
     ]
    ],
    "seen_urls": [
-    "https://www.hankookilbo.com/news/article/A2026101417120000391?did=NA",
     "https://www.newspim.com/news/view/20261016000452",
     "https://m.sports.naver.com/basketball/article/065/0000302964",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1728090",
@@ -1864,10 +1867,10 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=281013",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4439765",
     "https://www.interfootball.co.kr/news/articleView.html?idxno=696622",
-    "https://www.news2day.co.kr/article/20261018500004"
+    "https://www.news2day.co.kr/article/20261018500004",
+    "https://magazine.hankyung.com/business/article/202610188242b"
    ],
    "seen_titles": [
-    "TSMC\"반도체수요둔화우려에근거없다\",AI데이터센터투자위축가...",
     "인천서해구,노인의날맞아권역별경로잔치개최",
     "애플첫폴더블아이폰듀오,국내사전예약시작",
     "수출·재정은'웃고'내수는'울고'…엇갈린경기회복",
@@ -3366,10 +3369,11 @@
     "김희영총괄디렉터기획…SK그룹선혜원헤리티지공간의'파격변신'",
     "[해외자회사IPO②]솔리다임서베어로보틱스까지…중복상장딜레마",
     "리그4경기무승→ACLE도패배...5위까지떨어진전북,제주전에서만회...",
-    "외국인,삼성전자·SK하이닉스7.4조팔았다…개인은5.1조'역매수'"
+    "외국인,삼성전자·SK하이닉스7.4조팔았다…개인은5.1조'역매수'",
+    "SK온,미래배터리기술선점박차…사내연구혁신성과공유"
    ],
    "initialized": true,
-   "last_run": "2026-10-18T08:20:22.114459+09:00"
+   "last_run": "2026-10-18T08:25:18.061586+09:00"
   }
  },
  "press_names": {
