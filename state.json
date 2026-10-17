@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-17T12:05:18.423758+09:00",
-     "이면 기업 부채 폭락과 7월 나스닥 기술주 이후 하락의"
-    ],
-    [
-     "2026-10-17T12:05:18.423758+09:00",
-     "공개에 윤재복 린치 반발 국힘 집단 합의서 승복 양향자"
-    ],
-    [
-     "2026-10-17T12:05:18.423758+09:00",
-     "variable for expansion emerges Korea chip as Securing equipment pla new"
-    ],
-    [
-     "2026-10-17T12:05:18.423758+09:00",
-     "헤지펀드 주식 빈난새의 청산썰 증시 덮친 던지는 월가 글로벌"
-    ],
-    [
-     "2026-10-17T12:05:18.423758+09:00",
-     "중요하다 시대 기술이 연결 하나보다"
-    ],
-    [
      "2026-10-17T12:15:28.457692+09:00",
      "코스피 반등에 반짝 신용공여 투심 잔고 34조원 한때 회복 개인"
     ],
@@ -218,11 +198,13 @@
     [
      "2026-10-17T18:05:17.561687+09:00",
      "경영 삼성은 초청 SK는 3만명 동행 800만원 눈길 선물"
+    ],
+    [
+     "2026-10-17T18:10:24.653826+09:00",
+     "10조 삼전닉스 흑자로 CXMT 나선 적자에서 맹추격"
     ]
    ],
    "seen_urls": [
-    "https://www.ppss.kr/news/articleView.html?idxno=315793",
-    "https://www.newsis.com/view/NISX20261016_0003828633",
     "https://www.newscj.com/news/articleView.html?idxno=3440743",
     "http://www.finomy.com/news/articleView.html?idxno=263789",
     "https://www.cstimes.com/news/articleView.html?idxno=724209",
@@ -1720,11 +1702,11 @@
     "https://www.newscj.com/news/articleView.html?idxno=3441047",
     "https://economist.co.kr/article/view/ecn202610170011",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2337585",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=873795"
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=873795",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16249902",
+    "https://www.hankyung.com/article/2026101779027"
    ],
    "seen_titles": [
-    "\"메모리실적전망치오르는중…실적가시성도커져\"",
-    "동대문'제기제6구역'445가구재개발…기존계획보다22가구증가",
     "삼성전자·SK하이닉스,실적발표앞두고반등여력충분...KB증권\"매수...",
     "\"10만원대요금제써야45만원지원금\"…아이폰듀오'선택약정'이더이...",
     "애플첫폴더블'아이폰듀오'사전예약…통신사별혜택은?",
@@ -3222,10 +3204,12 @@
     "SK하이닉스청주공사현장서케이블줄끊어져근로자2명부상",
     "'그들은왜'수십년된사명바꾸고,브랜드집어넣나?",
     "SK텔레콤\"KCSI등고객만족도3대조사1위\"…AI기반서비스·국방기술...",
-    "삼성은800만원선물SK는3만명초청…'동행경영'눈길"
+    "삼성은800만원선물SK는3만명초청…'동행경영'눈길",
+    "드론공격에결제·클라우드흔들렸다…데이터센터가전쟁표적된이유",
+    "\"적자에서10조흑자로\"…삼전닉스맹추격나선中CXMT"
    ],
    "initialized": true,
-   "last_run": "2026-10-17T18:05:17.561687+09:00"
+   "last_run": "2026-10-17T18:10:24.653826+09:00"
   }
  },
  "press_names": {
