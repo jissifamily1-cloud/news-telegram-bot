@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-17T13:15:23.049509+09:00",
-     "확률 부도 끝인가 슈퍼사이클 이대로"
-    ],
-    [
      "2026-10-17T13:20:24.223118+09:00",
      "승리로 확정 전북전 파이널 핵심 강화 노린다 제주SK 이탈에도 공격"
     ],
@@ -197,8 +193,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.theguru.co.kr/news/article.html?no=108339",
-    "https://www.news1.kr/realestate/general/6322139",
     "https://www.mt.co.kr/world/2026/10/16/2026101609164264281",
     "https://www.xportsnews.com/article/2208066",
     "https://www.news1.kr/sports/soccer/6322161",
@@ -1696,11 +1690,11 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16249923",
     "https://www.munhwa.com/article/11624191",
     "https://sports.khan.co.kr/article/202610171909003?pt=nv",
-    "https://www.edaily.co.kr/News/Read?newsId=02778166645613904&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=02778166645613904&mediaCodeNo=257",
+    "https://www.kukinews.com/article/view/kuk202610170024",
+    "https://www.newspim.com/news/view/20261017000161"
    ],
    "seen_titles": [
-    "구직자가뽑은'관심기업'삼성전자가5등이라고?1등은어디일까",
-    "증시PER韓4배vs.日15배…삼전·닉스는8년전수준",
     "싱가포르거래소,SK하이닉스·TSMC등AI밸류체인5개사예탁증서상장",
     "대치·잠실재건축심의통과…1185가구이주수요도주목(종합)",
     "나스닥은올랐지만반도체주는8일째하락…수요견조한데자본이문제",
@@ -3198,10 +3192,12 @@
     "\"야고16호역전골\"…울산,부천꺾고파이널A·2위수성",
     "시카고대석사최태원“대학졸업장?굳이필요없다”",
     "‘야고결승골’울산,부천에역전승,2년만에파이널A복귀…서울의...",
-    "성과급은직원에게,주가손실은주주에게?…SK하이닉스국회청원"
+    "성과급은직원에게,주가손실은주주에게?…SK하이닉스국회청원",
+    "삼전닉스떨고있나…中CXMT,3분기매출600%폭증예고",
+    "[프로축구]'야고결승골'울산,부천에2-1역전승…2년만에파이널A..."
    ],
    "initialized": true,
-   "last_run": "2026-10-17T19:15:21.963275+09:00"
+   "last_run": "2026-10-17T19:20:23.923439+09:00"
   }
  },
  "press_names": {
