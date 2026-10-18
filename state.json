@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-18T11:25:16.918003+09:00",
-     "신탁 자사주 취득 체결 SK가스 300억원"
-    ],
-    [
      "2026-10-18T11:30:30.795559+09:00",
      "주가와 못추는 삼전닉스 호남반도체"
     ],
@@ -582,18 +578,21 @@
     [
      "2026-10-18T17:20:26.201544+09:00",
      "못따라가는 닷컴버블 판박이 코스피 기업이익"
+    ],
+    [
+     "2026-10-18T17:25:21.196915+09:00",
+     "제시한 성장 AI가 일자리 방정식 바꾸는 최태원이 교육"
+    ],
+    [
+     "2026-10-18T17:25:21.196915+09:00",
+     "5500선 3대 악재에 반등도 코스피 첩첩산 내준"
+    ],
+    [
+     "2026-10-18T17:25:21.196915+09:00",
+     "유예 리밸런싱 급락장서 국민연금"
     ]
    ],
    "seen_urls": [
-    "https://www.news2day.co.kr/article/20261016500233",
-    "https://www.mk.co.kr/article/12177947",
-    "https://www.thebigdata.co.kr/view.php?ud=2026101616320961290ecbf9426b_23",
-    "https://www.newsway.co.kr/news/view?ud=2026101516530704657",
-    "https://www.hankyung.com/article/202610166804i",
-    "https://www.koreatimes.co.kr/path/A2026101614380005269",
-    "http://www.breaknews.com/1243563",
-    "https://biz.chosun.com/stock/stock_general/2026/10/16/4TNDB6RZSRFVPIZ6PHFWSF2OB4/",
-    "https://www.bloter.net/news/articleView.html?idxno=675856",
     "https://www.mstoday.co.kr/news/articleView.html?idxno=200187",
     "https://www.getnews.co.kr/news/articleView.html?idxno=883817",
     "https://en.yna.co.kr/view/AEN20261016006452320?input=2106m",
@@ -2084,18 +2083,18 @@
     "https://www.mk.co.kr/article/12178973",
     "https://www.daejonilbo.com/news/articleView.html?idxno=2307707",
     "https://www.sedaily.com/article/20102951",
-    "https://www.mk.co.kr/article/12178982"
+    "https://www.mk.co.kr/article/12178982",
+    "https://m.sports.naver.com/basketball/article/065/0000303124",
+    "https://m.sports.naver.com/general/article/065/0000303123",
+    "https://sports.khan.co.kr/article/202610181720003?pt=nv",
+    "https://www.edaily.co.kr/News/Read?newsId=02624006645614232&mediaCodeNo=257",
+    "https://www.yna.co.kr/view/AKR20261018045800007?input=1195m",
+    "https://www.kukinews.com/article/view/kuk202610180040",
+    "https://www.edaily.co.kr/News/Read?newsId=02627286645614232&mediaCodeNo=257",
+    "https://www.ajunews.com/view/20261018125204714",
+    "https://www.ajunews.com/view/20261018134620749"
    ],
    "seen_titles": [
-    "코스피8거래일만에반등···외국인현물사고선물1.1조팔아",
-    "외국인'사자'에반등성공했지만…추세상승엔신중론",
-    "'파이널A승부처'5위전북대4위제주,1부통산93번째맞대결!'총력...",
-    "코스피,반발매수에2.1%↑…8거래일만에반등",
-    "(마감시황)코스피2.05%반등…코스닥급등에매수사이드카발동",
-    "SK하이닉스,협력사3만명서울랜드초청…“함께만든성과에감사”",
-    "SK하이닉스,협력사구성원·가족3만명초청…감사행사개최",
-    "사내업무부터인프라까지…통신3사,'AI도입'전방위로",
-    "가트너\"메모리공급난,2028년까지이어질것\"",
     "Samsung,SKhynixsell-offexcessiveasmemoryoutlookstaysstrong:a",
     "이천시,‘반도체대전’서맞춤형투자유치총력",
     "단일종목ETF막자지수·빚투로쏠렸다…폭락키우는‘레버리지풍선...",
@@ -3586,10 +3585,19 @@
     "[부음]김태철씨별세외",
     "행정수도세종산업지도바뀐다…반도체·AI'조단위'투자러시",
     "“초호황인데왜옮겨”반도체이직반토막",
-    "기업이익못따라가는코스피…'닷컴버블'판박이"
+    "기업이익못따라가는코스피…'닷컴버블'판박이",
+    "[오늘의농구장여신]SK치어리더'홈개막전을함께해요'",
+    "[화보]자니오브라이언트29점맹활약소노,87-81로SK에원정승리",
+    "‘티아고멀티골’전북,제주잡고분위기반전…대전은자책골힘입어...",
+    "최태원\"AI가지혜는아냐…리더는AI가못하는일찾아야\"",
+    "살아난소노의핵심'에이스'이정현\"몸상태확실히좋아져\"",
+    "‘난사줄이고순도높이고’…고양소노손창환감독“선수들이스스...",
+    "AI가바꾸는일자리·교육…최태원이제시한'新성장방정식'",
+    "[韓증시잔인한10월]5500선내준코스피...3대악재에반등도'첩첩산...",
+    "[韓증시잔인한10월]급락장서'독'이된리밸런싱유예…국민연금주..."
    ],
    "initialized": true,
-   "last_run": "2026-10-18T17:20:26.201544+09:00"
+   "last_run": "2026-10-18T17:25:21.196915+09:00"
   }
  },
  "press_names": {
