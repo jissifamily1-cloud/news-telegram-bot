@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-18T08:35:18.073447+09:00",
-     "개최 포도뮤지엄 아트프로젝트 선혜원"
-    ],
-    [
-     "2026-10-18T08:35:18.073447+09:00",
-     "총망라 변압기 HD현대일렉트릭 미래 뉴노멀 전력 진입 솔루션"
-    ],
-    [
      "2026-10-18T08:40:25.757484+09:00",
      "LG엔솔 2개 화재 납품 저장소 ESS 오염 지하수 넥스트에라 뉴욕"
     ],
@@ -542,14 +534,17 @@
     [
      "2026-10-18T14:35:17.322839+09:00",
      "발전5사 도마 국감 2라운드 재무 한전 통합 에너지 공기업 19일"
+    ],
+    [
+     "2026-10-18T14:40:23.228407+09:00",
+     "SK하이닉스 일론머스크 예고 대량생산 중국 D램 2028년 삼성전자"
+    ],
+    [
+     "2026-10-18T14:40:23.228407+09:00",
+     "Samsung hynix suffer worst since stock weekly rout"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261016_0003829309",
-    "https://www.newspim.com/news/view/20261016001118",
-    "https://www.ytn.co.kr/_ln/0134_202610161530193283",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=209786",
-    "https://www.hani.co.kr/arti/economy/finance/1282759.html",
     "https://hbnpress.com/news/view/1065595279471314",
     "https://www.gukjenews.com/news/articleView.html?idxno=3723849",
     "http://www.iminju.net/news/articleView.html?idxno=170993",
@@ -2044,14 +2039,14 @@
     "http://www.kdfnews.com/news/articleView.html?idxno=189461",
     "https://www.dt.co.kr/article/12089659",
     "https://www.fnnews.com/news/202610172332083504",
-    "https://www.fnnews.com/news/202610160954018869"
+    "https://www.fnnews.com/news/202610160954018869",
+    "https://www.fnnews.com/news/202610181417031157",
+    "https://www.donga.com/news/Economy/article/all/20261018/134860542/1",
+    "https://www.cwn.kr/news/articleView.html?idxno=59622",
+    "https://www.cwn.kr/news/articleView.html?idxno=59610",
+    "https://www.koreaherald.com/article/10906189"
    ],
    "seen_titles": [
-    "SK렌터카,제주지점출차비대면전환…프리미엄차량확대",
-    "\"중국CXMT추격론과도...발표와양산은별개\"분석잇따라",
-    "SK브로드밴드,AI로콘텐츠탐색부터시청까지연결",
-    "전력망투자비마련시급한‘빚더미’한전…사장인선은표류",
-    "외인,삼전보다SK하닉더팔았다…실적잔치앞두고주가‘삼중고’어...",
     "[셀럽의한수]\"우리경제에는이상無,수급공백이겨내면,전고점까...",
     "[속보]삼성전자2.62%,SK하이닉스0.79%상승마감",
     "미수금반대매매사흘간1758억원…주가반등에도부담↑",
@@ -3546,10 +3541,15 @@
     "솔리다임美상장논란…투자재원확보냐주주가치희석이냐",
     "[르포]상권은환영,직원은한숨…인프라없는‘1만명세종행’동상...",
     "엔비디아서만2조손실...서학개미'악몽의2주'",
-    "발전5사통합·한전재무도마…19일에너지공기업국감'2라운드'"
+    "발전5사통합·한전재무도마…19일에너지공기업국감'2라운드'",
+    "원/달러환율25개월만에최저수준…원/엔,18년10개월만가장낮아",
+    "“20대로돌아간다면무조건창업”…최태원이말한AI시대인재상은",
+    "최태원\"AI시대,대학졸업장보다문제해결경험이중요해진다\"",
+    "일론머스크,\"2028년중국D램대량생산\"예고…삼성전자·SK하이닉스가...",
+    "Samsung,SKhynixsufferworstweeklystockroutsince2008"
    ],
    "initialized": true,
-   "last_run": "2026-10-18T14:35:17.322839+09:00"
+   "last_run": "2026-10-18T14:40:23.228407+09:00"
   }
  },
  "press_names": {
