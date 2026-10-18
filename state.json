@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-18T22:55:19.579760+09:00",
-     "최태원 이혼 회장님 하소연 퍼진 저도 종토방 급락장에"
-    ],
-    [
      "2026-10-18T23:55:19.033997+09:00",
      "프로축구 파이널A 확정 전북 역전패 광주는 강원"
     ],
@@ -202,11 +198,17 @@
     [
      "2026-10-19T04:55:19.570478+09:00",
      "증인 배신 SK에코 국감 쟁점 채택 지역상생 대표 오션플랜트 매각"
+    ],
+    [
+     "2026-10-19T05:00:42.880771+09:00",
+     "포지션 2억7262만달러 시장 동안 24시간 레버리지 청산 암호화폐"
+    ],
+    [
+     "2026-10-19T05:00:42.880771+09:00",
+     "돌린 이젠 끝물 외국인 VS 이어질까 돌아오나 반도체 언제 호황"
     ]
    ],
    "seen_urls": [
-    "http://www.kjdaily.com/article.php?aid=1792150811689362276",
-    "https://www.xportsnews.com/article/2208271",
     "https://sports.hankooki.com/news/articleView.html?idxno=6941804",
     "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=261016025&PRO_CODE=4",
     "https://www.dailian.co.kr/news/view/1702646/?sc=Naver",
@@ -1704,11 +1706,11 @@
     "https://www.job-post.co.kr/news/articleView.html?idxno=232953",
     "https://biz.sbs.co.kr/article_hub/20000340632?division=NAVER",
     "https://www.job-post.co.kr/news/articleView.html?idxno=232917",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=232958"
+    "https://www.job-post.co.kr/news/articleView.html?idxno=232958",
+    "https://www.tokenpost.kr/news/briefing/424031",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=232959"
    ],
    "seen_titles": [
-    "“몰아주기가뭐가나쁘죠?”되묻는장관…지방경제살렸다는데",
-    "SK에코플랜트자원순환캠페인'CE100',누적기부물품3만건돌파…본사...",
     "[이슈]'흑자AI'인텔리빅스코스닥行...로봇·국방·해외진출로성장...",
     "“中D램공습”에던진삼전닉스...월가는‘양산능력’따졌다",
     "SK하이닉스·삼성전자거래대금10조육박…상위50종목54.5%",
@@ -3206,10 +3208,12 @@
     "이상일용인시장,수지구문화·체육시설확충계획발표",
     "[글로벌비즈브리핑]\"MS,엔스케일과英데이터센터계약철회\"外",
     "용인특례시·진주시자매결연…상생협력확대",
-    "SK에코대표,국감증인채택…오션플랜트매각'지역상생배신등'쟁점"
+    "SK에코대표,국감증인채택…오션플랜트매각'지역상생배신등'쟁점",
+    "암호화폐시장,24시간동안레버리지포지션2억7262만달러청산",
+    "등돌린외국인언제돌아오나...이젠끝물VSAI반도체호황이어질까"
    ],
    "initialized": true,
-   "last_run": "2026-10-19T04:55:19.570478+09:00"
+   "last_run": "2026-10-19T05:00:42.880771+09:00"
   }
  },
  "press_names": {
