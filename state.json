@@ -650,12 +650,13 @@
     [
      "2026-10-18T18:40:25.678099+09:00",
      "시즌 문유현 꺾고 KCC 맹위 승부처 정관장 4연승"
+    ],
+    [
+     "2026-10-18T18:50:24.781688+09:00",
+     "반도체 광주 클러스터 실행력 22일 통합시 국감서 전격전"
     ]
    ],
    "seen_urls": [
-    "https://www.newscj.com/news/articleView.html?idxno=3440871",
-    "https://biz.chosun.com/it-science/ict/2026/10/16/N4ELM6TYKFHPTDNTUU2N75MLVU/",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=232906",
     "https://www.topstarnews.net/news/articleView.html?idxno=16249099",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=279010",
     "https://www.seoul.co.kr/news/economy/2026/10/16/20261016500251?wlog_tag3=naver",
@@ -2152,12 +2153,12 @@
     "https://www.fnnews.com/news/202610181841084071",
     "https://www.fnnews.com/news/202610181841125850",
     "https://www.fnnews.com/news/202610181841091520",
-    "https://www.newsis.com/view/NISX20261018_0003830539"
+    "https://www.newsis.com/view/NISX20261018_0003830539",
+    "https://www.news1.kr/sports/soccer/6323770",
+    "https://www.newspim.com/news/view/20261018000118",
+    "http://www.mdilbo.com/detail/0kIA7d/759742"
    ],
    "seen_titles": [
-    "[포토뉴스]SK텔레콤,아이폰듀오사전예약시행",
-    "SK하이닉스,협력사직원들과가족초청행사…감사인사전했다",
-    "[포토]'차세대반도체기술이한자리에'",
     "여주시의회,경주·포항·울산서의정연수…“보고배우는곳마다여주...",
     "[포토]SK하이닉스의고대역폭낸드플래시",
     "[기자수첩]K-메모리,中에밀린LCD가겹쳐보이는까닭",
@@ -3654,10 +3655,13 @@
     "'폭락장못버틴'국민연금,보유주식석달반만에182조날아갔다[바...",
     "美AI·반도체주일제히급락…이번주'W'반등분기점",
     "외국인이탈세심화…코스피시총비중37%로'6개월만에최저'[바닥...",
-    "프로농구현대모비스,원정15연패탈출…정관장은4연승(종합)"
+    "프로농구현대모비스,원정15연패탈출…정관장은4연승(종합)",
+    "'클리말라멀티골'서울,김천과2-2무승부…우승까지매직넘버'3'",
+    "[프로농구]'지각개막'서울SK,'3점슛폭발'고양소노에패배...현대모...",
+    "광주반도체클러스터‘전격전’···22일첫국감서통합시실행력시..."
    ],
    "initialized": true,
-   "last_run": "2026-10-18T18:45:22.756824+09:00"
+   "last_run": "2026-10-18T18:50:24.781688+09:00"
   }
  },
  "press_names": {
