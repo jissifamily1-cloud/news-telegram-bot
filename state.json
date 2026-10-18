@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-18T08:15:22.608929+09:00",
-     "학술대회 SK온 미래기술원 결집 연구개발 역량 제2회 개최"
-    ],
-    [
-     "2026-10-18T08:15:22.608929+09:00",
-     "SK그룹 헤리티지 기획 총괄디렉터 파격 변신 공간의 김희영 선혜원"
-    ],
-    [
-     "2026-10-18T08:15:22.608929+09:00",
-     "중복상장 솔리다임서 베어로보틱스까지 딜레마"
-    ],
-    [
      "2026-10-18T08:25:18.061586+09:00",
      "사내 박차 선점 배터리 연구 혁신 성과 SK온 기술 공유 미래"
     ],
@@ -514,15 +502,21 @@
     [
      "2026-10-18T14:15:22.570231+09:00",
      "정유업계 가중 7개월 통제 기름값 부담"
+    ],
+    [
+     "2026-10-18T14:20:23.783570+09:00",
+     "환율 경신 최저치 2년 엔도 만에 19년 달러 최저 1개월"
+    ],
+    [
+     "2026-10-18T14:20:23.783570+09:00",
+     "규명 윗선 요구 기름값 정유사 인지 경영진 대표들 담합"
+    ],
+    [
+     "2026-10-18T14:20:23.783570+09:00",
+     "stock Pension of tank as holdings Service plunges market Value National"
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495970",
-    "https://www.widedaily.com/news/articleView.html?idxno=302051",
-    "https://www.news1.kr/industry/general-industry/6322436",
-    "https://www.mk.co.kr/article/12177862",
-    "https://www.catchnews.kr/news/articleView.html?idxno=129401",
-    "https://news.unn.net/news/articleView.html?idxno=598811",
     "https://www.g-enews.com/view.php?ud=202610161508126199d6b0ab7f1c_1",
     "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91357",
     "https://www.mk.co.kr/article/12177861",
@@ -2016,15 +2010,15 @@
     "https://www.jbnews.com/news/articleView.html?idxno=1513739",
     "https://www.mk.co.kr/article/12178766",
     "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000555615",
-    "https://www.m-i.kr/news/articleView.html?idxno=2007133"
+    "https://www.m-i.kr/news/articleView.html?idxno=2007133",
+    "https://www.m-i.kr/news/articleView.html?idxno=2007134",
+    "https://www.mt.co.kr/industry/2026/10/18/2026101813184322637",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16250527",
+    "https://www.joongangenews.com/news/articleView.html?idxno=555860",
+    "http://www.rightknow.co.kr/news/articleView.html?idxno=35147",
+    "https://www.koreajoongangdaily.com/business/value-ofnbspnational-pension-services-stock-holdings-plunges-as-market-tanks/12925558"
    ],
    "seen_titles": [
-    "SK하이닉스,협력사·가족3만명서울랜드초청…'상생'으로반도체경...",
-    "'접는아이폰'사전예약시작…어떤통신사로개통할까",
-    "청주'신분평에피트더웨이시티'오픈…전용59㎡3억중반",
-    "SK하이닉스,서울랜드에협력사·임직원및가족3만명초청…감사행사...",
-    "SK렌터카,제주지점출차비대면전환…프리미엄차량·관광연계확대",
-    "\"일본경제계에안동의백신저력알린다\"…안동시·경북도,'주한일본...",
     "범용석유화학넘어첨단소재로…화학업종재평가기대",
     "AI거품론다시고개드나…앤트로픽성장둔화에반도체주'휘청'",
     "\"소재부터공정까지AI활용\"…SK하닉,짧아진개발주기대응",
@@ -3518,10 +3512,16 @@
     "세종시,전국최초'물다소비시설'선도모델로물부족선제방어",
     "[단독]SK수펙스,내년에도최창원의장체제확정...최태원신임재확...",
     "국민연금3분기주식평가액182조원‘뚝’…역대최대규모",
-    "기름값통제7개월…정유업계부담가중"
+    "기름값통제7개월…정유업계부담가중",
+    "최태원회장\"AI가할수없는일해야\"…청년들에도전주문",
+    "K배터리3Q도실적청신호..美ESS분기설치량최대지속",
+    "\"늦은개막출발\"…서울SK전희철감독,소노전앞두고1쿼터주문",
+    "원/달러환율2년1개월만에최저...원/엔도19년만에최저치경신",
+    "[2026국감]기름값담합윗선규명요구…정유사대표들경영진인지즉...",
+    "ValueofNationalPensionService'sstockholdingsplungesasmarkett"
    ],
    "initialized": true,
-   "last_run": "2026-10-18T14:15:22.570231+09:00"
+   "last_run": "2026-10-18T14:20:23.783570+09:00"
   }
  },
  "press_names": {
