@@ -510,11 +510,17 @@
     [
      "2026-10-19T07:59:15.307429+09:00",
      "여전 흔들 부채 국장 뉴욕증시 압력 하방 유가 부담 급등에"
+    ],
+    [
+     "2026-10-19T08:00:40.644735+09:00",
+     "목줄 호남반도체에 잡혔 상장에 안철수 SK솔리다임 대통령 침묵"
+    ],
+    [
+     "2026-10-19T08:00:40.644735+09:00",
+     "실린다 인사 최창원 SK그룹 체제에 임박 사장단"
     ]
    ],
    "seen_urls": [
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=424369",
-    "http://www.kjdaily.com/article.php?aid=1792194868689369276",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496079",
     "http://www.rightknow.co.kr/news/articleView.html?idxno=35113",
     "http://www.kjdaily.com/article.php?aid=1792195150689370276",
@@ -2012,11 +2018,11 @@
     "https://www.yna.co.kr/view/AKR20261019014000008?input=1195m",
     "http://www.joseilbo.com/news/news_read.php?uid=577633&class=1",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4439807",
-    "https://www.edaily.co.kr/News/Read?newsId=02086086645614560&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=02086086645614560&mediaCodeNo=257",
+    "https://biz.heraldcorp.com/article/10906460",
+    "https://magazine.hankyung.com/business/article/202610199363b"
    ],
    "seen_titles": [
-    "최근5거래일SK스퀘어주가70만원대등락",
-    "김기문\"中企도성장의주체로\"…3대메가프로젝트참여길열린다",
     "하루만에24%뛴NBIS인버스ETF…미국기술주하락베팅에자금몰렸...",
     "AI부채우려에반도체주급락…나스닥2.2%↓",
     "통신3사,3분기영업익83%증가전망···KT·LGU+매출은역성장전망",
@@ -3514,10 +3520,12 @@
     "[마켓뷰]코스피,반등했지만다시시험대로…美증시동반하락",
     "삼성전자·SK하이닉스,폭락장속엇갈린전망…딥시크충격넘어반등...",
     "하나증권\"DRAM가격상승폭확대전망…낙폭과대활용해야\"",
-    "AI부채부담·유가급등에뉴욕증시또흔들…국장하방압력여전[뉴스..."
+    "AI부채부담·유가급등에뉴욕증시또흔들…국장하방압력여전[뉴스...",
+    "안철수“李대통령,SK솔리다임美상장에침묵…호남반도체에목줄잡혔...",
+    "SK그룹사장단인사임박…최창원체제에힘실린다"
    ],
    "initialized": true,
-   "last_run": "2026-10-19T07:59:15.307429+09:00"
+   "last_run": "2026-10-19T08:00:40.644735+09:00"
   }
  },
  "press_names": {
