@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-18T18:50:24.781688+09:00",
-     "반도체 광주 클러스터 실행력 22일 통합시 국감서 전격전"
-    ],
-    [
-     "2026-10-18T18:55:18.608421+09:00",
-     "무승부로 대전 K리그1 승전고 넘버 매직 서울 김천전 전북"
-    ],
-    [
      "2026-10-18T19:00:41.739049+09:00",
      "머스크마저 닥친 피크아웃 공포 메모리"
     ],
@@ -310,11 +302,13 @@
     [
      "2026-10-19T00:50:24.395077+09:00",
      "별세 권택인"
+    ],
+    [
+     "2026-10-19T00:55:24.459405+09:00",
+     "기업은 늘어 빚만 가계는 넘치는데"
     ]
    ],
    "seen_urls": [
-    "https://www.polinews.co.kr/news/articleView.html?idxno=745930",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=279034",
     "https://www.newspim.com/news/view/20261016001384",
     "https://www.newspim.com/news/view/20261016001383",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610160112&t=NN",
@@ -1812,11 +1806,11 @@
     "https://www.chosun.com/economy/industry-company/2026/10/19/FMLUXLBP5FCJVLDL5WVDF3XZHE/",
     "https://www.chosun.com/economy/economy_general/2026/10/19/DM4PPBVJSVH5RLDEVFKWJEUNII/",
     "https://www.vegannews.co.kr/news/article.html?no=394134",
-    "https://www.chosun.com/national/obituary-personnel/2026/10/19/MPSF53BOXNB4LGKZPMXQIUTHRQ/"
+    "https://www.chosun.com/national/obituary-personnel/2026/10/19/MPSF53BOXNB4LGKZPMXQIUTHRQ/",
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434565",
+    "https://www.chosun.com/economy/economy_general/2026/10/19/JH3BLJGTKBCTPC26IDPOALHDQQ/"
    ],
    "seen_titles": [
-    "[올댓차이나]홍콩증시,해외증시강세에반등마감…H주0.31%↑",
-    "엑시나,SK하이닉스와AI메모리기술협력…‘OCP글로벌서밋’서CXL...",
     "[오늘증시]코스피,외국인매수전환에2%대반등…\"추세전환은아직...",
     "SK렌터카,제주관광수요대응…차량확충·서비스강화",
     "SK에코플랜트기부물품3만건돌파…재사용으로장애인일자리지원",
@@ -3314,10 +3308,12 @@
     "삼성·하이닉스거절했는데…‘전기료선납’재추진하는與",
     "IMF,韓잠재성장률2년연속상승전망",
     "SK네트웍스,업스테이지주식3만6428주취득결정",
-    "[부음]권택인별세외"
+    "[부음]권택인별세외",
+    "\"중국D램2028년폭증\"머스크의경고…K-메모리견제구?",
+    "기업은돈넘치는데,가계는빚만늘어"
    ],
    "initialized": true,
-   "last_run": "2026-10-19T00:50:24.395077+09:00"
+   "last_run": "2026-10-19T00:55:24.459405+09:00"
   }
  },
  "press_names": {
