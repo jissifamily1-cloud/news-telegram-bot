@@ -549,8 +549,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/economy/2026/10/16/20261016500134?wlog_tag3=naver",
-    "https://www.mstoday.co.kr/news/articleView.html?idxno=200181",
     "http://amenews.kr/news/view.php?idx=68333",
     "https://www.smartbizn.com/news/articleView.html?idxno=156600",
     "https://www.mk.co.kr/article/12177728",
@@ -2048,11 +2046,11 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=281025",
     "https://www.ajunews.com/view/20261018103214363",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8688382",
-    "https://www.ngetnews.com/news/articleView.html?idxno=554698"
+    "https://www.ngetnews.com/news/articleView.html?idxno=554698",
+    "https://www.viva100.com/article/20261017500152",
+    "https://www.dt.co.kr/article/12089622"
    ],
    "seen_titles": [
-    "‘야수의심장’개미들…美3배‘속슬’이달에만3조넘게샀다는데",
-    "스몰인사이트\"디아이티,체질개선에압도적실적…기업가치재평가시...",
     "[뉴스워커_SK에코플랜트]자원순환캠페인'CE100'누적기부물품3만건...",
     "'李재판중단,이재용·최태원증인채택'…국감장곳곳여야충돌",
     "급락하루만에…코스닥5%대급등,'매수사이드카'발동",
@@ -3550,10 +3548,12 @@
     "최태원\"20대로돌아간다면무조건창업…사회문제해결에집중할것...",
     "SK온,제2회미래기술원학술대회개최...'CNT파우더'등미래기술성...",
     "국내증시폭락에국민연금‘휘청’…3분기182조원손실",
-    "김희영포도뮤지엄총괄디렉터,메트오페라와협업…선혜원서특별공..."
+    "김희영포도뮤지엄총괄디렉터,메트오페라와협업…선혜원서특별공...",
+    "[주간증시전망]5600선밀린코스피,바닥다질까…'메타실적·금통위'...",
+    "달러강세에도내려가는환율…반도체수출이원화밀어올렸다"
    ],
    "initialized": true,
-   "last_run": "2026-10-18T10:45:21.337966+09:00"
+   "last_run": "2026-10-18T10:50:24.199956+09:00"
   }
  },
  "press_names": {
