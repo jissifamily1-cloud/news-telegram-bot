@@ -581,11 +581,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.popcornnews.net/news/articleView.html?idxno=136284",
-    "https://www.edaily.co.kr/News/Read?newsId=04437846645613576&mediaCodeNo=257",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496035",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=7356",
-    "https://www.g-enews.com/view.php?ud=202610161618451743fbbec65dfb_1",
     "https://m.sports.naver.com/basketball/article/065/0000302967",
     "http://www.breaknews.com/1243539",
     "https://www.mediawatch.kr/news/article.html?no=261384",
@@ -2080,14 +2075,14 @@
     "https://www.sedaily.com/article/20102941",
     "https://www.yna.co.kr/view/AKR20261018043400007?input=1195m",
     "https://www.namdonews.com/news/articleView.html?idxno=926442",
-    "https://www.mk.co.kr/article/12178940"
+    "https://www.mk.co.kr/article/12178940",
+    "https://www.chosun.com/sports/basketball/2026/10/18/7HS52RQBRVFDPLS3YBFYJNM2NM/",
+    "https://m.sports.naver.com/basketball/article/065/0000303113",
+    "http://www.rookie.co.kr/news/articleView.html?idxno=128616",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=562549",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261019010005705"
    ],
    "seen_titles": [
-    "코스피,8거래일만에반등…",
-    "[삼전닉스는지금]CXMT기술마케팅에흔들린주가…경쟁력판단은아...",
-    "외국인'사자'에반등성공했지만…추세상승엔신중론우세",
-    "코스피·코스닥나란히상승마감...급락딛고반등",
-    "SK證\"은행,대출성장에도조달구조악화…3분기NIM하락전망\"",
     "SKT는전화,카카오는카톡,KT는플랫폼…‘모두의AI’비공개테스트",
     "[코스피지수선물옵션]한화에어로·효성중공업급등…삼성전자·SK하이...",
     "SK하이닉스,협력사에전한진심…\"3만명과함께한감사의날\"",
@@ -3582,10 +3577,15 @@
     "SK그룹,이르면10월말사장단인사…최창원,수펙스의장계속맡아",
     "'티아고2골'전북,제주에3-2진땀승…광주는자책골로역전패",
     "['취임100일'김대중전남광주통합특별시교육감]\"전남광주교육,대한...",
-    "\"103조투자유치·인구증가율전국최고…충북대전환시작\""
+    "\"103조투자유치·인구증가율전국최고…충북대전환시작\"",
+    "오브라이언트-이정현-제임스70점합작...소노,SK87대81로제치고2연...",
+    "이정현이돌아본더뎠던출발“피로가뒤늦게쌓였던것같다”",
+    "점점손발맞기시작하는소노?손창환감독\"선수들이스스로이겨내서...",
+    "이달환율1천340원대로내려2년1개월만에최저…엔화는19년만에최...",
+    "사업재편·신약투자확대…대기업,차세대항암제개발'잰걸음'"
    ],
    "initialized": true,
-   "last_run": "2026-10-18T17:00:43.843270+09:00"
+   "last_run": "2026-10-18T17:05:19.362296+09:00"
   }
  },
  "press_names": {
