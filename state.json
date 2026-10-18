@@ -625,8 +625,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.popcornnews.net/news/articleView.html?idxno=136289",
-    "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307721",
     "https://www.hankookilbo.com/news/article/A2026101611230001662?did=NA",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=280954",
     "https://tk.newdaily.co.kr/site/data/html/2026/10/16/2026101600276.html",
@@ -2124,11 +2122,11 @@
     "https://www.sedaily.com/article/20102972",
     "https://www.namdonews.com/news/articleView.html?idxno=926452",
     "http://www.newsian.co.kr/news/articleView.html?idxno=97274",
-    "https://www.sedaily.com/article/20102981"
+    "https://www.sedaily.com/article/20102981",
+    "https://www.edaily.co.kr/News/Read?newsId=02709286645614232&mediaCodeNo=257",
+    "https://www.sedaily.com/article/20102988"
    ],
    "seen_titles": [
-    "코스피,저가매수·외국인순매수에8거래일만에반등···5660선마감",
-    "베슬에이아이-한국투자증권,GPU인프라확충위한금융협력",
     "전날7%폭락코스피,8거래일만에2%대반등성공",
     "코스피2%대상승,8거래일만반등...코스닥은매수사이드카",
     "NH證\"주간코스피예상범위5100~6100…반도체비중확대전략\"",
@@ -3626,10 +3624,12 @@
     "법해석하나에세금수천억갈려…기업들소송불사",
     "'호남권메가프로젝트첫발'…앰코3조원대증설19일착공",
     "[이번주증시]폭락뒤반등한코스피…외국인매수·실적이관건",
-    "삼전닉스급락에소부장도일주일새-20%대줄타격"
+    "삼전닉스급락에소부장도일주일새-20%대줄타격",
+    "SK솔리다임美상장갑론을박…중복상장우려vs투자확대효과",
+    "CXMT3분기매출600%폭증전망…머스크“中,D램지형재편할것”"
    ],
    "initialized": true,
-   "last_run": "2026-10-18T17:55:20.908787+09:00"
+   "last_run": "2026-10-18T18:00:39.383019+09:00"
   }
  },
  "press_names": {
