@@ -258,11 +258,13 @@
     [
      "2026-10-19T05:35:23.960305+09:00",
      "승리 전북 꺾고 진출 파이널 현대 5경기 제주SK 도약 3위 만에"
+    ],
+    [
+     "2026-10-19T05:50:24.330052+09:00",
+     "4경기 나는 특급 골든 부트 6골 팀은 외쳤던 최근 챔피언 폴란드"
     ]
    ],
    "seen_urls": [
-    "https://m.sports.naver.com/basketball/article/065/0000302990",
-    "https://www.ajunews.com/view/20261016221735821",
     "https://www.newspim.com/news/view/20261016001423",
     "https://www.topstarnews.net/news/articleView.html?idxno=16249349",
     "https://www.tokenpost.kr/news/market/423432",
@@ -1760,11 +1762,11 @@
     "https://www.sedaily.com/article/20102927",
     "https://magazine.hankyung.com/business/article/202610152643b",
     "https://www.dt.co.kr/article/12089728",
-    "http://www.jbsori.com/news/articleView.html?idxno=18054"
+    "http://www.jbsori.com/news/articleView.html?idxno=18054",
+    "http://www.incheonin.com/news/articleView.html?idxno=121554",
+    "https://www.goal.com/kr/뉴스/a/blt729f8fdbbc81d12d"
    ],
    "seen_titles": [
-    "외국인선택에삼성전자웃고SK하이닉스울었다…엇갈린반도체주",
-    "코스피,8거래일만에반등…2.05%오른5,668선마감",
     "\"329만원짜리인데내년에받으라고?\"…아이폰듀오,예약개시30분만에...",
     "코스피200ETF거래활발…반도체ETF도줄줄이상승",
     "‘나에게가장중요한가치는승리’27득점으로연패끊은자니오브라...",
@@ -3262,10 +3264,12 @@
     "‘오락가락’코스피,반등시험대…AI기업실적발표관건[주간증시...",
     "제약바이오家세대교체,누가다음판을짜나",
     "또주저앉은뉴욕반도체…19일개장삼전닉스‘전운’",
-    "전북현대,제주SK꺾고'3위'도약...5경기만에승리,'파이널A'진출..."
+    "전북현대,제주SK꺾고'3위'도약...5경기만에승리,'파이널A'진출...",
+    "코스피7.57%폭락,AI반도체성장신화흔들리나",
+    "\"팀은챔피언,나는골든부트\"외쳤던폴란드특급,'최근4경기6골'1..."
    ],
    "initialized": true,
-   "last_run": "2026-10-19T05:45:24.544972+09:00"
+   "last_run": "2026-10-19T05:50:24.330052+09:00"
   }
  },
  "press_names": {
