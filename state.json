@@ -565,11 +565,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.hani.co.kr/arti/economy/economy_general/1282737.html",
-    "https://www.datasom.co.kr/news/articleView.html?idxno=210375",
-    "https://www.munhwa.com/article/11624083",
-    "https://www.mk.co.kr/article/12177764",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=873490",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495809",
     "https://www.job-post.co.kr/news/articleView.html?idxno=232803",
     "https://www.widedaily.com/news/articleView.html?idxno=302041",
@@ -2064,14 +2059,14 @@
     "http://www.yonhapnewstv.co.kr/news/AKR20261018110913EgJ",
     "https://zdnet.co.kr/view/?no=20261018111005",
     "https://www.newspim.com/news/view/20261018000027",
-    "https://www.etnews.com/20261018000038"
+    "https://www.etnews.com/20261018000038",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=367502",
+    "https://www.sedaily.com/article/20102866",
+    "https://m.skyedaily.com/news_view.html?ID=313104",
+    "https://biz.newdaily.co.kr/site/data/html/2026/10/18/2026101800036.html",
+    "https://www.mk.co.kr/article/12178698"
    ],
    "seen_titles": [
-    "이통3사,'아이폰듀오'앞두고차별화경쟁펼친다",
-    "SK하이닉스,'OCP글로벌서밋'서차세대AI메모리기술대거공개",
-    "반도체투톱흔들리자ETF도'휘청'…수익률하위권싹쓸이",
-    "SK렌터카,제주서비스개편…비대면출차·제휴서비스강화",
-    "SK에코플랜트대표집앞까지번진이권다툼...건설현장집회,'이권쟁...",
     "SK이노베이션0.26%하락…정유·배터리수익성점검",
     "정부“견조한경기회복흐름…물가·고용등민생부담은지속”",
     "SK어스온,베트남광구서원유생산···하루2만5000배럴전망",
@@ -3566,10 +3561,15 @@
     "국민연금,3분기에182조원증발…7분기만에'마이너스'",
     "[부고]조준희(유라클·KOSA회장)씨모친상",
     "韓잠재성장률40년만에2년연속상승…'반도체착시'우려도",
-    "[부음]조준희(한국인공지능·소프트웨어산업협회회장)씨모친상"
+    "[부음]조준희(한국인공지능·소프트웨어산업협회회장)씨모친상",
+    "삼전닉스,금융위기후최악의한주…\"과도한우려,업황회복관건\"",
+    "솔리다임‘4중상장’논란에도블룸버그인텔“투자재원확보”[코주...",
+    "'미증시상장설'솔리다임,트럼프30년인연로비스트기업계약",
+    "반도체가끌어올린잠재성장률반등·국민소득4만달러시대…'착시'...",
+    "[단독]고위험레버리지ETF쏟아냈는데…운용역1명은펀드58개굴렸다"
    ],
    "initialized": true,
-   "last_run": "2026-10-18T11:15:21.653339+09:00"
+   "last_run": "2026-10-18T11:20:22.588466+09:00"
   }
  },
  "press_names": {
