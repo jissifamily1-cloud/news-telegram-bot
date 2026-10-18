@@ -478,11 +478,13 @@
     [
      "2026-10-19T07:35:18.625196+09:00",
      "400억 상품권 LG KT 가로챘다 가입선물 꿀꺽"
+    ],
+    [
+     "2026-10-19T07:40:25.318742+09:00",
+     "수지구 체육시설 소실봉 문화축제 시장 문화 참석 제6회 이상일"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=01807286645613904&mediaCodeNo=257",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610170006&t=NN",
     "https://www.edaily.co.kr/News/Read?newsId=01817126645613904&mediaCodeNo=257",
     "https://www.edaily.co.kr/News/Read?newsId=01820406645613904&mediaCodeNo=257",
     "https://www.edaily.co.kr/News/Read?newsId=01823686645613904&mediaCodeNo=257",
@@ -1980,11 +1982,11 @@
     "https://www.newswhoplus.com/news/articleView.html?idxno=71977",
     "https://www.mk.co.kr/article/12179159",
     "https://slownews.kr/168082",
-    "https://www.imaeil.com/page/view/2026101816062775522"
+    "https://www.imaeil.com/page/view/2026101816062775522",
+    "https://www.hankookilbo.com/news/article/A2026101907210000298?did=NA",
+    "https://www.joongangenews.com/news/articleView.html?idxno=555938"
    ],
    "seen_titles": [
-    "[포토]김재희,버디위해중앙으로",
-    "[포토]김재희,핀을바로노린다",
     "솔리다임IPO어떻게생각하십니까…\"주주우롱\"vs\"상장필요\"[분석+]",
     "[포토]김재희,버디성공으로기분좋은마무리",
     "[포토]김재희,차분히기다린다",
@@ -3482,10 +3484,12 @@
     "아이폰듀오,509만원에도예약물량소진…배송내년'1월'",
     "K-반도체미래이끌인재양성…한국반도체마이스터고,2027학년도신입...",
     "소방관의눈물,“이래도재정빨대인가요”:슬로우레터10월19일.",
-    "가입선물준상품권'꿀꺽'한KT·SK·LG...400억가로챘다"
+    "가입선물준상품권'꿀꺽'한KT·SK·LG...400억가로챘다",
+    "WSJ\"기술발전과투자수익은별개\"…AI붐경고",
+    "이상일시장,'제6회소실봉문화축제'참석…\"수지구문화·체육시설확..."
    ],
    "initialized": true,
-   "last_run": "2026-10-19T07:35:18.625196+09:00"
+   "last_run": "2026-10-19T07:40:25.318742+09:00"
   }
  },
  "press_names": {
