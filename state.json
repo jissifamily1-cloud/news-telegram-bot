@@ -525,18 +525,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsinside.kr/news/articleView.html?idxno=5025626",
-    "https://www.mediapen.com/news/view/1130475",
-    "https://swtvnews.com/news/newsview.php?ncode=1065584945296939",
-    "https://www.ytn.co.kr/_ln/0102_202610161249501356",
-    "https://www.gokorea.kr/news/articleView.html?idxno=881652",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=278974",
-    "https://www.pennmike.com/news/articleView.html?idxno=129654",
-    "http://enews.imbc.com/News/RetrieveNewsInfo/521485",
-    "https://www.gokorea.kr/news/articleView.html?idxno=881650",
-    "https://www.ajunews.com/view/20261016115634617",
-    "https://www.itbiznews.com/news/articleView.html?idxno=228157",
-    "https://biz.heraldcorp.com/article/10904762",
     "https://www.news1.kr/politics/assembly/6322411",
     "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88682",
     "https://www.gokorea.kr/news/articleView.html?idxno=881663",
@@ -2024,18 +2012,21 @@
     "https://www.newspim.com/news/view/20261018000020",
     "https://www.livebiz.today/news/articleView.html?idxno=205688",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610180022&t=NN",
-    "https://biz.chosun.com/industry/company/2026/10/18/46IZHMYOKVGZDMJJAIOXPU4QHI/"
+    "https://biz.chosun.com/industry/company/2026/10/18/46IZHMYOKVGZDMJJAIOXPU4QHI/",
+    "https://www.newsis.com/view/NISX20261018_0003830280",
+    "https://www.ddaily.co.kr/page/view/2026101809445321423",
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225608",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005941176",
+    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078991",
+    "https://www.newspim.com/news/view/20261018000016",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=91022",
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2307523",
+    "https://www.yna.co.kr/view/PYH20261018019900013?input=1196m",
+    "https://www.yna.co.kr/view/PYH20261018019700013?input=1196m",
+    "https://www.yna.co.kr/view/PYH20261018020000013?input=1196m",
+    "https://www.yna.co.kr/view/PYH20261018019800013?input=1196m"
    ],
    "seen_titles": [
-    "코스피,美국채금리급락에1%대반등...5640선",
-    "SK하이닉스·삼성전자거래대금4.8조…상위20종목의63%",
-    "[뉴스in뉴스]코스피7천에서5천대로…폭락언제까지?",
-    "[정해균의Zooom-人]학연·법조로연결해본김지용중수청장재계인맥",
-    "[미르의글로벌레이더]SK하이닉스,싱가포르투자길넓어진다…미국...",
-    "'AG챔피언'한국여자핸드볼,전국체전서H리그전초전",
-    "\"반토막됐다\"...휘청했던코스피변수·전망은?[뉴스나우]",
-    "\"코스피3%급등,삼성전자·SK하이닉스반등의숨은비밀은?\"",
-    "SKChairmanProposes$300BillionKorea-JapanEnergyMarketIntegrat",
     "코스피폭락에美CNBC앵커도이재명정부질타...\"소잃고외양간고치...",
     "남보라,금손인증?\"엔비디아수익률300%…하이닉스19만원대샀다\"",
     "증시반등신호,지금이매수적기일까?전문가들의심층분석",
@@ -3526,10 +3517,19 @@
     "최태원회장\"20대로돌아가면무조건창업…AI가못하는일해야\"",
     "국민연금,6월30일~10월15일보유주식평가액182조원손실...7분기만...",
     "\"대학졸업장뭐가중요해\"…최태원회장이강조한미래",
-    "최태원“AI는지능일뿐지혜아니야…사람이해하고움직이는능력이..."
+    "최태원“AI는지능일뿐지혜아니야…사람이해하고움직이는능력이...",
+    "외인투매에'삼전닉스'기록적주간낙폭…증권가는\"역사적저평가\"",
+    "최태원“20대로돌아가면창업”…AI시대청년들에도전강조",
+    "국민연금,3분기보유주식182조원증발…'삼전닉스'폭락직격탄",
+    "국민연금,3분기주식182조원손실…7분기만에'마이너스'",
+    "최태원\"20대로돌아가면무조건창업\"",
+    "이형일부총리\"반도체호황,적어도내년까지…\"韓경제기초체력견조...",
+    "\"다시20대라면창업\"…최태원회장이청년들에게던진미래화두",
+    "삼전닉스폭락못피했다…국민연금보유주식182조원'증발'",
+    "청년들대상으로강연하는최태원SK그룹회장"
    ],
    "initialized": true,
-   "last_run": "2026-10-18T10:20:23.003229+09:00"
+   "last_run": "2026-10-18T10:25:18.936836+09:00"
   }
  },
  "press_names": {
