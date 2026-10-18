@@ -502,10 +502,13 @@
     [
      "2026-10-18T21:10:54.699607+09:00",
      "상장기업 그늘 호황 방산 조선 경남"
+    ],
+    [
+     "2026-10-18T21:15:22.491746+09:00",
+     "활력 찾을까 여수산단 반도체 소재로"
     ]
    ],
    "seen_urls": [
-    "http://sateconomy.co.kr/news/view/1065602602255169",
     "https://www.mediawatch.kr/news/article.html?no=261388",
     "https://www.hankyung.com/article/2026101670881",
     "https://www.businesspost.co.kr/BP?command=article_view&num=449598",
@@ -2004,10 +2007,10 @@
     "https://www.knnews.co.kr/news/articleView.php?idxno=1553006",
     "https://www.maniareport.com/view.php?ud=20261018192017200dad9f33a29_19",
     "https://www.edaily.co.kr/News/Read?newsId=02860166645614232&mediaCodeNo=257",
-    "http://www.gnmaeil.com/news/articleView.html?idxno=596743"
+    "http://www.gnmaeil.com/news/articleView.html?idxno=596743",
+    "https://www.ikbc.co.kr/article/view/kbc202610180038"
    ],
    "seen_titles": [
-    "끝모를외국인매도에‘그로기상태’빠진코스피…이번주삼전닉...",
     "500만원짜리휴대폰'아이폰듀오'놓고SK텔레콤KTLG유플러스고객...",
     "중국AI메모리굴기…‘역대급호황’한국반도체비상",
     "연말인사셈법분주한4대그룹…관전포인트는",
@@ -3506,10 +3509,11 @@
     "[제107회전국체육대회]카누·역도·탁구·볼링…경남메달수확‘속...",
     "‘3점포16방'소노,뒤늦게시즌연SK홈개막전에찬물...87-81로꺾고...",
     "[미리보는이데일리신문]전기차막자하이브리드…中수출15배폭증",
-    "경남조선·방산호황속상장기업그늘"
+    "경남조선·방산호황속상장기업그늘",
+    "여수산단,반도체소재로'활력'찾을까"
    ],
    "initialized": true,
-   "last_run": "2026-10-18T21:10:54.699607+09:00"
+   "last_run": "2026-10-18T21:15:22.491746+09:00"
   }
  },
  "press_names": {
