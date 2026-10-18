@@ -182,10 +182,13 @@
     [
      "2026-10-19T04:10:25.956929+09:00",
      "빠질때 삼전닉스 조선주는 뛰어올랐다"
+    ],
+    [
+     "2026-10-19T04:25:20.645094+09:00",
+     "한다 모니터링 실시간 용수공급시설 용인반도체 관상태"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801617&plink=ORI&cooper=NAVER",
     "https://biz.heraldcorp.com/article/10905552",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1728181",
     "http://www.newstown.co.kr/news/articleView.html?idxno=718786",
@@ -1684,10 +1687,10 @@
     "https://www.g-enews.com/view.php?ud=2026101822002092312bd56fbc3c_1",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=322679",
     "https://www.mt.co.kr/stock/2026/10/19/2026101819392952606",
-    "https://biz.sbs.co.kr/article_hub/20000340622?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000340622?division=NAVER",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610171158178550965"
    ],
    "seen_titles": [
-    "코스피,8거래일만에반등⋯외국인돌아왔다",
     "[포커스]외인매도폭탄에코스피롤러코스터…'수급악순환'언제끊...",
     "8거래일만에힘겹게반등…반대매매는'눈덩이'",
     "4강입상과함께확인한성장의숙제인천KCC초4부,시흥시의회의장배...",
@@ -3186,10 +3189,11 @@
     "인텔최고경영자립부탄“구조조정80%완료”…미국정부지분보유...",
     "[출근길포인트]삼전17%·하닉24%↓2008년이후최악주간하락률…...",
     "삼전닉스빠질때조선주는뛰어올랐다",
-    "WSJ\"AI투자붐문제,과거와다르지않다\"…'과잉투자'경고"
+    "WSJ\"AI투자붐문제,과거와다르지않다\"…'과잉투자'경고",
+    "[뉴테크포커스]용인반도체용수공급시설실시간관상태모니터링한다"
    ],
    "initialized": true,
-   "last_run": "2026-10-19T04:20:25.715293+09:00"
+   "last_run": "2026-10-19T04:25:20.645094+09:00"
   }
  },
  "press_names": {
