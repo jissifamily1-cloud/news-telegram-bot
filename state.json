@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-18T10:55:18.286342+09:00",
-     "배터리 건설판 공장이 조립 일손 멎은 50만 통째 돌린"
-    ],
-    [
-     "2026-10-18T10:55:18.286342+09:00",
-     "출근 소슬지 마이스터고 스토 청년 영크크는 SK하이닉스 문세윤"
-    ],
-    [
-     "2026-10-18T10:55:18.286342+09:00",
-     "해야 청년에게 없는 AI가 최태원이"
-    ],
-    [
      "2026-10-18T11:00:37.376567+09:00",
      "쇼크 블랙먼데이 다시 공포 더블 증시 CXMT 덮치나"
     ],
@@ -582,15 +570,17 @@
     [
      "2026-10-18T16:50:25.908285+09:00",
      "FC 만의 진출 기회로 4년 제주SK 다음 전북에 상위리그"
+    ],
+    [
+     "2026-10-18T16:55:19.930427+09:00",
+     "달러 강세에 개인 원화 엔화 매수 수준 외화예금 저가"
+    ],
+    [
+     "2026-10-18T16:55:19.930427+09:00",
+     "열면 돼요 숫자 개미들 질린 파랗게 증시"
     ]
    ],
    "seen_urls": [
-    "https://www.viewsnnews.com/article?q=239082",
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00007&news_seq_no=5225414",
-    "https://www.khan.co.kr/article/202610161638001",
-    "https://www.delighti.co.kr/news/articleView.html?idxno=123393",
-    "https://www.mt.co.kr/stock/2026/10/16/2026101616150420059",
-    "https://biz.heraldcorp.com/article/10905365",
     "https://www.moneystorm.kr/news/articleView.html?idxno=7358",
     "https://www.newspim.com/news/view/20261016001250",
     "https://www.jasm.co.kr/news/view/321859/?sc=Naver",
@@ -2084,15 +2074,15 @@
     "https://www.mk.co.kr/article/12178919",
     "https://www.sedaily.com/article/20102940",
     "https://www.businesspost.co.kr/BP?command=article_view&num=449628",
-    "https://www.jibs.co.kr/news/articles/articlesDetail/66672?feed=na"
+    "https://www.jibs.co.kr/news/articles/articlesDetail/66672?feed=na",
+    "https://www.hidomin.com/news/articleView.html?idxno=725338",
+    "https://www.kwnews.co.kr/article/20261015500074",
+    "https://www.yna.co.kr/view/AKR20261018043300007?input=1195m",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092172236",
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=424399",
+    "https://www.seoul.co.kr/news/economy/securities/2026/10/18/20261018500099?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "코스피8거래일만에반등···코스닥은매수사이드카발동",
-    "[무등테이블]중수청,이름만바뀐검찰은아닐까",
-    "[더밸류브리핑]오늘의신한금융소식...신한카드・신한저축은행",
-    "세종명학산단,기업증설추진에부지확보과제",
-    "코스피지수2%반등,외국인8거래일만에순매수",
-    "AI시대,인간에게필요한능력은…『UnfinishedHuman』",
     "이재용·최태원출석놓고싸우다산재기업도못불렀다",
     "증시하락하면서빚투'반대매매'급증...14일하루893억원",
     "폭락하루만에반등했지만…\"빅테크실적확인하고들어가라\"",
@@ -3586,10 +3576,16 @@
     "[매일경제TV]극심한변동성속'삼전닉스'투자전략",
     "[단독]삼성전자,‘차세대HBM’TSMC와함깨만든다",
     "[10월19일자]비즈니스포스트아침의주요기사",
-    "제주SKFC,전북에2-3패..4년만의상위리그진출다음기회로"
+    "제주SKFC,전북에2-3패..4년만의상위리그진출다음기회로",
+    "329만원'아이폰듀오'도품귀…스마트폰프리미엄경쟁가열",
+    "AI투자수익성우려에국내증시급락…코스피·코스닥매도사이드카...",
+    "시즌첫연승이끈소노손창환\"에이스이정현의복귀반갑다\"",
+    "CXMT,3분기매출600%증가전망…D램시장존재감확대",
+    "원화강세에달러·엔화'저가매수'···개인외화예금최대수준",
+    "“내일증시안열면안돼요?”‘이숫자’에파랗게질린개미들[내..."
    ],
    "initialized": true,
-   "last_run": "2026-10-18T16:50:25.908285+09:00"
+   "last_run": "2026-10-18T16:55:19.930427+09:00"
   }
  },
  "press_names": {
