@@ -498,11 +498,17 @@
     [
      "2026-10-18T12:45:21.909025+09:00",
      "26일 SK증권제12호스팩 예심 우려 관리종목 미제출"
+    ],
+    [
+     "2026-10-18T12:55:16.842902+09:00",
+     "원정 선발 이건희 전북 라인업 발표 제주SK 전역"
+    ],
+    [
+     "2026-10-18T12:55:16.842902+09:00",
+     "이동준 큰일 이탈로 진짜 전북 티아고 삼각 패배하면"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026101614302054198",
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590821379773",
     "https://www.newsis.com/view/NISX20261016_0003829108",
     "http://www.kdfnews.com/news/articleView.html?idxno=189415",
     "https://www.job-post.co.kr/news/articleView.html?idxno=232841",
@@ -2000,11 +2006,11 @@
     "https://www.tokenpost.kr/news/blockchain/423883",
     "http://www.press9.kr/news/articleView.html?idxno=84428",
     "https://basketkorea.com/news/newsview.php?ncode=1065584392238323",
-    "https://www.vegannews.co.kr/news/article.html?no=393912"
+    "https://www.vegannews.co.kr/news/article.html?no=393912",
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600634",
+    "https://www.goal.com/kr/뉴스/a/bltceb3441a367d0054"
    ],
    "seen_titles": [
-    "서울·부산이어대전자양동2도노린다…신동아건설,정비사업'알짜'...",
-    "SK하이닉스\"협력사구성원과가족에게감사의마음전하다\"",
     "CXMT반도체공포월가\"과도하다\"진단",
     "최은수인텔리빅스대표\"2년만에매출2.5배\"…'흑자AI'일반상장",
     "SK렌터카,제주지점비대면출차도입...프리미엄차량확대",
@@ -3502,10 +3508,12 @@
     "[로빈후드온체인]제로트레이스에보유지갑2414개가몰려있다...어플...",
     "SK하이닉스영업이익률77%,지켜질까…AI반도체의위기와기회",
     "[BK프리뷰]‘개막후2주공백’SKvs‘4연패끊어낸’소노,시즌첫...",
-    "SK증권제12호스팩,예심미제출시26일관리종목우려"
+    "SK증권제12호스팩,예심미제출시26일관리종목우려",
+    "'이건희전역후첫선발'제주SK,전북원정선발라인업발표",
+    "[GOAL현장]‘전북패배하면진짜큰일’티아고-이탈로-이동준삼각편..."
    ],
    "initialized": true,
-   "last_run": "2026-10-18T12:50:24.432173+09:00"
+   "last_run": "2026-10-18T12:55:16.842902+09:00"
   }
  },
  "press_names": {
