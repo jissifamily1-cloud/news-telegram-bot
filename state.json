@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-19T18:30:36.339586+09:00",
-     "만드는 허수아비 관료 대통령 SNS"
-    ],
-    [
-     "2026-10-19T18:30:36.339586+09:00",
-     "사진 되다 DAC EP 평면을 공간이 벗어나"
-    ],
-    [
-     "2026-10-19T18:35:19.832812+09:00",
-     "실무형 해커톤은 뽑는다더니 SK하이닉스 AI인재"
-    ],
-    [
-     "2026-10-19T18:35:19.832812+09:00",
-     "재부상과 성장 기대감 논의 종전"
-    ],
-    [
-     "2026-10-19T18:35:19.832812+09:00",
-     "증인으로 최태원 이재용 호남반도체 국감 국힘 채택해야"
-    ],
-    [
      "2026-10-19T18:45:25.788083+09:00",
      "폭락 때와 빚투 진짜 7월 급등 다르다 위험한 급락했으니"
     ],
@@ -378,14 +358,17 @@
     [
      "2026-10-20T00:25:21.763377+09:00",
      "감자 유리 주주가치 솔리다임 뜨거운 vs 희석 실탄확보"
+    ],
+    [
+     "2026-10-20T00:35:22.753558+09:00",
+     "놓고 논란 투자 매년 한전 재원 10조 필요 송변전설비"
+    ],
+    [
+     "2026-10-20T00:35:22.753558+09:00",
+     "47곳 올해 인프라 흔들리는 최소 데이터센터 차질"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202610191041474182aa6f4cdad_1",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16251242",
-    "https://www.econovill.com/news/articleView.html?idxno=754036",
-    "https://news.tf.co.kr/read/economy/2377757.htm",
-    "https://www.mk.co.kr/article/12179360",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=395588",
     "https://www.topstarnews.net/news/articleView.html?idxno=16251233",
     "https://www.asiatime.co.kr/article/20261019500167",
@@ -1880,14 +1863,14 @@
     "https://www.tokenpost.kr/news/breaking/424409",
     "https://www.ekn.kr/web/view.php?key=20261020020558344",
     "https://www.newsis.com/view/NISX20261019_0003831953",
-    "https://www.kmib.co.kr/article/20261019502184"
+    "https://www.kmib.co.kr/article/20261019502184",
+    "https://www.chosun.com/economy/economy_general/2026/10/20/75DVK5QVXJDYLIODV5FPGWDDZA/",
+    "https://www.donga.com/news/Economy/article/all/20261019/134869947/2",
+    "https://www.greened.kr/news/articleView.html?idxno=352480",
+    "https://www.donga.com/news/Economy/article/all/20261019/134869907/2",
+    "https://www.donga.com/news/Economy/article/all/20261019/134869919/2"
    ],
    "seen_titles": [
-    "S.Korea'sU.S.TradeSurplusNears$100BillionMilestone",
-    "코스피,기관매수에장중상승전환5600선…삼전1%↑·하닉2%↓",
-    "최태원SK그룹회장,'AI풀스택'으로글로벌판도바꾼다",
-    "코스피,3%대급락출발후상승전환…5600선등락",
-    "최태원SK회장\"20대로돌아가면사회문제해결창업할것\"",
     "업비트,2학기'업클래스캠퍼스'참가자모집",
     "121대1구멍뚫어야대기업임원…SK하이닉스최다증가",
     "안철수\"SK솔리다임상장하면하이닉스주주이익줄어...공적수단으로...",
@@ -3382,10 +3365,15 @@
     "샌디스크7.23%·SK하이닉스5.07%상승",
     "[똑똑한유통]컬리,11번가,애경산업,G마켓,롯데온,CU,SSG닷컴",
     "\"삼전·SK하닉폭락은과도한공포의결과…11월부터반등온다\"",
-    "‘뜨거운감자’된솔리다임…주주가치희석vs실탄확보유리"
+    "‘뜨거운감자’된솔리다임…주주가치희석vs실탄확보유리",
+    "“韓반도체,안보카드되려면日소부장잡아야”",
+    "“반도체협력사2조원보증”…정부-SK하이닉스금융지원",
+    "美반도체2.5%반등에도SK하이닉스외국인매도지속…40조자사주가주...",
+    "한전“송변전설비매년10조필요”투자재원놓고논란",
+    "美데이터센터올해최소47곳차질…흔들리는AI인프라붐"
    ],
    "initialized": true,
-   "last_run": "2026-10-20T00:30:34.347601+09:00"
+   "last_run": "2026-10-20T00:35:22.753558+09:00"
   }
  },
  "press_names": {
