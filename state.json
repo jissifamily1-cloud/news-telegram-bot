@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-19T18:20:27.121111+09:00",
-     "특사경 기술 적발땐 비용까지 산업부에 배상 유출 뜬다"
-    ],
-    [
-     "2026-10-19T18:20:27.121111+09:00",
-     "레버리지 투자자 2억 댔다가 35억 직장인 눈물 반도체"
-    ],
-    [
      "2026-10-19T18:25:21.984249+09:00",
      "Center Shows Data Boom Cracks"
     ],
@@ -382,11 +374,13 @@
     [
      "2026-10-20T00:15:29.119413+09:00",
      "현실로 깨고 회의론 투자 반도체 학습된"
+    ],
+    [
+     "2026-10-20T00:20:27.552986+09:00",
+     "베팅은 가져가야 비중만 무리한 있는 하이닉스 삼성전자 버틸"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12179348",
-    "https://www.newspim.com/news/view/20261019000438",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496402",
     "https://view.asiae.co.kr/article/2026101910464306418",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=302924",
@@ -1884,11 +1878,11 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=617090",
     "https://www.newsis.com/view/NISX20261019_0003831661",
     "https://www.cbci.co.kr/news/articleView.html?idxno=617130",
-    "http://www.gjdream.com/news/articleView.html?idxno=673549"
+    "http://www.gjdream.com/news/articleView.html?idxno=673549",
+    "http://www.kwangju.co.kr/article.php?aid=1792422600804440074",
+    "https://www.newsis.com/view/NISX20261019_0003831104"
    ],
    "seen_titles": [
-    "SK케미칼,독거노인과함께하는'우리들의블루스'진행",
-    "\"코스피바닥은5,150\"…'메모리편중'이낙폭키웠다",
     "유조선호황에몸집키우는해운업계…2028년공급과잉우려",
     "삼전닉스'빚투관리'첫날…종투사10곳,신용융자문턱어떻게바뀌나",
     "[유통24시]투썸플레이스,버지니아서'미국1호점'오픈外",
@@ -3386,10 +3380,12 @@
     "[반도체투톱]\"-4%급락딛고반등성공\"…삼성전자·SK하이닉스,이틀...",
     "\"코스피7000다시간다?\"…전고점회복기대키우는외국인매수세",
     "[코스피저가매수]\"블랙먼데이공포딛고선방\"…저가매수에반등했지...",
-    "'학습된회의론'깨고…반도체투자현실로"
+    "'학습된회의론'깨고…반도체투자현실로",
+    "호남권반도체산업벨트첫발‘앰코3조투자’",
+    "\"무리한베팅은독…삼성전자·하이닉스버틸수있는비중만가져가야..."
    ],
    "initialized": true,
-   "last_run": "2026-10-20T00:15:29.119413+09:00"
+   "last_run": "2026-10-20T00:20:27.552986+09:00"
   }
  },
  "press_names": {
