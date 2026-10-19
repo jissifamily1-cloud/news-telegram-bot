@@ -605,7 +605,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003276495&CMPT_CD=P0010",
     "https://www.itdaily.kr/news/articleView.html?idxno=242281",
     "https://www.kukinews.com/article/view/kuk202610190099",
     "https://www.newspim.com/news/view/20261019000790",
@@ -2104,10 +2103,10 @@
     "https://www.seoultimes.news/news/article.html?no=2000101042",
     "https://www.etoday.co.kr/news/view/2637621",
     "http://www.thevaluenews.co.kr/news/view.php?idx=202477",
-    "https://news.bizwatch.co.kr/article/finance/2026/10/15/0033"
+    "https://news.bizwatch.co.kr/article/finance/2026/10/15/0033",
+    "http://www.beyondpost.co.kr/view.php?ud=20261020080555757146a9e4dd7f_30"
    ],
    "seen_titles": [
-    "\"솔리다임美상장,주주이익희석\"우려에…이찬진\"중복상장으로판단...",
     "이찬진\"솔리다임중복상장우려…하이닉스에도전달하겠다\"",
     "최태원\"20대로돌아간다면창업...사회문제해결에도전\"",
     "전북대2000명,초록빛응원으로하나되다",
@@ -3606,10 +3605,11 @@
     "[뉴스앤데이터]<1>통신3사독립이사16명…이사회의장모두법조출...",
     "[증시키워드]금감원,SK하이닉스중복상장지적⋯삼성SDI·에코프로↑",
     "[화학레이더]SK케미칼·OCI홀딩스,임직원가족과함께하는사회공헌...",
-    "[1조배팅,승자는]신한금융,전통보험인수…앞날은험난"
+    "[1조배팅,승자는]신한금융,전통보험인수…앞날은험난",
+    "힐스테이트,아파트브랜드평판2026년10월...1위"
    ],
    "initialized": true,
-   "last_run": "2026-10-20T08:05:18.260275+09:00"
+   "last_run": "2026-10-20T08:10:24.149323+09:00"
   }
  },
  "press_names": {
