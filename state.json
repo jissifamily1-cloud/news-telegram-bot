@@ -698,11 +698,17 @@
     [
      "2026-10-19T22:30:36.914601+09:00",
      "반등 프리뷰 일제 뉴욕 저가 매수 반도체주"
+    ],
+    [
+     "2026-10-19T22:35:20.473940+09:00",
+     "TSMC의 공조 엔비디아가 HBM 삼성전자와 바꾸"
+    ],
+    [
+     "2026-10-19T22:35:20.473940+09:00",
+     "수원SK아트리움서 메시아 수원문화재단 헨델 선봬 국립합창단"
     ]
    ],
    "seen_urls": [
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=367551",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496400",
     "https://www.donga.com/news/Politics/article/all/20261019/134864928/1",
     "https://www.sentv.co.kr/article/view/sentv202610190063",
     "https://biz.sbs.co.kr/article_hub/20000340729?division=NAVER",
@@ -2200,11 +2206,11 @@
     "https://www.munhwa.com/article/11624609",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=364862",
     "https://www.topstarnews.net/news/articleView.html?idxno=16251873",
-    "https://www.newspim.com/news/view/20261019001496"
+    "https://www.newspim.com/news/view/20261019001496",
+    "http://www.rightknow.co.kr/news/articleView.html?idxno=35169",
+    "https://www.cstimes.com/news/articleView.html?idxno=724476"
    ],
    "seen_titles": [
-    "[솔리다임조달전략]③전반적투자확대'실탄마련'선택지는",
-    "[NZSIINDEX]2026년10월9일…SK하이닉스목표가400만원,누구를위한...",
     "증시폭락에국민연금182조손실…‘삼전닉스’131조물렸다",
     "코스피,장중한때반등성공…삼성전자1%대상승전환",
     "SK브로드밴드가외국인을여행가이드로세운이유는?",
@@ -3702,10 +3708,12 @@
     "[영상]‘테라스붕괴’송도아파트,이번엔빗물이‘줄줄’",
     "할리스276만건유출,멤버십보안논란",
     "\"사격아시아신기록254.6점\"…한국,장애인AG첫날금3개로출발",
-    "[AIMY뉴스]뉴욕반도체주프리뷰...저가매수속일제반등"
+    "[AIMY뉴스]뉴욕반도체주프리뷰...저가매수속일제반등",
+    "[박래혁의테크오딧세이]삼성전자와TSMC의HBM공조...엔비디아가바꾸...",
+    "수원문화재단,수원SK아트리움서국립합창단'헨델메시아'선봬"
    ],
    "initialized": true,
-   "last_run": "2026-10-19T22:30:36.914601+09:00"
+   "last_run": "2026-10-19T22:35:20.473940+09:00"
   }
  },
  "press_names": {
