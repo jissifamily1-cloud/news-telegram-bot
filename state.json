@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-20T00:35:22.753558+09:00",
-     "놓고 논란 투자 매년 한전 재원 10조 필요 송변전설비"
-    ],
-    [
-     "2026-10-20T00:35:22.753558+09:00",
-     "47곳 올해 인프라 흔들리는 최소 데이터센터 차질"
-    ],
-    [
      "2026-10-20T00:40:28.749045+09:00",
      "순매도 최근 외국인 동안 26조원 13거래일"
     ],
@@ -326,12 +318,17 @@
     [
      "2026-10-20T06:35:19.302125+09:00",
      "신호탄 메가프로젝트 서남권 올라"
+    ],
+    [
+     "2026-10-20T06:40:25.991898+09:00",
+     "뒤이 현대건설 롯데건설 10월 대우건설 건설회사 1위"
+    ],
+    [
+     "2026-10-20T06:40:25.991898+09:00",
+     "대법원장 국감 이후 후폭풍 불협화음 예고 탄핵 내홍 안보라인 여당"
     ]
    ],
    "seen_urls": [
-    "https://www.mediawatch.kr/news/article.html?no=261390",
-    "https://kpenews.com/View.aspx?No=4268864",
-    "https://www.bizwork.co.kr/news/articleView.html?idxno=420010",
     "https://www.s-journal.co.kr/news/articleView.html?idxno=44570",
     "https://biz.heraldcorp.com/article/10907036",
     "https://www.yna.co.kr/view/AKR20261019064351008?input=1195m",
@@ -1828,12 +1825,12 @@
     "https://it.chosun.com/news/articleView.html?idxno=2023092172289",
     "https://www.mt.co.kr/stock/2026/10/20/2026101913033346864",
     "https://www.goodkyung.com/news/articleView.html?idxno=292534",
-    "https://www.labortoday.co.kr/news/articleView.html?idxno=237291"
+    "https://www.labortoday.co.kr/news/articleView.html?idxno=237291",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=55417",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=55416",
+    "https://www.newsverse.kr/news/articleView.html?idxno=11707"
    ],
    "seen_titles": [
-    "SKB,'여행·미식·시니어'예능신작3편공개",
-    "충북청주FC통합축구단,첫출전'K리그PlayONECUP'에서A조'준우승'...",
-    "안철수\"李,'SK솔리다임'상장막아야…방치하면국장종말\"",
     "[2026국감]단일레버리지피해규모54조?…이찬진\"종감전까지제출...",
     "美중간선거쟁점된AI데이터센터...자금난·주민반대에47건지연·철회",
     "스마트폰구입도부담인데…메모리대란에배터리교체비인하론",
@@ -3330,10 +3327,13 @@
     "에이피알주가출렁무슨일?…유럽發물류쇼크와원화강세극복할까",
     "\"직관적투자성과에배당주정보까지\"…실용성돋보이는'주파수3'",
     "계속되는반도체'슈퍼사이클'…SK하이닉스,호실적릴레이이어갈까",
-    "서남권메가프로젝트첫신호탄올라"
+    "서남권메가프로젝트첫신호탄올라",
+    "[브랜드평판]힐스테이트,아파트10월1위...롯데캐슬,래미안뒤쫓아",
+    "[브랜드평판]현대건설,건설회사10월1위...롯데건설,대우건설뒤이...",
+    "대법원장탄핵·안보라인불협화음·여당내홍…국감이후후폭풍예고"
    ],
    "initialized": true,
-   "last_run": "2026-10-20T06:35:19.302125+09:00"
+   "last_run": "2026-10-20T06:40:25.991898+09:00"
   }
  },
  "press_names": {
