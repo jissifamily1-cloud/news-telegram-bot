@@ -366,10 +366,13 @@
     [
      "2026-10-20T00:35:22.753558+09:00",
      "47곳 올해 인프라 흔들리는 최소 데이터센터 차질"
+    ],
+    [
+     "2026-10-20T00:40:28.749045+09:00",
+     "순매도 최근 외국인 동안 26조원 13거래일"
     ]
    ],
    "seen_urls": [
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=395588",
     "https://www.topstarnews.net/news/articleView.html?idxno=16251233",
     "https://www.asiatime.co.kr/article/20261019500167",
     "https://www.seoul.co.kr/news/plan/2026/10/19/20261019500066?wlog_tag3=naver",
@@ -1868,10 +1871,10 @@
     "https://www.donga.com/news/Economy/article/all/20261019/134869947/2",
     "https://www.greened.kr/news/articleView.html?idxno=352480",
     "https://www.donga.com/news/Economy/article/all/20261019/134869907/2",
-    "https://www.donga.com/news/Economy/article/all/20261019/134869919/2"
+    "https://www.donga.com/news/Economy/article/all/20261019/134869919/2",
+    "https://www.chosun.com/economy/stock-finance/2026/10/20/FDLJQAB62BAKPPJHS76PNXSNGU/"
    ],
    "seen_titles": [
-    "업비트,2학기'업클래스캠퍼스'참가자모집",
     "121대1구멍뚫어야대기업임원…SK하이닉스최다증가",
     "안철수\"SK솔리다임상장하면하이닉스주주이익줄어...공적수단으로...",
     "전력부족시대ESS가뜬다…배터리·냉각·전력기기주'눈에띄네'",
@@ -3370,10 +3373,11 @@
     "“반도체협력사2조원보증”…정부-SK하이닉스금융지원",
     "美반도체2.5%반등에도SK하이닉스외국인매도지속…40조자사주가주...",
     "한전“송변전설비매년10조필요”투자재원놓고논란",
-    "美데이터센터올해최소47곳차질…흔들리는AI인프라붐"
+    "美데이터센터올해최소47곳차질…흔들리는AI인프라붐",
+    "외국인,최근13거래일동안26조원순매도"
    ],
    "initialized": true,
-   "last_run": "2026-10-20T00:35:22.753558+09:00"
+   "last_run": "2026-10-20T00:40:28.749045+09:00"
   }
  },
  "press_names": {
