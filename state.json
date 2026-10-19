@@ -1321,8 +1321,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.seoultimes.news/news/article.html?no=2000101031",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=856751",
     "https://www.g-enews.com/view.php?ud=202610161537327269923c501012_1",
     "https://daily.hankooki.com/news/articleView.html?idxno=1415767",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=279038",
@@ -2820,11 +2818,11 @@
     "https://www.edaily.co.kr/News/Read?newsId=03220966645614560&mediaCodeNo=257",
     "https://www.news1.kr/finance/general-stock/6324413",
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038006",
-    "https://www.medicopharma.co.kr/news/articleView.html?idxno=69917"
+    "https://www.medicopharma.co.kr/news/articleView.html?idxno=69917",
+    "https://www.dailyt.co.kr/newsView/dlt202610190020",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=281138"
    ],
    "seen_titles": [
-    "국민연금,'삼전닉스'급락에7분기만에'마이너스'",
-    "SK온,미래기술원학술대회개최…배터리연구과제300여편발표",
     "[주간증시전망]급락장에짙어진공포…코스피반등가능성은",
     "날개꺾인삼전·닉스…'가격왜곡'해소할열쇠는?",
     "코스피,반등에도AI우려여전…다음주빅테크실적주목",
@@ -4322,10 +4320,12 @@
     "이찬진\"솔리다임이슈모니터링중…가능한조치최대한할것\"",
     "NH아문디\"코스피5000대바닥…반도체대형주비중줄이고소부장확대...",
     "수원문화재단,연말감동선사할'헨델메시아'공연개최",
-    "[바이오산업죽이는한국거래소①]상장하려면기술부터팔아라?…글로..."
+    "[바이오산업죽이는한국거래소①]상장하려면기술부터팔아라?…글로...",
+    "AI투자비용·고금리부담에아시아증시약세…코스피급락출발뒤낙...",
+    "1兆→3兆로3배확대…앰코,광주에AI반도체패키징공장'첫삽'"
    ],
    "initialized": true,
-   "last_run": "2026-10-19T12:20:25.687160+09:00"
+   "last_run": "2026-10-19T12:25:20.303996+09:00"
   }
  },
  "press_names": {
