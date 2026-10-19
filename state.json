@@ -534,15 +534,25 @@
     [
      "2026-10-20T07:40:25.588505+09:00",
      "반도체주 반등 뉴욕증시 거품 우려에도 엇갈린 마감"
+    ],
+    [
+     "2026-10-20T07:50:25.355413+09:00",
+     "연준 인상할 금리 수도 BofA"
+    ],
+    [
+     "2026-10-20T07:50:25.355413+09:00",
+     "투자 부담 여전 우려 부채 인프라 수익성"
+    ],
+    [
+     "2026-10-20T07:50:25.355413+09:00",
+     "10월 퍼레이드 오프닝 20일"
+    ],
+    [
+     "2026-10-20T07:50:25.355413+09:00",
+     "못하는 반도체 반등해도 이유 웃지 아직 월가 만에 8일"
     ]
    ],
    "seen_urls": [
-    "https://www.cnbnews.com/news/articleView.html?idxno=1019822",
-    "https://www.etnews.com/20261019000021",
-    "https://www.youthdaily.co.kr/news/article.html?no=228527",
-    "https://www.news1.kr/finance/financial-policy/6324406",
-    "https://biz.chosun.com/stock/stock_general/2026/10/19/ZWN2EA2KRJHXLGOOIK2VNGBNG4/",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092172256",
     "https://www.techm.kr/news/articleView.html?idxno=156238",
     "https://www.dailian.co.kr/news/view/1703074/?sc=Naver",
     "https://theviewers.co.kr/View.aspx?No=4269148",
@@ -2036,15 +2046,15 @@
     "https://www.etoday.co.kr/news/view/2637617",
     "https://www.ajunews.com/view/20261020073135131",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000074810",
-    "https://www.newsis.com/view/NISX20261019_0003831894"
+    "https://www.newsis.com/view/NISX20261019_0003831894",
+    "https://www.m-economynews.com/news/article.html?no=71863",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6859212_37012.html",
+    "https://biz.sbs.co.kr/article_hub/20000340911?division=NAVER",
+    "https://biz.sbs.co.kr/article_hub/20000340909?division=NAVER",
+    "https://news.tvchosun.com/site/data/html_dir/2026/10/20/2026102090005.html",
+    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259958"
    ],
    "seen_titles": [
-    "\"같은팀치어리더와결혼한다고?\"…SSG최민준♥이리안,수년열애끝...",
-    "NH아문디,'성장주도코리아펀드'1주년…\"알파내려면소부장\"",
-    "[티조챗]\"안경쓴죄로매교시검사받아라?\"…D-31수능'스마트안경...",
-    "'182조증발'…선거위해국민연금묶었나,李대통령피고발",
-    "임원되는직원은0.8%뿐…100대기업총7137명",
-    "[특징주]대덕전자,3분기영업익800억원대전망",
     "코스피,이달세계증시중'꼴찌'…국내상장사10개중7개하락",
     "[2026국감]이찬진금감원장,단일종목레버리지ETF에\"송구스럽게생각...",
     "정제마진강세·윤활기유호조쌍끌이…SK이노·에쓰오일영업익4兆청...",
@@ -3538,10 +3548,16 @@
     "[전날애프터마켓]삼성전자·SK하이닉스오름폭↑⋯삼성전기상승전환",
     "[아주증시포커스]'불안한상승'지속…오는22일美메타실적분수령",
     "AI거품우려에도반도체주반등…뉴욕증시엇갈린마감",
-    "\"외국인눈엔그저메모리주\"…외풍흔들리는삼성전자·SK하이닉스"
+    "\"외국인눈엔그저메모리주\"…외풍흔들리는삼성전자·SK하이닉스",
+    "뉴욕증시,기술주반등에혼조마감...나스닥1.11%상승",
+    "뉴욕증시,반도체·AI주반등속혼조",
+    "[부자들의투자노트]BofA\"연준,이번달금리인상할수도\"",
+    "[마켓브리핑]AI인프라투자수익성·부채부담우려여전",
+    "10월20일'뉴스퍼레이드'오프닝",
+    "[넥스트-샷]반도체8일만에반등해도···월가아직웃지못하는이유..."
    ],
    "initialized": true,
-   "last_run": "2026-10-20T07:45:24.922948+09:00"
+   "last_run": "2026-10-20T07:50:25.355413+09:00"
   }
  },
  "press_names": {
