@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-19T20:10:27.895556+09:00",
-     "누구 막으려던 했다 함구 이찬진 국감서도 막았어야"
-    ],
-    [
-     "2026-10-19T20:15:24.612927+09:00",
-     "금감원 손자회사 있어 문제 논란에 중복상장 SK하이닉스"
-    ],
-    [
      "2026-10-19T20:25:21.879776+09:00",
      "포도호텔 맞춤 겨울 휴식 함께 온천 제주 디아넥스 패키지 아이와"
     ],
@@ -262,10 +254,13 @@
     [
      "2026-10-20T01:05:21.669830+09:00",
      "우리은행 500억원 DB저축은행 부산은행 예금금 반도체 협력사 지원"
+    ],
+    [
+     "2026-10-20T02:15:24.851701+09:00",
+     "면접장 다섯 모범답안 번째 판치는 오늘만 질문"
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496412",
     "https://www.mk.co.kr/article/12179355",
     "https://www.theguru.co.kr/news/article.html?no=108436",
     "https://www.nextdaily.co.kr/news/articleView.html?idxno=253953",
@@ -1764,10 +1759,10 @@
     "https://www.chosun.com/economy/stock-finance/2026/10/20/FDLJQAB62BAKPPJHS76PNXSNGU/",
     "https://www.chosun.com/sports/football/2026/10/20/OXIMP3RTAVA2PH576GKEQIPQ5M/",
     "http://www.kjdaily.com/article.php?aid=1792424113689586276",
-    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2340399"
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2340399",
+    "https://www.kmib.co.kr/article/20261019502315"
    ],
    "seen_titles": [
-    "[2026국감]'단종레'광고비만5.8억…금감원'뒷북제재'",
     "'급락'출발한코스피,장중반등…삼성전자21만원선복귀",
     "대기업임원되기'바늘구멍'…100대기업직원121명당1명",
     "청주남부권‘신분평에피트더웨이시티’견본주택,첫주말1만명방...",
@@ -3266,10 +3261,11 @@
     "외국인,최근13거래일동안26조원순매도",
     "벤투오른팔에서제주의지휘자로",
     "외국인,삼성전자·SK하이닉스9조원팔고코스피ETF샀다",
-    "우리은행,반도체협력사7,500억원지원…부산은행·DB저축은행예금금..."
+    "우리은행,반도체협력사7,500억원지원…부산은행·DB저축은행예금금...",
+    "“그질문,오늘만다섯번째”…AI모범답안판치는면접장"
    ],
    "initialized": true,
-   "last_run": "2026-10-20T02:10:27.724698+09:00"
+   "last_run": "2026-10-20T02:15:24.851701+09:00"
   }
  },
  "press_names": {
