@@ -470,18 +470,29 @@
     [
      "2026-10-20T07:20:25.538250+09:00",
      "유가 커져 오늘의 금리 부담 이슈반도체 반등했지만"
+    ],
+    [
+     "2026-10-20T07:25:18.821649+09:00",
+     "헝가리 기회 금융시장에"
+    ],
+    [
+     "2026-10-20T07:25:18.821649+09:00",
+     "중국 포기했 강세 증시 수출모델 핫이슈 68위안 1달러"
+    ],
+    [
+     "2026-10-20T07:25:18.821649+09:00",
+     "10월20일 페로타임즈 손바닥뉴스"
+    ],
+    [
+     "2026-10-20T07:25:18.821649+09:00",
+     "경제뉴스 국내외"
+    ],
+    [
+     "2026-10-20T07:25:18.821649+09:00",
+     "언제 영업익 2조 노사 한화오션 갈등 날아오르는데 풀리나"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/bio/pharmaceutical-bio/6324378",
-    "https://www.sedaily.com/article/20103232",
-    "https://www.tbc.co.kr/news/view?pno=20261019084437AE07047&id=212295",
-    "https://www.tvreport.co.kr/star/article/1084146/",
-    "https://www.newsworker.co.kr/news/articleView.html?idxno=509190",
-    "https://news.appstory.co.kr/daily19651",
-    "https://www.newsis.com/view/NISX20261019_0003831491",
-    "https://www.fetv.co.kr/news/articleView.html?idxno=312008",
-    "https://www.munhwa.com/article/11624470",
     "https://news.tf.co.kr/read/economy/2377807.htm",
     "https://www.newstnt.com/news/articleView.html?idxno=723609",
     "https://en.yna.co.kr/view/AEN20261019004700320?input=2106m",
@@ -1972,18 +1983,18 @@
     "https://magazine.hankyung.com/business/article/202610190803b",
     "https://www.fnnews.com/news/202610200712440149",
     "http://www.newsmaker.or.kr/news/articleView.html?idxno=184427",
-    "http://www.newskr.kr/news/articleView.html?idxno=107283"
+    "http://www.newskr.kr/news/articleView.html?idxno=107283",
+    "https://www.khan.co.kr/article/202610200723001",
+    "https://www.fnnews.com/news/202610200711550170",
+    "https://www.globale.co.kr/news/articleView.html?idxno=41110",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=53769",
+    "https://dealsite.co.kr/articles/170726",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005942525",
+    "http://www.ferrotimes.com/news/articleView.html?idxno=50996",
+    "https://www.fntimes.com/html/view.php?ud=202610200705172797141825007d_18",
+    "http://www.economytalk.kr/news/articleView.html?idxno=424747"
    ],
    "seen_titles": [
-    "[2026국감]단일종목ETF,심사기간단축…이찬진\"출시일정맞추려서...",
-    "캐시우드“美투자자는중복상장으로안본다…솔리다임상장,SK하...",
-    "[2026국감]이찬진\"단일종목레버리지ETF심사서둘러…정부상장일...",
-    "코스피,한때장중5,500선아래로...하락폭다소줄어",
-    "이찬진\"단일종목레버리지,증시변동성에일정부분영향…송구\"",
-    "김재섭“레버리지ETF가증시급락불렀나”…이찬진“일정부분영향...",
-    "3년차맞은'컬리뷰티페스타2026'티켓판매…45개브랜드참여",
-    "안철수\"李,모든수단동원해'SK솔리다임美상장'막아야\"",
-    "컬리,내달12일DDP서'컬리뷰티페스타2026'개최…45개브랜드참여",
     "안철수\"솔리다임상장,대통령이막아야\"",
     "노후자금어쩌나…국민연금,3분기182조평가손실",
     "\"지금주식들어갈생각아예말아야\"…3개월전경고한황현희,그가짚...",
@@ -3474,10 +3485,19 @@
     "“철도·닷컴버블일수도”…WSJ,AI과잉투자경고",
     "美증시반도체지수9일만에반등...과매도지적에저가매수",
     "10월셋째주국내ETF시장,인버스ETF강세",
-    "[오늘의이슈반도체반등했지만금리·유가부담커져"
+    "[오늘의이슈반도체반등했지만금리·유가부담커져",
+    "기술주반등에나스닥1%↑···필라델피아반도체9거래일만에상승마...",
+    "\"코스피4800까지추락할수도\"…이틀반등에도증권가경고",
+    "뉴욕증시,AI반등속유럽금리·유가급등에매물소화",
+    "반도체주가반등…하이닉스A4%,마이크론3%올라",
+    "[K-금융글로벌전략2026][폴란드·헝가리]헝가리금융시장에기회열...",
+    "증시오늘'핫이슈'…”1달러=6.68위안'강세',중국'수출모델'포기했...",
+    "페로타임즈손바닥뉴스10월20일(화)",
+    "[KFT모닝브리프]2026.10.20—국내외경제뉴스",
+    "'영업익2조'날아오르는데…한화오션노사갈등언제풀리나"
    ],
    "initialized": true,
-   "last_run": "2026-10-20T07:20:25.538250+09:00"
+   "last_run": "2026-10-20T07:25:18.821649+09:00"
   }
  },
  "press_names": {
