@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-20T14:45:23.266923+09:00",
-     "상승 코스피 81개뿐 계좌만 종목 아니었네 파란 급락장에"
-    ],
-    [
-     "2026-10-20T14:45:23.266923+09:00",
-     "SK텔레콤 배당 7만6600원 여력에 투자와 시선"
-    ],
-    [
      "2026-10-20T14:50:27.904496+09:00",
      "실적 코세스 장비 SOFC 기대에 상승"
     ],
@@ -1106,13 +1098,21 @@
     [
      "2026-10-20T20:35:19.787223+09:00",
      "위험한 안전 섞이면 김종민 반도체 의원 특수가스 요청"
+    ],
+    [
+     "2026-10-20T20:45:23.981508+09:00",
+     "상위 거래대금 7조 삼성전자 50종목의 SK하이닉스"
+    ],
+    [
+     "2026-10-20T20:45:23.981508+09:00",
+     "밸류업 실효성 관건은 증시 시험대 주주환원 부진에"
+    ],
+    [
+     "2026-10-20T20:45:23.981508+09:00",
+     "빠질 LG 넘보는 3위 코스피 급등 기다렸다 시총 날만"
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1703478/?sc=Naver",
-    "http://www.epj.co.kr/news/articleView.html?idxno=39598",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16252104",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=209912",
     "https://www.mk.co.kr/article/12180302",
     "http://www.inews24.com/view/2016788",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=322867",
@@ -2608,13 +2608,13 @@
     "https://www.newstnt.com/news/articleView.html?idxno=724078",
     "https://www.yna.co.kr/view/AKR20261020172700008?input=1195m",
     "https://www.ccreview.co.kr/news/articleView.html?idxno=360420",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690591"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690591",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=313581",
+    "http://www.kjdaily.com/article.php?aid=1792496411689789276",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708548",
+    "https://biz.heraldcorp.com/article/10908702"
    ],
    "seen_titles": [
-    "美기술주반등에도삼전닉스‘글쎄’…코스피2%대약세[시황]",
-    "SK이터닉스,수도권분산전원확대···이천·파주연료전지가동",
-    "SK하이닉스ADR주가,142.87달러4.67%상승마감",
-    "한투운용,ACE연금투자가이드북10만명무료배포",
     "간밤뉴욕증시올랐길래기대했는데…코스피장초반2%하락이라니",
     "장초반흔들리는반도체株⋯코스피2%대'급락'",
     "4대은행,SK하이닉스반도체협력사에2조원푼다",
@@ -4110,10 +4110,14 @@
     "[공시]10월21일,코스피상장사51개종목자사주매수신청",
     "NXT\"프리마켓시가단일가매매내년1월18일도입\"",
     "김종민의원\"섞이면위험한반도체특수가스안전요청\"",
-    "[간추린단신]청주시·SK하이닉스,민관협력도시숲조성외"
+    "[간추린단신]청주시·SK하이닉스,민관협력도시숲조성외",
+    "보안출동대원도응급처치훈련…ADT캡스,CPR교육전연차로확대",
+    "SK하이닉스·삼성전자거래대금7.7조…상위50종목의51%",
+    "증시부진에'밸류업'도시험대...관건은'주주환원실효성'",
+    "“코스피14%빠질때19%급등”이날만기다렸다…시총3위넘보는LG..."
    ],
    "initialized": true,
-   "last_run": "2026-10-20T20:40:25.901989+09:00"
+   "last_run": "2026-10-20T20:45:23.981508+09:00"
   }
  },
  "press_names": {
