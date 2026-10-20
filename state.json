@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-20T21:50:28.238479+09:00",
-     "결장 하프타임 전술 알았더라면 승리 이끈 빨리 무니 조정"
-    ],
-    [
      "2026-10-20T22:00:43.526653+09:00",
      "Prices hynix Target Keeps Bullish Nomura and for Samsung"
     ],
@@ -254,12 +250,21 @@
     [
      "2026-10-21T02:45:25.280877+09:00",
      "Drop IDC Memory Tightens Forecasts PC as in Shipments"
+    ],
+    [
+     "2026-10-21T03:55:20.686551+09:00",
+     "안되는 생산설비 석화 줄이는 한화"
+    ],
+    [
+     "2026-10-21T03:55:20.686551+09:00",
+     "선물 단종레 갈아타기 200배 무기한 막았더니 바람"
+    ],
+    [
+     "2026-10-21T03:55:20.686551+09:00",
+     "위기때보다 코로나 증시 저평가됐다"
     ]
    ],
    "seen_urls": [
-    "https://www.getnews.co.kr/news/articleView.html?idxno=884118",
-    "https://www.businessplus.kr/news/articleView.html?idxno=118434",
-    "http://www.metroseoul.co.kr/article/20261020500111",
     "https://www.newspim.com/news/view/20261020000372",
     "https://www.news1.kr/finance/general-stock/6325564",
     "https://view.asiae.co.kr/article/2026101918585739713",
@@ -1756,12 +1761,12 @@
     "https://www.kmib.co.kr/article/20261020502352",
     "https://econotimes.com/Samsung-SK-hynix-Shares-Fall-Over-50-as-PC-DRAM-Quotes-Rise-1757893",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=319343",
-    "https://econotimes.com/IDC-Forecasts-11-3-Drop-in-2026-PC-Shipments-as-Memory-Tightens-1757910"
+    "https://econotimes.com/IDC-Forecasts-11-3-Drop-in-2026-PC-Shipments-as-Memory-Tightens-1757910",
+    "https://www.mt.co.kr/industry/2026/10/21/2026102019512789443",
+    "https://www.mt.co.kr/stock/2026/10/21/2026102019504716925",
+    "https://www.mt.co.kr/stock/2026/10/21/2026102019484239254"
    ],
    "seen_titles": [
-    "하나은행,SK하이닉스협력기업에7500억원규모금융지원",
-    "[금융권이모저모]KB자산운용,반도체소부장액티브ETF출시外",
-    "국민연금,석유화학·건설지분늘리고IT·전기전자는줄였다",
     "코스피,10월주요국증시하락률1위…연간수익률선두권서밀려",
     "SK하이닉스,6개월만에장중120만원붕괴…6%대급락(상보)",
     "현금넉넉한데투자금확보?…솔리다임중복상장논란쟁점은",
@@ -3258,10 +3263,13 @@
     "사립미술관으로50년…“전문가들과함께운영,그게장수비결”",
     "Samsung,SKhynixSharesFallOver50%asPCDRAMQuotesRise",
     "HBM공급사셋인데생산공정은하나?…엔비디아의'TSMC쏠림'우려",
-    "IDCForecasts11.3%Dropin2026PCShipmentsasMemoryTightens"
+    "IDCForecasts11.3%Dropin2026PCShipmentsasMemoryTightens",
+    "돈안되는석화…생산설비줄이는한화",
+    "단종레막았더니…'최대200배'무기한선물갈아타기바람",
+    "\"韓증시코로나위기때보다더저평가됐다\""
    ],
    "initialized": true,
-   "last_run": "2026-10-21T03:50:25.531505+09:00"
+   "last_run": "2026-10-21T03:55:20.686551+09:00"
   }
  },
  "press_names": {
