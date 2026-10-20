@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-20T16:50:33.137792+09:00",
-     "수주 뜸한 만날까 K방산 대형 남미서 단비"
-    ],
-    [
-     "2026-10-20T16:50:33.137792+09:00",
-     "기념 퇴직연금 NH투자증권 진행 N2 발행 이벤트 100호 ELS"
-    ],
-    [
      "2026-10-20T16:55:21.019634+09:00",
      "추락 총알도 110만닉스 모두 끝났다고 팔았다 6개월만의"
     ],
@@ -714,12 +706,17 @@
     [
      "2026-10-20T22:35:20.699799+09:00",
      "SK하이닉스 문제 점검과 함께 대응 주요업무 처리수 안성시의회"
+    ],
+    [
+     "2026-10-20T22:55:20.999638+09:00",
+     "AAOI 장초반 약세 하락 증시 AMD AI주"
+    ],
+    [
+     "2026-10-20T22:55:20.999638+09:00",
+     "노인 성과 이천시노인종합복지관 활용 정서돌봄 전시"
     ]
    ],
    "seen_urls": [
-    "https://news.mtn.co.kr/article/2026102009321418582",
-    "https://www.news2day.co.kr/article/20261020500098",
-    "https://theopiniontimes.news/k-%eb%b0%98%eb%8f%84%ec%b2%b4-%ec%83%9d%ed%83%9c%ea%b3%84%ec%97%90-2%ec%a1%b0-%ec%9b%90-%ed%91%bc%eb%8b%a4%eb%8c%80%ea%b8%b0%ec%97%85%c2%b7%ec%86%8c%eb%b6%80%ec%9e%a5-%eb%8f%99%eb%b0%98/",
     "https://www.getnews.co.kr/news/articleView.html?idxno=884107",
     "http://www.mdilbo.com/detail/c3QycN/759775",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=666579",
@@ -2216,12 +2213,12 @@
     "https://www.gukjenews.com/news/articleView.html?idxno=3727343",
     "https://www.newspim.com/news/view/20261020001237",
     "https://www.topstarnews.net/news/articleView.html?idxno=16252849",
-    "https://biz.heraldcorp.com/article/10908712"
+    "https://biz.heraldcorp.com/article/10908712",
+    "https://www.hankyung.com/article/2026102044367",
+    "https://www.tokenpost.kr/news/breaking/424965",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2341266"
    ],
    "seen_titles": [
-    "침입막는보안넘어생명까지...ADT캡스,응급처치교육확대",
-    "코스피,장초반3%대밀려5,550선…삼전·하이닉스동반하락",
-    "K-반도체생태계에2조원푼다…대기업·소부장동반성장진격",
     "[비즈뉴스룸]임직원과소통하고그룹홈아동지원하고~에쓰오일·태광...",
     "장애예술인고용확대···조선대병원·남구장애인복지관맞손",
     "신한은행,SK하니익스협력사에2500억원금융지원",
@@ -3718,10 +3715,13 @@
     "안성시의회,주요업무점검과함께SK하이닉스처리수문제대응",
     "[AIMY뉴스]뉴욕반도체주프리뷰...AI투자불안에마이크론·AMD동반...",
     "미국증시,AI투자불안·유가급등에나스닥하락…SK하이닉스3%대약...",
-    "“반도체소부장,과거대비상승여력2배…곧슈퍼사이클온다”[투자..."
+    "“반도체소부장,과거대비상승여력2배…곧슈퍼사이클온다”[투자...",
+    "NXT,프리마켓시가단일가매매내년1월18일도입",
+    "AAOI6.08%·AMD4.06%하락,미증시장초반AI주약세",
+    "이천시노인종합복지관,AI활용노인정서돌봄성과전시"
    ],
    "initialized": true,
-   "last_run": "2026-10-20T22:50:26.283783+09:00"
+   "last_run": "2026-10-20T22:55:20.999638+09:00"
   }
  },
  "press_names": {
