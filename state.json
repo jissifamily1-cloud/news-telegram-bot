@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-20T20:45:23.981508+09:00",
-     "상위 거래대금 7조 삼성전자 50종목의 SK하이닉스"
-    ],
-    [
-     "2026-10-20T20:45:23.981508+09:00",
-     "밸류업 실효성 관건은 증시 시험대 주주환원 부진에"
-    ],
-    [
-     "2026-10-20T20:45:23.981508+09:00",
-     "빠질 LG 넘보는 3위 코스피 급등 기다렸다 시총 날만"
-    ],
-    [
      "2026-10-20T20:55:20.106410+09:00",
      "SK가스 11개 에코프로비엠 종목 형지I 거래정지 예고"
     ],
@@ -314,10 +302,13 @@
     [
      "2026-10-21T02:25:36.483132+09:00",
      "공정은 공급사 우려 HBM 셋인데 TSMC 쏠림 하나 생산 엔비디아의"
+    ],
+    [
+     "2026-10-21T02:45:25.280877+09:00",
+     "Drop IDC Memory Tightens Forecasts PC as in Shipments"
     ]
    ],
    "seen_urls": [
-    "http://www.popcornnews.net/news/articleView.html?idxno=136584",
     "https://www.getnews.co.kr/news/articleView.html?idxno=884118",
     "https://www.businessplus.kr/news/articleView.html?idxno=118434",
     "http://www.metroseoul.co.kr/article/20261020500111",
@@ -1816,10 +1807,10 @@
     "https://imnews.imbc.com/replay/2026/nw2500/article/6859454_36989.html",
     "https://www.kmib.co.kr/article/20261020502352",
     "https://econotimes.com/Samsung-SK-hynix-Shares-Fall-Over-50-as-PC-DRAM-Quotes-Rise-1757893",
-    "https://www.wolyo.co.kr/news/articleView.html?idxno=319343"
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=319343",
+    "https://econotimes.com/IDC-Forecasts-11-3-Drop-in-2026-PC-Shipments-as-Memory-Tightens-1757910"
    ],
    "seen_titles": [
-    "SK넥실리스,차세대배터리용고접합동박개발…2027년하반기상용화...",
     "하나은행,SK하이닉스협력기업에7500억원규모금융지원",
     "[금융권이모저모]KB자산운용,반도체소부장액티브ETF출시外",
     "국민연금,석유화학·건설지분늘리고IT·전기전자는줄였다",
@@ -3318,10 +3309,11 @@
     "코스피4%가까이급락‥유럽발악재도덮쳐",
     "사립미술관으로50년…“전문가들과함께운영,그게장수비결”",
     "Samsung,SKhynixSharesFallOver50%asPCDRAMQuotesRise",
-    "HBM공급사셋인데생산공정은하나?…엔비디아의'TSMC쏠림'우려"
+    "HBM공급사셋인데생산공정은하나?…엔비디아의'TSMC쏠림'우려",
+    "IDCForecasts11.3%Dropin2026PCShipmentsasMemoryTightens"
    ],
    "initialized": true,
-   "last_run": "2026-10-21T02:40:27.810461+09:00"
+   "last_run": "2026-10-21T02:45:25.280877+09:00"
   }
  },
  "press_names": {
