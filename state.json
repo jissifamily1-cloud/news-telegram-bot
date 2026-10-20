@@ -442,14 +442,21 @@
     [
      "2026-10-21T07:20:25.976679+09:00",
      "검토 솔리다임 공장 NY포스트 유티카에 낸드 뉴욕"
+    ],
+    [
+     "2026-10-21T07:25:20.215929+09:00",
+     "알아야 경제뉴스 국내외"
+    ],
+    [
+     "2026-10-21T07:25:20.215929+09:00",
+     "증권가는 삼성전자 전망 삼전닉스 급락했는데 장밋빛"
+    ],
+    [
+     "2026-10-21T07:25:20.215929+09:00",
+     "EUV 삼성 포커스 차세대 ASML 2028년 총력전 가동률"
     ]
    ],
    "seen_urls": [
-    "http://www.dailysmart.co.kr/news/articleView.html?idxno=131229",
-    "https://www.slist.kr/news/articleView.html?idxno=774835",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=364871",
-    "https://www.newsis.com/view/NISX20261020_0003833005",
-    "https://www.ddaily.co.kr/page/view/2026102009591285919",
     "http://www.metroseoul.co.kr/article/20261020500159",
     "https://www.livebiz.today/news/articleView.html?idxno=205741",
     "http://www.e-platform.net/news/articleView.html?idxno=106243",
@@ -1944,14 +1951,14 @@
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=715044",
     "http://www.ferrotimes.com/news/articleView.html?idxno=51010",
     "https://www.g-enews.com/view.php?ud=2026102100493289340c8c1c064d_1",
-    "https://www.etnews.com/20261021000003"
+    "https://www.etnews.com/20261021000003",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=91359",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16253041",
+    "https://www.fntimes.com/html/view.php?ud=202610210707009248141825007d_18",
+    "https://www.smartbizn.com/news/articleView.html?idxno=157039",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073476"
    ],
    "seen_titles": [
-    "SK하이닉스주가장중6%대내려,손자회사'솔리다임'나스닥상장추진...",
-    "[그래픽]통신3사주요AIDC구축현황",
-    "NH투자증권,'N2퇴직연금ELS'100호발행이벤트",
-    "\"반도체생태계에2500억원숨통트인다\"…신한은행,SK하이닉스·무역...",
-    "'피가낭자한'코스피,美AI·반도체주반등에도장초반2%대급락",
     "반도체상생보증2조,열쇠는SK하이닉스추천",
     "'멀티골폭발'전북티아고,K리그132라운드MVP선정",
     "540억원팔린SK스토아‘믿쓰진’돌아온다…매주수요일정규편성",
@@ -3446,10 +3453,15 @@
     "삼성화재·SK렌터카,미래모빌리티사업협력",
     "중동플랜트수주39.8%급감…산업부,민관협력강화'초점'",
     "전기차수요둔화직격탄\"…CATL,3분기순익증가율14%대로급랭",
-    "NY포스트“솔리다임,美뉴욕유티카에낸드공장검토”"
+    "NY포스트“솔리다임,美뉴욕유티카에낸드공장검토”",
+    "\"자율주행·전기차시대대비\"…삼성화재·SK렌터카,미래모빌리티협...",
+    "미국증시,다우1%대상승·나스닥약보합…중동긴장완화기대에낙폭...",
+    "[KFT모닝브리프]2026.10.21—오늘꼭알아야할국내외경제뉴스",
+    "삼성전자,한달새19%급락했는데···증권가는삼전닉스장밋빛전망...",
+    "ASML\"차세대EUV가동률90%\"…삼성·SK총력전,2028년포커스"
    ],
    "initialized": true,
-   "last_run": "2026-10-21T07:20:25.976679+09:00"
+   "last_run": "2026-10-21T07:25:20.215929+09:00"
   }
  },
  "press_names": {
