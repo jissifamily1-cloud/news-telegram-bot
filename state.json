@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-20T23:40:29.993742+09:00",
-     "AI는 짓는가 빚을 신전을"
-    ],
-    [
      "2026-10-21T00:00:43.227715+09:00",
      "안성시의회 제245회 개회 임시회"
     ],
@@ -242,10 +238,13 @@
     [
      "2026-10-21T05:40:26.034228+09:00",
      "요즘 과기원 누가 의대가려고 여길 6년 최저 그만둬 중도탈락"
+    ],
+    [
+     "2026-10-21T05:45:25.299325+09:00",
+     "375억원 중도금 SK디앤디 PFV에 군포 대여 대위변제용"
     ]
    ],
    "seen_urls": [
-    "http://www.srtimes.kr/news/articleView.html?idxno=215252",
     "https://www.news1.kr/industry/general-industry/6325556",
     "https://www.segye.com/newsView/20261020508247?OutUrl=naver",
     "http://www.metroseoul.co.kr/article/20261020500117",
@@ -1744,10 +1743,10 @@
     "https://www.koreaherald.com/article/10909008",
     "https://www.fnnews.com/news/202610210526266826",
     "https://www.mt.co.kr/industry/2026/10/21/2026102012560316121",
-    "https://www.munhwa.com/article/11624940"
+    "https://www.munhwa.com/article/11624940",
+    "https://www.vegannews.co.kr/news/article.html?no=394900"
    ],
    "seen_titles": [
-    "'신한superSOL26-27핸드볼H리그',12월6일개막",
     "SK넥실리스,차세대배터리핵심'고접합카본코팅'동박개발",
     "외인·기관‘팔자’…코스피,‘5500선’도위태",
     "[특징주]현대로템,3분기실적부진·내년방산수익성우려에12%대급...",
@@ -3246,10 +3245,11 @@
     "[Editorial]Whenrulesbend",
     "[뉴욕증시]다우·S&P500상승마감…테슬라,1.5%↑",
     "구리값뛰고실적기대커졌지만…전선업계현금사정은빠듯,왜?",
-    "“요즘누가의대가려고여길그만둬”…과기원중도탈락,6년만최저"
+    "“요즘누가의대가려고여길그만둬”…과기원중도탈락,6년만최저",
+    "SK디앤디,군포PFV에중도금대위변제용375억원대여"
    ],
    "initialized": true,
-   "last_run": "2026-10-21T05:40:26.034228+09:00"
+   "last_run": "2026-10-21T05:45:25.299325+09:00"
   }
  },
  "press_names": {
