@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-21T02:25:36.483132+09:00",
-     "공정은 공급사 우려 HBM 셋인데 TSMC 쏠림 하나 생산 엔비디아의"
-    ],
-    [
      "2026-10-21T02:45:25.280877+09:00",
      "Drop IDC Memory Tightens Forecasts PC as in Shipments"
     ],
@@ -626,17 +622,25 @@
     [
      "2026-10-21T08:25:18.298747+09:00",
      "플리토 급락 KR모터스 상한가 SK하닉"
+    ],
+    [
+     "2026-10-21T08:30:33.651281+09:00",
+     "공급 마이크론 커진다 메모리 예고 주도권 삼성 파업"
+    ],
+    [
+     "2026-10-21T08:30:33.651281+09:00",
+     "과도 사태 산업 한화증권 코어위브 해석은 위기"
+    ],
+    [
+     "2026-10-21T08:30:33.651281+09:00",
+     "소송전의 오너 본질 LG"
+    ],
+    [
+     "2026-10-21T08:30:33.651281+09:00",
+     "SKT 총력전 필터링까지 부스부터 체험형 보이스피싱 차단 금감원"
     ]
    ],
    "seen_urls": [
-    "https://www.koreabiomed.com/news/articleView.html?idxno=33543",
-    "https://www.seoul.co.kr/news/economy/2026/10/20/20261020500094?wlog_tag3=naver",
-    "https://www.delighti.co.kr/news/articleView.html?idxno=123519",
-    "https://www.newspim.com/news/view/20261020000457",
-    "https://www.yna.co.kr/view/AKR20261020076800007?input=1195m",
-    "https://www.newspim.com/news/view/20261020000499",
-    "https://biz.heraldcorp.com/article/10908469",
-    "https://www.100ssd.co.kr/news/articleView.html?idxno=213664",
     "https://biz.newdaily.co.kr/site/data/html/2026/10/20/2026102000165.html",
     "https://www.news1.kr/finance/general-finance/6325704",
     "https://www.sedaily.com/article/20103702",
@@ -2128,17 +2132,17 @@
     "https://www.dailian.co.kr/news/view/1703872/?sc=Naver",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=281581",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=303058",
-    "https://www.etoday.co.kr/news/view/2638127"
+    "https://www.etoday.co.kr/news/view/2638127",
+    "https://www.fnnews.com/news/202610210758510190",
+    "https://www.newsis.com/view/NISX20261021_0003834265",
+    "https://www.pointe.co.kr/news/articleView.html?idxno=86324",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000075256",
+    "https://www.hankyung.com/article/2026102147966",
+    "https://www.yna.co.kr/view/AKR20261021024500008?input=1195m",
+    "https://dealsite.co.kr/articles/170976",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=91367"
    ],
    "seen_titles": [
-    "하나은행,반도체수출공급망강화금융지원",
-    "SK텔레콤‘행복AI챌린지’…장애청소년,코딩넘어AI로‘내생각’...",
-    "은행권,SK하이닉스와반도체수출공급망금융지원나서",
-    "36Vietnamesechildrenreceivelife-changingfacialsurgeryfromKor",
-    "테크로스워터앤에너지,대규모재이용실적기반안정적공업용수공급...",
-    "'기흥역더플래티넘펜타원'공급…신갈생활권교육·생활인프라갖...",
-    "法,'26조원대유가담합'공판분리…HD현대오일뱅크가격담합혐의먼...",
-    "우승도,꼴찌도확정될까…24일K리그1운명의33라운드",
     "블룸버그\"한국의1조달러반도체승부수…美와마찰·현실적장벽\"",
     "투자자금조달·공급망확대시급한데…기업해외IPO비상[기업해외상...",
     "하나은행,K-반도체산업수출공급망강화…금융지원본격화",
@@ -3630,10 +3634,18 @@
     "18년만의준PO스윕…KIA의가을은어디까지?",
     "LS에코에너지,고부가제품부진에목표가23.3%하향",
     "[박정식의국내주식시황]국내증시수급은부진하지만서서히반등기...",
-    "[전날애프터마켓]SK하닉6.8%급락…플리토·KR모터스상한가"
+    "[전날애프터마켓]SK하닉6.8%급락…플리토·KR모터스상한가",
+    "\"부부성과급만10억넘어\"…삼전닉스직원들상급지이동전망",
+    "KB證\"마이크론파업하면삼전·닉스반사이익…가격결정력강화\"",
+    "삼성화재·SK렌터카,미래모빌리티동맹결성",
+    "대기업사내주택대출6370억'4년만2배'…일부계열사'무이자'혜택",
+    "마이크론파업예고…\"삼성·SK,메모리공급주도권커진다\"",
+    "한화증권\"코어위브사태,'AI산업위기'해석은과도\"",
+    "[충정로에서]LG오너家소송전의본질",
+    "\"체험형부스부터AI필터링까지\"…SKT·금감원,보이스피싱차단총력전"
    ],
    "initialized": true,
-   "last_run": "2026-10-21T08:25:18.298747+09:00"
+   "last_run": "2026-10-21T08:30:33.651281+09:00"
   }
  },
  "press_names": {
