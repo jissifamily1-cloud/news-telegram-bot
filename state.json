@@ -1162,12 +1162,13 @@
     [
      "2026-10-20T20:30:36.141408+09:00",
      "Price Kosdaq Elice Shares Below Debut in Close Offer"
+    ],
+    [
+     "2026-10-20T20:35:19.787223+09:00",
+     "위험한 안전 섞이면 김종민 반도체 의원 특수가스 요청"
     ]
    ],
    "seen_urls": [
-    "https://zdnet.co.kr/view/?no=20261020085805",
-    "https://www.techm.kr/news/articleView.html?idxno=156266",
-    "http://www.newskr.kr/news/articleView.html?idxno=107290",
     "https://www.inthenews.co.kr/news/article.html?no=93247",
     "https://www.dailian.co.kr/news/view/1703478/?sc=Naver",
     "http://www.epj.co.kr/news/articleView.html?idxno=39598",
@@ -2664,12 +2665,12 @@
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079403",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1541138",
     "https://www.venturesquare.net/1121471/",
-    "https://econotimes.com/Elice-Shares-Close-32-Below-Offer-Price-in-Kosdaq-Debut-1757626"
+    "https://econotimes.com/Elice-Shares-Close-32-Below-Offer-Price-in-Kosdaq-Debut-1757626",
+    "https://www.newstnt.com/news/articleView.html?idxno=724078",
+    "https://www.yna.co.kr/view/AKR20261020172700008?input=1195m",
+    "https://www.ccreview.co.kr/news/articleView.html?idxno=360420"
    ],
    "seen_titles": [
-    "SK이터닉스,이천·파주연료전지발전돌입…수도권전력수요대응",
-    "하나은행,SK하이닉스와손잡고반도체협력사에7500억원금융지원",
-    "키움증권,연말맞이연금저축이벤트…절세투자지원금제공",
     "NH투자증권,‘N2퇴직연금ELS’100호발행…기념이벤트진행",
     "美기술주반등에도삼전닉스‘글쎄’…코스피2%대약세[시황]",
     "SK이터닉스,수도권분산전원확대···이천·파주연료전지가동",
@@ -4166,10 +4167,13 @@
     "안성시의회반도체방류수철회요구",
     "SK하이닉스,실적잔치에주가흔들…중복상장논란",
     "MIT테크놀로지리뷰코리아,한국AI산업이끄는30인선정…반도체·...",
-    "EliceSharesClose32%BelowOfferPriceinKosdaqDebut"
+    "EliceSharesClose32%BelowOfferPriceinKosdaqDebut",
+    "[공시]10월21일,코스피상장사51개종목자사주매수신청",
+    "NXT\"프리마켓시가단일가매매내년1월18일도입\"",
+    "김종민의원\"섞이면위험한반도체특수가스안전요청\""
    ],
    "initialized": true,
-   "last_run": "2026-10-20T20:30:36.141408+09:00"
+   "last_run": "2026-10-20T20:35:19.787223+09:00"
   }
  },
  "press_names": {
