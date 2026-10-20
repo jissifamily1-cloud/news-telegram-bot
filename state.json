@@ -4,30 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-20T17:25:19.279353+09:00",
-     "졸업예정 넘는 약정 신입생 모집 취업 인원 한국반도체마이스터고 5배"
-    ],
-    [
-     "2026-10-20T17:25:19.279353+09:00",
-     "기관과 기진맥진 증시 순매도 외국인"
-    ],
-    [
-     "2026-10-20T17:25:19.279353+09:00",
-     "연료전지 떠오르는 전력 완료 대안 몇달이면 데이터센터 온사이트"
-    ],
-    [
-     "2026-10-20T17:25:19.279353+09:00",
-     "대전경찰청 SKT 맞손 보이스피싱 예방 위한"
-    ],
-    [
-     "2026-10-20T17:25:19.279353+09:00",
-     "아시아 자문했던 제쳤다 변호사 선정 400명 삼전닉스 40인"
-    ],
-    [
-     "2026-10-20T17:25:19.279353+09:00",
-     "고품질로 전성시대 글로벌 시장 윤활기유 선도"
-    ],
-    [
      "2026-10-20T17:30:35.145270+09:00",
      "키움증권 신한투자증권 KB증권"
     ],
@@ -602,11 +578,17 @@
     [
      "2026-10-20T23:20:30.569838+09:00",
      "쓰는 징비록 2026년 미리 코스피"
+    ],
+    [
+     "2026-10-20T23:25:23.515168+09:00",
+     "CXMT Memory New Unveil Micron Push"
+    ],
+    [
+     "2026-10-20T23:25:23.515168+09:00",
+     "3위 세계 도시 서울 지수 1위 도입 활용"
     ]
    ],
    "seen_urls": [
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4113364",
-    "https://www.news1.kr/finance/general-stock/6325538",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000074882",
     "https://www.smartbizn.com/news/articleView.html?idxno=156920",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4113363",
@@ -2104,11 +2086,11 @@
     "https://www.newscj.com/news/articleView.html?idxno=3441871",
     "https://www.tokenpost.kr/news/market/424974",
     "https://www.kdpress.co.kr/news/articleView.html?idxno=209400",
-    "https://www.donga.com/news/Opinion/article/all/20261020/134878450/2"
+    "https://www.donga.com/news/Opinion/article/all/20261020/134878450/2",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=279261",
+    "https://www.news1.kr/world/northeast-asia/6326535"
    ],
    "seen_titles": [
-    "청주시,SK하이닉스등16개기업·단체와상생협약…'청주경제인네트...",
-    "[속보]SK하이닉스6%급락…장중6개월만에120만원붕괴",
     "이틀반등한코스피다시급락…외국인·기관동반매도",
     "분양가상한제내건용인반도체배후단지···라온건설564가구공급채...",
     "청주시,SK로3킬로미터구간도시숲조성…수목10만그루심어",
@@ -3606,10 +3588,12 @@
     "\"6G통신망,3사공동구축해야\"…중대역광대역폭확보제안",
     "GM개장직후6%하락…SK하이닉스3%,나스닥0.49%내려",
     "[주요공시]플리토,HD현대중공업,S-Oil,메가스터디교육,대원화성,다...",
-    "[동아광장/유재동]미리쓰는2026년코스피징비록"
+    "[동아광장/유재동]미리쓰는2026년코스피징비록",
+    "Micron,CXMTUnveilNewMemoryPush",
+    "서울,'AI도시지수'종합3위…도입·활용세계1위"
    ],
    "initialized": true,
-   "last_run": "2026-10-20T23:20:30.569838+09:00"
+   "last_run": "2026-10-20T23:25:23.515168+09:00"
   }
  },
  "press_names": {
