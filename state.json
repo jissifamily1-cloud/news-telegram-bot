@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-20T22:10:40.765952+09:00",
-     "밸런스 아쉬웠던 승에도 김낙현 못해 찾아야 슛은 아직 만족"
-    ],
-    [
-     "2026-10-20T22:10:40.765952+09:00",
-     "부상 김낙현 하면 일어난 아프다고 다시 선수는 딛고"
-    ],
-    [
-     "2026-10-20T22:10:40.765952+09:00",
-     "놔뒀더니 집념 안영준의 오재현"
-    ],
-    [
-     "2026-10-20T22:15:24.940883+09:00",
-     "상장할 주주에게 의무 답할 자유"
-    ],
-    [
      "2026-10-20T22:20:31.195723+09:00",
      "주역 승리 만큼 아쉬움 나왔다 안영준의 준비한"
     ],
@@ -238,10 +222,13 @@
     [
      "2026-10-21T03:55:20.686551+09:00",
      "위기때보다 코로나 증시 저평가됐다"
+    ],
+    [
+     "2026-10-21T04:15:27.458028+09:00",
+     "hynix Shares as Fall Slides Since KOSPI Sept"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261020000372",
     "https://www.news1.kr/finance/general-stock/6325564",
     "https://view.asiae.co.kr/article/2026101918585739713",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708394",
@@ -1740,10 +1727,10 @@
     "https://econotimes.com/IDC-Forecasts-11-3-Drop-in-2026-PC-Shipments-as-Memory-Tightens-1757910",
     "https://www.mt.co.kr/industry/2026/10/21/2026102019512789443",
     "https://www.mt.co.kr/stock/2026/10/21/2026102019504716925",
-    "https://www.mt.co.kr/stock/2026/10/21/2026102019484239254"
+    "https://www.mt.co.kr/stock/2026/10/21/2026102019484239254",
+    "https://econotimes.com/SK-hynix-Shares-Fall-31-Since-Sept-30-as-KOSPI-Slides-1757994"
    ],
    "seen_titles": [
-    "코스피,10월주요국증시하락률1위…연간수익률선두권서밀려",
     "SK하이닉스,6개월만에장중120만원붕괴…6%대급락(상보)",
     "현금넉넉한데투자금확보?…솔리다임중복상장논란쟁점은",
     "SK머티리얼즈제이엔씨,OLED·QD잇는페로브스카이트소재양산추진",
@@ -3242,10 +3229,11 @@
     "IDCForecasts11.3%Dropin2026PCShipmentsasMemoryTightens",
     "돈안되는석화…생산설비줄이는한화",
     "단종레막았더니…'최대200배'무기한선물갈아타기바람",
-    "\"韓증시코로나위기때보다더저평가됐다\""
+    "\"韓증시코로나위기때보다더저평가됐다\"",
+    "SKhynixSharesFall31%SinceSept.30asKOSPISlides"
    ],
    "initialized": true,
-   "last_run": "2026-10-21T04:10:27.112004+09:00"
+   "last_run": "2026-10-21T04:15:27.458028+09:00"
   }
  },
  "press_names": {
