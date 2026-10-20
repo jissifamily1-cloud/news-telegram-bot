@@ -326,12 +326,21 @@
     [
      "2026-10-21T06:52:54.325439+09:00",
      "닉스 간다 전자 털렸지만 67만 노무라 주가 탈탈 470만 반토막"
+    ],
+    [
+     "2026-10-21T07:00:39.467503+09:00",
+     "from Herald Korea on EDITORIAL Oct The"
+    ],
+    [
+     "2026-10-21T07:00:39.467503+09:00",
+     "호조에 이란 미국 중재 기업실적 다우 기대"
+    ],
+    [
+     "2026-10-21T07:00:39.467503+09:00",
+     "수익성 트리거 여전 실적이 될까 빅테크 우려 투자"
     ]
    ],
    "seen_urls": [
-    "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523934",
-    "https://www.newstnt.com/news/articleView.html?idxno=723893",
-    "http://www.newslock.co.kr/news/articleView.html?idxno=138252",
     "https://www.newspim.com/news/view/20261020000443",
     "http://www.newswell.co.kr/news/articleView.html?idxno=22834",
     "https://www.lawtv.kr/news/articleView.html?idxno=61194",
@@ -1828,12 +1837,12 @@
     "https://thetracker.co.kr/View.aspx?No=4272208",
     "https://www.mediapen.com/news/view/1131380",
     "https://news.bizwatch.co.kr/article/industry/2026/10/20/0003",
-    "https://www.imaeil.com/page/view/2026102106492993392"
+    "https://www.imaeil.com/page/view/2026102106492993392",
+    "https://en.yna.co.kr/view/AEN20261021000800315?input=2106m",
+    "https://www.jasm.co.kr/news/view/322353/?sc=Naver",
+    "https://biz.sbs.co.kr/article_hub/20000341145?division=NAVER"
    ],
    "seen_titles": [
-    "코스피급락에도“곧반등”…레버리지ETF에몰리는개미들,괜찮을까",
-    "NH투자증권,퇴직연금ELS100호발행기념이벤트실시",
-    "[Invest]美반도체반등에도SK하이닉스ㆍ스퀘어급락…솔리다임변수에...",
     "우리은행,SK하이닉스와함께협력사자금지원…반도체공급망금융지...",
     "하나은행,SK하이닉스·무역보험공사·시중은행과반도체공급망금융협...",
     "SK넥실리스,고접합카본코팅동박개발…2027년상용화추진",
@@ -3330,10 +3339,13 @@
     "[단독]김일범현대차부사장,가나行...현지투자확대주목",
     "[美증시]유가하락·기업실적호조에다우상승…반도체약세나스닥은...",
     "'수주릴레이'대한전선,고수익인프라로체질도업글",
-    "주가'최대반토막'탈탈털렸지만…노무라\"67만전자·470만닉스간다..."
+    "주가'최대반토막'탈탈털렸지만…노무라\"67만전자·470만닉스간다...",
+    "(EDITORIALfromTheKoreaHeraldonOct.21)",
+    "[뉴욕증시]미국·이란중재기대·기업실적호조에다우1.02%↑",
+    "[증시전략]AI투자수익성우려여전…빅테크실적이트리거될까"
    ],
    "initialized": true,
-   "last_run": "2026-10-21T06:55:17.674074+09:00"
+   "last_run": "2026-10-21T07:00:39.467503+09:00"
   }
  },
  "press_names": {
