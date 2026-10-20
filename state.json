@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-20T06:35:19.302125+09:00",
-     "신호탄 메가프로젝트 서남권 올라"
-    ],
-    [
      "2026-10-20T06:40:25.991898+09:00",
      "뒤이 현대건설 롯데건설 10월 대우건설 건설회사 1위"
     ],
@@ -1270,12 +1266,17 @@
     [
      "2026-10-20T12:35:18.869721+09:00",
      "자고 시위까지 악재 나면 코스피 덮친 프랑스 다시"
+    ],
+    [
+     "2026-10-20T12:40:25.073666+09:00",
+     "의구심 있나 나스닥 시장 기업들 감당할 반등했지만"
+    ],
+    [
+     "2026-10-20T12:40:25.073666+09:00",
+     "대량 머스크 하이닉스 메모리 생산 압박 반도체 2028년 삼전"
     ]
    ],
    "seen_urls": [
-    "https://dealsite.co.kr/articles/170943",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=267917",
-    "http://www.queen.co.kr/news/articleView.html?idxno=464923",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073442",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=367616",
     "https://sateconomy.co.kr/news/view/1065599368148192",
@@ -2772,12 +2773,12 @@
     "https://hbnpress.com/news/view/1065580480255662",
     "http://www.newswell.co.kr/news/articleView.html?idxno=22841",
     "https://www.delighti.co.kr/news/articleView.html?idxno=123528",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=7433"
+    "https://www.moneystorm.kr/news/articleView.html?idxno=7433",
+    "https://www.thepublic.kr/news/articleView.html?idxno=322872",
+    "https://www.thepublic.kr/news/articleView.html?idxno=322879",
+    "https://www.thepublic.kr/news/articleView.html?idxno=322869"
    ],
    "seen_titles": [
-    "정부·SK하이닉스·은행맞손…2조원규모'반도체상생무역금융'가동",
-    "SK하이닉스·4대은행,소부장에2조금융지원",
-    "정부·SK하이닉스,반도체협력사에2조금융지원···최대2.5%p금리인...",
     "[오늘증시]코스피·코스닥,AI반도체충격딛고반등…이차전지업종...",
     "[마감시황]美선물반등·유가하락에저가매수세유입…코스피,5700선...",
     "NH아문디\"AI투자사이클지속...AI밸류체인내종목확장할것\"",
@@ -4274,10 +4275,13 @@
     "글로벌반도체장비기업‘엑셀리스’,경기도평택오성에575억원투...",
     "하나은행,'K-반도체수출공급망강화'맞손",
     "국내4대시중은행·SK하이닉스,반도체협력사에2조원금융지원나선...",
-    "[증시프리즘]자고나면새악재…프랑스시위까지덮친코스피,다시..."
+    "[증시프리즘]자고나면새악재…프랑스시위까지덮친코스피,다시...",
+    "코스피주간14.5%급락…반도체쏠림구조한계드러나",
+    "나스닥반등했지만…시장\"AI기업들,이빚감당할수있나\"의구심",
+    "머스크\"中,2028년메모리반도체대량생산\"…삼전·하이닉스압박,왜..."
    ],
    "initialized": true,
-   "last_run": "2026-10-20T12:35:18.869721+09:00"
+   "last_run": "2026-10-20T12:40:25.073666+09:00"
   }
  },
  "press_names": {
