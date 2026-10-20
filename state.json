@@ -242,11 +242,13 @@
     [
      "2026-10-21T05:45:25.299325+09:00",
      "375억원 중도금 SK디앤디 PFV에 군포 대여 대위변제용"
+    ],
+    [
+     "2026-10-21T05:55:20.544470+09:00",
+     "지분 종속회사 APOC SK가스 처분 완료"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/industry/general-industry/6325556",
-    "https://www.segye.com/newsView/20261020508247?OutUrl=naver",
     "http://www.metroseoul.co.kr/article/20261020500117",
     "https://biz.newdaily.co.kr/site/data/html/2026/10/20/2026102000105.html",
     "https://www.ekn.kr/web/view.php?key=20261020024278418",
@@ -1744,11 +1746,11 @@
     "https://www.fnnews.com/news/202610210526266826",
     "https://www.mt.co.kr/industry/2026/10/21/2026102012560316121",
     "https://www.munhwa.com/article/11624940",
-    "https://www.vegannews.co.kr/news/article.html?no=394900"
+    "https://www.vegannews.co.kr/news/article.html?no=394900",
+    "https://www.sportschosun.com/basketball/2026-10-20/202610210100130550008520",
+    "https://www.vegannews.co.kr/news/article.html?no=394904"
    ],
    "seen_titles": [
-    "SK넥실리스,차세대배터리핵심'고접합카본코팅'동박개발",
-    "외인·기관‘팔자’…코스피,‘5500선’도위태",
     "[특징주]현대로템,3분기실적부진·내년방산수익성우려에12%대급...",
     "美반등무색…코스피·코스닥3~4%대폭락,하닉장중120만원붕괴",
     "美기업‘엑셀리스’한국에2.7조투자…반도체장비·제조거점증설",
@@ -3246,10 +3248,12 @@
     "[뉴욕증시]다우·S&P500상승마감…테슬라,1.5%↑",
     "구리값뛰고실적기대커졌지만…전선업계현금사정은빠듯,왜?",
     "“요즘누가의대가려고여길그만둬”…과기원중도탈락,6년만최저",
-    "SK디앤디,군포PFV에중도금대위변제용375억원대여"
+    "SK디앤디,군포PFV에중도금대위변제용375억원대여",
+    "[현장리포트]정관장존무니무릎부상미스테리.유도훈감독\"가벼운...",
+    "SK가스종속회사,APOC지분15%처분완료"
    ],
    "initialized": true,
-   "last_run": "2026-10-21T05:50:25.628975+09:00"
+   "last_run": "2026-10-21T05:55:20.544470+09:00"
   }
  },
  "press_names": {
