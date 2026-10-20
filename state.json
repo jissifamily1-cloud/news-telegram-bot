@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-20T22:35:20.699799+09:00",
-     "SK하이닉스 문제 점검과 함께 대응 주요업무 처리수 안성시의회"
-    ],
-    [
      "2026-10-20T22:55:20.999638+09:00",
      "AAOI 장초반 약세 하락 증시 AMD AI주"
     ],
@@ -206,11 +202,17 @@
     [
      "2026-10-21T04:15:27.458028+09:00",
      "hynix Shares as Fall Slides Since KOSPI Sept"
+    ],
+    [
+     "2026-10-21T04:35:20.849803+09:00",
+     "메모리 SK하이닉스 급락에 반도체주 조정분위기 보합 삼전"
+    ],
+    [
+     "2026-10-21T04:35:20.849803+09:00",
+     "찍은 하이닉스 절반도 시총 지분값 얼라인이"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/general-stock/6325564",
-    "https://view.asiae.co.kr/article/2026101918585739713",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708394",
     "https://www.mt.co.kr/finance/2026/10/20/2026102010040925788",
     "https://view.asiae.co.kr/article/2026102010261498830",
@@ -1708,11 +1710,11 @@
     "https://www.mt.co.kr/industry/2026/10/21/2026102019512789443",
     "https://www.mt.co.kr/stock/2026/10/21/2026102019504716925",
     "https://www.mt.co.kr/stock/2026/10/21/2026102019484239254",
-    "https://econotimes.com/SK-hynix-Shares-Fall-31-Since-Sept-30-as-KOSPI-Slides-1757994"
+    "https://econotimes.com/SK-hynix-Shares-Fall-31-Since-Sept-30-as-KOSPI-Slides-1757994",
+    "https://www.mediapen.com/news/view/1131368",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210001&t=NN"
    ],
    "seen_titles": [
-    "SK하이닉스,6개월만에장중120만원붕괴…6%대급락(상보)",
-    "현금넉넉한데투자금확보?…솔리다임중복상장논란쟁점은",
     "SK머티리얼즈제이엔씨,OLED·QD잇는페로브스카이트소재양산추진",
     "1000억모아2조원물꼬…4대은행·하이닉스,반도체협력사에돈푼다",
     "SK넥실리스,차세대배터리용카본코팅동박개발",
@@ -3210,10 +3212,12 @@
     "돈안되는석화…생산설비줄이는한화",
     "단종레막았더니…'최대200배'무기한선물갈아타기바람",
     "\"韓증시코로나위기때보다더저평가됐다\"",
-    "SKhynixSharesFall31%SinceSept.30asKOSPISlides"
+    "SKhynixSharesFall31%SinceSept.30asKOSPISlides",
+    "[美증시]반도체주,삼전·SK하이닉스급락에조정분위기…메모리보합...",
+    "[단독]“시총,하이닉스지분값절반도안돼”…얼라인이찍은SK㈜"
    ],
    "initialized": true,
-   "last_run": "2026-10-21T04:30:37.886032+09:00"
+   "last_run": "2026-10-21T04:35:20.849803+09:00"
   }
  },
  "press_names": {
