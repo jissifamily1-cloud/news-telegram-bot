@@ -214,11 +214,13 @@
     [
      "2026-10-22T05:35:19.950513+09:00",
      "뉴노멀 에너지 올스타 로봇 삼전닉스 모인다 배터리 시대"
+    ],
+    [
+     "2026-10-22T05:45:24.162031+09:00",
+     "간다더니 본전 SK하이닉스 87만원에 조혜련 400만 결국"
     ]
    ],
    "seen_urls": [
-    "https://www.cbci.co.kr/news/articleView.html?idxno=617702",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=313611",
     "https://thetracker.co.kr/View.aspx?No=4272417",
     "https://www.the-today.com/news/articleView.html?idxno=92117",
     "https://www.bloter.net/news/articleView.html?idxno=676211",
@@ -1716,11 +1718,11 @@
     "https://www.todayenergy.kr/news/articleView.html?idxno=304499",
     "https://www.medigatenews.com/news/2212056201",
     "https://www.joongang.co.kr/article/25471814",
-    "https://www.mt.co.kr/industry/2026/10/22/2026102114553022762"
+    "https://www.mt.co.kr/industry/2026/10/22/2026102114553022762",
+    "https://www.news2day.co.kr/article/20261021500247",
+    "https://www.fnnews.com/news/202610220037205863"
    ],
    "seen_titles": [
-    "흔들리는유로존과중국발반도체파고…한국수출전선덮친3대암초",
-    "코스피,급락딛고2%대상승...삼성전자·하이닉스↑",
     "NXT,프리마켓시가단일가도입검토…시초가왜곡막는다",
     "SK바이오팜,0.27%상승…\"3분기영업이익1020억원전망\"",
     "SK렌터카·삼성화재,차량·보험데이터결합…운영비절감모델찾는다",
@@ -3218,10 +3220,12 @@
     "[전망]11월국내LPG가격'인상'가능성우세",
     "\"기술이전만이답아니다\"…SK바이오팜이선택한글로벌파트너십전략...",
     "[클리프]화성개척은투자,지구보호는비용?",
-    "\"AI시대'뉴노멀'에너지\"…삼전닉스,로봇,배터리'올스타'모인다"
+    "\"AI시대'뉴노멀'에너지\"…삼전닉스,로봇,배터리'올스타'모인다",
+    "[N2모닝경제브리핑-10월22일]美증시,스페이스X·슈퍼마이크로호...",
+    "\"400만원간다더니\"…SK하이닉스87만원에산조혜련,결국'본전'된사..."
    ],
    "initialized": true,
-   "last_run": "2026-10-22T05:40:27.334528+09:00"
+   "last_run": "2026-10-22T05:45:24.162031+09:00"
   }
  },
  "press_names": {
