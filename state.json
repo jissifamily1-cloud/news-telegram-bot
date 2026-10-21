@@ -438,14 +438,13 @@
     [
      "2026-10-22T07:40:28.843238+09:00",
      "포착 모습 최태원 서울 SK그룹 을지로 회식 잇달아 맛집에서 회장"
+    ],
+    [
+     "2026-10-22T07:45:23.337125+09:00",
+     "연료전지 협력 마스턴운용 투자유치 확대 외국인 DC"
     ]
    ],
    "seen_urls": [
-    "http://www.cctimes.kr/news/articleView.html?idxno=933044",
-    "http://www.cctimes.kr/news/articleView.html?idxno=933045",
-    "https://www.nocutnews.co.kr/news/6594657",
-    "http://www.metroseoul.co.kr/article/20261021500174",
-    "https://www.yna.co.kr/view/AKR20261021075200008?input=1195m",
     "https://www.ajunews.com/view/20261021080133933",
     "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=915935",
     "http://www.4th.kr/news/articleView.html?idxno=2120119",
@@ -1940,14 +1939,14 @@
     "https://www.fnnews.com/news/202610220728317130",
     "https://www.edaily.co.kr/News/Read?newsId=02666646645615544&mediaCodeNo=257",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260075",
-    "https://www.greened.kr/news/articleView.html?idxno=352691"
+    "https://www.greened.kr/news/articleView.html?idxno=352691",
+    "https://www.etoday.co.kr/news/view/2638613",
+    "http://www.yonhapnewstv.co.kr/news/MYH202610220743045KT",
+    "https://www.hankyung.com/article/2026102273986",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610220013&t=NN",
+    "https://view.asiae.co.kr/article/2026102109125030874"
    ],
    "seen_titles": [
-    "[오늘뭐했니?]SKT",
-    "[OpeningMarket]KOSPIReclaims5,700onSemiconductor-LedRally",
-    "청주시,외북동에도시숲조성",
-    "청주시,지역기업∙경제단체∙유관기관과상생협약",
-    "통합특별시첫국감22일…인사·대형사업'송곳검증'예고",
     "[특징주]삼성전자·SK하이닉스,美AI기업호실적에7~8%대급등",
     "코스피,장중4%대급등에'매수사이드카'발동",
     "반도체수출9개월만에3403억달러…산업부\"호황넘어초격차확보\"",
@@ -3442,10 +3441,15 @@
     "조혜련,'주식450억매매→수익1억'김수용에\"차라리김밥집알바가...",
     "\"오르길래더샀는데\"…조혜련,하이닉스투자에한숨",
     "[넥스트-샷]우주에서날아온깜짝실적···나스닥1%반등,고금리불...",
-    "최태원SK그룹회장,서울을지로맛집에서회식모습잇달아포착...젊..."
+    "최태원SK그룹회장,서울을지로맛집에서회식모습잇달아포착...젊...",
+    "[증시키워드]삼성전자‘코어팀’신설⋯SK하이닉스40조자사주매입...",
+    "[3분증시]뉴욕증시,스페이스X호실적에상승마감",
+    "\"삼전·닉스바닥권진입…코스피W자반등기대\"",
+    "\"SK하닉400만원간다길래\"…'87층'조혜련별재미못본이유",
+    "마스턴운용,연료전지DC·외국인투자유치협력확대"
    ],
    "initialized": true,
-   "last_run": "2026-10-22T07:40:28.843238+09:00"
+   "last_run": "2026-10-22T07:45:23.337125+09:00"
   }
  },
  "press_names": {
