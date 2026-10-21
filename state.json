@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-21T06:40:25.603302+09:00",
-     "태양광에너지 한국전력 10월 1위 상장기업"
-    ],
-    [
-     "2026-10-21T06:40:25.603302+09:00",
-     "국내 엘앤에프 모두 고객사로 셀3사 품을"
-    ],
-    [
-     "2026-10-21T06:40:25.603302+09:00",
-     "연말혜택 진행 페스타 키움증권 연금저축"
-    ],
-    [
-     "2026-10-21T06:40:25.603302+09:00",
-     "폭탄 매도 현금인출기 외국인 한국 증시가"
-    ],
-    [
      "2026-10-21T06:45:23.453049+09:00",
      "혼조세 애플 기술주 기업실적 알파벳 호조에도 약세에 뉴욕증시"
     ],
@@ -1222,11 +1206,13 @@
     [
      "2026-10-21T12:35:19.771544+09:00",
      "Regulators Fueling Shareholder IPO Nasdaq hynix Solidigm Challenge"
+    ],
+    [
+     "2026-10-21T12:40:25.773184+09:00",
+     "부진 국내 중국 매출 역성장 디스커버리 MLB"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/general-stock/6326116",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=424433",
     "https://www.mk.co.kr/article/12180715",
     "https://www.xportsnews.com/article/2209416",
     "http://www.metroseoul.co.kr/article/20261020500479",
@@ -2724,11 +2710,11 @@
     "http://www.the-biz.co.kr/news/articleView.html?idxno=729614",
     "http://www.sisacast.kr/news/articleView.html?idxno=101150",
     "https://www.pennmike.com/news/articleView.html?idxno=129975",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=279321"
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=279321",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=884292",
+    "https://www.junggi.co.kr/news/articleView.html?idxno=38172"
    ],
    "seen_titles": [
-    "솔리다임美상장추진에…당국'중복상장규제'어디까지가능할까",
-    "[마켓펄스]AI수익성우려에5500선'털썩'...삼전닉스약세",
     "전력거래소,미취업청년30명대상전력시장교육운영",
     "코스피,AI신용우려에5550선급락",
     "코스피,6개월만에5500대마감…佛재정위기·美금리상승영향",
@@ -4226,10 +4212,12 @@
     "[기자수첩]솔리다임상장논란…누구를위한자금조달인가",
     "[生기업TALK]신한은행,반도체부터우주항공까지역량키우고대규모...",
     "\"중앙은행,금리공격적인상하면경제적피해더클것\"",
-    "RegulatorsChallengeSolidigm'sNasdaqIPO,FuelingSKhynixShareho"
+    "RegulatorsChallengeSolidigm'sNasdaqIPO,FuelingSKhynixShareho",
+    "곡성군,SK이터닉스·유선기업과재생에너지사업협력…군민펀드검토",
+    "\"디스커버리국내부진,MLB중국매출역성장\""
    ],
    "initialized": true,
-   "last_run": "2026-10-21T12:35:19.771544+09:00"
+   "last_run": "2026-10-21T12:40:25.773184+09:00"
   }
  },
  "press_names": {
