@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-21T12:50:23.291366+09:00",
-     "발동 SK우 KRX서 VI 주가 도달 차례 34만원선 급등"
-    ],
-    [
      "2026-10-21T13:00:40.780872+09:00",
      "위축에 금리 동결론 10월 힘받는 부진 투자 주택시장"
     ],
@@ -1326,13 +1322,17 @@
     [
      "2026-10-21T18:40:25.863850+09:00",
      "도로 교육 용수 기반 삼성 확충 요청 광주특별시에"
+    ],
+    [
+     "2026-10-21T18:50:25.447754+09:00",
+     "끊기나 도전자 명맥 전북 정치권 중앙"
+    ],
+    [
+     "2026-10-21T18:50:25.447754+09:00",
+     "반박 차별 기업 쿠팡 카카오 공정위 과징금"
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4440301",
-    "https://www.hankyung.com/article/2026102150796",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=729616",
-    "https://www.namdonews.com/news/articleView.html?idxno=926751",
     "https://www.koit.co.kr/news/articleView.html?idxno=209545",
     "https://www.koit.co.kr/news/articleView.html?idxno=209581",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=281606",
@@ -2828,13 +2828,13 @@
     "http://www.mdilbo.com/detail/0kIA7d/759856",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=562958",
     "https://www.yna.co.kr/view/PYH20261021218400013?input=1196m",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=53839"
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=53839",
+    "http://www.srtimes.kr/news/articleView.html?idxno=215461",
+    "https://www.ccdn.co.kr/news/articleView.html?idxno=1106227",
+    "http://www.jjn.co.kr/news/articleView.html?idxno=1055180",
+    "http://www.4th.kr/news/articleView.html?idxno=2120175"
    ],
    "seen_titles": [
-    "[디지털포스트모닝픽]폐휴대폰에서D램뜯는다…\"中업체,5~6년더...",
-    "시스템반도체株불붙었다...무슨호재?눈여겨볼종목은",
-    "한국대학사회봉사협의회·SK텔레콤,대학생참여형시니어디지털교육...",
-    "'고점서41%폭락'왜코스피만공포에질렸나…원화·국고채는강세",
     "\"AI수요견고\"슈퍼마이크로서프라이즈에…삼전닉스모처럼급등",
     "길찾기제약에도1000만명…구글지도,국내3강판흔들",
     "[특징주]디아이,HBM4테스터수주2천321억원기대이어져7.88%오름세",
@@ -4330,10 +4330,14 @@
     "삼성,광주특별시에교육·도로·용수기반확충요청",
     "최은석\"반도체산업성과급분쟁예방위한노사정협의제안\"",
     "반도체의날,권재순SK하이닉스부사장-김영부큐알티회장동탑산업훈...",
-    "코스피3%대반등…삼성전자·하이닉스급등"
+    "코스피3%대반등…삼성전자·하이닉스급등",
+    "'K-차량반도체'결집…현대모비스,53개사와'차량반도체국산화'시동",
+    "충북도,반도체클러스터지정승부수",
+    "전북정치권중앙도전자명맥끊기나…",
+    "공정위,美기업과징금차별반박…\"쿠팡2%,카카오3%\""
    ],
    "initialized": true,
-   "last_run": "2026-10-21T18:45:24.555578+09:00"
+   "last_run": "2026-10-21T18:50:25.447754+09:00"
   }
  },
  "press_names": {
