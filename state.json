@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-21T21:30:39.128018+09:00",
-     "미래 SK렌터카 삼성화재와 발굴 사업모델 모빌리티"
-    ],
-    [
-     "2026-10-21T21:30:39.128018+09:00",
-     "Market Cools CATL Growth EV Slows as Profit"
-    ],
-    [
      "2026-10-21T21:35:21.541773+09:00",
      "초고가 듀오 한계 물량 임박했지만 대란 아이폰 출시"
     ],
@@ -190,10 +182,13 @@
     [
      "2026-10-22T03:20:28.887883+09:00",
      "공장 증가 진전 반도체 수요 인텔 증설 신호"
+    ],
+    [
+     "2026-10-22T03:35:21.249303+09:00",
+     "넘어 양산 공공수요 구축 개발 기술 창출 시급 로봇산업 생태계"
     ]
    ],
    "seen_urls": [
-    "https://www.eroun.net/news/articleView.html?idxno=93015",
     "https://www.newspim.com/news/view/20261021000293",
     "http://www.thevaluenews.co.kr/news/view.php?idx=202522",
     "https://www.asiatoday.co.kr/kn/view.php?key=20261021010006871",
@@ -1692,10 +1687,10 @@
     "https://www.medipana.com/news/articleView.html?idxno=419804",
     "https://www.ggilbo.com/news/articleView.html?idxno=1187597",
     "https://www.tournews21.com/news/articleView.html?idxno=146365",
-    "https://www.bloter.net/news/articleView.html?idxno=676340"
+    "https://www.bloter.net/news/articleView.html?idxno=676340",
+    "https://www.irobotnews.com/news/articleView.html?idxno=49136"
    ],
    "seen_titles": [
-    "급락하루만에반등…SK하이닉스5%·삼성전자4%급등[핫종목]",
     "코스피,소폭반등하며5700선회복...코스닥은로봇주강세",
     "반발매수유입에코스피5710대로외국인투심개선…삼성전자4%↑",
     "SKT,AI러닝분석·전문코칭제공…'런메이트캠프'운영",
@@ -3194,10 +3189,11 @@
     "한국BMS제약,국내바이오스타트업10개사발굴…혁신생태계지원",
     "SK브로드밴드,가을신규프로그램3편공개…방송일정은?",
     "조상호세종시장\"행정수도완성,이제실행과입법의시간\"…중앙부처...",
-    "인텔\"美반도체공장증설진전\"…AI칩수요증가신호"
+    "인텔\"美반도체공장증설진전\"…AI칩수요증가신호",
+    "\"AI로봇산업,기술개발넘어공공수요창출·양산생태계구축시급\""
    ],
    "initialized": true,
-   "last_run": "2026-10-22T03:30:36.108746+09:00"
+   "last_run": "2026-10-22T03:35:21.249303+09:00"
   }
  },
  "press_names": {
