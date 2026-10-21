@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-21T21:55:21.283813+09:00",
-     "세종시 가속화 도약 행정수도로의"
-    ],
-    [
      "2026-10-21T22:00:47.796762+09:00",
      "버틴 사라진 중소형 거래로 메가딜 3분기 시장"
     ],
@@ -182,10 +178,13 @@
     [
      "2026-10-22T03:52:35.072600+09:00",
      "3400억 누적 회장 반도체 달러 금탑훈장 수출 돌파 동진쎄미켐 이준혁"
+    ],
+    [
+     "2026-10-22T04:00:45.106818+09:00",
+     "488조 열기 장비와 인공지능 서버 번진 데이터센터로 흔든 동남아"
     ]
    ],
    "seen_urls": [
-    "https://www.asiatoday.co.kr/kn/view.php?key=20261021010006871",
     "https://view.asiae.co.kr/article/2026102108272459006",
     "https://biz.heraldcorp.com/article/10909593",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1728562",
@@ -1684,10 +1683,10 @@
     "https://www.bloter.net/news/articleView.html?idxno=676340",
     "https://www.irobotnews.com/news/articleView.html?idxno=49136",
     "https://www.mt.co.kr/industry/2026/10/22/2026102119482863216",
-    "https://www.goodkyung.com/news/articleView.html?idxno=292641"
+    "https://www.goodkyung.com/news/articleView.html?idxno=292641",
+    "https://www.g-enews.com/view.php?ud=202610211901039602fbbec65dfb_1"
    ],
    "seen_titles": [
-    "SKT,AI러닝분석·전문코칭제공…'런메이트캠프'운영",
     "\"전기는국가망으로받으라더니\"…AI데이터센터새규제논란",
     "[현장]SK증권,AI시대투자전략조명…“경제적해자·반도체수요주...",
     "순천국제포럼26일개막…생태보전과지역경제상생모색",
@@ -3186,10 +3185,11 @@
     "인텔\"美반도체공장증설진전\"…AI칩수요증가신호",
     "\"AI로봇산업,기술개발넘어공공수요창출·양산생태계구축시급\"",
     "\"車반도체국산화\"현대모비스,공조시동",
-    "반도체누적수출3400억달러돌파…이준혁동진쎄미켐회장금탑훈장"
+    "반도체누적수출3400억달러돌파…이준혁동진쎄미켐회장금탑훈장",
+    "동남아흔든인공지능열기…서버장비와데이터센터로번진488조원승..."
    ],
    "initialized": true,
-   "last_run": "2026-10-22T03:55:20.685125+09:00"
+   "last_run": "2026-10-22T04:00:45.106818+09:00"
   }
  },
  "press_names": {
