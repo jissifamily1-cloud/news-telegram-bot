@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-21T18:55:21.275150+09:00",
-     "SKT 빅테크 간다 투자 놓치면 몰리는 지금 한국으로 일본"
-    ],
-    [
-     "2026-10-21T19:00:44.430356+09:00",
-     "기업가정신 제3회 되새기 CEO의 개최"
-    ],
-    [
      "2026-10-21T19:05:19.448356+09:00",
      "3대 해커들의 한국은 놀이터인가 강국인가"
     ],
@@ -350,12 +342,17 @@
     [
      "2026-10-22T00:55:20.789898+09:00",
      "시장 이젠 반도체 키운 만들고 중국이 노린다 한국 대만이"
+    ],
+    [
+     "2026-10-22T01:00:45.669171+09:00",
+     "경기도 증가율 중독 전국 복지 1위"
+    ],
+    [
+     "2026-10-22T01:00:45.669171+09:00",
+     "손실 3천만 70대 3조 날아갔다 계좌당"
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/topics/law_firm/2026/10/21/WDVIEJRS7NBIFMNKZLN5SO6BA4/",
-    "https://www.fnnews.com/news/202610210931281681",
-    "https://www.thebigdata.co.kr/view.php?ud=202610211001223844df3c2a17b7_23",
     "https://www.fnnews.com/news/202610211010120131",
     "https://www.fntimes.com/html/view.php?ud=202610211007271980179ad43907_18",
     "https://www.news1.kr/finance/general-stock/6326879",
@@ -1852,12 +1849,12 @@
     "http://www.inews24.com/view/2017620",
     "http://www.inews24.com/view/2017622",
     "https://www.chosun.com/economy/tech_it/2026/10/22/QRB33FRQXJDNTANQ35GBOOIF2M/",
-    "https://www.chosun.com/economy/tech_it/2026/10/22/GVDDHYVN3FHFJGXKBGGWMHBYKM/"
+    "https://www.chosun.com/economy/tech_it/2026/10/22/GVDDHYVN3FHFJGXKBGGWMHBYKM/",
+    "https://sports.donga.com/sports/article/all/20261022/134886581/1",
+    "https://www.chosun.com/economy/economy_general/2026/10/22/W4LQJ23MGZGMJHMAU3PGUMHGZY/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008809123&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "[테오도르의기술적분석]코스피와주요종목(10월21일)",
-    "SKT,금감원과보이스피싱예방나선다…AI탐지기술강화",
-    "KB증권\"마이크론대만공장파업예고,삼성전자·SK하이닉스반사이익...",
     "김대연화우변호사,‘아시아40세미만우수변호사40인’선정",
     "\"보이스피싱,경험해보고AI로예방하세요\"SKT·금감원,피해예방맞손",
     "SKT,러너위한체험공간‘런메이트캠프’연다...소비자관심도상승",
@@ -3354,10 +3351,13 @@
     "\"삼성전자·SK하이닉스,中공장서첨단낸드생산추진\"",
     "최태원,직원들과'소주한잔'…을지로노포서회식포착",
     "최고격전지인HBM은한국이주도",
-    "美가만들고한국·대만이키운반도체시장…이젠중국이노린다"
+    "美가만들고한국·대만이키운반도체시장…이젠중국이노린다",
+    "‘오브라이언트42점·11R’뒷심발휘한소노,EASL첫경기서연장끝...",
+    "‘복지중독’경기도,빚증가율전국1위",
+    "총6.3조날아갔다…70대'계좌당3천만원'손실"
    ],
    "initialized": true,
-   "last_run": "2026-10-22T00:55:20.789898+09:00"
+   "last_run": "2026-10-22T01:00:45.669171+09:00"
   }
  },
  "press_names": {
