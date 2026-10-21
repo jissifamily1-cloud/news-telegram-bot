@@ -174,11 +174,17 @@
     [
      "2026-10-22T03:35:21.249303+09:00",
      "넘어 양산 공공수요 구축 개발 기술 창출 시급 로봇산업 생태계"
+    ],
+    [
+     "2026-10-22T03:52:35.072600+09:00",
+     "국산화 반도체 공조 시동 현대모비스"
+    ],
+    [
+     "2026-10-22T03:52:35.072600+09:00",
+     "3400억 누적 회장 반도체 달러 금탑훈장 수출 돌파 동진쎄미켐 이준혁"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261021000293",
-    "http://www.thevaluenews.co.kr/news/view.php?idx=202522",
     "https://www.asiatoday.co.kr/kn/view.php?key=20261021010006871",
     "https://view.asiae.co.kr/article/2026102108272459006",
     "https://biz.heraldcorp.com/article/10909593",
@@ -1676,11 +1682,11 @@
     "https://www.ggilbo.com/news/articleView.html?idxno=1187597",
     "https://www.tournews21.com/news/articleView.html?idxno=146365",
     "https://www.bloter.net/news/articleView.html?idxno=676340",
-    "https://www.irobotnews.com/news/articleView.html?idxno=49136"
+    "https://www.irobotnews.com/news/articleView.html?idxno=49136",
+    "https://www.mt.co.kr/industry/2026/10/22/2026102119482863216",
+    "https://www.goodkyung.com/news/articleView.html?idxno=292641"
    ],
    "seen_titles": [
-    "코스피,소폭반등하며5700선회복...코스닥은로봇주강세",
-    "반발매수유입에코스피5710대로외국인투심개선…삼성전자4%↑",
     "SKT,AI러닝분석·전문코칭제공…'런메이트캠프'운영",
     "\"전기는국가망으로받으라더니\"…AI데이터센터새규제논란",
     "[현장]SK증권,AI시대투자전략조명…“경제적해자·반도체수요주...",
@@ -3178,10 +3184,12 @@
     "SK브로드밴드,가을신규프로그램3편공개…방송일정은?",
     "조상호세종시장\"행정수도완성,이제실행과입법의시간\"…중앙부처...",
     "인텔\"美반도체공장증설진전\"…AI칩수요증가신호",
-    "\"AI로봇산업,기술개발넘어공공수요창출·양산생태계구축시급\""
+    "\"AI로봇산업,기술개발넘어공공수요창출·양산생태계구축시급\"",
+    "\"車반도체국산화\"현대모비스,공조시동",
+    "반도체누적수출3400억달러돌파…이준혁동진쎄미켐회장금탑훈장"
    ],
    "initialized": true,
-   "last_run": "2026-10-22T03:50:26.058406+09:00"
+   "last_run": "2026-10-22T03:52:35.072600+09:00"
   }
  },
  "press_names": {
