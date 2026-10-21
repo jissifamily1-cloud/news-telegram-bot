@@ -697,8 +697,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20261021048200054?input=1195m",
-    "https://magazine.hankyung.com/business/article/202610140982b",
     "https://www.news1.kr/finance/general-stock/6326785",
     "https://biz.heraldcorp.com/article/10909553",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=900150",
@@ -2196,11 +2194,11 @@
     "http://www.incheonnews.com/news/articleView.html?idxno=442048",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=279374",
     "http://www.rightknow.co.kr/news/articleView.html?idxno=35219",
-    "https://econotimes.com/Chinese-AI-Models-Underpin-49-of-Korea-Linked-Releases-Study-Finds-1759027"
+    "https://econotimes.com/Chinese-AI-Models-Underpin-49-of-Korea-Linked-Releases-Study-Finds-1759027",
+    "https://m.sports.naver.com/basketball/article/065/0000303294",
+    "https://biz.heraldcorp.com/article/10910146"
    ],
    "seen_titles": [
-    "삼성화재·SK렌터카,자율주행·전기차보험공동개발추진",
-    "카메라모듈·OLED디스플레이수혜…아이폰테마주'신바람'",
     "[금융권이모저모]삼성자산운용,배터리ETF순자산2000억원돌파外",
     "'통합금고경쟁'농협·광주은행,반도체현수막앞다퉈걸어",
     "신현송한국은행총재“원·달러환율,추가하락여지있다”[이주의...",
@@ -3698,10 +3696,12 @@
     "인천지하철,5G무료와이파이구축…통신속도3배빨라졌다",
     "KoreanRefinersTurnToU.S.CrudeAsFreightRatesSurge",
     "[박래혁의테크오딧세이]AI속도조절론의역설…앤트로픽,최대7500억달...",
-    "ChineseAIModelsUnderpin49%ofKorea-LinkedReleases,StudyFinds"
+    "ChineseAIModelsUnderpin49%ofKorea-LinkedReleases,StudyFinds",
+    "[EASL]‘자니오브라이언트42득점폭발’소노,EASL데뷔전서역전승",
+    "AI거품론에외국인떠나는데…“삼전닉스매수적기”,무슨자신감?[투..."
    ],
    "initialized": true,
-   "last_run": "2026-10-21T22:40:26.558132+09:00"
+   "last_run": "2026-10-21T22:45:23.400249+09:00"
   }
  },
  "press_names": {
