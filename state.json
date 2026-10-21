@@ -1210,15 +1210,17 @@
     [
      "2026-10-21T12:40:25.773184+09:00",
      "부진 국내 중국 매출 역성장 디스커버리 MLB"
+    ],
+    [
+     "2026-10-21T12:45:22.376246+09:00",
+     "산업일반 소식 SK쉴더스 KCC"
+    ],
+    [
+     "2026-10-21T12:45:22.376246+09:00",
+     "소식 SK텔레콤"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12180715",
-    "https://www.xportsnews.com/article/2209416",
-    "http://www.metroseoul.co.kr/article/20261020500479",
-    "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160291335600374",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482360",
-    "https://www.seoul.co.kr/news/economy/securities/2026/10/20/20261020500266?wlog_tag3=naver",
     "https://view.asiae.co.kr/article/2026102016472683768",
     "https://www.mt.co.kr/stock/2026/10/20/2026102015344981344",
     "https://www.newsway.co.kr/news/view?ud=2026102016195554391",
@@ -2712,15 +2714,15 @@
     "https://www.pennmike.com/news/articleView.html?idxno=129975",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=279321",
     "https://www.getnews.co.kr/news/articleView.html?idxno=884292",
-    "https://www.junggi.co.kr/news/articleView.html?idxno=38172"
+    "https://www.junggi.co.kr/news/articleView.html?idxno=38172",
+    "https://www.tokenpost.kr/news/blockchain/425379",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=303113",
+    "https://www.mediawatch.kr/news/article.html?no=261429",
+    "https://www.chosun.com/politics/assembly/2026/10/21/44KTVELURBB7JB6KFD2B5FAHIM/",
+    "http://www.weeklytoday.com/news/articleView.html?idxno=798886",
+    "http://www.weeklytoday.com/news/articleView.html?idxno=798882"
    ],
    "seen_titles": [
-    "전력거래소,미취업청년30명대상전력시장교육운영",
-    "코스피,AI신용우려에5550선급락",
-    "코스피,6개월만에5500대마감…佛재정위기·美금리상승영향",
-    "금융당국\"중복상장\"경고에도…미국행솔리다임에규제빈틈도마",
-    "코스피19%빠질때,코스닥은8%…'반도체쏠림'이가른낙폭",
-    "이틀반등분되돌린코스피…외인·기관'팔자'다시5550선[시황종합]",
     "대형수주뜸한K방산···남미서단비만날까",
     "NH투자증권,‘N2퇴직연금ELS’100호발행기념이벤트진행",
     "'11전12기'KIA37년징크스마침내털어낼까…3차전라인업공개→나성...",
@@ -4214,10 +4216,16 @@
     "\"중앙은행,금리공격적인상하면경제적피해더클것\"",
     "RegulatorsChallengeSolidigm'sNasdaqIPO,FuelingSKhynixShareho",
     "곡성군,SK이터닉스·유선기업과재생에너지사업협력…군민펀드검토",
-    "\"디스커버리국내부진,MLB중국매출역성장\""
+    "\"디스커버리국내부진,MLB중국매출역성장\"",
+    "[로빈후드온체인]스페이스X온체인가격이정규장종가보다9.5%높게...",
+    "기업수익성좋아졌다는데…이자도못갚는기업42.9%",
+    "삼전67만·닉스470만전망…노무라“AI회의론과도,메모리수급난...",
+    "‘단일종목레버리지’개인손실액6.3조달한다",
+    "[위클리오늘]산업일반소식_KCC,SK쉴더스(10.21)",
+    "[위클리오늘]SK텔레콤소식(10.21)"
    ],
    "initialized": true,
-   "last_run": "2026-10-21T12:40:25.773184+09:00"
+   "last_run": "2026-10-21T12:45:22.376246+09:00"
   }
  },
  "press_names": {
