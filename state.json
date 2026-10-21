@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-21T10:35:18.303946+09:00",
-     "떠안은 데이터센터 혐오까지 전국구 신용"
-    ],
-    [
      "2026-10-21T10:40:25.434013+09:00",
      "5G 통신 인천 지하철 객차 와이파이 전국 2호선"
     ],
@@ -1230,21 +1226,25 @@
     [
      "2026-10-21T16:30:34.701519+09:00",
      "채권시장에서도 삼전닉스 국고채도 매수 대규모"
+    ],
+    [
+     "2026-10-21T16:35:22.411783+09:00",
+     "에어컨 신제품 하프코 시스템 LG전자 LG유플러스 공개 22일부"
+    ],
+    [
+     "2026-10-21T16:35:22.411783+09:00",
+     "공급망 선두 iHBM HBM 잡는 착수 발열 수성 SK하이닉스 승부수 협의"
+    ],
+    [
+     "2026-10-21T16:35:22.411783+09:00",
+     "담겼다 짚어보니 맞춤형 특례 지주회사 초광역특구법"
+    ],
+    [
+     "2026-10-21T16:35:22.411783+09:00",
+     "상담 골프장 AI로 민원 한국대중골프장 될까 해결"
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0102_202610210638329878",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1728549",
-    "https://thetracker.co.kr/View.aspx?No=4272208",
-    "https://www.mediapen.com/news/view/1131380",
-    "https://news.bizwatch.co.kr/article/industry/2026/10/20/0003",
-    "https://www.imaeil.com/page/view/2026102106492993392",
-    "https://en.yna.co.kr/view/AEN20261021000800315?input=2106m",
-    "https://www.jasm.co.kr/news/view/322353/?sc=Naver",
-    "https://biz.sbs.co.kr/article_hub/20000341145?division=NAVER",
-    "https://www.segye.com/newsView/20261020521329?OutUrl=naver",
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=66117",
-    "https://dealsite.co.kr/articles/170914",
     "https://biz.sbs.co.kr/article_hub/20000341147?division=NAVER",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609111549269560108965",
     "https://weekly.donga.com/3/all/11/6426025/1",
@@ -2732,21 +2732,21 @@
     "https://www.econovill.com/news/articleView.html?idxno=754431",
     "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=916112",
     "https://news.skbroadband.com/news/articleView.html?idxno=240918",
-    "https://news.mtn.co.kr/article/2026102116165035867"
+    "https://news.mtn.co.kr/article/2026102116165035867",
+    "https://www.etnews.com/20261021000080",
+    "https://www.yna.co.kr/view/AKR20261021039351008?input=1195m",
+    "https://www.venturesquare.net/1121678/",
+    "https://www.ddaily.co.kr/page/view/2026102116295045743",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5074459",
+    "https://www.mt.co.kr/industry/2026/10/21/2026101915132398989",
+    "https://www.mt.co.kr/tech/2026/10/21/2026102109072029521",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=7498",
+    "https://www.sisaon.co.kr/news/articleView.html?idxno=205346",
+    "https://www.etnews.com/20261021000240",
+    "https://www.hani.co.kr/arti/economy/marketing/1283470.html",
+    "https://www.g-enews.com/view.php?ud=202610211620403352daecd3dad5_1"
    ],
    "seen_titles": [
-    "엘앤에프,'국내셀3사모두'고객사로품을듯",
-    "키움증권,'연금저축연말혜택페스타'진행外",
-    "한국증시가'현금인출기'?‥외국인매도폭탄",
-    "AI·북미전력망특수⋯전선업계,3분기‘역대급’실적랠리예고",
-    "뉴욕증시,기업실적호조에도기술주약세에혼조세⋯알파벳·애플1%대...",
-    "여러호재속,미국증시'잘버텼다'...AI주'회복',반도체주'혼조'",
-    "코스피급락에도\"67만전자·470만닉스전망\"...이유는?[스타트경제]",
-    "美증시혼조에코스피반도체주향방·저가매수세주목",
-    "[단독]김일범현대차부사장,가나行...현지투자확대주목",
-    "[美증시]유가하락·기업실적호조에다우상승…반도체약세나스닥은...",
-    "'수주릴레이'대한전선,고수익인프라로체질도업글",
-    "주가'최대반토막'탈탈털렸지만…노무라\"67만전자·470만닉스간다...",
     "(EDITORIALfromTheKoreaHeraldonOct.21)",
     "[뉴욕증시]미국·이란중재기대·기업실적호조에다우1.02%↑",
     "[증시전략]AI투자수익성우려여전…빅테크실적이트리거될까",
@@ -4234,10 +4234,22 @@
     "TSMC국내유일VCA에이직랜드,반도체생태계기여로장관표창",
     "[포토]서비스탑,대전환경운동연합에환경보호기부금1076만원전달",
     "'막힌하수구뚫어보니…피싱중계일당덜미'",
-    "삼전닉스,채권시장에서도'큰손'…\"국고채도대규모매수\""
+    "삼전닉스,채권시장에서도'큰손'…\"국고채도대규모매수\"",
+    "과기정통부,인천지하철서5G와이파이성과점검",
+    "[특징주]삼전·닉스,급락딛고5%대반등마감(종합)",
+    "베스텔라랩,중국로봇기업과데이터센터순찰로봇사업협력…공간지...",
+    "안철수“국민연금,SK하이닉스솔리다임美상장반대해야”",
+    "포항상의,노동환경변화대응설명회…2027년노사관계전망점검",
+    "데이터센터·ESS·변압기로'AI골드러시'..배터리3사전략한눈에",
+    "\"고화질영상도끊김없이\"…인천지하철5G와이파이점검",
+    "[특징주]명신산업,손자회사美상장반대에17.8%급등…중복상장논...",
+    "LG전자,'하프코2026'서시스템에어컨신제품공개…LG유플러스,22일부...",
+    "SK하이닉스,발열잡는'iHBM'공급망협의착수…HBM선두수성승부수",
+    "초광역특구법짚어보니…‘SK맞춤형’지주회사특례담겼다",
+    "\"AI로골프장민원상담해결될까?\"...한국대중골프장協"
    ],
    "initialized": true,
-   "last_run": "2026-10-21T16:30:34.701519+09:00"
+   "last_run": "2026-10-21T16:35:22.411783+09:00"
   }
  },
  "press_names": {
