@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-21T23:55:21.713662+09:00",
-     "SK바이오사이언스 5거래일 종가 상승"
-    ],
-    [
      "2026-10-22T00:05:19.815131+09:00",
      "만에 손실 달여 개미들 상장 6조3130억 레버리지 봤다"
     ],
@@ -218,11 +214,13 @@
     [
      "2026-10-22T05:50:28.903229+09:00",
      "지하철 인천 통신 와이파이 2호선 3사 개시 서비스 5G"
+    ],
+    [
+     "2026-10-22T06:00:45.286701+09:00",
+     "전세계 마이크론도 대만 풀었네 노조에 K성과급 삼전닉스가 파업"
     ]
    ],
    "seen_urls": [
-    "https://www.dailybrief.co.kr/news/articleView.html?idxno=7053",
-    "https://www.sportschosun.com/entertainment/2026-10-21/202610210100133060008674",
     "https://news.bizwatch.co.kr/article/market/2026/10/21/0008",
     "https://www.smartbizn.com/news/articleView.html?idxno=157060",
     "https://news.tf.co.kr/read/national/2378794.htm",
@@ -1720,11 +1718,11 @@
     "https://www.fnnews.com/news/202610220037205863",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4440439",
     "https://zdnet.co.kr/view/?no=20261022054620",
-    "https://www.the-today.com/news/articleView.html?idxno=92177"
+    "https://www.the-today.com/news/articleView.html?idxno=92177",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=7513",
+    "https://www.mk.co.kr/article/12182352"
    ],
    "seen_titles": [
-    "DB손보,이노비즈·SK쉴더스와중소기업사이버보험지원강화",
-    "[반도체패권전쟁:TSMC,CXMT,삼전닉스(3부)]HBM83%를만드는삼전닉...",
     "얼라인,SK㈜'기형적지배구조'직격…연내밸류업앞두고경고",
     "얼라인파트너스\"SK㈜,저평가해소하려면밸류업필요\"[전문]",
     "\"270만원갈때심장뛰며추격매수\"…조혜련이털어놓은아찔한재테...",
@@ -3222,10 +3220,12 @@
     "\"400만원간다더니\"…SK하이닉스87만원에산조혜련,결국'본전'된사...",
     "[뉴욕증시]스페이스X타고날았다…나스닥1%↑",
     "인천지하철1·2호선,통신3사5G와이파이서비스개시",
-    "[투데이온]삼성·SK,中팹서'200단넘는'첨단낸드전환…美방침속..."
+    "[투데이온]삼성·SK,中팹서'200단넘는'첨단낸드전환…美방침속...",
+    "[글로벌마켓뷰]뉴욕증시,스페이스X실적·테슬라합병기대에상승…...",
+    "“삼전닉스가전세계노조에K성과급풀었네”…대만마이크론도파업"
    ],
    "initialized": true,
-   "last_run": "2026-10-22T05:55:21.016090+09:00"
+   "last_run": "2026-10-22T06:00:45.286701+09:00"
   }
  },
  "press_names": {
