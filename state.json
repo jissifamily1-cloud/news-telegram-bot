@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-21T06:25:20.047185+09:00",
-     "항공우주 방산주 주가는 좋았는데 희비 실적"
-    ],
-    [
-     "2026-10-21T06:25:20.047185+09:00",
-     "회사 정상화 험난 신한금융 품은 롯데손보"
-    ],
-    [
      "2026-10-21T06:30:35.608334+09:00",
      "고려 이찬진 금감원은 이직 현장에 금감원 있어야 이전시"
     ],
@@ -1246,13 +1238,13 @@
     [
      "2026-10-21T12:25:18.147523+09:00",
      "업무 제휴 금융사 클라우드 밖은 체계 안은 손질"
+    ],
+    [
+     "2026-10-21T12:30:32.260899+09:00",
+     "부천대장지구 디센트 하우스토리 공공분양 10월 부천대장 견본주택"
     ]
    ],
    "seen_urls": [
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2308281",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=313554",
-    "https://www.mk.co.kr/article/12180721",
-    "https://www.newsworker.co.kr/news/articleView.html?idxno=509616",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598962182496",
     "https://www.peoplewatch.co.kr/article/view/ppw202610200012",
     "https://www.topstarnews.net/news/articleView.html?idxno=16252521",
@@ -2748,13 +2740,13 @@
     "https://biz.chosun.com/stock/stock_general/2026/10/21/Z7ELDWZH4JDB3BAOBMMYYZZSMQ/",
     "https://www.viva100.com/article/20261021500666",
     "https://www.datasom.co.kr/news/articleView.html?idxno=210441",
-    "https://www.pressman.kr/news/articleView.html?idxno=104088"
+    "https://www.pressman.kr/news/articleView.html?idxno=104088",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=97436",
+    "https://www.newstnt.com/news/articleView.html?idxno=724157",
+    "https://www.vegannews.co.kr/news/article.html?no=395080",
+    "https://www.newspim.com/news/view/20261021000684"
    ],
    "seen_titles": [
-    "'이틀천하'코스피,3.7%↓5,552마감…최근반등분모두반납",
-    "코스피,3.7%급락한5552.74마감…시총30위중29종목하락",
-    "67만전자·470만닉스제시한노무라證…“메모리공급부족2028년까지”",
-    "[마감시황]AI투자불신·반도체기업수익성우려에…코스피,5500선후...",
     "[코스피지수선물옵션]방산·조선·배터리주선물하락뚜렷…상승종...",
     "\"청주대기환경개선앞장\"SK하이닉스,SK로에3㎞도시숲준공",
     "‘솔리다임미국상장못하나’해외IPO추진기업들촉각[투자360]",
@@ -4250,10 +4242,14 @@
     "얼라인,SK지분1.5%보유공개…“SK스퀘어거치며이중할인”",
     "현대모비스6위수성·현대트랜시스27위도약⋯中폭주·유럽침체속...",
     "[분석]중국ESS의미국시장퇴각···K배터리의기회인가",
-    "안은AI·클라우드,밖은제휴...금융사업무체계손질"
+    "안은AI·클라우드,밖은제휴...금융사업무체계손질",
+    "코스피4%대급등에매수사이드카발동…삼성전자·SK하이닉스강세",
+    "삼성화재·SK렌터카,미래모빌리티협력맞손…자율주행·전기차전환...",
+    "SK하이닉스장중8%대반등해132만원돌파",
+    "부천대장지구공공분양'부천대장하우스토리디센트'10월견본주택개..."
    ],
    "initialized": true,
-   "last_run": "2026-10-21T12:25:18.147523+09:00"
+   "last_run": "2026-10-21T12:30:32.260899+09:00"
   }
  },
  "press_names": {
