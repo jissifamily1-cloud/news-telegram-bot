@@ -250,13 +250,17 @@
     [
      "2026-10-22T06:05:22.079113+09:00",
      "목요일 10월22일 사회"
+    ],
+    [
+     "2026-10-22T06:10:27.502080+09:00",
+     "상승 반도체주 ADR 마이크론 SK하이닉스 일제히 마감"
+    ],
+    [
+     "2026-10-22T06:10:27.502080+09:00",
+     "혁신이 먼저죠 없애는 불필요한 업무"
     ]
    ],
    "seen_urls": [
-    "http://www.4th.kr/news/articleView.html?idxno=2120109",
-    "https://www.segye.com/newsView/20261021508329?OutUrl=naver",
-    "https://www.sedaily.com/article/20104197",
-    "https://www.mydaily.co.kr/page/view/2026102110344743319",
     "https://vop.co.kr/A00001697240.html",
     "http://www.metroseoul.co.kr/article/20261021500157",
     "https://www.sentv.co.kr/article/view/sentv202610210060",
@@ -1752,13 +1756,13 @@
     "http://www.srtimes.kr/news/articleView.html?idxno=215457",
     "http://weekly.chosun.com/news/articleView.html?idxno=56297",
     "https://www.hankookilbo.com/news/article/A2026102116080001398?did=NA",
-    "https://www.newsis.com/view/NISX20261021_0003835841"
+    "https://www.newsis.com/view/NISX20261021_0003835841",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092172521",
+    "https://www.news1.kr/world/international-economy/6327894",
+    "http://www.beyondpost.co.kr/view.php?ud=2026102205581411302aaae0046f_30",
+    "https://www.segye.com/newsView/20261021520181?OutUrl=naver"
    ],
    "seen_titles": [
-    "SKT,보이스피싱예방부터러닝체험까지…생활속고객접점확대",
-    "삼성,호남반도체·AI센터로국가전략사업앞장",
-    "삼성화재,SK렌터카와데이터동맹…사고보상넘어예방까지",
-    "SKT·금감원,보이스피싱차단공조강화…AI탐지고도화",
     "외인‘사자’에코스피2%대반등…32%↓엘리스도하루만에‘상한가...",
     "데이터센터전국구혐오까지떠안은‘AI신용’[트럼프스톡커]",
     "“송찬의·문정빈성장이그나마소득”염갈량뜻밖의시련…2019SK시...",
@@ -3254,10 +3258,14 @@
     "호남반도체'속도전'외친SK최태원...인프라없이는'안간다'",
     "2달러에팔린2조원광산,경고무시했던예견된결말[자원의지경학]",
     "[스타트업리포트]'1가구1피지컬AI시대연다'고석태제논대표",
-    "[오늘의주요일정]사회(10월22일목요일)"
+    "[오늘의주요일정]사회(10월22일목요일)",
+    "스페이스X·슈퍼마이크로호실적에나스닥1.1%상승",
+    "美반도체주일제히반등…AMD3.4%·SK하이닉스ADR2.5%↑",
+    "마이크론2%,SK하이닉스ADR2.48%↑...반도체주,일제히상승마감",
+    "“AI전환?불필요한업무없애는혁신이먼저죠”[차한잔나누며]"
    ],
    "initialized": true,
-   "last_run": "2026-10-22T06:05:22.079113+09:00"
+   "last_run": "2026-10-22T06:10:27.502080+09:00"
   }
  },
  "press_names": {
