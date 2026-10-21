@@ -166,10 +166,13 @@
     [
      "2026-10-22T04:50:28.145361+09:00",
      "앞둔 쌓여있지만 글쎄 마무리 반등은"
+    ],
+    [
+     "2026-10-22T05:00:43.185280+09:00",
+     "미국 코스닥 급락 상한가 흔든 엘리스"
     ]
    ],
    "seen_urls": [
-    "https://www.moneystorm.kr/news/articleView.html?idxno=7461",
     "http://www.inews24.com/view/2017238",
     "https://www.ytn.co.kr/_ln/0102_202610211017214835",
     "https://www.dailian.co.kr/news/view/1704008/?sc=Naver",
@@ -1668,10 +1671,10 @@
     "https://www.donga.com/news/Economy/article/all/20261022/134885951/2",
     "https://www.mediapen.com/news/view/1131628",
     "https://www.news2day.co.kr/article/20261021500249",
-    "https://www.edaily.co.kr/News/Read?newsId=01597366645615544&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01597366645615544&mediaCodeNo=257",
+    "https://www.newsverse.kr/news/articleView.html?idxno=11732"
    ],
    "seen_titles": [
-    "조상호세종시장\"중앙기관추가이전은행정수도완성전환점…특별법...",
     "SK텔레콤,러너체험공간'런메이트캠프'운영…AI러닝분석제공",
     "SK텔레콤·금감원,보이스피싱예방맞손…AI탐지기술고도화",
     "SK텔레콤,금감원과금융사기예방\"맞손\"...작년스팸·보이스피싱11억...",
@@ -3170,10 +3173,11 @@
     "삼전닉스레버리지투자개미들,두달반새6.3조손실",
     "[美증시]반도체,스페이스X·슈퍼마이크로실적훈풍에'활짝'…엔비디...",
     "코스피,반도체주강세에매수사이드카발동…장중최대5%급등(종합)",
-    "마무리앞둔딜쌓여있지만..M&A반등은'글쎄'"
+    "마무리앞둔딜쌓여있지만..M&A반등은'글쎄'",
+    "[오늘의경제뉴스]엘리스,32%급락뒤상한가…코스닥흔든미국發'A..."
    ],
    "initialized": true,
-   "last_run": "2026-10-22T04:55:20.783320+09:00"
+   "last_run": "2026-10-22T05:00:43.185280+09:00"
   }
  },
  "press_names": {
