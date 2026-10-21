@@ -574,17 +574,21 @@
     [
      "2026-10-22T08:40:25.737909+09:00",
      "상승에 성장성 LS 목표가 금리 하향 ELECTRIC 데이터센터 북미 NH"
+    ],
+    [
+     "2026-10-22T08:45:22.501133+09:00",
+     "통신3사 유심 보호 보안조치에도 사각지대"
+    ],
+    [
+     "2026-10-22T08:45:22.501133+09:00",
+     "증시 변동성 국내 전망 전날 급반등에도"
+    ],
+    [
+     "2026-10-22T08:45:22.501133+09:00",
+     "탄소배출권 유럽 약세 상승 주간 국내 영국은"
     ]
    ],
    "seen_urls": [
-    "https://www.kbsm.net/news/view.php?idx=538485",
-    "https://www.newsworker.co.kr/news/articleView.html?idxno=509728",
-    "http://www.newskr.kr/news/articleView.html?idxno=107336",
-    "https://www.namdonews.com/news/articleView.html?idxno=926772",
-    "https://www.tfmedia.co.kr/news/article.html?no=208209",
-    "http://www.intn.co.kr/news/articleView.html?idxno=2054212",
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=619945",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610210944118710432",
     "http://www.newstomato.com/ReadNews.aspx?no=1317470&inflow=N",
     "https://www.e-science.co.kr/news/articleView.html?idxno=137816",
     "https://www.hankookilbo.com/news/article/A2026102111080003700?did=NA",
@@ -2076,17 +2080,17 @@
     "https://www.newsis.com/view/NISX20261022_0003836022",
     "https://magazine.hankyung.com/business/article/202610227535b",
     "https://www.newsway.co.kr/news/view?ud=2026102208284836231",
-    "https://www.ajunews.com/view/20261022083316854"
+    "https://www.ajunews.com/view/20261022083316854",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4440470",
+    "https://www.news1.kr/photos/8172615",
+    "https://www.news1.kr/photos/8172616",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497459",
+    "http://www.breaknews.com/1244824",
+    "https://zdnet.co.kr/view/?no=20261022084110",
+    "https://www.newspim.com/news/view/20261022000065",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=281846"
    ],
    "seen_titles": [
-    "이재용,9월CEO브랜드평가1위…최태원·정의선뒤이어",
-    "10번밖에없었던‘우승팀의득점왕’,클리말라는11번째주인공이될...",
-    "코스피장중4%급등에매수사이드카…삼전·하이닉스'불기둥'",
-    "[뉴스워커_송언석의원]국감서드러난대기업사내주택대출6371억원…...",
-    "\"AI러닝분석·코칭지원\"…SKT,체험캠프개최",
-    "[시황]코스피4%대급등에매수사이드카발동…삼성전자·SK하이닉스강...",
-    "[2026국감]송언석의원\"정부,대기업사내주택대출전수조사해야\"",
-    "7대그룹사내주택대출6300억넘었다…4년새2배'껑충'",
     "포스코이앤씨·현대건설,중대재해보고'최다'",
     "현대모비스,세계부품사순위3년연속6위…中CATL은3위로",
     "코스피,4%대급등…매수사이드카",
@@ -3578,10 +3582,18 @@
     "KB證\"삼성전자·SK하이닉스바닥통과…'W'자반등주목\"",
     "최태원회장,'힙지로'찾았다...\"직원들과소주한잔\"",
     "LIGD&A,천궁Ⅱ수출호조에도수익성'빨간불'…목표가줄하향[애널리...",
-    "NH證\"LSELECTRIC,금리상승에목표가하향…북미·데이터센터성장성..."
+    "NH證\"LSELECTRIC,금리상승에목표가하향…북미·데이터센터성장성...",
+    "SK하이닉스주주환원과스페이스X發나스닥상승등이시각주요뉴스",
+    "SKT,원치않는해외로밍막는다",
+    "SKT,로밍이용범위직접관리하는‘T로밍안심국가’출시",
+    "엔비디아시가총액5조3495억달러…SK하이닉스ADR·마이크론도'껑충'",
+    "용인시,AI기반산불감지시스템구축",
+    "\"통신3사유심보안조치에도보호사각지대\"",
+    "[모닝리포트]\"국내증시,전날급반등에도오늘변동성전망\"",
+    "국내탄소배출권주간2.9%상승…유럽·영국은약세"
    ],
    "initialized": true,
-   "last_run": "2026-10-22T08:40:25.737909+09:00"
+   "last_run": "2026-10-22T08:45:22.501133+09:00"
   }
  },
  "press_names": {
