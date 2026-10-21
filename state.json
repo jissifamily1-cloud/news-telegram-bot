@@ -777,7 +777,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.inews24.com/view/2017216",
     "https://biz.sbs.co.kr/article_hub/20000341204?division=NAVER",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497127",
     "https://www.businessplus.kr/news/articleView.html?idxno=118482",
@@ -2276,10 +2275,10 @@
     "http://www.apparelnews.co.kr/news/news_view/?idx=228399",
     "https://www.hankyung.com/article/2026102165996",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=279373",
-    "https://www.fnnews.com/news/202610212207197701"
+    "https://www.fnnews.com/news/202610212207197701",
+    "http://www.incheonnews.com/news/articleView.html?idxno=442048"
    ],
    "seen_titles": [
-    "SKT,금감원데이터활용해보이스피싱예방고도화",
     "삼성전자6%급등…외국인매수·마이크론파업변수",
     "[개장]삼전닉스반등…코스피,장초반3%상승",
     "[특징주]美AI서버기업호실적⋯삼성전자5%·SK하이닉스7%↑",
@@ -3778,10 +3777,11 @@
     "서일,목분소재(CLC60)친환경옷걸이시장선도",
     "\"온종일주가만확인합니다\"…SK하이닉스폭등에도'한숨'[분석+]",
     "U.S.ThinkTankUrgesTradeResponseOverKoreanFines",
-    "\"韓바이오·AI역량세계최고\"…빌게이츠의게이츠재단,다음달한국..."
+    "\"韓바이오·AI역량세계최고\"…빌게이츠의게이츠재단,다음달한국...",
+    "인천지하철,5G무료와이파이구축…통신속도3배빨라졌다"
    ],
    "initialized": true,
-   "last_run": "2026-10-21T22:15:27.466980+09:00"
+   "last_run": "2026-10-21T22:20:26.571185+09:00"
   }
  },
  "press_names": {
