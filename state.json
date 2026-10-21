@@ -4,30 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-21T07:25:20.215929+09:00",
-     "알아야 경제뉴스 국내외"
-    ],
-    [
-     "2026-10-21T07:25:20.215929+09:00",
-     "증권가는 삼성전자 전망 삼전닉스 급락했는데 장밋빛"
-    ],
-    [
-     "2026-10-21T07:25:20.215929+09:00",
-     "EUV 삼성 포커스 차세대 ASML 2028년 총력전 가동률"
-    ],
-    [
-     "2026-10-21T07:30:32.873324+09:00",
-     "상승 휘청 코스피 없이도 악재 반납 2거래일"
-    ],
-    [
-     "2026-10-21T07:30:32.873324+09:00",
-     "얼라인 보유 지분 공개 미반영 하이닉스 가치"
-    ],
-    [
-     "2026-10-21T07:30:32.873324+09:00",
-     "건가 중국 도시바 한국 배터리 제2의 무서운"
-    ],
-    [
      "2026-10-21T07:35:20.072568+09:00",
      "5연승 막았다 신고 전관장"
     ],
@@ -1162,15 +1138,17 @@
     [
      "2026-10-21T13:25:19.505032+09:00",
      "해법 HBM만으론 시대 제시 SK하이닉스 HBF CXL 한계 에이전트"
+    ],
+    [
+     "2026-10-21T13:30:33.118524+09:00",
+     "반도체 3조 광주 앰코 투자까지 아니다 아남산업서 처음"
+    ],
+    [
+     "2026-10-21T13:30:33.118524+09:00",
+     "유도훈 만드는 박정웅 키우기 감독의 것이 국가대표"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=04611686645614888&mediaCodeNo=257",
-    "https://www.obsnews.co.kr/news/articleView.html?idxno=1541074",
-    "https://www.edaily.co.kr/News/Read?newsId=04585446645614888&mediaCodeNo=257",
-    "https://www.obsnews.co.kr/news/articleView.html?idxno=1541073",
-    "http://www.newsdream.kr/news/articleView.html?idxno=120412",
-    "http://www.yonhapnewstv.co.kr/news/AKR20261020171213uNX",
     "https://www.dkilbo.com/news/articleView.html?idxno=557809",
     "https://www.biotimes.co.kr/news/articleView.html?idxno=35423",
     "https://www.smartbizn.com/news/articleView.html?idxno=157027",
@@ -2664,14 +2642,15 @@
     "https://www.etoday.co.kr/news/view/2638352",
     "https://www.dt.co.kr/article/12090366",
     "https://www.joongang.co.kr/article/25471568",
-    "https://www.theguru.co.kr/news/article.html?no=108580"
+    "https://www.theguru.co.kr/news/article.html?no=108580",
+    "http://www.newsprime.co.kr/news/article.html?no=751810",
+    "https://www.globalepic.co.kr/view.php?ud=20261021132259997348439a4874_29",
+    "https://www.yna.co.kr/view/PYH20261021120800013?input=1196m",
+    "https://www.yna.co.kr/view/PYH20261021120700013?input=1196m",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000075420",
+    "https://www.nocutnews.co.kr/news/6594795"
    ],
    "seen_titles": [
-    "[단독]SK그룹,美반도체로비에30만달러…발라드파트너스첫비용공...",
-    "[데스크가만났습니다]이갑수이노메트리대표,“안보이는내부를본...",
-    "이러다'동전주'될판…SK하닉단일레버리지,5천원도하회",
-    "NH투자증권,퇴직연금전용ELS100호발행…고객이벤트실시",
-    "이틀반등하루만에반납…코스피3.73%급락,5550선후퇴",
     "안성시의회“SK하이닉스방류철회·상생협약파기해야”",
     "프랑스폭동에트럼프매도까지…코스피,5500선간신히지켜",
     "엘리스폭락,외신도주목…\"韓증시AI탄광속카나리아\"",
@@ -4166,10 +4145,15 @@
     "매수사이드카발동후숨고른코스피…5600선후반등락",
     "SK렌터카·삼성화재,차량·보험데이터결합…미래모빌리티협력",
     "자선단체협‘공익활동임팩트어워드’개최…우수사례30건공유",
-    "SK하이닉스\"에이전트AI시대HBM만으론한계\"…HBF·CXL해법제시"
+    "SK하이닉스\"에이전트AI시대HBM만으론한계\"…HBF·CXL해법제시",
+    "경남도,공공기관2차이전승부…\"기존청사활용예산낭비막는다\"",
+    "SK텔레콤·금감원보이스피싱예방협력확대",
+    "SKT-금융감독원,금융의날앞두고보이스피싱피해예방나서",
+    "'광주반도체,처음아니다…아남산업서앰코3조투자까지",
+    "유도훈감독의박정웅키우기\"국가대표만드는것이꿈\""
    ],
    "initialized": true,
-   "last_run": "2026-10-21T13:25:19.505032+09:00"
+   "last_run": "2026-10-21T13:30:33.118524+09:00"
   }
  },
  "press_names": {
