@@ -338,12 +338,21 @@
     [
      "2026-10-22T00:35:21.524547+09:00",
      "공장서 낸드 생산 삼성전자 첨단 SK하이닉스"
+    ],
+    [
+     "2026-10-22T00:55:20.789898+09:00",
+     "포착 한잔 직원들과 을지로 최태원 노포서 회식 소주"
+    ],
+    [
+     "2026-10-22T00:55:20.789898+09:00",
+     "한국이 격전지인 HBM은 최고 주도"
+    ],
+    [
+     "2026-10-22T00:55:20.789898+09:00",
+     "시장 이젠 반도체 키운 만들고 중국이 노린다 한국 대만이"
     ]
    ],
    "seen_urls": [
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=395846",
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=241018",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=449868",
     "https://biz.chosun.com/topics/law_firm/2026/10/21/WDVIEJRS7NBIFMNKZLN5SO6BA4/",
     "https://www.fnnews.com/news/202610210931281681",
     "https://www.thebigdata.co.kr/view.php?ud=202610211001223844df3c2a17b7_23",
@@ -1840,12 +1849,12 @@
     "http://www.inews24.com/view/2007695",
     "https://www.chosun.com/economy/economy_general/2026/10/22/VDOAS6AI25EIDKEDA7MLT3ZSPY/",
     "https://www.news2day.co.kr/article/20261021500174",
-    "http://www.inews24.com/view/2017620"
+    "http://www.inews24.com/view/2017620",
+    "http://www.inews24.com/view/2017622",
+    "https://www.chosun.com/economy/tech_it/2026/10/22/QRB33FRQXJDNTANQ35GBOOIF2M/",
+    "https://www.chosun.com/economy/tech_it/2026/10/22/GVDDHYVN3FHFJGXKBGGWMHBYKM/"
    ],
    "seen_titles": [
-    "전력거래소,아카데미열고미취업청년구직적극지원한다",
-    "월급외수입많다면‘건보료’폭탄주의…소득정산전국민확대",
-    "세종이전'9929명'…조상호\"행정수도특별법제정해야\"",
     "[테오도르의기술적분석]코스피와주요종목(10월21일)",
     "SKT,금감원과보이스피싱예방나선다…AI탐지기술강화",
     "KB증권\"마이크론대만공장파업예고,삼성전자·SK하이닉스반사이익...",
@@ -3342,10 +3351,13 @@
     "SK하이닉스,40조자사주매입한달앞당겨완료…전량소각예정",
     "7대그룹계열사사내주택대출3년여만에2배,6370억원달해",
     "[미네르바의눈]물류단상(物流斷想):38도선의두끝,포르투갈에서묻...",
-    "\"삼성전자·SK하이닉스,中공장서첨단낸드생산추진\""
+    "\"삼성전자·SK하이닉스,中공장서첨단낸드생산추진\"",
+    "최태원,직원들과'소주한잔'…을지로노포서회식포착",
+    "최고격전지인HBM은한국이주도",
+    "美가만들고한국·대만이키운반도체시장…이젠중국이노린다"
    ],
    "initialized": true,
-   "last_run": "2026-10-22T00:50:28.859250+09:00"
+   "last_run": "2026-10-22T00:55:20.789898+09:00"
   }
  },
  "press_names": {
