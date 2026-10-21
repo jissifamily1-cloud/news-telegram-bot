@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-21T05:55:20.544470+09:00",
-     "지분 종속회사 APOC SK가스 처분 완료"
-    ],
-    [
-     "2026-10-21T06:00:42.340418+09:00",
-     "우량주 데일리국제금 112달러 반도체주 상승 장중 하락 브렌트유"
-    ],
-    [
      "2026-10-21T06:05:19.249354+09:00",
      "메트로신문 10월 21일자 한줄뉴스"
     ],
@@ -1330,13 +1322,13 @@
     [
      "2026-10-21T11:55:20.350542+09:00",
      "구독 SKT 이모티콘 쓰겠어요 얼마면 KT 문자"
+    ],
+    [
+     "2026-10-21T12:00:43.512870+09:00",
+     "로켓 한국서도 최근5년 장전 로비력 이어 국회출신 영입 쿠팡"
     ]
    ],
    "seen_urls": [
-    "http://www.inews24.com/view/2017044",
-    "https://www.kmib.co.kr/article/20261020501463",
-    "https://www.mediapen.com/news/view/1131321",
-    "https://www.ytn.co.kr/_ln/0102_202610201636293675",
     "https://www.namdonews.com/news/articleView.html?idxno=926689",
     "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91422",
     "https://www.bntnews.co.kr/article/view/bnt202610200241",
@@ -2832,13 +2824,13 @@
     "https://www.etnews.com/20261021000181",
     "https://www.news1.kr/finance/general-stock/6327067",
     "http://www.breaknews.com/1244547",
-    "https://biz.sbs.co.kr/article_hub/20000341243?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000341243?division=NAVER",
+    "https://www.the-pr.co.kr/news/articleView.html?idxno=62979",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=874671",
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=90722",
+    "https://www.munhwa.com/article/11625113"
    ],
    "seen_titles": [
-    "\"루크가사라졌다\"…디즈니16년,포스가함께하기를[피플]",
-    "'연금저축도연말혜택'…키움증권,수수료우대·지원금제공",
-    "코스피3.7%급락마감…코스닥도3.3%하락",
-    "코스피,다시급락한진짜이유...김정은사망설은'근거없는루머'",
     "코스피,하루만에3.73%급락해5600선붕괴…이틀상승분모두반납",
     "[마감]코스피,하루만에반등분반납…현대로템-13%",
     "SK텔레콤주가,10월20일애프터마켓76,900원2.04%하락",
@@ -4334,10 +4326,14 @@
     "SKT·금감원,보이스피싱예방협력…AI탐지기술고도화",
     "코스피4%급등에두달만에매수사이드카…5800선회복[장중시황]",
     "근로시간규제풀면,공장30%신축효과가날것!",
-    "\"문자이모티콘,얼마면쓰겠어요?\"…SKT·KT구독추진"
+    "\"문자이모티콘,얼마면쓰겠어요?\"…SKT·KT구독추진",
+    "SKT'런메이트캠프'성수서11월1일까지…AI러닝자세분석·코칭제...",
+    "SKT,금감원과금융사기차단강화…AI·통신기술총동원",
+    "SKT·금감원,AI·통신기술로보이스피싱막는다…예방교육부터탐지...",
+    "美이어한국서도‘로켓로비력’장전?…쿠팡,최근5년국회출신영입..."
    ],
    "initialized": true,
-   "last_run": "2026-10-21T11:55:20.350542+09:00"
+   "last_run": "2026-10-21T12:00:43.512870+09:00"
   }
  },
  "press_names": {
