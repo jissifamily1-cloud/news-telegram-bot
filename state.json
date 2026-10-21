@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-21T07:00:39.467503+09:00",
-     "from Herald Korea on EDITORIAL Oct The"
-    ],
-    [
-     "2026-10-21T07:00:39.467503+09:00",
-     "호조에 이란 미국 중재 기업실적 다우 기대"
-    ],
-    [
-     "2026-10-21T07:00:39.467503+09:00",
-     "수익성 트리거 여전 실적이 될까 빅테크 우려 투자"
-    ],
-    [
      "2026-10-21T07:05:23.514000+09:00",
      "3차 V1 SK에코플랜트가 가산 채운다"
     ],
@@ -1194,12 +1182,17 @@
     [
      "2026-10-21T12:50:23.291366+09:00",
      "발동 SK우 KRX서 VI 주가 도달 차례 34만원선 급등"
+    ],
+    [
+     "2026-10-21T13:00:40.780872+09:00",
+     "위축에 금리 동결론 10월 힘받는 부진 투자 주택시장"
+    ],
+    [
+     "2026-10-21T13:00:40.780872+09:00",
+     "이번에도 경남제약 증자금은 광고판으 벌린"
     ]
    ],
    "seen_urls": [
-    "http://www.financialreview.co.kr/news/articleView.html?idxno=45658",
-    "https://sports.donga.com/it/article/all/20261020/134873626/1",
-    "https://en.yna.co.kr/view/AEN20261020008400315?input=2106m",
     "http://www.rookie.co.kr/news/articleView.html?idxno=128747",
     "https://www.wikitree.co.kr/articles/1167748",
     "https://www.todayenergy.kr/news/articleView.html?idxno=304437",
@@ -2696,12 +2689,12 @@
     "http://www.weeklytoday.com/news/articleView.html?idxno=798882",
     "http://www.kdfnews.com/news/articleView.html?idxno=189644",
     "https://www.cbci.co.kr/news/articleView.html?idxno=617767",
-    "http://www.cctimes.kr/news/articleView.html?idxno=933146"
+    "http://www.cctimes.kr/news/articleView.html?idxno=933146",
+    "https://www.ziksir.com/news/articleView.html?idxno=150173",
+    "https://www.sedaily.com/article/20104266",
+    "https://www.m-i.kr/news/articleView.html?idxno=2008320"
    ],
    "seen_titles": [
-    "KB국민은행,SK하이닉스등과'반도체수출공급망강화'업무협약",
-    "하나은행,SK하이닉스·한국무역보험공사와'반도체산업수출공급망...",
-    "코스피3.7%하락···5500선도위태",
     "“모두다팔았다”…6개월만의‘110만닉스’추락,총알도끝났다고?...",
     "[국감]김문수\"호남반도체산업,고졸·전문학사6만명시급\"",
     "\"투자인프라MTS,자산관리플랫폼으로진화…자본시장에도기여\"",
@@ -4198,10 +4191,13 @@
     "[위클리오늘]SK텔레콤소식(10.21)",
     "SKT,성수동에러닝체험공간'런메이트캠프'운영",
     "[속보]SK우주가10%급등…KRX서VI두차례발동,34만원선도달",
-    "조상호세종시장\"행정수도특별법연내제정해야\"세종이전지원단가..."
+    "조상호세종시장\"행정수도특별법연내제정해야\"세종이전지원단가...",
+    "코스피,반도체주강세에4%대급등…매수사이드카발동",
+    "AI투자위축에주택시장부진...힘받는10월금리동결론",
+    "[외형성장의함정]또손벌린경남제약…증자금은이번에도광고판으..."
    ],
    "initialized": true,
-   "last_run": "2026-10-21T12:55:18.260843+09:00"
+   "last_run": "2026-10-21T13:00:40.780872+09:00"
   }
  },
  "press_names": {
