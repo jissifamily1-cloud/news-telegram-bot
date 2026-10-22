@@ -318,10 +318,13 @@
     [
      "2026-10-23T00:15:28.461149+09:00",
      "달러 5방 버디 1000만 김시우 챔피 보기 사나이 제네시스 딛고"
+    ],
+    [
+     "2026-10-23T00:20:27.515246+09:00",
+     "영향은 투입 시장 SK하이닉스 제한적 채권시장에 3조원"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/industry/general-industry/6328023",
     "https://www.newsis.com/view/NISX20261022_0003836087",
     "http://www.yonhapnewstv.co.kr/news/MYH20261022090600Wcf",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=172452",
@@ -1820,10 +1823,10 @@
     "https://www.sedaily.com/article/20105040",
     "https://www.kado.net/news/articleView.html?idxno=2079876",
     "https://www.kwnews.co.kr/article/20261018501269",
-    "https://www.ftimes.kr/news/articleView.html?idxno=40602"
+    "https://www.ftimes.kr/news/articleView.html?idxno=40602",
+    "http://www.kjdaily.com/article.php?aid=1792682031689957276"
    ],
    "seen_titles": [
-    "SKT,서울대·KAIST와손잡고AI로수학난제해결도전",
     "최태원회장,패딩조끼입고'힙지로'야장등장…SK임직원과회식",
     "AI에수학자전문지식심는다…SKT,서울대·카이스트와'A.XK2'고도화",
     "[속보]코스피1%하락…5,670선출발",
@@ -3322,10 +3325,11 @@
     "[사설]다짓고도놀리는발전소12곳…송전망속도전시급하다",
     "산업·경제인프라확충성장기반구축",
     "[창간특집]강원AI데이터센터‘성장발전심장될까…디지털창고그칠...",
-    "첫홀보기딛고버디5방…'1000만달러사나이'김시우,제네시스챔피..."
+    "첫홀보기딛고버디5방…'1000만달러사나이'김시우,제네시스챔피...",
+    "SK하이닉스,채권시장에3조원투입…시장영향은제한적"
    ],
    "initialized": true,
-   "last_run": "2026-10-23T00:15:28.461149+09:00"
+   "last_run": "2026-10-23T00:20:27.515246+09:00"
   }
  },
  "press_names": {
