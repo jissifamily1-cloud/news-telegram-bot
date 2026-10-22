@@ -1085,9 +1085,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.bloter.net/news/articleView.html?idxno=676283",
-    "https://www.cstimes.com/news/articleView.html?idxno=724808",
-    "https://www.fnnews.com/news/202610210954281750",
     "https://www.ytn.co.kr/_ln/0102_202610211639046258",
     "https://biz.sbs.co.kr/article_hub/20000341270?division=NAVER",
     "https://www.sisaweek.com/news/articleView.html?idxno=238501",
@@ -2584,12 +2581,12 @@
     "https://www.edaily.co.kr/News/Read?newsId=04182006645615544&mediaCodeNo=257",
     "https://www.newsis.com/view/NISX20261022_0003836346",
     "https://www.seoul.co.kr/news/economy/estate/2026/10/22/20261022500136?wlog_tag3=naver",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=746552"
+    "https://www.polinews.co.kr/news/articleView.html?idxno=746552",
+    "https://www.news1.kr/sports/soccer/6328604",
+    "https://news.bizwatch.co.kr/article/market/2026/10/22/0016",
+    "https://www.etnews.com/20261022000296"
    ],
    "seen_titles": [
-    "삼전닉스반등에도갈길먼주가…증권가목표가'요지부동'",
-    "SK,美웨스팅하우스지분투자'계산서'…얼마에사고무엇을얻나",
-    "이규석현대모비스사장\"자체개발반도체,3년뒤양산차적용\"",
     "삼성반도체,'원팀'넘어'코어팀'…미래기술도'정예팀'승부수던진다",
     "코스피,하루만에3.3%반등마감...\"AI투심개선\"",
     "[오후장체크포인트]삼전닉스꾸준한상승기대\"반등폭큰쪽으로선...",
@@ -4086,10 +4083,13 @@
     "마이크론,타이중노사합의…타오위안은파업예고",
     "\"반도체·농어촌기본소득·5·18헌법등전남광주현안…정부지원절...",
     "‘체크아웃없는호텔’…호텔로변신하는하이엔드아파트눈길",
-    "HBM4장비공급본격화…국내업체별공급현황"
+    "HBM4장비공급본격화…국내업체별공급현황",
+    "우승·최하위·파이널A까지…K리그1운명가를정규리그최종전",
+    "금융위원장도\"솔리다임해외상장은중복상장...이사회5대의무수행해...",
+    "이억원금융위원장“솔리다임미국상장,중복상장규제대상”"
    ],
    "initialized": true,
-   "last_run": "2026-10-22T14:25:21.448769+09:00"
+   "last_run": "2026-10-22T14:30:33.441743+09:00"
   }
  },
  "press_names": {
