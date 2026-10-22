@@ -238,11 +238,13 @@
     [
      "2026-10-23T06:35:20.026613+09:00",
      "뉴욕증시 엔비디아 영향 메타 약세 기술주 급락 혼조세"
+    ],
+    [
+     "2026-10-23T06:45:24.424648+09:00",
+     "김태원 119억원 161억원 재산 주식만 청년미래비서관"
     ]
    ],
    "seen_urls": [
-    "https://www.news2day.co.kr/article/20261022500043",
-    "https://www.nextdaily.co.kr/news/articleView.html?idxno=254071",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2483178",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=146018",
     "https://www.newspim.com/news/view/20261022000225",
@@ -1740,11 +1742,11 @@
     "https://www.sedaily.com/article/20104999",
     "https://www.sedaily.com/article/20105078",
     "http://www.econonews.co.kr/news/articleView.html?idxno=446116",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=97571"
+    "http://www.newsian.co.kr/news/articleView.html?idxno=97571",
+    "https://biz.sbs.co.kr/article_hub/20000341676?division=NAVER",
+    "https://www.kyeonggi.com/article/20261023580003"
    ],
    "seen_titles": [
-    "“개인투자자,단일종목레버리지2달반만에6조3130억원손실”",
-    "[N2롱폼]SK하이닉스도해외서‘토큰거래’…글로벌금융시장판바...",
     "SKT,원치않는국가로밍사전차단하는무료'T로밍안심국가'출시",
     "SKT,AI모델에'수학적사고력'입힌다···서울대·KAIST와난제도전",
     "코스피,장초반5700선약보합...기관·개인순매도",
@@ -3242,10 +3244,12 @@
     "[단독]이광재“잠자는대학부지에주택건설…출생아에1억씩‘국민...",
     "반등믿고물탔다가또물리나…“코스피바닥더낮을수도”[줍줍리포...",
     "뉴욕증시,기술주약세등영향혼조세⋯엔비디아4%대,메타6%대급락...",
-    "뉴욕증시,AI투자우려·유가급등에혼조…나스닥2.6%급락"
+    "뉴욕증시,AI투자우려·유가급등에혼조…나스닥2.6%급락",
+    "SK하닉,솔리다임美상장추진중단...조만간공시",
+    "김태원청년미래비서관,재산161억원…주식만119억원"
    ],
    "initialized": true,
-   "last_run": "2026-10-23T06:40:29.514688+09:00"
+   "last_run": "2026-10-23T06:45:24.424648+09:00"
   }
  },
  "press_names": {
