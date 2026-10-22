@@ -1070,12 +1070,13 @@
     [
      "2026-10-22T21:00:48.137388+09:00",
      "거래 빅텍 엘리스도 엠에스바이오 회전율 집중"
+    ],
+    [
+     "2026-10-22T21:05:22.222033+09:00",
+     "조기 제물로 결의 필승 서울 박자 우승 24일 강원 상암벌서"
     ]
    ],
    "seen_urls": [
-    "https://www.jasm.co.kr/news/view/322492/?sc=Naver",
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079639",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497467",
     "http://www.srtimes.kr/news/articleView.html?idxno=215485",
     "https://www.etnews.com/20261022000027",
     "https://www.kbmaeil.com/article/20261022500045",
@@ -2572,12 +2573,12 @@
     "https://www.mt.co.kr/society/2026/10/22/2026102219322527938",
     "https://www.topstarnews.net/news/articleView.html?idxno=16255299",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=279479",
-    "http://www.kjdaily.com/article.php?aid=1792670045690040276"
+    "http://www.kjdaily.com/article.php?aid=1792670045690040276",
+    "https://www.mk.co.kr/article/12177796",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261022205957CJn",
+    "https://www.segye.com/newsView/20261022519746?OutUrl=naver"
    ],
    "seen_titles": [
-    "[라이프체인저]쿠팡은사업을3번바꿨다…VC가믿은김범석의응변력",
-    "KB증권\"반도체주우려정점통과…11~12월코스피W자반등\"",
-    "SKT국가별로밍직접차단기술공개",
     "SKT,원치않는국가서로밍차단하는'T로밍안심국가'출시",
     "한국투자증권,ELW224종목추가…국내파생상품라인업강화",
     "[단독]마이크론“4F²D램은신화일뿐”공식포기…'3DD램·웨이퍼...",
@@ -4074,10 +4075,13 @@
     "[스코어보드-농해수위]농민한가운데두고…준비에서태어난정책국감",
     "미국중간선거민주당12%p우위…트럼프관세·이민정책제동걸리나",
     "MicronPlansQuarterlyBonusSystem",
-    "엠에스바이오회전율249%…빅텍·엘리스도거래집중"
+    "엠에스바이오회전율249%…빅텍·엘리스도거래집중",
+    "솔리다임IPO딜레마빠진SK하이닉스",
+    "코스피또급락…AI·수급·금리우려복합작용",
+    "“강원제물로조기우승못박자!”…서울,24일상암벌서필승결의"
    ],
    "initialized": true,
-   "last_run": "2026-10-22T21:00:48.137388+09:00"
+   "last_run": "2026-10-22T21:05:22.222033+09:00"
   }
  },
  "press_names": {
