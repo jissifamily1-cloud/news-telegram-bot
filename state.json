@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-22T21:30:39.325210+09:00",
-     "로밍 연결 출시 국가별 제한하는 SK텔레콤 무료 서비스"
-    ],
-    [
      "2026-10-22T21:35:22.556242+09:00",
      "SKAI 윙스풋 엠에스바이오 상한가 급등"
     ],
@@ -185,7 +181,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.finomy.com/news/articleView.html?idxno=264292",
     "https://www.cstimes.com/news/articleView.html?idxno=724877",
     "http://www.press9.kr/news/articleView.html?idxno=84660",
     "https://www.viva100.com/article/20261022500136",
@@ -1684,10 +1679,10 @@
     "https://www.kyeonggi.com/article/20261022580560",
     "https://www.newsis.com/view/NISX20261023_0003837718",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=323315",
-    "https://www.ytn.co.kr/_ln/0104_202610230327268933"
+    "https://www.ytn.co.kr/_ln/0104_202610230327268933",
+    "https://www.news1.kr/world/usa-canada/6329300"
    ],
    "seen_titles": [
-    "SKT,고객이로밍이용범위직접관리…'T로밍안심국가'출시",
     "신세계인터내셔날,원화강세에'수익성개선'기대",
     "신한투자증권\"유니셈,반도체투자확대실적성장\"",
     "SKT,국내수학·AI연구진과독파모추론능력높인다",
@@ -3186,10 +3181,11 @@
     "[사설]반도체산업은광역이다,반도체행정도광역돼야",
     "젠슨황\"2029년메모리공급과잉가능성낮아\"",
     "\"산불골든타임확보\"...용인특례시,AI산불감시망구축",
-    "젠슨황\"메모리공급과잉없다\"...중국메모리사용시사"
+    "젠슨황\"메모리공급과잉없다\"...중국메모리사용시사",
+    "젠슨황\"2029년메모리공급과잉없을것\""
    ],
    "initialized": true,
-   "last_run": "2026-10-23T03:30:38.902267+09:00"
+   "last_run": "2026-10-23T03:35:19.511044+09:00"
   }
  },
  "press_names": {
