@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-22T05:50:28.903229+09:00",
-     "나스닥 타고 스페이스X 날았다"
-    ],
-    [
-     "2026-10-22T05:50:28.903229+09:00",
-     "지하철 인천 통신 와이파이 2호선 3사 개시 서비스 5G"
-    ],
-    [
      "2026-10-22T06:00:45.286701+09:00",
      "전세계 마이크론도 대만 풀었네 노조에 K성과급 삼전닉스가 파업"
     ],
@@ -1166,17 +1158,25 @@
     [
      "2026-10-22T11:50:26.890186+09:00",
      "김문수 반도체 교육 준비 9만 인력 필요한데 부족"
+    ],
+    [
+     "2026-10-22T11:55:20.517350+09:00",
+     "K2 바꾼다 수학자들과 두뇌 SKT"
+    ],
+    [
+     "2026-10-22T11:55:20.517350+09:00",
+     "AI에 고도화 더한다 SK텔레콤 에이전트 추론 사고력 수학적"
+    ],
+    [
+     "2026-10-22T11:55:20.517350+09:00",
+     "8월엔 돌아온 들고 3조 반도체 큰손 빼더니"
+    ],
+    [
+     "2026-10-22T11:55:20.517350+09:00",
+     "긴축 고금리 은행주 속도 수혜주 조절에 풀썩 라더니"
     ]
    ],
    "seen_urls": [
-    "https://www.newsway.co.kr/news/view?ud=2026102115043067258",
-    "https://www.inews365.com/news/article.html?no=940238",
-    "http://www.joseilbo.com/news/news_read.php?uid=577869&class=17",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=303132",
-    "http://www.queen.co.kr/news/articleView.html?idxno=465059",
-    "https://www.namdonews.com/news/articleView.html?idxno=926806",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497330",
-    "https://www.sentv.co.kr/article/view/sentv202610210166",
     "https://www.ddaily.co.kr/page/view/2026102115440858261",
     "https://www.mt.co.kr/industry/2026/10/21/2026102115344043598",
     "http://www.newsprime.co.kr/news/article.html?no=751863",
@@ -2668,17 +2668,17 @@
     "https://www.todayenergy.kr/news/articleView.html?idxno=304514",
     "https://www.munhwa.com/article/11625395",
     "https://www.thepublic.kr/news/articleView.html?idxno=323292",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692412"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692412",
+    "https://www.yna.co.kr/view/AKR20261022095000003?input=1195m",
+    "https://biz.sbs.co.kr/article_hub/20000341495?division=NAVER",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261022115050UKA",
+    "http://www.newsian.co.kr/news/articleView.html?idxno=97512",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=281940",
+    "http://www.seouleconews.com/news/articleView.html?idxno=94512",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610220077&t=NN",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610220052&t=NN"
    ],
    "seen_titles": [
-    "삼전닉스가불붙인성과급전쟁…마이크론은파업,한국은노노갈등",
-    "충북도'반도체클러스터'지정총력전…산·학·연·관힘모아",
-    "中배터리해외투자900억달러…韓3사와점유율격차확대",
-    "\"신설보다1년빠르다…포스코퓨처엠,LFP10만톤선제확보로퀀텀점프...",
-    "한국대중골프장협회,전문경영인회개최…사이버보안·AI기반운영혁...",
-    "붉게물든잠실의마지막밤…타이거즈전설안고굿바이!",
-    "[거래소기관]매수상위에삼성전자·삼성바이오로직스…전력기기주도...",
-    "코스피,반도체강세에3%대반등…5700선회복",
     "코스피,반도체급등에5700선회복…매수사이드카발동",
     "국산화율5%도안되는車반도체…현대차그룹·반도체업계손잡았다",
     "코스피,外人매수·반도체株강세에'5700선탈환'…코스닥1.38%↑",
@@ -4170,10 +4170,18 @@
     "충북TP,AI반도체클러스터지정총력",
     "“2027년어게인9천피…6천아래선무조건사라”한화증권보고서",
     "수출1조달러눈앞…'사재50만달러'에서시작된한국반도체의신화",
-    "[무등의아침]김문수“반도체인력9만명필요한데준비부족…교육..."
+    "[무등의아침]김문수“반도체인력9만명필요한데준비부족…교육...",
+    "SK하이닉스,'반도체의날'동탑산업훈장등5관왕",
+    "솔리다임發규제입법…특위·정무위움직인다",
+    "한은'매파적동결'에…코스피장중낙폭확대",
+    "[2026국감]이찬진,단일종목레버리지손실에\"송구\"…졸속심사지적...",
+    "[AI트렌드]SKT,수학자들과'A.XK2'두뇌바꾼다",
+    "SK텔레콤,AI에수학적사고력더한다…에이전트추론고도화",
+    "\"8월엔발빼더니\"…'3조'들고돌아온반도체큰손",
+    "'고금리수혜주'라더니…은행주,긴축속도조절에'풀썩'"
    ],
    "initialized": true,
-   "last_run": "2026-10-22T11:50:26.890186+09:00"
+   "last_run": "2026-10-22T11:55:20.517350+09:00"
   }
  },
  "press_names": {
