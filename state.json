@@ -1278,11 +1278,13 @@
     [
      "2026-10-22T18:45:26.407626+09:00",
      "하도 엄태영 수주가 해외 국익이라면 국익 공정도"
+    ],
+    [
+     "2026-10-22T18:55:20.568775+09:00",
+     "해법 대기업과 살리기 모색 건설사 지역 부산시"
     ]
    ],
    "seen_urls": [
-    "https://www.datasom.co.kr/news/articleView.html?idxno=210454",
-    "https://biz.chosun.com/stock/stock_general/2026/10/22/HCY2VJWXDVESRADS53RNODUUPA/",
     "https://www.edaily.co.kr/News/Read?newsId=02722406645615544&mediaCodeNo=257",
     "https://www.edaily.co.kr/News/Read?newsId=02712566645615544&mediaCodeNo=257",
     "https://www.etoday.co.kr/news/view/2638643",
@@ -2780,11 +2782,11 @@
     "https://www.newsis.com/view/NISX20261022_0003837562",
     "https://www.segye.com/newsView/20261022520296?OutUrl=naver",
     "https://www.polinews.co.kr/news/articleView.html?idxno=746603",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610220183&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610220183&t=NN",
+    "https://www.kmib.co.kr/article/20261022501907",
+    "https://www.fnnews.com/news/202610221850490085"
    ],
    "seen_titles": [
-    "[전국주요신문사설](22일조간)",
-    "[분석]젠슨황의야심···AI산업금융·제조질서장악시도",
     "KB證“코스피W자바닥확인…11월~12월반등주목해야”",
     "“삼성전자·SK하이닉스바닥확인…11~12월W자반등”",
     "에스엠,3분기주춤해도내년은달라…라이즈·NCT월드투어기대-SK",
@@ -4282,10 +4284,12 @@
     "삼성·SK·포스코,PHP해킹사태에보안패치등긴급선제대응나서",
     "이억원“레버리지ETF무거운마음”…폐지엔선그어",
     "[2026국감-국토위]엄태영\"수주가국익이라면공정도국익\"⋯해외하도...",
-    "\"삼전닉스처럼달라\"요구에…'분기성과급'신설한마이크론"
+    "\"삼전닉스처럼달라\"요구에…'분기성과급'신설한마이크론",
+    "이억원“솔리다임美상장도규제대상”…여야,보완책촉구",
+    "부산시,지역건설사살리기대기업과해법모색"
    ],
    "initialized": true,
-   "last_run": "2026-10-22T18:50:32.222134+09:00"
+   "last_run": "2026-10-22T18:55:20.568775+09:00"
   }
  },
  "press_names": {
