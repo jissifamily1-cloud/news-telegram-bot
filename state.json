@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-22T07:45:23.337125+09:00",
-     "연료전지 협력 마스턴운용 투자유치 확대 외국인 DC"
-    ],
-    [
      "2026-10-22T07:50:26.191056+09:00",
      "장비계약 39억 SK하이닉스와 위드텍 규모"
     ],
@@ -1054,14 +1050,13 @@
     [
      "2026-10-22T13:45:23.195404+09:00",
      "핑계댄 산업부장관의 포기 구글도 거짓말 RE100"
+    ],
+    [
+     "2026-10-22T13:50:24.607307+09:00",
+     "달성 이렇 출전 기록 K리그 백동규의 감격 300경기"
     ]
    ],
    "seen_urls": [
-    "http://www.nongaek.com/news/articleView.html?idxno=97196",
-    "http://www.newsdream.kr/news/articleView.html?idxno=120524",
-    "https://www.yna.co.kr/view/AKR20261021134800008?input=1195m",
-    "http://www.finomy.com/news/articleView.html?idxno=264252",
-    "http://www.fieldnews.kr/news/articleView.html?idxno=32433",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610211556425320573",
     "https://www.newsinside.kr/news/articleView.html?idxno=5029906",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482930",
@@ -2556,14 +2551,14 @@
     "https://www.thelec.kr/news/articleView.html?idxno=64100",
     "https://www.etoday.co.kr/news/view/2638917",
     "https://www.bloter.net/news/articleView.html?idxno=676332",
-    "https://www.newspenguin.com/news/articleView.html?idxno=22331"
+    "https://www.newspenguin.com/news/articleView.html?idxno=22331",
+    "https://www.ajunews.com/view/20261022134237107",
+    "http://www.4th.kr/news/articleView.html?idxno=2120203",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=53879",
+    "http://www.newslock.co.kr/news/articleView.html?idxno=138445",
+    "https://www.goal.com/kr/뉴스/a/bltbbdd7f845f913351"
    ],
    "seen_titles": [
-    "[논평]호남반도체지원'초광역특구법안'의지주사규제완화는SK에특...",
-    "AI인프라투자회의론재점화…반도체업황전망엇갈려",
-    "코스피,AI투자심리회복에3.3%급등마감…삼전닉스5%↑(종합)",
-    "현대모비스,차량용반도체13종개발착수",
-    "곽노정SK하이닉스사장,AI메모리성과에부회장승진론부상…HBM격...",
     "코스피,외국인‘사자’에3%대급등5700선안착",
     "삼성화재,SK렌터카와미래모빌리티사업맞손",
     "급락충격털어낸코스피,하루만에3%반등",
@@ -4058,10 +4053,15 @@
     "김영부큐알티회장,반도체의날동탑산업훈장수상",
     "코스피,외국인·기관매도에3%대하락…반도체·이차전지동반약세",
     "[플랫폼자율주행해부]③쏘카,15년사고데이터에크래프톤'화력'",
-    "\"구글도RE100포기\"AI핑계댄산업부장관의'거짓말'"
+    "\"구글도RE100포기\"AI핑계댄산업부장관의'거짓말'",
+    "[특징주]美반도체주올랐는데…삼성전자·SK하이닉스급락",
+    "로밍쓸나라직접고른다..SKT,'T로밍안심국가'출시",
+    "SKT,수학난제도전으로독파모'A.XK2'추론력높인다",
+    "SKT,서울대·KAIST와수학난제연구...A.XK2추론역량강화",
+    "[GOAL인터뷰]‘K리그300경기출전기록달성’백동규의감격,“이렇..."
    ],
    "initialized": true,
-   "last_run": "2026-10-22T13:45:23.195404+09:00"
+   "last_run": "2026-10-22T13:50:24.607307+09:00"
   }
  },
  "press_names": {
