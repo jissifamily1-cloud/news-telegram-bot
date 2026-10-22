@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-22T23:15:28.296565+09:00",
-     "낡은 만에 뚫는데 규제에 1분 막힌 해킹은"
-    ],
-    [
      "2026-10-22T23:50:28.180301+09:00",
      "온천 공략 SK스토아 하나투어와 선봬 여행상품 설경 패키지 일본"
     ],
@@ -210,10 +206,13 @@
     [
      "2026-10-23T05:10:34.735898+09:00",
      "통합시 더한 남부권 교육 문화에 경제 남구 중심도시"
+    ],
+    [
+     "2026-10-23T05:15:30.366123+09:00",
+     "하이닉스 가지 삼성전자 급락 하락할"
     ]
    ],
    "seen_urls": [
-    "https://www.viva100.com/article/20261021501239",
     "http://www.popcornnews.net/news/articleView.html?idxno=136876",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=319410",
     "https://vop.co.kr/A00001697261.html",
@@ -1712,10 +1711,10 @@
     "https://www.etoday.co.kr/news/view/2638879",
     "https://www.joongang.co.kr/article/25472153",
     "https://www.mediapen.com/news/view/1131878",
-    "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/10/23/20261023022002?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/10/23/20261023022002?wlog_tag3=naver",
+    "https://www.newsverse.kr/news/articleView.html?idxno=11738"
    ],
    "seen_titles": [
-    "코스피,뉴욕증시훈풍에도5700선붕괴…코스닥도약세",
     "[브릿지칼럼]신산업과고속교통망,그리고도시공간구조전환",
     "우리금융,3분기CET1'14%'넘본다…추가자본배분계획은",
     "KBCSD,제18회리더스포럼개최…AI와녹색전환융합해법모색",
@@ -3214,10 +3213,11 @@
     "JP모건도비트코인재평가…해외ETF진화하지만국내는‘주춤’",
     "“AI잘써요?결과도검증해보세요”…확바뀐대기업신입의조건[팩...",
     "[美증시]반도체투매,메모리폭락…램리서치가이던스실망에메타악...",
-    "교육·문화에경제더한남구…통합시‘남부권중심도시’로"
+    "교육·문화에경제더한남구…통합시‘남부권중심도시’로",
+    "[오늘의경제뉴스]삼성전자17%하락할때하이닉스34%급락…세가지..."
    ],
    "initialized": true,
-   "last_run": "2026-10-23T05:10:34.735898+09:00"
+   "last_run": "2026-10-23T05:15:30.366123+09:00"
   }
  },
  "press_names": {
