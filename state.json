@@ -4,38 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-22T14:05:20.405341+09:00",
-     "반도체 광주 4조 제출 컨트롤 산업부 인프라"
-    ],
-    [
-     "2026-10-22T14:05:20.405341+09:00",
-     "제주 SKY 우승컵 4개교 놓고 League 고교 격돌"
-    ],
-    [
-     "2026-10-22T14:05:20.405341+09:00",
-     "찾아야 금리 방향 따라 돈의 인하만 아니다 다음 주도주 기다릴"
-    ],
-    [
-     "2026-10-22T14:05:20.405341+09:00",
-     "늘지만 빅테크 구매 줄어 공급 여력 메모리 2028년"
-    ],
-    [
-     "2026-10-22T14:05:20.405341+09:00",
-     "HBM은 계산하고 고객과 메모리가 직접 함께 포스트"
-    ],
-    [
-     "2026-10-22T14:05:20.405341+09:00",
-     "상대 베벨 승소 에처 램리서치 PSK 특허침해소송"
-    ],
-    [
-     "2026-10-22T14:05:20.405341+09:00",
-     "클립스컨설팅 OSCAR 특화 개설 자격과정 KAC 커리어"
-    ],
-    [
-     "2026-10-22T14:05:20.405341+09:00",
-     "GPU 마이크론도 HBM 쌓는다 삼전닉스 전쟁"
-    ],
-    [
      "2026-10-22T14:10:24.440645+09:00",
      "따져보니 제각각 통신3사 보상 아이폰 듀오 조건"
     ],
@@ -1250,11 +1218,13 @@
     [
      "2026-10-22T19:55:26.634797+09:00",
      "데이터센터"
+    ],
+    [
+     "2026-10-22T20:05:22.094053+09:00",
+     "서둘러 닫았다 단일종목 레버리지의 6조원 열고 뒤늦게"
     ]
    ],
    "seen_urls": [
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=91502",
-    "http://www.press9.kr/news/articleView.html?idxno=84656",
     "https://www.news1.kr/finance/market-exr/6327973",
     "https://www.newsway.co.kr/news/view?ud=2026102208261000994",
     "https://www.ziksir.com/news/articleView.html?idxno=150294",
@@ -2752,11 +2722,11 @@
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20261023.22018006710",
     "https://econotimes.com/HBM-Production-Adds-to-Pressure-on-Conventional-DRAM-Supply-1760119",
     "https://www.danbinews.com/news/articleView.html?idxno=34011",
-    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000556415"
+    "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000556415",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=279475",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497732"
    ],
    "seen_titles": [
-    "[온체인주식선물]SK하이닉스,정규장종가보다1.68%할인",
-    "\"해외로밍도고객이직접관리\"…SKT,국내최초'T로밍안심국가'출...",
     "SKT,원치않는해외로밍막는다…'T로밍안심국가'출시",
     "KB증권\"반도체주,우려의정점통과…11~12월W자반등전망\"",
     "삼성전자·SK하이닉스역대급저평가…11월부터'W자반등'전망[애널리...",
@@ -4254,10 +4224,12 @@
     "[이홍의세상현미경]대규모대미투자,기회인가위협인가",
     "HBMProductionAddstoPressureonConventionalDRAMSupply",
     "AI데이터센터",
-    "‘힙지로야장’간최태원회장…“여기계실때냐”"
+    "‘힙지로야장’간최태원회장…“여기계실때냐”",
+    "BankofKoreaFreezesBaseRate",
+    "[데스크칼럼]서둘러열고뒤늦게닫았다…단일종목레버리지의6조원..."
    ],
    "initialized": true,
-   "last_run": "2026-10-22T20:00:46.357777+09:00"
+   "last_run": "2026-10-22T20:05:22.094053+09:00"
   }
  },
  "press_names": {
