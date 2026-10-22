@@ -230,10 +230,13 @@
     [
      "2026-10-23T01:20:29.013014+09:00",
      "자리 인천 파이널A 제주 vs 승부 없는 마지막 놓고"
+    ],
+    [
+     "2026-10-23T02:10:26.691930+09:00",
+     "자본시장이 뒤통수치지 말아야 코스피 투자자 저평가"
     ]
    ],
    "seen_urls": [
-    "https://www.viva100.com/article/20261022500204",
     "https://www.gukjenews.com/news/articleView.html?idxno=3728933",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4440491",
     "https://www.newsis.com/view/NISX20261022_0003836146",
@@ -1732,10 +1735,10 @@
     "https://www.chosun.com/economy/industry-company/2026/10/23/QRLSKSZO4JHQRJHWJ7O6W27XOY/",
     "http://www.paxetv.com/news/articleView.html?idxno=284963",
     "http://www.ccnnews.co.kr/news/articleView.html?idxno=416653",
-    "https://www.kmib.co.kr/article/20261022502111"
+    "https://www.kmib.co.kr/article/20261022502111",
+    "https://www.kmib.co.kr/article/20261022502272"
    ],
    "seen_titles": [
-    "코스피,美기술주강세에도반도체약세…5670.11출발[개장시황]",
     "[개장시황]코스피,뉴욕증시상승에도0.5%하락⋯5700선약세",
     "용인,산불감시CCTV에AI연기감지시스템도입…초기대응강화",
     "[솔리다임논란①]SK하이닉스던지는외국인…한달째16조줄매도",
@@ -3234,10 +3237,11 @@
     "美기업,집단소송방어비만연6조원",
     "이억원\"솔리다임美상장,중복상장규제대상…SK하이닉스·스퀘어의...",
     "조상호세종시장,'경제·행정2수도'시대개막선언",
-    "파이널A마지막한자리놓고…제주vs인천‘질수없는승부’"
+    "파이널A마지막한자리놓고…제주vs인천‘질수없는승부’",
+    "“코스피저평가…韓자본시장이투자자뒤통수치지말아야”"
    ],
    "initialized": true,
-   "last_run": "2026-10-23T02:05:22.233000+09:00"
+   "last_run": "2026-10-23T02:10:26.691930+09:00"
   }
  },
  "press_names": {
