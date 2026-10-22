@@ -338,12 +338,17 @@
     [
      "2026-10-23T07:25:22.041669+09:00",
      "멈춘 갈등 마이크론 달래고 대만 타오위안 절반뿐 봉합은 타이중"
+    ],
+    [
+     "2026-10-23T07:30:34.585567+09:00",
+     "55조 자사주 끝나자 주가부 급락 삼전닉스 다한 다음 매입 약발"
+    ],
+    [
+     "2026-10-23T07:30:34.585567+09:00",
+     "경제뉴스 알아야 국내외"
     ]
    ],
    "seen_urls": [
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277496&CMPT_CD=P0010",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497506",
-    "https://www.hidomin.com/news/articleView.html?idxno=725990",
     "https://www.munhwa.com/article/11625323",
     "https://www.socialvalue.kr/news/view/1065573545303895",
     "http://www.newsprime.co.kr/news/article.html?no=751945",
@@ -1840,12 +1845,12 @@
     "https://dealsite.co.kr/articles/170997",
     "https://www.g-enews.com/view.php?ud=202610230717254966e250e8e188_1",
     "http://www.newsian.co.kr/news/articleView.html?idxno=97580",
-    "https://www.g-enews.com/view.php?ud=202610230716413318fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202610230716413318fbbec65dfb_1",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497777",
+    "https://www.munhwa.com/article/11625619",
+    "https://www.fntimes.com/html/view.php?ud=202610230708205993141825007d_18"
    ],
    "seen_titles": [
-    "코스피,장초반반도체주약세에증시'숨고르기'",
-    "비내리는공원에서시작된생명돌봄",
-    "AI데이터센터전력난에SOFC주요동…비나텍주가'폭등쇼'",
     "코스피,급등하루만에차익실현매물…반도체주약세에5700선내줘",
     "“회장님,지금여기계실때가”최태원을지로목격담",
     "한화M&S김동선사장,공개매수31%로확대…소액주주참여기회넓힌다",
@@ -3342,10 +3347,13 @@
     "[K-금융글로벌전략2026][폴란드·헝가리]국경넘은K기업공급망…...",
     "램리서치발'공급망병목'쇼크…SK하이닉스ADR8.07%폭락",
     "삼전·하닉내년초성과급60조전망…한은\"소비확산엔시간\"",
-    "타이중달래고타오위안멈춘마이크론,대만팹갈등봉합은절반뿐"
+    "타이중달래고타오위안멈춘마이크론,대만팹갈등봉합은절반뿐",
+    "SK하이닉스ADR8%넘게빠졌다…마이크론·AMD도'와르르'",
+    "‘약발’다한삼전닉스?…55조자사주매입끝나자급락,다음주가부...",
+    "[KFT모닝브리프]2026.10.23—오늘꼭알아야할국내외경제뉴스"
    ],
    "initialized": true,
-   "last_run": "2026-10-23T07:25:22.041669+09:00"
+   "last_run": "2026-10-23T07:30:34.585567+09:00"
   }
  },
  "press_names": {
