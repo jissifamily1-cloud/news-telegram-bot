@@ -237,10 +237,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/economy/securities/2026/10/22/20261022500020?wlog_tag3=naver",
-    "http://www.econonews.co.kr/news/articleView.html?idxno=446072",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709027",
-    "https://www.etnews.com/20261022000044",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709026",
     "http://www.datanews.co.kr/news/article.html?no=147028",
     "https://www.techm.kr/news/articleView.html?idxno=156369",
@@ -1736,13 +1732,13 @@
     "http://www.beyondpost.co.kr/view.php?ud=2026102305313073952aaae0046f_30",
     "https://www.sedaily.com/article/20105126",
     "https://www.mediapen.com/news/view/1131880",
-    "https://www.the-today.com/news/articleView.html?idxno=92234"
+    "https://www.the-today.com/news/articleView.html?idxno=92234",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4440716",
+    "https://www.joongang.co.kr/article/25472173",
+    "https://view.asiae.co.kr/article/2026102304590245652",
+    "https://biz.newdaily.co.kr/site/data/html/2026/10/23/2026102300012.html"
    ],
    "seen_titles": [
-    "[서울데이터랩]코스피,장초반낙폭줄이며5670.11로출발…외국인순...",
-    "거래대금1·2위는SK하이닉스·삼성전자…삼성SDI2.53%하락",
-    "SKT,로밍이용범위직접관리하는'T로밍안심국가'출시",
-    "SKT,'A.XK2'수학추론능력높인다…서울대·KAIST와협력",
     "SKT,서울대·KAIST와수학난제연구…독자AI모델추론성능강화",
     "원치않는국가로밍접속차단…SKT,'T로밍안심국가'출시",
     "SK텔레콤,13년만에영업이익2조원예약",
@@ -3238,10 +3234,14 @@
     "필라델피아반도체지수6.7%,마이크론6.2%↓...반도체빅테크주,AI투자...",
     "메타‘1000조원’지출계약에나스닥와르르...브렌트113달러[데일리국...",
     "[美증시]메타·램리서치'어퍼컷'에나스닥급락…소비재선전다우는...",
-    "[단독]SK온헝가리이반차팹인력감원…회사\"사업여건맞춘불가피..."
+    "[단독]SK온헝가리이반차팹인력감원…회사\"사업여건맞춘불가피...",
+    "[뉴욕증시]메타,AI의늪에빠져드나…나스닥2.6%급락",
+    "젠슨황“2029년메모리공급과잉?…메모리는다다익선”",
+    "[뉴욕증시]AI투자우려에나스닥2.6%급락",
+    "'메타發쇼크'에AI투자회의론고조,美나스닥또급락…韓'검은금..."
    ],
    "initialized": true,
-   "last_run": "2026-10-23T05:55:20.377210+09:00"
+   "last_run": "2026-10-23T06:00:46.259646+09:00"
   }
  },
  "press_names": {
