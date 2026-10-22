@@ -226,10 +226,13 @@
     [
      "2026-10-23T05:35:24.403865+09:00",
      "급락에 하락 반도체주 스페이스X 나스닥"
+    ],
+    [
+     "2026-10-23T05:40:27.946907+09:00",
+     "AI투자 마이크론 반도체 빅테크주 필라델피아반도체지수"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20261022084526916",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497491",
     "https://www.g-enews.com/view.php?ud=202610220915326212923c501012_1",
     "https://www.seoul.co.kr/news/economy/securities/2026/10/22/20261022500019?wlog_tag3=naver",
@@ -1728,10 +1731,10 @@
     "http://www.choicenews.co.kr/news/articleView.html?idxno=172484",
     "https://www.news2day.co.kr/article/20261022500121",
     "https://www.sedaily.com/article/20105125",
-    "https://www.kmib.co.kr/article/20261023500009"
+    "https://www.kmib.co.kr/article/20261023500009",
+    "http://www.beyondpost.co.kr/view.php?ud=2026102305313073952aaae0046f_30"
    ],
    "seen_titles": [
-    "코스피,뉴욕증시상승에도하락출발...외국인매수에낙폭축소",
     "조혜련\"SK하이닉스,400만원간다길래매수했는데...\"",
     "코스피,장초반5700선등락...삼성전기5%대급등·건설주강세",
     "美빅테크호실적vs차익실현…코스피,5700선서방향성탐색",
@@ -3230,10 +3233,11 @@
     "미국증시반도체ETF'대폭락'...AI칩·메모리·칩장비주'곤두박질'",
     "[N2모닝경제브리핑-10월23일]美증시,AI투자수익성우려에기술...",
     "“韓AI인재여,테슬라오라”던머스크...채용공고에반영된사업재...",
-    "[속보]스페이스X9.14%↓…AI·반도체주급락에나스닥하락"
+    "[속보]스페이스X9.14%↓…AI·반도체주급락에나스닥하락",
+    "필라델피아반도체지수6.7%,마이크론6.2%↓...반도체빅테크주,AI투자..."
    ],
    "initialized": true,
-   "last_run": "2026-10-23T05:35:24.403865+09:00"
+   "last_run": "2026-10-23T05:40:27.946907+09:00"
   }
  },
  "press_names": {
