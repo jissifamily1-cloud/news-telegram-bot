@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-23T07:25:22.041669+09:00",
-     "원화는 주가 강할까 빠졌는데"
-    ],
-    [
-     "2026-10-23T07:25:22.041669+09:00",
-     "공급망 넘은 국경 K기업"
-    ],
-    [
-     "2026-10-23T07:25:22.041669+09:00",
-     "SK하이닉스 ADR 쇼크 폭락 램리서치발 병목 공급망"
-    ],
-    [
-     "2026-10-23T07:25:22.041669+09:00",
-     "성과급 확산엔 한은 시간 하닉 60조 소비 내년 삼전 전망"
-    ],
-    [
-     "2026-10-23T07:25:22.041669+09:00",
-     "멈춘 갈등 마이크론 달래고 대만 타오위안 절반뿐 봉합은 타이중"
-    ],
-    [
      "2026-10-23T07:30:34.585567+09:00",
      "55조 자사주 끝나자 주가부 급락 삼전닉스 다한 다음 매입 약발"
     ],
@@ -1106,13 +1086,13 @@
     [
      "2026-10-23T13:25:19.052842+09:00",
      "발동 2000원선 VI SK증권 앞둔 주가 상승하며 장서 주말"
+    ],
+    [
+     "2026-10-23T13:30:33.652347+09:00",
+     "관악 최하위권 1인가구 자산지수는 서울 가장 1인가구의 많은"
     ]
    ],
    "seen_urls": [
-    "https://www.thereport.co.kr/news/articleView.html?idxno=92572",
-    "http://www.kdfnews.com/news/articleView.html?idxno=189766",
-    "https://www.nocutnews.co.kr/news/6595748",
-    "https://biz.heraldcorp.com/article/10911710",
     "http://weekly.chosun.com/news/articleView.html?idxno=56427",
     "https://www.newscj.com/news/articleView.html?idxno=3442382",
     "https://www.m-economynews.com/news/article.html?no=71995",
@@ -2608,13 +2588,13 @@
     "https://www.businessplus.kr/news/articleView.html?idxno=118635",
     "https://www.incheontoday.com/news/articleView.html?idxno=325355",
     "https://www.mt.co.kr/stock/2026/10/23/2026102313191913950",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=618635"
+    "https://www.cbci.co.kr/news/articleView.html?idxno=618635",
+    "https://www.donga.com/news/Economy/article/all/20261023/134895641/1",
+    "https://www.sedaily.com/article/20105315",
+    "https://www.yna.co.kr/view/AKR20261023091700004?input=1195m",
+    "http://www.dailypop.kr/news/articleView.html?idxno=103554"
    ],
    "seen_titles": [
-    "진보당'호남반도체전도사'자처…삼성전사장등특강",
-    "\"증시로돈은끌어왔는데\"...역대급변동성장세에개인손실'눈덩이'",
-    "한수원노조·시민단체“신규원전지연책임규명해야”…청와대·국회...",
-    "경북공공와이파이163곳,석달간접속'0'",
     "[에코칼럼]호남반도체를되돌릴수없게만드는RE100",
     "국감출석앞둔홍범식LG유플러스대표…해킹·증거인멸의혹에'진땀...",
     "이억원금융위원장\"솔리다임美상장도규제대상적용\"",
@@ -4110,10 +4090,14 @@
     "[영상]SK하이닉스,솔리다임美상장추진중단'주주가치우선'",
     "인천시,송도글로벌신약허브선포···삼성바이오·릴리와MOU",
     "SK하이닉스,2%대상승…솔리다임IPO검토중단영향",
-    "[속보]SK증권,주말앞둔장서VI발동…주가3%대상승하며2000원선상..."
+    "[속보]SK증권,주말앞둔장서VI발동…주가3%대상승하며2000원선상...",
+    "대만노조이익공유요구에…마이크론,‘분기성과급’신설",
+    "SK하이퍼,AI데이터센터구축위해460조자금조달추진",
+    "공소청,'노태우비자금의혹'이병기前청와대의전비서관소환",
+    "서울1인가구의돈⑥1인가구가장많은관악...자산지수는최하위권"
    ],
    "initialized": true,
-   "last_run": "2026-10-23T13:25:19.052842+09:00"
+   "last_run": "2026-10-23T13:30:33.652347+09:00"
   }
  },
  "press_names": {
