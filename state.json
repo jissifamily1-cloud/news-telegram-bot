@@ -506,10 +506,13 @@
     [
      "2026-10-23T21:55:24.108375+09:00",
      "삼성전자 거래 SK하이닉스 반토막 대로 비중"
+    ],
+    [
+     "2026-10-23T22:15:24.042924+09:00",
+     "MSCI Asia Concerns Ex Pacific Index Week for on Japan Falls"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2639207",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4114193",
     "https://www.joongangenews.com/news/articleView.html?idxno=557613",
     "http://www.press9.kr/news/articleView.html?idxno=84761",
@@ -2008,10 +2011,10 @@
     "https://www.etnews.com/20261023000361",
     "http://www.kjdaily.com/article.php?aid=1792640832689933276",
     "https://www.hankyung.com/article/2026102314896",
-    "https://www.bigtanews.co.kr/article/view/big202610230017"
+    "https://www.bigtanews.co.kr/article/view/big202610230017",
+    "https://econotimes.com/MSCI-Asia-Pacific-Ex-Japan-Index-Falls-2-7-for-Week-on-AI-Concerns-1761296"
    ],
    "seen_titles": [
-    "증시과열이후,급락장세는언제까지이어질까?[오인경의그·말·이]",
     "신한투자증권\"SK네트웍스,3분기일회성비용에실적둔화…투자성과...",
     "SK하이닉스,솔리다임상장추진중단…\"주주가치고려\"",
     "[ESG]'SK에코플랜트백암초AI스마트횡단보도'조성",
@@ -3510,10 +3513,11 @@
     "초록불에여유더하고노란길에눈길…용인시,백암초앞AI횡단보도...",
     "SK하이닉스·삼성전자거래반토막…비중40%대로",
     "SK하이닉스,솔리다임상장철회에급반등…\"주주환원의지확인\"[종목...",
-    "[증시오늘]코스피급락딛고반등"
+    "[증시오늘]코스피급락딛고반등",
+    "MSCIAsia-PacificEx-JapanIndexFalls2.7%forWeekonAIConcerns"
    ],
    "initialized": true,
-   "last_run": "2026-10-23T22:10:36.887121+09:00"
+   "last_run": "2026-10-23T22:15:24.042924+09:00"
   }
  },
  "press_names": {
