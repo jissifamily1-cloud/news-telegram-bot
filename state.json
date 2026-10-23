@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-23T07:50:31.918519+09:00",
-     "IPO 중단 배경 급변에 금융시장 솔리다임 불확실성 반도체장"
-    ],
-    [
      "2026-10-23T07:55:19.215618+09:00",
      "연이은 공급 계약 수주 비나텍 대규모"
     ],
@@ -1078,17 +1074,21 @@
     [
      "2026-10-23T13:50:25.233027+09:00",
      "포트폴리오 주목 가치 SK스퀘어 강보합 75만4000원"
+    ],
+    [
+     "2026-10-23T13:55:18.696489+09:00",
+     "HBM 수주 장비 주시 18만8200원 일정 한미반도체"
+    ],
+    [
+     "2026-10-23T13:55:18.696489+09:00",
+     "피난처 은행 결과는 하락장 통신 담배주 어땠"
+    ],
+    [
+     "2026-10-23T13:55:18.696489+09:00",
+     "메리츠증권 사실상 강화된 주주환원 철회 IPO 솔리다임"
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/stock/2026/10/22/2026102216271778889",
-    "http://www.beyondpost.co.kr/view.php?ud=202610221701438189be44c0aacd_30",
-    "http://www.queen.co.kr/news/articleView.html?idxno=465152",
-    "https://futurechosun.com/?p=164283",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=746586",
-    "https://www.mt.co.kr/stock/2026/10/22/2026102216103693592",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=450075",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=233963",
     "http://www.4th.kr/news/articleView.html?idxno=2120230",
     "https://www.yna.co.kr/view/AKR20261022104951007?input=1195m",
     "https://www.impacton.net/news/articleView.html?idxno=30359",
@@ -2580,17 +2580,17 @@
     "https://www.mediapen.com/news/view/1132027",
     "https://www.edaily.co.kr/News/Read?newsId=04067206645615872&mediaCodeNo=257",
     "https://www.bloter.net/news/articleView.html?idxno=676541",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=234137"
+    "https://www.job-post.co.kr/news/articleView.html?idxno=234137",
+    "https://www.hankookilbo.com/news/article/A2026102310540001242?did=NA",
+    "https://zdnet.co.kr/view/?no=20261023121508",
+    "https://www.sedaily.com/article/20105333",
+    "https://www.mt.co.kr/estate/2026/10/23/2026102312393977697",
+    "https://sateconomy.co.kr/news/view/1065584343128141",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=234150",
+    "https://www.ajunews.com/view/20261023104723574",
+    "https://www.g-enews.com/view.php?ud=202610231329169396923c501012_1"
    ],
    "seen_titles": [
-    "OK넥스트,계열사대여1년새3배…OK금융확장에자금부담'눈덩이'",
-    "깊이가다른글로벌투자정보GAM-맛보기편(10/22)",
-    "SK에너지·HD현대오일뱅크대표,산자위국감증인채택철회",
-    "[매크로인사이트]신윤정연구원“한은10월숨고르기후11월추가인...",
-    "국힘,레버리지ETF에\"유령이책임지나\"…與는언급자제해",
-    "널뛰는코스피5500선바닥일까…\"저평가매수\"vs\"실적·수급확인\"",
-    "여행수요확보,국내는방문∙예약유도…일본상품은방송판매",
-    "지커,중형전기SUV'7X'국내첫인도...SK온에최상위모델전달",
     "금융위원장\"솔리다임상장땐SK하이닉스이사회'5대의무'이행해야\"",
     "코스피,한은기준금리동결에도3%대급락마감…삼전닉스4~5%↓",
     "[오늘증시]코스피,하루만에3.5%급락…반도체·성장주약세에5530선...",
@@ -4082,10 +4082,18 @@
     "혼돈의국내증시…증권사들도'리스크관리'",
     "“솔리다임상장중단환영…이사회결정과정공개해야”",
     "솔리다임다음은보스턴다이내믹스?…美상장셈법복잡해진현대차",
-    "SK스퀘어75만4000원강보합…포트폴리오가치주목"
+    "SK스퀘어75만4000원강보합…포트폴리오가치주목",
+    "캐피탈사렌터카사업진출숨통트인다…금융위'렌탈업한도규제'완...",
+    "SK호라이즌설립첫관문...방미통위,AIDC분할심사착수",
+    "솔리다임IPO검토중단에투심살아났나…SK하이닉스2%대반등[이런국...",
+    "\"어린이지나자자동신호연장\"SK에코플랜트'AI횡단보도'설치",
+    "SK텔레콤,아이폰듀오정식출시…사전예약60%가256·512GB선택",
+    "한미반도체18만8200원…HBM장비수주일정주시",
+    "[신동근의증시한컷]하락장피난처은행·통신·담배주…결과는어땠...",
+    "메리츠증권\"솔리다임IPO철회,사실상강화된주주환원\""
    ],
    "initialized": true,
-   "last_run": "2026-10-23T13:50:25.233027+09:00"
+   "last_run": "2026-10-23T13:55:18.696489+09:00"
   }
  },
  "press_names": {
