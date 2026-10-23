@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-23T12:00:41.981282+09:00",
-     "분기마다 지출 부족 목표 현금 회사 늘리는"
-    ],
-    [
-     "2026-10-23T12:00:41.981282+09:00",
-     "행진 신고가 7억 갈아타기 분당 기대감에 구축 재건축"
-    ],
-    [
-     "2026-10-23T12:00:41.981282+09:00",
-     "팔아 미래사업 포스코 자산 한화 삼성 투자 확대"
-    ],
-    [
-     "2026-10-23T12:00:41.981282+09:00",
-     "PO 2위 직행팀 이변과 확률 8번이 KBO KS행 1차전"
-    ],
-    [
      "2026-10-23T12:05:19.000686+09:00",
      "하닉 확보 유리하게 과제 주주 IPO 궤도수정 1000조 자금"
     ],
@@ -950,13 +934,17 @@
     [
      "2026-10-23T17:55:21.195880+09:00",
      "라이선스 계열 정의해야 한다 특허관리회사와의 법인까지"
+    ],
+    [
+     "2026-10-23T18:00:42.756212+09:00",
+     "코스피 550선 1조원 탈환했지만 외국인 매도 폭탄"
+    ],
+    [
+     "2026-10-23T18:00:42.756212+09:00",
+     "라온로보틱스 신공장 용인"
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4440737",
-    "https://www.yna.co.kr/view/AKR20261023018251003?input=1195m",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610191006599000103877",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610201030369960108023",
     "https://www.etoday.co.kr/news/view/2639186",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610230018&t=NN",
     "https://www.sedaily.com/article/20105150",
@@ -2452,13 +2440,13 @@
     "https://www.joongangenews.com/news/articleView.html?idxno=557879",
     "https://news.mtn.co.kr/article/2026102316000213087",
     "http://www.srtimes.kr/news/articleView.html?idxno=215739",
-    "https://platum.kr/archives/296947"
+    "https://platum.kr/archives/296947",
+    "https://www.pressian.com/pages/articles/2026102317275292193",
+    "https://www.sedaily.com/article/20105498",
+    "http://www.newskr.kr/news/articleView.html?idxno=107423",
+    "https://www.thelec.kr/news/articleView.html?idxno=64213"
    ],
    "seen_titles": [
-    "SK하이닉스,美솔리다임IPO검토중단…\"시장여건고려\"",
-    "SK하이닉스,솔리다임IPO검토중단…\"경영환경종합적고려해판단\"",
-    "\"솔리다임IPO중단,반도체투심에긍정적…낙폭만회전망\"",
-    "SK하이닉스,솔리다임상장전격중단…\"시장여건고려\"(종합)",
     "[더벨][thebellinterview]신수정대표\"이사교육,체계화가이드라인...",
     "[더벨][thebellinterview]김범준가톨릭대교수“영업이익개념달라질...",
     "SK증권\"산일전기,환율·태풍에3분기주춤해도수주는역대최대\"",
@@ -3954,10 +3942,14 @@
     "[지역이경쟁력이다]\"시민피해방관못해\"…김보라안성시장,용인반...",
     "한일재계\"공급망공동대응…새로운60년연다\"",
     "SK바이오,'ABDDSummit2026'서AI활용성과·확대전략발표",
-    "[BLT칼럼]특허관리회사와의라이선스,계열법인까지정의해야한다"
+    "[BLT칼럼]특허관리회사와의라이선스,계열법인까지정의해야한다",
+    "김보라안성시장“용인반도체상생협약,안성피해막는방향으로다...",
+    "솔리다임상장철회에SK하이닉스‘막판대반전’…안철수“李정부는...",
+    "코스피5,550선탈환했지만…외국인1조원'매도폭탄'",
+    "라온로보틱스,용인신공장첫삽"
    ],
    "initialized": true,
-   "last_run": "2026-10-23T17:55:21.195880+09:00"
+   "last_run": "2026-10-23T18:00:42.756212+09:00"
   }
  },
  "press_names": {
