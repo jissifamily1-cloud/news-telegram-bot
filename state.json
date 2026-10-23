@@ -257,7 +257,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.polinews.co.kr/news/articleView.html?idxno=746649",
     "http://www.wsobi.com/news/articleView.html?idxno=320224",
     "https://www.ziksir.com/news/articleView.html?idxno=150485",
     "https://www.ajunews.com/view/20261023092005215",
@@ -1756,10 +1755,10 @@
     "https://www.gukjenews.com/news/articleView.html?idxno=3731318",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=66378",
     "https://www.yna.co.kr/view/AKR20261023178600003?input=1195m",
-    "https://www.etnews.com/20261023000352"
+    "https://www.etnews.com/20261023000352",
+    "http://www.yonhapnewstv.co.kr/news/AKR20261024084152WSP"
    ],
    "seen_titles": [
-    "폴리뉴스모닝브리핑10월23일금요일",
     "SK하이닉스·LG전자,솔리다임IPO검토중단·'가전팅글'콘텐츠로한...",
     "코스피,美반도체주급락에휘청…양대지수3%대하락",
     "[개장시황]美반도체주급락여파…코스피2%대하락출발",
@@ -3258,10 +3257,11 @@
     "LG유플러스\"고의은폐확인시회사책임…사법판단따를것\"",
     "LGU+해킹은폐의혹…홍범식\"사법판단나오면합당한책임\"",
     "한전,사채한도19조초과위기…전기요금인상론재점화",
-    "첫폴더블아이폰'1분완판'흥행가능성확인...물량확보가관건"
+    "첫폴더블아이폰'1분완판'흥행가능성확인...물량확보가관건",
+    "한전,사채한도초과위기…다시고개드는요금인상론"
    ],
    "initialized": true,
-   "last_run": "2026-10-24T08:40:24.566662+09:00"
+   "last_run": "2026-10-24T08:45:23.927654+09:00"
   }
  },
  "press_names": {
