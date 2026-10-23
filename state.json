@@ -194,13 +194,21 @@
     [
      "2026-10-23T23:55:24.691023+09:00",
      "지어주고 현대건설 회수 4개사 정유공장 이라크에 1조원 위기"
+    ],
+    [
+     "2026-10-24T00:02:23.126694+09:00",
+     "환율 마감 원화 터치 소폭 321원 달러 6원 장중 반등"
+    ],
+    [
+     "2026-10-24T00:02:23.126694+09:00",
+     "롤러코스터 공포 244P 신용 장중"
+    ],
+    [
+     "2026-10-24T00:02:23.126694+09:00",
+     "고갈 거품붕괴 메타 META 현금흐름 신호탄"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20261023084236106",
-    "https://www.etnews.com/20261023000014",
-    "https://www.g-enews.com/view.php?ud=202610230823567263fbbec65dfb_1",
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079787",
     "https://thetracker.co.kr/View.aspx?No=4275059",
     "https://www.techm.kr/news/articleView.html?idxno=156427",
     "https://www.mt.co.kr/tech/2026/10/23/2026102308310175218",
@@ -1696,13 +1704,13 @@
     "https://www.vegannews.co.kr/news/article.html?no=396130",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610230155&t=NN",
     "https://www.newscj.com/news/articleView.html?idxno=3442713",
-    "https://wemakenews.co.kr/news/view.php?no=26643"
+    "https://wemakenews.co.kr/news/view.php?no=26643",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=618768",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=618770",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=618773",
+    "https://www.g-enews.com/view.php?ud=20261023203104142906806b77b_1"
    ],
    "seen_titles": [
-    "[속보]SK하이닉스,5조규모솔리다임상장전격중단",
-    "[종합]솔리다임美상장결국중단…주주반발·주가하락에금융당국압...",
-    "[기고]반도체로여는전남광주100년,이제시민이나설때다",
-    "아시아인공지능열풍에돈줄막히자집안경매로자본융통한바클레이...",
     "[삼성물산건설인사전망]이재용체제오세철내년임기만료…사망...",
     "우리투자증권,자본확충발판IB확대…2030년종투사도약",
     "SK하이닉스,솔리다임美상장전격중단…중복상장논란일단락에주가...",
@@ -3198,10 +3206,14 @@
     "코스피장중4%급락딛고0.30%상승마감",
     "\"돈되는사업쏙떼상장한다?\"…中당국까지제동건이유",
     "[2026국감]LGU+홍범식\"해킹은폐확인되면책임\"…위약금면제'확답...",
-    "이라크에정유공장지어주고1조원회수위기…현대건설등4개사‘비..."
+    "이라크에정유공장지어주고1조원회수위기…현대건설등4개사‘비...",
+    "[코스피5,500선회복]\"장중4%폭락딛고장마감20분전반전\"…코스...",
+    "\"장중1,321원터치후소폭반등\"…원/달러환율,1,324.6원마감\"원화...",
+    "[AI신용우려속코스피반등]\"장중244P롤러코스터\"…AI신용공포딛...",
+    "[김대호진단]메타(META)현금흐름고갈...AI거품붕괴신호탄?"
    ],
    "initialized": true,
-   "last_run": "2026-10-24T00:00:46.516136+09:00"
+   "last_run": "2026-10-24T00:02:23.126694+09:00"
   }
  },
  "press_names": {
