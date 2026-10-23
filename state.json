@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-23T12:20:26.844259+09:00",
-     "향방은 종목 코스피와 주요"
-    ],
-    [
      "2026-10-23T12:25:21.524169+09:00",
      "두산 산업은행 대기업 5조 위험까지 인수금융 국책은행이 금융패키지"
     ],
@@ -930,12 +926,17 @@
     [
      "2026-10-23T18:10:24.563544+09:00",
      "1100조원 뮤즈 예고한 지출 공짜 안나는데 메타 수익도"
+    ],
+    [
+     "2026-10-23T18:20:27.152160+09:00",
+     "5만명 정산금 KT 2억원 못받았다 고객 해지"
+    ],
+    [
+     "2026-10-23T18:20:27.152160+09:00",
+     "시총 업종 주식종목 교차 제약 희비 하반기 50개"
     ]
    ],
    "seen_urls": [
-    "https://www.wolyo.co.kr/news/articleView.html?idxno=319462",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=91633",
-    "http://www.joseilbo.com/news/news_read.php?uid=577997&class=18",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=66292",
     "https://www.hankyung.com/article/2026102300706",
     "https://dgmbc.com/NewsArticle/869098",
@@ -2432,12 +2433,12 @@
     "https://news.bizwatch.co.kr/article/market/2026/10/23/0029",
     "https://www.getnews.co.kr/news/articleView.html?idxno=884648",
     "http://www.beyondpost.co.kr/view.php?ud=2026102317483993024c878f8fa1_30",
-    "https://www.ytn.co.kr/_ln/0102_202610231806437577"
+    "https://www.ytn.co.kr/_ln/0102_202610231806437577",
+    "https://www.sentv.co.kr/article/view/sentv202610230166",
+    "http://www.4th.kr/news/articleView.html?idxno=2120340",
+    "https://www.greened.kr/news/articleView.html?idxno=352914"
    ],
    "seen_titles": [
-    "SK하이닉스,솔리다임美상장검토중단",
-    "SKT,폴더블'아이폰듀오'출시…256·512GB스타화이트가장인기",
-    "[속보]SK하이닉스,美자회사솔리다임IPO검토중단",
     "\"첫폴더블아이폰상륙에열기후끈\"…SKT,'아이폰듀오'전격출시",
     "SK하이닉스,솔리다임美상장결국중단…AI반도체투자자금조달'재...",
     "솔리다임상장멈춘SK하이닉스,\"성장성판단은변함없다\"",
@@ -3934,10 +3935,13 @@
     "솔리다임IPO철회로끝났지만…중복상장규제가남긴과제",
     "솔리다임美상장중단에SK하이닉스주가반등",
     "김보라안성시장“용인반도체산단조성에따른시민피해막겠다”",
-    "코스피,막판반등...솔리다임상장중단에투심호전"
+    "코스피,막판반등...솔리다임상장중단에투심호전",
+    "홍범식LGU+대표“해킹은폐확인되면합당한책임”",
+    "[국감]KT해지고객17.5만명정산금6.2억원못받았다",
+    "[데이터뉴스룸]제약업종50개주식종목올하반기시총희비교차…..."
    ],
    "initialized": true,
-   "last_run": "2026-10-23T18:15:24.470717+09:00"
+   "last_run": "2026-10-23T18:20:27.152160+09:00"
   }
  },
  "press_names": {
