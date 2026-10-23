@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-23T14:30:32.748818+09:00",
-     "교통시설로 안전 SK에코플랜트 지원 어린이 통학로"
-    ],
-    [
-     "2026-10-23T14:30:32.748818+09:00",
-     "낙관 증시 증권주 레버리지 손실 노무라는 혼돈의 경고 실적 고수"
-    ],
-    [
-     "2026-10-23T14:30:32.748818+09:00",
-     "허남구 에임드바이오 경쟁력은 대표 차별화된 개발 ADC 신약"
-    ],
-    [
      "2026-10-23T14:35:19.089405+09:00",
      "협력망 차세대 웨이퍼 포럼 구미서 구축 기술 반도체"
     ],
@@ -793,7 +781,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=2009386",
     "https://www.newsis.com/view/NISX20261023_0003837832",
     "https://www.raonnews.com/news/article.html?no=62130",
     "https://www.g-enews.com/view.php?ud=202610230829064502923c501012_1",
@@ -2292,10 +2279,10 @@
     "https://www.ppss.kr/news/articleView.html?idxno=317124",
     "https://www.topstarnews.net/news/articleView.html?idxno=16256261",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1541517",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16256262"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16256262",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261023202858xKs"
    ],
    "seen_titles": [
-    "SK하이닉스,솔리다임IPO왜접었나…주가급락·주주반발에부담",
     "용인특례시,백암초에인공지능스마트횡단보도·옐로카펫조성완료",
     "SK하이닉스,솔리다임나스닥IPO검토중단…중복상장논란속결국'제...",
     "레버리지ETF'누가결정했나'…세차례국감에도결론없이마무리",
@@ -3794,10 +3781,11 @@
     "홍범식LG유플러스CEO,\"해킹은폐확인땐책임질것\"",
     "SK증권제12호스팩,SPAC상장예비심사미제출로관리종목지정",
     "PHP결함발표나흘전도공격…정부대응고민",
-    "[공매도브리핑]23일외국인비중76%…주성엔지니어링70%급증"
+    "[공매도브리핑]23일외국인비중76%…주성엔지니어링70%급증",
+    "[이시각헤드라인]10월23일뉴스리뷰"
    ],
    "initialized": true,
-   "last_run": "2026-10-23T20:25:22.945506+09:00"
+   "last_run": "2026-10-23T20:30:35.011553+09:00"
   }
  },
  "press_names": {
