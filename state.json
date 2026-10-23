@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-23T06:50:26.243136+09:00",
-     "예상한 높은 예측률 해설위원이 생각엔 K리그 이영표 문어"
-    ],
-    [
      "2026-10-23T06:55:20.667161+09:00",
      "10월 상장기업 풍력에너지 1위 두산에너빌리티"
     ],
@@ -1178,11 +1174,13 @@
     [
      "2026-10-23T12:45:26.943485+09:00",
      "토큰이 발행돼 페어 모더나 거래 새로 24만달러어치"
+    ],
+    [
+     "2026-10-23T12:55:18.821269+09:00",
+     "매우 평가 정부 논란 침해사고 LGU 은폐 우수 의혹"
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/stock/2026/10/22/2026102213304053122",
-    "https://www.asiatime.co.kr/article/20261022500341",
     "https://www.hani.co.kr/arti/economy/finance/1283665.html",
     "https://sports.donga.com/region/article/all/20261022/134891339/1",
     "https://www.tjb.co.kr/news05/bodo/view/id/105177",
@@ -2680,11 +2678,11 @@
     "https://www.onews.tv/news/articleView.html?idxno=289868",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610230079&t=NN",
     "https://www.tokenpost.kr/news/blockchain/426227",
-    "http://www.koreastocknews.com/news/articleView.html?idxno=121899"
+    "http://www.koreastocknews.com/news/articleView.html?idxno=121899",
+    "https://www.ddaily.co.kr/page/view/2026102311043225455",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=875676"
    ],
    "seen_titles": [
-    "[영상]최태원SK회장,을지로야장방문…소탈한행보화제",
-    "SKT,수학난제연구로AI추론성능높인다",
     "SK하닉,'3조원'들고채권시장복귀…여전채중심매수전망(종합)",
     "코스피,반도체차익실현에3.5%급락5500선마감···삼성E&A16%↑",
     "외국인투매에도연저점경신하는환율…수혜주와피해주는?",
@@ -4182,10 +4180,12 @@
     "SK하이닉스,솔리다임IPO검토중단…\"금융시장변동성고려\"",
     "하이닉스호재도못살렸다…코스피또'털썩'",
     "[로빈후드온체인]모더나토큰이24만달러어치새로발행돼...페어거래...",
-    "SK하이닉스\"대외여건고려\"···솔라다임美상장추진중단"
+    "SK하이닉스\"대외여건고려\"···솔라다임美상장추진중단",
+    "D램쇼티지가부른HBM설계변화…삼성파운드리주목받는까닭",
+    "[이슈국감]침해사고은폐의혹LGU+에'매우우수'…정부평가논란"
    ],
    "initialized": true,
-   "last_run": "2026-10-23T12:50:23.492285+09:00"
+   "last_run": "2026-10-23T12:55:18.821269+09:00"
   }
  },
  "press_names": {
