@@ -158,13 +158,21 @@
     [
      "2026-10-24T07:05:22.566531+09:00",
      "딸깍 하면 괜찮을까 회장님이 여기에 영상복제 뚝딱"
+    ],
+    [
+     "2026-10-24T07:15:24.858590+09:00",
+     "선물 반도체 최종 석유화의 관문 뭐길래 GPU"
+    ],
+    [
+     "2026-10-24T07:15:24.858590+09:00",
+     "연결 3배 LG유플러스 장비 손잡고 에릭슨과 거리 기지국"
+    ],
+    [
+     "2026-10-24T07:15:24.858590+09:00",
+     "그리고 맞대 한국가스공사 일격 서울삼성 3연승 휴식 선두"
     ]
    ],
    "seen_urls": [
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=210132",
-    "https://www.hankyung.com/article/2026102303026",
-    "https://www.news2day.co.kr/article/20261023500020",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=146087",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=666832",
     "https://www.mt.co.kr/stock/2026/10/23/2026102309090645782",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=268050",
@@ -1660,13 +1668,13 @@
     "https://www.newscj.com/news/articleView.html?idxno=3442721",
     "http://weekly.chosun.com/news/articleView.html?idxno=56456",
     "https://www.newspim.com/news/view/20261022001253",
-    "https://www.khan.co.kr/article/202610240700001"
+    "https://www.khan.co.kr/article/202610240700001",
+    "http://www.osen.co.kr/article/G1112897550",
+    "https://view.asiae.co.kr/article/2026102210433429136",
+    "https://www.theguru.co.kr/news/article.html?no=108744",
+    "https://dgmbc.com/NewsArticle/869184"
    ],
    "seen_titles": [
-    "SK하이닉스,솔리다임IPO철회…중복상장논란·주주가치부담",
-    "\"솔리다임IPO검토중단,중복상장우려완화…자금조달부담은커질수...",
-    "“다음주코스피5,100~6,400전망…삼전·닉스자사주매입주목”<NH투...",
-    "SK하이닉스,'중복상장논란'솔리다임IPO중단선언\"주주가치우선\"",
     "코스피,5360선하락…메타發AI신용불안",
     "美반도체주급락에'S7'동반하락…삼성전자3%↓",
     "SK하이닉스,솔리다임IPO검토중단\"시장여건변화\"",
@@ -3162,10 +3170,14 @@
     "[천지일보이슈종합]최충락보호관찰소탐지기통과·소방재정부담...",
     "신입은안뽑고AI만쓴다…무너지는청년들의취업사다리",
     "[아!코스피]④국민연금보유주식평가액182조줄어…반도체쏠림에...",
-    "회장님이왜여기에?…‘딸깍’하면뚝딱,AI영상복제괜찮을까"
+    "회장님이왜여기에?…‘딸깍’하면뚝딱,AI영상복제괜찮을까",
+    "‘아직35살인데’65억FA보상선수방출왜?넥센→SK→KT→LG→KIA,16년...",
+    "반도체석유화의최종관문…'GPU선물'이뭐길래[테크토크]",
+    "[통신리뷰]LG유플러스,에릭슨과손잡고기지국장비간연결거리3배...",
+    "3연승뒤일격,그리고긴휴식한국가스공사···선두서울삼성맞대..."
    ],
    "initialized": true,
-   "last_run": "2026-10-24T07:10:26.156914+09:00"
+   "last_run": "2026-10-24T07:15:24.858590+09:00"
   }
  },
  "press_names": {
