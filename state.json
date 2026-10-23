@@ -921,10 +921,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.eroun.net/news/articleView.html?idxno=93232",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610230020&t=NN",
-    "http://www.popcornnews.net/news/articleView.html?idxno=137029",
-    "https://www.nocutnews.co.kr/news/6595938",
     "https://www.sedaily.com/article/20105153",
     "http://www.popcornnews.net/news/articleView.html?idxno=137026",
     "https://www.the-today.com/news/articleView.html?idxno=92252",
@@ -2420,13 +2416,13 @@
     "https://sports.hankooki.com/news/articleView.html?idxno=6942196",
     "https://biz.sbs.co.kr/article_hub/20000341887?division=NAVER",
     "https://www.sentv.co.kr/article/view/sentv202610230062",
-    "http://fpn119.co.kr/258368"
+    "http://fpn119.co.kr/258368",
+    "https://www.edaily.co.kr/News/Read?newsId=06028646645615872&mediaCodeNo=257",
+    "https://view.asiae.co.kr/article/2026102317570782672",
+    "https://www.mediawatch.kr/news/article.html?no=261473",
+    "https://futurechosun.com/?p=164469"
    ],
    "seen_titles": [
-    "사전예약1분만에마감…애플첫폴더블‘아이폰듀오’오늘출시",
-    "솔리다임美상장철회⋯SK하이닉스,20조투자재원확보새판짠다[종...",
-    "SKT,아이폰듀오출시…개통고객에AI·OTT구독권제공",
-    "젠슨황\"메모리는다다익선...2029년공급과잉없을것\"",
     "SK하이닉스,솔리다임IPO검토중단…증권가\"중복상장우려완화\"",
     "SK하이닉스,중복상장논란끝에솔리다임美상장검토'중단'",
     "솔리다임상장중단한하닉…美증시충격에도삼전보다낙폭제한[마켓...",
@@ -3922,10 +3918,14 @@
     "[건설소식]DL이앤씨·롯데건설·현대건설·SK에코플랜트·GS건설·IPARK현...",
     "발묶인솔리다임상장…中은대규모자금몰이",
     "SK하이닉스,솔리다임美상장중단…“주주가치우선”",
-    "[기획]기술로시선집중…KSFPEEXPO달군기업들"
+    "[기획]기술로시선집중…KSFPEEXPO달군기업들",
+    "솔리다임상장접자…SK하이닉스,애프터마켓서도전일대비↑",
+    "\"대학대신삼전닉스\"…신설서울반도체고경쟁률4.73대1",
+    "[26.10.23증시인싸잇]코스피,장중5300선까지밀렸다극적반등…삼...",
+    "[더나은미래경제브리핑]SK하이닉스,‘중복상장’논란에솔리다임美..."
    ],
    "initialized": true,
-   "last_run": "2026-10-23T18:40:26.435062+09:00"
+   "last_run": "2026-10-23T18:45:25.246060+09:00"
   }
  },
  "press_names": {
