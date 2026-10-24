@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-24T03:25:24.009522+09:00",
-     "후원 명예 삼성 삼성은 비용 26만 달러 쿠팡 앞질러 선거"
-    ],
-    [
      "2026-10-24T04:25:20.511703+09:00",
      "2심서 시장 경쟁률 오세훈 반도체고 정치자금법 무죄"
     ],
@@ -278,13 +274,13 @@
     [
      "2026-10-24T09:25:20.052616+09:00",
      "막차 파이널A 막히는 인천과 타겠습니다 제주 우리가"
+    ],
+    [
+     "2026-10-24T09:30:30.626731+09:00",
+     "AI로 줄이는 갈아엎는 인력 국내 방식이 글로벌 바뀐다 일하는"
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/economy/2379816.htm",
-    "https://www.etoday.co.kr/news/view/2639246",
-    "https://news.appstory.co.kr/daily19665",
-    "http://www.econonews.co.kr/news/articleView.html?idxno=446128",
     "https://biz.newdaily.co.kr/site/data/html/2026/10/23/2026102300057.html",
     "http://www.ikld.kr/news/articleView.html?idxno=342768",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4440767",
@@ -1780,13 +1776,13 @@
     "https://www.handmk.com/news/articleView.html?idxno=44439",
     "https://biz.sbs.co.kr/article_hub/20000341911?division=NAVER",
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434782",
-    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99707"
+    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99707",
+    "https://magazine.hankyung.com/business/article/202610242287b",
+    "https://www.thepublic.kr/news/articleView.html?idxno=323497",
+    "https://biz.sbs.co.kr/article_hub/20000341913?division=NAVER",
+    "https://www.thepublic.kr/news/articleView.html?idxno=323483"
    ],
    "seen_titles": [
-    "美반도체6.7%급락직격탄…코스피5300선·코스닥740선'털썩'",
-    "통신3사,아이폰듀오출시…구독혜택·보험으로수요공략",
-    "SK하이닉스,솔리다임미국IPO추진중단…반도체주가하락에계획재...",
-    "SKT·KT,애플첫폴더블폰'아이폰듀오'출시…가입자유치경쟁",
     "\"1억→1000만원\"…SK하닉2배,꼭대기에서샀다면'10분의1토막'[김병...",
     "한수원노조,신규원전지연반발…김성환장관경질촉구",
     "SK바이오팜,3분기주역도엑스코프리…오파칼림임상재개'변수'",
@@ -3282,10 +3278,14 @@
     "[현장스케치]선혜원전체를채우는익숙한재료들의형태《흔들리는...",
     "“HBM만으론한계”…삼성'zHBM'vs하이닉스'HBF'격돌",
     "국제유가급등에뉴욕증시일제히하락",
-    "[k1.preview]'파이널A막차우리가타겠습니다'…인천과제주,숨막히는..."
+    "[k1.preview]'파이널A막차우리가타겠습니다'…인천과제주,숨막히는...",
+    "“전기요금또오르나”···한전,19조‘비상’",
+    "\"애플첫폴더블폰상륙\"…SKT,'아이폰듀오'공식출시및가입자혜택...",
+    "한전채,법정한도19조넘는다…\"전기요금인상논의해야\"",
+    "\"AI로일하는방식이바뀐다\"…인력줄이는글로벌,판갈아엎는국내"
    ],
    "initialized": true,
-   "last_run": "2026-10-24T09:25:20.052616+09:00"
+   "last_run": "2026-10-24T09:30:30.626731+09:00"
   }
  },
  "press_names": {
