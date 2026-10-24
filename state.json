@@ -317,9 +317,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.weeklytoday.com/news/articleView.html?idxno=799240",
-    "https://www.sisajournal.com/news/articleView.html?idxno=391438",
-    "https://www.ngonews.kr/news/articleView.html?idxno=241260",
     "https://www.pointe.co.kr/news/articleView.html?idxno=86509",
     "http://www.weeklytoday.com/news/articleView.html?idxno=799242",
     "https://www.news1.kr/world/international-economy/6329511",
@@ -1816,12 +1813,12 @@
     "https://www.m-economynews.com/news/article.html?no=72069",
     "https://www.ekn.kr/web/view.php?key=20261024023270724",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=729853",
-    "https://www.xportsnews.com/article/2210934"
+    "https://www.xportsnews.com/article/2210934",
+    "https://www.mediafine.co.kr/news/articleView.html?idxno=93550",
+    "https://www.viva100.com/article/20261024500140",
+    "https://www.dkilbo.com/news/articleView.html?idxno=558237"
    ],
    "seen_titles": [
-    "[위클리오늘]삼전·닉스55조자사주매입종료…반도체주반등시험대",
-    "코스피오늘도'급락'…AI투자불안에5300선'털썩'",
-    "\"전날부터텐트치고밤샘\"…애플첫폴더블'아이폰듀오'출시현장'...",
     "SKT,아이폰듀오국내출시…사전예약흥행속맞춤형혜택확대",
     "[위클리오늘]코스피5400선급락출발···환율1320원대",
     "美AI주급락충격,코스피3%·닛케이2%↓…美국채·엔화로피신",
@@ -3318,10 +3315,13 @@
     "삼성전자·SK하이닉스,AI메모리경쟁격화...HBM넘어차세대기술로...",
     "[패트롤]고양시-김포시-남양주시-양주시-파주시",
     "[Biz&Law]SK넥실리스,유럽배터리동박특허소송1심패소",
-    "'파이널A행단두대매치'인천vs제주,라인업공개…무고사·이청용투..."
+    "'파이널A행단두대매치'인천vs제주,라인업공개…무고사·이청용투...",
+    "한전,내년말사채발행한도19조초과전망…전기요금인상불가피론",
+    "한전,사채특례끝나면19조한도초과…전력망투자재원도부담",
+    "한전사채법정한도19조원초과위기···전기료인상론불붙나"
    ],
    "initialized": true,
-   "last_run": "2026-10-24T13:30:32.650213+09:00"
+   "last_run": "2026-10-24T13:35:18.518002+09:00"
   }
  },
  "press_names": {
