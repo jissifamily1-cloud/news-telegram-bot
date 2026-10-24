@@ -190,10 +190,13 @@
     [
      "2026-10-24T21:05:21.222882+09:00",
      "AIDC 산업 지각 변동 지형도"
+    ],
+    [
+     "2026-10-24T21:40:24.633338+09:00",
+     "김동철 인상 필요 초과 특례 한전채 끝나면 19조 요금 최소한 한도"
     ]
    ],
    "seen_urls": [
-    "https://www.huffingtonpost.kr/article/261473",
     "https://www.yna.co.kr/view/AKR20261023058400011?input=1195m",
     "https://www.mydaily.co.kr/page/view/2026102310305136208",
     "https://biz.sbs.co.kr/article_hub/20000341740?division=NAVER",
@@ -1692,10 +1695,10 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813257&plink=ORI&cooper=NAVER",
     "https://www.mediatoday.co.kr/news/articleView.html?idxno=337964",
     "https://www.mk.co.kr/article/12177752",
-    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=376829"
+    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=376829",
+    "https://www.ikbc.co.kr/article/view/kbc202610240037"
    ],
    "seen_titles": [
-    "'노동법위반206건적발'로노동리스크커진쿠팡:미국서'한국규제...",
     "[연합뉴스이시각헤드라인]-10:30",
     "서인영\"난이혼할줄몰랐다,나빼고는다알았다더라\"",
     "\"1분만에동났다\"…아이폰듀오,통신3사예약물량소진",
@@ -3194,10 +3197,11 @@
     "돌풍의삼성,창단첫'개막7연승'",
     "KBS사장내정된웨이브전대표,이태현은누구?",
     "AIDC,산업지형도지각변동",
-    "'10년만에리그정상탈환'FC서울,강원과1-1무승부로우승축포…통..."
+    "'10년만에리그정상탈환'FC서울,강원과1-1무승부로우승축포…통...",
+    "한전채한도특례끝나면19조초과…김동철\"최소한요금인상필요\""
    ],
    "initialized": true,
-   "last_run": "2026-10-24T21:35:23.429443+09:00"
+   "last_run": "2026-10-24T21:40:24.633338+09:00"
   }
  },
  "press_names": {
