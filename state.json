@@ -373,7 +373,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20261023046000008?input=1195m",
     "https://www.newspim.com/news/view/20261023000161",
     "https://www.cnbizm.com/news/articleView.html?idxno=318973",
     "https://www.inthenews.co.kr/news/article.html?no=93431",
@@ -1872,10 +1871,10 @@
     "http://www.joseilbo.com/news/news_read.php?uid=578073&class=1",
     "https://news.jtbc.co.kr/article/NB12324648?influxDiv=NAVER",
     "https://www.newspim.com/news/view/20261024000038",
-    "https://www.starnewskorea.com/sports/2026/10/24/2026102411191697138"
+    "https://www.starnewskorea.com/sports/2026/10/24/2026102411191697138",
+    "http://www.osen.co.kr/article/G1112897624"
    ],
    "seen_titles": [
-    "코스피,美AI·반도체급락에2%대하락출발후낙폭확대(종합)",
     "'아이폰듀오'오늘정식출시…사전예약1분마감에통신3사혜택경쟁",
     "SK하이닉스,솔리다임IPO검토중단…시장변동성에속도조절",
     "아이폰듀오,오늘국내출시…사전예약돌풍이어갈까",
@@ -3374,10 +3373,11 @@
     "25조선납무산된한전…사채한도19조초과위기에전기료인상압박",
     "한전,사채한도초과위기…전기요금인상론재점화",
     "[핌in상암]10년의기다림끝낼까...FC서울,강원잡으면안방서우승축...",
-    "'오늘우리영광을위해'인천팬들,'파이널A걸린'제주전앞두고'버..."
+    "'오늘우리영광을위해'인천팬들,'파이널A걸린'제주전앞두고'버...",
+    "'후이즈-클리말라동시출격'FC서울,'김대원선발'강원전선발라인업..."
    ],
    "initialized": true,
-   "last_run": "2026-10-24T12:45:21.183514+09:00"
+   "last_run": "2026-10-24T12:50:26.037640+09:00"
   }
  },
  "press_names": {
