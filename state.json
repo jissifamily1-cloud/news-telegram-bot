@@ -365,8 +365,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.nocutnews.co.kr/news/6595977",
-    "https://www.seoulfn.com/news/articleView.html?idxno=640796",
     "https://www.smartbizn.com/news/articleView.html?idxno=157311",
     "https://news.ifm.kr/news/articleView.html?idxno=482424",
     "https://news.mtn.co.kr/article/2026102309310059471",
@@ -1864,11 +1862,11 @@
     "http://www.newsprime.co.kr/news/article.html?no=752216",
     "https://www.moneystorm.kr/news/articleView.html?idxno=7617",
     "https://www.newsis.com/view/NISX20261023_0003839075",
-    "https://www.seoulfn.com/news/articleView.html?idxno=640766"
+    "https://www.seoulfn.com/news/articleView.html?idxno=640766",
+    "https://www.tfmedia.co.kr/news/article.html?no=208325",
+    "https://www.fnnews.com/news/202610241026571664"
    ],
    "seen_titles": [
-    "코스피이틀째급락…장초반5400선붕괴·코스닥도3%↓",
-    "코스피,美AI기술주급락여파에3%대하락출발···5300선까지밀려",
     "코스피5380선하락···美기술주급락에반도체주'휘청'",
     "SK하이닉스,솔리다임IPO중단…\"주주가치제고지속\"",
     "코스피,장초반5300선후퇴…美반도체급락에투심위축",
@@ -3366,10 +3364,12 @@
     "[해외시황]뉴욕증시,중동긴장·국제유가급등에'하락'…나스닥0.21%...",
     "[탐사경]프랑스대혁명기의'불환지폐아시냐의악몽'다시오나…극좌...",
     "최태원회장\"한일경제공동체구축하자\"…거대한청사진,넘어야할과...",
-    "[데스크칼럼]집나간투자자되돌리는왕도"
+    "[데스크칼럼]집나간투자자되돌리는왕도",
+    "[N위크]'삼전닉스'실적공개주주배당은?...3분기성장률·산업동향도...",
+    "전기료결국오르나?...한전,19조원사채한도초과위기"
    ],
    "initialized": true,
-   "last_run": "2026-10-24T10:35:18.625176+09:00"
+   "last_run": "2026-10-24T10:40:23.850170+09:00"
   }
  },
  "press_names": {
