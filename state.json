@@ -214,12 +214,13 @@
     [
      "2026-10-25T07:25:18.318980+09:00",
      "SK의 20점 열세 안영준의 맹활약 극복 공수"
+    ],
+    [
+     "2026-10-25T07:35:19.673044+09:00",
+     "점유율 1위 비야디 2025년 전기차 세계 테슬라는 3위"
     ]
    ],
    "seen_urls": [
-    "http://www.sisunnews.co.kr/news/articleView.html?idxno=248307",
-    "https://www.mk.co.kr/article/12183935",
-    "http://www.newsian.co.kr/news/articleView.html?idxno=97613",
     "https://www.donga.com/news/Economy/article/all/20261023/134894938/1",
     "https://www.businesspost.co.kr/BP?command=article_view&num=450121",
     "https://www.job-post.co.kr/news/articleView.html?idxno=234052",
@@ -1716,12 +1717,12 @@
     "https://www.nocutnews.co.kr/news/6596567",
     "https://www.globale.co.kr/news/articleView.html?idxno=41208",
     "https://basketkorea.com/news/newsview.php?ncode=1065564478550834",
-    "https://www.ikbc.co.kr/article/view/kbc202610250003"
+    "https://www.ikbc.co.kr/article/view/kbc202610250003",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553642198",
+    "https://www.news1.kr/industry/general-industry/6330421",
+    "https://www.g-enews.com/view.php?ud=2026102507231259892bd56fbc3c_1"
    ],
    "seen_titles": [
-    "SK하이닉스,솔리다임美상장전격중단…\"주주가치·시장여건고려...",
-    "‘첫폴더블’아이폰듀오통했다…사전예약1분만에마감",
-    "키움證\"솔리다임상장검토중단,반도체투자심리호전기대\"",
     "솔리다임상장중단에도…미국발반도체충격에코스피·코스닥동반하...",
     "SK증권\"셀트리온목표주가상향,고수익신제품성장가속화예상\"",
     "SKT,폴더블'아이폰듀오'출시...색상'스타화이트'최다",
@@ -3218,10 +3219,13 @@
     "삼전닉스,이번주3분기실적확정…185조전망[오늘아침]",
     "10대그룹시총1,100조증발···SK하이닉스AI급락직격탄",
     "[게임리포트]‘20점차열세극복’SK의키,안영준의공수맹활약",
-    "코스피급락에10대그룹시총'1천100조증발'…SK감소폭최대"
+    "코스피급락에10대그룹시총'1천100조증발'…SK감소폭최대",
+    "[현장핫피플]'동점골넣고울컥한이유'네게바의절절한제주SK사랑....",
+    "3분기실적발표'슈퍼위크'…삼성·SK하닉'주주환원'보따리푼다",
+    "비야디,2025년세계전기차점유율22%로1위…테슬라는8%로3위"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T07:30:34.816541+09:00"
+   "last_run": "2026-10-25T07:35:19.673044+09:00"
   }
  },
  "press_names": {
