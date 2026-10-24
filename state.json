@@ -341,8 +341,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=729770",
-    "https://www.mt.co.kr/stock/2026/10/23/2026102308481915437",
     "https://www.dt.co.kr/article/12090814",
     "https://thetracker.co.kr/View.aspx?No=4275862",
     "https://www.ekn.kr/web/view.php?key=20261023020000210",
@@ -1840,11 +1838,11 @@
     "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99730",
     "https://www.interfootball.co.kr/news/articleView.html?idxno=697033",
     "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99731",
-    "https://www.nspna.com/jp/news/?newsid=833106"
+    "https://www.nspna.com/jp/news/?newsid=833106",
+    "https://www.segye.com/newsView/20261023512524?OutUrl=naver",
+    "https://www.joongangenews.com/news/articleView.html?idxno=557917"
    ],
    "seen_titles": [
-    "코스피5400선아래로…장초반3%대하락출발",
-    "코스피,5300선지키며위태…메타발美기술주급락여파",
     "SK하이닉스,솔리다임상장전격중단…“시장여건고려”",
     "SK에코플랜트,용인백암초에AI횡단보도설치…어린이통학안전강화",
     "“오늘20만전자깨지나”…AI불안에코스피쑥대밭[머니+]",
@@ -3342,10 +3340,12 @@
     "[k1.live]\"오늘우리영광을위해\"인천팬들열기미쳤다…파이널A결...",
     "[K리그1라인업]'에이스'마테우스출격vs'내전근부상'김태현대신이...",
     "[k1.live]막아야사는제주,무조건넣어야사는인천…'파이널A막차...",
-    "SKハイニックス、ソリダイムのIPO検討を中断…「重複上場」懸念の声を..."
+    "SKハイニックス、ソリダイムのIPO検討を中断…「重複上場」懸念の声を...",
+    "솔리다임상장취소에SK하이닉스반등했지만…개미들“사기치려다...",
+    "SK텔레콤주가최근5거래일하락세두드러져"
    ],
    "initialized": true,
-   "last_run": "2026-10-24T13:10:23.146087+09:00"
+   "last_run": "2026-10-24T13:15:23.273277+09:00"
   }
  },
  "press_names": {
