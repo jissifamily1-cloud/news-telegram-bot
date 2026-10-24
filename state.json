@@ -262,11 +262,13 @@
     [
      "2026-10-25T08:10:27.070301+09:00",
      "감독 2연승 연패 최다 vs 부임 상승세 문경은"
+    ],
+    [
+     "2026-10-25T08:15:24.054834+09:00",
+     "원망 벗을까 반토막 SK하닉 최태원 논란 봉합 솔리다임"
     ]
    ],
    "seen_urls": [
-    "https://www.newsworker.co.kr/news/articleView.html?idxno=510171",
-    "https://www.hankyung.com/article/202610230738H",
     "https://www.interfootball.co.kr/news/articleView.html?idxno=696963",
     "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91486",
     "https://www.theguru.co.kr/news/article.html?no=108671",
@@ -1764,11 +1766,11 @@
     "https://it.chosun.com/news/articleView.html?idxno=2023092172459",
     "https://www.seoulfn.com/news/articleView.html?idxno=640838",
     "http://www.metroseoul.co.kr/article/20261025500014",
-    "https://basketkorea.com/news/newsview.php?ncode=1065546408738668"
+    "https://basketkorea.com/news/newsview.php?ncode=1065546408738668",
+    "https://www.kbmaeil.com/article/20261025500026",
+    "https://www.the-today.com/news/articleView.html?idxno=92355"
    ],
    "seen_titles": [
-    "리딩뱅크탈환한이환주KB국민은행장…수익성둔화·해킹사고에연임...",
-    "최태원\"샀다팔았다하지말라\"더니…팔수없게된SK하닉",
     "[Inter뷰]\"주저앉지않고묵묵히버텼다\"…백동규K리그300경기출전→...",
     "[나이스뷰]SK하닉\"솔리다임상장안한다\"…중복상장논란부담느낀...",
     "SK온헝가리이반차공장'기습해고'…노조\"감원중단하라\"강력반발",
@@ -3266,10 +3268,12 @@
     "삼성SDI,비중국점유율급락…밀려난이유는",
     "삼성전자노조갈등,이건희회장에게서답을찾다",
     "간큰개미,레버리지14종다시샀다.",
-    "[BK프리뷰]‘2연승상승세’SKvs‘문경은감독부임후최다연패’..."
+    "[BK프리뷰]‘2연승상승세’SKvs‘문경은감독부임후최다연패’...",
+    "10대그룹시총‘1101조’증발…SK30%급감",
+    "솔리다임논란봉합…최태원,SK하닉'반토막'원망벗을까?"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T08:10:27.070301+09:00"
+   "last_run": "2026-10-25T08:15:24.054834+09:00"
   }
  },
  "press_names": {
