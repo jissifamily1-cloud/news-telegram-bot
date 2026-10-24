@@ -302,11 +302,13 @@
     [
      "2026-10-25T08:45:24.560314+09:00",
      "시장 경기도 품은 남부 북부 양극화 개발 부동산 반도체 막힌"
+    ],
+    [
+     "2026-10-25T08:55:21.022496+09:00",
+     "SK바이오사이언스 AI바이오 뽐내 서밋 백신생산 혁신"
     ]
    ],
    "seen_urls": [
-    "https://www.mediapen.com/news/view/1132000",
-    "https://www.socialvalue.kr/news/view/1065579492291957",
     "https://www.todaykorea.co.kr/news/articleView.html?idxno=407560",
     "https://www.cwn.kr/news/articleView.html?idxno=60013",
     "https://biz.sbs.co.kr/article_hub/20000341738?division=NAVER",
@@ -1804,11 +1806,11 @@
     "https://www.etoday.co.kr/news/view/2639689",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075324",
     "https://www.thepublic.kr/news/articleView.html?idxno=323606",
-    "https://www.etoday.co.kr/news/view/2638472"
+    "https://www.etoday.co.kr/news/view/2638472",
+    "https://www.etoday.co.kr/news/view/2639691",
+    "http://www.segyebiz.com/newsView/20261025502658?OutUrl=naver"
    ],
    "seen_titles": [
-    "솔리다임상장접은SK하이닉스…반도체시장영향은",
-    "SK하이닉스,솔리다임IPO검토중단…\"시장과주가흐름고려\"",
     "SK하이닉스,솔리다임IPO검토중단···증권가는'주주가치제고'기...",
     "SK하이닉스,'솔리다임상장전격보류'...\"자본시장변화·주가흐름영...",
     "[다음주경제일정]다음주경제일정美연준FOMC에촉각…MS·알파벳·...",
@@ -3306,10 +3308,12 @@
     "10대그룹시총1100조증발…SK30%·삼성24%급감",
     "아이들건널땐신호연장…SK에코플랜트,AI로통학로안전강화",
     "100억위성'K-라드큐브'임무실패논란…우주청\"원인검토중,잔금도...",
-    "\"반도체품은남부,개발막힌북부\"⋯경기도부동산시장양극화"
+    "\"반도체품은남부,개발막힌북부\"⋯경기도부동산시장양극화",
+    "“이젠오를때”…개미,반도체레버리지3154억베팅",
+    "SK바이오사이언스,‘AI바이오서밋’서백신생산혁신뽐내"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T08:50:25.179821+09:00"
+   "last_run": "2026-10-25T08:55:21.022496+09:00"
   }
  },
  "press_names": {
