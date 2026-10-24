@@ -321,10 +321,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ilovepc.co.kr/news/articleView.html?idxno=61065",
-    "https://www.cstimes.com/news/articleView.html?idxno=725063",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4440772",
-    "https://www.mk.co.kr/article/12183814",
     "https://biz.chosun.com/stock/stock_general/2026/10/23/V33I4NFIPZHS5NO3S23QWZFXK4/",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=246759",
     "https://www.slist.kr/news/articleView.html?idxno=775775",
@@ -1820,13 +1816,13 @@
     "https://www.sedaily.com/article/20105607",
     "https://www.the-today.com/news/articleView.html?idxno=92331",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=53933",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=86564"
+    "https://www.pointe.co.kr/news/articleView.html?idxno=86564",
+    "https://www.imaeil.com/page/view/2026102409413885877",
+    "https://www.gokorea.kr/news/articleView.html?idxno=882590",
+    "https://www.gokorea.kr/news/articleView.html?idxno=882591",
+    "https://www.mk.co.kr/article/12184750"
    ],
    "seen_titles": [
-    "솔리다임IPO전격중단…투심향배주목",
-    "코스피,3%하락...5400선하회",
-    "코스피,메타發AI투심위축에한때4%급락…5,300선위협",
-    "“뉴욕발AI충격또덮쳤다”…코스피·코스닥장초반3%대하락",
     "美반도체주급락·유가상승에…코스피장초반5400선붕괴",
     "'솔리다임'IPO접은SK하이닉스…미국공장투자금숙제",
     "코스피·코스닥장초반3%대급락…삼성전자4%·SK하이닉스3%하락",
@@ -3322,10 +3318,14 @@
     "전기료결국오르나…한국전력사채,법정한도초과위기",
     "한전사채한도19조초과전망…전기요금인상론다시고개",
     "뉴욕증시,유가급등에일제히하락…다우1.2%↓",
-    "[오늘일본은]日대형택배회사해킹…고객개인정보최대5323만건유..."
+    "[오늘일본은]日대형택배회사해킹…고객개인정보최대5323만건유...",
+    "[속보]삼전·닉스에'25조선납'거절당한한전…사채한도19조초과위...",
+    "한국전력사채발행초과위기와전기요금인상불가피한이유",
+    "AI시대를이끄는삼성·SK하이닉스,차세대메모리혁신경쟁본격화",
+    "17시간대기,1분만에완판…없어서못파는500만원짜리아이폰"
    ],
    "initialized": true,
-   "last_run": "2026-10-24T09:50:24.847869+09:00"
+   "last_run": "2026-10-24T09:55:19.933771+09:00"
   }
  },
  "press_names": {
