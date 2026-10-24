@@ -138,11 +138,17 @@
     [
      "2026-10-25T06:15:24.246725+09:00",
      "주시 주간증시전망 코스피 반도체 계기될까 실적 반등 신용위험"
+    ],
+    [
+     "2026-10-25T06:20:25.605719+09:00",
+     "시총 1천100조원 증발 10대그룹 급락에 한달새 코스피"
+    ],
+    [
+     "2026-10-25T06:20:25.605719+09:00",
+     "25일 경기 오늘의"
     ]
    ],
    "seen_urls": [
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=875586",
-    "https://www.etnews.com/20261023000117",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=246773",
     "https://www.ajunews.com/view/20261023104505567",
     "https://www.newsis.com/view/NISX20261023_0003838130",
@@ -1640,11 +1646,11 @@
     "http://www.thesportstimes.co.kr/news/articleView.html?idxno=376843",
     "https://www.mt.co.kr/world/2026/10/25/2026102310531570875",
     "https://www.yna.co.kr/view/AKR20261024020500008?input=1195m",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092172671"
+    "https://it.chosun.com/news/articleView.html?idxno=2023092172671",
+    "https://www.yna.co.kr/view/AKR20261024028000008?input=1195m",
+    "https://www.yna.co.kr/view/AKR20261024009900007?input=1195m"
    ],
    "seen_titles": [
-    "횡단중이면신호연장…SK에코플랜트,백암초에AI안전시설",
-    "[ET특징주]SK하이닉스·스퀘어,솔리다임상장철회에주가하락세멈추...",
     "단일종목레버리지서학개미'유턴'은없었다",
     "\"329만원에도1분만에매진됐다\"…'아이폰듀오'오늘국내출시",
     "SK하이닉스,솔리다임상장철회…수십조투자재원마련'플랜B'뭘까?",
@@ -3142,10 +3148,12 @@
     "'거첨없는선두'삼성,창단최다개막7연승질주…칸터·맥컬러48점...",
     "'D램'은창신,'낸드'는양쯔…분업끝?경쟁나서는中'탑2'메모리사",
     "개미,이달단일레버리지14종순매수전환…7월말규제후처음",
-    "반도체실적,반등계기될까…코스피,AI신용위험주시[주간증시전망..."
+    "반도체실적,반등계기될까…코스피,AI신용위험주시[주간증시전망...",
+    "코스피급락에…10대그룹시총,한달새1천100조원증발",
+    "◇오늘의경기(25일)"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T06:15:24.246725+09:00"
+   "last_run": "2026-10-25T06:20:25.605719+09:00"
   }
  },
  "press_names": {
