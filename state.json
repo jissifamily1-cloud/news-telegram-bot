@@ -242,11 +242,13 @@
     [
      "2026-10-24T19:05:20.433143+09:00",
      "주식만 폭망 8명이 올랐다는데 10명 기막힌 개미 코스피"
+    ],
+    [
+     "2026-10-24T19:15:25.279375+09:00",
+     "이어 중국 메모리의 YMTC까지 맹추격하는 반도체 CXMT 삼전닉스 공포"
     ]
    ],
    "seen_urls": [
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=620479",
-    "https://www.ytn.co.kr/_ln/0102_202610231026552652",
     "http://www.newsian.co.kr/news/articleView.html?idxno=97606",
     "https://www.kyeonggi.com/article/20261023580033",
     "https://www.khan.co.kr/article/202610231024001",
@@ -1744,11 +1746,11 @@
     "https://www.mydaily.co.kr/page/view/2026102418511768571",
     "https://www.job-post.co.kr/news/articleView.html?idxno=234281",
     "https://m.sports.naver.com/basketball/article/065/0000303392",
-    "https://www.fnnews.com/news/202610241657373440"
+    "https://www.fnnews.com/news/202610241657373440",
+    "https://www.newspim.com/news/view/20261024000061",
+    "https://www.segye.com/newsView/20261023512647?OutUrl=naver"
    ],
    "seen_titles": [
-    "SK하이닉스,솔리다임상장철회가주가방어",
-    "미증시약세에코스피하락세...장중5,400선하회",
     "코스피,美반도체급락에약세…낙폭줄여5400선회복",
     "[속보]안철수“주가썰려나갈동안李정부뭐했나…솔리다임상장철...",
     "젠슨황“메모리많을수록좋아”…‘2029년공급과잉’일축·CXMT와협...",
@@ -3246,10 +3248,12 @@
     "'고양황태자'가해냈다!'이정현극적버저비터'소노KCC에97-96신승,...",
     "고양시,행신1·3동주민현안해결논의",
     "‘역전3점슛’김낙현,살아나는슛감에“평균이있으니까돌아올거...",
-    "\"코스피올랐다는데내주식만왜?\"…개미10명중8명이폭망한기막힌..."
+    "\"코스피올랐다는데내주식만왜?\"…개미10명중8명이폭망한기막힌...",
+    "[프로농구]SK1쿼터19점차열세뒤집고2연승,LG에86-85진땀슴",
+    "CXMT이어YMTC까지…삼전닉스맹추격하는중국메모리의공포[반도체..."
    ],
    "initialized": true,
-   "last_run": "2026-10-24T19:10:28.795394+09:00"
+   "last_run": "2026-10-24T19:15:25.279375+09:00"
   }
  },
  "press_names": {
