@@ -234,18 +234,29 @@
     [
      "2026-10-24T15:45:23.819287+09:00",
      "애플 청색도판트 청색호스트 맥북 SFC 공급 삼성D에 OLED용 놓쳐"
+    ],
+    [
+     "2026-10-24T16:00:39.980876+09:00",
+     "2연승 김낙현 접전 꺾고 LG 빅샷 끝에"
+    ],
+    [
+     "2026-10-24T16:00:39.980876+09:00",
+     "LG"
+    ],
+    [
+     "2026-10-24T16:00:39.980876+09:00",
+     "제주 인천"
+    ],
+    [
+     "2026-10-24T16:00:39.980876+09:00",
+     "파이널B 매치서 단두대 악재 인천과의 퇴장 제주SK 유인수"
+    ],
+    [
+     "2026-10-24T16:00:39.980876+09:00",
+     "결국 막차 인천입니다 파이널A 주인공은"
     ]
    ],
    "seen_urls": [
-    "https://www.donga.com/news/Economy/article/all/20261023/134894898/1",
-    "http://www.ikld.kr/news/articleView.html?idxno=342778",
-    "https://biz.newdaily.co.kr/site/data/html/2026/10/23/2026102300079.html",
-    "http://www.finomy.com/news/articleView.html?idxno=264446",
-    "https://www.greened.kr/news/articleView.html?idxno=352837",
-    "https://www.insight.co.kr/news/578881",
-    "https://www.cnbizm.com/news/articleView.html?idxno=318980",
-    "https://www.itooza.com/common/iview.php?no=2026102309340102143",
-    "https://www.yna.co.kr/view/AKR20261023053500061?input=1195m",
     "https://www.sedaily.com/article/20105206",
     "https://www.gpkorea.com/news/articleView.html?idxno=147880",
     "https://www.lawissue.co.kr/view.php?ud=2026102310004396299817d053b9_12",
@@ -1736,18 +1747,18 @@
     "https://www.xportsnews.com/article/2210982",
     "https://www.xportsnews.com/article/2210981",
     "https://www.xportsnews.com/article/2210986",
-    "https://www.xportsnews.com/article/2210985"
+    "https://www.xportsnews.com/article/2210985",
+    "https://www.xportsnews.com/article/2210988",
+    "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015098",
+    "https://www.xportsnews.com/article/2210987",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553641858",
+    "https://basketkorea.com/news/newsview.php?ncode=1065596250027564",
+    "https://www.yna.co.kr/view/AKR20261024037300007?input=1195m",
+    "https://www.yna.co.kr/view/AKR20261024037100007?input=1195m",
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600990",
+    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99744"
    ],
    "seen_titles": [
-    "SK하이닉스,솔리다임美상장검토중단…“자본시장여건종합적고려...",
-    "SK에코플랜트,용인백암초에'AI스마트횡단보도'조성",
-    "[속보]SK하이닉스,솔리다임IPO중단효과?…장중주가'양전'",
-    "코스피,美AI·반도체주급락에3%대↓···5300선",
-    "코스피,美AI·반도체주급락에3%대하락...코스닥도3%대약세",
-    "故이건희6주기...이재용의삼성전자,메모리·파운드리함께건승부",
-    "희망브리지,소방훈련현장서재난대응인력1000여명에간식지원",
-    "[52주]신고가1개,신저가167개...지수하락",
-    "수원지관서가24일북페스티벌…'미움받을용기'저자북토크",
     "‘중복상장논란’솔리다임IPO철회…與野“투자자들이이끈결정”",
     "서인영,혼전계약서안쓴결혼후회…\"땅을치고후회했다\"",
     "SK하이닉스,솔리다임IPO검토전면중단…\"시장여건고려\"",
@@ -3238,10 +3249,19 @@
     "워니'절대못내줘'[포토]",
     "전희철감독'코트에들어갈기세'[포토]",
     "김낙현의미소[포토]",
-    "김낙현'역전만드는3점슛'[포토]"
+    "김낙현'역전만드는3점슛'[포토]",
+    "SK'극적인역전승'[포토]",
+    "[현장REVIEW]‘10년을기다렸다'FC서울,7번째별달았다...강원과1-1...",
+    "인천,파이널A막차탔다!제주와'단두대매치'3-1쾌승…제주는퇴장...",
+    "[K리그133R]'이동률결승골+이청용쐐기포'인천,제주SK와치열한혈...",
+    "[BK리뷰]‘김낙현빅샷!’SK,접전끝에LG꺾고2연승!",
+    "[프로농구서울전적]SK86-85LG",
+    "[프로축구인천전적]인천3-1제주",
+    "'유인수퇴장악재'제주SK,인천과의단두대매치서1-3패...파이널B확...",
+    "[k1.review]파이널A막차주인공은인천입니다…'1-0→1-1→3-1'결국제..."
    ],
    "initialized": true,
-   "last_run": "2026-10-24T15:55:19.285184+09:00"
+   "last_run": "2026-10-24T16:00:39.980876+09:00"
   }
  },
  "press_names": {
