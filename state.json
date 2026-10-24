@@ -277,8 +277,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.bizwatch.co.kr/article/market/2026/10/23/0008",
-    "https://biz.heraldcorp.com/article/10912356",
     "http://www.inews24.com/view/2018197",
     "https://www.asiatime.co.kr/article/20261023500081",
     "https://www.koit.co.kr/news/articleView.html?idxno=209631",
@@ -1776,11 +1774,11 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1729026",
     "https://www.xportsnews.com/article/2210960",
     "https://www.xportsnews.com/article/2210958",
-    "https://www.livesnews.com/news/article.html?no=65269"
+    "https://www.livesnews.com/news/article.html?no=65269",
+    "https://www.xportsnews.com/article/2210962",
+    "https://www.xportsnews.com/article/2210961"
    ],
    "seen_titles": [
-    "솔리다임상장접어도SK하이닉스약세…코스피3%대하락",
-    "“코스피바닥어딜까”…‘AI위기론’에3%대폭락[투자360]",
     "'아이폰듀오'국내출시…이통3사,할인·보상혜택경쟁",
     "SK하이닉스,솔리다임IPO검토중단…금융시장변동성고려",
     "SK하이닉스\"솔리다임IPO검토중단\"",
@@ -3278,10 +3276,12 @@
     "\"코스피과매도국면\"…AI투자불안에도월가선저가매수주목",
     "워니'점수따라가자'[포토]",
     "힉스'가볍게슛'[포토]",
-    "[사설]SK하이닉스,이천죽당천처리수1일6만여톤방류즉각중단해야"
+    "[사설]SK하이닉스,이천죽당천처리수1일6만여톤방류즉각중단해야",
+    "다니엘'멀리서'[포토]",
+    "안영준'찬스야'[포토]"
    ],
    "initialized": true,
-   "last_run": "2026-10-24T14:35:19.868482+09:00"
+   "last_run": "2026-10-24T14:40:23.538015+09:00"
   }
  },
  "press_names": {
