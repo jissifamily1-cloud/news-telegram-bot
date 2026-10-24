@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-24T06:35:22.249413+09:00",
-     "증설 솔리다임 자금 회사채 증자 대안 찾는 차입"
-    ],
-    [
-     "2026-10-24T06:35:22.249413+09:00",
-     "Prices Futures During Market Hyperliquid Closure at Moderna"
-    ],
-    [
-     "2026-10-24T06:35:22.249413+09:00",
-     "탈출 잡은 연패 저조한 KT의 다시 기회였는데 외곽슛 발목"
-    ],
-    [
      "2026-10-24T07:05:22.566531+09:00",
      "렌털업계 공략 홈케어로 정수기 고령친화 시장 넘어"
     ],
@@ -378,10 +366,13 @@
     [
      "2026-10-24T12:20:27.876694+09:00",
      "매도 급락 외국인 116달러 1조 그쳐 유가 반등 반도체"
+    ],
+    [
+     "2026-10-24T12:40:23.947424+09:00",
+     "기다림 강원 10년의 잡으면 끝낼까 우승 안방서 FC서울"
     ]
    ],
    "seen_urls": [
-    "http://www.beyondpost.co.kr/view.php?ud=2026102309325197082aaae0046f_30",
     "http://www.e-platform.net/news/articleView.html?idxno=106359",
     "https://www.yna.co.kr/view/AKR20261023046000008?input=1195m",
     "https://www.newspim.com/news/view/20261023000161",
@@ -1880,10 +1871,10 @@
     "https://www.m-economynews.com/news/article.html?no=72065",
     "https://www.greened.kr/news/articleView.html?idxno=352922",
     "http://www.joseilbo.com/news/news_read.php?uid=578073&class=1",
-    "https://news.jtbc.co.kr/article/NB12324648?influxDiv=NAVER"
+    "https://news.jtbc.co.kr/article/NB12324648?influxDiv=NAVER",
+    "https://www.newspim.com/news/view/20261024000038"
    ],
    "seen_titles": [
-    "SK하이닉스,손자회사솔리다임IPO검토전격중단...\"시장여건변화\"",
     "도시가스사사모펀드경영권확대우려…인수자격심사도입촉구",
     "코스피,美AI·반도체급락에2%대하락출발후낙폭확대(종합)",
     "'아이폰듀오'오늘정식출시…사전예약1분마감에통신3사혜택경쟁",
@@ -3382,10 +3373,11 @@
     "한전사채한도초과위기…결국전기료올리나",
     "美반도체6.7%급락뒤0.4%반등그쳐…유가116달러·외국인1조매도,...",
     "25조선납무산된한전…사채한도19조초과위기에전기료인상압박",
-    "한전,사채한도초과위기…전기요금인상론재점화"
+    "한전,사채한도초과위기…전기요금인상론재점화",
+    "[핌in상암]10년의기다림끝낼까...FC서울,강원잡으면안방서우승축..."
    ],
    "initialized": true,
-   "last_run": "2026-10-24T12:35:18.032275+09:00"
+   "last_run": "2026-10-24T12:40:23.947424+09:00"
   }
  },
  "press_names": {
