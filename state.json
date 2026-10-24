@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-24T11:05:20.077709+09:00",
-     "코리아디스카운트 상징 거래되는 한국서만 SK하이닉스 머니 헐값"
-    ],
-    [
-     "2026-10-24T11:05:20.077709+09:00",
-     "내년엔 들을 바빠진 목소리 최태원 이라더니"
-    ],
-    [
-     "2026-10-24T11:05:20.077709+09:00",
-     "코인시장 꺼지면 영향은 거품"
-    ],
-    [
      "2026-10-24T11:10:26.289864+09:00",
      "정유 명암 교차 돌파 브렌트유 석유화학 117달러"
     ],
@@ -261,9 +249,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.gokorea.kr/news/articleView.html?idxno=882446",
-    "https://www.hankyung.com/article/202610230400i",
-    "http://www.atstar1.com/news/articleView.html?idxno=6039867",
     "https://www.news1.kr/realestate/general/6329631",
     "https://www.news1.kr/finance/general-stock/6329448",
     "http://www.newsian.co.kr/news/articleView.html?idxno=97602",
@@ -1760,12 +1745,12 @@
     "https://www.kyeongin.com/article/1773298",
     "https://www.jasm.co.kr/news/view/322806/?sc=Naver",
     "https://biz.sbs.co.kr/article_hub/20000341935?division=NAVER",
-    "https://basketkorea.com/news/newsview.php?ncode=1065599400335332"
+    "https://basketkorea.com/news/newsview.php?ncode=1065599400335332",
+    "https://m.sports.naver.com/general/article/065/0000303384",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=875898",
+    "http://www.footballist.co.kr/news/articleView.html?idxno=216153"
    ],
    "seen_titles": [
-    "SK에코플랜트,용인백암초에AI스마트횡단보도조성",
-    "메타7%급락에도하이닉스반등시도…韓증시바닥찾을까",
-    "서인영,재혼할땐혼전계약서쓰나…\"초혼때못써,이혼위자료못받...",
     "아이들건널때신호자동연장…SK에코플랜트,AI횡단보도조성",
     "KB證\"피에스케이,목표가36%↓에도매수유지…내년최대실적\"",
     "[꺾여버린'솔리다임'날개①]위태로운SK하이닉스곳간…'HBM투자여...",
@@ -3262,10 +3247,13 @@
     "‘파이널A진출’윤정환인천감독“인생경기…다음목표는ACL”",
     "사채한도19조초과위기…답없는한전\"전기요금인상필요\"군불",
     "'중복상장'족쇄벗은SK하이닉스주가…반등신호탄쏘나",
-    "[BK플레이어]‘3점슛5방+위닝샷’김낙현,“백투백첫경기,꼭이겨..."
+    "[BK플레이어]‘3점슛5방+위닝샷’김낙현,“백투백첫경기,꼭이겨...",
+    "[JB화보]서울SK접전승,창원LG에86-85로승리",
+    "329만원에도없어서못산다…아이폰듀오,배송만석달",
+    "'잔인한단두대결과'인천파이널A진출,제주파이널B추락...다득점..."
    ],
    "initialized": true,
-   "last_run": "2026-10-24T17:00:40.786937+09:00"
+   "last_run": "2026-10-24T17:05:20.188745+09:00"
   }
  },
  "press_names": {
