@@ -149,7 +149,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/economy/2377843.htm",
     "http://www.newsian.co.kr/news/articleView.html?idxno=97610",
     "https://www.impacton.net/news/articleView.html?idxno=30366",
     "https://www.newspost.kr/news/articleView.html?idxno=226628",
@@ -1648,10 +1647,10 @@
     "https://www.kbmaeil.com/article/20261025500007",
     "https://www.g-enews.com/view.php?ud=202610250614369989fbbec65dfb_1",
     "https://www.kmib.co.kr/article/20261025500003",
-    "https://www.yna.co.kr/view/AKR20261024025000008?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261024025000008?input=1195m",
+    "https://www.kbmaeil.com/article/20261025500010"
    ],
    "seen_titles": [
-    "완판실패한2차국민펀드,코스피연쇄폭락탓?…손실우려는",
     "[꺾여버린'솔리다임'날개③]HBM·D램에가려진가치…'재평가기회'...",
     "ISSB,자연위험노출자산금액·비율공시제안…공급망위치도반영",
     "LS그룹사,'버스덕트'타고글로벌전력망공략성과",
@@ -3150,10 +3149,11 @@
     "10대그룹시총1101조원증발…SK30%급감,포스코6.4%감소",
     "AI가끌어올린메모리수요…한국반도체실적호조속글로벌완제품...",
     "‘단일종목레버리지’다시몰린개미들…ETF14종순매수",
-    "'증시부진에도ETF는산다'…올해개인80조,외인10조순매수"
+    "'증시부진에도ETF는산다'…올해개인80조,외인10조순매수",
+    "솔리다임상장중단에한숨돌린코스피…이번주실적·중동변수시험..."
    ],
    "initialized": true,
-   "last_run": "2026-10-25T06:30:37.749190+09:00"
+   "last_run": "2026-10-25T06:35:21.709583+09:00"
   }
  },
  "press_names": {
