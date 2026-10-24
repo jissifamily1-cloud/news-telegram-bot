@@ -278,11 +278,17 @@
     [
      "2026-10-25T08:30:30.720655+09:00",
      "소송 이어가 대형 건설사 영업정지 취소 처분에도 수주행진"
+    ],
+    [
+     "2026-10-25T08:35:22.523867+09:00",
+     "보안의 고리 PHP 드러낸 시대 한국 사태가 해킹 약한"
+    ],
+    [
+     "2026-10-25T08:35:22.523867+09:00",
+     "국채금리 한은 연내 재정불안까지 인상 추가 급락 안갯"
     ]
    ],
    "seen_urls": [
-    "https://www.goodkyung.com/news/articleView.html?idxno=292694",
-    "https://www.yna.co.kr/view/AKR20261023073600017?input=1195m",
     "https://www.mt.co.kr/tech/2026/10/23/2026102311090691656",
     "https://www.news1.kr/it-science/cc-newmedia/6329708",
     "https://www.businesspost.co.kr/BP?command=article_view&num=450117",
@@ -1780,11 +1786,11 @@
     "https://www.sportsseoul.com/news/read/1643833",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=601460",
     "https://www.yna.co.kr/view/AKR20261024038800005?input=1195m",
-    "https://www.ppss.kr/news/articleView.html?idxno=317198"
+    "https://www.ppss.kr/news/articleView.html?idxno=317198",
+    "https://www.yna.co.kr/view/AKR20261023137200017?input=1195m",
+    "https://biz.newdaily.co.kr/site/data/html/2026/10/23/2026102300222.html"
    ],
    "seen_titles": [
-    "[굿모닝!23일건설업계소식]현대건설·DL이앤씨·GS건설·롯데건설·S...",
-    "SK하이퍼,AI데이터센터구축자금유치본격화",
     "YTN·연합뉴스TV,재승인기간3개월단축추진…사장추천위규정위반",
     "방미통위,SK브로드밴드AIDC분할심사착…12월결론",
     "SK온헝가리배터리공장직원감원추진,회사\"여건고려한일부인력...",
@@ -3282,10 +3288,12 @@
     "‘여왕’김가영잡은김보미파죽지세결승행,LPBA첫우승노크…상...",
     "'솔리다임IPO포기'고민커지는SK⋯천문학적자금조달어떻게",
     "[신간]'K-반도체'의전략적가치…'지정학과실리콘방패'",
-    "대형건설사,'영업정지'처분에도취소소송…수주행진이어가"
+    "대형건설사,'영업정지'처분에도취소소송…수주행진이어가",
+    "[AI프리즘]AI해킹시대,PHP사태가드러낸한국보안의약한고리",
+    "AI發美국채금리급락·佛재정불안까지…한은연내추가인상'안갯..."
    ],
    "initialized": true,
-   "last_run": "2026-10-25T08:30:30.720655+09:00"
+   "last_run": "2026-10-25T08:35:22.523867+09:00"
   }
  },
  "press_names": {
