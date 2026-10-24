@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-24T04:25:20.511703+09:00",
-     "2심서 시장 경쟁률 오세훈 반도체고 정치자금법 무죄"
-    ],
-    [
      "2026-10-24T05:05:20.027942+09:00",
      "2년 법조인 이사회 의장 9곳"
     ],
@@ -342,10 +338,13 @@
     [
      "2026-10-24T10:20:24.894837+09:00",
      "사례 서밋서 SK바이오사이언스 적용 바이오 독감백신 공정에"
+    ],
+    [
+     "2026-10-24T10:30:30.623638+09:00",
+     "재계 한화 포스코 10년 서열 전쟁 뒤집힌 롯데 5위"
     ]
    ],
    "seen_urls": [
-    "https://www.nocutnews.co.kr/news/6595969",
     "https://www.pointe.co.kr/news/articleView.html?idxno=86501",
     "https://www.imaeil.com/page/view/2026102223051240832",
     "https://www.businesspost.co.kr/BP?command=article_view&num=450106",
@@ -1844,10 +1843,10 @@
     "https://www.joongang.co.kr/article/25472463",
     "https://www.sisajournal.com/news/articleView.html?idxno=391263",
     "https://www.seoulfn.com/news/articleView.html?idxno=640855",
-    "https://www.tournews21.com/news/articleView.html?idxno=146524"
+    "https://www.tournews21.com/news/articleView.html?idxno=146524",
+    "https://economist.co.kr/article/view/ecn202610190013"
    ],
    "seen_titles": [
-    "진보당전남광주특별시당'반도체학교'성료",
     "[오늘일본은]日태풍30호오키나와접근…주택붕괴수준강풍에폭...",
     "사상최대실적에도휘청이는증시…동학개미는국장떠난다",
     "미국정부인텔에'로봇규제'한시적면제,\"삼성전자와TSMC에유사한...",
@@ -3346,10 +3345,11 @@
     "학연·지연·간섭다없앴다…부활한한국농구진짜저력",
     "실적은최고인데주가는추락…시장은무엇을두려워하나[김학균의시...",
     "취임1년정재헌SKT대표···통신정상화넘어AI성장본격화",
-    "SK바이오사이언스,독감백신공정에AI적용…AI바이오서밋서사례공..."
+    "SK바이오사이언스,독감백신공정에AI적용…AI바이오서밋서사례공...",
+    "10년새뒤집힌서열…한화·롯데·포스코‘재계5위’전쟁"
    ],
    "initialized": true,
-   "last_run": "2026-10-24T10:25:19.894277+09:00"
+   "last_run": "2026-10-24T10:30:30.623638+09:00"
   }
  },
  "press_names": {
