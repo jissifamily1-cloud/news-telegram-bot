@@ -365,8 +365,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/stock/2026/10/23/2026102311253836419",
-    "https://www.thepublic.kr/news/articleView.html?idxno=323447",
     "http://www.areyou.co.kr/news/articleView.html?idxno=95936",
     "https://www.yna.co.kr/view/AKR20261023079300008?input=1195m",
     "https://www.yna.co.kr/view/AKR20261023076100008?input=1195m",
@@ -1864,11 +1862,11 @@
     "https://www.dt.co.kr/article/12091009",
     "https://www.insight.co.kr/news/579049",
     "https://www.edaily.co.kr/News/Read?newsId=01249686645616528&mediaCodeNo=257",
-    "https://www.ekn.kr/web/view.php?key=20261025027230075"
+    "https://www.ekn.kr/web/view.php?key=20261025027230075",
+    "https://www.youthdaily.co.kr/news/article.html?no=228808",
+    "http://www.yonhapnewstv.co.kr/news/AKR20261025092439H9e"
    ],
    "seen_titles": [
-    "실적시즌중복상장논란탈출…증권가\"다시펀더멘털로\"",
-    "'55조원'매수공백에흔들린반도체투톱...실적이구원투수될까",
     "[아유경제_부동산]부산시,지역건설업체ㆍ대기업상생행사개최…\"하...",
     "AI신용우려에코스피'벌벌'…하이닉스호재에도속수무책",
     "코스피,4%급락후낙폭좁혀5,390선…하닉은한때상승전환",
@@ -3366,10 +3364,12 @@
     "10대그룹시총1100조증발…SK30%축소·LG선방",
     "삼성전자30조배당ㆍSK하이닉스40조자사주매입...이번주실적발표...",
     "63조ETF시장흔들변수…종목교체에매수세몰릴까",
-    "한수원노조·시민단체“신규원전지연책임져야”…김성환장관경질..."
+    "한수원노조·시민단체“신규원전지연책임져야”…김성환장관경질...",
+    "개인정보유출조사175건1년째미처리...장기계류30건",
+    "삼전닉스,이번주3분기확정실적…합산영업이익185조전망"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T09:25:19.147058+09:00"
+   "last_run": "2026-10-25T09:30:32.635713+09:00"
   }
  },
  "press_names": {
