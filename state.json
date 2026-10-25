@@ -178,10 +178,13 @@
     [
      "2026-10-26T01:05:20.829797+09:00",
      "주가 가치 묻는 진짜 기업의 급락이"
+    ],
+    [
+     "2026-10-26T02:05:21.543812+09:00",
+     "위축 주가 삼전닉스 투자 잡는 우려 되나 들고 발목 가도 계속"
     ]
    ],
    "seen_urls": [
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=66353",
     "http://www.newsprime.co.kr/news/article.html?no=752184",
     "https://view.asiae.co.kr/article/2026102316151217930",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2483918",
@@ -1680,10 +1683,10 @@
     "http://www.kjdaily.com/article.php?aid=1792943761690112276",
     "https://www.g-enews.com/view.php?ud=2026102520214713219a1f309431_1",
     "https://www.hankyung.com/article/2026102535021",
-    "http://www.osen.co.kr/article/G1112898099"
+    "http://www.osen.co.kr/article/G1112898099",
+    "https://www.newsis.com/view/NISX20261023_0003838097"
    ],
    "seen_titles": [
-    "\"AI신용위험,네오클라우드서빅테크로번졌다\"…코스피직격탄",
     "코스피,장초반4%급락딛고'5500선마감'…코스닥1.62%↓",
     "SK하이퍼,AIDC투자유치본격화…\"463조원조달예상\"",
     "코스피,외인1조매도에도막판반등",
@@ -3182,10 +3185,11 @@
     "증시급락에반등베팅…개인,레버리지ETF3천억원순매수",
     "골드만삭스,코스피목표1만2000→9000으로하향",
     "[시론]주가급락이묻는기업의진짜가치",
-    "'1군등판0경기→끝내방출'KIA떠나는우승멤버의먹먹한작별…“..."
+    "'1군등판0경기→끝내방출'KIA떠나는우승멤버의먹먹한작별…“...",
+    "\"삼전닉스계속들고가도되나\"…주가발목잡는'AI투자위축'우려"
    ],
    "initialized": true,
-   "last_run": "2026-10-26T02:00:42.405843+09:00"
+   "last_run": "2026-10-26T02:05:21.543812+09:00"
   }
  },
  "press_names": {
