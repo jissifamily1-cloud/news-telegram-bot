@@ -546,17 +546,25 @@
     [
      "2026-10-26T08:45:23.732470+09:00",
      "주식시장 10월 주요공시 23일"
+    ],
+    [
+     "2026-10-26T08:50:24.504125+09:00",
+     "임시 하이닉스"
+    ],
+    [
+     "2026-10-26T08:50:24.504125+09:00",
+     "던진 중복상장에 질문 솔리다임이"
+    ],
+    [
+     "2026-10-26T08:50:24.504125+09:00",
+     "못한 현금흐름 메타 테슬라 늘어야 웃지 빨리 CAPEX보다 실적발표"
+    ],
+    [
+     "2026-10-26T08:50:24.504125+09:00",
+     "읽는 내가 수명 마음 관상가 상인가 왕이"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026102318261",
-    "https://www.munhwa.com/article/11625852",
-    "https://www.sedaily.com/article/20105486",
-    "https://www.sedaily.com/article/20105410",
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=88124",
-    "https://www.kmaeil.com/news/articleView.html?idxno=655612",
-    "https://www.hankyung.com/article/2026102317851",
-    "https://www.delighti.co.kr/news/articleView.html?idxno=123787",
     "https://www.joongangenews.com/news/articleView.html?idxno=557879",
     "https://news.mtn.co.kr/article/2026102316000213087",
     "http://www.srtimes.kr/news/articleView.html?idxno=215739",
@@ -2048,17 +2056,17 @@
     "https://biz.heraldcorp.com/article/10914219",
     "http://www.popcornnews.net/news/articleView.html?idxno=137216",
     "https://www.polinews.co.kr/news/articleView.html?idxno=746813",
-    "https://www.catchnews.kr/news/articleView.html?idxno=129735"
+    "https://www.catchnews.kr/news/articleView.html?idxno=129735",
+    "https://biz.heraldcorp.com/article/10914227",
+    "https://www.edaily.co.kr/News/Read?newsId=02112326645616856&mediaCodeNo=257",
+    "https://kpenews.com/View.aspx?No=4278324",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2484211",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=53949",
+    "https://www.bloter.net/news/articleView.html?idxno=676649",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4441022",
+    "https://news.tvchosun.com/site/data/html_dir/2026/10/26/2026102690058.html"
    ],
    "seen_titles": [
-    "솔리다임상장철회…하이닉스의'플랜B'",
-    "“하닉손실중이시죠?”보유개미74%의공통점",
-    "年4%대후반수익률노린다...만기매칭형회사채상품‘주목’[ETF줌...",
-    "SK이노베이션,1조+조달추진…SKIET합병비용대비[시그널]",
-    "코스피,장중4%급락딛고0.30%상승마감…삼성전자·SK하이닉스반등",
-    "정일영의원,10대건설사하자심사5,279건·현장사망자153명지적하며...",
-    "\"삼전닉스프리패스?\"입소문나더니…경쟁률폭발한학교",
-    "LG유플러스홍범식\"해킹은폐확인되면합당한책임다할것\"",
     "[지역이경쟁력이다]\"시민피해방관못해\"…김보라안성시장,용인반...",
     "한일재계\"공급망공동대응…새로운60년연다\"",
     "SK바이오,'ABDDSummit2026'서AI활용성과·확대전략발표",
@@ -3550,10 +3558,18 @@
     "SKT,‘AI거버넌스리포트’첫발간…AI신뢰경영강화",
     "SK證\"도우인시스,폴더블흥행에실적도약…고객사다변화주목\"",
     "[경제,알고보면]코스피는오르는데내주식은왜떨어질까…'지수의...",
-    "10월23일주식시장주요공시"
+    "10월23일주식시장주요공시",
+    "‘안심하긴이르다’삼전닉스실적·주주환원기다리는코스피…이번...",
+    "\"안전·신뢰가AI대전환전제\"…SKT,첫'AI거버넌스리포트'발간",
+    "SKT,AI에이전트위험까지관리한다..첫‘AI거버넌스리포트’발간",
+    "엔라이튼,재생에너지산업기여공로로기후부장관표창수상",
+    "하이닉스임시",
+    "[안희철의M&A나침반]솔리다임이던진중복상장에대한질문",
+    "웃지못한메타·테슬라실적발표…\"현금흐름,CAPEX보다빨리늘어야\"",
+    "[아이온의AI:온]\"내가왕이될상인가\"…수명·마음읽는AI관상가"
    ],
    "initialized": true,
-   "last_run": "2026-10-26T08:45:23.732470+09:00"
+   "last_run": "2026-10-26T08:50:24.504125+09:00"
   }
  },
  "press_names": {
