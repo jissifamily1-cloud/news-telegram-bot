@@ -413,7 +413,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.pointe.co.kr/news/articleView.html?idxno=86541",
     "http://www.4th.kr/news/articleView.html?idxno=2120309",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7190463",
     "http://www.smarttimes.co.kr/news/articleView.html?idxno=49992",
@@ -1912,10 +1911,10 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498231",
     "https://www.dt.co.kr/article/12091096",
     "https://www.news1.kr/politics/president/6331096",
-    "https://www.imaeil.com/page/view/2026102514464466891"
+    "https://www.imaeil.com/page/view/2026102514464466891",
+    "https://www.seoul.co.kr/news/sport/fencing/2026/10/25/20261025500052?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "[이승욱의포인트]'솔리다임IPO'카드접은SK하이닉스…주주가치앞...",
     "공소청,노태우비자금수사속도…노소영출석일자조율",
     "SK에코플랜트\"기술로통학길지킨다\"…용인백암초에AI횡단보도설치",
     "SKhynixSuspendsSolidigmIPOPlansAmidMarketUncertainty",
@@ -3414,10 +3413,11 @@
     "매출은늘고영업이익은흑자로…신세계인터내셔날실적회복주목",
     "주가는반토막인데목표가는3배…급락에도꿈쩍않는‘삼전닉스’눈...",
     "李대통령한독정상회담·국감마무리…이번주(26~31일)주요일정",
-    "사상첫獨·日앞지른韓경상흑자…반도체쏠림은'근심'"
+    "사상첫獨·日앞지른韓경상흑자…반도체쏠림은'근심'",
+    "‘올림픽금메달3개’펜싱구본길은퇴…“다시태어나도같은길”"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T15:35:19.390599+09:00"
+   "last_run": "2026-10-25T15:40:23.280151+09:00"
   }
  },
  "press_names": {
