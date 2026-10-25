@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-25T11:25:19.036447+09:00",
-     "백암초 스마트횡단보도 용인특례시 옐로카펫 준공"
-    ],
-    [
-     "2026-10-25T11:25:19.036447+09:00",
-     "폐막 상담액 나흘간 11만7000명 5086억 방문 FIX"
-    ],
-    [
      "2026-10-25T11:30:31.584591+09:00",
      "맞춤형 전국 어린이 31일 이천시 PLAY AI축제 미래상상 열린 개최"
     ],
@@ -438,11 +430,17 @@
     [
      "2026-10-25T17:15:25.162416+09:00",
      "본전 식었다 찾자 레버리지ETF 열풍 한방에 하락장에도"
+    ],
+    [
+     "2026-10-25T17:25:19.824731+09:00",
+     "변수 ESG 대전환 핵심 신규 투자 전력망 막는 수용성이"
+    ],
+    [
+     "2026-10-25T17:25:19.824731+09:00",
+     "기대 3분기 실적 밑돌 수출이 천궁 LIG디펜스앤에어로스페이스"
     ]
    ],
    "seen_urls": [
-    "http://www.weeklytoday.com/news/articleView.html?idxno=799304",
-    "https://www.ekn.kr/web/view.php?key=20261023029450361",
     "https://magazine.hankyung.com/business/article/202610231324b",
     "https://www.gokorea.kr/news/articleView.html?idxno=882457",
     "https://biz.chosun.com/stock/finance/2026/10/23/N46646SQEBCDZJGWRFWR5MET24/",
@@ -1940,11 +1938,11 @@
     "https://www.greened.kr/news/articleView.html?idxno=352942",
     "https://www.mk.co.kr/article/12185160",
     "https://www.hani.co.kr/arti/economy/finance/1284054.html",
-    "https://m.sports.naver.com/basketball/article/065/0000303467"
+    "https://m.sports.naver.com/basketball/article/065/0000303467",
+    "https://www.dt.co.kr/article/12091114",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498246"
    ],
    "seen_titles": [
-    "[위클리오늘]이천시,「제17대이천쌀밥명인전」개최…증포동황영...",
-    "[현장]“비싸도살건사야죠”…329만원아이폰에17시간밤샘",
     "“땡큐삼전닉스”마이크론도성과급나눈다",
     "코스피2%대급락…美AI·반도체충격",
     "SC제일은행,삼성전자반도체노조에주택‘후순위대출’공급",
@@ -3442,10 +3440,12 @@
     "[데이터뉴스룸]철강업종50개주식종목올하반기시총9조증발…삼...",
     "[매경포럼]팬데믹대비,세계는韓을택했다",
     "“한방에본전찾자”레버리지ETF열풍,하락장에도안식었다",
-    "[오늘의농구장여신]SK치어리더'함께SK의승리를위해응원해요'"
+    "[오늘의농구장여신]SK치어리더'함께SK의승리를위해응원해요'",
+    "[기획]'AI대전환'막는전력망…ESG수용성이신규투자핵심변수",
+    "LIG디펜스앤에어로스페이스,3분기실적기대밑돌듯…천궁-Ⅱ수출이..."
    ],
    "initialized": true,
-   "last_run": "2026-10-25T17:20:26.418249+09:00"
+   "last_run": "2026-10-25T17:25:19.824731+09:00"
   }
  },
  "press_names": {
