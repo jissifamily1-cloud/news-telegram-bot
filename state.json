@@ -441,7 +441,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.topdaily.kr/articles/112476",
     "http://www.weeklytoday.com/news/articleView.html?idxno=799304",
     "https://www.ekn.kr/web/view.php?key=20261023029450361",
     "https://magazine.hankyung.com/business/article/202610231324b",
@@ -1940,10 +1939,10 @@
     "https://www.joongboo.com/news/articleView.html?idxno=363740396",
     "https://www.greened.kr/news/articleView.html?idxno=352942",
     "https://www.mk.co.kr/article/12185160",
-    "https://www.hani.co.kr/arti/economy/finance/1284054.html"
+    "https://www.hani.co.kr/arti/economy/finance/1284054.html",
+    "https://m.sports.naver.com/basketball/article/065/0000303467"
    ],
    "seen_titles": [
-    "[TOP'sPick][전자·IT]SK하이닉스,솔라다임IPO검토철회外",
     "[위클리오늘]이천시,「제17대이천쌀밥명인전」개최…증포동황영...",
     "[현장]“비싸도살건사야죠”…329만원아이폰에17시간밤샘",
     "“땡큐삼전닉스”마이크론도성과급나눈다",
@@ -3442,10 +3441,11 @@
     "KT,SK에79-90패배로5연패수렁...정관장은DB에2점차석패",
     "[데이터뉴스룸]철강업종50개주식종목올하반기시총9조증발…삼...",
     "[매경포럼]팬데믹대비,세계는韓을택했다",
-    "“한방에본전찾자”레버리지ETF열풍,하락장에도안식었다"
+    "“한방에본전찾자”레버리지ETF열풍,하락장에도안식었다",
+    "[오늘의농구장여신]SK치어리더'함께SK의승리를위해응원해요'"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T17:15:25.162416+09:00"
+   "last_run": "2026-10-25T17:20:26.418249+09:00"
   }
  },
  "press_names": {
