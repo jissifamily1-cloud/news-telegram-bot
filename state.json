@@ -562,17 +562,17 @@
     [
      "2026-10-26T08:50:24.504125+09:00",
      "읽는 내가 수명 마음 관상가 상인가 왕이"
+    ],
+    [
+     "2026-10-26T08:55:18.610572+09:00",
+     "조회부터 계좌 시세 주문까지 명령으로 주식"
+    ],
+    [
+     "2026-10-26T08:55:18.610572+09:00",
+     "국제 관리체계까지 높인다 인증 에이전트 SKT 신뢰도"
     ]
    ],
    "seen_urls": [
-    "https://www.joongangenews.com/news/articleView.html?idxno=557879",
-    "https://news.mtn.co.kr/article/2026102316000213087",
-    "http://www.srtimes.kr/news/articleView.html?idxno=215739",
-    "https://platum.kr/archives/296947",
-    "https://www.pressian.com/pages/articles/2026102317275292193",
-    "https://www.sedaily.com/article/20105498",
-    "http://www.newskr.kr/news/articleView.html?idxno=107423",
-    "https://www.thelec.kr/news/articleView.html?idxno=64213",
     "https://www.dailian.co.kr/news/view/1705540/?sc=Naver",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7190345",
     "https://weekly.donga.com/3/all/11/6430375/1",
@@ -2064,17 +2064,17 @@
     "https://www.koreareport.co.kr/news/articleView.html?idxno=53949",
     "https://www.bloter.net/news/articleView.html?idxno=676649",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4441022",
-    "https://news.tvchosun.com/site/data/html_dir/2026/10/26/2026102690058.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/10/26/2026102690058.html",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498326",
+    "https://www.ajunews.com/view/20261026084605876",
+    "https://www.newstopkorea.com/news/articleView.html?idxno=48459",
+    "http://www.press9.kr/news/articleView.html?idxno=84866",
+    "https://www.etoday.co.kr/news/view/2639861",
+    "https://www.kbmaeil.com/article/20261026500046",
+    "https://zdnet.co.kr/view/?no=20261026085236",
+    "https://www.dailian.co.kr/news/view/1705911/?sc=Naver"
    ],
    "seen_titles": [
-    "[지역이경쟁력이다]\"시민피해방관못해\"…김보라안성시장,용인반...",
-    "한일재계\"공급망공동대응…새로운60년연다\"",
-    "SK바이오,'ABDDSummit2026'서AI활용성과·확대전략발표",
-    "[BLT칼럼]특허관리회사와의라이선스,계열법인까지정의해야한다",
-    "김보라안성시장“용인반도체상생협약,안성피해막는방향으로다...",
-    "솔리다임상장철회에SK하이닉스‘막판대반전’…안철수“李정부는...",
-    "코스피5,550선탈환했지만…외국인1조원'매도폭탄'",
-    "라온로보틱스,용인신공장첫삽",
     "AX확대하는SK바사…독감백신공정에AI적용",
     "SK하이닉스,주주반발에솔리다임상장'스톱'",
     "외국인반도체매도폭탄‘일단멈춤’…5500선지킨코스피,다음주실...",
@@ -3566,10 +3566,18 @@
     "하이닉스임시",
     "[안희철의M&A나침반]솔리다임이던진중복상장에대한질문",
     "웃지못한메타·테슬라실적발표…\"현금흐름,CAPEX보다빨리늘어야\"",
-    "[아이온의AI:온]\"내가왕이될상인가\"…수명·마음읽는AI관상가"
+    "[아이온의AI:온]\"내가왕이될상인가\"…수명·마음읽는AI관상가",
+    "SKT,첫'AI거버넌스리포트'발간…AI에이전트관리체계강화",
+    "SKT,'AI트러스트경영'강화…AI거버넌스리포트첫발간",
+    "이번주빅이벤트연속…FOMC부터美빅테크·삼전·하닉실적까지",
+    "솔리다임상장멈춘SK하이닉스,AI시대에도낸드투자놓을수없다",
+    "SKT,AI거버넌스리포트첫발간…“에이전트시대,AI거버넌스중요성...",
+    "5300선찍고반등한코스피…삼성전자·SK하이닉스주주환원에쏠린눈",
+    "\"AI명령으로주식시세·계좌조회부터주문까지”",
+    "SKT,AI신뢰도높인다…에이전트관리체계까지국제인증"
    ],
    "initialized": true,
-   "last_run": "2026-10-26T08:50:24.504125+09:00"
+   "last_run": "2026-10-26T08:55:18.610572+09:00"
   }
  },
  "press_names": {
