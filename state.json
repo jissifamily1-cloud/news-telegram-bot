@@ -494,14 +494,13 @@
     [
      "2026-10-26T08:20:24.903113+09:00",
      "다우 강세 호실적에 3주 상승 우량주 연속 주간기준"
+    ],
+    [
+     "2026-10-26T08:25:20.339574+09:00",
+     "LG전자 세탁 GSAT 상업용 2026년 실시 삼성 하반기 삼성직무적성검사"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/202610231435g",
-    "http://www.beyondpost.co.kr/view.php?ud=2026102317141990194c878f8fa1_30",
-    "http://www.srtimes.kr/news/articleView.html?idxno=215728",
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=601446",
-    "https://www.kpinews.kr/newsView/1065594776807424",
     "https://www.etnews.com/20261023000338",
     "http://www.srtimes.kr/news/articleView.html?idxno=215719",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003278034&CMPT_CD=P0010",
@@ -1996,14 +1995,14 @@
     "https://news.mtn.co.kr/article/2026102608164990728",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005946814",
     "https://www.newspim.com/news/view/20261026000076",
-    "https://biz.sbs.co.kr/article_hub/20000342022?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000342022?division=NAVER",
+    "https://www.the-today.com/news/articleView.html?idxno=92393",
+    "https://biz.sbs.co.kr/article_hub/20000342023?division=NAVER",
+    "https://www.ajunews.com/view/20261026081558721",
+    "https://view.asiae.co.kr/article/2026102608184238617",
+    "http://www.wsobi.com/news/articleView.html?idxno=320305"
    ],
    "seen_titles": [
-    "아이폰듀오,갤Z폴드8과비교해보니…해외매체들'혹평'",
-    "용인시,처인백암초에AI스마트횡단보도조성…어린이통학안전강화",
-    "[2026국감]침해사고에도이용자보호'매우우수'…LG유플홍보논란",
-    "삼전닉스이어마이크론도이익연동성과급도입⋯메모리3사'보상경쟁...",
-    "[데스크시각]솔리다임상장제동…'코리아디스카운트'해소첫발",
     "SK하이퍼,글로벌투자유치착수…내년첫매출목표",
     "방미통위,SKB법인분할심사착수…IHQ과징금3,000만원부과",
     "\"쉬었음청년아니다\"...간병떠안은20대의절규",
@@ -3498,10 +3497,15 @@
     "\"세상물정모르는러\"메모리수입금지해제?[여의도Pick!]",
     "[굿모닝오늘의증시]중동공포에도버틴기술주,반도체반등시작되...",
     "[특징주]'삼전닉스'프리마켓동반상승…SK하이닉스1%↑",
-    "[굿모닝마켓]우량주호실적에강세…다우주간기준3주연속상승"
+    "[굿모닝마켓]우량주호실적에강세…다우주간기준3주연속상승",
+    "솔리다임상장접은SK하이닉스,16조특별배당추진",
+    "[기업이슈]솔리다임상장중단후반등한코스피",
+    "골드만삭스,코스피목표치1만2000→9000하향…\"상승여력60%\"",
+    "\"커지는ESS시장…K-배터리증산본격화기대\"",
+    "삼성-LG전자,2026년하반기삼성직무적성검사(GSAT)실시...상업용세탁..."
    ],
    "initialized": true,
-   "last_run": "2026-10-26T08:20:24.903113+09:00"
+   "last_run": "2026-10-26T08:25:20.339574+09:00"
   }
  },
  "press_names": {
