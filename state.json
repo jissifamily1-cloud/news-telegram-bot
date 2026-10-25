@@ -262,14 +262,17 @@
     [
      "2026-10-26T06:55:19.139672+09:00",
      "목표치 상승 골드만삭스 그래도 코스피 하향 여력"
+    ],
+    [
+     "2026-10-26T07:00:42.144272+09:00",
+     "폭등 고조에 뉴욕증시 일제히 이란 긴장 마감 하락 유가 글로벌"
+    ],
+    [
+     "2026-10-26T07:00:42.144272+09:00",
+     "기아까지 반도체부터 삼전 닉스 현대차 3분"
     ]
    ],
    "seen_urls": [
-    "https://www.dailybrief.co.kr/news/articleView.html?idxno=7088",
-    "https://www.sisaweek.com/news/articleView.html?idxno=238552",
-    "https://biz.heraldcorp.com/article/10913167",
-    "https://www.topdaily.kr/articles/112478",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=146134",
     "https://biz.sbs.co.kr/article_hub/20000341852?division=NAVER",
     "http://www.footballist.co.kr/news/articleView.html?idxno=216117",
     "http://www.lkp.news/news/articleView.html?idxno=85366",
@@ -1764,14 +1767,14 @@
     "https://biz.sbs.co.kr/article_hub/20000341991?division=NAVER",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1729063",
     "https://www.smartbizn.com/news/articleView.html?idxno=157429",
-    "https://www.mt.co.kr/world/2026/10/26/2026102606194728561"
+    "https://www.mt.co.kr/world/2026/10/26/2026102606194728561",
+    "http://www.osen.co.kr/article/G1112898064",
+    "https://biz.sbs.co.kr/article_hub/20000341993?division=NAVER",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=619070",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610260007&t=NN",
+    "https://www.ddaily.co.kr/page/view/2026102315514092679"
    ],
    "seen_titles": [
-    "\"솔리다임중복상장중단,최태원회장뜻인지이사회결정인지분명히...",
-    "SK하이닉스,'중복상장'논란솔리다임상장철회…배경과전망은",
-    "장중4%폭락딛고‘막판대반전’…코스피5550선상승마감[투자360]",
-    "[CEO성과점검][HD현대오일뱅크]송명준·정임주공동대표,임기만료...",
-    "中메모리맹추격…'투자·주주가치'고차방정식직면한K-메모리",
     "[증시인사이트]삼성전기,엔비디아와파트너십…GTC서공개",
     "'인천과단두대매치'제주,4년만에파이널A행노린다",
     "솔리다임IPO철회한SK하이닉스...메리츠證\"막강한현금창출력으로주...",
@@ -3266,10 +3269,15 @@
     "[증시전략]뉴욕증시'슈퍼위크'…금리·물가·AI실적에쏠린눈",
     "국제유가116달러·FOMC경계감…코스피,반도체실적이열쇠",
     "'순이익5.8조'솔리다임,상장대신증설숙제···SK하이닉스의88조원...",
-    "골드만삭스,코스피목표치25%하향…\"그래도60%상승여력\""
+    "골드만삭스,코스피목표치25%하향…\"그래도60%상승여력\"",
+    "기성용없이완성된김기동의축구...결별후쏟아진비난→김기동,10년...",
+    "[주간경제일정]FOMC금리결정·한미반도체실적·빅테크어닝주목",
+    "[SK하이닉스반등]'56%급락'에시총비중최저…솔리다임상장중단에...",
+    "미·이란긴장고조에유가폭등…뉴욕증시일제히하락-[글로벌마감시...",
+    "[DD주간브리핑]삼전·닉스반도체부터현대차·기아까지...이번주3분..."
    ],
    "initialized": true,
-   "last_run": "2026-10-26T06:55:19.139672+09:00"
+   "last_run": "2026-10-26T07:00:42.144272+09:00"
   }
  },
  "press_names": {
