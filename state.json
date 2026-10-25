@@ -385,8 +385,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000341768?division=NAVER",
-    "https://www.mt.co.kr/stock/2026/10/23/2026102310435318012",
     "https://www.newsis.com/view/NISX20261023_0003838403",
     "https://mhnse.com/news/articleView.html?idxno=1609776",
     "https://www.sedaily.com/article/20105280",
@@ -1884,11 +1882,11 @@
     "https://www.dt.co.kr/article/12091018",
     "https://economist.co.kr/article/view/ecn202610250003",
     "https://www.viva100.com/article/20261024500184",
-    "https://www.ddaily.co.kr/page/view/2026102501261440864"
+    "https://www.ddaily.co.kr/page/view/2026102501261440864",
+    "https://biz.sbs.co.kr/article_hub/20000341948?division=NAVER",
+    "https://www.newscj.com/news/articleView.html?idxno=3442859"
    ],
    "seen_titles": [
-    "이시각주요뉴스",
-    "美반도체하락에코스피도'출렁'…'육천피'회복은언제",
     "안성시,용인반도체상생협약'파기'대신'재협상'",
     "'재혼앞둔'서인영,과거'100억'수익회상…\"내돈건드리지말라는...",
     "솔리다임상장중단에도하이닉스팔았다…두산에너빌리티순매수1위[...",
@@ -3386,10 +3384,12 @@
     "지수급락하자베팅재개…개미‘삼전닉스’레버리지3154억원‘사자...",
     "코스피18%빠져도“더세게건다”…개미들‘속슬’에4조베팅",
     "[주간증시전망]‘AI회의론·고유가’에흔들리는5500선…삼전·하닉에...",
-    "D램품귀에사양깎는빅테크…삼성은테일러팹2'베이스다이'승부수..."
+    "D램품귀에사양깎는빅테크…삼성은테일러팹2'베이스다이'승부수...",
+    "증시부진에도ETF쓸어담는다…올해개인80조순매수",
+    "개인정보유출175건,1년이상조사중…대형사건집중영향"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T09:50:24.096604+09:00"
+   "last_run": "2026-10-25T09:55:18.584353+09:00"
   }
  },
  "press_names": {
