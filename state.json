@@ -449,10 +449,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.munhwa.com/article/11625802",
-    "http://amenews.kr/news/view.php?idx=68405",
-    "https://www.seoulfn.com/news/articleView.html?idxno=640563",
-    "https://www.joongboo.com/news/articleView.html?idxno=363740159",
     "https://www.datasom.co.kr/news/articleView.html?idxno=210480",
     "https://www.joongang.co.kr/article/25472251",
     "https://www.businesspost.co.kr/BP?command=article_view&num=450139",
@@ -1948,13 +1944,13 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610250015&t=NN",
     "https://biz.chosun.com/stock/stock_general/2026/10/25/UWBV4B37MRBBBPOBUJMEYWWOXM/",
     "https://www.segye.com/newsView/20261025504088?OutUrl=naver",
-    "https://www.kbmaeil.com/article/20261025500135"
+    "https://www.kbmaeil.com/article/20261025500135",
+    "https://www.stnsports.co.kr/news/articleView.html?idxno=324574",
+    "http://www.breaknews.com/1245483",
+    "https://www.news1.kr/it-science/cc-newmedia/6330945",
+    "http://www.breaknews.com/1245470"
    ],
    "seen_titles": [
-    "“주주유리하게”하닉,IPO궤도수정…1000조자금확보과제",
-    "“세계100대車부품사매출2%↑,전동화·지능화중심경쟁”",
-    "[AI투자경고등②]AI거품경고에K-반도체긴장···900조투자시험...",
-    "[금주의이천시]'2026이천첨단드론대전'성황리폐막…1천대드론,...",
     "[분석]팔란티어의한국국방AI공략···양면전략전개",
     "“천당위분당?7억은번다”지금사두면강남뺨칠‘로또’",
     "SK텔레콤자회사SK하이퍼,AI데이터센터구축위해빅테크와자금조달...",
@@ -3450,10 +3446,14 @@
     "솔리다임상장중단에한숨돌린코스피…이번주향방은",
     "코스피9000→5500추락했지만…개미들,ETF80조순매수",
     "SK하이닉스,솔리다임나스닥상장철회…증권가“코리아디스카운트...",
-    "구미반도체스쿨콘서트…청소년150명진로탐색"
+    "구미반도체스쿨콘서트…청소년150명진로탐색",
+    "\"유나이티드축구,아시아를향해!\"…인천,제주꺾고3년만에파이널...",
+    "트럼프발언속코스피5500선복귀…고유가·레버리지진통속길목찾...",
+    "PHP취약점발견에'해킹공포'확산…아이폰듀오출격[뉴스잇(IT)쥬]",
+    "수원시‘수원지관서가’,공공디자인대상수상쾌거"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T10:50:23.256319+09:00"
+   "last_run": "2026-10-25T10:55:18.851811+09:00"
   }
  },
  "press_names": {
