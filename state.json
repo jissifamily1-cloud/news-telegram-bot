@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-25T08:55:21.022496+09:00",
-     "SK바이오사이언스 AI바이오 뽐내 서밋 백신생산 혁신"
-    ],
-    [
      "2026-10-25T09:00:43.353449+09:00",
      "반도체 초강수 바이패스까지 협상 산단에 안성시 용인"
     ],
@@ -446,11 +442,13 @@
     [
      "2026-10-25T14:55:18.185235+09:00",
      "공급 인천 달리는 600대 끊기면 수소 수소버스 대책은"
+    ],
+    [
+     "2026-10-25T15:00:40.155662+09:00",
+     "마무리 파행과 여야 잦은 법사위 몰이 올해 이슈 운영위서 국감"
     ]
    ],
    "seen_urls": [
-    "http://www.newstomato.com/ReadNews.aspx?no=1317811&inflow=N",
-    "https://www.etnews.com/20261023000250",
     "https://www.kmaeil.com/news/articleView.html?idxno=655555",
     "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610230083&t=NNv",
     "https://www.khan.co.kr/article/202610231425001",
@@ -1948,11 +1946,11 @@
     "https://www.joongang.co.kr/article/25472583",
     "https://view.asiae.co.kr/article/2026102514500550173",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5226968",
-    "https://www.kyeongin.com/article/1773318"
+    "https://www.kyeongin.com/article/1773318",
+    "https://www.stnsports.co.kr/news/articleView.html?idxno=324581",
+    "http://www.metroseoul.co.kr/article/20261025500193"
    ],
    "seen_titles": [
-    "금융당국5대의무쐐기에솔리다임백기",
-    "방미통위,SKBAIDC분할심사착수",
     "안성시\"용인반도체산단조성,시민피해없도록총력다할것\"",
     "솔리다임IPO결국멈췄다…SK하이닉스의선택,득실은",
     "공소청,‘노태우비자금의혹’이병기전청와대의전비서관참고인...",
@@ -3450,10 +3448,12 @@
     "삼성전자·SK하이닉스,3분기영업익185조육박…호실적뒤엔투자부담",
     "[마켓ING]기업실적·FOMC몰린슈퍼위크속코스피반등모색",
     "개인정보유출175건,1년넘게'조사중'…대형사건쏠림때문에",
-    "수소버스600대달리는인천…수소공급끊기면대책은?"
+    "수소버스600대달리는인천…수소공급끊기면대책은?",
+    "통산올림픽3관왕'어펜져스'펜싱구본길,은퇴발표",
+    "'잦은파행과이슈몰이'올해국감마무리…법사위·운영위서여야막..."
    ],
    "initialized": true,
-   "last_run": "2026-10-25T14:55:18.185235+09:00"
+   "last_run": "2026-10-25T15:00:40.155662+09:00"
   }
  },
  "press_names": {
