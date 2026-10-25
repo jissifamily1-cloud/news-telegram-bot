@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-25T17:25:19.824731+09:00",
-     "변수 ESG 대전환 핵심 신규 투자 전력망 막는 수용성이"
-    ],
-    [
-     "2026-10-25T17:25:19.824731+09:00",
-     "기대 3분기 실적 밑돌 수출이 천궁 LIG디펜스앤에어로스페이스"
-    ],
-    [
      "2026-10-25T17:30:34.090328+09:00",
      "수원시 공공 일상 인정 노력 유휴 시민 공간 받아 인문 자산"
     ],
@@ -281,8 +273,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.seouleconews.com/news/articleView.html?idxno=94553",
-    "https://www.ntoday.co.kr/news/articleView.html?idxno=130299",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000076200",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4114363",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=365127",
@@ -1780,11 +1770,11 @@
     "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99843",
     "https://www.tfmedia.co.kr/news/article.html?no=208342",
     "https://www.cnbnews.com/news/articleView.html?idxno=1020833",
-    "https://www.newscj.com/news/articleView.html?idxno=3442983"
+    "https://www.newscj.com/news/articleView.html?idxno=3442983",
+    "https://www.munhwa.com/article/11626089",
+    "https://www.joongang.co.kr/article/25472636"
    ],
    "seen_titles": [
-    "코스피,낙폭좁혀5,500선회복마감...SK닉스4%대상승",
-    "[마켓펄스]롤러코스피종착지는'상승'...코스피,강보합권마감",
     "금리급등에번진'AI수익성공포'…솔리다임상장철회에코스피극적...",
     "코스피,장중4%대급락딛고상승마감…솔리다임효과에하이닉스반...",
     "기관·개인'사자'코스피강보합반발매수세…삼성전자0.5%↑",
@@ -3282,10 +3272,12 @@
     "[k1.live]'모레노감독님저희도있습니다'…윤정환감독인생경기,인...",
     "골드만삭스,코스피목표1만2천→9천…\"그래도60%이상상승여력\"",
     "용인시백암초통학로에AI횡단보도…어린이교통안전강화",
-    "골드만,코스피목표1만2000→9000으로25%하향"
+    "골드만,코스피목표1만2000→9000으로25%하향",
+    "골드만삭스,코스피목표9000으로25%낮췄다",
+    "1만2000서9000으로…코스피눈높이낮춘골드만"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T23:20:24.881266+09:00"
+   "last_run": "2026-10-25T23:25:20.147607+09:00"
   }
  },
  "press_names": {
