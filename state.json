@@ -438,15 +438,17 @@
     [
      "2026-10-25T14:40:24.832397+09:00",
      "취약점 추가 보안 PHP 번째 발견 권고 조치"
+    ],
+    [
+     "2026-10-25T14:55:18.185235+09:00",
+     "조사 175건 넘게 대형 쏠림 때문에 개인정보 유출 사건 1년"
+    ],
+    [
+     "2026-10-25T14:55:18.185235+09:00",
+     "공급 인천 달리는 600대 끊기면 수소 수소버스 대책은"
     ]
    ],
    "seen_urls": [
-    "http://www.joseilbo.com/news/news_read.php?uid=578029&class=53",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1417866",
-    "https://www.news1.kr/finance/general-stock/6329955",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811986&plink=ORI&cooper=NAVER",
-    "http://www.newstomato.com/ReadNews.aspx?no=1317810&inflow=N",
-    "https://www.ajunews.com/view/20261023112437746",
     "http://www.newstomato.com/ReadNews.aspx?no=1317811&inflow=N",
     "https://www.etnews.com/20261023000250",
     "https://www.kmaeil.com/news/articleView.html?idxno=655555",
@@ -1940,15 +1942,15 @@
     "https://www.imaeil.com/page/view/2026102513350532063",
     "https://www.hankookilbo.com/news/article/A2026102511170001092?did=NA",
     "https://www.newspim.com/news/view/20261025000074",
-    "https://www.onews.tv/news/articleView.html?idxno=289937"
+    "https://www.onews.tv/news/articleView.html?idxno=289937",
+    "https://www.pennmike.com/news/articleView.html?idxno=130234",
+    "https://www.donga.com/news/Economy/article/all/20261025/134903391/1",
+    "https://www.joongang.co.kr/article/25472583",
+    "https://view.asiae.co.kr/article/2026102514500550173",
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5226968",
+    "https://www.kyeongin.com/article/1773318"
    ],
    "seen_titles": [
-    "셀트리온목표가'상향'…‘옴리클로’가실적레벨바꾼다[주가동향]",
-    "안성시,용인반도체산업단지조성관련기자회견",
-    "SK하닉3%대상승…코스피낙폭0%대축소'5500선회복'[장중시황]",
-    "[뉴스브리핑]오늘의주요뉴스…주주반발먹혔나…솔리다임미상장중...",
-    "해외조달막힌SK하이닉스…‘특구법특혜’극복관건",
-    "박찬대인천시장,삼성바이오·릴리와신약개발협력...송도글로벌R&D...",
     "금융당국5대의무쐐기에솔리다임백기",
     "방미통위,SKBAIDC분할심사착수",
     "안성시\"용인반도체산단조성,시민피해없도록총력다할것\"",
@@ -3442,10 +3444,16 @@
     "FIX2026관람객11만7천명…역대최대흥행",
     "PHP세번째보안취약점발견…추가보안조치권고",
     "'올림픽金3·AG金6'펜싱구본길,25년선수생활마침표…지도자로새...",
-    "'커지는'용인반도체산단만큼'안성의고통,더곪는다'"
+    "'커지는'용인반도체산단만큼'안성의고통,더곪는다'",
+    "코스피한달새18.8%급락...10대그룹시총1100조원증발",
+    "‘아이폰듀오’품절대란…20번도안접었는데화면‘쩍’내구성논...",
+    "삼성전자·SK하이닉스,3분기영업익185조육박…호실적뒤엔투자부담",
+    "[마켓ING]기업실적·FOMC몰린슈퍼위크속코스피반등모색",
+    "개인정보유출175건,1년넘게'조사중'…대형사건쏠림때문에",
+    "수소버스600대달리는인천…수소공급끊기면대책은?"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T14:50:22.694573+09:00"
+   "last_run": "2026-10-25T14:55:18.185235+09:00"
   }
  },
  "press_names": {
