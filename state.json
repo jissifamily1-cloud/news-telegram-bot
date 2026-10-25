@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-25T08:35:22.523867+09:00",
-     "보안의 고리 PHP 드러낸 시대 한국 사태가 해킹 약한"
-    ],
-    [
-     "2026-10-25T08:35:22.523867+09:00",
-     "국채금리 한은 연내 재정불안까지 인상 추가 급락 안갯"
-    ],
-    [
      "2026-10-25T08:40:26.508019+09:00",
      "삼전닉스 시총 3위 집은 다음은 증권가가 내년"
     ],
@@ -454,14 +446,17 @@
     [
      "2026-10-25T14:35:18.785271+09:00",
      "SK아이이테크놀로지 하락 주간 주가"
+    ],
+    [
+     "2026-10-25T14:40:24.832397+09:00",
+     "역대 FIX 관람객 11만7천명 흥행"
+    ],
+    [
+     "2026-10-25T14:40:24.832397+09:00",
+     "취약점 추가 보안 PHP 번째 발견 권고 조치"
     ]
    ],
    "seen_urls": [
-    "http://www.e2news.com/news/articleView.html?idxno=335387",
-    "https://www.etoday.co.kr/news/view/2639420",
-    "https://www.mk.co.kr/article/12184110",
-    "https://www.yna.co.kr/view/AKR20261023102700530?input=1195m",
-    "https://www.yna.co.kr/view/AKR20261023083100008?input=1195m",
     "https://m.sports.naver.com/basketball/article/065/0000303345",
     "https://www.nocutnews.co.kr/news/6596192",
     "http://www.joseilbo.com/news/news_read.php?uid=578029&class=53",
@@ -1956,14 +1951,14 @@
     "https://www.fnnews.com/news/202610221552332174",
     "https://isplus.com/article/view/isp202610250105",
     "https://www.fnnews.com/news/202610251333075536",
-    "https://www.vegannews.co.kr/news/article.html?no=396922"
+    "https://www.vegannews.co.kr/news/article.html?no=396922",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261025143622G9p",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000076439",
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00011&news_seq_no=5226965",
+    "https://www.imaeil.com/page/view/2026102513350532063",
+    "https://www.hankookilbo.com/news/article/A2026102511170001092?did=NA"
    ],
    "seen_titles": [
-    "[기자수첩]정유사수출통제이젠멈춰야",
-    "KIA,고종욱ㆍ이창진ㆍ홍건희등6명과결별⋯육성선수10명말소요청",
-    "SKhynixresumesbondinvestmentwith$2.3bnallocation",
-    "취업난속삼전닉스호황에반도체고경쟁률'쑥'",
-    "네오클라우드서빅테크로옮겨붙은AI신용위험…코스피'흔들'",
     "‘위대했던721일의여정’SGA,141경기연속20+점행진마침표",
     "'PO앞두고선수단개편'KIA,고종욱-홍건희-이창진등방출",
     "셀트리온목표가'상향'…‘옴리클로’가실적레벨바꾼다[주가동향]",
@@ -3458,10 +3453,15 @@
     "\"전화·문자로'모두의AI'와대화\"…SKT,한국인맞춤형AI로구글·오픈...",
     "[IS피플]\"시스템농구의핵심\"LG버팀목,'리바운드킹'마레이",
     "\"주식모르면이거사라며?\"…개인ETF80조담았다",
-    "SK아이이테크놀로지주가한주간15.8%하락"
+    "SK아이이테크놀로지주가한주간15.8%하락",
+    "삼전닉스3분기확정실적발표…합산영업이익180조상회전망",
+    "올림픽금메달3개펜싱영웅구본길,25년선수생활마침표",
+    "펜싱구본길,25년선수생활마무리…전국체전끝으로은퇴",
+    "FIX2026관람객11만7천명…역대최대흥행",
+    "PHP세번째보안취약점발견…추가보안조치권고"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T14:35:18.785271+09:00"
+   "last_run": "2026-10-25T14:40:24.832397+09:00"
   }
  },
  "press_names": {
