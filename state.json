@@ -450,14 +450,13 @@
     [
      "2026-10-25T14:15:22.115763+09:00",
      "새로운 영웅들이 서울의 김기동과 겨울 끝냈다"
+    ],
+    [
+     "2026-10-25T14:25:20.141272+09:00",
+     "최고가격제 청구서는 눈치보는 아직 손실 기름값 정유사 잡은"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026102314121438831",
-    "https://www.mk.co.kr/article/12184104",
-    "https://www.wikitree.co.kr/articles/1168586",
-    "https://www.hankyung.com/article/202610231111i",
-    "https://www.discoverynews.kr/news/articleView.html?idxno=1104759",
     "http://www.jeollailbo.com/news/articleView.html?idxno=814569",
     "http://www.fieldnews.kr/news/articleView.html?idxno=32488",
     "https://www.cwn.kr/news/articleView.html?idxno=60038",
@@ -1952,14 +1951,14 @@
     "https://www.nocutnews.co.kr/news/6596650",
     "http://www.srtimes.kr/news/articleView.html?idxno=215762",
     "http://www.segyebiz.com/newsView/20261025507101?OutUrl=naver",
-    "https://www.newsq.co.kr/news/articleView.html?idxno=500589"
+    "https://www.newsq.co.kr/news/articleView.html?idxno=500589",
+    "http://www.osen.co.kr/article/G1112897980",
+    "https://www.mk.co.kr/article/12185039",
+    "https://www.imaeil.com/page/view/2026102315554543846",
+    "https://www.hankookilbo.com/news/article/A2026102514100003624?did=NA",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221516560810760"
    ],
    "seen_titles": [
-    "[2026국감]환노위'맹탕국감'비판속산재청문회논의…건설공제이...",
-    "전국체전핸드볼,두산이SK호크스꺾고남일반금메달획득",
-    "[단독]전역코앞인'데프트'김혁규,농심입단확정",
-    "\"삼전닉스가자\"서울반도체고첫모집에303명몰렸다…마이스터고경...",
-    "인천시송도,글로벌신약개발거점으로전환시동",
     "전북푸른학교'2026장애청소년행복AI챌린지'2년연속대상",
     "김보라안성시장,반도체산단개발이익·피해불균형지적…상생협력...",
     "SK하이퍼,'AI데이터센터15GW청사진'...글로벌투자유치본격시동",
@@ -3454,10 +3453,15 @@
     "\"벅찼던환희\"…'최다金'펜싱구본길,'25년검'내려놨다",
     "삼성전자·SK하이닉스급락하자…개인,레버리지ETF다시샀다",
     "KB자산운용,ETF·연금‘양날개’…입지확대가속",
-    "서울의긴겨울,김기동과새로운영웅들이끝냈다[K리그]"
+    "서울의긴겨울,김기동과새로운영웅들이끝냈다[K리그]",
+    "'한국펜싱의황금기를이끈사나이'올림픽金3개-아시안게임金6개....",
+    "“요샌주식계좌확인안합니다”…대기업시총한달만에1100조사라져",
+    "급락·급등반복한증시…\"언제사야하나\"깊어지는혼란",
+    "'펜싱간판'구본길,25년선수생활은퇴선언...\"행복한시간이었다\"",
+    "기름값잡은최고가격제,손실청구서는아직…눈치보는정유사"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T14:20:24.993345+09:00"
+   "last_run": "2026-10-25T14:25:20.141272+09:00"
   }
  },
  "press_names": {
