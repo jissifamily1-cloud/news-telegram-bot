@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-25T14:40:24.832397+09:00",
-     "역대 FIX 관람객 11만7천명 흥행"
-    ],
-    [
-     "2026-10-25T14:40:24.832397+09:00",
-     "취약점 추가 보안 PHP 번째 발견 권고 조치"
-    ],
-    [
      "2026-10-25T14:55:18.185235+09:00",
      "조사 175건 넘게 대형 쏠림 때문에 개인정보 유출 사건 1년"
     ],
@@ -418,11 +410,13 @@
     [
      "2026-10-25T20:35:20.988803+09:00",
      "파이널A 주인공 K리그1 골인 등극 마지막 인천 상위스플릿"
+    ],
+    [
+     "2026-10-25T20:40:27.699638+09:00",
+     "Tokenized to on Chain Million Stock Robinhood Falls Trading"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000341789?division=NAVER",
-    "https://www.ajunews.com/view/20261023152159465",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=729832",
     "https://biz.newdaily.co.kr/site/data/html/2026/10/23/2026102300285.html",
     "https://www.fnnews.com/news/202610231541257462",
@@ -1920,11 +1914,11 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694560",
     "https://view.asiae.co.kr/article/2026102520294511000",
     "https://www.livebiz.today/news/articleView.html?idxno=205901",
-    "https://www.kyeongin.com/article/1773362"
+    "https://www.kyeongin.com/article/1773362",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=876053",
+    "https://econotimes.com/Tokenized-Stock-Trading-on-Robinhood-Chain-Falls-to-33-19-Million-1762953"
    ],
    "seen_titles": [
-    "[글로벌증시따라잡기]국내외반도체견조한실적에도미직근한주가...",
-    "메타,램리서치연이은눈높이미달…점점고조되는'AI버블'경고음",
     "코스피,美반도체주급락에도'강보합'…SK하이닉스4.4%↑",
     "코스피,'검은금요일'딛고극적반등…SK하닉4%대급등견인",
     "코스피5500선회복...\"중복상장우려해소로하이닉스반등\"[fn마감시황...",
@@ -3422,10 +3416,12 @@
     "골드만,코스피목표1만2천→9천…“그래도60%이상상승여력”",
     "골드만,코스피목표치25%↓조정…\"지나친비관론,여전히매력적\"",
     "골드만,코스피목표지수1만2천→9천으로낮췄지만...\"여전히60%이상...",
-    "인천,파이널A‘골인’…K리그1상위스플릿마지막주인공등극"
+    "인천,파이널A‘골인’…K리그1상위스플릿마지막주인공등극",
+    "삼성,한국가스공사꺾고KBL개막최다8연승타이",
+    "TokenizedStockTradingonRobinhoodChainFallsto$33.19Million"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T20:35:20.988803+09:00"
+   "last_run": "2026-10-25T20:40:27.699638+09:00"
   }
  },
  "press_names": {
