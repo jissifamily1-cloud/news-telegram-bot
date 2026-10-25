@@ -350,16 +350,21 @@
     [
      "2026-10-25T09:20:24.936773+09:00",
      "대이동 안전자산 선호 국채로 빅테크 불안에 기술주에서"
+    ],
+    [
+     "2026-10-25T09:25:19.147058+09:00",
+     "실적 30조 배당 매입 자사주 삼성전자 40조 SK하이닉스 발표"
+    ],
+    [
+     "2026-10-25T09:25:19.147058+09:00",
+     "63조 변수 교체에 ETF 흔들 매수세 종목 몰릴까 시장"
+    ],
+    [
+     "2026-10-25T09:25:19.147058+09:00",
+     "경질 시민단체 한수원노조 신규원전 장관 김성환 책임져야 지연"
     ]
    ],
    "seen_urls": [
-    "https://www.insightkorea.co.kr/news/articleView.html?idxno=257121",
-    "https://www.thepublic.kr/news/articleView.html?idxno=323370",
-    "https://www.hani.co.kr/arti/economy/marketing/1283816.html",
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=816871",
-    "https://www.goodkyung.com/news/articleView.html?idxno=292688",
-    "https://www.yna.co.kr/view/AKR20261023077700017?input=1195m",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610230053&t=NN",
     "https://www.mt.co.kr/stock/2026/10/23/2026102311253836419",
     "https://www.thepublic.kr/news/articleView.html?idxno=323447",
     "http://www.areyou.co.kr/news/articleView.html?idxno=95936",
@@ -1852,16 +1857,16 @@
     "https://www.ekn.kr/web/view.php?key=20261025025210849",
     "https://www.sedaily.com/article/20105691",
     "https://www.sedaily.com/article/20105690",
-    "https://www.sedaily.com/article/20105688"
+    "https://www.sedaily.com/article/20105688",
+    "https://www.dt.co.kr/article/12091004",
+    "https://www.sedaily.com/article/20105696",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000076363",
+    "https://www.dt.co.kr/article/12091009",
+    "https://www.insight.co.kr/news/579049",
+    "https://www.edaily.co.kr/News/Read?newsId=01249686645616528&mediaCodeNo=257",
+    "https://www.ekn.kr/web/view.php?key=20261025027230075"
    ],
    "seen_titles": [
-    "SK하이닉스,솔리다임상장검토중단…금융당국압박·증시불황여파",
-    "현대차그룹,차량용반도체국산화속도…국내기업과공급망구축",
-    "SK하이닉스,‘중복상장’논란에솔리다임나스닥상장결국철회",
-    "[포커스]SK하이닉스,솔리다임美상장철회…중복상장논란에스톱",
-    "[뉴욕증시포커스]AI투자부담에기술주급락…나스닥2.60%↓·반도체주...",
-    "방미통위,SK브로드밴드법인분할심사계획의결",
-    "코스피,미국빅테크폭락에속수무책…2%대하락",
     "실적시즌중복상장논란탈출…증권가\"다시펀더멘털로\"",
     "'55조원'매수공백에흔들린반도체투톱...실적이구원투수될까",
     "[아유경제_부동산]부산시,지역건설업체ㆍ대기업상생행사개최…\"하...",
@@ -3354,10 +3359,17 @@
     "“MSCI퇴출위기인도네시아보다싸”…삼전닉스에몰려든개미들[머...",
     "美,중국AI·첨단반도체투자옥죈다…생명공학까지규제확대",
     "미국10년물금리3년7개월만에최대낙폭…다시5%밑으로",
-    "“빅테크불안에안전자산선호”…기술주에서美국채로대이동"
+    "“빅테크불안에안전자산선호”…기술주에서美국채로대이동",
+    "삼성·SK하닉,3분기영업익185조전망…HBM4가실적키웠다",
+    "최태원뉴욕식당방문사진공개…솔리다임美투자행보주목",
+    "전남광주반도체인재정착관건은교육…국제학교설립·특구지정추...",
+    "10대그룹시총1100조증발…SK30%축소·LG선방",
+    "삼성전자30조배당ㆍSK하이닉스40조자사주매입...이번주실적발표...",
+    "63조ETF시장흔들변수…종목교체에매수세몰릴까",
+    "한수원노조·시민단체“신규원전지연책임져야”…김성환장관경질..."
    ],
    "initialized": true,
-   "last_run": "2026-10-25T09:20:24.936773+09:00"
+   "last_run": "2026-10-25T09:25:19.147058+09:00"
   }
  },
  "press_names": {
