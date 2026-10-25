@@ -413,7 +413,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10912749",
     "https://dealsite.co.kr/articles/171217",
     "https://www.redian.org/news/articleView.html?idxno=257529",
     "https://www.livebiz.today/news/articleView.html?idxno=205866",
@@ -1912,10 +1911,10 @@
     "https://www.sedaily.com/article/20105701",
     "http://www.srtimes.kr/news/articleView.html?idxno=215755",
     "https://biz.chosun.com/stock/stock_general/2026/10/25/4XTO2N7WABFMDAV4ZC6XD4FC5M/",
-    "https://en.yna.co.kr/view/AEN20261025001200320?input=2106m"
+    "https://en.yna.co.kr/view/AEN20261025001200320?input=2106m",
+    "https://biz.sbs.co.kr/article_hub/20000341950?division=NAVER"
    ],
    "seen_titles": [
-    "“솔리다임성장위한투자재원확보마련”",
     "빅테크도버거운AI투자금어디서…메타·앤트로픽에쏠린눈",
     "SK하이닉스,솔리다임상장검토중단...시장여건고려",
     "SK하이퍼,AI데이터센터구축자금유치본격화...초기5GW구축에463조...",
@@ -3414,10 +3413,11 @@
     "개미,단일종목레버리지다시‘사자’…규제강화석달만[마켓시그...",
     "코스피,반등지속여부주목…미금리결정·반도체실적변수",
     "투자자예탁금4개월만에51조급감…하락장에매수실탄바닥나나",
-    "SamsungElectronics,SKhynixsettoreportQ3earningsthisweek"
+    "SamsungElectronics,SKhynixsettoreportQ3earningsthisweek",
+    "삼전닉스,이번주3분기확정실적…합산영업익185조전망"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T10:15:23.153213+09:00"
+   "last_run": "2026-10-25T10:18:54.117470+09:00"
   }
  },
  "press_names": {
