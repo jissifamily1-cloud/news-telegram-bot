@@ -461,12 +461,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.metroseoul.co.kr/article/20261023500167",
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=766636",
-    "https://www.wikileaks-kr.org/news/articleView.html?idxno=193630",
-    "https://www.newspim.com/news/view/20261023000723",
-    "https://www.mk.co.kr/article/12184093",
-    "https://www.g-enews.com/view.php?ud=202610231356334008fbbec65dfb_1",
     "http://www.newstomato.com/ReadNews.aspx?no=1317807&inflow=N",
     "https://www.yna.co.kr/view/AKR20261023043251008?input=1195m",
     "https://www.bizwork.co.kr/news/articleView.html?idxno=420149",
@@ -1960,15 +1954,15 @@
     "https://biz.chosun.com/policy/policy_sub/2026/10/25/MZQ7SQSIUFFCPGNE2HK4CU5BTQ/",
     "https://www.delighti.co.kr/news/articleView.html?idxno=123809",
     "https://www.sedaily.com/article/20105750",
-    "http://www.metroseoul.co.kr/article/20261025500159"
+    "http://www.metroseoul.co.kr/article/20261025500159",
+    "https://www.starnewskorea.com/sports/2026/10/25/2026102510021210302",
+    "https://www.nocutnews.co.kr/news/6596648",
+    "https://www.industrynews.co.kr/news/articleView.html?idxno=88146",
+    "https://zdnet.co.kr/view/?no=20261025131537",
+    "https://www.newscj.com/news/articleView.html?idxno=3442896",
+    "http://www.newstomato.com/ReadNews.aspx?no=1317891&inflow=N"
    ],
    "seen_titles": [
-    "[특징주]SK하이닉스·삼성전자,장초반급락딛고반등",
-    "SK에코플랜트,용인백암초에AI스마트횡단보도조성…어린이통학안...",
-    "SK하이닉스,반도체주변동성확대에솔리다임IPO중단…\"성장방안계...",
-    "[특징주]솔리다임IPO중단에SK하이닉스반등…주주환원강화이어지...",
-    "아이폰듀오예약물량‘1분컷’…23일국내개통시작",
-    "20년매달린설계접은마이크론…D램패권3D로건너뛴다",
     "통신3사,'아이폰듀오'출시…사전예약1분만에마감",
     "[특징주]반도체주,솔리다임호재에낙폭줄여…하닉은2%반등(종합)",
     "SK텔레콤,첫폴더블아이폰'듀오'출시…AI·OTT혜택제공",
@@ -3462,10 +3456,16 @@
     "2분기韓경상수지흑자1166억달러…중국이어세계2위",
     "대형건설사들,중대재해영업정지에도소송제기후수주지속",
     "“삼전닉스다음은여기”‘시총3위’후보나왔다…증권사가뽑은내...",
-    "SK바이오사이언스,백신생산에AI전격도입...\"글로벌공정혁신\""
+    "SK바이오사이언스,백신생산에AI전격도입...\"글로벌공정혁신\"",
+    "\"언니잘좀해봐\"64강탈락→곧바로결승행,김보미'3전4기'첫우승...",
+    "이달10대그룹시총1100조원증발…SK30.1%감소↓",
+    "KERI,SiC반도체결함판별오류15년만에바로잡았다",
+    "[ZD브리핑]최대실적SK하이닉스‧삼성전자…주가견인할까",
+    "이번주'실적슈퍼위크'진입…삼성·SK하이닉스'주주환원'주목",
+    "솔리다임상장중단…SK하이닉스,미투자재원마련고심"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T13:55:20.305647+09:00"
+   "last_run": "2026-10-25T14:00:40.492517+09:00"
   }
  },
  "press_names": {
