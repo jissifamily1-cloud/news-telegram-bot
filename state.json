@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-26T02:05:21.543812+09:00",
-     "위축 주가 삼전닉스 투자 잡는 우려 되나 들고 발목 가도 계속"
-    ],
-    [
      "2026-10-26T02:30:33.748696+09:00",
      "상장폐지 풀고 관리종목 사유 SK증권제11호스팩"
     ],
@@ -442,16 +438,21 @@
     [
      "2026-10-26T08:05:19.427204+09:00",
      "대기업과 몸집 충전이 전기차 사모펀드 경쟁 지금 PE는 되네"
+    ],
+    [
+     "2026-10-26T08:10:25.946873+09:00",
+     "삼전 디티에스 하락 상승 추가 SK하닉"
+    ],
+    [
+     "2026-10-26T08:10:25.946873+09:00",
+     "프리마켓서 삼성전자 강보합 SK하이닉스"
+    ],
+    [
+     "2026-10-26T08:10:25.946873+09:00",
+     "공급사 데이터 수익 내는 속에서 구조 버블론 이익 플리토의 학습"
     ]
    ],
    "seen_urls": [
-    "https://www.asiatoday.co.kr/kn/view.php?key=20261023010008176",
-    "http://amenews.kr/news/view.php?idx=68416",
-    "https://www.joongangenews.com/news/articleView.html?idxno=557873",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=313834",
-    "https://www.starnewskorea.com/sports/2026/10/23/2026102315520095443",
-    "http://www.yonhapnewstv.co.kr/news/MYH20261023171835OVI",
-    "https://www.aitimes.com/news/articleView.html?idxno=216601",
     "https://biz.sbs.co.kr/article_hub/20000341870?division=NAVER",
     "https://www.ikbc.co.kr/article/view/kbc202610230052",
     "https://www.businesspost.co.kr/BP?command=article_view&num=450174",
@@ -1944,16 +1945,16 @@
     "https://www.cstimes.com/news/articleView.html?idxno=725206",
     "https://economist.co.kr/article/view/ecn202610190051",
     "https://view.asiae.co.kr/article/2026102309560654554",
-    "https://view.asiae.co.kr/article/2026102215463827210"
+    "https://view.asiae.co.kr/article/2026102215463827210",
+    "https://www.cstimes.com/news/articleView.html?idxno=725138",
+    "https://biz.newdaily.co.kr/site/data/html/2026/10/26/2026102600014.html",
+    "http://www.press9.kr/news/articleView.html?idxno=84853",
+    "https://www.newspim.com/news/view/20261026000054",
+    "https://www.etoday.co.kr/news/view/2639818",
+    "https://www.newsis.com/view/NISX20261026_0003840367",
+    "https://platum.kr/archives/296795"
    ],
    "seen_titles": [
-    "코스피거래대금·예탁금바닥권…개미자금은다시美증시로",
-    "탄소산업,AI·AX전환넘어제조혁신·시장연계강화",
-    "美,中반도체·AI연구협력압박…중국반발에韓산업계도촉각",
-    "역대급실적·성과급의이면…SK하이닉스신입사원월급여2년간9만원...",
-    "[오피셜]'KIA가을야구한창인데'결국칼바람피하지못했다'FA베테랑...",
-    "[퇴근길머니]솔리다임상장접은SK하이닉스…325억‘유령입금’소...",
-    "SK하이닉스,미국손자회사솔리다임IPO검토중단",
     "'솔리다임봐라'\"中당국,분할상장심사강화\"블룸버그",
     "솔리다임상장철회효과?…'나스닥급락'이기고5,500선회복",
     "'솔리다임부담'털어낸SK하이닉스,주주환원강화기대에투심회복탄...",
@@ -3446,10 +3447,17 @@
     "대형사건에밀린개인정보유출조사…1년넘게175건계류",
     "AI거품이라는데…SK하이닉스가54조쏟아붓는이유",
     "\"우리도FA대박이다\"…‘프로야구감독의몸값고공행진’",
-    "'전기차충전이돈되네'…사모펀드,대기업과‘몸집’경쟁[PE는지금..."
+    "'전기차충전이돈되네'…사모펀드,대기업과‘몸집’경쟁[PE는지금...",
+    "SK하이닉스,실적호재냐美금리부담이냐…주가시험대",
+    "[속보]삼전닉스,확정실적앞두고프리마켓소폭상승…유가·빅테크...",
+    "삼성·SK하이닉스,2년간영업익1571조…슈퍼사이클기대-KB증권",
+    "[아시아특징주]골드만삭스,코스피12개월목표가25%하향",
+    "[전날애프터마켓]디티에스추가상승…삼전·SK하닉하락",
+    "삼성전자,프리마켓서강보합…SK하이닉스1%↑",
+    "AI버블론속에서이익내는학습데이터공급사,플리토의수익구조"
    ],
    "initialized": true,
-   "last_run": "2026-10-26T08:05:19.427204+09:00"
+   "last_run": "2026-10-26T08:10:25.946873+09:00"
   }
  },
  "press_names": {
