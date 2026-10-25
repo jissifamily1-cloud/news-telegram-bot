@@ -482,13 +482,21 @@
     [
      "2026-10-25T11:25:19.036447+09:00",
      "폐막 상담액 나흘간 11만7000명 5086억 방문 FIX"
+    ],
+    [
+     "2026-10-25T11:30:31.584591+09:00",
+     "맞춤형 전국 어린이 31일 이천시 PLAY AI축제 미래상상 열린 개최"
+    ],
+    [
+     "2026-10-25T11:30:31.584591+09:00",
+     "GSAT 2026년 실시 삼성 하반기 공채"
+    ],
+    [
+     "2026-10-25T11:30:31.584591+09:00",
+     "기술 사활 공포에 자립 빅테크 적자"
     ]
    ],
    "seen_urls": [
-    "https://imnews.imbc.com/replay/2026/nw1200/article/6860190_36967.html",
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=396080",
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=396082",
-    "https://biz.chosun.com/stock/stock_general/2026/10/23/L3USLICAKBFTVLYU34GMSKXEZU/",
     "https://theopiniontimes.news/%eb%aa%b8%ea%b0%92-200%ec%a1%b0-%ea%b1%b0%eb%a1%a0%eb%90%98%eb%8d%98-%ec%86%94%eb%a6%ac%eb%8b%a4%ec%9e%84-ipo-%eb%a9%88%ec%b7%84%eb%8b%a4-%ec%a4%91%eb%b3%b5%ec%83%81%ec%9e%a5-%ec%95%95%eb%b0%95/",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=601433",
     "https://www.mt.co.kr/politics/2026/10/23/2026102311182724168",
@@ -1984,13 +1992,13 @@
     "https://www.mt.co.kr/stock/2026/10/25/2026102510413168261",
     "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160283637001836",
     "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160259410116036",
-    "https://www.news1.kr/local/daegu-gyeongbuk/6330991"
+    "https://www.news1.kr/local/daegu-gyeongbuk/6330991",
+    "https://www.hankyung.com/article/2026102530707",
+    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038700",
+    "https://www.todayenergy.kr/news/articleView.html?idxno=304631",
+    "http://www.metroseoul.co.kr/article/20261025500114"
    ],
    "seen_titles": [
-    "'중복상장논란'에결국‥솔리다임IPO'철회'",
-    "[테오도르의기술적분석]코스피와주요종목향방은?",
-    "테오도르주식시장분석:외국인대규모순매도,개인과기관이순매수",
-    "낙폭줄인코스피,5400선등락…SK하이닉스보합권",
     "몸값200조거론되던솔리다임IPO멈췄다...'중복상장'압박에79일만에...",
     "국책은행이대기업인수금융위험까지⋯산업은행두산2.5조금융패키지...",
     "중대재해·인권침해기업출석없는환노위…野\"말로만노동존중\"",
@@ -3486,10 +3494,14 @@
     "솔리다임상장중단후반등한코스피…FOMC·실적주목",
     "안성시,용인반도체산단환경·농업피해우려제기…추가협상추진",
     "용인특례시백암초앞AI스마트횡단보도·옐로카펫준공",
-    "'FIX2026'폐막…나흘간11만7000명방문·상담액5086억"
+    "'FIX2026'폐막…나흘간11만7000명방문·상담액5086억",
+    "한달새10대그룹시총1100조증발…SK그룹30%급감",
+    "이천시,전국최초어린이맞춤형AI축제개최…'미래상상PLAY'31일열린...",
+    "삼성,2026년하반기공채GSAT실시",
+    "[M-커버스토리]적자공포에'기술자립'사활건빅테크"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T11:25:19.036447+09:00"
+   "last_run": "2026-10-25T11:30:31.584591+09:00"
   }
  },
  "press_names": {
