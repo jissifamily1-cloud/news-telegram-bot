@@ -441,11 +441,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20105286",
-    "https://www.munhwa.com/article/11625780",
-    "http://www.dailypop.kr/news/articleView.html?idxno=103620",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16255898",
-    "https://biz.chosun.com/it-science/ict/2026/10/23/AKH27O634RBEHPSG7IKZMTMG4Q/",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709513",
     "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171355",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221459384950753",
@@ -1940,14 +1935,14 @@
     "https://www.newsway.co.kr/news/view?ud=2026102510300218542",
     "https://www.seoulfn.com/news/articleView.html?idxno=640903",
     "https://www.m-i.kr/news/articleView.html?idxno=2009871",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=619030"
+    "https://www.cbci.co.kr/news/articleView.html?idxno=619030",
+    "https://www.sisajournal.com/news/articleView.html?idxno=391592",
+    "https://www.ajunews.com/view/20261025102935682",
+    "https://www.ajunews.com/view/20261025102356662",
+    "https://biz.chosun.com/stock/stock_general/2026/10/25/J4SSA6WFLBELZCHWULHN5VSKUE/",
+    "https://www.news1.kr/finance/general-stock/6330949"
    ],
    "seen_titles": [
-    "분기마다AI지출목표늘리는현금부족회사[트럼프스톡커]",
-    "‘23.7억’분당구축신고가행진…재건축기대감에‘갈아타기’유...",
-    "한화·포스코·SK·삼성,자산팔아미래사업투자확대",
-    "\"PO1차전8번이KS행\"…KBO2위직행팀이변과확률",
-    "방미통위,SK브로드밴드분할심사착수…기본계획의결",
     "방미통위,SKB법인분할변경허가심사착수",
     "이상지질혈증복합형시장'4파전'…중성지방공략경쟁",
     "백승기경기도의원,SK하이닉스용인반도체클러스터방류계획반대",
@@ -3442,10 +3437,15 @@
     "10대그룹시총1100조축소…삼성·SK에감소분90%집중",
     "'반도체'로독·일경상흑자추월···업황둔화대비해야",
     "외국인60조팔아도…우리금융미래에셋증권LG이노텍등매수",
-    "삼성바이오로직스강세,알테오젠등약세…양대지수,뉴욕증시하락국..."
+    "삼성바이오로직스강세,알테오젠등약세…양대지수,뉴욕증시하락국...",
+    "증시급락직격탄맞은10대그룹…한달새시총1100조원증발",
+    "ETF,개인80조·외국인10조순매수…하반기약세에도투자열기지속",
+    "개인정보유출사건175건,1년넘게'조사중'…장기계류30건",
+    "[주간증시전망]‘역대급실적’기대에도못웃는증시…AI불신에수급...",
+    "코스피급락에10대그룹시총1100조증발…삼전닉스에서만995조날아..."
    ],
    "initialized": true,
-   "last_run": "2026-10-25T10:35:23.105492+09:00"
+   "last_run": "2026-10-25T10:40:25.722930+09:00"
   }
  },
  "press_names": {
