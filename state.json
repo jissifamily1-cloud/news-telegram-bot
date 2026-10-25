@@ -385,8 +385,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH20261023160022zyr",
-    "https://economist.co.kr/article/view/ecn202610230036",
     "http://www.inews24.com/view/2018445",
     "https://www.dailian.co.kr/news/view/1705456/?sc=Naver",
     "https://www.jasm.co.kr/news/view/322740/?sc=Naver",
@@ -1884,11 +1882,11 @@
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434817",
     "https://www.munhwa.com/article/11626083",
     "https://www.imaeil.com/page/view/2026102514380903098",
-    "https://www.wikitree.co.kr/articles/1168993"
+    "https://www.wikitree.co.kr/articles/1168993",
+    "https://isplus.com/article/view/isp202610250133",
+    "http://www.apparelnews.co.kr/news/news_view/?idx=228474"
    ],
    "seen_titles": [
-    "[속보]코스피0.30%오른5,550.30종료",
-    "“환상이냐실제냐”…자고일어나면바뀌는AI투심에증시는롤러코스...",
     "'전약후강'코스피'5550선'강보합마감⋯반도체株'반등'",
     "외인1조팔았지만…코스피,‘솔리다임우려’해소에반등[시황]",
     "코스피,外人홀로'팔자'…기관·개인매수에소폭상승마감",
@@ -3386,10 +3384,12 @@
     "'만년꼴찌의반란'서울삼성,한국가스공사꺾고개막8연승타이기록...",
     "염승환“AI병목은메모리와전력뿐…반도체사이클4년지속”",
     "SK하이닉스,솔리다임상장전격중단…\"시장여건변화\"",
-    "삼성전자도SK하이닉스도아니다…일주일간순매수1위한'이곳'"
+    "삼성전자도SK하이닉스도아니다…일주일간순매수1위한'이곳'",
+    "'자력우승까지단5점'K리그2수원,구단최초리그7연승",
+    "대형유통신규출점22곳…복합쇼핑몰에투자집중"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T22:00:40.245042+09:00"
+   "last_run": "2026-10-25T22:05:20.406349+09:00"
   }
  },
  "press_names": {
