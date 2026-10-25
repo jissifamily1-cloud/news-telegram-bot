@@ -362,17 +362,21 @@
     [
      "2026-10-25T09:25:19.147058+09:00",
      "경질 시민단체 한수원노조 신규원전 장관 김성환 책임져야 지연"
+    ],
+    [
+     "2026-10-25T09:35:18.255255+09:00",
+     "눈길 SKT는 게이트웨이로 토큰 돌렸나"
+    ],
+    [
+     "2026-10-25T09:35:18.255255+09:00",
+     "앞둔 국내 에너지 LNG는 막혔다 수급 돌아오는데 겨울 원유는 긴장"
+    ],
+    [
+     "2026-10-25T09:35:18.255255+09:00",
+     "짜고 진화 AI의 돈다 순찰도 일정 수술 어디까지"
     ]
    ],
    "seen_urls": [
-    "http://www.areyou.co.kr/news/articleView.html?idxno=95936",
-    "https://www.yna.co.kr/view/AKR20261023079300008?input=1195m",
-    "https://www.yna.co.kr/view/AKR20261023076100008?input=1195m",
-    "https://biz.sbs.co.kr/article_hub/20000341767?division=NAVER",
-    "https://biz.newdaily.co.kr/site/data/html/2026/10/23/2026102300125.html",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=875629",
-    "https://www.mydaily.co.kr/page/view/2026102311092598412",
-    "https://biz.sbs.co.kr/article_hub/20000341757?division=NAVER",
     "https://www.mk.co.kr/article/12183984",
     "https://www.slist.kr/news/articleView.html?idxno=775835",
     "https://www.kukinews.com/article/view/kuk202610230081",
@@ -1864,17 +1868,17 @@
     "https://www.edaily.co.kr/News/Read?newsId=01249686645616528&mediaCodeNo=257",
     "https://www.ekn.kr/web/view.php?key=20261025027230075",
     "https://www.youthdaily.co.kr/news/article.html?no=228808",
-    "http://www.yonhapnewstv.co.kr/news/AKR20261025092439H9e"
+    "http://www.yonhapnewstv.co.kr/news/AKR20261025092439H9e",
+    "https://www.tjb.co.kr/news05/bodo/view/id/105261",
+    "https://www.mediapen.com/news/view/1132190",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261025093102d6f",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=319530",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=146148",
+    "https://zdnet.co.kr/view/?no=20261024132650",
+    "https://www.mediapen.com/news/view/1132116",
+    "https://www.yna.co.kr/view/AKR20261023057700017?input=1195m"
    ],
    "seen_titles": [
-    "[아유경제_부동산]부산시,지역건설업체ㆍ대기업상생행사개최…\"하...",
-    "AI신용우려에코스피'벌벌'…하이닉스호재에도속수무책",
-    "코스피,4%급락후낙폭좁혀5,390선…하닉은한때상승전환",
-    "SK하이퍼정석근\"데이터센터에463조원투입구상\"",
-    "AI성장축떼어내는SKB,위기이자기회…김성수대표경영능력시험...",
-    "SK이노,신규유전목적지베트남...정유·윤활유·발전'청신호'",
-    "“상장멈췄지만투자는남았다”…SK하이닉스의다음선택은",
-    "상장접은솔리다임…꼬여버린SK셈법",
     "“이제삼전닉스들어가도되나요”…솔리다임상장중단,반도체주반...",
     "SK하이닉스,솔리다임상장검토중단에낙폭만회…장중123만원대회복",
     "YTN·연합뉴스TV재승인심사3개월빨라지나…사장추천위규정위반",
@@ -3366,10 +3370,18 @@
     "63조ETF시장흔들변수…종목교체에매수세몰릴까",
     "한수원노조·시민단체“신규원전지연책임져야”…김성환장관경질...",
     "개인정보유출조사175건1년째미처리...장기계류30건",
-    "삼전닉스,이번주3분기확정실적…합산영업이익185조전망"
+    "삼전닉스,이번주3분기확정실적…합산영업이익185조전망",
+    "1년넘게'조사중'…대형사건에밀린개인정보유출175건",
+    "7000선서5500선까지추락한코스피…반등열쇠는반도체실적",
+    "반도체소부장,AI타고'훨훨'…글로벌진출확대",
+    "[글로벌주간브리핑]투자늘려도주가는하락…AI·반도체·자동차의...",
+    "[이번주증시]국내외기업실적주목...수급공백해소여부도관건",
+    "SKT는왜토큰게이트웨이로눈길돌렸나",
+    "원유는돌아오는데LNG는막혔다…겨울앞둔국내에너지수급'긴장'",
+    "[AI위클리]수술일정짜고순찰도돈다…AI의진화어디까지"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T09:30:32.635713+09:00"
+   "last_run": "2026-10-25T09:35:18.255255+09:00"
   }
  },
  "press_names": {
