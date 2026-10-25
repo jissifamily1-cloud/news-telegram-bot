@@ -465,9 +465,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261023_0003838575",
-    "https://www.newspim.com/news/view/20261023000735",
-    "https://www.kmaeil.com/news/articleView.html?idxno=655547",
     "https://news.unn.net/news/articleView.html?idxno=599100",
     "https://www.mt.co.kr/industry/2026/10/23/2026102311032814733",
     "https://www.joongang.co.kr/article/25472264",
@@ -1964,12 +1961,12 @@
     "https://www.getnews.co.kr/news/articleView.html?idxno=884720",
     "https://m.sports.naver.com/basketball/article/065/0000303444",
     "https://biz.chosun.com/stock/stock_general/2026/10/25/KS4WWGN7WJCIJHZ2B33LSPNS5Q/",
-    "https://www.edaily.co.kr/News/Read?newsId=01833526645616528&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01833526645616528&mediaCodeNo=257",
+    "https://www.kado.net/news/articleView.html?idxno=2080155",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261025134754Pvw",
+    "https://www.hidomin.com/news/articleView.html?idxno=726288"
    ],
    "seen_titles": [
-    "공소청,'노태우비자금의혹'이병기전비서관참고인조사",
-    "SK에코플랜트,용인백암초앞'AI스마트횡단보도'구축…통학로안전...",
-    "용인특례시,백암초에AI스마트횡단보도·옐로카펫조성",
     "대학생이꼽은분야별선호인물1위,이재명·페이커·김지원·이재용...",
     "AI전력난구원투수'SMR'..SK·두산이그리는차세대원전",
     "“대학대신삼전닉스갈래요”…1600명몰린고등학교정체",
@@ -3466,10 +3463,13 @@
     "'FIX2026'엑스코서성료…11만7천명몰리며'글로벌기술축제'각인",
     "[웜업터뷰]‘무니결장’유도훈감독“국내선수들힘들테지만...전...",
     "‘역대급’폭락장에…10대그룹시총한달새1100조증발",
-    "\"SK순자산100조시총은25조\"...할인율75%vs53%차이왜?"
+    "\"SK순자산100조시총은25조\"...할인율75%vs53%차이왜?",
+    "'AG한국최다금6개·올림픽금3개'펜싱구본길,25년선수생활마...",
+    "개인,이번달단일레버리지14종순매수전환",
+    "구미시,반도체스쿨콘서트개최…미래인재육성"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T13:45:24.307711+09:00"
+   "last_run": "2026-10-25T13:50:23.658761+09:00"
   }
  },
  "press_names": {
