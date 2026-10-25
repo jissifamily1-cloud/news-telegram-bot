@@ -166,10 +166,13 @@
     [
      "2026-10-26T02:40:24.366118+09:00",
      "Places Ranking Spot Intel Third Above Gartner One hynix"
+    ],
+    [
+     "2026-10-26T03:00:43.145909+09:00",
+     "리버스 스윕 닦았다 7년 김보미 4개월의 LPBA 눈물 투어"
     ]
    ],
    "seen_urls": [
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2483918",
     "https://view.asiae.co.kr/article/2026102316141192290",
     "https://www.news1.kr/finance/general-stock/6330173",
     "https://bizhankook.com/articles/nvidia-industrial-ai-german-startup.html",
@@ -1668,10 +1671,10 @@
     "http://www.osen.co.kr/article/G1112898099",
     "https://www.newsis.com/view/NISX20261023_0003838097",
     "https://www.vegannews.co.kr/news/article.html?no=397104",
-    "https://econotimes.com/Gartner-s-2025-Ranking-Places-SK-hynix-Third-One-Spot-Above-Intel-1763091"
+    "https://econotimes.com/Gartner-s-2025-Ranking-Places-SK-hynix-Third-One-Spot-Above-Intel-1763091",
+    "https://www.thebilliards.kr/news/articleView.html?idxno=32264"
    ],
    "seen_titles": [
-    "코스피,외인1조매도에도막판반등",
     "코스피,5500선회복…'솔리다임IPO철회'SK하이닉스강세",
     "코스피,4%급락딛고5500선'방어'…SK하닉반등견인[시황종합]",
     "[유럽스타트업열전]젠슨황'픽'독일스타트업…엔비디아다음승부처...",
@@ -3170,10 +3173,11 @@
     "'1군등판0경기→끝내방출'KIA떠나는우승멤버의먹먹한작별…“...",
     "\"삼전닉스계속들고가도되나\"…주가발목잡는'AI투자위축'우려",
     "SK증권제11호스팩,관리종목사유못풀고상장폐지",
-    "Gartner’s2025RankingPlacesSKhynixThird,OneSpotAboveIntel"
+    "Gartner’s2025RankingPlacesSKhynixThird,OneSpotAboveIntel",
+    "\"7년4개월의눈물닦았다\"…김보미,'0-3→4-3리버스스윕'LPBA투어'..."
    ],
    "initialized": true,
-   "last_run": "2026-10-26T02:55:20.113733+09:00"
+   "last_run": "2026-10-26T03:00:43.145909+09:00"
   }
  },
  "press_names": {
