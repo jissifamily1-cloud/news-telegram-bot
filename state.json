@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-25T05:45:25.589152+09:00",
-     "현대 정규 비기며 파이널 안양과 전북 마무리 4위 라운드"
-    ],
-    [
      "2026-10-25T05:55:20.178942+09:00",
      "단순 카페로 생태계 시연 휴머노이드 물리적 공장 넘어"
     ],
@@ -490,13 +486,17 @@
     [
      "2026-10-25T11:35:18.125656+09:00",
      "반도체산업 김보라 시민 전제돼선 발전 안성시장 희생"
+    ],
+    [
+     "2026-10-25T11:50:24.967754+09:00",
+     "인천 비행기 유나이티드 진출 자축 파이널 세리머니로"
+    ],
+    [
+     "2026-10-25T11:50:24.967754+09:00",
+     "11만 FIX UAM 몰려 독일 기체 대구광역시장 7천명 추경호"
     ]
    ],
    "seen_urls": [
-    "https://www.suwonilbo.kr/view.html?id=L261023122438ad77",
-    "https://www.hani.co.kr/arti/economy/it/1283824.html",
-    "https://www.yakup.com/news/index.html?cat=12&nid=334186",
-    "https://www.news1.kr/local/gyeonggi/6329844",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=279533",
     "https://news.tf.co.kr/read/economy/2380002.htm",
     "https://m.sports.naver.com/basketball/article/065/0000303341",
@@ -1992,13 +1992,13 @@
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553642818",
     "https://economist.co.kr/article/view/ecn202610250005",
     "https://biz.newdaily.co.kr/site/data/html/2026/10/25/2026102500037.html",
-    "https://economist.co.kr/article/view/ecn202610250006"
+    "https://economist.co.kr/article/view/ecn202610250006",
+    "https://www.mk.co.kr/article/12184985",
+    "https://www.seoulfn.com/news/articleView.html?idxno=640909",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003278431&CMPT_CD=P0010",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3731762"
    ],
    "seen_titles": [
-    "백암초건널목에AI횡단보도설치…사회공헌결실",
-    "애플첫폴더블‘아이폰듀오’오늘출시…통신사사전예약1분만에...",
-    "\"인천바이오메가클러스터,생산이어신약개발허브로\"일라이릴리·삼...",
-    "용인백암초에AI스마트횡단보도…\"통학길안전강화\"",
     "[MorningMarket]KOSPIThreatens5,300LevelAmidTechSelloff",
     "신세계,'올리브영10년CEO'허민호영입…화장품·가구동시에맡긴다",
     "굿윈-유기상-양홍석-타마요-마레이조합,언제볼수있을까?",
@@ -3494,10 +3494,14 @@
     "'4번째도전'김보미,무관설움떨쳐낼까...통산5승'원조퀸'임정숙...",
     "코스피폭락에10대그룹시총1100조증발…SK한달새30%급감",
     "코스피급락에10대그룹'와르르'…시총한달새1100조날아갔다",
-    "\"개미들실탄바닥나나\"…코스피폭락에예탁금51조원'증발'"
+    "\"개미들실탄바닥나나\"…코스피폭락에예탁금51조원'증발'",
+    "증시꺾여도ETF는산다...TIGERS&P500순매수1위",
+    "개인,올해ETF80조샀다···거래대금상위30개중18개가ETF",
+    "인천유나이티드,비행기세리머니로파이널A진출자축",
+    "추경호대구광역시장,'FIX2026'11만7천명몰려...독일UAM기체첫공..."
    ],
    "initialized": true,
-   "last_run": "2026-10-25T11:45:21.471713+09:00"
+   "last_run": "2026-10-25T11:50:24.967754+09:00"
   }
  },
  "press_names": {
