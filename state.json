@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-25T17:55:19.209346+09:00",
-     "폐렴구균 주가 3상에 백신 관심 상승 여력"
-    ],
-    [
-     "2026-10-25T17:55:19.209346+09:00",
-     "독감 SK바이오사이언스 에볼라 스타즈 효과 백신사업 인수 탄력 IDT"
-    ],
-    [
-     "2026-10-25T17:55:19.209346+09:00",
-     "불붙은 화이트해커 확보전 IT 금융까지"
-    ],
-    [
-     "2026-10-25T17:55:19.209346+09:00",
-     "골드만삭스 하향 코스피 목표치 투자 우려 영향"
-    ],
-    [
      "2026-10-25T18:00:39.457584+09:00",
      "삼성전자 탓인가 비실대는 이해상충 오너와 주가"
     ],
@@ -250,11 +234,13 @@
     [
      "2026-10-25T23:45:26.039514+09:00",
      "재점검 사고 도중 코트 추락 드론 관리 대형 KT전 하마터면 안전"
+    ],
+    [
+     "2026-10-25T23:55:19.545649+09:00",
+     "요구 상생 보태야 정부가 김보라의 경기도"
     ]
    ],
    "seen_urls": [
-    "https://www.newstopkorea.com/news/articleView.html?idxno=48430",
-    "http://www.popcornnews.net/news/articleView.html?idxno=137137",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=282281",
     "https://www.m-i.kr/news/articleView.html?idxno=2009715",
     "https://www.joongangenews.com/news/articleView.html?idxno=557842",
@@ -1752,11 +1738,11 @@
     "https://www.joongang.co.kr/article/25472636",
     "https://m.sports.naver.com/basketball/article/065/0000303486",
     "https://www.ikbc.co.kr/article/view/kbc202610250049",
-    "https://basketkorea.com/news/newsview.php?ncode=1065622987426212"
+    "https://basketkorea.com/news/newsview.php?ncode=1065622987426212",
+    "http://www.newstown.co.kr/news/articleView.html?idxno=719609",
+    "http://www.newstown.co.kr/news/articleView.html?idxno=719538"
    ],
    "seen_titles": [
-    "오로라파트너스,에이팩트에'300억'더넣는다",
-    "[2026국감]과방위종감,지하철와이파이전국확대부터AI안경까지…...",
     "[국감2026]홍범식LG유플대표\"해킹사고,정부지침에합당한책임...",
     "SK브로드밴드AIDC분할심사착수…방송사업재정기반점검",
     "[종합]정부,반도체메가프로젝트규제대폭완화…핵심연구인력근로...",
@@ -3254,10 +3240,12 @@
     "1만2000서9000으로…코스피눈높이낮춘골드만",
     "8승까지평균27.8경기걸렸던삼성,PO탈락경우의수모두지웠다",
     "골드만삭스,코스피목표치1만2천→9천하향…\"그래도60%상승여력\"",
-    "‘하마터면대형사고’SK-KT전도중드론코트추락,안전관리재점검..."
+    "‘하마터면대형사고’SK-KT전도중드론코트추락,안전관리재점검...",
+    "수원특례시,'2026대한민국공공디자인대상'지관서가로수상",
+    "[김병철현장과시선]김보라의상생요구,경기도·정부가힘보태야"
    ],
    "initialized": true,
-   "last_run": "2026-10-25T23:50:27.069655+09:00"
+   "last_run": "2026-10-25T23:55:19.545649+09:00"
   }
  },
  "press_names": {
