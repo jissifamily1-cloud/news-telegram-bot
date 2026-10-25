@@ -498,14 +498,21 @@
     [
      "2026-10-26T08:25:20.339574+09:00",
      "LG전자 세탁 GSAT 상업용 2026년 실시 삼성 하반기 삼성직무적성검사"
+    ],
+    [
+     "2026-10-26T08:30:33.400110+09:00",
+     "호황 반도체 금융시장 급락 코스피"
+    ],
+    [
+     "2026-10-26T08:30:33.400110+09:00",
+     "상반기 7000선 내년 6월부터 코스피 반등은 횡보"
+    ],
+    [
+     "2026-10-26T08:30:33.400110+09:00",
+     "선호 투자 않는 열기 식지 장기 하락세에도 코스피"
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20261023000338",
-    "http://www.srtimes.kr/news/articleView.html?idxno=215719",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003278034&CMPT_CD=P0010",
-    "https://www.mk.co.kr/article/12184382",
-    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038651",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=396121",
     "https://www.topdaily.kr/articles/112481",
     "https://www.gokorea.kr/news/articleView.html?idxno=882540",
@@ -2000,14 +2007,14 @@
     "https://biz.sbs.co.kr/article_hub/20000342023?division=NAVER",
     "https://www.ajunews.com/view/20261026081558721",
     "https://view.asiae.co.kr/article/2026102608184238617",
-    "http://www.wsobi.com/news/articleView.html?idxno=320305"
+    "http://www.wsobi.com/news/articleView.html?idxno=320305",
+    "https://biz.sbs.co.kr/article_hub/20000342018?division=NAVER",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4441014",
+    "http://kor.theasian.asia/archives/419687",
+    "https://www.edaily.co.kr/News/Read?newsId=02027046645616856&mediaCodeNo=257",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=619083"
    ],
    "seen_titles": [
-    "SK하이퍼,글로벌투자유치착수…내년첫매출목표",
-    "방미통위,SKB법인분할심사착수…IHQ과징금3,000만원부과",
-    "\"쉬었음청년아니다\"...간병떠안은20대의절규",
-    "서인영,혼전계약서꼭써야한다?“안쓴것땅치고후회”(유행꼰...",
-    "송도바이오클러스터,위탁생산넘어'글로벌신약허브'로",
     "\"장중-4%급락딛고반격\"…코스피,극적상승전환하며5,550선안착",
     "[국정감사][2026]홍범식LG유플러스대표,서버폐기의혹에합당한'...",
     "LG유플러스해킹파문,고객피해보상과위약금면제여부는?",
@@ -3502,10 +3509,15 @@
     "[기업이슈]솔리다임상장중단후반등한코스피",
     "골드만삭스,코스피목표치1만2000→9000하향…\"상승여력60%\"",
     "\"커지는ESS시장…K-배터리증산본격화기대\"",
-    "삼성-LG전자,2026년하반기삼성직무적성검사(GSAT)실시...상업용세탁..."
+    "삼성-LG전자,2026년하반기삼성직무적성검사(GSAT)실시...상업용세탁...",
+    "[어제장오늘장]슈퍼위크개막…삼성전자·SK하이닉스주목",
+    "고점대비38%폭락한코스닥…SK증권\"악재딛고바닥쳤다\"",
+    "[오늘의신문]코스피한달새18.8%급락…반도체호황속금융시장불...",
+    "“코스피반등은내년6월부터…상반기7000선횡보”",
+    "[개인ETF80조]코스피하락세에도식지않는열기…장기투자선호현..."
    ],
    "initialized": true,
-   "last_run": "2026-10-26T08:25:20.339574+09:00"
+   "last_run": "2026-10-26T08:30:33.400110+09:00"
   }
  },
  "press_names": {
