@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-26T22:15:26.443727+09:00",
-     "그리기 SK오션플랜트 띠앗봉사단 활동 벽화"
-    ],
-    [
-     "2026-10-26T22:15:26.443727+09:00",
-     "SK하이닉스 54조원이상 최소 주주환원여력 올해 남은"
-    ],
-    [
      "2026-10-26T22:35:22.667315+09:00",
      "Gain Early Korea hynix South KOSPI Falls Reverses as"
     ],
@@ -142,10 +134,13 @@
     [
      "2026-10-27T04:10:28.442534+09:00",
      "거품론의 현금 심판대 IPO 앤트로픽 보유 공개 역사상"
+    ],
+    [
+     "2026-10-27T04:15:28.035365+09:00",
+     "삼전닉스 벌고도 역사적 역주행 184조 저평가 주가는"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026102639586",
     "https://www.newsis.com/view/NISX20261026_0003840297",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005946799",
     "https://www.getnews.co.kr/news/articleView.html?idxno=884751",
@@ -1644,10 +1639,10 @@
     "https://econotimes.com/Bloomberg-Goldman-Sachs-Cuts-KOSPI-Target-25-to-9-000-as-AI-Returns-Face-Scrutiny-1763884",
     "https://www.g-enews.com/view.php?ud=2026102623050049559a1f309431_1",
     "https://www.mt.co.kr/tech/2026/10/27/2026102511462161949",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610270001&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610270001&t=NN",
+    "https://www.mt.co.kr/stock/2026/10/27/2026102620094547941"
    ],
    "seen_titles": [
-    "\"SK하이닉스,솔리다임IPO철회로주주환원강화기대\"-메리츠",
     "[오늘의증시]美증시유가급등에하락…코스피에도부담주나",
     "골드만\"한국증시여전히매력적\"…코스피목표치는9천으로내려",
     "골드만,코스피목표12,000→9,000…\"그래도60%이상상승여력\"",
@@ -3146,10 +3141,11 @@
     "Bloomberg:GoldmanSachsCutsKOSPITarget25%to9,000asAIReturnsFa",
     "머스크,AI클라우드대량도태경고…스페이스X도자금조달진통",
     "美,한개州먹여살리는DC…韓,장기투자전략필요",
-    "'AI거품론의심판대'앤트로픽S-1공개…\"IPO역사상최대현금보유..."
+    "'AI거품론의심판대'앤트로픽S-1공개…\"IPO역사상최대현금보유...",
+    "'184조'벌고도...\"주가는왜역주행?\"삼전닉스역사적저평가"
    ],
    "initialized": true,
-   "last_run": "2026-10-27T04:10:28.442534+09:00"
+   "last_run": "2026-10-27T04:15:28.035365+09:00"
   }
  },
  "press_names": {
