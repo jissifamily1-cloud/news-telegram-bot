@@ -1146,18 +1146,25 @@
     [
      "2026-10-26T11:45:24.541129+09:00",
      "압박 보다 대비해야 통상 많은 경상흑자 추가"
+    ],
+    [
+     "2026-10-26T11:50:22.448585+09:00",
+     "바닥 폭락했는데 증권사 찍었다 코스닥"
+    ],
+    [
+     "2026-10-26T11:50:22.448585+09:00",
+     "밀린 메모리 AI에 더해지는 원가압박"
+    ],
+    [
+     "2026-10-26T11:50:22.448585+09:00",
+     "장중 하락한 SK스퀘어 76만8000원"
+    ],
+    [
+     "2026-10-26T11:50:22.448585+09:00",
+     "이재용 4주년 취임 위기 미래사 삼성 딛고 재도약 회장 반도체"
     ]
    ],
    "seen_urls": [
-    "http://www.rookie.co.kr/news/articleView.html?idxno=128941",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=875842",
-    "https://www.joongang.co.kr/article/25472497",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498135",
-    "http://www.inews24.com/view/2018580",
-    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99751",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2484102",
-    "http://www.stoo.com/article.php?aid=109526672964",
-    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553641905",
     "https://m.sports.naver.com/basketball/article/065/0000303383",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003278266&CMPT_CD=P0010",
     "https://basketkorea.com/news/newsview.php?ncode=1065598718007690",
@@ -2648,18 +2655,18 @@
     "https://news.tf.co.kr/read/economy/2380648.htm",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=279634",
     "https://www.businesspost.co.kr/BP?command=article_view&num=450269",
-    "https://www.munhwa.com/article/11626218"
+    "https://www.munhwa.com/article/11626218",
+    "https://www.munhwa.com/article/11626233",
+    "https://biz.sbs.co.kr/article_hub/20000342079?division=NAVER",
+    "https://www.m-economynews.com/news/article.html?no=72109",
+    "https://zdnet.co.kr/view/?no=20261026114538",
+    "https://www.e-science.co.kr/news/articleView.html?idxno=138108",
+    "https://www.mk.co.kr/article/12185604",
+    "https://dealsite.co.kr/articles/171308",
+    "https://www.vegannews.co.kr/news/article.html?no=397167",
+    "https://www.newsis.com/view/NISX20261026_0003840773"
    ],
    "seen_titles": [
-    "\"아직톱니바퀴맞지않아\"손창환감독,연승에도불구하고조직력강...",
-    "클리말라의결정력·정승원의헌신·김진수의리더십…FC서울우승공식",
-    "프로축구FC서울,10년만에우승확정...통산7번째정상",
-    "이란전쟁이후기유시장재편조짐…SK이노베이션수혜가능성주목",
-    "삼성·SK,메모리수요걱정無?…\"데이터센터지출2년뒤두배로\"",
-    "[k1.live]울컥한인천윤정환감독\"오늘이내인생경기…선수들덕분...",
-    "[증시동향]매수세실종된국내증시",
-    "김기동감독의서울,10년만에K리그정상탈환+통산7번째우승…인천...",
-    "\"이기든지든경기에임하는자세는달라지면안된다\"경기태도에대...",
     "‘35점악몽’굿윈을다시만난에디다니엘...전희철감독“칭찬은안...",
     "반도체성장에'노동자의시간'까지걸순없다",
     "[승리뷰]‘1쿼터19점차열세뒤집은’전희철SK감독,“40분동안1...",
@@ -4150,10 +4157,19 @@
     "SK하이닉스\"키옥시아차익중16조특별배당?확정된사항없어\"",
     "[OpeningMarket]KOSPIOpensLowerBelow5,500AmidInvestorTug-of-W",
     "\"메모리반도체장기계약도불황막기역부족\",삼성전자와SK하이닉스...",
-    "獨+日보다많은경상흑자,美추가통상압박대비해야[사설]"
+    "獨+日보다많은경상흑자,美추가통상압박대비해야[사설]",
+    "[속보]SK하이닉스,차익16조원‘특별배당’추진설에“확정된것없...",
+    "롯데쿠폰발행사'기프티엘',해킹으로고객개인정보유출",
+    "박해철의원“중대재해작업중지대부분‘부분중지’...대기업해제...",
+    "AI주권경쟁에높아진규제장벽...SKT,국제공동검증강조",
+    "SK텔레콤,AI에이전트보안·개인정보보호강화…국제표준인증확대",
+    "코스닥38%폭락했는데…“바닥찍었다”는증권사,왜?",
+    "AI에밀린車메모리...더해지는원가압박",
+    "SK스퀘어,장중0.9%하락한76만8000원",
+    "삼성이재용회장,내일취임4주년…위기딛고반도체재도약·미래사..."
    ],
    "initialized": true,
-   "last_run": "2026-10-26T11:45:24.541129+09:00"
+   "last_run": "2026-10-26T11:50:22.448585+09:00"
   }
  },
  "press_names": {
