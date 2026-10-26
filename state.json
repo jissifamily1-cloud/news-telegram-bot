@@ -390,14 +390,17 @@
     [
      "2026-10-27T07:35:19.970693+09:00",
      "공개 금융권 3분기 전망 증시 성적표 시계제로"
+    ],
+    [
+     "2026-10-27T07:40:26.485064+09:00",
+     "이슈 이해 중복상장 1세대 묻자 IB맨에 관계"
+    ],
+    [
+     "2026-10-27T07:40:26.485064+09:00",
+     "SK하닉 실적 부양책 전망 카드에 촉각 역대급 주가"
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/economy/2380502.htm",
-    "https://www.newspim.com/news/view/20261026000163",
-    "https://www.mt.co.kr/stock/2026/10/26/2026102609123356635",
-    "https://www.news1.kr/finance/general-stock/6331383",
-    "https://view.asiae.co.kr/article/2026102313465750719",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1729087",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1729089",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=303354",
@@ -1892,14 +1895,14 @@
     "https://www.newswhoplus.com/news/articleView.html?idxno=72692",
     "https://www.ezyeconomy.com/news/articleView.html?idxno=241218",
     "https://www.yna.co.kr/view/AKR20261027014700011?input=1195m",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709983"
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709983",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=884906",
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=365215",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=146221",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610220801074780108130",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610270019&t=NN"
    ],
    "seen_titles": [
-    "코스피,개인·기관매도에5510선후퇴…코스닥도1%대하락",
-    "[개장시황]코스피5500선위태…삼성전자1%대하락",
-    "SK하이닉스,2%상승…특별배당·솔리다임IPO검토중단영향",
-    "하나證\"삼전닉스,내년1분기까지코스피반등주도할것\"",
-    "베네피아,‘2026베스트어워즈'개최…한해결산하는고객감사·나눔...",
     "코스피·코스닥동반하락출발…외국인순매수에도개인·기관'팔자'",
     "'SK하이닉스효과'청주집값들썩…분양가1500만원에도'청약121대1'",
     "[박정식의국내주식시황]유가급등에투심위축…반도체반등으로하...",
@@ -3394,10 +3397,15 @@
     "329만원애플첫폴더블폰'균열'…출시사흘만에韓부품사불똥",
     "\"중국서만들면원가얼마나줄까\"…SK인텔릭스나무엑스,수익성시험...",
     "[연합뉴스이시각헤드라인]-07:30",
-    "[핀테크핫이슈]금융권3분기성적표공개...증시전망'시계제로'"
+    "[핀테크핫이슈]금융권3분기성적표공개...증시전망'시계제로'",
+    "3분기실적발표앞둔SK하이닉스...\"관심은추가주주환원ㆍ반도체호...",
+    "'앤트로픽IPO'뉴욕증시상승…나스닥0.8%↑",
+    "[오늘의글로벌마켓]뉴욕증시,앤트로픽IPO신고서제출...3대지수강...",
+    "[더벨][thebellinterview]1세대IB맨에중복상장이슈묻자\"이해관계...",
+    "SK하닉내일'역대급실적'전망...'주가부양책'카드에촉각"
    ],
    "initialized": true,
-   "last_run": "2026-10-27T07:35:19.970693+09:00"
+   "last_run": "2026-10-27T07:40:26.485064+09:00"
   }
  },
  "press_names": {
