@@ -665,16 +665,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.koreajoongangdaily.com/business/sk-hynix-pulls-back-from-solidigm-ipo-following-shareholder-opposition-regulatory-pressure/12935777",
-    "https://www.nocutnews.co.kr/news/6596471",
-    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5226805",
-    "https://news.tvchosun.com/site/data/html_dir/2026/10/23/2026102390214.html",
-    "https://www.koreatimes.co.kr/path/A2026102317400005100",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3731074",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=875824",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=323482",
-    "https://nownews.seoul.co.kr/news/newsView.php?id=20261023601012&wlog_tag3=naver",
-    "https://www.fnnews.com/news/202610231906010494",
     "https://imnews.imbc.com/replay/2026/nwdesk/article/6860330_37004.html",
     "https://www.etnews.com/20261023000354",
     "https://www.newsis.com/view/NISX20261023_0003839267",
@@ -2164,19 +2154,19 @@
     "https://www.newsquest.co.kr/news/articleView.html?idxno=303354",
     "http://www.newsian.co.kr/news/articleView.html?idxno=97732",
     "https://www.newsis.com/view/NISX20261026_0003840548",
-    "http://amenews.kr/news/view.php?idx=68419"
+    "http://amenews.kr/news/view.php?idx=68419",
+    "https://www.ajunews.com/view/20261026090109958",
+    "https://www.ajunews.com/view/20261026091112013",
+    "https://zdnet.co.kr/view/?no=20261026091746",
+    "https://byline.network/?p=9004111222624568",
+    "https://www.dt.co.kr/article/12091165",
+    "https://www.ddaily.co.kr/page/view/2026102609130608543",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709788",
+    "https://www.viva100.com/article/20261026500140",
+    "https://www.news2day.co.kr/article/20261026500031",
+    "https://www.yna.co.kr/view/AKR20261026032200003?input=1195m"
    ],
    "seen_titles": [
-    "SKhynixpullsbackfromSolidigmIPOfollowingshareholderoppositio",
-    "이소영\"협상력있는근로자엔주52시간예외가능\"",
-    "'중복상장논란'솔리다임상장철회…SK하이닉스\"시장여건고려\"",
-    "10월23일'뉴스9'예고",
-    "Koreanbuildersfaceriskoflosing$755mil.inunpaidIraqrefinerypr",
-    "인천시,AI바이오신약허브글로벌서밋개최",
-    "프로야구KIA,고종욱·홍건희포함16명과결별",
-    "용인특례시,백암초에AI스마트횡단보도구축...어린이통학길안전강...",
-    "韓기업,이라크서1조원묶였다…공장지어주니되레배상요구[핫이슈...",
-    "\"올랐다싶으면폭락,끝났다싶으면반등\"…삼전·하이닉스주주들미...",
     "SK하이닉스,'솔리다임'상장전격중단‥주가는반등",
     "SK바사,독감백신생산에AI도입…연구개발·품질관리로확대",
     "[올댓차이나]홍콩증시,저가매수세에나흘만에반등마감…H주0.69...",
@@ -3666,10 +3656,20 @@
     "[박정식의국내주식시황]유가급등에투심위축…반도체반등으로하...",
     "'세계최강'K-반도체와안세영의평행이론…\"2031년까지독주\"",
     "연내출시'모두의AI',이름부터국민이정한다…브랜드·슬로건공모",
-    "전기연,SiC전력반도체결함판별기준15년만수정"
+    "전기연,SiC전력반도체결함판별기준15년만수정",
+    "28일실적발표앞둔SK하이닉스,키옥시아투자수익주주환원'주목'",
+    "[개장시황]코스피,장초반낙폭축소…코스닥1%대하락",
+    "솔루스첨단소재,유럽서SK넥실리스특허침해소송승소",
+    "SKT,‘AI거버넌스리포트’발간",
+    "코스피,5400선출발후낙폭만회…외인·기관‘사자’에하닉2%대↑",
+    "솔루스첨단소재,SK넥실리스제기유럽전지박특허소송서비침해판결",
+    "\"AI신뢰경영강화\"…SKT,'AI거버넌스리포트'발간",
+    "[개장시황]코스피,美증시하락에5540선약보합⋯SK하이닉스2%↑",
+    "\"내년시총3위경쟁치열…LG엔솔·삼성전기·삼바·현대차각축\"<하나...",
+    "솔루스첨단소재,유럽전지박특허소송서SK넥실리스에승소"
    ],
    "initialized": true,
-   "last_run": "2026-10-26T09:15:23.293157+09:00"
+   "last_run": "2026-10-26T09:20:23.369748+09:00"
   }
  },
  "press_names": {
