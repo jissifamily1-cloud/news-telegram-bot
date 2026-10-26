@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-26T15:35:18.377665+09:00",
-     "D램 주목 HBM 수요 인프라 동반 심화 확보 경쟁 확대 아마존"
-    ],
-    [
      "2026-10-26T15:40:23.918853+09:00",
      "판별 SiC 전력반도체 만에 15년 잡아내 기준 오류 불량 전기연"
     ],
@@ -882,11 +878,13 @@
     [
      "2026-10-26T21:25:18.763580+09:00",
      "진상규명 15년 가습기살균제 못한 끝나나 참사"
+    ],
+    [
+     "2026-10-26T21:35:30.313636+09:00",
+     "코스피 끌어넣었나 하락세 없는 이미 있는 거래대금도"
     ]
    ],
    "seen_urls": [
-    "https://www.enetnews.co.kr/news/articleView.html?idxno=55659",
-    "https://www.enetnews.co.kr/news/articleView.html?idxno=55655",
     "https://www.yna.co.kr/view/AKR20261024010052007?input=1195m",
     "https://www.edaily.co.kr/News/Read?newsId=01682646645616856&mediaCodeNo=257",
     "https://www.cbci.co.kr/news/articleView.html?idxno=619075",
@@ -2384,11 +2382,11 @@
     "https://www.nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html?partner=naver",
     "https://www.koreajoongangdaily.com/business/job-at-samsung-not-enough-on-dating-app-data-shows/12939413",
     "https://www.gukjenews.com/news/articleView.html?idxno=3733315",
-    "http://www.kwangju.co.kr/article.php?aid=1793016900804709006"
+    "http://www.kwangju.co.kr/article.php?aid=1793016900804709006",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=446254",
+    "https://www.mk.co.kr/article/12186320"
    ],
    "seen_titles": [
-    "[브랜드평판]현대건설,하이엔드주거10월1위...롯데건설르엘,DK아...",
-    "[이넷뉴스브랜드평판]삼성SDI,전력저장장치ESS상장기업10월1위......",
     "◇내일의경기(27일)",
     "\"저삼성전자다녀요\"자랑에도데이트실패…인기남조건보니",
     "[10대그룹시총]반도체부진·증시급락직격탄…10대그룹시총1,100...",
@@ -3886,10 +3884,12 @@
     "WhyMuskIsPredicting‘Guppy-LevelDeath’forScoresofA.I.Companie",
     "JobatSamsungnotenoughondatingapp,datashows",
     "인천시의회교육위강정선·정채훈,어린이도서500권기부",
-    "가습기살균제참사15년진상규명못한채끝나나"
+    "가습기살균제참사15년진상규명못한채끝나나",
+    "코스피,1%대낙폭에5500선밑으로...현대차,KB금융등하락",
+    "“있는돈없는돈,이미다끌어넣었나”…코스피거래대금도하락세"
    ],
    "initialized": true,
-   "last_run": "2026-10-26T21:30:33.948026+09:00"
+   "last_run": "2026-10-26T21:35:30.313636+09:00"
   }
  },
  "press_names": {
