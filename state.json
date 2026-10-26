@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-26T21:35:30.313636+09:00",
-     "코스피 끌어넣었나 하락세 없는 이미 있는 거래대금도"
-    ],
-    [
      "2026-10-26T21:40:28.090064+09:00",
      "보따리 믿을 풀릴까 삼전닉스 역시 그래도 대비 고점"
     ],
@@ -166,10 +162,13 @@
     [
      "2026-10-27T02:40:30.492311+09:00",
      "API OPEN 엔비디아 메리츠증권 서비스 정식 AI야 출시 사줘"
+    ],
+    [
+     "2026-10-27T03:40:26.679677+09:00",
+     "거래대금 얼어붙은 말라붙은 코스피"
     ]
    ],
    "seen_urls": [
-    "https://www.kukinews.com/article/view/kuk202610260008",
     "https://www.geconomy.co.kr/news/article.html?no=324822",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277336&CMPT_CD=P0010",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1729069",
@@ -1668,10 +1667,10 @@
     "https://www.stnsports.co.kr/news/articleView.html?idxno=324660",
     "https://www.apnews.kr/news/articleView.html?idxno=3052483",
     "https://www.newsis.com/view/NISX20261026_0003841314",
-    "https://www.apnews.kr/news/articleView.html?idxno=3052484"
+    "https://www.apnews.kr/news/articleView.html?idxno=3052484",
+    "https://www.mt.co.kr/stock/2026/10/27/2026102620035325402"
    ],
    "seen_titles": [
-    "골드만삭스,코스피목표치9000으로낮췄지만…“여전히저평가”",
     "SK하이닉스,솔리다임美상장검토중단…반도체투자·주주가치전략...",
     "반도체호황에잊힌160만명의존재...'잃어버린세대'온다",
     "마이크론성과급갈등,대만서파업으로확산…삼성·SK반사이익은제...",
@@ -3170,10 +3169,11 @@
     "제주SK,마지막다섯판...포항서문열고부천과안방서끝낸다",
     "SKT,'AI거버넌스리포트'첫발간…'트러스트경영'강화한다",
     "삼전·닉스증설에반도체소부장주목…\"후공정장비수혜기대\"",
-    "\"AI야엔비디아사줘\"…메리츠증권,'OPENAPI'서비스정식출시"
+    "\"AI야엔비디아사줘\"…메리츠증권,'OPENAPI'서비스정식출시",
+    "말라붙은거래대금,얼어붙은코스피"
    ],
    "initialized": true,
-   "last_run": "2026-10-27T03:35:21.915508+09:00"
+   "last_run": "2026-10-27T03:40:26.679677+09:00"
   }
  },
  "press_names": {
