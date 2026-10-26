@@ -161,7 +161,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.geconomy.co.kr/news/article.html?no=324822",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277336&CMPT_CD=P0010",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1729069",
     "https://www.etoday.co.kr/news/view/2639810",
@@ -1660,10 +1659,10 @@
     "https://www.apnews.kr/news/articleView.html?idxno=3052483",
     "https://www.newsis.com/view/NISX20261026_0003841314",
     "https://www.apnews.kr/news/articleView.html?idxno=3052484",
-    "https://www.mt.co.kr/stock/2026/10/27/2026102620035325402"
+    "https://www.mt.co.kr/stock/2026/10/27/2026102620035325402",
+    "https://econotimes.com/Bloomberg-Goldman-Sachs-Cuts-KOSPI-Target-25-to-9-000-as-AI-Returns-Face-Scrutiny-1763884"
    ],
    "seen_titles": [
-    "SK하이닉스,솔리다임美상장검토중단…반도체투자·주주가치전략...",
     "반도체호황에잊힌160만명의존재...'잃어버린세대'온다",
     "마이크론성과급갈등,대만서파업으로확산…삼성·SK반사이익은제...",
     "KB證“삼전·하닉,2년영업익1571조…과거26년벌어들인이익의2.1배...",
@@ -3162,10 +3161,11 @@
     "SKT,'AI거버넌스리포트'첫발간…'트러스트경영'강화한다",
     "삼전·닉스증설에반도체소부장주목…\"후공정장비수혜기대\"",
     "\"AI야엔비디아사줘\"…메리츠증권,'OPENAPI'서비스정식출시",
-    "말라붙은거래대금,얼어붙은코스피"
+    "말라붙은거래대금,얼어붙은코스피",
+    "Bloomberg:GoldmanSachsCutsKOSPITarget25%to9,000asAIReturnsFa"
    ],
    "initialized": true,
-   "last_run": "2026-10-27T03:55:20.177536+09:00"
+   "last_run": "2026-10-27T04:00:43.436524+09:00"
   }
  },
  "press_names": {
