@@ -262,12 +262,13 @@
     [
      "2026-10-27T06:35:21.094650+09:00",
      "뭐가 산업은행 답변 부산시장의 전재수 달라지나 오면"
+    ],
+    [
+     "2026-10-27T06:45:23.956819+09:00",
+     "떴다 서버 데이터센터 건설 먹거리로 아파트"
     ]
    ],
    "seen_urls": [
-    "https://kpenews.com/View.aspx?No=4278324",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2484211",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=53949",
     "https://www.bloter.net/news/articleView.html?idxno=676649",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4441022",
     "https://news.tvchosun.com/site/data/html_dir/2026/10/26/2026102690058.html",
@@ -1764,12 +1765,12 @@
     "https://www.sisain.co.kr/news/articleView.html?idxno=58662",
     "https://www.munhwa.com/article/11626413",
     "https://www.etoday.co.kr/news/view/2640287",
-    "https://biz.heraldcorp.com/article/10915452"
+    "https://biz.heraldcorp.com/article/10915452",
+    "https://www.slist.kr/news/articleView.html?idxno=776550",
+    "https://www.newdaily.co.kr/site/data/html/2026/10/27/2026102700003.html",
+    "https://news.bizwatch.co.kr/article/real_estate/2026/10/21/0032"
    ],
    "seen_titles": [
-    "SKT,AI에이전트위험까지관리한다..첫‘AI거버넌스리포트’발간",
-    "엔라이튼,재생에너지산업기여공로로기후부장관표창수상",
-    "하이닉스임시",
     "[안희철의M&A나침반]솔리다임이던진중복상장에대한질문",
     "웃지못한메타·테슬라실적발표…\"현금흐름,CAPEX보다빨리늘어야\"",
     "[아이온의AI:온]\"내가왕이될상인가\"…수명·마음읽는AI관상가",
@@ -3266,10 +3267,13 @@
     "“산업은행오면뭐가달라지나?”전재수부산시장의답변",
     "한달새주가31%빠진하닉,28일실적…주주환원카드여부관심",
     "뉴욕증시,앤스로픽IPO신청에상승⋯나스닥0.8%↑[상보]",
-    "앤트로픽IPO에美반도체주일제상승…엔비디아2.39%↑"
+    "앤트로픽IPO에美반도체주일제상승…엔비디아2.39%↑",
+    "뉴욕증시,앤트로픽IPO공식화에들썩…나스닥0.8%↑",
+    "앤트로픽,상장서류4분의1이AI위험경고…\"인류에재앙초래할수...",
+    "'AI서버아파트'데이터센터,건설새먹거리로떴다"
    ],
    "initialized": true,
-   "last_run": "2026-10-27T06:41:02.490483+09:00"
+   "last_run": "2026-10-27T06:45:23.956819+09:00"
   }
  },
  "press_names": {
