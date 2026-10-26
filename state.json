@@ -321,9 +321,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.eroun.net/news/articleView.html?idxno=93396",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=746814",
-    "https://zdnet.co.kr/view/?no=20261026090016",
     "http://www.e-platform.net/news/articleView.html?idxno=106400",
     "http://www.paxetv.com/news/articleView.html?idxno=285112",
     "http://www.sisunnews.co.kr/news/articleView.html?idxno=248301",
@@ -1820,12 +1817,12 @@
     "https://www.globale.co.kr/news/articleView.html?idxno=41241",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498655",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=282604",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=619352"
+    "https://www.cbci.co.kr/news/articleView.html?idxno=619352",
+    "https://biz.sbs.co.kr/article_hub/20000342252?division=NAVER",
+    "https://www.hankyung.com/article/2026102765086",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16258907"
    ],
    "seen_titles": [
-    "SKT,AI거버넌스리포트발간…AI트러스트경영강화",
-    "[재계포커스]SK하이닉스,솔리다임상장접었다…공은28일실적발표로",
-    "SKT,AI에이전트도통제...개발부터폐기까지관리강화",
     "﻿엔라이튼,'재생에너지의날'서기후부장관표창영예",
     "그로쓰리서치\"배터리3사ESS증산...부품공급망도생산능력확대\"",
     "'호남반도체클러스터'국가균형발전과첨단제조업의대도약[지식용...",
@@ -3322,10 +3319,13 @@
     "앤트로픽IPO출사표···뉴욕증시AI거품론딛고반등",
     "DK아시아,시행사브랜드평판1위…BS산업·호반건설順",
     "[뉴욕증시]앤트로픽IPO공식화…美3대지수일제히상승",
-    "[반도체투톱]삼성·하이닉스3분기실적앞두고대규모주주환원기대..."
+    "[반도체투톱]삼성·하이닉스3분기실적앞두고대규모주주환원기대...",
+    "[마켓브리핑]앤트로픽IPO신청서제출…사상최대평가이익예상",
+    "앤트로픽IPO증권신고서제출에AI들썩…나스닥0.8%↑[뉴욕증시브리...",
+    "미국증시나스닥0.83%상승…SK하이닉스4%·반도체반등,AI자금조달..."
    ],
    "initialized": true,
-   "last_run": "2026-10-27T07:10:26.011171+09:00"
+   "last_run": "2026-10-27T07:15:23.164464+09:00"
   }
  },
  "press_names": {
