@@ -162,17 +162,37 @@
     [
      "2026-10-27T04:45:24.962144+09:00",
      "자금조달 뒤에 커지는 투자 기대 경쟁 성장 천문학적 기업들"
+    ],
+    [
+     "2026-10-27T05:05:22.545567+09:00",
+     "띄운다 선택과 승부수 집중으로 시대"
+    ],
+    [
+     "2026-10-27T05:05:22.545567+09:00",
+     "대통령 그때는 맞고 지금은 틀리다"
+    ],
+    [
+     "2026-10-27T05:05:22.545567+09:00",
+     "급락까지 증시 닫힐라 소비 부진에 지갑"
+    ],
+    [
+     "2026-10-27T05:05:22.545567+09:00",
+     "연동된 상장지수펀드 미국 SK하이닉스 주가에 레버리지 상장"
+    ],
+    [
+     "2026-10-27T05:05:22.545567+09:00",
+     "대도약 뒷받침 외교로 투자 길목마다 국가"
+    ],
+    [
+     "2026-10-27T05:05:22.545567+09:00",
+     "소부장도 귀한 D램 HBM에 웃었다 구형 밀려나자"
+    ],
+    [
+     "2026-10-27T05:05:22.545567+09:00",
+     "피해자 실질구제 과징금 늘었지만"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814310&plink=ORI&cooper=NAVER",
-    "http://www.joseilbo.com/news/news_read.php?uid=578105&class=33",
-    "https://www.dailysecu.com/news/articleView.html?idxno=209039",
-    "https://news.dealsitetv.com/articles/177432",
-    "https://economist.co.kr/article/view/ecn202610260001",
-    "https://news.jtbc.co.kr/article/NB12324783?influxDiv=NAVER",
-    "https://www.cstimes.com/news/articleView.html?idxno=725206",
-    "https://economist.co.kr/article/view/ecn202610190051",
     "https://view.asiae.co.kr/article/2026102309560654554",
     "https://view.asiae.co.kr/article/2026102215463827210",
     "https://www.cstimes.com/news/articleView.html?idxno=725138",
@@ -1664,17 +1684,17 @@
     "https://www.hankookilbo.com/news/article/A2026102615570004911?did=NA",
     "https://www.hankookilbo.com/news/article/A2026102210490003384?did=NA",
     "https://www.mediapen.com/news/view/1132648",
-    "https://www.geconomy.co.kr/news/article.html?no=324882"
+    "https://www.geconomy.co.kr/news/article.html?no=324882",
+    "https://www.fnnews.com/news/202610262120485595",
+    "https://www.seoul.co.kr/news/economy/industry/2026/10/27/20261027021002?wlog_tag3=naver",
+    "https://www.hani.co.kr/arti/opinion/column/1284290.html",
+    "https://www.edaily.co.kr/News/Read?newsId=01656406645617184&mediaCodeNo=257",
+    "https://www.imaeil.com/page/view/2026102617280706862",
+    "https://www.sidae.com/article/2026102515501178842",
+    "https://www.joongang.co.kr/article/25473075",
+    "https://www.newspim.com/news/view/20261026001093"
    ],
    "seen_titles": [
-    "못말리는삼성…역대최다타이'개막8연승'",
-    "대기업다녀도능사아니다?…데이팅앱30만명분석해보니",
-    "[이혁중CISO칼럼]AI에이전트시대의확장형제로트러스트전략",
-    "[핀포인트][SK가스]어드밴스드품자날아온‘6160억+α’청구서",
-    "10년간다는반도체슈퍼호황,믿어도될까?",
-    "[박상욱의기후1.5]있는데없는시대…기후위기의시대와AI의시대의...",
-    "대형사건에밀린개인정보유출조사…1년넘게175건계류",
-    "AI거품이라는데…SK하이닉스가54조쏟아붓는이유",
     "\"우리도FA대박이다\"…‘프로야구감독의몸값고공행진’",
     "'전기차충전이돈되네'…사모펀드,대기업과‘몸집’경쟁[PE는지금...",
     "SK하이닉스,실적호재냐美금리부담이냐…주가시험대",
@@ -3166,10 +3186,18 @@
     "롯데·SK양강흔들까…장기렌터카뛰어드는캐피털사,중소업계설득전",
     "부서단톡방까지들어온AI팀원...직장판도바꾸지만\"사고나면누구...",
     "[美증시특징주]반도체주,앤트로픽상장신청에오랜만에'활짝'…메모...",
-    "美AI기업들,천문학적자금조달경쟁…성장기대뒤에커지는투자부..."
+    "美AI기업들,천문학적자금조달경쟁…성장기대뒤에커지는투자부...",
+    "\"하이닉스28%,삼성전자20%하락\"…개미들,'레버리지ETF'몰려",
+    "SK,선택과집중으로AI시대승부수띄운다",
+    "이대통령,그때는맞고지금은틀리다[뉴스룸에서]",
+    "소비부진에증시급락까지…지갑더닫힐라",
+    "[관풍루]SK하이닉스주가에연동된미국상장레버리지상장지수펀드(...",
+    "국가대도약길목마다SK…투자·외교로뒷받침",
+    "HBM에밀려나자‘귀한몸’된구형D램…日소부장도웃었다",
+    "[줄줄새는개인정보]②과징금늘었지만...'갈길먼'피해자실질구제..."
    ],
    "initialized": true,
-   "last_run": "2026-10-27T05:00:43.142356+09:00"
+   "last_run": "2026-10-27T05:05:22.545567+09:00"
   }
  },
  "press_names": {
