@@ -442,18 +442,21 @@
     [
      "2026-10-27T08:10:27.175521+09:00",
      "인수설에 주가 급등 펭귄솔루션스 투자한 SK가"
+    ],
+    [
+     "2026-10-27T08:15:24.939616+09:00",
+     "제약 순이자마진 개선 기업은행 배당 유효 자본비율 우려 매력은"
+    ],
+    [
+     "2026-10-27T08:15:24.939616+09:00",
+     "삼성전자 승부수 풀릴까 50조 SK하이닉스의 주가 떨어진"
+    ],
+    [
+     "2026-10-27T08:15:24.939616+09:00",
+     "훈풍 앤트로픽발 반등 시도하나 코스피"
     ]
    ],
    "seen_urls": [
-    "http://www.newscape.co.kr/news/articleView.html?idxno=125320",
-    "http://www.datanews.co.kr/news/article.html?no=147105",
-    "https://biz.chosun.com/stock/stock_general/2026/10/26/BJXXAHGXX5FWHJQUFMC5AYG2NA/",
-    "https://www.news2day.co.kr/article/20261026500029",
-    "https://theviewers.co.kr/View.aspx?No=4278381",
-    "https://www.ilemonde.com/news/articleView.html?idxno=30852",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498346",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003278648&CMPT_CD=P0010",
-    "https://www.handmk.com/news/articleView.html?idxno=44431",
     "https://www.nocutnews.co.kr/news/6596778",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709792",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498347",
@@ -1944,18 +1947,18 @@
     "http://www.issuenbiz.com/news/articleView.html?idxno=80944",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498682",
     "https://www.etoday.co.kr/news/view/2640321",
-    "https://www.kpinews.kr/newsView/1065566699238249"
+    "https://www.kpinews.kr/newsView/1065566699238249",
+    "https://www.etoday.co.kr/news/view/2640327",
+    "http://www.popcornnews.net/news/articleView.html?idxno=137402",
+    "https://view.asiae.co.kr/article/2026102707594373865",
+    "https://www.ytn.co.kr/_ln/0104_202610270809159180",
+    "https://www.newspim.com/news/view/20261027000022",
+    "https://www.newspim.com/news/view/20261027000028",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=282617",
+    "https://www.fnnews.com/news/202610270733520579",
+    "https://www.yna.co.kr/view/AKR20261027023000008?input=1195m"
    ],
    "seen_titles": [
-    "SK텔레콤,AI거버넌스리포트발간…AI신뢰경영강화",
-    "솔루스첨단소재,SK넥실리스와유럽특허침해소송서승소",
-    "美·이란군사적긴장다시고조되자…코스피5500선사수전",
-    "\"하나금융,4분기수익성개선기대…목표가유지\"<SK證>",
-    "[애널픽]하나금융,NIM하락에도실적선방…증권가'매수'",
-    "[나연수의투자칼럼]대표지수도집중돼있습니다—그래도개별주보다...",
-    "AI·HBM수혜주로매수세집중…반도체중소형주옥석가리기",
-    "삼성과KCC,만년꼴찌와챔피언의뒤바뀐운명",
-    "[현장출동]'섬유에서석유까지'수원선경산업관에서만나는SK의70년",
     "코스피하락출발후5500선회복…삼전닉스실적·美FOMC변수",
     "솔루스첨단소재,유럽특허소송서SK넥실리스에승소",
     "코스피,뉴욕증시약세에5530선등락...코스닥1%대하락",
@@ -3446,10 +3449,19 @@
     "뉴욕증시,3대지수상승...앤트로픽IPO기대감에상승",
     "미국반도체주일제히환호성…엔비디아·마이크론오르고AXT8%'불기둥...",
     "[전일주요공시]SK하이닉스·셀트리온·국도화학·남해화학·LS에코에너...",
-    "SK가투자한美펭귄솔루션스,인수설에주가급등"
+    "SK가투자한美펭귄솔루션스,인수설에주가급등",
+    "[증시키워드]JYP애프터마켓14%급등…SK하이닉스주주환원·삼성SDI美...",
+    "KB證\"'삼성전자80조·SK하이닉스40조'추가주주환원가능\"",
+    "앤트로픽IPO훈풍…국내증시상승출발전망[굿모닝증시]",
+    "앤트로픽IPO공식화에뉴욕증시동반상승마감",
+    "[AIMY증시전망]美증시반등에코스피상승출발전망",
+    "[특징주]삼전닉스프리마켓동반강세…SK하이닉스3%↑",
+    "기업은행,순이자마진개선·자본비율제약우려…배당매력은'유효'",
+    "\"50조풀릴까?\"…주가떨어진삼성전자·SK하이닉스의승부수",
+    "[마켓뷰]코스피,'앤트로픽발훈풍'에반등시도하나"
    ],
    "initialized": true,
-   "last_run": "2026-10-27T08:10:27.175521+09:00"
+   "last_run": "2026-10-27T08:15:24.939616+09:00"
   }
  },
  "press_names": {
