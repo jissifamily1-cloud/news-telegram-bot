@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-26T19:45:25.232307+09:00",
-     "자금 착공률은 발표했지만 5GW AIDC 국내 가뭄"
-    ],
-    [
-     "2026-10-26T19:45:25.232307+09:00",
-     "아이씨에이치 루닛 소식에 벤더 삼성전자 취득 코드"
-    ],
-    [
-     "2026-10-26T19:45:25.232307+09:00",
-     "싱가포르도 AID 신중 자금에 쏠린 국내"
-    ],
-    [
      "2026-10-26T20:00:48.832224+09:00",
      "대화하자 초광역노동법으로"
     ],
@@ -302,10 +290,13 @@
     [
      "2026-10-27T00:40:25.208709+09:00",
      "HBM 관여 고객이 맞춤형 시대로 설계부터"
+    ],
+    [
+     "2026-10-27T01:45:28.896448+09:00",
+     "강정선 정채훈 도서 나눔 어린이 500권 의원 인천시의회 동참"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000342003?division=NAVER",
     "https://economist.co.kr/article/view/ecn202610190049",
     "https://www.news1.kr/industry/general-industry/6330392",
     "https://www.newsis.com/view/NISX20261023_0003837882",
@@ -1804,10 +1795,10 @@
     "https://www.chosun.com/national/regional/2026/10/27/4YQHILRMNVCJBJJQKHYXP6CXNI/",
     "https://www.donga.com/news/Economy/article/all/20261026/134912260/2",
     "https://www.chosun.com/economy/tech_it/2026/10/27/DZGSFMMRO5FYVDRGJJFGTFUDJU/",
-    "https://www.joongang.co.kr/article/25473050"
+    "https://www.joongang.co.kr/article/25473050",
+    "http://www.newstown.co.kr/news/articleView.html?idxno=719772"
    ],
    "seen_titles": [
-    "[마켓프리뷰]솔리다임상장철회에코스피강보합…상승폭제한적",
     "“많이떨어졌으니산다?”…급락장에서가장위험한착각",
     "마이크론도'성과급갈등'몸살,파업전운…삼성·SK하닉반사이익?",
     "\"11월증시조심하세요\"…투자전문가가주목한'4가지업종'",
@@ -3306,10 +3297,11 @@
     "기업애로는풀고투자는잇고…AI·휴머노이드로봇산업‘총력’",
     "재계‘중복상장딜레마’…해외상장우회로막히며투자-회수비상",
     "고객이설계부터관여…맞춤형HBM시대로",
-    "美서사라지는SK하이닉스2배ETF…출시석달만에청산"
+    "美서사라지는SK하이닉스2배ETF…출시석달만에청산",
+    "인천시의회강정선·정채훈의원,어린이도서500권나눔동참"
    ],
    "initialized": true,
-   "last_run": "2026-10-27T01:40:31.777185+09:00"
+   "last_run": "2026-10-27T01:45:28.896448+09:00"
   }
  },
  "press_names": {
