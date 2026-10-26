@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-26T12:30:33.783281+09:00",
-     "구조적 다수 윤홍식 대통령 확보하려면 어떻게"
-    ],
-    [
-     "2026-10-26T12:30:33.783281+09:00",
-     "주가 달랠까 삼전닉스 반토막 환원 실적보다"
-    ],
-    [
      "2026-10-26T12:35:21.562938+09:00",
      "결집 구미서 웨이퍼 산학연 반도체 초격차 차세대"
     ],
@@ -1222,11 +1214,13 @@
     [
      "2026-10-26T18:25:20.124784+09:00",
      "주춤 반도체 21만전자 급락에 127만닉스 공매도도 투톱"
+    ],
+    [
+     "2026-10-26T18:30:36.269291+09:00",
+     "밖으로 미국 수주 배터리 늘리는 전기차 ESS"
     ]
    ],
    "seen_urls": [
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=91702",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=619055",
     "https://m.sports.naver.com/basketball/article/065/0000303490",
     "http://weekly.chosun.com/news/articleView.html?idxno=56551",
     "https://www.kmib.co.kr/article/20261025501545",
@@ -2724,11 +2718,11 @@
     "https://www.fnnews.com/news/202610261818508662",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2484632",
     "https://www.sisaweek.com/news/articleView.html?idxno=238598",
-    "https://www.fnnews.com/news/202610261818478028"
+    "https://www.fnnews.com/news/202610261818478028",
+    "https://www.thepublic.kr/news/articleView.html?idxno=323745",
+    "https://www.hani.co.kr/arti/economy/marketing/1284258.html"
    ],
    "seen_titles": [
-    "[더페어돋보기]\"실적가시성에밸류업모멘텀더했다\"…4분기증시유...",
-    "[삼전닉스실적]HBM4날개단삼전닉스,3분기합산영업익185조눈앞",
     "[주간매치업]한지붕아래두팀,잠실학생체육관에서먼저웃을팀은...",
     "코스피목표9000으로낮춘골드만삭스…그런데\"상승여력60%이상\"",
     "“본전찾자”…개미들만남은단일종목레버리지ETF",
@@ -4226,10 +4220,12 @@
     "美연준·반도체실적앞두고…코스피5500선깨졌다",
     "용인시,반도체인재양성본격화…고교부터재직자교육까지",
     "[이재용의4년]위기와반전…'뉴삼성'의길",
-    "21만전자·127만닉스…반도체투톱급락에공매도도주춤"
+    "21만전자·127만닉스…반도체투톱급락에공매도도주춤",
+    "서울서인재찾는마이크론,면접바꾼SK하닉…메모리인재쟁탈전격...",
+    "미국ESS수주늘리는K-배터리…전기차밖으로‘눈’"
    ],
    "initialized": true,
-   "last_run": "2026-10-26T18:25:20.124784+09:00"
+   "last_run": "2026-10-26T18:30:36.269291+09:00"
   }
  },
  "press_names": {
