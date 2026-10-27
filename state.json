@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-27T07:40:26.485064+09:00",
-     "이슈 이해 중복상장 1세대 묻자 IB맨에 관계"
-    ],
-    [
-     "2026-10-27T07:40:26.485064+09:00",
-     "SK하닉 실적 부양책 전망 카드에 촉각 역대급 주가"
-    ],
-    [
      "2026-10-27T07:50:27.328005+09:00",
      "기대 KB 삼성전자 120조원 저평가 주주환원 추가 SK하이닉스"
     ],
@@ -998,15 +990,17 @@
     [
      "2026-10-27T13:35:20.457524+09:00",
      "작동 전기차 너머를 정상 보는 충전기의 기술 와이제이테크놀로지"
+    ],
+    [
+     "2026-10-27T13:40:27.093670+09:00",
+     "IPO에 수익화 유안타 앤트로픽 단계적 분할매수 반도체 기대"
+    ],
+    [
+     "2026-10-27T13:40:27.093670+09:00",
+     "이사장 찾았다 김대자 현장 울산국가산업단지 행보로 취임"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261026000894",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20261026010008879",
-    "https://www.greened.kr/news/articleView.html?idxno=353029",
-    "https://en.yna.co.kr/view/AEN20261026007300320?input=2106m",
-    "https://theopiniontimes.news/%ec%97%b0%ec%a4%80-%ea%b8%88%eb%a6%ac-%eb%8f%99%ea%b2%b0-%ec%bb%a4%ec%a7%80%eb%8a%94%eb%8d%b0-%e9%9f%93-%ec%a6%9d%ec%8b%9c-%ed%95%9c-%eb%8b%ac-%ec%83%88-1100%ec%a1%b0-%ec%9b%90-%ec%a6%9d/",
-    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553645677",
     "https://daily.hankooki.com/news/articleView.html?idxno=1418451",
     "https://www.etoday.co.kr/news/view/2640178",
     "https://www.wikitree.co.kr/articles/1169262",
@@ -2500,15 +2494,15 @@
     "https://www.edaily.co.kr/News/Read?newsId=03932726645617184&mediaCodeNo=257",
     "https://daily.hankooki.com/news/articleView.html?idxno=1418690",
     "https://www.mk.co.kr/article/12186869",
-    "https://www.venturesquare.net/1123412/"
+    "https://www.venturesquare.net/1123412/",
+    "https://www.goal.com/kr/뉴스/a/blt3ef909bb08f18a63",
+    "https://www.sisaon.co.kr/news/articleView.html?idxno=205512",
+    "https://www.mk.co.kr/article/12186875",
+    "https://www.ziksir.com/news/articleView.html?idxno=150907",
+    "https://www.m-i.kr/news/articleView.html?idxno=2010767",
+    "https://www.energydaily.co.kr/news/articleView.html?idxno=204416"
    ],
    "seen_titles": [
-    "[마감시황]'우울한월요일'코스피5469선후퇴…7개월만'최저'",
-    "SK하닉,美첫'AI메모리'생산거점구축속도…주요기반시설허가...",
-    "솔리다임투자재원찾는SK하이닉스…키옥시아CB매각나설까",
-    "KOSPI200ClosingPriceList-3",
-    "연준금리동결커지는데…韓증시,한달새1100조원'증발'",
-    "[오피셜]굿바이레전드!\"다시태어나도같은길\"...韓'역대급커리어...",
     "SK하이닉스,日키옥시아지분차익특별배당설에\"확정안돼\"",
     "코스피,눈치보기장세속5460선마감…외인,오늘도'팔자'",
     "코스피5469.47마감…국내증시동반하락",
@@ -4002,10 +3996,16 @@
     "女핸드볼신생팀충남개발공사,청소년대표김은율우선지명",
     "[신상브리핑]서울우유협동조합,풀무원,해태제과,동서식품,세븐일레...",
     "[단독]정부‘해킹조사심의위원’유지연상명대교수선임...29일킥오...",
-    "와이제이테크놀로지,전기차충전기의‘정상작동’너머를보는기술"
+    "와이제이테크놀로지,전기차충전기의‘정상작동’너머를보는기술",
+    "[오피셜]'멀티골'아이데일,K리그133RMVP선정…K리그230RMVP는부산...",
+    "하나증권,코리니와업무협약…현대해상,'AXFestival2026'개최[금융...",
+    "SK하이닉스3분기실적은?주주환원승부수던질까",
+    "한국첫IAEA원자력장관회의개막…SMR안전개발·실증본격화",
+    "앤트로픽IPO에AI수익화기대↑…유안타證\"반도체단계적분할매수\"",
+    "김대자이사장,취임첫현장행보로울산국가산업단지찾았다"
    ],
    "initialized": true,
-   "last_run": "2026-10-27T13:35:20.457524+09:00"
+   "last_run": "2026-10-27T13:40:27.093670+09:00"
   }
  },
  "press_names": {
