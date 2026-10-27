@@ -1018,16 +1018,33 @@
     [
      "2026-10-27T13:15:21.397056+09:00",
      "장원삼의 따끔한 조언 장점이 후라도의 독으로"
+    ],
+    [
+     "2026-10-27T13:20:25.311351+09:00",
+     "반도체 유입 차세대 장비 SiC 주목 뭉칫돈 GaN 후공정주"
+    ],
+    [
+     "2026-10-27T13:20:25.311351+09:00",
+     "수익률 반도체에 국민참여성장펀드 성적표 쏠려"
+    ],
+    [
+     "2026-10-27T13:20:25.311351+09:00",
+     "CEO LGU Hacking Rebuked Concealment sik over Hong Bum"
+    ],
+    [
+     "2026-10-27T13:20:25.311351+09:00",
+     "입찰 국고 반전 대기 국고채 20년 하락 금리 매수"
+    ],
+    [
+     "2026-10-27T13:20:25.311351+09:00",
+     "Investment Samsung Electronics Shaken by Anx Hynix"
+    ],
+    [
+     "2026-10-27T13:20:25.311351+09:00",
+     "깨우는 통합관에서 Part 만나다 도메인을"
     ]
    ],
    "seen_urls": [
-    "http://www.fieldnews.kr/news/articleView.html?idxno=32532",
-    "https://www.nocutnews.co.kr/news/6597147",
-    "http://www.metroseoul.co.kr/article/20261026500470",
-    "https://www.newsway.co.kr/news/view?ud=2026102614054538416",
-    "https://www.mediapen.com/news/view/1132454",
-    "https://biz.sbs.co.kr/article_hub/20000342147?division=NAVER",
-    "http://www.00news.co.kr/news/articleView.html?idxno=107454",
     "https://en.yna.co.kr/view/AEN20261026006400320?input=2106m",
     "https://www.ziksir.com/news/articleView.html?idxno=150771",
     "https://www.bizwork.co.kr/news/articleView.html?idxno=420196",
@@ -2520,16 +2537,16 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498848",
     "https://en.asiatoday.co.kr/view.php?key=20261027000942081",
     "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91544",
-    "https://www.newsq.co.kr/news/articleView.html?idxno=500611"
+    "https://www.newsq.co.kr/news/articleView.html?idxno=500611",
+    "https://www.etnews.com/20261027000233",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498849",
+    "https://www.sisaon.co.kr/news/articleView.html?idxno=205510",
+    "http://www.newswatch.kr/news/articleView.html?idxno=81676",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4441338",
+    "http://www.newswatch.kr/news/articleView.html?idxno=81675",
+    "https://www.hellot.net/news/article.html?no=115822"
    ],
    "seen_titles": [
-    "솔리다임상장중단에SK그룹의미국AI투자전략도급브레이크",
-    "전기연,SiC전력반도체불량판별기준15년만에오류잡아내",
-    "[社告]2026뉴테크놀로지포럼…AX시대,주요업종별AI활용법은?",
-    "반도체에발목잡힌코스피…나스닥보다5배더빠졌다[기로에선증시...",
-    "정유업계,호실적에손실보전'안갯속'…\"정부최고가격제,최대8조원...",
-    "美FOMC앞관망세…코스피5500선붕괴",
-    "김선희가바꾼매일유업성장방정식",
     "Seoulsharesdipover1pctaheadofearningsreports,Feddecision",
     "키옥시아투자차익쥔SK하이닉스,역대최대특별배당윤곽",
     "SK텔레콤,'AI거버넌스리포트'발간…신뢰경영강화",
@@ -4022,10 +4039,17 @@
     "공장자동화투자확대기대…스마트팩토리관련주동반강세",
     "AnthropicseeksNasdaqlistingnextmonth",
     "[금융브리핑]미래에셋자산운용·삼성자산운용·NH아문디자산운용",
-    "후라도의장점이독으로?장원삼의따끔한조언[플레이오프]"
+    "후라도의장점이독으로?장원삼의따끔한조언[플레이오프]",
+    "“1962년원자력도입에서국제협력주도국으로”…IAEA원자력장관회...",
+    "차세대SiC·GaN반도체주목…장비·후공정주뭉칫돈유입",
+    "국민참여성장펀드첫성적표수익률0.5%…반도체에쏠려",
+    "[NationalAudit]LGU+CEOHongBum-sikRebukedover'HackingConcealm",
+    "국고채금리하락반전…국고20년입찰대기+外人매수",
+    "[Focus]'SamsungElectronics&SKHynix'ShakenbyU.S.AIInvestmentA",
+    "[2026산업AIEXPO]Part4.도메인을깨우는AI,통합관에서만나다"
    ],
    "initialized": true,
-   "last_run": "2026-10-27T13:15:21.397056+09:00"
+   "last_run": "2026-10-27T13:20:25.311351+09:00"
   }
  },
  "press_names": {
