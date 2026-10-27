@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-27T23:05:23.513718+09:00",
-     "맞나요 홈런에 43세 최형우 삼성 보살까지"
-    ],
-    [
      "2026-10-27T23:10:30.664511+09:00",
      "빅테크실적 이틀째 올라 AI모멘텀 나스닥 회복 앤스로픽IPO에"
     ],
@@ -234,13 +230,17 @@
     [
      "2026-10-28T05:05:23.141533+09:00",
      "전기 쓴다 계속 등판 먹는 전세계 구원투수 원전"
+    ],
+    [
+     "2026-10-28T05:10:27.422644+09:00",
+     "2369만3272주로 자사주 SK하이닉스 소각 정정 수량"
+    ],
+    [
+     "2026-10-28T05:10:27.422644+09:00",
+     "부부까지 선후배부터 밤샘 코딩 서비스 30년차 사내 개발 몰라도"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2640406",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=323691",
-    "https://news.tf.co.kr/read/economy/2381046.htm",
-    "https://www.newspim.com/news/view/20261027000219",
     "https://www.dt.co.kr/article/12091435",
     "https://www.etoday.co.kr/news/view/2640403",
     "https://www.cstimes.com/news/articleView.html?idxno=725402",
@@ -1736,13 +1736,13 @@
     "https://www.joongang.co.kr/article/25473434",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=323864",
     "https://www.joongang.co.kr/article/25473436",
-    "https://www.joongang.co.kr/article/25473442"
+    "https://www.joongang.co.kr/article/25473442",
+    "https://www.seoul.co.kr/news/economy/industry/2026/10/28/20261028031001?wlog_tag3=naver",
+    "https://www.ddaily.co.kr/page/view/2026102801451145226",
+    "https://www.vegannews.co.kr/news/article.html?no=397628",
+    "https://www.seoul.co.kr/news/economy/industry/2026/10/28/20261028032001?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "'삼전닉스동반강세'코스피,장초반3.6%급등한5666선돌파…코스닥...",
-    "삼성자산,KoAct코리아TOP5플러스채권혼합50액티브ETF신규상장",
-    "코스피,美AI훈풍에3%대급등…삼성전자·SK하이닉스강세",
-    "[글로벌특징주]한중일메모리4사잇단실적발표…AI수요검증",
     "코스피,3%대급등출발…AI투자심리회복에삼전·SK하닉‘강세’",
     "에이루트,자회사앤에스알시흡수합병…반도체노광장비사업내재화",
     "삼성전자·SK하이닉스,앤트로픽IPO에동반강세",
@@ -3238,10 +3238,14 @@
     "삼전닉스에데였다면?“80조쏠준비됐다”배당성장주톱5",
     "[출근길포인트]고리3·4호기계속운전허가…원전수명연장으로전력...",
     "“인류재앙”경고하면서200조원끌어모은다,앤트로픽의승부수",
-    "‘전기먹는AI’구원투수등판…전세계55%가원전계속쓴다"
+    "‘전기먹는AI’구원투수등판…전세계55%가원전계속쓴다",
+    "앤트로픽,140조원IPO도전…신고서94쪽걸쳐‘AI위험’경고",
+    "\"AIDC건립큰우려없다\"…오라클,멀티클라우드고객확대에인프라...",
+    "SK하이닉스,자사주소각수량2369만3272주로정정",
+    "30년차선후배부터사내부부까지…코딩몰라도AI서비스‘밤샘개발..."
    ],
    "initialized": true,
-   "last_run": "2026-10-28T05:05:23.141533+09:00"
+   "last_run": "2026-10-28T05:10:27.422644+09:00"
   }
  },
  "press_names": {
