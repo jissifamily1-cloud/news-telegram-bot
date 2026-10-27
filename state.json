@@ -1066,17 +1066,33 @@
     [
      "2026-10-27T18:10:27.109792+09:00",
      "ETF 단기채 대형주 혼합 상장 삼성액티브자산운용"
+    ],
+    [
+     "2026-10-27T18:15:25.498086+09:00",
+     "증시 반등 변수는 장기금리 수급 외국인"
+    ],
+    [
+     "2026-10-27T18:15:25.498086+09:00",
+     "기술주 반등 약세 아시아증시 홍콩은 기대에"
+    ],
+    [
+     "2026-10-27T18:15:25.498086+09:00",
+     "사고 공매도 팔았다 3위 코스닥 JYP는 개인은 기관 외국인"
+    ],
+    [
+     "2026-10-27T18:15:25.498086+09:00",
+     "증시 대한항공 달라졌다 산업재 모빌리티 업종지도 아닌"
+    ],
+    [
+     "2026-10-27T18:15:25.498086+09:00",
+     "동료에서 핸드볼 H리그서 금빛 적으로 격돌 이젠"
+    ],
+    [
+     "2026-10-27T18:15:25.498086+09:00",
+     "끝내나 제자리 땜질로 이종배 시행령 논의는 노동규제 초광역특구법"
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/stock/stock_general/2026/10/27/DITQF2HO7VHB5KS3WCJCSW6DPE/",
-    "https://www.news1.kr/economy/trend/6331313",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092172785",
-    "https://www.newspim.com/news/view/20261020000948",
-    "https://www.newspim.com/news/view/20261026000764",
-    "https://www.newsis.com/view/NISX20261026_0003841138",
-    "https://www.pharmnews.com/news/articleView.html?idxno=307228",
-    "https://www.newsis.com/view/NISX20261026_0003841799",
     "https://www.moneystorm.kr/news/articleView.html?idxno=7690",
     "https://www.medipana.com/news/articleView.html?idxno=420114",
     "https://www.newspim.com/news/view/20261026000717",
@@ -2568,17 +2584,17 @@
     "http://www.breaknews.com/1246132",
     "http://www.breaknews.com/1246166",
     "https://www.asiatoday.co.kr/kn/view.php?key=20261027010009426",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499013"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499013",
+    "https://www.hankyung.com/article/2026102787861",
+    "https://www.hankyung.com/article/2026102786291",
+    "https://www.hankyung.com/article/2026102787911",
+    "https://www.newstopkorea.com/news/articleView.html?idxno=48523",
+    "https://www.junggi.co.kr/news/articleView.html?idxno=38258",
+    "https://www.fnnews.com/news/202610271811277953",
+    "https://www.kmib.co.kr/article/20261027501813",
+    "https://www.imaeil.com/page/view/2026102717503501665"
    ],
    "seen_titles": [
-    "외인200조팔때“사라”외친글로벌IB...개미잡는‘핑크빛리포트...",
-    "원전멈추고폐연료쌓이고…구름낀한빛원전두가지고민[르포]",
-    "솔리다임IPO접은SK하이닉스…투자셈법복잡",
-    "[아!코스피]⑧외국인이결정한코스피하락세…개인·기관매수도못...",
-    "주택·토목넘어SMR·콘텐츠로…건설업계′탈건설′가속",
-    "대만사업장노조파업앞둔美마이크론…韓엔지니어확보에속도",
-    "수급안정선도18개사,기등재재평가서실익'0원'역설",
-    "'매도클라이맥스'왔나…수급공백속코스피바닥론솔솔",
     "[뉴욕증시마감시황]앤트로픽IPO에AI투자심리되살아났다…나스닥...",
     "'엑스코프리',국내뇌전증시장도흔드나…진료현장기대",
     "정재헌SKT1년,통신은회복…AI수익화시험대",
@@ -4070,10 +4086,18 @@
     "대전시노인복지관,개관20년만에이용회원1만명돌파",
     "청주대,반도체전공정부터첨단패키징까지실무형전문인력2천명육...",
     "CP금리급등에도단기자금못줄이는기업들…고금리·차환부담'이중...",
-    "삼성액티브자산운용,대형주·단기채혼합ETF상장"
+    "삼성액티브자산운용,대형주·단기채혼합ETF상장",
+    "의대쏠림완화되나…4대과기원수시경쟁률'역대최고'",
+    "SK이노,독거노인돌봄종사자격려지원",
+    "\"증시반등변수는美장기금리·외국인수급\"",
+    "아시아증시,AI기대에韓·日반등...中·홍콩은기술주약세",
+    "[마감시황]외국인·기관사고개인은팔았다...JYP는코스닥공매도3위",
+    "증시업종지도달라졌다…대한항공,산업재아닌'모빌리티'",
+    "금빛동료에서이젠적으로…핸드볼H리그서격돌",
+    "이종배\"초광역특구법노동규제논의는제자리…시행령땜질로끝내나\""
    ],
    "initialized": true,
-   "last_run": "2026-10-27T18:10:27.109792+09:00"
+   "last_run": "2026-10-27T18:15:25.498086+09:00"
   }
  },
  "press_names": {
