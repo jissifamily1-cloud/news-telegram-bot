@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-27T08:25:21.099582+09:00",
-     "진정 대화에 유가 4000달러선 회복 중동 금값"
-    ],
-    [
-     "2026-10-27T08:25:21.099582+09:00",
-     "재계 준비 연계 북한 점검 취약점 공격 PHP 정황 해킹조직 긴급"
-    ],
-    [
-     "2026-10-27T08:25:21.099582+09:00",
-     "기업 공개 인공지능 소식에 엔트로픽"
-    ],
-    [
      "2026-10-27T08:30:34.448410+09:00",
      "순천시 생태 모델 상호인정 지방정부 국제포럼 협력 제시"
     ],
@@ -1030,14 +1018,17 @@
     [
      "2026-10-27T14:25:20.757807+09:00",
      "메가특구 따져봐 노동자 희생뿐인 의원 실사구시로 김정호 노동특례"
+    ],
+    [
+     "2026-10-27T14:30:30.580274+09:00",
+     "위상 앤스로픽 휘둘릴 반도체 제조사에 재확인 있다 삼전닉스"
+    ],
+    [
+     "2026-10-27T14:30:30.580274+09:00",
+     "가른 순항 LG엔솔 3분기 삼성SDI ESS가 난항 SK온 K배터리"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12185892",
-    "https://zdnet.co.kr/view/?no=20261026154903",
-    "https://economist.co.kr/article/view/ecn202610260031",
-    "https://biz.chosun.com/stock/stock_general/2026/10/26/55QBXZZGMJDLXGO7NMVMVU5DU4/",
-    "https://www.etoday.co.kr/news/view/2640195",
     "https://www.yna.co.kr/view/AKR20261026037151008?input=1195m",
     "https://www.cstimes.com/news/articleView.html?idxno=725303",
     "https://www.nocutnews.co.kr/news/6597190",
@@ -2532,14 +2523,14 @@
     "https://www.koreaherald.com/article/10916290",
     "https://www.m-i.kr/news/articleView.html?idxno=2010689",
     "https://www.businesspost.co.kr/BP?command=article_view&num=450395",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=86675"
+    "https://www.pointe.co.kr/news/articleView.html?idxno=86675",
+    "https://www.koreaittimes.com/news/articleView.html?idxno=158592",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261027142636ZSF",
+    "https://www.gokorea.kr/news/articleView.html?idxno=882964",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4441361",
+    "https://www.g-enews.com/view.php?ud=202610271358224729139bf6e4b2_1"
    ],
    "seen_titles": [
-    "고물가시대,통신·가전구독경쟁력개선",
-    "AI비서통한주문확대…유통업체대응갈렸다",
-    "[오늘의증시]'슈퍼위크'에도외인매수없었다...5500선무너진코스피",
-    "솔리다임상장철회후폭풍…해외증시문두드리던기업들셈법복잡",
-    "농어촌공사두차례반대는어디로…안성여성농민\"협상거부,협약파...",
     "하이닉스,추가주주환원기대에도약보합전환…삼전,1%대↓(종합)",
     "SKT,인공지능에이전트위험관리담은'AI거버넌스리포트'펴내",
     "투심얼어붙었나…코스피끝내5500선못지키고마감",
@@ -4034,10 +4025,15 @@
     "AnthropicIPOputsKoreantechfirms'earlybetsinspotlight",
     "박창훈신한카드사장의'뚝심'국내1호AI결제성공'결실'",
     "'민감정보'빼곡한보험사도뚫렸다,미래에셋생명개인정보침해사고...",
-    "김정호의원\"노동자희생뿐인메가특구노동특례...실사구시로따져봐..."
+    "김정호의원\"노동자희생뿐인메가특구노동특례...실사구시로따져봐...",
+    "SK이노베이션,독거노인돌봄10주년맞아현장종사자심리회복지원",
+    "코스피,앤트로픽발훈풍에강세…경제성장률호조도",
+    "반도체열풍에코스피5,700돌파,앤트로픽IPO소식에투자자관심집...",
+    "앤스로픽\"반도체제조사에휘둘릴수있다\"…삼전닉스위상재확인",
+    "ESS가가른3분기K배터리…LG엔솔·삼성SDI'순항',SK온'난항'"
    ],
    "initialized": true,
-   "last_run": "2026-10-27T14:25:20.757807+09:00"
+   "last_run": "2026-10-27T14:30:30.580274+09:00"
   }
  },
  "press_names": {
