@@ -1041,9 +1041,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0104_202610261518370334",
-    "https://news.tvchosun.com/site/data/html_dir/2026/10/26/2026102690169.html",
-    "https://www.pennmike.com/news/articleView.html?idxno=130280",
     "https://biz.heraldcorp.com/article/10915090",
     "https://www.getnews.co.kr/news/articleView.html?idxno=884835",
     "https://byline.network/?p=9004111222624673",
@@ -2540,12 +2537,12 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610270078&t=NN",
     "https://www.ngetnews.com/news/articleView.html?idxno=555129",
     "https://www.nocutnews.co.kr/news/6597684",
-    "https://www.sentv.co.kr/article/view/sentv202610270097"
+    "https://www.sentv.co.kr/article/view/sentv202610270097",
+    "http://www.kjdaily.com/article.php?aid=1793071921690420276",
+    "https://www.segye.com/newsView/20261027509701?OutUrl=naver",
+    "https://www.dailian.co.kr/news/view/1706676/?sc=Naver"
    ],
    "seen_titles": [
-    "SK하이닉스미레버리지ETF,상장석달만에초고속청산",
-    "SK하이닉스,43년역사쌓았다…'초심3부작'공개",
-    "[재계핫이슈]이재명정부의'반기업본성'과주병기공정거래위원장",
     "강신철“광주군공항대체양륙공항아직못정해”…대미협의‘톱다...",
     "[이재용회장4년]실적으로리더십증명…다시초일류삼성",
     "과기정통부,‘모두의AI’브랜드명·슬로건대국민공모",
@@ -4042,10 +4039,13 @@
     "\"어제와딴판이네\"…반도체훈풍에코스피다시'질주'",
     "종근당,뇌전증치료제고용량추가…토피라메이트3종확보",
     "국감서산은부산이전·가덕신공항·에어부산통합집중질의한박성훈",
-    "영암가을먹거리,광주아파트주민밥상찾아갔다"
+    "영암가을먹거리,광주아파트주민밥상찾아갔다",
+    "SK하이닉스·삼성전자거래대금3.9조…상위20종목의54%",
+    "日서두시즌뛰고돌아왔다…송제우,SK호크스전체1순위지명",
+    "앤트로픽IPO에SKT·네이버함박웃음…AI투자결실기대"
    ],
    "initialized": true,
-   "last_run": "2026-10-27T12:30:31.299153+09:00"
+   "last_run": "2026-10-27T12:35:18.434799+09:00"
   }
  },
  "press_names": {
