@@ -493,7 +493,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/photos/8183564",
     "https://www.news1.kr/photos/8183559",
     "https://www.busan.com/view/busan/view.php?code=2026102811305977329",
     "https://www.news1.kr/photos/8183562",
@@ -1992,10 +1991,10 @@
     "https://www.news2day.co.kr/article/20261028500395",
     "https://www.polinews.co.kr/news/articleView.html?idxno=747151",
     "https://www.newstnt.com/news/articleView.html?idxno=725586",
-    "https://www.kdpress.co.kr/news/articleView.html?idxno=209578"
+    "https://www.kdpress.co.kr/news/articleView.html?idxno=209578",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2352041"
    ],
    "seen_titles": [
-    "SK하이닉스,D램·HBM3년치완판..솔리다임IPO는시장변동성에철회",
     "LS마린솔루션해저통신사업강화한다:SK브로드밴드와국제해저케이...",
     "SK하이닉스\"2029년까지D램·HBM사실상완판\"…내년HBM가격협상도완...",
     "나스닥,앤트로픽상장기대에1.18%상승…인공지능반도체주반등주...",
@@ -3494,10 +3493,11 @@
     "[마켓인사이드]솔리다임뉴욕증시IPO좌절…SK하이닉스에약일까독일...",
     "구미에23조5천억원투자'몰린다'…\"첨단산업심장으로도약\"",
     "고객중심경영결실…SKT는특별한경험을,KT·LGU+는품질인정받아",
-    "[주요공시]삼성전자,SK하이닉스,에임드바이오,ISC,샘씨엔에스,그린..."
+    "[주요공시]삼성전자,SK하이닉스,에임드바이오,ISC,샘씨엔에스,그린...",
+    "SK온,ESS대형화재시험서북미안전기준충족"
    ],
    "initialized": true,
-   "last_run": "2026-10-28T23:50:28.224425+09:00"
+   "last_run": "2026-10-28T23:55:20.292756+09:00"
   }
  },
  "press_names": {
