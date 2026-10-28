@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-28T22:10:27.204142+09:00",
-     "시한폭탄 청년들과 연금 직격 박수영"
-    ],
-    [
      "2026-10-28T22:15:27.022182+09:00",
      "없는 후원한다 소음 농구공 랭크업스포츠 나이츠"
     ],
@@ -210,12 +206,17 @@
     [
      "2026-10-29T04:05:22.887629+09:00",
      "개발 사옥되나 르메르디앙 재개 하이닉스 사전협상 강남"
+    ],
+    [
+     "2026-10-29T04:10:28.335428+09:00",
+     "6천피 탈환 쏠리는 FOMC 빅테크로"
+    ],
+    [
+     "2026-10-29T04:10:28.335428+09:00",
+     "확산 속도 내야 원전 한국도 흐름 세계는"
     ]
    ],
    "seen_urls": [
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261028.99099008186",
-    "https://www.newstnt.com/news/articleView.html?idxno=725402",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485409",
     "https://www.econovill.com/news/articleView.html?idxno=755122",
     "https://www.itbiznews.com/news/articleView.html?idxno=229399",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=424618",
@@ -1712,12 +1713,12 @@
     "https://www.mt.co.kr/industry/2026/10/29/2026102819435598899",
     "https://www.g-enews.com/view.php?ud=2026102821200819759a1f309431_1",
     "https://www.g-enews.com/view.php?ud=2026102822005366719a1f309431_1",
-    "https://www.mt.co.kr/estate/2026/10/29/2026102819495910728"
+    "https://www.mt.co.kr/estate/2026/10/29/2026102819495910728",
+    "https://www.mt.co.kr/industry/2026/10/29/2026102820071966906",
+    "https://www.mt.co.kr/stock/2026/10/29/2026102819474450904",
+    "https://www.mt.co.kr/opinion/2026/10/29/2026102816043470916"
    ],
    "seen_titles": [
-    "[컨콜]SK하이닉스,HBM4수율목표상향…내년수익성더올라간다",
-    "SKBroadband,LSMarineSolutionteamuptoprotectvitalAsiacablelin",
-    "김보라안성시장“반도체산업에서시민들소외되지않도록하겠다”",
     "제주학생700명누빈'SKYLeague'첫시즌마무리",
     "SK브로드밴드·LS마린솔루션,해저케이블SJC2유지보수협약…글로벌...",
     "신무기앞세운국내제약업계,매출확대넘어수익성개선까지이룰까",
@@ -3214,10 +3215,13 @@
     "분기매출104조·영업익83조하이닉스,반도체고점론일축",
     "SK온배터리탑재폭스바겐·아우디리콜확대…충전80%제한",
     "SK하이닉스·엔비디아·마이크론,AI주조정에자사주매입확대",
-    "하이닉스강남사옥되나…'르메르디앙개발'사전협상재개"
+    "하이닉스강남사옥되나…'르메르디앙개발'사전협상재개",
+    "SK하이닉스,3년물량사실상완판…주주환원겹호재에주가도날았다",
+    "6천피탈환…FOMC·빅테크로쏠리는눈",
+    "[사설]세계는원전확산흐름,한국도속도내야"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T04:05:22.887629+09:00"
+   "last_run": "2026-10-29T04:10:28.335428+09:00"
   }
  },
  "press_names": {
