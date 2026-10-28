@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-28T13:00:40.454642+09:00",
-     "백원기 대표 수상 사랑의열매 한옥 세종 대상 문화유산"
-    ],
-    [
      "2026-10-28T13:05:21.302089+09:00",
      "3일치 해킹 사태와 현금"
     ],
@@ -1438,14 +1434,13 @@
     [
      "2026-10-28T18:50:29.349954+09:00",
      "주주환원 선물매수 숏커버 소식에 역대급 하닉"
+    ],
+    [
+     "2026-10-28T19:00:42.300193+09:00",
+     "100조 환원 삼전 기대만발 주주들 SK하닉은"
     ]
    ],
    "seen_urls": [
-    "https://www.slist.kr/news/articleView.html?idxno=777054",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499199",
-    "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800110.html",
-    "https://www.hankyung.com/article/2026102784406",
-    "https://www.newspim.com/news/view/20261028000548",
     "https://www.koreaittimes.com/news/articleView.html?idxno=158614",
     "https://www.todaykorea.co.kr/news/articleView.html?idxno=407756",
     "http://www.kjdaily.com/article.php?aid=1793153170690550276",
@@ -2940,14 +2935,14 @@
     "https://www.betanews.net/article/view/beta202610280148",
     "https://www.kmib.co.kr/article/20261028501966",
     "http://www.finomy.com/news/articleView.html?idxno=264928",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=54060"
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=54060",
+    "https://www.kmib.co.kr/article/20261028502419",
+    "http://www.cctimes.kr/news/articleView.html?idxno=934407",
+    "https://www.dt.co.kr/article/12091921",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261028185450Nej",
+    "https://www.dt.co.kr/article/12091922"
    ],
    "seen_titles": [
-    "KB증권,SK텔레콤과'모두의AI'금융서비스협력MOU체결",
-    "[컨콜종합]SK하이닉스\"HBM·D램물량3년치사실상완판\"…AI메모리...",
-    "SK하이닉스\"D램·HBM3년치물량솔드아웃,높은수익지속가능\"",
-    "삼성전자실적발표D-1…우선주9%·삼성생명8%급등[핫종목]",
-    "SK하이닉스\"3년치사실상완판\"…AI고점론일축",
     "'삼전닉스'장중8%대불기둥…이틀연속매수사이드카",
     "곽노정SK하이닉스사장\"실적보다주목할건사업구조변화\"",
     "SK하이닉스는잘나가는데…레버리지ETF는초고속청산?",
@@ -4442,10 +4437,15 @@
     "코스피,외인·기관매수세에6천선회복'마감'",
     "SKT침해사고1년‘해지율1.6→0.8%’…“신뢰재측정과정”",
     "SK하이닉스,실적·주주환원겹호재···고점론돌파하나",
-    "'24만전자·140만닉스'돌아왔다…코스피6.6%폭등'6천피'탈환"
+    "'24만전자·140만닉스'돌아왔다…코스피6.6%폭등'6천피'탈환",
+    "SK하닉,매출104조·영업익83조…60조더주주환원",
+    "레이크머티리얼즈,세종유일소부장으뜸기업…\"반도체소재국산화...",
+    "[기획]3분기에만영업익83조쓸어담아…투자실탄115조‘장전’",
+    "SK하이닉스영업이익83조최대…'AI고점론'반박",
+    "SK하닉은'100조'환원…기대만발삼전주주들"
    ],
    "initialized": true,
-   "last_run": "2026-10-28T18:55:22.069833+09:00"
+   "last_run": "2026-10-28T19:00:42.300193+09:00"
   }
  },
  "press_names": {
