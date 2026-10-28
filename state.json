@@ -1149,12 +1149,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.kmib.co.kr/article/20261027502337",
-    "https://sports.donga.com/sports/article/all/20261028/134917317/1",
-    "https://econotimes.com/Semiconductor-Index-Leads-U-S-Gains-With-2-37-Rise-Tuesday-1764438",
-    "https://www.chosun.com/economy/tech_it/2026/10/28/YJCHZZMVDVFNVDVAMMSBUYWXXY/",
-    "https://www.donga.com/news/Economy/article/all/20261027/134920110/2",
-    "https://www.donga.com/news/Economy/article/all/20261027/134920081/2",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817869&plink=ORI&cooper=NAVER",
     "https://www.chosun.com/economy/realty/2026/10/28/7QG7EN2RURC5ZLM3OXZFWBIOLM/",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817870&plink=ORI&cooper=NAVER",
@@ -2648,15 +2642,15 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=620248",
     "https://www.kwnews.co.kr/article/20261028500515",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=279863",
-    "http://www.kjdaily.com/article.php?aid=1793159110690554276"
+    "http://www.kjdaily.com/article.php?aid=1793159110690554276",
+    "https://www.seoul.co.kr/news/society/2026/10/28/20261028500176?wlog_tag3=naver",
+    "https://www.epnc.co.kr/news/articleView.html?idxno=408888",
+    "https://www.vegannews.co.kr/news/article.html?no=397753",
+    "https://sateconomy.co.kr/news/view/1065580739322939",
+    "https://www.sisajournal.com/news/articleView.html?idxno=391981",
+    "https://www.edaily.co.kr/News/Read?newsId=04336166645617512&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "\"배당금얼마?\"…800만삼전개미들,역대급주주환원카드에촉각",
-    "세계자동차부품시장상위쏠림뚜렷",
-    "룰라재선에'브라질희토류'길열렸다…車업계,중국의존낮출까",
-    "\"나는이렇게깡통찼다\"…정신과의사가고백한'주식중독의늪'",
-    "[클로즈업]오늘실적발표성패분수령…주요10개기업컨센서스진단",
-    "[심층분석]반등장이끈시가총액상위10개종목…IT·반도체주도속전...",
     "[증시프리즘]1개월간널뛰기장세펼친반도체톱2…외인·기관수급...",
     "이철규\"강릉AIDC전력협의없었다…정치적수사로논점흐려\"",
     "SK하이닉스내일3분기실적발표...주주환원관심",
@@ -4150,10 +4144,16 @@
     "[속보]SK하이닉스,NXT서VI발동주가'껑충'…코스피6000선회복",
     "[생중계]2026강원특별자치도AI·반도체포럼|AI대전환,강원의새로...",
     "ChineseBigTechSeeks10-YearMemorySupplyDeals",
-    "멜콘회전율97%…샌즈랩·빛샘전자도50%넘어"
+    "멜콘회전율97%…샌즈랩·빛샘전자도50%넘어",
+    "조선대,내달4일‘2026취업진로페스타’개최…100여개기업참여",
+    "SKT,장기고객과무대감동함께나눈다…뮤지컬'시카고'단독대관",
+    "[특징주]SK하이닉스,사상최대실적에장중8%대상승",
+    "KB증권,'모두의AI'금융영역확대…결제넘어투자정보,검증체계가관...",
+    "SK하닉'역대급'실적에불기둥…'셀온'의저주풀렸다",
+    "최태원·노소영재산분할재상고심대법2부배당…주심김성수"
    ],
    "initialized": true,
-   "last_run": "2026-10-28T12:50:26.853563+09:00"
+   "last_run": "2026-10-28T12:53:28.627957+09:00"
   }
  },
  "press_names": {
