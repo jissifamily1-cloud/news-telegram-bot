@@ -722,10 +722,13 @@
     [
      "2026-10-28T22:55:20.029329+09:00",
      "HD현대마린솔루션 SK하이닉스 LIG디펜스앤에어로스페이스"
+    ],
+    [
+     "2026-10-28T23:05:20.077596+09:00",
+     "시즌 프로농구 DB 한국가스공사 꺾고 탈출 5위 연장 연패 공동"
     ]
    ],
    "seen_urls": [
-    "https://www.hankookilbo.com/news/article/A2026102811070002061?did=NA",
     "https://www.jemin.com/news/articleView.html?idxno=845536",
     "https://www.nocutnews.co.kr/news/6598362",
     "http://www.inews24.com/view/2019831",
@@ -2224,10 +2227,10 @@
     "https://www.news1.kr/world/usa-canada/6335556",
     "http://www.kjdaily.com/article.php?aid=1793195478690668276",
     "https://www.kdpress.co.kr/news/articleView.html?idxno=209573",
-    "https://biz.chosun.com/international/international_economy/2026/10/28/2QCKIDMC3JAEDOSUVM2XJ4WDQU/"
+    "https://biz.chosun.com/international/international_economy/2026/10/28/2QCKIDMC3JAEDOSUVM2XJ4WDQU/",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16261056"
    ],
    "seen_titles": [
-    "LS마린솔루션·SKB‘맞손’…해저통신유지보수경쟁력고도화",
     "[증권브리핑]미래에셋증권홍콩법인,자체기술로美달러디지털채권...",
     "주제발표하는김진철전남해상풍력대표이사[SFC2026]",
     "SK하이닉스,83조최대분기이익보다중요한질문…'메모리호황법칙'...",
@@ -3726,10 +3729,11 @@
     "[뉴욕개장]반도체강세에S&P500·나스닥상승출발…나스닥0.24%↑",
     "SK스퀘어·삼성전자우11%급등…기관·외국인수급대비",
     "[주요공시]SK하이닉스,HD현대마린솔루션,LIG디펜스앤에어로스페이스...",
-    "뉴욕증시,FOMC앞두고상승출발…SK하이닉스호실적에반도체주강세"
+    "뉴욕증시,FOMC앞두고상승출발…SK하이닉스호실적에반도체주강세",
+    "프로농구한국가스공사,시즌첫연장끝DB꺾고연패탈출…공동5위..."
    ],
    "initialized": true,
-   "last_run": "2026-10-28T23:00:44.009861+09:00"
+   "last_run": "2026-10-28T23:05:20.077596+09:00"
   }
  },
  "press_names": {
