@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-28T07:00:40.049095+09:00",
-     "상승 앤트로픽 기대에 나스닥 투자 뉴욕증시"
-    ],
-    [
-     "2026-10-28T07:00:40.049095+09:00",
-     "SK하닉 주가는 폭락 개미 80조 카드 달랠 벌어도 꺼낼까"
-    ],
-    [
      "2026-10-28T07:05:23.085168+09:00",
      "속도 SK엔무브 AIDC LG전자 연결고리 협력"
     ],
@@ -1134,11 +1126,13 @@
     [
      "2026-10-28T12:55:20.227138+09:00",
      "대형제약사 속도 주목 격차 중소바이오 효율성 줄일"
+    ],
+    [
+     "2026-10-28T13:00:40.454642+09:00",
+     "백원기 대표 수상 사랑의열매 한옥 세종 대상 문화유산"
     ]
    ],
    "seen_urls": [
-    "https://www.chosun.com/economy/money/2026/10/28/SECPATNDQFAPPKO57HBTIIOBVY/",
-    "https://www.hankyung.com/article/2026102786461",
     "https://www.hankyung.com/article/2026102786411",
     "https://www.kmib.co.kr/article/20261027502127",
     "https://imnews.imbc.com/replay/2026/nw2500/article/6861185_36989.html",
@@ -2636,11 +2630,11 @@
     "https://www.edaily.co.kr/News/Read?newsId=04336166645617512&mediaCodeNo=257",
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039105",
     "https://www.newscj.com/news/articleView.html?idxno=3443853",
-    "https://www.medipana.com/news/articleView.html?idxno=420288"
+    "https://www.medipana.com/news/articleView.html?idxno=420288",
+    "http://www.dailysmart.co.kr/news/articleView.html?idxno=131644",
+    "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=917352"
    ],
    "seen_titles": [
-    "증시부진에파킹형ETF인기…반도체·지수형은급감",
-    "삼척시청핸드볼팀,이번엔SK슈글독주깬다",
     "\"AIDC·해저케이블연결지역성장핵심인프라구축해야\"",
     "앤트로픽“AI,인류에재앙적위험초래할수도”",
     "[지수재편]산업분류개편에63개지수영향…ETF88조원대변동예고",
@@ -4138,10 +4132,12 @@
     "최태원·노소영재산분할재상고심대법2부배당…주심김성수",
     "SK하이닉스,3분기매출104조원…분기최대실적경신",
     "조지연\"성평등부현금성혼인지원금,미래대응기금취지안맞아\"",
-    "중소바이오-대형제약사격차줄일AI…속도·효율성주목"
+    "중소바이오-대형제약사격차줄일AI…속도·효율성주목",
+    "아웃백,T멤버십VIP고객에25%할인·적립…최대5만원혜택",
+    "세종백원기문화유산한옥대표…사랑의열매대상수상"
    ],
    "initialized": true,
-   "last_run": "2026-10-28T12:55:20.227138+09:00"
+   "last_run": "2026-10-28T13:00:40.454642+09:00"
   }
  },
  "press_names": {
