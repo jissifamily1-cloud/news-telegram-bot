@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-29T01:25:21.335738+09:00",
-     "새로운 과정 4천명 개척 몰린"
-    ],
-    [
      "2026-10-29T01:33:03.391044+09:00",
      "SK스퀘어 상향 신용등급 동반 SK하이닉스 전망"
     ],
@@ -410,13 +406,17 @@
     [
      "2026-10-29T07:25:20.904445+09:00",
      "경제장관과 논의 가능성 투자 SK이노베이션 크로아티아"
+    ],
+    [
+     "2026-10-29T07:30:30.577455+09:00",
+     "수질개선하라 삼성전자 세번째 경기도 방류수 행정지도 SK하이닉승에"
+    ],
+    [
+     "2026-10-29T07:30:30.577455+09:00",
+     "at Target hynix Price With Keeps Wolfe Outperform"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261028_0003844652",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=877090",
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261028.99099008200",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485346",
     "http://www.dailypop.kr/news/articleView.html?idxno=103813",
     "https://www.newstree.kr/newsView/ntr202610280011",
     "http://www.yonhapnewstv.co.kr/news/MYH20261028132922h3f",
@@ -1912,13 +1912,13 @@
     "https://www.fntimes.com/html/view.php?ud=202610290707592832141825007d_18",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499466",
     "https://www.slist.kr/news/articleView.html?idxno=777246",
-    "https://www.kpinews.kr/newsView/1065564827680169"
+    "https://www.kpinews.kr/newsView/1065564827680169",
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5227742",
+    "https://www.ziksir.com/news/articleView.html?idxno=151161",
+    "http://www.joygm.com/news/articleView.html?idxno=215565",
+    "https://econotimes.com/Wolfe-Keeps-SK-hynix-at-Outperform-With-a-250-Price-Target-1765377"
    ],
    "seen_titles": [
-    "큐알티,과기정통부장관표창수상\"평가장비해외의존도70%낮춰\"",
-    "[영상]SK하이닉스,3분기영업익83조…올해100조주주환원",
-    "SK하이닉스,100조원규모주주환원…주당2만원현금배당",
-    "SK온,북미ESS대형화재안전시험'UL9540A'통과",
     "이천신산업진흥원내년상반기출범…\"미래산업육성전담\"",
     "반도체·소부장거점뜨는호남…신규분양잇따라",
     "LS마린솔루션-SK브로드밴드,국제해저통신망유지보수협력",
@@ -3414,10 +3414,14 @@
     "[KFT모닝브리프]2026.10.29—오늘꼭알아야할국내외경제뉴스",
     "오라클\"2029년부터자체자금으로성장\"…AI인프라주동반랠리",
     "SSG닷컴,'쓱데이'단독100여종...반값과일박스부터명품화장품",
-    "SK이노베이션E&S,크로아티아경제장관과투자가능성논의"
+    "SK이노베이션E&S,크로아티아경제장관과투자가능성논의",
+    "10월29일굿모닝MBN이시각주요뉴스",
+    "미연준,금리동결…뉴욕증시3대지수,동반상승",
+    "경기도,삼성전자-SK하이닉승에세번째행정지도..\"방류수수질개선하라...",
+    "WolfeKeepsSKhynixatOutperformWitha$250PriceTarget"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T07:25:20.904445+09:00"
+   "last_run": "2026-10-29T07:30:30.577455+09:00"
   }
  },
  "press_names": {
@@ -4047,6 +4051,7 @@
   "netongs.com": "여수넷통뉴스",
   "tennis.co.kr": "테니스코리아",
   "kr.people.com.cn": "kr.people.com.cn",
-  "gimhaenews.co.kr": "김해뉴스"
+  "gimhaenews.co.kr": "김해뉴스",
+  "joygm.com": "광명지역신문"
  }
 }
