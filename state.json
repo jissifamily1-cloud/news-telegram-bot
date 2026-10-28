@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-28T16:45:26.914927+09:00",
-     "기업은행 촉각 군계일학인데 은행주 걸림돌 상승 주가"
-    ],
-    [
-     "2026-10-28T16:45:26.914927+09:00",
-     "사건 중수청으로 2000억 넘어갔다 재산 허화평"
-    ],
-    [
-     "2026-10-28T16:45:26.914927+09:00",
-     "공시 기업"
-    ],
-    [
      "2026-10-28T16:50:28.221388+09:00",
      "재평가 공급 차질 주목 석유 SK이노 정유산업 실적"
     ],
@@ -793,9 +781,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20261028000181",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=54046",
-    "https://www.seoul.co.kr/news/economy/industry/2026/10/28/20261028500139?wlog_tag3=naver",
     "https://www.insight.co.kr/news/579490",
     "https://www.ziksir.com/news/articleView.html?idxno=151041",
     "https://kpenews.com/View.aspx?No=4286229",
@@ -2292,12 +2277,12 @@
     "https://www.newsis.com/view/NISX20261028_0003845506",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4441708",
     "https://www.edaily.co.kr/News/Read?newsId=07137286645617512&mediaCodeNo=257",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3735852"
+    "https://www.gukjenews.com/news/articleView.html?idxno=3735852",
+    "https://www.edaily.co.kr/News/Read?newsId=07176646645617512&mediaCodeNo=257",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=620481",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4441710"
    ],
    "seen_titles": [
-    "[컨콜]SK하이닉스,2029년까지D램·HBM완판…수요맞춰생산확대",
-    "코스피,장중6%대급등해6,000선터치…삼전닉스강세",
-    "하이닉스가쏜주주환원기대감에'6000피'…삼성전자도힘보탤까",
     "기업복지‘사내대출’도건드릴수있을까…규제딜레마[DeepSpot]",
     "\"팬까지세척하는공기청정기\"…SK매직'올클린디아트'차별화",
     "경남개발공사신인드래프트3명영입",
@@ -3794,10 +3779,13 @@
     "[속보]뉴욕증시,SK하이닉스실적호조·FOMC기다리며상승출발",
     "달러-원,뉴욕장서1,340원초반대거래",
     "80%이익률보다‘2030년공급부족’…월가가본SK하이닉스",
-    "\"반도체주싹뛰었다\"…뉴욕증시,연준금리결정앞두고상승출발"
+    "\"반도체주싹뛰었다\"…뉴욕증시,연준금리결정앞두고상승출발",
+    "뉴욕증시,FOMC앞두고상승출발…SK하닉호실적에반도체주강세",
+    "[속보]미국반도체주동반상승…SK하이닉스ADR9%대급등,마이크론·...",
+    "뉴욕증시,FOMC대기하며상승출발"
    ],
    "initialized": true,
-   "last_run": "2026-10-28T22:45:22.943775+09:00"
+   "last_run": "2026-10-28T22:50:24.737635+09:00"
   }
  },
  "press_names": {
