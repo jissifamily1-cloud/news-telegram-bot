@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-28T21:50:26.701545+09:00",
-     "코스피 잭팟 반도체 10거래일만에"
-    ],
-    [
      "2026-10-28T21:55:19.688649+09:00",
      "3분기 4일 SK텔레콤 실적콜 11월 4시 오후"
     ],
@@ -214,10 +210,13 @@
     [
      "2026-10-29T03:35:20.259685+09:00",
      "생산 HBM3E 착수 인해전술 불과한데 CXMT 수율"
+    ],
+    [
+     "2026-10-29T03:50:27.032500+09:00",
+     "일축 분기 83조 영업익 반도체 고점론 하이닉스 104조 매출"
     ]
    ],
    "seen_urls": [
-    "https://www.ziksir.com/news/articleView.html?idxno=151049",
     "http://www.doctorstimes.com/news/articleView.html?idxno=240734",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=172677",
     "https://www.hankyung.com/article/202610280162g",
@@ -1716,10 +1715,10 @@
     "https://www.mhns.co.kr/news/articleView.html?idxno=766445",
     "https://econotimes.com/Fed-Holds-Rates-at-3-75-to-4-as-Two-Officials-Back-a-Hike-1765218",
     "https://www.news1.kr/world/international-economy/6335578",
-    "https://biz.sbs.co.kr/article_hub/20000342785?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000342785?division=NAVER",
+    "https://www.mt.co.kr/industry/2026/10/29/2026102819435598899"
    ],
    "seen_titles": [
-    "SK하이닉스\"향후3년간D램·HBM사실상완판\"",
     "코스피,이틀연속매수사이드카...다시6,000선넘봐",
     "SK하이닉스분기매출100조돌파...영업이익도83조'최대'",
     "SK하닉3Q'역대최대실적'주주환원100조…29년까지완판(종합2보)",
@@ -3218,10 +3217,11 @@
     "전남광주특별시민형배시장\"전남광주,RE100산업수도로도약\"",
     "FedHoldsRatesat3.75%to4%asTwoOfficialsBackaHike",
     "뉴욕증시,연준금리동결에지수별혼조…美국채10년물5.03%",
-    "'인해전술'CXMT수율20~30%불과한데HBM3E생산착수"
+    "'인해전술'CXMT수율20~30%불과한데HBM3E생산착수",
+    "분기매출104조·영업익83조하이닉스,반도체고점론일축"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T03:45:27.306989+09:00"
+   "last_run": "2026-10-29T03:50:27.032500+09:00"
   }
  },
  "press_names": {
