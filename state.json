@@ -246,11 +246,17 @@
     [
      "2026-10-29T05:05:19.587274+09:00",
      "시장의 용인 승부수 이상일 철길을 반도체"
+    ],
+    [
+     "2026-10-29T05:15:26.627324+09:00",
+     "전북시민사회단체들 찾기 전북도 참사 가습기살균제 정부 피해자"
+    ],
+    [
+     "2026-10-29T05:15:26.627324+09:00",
+     "취임1년 정재헌 AI수익화 3년차 급증 SKT 숙제는 영업익 11배"
     ]
    ],
    "seen_urls": [
-    "https://www.sidae.com/article/2026102811155053373",
-    "https://www.ajunews.com/view/20261028103853691",
     "https://www.dailian.co.kr/news/view/1707295/?sc=Naver",
     "https://www.datasom.co.kr/news/articleView.html?idxno=210541",
     "https://www.newspim.com/news/view/20261028000196",
@@ -1748,11 +1754,11 @@
     "https://www.sidae.com/article/2026102810215669693",
     "http://www.fieldnews.kr/news/articleView.html?idxno=32628",
     "https://www.edaily.co.kr/News/Read?newsId=01708886645617840&mediaCodeNo=257",
-    "https://www.kmib.co.kr/article/20261029500019"
+    "https://www.kmib.co.kr/article/20261029500019",
+    "http://www.jbsori.com/news/articleView.html?idxno=18110",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5076177"
    ],
    "seen_titles": [
-    "30billionwoninmoneyispileduptobereturned",
-    "키옥시아수익은주주에게…솔리다임IPO중단이남긴아쉬움",
     "산업장관,구미서25조투자기업간담회…AX지원논의",
     "SK온ESS제품,대형화재시험서북미안전기준충족",
     "김정관산업장관\"AX는생존문제…산단이확산거점되도록지원\"",
@@ -3250,10 +3256,12 @@
     "빅테크IPO·자금조달,코스피뒤흔든다",
     "[강성원의현장톡(TALK)]이상일시장의용인반도체승부수...철길을잇...",
     "[속보]美증시,연준동결속소폭상승…SK하이닉스ADR13%↑",
-    "[속보]SK하이닉스ADR13.30%↑…뉴욕증시일제상승"
+    "[속보]SK하이닉스ADR13.30%↑…뉴욕증시일제상승",
+    "전북시민사회단체들\"정부·전북도,가습기살균제참사피해자찾기적...",
+    "'취임1년'SKT정재헌,영업익11배급증…3년차숙제는,'AI수익화'"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T05:10:28.652938+09:00"
+   "last_run": "2026-10-29T05:15:26.627324+09:00"
   }
  },
  "press_names": {
