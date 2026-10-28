@@ -214,10 +214,13 @@
     [
      "2026-10-29T03:15:25.551336+09:00",
      "as Back at Holds Officials Rates to Hike Two Fed"
+    ],
+    [
+     "2026-10-29T03:35:20.259685+09:00",
+     "생산 HBM3E 착수 인해전술 불과한데 CXMT 수율"
     ]
    ],
    "seen_urls": [
-    "https://www.jejudomin.co.kr/news/articleView.html?idxno=401737",
     "https://www.ziksir.com/news/articleView.html?idxno=151049",
     "http://www.doctorstimes.com/news/articleView.html?idxno=240734",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=172677",
@@ -1716,10 +1719,10 @@
     "https://www.tokenpost.kr/news/cryptocurrency/428747",
     "https://www.mhns.co.kr/news/articleView.html?idxno=766445",
     "https://econotimes.com/Fed-Holds-Rates-at-3-75-to-4-as-Two-Officials-Back-a-Hike-1765218",
-    "https://www.news1.kr/world/international-economy/6335578"
+    "https://www.news1.kr/world/international-economy/6335578",
+    "https://biz.sbs.co.kr/article_hub/20000342785?division=NAVER"
    ],
    "seen_titles": [
-    "영업익83조넘긴SK하이닉스,'장기호황'자신…3년치완판·100조환원...",
     "SK하이닉스\"향후3년간D램·HBM사실상완판\"",
     "코스피,이틀연속매수사이드카...다시6,000선넘봐",
     "SK하이닉스분기매출100조돌파...영업이익도83조'최대'",
@@ -3218,10 +3221,11 @@
     "카미노,주식토큰4종담보로USDC대출…한도최대40%",
     "전남광주특별시민형배시장\"전남광주,RE100산업수도로도약\"",
     "FedHoldsRatesat3.75%to4%asTwoOfficialsBackaHike",
-    "뉴욕증시,연준금리동결에지수별혼조…美국채10년물5.03%"
+    "뉴욕증시,연준금리동결에지수별혼조…美국채10년물5.03%",
+    "'인해전술'CXMT수율20~30%불과한데HBM3E생산착수"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T03:30:39.992898+09:00"
+   "last_run": "2026-10-29T03:35:20.259685+09:00"
   }
  },
  "press_names": {
