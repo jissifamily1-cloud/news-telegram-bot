@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-28T23:50:28.224425+09:00",
-     "고객 SKT는 중심 인정 경험을 품질 받아 LGU 결실 특별한 KT 경영"
-    ],
-    [
-     "2026-10-28T23:50:28.224425+09:00",
-     "ISC 그린 삼성전자 SK하이닉스 에임드바이오 샘씨엔에스"
-    ],
-    [
      "2026-10-29T00:00:43.016681+09:00",
      "합의 인수 가비아 얼라인도 KINX 맥쿼리"
     ],
@@ -258,15 +250,21 @@
     [
      "2026-10-29T05:45:25.491146+09:00",
      "데이터센터 기업 줄하향 호황인데 전력기기 목표가"
+    ],
+    [
+     "2026-10-29T05:55:21.001598+09:00",
+     "이어 헝가리 SK온 4400억 코마롬도 이반차 흑자에도 감원 칼바"
+    ],
+    [
+     "2026-10-29T05:55:21.001598+09:00",
+     "필라델피아반도체지수 반도체주 나흘 상승 마이크론"
+    ],
+    [
+     "2026-10-29T05:55:21.001598+09:00",
+     "복병 SK하닉이 알파벳 키운 실적 저조 폭락 주가 랠리에"
     ]
    ],
    "seen_urls": [
-    "https://www.munhwa.com/article/11626937",
-    "https://www.munhwa.com/article/11626936",
-    "https://www.wikitree.co.kr/articles/1169810",
-    "http://www.metroseoul.co.kr/article/20261028500246",
-    "https://www.munhwa.com/article/11626943",
-    "https://www.news1.kr/industry/general-industry/6334678",
     "https://imnews.imbc.com/replay/2026/nw1200/article/6861310_36967.html",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697452",
     "http://www.joseilbo.com/news/news_read.php?uid=578343&class=32",
@@ -1760,15 +1758,15 @@
     "https://www.newspim.com/news/view/20261029000038",
     "https://www.news1.kr/world/international-economy/6335596",
     "https://www.newsverse.kr/news/articleView.html?idxno=11788",
-    "https://www.newsis.com/view/NISX20261029_0003845560"
+    "https://www.newsis.com/view/NISX20261029_0003845560",
+    "https://www.sedaily.com/article/20107472",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=7780",
+    "https://www.news1.kr/world/international-economy/6335598",
+    "https://www.the-today.com/news/articleView.html?idxno=92604",
+    "http://www.beyondpost.co.kr/view.php?ud=2026102905460196462aaae0046f_30",
+    "https://www.dt.co.kr/article/12091957"
    ],
    "seen_titles": [
-    "아웃백,가을시즌치즈메뉴확대…T멤버십VIP프로모션운영",
-    "SK하이닉스,100조원규모주주환원…주가장중7%대반등",
-    "\"오픈AI도구글TPU구매추진\"…앤트로픽이어TPU확산(종합)",
-    "[12뉴스]오늘의주요뉴스",
-    "SK온ESS북미화재시험통과…글로벌시장공략가속도",
-    "코스피,장중‘6000선’터치…10거래일만처음",
     "“하이닉스손자회사솔리다임,美에60조낸드공장추진”",
     "곽노정SK하이닉스CEO\"투자성과주주와공유…성장투자도지속\"",
     "실적양극화…건설·배터리등산업계곳곳인력감축",
@@ -3262,10 +3260,16 @@
     "뉴욕증시,연준금리동결속완만히상승마감",
     "[뉴욕마감]연준금리동결에나스닥0.3%↑·사흘째상승…SK하닉ADR13%...",
     "[오늘의경제뉴스]데이터센터호황인데...전력기기기업목표가줄하향...",
-    "뉴욕증시,금리동결에상승마감…오라클11%·SK하이닉스13%↑"
+    "뉴욕증시,금리동결에상승마감…오라클11%·SK하이닉스13%↑",
+    "뉴욕증시,금리동결에상승...‘어닝서프라이즈’SK하닉13%급등[데...",
+    "[글로벌마켓뷰]뉴욕증시,연준금리동결·AI훈풍에3거래일째상승...",
+    "美반도체주일제히상승…SK하이닉스13%급등·마이크론6%↑",
+    "[단독]SK온헝가리,이반차이어코마롬도감원…4400억흑자에도칼바...",
+    "필라델피아반도체지수1.76%,마이크론5.86%↑...반도체주,나흘째상승...",
+    "알파벳실적저조,주가9%대폭락…SK하닉이키운AI랠리에복병"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T05:50:24.791078+09:00"
+   "last_run": "2026-10-29T05:55:21.001598+09:00"
   }
  },
  "press_names": {
