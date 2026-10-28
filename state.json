@@ -302,12 +302,13 @@
     [
      "2026-10-29T06:50:27.287874+09:00",
      "30억원 주요공시는 코스피 지엔코 거래일 코스닥 제3자배정 28일"
+    ],
+    [
+     "2026-10-29T06:55:20.718814+09:00",
+     "이태원참사 4주기 기억식 광화문 광장서"
     ]
    ],
    "seen_urls": [
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=368333",
-    "https://www.g-enews.com/view.php?ud=202610281257316349e7e8286d56_1",
-    "https://www.newspim.com/news/view/20261028000600",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4441620",
     "https://www.newspost.kr/news/articleView.html?idxno=226787",
     "https://biz.sbs.co.kr/article_hub/20000342666?division=NAVER",
@@ -1804,12 +1805,12 @@
     "https://www.medicopharma.co.kr/news/articleView.html?idxno=70079",
     "https://www.newsian.co.kr/news/articleView.html?idxno=100155",
     "https://www.koreadaily.com/article/20261028144811266",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499454"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499454",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261029065033FQ4",
+    "https://www.mediapen.com/news/view/1133345",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261029065251ctr"
    ],
    "seen_titles": [
-    "China'sMemoryGiantsExpandIntoNewMarkets,ChallengingKoreanRiv",
-    "SK하이닉스“2029년까지사실상완판”…메모리장기호황자신",
-    "SK하이닉스,83조영업익·100조주주환원…'AI고점론'정면돌파(종합...",
     "LS마린솔루션-SK브로드밴드,해저통신망유지보수협력확대",
     "한화자산운용,HBM반도체ETF개인순매수1위...6000억원유입",
     "SK하이닉스83조대박에춤췄다…키옥시아주가장중9%폭등",
@@ -3306,10 +3307,13 @@
     "SK바이오팜'세노바메이트',소아뇌전증60%발작절반감소",
     "뉴욕증시,금리동결에안도랠리…나스닥0.27%↑",
     "[현장]중간선거6일앞두고‘배터리제조이니셔티브’발표…조지아...",
-    "코스피·코스닥전거래일(28일)주요공시는...지엔코,30억원제3자배정..."
+    "코스피·코스닥전거래일(28일)주요공시는...지엔코,30억원제3자배정...",
+    "[글로벌증시]뉴욕증시,금리동결에상승계속…나스닥0.27%↑",
+    "[美증시]금리동결·SK하이닉스폭등에3대지수동반랠리…반도체·AI...",
+    "[AM-PM]10·29이태원참사4주기…광화문광장서기억식外"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T06:50:27.287874+09:00"
+   "last_run": "2026-10-29T06:55:20.718814+09:00"
   }
  },
  "press_names": {
