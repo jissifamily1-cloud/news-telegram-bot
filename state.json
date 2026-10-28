@@ -1441,9 +1441,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.koreaittimes.com/news/articleView.html?idxno=158614",
-    "https://www.todaykorea.co.kr/news/articleView.html?idxno=407756",
-    "http://www.kjdaily.com/article.php?aid=1793153170690550276",
     "https://news.mtn.co.kr/article/2026102811025946081",
     "https://www.peoplewatch.co.kr/article/view/ppw202610280011",
     "https://www.wikitree.co.kr/articles/1169775",
@@ -2940,12 +2937,12 @@
     "http://www.cctimes.kr/news/articleView.html?idxno=934407",
     "https://www.dt.co.kr/article/12091921",
     "http://www.yonhapnewstv.co.kr/news/MYH20261028185450Nej",
-    "https://www.dt.co.kr/article/12091922"
+    "https://www.dt.co.kr/article/12091922",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610280191&t=NN",
+    "https://www.news1.kr/local/gyeonggi/6335487",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088910"
    ],
    "seen_titles": [
-    "'삼전닉스'장중8%대불기둥…이틀연속매수사이드카",
-    "곽노정SK하이닉스사장\"실적보다주목할건사업구조변화\"",
-    "SK하이닉스는잘나가는데…레버리지ETF는초고속청산?",
     "코스피급등에도…환율,6거래일만에1330원대로상승",
     "[사설]역대급반도체실적…시장은지속가능성을묻는다",
     "SK하이닉스60조추가해100조원대추가주주환원…주당2만원현금배...",
@@ -4442,10 +4439,13 @@
     "레이크머티리얼즈,세종유일소부장으뜸기업…\"반도체소재국산화...",
     "[기획]3분기에만영업익83조쓸어담아…투자실탄115조‘장전’",
     "SK하이닉스영업이익83조최대…'AI고점론'반박",
-    "SK하닉은'100조'환원…기대만발삼전주주들"
+    "SK하닉은'100조'환원…기대만발삼전주주들",
+    "\"3년치완판\"역대급돈잔치…SK하닉,'100조잭팟'고점론마저잠재웠다",
+    "이천신산업진흥원설립본격화…내년상반기출범",
+    "AI격차줄인다…NIA,'디지털ESG'민관공동과제모색"
    ],
    "initialized": true,
-   "last_run": "2026-10-28T19:00:42.300193+09:00"
+   "last_run": "2026-10-28T19:03:06.930786+09:00"
   }
  },
  "press_names": {
