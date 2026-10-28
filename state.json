@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-28T23:40:26.492837+09:00",
-     "제출 합병 정정신고서 기존 SK이노 거쳐 비율 유지 외부 평가"
-    ],
-    [
-     "2026-10-28T23:40:26.492837+09:00",
-     "RE100 공급망 896조 민형배 투자계획 3GW 반도체 전력만 서남권"
-    ],
-    [
      "2026-10-28T23:45:27.908733+09:00",
      "4분기 동박 부진 주목 축소에도 반등 적자 SKC 3분기"
     ],
@@ -273,7 +265,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20261028079351009?input=1195m",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818843&plink=ORI&cooper=NAVER",
     "https://sports.donga.com/economy/article/all/20261028/134923706/1",
     "https://www.mk.co.kr/article/12188286",
@@ -1772,10 +1763,10 @@
     "https://www.g-enews.com/view.php?ud=202610290527577006e250e8e188_1",
     "https://www.newsverse.kr/news/articleView.html?idxno=11787",
     "https://www.kbmaeil.com/article/20261029500021",
-    "https://www.sidae.com/article/2026102515451812584"
+    "https://www.sidae.com/article/2026102515451812584",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290004&t=NN"
    ],
    "seen_titles": [
-    "증권사'사팔사팔이벤트'금지…금감원\"피해예방\"",
     "[편집국장의시선]이창용전총재에게묻는다",
     "바이오실무배우고취업까지준비…교육부,바이오분야'라운드업'개...",
     "산업장관,구미서5극3특현장행보…성장엔진·AI전환지원",
@@ -3274,10 +3265,11 @@
     "SK하이닉스ADR13%폭등…'AI훈풍'타고거침없는날갯짓",
     "100조원주주환원이던진질문...회사가번돈,끝내누구에게돌아갈까",
     "뉴욕증시,금리동결에사흘째상승…오라클10.73%급등",
-    "K배터리활로는ESS…CATL도성장둔화"
+    "K배터리활로는ESS…CATL도성장둔화",
+    "SK하이닉스ADR13%'급등'실적에나스닥도환호…美기술주훈풍확산"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T05:35:20.953157+09:00"
+   "last_run": "2026-10-29T05:40:27.333244+09:00"
   }
  },
  "press_names": {
