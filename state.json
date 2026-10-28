@@ -294,11 +294,13 @@
     [
      "2026-10-29T06:35:20.371179+09:00",
      "조달 규제에 SK하이닉스는 YMTC 7조 발목"
+    ],
+    [
+     "2026-10-29T06:45:25.284731+09:00",
+     "뇌전증 발작 감소 절반 소아 세노바메이트 SK바이오팜"
     ]
    ],
    "seen_urls": [
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=365303",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=279864",
     "https://www.busan.com/view/busan/view.php?code=2026102812591353623",
     "https://www.newscj.com/news/articleView.html?idxno=3443849",
     "https://www.epnc.co.kr/news/articleView.html?idxno=408889",
@@ -1796,11 +1798,11 @@
     "https://www.hankyung.com/article/2026102808756",
     "https://www.sedaily.com/article/20107418",
     "https://it.chosun.com/news/articleView.html?idxno=2023092172948",
-    "http://www.inews24.com/view/2020164"
+    "http://www.inews24.com/view/2020164",
+    "https://www.etoday.co.kr/news/view/2641404",
+    "https://www.medicopharma.co.kr/news/articleView.html?idxno=70079"
    ],
    "seen_titles": [
-    "조지연\"성평등부현금성혼인지원금,미래대응기금취지안맞아\"",
-    "중소바이오-대형제약사격차줄일AI…속도·효율성주목",
     "아웃백,T멤버십VIP고객에25%할인·적립…최대5만원혜택",
     "세종백원기문화유산한옥대표…사랑의열매대상수상",
     "\"2029년까지D램·HBM완판\"AI정점론힘뺀하이닉스",
@@ -3298,10 +3300,12 @@
     "\"너무차이난다\"…코스피급등해도LG이노텍개미는'울상'[종목+]",
     "“앤트로픽IPO‘개미’공략나선다…JP모건이주관”",
     "中YMTC7조조달추진…SK하이닉스는美규제에발목",
-    "뉴욕증시3대지수소폭상승⋯연준금리동결영향"
+    "뉴욕증시3대지수소폭상승⋯연준금리동결영향",
+    "뉴욕증시,이변없는FOMC에상승⋯나스닥0.3%↑[상보]",
+    "SK바이오팜'세노바메이트',소아뇌전증60%발작절반감소"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T06:40:26.334401+09:00"
+   "last_run": "2026-10-29T06:45:25.284731+09:00"
   }
  },
  "press_names": {
