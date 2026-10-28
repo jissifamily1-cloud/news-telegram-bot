@@ -254,10 +254,13 @@
     [
      "2026-10-29T02:25:24.251004+09:00",
      "4종 대출 주식 한도 USDC 카미노 담보로 토큰"
+    ],
+    [
+     "2026-10-29T03:00:42.840288+09:00",
+     "산업수도로 전남광주 민형배시장 도약 전남광주특별시 RE100"
     ]
    ],
    "seen_urls": [
-    "https://www.greened.kr/news/articleView.html?idxno=353247",
     "https://www.koreatimes.co.kr/path/A2026102811040004633",
     "https://www.kyeonggi.com/article/20261028580146",
     "https://www.jejudomin.co.kr/news/articleView.html?idxno=401737",
@@ -1756,10 +1759,10 @@
     "https://econotimes.com/SK-hynix-Sets-Revenue-Record-as-GE-Vernova-Backlog-Reaches-197-Billion-1765137",
     "http://www.kjdaily.com/article.php?aid=1793205048690662276",
     "http://www.e2news.com/news/articleView.html?idxno=335555",
-    "https://www.tokenpost.kr/news/cryptocurrency/428747"
+    "https://www.tokenpost.kr/news/cryptocurrency/428747",
+    "https://www.mhns.co.kr/news/articleView.html?idxno=766445"
    ],
    "seen_titles": [
-    "SKOnpasseslarge-scalefiretest,bolsteringESSsafetycredentials",
     "[Ceo’sSpeech]박현주회장,“AI혁명10~20%진행”",
     "KB증권,SK텔레콤'모두의AI'합류-개인맞춤형자산관리지원",
     "영업익83조넘긴SK하이닉스,'장기호황'자신…3년치완판·100조환원...",
@@ -3258,10 +3261,11 @@
     "SKhynixSetsRevenueRecordasGEVernovaBacklogReaches$197Billion",
     "SK하이닉스·SK스퀘어신용등급전망동반상향",
     "데스틴파워,코스닥상장증권신고서제출…글로벌전력변환기기제조...",
-    "카미노,주식토큰4종담보로USDC대출…한도최대40%"
+    "카미노,주식토큰4종담보로USDC대출…한도최대40%",
+    "전남광주특별시민형배시장\"전남광주,RE100산업수도로도약\""
    ],
    "initialized": true,
-   "last_run": "2026-10-29T02:55:22.200067+09:00"
+   "last_run": "2026-10-29T03:00:42.840288+09:00"
   }
  },
  "press_names": {
