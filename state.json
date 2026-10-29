@@ -570,14 +570,17 @@
     [
      "2026-10-30T08:45:24.564110+09:00",
      "느끼는 손에서 손으로 집는"
+    ],
+    [
+     "2026-10-30T08:50:25.806648+09:00",
+     "강화 사업 특수강 신제품 덕명"
+    ],
+    [
+     "2026-10-30T08:50:25.806648+09:00",
+     "호실적 발표 역대급 추가 주주환원책 60조원 SK하이닉스"
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1707980/?sc=Naver",
-    "https://www.newsis.com/view/NISX20261029_0003846359",
-    "https://www.thebigdata.co.kr/view.php?ud=202610291120313388d0a8833aad_23",
-    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039222",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1729669",
     "https://www.hani.co.kr/arti/economy/it/1284778.html",
     "https://it.chosun.com/news/articleView.html?idxno=2023092173067",
     "https://www.dizzotv.com/site/data/html_dir/2026/10/29/2026102980074.html",
@@ -2072,14 +2075,14 @@
     "https://www.hellot.net/news/article.html?no=115892",
     "https://www.g-enews.com/view.php?ud=202610300840087727906806b77b_1",
     "http://www.popcornnews.net/news/articleView.html?idxno=138019",
-    "https://news.tvchosun.com/site/data/html_dir/2026/10/30/2026103090069.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/10/30/2026103090069.html",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=92436",
+    "https://www.newsis.com/view/NISX20261030_0003847675",
+    "https://www.newspim.com/news/view/20261030000072",
+    "http://www.snmnews.com/news/articleView.html?idxno=576625",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=621041"
    ],
    "seen_titles": [
-    "[OpeningMarket]KOSPIOpensAbove6,000onSemiconductorRally",
-    "[컨콜]SK이노베이션\"SKIET합병,증권신고서효력발생후일정확정\"",
-    "\"100조벌었는데왜\"…삼성전자5%급락에코스피도5800선'털썩'(종합)",
-    "SKVIEW,최근1년간실수요자관심도10%상승...'조경·커뮤니티시설'...",
-    "이상일용인시장,네덜란드방문ASML과반도체협력방안논의",
     "개보위,고객센터개인정보조회통제강화…이름·전화번호마스킹권...",
     "고객이름만알아도주소조회됐던고객센터바뀐다…접근통제강화",
     "삼성배당총액2배…주당은하이닉스4배",
@@ -3574,10 +3577,15 @@
     "공학계리더초청간담회,AI시대도약위한지혜모아",
     "[김대호인물]엔비디아젠슨황\"중국여자스파이\"",
     "SK證\"삼성SDI,'비중국각형배터리'경쟁력차별화…이익성장기대\"",
-    "[아이온의AI:온]집는손에서느끼는손으로"
+    "[아이온의AI:온]집는손에서느끼는손으로",
+    "\"AI와드론으로숲을되살린다\"…SKT,안동산불피해지복원나서",
+    "AI로분석하고드론으로씨앗뿌리고…SKT,안동산불피해지복원",
+    "[모닝리포트]\"코스피,美빅테크실적엇갈림에약세전망\"",
+    "덕명,특수강신제품사업강화",
+    "[SK하이닉스]60조원추가주주환원책발표…SK하이닉스,역대급호실적..."
    ],
    "initialized": true,
-   "last_run": "2026-10-30T08:45:24.564110+09:00"
+   "last_run": "2026-10-30T08:50:25.806648+09:00"
   }
  },
  "press_names": {
