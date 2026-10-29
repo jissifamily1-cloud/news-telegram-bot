@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-30T00:45:27.372036+09:00",
-     "첨단기술 이상일 협력 용인시장 반도체 도시와 확대 네덜란드 ASML"
-    ],
-    [
-     "2026-10-30T00:45:27.372036+09:00",
-     "김영욱 전남 개최 프로축구 1일 은퇴식 11월"
-    ],
-    [
      "2026-10-30T00:50:26.534641+09:00",
      "주가 107조 기다려라 급락 벌고도 주주에게"
     ],
@@ -262,13 +254,17 @@
     [
      "2026-10-30T06:45:23.573383+09:00",
      "정부 시행 11월 수출 제한 경유 조건부 완화"
+    ],
+    [
+     "2026-10-30T06:50:25.585594+09:00",
+     "10여개 예고 진입 SK바이오팜 제네릭 세노바메이트"
+    ],
+    [
+     "2026-10-30T06:50:25.585594+09:00",
+     "회장 서울대 최태원 5일 시장경제 11월 SK그룹 특강 경제학부 AI시대"
     ]
    ],
    "seen_urls": [
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485819",
-    "https://www.econovill.com/news/articleView.html?idxno=755292",
-    "https://kpenews.com/View.aspx?No=4288117",
-    "https://www.besteleven.com/news/articleView.html?idxno=313556",
     "https://www.kgnews.co.kr/news/article.html?no=917246",
     "https://kpenews.com/View.aspx?No=4288217",
     "https://www.dailian.co.kr/news/view/1707889/?sc=Naver",
@@ -1764,13 +1760,13 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499847",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6861848_37012.html",
     "https://www.dailian.co.kr/news/view/1708353/?sc=Naver",
-    "https://www.todayenergy.kr/news/articleView.html?idxno=304875"
+    "https://www.todayenergy.kr/news/articleView.html?idxno=304875",
+    "https://www.sedaily.com/article/20108097",
+    "https://www.slist.kr/news/articleView.html?idxno=777582",
+    "https://www.medicopharma.co.kr/news/articleView.html?idxno=70112",
+    "https://www.greened.kr/news/articleView.html?idxno=353452"
    ],
    "seen_titles": [
-    "SK이노베이션,3분기영업익3.7조'역대최대'…정유·윤활유가실적견...",
-    "\"AI가면접관역할까지\"···SKAX,1800명역량평가에6시간",
-    "SK이노베이션,3Q영업익3조7043억원…역대최대실적",
-    "“고선가상선만으론한계”..K-조선,새먹거리확보총력",
     "[오피셜]'유럽파4명포함'김정수호韓U-19대표팀,판다컵26인명단...",
     "이상일용인특례시장,네덜란드ASML등과반도체협력방안논의",
     "\"석유·윤활유호실적\"..SK이노베이션,3분기최대영업익3.7조원",
@@ -3266,10 +3262,14 @@
     "알파벳하루만에시총5000억달러증발…뉴욕증시AI공포덮쳤다",
     "최고실적에도주주환원은글쎄‥주가급락",
     "TK로날아든여섯개청구서…대통령이답하라[기자수첩-정치]",
-    "정부'경유수출제한'조건부완화...11월시행"
+    "정부'경유수출제한'조건부완화...11월시행",
+    "메모리공급난이정도인줄은...PC사업부진에인텔주가급락[마켓무...",
+    "뉴욕증시,AI투자우려재점화에일제히하락...알파벳13%↓",
+    "SK바이오팜'세노바메이트',中제네릭10여개진입예고",
+    "최태원SK그룹회장,11월5일서울대경제학부특강...AI시대시장경제..."
    ],
    "initialized": true,
-   "last_run": "2026-10-30T06:45:23.573383+09:00"
+   "last_run": "2026-10-30T06:50:25.585594+09:00"
   }
  },
  "press_names": {
