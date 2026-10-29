@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-29T15:15:23.834908+09:00",
-     "상향한 방배7구역 공사비 펼쳐질까 하이엔드 수주전"
-    ],
-    [
-     "2026-10-29T15:15:23.834908+09:00",
-     "김정관 산업통상부 인사말하는 장관"
-    ],
-    [
-     "2026-10-29T15:15:23.834908+09:00",
-     "하락 통신 균형 7만6400원으로 SK텔레콤 본업과 투자"
-    ],
-    [
      "2026-10-29T15:20:24.306241+09:00",
      "경제의 무역적자 확대 역설 늘수록 투자"
     ],
@@ -1006,13 +994,17 @@
     [
      "2026-10-29T21:10:27.309351+09:00",
      "SK하이닉스 제안 적립 1조 세금 정부처럼 내년"
+    ],
+    [
+     "2026-10-29T21:15:24.947515+09:00",
+     "가능성 강조 연준 의장 연말 물가 인상"
+    ],
+    [
+     "2026-10-29T21:15:24.947515+09:00",
+     "주주환원인데 실망 삼성전자는 같은 하이닉스는 환호"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=20261029100144746923c501012_1",
-    "https://www.mt.co.kr/world/2026/10/29/2026102909425689974",
-    "https://www.edaily.co.kr/News/Read?newsId=03778566645617840&mediaCodeNo=257",
-    "https://biz.sbs.co.kr/article_hub/20000342869?division=NAVER",
     "https://biz.sbs.co.kr/article_hub/20000342916?division=NAVER",
     "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900080.html",
     "https://www.polinews.co.kr/news/articleView.html?idxno=747162",
@@ -2508,13 +2500,13 @@
     "https://www.mk.co.kr/article/12184168",
     "https://www.mk.co.kr/article/12183910",
     "https://www.businesspost.co.kr/BP?command=article_view&num=450719",
-    "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20261029&SEQUENCE=4330"
+    "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20261029&SEQUENCE=4330",
+    "https://view.asiae.co.kr/article/2026102921132781707",
+    "https://www.ddaily.co.kr/page/view/2026102921070528168",
+    "http://www.00news.co.kr/news/articleView.html?idxno=107601",
+    "https://www.peoplewatch.co.kr/article/view/ppw202610290024"
    ],
    "seen_titles": [
-    "SK하이닉스'메모리반도체장기호황'확신에해외증권가호평,HBM4성...",
-    "\"삼전·SK하닉HBM경쟁치열\"…토스증권,‘여기는,한국입니다’발간",
-    "\"SK하이닉스,AI성장주교과서…거품론잠재워\"외신호평",
-    "‘모두의AI’어떻게확산할까…11월5일국회서AI전략논의",
     "[증시타임]글로벌투자자들이한국기업을할인하는이유?",
     "\"SK하이닉스,성장주투자자상상력자극한다\"CNBC크레이머",
     "\"李믿고올라탔다풍비박산\"…올해반대매매310%폭증'5조'터졌다",
@@ -4010,10 +4002,14 @@
     "2년만에몸값3000억…‘K로봇두뇌’괴력[내일은천억클럽]",
     "코스피‘W자’반등이냐‘L자’늪이냐",
     "[10월30일자]비즈니스포스트아침의주요기사",
-    "SK하이닉스내년세금1조원..정부처럼'적립'제안"
+    "SK하이닉스내년세금1조원..정부처럼'적립'제안",
+    "SK플래닛기프티콘이용자정보유출…피해규모조사중",
+    "SK플래닛기프티콘개인정보유출…이름·전화번호에환급계좌까지",
+    "['클릭'증시]연준의장물가강조...연말인상가능성",
+    "같은주주환원인데…'하이닉스는환호,삼성전자는실망'왜?"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T21:10:27.309351+09:00"
+   "last_run": "2026-10-29T21:15:24.947515+09:00"
   }
  },
  "press_names": {
