@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-30T01:35:21.058136+09:00",
-     "직장인들아 페스타 야장 야근 가자 열린다 말고 초량"
-    ],
-    [
      "2026-10-30T01:40:30.434515+09:00",
      "네이블 공급 규모 19억2000만원 SK텔레콤에"
     ],
@@ -370,12 +366,13 @@
     [
      "2026-10-30T07:35:18.313439+09:00",
      "효과는 빠진 서울 상승 신규택지 90주째 아파트값 발표 최장기"
+    ],
+    [
+     "2026-10-30T07:40:26.850561+09:00",
+     "쿠팡 시민단체 자국 무기화 피하려 유력 통상정책 제재"
     ]
    ],
    "seen_urls": [
-    "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900140.html",
-    "https://zdnet.co.kr/view/?no=20261029111026",
-    "https://biz.heraldcorp.com/article/10918835",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5077352",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=730208",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4441877",
@@ -1872,12 +1869,12 @@
     "http://www.srtimes.kr/news/articleView.html?idxno=216267",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710981",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6861875_37012.html",
-    "https://www.ytn.co.kr/_ln/0102_202610300726345443"
+    "https://www.ytn.co.kr/_ln/0102_202610300726345443",
+    "https://view.asiae.co.kr/article/2026102915533301316",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16263049",
+    "https://www.the-today.com/news/articleView.html?idxno=92698"
    ],
    "seen_titles": [
-    "삼성전자6%가까이급락…코스피6000선무너지고5800대로",
-    "정제마진·윤활유쌍끌이…SK이노,3분기영업익3.7조'역대최대'",
-    "SKAX,AI로채용부터인재육성까지혁신…기업HR시장공략",
     "10월에만사이드카5번…코스피널뛰기에변동성지수<VKOSPI>다시급등",
     "'인사시즌임박'SKY출신CEO30%재진입,서울대,13%로하락",
     "HD한국조선해양,3분기영업익1조4472억…조선·엔진호조에37%↑",
@@ -3374,10 +3371,13 @@
     "SK,시그넷팔면서250억더넣는다…매각대금과반은'조건부'",
     "통신사과금노하우,AI와시너지..'토큰경제'공략탄력",
     "[비즈&플러스]청량리'올다무'북적‥AI로달라지는기업들",
-    "서울아파트값90주째최장기상승,'서울빠진'신규택지발표효과는..."
+    "서울아파트값90주째최장기상승,'서울빠진'신규택지발표효과는...",
+    "3분기실적절반가량기대못미쳐…영업익반도체'투톱'이끌었다",
+    "미국증시나스닥1.38%하락…알파벳12%급락에도중소형주반등",
+    "[단독]美유력시민단체\"쿠팡,자국제재피하려美통상정책무기화..."
    ],
    "initialized": true,
-   "last_run": "2026-10-30T07:35:18.313439+09:00"
+   "last_run": "2026-10-30T07:40:26.850561+09:00"
   }
  },
  "press_names": {
