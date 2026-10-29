@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-29T18:15:24.034920+09:00",
-     "SK시그넷 넘긴다 지분 SK일렉링크에 회수 2000억"
-    ],
-    [
-     "2026-10-29T18:15:24.034920+09:00",
-     "더이상 로봇까지 주기 사이클 없다 메모리 4년 데이터센터부터"
-    ],
-    [
-     "2026-10-29T18:15:24.034920+09:00",
-     "제6회 배터리 배터리업계 산업의 한자리에 주역들"
-    ],
-    [
      "2026-10-29T18:20:26.067272+09:00",
      "승선 K리그 U19 김정수호 고필관 유망주 대거 모경빈"
     ],
@@ -454,13 +442,21 @@
     [
      "2026-10-30T00:10:29.106950+09:00",
      "강원대 드래프트 핸드볼부 신인 과시 H리그 전원 지명 저력"
+    ],
+    [
+     "2026-10-30T00:15:25.668334+09:00",
+     "하락 역대 주가 삼성전자 실적에도"
+    ],
+    [
+     "2026-10-30T00:15:25.668334+09:00",
+     "의미 수급 열쇠는 1조원 외국인이 달라진다 이상 반등 삼성전자 사야"
+    ],
+    [
+     "2026-10-30T00:15:25.668334+09:00",
+     "수출기업 압박 UBS 원화 들어 강세로 실적 올해"
     ]
    ],
    "seen_urls": [
-    "https://www.e-science.co.kr/news/articleView.html?idxno=138404",
-    "http://www.yonhapnewstv.co.kr/news/MYH20261029103713akt",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3736139",
-    "https://magazine.hankyung.com/business/article/202610292849b",
     "http://www.srtimes.kr/news/articleView.html?idxno=216184",
     "https://www.sentv.co.kr/article/view/sentv202610290093",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=877496",
@@ -1956,13 +1952,13 @@
     "https://m.skyedaily.com/news_view.html?ID=313734",
     "https://m.skyedaily.com/news_view.html?ID=313710",
     "https://www.g-enews.com/view.php?ud=202610290846512291906806b77b_1",
-    "https://www.kado.net/news/articleView.html?idxno=2081568"
+    "https://www.kado.net/news/articleView.html?idxno=2081568",
+    "http://www.kjdaily.com/article.php?aid=1793286544690706276",
+    "http://www.kjdaily.com/article.php?aid=1793286720690694276",
+    "https://www.newsis.com/view/NISX20261029_0003846342",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=621019"
    ],
    "seen_titles": [
-    "제주공공미술부터시니어예능까지…기업들문화콘텐츠선보여",
-    "SKAX,AI로채용지원자실무역량평가…문제해결과정까지분석",
-    "삼전실적발표후차익매물…코스피,하락전환",
-    "코스피,장중하락전환5920선밀려…삼성전자실적발표'와르르'",
     "“배당금받는개미늘었다”",
     "신한투자증권배당수령고객143만명…2년새31%증가",
     "신한투자증권배당받은고객140만명…삼성전자·엔비디아최다",
@@ -3458,10 +3454,14 @@
     "[사설]예산국회…여야‘재정주도권’격돌전망",
     "[스카이View]이제‘투자자금확보’는명분이되지않는다",
     "[김대호진단]빅테크현금흐름(FCF)과삼전-닉스반도체주가",
-    "강원대핸드볼부H리그신인드래프트전원지명'저력과시'"
+    "강원대핸드볼부H리그신인드래프트전원지명'저력과시'",
+    "삼성전자우주가3.26%하락…외국인2천143억원순매도",
+    "삼성전자,역대최대실적에도주가4.13%하락…왜?",
+    "\"외국인이1조원이상사야의미달라진다\"…삼성전자반등열쇠는수급",
+    "[증권가리포트]\"원화강세로수출기업실적압박\"…UBS,올해들어두..."
    ],
    "initialized": true,
-   "last_run": "2026-10-30T00:10:29.106950+09:00"
+   "last_run": "2026-10-30T00:15:25.668334+09:00"
   }
  },
  "press_names": {
