@@ -986,13 +986,17 @@
     [
      "2026-10-29T09:55:26.693693+09:00",
      "신한투자증권 소식 신한금융 신한자산운용 오늘의"
+    ],
+    [
+     "2026-10-29T09:58:15.452299+09:00",
+     "신한투자증권 삼성증권 메리츠증권 대신증권"
+    ],
+    [
+     "2026-10-29T09:58:15.452299+09:00",
+     "완판 향후 불기둥 3년치 하이닉스 D램 주가 HBM"
     ]
    ],
    "seen_urls": [
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261028.99099008315",
-    "http://www.iminju.net/news/articleView.html?idxno=171565",
-    "https://www.eroun.net/news/articleView.html?idxno=93635",
-    "https://www.fnnews.com/news/202610281507251157",
     "https://www.kukinews.com/article/view/kuk202610280150",
     "https://www.smarttoday.co.kr/ko-kr/articles/113224",
     "https://www.g-enews.com/view.php?ud=202610281534095516923c501012_1",
@@ -2488,13 +2492,13 @@
     "https://www.hidomin.com/news/articleView.html?idxno=726979",
     "https://news.tf.co.kr/read/economy/2382212.htm",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499573",
-    "http://www.thevaluenews.co.kr/news/view.php?idx=202771"
+    "http://www.thevaluenews.co.kr/news/view.php?idx=202771",
+    "https://www.etnews.com/20261029000092",
+    "https://www.mt.co.kr/thebio/2026/10/29/2026102909514295940",
+    "http://www.weeklytoday.com/news/articleView.html?idxno=800095",
+    "https://www.hankyung.com/article/2026102925946"
    ],
    "seen_titles": [
-    "ETF상장'암묵적할당'하는데…거래소4년7개월만에1명보강",
-    "美기술주훈풍…'6%대폭등'6천피탈환",
-    "구미국가산단,배터리BaaS·산단AI거점으로…김정관장관\"AX는생존...",
-    "KOSPI200ClosingPriceList-4",
     "코스피6012.44마감…외국인·기관1조7766억사들였다",
     "SK하이닉스'역대급실적'에화답한증시…코스피10거래일만에6000탈...",
     "추미애경기도지사,삼성·SK에세번째행정지도…방류수수질개선촉...",
@@ -3990,10 +3994,14 @@
     "삼전·닉스동반강세에코스피상승세…코스닥은1%대하락",
     "1000대기업CEO중'SKY출신'7년만에30%대…서울대하락세",
     "스마트폰넘어PC·가전까지…온디바이스AI관련주매수온도차뚜렷",
-    "[더밸류브리핑]오늘의신한금융소식...신한투자증권·신한자산운용"
+    "[더밸류브리핑]오늘의신한금융소식...신한투자증권·신한자산운용",
+    "SK바이오사이언스,美정부지원에볼라백신개발참여",
+    "SK바이오사이언스,美지원받아분디부교에볼라백신개발나서",
+    "[증권가소식]메리츠증권ㆍ삼성증권ㆍ신한투자증권ㆍ대신증권(10.29)",
+    "\"향후3년치D램·HBM완판\"…하이닉스주가또불기둥"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T09:55:26.693693+09:00"
+   "last_run": "2026-10-29T09:58:15.452299+09:00"
   }
  },
  "press_names": {
