@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-30T00:35:21.737774+09:00",
-     "내비 인수 골드만삭스 1위 티맵모빌리티"
-    ],
-    [
-     "2026-10-30T00:35:21.737774+09:00",
-     "3분기 7조 윤활유 영업익 사업 호조 SK이노 석유 역대"
-    ],
-    [
      "2026-10-30T00:40:26.435029+09:00",
      "30분 기업 심층 선발 AI가 면접 돕는다 인재"
     ],
@@ -278,13 +270,17 @@
     [
      "2026-10-30T06:35:18.673798+09:00",
      "미디어데이 코트로 환호 금빛 H리그 아시안게임 잇는다"
+    ],
+    [
+     "2026-10-30T06:40:25.547664+09:00",
+     "노동자 노동사회연대기금 만들어야 참여하는 시대"
+    ],
+    [
+     "2026-10-30T06:40:25.547664+09:00",
+     "덮쳤다 알파벳 시총 5000억달러 만에 증발 공포 뉴욕증시 하루"
     ]
    ],
    "seen_urls": [
-    "https://www.ddaily.co.kr/page/view/2026102910493675763",
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=817475",
-    "https://www.dailian.co.kr/news/view/1707928/?sc=Naver",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=283272",
     "https://www.cnbnews.com/news/articleView.html?idxno=1021506",
     "http://www.popcornnews.net/news/articleView.html?idxno=137869",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577796381876",
@@ -1780,13 +1776,13 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499845",
     "https://www.newsis.com/view/NISX20261029_0003847042",
     "https://it.chosun.com/news/articleView.html?idxno=2023092173094",
-    "https://www.ftimes.kr/news/articleView.html?idxno=40752"
+    "https://www.ftimes.kr/news/articleView.html?idxno=40752",
+    "https://www.mt.co.kr/world/2026/10/30/2026103006361216958",
+    "https://biz.newdaily.co.kr/site/data/html/2026/10/30/2026103000007.html",
+    "https://www.labortoday.co.kr/news/articleView.html?idxno=237481",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499847"
    ],
    "seen_titles": [
-    "SK텔레콤주가,10월29일장중75,000원3.85%하락",
-    "“삼전영업익107조인데주가는5%↓”…코스피,6100돌파후5800선추...",
-    "[오늘증시]연준금리동결에도코스피뒷걸음…하루새6000선재이탈",
-    "SK이노베이션,3분기영업익3조7043억원…정유·윤활유호조",
     "[분석]삼성전자vsSK하이닉스주가…100兆주주환원정책시장의셈법",
     "SKAX,채용도AI혁신···지원자역량분석해인재확보지원",
     "세종대박기호교수,그리스아테네서'제8회DoSSA워크숍'개최…차세...",
@@ -3282,10 +3278,14 @@
     "코스피·코스닥전거래일(29일)주요공시는...메디포스트\"美종속회사...",
     "올해합산영업익640조눈앞삼전·닉스…최대210조'빅테크급'주주환...",
     "5GSA상용화예고…속도·요금뭐가달라지나",
-    "'아시안게임금빛환호코트로잇는다'2026-2027H리그미디어데이…\"경..."
+    "'아시안게임금빛환호코트로잇는다'2026-2027H리그미디어데이…\"경...",
+    "알파벳충격,또AI수익성우려부각…나스닥1.3%↓[뉴욕마감]",
+    "'알파벳쇼크'나스닥폭격…韓,또'검은금요일'공포",
+    "\"AI시대노동자참여하는'노동사회연대기금'만들어야\"",
+    "알파벳하루만에시총5000억달러증발…뉴욕증시AI공포덮쳤다"
    ],
    "initialized": true,
-   "last_run": "2026-10-30T06:35:18.673798+09:00"
+   "last_run": "2026-10-30T06:40:25.547664+09:00"
   }
  },
  "press_names": {
