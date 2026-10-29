@@ -221,8 +221,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newstnt.com/news/articleView.html?idxno=725673",
-    "https://www.edaily.co.kr/News/Read?newsId=03942566645617840&mediaCodeNo=257",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499617",
     "https://view.asiae.co.kr/article/2026102816262887770",
     "https://www.asiatime.co.kr/article/20261029500045",
@@ -1720,11 +1718,11 @@
     "https://biz.sbs.co.kr/article_hub/20000343159?division=NAVER",
     "https://www.greened.kr/news/articleView.html?idxno=353447",
     "https://www.greened.kr/news/articleView.html?idxno=353446",
-    "https://www.news1.kr/world/international-economy/6337166"
+    "https://www.news1.kr/world/international-economy/6337166",
+    "https://isplus.com/article/view/isp202610290137",
+    "https://www.news2day.co.kr/article/20261029500074"
    ],
    "seen_titles": [
-    "반도체팹4GW전력수요···함평,재생에너지특구요구",
-    "[특징주]증권사4곳,LG전자'매수'유지…AI공조·로봇성장주목",
     "김정수호,중국·일본서실전점검…U-20아시안컵준비나선다",
     "저PBR만으론부족하다…지주사주,배당·자사주소각이가른다",
     "'AI피크아웃'우려불식시킨韓반도체…내년계약도선점,600조간다",
@@ -3222,10 +3220,12 @@
     "SK플래닛기프티콘개인정보유출…이름·번호·환급계좌까지",
     "SK이노베이션,영업익3.7조'최대'…정유호황지속은불투명",
     "삼성SDI는ESS로흑자확대…SK온은수익성개선속사업전환",
-    "[뉴욕마감]구글13%폭락에나스닥1.37%↓…AI투자우려재점화"
+    "[뉴욕마감]구글13%폭락에나스닥1.37%↓…AI투자우려재점화",
+    "포항,제주전‘패밀리데이’개최…11월1일파이널라운드첫승도전",
+    "[N2모닝경제브리핑-10월30일]美증시,알파벳실적충격에일제히..."
    ],
    "initialized": true,
-   "last_run": "2026-10-30T05:55:20.648355+09:00"
+   "last_run": "2026-10-30T06:00:40.436870+09:00"
   }
  },
  "press_names": {
