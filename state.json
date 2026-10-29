@@ -1213,8 +1213,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.weeklytoday.com/news/articleView.html?idxno=800095",
-    "https://www.hankyung.com/article/2026102925946",
     "https://www.imaeil.com/page/view/2026102909355975870",
     "http://www.weeklytoday.com/news/articleView.html?idxno=800093",
     "https://www.sedaily.com/article/20107565",
@@ -2712,11 +2710,11 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=877761",
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071048",
     "https://www.news1.kr/industry/general-industry/6336956",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089063"
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089063",
+    "https://biz.sbs.co.kr/article_hub/20000342995?division=NAVER",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486256"
    ],
    "seen_titles": [
-    "SK바이오사이언스,美지원받아분디부교에볼라백신개발나서",
-    "[증권가소식]메리츠증권ㆍ삼성증권ㆍ신한투자증권ㆍ대신증권(10.29)",
     "\"향후3년치D램·HBM완판\"…하이닉스주가또불기둥",
     "SK매직,정수기위생관리요령공개…\"자가관리에전문가방문더해야...",
     "[위클리오늘]코스피6000선상승출발···환율1340원대",
@@ -4214,10 +4212,12 @@
     "전국케이블TV,가을지역축제지원총출동…기획·중계·홍보확대",
     "울산남부소방서,SK에너지정기보수사업장현장안전지도실시",
     "\"K-배터리셀사훈풍,내년소재사로…세제직접환급필요\"(종합)",
-    "포항스틸러스,제주전서반등·맞대결균형노린다"
+    "포항스틸러스,제주전서반등·맞대결균형노린다",
+    "[집중진단]“하이닉스가겨우올려놨는데”…삼성전자‘주주환원실망...",
+    "[현장]\"적자기업엔세액공제한계\"···K배터리,직접환급제도입한..."
    ],
    "initialized": true,
-   "last_run": "2026-10-29T19:20:26.460272+09:00"
+   "last_run": "2026-10-29T19:25:20.887341+09:00"
   }
  },
  "press_names": {
