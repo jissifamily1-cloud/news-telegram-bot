@@ -1293,11 +1293,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.electimes.com/news/articleView.html?idxno=374011",
-    "https://www.tokenpost.kr/news/blockchain/427844",
-    "https://www.tokenpost.kr/news/briefing/427833",
-    "https://www.sedaily.com/article/20107393",
-    "https://www.sedaily.com/article/20107389",
     "https://www.tokenpost.kr/news/ai/427823",
     "https://www.fnnews.com/news/202610281816097087",
     "https://www.fnnews.com/news/202610281816123535",
@@ -2792,14 +2787,14 @@
     "http://www.newstomato.com/ReadNews.aspx?no=1318468&inflow=N",
     "https://www.etnews.com/20261029000253",
     "https://www.yna.co.kr/view/AKR20261029108500003?input=1195m",
-    "https://news.skbroadband.com/news/articleView.html?idxno=241600"
+    "https://news.skbroadband.com/news/articleView.html?idxno=241600",
+    "https://www.newspost.kr/news/articleView.html?idxno=226823",
+    "http://www.joseilbo.com/news/news_read.php?uid=578453&class=53",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=877661",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3736339",
+    "https://www.newsis.com/view/NISX20261029_0003846470"
    ],
    "seen_titles": [
-    "외국인1.1조폭풍매수에…코스피뜀박질",
-    "경북도,구미에이차전지시험·인증거점구축...BaaS시험실증센터준...",
-    "AI로채운곳간주주에게푼다…SK하이닉스'100조환원'배경은",
-    "[통신레이더]통신3사,고객만족총력…품질평가석권부터문화행...",
-    "코스피6.63%상승…6,000선회복",
     "[운용NOW]KB자산운용·한화자산운용·하나자산운용·이지스자산운용",
     "SK하이닉스,일단합격…내일삼성은?",
     "(2026전기국가포럼)\"전기국가도약,전력망대전환과공공·민간협력...",
@@ -4294,10 +4289,15 @@
     "대기업CEO10명중3명은SKY출신…연·고대‘강세’",
     "[포토]임의철SK하이닉스솔루션AT담당부사장,'AI시대,메모리의역...",
     "산업부,원로공학인초청간담회…AI시대산업발전방향논의",
-    "[취임100일대담]이상일,\"용인시교통,여전히고통\"···철도기금'..."
+    "[취임100일대담]이상일,\"용인시교통,여전히고통\"···철도기금'...",
+    "SK매직\"정수기위생관리,필터교체부터내부점검까지챙겨야\"",
+    "HD한국조선해양,3분기영업익'선방'에도증권가목표가하향하는이유...",
+    "삼성110조vs하이닉스100조…반도체'주주환원전쟁'",
+    "박수영의원'국쫌만'300회…민원888건해결",
+    "300회맞는박수영민원행사'국쫌만…888건해결"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T13:20:26.422855+09:00"
+   "last_run": "2026-10-29T13:25:19.477146+09:00"
   }
  },
  "press_names": {
