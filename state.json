@@ -198,10 +198,13 @@
     [
      "2026-10-30T04:40:26.132762+09:00",
      "삼전 매출 실적 장기계약도 증가 3배 10개 HBM이 견인"
+    ],
+    [
+     "2026-10-30T04:45:23.923560+09:00",
+     "유럽파도 내달 판다컵 합류 열리는 중국서 출전하는"
     ]
    ],
    "seen_urls": [
-    "https://www.joongangenews.com/news/articleView.html?idxno=559433",
     "https://www.news1.kr/industry/general-industry/6336089",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=901204",
     "https://www.businesspost.co.kr/BP?command=article_view&num=450594",
@@ -1700,10 +1703,10 @@
     "https://www.mediapen.com/news/view/1133703",
     "https://www.hankookilbo.com/news/article/A2026102911560004232?did=NA",
     "https://www.hankookilbo.com/news/article/A2026102908200000322?did=NA",
-    "https://www.donga.com/news/Economy/article/all/20261030/134936047/2"
+    "https://www.donga.com/news/Economy/article/all/20261030/134936047/2",
+    "https://www.goal.com/kr/뉴스/a/blt848683965e539691"
    ],
    "seen_titles": [
-    "삼성전자,주주환원발표후4%급락…코스피5800선으로‘털썩’",
     "SK이노베이션주가,10월29일장중133,300원4.58%하락",
     "[속보]SK이노베이션,3Q영업익3.7조'역대최대'…전년比532%↑",
     "SK하이닉스연계토큰이달만2.4배폭등…\"주주권리·판매규정점검...",
@@ -3202,10 +3205,11 @@
     "[美증시특징주]구글알파벳실적쇼크에반도체급락…마이크론등메...",
     "24시간불꺼지지않는반도체생산의심장삼성전자평택사업장[박일...",
     "[테크인사이트]AI기억공간넓히는CXL…삼전닉스,메모리확장기술...",
-    "삼전실적,매출3배증가HBM이견인…10개社와장기계약도"
+    "삼전실적,매출3배증가HBM이견인…10개社와장기계약도",
+    "[오피셜]‘유럽파도합류’내달중국서열리는판다컵출전하는U-19대..."
    ],
    "initialized": true,
-   "last_run": "2026-10-30T04:40:26.132762+09:00"
+   "last_run": "2026-10-30T04:45:23.923560+09:00"
   }
  },
  "press_names": {
