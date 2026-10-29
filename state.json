@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-30T00:50:26.534641+09:00",
-     "주가 107조 기다려라 급락 벌고도 주주에게"
-    ],
-    [
      "2026-10-30T00:55:22.026498+09:00",
      "Series to Million Group14 Adds Spain for Planned Plant"
     ],
@@ -262,11 +258,17 @@
     [
      "2026-10-30T06:50:25.585594+09:00",
      "회장 서울대 최태원 5일 시장경제 11월 SK그룹 특강 경제학부 AI시대"
+    ],
+    [
+     "2026-10-30T06:55:19.228471+09:00",
+     "66만 fab 16만 거점 용인반도체클러스터 조기 주차장 가동"
+    ],
+    [
+     "2026-10-30T06:55:19.228471+09:00",
+     "나스닥 약세 반도체주도 하락 우려에 수익성"
     ]
    ],
    "seen_urls": [
-    "https://www.kgnews.co.kr/news/article.html?no=917246",
-    "https://kpenews.com/View.aspx?No=4288217",
     "https://www.dailian.co.kr/news/view/1707889/?sc=Naver",
     "https://www.newsworker.co.kr/news/articleView.html?idxno=511205",
     "https://www.ddaily.co.kr/page/view/2026102910393643737",
@@ -1764,11 +1766,11 @@
     "https://www.sedaily.com/article/20108097",
     "https://www.slist.kr/news/articleView.html?idxno=777582",
     "https://www.medicopharma.co.kr/news/articleView.html?idxno=70112",
-    "https://www.greened.kr/news/articleView.html?idxno=353452"
+    "https://www.greened.kr/news/articleView.html?idxno=353452",
+    "https://www.seoul.co.kr/news/publicnews/local_govern/2026/10/30/20261030500011?wlog_tag3=naver",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092173140"
    ],
    "seen_titles": [
-    "[오피셜]'유럽파4명포함'김정수호韓U-19대표팀,판다컵26인명단...",
-    "이상일용인특례시장,네덜란드ASML등과반도체협력방안논의",
     "\"석유·윤활유호실적\"..SK이노베이션,3분기최대영업익3.7조원",
     "AI도'토성비'경쟁…SKT·KT·LGU+,토큰효율화로AX승부",
     "[뉴스워커_SK매직]정수기필터만갈면끝?…놓치기쉬운위생관리법",
@@ -3266,10 +3268,12 @@
     "메모리공급난이정도인줄은...PC사업부진에인텔주가급락[마켓무...",
     "뉴욕증시,AI투자우려재점화에일제히하락...알파벳13%↓",
     "SK바이오팜'세노바메이트',中제네릭10여개진입예고",
-    "최태원SK그룹회장,11월5일서울대경제학부특강...AI시대시장경제..."
+    "최태원SK그룹회장,11월5일서울대경제학부특강...AI시대시장경제...",
+    "‘팹(fab)조기가동’…용인반도체클러스터거점주차장16만㎡→66만㎡",
+    "나스닥,AI수익성우려에1.4%하락…반도체주도약세"
    ],
    "initialized": true,
-   "last_run": "2026-10-30T06:50:25.585594+09:00"
+   "last_run": "2026-10-30T06:55:19.228471+09:00"
   }
  },
  "press_names": {
