@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-29T18:50:27.182537+09:00",
-     "Brief KOSPI Loses After Rally"
-    ],
-    [
-     "2026-10-29T18:50:27.182537+09:00",
-     "2000억원 채무보증 급증 전년대비 주요 대기업"
-    ],
-    [
-     "2026-10-29T18:50:27.182537+09:00",
-     "파이널 다채로운 경기 스틸야드 스틸러스 라운드 맞이 포항 이벤트"
-    ],
-    [
      "2026-10-29T19:00:40.336873+09:00",
      "주택 열것 교통 30분 출근시대 혁신 수도권"
     ],
@@ -430,11 +418,17 @@
     [
      "2026-10-30T00:50:26.534641+09:00",
      "주가 107조 기다려라 급락 벌고도 주주에게"
+    ],
+    [
+     "2026-10-30T00:55:22.026498+09:00",
+     "Series to Million Group14 Adds Spain for Planned Plant"
+    ],
+    [
+     "2026-10-30T00:55:22.026498+09:00",
+     "취업박람회서 연결 대학생부터 고교생까지 채용 지역기업 대구대"
     ]
    ],
    "seen_urls": [
-    "https://www.asiatime.co.kr/article/20261029500059",
-    "https://www.edaily.co.kr/News/Read?newsId=03903206645617840&mediaCodeNo=257",
     "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524304",
     "http://www.yonhapnewstv.co.kr/news/MYH20261029103855XZi",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485889",
@@ -1932,11 +1926,11 @@
     "https://www.tournews21.com/news/articleView.html?idxno=147052",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=877938",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822131&plink=ORI&cooper=NAVER",
-    "https://imnews.imbc.com/replay/2026/nw2500/article/6861800_36989.html"
+    "https://imnews.imbc.com/replay/2026/nw2500/article/6861800_36989.html",
+    "https://econotimes.com/Group14-Adds-150-Million-to-Series-D-for-Planned-Spain-Plant-1765986",
+    "https://www.edaily.co.kr/News/Read?newsId=01282486645618168&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "SKInnovationshiftstoblackinQ3",
-    "AI도가성비시대…토큰비용넘어성과따진다",
     "장애인방송의무편성사업자89곳지정…SKB·티캐스트등신규포함",
     "SK바이오사이언스,美지원에볼라백신사업참여…생산공정주도",
     "[뉴스초점]삼전110조·하이닉스100조…역대급주주환원",
@@ -3434,10 +3428,12 @@
     "이상일용인시장,네덜란드ASML·첨단기술도시와반도체협력확대모...",
     "프로축구전남,11월1일김영욱은퇴식개최",
     "역대급실적에도주가급락…주주환원실망감",
-    "주주에게'기다려라'?‥107조원벌고도주가급락"
+    "주주에게'기다려라'?‥107조원벌고도주가급락",
+    "Group14Adds€150MilliontoSeriesDforPlannedSpainPlant",
+    "대학생부터고교생까지…대구대취업박람회서지역기업채용연결"
    ],
    "initialized": true,
-   "last_run": "2026-10-30T00:50:26.534641+09:00"
+   "last_run": "2026-10-30T00:55:22.026498+09:00"
   }
  },
  "press_names": {
