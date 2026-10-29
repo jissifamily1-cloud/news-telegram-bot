@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-29T15:25:20.749898+09:00",
-     "CPO로 HBM 줄여야 늘려도 데이터 병목 대기 GPU 막히면"
-    ],
-    [
-     "2026-10-29T15:25:20.749898+09:00",
-     "서원대 위한 국부론 10대를 출간 교수 수업 김정진"
-    ],
-    [
-     "2026-10-29T15:25:20.749898+09:00",
-     "신용등급 순현금 바탕 넘본다 AAA 99조 SK하이닉스"
-    ],
-    [
      "2026-10-29T15:30:34.349522+09:00",
      "SK매직 SK이노베이션"
     ],
@@ -981,9 +969,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=283237",
-    "https://www.fnnews.com/news/202610290927006939",
-    "https://www.yna.co.kr/view/AKR20261029074400008?input=1195m",
     "https://www.wikitree.co.kr/articles/1170083",
     "https://view.asiae.co.kr/article/2026102910174160795",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499592",
@@ -2480,12 +2465,12 @@
     "https://www.dailysecu.com/news/articleView.html?idxno=209175",
     "https://www.ddaily.co.kr/page/view/2026102921152590554",
     "https://www.vegannews.co.kr/news/article.html?no=398113",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=877926"
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=877926",
+    "https://www.mt.co.kr/industry/2026/10/29/2026102921113150164",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=877934",
+    "https://www.newspim.com/news/view/20261029001411"
    ],
    "seen_titles": [
-    "“내주식300만가나”SK하닉기대감고조",
-    "동구바이오,침몰인가?주주환원에도'잠수함'조용준號'주담대부메랑...",
-    "삼전닉스장초반강세...폭풍질주이어진다[종목NOW]",
     "신한증권\"올1∼9월143만명배당수령…삼전주주59만명\"",
     "SK바이오사이언스,미국정부지원분디부교에볼라백신개발참여",
     "코스피,장중1%대하락전환…5900선으로",
@@ -3982,10 +3967,13 @@
     "SK플래닛기프티콘,개인정보유출정황…쿠폰일련번호·환급계좌도포...",
     "SK텔레콤,주당830원분기배당…총1768억원지급",
     "SK플래닛,기프티콘·개인정보유출정황…대상고객조사중",
-    "[동구오늘]1950년...26년'벤,허각,임한별,케이'와불금"
+    "[동구오늘]1950년...26년'벤,허각,임한별,케이'와불금",
+    "SK플래닛개인정보유출…기프티콘·환급계좌도노출",
+    "SK플래닛개인정보유출…환급계좌까지노출우려",
+    "SK플래닛,기프티콘이용자개인정보유출정황…정밀조사착수"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T21:20:32.687196+09:00"
+   "last_run": "2026-10-29T21:25:22.048124+09:00"
   }
  },
  "press_names": {
