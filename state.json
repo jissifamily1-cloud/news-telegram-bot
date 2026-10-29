@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-29T14:40:25.717307+09:00",
-     "서울북부고용센터 넘는 문턱 성신여대 시대 필승 취업 전략"
-    ],
-    [
-     "2026-10-29T14:40:25.717307+09:00",
-     "메모리로 전력 장벽은 제시 시대 SK하이닉스 해법 고효율"
-    ],
-    [
-     "2026-10-29T14:40:25.717307+09:00",
-     "776명 1630억 유치 기업 부산시 고용 3곳서 수도권 투자"
-    ],
-    [
-     "2026-10-29T14:40:25.717307+09:00",
-     "LTA 수요 HBM 삼성전자 10곳과 추가 폭발"
-    ],
-    [
      "2026-10-29T14:45:24.075264+09:00",
      "KBS 알카리이온수기 안방 알카메디 임박 모델 이지훈 문무 복귀"
     ],
@@ -1098,14 +1082,13 @@
     [
      "2026-10-29T20:35:21.365805+09:00",
      "마침표 10년 전남드래곤즈 동행 김영욱"
+    ],
+    [
+     "2026-10-29T20:40:29.317969+09:00",
+     "개인정보 피해 SK플래닛 기프티콘 조사 이용자 유출 규모"
     ]
    ],
    "seen_urls": [
-    "https://m.sports.naver.com/basketball/article/065/0000303649",
-    "http://www.popcornnews.net/news/articleView.html?idxno=137855",
-    "https://www.dailian.co.kr/news/view/1707858/?sc=Naver",
-    "https://www.ajunews.com/view/20261029100503686",
-    "http://www.4th.kr/news/articleView.html?idxno=2120647",
     "https://www.pointe.co.kr/news/articleView.html?idxno=86822",
     "https://www.sentv.co.kr/article/view/sentv202610290054",
     "https://www.news1.kr/local/gyeonggi/6335966",
@@ -2600,14 +2583,14 @@
     "https://www.newstnt.com/news/articleView.html?idxno=725860",
     "https://imnews.imbc.com/replay/2026/nwdesk/article/6861765_37004.html",
     "https://www.gnnews.co.kr/news/articleView.html?idxno=648533",
-    "http://www.kwangju.co.kr/article.php?aid=1793273100804839008"
+    "http://www.kwangju.co.kr/article.php?aid=1793273100804839008",
+    "https://zdnet.co.kr/view/?no=20261029203243",
+    "https://biz.chosun.com/it-science/ict/2026/10/29/35KE42XCHJCIDJ75ZYDTDUAISA/",
+    "https://www.kukinews.com/article/view/kuk202610290235",
+    "https://www.goodkyung.com/news/articleView.html?idxno=292931",
+    "https://www.yna.co.kr/view/AKR20261029203900017?input=1195m"
    ],
    "seen_titles": [
-    "[노현우의채권분석]모처럼나온커브신호…이번엔다를까",
-    "‘S-더비10주년’서울라이벌SK-삼성,올시즌도치열한맞대결예정",
-    "DK아시아로열파크씨티,10월주거커뮤니티브랜드평판1위...롯데건설...",
-    "6100찍고5900선추락…기관매도세에코스피하락전환[시황]",
-    "[상보]삼성전자,3분기영업익107조'사상최대'…반도체서만106조벌...",
     "SK바이오사이언스,美에볼라백신개발참여",
     "토스證,韓반도체심층리포트발간…삼성·SK차세대HBM전략조명",
     "SK렌터카,한국품질만족지수렌터카부문6년연속1위선정",
@@ -4102,10 +4085,15 @@
     "[공시]10월30일,코스피상장사47개종목자사주매수신청",
     "[심층]해킹,이제'내계좌'문턱까지?‥\"AI에사실상속수무책\"",
     "경남도\"경남전력망변압기의호남반도체전용반대\"",
-    "전남드래곤즈김영욱,10년동행마침표"
+    "전남드래곤즈김영욱,10년동행마침표",
+    "SK플래닛기프티콘,개인정보유출…이름·전화번호·환급계좌등포함",
+    "SK플래닛,기프티콘고객정보유출정황…“피해전액보상”",
+    "SK플래닛,고객이름·전화번호·쿠폰번호유출…“피해전액보상”",
+    "이강명성일하이텍대표,'제6회배터리산업의날'은탑산업훈장수여",
+    "SK플래닛기프티콘이용자개인정보유출…피해규모조사중"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T20:35:21.365805+09:00"
+   "last_run": "2026-10-29T20:40:29.317969+09:00"
   }
  },
  "press_names": {
