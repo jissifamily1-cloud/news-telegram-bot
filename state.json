@@ -850,11 +850,17 @@
     [
      "2026-10-29T22:00:45.086630+09:00",
      "기업 청년들 반도체 만났다 취업문 대구대서 두드린"
+    ],
+    [
+     "2026-10-29T22:05:20.750251+09:00",
+     "임팩트 부드러운 김재희"
+    ],
+    [
+     "2026-10-29T22:05:20.750251+09:00",
+     "400만원까지 아무말 목표가 대잔치 165만원부터 극과극"
     ]
    ],
    "seen_urls": [
-    "http://www.inews24.com/view/2020274",
-    "https://www.vegannews.co.kr/news/article.html?no=398044",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610290914071560664",
     "https://www.newsis.com/view/NISX20261029_0003846100",
     "https://www.greened.kr/news/articleView.html?idxno=353339",
@@ -2352,11 +2358,11 @@
     "https://www.ulsanpress.net/news/articleView.html?idxno=585743",
     "https://www.ulsanpress.net/news/articleView.html?idxno=585731",
     "https://www.techm.kr/news/articleView.html?idxno=156679",
-    "https://www.kukinews.com/article/view/kuk202610290247"
+    "https://www.kukinews.com/article/view/kuk202610290247",
+    "https://www.edaily.co.kr/News/Read?newsId=07835926645617840&mediaCodeNo=257",
+    "https://www.hankyung.com/article/2026102940586"
    ],
    "seen_titles": [
-    "뉴욕증시,이변없는FOMC에상승…국제유가도올라",
-    "부산시,수도권기업투자유치나서…3개사1630억원투자",
     "코스피장초반6037선…SK하이닉스3.7%상승",
     "SK바이오사이언스,美지원받아에볼라백신개발·생산나선다",
     "SK바사\"분디부교에볼라백신개발·생산참여\"",
@@ -3854,10 +3860,12 @@
     "울산시자원봉사센터-기업21곳,장애인제주탐방지원",
     "AI시대의전기기술,낡은기술아닌값오르는기술",
     "기프티콘마저털렸다...SK플래닛\"이름,전화,쿠폰번호등유출정황\"",
-    "반도체취업문두드린청년들…대구대서기업만났다"
+    "반도체취업문두드린청년들…대구대서기업만났다",
+    "[포토]김재희,부드러운임팩트",
+    "\"아무말대잔치\"…165만원부터400만원까지목표가'극과극'[분석+]"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T22:00:45.086630+09:00"
+   "last_run": "2026-10-29T22:05:20.750251+09:00"
   }
  },
  "press_names": {
