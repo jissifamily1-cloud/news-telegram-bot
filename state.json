@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-29T06:45:25.284731+09:00",
-     "뇌전증 발작 감소 절반 소아 세노바메이트 SK바이오팜"
-    ],
-    [
      "2026-10-29T06:50:27.287874+09:00",
      "이니셔티브 6일 앞두고 중간선거 배터리 조지아 발표 제조"
     ],
@@ -1370,13 +1366,13 @@
     [
      "2026-10-29T12:45:23.763457+09:00",
      "성동소방서 중심 SK텔레콤 성수사옥서 시민 소방훈련"
+    ],
+    [
+     "2026-10-29T12:50:24.925810+09:00",
+     "SK텔레콤과 네이블 19억 공급계약 규모"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2641267",
-    "https://www.thelec.kr/news/articleView.html?idxno=64469",
-    "https://www.ajunews.com/view/20261028151041661",
-    "https://www.thelec.kr/news/articleView.html?idxno=64471",
     "https://www.hankyung.com/article/2026102815041",
     "https://www.nocutnews.co.kr/news/6598759",
     "https://www.hankyung.com/article/2026102815031",
@@ -2872,13 +2868,13 @@
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005949826",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005949719",
     "http://www.popcornnews.net/news/articleView.html?idxno=137899",
-    "http://fpn119.co.kr/258533"
+    "http://fpn119.co.kr/258533",
+    "https://m.sports.naver.com/basketball/article/065/0000303655",
+    "https://www.suwonilbo.kr/view.html?id=L261029123701542a",
+    "https://www.electimes.com/news/articleView.html?idxno=374087",
+    "https://www.newstnt.com/news/articleView.html?idxno=725717"
    ],
    "seen_titles": [
-    "\"수도권에서멀수록더두텁게\"…구미에25조투입,제조업AI전환속도",
-    "솔리다임美낸드공장논의…中다롄장비반입이변수",
-    "SKT,앤트로픽지분가치상승기대감…AI협력확대모색",
-    "외국인선수부상잇따른정관장⋯리드,토마스이어무니대체",
     "산업·문화이어‘우주강국’카운트다운",
     "[어메이징SK하이닉스]60조더얹어100조주주환원…솔리다임IPO철회...",
     "[마감시황]코스피6%급등,6000선회복…공매도는1조4975억원늘어",
@@ -4374,10 +4370,14 @@
     "SKT,사번받은AI에이전트'효율'높인다…'잘쓰는AI'로전환",
     "증시오늘'핫이슈'…\"뉴욕증시,연준금리동결속상승\"",
     "\"AI반도체투자,어떤ETF담을까\"…토스증권이꼽은4가지유형은",
-    "성동소방서,SK텔레콤성수사옥서시민중심소방훈련"
+    "성동소방서,SK텔레콤성수사옥서시민중심소방훈련",
+    "귀화착실하게준비중인프레디,26일득남",
+    "용인시·벨트호벤시,반도체교류·협력손잡았다",
+    "삼성·SK하이닉스,분기영업익190조…반도체랠리다시불붙나",
+    "[특징주]네이블,SK텔레콤과19억규모공급계약"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T12:45:23.763457+09:00"
+   "last_run": "2026-10-29T12:50:24.925810+09:00"
   }
  },
  "press_names": {
