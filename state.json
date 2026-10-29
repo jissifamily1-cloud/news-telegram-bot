@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-29T06:55:20.718814+09:00",
-     "이태원참사 4주기 기억식 광화문 광장서"
-    ],
-    [
-     "2026-10-29T07:00:38.423327+09:00",
-     "에볼라 백신 9900만달러 참여 SK바이오사이언스 프로젝트"
-    ],
-    [
-     "2026-10-29T07:00:38.423327+09:00",
-     "Korean Top newspapers headlines major in"
-    ],
-    [
-     "2026-10-29T07:00:38.423327+09:00",
-     "해외법인 기술로 홍콩법인 미래에셋증권 금융사 자체 국내"
-    ],
-    [
-     "2026-10-29T07:00:38.423327+09:00",
-     "국채 동결 매파적 엇갈린 금리"
-    ],
-    [
      "2026-10-29T07:05:19.684635+09:00",
      "신호에도 위험 단일종목 레버리지 강행 수차례 끝나지 책임론 않는"
     ],
@@ -1370,14 +1350,13 @@
     [
      "2026-10-29T12:55:20.040008+09:00",
      "기다려라 197조 쌓였지만 곳간에 주주에겐 삼성전자"
+    ],
+    [
+     "2026-10-29T13:00:42.964606+09:00",
+     "대법원장 조희대 국회에 넘긴 통신사 개인정보 법적 책임은"
     ]
    ],
    "seen_urls": [
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=901168",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485623",
-    "https://imnews.imbc.com/news/2026/econo/article/6861396_36932.html",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485638",
-    "https://www.ajunews.com/view/20261028150420625",
     "https://www.cnbnews.com/news/articleView.html?idxno=1021404",
     "https://www.sidae.com/article/2026102814183939565",
     "https://www.nspna.com/news/?newsid=833603",
@@ -2872,14 +2851,14 @@
     "https://www.dt.co.kr/article/12092062",
     "https://www.newsis.com/view/NISX20261029_0003846336",
     "http://www.metroseoul.co.kr/article/20261029500307",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279849&CMPT_CD=P0010"
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279849&CMPT_CD=P0010",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553656110",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1419688",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1729675",
+    "https://byline.network/?p=9004111222625284",
+    "https://www.dailian.co.kr/news/view/1708001/?sc=Naver"
    ],
    "seen_titles": [
-    "[어메이징SK하이닉스]3분기매출104조,영업익83조'사상최대'…60조...",
-    "SK머티리얼즈,日후루카와전공과반도체소재MOU체결",
-    "AI고점론,숫자로잠재운하이닉스\"HBM수요,생산능력의2배\"",
-    "SK하닉,영억이익률80%에주당2만원배당…주가날았다[CBS뉴스룸]",
-    "곽노정의주주달래기…'솔리다임상장철회'설명",
     "외국인귀환에다시자사주방패…힘받는코스피바닥론",
     "[심층분석]성장이어가는SK하이닉스,내년에도반도체호황기는계속",
     "최태원-노소영재산분할재상고심'2라운드'…주심에김성수대법관",
@@ -4374,10 +4353,15 @@
     "DK아시아로열파크씨티,10월주거커뮤니티브랜드평판1위",
     "남자U-19축구대표팀,중국판다컵·일본SBS컵연속출전",
     "제약바이오협회,빅파마·투자자와직접딜...\"서울을바이오거래허브...",
-    "삼성전자곳간에197조쌓였지만...주주에겐'기다려라'"
+    "삼성전자곳간에197조쌓였지만...주주에겐'기다려라'",
+    "제주SK,구자철어드바이저관련보도에정면반박…\"확인되지않은추...",
+    "SK온,전기차배터리라인ESS로전환…북미추가수주추진",
+    "SK온,배터리판매감소에3분기적자전환…영업손실805억원",
+    "고객이름만입력해도주소노출…개인정보위,고객센터9개사개선권...",
+    "조희대대법원장개인정보국회에넘긴통신사…법적책임은"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T12:55:20.040008+09:00"
+   "last_run": "2026-10-29T13:00:42.964606+09:00"
   }
  },
  "press_names": {
