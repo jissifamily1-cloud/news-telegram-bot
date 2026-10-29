@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-29T06:50:27.287874+09:00",
-     "이니셔티브 6일 앞두고 중간선거 배터리 조지아 발표 제조"
-    ],
-    [
-     "2026-10-29T06:50:27.287874+09:00",
-     "30억원 주요공시는 코스피 지엔코 거래일 코스닥 제3자배정 28일"
-    ],
-    [
      "2026-10-29T06:55:20.718814+09:00",
      "이태원참사 4주기 기억식 광화문 광장서"
     ],
@@ -1370,14 +1362,17 @@
     [
      "2026-10-29T12:50:24.925810+09:00",
      "SK텔레콤과 네이블 19억 공급계약 규모"
+    ],
+    [
+     "2026-10-29T12:55:20.040008+09:00",
+     "제약바이오협회 직접 투자자와 서울을 허브 바이오거래 빅파마"
+    ],
+    [
+     "2026-10-29T12:55:20.040008+09:00",
+     "기다려라 197조 쌓였지만 곳간에 주주에겐 삼성전자"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026102815041",
-    "https://www.nocutnews.co.kr/news/6598759",
-    "https://www.hankyung.com/article/2026102815031",
-    "https://www.sedaily.com/article/20107369",
-    "https://www.goodkyung.com/news/articleView.html?idxno=292857",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=901168",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485623",
     "https://imnews.imbc.com/news/2026/econo/article/6861396_36932.html",
@@ -2872,14 +2867,14 @@
     "https://m.sports.naver.com/basketball/article/065/0000303655",
     "https://www.suwonilbo.kr/view.html?id=L261029123701542a",
     "https://www.electimes.com/news/articleView.html?idxno=374087",
-    "https://www.newstnt.com/news/articleView.html?idxno=725717"
+    "https://www.newstnt.com/news/articleView.html?idxno=725717",
+    "https://www.ekn.kr/web/view.php?key=20261029025402772",
+    "https://www.dt.co.kr/article/12092062",
+    "https://www.newsis.com/view/NISX20261029_0003846336",
+    "http://www.metroseoul.co.kr/article/20261029500307",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279849&CMPT_CD=P0010"
    ],
    "seen_titles": [
-    "산업·문화이어‘우주강국’카운트다운",
-    "[어메이징SK하이닉스]60조더얹어100조주주환원…솔리다임IPO철회...",
-    "[마감시황]코스피6%급등,6000선회복…공매도는1조4975억원늘어",
-    "SK하이닉스,역대급실적·추가주주환원까지…시장은'환호'",
-    "SKC,15분기연속적자...3분기적자폭은줄었다",
     "[어메이징SK하이닉스]3분기매출104조,영업익83조'사상최대'…60조...",
     "SK머티리얼즈,日후루카와전공과반도체소재MOU체결",
     "AI고점론,숫자로잠재운하이닉스\"HBM수요,생산능력의2배\"",
@@ -4374,10 +4369,15 @@
     "귀화착실하게준비중인프레디,26일득남",
     "용인시·벨트호벤시,반도체교류·협력손잡았다",
     "삼성·SK하이닉스,분기영업익190조…반도체랠리다시불붙나",
-    "[특징주]네이블,SK텔레콤과19억규모공급계약"
+    "[특징주]네이블,SK텔레콤과19억규모공급계약",
+    "SK이노베이션,3분기정유·윤활기유‘쌍끌이’…엔무브發고수익지속...",
+    "DK아시아로열파크씨티,10월주거커뮤니티브랜드평판1위",
+    "남자U-19축구대표팀,중국판다컵·일본SBS컵연속출전",
+    "제약바이오협회,빅파마·투자자와직접딜...\"서울을바이오거래허브...",
+    "삼성전자곳간에197조쌓였지만...주주에겐'기다려라'"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T12:50:24.925810+09:00"
+   "last_run": "2026-10-29T12:55:20.040008+09:00"
   }
  },
  "press_names": {
