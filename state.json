@@ -1158,18 +1158,21 @@
     [
      "2026-10-29T18:25:21.433543+09:00",
      "100조 돌파 영업익 삼성전자 테크기업"
+    ],
+    [
+     "2026-10-29T18:30:34.073271+09:00",
+     "5배 서학개미 급증 순매수 이달"
+    ],
+    [
+     "2026-10-29T18:30:34.073271+09:00",
+     "풀리자 3일 빗장 FOMC 4600엔 장중 랠리 돌파 6만 닛케이"
+    ],
+    [
+     "2026-10-29T18:30:34.073271+09:00",
+     "조리로봇 판매 밥솥회사가 보행보조 로봇 렌털도"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/photos/8185231",
-    "https://www.mk.co.kr/article/12189543",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499539",
-    "https://econotimes.com/Citi-Projects-35-Trillion-Won-in-SK-hynix-Fourth-Fiscal-Quarter-Shareholder-Returns-1765479",
-    "https://www.kado.net/news/articleView.html?idxno=2081301",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=324091",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=303696",
-    "https://www.cstimes.com/news/articleView.html?idxno=725775",
-    "https://www.g-enews.com/view.php?ud=2026102909210735444093b5d4e_1",
     "https://biz.sbs.co.kr/article_hub/20000342871?division=NAVER",
     "https://www.sedaily.com/article/20107547",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=303697",
@@ -2660,18 +2663,18 @@
     "https://biz.sbs.co.kr/article_hub/20000343124?division=NAVER",
     "https://www.newspim.com/news/view/20261029001349",
     "https://www.hani.co.kr/arti/opinion/column/1284880.html",
-    "https://futurechosun.com/?p=164948"
+    "https://futurechosun.com/?p=164948",
+    "https://www.hankookilbo.com/news/article/A2026102917560002960?did=NA",
+    "https://www.sedaily.com/article/20108024",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=283439",
+    "https://www.donga.com/news/Economy/article/all/20261029/134935000/1",
+    "https://www.newspim.com/news/view/20261029001334",
+    "https://www.segye.com/newsView/20261029517815?OutUrl=naver",
+    "https://www.fnnews.com/news/202610291827010616",
+    "https://www.g-enews.com/view.php?ud=202610291825213566e7e8286d56_1",
+    "https://www.fnnews.com/news/202610291824034140"
    ],
    "seen_titles": [
-    "'ACLE3연패·공식전5G무승'포항,가시마에완패",
-    "SK하이닉스,전거래일대비4.10%오른154만8000원",
-    "중동윤활기유공급차질에증권가“SK엔무브수혜예상”",
-    "SK하이닉스·삼성전자폭풍질주…AI메모리병목풀CXL기술주목을",
-    "CitiProjects35TrillionWoninSKhynixFourth-Fiscal-QuarterShare",
-    "코스피,반도체훈풍에6090선상승…코스닥은하락혼조세",
-    "SK바이오사이언스,﻿분디부교에볼라백신개발·생산협력",
-    "SKAX,1800명평가에6시간…실무능력분석하는AI채용솔루션출시",
-    "코스피,개인·외인매수에1%상승...6080선기록",
     "[특징주]SK하이닉스·SK스퀘어,호실적에주주환원확대..동반'강세'",
     "[이시각시황]코스피6천선위강세·코스닥하락…의료AI·JYP엔터·반...",
     "1800명면접을6시간만에…SKAX,AI기반역량진단솔루션출시",
@@ -4162,10 +4165,19 @@
     "통신3사,구룡마을화재이재민에통신·구호물품지원",
     "SK스퀘어,티맵모빌리티매각추진…AI·반도체중심리밸런싱속도",
     "﻿솔리다임논란,소유와지배의괴리[세상읽기]",
-    "[더나은미래경제브리핑]삼성전자테크기업최초영업익100조돌파,30..."
+    "[더나은미래경제브리핑]삼성전자테크기업최초영업익100조돌파,30...",
+    "티맵1대주주바뀐다...SK스퀘어,골드만삭스에매각추진",
+    "“HBM점유율40%육박”…LTA2배늘리고팹투자84조로확대",
+    "'AI·반도체올인'SK스퀘어,골드만삭스에'티맵모빌리티'매각추진",
+    "골드만삭스,티맵모빌리티경영권인수추진…7000억~8000억투입",
+    "부산시,수도권기업3곳과1630억투자유치협약…일자리776개창출",
+    "삼성도HBM1년치완판…고성능메모리‘초격차’달린다[뉴스투데이...",
+    "서학개미순매수이달5배급증",
+    "FOMC빗장풀리자닛케이3일랠리…장중6만4600엔돌파",
+    "밥솥회사가조리로봇판매…보행보조로봇렌털도"
    ],
    "initialized": true,
-   "last_run": "2026-10-29T18:25:21.433543+09:00"
+   "last_run": "2026-10-29T18:30:34.073271+09:00"
   }
  },
  "press_names": {
