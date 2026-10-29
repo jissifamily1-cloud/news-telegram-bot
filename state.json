@@ -190,13 +190,21 @@
     [
      "2026-10-30T03:55:19.886471+09:00",
      "증시 녹일까 삼전닉스가 꽁꽁 210조"
+    ],
+    [
+     "2026-10-30T04:35:20.320364+09:00",
+     "실적 구글 급락 알파벳 마이크론 쇼크에 반도체"
+    ],
+    [
+     "2026-10-30T04:35:20.320364+09:00",
+     "꺼지지 박일 평택사업장 24시간 않는 삼성전자 생산의 심장 반도체"
+    ],
+    [
+     "2026-10-30T04:35:20.320364+09:00",
+     "기억 넓히는 공간 메모리 확장 삼전닉스 기술 CXL"
     ]
    ],
    "seen_urls": [
-    "https://www.ekn.kr/web/view.php?key=20261029026552706",
-    "https://www.etoday.co.kr/news/view/2641618",
-    "https://www.widedaily.com/news/articleView.html?idxno=302457",
-    "https://www.safetimes.co.kr/news/articleView.html?idxno=246960",
     "https://biz.chosun.com/stock/stock_general/2026/10/29/MV6JJ42VGZAQJIGNQXLRWRKR2U/",
     "https://www.joongangenews.com/news/articleView.html?idxno=559433",
     "https://www.news1.kr/industry/general-industry/6336089",
@@ -1692,13 +1700,13 @@
     "https://www.mt.co.kr/industry/2026/10/30/2026102920012026147",
     "https://www.kyeonggi.com/article/20261029580631",
     "https://www.sentv.co.kr/article/view/sentv202610290247",
-    "https://www.mt.co.kr/stock/2026/10/30/2026102919500941273"
+    "https://www.mt.co.kr/stock/2026/10/30/2026102919500941273",
+    "https://biz.sbs.co.kr/article_hub/20000343094?division=NAVER",
+    "https://www.mediapen.com/news/view/1133703",
+    "https://www.hankookilbo.com/news/article/A2026102911560004232?did=NA",
+    "https://www.hankookilbo.com/news/article/A2026102908200000322?did=NA"
    ],
    "seen_titles": [
-    "[K리그1프리뷰]승점차'단1점'전북·대전의상위권경쟁,광주는잔...",
-    "[똑똑한소비]롯데백화점,SSG닷컴,11번가,롯데마트·슈퍼",
-    "‘대장역’중심으로계획되는부천대장…‘부천대장하우스토리디센...",
-    "삼성전자·SK하닉90조악성매물첩첩산중…\"반등때비중줄여라\"",
     "통신3사보안점검'헛점'드러났나…정부172곳추가조사",
     "삼성전자,주주환원발표후4%급락…코스피5800선으로‘털썩’",
     "SK이노베이션주가,10월29일장중133,300원4.58%하락",
@@ -3194,10 +3202,14 @@
     "삼성전자,3분기도사상최대…반도체로만106.5조벌었다",
     "[사설]秋방류수행정지도,반도체갈등풀광역행정돼야",
     "[백상]성수석이천시장,반도체·역세권·경마공원…도시판바꾼다",
-    "삼전닉스가푼210조,꽁꽁언증시녹일까"
+    "삼전닉스가푼210조,꽁꽁언증시녹일까",
+    "골드만삭스,내비1위티맵경영권인수추진",
+    "[美증시특징주]구글알파벳실적쇼크에반도체급락…마이크론등메...",
+    "24시간불꺼지지않는반도체생산의심장삼성전자평택사업장[박일...",
+    "[테크인사이트]AI기억공간넓히는CXL…삼전닉스,메모리확장기술..."
    ],
    "initialized": true,
-   "last_run": "2026-10-30T04:30:41.834874+09:00"
+   "last_run": "2026-10-30T04:35:20.320364+09:00"
   }
  },
  "press_names": {
