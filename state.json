@@ -174,10 +174,13 @@
     [
      "2026-10-31T06:15:24.588810+09:00",
      "상장 쪼개 10월 ETF 반도체 담았다 보니"
+    ],
+    [
+     "2026-10-31T06:20:25.273190+09:00",
+     "이제 취했던 월가 따진다 청구서를 열풍에"
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/economy/securities/2026/10/30/20261030500055?wlog_tag3=naver",
     "https://news.bizwatch.co.kr/article/market/2026/10/30/0006",
     "https://www.newsis.com/view/NISX20261030_0003847857",
     "https://www.ajunews.com/view/20261030093856802",
@@ -1676,10 +1679,10 @@
     "https://www.lcnews.co.kr/news/articleView.html?idxno=210609",
     "https://www.hitnews.co.kr/news/articleView.html?idxno=80383",
     "https://www.fnnews.com/news/202610301059340011",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=424710"
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=424710",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=7906"
    ],
    "seen_titles": [
-    "코스피,美빅테크실적부담에하락3%급락…삼성전자·SK하이닉스약...",
     "코스피3.8%급락5712선…SK하이닉스7%뚝",
     "삼성전자,역대급실적에도주주환원발목…목표가35만원으로낮춘IBK",
     "SK하이닉스,美빅테크공략가속…HBM주역안현사장'미주총괄'신설...",
@@ -3178,10 +3181,11 @@
     "교보증권,창립77주년맞이릴레이봉사활동전개",
     "자료제출수수료인상에중소사우려…끝장교섭앞둔삼성바이오",
     "\"실적좋다는데더버텨?\"…하루10%널뛰는삼전닉스에개미들'비명'...",
-    "'반도체'도쪼개담았다···10월상장ETF보니"
+    "'반도체'도쪼개담았다···10월상장ETF보니",
+    "[뉴욕증시마감시황]AI열풍에취했던월가,이제청구서를따진다…나..."
    ],
    "initialized": true,
-   "last_run": "2026-10-31T06:15:24.588810+09:00"
+   "last_run": "2026-10-31T06:20:25.273190+09:00"
   }
  },
  "press_names": {
