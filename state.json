@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-30T14:45:24.116484+09:00",
-     "정유 배터리 수익성 개선에 건설 IT서비스"
-    ],
-    [
-     "2026-10-30T14:45:24.116484+09:00",
-     "아마존까지 쇼크 실적 다시 흔들리는 증시 구글에"
-    ],
-    [
-     "2026-10-30T14:50:25.099249+09:00",
-     "SK그룹 LG전자 삼성전자"
-    ],
-    [
-     "2026-10-30T14:50:25.099249+09:00",
-     "전략 각자대표 교체된 새판 재무 짠다 SK이노베이션"
-    ],
-    [
-     "2026-10-30T14:50:25.099249+09:00",
-     "대책 가동 용인시 산단 삼성전자 2만대 내년 착공 SK하이닉스 주차장"
-    ],
-    [
      "2026-10-30T14:55:19.056731+09:00",
      "KODEX 약세 반영 9만235원으로 하락 대형주"
     ],
@@ -770,14 +750,17 @@
     [
      "2026-10-30T20:30:34.525177+09:00",
      "저축성보험 5조짜리 가입한 삼성생명 삼성전 한번에 일시납"
+    ],
+    [
+     "2026-10-30T20:50:25.963831+09:00",
+     "인사 윤풍영 SK하이닉스 차선용 사장급 안현 단행"
+    ],
+    [
+     "2026-10-30T20:50:25.963831+09:00",
+     "삼성전자 순매도 감소 SK하이닉스 6천억대 외국인 3조원 거래대금"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=283525",
-    "https://www.mk.co.kr/article/12191182",
-    "https://www.news1.kr/industry/general-industry/6337372",
-    "https://www.mediapen.com/news/view/1133758",
-    "https://www.newsis.com/view/NISX20261030_0003847771",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=92450",
     "https://www.joongangenews.com/news/articleView.html?idxno=559828",
     "https://www.eroun.net/news/articleView.html?idxno=93831",
@@ -2272,14 +2255,14 @@
     "https://www.vegannews.co.kr/news/article.html?no=398529",
     "https://www.moneystorm.kr/news/articleView.html?idxno=7904",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610300168&t=NN",
-    "http://www.phmbc.co.kr/www/news/desk_news?idx=205235"
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=205235",
+    "http://www.ttlnews.com/news/articleView.html?idxno=3157178",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=303896",
+    "https://kpenews.com/View.aspx?No=4291233",
+    "http://www.ttlnews.com/news/articleView.html?idxno=3157188",
+    "http://www.kjdaily.com/article.php?aid=1793360771690735276"
    ],
    "seen_titles": [
-    "[1보]코스피,장초반3%넘게폭락하며5740선무너졌다",
-    "KB금융,비은행방어력·주주환원주목…목표가21만3000원유지",
-    "SKGroupsetformeasuredleadershipreshuffle",
-    "[속보]SK수펙스추구협의회담당사장에권영수",
-    "[미르의머니무브]3년뒤AI반도체값까지보험든다…GPU가금융상품이...",
     "[속보]SK㈜,장용호대표유임…김선혁SKC전략부문장담당사장승진",
     "\"안정속쇄신\"…SK그룹,2027년사장단인사단행",
     "SK그룹,2027년사장단인사단행…장용호유임·정승일SK이노베이션C...",
@@ -3774,10 +3757,15 @@
     "미래산업SK하이닉스검사장비계약종료일12일연장",
     "[재무이슈]한번에5조짜리삼성생명일시납저축성보험가입한삼성전...",
     "“메모리가격,심각한문제”…빛바랜10월바닥론[딥시그널]",
-    "포항스틸러스,박태하감독과3년만에결별"
+    "포항스틸러스,박태하감독과3년만에결별",
+    "SK이노베이션,2027년사장단인사단행",
+    "\"올해영업이익11조원고지가시화…SK이노베이션,숫자로증명하는압...",
+    "SK그룹인사,AI·반도체기술전문가전진배치..곽노정·장용호대표...",
+    "[인사]SK하이닉스,안현·차선용·윤풍영사장급인사단행",
+    "삼성전자·SK하이닉스거래대금3조원감소…외국인6천억대순매도"
    ],
    "initialized": true,
-   "last_run": "2026-10-30T20:45:23.395915+09:00"
+   "last_run": "2026-10-30T20:50:25.963831+09:00"
   }
  },
  "press_names": {
