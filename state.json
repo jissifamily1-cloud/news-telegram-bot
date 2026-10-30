@@ -298,14 +298,21 @@
     [
      "2026-10-31T08:30:38.347934+09:00",
      "불붙인 로컬 올트먼 D램은 비효율 논쟁 PC"
+    ],
+    [
+     "2026-10-31T08:35:20.172133+09:00",
+     "전략은 KBL 삼성 돌풍 혁신 서울 김상식 9연승 개막 감독의"
+    ],
+    [
+     "2026-10-31T08:35:20.172133+09:00",
+     "파장 셈코프 공장 공급망 헝가리서 멈춘 분리막 배터리 글로벌"
+    ],
+    [
+     "2026-10-31T08:35:20.172133+09:00",
+     "정규장 삼성전자 종가보다 할인"
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1708598/?sc=Naver",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499945",
-    "https://www.news2day.co.kr/article/20261030500094",
-    "https://www.widedaily.com/news/articleView.html?idxno=302540",
-    "https://www.fnnews.com/news/202610300955392508",
     "https://www.news1.kr/it-science/cc-newmedia/6337330",
     "https://www.newspim.com/news/view/20261030000268",
     "https://www.newstopkorea.com/news/articleView.html?idxno=48623",
@@ -1800,14 +1807,14 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=878009",
     "https://www.gokorea.kr/news/articleView.html?idxno=883552",
     "https://basketkorea.com/news/newsview.php?ncode=1065622856256160",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=172787"
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=172787",
+    "https://www.joongang.co.kr/article/25474611",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=54156",
+    "https://www.gokorea.kr/news/articleView.html?idxno=883598",
+    "https://www.g-enews.com/view.php?ud=202610310827095515fbbec65dfb_1",
+    "https://www.tokenpost.kr/news/insights/430456"
    ],
    "seen_titles": [
-    "SK이노베이션새수장에정승일전산업부차관...한전사장거친에너...",
-    "[프로필]강동수SK이노베이션·SK에너지사장",
-    "감염병이슈에다시움직이는바이오株…실적수혜기업은따로있다",
-    "SK그룹2027년사장단인사…‘안정속쇄신’추구",
-    "'영업익640조시대'활짝연삼전·SK하닉…210조'매머드급'주주환원...",
     "[속보]SK하이닉스,곽노정대표유임..안현사장,미주총괄담당",
     "안동산불피해지,SKT가AI·드론으로복원…나무1만그루식재",
     "[특징주]한화에어로스페이스10%급락…실적충격에목표가줄하향",
@@ -3302,10 +3309,15 @@
     "법인예금변동성확대에…KB국민銀,조달다변화안간힘",
     "폐현수막의놀라운변신:SK케미칼과함께만드는친환경섬유시대",
     "‘악착같이성실하게’스텝업원하는광신중김시우",
-    "'로컬AI논쟁'불붙인올트먼...\"PC속D램은비효율\""
+    "'로컬AI논쟁'불붙인올트먼...\"PC속D램은비효율\"",
+    "AI투자우려에뉴욕증시일제히하락…‘실적부진’인텔28%↓",
+    "AI투자우려에뉴욕증시급락…인텔28.6%↓",
+    "서울삼성,KBL최초개막9연승돌풍…김상식감독의혁신전략은?",
+    "헝가리서멈춘셈코프분리막공장…글로벌배터리공급망'파장'",
+    "[온체인주식선물]삼성전자,정규장종가보다2.64%할인"
    ],
    "initialized": true,
-   "last_run": "2026-10-31T08:30:38.347934+09:00"
+   "last_run": "2026-10-31T08:35:20.172133+09:00"
   }
  },
  "press_names": {
