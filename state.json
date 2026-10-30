@@ -1158,11 +1158,17 @@
     [
      "2026-10-30T11:35:20.653588+09:00",
      "그랜드 진행 삼성전자 페스티벌 코리아"
+    ],
+    [
+     "2026-10-30T11:37:15.984050+09:00",
+     ""
+    ],
+    [
+     "2026-10-30T11:37:15.984050+09:00",
+     "통신자료 난색 논란에 통신업계 요구 개인정보 정치권 반복"
     ]
    ],
    "seen_urls": [
-    "http://www.econotelling.com/news/articleView.html?idxno=21532",
-    "https://biz.heraldcorp.com/article/10919548",
     "https://www.etnews.com/20261029000362",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698811",
     "https://www.joongangenews.com/news/articleView.html?idxno=559375",
@@ -2660,11 +2666,11 @@
     "https://www.esgeconomy.com/news/articleView.html?idxno=17188",
     "https://www.koreaherald.com/article/10920415",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5077883",
-    "https://news.dealsitetv.com/articles/177808"
+    "https://news.dealsitetv.com/articles/177808",
+    "https://biz.sbs.co.kr/article_hub/20000343262?division=NAVER",
+    "https://www.ngetnews.com/news/articleView.html?idxno=555344"
    ],
    "seen_titles": [
-    "\"어제는좋았는데\"…삼전,주주환원실망에4%대하락",
-    "최태원SK회장,내달5일서울대특강…AI시대경제·인재상주제",
     "SK바이오사이언스,글로벌협력으로에볼라백신생산추진[뉴스큐]",
     "'코스피6000'하루만에무너져",
     "K배터리재도약시동…정부“연내지원책마련”",
@@ -4162,10 +4168,12 @@
     "SK사장단인사에담긴뜻은…리밸런싱마무리·글로벌성장기반확충...",
     "GlobalcapitalshiftsintoKorea'smobilitysector",
     "[SK사단]최태원'한발빠른인사',에너지CEO교체…최창원체제는유지",
-    "[재계투데이]삼성전자,코리아그랜드페스티벌진행外"
+    "[재계투데이]삼성전자,코리아그랜드페스티벌진행外",
+    "[이시각주요뉴스]",
+    "정치권통신자료요구반복…개인정보논란에통신업계난색"
    ],
    "initialized": true,
-   "last_run": "2026-10-30T11:35:20.653588+09:00"
+   "last_run": "2026-10-30T11:37:15.984050+09:00"
   }
  },
  "press_names": {
