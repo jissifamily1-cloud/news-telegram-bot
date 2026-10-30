@@ -814,11 +814,13 @@
     [
      "2026-10-30T20:05:23.883998+09:00",
      "반등 저가 증시 H주 매수세 마감 선행에 홍콩"
+    ],
+    [
+     "2026-10-30T20:10:24.359525+09:00",
+     "될까 직격탄 의구심 한국 투자 증시"
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1708532/?sc=Naver",
-    "https://www.mt.co.kr/stock/2026/10/30/2026103009034790636",
     "https://news.tf.co.kr/read/economy/2382793.htm",
     "https://www.etoday.co.kr/news/view/2642096",
     "https://www.hani.co.kr/arti/economy/economy_general/1284967.html",
@@ -2316,11 +2318,11 @@
     "https://www.cnbnews.com/news/articleView.html?idxno=1021784",
     "https://zdnet.co.kr/view/?no=20261030163628",
     "https://www.ytn.co.kr/_ln/0102_202610302001333845",
-    "https://www.newsis.com/view/NISX20261030_0003849037"
+    "https://www.newsis.com/view/NISX20261030_0003849037",
+    "https://www.sportsworldi.com/newsView/20261030513861",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6862068_37004.html"
    ],
    "seen_titles": [
-    "美연준금리동결에뉴욕증시상승…기술주강세",
-    "SK그룹,사장단인사단행…장용호유임·정승일SK이노CEO내정",
     "美알파벳13%'뚝'…AI투자수익성우려에SK하닉,6%대↓",
     "진통겪는코스피,장초반4%대급락세…5700선도내줘",
     "SK그룹,‘안정속쇄신’사장단인사…동남아총괄신설",
@@ -3818,10 +3820,12 @@
     "SK텔레콤,AI활용안동산불피해지역산림복원사업세미나개최",
     "10월D램가격5.7%상승…낸드는보합전환",
     "미AI투자우려에반도체주'휘청'...코스피또급락",
-    "[올댓차이나]홍콩증시,저가매수세선행에반등마감…H주1.37%↑"
+    "[올댓차이나]홍콩증시,저가매수세선행에반등마감…H주1.37%↑",
+    "파이널A행은실패했지만…제주,주황빛미래와파이널라운드출발",
+    "\"AI투자,돈될까\"의구심‥한국증시직격탄"
    ],
    "initialized": true,
-   "last_run": "2026-10-30T20:05:23.883998+09:00"
+   "last_run": "2026-10-30T20:10:24.359525+09:00"
   }
  },
  "press_names": {
