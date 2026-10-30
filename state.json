@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-30T22:00:42.006935+09:00",
-     "영광이다 밝힌 역사의 변화 있어 주인공이 이관희가 삼성의 KBL"
-    ],
-    [
      "2026-10-30T22:05:20.329981+09:00",
      "66만 반도체클러스터 주차장 차량 확대 거점 용인 수용 2만대"
     ],
@@ -178,10 +174,13 @@
     [
      "2026-10-31T01:45:24.495235+09:00",
      "3분기 호재에 실적 났던 삼전닉스 기대감 반등 주가 반토막"
+    ],
+    [
+     "2026-10-31T04:05:19.874215+09:00",
+     "외부접점 보안체계 금융권 재설계 확대에 필요"
     ]
    ],
    "seen_urls": [
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=314281",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=280036",
     "https://www.chosun.com/economy/industry-company/2026/10/30/C6SMQEUS3BESPIGQ5JREE6CDGQ/",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=901368",
@@ -1680,10 +1679,10 @@
     "https://www.donga.com/news/Sports/article/all/20261031/134942000/2",
     "https://www.donga.com/news/People/article/all/20261030/134941723/2",
     "https://www.donga.com/news/Economy/article/all/20261030/134941582/2",
-    "https://www.donga.com/news/Economy/article/all/20261030/134941587/2"
+    "https://www.donga.com/news/Economy/article/all/20261030/134941587/2",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=324336"
    ],
    "seen_titles": [
-    "SK가스,송경열신임사장선임…\"신사업구체화\"",
     "SK하이닉스,사장급인사단행…안현미주총괄·차선용개발총괄",
     "SK㈜,김선혁신임담당사장선임…장용호대표와투톱체제",
     "‘안정속쇄신’SK,주요CEO유임…SK이노CEO에정승일",
@@ -3182,10 +3181,11 @@
     "삼성개막9연승,농구새역사",
     "SK사장단인사…이노에정승일-하닉곽노정유임,미주총괄신설",
     "신용시장까지번진‘AI거품론’…‘탄탄한본업바탕’반론도",
-    "주가반토막났던‘삼전닉스’…3분기실적호재에반등기대감"
+    "주가반토막났던‘삼전닉스’…3분기실적호재에반등기대감",
+    "[금융권AI해킹-下]외부접점확대에금융권보안체계재설계필요"
    ],
    "initialized": true,
-   "last_run": "2026-10-31T04:00:40.077749+09:00"
+   "last_run": "2026-10-31T04:05:19.874215+09:00"
   }
  },
  "press_names": {
