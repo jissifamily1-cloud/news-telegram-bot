@@ -910,18 +910,21 @@
     [
      "2026-10-30T17:05:20.621345+09:00",
      "결별 박태하 김성재 스틸러스 감독과 수석코치 끝내 포항"
+    ],
+    [
+     "2026-10-30T17:10:25.212569+09:00",
+     "삼전 구도 협상 성과급 주주의 권력 드러난 분배"
+    ],
+    [
+     "2026-10-30T17:10:25.212569+09:00",
+     "거론 2조 SKT 지분가치 몸값 뛸까 앤트로픽"
+    ],
+    [
+     "2026-10-30T17:10:25.212569+09:00",
+     "외인 밸류 이탈 부담 덜어 중장기 양대증시 매력 증권가 커졌다"
     ]
    ],
    "seen_urls": [
-    "https://www.asiatime.co.kr/article/20261029500351",
-    "https://www.thebigdata.co.kr/view.php?ud=2026102916365611180a47484cf8_23",
-    "https://biz.sbs.co.kr/article_hub/20000343173?division=NAVER",
-    "https://economist.co.kr/article/view/ecn202610260048",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499878",
-    "https://www.etoday.co.kr/news/view/2642016",
-    "https://www.newsis.com/view/NISX20261030_0003847571",
-    "https://www.ddaily.co.kr/page/view/2026102917140790450",
-    "https://www.edaily.co.kr/News/Read?newsId=03027446645618168&mediaCodeNo=257",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499880",
     "https://news.dealsitetv.com/articles/177736",
     "https://www.youthdaily.co.kr/news/article.html?no=228894",
@@ -2412,18 +2415,18 @@
     "https://www.mt.co.kr/industry/2026/10/30/2026103015323939209",
     "http://www.4th.kr/news/articleView.html?idxno=2120824",
     "https://en.yna.co.kr/view/AEN20261030012600315?input=2106m",
-    "https://www.besteleven.com/news/articleView.html?idxno=313611"
+    "https://www.besteleven.com/news/articleView.html?idxno=313611",
+    "https://www.starnewskorea.com/sports/2026/10/30/2026103016581699991",
+    "https://www.globale.co.kr/news/articleView.html?idxno=41340",
+    "https://www.thebigdata.co.kr/view.php?ud=2026103016551595770ecbf9426b_23",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=280098",
+    "https://www.thereport.co.kr/news/articleView.html?idxno=92873",
+    "https://biz.sbs.co.kr/article_hub/20000343382?division=NAVER",
+    "http://www.lkp.news/news/articleView.html?idxno=85653",
+    "https://news.mtn.co.kr/article/2026103016360311215",
+    "https://www.mt.co.kr/stock/2026/10/30/2026103016420882085"
    ],
    "seen_titles": [
-    "에기평,기후테크협력방안모색",
-    "[애프터마켓리뷰]대원제약\"P-CAB신약'파도프라잔'3상성공\"",
-    "[도시정비2026]㊦수주액늘고경쟁줄고…건설사'선택과집중'",
-    "KT,AI성장청사진구체화대비투자규모감소...내년실행력시험대",
-    "[부자들의투자노트]씨티\"위험자산에서물러설때아냐\"",
-    "대체거래소성장가로막는15%한도…규제완화시험대",
-    "테라다인5%·폼팩터11%급락…반도체검사장비에무슨일?",
-    "[오늘의투자전략]코스피하락출발전망⋯“美빅테크실적부진에변...",
-    "[오늘의증시]'알파벳충격'에뉴욕증시털썩…코스피,위기감고조",
     "배터리산업의날개최…이강명성일하이텍대표은탑산업훈장수훈",
     "AI우려에뉴욕증시하락…알파벳시총669조증발[뉴스새벽배송]",
     "머스크가경고한네오클라우드대량퇴출…국내AI반도체주영향은?",
@@ -3914,10 +3917,19 @@
     "'SEP2026'사흘간일정마무리…'만석행진'콘퍼런스뜨거운관심",
     "SK하이닉스,청주산업도로에3.3㎞숲길조성",
     "YonhapNewsSummary",
-    "[오피셜]포항스틸러스,박태하감독과끝내결별…김성재수석코치..."
+    "[오피셜]포항스틸러스,박태하감독과끝내결별…김성재수석코치...",
+    "[오피셜]'파이널A좌절'포항,박태하감독과결별...1일제주전부터...",
+    "SK하이닉스,일본소부장과공급망결속···사장단인사단행",
+    "SK하이닉스,일본서첫파트너스데이…현지소부장과협력강화",
+    "[마감시황]글로벌기술주폭락에짓눌린증시…코스피3.5%급락,5,700선...",
+    "코스피3.5%급락5700선마감",
+    "[증시인사이트]코스피급락세에장중한때매도사이드카발동",
+    "[기자수첩]삼전성과급협상통해드러난'분배권력구도'…주주의심...",
+    "앤트로픽몸값'2조'거론…SKT지분가치또뛸까",
+    "양대증시외인이탈…증권가\"밸류부담덜어중장기매력커졌다\""
    ],
    "initialized": true,
-   "last_run": "2026-10-30T17:05:20.621345+09:00"
+   "last_run": "2026-10-30T17:10:25.212569+09:00"
   }
  },
  "press_names": {
