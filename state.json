@@ -1101,13 +1101,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/society/general-society/6336881",
-    "https://www.hankyung.com/article/2026102942941",
-    "https://www.mediapen.com/news/view/1133648",
-    "https://www.dailian.co.kr/news/view/1708266/?sc=Naver",
-    "https://isplus.com/article/view/isp202610290143",
-    "https://www.nocutnews.co.kr/news/6599414",
-    "https://www.sedaily.com/article/20107935",
     "https://dealsite.co.kr/articles/171681",
     "https://www.viva100.com/article/20261029501116",
     "https://www.m-i.kr/news/articleView.html?idxno=2012163",
@@ -2600,16 +2593,16 @@
     "http://www.atstar1.com/news/articleView.html?idxno=6040169",
     "https://www.newsverse.kr/news/articleView.html?idxno=11803",
     "https://www.ajunews.com/view/20261030120646377",
-    "http://www.kjdaily.com/article.php?aid=1793332451690716276"
+    "http://www.kjdaily.com/article.php?aid=1793332451690716276",
+    "https://www.naeil.com/news/read/607025",
+    "https://www.naeil.com/news/read/606986",
+    "https://www.naeil.com/news/read/606973",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=146444",
+    "https://www.newspost.kr/news/articleView.html?idxno=226875",
+    "https://www.mediafine.co.kr/news/articleView.html?idxno=94109",
+    "https://www.cwn.kr/news/articleView.html?idxno=60595"
    ],
    "seen_titles": [
-    "SK스퀘어,골드만삭스와티맵모빌리티경영권매각협상",
-    "K배터리3사엇갈린3분기…‘ESS실적화’속도가갈랐다",
-    "골드만삭스,티맵모빌리티경영권인수나선다",
-    "최태원SK회장,다음달5일서울대특강…'AI시대경제변화와인재상...",
-    "삼성SDI,3분기매출4.6조,영업이익12분기만에최대",
-    "남자U-19축구대표팀김정수호,11월중국판다컵→12월일본SBS컵연속...",
-    "최태원·노소영재산분할2라운드…9440억감액여부쟁점은[법조계에...",
     "제주SK,구자철관련의혹에공식반박…\"감독선임개입없었다\"",
     "추가주주환원기대컸나…역대급실적에도삼전주가하락",
     "서울대학생들과마주앉는최태원…“AI시대기업이원하는인재는”",
@@ -4102,10 +4095,17 @@
     "남매의연애도,MMA2026도…11월에볼수있다",
     "젠슨황밀착'중국女스파이'사건…한국반도체까지흔드나",
     "정재헌SKTCEO유임…변화보다안정",
-    "인텔리빅스140%급등·SGA솔루션즈상한가"
+    "인텔리빅스140%급등·SGA솔루션즈상한가",
+    "SK플래닛·진에어개인정보유출",
+    "7월증시급락에ETF순자산3분기에만54조원감소",
+    "SK그룹사장단인사‘안정속쇄신’",
+    "최태원회장이꺼낸'조기인사'카드...다시강조된SK'사업구조개편...",
+    "SK하이닉스사장인사…신설미주총괄에안현개발총괄선임",
+    "SK그룹,2027년사장단인사단행…핵심CEO유임속실무형리더전진...",
+    "SK하이닉스,'미주총괄'로북미공략강화...안현사장전진배치"
    ],
    "initialized": true,
-   "last_run": "2026-10-30T13:00:40.612818+09:00"
+   "last_run": "2026-10-30T13:05:19.008588+09:00"
   }
  },
  "press_names": {
