@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-30T15:25:19.395962+09:00",
-     "AI가 애플 갑을 뒤집었다 하던 슈퍼갑질 메모리업체에"
-    ],
-    [
-     "2026-10-30T15:25:19.395962+09:00",
-     "곽동신 SK하이닉스에 한미반도체 TC본더 회장 가치 인정해 감사"
-    ],
-    [
-     "2026-10-30T15:25:19.395962+09:00",
-     "제주시 청년 취업준비 프로그램 견학 국내기업 진행"
-    ],
-    [
-     "2026-10-30T15:25:19.395962+09:00",
-     "재편과 재무 부담 49만5000원으로 포트폴리오 하락"
-    ],
-    [
      "2026-10-30T15:35:18.494070+09:00",
      "K배터리 LG엔솔 공장 지우기 전임 긴장 그림자 정부 헝가리 미국"
     ],
@@ -646,11 +630,13 @@
     [
      "2026-10-30T21:10:28.686681+09:00",
      "성장세 매출 7배 전년 둔화 CXMT 대비 급증에도 3Q"
+    ],
+    [
+     "2026-10-30T21:25:25.970897+09:00",
+     "보안주도 강세 급등 라온로보틱스 인텔리빅스"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=03371846645618168&mediaCodeNo=257",
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080743",
     "https://www.thepublic.kr/news/articleView.html?idxno=324396",
     "https://www.ppss.kr/news/articleView.html?idxno=318133",
     "https://www.joongangenews.com/news/articleView.html?idxno=559827",
@@ -2148,11 +2134,11 @@
     "https://www.news1.kr/local/gyeonggi/6338408",
     "https://www.businesspost.co.kr/BP?command=article_view&num=450840",
     "http://www.yonhapnewstv.co.kr/news/MYH20261030210518b62",
-    "https://www.sedaily.com/article/20108514"
+    "https://www.sedaily.com/article/20108514",
+    "https://www.starnewskorea.com/sports/2026/10/30/2026103021185983138",
+    "http://www.kjdaily.com/article.php?aid=1793362923690736276"
    ],
    "seen_titles": [
-    "SKT,AI·드론기술로안동산불피해지역산림복원",
-    "[속보]SK㈜,김선혁신임담당사장선임…장용호대표유임",
     "SK그룹동남아총괄신설…정승일SK이노베이션CEO내정",
     "기프티콘에환급계좌까지…SK플래닛,개인정보유출정황",
     "용인·네덜란드벨트호벤교류물꼬…반도체협력넘어도시외교로",
@@ -3650,10 +3636,12 @@
     "성수석이천시장\"SK하이닉스방류수배출규제신중접근해야\"",
     "[10월31일자]비즈니스포스트아침의주요기사",
     "美빅테크실적쇼크에…코스피3%대급락",
-    "中CXMT,3Q매출전년대비7배급증에도성장세둔화[마켓무버]"
+    "中CXMT,3Q매출전년대비7배급증에도성장세둔화[마켓무버]",
+    "[포토]서울삼성,SK에이기면또하나의신기록",
+    "인텔리빅스244%급등…라온로보틱스·보안주도강세"
    ],
    "initialized": true,
-   "last_run": "2026-10-30T21:20:27.382402+09:00"
+   "last_run": "2026-10-30T21:25:25.970897+09:00"
   }
  },
  "press_names": {
