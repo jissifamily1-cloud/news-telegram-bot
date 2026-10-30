@@ -1205,16 +1205,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.hitnews.co.kr/news/articleView.html?idxno=80348",
-    "https://www.jjan.kr/article/20261029500505",
-    "https://www.1conomynews.co.kr/news/articleView.html?idxno=51053",
-    "https://www.ajunews.com/view/20261029165046557",
-    "https://sateconomy.co.kr/news/view/1065599881938836",
-    "https://www.ntoday.co.kr/news/articleView.html?idxno=130464",
-    "https://www.sisaweek.com/news/articleView.html?idxno=238687",
-    "https://www.dailian.co.kr/news/view/1708325/?sc=Naver",
-    "https://www.thelec.kr/news/articleView.html?idxno=64554",
-    "http://www.smarttimes.co.kr/news/articleView.html?idxno=50171",
     "https://www.sedaily.com/article/20107911",
     "https://www.mediawatch.kr/news/article.html?no=261547",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=877810",
@@ -2704,19 +2694,19 @@
     "https://biz.heraldcorp.com/article/10920477",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575273739331",
     "https://www.bloter.net/news/articleView.html?idxno=677201",
-    "https://www.sedaily.com/article/20108238"
+    "https://www.sedaily.com/article/20108238",
+    "https://www.mydaily.co.kr/page/view/2026103011493455646",
+    "https://www.todayenergy.kr/news/articleView.html?idxno=304890",
+    "https://www.m-economynews.com/news/article.html?no=72331",
+    "https://www.munhwa.com/article/11627585",
+    "https://www.munhwa.com/article/11627583",
+    "https://www.ngonews.kr/news/articleView.html?idxno=241959",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=314292",
+    "https://www.sedaily.com/article/20108241",
+    "http://www.bizwnews.com/news/articleView.html?idxno=150386",
+    "https://weekly.hankooki.com/news/articleView.html?idxno=7191454"
    ],
    "seen_titles": [
-    "주주환원기대너무컸나?삼성전자4%하락,‘6000피’반납",
-    "싱가포르·말레이,글로벌반도체'조용한강자'...K반도체충돌없나",
-    "삼성전자,반도체로106조벌고스마트폰은적자…'메모리호황'의두얼...",
-    "[주식]연골재생시장노리는'로킷헬스케어'22%급등",
-    "[금요칼럼]AI시대바다의인재양성",
-    "한국생산성본부,'2026대한민국생산성·지속가능경영혁신대상'개최",
-    "엄기천배터리협회장\"적자기업엔세액공제한계...직접환급제도노력...",
-    "[증권소식]한국투자증권·삼성자산운용·토스증권",
-    "세계여성이사협회,창립10주년기념포럼개최…다양성·포용적성장논...",
-    "삼성·SK하이닉스,나란히사상최대실적…주가향방은?",
     "토스증권\"AI시대,메모리반도체호황과거와다르다\"",
     "SK온,배터리공급망경쟁력강화공로로대통령표창",
     "최태원SK회장,내달5일서울대서'AI시대경제·인재상'특강",
@@ -4206,10 +4196,20 @@
     "‘반도체안정·에너지쇄신’SK미래찾기",
     "[메가이슈토픽]\"1년새최대176조원↑\"…삼성·SK,반도체호조속주...",
     "솔리다임투자명분에도주주환원택했다…투자차익유보관행과결별",
-    "‘삼전닉스’팔고‘삼성전자우’담았다[주식초고수는지금]"
+    "‘삼전닉스’팔고‘삼성전자우’담았다[주식초고수는지금]",
+    "SK이노,전력전환수장에정승일…강동수와성장·수익성강화",
+    "SK가스,송경열'신임사장'선임",
+    "한국대미수출,미국AI투자가늠자로부상...반도체비중28%로급증",
+    "코스피,장초반‘매도사이드카’…미국빅테크급락‘불똥’",
+    "‘안정속쇄신’꾀한SK…‘하닉’곽노정유임,‘이노’정승일발...",
+    "SK하이닉스,사장인사단행···\"글로벌,미래기술경쟁력강화\"",
+    "코스피5600선위협…매도사이드카발동",
+    "‘최창원측근’윤풍영,SK하이닉스재무·전략이끈다",
+    "이상일용인시장,\"ASML도시와교류넓힌다\"…대사관에지원요청",
+    "SK그룹,내년도사장단인사…변화보다'안정'무게"
    ],
    "initialized": true,
-   "last_run": "2026-10-30T11:50:25.460256+09:00"
+   "last_run": "2026-10-30T11:55:20.612793+09:00"
   }
  },
  "press_names": {
