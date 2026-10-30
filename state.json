@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-30T13:30:33.292488+09:00",
-     "수요 전방산업 양극화 털썩 오름세 정체에 석유화학주 수급 LG화학"
-    ],
-    [
      "2026-10-30T13:35:18.435744+09:00",
      "뉴스현장 10월 30일"
     ],
@@ -882,12 +878,17 @@
     [
      "2026-10-30T19:25:20.546550+09:00",
      "잇따라 SK플래닛 지마켓까지 사고 상품권 기프티엘 도용"
+    ],
+    [
+     "2026-10-30T19:30:34.883478+09:00",
+     "배당한다 삼성전자 4601원 분기영익 주당 시대 100조"
+    ],
+    [
+     "2026-10-30T19:30:34.883478+09:00",
+     "매출 키옥시아 3분기 2조5000억엔 전망 증가 전분기보다"
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/stock/stock_general/2026/10/30/PXIZW46HMBGIZKSCFG4DQMF6UU/",
-    "http://www.worktoday.co.kr/news/articleView.html?idxno=91198",
-    "https://www.viva100.com/article/20261030500109",
     "https://www.etoday.co.kr/news/view/2642087",
     "https://www.namdonews.com/news/articleView.html?idxno=927728",
     "https://www.newsis.com/view/NISX20261030_0003847714",
@@ -2384,12 +2385,12 @@
     "https://www.jemin.com/news/articleView.html?idxno=845791",
     "https://www.edaily.co.kr/News/Read?newsId=05936806645618168&mediaCodeNo=257",
     "https://sports.khan.co.kr/article/202610301914003?pt=nv",
-    "https://www.consumuch.com/news/articleView.html?idxno=79442"
+    "https://www.consumuch.com/news/articleView.html?idxno=79442",
+    "https://www.newsworker.co.kr/news/articleView.html?idxno=511561",
+    "https://www.munhwa.com/article/11627679",
+    "https://www.tokenpost.kr/news/market/430102"
    ],
    "seen_titles": [
-    "알파벳12.64%급락·시총670조원증발…AI투자,미국3분기성장3.4%...",
-    "국민성장펀드태양광발전소·반도체밸류체인투자…총1조규모사업",
-    "코스피,美AI투자우려에3%급락출발…5700선후퇴",
     "SKT,AI·드론으로안동산불피해지복원…산림관리디지털화추진",
     "[통신업계소식]SKT,AI로안동산불피해지복원에새해법모색外",
     "美기술주충격에코스피5800선하회…SK하이닉스5%대하락",
@@ -3886,10 +3887,13 @@
     "포항스틸러스,박태하감독과결별…파이널A진출좌절속시즌막판...",
     "키옥시아홀딩스,기대못미치는전망에…삼전·하닉주가낙폭확대",
     "박태하시대의종언…포항스틸러스와계약해지",
-    "기프티엘·SK플래닛·지마켓까지…'상품권도용사고'잇따라"
+    "기프티엘·SK플래닛·지마켓까지…'상품권도용사고'잇따라",
+    "충남도,202조원규모첨단산업투자유치이행위한광속행정가동",
+    "‘분기영익100조시대’삼성전자,주당4601원배당한다",
+    "키옥시아3분기매출2조5000억엔전망…전분기보다0.8%증가"
    ],
    "initialized": true,
-   "last_run": "2026-10-30T19:25:20.546550+09:00"
+   "last_run": "2026-10-30T19:30:34.883478+09:00"
   }
  },
  "press_names": {
