@@ -913,8 +913,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202610300857103531906806b77b_1",
-    "http://www.popcornnews.net/news/articleView.html?idxno=138027",
     "https://www.gukjenews.com/news/articleView.html?idxno=3737208",
     "https://www.joongangenews.com/news/articleView.html?idxno=559775",
     "https://news.jtbc.co.kr/article/NB12325565?influxDiv=NAVER",
@@ -2412,11 +2410,11 @@
     "https://www.businesspost.co.kr/BP?command=article_view&num=450826",
     "https://www.hankookilbo.com/news/article/A2026103014450000228?did=NA",
     "https://www.yna.co.kr/view/AKR20261030156400011?input=1195m",
-    "https://www.munhwa.com/article/11627667"
+    "https://www.munhwa.com/article/11627667",
+    "https://www.g-enews.com/view.php?ud=2026103018195384583084322ec9_1",
+    "http://www.sisanews24.co.kr/19781"
    ],
    "seen_titles": [
-    "SK텔레콤안동산불피해지역복원활동오픈세미나",
-    "산불로탄안동숲에나무1만그루...SKT,급경사지엔AI·드론투입",
     "[긴급진단]반도체슈퍼랠리\"이상신호\"...구글-인텔-아마존대체무슨...",
     "KT엠모바일,10월알뜰폰브랜드평판1위...프리티·SK세븐모바일순",
     "이상일용인시장\"한국-네덜란드교류·협력,적극추진할것\"",
@@ -3914,10 +3912,12 @@
     "[이주의ETF]하나자산운용'1Q미국메디컬AI'10%대올라상승률1위,S...",
     "'큰손'美빅테크현금흐름악화에불똥튈라…삼전닉스‧네이버영향은",
     "[연합뉴스이시각헤드라인]-18:00",
-    "“레버리지ETF손해본분들있어…송구합니다”하준경정책실장사과"
+    "“레버리지ETF손해본분들있어…송구합니다”하준경정책실장사과",
+    "D램은최고가,낸드는상승제동…메모리가격흐름엇갈려",
+    "충남도,202조원투자계획이행점검…‘광속행정’속도"
    ],
    "initialized": true,
-   "last_run": "2026-10-30T18:20:26.001039+09:00"
+   "last_run": "2026-10-30T18:25:19.880994+09:00"
   }
  },
  "press_names": {
