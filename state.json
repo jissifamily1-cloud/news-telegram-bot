@@ -310,10 +310,13 @@
     [
      "2026-10-31T08:35:20.172133+09:00",
      "정규장 삼성전자 종가보다 할인"
+    ],
+    [
+     "2026-10-31T08:40:24.400896+09:00",
+     "프로 아이폰 갑질하다 맥북 이유 따로 있다 듀오 협력사 가격폭등"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/it-science/cc-newmedia/6337330",
     "https://www.newspim.com/news/view/20261030000268",
     "https://www.newstopkorea.com/news/articleView.html?idxno=48623",
     "https://www.topstarnews.net/news/articleView.html?idxno=16263249",
@@ -1812,10 +1815,10 @@
     "https://www.koreareport.co.kr/news/articleView.html?idxno=54156",
     "https://www.gokorea.kr/news/articleView.html?idxno=883598",
     "https://www.g-enews.com/view.php?ud=202610310827095515fbbec65dfb_1",
-    "https://www.tokenpost.kr/news/insights/430456"
+    "https://www.tokenpost.kr/news/insights/430456",
+    "https://www.ddaily.co.kr/page/view/2026103108342072112"
    ],
    "seen_titles": [
-    "[속보]SK하이닉스,곽노정대표유임..안현사장,미주총괄담당",
     "안동산불피해지,SKT가AI·드론으로복원…나무1만그루식재",
     "[특징주]한화에어로스페이스10%급락…실적충격에목표가줄하향",
     "'안정의장용호·쇄신의정승일'…SK,리밸런싱완수할승진·발탁단행",
@@ -3314,10 +3317,11 @@
     "AI투자우려에뉴욕증시급락…인텔28.6%↓",
     "서울삼성,KBL최초개막9연승돌풍…김상식감독의혁신전략은?",
     "헝가리서멈춘셈코프분리막공장…글로벌배터리공급망'파장'",
-    "[온체인주식선물]삼성전자,정규장종가보다2.64%할인"
+    "[온체인주식선물]삼성전자,정규장종가보다2.64%할인",
+    "'아이폰듀오·맥북프로'가격폭등이유따로있다…갑질하다협력사..."
    ],
    "initialized": true,
-   "last_run": "2026-10-31T08:35:20.172133+09:00"
+   "last_run": "2026-10-31T08:40:24.400896+09:00"
   }
  },
  "press_names": {
