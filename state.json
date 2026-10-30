@@ -593,9 +593,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699573",
-    "https://magazine.hankyung.com/business/article/202610305286b",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=280029",
     "https://www.ajunews.com/view/20261030091051698",
     "http://www.press9.kr/news/articleView.html?idxno=85246",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1729795",
@@ -2092,12 +2089,12 @@
     "http://www.rookie.co.kr/news/articleView.html?idxno=129326",
     "https://sports.khan.co.kr/article/202610302142003?pt=nv",
     "https://isplus.com/article/view/isp202610300114",
-    "https://vop.co.kr/A00001697405.html"
+    "https://vop.co.kr/A00001697405.html",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553661204",
+    "https://sports.hankooki.com/news/articleView.html?idxno=6942621",
+    "https://basketkorea.com/news/newsview.php?ncode=1065617144129031"
    ],
    "seen_titles": [
-    "[부산브리핑모음(10월30일)]부산,수도권기업투자1630억원유치…...",
-    "코스피급락출발…한때5,700선도깨져",
-    "[속보]SK그룹사장단인사…'한전출신'정승일SK이노신임CEO내정",
     "SK그룹,2027년사장단인사단행",
     "SK그룹,2027년사장단인사...'안정속쇄신'추진",
     "SKT,AI·드론으로안동산불피해지복원…급경사지에도씨앗뿌린다",
@@ -3594,10 +3591,13 @@
     "'역대최초9연승대기록'삼성김상식감독\"상상도못했다\"",
     "“재료는같은데주방장만바뀌었다”…이관희가꼽은삼성9연승비결",
     "[IS승장]‘최초개막9연승’김상식삼성감독“상상도못해…우리...",
-    "SK브로드밴드,LS마린솔루션과‘해저케이블안정운용’업무협약"
+    "SK브로드밴드,LS마린솔루션과‘해저케이블안정운용’업무협약",
+    "\"삼성만의모션오펜스덕분\"개막후9연승,새로운역사쓴김상식삼...",
+    "'프로농구역대개막최다9연승'삼성김상식\"기록세울줄누가알았...",
+    "[승리뷰]상식매직은어디까지?‘개막9연승+1라운드전승’김상식..."
    ],
    "initialized": true,
-   "last_run": "2026-10-30T21:45:24.995469+09:00"
+   "last_run": "2026-10-30T21:50:25.232886+09:00"
   }
  },
  "press_names": {
