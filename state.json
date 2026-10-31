@@ -253,8 +253,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.dealsitetv.com/articles/177779",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=450751",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5077855",
     "https://www.epnc.co.kr/news/articleView.html?idxno=409009",
     "https://www.joongangenews.com/news/articleView.html?idxno=559862",
@@ -1752,11 +1750,11 @@
     "https://www.m-economynews.com/news/article.html?no=72371",
     "https://www.pointe.co.kr/news/articleView.html?idxno=86948",
     "https://www.fnnews.com/news/202610311548258059",
-    "https://www.pressian.com/pages/articles/2026103114415578091"
+    "https://www.pressian.com/pages/articles/2026103114415578091",
+    "http://www.osen.co.kr/article/G1112901890",
+    "https://www.hankyung.com/article/2026103175837"
    ],
    "seen_titles": [
-    "[중화학노트]삼성SDI,‘배터리의날’국무총리표창外",
-    "SK하이닉스안현개발총괄사장미주총괄이끈다,차선용개발총괄보임",
     "[SK사장단]SK하이닉스,윤풍영'합류'…안현'미주총괄'·차선용'개발...",
     "SK온,3분기영업손실805억원…전기차배터리판매감소에적자전환",
     "SK하이닉스주가,10월30일장중1,394,000원8.65%하락",
@@ -3254,10 +3252,12 @@
     "최태원SK회장,샘올트먼과오찬회동...HBM·AI데이터센터협력강화",
     "최태원,올트먼만나AI동맹다졌다…내달서울대서미래비전특강",
     "최태원회장,샘올트먼과오찬회동…SK하이닉스·SKT임원동석",
-    "포항스틸러스,박태하감독과결별…김성재대행체제로반등모색"
+    "포항스틸러스,박태하감독과결별…김성재대행체제로반등모색",
+    "'위기마다나타난국대GK'송범근전북,대전의파상공세막아냈다...이...",
+    "최태원,SK하닉·텔레콤수뇌부이끌고샘올트먼과오찬회동"
    ],
    "initialized": true,
-   "last_run": "2026-10-31T15:55:19.896362+09:00"
+   "last_run": "2026-10-31T16:00:38.008297+09:00"
   }
  },
  "press_names": {
