@@ -174,10 +174,13 @@
     [
      "2026-11-01T00:20:25.402754+09:00",
      "모으고 지갑에 네이버 입장하고 디지털 멤버십을 얼굴로 스탬프 오프"
+    ],
+    [
+     "2026-11-01T00:30:39.780656+09:00",
+     "막판 하락 이틀 주가 상승 삼성전기"
     ]
    ],
    "seen_urls": [
-    "https://www.thelec.kr/news/articleView.html?idxno=64592",
     "https://www.yna.co.kr/view/AKR20261030048452003?input=1195m",
     "https://www.cnbizm.com/news/articleView.html?idxno=319827",
     "https://www.thereport.co.kr/news/articleView.html?idxno=92849",
@@ -1676,10 +1679,10 @@
     "http://www.kjdaily.com/article.php?aid=1793459479690752276",
     "https://www.dt.co.kr/article/12092332",
     "https://m.sports.naver.com/basketball/article/065/0000303776",
-    "https://byline.network/?p=9004111222625575"
+    "https://byline.network/?p=9004111222625575",
+    "http://www.kjdaily.com/article.php?aid=1793460417690760276"
    ],
    "seen_titles": [
-    "11월LPG수입가격평균45달러/톤인상",
     "한미반도체,3분기실적전년보다늘었지만,전분기대비역성장",
     "반도체유임·에너지쇄신…SK그룹사장단인사(종합)",
     "SK디스커버리,윤병석사장선임…미래성장사업발굴속도",
@@ -3178,10 +3181,11 @@
     "멜콘·샌즈랩·라온시큐어손바뀜활발…신규상장주회전율폭증",
     "[증시전망대]반등했지만못걷어낸AI불안…美중간선거에쏠린눈",
     "[뒷북STAT]‘팀최초10연승도전’삼성,10년만에최단경기전구단...",
-    "얼굴로입장하고디지털지갑에스탬프모으고…네이버,멤버십을오프..."
+    "얼굴로입장하고디지털지갑에스탬프모으고…네이버,멤버십을오프...",
+    "삼성전기주가6.60%상승…막판이틀8%대하락"
    ],
    "initialized": true,
-   "last_run": "2026-11-01T00:25:17.933961+09:00"
+   "last_run": "2026-11-01T00:30:39.780656+09:00"
   }
  },
  "press_names": {
