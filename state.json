@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-31T10:40:23.308765+09:00",
-     "상승세 꺾이며 주가 하락 주간 SK스퀘어"
-    ],
-    [
-     "2026-10-31T10:40:23.308765+09:00",
-     "회복 시계 셀은 배터리 소재는 더딘 엇갈린 반등하는데"
-    ],
-    [
-     "2026-10-31T10:40:23.308765+09:00",
-     "한반도에 영향은 미칠 중간선거 3일 미국"
-    ],
-    [
      "2026-10-31T11:00:38.570588+09:00",
      "불러주세요 반도체 연동 한화비전 보안 업황 반등한"
     ],
@@ -217,9 +205,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20261030101057980",
-    "https://www.dongascience.com/news/view/80618",
-    "http://www.press9.kr/news/articleView.html?idxno=85269",
     "http://www.newsfc.co.kr/news/articleView.html?idxno=82102",
     "https://www.mediawatch.kr/news/article.html?no=261554",
     "https://www.sportsseoul.com/news/read/1645416",
@@ -1716,12 +1701,12 @@
     "https://www.news1.kr/industry/general-industry/6338659",
     "http://www.yonhapnewstv.co.kr/news/AKR20261031162919J0d",
     "https://biz.chosun.com/stock/analysis-prospect/2026/10/31/HVND64KQCJBYTDHERU3XCTG66M/",
-    "https://www.greened.kr/news/articleView.html?idxno=353554"
+    "https://www.greened.kr/news/articleView.html?idxno=353554",
+    "https://www.businessplus.kr/news/articleView.html?idxno=119054",
+    "https://www.dailian.co.kr/news/view/1709059/?sc=Naver",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610310028&t=NN"
    ],
    "seen_titles": [
-    "최창원리드리밸런싱막바지...SK,'재무·성장'두축에힘",
-    "[씨즈더퓨처]도시에태양하나가더…데이터센터가내뿜는열기의실...",
-    "[김보관의디스]KB증권노조가금융지주로몰려가집회여는까닭은?",
     "진에어,외부해킹공격에회원1454명정보유출공지",
     "코스피5%대급락에도한미약품6.56%급등…6346억기술수출·비만약...",
     "‘레전드이만수와함께’KBO유망주아카데미,‘포수캠프’개최…...",
@@ -3218,10 +3203,13 @@
     "'챗GPT'올트먼,삼성·SK와잇단회동…반도체·AIDC협력모색(종합)",
     "최태원SK그룹회장,올트먼과다시만났다…AI협력주목",
     "코스피가‘AI거품론’에휘청인이유는…‘가격호황’의그늘",
-    "美반도체7.2%급락·SOXL25%폭락…외국인1.6조매도한삼성·하이닉스..."
+    "美반도체7.2%급락·SOXL25%폭락…외국인1.6조매도한삼성·하이닉스...",
+    "[마켓+]샘올트먼오픈AICEO방한에삼성·SK연쇄회동…AI협력인프...",
+    "SK최태원회장,샘올트먼과석달만에다시만났다…서울서오찬회...",
+    "최태원,샘올트먼과오찬회동…AI·HBM협력논의"
    ],
    "initialized": true,
-   "last_run": "2026-10-31T16:35:19.238659+09:00"
+   "last_run": "2026-10-31T16:40:24.200964+09:00"
   }
  },
  "press_names": {
