@@ -469,14 +469,6 @@
     ]
    ],
    "seen_urls": [
-    "https://zdnet.co.kr/view/?no=20261030100653",
-    "https://www.womentimes.co.kr/news/articleView.html?idxno=107451",
-    "https://www.sedaily.com/article/20108185",
-    "https://news.tf.co.kr/read/economy/2382832.htm",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=280047",
-    "http://www.seouleconews.com/news/articleView.html?idxno=94686",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486415",
-    "https://www.yna.co.kr/view/AKR20261030052200061?input=1195m",
     "https://www.newsinside.kr/news/articleView.html?idxno=5036553",
     "https://www.wikileaks-kr.org/news/articleView.html?idxno=193965",
     "https://www.mk.co.kr/article/12191264",
@@ -1968,17 +1960,17 @@
     "https://www.sportsseoul.com/news/read/1645683",
     "https://www.topstarnews.net/news/articleView.html?idxno=16264484",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=424699",
-    "https://www.ytn.co.kr/_ln/0104_202610311031582939"
+    "https://www.ytn.co.kr/_ln/0104_202610311031582939",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553661746",
+    "https://www.xportsnews.com/article/2213762",
+    "https://www.hani.co.kr/arti/economy/finance/1285125.html",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=878351",
+    "https://www.etoday.co.kr/news/view/2642526",
+    "https://www.slist.kr/news/articleView.html?idxno=777953",
+    "https://www.chosun.com/economy/industry-company/2026/10/31/53CDYV5NJRARTJW6VSKHBPJI3I/",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280343&CMPT_CD=P0010"
    ],
    "seen_titles": [
-    "최창원에리밸런싱맡기고SK하이닉스는美공략…최태원의다음승부수",
-    "장용호는전략·김선혁은실행…SK,핵심사업성장체제구축",
-    "SK그룹,'안정속쇄신'기조2027년사장단인사단행",
-    "안현은미국,차선용은개발,윤풍영은전략…SK하이닉스사장단새진...",
-    "SK㈜,김선혁담당사장선임…장용호대표와'투톱구축'",
-    "빅데이터로본정수기시장…코웨이,혁신기술로브랜드평판1위",
-    "코스피,美기술주삭풍에3%대↓5,600선…삼전닉스3~6%하락",
-    "반도체이어미술관까지…이상일용인시장,네덜란드협력행보",
     "용인반도체국가산단착공…주차장·숙소대책마련에착수",
     "SK,'안정속쇄신'…정승일에너지·안현美AI메모리전진배치",
     "SK그룹,'경영안정'으로'실무형리더'전진배치…주요계열사CEO유임...",
@@ -3470,10 +3462,18 @@
     "이상일용인시장,伊피렌체서대학생교류등모색",
     "SK스퀘어주가주간상승세꺾이며8%대하락",
     "배터리셀은반등하는데소재는더딘회복···엇갈린회복시계",
-    "미국중간선거D-3일...한반도에미칠영향은?"
+    "미국중간선거D-3일...한반도에미칠영향은?",
+    "[오피셜]깜짝발표!\"KBO리그최초\"NC,외야코디네이터로김강민선임...",
+    "[오피셜]NC깜짝영입!'23년SSG맨'김강민외야코디네이터계약…\"수...",
+    "AI에덜쓴애플이웃었다…엔비디아끌어내리고시총1위탈환",
+    "기술주에흔들린뉴욕증시'급락'",
+    "NC,'짐승'김강민영입⋯KBO최초'외야코디네이터'란?",
+    "김광민,NC외야코디네이터발탁…KBO리그최초",
+    "인텔,52년만의최악폭락...뉴욕증시도털썩",
+    "KBL개막최다연승새역사쓴삼성,그뒤를받친'베테랑'이관희"
    ],
    "initialized": true,
-   "last_run": "2026-10-31T10:40:23.308765+09:00"
+   "last_run": "2026-10-31T10:45:23.373873+09:00"
   }
  },
  "press_names": {
