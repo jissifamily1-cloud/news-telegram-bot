@@ -257,12 +257,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=210567",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=235491",
-    "https://www.newsway.co.kr/news/view?ud=2026103010204997165",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=283586",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=450742",
-    "https://www.etnews.com/20261030000112",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=283571",
     "https://www.g-enews.com/view.php?ud=202610301021234890923c501012_1",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=283514",
@@ -1756,15 +1750,15 @@
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486866",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1729961",
     "https://www.edaily.co.kr/News/Read?newsId=02469846645618496&mediaCodeNo=257",
-    "https://www.lawissue.co.kr/view.php?ud=2026103115400921099817d053b9_12"
+    "https://www.lawissue.co.kr/view.php?ud=2026103115400921099817d053b9_12",
+    "https://biz.chosun.com/industry/company/2026/10/31/ZJHHIZ2RMVDDDNXASNPFSKLWWQ/",
+    "https://www.etoday.co.kr/news/view/2642541",
+    "https://news.jtbc.co.kr/article/NB12325825?influxDiv=NAVER",
+    "https://www.kado.net/news/articleView.html?idxno=2081697",
+    "https://www.ajunews.com/view/20261031154058004",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610310025&t=NN"
    ],
    "seen_titles": [
-    "SK텔레콤,안동산불피해복원에AI·드론활용…1만그루식재",
-    "[오늘의증시]10월30일코스피5,636선급락…코스닥도3%대하락",
-    "SK㈜,장용호체제유지…김선혁사장합류로수익성강화'속도'",
-    "[상생경영]SKT,안동산불피해지복원노력'결실'",
-    "코스피'알파벳충격'에장중3%대내려5700선'매도사이드카',코스닥...",
-    "한미반도체,3분기매출1810억원·영업이익908억원",
     "[인사]'안정속쇄신'택한SK그룹…AI에너지미래거점전면재편",
     "코스피,5%급락에'매도사이드카'…5700선붕괴",
     "[골드만+티맵쓰나미]글로벌IB,자율주행시대'데이터'군침...'쏘카질...",
@@ -3258,10 +3252,16 @@
     "이상일용인시장,이탈리아피렌체와자매결연·대학생교류협의",
     "최태원,샘올트먼과오찬…HBM·AI데이터센터협력주목",
     "최태원,올트먼과오찬회동…HBM·AI데이터센터협력논의주목",
-    "최태원SK회장,방한한올트먼과오찬…HBM·데이터센터협력논의가능..."
+    "최태원SK회장,방한한올트먼과오찬…HBM·데이터센터협력논의가능...",
+    "최태원SK그룹회장,샘올트먼과오찬회동…AI협력논의",
+    "최태원,방한올트먼과오찬…SK하이닉스·SKT임원동석",
+    "AI투자수익성우려에뉴욕증시급락…인텔29%폭락",
+    "최태원,샘올트먼과오찬회동…SK·오픈AIAI협력논의주목",
+    "최태원,방한올트먼과오찬…HBM·AI데이터센터협력논의주목",
+    "한국온샘올트먼,최태원SK그룹회장과오찬회동"
    ],
    "initialized": true,
-   "last_run": "2026-10-31T15:45:32.906976+09:00"
+   "last_run": "2026-10-31T15:50:23.372734+09:00"
   }
  },
  "press_names": {
