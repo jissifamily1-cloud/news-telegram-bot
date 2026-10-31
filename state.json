@@ -301,7 +301,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5077833",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1729825",
     "https://www.asiatime.co.kr/article/20261030500133",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4442153",
@@ -1800,10 +1799,10 @@
     "http://www.4th.kr/news/articleView.html?idxno=2120857",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00011&news_seq_no=5228228",
     "https://www.thescoop.co.kr/news/articleView.html?idxno=312103",
-    "https://www.yna.co.kr/view/AKR20261031031700007?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261031031700007?input=1195m",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=901521"
    ],
    "seen_titles": [
-    "코스피4%대급락…매도사이드카발동",
     "[SK사장단]SK이노,'정승일'총괄사장에'강동수'신임사장체제구축",
     "SK하이닉스,AI메모리리더십강화…안현美현지조직이끈다",
     "SK하이닉스,성과급시기맞춰예담CP조단위자금집행",
@@ -3302,10 +3301,11 @@
     "삼성전자,최고실적에도주가급락…이재용증여세때문?",
     "NC다이노스,김강민'외야코디네이터'영입…KBO리그최초",
     "3분기1.0%성장속소비감소…'반도체골든타임'에구조개혁해야",
-    "꼴찌에서단숨에'최강'으로…프로농구삼성대반전의비결은"
+    "꼴찌에서단숨에'최강'으로…프로농구삼성대반전의비결은",
+    "삼성,샘올트먼오픈AICEO초청간담회개최…'AI활용가능성'집중..."
    ],
    "initialized": true,
-   "last_run": "2026-10-31T14:55:19.292428+09:00"
+   "last_run": "2026-10-31T15:00:39.405165+09:00"
   }
  },
  "press_names": {
