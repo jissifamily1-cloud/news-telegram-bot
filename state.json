@@ -354,11 +354,13 @@
     [
      "2026-10-31T09:15:25.420638+09:00",
      "4분기 빗장 마진 셈법 복잡 휘발유 풀자 수출 정유사 급락"
+    ],
+    [
+     "2026-10-31T09:20:24.757915+09:00",
+     "확대에 인텔 나스닥 매도 기술주"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=03519446645618168&mediaCodeNo=257",
-    "https://zdnet.co.kr/view/?no=20261030095653",
     "https://news.ifm.kr/news/articleView.html?idxno=483019",
     "https://www.goodkyung.com/news/articleView.html?idxno=292934",
     "https://it.chosun.com/news/articleView.html?idxno=2023092173166",
@@ -1856,11 +1858,11 @@
     "https://www.seoulfn.com/news/articleView.html?idxno=641249",
     "https://www.sentv.co.kr/article/view/sentv202610300207",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4442317",
-    "http://www.segyebiz.com/newsView/20261031502919?OutUrl=naver"
+    "http://www.segyebiz.com/newsView/20261031502919?OutUrl=naver",
+    "https://www.busan.com/view/busan/view.php?code=2026103109122823065",
+    "https://www.jasm.co.kr/news/view/323660/?sc=Naver"
    ],
    "seen_titles": [
-    "삼성분기영업익106조세계기록…\"HBM기술력회복판매3배급증\"",
-    "日키옥시아,오늘실적발표…투심회복될까",
     "[프로필]김원기SK엔무브대표겸SK지오센트릭대표",
     "SK하이닉스,HBM1위굳히기'승부수'…안현사장미국전진배치로삼성...",
     "[뉴욕증시포커스]알파벳12%급락에AI투자불안재점화…3대주요지수...",
@@ -3358,10 +3360,12 @@
     "[CEO&뉴스]'허브앤스포크'에29조원건최원혁HMM대표···조기재선...",
     "안성시의회,도시공사설립제동…관련안건3건심사보류",
     "\"삼전닉스호실적,원화강세뒷받침…수출대금환전비율높게유지\"",
-    "中수출빗장풀자휘발유마진급락…정유사4분기셈법복잡"
+    "中수출빗장풀자휘발유마진급락…정유사4분기셈법복잡",
+    "인텔주가폭락에AI투자우려또제기…나스닥2.86%하락",
+    "[뉴욕증시]기술주매도확대에…나스닥2.86%↓·인텔28.58%↓"
    ],
    "initialized": true,
-   "last_run": "2026-10-31T09:15:25.420638+09:00"
+   "last_run": "2026-10-31T09:20:24.757915+09:00"
   }
  },
  "press_names": {
