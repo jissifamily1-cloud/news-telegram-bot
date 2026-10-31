@@ -358,16 +358,21 @@
     [
      "2026-10-31T09:20:24.757915+09:00",
      "확대에 인텔 나스닥 매도 기술주"
+    ],
+    [
+     "2026-10-31T09:30:31.480906+09:00",
+     "3기 자족 신도시 비상 입주 임박한 제자리걸음 유치 기업 기능"
+    ],
+    [
+     "2026-10-31T09:30:31.480906+09:00",
+     "영입 NC 코디네이터 김강민 높이는 수비 경쟁력 외야"
+    ],
+    [
+     "2026-10-31T09:30:31.480906+09:00",
+     "걷은 독립 반도체 현대모비스 주도한다 국산 차량용"
     ]
    ],
    "seen_urls": [
-    "https://news.ifm.kr/news/articleView.html?idxno=483019",
-    "https://www.goodkyung.com/news/articleView.html?idxno=292934",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092173166",
-    "https://www.1conomynews.co.kr/news/articleView.html?idxno=51066",
-    "https://www.fntimes.com/html/view.php?ud=2026103010002647317de3572ddd_18",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=450740",
-    "https://view.asiae.co.kr/article/2026103010033168893",
     "https://www.seoulfn.com/news/articleView.html?idxno=641425",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=280044",
     "https://www.g-enews.com/view.php?ud=2026103009525760843084322ec9_1",
@@ -1860,16 +1865,16 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4442317",
     "http://www.segyebiz.com/newsView/20261031502919?OutUrl=naver",
     "https://www.busan.com/view/busan/view.php?code=2026103109122823065",
-    "https://www.jasm.co.kr/news/view/323660/?sc=Naver"
+    "https://www.jasm.co.kr/news/view/323660/?sc=Naver",
+    "https://www.sportschosun.com/baseball/2026-10-31/202610310100199200014148",
+    "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016663",
+    "http://www.osen.co.kr/article/G1112901742",
+    "http://www.yonhapnewstv.co.kr/news/MYH202610310928350pM",
+    "https://www.thepublic.kr/news/articleView.html?idxno=324498",
+    "https://www.mk.co.kr/article/12192377",
+    "https://www.ntoday.co.kr/news/articleView.html?idxno=130504"
    ],
    "seen_titles": [
-    "[프로필]김원기SK엔무브대표겸SK지오센트릭대표",
-    "SK하이닉스,HBM1위굳히기'승부수'…안현사장미국전진배치로삼성...",
-    "[뉴욕증시포커스]알파벳12%급락에AI투자불안재점화…3대주요지수...",
-    "SK하이닉스,사장급美현지총괄신설…안현사장선임",
-    "SK이노,정승일총괄사장·강동수사장선임…전력사업전환가속화",
-    "[2027SK사장단인사]최태원,AI전력사업힘준다...SK이노CEO에정승일...",
-    "SK장용호대표·김선혁담당사장협업체제구축,AI·반도체중심전략...",
     "SK하이닉스,사장단인사…신설'미주총괄'에안현사장전진배치",
     "'HBM신화주역'···안현SK하이닉스사장,미주총괄맡는다",
     "KT엠모바일,10월알뜰폰브랜드평판1위수성",
@@ -3362,10 +3367,17 @@
     "\"삼전닉스호실적,원화강세뒷받침…수출대금환전비율높게유지\"",
     "中수출빗장풀자휘발유마진급락…정유사4분기셈법복잡",
     "인텔주가폭락에AI투자우려또제기…나스닥2.86%하락",
-    "[뉴욕증시]기술주매도확대에…나스닥2.86%↓·인텔28.58%↓"
+    "[뉴욕증시]기술주매도확대에…나스닥2.86%↓·인텔28.58%↓",
+    "KBO최초탄생!'짐승수비'공룡에이식한다…NC,김강민외야코디네이...",
+    "[오피셜]'짐승'김강민NC수비뜯어고친다,외야코디네이터계약\"부...",
+    "SK왕조인연인가,NC가짐승을품었다...\"외야수비경쟁력강화\"NC김...",
+    "삼전닉스'100조주주환원'경쟁…통큰승부수통할까",
+    "입주임박한3기신도시,기업유치'제자리걸음'…자족기능비상",
+    "NC,김강민외야코디네이터영입…“외야수비경쟁력높이는데힘보...",
+    "'반도체독립'팔걷은현대모비스…국산차량용반도체주도한다"
    ],
    "initialized": true,
-   "last_run": "2026-10-31T09:25:20.797447+09:00"
+   "last_run": "2026-10-31T09:30:31.480906+09:00"
   }
  },
  "press_names": {
