@@ -402,10 +402,13 @@
     [
      "2026-10-31T12:10:26.212152+09:00",
      "5거래일 변동 주가 최근 SK이노베이션"
+    ],
+    [
+     "2026-10-31T12:25:20.059758+09:00",
+     "하나마이크론 국민성장펀드 2천200억원 지원 아산에 청주 녹십자"
     ]
    ],
    "seen_urls": [
-    "https://news.ifm.kr/news/articleView.html?idxno=483023",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=365438",
     "https://www.newspim.com/news/view/20261030000387",
     "https://www.munhwa.com/article/11627521",
@@ -1904,10 +1907,10 @@
     "https://www.ddaily.co.kr/page/view/2026103016052912795",
     "https://www.nocutnews.co.kr/news/6600131",
     "https://www.news1.kr/local/gyeonggi/6338584",
-    "https://www.joongangenews.com/news/articleView.html?idxno=560074"
+    "https://www.joongangenews.com/news/articleView.html?idxno=560074",
+    "https://www.jbnews.com/news/articleView.html?idxno=1514796"
    ],
    "seen_titles": [
-    "SK하이닉스,안현미주총괄사장선임..美빅테크고객체계구축",
     "SK그룹,'안정속쇄신'2027년사장단인사…정승일SK이노베이션CEO발...",
     "구글이재점화한AI투자수익성우려",
     "SK디스커버리,신임사장에윤병석SK가스대표선임",
@@ -3406,10 +3409,11 @@
     "“9000은커녕7000선이라도올까”…삼성전자107조벌어도못웃는코스...",
     "\"최초의외야코디네이터\"…NC,'짐승'김강민영입으로수비강화승부...",
     "이상일용인시장,伊피렌체시에\"자매결연·청년교류하자\"",
-    "최근5거래일SK이노베이션주가변동커"
+    "최근5거래일SK이노베이션주가변동커",
+    "녹십자청주·하나마이크론아산에국민성장펀드2천200억원지원"
    ],
    "initialized": true,
-   "last_run": "2026-10-31T12:20:25.277497+09:00"
+   "last_run": "2026-10-31T12:25:20.059758+09:00"
   }
  },
  "press_names": {
