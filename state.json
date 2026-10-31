@@ -189,7 +189,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.joongang.co.kr/article/25474365",
     "https://www.newspim.com/news/view/20261030000431",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=368557",
     "http://www.metroseoul.co.kr/article/20261030500071",
@@ -1688,10 +1687,10 @@
     "http://www.4th.kr/news/articleView.html?idxno=2120862",
     "https://imnews.imbc.com/replay/2026/nwdesk/article/6862214_37004.html",
     "https://www.mt.co.kr/industry/2026/10/31/2026103120394629432",
-    "https://news.jtbc.co.kr/article/NB12325815?influxDiv=NAVER"
+    "https://news.jtbc.co.kr/article/NB12325815?influxDiv=NAVER",
+    "https://www.m-i.kr/news/articleView.html?idxno=2012756"
    ],
    "seen_titles": [
-    "알파벳12.6%폭락…하루만에시총669조원증발",
     "[종합]'AI대확장'2027년겨냥...최태원회장,경영진재배치",
     "SK하이닉스,미주총괄신설…안현·차선용·윤풍영사장단인사",
     "SK텔레콤,안동지역산불피해복원나서…AI기술동원",
@@ -3190,10 +3189,11 @@
     "샘올트먼,최태원·삼성사장단연쇄회동…韓AI동맹확대",
     "'구글'에이어'인텔'쇼크‥AI충격어디까지",
     "최태원SK회장과삼성사장단,'챗GPT아버지'샘올트먼과회동",
-    "[인터뷰]'부캉이'힘입어전재수…\"전세계가'부산병'앓도록만들것..."
+    "[인터뷰]'부캉이'힘입어전재수…\"전세계가'부산병'앓도록만들것...",
+    "이상일용인특례시장,이탈리아피렌체와자매결연·대학생교류논의"
    ],
    "initialized": true,
-   "last_run": "2026-10-31T20:45:23.888466+09:00"
+   "last_run": "2026-10-31T20:50:26.023034+09:00"
   }
  },
  "press_names": {
