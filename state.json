@@ -458,11 +458,13 @@
     [
      "2026-10-31T11:45:21.121386+09:00",
      "밸류에이션 번째 증시 경고등 만에 156년 치솟은 미국"
+    ],
+    [
+     "2026-10-31T11:50:25.609701+09:00",
+     "연속 넣을까 기름 기름값 하락세 24주"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=283573",
-    "http://www.4th.kr/news/articleView.html?idxno=2120765",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1729823",
     "https://www.mt.co.kr/industry/2026/10/30/2026103010071367976",
     "https://biz.sbs.co.kr/article_hub/20000343186?division=NAVER",
@@ -1960,11 +1962,11 @@
     "https://economist.co.kr/article/view/ecn202610270060",
     "https://www.g-enews.com/view.php?ud=20261031113257954fbbec65dfb_1",
     "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54566",
-    "https://www.g-enews.com/view.php?ud=202610311140519601fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=202610311140519601fbbec65dfb_1",
+    "https://www.jemin.com/news/articleView.html?idxno=845813",
+    "https://www.chosun.com/economy/industry-company/2026/10/31/KP6NQNZTXVCLPBNNP6RW3O2SIQ/"
    ],
    "seen_titles": [
-    "코스피4%대급락에매도사이드카발동…삼성전자·SK하이닉스동반약...",
-    "[인사]SK㈜,김선혁담당사장선임'장용호대표와시너지'…포트폴리...",
     "SK하이닉스,미주총괄신설..안현사장선임",
     "[프로필]권영수SK수펙스추구협의회담당사장",
     "[프로필]김경준SK어스온사장",
@@ -3462,10 +3464,12 @@
     "한화는시총34%늘었는데…카카오AI분할엔물음표왜?",
     "마이크론질주흔드는차세대규격…CXL과보안이열어젖힌2027년틈새",
     "월가베테랑\"AI투자열풍,과열식으면오히려오래간다\"",
-    "156년만에세번째선경고등…40.7치솟은미국증시밸류에이션"
+    "156년만에세번째선경고등…40.7치솟은미국증시밸류에이션",
+    "NC,김강민과외야수비혁신나선다…1·2군아우르는전문지도체계...",
+    "오늘기름넣을까...기름값24주연속하락세"
    ],
    "initialized": true,
-   "last_run": "2026-10-31T11:45:21.121386+09:00"
+   "last_run": "2026-10-31T11:50:25.609701+09:00"
   }
  },
  "press_names": {
