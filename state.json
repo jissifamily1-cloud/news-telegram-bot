@@ -206,11 +206,13 @@
     [
      "2026-10-31T19:35:18.382928+09:00",
      "실적은 급락 일이 무슨 삼전닉스에 주가는 있었나 신기록"
+    ],
+    [
+     "2026-10-31T19:45:25.333377+09:00",
+     "빅테크는 삼전 닉스 투자하는데 주가는 떨어질까"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=280059",
-    "https://www.itbiznews.com/news/articleView.html?idxno=229709",
     "https://www.cstimes.com/news/articleView.html?idxno=725989",
     "https://www.gasnews.com/news/articleView.html?idxno=127425",
     "http://www.newswell.co.kr/news/articleView.html?idxno=23208",
@@ -1708,11 +1710,11 @@
     "https://econotimes.com/Samsung-posts-record-quarterly-profit-sets-shareholder-payouts-1767613",
     "http://www.newstomato.com/ReadNews.aspx?no=1318752&inflow=N",
     "https://news.tvchosun.com/site/data/html_dir/2026/10/31/2026103190108.html",
-    "https://www.kbmaeil.com/article/20261031500170"
+    "https://www.kbmaeil.com/article/20261031500170",
+    "https://news.jtbc.co.kr/article/NB12325848?influxDiv=NAVER",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280483&CMPT_CD=P0010"
    ],
    "seen_titles": [
-    "SKPlanetReportsGifticonDataBreach",
-    "SK그룹,주요멤버사CEO유임…안정속쇄신에방점",
     "SKT,AI·드론으로안동산불피해복원나서…시드볼1만개파종",
     "11월국내LPG가격kg당75원인상",
     "SK이노베이션,정승일총괄사장·강동수사장선임…'전력사업전환'가...",
@@ -3210,10 +3212,12 @@
     "Samsungpostsrecordquarterlyprofit,setsshareholderpayouts",
     "최태원·올트먼회동…AI반도체협력논의주목",
     "[돈이보이는경제]AI투자우려에인텔29%폭락…삼전닉스역대급실...",
-    "실적은신기록,주가는급락…삼전닉스에무슨일이있었나"
+    "실적은신기록,주가는급락…삼전닉스에무슨일이있었나",
+    "'깜짝방한'샘올트먼…삼성·SK경영진잇달아만났다",
+    "빅테크는투자하는데,삼전·닉스주가는왜떨어질까"
    ],
    "initialized": true,
-   "last_run": "2026-10-31T19:40:25.775137+09:00"
+   "last_run": "2026-10-31T19:45:25.333377+09:00"
   }
  },
  "press_names": {
