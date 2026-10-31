@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-31T04:58:47.858201+09:00",
-     "급락 지분가치 정부 사상 사업 우려에 증발 인텔 PC 16조"
-    ],
-    [
      "2026-10-31T05:05:20.178632+09:00",
      "규제 시민단체도 따라 제재 차별 방침 쿠팡 법과 아냐"
     ],
@@ -458,11 +454,13 @@
     [
      "2026-10-31T10:40:23.308765+09:00",
      "한반도에 영향은 미칠 중간선거 3일 미국"
+    ],
+    [
+     "2026-10-31T11:00:38.570588+09:00",
+     "불러주세요 반도체 연동 한화비전 보안 업황 반등한"
     ]
    ],
    "seen_urls": [
-    "https://www.newsinside.kr/news/articleView.html?idxno=5036553",
-    "https://www.wikileaks-kr.org/news/articleView.html?idxno=193965",
     "https://www.mk.co.kr/article/12191264",
     "https://www.yna.co.kr/view/AKR20261030061500008?input=1195m",
     "https://daily.hankooki.com/news/articleView.html?idxno=1420114",
@@ -1960,11 +1958,11 @@
     "https://www.etoday.co.kr/news/view/2642526",
     "https://www.slist.kr/news/articleView.html?idxno=777953",
     "https://www.chosun.com/economy/industry-company/2026/10/31/53CDYV5NJRARTJW6VSKHBPJI3I/",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280343&CMPT_CD=P0010"
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280343&CMPT_CD=P0010",
+    "https://news.tf.co.kr/read/economy/2383261.htm",
+    "https://www.mk.co.kr/article/12192400"
    ],
    "seen_titles": [
-    "용인반도체국가산단착공…주차장·숙소대책마련에착수",
-    "SK,'안정속쇄신'…정승일에너지·안현美AI메모리전진배치",
     "SK그룹,'경영안정'으로'실무형리더'전진배치…주요계열사CEO유임...",
     "세계여성이사협회,창립10주년아태포럼개최…“여성이사전문성·책...",
     "코스피4%대급락…11거래일만에'매도사이드카'발동",
@@ -3462,10 +3460,12 @@
     "NC,'짐승'김강민영입⋯KBO최초'외야코디네이터'란?",
     "김광민,NC외야코디네이터발탁…KBO리그최초",
     "인텔,52년만의최악폭락...뉴욕증시도털썩",
-    "KBL개막최다연승새역사쓴삼성,그뒤를받친'베테랑'이관희"
+    "KBL개막최다연승새역사쓴삼성,그뒤를받친'베테랑'이관희",
+    "뉴욕증시,AI회의론에일제히하락마감…나스닥2.86%↓",
+    "“‘반도체업황연동’보안株라불러주세요”…36%반등한한화비전..."
    ],
    "initialized": true,
-   "last_run": "2026-10-31T10:55:19.786889+09:00"
+   "last_run": "2026-10-31T11:00:38.570588+09:00"
   }
  },
  "press_names": {
