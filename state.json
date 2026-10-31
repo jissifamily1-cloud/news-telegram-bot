@@ -397,10 +397,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.inthenews.co.kr/news/article.html?no=93771",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1729815",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=901378",
-    "https://www.hidomin.com/news/articleView.html?idxno=727167",
     "https://www.sedaily.com/article/20108147",
     "https://biz.heraldcorp.com/article/10920162",
     "https://www.bloter.net/news/articleView.html?idxno=677200",
@@ -1896,13 +1892,13 @@
     "http://www.thesportstimes.co.kr/news/articleView.html?idxno=377035",
     "https://www.gukjenews.com/news/articleView.html?idxno=3738231",
     "https://www.sentv.co.kr/article/view/sentv202610310008",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=146458"
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=146458",
+    "https://www.yna.co.kr/view/AKR20261031022000007?input=1195m",
+    "https://www.newsis.com/view/NISX20261031_0003849173",
+    "http://weekly.chosun.com/news/articleView.html?idxno=56751",
+    "http://www.beyondpost.co.kr/view.php?ud=2026103109272861604c878f8fa1_30"
    ],
    "seen_titles": [
-    "SK㈜,장용호·김선혁'투톱체제'구축…포트폴리오혁신가속",
-    "SK하이닉스,사장급인사단행…미주총괄에안현개발총괄사장임명",
-    "SK디스커버리신임사장에윤병석SK가스대표…\"미래성장엔진켠다\"",
-    "SK하이닉스사장단인사…안현개발총괄사장,신설미주총괄로",
     "美빅테크쇼크에코스피5700선붕괴…삼전·닉스'와르르'",
     "글로벌테크최초‘분기영업익100조’뚫은삼성…7세대HBM승부수",
     "SK사장단인사단행…SK이노신임CEO에정승일사장선임",
@@ -3398,10 +3394,14 @@
     "NC다이노스,김강민외야코디네이터영입...팀외야수비총괄",
     "이상일용인시장,이탈리아피렌체시청방문'용인-피렌체협력방안논...",
     "뉴욕증시,AI투자수익성우려에급락…인텔29%↓",
-    "[위클리PICK3]獨·日합계넘어선韓경상수지흑자부터알파벳실적..."
+    "[위클리PICK3]獨·日합계넘어선韓경상수지흑자부터알파벳실적...",
+    "프로야구NC,김강민외야코디네이터영입…KBO리그최초",
+    "NC,'짐승'김강민외야코디네이터선임…\"수비경쟁력강화\"",
+    "인텔52년만에최악의폭락…나스닥2.86%급락,AI거품공포확산",
+    "이상일용인시장,이태리피렌체와자매결연·청년교류추진집중논의"
    ],
    "initialized": true,
-   "last_run": "2026-10-31T09:45:26.016242+09:00"
+   "last_run": "2026-10-31T09:50:24.828685+09:00"
   }
  },
  "press_names": {
