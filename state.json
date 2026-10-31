@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-31T13:05:20.038078+09:00",
-     "체념하는 사과문만 자고 나면 문자 유출 국민들 해킹 복붙"
-    ],
-    [
      "2026-10-31T13:25:20.125306+09:00",
      "종료일 30일 확정 431억 용역계약 SK이터닉스"
     ],
@@ -214,11 +210,13 @@
     [
      "2026-10-31T18:50:23.684862+09:00",
      "촉각 인텔 증시 여파 폭락 투자 국내 우려"
+    ],
+    [
+     "2026-10-31T19:05:20.274579+09:00",
+     "택한 엔비디아가 K콘 동맹 네이버 시험은"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10920265",
-    "https://www.yna.co.kr/view/PYH20261030037300003?input=1196m",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499952",
     "https://biz.heraldcorp.com/article/10920261",
     "http://www.inews24.com/view/2020796",
@@ -1716,11 +1714,11 @@
     "https://www.lecturernews.com/news/articleView.html?idxno=212927",
     "https://www.thescoop.co.kr/news/articleView.html?idxno=312126",
     "https://news.jtbc.co.kr/article/NB12325826?influxDiv=NAVER",
-    "https://www.sportschosun.com/football/2026-10-31/202610310100199940014245"
+    "https://www.sportschosun.com/football/2026-10-31/202610310100199940014245",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553662162",
+    "https://www.nc.press/news/articleView.html?idxno=629928"
    ],
    "seen_titles": [
-    "‘안정속쇄신’택한SK…리밸런싱박차·미래먹거리발굴속도낸다",
-    "SK그룹,김원기SK지오센트릭사장겸SK엔무브CIC사장내정",
     "SK하이닉스,사장단인사단행…美미주총괄신설·안현사장선임",
     "코스피5%급락에매도사이드카…삼전·하닉‘와르르’[투자360]",
     "[프로필]장용호SK㈜대표이사사장",
@@ -3218,10 +3216,12 @@
     "최태원SK그룹회장·오픈AI샘올트먼CEO오찬회동…HBM공급·AI데이...",
     "AI로벌고AI에흔들렸다…알파벳의역설이던진'AI고점론'[시크한...",
     "'AI투자우려'에인텔29%폭락…국내증시여파촉각",
-    "\"죄송합니다,죄송합니다\"이기지못하는전북현대정정용감독,대전..."
+    "\"죄송합니다,죄송합니다\"이기지못하는전북현대정정용감독,대전...",
+    "[현장목소리]'무승부아쉬움'이정규감독,\"반흐룬스벤부상으로계...",
+    "[박동선의머니&엔터]엔비디아가택한네이버…AI동맹첫시험은'K콘..."
    ],
    "initialized": true,
-   "last_run": "2026-10-31T19:00:39.040332+09:00"
+   "last_run": "2026-10-31T19:05:20.274579+09:00"
   }
  },
  "press_names": {
