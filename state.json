@@ -181,7 +181,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261030000431",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=368557",
     "http://www.metroseoul.co.kr/article/20261030500071",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=878082",
@@ -1680,10 +1679,10 @@
     "https://imnews.imbc.com/replay/2026/nwdesk/article/6862214_37004.html",
     "https://www.mt.co.kr/industry/2026/10/31/2026103120394629432",
     "https://news.jtbc.co.kr/article/NB12325815?influxDiv=NAVER",
-    "https://www.m-i.kr/news/articleView.html?idxno=2012756"
+    "https://www.m-i.kr/news/articleView.html?idxno=2012756",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1729969"
    ],
    "seen_titles": [
-    "[종합]'AI대확장'2027년겨냥...최태원회장,경영진재배치",
     "SK하이닉스,미주총괄신설…안현·차선용·윤풍영사장단인사",
     "SK텔레콤,안동지역산불피해복원나서…AI기술동원",
     "'사업재편'포스코퓨처엠,LFP전환·원가'투트랙드라이브'",
@@ -3182,10 +3181,11 @@
     "'구글'에이어'인텔'쇼크‥AI충격어디까지",
     "최태원SK회장과삼성사장단,'챗GPT아버지'샘올트먼과회동",
     "[인터뷰]'부캉이'힘입어전재수…\"전세계가'부산병'앓도록만들것...",
-    "이상일용인특례시장,이탈리아피렌체와자매결연·대학생교류논의"
+    "이상일용인특례시장,이탈리아피렌체와자매결연·대학생교류논의",
+    "샘올트먼,삼성사장단·최태원연쇄회동…韓AI동맹확대"
    ],
    "initialized": true,
-   "last_run": "2026-10-31T20:55:19.573092+09:00"
+   "last_run": "2026-10-31T21:00:44.945708+09:00"
   }
  },
  "press_names": {
