@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-01T00:20:25.402754+09:00",
-     "모으고 지갑에 네이버 입장하고 디지털 멤버십을 얼굴로 스탬프 오프"
-    ],
-    [
      "2026-11-01T00:30:39.780656+09:00",
      "막판 하락 이틀 주가 상승 삼성전기"
     ],
@@ -146,11 +142,17 @@
     [
      "2026-11-01T06:20:24.888701+09:00",
      "같은 실적 8일 삼전닉스 3분기 엇갈려 10일중 주가 방향"
+    ],
+    [
+     "2026-11-01T06:25:20.171814+09:00",
+     "10배 업종별 시총 분류체계로 체급 반도체 바이오"
+    ],
+    [
+     "2026-11-01T06:25:20.171814+09:00",
+     "메모리반도체 삼성그룹"
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/economy/2382933.htm",
-    "https://www.safetimes.co.kr/news/articleView.html?idxno=247007",
     "https://www.mk.co.kr/article/12191358",
     "http://www.inews24.com/view/2020829",
     "https://www.sidae.com/article/2026103010514587457",
@@ -1648,11 +1650,11 @@
     "https://www.yna.co.kr/view/AKR20261030161900017?input=1195m",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500267",
     "https://www.yna.co.kr/view/AKR20261031011600007?input=1195m",
-    "https://www.yna.co.kr/view/AKR20261031000200008?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261031000200008?input=1195m",
+    "https://www.yna.co.kr/view/AKR20261031030900008?input=1195m",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092173233"
    ],
    "seen_titles": [
-    "한미반도체,또실적신기록유력…HBM패권쥐고美메가팹공략",
-    "코스피5%폭락에'매도사이드카'…장중5600선도붕괴",
     "삼성전자107조벌어도하락…실적발표날웃은하이닉스",
     "SKprioritizesstability,reshapesenergyleadershipinannualreshu",
     "[프로필]권영수SUPEX추구협의회담당사장",
@@ -3150,10 +3152,12 @@
     "[해킹도미노]①은행도카페도학교도…일상곳곳서내정보털렸다",
     "자사주매입5배폭증…삼성·SK하이닉스82조원쓸어담았다",
     "◇오늘의경기(1일)",
-    "10일중8일주가같은방향삼전닉스…3분기실적땐엇갈려"
+    "10일중8일주가같은방향삼전닉스…3분기실적땐엇갈려",
+    "새분류체계로본업종별체급…반도체-바이오시총10배차",
+    "삼성그룹·메모리반도체[이주의상장ETF]"
    ],
    "initialized": true,
-   "last_run": "2026-11-01T06:20:24.888701+09:00"
+   "last_run": "2026-11-01T06:25:20.171814+09:00"
   }
  },
  "press_names": {
