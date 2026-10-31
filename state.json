@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-31T11:05:18.588833+09:00",
-     "현대 만드는 혁신 공정의 기술이 반도체"
-    ],
-    [
-     "2026-10-31T11:05:18.588833+09:00",
-     "개미 울리는 물적분할 쏘아올린 논란 중복상장 SK하이닉스가"
-    ],
-    [
-     "2026-10-31T11:05:18.588833+09:00",
-     "취업준비생들 면접관 그게 앞에 최선입니까"
-    ],
-    [
      "2026-10-31T11:35:20.494665+09:00",
      "늘었는데 분할엔 시총 카카오 한화는 물음표"
     ],
@@ -214,11 +202,13 @@
     [
      "2026-10-31T16:55:18.881286+09:00",
      "시장 앨범 공연 3분기 밑돌 실적 JYP엔터테인먼트 기저효과 기대"
+    ],
+    [
+     "2026-10-31T17:05:20.540226+09:00",
+     "구조조정 말레이시아 시험대 신규 정읍 회복 가동 수익성 SKC"
     ]
    ],
    "seen_urls": [
-    "https://www.thebigdata.co.kr/view.php?ud=202610301011175751df3c2a17b7_23",
-    "https://www.nocutnews.co.kr/news/6599676",
     "https://www.cnbizm.com/news/articleView.html?idxno=319810",
     "https://www.newsis.com/view/NISX20261030_0003848000",
     "https://biz.heraldcorp.com/article/10920233",
@@ -1716,11 +1706,11 @@
     "http://www.rookie.co.kr/news/articleView.html?idxno=129353",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500250",
     "https://www.tokenpost.kr/news/ai/430570",
-    "https://economist.co.kr/article/view/ecn202610310008"
+    "https://economist.co.kr/article/view/ecn202610310008",
+    "https://www.sedaily.com/article/20108598",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500253"
    ],
    "seen_titles": [
-    "SKT,AI로안동산불피해지복원에새해법모색...소비자관심도상승",
-    "'5%폭락'코스피5600선위협…11거래일만에매도사이드카",
     "SK그룹사장단인사…주요CEO유임\"안정속쇄신\"",
     "SK그룹,동남아사업총괄조직신설…'전략통'추형욱사장전진배치",
     "SK하이닉스,CEO직속총괄에윤풍영사장…초대미주총괄은안현사장",
@@ -3218,10 +3208,12 @@
     "2Q게임체인저로나선KT옥존\"연패끝내고승리,기쁘다\"",
     "JYP엔터테인먼트3분기실적시장기대밑돌듯…앨범·공연기저효과...",
     "삼성사장단50여명,올트먼과AI미래·사업기회논의",
-    "최태원,올트먼과회동SK하이닉스·SKT협력구체화"
+    "최태원,올트먼과회동SK하이닉스·SKT협력구체화",
+    "최태원,방한샘올트먼과회동…SK·오픈AI‘AI동맹’다진다",
+    "정읍구조조정·말레이시아신규가동…SKC수익성회복시험대"
    ],
    "initialized": true,
-   "last_run": "2026-10-31T17:00:40.499656+09:00"
+   "last_run": "2026-10-31T17:05:20.540226+09:00"
   }
  },
  "press_names": {
