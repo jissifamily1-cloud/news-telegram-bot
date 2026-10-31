@@ -154,11 +154,13 @@
     [
      "2026-11-01T06:35:18.258406+09:00",
      "전망은 강세 부담에도 위험회피발 이달 수급 채권시장 전망도"
+    ],
+    [
+     "2026-11-01T06:40:25.071709+09:00",
+     "사이드카도 역대 최다 코스피 급락"
     ]
    ],
    "seen_urls": [
-    "https://www.peoplewatch.co.kr/article/view/ppw202610300003",
-    "https://www.ppss.kr/news/articleView.html?idxno=318159",
     "https://www.globalepic.co.kr/view.php?ud=20261030105931911748439a4874_29",
     "http://www.wsobi.com/news/articleView.html?idxno=320709",
     "https://it.chosun.com/news/articleView.html?idxno=2023092173176",
@@ -1656,11 +1658,11 @@
     "https://it.chosun.com/news/articleView.html?idxno=2023092173233",
     "https://www.yna.co.kr/view/AKR20261031026200008?input=1195m",
     "https://www.g-enews.com/view.php?ud=202611010615292742fbbec65dfb_1",
-    "https://www.yna.co.kr/view/AKR20261031019400008?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261031019400008?input=1195m",
+    "https://www.jemin.com/news/articleView.html?idxno=845821",
+    "https://www.kbmaeil.com/article/20261101500019"
    ],
    "seen_titles": [
-    "'알파벳쇼크'코스피,5%대급락에매도사이드카발동",
-    "SK사장단인사'안정속쇄신'..반도체곽노정유임·에너지정승일발탁",
     "코스피,미국기술주충격에3%대급락…반도체주동반약세",
     "‘안정속쇄신’…SK그룹,주요CEO유임속에너지경영진재편",
     "SK하이닉스·SK이노베이션'미래성장전략주도'사장단인사단행",
@@ -3158,10 +3160,12 @@
     "삼성그룹·메모리반도체[이주의상장ETF]",
     "다시변동성커지는증시…코스피지난달-16%,역대일곱번째",
     "동유럽배터리기지흔들리자벤츠와BMW는중국으로눈돌렸다",
-    "이달채권시장전망은…수급부담에도위험회피발강세전망도"
+    "이달채권시장전망은…수급부담에도위험회피발강세전망도",
+    "샘올트먼,삼성핵심경영진과AI미래논의…반도체·데이터센터협...",
+    "코스피한달새16%급락…사이드카도역대최다"
    ],
    "initialized": true,
-   "last_run": "2026-11-01T06:35:18.258406+09:00"
+   "last_run": "2026-11-01T06:40:25.071709+09:00"
   }
  },
  "press_names": {
