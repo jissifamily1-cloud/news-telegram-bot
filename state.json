@@ -237,8 +237,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20261030104107168",
-    "https://www.koreaherald.com/article/10920260",
     "https://www.newsian.co.kr/news/articleView.html?idxno=100284",
     "http://www.kjdaily.com/article.php?aid=1793324410690712227",
     "https://dealsite.co.kr/articles/171664",
@@ -1736,11 +1734,11 @@
     "https://www.ikbc.co.kr/article/view/kbc202610310027",
     "https://en.yna.co.kr/view/AEN20261031002651315?input=2106m",
     "https://www.munhwa.com/article/11627752",
-    "https://economist.co.kr/article/view/ecn202610310009"
+    "https://economist.co.kr/article/view/ecn202610310009",
+    "https://www.nocutnews.co.kr/news/6600169",
+    "https://biz.heraldcorp.com/article/10921373"
    ],
    "seen_titles": [
-    "[특징주]한화에어로,어닝쇼크여파지속…장초반11%대하락",
-    "SKreshufflesenergychiefs,namesSKhynixdevelopmentheadtonewUSr",
     "FC안양-부천FC,11월1일파이널B첫판격돌…파이널A는'2위전쟁'",
     "금시세(금값)하락",
     "[리포트랩]목표가낮춘HD현대중공업…발전용엔진이반전열쇠될까",
@@ -3238,10 +3236,12 @@
     "[속보]최태원SK회장·샘올트먼전격회동…AI반도체·데이터센터협...",
     "(LEAD)SamsungexecsmeetOpenAI'sSamAltmantodiscussAItransforma",
     "한국날아와최태원만난샘올트먼…HBM·데이터센터‘AI동맹’가속...",
-    "SK하이닉스·SK미래전략위해최태원이지목한'두남자'"
+    "SK하이닉스·SK미래전략위해최태원이지목한'두남자'",
+    "최태원회장,방한한샘올트먼오픈AICEO와오찬회동",
+    "올트먼“PC램,5%만활용,클라우드에집중해야”…HBM집중‘삼전닉..."
    ],
    "initialized": true,
-   "last_run": "2026-10-31T17:50:27.131772+09:00"
+   "last_run": "2026-10-31T17:55:17.697421+09:00"
   }
  },
  "press_names": {
