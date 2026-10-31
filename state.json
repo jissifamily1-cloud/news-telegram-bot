@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-10-31T10:35:17.016162+09:00",
-     "SK이노베이션 급등 기록 마진 차질에 중동 윤활유 실적 설비"
-    ],
-    [
-     "2026-10-31T10:35:17.016162+09:00",
-     "금값 급락 금시세"
-    ],
-    [
      "2026-10-31T10:40:23.308765+09:00",
      "상승세 꺾이며 주가 하락 주간 SK스퀘어"
     ],
@@ -214,13 +206,17 @@
     [
      "2026-10-31T16:25:17.580794+09:00",
      "smaller industrial outlines to path manufacturers Siemens bring CEO"
+    ],
+    [
+     "2026-10-31T16:35:19.238659+09:00",
+     "호황 거품론 휘청인 가격 이유는 코스피가 그늘"
+    ],
+    [
+     "2026-10-31T16:35:19.238659+09:00",
+     "외국인 급락 매도한 하이닉스 6조 SOXL 반도체 삼성 폭락"
     ]
    ],
    "seen_urls": [
-    "https://www.nocutnews.co.kr/news/6599661",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=235483",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711264",
-    "https://www.mt.co.kr/industry/2026/10/30/2026103010154646928",
     "https://www.ajunews.com/view/20261030101057980",
     "https://www.dongascience.com/news/view/80618",
     "http://www.press9.kr/news/articleView.html?idxno=85269",
@@ -1716,13 +1712,13 @@
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553662049",
     "https://biz.heraldcorp.com/article/10921339",
     "https://www.jasm.co.kr/news/view/323682/?sc=Naver",
-    "https://www.koreaherald.com/article/10921341"
+    "https://www.koreaherald.com/article/10921341",
+    "https://www.news1.kr/industry/general-industry/6338659",
+    "http://www.yonhapnewstv.co.kr/news/AKR20261031162919J0d",
+    "https://biz.chosun.com/stock/analysis-prospect/2026/10/31/HVND64KQCJBYTDHERU3XCTG66M/",
+    "https://www.greened.kr/news/articleView.html?idxno=353554"
    ],
    "seen_titles": [
-    "'안정속변화'SK사장단인사…하닉곽노정유임·이노정승일내정",
-    "SK하이닉스,안현사장미주총괄로...AI메모리개발수장전진배치",
-    "알파벳쇼크...코스피11거래일만에또매도사이드카",
-    "[프로필]김태진SK온트레이딩인터내셔널CIC사장",
     "최창원리드리밸런싱막바지...SK,'재무·성장'두축에힘",
     "[씨즈더퓨처]도시에태양하나가더…데이터센터가내뿜는열기의실...",
     "[김보관의디스]KB증권노조가금융지주로몰려가집회여는까닭은?",
@@ -3218,10 +3214,14 @@
     "[현장목소리]'파이널라운드전승도전'이정규감독,\"남은일정만족...",
     "최태원,샘올트먼과오찬…HBM·AI데이터센터협력논의",
     "최태원SK그룹회장,샘올트먼과오찬회동…HBM·AI협력논의",
-    "SiemensCEOoutlinespathtobringindustrialAItosmallermanufactur"
+    "SiemensCEOoutlinespathtobringindustrialAItosmallermanufactur",
+    "'챗GPT'올트먼,삼성·SK와잇단회동…반도체·AIDC협력모색(종합)",
+    "최태원SK그룹회장,올트먼과다시만났다…AI협력주목",
+    "코스피가‘AI거품론’에휘청인이유는…‘가격호황’의그늘",
+    "美반도체7.2%급락·SOXL25%폭락…외국인1.6조매도한삼성·하이닉스..."
    ],
    "initialized": true,
-   "last_run": "2026-10-31T16:30:31.214072+09:00"
+   "last_run": "2026-10-31T16:35:19.238659+09:00"
   }
  },
  "press_names": {
