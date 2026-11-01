@@ -414,17 +414,21 @@
     [
      "2026-11-01T15:25:21.053342+09:00",
      "방한 올트먼 실체는 동맹"
+    ],
+    [
+     "2026-11-01T15:30:32.140611+09:00",
+     "연속 투자 먹구름 증시 2일 폭락 전망도 경제 불안에"
+    ],
+    [
+     "2026-11-01T15:30:32.140611+09:00",
+     "젠슨 국내 매디슨 장녀 커지나 협력 피지컬 방한"
+    ],
+    [
+     "2026-11-01T15:30:32.140611+09:00",
+     "챗GPT 한국행 아버지 귀하신 올트먼도 K반도체"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20261030125628448",
-    "http://www.inews24.com/view/2020747",
-    "https://www.newspim.com/news/view/20261030000856",
-    "https://www.edaily.co.kr/News/Read?newsId=04414886645618168&mediaCodeNo=257",
-    "http://www.newsbrite.net/news/articleView.html?idxno=201206",
-    "http://www.newsbrite.net/news/articleView.html?idxno=201203",
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=767225",
-    "http://www.newsbrite.net/news/articleView.html?idxno=201204",
     "https://www.etnews.com/20261030000259",
     "https://www.newsis.com/view/NISX20261030_0003848569",
     "https://www.etnews.com/20261030000258",
@@ -1916,17 +1920,17 @@
     "https://www.dt.co.kr/article/12092431",
     "https://www.ezyeconomy.com/news/articleView.html?idxno=241439",
     "https://www.ccdn.co.kr/news/articleView.html?idxno=1108151",
-    "https://www.khan.co.kr/article/202611011521001"
+    "https://www.khan.co.kr/article/202611011521001",
+    "https://sports.donga.com/it/article/all/20261101/134943856/1",
+    "https://biz.sbs.co.kr/article_hub/20000343476?division=NAVER",
+    "https://www.newsis.com/view/NISX20261101_0003849831",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=7916",
+    "https://www.yna.co.kr/view/PYH20261101062200013?input=1196m",
+    "https://www.fnnews.com/news/202611011328496041",
+    "https://www.ggilbo.com/news/articleView.html?idxno=1189521",
+    "https://www.joongang.co.kr/article/25474738"
    ],
    "seen_titles": [
-    "'10년HBM동맹'빛났다…한미반도체,SK하이닉스서공로감사패품어",
-    "드론공격에통신망마비된다면?…'복합재난대응훈련'진행",
-    "과기정통부,통신재난대비안전훈련…재난로밍·와이파이점검",
-    "SK하이닉스,日협력사20여곳과첫'파트너스데이'…공급망협력강화",
-    "SK가스대표에송경열…LNG사업확장맡는다",
-    "한미일외교장관,美G20계기회담…대북공조방안논의할듯",
-    "신세계·현대,통합특별시에반도체까지…'광주상권선점'각축전",
-    "과기정통부,통신재난대응체계점검…이용자보호총력",
     "배경훈부총리\"재난에도통신서비스유지·신속복구중요\"",
     "키움증권,3분기순이익2386억…위탁매매수익전분기比43%↓",
     "드론공격에통신망마비되면…KT등통신4사,재난대응훈련",
@@ -3418,10 +3422,18 @@
     "SKT,AI로조직업무생산성높인다…‘AX혁신2.0’본격화",
     "SKT,개인AI활용넘어조직혁신…'AX2.0'가속",
     "[인사]SK하이닉스",
-    "올트먼또방한,왜?…‘AI동맹’실체는?[산업이(異)면]"
+    "올트먼또방한,왜?…‘AI동맹’실체는?[산업이(異)면]",
+    "SKT“전사AI전환가속”",
+    "'채용혜택'SK하이닉스AI해커톤,시스템장애로예선중단",
+    "안철수\"국민연금182조원날려…'연쇄자산파괴범'책임물어야\"",
+    "SKT,AI활용개인에서조직전체로확대…\"AX업무혁신속도\"",
+    "SKT,'AX혁신2.0'본격화",
+    "美증시2일연속폭락,AI투자불안에경제전망도'먹구름'",
+    "'젠슨황장녀'매디슨황,방한예정…국내피지컬AI협력판커지나",
+    "‘챗GPT아버지’올트먼도한국행,왜…‘귀하신몸’된K반도체"
    ],
    "initialized": true,
-   "last_run": "2026-11-01T15:25:21.053342+09:00"
+   "last_run": "2026-11-01T15:30:32.140611+09:00"
   }
  },
  "press_names": {
