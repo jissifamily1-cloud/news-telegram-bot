@@ -250,12 +250,17 @@
     [
      "2026-11-02T06:35:20.224824+09:00",
      "빈소 길잡이 발인 배우 생활의 행렬 사흘째 2일 추모 최불암"
+    ],
+    [
+     "2026-11-02T06:55:20.289527+09:00",
+     "보안 산업의 위성망 비상 혈관 공장 자동차 뚫는 해커들"
+    ],
+    [
+     "2026-11-02T06:55:20.289527+09:00",
+     "배터리 성적표 올라탄 특수 희비 3사 반등 전력망 본업"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000343400?division=NAVER",
-    "https://www.fnnews.com/news/202610301736108261",
-    "http://www.joseilbo.com/news/news_read.php?uid=578582&class=78",
     "https://www.kbmaeil.com/article/20261030500275",
     "http://www.paxetv.com/news/articleView.html?idxno=285742",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280240&CMPT_CD=P0010",
@@ -1752,12 +1757,12 @@
     "http://www.thesportstimes.co.kr/news/articleView.html?idxno=377094",
     "https://www.hankyung.com/article/2026103065586",
     "https://www.labortoday.co.kr/news/articleView.html?idxno=237518",
-    "https://www.newsis.com/view/NISX20261101_0003849970"
+    "https://www.newsis.com/view/NISX20261101_0003849970",
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435053",
+    "https://www.newsian.co.kr/news/articleView.html?idxno=100396",
+    "https://news.bizwatch.co.kr/article/industry/2026/10/30/0031"
    ],
    "seen_titles": [
-    "파우치에각형더했다,LG엔솔'하이브리드배터리'개발",
-    "(YonhapInterview)S.Korea,U.S.canmake'great'progressinSMRs:St",
-    "코스피3%·닛케이2%뚝…亞증시'휘청'",
     "[증시오늘]코스피3.48%급락한5730선",
     "코스피긴호흡으로볼때…반도체소부장·증권주주목",
     "SK,'실무형리더'전진배치…반도체역량키우고,에너지는재편",
@@ -3254,10 +3259,13 @@
     "'에릭멀티골'울산,강원에2-1역전승거두며2위사수",
     "\"100조벌어도더기다려라?\"…삼전개미웃지못하는이유[종목+]",
     "취약계층사회보험지원줄이는노동부예산안",
-    "\"배우생활의길잡이\"고(故)최불암빈소사흘째추모행렬…2일발인..."
+    "\"배우생활의길잡이\"고(故)최불암빈소사흘째추모행렬…2일발인...",
+    "프로농구삼성10연승저지한SK…'한둥지이웃'S-더비서웃었다",
+    "[기획]산업의혈관뚫는해커들…공장·자동차·위성망보안비상",
+    "'전력망특수'올라탄배터리3사,본업반등속성적표희비"
    ],
    "initialized": true,
-   "last_run": "2026-11-02T06:50:25.813685+09:00"
+   "last_run": "2026-11-02T06:55:20.289527+09:00"
   }
  },
  "press_names": {
