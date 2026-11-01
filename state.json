@@ -502,13 +502,17 @@
     [
      "2026-11-02T08:35:18.451064+09:00",
      "규제 재이용 검토 SK하이닉스 확대 방류수 이천시 제시 신중"
+    ],
+    [
+     "2026-11-02T08:40:26.110565+09:00",
+     "장세 키옥시아 가이던스 유의 여파 변동성 부진한"
+    ],
+    [
+     "2026-11-02T08:40:26.110565+09:00",
+     "코스트코 퍼스트솔라 월마트 의견 재확인 분석 개시"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20261030183200007?input=1195m",
-    "https://econotimes.com/Global-Equity-Funds-Extend-Six-Week-Inflow-Run-as-U-S-Funds-Shed-6-65-Billion-1766916",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16264227",
-    "https://www.bloter.net/news/articleView.html?idxno=677373",
     "https://www.yna.co.kr/view/AKR20261030184500007?input=1195m",
     "https://www.topstarnews.net/news/articleView.html?idxno=16264236",
     "https://www.sentv.co.kr/article/view/sentv202610300225",
@@ -2004,13 +2008,13 @@
     "http://www.newstown.co.kr/news/articleView.html?idxno=720386",
     "http://www.thevaluenews.co.kr/news/view.php?idx=202710",
     "https://biz.sbs.co.kr/article_hub/20000343527?division=NAVER",
-    "http://www.newstown.co.kr/news/articleView.html?idxno=720385"
+    "http://www.newstown.co.kr/news/articleView.html?idxno=720385",
+    "https://www.sedaily.com/article/20108892",
+    "https://www.newspim.com/news/view/20261102000030",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=146509",
+    "https://www.newspim.com/news/view/20261102000053"
    ],
    "seen_titles": [
-    "[IS승장]‘최초개막9연승’김상식삼성감독“상상도못해…우리...",
-    "SK브로드밴드,LS마린솔루션과‘해저케이블안정운용’업무협약",
-    "\"삼성만의모션오펜스덕분\"개막후9연승,새로운역사쓴김상식삼...",
-    "'프로농구역대개막최다9연승'삼성김상식\"기록세울줄누가알았...",
     "[승리뷰]상식매직은어디까지?‘개막9연승+1라운드전승’김상식...",
     "'S-더비'앞둔이관희\"SK도기분나쁘겠지만...우리가잠실의주인이라...",
     "삼성,소노잡고역대개막최다9연승",
@@ -3506,10 +3510,14 @@
     "안성시의회,하수도인상률조정·다자녀사용료면제의결",
     "[두산박정원10년]①구조조정으로사이즈는줄었고신사업은여전히...",
     "[투자자순매수TOP5]외국인,주간매도우위속SK·방산주·건설주순...",
-    "이천시,SK하이닉스방류수재이용확대·규제신중검토제시"
+    "이천시,SK하이닉스방류수재이용확대·규제신중검토제시",
+    "연이은빅테크실적쇼크…삼전닉스4%급락[마켓시그널]",
+    "[AIMY증시전망]코스피,美반도체주급락에약세전망…저가매수유...",
+    "[증시포인트]변동성장세...키옥시아부진한가이던스여파유의",
+    "[월가콜]분석개시·의견재확인...코스트코·월마트·퍼스트솔라(10/..."
    ],
    "initialized": true,
-   "last_run": "2026-11-02T08:35:18.451064+09:00"
+   "last_run": "2026-11-02T08:40:26.110565+09:00"
   }
  },
  "press_names": {
