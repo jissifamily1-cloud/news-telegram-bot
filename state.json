@@ -489,9 +489,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.tvchosun.com/site/data/html_dir/2026/10/30/2026103090134.html",
-    "https://www.ajunews.com/view/20261030134131524",
-    "https://biz.newdaily.co.kr/site/data/html/2026/10/30/2026103000122.html",
     "https://www.g-enews.com/view.php?ud=202610301056591148923c501012_1",
     "https://www.sisaon.co.kr/news/articleView.html?idxno=205659",
     "https://sateconomy.co.kr/news/view/1065579572971985",
@@ -1988,12 +1985,12 @@
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610301747094700984",
     "https://www.jibs.co.kr/news/articles/articlesDetail/67122?feed=na",
     "https://www.koreaherald.com/article/10921632",
-    "https://www.koreaherald.com/article/10921630"
+    "https://www.koreaherald.com/article/10921630",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611010022&t=NN",
+    "https://www.edaily.co.kr/News/Read?newsId=01472726645641456&mediaCodeNo=257",
+    "https://biz.heraldcorp.com/article/10921634"
    ],
    "seen_titles": [
-    "SK하이닉스,미주총괄신설하고글로벌사업강화…사장급인사단행",
-    "SK,주요CEO유임속일부교체…정승일SK이노베이션대표내정",
-    "<오늘의인사>",
     "서버랙밖으로덩치키운BBU…삼성SDI·LG엔솔'원통형'맞대결[N-경...",
     "역대급실적에도전망은제각각…삼전·닉스목표가'온도차'",
     "롯데케미칼,순환경제벤처지원5기출범…고려아연,울산공업축제연...",
@@ -3490,10 +3487,13 @@
     "[해봤습니다]문제풀이1시간→13분…SKT‘AI아침훈련’",
     "안철수\"국민연금주식182조원감소..'연쇄자산파괴범'찾아책임...",
     "SKTelecomseeksreturnsfromworkplaceAIpush",
-    "SolidigmsetbacksendswarningtoKoreanfirmseyeingWallStreet"
+    "SolidigmsetbacksendswarningtoKoreanfirmseyeingWallStreet",
+    "자사주취득도'삼전닉스효과'…전년보다5배이상급증",
+    "AI우려에다시흔들린증시…美중간선거에쏠리는눈[주간증시전망]",
+    "안철수“182조날린국민연금리밸런싱유예…‘국민자산파괴범’끝..."
    ],
    "initialized": true,
-   "last_run": "2026-11-01T11:30:32.389924+09:00"
+   "last_run": "2026-11-01T11:35:17.816771+09:00"
   }
  },
  "press_names": {
