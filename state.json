@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-01T09:20:24.728402+09:00",
-     "투자지원 첨단산업 점검 전력 인허가 202조 충남도 대응 용수"
-    ],
-    [
      "2026-11-01T09:25:18.561235+09:00",
      "영입 코디네이터 김강민 NC KBO 외야 프로야구"
     ],
@@ -410,12 +406,17 @@
     [
      "2026-11-01T15:15:24.238255+09:00",
      "배터리 LG엔솔 공개 ESS용 3사 에이전트 폭풍질문 오가"
+    ],
+    [
+     "2026-11-01T15:20:25.056442+09:00",
+     "하이닉스가 102조 자사주 삼전 시대 매입 쓸어담았다"
+    ],
+    [
+     "2026-11-01T15:20:25.056442+09:00",
+     "조직업무 본격화 생산성 혁신 AX 높인다 SKT AI로"
     ]
    ],
    "seen_urls": [
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=878055",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711220",
-    "https://www.dailian.co.kr/news/view/1708830/?sc=Naver",
     "https://www.vegannews.co.kr/news/article.html?no=398449",
     "https://www.donga.com/news/Politics/article/all/20261030/134939163/1",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=901437",
@@ -1912,12 +1913,12 @@
     "https://www.etoday.co.kr/news/view/2642662",
     "https://www.newsis.com/view/NISX20261101_0003849816",
     "https://www.esgeconomy.com/news/articleView.html?idxno=17184",
-    "https://www.mt.co.kr/industry/2026/11/01/2026110108491583098"
+    "https://www.mt.co.kr/industry/2026/11/01/2026110108491583098",
+    "https://www.dailian.co.kr/news/view/1709179/?sc=Naver",
+    "https://www.etoday.co.kr/news/view/2642663",
+    "https://www.dt.co.kr/article/12092431"
    ],
    "seen_titles": [
-    "드론공격에통신망마비되면?…정부·통신4사복구합동훈련",
-    "배경훈부총리,통신재난회복진두지휘나섰다…과기정통부,안전한국...",
-    "드론공격에통신마비된다면…범정부'통신재난'대응훈련",
     "정부·통신4사,드론공격에따른통신망마비대응훈련",
     "SK텔레콤,AI·드론으로안동산불피해지복원…나무1만그루식재",
     "\"드론공격에통신망마비된다면\"…정부·통신4사,재난대응훈련",
@@ -3414,10 +3415,13 @@
     "코스피한달새16%급락…월간하락률역대7위",
     "올해자사주취득·처분5배증가…삼전·닉스가80%",
     "[특집]수소생산1억톤시대의역설…청정수소는왜1%에도못미쳤나",
-    "LG엔솔ESS용'AI에이전트'첫공개…배터리3사폭풍질문오가"
+    "LG엔솔ESS용'AI에이전트'첫공개…배터리3사폭풍질문오가",
+    "하이닉스AI해커톤예선중단…시스템장애로재응시",
+    "자사주매입102조시대…삼전·하이닉스가80%쓸어담았다",
+    "SKT,AI로조직업무생산성높인다…‘AX혁신2.0’본격화"
    ],
    "initialized": true,
-   "last_run": "2026-11-01T15:15:24.238255+09:00"
+   "last_run": "2026-11-01T15:20:25.056442+09:00"
   }
  },
  "press_names": {
