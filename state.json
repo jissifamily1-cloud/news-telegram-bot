@@ -134,11 +134,17 @@
     [
      "2026-11-02T02:10:26.685533+09:00",
      "이천시 경기광주시 용인시 여주시 성남시"
+    ],
+    [
+     "2026-11-02T03:00:37.277904+09:00",
+     "거품론 코스피가"
+    ],
+    [
+     "2026-11-02T03:00:37.277904+09:00",
+     "상장 회사 손자 나스닥 중복 논란 SK하이닉스 금감원"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10920352",
-    "https://www.koreajoongangdaily.com/business/sk-group-keeps-chiefs-reshuffles-top-executives-to-sharpen-ai-semiconductor-focus/12947318",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=54151",
     "https://news.unn.net/news/articleView.html?idxno=599506",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7191210",
@@ -1636,11 +1642,11 @@
     "http://www.osen.co.kr/article/G1112902435",
     "https://www.segye.com/newsView/20261102500194?OutUrl=naver",
     "https://www.ekn.kr/web/view.php?key=20261102024114015",
-    "https://www.ekn.kr/web/view.php?key=20261102020014002"
+    "https://www.ekn.kr/web/view.php?key=20261102020014002",
+    "https://economychosun.com/site/data/html_dir/2026/10/26/2026102600022.html",
+    "https://economychosun.com/site/data/html_dir/2026/10/26/2026102600021.html"
    ],
    "seen_titles": [
-    "SK하이닉스,일본소부장과공급망결속···사장단인사단행",
-    "SK하이닉스,일본서첫파트너스데이…현지소부장과협력강화",
     "[마감시황]글로벌기술주폭락에짓눌린증시…코스피3.5%급락,5,700선...",
     "코스피3.5%급락5700선마감",
     "[증시인사이트]코스피급락세에장중한때매도사이드카발동",
@@ -3138,10 +3144,12 @@
     "'승점47·46·43'파이널B상위권도전쟁이다...제주무승부사이안양...",
     "이관희가던진‘잠실의주인’논쟁…SK전희철은웃고,삼성김상식은...",
     "용인시,유럽주요도시와반도체·문화·도시인프라외교보폭넓힌다",
-    "[패트롤]여주시-용인시-이천시-경기광주시-성남시"
+    "[패트롤]여주시-용인시-이천시-경기광주시-성남시",
+    "[정원석의매크로리뷰<45>증시패닉긴급진단]코스피가'AI거품론'...",
+    "[재계이슈]SK하이닉스美손자회사나스닥상장논란|금감원\"중복..."
    ],
    "initialized": true,
-   "last_run": "2026-11-02T02:55:20.411255+09:00"
+   "last_run": "2026-11-02T03:00:37.277904+09:00"
   }
  },
  "press_names": {
