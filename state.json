@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-01T10:20:25.384918+09:00",
-     "동력으로 누적 돌파 수출 9300억달러 상승 이어질까 코스피"
-    ],
-    [
-     "2026-11-01T10:25:19.486086+09:00",
-     "동맹 삼성 투자 뚫고 오픈AI와 우려 공급 과잉 넘어"
-    ],
-    [
      "2026-11-01T10:35:18.764634+09:00",
      "인텔 한파에 무너진 반도체 냉혹한 슈퍼사이클의 양극화 PC"
     ],
@@ -482,17 +474,21 @@
     [
      "2026-11-01T16:20:24.515163+09:00",
      "아진산업 안전 높이고 영예 AI로 챙겨 72곳 공정효율"
+    ],
+    [
+     "2026-11-01T16:25:20.259236+09:00",
+     "반도체 밀착 소부장과 이재용 패키징 키운다"
+    ],
+    [
+     "2026-11-01T16:25:20.259236+09:00",
+     "강력 보낸 전승으로 1라운드 추천 MVP는 삼성 감독의 김상식"
+    ],
+    [
+     "2026-11-01T16:25:20.259236+09:00",
+     "지분 송무석 SK오션플랜트 변경 담보 만기 유지"
     ]
    ],
    "seen_urls": [
-    "http://www.joseilbo.com/news/news_read.php?uid=578568&class=17",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1729905",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699900",
-    "https://biz.sbs.co.kr/article_hub/20000343334?division=NAVER",
-    "https://biz.sbs.co.kr/article_hub/20000343335?division=NAVER",
-    "https://www.wikitree.co.kr/articles/1170530",
-    "https://www.jbnews.com/news/articleView.html?idxno=1514778",
-    "https://www.seoul.co.kr/news/economy/securities/2026/10/30/20261030500255?wlog_tag3=naver",
     "https://www.gukjenews.com/news/articleView.html?idxno=3737799",
     "http://www.weeklytoday.com/news/articleView.html?idxno=800451",
     "https://www.job-post.co.kr/news/articleView.html?idxno=235604",
@@ -1984,17 +1980,17 @@
     "https://www.newsis.com/view/NISX20261101_0003849749",
     "https://www.getnews.co.kr/news/articleView.html?idxno=885560",
     "https://www.newspim.com/news/view/20261101000087",
-    "https://www.mk.co.kr/article/12192773"
+    "https://www.mk.co.kr/article/12192773",
+    "https://sports.khan.co.kr/article/202611011622013?pt=nv",
+    "https://www.mydaily.co.kr/page/view/2026110116202928273",
+    "https://www.newspim.com/news/view/20261101000085",
+    "https://biz.chosun.com/it-science/ict/2026/11/01/ZOXCJZRIUFBPDIFO3B6LS5VF7E/",
+    "https://www.koreajoongangdaily.com/business/record-profits-fail-to-shield-samsung-sk-hynix-stocks-as-ai-spending-fears-rattle-markets/12948729",
+    "http://www.4th.kr/news/articleView.html?idxno=2120887",
+    "http://www.rookie.co.kr/news/articleView.html?idxno=129420",
+    "https://www.vegannews.co.kr/news/article.html?no=399064"
    ],
    "seen_titles": [
-    "SK하이닉스,일본서'파트너스데이'개최…현지협력사에사업방향성...",
-    "SK하이닉스,일본서첫협력사행사…AI메모리공급망강화",
-    "한미반도체,SK하이닉스로부터감사패받아…HBM기술혁신공로",
-    "영업이익률50%찍은한미반도체…HBM넘어패키징영토확장",
-    "헝가리새정부'전임그림자지우기'에K배터리긴장,LG엔솔미국공장...",
-    "[인사]SK이노베이션",
-    "[프로필]정승일SK이노베이션총괄사장은누구?…관가·공기업두루거...",
-    "롯데,롯데렌탈1.3조매각완료…재무개선·사업재편가속화",
     "코스피3.48%급락해5730선마감…외국인1.6조원'팔자'에증시휘청",
     "이천시장“SK하이닉스방류수배출규제도입신중해야”",
     "'美기술주삭풍'코스피급락…5700선턱걸이",
@@ -3486,10 +3482,18 @@
     "K리그1울산,강원에2-1역전승…포항은제주와무승부",
     "삼성전자,과불화화합물저감기술개발..내년평택사업장에우선적용",
     "[프로축구]'에릭멀티골'울산,강원에2-1역전승…2위사수",
-    "AI로공정효율높이고안전챙겨…아진산업등72곳영예"
+    "AI로공정효율높이고안전챙겨…아진산업등72곳영예",
+    "‘에릭멀티골’울산,강원에2-1역전승거두며2위수성…박태하감...",
+    "'극적파이널A승선'윤정환감독\"올라갈수있는곳까지올라가고싶...",
+    "상장사자사주매입100조돌파...삼전닉스가80%대부분",
+    "SK하이닉스채용연계AI해커톤,접속오류로예선차질…재응시기회...",
+    "RecordprofitsfailtoshieldSamsung,SKhynixstocksasAIspendingfe",
+    "이재용,日소부장과밀착…AI반도체패키징키운다",
+    "1라운드전승으로보낸삼성김상식감독의강력추천…\"1라운드MVP는...",
+    "송무석,SK오션플랜트지분8.81%유지…담보만기변경"
    ],
    "initialized": true,
-   "last_run": "2026-11-01T16:20:24.515163+09:00"
+   "last_run": "2026-11-01T16:25:20.259236+09:00"
   }
  },
  "press_names": {
