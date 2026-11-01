@@ -221,7 +221,6 @@
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20261030012600315?input=2106m",
     "https://www.besteleven.com/news/articleView.html?idxno=313611",
     "https://www.starnewskorea.com/sports/2026/10/30/2026103016581699991",
     "https://www.globale.co.kr/news/articleView.html?idxno=41340",
@@ -1720,10 +1719,10 @@
     "http://www.kjdaily.com/article.php?aid=1793545598690768276",
     "https://www.kmib.co.kr/article/20261101501508",
     "http://www.kjdaily.com/article.php?aid=1793545622690769276",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=621918"
+    "https://www.cbci.co.kr/news/articleView.html?idxno=621918",
+    "http://www.kjdaily.com/article.php?aid=1793545982690767276"
    ],
    "seen_titles": [
-    "SK하이닉스,이틀째자사주25만주매입…증시하단지지",
     "'너를넘어야울산도끌어내릴수있다''전주성'빅매치,전북현대vs...",
     "“사람못가는급경사지까지”…SKT,AI·드론으로산불피해숲복원",
     "미국빅테크실적우려에코스피3.48%급락…매도사이드카발동",
@@ -3222,10 +3221,11 @@
     "코스피10월16.19%급락…사이드카55회'역대최다'",
     "13개버튼키보드선물한올트먼“AI시대키보드전체필요없을것”",
     "11월국고채12조원발행…초장기물금리영향놓고전망엇갈려",
-    "[증시변동성진단]사이드카벌써55회발동…경제위기없이도유례없..."
+    "[증시변동성진단]사이드카벌써55회발동…경제위기없이도유례없...",
+    "삼성전자·SK하이닉스주가80%동조화…3분기실적발표엔엇갈려"
    ],
    "initialized": true,
-   "last_run": "2026-11-02T00:15:22.970462+09:00"
+   "last_run": "2026-11-02T00:20:24.812338+09:00"
   }
  },
  "press_names": {
