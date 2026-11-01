@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-01T18:50:22.667323+09:00",
-     "성과 사원 잘하고 있나 SKT 들여다본다"
-    ],
-    [
      "2026-11-01T18:55:19.399568+09:00",
      "마침표 S더비 무패 완승으로 삼성 5연승 찍은 행진"
     ],
@@ -186,11 +182,13 @@
     [
      "2026-11-02T00:45:22.691462+09:00",
      "월요일 인텔 검은 하루에만 폭락한 공포 반도체"
+    ],
+    [
+     "2026-11-02T00:50:24.773439+09:00",
+     "확대 에이전트 돌리는 1500개 개인 전반으로 SKT"
     ]
    ],
    "seen_urls": [
-    "https://www.sportsworldi.com/newsView/20261030512573",
-    "https://weekly.donga.com/3/all/11/6439840/1",
     "https://www.mediapen.com/news/view/1134001",
     "https://www.sisajournal.com/news/articleView.html?idxno=392394",
     "https://www.m-i.kr/news/articleView.html?idxno=2012670",
@@ -1688,11 +1686,11 @@
     "http://www.kjdaily.com/article.php?aid=1793547213690771276",
     "https://www.joongang.co.kr/article/25474854",
     "https://www.chosun.com/sports/basketball/2026/11/02/AZ744HAK7BBXXCWVNBAIEM6BBM/",
-    "https://www.kmib.co.kr/article/20261101501411"
+    "https://www.kmib.co.kr/article/20261101501411",
+    "http://www.kjdaily.com/article.php?aid=1793547926690770276",
+    "https://www.kmib.co.kr/article/20261101501412"
    ],
    "seen_titles": [
-    "블루포인트·씨엔티테크,제2회NEST혁신포럼개최…공공기술사업화에...",
-    "'SEP2026'사흘간일정마무리…'만석행진'콘퍼런스뜨거운관심",
     "SK하이닉스,청주산업도로에3.3㎞숲길조성",
     "YonhapNewsSummary",
     "[오피셜]포항스틸러스,박태하감독과끝내결별…김성재수석코치...",
@@ -3190,10 +3188,12 @@
     "상장사자사주취득·처분신고액102조원…삼성전자·SK하이닉스가80%",
     "AI붐에발목잡혔다…인텔52년만에29%최악폭락",
     "프로농구SK,삼성10연승막아",
-    "하루에만28%폭락한인텔…韓반도체‘검은월요일’공포"
+    "하루에만28%폭락한인텔…韓반도체‘검은월요일’공포",
+    "삼성전자·SK하이닉스반도체시총2천486조…바이오의10.5배",
+    "1500개AI에이전트돌리는SKT…개인→조직전반으로확대"
    ],
    "initialized": true,
-   "last_run": "2026-11-02T00:45:22.691462+09:00"
+   "last_run": "2026-11-02T00:50:24.773439+09:00"
   }
  },
  "press_names": {
