@@ -570,11 +570,17 @@
     [
      "2026-11-01T21:30:32.448594+09:00",
      "최고가는 대구 500만원 아파트 200만 월세"
+    ],
+    [
+     "2026-11-01T21:35:18.070166+09:00",
+     "500조 넘던 450조대로 ETF 순자산"
+    ],
+    [
+     "2026-11-01T21:35:18.070166+09:00",
+     "둔화가 삼성전자 건설 전자 다른 호조 이유 포스코 침체 경기"
     ]
    ],
    "seen_urls": [
-    "https://www.joongangenews.com/news/articleView.html?idxno=560026",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=450816",
     "https://www.ytn.co.kr/_ln/0102_202610301650356550",
     "https://www.ntoday.co.kr/news/articleView.html?idxno=130501",
     "http://www.breaknews.com/1247241",
@@ -2072,11 +2078,11 @@
     "https://www.seoulfn.com/news/articleView.html?idxno=641578",
     "https://www.yeongnam.com/web/view.php?key=20261101024058155",
     "https://gj.newdaily.co.kr/site/data/html/2026/10/31/2026103100053.html",
-    "https://www.yeongnam.com/web/view.php?key=20261101025218157"
+    "https://www.yeongnam.com/web/view.php?key=20261101025218157",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=564073",
+    "https://sateconomy.co.kr/news/view/1065615750815654"
    ],
    "seen_titles": [
-    "SK하이닉스방류수규제에이천시장\"신중해야\"…경기도와온도차",
-    "SK하이닉스,일본서첫'파트너스데이'개최…반도체공급망협력강화",
     "코스피3.48%급락한5,730선마감...외국인1.6조매도에사이드카발동",
     "SK하이닉스,일본협력사와첫'파트너스데이'개최…AI메모리시대공...",
     "[코스피지수선물옵션]삼성전자·SK하이닉스선물동반급락…삼성바...",
@@ -3574,10 +3580,12 @@
     "[주간증시전망]코스피,'인텔쇼크'속5700선출발···美중간선거'...",
     "[차별적균형발전]호남엔팹,TK엔소부장…국가전략산업도‘TK패싱...",
     "GGM노사잠정합의…전남광주통합특별시‘제2광주형일자리협약’준...",
-    "[심상찮은임대차시장]대구아파트월세최고가는‘500만원’…200만..."
+    "[심상찮은임대차시장]대구아파트월세최고가는‘500만원’…200만...",
+    "500조넘던ETF순자산,450조대로",
+    "삼성전자·포스코,中경기둔화가다른이유…전자호조·건설침체"
    ],
    "initialized": true,
-   "last_run": "2026-11-01T21:30:32.448594+09:00"
+   "last_run": "2026-11-01T21:35:18.070166+09:00"
   }
  },
  "press_names": {
