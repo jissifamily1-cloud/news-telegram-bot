@@ -373,9 +373,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsian.co.kr/news/articleView.html?idxno=100289",
-    "https://www.cstimes.com/news/articleView.html?idxno=726007",
-    "https://www.ekn.kr/web/view.php?key=20261030027033360",
     "https://www.lawissue.co.kr/view.php?ud=20261030115818164204ead0791_12",
     "https://www.youthdaily.co.kr/news/article.html?no=229125",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610301141194380905",
@@ -1872,12 +1869,12 @@
     "https://www.viva100.com/article/20261101500043",
     "https://biz.chosun.com/stock/stock_general/2026/11/01/ZUH6EMLIDBHBBCEHMLCLREFW2M/",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=878427",
-    "https://www.edaily.co.kr/News/Read?newsId=01223446645641456&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01223446645641456&mediaCodeNo=257",
+    "https://www.segye.com/newsView/20261101503316?OutUrl=naver",
+    "http://www.press9.kr/news/articleView.html?idxno=85334",
+    "https://www.dt.co.kr/article/12092360"
    ],
    "seen_titles": [
-    "한미반도체,3Q영업이익908억원···이익률50%돌파",
-    "SK하이닉스,미주총괄사장급조직신설…'HBM신화'안현사장전진배치",
-    "SK,'반도체유임·에너지쇄신'인사…실무형리더전면배치",
     "코스피5%대급락에매도사이드카발동…AI투자비부담부각",
     "SK그룹,2027년사장단인사…에너지계열사경영진재편·동남아총괄...",
     "\"안정속쇄신\"…SK그룹,주요CEO유임·글로벌사업재편",
@@ -3374,10 +3371,13 @@
     "충남도,202조첨단산업투자지원점검…인허가·전력·용수대응",
     "올해자사주취득·처분5배이상늘어…삼전·닉스가80%차지",
     "프로야구NC,김강민외야코디네이터영입…KBO최초",
-    "AI시대,전문가는지고고수가뜬다[김현아의IT세상읽기]"
+    "AI시대,전문가는지고고수가뜬다[김현아의IT세상읽기]",
+    "AI거품론에시총187조증발한인텔…반도체투자자들도비상[반도체...",
+    "SKT,AI활용넘어업무방식바꾼다…전사AX혁신2.0가속",
+    "증시변동성다시폭발…올해사이드카역대최다‘55회’"
    ],
    "initialized": true,
-   "last_run": "2026-11-01T09:25:18.561235+09:00"
+   "last_run": "2026-11-01T09:30:11.964926+09:00"
   }
  },
  "press_names": {
