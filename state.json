@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-01T07:50:25.162547+09:00",
-     "막판 이틀간 삼성전자우 하락 주가 상승"
-    ],
-    [
      "2026-11-01T08:05:31.286427+09:00",
      "인수설에 주가 반토막 JYP엔터 실적은 반등했지만 먹구름"
     ],
@@ -482,11 +478,17 @@
     [
      "2026-11-01T13:45:22.946659+09:00",
      "국민 안철수 정권에 흔들려선 운용 노후자금 따라 원칙"
+    ],
+    [
+     "2026-11-01T13:50:25.672133+09:00",
+     "회동 협력 삼성 올트먼 강화 반도체"
+    ],
+    [
+     "2026-11-01T13:50:25.672133+09:00",
+     "차이인데 2위 4점 파이널 울산과 제주 B라니 겨우 의연한"
     ]
    ],
    "seen_urls": [
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=303837",
-    "http://www.kdfnews.com/news/articleView.html?idxno=190215",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500087",
     "https://www.the-pr.co.kr/news/articleView.html?idxno=63106",
     "https://www.newsis.com/view/NISX20261030_0003848218",
@@ -1984,11 +1986,11 @@
     "https://www.pennmike.com/news/articleView.html?idxno=130706",
     "https://www.iusm.co.kr/news/articleView.html?idxno=1069871",
     "https://www.yna.co.kr/view/AKR20261101025500003?input=1195m",
-    "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160282140558007"
+    "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160282140558007",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4442365",
+    "https://www.besteleven.com/news/articleView.html?idxno=313651"
    ],
    "seen_titles": [
-    "SKT,안동산불피해지역산림복원현황공유…AI로숲살린다",
-    "일반소비재는죽고명품만산다?…롯데·신세계·현대백화점,반도체...",
     "SK하이닉스,日반도체협력사와공급망협력…기술로드맵공유",
     "양자암호·컴퓨팅기술개척경쟁…양자테마,라온시큐어폭등속양극...",
     "SK하이닉스,일본서첫'파트너스데이'…AI메모리공급망협력강화",
@@ -3486,10 +3488,12 @@
     "[재계핫이슈]인텔의역대급대폭락은삼전닉스초호황'반작용'...블랙...",
     "울산남구·중국염성시,자매결연5주년맞아교류확대",
     "채용혜택내건SK하이닉스AI해커톤,시스템장애로예선중단",
-    "野안철수“국민노후자금운용원칙,정권에따라흔들려선안돼”"
+    "野안철수“국민노후자금운용원칙,정권에따라흔들려선안돼”",
+    "샘올트먼,삼성·SK회동…AI·반도체협력강화",
+    "[B11현장]2위울산과겨우4점차이인데파이널B라니…의연한제주..."
    ],
    "initialized": true,
-   "last_run": "2026-11-01T13:45:22.946659+09:00"
+   "last_run": "2026-11-01T13:50:25.672133+09:00"
   }
  },
  "press_names": {
