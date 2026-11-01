@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-01T09:45:22.953439+09:00",
-     "일반산단 용인 확충 국가 기반시설 반도체 속도 주차장 교통대책"
-    ],
-    [
-     "2026-11-01T09:45:22.953439+09:00",
-     "임박 통신사 3분기 승자는 실적발표"
-    ],
-    [
-     "2026-11-01T09:45:22.953439+09:00",
-     "시장 넓힌다 용인시 반도체 지평 문화예술 이상일 네덜란드와 교류"
-    ],
-    [
      "2026-11-01T09:50:25.546136+09:00",
      "육성에 가속화 인재 보안 대비까지 재난"
     ],
@@ -474,12 +462,17 @@
     [
      "2026-11-01T15:40:24.958377+09:00",
      "김재희 지점으로 목표 날린다"
+    ],
+    [
+     "2026-11-01T15:45:24.454140+09:00",
+     "제주SK 판다컵 태극마크 출격 달고 강동휘"
+    ],
+    [
+     "2026-11-01T15:45:24.454140+09:00",
+     "1022조 고작 8일 20거래일 증발 상승은 코스피 시총"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/local/daejeon-chungnam/6337974",
-    "https://www.thepublic.kr/news/articleView.html?idxno=324500",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1729901",
     "https://www.nocutnews.co.kr/news/6599866",
     "https://www.mt.co.kr/industry/2026/10/30/2026103013571615648",
     "https://www.socialvalue.kr/news/view/1065593035509988",
@@ -1976,12 +1969,12 @@
     "https://www.esgeconomy.com/news/articleView.html?idxno=17199",
     "https://www.seoul.co.kr/news/economy/securities/2026/11/01/20261101500061?wlog_tag3=naver",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500352",
-    "https://www.edaily.co.kr/News/Read?newsId=02689606645641456&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=02689606645641456&mediaCodeNo=257",
+    "https://www.eroun.net/news/articleView.html?idxno=93999",
+    "https://www.jemin.com/news/articleView.html?idxno=845856",
+    "https://www.newsian.co.kr/news/articleView.html?idxno=100380"
    ],
    "seen_titles": [
-    "한미반도체,3분기영업익34%증가…SK하이닉스감사패도",
-    "한미반도체,SK하이닉스와10년기술협력…\"차세대HBM장비경쟁력강화...",
-    "SK하이닉스,HBM4양산확대속새진용…안현美전진배치",
     "'月1500만이용'티맵,골드만삭스품에안기나…SK스퀘어매각협상",
     "SK하이닉스,일본서첫'파트너스데이'개최…중장기사업방향공유",
     "배터리3사,전기차부진ESS로메운다…실적회복은온도차",
@@ -3478,10 +3471,13 @@
     "국민연금리밸런싱유예동안외국인'대박'개인'쪽박'?…국정조사로...",
     "“월요일주식앱열기겁난다”…AI·반도체주가에불어닥친삭풍",
     "낸드고단화에HBM진입까지…마이크로투나노성장판넓힌다",
-    "[포토]김재희,목표지점으로날린다"
+    "[포토]김재희,목표지점으로날린다",
+    "SKT,전사AI전환가속화…'AX혁신2.0'추진",
+    "제주SK강동휘,태극마크달고판다컵출격",
+    "20거래일중상승은고작8일…한달새코스피시총1022조증발"
    ],
    "initialized": true,
-   "last_run": "2026-11-01T15:40:24.958377+09:00"
+   "last_run": "2026-11-01T15:45:24.454140+09:00"
   }
  },
  "press_names": {
