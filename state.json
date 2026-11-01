@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-01T09:15:23.143742+09:00",
-     "11월 전망 입주협약 현실화 투자기업 호남 반도체"
-    ],
-    [
-     "2026-11-01T09:15:23.143742+09:00",
-     "제시 방안 관리 논란 방류수 SK하이닉스 이천시 수질"
-    ],
-    [
      "2026-11-01T09:20:24.728402+09:00",
      "투자지원 첨단산업 점검 전력 인허가 202조 충남도 대응 용수"
     ],
@@ -410,13 +402,17 @@
     [
      "2026-11-01T15:10:25.498011+09:00",
      "유예 지시인가 자산 누구 국민연금 리밸런싱 연쇄 파괴범 안철수"
+    ],
+    [
+     "2026-11-01T15:15:24.238255+09:00",
+     "수소 1억 시대의 미쳤나 생산 청정수소는 에도 역설"
+    ],
+    [
+     "2026-11-01T15:15:24.238255+09:00",
+     "배터리 LG엔솔 공개 ESS용 3사 에이전트 폭풍질문 오가"
     ]
    ],
    "seen_urls": [
-    "https://zdnet.co.kr/view/?no=20261030104551",
-    "http://www.thefirstmedia.net/news/articleView.html?idxno=212267",
-    "https://www.news1.kr/it-science/cc-newmedia/6337375",
-    "https://www.widedaily.com/news/articleView.html?idxno=302570",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=878055",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711220",
     "https://www.dailian.co.kr/news/view/1708830/?sc=Naver",
@@ -1912,13 +1908,13 @@
     "http://www.yonhapnewstv.co.kr/news/AKR20261101150623DZE",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000078525",
     "https://www.g-enews.com/view.php?ud=2026103013565639427fa31d75c_1",
-    "https://news.tvchosun.com/site/data/html_dir/2026/11/01/2026110190066.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/11/01/2026110190066.html",
+    "https://www.etoday.co.kr/news/view/2642662",
+    "https://www.newsis.com/view/NISX20261101_0003849816",
+    "https://www.esgeconomy.com/news/articleView.html?idxno=17184",
+    "https://www.mt.co.kr/industry/2026/11/01/2026110108491583098"
    ],
    "seen_titles": [
-    "과기정통부,통신재난대응훈련…신속복구·보호체계점검",
-    "최고실적·최대주주환원에도엇갈린삼성전자·SK하이닉스주가…핵심...",
-    "SK하이닉스,HBM개발수장북미전진배치···AI빅테크협력강화",
-    "SK하이닉스,日소부장20여곳과기술로드맵공유…공급망협력강화",
     "드론공격에통신망마비되면?…정부·통신4사복구합동훈련",
     "배경훈부총리,통신재난회복진두지휘나섰다…과기정통부,안전한국...",
     "드론공격에통신마비된다면…범정부'통신재난'대응훈련",
@@ -3414,10 +3410,14 @@
     "채용혜택내건SK하이닉스AI해커톤,시스템장애에예선중단",
     "광주반도체산단진입도로확충…동서남북교통망연결",
     "숫자로장기호황증명한삼전닉스…반도체고점론불식",
-    "안철수\"국민연금리밸런싱유예,누구지시인가…'연쇄자산파괴범'찾..."
+    "안철수\"국민연금리밸런싱유예,누구지시인가…'연쇄자산파괴범'찾...",
+    "코스피한달새16%급락…월간하락률역대7위",
+    "올해자사주취득·처분5배증가…삼전·닉스가80%",
+    "[특집]수소생산1억톤시대의역설…청정수소는왜1%에도못미쳤나",
+    "LG엔솔ESS용'AI에이전트'첫공개…배터리3사폭풍질문오가"
    ],
    "initialized": true,
-   "last_run": "2026-11-01T15:10:25.498011+09:00"
+   "last_run": "2026-11-01T15:15:24.238255+09:00"
   }
  },
  "press_names": {
