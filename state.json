@@ -478,13 +478,13 @@
     [
      "2026-11-01T16:15:23.963167+09:00",
      "울산 에릭 2위 멀티골 역전승 강원에 사수 K리그1"
+    ],
+    [
+     "2026-11-01T16:20:24.515163+09:00",
+     "아진산업 안전 높이고 영예 AI로 챙겨 72곳 공정효율"
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/industry/2026/10/30/2026103010252581828",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=450786",
-    "https://www.ngetnews.com/news/articleView.html?idxno=555359",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=885434",
     "http://www.joseilbo.com/news/news_read.php?uid=578568&class=17",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1729905",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699900",
@@ -1980,13 +1980,13 @@
     "https://www.hankyung.com/article/2026110183997",
     "https://www.kgnews.co.kr/news/article.html?no=917683",
     "http://www.footballist.co.kr/news/articleView.html?idxno=216364",
-    "https://www.yna.co.kr/view/AKR20261101033900007?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261101033900007?input=1195m",
+    "https://www.newsis.com/view/NISX20261101_0003849749",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=885560",
+    "https://www.newspim.com/news/view/20261101000087",
+    "https://www.mk.co.kr/article/12192773"
    ],
    "seen_titles": [
-    "SK하이닉스,‘파트너스데이’일본서첫개최…현지협력사와사업공...",
-    "SK최태원AI·반도체핵심계열사사장모두'유임',에너지·화학은새...",
-    "모건스탠리\"美빅테크설비투자위축되면한국수출타격\"",
-    "한미반도체,SK하이닉스서감사패…HBM기술혁신공로",
     "SK하이닉스,일본서'파트너스데이'개최…현지협력사에사업방향성...",
     "SK하이닉스,일본서첫협력사행사…AI메모리공급망강화",
     "한미반도체,SK하이닉스로부터감사패받아…HBM기술혁신공로",
@@ -3482,10 +3482,14 @@
     "\"SK하닉취업기회였는데…\"시스템장애로'AI해커톤'파행",
     "성수석이천시장“SK하이닉스방류수규제도입,신중한접근필요”",
     "'이기면잔류'부천이영민\"우리선수들도자존심있다\"안양전필승다...",
-    "'에릭멀티골'울산,강원에2-1역전승…K리그12위사수"
+    "'에릭멀티골'울산,강원에2-1역전승…K리그12위사수",
+    "K리그1울산,강원에2-1역전승…포항은제주와무승부",
+    "삼성전자,과불화화합물저감기술개발..내년평택사업장에우선적용",
+    "[프로축구]'에릭멀티골'울산,강원에2-1역전승…2위사수",
+    "AI로공정효율높이고안전챙겨…아진산업등72곳영예"
    ],
    "initialized": true,
-   "last_run": "2026-11-01T16:15:23.963167+09:00"
+   "last_run": "2026-11-01T16:20:24.515163+09:00"
   }
  },
  "press_names": {
