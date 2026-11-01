@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-01T12:50:26.206655+09:00",
-     "4F 반도체주 긴장 국내 공개에 중국 다시 부각 메모리 굴기"
-    ],
-    [
      "2026-11-01T13:00:47.527789+09:00",
      "미쳤다 최다 한국만 증가한 일본은 역대 이것 줄었는데"
     ],
@@ -722,15 +718,17 @@
     [
      "2026-11-01T18:50:22.667323+09:00",
      "성과 사원 잘하고 있나 SKT 들여다본다"
+    ],
+    [
+     "2026-11-01T18:55:19.399568+09:00",
+     "마침표 S더비 무패 완승으로 삼성 5연승 찍은 행진"
+    ],
+    [
+     "2026-11-01T18:55:19.399568+09:00",
+     "더비 승리는 시즌"
     ]
    ],
    "seen_urls": [
-    "https://www.smarttoday.co.kr/ko-kr/articles/113328",
-    "https://www.newsis.com/view/NISX20261030_0003847907",
-    "https://biz.sbs.co.kr/article_hub/20000343363?division=NAVER",
-    "https://www.yna.co.kr/view/AKR20261030141900003?input=1195m",
-    "https://sports.hankooki.com/news/articleView.html?idxno=6942599",
-    "https://www.donga.com/news/Sports/article/all/20261030/134939694/1",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500139",
     "https://zdnet.co.kr/view/?no=20261030155643",
     "https://www.koreatimes.co.kr/path/A2026103014300001846",
@@ -2224,14 +2222,15 @@
     "http://www.srtimes.kr/news/articleView.html?idxno=216409",
     "https://www.mk.co.kr/article/12192973",
     "https://www.kmib.co.kr/article/20261101501232",
-    "https://www.fnnews.com/news/202611011845032145"
+    "https://www.fnnews.com/news/202611011845032145",
+    "https://www.maniareport.com/view.php?ud=2026110116402643556cf2d78c68_19",
+    "https://www.newsis.com/view/NISI20261101_0021513798",
+    "https://www.newsis.com/view/NISI20261101_0021513797",
+    "https://www.yna.co.kr/view/AKR20261101033951007?input=1195m",
+    "https://www.segye.com/newsView/20261101510072?OutUrl=naver",
+    "https://www.newsis.com/view/NISI20261101_0021513796"
    ],
    "seen_titles": [
-    "코스피,매도사이드카발동…5730선하락마감",
-    "최윤범호고려아연,역대최대반도체성과수혜주'급부상'…미국시...",
-    "[종합]SK그룹최태원號,'안정속쇄신'사장단인사‥정승일발탁'에...",
-    "미국기술주충격에코스피3.48%급락",
-    "AI발매도폭풍에코스피3%급락...다음주美중간선거주목",
     "액션스퀘어→넥써쓰→원,끝없이진화한'장현국호'의2년",
     "'시키는AI'에서'일하는AI'로…청주서미래업무논의",
     "[인사]기후에너지환경부외",
@@ -3726,10 +3725,15 @@
     "SKT,'AX혁신2.0'속도…조직전체업무생산성혁신나선다",
     "[단독]석화구조조정한파에...근로자55%만재취업",
     "“AI쓰는것만으론부족하다”…샘올트먼,삼성사장단과‘AI가바꿀...",
-    "AI사원일잘하고있나…SKT,성과들여다본다"
+    "AI사원일잘하고있나…SKT,성과들여다본다",
+    "'자책골로끌려가다역전'울산,에릭멀티골로강원2-1제압",
+    "SK,삼성10연승저지",
+    "'에릭멀티골'울산,강원에2-1역전승…K리그12위사수(종합)",
+    "삼성‘무패행진’마침표찍은SK…‘S더비’서90-76완승으로5연승",
+    "시즌첫'S-더비'승리는SK"
    ],
    "initialized": true,
-   "last_run": "2026-11-01T18:50:22.667323+09:00"
+   "last_run": "2026-11-01T18:55:19.399568+09:00"
   }
  },
  "press_names": {
