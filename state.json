@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-01T06:40:25.071709+09:00",
-     "사이드카도 역대 최다 코스피 급락"
-    ],
-    [
      "2026-11-01T07:05:18.242805+09:00",
      "넥써쓰 합병 하나로 원스토어 간판부터 앞서"
     ],
@@ -429,8 +425,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.newdaily.co.kr/site/data/html/2026/10/30/2026103000211.html",
-    "https://www.newswhoplus.com/news/articleView.html?idxno=73090",
     "http://www.4th.kr/news/articleView.html?idxno=2120800",
     "https://www.g-enews.com/view.php?ud=202610301209462619bb91c46fcd_1",
     "https://www.newsis.com/view/NISX20261030_0003848406",
@@ -1928,11 +1922,11 @@
     "https://www.newsworks.co.kr/news/articleView.html?idxno=901540",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500313",
     "https://www.ajunews.com/view/20261101113427410",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611010028&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611010028&t=NN",
+    "https://www.tokenpost.kr/news/blockchain/430803",
+    "https://www.kfenews.co.kr/news/articleView.html?idxno=667325"
    ],
    "seen_titles": [
-    "[CEO열전]SK디스커버리신임대표에윤병석전SK가스사장선임…미래...",
-    "코스피,낙폭줄이며5700선위로…삼전닉스2~5%↓",
     "SK,반도체지키고에너지바꿨다…사장단인사단행",
     "SK하이닉스,日첫'파트너스데이'..소부장협력사공급망강화",
     "美AI투자선행지표된한국수출…모건스탠리\"韓,대미수출2000억달...",
@@ -3430,10 +3424,12 @@
     "SKT,'AX혁신2.0'가속…\"개인에서조직으로,편의에서실용으로\"",
     "저PBR상장사151곳첫공개…한국증시고질적저평가바뀔까",
     "[아주사설│기본·원칙·상식]'AI도입'넘어'경쟁우위'창출에사활...",
-    "CXMT\"4F²D램시제픔검증완료\"…바짝쫓는中반도체"
+    "CXMT\"4F²D램시제픔검증완료\"…바짝쫓는中반도체",
+    "[로빈후드온체인]포에버거래대금이하루만에3.3배로뛰어...SPDRS&P...",
+    "최태원SK회장·샘올트먼오찬회동…'AI협력'강화"
    ],
    "initialized": true,
-   "last_run": "2026-11-01T12:40:24.492558+09:00"
+   "last_run": "2026-11-01T12:45:24.012325+09:00"
   }
  },
  "press_names": {
