@@ -457,9 +457,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/economy/2382993.htm",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092173179",
-    "https://www.ytn.co.kr/_ln/0115_202610301310381524",
     "http://www.kjdaily.com/article.php?aid=1793333298690717276",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601330",
     "https://www.jjan.kr/article/20261030500011",
@@ -1956,12 +1953,12 @@
     "https://www.newsis.com/view/NISX20261101_0003849639",
     "https://www.newspim.com/news/view/20261101000031",
     "https://www.g-enews.com/view.php?ud=202611011019143366fbbec65dfb_1",
-    "https://www.segye.com/newsView/20261101504045?OutUrl=naver"
+    "https://www.segye.com/newsView/20261101504045?OutUrl=naver",
+    "https://www.m-economynews.com/news/article.html?no=72375",
+    "https://www.dt.co.kr/article/12092378",
+    "http://www.kjdaily.com/article.php?aid=1793496904690774276"
    ],
    "seen_titles": [
-    "SK일렉링크,SK시그넷경영권100%인수…전기차충전풀밸류체인구축",
-    "막오른4대그룹CEO인사…'안정속쇄신'추구전망",
-    "SK사장단인사,쇄신보다안정…성장사업집중",
     "[경기]이천시\"SK방류수배출규제신중히접근해야\"",
     "한화플러스제6호스팩회전율387%…인텔리빅스·크리에이츠도상위권",
     "'파이널A무산됐지만끝이아니라시작'제주SK,포항잡고7위수성나...",
@@ -3458,10 +3455,13 @@
     "코스피한달만에16%빠졌다…변동성다시확대되나",
     "안철수\"국민연금182조증발,리밸런싱유예누구지시인가\"",
     "PC한파에무너진인텔…반도체슈퍼사이클의냉혹한양극화",
-    "롤러코스터탄10월증시…11월‘美선거·빅테크실적’에쏠린눈"
+    "롤러코스터탄10월증시…11월‘美선거·빅테크실적’에쏠린눈",
+    "삼성전자,반도체폐수유해물질저감기술개발...내년평택사업장적...",
+    "“이재명대통령지시였나”…안철수,국민연금리밸런싱유예철저검...",
+    "[이번주증시]美반도체주급락…코스피향방은"
    ],
    "initialized": true,
-   "last_run": "2026-11-01T10:35:18.764634+09:00"
+   "last_run": "2026-11-01T10:40:23.004723+09:00"
   }
  },
  "press_names": {
