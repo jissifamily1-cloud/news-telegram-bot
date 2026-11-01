@@ -466,11 +466,13 @@
     [
      "2026-11-01T14:45:23.143563+09:00",
      "3개사 1630억 부산시 776명 LS 기대 고용 쿠팡 투자유치"
+    ],
+    [
+     "2026-11-01T14:50:25.236015+09:00",
+     "상금에 채용 SK하닉 스펙 AI해커톤 시스템장애 불문 1억"
     ]
    ],
    "seen_urls": [
-    "http://www.inews24.com/view/2020943",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=235631",
     "https://www.impacton.net/news/articleView.html?idxno=30360",
     "https://news.tf.co.kr/read/economy/2382977.htm",
     "https://www.dongponews.net/news/articleView.html?idxno=61373",
@@ -1968,11 +1970,11 @@
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5228338",
     "https://www.ajunews.com/view/20261101142532709",
     "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000557818",
-    "https://www.iusm.co.kr/news/articleView.html?idxno=1069885"
+    "https://www.iusm.co.kr/news/articleView.html?idxno=1069885",
+    "http://www.inews24.com/view/2021223",
+    "https://www.dt.co.kr/article/12092423"
    ],
    "seen_titles": [
-    "SK하이닉스,日소부장20개사와‘원팀’…‘파트너스데이’개최",
-    "삼성전자·SK하이닉스,역대급실적에도다른셈법…HBM·투자·주주환...",
     "한미반도체,SK하이닉스감사패수령…\"HBM장비경쟁력강화\"",
     "SK하이닉스,일본서첫파트너스데이…반도체공급망협력강화",
     "LPG가격11월75원/㎏↑…12월가격조정도고심불가피",
@@ -3470,10 +3472,12 @@
     "중국CXMT,\"차세대D램시제품검증완료…점진적양산\"",
     "샘올트먼방한에삼성·SK'AI동맹'가속…반도체·데이터센터협력확...",
     "“개인메모리사용5%,비효율적”샘올트먼,데이터센터메모리확대...",
-    "부산시,쿠팡·LS등3개사1630억투자유치…776명고용기대"
+    "부산시,쿠팡·LS등3개사1630억투자유치…776명고용기대",
+    "中CXMT,차세대D램'4F²'시제품검증완료⋯\"연말DDR5샘플공급\"",
+    "[속보]1억상금에‘스펙불문채용’SK하닉AI해커톤…시스템장애,예..."
    ],
    "initialized": true,
-   "last_run": "2026-11-01T14:45:23.143563+09:00"
+   "last_run": "2026-11-01T14:50:25.236015+09:00"
   }
  },
  "press_names": {
