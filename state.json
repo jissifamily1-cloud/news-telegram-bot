@@ -178,11 +178,13 @@
     [
      "2026-11-02T00:50:24.773439+09:00",
      "확대 에이전트 돌리는 1500개 개인 전반으로 SKT"
+    ],
+    [
+     "2026-11-02T01:05:18.971963+09:00",
+     "잠실의 주인 논쟁 삼성 던진 이관희가 전희철은 웃고 김상식은"
     ]
    ],
    "seen_urls": [
-    "https://www.mediapen.com/news/view/1134001",
-    "https://www.sisajournal.com/news/articleView.html?idxno=392394",
     "https://www.m-i.kr/news/articleView.html?idxno=2012670",
     "https://www.jemin.com/news/articleView.html?idxno=845787",
     "https://biz.heraldcorp.com/article/10920352",
@@ -1680,11 +1682,11 @@
     "https://www.chosun.com/sports/basketball/2026/11/02/AZ744HAK7BBXXCWVNBAIEM6BBM/",
     "https://www.kmib.co.kr/article/20261101501411",
     "http://www.kjdaily.com/article.php?aid=1793547926690770276",
-    "https://www.kmib.co.kr/article/20261101501412"
+    "https://www.kmib.co.kr/article/20261101501412",
+    "http://www.osen.co.kr/article/G1112902435",
+    "https://www.segye.com/newsView/20261102500194?OutUrl=naver"
    ],
    "seen_titles": [
-    "SK하이닉스,청주산업도로에3.3㎞숲길조성",
-    "YonhapNewsSummary",
     "[오피셜]포항스틸러스,박태하감독과끝내결별…김성재수석코치...",
     "[오피셜]'파이널A좌절'포항,박태하감독과결별...1일제주전부터...",
     "SK하이닉스,일본소부장과공급망결속···사장단인사단행",
@@ -3182,10 +3184,12 @@
     "프로농구SK,삼성10연승막아",
     "하루에만28%폭락한인텔…韓반도체‘검은월요일’공포",
     "삼성전자·SK하이닉스반도체시총2천486조…바이오의10.5배",
-    "1500개AI에이전트돌리는SKT…개인→조직전반으로확대"
+    "1500개AI에이전트돌리는SKT…개인→조직전반으로확대",
+    "'승점47·46·43'파이널B상위권도전쟁이다...제주무승부사이안양...",
+    "이관희가던진‘잠실의주인’논쟁…SK전희철은웃고,삼성김상식은..."
    ],
    "initialized": true,
-   "last_run": "2026-11-02T01:00:36.304551+09:00"
+   "last_run": "2026-11-02T01:05:18.971963+09:00"
   }
  },
  "press_names": {
