@@ -342,11 +342,17 @@
     [
      "2026-11-02T07:25:19.752999+09:00",
      "시스템 최악의 SK하이닉스 상황 오류로 인재 해커톤 재개 대회"
+    ],
+    [
+     "2026-11-02T07:30:32.840572+09:00",
+     "국내외 경제뉴스 알아야"
+    ],
+    [
+     "2026-11-02T07:30:32.840572+09:00",
+     "소재업체에 먼저 소송 기각에도 배터리 규제 공장 CATL 헝가리 타격"
     ]
    ],
    "seen_urls": [
-    "https://futurechosun.com/?p=165162",
-    "https://www.sentv.co.kr/article/view/sentv202610300109",
     "https://www.koit.co.kr/news/articleView.html?idxno=209731",
     "https://www.greened.kr/news/articleView.html?idxno=353536",
     "https://www.electimes.com/news/articleView.html?idxno=374175",
@@ -1844,11 +1850,11 @@
     "https://www.besteleven.com/news/articleView.html?idxno=313671",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1730009",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005952442",
-    "https://www.gokorea.kr/news/articleView.html?idxno=883651"
+    "https://www.gokorea.kr/news/articleView.html?idxno=883651",
+    "https://www.fntimes.com/html/view.php?ud=202611020707017191141825007d_18",
+    "https://www.g-enews.com/view.php?ud=2026110207175723312bd56fbc3c_1"
    ],
    "seen_titles": [
-    "코스피'AI수익성'이란'악령'에시달린다",
-    "107조벌고도주가는뒷걸음질…삼성전자,SK하이닉스와갈린'주주환원...",
     "호실적에도AI쇼크로흔들린코스피…4분기도삼전·하닉에기댄다",
     "[오늘의인사:10월30일]SK그룹·SK하이닉스·에코프로그룹·매일경제...",
     "리밸런싱끝낸SK…2027년은AI·반도체·에너지'올인'",
@@ -3346,10 +3352,12 @@
     "[B11현장]\"응원멈춘스틸야드,마음아프고슬펐다\"…포항완델손의...",
     "美기술주급락에코스피부담…AI투자우려에5700사수전예상",
     "증시오늘'핫이슈'…\"코스피바닥신호?마지막TACO를기다리며\"",
-    "SK하이닉스AI해커톤,시스템오류로대회재개최악의상황속인재발..."
+    "SK하이닉스AI해커톤,시스템오류로대회재개최악의상황속인재발...",
+    "[KFT모닝브리프]2026.11.02—오늘꼭알아야할국내외경제뉴스",
+    "헝가리배터리규제,소재업체에먼저타격…CATL소송기각에도공장..."
    ],
    "initialized": true,
-   "last_run": "2026-11-02T07:25:19.752999+09:00"
+   "last_run": "2026-11-02T07:30:32.840572+09:00"
   }
  },
  "press_names": {
