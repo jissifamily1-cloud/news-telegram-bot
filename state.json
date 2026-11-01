@@ -322,11 +322,17 @@
     [
      "2026-11-02T07:05:19.647627+09:00",
      "아반떼 주식은 그들의 엔비디아 차는"
+    ],
+    [
+     "2026-11-02T07:15:22.689358+09:00",
+     "터지지 SK에 막힌 성공률 삼성의 3점슛 않은 끝내"
+    ],
+    [
+     "2026-11-02T07:15:22.689358+09:00",
+     "주요 개장 2일 11월 공시"
     ]
    ],
    "seen_urls": [
-    "https://www.munhwa.com/article/11627667",
-    "https://www.g-enews.com/view.php?ud=2026103018195384583084322ec9_1",
     "http://www.sisanews24.co.kr/19781",
     "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100079",
     "https://www.edaily.co.kr/News/Read?newsId=05799046645618168&mediaCodeNo=257",
@@ -1824,11 +1830,11 @@
     "http://www.footballist.co.kr/news/articleView.html?idxno=216374",
     "https://www.fetv.co.kr/news/articleView.html?idxno=312806",
     "https://www.taxwatch.co.kr/article/tax/2026/10/29/0005/naver",
-    "https://www.fnnews.com/news/202611020643077973"
+    "https://www.fnnews.com/news/202611020643077973",
+    "https://basketkorea.com/news/newsview.php?ncode=1065607453285878",
+    "https://www.seoulfn.com/news/articleView.html?idxno=641579"
    ],
    "seen_titles": [
-    "美빅테크어닝쇼크…코스피'불똥'",
-    "삼성전자,107조벌고도주가4%대급락…'1월환원책'분수령",
     "골드만삭스,티맵모빌리티품나…연내인수마무리목표",
     "아마존도석달새현금적자6배…빅테크돈줄꺾였나",
     "삼전닉스역대급주주환원이라던데국내증시는왜이모양?…수급영향...",
@@ -3326,10 +3332,12 @@
     "'우리시즌이끝났다고?동기부여가없다고?'안양은아직보여주고싶...",
     "[SK그룹인사]SK㈜,김선혁사장에게맡긴'포트폴리오관리'",
     "[국세청고위직머니리포트]②주식은엔비디아,차는아반떼…그들의재...",
-    "\"50년만에최악,'검은월요일'오나\"…인텔30%폭락에개미들'개장..."
+    "\"50년만에최악,'검은월요일'오나\"…인텔30%폭락에개미들'개장...",
+    "‘3점슛성공률43%->14%’끝내터지지않은삼성의3점슛,SK에막힌...",
+    "11월2일개장전주요공시"
    ],
    "initialized": true,
-   "last_run": "2026-11-02T07:10:24.477770+09:00"
+   "last_run": "2026-11-02T07:15:22.689358+09:00"
   }
  },
  "press_names": {
