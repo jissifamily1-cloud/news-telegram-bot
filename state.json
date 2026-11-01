@@ -142,11 +142,17 @@
     [
      "2026-11-02T01:05:18.971963+09:00",
      "잠실의 주인 논쟁 삼성 던진 이관희가 전희철은 웃고 김상식은"
+    ],
+    [
+     "2026-11-02T02:10:26.685533+09:00",
+     "넓힌다 용인시 도시인프라 외교 보폭 반도체 문화 주요 유럽 도시와"
+    ],
+    [
+     "2026-11-02T02:10:26.685533+09:00",
+     "이천시 경기광주시 용인시 여주시 성남시"
     ]
    ],
    "seen_urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=2012670",
-    "https://www.jemin.com/news/articleView.html?idxno=845787",
     "https://biz.heraldcorp.com/article/10920352",
     "https://www.koreajoongangdaily.com/business/sk-group-keeps-chiefs-reshuffles-top-executives-to-sharpen-ai-semiconductor-focus/12947318",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=54151",
@@ -1644,11 +1650,11 @@
     "http://www.kjdaily.com/article.php?aid=1793547926690770276",
     "https://www.kmib.co.kr/article/20261101501412",
     "http://www.osen.co.kr/article/G1112902435",
-    "https://www.segye.com/newsView/20261102500194?OutUrl=naver"
+    "https://www.segye.com/newsView/20261102500194?OutUrl=naver",
+    "https://www.ekn.kr/web/view.php?key=20261102024114015",
+    "https://www.ekn.kr/web/view.php?key=20261102020014002"
    ],
    "seen_titles": [
-    "[오피셜]포항스틸러스,박태하감독과끝내결별…김성재수석코치...",
-    "[오피셜]'파이널A좌절'포항,박태하감독과결별...1일제주전부터...",
     "SK하이닉스,일본소부장과공급망결속···사장단인사단행",
     "SK하이닉스,일본서첫파트너스데이…현지소부장과협력강화",
     "[마감시황]글로벌기술주폭락에짓눌린증시…코스피3.5%급락,5,700선...",
@@ -3146,10 +3152,12 @@
     "삼성전자·SK하이닉스반도체시총2천486조…바이오의10.5배",
     "1500개AI에이전트돌리는SKT…개인→조직전반으로확대",
     "'승점47·46·43'파이널B상위권도전쟁이다...제주무승부사이안양...",
-    "이관희가던진‘잠실의주인’논쟁…SK전희철은웃고,삼성김상식은..."
+    "이관희가던진‘잠실의주인’논쟁…SK전희철은웃고,삼성김상식은...",
+    "용인시,유럽주요도시와반도체·문화·도시인프라외교보폭넓힌다",
+    "[패트롤]여주시-용인시-이천시-경기광주시-성남시"
    ],
    "initialized": true,
-   "last_run": "2026-11-02T02:05:20.211952+09:00"
+   "last_run": "2026-11-02T02:10:26.685533+09:00"
   }
  },
  "press_names": {
