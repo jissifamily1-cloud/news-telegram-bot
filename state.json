@@ -1186,14 +1186,29 @@
     [
      "2026-11-02T18:30:36.265743+09:00",
      "강화 회동 CEO 기대 협력 알트먼 삼성 스타게이트"
+    ],
+    [
+     "2026-11-02T18:35:45.679004+09:00",
+     "실증 기업 활성화 NPU 늘려달라 기회 국산 AI데이터센터"
+    ],
+    [
+     "2026-11-02T18:35:45.679004+09:00",
+     "SK하닉 다시 10만원 망친 크래프톤 AI해커톤 받고"
+    ],
+    [
+     "2026-11-02T18:35:45.679004+09:00",
+     "정부 속도 구축에 반도체 클러스터 더해야 조기 한목소리"
+    ],
+    [
+     "2026-11-02T18:35:45.679004+09:00",
+     "어렵다 PC 시장 꺾인 성수기에도 4분기"
+    ],
+    [
+     "2026-11-02T18:35:45.679004+09:00",
+     "우려에 증설도 투자 돌다리도 두드리는 삼전닉스"
     ]
    ],
    "seen_urls": [
-    "https://www.fnnews.com/news/202611020643077973",
-    "https://basketkorea.com/news/newsview.php?ncode=1065607453285878",
-    "https://www.seoulfn.com/news/articleView.html?idxno=641579",
-    "https://www.besteleven.com/news/articleView.html?idxno=313671",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1730009",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005952442",
     "https://www.gokorea.kr/news/articleView.html?idxno=883651",
     "https://www.fntimes.com/html/view.php?ud=202611020707017191141825007d_18",
@@ -2688,14 +2703,14 @@
     "https://www.autodaily.co.kr/news/articleView.html?idxno=601702",
     "https://www.imaeil.com/page/view/2026110218052594144",
     "https://www.fnnews.com/news/202611021825231114",
-    "https://zdnet.co.kr/view/?no=20261102182648"
+    "https://zdnet.co.kr/view/?no=20261102182648",
+    "https://www.fnnews.com/news/202611021815447689",
+    "http://www.4th.kr/news/articleView.html?idxno=2120972",
+    "https://zdnet.co.kr/view/?no=20261102173624",
+    "https://it.chosun.com/news/articleView.html?idxno=3000000000053",
+    "https://www.tjb.co.kr/news05/bodo/view/id/105590"
    ],
    "seen_titles": [
-    "\"50년만에최악,'검은월요일'오나\"…인텔30%폭락에개미들'개장...",
-    "‘3점슛성공률43%->14%’끝내터지지않은삼성의3점슛,SK에막힌...",
-    "11월2일개장전주요공시",
-    "[B11현장]\"응원멈춘스틸야드,마음아프고슬펐다\"…포항완델손의...",
-    "美기술주급락에코스피부담…AI투자우려에5700사수전예상",
     "증시오늘'핫이슈'…\"코스피바닥신호?마지막TACO를기다리며\"",
     "SK하이닉스AI해커톤,시스템오류로대회재개최악의상황속인재발...",
     "[KFT모닝브리프]2026.11.02—오늘꼭알아야할국내외경제뉴스",
@@ -4190,10 +4205,15 @@
     "엔비디아,'AI데이서울2026'개최⋯2000명·20개파트너참여",
     "이대통령'지역균형발전전폭지원'약속에서TK민심착잡",
     "KT도3G신규가입중단…단말무료교체등지원",
-    "알트먼CEO,삼성·SK회동…스타게이트협력강화'기대'"
+    "알트먼CEO,삼성·SK회동…스타게이트협력강화'기대'",
+    "AI데이터센터활성화…기업\"국산NPU실증기회늘려달라\"",
+    "SK하닉AI해커톤망친크래프톤,\"10만원받고다시봐\"",
+    "\"반도체클러스터속도더해야\"…정부,팹조기구축에'한목소리'",
+    "성수기에도꺾인PC시장…4분기더어렵다",
+    "[T나는경제]돌다리도두드리는'삼전닉스'…AI투자우려에증설도탄..."
    ],
    "initialized": true,
-   "last_run": "2026-11-02T18:30:36.265743+09:00"
+   "last_run": "2026-11-02T18:35:45.679004+09:00"
   }
  },
  "press_names": {
