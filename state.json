@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-02T20:20:25.697640+09:00",
-     "SK디앤디 투자주의종목 지정 거래집중으로 소수계좌"
-    ],
-    [
      "2026-11-02T20:25:21.310560+09:00",
      "사도 지금도 반도체 주식 될까"
     ],
@@ -230,10 +226,13 @@
     [
      "2026-11-03T00:50:26.606577+09:00",
      "안전의 하청 판정 사용자 역설 챙길수록"
+    ],
+    [
+     "2026-11-03T02:20:29.004399+09:00",
+     "하정우 발탁 올림픽 최정예 김민수 윤도영 김예건"
     ]
    ],
    "seen_urls": [
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=92658",
     "https://www.ajunews.com/view/20261102090255541",
     "http://www.metroseoul.co.kr/article/20261102500019",
     "https://www.ppss.kr/news/articleView.html?idxno=318447",
@@ -1732,10 +1731,10 @@
     "https://www.chosun.com/national/labor/2026/11/03/DCXOF6KLRRGCDIJBGETBCWFJVY/",
     "http://www.kjdaily.com/article.php?aid=1793634605691078276",
     "http://www.kjdaily.com/article.php?aid=1793634453690978276",
-    "https://imnews.imbc.com/replay/2026/nw2500/article/6862652_36989.html"
+    "https://imnews.imbc.com/replay/2026/nw2500/article/6862652_36989.html",
+    "https://www.goal.com/kr/뉴스/a/bltf7f2018f674fcae8"
    ],
    "seen_titles": [
-    "우리투자증권,자본확충후대형IB수임연타석홈런…구조화금융시장...",
     "SKT이어KT도3G신규가입중단…기기교체지원",
     "美반도체급락에코스피1.9%하락…삼전·닉스낙폭축소",
     "삼성전자·SK하이닉스,'자사주매입으로주가하락방어'…반등관건은...",
@@ -3234,10 +3233,11 @@
     "안전의역설…하청챙길수록‘사용자’로판정",
     "SK스퀘어주가5.91%상승…4조3천억원주주환원계획발표",
     "삼성전자60만원·SK하이닉스350만원…KB증권목표주가제시",
-    "'인텔쇼크'떨었는데2%반등‥상승세이어가나"
+    "'인텔쇼크'떨었는데2%반등‥상승세이어가나",
+    "[오피셜]‘김민수·윤도영·김예건·하정우등최정예발탁’올림픽..."
    ],
    "initialized": true,
-   "last_run": "2026-11-03T02:15:27.321561+09:00"
+   "last_run": "2026-11-03T02:20:29.004399+09:00"
   }
  },
  "press_names": {
