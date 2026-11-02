@@ -446,16 +446,37 @@
     [
      "2026-11-03T08:00:41.029332+09:00",
      "시정조치 하역시설 17건 액체 안전점검 위험물 인천항"
+    ],
+    [
+     "2026-11-03T08:05:24.391359+09:00",
+     "삼전 상승 유지 상한가 추가 깨끗한나라우 SK하닉"
+    ],
+    [
+     "2026-11-03T08:05:24.391359+09:00",
+     "완전 자회사 KISCO홀딩스 한국철강 편입"
+    ],
+    [
+     "2026-11-03T08:05:24.391359+09:00",
+     "솔리다임 지분 잔여 IPO 대안 SK하이닉스 키옥시아 만지작"
+    ],
+    [
+     "2026-11-03T08:05:24.391359+09:00",
+     "미래에셋 기여 본격화 이익 내년 팬오션 투자 탱커 목표가"
+    ],
+    [
+     "2026-11-03T08:05:24.391359+09:00",
+     "뺏길라 물량 모그룹 퇴직연금 전전긍긍 현대차증권"
+    ],
+    [
+     "2026-11-03T08:05:24.391359+09:00",
+     "기업 담은 가득 10월의 감사하는 광고들 마음"
+    ],
+    [
+     "2026-11-03T08:05:24.391359+09:00",
+     "선박 계약 종료 자사선 SK해운 팬오션 2028년부터"
     ]
    ],
    "seen_urls": [
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611020918366300099",
-    "https://www.newsian.co.kr/news/articleView.html?idxno=100413",
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=66871",
-    "http://www.newstomato.com/ReadNews.aspx?no=1318864&inflow=N",
-    "https://www.sedaily.com/article/20108932",
-    "https://www.sedaily.com/article/20108925",
-    "https://www.sedaily.com/article/20108929",
     "http://www.newsdream.kr/news/articleView.html?idxno=121268",
     "https://www.ntoday.co.kr/news/articleView.html?idxno=130529",
     "https://www.bigtanews.co.kr/article/view/big202611020003",
@@ -1948,16 +1969,16 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500568",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4442633",
     "https://www.datanet.co.kr/news/articleView.html?idxno=215534",
-    "http://www.incheonin.com/news/articleView.html?idxno=121983"
+    "http://www.incheonin.com/news/articleView.html?idxno=121983",
+    "https://www.etoday.co.kr/news/view/2643275",
+    "https://biz.sbs.co.kr/article_hub/20000343790?division=NAVER",
+    "https://dealsite.co.kr/articles/171881",
+    "http://www.popcornnews.net/news/articleView.html?idxno=138427",
+    "https://dealsite.co.kr/articles/171805",
+    "https://www.banronbodo.com/news/articleView.html?idxno=33276",
+    "https://www.fnnews.com/news/202611030755412579"
    ],
    "seen_titles": [
-    "SK에코플랜트,‘1인1AI에이전트’혁신가속",
-    "인텔쇼크에밀렸던코스피,장중낙폭만회…5720선회복",
-    "SK하이닉스4분기영업익104조전망…KB증권\"사상첫100조돌파\"",
-    "코스피,1%대하락출발후상승전환",
-    "韓연수출1조달러‘눈앞’…두달연속1100억달러잭팟",
-    "메타신용등급전망‘부정적’하향…AI투자에현금흐름적자우려",
-    "SKT,‘조직협업도AI중심’전환…직원80%가AI에이전트개발",
     "SK에코플랜트,'1인1AI에이전트'가동…현장반복업무자동화",
     "[마켓펄스]'인텔쇼크'에휘청인코스피...기관저가매수에5700선반등",
     "<빅터뉴스주가예측>코스피시가총액상위15선_10월26일_오차율",
@@ -3450,10 +3471,17 @@
     "통신3사,기저효과에3분기실적희비…SKT·LGU+웃고KT주춤",
     "\"삼전닉스가격매력마지막시점…적극적비중확대필요\"",
     "[OT위협동향②]취약점패치어려운자산이가장핵심적인자산",
-    "인천항액체위험물하역시설안전점검..17건시정조치"
+    "인천항액체위험물하역시설안전점검..17건시정조치",
+    "[전날애프터마켓]깨끗한나라우상한가유지…삼전·SK하닉추가상승",
+    "[애프터마켓리뷰]KISCO홀딩스,한국철강완전자회사편입추진",
+    "SK하이닉스,'솔리다임IPO'대안…키옥시아잔여지분'만지작'",
+    "미래에셋證\"팬오션,탱커투자내년이익기여본격화…목표가↑\"",
+    "모그룹퇴직연금물량뺏길라…현대차증권전전긍긍",
+    "[이달의신문광고]'감사하는마음'가득담은10월의기업광고들",
+    "팬오션,2028년부터SK해운계약종료선박자사선전환"
    ],
    "initialized": true,
-   "last_run": "2026-11-03T08:00:41.029332+09:00"
+   "last_run": "2026-11-03T08:05:24.391359+09:00"
   }
  },
  "press_names": {
