@@ -365,8 +365,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=450868",
-    "https://www.m-i.kr/news/articleView.html?idxno=2012984",
     "http://www.inews24.com/view/2021351",
     "https://www.ppss.kr/news/articleView.html?idxno=318466",
     "https://www.hidomin.com/news/articleView.html?idxno=727507",
@@ -1864,11 +1862,11 @@
     "https://view.asiae.co.kr/article/2026110217131799317",
     "https://www.ceoscoredaily.com/page/view/2026110212191859350",
     "https://www.slist.kr/news/articleView.html?idxno=778466",
-    "https://www.seoul.co.kr/news/economy/securities/2026/11/03/20261103500009?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/economy/securities/2026/11/03/20261103500009?wlog_tag3=naver",
+    "https://www.sidae.com/article/2026110307094179493",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16266605"
    ],
    "seen_titles": [
-    "메모리반도체호황장기화에외신전망낙관적,\"SK하이닉스독보적수...",
-    "KT,23년만에'3G신규가입'중단…기존고객LTE·5G전환지원",
     "저무는'3G'⋯SKT이어KT도신규가입종료[종합]",
     "코스피,美반도체주급락충격에하락출발…기관매수에낙폭축소",
     "'인텔29%폭락'에코스피5600선까지밀려…기관매수에낙폭축소",
@@ -3366,10 +3364,12 @@
     "[클릭e종목]하루에11곳...현대차목표주가줄하향,왜?",
     "中CXMT‘첨단D램검증’엄포…삼성·SK,HBM독주‘변수’되나",
     "필라델피아반도체지수7.2%폭락충격…인텔28%·AMD10%급락",
-    "이미숙“늘그막에주식해서집날려”…올해번돈거의토해낸코스피..."
+    "이미숙“늘그막에주식해서집날려”…올해번돈거의토해낸코스피...",
+    "뉴욕증시,반도체주하락…나스닥1.07%떨어져",
+    "미국증시혼조마감…국제유가급락에도AI주매도세,나스닥1.07%하락"
    ],
    "initialized": true,
-   "last_run": "2026-11-03T07:10:28.684877+09:00"
+   "last_run": "2026-11-03T07:15:24.203611+09:00"
   }
  },
  "press_names": {
