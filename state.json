@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-02T17:45:24.566175+09:00",
-     "SK이노베이션"
-    ],
-    [
-     "2026-11-02T17:45:24.566175+09:00",
-     "회복 반도체주 급락에도 800선 코스피"
-    ],
-    [
      "2026-11-02T17:50:27.130062+09:00",
      "시드권 KLPGA 김보경 2027시즌 부여 장하나 안송이에 박결"
     ],
@@ -386,11 +378,17 @@
     [
      "2026-11-02T23:15:26.646599+09:00",
      "South Abu Four Meetings Korea OpenAI After Agreements Dhabi Announces"
+    ],
+    [
+     "2026-11-02T23:45:53.713886+09:00",
+     "용인시 성남시 이천시 경기광주시 여주시"
+    ],
+    [
+     "2026-11-02T23:45:53.713886+09:00",
+     "엔비디아 급락 이란 상승 기대에 유가 장초반 미국 협상 미국증시"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261102_0003850292",
-    "https://www.dailian.co.kr/news/view/1709286/?sc=Naver",
     "https://www.fnnews.com/news/202611020851306461",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=878607",
     "https://www.kbmaeil.com/article/20261102500058",
@@ -1888,11 +1886,11 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=622300",
     "https://www.ytn.co.kr/_ln/0102_202611022256264064",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=879067",
-    "https://econotimes.com/Abu-Dhabi-Announces-Four-OpenAI-Agreements-After-South-Korea-Meetings-1768860"
+    "https://econotimes.com/Abu-Dhabi-Announces-Four-OpenAI-Agreements-After-South-Korea-Meetings-1768860",
+    "https://www.ekn.kr/web/view.php?key=20261102020444464",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16266551"
    ],
    "seen_titles": [
-    "해시드,오픈AI·SKT와AI해커톤개최…실전제품개발지원",
-    "국민의힘,李시정연설앞두고맹폭…\"국민'돼지'취급하면정권종말...",
     "\"삼성전자·SK하이닉스W자반등시작\"",
     "인텔52년만에최대폭락…메모리값급등에AI반도체업계'비상'",
     "장동혁“李시정연설서민생사죄·정책전환약속해야”",
@@ -3390,10 +3388,12 @@
     "[AI산업자금경색]\"AI투자회수속도·자본효율성우려\"…삼성전자·...",
     "'인텔쇼크'딛고반등...코스피5,800선회복",
     "[증권가H]딜로이트,파트너직급개편/김승연넥스트증권대표연임등",
-    "AbuDhabiAnnouncesFourOpenAIAgreementsAfterSouthKoreaMeetings"
+    "AbuDhabiAnnouncesFourOpenAIAgreementsAfterSouthKoreaMeetings",
+    "[패트롤]용인시-이천시-경기광주시-성남시-여주시",
+    "미국증시장초반상승…미국·이란협상기대에유가급락,엔비디아·S..."
    ],
    "initialized": true,
-   "last_run": "2026-11-02T23:40:26.911467+09:00"
+   "last_run": "2026-11-02T23:45:53.713886+09:00"
   }
  },
  "press_names": {
