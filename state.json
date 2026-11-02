@@ -318,11 +318,13 @@
     [
      "2026-11-03T06:55:32.474232+09:00",
      "닉스 삼전 중간선거 day 미국 달렸다 운명도"
+    ],
+    [
+     "2026-11-03T07:00:39.983656+09:00",
+     "주가 매출 삼성SDS 돌파 20억달러 분기 팔란티어 창사 더존비즈온"
     ]
    ],
    "seen_urls": [
-    "https://realty.chosun.com/site/data/html_dir/2026/11/02/2026110200762.html",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1730040",
     "https://www.the-today.com/news/articleView.html?idxno=92848",
     "https://thetracker.co.kr/View.aspx?No=4290874",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078466",
@@ -1820,11 +1822,11 @@
     "http://www.beyondpost.co.kr/view.php?ud=2026110306334491842aaae0046f_30",
     "https://www.moneystorm.kr/news/articleView.html?idxno=7986",
     "https://www.gokorea.kr/news/articleView.html?idxno=883769",
-    "https://www.dailian.co.kr/news/view/1709797/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1709797/?sc=Naver",
+    "https://sports.donga.com/sports/article/all/20261103/134954563/1",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500744"
    ],
    "seen_titles": [
-    "금호건설주가5배폭등…\"최태원이밀어주고,이재용이끌어줬다\"",
-    "[Tech&Now]에브리봇,홈페이지개편·앳홈,'더시프트'1주년프로모...",
     "TYM,새만금피지컬AI산업육성제안…자율주행농기계·로봇협력확...",
     "SK온,전기차공장돌려ESS생산…유휴설비활용해매출공백메운다",
     "장동혁\"李,시정연설서민생폭정사죄·정책전환해야\"",
@@ -3322,10 +3324,12 @@
     "필라델피아반도체지수3.4%,마이크론5.3%↓...반도체주,약세지속",
     "[뉴욕증시마감시황]필라델피아반도체지수3.4%급락에도…SK하이닉스...",
     "기술전문가CEO시대,대기업인적구성이바뀐다",
-    "\"미국중간선거D-day\"…삼전·닉스운명도달렸다?"
+    "\"미국중간선거D-day\"…삼전·닉스운명도달렸다?",
+    "‘73.8%확률잡아라’KT대니엘VS삼성최원태‘한국시리즈1차전쾅...",
+    "팔란티어창사첫분기매출20억달러돌파…삼성SDS·더존비즈온주가..."
    ],
    "initialized": true,
-   "last_run": "2026-11-03T06:55:32.474232+09:00"
+   "last_run": "2026-11-03T07:00:39.983656+09:00"
   }
  },
  "press_names": {
