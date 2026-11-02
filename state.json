@@ -1150,11 +1150,13 @@
     [
      "2026-11-02T19:25:18.803079+09:00",
      "출하 대란 13년만 최소 지갑 닫힌"
+    ],
+    [
+     "2026-11-02T19:30:38.642051+09:00",
+     "도입서 하루 늦춰졌 2028년으로 내년 받는 다음날 결제 주식"
     ]
    ],
    "seen_urls": [
-    "https://www.forbeskorea.co.kr/news/articleView.html?idxno=402861",
-    "https://biz.newdaily.co.kr/site/data/html/2026/11/02/2026110200029.html",
     "https://view.asiae.co.kr/article/2026110207575180935",
     "https://www.insightkorea.co.kr/news/articleView.html?idxno=257730",
     "https://www.dailysecu.com/news/articleView.html?idxno=209228",
@@ -2652,11 +2654,11 @@
     "https://newscham.net/130120/",
     "https://www.newsis.com/view/NISX20261102_0003851732",
     "https://www.hani.co.kr/arti/opinion/because/1285425.html",
-    "https://www.dt.co.kr/article/12092729"
+    "https://www.dt.co.kr/article/12092729",
+    "https://www.kfenews.co.kr/news/articleView.html?idxno=667375",
+    "https://www.seoul.co.kr/news/economy/securities/2026/11/03/20261103031001?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "[2026고객신뢰도1위프리미엄브랜드]다나함",
-    "[속보]\"수익증명하라\"AI회의론에뉴욕증시휘청…삼전닉스프리장...",
     "[굿모닝증시]韓,美AI주급락여진등으로변동성이어질것",
     "崔泰源为SKhynix补强战略与技术阵容，集团AI战略加速落地",
     "[이혁중CISO칼럼]AI보안?새로운보안이아닌기존보안의확장",
@@ -4154,10 +4156,12 @@
     "[멈춰라3대메가③]데이터센터전기·물갈등지우고‘명소’자랑…...",
     "[올댓차이나]홍콩증시,中증시대책소식에상승마감…H주0.56%↑",
     "8년만의대통령과농어민대화,정책전환이어지길[왜냐면]",
-    "[기획]폰출하13년만최소…칩대란‘닫힌지갑’"
+    "[기획]폰출하13년만최소…칩대란‘닫힌지갑’",
+    "[기획]키움증권,IB성장속수익다변화시험대",
+    "주식판돈다음날받는‘하루결제’…내년도입서2028년으로늦춰졌..."
    ],
    "initialized": true,
-   "last_run": "2026-11-02T19:25:18.803079+09:00"
+   "last_run": "2026-11-02T19:30:38.642051+09:00"
   }
  },
  "press_names": {
