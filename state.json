@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-02T13:55:18.054921+09:00",
-     "현대차 투자 내달 새만금AI데이터센터 설립 법인 9조"
-    ],
-    [
-     "2026-11-02T13:55:18.054921+09:00",
-     "AIoT 혁신기술 자율주행부터 산업안전까지"
-    ],
-    [
-     "2026-11-02T13:55:18.054921+09:00",
-     "맞나 완전회복세 3분기 포스코퓨처엠 어닝서프라이즈급 영업흑자"
-    ],
-    [
      "2026-11-02T14:00:38.207146+09:00",
      "급등세 등판 SK하닉 코스피 연기금 소방수"
     ],
@@ -1102,12 +1090,13 @@
     [
      "2026-11-02T19:50:26.902627+09:00",
      "주식창 열기 코스피는 인텔 반등 쇼크 겁났는데"
+    ],
+    [
+     "2026-11-02T19:55:19.204668+09:00",
+     "울산시 석유화학 도입 현장 안전로봇"
     ]
    ],
    "seen_urls": [
-    "https://kpenews.com/View.aspx?No=4292578",
-    "https://view.asiae.co.kr/article/2026102916354274151",
-    "https://www.news1.kr/finance/market-exr/6339233",
     "https://www.etoday.co.kr/news/view/2642741",
     "https://www.jasm.co.kr/news/view/323700/?sc=Naver",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280086&CMPT_CD=P0010",
@@ -2604,12 +2593,12 @@
     "https://www.tokenpost.kr/news/ai/431299",
     "https://www.ggilbo.com/news/articleView.html?idxno=1190590",
     "https://www.newdaily.co.kr/site/data/html/2026/11/02/2026110200330.html",
-    "https://news.jtbc.co.kr/article/NB12326070?influxDiv=NAVER"
+    "https://news.jtbc.co.kr/article/NB12326070?influxDiv=NAVER",
+    "https://www.maniareport.com/view.php?ud=202611021837075137dad9f33a29_19",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2487495",
+    "https://www.iusm.co.kr/news/articleView.html?idxno=1069993"
    ],
    "seen_titles": [
-    "개인활용넘어조직성과로..SKT‘AX혁신2.0’시동",
-    "[PE는지금]대형딜80%차지한글로벌자본…카브아웃·기업승계주목",
-    "'美반도체쇼크'삼전닉스프리마켓서4%대동반급락",
     "[오늘의투자전략]美AI주급락여진,코스피5400~6000예상…저가매...",
     "이상일용인시장,이탈리아피렌체시청방문해협력방안논의",
     "'우승팀신인'이냐'베스트러너'냐,영플레이어상2파전",
@@ -4106,10 +4095,13 @@
     "2027년AI투자회수전환점가능성거론",
     "[주식마감]'합병결정'샘표·샘표식품상한가...디티에스,HLB바이오스...",
     "돼지·껍데기…2030이李대통령에게보내는편지[오창균의정치기상...",
-    "'인텔쇼크'주식창열기겁났는데…코스피는반등,왜?"
+    "'인텔쇼크'주식창열기겁났는데…코스피는반등,왜?",
+    "‘A대표데뷔'김민수,김은중호합류...U-21대표팀멕시코2연전최정...",
+    "SK하이닉스청주노조,청주시에취약계층돕기성금·물품6200만원기탁",
+    "울산시,석유화학현장'AI안전로봇'도입추진"
    ],
    "initialized": true,
-   "last_run": "2026-11-02T19:50:26.902627+09:00"
+   "last_run": "2026-11-02T19:55:19.204668+09:00"
   }
  },
  "press_names": {
