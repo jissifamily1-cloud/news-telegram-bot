@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-02T12:25:18.922571+09:00",
-     "조선주 상한가 샘표 피앤에스로보틱스"
-    ],
-    [
      "2026-11-02T12:30:33.285683+09:00",
      "한옥에 궁중무용 성료 예술프로젝트 포도뮤지엄 선혜원 오페라"
     ],
@@ -1178,12 +1174,21 @@
     [
      "2026-11-02T18:15:31.530859+09:00",
      "이부진 돌파하며 과반 기업인대상 이재용 연속 득표 회장 1위 사장"
+    ],
+    [
+     "2026-11-02T18:25:20.791409+09:00",
+     "전남 반도체 트라이앵글 맡는다 동부권 호남"
+    ],
+    [
+     "2026-11-02T18:25:20.791409+09:00",
+     "파트너 참여 데이 엔비디아 개최 서울 20개 2000명"
+    ],
+    [
+     "2026-11-02T18:25:20.791409+09:00",
+     "지역균형발전 착잡 TK 약속에서 전폭지원 민심 대통령"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=450340",
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=81972",
-    "http://www.footballist.co.kr/news/articleView.html?idxno=216374",
     "https://www.fetv.co.kr/news/articleView.html?idxno=312806",
     "https://www.taxwatch.co.kr/article/tax/2026/10/29/0005/naver",
     "https://www.fnnews.com/news/202611020643077973",
@@ -2680,12 +2685,12 @@
     "http://www.hellodd.com/news/articleView.html?idxno=113466",
     "http://www.epj.co.kr/news/articleView.html?idxno=39688",
     "https://www.cbci.co.kr/news/articleView.html?idxno=622280",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4442591"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4442591",
+    "http://www.jndn.com/article.php?aid=1793611240442287001",
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=601702",
+    "https://www.imaeil.com/page/view/2026110218052594144"
    ],
    "seen_titles": [
-    "[WhoIs?]허세홍GS칼텍스대표이사부회장",
-    "[韓경제아킬레스건](40)원자재공급망의취약성:특정국의존도90%의...",
-    "'우리시즌이끝났다고?동기부여가없다고?'안양은아직보여주고싶...",
     "[SK그룹인사]SK㈜,김선혁사장에게맡긴'포트폴리오관리'",
     "[국세청고위직머니리포트]②주식은엔비디아,차는아반떼…그들의재...",
     "\"50년만에최악,'검은월요일'오나\"…인텔30%폭락에개미들'개장...",
@@ -4182,10 +4187,13 @@
     "AI데이터센터건설도'속도전'건설연,표준·모듈화로공장서만들고...",
     "[기고]중국해상풍력은왜싼가···답은바람아닌공급망에있다②",
     "이재용회장,과반득표돌파하며기업인대상연속1위…이부진사장·...",
-    "[외환-마감]코스피반등·外人'사자'로상승…9.50원↑"
+    "[외환-마감]코스피반등·外人'사자'로상승…9.50원↑",
+    "전남동부권‘호남반도체트라이앵글’한축맡는다",
+    "엔비디아,'AI데이서울2026'개최⋯2000명·20개파트너참여",
+    "이대통령'지역균형발전전폭지원'약속에서TK민심착잡"
    ],
    "initialized": true,
-   "last_run": "2026-11-02T18:20:35.729764+09:00"
+   "last_run": "2026-11-02T18:25:20.791409+09:00"
   }
  },
  "press_names": {
