@@ -486,17 +486,25 @@
     [
      "2026-11-03T08:10:24.362506+09:00",
      "코스피 수익성 우려 선방했지만 향방은 전날은 지속"
+    ],
+    [
+     "2026-11-03T08:15:24.860738+09:00",
+     "약세 프리마켓 수익성 우려에 삼전 하닉"
+    ],
+    [
+     "2026-11-03T08:15:24.860738+09:00",
+     "인연 골드만삭스 물꼬 매각 티맵모빌리티"
+    ],
+    [
+     "2026-11-03T08:15:24.860738+09:00",
+     "인스타툰으로 투자자 ETF 투자전략 강화 키움운용 소통 소개"
+    ],
+    [
+     "2026-11-03T08:15:24.860738+09:00",
+     "동부권 트라이앵글 전남광주특별시 되나 여수산단 반도체"
     ]
    ],
    "seen_urls": [
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2487059",
-    "https://www.itbiznews.com/news/articleView.html?idxno=229902",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=7946",
-    "https://www.sedaily.com/article/20108955",
-    "https://biz.chosun.com/stock/market_trend/2026/11/02/KCVHE3EODFF6BIJ7AODG5UPGEM/",
-    "https://view.asiae.co.kr/article/2026110210014570711",
-    "https://www.sedaily.com/article/20108931",
-    "https://www.news2day.co.kr/article/20261102500038",
     "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=918083",
     "https://www.kukinews.com/article/view/kuk202611020026",
     "https://view.asiae.co.kr/article/2026110209224438483",
@@ -1988,17 +1996,17 @@
     "https://www.viva100.com/article/20261103500046",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=368753",
     "https://www.newsway.co.kr/news/view?ud=2026110217112352362",
-    "https://www.yna.co.kr/view/AKR20261103023500008?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261103023500008?input=1195m",
+    "https://www.etoday.co.kr/news/view/2643286",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=446633",
+    "https://www.newsis.com/view/NISX20261103_0003851936",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=66942",
+    "https://www.dt.co.kr/article/12092759",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610301405050880103335",
+    "https://www.etoday.co.kr/news/view/2643284",
+    "https://www.etoday.co.kr/news/view/2643283"
    ],
    "seen_titles": [
-    "우리투자증권,대형구조화금융거래연속수임",
-    "전사AX에속도전…SKT,'AX혁신2.0'가속화",
-    "코스피,장초반하락딛고상승전환…5,750선회복",
-    "장동혁“李시정연설,국민듣고싶은말해야”…부동산·ETF사과촉구",
-    "몸값하락했지만‘연8%복리’풋옵션있다...티맵매각반기는어펄...",
-    "팬오션3분기매출액2조973억원…전년比65.2%↑",
-    "4.8조지원금쏟아부었지만…2030가구‘여윳돈’오히려줄었다",
-    "\"AI발공포심리-중간선거로달러화불확실성직면\"<iM證>",
     "[사설]충남202조첨단산업투자필수,배경과역할",
     "올트먼이삼성·SK다시찾은까닭…AI사업확장에韓역할부각",
     "수출길올라탄K데이터센터…LGCNS인니서첫발",
@@ -3490,10 +3498,18 @@
     "대기업CEO인사키워드‘기술·현장’⋯기획출신2년새48%→26%",
     "\"2027년에도정제마진22달러\"…SK이노·S-Oil효자실적",
     "SK호라이즌출범앞둔SKB…방송사업존속·재정안정'시험대'",
-    "[마켓뷰]전날은선방했지만…AI수익성우려지속,코스피향방은"
+    "[마켓뷰]전날은선방했지만…AI수익성우려지속,코스피향방은",
+    "[증시키워드]美반도체또급락⋯삼전·SK하닉'W자반등'시험대",
+    "뉴욕증시,국제유가급락과반도체주약세지속등호악재겹치며혼조...",
+    "美반도체주급락여파…삼성전자·SK하이닉스프리마켓서동반약세",
+    "[증시전망대]AI수익성우려에흔들린뉴욕…코스피,기관'1조2천억방...",
+    "AI수익성우려에프리마켓약세…삼전·하닉3%대↓",
+    "[더벨]티맵모빌리티매각물꼬튼'골드만삭스인연'",
+    "키움운용,ETF투자전략인스타툰으로소개…투자자소통강화",
+    "여수산단등전남광주특별시동부권...'반도체트라이앵글'한축되나"
    ],
    "initialized": true,
-   "last_run": "2026-11-03T08:10:24.362506+09:00"
+   "last_run": "2026-11-03T08:15:24.860738+09:00"
   }
  },
  "press_names": {
