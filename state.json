@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-02T05:25:20.392362+09:00",
-     "확보 92곳 중견사 도시정비 시공권"
-    ],
-    [
      "2026-11-02T05:30:33.382216+09:00",
      "허풍 앞선다 삼전닉스보다 CXMT 기술 반도체 리포트 메모리 투자"
     ],
@@ -1034,18 +1030,25 @@
     [
      "2026-11-02T11:20:24.601929+09:00",
      "LG유플러스 사람 내건 중심"
+    ],
+    [
+     "2026-11-02T11:25:20.632110+09:00",
+     "경제 로봇이 AI가 조망 바꿀 판단하고 실행한다 산업 미래"
+    ],
+    [
+     "2026-11-02T11:25:20.632110+09:00",
+     "리밸런싱 남기고 피하고 현금 레버리지 기계적 하라"
+    ],
+    [
+     "2026-11-02T11:25:20.632110+09:00",
+     "반사이익은 반도체 광주 어디"
+    ],
+    [
+     "2026-11-02T11:25:20.632110+09:00",
+     "반등에 배터리소재 수주 날개 실적 포스코퓨처엠 잭팟까지"
     ]
    ],
    "seen_urls": [
-    "https://mhnse.com/news/articleView.html?idxno=1653940",
-    "https://mhnse.com/news/articleView.html?idxno=1653950",
-    "https://mhnse.com/news/articleView.html?idxno=1653943",
-    "https://mhnse.com/news/articleView.html?idxno=1653948",
-    "https://mhnse.com/news/articleView.html?idxno=1653946",
-    "https://www.cstimes.com/news/articleView.html?idxno=726080",
-    "https://www.newsis.com/view/NISX20261031_0003849384",
-    "https://www.joongangenews.com/news/articleView.html?idxno=560085",
-    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435030",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=66829",
     "https://news.tf.co.kr/read/economy/2383303.htm",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=92522",
@@ -2536,18 +2539,18 @@
     "http://www.whosaeng.com/174957",
     "https://www.koreaherald.com/article/10922564",
     "https://theviewers.co.kr/View.aspx?No=4292956",
-    "http://www.metroseoul.co.kr/article/20261102500178"
+    "http://www.metroseoul.co.kr/article/20261102500178",
+    "https://www.hankyung.com/article/2026110299657",
+    "https://www.news1.kr/it-science/cc-newmedia/6339727",
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=91330",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16266003",
+    "https://www.fntimes.com/html/view.php?ud=2026110211171314777fd637f543_18",
+    "https://www.edaily.co.kr/News/Read?newsId=02876566645641784&mediaCodeNo=257",
+    "https://biz.heraldcorp.com/article/10922593",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261102112111ia5",
+    "https://www.etoday.co.kr/news/view/2642961"
    ],
    "seen_titles": [
-    "[포토]김재희,조준은정중앙",
-    "[포토]김재희,무빙데이반가운손인사",
-    "[포토]김재희,중앙으로날린다",
-    "[포토]김재희,미소출발",
-    "[포토]김재희,임팩트는정확하게",
-    "[포토]김재희,오차없이라인을맞춘다",
-    "[포토]김재희,버디를향하여",
-    "[포토]김재희,볼마크도극한직업",
-    "[포토]김재희,타구방향은정확해",
     "알파벳·인텔쇼크가울린경고음,‘반도체몰빵’괜찮을까[박진우의...",
     "월요일증시가두렵다…인텔52년만의폭락에삼전닉스투자자‘긴장...",
     "구글이어인텔도AI투자우려",
@@ -4038,10 +4041,19 @@
     "동아ST,FDA승인‘엑스코프리’출시",
     "SKSquareeyesrecordW4.3trpayoutfromSKhynixdividends",
     "부천·계양서5280세대공급…남광토건‘하우스토리’브랜드입지넓...",
-    "[메트로창간24주년기획_리부트코리아]사람중심AI내건LG유플러스..."
+    "[메트로창간24주년기획_리부트코리아]사람중심AI내건LG유플러스...",
+    "\"시장73%중국장악\"…설자리좁아진한국배터리",
+    "SK스퀘어,SK하이닉스배당수입6.2조中4.3조이상주주환원",
+    "SK스퀘어,주주환원규모역대최대…하이닉스배당수입4조3000억원이...",
+    "SK텔레콤주가,11월2일장중76,500원1.46%상승",
+    "동아에스티,SK바이오팜뇌전증치료제‘엑스코프리’국내출시",
+    "[사고]AI가판단하고로봇이실행한다…산업·경제바꿀AI미래조망",
+    "레버리지피하고,현금남기고,기계적리밸런싱하라",
+    "광주반도체반사이익은어디?[리부팅지방시대]",
+    "실적반등에수주잭팟까지…포스코퓨처엠,배터리소재‘날개’"
    ],
    "initialized": true,
-   "last_run": "2026-11-02T11:20:24.601929+09:00"
+   "last_run": "2026-11-02T11:25:20.632110+09:00"
   }
  },
  "press_names": {
