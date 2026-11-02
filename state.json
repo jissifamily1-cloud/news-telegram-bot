@@ -418,12 +418,13 @@
     [
      "2026-11-03T07:45:24.584985+09:00",
      "슈퍼 슬로우레터 딴죽 821조 갚자 빚부터 예산에 국민의힘은"
+    ],
+    [
+     "2026-11-03T07:50:24.535622+09:00",
+     "예상보다 포스코퓨처엠 부담 높은 NH 주가는 빨라 LFP"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/general-stock/6339451",
-    "https://www.nocutnews.co.kr/news/6600382",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610290902223740106115",
     "https://www.econovill.com/news/articleView.html?idxno=755658",
     "https://www.newsis.com/view/NISX20261102_0003850481",
     "https://gamefocus.co.kr/detail.php?number=180213",
@@ -1920,12 +1921,12 @@
     "https://www.edaily.co.kr/News/Read?newsId=02840486645642112&mediaCodeNo=257",
     "https://www.greened.kr/news/articleView.html?idxno=353683",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4442629",
-    "https://slownews.kr/168961"
+    "https://slownews.kr/168961",
+    "https://www.seoul.co.kr/news/economy/securities/2026/11/03/20261103500011?wlog_tag3=naver",
+    "https://www.hankyung.com/article/2026110315816",
+    "http://www.popcornnews.net/news/articleView.html?idxno=138419"
    ],
    "seen_titles": [
-    "우리투자증권,에코프로·오스템임플란트2700억유동화단독주관",
-    "코스피,美기술주급락에도낙폭제한…장초반1%안팎보합권",
-    "[더벨]KCGI운용'성장플러스'3호,반도체대형주로7%겨냥",
     "LG유플러스평촌2센터ISO50001획득\"AI데이터센터전력관리국제표...",
     "'저PBR낙인'151개사…기업가치제고시험대올랐다",
     "T1-젠지-디플러스기아8강안착,한화e스포츠는충격의탈락...'2026LoL...",
@@ -3422,10 +3423,13 @@
     "\"SK하이닉스,연말이마지막'저가매수'기회…320만원간다\"",
     "'2조5000억이혼소송'권혁빈,항소심재판에최태원·구광모대리한'법...",
     "임종룡'픽'유지할까…남기천우투證대표연임'시험대'",
-    "821조원슈퍼예산에국민의힘은“빚부터갚자”딴죽:슬로우레터11..."
+    "821조원슈퍼예산에국민의힘은“빚부터갚자”딴죽:슬로우레터11...",
+    "어제오른코스피,하루짜리였나…파랗게질린‘이숫자’[내가샀다]",
+    "\"SK하이닉스,4분기영업익100조돌파전망…목표가320만원\"-한투",
+    "NH證\"포스코퓨처엠,LFP전환예상보다빨라…높은주가는부담\""
    ],
    "initialized": true,
-   "last_run": "2026-11-03T07:45:24.584985+09:00"
+   "last_run": "2026-11-03T07:50:24.535622+09:00"
   }
  },
  "press_names": {
