@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-02T14:20:25.674046+09:00",
-     "안전한 시대 대전환 사이버보안 전략 모색"
-    ],
-    [
      "2026-11-02T14:25:18.380941+09:00",
      "인프라 차세대 대전 GaN 쑥쑥 SiC 반도체 몸값 전력 화합물"
     ],
@@ -1066,11 +1062,13 @@
     [
      "2026-11-02T20:05:20.755048+09:00",
      "전력 활성화 인허가 촉구 한경협 개선 요구 데이터센터"
+    ],
+    [
+     "2026-11-02T20:20:25.697640+09:00",
+     "SK디앤디 투자주의종목 지정 거래집중으로 소수계좌"
     ]
    ],
    "seen_urls": [
-    "https://www.kizmom.com/news/articleView.html?idxno=113681",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610281533565160108036",
     "https://www.mk.co.kr/article/12193078",
     "https://www.kbmaeil.com/article/20261102500031",
     "https://www.namdonews.com/news/articleView.html?idxno=927880",
@@ -2568,11 +2566,11 @@
     "https://www.m-i.kr/news/articleView.html?idxno=2013401",
     "https://imnews.imbc.com/replay/2026/nwdesk/article/6862603_37004.html",
     "http://www.yonhapnewstv.co.kr/news/MYH20261102200535Hcf",
-    "https://www.tokenpost.kr/news/tech/431318"
+    "https://www.tokenpost.kr/news/tech/431318",
+    "https://www.vegannews.co.kr/news/article.html?no=399643",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16266454"
    ],
    "seen_titles": [
-    "안철수\"벌땐정부치적,줄면투자비밀?\"…국민연금운용겨냥",
-    "[더벨]'투자유치재개'엘디카본,복수재무적투자자러브콜",
     "“SK하이닉스,목표주가350만원”…저평가해소전환앞뒀다는데",
     "인텔28%폭락…코스피,11월첫날도‘찬바람’",
     "美기술주급락에국내증시긴장…삼성전자·SK하이닉스향방주목",
@@ -4070,10 +4068,12 @@
     "한경협,AI데이터센터활성화촉구…전력·인허가개선요구",
     "인텔발뉴욕증시악재에도코스피반등‥중간선거등변수여전",
     "AI거품론에도…삼전닉스,빅테크고객잡기총력",
-    "삼성전자34%·SK하이닉스30%…2027년NAND값전년比상승전망"
+    "삼성전자34%·SK하이닉스30%…2027년NAND값전년比상승전망",
+    "SK하이닉스147만2000원마감…코스피2.24%상승",
+    "SK디앤디,소수계좌거래집중으로투자주의종목지정"
    ],
    "initialized": true,
-   "last_run": "2026-11-02T20:15:25.675048+09:00"
+   "last_run": "2026-11-02T20:20:25.697640+09:00"
   }
  },
  "press_names": {
