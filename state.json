@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-02T07:35:20.211780+09:00",
-     "쑥대밭 최악 인텔 되지 않았니 반세기"
-    ],
-    [
-     "2026-11-02T07:35:20.211780+09:00",
-     "현실로 모델 비즈니스 파괴"
-    ],
-    [
-     "2026-11-02T07:35:20.211780+09:00",
-     "방문 일본 삼성전자 이재용 현지 최태원 반도체 연구거점 회장 패키징"
-    ],
-    [
      "2026-11-02T07:40:25.293809+09:00",
      "부진에 코스피 빅테크 폭삭 뉴욕증시 덜컹 실적"
     ],
@@ -1066,16 +1054,17 @@
     [
      "2026-11-02T13:30:47.458628+09:00",
      "LoL T1 기아 월드 8강 디플러스 젠지 챔피언십"
+    ],
+    [
+     "2026-11-02T13:35:20.582479+09:00",
+     "공감 여론조사 조희대 ARS는 비공감 탄핵"
+    ],
+    [
+     "2026-11-02T13:35:20.582479+09:00",
+     "안정 주력 재편 SK그룹 계열사 속도 쇄신 인사"
     ]
    ],
    "seen_urls": [
-    "https://www.dt.co.kr/article/12092360",
-    "https://www.edaily.co.kr/News/Read?newsId=01243126645641456&mediaCodeNo=257",
-    "https://www.joongang.co.kr/article/25474697",
-    "https://www.econovill.com/news/articleView.html?idxno=755610",
-    "http://www.joseilbo.com/news/news_read.php?uid=578609&class=1",
-    "https://basketkorea.com/news/newsview.php?ncode=1065572879321600",
-    "https://www.yna.co.kr/view/AKR20261031036000017?input=1195m",
     "https://www.fnnews.com/news/202611010905135738",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500282",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=92590",
@@ -2568,16 +2557,16 @@
     "https://www.seoulfn.com/news/articleView.html?idxno=641619",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=146527",
     "https://www.pressman.kr/news/articleView.html?idxno=104285",
-    "https://www.gamechosun.co.kr/webzine/article/view.php?no=227080"
+    "https://www.gamechosun.co.kr/webzine/article/view.php?no=227080",
+    "https://www.starnewskorea.com/sports/2026/11/02/2026110213263319093",
+    "http://www.breaknews.com/1247496",
+    "http://www.segyebiz.com/newsView/20261102509906?OutUrl=naver",
+    "https://biz.chosun.com/science-chosun/bio/2026/11/02/NKVCCO7M7RBP3BJ7O7RWTLJ3JE/",
+    "https://www.cwn.kr/news/articleView.html?idxno=60754",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16266107",
+    "https://www.thedailypost.kr/news/articleView.html?idxno=116575"
    ],
    "seen_titles": [
-    "호남반도체'현실화'…11월투자기업입주협약전망",
-    "이천시,SK하이닉스방류수논란…수질관리방안제시",
-    "안철수“국민연금182조증발,리밸런싱유예누구지시인가”",
-    "SKT,‘AX혁신2.0’가동…“개인넘어조직성과로”",
-    "[현장]SKT,'1인1에이전트'넘어'조직AX'로…\"J커브골짜기빠르게...",
-    "SKT,'AX혁신2.0'본격화…AI활용개인에서조직으로확장",
-    "SKT직원4000명이AI에이전트만들었다…'AX'혁신가속",
     "충남도,202조첨단산업투자지원점검…인허가·전력·용수대응",
     "올해자사주취득·처분5배이상늘어…삼전·닉스가80%차지",
     "프로야구NC,김강민외야코디네이터영입…KBO최초",
@@ -4070,10 +4059,17 @@
     "[증권브리핑]우리투자증권,구조화금융대형거래잇달아단독수임외",
     "유난히힘들었던10월韓美증시...'중간선거'후반등한다?",
     "치료혁신·글로벌확장나선제약업계…신약부터백신기술까지경쟁...",
-    "2026LoL월드챔피언십,젠지·디플러스기아·T1,월드챔피언십8강진..."
+    "2026LoL월드챔피언십,젠지·디플러스기아·T1,월드챔피언십8강진...",
+    "'NC유니폼입은'김강민,日오키나와마무리캠프전격합류!이호준...",
+    "성수석이천시장,SK하이닉스반도체방류수수질관리관련입장표명",
+    "SK에코플랜트,‘1인1AI에이전트’추진...직원별맞춤형AI개발·적...",
+    "동아에스티,SK바이오팜뇌전증신약‘엑스코프리’국내출시",
+    "CATL,'글로벌전기차배터리시장압도'...국내3사점유율하락세",
+    "조희대탄핵'공감'47.9%·'비공감'47.8%…ARS는비공감52.2%(여론조사...",
+    "SK그룹,'안정속쇄신'인사…주력계열사재편속도"
    ],
    "initialized": true,
-   "last_run": "2026-11-02T13:30:47.458628+09:00"
+   "last_run": "2026-11-02T13:35:20.582479+09:00"
   }
  },
  "press_names": {
