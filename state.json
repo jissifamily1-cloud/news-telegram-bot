@@ -562,12 +562,13 @@
     [
      "2026-11-03T08:35:19.815582+09:00",
      "생산 파고든 대세 마케팅이 CEO들 제조 현장 30대"
+    ],
+    [
+     "2026-11-03T08:40:26.226091+09:00",
+     "창구 박수영 소통 푼다 주민 지역 직접 불편 국쫌만 300회 의원"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/AKR20261102101702YtM",
-    "https://www.mt.co.kr/thebio/2026/11/02/2026110210084583849",
-    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005952572",
     "https://daily.hankooki.com/news/articleView.html?idxno=1420642",
     "https://www.imaeil.com/page/view/2026110210022565493",
     "https://www.yna.co.kr/view/AKR20261102053500008?input=1195m",
@@ -2064,12 +2065,12 @@
     "http://www.breaknews.com/1247804",
     "https://www.pointe.co.kr/news/articleView.html?idxno=87058",
     "https://www.m-joongang.com/news/articleView.html?idxno=403281",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=284208"
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=284208",
+    "https://www.sportschosun.com/baseball/2026-11-03/202611030100015490001344",
+    "https://www.edaily.co.kr/News/Read?newsId=02997926645642112&mediaCodeNo=257",
+    "https://www.greened.kr/news/articleView.html?idxno=353656"
    ],
    "seen_titles": [
-    "한투증권\"내년코스피목표치8,300…4분기저점통과\"",
-    "동아에스티,SK바팜뇌전증신약'엑스코프리'출시…건보급여적용",
-    "KT도3G신규가입중단…국내3G서비스퇴장수순",
     "동아에스티,뇌전증치료신약'엑스코프리'국내출시",
     "미국發기술주쇼크에중간선거까지…코스피변동성주의보",
     "KB증권\"반도체,'W자반등'두번째바닥…상승여력주목할시점\"",
@@ -3566,10 +3567,13 @@
     "미국의회권력재편,한국경제안보의새로운시험대",
     "[오늘일본은]日마루이그룹고객9000명개인정보유출…54명은은행...",
     "SKT,서울시립대서'찾아가는캠퍼스'진행",
-    "[분석]현장파고든30대그룹CEO들…생산·제조·마케팅이'대세'"
+    "[분석]현장파고든30대그룹CEO들…생산·제조·마케팅이'대세'",
+    "'9위→2위'이끈매직은롯데를떠났다…'홈런제조기'이제는'대표팀...",
+    "아리바이오,알츠하이머신약'AR1001'일본특허등록…유럽도확보임...",
+    "\"주민불편직접푼다\"…박수영의원,지역소통창구'국쫌만'300회돌..."
    ],
    "initialized": true,
-   "last_run": "2026-11-03T08:35:19.815582+09:00"
+   "last_run": "2026-11-03T08:40:26.226091+09:00"
   }
  },
  "press_names": {
