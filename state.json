@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-02T14:00:38.207146+09:00",
-     "급등세 등판 SK하닉 코스피 연기금 소방수"
-    ],
-    [
-     "2026-11-02T14:00:38.207146+09:00",
-     ""
-    ],
-    [
      "2026-11-02T14:05:23.174899+09:00",
      "급등 딛고 코스피 급락 5900선 AI주 SK하이닉스"
     ],
@@ -1094,12 +1086,17 @@
     [
      "2026-11-02T19:55:19.204668+09:00",
      "울산시 석유화학 도입 현장 안전로봇"
+    ],
+    [
+     "2026-11-02T20:00:41.331057+09:00",
+     "투자 청주 자금경색 영향받나 하닉 경보"
+    ],
+    [
+     "2026-11-02T20:00:41.331057+09:00",
+     "충청북도 열려 노사민정협의회"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2642741",
-    "https://www.jasm.co.kr/news/view/323700/?sc=Naver",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280086&CMPT_CD=P0010",
     "http://www.metroseoul.co.kr/article/20261102500011",
     "https://www.sportschosun.com/sports-news/2026-11-02/202611010100005150000228",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=303904",
@@ -2596,12 +2593,12 @@
     "https://news.jtbc.co.kr/article/NB12326070?influxDiv=NAVER",
     "https://www.maniareport.com/view.php?ud=202611021837075137dad9f33a29_19",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2487495",
-    "https://www.iusm.co.kr/news/articleView.html?idxno=1069993"
+    "https://www.iusm.co.kr/news/articleView.html?idxno=1069993",
+    "http://www.cctimes.kr/news/articleView.html?idxno=935172",
+    "http://www.cctimes.kr/news/articleView.html?idxno=935174",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701750"
    ],
    "seen_titles": [
-    "[오늘의투자전략]美AI주급락여진,코스피5400~6000예상…저가매...",
-    "이상일용인시장,이탈리아피렌체시청방문해협력방안논의",
-    "'우승팀신인'이냐'베스트러너'냐,영플레이어상2파전",
     "메트로신문11월2일자한줄뉴스",
     "'함께성장했고함께승리했다!'장애-비장애장벽허문2026년서울림운...",
     "[굿모닝!글로벌뉴욕증시]알파벳에이은인텔,아마존실적발표가AI...",
@@ -4098,10 +4095,13 @@
     "'인텔쇼크'주식창열기겁났는데…코스피는반등,왜?",
     "‘A대표데뷔'김민수,김은중호합류...U-21대표팀멕시코2연전최정...",
     "SK하이닉스청주노조,청주시에취약계층돕기성금·물품6200만원기탁",
-    "울산시,석유화학현장'AI안전로봇'도입추진"
+    "울산시,석유화학현장'AI안전로봇'도입추진",
+    "하닉청주노조나눔·상생가치실천",
+    "AI자금경색경보하닉청주투자영향받나",
+    "[간추린단신]충청북도노사민정협의회열려외"
    ],
    "initialized": true,
-   "last_run": "2026-11-02T19:55:19.204668+09:00"
+   "last_run": "2026-11-02T20:00:41.331057+09:00"
   }
  },
  "press_names": {
