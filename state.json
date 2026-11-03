@@ -297,10 +297,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261103000241",
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=368727",
-    "http://www.joseilbo.com/news/news_read.php?uid=578751&class=53",
-    "https://economist.co.kr/article/view/ecn202611030003",
     "https://www.g-enews.com/view.php?ud=202611030913055263923c501012_1",
     "https://www.kmib.co.kr/article/20261103500115",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4442677",
@@ -1796,13 +1792,13 @@
     "http://www.press9.kr/news/articleView.html?idxno=85505",
     "https://www.edaily.co.kr/News/Read?newsId=02784726645642440&mediaCodeNo=257",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611040003&t=NN",
-    "http://www.popcornnews.net/news/articleView.html?idxno=138572"
+    "http://www.popcornnews.net/news/articleView.html?idxno=138572",
+    "https://www.mydaily.co.kr/page/view/2026110214224944907",
+    "https://www.khan.co.kr/article/202611040708001",
+    "https://www.mediapen.com/news/view/1134935",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=446678"
    ],
    "seen_titles": [
-    "30대그룹CEO,기획통줄고기술·현장전문가늘었다",
-    "'AI거품론'다시덮치나…반도체투톱동반추락에코스피3%대급락",
-    "[개장시황]코스피·코스닥,외국인·기관'팔자'에동반하락",
-    "中CXMT'4F²D램'샘플검증…韓반도체추격은'시기상조'",
     "코스피,장초반3%대급락5600선까지밀려..삼전닉스도하락",
     "\"연말까지저가매수기회…320만닉스갈것\"투자의견들어보니",
     "'AI수익성'우려지속…코스피,2.5%내린5700선출발",
@@ -3298,10 +3294,14 @@
     "[ELB줌인②]한국투자증권,발행1위…상품다양화강점",
     "[MUSTKNOW5]AMD,매출45%폭증·시간외7%↑…AI株랠리다시시작되나",
     "반도체·AI칩주반등…메모리가격상승전망에공급업체주목-[美증시...",
-    "SK온,헝가리공장의'수상한매출성장'…18배급증한폐기물이이유"
+    "SK온,헝가리공장의'수상한매출성장'…18배급증한폐기물이이유",
+    "치어리더'엔딩요정',주예지치어리더[치얼UP영상]",
+    "10년새미국계열사3배로…대기업해외거점,중국서미국으로",
+    "[美증시]반도체급등나스닥상승…애플급락에다우는하락",
+    "뉴욕증시,중간선거결과불확실성등영향혼조세⋯엔비디아·MS2%대,..."
    ],
    "initialized": true,
-   "last_run": "2026-11-04T07:05:21.693905+09:00"
+   "last_run": "2026-11-04T07:10:25.864854+09:00"
   }
  },
  "press_names": {
