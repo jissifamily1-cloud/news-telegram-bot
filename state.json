@@ -765,12 +765,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mediapen.com/news/view/1134330",
-    "https://biz.newdaily.co.kr/site/data/html/2026/11/02/2026110200166.html",
-    "https://www.globalepic.co.kr/view.php?ud=20261102111105940048439a4874_29",
-    "https://www.yna.co.kr/view/AKR20261102057751008?input=1195m",
-    "http://www.press9.kr/news/articleView.html?idxno=85391",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711754",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=283985",
     "https://www.fnnews.com/news/202611021102239987",
     "https://www.koreaittimes.com/news/articleView.html?idxno=158718",
@@ -2264,15 +2258,15 @@
     "https://www.joongangenews.com/news/articleView.html?idxno=560632",
     "https://www.widedaily.com/news/articleView.html?idxno=302652",
     "http://www.newsprime.co.kr/news/article.html?no=753417",
-    "https://www.hidomin.com/news/articleView.html?idxno=727706"
+    "https://www.hidomin.com/news/articleView.html?idxno=727706",
+    "https://www.newspost.kr/news/articleView.html?idxno=226990",
+    "https://www.mt.co.kr/stock/2026/11/03/2026110309575053665",
+    "https://magazine.hankyung.com/business/article/202611032177b",
+    "https://news.bizwatch.co.kr/article/market/2026/11/03/0005",
+    "https://www.yna.co.kr/view/AKR20261103060200008?input=1195m",
+    "https://www.newsis.com/view/NISX20261103_0003852287"
    ],
    "seen_titles": [
-    "코스피,기관매수에상승전환…5800선회복시도",
-    "팬오션,3분기영업익57.7%↑1974억…4년만에분기‘최대실적’",
-    "샘올트먼오픈AICEO방한…삼성·SK와AI동맹강화",
-    "코스피,상승전환해1%대강세…삼전닉스도반등(종합)",
-    "SK스퀘어,주주환원최소4조3000억원…출범후최대규모",
-    "SK스퀘어,역대최대주주환원추진...최소4.3조원규모",
     "SK스퀘어,4조3000억원주주환원…2028년까지2배확대",
     "우리투자증권,증자이후대형IB거래확대…구조화금융단독주관잇...",
     "SKT,AI활용개인단위서조직전체로확대…업무구조전면재설계",
@@ -3766,10 +3760,16 @@
     "SK하이닉스주가,11월3일장중1,401,000원대약세지속",
     "美증시한파에K-반도체'와르르'…삼성전자21만원·SK하이닉스140만...",
     "래블업,'엔비디아메인장식'초격차기술'주목'…'GPU스토리지속도...",
-    "전날2%급등하더니하루만에급락…코스피3%넘게빠져5700선붕괴"
+    "전날2%급등하더니하루만에급락…코스피3%넘게빠져5700선붕괴",
+    "DB자산운용,삼성전자·전기·SDI투자ETF상장",
+    "국제유가급락에정유주울상…에쓰오일11%하락",
+    "영원무역,한경협과한-방글라데시경제협력간담회공동개최",
+    "AI수익성우려에또흔들리는코스피…3%대급락",
+    "DB운용,삼성전자·삼성전기·삼성SDI집중투자ETF상장",
+    "국제유가7%대급락에정유주'휘청'…에쓰오일12%가까이하락"
    ],
    "initialized": true,
-   "last_run": "2026-11-03T09:57:51.074022+09:00"
+   "last_run": "2026-11-03T10:00:38.501242+09:00"
   }
  },
  "press_names": {
