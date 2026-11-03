@@ -218,13 +218,13 @@
     [
      "2026-11-04T06:25:27.741713+09:00",
      "구조물 에스와이이앤씨 대형 강점 특화 반도체 기술력"
+    ],
+    [
+     "2026-11-04T06:30:33.318184+09:00",
+     "반도체주 증시 나스닥 강세에"
     ]
    ],
    "seen_urls": [
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=268366",
-    "http://www.efnews.co.kr/news/articleView.html?idxno=133670",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500810",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7191876",
     "https://www.yna.co.kr/view/AKR20261103043700008?input=1195m",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=368761",
     "https://daily.hankooki.com/news/articleView.html?idxno=1421045",
@@ -1720,13 +1720,13 @@
     "https://www.fnnews.com/news/202611040621220252",
     "https://www.munhwa.com/article/11628556",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829316&plink=ORI&cooper=NAVER",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031404558090415"
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031404558090415",
+    "https://www.sedaily.com/article/20109899",
+    "https://www.jemin.com/news/articleView.html?idxno=846085",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703240",
+    "https://www.news2day.co.kr/article/20261103500028"
    ],
    "seen_titles": [
-    "SK오션플랜트,해상풍력구조물용접자동화…작업시간37%단축",
-    "코스피,3%대하락해5600선으로밀려…삼전닉스↓",
-    "SK행복나눔재단'곧장기부',누적기부금61억·기부자1만7000명",
-    "30대그룹CEO,기획통에서기술·현장전문가중심으로재편중",
     "코스피,장초반3%대급락해5670선후퇴...삼성전자·SK하이닉스4~5%대...",
     "아리바이오,AR1001일본특허등록…유럽도확보",
     "[특징주]삼전·닉스,美반도체주약세에장초반5%안팎급락",
@@ -3222,10 +3222,14 @@
     "[뉴욕증시]반도체강세속다우지수만하락…'속슬'7.3%급등",
     "[속보]다시,나스닥0.8%↑…마이크론2.5%상승",
     "민주당이기면'반도체걱정',공화당은'관세압박'",
-    "[PC국가대표]에스와이이앤씨-대형구조물특화기술력강점…반도체..."
+    "[PC국가대표]에스와이이앤씨-대형구조물특화기술력강점…반도체...",
+    "美,SK하닉中공장장비반입제동...“뉴욕공장투자도차질”",
+    "마이크론,반도체매도세딛고반등성공…AI메모리수요기대가투자...",
+    "“미국,SK하이닉스중국공장장비반입제동…뉴욕공장투자도차질”",
+    "[N2모닝경제브리핑-11월4일]美증시,반도체주강세에나스닥0.83%↑..."
    ],
    "initialized": true,
-   "last_run": "2026-11-04T06:25:27.741713+09:00"
+   "last_run": "2026-11-04T06:30:33.318184+09:00"
   }
  },
  "press_names": {
