@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-03T08:55:21.131625+09:00",
-     "3기 도시 바뀐다 신도시 대한항공까지 카카오 일자리"
-    ],
-    [
-     "2026-11-03T08:55:21.131625+09:00",
-     "종목은 급등한 기업 주가 저PBR 공개에 들썩 명단"
-    ],
-    [
-     "2026-11-03T08:55:21.131625+09:00",
-     "퍼스트바이오 유치 항암제 임상 투자 속도 IPO 100억 2027년 준비"
-    ],
-    [
-     "2026-11-03T08:55:21.131625+09:00",
-     "주요공시 2일 11월 주식시장"
-    ],
-    [
      "2026-11-03T09:00:47.624004+09:00",
      "무게 글자의 삼성전자"
     ],
@@ -962,15 +946,17 @@
     [
      "2026-11-03T14:55:20.965686+09:00",
      "중지 12월부터 군공항 사용 보라매축구공원 광주"
+    ],
+    [
+     "2026-11-03T15:00:39.438948+09:00",
+     "통신 3G의 SKT 퇴장 마침표 찍는다 23년 KT 역사"
+    ],
+    [
+     "2026-11-03T15:00:39.438948+09:00",
+     "삼성전기 현금 쌓고 차입도 확대 4조 쇼티지 베팅"
     ]
    ],
    "seen_urls": [
-    "https://www.sentv.co.kr/article/view/sentv202611020199",
-    "https://www.ziksir.com/news/articleView.html?idxno=151707",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711918",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=667391",
-    "https://www.jasm.co.kr/news/view/323843/?sc=Naver",
-    "https://www.cstimes.com/news/articleView.html?idxno=726271",
     "https://www.sedaily.com/article/20109171",
     "https://biz.chosun.com/stock/stock_general/2026/11/02/PY26QDOHZNA7DBPQ4ZFUSFAN5Y/",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701484",
@@ -2464,15 +2450,15 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=879310",
     "https://www.m-i.kr/news/articleView.html?idxno=2013746",
     "https://www.viva100.com/article/20261103500646",
-    "https://www.news1.kr/local/gwangju-jeonnam/6341423"
+    "https://www.news1.kr/local/gwangju-jeonnam/6341423",
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592452590709",
+    "http://www.finomy.com/news/articleView.html?idxno=265460",
+    "https://www.ziksir.com/news/articleView.html?idxno=151875",
+    "https://en.yna.co.kr/view/AEN20261103007500320?input=2106m",
+    "https://www.todayeconomic.com/news/article.html?no=32705",
+    "https://www.topdaily.kr/articles/112662"
    ],
    "seen_titles": [
-    "코스피,美반도체급락딛고2%대상승마감",
-    "KT,3G접고LTE·5G전환속도…무료단말·요금할인지원",
-    "반도체대형주반등에...코스피5800선회복",
-    "코스피,기관순매수에5850선반등마감",
-    "'검은월요일'피했다…코스피,5859.08로상승마감",
-    "코스피,상승전환...5800선회복",
     "빅테크부진뚫고5800선회복…삼성전자2%·SK하이닉스4%반등[마켓시...",
     "[마켓뷰]코스피,‘인텔쇼크’딛고2%상승…기관매수·자사주매입",
     "코스피,미국발악재에도반등…2%대상승마감",
@@ -3966,10 +3952,16 @@
     "이재용·최태원도춤추는AI시대…초상권보호는'전근대'",
     "치솟는유조선몸값에선제투자빛본다...韓해운,내년수혜기대",
     "인수금융넘어구조화금융까지…우리투자증권,1조자본앞세워IB영토...",
-    "광주군공항옆보라매축구공원12월부터사용중지"
+    "광주군공항옆보라매축구공원12월부터사용중지",
+    "엘앤에프,LG엔솔과1조원대양극재공급'잭팟'…배터리3사LFP공급망...",
+    "고객만족도되찾은SKT···보안신뢰회복의마지막관문은'재발방지...",
+    "SK오션플랜트,X-Brace용접자동화시연…작업시간37%단축",
+    "SKchiefsaysS.Korea,JapancouldgenerateUS$1tlnineconomicsynerg",
+    "3G의퇴장…SKT·KT,23년통신역사마침표찍는다",
+    "삼성전기,현금4조쌓고차입도확대…'AI쇼티지'베팅"
    ],
    "initialized": true,
-   "last_run": "2026-11-03T14:55:20.965686+09:00"
+   "last_run": "2026-11-03T15:00:39.438948+09:00"
   }
  },
  "press_names": {
