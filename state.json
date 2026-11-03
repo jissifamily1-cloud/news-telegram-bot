@@ -985,11 +985,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.insight.co.kr/news/580260",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=7958",
-    "http://www.metroseoul.co.kr/article/20261102500434",
-    "https://www.hankookilbo.com/news/article/A2026110212370001395?did=NA",
-    "https://www.vegannews.co.kr/news/article.html?no=399494",
     "https://view.asiae.co.kr/article/2026110214484021685",
     "https://www.job-post.co.kr/news/articleView.html?idxno=235905",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1730076",
@@ -2484,14 +2479,14 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16266944",
     "https://www.mstoday.co.kr/news/articleView.html?idxno=200351",
     "https://view.asiae.co.kr/article/2026110311451210993",
-    "https://www.wikitree.co.kr/articles/1171389"
+    "https://www.wikitree.co.kr/articles/1171389",
+    "https://www.sportsseoul.com/news/read/1646394",
+    "http://www.kjdaily.com/article.php?aid=1793677464691087276",
+    "https://www.tokenpost.kr/news/blockchain/431770",
+    "https://sateconomy.co.kr/news/view/1065584504813732",
+    "https://www.fnnews.com/news/202611031231132928"
    ],
    "seen_titles": [
-    "동아에스티,뇌전증신약'엑스코프리'국내출시...\"건보급여적용\"",
-    "동아에스티,국산41호뇌전증신약'엑스코프리'출시…뇌전증환자접...",
-    "SK증권,연금저축캐시백기부이벤트진행",
-    "엔비디아,9~10일서울서'AI데이'...삼성·SK·LG·두산총출동",
-    "SK스퀘어,경상배당수입60%이상주주환원",
     "“한미반도체,4분기회복·고객다변화기대…목표주가30만원유지”",
     "SK스퀘어95만4000원…하이닉스지분가치와환원정책부각",
     "'토큰경제'올라탄통신3사…AI시대새먹거리로낙점",
@@ -3986,10 +3981,15 @@
     "PO5차전팀이더강했다…삼성앞둔KBO한국시리즈'업셋패턴'",
     "AI투자불안에코스피3%급락…반도체주직격탄",
     "부산1000대기업매출첫50조원돌파…해운대기업이전효과",
-    "이언주\"트리니티팹참여기업과세부담도함께해소해야\"…재경위서조..."
+    "이언주\"트리니티팹참여기업과세부담도함께해소해야\"…재경위서조...",
+    "박영현vs원태인‘뒷문’대결…KS마지막‘불펜MVP’오승환→15년만...",
+    "삼성전자·SK하이닉스거래대금8.1%감소…래블업3위",
+    "[로빈후드온체인]팔란티어거래대금이하루만에11배로뛰어...커맨더...",
+    "마벨,루멘텀1150억달러인수…삼성전자·SK하이닉스AI시장에도변수",
+    "3기신도시,대기업품고환골탈태...\"기업유치경쟁\""
    ],
    "initialized": true,
-   "last_run": "2026-11-03T12:45:24.497775+09:00"
+   "last_run": "2026-11-03T12:50:25.594721+09:00"
   }
  },
  "press_names": {
