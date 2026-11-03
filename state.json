@@ -206,10 +206,13 @@
     [
      "2026-11-04T06:15:30.314558+09:00",
      "정치 삼전닉스 개봉 영향 변수 주가에 임박"
+    ],
+    [
+     "2026-11-04T06:20:31.460172+09:00",
+     "4일 경기 오늘의"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261103_0003852137",
     "https://www.insight.co.kr/news/580345",
     "https://sateconomy.co.kr/news/view/1065558450959185",
     "https://www.seoul.co.kr/news/economy/securities/2026/11/03/20261103500025?wlog_tag3=naver",
@@ -1708,10 +1711,10 @@
     "https://www.hitnews.co.kr/news/articleView.html?idxno=80463",
     "https://www.news1.kr/it-science/security-hacking/6341777",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=767470",
-    "https://www.news2day.co.kr/article/20261103500346"
+    "https://www.news2day.co.kr/article/20261103500346",
+    "https://www.yna.co.kr/view/AKR20261102164451007?input=1195m"
    ],
    "seen_titles": [
-    "코스피·코스닥장초반2%넘게하락…AI수익성우려지속",
     "“팬오션,올해와내년실적추정치높여”-미래에셋",
     "코스피,2%대하락출발…삼전·닉스4%안팎약세",
     "'2.5조재산분할'권혁빈스마게창업자,항소심서'최태원사건'뒤집은...",
@@ -3210,10 +3213,11 @@
     "[숏폼]아리바이오'AR1001',임상3상발표앞두고일본특허등록",
     "\"중국,못푸는암호도일단훔친다\"…韓양자보안경각심부족",
     "경남제약·동화약품·한독·광동제약등'저PBR'딱지...지속된수익악화...",
-    "[이태희의심호흡]삼전닉스주가에영향줄‘정치변수’개봉임박"
+    "[이태희의심호흡]삼전닉스주가에영향줄‘정치변수’개봉임박",
+    "◇오늘의경기(4일)"
    ],
    "initialized": true,
-   "last_run": "2026-11-04T06:15:30.314558+09:00"
+   "last_run": "2026-11-04T06:20:31.460172+09:00"
   }
  },
  "press_names": {
