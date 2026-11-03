@@ -1154,11 +1154,13 @@
     [
      "2026-11-03T19:50:27.526579+09:00",
      "요금 논란 비싸게 육지는 반값 바다선 스타링크 자율"
+    ],
+    [
+     "2026-11-03T19:55:21.650826+09:00",
+     "매수세에 SK하이닉스 상승 삼성전자 반등 기관 급락 마감 딛고"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026110217131799317",
-    "https://www.ceoscoredaily.com/page/view/2026110212191859350",
     "https://www.slist.kr/news/articleView.html?idxno=778466",
     "https://www.seoul.co.kr/news/economy/securities/2026/11/03/20261103500009?wlog_tag3=naver",
     "https://www.sidae.com/article/2026110307094179493",
@@ -2656,11 +2658,11 @@
     "https://www.ggilbo.com/news/articleView.html?idxno=1190902",
     "http://www.e2news.com/news/articleView.html?idxno=335751",
     "https://www.khan.co.kr/article/202611031946001",
-    "https://www.edaily.co.kr/News/Read?newsId=05720326645642112&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=05720326645642112&mediaCodeNo=257",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829031&plink=ORI&cooper=NAVER",
+    "https://www.ppss.kr/news/articleView.html?idxno=318615"
    ],
    "seen_titles": [
-    "[Invest]SK하이닉스,여전채이어예금담보ABCP까지…자금운용기민해...",
-    "구광모,LG성과보고회반환점…실적·'AI원팀'성과점검",
     "[클릭e종목]하루에11곳...현대차목표주가줄하향,왜?",
     "中CXMT‘첨단D램검증’엄포…삼성·SK,HBM독주‘변수’되나",
     "필라델피아반도체지수7.2%폭락충격…인텔28%·AMD10%급락",
@@ -4158,10 +4160,12 @@
     "[주식마감]'경영권분쟁가능성'한진칼·한진칼우상한가...깨끗한나...",
     "민간발전협회상근부회장에박덕열기후부수소경제정책관내정",
     "이대통령,튀르키예대통령과정상회담…“원전·방산등전략분야실...",
-    "육지는반값,바다선비싸게…스타링크'자율요금'논란"
+    "육지는반값,바다선비싸게…스타링크'자율요금'논란",
+    "이대통령\"한국전쟁참전튀르키예,'피나눈형제'…원전·방산협력...",
+    "삼성전자·SK하이닉스,급락딛고상승마감…기관매수세에반등"
    ],
    "initialized": true,
-   "last_run": "2026-11-03T19:50:27.526579+09:00"
+   "last_run": "2026-11-03T19:55:21.650826+09:00"
   }
  },
  "press_names": {
