@@ -1005,10 +1005,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.chosun.com/economy/tech_it/2026/11/02/J5XGZZ2ICRHL7G5V3M3V7XD2JQ/",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=87028",
-    "https://news.ifm.kr/news/articleView.html?idxno=483254",
-    "https://www.koreaherald.com/article/10922884",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611020111&t=NN",
     "https://www.insight.co.kr/news/580260",
     "https://www.moneystorm.kr/news/articleView.html?idxno=7958",
@@ -2504,13 +2500,13 @@
     "https://www.news1.kr/bio/pharmaceutical-bio/6341189",
     "https://www.yna.co.kr/view/AKR20261103098200007?input=1195m",
     "https://www.news2day.co.kr/article/20261103500118",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=800796"
+    "http://www.weeklytoday.com/news/articleView.html?idxno=800796",
+    "https://www.junggi.co.kr/news/articleView.html?idxno=38341",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16266944",
+    "https://www.mstoday.co.kr/news/articleView.html?idxno=200351",
+    "https://view.asiae.co.kr/article/2026110311451210993"
    ],
    "seen_titles": [
-    "통신3사,체험·쿠폰마케팅경쟁…이용자체감혜택은‘글쎄’",
-    "SK증권,연말연금저축캐시백프로모션진행…'고객참여형기부'결합",
-    "여주시대책위,'제2차용구공급사업'전면중단요구",
-    "AltmanbetsonSamsung,SKasAIraceintensifies",
     "\"월요일이두렵다\"개미떨었는데…연기금·한화오션'구원투수'등판",
     "동아에스티,뇌전증신약'엑스코프리'국내출시...\"건보급여적용\"",
     "동아에스티,국산41호뇌전증신약'엑스코프리'출시…뇌전증환자접...",
@@ -4006,10 +4002,14 @@
     "동아에스티,송도누리공원서도시숲가꾸기…친환경관리확대",
     "체력고갈걱정?…PO5차전거친팀이KS'반란'더잦았다",
     "\"뉴욕찍고아부다비로\"…한화운용,국내첫중동증시진출",
-    "[위클리오늘]이천시,아세안시장서59억원계약추진…중소기업수출..."
+    "[위클리오늘]이천시,아세안시장서59억원계약추진…중소기업수출...",
+    "[오전시황]한진칼·한싹상한가...삼전닉스약세에외국인1조원매도",
+    "PO5차전팀이더강했다…삼성앞둔KBO한국시리즈'업셋패턴'",
+    "AI투자불안에코스피3%급락…반도체주직격탄",
+    "부산1000대기업매출첫50조원돌파…해운대기업이전효과"
    ],
    "initialized": true,
-   "last_run": "2026-11-03T12:35:19.739133+09:00"
+   "last_run": "2026-11-03T12:40:25.107241+09:00"
   }
  },
  "press_names": {
