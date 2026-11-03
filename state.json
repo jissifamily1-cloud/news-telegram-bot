@@ -153,7 +153,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261103_0003852084",
     "https://www.sedaily.com/article/20109411",
     "https://www.fetv.co.kr/news/articleView.html?idxno=312875",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=622590",
@@ -1652,10 +1651,10 @@
     "https://www.etoday.co.kr/news/view/2642183",
     "https://www.joongang.co.kr/article/25475544",
     "https://www.seoul.co.kr/news/peoples/2026/11/04/20261104023005?wlog_tag3=naver",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031420111620428"
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031420111620428",
+    "https://www.newspim.com/news/view/20261104000021"
    ],
    "seen_titles": [
-    "아리바이오'AR1001',일본특허등록완료",
     "신한투자證“포스코퓨처엠,LFP양극재로성장본격화…목표가20만원...",
     "아리바이오\"알츠하이머치료제,美·日특허확보\"",
     "아리바이오경구용치매약美·日특허확보“글로벌상업화기반구축...",
@@ -3154,10 +3153,11 @@
     "메가히트예상빗나갔다…12→8단낮아지는HBM단수",
     "“빅테크도이건없다”…미·중AI경쟁속한국의생존전략",
     "SKT,임직원개발AI에이전트왕중왕전",
-    "AI빅테크,벌어도투자비못따라간다…잉여현금흐름적자전환"
+    "AI빅테크,벌어도투자비못따라간다…잉여현금흐름적자전환",
+    "로이터\"SK하이닉스450억달러뉴욕투자,美대중규제복병\""
    ],
    "initialized": true,
-   "last_run": "2026-11-04T05:30:33.186034+09:00"
+   "last_run": "2026-11-04T05:35:38.134119+09:00"
   }
  },
  "press_names": {
