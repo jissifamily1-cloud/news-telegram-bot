@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-03T09:15:27.435225+09:00",
-     "경제협력 영원무역그룹 방글라데시 한경협과 간담회 개최"
-    ],
-    [
-     "2026-11-03T09:15:27.435225+09:00",
-     "SK오션플랜트 해상풍력 자동화 작업시간 단축 구조물 용접"
-    ],
-    [
-     "2026-11-03T09:15:27.435225+09:00",
-     "하락해 5600선으로 코스피 밀려 삼전닉스"
-    ],
-    [
      "2026-11-03T09:20:32.705454+09:00",
      "12일 LG AI에이전트 로봇 네이버 SKT 다음은 카카오"
     ],
@@ -982,17 +970,25 @@
     [
      "2026-11-03T15:15:24.210925+09:00",
      "중간선거 금융시장 촉각 데이 유가 변동성 AI투자"
+    ],
+    [
+     "2026-11-03T15:20:25.636310+09:00",
+     "제한 제자리 경기 건설업 부진 3분기 회복도 인천 제조업"
+    ],
+    [
+     "2026-11-03T15:20:25.636310+09:00",
+     "2100여곳 해킹 국정원 보안점검 강화 대응 공공기관"
+    ],
+    [
+     "2026-11-03T15:20:25.636310+09:00",
+     "중국에 HBM을 빼돌리는 방법 한국산 밀수업자들이"
+    ],
+    [
+     "2026-11-03T15:20:25.636310+09:00",
+     "상장 ACE 글로벌메모리반도체TOP3채권혼합액티브 한투운용 ETF"
     ]
    ],
    "seen_urls": [
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=901657",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4442573",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2487333",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1730158",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=667392",
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260562",
-    "https://www.goodnews1.com/news/articleView.html?idxno=465775",
-    "https://dgmbc.com/NewsArticle/870888",
     "https://www.imaeil.com/page/view/2026110216075410869",
     "https://www.g-enews.com/view.php?ud=202611021601494159923c501012_1",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=314463",
@@ -2484,17 +2480,17 @@
     "https://dealsite.co.kr/articles/171949",
     "https://www.asiatime.co.kr/article/20261103500309",
     "https://www.news1.kr/bio/pharmaceutical-bio/6341507",
-    "https://www.seoulfn.com/news/articleView.html?idxno=641773"
+    "https://www.seoulfn.com/news/articleView.html?idxno=641773",
+    "https://www.imaeil.com/page/view/2026110215285672528",
+    "https://www.aitimes.com/news/articleView.html?idxno=216945",
+    "https://www.m-i.kr/news/articleView.html?idxno=2013660",
+    "https://www.gokorea.kr/news/articleView.html?idxno=883825",
+    "https://www.kgnews.co.kr/news/article.html?no=917982",
+    "https://www.seoulfn.com/news/articleView.html?idxno=641777",
+    "https://www.yna.co.kr/view/AKR20261103123500009?input=1195m",
+    "http://www.smarttimes.co.kr/news/articleView.html?idxno=50286"
    ],
    "seen_titles": [
-    "코스피,기관'사자'에5800선회복…코스닥도상승",
-    "[증시-마감]美·이란기대감에코스피2%대상승…기관순매수",
-    "코스피,기관매수에반전···5800선회복",
-    "SK에코플랜트,직원마다AI비서붙인다",
-    "우리투자증권,증자이후IB대형딜잇단성과",
-    "[10월ETF결산]㊤곱버스37%급등할때K방산레버리지54%추락",
-    "[선교편지]시에라리온에세워지는배움과복음의터전",
-    "하락출발코스피,반등성공2%상승마감···코스닥도730선회복",
     "대구경북저PBR기업7곳…시장은\"주주환원확대\"전망",
     "빅테크쇼크견딘코스피…외인은삼전·기관은SK하닉'순매수'",
     "코스피,기관1.2조순매수에5800선회복",
@@ -3986,10 +3982,18 @@
     "美공화당,하원흔들리고상원도접전…韓기업에남길변수는",
     "유럽도중국도올랐다⋯글로벌탄소배출권가격급등에도KAU는'잠잠'",
     "보건산업진흥원,카자흐스탄의료박람회서14억원수출계약",
-    "美중간선거'D-데이'···금융시장,AI투자·유가변동성'촉각'"
+    "美중간선거'D-데이'···금융시장,AI투자·유가변동성'촉각'",
+    "세계덮친인공지능수익성한파…포항'수십조원컴퓨터센터'속도전...",
+    "SKT,'1인1에이전트'속도낸다...사내우수에이전트5건선정",
+    "한투운용,글로벌메모리3사·채권에투자하는ETF신규상장",
+    "SK텔레콤AI대회'AX스파크'결선성료,혁신솔루션속출",
+    "인천3분기경기제자리…건설업부진속제조업회복도제한",
+    "국정원,공공기관2100여곳보안점검···해킹대응강화",
+    "밀수업자들이한국산HBM을중국에빼돌리는방법",
+    "한투운용,'ACE글로벌메모리반도체TOP3채권혼합액티브'ETF상장"
    ],
    "initialized": true,
-   "last_run": "2026-11-03T15:15:24.210925+09:00"
+   "last_run": "2026-11-03T15:20:25.636310+09:00"
   }
  },
  "press_names": {
