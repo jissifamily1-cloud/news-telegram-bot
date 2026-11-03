@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-03T05:40:29.600109+09:00",
-     "가동 라인 파워 팹서 솔리드 전해질 모비우스 황화물계 콜로라도"
-    ],
-    [
-     "2026-11-03T05:45:26.240773+09:00",
-     "매출 순손실은 감소 급증 앤트로픽 3분기 달러 169억"
-    ],
-    [
      "2026-11-03T06:00:40.577836+09:00",
      "백신은 국내생산세액공제 빠졌다 국가전략기술이라더니 대상에선"
     ],
@@ -1082,14 +1074,13 @@
     [
      "2026-11-03T11:40:24.019280+09:00",
      "총까지 이익률 메모리값 애플도 폭등에 아이팟에 쐈는데 하락"
+    ],
+    [
+     "2026-11-03T11:45:31.578918+09:00",
+     "캠페인 누구나 대한적십자사 기부 은행연합회 DiY"
     ]
    ],
    "seen_urls": [
-    "http://datanews.co.kr/news/article.html?no=147284",
-    "https://news.tf.co.kr/read/economy/2383704.htm",
-    "https://www.kgnews.co.kr/news/article.html?no=917740",
-    "https://www.mtnews.net/news/articleView.html?idxno=26412",
-    "http://www.newstomato.com/ReadNews.aspx?no=1318903&inflow=N",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500581",
     "https://www.mk.co.kr/article/12193475",
     "https://www.newsinside.kr/news/articleView.html?idxno=5038765",
@@ -2584,14 +2575,14 @@
     "https://www.newscj.com/news/articleView.html?idxno=3445416",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=667442",
     "https://econotimes.com/Bangladesh-Minister-Meets-South-Korean-Firms-to-Broaden-Trade-Links-1769445",
-    "https://www.donga.com/news/Inter/article/all/20261103/134956015/2"
+    "https://www.donga.com/news/Inter/article/all/20261103/134956015/2",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=879129",
+    "https://www.geconomy.co.kr/news/article.html?no=325235",
+    "https://www.hankyung.com/article/202611032579i",
+    "https://www.news1.kr/society/general-society/6341198",
+    "https://www.ibabynews.com/news/articleView.html?idxno=156477"
    ],
    "seen_titles": [
-    "SK증권,연금저축(랩)순입금고객대상캐시백기부이벤트",
-    "KT도3G신규가입중단…23년만에서비스종료수순",
-    "SKT만14~34세라면도미노피자반값…6일까지앱포장주문",
-    "생기원,평택에'반도체환경설비오픈랩'개소…기업실증·사업화지...",
-    "굿바이3G…SKT이어KT도신규가입중단",
     "AI전력인프라대전…차세대SiC·GaN화합물반도체몸값'쑥쑥'",
     "[단독]최태원대리한율촌,‘2.5조’스마일게이트이혼소송도맡는다",
     "[정해균의Zoom-人]곽노정유임에이어지는반도체패권경쟁…전영현의...",
@@ -4086,10 +4077,15 @@
     "[골프]KLPGA,장하나·박결·김보경·안송이에2027시즌시드권부여",
     "한투운용,채권혼합ETF상장…글로벌메모리반도체대표주투자",
     "BangladeshMinisterMeetsSouthKoreanFirmstoBroadenTradeLinks",
-    "“아이팟에총까지쐈는데”…메모리값폭등에애플도이익률하락"
+    "“아이팟에총까지쐈는데”…메모리값폭등에애플도이익률하락",
+    "[단독]이천까지조사했지만…용인반도체클러스터수질영향은'미지수...",
+    "장하나·박결·김보경·안송이,2027시즌KLPGA정규투어시드권받았다",
+    "경기집값상승상위10곳중6곳첨단산업거점…반도체배후지분양잇...",
+    "\"삼전19만,하닉90만원바닥\"…손절말고내년5~10월사라는전문가",
+    "[나눔트렌드]대한적십자사·은행연합회,‘누구나DiY기부캠페인’..."
    ],
    "initialized": true,
-   "last_run": "2026-11-03T11:40:24.019280+09:00"
+   "last_run": "2026-11-03T11:45:31.578918+09:00"
   }
  },
  "press_names": {
