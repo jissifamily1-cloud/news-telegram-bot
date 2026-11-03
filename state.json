@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-03T14:10:26.015487+09:00",
-     "삼전닉스 비명 5080만원 그랜저 초호황에 메모리 애플"
-    ],
-    [
-     "2026-11-03T14:10:26.015487+09:00",
-     "기획통에서 현장형으로 기술 CEO 30대 전문성 재편"
-    ],
-    [
      "2026-11-03T14:15:37.321173+09:00",
      "참가로 팬젠 시장 정조준 EPO의약품 유럽 바이오"
     ],
@@ -1141,8 +1133,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.rcast.co.kr/news/articleView.html?idxno=31950",
-    "https://www.public25.com/news/articleView.html?idxno=57744",
     "https://www.medicopharma.co.kr/news/articleView.html?idxno=70163",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711914",
     "https://www.insight.co.kr/news/580327",
@@ -2640,11 +2630,11 @@
     "https://www.korea.kr/news/policyNewsView.do?newsId=148974930&call_from=naver_news",
     "https://www.newsis.com/view/NISX20261103_0003853493",
     "https://www.g-enews.com/view.php?ud=202611031954466532bd56fbc3c_1",
-    "https://www.ppss.kr/news/articleView.html?idxno=318821"
+    "https://www.ppss.kr/news/articleView.html?idxno=318821",
+    "https://www.sedaily.com/article/20109867",
+    "http://www.kjdaily.com/article.php?aid=1793703655691154004"
    ],
    "seen_titles": [
-    "뉴욕증시,기술주매도세에혼조…나스닥1.1%↓",
-    "청주,SK하이닉스신규공장'공업용수공급망'구축",
     "우리투자증권,증자후대형IB딜순항...구조화금융잇단단독수임外",
     "뉴욕증시,기술주매도혼조세나스닥1.07%↓...국제유가미·이란협상...",
     "FDA,역가시험이전에'1개로트'명시…SK팜테코실무부담줄어드나",
@@ -4142,10 +4132,12 @@
     "이대통령\"한·튀르키예전략적동반자관계심화…원전·방산협력확...",
     "이대통령,\"튀르키예원전韓기업참여선제적지원\"…에르도안,\"FTA개...",
     "헝가리의고강도환경규제로한국배터리기업들비상",
-    "서버칩은버리고HBM만쏙...중국밀수시장서개당4천달러"
+    "서버칩은버리고HBM만쏙...중국밀수시장서개당4천달러",
+    "SK하이닉스,美첫낸드팹뉴욕주‘마시나노센터’유력…AI메모리새...",
+    "[주간증시전망]국내증시하락클라이맥스통과…연말산타랠리기대"
    ],
    "initialized": true,
-   "last_run": "2026-11-03T20:05:21.645973+09:00"
+   "last_run": "2026-11-03T20:10:27.122059+09:00"
   }
  },
  "press_names": {
