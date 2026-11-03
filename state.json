@@ -962,15 +962,21 @@
     [
      "2026-11-03T13:55:24.803498+09:00",
      "CEO는 여성 대기업 CEO 바뀌는데 고작"
+    ],
+    [
+     "2026-11-03T14:00:39.190157+09:00",
+     "8조 연기금 사자 SK하닉 쇼크 이틀간 방어한 인텔"
+    ],
+    [
+     "2026-11-03T14:00:39.190157+09:00",
+     "배터리 버텼다 제철소 빙하기 포스코퓨처엠 납품으로"
+    ],
+    [
+     "2026-11-03T14:00:39.190157+09:00",
+     "100조 이상무 SK하이닉스 공업용수 청주에"
     ]
    ],
    "seen_urls": [
-    "https://magazine.hankyung.com/business/article/202611020644b",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500631",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3739754",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=450918",
-    "https://biz.sbs.co.kr/article_hub/20000343669?division=NAVER",
-    "http://www.inews24.com/view/2021648",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=324512",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500627",
     "https://sports.khan.co.kr/article/202611021540003?pt=nv",
@@ -2464,15 +2470,15 @@
     "http://www.newslock.co.kr/news/articleView.html?idxno=139130",
     "https://www.edaily.co.kr/News/Read?newsId=04044246645642112&mediaCodeNo=257",
     "http://www.newslock.co.kr/news/articleView.html?idxno=139147",
-    "https://www.womennews.co.kr/news/articleView.html?idxno=284044"
+    "https://www.womennews.co.kr/news/articleView.html?idxno=284044",
+    "http://www.newstomato.com/ReadNews.aspx?no=1319039&inflow=N",
+    "http://www.newstomato.com/ReadNews.aspx?no=1319046&inflow=N",
+    "https://www.eroun.net/news/articleView.html?idxno=94238",
+    "https://www.mk.co.kr/article/12194651",
+    "https://biz.sbs.co.kr/article_hub/20000343872?division=NAVER",
+    "https://www.kmib.co.kr/article/20261103500787"
    ],
    "seen_titles": [
-    "2.5조재산분할판결불복한권혁빈…최태원사건뒤집은율촌선임",
-    "AI데이터센터전력난에ESS테마급등…효성중공업·HD현대에너지솔루...",
-    "SK하이닉스3.81%·SK스퀘어5.91%급등…코스피·코스닥동반상승마감",
-    "미국중간선거결과에한국경제영향권,관세및대미투자와반도체...",
-    "'인텔쇼크'버틴코스피…장중5900돌파",
-    "[단독]방미통위,휴대전화우회개통사실조사착수",
     "애플·AMD실적줄줄이…'반도체가절반'韓수출,AI호황이어질까",
     "전기차캐즘넘고ESS로확장…2차전지소재부품밸류체인살아나나",
     "10연승막혔지만‘찬란한꼴찌의반란’···삼성깨운김상식감독의...",
@@ -3966,10 +3972,16 @@
     "SKT,UNGC2027년리드기업위촉...AI기반환경경영강화",
     "외국인1.3조매도폭탄…코스피3%대하락세",
     "SK오션플랜트,해상풍력용접자동화확대...작업시간37%단축",
-    "대기업CEO판바뀌는데…여성CEO는고작2%"
+    "대기업CEO판바뀌는데…여성CEO는고작2%",
+    "엘앤에프,LG엔솔과1조원대LFP양극재계약",
+    "배터리3사희비교차…LG엔솔독주에SK온은다시적자",
+    "SK텔레콤,사내AI에이전트5000개개발…우수작시상",
+    "인텔쇼크방어한연기금·SK하닉...이틀간1.8조‘사자’",
+    "제철소납품으로…포스코퓨처엠,배터리빙하기버텼다",
+    "SK하이닉스청주에100조…공업용수‘이상무’"
    ],
    "initialized": true,
-   "last_run": "2026-11-03T13:55:24.803498+09:00"
+   "last_run": "2026-11-03T14:00:39.190157+09:00"
   }
  },
  "press_names": {
