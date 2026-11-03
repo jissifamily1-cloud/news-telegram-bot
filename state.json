@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-04T01:10:26.091884+09:00",
-     "해외에 기업들 팔리는"
-    ],
-    [
      "2026-11-04T02:35:20.495529+09:00",
      "TURKEY SOCCER"
     ],
@@ -294,16 +290,13 @@
     [
      "2026-11-04T07:05:21.693905+09:00",
      "급증한 헝가리 수상한 SK온 이유 18배 성장 매출 폐기물이 공장의"
+    ],
+    [
+     "2026-11-04T07:15:27.119382+09:00",
+     "최태원 경제 시너지 최소 회장 협력 일본 한국 반도체 1340조원"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202611030913055263923c501012_1",
-    "https://www.kmib.co.kr/article/20261103500115",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4442677",
-    "https://www.yna.co.kr/view/AKR20261103039551008?input=1195m",
-    "https://www.mt.co.kr/tech/2026/11/03/2026110309191938791",
-    "https://www.yna.co.kr/view/AKR20261103048900008?input=1195m",
-    "https://biz.heraldcorp.com/article/10923584",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500817",
     "http://www.newscape.co.kr/news/articleView.html?idxno=125521",
     "http://www.ikld.kr/news/articleView.html?idxno=343401",
@@ -1796,16 +1789,16 @@
     "https://www.mydaily.co.kr/page/view/2026110214224944907",
     "https://www.khan.co.kr/article/202611040708001",
     "https://www.mediapen.com/news/view/1134935",
-    "http://www.econonews.co.kr/news/articleView.html?idxno=446678"
+    "http://www.econonews.co.kr/news/articleView.html?idxno=446678",
+    "https://www.sportsseoul.com/news/read/1646403",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005954447",
+    "https://www.newsian.co.kr/news/articleView.html?idxno=100560",
+    "https://biz.heraldcorp.com/article/10924735",
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=601750",
+    "https://www.news1.kr/world/international-economy/6342092",
+    "https://www.greened.kr/news/articleView.html?idxno=353764"
    ],
    "seen_titles": [
-    "코스피,장초반3%대급락5600선까지밀려..삼전닉스도하락",
-    "\"연말까지저가매수기회…320만닉스갈것\"투자의견들어보니",
-    "'AI수익성'우려지속…코스피,2.5%내린5700선출발",
-    "한경협·영원무역,방글라데시기획재무부장관초청…경제협력논의",
-    "유가내려도웃지못한국내증시…美반도체주약세에코스피2%대하락",
-    "코스피,美기술주급락에장초반3%대하락…코스닥도2%대↓(종합)",
-    "SKT,사내AI에이전트경연대회개최…5개팀시상",
     "[특징주]국제유가7%급락에정유주덩달아줄하락",
     "롯데·OCI도‘반(半)’사이익…조직·증설로관련사업강화[비즈360]",
     "실적과임상이주가좌우…제약·바이오주선별매수확산",
@@ -3298,10 +3291,17 @@
     "치어리더'엔딩요정',주예지치어리더[치얼UP영상]",
     "10년새미국계열사3배로…대기업해외거점,중국서미국으로",
     "[美증시]반도체급등나스닥상승…애플급락에다우는하락",
-    "뉴욕증시,중간선거결과불확실성등영향혼조세⋯엔비디아·MS2%대,..."
+    "뉴욕증시,중간선거결과불확실성등영향혼조세⋯엔비디아·MS2%대,...",
+    "압박·전환‘변화’조짐…‘ACLE4연패는안된다’대행체제포항,...",
+    "30대그룹미국법인10년새3.3배급증…중국은급감",
+    "30대그룹,중국줄이고미국늘렸다…美법인10년새3.3배급증",
+    "“美,SK하이닉스中공장장비반입제동…뉴욕공장투자도차질”<로이...",
+    "SK하이닉스,뉴욕반도체공장건설차질⋯美,다롄공장장비반입불허",
+    "뉴욕증시반도체주4거래일만에반등…필반지수2.64%급등",
+    "최태원회장\"한국·일본AI·반도체등경제협력,최소1340조원시너지..."
    ],
    "initialized": true,
-   "last_run": "2026-11-04T07:10:25.864854+09:00"
+   "last_run": "2026-11-04T07:15:27.119382+09:00"
   }
  },
  "press_names": {
