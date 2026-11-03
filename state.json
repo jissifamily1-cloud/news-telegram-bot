@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-04T00:24:36.347240+09:00",
-     "중간선거에 외국인 수익성 수급이 촉각 코스피 관건"
-    ],
-    [
-     "2026-11-04T00:25:22.092548+09:00",
-     "반납 전날 상승분 하락 SK스퀘어"
-    ],
-    [
      "2026-11-04T00:35:24.065677+09:00",
      "중용 경험자 생산 30대 최고경영자 제조"
     ],
@@ -210,15 +202,25 @@
     [
      "2026-11-04T06:20:31.460172+09:00",
      "4일 경기 오늘의"
+    ],
+    [
+     "2026-11-04T06:25:27.741713+09:00",
+     "급등 속슬 강세속 하락 다우지수만 반도체"
+    ],
+    [
+     "2026-11-04T06:25:27.741713+09:00",
+     "마이크론 나스닥 다시 상승"
+    ],
+    [
+     "2026-11-04T06:25:27.741713+09:00",
+     "압박 공화당은 민주당 관세 반도체 걱정 이기면"
+    ],
+    [
+     "2026-11-04T06:25:27.741713+09:00",
+     "구조물 에스와이이앤씨 대형 강점 특화 반도체 기술력"
     ]
    ],
    "seen_urls": [
-    "https://www.insight.co.kr/news/580345",
-    "https://sateconomy.co.kr/news/view/1065558450959185",
-    "https://www.seoul.co.kr/news/economy/securities/2026/11/03/20261103500025?wlog_tag3=naver",
-    "https://www.etoday.co.kr/news/view/2643341",
-    "https://www.etoday.co.kr/news/view/2643339",
-    "https://www.hankyung.com/article/2026110318786",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=268366",
     "http://www.efnews.co.kr/news/articleView.html?idxno=133670",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500810",
@@ -1712,15 +1714,15 @@
     "https://www.news1.kr/it-science/security-hacking/6341777",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=767470",
     "https://www.news2day.co.kr/article/20261103500346",
-    "https://www.yna.co.kr/view/AKR20261102164451007?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261102164451007?input=1195m",
+    "https://www.ajunews.com/view/20261104061506609",
+    "https://www.the-today.com/news/articleView.html?idxno=92986",
+    "https://www.fnnews.com/news/202611040621220252",
+    "https://www.munhwa.com/article/11628556",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829316&plink=ORI&cooper=NAVER",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031404558090415"
    ],
    "seen_titles": [
-    "“팬오션,올해와내년실적추정치높여”-미래에셋",
-    "코스피,2%대하락출발…삼전·닉스4%안팎약세",
-    "'2.5조재산분할'권혁빈스마게창업자,항소심서'최태원사건'뒤집은...",
-    "한화자산운용,한국방산·제조업ETF2종아부다비상장…거래개시",
-    "[속보]삼전닉스-4%…코스피5700또무너졌다",
-    "영원무역그룹,한경협과한-방글라데시경제협력간담회개최",
     "SK오션플랜트,해상풍력구조물용접자동화…작업시간37%단축",
     "코스피,3%대하락해5600선으로밀려…삼전닉스↓",
     "SK행복나눔재단'곧장기부',누적기부금61억·기부자1만7000명",
@@ -3214,10 +3216,16 @@
     "\"중국,못푸는암호도일단훔친다\"…韓양자보안경각심부족",
     "경남제약·동화약품·한독·광동제약등'저PBR'딱지...지속된수익악화...",
     "[이태희의심호흡]삼전닉스주가에영향줄‘정치변수’개봉임박",
-    "◇오늘의경기(4일)"
+    "◇오늘의경기(4일)",
+    "美,SK하이닉스中공장반도체장비승인지연…뉴욕공장투자도차질",
+    "[투데이온]삼성파운드리,美테일러2공장서'AMD차세대HBM베이스다...",
+    "[뉴욕증시]반도체강세속다우지수만하락…'속슬'7.3%급등",
+    "[속보]다시,나스닥0.8%↑…마이크론2.5%상승",
+    "민주당이기면'반도체걱정',공화당은'관세압박'",
+    "[PC국가대표]에스와이이앤씨-대형구조물특화기술력강점…반도체..."
    ],
    "initialized": true,
-   "last_run": "2026-11-04T06:20:31.460172+09:00"
+   "last_run": "2026-11-04T06:25:27.741713+09:00"
   }
  },
  "press_names": {
