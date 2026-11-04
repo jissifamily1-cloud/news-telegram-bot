@@ -198,10 +198,13 @@
     [
      "2026-11-05T04:25:19.999724+09:00",
      "SOCCER TURKEY"
+    ],
+    [
+     "2026-11-05T04:30:31.404217+09:00",
+     "매도세 세레니티 추정 징하오과기 PER 6배 비판 AI주 연율화"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829677&plink=ORI&cooper=NAVER",
     "https://biz.sbs.co.kr/article_hub/20000344128?division=NAVER",
     "https://www.biotimes.co.kr/news/articleView.html?idxno=35898",
     "https://www.segye.com/newsView/20261104506307?OutUrl=naver",
@@ -1700,10 +1703,10 @@
     "https://n.news.naver.com/mnews/article/091/0010359222",
     "https://n.news.naver.com/mnews/article/091/0010359213",
     "https://www.geconomy.co.kr/news/article.html?no=325298",
-    "https://n.news.naver.com/mnews/article/091/0010359218"
+    "https://n.news.naver.com/mnews/article/091/0010359218",
+    "https://www.tokenpost.kr/news/market/432829"
    ],
    "seen_titles": [
-    "코스피장초반2.87%급반등…외국인951억순매수",
     "코리아그랜드페스티벌참가,원스토어'쿠폰팩'지급한다",
     "\"강남35억뚝,동탄은21%폭등?\"…대한민국부동산'삼분지계'[취재...",
     "SK증권\"증권주바닥다졌다…4분기실적개선전망\"",
@@ -3202,10 +3205,11 @@
     "코스피하루406포인트'롤러코스터'…외국인2조5000억팔아도상승마...",
     "epaselectTURKEYSOCCER",
     "TURKEYSOCCER",
-    "美민주당,상·하원동시탈환…트럼프경제정책제동에글로벌금융시..."
+    "美민주당,상·하원동시탈환…트럼프경제정책제동에글로벌금융시...",
+    "징하오과기연율화PER1.6배추정…세레니티,AI주매도세비판"
    ],
    "initialized": true,
-   "last_run": "2026-11-05T04:25:19.999724+09:00"
+   "last_run": "2026-11-05T04:30:31.404217+09:00"
   }
  },
  "press_names": {
