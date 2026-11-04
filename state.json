@@ -229,7 +229,6 @@
     ]
    ],
    "seen_urls": [
-    "https://dealsite.co.kr/articles/172033",
     "http://www.joseilbo.com/news/news_read.php?uid=578871&class=17",
     "https://www.newspost.kr/news/articleView.html?idxno=227016",
     "https://www.cbci.co.kr/news/articleView.html?idxno=622946",
@@ -1728,10 +1727,10 @@
     "https://www.segye.com/newsView/20261105501255?OutUrl=naver",
     "https://www.newsis.com/view/NISX20261104_0003855228",
     "https://www.joongang.co.kr/article/25475914",
-    "https://www.sidae.com/article/2026110409010135088"
+    "https://www.sidae.com/article/2026110409010135088",
+    "https://www.mhns.co.kr/news/articleView.html?idxno=767609"
    ],
    "seen_titles": [
-    "SK바이오팜,세노바메이트치료범위넓힌다…美FDA에적응증추가신...",
     "SK바이오팜세노바메이트,전신발작으로적응증확대추진",
     "SKT,3분기영업익5523억…통신·AI두축성장지속",
     "SK바이오팜,뇌전증신약세노바메이트FDA적응증확대신청[공시pick]",
@@ -3230,10 +3229,11 @@
     "삼성전자18만원대·하이닉스90만원까지?…지금‘물타기’말리는이...",
     "경기남부반도체벨트'소형'아파트값5년만에최대상승",
     "“개인정보보호”칼잡은여권…“한방에궤멸”벌벌떠는기업",
-    "미국빅테크실적에'일희일비'…변동성커진코스피"
+    "미국빅테크실적에'일희일비'…변동성커진코스피",
+    "[전남광주행정감사]임종국특별시의원\"반도체지원실적줄줄이0건…'..."
    ],
    "initialized": true,
-   "last_run": "2026-11-05T05:05:21.657296+09:00"
+   "last_run": "2026-11-05T05:10:37.228705+09:00"
   }
  },
  "press_names": {
