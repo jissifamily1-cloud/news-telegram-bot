@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-04T06:20:31.460172+09:00",
-     "4일 경기 오늘의"
-    ],
-    [
      "2026-11-04T06:25:27.741713+09:00",
      "급등 속슬 강세속 하락 다우지수만 반도체"
     ],
@@ -1018,11 +1014,13 @@
     [
      "2026-11-04T12:20:25.286914+09:00",
      "LNG의 떠안는 속앓이 해킹 의혹 LNG선"
+    ],
+    [
+     "2026-11-04T12:25:19.827031+09:00",
+     "과거 선거보다 보니 중간선거 영향 국내증시 업종 모멘텀 주효"
     ]
    ],
    "seen_urls": [
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=368824",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500899",
     "https://www.junggi.co.kr/news/articleView.html?idxno=38350",
     "https://www.ziksir.com/news/articleView.html?idxno=151886",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=424773",
@@ -2520,11 +2518,11 @@
     "http://www.smarttimes.co.kr/news/articleView.html?idxno=50313",
     "https://zdnet.co.kr/view/?no=20261104121814",
     "https://biz.chosun.com/international/international_general/2026/11/04/RILFXNW77BAMPNKTPXV6INIKHE/",
-    "https://www.thelec.kr/news/articleView.html?idxno=64815"
+    "https://www.thelec.kr/news/articleView.html?idxno=64815",
+    "http://www.ttlnews.com/news/articleView.html?idxno=3158581",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=146631"
    ],
    "seen_titles": [
-    "SKT,2027년'UNGC리드기업'선정…ESG경영성과",
-    "SKT,유엔글로벌콤팩트'2027리드기업'선정…ESG경영성과인정",
     "美중간선거결과는달러에중립적…변수는유가와금리",
     "원·달러환율,1341.0원마감···2.8원↓",
     "[기자수첩]증권사애널리스트도'선관의무'있다",
@@ -4022,10 +4020,12 @@
     "SKTelecomQ3OperatingProfitSoars1,041%onAIBusinessGrowth",
     "외국자본에팔리는티맵,이용자데이터임의반출불가능",
     "‘친한파’오소프美상원의원,조지아서재선성공",
-    "해킹의혹LNG선떠안는K-LNG의'속앓이'"
+    "해킹의혹LNG선떠안는K-LNG의'속앓이'",
+    "삼성물산건설부문,금성백조와'예미지by홈닉'도입업무협약체결",
+    "美중간선거,과거국내증시영향보니...선거보다'업종모멘텀'이주효"
    ],
    "initialized": true,
-   "last_run": "2026-11-04T12:20:25.286914+09:00"
+   "last_run": "2026-11-04T12:25:19.827031+09:00"
   }
  },
  "press_names": {
