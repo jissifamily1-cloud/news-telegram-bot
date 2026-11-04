@@ -1106,11 +1106,17 @@
     [
      "2026-11-04T20:25:20.649415+09:00",
      "의사 유승교 위드텍 대전상의 회장 출마 대표 차기"
+    ],
+    [
+     "2026-11-04T20:30:33.825395+09:00",
+     "7525억 11월4일 집중 28조 삼전 하이닉스"
+    ],
+    [
+     "2026-11-04T20:30:33.825395+09:00",
+     "한다 예산도 선순환으로 가야"
     ]
    ],
    "seen_urls": [
-    "https://news.mtn.co.kr/article/2026110409404520575",
-    "https://www.ddaily.co.kr/page/view/2026110409363356480",
     "https://www.fnnews.com/news/202611040936043423",
     "https://www.edaily.co.kr/News/Read?newsId=03552246645642440&mediaCodeNo=257",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501123",
@@ -2608,11 +2614,11 @@
     "https://www.segye.com/newsView/20261104517843?OutUrl=naver",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=280497",
     "https://www.ngetnews.com/news/articleView.html?idxno=555589",
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2311517"
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2311517",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16268492",
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1336012"
    ],
    "seen_titles": [
-    "[속보]SKT,3분기영업익4135억원…전년대비흑자전환",
-    "리얼월드,김민정COO영입…피지컬AI글로벌공략속도",
     "美기술주반등속코스피도1.6%상승…저가매수세유입[fn오전시황]",
     "삼성물산‘홈닉’금성백조도합류…21개건설사로확대",
     "삼성물산,금성백조와스마트주거플랫폼협력…협력건설사21곳으로...",
@@ -4110,10 +4116,12 @@
     "상승→하락→반등…美중간선거에요동친코스피",
     "KoreanConglomeratesShiftBasesfromChinatoU.S.",
     "SK바이오팜,美뇌전증신약도입한발더…연내임상결과나온다",
-    "유승교위드텍대표,차기대전상의회장출마의사밝혀"
+    "유승교위드텍대표,차기대전상의회장출마의사밝혀",
+    "[공매도브리핑]11월4일2.28조…삼전·하이닉스7525억집중",
+    "[썰물밀물]AI예산도선순환으로가야한다"
    ],
    "initialized": true,
-   "last_run": "2026-11-04T20:25:20.649415+09:00"
+   "last_run": "2026-11-04T20:30:33.825395+09:00"
   }
  },
  "press_names": {
