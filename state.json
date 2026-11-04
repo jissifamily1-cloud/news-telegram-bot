@@ -454,11 +454,13 @@
     [
      "2026-11-05T07:45:21.679636+09:00",
      "26초 쐐기포 꺾었다 한국가스공사 남기고"
+    ],
+    [
+     "2026-11-05T07:50:24.154356+09:00",
+     "석유제품 소비자물가 10월 가격 상승"
     ]
    ],
    "seen_urls": [
-    "https://www.moneystorm.kr/news/articleView.html?idxno=8037",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=324762",
     "https://sateconomy.co.kr/news/view/1065576055534334",
     "https://www.sisajournal.com/news/articleView.html?idxno=392781",
     "https://www.cbci.co.kr/news/articleView.html?idxno=623011",
@@ -1956,11 +1958,11 @@
     "https://www.ajunews.com/view/20261105073638643",
     "https://www.mediapen.com/news/view/1135284",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260696",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831261&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831261&plink=ORI&cooper=NAVER",
+    "https://www.mk.co.kr/article/12197782",
+    "https://www.todayenergy.kr/news/articleView.html?idxno=305124"
    ],
    "seen_titles": [
-    "이상일용인시장,이탈리아ST마이크로방문…용인반도체프로젝트소...",
-    "통신3사,2027년실적개선·주주환원확대전망…SK텔레콤최선호주",
     "SKT,통신회복에AIDC성장축더했다…3Q영업익5523억",
     "[증시프리즘]코스피,2%대급락전환…외국인8천억원대매도에상승...",
     "﻿SK바이오팜,美FDA에세노바메이트신규적응증추가신청",
@@ -3458,10 +3460,12 @@
     "[아주증시포커스]'블루쓰나미'미국의회권력재편후코스피향방은?…...",
     "[美증시]선거불확실성해소·유가폭락에3대지수급등…빅테크주도",
     "[넥스트-샷]정치불확실성걷히자몰리는돈···월가환호해도AI주...",
-    "26초남기고'쐐기포'…한국가스공사,SK꺾었다"
+    "26초남기고'쐐기포'…한국가스공사,SK꺾었다",
+    "“SK텔레콤,AI데이터센터사업확인필요”…목표가↓",
+    "10월소비자물가,석유제품가격14.9%상승"
    ],
    "initialized": true,
-   "last_run": "2026-11-05T07:45:21.679636+09:00"
+   "last_run": "2026-11-05T07:50:24.154356+09:00"
   }
  },
  "press_names": {
