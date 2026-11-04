@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-05T02:10:24.621988+09:00",
-     "LG유플러스 급증 영업익 성장으로 통신 AIDC"
-    ],
-    [
      "2026-11-05T02:25:19.887043+09:00",
      "쓰나미 규제 시험대 트럼프 반도체 한국엔 블루 덮친"
     ],
@@ -498,13 +494,17 @@
     [
      "2026-11-05T08:05:21.268482+09:00",
      "데이터 해킹 핵심 현대차에 지키기 삼성 정부까지 경계령"
+    ],
+    [
+     "2026-11-05T08:10:28.756529+09:00",
+     "SK에코플랜트 완전 통합 IPO 접고 자회사화 반도체 사업"
+    ],
+    [
+     "2026-11-05T08:10:28.756529+09:00",
+     "넓게 보라고 장착 감독님께서 양우혁 2대2 강혁표 코트를"
     ]
    ],
    "seen_urls": [
-    "https://www.incheonilbo.com/news/articleView.html?idxno=1335925",
-    "https://www.yna.co.kr/view/AKR20261104071000003?input=1195m",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610301006545880109578",
-    "https://www.ajunews.com/view/20261104105302567",
     "https://vop.co.kr/A00001697454.html",
     "https://www.jbnews.com/news/articleView.html?idxno=1515083",
     "https://www.seoulfn.com/news/articleView.html?idxno=641787",
@@ -2000,13 +2000,13 @@
     "https://www.etoday.co.kr/news/view/2644311",
     "https://www.youthdaily.co.kr/news/article.html?no=229358",
     "https://biz.newdaily.co.kr/site/data/html/2026/11/05/2026110500022.html",
-    "https://www.smartbizn.com/news/articleView.html?idxno=158476"
+    "https://www.smartbizn.com/news/articleView.html?idxno=158476",
+    "https://www.sportsseoul.com/news/read/1647201",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=67113",
+    "https://www.jemin.com/news/articleView.html?idxno=846213",
+    "https://basketkorea.com/news/newsview.php?ncode=1065553951651653"
    ],
    "seen_titles": [
-    "SK텔레콤,3분기영업익5523억원···통신회복·AI사업확대",
-    "상지건설최대주주중앙첨단소재,유증배정분'100%청약'",
-    "SK바이오팜,세노바메이트치료영역넓힌다…FDA에소아·전신발작적응...",
-    "이천시의회,SK하이닉스·반도체융복합교육센터현장견학",
     "비중국시장서도약진…중국산전기차배터리점유율50%돌파",
     "[더벨][2026SK인사]디스커버리·가스수장동시교체…전략통'전면...",
     "[인문자의미국중간선거이야기|인간·문화·자연]중간선거이후미...",
@@ -3502,10 +3502,14 @@
     "[전일주요공시]한진칼·DL케미칼·사람인·다우기술등",
     "영업이익1천40%급증의\"민낮\"…SK텔레콤,본업매출정체에AI성장\"급...",
     "[속보]선거불확실성턴美증시급등했지만…삼성전자프리장'하락...",
-    "삼성·SK·현대차에정부까지'AI해킹'경계령···핵심데이터지키기..."
+    "삼성·SK·현대차에정부까지'AI해킹'경계령···핵심데이터지키기...",
+    "용인도시공사신경철사장,민간건설사임원대상특별강의‘성료’",
+    "[증시전망대]반도체급락속美증시급등…\"한국증시,결국반도체가...",
+    "SK㈜,SK에코플랜트완전자회사화추진…IPO접고반도체·AI사업통합...",
+    "‘강혁표2대2장착중’양우혁,“감독님께서코트를넓게보라고하..."
    ],
    "initialized": true,
-   "last_run": "2026-11-05T08:05:21.268482+09:00"
+   "last_run": "2026-11-05T08:10:28.756529+09:00"
   }
  },
  "press_names": {
