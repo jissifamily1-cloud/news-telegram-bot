@@ -374,10 +374,13 @@
     [
      "2026-11-05T00:45:31.894093+09:00",
      "자릿수 ETN ESS도 이차전지 ETF 태양광 급등"
+    ],
+    [
+     "2026-11-05T00:50:24.768028+09:00",
+     "6조 심의 반도체 카페 지원금 의사가 대표 호남"
     ]
    ],
    "seen_urls": [
-    "https://biz.newdaily.co.kr/site/data/html/2026/11/04/2026110400098.html",
     "https://daily.hankooki.com/news/articleView.html?idxno=1421538",
     "https://www.jejusori.net/news/articleView.html?idxno=508021",
     "https://edu.donga.com/news/articleView.html?idxno=113469",
@@ -1876,10 +1879,10 @@
     "https://www.ekn.kr/web/view.php?key=20261105023515567",
     "https://www.ekn.kr/web/view.php?key=20261105023575546",
     "https://www.ekn.kr/web/view.php?key=20261105027085584",
-    "http://www.kjdaily.com/article.php?aid=1793806808691241276"
+    "http://www.kjdaily.com/article.php?aid=1793806808691241276",
+    "https://www.chosun.com/politics/assembly/2026/11/05/N7UOG7BHN5ELRGNLR6NTKL352I/"
    ],
    "seen_titles": [
-    "SKT,3분기영업익5523억전년比10배↑'껑충'…통신·AI성장세지속",
     "SK텔레콤,3분기영업익5523억…전년比1040%↑",
     "'수리할권리'부터'순환경제'까지...제주의새로운기회",
     "HL디앤아이한라,청주'신분평에피트더웨이시티'4일당첨자발표…...",
@@ -3378,10 +3381,11 @@
     "[패트롤]용인시-여주시-성남시-경기광주시-이천시",
     "[패트롤]인천시-인천시의회-인천시교육청-인천교통공사",
     "[패트롤]이천시의회-광주시의회-용인시의회",
-    "이차전지ETF·ETN14%대급등…태양광·ESS도두자릿수↑"
+    "이차전지ETF·ETN14%대급등…태양광·ESS도두자릿수↑",
+    "카페대표·의사가…호남반도체6조지원금심의"
    ],
    "initialized": true,
-   "last_run": "2026-11-05T00:45:31.894093+09:00"
+   "last_run": "2026-11-05T00:50:24.768028+09:00"
   }
  },
  "press_names": {
