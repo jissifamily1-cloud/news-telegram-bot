@@ -409,8 +409,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.lawissue.co.kr/view.php?ud=2026110410532140367191f6c6e_12",
-    "http://www.thevaluenews.co.kr/news/view.php?idx=202960",
     "https://www.inthenews.co.kr/news/article.html?no=93999",
     "https://www.etoday.co.kr/news/view/2643930",
     "https://www.nc.press/news/articleView.html?idxno=630175",
@@ -1908,11 +1906,11 @@
     "https://www.edaily.co.kr/News/Read?newsId=02886406645642768&mediaCodeNo=257",
     "https://www.edaily.co.kr/News/Read?newsId=02883126645642768&mediaCodeNo=257",
     "https://www.cbci.co.kr/news/articleView.html?idxno=623307",
-    "https://www.edaily.co.kr/News/Read?newsId=02873286645642768&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=02873286645642768&mediaCodeNo=257",
+    "https://www.econovill.com/news/articleView.html?idxno=756067",
+    "https://www.hankyung.com/article/2026110569576"
    ],
    "seen_titles": [
-    "세종시,2027년본예산안2조1579억편성",
-    "[단독]DL그룹,세계1위의료용합성고무기업글랜우드PE에매각",
     "구교환·신승호'부활남:더레드',오늘(4일)부터집에서본다[공식]",
     "두산에너빌리티,영주가흥에‘트리븐가흥’11월공급…765가구",
     "SK텔레콤,3Q매출액4.5조...전년동기比13.1%↑",
@@ -3410,10 +3408,12 @@
     "SK바이오팜·녹십자·삼바,줄이은낭보에급락장역주행[바이오맥짚기...",
     "SKBiopharm’sXcopriLaunchesinKoreaWithInsuranceCoverage[K-Bio",
     "[튀르키예대통령방한]에르도안,정의선·노태문등국내주요기업경...",
-    "[사고]내일맡길AI,함께일할로봇…12일GAIF서만난다"
+    "[사고]내일맡길AI,함께일할로봇…12일GAIF서만난다",
+    "美중간선거'블루쓰나미'…AI데이터센터제동걸리나",
+    "트럼프패배인정에다우3%급등…유가8%급락[뉴욕증시브리핑]"
    ],
    "initialized": true,
-   "last_run": "2026-11-05T07:20:23.778053+09:00"
+   "last_run": "2026-11-05T07:25:18.561121+09:00"
   }
  },
  "press_names": {
