@@ -201,8 +201,6 @@
     ]
    ],
    "seen_urls": [
-    "https://it.chosun.com/news/articleView.html?idxno=3000000000203",
-    "https://www.news2day.co.kr/article/20261104500088",
     "https://www.news2day.co.kr/article/20261104500131",
     "https://www.jemin.com/news/articleView.html?idxno=846104",
     "https://www.seoul.co.kr/news/economy/securities/2026/11/04/20261104500053?wlog_tag3=naver",
@@ -1700,11 +1698,11 @@
     "https://www.mt.co.kr/stock/2026/11/05/2026110416385637497",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=667559",
     "https://www.mt.co.kr/stock/2026/11/05/2026110420040774071",
-    "https://www.edaily.co.kr/News/Read?newsId=01423526645642768&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01423526645642768&mediaCodeNo=257",
+    "https://www.stnsports.co.kr/news/articleView.html?idxno=325113",
+    "https://www.geconomy.co.kr/news/article.html?no=325297"
    ],
    "seen_titles": [
-    "SKT,3분기영업익1040%↑…해킹기저효과",
-    "코스피,반발매수에5,700선회복…삼전·하이닉스동반상승",
     "SKT,3분기영업익5523억…통신·AI성장에실적회복(상보)",
     "SK하이닉스미국낸드공장투자변수부상…중국다롄장비승인에달...",
     "미반도체주반등훈풍…코스닥상승출발,상승종목1200개",
@@ -3202,10 +3200,12 @@
     "\"버텨야한다\"…삼전닉스급락,실적아닌'이것'때문이라는데[부꾸미...",
     "[김영권편집대표칼럼]트럼프참패,한국에기회인가",
     "잠잠해진공매도…한숨돌린삼전닉스",
-    "美민주압승에세계각국셈법달라진다…이란종전·통상협상변수"
+    "美민주압승에세계각국셈법달라진다…이란종전·통상협상변수",
+    "빼앗긴승리,1분만에되찾았다...가스공사,SK82-76제압",
+    "코스피하루406포인트'롤러코스터'…외국인2조5000억팔아도상승마..."
    ],
    "initialized": true,
-   "last_run": "2026-11-05T04:10:24.298195+09:00"
+   "last_run": "2026-11-05T04:15:24.028931+09:00"
   }
  },
  "press_names": {
