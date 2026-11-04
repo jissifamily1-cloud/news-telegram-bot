@@ -1002,11 +1002,13 @@
     [
      "2026-11-04T13:00:41.068278+09:00",
      "공장에 차질 일정 수출 진행 없이 SK하이닉스 장비 보류"
+    ],
+    [
+     "2026-11-04T13:05:21.224089+09:00",
+     "중단 시정 대안 부풀리기 없는 사업 성과 평가 송우현 100일 전재수"
     ]
    ],
    "seen_urls": [
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=667474",
-    "https://www.namdonews.com/news/articleView.html?idxno=928057",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1730307",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=314530",
     "https://it.chosun.com/news/articleView.html?idxno=3000000000147",
@@ -2504,11 +2506,11 @@
     "http://www.ftoday.co.kr/news/articleView.html?idxno=368876",
     "https://www.vegannews.co.kr/news/article.html?no=400356",
     "https://www.ajunews.com/view/20261104124809922",
-    "https://zdnet.co.kr/view/?no=20261104115221"
+    "https://zdnet.co.kr/view/?no=20261104115221",
+    "https://news.tf.co.kr/read/economy/2384717.htm",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3742035"
    ],
    "seen_titles": [
-    "코스피,美중간선거경계감에5640선급락",
-    "[마감시황]코스피3.59%급락…코스닥도4%대하락…'삼전닉스'도털썩",
     "최태원회장\"한일경제협력통해1조달러시너지창출하자\"",
     "코스피,반등하루만에3.59%급락",
     "[마감]코스피3%하락…美선거·AI투자부담에외국인'팔자'",
@@ -4006,10 +4008,12 @@
     "SKT,3분기영업익전년比1040%↑…통신·AI실적회복견인",
     "SK바이오팜,세노바메이트PGTC적응증sNDA제출",
     "[美중간선거]차세대대권주자...'지한파'오소프상원의원,조지아서...",
-    "美,SK하이닉스中공장에장비수출보류...\"일정차질없이진행\""
+    "美,SK하이닉스中공장에장비수출보류...\"일정차질없이진행\"",
+    "해킹이후보안투자이어가는통신3사,전문인력채용도활발",
+    "전재수시정100일평가…송우현\"대안없는사업중단·성과부풀리기..."
    ],
    "initialized": true,
-   "last_run": "2026-11-04T13:00:41.068278+09:00"
+   "last_run": "2026-11-04T13:05:21.224089+09:00"
   }
  },
  "press_names": {
