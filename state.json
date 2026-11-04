@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-04T22:20:25.754751+09:00",
-     "포항 김동진 보이콧에 응원 민감할 서포터스 있는데"
-    ],
-    [
      "2026-11-04T22:35:20.498566+09:00",
      "매도에도 외국인 400포인트 출렁 코스피 넘게 2조5000억 장중 상승"
     ],
@@ -198,14 +194,13 @@
     [
      "2026-11-05T04:05:20.961407+09:00",
      "세계 종전 각국 변수 통상협상 이란 민주 압승에 셈법 달라진다"
+    ],
+    [
+     "2026-11-05T04:25:19.999724+09:00",
+     "SOCCER TURKEY"
     ]
    ],
    "seen_urls": [
-    "https://www.news2day.co.kr/article/20261104500131",
-    "https://www.jemin.com/news/articleView.html?idxno=846104",
-    "https://www.seoul.co.kr/news/economy/securities/2026/11/04/20261104500053?wlog_tag3=naver",
-    "https://www.seoul.co.kr/news/economy/securities/2026/11/04/20261104500055?wlog_tag3=naver",
-    "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1782902",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829677&plink=ORI&cooper=NAVER",
     "https://biz.sbs.co.kr/article_hub/20000344128?division=NAVER",
     "https://www.biotimes.co.kr/news/articleView.html?idxno=35898",
@@ -1700,12 +1695,14 @@
     "https://www.mt.co.kr/stock/2026/11/05/2026110420040774071",
     "https://www.edaily.co.kr/News/Read?newsId=01423526645642768&mediaCodeNo=257",
     "https://www.stnsports.co.kr/news/articleView.html?idxno=325113",
-    "https://www.geconomy.co.kr/news/article.html?no=325297"
+    "https://www.geconomy.co.kr/news/article.html?no=325297",
+    "https://n.news.naver.com/mnews/article/091/0010359221",
+    "https://n.news.naver.com/mnews/article/091/0010359222",
+    "https://n.news.naver.com/mnews/article/091/0010359213",
+    "https://www.geconomy.co.kr/news/article.html?no=325298",
+    "https://n.news.naver.com/mnews/article/091/0010359218"
    ],
    "seen_titles": [
-    "SKT,3분기영업익5523억…통신·AI성장에실적회복(상보)",
-    "SK하이닉스미국낸드공장투자변수부상…중국다롄장비승인에달...",
-    "미반도체주반등훈풍…코스닥상승출발,상승종목1200개",
     "코스피장초반2.87%급반등…외국인951억순매수",
     "코리아그랜드페스티벌참가,원스토어'쿠폰팩'지급한다",
     "\"강남35억뚝,동탄은21%폭등?\"…대한민국부동산'삼분지계'[취재...",
@@ -3202,10 +3199,13 @@
     "잠잠해진공매도…한숨돌린삼전닉스",
     "美민주압승에세계각국셈법달라진다…이란종전·통상협상변수",
     "빼앗긴승리,1분만에되찾았다...가스공사,SK82-76제압",
-    "코스피하루406포인트'롤러코스터'…외국인2조5000억팔아도상승마..."
+    "코스피하루406포인트'롤러코스터'…외국인2조5000억팔아도상승마...",
+    "epaselectTURKEYSOCCER",
+    "TURKEYSOCCER",
+    "美민주당,상·하원동시탈환…트럼프경제정책제동에글로벌금융시..."
    ],
    "initialized": true,
-   "last_run": "2026-11-05T04:20:24.430695+09:00"
+   "last_run": "2026-11-05T04:25:19.999724+09:00"
   }
  },
  "press_names": {
