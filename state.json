@@ -914,19 +914,17 @@
     [
      "2026-11-04T14:05:20.967096+09:00",
      "승부 북미서 제2 EV ESS로 K배터리 라인을 3사"
+    ],
+    [
+     "2026-11-04T14:10:25.537651+09:00",
+     "전망은 향후 SK이노베이션 실적 역대"
+    ],
+    [
+     "2026-11-04T14:10:25.537651+09:00",
+     "속도 확장 SK텔레콤 정상화 털고 충격 인프라 실적 해킹"
     ]
    ],
    "seen_urls": [
-    "https://www.dt.co.kr/article/12092932",
-    "https://www.g-enews.com/view.php?ud=202611031633567443923c501012_1",
-    "https://www.newstopkorea.com/news/articleView.html?idxno=48739",
-    "http://www.inews24.com/view/2022147",
-    "https://www.donga.com/news/Economy/article/all/20261103/134958251/1",
-    "https://www.thepublic.kr/news/articleView.html?idxno=324911",
-    "https://www.thepublic.kr/news/articleView.html?idxno=324930",
-    "https://www.sentv.co.kr/article/view/sentv202611030197",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16267179",
-    "https://www.m-i.kr/news/articleView.html?idxno=2013912",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501009",
     "https://www.biotimes.co.kr/news/articleView.html?idxno=35866",
     "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307916",
@@ -2416,19 +2414,19 @@
     "https://www.newsgn.com/news/articleView.html?idxno=583441",
     "http://www.thevaluenews.co.kr/news/view.php?idx=202956",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=324782",
-    "http://www.inews24.com/view/2022415"
+    "http://www.inews24.com/view/2022415",
+    "https://www.fnnews.com/news/202611041354593202",
+    "http://www.financialreview.co.kr/news/articleView.html?idxno=46022",
+    "https://www.delighti.co.kr/news/articleView.html?idxno=124353",
+    "https://www.yna.co.kr/view/AKR20261104089100008?input=1195m",
+    "https://www.koreaherald.com/article/10925663",
+    "https://www.globalepic.co.kr/view.php?ud=2026110412113648496e1e092a28_29",
+    "https://www.fnnews.com/news/202611041402336105",
+    "https://www.aitimes.com/news/articleView.html?idxno=216991",
+    "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89025",
+    "http://www.seouleconews.com/news/articleView.html?idxno=94780"
    ],
    "seen_titles": [
-    "한투·KB·IBK까지…뒤늦은삼전닉스목표가낮추기",
-    "AI과잉투자경계감…삼전·닉스,외인'팔자'에4~5%대급락",
-    "아리바이오,알츠하이머치료제AR1001美·日특허확보…유럽등록도...",
-    "코스피3%급락마감⋯외인·기관2조'매도공세'",
-    "美‘AI거품론’에코스피3.59%하락…삼성전자·SK하이닉스동반휘청",
-    "삼성반도체106조벌때완제품은'적자'…AI에둘로갈린부품시장",
-    "주간엔하락,야간엔반등…원·달러환율움직이는반도체달러",
-    "코스피,AI투자우려에3%대하락마감…외인·기관'팔자'",
-    "[공매도브리핑]11월3일1.7조…삼성전자84%급증",
-    "경주시,폐현수막재활용순환체계구축…새현수막으로재사용",
     "[코스피지수선물옵션]삼성전자·SK하이닉스선물동반하락…삼성바...",
     "유럽의약품청,면역글로불린과민반응전수조사…32조글로벌시장긴장",
     "한국투자,일본AIDC에10조원이나투자하는이유는?",
@@ -3918,10 +3916,20 @@
     "합천군,SKT와함께'찾아가는서비스'제공",
     "[더밸류브리핑]오늘의ETF소식...삼성자산운용·NH-아문디자산운용·...",
     "163년그린트위드첫여성CEO매건부러바흐,산통부장관표창",
-    "EV라인을ESS로…K배터리3사,북미서'제2승부'"
+    "EV라인을ESS로…K배터리3사,북미서'제2승부'",
+    "급락은일단진정됐지만…외국인2.5조매도에코스피부진[fn오후시황...",
+    "통신회복에AI성장까지…아성되찾은SKT,3분기실적개선",
+    "SKT,3분기영업이익5523억원…전년동기대비1040%증가",
+    "기업성적표도'K자형양극화'…반환점돈3분기실적시즌",
+    "SKTelecom'sQ3profitreboundshigherthanbefore2025hackingincide",
+    "인천시,'2026제약바이오투자대전'개최",
+    "美민주당압승에글로벌증시급락…AI투자제동우려[美중간선거]",
+    "SKT,3분기통신·AI두축성장세지속…AIDC사업본격화",
+    "SK이노베이션역대최대실적,향후전망은",
+    "SK텔레콤,해킹충격털고실적정상화…AI인프라확장속도"
    ],
    "initialized": true,
-   "last_run": "2026-11-04T14:05:20.967096+09:00"
+   "last_run": "2026-11-04T14:10:25.537651+09:00"
   }
  },
  "press_names": {
