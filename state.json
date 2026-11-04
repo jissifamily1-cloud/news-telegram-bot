@@ -285,8 +285,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.asiaa.co.kr/news/articleView.html?idxno=269247",
-    "https://www.slist.kr/news/articleView.html?idxno=778868",
     "https://www.newsinside.kr/news/articleView.html?idxno=5040299",
     "https://www.ngonews.kr/news/articleView.html?idxno=242304",
     "https://www.meconomynews.com/news/articleView.html?idxno=203263",
@@ -1784,11 +1782,11 @@
     "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100311",
     "https://www.fnnews.com/news/202611050633397567",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501362",
-    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=377209"
+    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=377209",
+    "https://www.sedaily.com/article/20110414",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=8078"
    ],
    "seen_titles": [
-    "국립청주해양과학관,바다없는내륙에'미래의바다'를열다",
-    "엔비디아만돈버는줄알았더니…AMD도AI타고18조원잭팟",
     "삼성8인치파운드리철수에팹리스비상…전력·디스플레이반도체차...",
     "SK텔레콤,3Q영업익5523억원...전년比1040.3%증가",
     "원스토어,'코리아그랜드페스티벌'동참…게임할인쿠폰팩증정",
@@ -3286,10 +3284,12 @@
     "[442.interview]'제2의박지성'강상윤이그리는미래\"누군가가제2의...",
     "[뉴욕증시]중간선거불확실성사라지며급등…'속슬'8.8%급락",
     "코스피·코스닥전거래일(4일)주요공시는...프로티나,73억원제3자배...",
-    "'벨란겔16점'한국가스공사,SK6연승저지하며82-76승리…5위로올라..."
+    "'벨란겔16점'한국가스공사,SK6연승저지하며82-76승리…5위로올라...",
+    "‘美민주압승’종전기대에유가8%폭락...반도체지수는규제우려에...",
+    "[글로벌마켓뷰]美민주당압승에뉴욕증시안도랠리…다우3%급등,..."
    ],
    "initialized": true,
-   "last_run": "2026-11-05T06:40:23.781663+09:00"
+   "last_run": "2026-11-05T06:45:22.771055+09:00"
   }
  },
  "press_names": {
