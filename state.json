@@ -633,10 +633,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10925087",
-    "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307928",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=622968",
-    "https://www.hankookilbo.com/news/article/A2026110409470005802?did=NA",
     "https://www.sedaily.com/article/20109952",
     "https://www.g-enews.com/view.php?ud=202611040955569653fbbec65dfb_1",
     "https://m.sports.naver.com/basketball/article/065/0000303995",
@@ -2132,13 +2128,13 @@
     "https://m.sports.naver.com/general/article/065/0000304073",
     "https://m.sports.naver.com/basketball/article/065/0000304072",
     "https://m.sports.naver.com/basketball/article/065/0000304071",
-    "https://www.tournews21.com/news/articleView.html?idxno=147551"
+    "https://www.tournews21.com/news/articleView.html?idxno=147551",
+    "https://m.sports.naver.com/basketball/article/065/0000304080",
+    "https://m.sports.naver.com/basketball/article/065/0000304079",
+    "https://m.sports.naver.com/basketball/article/065/0000304077",
+    "https://m.sports.naver.com/basketball/article/065/0000304078"
    ],
    "seen_titles": [
-    "김정호KAIST교수“새만금명칭‘AI베이’로바꾸자…‘일하기좋은...",
-    "재계총수들,AI·기술·현금흐름중심재편···연말인사촉각",
-    "[속보]SK바이오팜,세노바메이트전신강직간대발작적응증美FDA추가...",
-    "경북에첫국립의대들어선다…국립경국대의대정원40명확정",
     "SK,美에첫낸드생산거점…130조들여뉴욕주팹2기건설",
     "메모리훈풍탄파이오텍웃을때...부품난나우라는멈춰섰다",
     "[JB프리뷰]SK-가스공사,실책에의한득점누가더쌓을까…변수가된...",
@@ -3634,10 +3630,14 @@
     "[포토]한국가스공사케베알루마'어디한번막아봐'",
     "[포토]SK오재현'오늘경기도승리하겠다'",
     "[포토]SK아이재아힉스'밸런스가안잡혀도슛가능'",
-    "이상일용인시장,글로벌전력반도체기업ST마이크로방문…\"용인반도..."
+    "이상일용인시장,글로벌전력반도체기업ST마이크로방문…\"용인반도...",
+    "[포토]한국가스공사라건아'란겔이잘했다'",
+    "[포토]한국가스공사양우혁'3점슛성공'",
+    "[포토]SK김형빈'역시영준이형최고'",
+    "[포토]SK선수단'SK좋다'"
    ],
    "initialized": true,
-   "last_run": "2026-11-04T22:50:26.429060+09:00"
+   "last_run": "2026-11-04T22:55:20.229794+09:00"
   }
  },
  "press_names": {
