@@ -1001,8 +1001,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.inews24.com/view/2022382",
-    "https://www.chosun.com/economy/tech_it/2026/11/04/HJJN4Q3U4JGLRNREMESRK253YU/",
     "https://www.sentv.co.kr/article/view/sentv202611040050",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712426",
     "http://www.kjdaily.com/article.php?aid=1793753040691207276",
@@ -2500,11 +2498,11 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=879983",
     "http://www.kjdaily.com/article.php?aid=1793794387691330276",
     "https://www.suwonilbo.kr/view.html?id=L261104210631b31c",
-    "https://www.khan.co.kr/article/202611042104025"
+    "https://www.khan.co.kr/article/202611042104025",
+    "https://platum.kr/archives/297804",
+    "https://www.sedaily.com/article/20110399"
    ],
    "seen_titles": [
-    "[속보]SKT3Q영업이익5523억⋯전년比1040%↑",
-    "골드만삭스‘티맵’인수추진으로불거진‘데이터안보’논란",
     "[속보]SKT,3분기영업익5523억원…전년비1040.3%↑",
     "디자인혹평하더니…7억원대전기차페라리루체완판",
     "美반도체3배ETF(SOXL)7억2천만달러순매수…테슬라는매도우위",
@@ -4002,10 +4000,12 @@
     "SK최태원,미국AI전문투자법인이사장맡는다",
     "아리바이오홀딩스·대명에너지등5개종목29%대급등",
     "전쟁은미사일보다먼저시작될수있다…대한민국을향한'파이어세일...",
-    "‘보’걷어내니맑아진물길…하천이살아났다"
+    "‘보’걷어내니맑아진물길…하천이살아났다",
+    "삼성·SK하이닉스들어설용인,반도체스타트업은어디서시제품만드...",
+    "최태원,美AI투자법인이사회의장맡는다"
    ],
    "initialized": true,
-   "last_run": "2026-11-04T21:15:29.618295+09:00"
+   "last_run": "2026-11-04T21:20:27.842969+09:00"
   }
  },
  "press_names": {
