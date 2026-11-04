@@ -958,18 +958,17 @@
     [
      "2026-11-04T13:10:26.426036+09:00",
      "2심 상대 10억대 패소 소송 오파스넷 SK쉴더스"
+    ],
+    [
+     "2026-11-04T13:15:23.665151+09:00",
+     "KT 말투 살핀다 속도까지 보이스피싱 탐지 강화"
+    ],
+    [
+     "2026-11-04T13:15:23.665151+09:00",
+     "실증 국산 정부 안착 내년 대규모 NPU 시장 가능할까"
     ]
    ],
    "seen_urls": [
-    "https://it.chosun.com/news/articleView.html?idxno=3000000000147",
-    "https://www.sedaily.com/article/20109695",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=236204",
-    "https://www.mt.co.kr/industry/2026/11/03/2026110311171336141",
-    "https://www.smarttoday.co.kr/ko-kr/articles/113405",
-    "https://www.fnnews.com/news/202611031401383026",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000079308",
-    "https://www.fnnews.com/news/202611031611291454",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4442799",
     "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/03/2026110380085.html",
     "https://www.wikitree.co.kr/articles/1171451",
     "https://www.kyeongin.com/article/1773983",
@@ -2460,18 +2459,18 @@
     "https://news.tf.co.kr/read/economy/2384717.htm",
     "https://www.gukjenews.com/news/articleView.html?idxno=3742035",
     "https://www.kpinews.kr/newsView/1065583885736209",
-    "https://www.naeil.com/news/read/607590"
+    "https://www.naeil.com/news/read/607590",
+    "https://www.vegannews.co.kr/news/article.html?no=400363",
+    "https://www.nspna.com/news/?newsid=834551",
+    "http://www.beyondpost.co.kr/view.php?ud=2026110413054222802aaae0046f_30",
+    "https://www.nspna.com/news/?newsid=834576",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=320036",
+    "https://www.newsis.com/view/NISX20261104_0003854411",
+    "https://www.jemin.com/news/articleView.html?idxno=846117",
+    "http://www.joseilbo.com/news/news_read.php?uid=578893&class=79",
+    "https://www.viva100.com/article/20261104500796"
    ],
    "seen_titles": [
-    "[마감]코스피3%하락…美선거·AI투자부담에외국인'팔자'",
-    "현대차그룹,전기차배터리내재화‘가속’",
-    "SK이노베이션12만원선이탈…정제마진개선과배터리손익엇갈려",
-    "[단독]韓전기차시장공략속도내는中지커…대관전담인력채용추진",
-    "[증권가]삼성증권,'발행어음CMA'이벤트등",
-    "美중간선거뒤S&P500은'불패'…코스피는?",
-    "코스피3.59%급락…코스닥도4%대하락",
-    "삼전·하닉·마이크론50%담고채권50%…한투운용혼합형ETF상장",
-    "[증시-마감]코스피5,700선하회…美반도체약세에'삼전닉스'급락",
     "‘AI가사물움직이는시대’…‘AIoT위크코리아2026’코엑스서개막...",
     "지금팔면후회합니다…삼성전자·SK하이닉스급락에전문가가콕집은...",
     "인천3분기경제‘보합’…의약품·부동산늘고석유화학·건설줄어",
@@ -3962,10 +3961,19 @@
     "해킹이후보안투자이어가는통신3사,전문인력채용도활발",
     "전재수시정100일평가…송우현\"대안없는사업중단·성과부풀리기...",
     "한투운용,채권혼합ETF시장20조시대…자산배분전략소개",
-    "오파스넷,SK쉴더스상대10억대소송2심패소"
+    "오파스넷,SK쉴더스상대10억대소송2심패소",
+    "선도전기,SK하이닉스용인설치공사LOI체결",
+    "[현장에답이있다]이상일용인시장,이탈리아ST방문으로유럽순방",
+    "코스피3.6%,일본4.4%,대만2.7%급락...나스닥100지수선물2%넘게급...",
+    "[기업실적]SK텔레콤,3Q영업이익5523억원…해킹사태이후실적회복...",
+    "30대그룹,해외거점中→美대이동...한화해외계열사'최다'",
+    "고성군,국회예산심의대응총력…\"현안국비확보집중\"",
+    "AI반도체경쟁의다음승부처는메모리…마이크론,엔비디아와다른성...",
+    "말투·속도까지살핀다…KT,보이스피싱탐지AI강화",
+    "국산NPU,시장안착가능할까⋯정부“내년대규모실증추진”"
    ],
    "initialized": true,
-   "last_run": "2026-11-04T13:10:26.426036+09:00"
+   "last_run": "2026-11-04T13:15:23.665151+09:00"
   }
  },
  "press_names": {
