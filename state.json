@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-04T06:40:29.443648+09:00",
-     "52주 고금리 줄줄이 빠진 늪에 신저가 리츠"
-    ],
-    [
-     "2026-11-04T06:40:29.443648+09:00",
-     "기술주 혼조 나스닥 회복 조짐에 뉴욕증시"
-    ],
-    [
      "2026-11-04T06:45:30.637654+09:00",
      "반등 중간선거 기대 코스피 불확실성 완화"
     ],
@@ -1010,13 +1002,13 @@
     [
      "2026-11-04T12:40:25.035505+09:00",
      "스왑 부를 부정적 긍정 무엇 파급력은 블루 중간선거"
+    ],
+    [
+     "2026-11-04T12:45:25.736348+09:00",
+     "새로 포에 12만달러어치 발행돼 블룸에너지 토큰이"
     ]
    ],
    "seen_urls": [
-    "https://www.koreabiomed.com/news/articleView.html?idxno=33715",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5079300",
-    "https://www.nspna.com/news/?newsid=834437",
-    "https://www.newsis.com/view/NISX20261103_0003853143",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2487790",
     "https://sports.khan.co.kr/article/202611031608003?pt=nv",
     "https://www.getnews.co.kr/news/articleView.html?idxno=885844",
@@ -2512,13 +2504,13 @@
     "http://www.weeklytoday.com/news/articleView.html?idxno=800939",
     "https://www.datanet.co.kr/news/articleView.html?idxno=215598",
     "https://www.gamechosun.co.kr/webzine/article/view.php?no=227172",
-    "https://www.asiatime.co.kr/article/20261104500135"
+    "https://www.asiatime.co.kr/article/20261104500135",
+    "https://www.aitimes.com/news/articleView.html?idxno=216978",
+    "http://www.breaknews.com/1248266",
+    "http://www.kjdaily.com/article.php?aid=1793763551691212276",
+    "https://www.tokenpost.kr/news/blockchain/432412"
    ],
    "seen_titles": [
-    "GCBiopharmalatestamong5biotechfirmsbackedbyKorea'sNationalGr",
-    "[마감시황]美AI수익성우려에삼전·닉스'털썩'…코스피,반등하루...",
-    "[업앤다운]증권주29종목중28개하락…한화투자증권우5.21%↓최대낙...",
-    "삼전21만원·SK하닉139만원'뚝'…外人8400억원대순매도[핫스탁](종합...",
     "[포토]SK텔레콤,2026AIoT국제전시회참가",
     "2·3쿼터외인2명동시출전‘리그풍경이바뀌었다’…득점대폭상...",
     "코스피,3%넘게급락…지수도5,600대로'털썩'",
@@ -4014,10 +4006,14 @@
     "[위클리오늘]이천시,장기요양기관감염관리역량강화…반도체인재양...",
     "리얼월드,김민정신임COO선임···글로벌사업확장가속",
     "원스토어,15일까지게임할인쿠폰6장지급…최대36,300원할인",
-    "[사설]미중간선거‘블루스왑’이부를긍정‧부정적파급력은무엇"
+    "[사설]미중간선거‘블루스왑’이부를긍정‧부정적파급력은무엇",
+    "\"저가칩에HBM숨겨중국으로밀수\"...삼성·SK메모리밀반입수법드...",
+    "고성군,2027년국비확보총력…주요현안12건국회지원요청",
+    "SK하이닉스·삼성전자77%거래급증…오전장5.5조집중",
+    "[로빈후드온체인]블룸에너지토큰이12만달러어치새로발행돼...포에..."
    ],
    "initialized": true,
-   "last_run": "2026-11-04T12:40:25.035505+09:00"
+   "last_run": "2026-11-04T12:45:25.736348+09:00"
   }
  },
  "press_names": {
