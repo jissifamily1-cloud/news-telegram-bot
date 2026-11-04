@@ -406,12 +406,17 @@
     [
      "2026-11-05T07:20:23.778053+09:00",
      "맡길 GAIF서 로봇 12일 일할 만난다 함께"
+    ],
+    [
+     "2026-11-05T07:30:31.670905+09:00",
+     "6연승 가스공사 저지했다"
+    ],
+    [
+     "2026-11-05T07:30:31.670905+09:00",
+     "국내외 알아야 경제뉴스"
     ]
    ],
    "seen_urls": [
-    "https://www.inthenews.co.kr/news/article.html?no=93999",
-    "https://www.etoday.co.kr/news/view/2643930",
-    "https://www.nc.press/news/articleView.html?idxno=630175",
     "https://www.dt.co.kr/article/12093066",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7192127",
     "https://www.g-enews.com/view.php?ud=2026110410153229492aa6f4cdad_1",
@@ -1908,12 +1913,12 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=623307",
     "https://www.edaily.co.kr/News/Read?newsId=02873286645642768&mediaCodeNo=257",
     "https://www.econovill.com/news/articleView.html?idxno=756067",
-    "https://www.hankyung.com/article/2026110569576"
+    "https://www.hankyung.com/article/2026110569576",
+    "https://biz.sbs.co.kr/article_hub/20000344363?division=NAVER",
+    "https://www.newdaily.co.kr/site/data/html/2026/11/05/2026110500015.html",
+    "https://www.fntimes.com/html/view.php?ud=20261105070934596141825007d_18"
    ],
    "seen_titles": [
-    "구교환·신승호'부활남:더레드',오늘(4일)부터집에서본다[공식]",
-    "두산에너빌리티,영주가흥에‘트리븐가흥’11월공급…765가구",
-    "SK텔레콤,3Q매출액4.5조...전년동기比13.1%↑",
     "SK바이오팜,뇌전증신약치료영역확대…美FDA에허가신청",
     "SKT,해킹악재딛고반등…3분기영업익5523억'1040%급증'",
     "생성형AI가바꾼저작권환경…국내외전문가기술대응논의",
@@ -3410,10 +3415,13 @@
     "[튀르키예대통령방한]에르도안,정의선·노태문등국내주요기업경...",
     "[사고]내일맡길AI,함께일할로봇…12일GAIF서만난다",
     "美중간선거'블루쓰나미'…AI데이터센터제동걸리나",
-    "트럼프패배인정에다우3%급등…유가8%급락[뉴욕증시브리핑]"
+    "트럼프패배인정에다우3%급등…유가8%급락[뉴욕증시브리핑]",
+    "美민주승리,주가데이터센터·반도체↓…하이퍼스케일러↑",
+    "가스공사,SK'6연승'저지했다",
+    "[KFT모닝브리프]2026.11.05—오늘꼭알아야할국내외경제뉴스"
    ],
    "initialized": true,
-   "last_run": "2026-11-05T07:25:18.561121+09:00"
+   "last_run": "2026-11-05T07:30:31.670905+09:00"
   }
  },
  "press_names": {
