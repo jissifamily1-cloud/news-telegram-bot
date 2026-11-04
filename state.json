@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-04T23:45:23.818336+09:00",
-     "다우 AI주 미국증시 급등 승리에 장초반 테슬라 하원 강세 민주당"
-    ],
-    [
      "2026-11-05T00:00:43.856030+09:00",
      "AIDC 뛴다 SKT 승부처는 GW급 다음 해킹에 다시 주춤했던"
     ],
@@ -242,12 +238,13 @@
     [
      "2026-11-05T05:35:20.353475+09:00",
      "찾기 수익원 재계 사업화 주목 인사 로봇 역량 연말"
+    ],
+    [
+     "2026-11-05T05:50:24.509586+09:00",
+     "LG화학 에코프로 11월 포스코퓨처 화학 1위 상장기업"
     ]
    ],
    "seen_urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=2014172",
-    "https://biz.newdaily.co.kr/site/data/html/2026/11/04/2026110400094.html",
-    "https://www.news1.kr/bio/pharmaceutical-bio/6342467",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=92996",
     "https://www.fnnews.com/news/202611041022488162",
     "https://www.inthenews.co.kr/news/article.html?no=93990",
@@ -1744,12 +1741,12 @@
     "https://www.newsis.com/view/NISX20261104_0003855156",
     "https://www.mt.co.kr/opinion/2026/11/05/2026110413530645847",
     "https://www.mt.co.kr/industry/2026/11/05/2026110414442126169",
-    "https://www.fnnews.com/news/202611011255308100"
+    "https://www.fnnews.com/news/202611011255308100",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=56017",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=56021",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=56018"
    ],
    "seen_titles": [
-    "SK텔레콤,3분기영업이익5523억원…전년比1040%증가",
-    "SK텔레콤,3분기영업익5523억원···\"매출회복에AI투자확대\"",
-    "[건설업계동향]삼성물산ㆍ대우건설ㆍ한화건설부문(11.4)",
     "인천관광공사,'2026제약바이오투자대전'서투자·수출상담",
     "LS이어효성까지…SK하이닉스가쏘아올린‘성과배분’리스크확산",
     "HowAR1001isRevolutionizingAlzheimer'sTreatment:PatentSuccess",
@@ -3246,10 +3243,13 @@
     "소부장협력넘어인재확보까지…삼전·닉스,日서R&D역량키운다",
     "[우보세]AI주가를흔드는숨은변수'서버수명'",
     "중동전쟁에세계는공급난…한국정유사들은수출8조'눈앞'",
-    "AI·로봇등새수익원찾기..연말재계인사'사업화역량'주목"
+    "AI·로봇등새수익원찾기..연말재계인사'사업화역량'주목",
+    "[이넷뉴스브랜드평판]한국가스공사,가스유틸리티상장기업11월1위...",
+    "[브랜드평판]삼성,대기업집단11월1위....현대자동차,KT뒤쫓아",
+    "[브랜드평판]에코프로,화학상장기업11월1위...LG화학,포스코퓨처..."
    ],
    "initialized": true,
-   "last_run": "2026-11-05T05:45:22.566097+09:00"
+   "last_run": "2026-11-05T05:50:24.509586+09:00"
   }
  },
  "press_names": {
