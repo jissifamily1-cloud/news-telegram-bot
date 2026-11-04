@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-05T01:50:24.940419+09:00",
-     "장외매수 주당 8만8000원에 SK에코플랜트 잔여주식"
-    ],
-    [
      "2026-11-05T02:10:24.621988+09:00",
      "LG유플러스 급증 영업익 성장으로 통신 AIDC"
     ],
@@ -458,12 +454,21 @@
     [
      "2026-11-05T07:50:24.154356+09:00",
      "석유제품 소비자물가 10월 가격 상승"
+    ],
+    [
+     "2026-11-05T07:55:18.161075+09:00",
+     "심의하는데 6조 사장 호남반도체 디저트카페 예산 민간위원에"
+    ],
+    [
+     "2026-11-05T07:55:18.161075+09:00",
+     "코스피 폭등에 뉴욕증시 1500P 반등 삼성전자 SK하 시도"
+    ],
+    [
+     "2026-11-05T07:55:18.161075+09:00",
+     "태양광주 민주당 전망에 급등 승리"
     ]
    ],
    "seen_urls": [
-    "https://sateconomy.co.kr/news/view/1065576055534334",
-    "https://www.sisajournal.com/news/articleView.html?idxno=392781",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=623011",
     "https://www.ddaily.co.kr/page/view/2026110410485744121",
     "https://www.bloter.net/news/articleView.html?idxno=677655",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=324760",
@@ -1960,12 +1965,12 @@
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260696",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831261&plink=ORI&cooper=NAVER",
     "https://www.mk.co.kr/article/12197782",
-    "https://www.todayenergy.kr/news/articleView.html?idxno=305124"
+    "https://www.todayenergy.kr/news/articleView.html?idxno=305124",
+    "https://www.hankyung.com/article/2026110569927",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16268680",
+    "https://biz.sbs.co.kr/article_hub/20000344359?division=NAVER"
    ],
    "seen_titles": [
-    "SKT,통신회복에AIDC성장축더했다…3Q영업익5523억",
-    "[증시프리즘]코스피,2%대급락전환…외국인8천억원대매도에상승...",
-    "﻿SK바이오팜,美FDA에세노바메이트신규적응증추가신청",
     "30대그룹미국계열사10년새3.3배…한화374곳으로증가",
     "3%급등하더니하락반전…美중간선거에코스피'롤러코스터'",
     "[브랜드평판]반도체상장기업11월빅데이터…1위삼성전자·2위SK하이...",
@@ -3462,10 +3467,13 @@
     "[넥스트-샷]정치불확실성걷히자몰리는돈···월가환호해도AI주...",
     "26초남기고'쐐기포'…한국가스공사,SK꺾었다",
     "“SK텔레콤,AI데이터센터사업확인필요”…목표가↓",
-    "10월소비자물가,석유제품가격14.9%상승"
+    "10월소비자물가,석유제품가격14.9%상승",
+    "6조호남반도체예산심의하는데…민간위원에디저트카페사장",
+    "[증시전망]코스피,뉴욕증시1500P폭등에반등시도…삼성전자·SK하...",
+    "[애프터마켓리뷰]미민주당승리전망에태양광주급등"
    ],
    "initialized": true,
-   "last_run": "2026-11-05T07:50:24.154356+09:00"
+   "last_run": "2026-11-05T07:55:18.161075+09:00"
   }
  },
  "press_names": {
