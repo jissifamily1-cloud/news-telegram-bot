@@ -205,7 +205,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.biotimes.co.kr/news/articleView.html?idxno=35898",
     "https://www.segye.com/newsView/20261104506307?OutUrl=naver",
     "https://www.ddaily.co.kr/page/view/2026110410162791968",
     "http://www.metroseoul.co.kr/article/20261104500129",
@@ -1704,10 +1703,10 @@
     "https://www.geconomy.co.kr/news/article.html?no=325298",
     "https://n.news.naver.com/mnews/article/091/0010359218",
     "https://www.tokenpost.kr/news/market/432829",
-    "https://www.donga.com/news/Inter/article/all/20261104/134968713/2"
+    "https://www.donga.com/news/Inter/article/all/20261104/134968713/2",
+    "https://www.mediapen.com/news/view/1135270"
    ],
    "seen_titles": [
-    "\"강남35억뚝,동탄은21%폭등?\"…대한민국부동산'삼분지계'[취재...",
     "SK증권\"증권주바닥다졌다…4분기실적개선전망\"",
     "SK바이오팜,세노바메이트PGTC적응증美허가신청…발작빈도71.9%감...",
     "코스피·코스닥장초반상승분‘반납’…美기술주반등에도지지부진",
@@ -3206,10 +3205,11 @@
     "TURKEYSOCCER",
     "美민주당,상·하원동시탈환…트럼프경제정책제동에글로벌금융시...",
     "징하오과기연율화PER1.6배추정…세레니티,AI주매도세비판",
-    "美사상첫무슬림상원의원탄생…첫원주민여성주지사도"
+    "美사상첫무슬림상원의원탄생…첫원주민여성주지사도",
+    "[美증시]반도체,민주당압승에폭락...데이터센터규제우려'날벼락'"
    ],
    "initialized": true,
-   "last_run": "2026-11-05T04:35:22.925431+09:00"
+   "last_run": "2026-11-05T04:40:23.407848+09:00"
   }
  },
  "press_names": {
