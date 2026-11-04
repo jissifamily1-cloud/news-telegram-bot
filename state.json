@@ -510,18 +510,17 @@
     [
      "2026-11-05T08:15:21.181058+09:00",
      "커지나 SK하이닉스 삼성전자 변동성"
+    ],
+    [
+     "2026-11-05T08:20:24.389633+09:00",
+     "4조 접는다 에코플랜트 IPO 공개매수"
+    ],
+    [
+     "2026-11-05T08:20:24.389633+09:00",
+     "만든 중복상장 운동장 스스로 기울어진"
     ]
    ],
    "seen_urls": [
-    "https://it.chosun.com/news/articleView.html?idxno=3000000000213",
-    "http://www.newscape.co.kr/news/articleView.html?idxno=125567",
-    "https://www.g-enews.com/view.php?ud=20261104104611602fbbec65dfb_1",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000079454",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1421578",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=280413",
-    "http://www.datanews.co.kr/news/article.html?no=147351",
-    "https://zdnet.co.kr/view/?no=20261104110431",
-    "https://www.businessplus.kr/news/articleView.html?idxno=119251",
     "https://www.lawtv.kr/news/articleView.html?idxno=61328",
     "https://www.kpinews.kr/newsView/1065577948175414",
     "https://www.mediapen.com/news/view/1135036",
@@ -2012,18 +2011,18 @@
     "https://www.edaily.co.kr/News/Read?newsId=03289846645642768&mediaCodeNo=257",
     "https://www.tjb.co.kr/news05/bodo/view/id/105715",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=304257",
-    "http://www.kjdaily.com/article.php?aid=1793833897691340276"
+    "http://www.kjdaily.com/article.php?aid=1793833897691340276",
+    "https://www.etoday.co.kr/news/view/2644331",
+    "https://www.smarttoday.co.kr/ko-kr/articles/113454",
+    "https://www.dt.co.kr/article/12093296",
+    "https://www.ajunews.com/view/20261105080449698",
+    "https://www.news1.kr/finance/market-exr/6343574",
+    "https://www.newsis.com/view/NISX20261105_0003855518",
+    "https://www.newspim.com/news/view/20261105000050",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611041733469880105052",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610301607094040104063"
    ],
    "seen_titles": [
-    "코스피,상승반납하고하락전환…외국인1.2조'팔자'",
-    "\"고가주식도쪼개24시간거래\"…자산토큰화,투자문턱낮추고변동...",
-    "이천시,반도체인재양성·기업기술지원기반시의회와점검",
-    "삼전·닉스,美중간선거불확실성에장중하락전환",
-    "SK텔레콤,3분기매출4조4973억원·영업익5523억원",
-    "美중간선거흔든전력규제…AI데이터센터멈춤에HBM촉각",
-    "외국인4621억원순매도…코스피상승분반납하고하락전환",
-    "SK바이오팜,'세노바메이트'전신강직-간대발작적응증확대美FDA신청",
-    "[개장시황]코스피,외국인·기관순매수속장초반3%이상급등세연...",
     "삼성물산·금성백조,주거서비스앱‘예미지by홈닉’도입협약",
     "SKT,분기영업익5523억원...통신회복에AI사업확장",
     "[비즈+]SKT,3분기영업익5523억원…전년比1040.3%증가",
@@ -3514,10 +3513,19 @@
     "美‘블루웨이브’여파…환율1330원대로하락[외환브리핑]",
     "美3대지수일제상승...AI규제우려에반도체·데이터센터주↓",
     "[박정식의국내주식시황]국내증시2차전지,신재생에너지관련주중심...",
-    "[오늘증시]삼성전자·SK하이닉스변동성커지나"
+    "[오늘증시]삼성전자·SK하이닉스변동성커지나",
+    "iM\"중간선거불확실성해소됐지만⋯AI인프라규제우려에반도체부담...",
+    "美증시서반도체주급락...삼성전자·SK하이닉스프리마켓서2%넘게떨...",
+    "트럼프패배삼전·SK하닉직격타?…프리마켓3%·4%대급락",
+    "[마켓프리뷰]美증시급등에도코스피변동성전망…반도체수급주목",
+    "삼전닉스3~4%급락vs이차전지·태양광강세…프리마켓희비",
+    "美반도체부진에프리마켓서삼전·닉스3~4%↓",
+    "SK하이닉스,美AI투자법인'HYAICO'출범채비…최태원직접지휘",
+    "[더벨]SK㈜,에코플랜트IPO접는다…1.4조공개매수",
+    "[더벨][thebelldesk]중복상장,스스로만든'기울어진운동장'"
    ],
    "initialized": true,
-   "last_run": "2026-11-05T08:15:21.181058+09:00"
+   "last_run": "2026-11-05T08:20:24.389633+09:00"
   }
  },
  "press_names": {
