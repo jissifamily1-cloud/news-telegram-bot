@@ -366,10 +366,13 @@
     [
      "2026-11-06T01:35:19.498756+09:00",
      "수원 매직 승격 삼성 넘버"
+    ],
+    [
+     "2026-11-06T01:37:06.836034+09:00",
+     "중간선거 규제 데이터센터 투자 변수로"
     ]
    ],
    "seen_urls": [
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=667566",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000079879",
     "https://www.job-post.co.kr/news/articleView.html?idxno=236697",
     "https://www.inthenews.co.kr/news/article.html?no=94076",
@@ -1868,10 +1871,10 @@
     "https://www.apnews.kr/news/articleView.html?idxno=3052852",
     "https://www.kmib.co.kr/article/20261105502155",
     "https://www.woodkorea.co.kr/news/articleView.html?idxno=92375",
-    "https://www.kmib.co.kr/article/20261105502117"
+    "https://www.kmib.co.kr/article/20261105502117",
+    "http://www.issuenbiz.com/news/articleView.html?idxno=81288"
    ],
    "seen_titles": [
-    "\"현대차내년영업익8%급감\"목표주가'줄줄줄'…SK텔레콤,AIDC·앤트...",
     "반도체가이끈경상흑자,사상최초월600억달러돌파",
     "통신분쟁151%폭증…방미통위,통신4사불러\"신속구제\"당부",
     "메가특구외투기업에‘파견확대·무급휴일’특혜?효과도검증안돼",
@@ -3370,10 +3373,11 @@
     "\"부산불꽃축제120만운집전망\"…SKT,AI로'체감품질'까지살핀다",
     "최태원“메가프로젝트2100조,나조차이렇게해도되나생각”",
     "\"뇌전증신약대박터졌다\"…SK바이오팜,분기영업익첫1000억돌파",
-    "수원삼성,승격매직넘버‘1’"
+    "수원삼성,승격매직넘버‘1’",
+    "[뉴스이슈&비즈]美중간선거,데이터센터규제AI투자새변수로...한..."
    ],
    "initialized": true,
-   "last_run": "2026-11-06T01:35:19.498756+09:00"
+   "last_run": "2026-11-06T01:37:06.836034+09:00"
   }
  },
  "press_names": {
