@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-06T00:20:26.298289+09:00",
-     "600억달러 돌파 경계감 경상흑자 가질 환호보다"
-    ],
-    [
-     "2026-11-06T00:20:26.298289+09:00",
-     "지능형로봇표준포럼 족형로봇 개최 세미나 산업 확산 적용 9일"
-    ],
-    [
      "2026-11-06T00:25:20.846087+09:00",
      "개인 순매도 267억 주가 하락 131억 삼성SDI 순매수 기관"
     ],
@@ -274,13 +266,21 @@
     [
      "2026-11-06T06:20:25.302004+09:00",
      "내일의 8일 경기"
+    ],
+    [
+     "2026-11-06T06:25:18.972903+09:00",
+     "GPC 탄소저감 데이터센터 공동 경쟁력 콘크리트"
+    ],
+    [
+     "2026-11-06T06:25:18.972903+09:00",
+     "5만 SK바이오팜 월평균 성장 세노바메이트 매출 돌파 처방"
+    ],
+    [
+     "2026-11-06T06:25:18.972903+09:00",
+     "나스닥 투매에 반도 반도체 뉴욕증시 패닉"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261105_0003856175",
-    "https://www.meconomynews.com/news/articleView.html?idxno=203308",
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=82258",
-    "https://theopiniontimes.news/%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ec%a7%80%ec%97%ad-%eb%b9%84%ec%9a%a9%ec%9d%b4-%ed%91%9c%ec%8b%ac-%ea%b0%88%eb%9e%90%eb%8b%a4%e7%be%8e-%ec%a4%91%ea%b0%84%ec%84%a0%ea%b1%b0/",
     "https://www.ppss.kr/news/articleView.html?idxno=319241",
     "https://www.livebiz.today/news/articleView.html?idxno=206239",
     "https://www.ytn.co.kr/_ln/0102_202611051148065606",
@@ -1776,13 +1776,13 @@
     "https://www.hitnews.co.kr/news/articleView.html?idxno=80536",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=767676",
     "https://www.yna.co.kr/view/AKR20261105181600007?input=1195m",
-    "https://www.yna.co.kr/view/AKR20261105181900007?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261105181900007?input=1195m",
+    "https://www.interfootball.co.kr/news/articleView.html?idxno=697881",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611051029213150766",
+    "https://www.news1.kr/bio/pharmaceutical-bio/6344458",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=8134"
    ],
    "seen_titles": [
-    "AI데이터센터규제우려직격탄…코스피'매도사이드카'[장중시황]",
-    "수도권전셋값88주연속상승…경기도,‘전세10억’시대",
-    "[오늘의삼전닉스]'블루쓰나미여파'정말로반도체기업의타격이클...",
-    "SK바이오팜주가장중13%대급등,3분기'사상최대'규모실적발표",
     "SK바이오팜,3분기최대실적...세노바메이트미국판매확대(종합)",
     "美'블루웨이브'發AI규제충격…코스피장중4%폭락·사이드카발동",
     "산일전기3분기실적주춤…SK증권\"분기최대수주에주목\"",
@@ -3278,10 +3278,14 @@
     "돈은흩어지고규제는막히고…바이오대혁신,해법은'연결ㆍ연합'",
     "KT·LGU+·SKB,IPTV디즈니+요금줄줄히인상...SKT는\"예정없어\"",
     "◇오늘의경기(6일)",
-    "◇내일의경기(7·8일)"
+    "◇내일의경기(7·8일)",
+    "[오피셜]모레노호빠졌던김민수,김은중감독선택받아...올림픽대표...",
+    "[PC국가대표]GPC-탄소저감콘크리트최대경쟁력…데이터센터·공동...",
+    "SK바이오팜'세노바메이트'美월평균처방첫5만건돌파…매출성장...",
+    "[글로벌마켓뷰]뉴욕증시,AI·반도체투매에패닉…나스닥5.5%↓·반도..."
    ],
    "initialized": true,
-   "last_run": "2026-11-06T06:20:25.302004+09:00"
+   "last_run": "2026-11-06T06:25:18.972903+09:00"
   }
  },
  "press_names": {
