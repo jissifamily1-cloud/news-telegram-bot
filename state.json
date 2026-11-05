@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-05T07:10:25.607196+09:00",
-     "보석 자릿수 2라운드에서 연속 김민규 3경기 건진"
-    ],
-    [
-     "2026-11-05T07:15:23.267565+09:00",
-     "반도체주 데이터센터 하이퍼스케일러"
-    ],
-    [
-     "2026-11-05T07:15:23.267565+09:00",
-     "나스닥 반도체주 급락 우려 규제 상승에도"
-    ],
-    [
      "2026-11-05T07:20:23.778053+09:00",
      "인허가 데이터센터 코트라 유치 지원 해외투자 전력 나선다"
     ],
@@ -1118,14 +1106,13 @@
     [
      "2026-11-05T13:10:23.108111+09:00",
      "부담은 냉가 탄소 삼전닉스 전력 햇볕에도 반도체"
+    ],
+    [
+     "2026-11-05T13:15:23.672843+09:00",
+     "데이터센터에 승부수"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20261104100510371",
-    "http://www.smarttimes.co.kr/news/articleView.html?idxno=50333",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1730408",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7192257",
-    "https://www.g-enews.com/view.php?ud=2026110414533227723d7a510102_1",
     "https://www.etnews.com/20261104000422",
     "http://www.kdfnews.com/news/articleView.html?idxno=190450",
     "https://it.chosun.com/news/articleView.html?idxno=3000000000261",
@@ -2620,14 +2607,14 @@
     "https://www.naeil.com/news/read/607721",
     "http://www.yonhapnewstv.co.kr/news/MYH20261105130416bSo",
     "https://www.nocutnews.co.kr/news/6602603",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=880199"
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=880199",
+    "https://www.g-enews.com/view.php?ud=202611051230558054fbbec65dfb_1",
+    "https://www.g-enews.com/view.php?ud=202611051257084004923c501012_1",
+    "https://magazine.hankyung.com/business/article/202611058121b",
+    "https://www.tokenpost.kr/news/breaking/433087",
+    "https://www.news2day.co.kr/article/20261104500285"
    ],
    "seen_titles": [
-    "SK바이오팜,세노바메이트치료대상·제형확대추진",
-    "[컨콜]SKT“앤트로픽지분매각,AIDC및중장기투자계획등고려해...",
-    "\"피지컬AI,기술혁신그이상필요\"…리얼월드,신임COO선임",
-    "올트먼“PC램5%만쓰는건끔찍”…램값폭등에지친게이머들분노...",
-    "빅테크,민주의회發규제긴장",
     "[美권력재편]⑦'블루웨이브'에투심이동…반도체대신태양광·배터...",
     "휴넷,사내혁신아카데미20주년맞아",
     "AI카메라잘팔린한화비전…영업익80%증가의속사정",
@@ -4122,10 +4109,15 @@
     "부산불꽃축제통신망사전점검",
     "[경제읽기]美'반도체급락'…코스피매도사이드카발동",
     "'2·3쿼터득점10위'한국가스공사의고민…알루마의파울관리",
-    "[기후청구서失⑤]삼전닉스,반도체햇볕에도전력·탄소부담은'냉가..."
+    "[기후청구서失⑤]삼전닉스,반도체햇볕에도전력·탄소부담은'냉가...",
+    "빅테크AI돈잔치에곡괭이든삼성전자,118%반등시나리오열리나",
+    "코스피,반도체대형주급락에4%대↓…5400선도위태",
+    "“통크게쐈다”삼전닉스주주환원확대",
+    "코스피장중5.23%급락…외국인1조원대순매도",
+    "[기업워치-통신3사AI전쟁①]데이터센터에건승부수"
    ],
    "initialized": true,
-   "last_run": "2026-11-05T13:10:23.108111+09:00"
+   "last_run": "2026-11-05T13:15:23.672843+09:00"
   }
  },
  "press_names": {
