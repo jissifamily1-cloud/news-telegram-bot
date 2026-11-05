@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-05T14:30:30.461050+09:00",
-     "5400선 깨진 코스피 폭락 장중 삼전닉스도"
-    ],
-    [
-     "2026-11-05T14:30:30.461050+09:00",
-     "방산 산업계 블루쓰나미 국내 조선 웃고 반도체 희비 신재생"
-    ],
-    [
-     "2026-11-05T14:30:30.461050+09:00",
-     "AI가 만든 에이전트 이유 하늘길도 교통정리 KT가 UAM"
-    ],
-    [
      "2026-11-05T14:35:18.620124+09:00",
      "고삼저수지로 시험대 다시 5년 방류수 약속 향하는"
     ],
@@ -1186,15 +1174,21 @@
     [
      "2026-11-05T20:20:24.861342+09:00",
      "숙제 그리기 미래 도시"
+    ],
+    [
+     "2026-11-05T20:30:33.998028+09:00",
+     "제2의 국대 꿈꾼 한컴 되려나 월드클래스"
+    ],
+    [
+     "2026-11-05T20:30:33.998028+09:00",
+     "싹틔우는 아픔 딛고 유치 실패 대구 시스템반도체"
+    ],
+    [
+     "2026-11-05T20:30:33.998028+09:00",
+     "반도체 폭락과 유치 주가 호남"
     ]
    ],
    "seen_urls": [
-    "https://kpenews.com/View.aspx?No=4298602",
-    "http://www.beyondpost.co.kr/view.php?ud=202611051033342699be44c0aacd_30",
-    "https://www.newsis.com/view/NISX20261105_0003855982",
-    "https://www.delighti.co.kr/news/articleView.html?idxno=124408",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=365727",
-    "https://www.smartbizn.com/news/articleView.html?idxno=158513",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4443185",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000079862",
     "https://www.newspim.com/news/view/20261105000478",
@@ -2688,15 +2682,15 @@
     "http://www.kwangju.co.kr/article.php?aid=1793877600805088277",
     "https://www.newstnt.com/news/articleView.html?idxno=727015",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611050188&t=NN",
-    "https://www.kyeongin.com/article/1774212"
+    "https://www.kyeongin.com/article/1774212",
+    "https://www.mk.co.kr/article/12198909",
+    "http://www.srtimes.kr/news/articleView.html?idxno=216865",
+    "https://news.tvchosun.com/site/data/html_dir/2026/11/05/2026110590304.html",
+    "https://www.mk.co.kr/article/12198905",
+    "https://www.yeongnam.com/web/view.php?key=20261105023518733",
+    "http://www.newstown.co.kr/news/articleView.html?idxno=720964"
    ],
    "seen_titles": [
-    "[K리그1프리뷰]반등노리는김천과파이널B선두쫓는안양…부천은...",
-    "금시세(금값)급등",
-    "금리안정이주식시장반등조건",
-    "SK\"에코플랜트상장안한다\"",
-    "[기자수첩]3G통신종료,중요한건'고객에대한책임'",
-    "월가,데이터센터구축속도·입지·비용달라질것",
     "대전동부교육지원청,초등학교통학구역조정안행정예고…9일까지의견...",
     "뇌전증신약美매출성장에…SK바이오팜,분기영업익1000억첫돌파",
     "SK쉴더스,출동대원안전교육확대",
@@ -4190,10 +4184,16 @@
     "“투자결정·부지인도동시에…광주반도체첫공장착공앞당겨야”",
     "[공시]11월6일,코스피상장사54개종목자사주매수신청",
     "美증시환호터졌는데…'블루쓰나미'휩쓸린코스피,韓개미'날벼락'",
-    "승격에필요한건‘단1점’…수원삼성,1부복귀결정‘운명의주말..."
+    "승격에필요한건‘단1점’…수원삼성,1부복귀결정‘운명의주말...",
+    "“내일은더행복해질거란자신감가져라”…최태원SK그룹회장서울...",
+    "\"출혈경쟁안한다\"…LG에너지솔루션,'3차ESS입찰'불참",
+    "최태원\"2100조투자발표,이렇게해도되나싶었다…증시롤러코스터는...",
+    "월드클래스꿈꾼‘국대AI’…제2의한컴되려나",
+    "팹유치실패아픔딛고…시스템반도체싹틔우는대구",
+    "반도체,주가폭락과호남유치"
    ],
    "initialized": true,
-   "last_run": "2026-11-05T20:25:20.429437+09:00"
+   "last_run": "2026-11-05T20:30:33.998028+09:00"
   }
  },
  "press_names": {
