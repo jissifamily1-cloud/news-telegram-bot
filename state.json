@@ -390,14 +390,25 @@
     [
      "2026-11-06T07:45:22.466377+09:00",
      "넷마블 카페24 한국금융지주"
+    ],
+    [
+     "2026-11-06T07:50:23.512157+09:00",
+     "폭락 빠졌다 시가총액 슬로 백래시에 데이터센터 기술주 달러 2조"
+    ],
+    [
+     "2026-11-06T07:50:23.512157+09:00",
+     "3Q 양극재 과제로 수익성 회복이 엇갈린 실적"
+    ],
+    [
+     "2026-11-06T07:50:23.512157+09:00",
+     "LIG 코웨이 삼부토건"
+    ],
+    [
+     "2026-11-06T07:50:23.512157+09:00",
+     "선호도 IT 변화 대신 현장 Z세대 판교 취업 생산"
     ]
    ],
    "seen_urls": [
-    "https://www.sentv.co.kr/article/view/sentv202611050143",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=8102",
-    "https://www.globalepic.co.kr/view.php?ud=20261105131628333048439a4874_29",
-    "https://www.onews.tv/news/articleView.html?idxno=290875",
-    "http://www.smarttimes.co.kr/news/articleView.html?idxno=50346",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=54339",
     "https://www.asiatime.co.kr/article/20261105500238",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=280565",
@@ -1892,14 +1903,14 @@
     "http://www.kjdaily.com/article.php?aid=1793918125691473276",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=67196",
     "https://www.sedaily.com/article/20110956",
-    "https://www.etoday.co.kr/news/view/2644843"
+    "https://www.etoday.co.kr/news/view/2644843",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4443349",
+    "https://slownews.kr/169143",
+    "https://www.ddaily.co.kr/page/view/2026110517512657224",
+    "https://www.etoday.co.kr/news/view/2644845",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=623555"
    ],
    "seen_titles": [
-    "삼성전자거래대금10.7%증가…SK하이닉스는27.8%감소",
-    "미국'블루쓰나미',AI산업에규제충격…데이터센터투자·빅테크정...",
-    "[더벨][영상|interview]AI열풍전100억승부수…강민구가알아본리...",
-    "저PBR개선계획낸62곳…37곳은밸류업첫공시",
-    "[로빈후드온체인]알리바바토큰31만달러어치가줄어...래핑이더지갑...",
     "[영상]호통보다무서운침묵,전희철의싸늘한작전타임",
     "중동전쟁에글로벌공급망'흔들'…한국에쏠리는'러브콜'",
     "SKT,부산불꽃축제앞두고통신망사전점검…AI로체감품질관리",
@@ -3394,10 +3405,15 @@
     "SOXL매수·매도1위…알파벳·나스닥ETF순매수상위",
     "최태원\"중간선거하나에도시장와장창…롤러코스터각오해야\"",
     "“장투하라더니,이게뭡니까?”-50%된개미들…존리에게따져물어보...",
-    "[전일주요공시]SK·카페24·한국금융지주·넷마블등"
+    "[전일주요공시]SK·카페24·한국금융지주·넷마블등",
+    "[블루쓰나미긴급진단]美상장한국ETF13%폭락…코스피추가급락우려",
+    "데이터센터백래시에AI기술주폭락,시가총액3.2조달러빠졌다:슬로...",
+    "엇갈린K-양극재3Q실적…수익성회복이최대과제로[배터리레이다]",
+    "[오늘의증시일정]삼부토건·코웨이·LIGD&A등",
+    "[Z세대취업트렌드]Z세대취업선호도변화…판교IT대신'생산·현장..."
    ],
    "initialized": true,
-   "last_run": "2026-11-06T07:45:22.466377+09:00"
+   "last_run": "2026-11-06T07:50:23.512157+09:00"
   }
  },
  "press_names": {
