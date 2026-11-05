@@ -1090,14 +1090,13 @@
     [
      "2026-11-05T13:15:23.672843+09:00",
      "데이터센터에 승부수"
+    ],
+    [
+     "2026-11-05T13:25:19.987382+09:00",
+     "Operating Drug on Sales Profit Jumps Biopharmaceuticals"
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20261104000422",
-    "http://www.kdfnews.com/news/articleView.html?idxno=190450",
-    "https://it.chosun.com/news/articleView.html?idxno=3000000000261",
-    "http://www.thefirstmedia.net/news/articleView.html?idxno=212660",
-    "https://www.bigtanews.co.kr/article/view/big202611040020",
     "https://www.sentv.co.kr/article/view/sentv202611040241",
     "https://www.ddaily.co.kr/page/view/2026110417033169503",
     "https://www.joongang.co.kr/article/25475761",
@@ -2592,14 +2591,14 @@
     "https://www.g-enews.com/view.php?ud=202611051257084004923c501012_1",
     "https://magazine.hankyung.com/business/article/202611058121b",
     "https://www.tokenpost.kr/news/breaking/433087",
-    "https://www.news2day.co.kr/article/20261104500285"
+    "https://www.news2day.co.kr/article/20261104500285",
+    "https://www.sentv.co.kr/article/view/sentv202611050143",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=8102",
+    "https://www.globalepic.co.kr/view.php?ud=20261105131628333048439a4874_29",
+    "https://www.onews.tv/news/articleView.html?idxno=290875",
+    "http://www.smarttimes.co.kr/news/articleView.html?idxno=50346"
    ],
    "seen_titles": [
-    "[美권력재편]⑦'블루웨이브'에투심이동…반도체대신태양광·배터...",
-    "휴넷,사내혁신아카데미20주년맞아",
-    "AI카메라잘팔린한화비전…영업익80%증가의속사정",
-    "\"엄마미안해\"손실참회까지…절하고굿하는개미들의'가즈아법당'",
-    "떠났던집토끼들줄줄이돌아왔다…1년만에영업익11배뛴‘이회사...",
     "[칼럼]데이터센터화재안전,설계단계부터예방체계구축해야",
     "[아주초대석]'비상장투자명가'에서상장·해외로영토넓히는DS자산...",
     "SKT,3분기영업익5523억원…해킹기저효과에11배증가",
@@ -4094,10 +4093,15 @@
     "코스피,반도체대형주급락에4%대↓…5400선도위태",
     "“통크게쐈다”삼전닉스주주환원확대",
     "코스피장중5.23%급락…외국인1조원대순매도",
-    "[기업워치-통신3사AI전쟁①]데이터센터에건승부수"
+    "[기업워치-통신3사AI전쟁①]데이터센터에건승부수",
+    "SK쉴더스,출동대원안전관리강화…VR·실습교육확대",
+    "[증시프리즘]\"오늘이바닥이길\"…코스피급락에개미들비명,레버리...",
+    "[Ceo'sDecision]최태원회장,SK하이닉스美AI투자법인이사회직접이...",
+    "SK바이오팜,3분기영업이익1163억원…전년대비65.9%증가",
+    "SKBiopharmaceuticals'OperatingProfitJumps65.9%onU.S.DrugSale"
    ],
    "initialized": true,
-   "last_run": "2026-11-05T13:20:29.357193+09:00"
+   "last_run": "2026-11-05T13:25:19.987382+09:00"
   }
  },
  "press_names": {
