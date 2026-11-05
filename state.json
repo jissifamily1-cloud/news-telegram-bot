@@ -1201,12 +1201,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.medisobizanews.com/news/articleView.html?idxno=143993",
-    "https://www.jibs.co.kr/news/articles/articlesDetail/67274?feed=na",
-    "https://www.fntimes.com/html/view.php?ud=20261105094743175048b718333_18",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=87189",
-    "https://www.cstimes.com/news/articleView.html?idxno=726722",
-    "https://www.newsian.co.kr/news/articleView.html?idxno=100657",
     "https://www.pennmike.com/news/articleView.html?idxno=131047",
     "https://it.chosun.com/news/articleView.html?idxno=3000000000307",
     "https://www.edaily.co.kr/News/Read?newsId=03942566645642768&mediaCodeNo=257",
@@ -2700,14 +2694,15 @@
     "https://www.fnnews.com/news/202611051834268580",
     "https://www.busan.com/view/busan/view.php?code=2026110518211463655",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000080110",
-    "https://www.donga.com/news/Economy/article/all/20261105/134974601/1"
+    "https://www.donga.com/news/Economy/article/all/20261105/134974601/1",
+    "https://www.sportsseoul.com/news/read/1647381",
+    "https://www.newsinside.kr/news/articleView.html?idxno=5041268",
+    "https://zdnet.co.kr/view/?no=20261105184236",
+    "https://www.news1.kr/realestate/general/6344780",
+    "https://www.edaily.co.kr/News/Read?newsId=06828966645642768&mediaCodeNo=257",
+    "http://www.newsprime.co.kr/news/article.html?no=753934"
    ],
    "seen_titles": [
-    "[포토]삼전닉스,코스피동반하락",
-    "최태원,SK하이닉스美AI투자사의장맡아펭귄솔루션즈첫투자",
-    "美중간선거민주당승리에AI반도체‘휘청’…장초반코스피2%↓",
-    "코스피,5510선약세…美민주당우세여파",
-    "[전혜은시선]\"풀베팅\"박세익,삼성전자·SK하이닉스급락에...\"추가매...",
     "코스피3%대급락…외인매도세영향",
     "코스피,美중간선거여파에약세…5500대등락",
     "[포토]삼전닉스오늘도하락출발",
@@ -4202,10 +4197,15 @@
     "민주,데이터센터규제강화…\"AI투자위축·경기둔화우려\"[美'블루...",
     "미‘블루웨이브’에국내증시파란불",
     "삼성전자주주환원왜미루나…라이프자산운용,준법감시위에이해상충...",
-    "“NCM·LFP두축모두잡겠다”…엘앤에프,전기차·ESS동시공략"
+    "“NCM·LFP두축모두잡겠다”…엘앤에프,전기차·ESS동시공략",
+    "최태원,SK주식9440억원어치매각…재산분할금마련",
+    "\"AI에이전트확산성패,신뢰·책임에달렸다…검증기준마련해야\"",
+    "장동현SK부회장,SK에코플랜트대표사임…경영일선퇴진",
+    "최태원,SK㈜지분165만주매각완료…재산분할금마련",
+    "'물량보다수익성'LG엔솔,ESS수주전한발뺀배경은?"
    ],
    "initialized": true,
-   "last_run": "2026-11-05T18:40:28.389974+09:00"
+   "last_run": "2026-11-05T18:45:23.401361+09:00"
   }
  },
  "press_names": {
