@@ -474,13 +474,17 @@
     [
      "2026-11-06T08:10:24.889033+09:00",
      "독서공간 구성원 SK이노베이션 나눔으로 시각장애인 새단장"
+    ],
+    [
+     "2026-11-06T08:15:22.088859+09:00",
+     "삼전닉스 급락 블루웨이브 여파 프리마켓서"
+    ],
+    [
+     "2026-11-06T08:15:22.088859+09:00",
+     "데이터센터 갈수록 모라토리엄 축소 명분"
     ]
    ],
    "seen_urls": [
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=314700",
-    "https://www.etoday.co.kr/news/view/2644616",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=324904",
-    "https://www.news1.kr/world/northeast-asia/6344129",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4443239",
     "https://www.m-i.kr/news/articleView.html?idxno=2014918",
     "https://www.news1.kr/bio/pharmaceutical-bio/6344225",
@@ -1976,13 +1980,13 @@
     "https://biz.newdaily.co.kr/site/data/html/2026/11/06/2026110600024.html",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=285133",
     "https://www.etoday.co.kr/news/view/2644860",
-    "https://thetracker.co.kr/View.aspx?No=4300328"
+    "https://thetracker.co.kr/View.aspx?No=4300328",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4443357",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=146739",
+    "https://www.mt.co.kr/stock/2026/11/06/2026110608120152212",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4443358"
    ],
    "seen_titles": [
-    "SKT,'부산불꽃축제'앞두고AI로체감품질관리강화",
-    "美민주당압승에데이터센터규제촉각…K-반도체영향은'제한적'",
-    "CheytoChairBoardofSKhynix's$10BillionU.S.AIInvestmentArm",
-    "최태원,SK하이닉스美AI법인HYAICO의장",
     "SK바이오팜,분기영업익1000억돌파…두번째제품도입·후속신약투...",
     "SK바이오팜,3분기영업익1163억최대…美판매·용역수익성장",
     "삼전닉스,지난10월44조배당…37곳기업가치제고첫공시",
@@ -3478,10 +3482,14 @@
     "[속보]삼성전자11%,SK하이닉스14%폭락…검은금요일",
     "9440억지분매각한최태원…마이클델등판'글로벌AI동맹'과시",
     "성證“삼전·하닉,다운턴공포과도…현주가는메모리급락까지선반...",
-    "SK이노베이션,구성원1%나눔으로시각장애인독서공간새단장"
+    "SK이노베이션,구성원1%나눔으로시각장애인독서공간새단장",
+    "[블루쓰나미긴급진단]삼전닉스프리마켓서10%넘는급락…美중간선거...",
+    "미반도체10%대동반폭락,'삼전닉스'프리마켓12~13%↓...삼전18만원...",
+    "삼전닉스,프리마켓서10%대급락…블루웨이브여파",
+    "[블루쓰나미긴급진단]\"美데이터센터모라토리엄명분갈수록축소\""
    ],
    "initialized": true,
-   "last_run": "2026-11-06T08:10:24.889033+09:00"
+   "last_run": "2026-11-06T08:15:22.088859+09:00"
   }
  },
  "press_names": {
