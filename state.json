@@ -382,12 +382,17 @@
     [
      "2026-11-06T07:40:26.131704+09:00",
      "SOXL 1위 매수 ETF 알파벳 상위 매도 순매수 나스닥"
+    ],
+    [
+     "2026-11-06T07:45:22.466377+09:00",
+     "이게 장투하라더니 존리에게 개미들 따져 뭡니까 물어보"
+    ],
+    [
+     "2026-11-06T07:45:22.466377+09:00",
+     "넷마블 카페24 한국금융지주"
     ]
    ],
    "seen_urls": [
-    "https://magazine.hankyung.com/business/article/202611058121b",
-    "https://www.tokenpost.kr/news/breaking/433087",
-    "https://www.news2day.co.kr/article/20261104500285",
     "https://www.sentv.co.kr/article/view/sentv202611050143",
     "https://www.moneystorm.kr/news/articleView.html?idxno=8102",
     "https://www.globalepic.co.kr/view.php?ud=20261105131628333048439a4874_29",
@@ -1884,12 +1889,12 @@
     "https://www.newdaily.co.kr/site/data/html/2026/11/06/2026110600018.html",
     "https://dealsite.co.kr/articles/172087",
     "https://www.etoday.co.kr/news/view/2644841",
-    "http://www.kjdaily.com/article.php?aid=1793918125691473276"
+    "http://www.kjdaily.com/article.php?aid=1793918125691473276",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=67196",
+    "https://www.sedaily.com/article/20110956",
+    "https://www.etoday.co.kr/news/view/2644843"
    ],
    "seen_titles": [
-    "SK㈜,에코플랜트완전자회사화로리밸런싱실현…중복상장해소와남...",
-    "[美중간선거]민주당의회장악…韓반도체영향'제한적',배터리'그...",
-    "'미중간선거충격파'코스피·코스닥동시사이드카",
     "삼성전자거래대금10.7%증가…SK하이닉스는27.8%감소",
     "미국'블루쓰나미',AI산업에규제충격…데이터센터투자·빅테크정...",
     "[더벨][영상|interview]AI열풍전100억승부수…강민구가알아본리...",
@@ -3386,10 +3391,13 @@
     "한국'챔피언'KCC,EASL2연승질주…롱과킹'68점'합작",
     "[ETF리그테이블][2026년10월]2차급락한단종레…그런데도개인은10...",
     "[전날애프터마켓]엠에스바이오·동양우'上'…삼전보합·SK하닉하락",
-    "SOXL매수·매도1위…알파벳·나스닥ETF순매수상위"
+    "SOXL매수·매도1위…알파벳·나스닥ETF순매수상위",
+    "최태원\"중간선거하나에도시장와장창…롤러코스터각오해야\"",
+    "“장투하라더니,이게뭡니까?”-50%된개미들…존리에게따져물어보...",
+    "[전일주요공시]SK·카페24·한국금융지주·넷마블등"
    ],
    "initialized": true,
-   "last_run": "2026-11-06T07:40:26.131704+09:00"
+   "last_run": "2026-11-06T07:45:22.466377+09:00"
   }
  },
  "press_names": {
