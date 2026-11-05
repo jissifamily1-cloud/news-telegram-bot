@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-05T13:50:25.627661+09:00",
-     "전해진 삼성 초기업노조에서 소식 당황스럽다"
-    ],
-    [
-     "2026-11-05T13:50:25.627661+09:00",
-     "9일 추첨으로 본격화 경쟁 드래프트 신인 KBL 윤곽 순번"
-    ],
-    [
-     "2026-11-05T13:55:19.052153+09:00",
-     "반도체 은행채 만기 앞둔 선제 순발행 배당 역대 조달 대규모"
-    ],
-    [
-     "2026-11-05T13:55:19.052153+09:00",
-     "굳건 우호지분에 조원태 최대주주 호반에 내줬지만 경영권"
-    ],
-    [
-     "2026-11-05T13:55:19.052153+09:00",
-     "공개 밸류업 오스코텍 달성 계획 조기 흑자전환 기술이전 2건"
-    ],
-    [
      "2026-11-05T14:00:39.028388+09:00",
      "테크페어 개최 20일 글로벌 소부장 섬유센터서"
     ],
@@ -1238,18 +1218,25 @@
     [
      "2026-11-05T19:50:24.287703+09:00",
      "SK텔레콤 목표가 유안타증권 유지 11만8000원 매수"
+    ],
+    [
+     "2026-11-05T19:55:20.054792+09:00",
+     "대만 촉각 건설 공장 삼성 HBM 수혜 마이크론 SK하이닉스 중단"
+    ],
+    [
+     "2026-11-05T19:55:20.054792+09:00",
+     "삼전닉스 공포 이미 타격 3년치 완판 지운 발언"
+    ],
+    [
+     "2026-11-05T19:55:20.054792+09:00",
+     "건설 다각화 지분 한진칼 사업 호반 넘어 성공할까 늘린"
+    ],
+    [
+     "2026-11-05T19:55:20.054792+09:00",
+     "상승 닷새째 증시 완화에 마감 홍콩 정치 불확실성"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026110510232252905",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611051015448800751",
-    "https://www.news2day.co.kr/article/20261105500072",
-    "http://www.yonhapnewstv.co.kr/news/MYH20261105102047tXO",
-    "http://www.newstown.co.kr/news/articleView.html?idxno=720877",
-    "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171638",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=361937",
-    "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160263018768470",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=361938",
     "https://www.etnews.com/20261105000144",
     "https://www.joongangenews.com/news/articleView.html?idxno=561401",
     "https://news.unn.net/news/articleView.html?idxno=600017",
@@ -2740,18 +2727,18 @@
     "https://www.munhwa.com/article/11629147",
     "https://news.jtbc.co.kr/article/NB12326693?influxDiv=NAVER",
     "http://www.econotelling.com/news/articleView.html?idxno=21579",
-    "https://www.vegannews.co.kr/news/article.html?no=401043"
+    "https://www.vegannews.co.kr/news/article.html?no=401043",
+    "https://news.mtn.co.kr/article/2026110519533478817",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1422380",
+    "https://www.apnews.kr/news/articleView.html?idxno=3052847",
+    "https://www.lcnews.co.kr/news/articleView.html?idxno=210947",
+    "https://www.ddaily.co.kr/page/view/2026110519472650183",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1730661",
+    "https://news.jtbc.co.kr/article/NB12326677?influxDiv=NAVER",
+    "https://www.kukinews.com/article/view/kuk202611050208",
+    "https://www.newsis.com/view/NISX20261105_0003857042"
    ],
    "seen_titles": [
-    "SK바이오팜,3분기영업익1163억전년비66%↑",
-    "SK바이오팜,3분기영업이익1163억원'역대최대'…전년比65.9%증가",
-    "반도체호황에9월경상흑자614억달러'사상최대'…한은\"10월도역대...",
-    "코스피,'민주당압승'데이터센터규제우려에2%하락출발",
-    "SK쉴더스,출동대원사고예방강화···채용부터운전역량검증",
-    "SK스퀘어주가,11월5일장중833,000원7.34%하락",
-    "SK바이오팜,3분기매출2584억…최대실적기록",
-    "[특징주]'바이오유럽2026'기대감에제약·바이오株동반급등",
-    "통신분쟁조정신청151%급증...방미통위,통신4사대응점검",
     "[중간선거]美휩쓴'블루웨이브'…韓반도체에불똥튀나",
     "삼전닉스,美'블루웨이브'충격에'하락'",
     "진단수요확대기대커지나…백신·방역관련주희비",
@@ -4242,10 +4229,19 @@
     "[속보]최태원“유동성너무…롤러코스터시장계속”",
     "'블루웨이브'직격탄맞고퍼렇게…반도체투톱털썩",
     "美민주당과반도체는'상극'인가",
-    "유안타증권,SK텔레콤매수유지…목표가11만8000원"
+    "유안타증권,SK텔레콤매수유지…목표가11만8000원",
+    "최태원\"美중간선거에증시요동…롤러코스터장세계속될것\"",
+    "최태원\"韓·日경제묶으면파급력3배이상\"",
+    "서울대생만난최태원\"韓경제,G2패권·AI혁명직면\"…4대해법제시",
+    "최태원,서울대특강서\"AI네이티브국가로도약해야\"",
+    "“신약하나로영업익1000억시대”…SK바이오팜,3분기최대실적",
+    "마이크론,대만HBM공장건설중단…삼성·SK하이닉스수혜촉각",
+    "삼전닉스타격?공포지운발언…\"3년치이미완판\"",
+    "한진칼지분늘린호반…건설넘어사업다각화성공할까",
+    "[올댓차이나]홍콩증시,美정치불확실성완화에닷새째상승마감…..."
    ],
    "initialized": true,
-   "last_run": "2026-11-05T19:50:24.287703+09:00"
+   "last_run": "2026-11-05T19:55:20.054792+09:00"
   }
  },
  "press_names": {
