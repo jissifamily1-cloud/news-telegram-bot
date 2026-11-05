@@ -534,12 +534,17 @@
     [
      "2026-11-05T23:35:19.971668+09:00",
      "ST마이크로일렉트로닉스 반도체 이상일 방문 이탈리아 용인특례시장"
+    ],
+    [
+     "2026-11-05T23:40:22.955720+09:00",
+     "급락 하락 코스피 삼성전자 코스닥 SK하이닉스"
+    ],
+    [
+     "2026-11-05T23:40:22.955720+09:00",
+     "급락 개인 레버리지 투자자들 ETF 증시 대거"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12198148",
-    "https://www.hankyung.com/article/202611057549i",
-    "https://biz.sbs.co.kr/article_hub/20000344423?division=NAVER",
     "https://www.apsk.co.kr/news/articleView.html?idxno=540975",
     "http://www.00news.co.kr/news/articleView.html?idxno=107749",
     "https://view.asiae.co.kr/article/2026110510562741294",
@@ -2036,12 +2041,12 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8705464",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065622254404777",
     "http://www.segyebiz.com/newsView/20261105520850?OutUrl=naver",
-    "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160267037048940"
+    "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160267037048940",
+    "https://www.ddaily.co.kr/page/view/2026110516544285756",
+    "https://www.vegannews.co.kr/news/article.html?no=401116",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=623557"
    ],
    "seen_titles": [
-    "SK바이오팜,3분기영업이익1163억원…“최대실적경신”",
-    "삼성전자·SK하이닉스·인텔한자리에…부산으로세계반도체전문가8...",
-    "美블루웨이브여파에코스피4%급락…매도사이드카발동",
     "삼성·현대차·KT,11월대기업브랜드평판'톱3'수성",
     "삼전닉스급락에코스피'매도사이드카'...5500선밑으로",
     "SK바이오팜,3분기누적영업익3000억원돌파…사상최대",
@@ -3538,10 +3543,13 @@
     "[W언박싱]‘블루쓰나미’에반도체‘와르르’미당선인“저는앞...",
     "SK바이오사이언스,IDT끌고백신밀었다…실적개선'가속'",
     "SK바이오사이언스,3분기매출1824억‘21%↑’…적자도줄였다",
-    "이상일용인특례시장,이탈리아ST마이크로일렉트로닉스방문…반도체..."
+    "이상일용인특례시장,이탈리아ST마이크로일렉트로닉스방문…반도체...",
+    "엘앤에프,2026년연간역대최대출하전망…\"NCM·LFP쌍끌이성장\"",
+    "삼성전자·SK하이닉스급락…코스피·코스닥5%대하락",
+    "[레버리지투자동향]증시급락속개인투자자들레버리지ETF대거매..."
    ],
    "initialized": true,
-   "last_run": "2026-11-05T23:35:19.971668+09:00"
+   "last_run": "2026-11-05T23:40:22.955720+09:00"
   }
  },
  "press_names": {
