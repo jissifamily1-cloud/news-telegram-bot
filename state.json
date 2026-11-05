@@ -4,30 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-05T16:55:20.022447+09:00",
-     "삼성전기 1285억 하이닉스 삼전 급감 11월5일"
-    ],
-    [
-     "2026-11-05T16:55:20.022447+09:00",
-     "SK하이닉스 확충 기탁금으로 노인통합돌봄차량 청주시"
-    ],
-    [
-     "2026-11-05T16:55:20.022447+09:00",
-     "충격 영업익 이통3사 해킹 과제 벗어난 먹거리"
-    ],
-    [
-     "2026-11-05T16:55:20.022447+09:00",
-     "충격에 상승 블루웨이브 증시만 셈법 투자 나홀로 갈린"
-    ],
-    [
-     "2026-11-05T16:55:20.022447+09:00",
-     "정치 미국 규제와 속도조절론 AI데이터센터"
-    ],
-    [
-     "2026-11-05T16:55:20.022447+09:00",
-     "빚투 제동에 빅테크 미국 뒤덮은 전력 전기요금 분노 중간선거"
-    ],
-    [
      "2026-11-05T17:00:40.559947+09:00",
      "살아나는데 점유율만 시장 전기차 배터리 늘었다"
     ],
@@ -694,11 +670,13 @@
     [
      "2026-11-05T22:50:25.460381+09:00",
      "유지 부회장직 장동현 대표 SK에코플랜트 사임"
+    ],
+    [
+     "2026-11-05T23:00:39.741777+09:00",
+     "치어리더 시즌 농구 번째 주예지 준비"
     ]
    ],
    "seen_urls": [
-    "https://www.cstimes.com/news/articleView.html?idxno=726748",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=886101",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712849",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501525",
     "https://www.cbci.co.kr/news/articleView.html?idxno=623501",
@@ -2196,11 +2174,11 @@
     "http://www.paxetv.com/news/articleView.html?idxno=286197",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=54379",
     "https://www.stnsports.co.kr/news/articleView.html?idxno=325163",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=623591"
+    "https://www.cbci.co.kr/news/articleView.html?idxno=623591",
+    "http://www.ttlnews.com/news/articleView.html?idxno=3159379",
+    "https://basketkorea.com/news/newsview.php?ncode=1065621134932169"
    ],
    "seen_titles": [
-    "'텍사스쇼크'에삼전닉스동반하락…AI데이터센터수요괜찮나",
-    "저PBR기업합류에밸류업공시확산…800곳돌파",
     "SKT,부산불꽃축제통신망증설…AI로실시간품질관리",
     "SK'sCheytakesboardchairseatatnewU.S.AIinvestmentvehicleHYAIC",
     "K윤활기유'맑음'…가격·수요'껑충'",
@@ -3698,10 +3676,12 @@
     "SK바이오사이언스,3분기매출1,824억원기록...세전이익61억원으로흑...",
     "장동현,SK에코플랜트대표사임…부회장직유지",
     "꼴찌이미지벗은삼성,벌써10승...현대모비스81-76제압'다시승리...",
-    "[미증시AI훈풍]미민주당의회장악에데이터센터·반도체주급락…..."
+    "[미증시AI훈풍]미민주당의회장악에데이터센터·반도체주급락…...",
+    "최태원SK그룹회장,서울대서AI시대경제패러다임변화와한국비전...",
+    "[바코인사이드]‘두번째시즌준비중’주예지SK치어리더,“농구..."
    ],
    "initialized": true,
-   "last_run": "2026-11-05T22:55:18.173266+09:00"
+   "last_run": "2026-11-05T23:00:39.741777+09:00"
   }
  },
  "press_names": {
