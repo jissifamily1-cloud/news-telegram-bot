@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-06T00:10:26.433964+09:00",
-     "관광 속도 야간 밝힌 활성화 장생포의"
-    ],
-    [
      "2026-11-06T00:15:26.787435+09:00",
      "믿음 격차는 설명될 성과급은 약속 보상"
     ],
@@ -266,13 +262,17 @@
     [
      "2026-11-06T06:10:25.637684+09:00",
      "반도체 마이크론 폭락 필라델피아 ADR SK하닉"
+    ],
+    [
+     "2026-11-06T06:15:23.030623+09:00",
+     "대혁신 해법은 연결 연합 막히고 바이오 흩어지고 돈은 규제는"
+    ],
+    [
+     "2026-11-06T06:15:23.030623+09:00",
+     "IPTV 없어 SKT는 요금 인상 KT 디즈니 줄줄히 SKB LGU"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10926983",
-    "https://biz.heraldcorp.com/article/10926982",
-    "http://www.yonhapnewstv.co.kr/news/MYH20261105114731JGg",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=451255",
     "https://www.tokenpost.kr/news/breaking/433038",
     "https://www.getnews.co.kr/news/articleView.html?idxno=886107",
     "https://www.newsis.com/view/NISX20261105_0003856175",
@@ -1768,13 +1768,13 @@
     "https://www.yna.co.kr/view/AKR20261105138800530?input=1195m",
     "https://www.news1.kr/finance/general-stock/6344772",
     "https://www.meconomynews.com/news/articleView.html?idxno=203331",
-    "https://www.news1.kr/world/international-economy/6344938"
+    "https://www.news1.kr/world/international-economy/6344938",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6863573_37012.html",
+    "https://www.meconomynews.com/news/articleView.html?idxno=203333",
+    "https://www.hitnews.co.kr/news/articleView.html?idxno=80536",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=767676"
    ],
    "seen_titles": [
-    "통신사“스타링크영향제한적”…전문가“통신·AI주도권놓칠라”",
-    "증시덮친'블루웨이브'쇼크…데이터센터규제우려에급락",
-    "SK텔레콤,부산불꽃축제앞두고통신망안정화나서…체감품질정밀관...",
-    "SK㈜,에코플랜트상장접고완전자회사추진…1.4조공개매수",
     "10월밸류업공시기업누적801곳…전체시총83.8%차지",
     "[Telecom&now]\"부산불꽃축제도끊김없게\"…SKT,AI로통신품질관리...",
     "AI데이터센터규제우려직격탄…코스피'매도사이드카'[장중시황]",
@@ -3270,10 +3270,14 @@
     "교육부,'첨단분야글로벌교육과정'성과교류회",
     "'블루웨이브'에꺾인반도체주…\"AI성장유효,조정거쳐반등할것\"",
     "주거래은행보안신뢰도1위'NH농협'...2위'KB국민'[시경-리얼미터...",
-    "[속보]필라델피아반도체12.25%폭락…마이크론-17%·SK하닉ADR-14%"
+    "[속보]필라델피아반도체12.25%폭락…마이크론-17%·SK하닉ADR-14%",
+    "'푸른쓰나미'에증시급락‥반도체주새시험대",
+    "단일종목레버리지ETF손실책임,'정부·금융당국'56%[시경-리얼미터...",
+    "돈은흩어지고규제는막히고…바이오대혁신,해법은'연결ㆍ연합'",
+    "KT·LGU+·SKB,IPTV디즈니+요금줄줄히인상...SKT는\"예정없어\""
    ],
    "initialized": true,
-   "last_run": "2026-11-06T06:10:25.637684+09:00"
+   "last_run": "2026-11-06T06:15:23.030623+09:00"
   }
  },
  "press_names": {
