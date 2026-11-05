@@ -702,21 +702,13 @@
     [
      "2026-11-05T09:15:22.137322+09:00",
      "중국생산 말라 관영매체 압박에 희생 반도체"
+    ],
+    [
+     "2026-11-05T09:20:26.912274+09:00",
+     "코스피 반도체주 급락에 장초반 하락세"
     ]
    ],
    "seen_urls": [
-    "http://www.incheonin.com/news/articleView.html?idxno=122019",
-    "https://www.fnnews.com/news/202611041147026700",
-    "http://www.ttlnews.com/news/articleView.html?idxno=3158625",
-    "https://www.newsis.com/view/NISX20261104_0003854213",
-    "https://biz.sbs.co.kr/article_hub/20000344161?division=NAVER",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2488242",
-    "https://www.munhwa.com/article/11628738",
-    "https://www.newstnt.com/news/articleView.html?idxno=726654",
-    "https://www.ngetnews.com/news/articleView.html?idxno=555553",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2488238",
-    "https://www.munhwa.com/article/11628735",
-    "https://www.medipana.com/news/articleView.html?idxno=420876",
     "http://www.efnews.co.kr/news/articleView.html?idxno=133716",
     "http://www.yonhapnewstv.co.kr/news/AKR20261104120036ovY",
     "https://www.newspim.com/news/view/20261104000126",
@@ -2204,21 +2196,21 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=284819",
     "https://www.jemin.com/news/articleView.html?idxno=846214",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=284815",
-    "https://www.mt.co.kr/world/2026/11/05/2026110508164041801"
+    "https://www.mt.co.kr/world/2026/11/05/2026110508164041801",
+    "http://www.inews24.com/view/2022836",
+    "https://news.tf.co.kr/read/economy/2385024.htm",
+    "https://www.viva100.com/article/20261105500153",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2488679",
+    "https://www.sentv.co.kr/article/view/sentv202611050045",
+    "https://www.epnc.co.kr/news/articleView.html?idxno=409294",
+    "https://www.busan.com/view/busan/view.php?code=2026110509145402824",
+    "https://www.slist.kr/news/articleView.html?idxno=779175",
+    "http://www.inews24.com/view/2022787",
+    "https://www.mt.co.kr/stock/2026/11/05/2026110509034581792",
+    "https://www.dt.co.kr/article/12093315",
+    "https://www.viewsnnews.com/article?q=239506"
    ],
    "seen_titles": [
-    "“보안투자여력없다”…중소증권사해킹속수무책",
-    "‘삼성·SK직주근접’효과뚜렷…화성·천안·아산·청주·구미등반...",
-    "美중간선거에증시'출렁'…코스피하락전환",
-    "'2026제약바이오투자대전',19일송도컨벤시아에서열려",
-    "삼성물산'홈닉',금성백조와협약...21개건설사로확대",
-    "[기획특집]'3선의경험'의장의책임...유영기충주시의장,'시민중심...",
-    "AX바람속보안경고등…대기업들,기술정보유출가능성에비상",
-    "'미국에공장지으라더니'…SK하이닉스,美규제에발목",
-    "SK오션플랜트,해상풍력하부구조물핵심부재용접자동화···제조혁...",
-    "국내대기업해외계열사,미국은늘고중국은줄고",
-    "[특징주]SK바이오팜,뇌전증신약'세노바메이트'美FDA추가허가신...",
-    "SK바이오팜,세노바메이트전신발작적응증확대추진",
     "한투운용,자산배분투자세미나개최",
     "통신사들,AI날개달고3분기실적‘껑충’",
     "비만약전쟁,이제는원료생산경쟁으로번진다",
@@ -3706,10 +3698,22 @@
     "LG유플러스,연간영업익첫1조원기대…AI성장·주주환원주목",
     "전화기너머의덫…제주경찰피싱차단전",
     "SK텔레콤,AI데이터센터이원화전략주목",
-    "中관영매체\"韓반도체,美압박에중국생산희생말라\""
+    "中관영매체\"韓반도체,美압박에중국생산희생말라\"",
+    "[특징주]美선거'블루웨이브'여진⋯삼성전자·SK하이닉스'급락'",
+    "美증시올랐지만'삼전닉스'는또파란불…코스피2%대하락",
+    "[개장시황]코스피1.9%내린5570선⋯SK하이닉스5%대급락",
+    "코스피,5600선밑으로밀려···코스닥도하락",
+    "SKT,부산불꽃축제통신대책강화…AI기반으로고객체감품질관리",
+    "SKT,부산불꽃축제통신망사전점검…\"AI기반고객체감품질까지세밀...",
+    "SKT“부산불꽃축제특별소통대책마련”",
+    "코스피,장초반1%대하락…삼성전자·SK하이닉스동반약세",
+    "최태원,SK하이닉스美AI투자법인이사회의장맡아",
+    "데이터센터지어질까…美블루웨이브에삼전닉스동반하락",
+    "코스피,1%대하락출발…삼전·닉스↓현대차↑",
+    "코스피,美반도체주급락에장초반2%대하락세"
    ],
    "initialized": true,
-   "last_run": "2026-11-05T09:15:22.137322+09:00"
+   "last_run": "2026-11-05T09:20:26.912274+09:00"
   }
  },
  "press_names": {
