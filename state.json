@@ -1190,14 +1190,13 @@
     [
      "2026-11-05T12:45:23.519678+09:00",
      "러브콜 전쟁에 글로벌 쏠리는 흔들 중동 공급망 한국에"
+    ],
+    [
+     "2026-11-05T12:50:23.159727+09:00",
+     "껑충 블루엠텍 소각 3분기 자사주 매출"
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/economy/2384932.htm",
-    "http://www.newslock.co.kr/news/articleView.html?idxno=139313",
-    "http://www.inews24.com/view/2022679",
-    "http://www.paxetv.com/news/articleView.html?idxno=286064",
-    "http://www.beyondpost.co.kr/view.php?ud=20261104164926166be44c0aacd_30",
     "https://www.redian.org/news/articleView.html?idxno=257598",
     "https://www.yna.co.kr/view/AKR20261104152500017?input=1195m",
     "http://www.newslock.co.kr/news/articleView.html?idxno=139323",
@@ -2692,14 +2691,14 @@
     "https://www.koreareport.co.kr/news/articleView.html?idxno=54335",
     "https://www.tokenpost.kr/news/blockchain/433072",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704815",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008832077&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008832077&plink=ORI&cooper=NAVER",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501540",
+    "https://www.vegannews.co.kr/news/article.html?no=400893",
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=365751",
+    "https://www.esgeconomy.com/news/articleView.html?idxno=17253",
+    "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171644"
    ],
    "seen_titles": [
-    "[컨콜]SKT\"저궤도위성통신,국내이동통신영향제한적\"",
-    "양경규정의당대표\"충북에서새로운진보정치의길열겠다\"",
-    "이천시의회,반도체인재양성·기술혁신현장점검",
-    "민주당압승후코스피는…\"AI투자안꺾여…취소보다는지연\"",
-    "[컨콜]SKT\"AI수익화,통신·인프라부터…중장기B2BAI서비스로확대...",
     "美중간선거'민주당압승'···韓기업,현지투자전략바뀌나",
     "코스피,美중간선거여파에출렁···개인·기관매수유입5680선마감",
     "입자가속기빛잡는반도체국산화…지큐티코리아,시제품6종개발",
@@ -4194,10 +4193,15 @@
     "저PBR개선계획낸62곳…37곳은밸류업첫공시",
     "[로빈후드온체인]알리바바토큰31만달러어치가줄어...래핑이더지갑...",
     "[영상]호통보다무서운침묵,전희철의싸늘한작전타임",
-    "중동전쟁에글로벌공급망'흔들'…한국에쏠리는'러브콜'"
+    "중동전쟁에글로벌공급망'흔들'…한국에쏠리는'러브콜'",
+    "SKT,부산불꽃축제앞두고통신망사전점검…AI로체감품질관리",
+    "산일전기영업익전분기보다28.2%감소…SK증권목표가유지",
+    "'블루쓰나미'AI투자늦추나",
+    "밸류업공시기업801곳…전체시가총액의83.8%차지",
+    "블루엠텍,3분기매출73%껑충…자사주1.4%소각"
    ],
    "initialized": true,
-   "last_run": "2026-11-05T12:45:23.519678+09:00"
+   "last_run": "2026-11-05T12:50:23.159727+09:00"
   }
  },
  "press_names": {
