@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-05T23:55:20.962727+09:00",
-     "재심사 청구 특허 NPE SK하이닉스 모노리식3D 2건 추가"
-    ],
-    [
      "2026-11-06T00:00:41.533200+09:00",
      "굳건 D램 삼성 초호황 SK와 놓고 HBM4 왕좌 1위 진검승부"
     ],
@@ -222,10 +218,13 @@
     [
      "2026-11-06T05:45:24.065543+09:00",
      "반도체주 미국증시 마감 폭락 AI기술주 49분 4대지수"
+    ],
+    [
+     "2026-11-06T06:00:38.183262+09:00",
+     "모기업보다 5년 2조 월등한 SK바사의 순현금 자회사 실적 베팅"
     ]
    ],
    "seen_urls": [
-    "https://www.news2day.co.kr/article/20261105500103",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000079918",
     "https://www.asiatime.co.kr/article/20261105500145",
     "https://www.edaily.co.kr/News/Read?newsId=04634646645642768&mediaCodeNo=257",
@@ -1724,10 +1723,10 @@
     "https://www.news1.kr/entertain/celebrity-topic/6344207",
     "https://www.g-enews.com/view.php?ud=2026110518315826910c8c1c064d_1",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=172946",
-    "https://www.newsverse.kr/news/articleView.html?idxno=11853"
+    "https://www.newsverse.kr/news/articleView.html?idxno=11853",
+    "https://www.apsk.co.kr/news/articleView.html?idxno=540986"
    ],
    "seen_titles": [
-    "태양광·이차전지웃고AI울고…美블루웨이브에엇갈린증시",
     "美민주당,양원탈환…트럼프견제",
     "'지면꼴찌확정'벼랑끝선광주FC…'약속의땅'제주서잔류실낱희...",
     "강남구,구룡마을화재이재민97명주거지원…임시숙박10일까지연장",
@@ -3226,10 +3225,11 @@
     "'이대통령한테이블'안재욱\"최태원·정의선·구광모틈에서가시방...",
     "\"엔비디아랙하나에칩600개\"…대만메모리양대산맥,'이익률70%'최...",
     "미국증시마감49분前...4대지수·반도체주·AI기술주'폭락'",
-    "[오늘의경제뉴스]같은AI투자둔화인데…미국증시웃고한국증시우..."
+    "[오늘의경제뉴스]같은AI투자둔화인데…미국증시웃고한국증시우...",
+    "모기업보다월등한자회사실적…'5년새순현금1.2조↓'SK바사의베팅..."
    ],
    "initialized": true,
-   "last_run": "2026-11-06T05:55:20.943709+09:00"
+   "last_run": "2026-11-06T06:00:38.183262+09:00"
   }
  },
  "press_names": {
