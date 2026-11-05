@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-06T00:25:20.846087+09:00",
-     "개인 순매도 267억 주가 하락 131억 삼성SDI 순매수 기관"
-    ],
-    [
-     "2026-11-06T00:25:20.846087+09:00",
-     "내비 티맵 1등 통하려면 해외에서도"
-    ],
-    [
      "2026-11-06T00:30:33.099598+09:00",
      "증가 SK바이오팜 영업익 3분기 1163억원 전년"
     ],
@@ -278,14 +270,21 @@
     [
      "2026-11-06T06:25:18.972903+09:00",
      "나스닥 투매에 반도 반도체 뉴욕증시 패닉"
+    ],
+    [
+     "2026-11-06T06:30:31.337076+09:00",
+     "최단경기 고지 10승 32점 칸터 활약 타이 삼성 역대 만에 11경기"
+    ],
+    [
+     "2026-11-06T06:30:31.337076+09:00",
+     "폭락 증시 치솟으며 나스 공포지수"
+    ],
+    [
+     "2026-11-06T06:30:31.337076+09:00",
+     "폭락 진입 데일리국제 전화통에 트레이더 조정국면 나스닥 불나"
     ]
    ],
    "seen_urls": [
-    "https://www.ppss.kr/news/articleView.html?idxno=319241",
-    "https://www.livebiz.today/news/articleView.html?idxno=206239",
-    "https://www.ytn.co.kr/_ln/0102_202611051148065606",
-    "https://www.newstnt.com/news/articleView.html?idxno=726870",
-    "http://www.breaknews.com/1248590",
     "https://basketkorea.com/news/newsview.php?ncode=1065581029134654",
     "https://www.etoday.co.kr/news/view/2644576",
     "https://www.newscj.com/news/articleView.html?idxno=3446140",
@@ -1780,14 +1779,14 @@
     "https://www.interfootball.co.kr/news/articleView.html?idxno=697881",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611051029213150766",
     "https://www.news1.kr/bio/pharmaceutical-bio/6344458",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=8134"
+    "https://www.moneystorm.kr/news/articleView.html?idxno=8134",
+    "https://www.news1.kr/world/international-economy/6344942",
+    "https://news.jtbc.co.kr/article/NB12326739?influxDiv=NAVER",
+    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=377245",
+    "https://www.news2day.co.kr/article/20261105500038",
+    "https://www.sedaily.com/article/20110949"
    ],
    "seen_titles": [
-    "SK바이오팜,3분기최대실적...세노바메이트미국판매확대(종합)",
-    "美'블루웨이브'發AI규제충격…코스피장중4%폭락·사이드카발동",
-    "산일전기3분기실적주춤…SK증권\"분기최대수주에주목\"",
-    "미국장비못얻은SK하이닉스,中측“미국압박에저항해야”",
-    "\"바닥인줄알았더니지하실\"…레버리지개미들'초비상'",
     "SK텔레콤,부산불꽃축제‘체감품질’올린다",
     "“억대성과급효과”…SK,삼성이어취준생입사희망기업2위등극",
     "[시황]美AI데이터센터규제우려에코스피3%대급락…삼전닉스'휘청...",
@@ -3282,10 +3281,15 @@
     "[오피셜]모레노호빠졌던김민수,김은중감독선택받아...올림픽대표...",
     "[PC국가대표]GPC-탄소저감콘크리트최대경쟁력…데이터센터·공동...",
     "SK바이오팜'세노바메이트'美월평균처방첫5만건돌파…매출성장...",
-    "[글로벌마켓뷰]뉴욕증시,AI·반도체투매에패닉…나스닥5.5%↓·반도..."
+    "[글로벌마켓뷰]뉴욕증시,AI·반도체투매에패닉…나스닥5.5%↓·반도...",
+    "美필라델피아반도체지수12.25%폭락…AI규제공포에투매",
+    "뉴욕증시급락'악몽'…나스닥-5.5%,필라델피아반도체-12.25%",
+    "'칸터32점활약'삼성,11경기만에10승고지…역대최단경기타이기...",
+    "[N2모닝경제브리핑-11월6일]美증시,공포지수치솟으며폭락…나스...",
+    "“트레이더전화통에불나”나스닥5%폭락,조정국면진입[데일리국제..."
    ],
    "initialized": true,
-   "last_run": "2026-11-06T06:25:18.972903+09:00"
+   "last_run": "2026-11-06T06:30:31.337076+09:00"
   }
  },
  "press_names": {
