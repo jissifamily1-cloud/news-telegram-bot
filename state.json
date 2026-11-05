@@ -222,10 +222,13 @@
     [
      "2026-11-06T05:40:23.776953+09:00",
      "하나에 대만 산맥 이익률 600개 양대 메모리 엔비디아"
+    ],
+    [
+     "2026-11-06T05:45:24.065543+09:00",
+     "반도체주 미국증시 마감 폭락 AI기술주 49분 4대지수"
     ]
    ],
    "seen_urls": [
-    "https://economist.co.kr/article/view/ecn202611050012",
     "https://www.businesspost.co.kr/BP?command=article_view&num=451246",
     "https://www.news2day.co.kr/article/20261105500103",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000079918",
@@ -1724,10 +1727,10 @@
     "https://www.sedaily.com/article/20110682",
     "https://www.mt.co.kr/opinion/2026/11/06/2026110513383811253",
     "https://www.news1.kr/entertain/celebrity-topic/6344207",
-    "https://www.g-enews.com/view.php?ud=2026110518315826910c8c1c064d_1"
+    "https://www.g-enews.com/view.php?ud=2026110518315826910c8c1c064d_1",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=172946"
    ],
    "seen_titles": [
-    "자족형신도시브랜드오피스텔‘영종SK뷰’특별분양진행",
     "TPG,롯데렌탈인수3개월만에성료…에쿼티·인수금융병행",
     "태양광·이차전지웃고AI울고…美블루웨이브에엇갈린증시",
     "美민주당,양원탈환…트럼프견제",
@@ -3226,10 +3229,11 @@
     "SK디스커버리,7년만에에코플랜트PRS정리…3800억확보전망[시그널...",
     "AI·반도체,시장의공포를이기는방법",
     "'이대통령한테이블'안재욱\"최태원·정의선·구광모틈에서가시방...",
-    "\"엔비디아랙하나에칩600개\"…대만메모리양대산맥,'이익률70%'최..."
+    "\"엔비디아랙하나에칩600개\"…대만메모리양대산맥,'이익률70%'최...",
+    "미국증시마감49분前...4대지수·반도체주·AI기술주'폭락'"
    ],
    "initialized": true,
-   "last_run": "2026-11-06T05:40:23.776953+09:00"
+   "last_run": "2026-11-06T05:45:24.065543+09:00"
   }
  },
  "press_names": {
