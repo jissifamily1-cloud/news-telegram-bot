@@ -1030,11 +1030,13 @@
     [
      "2026-11-05T21:25:21.311637+09:00",
      "만에 코스피 최저치 7개월"
+    ],
+    [
+     "2026-11-05T21:35:20.275000+09:00",
+     "Factories Hosting Flip Democrats States Key Korean"
     ]
    ],
    "seen_urls": [
-    "http://www.newsprime.co.kr/news/article.html?no=753817",
-    "https://www.newsian.co.kr/news/articleView.html?idxno=100677",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4116842",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2488744",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=284879",
@@ -2532,11 +2534,11 @@
     "https://www.khan.co.kr/article/202611052116005",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=564565",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=564579",
-    "https://www.ziksir.com/news/articleView.html?idxno=152278"
+    "https://www.ziksir.com/news/articleView.html?idxno=152278",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=446786",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=280616"
    ],
    "seen_titles": [
-    "통신분쟁151%늘자…방미통위대책논의",
-    "코스피급락에'매도사이드카'발동…올해56번째",
     "코스피,美중간선거發AI투자우려에'4%대급락'…올해29번째매도사...",
     "코스피,장중4%대급락에매도사이드카발동....5500선하회",
     "오늘의메모[11월6일]",
@@ -4034,10 +4036,12 @@
     "미민주‘데이터센터규제강화’기조…한국반도체‘숨고르기’",
     "오늘의경기",
     "코스피,7개월만에최저치",
-    "삼성,D램점유율38%로1위수성…SK하이닉스29%로반등"
+    "삼성,D램점유율38%로1위수성…SK하이닉스29%로반등",
+    "코스피,5%대낙폭에5400선밑으로...SK하이닉스,삼성전자등하락",
+    "DemocratsFlipKeyStatesHostingKoreanFactories"
    ],
    "initialized": true,
-   "last_run": "2026-11-05T21:30:32.441635+09:00"
+   "last_run": "2026-11-05T21:35:20.275000+09:00"
   }
  },
  "press_names": {
