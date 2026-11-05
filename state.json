@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-05T18:20:24.135208+09:00",
-     "달려 현장 AX 연결성에 데이터 기업 성패"
-    ],
-    [
      "2026-11-05T18:25:17.597031+09:00",
      "PEF 보유기업 운용사 변수되나 경영전략 신용위험"
     ],
@@ -422,13 +418,17 @@
     [
      "2026-11-06T00:15:26.787435+09:00",
      "믿음 격차는 설명될 성과급은 약속 보상"
+    ],
+    [
+     "2026-11-06T00:20:26.298289+09:00",
+     "600억달러 돌파 경계감 경상흑자 가질 환호보다"
+    ],
+    [
+     "2026-11-06T00:20:26.298289+09:00",
+     "지능형로봇표준포럼 족형로봇 개최 세미나 산업 확산 적용 9일"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20261105081800008?input=1195m",
-    "https://www.fnnews.com/news/202611051107167875",
-    "https://www.seoultimes.news/news/article.html?no=2000101826",
-    "https://dealsite.co.kr/articles/172155",
     "https://www.insight.co.kr/news/580704",
     "https://www.startuptoday.co.kr/news/articleView.html?idxno=818186",
     "https://www.edaily.co.kr/News/Read?newsId=04542806645642768&mediaCodeNo=257",
@@ -1924,13 +1924,13 @@
     "https://www.g-enews.com/view.php?ud=202611051355285384906806b77b_1",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=93212",
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071759",
-    "https://www.joongang.co.kr/article/25476221"
+    "https://www.joongang.co.kr/article/25476221",
+    "https://sports.khan.co.kr/article/202611060015003?pt=nv",
+    "https://www.joongang.co.kr/article/25476227",
+    "https://www.hankyung.com/article/2026110591131",
+    "https://www.irobotnews.com/news/articleView.html?idxno=49417"
    ],
    "seen_titles": [
-    "통신분쟁조정신청1년새2.5배…\"증시에미치는영향은제한적\"",
-    "대기업집단브랜드평판11월빅데이터…1위삼성·2위현대자동차·3위...",
-    "세노바메이트질주에비용통제까지…SK바이오팜,3분기영업익1163억'...",
-    "또켜진매도사이드카…삼전닉스급락에'5400피'로추락",
     "[특징주]SK바이오팜,3분기매출·영업익성장…주가14%쑥",
     "코스피3%대급락,매도사이드카발동...美민주당압승에반도체주직...",
     "SK하이닉스추종무기한계약,24시간10.3%하락",
@@ -3426,10 +3426,14 @@
     "[김대호진단]아!반도체...데이터센터모라토리움",
     "[증시프리즘]\"변동성터널지나반등준비\"…주요증권사연말코스피...",
     "불밝힌장생포의밤…야간관광활성화속도",
-    "[박태윤의이코노믹스]성과급은약속…보상격차는설명될때믿음얻..."
+    "[박태윤의이코노믹스]성과급은약속…보상격차는설명될때믿음얻...",
+    "연승끊겼어도다시달린다!…삼성,현대모비스꺾고11경기만에10승...",
+    "블루쓰나미희비…K조선·방산은기회,반도체·차는긴장",
+    "[사설]경상흑자월600억달러첫돌파…환호보다경계감가질때",
+    "지능형로봇표준포럼,9일'족형로봇산업적용·확산세미나'개최"
    ],
    "initialized": true,
-   "last_run": "2026-11-06T00:15:26.787435+09:00"
+   "last_run": "2026-11-06T00:20:26.298289+09:00"
   }
  },
  "press_names": {
