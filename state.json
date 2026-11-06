@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-06T23:00:41.097917+09:00",
-     "삼성전자 SK하이닉스 증가 외국인 축소 순매도 거래대금"
-    ],
-    [
      "2026-11-06T23:10:24.936207+09:00",
      "소액주주 정량 제보 적정한가 8만8000원 SK에코플랜트 검증"
     ],
@@ -122,11 +118,17 @@
     [
      "2026-11-07T05:00:36.961222+09:00",
      "레버리지 24시간 암호화폐 2억9841만달러 시장 포지션 동안 청산"
+    ],
+    [
+     "2026-11-07T05:05:19.727214+09:00",
+     "깨졌는데 삼전 숫자 베팅한 비명 닉스 5000피 9조 개미 샀다"
+    ],
+    [
+     "2026-11-07T05:05:19.727214+09:00",
+     "기업 B2B 넘어 라온 넓혀 키운다 크래프톤 보폭 게임 코파로"
     ]
    ],
    "seen_urls": [
-    "http://www.foodnews.co.kr/news/articleView.html?idxno=120863",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611060019&t=NN",
     "https://www.getnews.co.kr/news/articleView.html?idxno=886240",
     "http://www.srtimes.kr/news/articleView.html?idxno=216898",
     "http://www.paxetv.com/news/articleView.html?idxno=286235",
@@ -1624,11 +1626,11 @@
     "https://www.theguru.co.kr/news/article.html?no=109406",
     "https://www.theguru.co.kr/news/article.html?no=109409",
     "https://www.mediapen.com/news/view/1135923",
-    "https://www.tokenpost.kr/news/briefing/434267"
+    "https://www.tokenpost.kr/news/briefing/434267",
+    "https://www.segye.com/newsView/20261107501144?OutUrl=naver",
+    "https://www.newswhoplus.com/news/articleView.html?idxno=73139"
    ],
    "seen_titles": [
-    "코스피8%대급락에서킷브레이커...5000선붕괴",
-    "[개장]AI규제우려에코스피8%대폭락…5000선붕괴",
     "美선거끝나도던지는외국인…전쟁완화보다AI둔화시장압도[AI퍼...",
     "대상웰라이프,돌봄현장시니어건강관리솔루션개발나서",
     "반도체떠난돈,2차전지로갈까?[민경무끝장투자]",
@@ -3126,10 +3128,12 @@
     "페라리,첫전기차'루체'내년물량벌써완판…연내첫고객인도",
     "[통신리뷰]문화예술입은U+일상비일상의틈,체류시간두배늘어(11월...",
     "[美증시]폭락반도체,오랜만에급등…저가매수세·앤트로픽반복매출...",
-    "암호화폐시장,24시간동안레버리지포지션2억9841만달러청산"
+    "암호화폐시장,24시간동안레버리지포지션2억9841만달러청산",
+    "5000피깨졌는데또샀다…삼전·닉스9조베팅한개미‘비명’[숫자...",
+    "크래프톤,게임넘어AI기업보폭넓혀…라온·코파로B2B판키운다"
    ],
    "initialized": true,
-   "last_run": "2026-11-07T05:00:36.961222+09:00"
+   "last_run": "2026-11-07T05:05:19.727214+09:00"
   }
  },
  "press_names": {
