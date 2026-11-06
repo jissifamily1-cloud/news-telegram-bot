@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-06T23:40:25.124666+09:00",
-     "3분기 SK네트웍스 체질 개선 영업익 201억원 전사 사업"
-    ],
-    [
      "2026-11-06T23:55:19.902573+09:00",
      "정정 SKIET 합병신고서 두번째 요구 퇴짜 금감원 SK이노"
     ],
@@ -134,10 +130,13 @@
     [
      "2026-11-07T05:40:23.789887+09:00",
      "패닉 하닉 급락 삼성 블루웨이브 반사 반도체"
+    ],
+    [
+     "2026-11-07T05:45:23.094752+09:00",
+     "Japan as Asian Shares Enters Fall Nikkei Chip Market Bear"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10928168",
     "https://www.kukinews.com/article/view/kuk202611060047",
     "https://news.bizwatch.co.kr/article/healthcare/2026/11/06/0006",
     "https://www.news2day.co.kr/article/20261106500098",
@@ -1636,10 +1635,10 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=285270",
     "https://www.mhns.co.kr/news/articleView.html?idxno=768053",
     "https://magazine.hankyung.com/business/article/202611056815b",
-    "https://www.the-today.com/news/articleView.html?idxno=93212"
+    "https://www.the-today.com/news/articleView.html?idxno=93212",
+    "https://econotimes.com/Japan-s-Nikkei-Enters-Bear-Market-as-Asian-Chip-Shares-Fall-1772249"
    ],
    "seen_titles": [
-    "코스피서킷브레이커,올해만11번째…반도체급락때마다발동[美선거...",
     "대상웰라이프·SK인텔릭스,AI로봇활용시니어건강관리사업추진",
     "코스피5000선붕괴에도증권가“AI데이터센터규제우려과도”[美...",
     "‘19만전자’도무너졌다…반도체株추락[투자360]",
@@ -3138,10 +3137,11 @@
     "[OnAir&OffScript]HBM공장이인디애나로갈때,누가베이스다이를...",
     "[박근종칼럼]미국'블루쓰나미'에주가폭락,반도체일극경제에대...",
     "생활고에거리로나온유럽청년들…유럽발한파한국증시덮치나[코스...",
-    "美'블루웨이브'에K-반도체패닉…삼성8%·하닉10%급락속中은반사..."
+    "美'블루웨이브'에K-반도체패닉…삼성8%·하닉10%급락속中은반사...",
+    "Japan'sNikkeiEntersBearMarketasAsianChipSharesFall"
    ],
    "initialized": true,
-   "last_run": "2026-11-07T05:40:23.789887+09:00"
+   "last_run": "2026-11-07T05:45:23.094752+09:00"
   }
  },
  "press_names": {
