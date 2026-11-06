@@ -290,10 +290,13 @@
     [
      "2026-11-07T07:55:20.012252+09:00",
      "일주일 휘청 자릿수 정유주 유가 에쓰오일 급락에 SK이노"
+    ],
+    [
+     "2026-11-07T08:00:39.540340+09:00",
+     "확보 서버용 폐플라스틱 탄화수 10월 특허 액침냉각 150건"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202611060911427180cd0bfacc1c_1",
     "https://www.e-science.co.kr/news/articleView.html?idxno=139113",
     "https://www.news2day.co.kr/article/20261106500100",
     "https://www.segye.com/newsView/20261106506061?OutUrl=naver",
@@ -1792,10 +1795,10 @@
     "https://www.etoday.co.kr/news/view/2645115",
     "https://magazine.hankyung.com/business/article/202611061182b",
     "https://www.theguru.co.kr/news/article.html?no=109390",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4443589"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4443589",
+    "https://www.theguru.co.kr/news/article.html?no=109272"
    ],
    "seen_titles": [
-    "하나증권\"반도체단기낙폭과대..삼전·닉스비중↑\"",
     "SK바이오팜,AI특화모델로신약후보물질발굴가속",
     "[양자보안특허]③한국양자보안특허어디까지왔나…SKT·KT·삼성·LG동...",
     "KB국민카드,주유비최대17%할인…유가오르면혜택커진다",
@@ -3294,10 +3297,11 @@
     "‘AI데이터센터완판·5G요금인상’…통신3사,2027년‘이익·배당...",
     "“여기서더떨어진다고?”…코스피최악의시나리오",
     "글로벌석유·가스브랜드톱50에'단2곳'…SK이노37위GS칼텍스42위",
-    "에쓰오일·SK이노,일주일새두자릿수↓…유가급락에정유주'휘청'"
+    "에쓰오일·SK이노,일주일새두자릿수↓…유가급락에정유주'휘청'",
+    "SK,10월中서특허150건확보…AI서버용액침냉각·폐플라스틱탄화수..."
    ],
    "initialized": true,
-   "last_run": "2026-11-07T07:55:20.012252+09:00"
+   "last_run": "2026-11-07T08:00:39.540340+09:00"
   }
  },
  "press_names": {
