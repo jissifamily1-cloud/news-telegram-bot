@@ -449,8 +449,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261106_0003857463",
-    "https://www.news1.kr/finance/general-stock/6345236",
     "http://www.ikld.kr/news/articleView.html?idxno=343646",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4443422",
     "https://www.ntoday.co.kr/news/articleView.html?idxno=130671",
@@ -1948,11 +1946,11 @@
     "http://sateconomy.co.kr/news/view/1065621697632167",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=623579",
     "http://www.4th.kr/news/articleView.html?idxno=2121357",
-    "https://www.irobotnews.com/news/articleView.html?idxno=49440"
+    "https://www.irobotnews.com/news/articleView.html?idxno=49440",
+    "https://mhnse.com/news/articleView.html?idxno=1685083",
+    "https://www.ekn.kr/web/view.php?key=20261106022106625"
    ],
    "seen_titles": [
-    "불과3분만에5000선붕괴…8%대폭락에서킷브레이커발동[투자360]",
-    "9개월만에무너진5000선…'미국발AI공포'삼전닉스두자릿수급락",
     "코스피5000선'뚝'...개장3분만에서킷브레이커",
     "\"장열리자마자와르르\"코스피5000선깨져…서킷브레이커도발동[뉴...",
     "'美AI쇼크'삼전8%·닉스10%↓…장비·부품주도급락[핫종목]",
@@ -3450,10 +3448,12 @@
     "SK에코플랜트8만8000원적정한가…소액주주제보정량검증",
     "부산불꽃축제앞두고안전대책점검회의…행안부,현장준비총력",
     "TSMC,엔비디아요청에'3DD램'생산검토설…메모리3강구도흔드나",
-    "SK인텔릭스,4자업무협약체결···AI웰니스로봇'나무엑스'시니어..."
+    "SK인텔릭스,4자업무협약체결···AI웰니스로봇'나무엑스'시니어...",
+    "[mhn포토]김재희,버디잡고홀아웃",
+    "기아3조투자…전남광주미래차승부수"
    ],
    "initialized": true,
-   "last_run": "2026-11-06T23:15:23.782025+09:00"
+   "last_run": "2026-11-06T23:20:24.981597+09:00"
   }
  },
  "press_names": {
