@@ -213,7 +213,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833535&plink=ORI&cooper=NAVER",
     "https://www.joongangenews.com/news/articleView.html?idxno=561772",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=397188",
     "https://www.etoday.co.kr/news/view/2644968",
@@ -1712,10 +1711,10 @@
     "https://www.joongang.co.kr/article/25476538",
     "https://www.donga.com/news/Economy/article/all/20261106/134982628/2",
     "https://www.donga.com/news/Economy/article/all/20261106/134982634/2",
-    "https://www.donga.com/news/Economy/article/all/20261107/134982636/2"
+    "https://www.donga.com/news/Economy/article/all/20261107/134982636/2",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=880848"
    ],
    "seen_titles": [
-    "[특징주]증권주,'블루웨이브'충격에'급락'",
     "[진단]코스피장중5000선붕괴…AI규제'블루쓰나미'덮치자증시도...",
     "SK최태원,왜\"롤러코스터장세계속된다\"고예측했나?",
     "코스피8%대하락·서킷브레이커…5천하회",
@@ -3214,10 +3213,11 @@
     "데이터센터규제공포…5000피턱걸이",
     "“韓메모리,1~3년치완판됐지만중장기설비투자차질우려”",
     "5.5%급락한나스닥,하루새3400조원증발",
-    "개장3분만에서킷브레이커…이틀간삼전13%-하이닉스17%빠져"
+    "개장3분만에서킷브레이커…이틀간삼전13%-하이닉스17%빠져",
+    "'아반도21득점'프로농구정관장,SK제치고단독2위"
    ],
    "initialized": true,
-   "last_run": "2026-11-07T02:05:20.861981+09:00"
+   "last_run": "2026-11-07T02:10:26.071816+09:00"
   }
  },
  "press_names": {
