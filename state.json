@@ -1065,9 +1065,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=397186",
-    "http://www.breaknews.com/1248872",
-    "https://imnews.imbc.com/replay/2026/nw930/article/6863629_36996.html",
     "http://www.dailysmart.co.kr/news/articleView.html?idxno=132108",
     "https://www.news1.kr/finance/market-exr/6345164",
     "https://www.ddaily.co.kr/page/view/2026110609115278530",
@@ -2564,12 +2561,12 @@
     "http://www.biztribune.co.kr/news/articleView.html?idxno=362099",
     "https://imnews.imbc.com/replay/2026/nwdesk/article/6863798_37004.html",
     "https://www.hangyo.com/news/article.html?no=109981",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=304466"
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=304466",
+    "http://www.econotelling.com/news/articleView.html?idxno=21586",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6863800_37004.html",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=624190"
    ],
    "seen_titles": [
-    "코스피,美삭풍에8%대↓5천피붕괴…서킷브레이커발동",
-    "코스피,5000선붕괴…삼전닉스동반10%급락",
-    "SK인텔릭스,AI로봇'나무엑스'요양시설공급추진···시니어케어시...",
     "[속보]코스피5000붕괴",
     "최태원SK회장,“AI시대변화속도와크기과거와비교할수없을만큼...",
     "코스피폭락에서킷브레이커발동‥5천선붕괴",
@@ -4066,10 +4063,13 @@
     "[이슈+]美데이터센터규제우려에반도체주급락…HBM수요는괜찮나",
     "'블루쓰나미'여파에코스피'검은금요일'‥세계증시도동반'충격'",
     "미래교육과제는교원전문성·평가혁신",
-    "\"환율악재뚫은'엑스코프리'…SK바이오팜,3분기영업이익률45%기염..."
+    "\"환율악재뚫은'엑스코프리'…SK바이오팜,3분기영업이익률45%기염...",
+    "외국인의투매에'검은금요일'몸서리",
+    "반도체호황끝나나?‥미중AI경쟁은여전히유효",
+    "'호남권반도체국가산단'전력·용수·정주여건협의체가동"
    ],
    "initialized": true,
-   "last_run": "2026-11-06T19:50:25.326695+09:00"
+   "last_run": "2026-11-06T19:55:19.043071+09:00"
   }
  },
  "press_names": {
