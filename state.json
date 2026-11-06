@@ -134,11 +134,17 @@
     [
      "2026-11-07T05:45:23.094752+09:00",
      "Japan as Asian Shares Enters Fall Nikkei Chip Market Bear"
+    ],
+    [
+     "2026-11-07T05:55:18.309477+09:00",
+     "마이크론 수요가 이끌 하루 만에 반등 회복 메모리 주가 확대"
+    ],
+    [
+     "2026-11-07T05:55:18.309477+09:00",
+     "삼성SD SK온 셧다운 솔루스첨단소재 전면 1공장 전지박 헝가리"
     ]
    ],
    "seen_urls": [
-    "https://www.kukinews.com/article/view/kuk202611060047",
-    "https://news.bizwatch.co.kr/article/healthcare/2026/11/06/0006",
     "https://www.news2day.co.kr/article/20261106500098",
     "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=261106503&PRO_CODE=99",
     "http://www.press9.kr/news/articleView.html?idxno=85737",
@@ -1636,11 +1642,11 @@
     "https://www.mhns.co.kr/news/articleView.html?idxno=768053",
     "https://magazine.hankyung.com/business/article/202611056815b",
     "https://www.the-today.com/news/articleView.html?idxno=93212",
-    "https://econotimes.com/Japan-s-Nikkei-Enters-Bear-Market-as-Asian-Chip-Shares-Fall-1772249"
+    "https://econotimes.com/Japan-s-Nikkei-Enters-Bear-Market-as-Asian-Chip-Shares-Fall-1772249",
+    "https://www.jemin.com/news/articleView.html?idxno=846367",
+    "https://www.the-today.com/news/articleView.html?idxno=93213"
    ],
    "seen_titles": [
-    "대상웰라이프·SK인텔릭스,AI로봇활용시니어건강관리사업추진",
-    "코스피5000선붕괴에도증권가“AI데이터센터규제우려과도”[美...",
     "‘19만전자’도무너졌다…반도체株추락[투자360]",
     "코스피5000선붕괴…개장3분만에서킷브레이커‘패닉’",
     "신약물질발굴에AI접목…SK바이오팜,개발성과공개",
@@ -3138,10 +3144,12 @@
     "[박근종칼럼]미국'블루쓰나미'에주가폭락,반도체일극경제에대...",
     "생활고에거리로나온유럽청년들…유럽발한파한국증시덮치나[코스...",
     "美'블루웨이브'에K-반도체패닉…삼성8%·하닉10%급락속中은반사...",
-    "Japan'sNikkeiEntersBearMarketasAsianChipSharesFall"
+    "Japan'sNikkeiEntersBearMarketasAsianChipSharesFall",
+    "마이크론,하루만에반등폭확대…AI메모리수요가주가회복이끌...",
+    "[단독]솔루스첨단소재헝가리전지박1공장전면셧다운…SK온·삼성SD..."
    ],
    "initialized": true,
-   "last_run": "2026-11-07T05:50:24.954982+09:00"
+   "last_run": "2026-11-07T05:55:18.309477+09:00"
   }
  },
  "press_names": {
