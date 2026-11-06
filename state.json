@@ -282,10 +282,13 @@
     [
      "2026-11-07T00:35:19.926079+09:00",
      "추격의 위기 선도의"
+    ],
+    [
+     "2026-11-07T00:45:23.524497+09:00",
+     "쇼크 코스피 붕괴 장중"
     ]
    ],
    "seen_urls": [
-    "https://www.ekn.kr/web/view.php?key=20261106024256258",
     "https://www.mydaily.co.kr/page/view/2026110610075684796",
     "https://m.sports.naver.com/basketball/article/065/0000304132",
     "https://mhnse.com/news/articleView.html?idxno=1682523",
@@ -1784,10 +1787,10 @@
     "https://www.hankyung.com/article/2026110615641",
     "https://www.cbci.co.kr/news/articleView.html?idxno=624268",
     "https://www.joongang.co.kr/article/25476499",
-    "https://www.chosun.com/economy/stock-finance/2026/11/07/K34VNEVPFJGWZFZLITH34OS7SA/"
+    "https://www.chosun.com/economy/stock-finance/2026/11/07/K34VNEVPFJGWZFZLITH34OS7SA/",
+    "https://www.chosun.com/economy/stock-finance/2026/11/07/27CXDOBX5BDJPIXAPSTMSQTBNU/"
    ],
    "seen_titles": [
-    "[분석]한국금융,3분기'어닝쇼크'...거래대금·환손실여파",
     "AMD데이터센터매출97%급증…‘메모리쇼크’에발묶인인텔",
     "이주안플랜트건설노조위원장3선도전…단독출마",
     "[똑똑한한끼]농심,하이트진로그룹,올가홀푸드,남양유업,아워홈,하...",
@@ -3286,10 +3289,11 @@
     "[최정봉의호모인베스티쿠스]정치의중심장치가된숫자",
     "코스피급락5059선…삼전닉스·삼성전기·LG엔솔등하락",
     "[에디터프리즘]추격의끝,선도의위기",
-    "‘블루쓰나미’에무너진나스닥…하루새시총3355조원,사상최대증..."
+    "‘블루쓰나미’에무너진나스닥…하루새시총3355조원,사상최대증...",
+    "코스피,AI쇼크…장중5000붕괴"
    ],
    "initialized": true,
-   "last_run": "2026-11-07T00:40:23.583506+09:00"
+   "last_run": "2026-11-07T00:45:23.524497+09:00"
   }
  },
  "press_names": {
