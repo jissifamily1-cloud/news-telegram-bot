@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-06T17:50:25.387012+09:00",
-     "어떻게 진화할까 시대 개최 HR은 PA Connect"
-    ],
-    [
-     "2026-11-06T17:50:25.387012+09:00",
-     "호황 반도체 쇼크 일파만파 블루웨이브 벌써"
-    ],
-    [
-     "2026-11-06T17:55:19.105587+09:00",
-     "가속화 201억 중심축 대전환 3Q SK네트웍스 영업이익"
-    ],
-    [
-     "2026-11-06T17:55:19.105587+09:00",
-     "공포 장중 SK스퀘어 5천 수익성 내려 주가"
-    ],
-    [
      "2026-11-06T18:00:39.829439+09:00",
      "안심 걸린 삼전닉스 못해 장기계약도 비상"
     ],
@@ -326,11 +310,13 @@
     [
      "2026-11-06T23:40:25.124666+09:00",
      "3분기 SK네트웍스 체질 개선 영업익 201억원 전사 사업"
+    ],
+    [
+     "2026-11-06T23:55:19.902573+09:00",
+     "정정 SKIET 합병신고서 두번째 요구 퇴짜 금감원 SK이노"
     ]
    ],
    "seen_urls": [
-    "https://www.gokorea.kr/news/articleView.html?idxno=884374",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4443427",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=280641",
     "https://www.econovill.com/news/articleView.html?idxno=756273",
     "https://www.sedaily.com/article/20111005",
@@ -1828,11 +1814,11 @@
     "https://mhnse.com/news/articleView.html?idxno=1685109",
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435250",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=91633",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16270404"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16270404",
+    "https://www.maniareport.com/view.php?ud=202611062253579683dad9f33a29_19",
+    "https://www.sedaily.com/article/20111390"
    ],
    "seen_titles": [
-    "최태원\"美중간선거에증시출렁···롤러코스터장세이어질것\"",
-    "최태원\"미국중간선거결과에증시요동···롤러코스터계속\"",
     "최태원회장,SK주식9440억어치매각...\"이혼위한재산분할금마련\"",
     "코스피5,000선붕괴,서킷브레이커발동…데이터센터규제불안에증...",
     "[신윤우의외환분석]'반도체쇼크'에감전된원화",
@@ -3330,10 +3316,12 @@
     "[mhn포토]김재희,버디성공했어요~",
     "'잇몸투혼'정관장,무니·변준형공백딛고SK꺾고2위도약",
     "SK네트웍스,3분기영업익201억원…전사AI전환·사업체질개선속...",
-    "미국증시나스닥1.65%반등·다우하락…엔비디아6.56%급등,고용호..."
+    "미국증시나스닥1.65%반등·다우하락…엔비디아6.56%급등,고용호...",
+    "'변준형없이이겼다'정관장,박지훈연속3점포로SK역전승...8승4패...",
+    "금감원,SK이노-SKIET합병신고서또‘퇴짜’…두번째정정요구"
    ],
    "initialized": true,
-   "last_run": "2026-11-06T23:50:25.087341+09:00"
+   "last_run": "2026-11-06T23:55:19.902573+09:00"
   }
  },
  "press_names": {
