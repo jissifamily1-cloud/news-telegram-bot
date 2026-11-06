@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-06T19:20:24.916652+09:00",
-     "터지는 거품이 오늘자 중인가 지금뉴 경제전문기자의 분석"
-    ],
-    [
-     "2026-11-06T19:20:24.916652+09:00",
-     "an Brokers Rout Deepening End Not Selling See Korean to Grow Pressure"
-    ],
-    [
-     "2026-11-06T19:20:24.916652+09:00",
-     "반도체에 울었다 천당과 지옥 코스피 웃고 오간"
-    ],
-    [
      "2026-11-06T19:30:29.974157+09:00",
      "Fears Global Follow Spending Off as Stocks Sell Spread"
     ],
@@ -238,10 +226,13 @@
     [
      "2026-11-07T00:45:23.524497+09:00",
      "쇼크 코스피 붕괴 장중"
+    ],
+    [
+     "2026-11-07T01:25:20.198429+09:00",
+     "비명 외인은 개미들 아파요 심장이 매도"
     ]
    ],
    "seen_urls": [
-    "https://m.sports.naver.com/basketball/article/065/0000304132",
     "https://mhnse.com/news/articleView.html?idxno=1682523",
     "https://www.nextdaily.co.kr/news/articleView.html?idxno=254625",
     "https://www.ajunews.com/view/20261106093137920",
@@ -1740,10 +1731,10 @@
     "https://www.joongang.co.kr/article/25476499",
     "https://www.chosun.com/economy/stock-finance/2026/11/07/K34VNEVPFJGWZFZLITH34OS7SA/",
     "https://www.chosun.com/economy/stock-finance/2026/11/07/27CXDOBX5BDJPIXAPSTMSQTBNU/",
-    "https://imnews.imbc.com/replay/2026/nw2500/article/6863841_36989.html"
+    "https://imnews.imbc.com/replay/2026/nw2500/article/6863841_36989.html",
+    "https://imnews.imbc.com/replay/2026/nw2500/article/6863842_36989.html"
    ],
    "seen_titles": [
-    "이주안플랜트건설노조위원장3선도전…단독출마",
     "[똑똑한한끼]농심,하이트진로그룹,올가홀푸드,남양유업,아워홈,하...",
     "장동현SK부회장,SK에코플랜트대표이사직내려놔",
     "‘허훈이돌아왔다’WC아시아예선나설남자농구대표팀최종12인확...",
@@ -3242,10 +3233,11 @@
     "[에디터프리즘]추격의끝,선도의위기",
     "‘블루쓰나미’에무너진나스닥…하루새시총3355조원,사상최대증...",
     "코스피,AI쇼크…장중5000붕괴",
-    "뉴욕발'AI규제'공포세계증시덮쳤다"
+    "뉴욕발'AI규제'공포세계증시덮쳤다",
+    "\"심장이아파요\"개미들비명‥외인은또매도"
    ],
    "initialized": true,
-   "last_run": "2026-11-07T01:20:24.545631+09:00"
+   "last_run": "2026-11-07T01:25:20.198429+09:00"
   }
  },
  "press_names": {
