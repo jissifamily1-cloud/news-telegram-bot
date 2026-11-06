@@ -858,13 +858,13 @@
     [
      "2026-11-06T21:10:27.192209+09:00",
      "정관장"
+    ],
+    [
+     "2026-11-06T21:15:24.225051+09:00",
+     "K배터리 손잡고 심장에 EV 전기차 개발 SK온과 루체 페라리"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=451329",
-    "https://www.chosun.com/economy/economy_general/2026/11/06/EE2TTQOHMRA7BKPFG7XVESWFMA/",
-    "https://www.mk.co.kr/article/12200208",
-    "https://slownews.kr/169163",
     "https://www.cstimes.com/news/articleView.html?idxno=726913",
     "http://www.issuenbiz.com/news/articleView.html?idxno=81310",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=730835",
@@ -2360,13 +2360,13 @@
     "https://www.mydaily.co.kr/page/view/2026110619430640153",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706282",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834645&plink=ORI&cooper=NAVER",
-    "https://www.yna.co.kr/view/AKR20261106185400007?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261106185400007?input=1195m",
+    "https://sports.khan.co.kr/article/202611062109003?pt=nv",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706284",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706283",
+    "https://www.gpkorea.com/news/articleView.html?idxno=148378"
    ],
    "seen_titles": [
-    "'블루쓰나미'한국증시도삼켰다...개장직후8%대급락,5000선붕괴",
-    "미국,AI투자제동걸리나…규제우려에나스닥급락",
-    "美AI쇼크에반도체'패닉'…삼성전자18만원·SK하이닉스111만원대로...",
-    "[커리어칼럼]AI시대의취업전략,'이름값'보다'성장생태계'를보라",
     "렌터카경쟁늘려가격낮춘다는데…캐피털사사업확대에업계반발,...",
     "Expertisemustcomefirstinsemiconductorprojectoversight",
     "SlowLetter:November06,2026.",
@@ -3862,10 +3862,14 @@
     "변준형'부상공백'없었다!토마스더블더블+아반도21득점,정관장SK...",
     "미선거충격에‘검은금요일’…9달전으로돌아간코스피",
     "주식팔아이혼자금9,400억…매각시점눈길",
-    "[프로농구안양전적]정관장83-79SK"
+    "[프로농구안양전적]정관장83-79SK",
+    "‘리바운드열세극복’정관장,4쿼터3점슛앞세워SK꺾고2위도약",
+    "반도체‘블루웨이브쇼크’…대미투자불확실성도↑",
+    "증시급락에개미비명…코스피하락어디까지?",
+    "\"페라리전기차심장에K배터리\"…SK온과손잡고첫EV'루체'개발"
    ],
    "initialized": true,
-   "last_run": "2026-11-06T21:10:27.192209+09:00"
+   "last_run": "2026-11-06T21:15:24.225051+09:00"
   }
  },
  "press_names": {
