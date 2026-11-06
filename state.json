@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-06T22:45:25.889030+09:00",
-     "하닉 사람들 폭락에 있었다 주주 제발 삼전 따로 웃은 본전만"
-    ],
-    [
      "2026-11-06T22:55:19.907775+09:00",
      "불꽃축제 인파 몰린다 주재 부산 점검회의 안전대책 행안부 100만"
     ],
@@ -122,10 +118,13 @@
     [
      "2026-11-07T04:40:23.292077+09:00",
      "11월 늘어 체류시간 문화예술 일상비일상의틈 입은"
+    ],
+    [
+     "2026-11-07T04:50:24.241091+09:00",
+     "저가 앤트로픽 매수세 반도체 급등 폭락 오랜만에 반복매출"
     ]
    ],
    "seen_urls": [
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=880535",
     "https://biz.newdaily.co.kr/site/data/html/2026/11/06/2026110600081.html",
     "http://www.foodnews.co.kr/news/articleView.html?idxno=120863",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611060019&t=NN",
@@ -1624,10 +1623,10 @@
     "https://www.apnews.kr/news/articleView.html?idxno=3052906",
     "https://econotimes.com/Three-Semiconductor-Stock-Positions-Carry-About-3-37-Million-in-Unrealized-Losses-1772194",
     "https://www.theguru.co.kr/news/article.html?no=109406",
-    "https://www.theguru.co.kr/news/article.html?no=109409"
+    "https://www.theguru.co.kr/news/article.html?no=109409",
+    "https://www.mediapen.com/news/view/1135923"
    ],
    "seen_titles": [
-    "KB국민카드,유가오르면할인더해준다..'KBNEEDOil카드'출시",
     "최태원회장,SK㈜지분165만주매각…재산분할금9440억원마련",
     "코스피8%대급락에서킷브레이커...5000선붕괴",
     "[개장]AI규제우려에코스피8%대폭락…5000선붕괴",
@@ -3126,10 +3125,11 @@
     "기름값오르면혜택더커진다…KBNEEDOil,주유비최대17%할인",
     "ThreeSemiconductorStockPositionsCarryAbout$3.37MillioninUnre",
     "페라리,첫전기차'루체'내년물량벌써완판…연내첫고객인도",
-    "[통신리뷰]문화예술입은U+일상비일상의틈,체류시간두배늘어(11월..."
+    "[통신리뷰]문화예술입은U+일상비일상의틈,체류시간두배늘어(11월...",
+    "[美증시]폭락반도체,오랜만에급등…저가매수세·앤트로픽반복매출..."
    ],
    "initialized": true,
-   "last_run": "2026-11-07T04:45:24.634676+09:00"
+   "last_run": "2026-11-07T04:50:24.241091+09:00"
   }
  },
  "press_names": {
