@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-06T11:50:24.117857+09:00",
-     "30거래일만에 멈춘 전망은 CP91일물 금리 상승세"
-    ],
-    [
-     "2026-11-06T11:50:24.117857+09:00",
-     "after News to midte prompts KOSPI tumble rout Focus below"
-    ],
-    [
      "2026-11-06T11:55:20.502641+09:00",
      "티맵모빌리티 KB국민은행 지분 향방은 골드만삭스 인수"
     ],
@@ -1150,17 +1142,17 @@
     [
      "2026-11-06T17:45:24.851475+09:00",
      "핵폭탄 국장이 내에서도 한국 제일 아시아 도대 폭락 증시만"
+    ],
+    [
+     "2026-11-06T17:50:25.387012+09:00",
+     "어떻게 진화할까 시대 개최 HR은 PA Connect"
+    ],
+    [
+     "2026-11-06T17:50:25.387012+09:00",
+     "호황 반도체 쇼크 일파만파 블루웨이브 벌써"
     ]
    ],
    "seen_urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=2015265",
-    "https://www.hitnews.co.kr/news/articleView.html?idxno=80560",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=623941",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=280624",
-    "https://www.chosun.com/economy/stock-finance/2026/11/06/QOXV3PAN2VEX3BHBNURUN54KOI/",
-    "https://www.khan.co.kr/article/202611060908001",
-    "https://www.etoday.co.kr/news/view/2644907",
-    "https://www.ekn.kr/web/view.php?key=20261106020006224",
     "https://www.cbci.co.kr/news/articleView.html?idxno=623745",
     "https://biz.newdaily.co.kr/site/data/html/2026/11/06/2026110600040.html",
     "https://www.kyosu.net/news/articleView.html?idxno=212117",
@@ -2652,17 +2644,17 @@
     "https://news.dealsitetv.com/articles/178178",
     "https://www.hankyung.com/article/2026110615791",
     "https://news.mtn.co.kr/article/2026110616212030538",
-    "https://biz.heraldcorp.com/article/10928706"
+    "https://biz.heraldcorp.com/article/10928706",
+    "https://weekly.hankooki.com/news/articleView.html?idxno=7192697",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=747918",
+    "http://www.whitepaper.co.kr/news/articleView.html?idxno=268541",
+    "https://www.globalepic.co.kr/view.php?ud=2026110617424222707cc35ccc5c_29",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=451438",
+    "https://www.ytn.co.kr/_ln/0103_202611061745136361",
+    "https://www.mt.co.kr/society/2026/11/06/2026110613570747994",
+    "https://www.ytn.co.kr/_ln/0101_202611061738534045"
    ],
    "seen_titles": [
-    "SK바이오팜,신약개발특화AI모델구축…“714만건데이터학습”",
-    "SK바이오팜,AI특화파운데이션모델성과공개…신약개발적용확대",
-    "[속보]\"삼성전자10%·SK하이닉스11%폭락출발\"코스피도와르르",
-    "SK인텔릭스,4개사와시니어케어협력체계구축",
-    "SK바이오팜,신약개발특화AI모델개발…714만건데이터구축",
-    "[속보]코스피장초반8%대폭락'블랙프라이데이'…서킷브레이커발동...",
-    "최태원회장,서울대생들과'AI시대경제패러다임'모색",
-    "미국발AI아마겟돈에코스피5000선붕괴",
     "[속보]코스피,8%급락에서킷브레이커…5000선붕괴",
     "[특징주]美반도체주투매에삼성전자67거래일만에18만원대…SK하이...",
     "3500억달러투자약속했는데美정책흔들…삼성·SK·현대차‘셈법복잡...",
@@ -4154,10 +4146,18 @@
     "[유통24시]올가홀푸드,단백질·고식이섬유담은‘한봉견과’출시外",
     "AI성장서사가흔들린다",
     "AI에이전트는진화하는데…국내서비스연동은'제자리'",
-    "“국장이제일폭락”아시아내에서도한국증시만‘핵폭탄’…도대..."
+    "“국장이제일폭락”아시아내에서도한국증시만‘핵폭탄’…도대...",
+    "SK네트웍스,3분기매출1조9357억원…\"전사적AI내실다진기간\"",
+    "[재계포커스]SK네트웍스,3분기영업익201억원···AI전환투자속...",
+    "'검은금요일'…코스피,6%대급락한5,000선턱걸이마감",
+    "교보교육재단,AI윤리교육을‘알고리즘검증’으로체질개선",
+    "SK네트웍스3분기영업이익201억전년대비9.9%감소,렌털부진영향",
+    "\"최태원동거인간첩\"주장유튜버,2심도벌금형",
+    "AI시대HR은어떻게진화할까…'PA|AIConnect2026'개최",
+    "반도체호황벌써끝?...'블루웨이브쇼크'일파만파[정치ON]"
    ],
    "initialized": true,
-   "last_run": "2026-11-06T17:45:24.851475+09:00"
+   "last_run": "2026-11-06T17:50:25.387012+09:00"
   }
  },
  "press_names": {
