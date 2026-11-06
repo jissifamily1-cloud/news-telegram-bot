@@ -1374,13 +1374,21 @@
     [
      "2026-11-06T11:50:24.117857+09:00",
      "after News to midte prompts KOSPI tumble rout Focus below"
+    ],
+    [
+     "2026-11-06T11:55:20.502641+09:00",
+     "티맵모빌리티 KB국민은행 지분 향방은 골드만삭스 인수"
+    ],
+    [
+     "2026-11-06T11:55:20.502641+09:00",
+     "200억 환급 빼니 수익성 1000억 한화비전 후퇴 관세 영업익의"
+    ],
+    [
+     "2026-11-06T11:55:20.502641+09:00",
+     "포럼서 한중일 융합예술 연설 노소영 나비 아트센터 관장"
     ]
    ],
    "seen_urls": [
-    "https://www.jbnews.com/news/articleView.html?idxno=1515278",
-    "https://www.dt.co.kr/article/12093489",
-    "https://www.econovill.com/news/articleView.html?idxno=756209",
-    "https://www.busan.com/view/busan/view.php?code=2026110517542799657",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7192459",
     "https://www.sentv.co.kr/article/view/sentv202611050179",
     "https://www.ekn.kr/web/view.php?key=20261105025126035",
@@ -2876,13 +2884,13 @@
     "https://www.kbsm.net/news/view.php?idx=540652",
     "https://biz.heraldcorp.com/article/10928477",
     "https://www.etoday.co.kr/news/view/2645048",
-    "https://en.yna.co.kr/view/AEN20261106004400320?input=2106m"
+    "https://en.yna.co.kr/view/AEN20261106004400320?input=2106m",
+    "https://www.koreajoongangdaily.com/business/korean-market-hit-by-black-friday-as-kospi-plunges-below-5000-after-us-midterms/12959264",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=285242",
+    "https://www.upkoreanews.kr/news/articleView.html?idxno=101040",
+    "https://www.munhwa.com/article/11629337"
    ],
    "seen_titles": [
-    "최태원,SK주식9440억원매각완료…재산분할금마련",
-    "SK증권,UNGC2027LEAD기업선정",
-    "최태원,SK주식팔아9,440억원확보…재산분할금마련",
-    "최태원,SK주식9440억원어치매각…지분율15.49%로",
     "LG엔솔,ESS중앙계약시장3차사업불참…\"저가경쟁안해\"",
     "최태원회장\"AI가韓운명좌우…2100조투자?'게임의룰'변해\"",
     "반도체美투자압박세지고메모리수요는지연되나...웃지못하는국...",
@@ -4378,10 +4386,14 @@
     "美'블루웨이브'충격에코스피장중5000선무너져",
     "SK케미칼,경주시에‘재활용현수막’공급",
     "30거래일만에멈춘CP91일물금리상승세,전망은",
-    "(NewsFocus)AIroutpromptsKOSPItotumblebelow5,000afterU.S.midt"
+    "(NewsFocus)AIroutpromptsKOSPItotumblebelow5,000afterU.S.midt",
+    "Koreanmarkethitby'BlackFriday'asKospiplungesbelow5,000afterU",
+    "골드만삭스,티맵모빌리티인수추진…KB국민은행지분6.39%향방은",
+    "한화비전,'200억관세환급'빼니수익성후퇴…1000억대영업익의착...",
+    "‘아트센터나비’노소영관장,한중일융합예술포럼서연설"
    ],
    "initialized": true,
-   "last_run": "2026-11-06T11:50:24.117857+09:00"
+   "last_run": "2026-11-06T11:55:20.502641+09:00"
   }
  },
  "press_names": {
