@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-06T13:20:22.296156+09:00",
-     "연계 817억3900만USDT SK하이닉스 OKX 상품 거래액 인기"
-    ],
-    [
-     "2026-11-06T13:20:22.296156+09:00",
-     "일요저널 한국전문신문협회 이정수 편집국장 사단법인 우수"
-    ],
-    [
-     "2026-11-06T13:20:22.296156+09:00",
-     "신약 하나로 매출 이끈 세노바메이트 성장"
-    ],
-    [
      "2026-11-06T13:25:18.664051+09:00",
      "흥행에도 오딘Q 하는 도깨비 안심 카카오게임즈 답은 이유"
     ],
@@ -1126,14 +1114,21 @@
     [
      "2026-11-06T19:15:25.819001+09:00",
      "효성 SK네트웍스 산업일반 소식"
+    ],
+    [
+     "2026-11-06T19:20:24.916652+09:00",
+     "터지는 거품이 오늘자 중인가 지금뉴 경제전문기자의 분석"
+    ],
+    [
+     "2026-11-06T19:20:24.916652+09:00",
+     "an Brokers Rout Deepening End Not Selling See Korean to Grow Pressure"
+    ],
+    [
+     "2026-11-06T19:20:24.916652+09:00",
+     "반도체에 울었다 천당과 지옥 코스피 웃고 오간"
     ]
    ],
    "seen_urls": [
-    "https://www.livebiz.today/news/articleView.html?idxno=206269",
-    "https://view.asiae.co.kr/article/2026110609265560941",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1730689",
-    "https://www.viva100.com/article/20261106500092",
-    "https://www.koreaherald.com/article/10927984",
     "https://www.munhwa.com/article/11629248",
     "https://www.etoday.co.kr/news/view/2644932",
     "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=917888",
@@ -2628,14 +2623,14 @@
     "http://www.yonhapnewstv.co.kr/news/MYH20261106191156iOu",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229497",
     "https://m.skyedaily.com/news_view.html?ID=314229",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=801319"
+    "http://www.weeklytoday.com/news/articleView.html?idxno=801319",
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229482",
+    "https://www.sedaily.com/article/20111360",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706181",
+    "http://www.kdfnews.com/news/articleView.html?idxno=190578",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261106191438gGj"
    ],
    "seen_titles": [
-    "[속보]‘블루쓰나미’에코스피5000선붕괴…개미들‘비명’",
-    "삼성전자(005930)·SK하이닉스(000660)장전10%넘게하락",
-    "[개장시황]코스피,8%대급락에5000선붕괴…서킷브레이커발동",
-    "미국發삭풍에코스피개장직후'서킷브레이커'...5천피붕괴",
-    "SK케미칼,폐현수막재활용해새현수막만든다",
     "SK바이오팜,AI신약개발모델구축완료…R&D전과정으로활용",
     "한국금융지주,3분기실적부진에도⋯증권가“저평가매력여전”",
     "Samsung,SKhynixslide10%asAIdatacenterfearsspread",
@@ -4130,10 +4125,15 @@
     "코스피'검은금요일'…블루웨이브쇼크에6%폭락",
     "미국발쇼크에개장3분만에5천무너져…정부긴급진화에5천은방어",
     "\"직원은점심거르는데경영진은수십억성과급\"…이재근KB금융회장...",
-    "[위클리오늘]산업일반소식_효성,SK네트웍스(11.6)"
+    "[위클리오늘]산업일반소식_효성,SK네트웍스(11.6)",
+    "[뉴스추적]세계증시뒤흔든'중간선거쇼크'언제까지",
+    "5000피깨졌는데여전히“코스피1만간다”…노무라가꼽은‘상승동...",
+    "“AI거품이터지는중인가?”…미경제전문기자의오늘자분석[지금뉴...",
+    "KoreanBrokersSeeSellingPressureDeepeningRout,NotanEndtoAIGro",
+    "'천당과지옥'오간코스피…AI반도체에웃고울었다"
    ],
    "initialized": true,
-   "last_run": "2026-11-06T19:15:25.819001+09:00"
+   "last_run": "2026-11-06T19:20:24.916652+09:00"
   }
  },
  "press_names": {
