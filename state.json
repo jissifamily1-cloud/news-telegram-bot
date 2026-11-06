@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-06T19:40:29.163224+09:00",
-     "Rout After KOSPI Holds Tech Barely"
-    ],
-    [
      "2026-11-06T19:45:25.523757+09:00",
      "위험할 막혔다 까지 100만닉스 20만전자 정도 박살 말문이"
     ],
@@ -218,10 +214,13 @@
     [
      "2026-11-07T01:25:20.198429+09:00",
      "비명 외인은 개미들 아파요 심장이 매도"
+    ],
+    [
+     "2026-11-07T01:45:25.465002+09:00",
+     "황기욱 충남아산FC 주역 준우승 해제 소집 복귀 박한근"
     ]
    ],
    "seen_urls": [
-    "https://www.nextdaily.co.kr/news/articleView.html?idxno=254625",
     "https://www.ajunews.com/view/20261106093137920",
     "https://www.cstimes.com/news/articleView.html?idxno=726928",
     "http://www.economytalk.kr/news/articleView.html?idxno=425126",
@@ -1720,10 +1719,10 @@
     "https://www.chosun.com/economy/stock-finance/2026/11/07/27CXDOBX5BDJPIXAPSTMSQTBNU/",
     "https://imnews.imbc.com/replay/2026/nw2500/article/6863841_36989.html",
     "https://imnews.imbc.com/replay/2026/nw2500/article/6863842_36989.html",
-    "https://www.newspim.com/news/view/20261107000004"
+    "https://www.newspim.com/news/view/20261107000004",
+    "https://www.goal.com/kr/뉴스/a/blt809c7fc26e4330a3"
    ],
    "seen_titles": [
-    "장동현SK부회장,SK에코플랜트대표이사직내려놔",
     "‘허훈이돌아왔다’WC아시아예선나설남자농구대표팀최종12인확...",
     "'5년연속꼴찌→KBL역대최단경기타이'…11경기만에10승,삼성의대...",
     "코스피장중'5000선'9개월만에붕괴…개장3분만에서킷브레이커",
@@ -3222,10 +3221,11 @@
     "코스피,AI쇼크…장중5000붕괴",
     "뉴욕발'AI규제'공포세계증시덮쳤다",
     "\"심장이아파요\"개미들비명‥외인은또매도",
-    "\"TSMC,엔비디아요청에첨단메모리진출검토\"…삼성·SK하이닉스경쟁..."
+    "\"TSMC,엔비디아요청에첨단메모리진출검토\"…삼성·SK하이닉스경쟁...",
+    "[오피셜]충남아산FC‘준우승주역’황기욱·박한근소집해제후복귀..."
    ],
    "initialized": true,
-   "last_run": "2026-11-07T01:40:25.204902+09:00"
+   "last_run": "2026-11-07T01:45:25.465002+09:00"
   }
  },
  "press_names": {
