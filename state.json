@@ -490,13 +490,25 @@
     [
      "2026-11-07T10:25:19.951892+09:00",
      "기초지자체 예고 세수 훈풍에 대박 반도체 단위"
+    ],
+    [
+     "2026-11-07T10:30:32.685421+09:00",
+     "국채금리 확산 재정위기 시위 거리 우려 급등 60만명 프랑스"
+    ],
+    [
+     "2026-11-07T10:30:32.685421+09:00",
+     "갈등에 공장 사실상 성과급 건설 노조와 마이크론 대만 중단 HBM"
+    ],
+    [
+     "2026-11-07T10:30:32.685421+09:00",
+     "1주차 급락 주가 SK하이닉스 마감 11월"
+    ],
+    [
+     "2026-11-07T10:30:32.685421+09:00",
+     "무너진 반대매매 코스피 억제 대선공약"
     ]
    ],
    "seen_urls": [
-    "https://kpenews.com/View.aspx?No=4300544",
-    "https://www.biotimes.co.kr/news/articleView.html?idxno=35960",
-    "https://www.ntoday.co.kr/news/articleView.html?idxno=130674",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4443446",
     "https://www.news1.kr/finance/general-stock/6345382",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601696",
     "https://www.mt.co.kr/tech/2026/11/06/2026110610133175810",
@@ -1992,13 +2004,13 @@
     "https://www.koreareport.co.kr/news/articleView.html?idxno=54431",
     "https://www.aitimes.com/news/articleView.html?idxno=217123",
     "https://www.thescoop.co.kr/news/articleView.html?idxno=312205",
-    "https://www.ikbc.co.kr/article/view/kbc202611070011"
+    "https://www.ikbc.co.kr/article/view/kbc202611070011",
+    "https://www.sedaily.com/article/20111420",
+    "https://www.sedaily.com/article/20111421",
+    "https://www.joongangenews.com/news/articleView.html?idxno=562026",
+    "https://www.pennmike.com/news/articleView.html?idxno=131213"
    ],
    "seen_titles": [
-    "[ET특징주]미국發반도체초대형삭풍…삼전·SK하닉주가도'출렁'",
-    "교보교육재단,'AI윤리ON캠프'진행...미래세대'판단의힘'성장도모",
-    "‘9000피’고점서삼성전자·SK하이닉스2261조원증발…코스피시총지...",
-    "美AI투자불안에코스피5000선붕괴..\"추가조정\"vs\"과도한우려\"",
     "루닛,300억파라미터의료AI'러닝유닛2.0'오픈소스공개",
     "반도체폭락하자'곱버스'날았다...인버스ETF두자릿수급등",
     "[증시바닥진단]KB證김동원\"5천피붕괴과민반응,추세조정아니다...",
@@ -3494,10 +3506,14 @@
     "뉴욕증시,반도체반등에나스닥1.1%상승",
     "TSMC,엔비디아요청에3DD램검토…삼성·SK하이닉스와경쟁하나",
     "외인순매도10조원의72%'삼전닉스'…국장흔든블루웨이브[주간증...",
-    "반도체훈풍에기초지자체'조단위'세수대박예고"
+    "반도체훈풍에기초지자체'조단위'세수대박예고",
+    "프랑스재정위기우려확산…국채금리급등60만명거리시위",
+    "마이크론,노조와성과급갈등에대만HBM공장건설사실상중단",
+    "11월1주차SK하이닉스주가급락장마감",
+    "[양준서의정조준]코스피5000무너진날,반대매매억제…'대선공약방..."
    ],
    "initialized": true,
-   "last_run": "2026-11-07T10:25:19.951892+09:00"
+   "last_run": "2026-11-07T10:30:32.685421+09:00"
   }
  },
  "press_names": {
