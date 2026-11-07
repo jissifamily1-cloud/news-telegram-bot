@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-07T12:35:19.490973+09:00",
-     "3분기 SK네트웍스 영업이익 속도 전사 201억원"
-    ],
-    [
-     "2026-11-07T12:35:19.490973+09:00",
-     "역량 윤리교육 주체적 운영 키운다 판단 교보교육재단 청소년"
-    ],
-    [
      "2026-11-07T12:40:25.207267+09:00",
      "투자 순매도 1위 축소 SK하이닉스 AI주 외국인 헤지펀드"
     ],
@@ -326,13 +318,21 @@
     [
      "2026-11-07T18:30:35.010895+09:00",
      "삼성 1승 한국시리즈 라이온즈 우승까지"
+    ],
+    [
+     "2026-11-07T18:35:21.882455+09:00",
+     "장중 코스피 당정 시장 5000선 안정 총력 붕괴 야당 손실 공세에 개미"
+    ],
+    [
+     "2026-11-07T18:35:21.882455+09:00",
+     "우르르 솟아날 배당 찾는 구멍 종목 노리자 개미들"
+    ],
+    [
+     "2026-11-07T18:35:21.882455+09:00",
+     "블루쇼크 삼전 하닉 지연시 공급 데이터센터 K반도체도 긴장"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2645048",
-    "https://en.yna.co.kr/view/AEN20261106004400320?input=2106m",
-    "https://www.koreajoongangdaily.com/business/korean-market-hit-by-black-friday-as-kospi-plunges-below-5000-after-us-midterms/12959264",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=285242",
     "https://www.upkoreanews.kr/news/articleView.html?idxno=101040",
     "https://www.munhwa.com/article/11629337",
     "https://www.mt.co.kr/stock/2026/11/06/2026110611554954557",
@@ -1828,13 +1828,13 @@
     "https://www.knnews.co.kr/news/articleView.php?idxno=1554559",
     "https://www.yna.co.kr/view/AKR20261107039951007?input=1195m",
     "https://www.ajunews.com/view/20261107181439972",
-    "https://www.newsis.com/view/NISX20261107_0003859007"
+    "https://www.newsis.com/view/NISX20261107_0003859007",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=285400",
+    "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524749",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611070038&t=NN",
+    "https://biz.newdaily.co.kr/site/data/html/2026/11/07/2026110700070.html"
    ],
    "seen_titles": [
-    "농구월드컵아시아예선,허훈→이정현명단발표…경기일정-현재순위...",
-    "美'블루웨이브'충격에코스피장중5000선무너져",
-    "SK케미칼,경주시에‘재활용현수막’공급",
-    "30거래일만에멈춘CP91일물금리상승세,전망은",
     "(NewsFocus)AIroutpromptsKOSPItotumblebelow5,000afterU.S.midt",
     "Koreanmarkethitby'BlackFriday'asKospiplungesbelow5,000afterU",
     "골드만삭스,티맵모빌리티인수추진…KB국민은행지분6.39%향방은",
@@ -3330,10 +3330,14 @@
     "경남FC유소년팀U18진주고,K리그주니어B조조기우승",
     "K리그1광주,제주와1-1무승부…일단미뤄진꼴찌확정(종합)",
     "\"HBM주문백지화?\"…'美민주당싹쓸이→삼성·SK진통'...실제영향은...",
-    "삼성라이온즈,한국시리즈우승까지'단1승'[뉴시스Pic]"
+    "삼성라이온즈,한국시리즈우승까지'단1승'[뉴시스Pic]",
+    "닛케이\"'블루웨이브'에세계시총하루만에4800조원증발\"",
+    "코스피장중5000선붕괴…개미손실·야당공세에당정\"시장안정총력...",
+    "'솟아날구멍'찾는개미들...\"배당노리자\"이종목'우르르'",
+    "美'블루쇼크'에K반도체도긴장…데이터센터지연시삼전·하닉공급..."
    ],
    "initialized": true,
-   "last_run": "2026-11-07T18:30:35.010895+09:00"
+   "last_run": "2026-11-07T18:35:21.882455+09:00"
   }
  },
  "press_names": {
