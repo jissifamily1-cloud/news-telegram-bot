@@ -430,10 +430,13 @@
     [
      "2026-11-07T09:25:19.558063+09:00",
      "수익성 개선될까 중앙계약시장 3차 LG엔솔 SK온 삼성SDI 포기 입찰"
+    ],
+    [
+     "2026-11-07T09:30:31.590572+09:00",
+     "담을 반도체 엔비디아에 필요 이유 집중하라는 없다 200개"
     ]
    ],
    "seen_urls": [
-    "https://www.cnbnews.com/news/articleView.html?idxno=1022641",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1730698",
     "https://www.startuptoday.co.kr/news/articleView.html?idxno=818316",
     "https://basketkorea.com/news/newsview.php?ncode=1065577256567471",
@@ -1932,10 +1935,10 @@
     "https://magazine.hankyung.com/business/article/202611072026b",
     "https://www.bigtanews.co.kr/article/view/big202611070004",
     "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100412",
-    "https://www.newspost.kr/news/articleView.html?idxno=227156"
+    "https://www.newspost.kr/news/articleView.html?idxno=227156",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=880800"
    ],
    "seen_titles": [
-    "SK바이오팜,신약개발특화AI모델개발…66개과제로성능검증",
     "‘블루쓰나미쇼크’…美증시급락에코스피5000붕괴",
     "美AI주투매에코스피'서킷브레이커'…5000선붕괴",
     "[포토뉴스]교보교육재단,'청소년AI윤리ON캠프'성료",
@@ -3434,10 +3437,11 @@
     "삼전닉스개미들'환호'...'챗GPT',투자브레이크없다",
     "미래에셋증권,11월첫째주팬오션등34종목매수추천",
     "가시와전아쉬움잊고앞만본다!3위대전,인천과홈경기서승리노...",
-    "LG엔솔3차중앙계약시장입찰포기…삼성SDI·SK온수익성개선될까"
+    "LG엔솔3차중앙계약시장입찰포기…삼성SDI·SK온수익성개선될까",
+    "[피플H]\"반도체200개담을필요없다\"…엔비디아에집중하라는이유"
    ],
    "initialized": true,
-   "last_run": "2026-11-07T09:25:19.558063+09:00"
+   "last_run": "2026-11-07T09:30:31.590572+09:00"
   }
  },
  "press_names": {
