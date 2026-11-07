@@ -482,13 +482,17 @@
     [
      "2026-11-07T10:20:26.995258+09:00",
      "9일부터 완화 정부는 반대매매 10일부터 엇박자 NH투자증권은"
+    ],
+    [
+     "2026-11-07T10:25:19.951892+09:00",
+     "외인 웨이브 10조원의 삼전닉스 흔든 블루 주간 국장 순매도"
+    ],
+    [
+     "2026-11-07T10:25:19.951892+09:00",
+     "기초지자체 예고 세수 훈풍에 대박 반도체 단위"
     ]
    ],
    "seen_urls": [
-    "https://www.gokorea.kr/news/articleView.html?idxno=884416",
-    "https://www.etnews.com/20261106000136",
-    "http://www.newslock.co.kr/news/articleView.html?idxno=139474",
-    "https://www.etoday.co.kr/news/view/2645006",
     "https://kpenews.com/View.aspx?No=4300544",
     "https://www.biotimes.co.kr/news/articleView.html?idxno=35960",
     "https://www.ntoday.co.kr/news/articleView.html?idxno=130674",
@@ -1984,13 +1988,13 @@
     "https://www.newspim.com/news/view/20261107000029",
     "https://www.nocutnews.co.kr/news/6603546",
     "https://www.tokenpost.kr/news/market/434354",
-    "https://view.asiae.co.kr/article/2026110710061020851"
+    "https://view.asiae.co.kr/article/2026110710061020851",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=54431",
+    "https://www.aitimes.com/news/articleView.html?idxno=217123",
+    "https://www.thescoop.co.kr/news/articleView.html?idxno=312205",
+    "https://www.ikbc.co.kr/article/view/kbc202611070011"
    ],
    "seen_titles": [
-    "마이크론대만신공장건설중단,노사갈등왜",
-    "SK바이오팜,신약개발'AI특화파운데이션모델프로젝트'성과공개",
-    "코스피폭락에개미패닉…삼성전자8%급락",
-    "SK하이닉스,산업보건선진화10년성과공개",
     "[ET특징주]미국發반도체초대형삭풍…삼전·SK하닉주가도'출렁'",
     "교보교육재단,'AI윤리ON캠프'진행...미래세대'판단의힘'성장도모",
     "‘9000피’고점서삼성전자·SK하이닉스2261조원증발…코스피시총지...",
@@ -3486,10 +3490,14 @@
     "[헐크의일기]2026년한국시리즈를바라보며",
     "삼성제국의흥망성쇠와이승엽의시구,역사적인물3명이모인아이러...",
     "6일AMD($AMD)11.04%상승,다우0.46%하락",
-    "[단독]정부는9일부터반대매매완화…NH투자증권은10일부터'엇박자'"
+    "[단독]정부는9일부터반대매매완화…NH투자증권은10일부터'엇박자'",
+    "뉴욕증시,반도체반등에나스닥1.1%상승",
+    "TSMC,엔비디아요청에3DD램검토…삼성·SK하이닉스와경쟁하나",
+    "외인순매도10조원의72%'삼전닉스'…국장흔든블루웨이브[주간증...",
+    "반도체훈풍에기초지자체'조단위'세수대박예고"
    ],
    "initialized": true,
-   "last_run": "2026-11-07T10:20:26.995258+09:00"
+   "last_run": "2026-11-07T10:25:19.951892+09:00"
   }
  },
  "press_names": {
