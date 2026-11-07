@@ -442,10 +442,13 @@
     [
      "2026-11-07T12:50:26.288059+09:00",
      "연속골 선발 도전 제주SK 라인업 광주전 발표 4경기 네게바"
+    ],
+    [
+     "2026-11-07T13:00:38.313485+09:00",
+     "코스피200 KODEX 활발 13조원 거래 육박 거래대금 인버스"
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/future/2026/11/06/2026102613132719514",
     "https://www.yna.co.kr/view/AKR20261106033800003?input=1195m",
     "https://view.asiae.co.kr/article/2026110610114744076",
     "https://view.asiae.co.kr/article/2026110609062039905",
@@ -1944,10 +1947,10 @@
     "https://www.newsis.com/view/NISX20261107_0003858823",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601751",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1730806",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309331"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309331",
+    "http://www.kjdaily.com/article.php?aid=1794023582691491276"
    ],
    "seen_titles": [
-    "[김광웅의이혼이야기]상간소송에서상간자가알뜰폰을쓴다면,어느...",
     "여성공학인경력단절막는다…정부,내년첫실태조사'시동’",
     "통신사,부산불꽃축제120만인파대비…통신망점검",
     "\"인간처럼일하려면로봇도다섯손가락필요…현장맞춤피지컬AI도전...",
@@ -3446,10 +3449,11 @@
     "반도체폭락에도끝난건아니다…다음주반등가를핵심변수는",
     "'네게바4경기연속골도전'제주SK,광주전선발라인업발표",
     "민주당압승에AI규제공포…나스닥시총하루2.5조달러증발",
-    "'블루웨이브'에AI주급락…세계시총하루4천773조원증발"
+    "'블루웨이브'에AI주급락…세계시총하루4천773조원증발",
+    "KODEX200거래대금13조원육박…코스피200인버스거래활발"
    ],
    "initialized": true,
-   "last_run": "2026-11-07T12:55:20.395601+09:00"
+   "last_run": "2026-11-07T13:00:38.313485+09:00"
   }
  },
  "press_names": {
