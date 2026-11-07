@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-07T08:00:39.540340+09:00",
-     "확보 서버용 폐플라스틱 탄화수 10월 특허 액침냉각 150건"
-    ],
-    [
      "2026-11-07T08:05:20.097375+09:00",
      "나와요 일본 드래프트에 선수들이"
     ],
@@ -346,11 +342,13 @@
     [
      "2026-11-07T13:45:23.998413+09:00",
      "없는 이어갈까 금빛 이현중 농구월드컵 마줄스호 기운 예선에서"
+    ],
+    [
+     "2026-11-07T14:00:40.299237+09:00",
+     "대규모 전남광주 투자 광주에 제조거점 미래모빌리티 기아 3조원"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10928330",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=172969",
     "http://www.yonhapnewstv.co.kr/news/AKR20261106110604jFH",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4443451",
     "https://view.asiae.co.kr/article/2026110518002477207",
@@ -1848,11 +1846,11 @@
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601755",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282688&CMPT_CD=P0010",
     "https://m.sports.naver.com/basketball/article/065/0000304203",
-    "https://www.etoday.co.kr/news/view/2645302"
+    "https://www.etoday.co.kr/news/view/2645302",
+    "http://www.breaknews.com/1249125",
+    "http://www.breaknews.com/1249136"
    ],
    "seen_titles": [
-    "코스피시총고점대비'40%·3천조이상'증발…숫자로본증시급락",
-    "국민의힘,코스피5000선붕괴에\"이재명이말한자산시장정상화가이...",
     "아시아덮친'블루쓰나미쇼크'…코스피7%·닛케이6%대폭락",
     "[사설]美블루쓰나미에AI·반도체쇼크…한국엔위기이자기회",
     "KB국민카드,'KBNEEDOil카드'출시...주유고객에특화",
@@ -3350,10 +3348,12 @@
     "세르지우제주SK감독\"전국체전이후좋지않은잔디,양팀모두에게...",
     "이현중없는마줄스호,농구월드컵예선에서'금빛기운'이어갈까",
     "[웜업터뷰]“리바운드와수비에힘써주길”윌리엄스향한이규섭감독...",
-    "“민주당중간선거압승에세계증시시총하루4773조원증발”"
+    "“민주당중간선거압승에세계증시시총하루4773조원증발”",
+    "대전하나시티즌,가시와전패배딛고인천전승리정조준",
+    "기아,광주에3조원대규모투자…전남광주,‘미래모빌리티제조거점’..."
    ],
    "initialized": true,
-   "last_run": "2026-11-07T13:55:20.422104+09:00"
+   "last_run": "2026-11-07T14:00:40.299237+09:00"
   }
  },
  "press_names": {
