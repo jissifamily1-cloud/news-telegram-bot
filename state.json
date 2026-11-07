@@ -310,10 +310,13 @@
     [
      "2026-11-07T14:40:28.302081+09:00",
      "오를 증시 맞은 직격탄 블루웨이브 내릴 반도체 때도"
+    ],
+    [
+     "2026-11-07T14:55:21.112072+09:00",
+     "감소 삼성전자우 시가총액 하락 19조원 주간"
     ]
    ],
    "seen_urls": [
-    "https://www.pointe.co.kr/news/articleView.html?idxno=87277",
     "https://www.dailian.co.kr/news/view/1711725/?sc=Naver",
     "https://www.etnews.com/20261106000160",
     "https://news.tvchosun.com/site/data/html_dir/2026/11/06/2026110690125.html",
@@ -1812,10 +1815,10 @@
     "https://www.ikbc.co.kr/article/view/kbc202611070027",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=880884",
     "https://www.ytn.co.kr/_ln/0102_202611071433539327",
-    "https://www.segye.com/newsView/20261107504930?OutUrl=naver"
+    "https://www.segye.com/newsView/20261107504930?OutUrl=naver",
+    "http://www.kjdaily.com/article.php?aid=1794028939691498276"
    ],
    "seen_titles": [
-    "아시안게임금메달이정현등농구월드컵아시아예선출전",
     "코스피5,000선사이에두고등락…낙폭은8%대에서다소축소",
     "120만몰리는부산불꽃축제…통신3사'트래픽폭증'대비",
     "[스톡포인트]'블루쓰나미'덮친반도체株…\"AI투자중단보단속도조...",
@@ -3314,10 +3317,11 @@
     "'블루웨이브쇼크'에세계시총4,800조원증발...삼전닉스도3,000조원...",
     "세계증시덮친'블루웨이브쇼크'…하루새시총4773조원증발",
     "'블루쓰나미'에퍼렇게질린증시...짓눌린자산시장향방은?",
-    "오를때도내릴때도AI…‘블루웨이브’직격탄맞은반도체증시"
+    "오를때도내릴때도AI…‘블루웨이브’직격탄맞은반도체증시",
+    "삼성전자우한주간13.67%하락…시가총액19조원감소"
    ],
    "initialized": true,
-   "last_run": "2026-11-07T14:50:28.363192+09:00"
+   "last_run": "2026-11-07T14:55:21.112072+09:00"
   }
  },
  "press_names": {
