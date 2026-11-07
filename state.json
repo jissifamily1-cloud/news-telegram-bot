@@ -506,11 +506,13 @@
     [
      "2026-11-07T11:05:21.892037+09:00",
      "SK인텔릭스"
+    ],
+    [
+     "2026-11-07T11:10:26.555527+09:00",
+     "공포 사라 는데 넘쳐날 반도체주 사도 급락한 시장에"
     ]
    ],
    "seen_urls": [
-    "http://www.newscape.co.kr/news/articleView.html?idxno=125633",
-    "https://www.dt.co.kr/article/12093561",
     "https://www.news1.kr/local/gwangju-jeonnam/6345370",
     "https://www.slist.kr/news/articleView.html?idxno=779564",
     "https://www.stardailynews.co.kr/news/articleView.html?idxno=601576",
@@ -2008,11 +2010,11 @@
     "https://www.imaeil.com/page/view/2026110710540895159",
     "http://www.stoo.com/article.php?aid=109777420586",
     "https://news.mtn.co.kr/article/2026110709474749771",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611071047434860048"
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611071047434860048",
+    "https://www.munhwa.com/article/11629513",
+    "https://www.insight.co.kr/news/581038"
    ],
    "seen_titles": [
-    "아시아증시‘검은금요일’⋯한ㆍ일ㆍ대만대표반도체주10%↓",
-    "“더버티다연봉날릴판”⋯삼전닉스폭락에개미들‘패닉’[美선...",
     "“삼전닉스저평가안통한다”..5000피마저무너뜨린‘블루쓰나미’...",
     "교보교육재단,청소년위한'AI윤리ON캠프'운영",
     "정부청사서삼성전기까지…세종‘두일자리축’잇는새주거지뜬다",
@@ -3510,10 +3512,12 @@
     "\"월드컵해엔S가우승한다\"…삼성·SK·SSG24년징크스,KT돌풍에도이...",
     "삼성장찬희,19년만에고졸신인KS선발등판…KT는로건으로맞불",
     "[판으로읽는경제]美'블루쓰나미'에코스피붕괴…왜한국이더아팠...",
-    "[WellnessAppliances]SK인텔릭스"
+    "[WellnessAppliances]SK인텔릭스",
+    "삼성·SK‘반도체잭팟’…경기지자체세수최대12배폭증",
+    "\"시장에공포·피넘쳐날때사라\"는데...급락한AI·반도체주,사도될..."
    ],
    "initialized": true,
-   "last_run": "2026-11-07T11:05:21.892037+09:00"
+   "last_run": "2026-11-07T11:10:26.555527+09:00"
   }
  },
  "press_names": {
