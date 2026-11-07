@@ -322,11 +322,17 @@
     [
      "2026-11-07T14:10:26.809391+09:00",
      "중국의 미국의 인간 기술 노광장비에서 자연 문화 5대 규제까지"
+    ],
+    [
+     "2026-11-07T14:15:24.607491+09:00",
+     "000선 위협받은 국내 급락 코스피 증시 주간"
+    ],
+    [
+     "2026-11-07T14:15:24.607491+09:00",
+     "경남FC 주니어 리그 우승 진주고 조기 K리그 U18"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1730720",
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=623468",
     "https://www.segye.com/newsView/20261106506401?OutUrl=naver",
     "https://www.newspost.kr/news/articleView.html?idxno=227124",
     "https://www.fetv.co.kr/news/articleView.html?idxno=313219",
@@ -1824,11 +1830,11 @@
     "https://econotimes.com/AI-Linked-Shares-Fall-as-Applied-Optoelectronics-Drops-13-7-in-Early-Trading-1772472",
     "https://news.jtbc.co.kr/article/NB12326964?influxDiv=NAVER",
     "https://www.segye.com/newsView/20261107504844?OutUrl=naver",
-    "https://www.ajunews.com/view/20261107135908884"
+    "https://www.ajunews.com/view/20261107135908884",
+    "https://www.upkoreanews.kr/news/articleView.html?idxno=101058",
+    "https://www.idomin.com/news/articleView.html?idxno=2018929"
    ],
    "seen_titles": [
-    "SK바이오팜,신약개발특화AI파운데이션모델프로젝트성료…'TR-AX'본...",
-    "[특징주]한국금융지주,실적부진·목표가줄하향에'급락'",
     "한동훈\"李국정과제코스피5000붕괴\"",
     "[투매의날]'블루웨이브'에꺾인AI호황…민주당공약뜯어보니'공포...",
     "최태원,재산분할금9440억마련…SK지분23.2%로축소",
@@ -3326,10 +3332,12 @@
     "AI-LinkedSharesFallasAppliedOptoelectronicsDrops13.7%inEarly",
     "\"'블루웨이브쇼크'에세계증시시총하루만에4800조원증발\"",
     "美AI규제공포에코스피이틀새11%급락…외국인6조원팔았다",
-    "인간·문화·자연|중국의5대노광장비에서미국의AI규제까지,기술..."
+    "인간·문화·자연|중국의5대노광장비에서미국의AI규제까지,기술...",
+    "[오늘증시전망]코스피주간11.7%급락…5,000선위협받은국내증시...",
+    "경남FCU18진주고'K리그주니어리그'조기우승"
    ],
    "initialized": true,
-   "last_run": "2026-11-07T14:10:26.809391+09:00"
+   "last_run": "2026-11-07T14:15:24.607491+09:00"
   }
  },
  "press_names": {
