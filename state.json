@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-07T09:25:19.558063+09:00",
-     "인천과 대전 경기서 가시와전 앞만 3위 아쉬움 잊고 본다 승리"
-    ],
-    [
-     "2026-11-07T09:25:19.558063+09:00",
-     "수익성 개선될까 중앙계약시장 3차 LG엔솔 SK온 삼성SDI 포기 입찰"
-    ],
-    [
      "2026-11-07T09:30:31.590572+09:00",
      "담을 반도체 엔비디아에 필요 이유 집중하라는 없다 200개"
     ],
@@ -270,12 +262,17 @@
     [
      "2026-11-07T15:20:26.256001+09:00",
      "코스피 급락에 이재명 정부 언론사들 책임론 제기한"
+    ],
+    [
+     "2026-11-07T15:25:20.748911+09:00",
+     "정명근의 손잡았다 AMAT도 투자상담 수도 사흘간 화성 1조1228억"
+    ],
+    [
+     "2026-11-07T15:25:20.748911+09:00",
+     "사범교육에서 지역 의학으로 바이오 고등교육의 국립경국대"
     ]
    ],
    "seen_urls": [
-    "https://www.biospectator.com/view/news_view.php?varAtcId=30329",
-    "https://biz.heraldcorp.com/article/10928373",
-    "https://www.ytn.co.kr/_ln/0134_202611061110552988",
     "http://www.osen.co.kr/article/G1112905149",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=247262",
     "http://www.yonhapnewstv.co.kr/news/AKR20261106112033BSv",
@@ -1772,12 +1769,12 @@
     "http://www.kjdaily.com/article.php?aid=1794031496691503276",
     "https://www.hani.co.kr/arti/economy/finance/1286230.html",
     "https://www.aitimes.com/news/articleView.html?idxno=217129",
-    "https://www.mediatoday.co.kr/news/articleView.html?idxno=338272"
+    "https://www.mediatoday.co.kr/news/articleView.html?idxno=338272",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2364178",
+    "https://www.etoday.co.kr/news/view/2645308",
+    "https://www.newspim.com/news/view/20261107000076"
    ],
    "seen_titles": [
-    "상금에입사까지…새인재등용문된‘AI해커톤’",
-    "시니어케어시장새비즈니스기회찾는대상웰라이프",
-    "SKT·LGU+,영업익나란히'껑충'…AI로실적상승세굳힌다",
     "SK바이오사이언스,3Q매출1824억\"전년比21%↑\"",
     "KS3차전승리팀우승88.9%…역전열쇠는마운드에",
     "'여소야대'로2년남은트럼프,한국전쟁종결로노벨상노린다?[이슈톺...",
@@ -3274,10 +3271,13 @@
     "SK스퀘어한주간19.29%하락…시가총액22조8천억원감소",
     "블루웨이브쇼크에세계증시하루만에4773조원증발",
     "[AI이슈트렌드]강호동구속영장1위…미중간선거·바이낸스해킹뒤...",
-    "코스피급락에이재명정부책임론제기한언론사들"
+    "코스피급락에이재명정부책임론제기한언론사들",
+    "교보생명,금융소비자보호강화…교육대상시상·청소년AI윤리교육추...",
+    "AMAT도손잡았다…정명근의‘AI수도화성',사흘간투자상담1조1228억",
+    "사범교육에서바이오·의학으로…국립경국대,지역고등교육의새전환..."
    ],
    "initialized": true,
-   "last_run": "2026-11-07T15:20:26.256001+09:00"
+   "last_run": "2026-11-07T15:25:20.748911+09:00"
   }
  },
  "press_names": {
