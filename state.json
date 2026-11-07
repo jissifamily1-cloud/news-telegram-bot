@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-07T06:15:26.005633+09:00",
-     "기술이전 5사 K바이오 성적표 판매 3Q 성장 생산 3색"
-    ],
-    [
-     "2026-11-07T06:15:26.005633+09:00",
-     "데이터센터 잡을까 기회 멈춰"
-    ],
-    [
-     "2026-11-07T06:20:24.807785+09:00",
-     "정관장 종횡무진 SK에 점프 2위 아반도 활약 승리"
-    ],
-    [
      "2026-11-07T06:25:19.728443+09:00",
      "시점 가동 기회일까 미국 전력 규제 데이터센터 관건은 강화 한국엔"
     ],
@@ -453,8 +441,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sentv.co.kr/article/view/sentv202611060064",
-    "https://biz.heraldcorp.com/article/10928311",
     "http://www.breaknews.com/1248898",
     "https://www.newscj.com/news/articleView.html?idxno=3446478",
     "https://www.tokenpost.kr/news/breaking/433799",
@@ -1952,11 +1938,11 @@
     "https://www.radiokorea.com/news/article.php?uid=509041",
     "https://www.sisajournal.com/news/articleView.html?idxno=392747",
     "https://www.pennmike.com/news/articleView.html?idxno=131227",
-    "https://www.epnc.co.kr/news/articleView.html?idxno=409414"
+    "https://www.epnc.co.kr/news/articleView.html?idxno=409414",
+    "https://view.asiae.co.kr/article/2026110712184646990",
+    "https://economist.co.kr/article/view/ecn202611070005"
    ],
    "seen_titles": [
-    "KB국민카드,주유최대17%할인'KBNEEDOil카드'출시",
-    "[헤럴드pic]흔들리는국내증시",
     "'이게라리가야K리그야'K리그1중계,파이널라운드부터'증강현실데이...",
     "한울앤제주,‘로컬창업페스타in제주’서제주맥주선보여",
     "[헤럴드pic]코스피,5000선무너졌다",
@@ -3454,10 +3440,12 @@
     "'블루웨이브쇼크'받은전세계...하루만에3조5천억달러증발",
     "덩치만커진중국증시…주가는왜제자리인가[김학균의시장읽기]",
     "[나는농구선수다]SK나이츠차민유\"이길거라는확신,언제나자신있...",
-    "SK네트웍스,사업실적개선에도3분기매출감소…AI전환속도본격화"
+    "SK네트웍스,사업실적개선에도3분기매출감소…AI전환속도본격화",
+    "블루웨이브쇼크…닛케이\"세계증시하루만에4800조증발\"",
+    "'2250조증발'삼전닉스,급락장에7개월만시총2000조도깨졌다"
    ],
    "initialized": true,
-   "last_run": "2026-11-07T12:15:24.270479+09:00"
+   "last_run": "2026-11-07T12:20:26.656798+09:00"
   }
  },
  "press_names": {
