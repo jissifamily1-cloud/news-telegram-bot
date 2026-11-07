@@ -77,8 +77,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.medipana.com/news/articleView.html?idxno=421163",
-    "https://www.mt.co.kr/tech/2026/11/06/2026110611581760724",
     "https://www.startuptoday.co.kr/news/articleView.html?idxno=818331",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=880625",
     "https://www.sedaily.com/article/20111129",
@@ -1576,11 +1574,11 @@
     "https://www.pennmike.com/news/articleView.html?idxno=131264",
     "https://www.pennmike.com/news/articleView.html?idxno=131263",
     "https://www.pennmike.com/news/articleView.html?idxno=131262",
-    "https://www.pennmike.com/news/articleView.html?idxno=131251"
+    "https://www.pennmike.com/news/articleView.html?idxno=131251",
+    "https://www.pennmike.com/news/articleView.html?idxno=131236",
+    "https://www.pennmike.com/news/articleView.html?idxno=131235"
    ],
    "seen_titles": [
-    "美텍사스주지사당선인\"데이터센터건립전면중단\"···'파장'",
-    "이정현,이승현등AG금주역들이번엔농구월드컵출전",
     "코스피장중폭락에도10종목20%이상상승…덕성·한진칼우강세",
     "눈에띠는실적올리고있는제약바이오,SK바이오팜·파마리서치",
     "500만원'RTX스파크'노트북본전뽑으려면?…엔비디아의답변",
@@ -3078,10 +3076,12 @@
     "[나는농구선수다]부산KCC박서준\"너무기뻐서비교할게없어요\"…박...",
     "[펜앤포토]U125경기,안방KCC...첫날4전전승마침표",
     "[펜앤포토]U125경기부산KCC이지스VS서울SK나이츠진정한강자는...",
-    "[펜앤포토]U122경기안방KCC,U12도거침없다…첫승신고"
+    "[펜앤포토]U122경기안방KCC,U12도거침없다…첫승신고",
+    "[나는농구선수다]부산KCC임현윤\"동료패스덕에쉽게넣었다\"…늦깎...",
+    "[펜앤포토]U115경기,2연승이어간부산KCC이지스"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T04:30:33.106351+09:00"
+   "last_run": "2026-11-08T04:35:22.374146+09:00"
   }
  },
  "press_names": {
