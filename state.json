@@ -222,11 +222,17 @@
     [
      "2026-11-08T07:05:21.190443+09:00",
      "10월 로드 관건 소비자물가 앤트로픽 상승률 IPO"
+    ],
+    [
+     "2026-11-08T07:09:49.882691+09:00",
+     "해외자본 유치 IB 역량 선박투자로"
+    ],
+    [
+     "2026-11-08T07:09:49.882691+09:00",
+     "뒤집은 확률 눈앞 삼성 우승 한국시리즈"
     ]
    ],
    "seen_urls": [
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611061328230940980",
-    "https://news.mtn.co.kr/article/2026110613382793798",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=285266",
     "https://hbnpress.com/news/view/1065588246762248",
     "https://www.ddaily.co.kr/page/view/2026110613330504532",
@@ -1724,11 +1730,11 @@
     "http://www.the-biz.co.kr/news/articleView.html?idxno=730819",
     "https://www.fetv.co.kr/news/articleView.html?idxno=313273",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080538",
-    "https://biz.sbs.co.kr/article_hub/20000344679?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000344679?division=NAVER",
+    "https://news.dealsitetv.com/articles/178166",
+    "https://www.yna.co.kr/view/AKR20261107053800007?input=1195m"
    ],
    "seen_titles": [
-    "반도체·AI인재120명해외실무교육…미국·캐나다대학서첨단기술익...",
-    "군적금여행도결혼도…급락장에흔들린2030인생계획",
     "韓国株急落で個人投資家パニックネット上には嘆きの声「泣きたい」",
     "[AI딥다이브]SK텔레콤,‘에이닷’추천가을명소에T멤버십혜택더...",
     "‘중동사태’에“韓제품사자”윤활기유8조수출‘대박’[여의도P...",
@@ -3226,10 +3232,12 @@
     "[중국메모리추격③]물량맞서완급조절…韓증설경쟁대신'원가전...",
     "KB국민카드,4대정유사10%기본할인'KBNEEDOil카드'출시",
     "[와이파이]11월2주,AI로스팸·보이스피싱예방…KT외2가지통신혜...",
-    "[글로벌경제지표]美10월소비자물가상승률관건…앤트로픽IPO로드..."
+    "[글로벌경제지표]美10월소비자물가상승률관건…앤트로픽IPO로드...",
+    "[토큰증권지형도][메리츠증권]선박투자로해외자본유치…IB역량접...",
+    "'26.2%→88.9%→100%'…확률뒤집은삼성,한국시리즈우승눈앞"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T07:05:21.190443+09:00"
+   "last_run": "2026-11-08T07:09:49.882691+09:00"
   }
  },
  "press_names": {
