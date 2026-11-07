@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-07T11:20:26.726487+09:00",
-     "U11 3경기 세이커스 승자는 LG 과연 VS 창원 나이츠 서울"
-    ],
-    [
-     "2026-11-07T11:25:20.864330+09:00",
-     "용인 플랫폼시티 1호 구성 중앙하이츠 가로주택정비사업 물꼬"
-    ],
-    [
      "2026-11-07T11:35:22.415352+09:00",
      "4천800조원 블루웨이브 하루만에 세계증시 증발 쇼크 시총"
     ],
@@ -238,15 +230,17 @@
     [
      "2026-11-07T17:15:24.756410+09:00",
      "업체들 주가 승리하자 강화 민주당 폭락 규제 미국 데이터센터"
+    ],
+    [
+     "2026-11-07T17:25:22.244419+09:00",
+     "주가 계좌 났다 개미들 폭락에 몰려든 박살 현타 곳이"
+    ],
+    [
+     "2026-11-07T17:25:22.244419+09:00",
+     "데일리 12년 3연승 완벽투 우승 눈앞 이재희 삼성 만에 1패"
     ]
    ],
    "seen_urls": [
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000080230",
-    "https://www.maniareport.com/view.php?ud=20261106113433633dad9f33a29_19",
-    "https://biz.sbs.co.kr/article_hub/20000344722?division=NAVER",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000080248",
-    "https://www.newsmap.co.kr/news/articleView.html?idxno=4904",
-    "https://www.news1.kr/finance/market-exr/6345491",
     "https://biz.heraldcorp.com/article/10928448",
     "https://www.kmib.co.kr/article/20261106500128",
     "http://www.yonhapnewstv.co.kr/news/MYH20261106113547tPB",
@@ -1740,15 +1734,15 @@
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553681756",
     "https://www.insight.co.kr/news/581048",
     "http://www.segyebiz.com/newsView/20261107505882?OutUrl=naver",
-    "https://www.betanews.net/article/view/beta202611070008"
+    "https://www.betanews.net/article/view/beta202611070008",
+    "http://www.stoo.com/article.php?aid=109779313910",
+    "https://www.segye.com/newsView/20261107505925?OutUrl=naver",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=8189",
+    "https://www.newsis.com/view/NISX20261107_0003858976",
+    "https://www.hankyung.com/article/2026110609146",
+    "https://www.newsis.com/view/NISX20261107_0003858977"
    ],
    "seen_titles": [
-    "Neonmemes:AIparodiesofA2OLite'shitgoesviralastechopensdoort.",
-    "코스피5000마저무너졌다",
-    "\"AI로봇에영양·ERP접목\"...SK인텔릭스·대상웰라이프등4개사,요양...",
-    "기아,전남광주에3조원투자…미래차생산기지키운다",
-    "‘11경기만에10승'삼성,KBL최단경기타이기록",
-    "국내증시직격탄…9개월만에5천피도깨졌다",
     "아시안게임금메달주역들,농구월드컵아시아예선출격",
     "KB국민카드,유가오르면더깎아주는'KBNEEDOil카드'출시",
     "외인1조순매도에도기관5600억'사자'…코스피5100선회복[장중시황...",
@@ -3242,10 +3236,16 @@
     "[현장목소리]이정규감독\"어려운상황이지만희망의불씨계속살리고...",
     "\"주식환불해주세요\"...9000피환호뒤,결혼자금까지흔들린사람들",
     "세계증시덮친블루웨이브…하루만에시총4800조원증발",
-    "미국민주당승리하자AI업체들주가폭락...데이터센터규제강화공..."
+    "미국민주당승리하자AI업체들주가폭락...데이터센터규제강화공...",
+    "'1회6득점'삼성,KT10-5격파…업셋우승까지단1승",
+    "“12년만의KS우승,딱1승남았다”...삼성,신인장찬희‘깜짝호투...",
+    "[글로벌마켓뷰]하루새4천800조원증발…美민주당,'블루웨이브쇼...",
+    "'박승규3안타3타점'삼성,1패뒤3연승…12년만에우승'1승남았다'...",
+    "'계좌박살났다'현타온개미들…주가폭락에몰려든곳이[투자톡]",
+    "'1패뒤3연승'삼성,12년만에우승'눈앞'…'완벽투'이재희,데일리..."
    ],
    "initialized": true,
-   "last_run": "2026-11-07T17:20:25.951589+09:00"
+   "last_run": "2026-11-07T17:25:22.244419+09:00"
   }
  },
  "press_names": {
