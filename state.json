@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-07T10:05:20.891834+09:00",
-     "희망 그루터기에서 맹아 갱신 돋아나는"
-    ],
-    [
-     "2026-11-07T10:05:20.891834+09:00",
-     "한국시리즈를 바라보며 2026년"
-    ],
-    [
      "2026-11-07T10:10:26.387035+09:00",
      "인물 아이러 삼성 이승엽의 흥망성쇠와 모인 제국의 역사적 3명이 시구"
     ],
@@ -254,14 +246,21 @@
     [
      "2026-11-07T15:55:20.598744+09:00",
      "제주 광주"
+    ],
+    [
+     "2026-11-07T16:05:20.913518+09:00",
+     "광주FC 제주와 무승부 풍전등화 위기 최하위"
+    ],
+    [
+     "2026-11-07T16:05:20.913518+09:00",
+     "던진 4이닝 배짱투 삼성 박진만 감독 씩씩하게 장찬희 1실점"
+    ],
+    [
+     "2026-11-07T16:05:20.913518+09:00",
+     "돈이 DC 타협하면 뭐하나 없는데 규제"
     ]
    ],
    "seen_urls": [
-    "http://www.thevaluenews.co.kr/news/view.php?idx=203039",
-    "https://biz.sbs.co.kr/article_hub/20000344721?division=NAVER",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16269801",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16269802",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=362034",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=362035",
     "https://biz.newdaily.co.kr/site/data/html/2026/11/06/2026110600120.html",
     "https://www.donga.com/news/Economy/article/all/20261106/134977292/1",
@@ -1756,14 +1755,14 @@
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553681684",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081818",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601759",
-    "https://www.yna.co.kr/view/AKR20261107039300007?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261107039300007?input=1195m",
+    "https://www.sportschosun.com/football/2026-11-07/202611070100050190005047",
+    "https://www.mydaily.co.kr/page/view/2026110715472711292",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000080465",
+    "https://www.newspim.com/news/view/20261107000082",
+    "https://www.sedaily.com/article/20111455"
    ],
    "seen_titles": [
-    "[증시바닥진단]오천피붕괴…증권가\"최악선반영…기회찾을때\"(종합...",
-    "MicronHaltsTaiwanFabConstruction,FacingUnionDemandfor15%Prof",
-    "[분석]우리금융,주주환원50%눈앞…관건은'수익성회복'",
-    "[더밸류브리핑]오늘의금융계소식…KB국민카드·네이버페이·신용보...",
-    "'삼전닉스'시총2000조붕괴…역대가장빠른서킷브레이커",
     "미국중간선거가AI투자지형흔드나…삼성전자·SK하이닉스폭락,데이...",
     "아시안게임금메달리스트이정현,농구월드컵아시아예선2라운드원...",
     "한국금융지주,실적눈높이낮아졌다…목표가줄하향",
@@ -3258,10 +3257,15 @@
     "[K리그135R]'박창준동점골'제주SK,최하위탈출위해갈길바쁜광주...",
     "진주고축구부K리그주니어10연승…후반기B조조기우승",
     "'63일만안방복귀전'제주SK,광주와1-1무승부...5G무승",
-    "[프로축구서귀포전적]제주1-1광주"
+    "[프로축구서귀포전적]제주1-1광주",
+    "'하스왕도전'제주,5경기연속승리놓쳤다...'꼴찌탈출희망벼랑끝...",
+    "'6실점망신살'1위팀외인보다낫다!삼성19살루키의대반란,1위팀...",
+    "광주FC,제주와1-1무승부…최하위위기'풍전등화'",
+    "[KS4]씩씩하게던진삼성장찬희,4이닝1실점배짱투…박진만감독믿...",
+    "‘DC규제’타협하면뭐하나,더쓸돈이없는데[트럼프스톡커]"
    ],
    "initialized": true,
-   "last_run": "2026-11-07T16:00:40.942989+09:00"
+   "last_run": "2026-11-07T16:05:20.913518+09:00"
   }
  },
  "press_names": {
