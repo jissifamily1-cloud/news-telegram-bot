@@ -506,13 +506,13 @@
     [
      "2026-11-07T10:35:19.454558+09:00",
      "니퍼트 가을야구 후라도 3승 소환 11년"
+    ],
+    [
+     "2026-11-07T10:55:18.343129+09:00",
+     "쓰나미 흔들리는 코스피 블루 중간 선거 후폭풍"
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20261106000144",
-    "http://www.joseilbo.com/news/news_read.php?uid=579092&class=53",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=902179",
-    "https://www.yna.co.kr/view/AKR20261106075700017?input=1195m",
     "https://www.sidae.com/article/2026110610492969783",
     "https://www.etoday.co.kr/news/view/2644943",
     "https://www.etoday.co.kr/news/view/2644994",
@@ -2008,13 +2008,13 @@
     "https://www.sedaily.com/article/20111429",
     "https://www.sedaily.com/article/20111426",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282635&CMPT_CD=P0010",
-    "https://www.jbnews.com/news/articleView.html?idxno=1515339"
+    "https://www.jbnews.com/news/articleView.html?idxno=1515339",
+    "https://www.sportschosun.com/baseball/2026-11-07/202611070100048610004917",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502049",
+    "https://www.g-enews.com/view.php?ud=202611071015465762fbbec65dfb_1",
+    "https://www.ytn.co.kr/_ln/0104_202611071044059228"
    ],
    "seen_titles": [
-    "한동훈\"코스피5000붕괴…李대통령직접답해야\"",
-    "\"AI투자중단아닌지연\"…증권가\"반도체투매과도하다\"",
-    "[속보]개인한달간9조원샀는데…삼전닉스폭락에“못버티겠다,울...",
-    "“장투하라더니,주식계좌반토막”…존리찾아간개미들,따져물으니",
     "한국금융지주,고점대비주가반토막…실적쇼크에목표가33%하향[주...",
     "AI충격에한국·대만·일본증시6~8%대급락",
     "부산불꽃축제통신혼잡막는다…이통3사,기지국확충·AI관리",
@@ -3510,10 +3510,14 @@
     "“중소벤처미래는AX에”…중진공,미래인재양성비전선포",
     "美중간선거발AI규제악재…개인·기관2.3조방어선무너뜨린외인",
     "'가을야구3승1.31'후라도,11년전니퍼트소환?",
-    "안양정관장,서울SK에83대79대역전극"
+    "안양정관장,서울SK에83대79대역전극",
+    "'털보'에게시리즈운명이달렸다!100%확률도전하는삼성,반격꿈꾸...",
+    "솔루스첨단소재헝가리1공장멈췄다…2공장은정상가동",
+    "월가AI회의론에출렁인코스피,삼성전자·SK하이닉스데이터센터수...",
+    "미중간선거'블루쓰나미'후폭풍...흔들리는코스피"
    ],
    "initialized": true,
-   "last_run": "2026-11-07T10:50:25.616762+09:00"
+   "last_run": "2026-11-07T10:55:18.343129+09:00"
   }
  },
  "press_names": {
