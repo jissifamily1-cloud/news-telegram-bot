@@ -150,11 +150,13 @@
     [
      "2026-11-08T06:05:19.800367+09:00",
      "민주당 투자변수로 의회 장악에 데이터센터"
+    ],
+    [
+     "2026-11-08T06:15:25.787953+09:00",
+     "6조 던졌다 지난주 수년만 보유율도 최저 외국인 삼전닉스"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000344673?division=NAVER",
-    "https://biz.chosun.com/stock/stock_general/2026/11/06/AYIITXA25BEBBDF6KV63PILVDE/",
     "https://www.edaily.co.kr/News/Read?newsId=05116806645643096&mediaCodeNo=257",
     "https://www.pointe.co.kr/news/articleView.html?idxno=87289",
     "http://worknworld.kctu.org/news/articleView.html?idxno=510261",
@@ -1652,11 +1654,11 @@
     "https://www.medipana.com/news/articleView.html?idxno=421216",
     "https://www.newsis.com/view/NISX20261104_0003854692",
     "https://www.news1.kr/bio/pharmaceutical-bio/6346087",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=365839"
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=365839",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502102",
+    "https://www.yna.co.kr/view/AKR20261107026400008?input=1195m"
    ],
    "seen_titles": [
-    "건설경기침체에철강중소형주약세…대호특수강·영흥은'방긋'",
-    "[허프생각]'주52시간예외'는정말필요한가?삼성전자·SK하이닉스는...",
     "[인사이트]최태원의'AI국가론'…반도체넘어지능수출,한국경제판...",
     "[전화연결]빅테크들,AI데이터센터투자몸사리기시작?",
     "“개미들파랗게질려영업장마비”…韓증시패닉부른업종·수급쏠...",
@@ -3154,10 +3156,12 @@
     "[제약공시책갈피]11월1주차-삼바로직스·SK바이오팜外",
     "삼성,빠르면이달중순정기인사…'실적·미래'초점맞추나",
     "'혈맹'에서'혈액동맹'으로…한국-튀르키예가교된SK플라즈마",
-    "美민주당의회장악에데이터센터투자변수로"
+    "美민주당의회장악에데이터센터투자변수로",
+    "AI데이터센터규제우려과도했나…이번주코스피반등시험대",
+    "외국인,지난주삼전닉스7.6조던졌다…보유율도수년만최저"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T06:10:26.615600+09:00"
+   "last_run": "2026-11-08T06:15:25.787953+09:00"
   }
  },
  "press_names": {
