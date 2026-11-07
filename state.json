@@ -325,9 +325,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12200321",
-    "https://www.edaily.co.kr/News/Read?newsId=04431286645643096&mediaCodeNo=257",
-    "https://en.asiatoday.co.kr/view.php?key=20261106001021242",
     "https://biz.heraldcorp.com/article/10928348",
     "https://www.newsis.com/view/NISX20261106_0003857713",
     "https://biz.heraldcorp.com/article/10928389",
@@ -1824,12 +1821,12 @@
     "https://sports.khan.co.kr/article/202611071417003?pt=nv",
     "https://biz.newdaily.co.kr/site/data/html/2026/11/07/2026110700053.html",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000080453",
-    "https://www.econovill.com/news/articleView.html?idxno=756369"
+    "https://www.econovill.com/news/articleView.html?idxno=756369",
+    "https://www.jemin.com/news/articleView.html?idxno=846404",
+    "http://www.kjdaily.com/article.php?aid=1794027949691497276",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=325145"
    ],
    "seen_titles": [
-    "SK인텔릭스,AI로봇'나무엑스'앞세워시니어케어시장공략",
-    "장동현부회장,SK에코플랜트대표사임…그룹부회장은유지",
-    "최태원SK회장\"반도체주당분간요동\"",
     "Kospibreaches5,000markascircuitbreakerhaltstrading",
     "“살려주세요”삼전차트앞에서108배…폭락장에개미들몰린곳",
     "SamsungElectronicssinksbelow200,000-wonmark",
@@ -3326,10 +3323,13 @@
     "‘대타2안타타격감절정’KT장진혁,시리즈첫선발출장-첫타석에...",
     "세계증시덮친美'블루쓰나미'하루만에시총4800조원증발…AI관련...",
     "'블루웨이브'충격…세계증시하루새4800조원증발",
-    "AI시대,리더의경쟁력은'6가지코어'에서나온다"
+    "AI시대,리더의경쟁력은'6가지코어'에서나온다",
+    "AI칩성능경쟁,패키징기술로확장…마이크론HBM사업에도기회와과...",
+    "삼성전기한주간27.26%급락…시가총액24조원증발",
+    "대상웰라이프,SK인텔릭스·한강시스템등과MOU...시니어케어사업공동..."
    ],
    "initialized": true,
-   "last_run": "2026-11-07T14:20:26.154788+09:00"
+   "last_run": "2026-11-07T14:25:19.330072+09:00"
   }
  },
  "press_names": {
