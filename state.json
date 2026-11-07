@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-07T09:50:31.152419+09:00",
-     "시장 나무엑스 확대 시니어케어 SK인텔릭스 앞세워"
-    ],
-    [
      "2026-11-07T09:55:21.855877+09:00",
      "해외 버팀목 IB 흔들린 원화 경상흑자가 블루쓰나미"
     ],
@@ -262,14 +258,17 @@
     [
      "2026-11-07T15:50:24.809001+09:00",
      "메모리 중국서 선봬 기술 데이터센터"
+    ],
+    [
+     "2026-11-07T15:55:20.598744+09:00",
+     "제주SK 63일만 광주와 무승 안방 무승부 복귀전 5G"
+    ],
+    [
+     "2026-11-07T15:55:20.598744+09:00",
+     "제주 광주"
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0134_202611061116003379",
-    "https://news.ifm.kr/news/articleView.html?idxno=483653",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4443460",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=280669",
-    "https://www.tleaves.co.kr/news/articleView.html?idxno=10114",
     "http://www.thevaluenews.co.kr/news/view.php?idx=203039",
     "https://biz.sbs.co.kr/article_hub/20000344721?division=NAVER",
     "https://www.topstarnews.net/news/articleView.html?idxno=16269801",
@@ -1764,14 +1763,14 @@
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4117239",
     "https://www.apnews.kr/news/articleView.html?idxno=3052911",
     "https://sports.khan.co.kr/article/202611071543003?pt=nv",
-    "https://www.the-today.com/news/articleView.html?idxno=93231"
+    "https://www.the-today.com/news/articleView.html?idxno=93231",
+    "http://www.stoo.com/article.php?aid=109779039938",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553681684",
+    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081818",
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601759",
+    "https://www.yna.co.kr/view/AKR20261107039300007?input=1195m"
    ],
    "seen_titles": [
-    "SK바이오사이언스,3분기매출21%증가…세전이익흑자전환",
-    "‘120만인파’대비…이통3사,부산불꽃축제안정적통신총력",
-    "\"차한대값날렸다\"\"전국민거지될판\"…증시폭락에개미들'비명...",
-    "검은금요일...코스피5천선무너졌다[자막뉴스]",
-    "삼성전자GOS논란집중해부…'최고성능'광고뒤에감춰진진실은?[...",
     "[증시바닥진단]오천피붕괴…증권가\"최악선반영…기회찾을때\"(종합...",
     "MicronHaltsTaiwanFabConstruction,FacingUnionDemandfor15%Prof",
     "[분석]우리금융,주주환원50%눈앞…관건은'수익성회복'",
@@ -3266,10 +3265,15 @@
     "AI산업규제전망'블루웨이브쇼크'...세계증시4천8백조원증발",
     "SK인텔릭스,요양시설네트워크로AI로봇'나무엑스'공급확대한다",
     "한국시리즈첫선발등판맞아?삼성‘아기사자’장찬희,4이닝1실점...",
-    "SK,중국서AI메모리·데이터센터기술선봬"
+    "SK,중국서AI메모리·데이터센터기술선봬",
+    "'고졸신인'삼성장찬희,4이닝1실점깜짝호투…KS최연소선발승은...",
+    "[K리그135R]'박창준동점골'제주SK,최하위탈출위해갈길바쁜광주...",
+    "진주고축구부K리그주니어10연승…후반기B조조기우승",
+    "'63일만안방복귀전'제주SK,광주와1-1무승부...5G무승",
+    "[프로축구서귀포전적]제주1-1광주"
    ],
    "initialized": true,
-   "last_run": "2026-11-07T15:50:24.809001+09:00"
+   "last_run": "2026-11-07T15:55:20.598744+09:00"
   }
  },
  "press_names": {
