@@ -266,11 +266,13 @@
     [
      "2026-11-07T21:45:23.816914+09:00",
      "필라델피아 공포 기회 반도체 코스피 상관관 or 종료 시즌"
+    ],
+    [
+     "2026-11-07T21:55:20.005408+09:00",
+     "삼성전자 호황에 잭팟 반도체 덕에 동네 돈벼락 예고된 12배"
     ]
    ],
    "seen_urls": [
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=210978",
-    "http://www.joseilbo.com/news/news_read.php?uid=579104&class=32",
     "https://www.globalepic.co.kr/view.php?ud=2026110612153974614ee4ea3d05_29",
     "https://www.junggi.co.kr/news/articleView.html?idxno=38400",
     "https://www.cwn.kr/news/articleView.html?idxno=61179",
@@ -1768,11 +1770,11 @@
     "https://www.hankyung.com/article/2026110724057",
     "https://www.newsway.co.kr/news/view?ud=2026110721424015469",
     "https://biz.heraldcorp.com/article/10929327",
-    "https://biz.heraldcorp.com/article/10929181"
+    "https://biz.heraldcorp.com/article/10929181",
+    "https://www.ajunews.com/view/20261107184701988",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611070047&t=NN"
    ],
    "seen_titles": [
-    "SK바이오팜영업이익률45%원동력은직판과용역수익'쌍끌이'",
-    "대상웰라이프,3개기업과손잡고AI기반시니어건강관리사업추진",
     "[오피셜]K리그도라리가처럼…선수별히트맵·뛴거리·공격전개방향...",
     "SK인텔릭스,요양시설에AI로봇적용…돌봄업무지원",
     "장중'5000피붕괴'...與\"과감한안정조치를\"vs野\"억지부양에반토...",
@@ -3270,10 +3272,12 @@
     "내일한국오기로했는데…젠슨황장녀방한돌연취소",
     "매디슨황방한취소,배경훈부총리면담도무산",
     "“500만원→160만원”하이닉스보다심하다…‘반토막’에노조파업까...",
-    "“AI시즌종료or공포속기회?”…필라델피아반도체코스피상관관..."
+    "“AI시즌종료or공포속기회?”…필라델피아반도체코스피상관관...",
+    "[아주경제오늘의뉴스종합]美'블루웨이브'충격에세계증시시총하...",
+    "\"삼성전자덕에12배잭팟\"…반도체호황에돈벼락예고된이동네"
    ],
    "initialized": true,
-   "last_run": "2026-11-07T21:50:25.670665+09:00"
+   "last_run": "2026-11-07T21:55:20.005408+09:00"
   }
  },
  "press_names": {
