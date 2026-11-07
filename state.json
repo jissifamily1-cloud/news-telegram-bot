@@ -253,9 +253,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=880506",
-    "https://biz.chosun.com/stock/stock_general/2026/11/06/HGNJ6P4MY5BXHBPNMJ3YEZEMEA/",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=624038",
     "https://www.hankyung.com/article/202611018425i",
     "https://en.yna.co.kr/view/AEN20261106004600320?input=2106m",
     "https://www.mk.co.kr/article/12200348",
@@ -1752,12 +1749,12 @@
     "http://www.osen.co.kr/article/G1112906015",
     "https://bizhankook.com/articles/kospi-plunges-on-ai-investment-fears.html",
     "https://www.newscj.com/news/articleView.html?idxno=3446772",
-    "https://www.ppss.kr/news/articleView.html?idxno=319602"
+    "https://www.ppss.kr/news/articleView.html?idxno=319602",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553681754",
+    "https://m.sports.naver.com/basketball/article/065/0000304220",
+    "https://www.newsis.com/view/NISX20261107_0003858931"
    ],
    "seen_titles": [
-    "野,'코스피5000붕괴'에\"자산시장정상화가이거냐…결국허상이자거...",
-    "\"출근길에열린지옥문\"…코스피5000붕괴·서킷브레이커에'패닉'빠진...",
-    "호남반도체클러스터열부족,정부해법은‘보일러’…전문가“효...",
     "SK인텔릭스,AI로봇'나무엑스'로요양시설돌봄혁신",
     "개인·금융투자매수세에낙폭줄인코스피…5100선회복",
     "[엔터家]프로야구㉖ㅣ삼성·kt,한국시리즈1승1패팽팽한승부…3차...",
@@ -3254,10 +3251,13 @@
     "소유,삼전닉스대박으로산옥수동집공개..욕실→거실'럭셔리'하우...",
     "미국발AI투자불안에코스피11.7%급락…반도체쏠림이낙폭키웠다",
     "삼성·SK반도체호황에경기지자체세수도'껑충'…최대12배전망",
-    "증시폭락에정부긴급대응…반대매매완화,개인투자자보호할수있..."
+    "증시폭락에정부긴급대응…반대매매완화,개인투자자보호할수있...",
+    "[현장목소리]세르지우코스타감독\"실점해서는안되는실점을허용했...",
+    "‘8점부진·5반칙퇴장’존재감없었던칸터,김상식감독은“똑똑한...",
+    "'알바노4쿼터13점'DB,선두삼성원정8연승저지…LG,소노에5연패..."
    ],
    "initialized": true,
-   "last_run": "2026-11-07T16:45:24.940872+09:00"
+   "last_run": "2026-11-07T16:50:27.387748+09:00"
   }
  },
  "press_names": {
