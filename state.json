@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-08T14:10:24.990694+09:00",
-     "KB NEED 카드 Oil 주유비 KB국민카드 아낀다 출시"
-    ],
-    [
      "2026-11-08T14:15:24.642170+09:00",
      "돕는 회장 000조 이재용 주인공들 최태원 천조 하늘이"
     ],
@@ -577,8 +573,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834645&plink=ORI&cooper=NAVER",
-    "https://www.yna.co.kr/view/AKR20261106185400007?input=1195m",
     "https://sports.khan.co.kr/article/202611062109003?pt=nv",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706284",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706283",
@@ -2076,11 +2070,11 @@
     "http://www.kwangju.co.kr/article.php?aid=1794132900805135277",
     "https://m.sports.naver.com/basketball/article/065/0000304353",
     "https://www.fnnews.com/news/202611081828191033",
-    "https://www.newstnt.com/news/articleView.html?idxno=727307"
+    "https://www.newstnt.com/news/articleView.html?idxno=727307",
+    "https://www.news1.kr/sports/basketball/6346995",
+    "https://www.chosun.com/sports/basketball/2026/11/08/3RYT2LP7XNB5ZJFSN6DDN2PA7Y/"
    ],
    "seen_titles": [
-    "주식팔아이혼자금9,400억…매각시점눈길",
-    "[프로농구안양전적]정관장83-79SK",
     "‘리바운드열세극복’정관장,4쿼터3점슛앞세워SK꺾고2위도약",
     "반도체‘블루웨이브쇼크’…대미투자불확실성도↑",
     "증시급락에개미비명…코스피하락어디까지?",
@@ -3578,10 +3572,12 @@
     "전남광주시‘호남반도체정주도시구축’연내혁신안마련",
     "[매거진]대학농구전문가들에게물었다!2026KBL신인선수드래프트누...",
     "'선수로6번,감독으로1번'우승복을타고난사람…삼성V9이끈박진...",
-    "[공시]11월9일,코스피상장사52개종목자사주매수신청"
+    "[공시]11월9일,코스피상장사52개종목자사주매수신청",
+    "'허웅·허훈39점합작'프로농구KCC,LG꺾고시즌첫3연승",
+    "허웅27점...KCC,LG잡고7연패뒤3연승"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T20:05:21.179840+09:00"
+   "last_run": "2026-11-08T20:10:25.747791+09:00"
   }
  },
  "press_names": {
