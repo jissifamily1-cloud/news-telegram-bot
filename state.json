@@ -518,12 +518,13 @@
     [
      "2026-11-08T15:10:27.147949+09:00",
      "스페이스X 테슬라 신탁 영국 매각한 비중 전량"
+    ],
+    [
+     "2026-11-08T15:15:22.787576+09:00",
+     "1800만 국내 챗GPT 돌파 이용자 2배로 사용시간"
     ]
    ],
    "seen_urls": [
-    "https://news.bizwatch.co.kr/article/market/2026/11/06/0041",
-    "https://www.hidomin.com/news/articleView.html?idxno=728268",
-    "https://www.seoul.co.kr/news/economy/industry/2026/11/06/20261106500285?wlog_tag3=naver",
     "https://www.globale.co.kr/news/articleView.html?idxno=41489",
     "http://www.finomy.com/news/articleView.html?idxno=265954",
     "https://www.polinews.co.kr/news/articleView.html?idxno=747897",
@@ -2020,12 +2021,12 @@
     "https://www.ziksir.com/news/articleView.html?idxno=152435",
     "https://www.g-enews.com/view.php?ud=20261106133909544027fa31d75c_1",
     "http://www.metroseoul.co.kr/article/20261108500170",
-    "https://www.tokenpost.kr/news/market/434705"
+    "https://www.tokenpost.kr/news/market/434705",
+    "https://www.segye.com/newsView/20261108507868?OutUrl=naver",
+    "https://www.joongangenews.com/news/articleView.html?idxno=562130",
+    "https://www.hankookilbo.com/news/article/A2026110814400002356?did=NA"
    ],
    "seen_titles": [
-    "[AI패닉]코스피5000턱걸이…\"공포는과도하지만서두르진마라\"",
-    "美'블루웨이브'충격에코스피이틀간11%폭락…하루만에시총267조...",
-    "美데이터센터규제확산…빅테크AI투자2028년고비",
     "美반도체한파에'삼전·닉스'급락···장중저점딛고6~10%마감",
     "코스피,AI투자둔화우려에6%대↓···5000선턱걸이",
     "[마감시황]'블루웨이브쇼크'코스피6.02%급락···장중5천선붕괴",
@@ -3522,10 +3523,13 @@
     "파업건수줄었는데손실은커졌다···제조업근로손실일수45%급증",
     "美블루웨이브에AI데이터센터제동현실화…삼전닉스에영향은?",
     "배터리소재사,실적부진속성장동력다변화…수익성회복은과제",
-    "테슬라전량매각한영국신탁,스페이스X비중11.1%"
+    "테슬라전량매각한영국신탁,스페이스X비중11.1%",
+    "오세훈“지방선거용주식도박…역사적범죄책임물어야”",
+    "매디슨황,방한돌연취소…과기장관면담무산",
+    "챗GPT국내앱이용자1800만명첫돌파…사용시간2배로"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T15:10:27.147949+09:00"
+   "last_run": "2026-11-08T15:15:22.787576+09:00"
   }
  },
  "press_names": {
