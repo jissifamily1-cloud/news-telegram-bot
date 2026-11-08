@@ -442,12 +442,17 @@
     [
      "2026-11-08T09:35:20.851515+09:00",
      "계속 경고 섬뜩한 최태원이 건넨 롤러코스피"
+    ],
+    [
+     "2026-11-08T09:45:25.151220+09:00",
+     "공포에 급락 사이버트럭 나스닥 거품 테슬라"
+    ],
+    [
+     "2026-11-08T09:45:25.151220+09:00",
+     "조선 줄었는데 노사 분규 급증 파업 근로손실 여파"
     ]
    ],
    "seen_urls": [
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=362055",
-    "https://view.asiae.co.kr/article/2026110614374887150",
-    "https://it.chosun.com/news/articleView.html?idxno=3000000000403",
     "https://news.skbroadband.com/news/articleView.html?idxno=242494",
     "https://dealsite.co.kr/articles/172254",
     "https://www.topstarnews.net/news/articleView.html?idxno=16269967",
@@ -1944,12 +1949,12 @@
     "https://news.tvchosun.com/site/data/html_dir/2026/11/08/2026110890007.html",
     "https://magazine.hankyung.com/business/article/202611082719b",
     "https://www.newscj.com/news/articleView.html?idxno=3446837",
-    "https://biz.chosun.com/it-science/ict/2026/11/08/3SEWDEBSTZAMTBD2YQ5JNTYU7Y/"
+    "https://biz.chosun.com/it-science/ict/2026/11/08/3SEWDEBSTZAMTBD2YQ5JNTYU7Y/",
+    "https://kpenews.com/View.aspx?No=4302324",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=320176",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1730819"
    ],
    "seen_titles": [
-    "공약숫자무너진코스피서킷브레이커…반도체투톱바닥논쟁가열",
-    "주가급락부른美AI데이터센터규제변수…\"메모리수요에도영향줄까...",
-    "'美블루웨이브'…삼전닉스HBM,AI데이터센터공급영향있을까",
     "KB국민카드,유가상승땐추가할인…주유특화카드'NEEDOil'출시",
     "최태원동거인中간첩설'배터리아저씨',항소심도벌금700만원",
     "200조주주환원,개미몫은얼마[줌인IT]",
@@ -3446,10 +3451,13 @@
     "\"젠슨황,中스파이연인설?\"…장녀매디슨,방한돌연취소",
     "“롤러코스피계속”...최태원이건넨‘섬뜩한경고’",
     "챗GPT국내앱이용자1800만명돌파…클로드2위도약",
-    "챗GPT국내앱이용자1876만명역대최다…클로드도1년새15배급증"
+    "챗GPT국내앱이용자1876만명역대최다…클로드도1년새15배급증",
+    "챗GPT,오래쓰는‘생활AI’로자리굳혀..국내앱이용자첫1800만명...",
+    "[글로벌주간브리핑]AI거품공포에나스닥급락…테슬라,사이버트럭...",
+    "노사분규줄었는데근로손실45%급증…車·조선파업여파"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T09:40:25.775551+09:00"
+   "last_run": "2026-11-08T09:45:25.151220+09:00"
   }
  },
  "press_names": {
