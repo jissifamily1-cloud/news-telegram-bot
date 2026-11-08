@@ -542,13 +542,13 @@
     [
      "2026-11-08T16:05:24.186170+09:00",
      "삼성 3년 드디어 수원 같은 흘린 웃었다 눈물 곳에서"
+    ],
+    [
+     "2026-11-08T16:10:24.468007+09:00",
+     "전쟁터는 삼성 중심 인사 미국 반도체 재편하나"
     ]
    ],
    "seen_urls": [
-    "https://www.cnbizm.com/news/articleView.html?idxno=320621",
-    "https://www.mk.co.kr/article/12200603",
-    "https://www.hankookilbo.com/news/article/A2026110614150004204?did=NA",
-    "https://www.m-i.kr/news/articleView.html?idxno=2015598",
     "https://www.newsis.com/view/NISX20261106_0003858414",
     "https://www.mk.co.kr/article/12200602",
     "https://idsn.co.kr/news/view/1065597688928882",
@@ -2044,13 +2044,13 @@
     "https://www.ajunews.com/view/20261108131352416",
     "https://www.fnnews.com/news/202611062109226897",
     "https://www.asiatoday.co.kr/kn/view.php?key=20261108010002950",
-    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100467"
+    "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100467",
+    "https://sports.donga.com/sports/article/all/20261108/134986138/1",
+    "https://sports.khan.co.kr/article/202611081604003?pt=nv",
+    "http://www.metroseoul.co.kr/article/20261108500218",
+    "https://www.edaily.co.kr/News/Read?newsId=01928646645643752&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "SK인텔릭스,AI웰니스로봇기반시니어케어사업확대",
-    "패닉장에도“1만피간다”...노무라낙관론,왜?",
-    "삼전·닉스에서만8.2조던졌다…외국인,'반도체팔자'어디까지",
-    "SK하이닉스,10년산업보건성과공유…사전예방체계강화",
     "임호선\"청주특례시추진반대…충북특별자치도지정해야\"",
     "Cyclical·OPI·코스피니라미[ThisWeek경제용어]",
     "산업부,'2026산업현장여성공학인대회'개최…첫실태조사추진·유공...",
@@ -3546,10 +3546,14 @@
     "LG엔솔빠진3차ESS...삼성SDI·SK온'공급부족'새변수될까",
     "폭락장에하이닉스3배담은고수들...셀트리온·현대차저평가주도[1%...",
     "美차기'호위함'후보오른충남급...‘韓·日·튀르키예’삼파전",
-    "[k2.told]3년전눈물흘린같은곳에서...수원삼성드디어웃었다,23..."
+    "[k2.told]3년전눈물흘린같은곳에서...수원삼성드디어웃었다,23...",
+    "‘김낙현3점슛만4개’SK,DB꺾고3위수성…2연패탈출",
+    "이정효의수원삼성,3년만에K리그1승격…K리그2우승도눈앞‘매직...",
+    "엔비디아,AI메모리설계영향력확대…삼성닉스생산전략주목",
+    "\"AI반도체전쟁터는미국\"…삼성美중심인사재편하나"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T16:05:24.186170+09:00"
+   "last_run": "2026-11-08T16:10:24.468007+09:00"
   }
  },
  "press_names": {
