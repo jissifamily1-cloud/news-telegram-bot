@@ -190,12 +190,21 @@
     [
      "2026-11-09T05:20:26.612000+09:00",
      "벗어날 전략 쇼크 쏠림 미국 시급하다 증시 반도체"
+    ],
+    [
+     "2026-11-09T05:25:20.617734+09:00",
+     "이번주 꺼내나 재경부 오천피 증안펀드 벼랑"
+    ],
+    [
+     "2026-11-09T05:25:20.617734+09:00",
+     "다이어트 버틴다 업계 팔고 줄이고 각자도생"
+    ],
+    [
+     "2026-11-09T05:25:20.617734+09:00",
+     "목표도 반짝 터널로 흑자 감축 적자 구조조정"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261107000004",
-    "https://www.goal.com/kr/뉴스/a/blt809c7fc26e4330a3",
-    "https://www.joongang.co.kr/article/25476538",
     "https://www.donga.com/news/Economy/article/all/20261106/134982628/2",
     "https://www.donga.com/news/Economy/article/all/20261106/134982634/2",
     "https://www.donga.com/news/Economy/article/all/20261107/134982636/2",
@@ -1692,12 +1701,12 @@
     "https://www.seoul.co.kr/news/economy/industry/2026/11/09/20261109030003?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/editOpinion/opinion/contribution/2026/11/09/20261109026002?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/11/09/20261109022001?wlog_tag3=naver",
-    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/11/09/20261109027002?wlog_tag3=naver"
+    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/11/09/20261109027002?wlog_tag3=naver",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611081334218080097",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611081156066980089",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611081155447530088"
    ],
    "seen_titles": [
-    "\"TSMC,엔비디아요청에첨단메모리진출검토\"…삼성·SK하이닉스경쟁...",
-    "[오피셜]충남아산FC‘준우승주역’황기욱·박한근소집해제후복귀...",
-    "데이터센터규제공포…5000피턱걸이",
     "“韓메모리,1~3년치완판됐지만중장기설비투자차질우려”",
     "5.5%급락한나스닥,하루새3400조원증발",
     "개장3분만에서킷브레이커…이틀간삼전13%-하이닉스17%빠져",
@@ -3194,10 +3203,13 @@
     "젠슨황‘中접촉의혹’…韓긴장",
     "[기고]美민주당이바꿀한국통상의셈법",
     "전기·물·땅‘세박자’착착…광주반도체기지‘계획대로’[서남...",
-    "[사설]미국發증시쇼크,‘반도체쏠림’벗어날전략시급하다"
+    "[사설]미국發증시쇼크,‘반도체쏠림’벗어날전략시급하다",
+    "‘오천피’벼랑끝…재경부,이번주증안펀드꺼내나",
+    "[석화,다시겨울]팔고,줄이고,버틴다…업계‘각자도생’다이어트",
+    "[석화,다시겨울]반짝흑자끝,적자터널로…구조조정감축목표도‘..."
    ],
    "initialized": true,
-   "last_run": "2026-11-09T05:20:26.612000+09:00"
+   "last_run": "2026-11-09T05:25:20.617734+09:00"
   }
  },
  "press_names": {
