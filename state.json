@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-08T05:30:34.537123+09:00",
-     "약세 어디까지 환율 1360원 원화 뚫은 블루웨이브"
-    ],
-    [
-     "2026-11-08T05:35:19.598463+09:00",
-     "변동 보조금 반도체 텍사스도 블루웨이브 공장"
-    ],
-    [
-     "2026-11-08T05:35:19.598463+09:00",
-     "돌아오나 태양광 정책 훈풍 K배터리 친환경"
-    ],
-    [
      "2026-11-08T05:40:25.662707+09:00",
      "비명 개미 코스피 추락에 빚투 레버리지"
     ],
@@ -593,13 +581,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.asiaa.co.kr/news/articleView.html?idxno=269871",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080602",
-    "https://www.kbanker.co.kr/news/articleView.html?idxno=226380",
-    "https://biz.chosun.com/it-science/ict/2026/11/06/RYYC64NTPBDTZLIWDOJZTYIX5E/",
-    "https://byline.network/?p=9004111222626577",
-    "https://news.jtbc.co.kr/article/NB12326853?influxDiv=NAVER",
-    "https://www.huffingtonpost.kr/article/261869",
     "https://www.joongangenews.com/news/articleView.html?idxno=561897",
     "https://www.ddaily.co.kr/page/view/2026110615524945049",
     "https://www.news2day.co.kr/article/20261106500276",
@@ -2092,16 +2073,16 @@
     "https://www.m-i.kr/news/articleView.html?idxno=2015632",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=91672",
     "https://www.sisajournal.com/news/articleView.html?idxno=393228",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1730822"
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1730822",
+    "https://m.sports.naver.com/basketball/article/065/0000304292",
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229636",
+    "https://www.viewsnnews.com/article?q=239559",
+    "https://it.chosun.com/news/articleView.html?idxno=3000000000494",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080020&t=NN",
+    "https://kpenews.com/View.aspx?No=4302405",
+    "https://m.skyedaily.com/news_view.html?ID=314255"
    ],
    "seen_titles": [
-    "호남권반도체국가산단조성'속도'…전남광주특별시,전력·용수·정주...",
-    "장동현SK부회장,SK에코플랜트대표이사직사임···그룹부회장은유...",
-    "미국발'블루쓰나미'반도체투매···코스피5000선'흔들'",
-    "KB국민카드,유가연동형추가할인'KBNEEDOil카드'선보여",
-    "중소기업·소상공인,국회서정책목소리…AI전환부터소상공인보호까...",
-    "우투증권,'소부장'윌비에스엔티인수금융주선확정",
-    "KT,지니TV최저가‘선택형’요금제신규가입중단…IPTV저가요금...",
     "코난테크놀로지,전출처정보융합분석플랫폼홈페이지공개",
     "\"장투하라면서!반토막났어요\"존리에따지러간개미들",
     "삼성전자SK하이닉스미국발'블루웨이브'충격이겨낼까:미국중국A...",
@@ -3594,10 +3575,17 @@
     "5000선턱걸이코스피,반등할까…신한證\"연말까지저점재시험\"",
     "올해제조업노사분규건수줄었지만근로손실일수45%급증…성과급...",
     "오세훈\"지방선거용주식도박…李정부오만,지옥문열어\"",
-    "매디슨황방한무산...정부·기업고위급만남줄취소"
+    "매디슨황방한무산...정부·기업고위급만남줄취소",
+    "하윤기는재활,허훈은손가락골절인데…대표팀발탁에KT·KCC‘딜레마...",
+    "외국인투자자,지난주삼전닉스7조6천억원어치팔았다",
+    "오세훈\"시장움직일수있다는오만,지옥문열었다\"",
+    "닷새만에10조4000억팔았다…외국인'셀코리아'에삼전지분17년만...",
+    "오세훈\"선거전국민연금으로판키워\"…증시폭락직격",
+    "엔비디아‘피지컬AI창구’매디슨황방한돌연취소..배경훈부총리...",
+    "급락한코스피…증권가가꼽은두가지반등조건"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T11:30:33.635585+09:00"
+   "last_run": "2026-11-08T11:35:20.964130+09:00"
   }
  },
  "press_names": {
