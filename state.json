@@ -530,12 +530,17 @@
     [
      "2026-11-08T15:25:20.938665+09:00",
      "매수 1000만원 무너진 인증 박용진 5천피"
+    ],
+    [
+     "2026-11-08T15:30:34.763846+09:00",
+     "역대 제조업 대기업 최고 생산 중소기업과 격차도"
+    ],
+    [
+     "2026-11-08T15:30:34.763846+09:00",
+     "곡소리 살짝 그칠까 반등 개미 언제 나스닥 위안 그나마"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=451408",
-    "https://www.hankyung.com/article/202611061257i",
-    "https://www.medicopharma.co.kr/news/articleView.html?idxno=70282",
     "https://www.ajunews.com/view/20261106162422098",
     "https://thetracker.co.kr/View.aspx?No=4301152",
     "https://www.mydaily.co.kr/page/view/2026110616110787769",
@@ -2032,12 +2037,12 @@
     "https://www.munhwa.com/article/11629653",
     "https://www.koreatimes.co.kr/path/A2026110810330002885",
     "https://www.news1.kr/economy/trend/6346805",
-    "https://www.pennmike.com/news/articleView.html?idxno=131310"
+    "https://www.pennmike.com/news/articleView.html?idxno=131310",
+    "https://www.fnnews.com/news/202611081514308869",
+    "https://www.khan.co.kr/article/202611081528001",
+    "https://www.dt.co.kr/article/12093772"
    ],
    "seen_titles": [
-    "[이주의ETF]KB자산운용'RISE미국반도체인버스(합성H)'18%대올라상...",
-    "\"최근주가하락은과도…팔지말고버틸때\"[리서치센터장긴급진단...",
-    "[바이오마감브리핑]신약개발주에집중된매도세…한올·리가켐·에이...",
     "사막·해외로눈돌린빅테크…'탈미국'데이터센터,한국은준비됐나",
     "카카오-넷마블,‘같은날다른소각’…플랫폼·게임업계로번진주주...",
     "‘반짝흑자’끝…석화4사3분기손실만5200억,‘역래깅늪’에빠졌...",
@@ -3534,10 +3539,13 @@
     "주가폭락에도살아날구멍은있다…콘텐츠·방송주↑",
     "[ED]USmidtermsimpactKoreanindexes",
     "국회예결위예산안부별심사본격화…이번주(9~13일)주요일정",
-    "[박준규의이슈언박싱]'5천피'무너진날1000만원'매수인증'…박용진..."
+    "[박준규의이슈언박싱]'5천피'무너진날1000만원'매수인증'…박용진...",
+    "한주새11%넘게하락한증시,844개상장사연중최저가",
+    "대기업제조업생산역대최고…중소기업과격차도역대최대",
+    "나스닥‘살짝반등’그나마위안?…개미‘곡소리’언제그칠까"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T15:25:20.938665+09:00"
+   "last_run": "2026-11-08T15:30:34.763846+09:00"
   }
  },
  "press_names": {
