@@ -586,17 +586,13 @@
     [
      "2026-11-08T17:25:20.027538+09:00",
      "한국시리즈 9번째 정상 부활 삼성라이온즈 왕조의 우승 탈환"
+    ],
+    [
+     "2026-11-08T17:30:32.851537+09:00",
+     "4200억 차익 상장 SK디스커버리 접자 SK에코"
     ]
    ],
    "seen_urls": [
-    "https://news.mtn.co.kr/article/2026110616204788829",
-    "https://news.tf.co.kr/read/economy/2385708.htm",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=87318",
-    "https://www.seoultimes.news/news/article.html?no=2000101880",
-    "http://www.newswatch.kr/news/articleView.html?idxno=81813",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=54413",
-    "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307970",
-    "https://www.mk.co.kr/article/12200705",
     "https://www.100ssd.co.kr/news/articleView.html?idxno=214282",
     "https://www.sedaily.com/article/20111298",
     "https://news.dealsitetv.com/articles/178178",
@@ -2088,17 +2084,17 @@
     "https://www.edaily.co.kr/News/Read?newsId=02118886645643752&mediaCodeNo=257",
     "https://www.mk.co.kr/article/12201808",
     "https://www.mk.co.kr/article/12201802",
-    "https://www.hankyung.com/article/2026110831647"
+    "https://www.hankyung.com/article/2026110831647",
+    "https://m.sports.naver.com/basketball/article/065/0000304340",
+    "https://www.newscj.com/news/articleView.html?idxno=3446931",
+    "https://www.imaeil.com/page/view/2026110817261172185",
+    "https://www.news1.kr/life-culture/general-cultural/6346896",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16271264",
+    "https://www.seoul.co.kr/news/economy/industry/2026/11/08/20261108500070?wlog_tag3=naver",
+    "https://news.tvchosun.com/site/data/html_dir/2026/11/08/2026110890080.html",
+    "https://www.mk.co.kr/article/12201812"
    ],
    "seen_titles": [
-    "'블루쓰나미'덮친증시…코스피5000선간신히방어[MTN리포트-선거...",
-    "통신3사,AI데이터센터에승부…투자확대속수익성확보과제",
-    "SK네트웍스,AX체질개선속3분기영업익201억원기록",
-    "교보교육재단,중학생60명과AI윤리교육…스스로판단하는힘키운다",
-    "[머니워치]美'블루쓰나미'에휩쓸린코스피…6%급락마감",
-    "코스피6%급락'5천선'턱걸이…삼성전자·SK하이닉스추락",
-    "美데이터센터규제쇼크에···반도체·전력기기'휘청'",
-    "개장3분만에멈춰선코스피…9·11버금가는충격",
     "SK네트웍스,3분기영업이익201억원…전년대비9.9%감소",
     "삼전닉스공매도잔고2주새70%늘었지만…“성급한금지땐신뢰흔들...",
     "[유통24시]올가홀푸드,단백질·고식이섬유담은‘한봉견과’출시外",
@@ -3590,10 +3586,18 @@
     "삼전·하닉현금329조돌파…AI호황에투자·주주환원확대",
     "[신장섭의기업과경제]분기1%가왜'깜짝성장'인가",
     "폭락장속나홀로플러스…파킹ETF에한달새2조2천억몰렸다[이번주...",
-    "\"왕조의부활\"…삼성라이온즈,한국시리즈정상탈환9번째우승"
+    "\"왕조의부활\"…삼성라이온즈,한국시리즈정상탈환9번째우승",
+    "[오늘의농구장여신]SK치어리더'나의사랑SK나이츠'",
+    "[농구]정관장,현대모비스꺾고3연승질주…문유현더블더블",
+    "삼성KS1패후4연승으로V9…구자욱MVP,페덱4이닝세이브로2026한...",
+    "'V9'삼성,KT꺾고12년만에한국시리즈우승…MVP구자욱(종합)",
+    "선수6회·감독첫우승…삼성박진만,2026한국시리즈서왕조복귀완...",
+    "데이터센터1곳무산시반도체4500만개수요흔들…삼성·SK,대미전략...",
+    "삼성,12년만에한국시리즈우승…통산9번째정상",
+    "SK에코상장접자…SK디스커버리4200억차익"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T17:25:20.027538+09:00"
+   "last_run": "2026-11-08T17:30:32.851537+09:00"
   }
  },
  "press_names": {
