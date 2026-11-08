@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-08T23:10:25.041765+09:00",
-     "후폭풍 흔들리는 경제 쓰나미 블루"
-    ],
-    [
      "2026-11-08T23:15:23.763113+09:00",
      "있고 멈춘 온고 성장 지신 없어"
     ],
@@ -182,12 +178,21 @@
     [
      "2026-11-09T05:05:20.714731+09:00",
      "기업 널뛰기에 증시 자금조달 기능 고장 찍고 도로"
+    ],
+    [
+     "2026-11-09T05:10:25.574977+09:00",
+     "의혹 긴장 접촉 젠슨"
+    ],
+    [
+     "2026-11-09T05:10:25.574977+09:00",
+     "통상의 민주당이 바꿀 셈법 한국"
+    ],
+    [
+     "2026-11-09T05:10:25.574977+09:00",
+     "서남 광주 박자 계획대로 반도체 기지 전기 착착"
     ]
    ],
    "seen_urls": [
-    "https://www.chosun.com/economy/stock-finance/2026/11/07/K34VNEVPFJGWZFZLITH34OS7SA/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/07/27CXDOBX5BDJPIXAPSTMSQTBNU/",
-    "https://imnews.imbc.com/replay/2026/nw2500/article/6863841_36989.html",
     "https://imnews.imbc.com/replay/2026/nw2500/article/6863842_36989.html",
     "https://www.newspim.com/news/view/20261107000004",
     "https://www.goal.com/kr/뉴스/a/blt809c7fc26e4330a3",
@@ -1684,12 +1689,12 @@
     "https://www.sidae.com/article/2026110812562858774",
     "https://www.newsis.com/view/NISX20261108_0003859437",
     "https://www.joongang.co.kr/article/25476837",
-    "https://www.joongang.co.kr/article/25476831"
+    "https://www.joongang.co.kr/article/25476831",
+    "https://www.seoul.co.kr/news/economy/industry/2026/11/09/20261109030003?wlog_tag3=naver",
+    "https://www.seoul.co.kr/news/editOpinion/opinion/contribution/2026/11/09/20261109026002?wlog_tag3=naver",
+    "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/11/09/20261109022001?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "‘블루쓰나미’에무너진나스닥…하루새시총3355조원,사상최대증...",
-    "코스피,AI쇼크…장중5000붕괴",
-    "뉴욕발'AI규제'공포세계증시덮쳤다",
     "\"심장이아파요\"개미들비명‥외인은또매도",
     "\"TSMC,엔비디아요청에첨단메모리진출검토\"…삼성·SK하이닉스경쟁...",
     "[오피셜]충남아산FC‘준우승주역’황기욱·박한근소집해제후복귀...",
@@ -3186,10 +3191,13 @@
     "'안전하다'는믿음의배신,채권형ETF절반은위험자산",
     "\"증시하락에도비관은금물…지금은'손절'보다인내할때\"",
     "“GPU100배돼도부족,구글도팀끼리서로쟁탈전”[팩플]",
-    "9000찍고도로5000…증시널뛰기에기업자금조달기능‘고장’"
+    "9000찍고도로5000…증시널뛰기에기업자금조달기능‘고장’",
+    "젠슨황‘中접촉의혹’…韓긴장",
+    "[기고]美민주당이바꿀한국통상의셈법",
+    "전기·물·땅‘세박자’착착…광주반도체기지‘계획대로’[서남..."
    ],
    "initialized": true,
-   "last_run": "2026-11-09T05:05:20.714731+09:00"
+   "last_run": "2026-11-09T05:10:25.574977+09:00"
   }
  },
  "press_names": {
