@@ -630,15 +630,21 @@
     [
      "2026-11-09T08:20:27.389641+09:00",
      "만회 낙폭 증시도 시도할까 반도체주 반등"
+    ],
+    [
+     "2026-11-09T08:25:21.388224+09:00",
+     "기업 후공정 호황 저평가 그로쓰리서치 매력 반도체"
+    ],
+    [
+     "2026-11-09T08:25:21.388224+09:00",
+     "외국인 12조 개미 멈칫거리는 꽁꽁 묶였는데 던지고"
+    ],
+    [
+     "2026-11-09T08:25:21.388224+09:00",
+     "코스피 5000피 지킬까 급락한"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20111429",
-    "https://www.sedaily.com/article/20111426",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282635&CMPT_CD=P0010",
-    "https://www.jbnews.com/news/articleView.html?idxno=1515339",
-    "https://www.sportschosun.com/baseball/2026-11-07/202611070100048610004917",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502049",
     "https://www.g-enews.com/view.php?ud=202611071015465762fbbec65dfb_1",
     "https://www.ytn.co.kr/_ln/0104_202611071044059228",
     "https://www.imaeil.com/page/view/2026110710540895159",
@@ -2132,15 +2138,15 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502233",
     "https://www.dt.co.kr/article/12093865",
     "https://www.cbci.co.kr/news/articleView.html?idxno=624534",
-    "https://view.asiae.co.kr/article/2026110908115953142"
+    "https://view.asiae.co.kr/article/2026110908115953142",
+    "https://www.kmib.co.kr/article/20261109500036",
+    "https://www.jasm.co.kr/news/view/324619/?sc=Naver",
+    "https://www.news1.kr/finance/general-stock/6347076",
+    "https://www.cstimes.com/news/articleView.html?idxno=727087",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=369169",
+    "https://www.kbmaeil.com/article/20261109500027"
    ],
    "seen_titles": [
-    "“중소벤처미래는AX에”…중진공,미래인재양성비전선포",
-    "美중간선거발AI규제악재…개인·기관2.3조방어선무너뜨린외인",
-    "'가을야구3승1.31'후라도,11년전니퍼트소환?",
-    "안양정관장,서울SK에83대79대역전극",
-    "'털보'에게시리즈운명이달렸다!100%확률도전하는삼성,반격꿈꾸...",
-    "솔루스첨단소재헝가리1공장멈췄다…2공장은정상가동",
     "월가AI회의론에출렁인코스피,삼성전자·SK하이닉스데이터센터수...",
     "미중간선거'블루쓰나미'후폭풍...흔들리는코스피",
     "\"월드컵해엔S가우승한다\"…삼성·SK·SSG24년징크스,KT돌풍에도이...",
@@ -3634,10 +3640,16 @@
     "반도체제조기술의한계넘는다…부산서국제학술대회개막",
     "‘블루쓰나미’탈출시도…삼전·SK하닉,프리마켓서1%대강세",
     "[반도체산업]낸드업계에불어닥친상장빙하기…솔리다임부터YMTC까...",
-    "[굿모닝증시]美반도체주반등…韓증시도낙폭만회시도할까"
+    "[굿모닝증시]美반도체주반등…韓증시도낙폭만회시도할까",
+    "TSMC,메모리사업넘보나…“D램생산계획착수…엔비디아요청”",
+    "TSMC,엔비디아요청에'메모리반도체'진출검토",
+    "삼전닉스,프리마켓서1%대반등…\"추가매도실익크지않아\"",
+    "그로쓰리서치\"반도체호황,후공정기업저평가매력\"",
+    "\"외국인12조던지고꽁꽁묶였는데\"…멈칫거리는개미",
+    "6%급락한코스피,‘5000피’지킬까"
    ],
    "initialized": true,
-   "last_run": "2026-11-09T08:20:27.389641+09:00"
+   "last_run": "2026-11-09T08:25:21.388224+09:00"
   }
  },
  "press_names": {
