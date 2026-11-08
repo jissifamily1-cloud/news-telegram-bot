@@ -625,7 +625,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202611061952507747fbbec65dfb_1",
     "https://imnews.imbc.com/replay/2026/nwdesk/article/6863801_37004.html",
     "https://www.koreaittimes.com/news/articleView.html?idxno=158900",
     "http://www.metroseoul.co.kr/article/20261106500135",
@@ -2124,10 +2123,10 @@
     "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018607",
     "https://www.thebilliards.kr/news/articleView.html?idxno=32396",
     "https://www.bigtanews.co.kr/article/view/big202611080005",
-    "https://www.dt.co.kr/article/12093828"
+    "https://www.dt.co.kr/article/12093828",
+    "https://www.hani.co.kr/arti/sports/baseball/1286348.html"
    ],
    "seen_titles": [
-    "호실적에도주가묶인삼성전자…글로벌펀드\"배당확대보다자사주...",
     "\"심장이아파\",\"예적금이나할걸\"‥벼랑끝개미투자자들",
     "[인사이트]AI투자불안덮친반도체,데이터센터가동지연이실적변...",
     "전남광주통합특별시,미래모빌리티제조·실증거점도약",
@@ -3626,10 +3625,11 @@
     "[현장REVIEW]3년을기다린수원삼성,마침내제자리로...'K리그1승격'...",
     "\"최하위의반란은완벽했다\"휴온스,4라운드까지정상등극…'시즌2회...",
     "[쇼츠뉴스]삼면에둘러싸인삼성전자,필살기있나?",
-    "[기획]메모리노리는대만…삼전닉스‘겹악재’"
+    "[기획]메모리노리는대만…삼전닉스‘겹악재’",
+    "노장투혼·신예기세…삼성왕조부활했다"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T19:05:20.620408+09:00"
+   "last_run": "2026-11-08T19:10:26.071954+09:00"
   }
  },
  "press_names": {
