@@ -622,13 +622,17 @@
     [
      "2026-11-08T19:05:20.620408+09:00",
      "대만 노리는 삼전닉스 메모리 겹악재"
+    ],
+    [
+     "2026-11-08T19:15:23.372129+09:00",
+     "일대 뜬다 반도체 관문도시 394만 광주송정역"
+    ],
+    [
+     "2026-11-08T19:15:23.372129+09:00",
+     "20분 김수용 세컨하우스 장만 롯데타워 한강 거들먹 심정지"
     ]
    ],
    "seen_urls": [
-    "https://imnews.imbc.com/replay/2026/nwdesk/article/6863801_37004.html",
-    "https://www.koreaittimes.com/news/articleView.html?idxno=158900",
-    "http://www.metroseoul.co.kr/article/20261106500135",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834634&plink=ORI&cooper=NAVER",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611060150&t=NN",
     "https://www.donga.com/news/Economy/article/all/20261106/134978401/1",
     "https://www.econovill.com/news/articleView.html?idxno=756356",
@@ -2124,13 +2128,13 @@
     "https://www.thebilliards.kr/news/articleView.html?idxno=32396",
     "https://www.bigtanews.co.kr/article/view/big202611080005",
     "https://www.dt.co.kr/article/12093828",
-    "https://www.hani.co.kr/arti/sports/baseball/1286348.html"
+    "https://www.hani.co.kr/arti/sports/baseball/1286348.html",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=285446",
+    "https://www.gnnews.co.kr/news/articleView.html?idxno=649091",
+    "https://www.namdonews.com/news/articleView.html?idxno=928533",
+    "https://www.mk.co.kr/article/12201934"
    ],
    "seen_titles": [
-    "\"심장이아파\",\"예적금이나할걸\"‥벼랑끝개미투자자들",
-    "[인사이트]AI투자불안덮친반도체,데이터센터가동지연이실적변...",
-    "전남광주통합특별시,미래모빌리티제조·실증거점도약",
-    "오늘도'블루웨이브쇼크'…5천선겨우지켰다",
     "YMTC\"최대70%국산화\"…中반도체자립가속",
     "美블루쓰나미쇼크에나스닥5.5%급락…하루새시총3400조원증발",
     "\"엔비디아1조3412억원넣었다\"네이버3대주주로AI팩토리본격시동",
@@ -3626,10 +3630,14 @@
     "\"최하위의반란은완벽했다\"휴온스,4라운드까지정상등극…'시즌2회...",
     "[쇼츠뉴스]삼면에둘러싸인삼성전자,필살기있나?",
     "[기획]메모리노리는대만…삼전닉스‘겹악재’",
-    "노장투혼·신예기세…삼성왕조부활했다"
+    "노장투혼·신예기세…삼성왕조부활했다",
+    "\"35%공제놓칠라\"…삼성·SK하닉,美반도체투자'연말시계'빨라진...",
+    "진주고,K리그주니어후반기리그'우승'",
+    "광주송정역일대394만㎡'반도체관문도시'뜬다",
+    "‘20분심정지’김수용,한강·롯데타워뷰세컨하우스장만거들먹"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T19:10:26.071954+09:00"
+   "last_run": "2026-11-08T19:15:23.372129+09:00"
   }
  },
  "press_names": {
