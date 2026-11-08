@@ -665,7 +665,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.jtbc.co.kr/article/NB12326866?influxDiv=NAVER",
     "https://www.kmib.co.kr/article/20261106500577",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=304461",
     "https://www.kmib.co.kr/article/20261106500582",
@@ -2164,10 +2163,10 @@
     "https://www.sedaily.com/article/20111654",
     "https://www.dt.co.kr/article/12093820",
     "http://www.jndn.com/article.php?aid=1794129185442665105",
-    "https://www.sedaily.com/article/20111650"
+    "https://www.sedaily.com/article/20111650",
+    "https://www.jasm.co.kr/news/view/324596/?sc=Naver"
    ],
    "seen_titles": [
-    "장중4000선까지밀리자'공포'…\"창닫고안볼란다\"",
     "내신397점도반도체高진학…고질적학벌주의작은균열",
     "\"SK바이오팜의승부수…바이오헤븐서'오파칼림'인수,12월1조빅딜마...",
     "하이닉스레버리지ETF,고점대비90%넘게하락했다",
@@ -3666,10 +3665,11 @@
     "헛바퀴정책에수급도메말라…코스닥,계엄때보다낮아졌다",
     "中여성과연인설·의회해명요구…젠슨황,기린아서문제아로",
     "광주FC,제주와1-1무승부…22일부천과홈경기",
-    "퇴직연금개미도등돌렸다…반도체투심‘실종’"
+    "퇴직연금개미도등돌렸다…반도체투심‘실종’",
+    "프로야구삼성,12년만에'한국시리즈우승'…통산9번째'정상탈환'"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T18:20:51.330931+09:00"
+   "last_run": "2026-11-08T18:25:20.966741+09:00"
   }
  },
  "press_names": {
