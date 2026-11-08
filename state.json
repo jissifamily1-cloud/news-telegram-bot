@@ -609,12 +609,6 @@
     ]
    ],
    "seen_urls": [
-    "https://m.sports.naver.com/basketball/article/065/0000304142",
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4117193",
-    "https://www.news1.kr/finance/general-stock/6345590",
-    "https://www.m-i.kr/news/articleView.html?idxno=2015643",
-    "https://www.ytn.co.kr/_ln/0102_202611061753419330",
-    "https://www.hankyung.com/article/2026110615981",
     "http://www.inews24.com/view/2023642",
     "https://www.yna.co.kr/view/AKR20261106166800083?input=1195m",
     "http://www.newswatch.kr/news/articleView.html?idxno=81818",
@@ -2108,15 +2102,15 @@
     "https://www.mk.co.kr/article/12201899",
     "https://www.namdonews.com/news/articleView.html?idxno=928509",
     "https://www.sedaily.com/article/20111610",
-    "https://www.etoday.co.kr/news/view/2645297"
+    "https://www.etoday.co.kr/news/view/2645297",
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435278",
+    "https://www.segye.com/newsView/20261108509480?OutUrl=naver",
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2312274",
+    "https://www.globale.co.kr/news/articleView.html?idxno=41507",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261108010002996",
+    "https://www.vegannews.co.kr/news/article.html?no=402126"
    ],
    "seen_titles": [
-    "[부상]‘에이스이탈’정관장변준형,발목통증으로SK전결장",
-    "산업부,산업현장여성공학인성과조명…유공자·기관10명표창",
-    "삼전37만원일때\"19만원간다\"…폭락주장한개미온라인서화제",
-    "SK네트웍스,3분기영업익9.9%감소…호텔·광고는선방",
-    "AI충격에코스피장중5천붕괴...삼전닉스대폭락",
-    "\"장기계약도안심못해\"비상걸린삼전닉스",
     "오너는출발점,전문경영인은정점…달라진재계부회장",
     "中YMTC,신규낸드공장장비최대70%국산화추진",
     "KOSPISweptbyU.S.'BlueTsunami,'Plunges6%atClose",
@@ -3610,10 +3604,16 @@
     "TSMC,메모리제조움직임…삼전닉스촉각",
     "삼성,12년만에한국시리즈정상…통산9번째V",
     "[단독]메모리빅3,로봇‘충전표준’세운다[로보인사이트]",
-    "텍사스서인허가멈춰도…美데이터센터투자는돌아간다"
+    "텍사스서인허가멈춰도…美데이터센터투자는돌아간다",
+    "삼성,kt꺾고12년만에정상탈환…한국시리즈통산9번째우승",
+    "‘반도체투톱쏠림’한계드러낸韓증시",
+    "\"12년한풀었다\"프로야구삼성,한국시리즈정상탈환…통산9번째우...",
+    "삼성라이온즈,12년만에한국시리즈제패···V9위업달성",
+    "삼성,12년만에왕좌탈환…구자욱KSMVP",
+    "SK바이오사이언스,9~10일기관IR…3분기매출21%↑"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T17:45:24.371375+09:00"
+   "last_run": "2026-11-08T17:50:25.179354+09:00"
   }
  },
  "press_names": {
