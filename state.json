@@ -578,15 +578,13 @@
     [
      "2026-11-08T11:10:25.862284+09:00",
      "ETF도 만에 매도 5조원 삼전닉스 12주"
+    ],
+    [
+     "2026-11-08T11:15:25.079526+09:00",
+     "수비에서 팀워크가 빛났다 늦깎이 소유찬 서울"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20261106009500320?input=2106m",
-    "https://www.hankyung.com/article/2026110611456",
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4117127",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=268523",
-    "http://www.newsdream.kr/news/articleView.html?idxno=121629",
-    "https://www.m-i.kr/news/articleView.html?idxno=2015560",
     "http://www.finomy.com/news/articleView.html?idxno=265937",
     "https://www.namdonews.com/news/articleView.html?idxno=928418",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=730873",
@@ -2080,15 +2078,15 @@
     "https://biz.chosun.com/it-science/ict/2026/11/08/L22RCPNIPBFTTL466CDXONUPRU/",
     "https://www.edaily.co.kr/News/Read?newsId=01410406645643752&mediaCodeNo=257",
     "https://www.ddaily.co.kr/page/view/2026110810185176556",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=424872"
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=424872",
+    "https://www.pennmike.com/news/articleView.html?idxno=131277",
+    "https://www.newscj.com/news/articleView.html?idxno=3446851",
+    "http://www.metroseoul.co.kr/article/20261108500058",
+    "https://www.eroun.net/news/articleView.html?idxno=94722",
+    "https://www.newsis.com/view/NISX20261108_0003859211",
+    "https://www.pennmike.com/news/articleView.html?idxno=131278"
    ],
    "seen_titles": [
-    "'최태원동거인간첩설'유튜버2심도벌금700만원",
-    "트럼프중간선거패배후미국증시깜짝반등한이유",
-    "'폭락'하이닉스226층서동주→200층곽튜브…현재수익률은?",
-    "KOSPI200ClosingPriceList-5",
-    "美블루웨이브에증시'검은금요일'…간신히5000피사수",
-    "'검은금요일'...코스피6%·코스닥5%폭락",
     "교보생명교보교육재단,청소년대상AI윤리교육실시",
     "'블루웨이브쇼크'코스피6%급락마감…외인2.8조순매도",
     "'검은금요일'코스피6.02%폭락...장중5000선붕괴[마감시황]",
@@ -3582,10 +3580,16 @@
     "매디슨황방한취소에배경훈면담·기업협력일정무산",
     "노사분규줄었는데근로손실45%↑…\"車부품등공급망우려\"",
     "[DD주간브리핑]네이버·KT·K-게임사3분기실적총출동…엔비디아'A...",
-    "'삼전닉스'7.5조원판外人···ETF도12주만에매도전환"
+    "'삼전닉스'7.5조원판外人···ETF도12주만에매도전환",
+    "[펜앤포토]U127경기,서울SK2승째…U12우승경쟁끝까지간다",
+    "'블루쓰나미'에외국인삼성·SK하이닉스7.6조팔아치워",
+    "챗GPT국내월이용자1800만명첫돌파…클로드15배성장'AI앱경쟁'...",
+    "SK네트웍스,3분기영업이익201억원…AI중심사업전환속도",
+    "삼성전자·SK하이닉스주가왜빠지나…\"2028년우려까지과도하게선반...",
+    "[나는농구선수다]서울SK소유찬\"수비에서팀워크가빛났다\"…늦깎이..."
    ],
    "initialized": true,
-   "last_run": "2026-11-08T11:10:25.862284+09:00"
+   "last_run": "2026-11-08T11:15:25.079526+09:00"
   }
  },
  "press_names": {
