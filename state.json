@@ -562,13 +562,13 @@
     [
      "2026-11-08T10:45:22.167108+09:00",
      "ETF 아래로 400조 증시 시장 꺾여 방패마저 순자산"
+    ],
+    [
+     "2026-11-08T10:50:25.231440+09:00",
+     "감소 영업익 3분기 전년 201억원 SK네트웍스"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261106000869",
-    "https://www.g-enews.com/view.php?ud=20261106145657582224debea800_1",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706046",
-    "https://bizhankook.com/articles/ai-owner-business-growth-strategy.html",
     "https://www.junggi.co.kr/news/articleView.html?idxno=38407",
     "https://dealsite.co.kr/articles/172222",
     "https://view.asiae.co.kr/article/2026110615231934328",
@@ -2064,13 +2064,13 @@
     "https://www.viva100.com/article/20261108500225",
     "https://www.seoul.co.kr/news/society/2026/11/08/20261108500016?wlog_tag3=naver",
     "http://www.breaknews.com/1249157",
-    "https://kpenews.com/View.aspx?No=4302373"
+    "https://kpenews.com/View.aspx?No=4302373",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080828",
+    "https://news.tf.co.kr/read/economy/2386080.htm",
+    "https://www.news1.kr/finance/market-exr/6346650",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502133"
    ],
    "seen_titles": [
-    "K-신약,국내허가건너뛰고해외진출서두르는이유는",
-    "\"최태원동거인은중국간첩\"주장유튜버박순혁,항소심도벌금700만원",
-    "SK인텔릭스,대상웰라이프등3개사와맞손…AI로봇기반시니어케어...",
-    "기아,전남광주에미래차'3조투자'…\"제조·실증거점도약\"",
     "SK케미칼,폐현수막재활용해새현수막으로…경주시에200장공급",
     "“최태원동거인은중국간첩”주장유튜버,2심벌금700만원유지",
     "[신간소개]AI오너,AI로더성장하는기업사라지는기업,더넥스트...",
@@ -3566,10 +3566,14 @@
     "상반기‘축제’끝나자실적쇼크…증권주,배당매력마저흔들",
     "기아,전남광주에3조투자…미래차산업판도바꾼다",
     "전남광주특별시,호남권반도체국가산단조성‘총력’…부지·전력·...",
-    "ETF시장,美증시방패마저꺾여..순자산400조아래로"
+    "ETF시장,美증시방패마저꺾여..순자산400조아래로",
+    "ETF10개중8개하락…시가총액400조원붕괴",
+    "챗GPT,국내모바일월간이용자1800만명돌파…클로드는15배'껑충'",
+    "'블루쓰나미'에증시직격탄…상장사3곳중1곳연중'신저가'",
+    "[마켓포인트]SK네트웍스,3분기영업익201억원…전년比9.9%감소"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T10:45:22.167108+09:00"
+   "last_run": "2026-11-08T10:50:25.231440+09:00"
   }
  },
  "press_names": {
