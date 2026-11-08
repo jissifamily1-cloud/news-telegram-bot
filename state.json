@@ -570,11 +570,13 @@
     [
      "2026-11-08T20:05:21.179840+09:00",
      "매수 11월 코스피 9일 자사주 상장사 종목 52개 신청"
+    ],
+    [
+     "2026-11-08T20:15:24.284080+09:00",
+     "있나 제조업 1조 어떻게 달러 수출 벌고 눈앞"
     ]
    ],
    "seen_urls": [
-    "https://sports.khan.co.kr/article/202611062109003?pt=nv",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706284",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706283",
     "https://www.gpkorea.com/news/articleView.html?idxno=148378",
     "http://www.osen.co.kr/article/G1112905568",
@@ -2072,11 +2074,11 @@
     "https://www.fnnews.com/news/202611081828191033",
     "https://www.newstnt.com/news/articleView.html?idxno=727307",
     "https://www.news1.kr/sports/basketball/6346995",
-    "https://www.chosun.com/sports/basketball/2026/11/08/3RYT2LP7XNB5ZJFSN6DDN2PA7Y/"
+    "https://www.chosun.com/sports/basketball/2026/11/08/3RYT2LP7XNB5ZJFSN6DDN2PA7Y/",
+    "https://www.etoday.co.kr/news/view/2645483",
+    "http://www.sisacast.kr/news/articleView.html?idxno=101711"
    ],
    "seen_titles": [
-    "‘리바운드열세극복’정관장,4쿼터3점슛앞세워SK꺾고2위도약",
-    "반도체‘블루웨이브쇼크’…대미투자불확실성도↑",
     "증시급락에개미비명…코스피하락어디까지?",
     "\"페라리전기차심장에K배터리\"…SK온과손잡고첫EV'루체'개발",
     "'21점아반도+20점토마스'정관장,SK상대4쿼터역전드라마...83-79승...",
@@ -3574,10 +3576,12 @@
     "'선수로6번,감독으로1번'우승복을타고난사람…삼성V9이끈박진...",
     "[공시]11월9일,코스피상장사52개종목자사주매수신청",
     "'허웅·허훈39점합작'프로농구KCC,LG꺾고시즌첫3연승",
-    "허웅27점...KCC,LG잡고7연패뒤3연승"
+    "허웅27점...KCC,LG잡고7연패뒤3연승",
+    "정관장,현대모비스꺾고3연승…문유현데뷔첫더블더블",
+    "[경제포커스]수출1조달러눈앞…K-제조업어떻게돈벌고있나"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T20:10:25.747791+09:00"
+   "last_run": "2026-11-08T20:15:24.284080+09:00"
   }
  },
  "press_names": {
