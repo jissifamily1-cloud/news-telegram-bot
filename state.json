@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-08T06:30:33.395926+09:00",
-     "최저가 연중 급락장에 1개는 3개중 지난주 추락 줄줄이 상장사"
-    ],
-    [
      "2026-11-08T06:35:19.487113+09:00",
      "한다 vs 안갯속 반등 코스피 급락장 추가 지나도 안심 하락"
     ],
@@ -526,11 +522,13 @@
     [
      "2026-11-08T12:20:26.229244+09:00",
      "Mobile Hana Refueling Develops High Hydrogen and Unite Capacity Stations"
+    ],
+    [
+     "2026-11-08T12:30:37.359287+09:00",
+     "부총리 젠슨 취소 방한 배경훈 불발 매디슨 장녀 만남"
     ]
    ],
    "seen_urls": [
-    "https://www.ziksir.com/news/articleView.html?idxno=152367",
-    "https://www.smarttoday.co.kr/ko-kr/articles/113526",
     "https://www.fnnews.com/news/202611061559461085",
     "https://www.yna.co.kr/view/PYH20261106124700013?input=1196m",
     "https://www.ziksir.com/news/articleView.html?idxno=152368",
@@ -2028,11 +2026,11 @@
     "https://www.gukjenews.com/news/articleView.html?idxno=3745435",
     "https://www.meconomynews.com/news/articleView.html?idxno=203384",
     "https://www.dailian.co.kr/news/view/1712180/?sc=Naver",
-    "https://us.aving.net/news/articleView.html?idxno=55194"
+    "https://us.aving.net/news/articleView.html?idxno=55194",
+    "https://www.newscj.com/news/articleView.html?idxno=3446879",
+    "https://www.fnnews.com/news/202611081052043125"
    ],
    "seen_titles": [
-    "공포로번진AI규제우려…5000선'턱걸이'사수",
-    "반도체지금사야?...한화證“블루웨이브에도AI투자지속”",
     "삼성전자·SK하이닉스현직자만난다…전남대,9일취업박람회개최",
     "[발제기사]\"美AI규제공포에검은금요일\"…코스피8%대폭락에거래...",
     "코스피,美블루웨이브쇼크에6%폭락...한때5000선붕괴",
@@ -3530,10 +3528,12 @@
     "엄정욱♥배우지안·송하예♥조매력…주말결혼소식'후끈'",
     "반도체급락에...'SOLSK하이닉스인버스2X'지난주수익률45.4%1위",
     "오세훈\"선거전주가띄워국민도박판에내몰아…李사과하라\"",
-    "HanaUniteDevelopsMobileHydrogenRefuelingStationsandHigh-Capa"
+    "HanaUniteDevelopsMobileHydrogenRefuelingStationsandHigh-Capa",
+    "[축구]광주,제주와1-1무승부…꼴찌확정은미뤄져",
+    "젠슨황장녀매디슨황방한취소…배경훈부총리만남불발"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T12:25:19.256461+09:00"
+   "last_run": "2026-11-08T12:30:37.359287+09:00"
   }
  },
  "press_names": {
