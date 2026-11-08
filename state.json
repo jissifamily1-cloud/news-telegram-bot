@@ -450,10 +450,13 @@
     [
      "2026-11-08T22:25:19.514560+09:00",
      "순현금 삼성 늘어 환원 투자 SK하이닉스 병행"
+    ],
+    [
+     "2026-11-08T22:35:19.873504+09:00",
+     "기념 삼성 난리났다 바겐세일 개미 할인율 삼전 우승"
     ]
    ],
    "seen_urls": [
-    "https://m.sports.naver.com/general/article/065/0000304163",
     "https://m.sports.naver.com/general/article/065/0000304162",
     "https://www.kukinews.com/article/view/kuk202611060210",
     "https://sateconomy.co.kr/news/view/1065617573418460",
@@ -1952,10 +1955,10 @@
     "https://www.the-today.com/news/articleView.html?idxno=93297",
     "https://biz.newdaily.co.kr/site/data/html/2026/11/08/2026110800101.html",
     "https://gj.newdaily.co.kr/site/data/html/2026/11/07/2026110700059.html",
-    "https://www.vegannews.co.kr/news/article.html?no=402245"
+    "https://www.vegannews.co.kr/news/article.html?no=402245",
+    "https://biz.heraldcorp.com/article/10929818"
    ],
    "seen_titles": [
-    "[포토]정관장문유현'쉽게블록당하지않는다'",
     "[포토]정관장변준형'정관장승리하자'",
     "“기회오면자신있게”…정관장박지훈4쿼터연속3점포,SK전역전승...",
     "中YMTC,신규낸드공장장비70%국산화추진…삼성·SK중국생산거점...",
@@ -3454,10 +3457,11 @@
     "SK에코매수가18%↑…팔았던주식서4179억…SK디스커버리'대박'예고...",
     "증시11%폭락에상장사3곳중1곳'연중최저'…720곳하루만에추...",
     "전남광주,반도체국가산단기반시설확보총력…삼성·SK와협력",
-    "삼성·SK하이닉스순현금늘어…AI투자·환원병행"
+    "삼성·SK하이닉스순현금늘어…AI투자·환원병행",
+    "“삼성우승기념,大바겐세일중”삼전개미난리났다…“할인율48%”"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T22:30:32.848675+09:00"
+   "last_run": "2026-11-08T22:35:19.873504+09:00"
   }
  },
  "press_names": {
