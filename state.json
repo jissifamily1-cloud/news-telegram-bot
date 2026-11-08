@@ -130,10 +130,13 @@
     [
      "2026-11-09T03:55:12.305578+09:00",
      "형곡동도 세대교체 갈아입 아파트로 산업도시 강남 구미의"
+    ],
+    [
+     "2026-11-09T04:05:21.790696+09:00",
+     "반도체주 삼성전자 SK하이닉스도 반등할까 9일 급반등"
     ]
    ],
    "seen_urls": [
-    "https://mhnse.com/news/articleView.html?idxno=1685109",
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435250",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=91633",
     "https://www.topstarnews.net/news/articleView.html?idxno=16270404",
@@ -1632,10 +1635,10 @@
     "https://www.g-enews.com/view.php?ud=202611081720183357fbbec65dfb_1",
     "https://www.munhwa.com/article/11629692",
     "https://www.stnsports.co.kr/news/articleView.html?idxno=325254",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=314878"
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=314878",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000080601"
    ],
    "seen_titles": [
-    "[mhn포토]김재희,버디성공했어요~",
     "'잇몸투혼'정관장,무니·변준형공백딛고SK꺾고2위도약",
     "SK네트웍스,3분기영업익201억원…전사AI전환·사업체질개선속...",
     "미국증시나스닥1.65%반등·다우하락…엔비디아6.56%급등,고용호...",
@@ -3134,10 +3137,11 @@
     "美빅테크쏠림에피로쌓인S&P500…채권바벨전략뜬다",
     "너도나도“성과급달라”…올해파업근로손실일수45%늘었다",
     "'김낙현이쏘고워니가날았다'SK,DB81-65완파…속공으로끝냈다",
-    "산업도시구미의세대교체…'구미의강남'형곡동도새아파트로갈아입..."
+    "산업도시구미의세대교체…'구미의강남'형곡동도새아파트로갈아입...",
+    "美반도체주급반등…9일삼성전자·SK하이닉스도반등할까"
    ],
    "initialized": true,
-   "last_run": "2026-11-09T04:00:40.178846+09:00"
+   "last_run": "2026-11-09T04:05:21.790696+09:00"
   }
  },
  "press_names": {
