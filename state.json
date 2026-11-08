@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-08T10:40:26.591580+09:00",
-     "정책 기술 과방위 우주항공 입법박람회서 반도체 국회 지원 점검"
-    ],
-    [
-     "2026-11-08T10:40:26.591580+09:00",
-     "확대 마이크론 샌디스크 추격 SK하이닉스 메모리 존재감 공급난에"
-    ],
-    [
-     "2026-11-08T10:45:22.167108+09:00",
-     "판도 기아 투자 미래차 3조 전남광주에 바꾼다 산업"
-    ],
-    [
-     "2026-11-08T10:45:22.167108+09:00",
-     "조성 호남권 전남광주특별시 총력 부지 반도체 전력 국가산단"
-    ],
-    [
-     "2026-11-08T10:45:22.167108+09:00",
-     "ETF 아래로 400조 증시 시장 꺾여 방패마저 순자산"
-    ],
-    [
      "2026-11-08T10:50:25.231440+09:00",
      "감소 영업익 3분기 전년 201억원 SK네트웍스"
     ],
@@ -554,15 +534,17 @@
     [
      "2026-11-08T16:40:26.436860+09:00",
      "DB 완패 SK에 백투백 부담 넘은"
+    ],
+    [
+     "2026-11-08T16:45:25.626038+09:00",
+     "법안이면 받기까지 1주 롯데렌탈 개미가 어렵다 대주주"
+    ],
+    [
+     "2026-11-08T16:45:25.626038+09:00",
+     "짓는 데이터센터 미국에 한국에 유치하자 정말 할까 기회이기만"
     ]
    ],
    "seen_urls": [
-    "http://www.smarttimes.co.kr/news/articleView.html?idxno=50397",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834288&plink=ORI&cooper=NAVER",
-    "https://www.kmib.co.kr/article/20261106500404",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611060090&t=NN",
-    "https://biz.heraldcorp.com/article/10928869",
-    "https://www.yna.co.kr/view/AKR20261106155400008?input=1195m",
     "https://www.ceoscoredaily.com/page/view/2026110613125322651",
     "https://www.sisaweek.com/news/articleView.html?idxno=238841",
     "https://www.ddaily.co.kr/page/view/2026110617044016418",
@@ -2056,15 +2038,15 @@
     "http://www.rookie.co.kr/news/articleView.html?idxno=129953",
     "https://basketkorea.com/news/newsview.php?ncode=1065598500712951",
     "https://www.koreatimes.co.kr/path/A2026110810510001224",
-    "https://www.kwnews.co.kr/article/20261108501256"
+    "https://www.kwnews.co.kr/article/20261108501256",
+    "https://biz.newdaily.co.kr/site/data/html/2026/11/08/2026110800070.html",
+    "https://www.kukinews.com/article/view/kuk202611080045",
+    "https://www.newsian.co.kr/news/articleView.html?idxno=100828",
+    "https://www.nocutnews.co.kr/news/6603663",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611081543453910115",
+    "https://www.khan.co.kr/article/202611081638001"
    ],
    "seen_titles": [
-    "'검은금요일'코스피이틀새11%↓…삼성전자·SK하이닉스동반추락",
-    "개장3분만에'서킷브레이커'…코스피5천'턱걸이'",
-    "5000피붕괴에공세…韓“국민피눈물”安“대통령긴급‘라방’틀...",
-    "\"삼전살려주세요\"차트앞108배…폭락장에개미들몰려간곳",
-    "SK네트웍스,3분기영업익201억원…전년대비9.9%↓",
-    "단일레버리지우수수추락…SK하이닉스ETF고점대비90%폭락",
     "‘AI쇼크’속,엔디비아포럼서울서열린다…삼성·SK·LG·네이버‘총...",
     "시가총액만484조원증발…삼성·SK하이닉스주가'마지노선'은",
     "“국민연금182조증발”…한동훈,李대통령에직접해명요구",
@@ -3558,10 +3540,16 @@
     "5경기만에10+득점!SK김낙현\"믿어주신감독님과팀원들에게죄송했...",
     "[BK플레이어]‘3점슛4개+17점’감독의믿음에부응한김낙현,“죄송...",
     "Korea'schip-drivengrowthfacesrisksfrompotentialUSdatacenterc",
-    "백투백부담못넘은DB,SK에완패"
+    "백투백부담못넘은DB,SK에완패",
+    "TSMC'3DD램'진출설에드러난엔비디아의속내…'삼전닉스'메모리...",
+    "서울SK전희철,김낙현반등에방긋…“팀공격에도선택지늘어”[쿠...",
+    "[AI쇼크그후①]삼전·하닉쏠림이키운코스피충격…반등조건은",
+    "반대매매급증하자증권사담보비율유지의무석달간면제",
+    "롯데렌탈개미가대주주값받기까지…'50%+1주'법안이면어렵다",
+    "미국에못짓는AI데이터센터한국에유치하자…정말기회이기만할까"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T16:40:26.436860+09:00"
+   "last_run": "2026-11-08T16:45:25.626038+09:00"
   }
  },
  "press_names": {
