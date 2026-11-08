@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-08T22:25:19.514560+09:00",
-     "순현금 삼성 늘어 환원 투자 SK하이닉스 병행"
-    ],
-    [
      "2026-11-08T22:35:19.873504+09:00",
      "기념 삼성 난리났다 바겐세일 개미 할인율 삼전 우승"
     ],
@@ -138,10 +134,13 @@
     [
      "2026-11-09T04:10:26.647146+09:00",
      "하향 이익 SK바이오팜 증가 IBK 3분기 목표가"
+    ],
+    [
+     "2026-11-09T04:25:29.496397+09:00",
+     "증시 바닥은 어디 붕괴 코스피 000선마저"
     ]
    ],
    "seen_urls": [
-    "https://www.maniareport.com/view.php?ud=202611062253579683dad9f33a29_19",
     "https://www.sedaily.com/article/20111390",
     "https://www.cbci.co.kr/news/articleView.html?idxno=624252",
     "https://www.newsis.com/view/NISX20261106_0003857962",
@@ -1640,10 +1639,10 @@
     "https://www.jnilbo.com/news/articleView.html?idxno=90000080601",
     "https://biz.sbs.co.kr/article_hub/20000344975?division=NAVER",
     "https://www.vegannews.co.kr/news/article.html?no=402268",
-    "https://biz.sbs.co.kr/article_hub/20000344977?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000344977?division=NAVER",
+    "https://www.news2day.co.kr/article/20261108500054"
    ],
    "seen_titles": [
-    "'변준형없이이겼다'정관장,박지훈연속3점포로SK역전승...8승4패...",
     "금감원,SK이노-SKIET합병신고서또‘퇴짜’…두번째정정요구",
     "[블루웨이브쇼크]\"이틀간13%·18%추풍낙엽\"…삼성전자·SK하이닉스1...",
     "\"코스피저점가까워지고있다\"…65년차투자거장이주목한반등신호",
@@ -3142,10 +3141,11 @@
     "美반도체주급반등…9일삼성전자·SK하이닉스도반등할까",
     "TSMC,메모리까지진출?...사측은공식부인",
     "SK바이오팜3분기이익65.9%증가…IBK목표가하향",
-    "[글로벌비즈브리핑]美증시급락에헤지펀드도10여년만에최대포지..."
+    "[글로벌비즈브리핑]美증시급락에헤지펀드도10여년만에최대포지...",
+    "[N2포커스]코스피5,000선마저붕괴…증시바닥은어디"
    ],
    "initialized": true,
-   "last_run": "2026-11-09T04:20:27.095389+09:00"
+   "last_run": "2026-11-09T04:25:29.496397+09:00"
   }
  },
  "press_names": {
