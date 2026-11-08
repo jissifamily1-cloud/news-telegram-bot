@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-08T03:40:25.546125+09:00",
-     "시장 흔드는 뇌관 빚더미 반도체 삼킨 세계 채권 49경 호황"
-    ],
-    [
      "2026-11-08T04:05:20.850081+09:00",
      "급등락 방산 주도주 충격 조선 선거"
     ],
@@ -449,8 +445,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261106_0003857847",
-    "https://www.news1.kr/industry/general-industry/6345666",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=362055",
     "https://view.asiae.co.kr/article/2026110614374887150",
     "https://it.chosun.com/news/articleView.html?idxno=3000000000403",
@@ -1948,11 +1942,11 @@
     "https://it.chosun.com/news/articleView.html?idxno=3000000000490",
     "https://biz.heraldcorp.com/article/10929474",
     "https://news.tvchosun.com/site/data/html_dir/2026/11/08/2026110890007.html",
-    "https://magazine.hankyung.com/business/article/202611082719b"
+    "https://magazine.hankyung.com/business/article/202611082719b",
+    "https://www.newscj.com/news/articleView.html?idxno=3446837",
+    "https://biz.chosun.com/it-science/ict/2026/11/08/3SEWDEBSTZAMTBD2YQ5JNTYU7Y/"
    ],
    "seen_titles": [
-    "'이현중·최준용제외'마줄스호,아시안게임후첫소집",
-    "롯데칠성,건설사6곳과손잡고동절기안전지원",
     "공약숫자무너진코스피서킷브레이커…반도체투톱바닥논쟁가열",
     "주가급락부른美AI데이터센터규제변수…\"메모리수요에도영향줄까...",
     "'美블루웨이브'…삼전닉스HBM,AI데이터센터공급영향있을까",
@@ -3450,10 +3444,12 @@
     "\"파업건수줄었는데생산차질은급증\"…제조업근로손실일수45%늘었...",
     "내년한국성장률최대변수,반도체수출…美데이터센터제동시‘직...",
     "\"젠슨황,中스파이연인설?\"…장녀매디슨,방한돌연취소",
-    "“롤러코스피계속”...최태원이건넨‘섬뜩한경고’"
+    "“롤러코스피계속”...최태원이건넨‘섬뜩한경고’",
+    "챗GPT국내앱이용자1800만명돌파…클로드2위도약",
+    "챗GPT국내앱이용자1876만명역대최다…클로드도1년새15배급증"
    ],
    "initialized": true,
-   "last_run": "2026-11-08T09:35:20.851515+09:00"
+   "last_run": "2026-11-08T09:40:25.775551+09:00"
   }
  },
  "press_names": {
