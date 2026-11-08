@@ -553,8 +553,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.getnews.co.kr/news/articleView.html?idxno=886313",
-    "http://www.yonhapnewstv.co.kr/news/MYH20261106163448Nvb",
     "https://www.newspim.com/news/view/20261106000292",
     "https://www.newsis.com/view/NISX20261106_0003858352",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000080344",
@@ -2052,11 +2050,11 @@
     "http://www.metroseoul.co.kr/article/20261108500151",
     "https://www.khan.co.kr/article/202611081447001",
     "https://www.sedaily.com/article/20111569",
-    "https://www.joongang.co.kr/article/25476699"
+    "https://www.joongang.co.kr/article/25476699",
+    "https://www.kgnews.co.kr/news/article.html?no=918625",
+    "https://www.ngonews.kr/news/articleView.html?idxno=242601"
    ],
    "seen_titles": [
-    "'블랙프라이데이'증시...코스피,'블루웨이브쓰나미'에6%넘게급락",
-    "'AI쇼크'코스피6%급락…5,000선턱걸이",
     "[증시쇼크②]\"버티기도,팔기도어렵다'…폭락장에갇힌개미들선택...",
     "800조호남반도체'전력·용수·정주여건'협의본격화",
     "전남광주시,반도체국가산단유치총력…전력·용수·교통망확보속도",
@@ -3554,10 +3552,12 @@
     "증시의‘블랙프라이데이’…하루720곳연중신저가",
     "‘블루웨이브’에코스피5000선아슬아슬…이번주관건은?",
     "오세훈“李,지방선거앞두고주식시장도박판만들어…국민에사과해...",
-    "코스피5000선깨지자…오세훈“지방선거용주식도박”李에사과요..."
+    "코스피5000선깨지자…오세훈“지방선거용주식도박”李에사과요...",
+    "'블루쓰나미'쇼크에5천피턱걸이…폭락후반등꾀하는코스피",
+    "[김상민의세상을보는눈]'집거지'와'주식거지'양산…정부존재이..."
    ],
    "initialized": true,
-   "last_run": "2026-11-08T14:50:27.533112+09:00"
+   "last_run": "2026-11-08T14:55:19.466174+09:00"
   }
  },
  "press_names": {
