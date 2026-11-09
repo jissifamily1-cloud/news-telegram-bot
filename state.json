@@ -482,17 +482,21 @@
     [
      "2026-11-10T07:55:21.039901+09:00",
      "홀로 스캔들로 반등에도 하락 258조원 날렸다 기술주 젠슨"
+    ],
+    [
+     "2026-11-10T08:00:43.689480+09:00",
+     "MS 데이터센터로 미국발 불확실성 AWS 투자 오픈AI까지 한국"
+    ],
+    [
+     "2026-11-10T08:00:43.689480+09:00",
+     "악재 박살난 엔비디아 뉴욕 우려 관련주도 홀로 증시서"
+    ],
+    [
+     "2026-11-10T08:00:43.689480+09:00",
+     "Code VORTEX 코잇 확대 Origin 바이윈 라인업"
     ]
    ],
    "seen_urls": [
-    "https://www.asiatime.co.kr/article/20261109500250",
-    "https://www.itdaily.kr/news/articleView.html?idxno=242775",
-    "https://www.tokenpost.kr/news/ai/435010",
-    "https://www.theguru.co.kr/news/article.html?no=109455",
-    "https://view.asiae.co.kr/article/2026110913204324550",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502356",
-    "https://www.cstimes.com/news/articleView.html?idxno=727129",
-    "https://www.newsworker.co.kr/news/articleView.html?idxno=512997",
     "https://chmbc.co.kr/article/14131581",
     "https://www.newsis.com/view/NISX20261109_0003860408",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260866",
@@ -1984,17 +1988,17 @@
     "https://www.ngonews.kr/news/articleView.html?idxno=242716",
     "https://biz.sbs.co.kr/article_hub/20000345274?division=NAVER",
     "https://www.slist.kr/news/articleView.html?idxno=780297",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611100018&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611100018&t=NN",
+    "https://view.asiae.co.kr/article/2026111007560629647",
+    "https://biz.sbs.co.kr/article_hub/20000345285?division=NAVER",
+    "https://www.yna.co.kr/view/AKR20261110019400008?input=1195m",
+    "https://www.dt.co.kr/article/12094137",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=67397",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=67398",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=285745",
+    "https://www.betanews.net/article/view/beta202611090090"
    ],
    "seen_titles": [
-    "국힘,우상호'AIDC허위공표'신속수사촉구…\"尹보다무거운발언\"",
-    "FIDO얼라이언스,12월1일서울서패스키·차세대인증기술논의",
-    "SK바이오팜,상생플랫폼미국링스입주사31곳선정",
-    "“연봉대폭인상해줘라”…‘삼성야구보는재미’홍준표가직접고른...",
-    "삼성전자,현금200조원쌓았다…투자·주주환원확대",
-    "코스피,오후들어상승폭축소…외국인매도속5100선등락",
-    "[위클리시그널]SKT·LGU+3분기영업익증가…KT소폭감소전망",
-    "최태원회장,이번주'SKCEO세미나'주재…내년'AI성과'전략짠다",
     "아마존,'커뮤니티펀드'울산확대…디지털혁신트랙신설",
     "Arm서버비중2025년50%넘어…연말60%초과전망",
     "'4000달러투입'에코프로이노,아르헨티나리튬'연간5000t장기구매권...",
@@ -3486,10 +3490,18 @@
     "국내상장사소액주주24.2%증가…삼성전자797만명·SK하이닉스346만명",
     "[애프터마켓리뷰]AI데이터센터투자확대에광통신주급등",
     "상장사소액주주1년반새24.2%늘어…SK하이닉스4.4배로",
-    "젠슨황,스캔들로258조원날렸다...기술주반등에도홀로하락"
+    "젠슨황,스캔들로258조원날렸다...기술주반등에도홀로하락",
+    "기술주매수세·국제유가급락…국내증시상승출발전망[굿모닝증시...",
+    "'젠슨황리스크'에엔비디아시총하루새258조원증발",
+    "[마켓뷰]美기술주급반등·유가급락…코스피급락딛고반등할까",
+    "젠슨황發악재‘나홀로추락’엔비디아…시총258조원증발",
+    "엔비디아'나홀로4%급락'…AI반도체랠리속CEO스캔들직격탄",
+    "\"미국발AI투자불확실성\"…AWS·MS·오픈AI까지한국데이터센터로눈...",
+    "뉴욕증시서홀로박살난엔비디아...韓엔비디아관련주도악재우려",
+    "코잇,바이윈'OriginCodeVORTEX'라인업확대"
    ],
    "initialized": true,
-   "last_run": "2026-11-10T07:55:21.039901+09:00"
+   "last_run": "2026-11-10T08:00:43.689480+09:00"
   }
  },
  "press_names": {
