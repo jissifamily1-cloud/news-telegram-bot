@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-09T14:25:20.164843+09:00",
-     "연루 일파만파 젠슨 반도체 업계 파장 의혹 스파이"
-    ],
-    [
-     "2026-11-09T14:25:20.164843+09:00",
-     "팔겠다 말고 본전 빚낸 개미에게 오면 아니면 손절 삼성전자"
-    ],
-    [
-     "2026-11-09T14:25:20.164843+09:00",
-     "상승 부각 자회사 가치 73만3000원 SK스퀘어"
-    ],
-    [
      "2026-11-09T14:30:33.668391+09:00",
      "지역 처인구 상권 하이닉스 팹건설에 불켜진 꼭두새벽부터 용인"
     ],
@@ -1278,11 +1266,13 @@
     [
      "2026-11-09T20:20:28.509260+09:00",
      "품는다 화순 기업을 이제는 반도체 대는 임지락 산업에"
+    ],
+    [
+     "2026-11-09T20:25:22.414301+09:00",
+     "개발 분석 시스템 질문 GPU는 3사 생성 통합 NPU는 답변"
     ]
    ],
    "seen_urls": [
-    "https://biz.chosun.com/stock/stock_general/2026/11/09/D2AYSB7JGZDRHAFXZT4NEFAWHU/",
-    "https://www.kukinews.com/article/view/kuk202611090032",
     "https://www.dailian.co.kr/news/view/1712450/?sc=Naver",
     "https://www.m-economynews.com/news/article.html?no=72753",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081100",
@@ -2780,11 +2770,11 @@
     "http://www.jeonmin.co.kr/news/articleView.html?idxno=450120",
     "http://www.inews24.com/view/2024258",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611090161&t=NN",
-    "https://www.joongangenews.com/news/articleView.html?idxno=562460"
+    "https://www.joongangenews.com/news/articleView.html?idxno=562460",
+    "http://www.cctimes.kr/news/articleView.html?idxno=936373",
+    "https://www.vegannews.co.kr/news/article.html?no=402602"
    ],
    "seen_titles": [
-    "5000선사수전들어간코스피…이번주반등이냐2차충격이냐",
-    "“190조벌었는데삼성전자주가는반토막”…코스피반등에도남은불...",
     "과기부,SK브로드밴드사업분할의견수렴…내일부터접수",
     "'헐크효과무섭네'강동궁,4라운드도휴온스우승견인…2R까지MVP도...",
     "젠슨황스캔들,‘깐부동맹’차질우려…한국AI프로젝트불똥튀나",
@@ -4282,10 +4272,12 @@
     "국민노후자금주식비중확대논란…김성주책임론확산",
     "엔비디아부사장\"자율주행·이동로봇,초기상용화진입…휴머노이드...",
     "'혹시나했는데'하루180포인트'출렁'…韓증시만못오른날,드러난...",
-    "[특집]반도체산업에물대는화순,이제는기업을품는다…임지락군..."
+    "[특집]반도체산업에물대는화순,이제는기업을품는다…임지락군...",
+    "진보당청주시위세수적립등내년예산10대민생과제제안",
+    "GPU는질문분석,NPU는답변생성…3사통합시스템개발"
    ],
    "initialized": true,
-   "last_run": "2026-11-09T20:20:28.509260+09:00"
+   "last_run": "2026-11-09T20:25:22.414301+09:00"
   }
  },
  "press_names": {
