@@ -401,7 +401,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.hankookilbo.com/news/article/A2026110809530004654?did=NA",
     "http://www.inews24.com/view/2023829",
     "https://www.itbiznews.com/news/articleView.html?idxno=230688",
     "https://www.youthdaily.co.kr/news/article.html?no=229555",
@@ -1900,10 +1899,10 @@
     "https://www.newsworks.co.kr/news/articleView.html?idxno=902490",
     "https://www.moneystorm.kr/news/articleView.html?idxno=8234",
     "https://www.topstarnews.net/news/articleView.html?idxno=16272444",
-    "https://www.chosun.com/opinion/column/2026/11/09/ZIABJCQ5IZD7RDRCNLFTS4DDOQ/"
+    "https://www.chosun.com/opinion/column/2026/11/09/ZIABJCQ5IZD7RDRCNLFTS4DDOQ/",
+    "https://www.tokenpost.kr/news/market/435276"
    ],
    "seen_titles": [
-    "美'블루쓰나미'에반도체비상…호남클러스터투자'무리수'",
     "블룸버그\"해외투자자,AI열풍식자한국·대만대신중국·인도로눈돌...",
     "미민주당이바꿀한국통상의셈법",
     "미래에셋'200커버드콜액티브'ETF10일상장..\"월2회분배조합\"",
@@ -3402,10 +3401,11 @@
     "SKT·엔비디아·리벨리온'GPU·NPU통합시스템개발MOU'",
     "엔비디아,국내AI생태계전방위협력확대…스타트업4곳투자·국산...",
     "미국증시장초반나스닥1.52%상승…엔비디아6.75%급락에도브로드컴...",
-    "[전문기자의시선]반도체가격은시장이정하지만그미래는국제정치..."
+    "[전문기자의시선]반도체가격은시장이정하지만그미래는국제정치...",
+    "엔비디아5.89%하락…브로드컴·AMD는6%넘게올랐다"
    ],
    "initialized": true,
-   "last_run": "2026-11-09T23:50:27.668174+09:00"
+   "last_run": "2026-11-09T23:55:21.524876+09:00"
   }
  },
  "press_names": {
