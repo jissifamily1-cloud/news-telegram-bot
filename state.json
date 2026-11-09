@@ -350,11 +350,13 @@
     [
      "2026-11-10T00:10:28.545007+09:00",
      "공방 키웠다 삼킨 AIDC 위험수위 현안 블랙홀"
+    ],
+    [
+     "2026-11-10T00:15:26.683268+09:00",
+     "거래 일각 기업 드러난 빙산 증인 앵벌이 국감마다"
     ]
    ],
    "seen_urls": [
-    "https://www.ppss.kr/news/articleView.html?idxno=319796",
-    "https://www.segye.com/newsView/20261109506840?OutUrl=naver",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=285546",
     "https://www.jejusori.net/news/articleView.html?idxno=508136",
     "https://www.newsinside.kr/news/articleView.html?idxno=5043821",
@@ -1852,11 +1854,11 @@
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=93579",
     "http://www.paxetv.com/news/articleView.html?idxno=286459",
     "https://www.segye.com/newsView/20261110500067?OutUrl=naver",
-    "https://www.kado.net/news/articleView.html?idxno=2083779"
+    "https://www.kado.net/news/articleView.html?idxno=2083779",
+    "https://www.kmib.co.kr/article/20261109501749",
+    "https://www.chosun.com/opinion/editorial/2026/11/10/UOFLOG6EQRCIPPRGQRRPE4ZQB4/"
    ],
    "seen_titles": [
-    "SK,이번주CEO세미나...내년AI사업전략수립",
-    "과기정통부,SK브로드밴드-SK호라이즌분할의견수렴",
     "코스피,기관저가매수유입에반등…5100선회복",
     "'불륜쇼크'젠슨황사적일탈일파만파?…'4조달러'AI제국흔들리나",
     "엔비디아로보틱스부사장\"韓,피지컬AI핵심\"…현대차·두산·SK·LG협...",
@@ -3354,10 +3356,12 @@
     "[심층분석]5000선이탈가능성·하반기증시전망…전문가진단과3대...",
     "SK바이오팜,미국진출지원플랫폼'LinX'가동...국내바이오기업31곳...",
     "프로농구수원KT,신인드래프트1순위지명권확보",
-    "AIDC공방위험수위…현안삼킨'블랙홀'키웠다"
+    "AIDC공방위험수위…현안삼킨'블랙홀'키웠다",
+    "젠슨황스캔들악재속…엔비디아-韓‘AI반도체동맹’",
+    "[사설]국감마다“기업앵벌이”빙산일각드러난증인거래"
    ],
    "initialized": true,
-   "last_run": "2026-11-10T00:10:28.545007+09:00"
+   "last_run": "2026-11-10T00:15:26.683268+09:00"
   }
  },
  "press_names": {
