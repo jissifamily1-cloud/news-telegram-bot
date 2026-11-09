@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-10T00:25:21.040320+09:00",
-     "넘긴 7개 회전율 주가 하락 16개 50종목 상위"
-    ],
-    [
-     "2026-11-10T00:25:21.040320+09:00",
-     "취소 방한 부사장은 묻자 뒷문으로 엔비디아"
-    ],
-    [
-     "2026-11-10T00:25:21.040320+09:00",
-     "D램 계획 TSMC 3D 생산"
-    ],
-    [
      "2026-11-10T00:30:56.614384+09:00",
      "안전경 반도체 재편 가속 SK그룹 중심 친환경 사업"
     ],
@@ -318,12 +306,17 @@
     [
      "2026-11-10T06:25:20.986369+09:00",
      "흔들리는 우리 젠슨 경제 영향은"
+    ],
+    [
+     "2026-11-10T06:30:34.909604+09:00",
+     "SK텔레콤 11월 1위 상장기업 KT 뒤이 통신 LG유플러스"
+    ],
+    [
+     "2026-11-10T06:30:34.909604+09:00",
+     "매수세에 지수 증시 3대 급등 저가"
     ]
    ],
    "seen_urls": [
-    "https://www.besteleven.com/news/articleView.html?idxno=313883",
-    "https://www.dt.co.kr/article/12093934",
-    "https://www.newstnt.com/news/articleView.html?idxno=727381",
     "https://www.mediawatch.kr/news/article.html?no=261665",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=280796",
     "https://biz.chosun.com/science-chosun/bio/2026/11/09/AUBNLQEVQBEALFJD2SI6IGWPCE/",
@@ -1820,12 +1813,12 @@
     "https://www.the-today.com/news/articleView.html?idxno=93349",
     "http://www.medisobizanews.com/news/articleView.html?idxno=144146",
     "https://it.chosun.com/news/articleView.html?idxno=3000000000571",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838102&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838102&plink=ORI&cooper=NAVER",
+    "https://www.fnnews.com/news/202611100624351093",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=56161",
+    "https://www.news2day.co.kr/article/20261109500066"
    ],
    "seen_titles": [
-    "코스피,팔까말까…5000선'눈치싸움'치열",
-    "가족손잡고인사동플로깅…SK에코플랜트,ESG를'체험'으로풀다",
-    "사회적가치연구원,베이징포럼참여'AI기반평가플랫폼'소개",
     "진흥원,미국뉴저지'K-바이오링스'입주사31곳선정",
     "이철규\"우상호'70조AI센터'새빨간거짓말…경찰,면죄부수사안돼\"",
     "젠슨황리스크불거진엔비디아…삼성·SKHBM공급망긴장",
@@ -3322,10 +3315,13 @@
     "[속보]헝가리K-배터리6개사'ESG공동선언'…50억과태료·보조금배...",
     "신약하나개발에1.8조필요…연조달액은469억원'새발의피'",
     "신기루된오천피…상장사10개중7곳,李출범전보다주가빠져",
-    "흔들리는젠슨황…우리경제영향은"
+    "흔들리는젠슨황…우리경제영향은",
+    "[뉴욕증시]엔비디아급락에도2%대급등마감…'속슬'22%폭등",
+    "[브랜드평판]KT,통신상장기업11월1위...SK텔레콤,LG유플러스뒤이...",
+    "[N2모닝경제브리핑-11월10일]美증시,저가매수세에3대지수급등..."
    ],
    "initialized": true,
-   "last_run": "2026-11-10T06:25:20.986369+09:00"
+   "last_run": "2026-11-10T06:30:34.909604+09:00"
   }
  },
  "press_names": {
