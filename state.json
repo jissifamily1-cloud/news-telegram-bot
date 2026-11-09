@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-09T18:25:20.672347+09:00",
-     "petrochemical giants plunge red war back Korea into windfal as driven"
-    ],
-    [
-     "2026-11-09T18:25:20.672347+09:00",
-     "vs 따져보니 가전 3년 IPTV 현금 총비용 가입 인터넷 공짜"
-    ],
-    [
      "2026-11-09T18:30:35.880591+09:00",
      "기로에 반도체 엔비디아냐 AMD냐"
     ],
@@ -326,13 +318,21 @@
     [
      "2026-11-10T00:15:26.683268+09:00",
      "거래 일각 기업 드러난 빙산 증인 앵벌이 국감마다"
+    ],
+    [
+     "2026-11-10T00:25:21.040320+09:00",
+     "넘긴 7개 회전율 주가 하락 16개 50종목 상위"
+    ],
+    [
+     "2026-11-10T00:25:21.040320+09:00",
+     "취소 방한 부사장은 묻자 뒷문으로 엔비디아"
+    ],
+    [
+     "2026-11-10T00:25:21.040320+09:00",
+     "D램 계획 TSMC 3D 생산"
     ]
    ],
    "seen_urls": [
-    "https://www.jejusori.net/news/articleView.html?idxno=508136",
-    "https://www.newsinside.kr/news/articleView.html?idxno=5043821",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=280782",
-    "https://www.dt.co.kr/article/12093917",
     "https://www.mydaily.co.kr/page/view/2026110910482607239",
     "https://www.globalepic.co.kr/view.php?ud=20261109111056827848439a4874_29",
     "https://www.yna.co.kr/view/AKR20261109066300008?input=1195m",
@@ -1828,13 +1828,13 @@
     "https://www.kado.net/news/articleView.html?idxno=2083779",
     "https://www.kmib.co.kr/article/20261109501749",
     "https://www.chosun.com/opinion/editorial/2026/11/10/UOFLOG6EQRCIPPRGQRRPE4ZQB4/",
-    "http://www.kjdaily.com/article.php?aid=1794237406691748276"
+    "http://www.kjdaily.com/article.php?aid=1794237406691748276",
+    "http://www.kjdaily.com/article.php?aid=1794237601691751276",
+    "http://www.kjdaily.com/article.php?aid=1794237771691746276",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838006&plink=ORI&cooper=NAVER",
+    "https://www.bntnews.co.kr/article/view/bnt202611100002"
    ],
    "seen_titles": [
-    "'불륜쇼크'젠슨황사적일탈일파만파?…'4조달러'AI제국흔들리나",
-    "엔비디아로보틱스부사장\"韓,피지컬AI핵심\"…현대차·두산·SK·LG협...",
-    "코스피,美반도체훈풍에강보합···5000선사수",
-    "국토부AIDC건설활성화포럼,SK하이닉스용인현장방문",
     "엔비디아'AI데이서울2026'개막…삼성·SK·LG등20개기업AI기술...",
     "“야구의신은안현민에게왜이리가혹한가...”KT‘신데렐라’안현...",
     "인프라쪼개고AI품은SK브로드밴드…정부시험대올랐다",
@@ -3330,10 +3330,14 @@
     "AIDC공방위험수위…현안삼킨'블랙홀'키웠다",
     "젠슨황스캔들악재속…엔비디아-韓‘AI반도체동맹’",
     "[사설]국감마다“기업앵벌이”빙산일각드러난증인거래",
-    "삼성전기주가3.10%하락…외국인·기관동반순매도"
+    "삼성전기주가3.10%하락…외국인·기관동반순매도",
+    "SK스퀘어주가0.28%하락…외국인·기관순매수에도약세",
+    "회전율40%넘긴7개…상위50종목중16개주가하락",
+    "'왜방한취소?'묻자엔비디아부사장은뒷문으로",
+    "​TSMC,3DD램생산계획"
    ],
    "initialized": true,
-   "last_run": "2026-11-10T00:20:27.290481+09:00"
+   "last_run": "2026-11-10T00:25:21.040320+09:00"
   }
  },
  "press_names": {
