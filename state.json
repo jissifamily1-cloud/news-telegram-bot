@@ -1186,11 +1186,13 @@
     [
      "2026-11-09T20:30:36.815838+09:00",
      "삼성SDI 배터리 수출통제 SK온 중국 2개월 추가 유예 LG에너지솔루션"
+    ],
+    [
+     "2026-11-09T20:50:26.394003+09:00",
+     "26일 기술주 IPO 완료 급락에도 방침 앤트로픽 이전"
     ]
    ],
    "seen_urls": [
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611090920477950140",
-    "https://www.kmib.co.kr/article/20261109500222",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=881131",
     "https://news.mtn.co.kr/article/2026110910381064416",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611091027467070167",
@@ -2688,11 +2690,11 @@
     "http://www.osen.co.kr/article/G1112907426",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229910",
     "https://www.newstopkorea.com/news/articleView.html?idxno=48896",
-    "http://coinreaders.com/268613"
+    "http://coinreaders.com/268613",
+    "http://www.ujeil.com/news/articleView.html?idxno=395002",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1543188"
    ],
    "seen_titles": [
-    "배터리비명에도멈춘‘한국판IRA’…흔들리는공공데이터[세종백브...",
-    "코스피,장중5,000선붕괴후반등...외국인매도에다시약세",
     "SKB-SK호라이즌사업분할심사…과기정통부,30일까지의견수렴",
     "과기정통부,SK브로드밴드사업분할심사의견수렴",
     "지난주이틀간10％이상폭락했던삼전닉스,오늘장초반상승세",
@@ -4190,10 +4192,12 @@
     "\"너무기쁘다\"KT,3년만에드래프트1순위행운...정관장은3%확률뚫...",
     "젠슨황장녀불참이유묻자'동문서답'…장관·기업일정줄줄이취소",
     "SK하이닉스,엔비디아AI로반도체식각·열변형시뮬레이션속도30배↑",
-    "[서학개미레이더]SK하이닉스4.6%·삼성전자2.4%반등…CPI앞둔SOXL..."
+    "[서학개미레이더]SK하이닉스4.6%·삼성전자2.4%반등…CPI앞둔SOXL...",
+    "울산,'아마존코리아커뮤니티펀드'유치성공",
+    "[월드e브리핑]앤트로픽,기술주급락에도26일이전IPO완료방침"
    ],
    "initialized": true,
-   "last_run": "2026-11-09T20:45:25.711887+09:00"
+   "last_run": "2026-11-09T20:50:26.394003+09:00"
   }
  },
  "press_names": {
