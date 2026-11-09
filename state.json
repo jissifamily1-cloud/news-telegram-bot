@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-09T21:25:20.575459+09:00",
-     "이재명의 없는 반토막 코스피 코앞 고통"
-    ],
-    [
-     "2026-11-09T21:30:38.280226+09:00",
-     "insurance massive data payout Telecom receives SIM after breach"
-    ],
-    [
-     "2026-11-09T21:30:38.280226+09:00",
-     "삼성 체제 깐부 1극 엔비디아 날벼락 현대차 휩싸인 스캔들"
-    ],
-    [
      "2026-11-09T21:35:21.501222+09:00",
      "젠슨 주가는 황의 회자 사진은 최태원 웃고 울고 엑스"
     ],
@@ -218,13 +206,21 @@
     [
      "2026-11-10T02:55:25.678487+09:00",
      "갈등 한국도 곳곳서 데이터센터 님비 조짐 흔든 선거판"
+    ],
+    [
+     "2026-11-10T03:31:25.959774+09:00",
+     "반도체 가계에 IT 장바구니 수출 비명 지갑 긴장 전선 미국 닫는"
+    ],
+    [
+     "2026-11-10T03:31:25.959774+09:00",
+     "꼽힌 2027년 마이크론 불씨 최고 살린 테크놀로지 인공지능 유망주"
+    ],
+    [
+     "2026-11-10T03:31:25.959774+09:00",
+     "부산 CES 블록체인 최고혁신상 스타트업 안암145 사이버보안"
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/economy/2386329.htm",
-    "https://www.news1.kr/local/gwangju-jeonnam/6347506",
-    "https://www.newsis.com/view/NISX20261109_0003860123",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=624736",
     "https://www.goodkyung.com/news/articleView.html?idxno=293248",
     "https://www.gokorea.kr/news/articleView.html?idxno=884734",
     "https://www.wikitree.co.kr/articles/1172988",
@@ -1720,13 +1716,13 @@
     "https://www.fnnews.com/news/202611100130096414",
     "https://www.hankyung.com/article/2026110957401",
     "https://www.kmib.co.kr/article/20261109501816",
-    "https://www.kmib.co.kr/article/20261109501886"
+    "https://www.kmib.co.kr/article/20261109501886",
+    "http://www.dailyesports.com/view.php?ud=202611100326283345b91e133c1f_27",
+    "https://www.g-enews.com/view.php?ud=20261109181419314fbbec65dfb_1",
+    "https://www.g-enews.com/view.php?ud=202611091812261516fbbec65dfb_1",
+    "https://www.busan.com/view/busan/view.php?code=2026110916040981083"
    ],
    "seen_titles": [
-    "SK에코,구성원가족과종로·인사동일대서도심플로깅진행",
-    "TSMC“메모리진출안해”…엔비디아발확장설부인",
-    "[OpeningMarket]KOSPIBattlestoHold5,000AmidHeavyForeignSellin",
-    "테슬라·스페이스X'테라팹'건설본격화⋯삼성.SK하이닉스영향",
     "SKhynixtoexpandU.S.workforcetodeepentieswithkeyclients",
     "LGU+,초고속인터넷이용경험평가서7개지표1위권",
     "'휴식은독,뚝심은고집'90승신화kt,허무하게놓친통합우승",
@@ -3222,10 +3218,14 @@
     "'속슬'20%폭등속엔비디아는장중9%급락…\"젠슨황교체가최대불...",
     "[특파원칼럼]도장찍는일본,그너머의변화",
     "수출·투자·내수모두반도체만쳐다봐…‘쏠림의그늘’커진다",
-    "美선거판흔든‘데이터센터님비’…한국도곳곳서갈등조짐"
+    "美선거판흔든‘데이터센터님비’…한국도곳곳서갈등조짐",
+    "[롤드컵]결승좌절T1,13년만에LPL팀다전제패배",
+    "지갑닫는미국가계에장바구니비명…IT·반도체수출전선긴장",
+    "인공지능불씨살린마이크론테크놀로지,2027년최고유망주꼽힌내...",
+    "부산블록체인·사이버보안스타트업안암145,CES최고혁신상"
    ],
    "initialized": true,
-   "last_run": "2026-11-10T03:05:25.036595+09:00"
+   "last_run": "2026-11-10T03:31:25.959774+09:00"
   }
  },
  "press_names": {
