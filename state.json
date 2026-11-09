@@ -418,15 +418,21 @@
     [
      "2026-11-10T07:15:26.700580+09:00",
      "SK하이닉스 소액주주 LS일렉트릭 주목받는 폭발적 증가로 이유"
+    ],
+    [
+     "2026-11-10T07:25:19.186732+09:00",
+     "국내외 알아야 경제뉴스"
+    ],
+    [
+     "2026-11-10T07:25:19.186732+09:00",
+     "상장 앞둔 페이블 앤트로픽 모델 미토스 프런티어 공개"
+    ],
+    [
+     "2026-11-10T07:25:19.186732+09:00",
+     "유입에 저가매수 뉴욕증시 나스닥 상승"
     ]
    ],
    "seen_urls": [
-    "http://www.kjdaily.com/article.php?aid=1794195877691640276",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081233",
-    "http://www.kjdaily.com/article.php?aid=1794196249691625276",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=451506",
-    "https://www.tokenpost.kr/news/blockchain/434999",
-    "http://www.newslock.co.kr/news/articleView.html?idxno=139635",
     "https://www.huffingtonpost.kr/article/261905",
     "https://sateconomy.co.kr/news/view/1065584513460782",
     "http://www.opinionnews.co.kr/news/articleView.html?idxno=146838",
@@ -1920,15 +1926,15 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502553",
     "https://www.smartbizn.com/news/articleView.html?idxno=158904",
     "https://www.gokorea.kr/news/articleView.html?idxno=884809",
-    "https://www.busan.com/view/busan/view.php?code=2026111007115810724"
+    "https://www.busan.com/view/busan/view.php?code=2026111007115810724",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=54493",
+    "https://biz.chosun.com/stock/stock_general/2026/11/10/PO4BSEMO5VA3NIEHENQT73HPCA/",
+    "https://www.ytn.co.kr/_ln/0102_202611100718324562",
+    "https://www.fntimes.com/html/view.php?ud=202611100710183972141825007d_18",
+    "https://www.dt.co.kr/article/12094133",
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=365928"
    ],
    "seen_titles": [
-    "그로쓰리서치\"P에서Q로이동하는메모리호황...후공정기업실적개선...",
-    "SK바이오팜,미국진출플랫폼'링스'입주사31곳확정",
-    "매디슨황불참에맥빠진'엔비디아데이'…정부·국내기업도'당혹'",
-    "울산에데이터센터이어'아마존공익지원펀드'도",
-    "결국재벌과고소득자에게…나라의'보이지않는예산'이쏠리는곳",
-    "[제약·바이오트렌드]광동제약,‘장원환’기억력개선기전규명…...",
     "젠슨황주도한'AI동맹'…엔비디아관련기업들'오너리스크'촉각",
     "아시아나IDT·한진칼우30%육박…20%이상상승17개",
     "사회적가치연구원,베이징포럼서AI기반사회적가치창출미래제시",
@@ -3422,10 +3428,16 @@
     "ASML부터KLA까지폭등랠리…반도체장비주에무슨일?",
     "\"겨우반등했는데\"삼성전자·SK하이닉스,젠슨황사태에또'날벼락'",
     "SK하이닉스·LS일렉트릭,소액주주폭발적증가로주목받는이유",
-    "뉴욕증시,AI주저가매수에반등…엔비디아만4%대급락"
+    "뉴욕증시,AI주저가매수에반등…엔비디아만4%대급락",
+    "트럼프발언에유가급락…반도체와빅테크급반등",
+    "소액주주24%늘었는데보유주식은10%감소…대형주쏠림심화",
+    "[스타트경제]'젠슨황오너리스크'엔비디아나홀로하락...'깐부'한국...",
+    "[KFT모닝브리프]2026.11.10—오늘꼭알아야할국내외경제뉴스",
+    "상장앞둔앤트로픽,프런티어AI모델‘페이블·미토스5.2’공개",
+    "저가매수유입에뉴욕증시상승…나스닥2.7%↑"
    ],
    "initialized": true,
-   "last_run": "2026-11-10T07:20:28.878680+09:00"
+   "last_run": "2026-11-10T07:25:19.186732+09:00"
   }
  },
  "press_names": {
