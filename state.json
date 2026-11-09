@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-09T15:00:40.285566+09:00",
-     "뚫어 기술만으론 SK바이오팜 시장 국내 현지 31곳에 바이오"
-    ],
-    [
-     "2026-11-09T15:00:40.285566+09:00",
-     "증권가 1만피 전망도 코스피 5000선 외치던 후퇴하자"
-    ],
-    [
-     "2026-11-09T15:00:40.285566+09:00",
-     "부담 블루 속출 낮춘다 신저가 반대매매 쓰나미"
-    ],
-    [
-     "2026-11-09T15:00:40.285566+09:00",
-     "반도체 달라 사실과 재정 대표가 카페 광주특별시 심사"
-    ],
-    [
      "2026-11-09T15:05:20.864038+09:00",
      "입은 읽는 시부터 11월 편의 가을 탈춤까지 노래로 문화예술"
     ],
@@ -1154,11 +1138,13 @@
     [
      "2026-11-09T20:55:21.435749+09:00",
      "없다 규제에 내놓는데 사람"
+    ],
+    [
+     "2026-11-09T21:00:42.068129+09:00",
+     "편입 AI반도체 생태계 엔비디아 국산"
     ]
    ],
    "seen_urls": [
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611091027467070167",
-    "https://www.widedaily.com/news/articleView.html?idxno=303077",
     "https://thetracker.co.kr/View.aspx?No=4303224",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=173009",
     "https://www.g-enews.com/view.php?ud=2026110610402770941d2373fc0f_1",
@@ -2656,11 +2642,11 @@
     "http://www.ujeil.com/news/articleView.html?idxno=395002",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1543188",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=280847",
-    "https://www.edaily.co.kr/News/Read?newsId=04880646645644080&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=04880646645644080&mediaCodeNo=257",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261109205727B7a",
+    "https://www.khan.co.kr/article/202611092056015"
    ],
    "seen_titles": [
-    "지난주이틀간10％이상폭락했던삼전닉스,오늘장초반상승세",
-    "TSMC,엔비디아요청에메모리사업진출설…\"생산계획수립착수\"",
     "무너진'LPL불패'…T1,BLG에1대3패배'롤드컵4연패무산'",
     "과기정통부,‘SK호라이즌’신설위한SK브로드밴드분할인가심사착...",
     "화순군,반도체소부장기업유치본격…서남권반도체산업핵심거점...",
@@ -4158,10 +4144,12 @@
     "울산,'아마존코리아커뮤니티펀드'유치성공",
     "[월드e브리핑]앤트로픽,기술주급락에도26일이전IPO완료방침",
     "WarDividesFortunes:HugeEarningsforRefiners,BigLossestoPetroc",
-    "[미리보는이데일리신문]규제에집내놓는데규제에살사람없다"
+    "[미리보는이데일리신문]규제에집내놓는데규제에살사람없다",
+    "코스피,美반도체반등에도하락…5,000선'턱걸이'",
+    "국산AI반도체,엔비디아생태계편입"
    ],
    "initialized": true,
-   "last_run": "2026-11-09T20:55:21.435749+09:00"
+   "last_run": "2026-11-09T21:00:42.068129+09:00"
   }
  },
  "press_names": {
