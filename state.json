@@ -481,11 +481,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/it-science/internet-platform/6347649",
-    "https://www.ilovepc.co.kr/news/articleView.html?idxno=61264",
-    "https://www.newspim.com/news/view/20261109000485",
-    "https://www.mydaily.co.kr/page/view/2026110913175711003",
-    "http://www.inews24.com/view/2024037",
     "https://www.sisajournal.com/news/articleView.html?idxno=393315",
     "https://www.datanet.co.kr/news/articleView.html?idxno=215710",
     "https://www.yna.co.kr/view/AKR20261109083400017?input=1195m",
@@ -1980,14 +1975,14 @@
     "http://www.newskr.kr/news/articleView.html?idxno=107827",
     "https://www.yna.co.kr/view/AKR20261110017900009?input=1195m",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=285747",
-    "https://www.hankyung.com/article/2026111062896"
+    "https://www.hankyung.com/article/2026111062896",
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5229963",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708322",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000081092",
+    "https://www.kado.net/news/articleView.html?idxno=2083784",
+    "https://www.dt.co.kr/article/12094136"
    ],
    "seen_titles": [
-    "엔비디아,피지컬AI플랫폼전략본격화⋯韓협력확대",
-    "대외금리상승·증시반등에약세…국고3년3.7bp↑",
-    "엔비디아,현대차·두산·LG와피지컬AI협력…가상공장서로봇훈련",
-    "화순군,동복댐증축계기로반도체소부장유치전략구체화",
-    "지안♥엄정욱결혼식포착...행복한미소",
     "배우지안,前야구선수엄정욱과결혼…키스로서약·신랑직접축가",
     "인천웨이브,2026KEL이터널리턴정상⋯7라운드접전끝우승",
     "엔비디아,두산·현대·LG·SK에'하트\"…\"韓피지컬AI핵심역할\"",
@@ -3482,10 +3477,15 @@
     "[오늘의이슈]엔비디아4%대하락...미국소비자물가지수발표",
     "'젠슨황리스크'엔비디아시총258조원증발…나홀로급락",
     "새경영진첫무대될SK그룹'CEO세미나'…미래AI성과창출정조준",
-    "\"SK케미칼,주력인화학사업수익성악화우려…목표가↓\"-삼성"
+    "\"SK케미칼,주력인화학사업수익성악화우려…목표가↓\"-삼성",
+    "뉴욕증시급등,엔비디아는4.27%나홀로급락",
+    "‘젠슨황리스크’엔비디아시총258조원증발…나홀로급락",
+    "美반도체주일제히급등했는데엔비디아만4.27%하락…258조원증발",
+    "'젠슨황리스크'엔비디아하루새시총258조원증발",
+    "삼전·하닉말고핫한‘이종목’…1년반새720%소액주주늘었다"
    ],
    "initialized": true,
-   "last_run": "2026-11-10T07:45:25.359465+09:00"
+   "last_run": "2026-11-10T07:50:26.125495+09:00"
   }
  },
  "press_names": {
