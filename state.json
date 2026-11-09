@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-09T18:46:08.360113+09:00",
-     "정체 수요 이중고 요금까지 시장 도시가스 급등 산업용"
-    ],
-    [
      "2026-11-09T18:50:29.336938+09:00",
      "IB 제자리 수익성 5배 키운 시험대 우투증권 남기천 연임"
     ],
@@ -318,11 +314,17 @@
     [
      "2026-11-10T00:45:27.784917+09:00",
      "이유 승격에도 3년 김주찬이 수원 숙인 고개 로컬 보이"
+    ],
+    [
+     "2026-11-10T00:50:28.221790+09:00",
+     "앤트로픽 분수령 될까 IPO가 흔들리는 외국인 매도세"
+    ],
+    [
+     "2026-11-10T00:50:28.221790+09:00",
+     "신뢰 문제로 사생활이 외도 인정 확산 젠슨 AI산업"
     ]
    ],
    "seen_urls": [
-    "https://www.busan.com/view/busan/view.php?code=2026110910131724331",
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2312345",
     "http://www.inews24.com/view/2023984",
     "https://www.jejudomin.co.kr/news/articleView.html?idxno=402130",
     "https://www.kado.net/news/articleView.html?idxno=2083512",
@@ -1820,11 +1822,11 @@
     "https://www.donga.com/news/Economy/article/all/20261109/134994794/2",
     "https://www.chosun.com/economy/tech_it/2026/11/10/6UOHSQ7KM5GMVJEXA4CF4EQL6E/",
     "https://www.chosun.com/politics/politics_general/2026/11/10/4GWIPNJMBBEAVI4VOBV3HFMHJ4/",
-    "https://www.goal.com/kr/뉴스/a/blt7fb75f8836102887"
+    "https://www.goal.com/kr/뉴스/a/blt7fb75f8836102887",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=624947",
+    "https://www.chosun.com/economy/tech_it/2026/11/10/U2P5L7BGTJDIVM7YSIUX7345NY/"
    ],
    "seen_titles": [
-    "코스피,'5천피'공방후1%대상승세…코스닥도상승전환",
-    "화순군,반도체소부장기업유치…산업거점육성본격화",
     "엔비디아AI데이서울2026개막…피지컬AI·에이전틱AI등국내산업...",
     "불륜인정젠슨황,이사회는신뢰…中정보기관의혹은변수",
     "넷마블,신작성과로증명할때...증권가기대감up",
@@ -3322,10 +3324,12 @@
     "중동전쟁에정유웃고석화울어…당분간실적격차지속될듯",
     "美규제에…글로벌반도체장비,中매출비율‘뚝’",
     "돈낸기업총수는증인빼줬다…의원들‘국감비즈니스’",
-    "[GOAL수원]수원'로컬보이'김주찬이승격에도고개숙인이유…\"3년..."
+    "[GOAL수원]수원'로컬보이'김주찬이승격에도고개숙인이유…\"3년...",
+    "[증시진단]앤트로픽IPO가분수령될까?외국인매도세속흔들리는코...",
+    "젠슨황,외도인정…사생활이AI산업신뢰문제로확산"
    ],
    "initialized": true,
-   "last_run": "2026-11-10T00:45:27.784917+09:00"
+   "last_run": "2026-11-10T00:50:28.221790+09:00"
   }
  },
  "press_names": {
