@@ -490,17 +490,17 @@
     [
      "2026-11-11T07:55:20.226666+09:00",
      "가치 엔비디아 구글도 투자 13조원씩 앤트로픽 4조달러"
+    ],
+    [
+     "2026-11-11T08:00:40.638529+09:00",
+     "노재헌 대사 의혹 비자금 대통령 입건 노태우 동아시아문화재단"
+    ],
+    [
+     "2026-11-11T08:00:40.638529+09:00",
+     "농어촌 행복Dream도서관 추가 7곳 32곳 누적"
     ]
    ],
    "seen_urls": [
-    "https://news.bizwatch.co.kr/article/mobile/2026/11/10/0004",
-    "https://www.wolyo.co.kr/news/articleView.html?idxno=320257",
-    "https://www.newstree.kr/newsView/ntr202611100001",
-    "https://biz.sbs.co.kr/article_hub/20000345284?division=NAVER",
-    "https://www.redaily.co.kr/news/articleView.html?idxno=18147",
-    "http://www.joseilbo.com/news/news_read.php?uid=579289&class=53",
-    "https://www.dongponews.net/news/articleView.html?idxno=61566",
-    "https://www.sedaily.com/article/20112300",
     "https://www.ppss.kr/news/articleView.html?idxno=320054",
     "https://kpenews.com/View.aspx?No=4304844",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=881608",
@@ -1992,17 +1992,17 @@
     "https://www.etoday.co.kr/news/view/2646523",
     "https://biz.sbs.co.kr/article_hub/20000345564?division=NAVER",
     "https://biz.sbs.co.kr/article_hub/20000345565?division=NAVER",
-    "https://www.yna.co.kr/view/AKR20261111018100009?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261111018100009?input=1195m",
+    "https://www.gokorea.kr/news/articleView.html?idxno=885000",
+    "https://www.gokorea.kr/news/articleView.html?idxno=885001",
+    "http://www.beyondpost.co.kr/view.php?ud=20261111075326416746a9e4dd7f_30",
+    "https://biz.sbs.co.kr/article_hub/20000345584?division=NAVER",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261111075411Rwr",
+    "https://www.hankyung.com/article/2026111189066",
+    "https://www.gokorea.kr/news/articleView.html?idxno=884999",
+    "https://www.news1.kr/life-culture/book/6349808"
    ],
    "seen_titles": [
-    "[미래에셋그룹인사]디지털엑스노용우부사장내정,경영체제정비나...",
-    "[신윤우의외환분석]중동훈풍에기술주회복까지…잠깐의안도감",
-    "SKT직원이만든AI에이전트,악성앱피해514억막았다",
-    "삼전6%·하닉9%급등...코스피매수사이드카발동하며5300선회복",
-    "젠슨황'불륜'에엔비디아株나홀로급락…뿔난주주들'집단소송'",
-    "[하우머니]美AI규제공포는'성장통'…투자자안심해도되는이유는...",
-    "[리더십경영](100)'윤리리더십'은기업의가장값비싼자산",
-    "YG엔터,실적부진에주가4만원초반대…\"상승여력50∼60%\"[주가동향]",
     "젠슨황의불륜의혹,파장어디까지…세계AI·반도체업계초긴장",
     "‘간첩불륜’中수출스캔들,솔리다임도영향권[트럼프스톡커]",
     "코스피5%대급반등…삼성전자20만원·SK하이닉스120만원선회복",
@@ -3494,10 +3494,18 @@
     "KB證“TSMC사상최대매출이증명한AI수요⋯삼전·SK하닉낙폭과도...",
     "[비즈나우]韓반도체'극과극'…앤트로픽반전될까",
     "[애프터마켓리뷰]NHN,분기최대실적에상한가…클라우드매출이효...",
-    "앤트로픽가치최대1.4조달러…엔비디아·구글도13조원씩투자"
+    "앤트로픽가치최대1.4조달러…엔비디아·구글도13조원씩투자",
+    "SK그룹,AI전략세미나개최로미래경쟁력강화나선다",
+    "SK그룹,인공지능과에너지혁신으로미래를설계하다-최태원회장의...",
+    "미래에셋증권,증권사브랜드평판2026년11월...1위",
+    "앤트로픽,최대1.4조달러조달…엔비디아·구글100억달러씩투자",
+    "[3분증시]뉴욕증시,CPI상회·매파발언에동반하락",
+    "美물가부담에금리인상가능성커져…나스닥0.74%↓[뉴욕증시브리...",
+    "노태우전대통령비자금의혹,노재헌대사입건...동아시아문화재단...",
+    "농어촌'행복Dream도서관'7곳추가…누적32곳"
    ],
    "initialized": true,
-   "last_run": "2026-11-11T07:55:20.226666+09:00"
+   "last_run": "2026-11-11T08:00:40.638529+09:00"
   }
  },
  "press_names": {
