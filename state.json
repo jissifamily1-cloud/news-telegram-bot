@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-10T06:20:28.061447+09:00",
-     "밀렸다 넘게 엔비디아만 나스닥 급등"
-    ],
-    [
-     "2026-11-10T06:20:28.061447+09:00",
-     "미국 투심 회복 급락에도 엔비디아 반도체주 급등"
-    ],
-    [
-     "2026-11-10T06:20:28.061447+09:00",
-     "kt에 칸터 활약 삼성 27점 선두 변함없는 승리로 지켜"
-    ],
-    [
-     "2026-11-10T06:20:28.061447+09:00",
-     "내일의 11일 경기"
-    ],
-    [
      "2026-11-10T06:25:20.986369+09:00",
      "뉴욕증시 반등 코스피 기대 반도체주도"
     ],
@@ -1158,11 +1142,13 @@
     [
      "2026-11-10T12:15:23.913152+09:00",
      "두산에너빌리티 기관 외국인 한온시스템 삼성전자"
+    ],
+    [
+     "2026-11-10T12:25:20.238653+09:00",
+     "SK하이닉스 곳간의 세금만 2조 변화 육박 이천시"
     ]
    ],
    "seen_urls": [
-    "https://www.lawissue.co.kr/view.php?ud=2026110916235393249817d053b9_12",
-    "https://www.newsian.co.kr/news/articleView.html?idxno=100892",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=325327",
     "https://www.kado.net/news/articleView.html?idxno=2083595",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713874",
@@ -2660,11 +2646,11 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708596",
     "https://imnews.imbc.com/replay/2026/nw1200/article/6864526_36967.html",
     "https://www.newstnt.com/news/articleView.html?idxno=727642",
-    "https://www.christiantoday.co.kr/news/378518"
+    "https://www.christiantoday.co.kr/news/378518",
+    "https://www.yna.co.kr/view/AKR20261110092600062?input=1195m",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4443967"
    ],
    "seen_titles": [
-    "프로농구KT,3년만에신인드래프트1순위확보",
-    "SKT·엔비디아·리벨리온,GPU·NPU결합한소버린AI인프라개발",
     "코스피,장중2%대상승반납하고하락마감…5000선'턱걸이'",
     "'전강후약'코스피,약보합종료…5018.85마감",
     "'반도체깐부'젠슨황공작의혹…삼성·SK하이닉스협력영향우려",
@@ -4162,10 +4148,12 @@
     "코스피4~5%대급등…코스피·코스닥잇따라매수사이드카",
     "반도체훈풍에‥코스피·코스닥'매수사이드카'",
     "[특징주]외국인'한온시스템·두산에너빌리티',기관'삼성전자·대한...",
-    "코스피5300돌파..삼성전자·SK하이닉스급등에‘매수사이드카’"
+    "코스피5300돌파..삼성전자·SK하이닉스급등에‘매수사이드카’",
+    "국힘\"강릉AIDC유치,SK와합의없었다\"…우상호수사촉구",
+    "SK하이닉스세금만2조육박…이천시곳간의변화"
    ],
    "initialized": true,
-   "last_run": "2026-11-10T12:20:25.921987+09:00"
+   "last_run": "2026-11-10T12:25:20.238653+09:00"
   }
  },
  "press_names": {
