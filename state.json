@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-10T12:45:23.831719+09:00",
-     "코스닥 9일 코스피 주요공시 거래일"
-    ],
-    [
-     "2026-11-10T12:45:23.831719+09:00",
-     "재계약할까 공헌한 라이온즈의 우승에 페덱 삼성"
-    ],
-    [
-     "2026-11-10T12:45:23.831719+09:00",
-     "주도하는 놀라운 대기업 수출 상승세 폭풍 반도체가 성장"
-    ],
-    [
      "2026-11-10T12:50:24.845876+09:00",
      "선거 데이터센터 강원도지사 진실 논란 합의 밝혀질까"
     ],
@@ -1302,15 +1290,17 @@
     [
      "2026-11-10T18:40:27.668790+09:00",
      "정부안 스테이블코인법 23일께 격돌 예고 여야 제출"
+    ],
+    [
+     "2026-11-10T18:45:25.618808+09:00",
+     "선발 10명 카탈리스트 현업 AX 과제 지원 SKT"
+    ],
+    [
+     "2026-11-10T18:45:25.618808+09:00",
+     "공개 초격차 바이오 혁신기술 총출동 스타트업 대거"
     ]
    ],
    "seen_urls": [
-    "https://www.dt.co.kr/article/12094136",
-    "https://www.slist.kr/news/articleView.html?idxno=780296",
-    "http://www.yonhapnewstv.co.kr/news/MYH20261110075243vWY",
-    "https://www.etoday.co.kr/news/view/2646023",
-    "https://www.ngonews.kr/news/articleView.html?idxno=242716",
-    "https://biz.sbs.co.kr/article_hub/20000345274?division=NAVER",
     "https://www.slist.kr/news/articleView.html?idxno=780297",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611100018&t=NN",
     "https://view.asiae.co.kr/article/2026111007560629647",
@@ -2804,15 +2794,15 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=881911",
     "http://www.00news.co.kr/news/articleView.html?idxno=107910",
     "http://www.yonhapnewstv.co.kr/news/AKR20261110183500irI",
-    "https://www.edaily.co.kr/News/Read?newsId=05782646645644408&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=05782646645644408&mediaCodeNo=257",
+    "https://www.kfenews.co.kr/news/articleView.html?idxno=667895",
+    "http://www.paxetv.com/news/articleView.html?idxno=286550",
+    "https://www.hani.co.kr/arti/economy/it/1286690.html",
+    "https://www.ajunews.com/view/20261110155852824",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611101807159130472",
+    "https://www.dt.co.kr/article/12094368"
    ],
    "seen_titles": [
-    "‘젠슨황리스크’엔비디아시총258조원증발…나홀로급락",
-    "美반도체주일제히급등했는데엔비디아만4.27%하락…258조원증발",
-    "'젠슨황리스크'엔비디아하루새시총258조원증발",
-    "삼전·하닉말고핫한‘이종목’…1년반새720%소액주주늘었다",
-    "'젠슨황불륜리스크'엔비디아시총258조원증발…나홀로급락",
-    "[3분증시]뉴욕증시,저가매수에3대지수상승",
     "[전날애프터마켓]삼성전자·SK하이닉스약세전환…알테오젠등은낙...",
     "국내상장사소액주주24.2%증가…삼성전자797만명·SK하이닉스346만명",
     "[애프터마켓리뷰]AI데이터센터투자확대에광통신주급등",
@@ -4306,10 +4296,16 @@
     "[현장]두나무D-CON···美는코인속도전,韓은법안지연",
     "['클릭'증시]코스피4%대반등...반도체상승속엔디비아'어쩌나'",
     "농해수위'농어촌상생기금기업출연강화'추진…국감서논란도",
-    "“스테이블코인법정부안23일께제출”…여야격돌예고(종합)"
+    "“스테이블코인법정부안23일께제출”…여야격돌예고(종합)",
+    "Sh수협은행,CSF내부조직'확대'…기업금융신용분석역량강화",
+    "삼성전자·SK하이닉스동반강세…코스피,5200선회복",
+    "통신3사,본업딛고AI인프라로…데이터센터확충각축전",
+    "반도체훈풍에얼어붙은증시해빙…코스피4거래일만에반등",
+    "[AI딥다이브]SKT,‘AX카탈리스트’10명선발…현업AI과제지원",
+    "AI·바이오혁신기술대거공개…초격차스타트업‘총출동’"
    ],
    "initialized": true,
-   "last_run": "2026-11-10T18:40:27.668790+09:00"
+   "last_run": "2026-11-10T18:45:25.618808+09:00"
   }
  },
  "press_names": {
