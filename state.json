@@ -726,20 +726,13 @@
     [
      "2026-11-10T09:15:25.909233+09:00",
      "모두의 피플앤드테크놀러지 헬스케어 SKT 접목 서비스"
+    ],
+    [
+     "2026-11-10T09:20:26.578285+09:00",
+     "집단 다르다 자신감이 신기술에 투자자 이번엔 도취 거품"
     ]
    ],
    "seen_urls": [
-    "https://thetracker.co.kr/View.aspx?No=4303806",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=280813",
-    "https://www.mt.co.kr/stock/2026/11/09/2026110910045569372",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489869",
-    "https://news.jtbc.co.kr/article/NB12327175?influxDiv=NAVER",
-    "https://gamefocus.co.kr/detail.php?number=180378",
-    "https://www.edaily.co.kr/News/Read?newsId=03263606645644080&mediaCodeNo=257",
-    "https://www.jemin.com/news/articleView.html?idxno=846533",
-    "https://www.etoday.co.kr/news/view/2645847",
-    "https://www.mk.co.kr/article/12202406",
-    "https://www.munhwa.com/article/11629932",
     "https://www.dt.co.kr/article/12093974",
     "https://www.ngonews.kr/news/articleView.html?idxno=242678",
     "https://theviewers.co.kr/View.aspx?No=4303797",
@@ -2228,19 +2221,20 @@
     "https://www.namdonews.com/news/articleView.html?idxno=928710",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003283354&CMPT_CD=P0010",
     "https://www.news1.kr/it-science/cc-newmedia/6348564",
-    "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171716"
+    "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171716",
+    "https://www.mydaily.co.kr/page/view/2026110916562532323",
+    "https://biz.chosun.com/stock/stock_general/2026/11/10/DMHLTVLRVZAEROAUQ53LTPFAS4/",
+    "https://www.hankyung.com/article/2026111066566",
+    "https://www.newsis.com/view/NISI20261110_0021526933",
+    "https://www.newsis.com/view/NISI20261110_0021526932",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502593",
+    "http://www.newscape.co.kr/news/articleView.html?idxno=125688",
+    "https://www.m-economynews.com/news/article.html?no=72803",
+    "https://www.newsis.com/view/NISX20261110_0003861481",
+    "https://www.khan.co.kr/article/202611100914001",
+    "https://www.chosun.com/economy/economy_general/2026/11/10/JREG5RSNKVAVHHZF5BUTG4E73I/"
    ],
    "seen_titles": [
-    "SK네트웍스,3분기실적발표…AI전환본격화",
-    "SKT,국산NPU와엔비디아GPU묶는다…한국형소버린AI동맹결성",
-    "코스피,하락출발뒤반등…삼성전자·SK하이닉스상승",
-    "엔비디아가부른TSMC'D램개발'…삼성·SK'메모리3강'흔드나",
-    "엔비디아로보틱스부사장\"한국,향후10년간피지컬AI핵심역할\"",
-    "\"韓NPU로엔비디아와협력\"…리벨리온·SKT'소버린AI'동맹",
-    "SKT,엔비디아·리벨리온과손잡고한국형소버린AI구축",
-    "SKT,엔비디아·리벨리온과GPU·NPU결합…소버린AI인프라구축",
-    "SKBiopharmaExpandsU.S.InnovationHub",
-    "[알림]KT&G,머니투데이IR대상2년연속종합대상",
     "[단독]휴대폰개통때민간인증2개로가능···복합인증체계추진",
     "\"주식갖고있으라\"던최태원,\"롤러코스피\"경고…9440억팔아재산분할...",
     "한국e스포츠협회'2026KEL'이터널리턴최종결선종료...인천웨이브...",
@@ -3730,10 +3724,20 @@
     "[개장시황]코스피,장초반4.9%급등해5,260선근접…코스닥도4%대강...",
     "KT추격잠재운한방...'베테랑'한호빈의관록",
     "\"AI잘쓰는직원밀어준다\"…SKT,사내AX'교육→성과확산'전환",
-    "피플앤드테크놀러지·SKT'모두의AI'에헬스케어서비스접목"
+    "피플앤드테크놀러지·SKT'모두의AI'에헬스케어서비스접목",
+    "두산,전자소재앞세워체질개선…반도체확장속도",
+    "美반도체훈풍에코스피4%대급등…양시장매수사이드카발동",
+    "코스피5%급등에매수사이드카…삼성전자5%·SK하이닉스7%↑",
+    "반도체주식급등",
+    "코스피,美반도체주반등에5270선탈환...코스닥도4%대상승",
+    "상장사소액주주24%급증…삼성전자·SK하이닉스쏠림현상심화",
+    "배터리경쟁,전기차밖으로...LG엔솔·삼성SDI‘CES2027혁신상’",
+    "삼전닉스강세에코스피,장초반5%대급반등…'매수사이드카'발동",
+    "[속보]코스피4~5%급등···매수사이드카발동",
+    "“신기술에투자자또집단도취…‘이번엔다르다’는자신감이거품..."
    ],
    "initialized": true,
-   "last_run": "2026-11-10T09:15:25.909233+09:00"
+   "last_run": "2026-11-10T09:20:26.578285+09:00"
   }
  },
  "press_names": {
