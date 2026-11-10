@@ -538,14 +538,21 @@
     [
      "2026-11-11T08:05:21.093597+09:00",
      "당원 ARS 1000명 투표권 발표치 국힘 용인갑 박탈 누락"
+    ],
+    [
+     "2026-11-11T08:10:27.726116+09:00",
+     "호조 SK증권 수익성 개선 화장품 매출 패션 신세계인터내셔날 4분기"
+    ],
+    [
+     "2026-11-11T08:10:27.726116+09:00",
+     "하계 노선 운항 내년 매일 코펜하겐 인천 SAS"
+    ],
+    [
+     "2026-11-11T08:10:27.726116+09:00",
+     "법정 정산 갈등 600억 알뜰주유소 공방 vs 정유사 번지나"
     ]
    ],
    "seen_urls": [
-    "https://www.thepowernews.co.kr/view.php?ud=202611101015278419de3f0aa1be_7",
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=82351",
-    "https://www.joongangenews.com/news/articleView.html?idxno=562555",
-    "https://www.etnews.com/20261110000132",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838429&plink=ORI&cooper=NAVER",
     "https://www.segye.com/newsView/20261110504500?OutUrl=naver",
     "https://www.fetv.co.kr/news/articleView.html?idxno=313416",
     "https://kr.aving.net/news/articleView.html?idxno=1816844",
@@ -2040,14 +2047,14 @@
     "https://www.gokorea.kr/news/articleView.html?idxno=885008",
     "https://www.newspim.com/news/view/20261110000910",
     "https://www.yna.co.kr/view/AKR20261111018000011?input=1195m",
-    "https://www.dt.co.kr/article/12094415"
+    "https://www.dt.co.kr/article/12094415",
+    "https://biz.newdaily.co.kr/site/data/html/2026/11/11/2026111100027.html",
+    "https://www.yna.co.kr/view/AKR20261111021500008?input=1195m",
+    "http://www.popcornnews.net/news/articleView.html?idxno=139462",
+    "https://www.yna.co.kr/view/AKR20261111022000542?input=1195m",
+    "https://www.gokorea.kr/news/articleView.html?idxno=885022"
    ],
    "seen_titles": [
-    "게임의존도낮추는크래프톤…기업용AI사업본격화",
-    "에이텍솔루션,1514억원투자아산신공장준공…반도체재생웨이퍼국...",
-    "코스피·코스닥동반급등에매수사이드카…반도체주강세",
-    "젠슨황發악재'나홀로추락'엔비디아…시총258조원증발",
-    "[개장시황]코스피,사흘만에5%대급반등…양시장매수사이드카",
     "전자랜드,결식우려아동7가구에생활가전기증",
     "[자막뉴스]'젠슨황리스크'로엔비디아하루새258조증발…\"배상하...",
     "[속보]삼전·하이닉스급등에장초반코스피·코스닥나란히매수사...",
@@ -3542,10 +3549,15 @@
     "한국거래소애프터마켓한달,개인투자자들매수·매도종목은?",
     "[GAM]MU3000달러'파격전망'①전통메모리사이클에서성장주변신",
     "[전국주요신문톱뉴스](11일조간)",
-    "[단독]국힘‘용인갑ARS누락’에당원1000명투표권박탈…당발표치..."
+    "[단독]국힘‘용인갑ARS누락’에당원1000명투표권박탈…당발표치...",
+    "[속보]삼전닉스,프리마켓서동반하락…美물가예상상회·엔비디아...",
+    "[마켓뷰]겨우반등했는데…코스피,美'빅스텝'우려에다시흔들리나",
+    "SK증권\"신세계인터내셔날,패션·화장품매출호조…4분기수익성개선...",
+    "[여행소식]SAS,인천-코펜하겐노선내년하계매일운항",
+    "알뜰주유소vs정유사,1,600억원정산갈등'법정공방'으로번지나"
    ],
    "initialized": true,
-   "last_run": "2026-11-11T08:05:21.093597+09:00"
+   "last_run": "2026-11-11T08:10:27.726116+09:00"
   }
  },
  "press_names": {
