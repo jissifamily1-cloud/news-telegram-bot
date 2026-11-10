@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-10T07:45:25.359465+09:00",
-     "경영진 정조준 CEO 무대 성과 세미나 미래 창출 SK그룹"
-    ],
-    [
-     "2026-11-10T07:45:25.359465+09:00",
-     "화학 수익성 악화 목표가 삼성 주력인 우려 SK케미칼 사업"
-    ],
-    [
      "2026-11-10T07:55:21.039901+09:00",
      "홀로 스캔들로 반등에도 하락 258조원 날렸다 기술주 젠슨"
     ],
@@ -1062,16 +1054,21 @@
     [
      "2026-11-10T13:45:22.709323+09:00",
      "AI캠퍼스 고용노동부 가톨릭관동대 2026년도 트레이닝 디지털 추가"
+    ],
+    [
+     "2026-11-10T13:50:27.182024+09:00",
+     "실적은 올리고 내리고 모건스탠리의 내년 한국 목표주가는 반도체"
+    ],
+    [
+     "2026-11-10T13:50:27.182024+09:00",
+     "쿠팡 더하니 9000억원대 소송액 처분 기준 과징금 불명 개보위"
+    ],
+    [
+     "2026-11-10T13:50:27.182024+09:00",
+     "가전제품 도서관 봉사 개소 기증 사회공 장애아동 가정 지원 집짓기"
     ]
    ],
    "seen_urls": [
-    "https://www.getnews.co.kr/news/articleView.html?idxno=886529",
-    "https://futurechosun.com/?p=166103",
-    "https://www.mk.co.kr/article/12202613",
-    "https://www.ddaily.co.kr/page/view/2026110916245032442",
-    "https://www.ddaily.co.kr/page/view/2026110916175180006",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=268585",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=268586",
     "https://www.gukjenews.com/news/articleView.html?idxno=3746601",
     "https://www.khan.co.kr/article/202611091646001",
     "https://www.yna.co.kr/view/AKR20261109045851017?input=1195m",
@@ -2564,16 +2561,16 @@
     "https://www.ajunews.com/view/20261110133156115",
     "https://www.imaeil.com/page/view/2026111013420857943",
     "https://biz.sbs.co.kr/article_hub/20000345304?division=NAVER",
-    "https://www.veritas-a.com/news/articleView.html?idxno=636239"
+    "https://www.veritas-a.com/news/articleView.html?idxno=636239",
+    "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91775",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1731075",
+    "https://www.etnews.com/20261110000278",
+    "https://www.dt.co.kr/article/12094239",
+    "https://www.segye.com/newsView/20261110510154?OutUrl=naver",
+    "https://www.fnnews.com/news/202611101202153056",
+    "http://www.wsobi.com/news/articleView.html?idxno=321410"
    ],
    "seen_titles": [
-    "SK케미칼,3Q영업익336억원...업계불황에도흑자기록",
-    "삼전닉스,등락거듭하다소폭반등성공...지난주이틀간10%이상폭...",
-    "'반도체훈풍'에도힘못쓴삼전·닉스…소폭반등에그쳐",
-    "SK케미칼,3분기영업익164억원…업계불황속흑자유지",
-    "리벨리온·SKT\"소버린AI재정의해야…빠른이력확보로글로벌시장진...",
-    "[인터뷰]디푸탈라엔비디아부사장\"코스모스개방…연산비용80%줄...",
-    "SK케미칼3분기영업익전년比116%↑…친환경소재·제약호조영향",
     "SK바이오팜,美'링스'입주사31곳선정···바이오기업현지진출지...",
     "FC서울손정범,10월K리그영플레이어...프로데뷔후첫수상영예",
     "젠슨황,중국스파이의심여성과불륜인정…미·중기술경쟁스파이...",
@@ -4066,10 +4063,17 @@
     "모건스탠리,SK하이닉스목표가260만→160만원…삼성전자도30.9만원으...",
     "드래프트5순위잡은가스공사\"찬밥더운밥못가린다\"",
     "[직설]엇갈린전망…코스피,진짜'바닥'은?",
-    "가톨릭관동대고용노동부'2026년도K-디지털트레이닝AI캠퍼스'추가..."
+    "가톨릭관동대고용노동부'2026년도K-디지털트레이닝AI캠퍼스'추가...",
+    "[산업브리핑]LG에너지솔루션·삼성SDI·SK이노베이션",
+    "'주유소'넘어'친환경허브'로…SK에너지,탈탄소대전환",
+    "SK이노,농어촌지역7곳에'행복Dream도서관'조성",
+    "“삼전닉스30만9000원·160만원으로하향”…모건스탠리‘반도체저승...",
+    "내년실적은올리고목표주가는내리고…모건스탠리의'한국반도체경...",
+    "[단독]쿠팡더하니개보위과징금소송액9000억원대...\"처분기준불명...",
+    "장애아동가정지원·집짓기봉사·도서관개소·가전제품기증사회공..."
    ],
    "initialized": true,
-   "last_run": "2026-11-10T13:45:22.709323+09:00"
+   "last_run": "2026-11-10T13:50:27.182024+09:00"
   }
  },
  "press_names": {
