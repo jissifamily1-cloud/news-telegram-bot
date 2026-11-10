@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-10T13:10:26.082055+09:00",
-     "전자랜드 동참 주거환경개선 프로젝트"
-    ],
-    [
-     "2026-11-10T13:10:26.082055+09:00",
-     "산업장관 김정관 과감한 규제 완화 정부가 절박해야 기업보다"
-    ],
-    [
-     "2026-11-10T13:10:26.082055+09:00",
-     "로컬 5극 직무대행 주인공은 3특으 지역 살릴 이병헌 지방시대위 기업"
-    ],
-    [
      "2026-11-10T13:15:23.924829+09:00",
      "말아야 영향 젠슨 국내 산업계 과소평가 이슈"
     ],
@@ -1290,13 +1278,17 @@
     [
      "2026-11-10T19:00:42.311107+09:00",
      "금융위 개선 이진우 증시 사이드카 검토 유종우 내년 낙관론"
+    ],
+    [
+     "2026-11-10T19:10:31.179865+09:00",
+     "본점 2억 편성 용역비 검토 활용 대백 중구청"
+    ],
+    [
+     "2026-11-10T19:10:31.179865+09:00",
+     "농어촌상생기금 기업 의결 11일 개정안 노력 명문화 출연"
     ]
    ],
    "seen_urls": [
-    "https://www.the-today.com/news/articleView.html?idxno=93344",
-    "https://www.etoday.co.kr/news/view/2646033",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611051539380520108068",
-    "https://news.dealsitetv.com/articles/178249",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260907",
     "https://www.munhwa.com/article/11630075",
     "https://www.ajunews.com/view/20261110075631918",
@@ -2792,13 +2784,13 @@
     "https://www.wikileaks-kr.org/news/articleView.html?idxno=194469",
     "https://www.ccdn.co.kr/news/articleView.html?idxno=1110253",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=881913",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=902644"
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=902644",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=362252",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708921",
+    "https://news.skbroadband.com/news/articleView.html?idxno=242879",
+    "https://www.sedaily.com/article/20112691"
    ],
    "seen_titles": [
-    "[증시전망대]美기술주'V자반등'·유가급락…코스피,5,000선서재도...",
-    "[코스피·코스닥,셀트리온제약GS건설SK케미칼삼성물산롯데칠성다...",
-    "뉴욕증시반도체주저가매수에'반등'...엔비디아만4%대급락",
-    "금감원,SK이노-SKIET합병신고서또'퇴짜'…두번째정정요구왜?(1부...",
     "[증시키워드]한진칼분쟁관심유지…이차전지폭락에주목도↑",
     "[더벨][thebellnote]'반도체중간지주'SK에코플랜트",
     "[박정원의두산대전환]투자여력확보·현금흐름안정화…재무통전진...",
@@ -4294,10 +4286,14 @@
     "코스피4.39%급반등…美반도체주강세·유가하락에상승,지속여부는...",
     "곳간채워지지도않았는데...청주시벌써부터'골머리'",
     "유종우·이진우내년증시낙관론…금융위,사이드카개선검토",
-    "글로벌디지털자산경쟁가속…韓금융규제유연성부족지적"
+    "글로벌디지털자산경쟁가속…韓금융규제유연성부족지적",
+    "SK바이오팜,美K-바이오혁신상생플랫폼'링스'입주사선정",
+    "미선거충격딛고급반등…코스피·코스닥매수사이드카",
+    "대백본점중구청활용검토…용역비2억원편성",
+    "농어촌상생기금‘기업출연노력’명문화…11일개정안의결"
    ],
    "initialized": true,
-   "last_run": "2026-11-10T19:05:22.432190+09:00"
+   "last_run": "2026-11-10T19:10:31.179865+09:00"
   }
  },
  "press_names": {
