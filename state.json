@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-10T20:55:20.862585+09:00",
-     "진에어 종목 대한항공우 속출 상승 13개 상한가"
-    ],
-    [
      "2026-11-10T21:05:20.564996+09:00",
      "주요기사 아침의 비즈니스포스트"
     ],
@@ -282,10 +278,13 @@
     [
      "2026-11-11T02:25:20.533412+09:00",
      "차세대 내놓고 구글 독주 엔비디아 도전장 이틈에"
+    ],
+    [
+     "2026-11-11T03:00:41.147566+09:00",
+     "공시는 복구계획 엔비디아 없었다는 계획 과거 취재 유사시 대만"
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4443893",
     "https://en.yna.co.kr/view/AEN20261110001751320?input=2106m",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4443891",
     "https://www.news2day.co.kr/article/20261110500029",
@@ -1784,10 +1783,10 @@
     "https://www.kmib.co.kr/article/20261110501878",
     "https://www.kmib.co.kr/article/20261110501875",
     "https://www.woodkorea.co.kr/news/articleView.html?idxno=92480",
-    "https://www.kmib.co.kr/article/20261110502279"
+    "https://www.kmib.co.kr/article/20261110502279",
+    "https://www.tokenpost.kr/news/ai/436084"
    ],
    "seen_titles": [
-    "이재명정부출범전보다주가떨어졌다,상장사의무려70%가...",
     "[위클리ETF]11月2주차,‘SOLSK하이닉스인버스2X’수익률톱45.41%....",
     "[뉴욕마켓브리핑](10일)",
     "(LEAD)SeoulsharesopensharplyhigheronU.S.techrally,fallingoil",
@@ -3286,10 +3285,11 @@
     "“주식앱꺼두고버티세요…공포심에휩쓸린투매경계해야”",
     "실적도펀더멘털도괜찮은데왜폭락인가?…‘개인자금국내쏠림’돌...",
     "의무공시·검증시대대비법…SK하이닉스ESG사례한자리에",
-    "이틈에…구글,차세대칩내놓고엔비디아독주도전장"
+    "이틈에…구글,차세대칩내놓고엔비디아독주도전장",
+    "엔비디아,대만유사시계획없었다는과거취재…공시는복구계획밝혀"
    ],
    "initialized": true,
-   "last_run": "2026-11-11T02:55:20.480470+09:00"
+   "last_run": "2026-11-11T03:00:41.147566+09:00"
   }
  },
  "press_names": {
