@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-11T01:15:27.364978+09:00",
-     "증발 불륜 의혹에 하락 1921억달러 시총 주가 엔비디아 CEO"
-    ],
-    [
      "2026-11-11T01:20:28.211643+09:00",
      "추가 SK이노 개소 도서관 농어촌 7곳"
     ],
@@ -422,10 +418,13 @@
     [
      "2026-11-11T07:15:25.574769+09:00",
      "최악의 주주소송까지 엔비디아 가능성에 재산분할"
+    ],
+    [
+     "2026-11-11T07:19:55.312351+09:00",
+     "반도체 앰코 행보 하락 장비주 미국 엇갈린 온투 캠텍 상승 ASE"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/bio/pharmaceutical-bio/6348679",
     "https://www.fnnews.com/news/202611100940457673",
     "https://www.socialvalue.kr/news/view/1065573723704393",
     "https://www.newspim.com/news/view/20261110000310",
@@ -1924,10 +1923,10 @@
     "https://www.dailian.co.kr/news/view/1713179/?sc=Naver",
     "https://www.ajunews.com/view/20261111071133774",
     "https://www.globale.co.kr/news/articleView.html?idxno=41563",
-    "https://www.newsverse.kr/news/articleView.html?idxno=11884"
+    "https://www.newsverse.kr/news/articleView.html?idxno=11884",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502855"
    ],
    "seen_titles": [
-    "SK이노베이션,'행복Dream도서관'7곳조성",
     "코스피,美반도체주반등에5%대급등…5300선회복임박",
     "남인순\"K바이오세계로도약\"…블록버스터신약탄생도눈앞",
     "데이터센터규제에밀렸던반도체주,왜다시올랐나…코스피한때5300...",
@@ -3426,10 +3425,11 @@
     "삼성전자토큰도해외로…한국은‘그림의떡’",
     "[아주증시포커스]'반도체겨울'예고했던모건스탠리,삼전닉스목표가...",
     "美10월CPI쇼크·금리급등···코스피,옵션만기전야'숨고르기'",
-    "[오늘의경제뉴스]재산분할가능성에주주소송까지…엔비디아최악의..."
+    "[오늘의경제뉴스]재산분할가능성에주주소송까지…엔비디아최악의...",
+    "미국반도체장비주엇갈린행보…ASE·온투상승,캠텍·앰코하락"
    ],
    "initialized": true,
-   "last_run": "2026-11-11T07:15:25.574769+09:00"
+   "last_run": "2026-11-11T07:19:55.312351+09:00"
   }
  },
  "press_names": {
