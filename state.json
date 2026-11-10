@@ -233,7 +233,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.youthdaily.co.kr/news/article.html?no=229599",
     "https://www.businessplus.kr/news/articleView.html?idxno=119548",
     "https://www.tennis.co.kr/news/articleView.html?idxno=54276",
     "https://www.newsis.com/view/NISX20261110_0003861516",
@@ -1732,10 +1731,10 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=286020",
     "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/11/11/20261111018002?wlog_tag3=naver",
     "https://www.mediapen.com/news/view/1136531",
-    "https://www.sidae.com/article/2026111014380387418"
+    "https://www.sidae.com/article/2026111014380387418",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502834"
    ],
    "seen_titles": [
-    "민형배\"2030년첫양산\"…반도체팹건설시간표구체화",
     "[애널픽]원익IPS,호실적에도목표가↓…\"글로벌장비업체밸류하락\"",
     "빅테크韓AI데이터센터,건물·자금은국내기업이부담",
     "구리역하이니티리버파크,일반분양1530가구계약완료",
@@ -3234,10 +3233,11 @@
     "외국인韓증시이탈원인...SK하이닉스,'원주'팔고'ADR'구매쏠림",
     "“동복댐수몰,상생해야”…화순군,반도체소부장산단추진",
     "[美증시특징주]엔비디아,젠슨황불륜스캔들에이틀째급락…메모리...",
-    "억대보험료·재보험문턱…기업도막막"
+    "억대보험료·재보험문턱…기업도막막",
+    "젠슨황스캔들에엔비디아급락…국내AI반도체주불똥튀나"
    ],
    "initialized": true,
-   "last_run": "2026-11-11T05:15:25.735796+09:00"
+   "last_run": "2026-11-11T05:20:26.950369+09:00"
   }
  },
  "press_names": {
