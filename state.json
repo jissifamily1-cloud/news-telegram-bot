@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-10T12:10:26.693579+09:00",
-     "KIA 형제 수달 APBC 광주 플레 FC 출격 승강 4명"
-    ],
-    [
-     "2026-11-10T12:10:26.693579+09:00",
-     "1년 김구라 삼전 평가이익 4만원대 보니 평단 날렸다"
-    ],
-    [
-     "2026-11-10T12:10:26.693579+09:00",
-     "삼전닉스 조정 IPO가 앤트로픽 긴장되는 이유 끝났다던데"
-    ],
-    [
-     "2026-11-10T12:10:26.693579+09:00",
-     "시지바이오 로봇내시 한림대학교강남성심병원과"
-    ],
-    [
      "2026-11-10T12:15:23.913152+09:00",
      "두산에너빌리티 기관 외국인 한온시스템 삼성전자"
     ],
@@ -1274,16 +1258,21 @@
     [
      "2026-11-10T18:05:21.614617+09:00",
      "세우고 가드레일 풀어야 빗장 디지털자산"
+    ],
+    [
+     "2026-11-10T18:10:26.893685+09:00",
+     "성장보단 분배의 크래프톤"
+    ],
+    [
+     "2026-11-10T18:10:26.893685+09:00",
+     "솔루스첨단소 사업지 니켈 오염 인도네시아 리스크 모니터링 논란"
+    ],
+    [
+     "2026-11-10T18:10:26.893685+09:00",
+     "K반도체도 기술규제 비상 고삐 대중"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20112121",
-    "https://www.yna.co.kr/view/AKR20261110009751072?input=1195m",
-    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229937",
-    "https://www.public25.com/news/articleView.html?idxno=58226",
-    "https://thetracker.co.kr/View.aspx?No=4304727",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003283399&CMPT_CD=P0010",
-    "https://www.edaily.co.kr/News/Read?newsId=02774886645644408&mediaCodeNo=257",
     "https://www.kyeonggi.com/article/20261110580007",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502553",
     "https://www.smartbizn.com/news/articleView.html?idxno=158904",
@@ -2776,16 +2765,16 @@
     "https://jp.yna.co.kr/view/AJP20261110002800882?input=1728m",
     "https://www.sidae.com/article/2026111012542524287",
     "http://www.jeonmin.co.kr/news/articleView.html?idxno=450160",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2490747"
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2490747",
+    "https://www.sentv.co.kr/article/view/sentv202611100102",
+    "https://www.hankyung.com/article/2026111084431",
+    "https://www.wikileaks-kr.org/news/articleView.html?idxno=194455",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=881902",
+    "https://www.mk.co.kr/article/12204259",
+    "https://www.impacton.net/news/articleView.html?idxno=30610",
+    "https://www.segye.com/newsView/20261110516086?OutUrl=naver"
    ],
    "seen_titles": [
-    "[투자노트]젠슨황불륜의나비효과?…韓반도체주‘촉각’",
-    "[中거인의공급망]①'YMTC',반도체장비국산화승부수…수혜주라인...",
-    "[Invest]SK인천석화·TES·SK팜테코…SK그룹군살빼기,조단위난제만남...",
-    "엔비디아AI축제덮친‘젠슨황리스크’…환호가침묵으로[biz-플러...",
-    "엔비디아4%대나홀로급락…뉴욕증시,AI주저가매수에반등(종합)",
-    "젠슨황'불륜'인정파장…밤사이엔비디아주가하락",
-    "뉴욕증시,3대지수급등나스닥2.74%↑엔비디아4.27%급락...국제유가...",
     "加뉴브런즈윅주총리방한...현대차·SK·두산와수소·원자력협력모...",
     "[손병관의뉴스프레소]국감증인빼주는대가는농어촌기금출연",
     "[마켓무버]뉴욕증시,엔비디아악재에도급반등…나스닥2.74%↑",
@@ -4278,10 +4267,17 @@
     "韓国きょうのニュース（11月10日）",
     "[사설]증인채택권으로기업압박하는'국감비즈니스'",
     "10월전북상장사시총1조8285억증발…두산퓨얼셀·JB금융지주'직격탄...",
-    "[현장]\"디지털자산,가드레일세우고빗장풀어야\""
+    "[현장]\"디지털자산,가드레일세우고빗장풀어야\"",
+    "[이슈플러스]“GPU넘어NPU까지”…엔비디아품은K-반도체",
+    "[포토]엔비디아시총260조증발…삼전닉스는반등",
+    "[뱅크NOW]NH농협은행·Sh수협은행·카카오뱅크",
+    "모건스탠리,삼성닉스목표가줄하향…2028년'실적절벽'경고",
+    "[손현덕의한국기업탈각의순간들]크래프톤|④성장보단분배의문...",
+    "【리스크모니터링】인도네시아니켈사업지오염논란…솔루스첨단소...",
+    "美,대중기술규제‘고삐’…K반도체도비상[뉴스분석]"
    ],
    "initialized": true,
-   "last_run": "2026-11-10T18:05:21.614617+09:00"
+   "last_run": "2026-11-10T18:10:26.893685+09:00"
   }
  },
  "press_names": {
