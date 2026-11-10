@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-10T15:30:41.573976+09:00",
-     "밸류업 HD현대일렉트릭 자릿수 상승 강세 HD건설기계"
-    ],
-    [
-     "2026-11-10T15:30:41.573976+09:00",
-     "기업금융 강연 신용분석 지점장에 Sh수협은행 자본의 왈츠"
-    ],
-    [
-     "2026-11-10T15:30:41.573976+09:00",
-     "협약 반도체 본궤도 호남 입주 산단 정부 오른다 11월"
-    ],
-    [
-     "2026-11-10T15:30:41.573976+09:00",
-     "삼성전자 금지 소액주주만 직장인 얘기 삼전닉스 회식때 불문율"
-    ],
-    [
-     "2026-11-10T15:30:41.573976+09:00",
-     "ETF 실효성 규제 레버리지 변동성 규제가 키울 수도 도마"
-    ],
-    [
      "2026-11-10T15:35:21.789791+09:00",
      "욕하더라 가본 정신과 묻자 의사도 사람 물려서 주식 땜에"
     ],
@@ -974,13 +954,21 @@
     [
      "2026-11-10T21:25:21.396177+09:00",
      "갈린 3사 2고 뒷걸음 1저 통신 KT만"
+    ],
+    [
+     "2026-11-10T21:35:21.659412+09:00",
+     "도시 한국"
+    ],
+    [
+     "2026-11-10T21:35:21.659412+09:00",
+     "회장 서울대 모색 시대 경제학부생들과 한국 경제의 최태원"
+    ],
+    [
+     "2026-11-10T21:35:21.659412+09:00",
+     "방안 가치 사회적가치연구원 활용한 베이징포럼서 측정 사회적"
     ]
    ],
    "seen_urls": [
-    "https://www.ekn.kr/web/view.php?key=20261110023297400",
-    "http://www.dailysmart.co.kr/news/articleView.html?idxno=132252",
-    "https://www.sentv.co.kr/article/view/sentv202611100026",
-    "https://www.sentv.co.kr/article/view/sentv202611100022",
     "https://www.eroun.net/news/articleView.html?idxno=94862",
     "http://www.datanews.co.kr/news/article.html?no=147432",
     "http://www.press9.kr/news/articleView.html?idxno=85911",
@@ -2476,13 +2464,13 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16273191",
     "https://www.cnbnews.com/news/articleView.html?idxno=1023185",
     "https://www.newscj.com/news/articleView.html?idxno=3447639",
-    "https://www.ikbc.co.kr/article/view/kbc202611100082"
+    "https://www.ikbc.co.kr/article/view/kbc202611100082",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=446989",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=565006",
+    "http://www.smarttimes.co.kr/news/articleView.html?idxno=50469",
+    "http://www.smarttimes.co.kr/news/articleView.html?idxno=50475"
    ],
    "seen_titles": [
-    "'황제국'흔들려도AI동맹굳건…엔비디아에모인韓기업들",
-    "SK케미칼,3분기영업익336억…전년比115.6%↑",
-    "리벨리온,엔비디아손잡고'K-NPU'탑재소버린AI인프라구축",
-    "화순군,반도체소부장기업유치…산업거점도약시동",
     "전자랜드,6년째결식우려아동주거환경개선…TV·세탁기등기증",
     "국내상장사소액주주18개월새24.2%↑…삼성전자797만명",
     "뉴욕증시,유가급락·기술주저가매수에3대지수일제히급등",
@@ -3978,10 +3966,14 @@
     "미국증시전망,CPI앞두고혼조…엔비디아·유가가반등시험대",
     "이천시,하이닉스상점가에198억투입…190면공영주차장조성",
     "'2고1저'로갈린통신3사…KT만뒷걸음",
-    "김정관장관\"반도체공장배치이달마무리...투자의지확고\""
+    "김정관장관\"반도체공장배치이달마무리...투자의지확고\"",
+    "코스피,4%대상승에5200선회복...SK하이닉스,SK스퀘어등상승",
+    "[신간]한국도시2027",
+    "최태원SK회장,서울대경제학부생들과AI시대한국경제의길모색",
+    "SK사회적가치연구원,베이징포럼서AI활용한사회적가치측정방안제..."
    ],
    "initialized": true,
-   "last_run": "2026-11-10T21:30:35.917101+09:00"
+   "last_run": "2026-11-10T21:35:21.659412+09:00"
   }
  },
  "press_names": {
