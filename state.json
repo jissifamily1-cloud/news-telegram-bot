@@ -1246,11 +1246,13 @@
     [
      "2026-11-10T19:50:28.117716+09:00",
      "식자재 CJ프레시웨이 공급 여가친화기 섹타나인 왓더버거"
+    ],
+    [
+     "2026-11-10T20:05:20.434424+09:00",
+     "미래 신산업 행정사무감사 현안 대구시의회 UAM 경제환경위"
     ]
    ],
    "seen_urls": [
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=881530",
-    "https://www.edaily.co.kr/News/Read?newsId=03234086645644408&mediaCodeNo=257",
     "https://www.etoday.co.kr/news/view/2646052",
     "https://www.chosun.com/economy/int_economy/2026/11/10/V2VD6GEREVGI3G2LARFCKHWKJQ/",
     "https://biz.heraldcorp.com/article/10931466",
@@ -2748,11 +2750,11 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708997",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=280950",
     "https://www.ekn.kr/web/view.php?key=20261110025027944",
-    "https://www.segye.com/newsView/20261110516011?OutUrl=naver"
+    "https://www.segye.com/newsView/20261110516011?OutUrl=naver",
+    "https://www.globalepic.co.kr/view.php?ud=2026111015584099055f69d33b22_29",
+    "https://www.dkilbo.com/news/articleView.html?idxno=560313"
    ],
    "seen_titles": [
-    "[로드픽]젠슨황없는엔비디아가능할까…후계자부재에'AI생태계리...",
-    "SK이노베이션,농어촌7곳에'행복Dream도서관'개소...독서환경격차...",
     "뉴욕증시,AI주저가매수에반등…엔비디아4%대급락",
     "SK이노베이션,농어촌'행복Dream도서관'7곳조성",
     "SK이노,농어촌에'행복Dream도서관'7곳조성",
@@ -4250,10 +4252,12 @@
     "국민의힘,강릉AI센터수사촉구…공방격화",
     "[ClosingMarket]KOSPIRebounds4%asTechStocksSurge",
     "[똑똑한유통]CJ프레시웨이왓더버거식자재공급·섹타나인여가친화기...",
-    "반도체호황에…대기업수출액1년새2배껑충"
+    "반도체호황에…대기업수출액1년새2배껑충",
+    "이천시,하이닉스골목형상점가주차장조성사업공모선정",
+    "대구시의회경제환경위,AI·UAM등미래신산업현안행정사무감사"
    ],
    "initialized": true,
-   "last_run": "2026-11-10T20:00:43.655095+09:00"
+   "last_run": "2026-11-10T20:05:20.434424+09:00"
   }
  },
  "press_names": {
