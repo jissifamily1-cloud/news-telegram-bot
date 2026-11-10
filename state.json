@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-10T09:00:41.216483+09:00",
-     "소액공모 청약 한울반도체 유상증자 최대주주 30만주 22억 한울앤제주"
-    ],
-    [
      "2026-11-10T09:05:20.681136+09:00",
      "프로그램 진로체험 찾아가는 중학생 3천명 대상 반도체 용인"
     ],
@@ -1138,20 +1134,25 @@
     [
      "2026-11-10T15:00:41.178032+09:00",
      "전력반도체 검사 SiC 기대 수요 장비주 확대 GaN 노려라"
+    ],
+    [
+     "2026-11-10T15:05:20.479305+09:00",
+     "대한출판문화협회 에이아이웍스 출판데이터 플랫폼"
+    ],
+    [
+     "2026-11-10T15:05:20.479305+09:00",
+     "꺾고 4쿼터 칸터 kt 수성 맹활약 프로농구 선두 삼성"
+    ],
+    [
+     "2026-11-10T15:05:20.479305+09:00",
+     "지역 자부심 대구경북의 라이온즈 삼성"
+    ],
+    [
+     "2026-11-10T15:05:20.479305+09:00",
+     "건설사들 데이터센터로 변수 돌린 규제 부상 확대 사업"
     ]
    ],
    "seen_urls": [
-    "https://www.newstopkorea.com/news/articleView.html?idxno=48878",
-    "http://www.4th.kr/news/articleView.html?idxno=2121462",
-    "https://www.seoul.co.kr/news/publicnews/seoul_local/news_seoul/2026/11/09/20261109500344?wlog_tag3=naver",
-    "https://www.hankyung.com/article/202611094728r",
-    "https://www.mstoday.co.kr/news/articleView.html?idxno=200416",
-    "https://www.dt.co.kr/article/12094056",
-    "https://www.dt.co.kr/article/12094059",
-    "https://www.wikitree.co.kr/articles/1173146",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1730980",
-    "https://www.sedaily.com/article/20112070",
-    "https://www.econovill.com/news/articleView.html?idxno=756558",
     "https://www.goodkyung.com/news/articleView.html?idxno=293277",
     "https://www.medipana.com/news/articleView.html?idxno=421358",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=397351",
@@ -2640,20 +2641,20 @@
     "http://www.newsbrite.net/news/articleView.html?idxno=201371",
     "https://theviewers.co.kr/View.aspx?No=4305764",
     "http://www.sisunnews.co.kr/news/articleView.html?idxno=249411",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502751"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502751",
+    "https://www.cnbnews.com/news/articleView.html?idxno=1023045",
+    "https://www.khan.co.kr/article/202611101503001",
+    "https://platum.kr/archives/298202",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=146911",
+    "http://www.srtimes.kr/news/articleView.html?idxno=217198",
+    "https://www.thepublic.kr/news/articleView.html?idxno=325869",
+    "https://www.wikileaks-kr.org/news/articleView.html?idxno=194446",
+    "https://www.ibabynews.com/news/articleView.html?idxno=156755",
+    "https://www.joongangenews.com/news/articleView.html?idxno=562650",
+    "https://www.imaeil.com/page/view/2026111012324397528",
+    "https://www.thepublic.kr/news/articleView.html?idxno=325860"
    ],
    "seen_titles": [
-    "코스피,장중2%대급등에도결국하락…5000선턱걸이마감",
-    "엔비디아\"향후10년한국,피지컬AI의핵심\"…현대차·LG·네이버와생...",
-    "SK사회적가치연구원,AI로사회공헌'실질성과'측정",
-    "도서관미래,주민과함께완성하는성북…첫정책포럼",
-    "[단독]삼성화재,KKR·KIC와함께英보험사3조에인수",
-    "[기획-반도체신질서]반도체패권은장비와소재에서결정된다⑤",
-    "[팽동현의테크픽]금융권부터냉장고까지…AI발‘大해킹시대’",
-    "SK케미칼,3분기연결영업이익336억…전년대비115.6%증가",
-    "젠슨황불륜인정일파만파...불과5개월전'유퀴즈'서부인로리황언...",
-    "SK케미칼,3분기영업익164억원…화학불황뚫고흑자방어",
-    "SK케미칼,자회사수익성개선에영업익‘2배’로",
     "SK케미칼,3Q영업익164억원…원료가상승·환율하락에수익성악화",
     "코스피,반도체반등에도5018선마감…외국인6925억원순매도",
     "보건산업진흥원,'K-바이오링스'입주사31개사최종선정",
@@ -4142,10 +4143,21 @@
     "전자랜드,결식우려아동위한주거환경개선프로젝트동참",
     "대기업메타버스떠났는데…100만명몰린'온라인산사'왜?",
     "두원공과대학교,11일부터수시2차모집...미래산업수요반영한인재...",
-    "SiC·GaN수요확대기대…전력반도체검사·장비주노려라"
+    "SiC·GaN수요확대기대…전력반도체검사·장비주노려라",
+    "YBM,2027년도TSC-SJPT정기시험일정발표",
+    "반도체호황에대기업수출2배…상위10개사비중60%첫돌파",
+    "클로드앱국내사용자역대최대,생성형AI앱3위",
+    "젠슨황논란,美의회'對中반도체규제강화'급물살…삼성전자·SK하...",
+    "3분기최대실적쓴SK하이닉스곽노정…차세대AI메모리시장공략나...",
+    "'반도체투톱'에개미몰렸다...국내상장사소액주주8000만명돌파",
+    "[엔비디아AI데이]SK하이닉스,'피직스AI'기반반도체R&D혁신…\"시뮬...",
+    "[AI트렌드]에이아이웍스·대한출판문화협회,AI출판데이터플랫폼구...",
+    "프로농구삼성,kt꺾고선두수성…칸터4쿼터맹활약",
+    "[명품구단삼성라이온즈]'대구경북의자부심'삼성라이온즈,지역위...",
+    "AI데이터센터로눈돌린건설사들…사업확대속美규제변수부상"
    ],
    "initialized": true,
-   "last_run": "2026-11-10T15:00:41.178032+09:00"
+   "last_run": "2026-11-10T15:05:20.479305+09:00"
   }
  },
  "press_names": {
