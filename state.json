@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-10T18:45:25.618808+09:00",
-     "선발 10명 카탈리스트 현업 AX 과제 지원 SKT"
-    ],
-    [
-     "2026-11-10T18:45:25.618808+09:00",
-     "공개 초격차 바이오 혁신기술 총출동 스타트업 대거"
-    ],
-    [
      "2026-11-10T18:50:27.449895+09:00",
      "주민번호가 필요해 과도한 털려도 정보수집 소개팅에 배상은"
     ],
@@ -350,13 +342,21 @@
     [
      "2026-11-11T00:40:29.538930+09:00",
      "주주 급증 국내 소액 동안 1년"
+    ],
+    [
+     "2026-11-11T00:45:28.282802+09:00",
+     "급등 레버리지 SK하이닉스 ETF 전력 상승 ETN"
+    ],
+    [
+     "2026-11-11T00:45:28.282802+09:00",
+     "장비 계약 공급 케이씨텍 SK하이닉스에 211억"
+    ],
+    [
+     "2026-11-11T00:45:28.282802+09:00",
+     "전망 11월 제조업 주요 2주"
     ]
    ],
    "seen_urls": [
-    "http://www.newscape.co.kr/news/articleView.html?idxno=125688",
-    "https://www.m-economynews.com/news/article.html?no=72803",
-    "https://www.newsis.com/view/NISX20261110_0003861481",
-    "https://www.khan.co.kr/article/202611100914001",
     "https://www.chosun.com/economy/economy_general/2026/11/10/JREG5RSNKVAVHHZF5BUTG4E73I/",
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714064",
     "https://www.ddaily.co.kr/page/view/2026111009175965697",
@@ -1852,13 +1852,13 @@
     "http://www.kjdaily.com/article.php?aid=1794324824691770276",
     "https://www.chosun.com/economy/realty/2026/11/11/DGU2BL6WPFHRPD4UNYWHRQY74Y/",
     "http://www.kjdaily.com/article.php?aid=1794325010691875276",
-    "https://www.chosun.com/economy/money/2026/11/11/4M7VFB3WSBBU3NJFRCW6GL5COA/"
+    "https://www.chosun.com/economy/money/2026/11/11/4M7VFB3WSBBU3NJFRCW6GL5COA/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839933&plink=ORI&cooper=NAVER",
+    "http://www.kjdaily.com/article.php?aid=1794325187691783276",
+    "https://www.vegannews.co.kr/news/article.html?no=403281",
+    "https://www.laborplus.co.kr/news/articleView.html?idxno=41789"
    ],
    "seen_titles": [
-    "반도체주식급등",
-    "코스피,美반도체주반등에5270선탈환...코스닥도4%대상승",
-    "상장사소액주주24%급증…삼성전자·SK하이닉스쏠림현상심화",
-    "배터리경쟁,전기차밖으로...LG엔솔·삼성SDI‘CES2027혁신상’",
     "삼전닉스강세에코스피,장초반5%대급반등…'매수사이드카'발동",
     "[속보]코스피4~5%급등···매수사이드카발동",
     "“신기술에투자자또집단도취…‘이번엔다르다’는자신감이거품...",
@@ -3354,10 +3354,14 @@
     "대기업수출103.5%급증…상위10개기업비중60%돌파",
     "왕숙·대장·계양…수도권3기신도시9179가구쏟아진다",
     "삼성전자우5.37%상승…외국인291억순매도",
-    "국내소액주주1년반동안24%급증"
+    "국내소액주주1년반동안24%급증",
+    "'삼전닉스'영향제한적…급등한날,개미는'팔자'",
+    "SK하이닉스레버리지ETF14%급등…전력ETN20%상승",
+    "케이씨텍,211억장비계약…SK하이닉스에공급",
+    "11월2주주요제조업전망"
    ],
    "initialized": true,
-   "last_run": "2026-11-11T00:40:29.538930+09:00"
+   "last_run": "2026-11-11T00:45:28.282802+09:00"
   }
  },
  "press_names": {
