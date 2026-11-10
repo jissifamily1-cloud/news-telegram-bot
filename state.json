@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-10T06:45:24.401012+09:00",
-     "K산업에 부담 기회인가 블루웨이브"
-    ],
-    [
-     "2026-11-10T06:45:24.401012+09:00",
-     "팔았더니 오르고 샀더니 잃은 개미의 고백 5800만원 빠졌다"
-    ],
-    [
      "2026-11-10T06:50:27.853464+09:00",
      "BMW 유럽 노이에 배터리 LG엔솔 탑승 클라세 삼성SDI"
     ],
@@ -1130,11 +1122,17 @@
     [
      "2026-11-10T12:45:23.831719+09:00",
      "주도하는 놀라운 대기업 수출 상승세 폭풍 반도체가 성장"
+    ],
+    [
+     "2026-11-10T12:50:24.845876+09:00",
+     "선거 데이터센터 강원도지사 진실 논란 합의 밝혀질까"
+    ],
+    [
+     "2026-11-10T12:50:24.845876+09:00",
+     "일가 적어도 지배구조 총수 심층진단 지분은 삼성 LG"
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20261109000386",
-    "https://view.asiae.co.kr/article/2026110916284287645",
     "https://www.ytn.co.kr/_ln/0102_202611091630362790",
     "http://www.finomy.com/news/articleView.html?idxno=266062",
     "https://www.itdaily.kr/news/articleView.html?idxno=242785",
@@ -2632,11 +2630,11 @@
     "https://www.bbc.com/korean/articles/c30rlrp4xn2wo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
     "http://www.kjdaily.com/article.php?aid=1794282083691755276",
     "https://www.imaeil.com/page/view/2026111001282834140",
-    "https://www.gokorea.kr/news/articleView.html?idxno=884912"
+    "https://www.gokorea.kr/news/articleView.html?idxno=884912",
+    "https://www.gokorea.kr/news/articleView.html?idxno=884932",
+    "https://www.ppss.kr/news/articleView.html?idxno=320109"
    ],
    "seen_titles": [
-    "화순군,동복댐증축연계반도체소부장유치…산업용지·주거단지준...",
-    "SK케미칼,3분기영업이익336억원…전년比115.6%↑",
     "엔비디아·SKT·리벨리온,한국형소버린AI인프라구축나선다(종합)",
     "코스피·코스닥,0.8%하락마감...외국인순매도계속",
     "SKT,엔비디아·리벨리온과GPU·NPU결합···소버린AI인프라구축",
@@ -4134,10 +4132,12 @@
     "분석:젠슨황CEO의불륜스캔들,미국을비롯해전세계에파장을일으...",
     "코스피·코스닥전거래일(9일)주요공시",
     "삼성라이온즈의우승에공헌한페덱,재계약할까",
-    "대기업수출폭풍성장,반도체가주도하는놀라운상승세"
+    "대기업수출폭풍성장,반도체가주도하는놀라운상승세",
+    "강원도지사선거논란,SK데이터센터합의진실밝혀질까",
+    "[경제진단]삼성·SK·LG지배구조심층진단…총수일가지분은적어도..."
    ],
    "initialized": true,
-   "last_run": "2026-11-10T12:45:23.831719+09:00"
+   "last_run": "2026-11-10T12:50:24.845876+09:00"
   }
  },
  "press_names": {
