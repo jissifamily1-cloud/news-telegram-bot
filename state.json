@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-10T06:55:21.430146+09:00",
-     "major in Top headlines Korean newspapers"
-    ],
-    [
      "2026-11-10T07:00:40.888869+09:00",
      "역대 감독 삼성 박진만 한국시리즈 21번째 사령탑 우승 이끈"
     ],
@@ -1129,7 +1125,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.joongangenews.com/news/articleView.html?idxno=562218",
     "https://www.hankookilbo.com/news/article/A2026110914360001971?did=NA",
     "https://www.ziksir.com/news/articleView.html?idxno=152598",
     "http://www.newsprime.co.kr/news/article.html?no=754199",
@@ -2628,10 +2623,10 @@
     "http://www.kjdaily.com/article.php?aid=1794282603691766276",
     "https://www.boannews.com/news/articleView.html?idxno=147137",
     "https://www.cwn.kr/news/articleView.html?idxno=61402",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=8260"
+    "https://www.moneystorm.kr/news/articleView.html?idxno=8260",
+    "http://www.osen.co.kr/article/G1112907517"
    ],
    "seen_titles": [
-    "코스피5100넘었다뒷걸음…中PPI·美CPI·엔비디아3중불확실성",
     "SK브로드밴드,데이터센터·해저케이블분리추진…정부'SK호라이즌'인...",
     "젠슨황'사생활리스크'영향어디까지...국내기업들\"AI산업성장과...",
     "스페셜티소재선전…SK케미칼,3분기매출전년동기比8.2%증가",
@@ -4130,10 +4125,11 @@
     "SK하이닉스·삼성전자5~7%급등에도22%거래감소",
     "유니온바이오메트릭스,CES2027사이버보안부문최고혁신상수상",
     "엔비디아,국내AI산업본격확장...젠슨황논란에업계'촉각'",
-    "[증시프리즘]'AI공포'진정·유가하락에코스피3%대반등…개인매..."
+    "[증시프리즘]'AI공포'진정·유가하락에코스피3%대반등…개인매...",
+    "'5년연속1위→9위추락'..삼성,12년만에'2위반란'으로왕좌탈환"
    ],
    "initialized": true,
-   "last_run": "2026-11-10T12:55:19.573668+09:00"
+   "last_run": "2026-11-10T13:00:39.585205+09:00"
   }
  },
  "press_names": {
