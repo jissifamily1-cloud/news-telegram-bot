@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-10T05:25:22.006447+09:00",
-     "경기 상승률 서울 전세난에 전셋값 광명까지 1위 준서울 들썩"
-    ],
-    [
      "2026-11-10T05:35:21.465715+09:00",
      "시장 박세익 삼전닉스 떠나지 절대 마세요 물린"
     ],
@@ -1154,16 +1150,17 @@
     [
      "2026-11-10T11:25:19.731353+09:00",
      "for Four Inference Models Open NVIDIA Korean B200 Configurations Adds"
+    ],
+    [
+     "2026-11-10T11:30:32.028122+09:00",
+     "6조9975억원 통신3사 KT 매출"
+    ],
+    [
+     "2026-11-10T11:30:32.028122+09:00",
+     "위반 촉구 지사 철저 선거법 우상호 의혹 국민의힘 수사"
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=20261109142023622cd0bfacc1c_1",
-    "https://www.newsis.com/view/NISX20261109_0003860817",
-    "https://www.news1.kr/industry/general-industry/6347998",
-    "https://www.ajunews.com/view/20261109155831044",
-    "https://www.tokenpost.kr/news/market/435068",
-    "https://www.banronbodo.com/news/articleView.html?idxno=33340",
-    "https://www.mk.co.kr/article/12202567",
     "http://www.srtimes.kr/news/articleView.html?idxno=216997",
     "https://www.seoul.co.kr/news/economy/securities/2026/11/09/20261109500285?wlog_tag3=naver",
     "https://www.hankyung.com/article/202611095477i",
@@ -2656,16 +2653,16 @@
     "https://biz.newdaily.co.kr/site/data/html/2026/11/10/2026111000177.html",
     "https://magazine.hankyung.com/business/article/202611107117b",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=325407",
-    "https://econotimes.com/NVIDIA-Adds-B200-Inference-Configurations-for-Four-Korean-Open-Models-1774157"
+    "https://econotimes.com/NVIDIA-Adds-B200-Inference-Configurations-for-Four-Korean-Open-Models-1774157",
+    "https://zdnet.co.kr/view/?no=20261110112741",
+    "https://www.widedaily.com/news/articleView.html?idxno=303247",
+    "http://www.sisunnews.co.kr/news/articleView.html?idxno=249380",
+    "https://www.thebigdata.co.kr/view.php?ud=202611101124405513bbceadc3c9_23",
+    "https://en.yna.co.kr/view/AEN20261110004500320?input=2106m",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=886619",
+    "https://www.kwnews.co.kr/article/20261110500349"
    ],
    "seen_titles": [
-    "SKT,엔비디아·리벨리온과GPU·NPU결합…AI인프라고도화",
-    "[美중간선거후폭풍]달러약세에환율하락기대…연말연초1300원대...",
-    "5000선겨우지켰다…코스피,美반도체반등에도하락마감",
-    "SK케미칼,3Q영업익336억115.6%↑…\"자회사·포트폴리오효과\"",
-    "반도체만버틴코스피…美훈풍에도5000선위태",
-    "게이트,주식이벤트계약대상10종제시…5·15분주기유지",
-    "상장사3곳중1곳,장중연중'최저가'…증권가,반등가능성제기",
     "AI도입서두른기업들…이젠'토성비'가경쟁력",
     "삼성SDI,'삼각편대솔루션'승부…3차ESS입찰서1위굳히나",
     "[서울데이터랩]마감직후인기검색종목20選",
@@ -4158,10 +4155,17 @@
     "KF-21은공군으로,FA-50은폴란드로…내년매출7조넘보는KAI",
     "뱅가드,ESG의결권'투자자'에게맡긴다[ESG뉴스5]",
     "[新한일경제②]韓기업이일본행티켓을끊은이유",
-    "NVIDIAAddsB200InferenceConfigurationsforFourKoreanOpenModels"
+    "NVIDIAAddsB200InferenceConfigurationsforFourKoreanOpenModels",
+    "인크로스,구글애즈임팩트어워즈2관왕",
+    "1년만에10배뛴클로드,韓사용자500만돌파…생성형AI'3강체제'굳...",
+    "코스피5%급등에매수사이드카발동…장초반5,293선",
+    "SK이노베이션,농어촌지역아동위해'행복드림도서관'7곳조성...관심...",
+    "SeoulsharessharplyuplateTue.morningontechrally,loweroilprice",
+    "KT,매출6조9975억원…통신3사중최대",
+    "국민의힘‘우상호지사선거법위반의혹’철저수사촉구"
    ],
    "initialized": true,
-   "last_run": "2026-11-10T11:25:19.731353+09:00"
+   "last_run": "2026-11-10T11:30:32.028122+09:00"
   }
  },
  "press_names": {
