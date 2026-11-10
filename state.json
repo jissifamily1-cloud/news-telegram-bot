@@ -1126,18 +1126,21 @@
     [
      "2026-11-10T14:55:21.685904+09:00",
      "SK하이닉스 포스코 생산 삼성 네온 제논 나선 고객사 확보"
+    ],
+    [
+     "2026-11-10T15:00:41.178032+09:00",
+     "100만명 몰린 대기업 메타버스 온라인 산사 떠났는데"
+    ],
+    [
+     "2026-11-10T15:00:41.178032+09:00",
+     "11일부터 두원공과대학교 미래 2차 산업 인재 수시 반영한 모집 수요"
+    ],
+    [
+     "2026-11-10T15:00:41.178032+09:00",
+     "전력반도체 검사 SiC 기대 수요 장비주 확대 GaN 노려라"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=04001606645644080&mediaCodeNo=257",
-    "https://www.m-i.kr/news/articleView.html?idxno=2016340",
-    "https://www.wikitree.co.kr/articles/1173150",
-    "http://www.srtimes.kr/news/articleView.html?idxno=217084",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1730979",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=886501",
-    "https://www.newspost.kr/news/articleView.html?idxno=227192",
-    "https://www.fnnews.com/news/202611091716591852",
-    "http://www.newstomato.com/ReadNews.aspx?no=1319796&inflow=N",
     "https://www.newstopkorea.com/news/articleView.html?idxno=48878",
     "http://www.4th.kr/news/articleView.html?idxno=2121462",
     "https://www.seoul.co.kr/news/publicnews/seoul_local/news_seoul/2026/11/09/20261109500344?wlog_tag3=naver",
@@ -2628,18 +2631,18 @@
     "https://www.asiatime.co.kr/article/20261110500307",
     "http://www.newsbrite.net/news/articleView.html?idxno=201373",
     "https://nownews.seoul.co.kr/news/newsView.php?id=20261110601015&wlog_tag3=naver",
-    "https://biz.heraldcorp.com/article/10932332"
+    "https://biz.heraldcorp.com/article/10932332",
+    "https://www.cnbizm.com/news/articleView.html?idxno=320935",
+    "https://www.betanews.net/article/view/beta202611100062",
+    "https://www.livesnews.com/news/article.html?no=65821",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005959235",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005959233",
+    "http://www.newsbrite.net/news/articleView.html?idxno=201371",
+    "https://theviewers.co.kr/View.aspx?No=4305764",
+    "http://www.sisunnews.co.kr/news/articleView.html?idxno=249411",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502751"
    ],
    "seen_titles": [
-    "현산·GS·SK·대우처벌실효성논란...영업정지받아도공사계속?",
-    "반도체산단인허가최대2년단축추진…대형공공산단규제푼다",
-    "LG유플러스,초고속인터넷7개지표1위권…다운로드204Mbps",
-    "“윤대통령당선무효형보다훨씬무겁다”국힘의원들이신속수사촉...",
-    "아이폰듀오,'크랙게이트'에발목…번호이동시장도잠잠",
-    "모티프,엔비디아투자유치…차세대LLM'모티프4'개발착수",
-    "전남광주특별시,보수언론'서남권반도체'보도정면반박…\"왜곡·폄...",
-    "SKT,엔비디아·리벨리온과GPU·NPU통합시스템공동개발추진",
-    "SK케미칼,3Q영업익336억…자회사호조에도별도수익성악화",
     "코스피,장중2%대급등에도결국하락…5000선턱걸이마감",
     "엔비디아\"향후10년한국,피지컬AI의핵심\"…현대차·LG·네이버와생...",
     "SK사회적가치연구원,AI로사회공헌'실질성과'측정",
@@ -4130,10 +4133,19 @@
     "젠슨황의혹에흔들리는GPU공급망…K-AI업계‘긴장’",
     "SK이노,농어촌아동돕는'행복Dream도서관'확대",
     "TSMC의메모리산업진출?…실현가능성낮은네가지이유[고든정의...",
-    "네온·제논생산나선포스코…삼성·SK하이닉스등고객사확보추진[포..."
+    "네온·제논생산나선포스코…삼성·SK하이닉스등고객사확보추진[포...",
+    "Sh수협은행,기업금융지점장대상신용분석포럼개최",
+    "뉴욕증시,유가급락·기술주저가매수에일제히급등...엔비디아만4%대...",
+    "트럼프중간선거참패·젠슨황스캔들…AI반도체'겹악재'",
+    "반도체호조에대기업수출2배로…'톱10'기업비중60%돌파",
+    "'젠슨황리스크'속AI데이…엔비디아·K기업협력살펴보니",
+    "전자랜드,결식우려아동위한주거환경개선프로젝트동참",
+    "대기업메타버스떠났는데…100만명몰린'온라인산사'왜?",
+    "두원공과대학교,11일부터수시2차모집...미래산업수요반영한인재...",
+    "SiC·GaN수요확대기대…전력반도체검사·장비주노려라"
    ],
    "initialized": true,
-   "last_run": "2026-11-10T14:55:21.685904+09:00"
+   "last_run": "2026-11-10T15:00:41.178032+09:00"
   }
  },
  "press_names": {
