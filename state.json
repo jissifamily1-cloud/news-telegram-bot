@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-11T00:15:27.545810+09:00",
-     "팔기 시그넷 넣는다 반영되나 얼마나 대금에 250억"
-    ],
-    [
      "2026-11-11T00:20:27.994036+09:00",
      "22개 이상 회전율 동원파츠 종목"
     ],
@@ -338,13 +334,21 @@
     [
      "2026-11-11T06:15:25.175903+09:00",
      "자회사 매출 티앤씨 효성 3곳 4곳 중공업 영업익 고공행진"
+    ],
+    [
+     "2026-11-11T06:20:27.064006+09:00",
+     "일제히 지수 물가 쇼크에 증시 3대"
+    ],
+    [
+     "2026-11-11T06:20:27.064006+09:00",
+     "생산적금융 우리금융 합격점 임종룡"
+    ],
+    [
+     "2026-11-11T06:20:27.064006+09:00",
+     "11일 경기 오늘의"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261110000245",
-    "https://www.newsis.com/view/NISX20261110_0003861520",
-    "https://www.mt.co.kr/industry/2026/11/10/2026111009183782497",
-    "https://edu.chosun.com/site/data/html_dir/2026/11/10/2026111080024.html",
     "https://www.newspim.com/news/view/20261110000078",
     "https://www.delighti.co.kr/news/articleView.html?idxno=124635",
     "http://www.ikld.kr/news/articleView.html?idxno=343843",
@@ -1840,13 +1844,13 @@
     "https://www.ytn.co.kr/_ln/0104_202611110611506634",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=767838",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=767836",
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=767964"
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=767964",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=625494",
+    "https://www.news2day.co.kr/article/20261110500144",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=767911",
+    "https://www.yna.co.kr/view/AKR20261109042251007?input=1195m"
    ],
    "seen_titles": [
-    "코스피5%급등에매수사이드카…외국인8일만에'사자'[개장시황]",
-    "SK이노베이션,농어촌7곳에어린이도서관개관···3년간32곳",
-    "[개장시황]뉴욕발훈풍에국내증시급등…양시장매수사이드카",
-    "인크로스,'구글애즈임팩트어워즈'2개부문파이널리스트선정",
     "SK이노,농어촌에'행복Dream도서관'7곳조성…누적32곳",
     "YBM,2027년TSC·SJPT일정공개…연간12회시행",
     "[모닝리포트]\"SK케미칼,자회사선방에주주가치제고기대\"",
@@ -3342,10 +3346,14 @@
     "미물가,예상웃돌며'빅스텝'가능성...AI거품론가를코어위브실적...",
     "한충전품은현대엔지니어링,전기차충전'다크호스'부상...GS차지비...",
     "[데이터&뉴스]200대기업이익잉여금1704조,반년새296조↑...삼성전...",
-    "효성,자회사4곳중3곳매출·영업익'고공행진'...티앤씨·중공업'훨..."
+    "효성,자회사4곳중3곳매출·영업익'고공행진'...티앤씨·중공업'훨...",
+    "[증시마감]외국인8거래일만에'사자'돌아선코스피…삼성전자·SK하...",
+    "[N2모닝경제브리핑-11월11일]美증시,물가쇼크에3대지수일제히...",
+    "[회장님신년공약성적표①]우리금융임종룡,생산적금융·AI'합격점'…...",
+    "◇오늘의경기(11일)"
    ],
    "initialized": true,
-   "last_run": "2026-11-11T06:15:25.175903+09:00"
+   "last_run": "2026-11-11T06:20:27.064006+09:00"
   }
  },
  "press_names": {
