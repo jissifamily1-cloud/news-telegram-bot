@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-10T17:50:28.156536+09:00",
-     "행진 흑자 충북개발공사 경영쇄신 동력 강화해야"
-    ],
-    [
-     "2026-11-10T17:50:28.156536+09:00",
-     "모라토리엄 확산 데이터센터 볼까 한국은 반사이익"
-    ],
-    [
      "2026-11-10T17:55:22.086090+09:00",
      "공포 급반등 진정되나 코스피 불안"
     ],
@@ -430,10 +422,13 @@
     [
      "2026-11-10T23:45:27.158129+09:00",
      "가짜 지문 SKT 잡아낸다 이어 CES 유니온바이오메트릭스 삼성전자"
+    ],
+    [
+     "2026-11-10T23:55:21.364405+09:00",
+     "노키아 빠질라 이러다 함정"
     ]
    ],
    "seen_urls": [
-    "https://www.busan.com/view/busan/view.php?code=2026111009010057090",
     "https://www.newsis.com/view/NISX20261110_0003861456",
     "https://www.chosun.com/economy/money/2026/11/10/DDA4EIVX7NHPTHOJ67F2B6CVNI/",
     "https://www.nocutnews.co.kr/news/6604385",
@@ -1932,10 +1927,10 @@
     "https://news.jtbc.co.kr/article/NB12327462?influxDiv=NAVER",
     "https://us.aving.net/news/articleView.html?idxno=55222",
     "https://www.topstarnews.net/news/articleView.html?idxno=16273314",
-    "https://www.kgnews.co.kr/news/article.html?no=918885"
+    "https://www.kgnews.co.kr/news/article.html?no=918885",
+    "https://www.chosun.com/opinion/taepyeongro/2026/11/10/FUZBODUZZBGIBKMQVOR62BZ3VQ/"
    ],
    "seen_titles": [
-    "코스피5247.22출발…장열리자마자4%대솟구친이유는?",
     "젠슨황불륜후폭풍,하루만에시총258조원증발...엔비디아'나홀로...",
     "엔비디아,'젠슨황악재'에4.3%급락…시총258조원증발",
     "美기술주급반등·유가급락…코스피도4%대급등출발",
@@ -3434,10 +3429,11 @@
     "'노태우비자금'노재헌피의자입건…공소청,조만간소환조사방침",
     "StepHowTargetstheDataSovereigntyMarketatWebSummit2026withOn-",
     "미국증시장초반하락…CPI예상웃돌자나스닥0.80%↓·엔비디아3.63%...",
-    "\"가짜지문잡아낸다\"…유니온바이오메트릭스,SKT·삼성전자이어CES최..."
+    "\"가짜지문잡아낸다\"…유니온바이오메트릭스,SKT·삼성전자이어CES최...",
+    "[태평로]이러다‘노키아함정’에빠질라"
    ],
    "initialized": true,
-   "last_run": "2026-11-10T23:50:27.483102+09:00"
+   "last_run": "2026-11-10T23:55:21.364405+09:00"
   }
  },
  "press_names": {
