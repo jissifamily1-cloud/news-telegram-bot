@@ -178,12 +178,17 @@
     [
      "2026-11-12T05:05:21.792562+09:00",
      "금리 X같네 사내대출 뒤집힌 삼성맨 규제 막는다"
+    ],
+    [
+     "2026-11-12T05:10:29.494429+09:00",
+     "뚫고 반도체 빅스텝 상승 불안은 앞세워 공포 여전 증시"
+    ],
+    [
+     "2026-11-12T05:10:29.494429+09:00",
+     "어느 때보다 변동성 중요해진 기업IR 높아진"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=451699",
-    "https://news.unn.net/news/articleView.html?idxno=600360",
-    "https://www.yna.co.kr/view/AKR20261111061700003?input=1195m",
     "https://www.ytn.co.kr/_ln/0104_202611111026231621",
     "http://www.breaknews.com/1250075",
     "https://www.businessplus.kr/news/articleView.html?idxno=119637",
@@ -1680,12 +1685,12 @@
     "https://www.nocutnews.co.kr/news/6605567",
     "https://www.etoday.co.kr/news/view/2646919",
     "https://www.newsis.com/view/NISX20261111_0003864245",
-    "https://www.joongang.co.kr/article/25477858"
+    "https://www.joongang.co.kr/article/25477858",
+    "https://www.seoul.co.kr/news/economy/industry/2026/11/12/20261112032002?wlog_tag3=naver",
+    "https://www.seoul.co.kr/news/economy/securities/2026/11/12/20261112031007?wlog_tag3=naver",
+    "https://www.mt.co.kr/stock/2026/11/12/2026111109141589469"
    ],
    "seen_titles": [
-    "DB증권,스피어랩스와디지털자산사업협력…STO수익모델발굴",
-    "\"아파트가이웃을잇는다\"日세쓰난대,공동체활성화사례탐방",
-    "\"기술개발했는데검증은어디서?\"…서울바이오허브,기업과병원연결...",
     "[현장]“기본법도안만들고세금부터내라?”…디지털자산선도경쟁...",
     "中저가공세에도K-배터리찾는완성차…고성능시장이버팀목",
     "KODEX커버드콜,이달분배금확대…삼성전자특별배당효과",
@@ -3182,10 +3187,13 @@
     "사람은못듣는딥보이스흔적,AI가잡아낸다",
     "K-반도체의사각지대…車메모리점유율19.8%,美마이크론은51.7%[AI골...",
     "'AI풀스택'굳히기나선최태원회장…올해'SKCEO세미나'서어떤메시...",
-    "1.5%금리막는다?…“X같네”삼성맨뒤집힌사내대출규제"
+    "1.5%금리막는다?…“X같네”삼성맨뒤집힌사내대출규제",
+    "TSMC‘AI생태계’참전…오픈AI·앤트로픽에10억달러투자",
+    "美빅스텝공포뚫고韓증시반도체앞세워상승…불안은여전",
+    "높아진변동성,그어느때보다중요해진기업IR"
    ],
    "initialized": true,
-   "last_run": "2026-11-12T05:05:21.792562+09:00"
+   "last_run": "2026-11-12T05:10:29.494429+09:00"
   }
  },
  "press_names": {
