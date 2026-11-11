@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-11T19:35:20.741350+09:00",
-     "바람 제조업 현장 분석력 울산 노하우에 입혀"
-    ],
-    [
-     "2026-11-11T19:35:20.741350+09:00",
-     "윤원상 LG 맹활약"
-    ],
-    [
      "2026-11-11T19:40:25.908257+09:00",
      "가져가 L을"
     ],
@@ -350,11 +342,17 @@
     [
      "2026-11-12T01:30:37.279405+09:00",
      "각각 100억달러 엔비디아 IPO에 구글 투자 앤트로픽"
+    ],
+    [
+     "2026-11-12T01:35:23.942569+09:00",
+     "인수 스위스 삼성바이오 폴리펩타이드 펩타이드 CDMO"
+    ],
+    [
+     "2026-11-12T01:35:23.942569+09:00",
+     "상장사 대기업 투자 절반 엄격한 공시기준보다 심사"
     ]
    ],
    "seen_urls": [
-    "http://www.weeklytoday.com/news/articleView.html?idxno=801709",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=211193",
     "https://biz.heraldcorp.com/article/10933276",
     "https://www.seoultimes.news/news/article.html?no=2000102037",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=93775",
@@ -1852,11 +1850,11 @@
     "https://basketkorea.com/news/newsview.php?ncode=1065543586631316",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2370663",
     "http://www.kjdaily.com/article.php?aid=1794414219691903276",
-    "http://www.kjdaily.com/article.php?aid=1794414314691881276"
+    "http://www.kjdaily.com/article.php?aid=1794414314691881276",
+    "http://www.issuenbiz.com/news/articleView.html?idxno=81498",
+    "http://www.kjdaily.com/article.php?aid=1794414438691882276"
    ],
    "seen_titles": [
-    "SK증권,단국대와생물다양성프로젝트성료…인공새집서아기새이소...",
-    "시흥시,유휴공간활용한태양광사업에속도…태양광설비용량3년새...",
     "SK하이닉스,메모리안전성·보안성입증…피지컬AI주도권잡는다",
     "심텍홀딩스주가,급등세...무슨회사길래?",
     "[이미선의크립토ON]주식·크립토급락,2018년데자뷰",
@@ -3354,10 +3352,12 @@
     "‘완패인정’SK전희철감독의자책“내가운영을잘못했다”",
     "SK텔레콤,동반성장지수14년연속최우수…\"14년이상연속최우수기업...",
     "SK하이닉스,저전력D램국제안전·보안인증획득",
-    "엔비디아·구글,앤트로픽IPO에각각100억달러투자"
+    "엔비디아·구글,앤트로픽IPO에각각100억달러투자",
+    "[뉴스이슈&비즈]삼성바이오,스위스펩타이드CDMO'폴리펩타이드'인수...",
+    "대기업상장사절반,공시기준보다엄격한투자심사"
    ],
    "initialized": true,
-   "last_run": "2026-11-12T01:30:37.279405+09:00"
+   "last_run": "2026-11-12T01:35:23.942569+09:00"
   }
  },
  "press_names": {
