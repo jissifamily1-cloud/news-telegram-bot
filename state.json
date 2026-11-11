@@ -1094,13 +1094,17 @@
     [
      "2026-11-11T12:40:25.372812+09:00",
      "GS리테일 쿠팡 SK인텔릭스"
+    ],
+    [
+     "2026-11-11T12:50:25.137372+09:00",
+     "이수페타시스 상승 메드팩토 강세 반도체주"
+    ],
+    [
+     "2026-11-11T12:50:25.137372+09:00",
+     "목표가 하향 SK증권 역풍 재고조정 환율 8만4000원"
     ]
    ],
    "seen_urls": [
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082073",
-    "https://www.g-enews.com/view.php?ud=2026111009193921473d7a510102_1",
-    "https://www.globalepic.co.kr/view.php?ud=2026111016030949469aeda69934_29",
-    "https://www.fnnews.com/news/202611101609001897",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081889",
     "https://www.businesspost.co.kr/BP?command=article_view&num=451639",
     "https://it.chosun.com/news/articleView.html?idxno=3000000000691",
@@ -2596,13 +2600,13 @@
     "http://www.iminju.net/news/articleView.html?idxno=172268",
     "https://www.mydaily.co.kr/page/view/2026111112415617279",
     "https://mhnse.com/news/articleView.html?idxno=1692550",
-    "https://www.tokenpost.kr/news/blockchain/436360"
+    "https://www.tokenpost.kr/news/blockchain/436360",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=902698",
+    "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308004",
+    "http://www.kjdaily.com/article.php?aid=1794368591691898276",
+    "https://www.asiatime.co.kr/article/20261111500230"
    ],
    "seen_titles": [
-    "코스피코스닥4%대급등…양시장매수사이드카",
-    "이동통신3사,희비엇갈린3분기실적…AIDC투자는확대",
-    "서울세미텍,미국‘SEMICONWest2026’참가...북미시장공략본격화",
-    "'취업·승진필수'TSC·SJPT,2027년첫시험은1월23일",
     "[마감시황]코스피·코스닥,4%대급등…4거래일만에동반반등",
     "삼성SDI최대고객사BMW배터리공급입지좁아져,최주선유럽은중국...",
     "[마감]코스피4%올라5200선회복…AI안도·유가하락효과",
@@ -4098,10 +4102,14 @@
     "[민주유통가]SK인텔릭스·GS리테일·쿠팡",
     "통신3사,동반성장지수나란히최우수…협력사자금부터AI역량까지지...",
     "\"두시간전에취소됐다\"…고효준,KT입단무산고백\"은퇴결심계기\"",
-    "[로빈후드온체인]코어위브온체인가격이정규장종가보다14.6%높게..."
+    "[로빈후드온체인]코어위브온체인가격이정규장종가보다14.6%높게...",
+    "SK하이닉스LPDDR5X,산업용'SIL3'인증…피지컬AI메모리신뢰성강화",
+    "美의회·FBI동시압박에수장교체설까지···젠슨황이무너진다면",
+    "메드팩토29.99%·이수페타시스19.65%상승…반도체주강세",
+    "SK증권F&F목표가8만4000원하향…'재고조정·환율역풍'"
    ],
    "initialized": true,
-   "last_run": "2026-11-11T12:45:24.094904+09:00"
+   "last_run": "2026-11-11T12:50:25.137372+09:00"
   }
  },
  "press_names": {
