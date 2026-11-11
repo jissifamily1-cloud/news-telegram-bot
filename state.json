@@ -1142,18 +1142,21 @@
     [
      "2026-11-11T17:15:26.795592+09:00",
      "확대 본격화 성장 투자도 통신3사 신사업 인프라"
+    ],
+    [
+     "2026-11-11T17:20:26.101977+09:00",
+     "처리 파일시스템 높인 게이즈 개발 KAIST 데이터 3배"
+    ],
+    [
+     "2026-11-11T17:20:26.101977+09:00",
+     "KB 한투운용 격차 경쟁 시장 격화 3위 ETF 2686억원"
+    ],
+    [
+     "2026-11-11T17:20:26.101977+09:00",
+     "참여 LG유플러스 11월 백억커피 무료 제공 혜택 유플투쁠"
     ]
    ],
    "seen_urls": [
-    "https://www.asiatoday.co.kr/kn/view.php?key=20261110010003720",
-    "https://www.newsis.com/view/NISX20261110_0003862812",
-    "https://www.upkoreanews.kr/news/articleView.html?idxno=101110",
-    "https://www.newspim.com/news/view/20261110001220",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=315033",
-    "https://www.e-science.co.kr/news/articleView.html?idxno=138628",
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=82309",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16273380",
-    "https://www.mediapen.com/news/view/1136538",
     "https://biz.sbs.co.kr/article_hub/20000345548?division=NAVER",
     "https://www.newsway.co.kr/news/view?ud=2026111015335681001",
     "https://www.dailian.co.kr/news/view/1713179/?sc=Naver",
@@ -2644,18 +2647,18 @@
     "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89150",
     "https://www.1conomynews.co.kr/news/articleView.html?idxno=51264",
     "https://en.yna.co.kr/view/AEN20261111010000315?input=2106m",
-    "https://www.dt.co.kr/article/12094641"
+    "https://www.dt.co.kr/article/12094641",
+    "http://www.kjdaily.com/article.php?aid=1794385061691924276",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=281048",
+    "https://www.namdonews.com/news/articleView.html?idxno=928971",
+    "https://www.joongangenews.com/news/articleView.html?idxno=563136",
+    "http://www.iminju.net/news/articleView.html?idxno=172307",
+    "http://www.newstomato.com/ReadNews.aspx?no=1320116&inflow=N",
+    "https://www.kyosu.net/news/articleView.html?idxno=212300",
+    "https://www.mediapen.com/news/view/1136796",
+    "https://www.itbiznews.com/news/articleView.html?idxno=231013"
    ],
    "seen_titles": [
-    "중동훈풍에항공·건설날았다…정유·탱커는‘전쟁특수’축소[이런...",
-    "[마켓파워]중복상장노린HD현대,3000억원대상환전환우선주늪에빠지...",
-    "'5천피이탈'겪은코스피…증권가'바닥론'공방팽팽",
-    "[오늘증시전망]코스피5,200선회복했지만뉴욕증시다시하락…외국...",
-    "[中거인의공급망]②전공정장비숨은강자'이탕반도체'없으면'YMTC...",
-    "AI데이터센터승부갈렸다…LG유플러스웃고SK텔레콤추격전",
-    "머스크,위성1만5000기로이동통신시장도전…우주·지상통신망결합...",
-    "[韓경제아킬레스건](49)에너지전환의난제:RE100달성과원전·신재...",
-    "미국증시하락마감…CPI충격에나스닥0.74%↓·엔비디아5.47%급락,브...",
     "[美증시]젠슨황스캔들·빅스텝우려에3대지수하락…엔비디아·메모...",
     "[증시전략]뉴욕증시,물가상승압력·월러'빅스텝'발언에하락",
     "엔비디아에기댄한국AI…젠슨황리스크에쏠리는시선",
@@ -4146,10 +4149,19 @@
     "'초광역특구법'갈등본격화,'사회적대화'로타결될까",
     "경쟁력입증한KAI…KF-21날개달고내년전망도'맑음'",
     "YonhapNewsSummary",
-    "통신3사,AI신사업성장본격화…인프라투자도확대"
+    "통신3사,AI신사업성장본격화…인프라투자도확대",
+    "코스피200ETF거래집중…KODEX2001위",
+    "[마감시황]미인플레이션충격과기술주약세딛고코스피5,370선회복...",
+    "[마감시황]코스피,美금리인상우려딛고2.60%↑…5,375.36마감",
+    "SK텔레콤주가,11월11일애프터마켓82,700원1.47%상승",
+    "SK하이닉스,생산직학력제한폐지…4년제대졸자도포함",
+    "통신3사,동반성장지수나란히'최우수'",
+    "KAIST,데이터처리3배높인파일시스템'게이즈'개발",
+    "ETF시장3위경쟁격화…KB·한투운용격차2686억원",
+    "﻿백억커피,LG유플러스'유플투쁠'참여…11월무료혜택제공"
    ],
    "initialized": true,
-   "last_run": "2026-11-11T17:15:26.795592+09:00"
+   "last_run": "2026-11-11T17:20:26.101977+09:00"
   }
  },
  "press_names": {
