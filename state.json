@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-11T18:50:26.406997+09:00",
-     "피해 본인에게 안전 아동 온라인 책임은"
-    ],
-    [
-     "2026-11-11T18:50:26.406997+09:00",
-     "오세훈 논란 장동혁 비대위론 반격 제명 한동훈 정면 대응 에도"
-    ],
-    [
      "2026-11-11T18:55:21.557779+09:00",
      "Korea Possible Brokerages South Reports Asked Foreign About Herald Korean"
     ],
@@ -434,11 +426,13 @@
     [
      "2026-11-12T00:40:27.924693+09:00",
      "급급 믿을 따라가기 지수 증권사 전망"
+    ],
+    [
+     "2026-11-12T00:50:27.937958+09:00",
+     "젠슨 173달러대 서울 논란에 주가 미국 엔비디아 언급 대사까지"
     ]
    ],
    "seen_urls": [
-    "https://www.pennmike.com/news/articleView.html?idxno=131511",
-    "https://www.jibs.co.kr/news/articles/articlesDetail/67491?feed=na",
     "https://www.seoul.co.kr/news/politics/2026/11/11/20261111500070?wlog_tag3=naver",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081962",
     "https://it.chosun.com/news/articleView.html?idxno=3000000000742",
@@ -1936,11 +1930,11 @@
     "https://www.chosun.com/economy/stock-finance/2026/11/12/CXZVTRJWDZBGXE7EX3L35HMR6E/",
     "http://www.kjdaily.com/article.php?aid=1794411340691895276",
     "https://www.chosun.com/economy/tech_it/2026/11/12/5XHLT5F45RDL7DDMJ5244F6PVM/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/12/UA2ZEJ45XZBSJH3YX567DMHRXA/"
+    "https://www.chosun.com/economy/stock-finance/2026/11/12/UA2ZEJ45XZBSJH3YX567DMHRXA/",
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=91863",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=625895"
    ],
    "seen_titles": [
-    "출렁이는한국증시,단일종목레버리지탓?…학계\"메모리쏠림영향...",
-    "우재준“용인갑결선서1000명투표권박탈가능성”",
     "코스피하락출발후강보합전환...한진칼우29%↑·한진칼은6%↓",
     "[특징주]삼전·닉스,미증시약세에장초반1%안팎하락",
     "멜론,'T우주'서티빙과광고형구독결합상품출시",
@@ -3438,10 +3432,12 @@
     "“美데이터센터규제,AI투자사이클꺾지못할것”",
     "KB·한투운용,ETF시장3위놓고엎치락뒤치락",
     "SKT,체감품질세밀히분석…AI활용통신망관리고도화",
-    "못믿을증권사전망…지수따라가기급급"
+    "못믿을증권사전망…지수따라가기급급",
+    "SK하이닉스,피지컬AI메모리안전·보안인증확보…로봇·자율주행...",
+    "엔비디아주가173달러대,젠슨황논란에미국대사까지언급…서울AI..."
    ],
    "initialized": true,
-   "last_run": "2026-11-12T00:45:27.955253+09:00"
+   "last_run": "2026-11-12T00:50:27.937958+09:00"
   }
  },
  "press_names": {
