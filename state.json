@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-11T13:40:26.573230+09:00",
-     "C등급 동반성장 KGM 쿠팡 S등급 연속 D등급 삼성전자 15년 성적표"
-    ],
-    [
-     "2026-11-11T13:40:26.573230+09:00",
-     "최고등급 바이오기업 ESG 송도 국내외 잇따라 앞장 경영 인천 평가서"
-    ],
-    [
-     "2026-11-11T13:40:26.573230+09:00",
-     "플랫폼 발표 동반성장 온라인 37개사 연말 미흡"
-    ],
-    [
      "2026-11-11T13:45:27.337537+09:00",
      "무대 키우고 KLPGA 꿈나무 골프 상생 빛낸 나눔과 골프발전 대보그룹"
     ],
@@ -1274,15 +1262,17 @@
     [
      "2026-11-11T19:40:25.908257+09:00",
      "가져가 L을"
+    ],
+    [
+     "2026-11-11T19:45:25.628167+09:00",
+     "33점 LG 프로농구 2쿼터"
+    ],
+    [
+     "2026-11-11T19:45:25.628167+09:00",
+     "상장폐지 소식에 공개매수 없는 에스텍 공시 상한"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=03480086645644736&mediaCodeNo=257",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502908",
-    "https://www.mk.co.kr/article/12205002",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714427",
-    "https://www.m-economynews.com/news/article.html?no=72872",
-    "https://www.viva100.com/article/20261111500241",
     "https://www.joongangenews.com/news/articleView.html?idxno=562866",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1731182",
     "https://www.g-enews.com/view.php?ud=202611110914322504923c501012_1",
@@ -2776,15 +2766,15 @@
     "https://www.yna.co.kr/view/PYH20261111208500052?input=1196m",
     "https://www.yna.co.kr/view/PYH20261111208700052?input=1196m",
     "https://www.yna.co.kr/view/PYH20261111208400052?input=1196m",
-    "https://www.yna.co.kr/view/PYH20261111208900052?input=1196m"
+    "https://www.yna.co.kr/view/PYH20261111208900052?input=1196m",
+    "http://www.osen.co.kr/article/G1112908370",
+    "http://www.osen.co.kr/article/G1112908371",
+    "http://www.osen.co.kr/article/G1112908372",
+    "https://www.newstopkorea.com/news/articleView.html?idxno=48955",
+    "https://www.yna.co.kr/view/PYH20261111209000052?input=1196m",
+    "https://www.ggilbo.com/news/articleView.html?idxno=1192647"
    ],
    "seen_titles": [
-    "최태원,SKCEO모아내년전략짠다…AI시너지·사업재편성과점검",
-    "SK인텔릭스,웰니스로봇‘나무엑스’출시1주년이벤트진행",
-    "학계\"주식시장변동성주범,레버리지ETF라는근거약해\"",
-    "美물가예상웃돌자'빅스텝'우려…코스피변동'시험대'",
-    "美10월CPI,전망치상회…\"12월금리인상확실시\"",
-    "코스피,장초반5250선강보합…코스닥2%대상승",
     "[표]삼성운용,KODEX월중배당ETF11월분배금내역",
     "[속보]코스피,0.27%내린5225선출발…반도체조정에코스닥은강세",
     "코스피,반도체주동반하락에5220선밀려...코스닥은2%대상승",
@@ -4278,10 +4268,16 @@
     "롯데,이동욱감독필두로차기시즌코치진개편완료",
     "SKT,동반성장지수14년연속최우수…협력사지원확대",
     "L을가져가!",
-    "LG마레이,공격의핵"
+    "LG마레이,공격의핵",
+    "[사진]김낙현,힘차게골밑돌파",
+    "[사진]오재현,양준석밀어내고골밑돌파",
+    "[사진]유기상,위풍당당3점슛",
+    "변동성장세에투자수요몰린다…커버드콜ETF경쟁",
+    "프로농구LG-SK,2쿼터33점차",
+    "[주식마감]공개매수후상장폐지소식에에스텍'上'...공시없는상한..."
    ],
    "initialized": true,
-   "last_run": "2026-11-11T19:40:25.908257+09:00"
+   "last_run": "2026-11-11T19:45:25.628167+09:00"
   }
  },
  "press_names": {
