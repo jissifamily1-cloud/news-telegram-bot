@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-11T07:19:55.312351+09:00",
-     "반도체 앰코 행보 하락 장비주 미국 엇갈린 온투 캠텍 상승 ASE"
-    ],
-    [
      "2026-11-11T07:25:21.439674+09:00",
      "경제뉴스 알아야 국내외"
     ],
@@ -1026,17 +1022,13 @@
     [
      "2026-11-11T13:15:26.869078+09:00",
      "증권사 미래에셋증권 한국투자증권 브랜드평판 3위 삼성 1위"
+    ],
+    [
+     "2026-11-11T13:20:25.667070+09:00",
+     "must Cybersecurity double standards end"
     ]
    ],
    "seen_urls": [
-    "https://www.incheonilbo.com/news/articleView.html?idxno=1336437",
-    "https://www.newsis.com/view/NISX20261110_0003861695",
-    "http://www.breaknews.com/1249904",
-    "https://www.hankyung.com/article/202611108013i",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=285947",
-    "https://www.seoul.co.kr/news/economy/2026/11/10/20261110500289?wlog_tag3=naver",
-    "https://magazine.hankyung.com/business/article/202611108058b",
-    "https://www.m-i.kr/news/articleView.html?idxno=2016811",
     "https://www.hidomin.com/news/articleView.html?idxno=728765",
     "https://www.insightkorea.co.kr/news/articleView.html?idxno=258556",
     "http://www.ttlnews.com/news/articleView.html?idxno=3160768",
@@ -2528,17 +2520,17 @@
     "https://www.onews.tv/news/articleView.html?idxno=291396",
     "https://www.joongangenews.com/news/articleView.html?idxno=562981",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503019",
-    "http://www.joseilbo.com/news/news_read.php?uid=579411&class=53"
+    "http://www.joseilbo.com/news/news_read.php?uid=579411&class=53",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261111131726wj9",
+    "https://www.etoday.co.kr/news/view/2646814",
+    "https://www.ajunews.com/view/20261111131117011",
+    "https://magazine.hankyung.com/business/article/202611110064b",
+    "https://www.kwnews.co.kr/article/20261111500122",
+    "https://www.g-enews.com/view.php?ud=202611111308125506923c501012_1",
+    "https://biz.chosun.com/it-science/ict/2026/11/11/ETQXGQEYGFHGPADW57P2RUWGDQ/",
+    "https://www.koreatimes.co.kr/path/A2026111110010002948"
    ],
    "seen_titles": [
-    "안성시의회,고삼새마을어업계만나SK하이닉스처리수방류및보상난...",
-    "\"보강할까,슬림화할까\"…4대그룹,'부회장최소화'인사기조올해는",
-    "이천시,하이닉스상점가공영주차장조성국비48억확보",
-    "오늘의프리미엄9콘텐츠다이제스트(11월10일)",
-    "급락멈춘코스피,5200선마감…반도체주동반강세",
-    "에이아이세라,소상공인AI컨설팅100곳모집…기관요청시도입지원",
-    "[속보]개미들빚투59조사상최대",
-    "\"상장사소액주주1년반새24%증가…삼성전자1위\"",
     "3거래일급락털어낸코스피…4.39%올라5200선회복",
     "통신3사,AI데이터센터증설하고토큰사업으로수익다변화한다",
     "Sh수협은행,강남기업금융지점장대상'신용전략포럼'열어리스크분...",
@@ -4030,10 +4022,18 @@
     "SK하이닉스,LPDDR5X안전·보안국제인증확보…산업용적용확대",
     "'성과급8억원가능성에학력제한까지폐지'…SK하이닉스생산직채용...",
     "AI·자동차전장화가키운시스템반도체…테크윙·디아이날개달았다",
-    "증권사브랜드평판1위미래에셋증권...2·3위삼성·한국투자증권"
+    "증권사브랜드평판1위미래에셋증권...2·3위삼성·한국투자증권",
+    "[경제읽기]'젠슨황스캔들'일파만파…해임가능성·후계구도는",
+    "美빅스텝우려극복…코스닥이틀연속매수사이드카발동",
+    "[食전食후]코스닥,이틀연속'매수사이드카'발동…반도체·2차전지...",
+    "최태원,새CEO들과AI전략짠다…SK'성장2막'시동",
+    "[이코노미플러스]KB증권“AI투자위축가능성낮아···삼성전자·SK하...",
+    "코스피,5300선회복…코스닥,4%급등에'매수사이드카'",
+    "SK하이닉스,저전력D램국제안전·보안인증확보…로봇·자율주행시...",
+    "[ED]Cybersecuritydoublestandardsmustend"
    ],
    "initialized": true,
-   "last_run": "2026-11-11T13:15:26.869078+09:00"
+   "last_run": "2026-11-11T13:20:25.667070+09:00"
   }
  },
  "press_names": {
