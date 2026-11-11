@@ -598,16 +598,21 @@
     [
      "2026-11-12T08:20:28.166286+09:00",
      "엔비디아 급락 애프터마켓서 이상 소식에 젠슨황 해임"
+    ],
+    [
+     "2026-11-12T08:25:20.885079+09:00",
+     "넘어 설계하다 메리츠증권 기업의 재무전략을 자금 공급을"
+    ],
+    [
+     "2026-11-12T08:25:20.885079+09:00",
+     "SOXL 순매수 SOXS 순매도 ETF 반도체 1위 2억달러"
+    ],
+    [
+     "2026-11-12T08:25:20.885079+09:00",
+     "하나 공급 2028년까지 메모리 반도체 수요 따라가는 부족"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=451713",
-    "https://sateconomy.co.kr/news/view/1065578470651835",
-    "https://www.edaily.co.kr/News/Read?newsId=04132806645644736&mediaCodeNo=257",
-    "https://www.bosa.co.kr/news/articleView.html?idxno=3016185",
-    "https://www.dt.co.kr/article/12094510",
-    "https://www.bloter.net/news/articleView.html?idxno=678301",
-    "https://www.socialvalue.kr/news/view/1065580509355441",
     "https://www.mydaily.co.kr/page/view/2026111109331836691",
     "https://www.ddaily.co.kr/page/view/2026111111414391782",
     "https://www.koreaittimes.com/news/articleView.html?idxno=159031",
@@ -2100,16 +2105,16 @@
     "https://biz.sbs.co.kr/article_hub/20000345876?division=NAVER",
     "https://www.ytn.co.kr/_ln/0104_202611120807222719",
     "https://www.newsian.co.kr/news/articleView.html?idxno=101111",
-    "https://www.ajunews.com/view/20261112080831787"
+    "https://www.ajunews.com/view/20261112080831787",
+    "http://www.osen.co.kr/article/G1112908714",
+    "https://www.itdaily.kr/news/articleView.html?idxno=242862",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4444297",
+    "https://www.etoday.co.kr/news/view/2647124",
+    "http://www.lkp.news/news/articleView.html?idxno=85997",
+    "http://www.kjdaily.com/article.php?aid=1794438329692016276",
+    "https://www.etoday.co.kr/news/view/2647125"
    ],
    "seen_titles": [
-    "'타짜4',청불핸디캡에도200만찍더니..오늘(11일)부터안방서본다",
-    "통신3사,동반성장지수'최우수'…SKT14년·KT12년·LGU+8년",
-    "SK증권,단국대와'2026그둥지가알고싶다'프로젝트마무리…인공새...",
-    "삼성,반도체노하우연구기관에제공한다",
-    "코스피1%대반등…'앤트로픽상장'기대에반도체투톱강세",
-    "코스닥4%대급등…코스피장중5300터치",
-    "SKT,동반성장지수14년연속'최우수'…국내기업중두곳뿐",
     "[김창익의머니토크]‘백기사’를자처한한국은행,그리고‘비트코인...",
     "KB증권\"2028년까지AI투자축소어려워\"...'삼전닉스'최선호주제시",
     "삼성운용'200타겟위클리커버드콜',17일주당266원분배",
@@ -3602,10 +3607,17 @@
     "뉴욕증시,코어위브발훈풍에일제히강세...나스닥1.6%↑",
     "'젠슨황스캔들'에트럼프대중정책도마...공화,강제소환경구",
     "MSCI한국스몰캡에케이뱅크등5종목편입…스탠더드는74개유지",
-    "젠슨황해임소식에엔비디아,애프터마켓서8%이상'급락'"
+    "젠슨황해임소식에엔비디아,애프터마켓서8%이상'급락'",
+    "\"2군실내연습장,우리만없다\"日캠프에서떠올린현실…15년째진전...",
+    "\"엔비디아이사회,젠슨황해임준비\"…경영승계문제주목",
+    "반도체소부장도실적개선…전공정·소재로온기확산",
+    "SK\"대신증권,브로커리지ㆍIB·운용동반부진⋯하반기실적부담지속...",
+    "메리츠증권,자금공급을넘어기업의재무전략을설계하다",
+    "반도체ETFSOXL2억달러순매도…SOXS순매수1위",
+    "하나證“AI수요못따라가는반도체공급…2028년까지메모리부족지..."
    ],
    "initialized": true,
-   "last_run": "2026-11-12T08:20:28.166286+09:00"
+   "last_run": "2026-11-12T08:25:20.885079+09:00"
   }
  },
  "press_names": {
