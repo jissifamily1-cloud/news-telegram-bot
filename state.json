@@ -613,12 +613,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.mydaily.co.kr/page/view/2026111109331836691",
-    "https://www.ddaily.co.kr/page/view/2026111111414391782",
-    "https://www.koreaittimes.com/news/articleView.html?idxno=159031",
-    "https://www.munhwa.com/article/11630521",
-    "https://www.fntimes.com/html/view.php?ud=2026111111501583917de3572ddd_18",
-    "http://www.newsprime.co.kr/news/article.html?no=754477",
     "https://www.gukjenews.com/news/articleView.html?idxno=3748715",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=315110",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=280997",
@@ -2112,15 +2106,15 @@
     "https://www.etoday.co.kr/news/view/2647124",
     "http://www.lkp.news/news/articleView.html?idxno=85997",
     "http://www.kjdaily.com/article.php?aid=1794438329692016276",
-    "https://www.etoday.co.kr/news/view/2647125"
+    "https://www.etoday.co.kr/news/view/2647125",
+    "https://biz.sbs.co.kr/article_hub/20000345866?division=NAVER",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261112082548IWz",
+    "https://www.ajunews.com/view/20261112082304847",
+    "https://www.pointe.co.kr/news/articleView.html?idxno=87605",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261112082349paj",
+    "https://www.ytn.co.kr/_ln/0104_202611120825494503"
    ],
    "seen_titles": [
-    "[김창익의머니토크]‘백기사’를자처한한국은행,그리고‘비트코인...",
-    "KB증권\"2028년까지AI투자축소어려워\"...'삼전닉스'최선호주제시",
-    "삼성운용'200타겟위클리커버드콜',17일주당266원분배",
-    "반도체수출역대최대…삼전·닉스상승전환",
-    "SK하이닉스,생산직공채…대졸자에자격개방'경쟁치열'예상",
-    "코스피보합권안에서상승세...'20만전자'탈환",
     "SK그룹,12~14일CEO세미나…HBM·AI데이터센터·에너지사업협력논의...",
     "코스피미국증시하락에도장중5300대로상승,코스닥도690선까지올...",
     "삼전·하이닉스주가는급락했는데TSMC는사상최대…AI규제우려와수...",
@@ -3614,10 +3608,16 @@
     "SK\"대신증권,브로커리지ㆍIB·운용동반부진⋯하반기실적부담지속...",
     "메리츠증권,자금공급을넘어기업의재무전략을설계하다",
     "반도체ETFSOXL2억달러순매도…SOXS순매수1위",
-    "하나證“AI수요못따라가는반도체공급…2028년까지메모리부족지..."
+    "하나證“AI수요못따라가는반도체공급…2028년까지메모리부족지...",
+    "[어제장오늘장]빅스텝우려뚫고반등…코스피5,400선안착할까",
+    "AI반도체주급등…'반등'엔비디아시간외급락",
+    "[마켓프리뷰]젠슨황해임우려·코어위브호실적교차…코스피혼조...",
+    "선제적설비투자빛난코스맥스…증권가목표가·실적전망상향",
+    "[3분증시]뉴욕증시,코어위브호실적에강한반등",
+    "\"회사로고옷,밖에서입지말라\"...'젠슨황스캔들'에보안강화[앵..."
    ],
    "initialized": true,
-   "last_run": "2026-11-12T08:25:20.885079+09:00"
+   "last_run": "2026-11-12T08:30:33.441656+09:00"
   }
  },
  "press_names": {
