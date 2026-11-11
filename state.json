@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-11T15:15:26.460293+09:00",
-     "키운 저력 K푸드 과자 삼전닉스보다 라면 해외서 버틴"
-    ],
-    [
      "2026-11-11T15:20:27.829378+09:00",
      "국내 ADR 내년 SK하이닉스 축소 방안 주식 가격차 기대 메리츠"
     ],
@@ -1074,11 +1070,17 @@
     [
      "2026-11-11T21:15:26.043910+09:00",
      "자율주행 국제 인증 로봇 SK하이닉스 보안 시장 확보 메모리 안전"
+    ],
+    [
+     "2026-11-11T21:20:26.777280+09:00",
+     "견제로 확전 기업 텍사스 규제 단추 데이터센터 의회"
+    ],
+    [
+     "2026-11-11T21:20:26.777280+09:00",
+     "김성환 최대한 주민 수몰 만나 협의하겠다 장관"
     ]
    ],
    "seen_urls": [
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=882057",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2490919",
     "https://www.sentv.co.kr/article/view/sentv202611110040",
     "https://www.sedaily.com/article/20112802",
     "http://www.popcornnews.net/news/articleView.html?idxno=139516",
@@ -2576,11 +2578,11 @@
     "https://www.edaily.co.kr/News/Read?newsId=06150006645644736&mediaCodeNo=257",
     "https://biz.heraldcorp.com/article/10934226",
     "https://www.newspim.com/news/view/20261111001557",
-    "http://www.popcornnews.net/news/articleView.html?idxno=139649"
+    "http://www.popcornnews.net/news/articleView.html?idxno=139649",
+    "https://magazine.hankyung.com/business/article/202611119797b",
+    "https://www.ikbc.co.kr/article/view/kbc202611110077"
    ],
    "seen_titles": [
-    "젠슨황은엔비디아를지킬수있을까…집단소송에지분·이혼등'곳곳...",
-    "인크로스,‘2026구글애즈임팩트어워즈’2개부문파이널리스트선...",
     "미증시하락세영향에...코스피장초반보합권",
     "씨케이솔루션,3분기영업이익109억원…\"수주확대\"",
     "코스피,美금리인상우려에'약보합'···5200선",
@@ -4078,10 +4080,12 @@
     "中YMTC,증시한파에도내년1분기IPO추진",
     "“글로벌3위낸드中YMTC,이르면내년1분기IPO목표”",
     "[AI상보]굿윈,마레이51점합작...LGSK에완승거두며1R패배설욕",
-    "SK하이닉스,메모리안전·보안국제인증확보…로봇·자율주행시장..."
+    "SK하이닉스,메모리안전·보안국제인증확보…로봇·자율주행시장...",
+    "텍사스새의회‘첫단추’는데이터센터규제…AI기업견제로확전...",
+    "김성환장관,수몰예정주민만나\"최대한협의하겠다\""
    ],
    "initialized": true,
-   "last_run": "2026-11-11T21:15:26.043910+09:00"
+   "last_run": "2026-11-11T21:20:26.777280+09:00"
   }
  },
  "press_names": {
