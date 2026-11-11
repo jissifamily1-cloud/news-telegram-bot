@@ -453,9 +453,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.lawissue.co.kr/view.php?ud=2026111111130322759817d053b9_12",
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=362289",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082124",
     "http://www.srtimes.kr/news/articleView.html?idxno=217292",
     "https://www.globalepic.co.kr/view.php?ud=20261111111030132648439a4874_29",
     "https://www.lawissue.co.kr/view.php?ud=2026111111095133229817d053b9_12",
@@ -1952,12 +1949,12 @@
     "https://www.mt.co.kr/world/2026/11/12/2026111207055748810",
     "https://www.etoday.co.kr/news/view/2647089",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710609",
-    "https://www.medicopharma.co.kr/news/articleView.html?idxno=70373"
+    "https://www.medicopharma.co.kr/news/articleView.html?idxno=70373",
+    "https://www.public25.com/news/articleView.html?idxno=58343",
+    "https://biz.sbs.co.kr/article_hub/20000345858?division=NAVER",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000081897"
    ],
    "seen_titles": [
-    "동반위,동반성장지수최우수44곳선정…6곳명예기업합류",
-    "SK인텔릭스,웰니스로봇나무엑스1주년맞아사업확장",
-    "Korea’sexportconcentrationdeepensinQ3",
     "SKT,동반성장지수14년연속'최우수'…통신업계최장상생기록",
     "'최대2천억'이라던SK시그넷매각가…막상열어보니750억가능성",
     "[젠슨황리스크]美의회,AI칩대중수출규제강화압박…트럼프와충...",
@@ -3454,10 +3451,13 @@
     "코어위브가되살린AI수요기대…나스닥1.6%반등[뉴욕마감]",
     "[증시키워드]CES혁신상기술株강세…경영권분쟁차익매물한진칼...",
     "미‘대중반도체3법’재점화…미중회담앞두고딜레마",
-    "SK바이오팜'솔리암페톨'적응증확대속도…美4개3상진행,中도신청"
+    "SK바이오팜'솔리암페톨'적응증확대속도…美4개3상진행,中도신청",
+    "뉴욕증시,코어위브훈풍에강세나스닥1.6%↑...국제유가WTI0.57%↑",
+    "코어위브깜짝실적에…美AI반도체주일제히급등",
+    "美,중국반도체규제3법추진…삼성·SK中공장장비반입비상"
    ],
    "initialized": true,
-   "last_run": "2026-11-12T07:20:28.637694+09:00"
+   "last_run": "2026-11-12T07:25:21.204458+09:00"
   }
  },
  "press_names": {
