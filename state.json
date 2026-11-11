@@ -162,11 +162,13 @@
     [
      "2026-11-12T03:30:35.922165+09:00",
      "터지자 아시아 7억 대만이 부른 호황이 성과급 삼성전자 멈췄다"
+    ],
+    [
+     "2026-11-12T03:55:21.531021+09:00",
+     "상승 넘어 SNDK 장중 샌디스크 반도체지수"
     ]
    ],
    "seen_urls": [
-    "https://www.e-science.co.kr/news/articleView.html?idxno=139441",
-    "https://www.etnews.com/20261111000118",
     "https://www.fnnews.com/news/202611110935218788",
     "https://sateconomy.co.kr/news/view/1065575607969549",
     "http://www.4th.kr/news/articleView.html?idxno=2121581",
@@ -1664,11 +1666,11 @@
     "https://www.fnnews.com/news/202611120250041533",
     "https://www.g-enews.com/view.php?ud=202611111925134530fbbec65dfb_1",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=93879",
-    "https://www.news1.kr/world/usa-canada/6351164"
+    "https://www.news1.kr/world/usa-canada/6351164",
+    "https://www.mt.co.kr/industry/2026/11/12/2026111119515668397",
+    "https://www.tokenpost.kr/news/market/436731"
    ],
    "seen_titles": [
-    "[뉴스초점]젠슨황스캔들파장…\"10조원대AI칩中으로\"",
-    "씨케이솔루션,3분기영업익109억원…반도체·배터리수주확대",
     "삼성자산운용,‘KODEX200타겟위클리커버드콜’11월분배금266원지급",
     "[위클리오늘]울산아파트값4.2%상승···미분양1년새19.7%감소",
     "SK하이닉스,오작동·해킹막는안전·보안국제인증…피지컬AI메모리...",
@@ -3166,10 +3168,12 @@
     "美의회,'반도체수출통제3법'탄력...韓업체에도불똥튀나",
     "\"성과급7억원터지자대만이멈췄다\"…삼성전자호황이부른아시아...",
     "[뉴욕증시장중],코어위브호실적에기술주반등…반도체지수5%대급등",
-    "강경화\"핵잠건조·원자력협력진전으로한미안보협력강화될것\""
+    "강경화\"핵잠건조·원자력협력진전으로한미안보협력강화될것\"",
+    "반도체장기호황확신?…TSMC55조베팅,삼전닉스미소",
+    "반도체지수장중6.12%상승…샌디스크($SNDK)15.4%넘어"
    ],
    "initialized": true,
-   "last_run": "2026-11-12T03:50:27.693938+09:00"
+   "last_run": "2026-11-12T03:55:21.531021+09:00"
   }
  },
  "press_names": {
