@@ -673,9 +673,6 @@
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026111106504630213",
-    "https://www.newscj.com/news/articleView.html?idxno=3447768",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=93788",
     "http://www.press9.kr/news/articleView.html?idxno=86025",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082169",
     "https://www.newsis.com/view/NISX20261111_0003863618",
@@ -2172,12 +2169,12 @@
     "http://www.datanews.co.kr/news/article.html?no=147508",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4444309",
     "http://www.datanews.co.kr/news/article.html?no=147507",
-    "https://www.dailian.co.kr/news/view/1713957/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1713957/?sc=Naver",
+    "https://www.newsis.com/view/NISX20261111_0003864078",
+    "http://www.inews24.com/view/2025231",
+    "https://www.newsis.com/view/NISX20261112_0003864777"
    ],
    "seen_titles": [
-    "[속보]'4%급등'코스닥,연이틀매수사이드카발동…700선회복시도",
-    "젠슨황스캔들에美내렸는데코스닥'사이드카'…2차전지·반도체↑",
-    "코스피16%폭락한달에'빚투'다시늘어…개미들어쩌나",
     "SKT,동반성장지수14년연속'최우수'…국내기업단두곳",
     "삼성전자15년연속'최우수'…동반성장명예기업20곳으로",
     "악재뚫은수출...반도체앞세워'1조달러'성큼",
@@ -3674,10 +3671,13 @@
     "통신3사,매출은감소이익은급증…5조원돌파한다",
     "역대최저밸류에이션…SK증권,반도체비중확대주문",
     "우리투자증권,IB수수료수익163.5%↑…종투사도약발판",
-    "SKT해킹충격90%회복한‘성실성’…기업신뢰는아직64%"
+    "SKT해킹충격90%회복한‘성실성’…기업신뢰는아직64%",
+    "엔비디아,젠슨황해임준비까지…'AI반도체'시장판도달라지나",
+    "젠슨황불륜상대中스파이의혹…AI·반도체업계'방첩비상'",
+    "KB증권\"기술주공매도정점…삼전·닉스반등탄력커질것\""
    ],
    "initialized": true,
-   "last_run": "2026-11-12T08:45:24.401362+09:00"
+   "last_run": "2026-11-12T08:50:27.407116+09:00"
   }
  },
  "press_names": {
