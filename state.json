@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-11T07:40:26.429417+09:00",
-     "석방 20일 한겨레 9일 사건은 회부 만에 조희대 이재명 전합 한덕수"
-    ],
-    [
-     "2026-11-11T07:40:26.429417+09:00",
-     "D램 HBM 질주 범용 반전 절벽 폭등과 뜻밖의"
-    ],
-    [
-     "2026-11-11T07:40:26.429417+09:00",
-     "사이드카 매수 중간선거 발동 걷힐까 쇼크 젠슨"
-    ],
-    [
      "2026-11-11T07:45:25.125808+09:00",
      "한덕수가 슬로우레터 대법원 질질 공범 끄는 11월11일 풀려나오나 내란"
     ],
@@ -1038,15 +1026,21 @@
     [
      "2026-11-11T13:35:20.580526+09:00",
      "엔비디아 SK하이닉스 24시간 상승 시세"
+    ],
+    [
+     "2026-11-11T13:40:26.573230+09:00",
+     "C등급 동반성장 KGM 쿠팡 S등급 연속 D등급 삼성전자 15년 성적표"
+    ],
+    [
+     "2026-11-11T13:40:26.573230+09:00",
+     "최고등급 바이오기업 ESG 송도 국내외 잇따라 앞장 경영 인천 평가서"
+    ],
+    [
+     "2026-11-11T13:40:26.573230+09:00",
+     "플랫폼 발표 동반성장 온라인 37개사 연말 미흡"
     ]
    ],
    "seen_urls": [
-    "https://www.topdaily.kr/articles/112813",
-    "https://www.news1.kr/finance/general-stock/6349380",
-    "http://www.kjdaily.com/article.php?aid=1794295991691777276",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4444014",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=451641",
-    "https://biz.chosun.com/it-science/ict/2026/11/10/ZZNCP5ESDZCLJFQFFG5WCVHHL4/",
     "https://en.yna.co.kr/view/AEN20261110007352320?input=2106m",
     "https://www.etoday.co.kr/news/view/2646439",
     "https://www.nocutnews.co.kr/news/6604807",
@@ -2540,15 +2534,15 @@
     "https://www.dt.co.kr/article/12094527",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=325543",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=67518",
-    "https://www.tokenpost.kr/news/market/436383"
+    "https://www.tokenpost.kr/news/market/436383",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=281022",
+    "https://www.seoultimes.news/news/article.html?no=2000102054",
+    "http://www.segyebiz.com/newsView/20261111509769?OutUrl=naver",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082167",
+    "https://www.joongboo.com/news/articleView.html?idxno=363742155",
+    "https://www.newsis.com/view/NISX20261111_0003863758"
    ],
    "seen_titles": [
-    "[금융권수장교체][KB자산운용]김영성대표,ETF점유율성과···임기...",
-    "'메모리겨울'모건스탠리,이번엔'실적절벽'…\"삼전30만·SK하닉160만...",
-    "삼성전자4.74%·SK하이닉스6.69%주가상승마감",
-    "두나무김형년\"삼전닉스토큰해외거래에가슴아파…기술준비끝났다...",
-    "구글새AI칩으로'탈엔비디아'가속,삼성전자·SK하이닉스HBM최대공...",
-    "‘젠슨황리스크’에엔비디아불확실성부각…삼성전자·SK하이닉스...",
     "(2ndLD)Seoulsharessoarover4pcttosnap3-dayslideontechrally,..",
     "KT,실적주춤해도AIDC수주늘었다…통신3사'AI인프라'경쟁",
     "블루쓰나미딛고4%대반등성공한코스피·코스닥,흐름이어질까",
@@ -4042,10 +4036,16 @@
     "SK그룹,12~14일‘CEO세미나’…AI·리밸런싱등논의",
     "'탈통신·AI'외쳤지만...기저효과에기댄이통3사,위태로운반등",
     "[로드픽]AMD,최대256코어CPU탑재서버출하…AI비용경쟁,GPU밖으...",
-    "SK하이닉스24시간시세7.20%상승…엔비디아2.38%"
+    "SK하이닉스24시간시세7.20%상승…엔비디아2.38%",
+    "SK에코플랜트,동반성장지수10년연속최우수달성",
+    "SK텔레콤,동반성장지수14년연속최우수…국내기업2곳뿐",
+    "젠슨황‘스파이접근’의혹파문…한국도반도체기술유출‘빨간등...",
+    "'동반성장성적표'D등급KGM,C등급쿠팡…삼성전자,15년연속S등급",
+    "인천송도바이오기업ESG경영앞장...국내외평가서잇따라최고등급",
+    "동반성장미흡37개사…\"연말'온라인플랫폼'발표\"(종합)"
    ],
    "initialized": true,
-   "last_run": "2026-11-11T13:35:20.580526+09:00"
+   "last_run": "2026-11-11T13:40:26.573230+09:00"
   }
  },
  "press_names": {
