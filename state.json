@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-12T00:50:27.937958+09:00",
-     "젠슨 173달러대 서울 논란에 주가 미국 엔비디아 언급 대사까지"
-    ],
-    [
-     "2026-11-12T00:55:20.534701+09:00",
-     "주가 시총 이틀 상승 효성중공업 16조7천189억 연속"
-    ],
-    [
      "2026-11-12T01:00:42.450384+09:00",
      "스캔들로 의회 3법 주목 젠슨황 칩규제 영향 탄력"
     ],
@@ -338,12 +330,21 @@
     [
      "2026-11-12T06:50:25.198658+09:00",
      "기술주 쌍끌이 나스닥 코어위브 앤트로픽이"
+    ],
+    [
+     "2026-11-12T06:55:20.587543+09:00",
+     "HK이노엔 SK케미칼 삼성바이오 동아제약"
+    ],
+    [
+     "2026-11-12T06:55:20.587543+09:00",
+     "마이크론 130조원 급등 하루새 일제히 AI반도체주 시총"
+    ],
+    [
+     "2026-11-12T06:55:20.587543+09:00",
+     "올랐다 ETF 불륜 악재 살펴 성적표 엔비디아 7종 흔들리는데"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/economy/trend/6350218",
-    "https://www.yna.co.kr/view/AKR20261111074000008?input=1195m",
-    "https://biz.sbs.co.kr/article_hub/20000345635?division=NAVER",
     "https://www.rcast.co.kr/news/articleView.html?idxno=32036",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=601980",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=280983",
@@ -1840,12 +1841,12 @@
     "https://www.moneystorm.kr/news/articleView.html?idxno=8337",
     "https://www.jasm.co.kr/news/view/325012/?sc=Naver",
     "https://www.sedaily.com/article/20113237",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4444281"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4444281",
+    "https://www.dailymedi.com/news/news_view.php?wr_id=942497",
+    "https://www.yna.co.kr/view/AKR20261112011400009?input=1195m",
+    "https://www.startuptoday.co.kr/news/articleView.html?idxno=818774"
    ],
    "seen_titles": [
-    "SK하이닉스저전력D램,산업용기능안전SIL3인증…피지컬AI확장",
-    "CNT도전재부터실리콘음극재까지…2차전지소재부품주매수세봇물",
-    "SK·롯데·LG·한국GM까지…대기업희망퇴직확산,최대40개월치급여...",
     "[단독]SK그룹사옥재배치가속…SK이노베이션,수송동'세미콜론'으로...",
     "\"학력안봅니다\"…꿈의직장'킹산직'채용문열렸다",
     "\"회장불러라\"일단채택하고빼주기24건…흥정수단된'국감증인'",
@@ -3342,10 +3343,13 @@
     "[글로벌마켓뷰]코어위브발AI훈풍에뉴욕증시반등…나스닥1.6%↑·...",
     "[뉴욕증시]코어위브깜짝실적AI투자심리회복에상승…나스닥1.60%↑",
     "나스닥,코어위브·앤트로픽호재에1.6%↑...반도체주급등[데일리국...",
-    "[뉴욕증시]코어위브·앤트로픽이기술주쌍끌이…나스닥1.6%↑"
+    "[뉴욕증시]코어위브·앤트로픽이기술주쌍끌이…나스닥1.6%↑",
+    "동아제약·삼성바이오·HK이노엔·SK케미칼'A+'",
+    "AI반도체주일제히급등…마이크론시총하루새130조원↑",
+    "[심층]'불륜악재'엔비디아흔들리는데ETF올랐다?…7종성적표살펴..."
    ],
    "initialized": true,
-   "last_run": "2026-11-12T06:50:25.198658+09:00"
+   "last_run": "2026-11-12T06:55:20.587543+09:00"
   }
  },
  "press_names": {
