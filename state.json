@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-11T14:00:38.895074+09:00",
-     "정유사 삼중 통제는 80달러대인데 청구서 그대로 두바이유"
-    ],
-    [
-     "2026-11-11T14:00:38.895074+09:00",
-     "분양 현대엔지니어링 울산역리버포레 힐스테이트 11월"
-    ],
-    [
      "2026-11-11T14:05:21.692769+09:00",
      "split sharply on chip Morgan stocks Nomura Stanley"
     ],
@@ -1230,12 +1222,21 @@
     [
      "2026-11-11T19:55:20.588575+09:00",
      "간다 워니"
+    ],
+    [
+     "2026-11-11T20:00:41.343014+09:00",
+     "미스매치 해결해야 클러스터 주정민 반도체 인력양성"
+    ],
+    [
+     "2026-11-11T20:00:41.343014+09:00",
+     "인천 ESG 성적표 바이오기업 맑음"
+    ],
+    [
+     "2026-11-11T20:00:41.343014+09:00",
+     "기초 논의는 AIDC 강원도는 전력망부터"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=03552246645644736&mediaCodeNo=257",
-    "http://www.wsobi.com/news/articleView.html?idxno=321461",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=424937",
     "https://www.topstarnews.net/news/articleView.html?idxno=16273528",
     "https://www.ddaily.co.kr/page/view/2026111109210807458",
     "https://www.hankyung.com/article/2026111193136",
@@ -2732,12 +2733,12 @@
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5230340",
     "https://www.jasm.co.kr/news/view/324996/?sc=Naver",
     "https://www.itdaily.kr/news/articleView.html?idxno=242861",
-    "https://www.yna.co.kr/view/PYH20261111209800052?input=1196m"
+    "https://www.yna.co.kr/view/PYH20261111209800052?input=1196m",
+    "http://www.kjdaily.com/article.php?aid=1794394516692002028",
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1336599",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710238"
    ],
    "seen_titles": [
-    "\"소액투자도깐깐하게\"…코스피대기업'투명경영'강화",
-    "[오피셜]'10월4경기8득점2실점'…인천윤정환감독,2026시즌10월'...",
-    "코스피,美CPI충격딛고상승전환…5200선공방",
     "'삼전닉스'장초반약보합…美CPI상승vs코어위브호실적[핫종목]",
     "[K-빅샷룩업]이천에모이는최태원과SKCEO들…'AI·재편'결실잰다",
     "[특징주]'삼전닉스'약보합출발⋯美기술주약세에도낙폭제한",
@@ -4234,10 +4235,13 @@
     "좁은취업문속열린'억대성과급'하이닉스의생산직채용…학력도무...",
     "용인시,반도체소부장기업탄소중립전환위한정책방향모색",
     "RAN성능비교할벤치마크나온다…이르면연말공개",
-    "SK워니'간다'"
+    "SK워니'간다'",
+    "반도체클러스터,인력양성미스매치해결해야/주정민",
+    "인천바이오기업ESG성적표'맑음'",
+    "[취재파일7]“AIDC기초논의는전력망부터”…강원도는?"
    ],
    "initialized": true,
-   "last_run": "2026-11-11T19:55:20.588575+09:00"
+   "last_run": "2026-11-11T20:00:41.343014+09:00"
   }
  },
  "press_names": {
