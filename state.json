@@ -1082,19 +1082,13 @@
     [
      "2026-11-12T10:50:26.554315+09:00",
      "채용설명회 21개 강화 취업 기업 영남이공대 경쟁력"
+    ],
+    [
+     "2026-11-12T10:55:20.280908+09:00",
+     "점수 전년보다 실적 단계 오른 상승폭 동반성장 SK인텔릭스"
     ]
    ],
    "seen_urls": [
-    "http://www.newstomato.com/ReadNews.aspx?no=1320060&inflow=N",
-    "https://www.ekn.kr/web/view.php?key=20261111024378231",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7193361",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611110111&t=NN",
-    "https://www.fnnews.com/news/202611111429404859",
-    "http://www.beyondpost.co.kr/view.php?ud=2026111115030074012aaae0046f_30",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714494",
-    "https://www.mt.co.kr/living/2026/11/11/2026111111221678568",
-    "https://m.sports.naver.com/basketball/article/065/0000304458",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=300116",
     "https://www.yna.co.kr/view/AKR20261111085651030?input=1195m",
     "https://www.biospectator.com/view/news_view.php?varAtcId=30374",
     "https://www.mt.co.kr/economy/2026/11/11/2026111115052079246",
@@ -2584,19 +2578,19 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503309",
     "https://www.newsis.com/view/NISX20261112_0003865196",
     "http://www.ddanzi.com/898735062",
-    "https://www.dkilbo.com/news/articleView.html?idxno=560480"
+    "https://www.dkilbo.com/news/articleView.html?idxno=560480",
+    "http://www.ttlnews.com/news/articleView.html?idxno=3161611",
+    "https://www.hankyung.com/article/2026111223646",
+    "https://www.dt.co.kr/article/12094775",
+    "https://biz.newdaily.co.kr/site/data/html/2026/11/12/2026111200113.html",
+    "http://www.joseilbo.com/news/news_read.php?uid=579499&class=32",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=451809",
+    "https://www.widedaily.com/news/articleView.html?idxno=303481",
+    "https://view.asiae.co.kr/article/2026111210485976541",
+    "https://thetracker.co.kr/View.aspx?No=4309119",
+    "https://www.e-science.co.kr/news/articleView.html?idxno=139580"
    ],
    "seen_titles": [
-    "SK텔레콤8만2800원…통신·AI실적기대에1.60%↑",
-    "동반성장최우수기업에한화,두산에너빌리티등44곳선정",
-    "“회사옷입고외출금지”…젠슨황스캔들에테크업계스파이경계령",
-    "SK에코플랜트,동반성장지수10년연속'최우수'[건설·분양오늘]",
-    "울산아파트값4.2%상승·미분양감소…서울산개발사업도속도",
-    "동반성장최우수명예삼성전자등20곳…기업·우리은행우수상생",
-    "2026년동반성장지수등급발표..삼성전자,15년연속최우수",
-    "반도체용수확보첫발뗀동복댐증축…김성환장관첫주민대면",
-    "수출호황에도깊어지는양극화...정부,범부처TF가동",
-    "소버린바이오,국가전략자산되나...\"AI신약주권확보하라\"",
     "울산부동산회복흐름...서울산개발속도내며기대감상승",
     "[하창봉머니인사이트]바닥확인과정서실적·주가수준근거로반도...",
     "SK하이닉스,LPDDR5X안전·보안인증확대…로봇·자율주행시장공략",
@@ -4086,10 +4080,20 @@
     "5G통신장비주강세…AI·자율주행인프라투자기대확산",
     "'젠슨황'퇴진위기에AI펀더멘털도흔들리나…삼전·닉스주가향방...",
     "[뉴공아카이브]백년위원회:D-7수능코앞…AI‘스마트안경’부정행...",
-    "영남이공대,21개기업채용설명회…취업경쟁력강화"
+    "영남이공대,21개기업채용설명회…취업경쟁력강화",
+    "뉴욕명품부촌맨해튼트라이베카뚫은K-디벨로퍼...HM그룹1800억럭...",
+    "코스피,개인매수세속5400선공방…삼성전자2%대↑",
+    "2730억흑자→591억적자…국고채담합과징금,손실폭탄터졌다",
+    "하루아침에'수백억'영업손실'날벼락'…증권사,공정위1.4조과징금...",
+    "'충청권메가프로젝트'첫삽…이대통령\"대체불가대한민국세우는디...",
+    "코스피개인·외국인순매수에장중5400선강보합세,코스닥은700선약...",
+    "기술주공매도쏠림극단달했다…KB證\"삼성전자·SK하이닉스반등탄...",
+    "젠슨황스캔들에美·中반도체규제강화…싱가포르에도여파(종합)",
+    "SKT,고객보호·소통노력인정…성실성평가90%회복",
+    "SK인텔릭스,동반성장실적점수상승폭최대…전년보다한단계오른'..."
    ],
    "initialized": true,
-   "last_run": "2026-11-12T10:50:26.554315+09:00"
+   "last_run": "2026-11-12T10:55:20.280908+09:00"
   }
  },
  "press_names": {
