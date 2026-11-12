@@ -241,8 +241,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261112_0003864973",
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=624683",
     "https://news.bizwatch.co.kr/article/market/2026/11/12/0005",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=602023",
     "https://www.dailian.co.kr/news/view/1713715/?sc=Naver",
@@ -1740,11 +1738,11 @@
     "https://www.ntoday.co.kr/news/articleView.html?idxno=130831",
     "https://www.hankookilbo.com/news/article/A2026111300480003104?did=NA",
     "http://www.issuenbiz.com/news/articleView.html?idxno=81546",
-    "https://www.newsverse.kr/news/articleView.html?idxno=11918"
+    "https://www.newsverse.kr/news/articleView.html?idxno=11918",
+    "https://www.mydaily.co.kr/page/view/2026111209440911812",
+    "https://www.cstimes.com/news/articleView.html?idxno=727748"
    ],
    "seen_titles": [
-    "코스피,장초반5380선강보합출발…코스닥700선개장",
-    "[모닝리포트]\"대신증권,쉽지않은하반기\"…목표가3만원으로하향",
     "코스피,장초반5400선회복…'젠슨황해임설'에변동성장세",
     "[분석]증권·은행,공정위국고채담합과징금4분기실적에부담",
     "1.6조원국채담합과징금에증권사실적도줄줄이적자전환",
@@ -3242,10 +3240,12 @@
     "퇴장한'깐부'젠슨황…삼성·SK·현대차'엔비디아동맹'안갯속",
     "그가없는엔비디아,AI돈줄비상",
     "[뉴스이슈&비즈]엔비디아해임설·미AI칩규제검토…삼성·SK하이닉스...",
-    "[오늘의경제뉴스]코어위브깜짝실적에반도체주온기…AI수익성입증..."
+    "[오늘의경제뉴스]코어위브깜짝실적에반도체주온기…AI수익성입증...",
+    "48억헐값만들었는데…208안타사나이왜고개숙였나,90승2위한으로...",
+    "인천경제청,'아이에스시'송도신공장착공…AI반도체소켓생산·연구..."
    ],
    "initialized": true,
-   "last_run": "2026-11-13T01:40:30.298668+09:00"
+   "last_run": "2026-11-13T01:45:26.327019+09:00"
   }
  },
  "press_names": {
