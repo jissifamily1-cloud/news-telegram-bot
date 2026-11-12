@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-12T13:15:24.904878+09:00",
-     "추빈속에 주거단지 이차전지 데이터센터 포항 건립 푸르지오 인근"
-    ],
-    [
-     "2026-11-12T13:15:24.904878+09:00",
-     "국고 전일 크레디트 약세 3년 4bp 양호 투심도 되돌림"
-    ],
-    [
-     "2026-11-12T13:15:24.904878+09:00",
-     "대신 맞춤형 제안 기업에 효율 비싼 협력 인텔 반도체"
-    ],
-    [
      "2026-11-12T13:20:26.538848+09:00",
      "시스템반도체 기대에 수요 확대 상승랠리 종목별 자율주행"
     ],
@@ -1306,13 +1294,17 @@
     [
      "2026-11-12T19:10:32.327179+09:00",
      "일감 안방 뺏길"
+    ],
+    [
+     "2026-11-12T19:15:26.298787+09:00",
+     "집중 첨단 정부 그쳐 영남권은 GPU 수도권"
+    ],
+    [
+     "2026-11-12T19:15:26.298787+09:00",
+     "전남광주 분주 물밑 반도체 클러스터 준비"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2647125",
-    "https://biz.sbs.co.kr/article_hub/20000345866?division=NAVER",
-    "http://www.yonhapnewstv.co.kr/news/MYH20261112082548IWz",
-    "https://www.ajunews.com/view/20261112082304847",
     "https://www.pointe.co.kr/news/articleView.html?idxno=87605",
     "http://www.yonhapnewstv.co.kr/news/MYH20261112082349paj",
     "https://www.ytn.co.kr/_ln/0104_202611120825494503",
@@ -2808,13 +2800,13 @@
     "https://www.sedaily.com/article/20113737",
     "https://www.dt.co.kr/article/12094951",
     "https://www.koreajoongangdaily.com/business/us-push-to-tighten-chip-restrictions-on-china-could-make-korea-collateral-damage/12970540",
-    "https://www.ccdn.co.kr/news/articleView.html?idxno=1110829"
+    "https://www.ccdn.co.kr/news/articleView.html?idxno=1110829",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503542",
+    "https://www.hani.co.kr/arti/economy/global/1287092.html",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090693",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711261"
    ],
    "seen_titles": [
-    "메리츠증권,자금공급을넘어기업의재무전략을설계하다",
-    "반도체ETFSOXL2억달러순매도…SOXS순매수1위",
-    "하나證“AI수요못따라가는반도체공급…2028년까지메모리부족지...",
-    "[어제장오늘장]빅스텝우려뚫고반등…코스피5,400선안착할까",
     "AI반도체주급등…'반등'엔비디아시간외급락",
     "[마켓프리뷰]젠슨황해임우려·코어위브호실적교차…코스피혼조...",
     "선제적설비투자빛난코스맥스…증권가목표가·실적전망상향",
@@ -4310,10 +4302,14 @@
     "‘칩통제’불똥튀나삼전닉스긴장…5000억달러순환금융도위험노...",
     "젠슨황'OUT'…AI방향타흔들",
     "U.S.pushtotightenchiprestrictionsonChinacouldmakeKoreacollat",
-    "[SK하이닉스청주M17셔틀버스운영사선정임박]안방일감뺏길판....."
+    "[SK하이닉스청주M17셔틀버스운영사선정임박]안방일감뺏길판.....",
+    "전남대취업박람회에기업59곳·청년3734명참여",
+    "엔비디아독주에균열갈까…시장에선삼성↑,하이닉스↓",
+    "정부첨단GPU71.7%수도권집중…영남권은6.9%그쳐",
+    "전남광주반도체클러스터물밑준비‘분주’"
    ],
    "initialized": true,
-   "last_run": "2026-11-12T19:10:32.327179+09:00"
+   "last_run": "2026-11-12T19:15:26.298787+09:00"
   }
  },
  "press_names": {
