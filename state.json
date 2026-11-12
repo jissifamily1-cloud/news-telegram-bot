@@ -282,12 +282,21 @@
     [
      "2026-11-13T06:15:28.010367+09:00",
      "브랜드 올리브영 체험 도전 줄이고 아성 뷰티컬리 택한"
+    ],
+    [
+     "2026-11-13T06:20:25.594803+09:00",
+     "마감 반도체 주요 일제히 하락 약세 미국 지수 증시"
+    ],
+    [
+     "2026-11-13T06:20:25.594803+09:00",
+     "변화시키겠다 대통령 이재명 국민 메가프로젝트로 지역과"
+    ],
+    [
+     "2026-11-13T06:20:25.594803+09:00",
+     "경기 15일 내일의"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000345889?division=NAVER",
-    "https://www.news1.kr/industry/general-industry/6351529",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=281088",
     "https://edu.donga.com/news/articleView.html?idxno=113733",
     "https://biz.heraldcorp.com/article/10934733",
     "https://www.yna.co.kr/view/AKR20261112052900002?input=1195m",
@@ -1784,12 +1793,12 @@
     "https://news.tf.co.kr/read/economy/2388245.htm",
     "https://www.enetnews.co.kr/news/articleView.html?idxno=56296",
     "https://www.hitnews.co.kr/news/articleView.html?idxno=80735",
-    "https://www.newstopkorea.com/news/articleView.html?idxno=48987"
+    "https://www.newstopkorea.com/news/articleView.html?idxno=48987",
+    "https://www.seoul.co.kr/news/economy/2026/11/13/20261113500006?wlog_tag3=naver",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3750661",
+    "https://www.yna.co.kr/view/AKR20261112101900007?input=1195m"
    ],
    "seen_titles": [
-    "SKT,침해사고이후'성실성'평가하락폭90%회복",
-    "[마켓펄스]코어위브'어닝서프라이즈'에AI우려완화...삼전닉스강세",
-    "나라살림적자32조원…반도체덕에8년만에최소",
     "SK인텔릭스,동반성장지수'우수'…전년보다한단계상승",
     "U.S.PushesNewChinaChipCurbs,PuttingKoreanManufacturersinFocu",
     "고려대,'제4회LabtoLife연구페스티벌'및'BK21K-3MTCompetition전국...",
@@ -3286,10 +3295,13 @@
     "개보위,알뜰폰8개사개인정보관리부실적발…1억7130만원제재",
     "[브랜드평판]삼성바이오로직스,제약상장기업11월1위...셀트리온,유...",
     "증권가가본제약바이오반등조건…기대감걷고'숫자'로승부",
-    "브랜드줄이고'체험'택한뷰티컬리…올리브영아성도전"
+    "브랜드줄이고'체험'택한뷰티컬리…올리브영아성도전",
+    "[서울데이터랩]미국증시,주요지수일제히하락마감…반도체약세속...",
+    "이재명대통령\"메가프로젝트로지역과국민삶변화시키겠다\"",
+    "◇내일의경기(14·15일)"
    ],
    "initialized": true,
-   "last_run": "2026-11-13T06:15:28.010367+09:00"
+   "last_run": "2026-11-13T06:20:25.594803+09:00"
   }
  },
  "press_names": {
