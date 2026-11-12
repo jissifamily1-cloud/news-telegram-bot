@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-13T00:55:24.565158+09:00",
-     "넘어 메가프로젝트 전격전 속도전"
-    ],
-    [
      "2026-11-13T01:00:42.763158+09:00",
      "기술성평가 기술특례상장 통과 엔라이튼"
     ],
@@ -314,11 +310,13 @@
     [
      "2026-11-13T06:55:21.505937+09:00",
      "정부 충청 삼성전자 메가"
+    ],
+    [
+     "2026-11-13T07:00:39.198884+09:00",
+     "가동률 독일 그쳐 IDT 안동공장은 SK바이오사이언스"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261112_0003865045",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000081989",
     "https://www.fnnews.com/news/202611121006293752",
     "https://www.sedaily.com/article/20113331",
     "https://www.pointe.co.kr/news/articleView.html?idxno=87618",
@@ -1816,11 +1814,11 @@
     "https://www.sentv.co.kr/article/view/sentv202611130003",
     "https://www.news2day.co.kr/article/20261113500009",
     "https://www.venturesquare.net/1128301/",
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=366095"
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=366095",
+    "https://biz.sbs.co.kr/article_hub/20000346127?division=NAVER",
+    "https://www.medicopharma.co.kr/news/articleView.html?idxno=70399"
    ],
    "seen_titles": [
-    "SK인텔릭스,2026동반성장지수'우수'…상승폭평가대상중최대",
-    "[속보]엔비디아이사회,젠슨황해임준비…직속부사장과'두번째불...",
     "이대통령,'충청권메가프로젝트'착공식참석…\"中企·소상공인,성장...",
     "젠슨황불륜파문,안보·경영위기로…국내반도체도촉각",
     "李대통령,충청권메가프로젝트착공식…이재용삼성회장도참석",
@@ -3318,10 +3316,12 @@
     "용인반도체고첫신입생134명확정…전국서620명몰렸다",
     "[N2포커스]은행권국고채담합과징금2505억원…실적·자본비율부담...",
     "사람을더모으는대신더잘모셨다…컬리뷰티페스타2026의선택",
-    "정부·삼성전자,충청메가첫삽"
+    "정부·삼성전자,충청메가첫삽",
+    "[증시전략]젠슨황,사실상해임…엔비디아주가한때14%급락",
+    "SK바이오사이언스,독일IDT가동률77%…안동공장은28%그쳐"
    ],
    "initialized": true,
-   "last_run": "2026-11-13T06:55:21.505937+09:00"
+   "last_run": "2026-11-13T07:00:39.198884+09:00"
   }
  },
  "press_names": {
