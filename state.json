@@ -393,8 +393,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261112000412",
-    "https://magazine.hankyung.com/business/article/202611122183b",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=315201",
     "https://www.sedaily.com/article/20113336",
     "https://www.edaily.co.kr/News/Read?newsId=02706006645645064&mediaCodeNo=257",
@@ -1892,11 +1890,11 @@
     "https://www.bzeronews.com/news/articleView.html?idxno=825270",
     "https://www.businesspost.co.kr/BP?command=article_view&num=450976",
     "https://www.topstarnews.net/news/articleView.html?idxno=16275371",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503596"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503596",
+    "https://www.econovill.com/news/articleView.html?idxno=757069",
+    "https://www.sedaily.com/article/20113786"
    ],
    "seen_titles": [
-    "충청권메가프로젝트‘첫삽‘…李대통령,삼성전자온양착공식참석",
-    "SKT,침해사고후성실성평가90%회복…기업신뢰는64%",
     "李대통령,충청메가프로젝트'첫삽'현장찾는다…성과확산·中企상...",
     "[속보]나라살림적자,8년만최소",
     "일본이장악한반도체재생웨이퍼시장…에이텍솔루션,1514억투자로판...",
@@ -3394,10 +3392,12 @@
     "눈길·한파·난방비걱정던다…청주'겨울철생활안전망'가동",
     "[WhoIs?]김윤상한양디지텍대표이사",
     "미국증시,젠슨황사임·국채금리5%돌파에하락…엔비디아4.34%↓브...",
-    "엔비디아위기에AMD·브로드컴급등…삼성전자까지반사이익볼까"
+    "엔비디아위기에AMD·브로드컴급등…삼성전자까지반사이익볼까",
+    "젠슨황,엔비디아CEO사임…한국과깐부동맹불투명",
+    "뉴욕증시,젠슨황퇴진에하락...“이란합의불필요”유가는급등[..."
    ],
    "initialized": true,
-   "last_run": "2026-11-13T07:10:32.836014+09:00"
+   "last_run": "2026-11-13T07:15:26.059950+09:00"
   }
  },
  "press_names": {
