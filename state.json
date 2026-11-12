@@ -1141,7 +1141,6 @@
     ]
    ],
    "seen_urls": [
-    "https://basketkorea.com/news/newsview.php?ncode=1065545274163130",
     "https://www.peoplewatch.co.kr/article/view/ppw202611120003",
     "http://www.press9.kr/news/articleView.html?idxno=86100",
     "https://www.news1.kr/it-science/cc-newmedia/6351335",
@@ -2640,10 +2639,10 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=626048",
     "http://www.newstown.co.kr/news/articleView.html?idxno=721721",
     "http://www.kjdaily.com/article.php?aid=1794482743692140276",
-    "https://www.obsnews.co.kr/news/articleView.html?idxno=1543584"
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1543584",
+    "https://www.industrynews.co.kr/news/articleView.html?idxno=89440"
    ],
    "seen_titles": [
-    "\"국고채PD과징금,4Q증권업타격…중소형사적자\"-SK",
     "엔비디아이사회,젠슨황해임검토…\"이르면오늘회의\"",
     "[게임리포트]장민국과박정현,LG대승의쏠쏠했던지원군",
     "삼성물산패션,동반성장지수3년연속'최우수'…협력사79곳과공정거...",
@@ -4142,10 +4141,11 @@
     "[뉴욕증시브리핑]\"AI거품론지웠다\"코어위브24%폭등…반도체·기...",
     "인천경제청,아이에스시송도신공장착공…2028년가동",
     "SK하이닉스·삼성전자거래대금9.5조…외국인순매도로전환",
-    "젠슨황추가불륜보도…이사회해임수순"
+    "젠슨황추가불륜보도…이사회해임수순",
+    "코스피,사흘만에하락전환해0.61%내린5342.73마감…젠슨황해임..."
    ],
    "initialized": true,
-   "last_run": "2026-11-12T20:48:28.935756+09:00"
+   "last_run": "2026-11-12T20:50:26.474049+09:00"
   }
  },
  "press_names": {
