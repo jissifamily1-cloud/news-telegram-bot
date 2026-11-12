@@ -1306,13 +1306,21 @@
     [
      "2026-11-12T19:25:21.265354+09:00",
      "공방 여야 강릉 유치 데이터센터"
+    ],
+    [
+     "2026-11-12T19:30:36.401879+09:00",
+     "H주 속락 마감 매도에 홍콩 증시 지분조정"
+    ],
+    [
+     "2026-11-12T19:30:36.401879+09:00",
+     "대승 창원 LG SK에 서울"
+    ],
+    [
+     "2026-11-12T19:30:36.401879+09:00",
+     "이영직 경제 금융 아세안금융협력센터장"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261112_0003864761",
-    "https://www.chosun.com/economy/money/2026/11/12/KYAOWNMT5VB4BAVTJUNRAX4SYM/",
-    "https://www.cstimes.com/news/articleView.html?idxno=727603",
-    "http://www.segyebiz.com/newsView/20261112502954?OutUrl=naver",
     "https://www.edaily.co.kr/News/Read?newsId=02315686645645064&mediaCodeNo=257",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=882441",
     "https://view.asiae.co.kr/article/2026111208360482079",
@@ -2808,13 +2816,13 @@
     "https://www.edaily.co.kr/News/Read?newsId=04782246645645064&mediaCodeNo=257",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2491958",
     "https://www.edaily.co.kr/News/Read?newsId=04788806645645064&mediaCodeNo=257",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711306"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711306",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=281181",
+    "https://www.newsis.com/view/NISX20261112_0003866255",
+    "https://www.gnnews.co.kr/news/articleView.html?idxno=649453",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=451900"
    ],
    "seen_titles": [
-    "美AI훈풍에도'젠슨황리스크'…삼전닉스상승폭축소",
-    "[젠슨황스캔들]미국의회불똥튄K-반도체…'對中칩규제3법'리스...",
-    "\"정통스파이아닌신분세탁브로커\"…프로파일러가본'엘리스황'",
-    "외국인순매수전환에활짝웃은코스피...증권가“변동성정상화되면...",
     "SK에코플랜트,동반성장지수최우수10년연속달성",
     "[뉴욕증시]코어위브호실적에상승마감…나스닥1.6%↑",
     "\"반토막난삼전닉스,3개월내반등확률90%\"",
@@ -4310,10 +4318,14 @@
     "불륜또들통…젠슨황해임수순",
     "용인반도체고첫신입생134명선발…일반전형4.84대1",
     "원맨체제가독됐다…흔들리는엔비디아패권,AMD·브로드컴부상",
-    "‘강릉AI데이터센터유치’여야공방"
+    "‘강릉AI데이터센터유치’여야공방",
+    "NvidiaScandalHitsSouthKoreaPensionFund",
+    "[올댓차이나]홍콩증시,지분조정매도에속락마감…H주1.40%↓",
+    "창원LG,서울SK에101-72대승",
+    "[BP금융포럼in싱가포르]한-아세안금융협력센터장이영직\"금융경제..."
    ],
    "initialized": true,
-   "last_run": "2026-11-12T19:25:21.265354+09:00"
+   "last_run": "2026-11-12T19:30:36.401879+09:00"
   }
  },
  "press_names": {
