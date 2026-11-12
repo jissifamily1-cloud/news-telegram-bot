@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-13T00:20:30.926264+09:00",
-     "SK하이닉스 삼성전자 울었다 웃고 불확실성에 엔비디아"
-    ],
-    [
      "2026-11-13T00:25:21.618663+09:00",
      "절박한가 쓰나미 레드 우리는"
     ],
@@ -294,13 +290,17 @@
     [
      "2026-11-13T06:20:25.594803+09:00",
      "경기 15일 내일의"
+    ],
+    [
+     "2026-11-13T06:25:20.746593+09:00",
+     "HBM 가격 CEO 엔비디아 수익성 변수 압박하나 SK하이닉스"
+    ],
+    [
+     "2026-11-13T06:25:20.746593+09:00",
+     "ESS로 배터리3 전환해 저가공세 맞서는 EV 라인 돌파구"
     ]
    ],
    "seen_urls": [
-    "https://edu.donga.com/news/articleView.html?idxno=113733",
-    "https://biz.heraldcorp.com/article/10934733",
-    "https://www.yna.co.kr/view/AKR20261112052900002?input=1195m",
-    "https://www.mt.co.kr/tech/2026/11/12/2026111208360440912",
     "https://www.newsis.com/view/NISX20261112_0003864809",
     "https://www.news1.kr/sports/baseball/6351552",
     "https://news.tf.co.kr/read/economy/2387869.htm",
@@ -1796,13 +1796,13 @@
     "https://www.newstopkorea.com/news/articleView.html?idxno=48987",
     "https://www.seoul.co.kr/news/economy/2026/11/13/20261113500006?wlog_tag3=naver",
     "https://www.gukjenews.com/news/articleView.html?idxno=3750661",
-    "https://www.yna.co.kr/view/AKR20261112101900007?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261112101900007?input=1195m",
+    "https://www.news2day.co.kr/article/20261112500291",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=626344",
+    "https://www.newsverse.kr/news/articleView.html?idxno=11922",
+    "https://www.newstopkorea.com/news/articleView.html?idxno=48964"
    ],
    "seen_titles": [
-    "SK인텔릭스,동반성장지수'우수'…전년보다한단계상승",
-    "U.S.PushesNewChinaChipCurbs,PuttingKoreanManufacturersinFocu",
-    "고려대,'제4회LabtoLife연구페스티벌'및'BK21K-3MTCompetition전국...",
-    "수도권전셋값상승세지속…3억원대‘힐스테이트동탄르센텀’관심",
     "9월까지나라살림적자32조,8년만최소…세수호조에3분의1로",
     "\"1000만명쓰는데\"…알뜰폰8곳개인정보법위반",
     "\"유심팔면서주민번호수집\"…개인정보위,미디어로그·KT엠모바일과징...",
@@ -3298,10 +3298,14 @@
     "브랜드줄이고'체험'택한뷰티컬리…올리브영아성도전",
     "[서울데이터랩]미국증시,주요지수일제히하락마감…반도체약세속...",
     "이재명대통령\"메가프로젝트로지역과국민삶변화시키겠다\"",
-    "◇내일의경기(14·15일)"
+    "◇내일의경기(14·15일)",
+    "[N2모닝경제브리핑-11월12일]美증시,젠슨황사임충격에3대지수...",
+    "코스피·코스닥하락…삼성전기·에코프로비엠·주성엔지니어링등약세",
+    "엔비디아새CEO,HBM가격압박하나…SK하이닉스수익성변수",
+    "中저가공세맞서는배터리3社…美EV라인ESS로전환해'돌파구'"
    ],
    "initialized": true,
-   "last_run": "2026-11-13T06:20:25.594803+09:00"
+   "last_run": "2026-11-13T06:25:20.746593+09:00"
   }
  },
  "press_names": {
