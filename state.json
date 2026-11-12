@@ -494,11 +494,13 @@
     [
      "2026-11-12T23:25:21.316541+09:00",
      "169억원 영업이익 매출 SK오션플랜트 감소 3분기"
+    ],
+    [
+     "2026-11-12T23:30:36.829575+09:00",
+     "프로젝트 메가 온양서 1호 전격전 지원 입법도"
     ]
    ],
    "seen_urls": [
-    "https://www.ddaily.co.kr/page/view/2026111209154558303",
-    "https://www.dt.co.kr/article/12094742",
     "https://www.youthdaily.co.kr/news/article.html?no=229714",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4444339",
     "https://magazine.hankyung.com/business/article/202611057756b",
@@ -1996,11 +1998,11 @@
     "https://bizhankook.com/articles/jensen-huang-resigns-nvidia-ceo.html",
     "https://www.topstarnews.net/news/articleView.html?idxno=16275282",
     "https://www.segye.com/newsView/20261112519975?OutUrl=naver",
-    "https://www.vegannews.co.kr/news/article.html?no=404220"
+    "https://www.vegannews.co.kr/news/article.html?no=404220",
+    "https://www.sisajournal.com/news/articleView.html?idxno=393860",
+    "https://www.donga.com/news/Opinion/article/all/20261112/135017474/2"
    ],
    "seen_titles": [
-    "개인홀로'사자'코스피상승출발…옵션만기일·엔비디아'젠슨황리...",
-    "SK인텔릭스,2026동반성장지수'우수'등급...협력사대금지급조건개...",
     "SK인텔릭스,2026동반성장지수'우수'등급획득",
     "美AI주급등에도코스피5380선서공방…삼전·하닉‘혼조’",
     "'코어위브호실적'속AI투심부활…마이크론시총130조원껑충",
@@ -3498,10 +3500,12 @@
     "젠슨황엔비디아CEO사임,CFO콜레트크리스겸임",
     "젠슨황사임발표후엔비디아주가10.4%급락…나스닥선물도흔들,...",
     "젠슨황,결국불명예해임…사내임원과도혼외관계의혹",
-    "SK오션플랜트3분기매출60.2%감소…영업이익169억원"
+    "SK오션플랜트3분기매출60.2%감소…영업이익169억원",
+    "[종합]결국'젠슨황'없는엔비디아…코스피,'나떨고있니'",
+    "[사설]메가프로젝트1호온양서첫삽…지원입법도‘전격전’으로"
    ],
    "initialized": true,
-   "last_run": "2026-11-12T23:25:21.316541+09:00"
+   "last_run": "2026-11-12T23:30:36.829575+09:00"
   }
  },
  "press_names": {
