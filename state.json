@@ -210,11 +210,13 @@
     [
      "2026-11-13T05:05:23.908812+09:00",
      "흐른다 압도적 걱정없이 효율 손실 요금 K전력 정전"
+    ],
+    [
+     "2026-11-13T05:10:27.821229+09:00",
+     "중간선거발 앞세워 코스피 반도체 진정 규제 공포"
     ]
    ],
    "seen_urls": [
-    "https://www.ddaily.co.kr/page/view/2026111209263763381",
-    "https://www.hidomin.com/news/articleView.html?idxno=729039",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000081970",
     "https://www.joongangenews.com/news/articleView.html?idxno=563229",
     "https://www.joongangenews.com/news/articleView.html?idxno=563227",
@@ -1712,11 +1714,11 @@
     "https://www.mt.co.kr/estate/2026/11/13/2026111217352077138",
     "https://www.sidae.com/article/2026111210413861671",
     "https://www.joongang.co.kr/article/25478231",
-    "https://www.mt.co.kr/tech/2026/11/13/2026111211010588261"
+    "https://www.mt.co.kr/tech/2026/11/13/2026111211010588261",
+    "https://www.greened.kr/news/articleView.html?idxno=354572",
+    "https://www.news2day.co.kr/article/20261113500015"
    ],
    "seen_titles": [
-    "블룸버그\"젠슨황해임문제,'깐부'삼전닉스에도골칫거리\"",
-    "최태원'AI풀스택'다음메시지는…SK,새사장단과CEO세미나열어",
     "“찬물끼얹은젠슨황”…코스피0.61%하락,5300선위태",
     "코스피,5400선돌파후출렁…젠슨황해임설에변동성확대",
     "삼성전자장초반2%대상승…美반도체주급등에투심회복",
@@ -3214,10 +3216,12 @@
     "물·전기끌어와도\"지을사람이없어\"...반도체공장건설'비상'",
     "[시대데스크/황국상]두금융당국수장께드리는질문",
     "“엔비디아플랜B있나”“하루아침에안무너져”엇갈린진단",
-    "정전·손실·요금걱정없이흐른다…'압도적효율'K전력"
+    "정전·손실·요금걱정없이흐른다…'압도적효율'K전력",
+    "젠슨황사임에엔비디아4%대하락…외국인,삼성전자7449억사고SK하...",
+    "[N2포커스]美중간선거발AI규제공포진정…코스피,반도체앞세워..."
    ],
    "initialized": true,
-   "last_run": "2026-11-13T05:05:23.908812+09:00"
+   "last_run": "2026-11-13T05:10:27.821229+09:00"
   }
  },
  "press_names": {
