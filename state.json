@@ -297,10 +297,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/market-exr/6351518",
-    "https://www.nbntv.kr/news/articleView.html?idxno=341109",
-    "https://www.news1.kr/politics/president/6351439",
-    "https://www.etnews.com/20261112000094",
     "http://kor.theasian.asia/archives/421440",
     "https://www.mstoday.co.kr/news/articleView.html?idxno=200453",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=300315",
@@ -1796,13 +1792,13 @@
     "https://www.news2day.co.kr/article/20261112500310",
     "https://www.sedaily.com/article/20113784",
     "https://www.news1.kr/world/international-economy/6352659",
-    "https://news.ifm.kr/news/articleView.html?idxno=484284"
+    "https://news.ifm.kr/news/articleView.html?idxno=484284",
+    "http://www.beyondpost.co.kr/view.php?ud=2026111306310741682aaae0046f_30",
+    "https://www.geconomy.co.kr/news/article.html?no=325630",
+    "https://www.news1.kr/world/international-economy/6352661",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503581"
    ],
    "seen_titles": [
-    "코스피상승출발...JYP엔터21%↑·네이버5%대↓",
-    "대신증권,3분기적자전환에...목표가3만원으로하향",
-    "실적개선에도신작우려…엔씨,목표가줄하향에10%급락[핫종목]",
-    "SK인텔릭스,연동우수기업장관표창이어동반성장지수'우수'등급올...",
     "李대통령,이재용과충청권메가프로젝트착공식참석…중기상생방안...",
     "[미리보는소부장테크페어]〈5〉PI첨단소재,'PI필름'기술진화와응...",
     "[김진안의글로벌산업진단③]젠슨황도노출된‘허니트랩’의혹…삼...",
@@ -3298,10 +3294,14 @@
     "[N2포커스]청호나이스,‘본사·R&D통합’조직효율화…수익성개선...",
     "[단독]추미애표‘지방법인세’에재경부난색…교부세재원감소우려...",
     "필라델피아반도체지수0.54%하락…AI반도체주종목별차별화",
-    "방송·미디어AI전환본격화…101개사업자실태조사공개"
+    "방송·미디어AI전환본격화…101개사업자실태조사공개",
+    "엔비디아,황CEO사임에4.3%하락...사임소식전해지자장중12%급락하...",
+    "젠슨황퇴진에엔비디아4.3%급락…세계AI투자시장'신뢰의위기'",
+    "[뉴욕마감]젠슨황사임·유가급등에일제히하락…나스닥0.39%↓",
+    "엔비디아CEO사임에뉴욕증시출렁…국내반도체주도긴장"
    ],
    "initialized": true,
-   "last_run": "2026-11-13T06:35:24.058763+09:00"
+   "last_run": "2026-11-13T06:40:27.077312+09:00"
   }
  },
  "press_names": {
