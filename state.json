@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-12T13:45:23.749377+09:00",
-     "1인 체제 엔비디아 협상 카드가 바뀐다 균열 빅테크가"
-    ],
-    [
-     "2026-11-12T13:45:23.749377+09:00",
-     "루머 생산 D램 찰스 카우 공급과잉 일축 중화권 대부 CXMT TSMC"
-    ],
-    [
-     "2026-11-12T13:45:23.749377+09:00",
-     "파운드리까지 공급망 병목 전력 메모리 토스증권 GPU 확대"
-    ],
-    [
      "2026-11-12T13:50:25.752557+09:00",
      "빼버린 전희철 감독 선발 5명 무슨"
     ],
@@ -1290,12 +1278,13 @@
     [
      "2026-11-12T19:40:29.129313+09:00",
      "지방재정 기업유치 자율성 높여"
+    ],
+    [
+     "2026-11-12T19:45:28.637202+09:00",
+     "없는 한진칼우 상한가 종목도 지분경쟁 공시 다시"
     ]
    ],
    "seen_urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=2017461",
-    "https://www.ziksir.com/news/articleView.html?idxno=152986",
-    "https://theviewers.co.kr/View.aspx?No=4308872",
     "http://www.4th.kr/news/articleView.html?idxno=2121674",
     "http://www.press9.kr/news/articleView.html?idxno=86080",
     "https://www.edaily.co.kr/News/Read?newsId=02312406645645064&mediaCodeNo=257",
@@ -2792,12 +2781,12 @@
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261113.22002003742",
     "https://www.ubc.co.kr/news/28544/",
     "https://www.iusm.co.kr/news/articleView.html?idxno=1070489",
-    "https://www.mk.co.kr/article/12206787"
+    "https://www.mk.co.kr/article/12206787",
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2313388",
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2313361",
+    "https://www.ggilbo.com/news/articleView.html?idxno=1192942"
    ],
    "seen_titles": [
-    "젠슨황스캔들에美반도체수출규제강화재점화",
-    "[원자재시황]금값하락하고유가·뉴욕증시반등",
-    "이천시,반도체소부장기업13곳투자유치나서",
     "엔비디아악재에도반도체주온기…삼성전자·SK하이닉스,프림마켓서...",
     "국고채담합후폭풍...KB증권적자전환,대신증권도위험",
     "'AIRevolutionHero'CaughtinInfidelityTrap:JensenHuangFacesPot",
@@ -4294,10 +4283,13 @@
     "젠슨황,이사회해임초읽기…‘깐부동맹’삼전닉스도촉각(종합)",
     "울산친기업행정'호평'..정부,타지자체확산주문",
     "\"울산처럼기업지원하라\"…정부가주목한밀착행정",
-    "\"지방재정자율성높여기업유치\""
+    "\"지방재정자율성높여기업유치\"",
+    "\"충청메가프로젝트10개중6개연내착공…인허가단축\"",
+    "충청권메가프로젝트지자체역할주목",
+    "[주식마감]'지분경쟁'한진칼우다시'上'...공시없는상한가종목도..."
    ],
    "initialized": true,
-   "last_run": "2026-11-12T19:40:29.129313+09:00"
+   "last_run": "2026-11-12T19:45:28.637202+09:00"
   }
  },
  "press_names": {
