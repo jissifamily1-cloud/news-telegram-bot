@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-13T00:40:27.577003+09:00",
-     "발열 반도체 물길 미세 패키지에 잡는다"
-    ],
-    [
      "2026-11-13T00:55:24.565158+09:00",
      "넘어 메가프로젝트 전격전 속도전"
     ],
@@ -294,10 +290,13 @@
     [
      "2026-11-13T06:35:24.058763+09:00",
      "공개 사업자 본격화 방송 실태조사 미디어 101개"
+    ],
+    [
+     "2026-11-13T06:45:24.843756+09:00",
+     "D램 단품 3배로 늘린다 승부수 GPU 인텔 공급 용량"
     ]
    ],
    "seen_urls": [
-    "http://kor.theasian.asia/archives/421440",
     "https://www.mstoday.co.kr/news/articleView.html?idxno=200453",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=300315",
     "https://www.newsinside.kr/news/articleView.html?idxno=5046144",
@@ -1796,10 +1795,10 @@
     "http://www.beyondpost.co.kr/view.php?ud=2026111306310741682aaae0046f_30",
     "https://www.geconomy.co.kr/news/article.html?no=325630",
     "https://www.news1.kr/world/international-economy/6352661",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503581"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503581",
+    "https://www.sedaily.com/article/20113649"
    ],
    "seen_titles": [
-    "李대통령,이재용과충청권메가프로젝트착공식참석…중기상생방안...",
     "[미리보는소부장테크페어]〈5〉PI첨단소재,'PI필름'기술진화와응...",
     "[김진안의글로벌산업진단③]젠슨황도노출된‘허니트랩’의혹…삼...",
     "코스맥스영업익95%급증…주가8%대강세",
@@ -3298,10 +3297,11 @@
     "엔비디아,황CEO사임에4.3%하락...사임소식전해지자장중12%급락하...",
     "젠슨황퇴진에엔비디아4.3%급락…세계AI투자시장'신뢰의위기'",
     "[뉴욕마감]젠슨황사임·유가급등에일제히하락…나스닥0.39%↓",
-    "엔비디아CEO사임에뉴욕증시출렁…국내반도체주도긴장"
+    "엔비디아CEO사임에뉴욕증시출렁…국내반도체주도긴장",
+    "인텔,AIGPU‘칩단품’공급승부수…D램용량3배로늘린다"
    ],
    "initialized": true,
-   "last_run": "2026-11-13T06:40:27.077312+09:00"
+   "last_run": "2026-11-13T06:45:24.843756+09:00"
   }
  },
  "press_names": {
