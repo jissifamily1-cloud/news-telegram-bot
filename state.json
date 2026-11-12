@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-12T23:15:27.037990+09:00",
-     "엔비디아 선물 나스닥100 급락"
-    ],
-    [
      "2026-11-12T23:20:29.819800+09:00",
      "크리스 젠슨 사임 엔비디아 겸임 콜레트 CEO CFO"
     ],
@@ -218,10 +214,13 @@
     [
      "2026-11-13T05:15:25.875975+09:00",
      "충남 인허가 202조 10개월 말이 아닌 삼성 아산공장 투자 착공으로"
+    ],
+    [
+     "2026-11-13T05:20:28.839059+09:00",
+     "거취에 젠슨 다변화 시급 산업 흔들리는 공급망"
     ]
    ],
    "seen_urls": [
-    "https://www.joongangenews.com/news/articleView.html?idxno=563229",
     "https://www.joongangenews.com/news/articleView.html?idxno=563227",
     "https://www.mediapen.com/news/view/1136913",
     "https://www.joongangenews.com/news/articleView.html?idxno=563235",
@@ -1720,10 +1719,10 @@
     "https://www.mt.co.kr/tech/2026/11/13/2026111211010588261",
     "https://www.greened.kr/news/articleView.html?idxno=354572",
     "https://www.news2day.co.kr/article/20261113500015",
-    "https://www.greened.kr/news/articleView.html?idxno=354563"
+    "https://www.greened.kr/news/articleView.html?idxno=354563",
+    "https://www.seoul.co.kr/news/editOpinion/editorial/2026/11/13/20261113027004?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "코스피,5400선돌파후출렁…젠슨황해임설에변동성확대",
     "삼성전자장초반2%대상승…美반도체주급등에투심회복",
     "[개장시황]코스피,장초반보합권등락…'젠슨황해임논란'부담",
     "SK스퀘어주가,11월12일장중791,000원0.63%하락",
@@ -3222,10 +3221,11 @@
     "정전·손실·요금걱정없이흐른다…'압도적효율'K전력",
     "젠슨황사임에엔비디아4%대하락…외국인,삼성전자7449억사고SK하...",
     "[N2포커스]美중간선거발AI규제공포진정…코스피,반도체앞세워...",
-    "충남202조투자'말이아닌착공으로'…삼성아산공장인허가10개월→..."
+    "충남202조투자'말이아닌착공으로'…삼성아산공장인허가10개월→...",
+    "[사설]젠슨황거취에흔들리는AI산업,공급망다변화시급"
    ],
    "initialized": true,
-   "last_run": "2026-11-13T05:15:25.875975+09:00"
+   "last_run": "2026-11-13T05:20:28.839059+09:00"
   }
  },
  "press_names": {
