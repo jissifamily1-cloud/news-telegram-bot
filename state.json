@@ -1170,20 +1170,17 @@
     [
      "2026-11-12T11:30:34.847711+09:00",
      "수뇌부 최태원 모인 이천에 안개뚫고 사업재편 2박"
+    ],
+    [
+     "2026-11-12T11:35:19.645790+09:00",
+     "칩규제 막히나 장비반입 공장 삼성 3법 속도"
+    ],
+    [
+     "2026-11-12T11:35:19.645790+09:00",
+     "AI기반 인증 구매부터 신뢰가 에이전틱 관건 결제까지 결제"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12205397",
-    "http://www.iminju.net/news/articleView.html?idxno=172295",
-    "https://www.etnews.com/20261111000398",
-    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040640",
-    "https://sports.donga.com/region/article/all/20261111/135007230/1",
-    "http://www.wsobi.com/news/articleView.html?idxno=321534",
-    "http://www.segyebiz.com/newsView/20261111513328?OutUrl=naver",
-    "http://www.newstomato.com/ReadNews.aspx?no=1320083&inflow=N",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503105",
-    "https://dealsite.co.kr/articles/172521",
-    "https://biz.chosun.com/stock/stock_general/2026/11/11/LCU4LYV5V5H7RFUCPMY4VINXPA/",
     "http://www.koreastocknews.com/news/articleView.html?idxno=122220",
     "https://www.dizzotv.com/site/data/html_dir/2026/11/11/2026111180147.html",
     "https://www.dailian.co.kr/news/view/1713738/?sc=Naver",
@@ -2672,20 +2669,20 @@
     "https://economist.co.kr/article/view/ecn202611120028",
     "https://www.mhns.co.kr/news/articleView.html?idxno=768772",
     "https://biz.heraldcorp.com/article/10934950",
-    "https://www.newsis.com/view/NISX20261112_0003865289"
+    "https://www.newsis.com/view/NISX20261112_0003865289",
+    "https://www.ppss.kr/news/articleView.html?idxno=320586",
+    "https://realty.chosun.com/site/data/html_dir/2026/11/12/2026111201450.html",
+    "https://www.sentv.co.kr/article/view/sentv202611120094",
+    "https://www.ajunews.com/view/20261112112806724",
+    "https://www.fnnews.com/news/202611121127077479",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710944",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710945",
+    "https://www.mediapen.com/news/view/1136958",
+    "https://www.newsis.com/view/NISX20261112_0003865285",
+    "https://biz.heraldcorp.com/article/10934968",
+    "https://biz.heraldcorp.com/article/10934962"
    ],
    "seen_titles": [
-    "[마감시황]코스피,외국인‘사자’에2%대상승…5300선회복",
-    "‘1인당성과급8억’…SK하이닉스,학력제한없애고생산직채용",
-    "[셀럽의한수]백악관,젠슨황불륜모른척뿔난주주들'엔비디아'...",
-    "SK증권,조류생태관찰프로젝트마무리…인공새집13곳서이소확인",
-    "억소리나는'킹산직'...SK하이닉스생산직공채",
-    "삼성·SK호남반도체용수가뭄엔?…대통령직속위검증착수",
-    "[오후장체크포인트]물가쇼크에도증시'탄력'날아오른반도체소부...",
-    "제약·바이오기업,ESG경영강화...국내외평가서성과",
-    "엔비디아·구글까지'큰손'총출동…앤트로픽IPO들썩",
-    "코스닥5.62%급등·이틀째매수사이드카...코스피5300선회복[마감시...",
-    "[A증권가소식]미래에셋증권,11월개인투자용국채청약실시...10·20년...",
     "中国半导体加速追赶韩国芯片产业面临技术保密考验",
     "建筑企业加速转型：从住宅建设迈向全球AI基础设施市场",
     "KB자산운용,해외ETF다변화속도",
@@ -4174,10 +4171,21 @@
     "[오늘의삼전닉스]젠슨황변수와불확실성에도삼성전자'외인베팅'...",
     "대구시중구남산기독교종합사회복지관,'사랑의김장나눔'행사개최",
     "한미글로벌,가덕도신공항CM수주",
-    "[현장]안개뚫고이천에모인최태원등SK수뇌부…'AI·사업재편'2박..."
+    "[현장]안개뚫고이천에모인최태원등SK수뇌부…'AI·사업재편'2박...",
+    "HM그룹,뉴욕맨해튼1800억주택개발착공…중단됐던사업부지재개발",
+    "HM그룹,뉴욕맨해튼서1800억규모고급주거시설착공…첫해외직접...",
+    "SKT,사이버침해사고이후성실성평가90%회복…기업신뢰64%",
+    "李대통령\"충청권메가프로젝트,23.6조원추가투자…112개기업참여\"",
+    "李대통령\"충청권112개기업서392조에23.6조추가투자\"",
+    "[무등의아침]서왕진“민주당‘초광역특구법’,규제완화끝판왕…...",
+    "[무등의아침]전남광주반도체전력·용수공급계획속속구체화…동...",
+    "LCD·배터리이어낸드까지…중국YMTC,삼성·SK추격가능?",
+    "MSCI한국스몰캡지수에5개종목신규편입…SK하이닉스5800억유입기...",
+    "美‘對中칩규제3법’속도…삼성·SK中공장장비반입막히나",
+    "구매부터결제까지AI기반‘에이전틱결제’…인증·신뢰가관건"
    ],
    "initialized": true,
-   "last_run": "2026-11-12T11:30:34.847711+09:00"
+   "last_run": "2026-11-12T11:35:19.645790+09:00"
   }
  },
  "press_names": {
