@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-12T06:10:26.599450+09:00",
-     "SK에 끝난 26점 LG 승부 대승 1쿼터에 굿윈"
-    ],
-    [
-     "2026-11-12T06:10:26.599450+09:00",
-     "제약 바이오 매수세 8거래일 상한가 5건 이례적 단기"
-    ],
-    [
-     "2026-11-12T06:10:26.599450+09:00",
-     "있을까 정부가 시장의 열려 플랫폼 문은 키운"
-    ],
-    [
-     "2026-11-12T06:10:26.599450+09:00",
-     "최다 늘어난다 4대 의장 현대차 이사회 꼴지 LG 여성"
-    ],
-    [
      "2026-11-12T06:15:30.038714+09:00",
      "바이오 영업이익률 압도 넘어 전통제약사"
     ],
@@ -1146,15 +1130,21 @@
     [
      "2026-11-12T12:10:26.334336+09:00",
      "맞아 반도체 기여도 올해 소비 초호황 고작"
+    ],
+    [
+     "2026-11-12T12:15:24.513980+09:00",
+     "보도에 해임 코스닥 공방 7종목 젠슨 700선 상한가"
+    ],
+    [
+     "2026-11-12T12:15:24.513980+09:00",
+     "반전 외면받던 효자 드라마 부천FC1995의 시민구단에서"
+    ],
+    [
+     "2026-11-12T12:15:24.513980+09:00",
+     "삼양 계열사에 5억 개인정보 과징금 유출"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026111106306",
-    "https://www.donga.com/news/Economy/article/all/20261111/135007113/1",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1731297",
-    "https://www.dt.co.kr/article/12094602",
-    "https://www.seoulfn.com/news/articleView.html?idxno=642559",
-    "https://www.hani.co.kr/arti/economy/economy_general/1286819.html",
     "https://www.mt.co.kr/stock/2026/11/11/2026111115253752868",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611110123&t=NN",
     "https://www.newspim.com/news/view/20261111001287",
@@ -2648,15 +2638,15 @@
     "https://www.ppss.kr/news/articleView.html?idxno=320611",
     "https://www.ibabynews.com/news/articleView.html?idxno=156830",
     "https://daily.hankooki.com/news/articleView.html?idxno=1424471",
-    "https://www.hankyung.com/article/202611122559i"
+    "https://www.hankyung.com/article/202611122559i",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553694876",
+    "https://biz.chosun.com/stock/stock_general/2026/11/12/5BZ7X4R2QRGSDBCWY5H3QHRRVE/",
+    "https://biz.heraldcorp.com/article/10935039",
+    "https://www.junggi.co.kr/news/articleView.html?idxno=38470",
+    "https://www.nocutnews.co.kr/news/6605843",
+    "https://www.munhwa.com/article/11630868"
    ],
    "seen_titles": [
-    "포스코노사,입협또결렬…'출구없는동투'확산우려",
-    "KBO복귀무산된고효준,은퇴결심후공식은퇴식가져",
-    "글로벌빅파마도문두드린다…지금서울은'K바이오텍허브'",
-    "[금융권수장교체][미래에셋운용]최창훈·이준용'투톱체제'지속·...",
-    "이형일부총리,영남권메가프로젝트투자점검…인허가속도주문",
-    "NvidiaControversyFuelsU.S.CallsforTighterChinaAI-ChipCurbs,P",
     "두산건설이정환대표거취주목…실적·재무체력'빨간불'",
     "수협은행장인선또무산…재공모없이12월1일재협의",
     "코스피,美물가충격에도상승…코스닥5%급등",
@@ -4150,10 +4140,16 @@
     "코스피5,400선회복시도…반도체반등에도상승탄력은제한",
     "[ESG트렌드]티더블유에스(TWS),체계적다회용기세척시스템으로친환...",
     "[현장]\"화장품바르고피부진단까지\"…체험힘준'컬리뷰티페스타'",
-    "'반도체초호황'맞아?…올해소비기여도고작'0.003%P'"
+    "'반도체초호황'맞아?…올해소비기여도고작'0.003%P'",
+    "[오피셜]'122경기→45경기→0경기'결국방출칼바람…'통합우승2회'...",
+    "코스피,외국인매수세힘입어1%대상승…5430선등락중",
+    "인천송도에아이에스시AI반도체테스트소켓신공장착공…2028년가...",
+    "[오전시황]상한가7종목…젠슨황해임보도에코스닥700선공방",
+    "외면받던시민구단에서'효자'로…부천FC1995의반전드라마",
+    "‘개인정보유출’삼양계열사에과징금5억"
    ],
    "initialized": true,
-   "last_run": "2026-11-12T12:10:26.334336+09:00"
+   "last_run": "2026-11-12T12:15:24.513980+09:00"
   }
  },
  "press_names": {
