@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-12T19:30:36.401879+09:00",
-     "H주 속락 마감 매도에 홍콩 증시 지분조정"
-    ],
-    [
-     "2026-11-12T19:30:36.401879+09:00",
-     "대승 창원 LG SK에 서울"
-    ],
-    [
-     "2026-11-12T19:30:36.401879+09:00",
-     "이영직 경제 금융 아세안금융협력센터장"
-    ],
-    [
      "2026-11-12T19:35:22.596905+09:00",
      "호평 지자체 행정 정부 확산 울산 주문 친기업"
     ],
@@ -261,7 +249,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20261112000056",
     "https://www.newspim.com/news/view/20261112000044",
     "https://www.newsis.com/view/NISX20261112_0003864973",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=624683",
@@ -1760,10 +1747,10 @@
     "https://www.chosun.com/politics/politics_general/2026/11/13/WGNJTSR26BHTBDVNQ5R33KI25Q/",
     "https://byline.network/?p=9004111222627561",
     "https://www.ntoday.co.kr/news/articleView.html?idxno=130831",
-    "https://www.hankookilbo.com/news/article/A2026111300480003104?did=NA"
+    "https://www.hankookilbo.com/news/article/A2026111300480003104?did=NA",
+    "http://www.issuenbiz.com/news/articleView.html?idxno=81546"
    ],
    "seen_titles": [
-    "코스피5370선흔들…외국인·기관'쌍끌이매도'",
     "SKT,침해사고후성실성고객평가…하락폭90%회복",
     "코스피,장초반5380선강보합출발…코스닥700선개장",
     "[모닝리포트]\"대신증권,쉽지않은하반기\"…목표가3만원으로하향",
@@ -3262,10 +3249,11 @@
     "메가프로젝트첫삽…李“속도전넘어전격전”",
     "엔라이튼,기술특례상장기술성평가통과",
     "퇴장한'깐부'젠슨황…삼성·SK·현대차'엔비디아동맹'안갯속",
-    "그가없는엔비디아,AI돈줄비상"
+    "그가없는엔비디아,AI돈줄비상",
+    "[뉴스이슈&비즈]엔비디아해임설·미AI칩규제검토…삼성·SK하이닉스..."
    ],
    "initialized": true,
-   "last_run": "2026-11-13T01:30:35.471561+09:00"
+   "last_run": "2026-11-13T01:35:20.864993+09:00"
   }
  },
  "press_names": {
