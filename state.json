@@ -294,12 +294,13 @@
     [
      "2026-11-13T06:45:24.843756+09:00",
      "D램 단품 3배로 늘린다 승부수 GPU 인텔 공급 용량"
+    ],
+    [
+     "2026-11-13T06:50:26.635314+09:00",
+     "젠슨황 지수 유가급등에 조정 장비주 메모리 퇴진 동반 3대"
     ]
    ],
    "seen_urls": [
-    "https://www.mstoday.co.kr/news/articleView.html?idxno=200453",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=300315",
-    "https://www.newsinside.kr/news/articleView.html?idxno=5046144",
     "https://www.klnews.co.kr/news/articleView.html?idxno=323489",
     "https://www.ajunews.com/view/20261112093353208",
     "https://en.yna.co.kr/view/AEN20261112003500320?input=2106m",
@@ -1796,12 +1797,12 @@
     "https://www.geconomy.co.kr/news/article.html?no=325630",
     "https://www.news1.kr/world/international-economy/6352661",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503581",
-    "https://www.sedaily.com/article/20113649"
+    "https://www.sedaily.com/article/20113649",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503587",
+    "https://www.thescoop.co.kr/news/articleView.html?idxno=312279",
+    "https://www.mediapen.com/news/view/1137200"
    ],
    "seen_titles": [
-    "[미리보는소부장테크페어]〈5〉PI첨단소재,'PI필름'기술진화와응...",
-    "[김진안의글로벌산업진단③]젠슨황도노출된‘허니트랩’의혹…삼...",
-    "코스맥스영업익95%급증…주가8%대강세",
     "스트레이키즈가끌어올린JYP엔터…3분기영업익18%증가",
     "[정해균의Zoom-人]오너의전략가부터반도체CEO까지…퇴임한전문경...",
     "[창간29주년기획3-4]\"기업을살리는건자산아닌역량\"…홈플러스회...",
@@ -3298,10 +3299,13 @@
     "젠슨황퇴진에엔비디아4.3%급락…세계AI투자시장'신뢰의위기'",
     "[뉴욕마감]젠슨황사임·유가급등에일제히하락…나스닥0.39%↓",
     "엔비디아CEO사임에뉴욕증시출렁…국내반도체주도긴장",
-    "인텔,AIGPU‘칩단품’공급승부수…D램용량3배로늘린다"
+    "인텔,AIGPU‘칩단품’공급승부수…D램용량3배로늘린다",
+    "삼성바이오로직스·셀트리온나란히1·2위…제약주판도변화",
+    "젠슨황사임에엔비디아급락…금리·강달러까지뉴욕증시압박",
+    "[美증시]젠슨황퇴진·유가급등에3대지수동반조정…메모리·장비주..."
    ],
    "initialized": true,
-   "last_run": "2026-11-13T06:45:24.843756+09:00"
+   "last_run": "2026-11-13T06:50:26.635314+09:00"
   }
  },
  "press_names": {
