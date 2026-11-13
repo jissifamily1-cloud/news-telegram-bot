@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-13T14:25:21.793725+09:00",
-     "선택 장세서 편안한 유지 탑픽 변동성 삼성증권 업종"
-    ],
-    [
-     "2026-11-13T14:30:34.873645+09:00",
-     "약보합 코스피 재차 팔자 외인 전환에 5400선 하회"
-    ],
-    [
-     "2026-11-13T14:30:34.873645+09:00",
-     "사단 엔비디아 풀썩 분기점 돈줄"
-    ],
-    [
-     "2026-11-13T14:30:34.873645+09:00",
-     "흔드리나 동맹 떠났다 시작된 반도체 한국과 깐부회동 록스타"
-    ],
-    [
      "2026-11-13T14:35:22.280291+09:00",
      "초저연체율 방어 Q3 삼성증권 3528억 WM 순익"
     ],
@@ -786,13 +770,13 @@
     [
      "2026-11-13T20:25:20.230232+09:00",
      "살집일까 11개 전국 서울은 청약 단지 5000가구 불장"
+    ],
+    [
+     "2026-11-13T20:30:35.368758+09:00",
+     "대덕전자 이수페타시스 기판으로 몰렸다 반도체"
     ]
    ],
    "seen_urls": [
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711627",
-    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=377497",
-    "https://www.aitimes.kr/news/articleView.html?idxno=42713",
-    "https://www.newsway.co.kr/news/view?ud=2026111222342257219",
     "https://news.cpbc.co.kr/article/1177001?division=NAVER",
     "https://www.gukjenews.com/news/articleView.html?idxno=3750618",
     "http://www.ttlnews.com/news/articleView.html?idxno=3161855",
@@ -2288,13 +2272,13 @@
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1543719",
     "https://www.kpinews.kr/newsView/1065610892385415",
     "https://www.segye.com/newsView/20261113504339?OutUrl=naver",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=315364"
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=315364",
+    "https://www.edaily.co.kr/News/Read?newsId=04778966645645392&mediaCodeNo=257",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503994",
+    "https://www.koreajoongangdaily.com/business/jensen-huangs-exit-hits-ai-infrastructure-firms-that-grew-on-nvidia-cash/12972190",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503995"
    ],
    "seen_titles": [
-    "환경단체,‘SK하이닉스지방세’온실가스저감투입촉구",
-    "SSG,베테랑포수김민식과결별…선수단추가정비단행",
-    "인텔코리아,국내23개기업과'K-AI풀스택얼라이언스'출범…소버린...",
-    "젠슨황의엔비디아,'세계최고직장'서도자취감췄다…3년연속선정...",
     "[시사천국]젠슨황스캔들왜지금인가…미권력투쟁과반도체의혹",
     "인천TP,취약계층여성에위생용품키트전달",
     "SK증권,2026년ESG평가통합A등급유지…국제표준기반실행강화",
@@ -3790,10 +3774,14 @@
     "젠슨황충격여파…국내증시도'흔들'",
     "추미애경기지사,제5차국가철도망구축계획행사서철도확충간곡호...",
     "일본과연대소리높이는최태원\"상설협력플랫폼준비\"[리더의나침...",
-    "[살집말집]서울은청약'불장'…전국11개단지5000가구,살집일까말..."
+    "[살집말집]서울은청약'불장'…전국11개단지5000가구,살집일까말...",
+    "SK디스커버리,3분기매출·세전익지주사출범후최대",
+    "[주간거레소외국인]삼성전자쓸어담고SK하이닉스팔았다…엇갈린...",
+    "JensenHuang’sexithitsAIinfrastructurefirmsthatgrewonNvidiaca",
+    "[주간거래소기관]반도체기판으로몰렸다…이수페타시스·대덕전자..."
    ],
    "initialized": true,
-   "last_run": "2026-11-13T20:25:20.230232+09:00"
+   "last_run": "2026-11-13T20:30:35.368758+09:00"
   }
  },
  "press_names": {
