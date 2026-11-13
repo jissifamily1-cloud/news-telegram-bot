@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-13T15:40:28.009468+09:00",
-     "삼가동 아파트 하자보수 이상일 주민과 간담회 용인특례시장 교통"
-    ],
-    [
-     "2026-11-13T15:40:28.009468+09:00",
-     "KAI 방산 출신 영입 CISO 한화오션 커지자"
-    ],
-    [
-     "2026-11-13T15:40:28.009468+09:00",
-     "일반전형 용인반도체고 134명 선발 신입생 84대 경쟁률"
-    ],
-    [
-     "2026-11-13T15:40:28.009468+09:00",
-     "내린 290선 코스피 마감"
-    ],
-    [
      "2026-11-13T15:45:23.903852+09:00",
      "여진에 금리 엔비디아 코스피 부담까지 이탈 5300선"
     ],
@@ -694,15 +678,13 @@
     [
      "2026-11-13T21:35:20.335588+09:00",
      "기회 삼전닉스에 AI황제 위기냐 젠슨 생태계 흔들리는 퇴장에"
+    ],
+    [
+     "2026-11-13T21:40:35.576047+09:00",
+     "PPI가 미국증시 승부처 선물 약세 전망 나스닥 10년물"
     ]
    ],
    "seen_urls": [
-    "https://www.ekn.kr/web/view.php?key=20261112026468919",
-    "https://econotimes.com/Nasdaq-Posts-1-51-Opening-Loss-Alongside-13-93-Nvidia-Decline-1775882",
-    "https://www.tokenpost.kr/news/breaking/437205",
-    "https://biz.newdaily.co.kr/site/data/html/2026/11/13/2026111300001.html",
-    "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072414",
-    "https://www.sedaily.com/article/20113674",
     "https://www.asiatoday.co.kr/kn/view.php?key=20261112010004898",
     "https://m.skyedaily.com/news_view.html?ID=314490",
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072386",
@@ -2196,15 +2178,15 @@
     "https://www.newspim.com/news/view/20261113001431",
     "http://www.econonews.co.kr/news/articleView.html?idxno=447165",
     "https://sateconomy.co.kr/news/view/1065615788886164",
-    "https://www.kpinews.kr/newsView/1065598007129643"
+    "https://www.kpinews.kr/newsView/1065598007129643",
+    "https://sports.khan.co.kr/article/202611132136003?pt=nv",
+    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082655",
+    "https://www.edaily.co.kr/News/Read?newsId=04883926645645392&mediaCodeNo=257",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845488&plink=ORI&cooper=NAVER",
+    "https://www.hankookilbo.com/news/article/A2026111314130005137?did=NA",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16276112"
    ],
    "seen_titles": [
-    "삼성전기,세종에4조3000억원투자…3만평패키지기판공장들어선다",
-    "NasdaqPosts1.51%OpeningLossAlongside13.93%NvidiaDecline",
-    "마벨테크놀로지·SK하이닉스장전거래서5%넘게하락",
-    "'불륜'젠슨황사임,AI산업대혼란…삼전닉스HBM공급도차질빚나",
-    "울산시'기업밀착행정'성과…정부·대기업호평",
-    "[사설]젠슨황불명예퇴진…680조협력후폭풍차단해야",
     "[사설]젠슨황해임수순…'CEO리스크'점검계기로",
     "[사설]AI기술속도에비례하는규제를",
     "가스안전공사울산-SK에너지,노인복지관서배식봉사",
@@ -3698,10 +3680,16 @@
     "[AI상보]엘런슨복귀21점,DBKT꺾고홈3연승",
     "코스피,약보합에5300선밑으로...KB금융,현대차등상승",
     "SK디스커버리,세전이익증가분99%영업외서…현금1.4조확충",
-    "'AI황제'젠슨황퇴장에흔들리는AI생태계...삼전닉스에위기냐,기회..."
+    "'AI황제'젠슨황퇴장에흔들리는AI생태계...삼전닉스에위기냐,기회...",
+    "‘부상복귀전28점·10리바운드’엘런슨,DB연패위기막았다···‘...",
+    "불륜엔비디아젠슨황으로본美기업의사내연애유독엄한이유",
+    "\"10년모은4억,1억됐다\"…하이닉스에전재산넣은30대의후회",
+    "프로농구DB,KT꺾고홈3연승…엘런슨28점폭",
+    "삼성·SK하이닉스만난노동장관,반도체근로시간논의\"합리적방안...",
+    "미국증시전망,10년물5.1%·PPI가승부처…나스닥선물약세"
    ],
    "initialized": true,
-   "last_run": "2026-11-13T21:35:20.335588+09:00"
+   "last_run": "2026-11-13T21:40:35.576047+09:00"
   }
  },
  "press_names": {
