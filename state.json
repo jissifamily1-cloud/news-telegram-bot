@@ -234,10 +234,13 @@
     [
      "2026-11-14T07:35:21.346413+09:00",
      "반도체벨트 젠슨 집값 안심할 압승 없다 논란 민주당 손바닥"
+    ],
+    [
+     "2026-11-14T07:40:26.495011+09:00",
+     "하락세 뉴욕증시 혼조 엔비디아 마감 지속"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH20261113065046XQ6",
     "https://www.sentv.co.kr/article/view/sentv202611130003",
     "https://www.news2day.co.kr/article/20261113500009",
     "https://www.venturesquare.net/1128301/",
@@ -1736,10 +1739,10 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504024",
     "https://www.getnews.co.kr/news/articleView.html?idxno=887170",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611140003&t=NN",
-    "https://www.edaily.co.kr/News/Read?newsId=02033606645645720&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=02033606645645720&mediaCodeNo=257",
+    "https://www.slist.kr/news/articleView.html?idxno=781590"
    ],
    "seen_titles": [
-    "[글로벌증시]젠슨황퇴진·유가급등에뉴욕증시일제하락",
     "용인반도체고첫신입생134명확정…전국서620명몰렸다",
     "[N2포커스]은행권국고채담합과징금2505억원…실적·자본비율부담...",
     "사람을더모으는대신더잘모셨다…컬리뷰티페스타2026의선택",
@@ -3238,10 +3241,11 @@
     "4년만에가장뜨거운미국물가…한국증시외국인수급흔드나",
     "'혼조마감'뉴욕증시,다우지수만0.1%상승…엔비디아2%↓,하락지속",
     "뉴욕증시혼조마감…젠슨황스캔들여파에나스닥0.9%↓",
-    "美민주당압승·젠슨황논란,반도체벨트집값안심할수없다[손바닥..."
+    "美민주당압승·젠슨황논란,반도체벨트집값안심할수없다[손바닥...",
+    "뉴욕증시혼조마감…엔비디아하락세지속'2%↓'"
    ],
    "initialized": true,
-   "last_run": "2026-11-14T07:35:21.346413+09:00"
+   "last_run": "2026-11-14T07:40:26.495011+09:00"
   }
  },
  "press_names": {
