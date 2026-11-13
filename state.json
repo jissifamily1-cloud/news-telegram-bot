@@ -366,11 +366,13 @@
     [
      "2026-11-13T23:10:27.217081+09:00",
      "세계여행 포르투 도루강 포르투갈"
+    ],
+    [
+     "2026-11-13T23:30:36.379153+09:00",
+     "일반산업단지 준공 실시계획 목표 용인시 승인 죽능 2027년"
     ]
    ],
    "seen_urls": [
-    "https://www.cbci.co.kr/news/articleView.html?idxno=626280",
-    "https://www.hankyung.com/article/2026111235741",
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072454",
     "http://www.kjdaily.com/article.php?aid=1794497113692039276",
     "http://www.kjdaily.com/article.php?aid=1794496941692145276",
@@ -1868,11 +1870,11 @@
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=94163",
     "https://www.stnsports.co.kr/news/articleView.html?idxno=325513",
     "https://www.ytn.co.kr/_ln/0102_202611132301583819",
-    "http://okfashion.co.kr/detail.php?number=64373&thread=62r12"
+    "http://okfashion.co.kr/detail.php?number=64373&thread=62r12",
+    "https://sports.khan.co.kr/article/202611132325003?pt=nv",
+    "https://www.newstnt.com/news/articleView.html?idxno=728416"
    ],
    "seen_titles": [
-    "[증시마감]삼성전자웃고SK하이닉스울었다…엔비디아불확실성에엇...",
-    "[데스크칼럼]레드쓰나미…우리는절박한가",
     "[사설]312조영남권메가프로젝트,울산의몫은어디에",
     "ACEKPOP포커스8.80%급등…삼성전자레버리지·SK하이닉스인버스강세",
     "삼성전자우주가4거래일연속상승…외국인1천388억원순매수",
@@ -3370,10 +3372,12 @@
     "[뉴욕증시개장전]PPI예상밑돌아…개장전상승폭확대",
     "돌아온엘런슨,뒤집은알바노...DB,KT94-83꺾고맞대결6연승",
     "'전강후약'코스피5,300붕괴...코스닥700하회",
-    "세계여행-포르투갈포르투,도루강"
+    "세계여행-포르투갈포르투,도루강",
+    "일룸,행복얼라이언스와함께결식우려아동8가정에‘아이맞춤형공간...",
+    "용인시,죽능일반산업단지실시계획승인…2027년말준공목표"
    ],
    "initialized": true,
-   "last_run": "2026-11-13T23:25:22.469026+09:00"
+   "last_run": "2026-11-13T23:30:36.379153+09:00"
   }
  },
  "press_names": {
