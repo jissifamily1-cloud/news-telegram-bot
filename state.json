@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-13T11:55:20.261807+09:00",
-     "핫딜 7배 GS 5000억 빅딜 한국투자금융"
-    ],
-    [
-     "2026-11-13T11:55:20.261807+09:00",
-     "루닛 한온시스템 삼성전자 순매수 외국인 기관"
-    ],
-    [
-     "2026-11-13T11:55:20.261807+09:00",
-     "김동훈 KT 놀라운 언론자유 변신 홍보실장의 외치던"
-    ],
-    [
      "2026-11-13T12:00:40.809574+09:00",
      "사준다 최고가 신사업 쏘카 중고차 보장 매입"
     ],
@@ -886,11 +874,17 @@
     [
      "2026-11-13T17:50:26.747915+09:00",
      "경영권 사정권 시장 견제돼야 퇴출 기업 정상화 STX 32개"
+    ],
+    [
+     "2026-11-13T17:55:21.478229+09:00",
+     "예외 필요 52시간제 반도체업계 제도 기존 노동장관에 법제화"
+    ],
+    [
+     "2026-11-13T17:55:21.478229+09:00",
+     "곱버스마저 반토막 삼전닉스 하락 베팅했는데"
     ]
    ],
    "seen_urls": [
-    "https://www.koreajoongangdaily.com/business/us-push-to-tighten-chip-restrictions-on-china-could-make-korea-collateral-damage/12970540",
-    "https://www.ccdn.co.kr/news/articleView.html?idxno=1110829",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503542",
     "https://www.hani.co.kr/arti/economy/global/1287092.html",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090693",
@@ -2388,11 +2382,11 @@
     "https://www.news1.kr/finance/market-exr/6353667",
     "http://www.inews24.com/view/2026113",
     "https://www.mk.co.kr/article/12208285",
-    "https://www.sedaily.com/article/20114183"
+    "https://www.sedaily.com/article/20114183",
+    "https://biz.chosun.com/topics/topics_social/2026/11/13/54BXCNXGGRAU5CCS27NP2PHFSU/",
+    "https://www.fnnews.com/news/202611131736146465"
    ],
    "seen_titles": [
-    "U.S.pushtotightenchiprestrictionsonChinacouldmakeKoreacollat",
-    "[SK하이닉스청주M17셔틀버스운영사선정임박]안방일감뺏길판.....",
     "전남대취업박람회에기업59곳·청년3734명참여",
     "엔비디아독주에균열갈까…시장에선삼성↑,하이닉스↓",
     "정부첨단GPU71.7%수도권집중…영남권은6.9%그쳐",
@@ -3890,10 +3884,12 @@
     "삼전닉스반등에증설기대까지…피에스케이8.91%'껑충'[핫종목]",
     "[인천아트쇼2026]“각자의행성에서그린세계”…신경다양성작가들...",
     "'미·중가교'젠슨황사임에…美,반도체中규제더조인다",
-    "STX등32개기업‘퇴출사정권’…李“경영권견제돼야시장정상화..."
+    "STX등32개기업‘퇴출사정권’…李“경영권견제돼야시장정상화...",
+    "반도체업계,노동장관에“주52시간제예외법제화필요…기존제도개...",
+    "\"하락베팅했는데왜?\"…삼전닉스곱버스마저'반토막'"
    ],
    "initialized": true,
-   "last_run": "2026-11-13T17:50:26.747915+09:00"
+   "last_run": "2026-11-13T17:55:21.478229+09:00"
   }
  },
  "press_names": {
