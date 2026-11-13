@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-13T14:20:34.592716+09:00",
-     "체결 000원 앞두고 종가 SK스퀘어 공방 형성"
-    ],
-    [
-     "2026-11-13T14:20:34.592716+09:00",
-     "대만 지속되나 전강후약 일본 상승과 장세 언제까지 코스피"
-    ],
-    [
-     "2026-11-13T14:20:34.592716+09:00",
-     "플랫폼 플러스 혈액검사 타임엑스AI 중국 알츠온 조기 알츠하이머병"
-    ],
-    [
      "2026-11-13T14:25:21.793725+09:00",
      "선택 장세서 편안한 유지 탑픽 변동성 삼성증권 업종"
     ],
@@ -794,11 +782,13 @@
     [
      "2026-11-13T20:15:26.813639+09:00",
      "국내 흔들 젠슨 충격 증시도 여파"
+    ],
+    [
+     "2026-11-13T20:25:20.230232+09:00",
+     "살집일까 11개 전국 서울은 청약 단지 5000가구 불장"
     ]
    ],
    "seen_urls": [
-    "https://www.mediawatch.kr/news/article.html?no=261709",
-    "https://econotimes.com/SanDisk-Micron-Technology-and-SK-Hynix-Fall-Before-U-S-Open-1775852",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711627",
     "http://www.thesportstimes.co.kr/news/articleView.html?idxno=377497",
     "https://www.aitimes.kr/news/articleView.html?idxno=42713",
@@ -2296,11 +2286,11 @@
     "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160305704007455",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=362524",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1543719",
-    "https://www.kpinews.kr/newsView/1065610892385415"
+    "https://www.kpinews.kr/newsView/1065610892385415",
+    "https://www.segye.com/newsView/20261113504339?OutUrl=naver",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=315364"
    ],
    "seen_titles": [
-    "[금주의산업톡톡]ESG평가서새롭게A+오른기업들…코웨이·동아제...",
-    "SanDisk,MicronTechnologyandSKHynixFallBeforeU.S.Open",
     "환경단체,‘SK하이닉스지방세’온실가스저감투입촉구",
     "SSG,베테랑포수김민식과결별…선수단추가정비단행",
     "인텔코리아,국내23개기업과'K-AI풀스택얼라이언스'출범…소버린...",
@@ -3798,10 +3788,12 @@
     "류기준경기도의원,고양화정고서반도체진로교육마련",
     "금융투자업계,본업경쟁속나눔도확대…친환경·의료·장학잇따라",
     "젠슨황충격여파…국내증시도'흔들'",
-    "추미애경기지사,제5차국가철도망구축계획행사서철도확충간곡호..."
+    "추미애경기지사,제5차국가철도망구축계획행사서철도확충간곡호...",
+    "일본과연대소리높이는최태원\"상설협력플랫폼준비\"[리더의나침...",
+    "[살집말집]서울은청약'불장'…전국11개단지5000가구,살집일까말..."
    ],
    "initialized": true,
-   "last_run": "2026-11-13T20:20:27.938043+09:00"
+   "last_run": "2026-11-13T20:25:20.230232+09:00"
   }
  },
  "press_names": {
