@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-13T07:25:21.402069+09:00",
-     "알아야 국내외 경제뉴스"
-    ],
-    [
-     "2026-11-13T07:25:21.402069+09:00",
-     "신문 젠슨 록스타 몰락하다 1면 장식한"
-    ],
-    [
-     "2026-11-13T07:25:21.402069+09:00",
-     "증권업계 일만피 기대 접는 내려가"
-    ],
-    [
-     "2026-11-13T07:25:21.402069+09:00",
-     "음식료 코스피 내릴때 담배"
-    ],
-    [
      "2026-11-13T07:35:21.265288+09:00",
      "스캔들 증시 만기일 겹친 젠슨 흔드는 옵션 시장"
     ],
@@ -906,16 +890,21 @@
     [
      "2026-11-13T13:20:24.416187+09:00",
      "여파 속도 기회 반도체 다극화 SK하닉 미미 삼성"
+    ],
+    [
+     "2026-11-13T13:30:33.174197+09:00",
+     ""
+    ],
+    [
+     "2026-11-13T13:30:33.174197+09:00",
+     "체험 뷰티 밤까지 컬리뷰티페스타 아침부터 하루 개막"
+    ],
+    [
+     "2026-11-13T13:30:33.174197+09:00",
+     "뜻밖의 삼전닉스엔 엔비디아의 젠슨 떠난 호재 빈틈"
     ]
    ],
    "seen_urls": [
-    "https://www.sidae.com/article/2026111212092296255",
-    "https://it.chosun.com/news/articleView.html?idxno=3000000000893",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7193622",
-    "https://www.newsis.com/view/NISX20261112_0003865881",
-    "https://www.hani.co.kr/arti/economy/economy_general/1287027.html",
-    "https://www.m-economynews.com/news/article.html?no=72941",
-    "https://www.betanews.net/article/view/beta202611120179",
     "http://www.newstomato.com/ReadNews.aspx?no=1320250&inflow=N",
     "https://www.businesspost.co.kr/BP?command=article_view&num=451859",
     "https://economist.co.kr/article/view/ecn202611120059",
@@ -2408,16 +2397,16 @@
     "https://www.news1.kr/industry/general-industry/6353198",
     "https://www.econovill.com/news/articleView.html?idxno=757116",
     "https://www.businessplus.kr/news/articleView.html?idxno=119844",
-    "https://www.thelec.kr/news/articleView.html?idxno=65399"
+    "https://www.thelec.kr/news/articleView.html?idxno=65399",
+    "https://www.ajunews.com/view/20261113132110709",
+    "https://www.cnbizm.com/news/articleView.html?idxno=321377",
+    "https://www.newsis.com/view/NISX20261113_0003867079",
+    "https://www.kpinews.kr/newsView/1065579330538453",
+    "https://cn.asiatoday.co.kr/view.php?key=20261113001322518",
+    "https://www.yna.co.kr/view/AKR20261113088700030?input=1195m",
+    "https://www.hankyung.com/article/202611134784i"
    ],
    "seen_titles": [
-    "'3분연구발표'전국대회고려대서개최…서울대손하영학생교육부장...",
-    "'젠슨황쇼크'에커진미국대중규제…K반도체득실은",
-    "KB證,국고채과징금에3분기적전…키움도순익정정",
-    "용인반도체고첫신입생68%가외지학생…반도체인재향한교육열기",
-    "청주충북환경련\"SK하이닉스세수는시민피해배상금\"",
-    "’젠슨황해임설’여파...국내증시휘청",
-    "코스피,기관매도에사흘만에하락...5,342선마감",
     "삼성3사'81조'첫삽…산업부,충청권메가프로젝트착공식",
     "이틀반등끝…코스피5340선후퇴·코스닥700선붕괴",
     "[현장]'컬리뷰티페스타2026'은'일상'으로채웠다,아침부터밤까지'...",
@@ -3910,10 +3899,17 @@
     "[긴급진단下]AI반도체'다극화'속도…삼성기회·SK하닉여파미미",
     "LG유플러스,카테나-X협약국내제조기업에글로벌공급망데이터관문...",
     "[영상]젠슨황CEO퇴진…삼전닉스HBM공급망변수부상",
-    "퀄리타스반도체,SK하이닉스공급IP규모확대...총39억"
+    "퀄리타스반도체,SK하이닉스공급IP규모확대...총39억",
+    "[食전食후]상승출발하던코스피,하락전환…삼전닉스동반'파란불'",
+    "고려대,전국28개대학참여'BK21K-3MT'결승전개최",
+    "코스피,장중하락전환…5300선밑으로",
+    "SK바이오팜,뇌전증신약'세노바메이트'日출시…한·중·일진출",
+    "半导体行业景气带动税收大增95.4万亿韩元财政赤字降至8年来最低",
+    "아침부터밤까지하루뷰티체험…'컬리뷰티페스타2026'개막",
+    "젠슨황떠난엔비디아의빈틈…삼전닉스엔'뜻밖의호재'?"
    ],
    "initialized": true,
-   "last_run": "2026-11-13T13:25:20.411352+09:00"
+   "last_run": "2026-11-13T13:30:33.174197+09:00"
   }
  },
  "press_names": {
