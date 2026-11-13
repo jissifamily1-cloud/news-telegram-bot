@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-13T21:25:30.454011+09:00",
-     "투자 버튼 매수 누른 4억 10년 모은 레버리지 뒤쳐져 나만 포모에"
-    ],
-    [
-     "2026-11-13T21:25:30.454011+09:00",
-     "배상액 LNG선 2600억원대로 화물창 2심서 늘어 결함 가스공사"
-    ],
-    [
      "2026-11-13T21:35:20.335588+09:00",
      "SK디스커버리 증가분 세전이익 4조 영업외서 현금 확충"
     ],
@@ -153,8 +145,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/it-science/internet-platform/6352066",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503579",
     "https://www.seoul.co.kr/news/economy/industry/2026/11/13/20261113003003?wlog_tag3=naver",
     "https://www.edaily.co.kr/News/Read?newsId=01266086645645392&mediaCodeNo=257",
     "https://www.seoul.co.kr/news/economy/industry/2026/11/13/20261113003004?wlog_tag3=naver",
@@ -1652,11 +1642,11 @@
     "https://www.donga.com/news/Society/article/all/20261113/135022468/2",
     "https://www.donga.com/news/Economy/article/all/20261113/135023330/2",
     "https://www.donga.com/news/Economy/article/all/20261113/135023326/2",
-    "https://www.yna.co.kr/view/AKR20261114002400072?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261114002400072?input=1195m",
+    "https://www.greened.kr/news/articleView.html?idxno=354659",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712732"
    ],
    "seen_titles": [
-    "반도체팔던한국,‘AI공장주’로…해외수요잡는다",
-    "한화투자증권\"삼성전자·SK하이닉스실적기대커지나…코스피반등기...",
     "‘깐부’신사업불확실성커져…반도체공급은차질없을듯",
     "[사설]난기류만난반도체시장,대형변수파장주목해야",
     "美의회초당적‘칩통제’꺼냈다…삼전닉스中공장영향권",
@@ -3154,10 +3144,12 @@
     "2위팀삼성의뒤집기우승…‘부자=챔프’공식도뒤집다",
     "美의회‘對中칩규제3법’가속…국내기업中공장불똥우려",
     "‘젠슨황’불확실성에…코스피1%하락마감",
-    "NYT\"젠슨황몰락으로아시아'AI대사'잃었다\""
+    "NYT\"젠슨황몰락으로아시아'AI대사'잃었다\"",
+    "엔비디아후폭풍에美반도체6%급락…외국인7000억매도,코스피5300선...",
+    "NYT“젠슨황몰락으로아시아‘AI대사’잃었다”"
    ],
    "initialized": true,
-   "last_run": "2026-11-14T03:25:21.776196+09:00"
+   "last_run": "2026-11-14T03:30:34.994673+09:00"
   }
  },
  "press_names": {
