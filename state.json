@@ -250,11 +250,13 @@
     [
      "2026-11-14T00:10:27.283915+09:00",
      "김형빈 시작부터 3개 완패 KCC전 강하게 1R LG전 수비해야 3점"
+    ],
+    [
+     "2026-11-14T00:20:27.547881+09:00",
+     "포퓰리즘 지수"
     ]
    ],
    "seen_urls": [
-    "https://www.cstimes.com/news/articleView.html?idxno=727748",
-    "http://www.issuenbiz.com/news/articleView.html?idxno=81536",
     "https://www.mt.co.kr/opinion/2026/11/13/2026111208504541056",
     "https://www.kmib.co.kr/article/20261112501963",
     "https://www.kmib.co.kr/article/20261113500011",
@@ -1752,11 +1754,11 @@
     "http://www.the-biz.co.kr/news/articleView.html?idxno=731389",
     "http://www.jeollailbo.com/news/articleView.html?idxno=816576",
     "https://basketkorea.com/news/newsview.php?ncode=1065605733742974",
-    "https://www.hankookilbo.com/news/article/A2026111314490001002?did=NA"
+    "https://www.hankookilbo.com/news/article/A2026111314490001002?did=NA",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=626771",
+    "https://www.hankyung.com/article/2026111358391"
    ],
    "seen_titles": [
-    "인천경제청,'아이에스시'송도신공장착공…AI반도체소켓생산·연구...",
-    "SK증권,KCGSESG평가2년연속통합A등급획득",
     "중복상장,주주보호와시장의신뢰[투데이窓/반영은]",
     "‘메모리’한국·‘파운드리’대만,이익지속성에서희비",
     "‘황없는엔비디아’현실화…‘韓깐부기업’비상",
@@ -3254,10 +3256,12 @@
     "추미애\"집늘고기업모이는경기도,철도망확충시급\"",
     "[전라Insight]김동열의성공한정책들-금융실명제30년성과와한계",
     "‘1RKCC전3점3개+LG전완패’SK김형빈,“시작부터강하게수비해야...",
-    "[사설]젠슨황쇼크…AI지각변동과미중경쟁속기회잡길"
+    "[사설]젠슨황쇼크…AI지각변동과미중경쟁속기회잡길",
+    "[증시마감]SK하이닉스3%·삼성전자1%하락마감…젠슨황스캔들·중...",
+    "[최정봉의호모인베스티쿠스]지수포퓰리즘"
    ],
    "initialized": true,
-   "last_run": "2026-11-14T00:15:29.374496+09:00"
+   "last_run": "2026-11-14T00:20:27.547881+09:00"
   }
  },
  "press_names": {
