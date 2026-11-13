@@ -225,7 +225,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.donga.com/news/Society/article/all/20261112/135009008/2",
     "https://www.donga.com/news/Politics/article/all/20261113/135017908/2",
     "https://www.donga.com/news/Society/article/all/20261112/135009109/2",
     "https://www.mediapen.com/news/view/1137190",
@@ -1724,10 +1723,10 @@
     "https://www.newsis.com/view/NISX20261113_0003867302",
     "https://www.kmib.co.kr/article/20261113500526",
     "https://imnews.imbc.com/replay/2026/nw2500/article/6865567_36989.html",
-    "https://www.joongang.co.kr/article/25478546"
+    "https://www.joongang.co.kr/article/25478546",
+    "http://www.issuenbiz.com/news/articleView.html?idxno=81594"
    ],
    "seen_titles": [
-    "반도체에물대는화순“반도체소부장기업도유치해야”",
     "충청서‘메가프로젝트’첫삽…李“호남-영남투자도차질없게”",
     "군기지가반도체기지로…호남,‘제2의용인’꿈꾼다",
     "[美증시특징주]반도체,젠슨황퇴진충격에조정…브로드컴·AMD만급...",
@@ -3226,10 +3225,11 @@
     "\"고점에물렸다고겁먹지마세요\"…삼전닉스반등의열쇠는?",
     "[사설]젠슨황퇴진,AI산업불확실성대비해야",
     "젠슨황퇴진후폭풍‥'깐부동맹'파장촉각",
-    "AI로쏠리던돈…금·국채가‘피난처’될까"
+    "AI로쏠리던돈…금·국채가‘피난처’될까",
+    "[뉴스이슈&비즈]젠슨황없는엔비디아…한국과AI동맹이상없나"
    ],
    "initialized": true,
-   "last_run": "2026-11-14T01:30:34.658126+09:00"
+   "last_run": "2026-11-14T01:35:20.875884+09:00"
   }
  },
  "press_names": {
