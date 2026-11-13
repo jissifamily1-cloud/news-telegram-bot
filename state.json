@@ -266,10 +266,13 @@
     [
      "2026-11-13T23:45:26.176419+09:00",
      "서버 메모리 SC26서 기술 소개 마벨 MRVL 연결"
+    ],
+    [
+     "2026-11-13T23:55:20.291059+09:00",
+     "반도체주 불확실성 SK하이닉스 외국인 4700억 매도 확대"
     ]
    ],
    "seen_urls": [
-    "https://www.chosun.com/economy/smb-venture/2026/11/13/N6DGLNJTVZHX3CBAOBB5CJJHQU/",
     "https://www.chosun.com/economy/2026/11/13/4S5W4SL3NZD7JDVV5V6VXOL474/",
     "https://www.xportsnews.com/article/2218812",
     "https://www.chosun.com/economy/tech_it/2026/11/13/PXGEEQHSFVHQTP3PFJYFANMOXA/",
@@ -1768,10 +1771,10 @@
     "https://www.donga.com/news/Opinion/article/all/20261113/135022980/2",
     "https://www.topstarnews.net/news/articleView.html?idxno=16276154",
     "https://www.tokenpost.kr/news/ai/437935",
-    "https://www.tokenpost.kr/news/ai/437933"
+    "https://www.tokenpost.kr/news/ai/437933",
+    "https://www.kmib.co.kr/article/20261113500657"
    ],
    "seen_titles": [
-    "중기·전남광주시‘투자유치헬프데스크’공동운영",
     "“쌀위스키를한국명주로”…반도체박사의도전",
     "\"스테이크+회전초밥사주셨어\"1R초대형신인내야수,日캠프합류→...",
     "칩·패키지에미세‘물길’…AI반도체발열잡는다",
@@ -3270,10 +3273,11 @@
     "[사설]젠슨황불명예퇴진…‘엔비디아뉴노멀’격랑에대비해야",
     "미국증시,물가둔화에도나스닥하락…엔비디아·SK하이닉스약세,다...",
     "SK하이닉스($SKHY),CXL메모리공유…SSD에KV캐시저장",
-    "마벨($MRVL),SC26서AI서버연결·메모리기술소개"
+    "마벨($MRVL),SC26서AI서버연결·메모리기술소개",
+    "반도체주불확실성확대…외국인,SK하이닉스4700억매도"
    ],
    "initialized": true,
-   "last_run": "2026-11-13T23:50:28.477789+09:00"
+   "last_run": "2026-11-13T23:55:20.291059+09:00"
   }
  },
  "press_names": {
