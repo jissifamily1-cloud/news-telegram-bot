@@ -894,15 +894,17 @@
     [
      "2026-11-13T14:35:22.280291+09:00",
      "목표 물량 장외매수 완료 에코플랜트 확보 1차"
+    ],
+    [
+     "2026-11-13T14:40:27.372299+09:00",
+     "삼성 젠슨 흔들리나 동맹 쇼크 사임 깐부"
+    ],
+    [
+     "2026-11-13T14:40:27.372299+09:00",
+     "한국과 엔비디아 젠슨 무너지나 이대로 인연"
     ]
    ],
    "seen_urls": [
-    "https://www.rcast.co.kr/news/articleView.html?idxno=32053",
-    "https://www.kado.net/news/articleView.html?idxno=2084455",
-    "https://www.thepublic.kr/news/articleView.html?idxno=326426",
-    "https://www.cstimes.com/news/articleView.html?idxno=727723",
-    "https://www.nspna.com/news/?newsid=835890",
-    "https://www.newsis.com/view/NISX20261112_0003865944",
     "https://www.mt.co.kr/stock/2026/11/12/2026111215311553061",
     "https://www.chosun.com/economy/tech_it/2026/11/12/ES2XJSDOO5DXVDH3TTUHWTY2JA/",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=902916",
@@ -2396,15 +2398,15 @@
     "https://www.sisajournal-e.com/news/articleView.html?idxno=425016",
     "https://www.ezyeconomy.com/news/articleView.html?idxno=241830",
     "http://www.economytalk.kr/news/articleView.html?idxno=425311",
-    "https://www.bloter.net/news/articleView.html?idxno=678540"
+    "https://www.bloter.net/news/articleView.html?idxno=678540",
+    "https://dealsite.co.kr/articles/172720",
+    "https://dealsite.co.kr/articles/172735",
+    "https://www.hidomin.com/news/articleView.html?idxno=729258",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=315323",
+    "https://www.mk.co.kr/article/12208012",
+    "https://www.sisaon.co.kr/news/articleView.html?idxno=206053"
    ],
    "seen_titles": [
-    "코스피,기관매도에0.61%하락…코스닥도700선내줘",
-    "시몬스,이천시'사랑의김장김치나눔'동참",
-    "삼전0.9%↑·하닉1.80%↓…외국인7449억매수·8720억매도",
-    "[종합]李대통령\"3대메가프로젝트,속도전넘어'전격전'\"…충청권23...",
-    "코스피,'젠슨황해임설'에약보합마감",
-    "[용인시정책브리핑]용인반도체고첫입학생134명선발…경쟁률4.84대...",
     "코스피,'젠슨황'악재에사흘만에하락…0.6%내린5340선마감",
     "코스피,숨고르기장세끝에0.6%↓…젠슨황CEO해임설여파",
     "인텔코리아,AI서밋개최…23개기업참여AI협력체출범",
@@ -3898,10 +3900,16 @@
     "[반도체의집②]통신3사AIDC확장속도···투자·사업화전략은제...",
     "삼성중공업·SK해운,'한국형LNG화물창결함'2심소송도승소",
     "[Q4전망]\"초저연체율0.16%·WM57%↑\"삼성증권,Q3순익3528억방어…...",
-    "SK㈜,에코플랜트장외매수1차완료…목표물량80.1%확보"
+    "SK㈜,에코플랜트장외매수1차완료…목표물량80.1%확보",
+    "[전자는지금]삼성전자,인텔리전트아이웨어전격공개外",
+    "SKT,‘A.XK3’에국방데이터학습…군절차따르는AI개발",
+    "젠슨황전격사임에韓AI업계촉각…'깐부동맹'지켜질까",
+    "SK바이오팜세노바메이트,일본판매시작…한·중·일시장진출완료",
+    "젠슨황사임쇼크…삼성·SK등‘깐부동맹’흔들리나",
+    "'한국과인연'엔비디아젠슨황,이대로무너지나[김재창의여운]"
    ],
    "initialized": true,
-   "last_run": "2026-11-13T14:35:22.280291+09:00"
+   "last_run": "2026-11-13T14:40:27.372299+09:00"
   }
  },
  "press_names": {
