@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-13T09:20:26.819790+09:00",
-     "분양 1225가구 산단서 용인반도체클러스터 12월"
-    ],
-    [
-     "2026-11-13T09:20:26.819790+09:00",
-     "and Hynix in Trade KOSPI Electronics Outpace Early Samsung"
-    ],
-    [
-     "2026-11-13T09:20:26.819790+09:00",
-     "어닝쇼크 3Q 한국전력 급락 초반 유가급등에"
-    ],
-    [
-     "2026-11-13T09:20:26.819790+09:00",
-     "가동 엘리스그룹 데이터센터"
-    ],
-    [
-     "2026-11-13T09:20:26.819790+09:00",
-     "직후 인기 개장 종목 검색"
-    ],
-    [
      "2026-11-13T09:25:19.009170+09:00",
      "November Slow Letter"
     ],
@@ -866,15 +846,21 @@
     [
      "2026-11-13T15:15:29.027935+09:00",
      "죽능 개발 실시계획 승인 일반산단"
+    ],
+    [
+     "2026-11-13T15:20:27.759062+09:00",
+     "지원 코스모프로프 확대 지역 수출 뷰티기업 천안시 홍콩"
+    ],
+    [
+     "2026-11-13T15:20:27.759062+09:00",
+     "3분기 투자 어닝쇼크 4000억원대 미래에셋증권 스페이스X 순손실"
+    ],
+    [
+     "2026-11-13T15:20:27.759062+09:00",
+     "한국 비전 데이터센터 제자리 뜬구름 기가와트 메가와트 현실은"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/politics/president/6352254",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=882748",
-    "https://www.hidomin.com/news/articleView.html?idxno=729151",
-    "https://www.mt.co.kr/estate/2026/11/12/2026111215361975903",
-    "http://www.thevaluenews.co.kr/news/view.php?idx=203240",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=325765",
     "https://www.mt.co.kr/stock/2026/11/12/2026111216322888919",
     "http://www.areyou.co.kr/news/articleView.html?idxno=96295",
     "http://www.breaknews.com/1250620",
@@ -2368,15 +2354,15 @@
     "https://www.chosun.com/economy/economy_general/2026/11/13/MGW2ELZPSVG6DFFWJELTEZSFKI/",
     "https://www.etoday.co.kr/news/view/2647958",
     "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602110",
-    "https://www.sidae.com/article/2026111314461638705"
+    "https://www.sidae.com/article/2026111314461638705",
+    "https://biz.sbs.co.kr/article_hub/20000346241?division=NAVER",
+    "https://biz.sbs.co.kr/article_hub/20000346239?division=NAVER",
+    "https://weekly.hankooki.com/news/articleView.html?idxno=7193706",
+    "https://www.sisajournal.com/news/articleView.html?idxno=393892",
+    "https://www.pointe.co.kr/news/articleView.html?idxno=87740",
+    "https://www.thelec.kr/news/articleView.html?idxno=65398"
    ],
    "seen_titles": [
-    "충남도신속행정지원으로삼성전자아산사업장조기착공",
-    "李대통령,이재용과충청메가첫삽…\"투자차질없이추진\"(종합)",
-    "센코,3분기누적매출326억…누적영업익22억원달성",
-    "젠슨황해임설에출렁인코스피…장중165포인트널뛰기끝에하락마...",
-    "공장터부터건설인력까지…홍지선국토장관,용인·호남반도체속도...",
-    "[현장]“20세기식해법으론퇴보”…미래세대에넘길한일경제공동체...",
     "[르포]아침부터저녁까지'피부관리솔루션'총출동…컬리뷰티페스타...",
     "[사진]SK이노베이션'IR대상'에너지화학부문최우수상",
     "[아유경제_부동산]SK에코플랜트,동반성장지수10년연속'최우수'",
@@ -3870,10 +3856,16 @@
     "국산LNG선결함,가스公2685억배상판결…2심서800억늘어",
     "SK이노베이션E&S,인니서AI·에너지청년창업가육성",
     "'2026제주흑한우브랜드박람회'성황리마무리",
-    "[용인소식]죽능일반산단개발실시계획승인등"
+    "[용인소식]죽능일반산단개발실시계획승인등",
+    "[셀럽의한수]불륜으로33년만에쫓겨난젠슨황,엔비디아이끌후임...",
+    "[오후장체크포인트]여전히외국인'갈팡질팡'본격매수전환은언제...",
+    "용인죽능산단,10년넘긴표류끝에개발승인…내년말준공목표",
+    "[천안24시]천안시,지역뷰티기업수출지원확대…홍콩코스모프로프...",
+    "미래에셋증권,3분기4000억원대순손실'어닝쇼크'…스페이스X투자발...",
+    "한국데이터센터'기가와트'비전뜬구름?…현실은'메가와트'제자리"
    ],
    "initialized": true,
-   "last_run": "2026-11-13T15:15:29.027935+09:00"
+   "last_run": "2026-11-13T15:20:27.759062+09:00"
   }
  },
  "press_names": {
