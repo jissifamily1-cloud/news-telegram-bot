@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-14T01:45:25.861878+09:00",
-     "부자 우승 공식도 2위팀 삼성의 뒤집다 뒤집기 챔프"
-    ],
-    [
-     "2026-11-14T01:45:25.861878+09:00",
-     "코스피 젠슨 불확실성에 하락 마감"
-    ],
-    [
      "2026-11-14T02:50:28.202934+09:00",
      "몰락으로 NYT 잃었다 아시아 대사 젠슨"
     ],
@@ -238,11 +230,13 @@
     [
      "2026-11-14T07:40:26.495011+09:00",
      "하락세 뉴욕증시 혼조 엔비디아 마감 지속"
+    ],
+    [
+     "2026-11-14T07:50:26.201898+09:00",
+     "유럽서 SK바이오팜 세노바메이트 제동 청소년 소아 적응증 확대"
     ]
    ],
    "seen_urls": [
-    "https://www.news2day.co.kr/article/20261113500009",
-    "https://www.venturesquare.net/1128301/",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=366095",
     "https://biz.sbs.co.kr/article_hub/20000346127?division=NAVER",
     "https://www.medicopharma.co.kr/news/articleView.html?idxno=70399",
@@ -1740,11 +1734,11 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611140003&t=NN",
     "https://www.edaily.co.kr/News/Read?newsId=02033606645645720&mediaCodeNo=257",
     "https://www.slist.kr/news/articleView.html?idxno=781590",
-    "https://www.m-economynews.com/news/article.html?no=73028"
+    "https://www.m-economynews.com/news/article.html?no=73028",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3751871",
+    "https://www.edaily.co.kr/News/Read?newsId=02145126645645720&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "[N2포커스]은행권국고채담합과징금2505억원…실적·자본비율부담...",
-    "사람을더모으는대신더잘모셨다…컬리뷰티페스타2026의선택",
     "정부·삼성전자,충청메가첫삽",
     "[증시전략]젠슨황,사실상해임…엔비디아주가한때14%급락",
     "SK바이오사이언스,독일IDT가동률77%…안동공장은28%그쳐",
@@ -3242,10 +3236,12 @@
     "뉴욕증시혼조마감…젠슨황스캔들여파에나스닥0.9%↓",
     "美민주당압승·젠슨황논란,반도체벨트집값안심할수없다[손바닥...",
     "뉴욕증시혼조마감…엔비디아하락세지속'2%↓'",
-    "뉴욕증시,엔비디아스캔들여파에혼조...나스닥0.91%하락"
+    "뉴욕증시,엔비디아스캔들여파에혼조...나스닥0.91%하락",
+    "엔비디아시총4조달러붕괴...뉴욕증시기술주약세속혼조마감",
+    "SK바이오팜‘세노바메이트’소아·청소년적응증확대,유럽서제동....."
    ],
    "initialized": true,
-   "last_run": "2026-11-14T07:45:24.581214+09:00"
+   "last_run": "2026-11-14T07:50:26.201898+09:00"
   }
  },
  "press_names": {
