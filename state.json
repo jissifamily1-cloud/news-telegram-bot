@@ -906,13 +906,17 @@
     [
      "2026-11-13T18:15:28.194534+09:00",
      "취업 확대 선택지 채용설명회 영남이공대 기업 21개 기관"
+    ],
+    [
+     "2026-11-13T18:20:28.379376+09:00",
+     "Closed Foreigners KOSPI After Range in Down"
+    ],
+    [
+     "2026-11-13T18:20:28.379376+09:00",
+     "SK에코플랜트 정산으로 SK디스커버리 4천200억 차익 지분"
     ]
    ],
    "seen_urls": [
-    "https://www.namdonews.com/news/articleView.html?idxno=929116",
-    "http://www.kwangju.co.kr/article.php?aid=1794481200805314277",
-    "https://www.gpkorea.com/news/articleView.html?idxno=148547",
-    "https://www.khan.co.kr/article/202611122006005",
     "https://www.news1.kr/world/international-economy/6352561",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843681&plink=ORI&cooper=NAVER",
     "https://www.fnnews.com/news/202611122001352502",
@@ -2408,13 +2412,13 @@
     "http://worknworld.kctu.org/news/articleView.html?idxno=510316",
     "https://biz.sbs.co.kr/article_hub/20000346350?division=NAVER",
     "https://www.nocutnews.co.kr/news/6606837",
-    "https://tk.newdaily.co.kr/site/data/html/2026/11/13/2026111300310.html"
+    "https://tk.newdaily.co.kr/site/data/html/2026/11/13/2026111300310.html",
+    "http://www.srtimes.kr/news/articleView.html?idxno=217471",
+    "https://www.hitnews.co.kr/news/articleView.html?idxno=80776",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=281289",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4444725"
    ],
    "seen_titles": [
-    "반도체산단첫삽흙준비",
-    "호남반도체‘컨트롤타워’일원화시급",
-    "\"기업투자에일자리늘어난다\"…지방주택시장도기대감",
-    "“청년상황다룬‘춘추정병시대’시의적절…신년기획때후속보도...",
     "美공화당중진\"中창신메모리제재하라\"…삼전닉스수혜가능성",
     "'깐부동맹'휘청…'삼전닉스'HBM공급차질없나",
     "남광토건,3기신도시부천대장'하우스토리디센트'13일견본주택개...",
@@ -3910,10 +3914,14 @@
     "화섬식품노조,삼성전자에원·하청교섭요청",
     "엔비디아사태첫시험대17일…삼성·SK가주목할3가지",
     "\"충북이뜬다\"미래산업·돌봄복지혁신모델'비상(飛上)'",
-    "영남이공대,21개기업·기관채용설명회취업선택지확대"
+    "영남이공대,21개기업·기관채용설명회취업선택지확대",
+    "[생생포커스]앤트로픽1조달러IPO시험대…AI성장성논란수면위로",
+    "[HIT알공]3분기,90개헬스케어기업실적다담아놨습니다",
+    "[ClosingMarket]KOSPIClosedDown0.08%in5,290RangeAfterForeigne",
+    "SK디스커버리,SK에코플랜트지분정산으로4천200억차익"
    ],
    "initialized": true,
-   "last_run": "2026-11-13T18:15:28.194534+09:00"
+   "last_run": "2026-11-13T18:20:28.379376+09:00"
   }
  },
  "press_names": {
