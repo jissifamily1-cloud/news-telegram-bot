@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-14T00:25:23.945109+09:00",
-     "기관 주가 상승 71억원 순매수 삼성물산"
-    ],
-    [
      "2026-11-14T00:35:21.585474+09:00",
      "상승 하락 출발 나스닥"
     ],
@@ -162,12 +158,13 @@
     [
      "2026-11-14T06:20:28.110973+09:00",
      "14일 오늘의 경기"
+    ],
+    [
+     "2026-11-14T06:30:34.455870+09:00",
+     "LG유플러스 공급망 제조기업 돕는다 글로벌 데이터 진입"
     ]
    ],
    "seen_urls": [
-    "https://magazine.hankyung.com/money/article/202610153474c",
-    "https://biz.chosun.com/stock/stock_general/2026/11/13/PRDHWKVVZ5HNRFTVD2XBMREYUI/",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20261112010004930",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1731476",
     "https://www.ziksir.com/news/articleView.html?idxno=153057",
     "https://www.khan.co.kr/article/202611130600011",
@@ -1664,12 +1661,12 @@
     "http://www.rookie.co.kr/news/articleView.html?idxno=130325",
     "https://www.hitnews.co.kr/news/articleView.html?idxno=80766",
     "https://www.the-today.com/news/articleView.html?idxno=93541",
-    "https://www.yna.co.kr/view/AKR20261113172400007?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261113172400007?input=1195m",
+    "https://www.sportschosun.com/basketball/2026-11-14/202611140100093620008788",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504010",
+    "https://www.theguru.co.kr/news/article.html?no=109741"
    ],
    "seen_titles": [
-    "“반도체싸지만이미고점지났을수도”",
-    "한국간판주버리는외국인…현대차26년·삼전17년만의‘지분최저...",
-    "‘신용과의리’청년총수에서재계의거목으로…김승연이걸어온45년",
     "반도체공매도베팅46%급증…\"삼전·닉스반등전환점\"",
     "[산업직썰]\"영입대신육성\"…인력난겪는4대그룹,'AI사관학교'총...",
     "반도체물‘속도전’의숙제…가뭄검증도,농민설득도,기업절수도...",
@@ -3166,10 +3163,13 @@
     "외인제도변화여파?문제없다!승부처에서또빛난정효근→팀1옵션...",
     "바이오업계실적·상장'활기'…제약업계는약가개편에'난감'",
     "[속보]헝가리,'배터리전담환경감독국'신설…솔루스자회사가동중...",
-    "◇오늘의경기(14일)"
+    "◇오늘의경기(14일)",
+    "'헨리엘런슨돌아왔다'원주DB,수원KT잡고홈3연승…'김단비더블...",
+    "엔비디아악재에나스닥0.91%급락…국내반도체주운명은",
+    "[통신리뷰]LG유플러스,韓제조기업글로벌데이터공급망진입돕는다..."
    ],
    "initialized": true,
-   "last_run": "2026-11-14T06:25:21.198272+09:00"
+   "last_run": "2026-11-14T06:30:34.455870+09:00"
   }
  },
  "press_names": {
