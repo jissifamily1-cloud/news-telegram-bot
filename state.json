@@ -237,9 +237,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.smedaily.co.kr/news/articleView.html?idxno=366095",
-    "https://biz.sbs.co.kr/article_hub/20000346127?division=NAVER",
-    "https://www.medicopharma.co.kr/news/articleView.html?idxno=70399",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503595",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503594",
     "https://www.investchosun.com/site/data/html_dir/2026/11/12/2026111280161.html",
@@ -1736,12 +1733,12 @@
     "https://www.slist.kr/news/articleView.html?idxno=781590",
     "https://www.m-economynews.com/news/article.html?no=73028",
     "https://www.gukjenews.com/news/articleView.html?idxno=3751871",
-    "https://www.edaily.co.kr/News/Read?newsId=02145126645645720&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=02145126645645720&mediaCodeNo=257",
+    "https://www.the-today.com/news/articleView.html?idxno=93547",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=147075",
+    "https://www.khan.co.kr/article/202611140752001"
    ],
    "seen_titles": [
-    "정부·삼성전자,충청메가첫삽",
-    "[증시전략]젠슨황,사실상해임…엔비디아주가한때14%급락",
-    "SK바이오사이언스,독일IDT가동률77%…안동공장은28%그쳐",
     "화웨이와엔비디아를잇는수상한연결고리…미국반도체수출통제비상",
     "엔비디아경영공백에반도체주긴장…HBM수요까지흔들리나",
     "[Invest]삼전·닉스주식팔아구글·메타채권산다…글로벌기관자금...",
@@ -3238,10 +3235,13 @@
     "뉴욕증시혼조마감…엔비디아하락세지속'2%↓'",
     "뉴욕증시,엔비디아스캔들여파에혼조...나스닥0.91%하락",
     "엔비디아시총4조달러붕괴...뉴욕증시기술주약세속혼조마감",
-    "SK바이오팜‘세노바메이트’소아·청소년적응증확대,유럽서제동....."
+    "SK바이오팜‘세노바메이트’소아·청소년적응증확대,유럽서제동.....",
+    "엔비디아4조달러시총붕괴…뉴욕증시AI·반도체주동반급락",
+    "[오늘의글로벌마켓]뉴욕증시,엔비디아약세지속속3대지수혼조세",
+    "뉴욕증시혼조마감…엔비디아2%↓‘하락세’지속"
    ],
    "initialized": true,
-   "last_run": "2026-11-14T07:50:26.201898+09:00"
+   "last_run": "2026-11-14T07:55:20.089453+09:00"
   }
  },
  "press_names": {
