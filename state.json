@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-13T15:45:23.903852+09:00",
-     "여진에 금리 엔비디아 코스피 부담까지 이탈 5300선"
-    ],
-    [
-     "2026-11-13T15:45:23.903852+09:00",
-     "Price Closing List KOSPI"
-    ],
-    [
      "2026-11-13T15:46:04.368572+09:00",
      "초량이다 퇴근하면 초량 돈페스타"
     ],
@@ -682,11 +674,13 @@
     [
      "2026-11-13T21:40:35.576047+09:00",
      "PPI가 미국증시 승부처 선물 약세 전망 나스닥 10년물"
+    ],
+    [
+     "2026-11-13T21:45:26.312091+09:00",
+     "삼전 랠리 대위기 일단 젠슨 반도체주 닉스 떠나면 안도"
     ]
    ],
    "seen_urls": [
-    "https://www.asiatoday.co.kr/kn/view.php?key=20261112010004898",
-    "https://m.skyedaily.com/news_view.html?ID=314490",
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072386",
     "https://www.joongang.co.kr/article/25478163",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=320423",
@@ -2184,11 +2178,11 @@
     "https://www.edaily.co.kr/News/Read?newsId=04883926645645392&mediaCodeNo=257",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845488&plink=ORI&cooper=NAVER",
     "https://www.hankookilbo.com/news/article/A2026111314130005137?did=NA",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16276112"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16276112",
+    "http://www.kjdaily.com/article.php?aid=1794573555692177276",
+    "https://biz.heraldcorp.com/article/10936364"
    ],
    "seen_titles": [
-    "[사설]젠슨황해임수순…'CEO리스크'점검계기로",
-    "[사설]AI기술속도에비례하는규제를",
     "가스안전공사울산-SK에너지,노인복지관서배식봉사",
     "SKT·에버랜드,27년연속서비스품질1위지켰다",
     "9000선에서5000선까지밀린코스피...증권가전망도'갈팡질팡'",
@@ -3686,10 +3680,12 @@
     "\"10년모은4억,1억됐다\"…하이닉스에전재산넣은30대의후회",
     "프로농구DB,KT꺾고홈3연승…엘런슨28점폭",
     "삼성·SK하이닉스만난노동장관,반도체근로시간논의\"합리적방안...",
-    "미국증시전망,10년물5.1%·PPI가승부처…나스닥선물약세"
+    "미국증시전망,10년물5.1%·PPI가승부처…나스닥선물약세",
+    "삼성전자·SK하이닉스거래대금29.5%감소…외국인매도확대",
+    "젠슨황떠나면반도체주대위기?…일단‘삼전·닉스’는안도랠리[투..."
    ],
    "initialized": true,
-   "last_run": "2026-11-13T21:40:35.576047+09:00"
+   "last_run": "2026-11-13T21:45:26.312091+09:00"
   }
  },
  "press_names": {
