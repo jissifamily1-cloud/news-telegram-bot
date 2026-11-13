@@ -270,11 +270,17 @@
     [
      "2026-11-14T08:15:24.099712+09:00",
      "증시 시대 수출 기대 1조달러 SK하이닉스 삼성전자 훈풍 열린다"
+    ],
+    [
+     "2026-11-14T08:20:26.475098+09:00",
+     "종료 조정 우선순위 게이츠재단 스프레이 개발 비강 SK바이오사이언스"
+    ],
+    [
+     "2026-11-14T08:20:26.475098+09:00",
+     "쇄도 CPU ASIC까지 반도체 본격화 주문 수혜 ISC GPU"
     ]
    ],
    "seen_urls": [
-    "https://dealsite.co.kr/articles/172459",
-    "https://weekly.donga.com/3/all/11/6456502/1",
     "https://www.mk.co.kr/article/12206685",
     "http://www.newsfc.co.kr/news/articleView.html?idxno=82435",
     "https://www.news1.kr/industry/general-industry/6352316",
@@ -1772,11 +1778,11 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504032",
     "https://www.cbci.co.kr/news/articleView.html?idxno=626844",
     "https://www.bigtanews.co.kr/article/view/big202611140004",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504033"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504033",
+    "https://www.medicopharma.co.kr/news/articleView.html?idxno=70431",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504034"
    ],
    "seen_titles": [
-    "[리츠실적모니터][SK리츠]서린빌딩임대료인상…분기배당72원추...",
-    "“AI는미·중新군비경쟁…의회권력바뀌었다고성장산업철회할가...",
     "매경이전하는세상의지식(매-세-지,11월13일)",
     "미국의대중국칩규제와반도체독주시대의균열예고",
     "\"그동안참애썼다\"…22년째이어진김승연회장의수능응원",
@@ -3274,10 +3280,12 @@
     "삼성전기MLCC가격30%뛴다…내년1분기인상본격화",
     "[속보]엔비디아2.01%하락,필라델피아반도체지수3.43%급락",
     "삼성증권,11월둘째주NHN등41종목매수추천",
-    "수출1조달러시대열린다…삼성전자·SK하이닉스증시훈풍기대"
+    "수출1조달러시대열린다…삼성전자·SK하이닉스증시훈풍기대",
+    "SK바이오사이언스,비강스프레이개발종료…게이츠재단우선순위조정",
+    "GPU·CPU·ASIC까지주문쇄도…ISCAI반도체수혜본격화"
    ],
    "initialized": true,
-   "last_run": "2026-11-14T08:15:24.099712+09:00"
+   "last_run": "2026-11-14T08:20:26.475098+09:00"
   }
  },
  "press_names": {
