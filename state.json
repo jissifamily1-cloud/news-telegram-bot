@@ -286,11 +286,13 @@
     [
      "2026-11-14T08:25:20.538856+09:00",
      "고객 뷰티까지 컬리 영역 장보기 소비 넘어 넓힌다"
+    ],
+    [
+     "2026-11-14T08:35:19.848346+09:00",
+     "SK하이닉스 종가보다 정규장 할인"
     ]
    ],
    "seen_urls": [
-    "https://www.topstarnews.net/news/articleView.html?idxno=16275371",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503596",
     "https://www.econovill.com/news/articleView.html?idxno=757069",
     "https://www.sedaily.com/article/20113786",
     "https://www.tournews21.com/news/articleView.html?idxno=148328",
@@ -1788,11 +1790,11 @@
     "https://www.edaily.co.kr/News/Read?newsId=02322246645645720&mediaCodeNo=257",
     "https://www.cbci.co.kr/news/articleView.html?idxno=626846",
     "https://www.seoulfn.com/news/articleView.html?idxno=642811",
-    "https://www.seoulfn.com/news/articleView.html?idxno=642784"
+    "https://www.seoulfn.com/news/articleView.html?idxno=642784",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=8427",
+    "https://www.tokenpost.kr/news/insights/438113"
    ],
    "seen_titles": [
-    "미국증시,젠슨황사임·국채금리5%돌파에하락…엔비디아4.34%↓브...",
-    "엔비디아위기에AMD·브로드컴급등…삼성전자까지반사이익볼까",
     "젠슨황,엔비디아CEO사임…한국과깐부동맹불투명",
     "뉴욕증시,젠슨황퇴진에하락...“이란합의불필요”유가는급등[...",
     "용인죽능일반산단개발실시계획승인…처인구산업기반확충본격화",
@@ -3290,10 +3292,12 @@
     "젠슨황퇴진에엔비디아흔들…인텔,한국AI기업23곳과손잡았다",
     "[속보]미국뉴욕증시반도체주부진…AMD8.75%·마이크론2.52%하락,메...",
     "[AI제국의위기④]엔비디아변수에파운드리셈법변화···삼성,TSMC...",
-    "[르포]컬리,장보기넘어뷰티까지…3040고객소비영역넓힌다"
+    "[르포]컬리,장보기넘어뷰티까지…3040고객소비영역넓힌다",
+    "[마켓뷰]'공포에산다'…엔비디아1천억·반도체3배ETF8천억…서학...",
+    "[온체인주식선물]SK하이닉스,정규장종가보다3.15%할인"
    ],
    "initialized": true,
-   "last_run": "2026-11-14T08:30:32.926010+09:00"
+   "last_run": "2026-11-14T08:35:19.848346+09:00"
   }
  },
  "press_names": {
