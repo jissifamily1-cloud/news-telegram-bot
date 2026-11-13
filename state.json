@@ -774,11 +774,17 @@
     [
      "2026-11-13T20:30:35.368758+09:00",
      "대덕전자 이수페타시스 기판으로 몰렸다 반도체"
+    ],
+    [
+     "2026-11-13T20:35:22.206449+09:00",
+     "총출동 연세대 신입생 열기 3500명 현직자 진로 삼성 탐색 구글"
+    ],
+    [
+     "2026-11-13T20:35:22.206449+09:00",
+     "최고 유벤투스가 센터백 명문 영입 부른다 김민재"
     ]
    ],
    "seen_urls": [
-    "https://news.cpbc.co.kr/article/1177001?division=NAVER",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3750618",
     "http://www.ttlnews.com/news/articleView.html?idxno=3161855",
     "https://www.gukjenews.com/news/articleView.html?idxno=3750622",
     "https://www.topstarnews.net/news/articleView.html?idxno=16275266",
@@ -2276,11 +2282,11 @@
     "https://www.edaily.co.kr/News/Read?newsId=04778966645645392&mediaCodeNo=257",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503994",
     "https://www.koreajoongangdaily.com/business/jensen-huangs-exit-hits-ai-infrastructure-firms-that-grew-on-nvidia-cash/12972190",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503995"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503995",
+    "https://www.fnnews.com/news/202611132016357502",
+    "https://www.goal.com/kr/뉴스/a/bltb30f8765a0c17a6a"
    ],
    "seen_titles": [
-    "[시사천국]젠슨황스캔들왜지금인가…미권력투쟁과반도체의혹",
-    "인천TP,취약계층여성에위생용품키트전달",
     "SK증권,2026년ESG평가통합A등급유지…국제표준기반실행강화",
     "인천경제청,아이에스시신공장착공식개최",
     "젠슨황엔비디아CEO전격사퇴…불륜의혹에시총800조원증발,나스...",
@@ -3778,10 +3784,12 @@
     "SK디스커버리,3분기매출·세전익지주사출범후최대",
     "[주간거레소외국인]삼성전자쓸어담고SK하이닉스팔았다…엇갈린...",
     "JensenHuang’sexithitsAIinfrastructurefirmsthatgrewonNvidiaca",
-    "[주간거래소기관]반도체기판으로몰렸다…이수페타시스·대덕전자..."
+    "[주간거래소기관]반도체기판으로몰렸다…이수페타시스·대덕전자...",
+    "연세대신입생3500명진로탐색열기…삼성·구글현직자총출동",
+    "'韓최고센터백'김민재,'伊최고명문'유벤투스가부른다…\"영입문..."
    ],
    "initialized": true,
-   "last_run": "2026-11-13T20:30:35.368758+09:00"
+   "last_run": "2026-11-13T20:35:22.206449+09:00"
   }
  },
  "press_names": {
