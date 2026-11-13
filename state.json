@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-13T09:45:24.347985+09:00",
-     "하우스토리 경기 특공 남광토건 공급 부천대장 23일 디센트"
-    ],
-    [
      "2026-11-13T09:50:26.125494+09:00",
      "판매 시작 뇌전증 신약 일본 SK바이오팜 세노바메이트"
     ],
@@ -850,13 +846,13 @@
     [
      "2026-11-13T15:45:23.903852+09:00",
      "Price Closing List KOSPI"
+    ],
+    [
+     "2026-11-13T15:46:04.368572+09:00",
+     "초량이다 퇴근하면 초량 돈페스타"
     ]
    ],
    "seen_urls": [
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=424990",
-    "https://www.impacton.net/news/articleView.html?idxno=30659",
-    "https://biz.chosun.com/it-science/ict/2026/11/12/RQKQ2YCO6JH5JNAAZLOYPKZ5SA/",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=451839",
     "http://www.newskr.kr/news/articleView.html?idxno=107962",
     "https://www.delighti.co.kr/news/articleView.html?idxno=124864",
     "https://www.ytn.co.kr/_ln/0102_202611121646244788",
@@ -2352,13 +2348,13 @@
     "https://www.viva100.com/article/20261113500546",
     "https://www.kpinews.kr/newsView/1065594899615549",
     "https://www.m-i.kr/news/articleView.html?idxno=2018401",
-    "https://en.yna.co.kr/view/AEN20261113006200320?input=2106m"
+    "https://en.yna.co.kr/view/AEN20261113006200320?input=2106m",
+    "https://www.ajunews.com/view/20261113152425151",
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=425021",
+    "http://www.joseilbo.com/news/news_read.php?uid=579610&class=53",
+    "https://news.skbroadband.com/news/articleView.html?idxno=243198"
    ],
    "seen_titles": [
-    "청주시,84조투자협약기업15곳건의사항청취",
-    "[K바이오10대장점검⑨]SK바이오사이언스,매출80%CDMO···적자탈출...",
-    "【위클리ESG행사】11월3주차",
-    "CPU역할키우고메모리공유…인텔·SK하이닉스,AI‘추론병목’해...",
     "이재명\"충청권메가프로젝트에112개기업23조6천억추가투자예정\"",
     "삼성아산공장인허가10개월→80일...충청권메가프로젝트,아산서첫...",
     "코스피,'젠슨황'악재에사흘만에하락…0.61%내린5340선마감",
@@ -3854,10 +3850,14 @@
     "반도체호황에경기남부지자체세수급증…교통·생활인프라확충기...",
     "유응준전엔비디아코리아대표\"젠슨황사임,단기영향제한적\"",
     "엔비디아여진에금리부담까지...코스피5300선이탈[마감시황]",
-    "KOSPI200ClosingPriceList-4"
+    "KOSPI200ClosingPriceList-4",
+    "[마감시황]코스피,외국인매도에0.98%↓…코스닥은상승마감",
+    "통신株공매도비중'깜짝1위'···재평가관건\"AIDC수익성가시화...",
+    "코스피,'장초반강세반납'0.98%하락...코스닥소폭상승",
+    "'퇴근하면초량이다!'…초량돈페스타"
    ],
    "initialized": true,
-   "last_run": "2026-11-13T15:45:23.903852+09:00"
+   "last_run": "2026-11-13T15:46:04.368572+09:00"
   }
  },
  "press_names": {
