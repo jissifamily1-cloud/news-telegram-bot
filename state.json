@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-13T07:20:30.403075+09:00",
-     "산업기반 일반산단 죽능 개발실시계획 확충 본격화 용인 처인구 승인"
-    ],
-    [
      "2026-11-13T07:25:21.402069+09:00",
      "알아야 국내외 경제뉴스"
     ],
@@ -913,9 +909,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20113571",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=882759",
-    "https://www.newstnt.com/news/articleView.html?idxno=728135",
     "https://www.sidae.com/article/2026111212092296255",
     "https://it.chosun.com/news/articleView.html?idxno=3000000000893",
     "https://weekly.hankooki.com/news/articleView.html?idxno=7193622",
@@ -2412,12 +2405,12 @@
     "https://biz.newdaily.co.kr/site/data/html/2026/11/13/2026111300168.html",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611130057&t=NN",
     "https://www.mk.co.kr/article/12207941",
-    "https://www.news1.kr/industry/general-industry/6353198"
+    "https://www.news1.kr/industry/general-industry/6353198",
+    "https://www.econovill.com/news/articleView.html?idxno=757116",
+    "https://www.businessplus.kr/news/articleView.html?idxno=119844",
+    "https://www.thelec.kr/news/articleView.html?idxno=65399"
    ],
    "seen_titles": [
-    "‘용인반도체고’첫입학생134명선발…경쟁률4.84대1기록",
-    "[르포]“아침부터밤까지예뻐지세요”…컬리의K뷰티축제‘북적’",
-    "엔라이튼,기술성평가통과…2027년코스닥상장추진",
     "'3분연구발표'전국대회고려대서개최…서울대손하영학생교육부장...",
     "'젠슨황쇼크'에커진미국대중규제…K반도체득실은",
     "KB證,국고채과징금에3분기적전…키움도순익정정",
@@ -3914,10 +3907,13 @@
     "코스피,장중하락전환5300선후퇴…'젠슨황사임'재부각에반도체...",
     "SK바이오팜뇌전증치료제'세노바메이트',한·중·일다뚫었다",
     "엔비디아떨어져도오르는‘삼전닉스’…“관건은AI투자지속여부”",
-    "[긴급진단下]AI반도체'다극화'속도…삼성기회·SK하닉여파미미"
+    "[긴급진단下]AI반도체'다극화'속도…삼성기회·SK하닉여파미미",
+    "LG유플러스,카테나-X협약국내제조기업에글로벌공급망데이터관문...",
+    "[영상]젠슨황CEO퇴진…삼전닉스HBM공급망변수부상",
+    "퀄리타스반도체,SK하이닉스공급IP규모확대...총39억"
    ],
    "initialized": true,
-   "last_run": "2026-11-13T13:20:24.416187+09:00"
+   "last_run": "2026-11-13T13:25:20.411352+09:00"
   }
  },
  "press_names": {
