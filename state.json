@@ -174,10 +174,13 @@
     [
      "2026-11-15T07:35:20.440212+09:00",
      "연내 공장 LG이노텍 풀가동 투자 증가에 수요 기판 계획 대규모"
+    ],
+    [
+     "2026-11-15T07:40:25.856733+09:00",
+     "돌린 밖으로 엔비디아 경쟁 돌입 삼성전자 빅테크 SK하이닉스 2차"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/economy/employment-labor/6352941",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=91941",
     "http://kor.theasian.asia/archives/421636",
     "https://www.mediapen.com/news/view/1137265",
@@ -1676,10 +1679,10 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504109",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504111",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504112",
-    "https://biz.heraldcorp.com/article/10936975"
+    "https://biz.heraldcorp.com/article/10936975",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504113"
    ],
    "seen_titles": [
-    "노동장관,반도체업계와근로시간간담회…\"지속가능한혁신고민해야...",
     "최태원\"한일경제연대,비전넘어실행으로\"…2045년경제공동체로...",
     "[오늘의신문]젠슨황퇴진후폭풍·한국수출1조달러임박…세계경...",
     "코스피,장초반2%대상승…5500선근접",
@@ -3178,10 +3181,11 @@
     "기름값잡으려다재정부담눈덩이…SK이노베이션·에쓰오일향방은?",
     "삼성전자·SK하이닉스에몰린빚투…과거평균의4배넘는위험신호",
     "반도체·AI주흔들리자퇴직연금도비상…증시자금이탈하나",
-    "LG이노텍,기판수요증가에공장‘풀가동’…연내대규모투자계획..."
+    "LG이노텍,기판수요증가에공장‘풀가동’…연내대규모투자계획...",
+    "엔비디아밖으로눈돌린빅테크…삼성전자·SK하이닉스2차경쟁돌입"
    ],
    "initialized": true,
-   "last_run": "2026-11-15T07:35:20.440212+09:00"
+   "last_run": "2026-11-15T07:40:25.856733+09:00"
   }
  },
  "press_names": {
