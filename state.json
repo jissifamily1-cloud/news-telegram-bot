@@ -201,7 +201,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026111344556",
     "https://view.asiae.co.kr/article/2026111309291306260",
     "http://www.wsobi.com/news/articleView.html?idxno=321680",
     "http://www.joseilbo.com/news/news_read.php?uid=579570&class=53",
@@ -1700,10 +1699,10 @@
     "https://www.kpinews.kr/newsView/1065610473949760",
     "http://www.rookie.co.kr/news/articleView.html?idxno=130415",
     "https://www.sportsworldi.com/newsView/20261114506506",
-    "https://kjmbc.co.kr/NewsArticle/1545690"
+    "https://kjmbc.co.kr/NewsArticle/1545690",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=626889"
    ],
    "seen_titles": [
-    "'엔비디아쇼크'에도코스피2.5%상승…삼전닉스매수세유입",
     "양시장장초반상승세…코스피2.8%↑",
     "삼성전자·최종현학술원,구글-젠틀몬스터-워비파커와'인텔리전트아이...",
     "엔비디아발황(黃)색경보에글로벌증시흔들…韓증시도'위협'",
@@ -3202,10 +3201,11 @@
     "'월가큰손'소로스펀드,SK하이닉스ADR6000만달러신규편입",
     "가드가리바운드만무려11개!스펠맨원맨쇼뒤에박무빈투지있었다...",
     "‘4쿼터는지미타임’…정관장,선두삼성잡고4연승",
-    "장관들이직접진화한'투자회의론'…\"이달중반도체공장배치확정..."
+    "장관들이직접진화한'투자회의론'…\"이달중반도체공장배치확정...",
+    "[뉴욕증시마감]다우소폭상승속엔비디아2%하락하며시총4조달러..."
    ],
    "initialized": true,
-   "last_run": "2026-11-14T20:50:29.106003+09:00"
+   "last_run": "2026-11-14T20:55:20.748034+09:00"
   }
  },
  "press_names": {
