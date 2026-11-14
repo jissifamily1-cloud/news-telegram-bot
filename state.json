@@ -274,11 +274,13 @@
     [
      "2026-11-14T13:15:25.159548+09:00",
      "속이더니 팔라는 미인계로 첨단"
+    ],
+    [
+     "2026-11-14T13:20:26.195219+09:00",
+     "Korea Says Reaffirmed Plan GPU Nvidia South Bae"
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20261111000018",
-    "https://www.munhwa.com/article/11631014",
     "https://it.chosun.com/news/articleView.html?idxno=3000000000787",
     "https://www.edaily.co.kr/News/Read?newsId=02371446645645392&mediaCodeNo=257",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=94033",
@@ -1776,11 +1778,11 @@
     "https://www.fnnews.com/news/202611141223498592",
     "https://www.mk.co.kr/article/12208087",
     "https://www.etoday.co.kr/news/view/2647792",
-    "https://www.sedaily.com/article/20114321"
+    "https://www.sedaily.com/article/20114321",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=369732",
+    "https://econotimes.com/South-Korea-s-Bae-Says-Nvidia-Reaffirmed-260-000-GPU-Plan-1776581"
    ],
    "seen_titles": [
-    "[기획-에이텍솔루션신공장준공]12인치웨이퍼재생기술고도화…HBM...",
-    "파주시,민통선·통일대교‘검문소북상’정책여론조사실시",
     "[젠슨황스캔들]안갯속후계구도…삼성·SK긴장[엔비디아리스크③...",
     "“자회사지분가치줄었다”…LG,목표가11만원으로하향-SK",
     "경제연대닻올린한·일…2045년까지3단계실행로드맵가동",
@@ -3278,10 +3280,12 @@
     "BNK\"코스피적정수준6390\"…13일종가보다1100p높아",
     "“도대체언제오를까요”...코스피반등3가지조건보니",
     "쇼핑몰인근아파트몸값‘쑥’⋯연말분양시장주목",
-    "미인계로황속이더니韓엔첨단칩팔라는中[트럼프스톡커]"
+    "미인계로황속이더니韓엔첨단칩팔라는中[트럼프스톡커]",
+    "뉴욕증시,엔비디아여파에혼조마감…\"다우0.10%↑·나스닥0.91%↓\"",
+    "SouthKorea’sBaeSaysNvidiaReaffirmed260,000-GPUPlan"
    ],
    "initialized": true,
-   "last_run": "2026-11-14T13:15:25.159548+09:00"
+   "last_run": "2026-11-14T13:20:26.195219+09:00"
   }
  },
  "press_names": {
