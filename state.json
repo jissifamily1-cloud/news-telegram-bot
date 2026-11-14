@@ -345,7 +345,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261052",
     "https://www.thebigdata.co.kr/view.php?ud=202611130736022352d0a8833aad_23",
     "https://www.datasom.co.kr/news/articleView.html?idxno=210790",
     "https://www.etoday.co.kr/news/view/2647659",
@@ -1844,10 +1843,10 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504044",
     "https://www.jasm.co.kr/news/view/325241/?sc=Naver",
     "https://www.peoplewatch.co.kr/article/view/ppw202611130010",
-    "https://www.tfmedia.co.kr/news/article.html?no=208886"
+    "https://www.tfmedia.co.kr/news/article.html?no=208886",
+    "https://economist.co.kr/article/view/ecn202611140001"
    ],
    "seen_titles": [
-    "[넥스트-샷]\"주가좀어떻게하고가라\"···젠슨황씁쓸한퇴진,월...",
     "삼성바이오로직스,11월제약상장기업브랜드평판빅데이터1위…셀트...",
     "[분석]젠슨황33년만에퇴진···韓반도체·AI파장은?",
     "[오늘의IR]SK오션플랜트·쏘카·롯데에너지머티리얼즈등",
@@ -3346,10 +3345,11 @@
     "SK증권\"3분기이어4분기도최대실적도전…코세스성장속도빨라진...",
     "'AI황제'사라진엔비디아…'깐부'한국과사업변화생기나",
     "[김종운의숲에서배우다]⑨잿더미아래살아숨쉬는기억'숲의천이...",
-    "\"젠슨황몰락으로아시아'AI대사'잃어\"...NYT,韓수백조공동사업조..."
+    "\"젠슨황몰락으로아시아'AI대사'잃어\"...NYT,韓수백조공동사업조...",
+    "엔비디아또,'스캔들이후13%급락'시총4조달러아래로"
    ],
    "initialized": true,
-   "last_run": "2026-11-14T09:35:22.073660+09:00"
+   "last_run": "2026-11-14T09:40:25.921974+09:00"
   }
  },
  "press_names": {
