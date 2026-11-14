@@ -226,10 +226,13 @@
     [
      "2026-11-15T08:05:20.976840+09:00",
      "시계 증권가 이익은 추락 PER 느는데 엇갈린 반등"
+    ],
+    [
+     "2026-11-15T08:10:25.374544+09:00",
+     "낮아도 330원대 높아도 적정 수준은 환율 걱정"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261113_0003866724",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=281205",
     "http://www.ttlnews.com/news/articleView.html?idxno=3161978",
     "https://www.seoul.co.kr/news/economy/industry/2026/11/13/20261113500062?wlog_tag3=naver",
@@ -1728,10 +1731,10 @@
     "https://it.chosun.com/news/articleView.html?idxno=3000000000979",
     "https://basketkorea.com/news/newsview.php?ncode=1065597771571594",
     "http://www.seouleconews.com/news/articleView.html?idxno=95017",
-    "https://theviewers.co.kr/View.aspx?No=4311752"
+    "https://theviewers.co.kr/View.aspx?No=4311752",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4444789"
    ],
    "seen_titles": [
-    "\"동북아빅3진출\"…SK바이오팜,뇌전증약日출시",
     "Korea,JapanLaunchEconomicSolidarityRoadmap",
     "이상천제천시장,중국옌청(鹽城)시와산업·문화·청년교류확대모색",
     "엔비디아,220조AI금융약정‘시험대’…18일전직원회의",
@@ -3230,10 +3233,11 @@
     "'해외여행=로밍'옛말?…eSIM과따져보니",
     "[수비수의시선]백코트속도를증가시킨SK,더크게드러난힉스의수...",
     "AI로AI를통제하는방법",
-    "'이익은느는데PER추락'...증권가엇갈린'반등시계'"
+    "'이익은느는데PER추락'...증권가엇갈린'반등시계'",
+    "\"높아도낮아도걱정\"…1,330원대환율적정수준은"
    ],
    "initialized": true,
-   "last_run": "2026-11-15T08:08:25.640953+09:00"
+   "last_run": "2026-11-15T08:10:25.374544+09:00"
   }
  },
  "press_names": {
