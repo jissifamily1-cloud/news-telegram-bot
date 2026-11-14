@@ -365,7 +365,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20261113080934893",
     "https://www.pointe.co.kr/news/articleView.html?idxno=87683",
     "https://www.kbmaeil.com/article/20261113500042",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008844169&plink=ORI&cooper=NAVER",
@@ -1864,10 +1863,10 @@
     "https://www.segye.com/newsView/20261109519662?OutUrl=naver",
     "http://www.press9.kr/news/articleView.html?idxno=86257",
     "https://www.seoulfn.com/news/articleView.html?idxno=642775",
-    "http://www.sisafocus.co.kr/news/articleView.html?idxno=367573"
+    "http://www.sisafocus.co.kr/news/articleView.html?idxno=367573",
+    "http://www.newsprime.co.kr/news/article.html?no=754980"
    ],
    "seen_titles": [
-    "[인문자의젠슨황비문(秘聞)이야기|인간·문화·자연]AI황제의위...",
     "최태원\"한일경제연대상설기구필요\"…2045년통합로드맵제시",
     "젠슨황퇴진·유가급등…코스피,외국인수급주목",
     "젠슨황퇴진·유가급등에뉴욕증시하락…엔비디아4.3%↓",
@@ -3366,10 +3365,11 @@
     "영상통화시대연핵심서비스…한때이용자3500만명달해[김동환의김...",
     "SK·LG·KT,AI데이터센터추진…인프라·제도정비못따라온다",
     "[샤힌의습격④]국내석화산업'지각변동'···SK지오센트릭·대한유...",
-    "[이슈]반도체호황속엔비디아수장교체…국내산업계파장은"
+    "[이슈]반도체호황속엔비디아수장교체…국내산업계파장은",
+    "[해외시황]뉴욕증시,엔비디아發불확실성지속에'혼조'…나스닥0.91..."
    ],
    "initialized": true,
-   "last_run": "2026-11-14T12:10:27.688719+09:00"
+   "last_run": "2026-11-14T12:15:24.661765+09:00"
   }
  },
  "press_names": {
