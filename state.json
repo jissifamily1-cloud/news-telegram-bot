@@ -230,13 +230,21 @@
     [
      "2026-11-15T08:10:25.374544+09:00",
      "낮아도 330원대 높아도 적정 수준은 환율 걱정"
+    ],
+    [
+     "2026-11-15T08:15:28.911944+09:00",
+     "폭락 조명 스트레이트 코스피 후폭풍 논란과 예산 경기도"
+    ],
+    [
+     "2026-11-15T08:15:28.911944+09:00",
+     "이재용 나와요 이곳은 밥상 차린 평소엔 대통령"
+    ],
+    [
+     "2026-11-15T08:15:28.911944+09:00",
+     "2조원 각형 삼성 쟁탈전 시장 파우치 ESS vs"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=281205",
-    "http://www.ttlnews.com/news/articleView.html?idxno=3161978",
-    "https://www.seoul.co.kr/news/economy/industry/2026/11/13/20261113500062?wlog_tag3=naver",
-    "https://www.seoul.co.kr/news/economy/industry/2026/11/13/20261113500066?wlog_tag3=naver",
     "https://www.biotimes.co.kr/news/articleView.html?idxno=36157",
     "https://www.businesspost.co.kr/BP?command=article_view&num=451924",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=325880",
@@ -1732,13 +1740,13 @@
     "https://basketkorea.com/news/newsview.php?ncode=1065597771571594",
     "http://www.seouleconews.com/news/articleView.html?idxno=95017",
     "https://theviewers.co.kr/View.aspx?No=4311752",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4444789"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4444789",
+    "https://www.munhwa.com/article/11631316",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16276891",
+    "https://www.edaily.co.kr/News/Read?newsId=01151286645646048&mediaCodeNo=257",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=300928"
    ],
    "seen_titles": [
-    "Korea,JapanLaunchEconomicSolidarityRoadmap",
-    "이상천제천시장,중국옌청(鹽城)시와산업·문화·청년교류확대모색",
-    "엔비디아,220조AI금융약정‘시험대’…18일전직원회의",
-    "최태원“한일경제연대추진할상설협력플랫폼준비”",
     "SK바이오팜세노바메이트,일본판매개시…한·중·일시장진출완료",
     "한국전력주가장중9%대급락,3분기영업이익시장기대치30%넘게밑...",
     "SK바이오팜,뇌전증치료제'세노바메이트'일본출시",
@@ -3234,10 +3242,14 @@
     "[수비수의시선]백코트속도를증가시킨SK,더크게드러난힉스의수...",
     "AI로AI를통제하는방법",
     "'이익은느는데PER추락'...증권가엇갈린'반등시계'",
-    "\"높아도낮아도걱정\"…1,330원대환율적정수준은"
+    "\"높아도낮아도걱정\"…1,330원대환율적정수준은",
+    "‘빚투30%삼전·하닉에몰렸다’…변동성키운원인?",
+    "스트레이트,경기도예산논란과코스피폭락후폭풍조명",
+    "“평소엔더잘나와요”…李대통령·이재용밥상차린이곳은?[이집!...",
+    "[분석]삼성각형vsSK파우치…ESS2조원시장'쟁탈전'"
    ],
    "initialized": true,
-   "last_run": "2026-11-15T08:10:25.374544+09:00"
+   "last_run": "2026-11-15T08:15:28.911944+09:00"
   }
  },
  "press_names": {
