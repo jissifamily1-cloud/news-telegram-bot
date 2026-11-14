@@ -262,12 +262,13 @@
     [
      "2026-11-15T08:35:20.454321+09:00",
      "마케팅 통신업계 끝나면 수능 시동 수험생"
+    ],
+    [
+     "2026-11-15T08:40:24.656290+09:00",
+     "3주 서학개미 움직임 촉각 시장 바뀐다"
     ]
    ],
    "seen_urls": [
-    "https://www.newsian.co.kr/news/articleView.html?idxno=101200",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=801955",
-    "http://www.efnews.co.kr/news/articleView.html?idxno=133933",
     "https://www.joongangenews.com/news/articleView.html?idxno=563601",
     "https://www.koreaittimes.com/news/articleView.html?idxno=159123",
     "https://www.ntoday.co.kr/news/articleView.html?idxno=130837",
@@ -1764,12 +1765,12 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16276906",
     "https://www.moneystorm.kr/news/articleView.html?idxno=8432",
     "https://www.tokenpost.kr/news/insights/438471",
-    "https://it.chosun.com/news/articleView.html?idxno=3000000001013"
+    "https://it.chosun.com/news/articleView.html?idxno=3000000001013",
+    "https://www.kyeonggi.com/article/20261115580013",
+    "https://www.sentv.co.kr/article/view/sentv202611150003",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611150007&t=NN"
    ],
    "seen_titles": [
-    "엔비디아사임'충격'털어냈나…코스피5460선·코스닥4%↑",
-    "[위클리오늘]파주시,민통선검문소북상의견수렴",
-    "최태원회장\"한일경제연대실행으로...'빅텐트'협력플랫폼준비\"",
     "SK스퀘어주가,11월13일장중794,000원0.38%상승",
     "최태원,한일경제협력'빅텐트'띄운다…AI·반도체부터공동사업추...",
     "[마켓펄스]'젠슨황사임'충격딛고삼전닉스반등...코스피2%대강세",
@@ -3266,10 +3267,13 @@
     "삼성전자·SK하이닉스주간전망…엔비디아주문이관건",
     "[마켓뷰]코스피반등엔팔고엔비디아하락엔사고…갈림길선개미들",
     "[온체인주식선물]SK하이닉스,정규장종가보다5.09%할인",
-    "\"수능끝나면새폰?\"…통신업계,수험생마케팅시동"
+    "\"수능끝나면새폰?\"…통신업계,수험생마케팅시동",
+    "증시급락에퇴직연금도'휘청'…DC형수익률53%서14%대로",
+    "코스피급락에단기ELS상환변수…1786억원만기도래",
+    "\"D-3주\"…'시장판바뀐다'서학개미움직임'촉각'"
    ],
    "initialized": true,
-   "last_run": "2026-11-15T08:35:20.454321+09:00"
+   "last_run": "2026-11-15T08:40:24.656290+09:00"
   }
  },
  "press_names": {
