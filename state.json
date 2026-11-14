@@ -214,11 +214,13 @@
     [
      "2026-11-14T16:10:35.655311+09:00",
      "대신 은행 채권시장 회사채 대출로 돌리나 A급 기업도 내년"
+    ],
+    [
+     "2026-11-14T16:15:24.679273+09:00",
+     "강세 동반 중소형주 금융지주 몰렸다 1조9000억원 거래대금 지주사에"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261113_0003866591",
-    "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=525039",
     "http://www.yonhapnewstv.co.kr/news/MYH20261113090515q9u",
     "https://www.chosun.com/economy/stock-finance/2026/11/13/DZKSSF5WJZBHFK3EI2R5TINSJU/",
     "https://www.etoday.co.kr/news/view/2647726",
@@ -1716,11 +1718,11 @@
     "http://www.osen.co.kr/article/G1112910035",
     "http://www.rookie.co.kr/news/articleView.html?idxno=130388",
     "http://www.rookie.co.kr/news/articleView.html?idxno=130362",
-    "https://www.edaily.co.kr/News/Read?newsId=02745366645645720&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=02745366645645720&mediaCodeNo=257",
+    "https://isplus.com/article/view/isp202611140044",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504064"
    ],
    "seen_titles": [
-    "삼성전자·SK하이닉스,장초반3%대동반상승[핫스탁]",
-    "미인계의진화와엔비디아'젠슨황리스크'",
     "[속보]코스피2%상승…5,450선출발",
     "코스피,엔비디아급락충격에도상승개장",
     "[특징주]삼성전자·SK하이닉스,젠슨황사임에도동반강세",
@@ -3218,10 +3220,12 @@
     "[사진]부산KCC선수들,4연승하이파이브",
     "'허웅클러치활약'KCC,접전끝SK제압",
     "스펠맨이포효했다!극장승부에서현대모비스구원...박무빈더블-더...",
-    "[마켓인]회사채대신은행대출로…내년A급기업도채권시장등돌리나"
+    "[마켓인]회사채대신은행대출로…내년A급기업도채권시장등돌리나",
+    "허웅클러치본능폭발…KCC,SK제압하고4연승",
+    "지주사에1조9000억원거래대금몰렸다…금융지주·중소형주동반강세"
    ],
    "initialized": true,
-   "last_run": "2026-11-14T16:10:35.655311+09:00"
+   "last_run": "2026-11-14T16:15:24.679273+09:00"
   }
  },
  "press_names": {
