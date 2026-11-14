@@ -270,11 +270,13 @@
     [
      "2026-11-15T08:45:23.413609+09:00",
      "써보고 달군 DDP 사은품도 컬리뷰티페스타 화장품 받고"
+    ],
+    [
+     "2026-11-15T08:50:25.986523+09:00",
+     "선언 재정 경기도의 무슨 도청에 일이 스트레이트 비상"
     ]
    ],
    "seen_urls": [
-    "http://www.newsprime.co.kr/news/article.html?no=754615",
-    "https://economist.co.kr/article/view/ecn202611110026",
     "https://www.yna.co.kr/view/AKR20261113050700546?input=1195m",
     "https://www.energy-news.co.kr/news/articleView.html?idxno=229755",
     "https://www.edaily.co.kr/News/Read?newsId=02945446645645392&mediaCodeNo=257",
@@ -1772,11 +1774,11 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611150007&t=NN",
     "https://www.newscj.com/news/articleView.html?idxno=3448767",
     "https://www.dailian.co.kr/news/view/1715080/?sc=Naver",
-    "https://www.ajunews.com/view/20261112141747162"
+    "https://www.ajunews.com/view/20261112141747162",
+    "https://www.sentv.co.kr/article/view/sentv202611150004",
+    "http://enews.imbc.com/News/RetrieveNewsInfo/524846"
    ],
    "seen_titles": [
-    "[기자수첩]반도체호황에취할때아니다…다음흉년을준비해야",
-    "미성년자부터80세이상까지…증권사레버리지'연령별'규제확산",
     "[머니톡스]위험한황제젠슨황…결국기업의운명은CEO가결정한다",
     "제약상장기업2026년11월브랜드평판...삼성바이오로직스,셀트리온,...",
     "“전장이해하고스스로행동한다”…코난테크놀로지,‘한국판팔란티...",
@@ -3274,10 +3276,12 @@
     "\"D-3주\"…'시장판바뀐다'서학개미움직임'촉각'",
     "[농구]정관장,1위삼성꺾고4연승신바람…박지훈22점",
     "젠슨황과중국미인계,남의일아니다[하재근의이슈분석]",
-    "[르포]\"화장품써보고사은품도받고\"…DDP달군컬리뷰티페스타"
+    "[르포]\"화장품써보고사은품도받고\"…DDP달군컬리뷰티페스타",
+    "삼성전자·SK하이닉스신용융자잔고7조원육박…전체의27.2%",
+    "'스트레이트'경기도의재정비상선언…도청에무슨일이?"
    ],
    "initialized": true,
-   "last_run": "2026-11-15T08:45:23.413609+09:00"
+   "last_run": "2026-11-15T08:50:25.986523+09:00"
   }
  },
  "press_names": {
