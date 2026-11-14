@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-14T07:35:21.346413+09:00",
-     "반도체벨트 젠슨 집값 안심할 압승 없다 논란 민주당 손바닥"
-    ],
-    [
-     "2026-11-14T07:40:26.495011+09:00",
-     "하락세 뉴욕증시 혼조 엔비디아 마감 지속"
-    ],
-    [
      "2026-11-14T07:50:26.201898+09:00",
      "유럽서 SK바이오팜 세노바메이트 제동 청소년 소아 적응증 확대"
     ],
@@ -278,11 +270,13 @@
     [
      "2026-11-14T13:30:33.982392+09:00",
      "11월 NZ 2026년 코스닥 코스피 하락 12일"
+    ],
+    [
+     "2026-11-14T13:40:29.428777+09:00",
+     "조작징계 일파만파 계파갈등 공방"
     ]
    ],
    "seen_urls": [
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=94033",
-    "https://biz.sbs.co.kr/article_hub/20000346150?division=NAVER",
     "https://www.m-i.kr/news/articleView.html?idxno=2018093",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=173154",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=300640",
@@ -1780,11 +1774,11 @@
     "http://www.ftoday.co.kr/news/articleView.html?idxno=369732",
     "https://econotimes.com/South-Korea-s-Bae-Says-Nvidia-Reaffirmed-260-000-GPU-Plan-1776581",
     "http://www.kjdaily.com/article.php?aid=1794630301692200276",
-    "https://www.the-today.com/news/articleView.html?idxno=93559"
+    "https://www.the-today.com/news/articleView.html?idxno=93559",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261114133455CrS",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261114133414GOk"
    ],
    "seen_titles": [
-    "경제연대닻올린한·일…2045년까지3단계실행로드맵가동",
-    "[어제장오늘장]젠슨황이트러블메이커로…삼전·닉스희비갈렸다",
     "젠슨황전격사임·유가급등에나스닥0.39%↓[뉴욕증시]",
     "젠슨황,33년만에엔비디아서퇴장…AI업계충격파",
     "\"에이전틱커머스시대,속도감있는유통인프라최적화핵심\"",
@@ -3282,10 +3276,12 @@
     "뉴욕증시,엔비디아여파에혼조마감…\"다우0.10%↑·나스닥0.91%↓\"",
     "SouthKorea’sBaeSaysNvidiaReaffirmed260,000-GPUPlan",
     "삼성전자·SK하이닉스거래대금39조8천억원…전주보다21%감소",
-    "[NZSIINDEX]2026년11월12일…코스피-0.61%·코스닥-1.22%하락…NZ..."
+    "[NZSIINDEX]2026년11월12일…코스피-0.61%·코스닥-1.22%하락…NZ...",
+    "[뉴스초점]'젠슨황스캔들'후폭풍…러트닉'경질론'도",
+    "[토요와이드]與계파갈등일파만파…野조작징계공방"
    ],
    "initialized": true,
-   "last_run": "2026-11-14T13:35:19.425086+09:00"
+   "last_run": "2026-11-14T13:40:29.428777+09:00"
   }
  },
  "press_names": {
