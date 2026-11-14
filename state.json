@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-14T20:05:22.600312+09:00",
-     "삼성 마이크론 수요 담합 SK하이닉스 소송서 폭등 D램"
-    ],
-    [
      "2026-11-14T20:10:27.739732+09:00",
      "월가 6000만달러 신규 큰손 소로스펀드 편입 SK하이닉스 ADR"
     ],
@@ -94,10 +90,13 @@
     [
      "2026-11-15T01:05:20.435969+09:00",
      "이재용도 최태원 광주 반도체 이어 탄력 호남 언급"
+    ],
+    [
+     "2026-11-15T02:05:23.089094+09:00",
+     "붕괴 저평가론 4조달러 동반 엔비디아 약세 반도체 시총"
     ]
    ],
    "seen_urls": [
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=89454",
     "https://www.edaily.co.kr/News/Read?newsId=02774886645645392&mediaCodeNo=257",
     "https://www.dailian.co.kr/news/view/1714522/?sc=Naver",
     "https://www.kmib.co.kr/article/20261113500133",
@@ -1596,10 +1595,10 @@
     "http://www.kjdaily.com/article.php?aid=1794671565692206276",
     "http://www.kjdaily.com/article.php?aid=1794672084692223276",
     "http://www.kjdaily.com/article.php?aid=1794672142692211276",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000082692"
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000082692",
+    "https://www.g-enews.com/view.php?ud=2026111421030827649a1f309431_1"
    ],
    "seen_titles": [
-    "코스피,엔비디아발뉴욕증시하락딛고2%대강세…5500넘본다",
     "[단독]넥스플렉스,9000억에부산EP품으로…SPA체결",
     "반도체R&D근로시간유연화논의…노동부,삼전닉스의견청취",
     "“젠슨황사임에도…”…코스피2.9%급등출발",
@@ -3098,10 +3097,11 @@
     "반도체ETF주간32%급등…코스피반등에레버리지강세",
     "이수페타시스주가42.51%급등…기관914억원순매수",
     "삼성전자우주가13.44%상승…코스피4.56%반등률3배육박",
-    "최태원이어이재용도'광주'언급…호남반도체추진탄력"
+    "최태원이어이재용도'광주'언급…호남반도체추진탄력",
+    "엔비디아시총4조달러붕괴…반도체동반약세속저평가론"
    ],
    "initialized": true,
-   "last_run": "2026-11-15T02:00:42.667341+09:00"
+   "last_run": "2026-11-15T02:05:23.089094+09:00"
   }
  },
  "press_names": {
