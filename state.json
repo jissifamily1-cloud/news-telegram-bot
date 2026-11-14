@@ -130,10 +130,13 @@
     [
      "2026-11-15T00:05:22.680361+09:00",
      "함정 1억으로 본전 레버리지 4억이 개미 빠진"
+    ],
+    [
+     "2026-11-15T00:10:27.621222+09:00",
+     "해결사 승부처 허웅"
     ]
    ],
    "seen_urls": [
-    "https://www.impacton.net/news/articleView.html?idxno=30661",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611130031&t=NN",
     "https://www.yna.co.kr/view/AKR20261112178500530?input=1195m",
     "https://www.seoulfn.com/news/articleView.html?idxno=642721",
@@ -1632,10 +1635,10 @@
     "https://news.tf.co.kr/read/economy/2388677.htm",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611140043&t=NN",
     "https://www.theguru.co.kr/news/article.html?no=109604",
-    "https://www.dt.co.kr/article/12095106"
+    "https://www.dt.co.kr/article/12095106",
+    "https://basketkorea.com/news/newsview.php?ncode=1065597125227265"
    ],
    "seen_titles": [
-    "【데일리ESG정책브리핑】AI반도체8002억원개발·삼성전자HBM공장...",
     "젠슨황잊은삼전닉스'질주'...장초반3∼4%대급등",
     "노동장관,반도체기업간담회…초광역특구사회적대화에참고",
     "코스피,젠슨황사임·美증시약세에도2%대상승출발···5480선회복",
@@ -3134,10 +3137,11 @@
     "[비즈토크<하>]中스파이불륜스캔들에젠슨황퇴진…국내산업후폭...",
     "엔비디아실적에앤트로픽상장까지…이번주증시'진짜변수'는[주식...",
     "\"하이닉스160만원vs470만원\"…반도체주반등에월가전망'극과극'",
-    "[박진우의개미수다]4억이1억으로…‘본전함정’빠진레버리지개미..."
+    "[박진우의개미수다]4억이1억으로…‘본전함정’빠진레버리지개미...",
+    "[게임리포트]허웅=승부처=해결사"
    ],
    "initialized": true,
-   "last_run": "2026-11-15T00:05:22.680361+09:00"
+   "last_run": "2026-11-15T00:10:27.621222+09:00"
   }
  },
  "press_names": {
