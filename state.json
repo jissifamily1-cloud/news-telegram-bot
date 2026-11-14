@@ -209,10 +209,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261113000176",
-    "https://www.newstopkorea.com/news/articleView.html?idxno=49015",
-    "https://www.etoday.co.kr/news/view/2647327",
-    "https://www.ekn.kr/web/view.php?key=20261113025038730",
     "https://www.segye.com/newsView/20261113503807?OutUrl=naver",
     "https://www.tokenpost.kr/news/insights/437447",
     "http://www.metroseoul.co.kr/article/20261112500586",
@@ -1708,13 +1704,13 @@
     "http://www.osen.co.kr/article/G1112909972",
     "http://www.osen.co.kr/article/G1112909975",
     "https://biz.sbs.co.kr/article_hub/20000346422?division=NAVER",
-    "http://coinreaders.com/270242"
+    "http://coinreaders.com/270242",
+    "http://www.osen.co.kr/article/G1112910023",
+    "http://www.osen.co.kr/article/G1112910022",
+    "http://www.osen.co.kr/article/G1112910024",
+    "https://www.daejonilbo.com/news/articleView.html?idxno=2313518"
    ],
    "seen_titles": [
-    "'재무통'이잡은엔비디아…삼성·SKHBM계약다시들여다보나",
-    "\"한일경제연대,구상넘어실행으로\"…최태원,상설협력플랫폼추진",
-    "용인반도체투자확대…산업단지인근주거단지공급이어져",
-    "[총수는누구인가①]창업자젠슨황도이사회압박속사퇴…한국‘...",
     "코스피고점에퇴직연금DC형갈아탄15만명육박…손실나도DB형못돌...",
     "[온체인주식선물]삼성전자,정규장종가보다4.06%웃돈",
     "울산시,영남권메가투자회의서기업지원사례발표",
@@ -3210,10 +3206,14 @@
     "[사진]아쉬운전희철감독,역전쉽지않네",
     "[사진]장재석,막혔다.",
     "NYT\"젠슨황몰락에아시아'AI대사'사라졌다\"",
-    "[서학개미레이더]엔비디아(NVDA)1,080억달러가이던스시험대…앤스..."
+    "[서학개미레이더]엔비디아(NVDA)1,080억달러가이던스시험대…앤스...",
+    "[사진]허웅,짜릿한3점슛성공",
+    "[사진]허웅,리드폭늘리는3점슛",
+    "[사진]환호하는허웅,짜릿한3점슛성공",
+    "국힘,李증시발언맹공…\"개미피눈물나는데한가한낙관론\""
    ],
    "initialized": true,
-   "last_run": "2026-11-14T15:50:27.733696+09:00"
+   "last_run": "2026-11-14T15:55:21.614223+09:00"
   }
  },
  "press_names": {
