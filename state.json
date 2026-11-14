@@ -278,11 +278,13 @@
     [
      "2026-11-14T13:20:26.195219+09:00",
      "Korea Says Reaffirmed Plan GPU Nvidia South Bae"
+    ],
+    [
+     "2026-11-14T13:30:33.982392+09:00",
+     "11월 NZ 2026년 코스닥 코스피 하락 12일"
     ]
    ],
    "seen_urls": [
-    "https://it.chosun.com/news/articleView.html?idxno=3000000000787",
-    "https://www.edaily.co.kr/News/Read?newsId=02371446645645392&mediaCodeNo=257",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=94033",
     "https://biz.sbs.co.kr/article_hub/20000346150?division=NAVER",
     "https://www.m-i.kr/news/articleView.html?idxno=2018093",
@@ -1780,11 +1782,11 @@
     "https://www.etoday.co.kr/news/view/2647792",
     "https://www.sedaily.com/article/20114321",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=369732",
-    "https://econotimes.com/South-Korea-s-Bae-Says-Nvidia-Reaffirmed-260-000-GPU-Plan-1776581"
+    "https://econotimes.com/South-Korea-s-Bae-Says-Nvidia-Reaffirmed-260-000-GPU-Plan-1776581",
+    "http://www.kjdaily.com/article.php?aid=1794630301692200276",
+    "https://www.the-today.com/news/articleView.html?idxno=93559"
    ],
    "seen_titles": [
-    "[젠슨황스캔들]안갯속후계구도…삼성·SK긴장[엔비디아리스크③...",
-    "“자회사지분가치줄었다”…LG,목표가11만원으로하향-SK",
     "경제연대닻올린한·일…2045년까지3단계실행로드맵가동",
     "[어제장오늘장]젠슨황이트러블메이커로…삼전·닉스희비갈렸다",
     "젠슨황전격사임·유가급등에나스닥0.39%↓[뉴욕증시]",
@@ -3282,10 +3284,12 @@
     "쇼핑몰인근아파트몸값‘쑥’⋯연말분양시장주목",
     "미인계로황속이더니韓엔첨단칩팔라는中[트럼프스톡커]",
     "뉴욕증시,엔비디아여파에혼조마감…\"다우0.10%↑·나스닥0.91%↓\"",
-    "SouthKorea’sBaeSaysNvidiaReaffirmed260,000-GPUPlan"
+    "SouthKorea’sBaeSaysNvidiaReaffirmed260,000-GPUPlan",
+    "삼성전자·SK하이닉스거래대금39조8천억원…전주보다21%감소",
+    "[NZSIINDEX]2026년11월12일…코스피-0.61%·코스닥-1.22%하락…NZ..."
    ],
    "initialized": true,
-   "last_run": "2026-11-14T13:25:20.548126+09:00"
+   "last_run": "2026-11-14T13:30:33.982392+09:00"
   }
  },
  "press_names": {
