@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-15T23:15:25.978922+09:00",
-     "국가철도망 교통 숨통 허브 반도체 반영 430만 틔울 용인시"
-    ],
-    [
-     "2026-11-15T23:20:26.852981+09:00",
-     "떠난 포수 초읽기 단계 계약 SSG 김민식 마무리 LG행 우승"
-    ],
-    [
      "2026-11-15T23:35:22.247963+09:00",
      "줬다 뺏는 노인 미래대응기금 의료비 일본"
     ],
@@ -182,11 +174,17 @@
     [
      "2026-11-16T05:15:25.446726+09:00",
      "복귀 만에 나흘 사퇴 머스크까지 나섰다 삼성전자 SK하 젠슨"
+    ],
+    [
+     "2026-11-16T05:20:29.739379+09:00",
+     "강국 있나 던진 젠슨 사태가 HBM 경고 주권은 한국"
+    ],
+    [
+     "2026-11-16T05:20:29.739379+09:00",
+     "인프라주 오클로 폭락 줄줄이 캐터필러 잘나가던 추락"
     ]
    ],
    "seen_urls": [
-    "https://www.topdaily.kr/articles/112910",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611130114&t=NN",
     "https://news.skbroadband.com/news/articleView.html?idxno=243197",
     "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160287355587605",
     "https://www.smartbizn.com/news/articleView.html?idxno=159429",
@@ -1684,11 +1682,11 @@
     "https://www.edaily.co.kr/News/Read?newsId=01118486645646376&mediaCodeNo=257",
     "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/11/16/20261116022002?wlog_tag3=naver",
     "https://www.newsis.com/view/NISX20261115_0003868491",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504223"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504223",
+    "https://www.edaily.co.kr/News/Read?newsId=01138166645646376&mediaCodeNo=257",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504224"
    ],
    "seen_titles": [
-    "'젠슨황사임'여파지속?…하이닉스,3%급락…삼전도0.96%↓(종합)",
-    "[TOP'sPick][제약]HLB라이프케어-종근당,연속혈당측정기‘피코링’...",
     "[매크로인사이트]이춘광대표“미증시극단적변동성통과…앤트로...",
     "추미애도지사,40개노선국가철도망반영요청",
     "이상일용인특례시장,국가철도망에경기남부철도3개노선반영촉구",
@@ -3186,10 +3184,12 @@
     "[사설]구심점잃은AI생태계,혹한기대비전략고민해야",
     "호남‘반도체심장부’도약…일자리·협력기업뿌리내린다[서남권반...",
     "젠슨황떠난엔비디아…삼성·SK하이닉스'HBM공급망'판도바뀌나",
-    "젠슨황,사퇴나흘만에복귀추진…머스크까지나섰다,삼성전자·SK하..."
+    "젠슨황,사퇴나흘만에복귀추진…머스크까지나섰다,삼성전자·SK하...",
+    "HBM강국한국,AI주권은있나…젠슨황사태가던진경고",
+    "잘나가던AI인프라주줄줄이폭락…캐터필러44%·오클로49%추락"
    ],
    "initialized": true,
-   "last_run": "2026-11-16T05:15:25.446726+09:00"
+   "last_run": "2026-11-16T05:20:29.739379+09:00"
   }
  },
  "press_names": {
