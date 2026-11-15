@@ -505,10 +505,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.xportsnews.com/article/2219100",
-    "http://www.newstomato.com/ReadNews.aspx?no=1320399&inflow=N",
-    "https://www.sedaily.com/article/20113881",
-    "https://www.chosun.com/economy/industry-company/2026/11/13/HDU6ICDF2RD2JEZFJTTYUUS5NQ/",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=425024",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=398227",
     "https://www.gokorea.kr/news/articleView.html?idxno=885491",
@@ -2004,13 +2000,13 @@
     "https://www.etoday.co.kr/news/view/2648394",
     "https://www.yna.co.kr/view/AKR20261116018100008?input=1195m",
     "https://www.theguru.co.kr/news/article.html?no=109766",
-    "https://www.dt.co.kr/article/12095317"
+    "https://www.dt.co.kr/article/12095317",
+    "https://biz.sbs.co.kr/article_hub/20000346574?division=NAVER",
+    "http://www.kjdaily.com/article.php?aid=1794785166692348276",
+    "https://www.asiatime.co.kr/article/20261116500024",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000082961"
    ],
    "seen_titles": [
-    "나흘만에순매도돌아선외국인…수급변동성여전",
-    "'박정권과결별'SSG,박재상퓨처스팀감독선임…\"중책맡게돼책임감...",
-    "코스피도엔비디아쇼크…정부,증시부양'안간힘'",
-    "MBK,넥스플렉스매각…부산EP와주식매매계약[시그널]",
     "최태원“한일경제연대,이제는실행...3·5·10년뒤계획세우자\"",
     "\"대통령까지나섰다\"···장위뉴타운2만가구공급속도붙나",
     "장중3%치솟던코스피,상승폭반납하고0.98%하락마감",
@@ -3506,10 +3502,14 @@
     "SK증권\"롯데에너지머티리얼즈,국내유일회로박수혜주…쇼티지진입...",
     "한투증권,내년코스피목표8,300…\"점진적상승세\"",
     "SK매직,말레이에어컨시장'출사표'…자체브랜드'매직쿨'로정면승...",
-    "반도체다시주춤…삼전·하닉,프리마켓나란히약세"
+    "반도체다시주춤…삼전·하닉,프리마켓나란히약세",
+    "한투증권\"내년코스피목표치8300…단계적상승\"",
+    "[오늘증시전망]엔비디아실적주목",
+    "젠슨황복귀추진…엔비디아경영혼란가중",
+    "'젠슨황쇼크'딛고반등할까…엔비디아실적·앤트로픽상장에쏠린..."
    ],
    "initialized": true,
-   "last_run": "2026-11-16T08:25:20.260394+09:00"
+   "last_run": "2026-11-16T08:30:32.917867+09:00"
   }
  },
  "press_names": {
