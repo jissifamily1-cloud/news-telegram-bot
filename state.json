@@ -358,13 +358,25 @@
     [
      "2026-11-16T07:45:25.317316+09:00",
      "폭락 코스닥 띄운 코스피 딛고 외국인이 기관이"
+    ],
+    [
+     "2026-11-16T07:50:32.441954+09:00",
+     "국내 SK하이닉스에 몰린 빚투 7조원 전체의 육박 삼성전자"
+    ],
+    [
+     "2026-11-16T07:50:32.441954+09:00",
+     "이마트 코스맥스"
+    ],
+    [
+     "2026-11-16T07:50:32.441954+09:00",
+     "외국계 토종 글랜우드PE 대형M 독식 승부처는 이것"
+    ],
+    [
+     "2026-11-16T07:50:32.441954+09:00",
+     "아직 정책 본격적 코스닥 모멘텀 부족해 동력 수요회복"
     ]
    ],
    "seen_urls": [
-    "https://www.insightkorea.co.kr/news/articleView.html?idxno=258859",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000082507",
-    "http://www.kjdaily.com/article.php?aid=1794554813692174276",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=731375",
     "https://www.seoulfn.com/news/articleView.html?idxno=642799",
     "https://www.businesspost.co.kr/BP?command=article_view&num=451980",
     "http://www.queen.co.kr/news/articleView.html?idxno=466317",
@@ -1860,13 +1872,13 @@
     "https://www.newsverse.kr/news/articleView.html?idxno=11937",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=326032",
     "https://www.newsian.co.kr/news/articleView.html?idxno=101303",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=731385"
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=731385",
+    "https://www.mdtoday.co.kr/news/articleView.html?idxno=625330",
+    "https://www.etoday.co.kr/news/view/2648372",
+    "https://view.asiae.co.kr/article/2026111211081570988",
+    "https://www.edaily.co.kr/News/Read?newsId=01279206645646376&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "코스피,외국인이탈0.98%하락…5300선하회",
-    "삼전·닉스,'젠슨황쇼크'이겨내나...AI메모리수요는여전히견조",
-    "'젠슨황파동'에도5500선터치했지만…코스피,0.98%하락마감",
-    "삼성전자0.96%·SK하이닉스3.03%주가하락마감",
     "코스피,장중5500선돌파에도하락마감…외국인매도에발목",
     "코스피,AI우려속외인순매도전환···0.98%하락한5290선마감",
     "엔비디아판'콘클라베'결과가AI산업전반에변수,젠슨황역할대체...",
@@ -3362,10 +3374,14 @@
     "[오늘의경제뉴스]엔비디아실적·앤트로픽상장…이번주AI증시중대...",
     "김대종한국시장경제교수협회장,\"한국총부채GDP대비244.7%…재정건...",
     "SK,반도체다음은'서비스'…최태원\"'토큰이코노미'선점해야\"",
-    "[주간증시온도계]외국인이산코스피·기관이띄운코스닥…폭락딛고..."
+    "[주간증시온도계]외국인이산코스피·기관이띄운코스닥…폭락딛고...",
+    "삼성전자·SK하이닉스에몰린'빚투'7조원육박…국내전체의27%",
+    "[오늘의IR]이마트·코스맥스·이마트등",
+    "대형M&A외국계독식깬토종글랜우드PE…승부처는'이것'[PE는지금]",
+    "\"코스닥,정책모멘텀동력부족해...본격적수요회복아직\""
    ],
    "initialized": true,
-   "last_run": "2026-11-16T07:45:25.317316+09:00"
+   "last_run": "2026-11-16T07:50:32.441954+09:00"
   }
  },
  "press_names": {
