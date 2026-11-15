@@ -434,13 +434,21 @@
     [
      "2026-11-15T14:10:25.993136+09:00",
      "시장 넘어 장기렌트로 쏘카 10조 겨냥 카셰어링"
+    ],
+    [
+     "2026-11-15T14:15:26.065071+09:00",
+     "메가프로젝트 착공 서남 중부 부지"
+    ],
+    [
+     "2026-11-15T14:15:26.065071+09:00",
+     "들어온다 SK하이닉스 키운 몸집 MSCI서 자금 5800억원"
+    ],
+    [
+     "2026-11-15T14:15:26.065071+09:00",
+     "달러당 원화 내년 1320원 강세 환율"
     ]
    ],
    "seen_urls": [
-    "https://www.munhwa.com/article/11631112",
-    "https://www.mstoday.co.kr/news/articleView.html?idxno=200468",
-    "https://www.hankyung.com/article/202611134864r",
-    "http://www.yonhapnewstv.co.kr/news/MYH20261113114411PPp",
     "https://www.dongascience.com/news/view/80862",
     "https://www.woodkorea.co.kr/news/articleView.html?idxno=92554",
     "https://www.koreaittimes.com/news/articleView.html?idxno=159139",
@@ -1936,13 +1944,13 @@
     "http://weekly.chosun.com/news/articleView.html?idxno=57091",
     "https://www.sportsseoul.com/news/read/1649820",
     "https://www.topstarnews.net/news/articleView.html?idxno=16277034",
-    "http://www.metroseoul.co.kr/article/20261115500185"
+    "http://www.metroseoul.co.kr/article/20261115500185",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2375884",
+    "https://www.etnews.com/20261115000013",
+    "https://www.fnnews.com/news/202611150917122617",
+    "https://view.asiae.co.kr/article/2026111211223002470"
    ],
    "seen_titles": [
-    "최태원의빅텐트구상…“韓日경제연대준비”",
-    "엔비디아4%급락에도코스피2%반등…왜?",
-    "부산EP,9000억에넥스플렉스품는다…MBK17%지분재투자",
-    "'젠슨황사퇴'에도코스피상승…코스닥3%강세",
     "[세상을바꿀질문들]④피지컬AI:스스로배우는로봇의현실은",
     "이찬일의글로벌경제브리프240",
     "미국AI데이터센터지연,한국은연산수요를잡을수있나?",
@@ -3438,10 +3446,14 @@
     "한진칼최대주주자리뺏고뺏기고…8000억쥔산은의선택은",
     "LA올림픽향하는U-21김은중호,멕시코와비공개평가전서0-0무승부",
     "김은중호U-21대표팀,멕시코와비공개평가전0-0무승부",
-    "쏘카,카셰어링넘어장기렌트로…10조시장겨냥"
+    "쏘카,카셰어링넘어장기렌트로…10조시장겨냥",
+    "최태원SK회장,'AI플라이휠'전략제시…반도체·에너지넘어서비스...",
+    "[지방시대新성장엔진]〈3〉중부'착공',서남'부지'…메가프로젝트이...",
+    "MSCI서몸집키운SK하이닉스…5800억원外人자금들어온다",
+    "[주末머니]\"내년환율,달러당1320원…원화강세전환\""
    ],
    "initialized": true,
-   "last_run": "2026-11-15T14:10:25.993136+09:00"
+   "last_run": "2026-11-15T14:15:26.065071+09:00"
   }
  },
  "press_names": {
