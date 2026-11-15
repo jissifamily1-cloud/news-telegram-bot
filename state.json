@@ -242,11 +242,17 @@
     [
      "2026-11-16T06:13:46.779451+09:00",
      "레버리지 일반 2배 반도체 마이너스 무덤된 결국 ETF"
+    ],
+    [
+     "2026-11-16T06:20:27.016691+09:00",
+     "최태원 통합 적중 협력 빅테크 솔루션"
+    ],
+    [
+     "2026-11-16T06:20:27.016691+09:00",
+     "오늘의 경기 16일"
     ]
    ],
    "seen_urls": [
-    "https://www.hidomin.com/news/articleView.html?idxno=729266",
-    "https://www.mt.co.kr/stock/2026/11/13/2026111315355147183",
     "https://www.donga.com/news/Economy/article/all/20261113/135021107/1",
     "https://www.news1.kr/finance/market-exr/6353553",
     "https://www.job-post.co.kr/news/articleView.html?idxno=238381",
@@ -1744,11 +1750,11 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=627094",
     "https://www.kmecnews.co.kr/news/articleView.html?idxno=52735",
     "https://www.segye.com/newsView/20261115508285?OutUrl=naver",
-    "https://it.chosun.com/news/articleView.html?idxno=3000000001006"
+    "https://it.chosun.com/news/articleView.html?idxno=3000000001006",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=768264",
+    "https://www.yna.co.kr/view/AKR20261114018451007?input=1195m"
    ],
    "seen_titles": [
-    "이상일시장,용인철도3개노선총력...홍지선장관직접설득나서",
-    "젠슨황사임'불똥'...SK하이닉스3%↓삼성전자0.96%↓",
     "실행안없는간담회에코스닥700아래로…코스피,외인매도에하락",
     "엔비디아發AI반도체불안,외국인‘팔자’전환…코스피1%하락마감",
     "李대통령자본시장간담회에도…코스피5500찍고하락반전[시황종합...",
@@ -3246,10 +3252,12 @@
     "[젠슨황사임]삼성전자,브로드컴·AMD등과협력강화...SK하이닉스,...",
     "[Focus]국토부AIDC간담회,무엇이담겼나",
     "롤러코스피에개미들불안불안…방어주·파킹ETF‘주목’[마이머니...",
-    "결국무덤된레버리지…일반반도체36%벌때,2배ETF'마이너스'"
+    "결국무덤된레버리지…일반반도체36%벌때,2배ETF'마이너스'",
+    "[총수신년공약성적표①]최태원'AI통합솔루션'적중…빅테크협력...",
+    "◇오늘의경기(16일)"
    ],
    "initialized": true,
-   "last_run": "2026-11-16T06:15:33.217128+09:00"
+   "last_run": "2026-11-16T06:20:27.016691+09:00"
   }
  },
  "press_names": {
