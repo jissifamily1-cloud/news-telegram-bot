@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-15T17:20:26.052892+09:00",
-     "삼전닉스 매력 밸류에이션 시간은 커지나 매수자의"
-    ],
-    [
      "2026-11-15T17:25:19.863462+09:00",
      "빚투 내서 7조원 샀다가 반도체 몰렸 반토막 삼전닉스 대장주에"
     ],
@@ -294,10 +290,13 @@
     [
      "2026-11-15T23:15:25.978922+09:00",
      "국가철도망 교통 숨통 허브 반도체 반영 430만 틔울 용인시"
+    ],
+    [
+     "2026-11-15T23:20:26.852981+09:00",
+     "떠난 포수 초읽기 단계 계약 SSG 김민식 마무리 LG행 우승"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20114064",
     "https://www.hankookilbo.com/news/article/A2026111314330002205?did=NA",
     "https://www.hani.co.kr/arti/economy/marketing/1287234.html",
     "https://biz.sbs.co.kr/article_hub/20000346291?division=NAVER",
@@ -1796,10 +1795,10 @@
     "https://www.newsq.co.kr/news/articleView.html?idxno=500900",
     "https://www.greened.kr/news/articleView.html?idxno=354679",
     "https://www.mk.co.kr/article/12209538",
-    "https://www.segye.com/newsView/20261115511113?OutUrl=naver"
+    "https://www.segye.com/newsView/20261115511113?OutUrl=naver",
+    "https://www.munhwa.com/article/11631439"
    ],
    "seen_titles": [
-    "기업공시[11월13일]",
     "“미국제재뚫고중국에팔아라”삼성·SK하이닉스에손내민中관영...",
     "'자본시장개혁전담기구'예고한이대통령...\"중수청에불공정행위...",
     "최태원“한일협력‘빅텐트’상설플랫폼준비”",
@@ -3298,10 +3297,11 @@
     "나흘간141구,김건우에게너무무거웠던짐[APBC]",
     "휘발유·경유내리는데LPG만7%상승…12월추가인상우려에택시기사...",
     "돈냄새귀신인글로벌큰손들…엔비디아판돈으로인텔·하닉ADR샀다",
-    "“반도체허브·430만교통숨통틔울것”…용인시,국가철도망반영..."
+    "“반도체허브·430만교통숨통틔울것”…용인시,국가철도망반영...",
+    "SSG떠난‘우승포수’김민식,LG행초읽기…계약마무리단계"
    ],
    "initialized": true,
-   "last_run": "2026-11-15T23:15:25.978922+09:00"
+   "last_run": "2026-11-15T23:20:26.852981+09:00"
   }
  },
  "press_names": {
