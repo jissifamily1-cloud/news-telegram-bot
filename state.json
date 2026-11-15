@@ -450,13 +450,13 @@
     [
      "2026-11-15T13:50:27.936128+09:00",
      "현장 보안 IT 전략 전문가 AX SK그룹 김완종 사장"
+    ],
+    [
+     "2026-11-15T13:55:21.107675+09:00",
+     "세계 MS 마비 36시간 장애 복구 서비스 업무 만에"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000346217?division=NAVER",
-    "https://biz.heraldcorp.com/article/10936212",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611131120236250935",
-    "https://www.mt.co.kr/industry/2026/11/13/2026111310455463404",
     "http://www.efnews.co.kr/news/articleView.html?idxno=133940",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1731530",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=883052",
@@ -1952,13 +1952,13 @@
     "https://www.hitnews.co.kr/news/articleView.html?idxno=80784",
     "https://www.newsis.com/view/NISX20261115_0003868537",
     "https://www.mt.co.kr/tech/2026/11/15/2026111511025740870",
-    "http://www.metroseoul.co.kr/article/20261115500176"
+    "http://www.metroseoul.co.kr/article/20261115500176",
+    "https://www.chosun.com/economy/industry-company/2026/11/15/JGIJNHYNWVBJPECNT5PKZEO2EU/",
+    "https://www.joongangenews.com/news/articleView.html?idxno=563887",
+    "https://www.techm.kr/news/articleView.html?idxno=157361",
+    "https://www.ekn.kr/web/view.php?key=20261115025029808"
    ],
    "seen_titles": [
-    "'240조약속어쩌나'…젠슨황퇴진에AI산업'초비상',깐부동맹초긴장",
-    "“젠슨황리스크제한적…경영<엔비디아>불확실성은변수”",
-    "반도체업계만난노동부장관…사회적대화논의에참고",
-    "'AI락스타'젠슨황무대서내려왔다…삼전닉스,복잡해진셈법",
     "행복얼라이언스,지자체-기업과결식우려아동10가구주거환경개선",
     "최태원·구광모,AI시대생존전략짠다…사업재편·신사업확장속도",
     "마키나락스,3분기누적143억…누적당기순손실은41%축소",
@@ -3454,10 +3454,14 @@
     "BeyondWhattoLicense:Hanmi,SKandGCPutStrategyFirst",
     "젠슨황사임도고민이지만…증시향방가를변수는결국'금리'",
     "엔비디아GPU26만장공급약속에도…젠슨황공백에납기지연우려",
-    "[CEO와칭]'IT현장전문가'김완종SKAX사장,SK그룹AX·보안전략..."
+    "[CEO와칭]'IT현장전문가'김완종SKAX사장,SK그룹AX·보안전략...",
+    "최태원“성장이성장을만드는선순환구축”…SK,AI사업전계열사...",
+    "삼성SDI·SK온,2조원대ESS수주전'정면승부'…LG엔솔불참에경쟁판...",
+    "최태원SK회장\"'AI플라이휠'추진...'토큰경제'핵심목표\"",
+    "‘전세계업무마비’MS서비스장애,36시간만에복구"
    ],
    "initialized": true,
-   "last_run": "2026-11-15T13:50:27.936128+09:00"
+   "last_run": "2026-11-15T13:55:21.107675+09:00"
   }
  },
  "press_names": {
