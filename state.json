@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-15T17:10:26.507836+09:00",
-     "유치 경마공원 이천시 나선"
-    ],
-    [
      "2026-11-15T17:20:26.052892+09:00",
      "삼전닉스 매력 밸류에이션 시간은 커지나 매수자의"
     ],
@@ -294,10 +290,13 @@
     [
      "2026-11-15T23:10:25.931118+09:00",
      "글로벌 돈으로 돈냄새 귀신인 샀다 엔비디아 인텔 큰손들 하닉ADR"
+    ],
+    [
+     "2026-11-15T23:15:25.978922+09:00",
+     "국가철도망 교통 숨통 허브 반도체 반영 430만 틔울 용인시"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20114065",
     "https://www.sedaily.com/article/20114064",
     "https://www.hankookilbo.com/news/article/A2026111314330002205?did=NA",
     "https://www.hani.co.kr/arti/economy/marketing/1287234.html",
@@ -1796,10 +1795,10 @@
     "https://www.eroun.net/news/articleView.html?idxno=95541",
     "https://www.newsq.co.kr/news/articleView.html?idxno=500900",
     "https://www.greened.kr/news/articleView.html?idxno=354679",
-    "https://www.mk.co.kr/article/12209538"
+    "https://www.mk.co.kr/article/12209538",
+    "https://www.segye.com/newsView/20261115511113?OutUrl=naver"
    ],
    "seen_titles": [
-    "K-제약∙바이오기업들,ESG평가서무더기낙제∙∙∙수출∙투자'발목...",
     "기업공시[11월13일]",
     "“미국제재뚫고중국에팔아라”삼성·SK하이닉스에손내민中관영...",
     "'자본시장개혁전담기구'예고한이대통령...\"중수청에불공정행위...",
@@ -3298,10 +3297,11 @@
     "최태원,SK경영진에'AI플라이휠'주문…토큰이코노미선점나선다",
     "나흘간141구,김건우에게너무무거웠던짐[APBC]",
     "휘발유·경유내리는데LPG만7%상승…12월추가인상우려에택시기사...",
-    "돈냄새귀신인글로벌큰손들…엔비디아판돈으로인텔·하닉ADR샀다"
+    "돈냄새귀신인글로벌큰손들…엔비디아판돈으로인텔·하닉ADR샀다",
+    "“반도체허브·430만교통숨통틔울것”…용인시,국가철도망반영..."
    ],
    "initialized": true,
-   "last_run": "2026-11-15T23:10:25.931118+09:00"
+   "last_run": "2026-11-15T23:15:25.978922+09:00"
   }
  },
  "press_names": {
