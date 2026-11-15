@@ -473,8 +473,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611130089&t=NN",
-    "http://www.newslock.co.kr/news/articleView.html?idxno=139950",
     "https://www.tournews21.com/news/articleView.html?idxno=148368",
     "https://www.fnnews.com/news/202611131436486159",
     "https://biz.sbs.co.kr/article_hub/20000346270?division=NAVER",
@@ -1972,11 +1970,11 @@
     "https://www.hani.co.kr/arti/economy/finance/1287434.html",
     "https://www.hankyung.com/article/2026111574791",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504200",
-    "https://www.hankyung.com/article/2026111574871"
+    "https://www.hankyung.com/article/2026111574871",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504201",
+    "https://www.g-enews.com/view.php?ud=202611151834454615e30fcb1ba8_1"
    ],
    "seen_titles": [
-    "[서학개미레이더]젠슨황사임딛고코스피5,500선공략…오늘밤P...",
-    "삼성전자,내년HBM매출SK하이닉스제친다",
     "[뉴스락특별기획]감축목표코앞에두고'샤힌변수'…석유화학구조...",
     "파주시,민통선·통일대교검문소북상추진앞두고주민여론수렴",
     "코스피,장중5500선찍고5260대로…외국인6200억순매도[fn오후시황]",
@@ -3474,10 +3472,12 @@
     "‘연1회이상기업설명’의무화한다지만…신뢰회복미지수",
     "美,中바이오견제강화…\"韓신약에기회\"",
     "폐배터리株상승흐름…영화테크강세속재활용주는혼조",
-    "쏠림형상품된ETF…'톱2,톱10'붙어야인기"
+    "쏠림형상품된ETF…'톱2,톱10'붙어야인기",
+    "블록체인株상승랠리…라온시큐어강세속종목별차별화뚜렷",
+    "최태원“SK모든계열사AI기업으로재정의”…반도체·에너지·서비스..."
    ],
    "initialized": true,
-   "last_run": "2026-11-15T18:35:21.413531+09:00"
+   "last_run": "2026-11-15T18:40:25.896317+09:00"
   }
  },
  "press_names": {
