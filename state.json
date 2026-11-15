@@ -393,10 +393,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=241824",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4444672",
-    "https://magazine.hankyung.com/money/article/202611135071c",
-    "https://news.tf.co.kr/read/economy/2388524.htm",
     "https://www.etoday.co.kr/news/view/2647895",
     "https://www.the-today.com/news/articleView.html?idxno=93513",
     "http://www.metroseoul.co.kr/article/20261113500105",
@@ -1892,13 +1888,13 @@
     "https://www.segye.com/newsView/20261115507452?OutUrl=naver",
     "https://www.hankookilbo.com/news/article/A2026111515280003673?did=NA",
     "https://m.sports.naver.com/basketball/article/065/0000304686",
-    "https://www.fntimes.com/html/view.php?ud=202611151613534467de3572ddd_18"
+    "https://www.fntimes.com/html/view.php?ud=202611151613534467de3572ddd_18",
+    "https://www.mk.co.kr/article/12209256",
+    "https://www.etnews.com/20261113000212",
+    "https://www.kmib.co.kr/article/20261115500781",
+    "https://www.mt.co.kr/industry/2026/11/15/2026111316220422794"
    ],
    "seen_titles": [
-    "최태원\"韓日경제계·학계역량결집'빅텐트'플랫폼준비\"",
-    "AIDC몸집키우는통신3사…매출성장속투자비회수시험대",
-    "상승출발코스피,李간담회직후음전…외인도'팔자'로",
-    "인텔,국내23개기업과'K-AI풀스택얼라이언스'출범…AI생태계협력...",
     "용인반도체클러스터에내달2개단지·1225가구분양",
     "코스피,하락전환해5300선후퇴⋯외인‘팔자’로돌아서",
     "한투운용배재규\"태어나면주식5000만원\"…275조짜리장밋빛포퓰리즘...",
@@ -3394,10 +3390,14 @@
     "‘악수로맺은깐부거래’가약점?…‘젠슨황없는엔비디아’에경고...",
     "고객다변화속도내나…엔비디아위기속삼전닉스전략은",
     "[웜업터뷰]‘허웅의하이라이트’를받아본이상민감독“킹이와서...",
-    "최태원SK회장\"AI플라이휠,성장이성장만드는선순환구조만들어야..."
+    "최태원SK회장\"AI플라이휠,성장이성장만드는선순환구조만들어야...",
+    "[매일경제TV]엔비디아변수속반도체투자전략",
+    "“AI불확실우려에도수요견고”…SK하이닉스,HBM4생산능력더키운...",
+    "최태원“AI성과,반도체넘어서비스까지”…‘AI플라이휠’강조",
+    "LG이노텍반도체기판'날개'…3분기만에연간영업익추월"
    ],
    "initialized": true,
-   "last_run": "2026-11-15T16:30:33.760296+09:00"
+   "last_run": "2026-11-15T16:35:20.750762+09:00"
   }
  },
  "press_names": {
