@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-15T15:55:20.028536+09:00",
-     "나서는 실용외교 국익중심 순방 대통령 패권 경쟁"
-    ],
-    [
      "2026-11-15T16:00:40.773225+09:00",
      "현지 기업과 사업 따로 CJ 속속 같이 제휴"
     ],
@@ -330,11 +326,13 @@
     [
      "2026-11-15T21:40:26.504537+09:00",
      "KT 승부 감독 마무리가 아쉽다 패배 문경은 접전"
+    ],
+    [
+     "2026-11-15T21:55:21.395785+09:00",
+     "오늘의 경기"
     ]
    ],
    "seen_urls": [
-    "https://www.thelec.kr/news/articleView.html?idxno=65398",
-    "https://www.kado.net/news/articleView.html?idxno=2084704",
     "https://www.m-i.kr/news/articleView.html?idxno=2018374",
     "https://weekly.donga.com/3/all/11/6458101/1",
     "https://www.incheonilbo.com/news/articleView.html?idxno=1336765",
@@ -1832,11 +1830,11 @@
     "https://imnews.imbc.com/replay/straight/6865828_28993.html",
     "https://www.etnews.com/20261115000184",
     "https://basketkorea.com/news/newsview.php?ncode=1065616525268800",
-    "https://m.sports.naver.com/basketball/article/065/0000304715"
+    "https://m.sports.naver.com/basketball/article/065/0000304715",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=94229",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=565429"
    ],
    "seen_titles": [
-    "미래에셋증권,3분기4000억원대순손실'어닝쇼크'…스페이스X투자발...",
-    "한국데이터센터'기가와트'비전뜬구름?…현실은'메가와트'제자리",
     "젠슨황퇴진에국내AI인프라촉각…\"기존GPU공급영향제한적\"",
     "이상일용인특례시장,5차국가철도망에용인3개노선반영건의",
     "젠슨황불명예퇴장에사상최대위기맞은엔비디아",
@@ -3334,10 +3332,12 @@
     "[스트레이트]'9천피'의배신‥그들만의돈잔치",
     "이천고교생40명,고려대·서강대와반도체'자율연구'성과공개",
     "접전승부끝패배KT문경은감독“마무리가아쉽다”",
-    "[JBPICK]운명결정할트라이아웃,선배들이들려주는경험담"
+    "[JBPICK]운명결정할트라이아웃,선배들이들려주는경험담",
+    "[뉴욕증시주간전망]엔비디아실적·앤트로픽상장…AI시험대오른다",
+    "오늘의경기"
    ],
    "initialized": true,
-   "last_run": "2026-11-15T21:50:28.157133+09:00"
+   "last_run": "2026-11-15T21:55:21.395785+09:00"
   }
  },
  "press_names": {
