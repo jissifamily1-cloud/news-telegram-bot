@@ -194,13 +194,25 @@
     [
      "2026-11-16T05:45:24.354960+09:00",
      "물음표 붙은 깐부동맹 GPU 공급"
+    ],
+    [
+     "2026-11-16T05:55:24.521585+09:00",
+     "오노약품 세노바메이트 판매 개시 일본"
+    ],
+    [
+     "2026-11-16T05:55:24.521585+09:00",
+     "엔비디아발 반도체주 충격에 증시"
+    ],
+    [
+     "2026-11-16T05:55:24.521585+09:00",
+     "증시 실적 방향 FOMC 의사록이 엔비디아"
+    ],
+    [
+     "2026-11-16T05:55:24.521585+09:00",
+     "경고 기댄 반도체 투자 조정 시험대 호황에 2028년 한국경제"
     ]
    ],
    "seen_urls": [
-    "https://www.epnc.co.kr/news/articleView.html?idxno=409759",
-    "https://www.sedaily.com/article/20114087",
-    "https://www.newspim.com/news/view/20261113001260",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503925",
     "https://www.newsis.com/view/NISX20261113_0003867506",
     "https://www.viewsnnews.com/article?q=239685",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=315343",
@@ -1696,13 +1708,13 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=627063",
     "https://www.dailymedi.com/news/news_view.php?wr_id=942606",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611142037273250056",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611151420387200109"
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611151420387200109",
+    "https://www.vegannews.co.kr/news/article.html?no=405644",
+    "https://www.news2day.co.kr/article/20261114500039",
+    "http://www.newskr.kr/news/articleView.html?idxno=108016",
+    "https://www.geconomy.co.kr/news/article.html?no=325687"
    ],
    "seen_titles": [
-    "(LEAD)Seoulsharesdropnearly1pct,erasingearliergainsfollowing",
-    "코난테크놀로지,국방AI플랫폼'아르고엑스'첫공개…내년군실증추...",
-    "이상일용인시장“경기남부광역철도등3개철도노선,국가계획반영...",
-    "[마감시황]코스피,외인7000억'팔자'에5200선후퇴…\"AI·매크로부담...",
     "[거래소외국인]삼성중공업·삼성SDI샀다…SK하이닉스는대량매도",
     "지앤비에스에코,3분기영업익36억…전년比538.7%↑",
     "코스피,'젠슨황쇼크'이기지못하고5,300붕괴",
@@ -3198,10 +3210,14 @@
     "젠슨황스캔들'리더십공백'여파속글로벌증시...후계구도이목집...",
     "서울한국원자력의학원'충북이전설'촉각",
     "[흔들리는‘AI왕국’엔비디아]①‘젠슨황퇴진’후폭풍…美ㆍ中...",
-    "[흔들리는‘AI왕국’엔비디아]②물음표붙은깐부동맹…GPU공급·A..."
+    "[흔들리는‘AI왕국’엔비디아]②물음표붙은깐부동맹…GPU공급·A...",
+    "오노약품,세노바메이트일본판매개시",
+    "[N2모닝경제브리핑-11월16일]美증시,엔비디아발충격에반도체주...",
+    "[이번주관전포인트]엔비디아실적·FOMC의사록이이번주증시방향...",
+    "美AI투자2028년조정경고…반도체호황에기댄한국경제'시험대'"
    ],
    "initialized": true,
-   "last_run": "2026-11-16T05:50:28.630730+09:00"
+   "last_run": "2026-11-16T05:55:24.521585+09:00"
   }
  },
  "press_names": {
