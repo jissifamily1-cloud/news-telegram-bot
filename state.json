@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-15T09:00:40.885617+09:00",
-     "이곳 속도가 공들였는데 이름값 달라 초고속인터넷 똑같이"
-    ],
-    [
      "2026-11-15T09:05:21.400446+09:00",
      "물길 반도체 열과의 속에 뚫는다 미세 전쟁"
     ],
@@ -442,11 +438,13 @@
     [
      "2026-11-15T14:55:25.708799+09:00",
      "미국 비상 한국 AI산업 협력"
+    ],
+    [
+     "2026-11-15T15:00:44.631396+09:00",
+     "취약계 기관 나눔 지역 국제성모병원 김장대축제 기업과 서로 참여"
     ]
    ],
    "seen_urls": [
-    "https://www.junggi.co.kr/news/articleView.html?idxno=38483",
-    "https://www.newsis.com/view/NISX20261113_0003867028",
     "http://www.financialreview.co.kr/news/articleView.html?idxno=46293",
     "http://www.spochoo.com/news/articleView.html?idxno=132084",
     "https://www.sedaily.com/article/20113960",
@@ -1944,11 +1942,11 @@
     "https://www.newsis.com/view/NISX20261115_0003868509",
     "https://www.donga.com/news/It/article/all/20261115/135026033/1",
     "https://www.maniareport.com/view.php?ud=202611151332531891dad9f33a29_19",
-    "https://www.imaeil.com/page/view/2026111514230757848"
+    "https://www.imaeil.com/page/view/2026111514230757848",
+    "http://www.metroseoul.co.kr/article/20261115500231",
+    "http://www.thefirstmedia.net/news/articleView.html?idxno=213623"
    ],
    "seen_titles": [
-    "[오전시황]코스피상승폭반납중...상한가7종목",
-    "SK해운·삼성重,'화물창설계결함'가스공사에손배소2심도승소",
     "[오늘의ESG]행복얼라이언스·코레일유통·LF·KT&G·오비맥주·코웨이...",
     "'아트스윙'으로왕조이끈주역박재상,SSG퓨처스감독선임...미래세...",
     "‘AI제왕’쫓겨나자요동치는순환자본생태계[트럼프스톡커]",
@@ -3446,10 +3444,12 @@
     "코스피고점에발행된ELS'비상'…다음달부터만기도래",
     "스캔들논란으로사임했는데…‘젠슨황복귀’청원에11만명서명,왜...",
     "손혁전한화단장,LG트윈스QC겸투수총괄코치로현장복귀",
-    "[젠슨황사임후폭풍]미국-한국AI산업협력비상"
+    "[젠슨황사임후폭풍]미국-한국AI산업협력비상",
+    "엔비디아,젠슨황퇴진후첫실적…AI투자전략바뀌나",
+    "국제성모병원,'서로나눔김장대축제'참여…지역기관·기업과취약계..."
    ],
    "initialized": true,
-   "last_run": "2026-11-15T14:55:25.708799+09:00"
+   "last_run": "2026-11-15T15:00:44.631396+09:00"
   }
  },
  "press_names": {
