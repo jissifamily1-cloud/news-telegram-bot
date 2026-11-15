@@ -314,10 +314,13 @@
     [
      "2026-11-16T07:20:25.382380+09:00",
      "알아야 경제뉴스 국내외"
+    ],
+    [
+     "2026-11-16T07:25:19.564182+09:00",
+     "시급 김대종 예산 확보 2027년 교수 821조 재정건전성"
     ]
    ],
    "seen_urls": [
-    "http://www.newsprime.co.kr/news/article.html?no=754951",
     "https://www.mk.co.kr/article/12208145",
     "https://www.polinews.co.kr/news/articleView.html?idxno=748431",
     "https://www.edaily.co.kr/News/Read?newsId=04218086645645392&mediaCodeNo=257",
@@ -1816,10 +1819,10 @@
     "https://www.greened.kr/news/articleView.html?idxno=354680",
     "http://www.thevaluenews.co.kr/news/view.php?idx=203112",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=602111",
-    "https://www.fntimes.com/html/view.php?ud=202611160635345079141825007d_18"
+    "https://www.fntimes.com/html/view.php?ud=202611160635345079141825007d_18",
+    "https://www.gokorea.kr/news/articleView.html?idxno=885763"
    ],
    "seen_titles": [
-    "엔비디아혼란에AMD·브로드컴등‘반사이익’보나…삼성전자도‘수...",
     "코스피,外人매도·반도체약세에'5300선이탈'…코스닥0.45%↑",
     "이상일용인시장“경기남부광역철도등3개노선국가철도망반영해야...",
     "[마감시황]반도체주상승분반납…코스피'전강후약'0.98%하락",
@@ -3318,10 +3321,11 @@
     "최태원,SK'CEO세미나'에서\"AI컴퍼니재정의...AI서비스·토큰이코...",
     "[이영기칼럼]석유화학구조조정의역설…누군가는줄이고누군가는늘...",
     "美법원,삼성등메모리3사D램가격담합집단소송기각신청거부",
-    "[KFT모닝브리프]2026.11.16—오늘꼭알아야할국내외경제뉴스"
+    "[KFT모닝브리프]2026.11.16—오늘꼭알아야할국내외경제뉴스",
+    "김대종교수\"2027년예산821조원…재정건전성확보시급\""
    ],
    "initialized": true,
-   "last_run": "2026-11-16T07:20:25.382380+09:00"
+   "last_run": "2026-11-16T07:25:19.564182+09:00"
   }
  },
  "press_names": {
