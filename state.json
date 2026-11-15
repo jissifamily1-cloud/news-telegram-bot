@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-15T08:20:30.769868+09:00",
-     "거야 그래도 이러더니 삼전닉스는 몰렸다 빚투 7조원 오를"
-    ],
-    [
-     "2026-11-15T08:20:30.769868+09:00",
-     "과제 동력 본격화 빠진 데이터센터 성장 SKB 확보 분할 심사"
-    ],
-    [
      "2026-11-15T08:30:32.867475+09:00",
      "그대로 약속 GPU 공급 떠나도 젠슨 지킨다 26만장"
     ],
@@ -441,8 +433,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.koreaittimes.com/news/articleView.html?idxno=159139",
-    "https://www.globalepic.co.kr/view.php?ud=20261113114652384148439a4874_29",
     "https://sateconomy.co.kr/news/view/1065573258393338",
     "https://www.huffingtonpost.kr/article/262053",
     "https://www.newsis.com/view/NISX20261113_0003867002",
@@ -1940,11 +1930,11 @@
     "https://www.fnnews.com/news/202611150917122617",
     "https://view.asiae.co.kr/article/2026111211223002470",
     "https://www.inews365.com/news/article.html?no=943667",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3752399"
+    "https://www.gukjenews.com/news/articleView.html?idxno=3752399",
+    "https://www.sportschosun.com/football/2026-11-15/202611150100098990009204",
+    "https://www.newspim.com/news/view/20261115000079"
    ],
    "seen_titles": [
-    "미국AI데이터센터지연,한국은연산수요를잡을수있나?",
-    "최태원\"한일경제연대,3·5·10년실행계획수립해야\"",
     "엔비디아,젠슨황CEO사임…콜레트크레스CFO임시CEO선임",
     "SK그룹최태원의한국·일본협력로드맵구상:'빅텐트'플랫폼만들어...",
     "젠슨황사퇴에과기정통부긴급점검회의…\"韓GPU26만장공급차질없...",
@@ -3442,10 +3432,12 @@
     "MSCI서몸집키운SK하이닉스…5800억원外人자금들어온다",
     "[주末머니]\"내년환율,달러당1320원…원화강세전환\"",
     "청주시,'시민안전최우선'동절기종합대책추진",
-    "후계자없이떠난엔비디아젠슨황…시장'경쟁사'AMD·브로드컴산이..."
+    "후계자없이떠난엔비디아젠슨황…시장'경쟁사'AMD·브로드컴산이...",
+    "LA행노리는김은중호,'북중미강호'멕시코와비공개친선경기서0-0...",
+    "U-21축구대표,멕시코와비공개친선경기서0-0비겨"
    ],
    "initialized": true,
-   "last_run": "2026-11-15T14:20:27.075333+09:00"
+   "last_run": "2026-11-15T14:25:19.624056+09:00"
   }
  },
  "press_names": {
