@@ -346,13 +346,21 @@
     [
      "2026-11-16T07:40:26.321252+09:00",
      "확대에 행진 LS SK하이닉스 공급 HBM4 목표가 사상 실적"
+    ],
+    [
+     "2026-11-16T07:45:25.317316+09:00",
+     "한국 대비 김대종 재정건 한국시장경제교수협회장 GDP 총부채"
+    ],
+    [
+     "2026-11-16T07:45:25.317316+09:00",
+     "다음은 최태원 반도체 서비스 선점해야 토큰 이코노미"
+    ],
+    [
+     "2026-11-16T07:45:25.317316+09:00",
+     "폭락 코스닥 띄운 코스피 딛고 외국인이 기관이"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000346313?division=NAVER",
-    "https://www.tokenpost.kr/news/ai/437732",
-    "https://www.edaily.co.kr/News/Read?newsId=04211526645645392&mediaCodeNo=257",
-    "https://www.g-enews.com/view.php?ud=202611131550482498923c501012_1",
     "https://www.insightkorea.co.kr/news/articleView.html?idxno=258859",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000082507",
     "http://www.kjdaily.com/article.php?aid=1794554813692174276",
@@ -1848,13 +1856,13 @@
     "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715325",
     "http://www.breaknews.com/1251117",
     "https://www.bigtanews.co.kr/article/view/big202611150008",
-    "https://biz.chosun.com/stock/stock_general/2026/11/16/E2HM6VOUW5CF3NJ2ZP6RMKUJDA/"
+    "https://biz.chosun.com/stock/stock_general/2026/11/16/E2HM6VOUW5CF3NJ2ZP6RMKUJDA/",
+    "https://www.newsverse.kr/news/articleView.html?idxno=11937",
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=326032",
+    "https://www.newsian.co.kr/news/articleView.html?idxno=101303",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=731385"
    ],
    "seen_titles": [
-    "코스피5290선후퇴,코스닥은기관매수에반등",
-    "우미건설'평택고덕우미린더프리미어'분양…분양가상한제적용",
-    "첫토큰생성시간81%단축…SK하이닉스공유메모리시험",
-    "용인반도체클러스터산단에12월1225가구분양",
     "코스피,외국인이탈0.98%하락…5300선하회",
     "삼전·닉스,'젠슨황쇼크'이겨내나...AI메모리수요는여전히견조",
     "'젠슨황파동'에도5500선터치했지만…코스피,0.98%하락마감",
@@ -3350,10 +3358,14 @@
     "유리기판시장'빅테크퀄테스트'결과눈앞…양산시점은엇갈려",
     "전남광주특별시,“농·수협중앙회·IBK기업은행·발전5사통합본사유...",
     "[증권리포트분석]①미래에셋·메리츠·유진·DS투자증권적중률0%",
-    "LS證“SK하이닉스,HBM4공급확대에사상최대실적행진…목표가240..."
+    "LS證“SK하이닉스,HBM4공급확대에사상최대실적행진…목표가240...",
+    "[오늘의경제뉴스]엔비디아실적·앤트로픽상장…이번주AI증시중대...",
+    "김대종한국시장경제교수협회장,\"한국총부채GDP대비244.7%…재정건...",
+    "SK,반도체다음은'서비스'…최태원\"'토큰이코노미'선점해야\"",
+    "[주간증시온도계]외국인이산코스피·기관이띄운코스닥…폭락딛고..."
    ],
    "initialized": true,
-   "last_run": "2026-11-16T07:40:26.321252+09:00"
+   "last_run": "2026-11-16T07:45:25.317316+09:00"
   }
  },
  "press_names": {
