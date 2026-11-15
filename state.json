@@ -406,13 +406,13 @@
     [
      "2026-11-15T17:35:29.606550+09:00",
      "자회사도 속도 중복상장 막히고 시그널 두산 중단 대기업"
+    ],
+    [
+     "2026-11-15T17:40:25.603871+09:00",
+     "통과기준 기술평가만 분산특구는 수도권 데이터센터 상향"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20261113002200320?input=2106m",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712230",
-    "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89202",
-    "https://www.sisajournal.com/news/articleView.html?idxno=393943",
     "https://www.mt.co.kr/tech/2026/11/13/2026111314045398875",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1731571",
     "https://www.mk.co.kr/article/12207971",
@@ -1908,13 +1908,13 @@
     "https://www.mk.co.kr/article/12209373",
     "https://www.hankookilbo.com/news/article/A2026111514480004168?did=NA",
     "https://www.mk.co.kr/article/12209367",
-    "https://www.sedaily.com/article/20114459"
+    "https://www.sedaily.com/article/20114459",
+    "https://www.lcnews.co.kr/news/articleView.html?idxno=211399",
+    "https://www.econovill.com/news/articleView.html?idxno=757300",
+    "https://www.kmib.co.kr/article/20261115500990",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261115010005614"
    ],
    "seen_titles": [
-    "창업자도문책예외없는美기업…韓재벌총수는누가견제하나",
-    "TodayinKoreanhistory",
-    "코스피,장중하락전환…외국인‘팔자’로돌아서",
-    "젠슨황퇴진…韓반도체·AI동맹영향은?",
     "레버리지투자에'나이장벽'까지…문턱더높이는증권사들",
     "\"GPU공급차질생길까\"떠나는젠슨황에정부도\"예의주시\"",
     "보이스피싱,통신망서잡아금융망서차단…통신·금융AI공조본격화",
@@ -3410,10 +3410,14 @@
     "코스피3분의1이대주주지분과반·저PBR",
     "670조돈줄끊길까…젠슨황퇴장에AI생태계시험대",
     "[단독]이대통령이퇴출까지언급한회사어디길래…코스피3분의1해당...",
-    "두산美자회사도중단…중복상장,대기업막히고中企만속도[시그널..."
+    "두산美자회사도중단…중복상장,대기업막히고中企만속도[시그널...",
+    "최태원SK회장\"성장이성장이끄는AI플라이휠만들자\"",
+    "반도체변동성에흔들리는증시…빚투·ELS·대기자금까지'경고등'",
+    "AI랠리‘심판의주’…젠슨황없이실적발표하는엔비디아,120조역...",
+    "수도권데이터센터통과기준상향…분산특구는기술평가만"
    ],
    "initialized": true,
-   "last_run": "2026-11-15T17:35:29.606550+09:00"
+   "last_run": "2026-11-15T17:40:25.603871+09:00"
   }
  },
  "press_names": {
