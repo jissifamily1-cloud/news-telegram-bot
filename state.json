@@ -410,11 +410,13 @@
     [
      "2026-11-17T00:50:30.875481+09:00",
      "가열 경쟁 육상 상용화 부유식 바다로 반발에 AI데이터센터"
+    ],
+    [
+     "2026-11-17T00:55:25.251613+09:00",
+     "반도체를 안경이 훔쳐본다 삼성"
     ]
    ],
    "seen_urls": [
-    "https://www.veritas-a.com/news/articleView.html?idxno=637233",
-    "https://www.incheonilbo.com/news/articleView.html?idxno=1336885",
     "https://www.gokorea.kr/news/articleView.html?idxno=885814",
     "https://www.veritas-a.com/news/articleView.html?idxno=637229",
     "https://www.globale.co.kr/news/articleView.html?idxno=41667",
@@ -1912,11 +1914,11 @@
     "https://www.chosun.com/economy/tech_it/2026/11/17/IP3GYSTKB5HEBNYMWOMWBTC7GQ/",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848711&plink=ORI&cooper=NAVER",
     "http://www.kjdaily.com/article.php?aid=1794843850692458276",
-    "https://www.kmib.co.kr/article/20261116501858"
+    "https://www.kmib.co.kr/article/20261116501858",
+    "http://www.kjdaily.com/article.php?aid=1794844281692456276",
+    "https://www.chosun.com/economy/industry-company/2026/11/17/5MB6OLJXABBRHF6UZR46HSFJOE/"
    ],
    "seen_titles": [
-    "코스피'AI투심위축'에장중하락전환5280선,코스닥도1%대내려",
-    "제약바이오협회,바이오인력양성협력강화방안논의",
     "아파트중도금2억날린남성에…\"코스피,지하실있을수도\"경고",
     "인천송도서'제약바이오투자대전'에국내외투자자·바이어집결",
     "제약바이오협회,아일랜드NIBRT와바이오인력양성논의",
@@ -3414,10 +3416,12 @@
     "젠슨황없는엔비디아…AI칩시장틀어쥔‘쿠다’까지흔들린다",
     "또급락한삼전닉스…젠슨황과앤트로픽영향",
     "삼성전자·SK하이닉스·마이크론,美D램가격담합소송계속",
-    "육상AI데이터센터반발에바다로…‘부유식’상용화경쟁가열"
+    "육상AI데이터센터반발에바다로…‘부유식’상용화경쟁가열",
+    "SK스퀘어3분기영업이익7조9천억원…전년比200%급증",
+    "삼성AI안경이삼성반도체를훔쳐본다"
    ],
    "initialized": true,
-   "last_run": "2026-11-17T00:50:30.875481+09:00"
+   "last_run": "2026-11-17T00:55:25.251613+09:00"
   }
  },
  "press_names": {
