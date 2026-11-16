@@ -517,12 +517,6 @@
     ]
    ],
    "seen_urls": [
-    "https://theviewers.co.kr/View.aspx?No=4314056",
-    "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/13/2026111380119.html",
-    "https://www.aitimes.com/news/articleView.html?idxno=217437",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7194037",
-    "https://www.itdaily.kr/news/articleView.html?idxno=242946",
-    "https://www.news1.kr/world/usa-canada/6355175",
     "https://www.asiaa.co.kr/news/articleView.html?idxno=271234",
     "http://www.newstomato.com/ReadNews.aspx?no=1320479&inflow=N",
     "https://www.newspim.com/news/view/20261116000621",
@@ -2016,15 +2010,15 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=301325",
     "https://weeklytrade.co.kr/news/view.html?section=1&category=5&no=102262",
     "https://www.etoday.co.kr/news/view/2648954",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000083352"
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000083352",
+    "http://www.yonhapnewstv.co.kr/news/MYH2026111707483645r",
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=147156",
+    "https://biz.chosun.com/stock/stock_general/2026/11/17/O6IN3GJNLJD3TAW4YN5IK2KD4Y/",
+    "https://biz.heraldcorp.com/article/10939143",
+    "https://www.businessplus.kr/news/articleView.html?idxno=119965",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6866182_37012.html"
    ],
    "seen_titles": [
-    "日뚫은‘세노바메이트’…동북아상업화완료",
-    "[통신View]AI·보안·공공서비스까지…미래인프라주도권잡기'총력...",
-    "'젠슨황파장'AI투자심리위축…코스피5200밑으로",
-    "12월20일(일)고양소노–서울SK시작시간,14시에서16시30분으로",
-    "SKT·효성중공업,GW급AIDC구축협력…전력인프라확보",
-    "SK쉴더스,북한산국립공원자연숲복원활동...자생식물800주식재",
     "SK텔레콤·효성중공업,AI데이터센터전력인프라협력확대",
     "[ESG]신약의가치는‘처방후’에도…SK바이오팜,환자지원·의료이...",
     "SKT,효성중공업과AI데이터센터전력인프라맞손",
@@ -3518,10 +3512,16 @@
     "[분석]'AI디폴트'기업도약하는SK㈜…차세대에이전트아키텍처로혁...",
     "효성중공업,SK텔레콤과AI데이터센터구축전략적파트너십체결",
     "[전날주요공시]SK하이닉스·SK스퀘어·삼성중공업등",
-    "삼성·SK하이닉스현금329조원쌓였다…1년새193조원불어난이유"
+    "삼성·SK하이닉스현금329조원쌓였다…1년새193조원불어난이유",
+    "[3분증시]뉴욕증시,젠슨황거취논란에동반하락",
+    "美반도체지수3일간9%급락...엔비디아전고점대비시총2조달러증발",
+    "대신證“SK스퀘어,내년최대4.8조원주주환원전망…목표가150만원”",
+    "‘젠슨황파장지속’뉴욕증시일제히하락…엔비디아4.1%·SK하이닉스...",
+    "500대기업3분기영업익239조원…삼성전자·SK하이닉스가80%차지",
+    "AI매도세계속,뉴욕증시일제히하락‥엔비디아4.1%↓"
    ],
    "initialized": true,
-   "last_run": "2026-11-17T07:45:26.505275+09:00"
+   "last_run": "2026-11-17T07:50:27.944997+09:00"
   }
  },
  "press_names": {
