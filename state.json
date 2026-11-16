@@ -1121,11 +1121,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.m-economynews.com/news/article.html?no=73079",
-    "https://www.seoul.co.kr/news/economy/securities/2026/11/16/20261116500035?wlog_tag3=naver",
-    "http://www.beyondpost.co.kr/view.php?ud=20261116091648335be44c0aacd_30",
-    "https://vn.asiatoday.co.kr/view.php?key=20261116000910514",
-    "http://kor.theasian.asia/archives/421937",
     "https://www.edaily.co.kr/News/Read?newsId=01617046645646376&mediaCodeNo=257",
     "https://www.segye.com/newsView/20261116503698?OutUrl=naver",
     "https://www.ekn.kr/web/view.php?key=20261116027369908",
@@ -2620,14 +2615,14 @@
     "https://www.kukinews.com/article/view/kuk202611160266",
     "https://basketkorea.com/news/newsview.php?ncode=1065613686597153",
     "https://www.yna.co.kr/view/AKR20261116176000007?input=1195m",
-    "https://www.nocutnews.co.kr/news/6607766"
+    "https://www.nocutnews.co.kr/news/6607766",
+    "https://www.sportsworldi.com/newsView/20261116518393",
+    "http://www.stoo.com/article.php?aid=109938964688",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=627453",
+    "https://www.etoday.co.kr/news/view/2648926",
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435582"
    ],
    "seen_titles": [
-    "최태원SK회장,‘AI플라이휠’전략강조…“전멤버사참여하는선...",
-    "엔비디아發기술주불안지속···코스피,5270선등락",
-    "방향잃은코스피,개인홀로'사자'…5,300선반짝회복",
-    "[서울데이터랩]코스피,장초반5300.53으로강보합…개인매수에상승...",
-    "컬리뷰티페스타찾은1만4000명…참여브랜드거래액4.7배늘어",
     "JDC,12월영리더스포럼개최…AI·평화·국제교류협력논의",
     "SK증권\"코스닥,정책모멘텀남아있어…시점불분명\"",
     "코스피,장초반5,280선약세...美반도체주급락에투자심리위축",
@@ -4122,10 +4117,15 @@
     "워니+안영준‘46점합작’서울SK,울산현대모비스제압…연패탈출...",
     "[BK리뷰]집이좋다!‘홈경기7승2패’SK,현대모비스잡고2연패탈...",
     "[프로농구서울전적]SK92-76현대모비스",
-    "워니,슛시도늘리고28점폭발…SK도92점넣고2연패탈출"
+    "워니,슛시도늘리고28점폭발…SK도92점넣고2연패탈출",
+    "함정우·왕정훈,아시안투어필리핀오픈공동준우승…한국선수들경...",
+    "'워니28점·안영준18점'SK,현대모비스잡고연패탈출",
+    "브라질언론도주목한'코리아르네상스'…모건스탠리,코스피1만시대...",
+    "‘워니더블더블’SK,현대모비스92-76제압⋯2연패탈출",
+    "SK하이닉스,3분기누적미국매출102조원급증"
    ],
    "initialized": true,
-   "last_run": "2026-11-16T21:00:43.876139+09:00"
+   "last_run": "2026-11-16T21:05:22.008491+09:00"
   }
  },
  "press_names": {
