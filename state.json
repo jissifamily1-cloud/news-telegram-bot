@@ -482,17 +482,33 @@
     [
      "2026-11-16T23:45:29.034951+09:00",
      "국채가 하락 안전자산 기술주 선호 약세 유가 강세"
+    ],
+    [
+     "2026-11-17T00:05:24.064144+09:00",
+     "앤트로픽 없다 앞둔 공모 한국은 나스닥 명단에 상장"
+    ],
+    [
+     "2026-11-17T00:05:24.064144+09:00",
+     "김구라 경제연구소 배분법 올인 자산 노후 주식 자금 3억 73세"
+    ],
+    [
+     "2026-11-17T00:05:24.064144+09:00",
+     "하이닉스 삼성전자 허무하게 동반 20만 전자 반납"
+    ],
+    [
+     "2026-11-17T00:05:24.064144+09:00",
+     "현대차 가세 신차 원팀 배터리 수주전 삼성 본격화 삼성SDI"
+    ],
+    [
+     "2026-11-17T00:05:24.064144+09:00",
+     "깊어진다 FOMC 불씨에 개편까지 한은 고민 빅스텝"
+    ],
+    [
+     "2026-11-17T00:05:24.064144+09:00",
+     "삼전닉스 운명 네이버의 흔들리는 깐부동맹"
     ]
    ],
    "seen_urls": [
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715627",
-    "http://www.dailysmart.co.kr/news/articleView.html?idxno=132562",
-    "https://biz.heraldcorp.com/article/10938196",
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=625408",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=281340",
-    "http://www.seouleconews.com/news/articleView.html?idxno=95025",
-    "https://www.etoday.co.kr/news/view/2648531",
-    "https://www.redian.org/news/articleView.html?idxno=257658",
     "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171849",
     "https://www.polinews.co.kr/news/articleView.html?idxno=748491",
     "https://www.kado.net/news/articleView.html?idxno=2085032",
@@ -1984,17 +2000,17 @@
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435591",
     "https://www.sedaily.com/article/20115153",
     "https://www.vegannews.co.kr/news/article.html?no=406126",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445035"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445035",
+    "https://sports.donga.com/sports/article/all/20261117/135035394/1",
+    "https://www.joongang.co.kr/article/25479149",
+    "https://news.tf.co.kr/read/soccer/2389501.htm",
+    "https://www.newsis.com/view/NISX20261116_0003869276",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=627464",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=320573",
+    "https://www.ziksir.com/news/articleView.html?idxno=153434",
+    "https://www.g-enews.com/view.php?ud=202611131555468233906806b77b_1"
    ],
    "seen_titles": [
-    "SK하이닉스,8737억원들여반도체테스트센터건립추진",
-    "\"AI최강국신뢰무너진다\"…국가시험감독관눈앞AI커닝",
-    "코스피·코스닥동반상승출발...장중하락세전환",
-    "코스피,美반도체약세여파에하락전환…5300선하회",
-    "제약바이오협,글로벌바이오인력양성힘쏟는다",
-    "[특징주]삼성전자'상승세'SK하이닉스'약세'..엔비디아발우려",
-    "“나한테무제한요금제필요한가?”토스,실제사용량따져통신비분...",
-    "SK쉴더스,북한산국립공원서자연숲복원활동진행",
     "\"행정과경제성장의미래서울에서그린다\"…건국대,22년만에'IIAS20...",
     "기대웃돈이익에도…SK오션플랜트목표가5곳줄하향",
     "[개장시황]젠슨황사임충격에흔들린코스피,외국인3,200억매도공...",
@@ -3486,10 +3502,18 @@
     "'워니·안영준46점합작·속공15점폭발'서울SK,이우석빠진현대모...",
     "‘9000피’꿈같은데“코스피1만갈것,한국르네상스온다”모건스...",
     "SK증권3분기적자전환…영업손실38억2500만원",
-    "미국채가강세…유가하락속기술주약세發안전자산선호"
+    "미국채가강세…유가하락속기술주약세發안전자산선호",
+    "내가잠실의왕!워니시즌최다28점…SK2연패탈출,2위정관장2경기...",
+    "나스닥상장앞둔앤트로픽…공모명단에한국은없다",
+    "'팬의눈높이'로승격한이정효...K리그1부'귀환'이반갑다[이영규의...",
+    "노후자금3억주식'올인'73세父…'김구라경제연구소'의자산배분법...",
+    "[국내증시나침반]'20만전자'허무하게반납…삼성전자·하이닉스동반...",
+    "삼성·현대차'원팀'본격화…삼성SDI,현대차신차배터리수주전가세",
+    "[금융직썰]미'빅스텝'불씨에FOMC개편까지…한은고민깊어진다",
+    "[김대호진단]흔들리는깐부동맹...삼전닉스네이버의운명"
    ],
    "initialized": true,
-   "last_run": "2026-11-17T00:00:46.957218+09:00"
+   "last_run": "2026-11-17T00:05:24.064144+09:00"
   }
  },
  "press_names": {
