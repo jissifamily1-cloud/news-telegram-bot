@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-16T19:05:21.591512+09:00",
-     "9달 전년 동기비 42배 올해 솔리다임 폭증 순이익 6조"
-    ],
-    [
-     "2026-11-16T19:05:21.591512+09:00",
-     "감독이 공격 고민 70점대로는 어렵다 짚은 전희철 쿠키 이기기"
-    ],
-    [
-     "2026-11-16T19:05:21.591512+09:00",
-     "연패 감독 전희철 탈출 5할 사수하는 절실한 브레이크 전에 승률"
-    ],
-    [
-     "2026-11-16T19:05:21.591512+09:00",
-     "스페이스X에 제고 주주가치 미래에셋증권 흔들린 속도 낸다"
-    ],
-    [
      "2026-11-16T19:10:59.703878+09:00",
      "AI산업 기로에 선택의"
     ],
@@ -406,12 +390,13 @@
     [
      "2026-11-17T00:55:25.251613+09:00",
      "반도체를 안경이 훔쳐본다 삼성"
+    ],
+    [
+     "2026-11-17T01:05:23.913018+09:00",
+     "소송 반도체 코스피 담합 까지 털썩"
     ]
    ],
    "seen_urls": [
-    "https://www.gokorea.kr/news/articleView.html?idxno=885814",
-    "https://www.veritas-a.com/news/articleView.html?idxno=637229",
-    "https://www.globale.co.kr/news/articleView.html?idxno=41667",
     "https://www.smartbizn.com/news/articleView.html?idxno=159526",
     "https://www.chosun.com/economy/money/2026/11/16/GBBXWRTYPJGZ5IDB2BGPXFNDWI/",
     "http://www.4th.kr/news/articleView.html?idxno=2121913",
@@ -1908,12 +1893,12 @@
     "http://www.kjdaily.com/article.php?aid=1794843850692458276",
     "https://www.kmib.co.kr/article/20261116501858",
     "http://www.kjdaily.com/article.php?aid=1794844281692456276",
-    "https://www.chosun.com/economy/industry-company/2026/11/17/5MB6OLJXABBRHF6UZR46HSFJOE/"
+    "https://www.chosun.com/economy/industry-company/2026/11/17/5MB6OLJXABBRHF6UZR46HSFJOE/",
+    "https://www.kmib.co.kr/article/20261116501891",
+    "https://www.kmib.co.kr/article/20261116501938",
+    "https://imnews.imbc.com/replay/2026/nw2500/article/6866118_36989.html"
    ],
    "seen_titles": [
-    "아파트중도금2억날린남성에…\"코스피,지하실있을수도\"경고",
-    "인천송도서'제약바이오투자대전'에국내외투자자·바이어집결",
-    "제약바이오협회,아일랜드NIBRT와바이오인력양성논의",
     "코스피,상승출발…외국인'팔자'에하락전환",
     "인하대반도체특성화대학사업단반도체시스템공학과첫학술제개최.....",
     "[미리보는인천아트쇼2026]2.기업과작가,예술로이어진특별한만...",
@@ -3410,10 +3395,13 @@
     "삼성전자·SK하이닉스·마이크론,美D램가격담합소송계속",
     "육상AI데이터센터반발에바다로…‘부유식’상용화경쟁가열",
     "SK스퀘어3분기영업이익7조9천억원…전년比200%급증",
-    "삼성AI안경이삼성반도체를훔쳐본다"
+    "삼성AI안경이삼성반도체를훔쳐본다",
+    "SKT·효성重,대형AI데이터센터구축맞손",
+    "메모리팹에1000평소부장공간내줘…장비·소재‘상용화문턱’넘...",
+    "'반도체담합소송'까지‥코스피3.6%'털썩'"
    ],
    "initialized": true,
-   "last_run": "2026-11-17T01:00:46.427167+09:00"
+   "last_run": "2026-11-17T01:05:23.913018+09:00"
   }
  },
  "press_names": {
