@@ -410,11 +410,17 @@
     [
      "2026-11-17T00:40:30.319723+09:00",
      "위기 만회할 투자로 변동성 기회 아닌 손실 주식시장 역발상"
+    ],
+    [
+     "2026-11-17T00:45:30.670445+09:00",
+     "LPGA 10번째 준우승 탄식으로 명성 쌓은 최혜진"
+    ],
+    [
+     "2026-11-17T00:45:30.670445+09:00",
+     "이탈 현대모비스 예선 파열로 대표팀 합류 이우석 허벅지 근육 월드컵"
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=452035",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=326087",
     "https://www.edaily.co.kr/News/Read?newsId=01813846645646376&mediaCodeNo=257",
     "https://www.discoverynews.kr/news/articleView.html?idxno=1106898",
     "https://www.hitnews.co.kr/news/articleView.html?idxno=80798",
@@ -1912,11 +1918,11 @@
     "https://www.donga.com/news/Economy/article/all/20261116/135034703/2",
     "http://www.kjdaily.com/article.php?aid=1794842843692464276",
     "https://www.chosun.com/economy/tech_it/2026/11/17/263S4QCSCNAMFK22MFCXGLK354/",
-    "https://www.chosun.com/economy/money/2026/11/17/KSINDNN225EURDSORYINN2AUWA/"
+    "https://www.chosun.com/economy/money/2026/11/17/KSINDNN225EURDSORYINN2AUWA/",
+    "https://www.chosun.com/international/international_general/2026/11/17/MKD4A6SOSVH4TKU3HOTSOARLTU/",
+    "http://www.thesportstimes.co.kr/news/articleView.html?idxno=377619"
    ],
    "seen_titles": [
-    "'군살뺀'SK,AI서비스로보폭확장",
-    "[심층분석]4.5조벌던5대증권사,3분기순익7904억…거래절벽에운용...",
     "청주남부권새주거중심에'신분평에피트더웨이시티'들어선다",
     "[스포츠]LG트윈스,손혁코치영입…\"마운드다시리그최고로\"",
     "SK그룹,AI반도체·에너지연계사업확대…'리밸런싱2.0'지속추진",
@@ -3414,10 +3420,12 @@
     "이통3사도月1만원대…알뜰폰어쩌나[IT팀의테크워치]",
     "SK에코플랜트3분기영업이익7천946억원…405%급증",
     "SKT,효성重과GW급데이터센터구축나서",
-    "“주식시장변동성,위기아닌기회…역발상투자로손실만회할때”"
+    "“주식시장변동성,위기아닌기회…역발상투자로손실만회할때”",
+    "최혜진LPGA10번째준우승…탄식으로쌓은명성",
+    "현대모비스이우석,허벅지근육파열로이탈…대표팀월드컵예선합류..."
    ],
    "initialized": true,
-   "last_run": "2026-11-17T00:40:30.319723+09:00"
+   "last_run": "2026-11-17T00:45:30.670445+09:00"
   }
  },
  "press_names": {
