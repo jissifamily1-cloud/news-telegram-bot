@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-16T08:10:26.469817+09:00",
-     "낮아진 확대 매수자 주주환원 SK하이닉스 시간 밸류에이션 여전히"
-    ],
-    [
-     "2026-11-16T08:10:26.469817+09:00",
-     "닉스 단위 삼성전기 신용잔고 육박 삼전 투자 7조"
-    ],
-    [
-     "2026-11-16T08:10:26.469817+09:00",
-     "전기요금 산업용 증가 SK이터닉스 태양광 수혜 인상에 구조화 규모"
-    ],
-    [
      "2026-11-16T08:20:26.298351+09:00",
      "금값 삼전닉스로 손해 한은도 떨어지자 빚투"
     ],
@@ -950,14 +938,17 @@
     [
      "2026-11-16T14:05:22.417227+09:00",
      "반도체 생산성 성과급 절벽 폭탄 1등 기업마저 멈췄다"
+    ],
+    [
+     "2026-11-16T14:10:31.897972+09:00",
+     "딜레마에 흔하다 하이엔드도 브랜드 건설사들 빠진"
+    ],
+    [
+     "2026-11-16T14:10:31.897972+09:00",
+     "거래 메모리와 iHBM 112만6000원 SK하이닉스 지켜본"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20261114024200008?input=1195m",
-    "https://www.yna.co.kr/view/AKR20261114028800008?input=1195m",
-    "https://www.yna.co.kr/view/AKR20261114023300008?input=1195m",
-    "https://www.yna.co.kr/view/AKR20261114018400007?input=1195m",
-    "https://www.yna.co.kr/view/AKR20261114040900008?input=1195m",
     "https://www.kbmaeil.com/article/20261115500017",
     "https://www.yna.co.kr/view/AKR20261114002700003?input=1195m",
     "https://it.chosun.com/news/articleView.html?idxno=3000000000983",
@@ -2452,14 +2443,14 @@
     "https://www.electimes.com/news/articleView.html?idxno=374820",
     "https://www.koreatimes.co.kr/path/A2026111610500002450",
     "http://www.breaknews.com/1251203",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611161348469750238"
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611161348469750238",
+    "https://www.sportsseoul.com/news/read/1650033",
+    "https://www.fnnews.com/news/202611161355369733",
+    "https://www.medipana.com/news/articleView.html?idxno=421907",
+    "https://www.edaily.co.kr/News/Read?newsId=02364886645646376&mediaCodeNo=257",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=238564"
    ],
    "seen_titles": [
-    "앤트로픽상장에SK최태원겹호재,SK텔레콤지분가치재평가에SK하이...",
-    "美중간선거후불거진AI세금논쟁…'로봇세신설'→'공제회수'",
-    "'최후보루'퇴직연금수익률도뚝…3분기DC형원금비보장수익률¼로",
-    "'빚투'자금30%가삼전·닉스에집중…변동성더키웠다",
-    "'9천피'에발행된ELS,내달부터만기도래…원금손실우려",
     "◇내일의경기(16일)",
     "나스닥23시간거래D-3주…\"美투자확대\"\"국내영향제한적\"",
     "‘9000피’때가입한ELS만기임박…원금손실주의보",
@@ -3954,10 +3945,15 @@
     "효성중공업·SKT,AIDC전력망맞손…글로벌시장공략가속화",
     "SKTelecom,HyosungteamuptobuildAIdatacenterpowerinfrastructur",
     "SKT-효성중공업,GW급AI데이터센터구축협력",
-    "성과급폭탄뒤‘생산성절벽’…非반도체,1등기업마저멈췄다"
+    "성과급폭탄뒤‘생산성절벽’…非반도체,1등기업마저멈췄다",
+    "‘4연승→1위맹추격’정관장,박지훈-변준형-문유현‘3가드’위력…...",
+    "젠슨황후폭풍에'삼전닉스'급락…코스피5100선위태",
+    "SK케미칼,ESG평가5년연속A+등급획득",
+    "“하이엔드도흔하다”…브랜드딜레마에빠진건설사들",
+    "AI메모리와iHBM지켜본SK하이닉스,112만6000원거래"
    ],
    "initialized": true,
-   "last_run": "2026-11-16T14:05:22.417227+09:00"
+   "last_run": "2026-11-16T14:10:31.897972+09:00"
   }
  },
  "press_names": {
