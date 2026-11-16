@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-16T03:10:25.845909+09:00",
-     "마련해야 젠슨 퇴진 AI산업 면밀하게 대책"
-    ],
-    [
      "2026-11-16T04:55:21.986632+09:00",
      "30대 있을까 예금 4억 망한 나보다 인생 10년 모은 은행원"
     ],
@@ -666,17 +662,21 @@
     [
      "2026-11-16T09:05:22.261223+09:00",
      "견인 5연승 리그 3점포로 신인왕 역전 김훈 KCC"
+    ],
+    [
+     "2026-11-16T09:10:27.048506+09:00",
+     "내준다 세계 1000평 공장 SK하이닉스의 반도체 소부장에"
+    ],
+    [
+     "2026-11-16T09:10:27.048506+09:00",
+     "개장 코스피 오른"
+    ],
+    [
+     "2026-11-16T09:10:27.048506+09:00",
+     "첨단 K메모리 소부장 공장서 10분만에 하이닉스와 EUV 미팅하고 빌린다"
     ]
    ],
    "seen_urls": [
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=768282",
-    "https://news.mtn.co.kr/article/2026111316164949881",
-    "https://edu.donga.com/news/articleView.html?idxno=113810",
-    "https://www.newsis.com/view/NISX20261113_0003867744",
-    "https://www.newsian.co.kr/news/articleView.html?idxno=101242",
-    "https://biz.sbs.co.kr/article_hub/20000346345?division=NAVER",
-    "https://www.joongboo.com/news/articleView.html?idxno=363742440",
-    "https://en.yna.co.kr/view/AEN20261113008400320?input=2106m",
     "https://www.thelec.kr/news/articleView.html?idxno=65429",
     "https://www.news1.kr/finance/market-exr/6353667",
     "http://www.inews24.com/view/2026113",
@@ -2168,17 +2168,17 @@
     "https://news.mtn.co.kr/article/2026111608545522366",
     "https://www.ddaily.co.kr/page/view/2026111309473939984",
     "https://www.yna.co.kr/view/AKR20261116025100008?input=1195m",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285206&CMPT_CD=P0010"
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285206&CMPT_CD=P0010",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3752828",
+    "https://www.hankyung.com/article/202611168186h",
+    "https://kpenews.com/View.aspx?No=4313717",
+    "https://www.m-i.kr/news/articleView.html?idxno=2018738",
+    "https://www.viva100.com/article/20261116500157",
+    "https://biz.heraldcorp.com/article/10938004",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261116090808jCR",
+    "https://www.sedaily.com/article/20114649"
    ],
    "seen_titles": [
-    "[담합망국]HD현대오일뱅크①\"전쟁으로먹고사는회사\"\"올해2조벌듯...",
-    "[ㄱㄱㄷ의정Pick!]남종섭의장,장애예술인작품담은파우치제작...",
-    "젠슨황퇴진에AI공급망대혼돈..충격파어디까지",
-    "현직자와함께그려보는'내일의나'…2026연세커리어브릿지페어개...",
-    "젠슨황사퇴에직접입연배경훈…\"GPU26만장공급약속재확인받았...",
-    "최태원\"한일경제연대이끌'빅텐트형'상설플랫폼준비\"",
-    "SK디스커버리,3분기매출3.4조…\"지주사출범후최대실적\"",
-    "초고령사회대응방향모색…'수원시3개노인복지관공동연구및정책...",
     "NvidiaconfirmsplannedsupplyofGPUstoS.KoreadespiteJensenHuang",
     "엔시스,LG전자1차협력사로진입...3분기흑자전환",
     "삼전닉스반등에증설기대까지…피에스케이8.91%'껑충'[핫종목]",
@@ -3670,10 +3670,18 @@
     "마스턴투자운용박형석대표체제1년…아시아대체투자새기준향해...",
     "나무AX,3분기누적매출1081억원…작년연매출넘어",
     "증권가,SK오션플랜트에\"M&A이후불확실\"…목표가줄하향",
-    "신인왕김훈,역전3점포로KCC리그5연승견인"
+    "신인왕김훈,역전3점포로KCC리그5연승견인",
+    "코스피,0.28%오른5305.40개장…삼성전자·LG에너지솔루션강세출발",
+    "바이오도시인천서'제약·바이오투자대전'개최",
+    "SKT·KT·LGU+,비트다음은토큰..AI요금표새로짜기돌입",
+    "SK쉴더스,북한산자연숲복원활동…자생수종800주식재",
+    "[특징주]삼성전자·SK하이닉스,장초반혼조세…美반도체주급락여...",
+    "[르포]“반도체공장1000평소부장에내준다”…SK하이닉스의세계유...",
+    "[속보]코스피0.28%오른5,305.40개장",
+    "10분만에하이닉스와미팅하고첨단EUV빌린다…K메모리공장서소부장..."
    ],
    "initialized": true,
-   "last_run": "2026-11-16T09:05:22.261223+09:00"
+   "last_run": "2026-11-16T09:10:27.048506+09:00"
   }
  },
  "press_names": {
