@@ -486,16 +486,21 @@
     [
      "2026-11-17T07:30:44.232759+09:00",
      "산업 대기업 총력전 금지 방지 스마트안경 반입 기밀 유출"
+    ],
+    [
+     "2026-11-17T07:35:32.826421+09:00",
+     "국내증시 빅위크 덜컹 경계감 리스크"
+    ],
+    [
+     "2026-11-17T07:35:32.826421+09:00",
+     ""
+    ],
+    [
+     "2026-11-17T07:35:32.826421+09:00",
+     "알짜 석화업계 적자 판다 자회사도 사업 생존 털고 몸부림"
     ]
    ],
    "seen_urls": [
-    "https://economist.co.kr/article/view/ecn202611160019",
-    "https://www.newsian.co.kr/news/articleView.html?idxno=101333",
-    "https://www.khan.co.kr/article/202611161130001",
-    "https://www.newsis.com/view/NISX20261116_0003869521",
-    "https://biz.heraldcorp.com/article/10938465",
-    "https://www.news1.kr/local/gwangju-jeonnam/6355165",
-    "https://www.mk.co.kr/article/12209809",
     "https://www.edaily.co.kr/News/Read?newsId=02076246645646376&mediaCodeNo=257",
     "https://biz.heraldcorp.com/article/10938461",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261172",
@@ -1988,16 +1993,16 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714513",
     "https://www.gokorea.kr/news/articleView.html?idxno=885942",
     "https://www.fntimes.com/html/view.php?ud=202611170708146723141825007d_18",
-    "https://www.gokorea.kr/news/articleView.html?idxno=885932"
+    "https://www.gokorea.kr/news/articleView.html?idxno=885932",
+    "https://biz.sbs.co.kr/article_hub/20000346874?division=NAVER",
+    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082955",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504788",
+    "https://www.slist.kr/news/articleView.html?idxno=782311",
+    "https://biz.sbs.co.kr/article_hub/20000346875?division=NAVER",
+    "https://www.yna.co.kr/view/AKR20261117013500011?input=1195m",
+    "https://www.news1.kr/industry/general-industry/6355939"
    ],
    "seen_titles": [
-    "토스,통신마이데이터로요금제추천...통신비절감시장공략",
-    "삼성전자·SK하이닉스,소부장'양산문턱'낮춘다…기술검증지원확대",
-    "민형배전남광주시장\"2027년은'통합의힘'시민이체감하는성과로바...",
-    "SKT·효성중공업,AIDC전력인프라협력···직류배전실증",
-    "젠슨황복귀론솔솔…엔비디아AI기업금융지원이어갈까",
-    "효성중공업,SK텔레콤AI데이터센터에전력설비공급협력",
-    "[오늘의삼전닉스]갑작스러운'D램담합'의혹,법적분쟁리스크어떻...",
     "효성중공업-SKT,AI데이터센터전력인프라구축'맞손'",
     "[르포]SK하이닉스용인팹한켠에소부장기업위한‘공유인프라’",
     "용인반도체클러스터연말아파트1225세대공급",
@@ -3490,10 +3495,17 @@
     "AI매도세계속,뉴욕증시일제히하락…엔비디아4.1%↓",
     "인공지능열풍에SK하이닉스역사상최대설비투자,메모리시장의판도...",
     "[KFT모닝브리프]2026.11.17—오늘꼭알아야할국내외경제뉴스",
-    "대기업,스마트안경반입금지…산업기밀유출방지총력전"
+    "대기업,스마트안경반입금지…산업기밀유출방지총력전",
+    "[마켓브리핑]뉴욕증시,엔비디아실적앞두고경계감확대",
+    "[오늘증시전망]필라델피아반도체5.3%급락…코스피5100선공방·삼...",
+    "한국ETF도4.36%밀렸다…미국發기술주조정에국내증시긴장",
+    "필라델피아반도체지수5.28%폭락…엔비디아·AMD·마이크론동반급락",
+    "[마켓프리뷰]'황리스크'속AI빅위크경계감…국내증시'덜컹'",
+    "[연합뉴스이시각헤드라인]-07:30",
+    "적자사업털고알짜자회사도판다…석화업계,생존몸부림"
    ],
    "initialized": true,
-   "last_run": "2026-11-17T07:30:44.232759+09:00"
+   "last_run": "2026-11-17T07:35:32.826421+09:00"
   }
  },
  "press_names": {
