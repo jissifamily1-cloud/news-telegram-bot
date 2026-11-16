@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-16T12:20:26.296112+09:00",
-     "저력 5연승 KCC의 살아난 7연패"
-    ],
-    [
      "2026-11-16T12:25:19.432343+09:00",
      "특수선 신규 수주 3분기 8687억 메운다 공백 SK오션플랜트 상선"
     ],
@@ -1154,15 +1150,21 @@
     [
      "2026-11-16T18:15:27.254146+09:00",
      "인프라 실적 반영 매출 3Q SK에코플랜트"
+    ],
+    [
+     "2026-11-16T18:20:28.550638+09:00",
+     "배터리로 돌아섰던 포드 맞손 한번 다시"
+    ],
+    [
+     "2026-11-16T18:20:28.550638+09:00",
+     "전략적 데이터센터에 변전 SKT 345kV 효성중공업 설비 공급 협약"
+    ],
+    [
+     "2026-11-16T18:20:28.550638+09:00",
+     "다각화 신규 발전5사 LNG 열병합 수익 전력"
     ]
    ],
    "seen_urls": [
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=625330",
-    "https://www.etoday.co.kr/news/view/2648372",
-    "https://view.asiae.co.kr/article/2026111211081570988",
-    "https://www.edaily.co.kr/News/Read?newsId=01279206645646376&mediaCodeNo=257",
-    "https://www.etoday.co.kr/news/view/2648375",
-    "http://www.popcornnews.net/news/articleView.html?idxno=140122",
     "https://biz.sbs.co.kr/article_hub/20000346551?division=NAVER",
     "https://www.edaily.co.kr/News/Read?newsId=01292326645646376&mediaCodeNo=257",
     "https://www.thelec.kr/news/articleView.html?idxno=65452",
@@ -2656,15 +2658,15 @@
     "https://news.mtn.co.kr/article/2026111616365641168",
     "http://www.metroseoul.co.kr/article/20261116500489",
     "https://www.fnnews.com/news/202611161812504924",
-    "https://dealsite.co.kr/articles/172910"
+    "https://dealsite.co.kr/articles/172910",
+    "http://www.metroseoul.co.kr/article/20261116500491",
+    "https://www.fnnews.com/news/202611161816519778",
+    "https://www.g-enews.com/view.php?ud=20261116181133811427fa31d75c_1",
+    "https://www.thelec.kr/news/articleView.html?idxno=65480",
+    "https://www.tournews21.com/news/articleView.html?idxno=148531",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261116010006147"
    ],
    "seen_titles": [
-    "LS證“SK하이닉스,HBM4공급확대에사상최대실적행진…목표가240...",
-    "[오늘의경제뉴스]엔비디아실적·앤트로픽상장…이번주AI증시중대...",
-    "김대종한국시장경제교수협회장,\"한국총부채GDP대비244.7%…재정건...",
-    "SK,반도체다음은'서비스'…최태원\"'토큰이코노미'선점해야\"",
-    "[주간증시온도계]외국인이산코스피·기관이띄운코스닥…폭락딛고...",
-    "삼성전자·SK하이닉스에몰린'빚투'7조원육박…국내전체의27%",
     "[오늘의IR]이마트·코스맥스·이마트등",
     "대형M&A외국계독식깬토종글랜우드PE…승부처는'이것'[PE는지금]",
     "\"코스닥,정책모멘텀동력부족해...본격적수요회복아직\"",
@@ -4158,10 +4160,16 @@
     "\"지배구조형식넘어실질적작동해야\"…'K-거버넌스포럼'첫발",
     "삼성전자,대외악재에‘경품잔치’논란까지…DX노조\"귀족노조놀이...",
     "반도체장기호황에…K팹리스까지'온기'",
-    "SK에코플랜트,AI인프라실적반영…3Q매출82%↑"
+    "SK에코플랜트,AI인프라실적반영…3Q매출82%↑",
+    "SK증권,3분기영업손실38억원…적자전환",
+    "효성중공업손잡은SKT…GW급AI데이터센터구축총력전",
+    "SK스퀘어,3분기영업익7.9조…하이닉스호조에지난해보다3배↑",
+    "中배터리로돌아섰던포드,다시한번'맞손'",
+    "효성중공업,SKTAI데이터센터에345kV변전설비공급…전략적협약",
+    "발전5사,신규LNG26%는‘열병합’…‘전력+열’수익다각화"
    ],
    "initialized": true,
-   "last_run": "2026-11-16T18:15:27.254146+09:00"
+   "last_run": "2026-11-16T18:20:28.550638+09:00"
   }
  },
  "press_names": {
