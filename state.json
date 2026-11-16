@@ -274,10 +274,13 @@
     [
      "2026-11-17T02:20:31.219181+09:00",
      "A57 갤럭시 등급 20건 패치 S11도 보안 막고 받는다 11월 심각"
+    ],
+    [
+     "2026-11-17T02:35:23.009332+09:00",
+     "미국 3년짜리 수조원 공급 16GWh 삼성SDI 규모 ESS에"
     ]
    ],
    "seen_urls": [
-    "https://www.cbci.co.kr/news/articleView.html?idxno=627241",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=668149",
     "http://www.kbiznews.co.kr/news/articleView.html?idxno=115159",
     "http://www.4th.kr/news/articleView.html?idxno=2121911",
@@ -1776,10 +1779,10 @@
     "https://www.kmib.co.kr/article/20261116501590",
     "https://www.kmib.co.kr/article/20261116501829",
     "https://www.thereport.co.kr/news/articleView.html?idxno=93419",
-    "https://www.wikitree.co.kr/articles/1175139"
+    "https://www.wikitree.co.kr/articles/1175139",
+    "http://www.issuenbiz.com/news/articleView.html?idxno=81649"
    ],
    "seen_titles": [
-    "KCC,21점차뒤집고한국가스공사80-77제압…허훈결승포·5연승",
     "젠슨황떠난엔비디아…삼성·SK하이닉스,HBM공급망다변화기로에",
     "'부천대장하우스토리디센트'견본주택3일간1.2만명찾았다",
     "채용시장덮친'AI커닝'공포…대기업,보안·IT묶어'전담TF'꾸리나",
@@ -3278,10 +3281,11 @@
     "ESS수주전판커졌다…삼성SDI·SK온‘2파전’",
     "AI생태계,젠슨황없어도돈이돌까…‘엔비디아순환금융’시험대",
     "반도체공사차량몰릴용인…주민불편줄일실행계획내년1월공개",
-    "갤럭시A57·탭S11도11월보안패치받는다…심각등급20건막고새기..."
+    "갤럭시A57·탭S11도11월보안패치받는다…심각등급20건막고새기...",
+    "[뉴스이슈&비즈]삼성SDI,미국ESS에16GWh공급…\"수조원규모3년짜리..."
    ],
    "initialized": true,
-   "last_run": "2026-11-17T02:30:39.987885+09:00"
+   "last_run": "2026-11-17T02:35:23.009332+09:00"
   }
  },
  "press_names": {
