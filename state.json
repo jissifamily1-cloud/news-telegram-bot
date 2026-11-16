@@ -318,10 +318,13 @@
     [
      "2026-11-17T06:15:32.959298+09:00",
      "초접전 왕좌 미래 P500vs삼성 ETF 놓고 코스피200"
+    ],
+    [
+     "2026-11-17T06:20:28.562254+09:00",
+     "자율주 회장 정의선 현장경영 협력"
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1715365/?sc=Naver",
     "https://www.hankyung.com/article/202611168708g",
     "https://biz.heraldcorp.com/article/10937991",
     "https://www.fnnews.com/news/202611160946111547",
@@ -1820,10 +1823,10 @@
     "https://www.seoul.co.kr/news/economy/securities/2026/11/17/20261117500006?wlog_tag3=naver",
     "https://it.chosun.com/news/articleView.html?idxno=3000000001147",
     "https://www.abcn.kr/news/articleView.html?idxno=94625",
-    "https://www.news1.kr/finance/general-stock/6355865"
+    "https://www.news1.kr/finance/general-stock/6355865",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=768392"
    ],
    "seen_titles": [
-    "한투증권“내년코스피8300간다…삼전·하이닉스가이익74%견인”",
     "\"AI데이터센터전력확보전\"…SKT,효성중공업과손잡았다",
     "SKT,효성중공업과AIDC협력…GW급사업공동발굴",
     "SKT,AIDC전력병목선제대응..효성중공업과GW급구축MOU체결",
@@ -3322,10 +3325,11 @@
     "[서울데이터랩]미국증시,기술주·반도체주급락에일제히하락마감…...",
     "외산SW사용료급등…삼성,자체AI검토",
     "고향에서돌아오는길,우리는어떤미래를만들고있는가?",
-    "미래S&P500vs삼성코스피200…ETF왕좌놓고초접전[ETF업&다운]"
+    "미래S&P500vs삼성코스피200…ETF왕좌놓고초접전[ETF업&다운]",
+    "[총수신년공약성적표②]정의선회장,AI협력·현장경영'A+'…자율주..."
    ],
    "initialized": true,
-   "last_run": "2026-11-17T06:15:32.959298+09:00"
+   "last_run": "2026-11-17T06:20:28.562254+09:00"
   }
  },
  "press_names": {
