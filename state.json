@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-17T00:45:30.670445+09:00",
-     "LPGA 10번째 준우승 탄식으로 명성 쌓은 최혜진"
-    ],
-    [
-     "2026-11-17T00:45:30.670445+09:00",
-     "이탈 현대모비스 예선 파열로 대표팀 합류 이우석 허벅지 근육 월드컵"
-    ],
-    [
      "2026-11-17T00:50:30.875481+09:00",
      "가열 경쟁 육상 상용화 부유식 바다로 반발에 AI데이터센터"
     ],
@@ -338,14 +330,17 @@
     [
      "2026-11-17T06:40:27.545577+09:00",
      "지수 증시 필리 거취에 반도체 급락 휘둘린 젠슨"
+    ],
+    [
+     "2026-11-17T06:50:29.796325+09:00",
+     "여파 젠슨 뉴욕증시 지속 나스닥 하락 사임"
+    ],
+    [
+     "2026-11-17T06:50:29.796325+09:00",
+     "없다 배제 SK하이닉스 공급망 삼성전자 기술기업 국무부 동맹국"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/202611168239O",
-    "https://www.kmib.co.kr/article/20261116500257",
-    "https://www.smartbizn.com/news/articleView.html?idxno=159528",
-    "https://www.mk.co.kr/article/12209775",
-    "https://news.dealsitetv.com/articles/178635",
     "https://www.theguru.co.kr/news/article.html?no=109774",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=320554",
     "https://www.kukinews.com/article/view/kuk202611160057",
@@ -1840,14 +1835,14 @@
     "https://www.cstimes.com/news/articleView.html?idxno=728161",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504769",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4445049",
-    "https://www.newsian.co.kr/news/articleView.html?idxno=101386"
+    "https://www.newsian.co.kr/news/articleView.html?idxno=101386",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1731902",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504774",
+    "https://www.newsverse.kr/news/articleView.html?idxno=11946",
+    "https://www.womennews.co.kr/news/articleView.html?idxno=284539",
+    "https://www.g-enews.com/view.php?ud=202611170636593597fbbec65dfb_1"
    ],
    "seen_titles": [
-    "건국대,세계행정학회22년만에'서울국제학술대회'공동개최",
-    "효성중공업,SK텔레콤과AI데이터센터전력인프라구축맞손",
-    "NH투자증권“내년코스피목표9200”…상고하저전망",
-    "반도체사업장도'AI안경'경계령…SK하이닉스반입금지,삼성전자도...",
-    "유니셈,고객사투자확대효과본격화…\"3분기영업익7.3배급증\"",
     "SKT·효성중공업,GW급AI데이터센터전력인프라구축동맹",
     "JDC,'제6회영리더스포럼,제주'개최…청년진로·국제교류방안논의",
     "민형배통합특별시장“전남광주,천년만에찾아온기회앞에서있어...",
@@ -3342,10 +3337,15 @@
     "\"글로벌투자유치·수출확대\"인천시,19일'제약바이오투자대전'개최",
     "코스피·코스닥전거래일(16일)주요공시는...삼성중공업,LNG운반선1척...",
     "[뉴욕증시]젠슨황거취에휘둘린증시…필리반도체지수5%급락",
-    "AI잔치끝나나…뉴욕증시美반도체주일제히급락,삼성전자·SK하이닉..."
+    "AI잔치끝나나…뉴욕증시美반도체주일제히급락,삼성전자·SK하이닉...",
+    "뉴욕증시AI우려에급락…코스피반도체주다시시험대",
+    "AI슈퍼사이클에쌓인삼전닉스329조실탄…한미반도체·디아이수혜기...",
+    "\"SK하이닉스ADR반등,엔비디아실적에달렸다…관건은HBM수요\"",
+    "뉴욕증시,젠슨황사임여파지속하락...나스닥2.5%↓",
+    "美국무부\"동맹국기술기업배제없다\"…삼성전자·SK하이닉스공급망..."
    ],
    "initialized": true,
-   "last_run": "2026-11-17T06:45:27.538520+09:00"
+   "last_run": "2026-11-17T06:50:29.796325+09:00"
   }
  },
  "press_names": {
