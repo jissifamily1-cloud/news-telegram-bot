@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-17T00:15:32.459936+09:00",
-     "엔비디아 마이 불안에 장초반 SK하이닉스 나스닥 급락 미국증시"
-    ],
-    [
      "2026-11-17T00:25:22.958909+09:00",
      "급등 미래에셋벤처투자 호재 스페이스X 주가"
     ],
@@ -298,16 +294,33 @@
     [
      "2026-11-17T06:10:28.810132+09:00",
      "연말 10대 60조 역대급 넘본다 수주 건설사 정비사업"
+    ],
+    [
+     "2026-11-17T06:15:32.959298+09:00",
+     "산업기밀 뚫은 빨간불 커닝 국가안보도 국가시험"
+    ],
+    [
+     "2026-11-17T06:15:32.959298+09:00",
+     "투매 반도체주 필라델피아지수 마이크론 급락"
+    ],
+    [
+     "2026-11-17T06:15:32.959298+09:00",
+     "기술주 일제히 미국 반도체주 증시 하락 급락에 마감"
+    ],
+    [
+     "2026-11-17T06:15:32.959298+09:00",
+     "사용료 외산 검토 SW 급등 자체 삼성"
+    ],
+    [
+     "2026-11-17T06:15:32.959298+09:00",
+     "고향에서 돌아오는 어떤 만들고 미래를 있는가 우리는"
+    ],
+    [
+     "2026-11-17T06:15:32.959298+09:00",
+     "초접전 왕좌 미래 P500vs삼성 ETF 놓고 코스피200"
     ]
    ],
    "seen_urls": [
-    "http://www.metroseoul.co.kr/article/20261116500139",
-    "https://www.viva100.com/article/20261116500368",
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=241873",
-    "https://www.asiatime.co.kr/article/20261116500096",
-    "https://kpenews.com/View.aspx?No=4313850",
-    "https://www.sentv.co.kr/article/view/sentv202611160067",
-    "https://www.etoday.co.kr/news/view/2648527",
     "https://www.dailian.co.kr/news/view/1715365/?sc=Naver",
     "https://www.hankyung.com/article/202611168708g",
     "https://biz.heraldcorp.com/article/10937991",
@@ -1800,16 +1813,16 @@
     "https://www.dt.co.kr/article/12095553",
     "https://www.ziksir.com/news/articleView.html?idxno=153438",
     "https://www.newsis.com/view/NISX20261116_0003870567",
-    "https://www.newsis.com/view/NISX20261116_0003869460"
+    "https://www.newsis.com/view/NISX20261116_0003869460",
+    "https://www.newsis.com/view/NISX20261116_0003870449",
+    "https://www.hankyung.com/article/2026111706077",
+    "https://www.news1.kr/world/usa-canada/6356056",
+    "https://www.seoul.co.kr/news/economy/securities/2026/11/17/20261117500006?wlog_tag3=naver",
+    "https://it.chosun.com/news/articleView.html?idxno=3000000001147",
+    "https://www.abcn.kr/news/articleView.html?idxno=94625",
+    "https://www.news1.kr/finance/general-stock/6355865"
    ],
    "seen_titles": [
-    "SK텔레콤-효성중공업,GW급AI데이터센터전력인프라구축협력",
-    "SKT·효성중공업,GW급AI데이터센터구축맞손",
-    "컬리뷰티페스타2026,관람객1만4000명···참여브랜드거래액470%증...",
-    "SKT,효성중공업과'GW급AI데이터센터'구축맞손…핵심전력망선제...",
-    "SK하이닉스용인팹건설현장'숙소대란'…숙련공이탈우려",
-    "SKT·효성중공업,AI데이터센터전력인프라확보협력",
-    "SK텔레콤,AI데이터센터전력인프라강화…효성중공업과맞손",
     "한투증권“내년코스피8300간다…삼전·하이닉스가이익74%견인”",
     "\"AI데이터센터전력확보전\"…SKT,효성중공업과손잡았다",
     "SKT,효성중공업과AIDC협력…GW급사업공동발굴",
@@ -3302,10 +3315,17 @@
     "LG엔솔불참한ESS수주전…삼성SDI·SK온,수익성방어에촉각",
     "[산업직썰]AI시대,반도체만큼중요한건전력…4대그룹,'에너지주...",
     "[오늘의주요일정]사회(11월17일화요일)",
-    "10대건설사정비사업수주'역대급'…연말60조넘본다"
+    "10대건설사정비사업수주'역대급'…연말60조넘본다",
+    "삼전·닉스덮친'D램담합'소송…증권가\"불확실성확대\"",
+    "국가시험뚫은'AI커닝'…산업기밀·국가안보도빨간불",
+    "AI반도체주투매…필라델피아지수5.28%급락·마이크론7.59%↓",
+    "[서울데이터랩]미국증시,기술주·반도체주급락에일제히하락마감…...",
+    "외산SW사용료급등…삼성,자체AI검토",
+    "고향에서돌아오는길,우리는어떤미래를만들고있는가?",
+    "미래S&P500vs삼성코스피200…ETF왕좌놓고초접전[ETF업&다운]"
    ],
    "initialized": true,
-   "last_run": "2026-11-17T06:10:28.810132+09:00"
+   "last_run": "2026-11-17T06:15:32.959298+09:00"
   }
  },
  "press_names": {
