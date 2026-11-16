@@ -722,10 +722,13 @@
     [
      "2026-11-16T22:35:33.616113+09:00",
      "현대모비스에 전희철 시즌에 경기 완승 같은 서울"
+    ],
+    [
+     "2026-11-16T23:00:45.800447+09:00",
+     "투자경고 남화토건 공매도 동양파일 바이브컴퍼니 금지"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026111610074067302",
     "http://www.inews24.com/view/2026442",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=883531",
     "https://www.etnews.com/20261116000114",
@@ -2224,10 +2227,10 @@
     "https://www.newstnt.com/news/articleView.html?idxno=728744",
     "https://www.thedailypost.kr/news/articleView.html?idxno=116967",
     "https://www.cstimes.com/news/articleView.html?idxno=728125",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=54804"
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=54804",
+    "https://www.newstnt.com/news/articleView.html?idxno=728748"
    ],
    "seen_titles": [
-    "[개장시황]코스피,'젠슨황해임여파'5280선공방…코스닥1%대약세",
     "삼성SDI,美서대규모ESS배터리수주...'현지생산·비중국'승부수",
     "[더벨][BNK투자증권은지금]무색해진베테랑타이틀…지주그늘에갇힌...",
     "[더벨][BNK투자증권은지금]임기막바지신명호대표,순익2000억목표...",
@@ -3726,10 +3729,11 @@
     "[공시]11월17일,코스피상장사62개종목자사주매수신청",
     "SKT·효성중공업,전략적MOU체결…GW급AI데이터센터구축협력",
     "인하대,반도체시스템공학과학술제개최및'다문화교육생태계구축'...",
-    "SK에코플랜트,3분기연결영업익5배…별도순손실3377억"
+    "SK에코플랜트,3분기연결영업익5배…별도순손실3377억",
+    "[공시]바이브컴퍼니'투자경고',남화토건·동양파일'공매도금지'등..."
    ],
    "initialized": true,
-   "last_run": "2026-11-16T22:55:25.273979+09:00"
+   "last_run": "2026-11-16T23:00:45.800447+09:00"
   }
  },
  "press_names": {
