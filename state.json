@@ -422,10 +422,13 @@
     [
      "2026-11-17T00:15:32.459936+09:00",
      "엔비디아 마이 불안에 장초반 SK하이닉스 나스닥 급락 미국증시"
+    ],
+    [
+     "2026-11-17T00:25:22.958909+09:00",
+     "급등 미래에셋벤처투자 호재 스페이스X 주가"
     ]
    ],
    "seen_urls": [
-    "https://www.tokenpost.kr/news/tech/438795",
     "http://www.joseilbo.com/news/news_read.php?uid=579692&class=17",
     "https://www.segye.com/newsView/20261116505025?OutUrl=naver",
     "https://biz.newdaily.co.kr/site/data/html/2026/11/16/2026111650067.html",
@@ -1924,10 +1927,10 @@
     "https://www.g-enews.com/view.php?ud=202611131555468233906806b77b_1",
     "https://www.joongang.co.kr/article/25479162",
     "https://www.joongang.co.kr/article/25479160",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16278189"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16278189",
+    "http://www.kjdaily.com/article.php?aid=1794842291692569276"
    ],
    "seen_titles": [
-    "코스피,美젠슨황파장속5,200선등락…코스닥1%대↓",
     "제약바이오협회,아일랜드산업계와교류·인력양성협력모색",
     "최태원,'AI플라이휠'전략제시\"...SK,미래성장전략구체화",
     "제약바이오협,NIBRT등과바이오인력양성협력확대모색",
@@ -3426,10 +3429,11 @@
     "[김대호진단]흔들리는깐부동맹...삼전닉스네이버의운명",
     "제품검증애먹던소부장…‘대기업실험실’쓴다",
     "SKT·효성중공업,AI데이터센터구축협약",
-    "미국증시장초반나스닥1.79%급락…엔비디아불안에SK하이닉스·마이..."
+    "미국증시장초반나스닥1.79%급락…엔비디아불안에SK하이닉스·마이...",
+    "미래에셋벤처투자주가17.13%급등…스페이스X호재"
    ],
    "initialized": true,
-   "last_run": "2026-11-17T00:20:30.039611+09:00"
+   "last_run": "2026-11-17T00:25:22.958909+09:00"
   }
  },
  "press_names": {
