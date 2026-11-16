@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-17T01:05:23.913018+09:00",
-     "소송 반도체 코스피 담합 까지 털썩"
-    ],
-    [
-     "2026-11-17T01:10:29.190888+09:00",
-     "SK하이닉스 148조원 미국 돌파 매출 매출의 전체"
-    ],
-    [
      "2026-11-17T01:25:23.169446+09:00",
      "training Korean to sessions draws and NVIDIA developers robotics"
     ],
@@ -438,13 +430,17 @@
     [
      "2026-11-17T07:05:21.911808+09:00",
      "조영철 HD현대 부회장 대표이사"
+    ],
+    [
+     "2026-11-17T07:10:29.366323+09:00",
+     "외국인 매물 무너진 폭탄에 증시 안전판도 흔들"
+    ],
+    [
+     "2026-11-17T07:10:29.366323+09:00",
+     "다음은 우리 배일 있다"
     ]
    ],
    "seen_urls": [
-    "https://www.fnnews.com/news/202611161011469173",
-    "https://www.news1.kr/industry/general-industry/6355148",
-    "https://www.nocutnews.co.kr/news/6607312",
-    "https://www.epnc.co.kr/news/articleView.html?idxno=409828",
     "https://www.businessplus.kr/news/articleView.html?idxno=119922",
     "https://www.etoday.co.kr/news/view/2648609",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=211432",
@@ -1940,13 +1936,13 @@
     "https://www.news1.kr/finance/general-stock/6355681",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=315448",
     "https://www.g-enews.com/view.php?ud=202611170655484707e250e8e188_1",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=451569"
+    "https://www.businesspost.co.kr/BP?command=article_view&num=451569",
+    "https://www.edaily.co.kr/News/Read?newsId=01784326645646704&mediaCodeNo=257",
+    "https://www.seoulfn.com/news/articleView.html?idxno=643013",
+    "https://www.dailian.co.kr/news/view/1715699/?sc=Naver",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=94391"
    ],
    "seen_titles": [
-    "SK텔레콤·효성중공업,GW급AI데이터센터구축협력",
-    "부천대장하우스토리디센트,견본주택사흘간1만2000명방문…3기신...",
-    "체험이구매로…컬리뷰티페스타,참여브랜드거래액470%'껑충'",
-    "SKT,효성중공업과GW급AI데이터센터전력협력MOU체결",
     "코스피,외인매도세에5160선후퇴…코스닥도3%대급락[장중시황]",
     "SKTelecom,HyosungHeavyIndustriesteamuponAIdatacenters",
     "SK오션플랜트,경영불확실성에목표가48%↓…신세계,백화점둔화우...",
@@ -3442,10 +3438,14 @@
     "[데스크칼럼]'재팬디스카운트'극복한일본의꾸준함",
     "OTT·AI로포장한통신사구독경쟁…장기고객은'뒷전'",
     "美,AI칩우회수출봉쇄에반도체·클라우드주'검은월요일'",
-    "[WhoIs?]조영철HD현대대표이사부회장"
+    "[WhoIs?]조영철HD현대대표이사부회장",
+    "엔비디아발AI주급락…나스닥2.5%털썩[월스트리트in]",
+    "[뉴욕증시]젠슨황복귀무산?AI주에금융주까지'와르르'···'속슬'...",
+    "[연기금흑역사①]외국인매물폭탄에무너진증시…안전판도'흔들'",
+    "[김남정의해양사이버보안①]다음은우리배일수있다"
    ],
    "initialized": true,
-   "last_run": "2026-11-17T07:05:21.911808+09:00"
+   "last_run": "2026-11-17T07:10:29.366323+09:00"
   }
  },
  "press_names": {
