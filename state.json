@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-17T08:25:31.358997+09:00",
-     "중심 지주사 현금흐름 성장에 한화 자본조달 자회사 강화 확대"
-    ],
-    [
-     "2026-11-17T08:25:31.358997+09:00",
-     "수요증가 세미어낼러시스 가속기 둔화"
-    ],
-    [
-     "2026-11-17T08:25:31.358997+09:00",
-     "두산에너빌리티 포스코 아이크래프트 동부건설"
-    ],
-    [
      "2026-11-17T08:30:40.462630+09:00",
      "환자군은 먹는 3상 아리바이오 임상 일부 효과 전체 치매약 입증 실패"
     ],
@@ -1038,13 +1026,21 @@
     [
      "2026-11-17T14:25:22.220748+09:00",
      "목표가 BNK 3사 통신 회복에 수익성 AIDC까지"
+    ],
+    [
+     "2026-11-17T14:30:35.286464+09:00",
+     "연내 하세월 포스코는 타결 제조업 임금협상 끝나가는데 상경투쟁에"
+    ],
+    [
+     "2026-11-17T14:30:35.286464+09:00",
+     "체계 구축 수공 WWF 세계자연기금 물관리 지속가능한"
+    ],
+    [
+     "2026-11-17T14:30:35.286464+09:00",
+     "시스템반도체 개발 시장 바뀌나 확대 판도 빅테크 자체"
     ]
    ],
    "seen_urls": [
-    "https://www.itdaily.kr/news/articleView.html?idxno=242961",
-    "https://www.wolyo.co.kr/news/articleView.html?idxno=320589",
-    "https://www.edaily.co.kr/News/Read?newsId=03391526645646376&mediaCodeNo=257",
-    "https://www.dailian.co.kr/news/view/1715754/?sc=Naver",
     "https://www.mt.co.kr/industry/2026/11/16/2026111616495050808",
     "http://www.srtimes.kr/news/articleView.html?idxno=217753",
     "https://www.hankyung.com/article/2026111602271",
@@ -2540,13 +2536,13 @@
     "https://www.job-post.co.kr/news/articleView.html?idxno=238983",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=731542",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=884160",
-    "https://www.sedaily.com/article/20115384"
+    "https://www.sedaily.com/article/20115384",
+    "https://www.asiatime.co.kr/article/20261117500326",
+    "https://www.joongangenews.com/news/articleView.html?idxno=564506",
+    "http://www.digitalbizon.com/news/articleView.html?idxno=2344281",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505044"
    ],
    "seen_titles": [
-    "[알립니다]매경반도체팀출범…산업현장집중취재",
-    "SKT가짓는AI데이터센터,효성중공업전력기술심는다",
-    "SK하이닉스,3분기누적설비투자31조돌파…HBM4·용인공장에집중",
-    "美법원,삼성·SK하이닉스·마이크론D램담합소송기각요청거부",
     "SK하이닉스,3분기누적영업익181조돌파…현금유입·R&D확대'쌍끌이...",
     "반도체생산라인내준SK하닉…소부장양산2년→1년줄인다[르포]",
     "SK에코플랜트,3분기영업익7946억원…반도체·AI인프라에405%↑",
@@ -4042,10 +4038,14 @@
     "KODEX2002.11%하락…대형주조정에거래대금1.4조원",
     "美터톤캐피탈\"코리아디스카운트원인은韓기업지배구조\"",
     "실적은신기록주가는추락…시험대오른삼성·SK",
-    "BNK證“수익성회복에AIDC까지…통신3사목표가↑[줍줍리포트]"
+    "BNK證“수익성회복에AIDC까지…통신3사목표가↑[줍줍리포트]",
+    "비상장건설사빅4,3분기실적희비…SK·포스코'웃고'롯데·현엔'울...",
+    "제조업임금협상끝나가는데포스코는'하세월'...상경투쟁에연내타결...",
+    "수공,WWF(세계자연기금)과'지속가능한물관리체계'구축",
+    "빅테크자체칩개발확대…시스템반도체시장판도바뀌나"
    ],
    "initialized": true,
-   "last_run": "2026-11-17T14:25:22.220748+09:00"
+   "last_run": "2026-11-17T14:30:35.286464+09:00"
   }
  },
  "press_names": {
