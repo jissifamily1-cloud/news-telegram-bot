@@ -1090,16 +1090,13 @@
     [
      "2026-11-17T12:45:25.077785+09:00",
      "옵토닉스 급등 상한가 계양전기"
+    ],
+    [
+     "2026-11-17T13:00:45.646208+09:00",
+     "강화 수출 변경도 파운드리 통제 패키징 심사 용도"
     ]
    ],
    "seen_urls": [
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2493035",
-    "https://biz.heraldcorp.com/article/10938889",
-    "https://www.news1.kr/realestate/general/6355790",
-    "https://www.bloter.net/news/articleView.html?idxno=678728",
-    "http://www.srtimes.kr/news/articleView.html?idxno=217697",
-    "https://www.yna.co.kr/view/AKR20261116152900003?input=1195m",
-    "https://www.kyosu.net/news/articleView.html?idxno=212544",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090943",
     "https://www.dailian.co.kr/news/view/1715722/?sc=Naver",
     "http://www.newskr.kr/news/articleView.html?idxno=108048",
@@ -2592,16 +2589,16 @@
     "http://www.smarttimes.co.kr/news/articleView.html?idxno=50638",
     "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=525210",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=768462",
-    "http://www.e2news.com/news/articleView.html?idxno=336188"
+    "http://www.e2news.com/news/articleView.html?idxno=336188",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261117.99099005152",
+    "https://www.wikileaks-kr.org/news/articleView.html?idxno=194749",
+    "https://www.newspim.com/news/view/20261117000754",
+    "https://www.mdtoday.co.kr/news/articleView.html?idxno=625720",
+    "https://www.newscj.com/news/articleView.html?idxno=3449378",
+    "https://www.sedaily.com/article/20115346",
+    "https://www.itdaily.kr/news/articleView.html?idxno=242977"
    ],
    "seen_titles": [
-    "[초점]엔비디아젠슨황퇴진…K-반도체공급망변화는",
-    "코스피200ETF6조4천억원거래…인버스상품상위권",
-    "[마감시황]코스피5100선후퇴…AI투자불확실성에외국인1조3837억원...",
-    "SKT·효성중공업,AI데이터센터전력망협력···345kV변전설비확보...",
-    "SK증권,적자전환…3분기영업손실38억원",
-    "'반도체날개'SK에코,3Q영업익7946억원…전년비405%급증",
-    "[단독]최태원차녀민정,韓에AI헬스케어법인설립…국책과제주관",
     "정유4사,석유최고가격제정산앞두고셈법복잡…보전액'동상이몽'",
     "SK하이닉스,3분기미국매출1년새102조↑…엔비디아35조",
     "AI가바꾸는노동·생태·전쟁…기술총력전에맞선비판의목소리",
@@ -4094,10 +4091,17 @@
     "삼성전자·SK하이닉스현금329조원…1년새193조원증가",
     "한국투자증권,코스피200·삼성전자등기초자산넓혔다…ELW258종목상...",
     "중견상장건설사실적희비…서희건설홀로영업익급감,계룡·동부는...",
-    "'AI임팩트솔루션데이'개최…SK이노베이션,우수3개AI스타트업선..."
+    "'AI임팩트솔루션데이'개최…SK이노베이션,우수3개AI스타트업선...",
+    "‘삼전닉스’빼면3분기대기업영업이익증가율1.72%불과",
+    "SK이노베이션·큐네스티,'AI임팩트솔루션데이2026'성료",
+    "경남도,SMR국제콘퍼런스개막…유럽SMR시장본격진출",
+    "﻿SK하이닉스\"美매출147조원돌파\"…AI광풍타고'역대급실적'",
+    "삼성·SK등4대그룹,보안강화…AI안경·카메라반입차단",
+    "벼랑끝670조AI지원,젠슨복귀로비통할까[트럼프스톡커]",
+    "美,AI칩수출후용도변경도통제…파운드리·패키징심사강화"
    ],
    "initialized": true,
-   "last_run": "2026-11-17T12:55:26.858584+09:00"
+   "last_run": "2026-11-17T13:00:45.646208+09:00"
   }
  },
  "press_names": {
