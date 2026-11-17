@@ -1242,12 +1242,13 @@
     [
      "2026-11-17T19:10:29.115275+09:00",
      "파고든 해외 커닝업체 입사시험 대기업"
+    ],
+    [
+     "2026-11-17T19:20:29.896924+09:00",
+     "흔들리는 떨어졌다 D램 가격도 반도체"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20261117001200320?input=2106m",
-    "https://www.mediajeju.com/news/articleView.html?idxno=367381",
-    "https://www.medicopharma.co.kr/news/articleView.html?idxno=70475",
     "https://www.etoday.co.kr/news/view/2648951",
     "https://www.joongangenews.com/news/articleView.html?idxno=564334",
     "http://www.newsprime.co.kr/news/article.html?no=755189",
@@ -2744,12 +2745,12 @@
     "https://www.mk.co.kr/article/12211414",
     "https://www.kmib.co.kr/article/20261117501903",
     "http://www.osen.co.kr/article/G1112911424",
-    "https://www.ytn.co.kr/_ln/0102_202611171908164873"
+    "https://www.ytn.co.kr/_ln/0102_202611171908164873",
+    "https://www.segye.com/newsView/20261117515505?OutUrl=naver",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715177",
+    "https://www.dt.co.kr/article/12095772"
    ],
    "seen_titles": [
-    "SK이노베이션,'AI임팩트솔루션데이'개최…우수스타트업3곳선정",
-    "아리바이오먹는치매약,임상3상일부효과입증…전체환자군은실패",
-    "SamsungElectronics,SKhynixcashholdingssurgeamidAI-drivenchip",
     "제주출신백건,U-17월드컵승선",
     "SK바이오팜,오파칼림임상보류속내달3일종결합의…3.5억弗지급예...",
     "[아파트값상승톱10]경기성남시‘산성역포레스티아’등",
@@ -4246,10 +4247,13 @@
     "\"애플,메모리최저가격보장에스마트폰·PC가격더뛸수도\"",
     "[단독]대기업입사시험파고든해외AI커닝업체",
     "주전도아닌데FA로29억벌었다,가치인정받은슈퍼백업“내위치알...",
-    "5천선무너진코스피...9개월만에최저수준"
+    "5천선무너진코스피...9개월만에최저수준",
+    "‘젠슨황쇼크’후폭풍…5천피9개월여만에붕괴",
+    "코스피5천선아래로…2월수준으로돌아가",
+    "[기획]흔들리는반도체…D램가격도떨어졌다"
    ],
    "initialized": true,
-   "last_run": "2026-11-17T19:15:28.238876+09:00"
+   "last_run": "2026-11-17T19:20:29.896924+09:00"
   }
  },
  "press_names": {
