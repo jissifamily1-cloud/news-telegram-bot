@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-18T01:15:30.723685+09:00",
-     "150만원 목표주가 하향 4조8천억원 주주환원 내년 SK스퀘어"
-    ],
-    [
-     "2026-11-18T01:15:30.723685+09:00",
-     "협력 산림청 SK임업 등록 생물다양성 산림OECM 기업림 보전"
-    ],
-    [
      "2026-11-18T03:40:28.489396+09:00",
      "확대 삼성 AI칩 하향 지출 SK는 세미애널리시스 전망 장기계약"
     ],
@@ -422,15 +414,21 @@
     [
      "2026-11-18T07:15:27.184424+09:00",
      "상장제약사 성장 순익 매출 영업익 뒷걸음질 불구"
+    ],
+    [
+     "2026-11-18T07:20:27.837162+09:00",
+     "후보자 장관 공개에 재산 법무부 이용철 네티즌 39억 술렁"
+    ],
+    [
+     "2026-11-18T07:20:27.837162+09:00",
+     "의존도는 147조원 매출 HBM 엔비디아 공급 미국 구조 SK하이닉스"
+    ],
+    [
+     "2026-11-18T07:20:27.837162+09:00",
+     "시간외거래 반등 호실적에 엔비디아"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20115247",
-    "http://www.metroseoul.co.kr/article/20261117500114",
-    "http://www.finomy.com/news/articleView.html?idxno=266902",
-    "https://www.newsian.co.kr/news/articleView.html?idxno=101407",
-    "https://www.upkoreanews.kr/news/articleView.html?idxno=101201",
-    "https://www.fnnews.com/news/202611170931045856",
     "https://www.greened.kr/news/articleView.html?idxno=354790",
     "https://www.kado.net/news/articleView.html?idxno=2085278",
     "http://www.paxetv.com/news/articleView.html?idxno=287163",
@@ -1924,15 +1922,15 @@
     "https://www.sedaily.com/article/20115687",
     "https://www.yna.co.kr/view/AKR20261118015900009?input=1195m",
     "https://www.moneystorm.kr/news/articleView.html?idxno=8541",
-    "https://www.bosa.co.kr/news/articleView.html?idxno=3016652"
+    "https://www.bosa.co.kr/news/articleView.html?idxno=3016652",
+    "http://www.kjdaily.com/article.php?aid=1794953360692721276",
+    "https://www.fnnews.com/news/202611180711585753",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505230",
+    "https://www.gokorea.kr/news/articleView.html?idxno=886155",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16279414",
+    "http://www.yonhapnewstv.co.kr/news/AKR20261118071422hZR"
    ],
    "seen_titles": [
-    "[개장]미반도체주급락…코스피,장중5000선하회",
-    "500대기업3분기영업익235%증가…삼전닉스제외하면2%",
-    "ACE반도체ETF,메모리대표주삼성전자로교체…3%대→19%대",
-    "코스피,美AI주급락에1%대↓···장중5000선붕괴",
-    "美AI주급락여파...코스피,장중5000선붕괴",
-    "[오늘증시전망]코스피5,100선까지급락…뉴욕나스닥2.49%하락에국...",
     "코스피,장초반5000선깨져...'젠슨황'여파에AI투심위축[fn오전시황...",
     "코스피,美반도체주급락여파에1%대하락…5000선위태",
     "코스피1~2%대하락출발…5000선사수안간힘",
@@ -3426,10 +3424,16 @@
     "젠슨황없는엔비디아매출사상최대...현금흐름도2배[마켓무버]",
     "엔비디아호실적에시간외3%대반등",
     "[뉴욕증시마감시황]\"모멘텀은진짜다\"…엔비디아역대급실적에반도...",
-    "상장제약사,매출·영업익성장불구순익뒷걸음질"
+    "상장제약사,매출·영업익성장불구순익뒷걸음질",
+    "美반도체3배ETF…SOXL매수·SOXS매도1위",
+    "엔비디아호실적에시간외3%대반등...AI인프라주도동반상승",
+    "엔비디아시간외반등에국내증시도들썩…HBM·후공정수혜주어디?",
+    "이용철법무부장관후보자,39억재산공개에네티즌'술렁'",
+    "SK하이닉스미국매출147조원,엔비디아의존도는14.8%?…HBM공급구조...",
+    "엔비디아호실적에시간외거래3%대반등"
    ],
    "initialized": true,
-   "last_run": "2026-11-18T07:15:27.184424+09:00"
+   "last_run": "2026-11-18T07:20:27.837162+09:00"
   }
  },
  "press_names": {
