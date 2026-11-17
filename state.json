@@ -282,11 +282,17 @@
     [
      "2026-11-18T01:10:31.011264+09:00",
      "엔비디아 몇시 11월 실적발표일 한국시간"
+    ],
+    [
+     "2026-11-18T01:15:30.723685+09:00",
+     "150만원 목표주가 하향 4조8천억원 주주환원 내년 SK스퀘어"
+    ],
+    [
+     "2026-11-18T01:15:30.723685+09:00",
+     "협력 산림청 SK임업 등록 생물다양성 산림OECM 기업림 보전"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10939287",
-    "https://www.etnews.com/20261117000035",
     "https://www.smartbizn.com/news/articleView.html?idxno=159660",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=903290",
     "https://www.mt.co.kr/stock/2026/11/17/2026111709184563003",
@@ -1784,11 +1790,11 @@
     "http://www.bizwnews.com/news/articleView.html?idxno=152125",
     "http://www.kjdaily.com/article.php?aid=1794930625692616276",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850644&plink=ORI&cooper=NAVER",
-    "https://www.wikitree.co.kr/articles/1175367"
+    "https://www.wikitree.co.kr/articles/1175367",
+    "http://www.kjdaily.com/article.php?aid=1794931715692583276",
+    "https://www.woodkorea.co.kr/news/articleView.html?idxno=92636"
    ],
    "seen_titles": [
-    "[특징주]삼전·닉스,'젠슨황리스크'지속에장초반1∼2%대↓",
-    "민형배전남광주특별시장,2027년도22조163억원예산안시정연설",
     "강남집값빠진다?8년전처럼반등가능성도…한은금리인상명분커져...",
     "플래티어,AX솔루션확대로3분기누적적자절반축소…日상용화·수...",
     "SK이노베이션,AI스타트업3곳선정···사업화비용최대2000만원지...",
@@ -3286,10 +3292,12 @@
     "한투운용,'ACE글로벌반도체TOP4Plus'삼성전자비중높였다",
     "삼성전자인버스ETF5.99%·원유인버스ETN10.02%상승",
     "9달만에5천선붕괴…이젠AI가악재됐다",
-    "11월엔비디아실적발표일한국시간몇시?"
+    "11월엔비디아실적발표일한국시간몇시?",
+    "SK스퀘어목표주가150만원하향…내년주주환원최대4조8천억원",
+    "산림청·SK임업,기업림최초산림OECM등록추진…생물다양성보전협력"
    ],
    "initialized": true,
-   "last_run": "2026-11-18T01:10:31.011264+09:00"
+   "last_run": "2026-11-18T01:15:30.723685+09:00"
   }
  },
  "press_names": {
