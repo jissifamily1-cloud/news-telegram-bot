@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-17T06:25:24.826143+09:00",
-     "급락 폭등 약세 월가 엔비디아 공포지수"
-    ],
-    [
-     "2026-11-17T06:25:24.826143+09:00",
-     "하이테크 용인 SK하이닉스 성지제강 강구조물 확대 수주 수행영역"
-    ],
-    [
      "2026-11-17T06:35:23.693068+09:00",
      "어떻게 작은 풀었나 노동법 공장 분쟁"
     ],
@@ -1149,9 +1141,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=03142246645646376&mediaCodeNo=257",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=281426",
-    "http://www.worktoday.co.kr/news/articleView.html?idxno=92111",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=883804",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=903243",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963514",
@@ -2648,12 +2637,12 @@
     "https://www.koreaherald.com/article/10939742",
     "https://www.energy-news.co.kr/news/articleView.html?idxno=229845",
     "https://www.koreaittimes.com/news/articleView.html?idxno=159239",
-    "https://www.dailian.co.kr/news/view/1716077/?sc=Naver"
+    "https://www.dailian.co.kr/news/view/1716077/?sc=Naver",
+    "http://www.dailyesports.com/view.php?ud=20261117122536343474bcc1e038_27",
+    "http://www.newskr.kr/news/articleView.html?idxno=108053",
+    "http://www.newskr.kr/news/articleView.html?idxno=108059"
    ],
    "seen_titles": [
-    "[ESGPick]삼표시멘트·SK쉴더스·고려아연,ESGA등급과생물다양성복...",
-    "컬리뷰티페스타,나흘간1만4000명찾아…온라인거래액도2배↑",
-    "SKT,효성중공업과GW급AID구축협력…전력인프라확보",
     "SK에코플랜트,반도체·AI덕에웃었다…3분기영업익405%↑",
     "[마감시황]코스피,3.6%급락하며5,100선턱걸이,코스닥은670선무너...",
     "SK스퀘어,3분기영업익7조9406억원…역대최대주주환원추진",
@@ -4150,10 +4139,13 @@
     "AIexamcheatingputsKoreanindustryonalert",
     "아파트2026년11월브랜드평판...힐스테이트,롯데캐슬,래미안順",
     "U.S.ExtendsAIControlstoChina'sOverseasComputingAccess,Raisin",
-    "[현장]SKB노조\"DC사업분사로SKT만1.9조현금벼락…성장대안내놔..."
+    "[현장]SKB노조\"DC사업분사로SKT만1.9조현금벼락…성장대안내놔...",
+    "'스카웃'이예찬,농심과결별…FA신분",
+    "美,AI칩수출통제확대…삼성·SK하이닉스'촉각'",
+    "삼성전자·SK하이닉스현금성자산329조원…1년새2.4배"
    ],
    "initialized": true,
-   "last_run": "2026-11-17T12:25:22.091878+09:00"
+   "last_run": "2026-11-17T12:30:35.217417+09:00"
   }
  },
  "press_names": {
