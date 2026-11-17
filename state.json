@@ -542,11 +542,13 @@
     [
      "2026-11-17T23:00:45.739218+09:00",
      "순매도 하락 외국인 한미반도체"
+    ],
+    [
+     "2026-11-17T23:10:30.139127+09:00",
+     "김준하 측면 휘저은 김은중호의 눈도장 발견 공격수로 박상현"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10939252",
-    "http://www.newscape.co.kr/news/articleView.html?idxno=125853",
     "https://www.newsq.co.kr/news/articleView.html?idxno=500879",
     "https://www.mediapen.com/news/view/1137888",
     "https://www.wikileaks-kr.org/news/articleView.html?idxno=194683",
@@ -2044,11 +2046,11 @@
     "http://www.kjdaily.com/article.php?aid=1794881851692718276",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=731581",
     "https://www.betanews.net/article/view/beta202611170140",
-    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2379200"
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2379200",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16279308",
+    "https://www.yna.co.kr/view/AKR20261117176900007?input=1195m"
    ],
    "seen_titles": [
-    "전량수입산인데NIP밀어붙이기…고면역원성독감백신‘수급불안’...",
-    "국내30대그룹지분투자감소에도AI에는1조넘게썼다",
     "SK이노,에너지·사회문제해결우수3개AI스타트업선정…“지속가능...",
     "3Q500대기업영업익235.5%급증…반도체제외시1.7%그쳐",
     "'수백만고객'렌탈업계,AI접목사활[뉴스Q]",
@@ -3546,10 +3548,12 @@
     "한미반도체2.59%하락…외국인순매도전환",
     "추미애지사SNS\"반도체는속도전\"...1281조원투자에행정지원속도",
     "코스피,반도체이슈에5000선'붕괴'...종가기준9개월만",
-    "SK이노베이션,AI사회문제해결스타트업3곳선정…최대2000만원지원"
+    "SK이노베이션,AI사회문제해결스타트업3곳선정…최대2000만원지원",
+    "미국증시전망,나스닥2.49%급락뒤반등시도…엔비디아실적·10년물...",
+    "측면휘저은김준하·공격수로눈도장박상현…김은중호의발견"
    ],
    "initialized": true,
-   "last_run": "2026-11-17T23:05:30.002227+09:00"
+   "last_run": "2026-11-17T23:10:30.139127+09:00"
   }
  },
  "press_names": {
