@@ -1226,11 +1226,13 @@
     [
      "2026-11-17T19:50:30.170362+09:00",
      "3사 실적 독일 지수 메모리 도달 호조 가격 DDR5"
+    ],
+    [
+     "2026-11-17T19:55:22.778629+09:00",
+     "장기계 삼성 짬짜미 하이닉스 보니 의심 법원 범용D램만 결정문"
     ]
    ],
    "seen_urls": [
-    "https://www.newsway.co.kr/news/view?ud=2026111708273374337",
-    "https://www.sentv.co.kr/article/view/sentv202611170013",
     "https://www.yna.co.kr/view/AKR20261117026900008?input=1195m",
     "https://www.yna.co.kr/view/AKR20261117026800008?input=1195m",
     "https://view.asiae.co.kr/article/2026111708343437661",
@@ -2728,11 +2730,11 @@
     "https://www.ggilbo.com/news/articleView.html?idxno=1193787",
     "http://www.biztribune.co.kr/news/articleView.html?idxno=362648",
     "http://www.segyebiz.com/newsView/20261117518237?OutUrl=naver",
-    "https://www.g-enews.com/view.php?ud=20261117193310383fbbec65dfb_1"
+    "https://www.g-enews.com/view.php?ud=20261117193310383fbbec65dfb_1",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553708532",
+    "https://www.hani.co.kr/arti/economy/global/1287825.html"
    ],
    "seen_titles": [
-    "키움證,SK하이닉스목표가180만원으로하향…\"연말조정후반등\"",
-    "美반도체급락에코스피긴장…5000선방어시험대",
     "CJ,시장밸류에이션하락에올리브영성장둔화…목표주가'뚝'[애널리...",
     "삼성·SK하이닉스현금실탄329조…1년새193조불었다",
     "키움증권,삼전35만원→29만원…하이닉스210만원→180만원",
@@ -4230,10 +4232,12 @@
     "[주식마감]'AI시험부정행위논란'에지슨이틀연속상한가…인디에...",
     "SK스퀘어,3분기영업익7조9406억원…주주환원4조3000억원추진",
     "‘1만피’넘보던코스피…2월수준회귀",
-    "메모리3사AI실적호조속독일DDR5가격지수607%도달"
+    "메모리3사AI실적호조속독일DDR5가격지수607%도달",
+    "'韓국가대표수비수'김민재,끝내마음먹었나...\"매우긍정적\"친정팀...",
+    "‘삼성·하이닉스짬짜미의심’법원결정문보니…“범용D램만장기계..."
    ],
    "initialized": true,
-   "last_run": "2026-11-17T19:50:30.170362+09:00"
+   "last_run": "2026-11-17T19:55:22.778629+09:00"
   }
  },
  "press_names": {
