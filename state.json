@@ -1178,19 +1178,17 @@
     [
      "2026-11-17T11:15:27.644378+09:00",
      "만난 산단 반도체 노동자들 먼저 메가특구의 미래 짓는"
+    ],
+    [
+     "2026-11-17T11:20:25.513422+09:00",
+     "한국 변수 HBM 중국의 수요에도 미국 연산까지 해외 통제"
+    ],
+    [
+     "2026-11-17T11:20:25.513422+09:00",
+     "특수로 3배 엔비디아만 증가 매출 SK하이닉스 35조"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20261116138400009?input=1195m",
-    "http://www.newsfc.co.kr/news/articleView.html?idxno=82513",
-    "https://www.energy-news.co.kr/news/articleView.html?idxno=229822",
-    "https://m.skyedaily.com/news_view.html?ID=314692",
-    "https://www.edaily.co.kr/News/Read?newsId=02955286645646376&mediaCodeNo=257",
-    "http://www.finomy.com/news/articleView.html?idxno=266846",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504676",
-    "https://www.yna.co.kr/view/AKR20261116146700053?input=1195m",
-    "http://www.yonhapnewstv.co.kr/news/AKR20261116164119z3o",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1731876",
     "http://www.areyou.co.kr/news/articleView.html?idxno=96323",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504651",
     "https://zdnet.co.kr/view/?no=20261116161009",
@@ -2680,19 +2678,19 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1731950",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=281493",
     "https://www.esgeconomy.com/news/articleView.html?idxno=17430",
-    "https://www.laborplus.co.kr/news/articleView.html?idxno=41830"
+    "https://www.laborplus.co.kr/news/articleView.html?idxno=41830",
+    "https://biz.heraldcorp.com/article/10939626",
+    "https://www.fnnews.com/news/202611171100461234",
+    "https://biz.heraldcorp.com/article/10939631",
+    "https://www.sentv.co.kr/article/view/sentv202611170113",
+    "https://www.koreaherald.com/article/10939605",
+    "https://www.huffingtonpost.kr/article/262119",
+    "https://www.joongboo.com/news/articleView.html?idxno=363742731",
+    "https://view.asiae.co.kr/article/2026111707243540585",
+    "https://www.koreaittimes.com/news/articleView.html?idxno=159232",
+    "https://it.chosun.com/news/articleView.html?idxno=3000000001208"
    ],
    "seen_titles": [
-    "[통신레이더]SKT·KT·LG유플러스,전력망부터공공·기업보안까지B2...",
-    "[속보]케이씨텍,SK하이닉스와698억9551만원규모반도체장비공급계...",
-    "외국인1.4조매도에코스피3.59%급락···5100선턱걸이",
-    "미법원,삼성·하이닉스등'담합소송중지신청'기각",
-    "모건스탠리\"내후년GDP5만달러돌파...코스피1만선3~5년내지속가능...",
-    "'12월LPG가격인상어려울듯…난방수요몰리고물가부담우려에",
-    "일본·대만보다더빠진코스피왜?",
-    "ETF투자자도'삼전닉스배당'에웃는다…분배율5배껑충",
-    "[공시]케이씨텍,SK하이닉스와잇단공급계약···누적910억원",
-    "젠슨황사임후폭풍…일본반도체주흔들고한국증시도강타",
     "매각추진SK실트론,노사조정결렬…파업수순밟나",
     "'젠슨황쇼크'에하이닉스털썩…SK그룹시총장중1천조원깨지기도",
     "롯데에부는'40대여풍'…MD·마케팅베테랑대거발탁",
@@ -4182,10 +4180,20 @@
     "소형증권사7곳영업익70%급감…운용손익에엇갈린성적표",
     "NvidiaGPUShortageSeenLastingThroughFY2028,BoostingKoreanMemo",
     "전력정책을바꾸지않으면산업의미래도없다",
-    "반도체산단짓는노동자들,먼저만난메가특구의미래"
+    "반도체산단짓는노동자들,먼저만난메가특구의미래",
+    "고면역원성독감백신NIP급물살“국산화속도맞춰단계적도입해야”",
+    "\"올리브영과소평가\"됐다면서도CJ,목표주가35%↓…삼성E&A,AI·모듈러...",
+    "SK이노,‘사회문제해결’우수AI스타트업3곳선정",
+    "엑사이엔씨,본업흑자전환…평택·용인반도체공사확대",
+    "Samsung,SKhynixspendW88troncapexascashholdingssoar",
+    "30대그룹외부기업투자에서'AI비중'3배이상늘었다:2년반동안...",
+    "SSG,FA오태곤과3년11억원에재계약...\"특별한팀에서선수생활이...",
+    "오파칼림임상보류두달째…SK바이오팜,'1조신약'도입언제",
+    "미국,중국의해외AI연산까지통제…한국HBM수요에도변수",
+    "SK하이닉스,AI특수로美매출3배증가…엔비디아만35조"
    ],
    "initialized": true,
-   "last_run": "2026-11-17T11:15:27.644378+09:00"
+   "last_run": "2026-11-17T11:20:25.513422+09:00"
   }
  },
  "press_names": {
