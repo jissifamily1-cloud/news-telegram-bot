@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-17T19:10:29.115275+09:00",
-     "파고든 해외 커닝업체 입사시험 대기업"
-    ],
-    [
      "2026-11-17T19:20:29.896924+09:00",
      "흔들리는 떨어졌다 D램 가격도 반도체"
     ],
@@ -282,10 +278,13 @@
     [
      "2026-11-18T00:55:33.391656+09:00",
      "인버스 상승 원유 삼성전자 ETF ETN"
+    ],
+    [
+     "2026-11-18T01:10:31.011264+09:00",
+     "엔비디아 몇시 11월 실적발표일 한국시간"
     ]
    ],
    "seen_urls": [
-    "http://www.breaknews.com/1251457",
     "https://biz.heraldcorp.com/article/10939287",
     "https://www.etnews.com/20261117000035",
     "https://www.smartbizn.com/news/articleView.html?idxno=159660",
@@ -1784,10 +1783,10 @@
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=94565",
     "http://www.bizwnews.com/news/articleView.html?idxno=152125",
     "http://www.kjdaily.com/article.php?aid=1794930625692616276",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850644&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850644&plink=ORI&cooper=NAVER",
+    "https://www.wikitree.co.kr/articles/1175367"
    ],
    "seen_titles": [
-    "美AI주급락에코스피5000선위협…삼성전자2%↓",
     "[특징주]삼전·닉스,'젠슨황리스크'지속에장초반1∼2%대↓",
     "민형배전남광주특별시장,2027년도22조163억원예산안시정연설",
     "강남집값빠진다?8년전처럼반등가능성도…한은금리인상명분커져...",
@@ -3286,10 +3285,11 @@
     "[뉴욕증시개장]엔비디아실적앞두고3대지수하락…다우0.7%↓",
     "한투운용,'ACE글로벌반도체TOP4Plus'삼성전자비중높였다",
     "삼성전자인버스ETF5.99%·원유인버스ETN10.02%상승",
-    "9달만에5천선붕괴…이젠AI가악재됐다"
+    "9달만에5천선붕괴…이젠AI가악재됐다",
+    "11월엔비디아실적발표일한국시간몇시?"
    ],
    "initialized": true,
-   "last_run": "2026-11-18T01:05:35.913220+09:00"
+   "last_run": "2026-11-18T01:10:31.011264+09:00"
   }
  },
  "press_names": {
