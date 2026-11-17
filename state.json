@@ -566,19 +566,13 @@
     [
      "2026-11-18T08:10:30.758664+09:00",
      "KKR 급선회 매각 요청에 협상 연장 산업부 SK도시가스"
+    ],
+    [
+     "2026-11-18T08:15:26.067394+09:00",
+     "AI가 가치는 넘어선다면 인간을 인간의 무엇인"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026111710101792834",
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=369899",
-    "https://www.epnc.co.kr/news/articleView.html?idxno=409856",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1312579",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=173250",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849292&plink=ORI&cooper=NAVER",
-    "https://www.khan.co.kr/article/202611171016001",
-    "http://www.queen.co.kr/news/articleView.html?idxno=466432",
-    "https://www.pennmike.com/news/articleView.html?idxno=132006",
-    "https://www.edaily.co.kr/News/Read?newsId=03093046645646704&mediaCodeNo=257",
     "https://biz.sbs.co.kr/article_hub/20000346898?division=NAVER",
     "https://www.greened.kr/news/articleView.html?idxno=354801",
     "https://basketkorea.com/news/newsview.php?ncode=1065572341517707",
@@ -2068,19 +2062,19 @@
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611131503402440101757",
     "https://www.fnnews.com/news/202611180740235318",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=884410",
-    "https://dealsite.co.kr/articles/172921"
+    "https://dealsite.co.kr/articles/172921",
+    "https://www.edaily.co.kr/News/Read?newsId=01915526645647032&mediaCodeNo=257",
+    "https://www.news1.kr/finance/general-stock/6357450",
+    "https://www.jasm.co.kr/news/view/325601/?sc=Naver",
+    "https://www.newsian.co.kr/news/articleView.html?idxno=101459",
+    "https://www.insight.co.kr/news/582480",
+    "https://www.dt.co.kr/article/12095825",
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065567909515335",
+    "https://www.newspim.com/news/view/20261118000070",
+    "https://www.newsis.com/view/NISX20261118_0003872420",
+    "https://www.ajunews.com/view/20261116202730600"
    ],
    "seen_titles": [
-    "광주군공항이전속도낼듯",
-    "대규모항공산업의풍부한임대수요…‘영종SKVIEW’특별분양눈길",
-    "통신사에서'AI인프라설계자'로…SK텔레콤,15GW데이터센터에승부수",
-    "라우프-SKT'굿체인지캠페인',한국PR대상조직문화부문최우수상",
-    "삼성전자·SK하이닉스현금성자산329조원돌파…1년새193조급증",
-    "美AI주'쇼크'속...코스피&삼전닉스'장중뚝'",
-    "오태곤,SSG와FA계약…3년최대11억원",
-    "30대그룹,타법인투자줄였어도AI엔1조넘게썼다",
-    "30대그룹,타법인출자줄이면서도AI에는2년반새1.1조원'베팅'…...",
-    "[속보]코스피,장중또5000붕괴…외국인2500억원매도에삼성전자·...",
     "오태곤,3년11억원에SSG잔류…두번째FA도‘동행’",
     "[증시타임]뉴욕증시또급락,AI중심의상승장끝나가나?",
     "[데이터뉴스룸]에너지業50곳1년새직원일자리499곳감소…한전·...",
@@ -3570,10 +3564,20 @@
     "[더벨][thebelldesk]단일종목레버리지ETF의진짜범인",
     "\"10년모은4억원이1억원대로\"…SK하이닉스에투자한은행원의사연",
     "SK이노베이션,e-SAF원료그린수소생산용촉매개발",
-    "산업부요청에SK도시가스매각급선회…KKR협상연장"
+    "산업부요청에SK도시가스매각급선회…KKR협상연장",
+    "프리마켓서삼전3%·SK닉스5%대급등…저가매수속엔비디아실적호재...",
+    "'엔비디아호실적'프리마켓서삼성전자4%SK하이닉스5%반등",
+    "엔비디아,매출103%증가호실적에시간외3%대반등",
+    "[핫스톡]엔비디아'깜짝실적'에삼전3.99%·SK하닉5.83%↑",
+    "젠슨황없는엔비디아,실적도예상넘었다...삼전·닉스주주들'기대...",
+    "엔비디아호실적에반도체반등…삼전·하닉,프리마켓급등",
+    "SK이노베이션,차세대항공유e-SAF핵심기술확보…그린수소생산효율...",
+    "[특징주]엔비디아훈풍에'삼전닉스'급등…SK하이닉스5%↑",
+    "엔비디아호실적에…프리마켓서삼전4%·SK하닉5%상승",
+    "[김택환의NextKorea]AI가인간을넘어선다면…인간의가치는무엇인..."
    ],
    "initialized": true,
-   "last_run": "2026-11-18T08:10:30.758664+09:00"
+   "last_run": "2026-11-18T08:15:26.067394+09:00"
   }
  },
  "press_names": {
