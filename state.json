@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-17T18:25:21.735095+09:00",
-     "탕정테크노산단 지연 진입도로 임시개통 천안방향"
-    ],
-    [
      "2026-11-17T18:30:42.053884+09:00",
      "증권사들 순익 악재 울상 급감 하락에 주가 겹친"
     ],
@@ -325,8 +321,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261117000188",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=301355",
     "https://economist.co.kr/article/view/ecn202611170002",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=211492",
     "https://www.joongangenews.com/news/articleView.html?idxno=564356",
@@ -1824,11 +1818,11 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=627942",
     "https://view.asiae.co.kr/article/2026111800150870750",
     "https://m.sports.naver.com/basketball/article/065/0000304828",
-    "https://www.kmib.co.kr/article/20261117501957"
+    "https://www.kmib.co.kr/article/20261117501957",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2378292",
+    "http://www.kjdaily.com/article.php?aid=1794929067692613276"
    ],
    "seen_titles": [
-    "코스피,美AI주급락에하락출발…삼전닉스동반약세",
-    "[T나는경제]500대기업3분기영업익236%↑…삼전닉스빼면1.7%↑그쳐",
     "30대그룹,지분투자줄여도AI엔1조원쏟았다",
     "신한카드,포인트로애플·삼성전자주식산다…자동투자서비스오픈",
     "[속보]삼전닉스'현금곳간'약330조…1년새193조급증",
@@ -3326,10 +3320,12 @@
     "[속보]엔비디아주가155달러선약세…실적발표앞두고8.5%변동가능...",
     "세계SMR기업·전문가경남집결…경남SMR국제콘퍼런스개막",
     "[EASL]“이정현은놀라운선수”오브라이언트의찬사,브롱코스전엔...",
-    "반도체주추풍낙엽…연초로돌아간코스피,5000무너졌다"
+    "반도체주추풍낙엽…연초로돌아간코스피,5000무너졌다",
+    "SKAX,협력사AI역량강화…구매·계약업무에AI서비스확대",
+    "코스피5천선붕괴에도…개미들레버리지ETF집중매수"
    ],
    "initialized": true,
-   "last_run": "2026-11-18T00:25:21.601471+09:00"
+   "last_run": "2026-11-18T00:30:38.701441+09:00"
   }
  },
  "press_names": {
