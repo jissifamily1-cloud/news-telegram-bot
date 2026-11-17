@@ -269,8 +269,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.tf.co.kr/read/economy/2389619.htm",
-    "https://www.etnews.com/20261117000066",
     "https://www.cstimes.com/news/articleView.html?idxno=728192",
     "https://www.mediapen.com/news/view/1137908",
     "http://www.datanews.co.kr/news/article.html?no=147638",
@@ -1768,11 +1766,11 @@
     "https://www.chosun.com/international/us/2026/11/18/OZV6NX3NCJEVXG3SMLHEE2QEAM/",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611121121455440774",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171349147710452",
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=67917"
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=67917",
+    "https://www.fnnews.com/news/202611180625022345",
+    "https://magazine.hankyung.com/business/article/202611122847b"
    ],
    "seen_titles": [
-    "5,000도위태로운데…“코스피1만온다”장밋빛전망,왜?",
-    "美AI매도세또덮쳤다…코스피장중5000붕괴,삼전닉스내리막길",
     "코스피5000선출발…삼전닉스도약세",
     "젠슨황복귀불투명…삼전닉스약세,코스피5000선하회",
     "코스피,외국인매도에5000선위태…장초반1%대하락",
@@ -3270,10 +3268,12 @@
     "이념밖에모르는강경파비서실장…기업로비셈법도달라진다",
     "용인반도체산단용수공급CM발주초읽기",
     "정유사‘속앓이’…수출은‘넘버2’넘보는데,안방은석유최고가격...",
-    "SK하이닉스'트리니티팹'개요"
+    "SK하이닉스'트리니티팹'개요",
+    "[뉴욕증시]3대지수약세속반도체반등…실적발표앞둔엔비디아,0...",
+    "‘돈맥경화’공포에출렁였지만…K-인프라웃는다?[증시블랙홀데이..."
    ],
    "initialized": true,
-   "last_run": "2026-11-18T06:25:22.649674+09:00"
+   "last_run": "2026-11-18T06:30:44.981379+09:00"
   }
  },
  "press_names": {
