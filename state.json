@@ -1222,13 +1222,17 @@
     [
      "2026-11-17T18:30:42.053884+09:00",
      "2월 내년 이번에도 인사 서왕진 법관 조희대 탄핵 하면 답답"
+    ],
+    [
+     "2026-11-17T18:35:24.892021+09:00",
+     "미디어 방송 지역방송 활용도 저조 양극화"
+    ],
+    [
+     "2026-11-17T18:35:24.892021+09:00",
+     "셔틀 선정 충북업체 M17 SK하이닉스"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/general-stock/6356093",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=301333",
-    "https://www.insight.co.kr/news/582312",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611121318353080103635",
     "https://www.dailian.co.kr/news/view/1715826/?sc=Naver",
     "https://www.kpinews.kr/newsView/1065567288791723",
     "https://www.newsian.co.kr/news/articleView.html?idxno=101398",
@@ -2724,13 +2728,13 @@
     "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006700",
     "https://biz.sbs.co.kr/article_hub/20000347011?division=NAVER",
     "https://www.nextdaily.co.kr/news/articleView.html?idxno=255017",
-    "https://www.ikbc.co.kr/article/view/kbc202611170082"
+    "https://www.ikbc.co.kr/article/view/kbc202611170082",
+    "https://www.ccdn.co.kr/news/articleView.html?idxno=1111760",
+    "http://www.queen.co.kr/news/articleView.html?idxno=466505",
+    "https://www.mediaus.co.kr/news/articleView.html?idxno=319050",
+    "https://www.ccdn.co.kr/news/articleView.html?idxno=1111759"
    ],
    "seen_titles": [
-    "CJ,올리브영美사업확대...내년실적회복-SK證",
-    "[증시전망대]젠슨황스캔들·미반도체규제직격탄…코스피'5,000선...",
-    "美반도체급락…삼성전자·SK하이닉스프리마켓서2%하락",
-    "[분석]반도체'빅2'유동성329조원돌파…AI메모리투자·주주환원총...",
     "\"오늘계좌열기무섭다\"...엔비디아4%대급락에국장도'비상'",
     "[더벨]KT클라우드,조단위신규투자유치시동",
     "업스테이지,캐나다코히어와손잡았다…소버린AI글로벌공략",
@@ -4226,10 +4230,14 @@
     "순익급감등악재겹친증권사들…주가하락에'울상'",
     "[이슈체크]손절못하고버텼더니…SK하닉몰빵김PD는-53%,이작가는...",
     "K-water,한국WWF와물·자연지속가능성전략협약…'워터&네이처포지...",
-    "서왕진\"아답답,이번에도조희대탄핵못하면...내년2월법관인사,..."
+    "서왕진\"아답답,이번에도조희대탄핵못하면...내년2월법관인사,...",
+    "SK하이닉스,'맑고깨끗한석남천만들기'동참",
+    "삼성·SK하이닉스,AI반도체승부수…3분기까지R&D·설비투자140조원...",
+    "방송·미디어AI활용도양극화…지역방송저조",
+    "SK하이닉스M17셔틀충북업체선정"
    ],
    "initialized": true,
-   "last_run": "2026-11-17T18:30:42.053884+09:00"
+   "last_run": "2026-11-17T18:35:24.892021+09:00"
   }
  },
  "press_names": {
