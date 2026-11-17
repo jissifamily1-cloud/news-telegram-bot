@@ -269,7 +269,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=903290",
     "https://www.mt.co.kr/stock/2026/11/17/2026111709184563003",
     "https://www.kwnews.co.kr/article/20261117500076",
     "https://www.ziksir.com/news/articleView.html?idxno=153567",
@@ -1768,10 +1767,10 @@
     "https://www.wikitree.co.kr/articles/1175367",
     "http://www.kjdaily.com/article.php?aid=1794931715692583276",
     "https://www.woodkorea.co.kr/news/articleView.html?idxno=92636",
-    "https://www.joongangenews.com/news/articleView.html?idxno=564669"
+    "https://www.joongangenews.com/news/articleView.html?idxno=564669",
+    "http://www.issuenbiz.com/news/articleView.html?idxno=81700"
    ],
    "seen_titles": [
-    "플래티어,AX솔루션확대로3분기누적적자절반축소…日상용화·수...",
     "SK이노베이션,AI스타트업3곳선정···사업화비용최대2000만원지...",
     "코스피,美AI주약세에5000선'위태'…1%대하락",
     "엔비디아실적경계감·AI위축우려…코스피한때5000밑으로",
@@ -3270,10 +3269,11 @@
     "11월엔비디아실적발표일한국시간몇시?",
     "SK스퀘어목표주가150만원하향…내년주주환원최대4조8천억원",
     "산림청·SK임업,기업림최초산림OECM등록추진…생물다양성보전협력",
-    "[종합]젠슨황\"이사회요청하면엔비디아CEO복귀\"…사임닷새만에..."
+    "[종합]젠슨황\"이사회요청하면엔비디아CEO복귀\"…사임닷새만에...",
+    "[뉴스이슈&비즈]젠슨황·앤트로픽·금리'삼중고'에코스피9개월만에..."
    ],
    "initialized": true,
-   "last_run": "2026-11-18T01:30:39.074594+09:00"
+   "last_run": "2026-11-18T01:35:24.138884+09:00"
   }
  },
  "press_names": {
