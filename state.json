@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-17T18:10:32.654687+09:00",
-     "롯데 희망 SSG 2027시즌 마운드 다시 밝혔다 보는"
-    ],
-    [
-     "2026-11-17T18:10:32.654687+09:00",
-     "군대 침투하나 산업현장 경계강화 뚫은 시험장 AI안경 4대기업 전군"
-    ],
-    [
      "2026-11-17T18:15:30.057960+09:00",
      "기업림 기업 생물 민간 지속적 다양성 보전 관리"
     ],
@@ -334,13 +326,21 @@
     [
      "2026-11-18T00:10:30.486992+09:00",
      "내린 무너졌다 시대 묻지마 5000도 투자 코스피"
+    ],
+    [
+     "2026-11-18T00:15:29.543193+09:00",
+     "출범 이후 아래 통합지주사 부채비율"
+    ],
+    [
+     "2026-11-18T00:15:29.543193+09:00",
+     "하락세 연속 때보다 매섭은 코로나 7개월 팔아치운"
+    ],
+    [
+     "2026-11-18T00:15:29.543193+09:00",
+     "착공시 호남반도체 흡수할 건설현장 숙련공"
     ]
    ],
    "seen_urls": [
-    "https://www.wikitree.co.kr/articles/1175180",
-    "https://isplus.com/article/view/isp202611170032",
-    "https://www.cstimes.com/news/articleView.html?idxno=728189",
-    "http://www.ikld.kr/news/articleView.html?idxno=344286",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=326230",
     "https://ic.newdaily.co.kr/site/data/html/2026/11/17/2026111750043.html",
     "https://www.namdonews.com/news/articleView.html?idxno=929440",
@@ -1836,13 +1836,13 @@
     "https://www.sportschosun.com/baseball/2026-11-17/202611180100113420010460",
     "https://www.vegannews.co.kr/news/article.html?no=406725",
     "https://www.cbci.co.kr/news/articleView.html?idxno=627807",
-    "https://www.joongang.co.kr/article/25479584"
+    "https://www.joongang.co.kr/article/25479584",
+    "https://www.apnews.kr/news/articleView.html?idxno=3053230",
+    "http://www.kjdaily.com/article.php?aid=1794928318692576276",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=627876",
+    "http://www.gjdream.com/news/articleView.html?idxno=674439"
    ],
    "seen_titles": [
-    "[속보]코스피,6거래일만에장중5000선내줘",
-    "SK이노베이션,혁신스타트업과동행…AI로사회문제해결",
-    "코스피5008.09출발…양대시장동반약세개장",
-    "[IS피플]만족은없다,커리어하이향한'토종의맛'안영준의스텝업",
     "코스피,장초반2%하락...5000선하회",
     "SK이노베이션,AI스타트업후속사업화지원",
     "신한카드,'포인트자동투자서비스'출시",
@@ -3338,10 +3338,14 @@
     "1차지명영광후,사라진8년...연봉3800만원선수가일군기적,이제보...",
     "겨울추위로다공성세라믹제조…동결에너지절감",
     "[오천피붕괴]'5천피'마저내준코스피와1천조원깨진SK그룹…증시뒤...",
-    "코스피5000도무너졌다…막내린‘묻지마AI투자’시대"
+    "코스피5000도무너졌다…막내린‘묻지마AI투자’시대",
+    "SKAX,협력사와'AI사업기회'넓힌다…동반성장프로그램강화",
+    "SK㈜부채비율99.7%…통합지주사출범이후첫100%아래",
+    "[오천피추락]코로나때보다더매섭은하락세…7개월연속팔아치운...",
+    "\"호남반도체팹착공시건설현장숙련공싹흡수할것\""
    ],
    "initialized": true,
-   "last_run": "2026-11-18T00:10:30.486992+09:00"
+   "last_run": "2026-11-18T00:15:29.543193+09:00"
   }
  },
  "press_names": {
