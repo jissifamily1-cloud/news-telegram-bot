@@ -1113,7 +1113,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261116001280",
     "https://www.news1.kr/local/daegu-gyeongbuk/6355799",
     "http://www.newswatch.kr/news/articleView.html?idxno=81915",
     "http://www.kjdaily.com/article.php?aid=1794816317692461276",
@@ -2612,10 +2611,10 @@
     "https://www.gokorea.kr/news/articleView.html?idxno=886069",
     "https://www.etoday.co.kr/news/view/2649194",
     "https://www.tokenpost.kr/news/blockchain/439570",
-    "http://www.kjdaily.com/article.php?aid=1794886866692595276"
+    "http://www.kjdaily.com/article.php?aid=1794886866692595276",
+    "https://www.dailian.co.kr/news/view/1716085/?sc=Naver"
    ],
    "seen_titles": [
-    "모건스탠리\"3~5년내韓코스피1만선지속가능\"",
     "효성중공업·SKT,AI데이터센터전력인프라구축협약",
     "美법원,삼전닉스ㆍ마이크론D램담합소송진행허용",
     "SK하이닉스8%급락…SK그룹시총1000조'턱걸이'",
@@ -4114,10 +4113,11 @@
     "코스피5,000선붕괴위기,반도체업종까지흔들리는이유는?",
     "\"알짜사업은SK호라이즌으로\"…SKB노조,3대분사대책요구",
     "[로빈후드온체인]테이크투인터랙티브거래대금이하루만에8.3배로...",
-    "[오전장]옵토닉스183%급등·계양전기상한가"
+    "[오전장]옵토닉스183%급등·계양전기상한가",
+    "[현장]DC분사에뿔난SKB노조…\"영업익1000억빠지는데성장재원전..."
    ],
    "initialized": true,
-   "last_run": "2026-11-17T12:45:25.077785+09:00"
+   "last_run": "2026-11-17T12:50:26.916935+09:00"
   }
  },
  "press_names": {
