@@ -434,12 +434,13 @@
     [
      "2026-11-18T07:25:20.618689+09:00",
      "알아야 경제뉴스 국내외"
+    ],
+    [
+     "2026-11-18T07:30:35.151065+09:00",
+     "반등 서프라이즈 시간외 없는 실적은 젠슨"
     ]
    ],
    "seen_urls": [
-    "http://www.paxetv.com/news/articleView.html?idxno=287164",
-    "http://www.metroseoul.co.kr/article/20261117500081",
-    "https://www.newspim.com/news/view/20261117000339",
     "https://www.g-enews.com/view.php?ud=202611170934557537fbbec65dfb_1",
     "http://www.iminju.net/news/articleView.html?idxno=172569",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=173247",
@@ -1936,12 +1937,12 @@
     "https://www.ikbc.co.kr/article/view/kbc202611180004",
     "https://news.tvchosun.com/site/data/html_dir/2026/11/18/2026111890061.html",
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=719878",
-    "https://www.fntimes.com/html/view.php?ud=202611180709235657141825007d_18"
+    "https://www.fntimes.com/html/view.php?ud=202611180709235657141825007d_18",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=887544",
+    "https://www.newspim.com/news/view/20261118000038",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611180017&t=NN"
    ],
    "seen_titles": [
-    "SK스퀘어주가,11월17일장중674,500원1.96%하락",
-    "한투운용,ACE글로벌반도체TOP4Plus리밸런싱…삼성전자비중19%대로...",
-    "[개장시황]코스피,美반도체쇼크에1%대약세…5010선등락",
     "[프로야구]KBOFA1호계약탄생…SSG,'9시의남자'오태곤과3년11억...",
     "8조6905억원K2계약에서발칸협정까지…동유럽서맞붙은한국과중...",
     "[이원두칼럼]깐부추락,한국반도체AI\"비관할필요없다\"",
@@ -3438,10 +3439,13 @@
     "젠슨황없는엔비디아,3분기매출155조원…시간외주가반등",
     "젠슨황없는엔비디아,'역대최대'매출전망치뛰어넘었다…시간외3...",
     "전남광주통합특별시,첨단산업육성과재정확보...27개시군구균형발...",
-    "[KFT모닝브리프]2026.11.18—오늘꼭알아야할국내외경제뉴스"
+    "[KFT모닝브리프]2026.11.18—오늘꼭알아야할국내외경제뉴스",
+    "엔비디아주가,3분기'호실적'에시간외거래서3%반등",
+    "[AIMY증시전망]엔비디아깜짝실적…코스피'안도랠리'기대",
+    "젠슨황없는첫실적은'서프라이즈'...시간외3%대'반등'"
    ],
    "initialized": true,
-   "last_run": "2026-11-18T07:25:20.618689+09:00"
+   "last_run": "2026-11-18T07:30:35.151065+09:00"
   }
  },
  "press_names": {
