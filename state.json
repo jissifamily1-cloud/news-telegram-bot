@@ -186,12 +186,17 @@
     [
      "2026-11-18T05:55:21.789432+09:00",
      "배터리 순위 조선 재편 신용공여 지고 석화 뜨고 방산 금융권"
+    ],
+    [
+     "2026-11-18T06:00:42.761488+09:00",
+     "누적 3분기 제약업계 매출 TOP10 실적 견인"
+    ],
+    [
+     "2026-11-18T06:00:42.761488+09:00",
+     "현대차 엑스레이도 SK가 삼성 공습에 스마트안경 속인다"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20115219",
-    "https://www.mk.co.kr/article/12210880",
-    "https://www.news1.kr/finance/general-stock/6356239",
     "https://www.pointe.co.kr/news/articleView.html?idxno=87868",
     "https://www.ilovepc.co.kr/news/articleView.html?idxno=61354",
     "https://economist.co.kr/article/view/ecn202611170003",
@@ -1688,12 +1693,12 @@
     "https://www.geconomy.co.kr/news/article.html?no=325773",
     "https://www.geconomy.co.kr/news/article.html?no=325774",
     "https://www.enetnews.co.kr/news/articleView.html?idxno=56477",
-    "https://www.yna.co.kr/view/AKR20261117157900002?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261117157900002?input=1195m",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261118055417cq1",
+    "https://www.monews.co.kr/news/articleView.html?idxno=415521",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=627665"
    ],
    "seen_titles": [
-    "“코스피5000선마저붕괴”…美반도체쇼크에외국인매도",
-    "美AI악재에외인‘팔자’…코스피5000선사수공방[마켓시그널]",
-    "젠슨황충격에...3대지수일제히↓[뉴욕증시]",
     "코스피,美반도체급락여파1%대↓…장중5000선하회[개장시황]",
     "[오늘일본은]개인정보146만명분유출후폭풍…일본차량공유회원1만...",
     "[디지털포스트모닝픽]샘올트먼'또'…\"AI반도체수요,실제보다부...",
@@ -3190,10 +3195,13 @@
     "미국,중국의해외AI반도체이용까지차단…미·중기술패권갈등격...",
     "코스피5000선무너졌다…외국인1조4000억원매도에증시'휘청'",
     "[이넷뉴스브랜드평판]한국전력,태양광에너지상장기업11월1위...한...",
-    "조선·방산뜨고석화·배터리지고…금융권신용공여순위재편"
+    "조선·방산뜨고석화·배터리지고…금융권신용공여순위재편",
+    "기업들도'AI커닝'비상…\"채용평가방식바꿔야\"",
+    "제약업계3분기누적실적,TOP10매출견인",
+    "[보안비상]\"엑스레이도속인다\"스마트안경공습에삼성·현대차·SK가..."
    ],
    "initialized": true,
-   "last_run": "2026-11-18T05:55:21.789432+09:00"
+   "last_run": "2026-11-18T06:00:42.761488+09:00"
   }
  },
  "press_names": {
