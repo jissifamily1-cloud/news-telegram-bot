@@ -574,17 +574,33 @@
     [
      "2026-11-19T08:25:25.467341+09:00",
      "IPO 3자 기대감 엔트로픽 정상회담"
+    ],
+    [
+     "2026-11-19T08:30:38.814954+09:00",
+     "수급 코스피 지켜낼까 널뛰는 외국인 5천피"
+    ],
+    [
+     "2026-11-19T08:30:38.814954+09:00",
+     "고려아 정보접근성 1위"
+    ],
+    [
+     "2026-11-19T08:30:38.814954+09:00",
+     "SK바이오팜 KT"
+    ],
+    [
+     "2026-11-19T08:30:38.814954+09:00",
+     "평가개선 공동 8곳 1위"
+    ],
+    [
+     "2026-11-19T08:30:38.814954+09:00",
+     "경영성과 감안한 순위"
+    ],
+    [
+     "2026-11-19T08:30:38.814954+09:00",
+     "선방에도 목표가 발목 반도체 소재 환율에 한솔케미칼"
     ]
    ],
    "seen_urls": [
-    "https://www.sentv.co.kr/article/view/sentv202611180075",
-    "https://www.ajunews.com/view/20261118114652858",
-    "https://www.newsway.co.kr/news/view?ud=2026111810453276117",
-    "https://biz.heraldcorp.com/article/10941063",
-    "https://biz.heraldcorp.com/article/10941041",
-    "https://www.sedaily.com/article/20115865",
-    "https://www.fnnews.com/news/202611180831364394",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716281",
     "https://www.etoday.co.kr/news/view/2649740",
     "https://www.ntoday.co.kr/news/articleView.html?idxno=130938",
     "http://www.iminju.net/news/articleView.html?idxno=172653",
@@ -2076,17 +2092,17 @@
     "http://www.kjdaily.com/article.php?aid=1795043758692866276",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611101416293040104760",
     "https://www.m-economynews.com/news/article.html?no=73266",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=305362"
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=305362",
+    "https://www.news1.kr/finance/general-stock/6358874",
+    "https://www.newsis.com/view/NISX20261119_0003874225",
+    "https://biz.sbs.co.kr/article_hub/20000347471?division=NAVER",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611121514333560108570",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611111131259480104587",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611121446084280106549",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611110802442000106752",
+    "https://www.mk.co.kr/article/12213230"
    ],
    "seen_titles": [
-    "SK텔레콤,AI기반무인자율이송기술로5년연속장관상수상",
-    "SKT,AI-RAN무인자율이송기술로전파방송기술대상5년연속수상",
-    "코스피영업익264%폭증에도적자기업두배로…\"반도체만웃었다\"",
-    "코스피상장사영업익264%급증…삼전·닉스가견인[투자360]",
-    "SK하이닉스“휴머노이드용메모리포트폴리오강화할것”",
-    "올해코스피영업익증가분83%가삼전닉스몫…코스닥은3분기순손실",
-    "SKT,AI통신망으로자율주행기능없이도차량무인운행",
-    "SKT,AI-RAN으로차량직접제어…전파방송기술대상5년연속수상",
     "엔비디아,호실적에시간외서5%↑⋯AI인프라·반도체도방긋",
     "코스피상장사순이익전분기比30%↓...\"흑자기업줄었다\"",
     "[민주유통가]SK인텔릭스·로보락·세라젬",
@@ -3578,10 +3594,18 @@
     "[오늘IR일정]현대모비스·삼성E&A등57개사",
     "[더벨][thebellLeagueTable|2026이사회평가]삼성전자이사회평가...",
     "상장사3곳중2곳4분기실적전망하향...한전·엘앤에프적자전환예...",
-    "[굿모닝!글로벌뉴욕증시]엔트로픽IPO기대감및3자정상회담등저..."
+    "[굿모닝!글로벌뉴욕증시]엔트로픽IPO기대감및3자정상회담등저...",
+    "KB증권\"AI규제,수요못꺾어…삼성전자·SK하이닉스최선호\"",
+    "해시드,AI서비스개발해커톤개최…기업·개발자협업확대",
+    "[어제장오늘장]널뛰는외국인수급…코스피5천피지켜낼까",
+    "[더벨][thebellLeagueTable|2026이사회평가]정보접근성1위고려아...",
+    "[더벨][thebellLeagueTable|2026이사회평가]SK·KT·SK바이오팜,성...",
+    "[더벨][thebellLeagueTable|2026이사회평가]평가개선공동1위8곳,...",
+    "[더벨][thebellLeagueTable|2026이사회평가]경영성과감안한순위...",
+    "“한솔케미칼,반도체소재선방에도환율에발목”…목표가↓"
    ],
    "initialized": true,
-   "last_run": "2026-11-19T08:25:25.467341+09:00"
+   "last_run": "2026-11-19T08:30:38.814954+09:00"
   }
  },
  "press_names": {
