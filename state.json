@@ -278,10 +278,13 @@
     [
      "2026-11-19T06:15:28.085365+09:00",
      "IT서비스 7사 매출 3분기 성적표 영업익 포스코DX 현대오토에버"
+    ],
+    [
+     "2026-11-19T06:20:28.740126+09:00",
+     "19일 경기 오늘의"
     ]
    ],
    "seen_urls": [
-    "http://www.weeklytoday.com/news/articleView.html?idxno=802405",
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553710587",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4445337",
     "https://www.businesspost.co.kr/BP?command=article_view&num=452275",
@@ -1780,10 +1783,10 @@
     "https://www.g-enews.com/view.php?ud=2026111905304922952bd56fbc3c_1",
     "https://www.enetnews.co.kr/news/articleView.html?idxno=56535",
     "https://www.sidae.com/article/2026111809210855744",
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=768501"
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=768501",
+    "https://www.yna.co.kr/view/AKR20261118190800007?input=1195m"
    ],
    "seen_titles": [
-    "[위클리오늘]SK이노베이션,SK인텔릭스(11.18)",
     "[공식발표]'현역선수로는7년만'슈퍼스타김도영,2026일구대상수상...",
     "국채선물하락출발…엔비디아실적호조에코스피5천선탈환",
     "미국AI데이터센터규제반도체에'전화위복'되나,JP모간\"빅테크재...",
@@ -3282,10 +3285,11 @@
     "현대차·SK온미국배터리합작사,조지아공급망가동과2027년완전상...",
     "[이넷뉴스브랜드평판]LG에너지솔루션,2차전지상장기업11월1위...삼...",
     "이준석\"법기술자들정계떠나야…AI로입법생산성경쟁을\"",
-    "IT서비스7사3분기성적표…현대오토에버매출16%↑,포스코DX영업익..."
+    "IT서비스7사3분기성적표…현대오토에버매출16%↑,포스코DX영업익...",
+    "◇오늘의경기(19일)"
    ],
    "initialized": true,
-   "last_run": "2026-11-19T06:15:28.085365+09:00"
+   "last_run": "2026-11-19T06:20:28.740126+09:00"
   }
  },
  "press_names": {
