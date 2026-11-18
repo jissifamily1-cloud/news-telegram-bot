@@ -782,11 +782,13 @@
     [
      "2026-11-18T22:20:28.638343+09:00",
      "공급망도 수입금지 AI데이터센터 통신부품 촉각 중국산"
+    ],
+    [
+     "2026-11-18T22:25:21.492859+09:00",
+     "투톱 향방은 이후 삼성전자 정규장 SK하이닉스 올랐다 반도체"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026111810381226870",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=452255",
     "https://www.pointe.co.kr/news/articleView.html?idxno=87970",
     "https://www.biotimes.co.kr/news/articleView.html?idxno=36266",
     "https://www.edaily.co.kr/News/Read?newsId=02633846645647032&mediaCodeNo=257",
@@ -2284,11 +2286,11 @@
     "https://news.cpbc.co.kr/article/1177130?division=NAVER",
     "https://www.sedaily.com/article/20116190",
     "http://www.inews24.com/view/2027322",
-    "https://www.edaily.co.kr/News/Read?newsId=04719926645647032&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=04719926645647032&mediaCodeNo=257",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716713",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=628421"
    ],
    "seen_titles": [
-    "SK케미칼,서귀포시와폐현수막재활용…의류·유니폼으로재탄생",
-    "SK이노베이션차세대지속가능항공유생산기술개발,사업경쟁력강화",
     "신세계AI데이터센터·미래에셋가상자산진출…대기업미래먹거리확...",
     "한국바이오협회,유럽최대투자행사참가∙∙∙'코리아나이트'첫개...",
     "최태원의제안“사회문제해결도자본주의활용…성과엔확실한경제적...",
@@ -3786,10 +3788,12 @@
     "[시사천국]'APEC개막'사상첫미·중·러정상회담…의미보다'상징성...",
     "무안군민60%광주군공항이전찬성…“이용객증가기대”",
     "딥엑스\"광주임대주택1만호,국산AI반도체실증거점으로\"",
-    "美,중국산AI데이터센터통신부품수입금지추진…韓공급망도촉각"
+    "美,중국산AI데이터센터통신부품수입금지추진…韓공급망도촉각",
+    "SK하이닉스겨울철취약계층지원1억원기탁",
+    "SK하이닉스·삼성전자정규장이후더올랐다…반도체투톱내일향방은"
    ],
    "initialized": true,
-   "last_run": "2026-11-18T22:20:28.638343+09:00"
+   "last_run": "2026-11-18T22:25:21.492859+09:00"
   }
  },
  "press_names": {
