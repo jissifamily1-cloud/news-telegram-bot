@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-18T22:20:28.638343+09:00",
-     "1만호 거점으로 광주 딥엑스 임대주택 AI반도체 국산 실증"
-    ],
-    [
-     "2026-11-18T22:20:28.638343+09:00",
-     "공급망도 수입금지 AI데이터센터 통신부품 촉각 중국산"
-    ],
-    [
      "2026-11-18T22:25:21.492859+09:00",
      "투톱 향방은 이후 삼성전자 정규장 SK하이닉스 올랐다 반도체"
     ],
@@ -190,10 +182,13 @@
     [
      "2026-11-19T04:05:22.102674+09:00",
      "26만장 악수로 공급 젠슨 가능성은 약속 황과 차질 맺은 GPU"
+    ],
+    [
+     "2026-11-19T04:20:31.119852+09:00",
+     "촉매 대응 전력 SK이노베이션 개발 변동 수전해"
     ]
    ],
    "seen_urls": [
-    "https://www.newsmap.co.kr/news/articleView.html?idxno=5440",
     "https://www.greened.kr/news/articleView.html?idxno=354898",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285889&CMPT_CD=P0010",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4445324",
@@ -1692,10 +1687,10 @@
     "http://www.breaknews.com/1252112",
     "https://www.mt.co.kr/stock/2026/11/19/2026111819575381013",
     "https://www.newsis.com/view/NISX20261118_0003872936",
-    "https://www.stnsports.co.kr/news/articleView.html?idxno=325735"
+    "https://www.stnsports.co.kr/news/articleView.html?idxno=325735",
+    "https://www.vegannews.co.kr/news/article.html?no=407428"
    ],
    "seen_titles": [
-    "SK증권,서스틴베스트하반기ESG평가서최고등급'AA'",
     "코스피,엔비디아호실적에3%대급등…5100선회복",
     "한국배임죄만유독넓다?일본,독일,영국살펴봤더니",
     "최태원,日요미우리와한일전략플랫폼출범",
@@ -3194,10 +3189,11 @@
     "양승조한국수자원공사사장,용인반도체산단첫행보",
     "오천피이끈기관…삼전닉스는숨돌리기",
     "\"젠슨황과악수로맺은약속\"…韓GPU26만장공급차질가능성은",
-    "한번지면다음엔이겼다.칸터25점,이관희4쿼터9점...삼성,LG94-8..."
+    "한번지면다음엔이겼다.칸터25점,이관희4쿼터9점...삼성,LG94-8...",
+    "[종목브리핑]SK이노베이션,변동전력대응수전해촉매개발"
    ],
    "initialized": true,
-   "last_run": "2026-11-19T04:15:32.338911+09:00"
+   "last_run": "2026-11-19T04:20:31.119852+09:00"
   }
  },
  "press_names": {
