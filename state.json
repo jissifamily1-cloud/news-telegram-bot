@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-18T22:25:21.492859+09:00",
-     "투톱 향방은 이후 삼성전자 정규장 SK하이닉스 올랐다 반도체"
-    ],
-    [
      "2026-11-18T22:35:23.143270+09:00",
      "약세 규제 우려에 홍콩 증시 속락 수출 마감"
     ],
@@ -186,10 +182,13 @@
     [
      "2026-11-19T04:20:31.119852+09:00",
      "촉매 대응 전력 SK이노베이션 개발 변동 수전해"
+    ],
+    [
+     "2026-11-19T04:25:28.144736+09:00",
+     "3배 급증 숙련공 시급하다 반도체 건설인력 대책 확보"
     ]
    ],
    "seen_urls": [
-    "https://www.greened.kr/news/articleView.html?idxno=354898",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285889&CMPT_CD=P0010",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4445324",
     "http://www.newscape.co.kr/news/articleView.html?idxno=125899",
@@ -1688,10 +1687,10 @@
     "https://www.mt.co.kr/stock/2026/11/19/2026111819575381013",
     "https://www.newsis.com/view/NISX20261118_0003872936",
     "https://www.stnsports.co.kr/news/articleView.html?idxno=325735",
-    "https://www.vegannews.co.kr/news/article.html?no=407428"
+    "https://www.vegannews.co.kr/news/article.html?no=407428",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611181802154130697"
    ],
    "seen_titles": [
-    "코스피,엔비디아호실적에3%대급등…5100선회복",
     "한국배임죄만유독넓다?일본,독일,영국살펴봤더니",
     "최태원,日요미우리와한일전략플랫폼출범",
     "SK케미칼,서귀포시와폐현수막재활용하는순환모델구축",
@@ -3190,10 +3189,11 @@
     "오천피이끈기관…삼전닉스는숨돌리기",
     "\"젠슨황과악수로맺은약속\"…韓GPU26만장공급차질가능성은",
     "한번지면다음엔이겼다.칸터25점,이관희4쿼터9점...삼성,LG94-8...",
-    "[종목브리핑]SK이노베이션,변동전력대응수전해촉매개발"
+    "[종목브리핑]SK이노베이션,변동전력대응수전해촉매개발",
+    "[사설]반도체팹건설인력3배급증,숙련공확보대책시급하다"
    ],
    "initialized": true,
-   "last_run": "2026-11-19T04:20:31.119852+09:00"
+   "last_run": "2026-11-19T04:25:28.144736+09:00"
   }
  },
  "press_names": {
