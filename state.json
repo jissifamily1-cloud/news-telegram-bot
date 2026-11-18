@@ -406,14 +406,21 @@
     [
      "2026-11-19T00:35:24.914943+09:00",
      "SK하이닉스 ETF 휴머노이드 급등 상승 레버리지"
+    ],
+    [
+     "2026-11-19T00:40:29.793258+09:00",
+     "종목 대덕전자 코스피200 편입 11개 두산퓨얼셀 정기변경"
+    ],
+    [
+     "2026-11-19T00:40:29.793258+09:00",
+     "조달 구매 HBM 줄이고 엔비디아 비용 직접 의존 반도체 줄이는"
+    ],
+    [
+     "2026-11-19T00:40:29.793258+09:00",
+     "K급식 해외 떡볶이에 파고든 구내식당 엄지척"
     ]
    ],
    "seen_urls": [
-    "https://www.insight.co.kr/news/582536",
-    "https://www.startuptoday.co.kr/news/articleView.html?idxno=819280",
-    "http://www.worktoday.co.kr/news/articleView.html?idxno=92207",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611180055&t=NN",
-    "https://news.tf.co.kr/read/economy/2390258.htm",
     "https://www.newsworker.co.kr/news/articleView.html?idxno=514675",
     "https://www.slist.kr/news/articleView.html?idxno=782771",
     "https://www.ziksir.com/news/articleView.html?idxno=153745",
@@ -1908,14 +1915,14 @@
     "https://www.donga.com/news/Economy/article/all/20261118/135049832/2",
     "https://www.vegannews.co.kr/news/article.html?no=407331",
     "https://view.asiae.co.kr/article/2026111819190278139",
-    "http://www.kjdaily.com/article.php?aid=1795015708692758276"
+    "http://www.kjdaily.com/article.php?aid=1795015708692758276",
+    "http://www.kjdaily.com/article.php?aid=1795016065692731276",
+    "https://www.chosun.com/economy/industry-company/2026/11/19/BDYQ4IA2QFDH7DZPPSZSSOVQMY/",
+    "http://www.kjdaily.com/article.php?aid=1795016004692757276",
+    "https://www.chosun.com/economy/tech_it/2026/11/19/TOTQXJ2OORGXFF7VYFSEHCOFAA/",
+    "https://www.chosun.com/economy/industry-company/2026/11/19/KFKLX4B7ZJHAVPXMHKOTC5B3OM/"
    ],
    "seen_titles": [
-    "SK케미칼이개발한'붙이는치매약',세계일류상품선정",
-    "[오늘증시]엔비디아호실적에한숨돌렸다…코스피5000선재탈환",
-    "최태원\"사회문제해결에성과보상체계도입해야\"…AI결합해새로운...",
-    "\"엔비디아살아있네\"…깜짝실적에시간외4.8%급등",
-    "'국내1위'SK케미칼치매치료제패취,세계일류상품선정",
     "[뉴스워커_SK인텔릭스]AI로봇안전성1만4700여건검증…국무총리표...",
     "엔비디아,실적·전망시장예상상회…시간외4.8%반등",
     "엔비디아AI투자계속된다…삼성·SK,HBM장기공급수혜기대",
@@ -3410,10 +3417,15 @@
     "매출부진에이자못갚은기업급증…4대은행‘깡통대출’21%늘어...",
     "SK텔레콤AI-RAN무인이송,2027년KG모빌리티실증",
     "“반도체심장에푸른허파심는다”이상일시장이그리는‘명품녹색...",
-    "휴머노이드ETF9%대급등…SK하이닉스레버리지8%대상승"
+    "휴머노이드ETF9%대급등…SK하이닉스레버리지8%대상승",
+    "삼성전자·SK하이닉스,코스피상장사순이익66%차지",
+    "포스코그룹,글로벌1위中CATL에리튬장기공급계약",
+    "코스피200정기변경…두산퓨얼셀·대덕전자등11개종목편입",
+    "엔비디아의존줄이고,HBM직접구매…AI반도체조달비용줄이는美...",
+    "떡볶이에엄지척…해외구내식당파고든‘K급식’"
    ],
    "initialized": true,
-   "last_run": "2026-11-19T00:35:24.914943+09:00"
+   "last_run": "2026-11-19T00:40:29.793258+09:00"
   }
  },
  "press_names": {
