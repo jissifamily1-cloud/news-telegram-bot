@@ -546,12 +546,13 @@
     [
      "2026-11-19T08:05:21.930777+09:00",
      "확장 가속 키움증권 데이터센터 공략 ETF 우주 영토 시장"
+    ],
+    [
+     "2026-11-19T08:10:29.223322+09:00",
+     "회복 SK바이오팜 하나 관건 오파칼림 임상 정상화 주가"
     ]
    ],
    "seen_urls": [
-    "http://www.press9.kr/news/articleView.html?idxno=86560",
-    "https://www.thepublic.kr/news/articleView.html?idxno=327280",
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083197",
     "https://www.mydaily.co.kr/page/view/2026111808384501021",
     "https://www.mstoday.co.kr/news/articleView.html?idxno=200507",
     "https://www.edaily.co.kr/News/Read?newsId=02981526645647032&mediaCodeNo=257",
@@ -2048,12 +2049,12 @@
     "https://dealsite.co.kr/articles/172864",
     "https://www.yna.co.kr/view/AKR20261119017000011?input=1195m",
     "https://www.ajunews.com/view/20261119074535789",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445445"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445445",
+    "https://www.bzeronews.com/news/articleView.html?idxno=825521",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1732211",
+    "http://www.press9.kr/news/articleView.html?idxno=86627"
    ],
    "seen_titles": [
-    "SKT,완성차무인이송기술로전파방송기술대상수상",
-    "호남반도체공장부지,삼성남쪽120만평·SK북쪽100만평'가닥'",
-    "[SK케미칼리스크]가습기살균제국가배상분담금·630억소송…바이오...",
     "SKT,기지국이차량움직이는기술로장관상…5년연속수상",
     "엔비디아깜짝실적에도코스피5000선재이탈…왜?",
     "KDI,올해성장률3.8%로상향…\"절반은반도체몫\"",
@@ -3550,10 +3551,13 @@
     "[한화세미텍의민낯]반도체키우지만…해외매출은아직‘걸음마’",
     "[전국주요신문톱뉴스](19일조간)",
     "[아주증시포커스]호재일까,추가악재일까…앤트로픽상장흥행에쏠리...",
-    "키움증권,美ETF시장공략가속…'우주데이터센터'로영토확장"
+    "키움증권,美ETF시장공략가속…'우주데이터센터'로영토확장",
+    "반도체공급망으로유럽공략…충북,'글로벌기업'유치전",
+    "4분기실적기대꺾였다…상장사3곳중2곳전망치뒷걸음",
+    "SK바이오팜,오파칼림임상정상화주가회복관건-하나證"
    ],
    "initialized": true,
-   "last_run": "2026-11-19T08:05:21.930777+09:00"
+   "last_run": "2026-11-19T08:10:29.223322+09:00"
   }
  },
  "press_names": {
