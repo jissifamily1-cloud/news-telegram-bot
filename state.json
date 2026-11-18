@@ -302,12 +302,13 @@
     [
      "2026-11-19T06:55:23.231909+09:00",
      "영향은 미국 SK하이닉스에 반도체주 희비 삼성전자 엇갈렸다 미칠"
+    ],
+    [
+     "2026-11-19T07:00:44.290189+09:00",
+     "미국의 뉴욕증시 전망 혼조 금리인상 영향 엔비디아 추가"
     ]
    ],
    "seen_urls": [
-    "https://biz.newdaily.co.kr/site/data/html/2026/11/18/2026111850149.html",
-    "https://www.mk.co.kr/article/12212214",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20261118010006948",
     "https://www.hankyung.com/article/202611184272g",
     "http://www.sisafocus.co.kr/news/articleView.html?idxno=367746",
     "https://www.hankyung.com/article/2026111843096",
@@ -1804,12 +1805,12 @@
     "https://www.viewsnnews.com/article?q=239793",
     "https://www.sidae.com/article/2026111815482155303",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=211629",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505653"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505653",
+    "https://www.ulsanpress.net/news/articleView.html?idxno=587163",
+    "https://www.news1.kr/world/usa-canada/6358823",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=447384"
    ],
    "seen_titles": [
-    "\"좋다말았네\"…코스피하락전환,'오천피'반납",
-    "SamsungElectronics,SKhynixsurgeasNvidiaeasesAIinvestmentconc",
-    "한미동맹,안보·경제협력확대했지만실행과제산적…전작권·핵잠·...",
     "\"지창욱망가뜨려1000만뷰찍더니\"…유영우신곡내준'이곳'",
     "최태원\"사회문제해결에경제적보상해야\"…새성장모델제안",
     "엔비디아'반짝효과'였나…코스피,장중하락전환해5000선아래로",
@@ -3306,10 +3307,13 @@
     "엔비디아또급락,150달러도위태",
     "젠슨황퇴진에대중반도체봉쇄강화…\"한국기업족쇄우려\"",
     "[금융게시판]하나은행,기업가업승계지원확대…농협은행·기업은행...",
-    "미국반도체주희비엇갈렸다…삼성전자·SK하이닉스에미칠영향은?"
+    "미국반도체주희비엇갈렸다…삼성전자·SK하이닉스에미칠영향은?",
+    "[영상]오늘울산은(11월19일금울산신문)",
+    "美반도체지수강보합…엔비디아·마이크론·SK하닉ADR하락",
+    "뉴욕증시,미국의추가금리인상전망등영향혼조⋯엔비디아2%대,마..."
    ],
    "initialized": true,
-   "last_run": "2026-11-19T06:55:23.231909+09:00"
+   "last_run": "2026-11-19T07:00:44.290189+09:00"
   }
  },
  "press_names": {
