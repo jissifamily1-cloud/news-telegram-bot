@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-18T07:50:27.286476+09:00",
-     "DSC 구주 빠진 신동원 거제 야호 리센느 싹쓸이"
-    ],
-    [
-     "2026-11-18T07:50:27.286476+09:00",
-     "메모리 검사업체 나서 삼전닉스서 절반 매출 증산"
-    ],
-    [
      "2026-11-18T07:55:24.533250+09:00",
      "약세 지속 SK하닉 삼전 대형주 반도체 엇갈려 낙폭"
     ],
@@ -1102,15 +1094,17 @@
     [
      "2026-11-18T13:45:26.881895+09:00",
      "대표체제서 디지털코어 사장 롯데바이오로직스 승진 오너 2세 신규"
+    ],
+    [
+     "2026-11-18T13:50:27.863582+09:00",
+     "계속 담합 3사 기각 법원 삼성 요청 소송 D램 마이크론"
+    ],
+    [
+     "2026-11-18T13:50:27.863582+09:00",
+     "돈보다 적자 많은 민기식 희망퇴직 매각 SK쉴더스 이자에"
     ]
    ],
    "seen_urls": [
-    "http://www.ikld.kr/news/articleView.html?idxno=344342",
-    "https://www.impacton.net/news/articleView.html?idxno=30516",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504967",
-    "https://www.newspim.com/news/view/20261117001258",
-    "https://www.ajunews.com/view/20261117162019727",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505153",
     "https://www.catholictimes.org/article/20261116500004",
     "http://www.popcornnews.net/news/articleView.html?idxno=140437",
     "https://www.wikileaks-kr.org/news/articleView.html?idxno=194779",
@@ -2604,15 +2598,15 @@
     "https://www.newsis.com/view/NISX20261118_0003872648",
     "https://www.newsis.com/view/NISX20261118_0003873114",
     "https://www.news2day.co.kr/article/20261118500206",
-    "https://www.fetv.co.kr/news/articleView.html?idxno=313907"
+    "https://www.fetv.co.kr/news/articleView.html?idxno=313907",
+    "http://www.newsfc.co.kr/news/articleView.html?idxno=82561",
+    "https://www.ddaily.co.kr/page/view/2026111810445760309",
+    "https://www.e-science.co.kr/news/articleView.html?idxno=140129",
+    "https://biz.newdaily.co.kr/site/data/html/2026/11/18/2026111850223.html",
+    "https://biz.sbs.co.kr/article_hub/20000347296?division=NAVER",
+    "https://www.upkoreanews.kr/news/articleView.html?idxno=101223"
    ],
    "seen_titles": [
-    "엑사이엔씨,3분기누적매출액1천485억원…영업이익전년比397%↑",
-    "【공시모니터링】SK하이닉스,매출47%증가에도온실가스집약도31%감...",
-    "SKAX,협력사120곳과AI사업협력확대…동반성장데이개최",
-    "'삼전닉스'시총2000조원붕괴…닷새만에249조원증발",
-    "'독'이된반도체쏠림…젠슨황스캔들20일만에코스피17%급락했다",
-    "삼성전자·SK하이닉스급락에도…개인은반도체레버리지담았다",
     "[현장에서만난복음]경제적풍요보다앞서야할생명과환경의가치",
     "한국투자증권,코스피200·삼성전자등연계ELW258종상장",
     "메리츠증권,3분기IB수익반등...김종민대표연임향방은",
@@ -4106,10 +4100,16 @@
     "수출도주식도AI의존…반도체호황꺾이면'이중충격'",
     "'AG금메달'女핸드볼주장권한나\"골많이넣은선수로기억되고파\"",
     "[N2숏폼]사무공간부터투자·글로벌진출까지…중기부‘K-StartHub’",
-    "롯데바이오로직스,'사장승진'오너2세대표체제서디지털코어'신규..."
+    "롯데바이오로직스,'사장승진'오너2세대표체제서디지털코어'신규...",
+    "대기업,AI·디지털금융등미래성장동력계열편입활발",
+    "대기업,AI·디지털금융투자확대…계열사통폐합도속도",
+    "SK인텔릭스,AI웰니스로봇안전관리기술고도화…국무총리표창수상",
+    "3분기코스피영업익264%폭증…삼전닉스빼면64%증가",
+    "삼성·SK·마이크론D램담합소송계속…미법원,3사요청기각",
+    "SK쉴더스민기식號,번돈보다많은이자에적자전환…희망퇴직·매각..."
    ],
    "initialized": true,
-   "last_run": "2026-11-18T13:45:26.881895+09:00"
+   "last_run": "2026-11-18T13:50:27.863582+09:00"
   }
  },
  "press_names": {
