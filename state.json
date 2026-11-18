@@ -290,12 +290,17 @@
     [
      "2026-11-19T06:45:28.833515+09:00",
      "포인트 출시 쌓이는 뚜벅뚜벅 케이뱅크 걷기만 서비스 만보기 해도"
+    ],
+    [
+     "2026-11-19T06:50:30.019953+09:00",
+     "위태 150달러도 엔비디아 급락"
+    ],
+    [
+     "2026-11-19T06:50:30.019953+09:00",
+     "기업 봉쇄 강화 족쇄 퇴진에 대중 젠슨 반도체 한국 우려"
     ]
    ],
    "seen_urls": [
-    "https://www.seoul.co.kr/news/society/2026/11/18/20261118500083?wlog_tag3=naver",
-    "https://view.asiae.co.kr/article/2026111811215311478",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=452274",
     "https://www.thepowernews.co.kr/view.php?ud=202611181117394533de3f0aa1be_7",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=92213",
     "https://biz.newdaily.co.kr/site/data/html/2026/11/18/2026111850149.html",
@@ -1792,12 +1797,12 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505648",
     "https://www.mediapen.com/news/view/1138444",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1732206",
-    "https://www.rcast.co.kr/news/articleView.html?idxno=32095"
+    "https://www.rcast.co.kr/news/articleView.html?idxno=32095",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=8577",
+    "https://www.viewsnnews.com/article?q=239793",
+    "https://www.sidae.com/article/2026111815482155303"
    ],
    "seen_titles": [
-    "청주시본예산6조원시대개막...1조4000억원미래대응자금적립",
-    "SK바이오팜,제프리스컨퍼런스참석…중장기성장전략제시",
-    "SK하이닉스주가장중4%대올라,엔비디아호실적에반도체주강세",
     "대기업계열사3개월새5곳감소…SK11곳줄이고한화6곳늘려",
     "최종현학술원·日요미우리신문,한일전략협력플랫폼출범…경제안...",
     "\"좋다말았네\"…코스피하락전환,'오천피'반납",
@@ -3294,10 +3299,13 @@
     "스페이스X넘보는앤트로픽IPO…삼성전자·SK하이닉스훈풍부나",
     "[美증시]혼조속나스닥상승·다우하락…엔비디아불안·앤트로픽상...",
     "엔비디아호실적도못막은투심…매파연준에코스피고전예상",
-    "케이뱅크,걷기만해도포인트쌓이는'뚜벅뚜벅만보기'서비스출시外"
+    "케이뱅크,걷기만해도포인트쌓이는'뚜벅뚜벅만보기'서비스출시外",
+    "[글로벌마켓뷰]뉴욕증시,엔비디아역대급실적에도연준매파충격…...",
+    "엔비디아또급락,150달러도위태",
+    "젠슨황퇴진에대중반도체봉쇄강화…\"한국기업족쇄우려\""
    ],
    "initialized": true,
-   "last_run": "2026-11-19T06:45:28.833515+09:00"
+   "last_run": "2026-11-19T06:50:30.019953+09:00"
   }
  },
  "press_names": {
