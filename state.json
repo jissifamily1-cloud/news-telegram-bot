@@ -714,10 +714,13 @@
     [
      "2026-11-18T22:35:23.143270+09:00",
      "약세 규제 우려에 홍콩 증시 속락 수출 마감"
+    ],
+    [
+     "2026-11-18T22:45:29.318471+09:00",
+     "월러 실적에 엔비디아 선물 나스닥"
     ]
    ],
    "seen_urls": [
-    "https://www.biotimes.co.kr/news/articleView.html?idxno=36266",
     "https://www.edaily.co.kr/News/Read?newsId=02633846645647032&mediaCodeNo=257",
     "https://www.sentv.co.kr/article/view/sentv202611180077",
     "http://www.popcornnews.net/news/articleView.html?idxno=140510",
@@ -2216,10 +2219,10 @@
     "https://www.edaily.co.kr/News/Read?newsId=04719926645647032&mediaCodeNo=257",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716713",
     "https://www.cbci.co.kr/news/articleView.html?idxno=628421",
-    "https://www.newsis.com/view/NISX20261118_0003874078"
+    "https://www.newsis.com/view/NISX20261118_0003874078",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=94721"
    ],
    "seen_titles": [
-    "한국바이오협회,유럽최대투자행사참가∙∙∙'코리아나이트'첫개...",
     "최태원의제안“사회문제해결도자본주의활용…성과엔확실한경제적...",
     "코스피,엔비디아호실적에하루만에5000선탈환…2%대반등",
     "SK인텔릭스,AI웰니스로봇안전체계인정받아'제품안전의날'국무총...",
@@ -3718,10 +3721,11 @@
     "美,중국산AI데이터센터통신부품수입금지추진…韓공급망도촉각",
     "SK하이닉스겨울철취약계층지원1억원기탁",
     "SK하이닉스·삼성전자정규장이후더올랐다…반도체투톱내일향방은",
-    "[올댓차이나]홍콩증시,美증시약세·수출규제우려에속락마감…..."
+    "[올댓차이나]홍콩증시,美증시약세·수출규제우려에속락마감…...",
+    "[뉴욕증시개장전]엔비디아실적에나스닥선물0.6%↑…월러\"0.5%p인..."
    ],
    "initialized": true,
-   "last_run": "2026-11-18T22:40:30.986131+09:00"
+   "last_run": "2026-11-18T22:45:29.318471+09:00"
   }
  },
  "press_names": {
