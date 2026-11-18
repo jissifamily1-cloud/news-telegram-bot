@@ -1265,7 +1265,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.newdaily.co.kr/site/data/html/2026/11/18/2026111850059.html",
     "https://biz.newdaily.co.kr/site/data/html/2026/11/18/2026111850076.html",
     "https://www.yna.co.kr/view/AKR20261118056800064?input=1195m",
     "https://www.businesspost.co.kr/BP?command=article_view&num=452252",
@@ -2764,10 +2763,10 @@
     "https://www.getnews.co.kr/news/articleView.html?idxno=887665",
     "https://www.ccdn.co.kr/news/articleView.html?idxno=1112087",
     "https://www.ccdn.co.kr/news/articleView.html?idxno=1112052",
-    "https://www.ccdn.co.kr/news/articleView.html?idxno=1112050"
+    "https://www.ccdn.co.kr/news/articleView.html?idxno=1112050",
+    "https://www.koreajoongangdaily.com/korea/public-wifi-near-csat-test-sites-switched-off-for-24-hours/12979938"
    ],
    "seen_titles": [
-    "외국인,올해코스피서221조'엑소더스'…7개월째'셀코리아'",
     "\"비효율덜어내고미래에투자\"…대기업집단,AI·금융키우고계열사...",
     "청주시내년예산첫6조원돌파…1조4천억기금적립",
     "최태원대한상의회장,세계행정학회서AI활용한새성장시스템제안",
@@ -4266,10 +4265,11 @@
     "[금융zip]BNK금융,청년창업기업에1000억원금융지원外",
     "청주시내년예산첫6조시대",
     "20~21일청주서청년고용정책팝업스토어",
-    "청주시,특례시반대확산정면돌파"
+    "청주시,특례시반대확산정면돌파",
+    "PublicWi-FinearCSATtestsitesswitchedofffor24hours"
    ],
    "initialized": true,
-   "last_run": "2026-11-18T19:15:28.502542+09:00"
+   "last_run": "2026-11-18T19:20:29.132300+09:00"
   }
  },
  "press_names": {
