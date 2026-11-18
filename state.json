@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-19T00:25:28.336052+09:00",
-     "손바뀜 회전율 노랑풍선 에이엘로봇"
-    ],
-    [
-     "2026-11-19T00:25:28.336052+09:00",
-     "규제로 안돼 시장 IPO 꺾어선 과잉 얼어붙은 활력 자본시장"
-    ],
-    [
-     "2026-11-19T00:25:28.336052+09:00",
-     "산림청 산림OECM 등록 SK임업 기업림"
-    ],
-    [
-     "2026-11-19T00:30:40.531670+09:00",
-     "수출 횡재 1조 단군 달러라는 이래"
-    ],
-    [
      "2026-11-19T00:35:24.914943+09:00",
      "확대 아이오닉5 현대차 로보택시 공급 웨이모에 공략 시장"
     ],
@@ -298,12 +282,13 @@
     [
      "2026-11-19T06:25:24.341797+09:00",
      "약정 인터넷 TM 이중 믿었다가 끝났다 요금"
+    ],
+    [
+     "2026-11-19T06:30:44.190013+09:00",
+     "상승 마감 나스닥은 강세 기술주 넘게 다우 밀리고"
     ]
    ],
    "seen_urls": [
-    "https://www.sentv.co.kr/article/view/sentv202611180108",
-    "https://www.thepublic.kr/news/articleView.html?idxno=327282",
-    "https://biz.heraldcorp.com/article/10941076",
     "https://www.businesspost.co.kr/BP?command=article_view&num=452273",
     "https://news.bizwatch.co.kr/article/industry/2026/11/18/0022",
     "https://www.100ssd.co.kr/news/articleView.html?idxno=214587",
@@ -1800,12 +1785,12 @@
     "https://www.sedaily.com/article/20116159",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171049053210416",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171049204370417",
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=768170"
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=768170",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16280251",
+    "https://www.munhwa.com/article/11632395",
+    "https://www.seoul.co.kr/news/economy/finance/2026/11/19/20261119500010?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "SK최태원,요미우리신문'맞손'…'한일신시대전략플랫폼'출범",
-    "반도체호황에청주시예산58.9%급증…6조원시대개막",
-    "엔비디아‘어닝서프’에반도체주상승주목",
     "최종현학술원·요미우리'한일신시대전략플랫폼'출범,최태원'한일...",
     "최태원,日요미우리와손잡았다…'한일경제동맹'시동",
     "SK인텔릭스'나무엑스',안전·품질관리체계고도화성과…국무총리표...",
@@ -3302,10 +3287,13 @@
     "LGU+·SKT,패시브리피터·무인이송기술로전파방송기술대상수상",
     "[반도체팹‘인력비상’]①[단독]반도체공장건설인력난…“2031...",
     "[반도체팹‘인력비상’]②신규인력투입한계…기존건설기능인...",
-    "[소비자분쟁The50㊸]\"인터넷약정끝났다\"TM말믿었다가…이중요금..."
+    "[소비자분쟁The50㊸]\"인터넷약정끝났다\"TM말믿었다가…이중요금...",
+    "미국증시혼조마감…다우561포인트급락·나스닥상승,엔비디아호실...",
+    "[속보]‘실적좋았는데…’엔비디아2.9%↓다우1.1%↓",
+    "[서울데이터랩]다우1%넘게밀리고나스닥은상승마감…기술주강세..."
    ],
    "initialized": true,
-   "last_run": "2026-11-19T06:25:24.341797+09:00"
+   "last_run": "2026-11-19T06:30:44.190013+09:00"
   }
  },
  "press_names": {
