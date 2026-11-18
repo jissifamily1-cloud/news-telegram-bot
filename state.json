@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-18T13:50:27.863582+09:00",
-     "계속 담합 3사 기각 법원 삼성 요청 소송 D램 마이크론"
-    ],
-    [
-     "2026-11-18T13:50:27.863582+09:00",
-     "돈보다 적자 많은 민기식 희망퇴직 매각 SK쉴더스 이자에"
-    ],
-    [
      "2026-11-18T13:55:23.305724+09:00",
      "스토리지까지 VMS 카메라부터"
     ],
@@ -1246,13 +1238,21 @@
     [
      "2026-11-18T19:45:29.016551+09:00",
      "반도체 의지 공장 신속 윤곽 자리 투자"
+    ],
+    [
+     "2026-11-18T19:50:29.092714+09:00",
+     "공존 같이 따로 아닌 가는 가능 ESG는 AI와 어렵지만"
+    ],
+    [
+     "2026-11-18T19:50:29.092714+09:00",
+     "데이터센터 진짜 ESG 보틀넥은 가로막는 지역사회"
+    ],
+    [
+     "2026-11-18T19:50:29.092714+09:00",
+     "영통 심화 기흥 경기 양극화는 동탄 뜨거운 남부"
     ]
    ],
    "seen_urls": [
-    "https://www.fnnews.com/news/202611180955193742",
-    "https://www.edaily.co.kr/News/Read?newsId=02528886645647032&mediaCodeNo=257",
-    "https://news.tf.co.kr/read/photomovie/2390187.htm",
-    "https://news.tf.co.kr/read/economy/2390200.htm",
     "https://www.yna.co.kr/view/AKR20261118062600003?input=1195m",
     "http://www.finomy.com/news/articleView.html?idxno=267062",
     "http://www.finomy.com/news/articleView.html?idxno=267056",
@@ -2748,13 +2748,13 @@
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=281639",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=903581",
     "https://www.ggilbo.com/news/articleView.html?idxno=1194069",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716356"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716356",
+    "https://sports.donga.com/economy/article/all/20261118/135042108/1",
+    "https://www.dt.co.kr/article/12096012",
+    "https://www.dt.co.kr/article/12096011",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716424"
    ],
    "seen_titles": [
-    "SK케미칼치매패취,세계일류상품선정...글로벌점유율12%",
-    "최태원'한일경제공동체'구상첫발…최종현학술원·요미우리,한일협...",
-    "엔비디아'깜짝실적'에삼전닉스상승[포토]",
-    "SK바이오팜\"세노바메이트적응증·연령·제형확대\"",
     "SK최태원,요미우리신문과민간한일협력플랫폼출범",
     "[특징주]삼전닉스,엔비디아호실적에동반강세",
     "코스피,엔비디아호실적에2%대↑···5100선회복",
@@ -4250,10 +4250,14 @@
     "POSCOGroupSignsThree-YearLithiumDealwithChineseCATL",
     "李대통령\"높아지는무역장벽속에서도개방멈춰선안돼\"",
     "[주식마감]'한한령완화기대감'에에스엠·스튜디오드래곤'上'...아리...",
-    "반도체공장자리‘윤곽’…“신속투자의지”"
+    "반도체공장자리‘윤곽’…“신속투자의지”",
+    "KB국민카드,‘KB니드오일카드’출시",
+    "[미래포럼]\"AI와ESG는따로아닌'같이가는길'…어렵지만공존가능...",
+    "[미래포럼]AI데이터센터가로막는진짜보틀넥은ESG…“지역사회상...",
+    "‘동탄→영통→기흥’뜨거운경기남부…양극화는심화"
    ],
    "initialized": true,
-   "last_run": "2026-11-18T19:45:29.016551+09:00"
+   "last_run": "2026-11-18T19:50:29.092714+09:00"
   }
  },
  "press_names": {
