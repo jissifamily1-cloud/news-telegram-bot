@@ -697,12 +697,6 @@
     ]
    ],
    "seen_urls": [
-    "http://tbs.seoul.kr/news/newsView.do?typ_800=1&idx_800=3538782&seq_800=20531683",
-    "https://www.kgnews.co.kr/news/article.html?no=919850",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504930",
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575992629658",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=94469",
-    "https://www.cnbizm.com/news/articleView.html?idxno=321738",
     "https://www.thepowernews.co.kr/view.php?ud=202611171052584824de3f0aa1be_7",
     "https://www.newscj.com/news/articleView.html?idxno=3449321",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084214",
@@ -2196,15 +2190,15 @@
     "https://www.peoplewatch.co.kr/article/view/ppw202611180003",
     "https://www.mt.co.kr/stock/2026/11/18/2026111808414690548",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505283",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505272"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505272",
+    "https://www.etoday.co.kr/news/view/2649560",
+    "http://www.inews24.com/view/2027443",
+    "https://www.sidae.com/article/2026111808403225845",
+    "https://biz.chosun.com/stock/stock_general/2026/11/18/IIUFYRTFF5CONJD2QWTDPB5KQI/",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1426254",
+    "https://www.sedaily.com/article/20115719"
    ],
    "seen_titles": [
-    "30대그룹,타법인지분투자줄이고'AI베팅'대폭늘렸다",
-    "500대기업3분기영업익236％↑…삼전·닉스빼면불과2％↑",
-    "연말감성수놓을바이올리니스트'대니구'의선율,윈터콘서트HOME개...",
-    "같은코로나19테마인데온도차…큐라티스·셀리드오르고신풍제약은...",
-    "[단독]가스공사,\"국산LNG화물창'소송에6612억지급완료\"…삼성중공...",
-    "[증시오늘(17일)주요특징주]대형반도체주주춤한사이…신규상장...",
     "고려대,'BP+오픈이노베이션포럼'개최…해외석학과공동연구확대",
     "500대기업영업익235%급증했지만…삼전닉스빼면증가율1.7%",
     "AI투자위축우려에파랗게질린韓증시…코스피장중5000선붕괴",
@@ -3698,10 +3692,16 @@
     "젠슨황복귀이뤄질까..엔비디아호실적에삼전·닉스급등세",
     "'삼전특별배당포함'ACE고배당주Plus커버드콜액티브11월분배금",
     "SK이노베이션,재생에너지변동성대응수전해촉매개발…e-SAF기술확...",
-    "최종현학술원·요미우리신문,한일협력플랫폼출범…경제안보공동대..."
+    "최종현학술원·요미우리신문,한일협력플랫폼출범…경제안보공동대...",
+    "한투운용,고배당주ETF11월분배금수령안내⋯삼성전자특별배당반...",
+    "\"젠슨떠나도문제없다\"…엔비디아,메모리·패키징공급확보",
+    "SK이노베이션,차세대지속가능항공유핵심기술개발",
+    "흥국證“SK스퀘어,주가변동성커졌지만…올해4.3조원주주환원전망...",
+    "SK이노,차세대친환경항공유핵심기술개발",
+    "엔비디아,젠슨황사임이후에도메모리확보이어간다[컨콜]"
    ],
    "initialized": true,
-   "last_run": "2026-11-18T08:55:20.395943+09:00"
+   "last_run": "2026-11-18T09:00:13.829227+09:00"
   }
  },
  "press_names": {
