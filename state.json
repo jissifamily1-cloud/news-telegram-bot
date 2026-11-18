@@ -550,12 +550,17 @@
     [
      "2026-11-19T08:10:29.223322+09:00",
      "회복 SK바이오팜 하나 관건 오파칼림 임상 정상화 주가"
+    ],
+    [
+     "2026-11-19T08:15:27.993032+09:00",
+     "IPO 기대와 쓸어담는 앤트로픽 경계 사이에 700억달러 선다 코스피"
+    ],
+    [
+     "2026-11-19T08:15:27.993032+09:00",
+     "OCI 코스피200 한국쉘석유 12개 편입 두산퓨얼셀 11개 영풍"
     ]
    ],
    "seen_urls": [
-    "https://www.mydaily.co.kr/page/view/2026111808384501021",
-    "https://www.mstoday.co.kr/news/articleView.html?idxno=200507",
-    "https://www.edaily.co.kr/News/Read?newsId=02981526645647032&mediaCodeNo=257",
     "https://www.edaily.co.kr/News/Read?newsId=02971686645647032&mediaCodeNo=257",
     "https://www.edaily.co.kr/News/Read?newsId=02968406645647032&mediaCodeNo=257",
     "https://www.m-i.kr/news/articleView.html?idxno=2020113",
@@ -2052,12 +2057,12 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4445445",
     "https://www.bzeronews.com/news/articleView.html?idxno=825521",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1732211",
-    "http://www.press9.kr/news/articleView.html?idxno=86627"
+    "http://www.press9.kr/news/articleView.html?idxno=86627",
+    "https://www.hankyung.com/article/2026111961996",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=68028",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=362777"
    ],
    "seen_titles": [
-    "SKT,기지국이차량움직이는기술로장관상…5년연속수상",
-    "엔비디아깜짝실적에도코스피5000선재이탈…왜?",
-    "KDI,올해성장률3.8%로상향…\"절반은반도체몫\"",
     "3분기코스피상장사10곳중4곳적자…부채비율14%포인트↓[코스피결...",
     "SK하닉영업이익률3개분기연속1위…삼성전자2위로[코스피결산]",
     "한일,석유공동조달·비축협력모색…민간플랫폼출범",
@@ -3554,10 +3559,13 @@
     "키움증권,美ETF시장공략가속…'우주데이터센터'로영토확장",
     "반도체공급망으로유럽공략…충북,'글로벌기업'유치전",
     "4분기실적기대꺾였다…상장사3곳중2곳전망치뒷걸음",
-    "SK바이오팜,오파칼림임상정상화주가회복관건-하나證"
+    "SK바이오팜,오파칼림임상정상화주가회복관건-하나證",
+    "\"중국독자적AI인프라투자,미국수요둔화상쇄할완충판\"-KB",
+    "\"700억달러쓸어담는앤트로픽IPO\"…코스피,기대와경계사이에선다",
+    "두산퓨얼셀·한국쉘석유등11개코스피200편입…OCI·영풍등12개편..."
    ],
    "initialized": true,
-   "last_run": "2026-11-19T08:10:29.223322+09:00"
+   "last_run": "2026-11-19T08:15:27.993032+09:00"
   }
  },
  "press_names": {
