@@ -1157,11 +1157,6 @@
     ]
    ],
    "seen_urls": [
-    "https://gj.newdaily.co.kr/site/data/html/2026/11/18/2026111850356.html",
-    "https://www.etoday.co.kr/news/view/2650103",
-    "https://www.econovill.com/news/articleView.html?idxno=757769",
-    "http://www.newswell.co.kr/news/articleView.html?idxno=23743",
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720142",
     "https://kpenews.com/View.aspx?No=4319682",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570336106105",
     "http://kor.theasian.asia/archives/422156",
@@ -2656,14 +2651,14 @@
     "http://www.osen.co.kr/article/G1112912273",
     "http://www.osen.co.kr/article/G1112912272",
     "https://www.ytn.co.kr/_ln/0102_202611191916562519",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611190160&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611190160&t=NN",
+    "http://www.osen.co.kr/article/G1112912279",
+    "http://www.osen.co.kr/article/G1112912278",
+    "http://www.osen.co.kr/article/G1112912280",
+    "http://www.osen.co.kr/article/G1112912281",
+    "https://www.namdonews.com/news/articleView.html?idxno=929899"
    ],
    "seen_titles": [
-    "[박정식의국내주식시황]앤트로픽IPO기대에美기술주반등…코스피...",
-    "전남광주시의회,SK하이닉스방문…호남반도체클러스터기반시설점검",
-    "AI가송금ㆍ결제까지⋯해시드기업ㆍ개발자협업해커톤개최",
-    "엘리스그룹이AI교육교실로끌어온오호라와제일연마의숙제는?",
-    "이재명대통령의'5천피공약두번달성'에애쓴금융당국[조수연의...",
     "판키운삼성전자,돈은있는데공장지을사람이없다",
     "증권사금융배출량,투자늘어도줄었다..증감률뒤에숨은자산별차이",
     "SKT,수능마친수험생고객에문화생활·AI·로밍혜택제공",
@@ -4158,10 +4153,15 @@
     "[사진]공살려내는수원KT배스",
     "[사진]김형빈,속공받아서골밑슛",
     "수출1조달러돌파'새역사'...세계4번째기록",
-    "41세배우박하나,엄마된다…\"소중한생명찾아와\""
+    "41세배우박하나,엄마된다…\"소중한생명찾아와\"",
+    "[사진]워니,속공찬스",
+    "[사진]힉스,속수무책리버스레이업슛",
+    "[사진]힉스,분위기반전투핸드덩크",
+    "[사진]포터,기선제압투핸드덩크",
+    "호남반도체클러스터조성준비속도"
    ],
    "initialized": true,
-   "last_run": "2026-11-19T19:25:23.037690+09:00"
+   "last_run": "2026-11-19T19:30:39.718687+09:00"
   }
  },
  "press_names": {
