@@ -1137,9 +1137,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=731630",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085013",
-    "https://www.sentv.co.kr/article/view/sentv202611180195",
     "http://www.yonhapnewstv.co.kr/news/MYH2026111816095700p",
     "https://www.newsis.com/view/NISX20261118_0003873633",
     "https://www.khan.co.kr/article/202611181609001",
@@ -2636,12 +2633,12 @@
     "https://www.socialvalue.kr/news/view/1065582198972769",
     "https://www.newsworker.co.kr/news/articleView.html?idxno=514991",
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073027",
-    "https://www.hankyung.com/article/202611196526g"
+    "https://www.hankyung.com/article/202611196526g",
+    "https://www.wikileaks-kr.org/news/articleView.html?idxno=194868",
+    "https://www.busan.com/view/busan/view.php?code=2026111912100614149",
+    "https://www.pointe.co.kr/news/articleView.html?idxno=88071"
    ],
    "seen_titles": [
-    "'7년연속100안타ㆍ도루와수비능력까지인정받은'FA최지훈,4년총...",
-    "코스피,엔비디아호실적에2%가까이상승…하루만에5000선회복",
-    "[마감시황]엔비디아호실적에삼전·닉스'동반반등'…코스피,하루만...",
     "엔비디아실적에반도체반등…코스피,하루만에5000선회복",
     "엔비디아호실적…코스피하루만에5,000선회복",
     "코스피,하루만에5000선회복…엔비디아훈풍에2%상승",
@@ -4138,10 +4135,13 @@
     "KT·SK텔레콤,수능마친수험생잡아라…통신·AI·문화생활혜택확대",
     "전남광주광산구,'896조원투자지역경제활성화연계'...청주반도체...",
     "건설현장안전관리플랫폼카스웍스,'2026스마트건설·안전·AI엑스포...",
-    "'AI거품론무색'대규모인프라투자전망에…삼전닉스조용히웃는다"
+    "'AI거품론무색'대규모인프라투자전망에…삼전닉스조용히웃는다",
+    "SK브로드밴드,해저케이블안정성·보안강화…글로벌데이터망고도화",
+    "지난해10대그룹내부거래185조…쿠팡비중·규모모두'톱5'",
+    "대기업집단내부거래841조원…사익편취규제대상10곳중9곳은'수의계..."
    ],
    "initialized": true,
-   "last_run": "2026-11-19T12:10:35.938240+09:00"
+   "last_run": "2026-11-19T12:15:27.784418+09:00"
   }
  },
  "press_names": {
