@@ -826,14 +826,17 @@
     [
      "2026-11-19T09:45:27.159563+09:00",
      "최지훈 꾸준함의 남고 대명사 진심으로 싶었다"
+    ],
+    [
+     "2026-11-19T09:50:29.196679+09:00",
+     "분상제 용인반도체클러스터 라온프라이빗 반도체산단 아파트 용인"
+    ],
+    [
+     "2026-11-19T09:50:29.196679+09:00",
+     "연다 해시드 송금하고 50명 개발자 시대 모여 결제하는 AI가 서비 실전"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2649686",
-    "https://www.s-journal.co.kr/news/articleView.html?idxno=45417",
-    "https://www.mk.co.kr/article/12212355",
-    "https://www.it-b.co.kr/news/articleView.html?idxno=90745",
-    "https://www.seoulfn.com/news/articleView.html?idxno=643208",
     "https://www.etoday.co.kr/news/view/2649707",
     "https://www.yna.co.kr/view/AKR20261118111800007?input=1195m",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=94583",
@@ -2328,14 +2331,14 @@
     "https://www.insight.co.kr/news/582668",
     "https://www.edaily.co.kr/News/Read?newsId=02184486645647360&mediaCodeNo=257",
     "https://www.theguru.co.kr/news/article.html?no=109919",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286339&CMPT_CD=P0010"
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286339&CMPT_CD=P0010",
+    "http://enews.imbc.com/News/RetrieveNewsInfo/525330",
+    "https://www.ablenews.co.kr/news/articleView.html?idxno=234729",
+    "http://www.metroseoul.co.kr/article/20261118500622",
+    "https://www.bizwork.co.kr/news/articleView.html?idxno=420941",
+    "https://www.techm.kr/news/articleView.html?idxno=157524"
    ],
    "seen_titles": [
-    "'꿈의9000'축포5개월만에반토막…'반도체착시'가부른코스피비극",
-    "SK바이오팜,英'제프리스글로벌헬스케어컨퍼런스'4년연속참가",
-    "대기업계열사다이어트돌입…신사업늘리고중복법인합병",
-    "SKT,전파방송기술대상5년연속장관상수상",
-    "코스피상장사,3분기누적영업이익638조원···전년比264%↑",
     "수출1조달러눈앞…11월D램6%늘고낸드13%줄었다",
     "'바이시클킥'제주이건희,생애첫K리그'이달의골'수상",
     "[보안觀]성문은이미열려있다—프런티어AI시대,제로트러스트보...",
@@ -3830,10 +3833,15 @@
     "최태원회장,SK퇴임독립이사41명만났다...첫'거버넌스데이'",
     "이화여대,캠퍼스특허유니버시아드서대상영예",
     "[단독]SK하이닉스·SKT등SK그룹핵심계열사,'AI변호사'하비로법무...",
-    "'꾸준함의대명사'최지훈\"진심으로남고싶었다\""
+    "'꾸준함의대명사'최지훈\"진심으로남고싶었다\"",
+    "연상호'실낙원',안방극장찾는다…극장동시VOD서비스시작",
+    "서울시장애인체육회,민간기업소속장애인선수단2차역량강화교육성...",
+    "안성시김보라시장,반도체산업성장대응신도시조성·사회주택공...",
+    "용인반도체산단분상제아파트'용인반도체클러스터라온프라이빗파...",
+    "해시드,AI가송금하고결제하는시대연다…개발자50명모여실전서비..."
    ],
    "initialized": true,
-   "last_run": "2026-11-19T09:45:27.159563+09:00"
+   "last_run": "2026-11-19T09:50:29.196679+09:00"
   }
  },
  "press_names": {
