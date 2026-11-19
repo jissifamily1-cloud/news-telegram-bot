@@ -494,13 +494,17 @@
     [
      "2026-11-20T08:25:23.059433+09:00",
      "재평가 월가 1만피 조마조마 코스피에 전망 돌파한다 엇갈려 증시"
+    ],
+    [
+     "2026-11-20T08:30:48.007350+09:00",
+     "시딩만 커버드콜액티브 5000억 미래에셋운용"
+    ],
+    [
+     "2026-11-20T08:30:48.007350+09:00",
+     "기술로 초저노점 잡아라 수분을 배터리 유럽 공장의 한국드라이어"
     ]
    ],
    "seen_urls": [
-    "https://www.gukjenews.com/news/articleView.html?idxno=3756803",
-    "https://it.chosun.com/news/articleView.html?idxno=3000000001386",
-    "https://www.donga.com/news/It/article/all/20261119/135052896/1",
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2314731",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000084408",
     "https://view.asiae.co.kr/article/2026111910441343851",
     "https://www.edaily.co.kr/News/Read?newsId=02542006645647360&mediaCodeNo=257",
@@ -1996,13 +2000,13 @@
     "https://www.kbmaeil.com/article/20261120500042",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=68081",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611101732040200108254",
-    "https://www.mk.co.kr/article/12214253"
+    "https://www.mk.co.kr/article/12214253",
+    "http://www.yonhapnewstv.co.kr/news/MYH202611200826496X7",
+    "http://www.newsprime.co.kr/news/article.html?no=755767",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611171709064480109034",
+    "https://kidd.co.kr/news/248216"
    ],
    "seen_titles": [
-    "충북도,네덜란드서반도체기업투자유치나서…13곳방문상담",
-    "[개장]코스피,엔비디아호실적불구하락전환…삼전닉스약세",
-    "“수능끝,수험생잡아라”…이통3사,가요대전부터여행까지혜택경...",
-    "충북도,네덜란드반도체기업투자유치활동전개",
     "삼성전자·SK하이닉스상승출발뒤급반전…장중하락폭2%대로확대",
     "코스피,기관‧외국인매도에장중5000선내줘",
     "18년간1700억원지원…SK와함께亞정상탈환나선여자핸드볼",
@@ -3498,10 +3502,14 @@
     "美반도체주급락…코스피5000선다시시험대",
     "[단독]2020년中대학이사간SK자회사양자장비…2026년엔AI칩수출길...",
     "[더벨][감사위퍼포먼스트래커]대기업집단감사위에나온반대표…인...",
-    "“증시재평가,1만피돌파한다”…조마조마코스피에월가전망엇갈려"
+    "“증시재평가,1만피돌파한다”…조마조마코스피에월가전망엇갈려",
+    "[3분증시]뉴욕증시,AI투자불안에2%대급락",
+    "[해외시황]뉴욕증시,앤스로픽IPO흥행에도'급락'…다우5만선붕괴",
+    "[더벨][MarketWatch]미래에셋운용커버드콜액티브,시딩만'5000억'",
+    "배터리공장의수분을잡아라…한국드라이어,초저노점기술로유럽공..."
    ],
    "initialized": true,
-   "last_run": "2026-11-20T08:25:23.059433+09:00"
+   "last_run": "2026-11-20T08:30:48.007350+09:00"
   }
  },
  "press_names": {
