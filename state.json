@@ -329,9 +329,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261119000340",
-    "https://www.dailybrief.co.kr/news/articleView.html?idxno=7356",
-    "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950070.html",
     "http://www.inews24.com/view/2027969",
     "https://www.pennmike.com/news/articleView.html?idxno=132233",
     "https://www.the-today.com/news/articleView.html?idxno=93811",
@@ -1828,12 +1825,12 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=301900",
     "https://www.socialvalue.kr/news/view/1065596327369412",
     "https://www.socialvalue.kr/news/view/1065601886582118",
-    "https://basketkorea.com/news/newsview.php?ncode=1065559154484963"
+    "https://basketkorea.com/news/newsview.php?ncode=1065559154484963",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16281078",
+    "https://www.imaeil.com/page/view/2026112007095568105",
+    "https://www.upkoreanews.kr/news/articleView.html?idxno=101279"
    ],
    "seen_titles": [
-    "ADT캡스,수능당일수험생긴급호송지원…27년째동행",
-    "[개장시황]수능일코스피상승출발…외국인매도에5000선'위태'",
-    "전남광주,350억창업실증거점개관…\"지역스타트업지원\"",
     "증시폭락에증권가내년부동산경고…서울지고경기뜬다,세입자...",
     "\"ESS화재징후사흘전감지\"⋯삼성SDI,AI안전기술확대",
     "[심양섭의정론직격]'월급쟁이가봉이냐'던대통령,이제답할차례다",
@@ -3330,10 +3327,13 @@
     "[CEO리더십]정제마진업은SK이노베이션…'정승일號'신사업승부수...",
     "[SV리포트]SK인텔릭스,친환경제조혁신속도…3년새취수량33.6%줄...",
     "'AI컴퍼니'로변신하는SK에코플랜트…그룹성장전략'AI플라잉휠'시...",
-    "[게임리포트]문경은감독이기다린강성욱의모습,“공수에서올해..."
+    "[게임리포트]문경은감독이기다린강성욱의모습,“공수에서올해...",
+    "미국증시,앤트로픽상장호재에도다우1100P급락…AI·반도체매도확...",
+    "2천700억넣었는데4조됐다…SKT,앤트로픽상장에'16배잭팟'",
+    "[오늘증시전망]코스피5,100선회복했지만뉴욕증시급락…20일외국..."
    ],
    "initialized": true,
-   "last_run": "2026-11-20T07:10:31.556347+09:00"
+   "last_run": "2026-11-20T07:15:38.578391+09:00"
   }
  },
  "press_names": {
