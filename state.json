@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-19T13:05:22.792127+09:00",
-     "반도체 연구단지 조성 소부장 본격화 이천시"
-    ],
-    [
-     "2026-11-19T13:05:22.792127+09:00",
-     "가요대전 구독권 방청권부터 까지"
-    ],
-    [
-     "2026-11-19T13:05:22.792127+09:00",
-     "Anthropic Chips Korean for IPO Sparks Rebound Hope"
-    ],
-    [
-     "2026-11-19T13:05:22.792127+09:00",
-     "자사 IR 증권사 뒷짐 상장사엔 하라더니 정작 IR엔"
-    ],
-    [
-     "2026-11-19T13:05:22.792127+09:00",
-     "KT 19일 SK전 3연패 선두 서울 탈출 KBL 추격 수원 vs"
-    ],
-    [
      "2026-11-19T13:10:29.701414+09:00",
      "코스닥 코스피 순이익 감소 적자 기업은 3분기"
     ],
@@ -1182,12 +1162,17 @@
     [
      "2026-11-19T19:00:50.208249+09:00",
      "응원 모든 부부들 부모 박하나 부부 김태술 된다 난임"
+    ],
+    [
+     "2026-11-19T19:05:34.431254+09:00",
+     "감독 이상 3점슛 맞대결 전희철 성공률 턴오 앞둔 KT와의 2번째"
+    ],
+    [
+     "2026-11-19T19:05:34.431254+09:00",
+     "감독 KT 지명은 스위치 1순위 누구 문경은 디펜스와 힌트 수비 남긴"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12213230",
-    "https://www.m-i.kr/news/articleView.html?idxno=2020338",
-    "https://www.dailian.co.kr/news/view/1716948/?sc=Naver",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4445454",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1732212",
     "https://www.epnc.co.kr/news/articleView.html?idxno=409994",
@@ -2684,12 +2669,12 @@
     "https://www.sedaily.com/article/20116683",
     "https://www.newsworker.co.kr/news/articleView.html?idxno=515127",
     "http://www.jndn.com/article.php?aid=1795082123443454001",
-    "https://www.yna.co.kr/view/AKR20261119154100005?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261119154100005?input=1195m",
+    "https://www.ppss.kr/news/articleView.html?idxno=322011",
+    "http://www.rookie.co.kr/news/articleView.html?idxno=130710",
+    "http://www.rookie.co.kr/news/articleView.html?idxno=130709"
    ],
    "seen_titles": [
-    "[더벨][thebellLeagueTable|2026이사회평가]경영성과감안한순위...",
-    "“한솔케미칼,반도체소재선방에도환율에발목”…목표가↓",
-    "두산퓨얼셀·대덕전자·효성코스피200편입…내달11일반영",
     "SKT,수능마친수험생에가요대전·AI구독·로밍할인혜택",
     "KB증권\"AI규제,수요방향못바꾼다…中인프라투자가완충판\"",
     "상장사3곳중2곳4분기실적전망하향…삼전닉스는'상향'",
@@ -4186,10 +4171,13 @@
     "전공정·본딩·식각장비도쓸어담아…中,싱가포르수입비중80%",
     "천안시,19개기업·5개대학과취업멘토링페스타개최",
     "“현장에답있다”…통합특별시의회,현안해결발품",
-    "김태술·박하나부부부모된다…\"모든난임부부들응원\""
+    "김태술·박하나부부부모된다…\"모든난임부부들응원\"",
+    "인천시,제약바이오투자대전개최…글로벌투자·기술협력확대나서",
+    "KT와의2번째맞대결앞둔SK전희철감독\"3점슛성공률30%이상,턴오...",
+    "1순위지명은누구?힌트남긴KT문경은감독\"존디펜스와스위치수비..."
    ],
    "initialized": true,
-   "last_run": "2026-11-19T19:00:50.208249+09:00"
+   "last_run": "2026-11-19T19:05:34.431254+09:00"
   }
  },
  "press_names": {
