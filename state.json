@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-19T16:45:30.106159+09:00",
-     "SK하이닉스보다 테스 GST 삼성전자 반도체 급등 올랐다"
-    ],
-    [
-     "2026-11-19T16:45:30.106159+09:00",
-     "Closing Price KOSPI List"
-    ],
-    [
-     "2026-11-19T16:45:30.106159+09:00",
-     "싱가포르 양자보안 SK브로드밴드 강화 해저케이블"
-    ],
-    [
-     "2026-11-19T16:45:30.106159+09:00",
-     "롯데시네마 현대백화점 문화생활 SK텔레콤"
-    ],
-    [
-     "2026-11-19T16:45:30.106159+09:00",
-     "LG그룹 SK하이닉스"
-    ],
-    [
      "2026-11-19T16:50:31.150105+09:00",
      "맞춤형 돌봄체계 통합돌봄 열어 포럼 지역 논의 세종시사회서비스원"
     ],
@@ -634,11 +614,13 @@
     [
      "2026-11-19T22:20:30.771533+09:00",
      "원유 재고 최저 WTI 3개월 미국 급증 전쟁에도 국제유가 전망 이란"
+    ],
+    [
+     "2026-11-19T22:50:30.748491+09:00",
+     "웃은 턱밑 내달리며 연승 추격 정관장 선두 6연승 길목서"
     ]
    ],
    "seen_urls": [
-    "https://www.techm.kr/news/articleView.html?idxno=157524",
-    "https://www.newsian.co.kr/news/articleView.html?idxno=101560",
     "https://www.edaily.co.kr/News/Read?newsId=02250086645647360&mediaCodeNo=257",
     "https://www.etnews.com/20261119000090",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=305391",
@@ -2136,11 +2118,11 @@
     "https://www.topstarnews.net/news/articleView.html?idxno=16280996",
     "https://www.newspim.com/news/view/20261119001470",
     "http://www.newstown.co.kr/news/articleView.html?idxno=722665",
-    "https://m.skyedaily.com/news_view.html?ID=314912"
+    "https://m.skyedaily.com/news_view.html?ID=314912",
+    "http://www.newsbrite.net/news/articleView.html?idxno=201617",
+    "https://www.dailian.co.kr/news/view/1717494/?sc=Naver"
    ],
    "seen_titles": [
-    "용인반도체산단분상제아파트'용인반도체클러스터라온프라이빗파...",
-    "해시드,AI가송금하고결제하는시대연다…개발자50명모여실전서비...",
     "SK,전·현직독립이사한자리에…지배구조혁신5년성과점검",
     "연상호신작'실낙원',안방극장으로…IPTV·VOD서비스개시",
     "SK브로드밴드,부산-싱가포르해저케이블구간'양자보안'실증",
@@ -3638,10 +3620,12 @@
     "국제유가전망,이란전쟁에도WTI3개월최저…미국원유재고급증",
     "[AI상보]'전성현4쿼터14점폭발'KT,SK꺾고3연패탈출",
     "인천시,제약바이오투자유치본격화…글로벌기업기술협력확대",
-    "10대그룹내부거래185조원…현대차61조·SK49조"
+    "10대그룹내부거래185조원…현대차61조·SK49조",
+    "SK그룹,디렉터스서밋과거버넌스데이개최...이사회중심경영강화",
+    "연승길목서웃은정관장…6연승내달리며선두턱밑추격"
    ],
    "initialized": true,
-   "last_run": "2026-11-19T22:45:29.015861+09:00"
+   "last_run": "2026-11-19T22:50:30.748491+09:00"
   }
  },
  "press_names": {
