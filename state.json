@@ -1097,13 +1097,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20116109",
-    "https://www.hankyung.com/article/2026111856521",
-    "https://www.sedaily.com/article/20116108",
-    "https://www.sedaily.com/article/20116117",
-    "http://www.doctorstimes.com/news/articleView.html?idxno=241122",
-    "https://www.yna.co.kr/view/AKR20261118170400704?input=1195m",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=54871",
     "https://www.ajunews.com/view/20261118145716522",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=247653",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505574",
@@ -2596,16 +2589,16 @@
     "https://www.techm.kr/news/articleView.html?idxno=157574",
     "https://www.etoday.co.kr/news/view/2650456",
     "http://www.joseilbo.com/news/news_read.php?uid=580026&class=53",
-    "https://www.dynews.co.kr/news/articleView.html?idxno=874853"
+    "https://www.dynews.co.kr/news/articleView.html?idxno=874853",
+    "https://www.sportsseoul.com/news/read/1650925",
+    "https://biz.sbs.co.kr/article_hub/20000347584?division=NAVER",
+    "https://www.ajunews.com/view/20261119151542386",
+    "https://www.newsway.co.kr/news/view?ud=2026111914541359909",
+    "https://www.kgnews.co.kr/news/article.html?no=920353",
+    "https://view.asiae.co.kr/article/2026111915351419692",
+    "https://www.newsis.com/view/NISX20261119_0003875267"
    ],
    "seen_titles": [
-    "방미통위,위치정보스타트업13개팀시상…투자·사업연계지원",
-    "웨이퍼나르고부품조립도척척…산업현장‘RX시계’빨라진다",
-    "[부고]천춘자씨별세外",
-    "포스코그룹,中CATL뚫었다",
-    "코스피눈높이낮춘증권가…“내년8000피”무게",
-    "[제약업계소식]11월18일",
-    "[영상]어느덧5번함…3천600t급최신예호위함'평택함'진수",
     "SKT,AI-RAN기반완성차무인이송기술로전파방송기술대상장관상",
     "\"메모리호황변곡점은2028년\"…中추격에삼성·SK촉각",
     "수능시험장100m주변와이파이'차단'…AI부정행위방지",
@@ -4098,10 +4091,17 @@
     "\"장만보던곳아니었네\"…뷰티컬리,거래액25%늘고오프라인행사도...",
     "“中시장막히고국내선외산선호”…K소부장,설자리좁아진다[AI소...",
     "코스피200·코스닥150종목교체…12월11일정기변경적용",
-    "재즈로지역담은'로컬송'200곡…세계시장까지공략한다"
+    "재즈로지역담은'로컬송'200곡…세계시장까지공략한다",
+    "이상일“반도체클러스터주택19만호필요배후신도시조성돼야”",
+    "앤트로픽상장앞두고'출렁'…5천피놓고'공방'",
+    "수출1조弗이끈SK하이닉스,HBM·소부장양날개로새시대'정조준'",
+    "\"어쩌란말이냐\"7500부터1만500까지…내년증시전망'예측불가'",
+    "한국수출사상첫1조달러돌파…전국수출35%·흑자절반은'경기도...",
+    "[수출1조달러돌파]SK하이닉스\"수출주역된HBM…소부장과원팀협력...",
+    "韓'수출1조달러'달성일등공신,반도체뿐아니다…정유·조선·전력..."
    ],
    "initialized": true,
-   "last_run": "2026-11-19T15:35:25.286320+09:00"
+   "last_run": "2026-11-19T15:40:29.393343+09:00"
   }
  },
  "press_names": {
