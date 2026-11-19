@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-19T08:20:29.931128+09:00",
-     "14개 계열사 이사"
-    ],
-    [
-     "2026-11-19T08:20:29.931128+09:00",
-     "57개사 삼성E 현대모비스"
-    ],
-    [
-     "2026-11-19T08:20:29.931128+09:00",
-     "이사회 삼성전자 평가"
-    ],
-    [
      "2026-11-19T08:25:25.467341+09:00",
      "IPO 3자 기대감 엔트로픽 정상회담"
     ],
@@ -1021,10 +1009,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=281627",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16280016",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=668369",
-    "https://www.imaeil.com/page/view/2026111816551460666",
     "http://www.newsfc.co.kr/news/articleView.html?idxno=82575",
     "http://www.wsobi.com/news/articleView.html?idxno=322070",
     "http://www.queen.co.kr/news/articleView.html?idxno=466560",
@@ -2520,13 +2504,13 @@
     "https://www.hankookilbo.com/news/article/A2026111812240004885?did=NA",
     "https://www.businesspost.co.kr/BP?command=article_view&num=452396",
     "https://www.asiatime.co.kr/article/20261119500323",
-    "https://www.news2day.co.kr/article/20261119500168"
+    "https://www.news2day.co.kr/article/20261119500168",
+    "http://www.thefirstmedia.net/news/articleView.html?idxno=214119",
+    "https://www.widedaily.com/news/articleView.html?idxno=304164",
+    "https://www.nspna.com/news/?newsid=836918",
+    "https://www.itdaily.kr/news/articleView.html?idxno=243060"
    ],
    "seen_titles": [
-    "수능AI부정행위막는다…시험장100ｍ내와이파이차단",
-    "양승조수자원공사사장,용인반도체용수현장점검",
-    "심텍주가,장중118,200원까지급등후보합마감…애프터마켓0.65%↑",
-    "코스피,엔비디아호실적에5060선반등",
     "수능시험장반경100m와이파이24시간차단…18일오후6시부터",
     "주가고점대비'반토막'인데삼전닉스목표주가는여전히'2배이상'",
     "가전·통신업계'제품안전의날'대통령표창받아·'전파방송기술대상...",
@@ -4022,10 +4006,14 @@
     "'사이클산업'메모리...삼전닉스·마이크론은과연합맞춰날아올랐...",
     "SK에코플랜트영업이익2조신화에도경계모드,김영식'AI투자둔화'...",
     "롯데카드전임사장문책경고'누락'…공시축소'논란'",
-    "[재계인사이드]대한상의차기리더십거론되는구자열·김남구의강점..."
+    "[재계인사이드]대한상의차기리더십거론되는구자열·김남구의강점...",
+    "SK텔레콤,수능마친고객에문화·AI·로밍혜택확대",
+    "AI챗봇도입해신입퇴사율32%→4.8%로낮췄다…'채용문화우수기업'...",
+    "[행감지적]송도땅값수납불확실에개발재원우려…조민경,지출대응...",
+    "\"수험생주목\"이통3사,수능기념혜택릴레이"
    ],
    "initialized": true,
-   "last_run": "2026-11-19T14:20:27.956973+09:00"
+   "last_run": "2026-11-19T14:25:23.571431+09:00"
   }
  },
  "press_names": {
