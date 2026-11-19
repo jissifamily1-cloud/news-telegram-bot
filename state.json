@@ -222,11 +222,17 @@
     [
      "2026-11-20T05:45:35.785411+09:00",
      "KIA 정수빈 외야 두산 행선지는 최대어 FA 김호령 남은"
+    ],
+    [
+     "2026-11-20T05:50:30.924733+09:00",
+     "위험한 해킹은 조용하다 빠른 요란하고"
+    ],
+    [
+     "2026-11-20T05:50:30.924733+09:00",
+     "운동해도 걸렸을 될까 독감"
     ]
    ],
    "seen_urls": [
-    "https://www.kyeonggi.com/article/20261119580086",
-    "https://www.epnc.co.kr/news/articleView.html?idxno=410013",
     "https://biz.sbs.co.kr/article_hub/20000347495?division=NAVER",
     "https://www.mediapen.com/news/view/1138510",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=173326",
@@ -1724,11 +1730,11 @@
     "https://www.koreaherald.com/article/10943091",
     "https://www.cbci.co.kr/news/articleView.html?idxno=628833",
     "https://www.the-today.com/news/articleView.html?idxno=93844",
-    "https://www.newspim.com/news/view/20261119001002"
+    "https://www.newspim.com/news/view/20261119001002",
+    "https://zdnet.co.kr/view/?no=20261120054534",
+    "https://www.sidae.com/article/2026111913353765531"
    ],
    "seen_titles": [
-    "SK,독립이사들과디렉터스서밋'거버넌스데이'개최...이사회중심강...",
-    "인천아파트테라스외벽붕괴사고조사기간연장…내년1월발표",
     "수능끝놀아볼까…SKT,수험생대상공연·AI등혜택제공",
     "코스피,0.45%오른5090.04개장…수능일1시간늦게개장",
     "반도체산단배후주거지로번지는'전국청약'…연말공급잇따라",
@@ -3226,10 +3232,12 @@
     "[LeeByung-jong]Korea'sloftyAIambitions",
     "[관심주]미국원유재고급증소식에국제유가급락…에쓰오일·GS·SK...",
     "[투데이온]삼성·TSMC,중국고객일부칩출하보류…바이두쿤룬·바...",
-    "[프로야구]외야남은FA최대어,KIA김호령두산정수빈행선지는"
+    "[프로야구]외야남은FA최대어,KIA김호령두산정수빈행선지는",
+    "[보안칼럼]빠른해킹은요란하고,위험한해킹은조용하다",
+    "독감걸렸을때운동해도될까[근거에기반한시대건강120]⑨"
    ],
    "initialized": true,
-   "last_run": "2026-11-20T05:45:35.785411+09:00"
+   "last_run": "2026-11-20T05:50:30.924733+09:00"
   }
  },
  "press_names": {
