@@ -162,11 +162,13 @@
     [
      "2026-11-20T04:25:33.096727+09:00",
      "10년 경주 국가 면진으로 아닌 포항 인프라는 내진 지진"
+    ],
+    [
+     "2026-11-20T04:35:22.695106+09:00",
+     "권덕임"
     ]
    ],
    "seen_urls": [
-    "https://www.etnews.com/20261119000094",
-    "https://www.newsis.com/view/NISX20261119_0003874538",
     "https://biz.chosun.com/it-science/ict/2026/11/19/M2UW5OCY4JFE5DI6OADNXUWOVU/",
     "https://news.tf.co.kr/read/economy/2390700.htm",
     "https://www.dailian.co.kr/news/view/1717075/?sc=Naver",
@@ -1664,11 +1666,11 @@
     "https://news.ifm.kr/news/articleView.html?idxno=484963",
     "https://www.mt.co.kr/stock/2026/11/20/2026111920164984464",
     "https://www.mt.co.kr/industry/2026/11/20/2026111920194695741",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611191749171480876"
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611191749171480876",
+    "https://www.donga.com/news/Economy/article/all/20261120/135057814/2",
+    "https://www.donga.com/news/People/article/all/20261120/135057514/2"
    ],
    "seen_titles": [
-    "최태원\"AI시대신뢰핵심은이사회\"…전·현직독립이사소통",
-    "ADT캡스,27년째수능수험생특별호송지원",
     "[속보]삼성전자0.10%↑SK하이닉스0.17%↑출발",
     "SK브로드밴드,한국·싱가포르연결해저케이블에양자보안시험망구축",
     "\"대기업해외법인70%APEC에집중…미국늘고중국줄어\"",
@@ -3166,10 +3168,12 @@
     "송영길\"신천지등사이비종교가입시당원자격박탈해야…송도유원...",
     "\"AI투자심리·한한령풀리나\"기대감…수능일'증시한파'없었다",
     "AI메모리는귀한데...IT소비자용은찬밥",
-    "[사설]경주·포항지진10년…국가인프라는내진아닌면진으로"
+    "[사설]경주·포항지진10년…국가인프라는내진아닌면진으로",
+    "앤스로픽,813억달러역대최대상장…스페이스X넘어섰다",
+    "[부고]권덕임씨外"
    ],
    "initialized": true,
-   "last_run": "2026-11-20T04:30:40.685176+09:00"
+   "last_run": "2026-11-20T04:35:22.695106+09:00"
   }
  },
  "press_names": {
