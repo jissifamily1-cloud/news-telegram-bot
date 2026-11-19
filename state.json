@@ -410,15 +410,21 @@
     [
      "2026-11-20T08:05:22.971570+09:00",
      "보안 바꾼 꼬리표 기술 산하 SKT 이종현이"
+    ],
+    [
+     "2026-11-20T08:10:29.711780+09:00",
+     "산인 SK스토아서 일본 판매 여행상품 지역 노랑풍선"
+    ],
+    [
+     "2026-11-20T08:10:29.711780+09:00",
+     "반도체주 증시 급락에 SK하이닉스 휘청"
+    ],
+    [
+     "2026-11-20T08:10:29.711780+09:00",
+     "완벽 걱정이 문정현 안영준 전희철 경계한 적장 현실로 감독이"
     ]
    ],
    "seen_urls": [
-    "https://www.cnbizm.com/news/articleView.html?idxno=321984",
-    "https://www.e-science.co.kr/news/articleView.html?idxno=140194",
-    "http://www.joseilbo.com/news/news_read.php?uid=579980&class=53",
-    "https://www.yna.co.kr/view/AKR20261119063200008?input=1195m",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=315729",
-    "http://www.newsprime.co.kr/news/article.html?no=755620",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=305404",
     "http://www.inews24.com/view/2028060",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=94772",
@@ -1912,15 +1918,15 @@
     "https://www.insight.co.kr/news/582793",
     "https://www.banronbodo.com/news/articleView.html?idxno=33404",
     "https://www.banronbodo.com/news/articleView.html?idxno=33402",
-    "https://www.bloter.net/news/articleView.html?idxno=679127"
+    "https://www.bloter.net/news/articleView.html?idxno=679127",
+    "https://www.tjb.co.kr/news05/bodo/view/id/106315",
+    "https://www.ytn.co.kr/_ln/0104_202611200807382879",
+    "https://www.edaily.co.kr/News/Read?newsId=01912246645647688&mediaCodeNo=257",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506144",
+    "https://www.newspim.com/news/view/20261120000076",
+    "https://basketkorea.com/news/newsview.php?ncode=1065560303444290"
    ],
    "seen_titles": [
-    "코스피,5020선등락···엔비디아호실적에도AI투자우려지속",
-    "SK텔레콤수능마친수험생에가요대전방청권·AI구독권쏜다",
-    "ADT캡스,수능일긴급호송지원…27년째수험생안전지켜",
-    "초고속매매과다호가에수수료의무화추진…주식·대체거래소까지규...",
-    "코스피,앤트로픽상장앞두고1%대↓…상승출발후하락전환(종합)",
-    "코스피,상승출발뒤5050선후퇴…엔비디아·美금리부담",
     "재난문자발송·와이파이차단…수능'AI커닝'막을까",
     "\"고수익QD소재부진에환손실까지…한솔케미칼,4분기영업이익률12%...",
     "[특징주]'삼전닉스'2%동반약세⋯美금리인상부담",
@@ -3414,10 +3420,16 @@
     "\"해킹위협막는다\"...SK브로드밴드,한국·싱가포르해저케이블에양자...",
     "[기업상생성적표②]건설기업들,협력사와아름다운'상생'...현장안...",
     "[주간기업동향]최태원SK그룹회장,AI사업확대속이사회독립성강...",
-    "[한국의CISO-권력지도]'기술산하'꼬리표뗀SKT보안…이종현이바꾼..."
+    "[한국의CISO-권력지도]'기술산하'꼬리표뗀SKT보안…이종현이바꾼...",
+    "美3대지수2%대동반하락...앤트로픽흥행에도투심못살려",
+    "앤트로픽상장에도뉴욕증시동반2%대급락마감...다우50,000선붕괴...",
+    "앤트로픽상장도못살린AI투심…코스피하락출발",
+    "노랑풍선,SK스토아서일본산인지역여행상품판매",
+    "[특징주]美증시급락에반도체주'휘청'…SK하이닉스5%↓",
+    "‘걱정이현실로’적장전희철감독이경계한문정현,안영준완벽봉..."
    ],
    "initialized": true,
-   "last_run": "2026-11-20T08:05:22.971570+09:00"
+   "last_run": "2026-11-20T08:10:29.711780+09:00"
   }
  },
  "press_names": {
