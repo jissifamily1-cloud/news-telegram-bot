@@ -329,8 +329,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.inews24.com/view/2027969",
-    "https://www.pennmike.com/news/articleView.html?idxno=132233",
     "https://www.the-today.com/news/articleView.html?idxno=93811",
     "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950068.html",
     "https://www.sedaily.com/article/20116304",
@@ -1828,11 +1826,11 @@
     "https://basketkorea.com/news/newsview.php?ncode=1065559154484963",
     "https://www.topstarnews.net/news/articleView.html?idxno=16281078",
     "https://www.imaeil.com/page/view/2026112007095568105",
-    "https://www.upkoreanews.kr/news/articleView.html?idxno=101279"
+    "https://www.upkoreanews.kr/news/articleView.html?idxno=101279",
+    "https://www.yna.co.kr/view/AKR20261120010751072?input=1195m",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=301873"
    ],
    "seen_titles": [
-    "증시폭락에증권가내년부동산경고…서울지고경기뜬다,세입자...",
-    "\"ESS화재징후사흘전감지\"⋯삼성SDI,AI안전기술확대",
     "[심양섭의정론직격]'월급쟁이가봉이냐'던대통령,이제답할차례다",
     "'사회적가치'외친최태원…SKT는고객배상조정거부",
     "美'BAAJA'법안,'젠슨황스캔들'돌파구될까...전력·자본'병목'해...",
@@ -3330,10 +3328,12 @@
     "[게임리포트]문경은감독이기다린강성욱의모습,“공수에서올해...",
     "미국증시,앤트로픽상장호재에도다우1100P급락…AI·반도체매도확...",
     "2천700억넣었는데4조됐다…SKT,앤트로픽상장에'16배잭팟'",
-    "[오늘증시전망]코스피5,100선회복했지만뉴욕증시급락…20일외국..."
+    "[오늘증시전망]코스피5,100선회복했지만뉴욕증시급락…20일외국...",
+    "앤트로픽상장에도뉴욕증시2%대급락…다우50,000선붕괴(종합)",
+    "상장사10곳중7곳,4분기실적하향…삼전닉스맑음,석화·배터리먹..."
    ],
    "initialized": true,
-   "last_run": "2026-11-20T07:15:38.578391+09:00"
+   "last_run": "2026-11-20T07:20:29.464959+09:00"
   }
  },
  "press_names": {
