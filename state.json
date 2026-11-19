@@ -1121,13 +1121,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/MYH2026111816095700p",
-    "https://www.newsis.com/view/NISX20261118_0003873633",
-    "https://www.khan.co.kr/article/202611181609001",
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261319",
-    "https://news.mtn.co.kr/article/2026111816122956664",
-    "https://www.lawtimes.co.kr/news/articleView.html?idxno=229632",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=452303",
     "https://www.newsq.co.kr/news/articleView.html?idxno=500946",
     "https://www.hankyung.com/article/2026111839221",
     "https://www.greened.kr/news/articleView.html?idxno=354903",
@@ -2620,16 +2613,16 @@
     "https://www.hankyung.com/article/202611196526g",
     "https://www.wikileaks-kr.org/news/articleView.html?idxno=194868",
     "https://www.busan.com/view/busan/view.php?code=2026111912100614149",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=88071"
+    "https://www.pointe.co.kr/news/articleView.html?idxno=88071",
+    "https://www.businessplus.kr/news/articleView.html?idxno=120138",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=281683",
+    "http://www.smedaily.co.kr/news/articleView.html?idxno=366334",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494469",
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494478",
+    "https://news.mtn.co.kr/article/2026111909585489849",
+    "https://www.asiatime.co.kr/article/20261119500190"
    ],
    "seen_titles": [
-    "엔비디아실적에반도체반등…코스피,하루만에5000선회복",
-    "엔비디아호실적…코스피하루만에5,000선회복",
-    "코스피,하루만에5000선회복…엔비디아훈풍에2%상승",
-    "엔비디아에울고웃는코스피…5000선하루만에회복",
-    "[재계]유상호에12년,증권사엔1조9000억원···김남구회장의한투...",
-    "포스코그룹,中CATL과리튬장기공급계약…글로벌판로확대",
-    "청년법조인들,'LEET만점'이진우씨위계공무집행방해·업무방해등...",
     "한전연료비부담에요금개편까지'이중고',적자전환우려속전력요...",
     "4쿼터만되면돌변,정관장5연승의비밀[프로농구]",
     "800조반도체가바꿀대한민국지도…'첨단산업새심장'이뛴다",
@@ -4122,10 +4115,17 @@
     "'AI거품론무색'대규모인프라투자전망에…삼전닉스조용히웃는다",
     "SK브로드밴드,해저케이블안정성·보안강화…글로벌데이터망고도화",
     "지난해10대그룹내부거래185조…쿠팡비중·규모모두'톱5'",
-    "대기업집단내부거래841조원…사익편취규제대상10곳중9곳은'수의계..."
+    "대기업집단내부거래841조원…사익편취규제대상10곳중9곳은'수의계...",
+    "[이슈+]10대그룹내부거래185조…쿠팡,계열사거래액'톱5'진입",
+    "SemiconductorEquipmentUpcycleSeenLastingThrough2028asFront-E",
+    "'성공적IPO'치른앤트로픽…AI시장불확실성지울까",
+    "SKB,부산~싱가포르해저케이블에양자보안시험망구축",
+    "ADT캡스,수능당일긴급이동지원···27년째수험생호송",
+    "ADT캡스,수능날수험생긴급수송지원...27년째이어온특별호송",
+    "거주지제한없는전국청약…연말신규분양잇따라"
    ],
    "initialized": true,
-   "last_run": "2026-11-19T12:20:40.034636+09:00"
+   "last_run": "2026-11-19T12:25:22.262152+09:00"
   }
  },
  "press_names": {
