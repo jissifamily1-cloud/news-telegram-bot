@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-19T23:45:28.972001+09:00",
-     "광산구 서구 전남광주시 북구 남구"
-    ],
-    [
      "2026-11-19T23:55:22.617158+09:00",
      "6년도 아모데이 IPO 남매가 창업 역대 앤스로픽"
     ],
@@ -218,11 +214,17 @@
     [
      "2026-11-20T05:35:07.341625+09:00",
      "재고 미국 국제유가 원유 소식에 GS 에쓰오일 급락 급증"
+    ],
+    [
+     "2026-11-20T05:45:35.785411+09:00",
+     "일부 삼성 쿤룬 출하 고객 바이두 보류 TSMC 중국"
+    ],
+    [
+     "2026-11-20T05:45:35.785411+09:00",
+     "KIA 정수빈 외야 두산 행선지는 최대어 FA 김호령 남은"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20116283",
-    "http://www.efnews.co.kr/news/articleView.html?idxno=134124",
     "https://www.kyeonggi.com/article/20261119580086",
     "https://www.epnc.co.kr/news/articleView.html?idxno=410013",
     "https://biz.sbs.co.kr/article_hub/20000347495?division=NAVER",
@@ -1720,11 +1722,11 @@
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611191321148500788",
     "https://www.sentv.co.kr/article/view/sentv202611200003",
     "https://www.koreaherald.com/article/10943091",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=628833"
+    "https://www.cbci.co.kr/news/articleView.html?idxno=628833",
+    "https://www.the-today.com/news/articleView.html?idxno=93844",
+    "https://www.newspim.com/news/view/20261119001002"
    ],
    "seen_titles": [
-    "방청권에요금·단말기할인…이통3사,수능수험생혜택경쟁",
-    "역대급실적찍은엔비디아…‘거품논란’순환금융손본다",
     "SK,독립이사들과디렉터스서밋'거버넌스데이'개최...이사회중심강...",
     "인천아파트테라스외벽붕괴사고조사기간연장…내년1월발표",
     "수능끝놀아볼까…SKT,수험생대상공연·AI등혜택제공",
@@ -3222,10 +3224,12 @@
     "[수출1조달러시대숨은주역]①불황에심은HBM‘결실’…삼전닉스...",
     "이상일용인시장,용인주택·교통대책정부에촉구",
     "[LeeByung-jong]Korea'sloftyAIambitions",
-    "[관심주]미국원유재고급증소식에국제유가급락…에쓰오일·GS·SK..."
+    "[관심주]미국원유재고급증소식에국제유가급락…에쓰오일·GS·SK...",
+    "[투데이온]삼성·TSMC,중국고객일부칩출하보류…바이두쿤룬·바...",
+    "[프로야구]외야남은FA최대어,KIA김호령두산정수빈행선지는"
    ],
    "initialized": true,
-   "last_run": "2026-11-20T05:40:31.260287+09:00"
+   "last_run": "2026-11-20T05:45:35.785411+09:00"
   }
  },
  "press_names": {
