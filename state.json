@@ -1129,12 +1129,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261117_0003872099",
-    "https://www.fntimes.com/html/view.php?ud=20261119085523812b372994c95_18",
-    "https://www.kyeonggi.com/article/20261119580029",
-    "https://www.sisajournal.com/news/articleView.html?idxno=394555",
-    "https://www.ccreview.co.kr/news/articleView.html?idxno=363140",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505726",
     "https://www.eroun.net/news/articleView.html?idxno=95932",
     "https://www.ekn.kr/web/view.php?key=20261119024301839",
     "http://www.newskr.kr/news/articleView.html?idxno=108123",
@@ -2628,15 +2622,15 @@
     "http://www.osen.co.kr/article/G1112912292",
     "https://www.newspim.com/news/view/20261119001442",
     "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5231850",
-    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5231854"
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5231854",
+    "http://www.osen.co.kr/article/G1112912301",
+    "http://www.osen.co.kr/article/G1112912297",
+    "http://www.osen.co.kr/article/G1112912299",
+    "http://www.osen.co.kr/article/G1112912298",
+    "http://www.osen.co.kr/article/G1112912300",
+    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261120.22004006345"
    ],
    "seen_titles": [
-    "최태원“사회문제해결하면돈버는시장만들자”…‘새로운자본주...",
-    "첫팹에전기와물,언제들어오나[반도체호남시대②]",
-    "서초구‘아크로리버뷰신반포’26평,10억원하락한50억원거래[일일...",
-    "세상밖으로한걸음…경기도,‘고립·은둔청년나와봄이야기’개최",
-    "삼전·닉스미래,여기에달렸다…2000조원'빅딜'에숨죽인이유",
-    "충북도,네덜란드서광반도체·반도체장비기업투자유치활동",
     "SKT,수능마친수험생에가요대전방청권·AI구독권등혜택제공",
     "SK그룹,독립이사와이사회중심경영성과·발전방향논의",
     "최태원,SK이사회에“AI투자확대에도주주가치관점서독립판단”",
@@ -4130,10 +4124,16 @@
     "[사진]역전3점슛문정현,다시앞서간다",
     "[프로농구]KBL,KT포터테크니컬파울반칙금20만원철회",
     "'1조달러'선봉…24시간불밝힌반도체공장",
-    "평택넘어용인·광주까지…미래투자로\"K-반도체위상이어간다\""
+    "평택넘어용인·광주까지…미래투자로\"K-반도체위상이어간다\"",
+    "[사진]워니!버저비터슛최고야",
+    "[사진]워니,문정현!무릎의한파울이야",
+    "[사진]워니,재역전버저비터슛",
+    "[사진]워니,훅슛",
+    "[사진]모두가놀란워니의버저비터슛",
+    "부전~마산선붕괴,지반아닌검증안된공법탓(종합)"
    ],
    "initialized": true,
-   "last_run": "2026-11-19T19:50:35.311102+09:00"
+   "last_run": "2026-11-19T19:55:22.466965+09:00"
   }
  },
  "press_names": {
