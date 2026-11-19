@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-19T23:05:24.139728+09:00",
-     "수능 서비스 끝난 수험생에 문화 제공"
-    ],
-    [
      "2026-11-19T23:35:24.008951+09:00",
      "SK텔레콤의 승부는 잭폿 다음 앤트로픽 4조 데이터센터"
     ],
@@ -206,12 +202,21 @@
     [
      "2026-11-20T05:05:22.729614+09:00",
      "세계로 호텔 각축 롯데 김치 조선 워커힐"
+    ],
+    [
+     "2026-11-20T05:10:29.952136+09:00",
+     "반도체 AMD 상장에도 우회수출 앤트로픽 주르륵 중국"
+    ],
+    [
+     "2026-11-20T05:10:29.952136+09:00",
+     "투자 5000피 돌아오나 흥행에 앤트로픽 사수 심리"
+    ],
+    [
+     "2026-11-20T05:10:29.952136+09:00",
+     "경품 잡아라 여행 이통3사 할인 구독 쏜다 영화 수험생"
     ]
    ],
    "seen_urls": [
-    "http://www.press9.kr/news/articleView.html?idxno=86650",
-    "https://dealsite.co.kr/articles/172971",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085129",
     "https://biz.heraldcorp.com/article/10942357",
     "https://zdnet.co.kr/view/?no=20261119100818",
     "https://www.mt.co.kr/tech/2026/11/19/2026111910024754364",
@@ -1708,12 +1713,12 @@
     "https://www.joongang.co.kr/article/25480360",
     "https://www.joongang.co.kr/article/25480365",
     "https://www.edaily.co.kr/News/Read?newsId=01223446645647688&mediaCodeNo=257",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085234"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085234",
+    "https://www.mediapen.com/news/view/1138720",
+    "https://www.seoul.co.kr/news/economy/securities/2026/11/20/20261120029001?wlog_tag3=naver",
+    "https://www.seoul.co.kr/news/economy/industry/2026/11/20/20261120031001?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "China'sAIInvestmentMayCushionGlobalMemoryMarketAgainstU.S.Sl",
-    "SK바사RSM01,기존RSV예방항체比내성발생↓",
-    "[금융지주임원인사전망][BNK금융]'IB전문가'신명호대표,실적은...",
     "한화해외법인894곳'최다'…삼성,SK제치고2위탈환",
     "영종국제도시,항공정비산업거점으로육성…’영종SK뷰‘분양진행",
     "해저케이블도양자로지킨다...SKB국제시험망구축",
@@ -3210,10 +3215,13 @@
     "코스피9000때판두고수“11월부터이종목다시샀다”",
     "오징어에서반도체·BTS까지…수출1조달러일군10대개척자",
     "반도체가열고자동차·조선이받쳤다…수출로제조업경쟁력입증",
-    "[매치업]'호텔김치'세계로…롯데·조선·워커힐각축"
+    "[매치업]'호텔김치'세계로…롯데·조선·워커힐각축",
+    "[美증시특징주]앤트로픽상장에도반도체'주르륵'…AMD중국우회수출...",
+    "앤트로픽흥행에5000피사수…AI투자심리돌아오나",
+    "수험생잡아라…이통3사‘AI구독·영화·여행’할인·경품쏜다"
    ],
    "initialized": true,
-   "last_run": "2026-11-20T05:05:22.729614+09:00"
+   "last_run": "2026-11-20T05:10:29.952136+09:00"
   }
  },
  "press_names": {
