@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-20T22:50:27.416020+09:00",
-     "산업화 기술 KT 통신망 확보 장비에 LG전자 승부는 양자통신"
-    ],
-    [
      "2026-11-20T23:05:24.262455+09:00",
      "집과 일자리 함께 신도시 세운 3기 교통"
     ],
@@ -106,10 +102,13 @@
     [
      "2026-11-21T04:15:27.058909+09:00",
      "앤트로픽 공모가 급락 나스닥 반도체지수"
+    ],
+    [
+     "2026-11-21T04:50:29.312833+09:00",
+     "알파벳에 엔비디아 테마 투매에 시총 와르르 4위로 밀려"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=302105",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611200021&t=NN",
     "https://www.thepublic.kr/news/articleView.html?idxno=327571",
     "http://www.newsdream.kr/news/articleView.html?idxno=122612",
@@ -1608,10 +1607,10 @@
     "https://www.fnnews.com/news/202611210309557646",
     "https://www.ytn.co.kr/_ln/0104_202611210400360984",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=95010",
-    "https://www.mediapen.com/news/view/1138959"
+    "https://www.mediapen.com/news/view/1138959",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445831"
    ],
    "seen_titles": [
-    "앤트로픽17%뛰자뉴욕증시급락…삼전닉스프리장서4~5%↓[코주부]",
     "KB증권\"삼성전자·SK하이닉스,AI메모리수요에내년D램판가40%↑\"",
     "\"본격폭락아직시작안했다\"…'7만전자·20만닉스'제시한애널리스...",
     "유안타증권\"SK텔레콤,앤트로픽상장첫날지분가치5조\"",
@@ -3110,10 +3109,11 @@
     "트럼프\"美기업해외데이터센터금지추진…어기면세금폭탄\"",
     "앤트로픽상장이틀째10%급락...AI투자불안확산",
     "[뉴욕증시장중]반도체지수8%↓·나스닥3%대급락…앤트로픽공모가...",
-    "[美증시]반도체,앤트로픽급락쇼크에'초토화'...엔비디아·메모리대..."
+    "[美증시]반도체,앤트로픽급락쇼크에'초토화'...엔비디아·메모리대...",
+    "엔비디아,AI테마투매에'와르르'…알파벳에밀려시총4위로"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T04:45:36.102065+09:00"
+   "last_run": "2026-11-21T04:50:29.312833+09:00"
   }
  },
  "press_names": {
