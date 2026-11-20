@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-20T10:40:29.420493+09:00",
-     "겹쳤다 랠리 호재까지 임상 한미약품 한미사이언스 기술수출에 신약"
-    ],
-    [
      "2026-11-20T10:45:26.937199+09:00",
      "SK인텔릭스 코웨이 한샘"
     ],
@@ -894,16 +890,17 @@
     [
      "2026-11-20T16:35:21.992095+09:00",
      "동부권은 소외 말하나 불구하고 의대 확정에도 순천대"
+    ],
+    [
+     "2026-11-20T16:40:33.595235+09:00",
+     "미래에셋증권 삼성증권 교보증 대신증권 NH투자증권"
+    ],
+    [
+     "2026-11-20T16:40:33.595235+09:00",
+     "최기억 기업도 한스경제 국가도 체력 대표"
     ]
    ],
    "seen_urls": [
-    "https://www.cbci.co.kr/news/articleView.html?idxno=628637",
-    "http://www.osen.co.kr/article/G1112912275",
-    "http://www.osen.co.kr/article/G1112912274",
-    "http://www.osen.co.kr/article/G1112912273",
-    "http://www.osen.co.kr/article/G1112912272",
-    "https://www.ytn.co.kr/_ln/0102_202611191916562519",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611190160&t=NN",
     "http://www.osen.co.kr/article/G1112912279",
     "http://www.osen.co.kr/article/G1112912278",
     "http://www.osen.co.kr/article/G1112912280",
@@ -2396,16 +2393,16 @@
     "https://www.ytn.co.kr/_ln/0102_202611201627594707",
     "http://www.thevaluenews.co.kr/news/view.php?idx=203509",
     "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/20/2026112080163.html",
-    "https://www.newswhoplus.com/news/articleView.html?idxno=75016"
+    "https://www.newswhoplus.com/news/articleView.html?idxno=75016",
+    "https://www.hani.co.kr/arti/economy/finance/1288373.html",
+    "https://en.yna.co.kr/view/AEN20261120005652320?input=2106m",
+    "http://www.kjdaily.com/article.php?aid=1795159975692991276",
+    "https://www.kyosu.net/news/articleView.html?idxno=212715",
+    "https://www.ytn.co.kr/_ln/0102_202611201633389174",
+    "http://www.financialreview.co.kr/news/articleView.html?idxno=46489",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=885551"
    ],
    "seen_titles": [
-    "[메가이슈분석]경제성장률3.9%전망에도가계빚2030조원…금융권건...",
-    "세번비겼던제주,이번엔승리노린다!→김천상무,'전역앞둔11기...",
-    "광산구,반도체선진도시청주서지역경제성장해법모색",
-    "[사진]3점슛시도하는안성우",
-    "[사진]배스,완벽한슛블록",
-    "[사진]공살려내는수원KT배스",
-    "[사진]김형빈,속공받아서골밑슛",
     "수출1조달러돌파'새역사'...세계4번째기록",
     "41세배우박하나,엄마된다…\"소중한생명찾아와\"",
     "[사진]워니,속공찬스",
@@ -3898,10 +3895,17 @@
     "미국발삭풍에하락마감...코스피·코스닥5%대↓",
     "[더밸류브리핑]오늘의증권사소식...교보증권·SK증권",
     "패션·명품·가전총출동…유통업계,연말‘블프’쇼핑대전돌입",
-    "순천대의대확정에도불구하고,왜동부권은'소외'를말하나"
+    "순천대의대확정에도불구하고,왜동부권은'소외'를말하나",
+    "코스피4869.96마감,올해1월수준…고점대비시총3400조원증발",
+    "(2ndLD)Seoulsharesplungeover5pctasAnthropicdebutfailstoease.",
+    "삼성전자7.01%·SK하이닉스5.92%주가하락마감",
+    "이화여대,캠퍼스특허유니버시아드대통령상포함3팀수상",
+    "SK하이닉스,일본키옥시아전환사채주식전환...14.1%보유",
+    "[오늘의증권]미래에셋증권·삼성증권·대신증권·NH투자증권·교보증...",
+    "[2026K-스포노믹스]최기억한스경제대표\"기업도국가도체력\""
    ],
    "initialized": true,
-   "last_run": "2026-11-20T16:35:21.992095+09:00"
+   "last_run": "2026-11-20T16:40:33.595235+09:00"
   }
  },
  "press_names": {
