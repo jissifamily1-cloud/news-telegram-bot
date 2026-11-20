@@ -990,15 +990,21 @@
     [
      "2026-11-20T11:50:28.325064+09:00",
      "체제 인사 연말 내년 임기 김대현 3월 옥경화"
+    ],
+    [
+     "2026-11-20T12:00:42.603097+09:00",
+     "흑자에도 제약사 돈이 마른 현금 기업들 성적표 50곳의"
+    ],
+    [
+     "2026-11-20T12:00:42.603097+09:00",
+     "요금제 어르신 남는다 1만원대 KT만 LG유플도 퇴장"
+    ],
+    [
+     "2026-11-20T12:00:42.603097+09:00",
+     "전년 용인 성남 수원 3개 연내 이하 일반분양 절반"
     ]
    ],
    "seen_urls": [
-    "https://daily.hankooki.com/news/articleView.html?idxno=1427010",
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=242007",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=301966",
-    "https://www.edaily.co.kr/News/Read?newsId=03368566645647360&mediaCodeNo=257",
-    "https://www.fnnews.com/news/202611191431275364",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505949",
     "https://www.econovill.com/news/articleView.html?idxno=757833",
     "http://www.newstomato.com/ReadNews.aspx?no=1321098&inflow=N",
     "https://www.moneystorm.kr/news/articleView.html?idxno=8602",
@@ -2492,15 +2498,15 @@
     "https://www.asiatime.co.kr/article/20261120500103",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=94934",
     "https://www.cbci.co.kr/news/articleView.html?idxno=629048",
-    "https://kjmbc.co.kr/NewsArticle/1546601"
+    "https://kjmbc.co.kr/NewsArticle/1546601",
+    "https://www.munhwa.com/article/11632896",
+    "http://www.inews24.com/view/2028600",
+    "https://www.ytn.co.kr/_ln/0102_202611201153495293",
+    "https://www.medipana.com/news/articleView.html?idxno=422293",
+    "https://biz.sbs.co.kr/article_hub/20000347810?division=NAVER",
+    "http://www.weeklytoday.com/news/articleView.html?idxno=802783"
    ],
    "seen_titles": [
-    "부전~마산터널붕괴…‘불가항력’아닌시공부실",
-    "韓수출연1조달러돌파…SK하이닉스\"반도체동반성장지속앞장\"",
-    "\"수출1조달러주역HBM\"…SK하이닉스,소부장과반도체경쟁력강화",
-    "수출1조달러'금자탑'…AI반도체질주속통상·낙수효과과제",
-    "석유협회장쓴소리\"석유제품원가손실보전,정당한보상맞나\"(종합)",
-    "앤스로픽나스닥입성…AI수익성시험대에선반도체주",
     "10대그룹내부거래185조…쿠팡첫5위권",
     "수출1331조원이끈반도체…SK하이닉스\"소부장과'원팀'으로일군성과...",
     "SK,전·현직독립이사모아이사회중심경영논의",
@@ -3994,10 +4000,16 @@
     "용인시,반도체인구40만명유입대비신도시추가조성정부에건의",
     "자연어질문만으로종목탐색·기술적분석지원…SK증권,'AI조건검색...",
     "이주완메모리가격하락경고…삼성전자·SK하이닉스주가변곡점은?",
-    "광주특별시반도체실장에삼전·닉스추천인사"
+    "광주특별시반도체실장에삼전·닉스추천인사",
+    "앤트로픽쏠림·AI과잉투자공포·중국규제리스크…반도체주‘와르...",
+    "SK인텔릭스,숭실대학생들에웰니스로봇생산현장공개",
+    "미국발삭풍에증시약세...한때4,900내준코스피",
+    "제약사50곳의현금성적표…흑자에도돈이마른기업들",
+    "LG유플도어르신1만원대요금제퇴장…KT만남는다",
+    "[위클리오늘]성남·용인·수원일반분양전년절반이하···연내3개단..."
    ],
    "initialized": true,
-   "last_run": "2026-11-20T11:55:20.671064+09:00"
+   "last_run": "2026-11-20T12:00:42.603097+09:00"
   }
  },
  "press_names": {
