@@ -1041,8 +1041,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/world/international-economy/6360312",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445639",
     "http://www.breaknews.com/1252457",
     "https://www.news1.kr/finance/general-stock/6360003",
     "https://www.stnsports.co.kr/news/articleView.html?idxno=325800",
@@ -2540,11 +2538,11 @@
     "https://www.betanews.net/article/view/beta202611200163",
     "https://www.besteleven.com/news/articleView.html?idxno=314193",
     "https://futurechosun.com/?p=167305",
-    "https://www.ytn.co.kr/_ln/0102_202611201839426402"
+    "https://www.ytn.co.kr/_ln/0102_202611201839426402",
+    "https://www.sportschosun.com/basketball/2026-11-20/202611200100131010012252",
+    "http://www.kjdaily.com/article.php?aid=1795167904693002276"
    ],
    "seen_titles": [
-    "\"시진핑형님덕에웃었네요\"…카지노·항공주'잭팟'[분석+]",
-    "中전기차·배터리에209조원지원…日·유럽·美자국생산우대,韓은...",
     "[서울데이터랩]미뉴욕증시급락마감…다우2.19%·나스닥2.25%하락",
     "[기획]반도체영업이익률80%육박하는데철강은1%대…한국제조업수...",
     "중국에발목잡힌AMD…하나마이크론·네패스수혜가능성주목",
@@ -4042,10 +4040,12 @@
     "[2027년산업전망-제약]\"글로벌지수와상승동행...밸류에이션매력부...",
     "형따라시작한축구,어느덧K리그100경기금자탑!…김천상무홍윤상...",
     "[더나은미래경제브리핑]코스피5%대급락에4900선밑으로‘10개월만...",
-    "미국발삭풍에약세마감...코스피,4,900선도붕괴"
+    "미국발삭풍에약세마감...코스피,4,900선도붕괴",
+    "[공식발표]'이정현→유기상OUT'아시안게임금메달리스트단4명만합류...",
+    "코스피·코스닥주요공시(20일)"
    ],
    "initialized": true,
-   "last_run": "2026-11-20T18:45:37.136584+09:00"
+   "last_run": "2026-11-20T18:50:26.909826+09:00"
   }
  },
  "press_names": {
