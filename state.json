@@ -694,12 +694,13 @@
     [
      "2026-11-20T21:45:32.318276+09:00",
      "모델 추계학술대회서 디지털헬스학회 SK텔레콤 발표"
+    ],
+    [
+     "2026-11-20T21:55:21.246622+09:00",
+     "현장형 청년 고용정책 한자리에 취업정보 전주서 팝업스토어 청주"
     ]
    ],
    "seen_urls": [
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=305453",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611171500563160109616",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611121410447560106865",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611161704459160104668",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611121011187920108013",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611181145184920108167",
@@ -2196,12 +2197,12 @@
     "https://view.asiae.co.kr/article/2026112021250462265",
     "http://www.econonews.co.kr/news/articleView.html?idxno=447479",
     "https://news.tvchosun.com/site/data/html_dir/2026/11/20/2026112090286.html",
-    "https://www.medigatenews.com/news/2728639954"
+    "https://www.medigatenews.com/news/2728639954",
+    "https://www.ajunews.com/view/20261120213700764",
+    "https://www.ajunews.com/view/20261120214900767",
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=92415"
    ],
    "seen_titles": [
-    "美반도체급락…프리마켓서삼성전자4%·SK하이닉스5%하락",
-    "햄버거먹었는데옷할인권이?…무신사·롯데리아손잡고최대99%세일",
-    "메모리진짜호황이제시작…\"삼전닉스내년D램값40%뛴다\"",
     "[더벨]더화이트커뮤니케이션,프리IPO추진…노앤파트너스참여",
     "NOL,日오카야마여행기획전...노랑풍선,'요나고·돗토리·마쓰에'상...",
     "美CSIS연구원\"메모리공급난,한국과협력해야…관세압박은역효과...",
@@ -3698,10 +3699,13 @@
     "여자핸드볼,아시아선수권정상탈환도전…통산17번째우승겨냥",
     "코스피,5%대낙폭에4900선밑으로...삼성전기,SK스퀘어등하락",
     "삼성·LG하루에만135명'별'탄생…평균연봉7억원,일반직원5배",
-    "SK텔레콤,디지털헬스학회추계학술대회서A.X모델발표"
+    "SK텔레콤,디지털헬스학회추계학술대회서A.X모델발표",
+    "[오늘의뉴스종합]美증시급락에코스피5%대하락…4900선무너진'검...",
+    "SK하이닉스,日키옥시아지분14.1%확보…간접최대주주오른다",
+    "청년취업정보·고용정책한자리에…청주·전주서현장형팝업스토어열..."
    ],
    "initialized": true,
-   "last_run": "2026-11-20T21:50:30.823019+09:00"
+   "last_run": "2026-11-20T21:55:21.246622+09:00"
   }
  },
  "press_names": {
