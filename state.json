@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-21T01:45:37.499305+09:00",
-     "휴양 쏠림 노랑풍선 돗토리 요나고 벗어나 소도시 대도시"
-    ],
-    [
-     "2026-11-21T01:45:37.499305+09:00",
-     "덮은 코스피 앤스로픽 붕괴 호재 거품론"
-    ],
-    [
      "2026-11-21T01:50:33.778173+09:00",
      "800대로 데뷔 앤트로픽 화려한 코스피는"
     ],
@@ -137,7 +129,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/202611209079g",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=903764",
     "https://www.viva100.com/article/20261120500071",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286635&CMPT_CD=P0010",
@@ -1636,10 +1627,10 @@
     "https://www.globale.co.kr/news/articleView.html?idxno=41773",
     "https://www.getnews.co.kr/news/articleView.html?idxno=887956",
     "https://www.bigtanews.co.kr/article/view/big202611210004",
-    "https://sateconomy.co.kr/news/view/1065625127542765"
+    "https://sateconomy.co.kr/news/view/1065625127542765",
+    "https://www.sedaily.com/article/20117186"
    ],
    "seen_titles": [
-    "코스피,3%대급락해4900선…삼성전자·SK하이닉스동반약세",
     "[개장시황]코스피,하락출발…미국반도체급락여파",
     "“미국인들,삼전닉스왜팔죠?”…외국인두달간국내주식45조순매...",
     "'관록'보여준허일영의깜짝활약...정관장6연승이끌다",
@@ -3138,10 +3129,11 @@
     "뉴욕증시,엔비디아14%폭락·AI투자쇼크···나스닥5.28%추락",
     "뉴욕증시,기술주집중매도에급락…나스닥5.8%폭락",
     "삼성증권,11월셋째주롯데관광개발등22종목매수추천",
-    "SK하이닉스,키옥시아투자법인100%확보추진…신규지출은1억엔"
+    "SK하이닉스,키옥시아투자법인100%확보추진…신규지출은1억엔",
+    "나스닥,AI주‘패닉셀’에5.3%폭락...연간수익률마이너스전환[데..."
    ],
    "initialized": true,
-   "last_run": "2026-11-21T07:45:33.498085+09:00"
+   "last_run": "2026-11-21T07:50:26.743706+09:00"
   }
  },
  "press_names": {
