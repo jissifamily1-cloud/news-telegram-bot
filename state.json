@@ -109,7 +109,6 @@
     ]
    ],
    "seen_urls": [
-    "https://kpenews.com/View.aspx?No=4321484",
     "http://www.srtimes.kr/news/articleView.html?idxno=218103",
     "https://www.thepublic.kr/news/articleView.html?idxno=327572",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=302105",
@@ -1608,10 +1607,10 @@
     "https://www.donga.com/news/Economy/article/all/20261120/135064160/2",
     "https://imnews.imbc.com/replay/2026/nw2500/article/6867400_36989.html",
     "https://www.ekn.kr/web/view.php?key=20261121021512636",
-    "https://www.fnnews.com/news/202611210309557646"
+    "https://www.fnnews.com/news/202611210309557646",
+    "https://www.ytn.co.kr/_ln/0104_202611210400360984"
    ],
    "seen_titles": [
-    "삼전닉스,AMD중국수출통제의혹에프리마켓4~6%하락[특징주]",
     "앤트로픽도구하지못한뉴욕증시...상장첫날17%올랐지만3대지수는...",
     "[마켓프리뷰]美반도체주급락에국내증시도'찬바람'…5000선사수주...",
     "앤트로픽17%뛰자뉴욕증시급락…삼전닉스프리장서4~5%↓[코주부]",
@@ -3110,10 +3109,11 @@
     "앤스로픽호재덮은‘AI거품론’…코스피4900붕괴",
     "앤트로픽화려한데뷔‥코스피는4,800대로",
     "[똑똑한유통]번개장터,쿠팡로지스틱스서비스,SK인텔릭스,아이파크몰...",
-    "트럼프\"美기업해외데이터센터금지추진…어기면세금폭탄\""
+    "트럼프\"美기업해외데이터센터금지추진…어기면세금폭탄\"",
+    "앤트로픽상장이틀째10%급락...AI투자불안확산"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T04:00:45.775274+09:00"
+   "last_run": "2026-11-21T04:05:27.433373+09:00"
   }
  },
  "press_names": {
