@@ -121,7 +121,6 @@
     ]
    ],
    "seen_urls": [
-    "https://basketkorea.com/news/newsview.php?ncode=1065563532428557",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1732421",
     "https://biz.newdaily.co.kr/site/data/html/2026/11/20/2026112050056.html",
     "https://www.hankyung.com/article/2026112091686",
@@ -1620,10 +1619,10 @@
     "https://www.yna.co.kr/view/AKR20261120137900008?input=1195m",
     "https://www.newspim.com/news/view/20261120000651",
     "https://www.mt.co.kr/industry/2026/11/21/2026112015040597243",
-    "https://www.newsway.co.kr/news/view?ud=2026112010193954626"
+    "https://www.newsway.co.kr/news/view?ud=2026112010193954626",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856528&plink=ORI&cooper=NAVER"
    ],
    "seen_titles": [
-    "SK텔레콤,성수T팩토리서AI추억기록·문화유산전시개최",
     "[속보]앤트로픽상장에도美증시폭락…삼전닉스프리장4~5%대급락...",
     "SKT,T팩토리성수연말전시…AI가분석하는2026기억결산표",
     "[특징주]美반도체주약세에삼성전자4%대·SK하이닉스6%대하락",
@@ -3122,10 +3121,11 @@
     "[마켓人]IT접목해주주운동뒷받침하는이상목컨두잇대표",
     "[GAM]AI반도체숨은승부처'메모리인터페이스'②中몬타지도뜬다",
     "'AI격변기'리더십유지…재계인사,안정속쇄신택했다",
-    "\"주식팔았는데왜출금은안되지?\"…매도대금의비밀[주린이투자지침..."
+    "\"주식팔았는데왜출금은안되지?\"…매도대금의비밀[주린이투자지침...",
+    "코스피10개월만에'최저치'…반도체비관론언제까지?"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T07:11:00.493715+09:00"
+   "last_run": "2026-11-21T07:15:51.220904+09:00"
   }
  },
  "press_names": {
