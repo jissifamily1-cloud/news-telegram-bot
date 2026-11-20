@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-20T11:45:29.468104+09:00",
-     "전남광주 추천받아 반도체산업지원실장 삼성 선임"
-    ],
-    [
-     "2026-11-20T11:50:28.325064+09:00",
-     "SK하이닉스 고수들 순매수 밀리자 초고수는 상위 이틀째 주식"
-    ],
-    [
-     "2026-11-20T11:50:28.325064+09:00",
-     "HBM 수출 비관론 떠받쳤다 13년만에 자동차도 대반전 1조달러"
-    ],
-    [
-     "2026-11-20T11:50:28.325064+09:00",
-     "체제 인사 연말 내년 임기 김대현 3월 옥경화"
-    ],
-    [
      "2026-11-20T12:00:42.603097+09:00",
      "흑자에도 제약사 돈이 마른 현금 기업들 성적표 50곳의"
     ],
@@ -978,13 +962,17 @@
     [
      "2026-11-20T17:45:27.330694+09:00",
      "대중규제 반도체 앤트로픽 쏠림 곤두박질 우려"
+    ],
+    [
+     "2026-11-20T17:50:28.833529+09:00",
+     "빠져도 몰빵했는데 정부 손놓은 한달반새 퇴직연금까지"
+    ],
+    [
+     "2026-11-20T17:50:28.833529+09:00",
+     "the but Kospi Chip rattles say slump dip buy analysts below"
     ]
    ],
    "seen_urls": [
-    "https://www.cbci.co.kr/news/articleView.html?idxno=628825",
-    "https://biz.chosun.com/stock/stock_general/2026/11/20/WZMFGOYDIFAWXHA5F4WE5YMDRU/",
-    "https://www.chosun.com/economy/real_estate/2026/11/20/FL5NOZW2XZAPHMT5D5W6ACDF2I/",
-    "https://www.chosun.com/economy/tech_it/2026/11/20/AQTJIYGFEJFJ5CYWP63F3FHC2Q/",
     "https://www.donga.com/news/Economy/article/all/20261119/135055012/1",
     "https://www.chosun.com/economy/industry-company/2026/11/20/DICLQVVWAFCHPNKAAFKNKSBKYI/",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2382116",
@@ -2480,13 +2468,13 @@
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065601205776979",
     "https://www.hankyung.com/article/2026112007251",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=281844",
-    "https://www.mk.co.kr/article/12214868"
+    "https://www.mk.co.kr/article/12214868",
+    "https://www.nocutnews.co.kr/news/6610434",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=452549",
+    "https://www.sedaily.com/article/20117081",
+    "https://www.koreajoongangdaily.com/business/chip-slump-rattles-kospi-below-5000-but-analysts-say-buy-the-dip/12982994"
    ],
    "seen_titles": [
-    "탈중국움직임에…중국배터리사카드는‘기술동맹’",
-    "이상일용인시장,반도체클러스터40만명인구유입대비…정부에신도...",
-    "양자컴퓨터해킹위협막는다…SKB,한-싱가포르해저케이블에‘양자...",
-    "코스피상승에도인버스거래활발…ETF·ETN거래대금집중",
     "[뉴욕증시개장],앤트로픽상장기대에나스닥1.6%상승",
     "[관심주]SK텔레콤,앤트로픽상장앞두고6.78%하락…7만7천원거래",
     "앤트로픽상장기대감에…뉴욕증시일제히상승출발",
@@ -3982,10 +3970,14 @@
     "[금융투자밸류업]ETF성장넘어수익원다변화…신한자산운용의다음...",
     "결혼자금도노후자금도'반토막'…삼전닉스개미의'눈물'",
     "[ClosingMarket]KOSPIPlunges5.21%to4,860Level;KOSDAQTumbles5.",
-    "앤트로픽쏠림·대중규제우려…반도체株곤두박질"
+    "앤트로픽쏠림·대중규제우려…반도체株곤두박질",
+    "SK하이닉스청년창업파크,성과공유회'SPARKFesta'개최",
+    "[오늘의주목주]'AI투심위축'삼성전기주가12%대내려,코스피외인...",
+    "“퇴직연금까지몰빵했는데”…한달반새30%빠져도손놓은정부",
+    "ChipslumprattlesKospibelow5,000,butanalystssaybuythedip"
    ],
    "initialized": true,
-   "last_run": "2026-11-20T17:45:27.330694+09:00"
+   "last_run": "2026-11-20T17:50:28.833529+09:00"
   }
  },
  "press_names": {
