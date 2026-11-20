@@ -122,10 +122,13 @@
     [
      "2026-11-21T05:25:21.432174+09:00",
      "시드볼트 SKT 추억 보물트리 성수에 AI로 선봬 되살린다"
+    ],
+    [
+     "2026-11-21T05:30:35.242854+09:00",
+     "Networks Inference Shifting DataDirect Smaller to Sites Sees"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261120000150",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1732414",
     "https://www.econovill.com/news/articleView.html?idxno=757941",
     "https://www.newspim.com/news/view/20261120000114",
@@ -1624,10 +1627,10 @@
     "https://www.jemin.com/news/articleView.html?idxno=847942",
     "https://www.fnnews.com/news/202611201604521193",
     "https://www.theguru.co.kr/news/article.html?no=110044",
-    "https://www.apnews.kr/news/articleView.html?idxno=3053385"
+    "https://www.apnews.kr/news/articleView.html?idxno=3053385",
+    "https://econotimes.com/DataDirect-Networks-Sees-AI-Inference-Shifting-to-Smaller-Sites-1780498"
    ],
    "seen_titles": [
-    "앤트로픽상장에도뉴욕3대지수일제히하락…다우5만선붕괴",
     "프리마켓18만전자·111만닉스…앤트로픽상장후'썰물'",
     "삼성전자·SK하이닉스,메모리가격상승전망..내년D램40%·낸드30%'훌...",
     "이통3사,3년간행정제재100건육박…KT49건'최다'",
@@ -3126,10 +3129,11 @@
     "마이크론주가13%급락…AI반도체매도세에메모리기업동반하락",
     "\"흔들리는삼성·하이닉스,팔아야할까?…내년실적'역대급반전'예고...",
     "[통신리뷰]LG유플러스,IoT통신음영지역해소기술로전파방송기술...",
-    "SKT,AI로한해추억되살린다…성수에'시드볼트·보물트리'선봬"
+    "SKT,AI로한해추억되살린다…성수에'시드볼트·보물트리'선봬",
+    "DataDirectNetworksSeesAIInferenceShiftingtoSmallerSites"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T05:25:21.432174+09:00"
+   "last_run": "2026-11-21T05:30:35.242854+09:00"
   }
  },
  "press_names": {
