@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-20T13:35:21.014735+09:00",
-     "에스쁘아 앳홈 배달의민족 온더바디 세븐일레븐"
-    ],
-    [
      "2026-11-20T13:40:29.253123+09:00",
      "제조 수전해 SAF SK이노베이션 촉매 개발 기술 확보"
     ],
@@ -1002,10 +998,13 @@
     [
      "2026-11-20T19:30:44.037190+09:00",
      "원도심 바뀐다 건립에 여주 신청사 상생까지 경제지도가"
+    ],
+    [
+     "2026-11-20T19:35:28.361607+09:00",
+     "홍콩 속락 마감 H주 약세에 증시 나흘째 반도체주"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=301873",
     "https://www.sedaily.com/article/20116745",
     "https://www.the-today.com/news/articleView.html?idxno=93849",
     "https://www.topstarnews.net/news/articleView.html?idxno=16281084",
@@ -2504,10 +2503,10 @@
     "https://www.ccreview.co.kr/news/articleView.html?idxno=363334",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=54984",
     "https://econotimes.com/Anthropic-IPO-fails-to-lift-market-mood-as-tech-selloff-spreads-1780174",
-    "https://www.ytn.co.kr/_ln/0115_202611201920170897"
+    "https://www.ytn.co.kr/_ln/0115_202611201920170897",
+    "https://www.newsis.com/view/NISX20261120_0003877418"
    ],
    "seen_titles": [
-    "3달새51조또쌓였다…329조현금쥔삼전·닉스,지갑어디에열까",
     "5연승정관장VS5연승KCC,정관장'6연승'질주",
     "'박지훈,승리부른3점포'정관장,KCC누르고6연승거두며휴식기돌...",
     "무신사,'무진장겨울블프'오픈···패션부터버거최대80%할인",
@@ -4006,10 +4005,11 @@
     "대학대신반도체를택했다…4.67대1이던진새로운입시화두",
     "SKT,AI연말결산'시드볼트26'과'화이트보물트리'전시",
     "AnthropicIPOfailstoliftmarketmoodastechselloffspreads",
-    "신청사건립에원도심상생까지...여주경제지도가바뀐다"
+    "신청사건립에원도심상생까지...여주경제지도가바뀐다",
+    "[올댓차이나]홍콩증시,美반도체주약세에나흘째속락마감…H주1..."
    ],
    "initialized": true,
-   "last_run": "2026-11-20T19:30:44.037190+09:00"
+   "last_run": "2026-11-20T19:35:28.361607+09:00"
   }
  },
  "press_names": {
