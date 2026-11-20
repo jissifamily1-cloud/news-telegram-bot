@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-20T19:30:44.037190+09:00",
-     "원도심 바뀐다 건립에 여주 신청사 상생까지 경제지도가"
-    ],
-    [
      "2026-11-20T19:35:28.361607+09:00",
      "홍콩 속락 마감 H주 약세에 증시 나흘째 반도체주"
     ],
@@ -193,7 +189,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.fnnews.com/news/202611200807034297",
     "https://www.yna.co.kr/view/AKR20261120028100008?input=1195m",
     "https://www.imaeil.com/page/view/2026112008181745533",
     "https://www.electimes.com/news/articleView.html?idxno=375040",
@@ -1692,10 +1687,10 @@
     "https://www.dt.co.kr/article/12096369",
     "https://www.newsis.com/view/NISX20261120_0003876846",
     "https://www.tokenpost.kr/news/breaking/441669",
-    "https://www.joongang.co.kr/article/25480634"
+    "https://www.joongang.co.kr/article/25480634",
+    "http://www.issuenbiz.com/news/articleView.html?idxno=81852"
    ],
    "seen_titles": [
-    "[분석]KB證,삼전닉스내년D램값40%↑전망",
     "무신사,내달2일까지블랙프라이데이…수험생에할인쿠폰제공",
     "앤트로픽IPO흥행에도뉴욕증시2%급락...다우5만선밑돌아[뉴욕증...",
     "[동향]수능끝나자수험생잡기경쟁…통신·유통·외식업계할인전",
@@ -3194,10 +3189,11 @@
     "뉴욕증시,엔트로픽9%·마이크론6%급락출발…기술주투심위축속...",
     "삼전7만,하닉20만원전망한전문가…\"엔비디아,장기적으로경쟁력...",
     "SK하이닉스주가,24시간기준10.2%하락",
-    "앤트로픽IPO흥행에도…‘AI거품론’증시강타"
+    "앤트로픽IPO흥행에도…‘AI거품론’증시강타",
+    "[뉴스이슈&비즈]삼성,'투톱'속반도체3명전면배치…메모리·갤럭시..."
    ],
    "initialized": true,
-   "last_run": "2026-11-21T01:25:23.576404+09:00"
+   "last_run": "2026-11-21T01:30:47.482875+09:00"
   }
  },
  "press_names": {
