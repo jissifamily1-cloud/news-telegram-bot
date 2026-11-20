@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-21T00:30:39.492761+09:00",
-     "간접 최대주주 키옥시아 된다 SK하이닉스 CB 1조827억원 주식"
-    ],
-    [
-     "2026-11-21T00:30:39.492761+09:00",
-     "대비 위축에 코스피 급락 증시 글로벌 고점 투자심리"
-    ],
-    [
      "2026-11-21T00:40:26.740041+09:00",
      "청구 커넥터 오킨스전자 검사장비 반도체 2건 케미텍 무효심판 특허"
     ],
@@ -134,13 +126,17 @@
     [
      "2026-11-21T06:15:28.774306+09:00",
      "심화 ETF 300조원대로 내려 투자 상품 시장 앉은 늘어도 쏠림"
+    ],
+    [
+     "2026-11-21T06:35:21.310225+09:00",
+     "쇼핑 무신사 200만원 롯데리아 손잡자 샀는데 행운권까지 햄버거"
+    ],
+    [
+     "2026-11-21T06:35:21.310225+09:00",
+     "외화LCR 눈앞 유동성도 4대 연말 여유"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026112007443976915",
-    "https://www.rcast.co.kr/news/articleView.html?idxno=32109",
-    "https://www.news1.kr/industry/general-industry/6360378",
-    "https://www.eroun.net/news/articleView.html?idxno=96049",
     "https://www.newspim.com/news/view/20261119000307",
     "https://www.econovill.com/news/articleView.html?idxno=757951",
     "https://www.edaily.co.kr/News/Read?newsId=02099206645647688&mediaCodeNo=257",
@@ -1636,13 +1632,13 @@
     "https://www.newsway.co.kr/news/view?ud=2026112015524029384",
     "https://www.mk.co.kr/article/12215101",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=425209",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856581&plink=ORI&cooper=NAVER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856581&plink=ORI&cooper=NAVER",
+    "http://www.beyondpost.co.kr/view.php?ud=2026112106211193252aaae0046f_30",
+    "https://www.fnnews.com/news/202611210627335528",
+    "https://www.segye.com/newsView/20261121501616?OutUrl=naver",
+    "https://www.mt.co.kr/finance/2026/11/21/2026111815514585485"
    ],
    "seen_titles": [
-    "\"SK텔레콤,앤트로픽보유지분가치5조추정\"-유안타",
-    "SK텔레콤,민관협력'K-보물길프로젝트'첫연말전시개최",
-    "SKT,AI로한해추억결산…성수서연말체험전시",
-    "ADT캡스,'캡스홈'제26회모바일기술대상수상",
     "젠슨황떠난엔비디아,경쟁사에겐새로운기회...\"AI시장다극화가능...",
     "최저가부터롯데리아협업까지…무신사,‘무진장블프’개막",
     "[뉴욕마켓워치]앤트로픽IPO도반등불씨못살렸다…주식↓달러·채권...",
@@ -3138,10 +3134,14 @@
     "앤트로픽에투자하고HBM팔고클로드심는다…K기업의AI삼각포석",
     "“주식어디가바닥인데요?”외국인은이미탈출…이건7.4조샀다는데",
     "300조원대로내려앉은ETF시장···상품늘어도투자쏠림심화",
-    "반도체·앤트로픽'급락'…AI투자불안확산"
+    "반도체·앤트로픽'급락'…AI투자불안확산",
+    "엔비디아10.7%,앤트로픽9.1%↓...AI투심급랭에반도체기술주투매",
+    "[뉴욕증시]앤스로픽급락속AI매도세…나스닥,5.3%폭락",
+    "햄버거샀는데200만원쇼핑행운권까지?…롯데리아·무신사손잡자식...",
+    "4대銀외화LCR200%눈앞…\"연말유동성도여유\""
    ],
    "initialized": true,
-   "last_run": "2026-11-21T06:30:34.260766+09:00"
+   "last_run": "2026-11-21T06:35:21.310225+09:00"
   }
  },
  "press_names": {
