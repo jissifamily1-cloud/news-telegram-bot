@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-21T00:10:27.652564+09:00",
-     "에서 전고점 연초 5개월 대로 만에 수익률"
-    ],
-    [
-     "2026-11-21T00:10:27.652564+09:00",
-     "롯데마트 코스트코 홈플러스 휴무일 이마트 영업시간"
-    ],
-    [
-     "2026-11-21T00:15:27.946782+09:00",
-     "가격 내년 D램 상승 삼성전자 SK하이닉스 전망"
-    ],
-    [
-     "2026-11-21T00:15:27.946782+09:00",
-     "한미반도체 비중 공매도 HD현대마린솔루션"
-    ],
-    [
      "2026-11-21T00:30:39.492761+09:00",
      "간접 최대주주 키옥시아 된다 SK하이닉스 CB 1조827억원 주식"
     ],
@@ -138,14 +122,21 @@
     [
      "2026-11-21T06:10:25.823713+09:00",
      "적용 MTS SK증권 서비스 차트분석 HTS 종목검색 동시 출시"
+    ],
+    [
+     "2026-11-21T06:15:28.774306+09:00",
+     "포석 삼각 HBM 클로드 앤트로픽에 투자하고 심는다 K기업의 팔고"
+    ],
+    [
+     "2026-11-21T06:15:28.774306+09:00",
+     "탈출 주식 샀다는데 외국인은 바닥인데요 어디가 이건 이미 4조"
+    ],
+    [
+     "2026-11-21T06:15:28.774306+09:00",
+     "심화 ETF 300조원대로 내려 투자 상품 시장 앉은 늘어도 쏠림"
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445677",
-    "https://www.sentv.co.kr/article/view/sentv202611200026",
-    "https://biz.heraldcorp.com/article/10942775",
-    "https://www.dailian.co.kr/news/view/1717554/?sc=Naver",
-    "http://www.metroseoul.co.kr/article/20261119500607",
     "https://www.hankyung.com/article/202611208974h",
     "https://view.asiae.co.kr/article/2026112007443976915",
     "https://www.rcast.co.kr/news/articleView.html?idxno=32109",
@@ -1640,14 +1631,14 @@
     "https://www.pharmnews.com/news/articleView.html?idxno=307967",
     "https://www.news1.kr/finance/general-stock/6361355",
     "https://www.medipana.com/news/articleView.html?idxno=422314",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=211781"
+    "https://www.lcnews.co.kr/news/articleView.html?idxno=211781",
+    "https://www.the-today.com/news/articleView.html?idxno=93890",
+    "https://www.newdaily.co.kr/site/data/html/2026/11/21/2026112150002.html",
+    "https://www.newsway.co.kr/news/view?ud=2026112015524029384",
+    "https://www.mk.co.kr/article/12215101",
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=425209"
    ],
    "seen_titles": [
-    "[모닝리포트]\"코세스,반도체·SOFC동반성장\"…목표가7만3000원",
-    "SK인텔릭스,숭실대학생대상'나무엑스'생산현장공개",
-    "앤트로픽나스닥입성첫날17%상승\"안전,성장원칙으로\"",
-    "KB증권“반도체비관정점…삼전닉스내년D램판가40%↑”[줍줍리포...",
-    "가족귀가알리고이웃얼굴가린다…ADT캡스'캡스홈',모바일기술대...",
     "젠슨황없는엔비디아,AI제국의진짜리스크는‘그’였다",
     "\"SK텔레콤,앤트로픽보유지분가치5조추정\"-유안타",
     "SK텔레콤,민관협력'K-보물길프로젝트'첫연말전시개최",
@@ -3142,10 +3133,15 @@
     "약가만눌러선신약못키운다...중·일·싱가포르의교훈",
     "김범수무죄에도카카오주가주춤…반등조건은'AI성과'입증[종목현...",
     "제약사60곳설비투자24.6%줄었는데…33곳은오히려늘렸다",
-    "SK증권,AI종목검색·차트분석서비스출시…HTS·MTS동시적용"
+    "SK증권,AI종목검색·차트분석서비스출시…HTS·MTS동시적용",
+    "[핫이슈]트럼프\"해외데이터센터지으면막대한세금\"…AWS한국투자...",
+    "[속보]나스닥'공황',반도체지수10%대대폭락…韓증시'중대위기...",
+    "앤트로픽에투자하고HBM팔고클로드심는다…K기업의AI삼각포석",
+    "“주식어디가바닥인데요?”외국인은이미탈출…이건7.4조샀다는데",
+    "300조원대로내려앉은ETF시장···상품늘어도투자쏠림심화"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T06:10:25.823713+09:00"
+   "last_run": "2026-11-21T06:15:28.774306+09:00"
   }
  },
  "press_names": {
