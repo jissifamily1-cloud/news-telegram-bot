@@ -178,11 +178,17 @@
     [
      "2026-11-21T08:05:21.873407+09:00",
      "남부는 서울 강세 집값 상승폭 경기"
+    ],
+    [
+     "2026-11-21T08:10:27.170749+09:00",
+     "코스피200 증시 올랐던 결국 음전 동일가중 수익률 마이너스"
+    ],
+    [
+     "2026-11-21T08:10:27.170749+09:00",
+     "변동성 위기의 팔까 일단 살까 삼전닉스 클때는 상책 피하는"
     ]
    ],
    "seen_urls": [
-    "https://www.mk.co.kr/article/12214318",
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=242034",
     "https://www.viva100.com/article/20261120500081",
     "https://www.betanews.net/article/view/beta202611200046",
     "https://www.slist.kr/news/articleView.html?idxno=783362",
@@ -1680,11 +1686,11 @@
     "https://biz.sbs.co.kr/article_hub/20000347629?division=NAVER",
     "https://it.chosun.com/news/articleView.html?idxno=3000000001427",
     "https://www.newsis.com/view/NISX20261120_0003876915",
-    "https://www.cstimes.com/news/articleView.html?idxno=728784"
+    "https://www.cstimes.com/news/articleView.html?idxno=728784",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445845",
+    "https://www.dt.co.kr/article/12096386"
    ],
    "seen_titles": [
-    "ADT캡스캡스홈,과기정통부주최'모바일기술대상'수상",
-    "美AI주동반약세여파…삼성전자4%·SK하이닉스6%장초반급락",
     "올해의기억AI로정리한다…SKT,팩토리성수에서‘시드볼트’운영",
     "\"도어락비번반복누구지?\"…ADT캡스'캡스홈'모바일기술대상수상",
     "코스피,장초반3.6%급락해4950선후퇴...美AI주투매에반도체주약...",
@@ -3182,10 +3188,12 @@
     "AI못따라잡는정부…528개자격시험거를수있나?",
     "수능끝난수험생잡아라…스마트폰할인전",
     "\"처벌받아도남는장사?\"…산업기술유출여전한데형량은'솜방망이'...",
-    "서울집값상승폭0.03%…경기남부는0.6%대강세"
+    "서울집값상승폭0.03%…경기남부는0.6%대강세",
+    "42%올랐던증시,결국수익률'마이너스'…코스피200동일가중음전",
+    "위기의삼전닉스,팔까살까…변동성클때는일단피하는게상책"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T08:05:21.873407+09:00"
+   "last_run": "2026-11-21T08:10:27.170749+09:00"
   }
  },
  "press_names": {
