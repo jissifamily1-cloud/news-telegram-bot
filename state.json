@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-20T18:35:22.345120+09:00",
-     "시연 공유 메모리 MARS SK하이닉스 기술 시카고서 공개 서버"
-    ],
-    [
      "2026-11-20T18:40:26.999289+09:00",
      "함께 중앙대의 워니와 막내가 에이스에서 자밀 기사단의"
     ],
@@ -221,7 +217,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=302095",
     "https://www.yna.co.kr/view/AKR20261120027200030?input=1195m",
     "https://www.m-i.kr/news/articleView.html?idxno=2021177",
     "http://www.sisafocus.co.kr/news/articleView.html?idxno=367831",
@@ -1720,10 +1715,10 @@
     "https://www.yna.co.kr/view/AKR20261121000600072?input=1195m",
     "https://www.sportsseoul.com/news/read/1651285",
     "http://www.kjdaily.com/article.php?aid=1795188420692989276",
-    "http://www.kjdaily.com/article.php?aid=1795188196692998276"
+    "http://www.kjdaily.com/article.php?aid=1795188196692998276",
+    "http://www.kjdaily.com/article.php?aid=1795188663692999276"
    ],
    "seen_titles": [
-    "“증시재평가,1만피돌파한다”…조마조마코스피에월가전망엇갈려",
     "[3분증시]뉴욕증시,AI투자불안에2%대급락",
     "[해외시황]뉴욕증시,앤스로픽IPO흥행에도'급락'…다우5만선붕괴",
     "[더벨][MarketWatch]미래에셋운용커버드콜액티브,시딩만'5000억'",
@@ -3222,10 +3217,11 @@
     "앤트로픽상장이틀째9%급락출발…AI투자불안확산",
     "韓AG사상첫3X3농구‘金주역’이동근,전체1순위로KT유니폼입...",
     "SK하이닉스,키옥시아CB1조827억원주식전환…간접최대주주된다",
-    "AI투자심리위축에글로벌증시급락…코스피고점대비48%↓"
+    "AI투자심리위축에글로벌증시급락…코스피고점대비48%↓",
+    "삼성전자·SK하이닉스인버스ETF12%대상승"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T00:30:39.492761+09:00"
+   "last_run": "2026-11-21T00:35:24.591850+09:00"
   }
  },
  "press_names": {
