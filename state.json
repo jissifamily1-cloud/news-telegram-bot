@@ -174,13 +174,21 @@
     [
      "2026-11-22T07:50:25.390673+09:00",
      "반도체 수출 돌파에도 1조달러 실리콘투 현대로템이 쏠림 삼양식품"
+    ],
+    [
+     "2026-11-22T07:55:20.507932+09:00",
+     "쏠리는 한미반도체 HD현대일렉트릭에 이어지나 열풍 기업 상장"
+    ],
+    [
+     "2026-11-22T07:55:20.507932+09:00",
+     "SK하이닉스에도 개미 ETF 5조원 돌파 삼성전자 번질까 순매수 온기"
+    ],
+    [
+     "2026-11-22T07:55:20.507932+09:00",
+     "AMAT와 협력 반도체 민형배 모색 유치 넘어 공급망까지 장비"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261120_0003876739",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=88161",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1427410",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506332",
     "https://www.newsis.com/view/NISX20261120_0003876678",
     "https://www.goodmorningcc.com/news/articleView.html?idxno=456239",
     "https://www.joongangenews.com/news/articleView.html?idxno=565453",
@@ -1676,13 +1684,13 @@
     "http://www.osen.co.kr/article/G1112913576",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=302345",
     "https://www.asiatoday.co.kr/kn/view.php?key=20261122010008230",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506648"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506648",
+    "https://www.insight.co.kr/news/583046",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506650",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506649",
+    "https://www.news1.kr/local/gwangju-jeonnam/6360855"
    ],
    "seen_titles": [
-    "코스피,앤트로픽IPO흥행속4900선붕괴...삼성전자·SK하이닉스–...",
-    "코스피,외국인·기관2조원대매도에급락…4900선붕괴",
-    "美반도체규제우려에아시아증시'검은금요일'…코스피4%·대만6%...",
-    "코스피5%급락해4880선붕괴…외국인4300억'팔자'에반도체주직격탄",
     "[시황]코스피4%대급락…매도사이드카발동,삼성전자·SK하이닉스6%...",
     "[신상브리핑]세븐일레븐,배달의민족,온더바디,에스쁘아,앳홈톰,빙...",
     "SK증권,한국금융IT와공동개발한'AI조건검색&차트분석'서비스오픈",
@@ -3178,10 +3186,14 @@
     "두산트레이드안했으면어쩔뻔…1차지명에도8년무명,대기만성필승...",
     "[분석]삼성1위…500대기업영업익234%급증에도기부금2%감소",
     "SK하이닉스,일본키옥시아최대주주된다…지분14.1%간접확보",
-    "수출1조달러돌파에도반도체쏠림…삼양식품·실리콘투·현대로템이..."
+    "수출1조달러돌파에도반도체쏠림…삼양식품·실리콘투·현대로템이...",
+    "李,울산전통시장깜짝방문\"내년엔좀더좋아질것\"",
+    "AI기업상장열풍이어지나…한미반도체·HD현대일렉트릭에쏠리는시...",
+    "개미ETF순매수5조원돌파…삼성전자·SK하이닉스에도온기번질까",
+    "반도체팹유치넘어장비공급망까지…민형배,미AMAT와협력모색"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T07:50:25.390673+09:00"
+   "last_run": "2026-11-22T07:55:20.507932+09:00"
   }
  },
  "press_names": {
