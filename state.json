@@ -178,11 +178,17 @@
     [
      "2026-11-22T00:25:27.070283+09:00",
      "잔고 한미반도체 공매도 비중 에코프로"
+    ],
+    [
+     "2026-11-22T00:35:21.574022+09:00",
+     "셀트리온 순매수 상위권 외국인 매수 대한항공 줄었다"
+    ],
+    [
+     "2026-11-22T00:35:21.574022+09:00",
+     "원에 SK하이닉스 346조 사려 통째로"
     ]
    ],
    "seen_urls": [
-    "http://www.dailysmart.co.kr/news/articleView.html?idxno=132887",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=281809",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085817",
     "https://www.naeil.com/news/read/609493",
     "https://www.g-enews.com/view.php?ud=202611201259558419153ddfb15a_1",
@@ -1680,11 +1686,11 @@
     "https://www.econovill.com/news/articleView.html?idxno=758066",
     "http://www.kjdaily.com/article.php?aid=1795274258693028276",
     "http://www.kjdaily.com/article.php?aid=1795274271693037276",
-    "https://sateconomy.co.kr/news/view/1065539394490182"
+    "https://sateconomy.co.kr/news/view/1065539394490182",
+    "http://www.kjdaily.com/article.php?aid=1795274857693030276",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=629436"
    ],
    "seen_titles": [
-    "코스피5%폭락…4900선붕괴",
-    "[법안돋보기]SKT·KT·LGU+알뜰폰독과점막는다···계열사점유율...",
     "SKT,T팩토리성수서'시드볼트26'·'화이트보물트리'운영",
     "'역대급IPO'앤트로픽,기업용AI집중승부수",
     "아시아증시'검은금요일'…한국·일본·대만4~6%대동반급락",
@@ -3182,10 +3188,12 @@
     "1251회로또1등당첨판매점14곳·2등77곳…전국복권명당주소총정...",
     "코스피·코스닥급락…한국화장품25%·지슨73%↑",
     "한미반도체공매도잔고비중7%…에코프로9%대",
-    "SK울산AI데이터센터공정률71%…2027년말운영예정"
+    "SK울산AI데이터센터공정률71%…2027년말운영예정",
+    "외국인매수줄었다…셀트리온·대한항공순매수상위권",
+    "[반도체패권노린소프트뱅크]\"SK하이닉스1,346조원에통째로사려..."
    ],
    "initialized": true,
-   "last_run": "2026-11-22T00:30:38.159559+09:00"
+   "last_run": "2026-11-22T00:35:21.574022+09:00"
   }
  },
  "press_names": {
