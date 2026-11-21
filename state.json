@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-21T19:05:21.830141+09:00",
-     "IPO After of Prove Companies Anthropic Value Korea the Will What"
-    ],
-    [
      "2026-11-21T19:10:28.601086+09:00",
      "0원 넘긴 영풍의 YPC서 배당금 자충수 고려아연 지분"
     ],
@@ -174,11 +170,13 @@
     [
      "2026-11-22T00:45:28.046824+09:00",
      "달러 소프트뱅크 1조 검토 SK하이닉스 한때 인수 손정의 회장"
+    ],
+    [
+     "2026-11-22T01:05:22.416079+09:00",
+     "평가액은 8천억 사들인 보유 엔비디아 6조 줄었다 서학개미"
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445758",
-    "https://www.naeil.com/news/read/609523",
     "https://www.maniareport.com/view.php?ud=202611201125352107dad9f33a29_19",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=281810",
     "https://www.polinews.co.kr/news/articleView.html?idxno=748834",
@@ -1676,11 +1674,11 @@
     "http://www.kjdaily.com/article.php?aid=1795275334693031276",
     "http://www.kjdaily.com/article.php?aid=1795275207693033276",
     "http://www.kjdaily.com/article.php?aid=1795275323693021276",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000085198"
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000085198",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=629506",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=95048"
    ],
    "seen_titles": [
-    "경기도,고립·은둔청년사회복귀지원강화",
-    "\"낸드플래시가격20%내려,내년1분기부터계약가격도하락전망\"",
     "SK인텔릭스,화성캠퍼스서숭실대기계공학부대상‘나무엑스’생산...",
     "삼성전자·SK하이닉스3조원거래…6%대급락",
     "AI로돌아보는2026년…SKT,T팩토리성수서참여형전시",
@@ -3178,10 +3176,12 @@
     "외국인·기관동반매수…하이브·한진칼주가급등",
     "우리금융·레인보우로보틱스기관순매수…외국인·개인은매도",
     "인버스ETF·ETN급등…삼성전자인버스22%↑",
-    "손정의소프트뱅크회장,한때SK하이닉스1조달러인수검토"
+    "손정의소프트뱅크회장,한때SK하이닉스1조달러인수검토",
+    "이대통령,울산SKAI데이터센터방문…공정률71%점검,AI고속도로강...",
+    "엔비디아8천억원사들인서학개미,보유평가액은6조원줄었다"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T01:00:43.492528+09:00"
+   "last_run": "2026-11-22T01:05:22.416079+09:00"
   }
  },
  "press_names": {
