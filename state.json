@@ -250,12 +250,13 @@
     [
      "2026-11-22T08:35:19.945624+09:00",
      "정규장 SK하이닉스 할인 종가보다"
+    ],
+    [
+     "2026-11-22T08:40:25.470976+09:00",
+     "팔자 패닉지수 9점 경고등 골드만 만점에 켜졌다 10점"
     ]
    ],
    "seen_urls": [
-    "https://www.newscj.com/news/articleView.html?idxno=3450674",
-    "http://www.inews24.com/view/2028629",
-    "https://en.yna.co.kr/view/AEN20261120005000320?input=2106m",
     "https://www.gukjenews.com/news/articleView.html?idxno=3758321",
     "https://www.thepowernews.co.kr/view.php?ud=2026112012402872853dfcd109a8_7",
     "https://www.thepublic.kr/news/articleView.html?idxno=327783",
@@ -1752,12 +1753,12 @@
     "http://www.popcornnews.net/news/articleView.html?idxno=140994",
     "https://www.etoday.co.kr/news/view/2651246",
     "https://biz.newdaily.co.kr/site/data/html/2026/11/20/2026112050061.html",
-    "https://www.tokenpost.kr/news/insights/442354"
+    "https://www.tokenpost.kr/news/insights/442354",
+    "https://www.etoday.co.kr/news/view/2651247",
+    "https://www.busan.com/view/busan/view.php?code=2026112208352446310",
+    "https://www.edaily.co.kr/News/Read?newsId=01193926645648344&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "\"패션·뷰티부터버거까지\"무신사,'무진장26겨울블프'개막",
-    "유라클,금융권UMS사업잇따라수주…금융메시징플랫폼경쟁력입증",
-    "美AI·반도체주급락에국내증시직격탄…코스피·코스닥매도사이드...",
     "'검은금요일'코스피,4900선밑으로…코스닥까지동반'매도사이드카...",
     "SK증권,'AI조건검색·차트분석'오픈…자연어로간편하게종목발굴",
     "[울산소식]연말까지대형시설등9600여곳안전대진단",
@@ -3254,10 +3255,13 @@
     "\"한일산학연계플랫폼구축하자\"...최태원SK그룹회장,도쿄포럼서'...",
     "코스피4800선제자리인데…상장株10개중8개는더떨어졌다",
     "황제주9곳주가반토막…5개월새11개→4개로줄어든'100만원왕관'",
-    "[온체인주식선물]SK하이닉스,정규장종가보다7.54%할인"
+    "[온체인주식선물]SK하이닉스,정규장종가보다7.54%할인",
+    "앤스로픽상장첫날2190억베팅한서학개미…스페이스X의5분의1",
+    "[속보]폭락한미증시에월요일이두려운개미들…4900무너졌는데430...",
+    "골드만'패닉지수'10점만점에9점…'팔자'경고등켜졌다"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T08:35:19.945624+09:00"
+   "last_run": "2026-11-22T08:40:25.470976+09:00"
   }
  },
  "press_names": {
