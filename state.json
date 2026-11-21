@@ -261,11 +261,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580800591184",
-    "https://www.wikileaks-kr.org/news/articleView.html?idxno=194957",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=239801",
-    "https://www.thelec.kr/news/articleView.html?idxno=65705",
-    "https://www.livebiz.today/news/articleView.html?idxno=206724",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=305517",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611200056&t=NN",
     "http://www.gjdream.com/news/articleView.html?idxno=674542",
@@ -1760,14 +1755,14 @@
     "https://www.newsis.com/view/NISX20261121_0003877798",
     "https://www.the-today.com/news/articleView.html?idxno=93908",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261121.99099006613",
-    "http://www.inews24.com/view/2028902"
+    "http://www.inews24.com/view/2028902",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553720334",
+    "https://sports.hankooki.com/news/articleView.html?idxno=6943992",
+    "https://www.busan.com/view/busan/view.php?code=2026112118174056267",
+    "https://www.hankyung.com/article/2026112115067",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=302341"
    ],
    "seen_titles": [
-    "삼성전자주가장중5%대SK하이닉스6%대내려,미국AI·반도체주약세...",
-    "AI와함께돌아보는2026년…SKT,T팩토리성수에서연말전시",
-    "남서울대,'2026탄소중립기후행동실천국민대회'탄소중립실천우수...",
-    "앤트로픽상장에도급락삼전닉스…증권가\"비관정점,펀더멘털견조...",
-    "코스피4%대급락에4900선위협…삼성전자·SK하이닉스6%대추락",
     "알뜰폰독과점차단법발의…\"통신3사계열사점유율상한법률로정해...",
     "최혁진의원,'알뜰폰독과점차단법'대표발의",
     "코스피장중4900선하회…'美반도체급락'외인·기관1.2조매도[장중...",
@@ -3262,10 +3257,15 @@
     "李,울산전통시장두곳방문…\"장사할맛하루빨리오도록세심히챙...",
     "[투데이온]SK하이닉스,키옥시아투자법인100%확보…주주총회의결권...",
     "李대통령,울산전통시장두곳방문해“내년엔좀더좋아질것”",
-    "\"소프트뱅크손정의,한때SK하이닉스인수검토\""
+    "\"소프트뱅크손정의,한때SK하이닉스인수검토\"",
+    "[오피셜]'꼬마'김정균감독,다시T1떠난다…'톰'임재현·'마타'조세...",
+    "'선제골은교과서처럼,수비는빈틈없이'…'ACL도전'인천이보여준완...",
+    "\"손정의,SK하이닉스1조달러에인수하려했다…월가에자금조달타진...",
+    "李대통령,울산전통시장2곳'깜짝방문'…닭발·호떡등구매",
+    "최태원SK회장\"실무역량높인대학인재,적극영입하고파\""
    ],
    "initialized": true,
-   "last_run": "2026-11-21T18:20:27.336814+09:00"
+   "last_run": "2026-11-21T18:25:21.221155+09:00"
   }
  },
  "press_names": {
