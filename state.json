@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-21T09:05:22.132722+09:00",
-     "메타 시장에 도전 안경 다음 제품 출시 삼성전자 독주"
-    ],
-    [
-     "2026-11-21T09:05:22.132722+09:00",
-     "갈린다 여기서 타이밍 물타기할 폭락했으니 고수와 하수는 인치범의"
-    ],
-    [
-     "2026-11-21T09:05:22.132722+09:00",
-     "달러 멤플레이션 지출 시대 삼전닉스 4조 올라탄 독주"
-    ],
-    [
-     "2026-11-21T09:05:22.132722+09:00",
-     "알뜰폰 규제법 발의 통신3사 잇단 자회사 겨냥"
-    ],
-    [
      "2026-11-21T09:15:25.827422+09:00",
      "막지 대폭락 엔비디아 기술주 증시 못한 매도세의 미국 앤트로픽도"
     ],
@@ -358,15 +342,13 @@
     [
      "2026-11-21T15:05:20.378385+09:00",
      "증시와 퇴행의 뉴이재명 소멸된 유혹 동력 함께"
+    ],
+    [
+     "2026-11-21T15:10:25.543910+09:00",
+     "신용 코스피 20조 블랙 먼데이 예탁금 확실시 방어선 80조"
     ]
    ],
    "seen_urls": [
-    "https://zdnet.co.kr/view/?no=20261120103432",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506253",
-    "https://news.tf.co.kr/read/economy/2391355.htm",
-    "https://www.widedaily.com/news/articleView.html?idxno=304263",
-    "https://www.sisajournal.com/news/articleView.html?idxno=394748",
-    "https://www.yna.co.kr/view/AKR20261120066600008?input=1195m",
     "https://www.kukinews.com/article/view/kuk202611200043",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=370184",
     "http://journal.kobeta.com/?post_type=post&p=64502",
@@ -1860,15 +1842,15 @@
     "http://coinreaders.com/272232",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506599",
     "https://www.hankyung.com/article/2026112003516",
-    "https://www.pennmike.com/news/articleView.html?idxno=132435"
+    "https://www.pennmike.com/news/articleView.html?idxno=132435",
+    "https://www.viva100.com/article/20261121500141",
+    "https://www.yna.co.kr/view/AKR20261121033751001?input=1195m",
+    "http://www.segyebiz.com/newsView/20261121504930?OutUrl=naver",
+    "https://www.newsis.com/view/NISX20261121_0003877698",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000085151",
+    "https://biz.newdaily.co.kr/site/data/html/2026/11/21/2026112150053.html"
    ],
    "seen_titles": [
-    "[오늘의증시]11월20일코스피4,960선·코스닥660선하락…외국인·기...",
-    "코스피,美기술주급락에4%하락…또5,000선하회",
-    "유라클,신한카드·저축은행중앙회UMS구축사업수주",
-    "미국AI데이터센터규제에도반도체호황당분간지속전망,삼성전자...",
-    "영진전문대AI컴퓨터보안학과각광",
-    "코스피,AI불안에5,000선붕괴…반도체대형주급락",
     "[증시오늘(20일)핵심특징주]반도체대형주·소부장일제히급락세…...",
     "이통사관계없이누구나무료체험…SKT,T팩토리성수서연말전시2종...",
     "삼성전자·SK하이닉스공매도거래1천422억원…코스피의16%",
@@ -3362,10 +3344,16 @@
     "비트코인5만5,800달러추락…월요일코스피‘시험대’",
     "반도체부터금융·소비재까지매물출회…기업가치제고주'흔들'",
     "한한령해제기대에K콘텐츠주'들썩'…분산투자전략은[이수의ETF줌...",
-    "[막전막후]증시와함께소멸된'뉴이재명동력'과퇴행의유혹"
+    "[막전막후]증시와함께소멸된'뉴이재명동력'과퇴행의유혹",
+    "손정의,SK하이닉스1346조원인수검토했었다…소프트뱅크“추진안해...",
+    "李대통령\"AI데이터센터·메모리수요더늘것…속도가생명\"(종합)",
+    "손정의,SK하이닉스1조달러인수검토…“현재는고려안해”",
+    "\"소프트뱅크손정의,SK하이닉스1조달러인수검토했다중단\"",
+    "李대통령,울산AIDC현장점검…\"속도가생명\"",
+    "韓'블랙먼데이'확실시…예탁금80조·코스피신용20조방어선'붕..."
    ],
    "initialized": true,
-   "last_run": "2026-11-21T15:05:20.378385+09:00"
+   "last_run": "2026-11-21T15:10:25.543910+09:00"
   }
  },
  "press_names": {
