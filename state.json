@@ -109,7 +109,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.polinews.co.kr/news/articleView.html?idxno=748834",
     "https://www.mk.co.kr/article/12214471",
     "https://www.tokenpost.kr/news/cryptocurrency/441313",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1732438",
@@ -1608,10 +1607,10 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=629506",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=95048",
     "http://www.issuenbiz.com/news/articleView.html?idxno=81863",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3759192"
+    "https://www.gukjenews.com/news/articleView.html?idxno=3759192",
+    "https://www.stnsports.co.kr/news/articleView.html?idxno=325874"
    ],
    "seen_titles": [
-    "AI로돌아보는2026년…SKT,T팩토리성수서참여형전시",
     "SK인텔릭스'나무엑스'국무총리표창이어생산현장공개",
     "SK텔레콤,T팩토리성수서'AI기억결산'·국중박유물전시",
     "63개제약ㆍ바이오사,3분기누적매출1000억상회",
@@ -3110,10 +3109,11 @@
     "이대통령,울산SKAI데이터센터방문…공정률71%점검,AI고속도로강...",
     "엔비디아8천억원사들인서학개미,보유평가액은6조원줄었다",
     "[뉴스이슈&비즈]SK,울산서'AI전력전쟁'첫발…15GW승부수",
-    "이재명대통령,울산전통시장두곳방문…장바구니물가점검"
+    "이재명대통령,울산전통시장두곳방문…장바구니물가점검",
+    "승격찍고우승까지...수원삼성,경남3대1꺾고1부로"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T03:05:20.927744+09:00"
+   "last_run": "2026-11-22T03:10:28.069046+09:00"
   }
  },
  "press_names": {
