@@ -154,10 +154,13 @@
     [
      "2026-11-22T01:05:22.416079+09:00",
      "평가액은 8천억 사들인 보유 엔비디아 6조 줄었다 서학개미"
+    ],
+    [
+     "2026-11-22T01:35:22.786086+09:00",
+     "전력전쟁 첫발 15GW 울산서 승부수"
     ]
    ],
    "seen_urls": [
-    "https://www.maniareport.com/view.php?ud=202611201125352107dad9f33a29_19",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=281810",
     "https://www.polinews.co.kr/news/articleView.html?idxno=748834",
     "https://www.mk.co.kr/article/12214471",
@@ -1656,10 +1659,10 @@
     "http://www.kjdaily.com/article.php?aid=1795275323693021276",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000085198",
     "https://www.cbci.co.kr/news/articleView.html?idxno=629506",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=95048"
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=95048",
+    "http://www.issuenbiz.com/news/articleView.html?idxno=81863"
    ],
    "seen_titles": [
-    "SK인텔릭스,화성캠퍼스서숭실대기계공학부대상‘나무엑스’생산...",
     "삼성전자·SK하이닉스3조원거래…6%대급락",
     "AI로돌아보는2026년…SKT,T팩토리성수서참여형전시",
     "SK인텔릭스'나무엑스'국무총리표창이어생산현장공개",
@@ -3158,10 +3161,11 @@
     "인버스ETF·ETN급등…삼성전자인버스22%↑",
     "손정의소프트뱅크회장,한때SK하이닉스1조달러인수검토",
     "이대통령,울산SKAI데이터센터방문…공정률71%점검,AI고속도로강...",
-    "엔비디아8천억원사들인서학개미,보유평가액은6조원줄었다"
+    "엔비디아8천억원사들인서학개미,보유평가액은6조원줄었다",
+    "[뉴스이슈&비즈]SK,울산서'AI전력전쟁'첫발…15GW승부수"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T01:30:35.781586+09:00"
+   "last_run": "2026-11-22T01:35:22.786086+09:00"
   }
  },
  "press_names": {
