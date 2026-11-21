@@ -254,12 +254,13 @@
     [
      "2026-11-21T18:55:21.505315+09:00",
      "반색 개미들 반전은 무디스 온다 전망에 삼전닉스"
+    ],
+    [
+     "2026-11-21T19:00:38.461652+09:00",
+     "무엇을 있나 반도체 가린 호황이 잃고 한국 것들 산업은"
     ]
    ],
    "seen_urls": [
-    "https://kjmbc.co.kr/NewsArticle/1546601",
-    "https://www.munhwa.com/article/11632896",
-    "http://www.inews24.com/view/2028600",
     "https://www.ytn.co.kr/_ln/0102_202611201153495293",
     "https://www.medipana.com/news/articleView.html?idxno=422293",
     "https://biz.sbs.co.kr/article_hub/20000347810?division=NAVER",
@@ -1756,12 +1757,12 @@
     "https://imnews.imbc.com/news/2026/politics/article/6867490_36911.html",
     "https://www.ytn.co.kr/_ln/0101_202611211853011701",
     "https://www.koreaittimes.com/news/articleView.html?idxno=159344",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611210035&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611210035&t=NN",
+    "https://www.hankookilbo.com/news/article/A2026112118080004860?did=NA",
+    "https://www.mhns.co.kr/news/articleView.html?idxno=770135",
+    "https://www.businessplus.kr/news/articleView.html?idxno=120249"
    ],
    "seen_titles": [
-    "삼성전자사장단인사키워드는…메모리·로봇·70년대생",
-    "\"코스피1만간다\"vs\"7500으로하향\"...월가도엇갈린증시전망",
-    "법무법인세종,ALB한국법률대상6개부문수상",
     "[굿모닝!20일유통가소식]코웨이·LG생활건강·배민·콜마비앤에이치...",
     "[학과탐방]AI엔진달고내커리어직접조립한다...한양사이버대AI융...",
     "앤트로픽도역부족…9개월만에장중4900선붕괴",
@@ -3258,10 +3259,13 @@
     "李,울산전통시장서장바구니물가점검‥\"내년엔좀더좋아질것\"",
     "이대통령,울산전통시장방문...\"내년은조금더좋아질것\"",
     "앤트로픽상장이후,한국AI기업의몸값은무엇으로증명하나",
-    "\"삼전닉스,반전은온다\"...무디스전망에개미들'반색'"
+    "\"삼전닉스,반전은온다\"...무디스전망에개미들'반색'",
+    "'전통명가'수원삼성,K리그1복귀이어K리그2우승조기확정",
+    "이대통령울산방문…김상욱시장,남신항·해상풍력지원건의",
+    "[시선+]반도체호황이가린것들…한국산업은무엇을잃고있나"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T18:55:21.505315+09:00"
+   "last_run": "2026-11-21T19:00:38.461652+09:00"
   }
  },
  "press_names": {
