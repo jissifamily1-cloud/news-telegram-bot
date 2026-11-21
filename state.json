@@ -298,12 +298,13 @@
     [
      "2026-11-21T17:20:31.232908+09:00",
      "코스피200 거래 인버스 급락 ETF ETN"
+    ],
+    [
+     "2026-11-21T17:25:21.365210+09:00",
+     "단장 19억 원삼초 실내체육관 9100만 용인 투입"
     ]
    ],
    "seen_urls": [
-    "https://biz.newdaily.co.kr/site/data/html/2026/11/20/2026112050104.html",
-    "https://www.hani.co.kr/arti/sports/sports_general/1288308.html",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=452500",
     "https://news.tf.co.kr/read/economy/2391434.htm",
     "https://news.unn.net/news/articleView.html?idxno=601073",
     "https://it.chosun.com/news/articleView.html?idxno=3000000001510",
@@ -1800,12 +1801,12 @@
     "http://www.kjdaily.com/article.php?aid=1795248731693027276",
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041615",
     "https://bizhankook.com/articles/masayoshi-son-sk-hynix-acquisition-bid.html",
-    "http://www.kjdaily.com/article.php?aid=1795248965693020276"
+    "http://www.kjdaily.com/article.php?aid=1795248965693020276",
+    "https://www.edaily.co.kr/News/Read?newsId=02109046645648016&mediaCodeNo=257",
+    "https://www.yna.co.kr/view/AKR20261121039751007?input=1195m",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=240018"
    ],
    "seen_titles": [
-    "알뜰폰시장도통신3사독식?…점유율규제강화추진",
-    "무신사,패션부터버거까지혜택넓힌'무진장겨울블프‘왔다",
-    "[특징주]AI發투심한파에…삼전닉스6%동반급락",
     "수능끝나자‘구글AI’꺼낸통신3사…공연·여행혜택도",
     "외국인과기관의매도세속주식시장불안,AI반도체기업제재우려...",
     "SKchairmanpledgesstrongerboard-ledgovernance",
@@ -3302,10 +3303,13 @@
     "삼성전자공매도거래대금1.9%↑·SK하이닉스20.1%↓",
     "수원삼성,1부리그승격확정이어K리그2우승",
     "손정의,SK하이닉스'1조달러인수'타진했다…소프트뱅크\"더이상고...",
-    "코스피200급락…ETF·ETN인버스거래↑"
+    "코스피200급락…ETF·ETN인버스거래↑",
+    "수원삼성,승격이어우승까지…안방에서K리그2첫타이틀",
+    "'1부승격'수원삼성,경남꺾고K리그2우승까지확정(종합)",
+    "용인원삼초실내체육관새단장…19억9100만원투입"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T17:20:31.232908+09:00"
+   "last_run": "2026-11-21T17:25:21.365210+09:00"
   }
  },
  "press_names": {
