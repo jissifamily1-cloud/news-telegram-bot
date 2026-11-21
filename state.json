@@ -354,11 +354,13 @@
     [
      "2026-11-21T15:50:25.920236+09:00",
      "최소 엄벌 부정행위 끝까지 수능 1억 신고 추적해 포상금"
+    ],
+    [
+     "2026-11-21T16:00:40.112998+09:00",
+     "우승까지 1부 경남 승격 삼성 확정 K리그2 꺾고 수원"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261119001364",
-    "https://www.news1.kr/economy/employment-labor/6360663",
     "https://www.joongangenews.com/news/articleView.html?idxno=565406",
     "https://www.yna.co.kr/view/AKR20261120034400530?input=1195m",
     "https://www.newsis.com/view/NISX20261120_0003876081",
@@ -1856,11 +1858,11 @@
     "https://www.etoday.co.kr/news/view/2651207",
     "https://www.jasm.co.kr/news/view/326034/?sc=Naver",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1314270",
-    "https://news.mtn.co.kr/article/2026112115480540769"
+    "https://news.mtn.co.kr/article/2026112115480540769",
+    "https://www.ekn.kr/web/view.php?key=20261121024092851",
+    "https://www.yna.co.kr/view/AKR20261121039700007?input=1195m"
    ],
    "seen_titles": [
-    "[민주유통가]코웨이·SK인텔릭스·한샘",
-    "[테크스냅]애플,수능·연말맞아맥북·아이패드학생할인",
     "[특징주]삼성전자·SK하이닉스동반급락…美기술주한파에반도체주...",
     "“반도체주손절?후회할수도”…삼전닉스에무슨일이",
     "[OpeningMarket]KOSPITumblesPast5,000AmidAIStockRout",
@@ -3358,10 +3360,12 @@
     "李대통령“AI데이터센터ㆍ메모리수요더커질것⋯투자속도높여야...",
     "‘울산메가’챙긴이대통령\"AI데이터센터·메모리수요더늘것\"",
     "이대통령\"AI인프라지방중심투자…균형발전핵심동력\"",
-    "소프트뱅크손정의,한때SK하이닉스인수방안검토"
+    "소프트뱅크손정의,한때SK하이닉스인수방안검토",
+    "李대통령“AI데이터센터가산업성장의핵심”…SK울산현장서투자...",
+    "'1부승격'수원삼성,경남꺾고K리그2우승까지확정"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T15:55:20.253651+09:00"
+   "last_run": "2026-11-21T16:00:40.112998+09:00"
   }
  },
  "press_names": {
