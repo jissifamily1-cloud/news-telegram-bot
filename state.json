@@ -390,10 +390,13 @@
     [
      "2026-11-21T12:30:35.258303+09:00",
      "한국화장품 강세 급등 주가 에스엠 스튜디오드래곤 지슨"
+    ],
+    [
+     "2026-11-21T12:35:20.828567+09:00",
+     "매도 서학개미 MS SK하이닉스 ADR 우위"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=302124",
     "https://www.newsian.co.kr/news/articleView.html?idxno=101664",
     "http://www.inews24.com/view/2028498",
     "https://www.yna.co.kr/view/AKR20261120046000008?input=1195m",
@@ -1892,10 +1895,10 @@
     "https://www.sedaily.com/article/20117215",
     "https://www.kpinews.kr/newsView/1065582775784258",
     "https://www.sportsworldi.com/newsView/20261121504132",
-    "http://www.kjdaily.com/article.php?aid=1795231404693022276"
+    "http://www.kjdaily.com/article.php?aid=1795231404693022276",
+    "http://www.kjdaily.com/article.php?aid=1795231811693013276"
    ],
    "seen_titles": [
-    "성덕대왕신종·백제향로·사자연적…‘천년유물’크리스마스트리오...",
     "삼전닉스4~5%급락…코스피,다시'5000선'아래로",
     "ADT캡스'캡스홈',모바일기술대상수상…AI홈보안경쟁력입증",
     "코스피,3%대하락하며5000선아래로…외인·기관팔자세",
@@ -3394,10 +3397,11 @@
     "손정의,SK하이닉스‘1조달러인수’저울질…“현재는검토중단”",
     "손정의,SK하이닉스1조달러인수검토…월가에자금조달까지타진",
     "K리그100경기채운홍윤상“앞으로이루고싶은목표는국가대표”",
-    "지슨주가72.83%급등…스튜디오드래곤·에스엠·한국화장품강세"
+    "지슨주가72.83%급등…스튜디오드래곤·에스엠·한국화장품강세",
+    "서학개미,MS·SK하이닉스ADR매도우위"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T12:30:35.258303+09:00"
+   "last_run": "2026-11-21T12:35:20.828567+09:00"
   }
  },
  "press_names": {
