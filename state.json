@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-21T08:40:28.720687+09:00",
-     "나스닥 필리 역설 앤트로픽의 패닉"
-    ],
-    [
      "2026-11-21T08:50:25.516422+09:00",
      "특검 금요일 사건 검은 억울함 가이드라 대장동 SNS에 표했다"
     ],
@@ -349,10 +345,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.g-enews.com/view.php?ud=202611200938043632fbbec65dfb_1",
-    "https://www.news1.kr/realestate/general/6360646",
-    "https://www.safetimes.co.kr/news/articleView.html?idxno=247726",
-    "https://www.dailian.co.kr/news/view/1717660/?sc=Naver",
     "https://www.gukjenews.com/news/articleView.html?idxno=3758057",
     "http://www.weeklytoday.com/news/articleView.html?idxno=802732",
     "https://dealsite.co.kr/articles/173208",
@@ -1848,13 +1840,13 @@
     "http://www.inews24.com/view/2028879",
     "https://biz.sbs.co.kr/article_hub/20000347972?division=NAVER",
     "https://en.yna.co.kr/view/AEN20261121001051320?input=2106m",
-    "http://www.inews24.com/view/2028880"
+    "http://www.inews24.com/view/2028880",
+    "https://vop.co.kr/A00001697699.html",
+    "https://www.hidomin.com/news/articleView.html?idxno=730343",
+    "https://www.dt.co.kr/article/12096405",
+    "https://www.news1.kr/politics/president/6361612"
    ],
    "seen_titles": [
-    "SKT,T팩토리성수서AI연말전시…한해의추억기록하고문화유산도...",
-    "앤스로픽상장도못막은AI의구심…코스피4900도붕괴",
-    "코스피반도체주약세에장중4%대하락4920선,코스닥도4%넘게내려",
-    "SK하이닉스,HBM넘어AI서버효율높인다…차세대메모리기술공개",
     "HBM경쟁력회복이끈황상준…30년삼성개발자,메모리수장으로",
     "[특징주]SK텔레콤,앤스로픽상장후차익실현매물에9%대'급락'",
     "코스피,9개월여만에장중4900선붕괴...美기술주투매에'11월의한파...",
@@ -3350,10 +3342,14 @@
     "李,울산SK데이터센터찾아\"세계AI경쟁,속도가생명\"",
     "SK,2035년까지AI데이터센터15GW구축…울산서전국으로확장",
     "(LEAD)LeevisitsAIdatacenterconstructionsiteinUlsan",
-    "고려아연배당은YPC로…영풍,자회사에금융자산매각"
+    "고려아연배당은YPC로…영풍,자회사에금융자산매각",
+    "울산AI데이터센터찾은이대통령“첨단시설건설인력부족,정부대...",
+    "이대통령\"AI데이터센터,지방성장의기회\"…울산서균형발전강조",
+    "울산에AI데이터센터짓는SK그룹…2035년전국15GW확대구상",
+    "李대통령,울산AI데이터센터찾아\"속도가생명,인력부족고민\"(종합..."
    ],
    "initialized": true,
-   "last_run": "2026-11-21T14:40:25.155284+09:00"
+   "last_run": "2026-11-21T14:45:28.231068+09:00"
   }
  },
  "press_names": {
