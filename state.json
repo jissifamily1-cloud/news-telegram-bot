@@ -289,8 +289,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445739",
-    "https://biz.heraldcorp.com/article/10943923",
     "http://www.econonews.co.kr/news/articleView.html?idxno=447474",
     "https://en.yna.co.kr/view/AEN20261120004300320?input=2106m",
     "https://www.news1.kr/society/education/6360772",
@@ -1788,11 +1786,11 @@
     "https://www.ytn.co.kr/_ln/0101_202611211735370011",
     "https://www.goodnews1.com/news/articleView.html?idxno=466492",
     "https://www.ddaily.co.kr/page/view/2026112117391676765",
-    "https://www.newscj.com/news/articleView.html?idxno=3450904"
+    "https://www.newscj.com/news/articleView.html?idxno=3450904",
+    "https://www.sedaily.com/article/20117257",
+    "https://www.wikitree.co.kr/articles/1176558"
    ],
    "seen_titles": [
-    "휴대전화신규개통·번호이동시추가가입자동제한…대포폰피해원...",
-    "[특징주]노랑풍선,전일상한가이어10%대강세…한중FTA타결기대지...",
     "앤트로픽흥행에도AI불안여전…외국인귀환은'안갯속'",
     "아시안게임金한국여자핸드볼,카자흐스탄서아시아선수권왕좌탈환...",
     "SKT,유물을트리장식으로재해석한‘화이트보물트리’전시",
@@ -3290,10 +3288,12 @@
     "이대통령,울산AI데이터센터현장방문...\"속도경쟁핵심\"",
     "李대통령\"AI데이터센터·메모리수요더늘것\"",
     "“고려아연의결권지키려만든YPC”…영풍금융자산흡수하며역할확...",
-    "최태원\"AI시대엔교육도재설계\"…한일산학연계강조"
+    "최태원\"AI시대엔교육도재설계\"…한일산학연계강조",
+    "李대통령,울산전통시장찾아민생점검…“내년에는조금더좋아질...",
+    "“AI시대,한일기업·대학함께하자”…최태원이파격발언한이유"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T17:45:30.169715+09:00"
+   "last_run": "2026-11-21T17:50:26.817199+09:00"
   }
  },
  "press_names": {
