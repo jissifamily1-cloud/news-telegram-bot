@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-21T04:15:27.058909+09:00",
-     "앤트로픽 공모가 급락 나스닥 반도체지수"
-    ],
-    [
      "2026-11-21T04:50:29.312833+09:00",
      "알파벳에 엔비디아 테마 투매에 시총 와르르 4위로 밀려"
     ],
@@ -313,10 +309,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.handmk.com/news/articleView.html?idxno=45273",
-    "https://www.joongboo.com/news/articleView.html?idxno=363743112",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506210",
-    "http://www.kjdaily.com/article.php?aid=1795134696692965276",
     "http://www.newskr.kr/news/articleView.html?idxno=108163",
     "https://www.mk.co.kr/article/12214326",
     "http://www.financialreview.co.kr/news/articleView.html?idxno=46464",
@@ -1812,13 +1804,13 @@
     "https://www.pointe.co.kr/news/articleView.html?idxno=88202",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286933&CMPT_CD=P0010",
     "https://www.sedaily.com/article/20117195",
-    "http://www.kjdaily.com/article.php?aid=1795223351693018227"
+    "http://www.kjdaily.com/article.php?aid=1795223351693018227",
+    "https://m.sports.naver.com/general/article/065/0000305032",
+    "http://www.osen.co.kr/article/G1112913140",
+    "https://www.kyeonggi.com/article/20261121580022",
+    "https://www.pennmike.com/news/articleView.html?idxno=132400"
    ],
    "seen_titles": [
-    "[특징주]앤트로픽상장기대감식었나…SK텔레콤장초반8%대하락",
-    "반도체비관정점…증권가,삼전닉스내년D램판가40%↑주목해야",
-    "안양정관장6연승,부산KCC86대82제압",
-    "코스피다시5,000붕괴.美주가급락에투심위축",
     "무신사블랙프라이데이행사'무진장'내달2일까지진행,최대30%할인",
     "무신사최대쇼핑축제'무진장'개막…온·오프라인총공세",
     "‘7만전자·20만하이닉스’말한전문가“본격폭락아직시작안했...",
@@ -3314,10 +3306,14 @@
     "[오늘일본은]유출개인정보확산막으려사이트강제차단검토…통신...",
     "'12명중7명교체'마줄스호,월드컵분수령서위기넘을까",
     "10개월만에최저치찍은코스피…나경원“국민들,계좌열기도두려워...",
-    "금시세(금값)약세"
+    "금시세(금값)약세",
+    "[2026유스클럽드림컵]'2026KBL유스클럽드림컵in제천'1일차,소노...",
+    "'4년만에K리그1복귀성공!'수원삼성,이제우승트로피까지들어올...",
+    "영풍,고려아연지분넘긴자회사서배당금'0원'…금융자산팔아현금...",
+    "뉴욕3대증시모두'급락'...앤트로픽·엔비디아모두하락마감"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T10:15:25.373228+09:00"
+   "last_run": "2026-11-21T10:20:28.014139+09:00"
   }
  },
  "press_names": {
