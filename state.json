@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-21T13:03:26.343040+09:00",
-     "돈만 매출 대기업 우리끼리 내부거래 거래한 841조"
-    ],
-    [
-     "2026-11-21T13:03:26.343040+09:00",
-     "서버 자바 로그인 취약점 SK쉴더스 CPU 점검 뚫리는 없이 강조"
-    ],
-    [
      "2026-11-21T13:15:26.848942+09:00",
      "속도전 경쟁은 울산 강조 건설인력 확보 AI데이터센터 전문"
     ],
@@ -258,11 +250,13 @@
     [
      "2026-11-21T19:00:38.461652+09:00",
      "무엇을 있나 반도체 가린 호황이 잃고 한국 것들 산업은"
+    ],
+    [
+     "2026-11-21T19:05:21.830141+09:00",
+     "IPO After of Prove Companies Anthropic Value Korea the Will What"
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0102_202611201153495293",
-    "https://www.medipana.com/news/articleView.html?idxno=422293",
     "https://biz.sbs.co.kr/article_hub/20000347810?division=NAVER",
     "http://www.weeklytoday.com/news/articleView.html?idxno=802783",
     "https://www.topstarnews.net/news/articleView.html?idxno=16281380",
@@ -1760,11 +1754,11 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611210035&t=NN",
     "https://www.hankookilbo.com/news/article/A2026112118080004860?did=NA",
     "https://www.mhns.co.kr/news/articleView.html?idxno=770135",
-    "https://www.businessplus.kr/news/articleView.html?idxno=120249"
+    "https://www.businessplus.kr/news/articleView.html?idxno=120249",
+    "https://news.jtbc.co.kr/article/NB12329218?influxDiv=NAVER",
+    "https://www.koreaittimes.com/news/articleView.html?idxno=159345"
    ],
    "seen_titles": [
-    "[굿모닝!20일유통가소식]코웨이·LG생활건강·배민·콜마비앤에이치...",
-    "[학과탐방]AI엔진달고내커리어직접조립한다...한양사이버대AI융...",
     "앤트로픽도역부족…9개월만에장중4900선붕괴",
     "컬리뷰티페스타,소비자취향저격한체험마케팅[뉴스큐]",
     "남광토건,‘부천대장하우스토리디센트’23일부터청약…3기신도시...",
@@ -3262,10 +3256,12 @@
     "\"삼전닉스,반전은온다\"...무디스전망에개미들'반색'",
     "'전통명가'수원삼성,K리그1복귀이어K리그2우승조기확정",
     "이대통령울산방문…김상욱시장,남신항·해상풍력지원건의",
-    "[시선+]반도체호황이가린것들…한국산업은무엇을잃고있나"
+    "[시선+]반도체호황이가린것들…한국산업은무엇을잃고있나",
+    "이대통령,울산전통시장두곳방문…\"내년에는조금더좋아질것\"",
+    "AfterAnthropic'sIPO,WhatWillProvetheValueofKorea'sAICompanie"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T19:00:38.461652+09:00"
+   "last_run": "2026-11-21T19:05:21.830141+09:00"
   }
  },
  "press_names": {
