@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-21T12:30:35.258303+09:00",
-     "한국화장품 강세 급등 주가 에스엠 스튜디오드래곤 지슨"
-    ],
-    [
      "2026-11-21T12:35:20.828567+09:00",
      "매도 서학개미 MS SK하이닉스 ADR 우위"
     ],
@@ -261,9 +257,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000347816?division=NAVER",
-    "https://news.jtbc.co.kr/article/NB12329020?influxDiv=NAVER",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1732464",
     "https://news.unn.net/news/articleView.html?idxno=601075",
     "https://view.asiae.co.kr/article/2026112011452073114",
     "https://magazine.hankyung.com/business/article/202611209765b",
@@ -1760,12 +1753,12 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=302341",
     "https://www.etoday.co.kr/news/view/2651224",
     "https://www.getnews.co.kr/news/articleView.html?idxno=887983",
-    "https://www.goal.com/kr/뉴스/a/blt4a959a7c2202e6ae"
+    "https://www.goal.com/kr/뉴스/a/blt4a959a7c2202e6ae",
+    "https://www.ajunews.com/view/20261121182921137",
+    "https://www.slist.kr/news/articleView.html?idxno=783670",
+    "http://www.newstomato.com/ReadNews.aspx?no=1321316&inflow=N"
    ],
    "seen_titles": [
-    "‘역대최대109조IPO’성공했지만…앤스로픽도꺾지못한AI버블의...",
-    "'7만전자·20만닉스'제시한전문가\"아직본격적인폭락시작도안해\"",
-    "[핫타임]앤트로픽지분가치5조원평가에도…SK텔레콤10%대급락",
     "앤트로픽·AMD發악재겹친코스피…4%대급락지속",
     "올해의기억AI로정리한다…SKT‘시드볼트’운영",
     "삼성전자·SK하이닉스,장초반동반약세...5~6%낙폭",
@@ -3262,10 +3255,13 @@
     "최태원SK회장\"실무역량높인대학인재,적극영입하고파\"",
     "李대통령,울산전통시장잇따라찾아민생소통…\"내년엔좀더나아질...",
     "해외서들려온MBK파트너스일본와콤·소프트뱅크손정의SK하이닉스M...",
-    "‘3년만에승격’수원,K리그2우승확정…이정효감독“아직갈길..."
+    "‘3년만에승격’수원,K리그2우승확정…이정효감독“아직갈길...",
+    "[종합]李대통령\"AI데이터센터,미래산업핵심인프라…속도전이핵심...",
+    "수원삼성,3년만에K리그1복귀확정이어K리그2우승…경남에3-1승...",
+    "손정의,SK하이닉스인수검토했었다…몸값만1조달러"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T18:30:34.431097+09:00"
+   "last_run": "2026-11-21T18:35:19.963542+09:00"
   }
  },
  "press_names": {
