@@ -325,7 +325,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.bizwatch.co.kr/article/market/2026/11/20/0004",
     "http://www.beyondpost.co.kr/view.php?ud=202611200918362033be44c0aacd_30",
     "http://www.weeklytoday.com/news/articleView.html?idxno=802728",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=305484",
@@ -1824,10 +1823,10 @@
     "https://www.newsis.com/view/NISX20261121_0003877548",
     "https://biz.sbs.co.kr/article_hub/20000347963?division=NAVER",
     "https://www.cbci.co.kr/news/articleView.html?idxno=629216",
-    "https://www.youthdaily.co.kr/news/article.html?no=230168"
+    "https://www.youthdaily.co.kr/news/article.html?no=230168",
+    "https://sports.hankooki.com/news/articleView.html?idxno=6943987"
    ],
    "seen_titles": [
-    "\"美기술주급락여파\"…삼전4%·닉스5%대하락[특징주]",
     "ADT캡스,AI홈보안'캡스홈'으로모바일기술대상수상…올해3관왕",
     "앤트로픽상장여파에유동성이탈…코스피4%급락출발(상보)",
     "ADT'캡스홈',모바일기술대상수상...AI홈보안기술력인정",
@@ -3326,10 +3325,11 @@
     "\"코스피4800선무너지면4300까지?\"…추가하락경고",
     "AI잔치에찬물끼얹은뉴욕증시…앤트로픽·엔비디아동반급락",
     "코스피5%대'주루룩'…대형주들약세,삼성전기13%급락",
-    "반도체값으로만든무역수지…한국금융연구원,\"가격하락하면흑자급..."
+    "반도체값으로만든무역수지…한국금융연구원,\"가격하락하면흑자급...",
+    "'AG금메달·대학MVP'이동근,이변없이KBL신인1순위로수원KT행"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T10:25:19.634763+09:00"
+   "last_run": "2026-11-21T10:30:33.155326+09:00"
   }
  },
  "press_names": {
