@@ -154,12 +154,21 @@
     [
      "2026-11-22T00:05:22.766125+09:00",
      "매도 이탈속 수급 엇갈린 외인 소부장의 삼전닉스와"
+    ],
+    [
+     "2026-11-22T00:15:26.788659+09:00",
+     "7억6천만달러 3배 서학개미 ETF 순매수 반도체"
+    ],
+    [
+     "2026-11-22T00:15:26.788659+09:00",
+     "하락 휘발유 기름값 경유 5원 주유소 27주째 7원"
+    ],
+    [
+     "2026-11-22T00:15:26.788659+09:00",
+     "외국인 개미 샀다 삼성전자우 급락 삼성전자 삼성전기 팔고"
     ]
    ],
    "seen_urls": [
-    "https://www.moneystorm.kr/news/articleView.html?idxno=8649",
-    "http://www.kjdaily.com/article.php?aid=1795146003692972276",
-    "https://www.the-today.com/news/articleView.html?idxno=93822",
     "https://sateconomy.co.kr/news/view/1065574337850682",
     "https://www.newspim.com/news/view/20261120000634",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1732461",
@@ -1656,12 +1665,12 @@
     "http://www.metroseoul.co.kr/article/20261122500001",
     "https://www.thefairnews.co.kr/news/articleView.html?idxno=94968",
     "https://www.newsis.com/view/NISX20261119_0003874253",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=94970"
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=94970",
+    "http://www.kjdaily.com/article.php?aid=1795273949693036276",
+    "https://www.energy-news.co.kr/news/articleView.html?idxno=229969",
+    "http://www.kjdaily.com/article.php?aid=1795273632693029276"
    ],
    "seen_titles": [
-    "[특징주]SK텔레콤,앤트로픽나스닥입성에도11%대약세",
-    "이화여대,'캠퍼스특허유니버시아드'대통령상쾌거",
-    "[속보]“코스피4,900선무너졌다”…4%대급락에매도사이드카발동",
     "KT,LG전자와양자직접통신구현…이미지양자신호에담아전송",
     "앤스로픽상장첫날亞증시폭락…韓·日4~5%·대만6%에中·홍콩도...",
     "코스피4%대급락에매도사이드카",
@@ -3158,10 +3167,13 @@
     "손정의가탐낸SK하이닉스…소뱅,1조달러인수구상",
     "[증시프리즘]외인매도공세에흔들린코스피대형주…반도체·자동차...",
     "\"삼성전자가만든휴머노이드는어떨까…로봇상용화최적조건갖춰\"",
-    "[더페어돋보기]외인매도이탈속삼전닉스와소부장의엇갈린수급결..."
+    "[더페어돋보기]외인매도이탈속삼전닉스와소부장의엇갈린수급결...",
+    "서학개미,반도체3배ETF7억6천만달러순매수",
+    "주유소기름값27주째하락…휘발유-1854.7원,경유-1841.5원",
+    "삼성전자·삼성전자우·삼성전기급락…외국인팔고개미샀다"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T00:10:28.638694+09:00"
+   "last_run": "2026-11-22T00:15:26.788659+09:00"
   }
  },
  "press_names": {
