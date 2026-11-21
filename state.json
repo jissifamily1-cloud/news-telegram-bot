@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-21T09:15:25.827422+09:00",
-     "막지 대폭락 엔비디아 기술주 증시 못한 매도세의 미국 앤트로픽도"
-    ],
-    [
-     "2026-11-21T09:15:25.827422+09:00",
-     "수자원공사 지원 기술 국산화 초순수 본격화 개발 소부장"
-    ],
-    [
-     "2026-11-21T09:15:25.827422+09:00",
-     "숭실대 생산 현장 기계공학부에 SK인텔릭스 웰니스 로봇 나무엑스"
-    ],
-    [
-     "2026-11-21T09:15:25.827422+09:00",
-     "2조원 가격 승부 가른다 입찰 SK온 삼성SDI 재격돌 경쟁력이 ESS"
-    ],
-    [
      "2026-11-21T09:25:19.636770+09:00",
      "초비상 증시 월요일 검은 대폭락에 오나 한국 월가"
     ],
@@ -346,13 +330,13 @@
     [
      "2026-11-21T15:10:25.543910+09:00",
      "신용 코스피 20조 블랙 먼데이 예탁금 확실시 방어선 80조"
+    ],
+    [
+     "2026-11-21T15:15:30.848228+09:00",
+     "고속도로가 대전환 찾아 울산 데이터센터 이끌"
     ]
    ],
    "seen_urls": [
-    "https://www.kukinews.com/article/view/kuk202611200043",
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=370184",
-    "http://journal.kobeta.com/?post_type=post&p=64502",
-    "http://www.worktoday.co.kr/news/articleView.html?idxno=92372",
     "http://www.iminju.net/news/articleView.html?idxno=172802",
     "https://www.yna.co.kr/view/AKR20261120065500017?input=1195m",
     "https://www.namdonews.com/news/articleView.html?idxno=929928",
@@ -1848,13 +1832,13 @@
     "http://www.segyebiz.com/newsView/20261121504930?OutUrl=naver",
     "https://www.newsis.com/view/NISX20261121_0003877698",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000085151",
-    "https://biz.newdaily.co.kr/site/data/html/2026/11/21/2026112150053.html"
+    "https://biz.newdaily.co.kr/site/data/html/2026/11/21/2026112150053.html",
+    "https://www.segye.com/newsView/20261121504658?OutUrl=naver",
+    "https://www.mt.co.kr/industry/2026/11/21/2026112115051047649",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611210023&t=NN",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=885786"
    ],
    "seen_titles": [
-    "[증시오늘(20일)핵심특징주]반도체대형주·소부장일제히급락세…...",
-    "이통사관계없이누구나무료체험…SKT,T팩토리성수서연말전시2종...",
-    "삼성전자·SK하이닉스공매도거래1천422억원…코스피의16%",
-    "SKT,T팩토리성수서AI기억전시·문화유산트리선보여",
     "전남광주반도체실장'삼전닉스'추천인사가맡는다…시장직속",
     "SKTT팩토리성수,AI로한해의기억기록하는연말전시개최",
     "[개장시황]앤트로픽상장후폭풍…코스피,4%대급락하며5,000선'와르...",
@@ -3350,10 +3334,14 @@
     "손정의,SK하이닉스1조달러인수검토…“현재는고려안해”",
     "\"소프트뱅크손정의,SK하이닉스1조달러인수검토했다중단\"",
     "李대통령,울산AIDC현장점검…\"속도가생명\"",
-    "韓'블랙먼데이'확실시…예탁금80조·코스피신용20조방어선'붕..."
+    "韓'블랙먼데이'확실시…예탁금80조·코스피신용20조방어선'붕...",
+    "“소프트뱅크손정의,SK하이닉스1조달러인수검토했다”",
+    "\"소프트뱅크손정의,한때SK하이닉스1조달러인수구상했다\"",
+    "\"SK하이닉스,우리가산다\"...손정의,'1조달러'인수한때검토",
+    "李,울산SK데이터센터찾아…\"AI고속도로가대전환이끌것\""
    ],
    "initialized": true,
-   "last_run": "2026-11-21T15:10:25.543910+09:00"
+   "last_run": "2026-11-21T15:15:30.848228+09:00"
   }
  },
  "press_names": {
