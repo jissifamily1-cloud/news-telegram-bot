@@ -230,11 +230,17 @@
     [
      "2026-11-22T08:10:27.037594+09:00",
      "논쟁 빚투 이제부터 바닥 4900선 붕괴 3조 코스피"
+    ],
+    [
+     "2026-11-22T08:20:26.036101+09:00",
+     "규제 지각변동 초비상 공급망 쇼크 EU 연말"
+    ],
+    [
+     "2026-11-22T08:20:26.036101+09:00",
+     "외인매도에 호재에도 돈이 받아줄 없다 코스피 깨진 000선도"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000347849?division=NAVER",
-    "http://www.srtimes.kr/news/articleView.html?idxno=218219",
     "https://www.ekn.kr/web/view.php?key=20261120022052554",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1732484",
     "https://www.mk.co.kr/article/12214520",
@@ -1732,11 +1738,11 @@
     "http://www.metroseoul.co.kr/article/20261122500019",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1732565",
     "https://www.edaily.co.kr/News/Read?newsId=01167686645648344&mediaCodeNo=257",
-    "http://www.metroseoul.co.kr/article/20261122500016"
+    "http://www.metroseoul.co.kr/article/20261122500016",
+    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720648",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445871"
    ],
    "seen_titles": [
-    "먹은만큼뱉네…앤트로픽발썰물에코스피4900'위태'",
-    "\"유력방출후보존재\"...'국가대표센터백'김민재,뮌헨서살아남을...",
     "보령시,23~29일'함박민화전람회'개최…민화150여점전시",
     "[속보]코스피이어코스닥도매도사이드카발동…삼전닉스급락",
     "인천시,'2026제약바이오투자대전'개최...글로벌투자-기술협력확대",
@@ -3234,10 +3240,12 @@
     "국장복귀후회하는서학개미…버텼어도'반토막'",
     "최태원회장\"AI시대엔대학도달라져야\"…한일공동인재육성제안",
     "앤스로픽상장이'방아쇠'…뉴욕증시폭락부른5가지이유",
-    "코스피4900선붕괴…빚투3조↓'바닥논쟁'은이제부터"
+    "코스피4900선붕괴…빚투3조↓'바닥논쟁'은이제부터",
+    "AI칩지각변동·EU규제쇼크···연말공급망'초비상'",
+    "외인매도에5,000선도깨진코스피…호재에도'받아줄돈이없다'"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T08:15:24.862260+09:00"
+   "last_run": "2026-11-22T08:20:26.036101+09:00"
   }
  },
  "press_names": {
