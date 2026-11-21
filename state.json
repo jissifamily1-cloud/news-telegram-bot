@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-21T16:50:26.444361+09:00",
-     "tumble outlook Samsung split on as hynix analysts chip"
-    ],
-    [
      "2026-11-21T17:05:24.191395+09:00",
      "3관왕 홈보안 캡스홈 기술력 인정 올해 ADT캡스"
     ],
@@ -170,10 +166,13 @@
     [
      "2026-11-21T22:30:33.411605+09:00",
      "T1 꼬톰마 2년 만에 결별 이지훈 이끈 롤드컵 코치는 3연패"
+    ],
+    [
+     "2026-11-21T22:55:20.625794+09:00",
+     "4900선 금리 촉각 급락에 다음주 변수에 기술주 이탈 코스피"
     ]
    ],
    "seen_urls": [
-    "https://www.bizwork.co.kr/news/articleView.html?idxno=421015",
     "https://www.newscj.com/news/articleView.html?idxno=3450654",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=211761",
     "http://www.newsmp.com/news/articleView.html?idxno=259416",
@@ -1672,10 +1671,10 @@
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=626832",
     "https://www.ajunews.com/view/20261121214444202",
     "http://www.queen.co.kr/news/articleView.html?idxno=466703",
-    "https://www.wikitree.co.kr/articles/1176596"
+    "https://www.wikitree.co.kr/articles/1176596",
+    "https://www.econovill.com/news/articleView.html?idxno=758068"
    ],
    "seen_titles": [
-    "[속보]코스피4%대급락에매도사이드카발동",
     "코스피5%대급락에매도사이드카…장중4900선붕괴",
     "AI투자불안에코스피4%넘게급락…또5천선↓",
     "[속보]삼성전자·SK하이닉스6.6%안팎곤두박질…코스피,매도사이드...",
@@ -3174,10 +3173,11 @@
     "수원삼성,경남3-1꺾고K리그2우승…승격이어정상",
     "[아주경제오늘의종합뉴스]코레일\"소정리역탈선밤샘복구\"…22일...",
     "고려아연배당1579억은어디로…영풍은YPC서무배당",
-    "T1,롤드컵3연패이끈‘꼬톰마’와2년만에결별…이지훈코치는재..."
+    "T1,롤드컵3연패이끈‘꼬톰마’와2년만에결별…이지훈코치는재...",
+    "美기술주급락에코스피4900선이탈…다음주금리변수에촉각"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T22:50:26.049773+09:00"
+   "last_run": "2026-11-21T22:55:20.625794+09:00"
   }
  },
  "press_names": {
