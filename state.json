@@ -349,9 +349,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=885512",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506248",
-    "https://www.e-science.co.kr/news/articleView.html?idxno=140334",
     "https://view.asiae.co.kr/article/2026112010165311082",
     "https://www.businesspost.co.kr/BP?command=article_view&num=452485",
     "https://www.ezyeconomy.com/news/articleView.html?idxno=242041",
@@ -1848,12 +1845,12 @@
     "https://www.newspim.com/news/view/20261121000086",
     "https://www.hankookilbo.com/news/article/A2026112113550002796?did=NA",
     "https://www.fnnews.com/news/202611210804011155",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=903789"
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=903789",
+    "https://www.news1.kr/politics/president/6361605",
+    "https://www.segye.com/newsView/20261121504606?OutUrl=naver",
+    "https://imnews.imbc.com/news/2026/politics/article/6867469_36911.html"
    ],
    "seen_titles": [
-    "SKT·SK인텔릭스,T팩토리성수서연말전시·숭실대기계공학부에'나...",
-    "\"2700억이5조됐다\"…앤트로픽상장에SK텔레콤'잭팟',주가재평가기...",
-    "앤트로픽상장,SK그룹최태원회장의'선제적투자'결실…4조3000억원...",
     "“오천피또깨졌다”앤트로픽흥행에도코스피4%하락출발[투자360...",
     "SK하이닉스주가,11월20일장중6.42%하락,1,107,000원기록",
     "\"반도체주급락,메모리현물가하락영향\"...KB증권,\"삼전닉스실적은...",
@@ -3350,10 +3347,13 @@
     "李대통령,울산SKAI데이터센터현장방문...\"글로벌추가투자마중물...",
     "이대통령,울산SKAI데이터센터방문\"AI투자로균형발전\"",
     "\"1억넣었는데1800만원된다고?\"…'7만전자·20만닉스'섬뜩한폭락...",
-    "연말재편시한앞둔석화구조조정…압박수위커질까"
+    "연말재편시한앞둔석화구조조정…압박수위커질까",
+    "[뉴스1PICK]李대통령,울산AI데이터센터찾아\"글로벌추가투자마...",
+    "[속보]李대통령,울산AI데이터센터찾아“지방중심AI투자로균형...",
+    "李,울산SKAI데이터센터방문‥\"국가경쟁위해속도전이핵심\""
    ],
    "initialized": true,
-   "last_run": "2026-11-21T14:05:22.381356+09:00"
+   "last_run": "2026-11-21T14:10:25.887336+09:00"
   }
  },
  "press_names": {
