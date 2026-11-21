@@ -313,10 +313,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsway.co.kr/news/view?ud=2026112010522694831",
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=399352",
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065579448257811",
-    "https://www.news2day.co.kr/article/20261119500204",
     "https://www.goal.com/kr/뉴스/a/bltc31320c55f261bee",
     "https://biz.newdaily.co.kr/site/data/html/2026/11/20/2026112050104.html",
     "https://www.hani.co.kr/arti/sports/sports_general/1288308.html",
@@ -1812,13 +1808,13 @@
     "https://view.asiae.co.kr/article/2026112116595733802",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=885757",
     "https://www.ddaily.co.kr/page/view/2026112109040556449",
-    "https://www.kyeonggi.com/article/20261121580095"
+    "https://www.kyeonggi.com/article/20261121580095",
+    "https://isplus.com/article/view/isp202611210036",
+    "http://www.kjdaily.com/article.php?aid=1795248731693027276",
+    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041615",
+    "https://bizhankook.com/articles/masayoshi-son-sk-hynix-acquisition-bid.html"
    ],
    "seen_titles": [
-    "수출1조달러이끈반도체...생산기지투자속도",
-    "IMF총재\"AI증시조정더남았다\"…삼성전자·SK하이닉스주가'촉각'",
-    "“본격폭락시작안했다”…‘7만전자·20만닉스’이은섬뜩한경고",
-    "SKT,T팩토리서연말전시…'AI가정리하는올해의나'",
     "SKT,T팩토리성수서AI가정리해주는‘올해의나’전시",
     "알뜰폰시장도통신3사독식?…점유율규제강화추진",
     "무신사,패션부터버거까지혜택넓힌'무진장겨울블프‘왔다",
@@ -3314,10 +3310,14 @@
     "최태원“AI시대대학교육새로짜야”…한일산학협력제안",
     "ADT캡스,AI홈보안기술력인정…캡스홈올해3관왕",
     "“5000선붕괴가끝아니다?”…반도체꺾이자코스피4000선도위태[증...",
-    "최태원\"韓-日기업·대학힘모으자\"…AI인재육성협력제안"
+    "최태원\"韓-日기업·대학힘모으자\"…AI인재육성협력제안",
+    "‘이정효매직결실’수원,K리그2‘우승’…명가자존심되찾았다",
+    "삼성전자공매도거래대금1.9%↑·SK하이닉스20.1%↓",
+    "수원삼성,1부리그승격확정이어K리그2우승",
+    "손정의,SK하이닉스'1조달러인수'타진했다…소프트뱅크\"더이상고..."
    ],
    "initialized": true,
-   "last_run": "2026-11-21T17:10:26.681669+09:00"
+   "last_run": "2026-11-21T17:15:27.086558+09:00"
   }
  },
  "press_names": {
