@@ -165,9 +165,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=885590",
-    "https://www.newspost.kr/news/articleView.html?idxno=227625",
-    "https://www.yna.co.kr/view/AKR20261120086351008?input=1195m",
     "http://www.apparelnews.co.kr/news/news_view/?idx=229150",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1732477",
     "https://www.mt.co.kr/stock/2026/11/20/2026112011311988767",
@@ -1664,12 +1661,12 @@
     "https://www.yna.co.kr/view/AKR20261120152600003?input=1195m",
     "https://www.yna.co.kr/view/AKR20261120155200003?input=1195m",
     "https://www.yna.co.kr/view/AKR20261121030200008?input=1195m",
-    "https://m.sports.naver.com/basketball/article/065/0000305080"
+    "https://m.sports.naver.com/basketball/article/065/0000305080",
+    "https://it.chosun.com/news/articleView.html?idxno=3000000001511",
+    "https://www.newdaily.co.kr/site/data/html/2026/11/22/2026112250003.html",
+    "https://www.news1.kr/industry/general-industry/6361699"
    ],
    "seen_titles": [
-    "[외환]위험회피·증시급락에1,330원후반대로…8.30원↑",
-    "고유가에마르는현금…정유업계,최고가격제정산촉각",
-    "무신사,연중최대규모'무진장26겨울블프'개막",
     "\"폭락아직시작안했다\"…'7만전자·20만닉스'전망전문가의충격경...",
     "쿠팡,국내계열사간거래액첫5위…CJ는매출절반이상표권수입",
     "SK하이닉스,키옥시아영향력키운다...CB주식전환검토,'간접최대주...",
@@ -3166,10 +3163,13 @@
     "삼전닉스,3분기배당성향껑충…상반기대비21배로늘기도",
     "대기업영업익3배늘었지만기부금은감소…SK하이닉스도줄여",
     "스페이스X때보다는'뚝'…서학개미,상장첫날앤트로픽2천200억매수",
-    "이훈재감독이프로꿈이룬아들이채형에게전한조언,“리더가되어..."
+    "이훈재감독이프로꿈이룬아들이채형에게전한조언,“리더가되어...",
+    "삼성·SK·LG인사키워드는'성과·쇄신'승부처는'수익성'",
+    "이정효의수원,K리그2'조기우승확정'",
+    "'불확실성'에빨라진재계인사…핵심CEO유임,엔지니어전진배치"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T06:30:33.846747+09:00"
+   "last_run": "2026-11-22T06:35:20.531241+09:00"
   }
  },
  "press_names": {
