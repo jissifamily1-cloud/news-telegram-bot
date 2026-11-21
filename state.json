@@ -261,9 +261,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=305517",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611200056&t=NN",
-    "http://www.gjdream.com/news/articleView.html?idxno=674542",
     "https://biz.sbs.co.kr/article_hub/20000347816?division=NAVER",
     "https://news.jtbc.co.kr/article/NB12329020?influxDiv=NAVER",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1732464",
@@ -1760,12 +1757,12 @@
     "https://sports.hankooki.com/news/articleView.html?idxno=6943992",
     "https://www.busan.com/view/busan/view.php?code=2026112118174056267",
     "https://www.hankyung.com/article/2026112115067",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=302341"
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=302341",
+    "https://www.etoday.co.kr/news/view/2651224",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=887983",
+    "https://www.goal.com/kr/뉴스/a/blt4a959a7c2202e6ae"
    ],
    "seen_titles": [
-    "알뜰폰독과점차단법발의…\"통신3사계열사점유율상한법률로정해...",
-    "최혁진의원,'알뜰폰독과점차단법'대표발의",
-    "코스피장중4900선하회…'美반도체급락'외인·기관1.2조매도[장중...",
     "‘역대최대109조IPO’성공했지만…앤스로픽도꺾지못한AI버블의...",
     "'7만전자·20만닉스'제시한전문가\"아직본격적인폭락시작도안해\"",
     "[핫타임]앤트로픽지분가치5조원평가에도…SK텔레콤10%대급락",
@@ -3262,10 +3259,13 @@
     "'선제골은교과서처럼,수비는빈틈없이'…'ACL도전'인천이보여준완...",
     "\"손정의,SK하이닉스1조달러에인수하려했다…월가에자금조달타진...",
     "李대통령,울산전통시장2곳'깜짝방문'…닭발·호떡등구매",
-    "최태원SK회장\"실무역량높인대학인재,적극영입하고파\""
+    "최태원SK회장\"실무역량높인대학인재,적극영입하고파\"",
+    "李대통령,울산전통시장잇따라찾아민생소통…\"내년엔좀더나아질...",
+    "해외서들려온MBK파트너스일본와콤·소프트뱅크손정의SK하이닉스M...",
+    "‘3년만에승격’수원,K리그2우승확정…이정효감독“아직갈길..."
    ],
    "initialized": true,
-   "last_run": "2026-11-21T18:25:21.221155+09:00"
+   "last_run": "2026-11-21T18:30:34.431097+09:00"
   }
  },
  "press_names": {
