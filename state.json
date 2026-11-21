@@ -334,17 +334,17 @@
     [
      "2026-11-21T16:20:35.314793+09:00",
      "5분 거래 거래량 비중 건수는 프리딕트펀"
+    ],
+    [
+     "2026-11-21T16:30:33.527177+09:00",
+     "도쿄포럼 발언하는 최태원 2026에서 회장"
+    ],
+    [
+     "2026-11-21T16:30:33.527177+09:00",
+     "수요 겨울 행사 확대 공략 신제품 유통업계 쇼핑 할인"
     ]
    ],
    "seen_urls": [
-    "https://www.siminsori.com/news/articleView.html?idxno=402486",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1427353",
-    "https://www.ytn.co.kr/_ln/0102_202611201104586467",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506275",
-    "https://biz.heraldcorp.com/article/10943869",
-    "https://www.news1.kr/photos/8224574",
-    "https://www.news1.kr/photos/8224572",
-    "https://biz.sbs.co.kr/article_hub/20000347794?division=NAVER",
     "https://www.etoday.co.kr/news/view/2650876",
     "http://www.newsdream.kr/news/articleView.html?idxno=122653",
     "https://www.smarttoday.co.kr/ko-kr/articles/113924",
@@ -1836,17 +1836,17 @@
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963845",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5232162",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=626805",
-    "https://view.asiae.co.kr/article/2026112116192801624"
+    "https://view.asiae.co.kr/article/2026112116192801624",
+    "https://www.edaily.co.kr/News/Read?newsId=02082806645648016&mediaCodeNo=257",
+    "https://www.jemin.com/news/articleView.html?idxno=847990",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16282379",
+    "https://www.joongang.co.kr/article/25480701",
+    "https://www.hankyung.com/article/2026112114457",
+    "https://www.newspim.com/news/view/20261121000107",
+    "https://www.yna.co.kr/view/PYH20261121035900073?input=1196m",
+    "https://www.segye.com/newsView/20261121505344?OutUrl=naver"
    ],
    "seen_titles": [
-    "코스피,외국인·기관매도세5,000선붕괴…장중3%대급락",
-    "아시안게임金한국여자핸드볼,아시아선수권왕좌탈환도전",
-    "“딱딱한청년고용정책,체험하며배운다”…노동부,청주·전주서팝업...",
-    "이화여대'2026캠퍼스특허유니버시아드'대통령상수상..'우수상2팀...",
-    "최태원앤트로픽베팅에SKT4조벌었다",
-    "청년취업지원정책'팝업'으로만난다…자소서컨설팅에기업설명회도",
-    "청년고용정책팝업스토어개최…SK하이닉스등13곳참여",
-    "삼성전자,'투톱'체제유지속새판짠메모리·모바일...황상준·최원...",
     "노동부,청주·전주서'고용정책팝업스토어'…청년에직접소개",
     "청주·전주서청년고용행사연다…하이닉스등13곳참여",
     "청년고용정책,팝업스토어로만난다…청주·전주서체험행사",
@@ -3338,10 +3338,18 @@
     "최태원회장,AI시대맞아한일기업·대학함께하는플랫폼제시",
     "\"소프트뱅크손정의,1조달러에SK하이닉스인수검토했다\"",
     "손정의,SK하이닉스인수검토중단…1조달러조달논의",
-    "李대통령,AI전력·인력확보강조…\"AIDC·메모리수요더늘것\"(종합..."
+    "李대통령,AI전력·인력확보강조…\"AIDC·메모리수요더늘것\"(종합...",
+    "최태원\"한일기업·대학AI인재플랫폼만들자\"…인턴·채용연계",
+    "이정효감독의승부수통했다…수원삼성,경남3-1제압하고K리그2우...",
+    "손정의SK하이닉스1346조원인수설…SK하이닉스\"아는바없다\",현실성...",
+    "‘7만전자20만닉스’주장한전문가“본격적인폭락시작안됐다”",
+    "또'한일경제동맹'강조한최태원…\"韓日AI플랫폼만들자\"",
+    "[프로축구]수원삼성,경남에3-1완승...K리그2우승확정",
+    "도쿄포럼2026에서발언하는최태원SK회장",
+    "겨울쇼핑수요공략…유통업계,신제품·할인행사확대"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T16:25:22.004591+09:00"
+   "last_run": "2026-11-21T16:30:33.527177+09:00"
   }
  },
  "press_names": {
