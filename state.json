@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-21T05:05:20.550308+09:00",
-     "개미 숫자 목표가도 뒤의 5조 쓸어담았다 줄하향 삼성전자 폭락에"
-    ],
-    [
-     "2026-11-21T05:05:20.550308+09:00",
-     "한숨 하나요 6월 꿈같다 오긴 코스피에 구조대 무너진 5000선"
-    ],
-    [
      "2026-11-21T05:15:31.675231+09:00",
      "삼성 하이닉스 할까 역대급 실적 흔들리는 예고 반전 내년 팔아야"
     ],
@@ -358,14 +350,21 @@
     [
      "2026-11-21T11:00:38.635823+09:00",
      "하락 급락에 투자 우려 뉴욕증시 나스닥 반도체"
+    ],
+    [
+     "2026-11-21T11:05:21.166264+09:00",
+     "전망은 떨어진다 여기서 20만닉스 7만전자 증권가"
+    ],
+    [
+     "2026-11-21T11:05:21.166264+09:00",
+     "방패는 경영권 남용은 한국은 주고 방어 미국식 막는"
+    ],
+    [
+     "2026-11-21T11:05:21.166264+09:00",
+     "다시 긍정적 오시멘 맨유 이적설 이적시장 포체티 앞두고 등장한"
     ]
    ],
    "seen_urls": [
-    "https://www.greened.kr/news/articleView.html?idxno=355127",
-    "https://www.dailian.co.kr/news/view/1717591/?sc=Naver",
-    "https://view.asiae.co.kr/article/2026112009354114438",
-    "https://www.hankyung.com/article/2026112092776",
-    "https://www.peoplewatch.co.kr/article/view/ppw202611200004",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=731739",
     "https://www.itdaily.kr/news/articleView.html?idxno=243085",
     "https://www.ddaily.co.kr/page/view/2026112009255886986",
@@ -1860,14 +1859,14 @@
     "https://www.ajunews.com/view/20261121104005932",
     "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963836",
     "https://www.joongangenews.com/news/articleView.html?idxno=565596",
-    "http://www.newsprime.co.kr/news/article.html?no=755930"
+    "http://www.newsprime.co.kr/news/article.html?no=755930",
+    "https://sports.donga.com/economy/article/all/20261121/135064656/1",
+    "https://www.joongangenews.com/news/articleView.html?idxno=565599",
+    "https://economist.co.kr/article/view/ecn202611210004",
+    "https://economist.co.kr/article/view/ecn202611170057",
+    "https://www.besteleven.com/news/articleView.html?idxno=314204"
    ],
    "seen_titles": [
-    "[개장시황]美증시급락에코스피5000선붕괴…4%대하락출발",
-    "코스피,다시5000선밑에서출발…미나스닥2%대급락여파[개장시황...",
-    "성수크리스마스트리에걸린백제금동대향로…전통유물로떠나는K-보...",
-    "[위클리오늘]코스피4900선출발···환율1330원대",
-    "SK텔레콤,성수서'시드볼트26'운영…국중박유물장식트리도",
     "앤트로픽쏠림에삼전닉스약세…삼성전기등'S7'도흔들",
     "앤트로픽지분가치5조원평가에도…SK텔레콤8%급락[핫종목]",
     "미증시하락마감여파에코스피5000하회출발[개장시황]",
@@ -3362,10 +3361,15 @@
     "[선전APEC특별결산2|인문자의시진핑APEC외교이야기|인간·문화...",
     "나스닥,기술주매도에5.3%폭락…연간상승분모두반납",
     "고려아연배당금YPC에쌓이는데...영풍은금융자산팔아현금확보",
-    "[해외시황]뉴욕증시,AI투자우려·반도체株급락에'하락'…나스닥5..."
+    "[해외시황]뉴욕증시,AI투자우려·반도체株급락에'하락'…나스닥5...",
+    "영풍,고려아연주식은보냈는데배당금은안왔다",
+    "11월3주차SK텔레콤주가큰폭하락6만원대로",
+    "'7만전자·20만닉스'여기서더떨어진다?…증권가전망은",
+    "'방패는주고남용은막는'미국식경영권방어…한국은?",
+    "이적시장앞두고다시등장한오시멘!…맨유이적설'긍정적'→포체티..."
    ],
    "initialized": true,
-   "last_run": "2026-11-21T11:00:38.635823+09:00"
+   "last_run": "2026-11-21T11:05:21.166264+09:00"
   }
  },
  "press_names": {
