@@ -254,10 +254,13 @@
     [
      "2026-11-21T19:05:21.830141+09:00",
      "IPO After of Prove Companies Anthropic Value Korea the Will What"
+    ],
+    [
+     "2026-11-21T19:10:28.601086+09:00",
+     "0원 넘긴 영풍의 YPC서 배당금 자충수 고려아연 지분"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000347810?division=NAVER",
     "http://www.weeklytoday.com/news/articleView.html?idxno=802783",
     "https://www.topstarnews.net/news/articleView.html?idxno=16281380",
     "http://www.yonhapnewstv.co.kr/news/MYH20261120115916ea3",
@@ -1756,10 +1759,10 @@
     "https://www.mhns.co.kr/news/articleView.html?idxno=770135",
     "https://www.businessplus.kr/news/articleView.html?idxno=120249",
     "https://news.jtbc.co.kr/article/NB12329218?influxDiv=NAVER",
-    "https://www.koreaittimes.com/news/articleView.html?idxno=159345"
+    "https://www.koreaittimes.com/news/articleView.html?idxno=159345",
+    "https://www.munhwa.com/article/11633019"
    ],
    "seen_titles": [
-    "앤트로픽도역부족…9개월만에장중4900선붕괴",
     "컬리뷰티페스타,소비자취향저격한체험마케팅[뉴스큐]",
     "남광토건,‘부천대장하우스토리디센트’23일부터청약…3기신도시...",
     "활력떨어진코스피…거래량12년만최저[이슈&뷰]",
@@ -3258,10 +3261,11 @@
     "이대통령울산방문…김상욱시장,남신항·해상풍력지원건의",
     "[시선+]반도체호황이가린것들…한국산업은무엇을잃고있나",
     "이대통령,울산전통시장두곳방문…\"내년에는조금더좋아질것\"",
-    "AfterAnthropic'sIPO,WhatWillProvetheValueofKorea'sAICompanie"
+    "AfterAnthropic'sIPO,WhatWillProvetheValueofKorea'sAICompanie",
+    "“영풍의자충수?”…고려아연지분넘긴YPC서배당금‘0원’"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T19:05:21.830141+09:00"
+   "last_run": "2026-11-21T19:10:28.601086+09:00"
   }
  },
  "press_names": {
