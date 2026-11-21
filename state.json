@@ -261,7 +261,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2495089",
     "https://www.kyeonggi.com/article/20261120580099",
     "https://www.lcnews.co.kr/news/articleView.html?idxno=211759",
     "https://www.g-enews.com/view.php?ud=2026112012252020820c8c1c064d_1",
@@ -1760,10 +1759,10 @@
     "https://www.tokenpost.kr/news/insights/442194",
     "https://imnews.imbc.com/replay/2026/nwdesk/article/6867506_37004.html",
     "https://www.gokorea.kr/news/articleView.html?idxno=886724",
-    "https://www.ppss.kr/news/articleView.html?idxno=322222"
+    "https://www.ppss.kr/news/articleView.html?idxno=322222",
+    "https://m.sports.naver.com/basketball/article/065/0000305074"
    ],
    "seen_titles": [
-    "코스피4%대급락…4,900선도붕괴",
     "앤트로픽상장에웃는K기업…글로벌AI투자'잭팟'",
     "[금융트렌드]삼성전자,젠슨황퇴진영향어떨까",
     "높은상품의존도에변수속출…종근당,매출기복과수익성방어의역...",
@@ -3262,10 +3261,11 @@
     "[알파분석]AI열풍에균열…앤트로픽급락뒤에숨은돈의문제",
     "해외데이터센터\"세금폭탄\"‥韓투자도흔들?",
     "뉴욕증시AI거품우려에폭락…국내증시도'검은월요일'우려",
-    "이재명대통령,울산전통시장연이어방문…'민생체감경청'행보"
+    "이재명대통령,울산전통시장연이어방문…'민생체감경청'행보",
+    "[KBL드림컵]'64점차완승부터1.1초남긴짜릿한역전승까지'예선1일..."
    ],
    "initialized": true,
-   "last_run": "2026-11-21T20:40:26.146756+09:00"
+   "last_run": "2026-11-21T20:45:25.252181+09:00"
   }
  },
  "press_names": {
