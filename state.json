@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-21T12:35:20.828567+09:00",
-     "매도 서학개미 MS SK하이닉스 ADR 우위"
-    ],
-    [
      "2026-11-21T12:40:28.171354+09:00",
      "대통령 데이터센터 건설현장 방문 이재명"
     ],
@@ -254,12 +250,13 @@
     [
      "2026-11-21T18:20:27.336814+09:00",
      "SK하이닉스 검토 인수 한때 손정의 소프트뱅크"
+    ],
+    [
+     "2026-11-21T18:40:26.476819+09:00",
+     "울산은 하루 자갈치시장 대통령 안동구시장 2곳 대구 부산 고향"
     ]
    ],
    "seen_urls": [
-    "https://news.unn.net/news/articleView.html?idxno=601075",
-    "https://view.asiae.co.kr/article/2026112011452073114",
-    "https://magazine.hankyung.com/business/article/202611209765b",
     "https://www.joongang.co.kr/article/25480437",
     "https://www.sedaily.com/article/20116885",
     "https://biz.heraldcorp.com/article/10943984",
@@ -1756,12 +1753,12 @@
     "https://www.goal.com/kr/뉴스/a/blt4a959a7c2202e6ae",
     "https://www.ajunews.com/view/20261121182921137",
     "https://www.slist.kr/news/articleView.html?idxno=783670",
-    "http://www.newstomato.com/ReadNews.aspx?no=1321316&inflow=N"
+    "http://www.newstomato.com/ReadNews.aspx?no=1321316&inflow=N",
+    "https://www.news1.kr/world/usa-canada/6361688",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857089&plink=ORI&cooper=NAVER",
+    "https://www.imaeil.com/page/view/2026112118361855246"
    ],
    "seen_titles": [
-    "앤트로픽·AMD發악재겹친코스피…4%대급락지속",
-    "올해의기억AI로정리한다…SKT‘시드볼트’운영",
-    "삼성전자·SK하이닉스,장초반동반약세...5~6%낙폭",
     "SeoulsharesextendlosseslateFri.morningontechslump",
     "이화여대,'캠퍼스특허유니버시아드'대통령상…학생7명수상",
     "“마지막희망마저무너졌다”…앤트로픽도못살린AI株투매[머니+]",
@@ -3258,10 +3255,13 @@
     "‘3년만에승격’수원,K리그2우승확정…이정효감독“아직갈길...",
     "[종합]李대통령\"AI데이터센터,미래산업핵심인프라…속도전이핵심...",
     "수원삼성,3년만에K리그1복귀확정이어K리그2우승…경남에3-1승...",
-    "손정의,SK하이닉스인수검토했었다…몸값만1조달러"
+    "손정의,SK하이닉스인수검토했었다…몸값만1조달러",
+    "손정의,SK하이닉스1조달러인수구상…AI주폭락속실현가능할까?(종...",
+    "이대통령,울산전통시장두곳방문…\"내년엔좀더좋아질것\"",
+    "부산자갈치시장,고향안동구시장,울산은하루2곳…李대통령,대구..."
    ],
    "initialized": true,
-   "last_run": "2026-11-21T18:35:19.963542+09:00"
+   "last_run": "2026-11-21T18:40:26.476819+09:00"
   }
  },
  "press_names": {
