@@ -166,12 +166,21 @@
     [
      "2026-11-22T00:20:30.615839+09:00",
      "외국인 46종목 주가 이수페타시스 심텍 기관 동반 매도 하락"
+    ],
+    [
+     "2026-11-22T00:25:27.070283+09:00",
+     "77곳 당첨 판매점 14곳 복권 주소 로또 2등 명당 총정 1등 1251회 전국"
+    ],
+    [
+     "2026-11-22T00:25:27.070283+09:00",
+     "급락 코스닥 코스피 지슨 한국화장품"
+    ],
+    [
+     "2026-11-22T00:25:27.070283+09:00",
+     "잔고 한미반도체 공매도 비중 에코프로"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261120000634",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1732461",
-    "https://sateconomy.co.kr/news/view/1065573734031095",
     "https://www.seoul.co.kr/news/economy/securities/2026/11/20/20261120500143?wlog_tag3=naver",
     "http://www.dailysmart.co.kr/news/articleView.html?idxno=132887",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=281809",
@@ -1668,12 +1677,12 @@
     "http://www.kjdaily.com/article.php?aid=1795273949693036276",
     "https://www.energy-news.co.kr/news/articleView.html?idxno=229969",
     "http://www.kjdaily.com/article.php?aid=1795273632693029276",
-    "http://www.kjdaily.com/article.php?aid=1795273991693032276"
+    "http://www.kjdaily.com/article.php?aid=1795273991693032276",
+    "https://www.econovill.com/news/articleView.html?idxno=758066",
+    "http://www.kjdaily.com/article.php?aid=1795274258693028276",
+    "http://www.kjdaily.com/article.php?aid=1795274271693037276"
    ],
    "seen_titles": [
-    "앤스로픽상장첫날亞증시폭락…韓·日4~5%·대만6%에中·홍콩도...",
-    "코스피4%대급락에매도사이드카",
-    "[자산관리와절세]남의성과급이내대출이자를올린다",
     "코스피200선물5%급락…프로그램매도5분간멈췄다",
     "코스피5%폭락…4900선붕괴",
     "[법안돋보기]SKT·KT·LGU+알뜰폰독과점막는다···계열사점유율...",
@@ -3170,10 +3179,13 @@
     "서학개미,반도체3배ETF7억6천만달러순매수",
     "주유소기름값27주째하락…휘발유-1854.7원,경유-1841.5원",
     "삼성전자·삼성전자우·삼성전기급락…외국인팔고개미샀다",
-    "이수페타시스·심텍외국인·기관동반매도…46종목주가하락"
+    "이수페타시스·심텍외국인·기관동반매도…46종목주가하락",
+    "1251회로또1등당첨판매점14곳·2등77곳…전국복권명당주소총정...",
+    "코스피·코스닥급락…한국화장품25%·지슨73%↑",
+    "한미반도체공매도잔고비중7%…에코프로9%대"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T00:20:30.615839+09:00"
+   "last_run": "2026-11-22T00:25:27.070283+09:00"
   }
  },
  "press_names": {
