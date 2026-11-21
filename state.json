@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-21T12:40:28.171354+09:00",
-     "대통령 데이터센터 건설현장 방문 이재명"
-    ],
-    [
-     "2026-11-21T12:45:24.274568+09:00",
-     "토큰 SK하이닉스 줄어 81만달러어치가 캐시 거래"
-    ],
-    [
      "2026-11-21T12:50:28.487489+09:00",
      "연세대 역대 1순위 4명 1라운더 고려대는 12년 만에 없이"
     ],
@@ -257,8 +249,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.joongang.co.kr/article/25480437",
-    "https://www.sedaily.com/article/20116885",
     "https://biz.heraldcorp.com/article/10943984",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083549",
     "https://www.cnbnews.com/news/articleView.html?idxno=1024635",
@@ -1756,11 +1746,11 @@
     "http://www.newstomato.com/ReadNews.aspx?no=1321316&inflow=N",
     "https://www.news1.kr/world/usa-canada/6361688",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857089&plink=ORI&cooper=NAVER",
-    "https://www.imaeil.com/page/view/2026112118361855246"
+    "https://www.imaeil.com/page/view/2026112118361855246",
+    "https://www.ekn.kr/web/view.php?key=20261121028592862",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719167"
    ],
    "seen_titles": [
-    "SeoulsharesextendlosseslateFri.morningontechslump",
-    "이화여대,'캠퍼스특허유니버시아드'대통령상…학생7명수상",
     "“마지막희망마저무너졌다”…앤트로픽도못살린AI株투매[머니+]",
     "내달부터국민5천만명몫의AI가공짜로풀린다...'모두의AI',12월출...",
     "[커버스토리]박은석애틀랜타한인회장,\"투명한운영이한인회의기본...",
@@ -3258,10 +3248,12 @@
     "손정의,SK하이닉스인수검토했었다…몸값만1조달러",
     "손정의,SK하이닉스1조달러인수구상…AI주폭락속실현가능할까?(종...",
     "이대통령,울산전통시장두곳방문…\"내년엔좀더좋아질것\"",
-    "부산자갈치시장,고향안동구시장,울산은하루2곳…李대통령,대구..."
+    "부산자갈치시장,고향안동구시장,울산은하루2곳…李대통령,대구...",
+    "손정의,SK하이닉스1조달러인수검토…소프트뱅크“추진계획없다”",
+    "이대통령,울산전통시장깜짝방문…“내년에는조금더좋아질것”"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T18:40:26.476819+09:00"
+   "last_run": "2026-11-21T18:45:25.607092+09:00"
   }
  },
  "press_names": {
