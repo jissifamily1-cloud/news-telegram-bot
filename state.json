@@ -346,13 +346,17 @@
     [
      "2026-11-21T10:40:26.926872+09:00",
      "개미 563조 삼전닉스 불장 손실 끝난 코스피에 추락"
+    ],
+    [
+     "2026-11-21T10:50:27.138634+09:00",
+     "11월 SK하이닉스 급락 주가 마감 3주차"
+    ],
+    [
+     "2026-11-21T10:50:27.138634+09:00",
+     "SK에코플랜트 용접시간 1인 에이전트 도입 SK오션플랜트"
     ]
    ],
    "seen_urls": [
-    "http://www.metroseoul.co.kr/article/20261120500023",
-    "https://www.mt.co.kr/stock/2026/11/20/2026112009205025173",
-    "https://www.news1.kr/finance/general-stock/6360507",
-    "https://www.m-i.kr/news/articleView.html?idxno=2021242",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=903771",
     "https://www.newsway.co.kr/news/view?ud=2026112009255476632",
     "https://www.smartbizn.com/news/articleView.html?idxno=160068",
@@ -1848,13 +1852,13 @@
     "http://www.yonhapnewstv.co.kr/news/MYH202611211037411eJ",
     "https://www.sedaily.com/article/20117203",
     "https://www.sedaily.com/article/20117201",
-    "https://www.sedaily.com/article/20117199"
+    "https://www.sedaily.com/article/20117199",
+    "https://www.viva100.com/article/20261121500035",
+    "https://www.greened.kr/news/articleView.html?idxno=355237",
+    "https://www.joongangenews.com/news/articleView.html?idxno=565590",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2385387"
    ],
    "seen_titles": [
-    "SK그룹18년핸드볼후원결실…한국여자대표팀아시아선수권정상탈...",
-    "최혁진의원,'알뜰폰독과점차단법'발의...이통3사계열사점유율5...",
-    "[똑똑한쇼핑]이마트,롯데온,쿠팡알럭스,마리오아울렛,신세계사이...",
-    "롯데免,최상위고객들과함께'디올메이크업클래스'",
     "앤트로픽흥행보다강했던AMD쇼크...코스피다시5000선밑으로",
     "코스피,美AI투자우려에5000선붕괴…앤트로픽자금쏠림에기술주...",
     "[위클리오늘]미국기술주급락에코스피5000선붕괴…반도체주급락",
@@ -3350,10 +3354,14 @@
     "중고차경매진출활기…대기업들경쟁",
     "씨티“韓가계주식평가손실563조”…소비위축우려",
     "美반도체수출규제전면확대…삼성,中AI칩출하중단",
-    "삼전닉스30%대추락…‘불장’끝난코스피에개미563조손실"
+    "삼전닉스30%대추락…‘불장’끝난코스피에개미563조손실",
+    "나스닥5.3%폭락…AI투자불안에美증시‘검은금요일’",
+    "나스닥주간10%폭락·SOXL32%추락…삼성전자·SK하이닉스'월요일공...",
+    "11월3주차SK하이닉스주가급락마감",
+    "SK에코플랜트,'1인1AI에이전트'도입…SK오션플랜트용접시간37%단..."
    ],
    "initialized": true,
-   "last_run": "2026-11-21T10:45:26.033631+09:00"
+   "last_run": "2026-11-21T10:50:27.138634+09:00"
   }
  },
  "press_names": {
