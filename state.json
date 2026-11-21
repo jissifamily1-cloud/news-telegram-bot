@@ -358,15 +358,17 @@
     [
      "2026-11-21T16:00:40.112998+09:00",
      "우승까지 1부 경남 승격 삼성 확정 K리그2 꺾고 수원"
+    ],
+    [
+     "2026-11-21T16:05:21.323356+09:00",
+     "사례로 엔비디아의 순환금융 보는 네이버"
+    ],
+    [
+     "2026-11-21T16:05:21.323356+09:00",
+     "충남 충북 갈렸다 있어도 반도체"
     ]
    ],
    "seen_urls": [
-    "https://www.joongangenews.com/news/articleView.html?idxno=565406",
-    "https://www.yna.co.kr/view/AKR20261120034400530?input=1195m",
-    "https://www.newsis.com/view/NISX20261120_0003876081",
-    "https://www.edaily.co.kr/News/Read?newsId=02650246645647688&mediaCodeNo=257",
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083499",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506268",
     "https://www.hankyung.com/article/202611209359i",
     "https://www.dailian.co.kr/news/view/1717631/?sc=Naver",
     "https://www.kukinews.com/article/view/kuk202611200060",
@@ -1860,15 +1862,15 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1314270",
     "https://news.mtn.co.kr/article/2026112115480540769",
     "https://www.ekn.kr/web/view.php?key=20261121024092851",
-    "https://www.yna.co.kr/view/AKR20261121039700007?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261121039700007?input=1195m",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717239",
+    "https://www.segye.com/newsView/20261121505159?OutUrl=naver",
+    "https://news.tf.co.kr/read/ptoday/2391793.htm",
+    "https://www.joongboo.com/news/articleView.html?idxno=363743151",
+    "https://www.news2day.co.kr/article/20261121500007",
+    "https://www.newsis.com/view/NISX20261120_0003876881"
    ],
    "seen_titles": [
-    "[특징주]삼성전자·SK하이닉스동반급락…美기술주한파에반도체주...",
-    "“반도체주손절?후회할수도”…삼전닉스에무슨일이",
-    "[OpeningMarket]KOSPITumblesPast5,000AmidAIStockRout",
-    "SamsungElectronics,SKhynixslideonWallStreettechselloff",
-    "연세대,27일‘AI와일의미래’국제콘퍼런스",
-    "SKB,韓-싱가포르해저케이블양자보안시험망설치나서",
     "충남대,'캠퍼스특허유니버시아드'서장관상등성과",
     "[뉴스1PICK]코스피,AI불안에5000선붕괴",
     "버거·아이스크림까지번진블프…무신사'무진장'22일본행사",
@@ -3362,10 +3364,16 @@
     "이대통령\"AI인프라지방중심투자…균형발전핵심동력\"",
     "소프트뱅크손정의,한때SK하이닉스인수방안검토",
     "李대통령“AI데이터센터가산업성장의핵심”…SK울산현장서투자...",
-    "'1부승격'수원삼성,경남꺾고K리그2우승까지확정"
+    "'1부승격'수원삼성,경남꺾고K리그2우승까지확정",
+    "손정의,한때1조달러에SK하이닉스인수검토...가능성은희박",
+    "[속보]李대통령“수능신고포상금건당1억…끝까지추적해엄중처...",
+    "이대통령울산AI데이터센터찾아\"속도가생명…인력확보\"",
+    "수원삼성,홈최종전서K리그2우승확정...경남에3-1승",
+    "[재계인사이드]네이버사례로보는엔비디아의‘순환금융’",
+    "[성장의온도차③]반도체있어도갈렸다…충북29.8%늘때충남4.5%줄..."
    ],
    "initialized": true,
-   "last_run": "2026-11-21T16:00:40.112998+09:00"
+   "last_run": "2026-11-21T16:05:21.323356+09:00"
   }
  },
  "press_names": {
