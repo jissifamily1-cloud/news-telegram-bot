@@ -245,8 +245,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sentv.co.kr/article/view/sentv202611200043",
-    "http://www.beyondpost.co.kr/view.php?ud=2026112009261899946a9e4dd7f_30",
     "https://www.pointe.co.kr/news/articleView.html?idxno=88139",
     "https://news.mtn.co.kr/article/2026112009251329528",
     "https://www.ziksir.com/news/articleView.html?idxno=154095",
@@ -1744,11 +1742,11 @@
     "http://www.inews24.com/view/2028766",
     "https://www.fnnews.com/news/202611202058393420",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=302334",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=425187"
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=425187",
+    "https://www.thepublic.kr/news/articleView.html?idxno=327727",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445850"
    ],
    "seen_titles": [
-    "SK텔레콤,T팩토리성수서시드볼트26·화이트보물트리전시진행",
-    "앤스로픽IPO흥행짓누른'AMD리스크'…코스피,장초반5000선붕괴",
     "AI가정리한'2026년의나'…SKT,T팩토리성수서연말전시",
     "코스피,반도체약세에4%급락출발...다시5000피붕괴",
     "[특징주]앤트로픽수급쏠림⋯삼성전자·SK하이닉스'급락'",
@@ -3246,10 +3244,12 @@
     "삼성전자,메타독주'AI안경'시장에도전…다음달첫제품출시",
     "'폭락했으니물타기할타이밍?',고수와하수는여기서갈린다[인치범의...",
     "AI지출4조달러시대…'멤플레이션'올라탄삼전닉스독주",
-    "알뜰폰규제법잇단발의···통신3사자회사겨냥"
+    "알뜰폰규제법잇단발의···통신3사자회사겨냥",
+    "'올해의추억'을키링에…SKT,성수서체험전시'시드볼트26'운영",
+    "[뉴욕마켓워치]나스닥,코로나이후최악의한주…증시패닉속채권↑..."
    ],
    "initialized": true,
-   "last_run": "2026-11-21T09:05:22.132722+09:00"
+   "last_run": "2026-11-21T09:10:27.123374+09:00"
   }
  },
  "press_names": {
