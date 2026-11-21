@@ -390,23 +390,13 @@
     [
      "2026-11-21T12:40:28.171354+09:00",
      "대통령 데이터센터 건설현장 방문 이재명"
+    ],
+    [
+     "2026-11-21T12:45:24.274568+09:00",
+     "토큰 SK하이닉스 줄어 81만달러어치가 캐시 거래"
     ]
    ],
    "seen_urls": [
-    "https://www.ddaily.co.kr/page/view/2026112009575132334",
-    "http://www.finomy.com/news/articleView.html?idxno=267365",
-    "https://www.g-enews.com/view.php?ud=20261120095048123344093b5d4e_1",
-    "https://www.seoul.co.kr/news/economy/2026/11/20/20261120500049?wlog_tag3=naver",
-    "https://www.mediapen.com/news/view/1138768",
-    "https://www.joongangenews.com/news/articleView.html?idxno=565360",
-    "http://www.finomy.com/news/articleView.html?idxno=267363",
-    "https://www.meconomynews.com/news/articleView.html?idxno=203939",
-    "https://www.thedailypost.kr/news/articleView.html?idxno=117093",
-    "https://www.mstoday.co.kr/news/articleView.html?idxno=200531",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494976",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494979",
-    "https://www.ytn.co.kr/_ln/0102_202611200953499926",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=88152",
     "https://www.sedaily.com/article/20116815",
     "https://www.etoday.co.kr/news/view/2650807",
     "https://www.moneystorm.kr/news/articleView.html?idxno=8637",
@@ -1892,18 +1882,23 @@
     "https://www.newsis.com/view/NISI20261121_0021541199",
     "https://www.yna.co.kr/view/PYH20261121026300013?input=1196m",
     "https://www.yna.co.kr/view/PYH20261121026200013?input=1196m",
-    "https://www.yna.co.kr/view/PYH20261121026600013?input=1196m"
+    "https://www.yna.co.kr/view/PYH20261121026600013?input=1196m",
+    "https://www.pennmike.com/news/articleView.html?idxno=132406",
+    "https://www.news1.kr/photos/8226106",
+    "https://www.news1.kr/photos/8226102",
+    "https://www.news1.kr/photos/8226103",
+    "https://www.news1.kr/photos/8226098",
+    "https://www.news1.kr/photos/8226101",
+    "https://www.news1.kr/photos/8226099",
+    "https://www.news1.kr/photos/8226104",
+    "https://www.news1.kr/photos/8226100",
+    "https://www.news1.kr/photos/8226094",
+    "https://www.news1.kr/photos/8226095",
+    "https://www.news1.kr/photos/8226096",
+    "https://www.news1.kr/photos/8226097",
+    "https://www.tokenpost.kr/news/blockchain/442036"
    ],
    "seen_titles": [
-    "AI반등불씨못살린앤트로픽…코스피하루만에다시'4000피'",
-    "코스피,4%급락출발4900선후퇴⋯'삼전닉스'5%동반약세",
-    "앤트로픽성공적상장에도투심불안…4%대급락,또'5천피'밑으로(종...",
-    "“역성장끊자”…삼성DX,헐값판매금지·週단위관리주문",
-    "CJENM·JYP등9곳공매도과열…20일공매도금지",
-    "앤트로픽'핫데뷔',기술주는'썰물'...삼전4%·SK하닉6%↓",
-    "[개장시황]앤트로픽상장흥행에도AI투심냉각…코스피5000선붕괴",
-    "[개장]앤트로픽상장에도AI투심'싸늘'…코스피4%급락",
-    "SKTT팩토리성수연말전시시드볼트26·화이트보물트리",
     "[특징주]앤트로픽으로몰린자금...삼전닉스,동반약세",
     "앤트로픽상장에도美기술주급락..삼성전자5%·SK하이닉스6%대'휘청...",
     "코스피,美삭풍에4%안팎급락출발…다시'5천피'아래로",
@@ -3394,10 +3389,19 @@
     "AI·반도체투매에뉴욕증시급락나스닥5.3%",
     "SKAI데이터센터건설현장보고받는이대통령",
     "발언하는이재명대통령",
-    "울산SKAI데이터센터건설현장"
+    "울산SKAI데이터센터건설현장",
+    "트럼프\"해외에데이터센터짓는美기업에막대한세금\"…한국투자계...",
+    "안전모착용하는이재명대통령",
+    "울산SKAI데이터센터찾은이재명대통령",
+    "이재명대통령,울산SKAI데이터센터방문",
+    "울산SKAI데이터센터건설현황보고받는이재명대통령",
+    "발언하는이재명대통령,울산SKAI데이터센터방문",
+    "울산SKAI데이터센터건설현장둘러보는이재명대통령",
+    "이재명대통령,울산SKAI데이터센터건설현장방문",
+    "[로빈후드온체인]SK하이닉스토큰81만달러어치가줄어...캐시캣거래..."
    ],
    "initialized": true,
-   "last_run": "2026-11-21T12:40:28.171354+09:00"
+   "last_run": "2026-11-21T12:45:24.274568+09:00"
   }
  },
  "press_names": {
