@@ -254,11 +254,13 @@
     [
      "2026-11-22T08:40:25.470976+09:00",
      "팔자 패닉지수 9점 경고등 골드만 만점에 켜졌다 10점"
+    ],
+    [
+     "2026-11-22T08:50:27.215193+09:00",
+     "SK하이닉스 1조달러 한때 손정의 검토 인수"
     ]
    ],
    "seen_urls": [
-    "https://www.thepowernews.co.kr/view.php?ud=2026112012402872853dfcd109a8_7",
-    "https://www.thepublic.kr/news/articleView.html?idxno=327783",
     "https://www.thepublic.kr/news/articleView.html?idxno=327781",
     "https://www.livebiz.today/news/articleView.html?idxno=206732",
     "https://www.tjb.co.kr/news05/bodo/view/id/106332",
@@ -1756,11 +1758,11 @@
     "https://www.etoday.co.kr/news/view/2651247",
     "https://www.busan.com/view/busan/view.php?code=2026112208352446310",
     "https://www.edaily.co.kr/News/Read?newsId=01193926645648344&mediaCodeNo=257",
-    "http://www.econonews.co.kr/news/articleView.html?idxno=447511"
+    "http://www.econonews.co.kr/news/articleView.html?idxno=447511",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=315891",
+    "https://it.chosun.com/news/articleView.html?idxno=3000000001559"
    ],
    "seen_titles": [
-    "SK증권,'AI조건검색·차트분석'오픈…자연어로간편하게종목발굴",
-    "[울산소식]연말까지대형시설등9600여곳안전대진단",
     "기세꺾인원전설비주…비에이치아이·우진엔텍반등열쇠는무엇?",
     "홈쇼핑은매장·SNS로,앱은TV로…판매채널경계허문다",
     "청주시의회'청주반도체클러스터유치'건의",
@@ -3258,10 +3260,12 @@
     "앤스로픽상장첫날2190억베팅한서학개미…스페이스X의5분의1",
     "[속보]폭락한미증시에월요일이두려운개미들…4900무너졌는데430...",
     "골드만'패닉지수'10점만점에9점…'팔자'경고등켜졌다",
-    "최태원회장\"한일기업·대학,AI인재공동육성프로그램만들자\""
+    "최태원회장\"한일기업·대학,AI인재공동육성프로그램만들자\"",
+    "대기업영업익3.3배뛰었는데기부금은뒷걸음…250곳중155곳줄여",
+    "손정의,한때SK하이닉스1조달러인수검토"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T08:45:30.409874+09:00"
+   "last_run": "2026-11-22T08:50:27.215193+09:00"
   }
  },
  "press_names": {
