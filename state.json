@@ -306,14 +306,25 @@
     [
      "2026-11-21T10:15:25.373228+09:00",
      "금값 약세 금시세"
+    ],
+    [
+     "2026-11-21T10:25:19.634763+09:00",
+     "무너지면 추가 4800선 경고 하락 코스피 4300까지"
+    ],
+    [
+     "2026-11-21T10:25:19.634763+09:00",
+     "급락 끼얹은 앤트로픽 찬물 엔비디아 잔치에 동반 뉴욕증시"
+    ],
+    [
+     "2026-11-21T10:25:19.634763+09:00",
+     "급락 삼성전기 주루룩 코스피 약세 대형주들"
+    ],
+    [
+     "2026-11-21T10:25:19.634763+09:00",
+     "값으로 무역수지 만든 흑자 반도체 하락하면 한국금융연구원 가격"
     ]
    ],
    "seen_urls": [
-    "http://www.newskr.kr/news/articleView.html?idxno=108163",
-    "https://www.mk.co.kr/article/12214326",
-    "http://www.financialreview.co.kr/news/articleView.html?idxno=46464",
-    "https://www.ekn.kr/web/view.php?key=20261120027002337",
-    "https://www.newsis.com/view/NISX20261120_0003876148",
     "https://news.bizwatch.co.kr/article/market/2026/11/20/0004",
     "http://www.beyondpost.co.kr/view.php?ud=202611200918362033be44c0aacd_30",
     "http://www.weeklytoday.com/news/articleView.html?idxno=802728",
@@ -1808,14 +1819,14 @@
     "https://m.sports.naver.com/general/article/065/0000305032",
     "http://www.osen.co.kr/article/G1112913140",
     "https://www.kyeonggi.com/article/20261121580022",
-    "https://www.pennmike.com/news/articleView.html?idxno=132400"
+    "https://www.pennmike.com/news/articleView.html?idxno=132400",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=731802",
+    "https://www.newsis.com/view/NISX20261121_0003877548",
+    "https://biz.sbs.co.kr/article_hub/20000347963?division=NAVER",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=629216",
+    "https://www.youthdaily.co.kr/news/article.html?no=230168"
    ],
    "seen_titles": [
-    "무신사블랙프라이데이행사'무진장'내달2일까지진행,최대30%할인",
-    "무신사최대쇼핑축제'무진장'개막…온·오프라인총공세",
-    "‘7만전자·20만하이닉스’말한전문가“본격폭락아직시작안했...",
-    "코스피3%하락출발…‘앤트로픽IPO흥행’에도기술주전반부진",
-    "코스피,美기술주급락에4%대하락출발···'삼전·닉스'동반약세",
     "\"美기술주급락여파\"…삼전4%·닉스5%대하락[특징주]",
     "ADT캡스,AI홈보안'캡스홈'으로모바일기술대상수상…올해3관왕",
     "앤트로픽상장여파에유동성이탈…코스피4%급락출발(상보)",
@@ -3310,10 +3321,15 @@
     "[2026유스클럽드림컵]'2026KBL유스클럽드림컵in제천'1일차,소노...",
     "'4년만에K리그1복귀성공!'수원삼성,이제우승트로피까지들어올...",
     "영풍,고려아연지분넘긴자회사서배당금'0원'…금융자산팔아현금...",
-    "뉴욕3대증시모두'급락'...앤트로픽·엔비디아모두하락마감"
+    "뉴욕3대증시모두'급락'...앤트로픽·엔비디아모두하락마감",
+    "영풍,완전자회사YPC로부터배당미수령…금융자산만매각",
+    "\"코스피4800선무너지면4300까지?\"…추가하락경고",
+    "AI잔치에찬물끼얹은뉴욕증시…앤트로픽·엔비디아동반급락",
+    "코스피5%대'주루룩'…대형주들약세,삼성전기13%급락",
+    "반도체값으로만든무역수지…한국금융연구원,\"가격하락하면흑자급..."
    ],
    "initialized": true,
-   "last_run": "2026-11-21T10:20:28.014139+09:00"
+   "last_run": "2026-11-21T10:25:19.634763+09:00"
   }
  },
  "press_names": {
