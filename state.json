@@ -241,10 +241,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.ekn.kr/web/view.php?key=20261120022052554",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1732484",
-    "https://www.mk.co.kr/article/12214520",
-    "http://www.rookie.co.kr/news/articleView.html?idxno=130740",
     "https://www.ddaily.co.kr/page/view/2026112014003545570",
     "https://www.topdaily.kr/articles/113032",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855741&plink=ORI&cooper=NAVER",
@@ -1740,13 +1736,13 @@
     "https://www.edaily.co.kr/News/Read?newsId=01167686645648344&mediaCodeNo=257",
     "http://www.metroseoul.co.kr/article/20261122500016",
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720648",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445871"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445871",
+    "https://www.fnnews.com/news/202611220802359845",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=8699",
+    "https://www.gametoc.co.kr/news/articleView.html?idxno=113308",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717249"
    ],
    "seen_titles": [
-    "보령시,23~29일'함박민화전람회'개최…민화150여점전시",
-    "[속보]코스피이어코스닥도매도사이드카발동…삼전닉스급락",
-    "인천시,'2026제약바이오투자대전'개최...글로벌투자-기술협력확대",
-    "SK인텔릭스,AI웰니스로봇'나무엑스'숭실대기계공학부생산현장공...",
     "코스피·코스닥동반매도사이드카…삼전닉스6%대급락(종합)",
     "[금융지주,숫자너머⑤]증권엔성장베팅,보험엔생존자본…엇갈린...",
     "[26드래프트]‘44명모두출전’트라이아웃,부상없이마무리“BIG.6...",
@@ -3242,10 +3238,14 @@
     "앤스로픽상장이'방아쇠'…뉴욕증시폭락부른5가지이유",
     "코스피4900선붕괴…빚투3조↓'바닥논쟁'은이제부터",
     "AI칩지각변동·EU규제쇼크···연말공급망'초비상'",
-    "외인매도에5,000선도깨진코스피…호재에도'받아줄돈이없다'"
+    "외인매도에5,000선도깨진코스피…호재에도'받아줄돈이없다'",
+    "\"삼성전자SK하이닉스내년에도웃는다\"…무디스가전망한이유",
+    "[탐사경]최태원,한일경제공동체밑그림구체화…에너지서AI인재까지...",
+    "최태원SK회장,\"한일기업·대학AI인재공동플랫폼만들자\"",
+    "[증시전망]5000선마저무너진코스피...금리·외국인수급이관건"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T08:20:26.036101+09:00"
+   "last_run": "2026-11-22T08:25:21.372937+09:00"
   }
  },
  "press_names": {
