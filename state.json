@@ -150,10 +150,13 @@
     [
      "2026-11-22T06:40:25.112568+09:00",
      "월요일 급락에 시험대 5000피 무너진 코스피 반도체"
+    ],
+    [
+     "2026-11-22T07:00:37.878357+09:00",
+     "날까지 포크레인으로 부수는 싸운다"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1732477",
     "https://www.mt.co.kr/stock/2026/11/20/2026112011311988767",
     "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553717983",
     "http://www.queen.co.kr/news/articleView.html?idxno=466687",
@@ -1652,10 +1655,10 @@
     "https://it.chosun.com/news/articleView.html?idxno=3000000001511",
     "https://www.newdaily.co.kr/site/data/html/2026/11/22/2026112250003.html",
     "https://www.news1.kr/industry/general-industry/6361699",
-    "https://www.kbmaeil.com/article/20261122500026"
+    "https://www.kbmaeil.com/article/20261122500026",
+    "https://www.pressian.com/pages/articles/2026112118115186369"
    ],
    "seen_titles": [
-    "쿠팡,국내계열사간거래액첫5위…CJ는매출절반이상표권수입",
     "SK하이닉스,키옥시아영향력키운다...CB주식전환검토,'간접최대주...",
     "코스피,외인1조원투매에4%대급락…4800선서등락",
     "JEDEC,'AI·데이터센터수요대응'차세대메인메모리표준DDR6사양공...",
@@ -3154,10 +3157,11 @@
     "삼성·SK·LG인사키워드는'성과·쇄신'승부처는'수익성'",
     "이정효의수원,K리그2'조기우승확정'",
     "'불확실성'에빨라진재계인사…핵심CEO유임,엔지니어전진배치",
-    "‘5000피’무너진코스피…美반도체급락에월요일시험대"
+    "‘5000피’무너진코스피…美반도체급락에월요일시험대",
+    "\"내집포크레인으로부수는날까지싸운다\""
    ],
    "initialized": true,
-   "last_run": "2026-11-22T06:55:20.912617+09:00"
+   "last_run": "2026-11-22T07:00:37.878357+09:00"
   }
  },
  "press_names": {
