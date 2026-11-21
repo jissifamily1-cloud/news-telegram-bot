@@ -261,7 +261,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.thepublic.kr/news/articleView.html?idxno=327781",
     "https://www.livebiz.today/news/articleView.html?idxno=206732",
     "https://www.tjb.co.kr/news05/bodo/view/id/106332",
     "https://www.moneystorm.kr/news/articleView.html?idxno=8652",
@@ -1760,10 +1759,10 @@
     "https://www.edaily.co.kr/News/Read?newsId=01193926645648344&mediaCodeNo=257",
     "http://www.econonews.co.kr/news/articleView.html?idxno=447511",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=315891",
-    "https://it.chosun.com/news/articleView.html?idxno=3000000001559"
+    "https://it.chosun.com/news/articleView.html?idxno=3000000001559",
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=92439"
    ],
    "seen_titles": [
-    "기세꺾인원전설비주…비에이치아이·우진엔텍반등열쇠는무엇?",
     "홈쇼핑은매장·SNS로,앱은TV로…판매채널경계허문다",
     "청주시의회'청주반도체클러스터유치'건의",
     "아시아증시,뉴욕발충격에줄줄이급락…코스피4900선",
@@ -3262,10 +3261,11 @@
     "골드만'패닉지수'10점만점에9점…'팔자'경고등켜졌다",
     "최태원회장\"한일기업·대학,AI인재공동육성프로그램만들자\"",
     "대기업영업익3.3배뛰었는데기부금은뒷걸음…250곳중155곳줄여",
-    "손정의,한때SK하이닉스1조달러인수검토"
+    "손정의,한때SK하이닉스1조달러인수검토",
+    "대기업영업이익234%급증에도기부금은2%감소…실적과사회공헌'..."
    ],
    "initialized": true,
-   "last_run": "2026-11-22T08:50:27.215193+09:00"
+   "last_run": "2026-11-22T08:53:30.027089+09:00"
   }
  },
  "press_names": {
