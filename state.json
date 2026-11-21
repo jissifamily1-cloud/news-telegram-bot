@@ -330,13 +330,25 @@
     [
      "2026-11-21T10:35:20.737591+09:00",
      "항체에서 CDMO라도 같은 펩타이드로 다르다 주력"
+    ],
+    [
+     "2026-11-21T10:40:26.926872+09:00",
+     "중고차 경매 진출 활기 대기업들 경쟁"
+    ],
+    [
+     "2026-11-21T10:40:26.926872+09:00",
+     "씨티 563조 위축 가계 주식 평가손실 소비 우려"
+    ],
+    [
+     "2026-11-21T10:40:26.926872+09:00",
+     "AI칩 출하 반도체 중단 확대 전면 수출규제 삼성"
+    ],
+    [
+     "2026-11-21T10:40:26.926872+09:00",
+     "개미 563조 삼전닉스 불장 손실 끝난 코스피에 추락"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20261120093431097",
-    "https://www.ekn.kr/web/view.php?key=20261120025302375",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20261120010007927",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=802725",
     "http://www.metroseoul.co.kr/article/20261120500023",
     "https://www.mt.co.kr/stock/2026/11/20/2026112009205025173",
     "https://www.news1.kr/finance/general-stock/6360507",
@@ -1832,13 +1844,13 @@
     "https://sports.hankooki.com/news/articleView.html?idxno=6943987",
     "https://www.tokenpost.kr/news/breaking/441968",
     "https://www.youthdaily.co.kr/news/article.html?no=230169",
-    "https://news.bizwatch.co.kr/article/healthcare/2026/11/18/0030"
+    "https://news.bizwatch.co.kr/article/healthcare/2026/11/18/0030",
+    "http://www.yonhapnewstv.co.kr/news/MYH202611211037411eJ",
+    "https://www.sedaily.com/article/20117203",
+    "https://www.sedaily.com/article/20117201",
+    "https://www.sedaily.com/article/20117199"
    ],
    "seen_titles": [
-    "[금주의용인특례시]마을버스502번증차…12월부터출퇴근배차간격...",
-    "2027년STO시장열린다…신한지주·하나금융오르고핀테크주는주춤",
-    "美주식결제,반도체3배ETF(SOXL)에매수집중",
-    "SK텔레콤,T팩토리성수서'시드볼트26·화이트보물트리'오픈",
     "SK그룹18년핸드볼후원결실…한국여자대표팀아시아선수권정상탈...",
     "최혁진의원,'알뜰폰독과점차단법'발의...이통3사계열사점유율5...",
     "[똑똑한쇼핑]이마트,롯데온,쿠팡알럭스,마리오아울렛,신세계사이...",
@@ -3334,10 +3346,14 @@
     "'AG금메달·대학MVP'이동근,이변없이KBL신인1순위로수원KT행",
     "키옥시아14.1%간접보유예정…SK하이닉스취득예정일12월4일",
     "트럼프\"中엔구형칩만판매\"…美,반도체수출'상한선'지키고우회로...",
-    "'항체에서펩타이드로'…같은CDMO라도주력다르다"
+    "'항체에서펩타이드로'…같은CDMO라도주력다르다",
+    "중고차경매진출활기…대기업들경쟁",
+    "씨티“韓가계주식평가손실563조”…소비위축우려",
+    "美반도체수출규제전면확대…삼성,中AI칩출하중단",
+    "삼전닉스30%대추락…‘불장’끝난코스피에개미563조손실"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T10:35:20.737591+09:00"
+   "last_run": "2026-11-21T10:40:26.926872+09:00"
   }
  },
  "press_names": {
