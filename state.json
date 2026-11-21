@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-21T09:25:19.636770+09:00",
-     "초비상 증시 월요일 검은 대폭락에 오나 한국 월가"
-    ],
-    [
      "2026-11-21T09:35:20.675886+09:00",
      "사장 전영현의 순혈 반도체맨 이재용 원픽 삼성 강경주의 황상준"
     ],
@@ -338,11 +334,13 @@
     [
      "2026-11-21T15:20:26.230462+09:00",
      "사라져 나경원 결혼 정부 주가 반토막 책임져야 은퇴자금"
+    ],
+    [
+     "2026-11-21T15:25:20.362075+09:00",
+     "기업 대학 한일 함께 인재 키우자 최태원"
     ]
    ],
    "seen_urls": [
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=281784",
-    "https://www.mk.co.kr/article/12214386",
     "https://www.joongang.co.kr/article/25480415",
     "https://www.todaykorea.co.kr/news/articleView.html?idxno=408846",
     "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921969",
@@ -1840,11 +1838,11 @@
     "http://www.newstomato.com/ReadNews.aspx?no=1321314&inflow=N",
     "https://www.nocutnews.co.kr/news/6610525",
     "http://www.yonhapnewstv.co.kr/news/MYH202611211513582w9",
-    "https://view.asiae.co.kr/article/2026112115060930556"
+    "https://view.asiae.co.kr/article/2026112115060930556",
+    "https://www.newsian.co.kr/news/articleView.html?idxno=101738",
+    "https://www.mk.co.kr/article/12215270"
    ],
    "seen_titles": [
-    "박종원담양군수,언론간담회서에너지·교육·관광구상제시",
-    "폴란드군사매체가평택함진수주목한이유…한화오션건조속도부각",
     "팔레트찾고엘리베이터타는로봇…삼성물산'AI네이티브건설사'속...",
     "대기업상표권수익'역대최대'총수일가배불리나",
     "삼성,사장승진3명전원반도체서발탁…메모리·시스템LSI새수장",
@@ -3342,10 +3340,12 @@
     "'울산AI데이터센터'깜짝방문…이대통령\"속도가생명\"",
     "李대통령,울산AI데이터센터현장찾아\"新성장모멘텀될것\"",
     "이대통령\"울산AI센터,글로벌투자마중물기대\"",
-    "나경원\"주가반토막,결혼·은퇴자금사라져…李정부책임져야\""
+    "나경원\"주가반토막,결혼·은퇴자금사라져…李정부책임져야\"",
+    "이대통령\"AI경쟁은속도전\"…울산데이터센터찾아지방메가프로젝...",
+    "최태원“한일기업·대학,AI인재함께키우자”"
    ],
    "initialized": true,
-   "last_run": "2026-11-21T15:20:26.230462+09:00"
+   "last_run": "2026-11-21T15:25:20.362075+09:00"
   }
  },
  "press_names": {
