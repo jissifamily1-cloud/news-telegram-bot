@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-23T00:10:26.668040+09:00",
-     "출신 작은 무대로 양구 청년 승승장구 기업인들 고향서"
-    ],
-    [
-     "2026-11-23T00:10:26.668040+09:00",
-     "남신항 2단계 기대 속도 에너지허브"
-    ],
-    [
-     "2026-11-23T00:10:26.668040+09:00",
-     "우려에 당국 블랙 증안펀드 먼데이 꺼낸"
-    ],
-    [
      "2026-11-23T00:15:24.632258+09:00",
      "첫날 상장 2천190억원 서학개미 매수 앤트로픽"
     ],
@@ -290,16 +278,37 @@
     [
      "2026-11-23T06:05:28.252043+09:00",
      "건설사 레미콘값 다시 대형 공사비 상승 압력 올랐다"
+    ],
+    [
+     "2026-11-23T06:10:26.972343+09:00",
+     "상장제약사 낮췄다 1곳은 매출원가율 2곳"
+    ],
+    [
+     "2026-11-23T06:10:26.972343+09:00",
+     "두뇌 첨단산업의 데이터센터"
+    ],
+    [
+     "2026-11-23T06:10:26.972343+09:00",
+     "위한 AIDC 로컬 조철제 PR 방안 활성화를 IT"
+    ],
+    [
+     "2026-11-23T06:10:26.972343+09:00",
+     "책임만큼 1년 제재의 되돌아봐 공정성도 기업 사태 쿠팡"
+    ],
+    [
+     "2026-11-23T06:10:26.972343+09:00",
+     "허수주문 강화 감시 논란에 국회 HFT시장교란 거래소"
+    ],
+    [
+     "2026-11-23T06:10:26.972343+09:00",
+     "추가 공포 만에 닷컴버블 26년 되살아난 코스피 충격 투매에 오나"
+    ],
+    [
+     "2026-11-23T06:10:26.972343+09:00",
+     "복귀 조건은 코스피 5000선 회귀 전으로 10개월"
     ]
    ],
    "seen_urls": [
-    "https://www.fnnews.com/news/202611201430047494",
-    "https://www.jemin.com/news/articleView.html?idxno=847942",
-    "https://www.fnnews.com/news/202611201604521193",
-    "https://www.theguru.co.kr/news/article.html?no=110044",
-    "https://www.apnews.kr/news/articleView.html?idxno=3053385",
-    "https://econotimes.com/DataDirect-Networks-Sees-AI-Inference-Shifting-to-Smaller-Sites-1780498",
-    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435770",
     "https://www.edaily.co.kr/News/Read?newsId=01216886645648016&mediaCodeNo=257",
     "https://www.the-today.com/news/articleView.html?idxno=93889",
     "https://www.xportsnews.com/article/2221616",
@@ -1792,16 +1801,16 @@
     "https://www.nbntv.co.kr/news/articleView.html?idxno=4027777",
     "https://economist.co.kr/article/view/ecn202611180001",
     "https://www.bloter.net/news/articleView.html?idxno=679344",
-    "https://www.etoday.co.kr/news/view/2651135"
+    "https://www.etoday.co.kr/news/view/2651135",
+    "https://www.bosa.co.kr/news/articleView.html?idxno=3016994",
+    "https://www.kmecnews.co.kr/news/articleView.html?idxno=52867",
+    "https://www.abcn.kr/news/articleView.html?idxno=94849",
+    "https://www.ajunews.com/view/20261120094925208",
+    "https://www.etoday.co.kr/news/view/2651115",
+    "https://www.etoday.co.kr/news/view/2651322",
+    "https://www.etoday.co.kr/news/view/2651066"
    ],
    "seen_titles": [
-    "삼성전자·SK하이닉스인버스ETF12%대상승",
-    "오킨스전자,케미텍반도체검사장비커넥터특허2건무효심판청구",
-    "고려대포워드이동근,전체1순위로KT행",
-    "뉴욕증시,AI기술주매도세에혼조출발…앤트로픽상장이틀째10%급...",
-    "앤스로픽상장첫날17%올라…업계“AI가치,실적으로검증가능”",
-    "나스닥2.21%급락…앤트로픽12%·엔비디아6%하락,반도체주초토화,...",
-    "‘전기먹는하마’데이터센터,2060년엔전력13배필요…재생에너지...",
     "10개월전으로돌아간코스피",
     "뉴욕증시,엔트로픽9%·마이크론6%급락출발…기술주투심위축속...",
     "삼전7만,하닉20만원전망한전문가…\"엔비디아,장기적으로경쟁력...",
@@ -3294,10 +3303,17 @@
     "[헐크이만수의힘]유니폼벗은뒤,더빛나는야구인생…'이해창선...",
     "기술유출107건중40건이반도체…AI시대기업보안비상",
     "[박종면칼럼]젠슨황퇴진이기업경영에남긴여섯단어",
-    "레미콘값다시올랐다…대형건설사공사비상승압력"
+    "레미콘값다시올랐다…대형건설사공사비상승압력",
+    "상장제약사2곳중1곳은매출원가율낮췄다",
+    "[창간7주년]첨단산업의두뇌'AI데이터센터'",
+    "조철제,로컬IT활성화를위한AIDC추진PR방안",
+    "[데스크칼럼]쿠팡사태1년…기업책임만큼제재의공정성도되돌아봐...",
+    "HFT시장교란논란에⋯국회·거래소,허수주문감시강화",
+    "26년만에되살아난닷컴버블공포…美AI투매에코스피추가충격오나",
+    "코스피,10개월전으로회귀…5000선복귀조건은?"
    ],
    "initialized": true,
-   "last_run": "2026-11-23T06:05:28.252043+09:00"
+   "last_run": "2026-11-23T06:10:26.972343+09:00"
   }
  },
  "press_names": {
