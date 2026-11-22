@@ -482,12 +482,17 @@
     [
      "2026-11-22T12:00:42.713876+09:00",
      "나오나 증시안정대책 F4회의 두번째 정부 소집 긴급"
+    ],
+    [
+     "2026-11-22T12:05:20.448947+09:00",
+     "함박민화전람회 행복을 개최 함박드림 보령시 민화로"
+    ],
+    [
+     "2026-11-22T12:05:20.448947+09:00",
+     "호실적에 기대감 반도체 엔비디아 현대차"
     ]
    ],
    "seen_urls": [
-    "https://www.joongangenews.com/news/articleView.html?idxno=565511",
-    "https://www.mk.co.kr/article/12214679",
-    "http://www.yonhapnewstv.co.kr/news/MYH20261120160606luc",
     "https://www.fnnews.com/news/202611201604376446",
     "https://www.g-enews.com/view.php?ud=202611201539511559923c501012_1",
     "https://www.news1.kr/photos/8225507",
@@ -1984,12 +1989,12 @@
     "https://www.chosun.com/economy/stock-finance/2026/11/22/3HPQ45KV2VAZ3I25UAVIVPQNZE/",
     "https://view.asiae.co.kr/article/2026112211564230601",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2385657",
-    "https://www.smarttoday.co.kr/ko-kr/articles/113941"
+    "https://www.smarttoday.co.kr/ko-kr/articles/113941",
+    "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435810",
+    "https://www.ggilbo.com/news/articleView.html?idxno=1194515",
+    "https://www.joongangenews.com/news/articleView.html?idxno=565140"
    ],
    "seen_titles": [
-    "삼성전자·SK하이닉스,내년에도AI수혜…무디스·KB증권“메모리호...",
-    "코스피,5%대급락'검은금요일'…사흘만에'5천피'밑으로",
-    "\"공모중인데삼성·SK추천받겠다?\"…반도체실장'내정'논란",
     "SK인텔릭스,숭실대학생70여명에'나무엑스'생산현장공개",
     "코스피'와르르'…4900선붕괴마감",
     "SK하이닉스,日키옥시아CB주식전환검토…간접최대주주로급부상...",
@@ -3486,10 +3491,13 @@
     "서학개미,앤스로픽상장첫날2200억매수,스페이스X의5분의1",
     "SKT,'에어'요금제무신사'무진장'서특가…쇼핑혜택제공",
     "최태원SK회장\"한국·일본기업과대학이함께AI시대인재육성하자...",
-    "두번째증시안정대책나오나...정부,긴급F4회의소집"
+    "두번째증시안정대책나오나...정부,긴급F4회의소집",
+    "수원삼성,K리그2첫우승…3년만의승격에명가자존심도회복",
+    "보령시'함박민화전람회:민화로행복을함박드림展'개최",
+    "[주간재계나침반]엔비디아호실적에韓반도체기대감…현대차AI동..."
    ],
    "initialized": true,
-   "last_run": "2026-11-22T12:00:42.713876+09:00"
+   "last_run": "2026-11-22T12:05:20.448947+09:00"
   }
  },
  "press_names": {
