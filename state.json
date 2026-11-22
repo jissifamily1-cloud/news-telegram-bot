@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-23T00:15:24.632258+09:00",
-     "첫날 상장 2천190억원 서학개미 매수 앤트로픽"
-    ],
-    [
      "2026-11-23T00:25:24.724626+09:00",
      "인버스는 증가 ETF 감소 SK하이닉스 반도체 거래"
     ],
@@ -306,13 +302,17 @@
     [
      "2026-11-23T06:10:26.972343+09:00",
      "복귀 조건은 코스피 5000선 회귀 전으로 10개월"
+    ],
+    [
+     "2026-11-23T06:15:25.059158+09:00",
+     "엔비디아 발표하면 실적 삼전닉스 오른다고 주가"
+    ],
+    [
+     "2026-11-23T06:15:25.059158+09:00",
+     "200대 롯데정밀화학 유동비율 태광산업 기업"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=01216886645648016&mediaCodeNo=257",
-    "https://www.the-today.com/news/articleView.html?idxno=93889",
-    "https://www.xportsnews.com/article/2221616",
-    "http://www.osen.co.kr/article/G1112912557",
     "https://www.ajunews.com/view/20261120164429410",
     "https://www.segye.com/newsView/20261119515983?OutUrl=naver",
     "https://www.etoday.co.kr/news/view/2651071",
@@ -1808,13 +1808,13 @@
     "https://www.ajunews.com/view/20261120094925208",
     "https://www.etoday.co.kr/news/view/2651115",
     "https://www.etoday.co.kr/news/view/2651322",
-    "https://www.etoday.co.kr/news/view/2651066"
+    "https://www.etoday.co.kr/news/view/2651066",
+    "https://www.news1.kr/industry/distribution/6361247",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=768570",
+    "https://www.newstopkorea.com/ko-kr/articles/49227",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=768154"
    ],
    "seen_titles": [
-    "10개월전으로돌아간코스피",
-    "뉴욕증시,엔트로픽9%·마이크론6%급락출발…기술주투심위축속...",
-    "삼전7만,하닉20만원전망한전문가…\"엔비디아,장기적으로경쟁력...",
-    "SK하이닉스주가,24시간기준10.2%하락",
     "앤트로픽IPO흥행에도…‘AI거품론’증시강타",
     "[뉴스이슈&비즈]삼성,'투톱'속반도체3명전면배치…메모리·갤럭시...",
     "이동근,신인드래프트1위로KT행",
@@ -3310,10 +3310,14 @@
     "[데스크칼럼]쿠팡사태1년…기업책임만큼제재의공정성도되돌아봐...",
     "HFT시장교란논란에⋯국회·거래소,허수주문감시강화",
     "26년만에되살아난닷컴버블공포…美AI투매에코스피추가충격오나",
-    "코스피,10개월전으로회귀…5000선복귀조건은?"
+    "코스피,10개월전으로회귀…5000선복귀조건은?",
+    "쿠팡정보유출사건1년…'6247억과징금'형평성논란은여전",
+    "삼성전자·SK하이닉스,中매출3배이상급증…매출증가율美크게앞...",
+    "엔비디아실적발표하면'삼전닉스'주가오른다고?",
+    "[데이터&뉴스]200대기업유동비율136%...롯데정밀화학·태광산업500%..."
    ],
    "initialized": true,
-   "last_run": "2026-11-23T06:10:26.972343+09:00"
+   "last_run": "2026-11-23T06:15:25.059158+09:00"
   }
  },
  "press_names": {
