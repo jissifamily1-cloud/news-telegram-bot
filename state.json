@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-22T09:50:28.249230+09:00",
-     "달린 성료 교육가족 마라톤 함께 충북 3000명이"
-    ],
-    [
-     "2026-11-22T09:50:28.249230+09:00",
-     "LG 삼성 올해 이유 인사 바꿨다 CEO 물갈이 사라진"
-    ],
-    [
      "2026-11-22T10:00:39.930701+09:00",
      "반등할까 물가 딛고 금리 금요일 검은 시험대"
     ],
@@ -438,16 +430,21 @@
     [
      "2026-11-22T15:50:25.022902+09:00",
      "개편부터 부글부글 사의에 내부 최교진 에도 속도전 청와대 수능"
+    ],
+    [
+     "2026-11-22T15:55:19.263939+09:00",
+     "손정의 SK하이닉스 1조 검토했다 중단 인수"
+    ],
+    [
+     "2026-11-22T15:55:19.263939+09:00",
+     "제주 김천"
+    ],
+    [
+     "2026-11-22T15:55:19.263939+09:00",
+     "김신진 제주SK 5G 김천 결승골 무승 원정서 PK 신승 탈출"
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0102_202611201657035174",
-    "http://www.segyebiz.com/newsView/20261120512923?OutUrl=naver",
-    "https://www.seoulfn.com/news/articleView.html?idxno=643519",
-    "https://www.joongang.co.kr/article/25480533",
-    "https://www.seoul.co.kr/news/economy/industry/2026/11/20/20261120500235?wlog_tag3=naver",
-    "https://biz.newdaily.co.kr/site/data/html/2026/11/20/2026112050270.html",
-    "https://www.ziksir.com/news/articleView.html?idxno=154209",
     "http://www.dtnews24.com/news/articleView.html?idxno=817463",
     "https://www.globale.co.kr/news/articleView.html?idxno=41745",
     "https://www.sedaily.com/article/20117036",
@@ -1940,16 +1937,16 @@
     "https://www.khan.co.kr/article/202611221547001",
     "https://www.eroun.net/news/articleView.html?idxno=96169",
     "https://www.thesportstimes.co.kr/news/articleView.html?idxno=377806",
-    "http://www.newstomato.com/ReadNews.aspx?no=1321363&inflow=N"
+    "http://www.newstomato.com/ReadNews.aspx?no=1321363&inflow=N",
+    "https://www.sportschosun.com/football/2026-11-22/202611220100137120012881",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553721326",
+    "https://www.newsinside.kr/news/articleView.html?idxno=5054129",
+    "https://www.fnnews.com/news/202611221335539613",
+    "https://www.sedaily.com/article/20117381",
+    "https://www.yna.co.kr/view/AKR20261122034500007?input=1195m",
+    "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602561"
    ],
    "seen_titles": [
-    "하루만에17%치솟은바이오니아…분자진단·헬스케어호재에'화들짝...",
-    "엔트로픽상장직후韓에'검은금요일'…코스피4900선붕괴",
-    "[마감시황]개인1.6조쏟아부었지만...코스피4900선무너져",
-    "SKB,한국-싱가포르해저케이블에양자보안시험망구축",
-    "외인1.7조순매도에환율상승…달러·원1336.2원마감(종합)",
-    "고꾸라진코스피,올1월로돌아갔다…4,800대마감",
-    "코스피·코스닥5%대동반폭락···매도사이드카에'5,000피'붕괴",
     "SK하이닉스,日키옥시아전환사채주식전환···간접적최대주주",
     "[마감시황]AI·중국규제우려에반도체급락…코스피5.21%↓",
     "코스피5.21%급락해4869.96…외국인·기관2조원넘게순매도",
@@ -3442,10 +3439,17 @@
     "‘변화보다안정’삼성·LG·SK등주요그룹경영진유임하며기술인...",
     "대구시,AI모의통화활용한보이스피싱예방교육나서",
     "'원클럽맨'문승원,SSG잔류...2+1년총액15억원에FA계약",
-    "청와대내부'부글부글'에도…최교진사의에수능개편부터속도전"
+    "청와대내부'부글부글'에도…최교진사의에수능개편부터속도전",
+    "[현장리뷰]'김신진PK결승골'제주SK,'11기마지막홈경기'김천상무...",
+    "[K리그136R]'김천상무11기고별전'찬물끼얹은제주SK...김신진결승...",
+    "최태원,'한·일기업·대학손잡고AI인재키우자'…인턴십·채용연계...",
+    "美반도체주10%폭락에'검은월요일'우려…코스피4700까지밀리나",
+    "손정의,SK하이닉스1조弗에인수검토했다중단왜?",
+    "[프로축구김천전적]제주1-0김천",
+    "'김신진PK결승골'제주SK,김천원정서1-0신승...5G무승탈출"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T15:50:25.022902+09:00"
+   "last_run": "2026-11-22T15:55:19.263939+09:00"
   }
  },
  "press_names": {
