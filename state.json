@@ -626,18 +626,25 @@
     [
      "2026-11-23T08:45:25.720326+09:00",
      "앞두고 매수에 추수감사절 나스닥 상승 반등 저가 선물 시도"
+    ],
+    [
+     "2026-11-23T08:49:05.724197+09:00",
+     "내년 우리금융지주 전망 가장 SK증권 성장률 이익 업종 높은"
+    ],
+    [
+     "2026-11-23T08:49:05.724197+09:00",
+     "해외공급 일본 비포워드와 업무협약 확대 SK렌터카 중고차"
+    ],
+    [
+     "2026-11-23T08:49:05.724197+09:00",
+     "국힘 민주 지지율 대통령"
+    ],
+    [
+     "2026-11-23T08:49:05.724197+09:00",
+     "개미와 폭풍의 개돼지 언덕 코스피"
     ]
    ],
    "seen_urls": [
-    "https://cc.newdaily.co.kr/site/data/html/2026/11/21/2026112150027.html",
-    "https://www.etnews.com/20261121000019",
-    "https://view.asiae.co.kr/article/2026112111404045668",
-    "https://www.the-today.com/news/articleView.html?idxno=93900",
-    "http://www.rookie.co.kr/news/articleView.html?idxno=130835",
-    "https://www.edaily.co.kr/News/Read?newsId=01958166645648016&mediaCodeNo=257",
-    "https://www.wikitree.co.kr/articles/1176037",
-    "https://www.etnews.com/20261120000259",
-    "https://www.seoulfn.com/news/articleView.html?idxno=643511",
     "https://www.e-science.co.kr/news/articleView.html?idxno=140409",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=885746",
     "https://imnews.imbc.com/replay/2026/nw1200/article/6867461_36967.html",
@@ -2128,18 +2135,18 @@
     "https://www.hankyung.com/article/2026112330656",
     "https://www.kpinews.kr/newsView/1065569366920780",
     "https://www.viva100.com/article/20261123500047",
-    "https://www.news1.kr/world/usa-canada/6362254"
+    "https://www.news1.kr/world/usa-canada/6362254",
+    "https://news.tf.co.kr/read/economy/2391943.htm",
+    "https://www.newsis.com/view/NISX20261123_0003878583",
+    "https://www.newsian.co.kr/news/articleView.html?idxno=101781",
+    "https://www.insight.co.kr/news/583110",
+    "https://www.ytn.co.kr/_ln/0102_202611230844491620",
+    "https://www.cstimes.com/news/articleView.html?idxno=728910",
+    "https://www.cstimes.com/news/articleView.html?idxno=728911",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445943",
+    "http://www.breaknews.com/1252951"
    ],
    "seen_titles": [
-    "나스닥5.3%폭락…AI투자불안에美증시‘검은금요일’",
-    "나스닥주간10%폭락·SOXL32%추락…삼성전자·SK하이닉스'월요일공...",
-    "11월3주차SK하이닉스주가급락마감",
-    "SK에코플랜트,'1인1AI에이전트'도입…SK오션플랜트용접시간37%단...",
-    "[선전APEC특별결산2|인문자의시진핑APEC외교이야기|인간·문화...",
-    "나스닥,기술주매도에5.3%폭락…연간상승분모두반납",
-    "고려아연배당금YPC에쌓이는데...영풍은금융자산팔아현금확보",
-    "[해외시황]뉴욕증시,AI투자우려·반도체株급락에'하락'…나스닥5...",
-    "영풍,고려아연주식은보냈는데배당금은안왔다",
     "11월3주차SK텔레콤주가큰폭하락6만원대로",
     "'7만전자·20만닉스'여기서더떨어진다?…증권가전망은",
     "'방패는주고남용은막는'미국식경영권방어…한국은?",
@@ -3630,10 +3637,19 @@
     "\"칩장기계약10년넘어20년까지\"…메모리반도체'슈퍼을'된다",
     "반토막난증시…투자자속타는데당국은왜이렇게한가한가",
     "천안복지재단,10년간희망나눔290억…‘희망2027캠페인’",
-    "나스닥선물1.3%상승…추수감사절앞두고저가매수에반등시도"
+    "나스닥선물1.3%상승…추수감사절앞두고저가매수에반등시도",
+    "프리마켓부터삼전닉스폭락…증안펀드,'블랙먼데이'막을까",
+    "편의점에서인터넷가입한다…CU,SK브로드밴드가입서비스개시",
+    "[핫스톡]美반도체쇼크에삼성전자·SK하이닉스5%급락",
+    "최태원\"AI대학,설계부터바꿔야\"...한일인턴십·일자리연계제안",
+    "코스피'검은월요일'공포...'10조증안펀드'방파제될까[뉴스UP]",
+    "SK증권\"우리금융지주,내년업종내가장높은이익성장률전망\"",
+    "SK렌터카,중고차해외공급확대추진…일본비포워드와업무협약",
+    "李대통령지지율37.3%…민주35.6%·국힘42.5%[리얼미터]",
+    "'폭풍의언덕'위코스피,개미와개돼지"
    ],
    "initialized": true,
-   "last_run": "2026-11-23T08:45:25.720326+09:00"
+   "last_run": "2026-11-23T08:49:05.724197+09:00"
   }
  },
  "press_names": {
