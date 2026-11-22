@@ -461,10 +461,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.econovill.com/news/articleView.html?idxno=758016",
-    "https://news.tvchosun.com/site/data/html_dir/2026/11/20/2026112090208.html",
-    "https://www.donga.com/news/Sports/article/all/20261120/135060939/1",
-    "https://www.meconomynews.com/news/articleView.html?idxno=203956",
     "https://www.ziksir.com/news/articleView.html?idxno=154198",
     "http://www.rookie.co.kr/news/articleView.html?idxno=130775",
     "https://www.smartbizn.com/news/articleView.html?idxno=160149",
@@ -1960,13 +1956,13 @@
     "https://www.viva100.com/article/20261122500031",
     "https://www.dongponews.net/news/articleView.html?idxno=61823",
     "https://www.kado.net/news/articleView.html?idxno=2086304",
-    "https://www.g-enews.com/view.php?ud=2026112213120818942bd56fbc3c_1"
+    "https://www.g-enews.com/view.php?ud=2026112213120818942bd56fbc3c_1",
+    "https://www.s-journal.co.kr/news/articleView.html?idxno=45512",
+    "https://www.segye.com/newsView/20261122505855?OutUrl=naver",
+    "https://www.mdtoday.co.kr/news/articleView.html?idxno=626873",
+    "https://www.meconomynews.com/news/articleView.html?idxno=203970"
    ],
    "seen_titles": [
-    "중국CATL미국'독립전력망'AI데이터센터노린다,K배터리3사ESS시...",
-    "[속보]‘주말맘고생예정’…5천피깨진코스피,10개월만최저",
-    "[마감시황]美증시급락에코스피5%대하락…4900선무너진'검은금요...",
-    "코스피,5%급락…4860선마감",
     "美반도체주급락에코스피5.21%↓…코스닥도5.71%하락,양시장매도...",
     "\"삼성전자7.01%·리노공업15.07%급락\"…외인·기관2조원대투매",
     "코스피,5%대급락해4800선추락...시총4000조붕괴·양대시장매도사...",
@@ -3462,10 +3458,14 @@
     "[주간증시전망]4800선까지밀린코스피⋯美물가·한은금리결정주목",
     "[현장인터뷰]일본서'사랑의나눔'실천김운천회장...\"어디든홀씨처...",
     "이대통령\"AI데이터센터는반도체주요수요처…정부차원전문인력고...",
-    "러시아폐차세벽에막힌현대차·기아,10월신차판매58%급감"
+    "러시아폐차세벽에막힌현대차·기아,10월신차판매58%급감",
+    "영풍,고려아연배당은자회사로…본사는금융자산매각",
+    "삼전닉스반토막에도…“반도체정점론과해,내년코스피8000가능”...",
+    "SSG,문승원과2+1년총액15억원FA계약…원클럽맨잔류",
+    "삼전인버스,지난주ETF수익률1위'12.88%'...1개월30%넘어"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T13:20:26.039336+09:00"
+   "last_run": "2026-11-22T13:25:23.568326+09:00"
   }
  },
  "press_names": {
