@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-22T13:50:27.102327+09:00",
-     "좌우 컴퓨팅이 국가 이동수 경쟁력 OECD 대표 에이투시스 전문가"
-    ],
-    [
      "2026-11-22T14:00:38.169544+09:00",
      "규모 2200억 앤트로픽 스페이스X 서학개미 매수"
     ],
@@ -622,11 +618,17 @@
     [
      "2026-11-22T19:45:24.637882+09:00",
      "수원 무승부로 1년 승격 K리그1으로 구단 모두 만에 수원FC 서울E"
+    ],
+    [
+     "2026-11-22T19:50:27.267860+09:00",
+     "증시 공매도 총력전 불법 3개월간 특별감시 방어"
+    ],
+    [
+     "2026-11-22T19:50:27.267860+09:00",
+     "준비 돌입 즉시가동 증안펀드 정부"
     ]
    ],
    "seen_urls": [
-    "https://www.thelec.kr/news/articleView.html?idxno=65726",
-    "https://it.donga.com/109970/",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2495329",
     "https://biz.sbs.co.kr/article_hub/20000347926?division=NAVER",
     "https://www.dailyt.co.kr/newsView/dlt202611200018",
@@ -2124,11 +2126,11 @@
     "https://www.mk.co.kr/article/12215736",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261123.22004006769",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287225&CMPT_CD=P0010",
-    "http://www.footballist.co.kr/news/articleView.html?idxno=217183"
+    "http://www.footballist.co.kr/news/articleView.html?idxno=217183",
+    "https://www.mk.co.kr/article/12215737",
+    "https://www.mk.co.kr/article/12215738"
    ],
    "seen_titles": [
-    "인사말하는정재헌SK텔레콤사장",
-    "KBL신인드래프트이동근1순위KT행…역대최다30명프로진출",
     "마이크론\"내년메모리물량,75%팔려\"",
     "‘3×3금’이동근,전체1순위로KT행…44명중역대최다30명선발",
     "내년D램값40%상승전망에도삼절닉스급락이유는",
@@ -3626,10 +3628,12 @@
     "한전개인정보152만건유출…주민번호까지털렸다",
     "울산AIDC(AI데이터센터)건설현장온李,인력양성지원약속",
     "집토끼4인방지켜낸SSG,외부FA도참전할까",
-    "'수원두구단모두K리그1으로'서울E무승부로수원FC1년만에승격..."
+    "'수원두구단모두K리그1으로'서울E무승부로수원FC1년만에승격...",
+    "\"증시방어총력전\"…불법공매도3개월간특별감시",
+    "정부,증안펀드즉시가동준비돌입"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T19:45:24.637882+09:00"
+   "last_run": "2026-11-22T19:50:27.267860+09:00"
   }
  },
  "press_names": {
