@@ -454,14 +454,25 @@
     [
      "2026-11-23T07:50:26.062251+09:00",
      "격차 판정승 쏟아부은 기금 대만"
+    ],
+    [
+     "2026-11-23T07:55:19.617240+09:00",
+     "반도체 새내기주 KB금융 선방 줄하락 한진칼"
+    ],
+    [
+     "2026-11-23T07:55:19.617240+09:00",
+     "급락 하향속 목표가 이수페타시스"
+    ],
+    [
+     "2026-11-23T07:55:19.617240+09:00",
+     "500곳 돌파 로봇산업협회 회원사 한국AI"
+    ],
+    [
+     "2026-11-23T07:55:19.617240+09:00",
+     "4000선 폭락 AI주 위협하나 후폭풍 투매 최악의"
     ]
    ],
    "seen_urls": [
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719073",
-    "https://biz.heraldcorp.com/article/10944329",
-    "https://www.pharmnews.com/news/articleView.html?idxno=308195",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085945",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2495080",
     "https://biz.sbs.co.kr/article_hub/20000347629?division=NAVER",
     "https://it.chosun.com/news/articleView.html?idxno=3000000001427",
     "https://www.newsis.com/view/NISX20261120_0003876915",
@@ -1956,14 +1967,14 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4445917",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506804",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4445914",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445913"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445913",
+    "https://www.thebigdata.co.kr/view.php?ud=202611230749591216d0a8833aad_23",
+    "https://www.etoday.co.kr/news/view/2651411",
+    "https://biz.sbs.co.kr/article_hub/20000348070?division=NAVER",
+    "https://www.edaily.co.kr/News/Read?newsId=01302166645648672&mediaCodeNo=257",
+    "https://www.ajunews.com/view/20261123074700570"
    ],
    "seen_titles": [
-    "미국증시나스닥5.28%폭락…엔비디아14%급락",
-    "마이크론·하닉ADR14%폭락…韓'검은금요일'이어'블랙먼데이'위...",
-    "[르포]문래동'국평18억'…조용한흥행가능할까",
-    "\"앤트로픽'메가IPO'조정은매수기회…삼전닉스팔때아니다\"",
-    "[주간거래소외국인]삼성전자·SK하이닉스대거매도…JB금융지주셀트...",
     "[주간거래소기관]삼성전자사고SK하이닉스팔았다…하이브·금융주...",
     "나스닥5.28%폭락·엔비디아14%급락…삼성전자·SK하이닉스도비상",
     "반도체주·앤트로픽'급락'직격탄맞았다…미증시'폭락'",
@@ -3458,10 +3469,15 @@
     "자사주매입한도푼다지만…증안펀드는심리안정기대",
     "GPU의존도낮추려는아마존…한미반도체·이수페타시스도주목",
     "[韓臺증시방어전-②]발목잡는'MSCI딜레마'",
-    "[韓臺증시방어전-①]기금쏟아부은대만,1%p격차'판정승'"
+    "[韓臺증시방어전-①]기금쏟아부은대만,1%p격차'판정승'",
+    "현대건설디에이치,11월하이엔드주거브랜드평판1위...롯데건설르엘...",
+    "[전날애프터마켓]반도체·새내기주줄하락...KB금융·한진칼선방",
+    "[애프터마켓리뷰]이수페타시스,목표가하향속급락",
+    "한국AI·로봇산업협회,회원사500곳돌파",
+    "[아주증시포커스]美AI주폭락후폭풍…'최악의투매'4000선위협하나"
    ],
    "initialized": true,
-   "last_run": "2026-11-23T07:50:26.062251+09:00"
+   "last_run": "2026-11-23T07:55:19.617240+09:00"
   }
  },
  "press_names": {
