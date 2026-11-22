@@ -630,16 +630,21 @@
     [
      "2026-11-22T18:15:25.865762+09:00",
      "혹한기 거래대금 최저 코스피 연중 예탁금"
+    ],
+    [
+     "2026-11-22T18:20:25.736214+09:00",
+     "광산구 나섰다 벤치마킹 충청권 반도체 국가산단"
+    ],
+    [
+     "2026-11-22T18:20:25.736214+09:00",
+     "단행 중심으로 사업 B2B 재편 조직개편 LG유플러스 플랫폼 AI인프라"
+    ],
+    [
+     "2026-11-22T18:20:25.736214+09:00",
+     "대포폰 3사 통신 근절한다 알뜰폰"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20117093",
-    "https://www.m-i.kr/news/articleView.html?idxno=2021563",
-    "https://www.m-i.kr/news/articleView.html?idxno=2021568",
-    "http://www.00news.co.kr/news/articleView.html?idxno=108257",
-    "https://www.newsworker.co.kr/news/articleView.html?idxno=515309",
-    "http://www.dailypop.kr/news/articleView.html?idxno=104844",
-    "https://www.aflnews.co.kr/news/articleView.html?idxno=332034",
     "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=525385",
     "https://www.mydaily.co.kr/page/view/2026112017582772162",
     "https://www.sedaily.com/article/20117098",
@@ -2132,16 +2137,16 @@
     "https://www.fnnews.com/news/202611221812483896",
     "https://www.hankyung.com/article/2026112224991",
     "https://www.ccdn.co.kr/news/articleView.html?idxno=1112700",
-    "https://www.fnnews.com/news/202611221810247925"
+    "https://www.fnnews.com/news/202611221810247925",
+    "https://www.lcnews.co.kr/news/articleView.html?idxno=211799",
+    "https://www.ccdailynews.com/news/articleView.html?idxno=2452702",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=362970",
+    "https://www.ccdailynews.com/news/articleView.html?idxno=2452692",
+    "http://www.kjdaily.com/article.php?aid=1795339013693109003",
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=362968",
+    "https://www.fnnews.com/news/202611221814517090"
    ],
    "seen_titles": [
-    "[공식발표]'이정현·허훈·변준형부상OUT'男농구대표팀,엔트리대...",
-    "'AG3대3金'고려대이동근,프로농구드래프트전체1순위로KT행",
-    "삼성전자·SK하이닉스주가폭락,글로벌반도체시장충격파",
-    "[증시오늘]코스피·코스닥5%대급락",
-    "코스피상장사성적껑충…반도체실적편중'숙제'",
-    "앤스로픽쏠림,대중규제리스크…복합악재에코스피4900붕괴",
-    "[26DRAFT]'역대최다지명'황금드래프트1순위는고려대이동근…총...",
     "패션넘어버거·통신까지…무신사,'무진장'으로고객확보총력전",
     "‘아시안게임金’이동근,전체1순위로수원kt행…KBL신인30명프로...",
     "SK하이닉스,키옥시아전환사채주식전환…지분14.1%확보",
@@ -3634,10 +3639,17 @@
     "하락장에도반도체집중매수...SK하닉한주새623억사들여[1%고수의...",
     "'겹악재'삼전닉스,위기극복시험대올랐다",
     "충북교육청,교육가족3천여명과함께달린포(4)유마라톤축제성료",
-    "'코스피혹한기'거래대금·예탁금연중최저"
+    "'코스피혹한기'거래대금·예탁금연중최저",
+    "최태원회장\"AI네이티브사회는AI를환경으로받아들이는것\"",
+    "SK하이닉스·서원대,청년창업파크성과공유회개최",
+    "최태원\"한일기업·대학손잡고AI인재키워야\"…교육혁신제안",
+    "충북교육청포(4)유마라톤축제성료…3000명참가",
+    "광산구,충청권반도체국가산단벤치마킹나섰다",
+    "LG유플러스,AI인프라·플랫폼중심으로B2B사업재편…조직개편단행",
+    "통신3사·알뜰폰대포폰근절한다"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T18:15:25.865762+09:00"
+   "last_run": "2026-11-22T18:20:25.736214+09:00"
   }
  },
  "press_names": {
