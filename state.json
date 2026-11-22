@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-22T10:50:33.274705+09:00",
-     "ALB 한국법률대상 부문 세종 6개 수상"
-    ],
-    [
      "2026-11-22T10:55:21.522753+09:00",
      "단속 36살 문승원도 잔류 1년 SSG 확실한 집토끼 15억 우완"
     ],
@@ -486,17 +482,21 @@
     [
      "2026-11-22T16:50:28.203964+09:00",
      "국가도시공원 국가 본격화 지원 생태보전 논의 울산대공원 지정"
+    ],
+    [
+     "2026-11-22T16:55:19.729125+09:00",
+     "아침의 주요기사 비즈니스포스트"
+    ],
+    [
+     "2026-11-22T16:55:19.729125+09:00",
+     "고점인식 증시 불안 카드 겹치자 매수 주문 캐피탈채부터 금리"
+    ],
+    [
+     "2026-11-22T16:55:19.729125+09:00",
+     "대책 단추에 채용시험도 고심 기업 스티커"
     ]
    ],
    "seen_urls": [
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=54978",
-    "https://www.cnbnews.com/news/articleView.html?idxno=1024702",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7194822",
-    "https://www.newsinside.kr/news/articleView.html?idxno=5052650",
-    "https://futurechosun.com/?p=167285",
-    "https://www.newsinside.kr/news/articleView.html?idxno=5052649",
-    "https://www.newsis.com/view/NISX20261120_0003877220",
-    "https://www.joongang.co.kr/article/25480540",
     "https://www.newsis.com/view/NISX20261120_0003877105",
     "http://www.inews24.com/view/2028740",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2495245",
@@ -1988,17 +1988,17 @@
     "https://www.sedaily.com/article/20117394",
     "https://economist.co.kr/article/view/ecn202611220011",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506745",
-    "http://www.lak.co.kr/news/boardview.php?id=24380"
+    "http://www.lak.co.kr/news/boardview.php?id=24380",
+    "https://m.sports.naver.com/basketball/article/065/0000305104",
+    "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553721452",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857836&plink=ORI&cooper=NAVER",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091635",
+    "https://www.mt.co.kr/stock/2026/11/22/2026112216291873657",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=452596",
+    "https://www.mt.co.kr/stock/2026/11/22/2026112011121390985",
+    "https://www.ytn.co.kr/_ln/0102_202611221650515723"
    ],
    "seen_titles": [
-    "오늘밤성수동한복판에보물트리불켠다…이부진호텔신라사장도참...",
-    "TCL,韓에'푸른빛'미래그린다…기술력한판승부",
-    "영광의1순위'AG최초金'이동근차지!KT유니폼입었다,AG전설4인방...",
-    "[26드래프트]이동근1순위KT행,지명률68.2%…2016년이후최고지명률...",
-    "SK하이닉스,키옥시아투자CB주식전환검토…1조2789억원투자자산재...",
-    "SK하이닉스,日키옥시아투자법인전환사채주식전환…“지분추가매...",
-    "SK하이닉스,일본키옥시아지분14.1%확보결정…8년투자결실",
-    "[마감시황]코스피,5.21%폭락에4,860선추락,코스닥도5.71%급락",
     "목포시,김대중마라톤대회22일개최…시내버스우회운행",
     "“폭락시작도안했다”는데…JP모건美금리3연속인상전망,IMF도경...",
     "이통3사알뜰폰자회사점유율50%제한추진…IoT회선제외",
@@ -3490,10 +3490,18 @@
     "“AI로해킹수법더정교해져…사이버복원역량도경쟁력”",
     "최태원,도쿄포럼서'AI네이티브'교육전면개편·한일협력촉구",
     "미국반도체한파국내로번졌다…팹리스·후공정주동반약세",
-    "울산대공원국가도시공원지정논의본격화…국가지원·생태보전·시..."
+    "울산대공원국가도시공원지정논의본격화…국가지원·생태보전·시...",
+    "[KBL드림컵]'KTB와2위자리두고맞대결'LG전주U10나민혁\"어차피...",
+    "[현장목소리]\"전반주도하고도무득점·PK실점아쉽다\"김천주승진감...",
+    "K리그1최하위광주,부천에4대2역전승…4경기무패행진",
+    "대구시,AI모의통화로어르신보이스피싱예방교육",
+    "한미증시동반급락반복…추가하락과반등가른변수는?",
+    "[11월23자]비즈니스포스트아침의주요기사",
+    "금리고점인식·증시불안겹치자…카드·캐피탈채부터매수주문",
+    "기업채용시험도\"단추에스티커\"...AI대책'고심'"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T16:50:28.203964+09:00"
+   "last_run": "2026-11-22T16:55:19.729125+09:00"
   }
  },
  "press_names": {
