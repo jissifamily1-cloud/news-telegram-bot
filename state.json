@@ -181,7 +181,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.tvchosun.com/site/data/html_dir/2026/11/20/2026112090286.html",
     "https://www.medigatenews.com/news/2728639954",
     "https://www.ajunews.com/view/20261120213700764",
     "https://www.ajunews.com/view/20261120214900767",
@@ -1680,10 +1679,10 @@
     "https://www.news1.kr/local/gyeonggi/6362076",
     "http://www.beyondpost.co.kr/view.php?ud=2026112216383615554c878f8fa1_30",
     "https://www.geconomy.co.kr/news/article.html?no=325939",
-    "https://www.news2day.co.kr/article/20261122500041"
+    "https://www.news2day.co.kr/article/20261122500041",
+    "https://www.fnnews.com/news/202611221949067995"
    ],
    "seen_titles": [
-    "한덕수전총리내란혐의일부무죄취지파기환송…박경미\"계엄전후...",
     "프로농구수원KT,신인드래프트전체1순위로'AG3대3금메달주역'...",
     "이상일용인특례시장,보수·증축한원삼초실내체육관개관식참석",
     "SK하이닉스,日키옥시아간접최대주주된다",
@@ -3182,10 +3181,11 @@
     "[오늘의주요일정]경기(23일,월)",
     "[르포]이상일시장의용인,원삼에서반도체도시새역사를쓰다",
     "美증시본격조정장진입…AI거품우려에월가'공포확산'",
-    "4,900선무너진코스피…바닥다졌나,더밀리나"
+    "4,900선무너진코스피…바닥다졌나,더밀리나",
+    "\"코스피4800깨지면4300까지\"…증권가가경고한추가하락"
    ],
    "initialized": true,
-   "last_run": "2026-11-23T04:20:27.807820+09:00"
+   "last_run": "2026-11-23T04:25:25.923233+09:00"
   }
  },
  "press_names": {
