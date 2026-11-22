@@ -378,13 +378,21 @@
     [
      "2026-11-23T07:05:23.077040+09:00",
      "현대건설 격차 1위 르엘과 브랜드평판 하이엔드 주거 디에이치 벌려"
+    ],
+    [
+     "2026-11-23T07:10:25.165990+09:00",
+     "산업의 잔치 뒤가 반도체 노동자의 노동과 핏줄 화물 무섭다"
+    ],
+    [
+     "2026-11-23T07:10:25.165990+09:00",
+     "바이오로 확산 회복세 코스닥 코스피 성과 대형 전망 제약주 바이오텍"
+    ],
+    [
+     "2026-11-23T07:10:25.165990+09:00",
+     "수익성 SK하이닉스 가격 상승 전망 개선 기대 D램 삼성전자"
     ]
    ],
    "seen_urls": [
-    "https://www.dailian.co.kr/news/view/1717830/?sc=Naver",
-    "https://www.newsis.com/view/NISX20261120_0003877303",
-    "https://www.newsis.com/view/NISX20261118_0003873076",
-    "https://www.yna.co.kr/view/AKR20261120137900008?input=1195m",
     "https://www.newspim.com/news/view/20261120000651",
     "https://www.mt.co.kr/industry/2026/11/21/2026112015040597243",
     "https://www.newsway.co.kr/news/view?ud=2026112010193954626",
@@ -1880,13 +1888,13 @@
     "https://www.mk.co.kr/article/12215710",
     "https://www.yna.co.kr/view/AKR20261121033800008?input=1195m",
     "https://economist.co.kr/article/view/ecn202611160054",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506793"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506793",
+    "http://www.popcornnews.net/news/articleView.html?idxno=141022",
+    "https://www.pressian.com/pages/articles/2026111717081212928",
+    "https://www.medicopharma.co.kr/news/articleView.html?idxno=70566",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506796"
    ],
    "seen_titles": [
-    "앤트로픽에투자하고HBM팔고클로드심는다…K기업의AI삼각포석",
-    "“주식어디가바닥인데요?”외국인은이미탈출…이건7.4조샀다는데",
-    "300조원대로내려앉은ETF시장···상품늘어도투자쏠림심화",
-    "반도체·앤트로픽'급락'…AI투자불안확산",
     "엔비디아10.7%,앤트로픽9.1%↓...AI투심급랭에반도체기술주투매",
     "[뉴욕증시]앤스로픽급락속AI매도세…나스닥,5.3%폭락",
     "햄버거샀는데200만원쇼핑행운권까지?…롯데리아·무신사손잡자식...",
@@ -3382,10 +3390,14 @@
     "매경이전하는세상의지식(매-세-지,11월23일)",
     "상반기급등장에CB발행역대최대…최근급락에상환부담",
     "AI쓰자니기밀유출걱정,막자니경쟁력걱정…산업계‘딜레마",
-    "현대건설디에이치,하이엔드주거브랜드평판1위…르엘과격차벌려"
+    "현대건설디에이치,하이엔드주거브랜드평판1위…르엘과격차벌려",
+    "\"인터넷·IPTV가입도편의점에서\"…CU,SK브로드밴드와제휴서비스개...",
+    "\"잔치뒤가더무섭다\"…반도체산업의'핏줄'화물노동자의노동과불...",
+    "코스피제약주회복세,코스닥바이오로확산전망…대형바이오텍성과...",
+    "D램가격400%상승전망…SK하이닉스·삼성전자수익성개선기대"
    ],
    "initialized": true,
-   "last_run": "2026-11-23T07:05:23.077040+09:00"
+   "last_run": "2026-11-23T07:10:25.165990+09:00"
   }
  },
  "press_names": {
