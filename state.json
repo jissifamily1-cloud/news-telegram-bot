@@ -414,13 +414,25 @@
     [
      "2026-11-23T07:30:34.641302+09:00",
      "국내외 알아야 경제뉴스"
+    ],
+    [
+     "2026-11-23T07:35:20.806443+09:00",
+     "MBK 고려아연 5631억 공방 영풍 번졌다 경영책임까지 vs 펀드"
+    ],
+    [
+     "2026-11-23T07:35:20.806443+09:00",
+     "반도체 변신 열원으로 히트펌프 공장 타고 친환경 폐수의"
+    ],
+    [
+     "2026-11-23T07:35:20.806443+09:00",
+     "1주 긴장 수출 나스닥 금통위 PCE 빠져 주간"
+    ],
+    [
+     "2026-11-23T07:35:20.806443+09:00",
+     "이통 미래 3사의 돌파구 신경망 로봇 셈법"
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506528",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856639&plink=ORI&cooper=NAVER",
-    "https://www.globale.co.kr/news/articleView.html?idxno=41773",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=887956",
     "https://www.bigtanews.co.kr/article/view/big202611210004",
     "https://sateconomy.co.kr/news/view/1065625127542765",
     "https://www.sedaily.com/article/20117186",
@@ -1916,13 +1928,13 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611230008&t=NN",
     "https://www.hankyung.com/article/2026112328607",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1732610",
-    "https://www.fntimes.com/html/view.php?ud=202611230713134251141825007d_18"
+    "https://www.fntimes.com/html/view.php?ud=202611230713134251141825007d_18",
+    "https://www.newswhoplus.com/news/articleView.html?idxno=75054",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717054",
+    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261454",
+    "https://www.sisaon.co.kr/news/articleView.html?idxno=206036"
    ],
    "seen_titles": [
-    "美AI규제에도꺾이지않는반도체⋯“2030년까지슈퍼사이클”",
-    "SK하이닉스,키옥시아CB전량주식전환…지분14.1%간접최대주주로",
-    "혁신형제약기업35곳내년재인증...R&D투자넘어개발성과평가",
-    "TelecomsrampupAIinvestmentamidquestionsoverreturns",
     "[투데이온]\"소재탐색넘어양산공정·장비권리선점\"…삼성SDI,도요...",
     "‘힐링보이스’,장근희보이스우승후32팀보이스‘파송’",
     "“서울아파트값오를곳만오른다…일자리접근성,교통망,신축이핵...",
@@ -3418,10 +3430,14 @@
     "반도체주급락에도\"길게보자\"...노후자금ETF순매수지속",
     "급락장에서도퇴직연금계좌선반도체ETF집중매수",
     "코스피급락에공포지표도극단…\"저점은4300선\"",
-    "[KFT모닝브리프]2026.11.23—오늘꼭알아야할국내외경제뉴스"
+    "[KFT모닝브리프]2026.11.23—오늘꼭알아야할국내외경제뉴스",
+    "고려아연vs영풍·MBK,5631억펀드공방…경영책임까지번졌다",
+    "반도체공장폐수의변신...히트펌프타고친환경열원으로",
+    "[넥스트-샷]나스닥,1주새10%빠져···수출·PCE·금통위긴장주간...",
+    "'로봇신경망'이미래돌파구…이통3사의셈법"
    ],
    "initialized": true,
-   "last_run": "2026-11-23T07:30:34.641302+09:00"
+   "last_run": "2026-11-23T07:35:20.806443+09:00"
   }
  },
  "press_names": {
