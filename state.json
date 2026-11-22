@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-22T12:00:42.713876+09:00",
-     "나오나 증시안정대책 F4회의 두번째 정부 소집 긴급"
-    ],
-    [
      "2026-11-22T12:05:20.448947+09:00",
      "함박민화전람회 행복을 개최 함박드림 보령시 민화로"
     ],
@@ -593,8 +589,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=54979",
-    "https://www.sedaily.com/article/20117072",
     "https://www.gokorea.kr/news/articleView.html?idxno=886637",
     "https://news.mtn.co.kr/article/2026112016543615178",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065601205776979",
@@ -2092,11 +2086,11 @@
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041721",
     "https://www.ajunews.com/view/20261122130026715",
     "https://www.busan.com/view/busan/view.php?code=2026112122194718312",
-    "https://www.busan.com/view/busan/view.php?code=2026112122124064886"
+    "https://www.busan.com/view/busan/view.php?code=2026112122124064886",
+    "https://www.mdtoday.co.kr/news/articleView.html?idxno=626878",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506753"
    ],
    "seen_titles": [
-    "SK하이닉스,日키오시아전환사채주식전환...지분율14.1%",
-    "반도체發원화강세예고에도정부,환율방어재원증액'0'",
     "“올려줄때탈출할걸”…통곡의개미들“AI커닝해주식투자,취소해...",
     "韓주식던지는외국인,채권은7.4조샀다",
     "中에칩팔땐허가필수…삼전파운드리도영향권",
@@ -3594,10 +3588,12 @@
     "반도체품은경기도내지자체들'곳간넉넉'",
     "[韓블랙먼데이전운]순환금융멈춘엔비디아…삼성·하이닉스슈퍼사...",
     "imec연구원으로산다는것은…[AI산업부울경이이끈다]",
-    "연구자들이꼽는imec생태계의강점[AI산업부울경이이끈다]"
+    "연구자들이꼽는imec생태계의강점[AI산업부울경이이끈다]",
+    "삼성전자·SK하이닉스,3분기배당성향급등…주주환원에속도",
+    "중국AI주반토막충격…삼성전자·SK하이닉스·HD현대일렉트릭반사이..."
    ],
    "initialized": true,
-   "last_run": "2026-11-22T17:55:19.462173+09:00"
+   "last_run": "2026-11-22T18:00:43.605698+09:00"
   }
  },
  "press_names": {
