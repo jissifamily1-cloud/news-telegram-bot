@@ -450,13 +450,17 @@
     [
      "2026-11-22T14:40:25.488091+09:00",
      "배당금 흑자 0원 영풍에 돌아온 3916억 냈는데 YPC는"
+    ],
+    [
+     "2026-11-22T14:45:24.612741+09:00",
+     "삼성 조직개편 발표 AI글래스 악용 국회서 임원인사"
+    ],
+    [
+     "2026-11-22T14:45:24.612741+09:00",
+     "주가 폭락 반도체 있다 노출되고 취약성이 구조적 산업의"
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0102_202611201633389174",
-    "http://www.financialreview.co.kr/news/articleView.html?idxno=46489",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=885551",
-    "https://www.ziksir.com/news/articleView.html?idxno=154205",
     "https://www.wikileaks-kr.org/news/articleView.html?idxno=194991",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506471",
     "https://www.tokenpost.kr/news/breaking/441451",
@@ -1952,13 +1956,13 @@
     "https://sports.donga.com/sports/article/all/20261122/135067273/1",
     "https://www.ajunews.com/view/20261120145624113",
     "https://www.edaily.co.kr/News/Read?newsId=01672806645648344&mediaCodeNo=257",
-    "https://www.donga.com/news/Economy/article/all/20261122/135067290/1"
+    "https://www.donga.com/news/Economy/article/all/20261122/135067290/1",
+    "https://biz.newdaily.co.kr/site/data/html/2026/11/22/2026112250076.html",
+    "https://www.asiatime.co.kr/article/20261122500071",
+    "https://zdnet.co.kr/view/?no=20261122143759",
+    "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=56075"
    ],
    "seen_titles": [
-    "전남광주시,반도체실장'1인→2인체제'확대추진…'삼전닉스'각회사...",
-    "'AG3대3금메달주역'이동근,프로농구신인전체1순위로KT행",
-    "삼전·하이닉스中수출길막히나…외국인또1조원넘게팔았다",
-    "삼전중국칩출하중단우려에7%급락…하이닉스도5.9%↓",
     "'검은금요일'코스피,美반도체악재·外人매도에'4800선추락'…코...",
     "'AI쇼크'에4800선까지밀린코스피…10개월만에'최저'",
     "코스피4900선무너진'검은금요일'…양시장매도사이드카[MTN마감시...",
@@ -3454,10 +3458,14 @@
     "SSG,문승원까지15억원계약…FA‘집토끼’93억원에전원단속",
     "[르포]텃밭엔원룸,공업사엔닭강정집…'하이닉스'네글자가바꾼원...",
     "“AI공장없는나라는지능을빌려쓴다”…SKT,AI데이터센터주권강...",
-    "YPC는3916억흑자냈는데…영풍에돌아온배당금‘0원’"
+    "YPC는3916억흑자냈는데…영풍에돌아온배당금‘0원’",
+    "미국發증시폭락우려에정부긴급F4소집…국내안정대책논의",
+    "공정자동화부터AI도입까지…LG·삼성·SK,협력사'상생3사3색'",
+    "[ZD브리핑]삼성,임원인사·조직개편발표예정...국회서AI글래스악용...",
+    "AI-반도체산업의구조적취약성이노출되고있다(上)AI주가폭락;문..."
    ],
    "initialized": true,
-   "last_run": "2026-11-22T14:40:25.488091+09:00"
+   "last_run": "2026-11-22T14:45:24.612741+09:00"
   }
  },
  "press_names": {
