@@ -393,15 +393,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261418",
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083559",
-    "https://view.asiae.co.kr/article/2026112014574365103",
-    "https://www.huffingtonpost.kr/article/262256",
-    "https://m.sports.naver.com/basketball/article/065/0000304978",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1427441",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7194982",
-    "https://www.ccdailynews.com/news/articleView.html?idxno=2452527",
-    "http://www.rookie.co.kr/news/articleView.html?idxno=130746",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083546",
     "https://www.newsis.com/view/NISX20261120_0003876926",
     "https://www.edaily.co.kr/News/Read?newsId=03299686645647688&mediaCodeNo=257",
@@ -1892,18 +1883,18 @@
     "https://www.ddaily.co.kr/page/view/2026112209475871222",
     "https://www.m-i.kr/news/articleView.html?idxno=2021344",
     "https://www.g-enews.com/view.php?ud=2026112013513524773084322ec9_1",
-    "https://www.joongang.co.kr/article/25480746"
+    "https://www.joongang.co.kr/article/25480746",
+    "https://www.starnewskorea.com/sports/2026/11/22/2026112210003725477",
+    "https://sports.khan.co.kr/article/202611221003013?pt=nv",
+    "https://www.dailian.co.kr/news/view/1718070/?sc=Naver",
+    "http://www.inews24.com/view/2028944",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1732570",
+    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717252",
+    "https://www.ajunews.com/view/20261122094904329",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=888001",
+    "http://www.kjdaily.com/article.php?aid=1795309330693019276"
    ],
    "seen_titles": [
-    "\"美기술주투매에앤트로픽쇼크\"…코스피4900선붕괴",
-    "SKT,T팩토리성수서연말체험전시···AI로고객의한해기록",
-    "코스피4%대하락출발뒤낙폭확대…양대시장매도사이드카",
-    "지식재산처,'2026캠퍼스특허유니버시아드'시상",
-    "'수출1조'시대연반도체...미래경쟁력확보총력",
-    "[통신레이더]SK텔레콤‘AI체험전시’·KT‘양자직접통신구현’…...",
-    "미국발삭풍에증시약세...양시장매도사이드카",
-    "SK하이닉스110만원대로후퇴…장중6.64%약세",
-    "무섭게빠지는삼전닉스...냉랭한투심에앤트로픽도'무용지물'",
     "무신사,겨울블프시작…올해베스트셀러1500개최저가",
     "[포커스]다음주코스피5000선기로…美물가·외인수급에달렸다",
     "소프트뱅크하루16%폭락…오픈AI에쏟아부은86조원괜찮나",
@@ -3394,10 +3385,19 @@
     "'전영현직할'졸업한삼성의기술인선…美D램반독점본안행에법무...",
     "신한·KB·JB금융,ESG등급'A+'최우수",
     "수출1조달러시대에도장비국산화율18%…’양산검증'이관문",
-    "반도체낙수효과에카드·캐피탈사웃었다…서민대출에도온기돌까"
+    "반도체낙수효과에카드·캐피탈사웃었다…서민대출에도온기돌까",
+    "[오피셜]'오태곤→최지훈'이번엔문승원,2+1년15억계약체결...SSG...",
+    "[오피셜]SSG,내부FA모두잡았다…문승원과‘2+1년15억원’계약",
+    "최태원\"한일기업·대학,AI인재공동육성하자\"",
+    "최태원\"한일기업·대학함께AI인재키우자…교육체계바꿔야\"",
+    "[주간증시전망]'AI쇼크'에4900선무너진코스피…美물가·금리에반...",
+    "SKT에어,무신사'무진장'참여…요금할인에쇼핑혜택까지",
+    "SKT에어,무신사블랙프라이데이참여...5G요금제특가선보여",
+    "서학개미,앤트로픽상장첫날2200억매수...스페이스X때보다는감소",
+    "삼성전자·SK하이닉스거래대금4조3천억원감소…비중은↑"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T10:05:20.947658+09:00"
+   "last_run": "2026-11-22T10:10:27.822438+09:00"
   }
  },
  "press_names": {
