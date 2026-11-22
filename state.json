@@ -598,11 +598,13 @@
     [
      "2026-11-23T08:35:21.491821+09:00",
      "중복상장 높아지자 기대 문턱 재평가 지주사"
+    ],
+    [
+     "2026-11-23T08:40:25.150660+09:00",
+     "키운 키워 2030년 사업 투자 DC SKB 핵심 여력 분할로 5조 매출 3대"
     ]
    ],
    "seen_urls": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856835&plink=ORI&cooper=NAVER",
-    "https://www.nongmin.com/article/20261118500326",
     "http://www.breaknews.com/1252860",
     "https://basketkorea.com/news/newsview.php?ncode=1065579293577693",
     "https://www.mt.co.kr/society/2026/11/21/2026112110581031975",
@@ -2100,11 +2102,11 @@
     "https://zdnet.co.kr/view/?no=20261118165352",
     "https://www.etoday.co.kr/news/view/2651440",
     "https://www.cwn.kr/news/articleView.html?idxno=62348",
-    "https://www.ekn.kr/web/view.php?key=20261123023343106"
+    "https://www.ekn.kr/web/view.php?key=20261123023343106",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445940",
+    "https://biz.heraldcorp.com/article/10945450"
    ],
    "seen_titles": [
-    "코스피5%대'주루룩'…대형주들약세,삼성전기13%급락",
-    "반도체값으로만든무역수지…한국금융연구원,\"가격하락하면흑자급...",
     "'AG금메달·대학MVP'이동근,이변없이KBL신인1순위로수원KT행",
     "키옥시아14.1%간접보유예정…SK하이닉스취득예정일12월4일",
     "트럼프\"中엔구형칩만판매\"…美,반도체수출'상한선'지키고우회로...",
@@ -3602,10 +3604,12 @@
     "국산NPU상용시대열었다...리벨리온,SKT에'리벨'칩서버40대공급",
     "[전일주요공시]롯데관광개발·금호건설·효성중공업·롯데케미칼등",
     "손정의,SK하이닉스에눈독…1조달러인수구상검토",
-    "중복상장문턱높아지자...“지주사재평가기대”[SK증권]"
+    "중복상장문턱높아지자...“지주사재평가기대”[SK증권]",
+    "'블랙먼데이'공포에질린증시…프리마켓서삼전닉스동반급락세",
+    "DC분할로투자여력키운SKB…“3대핵심사업키워2030년매출5조달..."
    ],
    "initialized": true,
-   "last_run": "2026-11-23T08:35:21.491821+09:00"
+   "last_run": "2026-11-23T08:40:25.150660+09:00"
   }
  },
  "press_names": {
