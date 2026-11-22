@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-22T06:15:27.566856+09:00",
-     "영업익 SK하이닉스도 늘었지만 대기업 3배 감소 줄여 기부금은"
-    ],
-    [
-     "2026-11-22T06:15:27.566856+09:00",
-     "스페이스X 매수 때보다는 2천200억 상장첫날 앤트로픽 서학개미"
-    ],
-    [
      "2026-11-22T06:40:25.112568+09:00",
      "월요일 급락에 시험대 5000피 무너진 코스피 반도체"
     ],
@@ -413,7 +405,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261120000852",
     "https://www.news1.kr/local/gwangju-jeonnam/6361151",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=366429",
     "https://www.edaily.co.kr/News/Read?newsId=03624406645647688&mediaCodeNo=257",
@@ -1912,10 +1903,10 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086179",
     "https://www.khan.co.kr/article/202611221212001",
     "https://kpenews.com/View.aspx?No=4323674",
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611220034&t=NN"
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611220034&t=NN",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506689"
    ],
    "seen_titles": [
-    "[문화트렌드]춘천문화재단,생활예술로채우는주말…‘2026아르숲데...",
     "코스피5000선재차붕괴…앤트로픽IPO·AMD우려에반도체급락[마감...",
     "코스피4900선붕괴에개미피눈물…코스닥도추락",
     "코스피,5.21%내린4869.96마감…外人6거래일연속'팔자'",
@@ -3414,10 +3405,11 @@
     "'홈닉'외연확장…삼성물산,한양건설과맞손",
     "최태원,“AI네이티브시대,대학은지식보다지혜기르는데집중해야...",
     "코스피저점4300선까지열렸다..하나證\"반등조건은금리하락\"",
-    "1월로돌아간코스피...'1조클럽'은26개더줄었다"
+    "1월로돌아간코스피...'1조클럽'은26개더줄었다",
+    "SKT,무신사블랙프라이데이서5G요금제할인…월체감가6900원부터"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T12:15:25.918309+09:00"
+   "last_run": "2026-11-22T12:20:25.158281+09:00"
   }
  },
  "press_names": {
