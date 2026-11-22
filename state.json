@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-22T16:30:33.046628+09:00",
-     "특파원의 반도체 규제 윤경환 깐부 대중 올라타야 브레 없는"
-    ],
-    [
      "2026-11-22T16:35:26.627423+09:00",
      "확산 기대 매도세 삼성전자부터 HBM 테크윙까지 슈퍼사이클 꺾였나"
     ],
@@ -474,11 +470,17 @@
     [
      "2026-11-22T22:20:26.396204+09:00",
      "추수감사절 실적이 PCE 급락 주간 25일"
+    ],
+    [
+     "2026-11-22T22:30:34.284038+09:00",
+     "쇼핑 무신사와 특가 11만원 혜택 요금제 손잡고 SK텔레콤 에어"
+    ],
+    [
+     "2026-11-22T22:30:34.284038+09:00",
+     "SK하이닉스도 많이 개미들이 가장 아니다 주식 국내 삼성전기도"
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261120_0003877418",
-    "https://www.sportsworldi.com/newsView/20261120514616",
     "https://www.gukjenews.com/news/articleView.html?idxno=3758706",
     "https://www.newsis.com/view/NISX20261120_0003877388",
     "https://www.munhwa.com/article/11632948",
@@ -1976,11 +1978,11 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719475",
     "https://sports.khan.co.kr/article/202611222200006?pt=nv",
     "https://www.econovill.com/news/articleView.html?idxno=758091",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=95083"
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=95083",
+    "https://www.eroun.net/news/articleView.html?idxno=96181",
+    "https://www.wikitree.co.kr/articles/1176765"
    ],
    "seen_titles": [
-    "[공식발표]'이정현→유기상OUT'아시안게임금메달리스트단4명만합류...",
-    "코스피·코스닥주요공시(20일)",
     "[화보]2026KBL신인선수드래프트1라운드지명화보",
     "SKT,AI로돌아보는2026년…T팩토리성수서체험전시",
     "[KBL드래프트]‘역대3번째형제동반지명’탄생!KCC이관우부터K...",
@@ -3478,10 +3480,12 @@
     "이대통령울산방문…AI데이터센터현장점검",
     "집토끼다잡았다SSG,초고속사수",
     "[바이오브리프]유한양행·한미약품·SK바이오팜·차병원",
-    "[뉴욕증시주간전망]'AI급락'뒤추수감사절주간…25일PCE·델실적이..."
+    "[뉴욕증시주간전망]'AI급락'뒤추수감사절주간…25일PCE·델실적이...",
+    "SK텔레콤,무신사와손잡고에어요금제특가…최대11만원쇼핑혜택",
+    "SK하이닉스도삼성전기도아니다…개미들이가장많이산'국내주식'"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T22:25:20.006577+09:00"
+   "last_run": "2026-11-22T22:30:34.284038+09:00"
   }
  },
  "press_names": {
