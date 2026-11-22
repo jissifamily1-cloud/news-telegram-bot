@@ -550,13 +550,21 @@
     [
      "2026-11-22T17:35:20.984214+09:00",
      "수준 4800선 회귀 털썩 코스피 1월"
+    ],
+    [
+     "2026-11-22T17:40:30.883213+09:00",
+     "금융사 AI쇼핑비서 맞댄다 머리 실수할라"
+    ],
+    [
+     "2026-11-22T17:40:30.883213+09:00",
+     "기로에 파열음 K반도체 AI신화"
+    ],
+    [
+     "2026-11-22T17:40:30.883213+09:00",
+     "불가피 상승 D램값 막히면 급랭 내년 데이터센터 전망에도"
     ]
    ],
    "seen_urls": [
-    "http://www.srtimes.kr/news/articleView.html?idxno=218253",
-    "https://www.mt.co.kr/living/2026/11/20/2026112016053257249",
-    "https://www.edaily.co.kr/News/Read?newsId=04047526645647688&mediaCodeNo=257",
-    "https://www.news1.kr/photos/8225672",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=885687",
     "https://www.asiatime.co.kr/article/20261120500370",
     "https://www.mk.co.kr/article/12214859",
@@ -2052,13 +2060,13 @@
     "https://www.hankyung.com/article/2026112224437",
     "https://www.ntoday.co.kr/news/articleView.html?idxno=131051",
     "https://www.mk.co.kr/article/12215673",
-    "https://www.incheonilbo.com/news/articleView.html?idxno=1337452"
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1337452",
+    "https://www.mk.co.kr/article/12215685",
+    "https://www.mk.co.kr/article/12215693",
+    "https://www.mk.co.kr/article/12215703",
+    "https://www.mk.co.kr/article/12215688"
    ],
    "seen_titles": [
-    "SK증권,AI조건검색·차트분석서비스오픈",
-    "SKhynixWeighsKioxiaBondConversion",
-    "SK하이닉스,日키옥시아CB→주식…지분14.1%확보",
-    "[ETF시황]폭락장에인버스2조거래…반도체ETF19%급락",
     "[오늘의특징주]SK텔레콤·글로벌텍스프리·한진칼",
     "화이트보물트리점등식참석한김대현차관과이부진위원장,정재헌...",
     "SK하이닉스,日키옥시아지분14.1%간접확보",
@@ -3554,10 +3562,14 @@
     "글로벌반도체급락에'블랙먼데이'우려…정부,긴급F4회의소집",
     "\"공매도제한카드나올까\"...'검은월요일'공포에정부긴급F4회의",
     "로봇이집앞까지택배배송…세종'미래도시1호'",
-    "코스피4800선'털썩'…올1월수준회귀"
+    "코스피4800선'털썩'…올1월수준회귀",
+    "美증시투매에코스피도'벌벌'…\"월요일이두렵다\"",
+    "\"AI쇼핑비서실수할라\"금융사머리맞댄다",
+    "AI신화'파열음'…기로에선K반도체",
+    "D램값내년상승전망에도…데이터센터막히면급랭불가피"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T17:35:20.984214+09:00"
+   "last_run": "2026-11-22T17:40:30.883213+09:00"
   }
  },
  "press_names": {
