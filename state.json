@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-22T23:10:27.654279+09:00",
-     "크래프톤엔 환호 넥써쓰 펄어비스엔 박수"
-    ],
-    [
      "2026-11-22T23:40:25.932038+09:00",
      "몰락이 젠슨 질문 던지는 황의"
     ],
@@ -218,10 +214,13 @@
     [
      "2026-11-23T05:10:26.191718+09:00",
      "가동 증안펀드 매입 될까 자사주 완화까지 계기 반등 증권주 준비에"
+    ],
+    [
+     "2026-11-23T05:15:26.116225+09:00",
+     "기부금 대기업 줄어든"
     ]
    ],
    "seen_urls": [
-    "https://www.theguru.co.kr/news/article.html?no=109901",
     "https://www.junggi.co.kr/news/articleView.html?idxno=38582",
     "https://www.g-enews.com/view.php?ud=202611190838536898906806b77b_1",
     "https://www.cbci.co.kr/news/articleView.html?idxno=629231",
@@ -1720,10 +1719,10 @@
     "https://www.mt.co.kr/tech/2026/11/23/2026111515213788758",
     "https://www.seoul.co.kr/news/peoples/2026/11/23/20261123023007?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/economy/industry/2026/11/23/20261123031001?wlog_tag3=naver",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506780"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506780",
+    "https://www.seoul.co.kr/news/editOpinion/weft-column/2026/11/23/20261123027005?wlog_tag3=naver"
    ],
    "seen_titles": [
-    "코스피,5%대하락마감...또5000선붕괴",
     "27명에서끝나지않았다!4라운드서연달아터진환호성...소노·LG·삼성...",
     "면접앞두고'삼성·SK추천?'반도체실장내정논란",
     "KT,이동근1순위지명…AG금메달리스트모두프로행",
@@ -3222,10 +3221,11 @@
     "[알림]'AI인프라'포럼12월8일개최…\"무료사전등록하세요\"",
     "최태원“AI네이티브사회의해법은교육”",
     "5개그룹사장승진자77%이공계…‘기술통·70년대생’전면에",
-    "증안펀드가동준비에자사주매입완화까지…증권주반등계기될까"
+    "증안펀드가동준비에자사주매입완화까지…증권주반등계기될까",
+    "[씨줄날줄]줄어든대기업기부금"
    ],
    "initialized": true,
-   "last_run": "2026-11-23T05:10:26.191718+09:00"
+   "last_run": "2026-11-23T05:15:26.116225+09:00"
   }
  },
  "press_names": {
