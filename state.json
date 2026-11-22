@@ -482,10 +482,13 @@
     [
      "2026-11-22T21:25:20.193590+09:00",
      "전문인재 키운다 울산대 소재 비철금속"
+    ],
+    [
+     "2026-11-22T22:15:35.358338+09:00",
+     "유한양행 차병원 SK바이오팜 한미약품"
     ]
    ],
    "seen_urls": [
-    "https://econotimes.com/Anthropic-IPO-fails-to-lift-market-mood-as-tech-selloff-spreads-1780174",
     "https://www.ytn.co.kr/_ln/0115_202611201920170897",
     "https://www.newsis.com/view/NISX20261120_0003877418",
     "https://www.sportsworldi.com/newsView/20261120514616",
@@ -1984,10 +1987,10 @@
     "https://www.jemin.com/news/articleView.html?idxno=848100",
     "https://www.segye.com/newsView/20261122508637?OutUrl=naver",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719475",
-    "https://sports.khan.co.kr/article/202611222200006?pt=nv"
+    "https://sports.khan.co.kr/article/202611222200006?pt=nv",
+    "https://www.econovill.com/news/articleView.html?idxno=758091"
    ],
    "seen_titles": [
-    "[더나은미래경제브리핑]코스피5%대급락에4900선밑으로‘10개월만...",
     "미국발삭풍에약세마감...코스피,4,900선도붕괴",
     "[공식발표]'이정현→유기상OUT'아시안게임금메달리스트단4명만합류...",
     "코스피·코스닥주요공시(20일)",
@@ -3486,10 +3489,11 @@
     "무디스,내년한국반도체호황지속전망…삼성·SK실적성장기대",
     "‘이정효매직’또통했다…수원삼성,명가재건신호탄",
     "이대통령울산방문…AI데이터센터현장점검",
-    "집토끼다잡았다SSG,초고속사수"
+    "집토끼다잡았다SSG,초고속사수",
+    "[바이오브리프]유한양행·한미약품·SK바이오팜·차병원"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T22:10:31.345647+09:00"
+   "last_run": "2026-11-22T22:15:35.358338+09:00"
   }
  },
  "press_names": {
