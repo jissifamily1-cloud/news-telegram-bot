@@ -377,11 +377,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2650988",
-    "https://www.koreatimes.co.kr/path/A2026112010220000555",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4445777",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=239857",
-    "https://basketkorea.com/news/newsview.php?ncode=1065592524298510",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611200081&t=NN",
     "https://www.ntoday.co.kr/news/articleView.html?idxno=131015",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=731771",
@@ -1876,14 +1871,14 @@
     "https://www.etnews.com/20261122000044",
     "https://biz.newdaily.co.kr/site/data/html/2026/11/22/2026112250028.html",
     "https://www.goodmorningcc.com/news/articleView.html?idxno=456271",
-    "https://biz.sbs.co.kr/article_hub/20000347993?division=NAVER"
+    "https://biz.sbs.co.kr/article_hub/20000347993?division=NAVER",
+    "https://biz.heraldcorp.com/article/10944951",
+    "http://www.segyebiz.com/newsView/20261122503176?OutUrl=naver",
+    "https://www.dailian.co.kr/news/view/1718071/?sc=Naver",
+    "https://www.mt.co.kr/tech/2026/11/22/2026112209300169702",
+    "https://www.news1.kr/industry/company/6361814"
    ],
    "seen_titles": [
-    "SKhynixConsidersConvertingKioxiaBondstoStrengthenShareholder",
-    "日소프트뱅크,장중16%폭락…아시아증시'폭탄'맞았다",
-    "전남광주반도체지원실장에삼성·SK출신거론…공모무용론논란",
-    "ADT캡스캡스홈,온디바이스AI로모바일홈보안혁신",
-    "SKT,T팩토리성수서AI로한해추억돌아보는연말전시",
     "韓·日·대만증시5~7%동반급락⋯아시아덮친‘검은금요일’",
     "충남대,'캠퍼스특허유니버시아드'서장관상등수상",
     "SK하이닉스,키옥시아투자CB주식전환검토…간접지배력강화",
@@ -3378,10 +3373,15 @@
     "최태원SK그룹회장,“AI시대인재,대학과기업이함께키워야”",
     "미국發'반도체대폭락'韓닥치면4000중반까지…'블랙먼데이'땐증...",
     "충북교육가족3000명이함께달린'포[4]유마라톤'성료",
-    "삼성·LG·SKCEO안바꿨다…올해‘물갈이인사’사라진이유"
+    "삼성·LG·SKCEO안바꿨다…올해‘물갈이인사’사라진이유",
+    "1월로역주행한코스피…시총‘1조클럽’26개가사라졌다",
+    "최태원“한일기업·대학,AI인재함께키워일자리까지잇자”",
+    "SKT에어,무신사‘무진장’첫참여…월6900원부터5G특가",
+    "SKT가'무신사블프'에떴다…에어할인판매에폴더블보스턴백까지",
+    "최태원\"AI시대,대학교육재설계해야\"…한일인재공동육성제안"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T09:50:28.249230+09:00"
+   "last_run": "2026-11-22T09:55:18.739481+09:00"
   }
  },
  "press_names": {
