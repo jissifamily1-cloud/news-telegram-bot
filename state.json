@@ -265,8 +265,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.tjb.co.kr/news05/bodo/view/id/106332",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=8652",
     "https://www.ziksir.com/news/articleView.html?idxno=154153",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=885608",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=626620",
@@ -1764,11 +1762,11 @@
     "https://www.straightnews.co.kr/news/articleView.html?idxno=315891",
     "https://it.chosun.com/news/articleView.html?idxno=3000000001559",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=92439",
-    "http://www.econonews.co.kr/news/articleView.html?idxno=447512"
+    "http://www.econonews.co.kr/news/articleView.html?idxno=447512",
+    "http://www.popcornnews.net/news/articleView.html?idxno=140999",
+    "https://www.dt.co.kr/article/12096446"
    ],
    "seen_titles": [
-    "청주시의회'청주반도체클러스터유치'건의",
-    "아시아증시,뉴욕발충격에줄줄이급락…코스피4900선",
     "코스피이어코스닥도매도사이드카…삼성전자·SK하이닉스동반급락",
     "“올해산타랠리기대접어야하나?”…코스피4.73%폭락,4900선붕괴",
     "[분석]외국인공매도하루1조…개미\"한시금지\"아우성",
@@ -3266,10 +3264,12 @@
     "대기업영업익3.3배뛰었는데기부금은뒷걸음…250곳중155곳줄여",
     "손정의,한때SK하이닉스1조달러인수검토",
     "대기업영업이익234%급증에도기부금은2%감소…실적과사회공헌'...",
-    "SKT에어,무신사'무진장'참여…통신요금할인"
+    "SKT에어,무신사'무진장'참여…통신요금할인",
+    "\"패션플랫폼으로간통신사\"…SKT'에어',무신사블프행사서요금제...",
+    "최태원“AI방향이끌인재키워야…새거버넌스필요”"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T08:55:18.933607+09:00"
+   "last_run": "2026-11-22T09:00:44.488111+09:00"
   }
  },
  "press_names": {
