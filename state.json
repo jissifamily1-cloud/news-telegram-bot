@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-22T04:45:25.707373+09:00",
-     "상무부 USTR 규제 경고 잇단 부대표 디지털 한국 정보기술업계"
-    ],
-    [
      "2026-11-22T05:00:39.165254+09:00",
      "반도체 최도연 아닌 가치 SK증권 성장주 센터장"
     ],
@@ -434,16 +430,13 @@
     [
      "2026-11-22T10:40:25.240171+09:00",
      "돌아가 코스피 1조 1월로 클럽 감소 4800선인데"
+    ],
+    [
+     "2026-11-22T10:50:33.274705+09:00",
+     "ALB 한국법률대상 부문 세종 6개 수상"
     ]
    ],
    "seen_urls": [
-    "https://www.slist.kr/news/articleView.html?idxno=783490",
-    "http://www.newskr.kr/news/articleView.html?idxno=108186",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1427464",
-    "https://www.ytn.co.kr/_ln/0102_202611201540461386",
-    "https://www.seoul.co.kr/news/economy/securities/2026/11/20/20261120500227?wlog_tag3=naver",
-    "https://en.yna.co.kr/view/AEN20261120006700320?input=2106m",
-    "https://www.viva100.com/article/20261120500774",
     "https://www.job-post.co.kr/news/articleView.html?idxno=239929",
     "http://www.newscape.co.kr/news/articleView.html?idxno=125988",
     "https://www.newsis.com/view/NISI20261120_0021540539",
@@ -1936,16 +1929,16 @@
     "https://www.slist.kr/news/articleView.html?idxno=783773",
     "https://www.newspim.com/news/view/20261122000038",
     "https://www.segye.com/newsView/20261122503983?OutUrl=naver",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000085258"
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000085258",
+    "https://www.sentv.co.kr/article/view/sentv202611220006",
+    "http://www.yonhapnewstv.co.kr/news/AKR20261122104759UtF",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611220025&t=NN",
+    "https://www.newspim.com/news/view/20261122000037",
+    "https://view.asiae.co.kr/article/2026112210462612495",
+    "http://www.yonhapnewstv.co.kr/news/AKR20261122104437rwU",
+    "https://www.ajunews.com/view/20261122095025332"
    ],
    "seen_titles": [
-    "포스코,계열사내부거래22조3000억원…비중줄었지만높은의존도지...",
-    "[이슈플러스]앤트로픽에베팅한SKT…지분가치'15배잭팟'",
-    "백제금동대향로가크리스마스트리에…성수동서'K-보물길'첫선",
-    "마이크론(MU),고점서42%날아갔는데PER4배",
-    "코스피5,000선붕괴…삼전·하이닉스6%대털렸다",
-    "ESS로활로찾은K배터리..공장가동률회복세접어들어",
-    "[농구]이정현·허훈등5명대표팀제외…양준석·강성욱발탁",
     "앤트로픽상장에SKT'5조잭팟'…삼전닉스도'수요확대'반색",
     "온디바이스AI무장한ADT캡스'캡스홈',모바일기술대상3관왕수상",
     "대만6.23%,코스피5.2%,일본4.7%급락...아시아주요증시,'블랙프라...",
@@ -3438,10 +3431,17 @@
     "'전천후투수'문승원,2+1년총액15억원에SSG잔류",
     "[프로야구]'SSG원클럽맨'문승원,2+1년총액15억원FA계약",
     "코스피급락에금융위기급공포확산…증권가‘4300~4700선’저점주목",
-    "앤트로픽상장첫날서학개미2190억매수…스페이스X의5분의1"
+    "앤트로픽상장첫날서학개미2190억매수…스페이스X의5분의1",
+    "“메모리슈퍼사이클”…삼전닉스,3분기누적현금배당성향상승",
+    "삼전닉스,3분기배당성향'껑충'…하이닉스상반기대비21배",
+    "\"코스피바닥은4300\"…'닉스시총역전'경고했던전문가분석보니",
+    "최태원\"한일기업·대학,AI인재함께키우자\"…취업연계제안",
+    "실적뛰었는데기부는줄었다…대기업62%기부금감축",
+    "서학개미,앤트로픽상장첫날2,190억원매수…스페이스X의5분의1",
+    "[로펌라운지]세종,'2026ALB한국법률대상'총6개부문수상"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T10:45:23.893629+09:00"
+   "last_run": "2026-11-22T10:50:33.274705+09:00"
   }
  },
  "press_names": {
