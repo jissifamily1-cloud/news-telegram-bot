@@ -517,7 +517,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=54984",
     "https://econotimes.com/Anthropic-IPO-fails-to-lift-market-mood-as-tech-selloff-spreads-1780174",
     "https://www.ytn.co.kr/_ln/0115_202611201920170897",
     "https://www.newsis.com/view/NISX20261120_0003877418",
@@ -2016,10 +2015,10 @@
     "https://www.peoplewatch.co.kr/article/view/ppw202611220002",
     "https://www.jemin.com/news/articleView.html?idxno=848100",
     "https://www.segye.com/newsView/20261122508637?OutUrl=naver",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719475"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719475",
+    "https://sports.khan.co.kr/article/202611222200006?pt=nv"
    ],
    "seen_titles": [
-    "형따라시작한축구,어느덧K리그100경기금자탑!…김천상무홍윤상...",
     "[더나은미래경제브리핑]코스피5%대급락에4900선밑으로‘10개월만...",
     "미국발삭풍에약세마감...코스피,4,900선도붕괴",
     "[공식발표]'이정현→유기상OUT'아시안게임금메달리스트단4명만합류...",
@@ -3518,10 +3517,11 @@
     "18년만에꺼내든증안펀드…'블랙먼데이'구원투수될까?",
     "무디스,내년한국반도체호황지속전망…삼성·SK실적성장기대",
     "‘이정효매직’또통했다…수원삼성,명가재건신호탄",
-    "이대통령울산방문…AI데이터센터현장점검"
+    "이대통령울산방문…AI데이터센터현장점검",
+    "집토끼다잡았다SSG,초고속사수"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T22:00:37.918619+09:00"
+   "last_run": "2026-11-22T22:05:19.755863+09:00"
   }
  },
  "press_names": {
