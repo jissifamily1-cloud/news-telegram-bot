@@ -461,10 +461,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.wikileaks-kr.org/news/articleView.html?idxno=194991",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506471",
-    "https://www.tokenpost.kr/news/breaking/441451",
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717113",
     "https://www.seoul.co.kr/news/economy/industry/2026/11/20/20261120500272?wlog_tag3=naver",
     "http://www.inews24.com/view/2028756",
     "https://www.moneystorm.kr/news/articleView.html?idxno=8685",
@@ -1960,13 +1956,13 @@
     "https://biz.newdaily.co.kr/site/data/html/2026/11/22/2026112250076.html",
     "https://www.asiatime.co.kr/article/20261122500071",
     "https://zdnet.co.kr/view/?no=20261122143759",
-    "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=56075"
+    "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=56075",
+    "https://www.ccdn.co.kr/news/articleView.html?idxno=1112554",
+    "https://www.ccdn.co.kr/news/articleView.html?idxno=1112549",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000085312",
+    "https://www.busan.com/view/busan/view.php?code=2026112214434695081"
    ],
    "seen_titles": [
-    "'검은금요일'코스피,美반도체악재·外人매도에'4800선추락'…코...",
-    "'AI쇼크'에4800선까지밀린코스피…10개월만에'최저'",
-    "코스피4900선무너진'검은금요일'…양시장매도사이드카[MTN마감시...",
-    "SK하이닉스,日키옥시아투자법인전환사채주식전환…지분14.1%보유",
     "'이정도면바닥아니냐?'...삼전닉스급락한날개미들'줍줍'",
     "코스피는사실상반도체지수…AI와거리두기해야",
     "1.4조붓는SK하이닉스의소부장기술혁신지원…'양산·수익성'에따라...",
@@ -3462,10 +3458,14 @@
     "미국發증시폭락우려에정부긴급F4소집…국내안정대책논의",
     "공정자동화부터AI도입까지…LG·삼성·SK,협력사'상생3사3색'",
     "[ZD브리핑]삼성,임원인사·조직개편발표예정...국회서AI글래스악용...",
-    "AI-반도체산업의구조적취약성이노출되고있다(上)AI주가폭락;문..."
+    "AI-반도체산업의구조적취약성이노출되고있다(上)AI주가폭락;문...",
+    "충남보령시,'함박민화전람회:민화로행복을함박드림展'개최",
+    "남서울대,탄소중립실천우수기관선정…지역사회기후행동확산성과...",
+    "삼성전자·SK하이닉스추천인사도공개모집참여…전남광주시,반도체...",
+    "영업이익3배늘린대기업,기부금은되레줄였다"
    ],
    "initialized": true,
-   "last_run": "2026-11-22T14:45:24.612741+09:00"
+   "last_run": "2026-11-22T14:50:25.438267+09:00"
   }
  },
  "press_names": {
