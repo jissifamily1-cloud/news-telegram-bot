@@ -293,7 +293,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261123_0003879084",
     "https://www.yna.co.kr/view/AKR20261123078200008?input=1195m",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=269037",
     "http://tbs.seoul.kr/news/newsView.do?typ_800=1&idx_800=3538826&seq_800=20531727",
@@ -1792,10 +1791,10 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=629969",
     "https://www.fnnews.com/news/202611232217569961",
     "https://www.newsis.com/view/NISX20261123_0003879724",
-    "https://www.news1.kr/society/general-society/6363059"
+    "https://www.news1.kr/society/general-society/6363059",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=173436"
    ],
    "seen_titles": [
-    "[단독]SK,연말3000억회사채발행추진…올해조달액1조육박[fn마켓...",
     "코스피,낙폭키워장중4600선'털썩'…코스닥도연저점",
     "코스피4%대하락4,600대등락…코스닥장중연저점깨져(종합)",
     "최태원회장\"한일대학·기업,AI인재공동육성해야\"",
@@ -3294,10 +3293,11 @@
     "[반도체사랑]상반기2.4조몰리던ETF순매수액10분의1토막…노후자...",
     "\"삼성전자30만원에물렸다면3년각오\"…40년슈퍼개미의경고",
     "이용철법무장관후보,'李공소취소'입장이번엔밝힐까…오늘청문회",
-    "\"주식·코인반토막난분,커트비반값만\"…위로이벤트나선동네미용..."
+    "\"주식·코인반토막난분,커트비반값만\"…위로이벤트나선동네미용...",
+    "미국증시마감60분前..3대지수·엔비디아·반도체ETF'폭등',양대호재..."
    ],
    "initialized": true,
-   "last_run": "2026-11-24T05:35:29.742995+09:00"
+   "last_run": "2026-11-24T05:40:28.017751+09:00"
   }
  },
  "press_names": {
