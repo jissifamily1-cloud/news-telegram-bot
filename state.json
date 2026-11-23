@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-23T23:20:29.499559+09:00",
-     "코스피 마감 개인 하락 매도세에 턱걸이 외인 4700선"
-    ],
-    [
      "2026-11-23T23:21:52.928270+09:00",
      "Jensen Huang reinstates as exit after scandal driven Nvidia CEO"
     ],
@@ -270,10 +266,13 @@
     [
      "2026-11-24T05:15:27.895024+09:00",
      "거품론에 샀는데 믿고 주식 정부 타는 개미들"
+    ],
+    [
+     "2026-11-24T05:20:40.476901+09:00",
+     "미래 유임 수장 연속성 리더 재계 택한 전진 경영"
     ]
    ],
    "seen_urls": [
-    "https://www.sedaily.com/article/20117673",
     "http://www.inews24.com/view/2029162",
     "https://www.news1.kr/finance/market-exr/6362675",
     "http://www.wsobi.com/news/articleView.html?idxno=322309",
@@ -1772,10 +1771,10 @@
     "https://www.news1.kr/realestate/general/6363089",
     "https://www.mediapen.com/news/view/1139439",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507255",
-    "https://www.busan.com/view/busan/view.php?code=2026112317514995926"
+    "https://www.busan.com/view/busan/view.php?code=2026112317514995926",
+    "https://www.news2day.co.kr/article/20261123500296"
    ],
    "seen_titles": [
-    "“연봉6년치증발”“증권사앱지웠다”…코스피4700선무너지자개...",
     "마이리얼트립자회사AICX,최은경COO영입…기업고객확대",
     "'반토막'코스피⋯반등열쇠'4대선결과제해소'",
     "'외국인순매도'코스피4%가까이약세…코스닥연저점붕괴[장중시황...",
@@ -3274,10 +3273,11 @@
     "서울새전세중간값6억돌파…중저가43%급감에'전세절벽'",
     "[美증시특징주]반도체,젠슨황복귀에'빅뱅'…SK하이닉스·마이크론...",
     "어플라이드머티어리얼즈·램리서치13%급등…원익IPS·주성엔지니어링...",
-    "[사설]정부믿고주식샀는데…AI거품론에속타는개미들"
+    "[사설]정부믿고주식샀는데…AI거품론에속타는개미들",
+    "[N2포커스]'경영연속성'택한재계…수장유임속미래리더전진배..."
    ],
    "initialized": true,
-   "last_run": "2026-11-24T05:15:27.895024+09:00"
+   "last_run": "2026-11-24T05:20:40.476901+09:00"
   }
  },
  "press_names": {
