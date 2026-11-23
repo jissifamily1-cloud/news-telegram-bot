@@ -454,17 +454,17 @@
     [
      "2026-11-24T07:20:36.102530+09:00",
      "최태원의 탐낸 손정의도 베팅 SK하이닉스 14년 3조원"
+    ],
+    [
+     "2026-11-24T07:25:20.034821+09:00",
+     "데이터센터 대세 전력설비 수직통합 구축 칩생산"
+    ],
+    [
+     "2026-11-24T07:25:20.034821+09:00",
+     "이주연 지원을 실질 입학생부터 반도체고 의원 용인시의회"
     ]
    ],
    "seen_urls": [
-    "http://www.nongaek.com/news/articleView.html?idxno=97578",
-    "https://gg.newdaily.co.kr/site/data/html/2026/11/23/2026112350193.html",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=302522",
-    "http://www.kjdaily.com/article.php?aid=1795405751693186276",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1732672",
-    "https://www.vegannews.co.kr/news/article.html?no=409811",
-    "https://www.safetimes.co.kr/news/articleView.html?idxno=247805",
-    "https://www.kyosu.net/news/articleView.html?idxno=212754",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=370345",
     "https://www.thepublic.kr/news/articleView.html?idxno=327980",
     "https://www.cwn.kr/news/articleView.html?idxno=62380",
@@ -1956,17 +1956,17 @@
     "https://www.seoul.co.kr/news/economy/securities/2026/11/24/20261124500009?wlog_tag3=naver",
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435879",
     "https://www.etnews.com/20261124000017",
-    "https://www.newsway.co.kr/news/view?ud=2026112311124996056"
+    "https://www.newsway.co.kr/news/view?ud=2026112311124996056",
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065564571344538",
+    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005968662",
+    "https://www.tfmedia.co.kr/news/article.html?no=209160",
+    "http://www.queen.co.kr/news/articleView.html?idxno=466798",
+    "https://www.gametoc.co.kr/news/articleView.html?idxno=113354",
+    "https://www.fnnews.com/news/202611240713332201",
+    "https://view.asiae.co.kr/article/2026112315440501810",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=68286"
    ],
    "seen_titles": [
-    "반도체수출폭증에도삼전닉스추락의'역설'…도대체,원인은?",
-    "반도체호황에두둑해진지자체곳간…화성·평택·용인등미래투자...",
-    "코스피매도사이드카...네이버주가8%대급락하기도",
-    "삼성전자·SK하이닉스4조원대거래…전거래일대비36.6%증가",
-    "코스피4500대까지밀렸다…\"증안펀드가동준비,추가비상대책도\"",
-    "[특징주]SK바이오팜7%하락…세노바메이트연구10건발표",
-    "대구어르신들,AI로보이스피싱막는다",
-    "부산대-SKAX,AI인재함께양성한다",
     "롯데관광개발,10월카지노실적최고치…중국관광객유치기대",
     "롯데관광개발,카지노최고실적…내년영업익2155억원기대",
     "코스피·삼성전자,'AI불신도미노'에급락...연초수준붕괴",
@@ -3458,10 +3458,18 @@
     "3개월만에주식창연아이돌‘동공지진’…“30주추가매수”[내가샀...",
     "젠슨황복귀에뉴욕증시3대지수급등…나스닥6%넘게상승",
     "젠슨황복귀에엔비디아31%폭등…美,'메가스피드제재·상원공개청...",
-    "손정의도탐낸SK하이닉스…14년전최태원의3조원베팅[NW리포트]"
+    "손정의도탐낸SK하이닉스…14년전최태원의3조원베팅[NW리포트]",
+    "'젠슨황복귀'나스닥6.51%↑…엔비디아31.48%급등에반도체패닉진...",
+    "증시오늘'핫이슈'…\"닷컴버블패턴?아니면2018년증시급락?\"",
+    "젠슨황복귀에나스닥장중7%대급등…엔비디아30%대↑",
+    "서울신규전세중간값6억돌파…중저가43%급감에'전세절벽'",
+    "젠슨황복귀에미증시폭발…엔비디아31%↑-반도체지수14%급등",
+    "美반도체관련주,젠슨황복귀에급상승...SK하닉20%↑",
+    "\"칩생산·데이터센터·전력설비구축'수직통합'이대세\"[K-INVESTORS]",
+    "용인시의회이주연의원\"반도체고첫입학생부터실질지원을\""
    ],
    "initialized": true,
-   "last_run": "2026-11-24T07:20:36.102530+09:00"
+   "last_run": "2026-11-24T07:25:20.034821+09:00"
   }
  },
  "press_names": {
