@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-23T18:10:26.098501+09:00",
-     "한국이 영토 넓혔다 벌고 시대 최전선 수출강국의 기술로"
-    ],
-    [
-     "2026-11-23T18:10:26.098501+09:00",
-     "탐낸 20년치 메모리 클릭 확보 물량 빅테크 e산 하이닉스 손정의도 나선"
-    ],
-    [
      "2026-11-23T18:15:27.099545+09:00",
      "보완 요구 용인반도체고 지원책 입학생 용인시의회"
     ],
@@ -406,13 +398,17 @@
     [
      "2026-11-24T00:05:32.525584+09:00",
      "학력 없앴다 기회 지원 확대 SK하이닉스 제한 채용 1만6000명"
+    ],
+    [
+     "2026-11-24T00:10:29.327289+09:00",
+     "기사회생 복귀에 엔비디아 증시 나스닥 젠슨황"
+    ],
+    [
+     "2026-11-24T00:10:29.327289+09:00",
+     "뒷걸 8개월 폭락에 장중 철렁 주가로 가슴"
     ]
    ],
    "seen_urls": [
-    "http://www.ttlnews.com/news/articleView.html?idxno=3165071",
-    "https://www.seoul.co.kr/news/economy/securities/2026/11/23/20261123500070?wlog_tag3=naver",
-    "https://theviewers.co.kr/View.aspx?No=4324435",
-    "https://www.seoulfn.com/news/articleView.html?idxno=643607",
     "https://www.joongang.co.kr/article/25480999",
     "https://www.ddaily.co.kr/page/view/2026112309313375418",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086467",
@@ -1908,13 +1904,13 @@
     "https://www.ajunews.com/view/20261123154618669",
     "https://www.joongang.co.kr/article/25481241",
     "https://www.newsis.com/view/NISX20261123_0003879446",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1194268"
+    "https://www.ggilbo.com/news/articleView.html?idxno=1194268",
+    "https://www.xportsnews.com/article/2222187",
+    "https://www.mk.co.kr/article/12216653",
+    "https://www.hankyung.com/article/202611235365i",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=629953"
    ],
    "seen_titles": [
-    "SK바이오팜,세노바메이트환자군·발작유형연구확대",
-    "중흥토건·SK에코플랜트,'송암공원중흥S-클래스SKVIEW'선착순계약...",
-    "“하이닉스팔아라”예언했던증권사가또?“105만원간다”이번에도...",
-    "영주첨단베어링국가산단조성속도…배후주거단지공급도이어져",
     "[제약브리핑]지씨셀,'2026년도제2차국가신약개발사업'최종선정외",
     "2000년닷컴버블닮은AI기술주폭락...WSJ“한국도과열”",
     "최태원회장\"AI네이티브사회맞춰교육전면재설계해야…한·일산...",
@@ -3410,10 +3406,14 @@
     "[K관광新풍경]①찜질방가고편의점라면먹고…'한국인처럼'여행하...",
     "메모리값급등에…계약끝난AI서버가격도재협상",
     "\"AI주급락에도삼전·닉스매수\"…美반도체투자자의선택",
-    "SK하이닉스,채용학력제한없앴다…1만6000명지원기회확대"
+    "SK하이닉스,채용학력제한없앴다…1만6000명지원기회확대",
+    "\"(구)승민이는아픈손가락이죠\"그래서더도와주고싶다…임경완코치...",
+    "'AI황제'깜짝귀환에美증시반색…엔비디아주가장초반30%급등",
+    "젠슨황복귀에美증시기사회생…엔비디아30%,나스닥6.7%↑",
+    "[삼전닉스동반하락]장중6%대폭락에가슴철렁…8개월전주가로뒷걸..."
    ],
    "initialized": true,
-   "last_run": "2026-11-24T00:05:32.525584+09:00"
+   "last_run": "2026-11-24T00:10:29.327289+09:00"
   }
  },
  "press_names": {
