@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-23T13:20:29.853269+09:00",
-     "장중 급락 앤트로픽 상장 SK텔레콤 하락세"
-    ],
-    [
      "2026-11-23T13:25:20.340304+09:00",
      "박창호 SG 중견기업인의 회장 아스콘 개발 산업포장 친환경 수상"
     ],
@@ -1381,9 +1377,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=2021748",
-    "https://www.ccdailynews.com/news/articleView.html?idxno=2452743",
-    "https://www.cnbizm.com/news/articleView.html?idxno=322285",
     "https://www.hankookilbo.com/news/article/A2026112308530004563?did=NA",
     "https://www.edaily.co.kr/News/Read?newsId=01744966645648672&mediaCodeNo=257",
     "https://it.chosun.com/news/articleView.html?idxno=3000000001590",
@@ -2880,12 +2873,12 @@
     "https://www.kyeonggi.com/article/20261123580569",
     "https://www.edaily.co.kr/News/Read?newsId=03568646645648672&mediaCodeNo=257",
     "https://www.dkilbo.com/news/articleView.html?idxno=561839",
-    "https://www.bzeronews.com/news/articleView.html?idxno=825708"
+    "https://www.bzeronews.com/news/articleView.html?idxno=825708",
+    "https://m.sports.naver.com/basketball/article/065/0000305169",
+    "https://www.ekn.kr/web/view.php?key=20261123022463555",
+    "https://www.mhns.co.kr/news/articleView.html?idxno=770368"
    ],
    "seen_titles": [
-    "서울창업허브,대·중견기업과스타트업협력성과공유",
-    "[기자수첩]사이드카59번,무뎌진경고음",
-    "풍요의역설:반도체호황과지역경제의불균등성장",
     "SK텔레콤에어,무신사'무진장'서특가…블프에통신요금도세일",
     "[속보]코스피개장직후3.8%급락…4600선으로",
     "송암공원중흥S클래스SK뷰,선착순동·호지정계약",
@@ -4382,10 +4375,13 @@
     "“300만닉스”외칠때하락경고한연구원…SK하이닉스또‘105만원’...",
     "해외IB들\"원화강세\"…반도체달러환전이환율향방갈라",
     "'증시·금리·물가'3중苦에허리띠졸라매는가계",
-    "김천상무11기선수7명전역…팬들과마지막인사"
+    "김천상무11기선수7명전역…팬들과마지막인사",
+    "[2026유스클럽드림컵]'2026KBL유스클럽드림컵IN제천'시상식현...",
+    "SK최태원,노소영에재산분할금9440억원전액지급의사…대법원에...",
+    "남부발전,미국발전사업확대…11개기관과협약"
    ],
    "initialized": true,
-   "last_run": "2026-11-23T19:15:27.121193+09:00"
+   "last_run": "2026-11-23T19:20:30.969336+09:00"
   }
  },
  "press_names": {
