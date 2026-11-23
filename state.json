@@ -574,11 +574,13 @@
     [
      "2026-11-23T23:10:29.949398+09:00",
      "버블 투매는 깨지나 섣불러 미니 4000피까지 터져"
+    ],
+    [
+     "2026-11-23T23:20:29.499559+09:00",
+     "코스피 마감 개인 하락 매도세에 턱걸이 외인 4700선"
     ]
    ],
    "seen_urls": [
-    "https://www.discoverynews.kr/news/articleView.html?idxno=1107532",
-    "https://www.sportschosun.com/baseball/2026-11-23/202611230100140460013111",
     "http://www.seouleconews.com/news/articleView.html?idxno=95178",
     "https://www.businesspost.co.kr/BP?command=article_view&num=452623",
     "http://www.kdfnews.com/news/articleView.html?idxno=191264",
@@ -2076,11 +2078,11 @@
     "https://www.goodkyung.com/news/articleView.html?idxno=293546",
     "https://www.sedaily.com/article/20118004",
     "https://www.kmib.co.kr/article/20261123501883",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=95232"
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=95232",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261123231506LD8",
+    "https://www.betanews.net/article/view/beta202611230149"
    ],
    "seen_titles": [
-    "코스피4700선후퇴...美AI쇼크에개미'팔까버틸까'",
-    "GKL지속가능경영보고서,글로벌평가서대상수상",
     "'10개구단중1등'내부FA3명벌써다잡았다!다음은초대형외부영...",
     "정부,국산AI반도체'협약넘어사업화'지원…글로벌판로확대",
     "메모리반도체주저평가는\"위험신호\"경고나와,삼성전자SK하이닉스...",
@@ -3578,10 +3580,12 @@
     "[2026서울석세스대상]인피닛블록,'2026서울석세스대상디지털자산...",
     "“더팔아도소용없다”반도체값10%만떨어져도‘이정도’라니…韓...",
     "4000피까지깨지나…“미니버블터져”“투매는섣불러”",
-    "[속보]젠슨황,11일만에엔비디아복귀…주가개장전31%↑"
+    "[속보]젠슨황,11일만에엔비디아복귀…주가개장전31%↑",
+    "최태원\"재산분할전액지급\"…대법에화해권고요청",
+    "코스피,개인·외인매도세에3%하락...4700선턱걸이마감"
    ],
    "initialized": true,
-   "last_run": "2026-11-23T23:15:29.127363+09:00"
+   "last_run": "2026-11-23T23:20:29.499559+09:00"
   }
  },
  "press_names": {
