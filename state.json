@@ -946,11 +946,13 @@
     [
      "2026-11-23T21:55:21.606307+09:00",
      "소진해 해지 중도 100억원 코메론 자사주 신탁"
+    ],
+    [
+     "2026-11-23T22:00:43.072944+09:00",
+     "승소 특허소송 확정 상대 PSK 램리서치 베벨에처"
     ]
    ],
    "seen_urls": [
-    "http://www.kbiznews.co.kr/news/articleView.html?idxno=115235",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=802937",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506935",
     "https://www.newsis.com/view/NISX20261123_0003878838",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=173416",
@@ -2448,11 +2450,11 @@
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232535",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1732732",
     "https://www.mk.co.kr/article/12216561",
-    "https://www.vegannews.co.kr/news/article.html?no=409997"
+    "https://www.vegannews.co.kr/news/article.html?no=409997",
+    "https://www.ppss.kr/news/articleView.html?idxno=322527",
+    "https://zdnet.co.kr/view/?no=20261123211641"
    ],
    "seen_titles": [
-    "[경제포커스]증시안정펀드,“준비착수”외쳤지만선뜻가동하기...",
-    "수능날날아든재난문자⋯'AI커닝'난제풀어낼모범답안은무엇인가",
     "[건설업계동향]SK에코플랜트ㆍ부영그룹ㆍ쌍용건설(11.23)",
     "[산업썰전]SK하이닉스현금114조쌓았지만투자계획은1100조…반도체...",
     "美전력망비용부담우려에AI데이터센터株'와르르'…삼성SDS16%↓",
@@ -3950,10 +3952,12 @@
     "공소청,노소영증인신문청구…'노태우비자금의혹'수사",
     "[EBN오늘(23일)이슈종합]최태원SK회장,재산분할금9440억원전액...",
     "닷컴버블반토막증시,회복에5년6개월걸려…개미들‘시간과의싸움...",
-    "코메론,100억원자사주신탁소진해중도해지"
+    "코메론,100억원자사주신탁소진해중도해지",
+    "최태원,대법원에화해권고요청…\"노소영에9,440억전액지급\"",
+    "PSK,램리서치상대베벨에처특허소송승소확정"
    ],
    "initialized": true,
-   "last_run": "2026-11-23T21:55:21.606307+09:00"
+   "last_run": "2026-11-23T22:00:43.072944+09:00"
   }
  },
  "press_names": {
