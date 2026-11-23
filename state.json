@@ -1218,12 +1218,13 @@
     [
      "2026-11-23T20:30:38.738865+09:00",
      "제시 애널리스트 185만닉스 목표가 이번엔 경고했던 105만원"
+    ],
+    [
+     "2026-11-23T20:45:25.961764+09:00",
+     "원료 울산 구조조정 중국산 석유화학업계 공세에 압박까지 이중고에"
     ]
    ],
    "seen_urls": [
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7195135",
-    "https://www.etoday.co.kr/news/view/2651566",
-    "https://www.newsis.com/view/NISX20261123_0003878801",
     "https://www.bizwork.co.kr/news/articleView.html?idxno=421051",
     "https://www.pointe.co.kr/news/articleView.html?idxno=88221",
     "http://www.economytalk.kr/news/articleView.html?idxno=425471",
@@ -2720,12 +2721,12 @@
     "https://www.newstnt.com/news/articleView.html?idxno=730049",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859616&plink=ORI&cooper=NAVER",
     "https://www.donga.com/news/Health/article/all/20261123/135077228/1",
-    "https://news.tvchosun.com/site/data/html_dir/2026/11/23/2026112390296.html"
+    "https://news.tvchosun.com/site/data/html_dir/2026/11/23/2026112390296.html",
+    "https://www.newsis.com/view/NISX20261123_0003880020",
+    "https://kjmbc.co.kr/NewsArticle/1546985",
+    "http://www.ujeil.com/news/articleView.html?idxno=395736"
    ],
    "seen_titles": [
-    "코스피4700선까지밀려…NH투자증권\"4000선초반까지추가하락할수도...",
-    "SK바이오팜,미국뇌전증학회서세노바메이트연구10건발표예정",
-    "[특징주]엔비디아14%·브로드컴12%급락여파…삼전닉스3~4%대약세",
     "설계검토도AI가…SK에코플랜트,'AXen'도입",
     "SK에코플랜트,설계특화AI플랫폼'엑센'운영",
     "SK텔레콤'에어',무신사'무진장'참여…5G요금제월6900원대특가",
@@ -4222,10 +4223,13 @@
     "[공시]11월24일,코스피상장사66개종목자사주매수신청",
     "최태원\"9,440억다내겠다\"…9년이어온소송끝내나",
     "SK바이오팜,美서세노바메이트신규연구10건발표…“환자·치료범위...",
-    "2440억다투던최태원,9440억전액지급의사…대법에화해권고요청"
+    "2440억다투던최태원,9440억전액지급의사…대법에화해권고요청",
+    "공소청,'노태우비자금'노소영에공판전증인신문청구…불출석전망",
+    "전남광주반도체포럼출범…삼성·SK반도체공장환영대회개최",
+    "중국산원료공세에구조조정압박까지…울산석유화학업계,이중고에..."
    ],
    "initialized": true,
-   "last_run": "2026-11-23T20:40:27.779076+09:00"
+   "last_run": "2026-11-23T20:45:25.961764+09:00"
   }
  },
  "press_names": {
