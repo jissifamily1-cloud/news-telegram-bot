@@ -614,18 +614,17 @@
     [
      "2026-11-24T08:25:20.467764+09:00",
      "한국 외교사무소 스위스 철수 평양 거론 김여정"
+    ],
+    [
+     "2026-11-24T08:30:34.803510+09:00",
+     "iM 국제유가 투심 악화 SK이노베이션 급락에 목표가"
+    ],
+    [
+     "2026-11-24T08:30:34.803510+09:00",
+     "회복 하나투어 본업 목표가 여행업 주주환원 주목 하향"
     ]
    ],
    "seen_urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=2022063",
-    "https://www.wikitree.co.kr/articles/1176987",
-    "https://www.asiatime.co.kr/article/20261123500312",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=8722",
-    "https://www.idomin.com/news/articleView.html?idxno=2020293",
-    "https://www.wikileaks-kr.org/news/articleView.html?idxno=195069",
-    "https://www.sidae.com/article/2026112313401865961",
-    "https://www.nocutnews.co.kr/news/6611081",
-    "https://www.s-journal.co.kr/news/articleView.html?idxno=45541",
     "https://www.sisaon.co.kr/news/articleView.html?idxno=206308",
     "https://www.mk.co.kr/article/12216090",
     "https://www.fnnews.com/news/202611231428448235",
@@ -2116,18 +2115,18 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4446141",
     "https://biz.heraldcorp.com/article/10946852",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=173444",
-    "http://kor.theasian.asia/archives/422866"
+    "http://kor.theasian.asia/archives/422866",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=305657",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3761041",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=68302",
+    "https://www.cstimes.com/news/articleView.html?idxno=729091",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16284512",
+    "https://www.sedaily.com/article/20118032",
+    "https://www.edaily.co.kr/News/Read?newsId=01908966645649000&mediaCodeNo=257",
+    "https://www.hankyung.com/article/2026112457406",
+    "https://www.edaily.co.kr/News/Read?newsId=01912246645649000&mediaCodeNo=257"
    ],
    "seen_titles": [
-    "美GPU빗장에…K-기업,동남아AIDC확장제동우려",
-    "이대통령이그때집판돈(29억)을ETF에투자했다면...현재얼마가됐...",
-    "국힘“‘이재명리딩방’주가조작사기극”…특검·국민연금장부공...",
-    "SK텔레콤,AI시대미래인재상조명…'상상·연결·지혜·개성'",
-    "LG세이커스,30일D리그첫경기예정",
-    "최태원SK회장,도쿄포럼서\"AI네이티브사회,교육·대학부터완전히...",
-    "올해마지막금통위26일열린다…증권가,추가금리인상무게",
-    "\"골든타임놓친다\"…김정관,석유화학업계에연내결단촉구",
-    "KB금융,7조원이익시대연다…불확실성속빛나는'금융대장주'",
     "GS건설,데이터센터구축기간단축위해4사협력[건설·분양오늘]",
     "Koreanchipequipmentstocksdefymarketslumpasearningsprospectsi",
     "코스피,4500선찍고4700선…개인·외국인여전히'팔자'[fn오후시황]",
@@ -3618,10 +3617,19 @@
     "실체없는공포…흔들린데이터센터투심안정될까",
     "SK키파운드리,美전력반도체기업MPS‘최우수공급사’선정",
     "\"반도체값10%하락땐한국수출4.3%감소\"",
-    "[동북아정세브리핑]김여정,스위스평양외교사무소철수거론…한국..."
+    "[동북아정세브리핑]김여정,스위스평양외교사무소철수거론…한국...",
+    "[굿모닝!글로벌뉴욕증시]엔비디아젠슨황CEO복귀소식과국제유가...",
+    "\"드디어빨간불\"삼성전자10%·SK하이닉스13%프리마켓급등",
+    "[증시전망대]'젠슨황복귀'에뉴욕증시폭등…코스피,반도체중심반...",
+    "뉴욕증시,'젠슨황귀환'에나스닥6.5%폭등",
+    "젠슨황CEO복귀에삼성전자·SK하이닉스급등",
+    "‘젠슨황’컴백에…삼성전자10%·SK하이닉스13%급등[마켓시그널]",
+    "젠슨황복귀에코스피도‘들썩’…삼전닉스두자릿수급등[특징주]",
+    "\"SK이노베이션,국제유가급락에투심악화…목표가↓\"-iM",
+    "하나투어,목표가34%하향…여행업본업회복·주주환원주목-SK"
    ],
    "initialized": true,
-   "last_run": "2026-11-24T08:25:20.467764+09:00"
+   "last_run": "2026-11-24T08:30:34.803510+09:00"
   }
  },
  "press_names": {
