@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-23T06:15:25.059158+09:00",
-     "엔비디아 발표하면 실적 삼전닉스 오른다고 주가"
-    ],
-    [
-     "2026-11-23T06:15:25.059158+09:00",
-     "200대 롯데정밀화학 유동비율 태광산업 기업"
-    ],
-    [
      "2026-11-23T06:25:19.991165+09:00",
      "전력저장장치 11월 1위 삼성SDI ESS 상장기업"
     ],
@@ -1202,12 +1194,13 @@
     [
      "2026-11-23T12:15:24.885187+09:00",
      "무너졌다 예고에도 증안펀드"
+    ],
+    [
+     "2026-11-23T12:20:25.078611+09:00",
+     "가른 이천 재정 곳간 격차 동두천 반도체가 뚜렷 경기"
     ]
    ],
    "seen_urls": [
-    "https://www.cbci.co.kr/news/articleView.html?idxno=629428",
-    "https://biz.chosun.com/stock/stock_general/2026/11/22/XTELQYELQVH3HOWW3XF3UDPH5U/",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=903930",
     "https://www.news1.kr/photos/8226612",
     "https://www.news1.kr/photos/8226611",
     "https://www.news1.kr/photos/8226613",
@@ -2704,12 +2697,12 @@
     "https://biz.newdaily.co.kr/site/data/html/2026/11/23/2026112350174.html",
     "https://www.munhwa.com/article/11633358",
     "https://www.news1.kr/finance/market-exr/6362782",
-    "https://www.munhwa.com/article/11633354"
+    "https://www.munhwa.com/article/11633354",
+    "http://www.kdfnews.com/news/articleView.html?idxno=191279",
+    "https://www.kmib.co.kr/article/20261123500427",
+    "https://www.ntoday.co.kr/news/articleView.html?idxno=131021"
    ],
    "seen_titles": [
-    "대기업영업익3배로늘었지만기부금2%줄어…SK하이닉스120억원↓",
-    "\"월요일이두렵다\"…美증시·코스피폭락에개미들'패닉',바닥은어디",
-    "11월22일하나원큐축구퀴즈정답…김천과맞붙는팀은?",
     "AI부정행위에대기업채용비상…인재선발방식바뀌나",
     "코스피·코스닥5%대급락충격이어뉴욕증시까지털썩…삼성전자·SK하...",
     "코스피4800선복귀…‘1조클럽’,1월보다11%감소",
@@ -4206,10 +4199,13 @@
     "코스피장중4600붕괴'매도사이드카'…'증안펀드'카드에도얼어붙...",
     "코스피장중5%폭락개미들‘멘붕’…18년만에증안펀드투입한다",
     "美반도체급락여파…코스피2거래일연속매도사이드카[장중시황]",
-    "증안펀드예고에도4600무너졌다"
+    "증안펀드예고에도4600무너졌다",
+    "SK에코플랜트,설계특화AI플랫폼'AXen'도입…업무자동화확대",
+    "[속보]5%대급락코스피4600선사수전…사이드카발동",
+    "반도체가가른경기곳간…이천55%·동두천12%,재정격차뚜렷"
    ],
    "initialized": true,
-   "last_run": "2026-11-23T12:15:24.885187+09:00"
+   "last_run": "2026-11-23T12:20:25.078611+09:00"
   }
  },
  "press_names": {
