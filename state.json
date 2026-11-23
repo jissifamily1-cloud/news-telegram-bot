@@ -1201,10 +1201,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/photos/8226612",
-    "https://www.news1.kr/photos/8226611",
-    "https://www.news1.kr/photos/8226613",
-    "https://www.newsis.com/view/NISX20261122_0003877962",
     "http://www.osen.co.kr/article/G1112913601",
     "https://www.mydaily.co.kr/page/view/2026112210033648391",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=768819",
@@ -2700,13 +2696,13 @@
     "https://www.munhwa.com/article/11633354",
     "http://www.kdfnews.com/news/articleView.html?idxno=191279",
     "https://www.kmib.co.kr/article/20261123500427",
-    "https://www.ntoday.co.kr/news/articleView.html?idxno=131021"
+    "https://www.ntoday.co.kr/news/articleView.html?idxno=131021",
+    "https://news.tf.co.kr/read/economy/2392151.htm",
+    "https://www.tokenpost.kr/news/breaking/442717",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=886067",
+    "https://www.ytn.co.kr/_ln/0102_202611231209073173"
    ],
    "seen_titles": [
-    "AI부정행위에대기업채용비상…인재선발방식바뀌나",
-    "코스피·코스닥5%대급락충격이어뉴욕증시까지털썩…삼성전자·SK하...",
-    "코스피4800선복귀…‘1조클럽’,1월보다11%감소",
-    "최태원\"한·일AI시대교육새로설계해인재양성해야\"",
     "최태원회장,도쿄포럼2026참석",
     "최태원회장,도쿄포럼2026발표",
     "FA문승원,SSG와동행이어간다…'2+1년'최대15억원에사인",
@@ -4202,10 +4198,14 @@
     "증안펀드예고에도4600무너졌다",
     "SK에코플랜트,설계특화AI플랫폼'AXen'도입…업무자동화확대",
     "[속보]5%대급락코스피4600선사수전…사이드카발동",
-    "반도체가가른경기곳간…이천55%·동두천12%,재정격차뚜렷"
+    "반도체가가른경기곳간…이천55%·동두천12%,재정격차뚜렷",
+    "코스피4600선붕괴…5%대급락에매도사이드카발동",
+    "코스피20일5.21%급락…매도사이드카발동",
+    "국립창원대·서울대,두산·SK와SMR공급망해법찾는다",
+    "AI쇼크에코스피하락출발...'검은월요일'현실로?[뉴스나우]"
    ],
    "initialized": true,
-   "last_run": "2026-11-23T12:20:25.078611+09:00"
+   "last_run": "2026-11-23T12:25:19.158848+09:00"
   }
  },
  "press_names": {
