@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-24T00:35:23.165804+09:00",
-     "뒤엔 쇄신 금요일 안정 잇단 삼성 인사"
-    ],
-    [
-     "2026-11-24T00:35:23.165804+09:00",
-     "하락하면 한국 가격 감소 수출액 반도체"
-    ],
-    [
-     "2026-11-24T00:35:23.165804+09:00",
-     "surge early pct morning hynix Mon traded shares after over"
-    ],
-    [
      "2026-11-24T00:40:36.086811+09:00",
      "상승 금양그린파워 상한가 SFA반도체"
     ],
@@ -393,10 +381,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.inews24.com/view/2029125",
-    "https://www.hidomin.com/news/articleView.html?idxno=730570",
-    "https://www.news1.kr/finance/market-exr/6362758",
-    "https://www.busan.com/view/busan/view.php?code=2026112311460076065",
     "https://www.cwn.kr/news/articleView.html?idxno=62360",
     "https://www.yna.co.kr/view/AKR20261123085400008?input=1195m",
     "https://www.newstnt.com/news/articleView.html?idxno=729832",
@@ -1892,13 +1876,13 @@
     "https://www.imaeil.com/page/view/2026111916221456115",
     "https://www.hankyung.com/article/2026112347276",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611240006&t=NN",
-    "http://www.economytalk.kr/news/articleView.html?idxno=425479"
+    "http://www.economytalk.kr/news/articleView.html?idxno=425479",
+    "https://www.newsian.co.kr/news/articleView.html?idxno=101870",
+    "https://www.yna.co.kr/view/AKR20261124011600009?input=1195m",
+    "https://www.mk.co.kr/article/12216704",
+    "https://www.nbntv.co.kr/news/articleView.html?idxno=4027858"
    ],
    "seen_titles": [
-    "\"벌크·컨테이너부진에이자비용급증까지…팬오션,외형성장에도수...",
-    "CU서SK브로드밴드인터넷·IPTV가입…생활서비스확대",
-    "코스피,5%대급락에매도사이드카발동…4600선도위태",
-    "코스피2거래일연속매도사이드카…美반도체주급락여파(상보)",
     "이형일\"증안펀드외추가대책있어…올해3%후반성장가능\"",
     "메리츠증권,'메모리투자협력확대'...초장기공급계약논의급부상",
     "코스피5%대급락,4,600선도내줘…매도사이드카",
@@ -3394,10 +3378,14 @@
     "[주목!'이학과']AI시대핵심인프라·보안인재키우는'이학과'",
     "또녹아내린삼전닉스…증권가가바닥확신못하는이유[분석+]",
     "돌아온젠슨황,하루새시총1조달러'쑥'…모처럼불어온'훈풍'",
-    "'래미안'에갇히지않는홈닉…삼성물산,주거플랫폼외연넓힌다"
+    "'래미안'에갇히지않는홈닉…삼성물산,주거플랫폼외연넓힌다",
+    "젠슨황복귀에뉴욕증시美반도체지수14%폭등…마이크론·SK하이닉스...",
+    "엔비디아시총하룻새1천300조원↑…AI·반도체주급등",
+    "젠슨황이돌아왔다…엔비디아31.5%폭등에뉴욕증시‘환호성’",
+    "[이슈분석]'사임11일만의반전'젠슨황복귀…주가30%폭등이면에..."
    ],
    "initialized": true,
-   "last_run": "2026-11-24T06:35:20.217196+09:00"
+   "last_run": "2026-11-24T06:40:28.147833+09:00"
   }
  },
  "press_names": {
