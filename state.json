@@ -1189,9 +1189,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.kado.net/news/articleView.html?idxno=2086270",
-    "http://www.4th.kr/news/articleView.html?idxno=2122394",
-    "https://www.wolyo.co.kr/news/articleView.html?idxno=320863",
     "https://www.gukjenews.com/news/articleView.html?idxno=3759326",
     "https://www.delighti.co.kr/news/articleView.html?idxno=125358",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086164",
@@ -2688,12 +2685,12 @@
     "https://www.newstnt.com/news/articleView.html?idxno=729846",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=269044",
     "https://www.newsis.com/view/NISX20261123_0003879190",
-    "https://www.bosa.co.kr/news/articleView.html?idxno=3017095"
+    "https://www.bosa.co.kr/news/articleView.html?idxno=3017095",
+    "https://www.medipana.com/news/articleView.html?idxno=422392",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16283696",
+    "https://www.newspim.com/news/view/20261123000607"
    ],
    "seen_titles": [
-    "[오피셜]'와'37세인데15억미쳤다!문승원과FA계약체결\"어느보직...",
-    "최태원SK회장,한일AI인재양성협력제안…\"교육체계부터바꿔야\"",
-    "SK텔레콤자급제에어요금제,무신사행사서파격할인…내달2일까지",
     "서학개미,앤트로픽상장첫날2190억원샀다…스페이스X의5분의1수준",
     "최태원\"한일기업·대학,AI인재함께키우자\"",
     "최태원SK회장\"한일기업·대학함께AI시대인재키워야\"",
@@ -4190,10 +4187,13 @@
     "천안시,12월3일'희망2027나눔캠페인'공개모금행사",
     "코스피장중5%대급락해4600선…매도사이드카발동",
     "코스피5%급락에장중4600선붕괴…이틀연속매도사이드카발동",
-    "동화약품·동국제약등6개사혁신형제약기업인증연장"
+    "동화약품·동국제약등6개사혁신형제약기업인증연장",
+    "특허절벽앞둔빅파마…中신약도입에비용·규제이중부담",
+    "코스피4600선까지추락…하나증권2027년전망8500선,4300까지더떨어...",
+    "코스피,5%대급락에매도사이드카발동…4600선붕괴"
    ],
    "initialized": true,
-   "last_run": "2026-11-23T12:30:33.107400+09:00"
+   "last_run": "2026-11-23T12:35:19.871259+09:00"
   }
  },
  "press_names": {
