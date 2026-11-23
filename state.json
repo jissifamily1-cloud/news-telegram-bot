@@ -453,8 +453,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000348140?division=NAVER",
-    "https://www.widedaily.com/news/articleView.html?idxno=304387",
     "https://news.tf.co.kr/read/economy/2392035.htm",
     "https://www.slist.kr/news/articleView.html?idxno=784010",
     "https://www.busan.com/view/busan/view.php?code=2026112310263692803",
@@ -1952,11 +1950,11 @@
     "https://www.moneystorm.kr/news/articleView.html?idxno=8749",
     "https://www.joongangenews.com/news/articleView.html?idxno=566042",
     "http://www.bizwnews.com/news/articleView.html?idxno=152832",
-    "https://www.econovill.com/news/articleView.html?idxno=758249"
+    "https://www.econovill.com/news/articleView.html?idxno=758249",
+    "https://www.tjb.co.kr/news05/bodo/view/id/106435",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16284404"
    ],
    "seen_titles": [
-    "코스피'블랙먼데이'…증안펀드등판에그나마하락폭줄였다",
-    "주가급락에도노후자금반도체ETF선호…하반기미국지수ETF순매수...",
     "설계부터충돌점검까지AI가척척…SK에코플랜트,특화플랫폼'AXen'전...",
     "\"설계업무시간줄인다\"…SK에코플랜트,설계특화AI'AXen'도입",
     "코스피,장중4%대하락해4600선…코스닥연저점경신",
@@ -3454,10 +3452,12 @@
     "[글로벌마켓뷰]엔비디아구원투수젠슨황돌아왔다…프리마켓에서...",
     "[종합]엔비디아젠슨황,사임11일만에CEO전격복귀…삼성전자·SK하...",
     "최현덕남양주시장,팔당규제개선위해7개시군연대이끌어…특별법...",
-    "젠슨황,사임11일만에엔비디아전격복귀"
+    "젠슨황,사임11일만에엔비디아전격복귀",
+    "젠슨황복귀에엔비디아주가30%대급등출발",
+    "미국증시급등,젠슨황엔비디아복귀에나스닥6.8%↑"
    ],
    "initialized": true,
-   "last_run": "2026-11-23T23:45:27.982488+09:00"
+   "last_run": "2026-11-23T23:50:26.725895+09:00"
   }
  },
  "press_names": {
