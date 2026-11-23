@@ -718,17 +718,25 @@
     [
      "2026-11-24T08:50:35.077709+09:00",
      "23일 주식시장 11월 주요공시"
+    ],
+    [
+     "2026-11-24T08:55:19.915287+09:00",
+     "하락을 예고하는 추가 공매도와 잔액 신용융자"
+    ],
+    [
+     "2026-11-24T08:55:19.915287+09:00",
+     "남부발전 협력 발전사업 구축 미국 기반"
+    ],
+    [
+     "2026-11-24T08:55:19.915287+09:00",
+     "지나면 내년 보나 어둠의 유통가 반도체 터널 4분기 성과급서"
+    ],
+    [
+     "2026-11-24T08:55:19.915287+09:00",
+     "리더의 눈에 박태현 관한 사람을 보는 강사 한국강사협회 초청"
     ]
    ],
    "seen_urls": [
-    "https://isplus.com/article/view/isp202611230104",
-    "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005968244",
-    "https://www.cnbnews.com/news/articleView.html?idxno=1024865",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507080",
-    "https://zdnet.co.kr/view/?no=20261123150151",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611231452371510205",
-    "https://www.updownnews.co.kr/news/articleView.html?idxno=319705",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1427778",
     "https://www.edaily.co.kr/News/Read?newsId=02666646645648672&mediaCodeNo=257",
     "https://www.mt.co.kr/future/2026/11/23/2026112311115542998",
     "https://en.yna.co.kr/view/AEN20261123004751320?input=2106m",
@@ -2220,17 +2228,17 @@
     "https://www.news1.kr/finance/general-stock/6363578",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4446153",
     "https://www.ajunews.com/view/20261124083613863",
-    "https://www.catchnews.kr/news/articleView.html?idxno=130893"
+    "https://www.catchnews.kr/news/articleView.html?idxno=130893",
+    "https://www.etoday.co.kr/news/view/2651997",
+    "https://theopiniontimes.news/%ec%9e%90%eb%8f%99-%ec%9e%84%ec%8b%9c/",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=305661",
+    "https://www.wikitree.co.kr/articles/1177157",
+    "http://www.newswell.co.kr/news/articleView.html?idxno=23811",
+    "http://www.ikld.kr/news/articleView.html?idxno=344712",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4446155",
+    "https://www.lecturernews.com/news/articleView.html?idxno=214428"
    ],
    "seen_titles": [
-    "12년만의KS우승,20년만에대구도심으로...삼성,29일축하카퍼레...",
-    "이형일\"내년도반도체호황…올해4%성장가능범위\"",
-    "부산대-SKAX,AI인재양성·부울경산업전환업무협약체결",
-    "삼성전자·SK하이닉스하락에도SFA반도체12%급등…엇갈린시스템반도...",
-    "[단독]카카오표모두의AI,'톡톡'으로선보일까",
-    "[텔코NOW]SKT·KT·LGU+",
-    "'1조달러'수출,이달일평균까지역대최대...'월평균1000억달러'시대...",
-    "[유통레이더]신세계백화점,쿠팡,롯데온,G마켓,서울신라호텔,천재...",
     "반등믿고삼전·닉스에3.2조…개미‘물타기’여력도줄었다",
     "서울시-SBA,서울창업허브오픈이노베이션성과공유회성료",
     "(LEAD)Financeministersaysgov'thascontingencyplanbeyondstockm",
@@ -3722,10 +3730,18 @@
     "대신證\"젠슨황복귀,삼전닉스주가정상화기대…업황우려과도\"",
     "SK하이닉스2028년영업익이35조?…전망엇갈리는증권가",
     "[인문자의젠슨황복귀이야기|인간·문화·자연]서학개미의환호,...",
-    "11월23일주식시장주요공시"
+    "11월23일주식시장주요공시",
+    "SK키파운드리,MPS‘2026올해의최우수공급사’로이름올려",
+    "젠슨황엔비디아CEO복귀...시총하루1,279조원늘었다",
+    "코스피프리마켓서7%이상급등…삼성전자9.97%·SK하이닉스12.17%↑",
+    "젠슨황복귀에한국프리마켓삼전닉스강세,얼마나올랐을까?",
+    "추가하락을예고하는공매도와신용융자잔액[오인경의그·말·이]",
+    "남부발전,미국발전사업협력기반구축",
+    "4분기어둠의터널지나면…유통가,내년반도체성과급서빛보나",
+    "한국강사협회,박태현강사초청\"리더의눈:사람을보는눈에관한이..."
    ],
    "initialized": true,
-   "last_run": "2026-11-24T08:50:35.077709+09:00"
+   "last_run": "2026-11-24T08:55:19.915287+09:00"
   }
  },
  "press_names": {
