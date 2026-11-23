@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-23T23:10:29.949398+09:00",
-     "버블 투매는 깨지나 섣불러 미니 4000피까지 터져"
-    ],
-    [
      "2026-11-23T23:20:29.499559+09:00",
      "코스피 마감 개인 하락 매도세에 턱걸이 외인 4700선"
     ],
@@ -266,12 +262,17 @@
     [
      "2026-11-24T05:10:26.959296+09:00",
      "중저가 절벽 급감에 중간값 전세 서울 돌파 6억"
+    ],
+    [
+     "2026-11-24T05:15:27.895024+09:00",
+     "급등 램리서치 주성엔지니어링 어플라이드머티어리얼즈 원익IPS"
+    ],
+    [
+     "2026-11-24T05:15:27.895024+09:00",
+     "거품론에 샀는데 믿고 주식 정부 타는 개미들"
     ]
    ],
    "seen_urls": [
-    "https://www.econovill.com/news/articleView.html?idxno=758167",
-    "http://www.newskr.kr/news/articleView.html?idxno=108198",
-    "https://www.donga.com/news/Economy/article/all/20261123/135072234/1",
     "https://www.sedaily.com/article/20117673",
     "http://www.inews24.com/view/2029162",
     "https://www.news1.kr/finance/market-exr/6362675",
@@ -1768,12 +1769,12 @@
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261500",
     "https://www.kmib.co.kr/article/20261124500033",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507254",
-    "https://www.news1.kr/realestate/general/6363089"
+    "https://www.news1.kr/realestate/general/6363089",
+    "https://www.mediapen.com/news/view/1139439",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507255",
+    "https://www.busan.com/view/busan/view.php?code=2026112317514995926"
    ],
    "seen_titles": [
-    "코스피,연초수준으로'뚝'...'AI불신'확산에4,700선도내줘",
-    "SK에코플랜트,설계맞춤형AI'AXen'도입···\"설계품질·생산성제고...",
-    "한문선여수상의회장,\"여수산단반도체소재공장인허가에패스트트...",
     "“연봉6년치증발”“증권사앱지웠다”…코스피4700선무너지자개...",
     "마이리얼트립자회사AICX,최은경COO영입…기업고객확대",
     "'반토막'코스피⋯반등열쇠'4대선결과제해소'",
@@ -3270,10 +3271,13 @@
     "美큐볼·韓메타엠에줄줄이뚫리자···SKT·LGU+·KT초비상",
     "‘젠슨황복귀’엔비디아장중30%대폭등…나스닥은7%대↑",
     "델21%·씨게이트13%폭등…이수페타시스·파두도AI훈풍탈까",
-    "서울새전세중간값6억돌파…중저가43%급감에'전세절벽'"
+    "서울새전세중간값6억돌파…중저가43%급감에'전세절벽'",
+    "[美증시특징주]반도체,젠슨황복귀에'빅뱅'…SK하이닉스·마이크론...",
+    "어플라이드머티어리얼즈·램리서치13%급등…원익IPS·주성엔지니어링...",
+    "[사설]정부믿고주식샀는데…AI거품론에속타는개미들"
    ],
    "initialized": true,
-   "last_run": "2026-11-24T05:10:26.959296+09:00"
+   "last_run": "2026-11-24T05:15:27.895024+09:00"
   }
  },
  "press_names": {
