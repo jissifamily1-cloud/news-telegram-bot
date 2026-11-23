@@ -1265,10 +1265,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=452602",
-    "https://www.smartbizn.com/news/articleView.html?idxno=160227",
-    "https://www.irobotnews.com/news/articleView.html?idxno=49733",
-    "https://www.news1.kr/realestate/general/6362498",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506896",
     "https://www.cbci.co.kr/news/articleView.html?idxno=629713",
     "http://www.metroseoul.co.kr/article/20261123500065",
@@ -2764,13 +2760,13 @@
     "https://www.khan.co.kr/article/202611232026025",
     "https://theopiniontimes.news/%eb%8c%80%eb%a7%8c-%ec%a6%9d%ec%8b%9c-%eb%b0%98%eb%93%b1%ec%97%90-%ec%a4%91%ea%b5%ad-%ec%a6%9d%ec%8b%9c%eb%8f%84-%eb%8f%99%eb%b0%98-%ec%83%81%ec%8a%b9%ea%b0%99%ec%9d%80-%eb%82%a0-%ec%bd%94/",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=281970",
-    "https://www.edaily.co.kr/News/Read?newsId=03683446645648672&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=03683446645648672&mediaCodeNo=257",
+    "https://www.fnnews.com/news/202611231957237527",
+    "https://www.news1.kr/society/court-prosecution/6363437",
+    "https://vop.co.kr/A00001697710.html",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6867926_37004.html"
    ],
    "seen_titles": [
-    "SK바이오팜,美뇌전증학회서‘세노바메이트’신규연구10건공개",
-    "코스피'AI수익성우려'에2%대하락4720선,코스닥도1%대내려",
-    "최태원\"韓日기업·대학함께AI인재키우자\"···교육부터바꿔야",
-    "한국AIㆍ로봇산업협회,회원사500개사돌파",
     "SK에코플랜트,설계특화인공지능플랫폼'엑센'도입",
     "용인반도체클러스터가동카운트다운…산단내아파트1225가구공급",
     "[정부家]이재명대통령㊶ㅣAI시험부정근절·민생경제점검·외교성...",
@@ -4266,10 +4262,14 @@
     "‘닷컴버블’재현인가,성장통인가…‘AI버블’논쟁재점화",
     "대만증시반등에중국증시도동반상승…같은날코스피는4,700선턱걸...",
     "SamsungBetsonV9ChipsAmidNANDPriceSlump",
-    "‘185만닉스’경고했던애널리스트…이번엔목표가‘105만원’제시"
+    "‘185만닉스’경고했던애널리스트…이번엔목표가‘105만원’제시",
+    "공소청,'노태우비자금의혹'노소영에증인신문청구",
+    "공소청,'노태우비자금의혹'노소영공판전증인신문청구",
+    "SK렌터카,해외판로확대추진글로벌중고차플랫폼‘비포워드’와...",
+    "최태원\"9천440억전액지급\"‥'세기의이혼'마무리요청"
    ],
    "initialized": true,
-   "last_run": "2026-11-23T20:30:38.738865+09:00"
+   "last_run": "2026-11-23T20:35:21.761574+09:00"
   }
  },
  "press_names": {
