@@ -442,14 +442,13 @@
     [
      "2026-11-24T07:05:29.616614+09:00",
      "목표주가는 매수 하향 지금 롯데관광개발 기회"
+    ],
+    [
+     "2026-11-24T07:10:27.679707+09:00",
+     "빨간불 바짝 DK아시아 신영 수성에 선두 추격하고 반도건설 급부상"
     ]
    ],
    "seen_urls": [
-    "https://www.ytn.co.kr/_ln/0102_202611231209073173",
-    "https://www.newstnt.com/news/articleView.html?idxno=729846",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=269044",
-    "https://www.newsis.com/view/NISX20261123_0003879190",
-    "https://www.bosa.co.kr/news/articleView.html?idxno=3017095",
     "https://www.medipana.com/news/articleView.html?idxno=422392",
     "https://www.topstarnews.net/news/articleView.html?idxno=16283696",
     "https://www.newspim.com/news/view/20261123000607",
@@ -1944,14 +1943,14 @@
     "https://www.businesspost.co.kr/BP?command=article_view&num=451746",
     "https://www.fetv.co.kr/news/articleView.html?idxno=314139",
     "https://www.businesspost.co.kr/BP?command=article_view&num=451653",
-    "https://view.asiae.co.kr/article/2026112319140341634"
+    "https://view.asiae.co.kr/article/2026112319140341634",
+    "https://www.g-enews.com/view.php?ud=20261124070146937e250e8e188_1",
+    "https://it.chosun.com/news/articleView.html?idxno=3000000001673",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611240018&t=NN",
+    "https://www.khan.co.kr/article/202611240705001",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507273"
    ],
    "seen_titles": [
-    "AI쇼크에코스피하락출발...'검은월요일'현실로?[뉴스나우]",
-    "천안시,12월3일'희망2027나눔캠페인'공개모금행사",
-    "코스피장중5%대급락해4600선…매도사이드카발동",
-    "코스피5%급락에장중4600선붕괴…이틀연속매도사이드카발동",
-    "동화약품·동국제약등6개사혁신형제약기업인증연장",
     "특허절벽앞둔빅파마…中신약도입에비용·규제이중부담",
     "코스피4600선까지추락…하나증권2027년전망8500선,4300까지더떨어...",
     "코스피,5%대급락에매도사이드카발동…4600선붕괴",
@@ -3446,10 +3445,15 @@
     "[WhoIs?]장경빈에프에스티대표이사",
     "[증권사3Q성적]⑥'3→5위'키움증권,거래대금에'출렁이는실적'",
     "[WhoIs?]문덕식DB대표이사",
-    "[클릭e종목]\"롯데관광개발,지금매수기회...목표주가는19%하향\""
+    "[클릭e종목]\"롯데관광개발,지금매수기회...목표주가는19%하향\"",
+    "엔비디아시총9,000억달러폭증…SK하이닉스ADR20%동반폭등",
+    "젠슨황복귀에반도체주급등…하이닉스ADR20%뛰어",
+    "\"'젠슨황효과'이정도라니\"...32%폭등에시총1300조원↑",
+    "돌아온젠슨황반긴주가···엔비디아30%대·나스닥장중7%급등",
+    "DK아시아선두수성에빨간불?...신영바짝추격하고반도건설급부상"
    ],
    "initialized": true,
-   "last_run": "2026-11-24T07:05:29.616614+09:00"
+   "last_run": "2026-11-24T07:10:27.679707+09:00"
   }
  },
  "press_names": {
