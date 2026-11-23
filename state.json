@@ -378,12 +378,17 @@
     [
      "2026-11-24T06:15:30.222702+09:00",
      "로도 달러 1조 SK하이닉스 없는"
+    ],
+    [
+     "2026-11-24T06:20:29.165192+09:00",
+     "1000대 영업이익률 삼성전 SK하이닉스 기업"
+    ],
+    [
+     "2026-11-24T06:20:29.165192+09:00",
+     "호실적 3분기 동진쎄미켐 끌고 반도체 매각 밀었다"
     ]
    ],
    "seen_urls": [
-    "https://biz.heraldcorp.com/article/10946066",
-    "https://www.woodkorea.co.kr/news/articleView.html?idxno=92755",
-    "https://www.fnnews.com/news/202611231119312949",
     "https://m.sports.naver.com/general/article/065/0000305147",
     "https://dealsite.co.kr/articles/173298",
     "https://www.techm.kr/news/articleView.html?idxno=157701",
@@ -1880,12 +1885,12 @@
     "https://www.hitnews.co.kr/news/articleView.html?idxno=81009",
     "https://www.jasm.co.kr/news/view/326233/?sc=Naver",
     "http://www.consumernews.co.kr/news/articleView.html?idxno=768890",
-    "https://www.livebiz.today/news/articleView.html?idxno=206801"
+    "https://www.livebiz.today/news/articleView.html?idxno=206801",
+    "https://biz.heraldcorp.com/article/10946751",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=768879",
+    "https://www.news1.kr/industry/sb-founded/6363368"
    ],
    "seen_titles": [
-    "“코스피급락,美증시와연동된측면”…靑,증안펀드대책예고",
-    "‘AI패닉셀’美증시조정진입…월가,연준추가금리인상베팅",
-    "2,878세대고정수요를품다…'광명자이힐스테이트SKVIEW'단지내상가...",
     "부동산누르고증시살린다더니'둘다위축'…'속빈강정'F4대책에...",
     "[화보]'2026KBL유스클럽드림컵IN제천'U128강SKA-LG구리점",
     "美증시폭락부른5가지악재…韓반도체·전력설비불안",
@@ -3382,10 +3387,13 @@
     "연매출1조원눈앞'엑스코프리'...대표가직접밝힌'성공비결'",
     "'젠슨황사태'타산지석?…'화해손길'내민최태원회장",
     "[데이터&뉴스]태영건설부채비율472%최고,코오롱글로벌·금호건설도...",
-    "[재무제표이야기]'1조달러'로도살수없는SK하이닉스"
+    "[재무제표이야기]'1조달러'로도살수없는SK하이닉스",
+    "젠슨황복귀에나스닥6.51%폭등마감…엔비디아31.5%급등",
+    "[데이터&뉴스]SK하이닉스영업이익률76.7%1000대기업중'톱'…삼성전...",
+    "\"반도체끌고中매각밀었다\"…동진쎄미켐,3분기호실적[실적why]"
    ],
    "initialized": true,
-   "last_run": "2026-11-24T06:15:30.222702+09:00"
+   "last_run": "2026-11-24T06:20:29.165192+09:00"
   }
  },
  "press_names": {
