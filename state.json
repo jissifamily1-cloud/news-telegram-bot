@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-23T06:55:21.014176+09:00",
-     "그래도 앤트로픽 만에 월가는 상장 이틀 매수 급락"
-    ],
-    [
-     "2026-11-23T07:00:40.089819+09:00",
-     "드라이브 걸린다 유임으로 사업 문혁수 LG이노텍 기판 반도체"
-    ],
-    [
      "2026-11-23T07:05:23.077040+09:00",
      "800선 반도체 미국 코스피 주목 위협 증안펀드 대응 폭락에"
     ],
@@ -1174,15 +1166,17 @@
     [
      "2026-11-23T12:55:20.371260+09:00",
      "어르신들 막는다 AI로 보이스피싱 대구"
+    ],
+    [
+     "2026-11-23T13:00:42.112779+09:00",
+     "SK하이닉스 369만 소각 전량 40조"
+    ],
+    [
+     "2026-11-23T13:00:42.112779+09:00",
+     "보안업계 인수에 경쟁 국내도 지키기 잇단 글로벌 본격화 기업"
     ]
    ],
    "seen_urls": [
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=315901",
-    "https://biz.chosun.com/industry/company/2026/11/22/KA7IAHKEUFH33KVCTPMUPZ3FEM/",
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261122.99099006650",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16282735",
-    "https://economist.co.kr/article/view/ecn202611220003",
-    "https://www.segye.com/newsView/20261122503851?OutUrl=naver",
     "https://en.yna.co.kr/view/AEN20261122000400320?input=2106m",
     "https://www.kmib.co.kr/article/20261122500096",
     "https://www.mt.co.kr/politics/2026/11/22/2026112210262534646",
@@ -2676,15 +2670,15 @@
     "http://www.kjdaily.com/article.php?aid=1795405751693186276",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1732672",
     "https://www.vegannews.co.kr/news/article.html?no=409811",
-    "https://www.safetimes.co.kr/news/articleView.html?idxno=247805"
+    "https://www.safetimes.co.kr/news/articleView.html?idxno=247805",
+    "https://www.kyosu.net/news/articleView.html?idxno=212754",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=370345",
+    "https://www.thepublic.kr/news/articleView.html?idxno=327980",
+    "https://www.cwn.kr/news/articleView.html?idxno=62380",
+    "http://coinreaders.com/272569",
+    "https://www.thepublic.kr/news/articleView.html?idxno=327991"
    ],
    "seen_titles": [
-    "최태원SK회장\"AI시대,대학교육틀바꿔야\"…한일공동인재육성...",
-    "무신사블프에5G요금제도나왔다...SKT에어첫참가",
-    "배당대폭늘린삼전·SK하닉…연말주주환원더커진다",
-    "美AI투매에코스피'5000피'붕괴…반도체發추가충격우려",
-    "대기업영업익3배늘었으나,기부금은감소…역대최대실적SK하이닉스...",
-    "'차세대원전'SMR개발빨라진다…사전검토제본격시행",
     "SSG랜더스,'원클럽맨'문승원과2+1년총액15억원FA계약",
     "\"삼전닉스주주는좋겠다\"...삼전4.4배·하닉21배,3Q배당성향↑",
     "영진전문대학,‘AI인프라∙사이버보안’실무인재키운다",
@@ -4178,10 +4172,16 @@
     "삼성전자·SK하이닉스4조원대거래…전거래일대비36.6%증가",
     "코스피4500대까지밀렸다…\"증안펀드가동준비,추가비상대책도\"",
     "[특징주]SK바이오팜7%하락…세노바메이트연구10건발표",
-    "대구어르신들,AI로보이스피싱막는다"
+    "대구어르신들,AI로보이스피싱막는다",
+    "부산대-SKAX,AI인재함께양성한다",
+    "롯데관광개발,10월카지노실적최고치…중국관광객유치기대",
+    "롯데관광개발,카지노최고실적…내년영업익2155억원기대",
+    "코스피·삼성전자,'AI불신도미노'에급락...연초수준붕괴",
+    "‘40조’쓴SK하이닉스…2,369만주전량소각",
+    "보안업계'AI지키기'경쟁본격화…글로벌기업잇단인수에국내도..."
    ],
    "initialized": true,
-   "last_run": "2026-11-23T12:55:20.371260+09:00"
+   "last_run": "2026-11-23T13:00:42.112779+09:00"
   }
  },
  "press_names": {
