@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-23T14:15:33.060361+09:00",
-     "AI반도체 협력 글로벌 정부 안정화 논의 공급망 확대"
-    ],
-    [
      "2026-11-23T14:25:20.832268+09:00",
      "Probe Billion Under Revenue of NVIDIA Puts Scrutiny Quality SEC"
     ],
@@ -1298,14 +1294,13 @@
     [
      "2026-11-23T20:15:26.524026+09:00",
      "비상 황금 아시아예선 농구월드컵 세대 줄부상"
+    ],
+    [
+     "2026-11-23T20:20:26.354426+09:00",
+     "고개 하락세 계속되나 거품론"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/industry/hotel-tourism/6362412",
-    "http://www.paxetv.com/news/articleView.html?idxno=287576",
-    "http://www.kbiznews.co.kr/news/articleView.html?idxno=115226",
-    "http://www.newscape.co.kr/news/articleView.html?idxno=125997",
-    "https://view.asiae.co.kr/article/2026112309534192562",
     "https://www.sedaily.com/article/20117601",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611230935381700108",
     "https://www.newsis.com/view/NISX20261123_0003878558",
@@ -2800,14 +2795,14 @@
     "http://www.ttlnews.com/news/articleView.html?idxno=3165133",
     "https://swtvnews.com/news/newsview.php?ncode=1065601650693379",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859609&plink=ORI&cooper=NAVER",
-    "https://www.khan.co.kr/article/202611232010015"
+    "https://www.khan.co.kr/article/202611232010015",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1544705",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507250",
+    "https://www.ytn.co.kr/_ln/0103_202611232015418041",
+    "https://www.moneystorm.kr/news/articleView.html?idxno=8748",
+    "https://imnews.imbc.com/replay/2026/nwdesk/article/6867924_37004.html"
    ],
    "seen_titles": [
-    "SK바이오팜,뇌전증신약연구확대…12월미국서10건발표",
-    "마이리얼트립,AI고객상담사업키운다…AICX에최은경COO영입",
-    "SK에코플랜트,설계특화AI플랫폼'AXen'도입…반복업무자동화로전...",
-    "[뉴스브리핑]반도체로확보한세수,中企로흘러들어야한다",
-    "차량용반도체에서AIDC까지…파두·엑시나등K-팹리스맹활약",
     "부산대-SKAX,AI인재양성·동남권산업혁신맞손",
     "서학개미하반기68조원손실,SOXL집중이화근",
     "이상일용인시장,유의동국회국토위원장만나핵심철도·도로망국가...",
@@ -4302,10 +4297,15 @@
     "SK에코플랜트,설계특화AI플랫폼'AXen'도입…설계자동화확대",
     "최태원회장,노소영에9440억원전액지급…대법원에‘화해권고’신...",
     "가슴졸인월요일,3%대급락…'증안펀드'효과볼까",
-    "‘황금세대’줄부상…농구월드컵아시아예선비상"
+    "‘황금세대’줄부상…농구월드컵아시아예선비상",
+    "'검은월요일'에출렁…4,700선'턱걸이'",
+    "우리자산운용,'WON한국부동산TOP3플러스ETF'11월분배율3%예고",
+    "공소청,'노태우비자금'노소영공판전증인신문청구...불출석전망",
+    "[특징주]코스피급락에휘청했던삼전닉스,美반도체주프리마켓급등...",
+    "고개든'AI거품론'‥하락세계속되나?"
    ],
    "initialized": true,
-   "last_run": "2026-11-23T20:15:26.524026+09:00"
+   "last_run": "2026-11-23T20:20:26.354426+09:00"
   }
  },
  "press_names": {
