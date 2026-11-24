@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-24T17:45:26.532300+09:00",
-     "렌터카 점유율 커지는데 시장 대형사 줄었나"
-    ],
-    [
-     "2026-11-24T17:45:26.532300+09:00",
-     "맞손 부산대 양성 AX 인재 동남권"
-    ],
-    [
-     "2026-11-24T17:45:26.532300+09:00",
-     "SK하이닉스 투자법인 CB 키옥시아 보통주"
-    ],
-    [
-     "2026-11-24T17:45:26.532300+09:00",
-     "정리 4조 잭팟 지분 상장에 셈법은 앤트로픽 SKT"
-    ],
-    [
      "2026-11-24T17:50:27.653674+09:00",
      "코스닥150 코스피200 투자할듯 이르면 증안펀드 투입 이달"
     ],
@@ -450,10 +434,13 @@
     [
      "2026-11-24T23:25:21.375599+09:00",
      "500개 회원사 돌파 한국AI 로봇산업협회"
+    ],
+    [
+     "2026-11-24T23:45:29.909630+09:00",
+     "만에 미국증시 효과 하루 제동 급락 엔비디아 젠슨 마이크론"
     ]
    ],
    "seen_urls": [
-    "https://www.joongangenews.com/news/articleView.html?idxno=566103",
     "https://www.etoday.co.kr/news/view/2652065",
     "https://www.kado.net/news/articleView.html?idxno=2086830",
     "https://www.handmk.com/news/articleView.html?idxno=45378",
@@ -1952,10 +1939,10 @@
     "https://www.joongang.co.kr/article/25481612",
     "http://www.worktoday.co.kr/news/articleView.html?idxno=92604",
     "https://www.klnews.co.kr/news/articleView.html?idxno=323679",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=302945"
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=302945",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16285197"
    ],
    "seen_titles": [
-    "남부발전,2040년해외사업매출액1조8000억원목표",
     "\"바닥이어디?\"...개미들잇단급락에한숨,비명",
     "공소청,'노태우일가비자금의혹'노소영공판전증인신문청구",
     "올해만사이드카101번…2008년금융위기2배넘는‘널뛰기증시’",
@@ -3454,10 +3441,11 @@
     "젠슨황복귀전날16억매입…하이닉스사장,하루만에2억벌어",
     "국민6만여명이뽑은'사회공헌맛집'10곳…한경협,첫시슐랭스타...",
     "한국AI·로봇산업협회,회원사500개돌파",
-    "'김옥숙메모'의부메랑…노소영,비자금증언대외면"
+    "'김옥숙메모'의부메랑…노소영,비자금증언대외면",
+    "미국증시,젠슨황효과하루만에제동…엔비디아·마이크론급락"
    ],
    "initialized": true,
-   "last_run": "2026-11-24T23:40:37.135096+09:00"
+   "last_run": "2026-11-24T23:45:29.909630+09:00"
   }
  },
  "press_names": {
