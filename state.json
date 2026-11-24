@@ -226,13 +226,21 @@
     [
      "2026-11-25T05:45:27.634542+09:00",
      "엔비디아 나스닥 60분 DELL 뉴욕증시 마감 추락 반도체ETF"
+    ],
+    [
+     "2026-11-25T05:55:21.221975+09:00",
+     "SOCCER SLOVAKIA"
+    ],
+    [
+     "2026-11-25T05:55:21.221975+09:00",
+     "시슐랭 1661건 케어 SKT 선정 스타 긴급구조"
+    ],
+    [
+     "2026-11-25T05:55:21.221975+09:00",
+     "300만닉스 하락 간다는데 맞췄던 나홀로 반도체에 105만닉스 BNK"
     ]
    ],
    "seen_urls": [
-    "http://www.joseilbo.com/news/news_read.php?uid=580302&class=32",
-    "https://www.wolyo.co.kr/news/articleView.html?idxno=320962",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=452732",
-    "https://biz.heraldcorp.com/article/10947101",
     "https://www.wikileaks-kr.org/news/articleView.html?idxno=195152",
     "https://www.pointe.co.kr/news/articleView.html?idxno=88336",
     "https://www.newsis.com/view/NISX20261124_0003880552",
@@ -1728,12 +1736,13 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507713",
     "https://www.sidae.com/article/2026112414154960639",
     "https://www.koreaherald.com/article/10947859",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=173473"
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=173473",
+    "https://n.news.naver.com/mnews/article/091/0010377455",
+    "https://n.news.naver.com/mnews/article/091/0010377456",
+    "http://www.economytalk.kr/news/articleView.html?idxno=425514",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611250003&t=NN"
    ],
    "seen_titles": [
-    "엔비디아경영공백해소에반도체株강세...코스피매수사이드카발동",
-    "[뉴스초점]젠슨황,11일만에CEO복귀…뉴욕증시급반등",
-    "중국發낸드공급과잉경고···삼성전자·SK하이닉스신규증설'신중...",
     "공소청,'노태우비자금의혹'관련노소영공판전증인신문청구",
     "젠슨황복귀에코스피5000선회복...삼성전자9%·SK하이닉스11%↑",
     "코스피'젠슨황복귀'소식에장중5천선회복,코스닥도660선강세",
@@ -3230,10 +3239,13 @@
     "AMD까지무너졌다…미국반도체주급락에삼성전자·SK하이닉스'초긴장...",
     "중복상장규제탓국제분쟁현실화",
     "[Editorial]Borrowedconfidence",
-    "뉴욕증시마감60분前..나스닥·엔비디아·반도체ETF·DELL'추락'"
+    "뉴욕증시마감60분前..나스닥·엔비디아·반도체ETF·DELL'추락'",
+    "SLOVAKIASOCCER",
+    "119긴급구조1661건…SKT'AI케어',시슐랭스타선정",
+    "\"300만닉스간다는데나홀로105만닉스\"…하락맞췄던BNK,또반도체에..."
    ],
    "initialized": true,
-   "last_run": "2026-11-25T05:50:26.222511+09:00"
+   "last_run": "2026-11-25T05:55:21.221975+09:00"
   }
  },
  "press_names": {
