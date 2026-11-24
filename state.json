@@ -322,11 +322,17 @@
     [
      "2026-11-25T06:25:23.066263+09:00",
      "보상한다지만 배상은 해킹 직접 피해 사실 전액 실제 금융사"
+    ],
+    [
+     "2026-11-25T06:29:12.853514+09:00",
+     "2년 늘어 이잉여금 391조원 삼성전자 SK하이닉스 686조원"
+    ],
+    [
+     "2026-11-25T06:29:12.853514+09:00",
+     "컴백 엔비디아 하루도 젠슨 못갔 환호 마이크론 급락"
     ]
    ],
    "seen_urls": [
-    "https://view.asiae.co.kr/article/2026112410172869029",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=240411",
     "https://www.news2day.co.kr/article/20261124500069",
     "https://www.meconomynews.com/news/articleView.html?idxno=204033",
     "https://www.news1.kr/finance/general-stock/6363880",
@@ -1824,11 +1830,11 @@
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611161051184130194",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611241430417760396",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611241150378350358",
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=768966"
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=768966",
+    "https://www.etoday.co.kr/news/view/2652486",
+    "https://biz.newdaily.co.kr/site/data/html/2026/11/25/2026112550003.html"
    ],
    "seen_titles": [
-    "SKT·KT·LG유플·네이버,AI에이전트가건고객센터상담막는다",
-    "젠슨황복귀에한숨돌린K반도체…SK하이닉스공급안정기대,삼성고...",
     "젠슨황발숏커버폭등에들뜬증시…증권가\"AI악재여전,추격매수...",
     "천호엔케어,SK텔레콤과‘Tday럭키찬스’프로모션진행",
     "[특징주]다원넥스뷰,반도체장비·기판매수세유입에급등...레이저...",
@@ -3326,10 +3332,12 @@
     "대형건설사,AI현장투입…원가ㆍ품질잡는다",
     "올해은행채발행280조원육박하나,내년만기도래규모도250조원…발...",
     "[2026SCCI](2)스마트건설현장적용81.5점…삼성·대우·롯데·호반·우...",
-    "금융사해킹피해전액보상한다지만실제배상은'0'...피해사실직접..."
+    "금융사해킹피해전액보상한다지만실제배상은'0'...피해사실직접...",
+    "삼성전자·SK하이닉스이잉여금686조원⋯2년새391조원늘어",
+    "엔비디아5.86%마이크론11%급락…'젠슨황컴백환호'하루도못갔..."
    ],
    "initialized": true,
-   "last_run": "2026-11-25T06:25:23.066263+09:00"
+   "last_run": "2026-11-25T06:29:12.853514+09:00"
   }
  },
  "press_names": {
