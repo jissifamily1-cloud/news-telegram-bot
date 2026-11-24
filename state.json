@@ -218,11 +218,17 @@
     [
      "2026-11-25T05:20:27.350651+09:00",
      "웃는 황에 젠슨 증시 벗고 보호망을 울고 투자 과의존"
+    ],
+    [
+     "2026-11-25T05:35:23.393491+09:00",
+     "현실화 분쟁 중복상장 규제 국제"
+    ],
+    [
+     "2026-11-25T05:35:23.393491+09:00",
+     "confidence Borrowed"
     ]
    ],
    "seen_urls": [
-    "https://www.kmaeil.com/news/articleView.html?idxno=659460",
-    "http://www.yonhapnewstv.co.kr/news/MYH20261124101232kpj",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=425267",
     "http://www.joseilbo.com/news/news_read.php?uid=580302&class=32",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=320962",
@@ -1720,11 +1726,11 @@
     "https://www.seoul.co.kr/news/economy/industry/2026/11/25/20261125032004?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/economy/industry/2026/11/25/20261125032001?wlog_tag3=naver",
     "https://www.seoul.co.kr/news/editOpinion/editorial/2026/11/25/20261125027007?wlog_tag3=naver",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507713"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507713",
+    "https://www.sidae.com/article/2026112414154960639",
+    "https://www.koreaherald.com/article/10947859"
    ],
    "seen_titles": [
-    "[특징주]LG전자,AI데이터센터액체냉각협력·피지컬AI강세에12%대...",
-    "용인반도체클러스터라온프라이빗파크원,같은면적더넓은공간",
     "[핫스톡]젠슨황복귀에반도체소부장'불기둥'…원익홀딩스12%↑",
     "엔비디아경영공백해소에반도체株강세...코스피매수사이드카발동",
     "[뉴스초점]젠슨황,11일만에CEO복귀…뉴욕증시급반등",
@@ -3222,10 +3228,12 @@
     "에쓰오일9조원대‘샤힌’공장승부수…“공급과잉우려”vs“수급...",
     "‘사회공헌맛집’10선…중기도3곳이름올려",
     "[사설]젠슨황에울고웃는증시…AI과의존벗고투자보호망을",
-    "AMD까지무너졌다…미국반도체주급락에삼성전자·SK하이닉스'초긴장..."
+    "AMD까지무너졌다…미국반도체주급락에삼성전자·SK하이닉스'초긴장...",
+    "중복상장규제탓국제분쟁현실화",
+    "[Editorial]Borrowedconfidence"
    ],
    "initialized": true,
-   "last_run": "2026-11-25T05:30:36.275185+09:00"
+   "last_run": "2026-11-25T05:35:23.393491+09:00"
   }
  },
  "press_names": {
