@@ -174,12 +174,17 @@
     [
      "2026-11-25T04:40:28.160455+09:00",
      "활용 인력난 건설 전역 반도체 관건인 검토 속도 간부"
+    ],
+    [
+     "2026-11-25T04:45:26.290512+09:00",
+     "SOCCER TURKEY"
+    ],
+    [
+     "2026-11-25T04:45:26.290512+09:00",
+     "휘청 급락에 앤트로픽 반도체 엔비디아 SK하이닉스"
     ]
    ],
    "seen_urls": [
-    "https://www.news1.kr/finance/market-exr/6363835",
-    "http://www.queen.co.kr/news/articleView.html?idxno=466802",
-    "http://www.econonews.co.kr/news/articleView.html?idxno=447616",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=302712",
     "https://www.nocutnews.co.kr/news/6611546",
     "https://www.insight.co.kr/news/583307",
@@ -1676,11 +1681,12 @@
     "https://www.mt.co.kr/stock/2026/11/25/2026112419412741423",
     "https://www.ggilbo.com/news/articleView.html?idxno=1194414",
     "https://www.hankookilbo.com/news/article/A2026112413580002475?did=NA",
-    "https://www.donga.com/news/Economy/article/all/20261125/135084271/2"
+    "https://www.donga.com/news/Economy/article/all/20261125/135084271/2",
+    "https://n.news.naver.com/mnews/article/091/0010377189",
+    "https://n.news.naver.com/mnews/article/091/0010377207",
+    "https://www.mediapen.com/news/view/1139804"
    ],
    "seen_titles": [
-    "SK플라즈마,에임드'ROR1ADC'美1상\"IND제출\"",
-    "돌아온젠슨황에코스피‘안도랠리’…추세반등신호탄될까",
     "'젠슨황복귀'코스피·코스닥잇따라사이드카…올해만101번째",
     "젠슨황복귀효과에코스피·코스닥동반매수사이드카…반도체주급...",
     "SK머티리얼즈퍼포먼스,반도체용초고순도신너양산체계구축…12월공...",
@@ -3178,10 +3184,12 @@
     "'AI황제'단한명에흔들린K반도체株",
     "무신사'무진장블프'일정은?...겨울옷지금이구매기회",
     "삼성·SK반도체호황에경기지자체곳간두둑…세수최대12배",
-    "[단독]속도관건인반도체팹,건설인력난…“전역軍간부활용검토..."
+    "[단독]속도관건인반도체팹,건설인력난…“전역軍간부활용검토...",
+    "TURKEYSOCCER",
+    "[美증시]반도체,엔비디아·앤트로픽급락에또'휘청'…SK하이닉스·마..."
    ],
    "initialized": true,
-   "last_run": "2026-11-25T04:40:28.160455+09:00"
+   "last_run": "2026-11-25T04:45:26.290512+09:00"
   }
  },
  "press_names": {
