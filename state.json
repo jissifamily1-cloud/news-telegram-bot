@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-24T08:00:40.409765+09:00",
-     "반도체 호남권 지원 조성 출범 전남광주반도체포럼 클러스터"
-    ],
-    [
-     "2026-11-24T08:00:40.409765+09:00",
-     "반등 기대감 잇따른 월가의 경고장 108만닉스 17만전자"
-    ],
-    [
      "2026-11-24T08:05:28.970867+09:00",
      "그가 복귀 반도체 국내 변화 젠슨 돌아왔다 대신 주에 긍정적"
     ],
@@ -1138,16 +1130,25 @@
     [
      "2026-11-24T13:55:24.879898+09:00",
      "보폭 중고장비 치매 바이오서 개발해 반도체로 타임X 진단"
+    ],
+    [
+     "2026-11-24T14:00:44.447709+09:00",
+     "반도체 청주시 재정운용 방향 호황과 세수 콜로키움 개최"
+    ],
+    [
+     "2026-11-24T14:00:44.447709+09:00",
+     "같은 키운다 140곳 동참 직접 멤버십 청년도약 신입 경력"
+    ],
+    [
+     "2026-11-24T14:00:44.447709+09:00",
+     "인정하고 정보만 필요한 추가해야 공시매체 KSSB ISSB 공시 EU 해외"
+    ],
+    [
+     "2026-11-24T14:00:44.447709+09:00",
+     "위험도 실패 SK하이닉스 도입 나눈다 도전보상제"
     ]
    ],
    "seen_urls": [
-    "http://www.4th.kr/news/articleView.html?idxno=2122510",
-    "http://www.yonhapnewstv.co.kr/news/MYH20261123175807x52",
-    "https://it.chosun.com/news/articleView.html?idxno=3000000001661",
-    "https://www.sentv.co.kr/article/view/sentv202611230109",
-    "https://www.newswhoplus.com/news/articleView.html?idxno=75178",
-    "https://www.edaily.co.kr/News/Read?newsId=03493206645648672&mediaCodeNo=257",
-    "https://www.sidae.com/article/2026112311071982583",
     "https://www.namdonews.com/news/articleView.html?idxno=930201",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=269071",
     "https://www.getnews.co.kr/news/articleView.html?idxno=888190",
@@ -2640,16 +2641,16 @@
     "https://www.job-post.co.kr/news/articleView.html?idxno=240550",
     "https://www.dkilbo.com/news/articleView.html?idxno=561901",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=904222",
-    "https://www.kgnews.co.kr/news/article.html?no=920967"
+    "https://www.kgnews.co.kr/news/article.html?no=920967",
+    "https://www.energy-news.co.kr/news/articleView.html?idxno=230010",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=240561",
+    "https://www.imaeil.com/page/view/2026112413331423996",
+    "https://www.ggilbo.com/news/articleView.html?idxno=1195187",
+    "https://www.fnnews.com/news/202611240915466456",
+    "https://www.impacton.net/news/articleView.html?idxno=30802",
+    "http://www.finomy.com/news/articleView.html?idxno=267718"
    ],
    "seen_titles": [
-    "빨라진삼성·SK·LG인사시계…반도체·로봇기술통중심에",
-    "우리은행,K-방산수출3020억원금융지원",
-    "[앵커리포트]4,700선까지밀린코스피…증안펀드투입하나",
-    "SKT,50대이상직원대상희망퇴직",
-    "[이슈플러스]코스피바닥논쟁…\"4000선위태\"vs\"매수타이밍\"",
-    "최태원,재산분할9,440억전액수용의사…9년이혼분쟁마무리추진",
-    "SKT,50대이상희망퇴직…평균3년치급여준다",
     "삼성·SK·LG인사에담긴세가지코드'속도·안정·미래'",
     "[마감시황]코스피,장중5%대급락뒤낙폭줄여3.31%하락…4,708.54마...",
     "코스피,3%대하락4,700선턱걸이…코스닥2년만에최저",
@@ -4142,10 +4143,17 @@
     "SK텔레콤4.49%상승해6만7500원…실적과사업변수점검",
     "영주시,2027년도본예산1조1,330억원편성…\"관행깨고민생체감성...",
     "[금융톡톡]경남은행발달장애인금융교육·JB금융실무형AI교육·iM뱅...",
-    "치매진단개발해온타임XAI,바이오서반도체로보폭…중고장비첫..."
+    "치매진단개발해온타임XAI,바이오서반도체로보폭…중고장비첫...",
+    "LPG산업위기…돌파구는새로운시장개척",
+    "광진구,골목형상점가3곳추가지정…지역골목상권활성화박차",
+    "젠슨황돌아오자주가12%급등…전날16억매수한SK하닉사장'눈길'",
+    "'반도체세수호황과청주시재정운용방향'콜로키움개최",
+    "'경력같은신입'직접키운다…청년도약멤버십140곳동참",
+    "KSSB\"EU,ISSB공시인정하고필요한정보만추가해야\"…해외공시매체...",
+    "SK하이닉스,'R&D도전보상제'도입⋯실패위험도나눈다"
    ],
    "initialized": true,
-   "last_run": "2026-11-24T13:55:24.879898+09:00"
+   "last_run": "2026-11-24T14:00:44.447709+09:00"
   }
  },
  "press_names": {
