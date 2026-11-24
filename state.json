@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-24T13:15:25.410670+09:00",
-     "4분기 빨간불 켜진 SK텔레콤 수익성 금융손 급감 전망 영업이익"
-    ],
-    [
-     "2026-11-24T13:15:25.410670+09:00",
-     "엑스코프리로 돕겠다 잃어버린 일상을 되찾도록 동아ST 환자들의"
-    ],
-    [
-     "2026-11-24T13:15:25.410670+09:00",
-     "혁신 특허절벽 기술 선점 앞둔 제약바이오 빅파마 조기"
-    ],
-    [
      "2026-11-24T13:20:24.864231+09:00",
      "받은 김성수 재신임 SKB 수익화 딛고 승부수 위기"
     ],
@@ -1334,13 +1322,13 @@
     [
      "2026-11-24T19:10:30.675203+09:00",
      "인력양성 패키징 호서대학교 거점 반도체"
+    ],
+    [
+     "2026-11-24T19:15:25.768990+09:00",
+     "SK하이닉스 HBM 삼성전자에 iM증권 물량 유리 돌린다 D램으로 범용"
     ]
    ],
    "seen_urls": [
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611231705217460251",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611240917170680292",
-    "https://www.ekn.kr/web/view.php?key=20261124027003745",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720834",
     "https://www.joongang.co.kr/article/25481388",
     "https://www.hankyung.com/article/2026112459656",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=302689",
@@ -2836,13 +2824,13 @@
     "https://www.todayeconomic.com/news/article.html?no=32975",
     "https://www.edaily.co.kr/News/Read?newsId=04231206645649000&mediaCodeNo=257",
     "https://www.ibabynews.com/news/articleView.html?idxno=157261",
-    "https://www.jbnews.com/news/articleView.html?idxno=1516850"
+    "https://www.jbnews.com/news/articleView.html?idxno=1516850",
+    "https://www.m-i.kr/news/articleView.html?idxno=2022897",
+    "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232724",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8721221",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507653"
    ],
    "seen_titles": [
-    "코스피,젠슨황복귀소식에'매수사이드카'…5000선회복시도",
-    "삼전닉스장초반급등…젠슨황엔비디아CEO복귀호재",
-    "SK키파운드리,MPS‘2026최우수공급사’뽑혔다",
-    "젠슨황과함께돌아온코스피4900선…매수사이드카발동",
     "젠슨황복귀·美증시폭등…코스피5000선회복[개장시황]",
     "코스피장초반급등…매수사이드카발동",
     "SK키파운드리,MPS‘올해의최우수공급사’선정",
@@ -4338,10 +4326,14 @@
     "SK텔레콤‘AI케어’,시슐랭스타10선선정…산업통상부장관상",
     "급한불껐지만…지배구조·당국조사·수익성검증과제산적",
     "[AI트렌드]피플에듀,신안하의초서AI꿈동화책교육…학생20명참...",
-    "반도체패키징인력양성거점'호서대학교'"
+    "반도체패키징인력양성거점'호서대학교'",
+    "용인반도체클러스터열병합발전소적기준공'시동'",
+    "젠슨황복귀에31%폭등한엔비디아주가…코스피도단숨에5천피탈환",
+    "젠슨황복귀에코스피급등…5천선회복",
+    "iM증권\"HBM물량범용D램으로못돌린다…SK하이닉스·삼성전자에유리..."
    ],
    "initialized": true,
-   "last_run": "2026-11-24T19:10:30.675203+09:00"
+   "last_run": "2026-11-24T19:15:25.768990+09:00"
   }
  },
  "press_names": {
