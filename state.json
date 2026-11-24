@@ -774,11 +774,17 @@
     [
      "2026-11-24T22:00:43.783478+09:00",
      "황제의 대체 1인 불가 리스크 역설"
+    ],
+    [
+     "2026-11-24T22:05:22.273691+09:00",
+     "그어 지휘 논란 공소취소 무리한 이용철 측근설도"
+    ],
+    [
+     "2026-11-24T22:05:22.273691+09:00",
+     "100만닉스도 경고 커녕 맞춘 폭락 BNK의 위태 400만닉스는"
     ]
    ],
    "seen_urls": [
-    "https://www.newstree.kr/newsView/ntr202611240002",
-    "https://www.joongangenews.com/news/articleView.html?idxno=566106",
     "https://www.g-enews.com/view.php?ud=20261124094010386627fa31d75c_1",
     "https://www.kukinews.com/article/view/kuk202611240031",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086938",
@@ -2276,11 +2282,11 @@
     "http://www.inews24.com/view/2030024",
     "https://www.vegannews.co.kr/news/article.html?no=410609",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8721518",
-    "https://www.ytn.co.kr/_ln/0104_202611242148383106"
+    "https://www.ytn.co.kr/_ln/0104_202611242148383106",
+    "https://news.tf.co.kr/read/life/2392939.htm",
+    "https://www.hankyung.com/article/2026112475896"
    ],
    "seen_titles": [
-    "국내시행사브랜드평판빅데이터분석…\"DK아시아1위유지\"",
-    "[이슈]부산가겠다는장현국,못간다는원스토어직원들",
     "'젠슨황'11일만에돌아왔다...엔비디아'1인천하'입증",
     "[개장시황]코스피,'젠슨황복귀'에5000선탈환시도…매수사이드카...",
     "SK머티리얼즈퍼포먼스,자사첫반도체용신너출하",
@@ -3778,10 +3784,12 @@
     "젠슨황돌아왔지만끝나지않은논란…美의회청문회까지",
     "SK가스,신종자본증권상환에2000억원단기차입",
     "“일시적세입증가…지출확대신중해야”",
-    "'대체불가'의역설...AI황제의'1인리스크'"
+    "'대체불가'의역설...AI황제의'1인리스크'",
+    "'공소취소논란'이용철\"무리한지휘안해\"…측근설도선그어(종합)",
+    "\"400만닉스는커녕100만닉스도위태\"…폭락맞춘BNK의경고[종목+]"
    ],
    "initialized": true,
-   "last_run": "2026-11-24T22:00:43.783478+09:00"
+   "last_run": "2026-11-24T22:05:22.273691+09:00"
   }
  },
  "press_names": {
