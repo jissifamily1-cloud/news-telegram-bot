@@ -4,26 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-24T16:30:35.768915+09:00",
-     "하나 금융지원 8200억원 우리은행 생산적 금융 KB국민 K방산에"
-    ],
-    [
-     "2026-11-24T16:30:35.768915+09:00",
-     "나선 역설 커지나 강화 자회사 규제 국회 쏠림 통신3사 알뜰폰의"
-    ],
-    [
-     "2026-11-24T16:30:35.768915+09:00",
-     "진출 금융투자회사 일본 지원 금융투자협회 국내"
-    ],
-    [
-     "2026-11-24T16:30:35.768915+09:00",
-     "순매수 외국인 골고루 담았다 8일만에 돌아온 AI밸류체인 7000억"
-    ],
-    [
-     "2026-11-24T16:30:35.768915+09:00",
-     "외국인 편의 유학생 SK텔레콤 증진 통신 맞손 조선대"
-    ],
-    [
      "2026-11-24T16:35:29.035769+09:00",
      "비난 민주당 공소취소 국민의힘 조용술 대변인 내홍 증시"
     ],
@@ -702,11 +682,17 @@
     [
      "2026-11-24T22:30:35.166428+09:00",
      "증시 귀환 AI황제의 4000조 축포"
+    ],
+    [
+     "2026-11-24T22:35:21.303293+09:00",
+     "국민이 현대차 뽑은 우수기업 삼성 10곳 사회공헌 SKT 선정"
+    ],
+    [
+     "2026-11-24T22:35:21.303293+09:00",
+     "스타 수상 장관상 SKT 최종 시슐랭 10선 케어 산업통상부"
     ]
    ],
    "seen_urls": [
-    "https://kpenews.com/View.aspx?No=4326288",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=55070",
     "https://www.joongangenews.com/news/articleView.html?idxno=566105",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=399763",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=399903",
@@ -2204,11 +2190,11 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=886868",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2496703",
     "https://www.laborplus.co.kr/news/articleView.html?idxno=41883",
-    "https://www.edaily.co.kr/News/Read?newsId=04539526645649000&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=04539526645649000&mediaCodeNo=257",
+    "https://www.m-i.kr/news/articleView.html?idxno=2022915",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=55110"
    ],
    "seen_titles": [
-    "[특징주]삼성전자·SK하이닉스,\"젠슨황복귀환영\"..'급등'",
-    "[쇼츠뉴스]전통의강자삼성vsHBM선두SK하이닉스",
     "SKT,신뢰회복딛고AI성장궤도로..고객만족3관왕·가입자반등",
     "트럼프'젠슨황구하기'성공에코스피도급등",
     "SK하이닉스주가,11월24일장중1,168,000원7.65%상승",
@@ -3706,10 +3692,12 @@
     "[마켓H]AI호황낙수효과두고...모건스탠리·골드만삭스시각차",
     "중부발전·SK이노E&S,용인반도체전력공급기반구축본격화",
     "11월4주주요제조업전망",
-    "[미리보는이데일리신문]AI황제의귀환美증시4000조축포"
+    "[미리보는이데일리신문]AI황제의귀환美증시4000조축포",
+    "삼성·현대차·SKT등10곳,국민이뽑은사회공헌우수기업선정",
+    "SKT'AI케어','2026시슐랭스타'최종10선...산업통상부장관상수상"
    ],
    "initialized": true,
-   "last_run": "2026-11-24T22:30:35.166428+09:00"
+   "last_run": "2026-11-24T22:35:21.303293+09:00"
   }
  },
  "press_names": {
