@@ -226,10 +226,13 @@
     [
      "2026-11-25T05:35:23.393491+09:00",
      "confidence Borrowed"
+    ],
+    [
+     "2026-11-25T05:45:27.634542+09:00",
+     "엔비디아 나스닥 60분 DELL 뉴욕증시 마감 추락 반도체ETF"
     ]
    ],
    "seen_urls": [
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=425267",
     "http://www.joseilbo.com/news/news_read.php?uid=580302&class=32",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=320962",
     "https://www.businesspost.co.kr/BP?command=article_view&num=452732",
@@ -1728,10 +1731,10 @@
     "https://www.seoul.co.kr/news/editOpinion/editorial/2026/11/25/20261125027007?wlog_tag3=naver",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507713",
     "https://www.sidae.com/article/2026112414154960639",
-    "https://www.koreaherald.com/article/10947859"
+    "https://www.koreaherald.com/article/10947859",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=173473"
    ],
    "seen_titles": [
-    "[핫스톡]젠슨황복귀에반도체소부장'불기둥'…원익홀딩스12%↑",
     "엔비디아경영공백해소에반도체株강세...코스피매수사이드카발동",
     "[뉴스초점]젠슨황,11일만에CEO복귀…뉴욕증시급반등",
     "중국發낸드공급과잉경고···삼성전자·SK하이닉스신규증설'신중...",
@@ -3230,10 +3233,11 @@
     "[사설]젠슨황에울고웃는증시…AI과의존벗고투자보호망을",
     "AMD까지무너졌다…미국반도체주급락에삼성전자·SK하이닉스'초긴장...",
     "중복상장규제탓국제분쟁현실화",
-    "[Editorial]Borrowedconfidence"
+    "[Editorial]Borrowedconfidence",
+    "뉴욕증시마감60분前..나스닥·엔비디아·반도체ETF·DELL'추락'"
    ],
    "initialized": true,
-   "last_run": "2026-11-25T05:40:29.705154+09:00"
+   "last_run": "2026-11-25T05:45:27.634542+09:00"
   }
  },
  "press_names": {
