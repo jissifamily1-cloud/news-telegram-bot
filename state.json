@@ -422,11 +422,17 @@
     [
      "2026-11-24T23:45:29.909630+09:00",
      "만에 미국증시 효과 하루 제동 급락 엔비디아 젠슨 마이크론"
+    ],
+    [
+     "2026-11-24T23:55:22.914223+09:00",
+     "SK머티리얼즈 반도체용 출하 신너 초고순도 퍼포먼스"
+    ],
+    [
+     "2026-11-24T23:55:22.914223+09:00",
+     "확충 조속 57호선 김진석 처인구 용인특례시의원 국지도 행감서 철도망"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2652065",
-    "https://www.kado.net/news/articleView.html?idxno=2086830",
     "https://www.handmk.com/news/articleView.html?idxno=45378",
     "https://news.tf.co.kr/read/economy/2392513.htm",
     "https://www.imaeil.com/page/view/2026112409471600034",
@@ -1924,11 +1930,11 @@
     "http://www.worktoday.co.kr/news/articleView.html?idxno=92604",
     "https://www.klnews.co.kr/news/articleView.html?idxno=323679",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=302945",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16285197"
+    "https://www.topstarnews.net/news/articleView.html?idxno=16285197",
+    "http://www.breaknews.com/1253642",
+    "http://www.breaknews.com/1253633"
    ],
    "seen_titles": [
-    "\"바닥이어디?\"...개미들잇단급락에한숨,비명",
-    "공소청,'노태우일가비자금의혹'노소영공판전증인신문청구",
     "올해만사이드카101번…2008년금융위기2배넘는‘널뛰기증시’",
     "젠슨황복귀에코스피도'화색'…5000선탈환나서",
     "우리은행,K-방산협력기업에3천억대금융지원...상생금융나서",
@@ -3426,10 +3432,12 @@
     "국민6만여명이뽑은'사회공헌맛집'10곳…한경협,첫시슐랭스타...",
     "한국AI·로봇산업협회,회원사500개돌파",
     "'김옥숙메모'의부메랑…노소영,비자금증언대외면",
-    "미국증시,젠슨황효과하루만에제동…엔비디아·마이크론급락"
+    "미국증시,젠슨황효과하루만에제동…엔비디아·마이크론급락",
+    "SK머티리얼즈퍼포먼스,반도체용초고순도신너출하",
+    "김진석용인특례시의원,행감서처인구철도망확충·국지도57호선조속..."
    ],
    "initialized": true,
-   "last_run": "2026-11-24T23:50:29.617421+09:00"
+   "last_run": "2026-11-24T23:55:22.914223+09:00"
   }
  },
  "press_names": {
