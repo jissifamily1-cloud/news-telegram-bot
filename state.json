@@ -578,18 +578,17 @@
     [
      "2026-11-25T08:10:28.158350+09:00",
      "미지수 지속은 5000선 탈환했지만 코스피 반등세"
+    ],
+    [
+     "2026-11-25T08:15:25.682292+09:00",
+     "지키기 코스피 여파 5천피 급락 기술주 시험 다시"
+    ],
+    [
+     "2026-11-25T08:15:25.682292+09:00",
+     "115만8천원 SK하이닉스 한국서 ADR은 미국 올라"
     ]
    ],
    "seen_urls": [
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2496264",
-    "https://www.joongangenews.com/news/articleView.html?idxno=566181",
-    "https://www.donga.com/news/Society/article/all/20261124/135078818/1",
-    "https://www.yna.co.kr/view/AKR20261124085900009?input=1195m",
-    "https://biz.sbs.co.kr/article_hub/20000348450?division=NAVER",
-    "https://www.widedaily.com/news/articleView.html?idxno=304542",
-    "https://biz.heraldcorp.com/article/10947348",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=327161",
-    "https://www.newstnt.com/news/articleView.html?idxno=730132",
     "https://vop.co.kr/A00001697734.html",
     "https://economist.co.kr/article/view/ecn202611240031",
     "https://biz.heraldcorp.com/article/10947387",
@@ -2080,18 +2079,18 @@
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611191921525200104275",
     "https://www.koreahealthlog.com/news/articleView.html?idxno=60116",
     "https://www.cstimes.com/news/articleView.html?idxno=729203",
-    "https://news.jtbc.co.kr/article/NB12329683?influxDiv=NAVER"
+    "https://news.jtbc.co.kr/article/NB12329683?influxDiv=NAVER",
+    "https://www.ngonews.kr/news/articleView.html?idxno=244103",
+    "https://www.news1.kr/finance/market-exr/6364961",
+    "https://www.dt.co.kr/article/12097078",
+    "http://www.kjdaily.com/article.php?aid=1795561802693455276",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1732892",
+    "https://www.epnc.co.kr/news/articleView.html?idxno=410256",
+    "https://www.ikbc.co.kr/article/view/kbc202611250013",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=68384",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=95398"
    ],
    "seen_titles": [
-    "젠슨황귀환에급반등으로'방어선구축'…단기호재?분위기반전?",
-    "젠슨황돌아오자아시아반도체주'불기둥'…대만9%·코스피7%↑",
-    "코스피급등에5천선회복...장초반매수사이드카",
-    "SK머티리얼즈퍼포먼스,반도체용초고순도신너첫출하…12월공급본...",
-    "SK하이닉스,협력사R&D도전보상제운영…5년간1천억원지원",
-    "리츠브랜드평판2026년11월빅데이터…1위SK리츠·2위롯데리츠·3위...",
-    "국립창원대·서울대,'SMR생태계,공급망조성포럼'공동개최",
-    "iM뱅크,은행앱서주식모으는텐텐통장…잔액5배늘어",
-    "노소영,‘노태우비자금의혹’증인신문앞두고불출석사유서제출",
     "젠슨황복귀에'반도체주강세'아시아증시급등",
     "[이시각주요뉴스]",
     "[특징주]네패스,온디바이스AI·반도체재료테마강세속10%대급반등",
@@ -3582,10 +3581,19 @@
     "[더벨][thebellnote]'첨단산업예외'논의기회잃은솔리다임",
     "발작감소넘어'발작제로'시대…하루10번난치성뇌전증환자희망...",
     "[MZ컨슈머]통신3사,연말혜택경쟁…외식·공연부터로밍까지",
-    "코스피5000선탈환했지만…반등세지속은미지수"
+    "코스피5000선탈환했지만…반등세지속은미지수",
+    "500대기업이익잉여금1862조원…2년새43%증가",
+    "하루만에식은'젠슨황효과'…삼전닉스프리마켓서4%약세",
+    "하루만에다시흔들린AI주…삼전·하닉,프리마켓4%대↓",
+    "뉴욕증시혼조…엔비디아5.86%·마이크론11%급락",
+    "500대기업이익잉여금1862조…반도체가증가세견인",
+    "SKT'AI케어',시슐랭스타선정…AI돌봄사회안전망확대",
+    "[속보]'젠슨황'약발하루만에끝?...반도체주일제히급락",
+    "[증시전망대]美기술주급락여파…코스피,'5천피'지키기다시시험...",
+    "[뉴욕증시마감]한국서6.7%올라115만8천원SK하이닉스,미국ADR은9...."
    ],
    "initialized": true,
-   "last_run": "2026-11-25T08:10:28.158350+09:00"
+   "last_run": "2026-11-25T08:15:25.682292+09:00"
   }
  },
  "press_names": {
