@@ -498,10 +498,13 @@
     [
      "2026-11-24T23:15:30.701996+09:00",
      "젠슨 복귀 16억 사장 하이닉스 벌어 매입 2억 전날 하루만에"
+    ],
+    [
+     "2026-11-24T23:25:21.375599+09:00",
+     "500개 회원사 돌파 한국AI 로봇산업협회"
     ]
    ],
    "seen_urls": [
-    "https://www.todayenergy.kr/news/articleView.html?idxno=305967",
     "https://www.kbsm.net/news/view.php?idx=542956",
     "https://www.joongangenews.com/news/articleView.html?idxno=566103",
     "https://www.etoday.co.kr/news/view/2652065",
@@ -2000,10 +2003,10 @@
     "https://www.edaily.co.kr/News/Read?newsId=04595286645649000&mediaCodeNo=257",
     "https://m.skyedaily.com/news_view.html?ID=315167",
     "https://www.joongang.co.kr/article/25481612",
-    "http://www.worktoday.co.kr/news/articleView.html?idxno=92604"
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=92604",
+    "https://www.klnews.co.kr/news/articleView.html?idxno=323679"
    ],
    "seen_titles": [
-    "코스피,젠슨황복귀에AI투심회복···장초반5%대급등",
     "[특징주]젠슨황'파워'…삼성7%·SK하이닉스8%'불기둥'",
     "남부발전,2040년해외사업매출액1조8000억원목표",
     "\"바닥이어디?\"...개미들잇단급락에한숨,비명",
@@ -3502,10 +3505,11 @@
     "앤스로픽,상장4거래일만에공모가아래로…엔비디아도5%↓",
     "\"배임죄폐지땐,회삿돈으로슈퍼카5대'무죄'\"",
     "젠슨황복귀전날16억매입…하이닉스사장,하루만에2억벌어",
-    "국민6만여명이뽑은'사회공헌맛집'10곳…한경협,첫시슐랭스타..."
+    "국민6만여명이뽑은'사회공헌맛집'10곳…한경협,첫시슐랭스타...",
+    "한국AI·로봇산업협회,회원사500개돌파"
    ],
    "initialized": true,
-   "last_run": "2026-11-24T23:20:27.102096+09:00"
+   "last_run": "2026-11-24T23:25:21.375599+09:00"
   }
  },
  "press_names": {
