@@ -1074,19 +1074,13 @@
     [
      "2026-11-24T10:45:23.583009+09:00",
      "5천피 엔비디아 회복의 될까 코스피 신호탄 CEO 복귀"
+    ],
+    [
+     "2026-11-24T10:50:26.459265+09:00",
+     "4명 미래 성장 부사장 단행 승진 최주선 대표 삼성SDI 기반 체제"
     ]
    ],
    "seen_urls": [
-    "https://www.hani.co.kr/arti/economy/finance/1288672.html",
-    "https://www.jbnews.com/news/articleView.html?idxno=1516710",
-    "https://www.businessplus.kr/news/articleView.html?idxno=120329",
-    "https://www.edaily.co.kr/News/Read?newsId=03102886645648672&mediaCodeNo=257",
-    "http://www.rookie.co.kr/news/articleView.html?idxno=130980",
-    "https://www.yna.co.kr/view/AKR20261123138900008?input=1195m",
-    "https://www.m-i.kr/news/articleView.html?idxno=2022286",
-    "https://www.inthenews.co.kr/news/article.html?no=94877",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16283937",
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=602350",
     "https://www.hitnews.co.kr/news/articleView.html?idxno=81015",
     "https://www.moneystorm.kr/news/articleView.html?idxno=8742",
     "https://weeklytrade.co.kr/news/view.html?section=1&category=5&no=102384",
@@ -2576,19 +2570,19 @@
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=282011",
     "https://www.eroun.net/news/articleView.html?idxno=96363",
     "https://www.newsworker.co.kr/news/articleView.html?idxno=515769",
-    "https://www.gokorea.kr/news/articleView.html?idxno=887031"
+    "https://www.gokorea.kr/news/articleView.html?idxno=887031",
+    "https://www.gokorea.kr/news/articleView.html?idxno=887044",
+    "https://www.gokorea.kr/news/articleView.html?idxno=887046",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507421",
+    "http://www.queen.co.kr/news/articleView.html?idxno=466811",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=452756",
+    "https://www.mdtoday.co.kr/news/articleView.html?idxno=627262",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=95295",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=886550",
+    "https://www.sidae.com/article/2026112410393663738",
+    "https://www.newsis.com/view/NISX20261124_0003880640"
    ],
    "seen_titles": [
-    "호서대박종영교수,기업성장전략담은'성장은구조다'공동출간",
-    "5개월만에반토막난코스피…4천대초반까지가나",
-    "청주생산기지SK하이닉스·LG화학주가동반급락",
-    "[금융권이모저모]토스뱅크,AI결제3대조건제시外",
-    "찬바람부는증시…연말주목할고배당株는?",
-    "[KBL드림컵]엘리트진학앞둔대형유망주...제2의최준용꿈꾸는KCC...",
-    "단일종목레버리지또최저가…SK하이닉스ETF2천원대'풀썩'",
-    "SK브로드밴드,AI로지역뉴스제작혁신…제작시간단축",
-    "최태원SK회장,대법원에재산분할화해권고결정신청",
-    "SK스퀘어주가,11월23일애프터마켓67만원대상승세",
     "최태원,노소영에9440억원전액지급제안⋯재산분할소송종결되나",
     "SK플라즈마·에임드바이오,ADC항암신약美임상1상IND제출",
     "[증시프리즘]대만은2%반등했는데코스피는3%급락…AI공포에4700선...",
@@ -4078,10 +4072,20 @@
     "[개장시황]젠슨황복귀와뉴욕증시폭등의전율…코스피,'매수사이...",
     "SK머티리얼즈퍼포먼스,첫반도체용초고순도신너출하",
     "전력거래소,'2026년하반기합동정전복구모의훈련'...전력재난대응...",
-    "엔비디아CEO복귀,코스피5천피회복의신호탄될까?"
+    "엔비디아CEO복귀,코스피5천피회복의신호탄될까?",
+    "젠슨황복귀로삼성전자·SK하이닉스주가급등,투자자들몰린다",
+    "젠슨황복귀,삼성전자·SK하이닉스반도체협력기대감상승",
+    "메모리호황에후공정장비까지수혜…테크윙·ISC상승동력보니",
+    "10월전국1순위청약경쟁률5.62대1…'청주가경아이파크7단지'경...",
+    "SK키파운드리,전력반도체기업MPS'올해의최우수공급사'로선정",
+    "코스피,5천선회복...삼전8%·SK하이닉스10%대급등",
+    "[증시오늘(24일)핵심특징주]코스피5038·코스닥668회복…반도체·...",
+    "[특징주]삼전닉스,젠슨황복귀에급등",
+    "코스피5000선회복시도,젠슨황효과",
+    "삼성SDI,최주선대표체제속부사장4명승진단행…\"미래성장기반..."
    ],
    "initialized": true,
-   "last_run": "2026-11-24T10:45:23.583009+09:00"
+   "last_run": "2026-11-24T10:50:26.459265+09:00"
   }
  },
  "press_names": {
