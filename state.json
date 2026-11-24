@@ -1253,8 +1253,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.thelec.kr/news/articleView.html?idxno=65765",
-    "https://www.sisaweek.com/news/articleView.html?idxno=239131",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=627085",
     "https://www.moneystorm.kr/news/articleView.html?idxno=8747",
     "https://www.hankyung.com/article/2026112346586",
@@ -2752,11 +2750,11 @@
     "https://www.yna.co.kr/view/AKR20261124094100003?input=1195m",
     "https://www.seoul.co.kr/news/economy/securities/2026/11/24/20261124500133?wlog_tag3=naver",
     "https://www.mediaus.co.kr/news/articleView.html?idxno=319125",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087061"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087061",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611240083&t=NN",
+    "https://www.itbiznews.com/news/articleView.html?idxno=232542"
    ],
    "seen_titles": [
-    "“6년치연봉날렸다”“이제야은행이자위대함깨달아”…폭락장에...",
-    "中배터리장비도입어려워진다…수출통제반사이익에촉각",
     "증권가\"롯데관광개발,여전히저평가…제주드림타워성장여력충분\"",
     "﻿SK,연말3000억회사채발행추진…12월900억만기도래",
     "[마켓뷰]\"이쯤이면바닥인줄알았는데\"…반토막증시에개미들'망연...",
@@ -4254,10 +4252,12 @@
     "\"반도체공장건설에2030년까지26만명필요…인력양성시급\"",
     "“주식-50%인증하면커트비반값”손님놀리나했더니…“나도물렸...",
     "코스피4%대급락…4,600선추락에코스닥연저점경신",
-    "이용철,배우자주식·휴업미신고사과…\"매우송구\""
+    "이용철,배우자주식·휴업미신고사과…\"매우송구\"",
+    "젠슨황복귀에아시아증시'환호'…반도체주불기둥",
+    "SK머티리얼즈퍼포먼스,반도체용초고순도신너양산체계구축"
    ],
    "initialized": true,
-   "last_run": "2026-11-24T11:50:24.226670+09:00"
+   "last_run": "2026-11-24T11:55:19.898272+09:00"
   }
  },
  "press_names": {
