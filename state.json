@@ -506,15 +506,17 @@
     [
      "2026-11-25T07:50:26.023561+09:00",
      "꺾여 효과 젠슨 필반 나스닥 하루만에"
+    ],
+    [
+     "2026-11-25T07:55:19.738980+09:00",
+     "유니테스트 코스닥 코스피 에코프로비엠 삼성E 제일기획 일성건설"
+    ],
+    [
+     "2026-11-25T07:55:19.738980+09:00",
+     "현대오토에버 복귀에 젠슨황 급등 깐부주 부활"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1732794",
-    "https://www.mt.co.kr/stock/2026/11/24/2026112411091860072",
-    "https://www.newsis.com/view/NISX20261124_0003880598",
-    "https://www.news1.kr/finance/general-stock/5984078",
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261124.99099007473",
-    "https://www.ajunews.com/view/20261124092114102",
     "https://www.gokorea.kr/news/articleView.html?idxno=887059",
     "https://www.hani.co.kr/arti/economy/finance/1288799.html",
     "https://www.banronbodo.com/news/articleView.html?idxno=33423",
@@ -2008,15 +2010,15 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=886881",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507740",
     "https://www.etoday.co.kr/news/view/2652511",
-    "http://www.inews24.com/view/2030035"
+    "http://www.inews24.com/view/2030035",
+    "https://www.slist.kr/news/articleView.html?idxno=784516",
+    "http://www.yonhapnewstv.co.kr/news/MYH20261125075230CRS",
+    "http://www.yonhapnewstv.co.kr/news/AKR20261125075114UJP",
+    "https://imnews.imbc.com/replay/2026/nwtoday/article/6868359_37012.html",
+    "https://www.public25.com/news/articleView.html?idxno=58998",
+    "https://biz.sbs.co.kr/article_hub/20000348665?division=NAVER"
    ],
    "seen_titles": [
-    "[특징주]삼성전기,젠슨황엔비디아복귀훈풍·AI부품실적기대감에...",
-    "[뉴욕증시포커스]젠슨황복귀에AI투심부활…나스닥6.51%폭등",
-    "[ET특징주]젠슨황복귀소식에美증시급반등…삼전·하닉도7~8%↑",
-    "젠슨황컴백에증권가환호…“삼전닉스·기판·전력순으로반등”",
-    "\"350만원간다더니\"골드만삭스,'삼전닉스'목표주가또내렸다",
-    "K리그'팬프렌들리클럽상'3차투표…26일까지진행",
     "신라60만원·워커힐55만원…천장뚫는특급호텔케이크값",
     "증안펀드카드도못녹인투심,젠슨황이녹였다…급반등성공한코스...",
     "젠슨황돌아왔지만'한사람리스크'는남았다…韓AI자립의딜레마",
@@ -3510,10 +3512,16 @@
     "뉴욕증시,AI·기술주반락속혼조…국제유가,반동",
     "1조5000억달러몸값도흔들…앤트로픽급락,삼성전자에불똥튀나",
     "KB證“젠슨황복귀,삼전·하닉반등촉매…2027년PER2배대”",
-    "젠슨황효과하루만에꺾여...나스닥1.5%↓필반7.88%↓"
+    "젠슨황효과하루만에꺾여...나스닥1.5%↓필반7.88%↓",
+    "앤트로픽,상장4거래일만에공모가밑으로...81.91달러마감",
+    "[3분증시]뉴욕증시,엇갈린흐름속혼조마감",
+    "'AI랠리소외'앤트로픽,상장나흘만에공모가밑으로",
+    "젠슨황랠리하루만에끝‥AI관련주일제히하락세",
+    "[코스피·코스닥,삼성E&A에코프로비엠일성건설제일기획유니테스트...",
+    "[애프터마켓리뷰]젠슨황복귀에'깐부주'부활…현대오토에버급등"
    ],
    "initialized": true,
-   "last_run": "2026-11-25T07:50:26.023561+09:00"
+   "last_run": "2026-11-25T07:55:19.738980+09:00"
   }
  },
  "press_names": {
