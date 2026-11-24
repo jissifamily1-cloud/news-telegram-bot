@@ -4,22 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-24T12:05:30.018240+09:00",
-     "확대 자사주 부양 매입 50억위안으로 효과 주가 제한적 한도 CXMT"
-    ],
-    [
-     "2026-11-24T12:05:30.018240+09:00",
-     "안개 걷혔다 동맹 HBM 삼전닉스"
-    ],
-    [
-     "2026-11-24T12:05:30.018240+09:00",
-     ""
-    ],
-    [
-     "2026-11-24T12:10:25.220093+09:00",
-     "국산 드디어 출시 국내 SK바이오 엑스코프리 41호 급여 동아 신약"
-    ],
-    [
      "2026-11-24T12:20:26.997647+09:00",
      "걸리나 증권사 실적 방어 내년 잔치 수익성 제동 관건"
     ],
@@ -1306,15 +1290,21 @@
     [
      "2026-11-24T18:05:21.935417+09:00",
      "급등에 하락 환율도 50원 코스피"
+    ],
+    [
+     "2026-11-24T18:10:26.778356+09:00",
+     "추울수록 넓게 살펴야 우리의 이웃"
+    ],
+    [
+     "2026-11-24T18:10:26.778356+09:00",
+     "주요 기업 회계 사업 입증해야 제18회 판단근거 문서로 국제회계포"
+    ],
+    [
+     "2026-11-24T18:10:26.778356+09:00",
+     "Foreign As Return Buyers Reclaims KOSPI"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20261124090418993",
-    "https://www.viva100.com/article/20261124500171",
-    "https://www.kmib.co.kr/article/20261124500096",
-    "https://www.bigtanews.co.kr/article/view/big202611240004",
-    "https://www.jasm.co.kr/news/view/326260/?sc=Naver",
-    "https://www.etoday.co.kr/news/view/2652016",
     "https://www.newsis.com/view/NISX20261124_0003880353",
     "https://www.hankookilbo.com/news/article/A2026112408130005204?did=NA",
     "https://www.g-enews.com/view.php?ud=202611240907486265153ddfb15a_1",
@@ -2808,15 +2798,15 @@
     "https://www.segye.com/newsView/20261124516447?OutUrl=naver",
     "https://www.busan.com/view/busan/view.php?code=2026112417582947260",
     "https://www.khan.co.kr/article/202611241800001",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4446310"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4446310",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=888352",
+    "https://www.hankyung.com/article/2026112476801",
+    "https://www.dkilbo.com/news/articleView.html?idxno=561989",
+    "https://www.jbnews.com/news/articleView.html?idxno=1516849",
+    "https://www.fnnews.com/news/202611241806155012",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=282073"
    ],
    "seen_titles": [
-    "SK증권\"하나투어,여행업회복에도주가저평가…목표가하향\"",
-    "하나證“SK텔레콤,현재주가앤트로픽보유·데이터센터가치반영하...",
-    "SK證\"하나투어,팬데믹이후커지는이익에도주가하락…목표가↓\"",
-    "[특징주]삼성전자·SK하이닉스급등…젠슨황복귀에반도체주반등",
-    "[속보]삼성전자8%·SK하이닉스11%급등출발…코스피도장중‘5천피’...",
-    "‘'젠슨황전격복귀’삼전·하닉우려걷히나",
     "[속보]젠슨황복귀에삼성전자8%·SK하이닉스11%급등",
     "[특징주]돌아온젠슨황에반도체급반등…하루만에19만전자·120만닉...",
     "[속보]美증시폭등에장초반삼성전자7%↑SK하이닉스9%↑",
@@ -4310,10 +4300,16 @@
     "연쇄급락은막았지만…코스피역대급변동성[젠슨황복귀]",
     "[밀물썰물]삼전닉스저격수",
     "‘기업가형국가’마추카토에3대메가묻자“K산업정책,세계모델가...",
-    "[외환-마감]코스피6%급등에환율도하락…3.50원↓"
+    "[외환-마감]코스피6%급등에환율도하락…3.50원↓",
+    "SKT'AI케어',국민이뽑은'시슐랭스타'",
+    "\"내년3%대성장해도소비회복은더딜것\"",
+    "젠슨황이돌아왔다…코스피도'5천피'귀환",
+    "[사설]추울수록더넓게살펴야할우리의이웃",
+    "\"기업주요사업등회계판단근거문서로입증해야\"[제18회국제회계포...",
+    "[ClosingMarket]KOSPIReclaims5,000AsForeignBuyersReturn"
    ],
    "initialized": true,
-   "last_run": "2026-11-24T18:05:21.935417+09:00"
+   "last_run": "2026-11-24T18:10:26.778356+09:00"
   }
  },
  "press_names": {
