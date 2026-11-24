@@ -318,10 +318,13 @@
     [
      "2026-11-25T01:05:25.612594+09:00",
      "귀환에 외국인도 젠슨 탈환 귀환 오천피"
+    ],
+    [
+     "2026-11-25T01:20:29.468456+09:00",
+     "허파가 숲길 되다 청주의 공장"
     ]
    ],
    "seen_urls": [
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000085942",
     "https://www.sedaily.com/article/20118082",
     "https://www.womennews.co.kr/news/articleView.html?idxno=284843",
     "https://news.tvchosun.com/site/data/html_dir/2026/11/24/2026112490094.html",
@@ -1820,10 +1823,10 @@
     "http://www.kjdaily.com/article.php?aid=1795534640693338276",
     "https://www.chosun.com/economy/tech_it/2026/11/25/53BEBHRDGJHNTH2IRFH5ZEN7YY/",
     "http://www.kjdaily.com/article.php?aid=1795535317693454276",
-    "https://imnews.imbc.com/replay/2026/nw2500/article/6868290_36989.html"
+    "https://imnews.imbc.com/replay/2026/nw2500/article/6868290_36989.html",
+    "https://www.kmib.co.kr/article/20261124502060"
    ],
    "seen_titles": [
-    "\"GPU예수가부활했다\"...젠슨황컴백에실리콘밸리·월가환호",
     "“삼전닉스다시날아오르나”…젠슨황복귀에개미들노릴때는",
     "코스피장초반6%폭등,'5천피'탈환시도·사이드카발동",
     "“내년eSSD수요55%늘어난다”…삼성,中시안팹고도화",
@@ -3322,10 +3325,11 @@
     "SK하이닉스,소부장R&D에5년간1천억원지원",
     "트럼프가부활시킨‘AI황제’",
     "휴림로봇·큐리언트등6종목공매도과열지정",
-    "젠슨황귀환에외국인도귀환‥오천피탈환"
+    "젠슨황귀환에외국인도귀환‥오천피탈환",
+    "공장옆3.3㎞숲길,청주의허파가되다"
    ],
    "initialized": true,
-   "last_run": "2026-11-25T01:15:27.700850+09:00"
+   "last_run": "2026-11-25T01:20:29.468456+09:00"
   }
  },
  "press_names": {
