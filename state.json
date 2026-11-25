@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-26T02:05:22.911751+09:00",
-     "코스피 몸집 증안펀드는 6년째 커졌는데 10조원 4배 제자리걸음"
-    ],
-    [
      "2026-11-26T02:35:24.285499+09:00",
      "뉴욕증시 재개에 급락 엔비디아 매도세 앞둔 연휴"
     ],
@@ -542,13 +538,17 @@
     [
      "2026-11-26T08:05:21.965590+09:00",
      "SK그룹 관심도 전월비 을지로 회식 소탈 최태원 회장 10월"
+    ],
+    [
+     "2026-11-26T08:10:26.587663+09:00",
+     "삼성전기 LG화학 SK하이닉스 현대건설"
+    ],
+    [
+     "2026-11-26T08:10:26.587663+09:00",
+     "반도체 변수 신용위험"
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507877",
-    "https://biz.chosun.com/topics/law_firm/2026/11/25/55JQYRKYMRH3NLKXEKO7OOEB4A/",
-    "http://www.thevaluenews.co.kr/news/view.php?idx=203633",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1428791",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507876",
     "https://www.etoday.co.kr/news/view/2652734",
     "https://www.koscaj.com/news/articleView.html?idxno=327636",
@@ -2044,13 +2044,13 @@
     "https://www.smartbizn.com/news/articleView.html?idxno=160552",
     "https://www.newsverse.kr/news/articleView.html?idxno=12047",
     "https://www.yna.co.kr/view/AKR20261125170400008?input=1195m",
-    "https://www.thebigdata.co.kr/view.php?ud=202611252251144961d0a8833aad_23"
+    "https://www.thebigdata.co.kr/view.php?ud=202611252251144961d0a8833aad_23",
+    "http://www.amnews.co.kr/news/articleView.html?idxno=75851",
+    "http://www.beyondpost.co.kr/view.php?ud=20261126080355435446a9e4dd7f_30",
+    "https://www.etoday.co.kr/news/view/2653083",
+    "http://www.kjdaily.com/article.php?aid=1795647790693606276"
    ],
    "seen_titles": [
-    "해킹사고무너진소비자신뢰\"SKT회복·쿠팡냉랭\"",
-    "'11일만의복귀'젠슨황이던진화두…AI패권가르는'오너십'",
-    "현대엔지니어링,발전사업2.3조원수주…용인·여수계약",
-    "[속보]노소영측,‘화해권고신청’최태원측에“진정성있다면상...",
     "[더밸류브리핑]오늘의Sh수협은행소식...아이로플랫폼출시·코오롱...",
     "수협은행,코오롱그룹계열사에기업신용분석노하우공유",
     "동절기바이러스확산공포에투심쏠렸다…일동제약·강스템바이오텍...",
@@ -3546,10 +3546,14 @@
     "[K-AI주권구축기]전화부터카톡까지…SKT·KT·카카오의'모두의AI'3...",
     "AI반도체특수가삼킨스마트폰시장...\"삼성내년출하목표9.5%·애플...",
     "급락장에자사주1일취득한도완화…증시버팀목효과는?",
-    "최태원SK그룹회장10월관심도전월비15.4%↑…'을지로회식'소탈행..."
+    "최태원SK그룹회장10월관심도전월비15.4%↑…'을지로회식'소탈행...",
+    "산림청,'제3회산림ESG우수사례공모전'열어",
+    "DK아시아로열파크씨티,주거커뮤니티브랜드평판2026년11월...1위",
+    "[전일주요공시]SK하이닉스ㆍLG화학ㆍ현대건설ㆍ삼성전기등",
+    "[증시전망]美반도체·AI신용위험변수"
    ],
    "initialized": true,
-   "last_run": "2026-11-26T08:05:21.965590+09:00"
+   "last_run": "2026-11-26T08:10:26.587663+09:00"
   }
  },
  "press_names": {
