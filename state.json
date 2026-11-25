@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-26T00:20:31.211676+09:00",
-     "KH바텍 3종목 두산로보틱스 26일 공매도 금지"
-    ],
-    [
-     "2026-11-26T00:20:31.211676+09:00",
-     "반도체 녹았다 코스피 기침하자 일장 증시가"
-    ],
-    [
      "2026-11-26T00:25:30.135047+09:00",
      "급등 다올투자증권 뷰노도 주가"
     ],
@@ -294,13 +286,17 @@
     [
      "2026-11-26T06:20:26.945991+09:00",
      "농업도시 허브로 안성 배터리 반도체 탈바꿈"
+    ],
+    [
+     "2026-11-26T06:25:19.962129+09:00",
+     "증시 반도체주 물가 충격에"
+    ],
+    [
+     "2026-11-26T06:25:19.962129+09:00",
+     "꼼수 원수로 은혜를 영업 갚는 장기 통신사"
     ]
    ],
    "seen_urls": [
-    "https://www.fnnews.com/news/202611251040409540",
-    "https://www.yna.co.kr/view/AKR20261125071400003?input=1195m",
-    "http://www.popcornnews.net/news/articleView.html?idxno=141442",
-    "https://www.greened.kr/news/articleView.html?idxno=355489",
     "https://www.sedaily.com/article/20118685",
     "http://www.inews24.com/view/2030098",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=282122",
@@ -1796,13 +1792,13 @@
     "https://www.ziksir.com/news/articleView.html?idxno=154630",
     "https://www.newsis.com/view/NISX20261125_0003883342",
     "https://www.joongang.co.kr/article/25482123",
-    "https://www.edaily.co.kr/News/Read?newsId=01394006645649656&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01394006645649656&mediaCodeNo=257",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611250941091060494",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863889&plink=ORI&cooper=NAVER",
+    "https://www.news2day.co.kr/article/20261125500060",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=769081"
    ],
    "seen_titles": [
-    "현대엔지니어링,용인·호남발전소건설본계약체결",
-    "현대엔지니어링,용인·호남발전소건설사업잇달아수주…2조2,840억...",
-    "'삼전닉스성과급'이의대쏠림꺾나…최상위권'반도체계약학과'지원...",
-    "샤힌효과기대속석화업계공급과잉우려…구조조정부담도",
     "고려대경영대스타트업연구원,개원10주년'슈퍼위크'개최",
     "코스피,美반도체주급락에하루만에5000선붕괴…삼전·닉스6%대하...",
     "젠슨황복귀에도AI거품론지속…고금리·대중수출통제‘3중고’",
@@ -3298,10 +3294,14 @@
     "[산업직썰]젠슨황복귀에급한불껐다…삼성·SK,차세대HBM협력'...",
     "나대신쇼핑·상담하는AI'피클'이던진숙제…\"AI가한일,누구책임...",
     "美‘호남반도체사업’관세근거로명시...“약속어기면25%”압박...",
-    "\"농업도시안성,반도체·배터리허브로탈바꿈\""
+    "\"농업도시안성,반도체·배터리허브로탈바꿈\"",
+    "“반도체팹건설은속도전”…정부ㆍ건설업계,숙련인력확보맞손",
+    "노소영,'화해권고'거부…최태원\"대승적취지폄훼\"",
+    "[N2모닝경제브리핑-11월26일]美증시,물가충격에반도체주또‘...",
+    "[소비자분쟁The50㊹]은혜를원수로갚는통신사꼼수영업...장기이..."
    ],
    "initialized": true,
-   "last_run": "2026-11-26T06:20:26.945991+09:00"
+   "last_run": "2026-11-26T06:25:19.962129+09:00"
   }
  },
  "press_names": {
