@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-25T18:20:28.374581+09:00",
-     "장벽 낮춘다 지원 신약개발 연구장비"
-    ],
-    [
      "2026-11-25T18:25:20.540290+09:00",
      "미래로 150년 현장의 청년의 떠받친 잇는다 부산항"
     ],
@@ -326,11 +322,17 @@
     [
      "2026-11-26T00:15:31.580041+09:00",
      "확충 지산지소 건의 정부 확보 전력망 속도 송변전"
+    ],
+    [
+     "2026-11-26T00:20:31.211676+09:00",
+     "KH바텍 3종목 두산로보틱스 26일 공매도 금지"
+    ],
+    [
+     "2026-11-26T00:20:31.211676+09:00",
+     "반도체 녹았다 코스피 기침하자 일장 증시가"
     ]
    ],
    "seen_urls": [
-    "http://www.paxetv.com/news/articleView.html?idxno=287810",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=147455",
     "https://www.newsway.co.kr/news/view?ud=2026112510052536631",
     "https://www.smarttoday.co.kr/ko-kr/articles/114042",
     "http://www.weeklytoday.com/news/articleView.html?idxno=803348",
@@ -1828,11 +1830,11 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=630762",
     "http://www.kjdaily.com/article.php?aid=1795619410693457276",
     "https://www.kado.net/news/articleView.html?idxno=2087399",
-    "https://www.kado.net/news/articleView.html?idxno=2087395"
+    "https://www.kado.net/news/articleView.html?idxno=2087395",
+    "http://www.kjdaily.com/article.php?aid=1795619817693599276",
+    "https://www.joongang.co.kr/article/25482023"
    ],
    "seen_titles": [
-    "현대엔지니어링,'용인열병합·호남복합발전소'본계약체결…2조284...",
-    "젠슨황복귀'하루천하'로...SOX1~30위모두하락",
     "기업곳간1천862조원'역대급'…삼성·SK에37%쏠렸다",
     "코스피,5000선또붕괴..젠슨황약발은하루",
     "[건설업계동향]현대건설ㆍ현대엔지니어링ㆍ대우건설(11.25)",
@@ -3330,10 +3332,12 @@
     "[속보]엔비디아주가8%급락…마이크론10%추락,앤트로픽공모가하회",
     "앤트로픽,상장나흘만에공모가붕괴",
     "강원첫메가프로젝트정부총력지원가시화",
-    "도,전력망확보속도…송변전확충·지산지소정부건의"
+    "도,전력망확보속도…송변전확충·지산지소정부건의",
+    "두산로보틱스·KH바텍등3종목26일공매도금지",
+    "일장‘황’몽코스피…미반도체기침하자증시가녹았다"
    ],
    "initialized": true,
-   "last_run": "2026-11-26T00:15:31.580041+09:00"
+   "last_run": "2026-11-26T00:20:31.211676+09:00"
   }
  },
  "press_names": {
