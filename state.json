@@ -1194,13 +1194,17 @@
     [
      "2026-11-25T20:20:29.590942+09:00",
      "Price Raises SKIET Innovation Purchase"
+    ],
+    [
+     "2026-11-25T20:25:19.695336+09:00",
+     "대응체계 유관기관 정전복구 합동 훈련 점검 전력재난 전력거래소"
+    ],
+    [
+     "2026-11-25T20:25:19.695336+09:00",
+     "사유 SK증권제12호스팩 주권매매거래정지 발생으로 상장폐지"
     ]
    ],
    "seen_urls": [
-    "https://www.joongangenews.com/news/articleView.html?idxno=566409",
-    "https://biz.heraldcorp.com/article/10948398",
-    "https://www.news1.kr/finance/market-exr/6365180",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=732059",
     "https://www.pointdaily.co.kr/news/articleView.html?idxno=327324",
     "https://www.thepublic.kr/news/articleView.html?idxno=328352",
     "https://view.asiae.co.kr/article/2026112509450907139",
@@ -2696,13 +2700,13 @@
     "http://www.cctimes.kr/news/articleView.html?idxno=939190",
     "https://www.mk.co.kr/article/12218652",
     "https://imnews.imbc.com/replay/2026/nwdesk/article/6868563_37004.html",
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=282217"
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=282217",
+    "https://www.ftimes.kr/news/articleView.html?idxno=41341",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863502&plink=ORI&cooper=NAVER",
+    "http://www.newsmaker.or.kr/news/articleView.html?idxno=186438",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16286206"
    ],
    "seen_titles": [
-    "[개장시황]코스피,반도체급락에4%대하락…5000선하루만에내줘",
-    "현대엔지니어링,‘2.3조원규모’용인·호남발전사업연속수주",
-    "'젠슨황효과'증발에'깐부주'약세전환…두산12%급락[핫종목]",
-    "하루만에사라진'젠슨황효과'…코스피,다시5000선아래로",
     "SK스토아,AI쇼호스트협업방송전개",
     "현대엔지니어링,발전소건설사업잇단수주…2조2840억원규모",
     "김영훈장관\"반도체팹속도전핵심은건설인력…적기공급총력\"",
@@ -4198,10 +4202,14 @@
     "의사보다`삼전닉스'…반도체호황이바꾼수시패턴",
     "이틀에한번꼴로사이드카울렸다…널뛰는코스피에개미들‘공황’",
     "최태원\"9,440억전액주겠다\"‥노소영\"화해말고상고취하\"",
-    "SKInnovationRaisesSKIETPurchasePrice"
+    "SKInnovationRaisesSKIETPurchasePrice",
+    "두산,2군까지칼빼들었다…조성환·박정권동시영입",
+    "[단독]'노태우비자금'사건피의자로…노재헌출석요청",
+    "전력거래소,유관기관합동정전복구훈련…전력재난대응체계점검",
+    "SK증권제12호스팩,상장폐지사유발생으로주권매매거래정지"
    ],
    "initialized": true,
-   "last_run": "2026-11-25T20:20:29.590942+09:00"
+   "last_run": "2026-11-25T20:25:19.695336+09:00"
   }
  },
  "press_names": {
