@@ -1333,8 +1333,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.thepowernews.co.kr/view.php?ud=202611250941011531de3f0aa1be_7",
-    "https://www.sedaily.com/article/20118629",
     "http://www.metroseoul.co.kr/article/20261125500045",
     "http://www.srtimes.kr/news/articleView.html?idxno=218557",
     "https://www.cstimes.com/news/articleView.html?idxno=729312",
@@ -2832,11 +2830,11 @@
     "https://www.betanews.net/article/view/beta202611250169",
     "https://www.dt.co.kr/article/12097288",
     "https://www.kmib.co.kr/article/20261125501899",
-    "https://view.asiae.co.kr/article/2026112519163966610"
+    "https://view.asiae.co.kr/article/2026112519163966610",
+    "https://weekly.hankooki.com/news/articleView.html?idxno=7195753",
+    "https://www.wolyo.co.kr/news/articleView.html?idxno=321053"
    ],
    "seen_titles": [
-    "대기업이익잉여금2년새560조증가…70%는삼성·하이닉스몫",
-    "‘5000피’하루천하…코스피4700대로밀리며매도사이드카발동[마켓...",
     "앤트로픽,상장나흘만에공모가밑으로…월가선낙관론",
     "코스피,장초반4.93%급락…4700선까지밀려",
     "코스피,4%급락…매도사이드카발동",
@@ -4334,10 +4332,12 @@
     "코스피,또다시4600선'급락'...美기술주약세영향",
     "공소청,노재헌주중대사소환통보…노태우비자금은닉의혹수사",
     "노소영,최태원화해권고요청거부",
-    "이상일용인시장“유치원건의,교육감에전달해해법찾겠다”"
+    "이상일용인시장“유치원건의,교육감에전달해해법찾겠다”",
+    "이상일용인시장,유아교육현장챙긴다…28개건의사항해법모색",
+    "SK이노베이션,SKIET합병위해주식매수청구가30%인상…3500억원이변..."
    ],
    "initialized": true,
-   "last_run": "2026-11-25T19:20:27.985792+09:00"
+   "last_run": "2026-11-25T19:25:21.349422+09:00"
   }
  },
  "press_names": {
