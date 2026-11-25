@@ -494,11 +494,13 @@
     [
      "2026-11-25T22:55:22.157830+09:00",
      "SKIET 한도 올린 SK이노 매수가 5조 뚫고 3500억 적자 합병"
+    ],
+    [
+     "2026-11-25T23:25:21.292778+09:00",
+     "강세 투매 국채가 AI주 선호 안전자산"
     ]
    ],
    "seen_urls": [
-    "https://www.sidae.com/article/2026112509253937266",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=452856",
     "http://www.4th.kr/news/articleView.html?idxno=2122638",
     "https://www.ajunews.com/view/20261125091859245",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862343&plink=ORI&cooper=NAVER",
@@ -1996,11 +1998,11 @@
     "https://www.tfmedia.co.kr/news/article.html?no=209221",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=303222",
     "http://www.inews24.com/view/2030509",
-    "http://www.yonhapnewstv.co.kr/news/MYH20261125225931brj"
+    "http://www.yonhapnewstv.co.kr/news/MYH20261125225931brj",
+    "https://cc.newdaily.co.kr/site/data/html/2026/11/25/2026112550385.html",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4446551"
    ],
    "seen_titles": [
-    "'젠슨황컴백효과'끝…코스피매도사이드카발동",
-    "삼성물산부사장단인사단행,외부영입'AI전문가'이현아상무1년만...",
     "Sh수협은행,코오롱에기업신용분석노하우전수",
     "[로펌라운지]광장,'ALB한국법률대상'6관왕…성창호·고환경변호사...",
     "\"수백억에회사를팔려고했죠\"…AI교과서에운명걸었던창업자의반...",
@@ -3498,10 +3500,12 @@
     "법무법인광장,'ALB한국법률대상'건설·부동산분야올해의로펌등...",
     "매수가30%올린SK이노·SKIET합병…1.5조적자뚫고'3500억한도'넘...",
     "삼성·SK,내년낸드값하락전망…D램상승폭도줄어",
-    "노재헌주중대사에소환통보…노태우비자금수사"
+    "노재헌주중대사에소환통보…노태우비자금수사",
+    "대기업·벤처손잡고7년간656억투자이끌었다…특구재단-SK에코플랜트...",
+    "미국채가강세…AI주투매속안전자산선호"
    ],
    "initialized": true,
-   "last_run": "2026-11-25T23:20:33.404629+09:00"
+   "last_run": "2026-11-25T23:25:21.292778+09:00"
   }
  },
  "press_names": {
