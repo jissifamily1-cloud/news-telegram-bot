@@ -1298,15 +1298,21 @@
     [
      "2026-11-26T18:40:33.919489+09:00",
      "인상 포인트 올해 기준금리 한국은행"
+    ],
+    [
+     "2026-11-26T18:45:27.655936+09:00",
+     "즐긴다 호텔신라 호텔에서 크리스마스"
+    ],
+    [
+     "2026-11-26T18:45:27.655936+09:00",
+     "리버파크 1530세대 완판 하이니티 구리역 일반분양"
+    ],
+    [
+     "2026-11-26T18:45:27.655936+09:00",
+     "경기동부권 규제 7개 팔당상수원 개선 체결 공동협약 국비"
     ]
    ],
    "seen_urls": [
-    "https://www.hankyung.com/article/2026112500296",
-    "https://www.betanews.net/article/view/beta202611260001",
-    "https://www.news1.kr/industry/general-industry/6366113",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508168",
-    "http://www.nongaek.com/news/articleView.html?idxno=97607",
-    "https://www.g-enews.com/view.php?ud=2026112519272119250c8c1c064d_1",
     "https://www.fnnews.com/news/202611260631005468",
     "https://imnews.imbc.com/replay/2026/nwtoday/article/6868643_37012.html",
     "https://www.yna.co.kr/view/AKR20261126012100009?input=1195m",
@@ -2800,15 +2806,15 @@
     "https://www.fnnews.com/news/202611261835553091",
     "https://www.joongang.co.kr/article/25482337",
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=282320",
-    "https://futurechosun.com/?p=167813"
+    "https://futurechosun.com/?p=167813",
+    "https://www.edaily.co.kr/News/Read?newsId=04319766645649656&mediaCodeNo=257",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=68549",
+    "https://www.ytn.co.kr/_ln/0102_202611261840360059",
+    "https://www.mediawatch.kr/news/article.html?no=261893",
+    "https://www.gokorea.kr/news/articleView.html?idxno=887460",
+    "https://www.lawissue.co.kr/view.php?ud=202611261744192640d94aa4ada6_12"
    ],
    "seen_titles": [
-    "\"걸어서배달하세요\"…한국최고가아파트서벌어진일[현장+]",
-    "중국이자동차전쟁에서이기고있다…100년제조업패권의대이동",
-    "SK하이닉스·中창신메모리,차세대수직형D램기술경쟁'후끈'",
-    "빅테크데이터센터투자부담커졌다…삼성전자·SK하이닉스도영향권",
-    "[논객단상]\"개인정보가유출됐습니다...\"그래서?",
-    "젠슨황복귀에도아시아AI랠리‘가시밭길’…美규제강화·투자둔...",
     "[뉴욕증시]패닉매도진정속기술주소폭하락…엔비디아낙폭,9.1→...",
     "'세기의이혼'재점화‥최태원제안거절이유는?",
     "D램우려에마이크론이틀새15%급락…고점반토막",
@@ -4302,10 +4308,16 @@
     "통신3사'5GSA'시대로…로봇제어등서비스경쟁서막",
     "최태원“9440억1주내지급,5%지연이자”…노소영은거부",
     "BOKGovernorQuestionsSemiconductorStockValuation",
-    "[더나은미래경제브리핑]한국은행기준금리0.25%포인트인상,올해들..."
+    "[더나은미래경제브리핑]한국은행기준금리0.25%포인트인상,올해들...",
+    "호남팹에과잉생산딱지…'美공장지어라'압박",
+    "이상일용인시장\"반도체도시도약,기반시설속도낼것\"",
+    "코스피,하루만에겨우반등...상승폭대부분반납",
+    "[금주의유통·라이프톡톡]크리스마스호텔에서즐긴다…호텔신라·...",
+    "'구리역하이니티리버파크'일반분양1530세대완판",
+    "경기동부권7개시·군,팔당상수원규제개선공동협약체결…국비보..."
    ],
    "initialized": true,
-   "last_run": "2026-11-26T18:40:33.919489+09:00"
+   "last_run": "2026-11-26T18:45:27.655936+09:00"
   }
  },
  "press_names": {
