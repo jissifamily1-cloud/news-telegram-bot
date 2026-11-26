@@ -286,10 +286,13 @@
     [
      "2026-11-27T00:45:26.652462+09:00",
      "군산을 제2 가동 시설 현대차 울산으로 4년내"
+    ],
+    [
+     "2026-11-27T00:55:19.723475+09:00",
+     "대만 안되면 협의 한국 EU"
     ]
    ],
    "seen_urls": [
-    "http://www.popcornnews.net/news/articleView.html?idxno=141582",
     "http://kor.theasian.asia/archives/423172",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611251302439690563",
     "https://dealsite.co.kr/articles/173135",
@@ -1788,10 +1791,10 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=631161",
     "http://www.kjdaily.com/article.php?aid=1795707282693722276",
     "http://www.kjdaily.com/article.php?aid=1795707728693723276",
-    "https://www.chosun.com/national/regional/2026/11/27/TGOXPE6355DQLO7OXXPRBYHTIE/"
+    "https://www.chosun.com/national/regional/2026/11/27/TGOXPE6355DQLO7OXXPRBYHTIE/",
+    "https://www.chosun.com/economy/industry-company/2026/11/27/LPBZYAR6QJFHLCSID2HRJKOY2Q/"
    ],
    "seen_titles": [
-    "SK증권\"미국증시,조정과약세장가를단서는11월신용잔고\"",
     "[동북아정세브리핑]중국천지닝상하이당서기조사…시진핑권력재...",
     "‘반도체ㆍAI데이터센터’투자가바꾼다…기계분야건설기술인급증",
     "김석봉뺏긴박장호…카리플렉스M&A도강제하차",
@@ -3290,10 +3293,11 @@
     "이재용회장에장기계약제안한머스크…메모리확보경쟁어디까지",
     "금양그린파워·파수AI회전율63%·58%…손바뀜활발",
     "中반도체기술자립가속…삼성전자·SK하이닉스추격",
-    "“현대차시설4년내가동…군산을제2울산으로”"
+    "“현대차시설4년내가동…군산을제2울산으로”",
+    "美“협의잘안되면한국·대만25%,日·EU20%”"
    ],
    "initialized": true,
-   "last_run": "2026-11-27T00:50:29.300765+09:00"
+   "last_run": "2026-11-27T00:55:19.723475+09:00"
   }
  },
  "press_names": {
