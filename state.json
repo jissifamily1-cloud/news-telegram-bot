@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-26T06:50:27.552670+09:00",
-     "혼조 나스닥 완화 마감 폭락세 뉴욕증시"
-    ],
-    [
-     "2026-11-26T06:55:20.245205+09:00",
-     "미국증시 불안 회복에도 투자 지속 급락폭"
-    ],
-    [
      "2026-11-26T07:05:20.682314+09:00",
      "삼전닉스 금리 기대 변수 반등할까 증안펀드"
     ],
@@ -1146,11 +1138,13 @@
     [
      "2026-11-26T12:45:28.266033+09:00",
      "브랜드평판 주거 2026년 1위 11월 로열파크씨티 DK아시아 커뮤니티"
+    ],
+    [
+     "2026-11-26T12:55:21.656292+09:00",
+     "130조 횡행하는 나라 도둑질이"
     ]
    ],
    "seen_urls": [
-    "https://en.yna.co.kr/view/AEN20261125006251320?input=2106m",
-    "https://economist.co.kr/article/view/ecn202611250044",
     "https://www.mt.co.kr/society/2026/11/25/2026112515371469126",
     "https://www.imaeil.com/page/view/2026112515545351973",
     "https://www.asiaa.co.kr/news/articleView.html?idxno=272889",
@@ -2648,11 +2642,11 @@
     "https://news.tf.co.kr/read/economy/2393633.htm",
     "http://www.kjdaily.com/article.php?aid=1795664291693618276",
     "https://www.energy-news.co.kr/news/articleView.html?idxno=230114",
-    "http://www.kjdaily.com/article.php?aid=1795664823693617276"
+    "http://www.kjdaily.com/article.php?aid=1795664823693617276",
+    "https://www.ajunews.com/view/20261126124531155",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4446726"
    ],
    "seen_titles": [
-    "[마감시황]코스피,6.16%급락해4700선붕괴…외국인1.9조순매도",
-    "왕의귀환하루만에글로벌증시비명,코스피6%추락",
     "(LEAD)Seoulsharesretreatover6pctonrevivedAIuncertainties",
     "[오늘의증시]\"말짱황\"하루만에삼전닉스10%대급락...4600선후퇴",
     "최태원측,노소영화해권고요청거부에\"진정성의심유감\"",
@@ -4150,10 +4144,12 @@
     "'샤힌'완공한에쓰오일…석화업계설비감축연내합의과제",
     "하나에어로·나노팀30%안팎급등…코스닥종목강세",
     "DK아시아로열파크씨티,주거커뮤니티2026년11월브랜드평판1위",
-    "삼성전자·SK하이닉스3.5조거래…전체의60.6%"
+    "삼성전자·SK하이닉스3.5조거래…전체의60.6%",
+    "[食전食후]코스피,급락하루만에4750선회복…외국인·기관'사자'",
+    "[남승표의궁변통구]130조도둑질이횡행하는나라"
    ],
    "initialized": true,
-   "last_run": "2026-11-26T12:50:26.855949+09:00"
+   "last_run": "2026-11-26T12:55:21.656292+09:00"
   }
  },
  "press_names": {
