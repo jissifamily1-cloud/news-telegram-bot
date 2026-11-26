@@ -1154,11 +1154,13 @@
     [
      "2026-11-26T20:20:27.164713+09:00",
      "지식 커닝 묻다 시대 형설지공을"
+    ],
+    [
+     "2026-11-26T20:25:20.433130+09:00",
+     "SK바이오팜 단기차입약정 부담 투자 상환 신약 확대"
     ]
    ],
    "seen_urls": [
-    "http://www.newskr.kr/news/articleView.html?idxno=108308",
-    "https://view.asiae.co.kr/article/2026112417350930543",
     "https://www.fntimes.com/html/view.php?ud=202611260708538272141825007d_18",
     "https://view.asiae.co.kr/article/2026112315473445338",
     "https://www.slist.kr/news/articleView.html?idxno=784882",
@@ -2656,11 +2658,11 @@
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5233174",
     "http://www.ujeil.com/news/articleView.html?idxno=396008",
     "https://www.sedaily.com/article/20119337",
-    "https://www.khan.co.kr/article/202611262015015"
+    "https://www.khan.co.kr/article/202611262015015",
+    "https://www.m-i.kr/news/articleView.html?idxno=2024093",
+    "https://www.bloter.net/news/articleView.html?idxno=679834"
    ],
    "seen_titles": [
-    "[오늘의이슈]한은기준금리결정…3.25%인상전망우세",
-    "[C쇼크,벼랑끝K산업｜반도체]⑤中과메모리격차2년…HBM이후에도...",
     "[KFT모닝브리프]2026.11.26—오늘꼭알아야할국내외경제뉴스",
     "[C쇼크,벼랑끝K산업｜반도체]④정부지원금과IPO로몸집불리는中반...",
     "↑코스피4700선시험대…삼성전자·SK하이닉스,美반도체주약세에불...",
@@ -4158,10 +4160,12 @@
     "WSJ\"이재용,칩요청한머스크에'뭘더해줄건데'2연타\"",
     "울산대,안전보건최고경영자과정수료식",
     "스틱얼터너티브,수서역로즈데일빌딩2700억에인수[시그널]",
-    "[에디터의창]‘지식커닝’AI시대,형설지공을묻다"
+    "[에디터의창]‘지식커닝’AI시대,형설지공을묻다",
+    "3차ESS우선협상물량1194MW선정…배터리공급사미공개",
+    "SK바이오팜,단기차입약정50%확대…신약투자·상환부담"
    ],
    "initialized": true,
-   "last_run": "2026-11-26T20:20:27.164713+09:00"
+   "last_run": "2026-11-26T20:25:20.433130+09:00"
   }
  },
  "press_names": {
