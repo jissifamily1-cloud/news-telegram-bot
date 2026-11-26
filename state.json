@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-26T21:10:27.362791+09:00",
-     "후보 특검 대통 추천 조작기소"
-    ],
-    [
      "2026-11-26T21:20:31.751649+09:00",
      "설마 데려왔다 KIA 가나 김민식을 박동원 LG가"
     ],
@@ -182,10 +178,13 @@
     [
      "2026-11-27T02:55:20.292620+09:00",
      "트집 깨알 진력하는 관세 기술패권 교역국엔 칼날 트럼프"
+    ],
+    [
+     "2026-11-27T03:15:28.852767+09:00",
+     "노리고 차세대 화웨이 개발 추월 삼성 HBM SK하이닉스"
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2653131",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508229",
     "https://www.newspim.com/news/view/20261126000079",
     "https://view.asiae.co.kr/article/2026112608501307839",
@@ -1684,10 +1683,10 @@
     "https://www.kmib.co.kr/article/20261126501903",
     "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022182",
     "https://www.yna.co.kr/view/AKR20261127001900071?input=1195m",
-    "https://weekly.chosun.com/news/articleView.html?idxno=60136"
+    "https://weekly.chosun.com/news/articleView.html?idxno=60136",
+    "https://www.bloter.net/news/articleView.html?idxno=679839"
    ],
    "seen_titles": [
-    "SK케미칼에코젠,커피드리퍼에적용…내열성으로열손실줄인다",
     "엔비디아칩수천개가시장에나온이유…SK하이닉스HBM수요에도변화...",
     "[특징주]美기술주낙폭축소에프리마켓서삼성전자1%·SK하이닉스2%...",
     "에이루트,반도체노광장비자회사합병승인…글로벌시장공략본격화",
@@ -3186,10 +3185,11 @@
     "공급부족여전한데과잉생산?…“美협상용지렛대가능성”",
     "KIA가'우승포수'내주며트레이드로영입했는데…끝내은퇴선언\"개명...",
     "美기술패권진력하는트럼프…교역국엔'깨알트집'관세칼날",
-    "머스크도애타는삼성전자반도체…이재용\"뭘더해줄수있나?\""
+    "머스크도애타는삼성전자반도체…이재용\"뭘더해줄수있나?\"",
+    "\"화웨이,삼성·SK하이닉스추월노리고차세대HBM개발\""
    ],
    "initialized": true,
-   "last_run": "2026-11-27T03:10:27.287482+09:00"
+   "last_run": "2026-11-27T03:15:28.852767+09:00"
   }
  },
  "press_names": {
