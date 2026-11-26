@@ -1050,11 +1050,13 @@
     [
      "2026-11-26T20:40:26.717038+09:00",
      "삼전닉스 증가 공매도 급감 에코프로는"
+    ],
+    [
+     "2026-11-26T20:55:20.640825+09:00",
+     "주요기사 비즈니스포스트 아침의"
     ]
    ],
    "seen_urls": [
-    "https://www.mediatoday.co.kr/news/articleView.html?idxno=338716",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=630828",
     "https://www.etoday.co.kr/news/view/2653069",
     "https://slownews.kr/170219",
     "https://www.kado.net/news/articleView.html?idxno=2087130",
@@ -2552,11 +2554,11 @@
     "https://www.chosun.com/economy/tech_it/2026/11/26/3UELRQCP2RGPFJQN2TKPBFHSIU/",
     "https://www.ksmnews.co.kr/news/view.php?idx=631283",
     "https://www.sedaily.com/article/20119589",
-    "http://www.yonhapnewstv.co.kr/news/MYH20261126204403QK0"
+    "http://www.yonhapnewstv.co.kr/news/MYH20261126204403QK0",
+    "https://www.edaily.co.kr/News/Read?newsId=04437846645649656&mediaCodeNo=257",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=453076"
    ],
    "seen_titles": [
-    "경향신문\"비상계엄침묵한법관회의,조희대탄핵엔'독립침해'\"",
-    "[속보]엔비디아150달러붕괴…마이크론4.53%하락,앤트로픽은반등",
     "[전날애프터마켓]삼성전자17만원선내줘…SK하이닉스도낙폭확대",
     "만점자급증,의사냥이-간호냥이도있었나:슬로우레터11월26일.",
     "[AI가바꿀지역의미래와혁신]염재호'초대국가인공지능위원회부위...",
@@ -4054,10 +4056,12 @@
     "머스크도퇴짜맞은메모리확보전쟁…JY“뭘더해줄건데”",
     "호남반도체800조투자와미국의관세압박…한국경제,정부주도성장...",
     "“이재용,‘반도체장기구매할게’머스크에‘다들그정도는...뭘더...",
-    "코스피,금리인상에뒷심부족…4,700선은회복"
+    "코스피,금리인상에뒷심부족…4,700선은회복",
+    "최태원측\"1주일내9440억지급·5%지연이자\"제안",
+    "[11월27일자]비즈니스포스트아침의주요기사"
    ],
    "initialized": true,
-   "last_run": "2026-11-26T20:50:27.116233+09:00"
+   "last_run": "2026-11-26T20:55:20.640825+09:00"
   }
  },
  "press_names": {
