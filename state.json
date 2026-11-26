@@ -1190,11 +1190,17 @@
     [
      "2026-11-26T12:30:38.494864+09:00",
      "삼성전자 메모리 개발체제 시스템LSI 영업 격상 일원화"
+    ],
+    [
+     "2026-11-26T12:35:20.020554+09:00",
+     "서울이랜드 대구 준PO 상대 화성FC K리그2"
+    ],
+    [
+     "2026-11-26T12:35:20.020554+09:00",
+     "반도체 SOXL은 ETF 2위 SOXS 순매도 하락 순매수"
     ]
    ],
    "seen_urls": [
-    "http://www.newsdream.kr/news/articleView.html?idxno=123022",
-    "https://biz.heraldcorp.com/article/10949209",
     "http://www.nongaek.com/news/articleView.html?idxno=97624",
     "https://www.dkilbo.com/news/articleView.html?idxno=562120",
     "https://news.tf.co.kr/read/economy/2393080.htm",
@@ -2692,11 +2698,11 @@
     "https://www.ytn.co.kr/_ln/0103_202611261214237452",
     "https://news.tf.co.kr/read/national/2393715.htm",
     "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073653",
-    "http://www.inews24.com/view/2030737"
+    "http://www.inews24.com/view/2030737",
+    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3042193",
+    "http://www.kjdaily.com/article.php?aid=1795663756693603276"
    ],
    "seen_titles": [
-    "한중일뚫은세노바메이트…SK바이오팜1조매출'눈앞'",
-    "목대균“공포에팔지마라…던지는주식사모을때”[장기투자콘퍼런...",
     "코스피급락의날…SK하이닉스11%'와르르'",
     "방산스타트업15곳투자검증…‘카운터디펜스’내달첫개최",
     "삐걱대는SK이노·SKIET흡수합병…매수가30%인상'승부수'통할까?",
@@ -4194,10 +4200,12 @@
     "노소영,화해권고거부...'세기의이혼'새국면?[뉴스나우]",
     "'부산항의기억을청년의미래로'…'2026부산항사람들'성료",
     "프로텍메인터넌스,울산숲서임직원환경정화활동펼쳐",
-    "삼성전자,메모리개발체제일원화…시스템LSI영업조직격상"
+    "삼성전자,메모리개발체제일원화…시스템LSI영업조직격상",
+    "K리그2화성FC준PO상대,대구?서울이랜드?",
+    "반도체하락ETF(SOXS)순매수2위…SOXL은순매도"
    ],
    "initialized": true,
-   "last_run": "2026-11-26T12:30:38.494864+09:00"
+   "last_run": "2026-11-26T12:35:20.020554+09:00"
   }
  },
  "press_names": {
