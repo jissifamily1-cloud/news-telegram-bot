@@ -941,7 +941,6 @@
     ]
    ],
    "seen_urls": [
-    "https://news.dealsitetv.com/articles/179091",
     "https://dealsite.co.kr/articles/173362",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=303246",
     "https://view.asiae.co.kr/article/2026112511205511110",
@@ -2440,10 +2439,10 @@
     "https://www.radiokorea.com/news/article.php?uid=510819",
     "https://www.khan.co.kr/article/202611262126005",
     "http://www.econonews.co.kr/news/articleView.html?idxno=447783",
-    "https://www.joongang.co.kr/article/25482356"
+    "https://www.joongang.co.kr/article/25482356",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1429588"
    ],
    "seen_titles": [
-    "[핀포인트][이수스페셜티케미컬]마더플랜트가남긴청구서…‘인고의...",
     "[배터리ESS빌드업][SK온]SK그룹배터리살리기총력전,홀로서기분...",
     "15%막았지만반도체정조준…미국,한국에25%인상여지·301조'압박'",
     "[스타트업필독法]솔리다임사례가던진중복상장의문제점",
@@ -3942,10 +3941,11 @@
     "반도체품귀에머스크도진땀...이재용\"뭘더해줄건데?\"",
     "신현송“영업익700조반도체시총은2000조불과설명어려운면있어...",
     "코스피,강보합에4700선회복...삼성전기,SK하이닉스등상승",
-    "머스크도물량확보에진땀?…WSJ이전한삼성과의협상일화"
+    "머스크도물량확보에진땀?…WSJ이전한삼성과의협상일화",
+    "일론머스크\"반도체삽니다\"요구에이재용반문\"뭘더해줄수있나\""
    ],
    "initialized": true,
-   "last_run": "2026-11-26T21:35:21.707546+09:00"
+   "last_run": "2026-11-26T21:40:26.292376+09:00"
   }
  },
  "press_names": {
