@@ -294,13 +294,25 @@
     [
      "2026-11-27T00:30:37.987722+09:00",
      "상승 하락 현대차 코스피 삼성전기"
+    ],
+    [
+     "2026-11-27T00:35:21.621945+09:00",
+     "반도체 늘려야 변동성 줄이고 이익 주주 기업 환원 한국"
+    ],
+    [
+     "2026-11-27T00:35:21.621945+09:00",
+     "메모리 초호황 고점 vs 공급 수요가 압도 내년"
+    ],
+    [
+     "2026-11-27T00:35:21.621945+09:00",
+     "반토막 고점 급락 대비 이틀 마이크론"
+    ],
+    [
+     "2026-11-27T00:35:21.621945+09:00",
+     "거래대금 코스피200 인버스는 지수 ETF 증가"
     ]
    ],
    "seen_urls": [
-    "http://www.newsprime.co.kr/news/article.html?no=756564",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4446591",
-    "https://www.hankyung.com/article/2026112609676",
-    "https://www.newsway.co.kr/news/view?ud=2026112608222686610",
     "https://www.newsway.co.kr/news/view?ud=2026112608270472940",
     "https://www.m-i.kr/news/articleView.html?idxno=2023545",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4446594",
@@ -1796,13 +1808,13 @@
     "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=436007",
     "http://www.kjdaily.com/article.php?aid=1795706819693721276",
     "http://www.kjdaily.com/article.php?aid=1795706591693638276",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=631130"
+    "https://www.cbci.co.kr/news/articleView.html?idxno=631130",
+    "https://www.chosun.com/economy/stock-finance/2026/11/27/FJYU2HTQJVBDJFBGQ5GVYV3DMM/",
+    "https://www.donga.com/news/Economy/article/all/20261126/135098564/2",
+    "http://www.kjdaily.com/article.php?aid=1795706784693605276",
+    "http://www.kjdaily.com/article.php?aid=1795706910693636276"
    ],
    "seen_titles": [
-    "원익QnC,삼성·하이닉스에북미L사물량폭증까지…\"자회사가치0원...",
-    "[롤러코스피]출렁일수록외국인더판다…매도부르는위험한악순환",
-    "정부,증안펀드확대논의…\"코스피200·코스닥150투입유력\"",
-    "CJ,올리브영성장세둔화에…증권가눈높이줄하향[애널리스트의시각...",
     "프리마켓서삼전닉스동반반등…105만닉스·17만전자회복[특징주]",
     "이상일용인특례시장,공립·사립유치원원장들과교육현안논의",
     "삼성전자,세계최초500단급낸드기술공개",
@@ -3298,10 +3310,14 @@
     "AI가뒤집은메모리시장…머스크도삼성앞에서\"물량더달라\"",
     "LK삼양29.93%·미래에셋벤처투자21.57%↑…우주항공주강세",
     "우주항공ETF10%급등…원유레버리지ETN도강세",
-    "코스피0.29%상승4,711…삼성전기3.9%상승·현대차3.7%하락"
+    "코스피0.29%상승4,711…삼성전기3.9%상승·현대차3.7%하락",
+    "“한국반도체기업,이익변동성줄이고주주환원늘려야”",
+    "“메모리초호황내년고점”vs“수요가공급압도”",
+    "마이크론이틀새15%급락…고점대비반토막",
+    "美지수ETF거래대금46%↓…코스피200인버스는증가"
    ],
    "initialized": true,
-   "last_run": "2026-11-27T00:30:37.987722+09:00"
+   "last_run": "2026-11-27T00:35:21.621945+09:00"
   }
  },
  "press_names": {
