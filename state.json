@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-26T06:20:26.945991+09:00",
-     "농업도시 허브로 안성 배터리 반도체 탈바꿈"
-    ],
-    [
      "2026-11-26T06:25:19.962129+09:00",
      "증시 반도체주 물가 충격에"
     ],
@@ -1186,12 +1182,13 @@
     [
      "2026-11-26T12:15:24.250110+09:00",
      "공급과잉 D램은 공급난 K반도체 업황은 새해 낸드는"
+    ],
+    [
+     "2026-11-26T12:20:29.355632+09:00",
+     "하향 반도체 엔비디아 검토 긴장 신용등급"
     ]
    ],
    "seen_urls": [
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=147492",
-    "https://www.wikileaks-kr.org/news/articleView.html?idxno=195251",
-    "https://view.asiae.co.kr/article/2026112515501198608",
     "https://www.bloter.net/news/articleView.html?idxno=679681",
     "https://www.topstarnews.net/news/articleView.html?idxno=16285955",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=366615",
@@ -2688,12 +2685,12 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086819",
     "https://www.wikitree.co.kr/articles/1177971",
     "http://www.econotelling.com/news/articleView.html?idxno=21729",
-    "https://www.newsis.com/view/NISX20261126_0003884254"
+    "https://www.newsis.com/view/NISX20261126_0003884254",
+    "https://www.sedaily.com/article/20119283",
+    "http://www.metroseoul.co.kr/article/20261126500266",
+    "https://dealsite.co.kr/articles/173555"
    ],
    "seen_titles": [
-    "코스피,사이드카에도6%대급락…젠슨황효과하루만에반납",
-    "[마감시황]\"어제는천당,오늘은지옥\"...코스피,6%급락해4700선붕괴",
-    "외인순매도코스피,6.16%내린4697마감...반도체9~10%동반급락",
     "다시평행선달리는최태원·노소영…화해권고요청거부VS\"취지폄훼...",
     "반도체급락에코스피6%빠졌다…4600선마감",
     "SK㈜,1.36조투입해SK에코플랜트지분98.2%확보",
@@ -4190,10 +4187,13 @@
     "'삼전닉스',반도체라인'100%풀가동'…AI슈퍼사이클입증",
     "'한국증시상황'생방송하다가울어버린한국여성...해외서도폭발적...",
     "[특별기획]'SK70년'최종건ㆍ최종현語錄유산(89)SK의글로벌자산",
-    "\"D램은공급난,낸드는공급과잉\"…K반도체새해업황은"
+    "\"D램은공급난,낸드는공급과잉\"…K반도체새해업황은",
+    "물가폭주에도“호남팹”관세얹고“10%더”[트럼프스톡커]",
+    "삼성전자특별배당반영…KODEX200커버드콜액티브11월분배율2.24%",
+    "S&P,엔비디아신용등급하향검토…韓반도체긴장"
    ],
    "initialized": true,
-   "last_run": "2026-11-26T12:15:24.250110+09:00"
+   "last_run": "2026-11-26T12:20:29.355632+09:00"
   }
  },
  "press_names": {
