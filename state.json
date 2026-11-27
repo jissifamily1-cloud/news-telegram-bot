@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-28T00:15:26.224178+09:00",
-     "티씨케이 233억 한미반도체 공매도 비중"
-    ],
-    [
-     "2026-11-28T00:15:26.224178+09:00",
-     "진정되나 투매 뉴욕증시 나스닥 상승 출발"
-    ],
-    [
      "2026-11-28T00:25:20.024439+09:00",
      "재벌이 기업관 성과 공정위원장의 편향된 독차지한다"
     ],
@@ -162,10 +154,13 @@
     [
      "2026-11-28T06:10:31.037323+09:00",
      "개시 3분기 공시 제약 이력으로 현황 넘어 변화"
+    ],
+    [
+     "2026-11-28T06:15:27.429065+09:00",
+     "삼성전자 매수 LG엔솔 팔았다 집중 SK하이닉스는"
     ]
    ],
    "seen_urls": [
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1733178",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=305963",
     "https://www.ajunews.com/view/20261127082201327",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611171719546280105961",
@@ -1664,10 +1659,10 @@
     "https://www.newsis.com/view/NISX20261127_0003886031",
     "https://www.dt.co.kr/article/12097513",
     "http://www.srtimes.kr/news/articleView.html?idxno=218857",
-    "https://www.medipana.com/news/articleView.html?idxno=422855"
+    "https://www.medipana.com/news/articleView.html?idxno=422855",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509063"
    ],
    "seen_titles": [
-    "[증시전망]외국인수급·금리부담변수",
     "문경은감독이선택한김태형,3점슛기대치는최고수준",
     "대한상의,국제통상위원회개최…美중간선거이후통상불확실성대응...",
     "대한상의,美중간선거이후통상불확실성점검…기업들\"세액공제유...",
@@ -3166,10 +3161,11 @@
     "복합위기속'CEO유임'택했다…불확실성에내실다지기[인사로본재...",
     "[이상현의전자수첩]또스멀스멀고개드는‘메모리고점론’",
     "[주간브리핑]젠슨황CEO11일만에전격복귀…정부개각추진속여야...",
-    "제약R&D공시,현황넘어이력으로변화…3분기개시"
+    "제약R&D공시,현황넘어이력으로변화…3분기개시",
+    "[주간거래소기관]삼성전자·LG엔솔집중매수…SK하이닉스는팔았다"
    ],
    "initialized": true,
-   "last_run": "2026-11-28T06:10:31.037323+09:00"
+   "last_run": "2026-11-28T06:15:27.429065+09:00"
   }
  },
  "press_names": {
