@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-28T01:35:21.381656+09:00",
-     "2조원 맡는다 삼성SDI ESS 나눠 시장 SK온"
-    ],
-    [
      "2026-11-28T01:50:27.046739+09:00",
      "1억 고려대에 모교 최동수씨 가족"
     ],
@@ -238,10 +234,13 @@
     [
      "2026-11-28T07:30:36.763664+09:00",
      "다우 4년래 뉴욕증시 주간 상승률 매수에 저가"
+    ],
+    [
+     "2026-11-28T07:35:21.926777+09:00",
+     "경고 날아든 딛고 반등했지만 서늘한 반도체주에 폭락"
     ]
    ],
    "seen_urls": [
-    "https://www.ajunews.com/view/20261127084541403",
     "https://news.tvchosun.com/site/data/html_dir/2026/11/27/2026112790071.html",
     "http://www.popcornnews.net/news/articleView.html?idxno=141794",
     "https://www.fnnews.com/news/202611270848128001",
@@ -1740,10 +1739,10 @@
     "http://www.joseilbo.com/news/news_read.php?uid=580641&class=53",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509090",
     "https://www.ytn.co.kr/_ln/0104_202611280724559317",
-    "https://www.etoday.co.kr/news/view/2654163"
+    "https://www.etoday.co.kr/news/view/2654163",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611280003&t=NN"
    ],
    "seen_titles": [
-    "3차ESS중앙계약시장우선협상자확정…명단'비공개'",
     "美중간선거후에도통상시계제로…재계“세액공제·규제대응절실”",
     "머스크도진땀뺀'메모리대란'…삼성공장앞숙소잡은빅테크기업...",
     "SK證\"한미약품,기술이전으로R&D경쟁력입증…목표가63만원\"",
@@ -3242,10 +3241,11 @@
     "외국인매수에증시'화색'...신한證\"유동성에숨통트였다\"",
     "AI투자돈줄서버·저장장치로확산…델·HPE상승에이수페타시스주...",
     "샌디스크등메모리주,'이익절벽'우려속반등",
-    "뉴욕증시,AI저가매수에↑⋯다우4년래최대주간상승률[종합]"
+    "뉴욕증시,AI저가매수에↑⋯다우4년래최대주간상승률[종합]",
+    "폭락딛고반등했지만…반도체주에날아든서늘한경고"
    ],
    "initialized": true,
-   "last_run": "2026-11-28T07:30:36.763664+09:00"
+   "last_run": "2026-11-28T07:35:21.926777+09:00"
   }
  },
  "press_names": {
