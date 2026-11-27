@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-27T19:15:27.287583+09:00",
-     "우리투자증권 2기 대표 종투사 이끈다 임무 도약 1년 남기천 임종룡"
-    ],
-    [
-     "2026-11-27T19:20:26.896262+09:00",
-     "대표 수습 카드로 재무위기 복원 수주 경쟁력 교체 현대엔지니어링"
-    ],
-    [
      "2026-11-27T19:25:27.504212+09:00",
      "굴기 반도체 메모리 CXMT 기술 중국 추격 화웨이 위협하는 마이크론"
     ],
@@ -214,10 +206,13 @@
     [
      "2026-11-28T00:45:26.719261+09:00",
      "국채가 위험선호 반등 AI주 회복 약세"
+    ],
+    [
+     "2026-11-28T01:20:27.075393+09:00",
+     "ADT캡스 수비상 KBO 김도영"
     ]
    ],
    "seen_urls": [
-    "https://www.ziksir.com/news/articleView.html?idxno=154894",
     "https://news.dealsitetv.com/articles/179110",
     "https://www.youthdaily.co.kr/news/article.html?no=230360",
     "https://www.youthdaily.co.kr/news/article.html?no=230364",
@@ -1716,10 +1711,10 @@
     "http://www.kjdaily.com/article.php?aid=1795793599693752276",
     "https://www.hankyung.com/article/2026112753941",
     "https://www.chosun.com/economy/money/2026/11/28/JM24JZKUANGITKK2IUBUGELKXI/",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4447022"
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4447022",
+    "https://www.joongang.co.kr/article/25482713"
    ],
    "seen_titles": [
-    "신한투자\"SK리츠,고금리에도배당확대⋯상장리츠최선호주\"",
     "네이버·카카오AI에이전트내달출격…피클과다른'실행방식'승부",
     "‘주축7명부상교체’한국농구,악재딛고‘대승’···카타르에2...",
     "[경제직썰]불난인플레에기름붓기…美'관세의덫'에갇혔다",
@@ -3218,10 +3213,11 @@
     "반도체레버리지ETF16%↑…SK하이닉스도강세",
     "[토요칼럼]'한국인비만약성지'된대마도",
     "증안펀드투입기대감에,코스피4%코스닥8%올라",
-    "미국채가약세…AI주반등속위험선호회복"
+    "미국채가약세…AI주반등속위험선호회복",
+    "김도영등ADT캡스KBO수비상"
    ],
    "initialized": true,
-   "last_run": "2026-11-28T01:15:26.092131+09:00"
+   "last_run": "2026-11-28T01:20:27.075393+09:00"
   }
  },
  "press_names": {
