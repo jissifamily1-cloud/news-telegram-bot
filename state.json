@@ -529,7 +529,6 @@
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000349237?division=NAVER",
     "https://www.topstarnews.net/news/articleView.html?idxno=16287474",
     "https://biz.heraldcorp.com/article/10951077",
     "https://biz.sbs.co.kr/article_hub/20000349236?division=NAVER",
@@ -2028,10 +2027,10 @@
     "https://www.edaily.co.kr/News/Read?newsId=03548966645649984&mediaCodeNo=257",
     "https://www.imaeil.com/page/view/2026112722064859332",
     "https://www.betanews.net/article/view/beta202611270138",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=95833"
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=95833",
+    "https://www.munhwa.com/article/11634719"
    ],
    "seen_titles": [
-    "[오늘증시전망]코스피4,700선회복했지만상승폭축소…27일외국인...",
     "[분석]GPU·메모리다음은'전력·광통신'…SK김지현이본AI산업'빅...",
     "美중간선거이후통상불확실성여전…기업들\"세액공제유지필요\"",
     "[마켓프리뷰]강한경제전망에금리인상확률확대…상승장제동",
@@ -3530,10 +3529,11 @@
     "주가급락에칼빼든SK하이닉스…하루70만주자사주매입주문",
     "\"난마이너스인데…\"SK하이닉스,인당7억여원성과급전망",
     "고점대비63%떨어진SK하이닉스…자사주매입속도두배로",
-    "[뉴욕증시개장전]SK하이닉스111만원·코스피4.3%↑이어…나스닥선..."
+    "[뉴욕증시개장전]SK하이닉스111만원·코스피4.3%↑이어…나스닥선...",
+    "SK하이닉스자사주매수수량70만주로확대…기존2배"
    ],
    "initialized": true,
-   "last_run": "2026-11-27T22:35:28.242546+09:00"
+   "last_run": "2026-11-27T22:40:26.954039+09:00"
   }
  },
  "press_names": {
