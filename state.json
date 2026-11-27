@@ -238,11 +238,13 @@
     [
      "2026-11-28T07:45:25.821947+09:00",
      "앤트로픽에 삼성SDS 몰렸다 LG 기대 128억달러 수혜 CNS도"
+    ],
+    [
+     "2026-11-28T07:55:19.518969+09:00",
+     "떨어질 수도 경고 4만원까지 삼성전자 전문가"
     ]
    ],
    "seen_urls": [
-    "https://www.newspim.com/news/view/20261127000131",
-    "http://www.popcornnews.net/news/articleView.html?idxno=141792",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4446873",
     "https://www.etoday.co.kr/news/view/2653745",
     "https://www.ajunews.com/view/20261127081229301",
@@ -1740,11 +1742,11 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611280003&t=NN",
     "https://www.getnews.co.kr/news/articleView.html?idxno=888757",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509092",
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=68628"
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=68628",
+    "http://www.osen.co.kr/article/G1112916010",
+    "https://www.hankyung.com/article/2026112857987"
    ],
    "seen_titles": [
-    "[아이온의AI:온]금리는올랐다…외국인은돌아올까",
-    "SK인텔릭스,'2026올해의상생기업대상'중기부장관표창수상",
     "'중동의존도낮춘다'…케이카,동유럽중고차시장공략",
     "[모닝리포트]\"SK스퀘어,4조3000억규모주주환원기대\"",
     "코웨이,11월정수기브랜드평판1위기록...LG전자‧브리타뒤이어",
@@ -3242,10 +3244,12 @@
     "폭락딛고반등했지만…반도체주에날아든서늘한경고",
     "메모리반도체주,주간반등'이익절벽'우려해소될까?",
     "앤트로픽에128억달러몰렸다…삼성SDS·LGCNS도AI수혜기대",
-    "AI·반도체가끌어올린뉴욕증시…나스닥2.3%급등,'변동성은계속된..."
+    "AI·반도체가끌어올린뉴욕증시…나스닥2.3%급등,'변동성은계속된...",
+    "'굿바이캡틴'부천FC,김천상대로2026년마지막홈경기...'한지호은퇴...",
+    "\"삼성전자4만원까지떨어질수도\"…전문가'경고'"
    ],
    "initialized": true,
-   "last_run": "2026-11-28T07:50:27.064906+09:00"
+   "last_run": "2026-11-28T07:55:19.518969+09:00"
   }
  },
  "press_names": {
