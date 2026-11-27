@@ -1221,12 +1221,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508441",
-    "https://www.cnbizm.com/news/articleView.html?idxno=322854",
-    "https://www.donga.com/news/It/article/all/20261126/135096147/1",
-    "https://www.mt.co.kr/tech/2026/11/26/2026112614253271868",
-    "https://www.m-i.kr/news/articleView.html?idxno=2023916",
-    "https://www.etnews.com/20261126000396",
     "https://www.businesspost.co.kr/BP?command=article_view&num=453019",
     "http://www.newstomato.com/ReadNews.aspx?no=1321966&inflow=N",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592497177832",
@@ -2720,15 +2714,15 @@
     "https://www.cbci.co.kr/news/articleView.html?idxno=631289",
     "https://www.newsis.com/view/NISX20261127_0003886057",
     "https://www.businesspost.co.kr/BP?command=article_view&num=453120",
-    "https://en.yna.co.kr/view/AEN20261127004100320?input=2106m"
+    "https://en.yna.co.kr/view/AEN20261127004100320?input=2106m",
+    "https://www.fntimes.com/html/view.php?ud=202611271140223481179ad43907_18",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508805",
+    "https://news.jtbc.co.kr/article/NB12330143?influxDiv=NAVER",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=303617",
+    "https://dealsite.co.kr/articles/173651",
+    "https://biz.sbs.co.kr/article_hub/20000349327?division=NAVER"
    ],
    "seen_titles": [
-    "SK에코플랜트,AI데이터센터혁신기술발굴·지원",
-    "해외서도AI에이전트에'빗장'…AI비서시대'새질서'모색",
-    "\"특별배당11·12월분할지급\"삼성운용'KODEX200커버드콜액티브'분배...",
-    "[어바웃C]'재무통'떠난현대엔지니어링,'건축통'나태준발탁",
-    "휴스틸·넥스틸·하이스틸동반휘파…강관주반등신호탄쏘나",
-    "SK케미칼'에코젠',스페셜티커피드리퍼소재로채택",
     "‘6G비전페스트2026’12월송도서열린다…국내외45개기업참가",
     "정부·AI·ICT기업이함께일냈다…'NIPA동반성장2026'행사개막",
     "[기획]\"한은다음은연준\"…12월美금리인상예고에'긴축도미노'",
@@ -4222,10 +4216,16 @@
     "[총수家]이재용삼성전자회장⑬ㅣAI반도체패권경쟁속초격차행...",
     "서울미래인재재단,고려대서AI장학생성과공유회개최",
     "\"AI메모리반도체공급부족에중국공장이해법\"현지매체주장,삼성...",
-    "Pay-TVsubscriberscontinuetodecline;IPTVsubscribersslightlyup"
+    "Pay-TVsubscriberscontinuetodecline;IPTVsubscribersslightlyup",
+    "[프로필]최창훈SK증권각자대표이사후보자",
+    "SK인텔릭스,'2026올해의상생기업대상'중기부장관표창수상…협력...",
+    "7년만에'5G단독모드'시대...\"그동안계속5G요금냈는데\"",
+    "[상생경영]SK인텔릭스,동반성장주간서장관표창…협력성과인정",
+    "엔비디아,동남아서버출하보류…피치\"AI투자둔화\"경고",
+    "최태원'7일내지급'제안…노소영거부"
    ],
    "initialized": true,
-   "last_run": "2026-11-27T11:45:25.102061+09:00"
+   "last_run": "2026-11-27T11:50:25.241779+09:00"
   }
  },
  "press_names": {
