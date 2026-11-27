@@ -134,11 +134,13 @@
     [
      "2026-11-28T05:35:25.538264+09:00",
      "Arm 쇼룸 엔비디아 공동 인프라 불러오겠다 포인투 한국"
+    ],
+    [
+     "2026-11-28T05:45:27.718082+09:00",
+     "주식 아니다 보여도 경고 금융위기 로젠버그 담을"
     ]
    ],
    "seen_urls": [
-    "https://www.edaily.co.kr/News/Read?newsId=01328406645649984&mediaCodeNo=257",
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=68561",
     "http://www.press9.kr/news/articleView.html?idxno=87117",
     "https://www.wikitree.co.kr/articles/1178197",
     "https://www.electimes.com/news/articleView.html?idxno=375356",
@@ -1636,11 +1638,11 @@
     "https://www.sedaily.com/article/20120088",
     "https://www.kmib.co.kr/article/20261127500980",
     "https://www.theguru.co.kr/news/article.html?no=110320",
-    "https://www.edaily.co.kr/News/Read?newsId=01223446645650312&mediaCodeNo=257"
+    "https://www.edaily.co.kr/News/Read?newsId=01223446645650312&mediaCodeNo=257",
+    "https://imnews.imbc.com/news/2026/world/article/6869225_36925.html",
+    "https://www.newspim.com/news/view/20261128000013"
    ],
    "seen_titles": [
-    "재계\"美중간선거뒤에도통상불확실성\"…지원책요구",
-    "삼전·닉스,엇갈린흐름…프리마켓서삼전강보합·SK하닉1%↓",
     "[AIMY증시전망]코스피,美관세우려완화에상승전망…외국인수급...",
     "\"100억찍으면팔겠다\"던95년생…SK하닉팔아용산아파트샀다",
     "[증시전망대]코스피,저가매수에상승출발전망…\"외국인매수전환...",
@@ -3138,10 +3140,12 @@
     "뉴욕증시,AI저가매수에일제히반등...반도체지수4.7%↑[데일리국...",
     "증안펀드기대·30조배당에증시급등…펀드적기투입이관건",
     "[통신리뷰]LG유플러스,현대차기아로보틱스랩과5GSA로'피지컬AI'통...",
-    "“엔비디아·Arm불러오겠다”…포인투,美한국AI인프라공동쇼룸제..."
+    "“엔비디아·Arm불러오겠다”…포인투,美한국AI인프라공동쇼룸제...",
+    "뉴욕증시,AI·기술주반등에일제히상승마감‥나스닥2.3%↑",
+    "'금융위기경고'로젠버그\"미주식,싸보여도더담을때아니다\""
    ],
    "initialized": true,
-   "last_run": "2026-11-28T05:40:26.256445+09:00"
+   "last_run": "2026-11-28T05:45:27.718082+09:00"
   }
  },
  "press_names": {
