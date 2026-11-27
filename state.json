@@ -158,12 +158,17 @@
     [
      "2026-11-28T06:15:27.429065+09:00",
      "삼성전자 매수 LG엔솔 팔았다 집중 SK하이닉스는"
+    ],
+    [
+     "2026-11-28T06:20:26.345800+09:00",
+     "재설계 한국형 파네시아 인프라 메모리 중심으로 데이터센터"
+    ],
+    [
+     "2026-11-28T06:20:26.345800+09:00",
+     "두산에너빌리티 ELECTRIC 반도체 대형주 사고 LS"
     ]
    ],
    "seen_urls": [
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=305963",
-    "https://www.ajunews.com/view/20261127082201327",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611171719546280105961",
     "https://www.ziksir.com/news/articleView.html?idxno=154895",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=887877",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611251629190040101623",
@@ -1660,12 +1665,12 @@
     "https://www.dt.co.kr/article/12097513",
     "http://www.srtimes.kr/news/articleView.html?idxno=218857",
     "https://www.medipana.com/news/articleView.html?idxno=422855",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509063"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509063",
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611280001&t=NN",
+    "https://www.edaily.co.kr/News/Read?newsId=01302166645650312&mediaCodeNo=257",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509065"
    ],
    "seen_titles": [
-    "문경은감독이선택한김태형,3점슛기대치는최고수준",
-    "대한상의,국제통상위원회개최…美중간선거이후통상불확실성대응...",
-    "대한상의,美중간선거이후통상불확실성점검…기업들\"세액공제유...",
     "[박정식의국내주식시황]美추수감사절휴장속기관매수지속…코스...",
     "SK證\"LGCNS,내년AI인프라성장본격화…목표가9만1000원\"",
     "[더벨][K원전경쟁력점검]한국기업이투자한미국SMR설계3사면면...",
@@ -3162,10 +3167,13 @@
     "[이상현의전자수첩]또스멀스멀고개드는‘메모리고점론’",
     "[주간브리핑]젠슨황CEO11일만에전격복귀…정부개각추진속여야...",
     "제약R&D공시,현황넘어이력으로변화…3분기개시",
-    "[주간거래소기관]삼성전자·LG엔솔집중매수…SK하이닉스는팔았다"
+    "[주간거래소기관]삼성전자·LG엔솔집중매수…SK하이닉스는팔았다",
+    "'너무빠졌나'저가매수에기술주일제히반등…나스닥2.3%↑",
+    "“메모리중심으로AI인프라재설계”…파네시아,한국형데이터센터...",
+    "[주간거래소외국인]두산에너빌리티·LSELECTRIC사고반도체대형주..."
    ],
    "initialized": true,
-   "last_run": "2026-11-28T06:15:27.429065+09:00"
+   "last_run": "2026-11-28T06:20:26.345800+09:00"
   }
  },
  "press_names": {
