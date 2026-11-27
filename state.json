@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-28T00:45:26.719261+09:00",
-     "국채가 위험선호 반등 AI주 회복 약세"
-    ],
-    [
      "2026-11-28T01:20:27.075393+09:00",
      "ADT캡스 수비상 KBO 김도영"
     ],
@@ -166,11 +162,13 @@
     [
      "2026-11-28T06:45:25.196191+09:00",
      "뉴욕증시도 화답했나 한중일 나스닥 증시 급등에"
+    ],
+    [
+     "2026-11-28T06:50:34.353250+09:00",
+     "반도체주 반등 본격 잦아들자 삼성전자 SK하이닉스도 공포 폭발"
     ]
    ],
    "seen_urls": [
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=68563",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=303557",
     "https://www.newsis.com/view/NISX20261127_0003885478",
     "https://www.g-enews.com/view.php?ud=2026112708254710109a1f309431_1",
     "http://www.popcornnews.net/news/articleView.html?idxno=141779",
@@ -1668,11 +1666,11 @@
     "https://www.mediapen.com/news/view/1140789",
     "https://www.womennews.co.kr/news/articleView.html?idxno=285061",
     "https://www.yna.co.kr/view/AKR20261128008900009?input=1195m",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=8949"
+    "https://www.moneystorm.kr/news/articleView.html?idxno=8949",
+    "https://www.news2day.co.kr/article/20261128500004",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509079"
    ],
    "seen_titles": [
-    "[개장전주요공시]에이피알·두산·골프존홀딩스·롯데렌탈등",
-    "日키옥시아,엔비디아손잡는다…삼성·SK노리나",
     "3차ESS중앙계약시장우선협상대상자선정…전국14곳1194MW",
     "최태원'9440억원전액지급'제안에도…노소영과화해난항",
     "SK바이오팜,'오파칼림'계약금지급앞두고단기차입한도1000억원확대",
@@ -3170,10 +3168,12 @@
     "[美증시]앤트로픽·반도체급등3대지수동반랠리…AI비관론완화",
     "뉴욕증시,AI·기술주반등에일제히상승…나스닥2.3%↑",
     "샌디스크16%↑…메모리주,'이익절벽'우려속주간반등",
-    "[글로벌마켓뷰]한중일증시급등에뉴욕증시도화답했나…나스닥2.3..."
+    "[글로벌마켓뷰]한중일증시급등에뉴욕증시도화답했나…나스닥2.3...",
+    "외국인반도체'팔자'지속…기관은LG엔솔,개인은삼성전자담았다",
+    "AI공포잦아들자반도체주폭발…삼성전자·SK하이닉스도본격반등'신..."
    ],
    "initialized": true,
-   "last_run": "2026-11-28T06:45:25.196191+09:00"
+   "last_run": "2026-11-28T06:50:34.353250+09:00"
   }
  },
  "press_names": {
