@@ -218,13 +218,21 @@
     [
      "2026-11-28T07:10:28.334428+09:00",
      "주가 자사주 방어에 승부수 하루 70만주로 SK하이닉스 주문 확대"
+    ],
+    [
+     "2026-11-28T07:15:30.395938+09:00",
+     "국내 랠리 100억달러 이어지나 SOXL 반도체 증시로 돌파 거래대금"
+    ],
+    [
+     "2026-11-28T07:15:30.395938+09:00",
+     "엔비디아 동반 상승에 테크윙 ISC도 이수페타시스 열기 투자 AMD"
+    ],
+    [
+     "2026-11-28T07:15:30.395938+09:00",
+     "IPTV 전시 AX 관리 AI로 확장전 지역협력 이통3사"
     ]
    ],
    "seen_urls": [
-    "http://www.press9.kr/news/articleView.html?idxno=87123",
-    "http://www.popcornnews.net/news/articleView.html?idxno=141785",
-    "http://www.popcornnews.net/news/articleView.html?idxno=141786",
-    "https://www.etoday.co.kr/news/view/2653715",
     "https://www.mk.co.kr/article/12219839",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508698",
     "https://www.fnnews.com/news/202611270810258928",
@@ -1720,13 +1728,13 @@
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611270021&t=NN",
     "https://www.dailian.co.kr/news/view/1720596/?sc=Naver",
     "https://www.joongang.co.kr/article/25482745",
-    "https://www.jemin.com/news/articleView.html?idxno=848713"
+    "https://www.jemin.com/news/articleView.html?idxno=848713",
+    "https://www.hankyung.com/article/2026112857597",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509087",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509086",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088432"
    ],
    "seen_titles": [
-    "DS증권\"SK스퀘어상당한과매도상태…목표가120만원\"",
-    "키움증권\"삼성전자·LG이노텍기회잡나…애플폴더블폰이바꿀부품주...",
-    "[어제장오늘장]내릴땐엘리베이터,오를땐계단…코스피,반등은언...",
-    "대원제약,4Q실적회복…자체신약순항-SK證",
     "KT엠모바일,11월알뜰폰평판1위'수성'…프리티25%급등'초박빙맹...",
     "SK증권\"대원제약,독감유행에4분기흑자전환전망…목표가↓\"",
     "[증시키워드]머스크도삼성전자메모리확보‘진땀’⋯삼성SDI1.4조자...",
@@ -3222,10 +3230,14 @@
     "반도체실적전망개선에도주가하락…박문환,증시저평가진단[박문...",
     "\"더해줄건?\"머스크에반문한이재용·통합LCC부산행조원태·아워홈...",
     "코스피200ETF샀는데삼전닉스가58%…‘분산투자’의배신",
-    "SK하이닉스,주가방어에승부수…하루자사주주문70만주로확대"
+    "SK하이닉스,주가방어에승부수…하루자사주주문70만주로확대",
+    "AI투자우려속기술주반등…나스닥2.3%상승[뉴욕증시]",
+    "SOXL거래대금100억달러돌파…AI반도체랠리국내증시로이어지나",
+    "AMD·엔비디아동반상승에AI투자열기…테크윙·이수페타시스·ISC도...",
+    "이통3사,AI로'전시·지역협력·IPTV'관리…AX확장전"
    ],
    "initialized": true,
-   "last_run": "2026-11-28T07:10:28.334428+09:00"
+   "last_run": "2026-11-28T07:15:30.395938+09:00"
   }
  },
  "press_names": {
