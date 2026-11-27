@@ -273,7 +273,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.sentv.co.kr/article/view/sentv202611270030",
     "https://www.slist.kr/news/articleView.html?idxno=785263",
     "https://www.ajunews.com/view/20261127085518441",
     "https://biz.chosun.com/stock/stock_general/2026/11/27/BVUPS2CI5VG7JFNTTYTADTWTTA/",
@@ -1772,10 +1771,10 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1733293",
     "https://www.newscj.com/news/articleView.html?idxno=3452822",
     "https://www.khan.co.kr/article/202611280807001",
-    "http://www.srtimes.kr/news/articleView.html?idxno=218899"
+    "http://www.srtimes.kr/news/articleView.html?idxno=218899",
+    "https://biz.heraldcorp.com/article/10952342"
    ],
    "seen_titles": [
-    "호남반도체클러스터과잉생산지목…글로벌수요대응에제동우려",
     "넥사다이내믹스,AI서버755억추가수주…하반기1000억돌파",
     "SK인텔릭스,협력사269개품목에납품대금연동제...중기부장관표창",
     "美‘반도체25%관세’압박…韓재계“대미투자세액공제연장절실...",
@@ -3274,10 +3273,11 @@
     "뉴욕증시,반도체주강세에3대지수상승…나스닥2.31%↑",
     "뉴욕증시,AI강세에일제히상승…국제유가는하락",
     "미증시3대지수일제히상승…추수감사절휴장후반등랠리",
-    "[기자수첩]레버리지잔치는끝났다…금투업계는무엇을권했나"
+    "[기자수첩]레버리지잔치는끝났다…금투업계는무엇을권했나",
+    "美증시,간만에일제히상승…AI·기술주반등"
    ],
    "initialized": true,
-   "last_run": "2026-11-28T08:15:25.122561+09:00"
+   "last_run": "2026-11-28T08:20:27.074803+09:00"
   }
  },
  "press_names": {
