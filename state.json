@@ -126,10 +126,13 @@
     [
      "2026-11-28T05:05:21.684760+09:00",
      "데일리국 증시 일제히 반도체지수 뉴욕 저가매수에 반등"
+    ],
+    [
+     "2026-11-28T05:15:25.645741+09:00",
+     "투입이 급등 증안펀드 적기 기대 30조배당에 펀드 관건 증시"
     ]
    ],
    "seen_urls": [
-    "http://www.yonhapnewstv.co.kr/news/AKR20261127081054F81",
     "https://www.newsis.com/view/NISX20261127_0003885495",
     "https://www.newspim.com/news/view/20261127000055",
     "https://www.edaily.co.kr/News/Read?newsId=01328406645649984&mediaCodeNo=257",
@@ -1628,10 +1631,10 @@
     "https://www.jemin.com/news/articleView.html?idxno=848704",
     "http://www.beyondpost.co.kr/view.php?ud=2026112804540797052aaae0046f_30",
     "https://www.kbmaeil.com/article/20261128500006",
-    "https://www.sedaily.com/article/20120088"
+    "https://www.sedaily.com/article/20120088",
+    "https://www.kmib.co.kr/article/20261127500980"
    ],
    "seen_titles": [
-    "KT엠모바일1위지켰다…프리티,브랜드평판격차8663까지추격",
     "KT엠모바일,알뜰폰브랜드평판2026년11월...1위",
     "[단독]3차ESS중앙계약시장,이지스·KGP·에퀴스·SK이터닉스'설욕'...",
     "재계\"美중간선거뒤에도통상불확실성\"…지원책요구",
@@ -3130,10 +3133,11 @@
     "엔비디아·키옥시아,AI메모리기술혁신추진…낸드플래시활용확대",
     "앤트로픽10%,마이크론7.6%반등...반도체,기술주일제히반등",
     "AI주반등에나스닥2.31%↑…다우592포인트상승",
-    "뉴욕증시,AI저가매수에일제히반등...반도체지수4.7%↑[데일리국..."
+    "뉴욕증시,AI저가매수에일제히반등...반도체지수4.7%↑[데일리국...",
+    "증안펀드기대·30조배당에증시급등…펀드적기투입이관건"
    ],
    "initialized": true,
-   "last_run": "2026-11-28T05:10:31.009837+09:00"
+   "last_run": "2026-11-28T05:15:25.645741+09:00"
   }
  },
  "press_names": {
