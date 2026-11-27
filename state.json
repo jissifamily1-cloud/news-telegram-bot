@@ -234,12 +234,13 @@
     [
      "2026-11-28T07:25:18.829055+09:00",
      "외국인 증시 유동성에 숨통 화색 신한 트였다 매수에"
+    ],
+    [
+     "2026-11-28T07:30:36.763664+09:00",
+     "다우 4년래 뉴욕증시 주간 상승률 매수에 저가"
     ]
    ],
    "seen_urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=303555",
-    "https://www.sentv.co.kr/article/view/sentv202611270025",
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=68566",
     "https://www.ajunews.com/view/20261127084541403",
     "https://news.tvchosun.com/site/data/html_dir/2026/11/27/2026112790071.html",
     "http://www.popcornnews.net/news/articleView.html?idxno=141794",
@@ -1736,12 +1737,12 @@
     "https://www.news2day.co.kr/article/20261125500358",
     "https://www.getnews.co.kr/news/articleView.html?idxno=888756",
     "https://www.autodaily.co.kr/news/articleView.html?idxno=602525",
-    "http://www.joseilbo.com/news/news_read.php?uid=580641&class=53"
+    "http://www.joseilbo.com/news/news_read.php?uid=580641&class=53",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509090",
+    "https://www.ytn.co.kr/_ln/0104_202611280724559317",
+    "https://www.etoday.co.kr/news/view/2654163"
    ],
    "seen_titles": [
-    "SK인텔릭스,'2026올해의상생기업대상'중소벤처기업부장관표창수...",
-    "영원무역,OEM회복더뎌지나…목표주가줄하향[애널리스트의시각]",
-    "에이피알,닥터멜락신인수에'몸값재평가'기대…주가할인걷어낼까",
     "3차ESS중앙계약시장우선협상자확정…명단'비공개'",
     "美중간선거후에도통상시계제로…재계“세액공제·규제대응절실”",
     "머스크도진땀뺀'메모리대란'…삼성공장앞숙소잡은빅테크기업...",
@@ -3238,10 +3239,13 @@
     "[N2포커스]증시특수저물고금리오르고…은행,금융지주실적다시...",
     "'블플'뉴욕증시,AI·기술주반등에상승마감…나스닥2.3%↑",
     "中화웨이,HBM기술SK하이닉스·삼성전자턱밑추격",
-    "외국인매수에증시'화색'...신한證\"유동성에숨통트였다\""
+    "외국인매수에증시'화색'...신한證\"유동성에숨통트였다\"",
+    "AI투자돈줄서버·저장장치로확산…델·HPE상승에이수페타시스주...",
+    "샌디스크등메모리주,'이익절벽'우려속반등",
+    "뉴욕증시,AI저가매수에↑⋯다우4년래최대주간상승률[종합]"
    ],
    "initialized": true,
-   "last_run": "2026-11-28T07:25:18.829055+09:00"
+   "last_run": "2026-11-28T07:30:36.763664+09:00"
   }
  },
  "press_names": {
