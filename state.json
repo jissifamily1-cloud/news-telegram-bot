@@ -4,14 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-28T10:20:28.160174+09:00",
-     "질주에 필수소비재 상승 CJ제일제당 코스트코 오리온도 월마트"
-    ],
-    [
-     "2026-11-28T10:20:28.160174+09:00",
-     "반전 막판에 주간 쓸까 첫째주 살아난 삼전닉스 드라마 12월 증시해"
-    ],
-    [
      "2026-11-28T10:30:33.407251+09:00",
      "외쳐 던졌다 7만전자 났는데 이번엔 난리 폭탄 4만전자"
     ],
@@ -310,12 +302,13 @@
     [
      "2026-11-28T16:20:26.292867+09:00",
      "성장판 전산망까지 데이터센터부터 LG씨엔에스 금융 열렸다"
+    ],
+    [
+     "2026-11-28T16:25:22.422772+09:00",
+     "시험 기업 검증 채용도 딜레마 AI가 노린다 치르고 기밀까지"
     ]
    ],
    "seen_urls": [
-    "http://www.joseilbo.com/news/news_read.php?uid=580582&class=53",
-    "https://www.news2day.co.kr/article/20261127500051",
-    "https://www.widedaily.com/news/articleView.html?idxno=304938",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=400521",
     "https://www.delighti.co.kr/news/articleView.html?idxno=125762",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=400519",
@@ -1812,12 +1805,12 @@
     "https://economist.co.kr/article/view/ecn202611280008",
     "https://www.housingherald.co.kr/news/articleView.html?idxno=63598",
     "https://www.yna.co.kr/view/AKR20261128039000007?input=1195m",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509167"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509167",
+    "https://www.newsis.com/view/NISX20261128_0003887129",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16288458",
+    "https://magazine.hankyung.com/business/article/202611259724b"
    ],
    "seen_titles": [
-    "두산에너빌리티,영주765가구‘트리븐가흥’견본주택27일개관",
-    "코스피,반도체주약세에보합권등락…코스닥은3%대급등",
-    "\"반도체공장에로봇더들어온다\"…제닉스·에스피시스템스상한가[주...",
     "코스피,4,700선강보합…삼성전자·SK하이닉스동반약세",
     "[특징주]제닉스로보틱스,삼성·SK하이닉스반도체팹AMR확대추진소...",
     "[빅데이터투데이]공기청정기2026년11월브랜드평판랭킹...1위삼성...",
@@ -3314,10 +3307,13 @@
     "[속보]삼성전자4만원대로떨어진다'섬뜩한전망나왔다'",
     "IPARK현대산업개발,광주사고이후,산수2구역수주확정…지역사회...",
     "FC서울'우승파티'서대전4-1제압…손정범첫멀티골",
-    "AI데이터센터부터금융전산망까지…LG씨엔에스성장판열렸다"
+    "AI데이터센터부터금융전산망까지…LG씨엔에스성장판열렸다",
+    "'K리그1챔피언'서울,대전4-1꺾고완벽한'우승대관식'",
+    "손정범데뷔첫멀티골…FC서울,K리그1마지막홈경기서대전4-1완파",
+    "AI가시험치르고기밀까지노린다…기업채용도검증딜레마"
    ],
    "initialized": true,
-   "last_run": "2026-11-28T16:20:26.292867+09:00"
+   "last_run": "2026-11-28T16:25:22.422772+09:00"
   }
  },
  "press_names": {
