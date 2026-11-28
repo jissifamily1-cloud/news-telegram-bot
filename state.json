@@ -422,12 +422,13 @@
     [
      "2026-11-28T10:50:29.770451+09:00",
      "트럼프 압박 관세 재개 위협 전술핵 노골화"
+    ],
+    [
+     "2026-11-28T10:55:20.289292+09:00",
+     "반도체주 나스닥 돌아왔다"
     ]
    ],
    "seen_urls": [
-    "https://www.mt.co.kr/industry/2026/11/27/2026112707562186126",
-    "https://www.viva100.com/article/20261127500050",
-    "https://www.ddaily.co.kr/page/view/2026112708594753733",
     "http://www.inews24.com/view/2031079",
     "https://www.energy-news.co.kr/news/articleView.html?idxno=230132",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=303587",
@@ -1924,12 +1925,12 @@
     "https://www.straightnews.co.kr/news/articleView.html?idxno=316447",
     "https://www.todayeconomic.com/news/article.html?no=33034",
     "https://www.kukinews.com/article/view/kuk202611280006",
-    "https://www.ytn.co.kr/_ln/0104_202611281028306733"
+    "https://www.ytn.co.kr/_ln/0104_202611281028306733",
+    "https://www.joongangenews.com/news/articleView.html?idxno=567309",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3765945",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=888247"
    ],
    "seen_titles": [
-    "코스피,외국인매수세에4,750선회복...코스닥2%대상승",
-    "[애널픽]종근당,위고비매출감소에실적공백…\"신약R&D주목\"",
-    "코스피,美증시휴장속저가매수유입…4720선시작",
     "美중간선거이후불확실성여전…재계\"무역장벽대응필요\"",
     "[개장시황]코스피,외국인·기관매수에상승…코스닥도강세",
     "SK인텔릭스,상생협력공로로중기부장관표창수상",
@@ -3426,10 +3427,13 @@
     "[살집말집]'고양한신더휴'비역세권에창릉신도시보다고분양가\"말...",
     "현대차주가5개월새70%증발…로봇이올린주가,본업이끌어내렸다",
     "지식재산처,반도체·이차전지현장소통…기업IP경쟁력강화",
-    "트럼프,관세압박재개...북,전술핵위협노골화"
+    "트럼프,관세압박재개...북,전술핵위협노골화",
+    "최근5거래일SK텔레콤주가변동성확대",
+    "뉴욕증시AI·반도체급반등에3대지수일제히상승…나스닥2.31%껑충",
+    "AI·반도체주돌아왔다…나스닥2.31%↑"
    ],
    "initialized": true,
-   "last_run": "2026-11-28T10:50:29.770451+09:00"
+   "last_run": "2026-11-28T10:55:20.289292+09:00"
   }
  },
  "press_names": {
