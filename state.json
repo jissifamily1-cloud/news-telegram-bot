@@ -350,10 +350,13 @@
     [
      "2026-11-28T09:15:25.984995+09:00",
      "올라 P500 엔비디아 복귀에 젠슨 1년"
+    ],
+    [
+     "2026-11-28T09:20:28.523582+09:00",
+     "브랜드타운 동일하이빌 반도체 산단 용인반도체클러스터"
     ]
    ],
    "seen_urls": [
-    "https://www.yna.co.kr/view/AKR20261127032800008?input=1195m",
     "https://hbnpress.com/news/view/1065570926636802",
     "http://www.fieldnews.kr/news/articleView.html?idxno=33459",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088527",
@@ -1852,10 +1855,10 @@
     "https://www.seoultimes.news/news/article.html?no=2000102826",
     "https://www.bigtanews.co.kr/article/view/big202611270021",
     "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611280011&t=NN",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=95838"
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=95838",
+    "https://www.mk.co.kr/article/12220640"
    ],
    "seen_titles": [
-    "美관세압박에EU수입규제강화까지…경제계,정부지원요청",
     "“코스피,글로벌강세속상승출발전망…수급부담변수”<키움證>",
     "SK인텔릭스,‘2026상생기업대상’중기부장관표창수상",
     "[특징주]삼성전자,장초반소폭상승…SK하이닉스는0.5%↓",
@@ -3354,10 +3357,11 @@
     "[CEO위클리]이재용4488억원배당·정기선150억원주식매입…함영주...",
     "삼성증권,11월넷째주에이피알등5종목매수추천",
     "\"삼성전자7만원도바닥아니다\"…4만전자경고한전문가",
-    "[뉴욕증시주간결산]젠슨황복귀에엔비디아20%↑…S&P5005.6%올라1년..."
+    "[뉴욕증시주간결산]젠슨황복귀에엔비디아20%↑…S&P5005.6%올라1년...",
+    "“반도체산단옆브랜드타운”…‘용인반도체클러스터동일하이빌파..."
    ],
    "initialized": true,
-   "last_run": "2026-11-28T09:15:25.984995+09:00"
+   "last_run": "2026-11-28T09:20:28.523582+09:00"
   }
  },
  "press_names": {
