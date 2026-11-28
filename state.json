@@ -4,18 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-28T08:35:22.230155+09:00",
-     "HD현대일렉트릭 종목 중요 유안타증권 실적이 한화에어로 지수보다"
-    ],
-    [
-     "2026-11-28T08:35:22.230155+09:00",
-     "정규장 현대차 종가보다 할인"
-    ],
-    [
-     "2026-11-28T08:40:26.927392+09:00",
-     "LG에너지솔루션 보호 전쟁 수혜 미국 재점화 삼성SDI 제조업 가능성은"
-    ],
-    [
      "2026-11-28T08:55:20.718713+09:00",
      "블프엔 쇼핑 채권 주식 AI주 달러"
     ],
@@ -342,10 +330,13 @@
     [
      "2026-11-28T14:35:20.882737+09:00",
      "NYT 7년 역설 AI의 화웨이는 어떻게 규제의 중심이 됐나 제재"
+    ],
+    [
+     "2026-11-28T14:40:29.201161+09:00",
+     "100만기 전력 우주 시대 삼성전자 이어 데이터센터 개막 한화솔루션에"
     ]
    ],
    "seen_urls": [
-    "https://biz.sbs.co.kr/article_hub/20000349248?division=NAVER",
     "https://www.womennews.co.kr/news/articleView.html?idxno=284721",
     "http://www.srtimes.kr/news/articleView.html?idxno=218813",
     "https://edu.donga.com/news/articleView.html?idxno=114105",
@@ -1844,10 +1835,10 @@
     "https://www.ajunews.com/view/20261128140041824",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509142",
     "https://www.newsway.co.kr/news/view?ud=2026112814150550632",
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=602531"
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=602531",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509150"
    ],
    "seen_titles": [
-    "[특징주]방산株,중동군사적긴장에강세…한화에어로스페이스5%↑",
     "반도체,사상처음석유·가스수출액추월…AI가연'칩달러'시대",
     "[이시각시황]코스피보합·코스닥3%급등…바이오·로봇·2차전지주...",
     "[‘2026양성평등기업지수’]기회·지위·보상공정한‘3E’기업10...",
@@ -3346,10 +3337,11 @@
     "[인문자의반도체슈퍼사이클과대한민국의운명|인간·문화·자연]외...",
     "SK하이닉스이익이키운SK스퀘어의힘…주주환원확대로재평가받나",
     "코스피반등해도주도주는바뀐다…내년주목할4개업종은",
-    "NYT\"美규제의역설\"…제재7년,화웨이는어떻게中AI의중심이됐나"
+    "NYT\"美규제의역설\"…제재7년,화웨이는어떻게中AI의중심이됐나",
+    "우주데이터센터100만기시대개막…삼성전자·한화솔루션에이어전력..."
    ],
    "initialized": true,
-   "last_run": "2026-11-28T14:35:20.882737+09:00"
+   "last_run": "2026-11-28T14:40:29.201161+09:00"
   }
  },
  "press_names": {
