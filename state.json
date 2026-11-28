@@ -281,8 +281,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.newsis.com/view/NISX20261127_0003885823",
-    "https://www.wolyo.co.kr/news/articleView.html?idxno=321135",
     "http://www.weeklytoday.com/news/articleView.html?idxno=803727",
     "https://www.asiaa.co.kr/news/articleView.html?idxno=273269",
     "https://www.the-today.com/news/articleView.html?idxno=94178",
@@ -1780,11 +1778,11 @@
     "https://www.yna.co.kr/view/AKR20261128039051007?input=1195m",
     "https://www.sedaily.com/article/20120153",
     "http://www.breaknews.com/1255007",
-    "https://www.maniareport.com/view.php?ud=202611281754462496dad9f33a29_19"
+    "https://www.maniareport.com/view.php?ud=202611281754462496dad9f33a29_19",
+    "https://www.news1.kr/sports/soccer/6369226",
+    "https://www.dt.co.kr/article/12097714"
    ],
    "seen_titles": [
-    "치솟던메모리가격드디어꺾이나…DDR4현물가격하락전환",
-    "삼성SDI·SK온,정부3차ESS사업물량확보...각각63%·37%",
     "민형배\"미통상논리로호남반도체판단하면안돼\"",
     "코스닥4%대상승...보안·로봇주강세에안랩14%↑·코스모로보틱스상...",
     "[위클리오늘]ADT캡스,SK인텔릭스(11.27)",
@@ -3282,10 +3280,12 @@
     "FC서울'우승파티'서대전4-1제압…손정범첫멀티골(종합)",
     "韓총리“삼전·하이닉스채용많이해달라”당부",
     "‘트럼프풋’약발다했나…코스피4900회복에도‘긴축·이익절벽’...",
-    "'반둥원정피로도없었다'서울,귀국하루만에대전4-1완파...홈최..."
+    "'반둥원정피로도없었다'서울,귀국하루만에대전4-1완파...홈최...",
+    "'조기우승'서울,2만7477명관중몰린대관식서대전4-1완파(종합)",
+    "韓총리,삼성·SK·네이버에“채용늘려달라”요청"
    ],
    "initialized": true,
-   "last_run": "2026-11-28T18:55:20.671418+09:00"
+   "last_run": "2026-11-28T19:00:43.465578+09:00"
   }
  },
  "press_names": {
