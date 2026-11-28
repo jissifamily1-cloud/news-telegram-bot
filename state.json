@@ -306,10 +306,13 @@
     [
      "2026-11-28T16:15:34.132744+09:00",
      "손정범 파티 우승 멀티골 제압 FC서울 대전"
+    ],
+    [
+     "2026-11-28T16:20:26.292867+09:00",
+     "성장판 전산망까지 데이터센터부터 LG씨엔에스 금융 열렸다"
     ]
    ],
    "seen_urls": [
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000087165",
     "http://www.joseilbo.com/news/news_read.php?uid=580582&class=53",
     "https://www.news2day.co.kr/article/20261127500051",
     "https://www.widedaily.com/news/articleView.html?idxno=304938",
@@ -1808,10 +1811,10 @@
     "http://www.bizwnews.com/news/articleView.html?idxno=153489",
     "https://economist.co.kr/article/view/ecn202611280008",
     "https://www.housingherald.co.kr/news/articleView.html?idxno=63598",
-    "https://www.yna.co.kr/view/AKR20261128039000007?input=1195m"
+    "https://www.yna.co.kr/view/AKR20261128039000007?input=1195m",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509167"
    ],
    "seen_titles": [
-    "코스피,장초반보합권등락…코스닥은4%대'점프'",
     "두산에너빌리티,영주765가구‘트리븐가흥’견본주택27일개관",
     "코스피,반도체주약세에보합권등락…코스닥은3%대급등",
     "\"반도체공장에로봇더들어온다\"…제닉스·에스피시스템스상한가[주...",
@@ -3310,10 +3313,11 @@
     "SK행복얼라이언스,도미노피자와파티카로200명아동에따뜻한피자선...",
     "[속보]삼성전자4만원대로떨어진다'섬뜩한전망나왔다'",
     "IPARK현대산업개발,광주사고이후,산수2구역수주확정…지역사회...",
-    "FC서울'우승파티'서대전4-1제압…손정범첫멀티골"
+    "FC서울'우승파티'서대전4-1제압…손정범첫멀티골",
+    "AI데이터센터부터금융전산망까지…LG씨엔에스성장판열렸다"
    ],
    "initialized": true,
-   "last_run": "2026-11-28T16:15:34.132744+09:00"
+   "last_run": "2026-11-28T16:20:26.292867+09:00"
   }
  },
  "press_names": {
