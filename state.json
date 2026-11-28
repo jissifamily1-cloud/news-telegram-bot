@@ -4,10 +4,6 @@
   "-1004347147762": {
    "recent_sigs": [
     [
-     "2026-11-28T05:45:27.718082+09:00",
-     "주식 아니다 보여도 경고 금융위기 로젠버그 담을"
-    ],
-    [
      "2026-11-28T05:55:20.280638+09:00",
      "대응 정부 이중잣대 요구도 반도체 과잉생산"
     ],
@@ -461,8 +457,6 @@
     ]
    ],
    "seen_urls": [
-    "https://www.etoday.co.kr/news/view/2653795",
-    "https://www.ziksir.com/news/articleView.html?idxno=154905",
     "https://www.yna.co.kr/view/AKR20261127031651008?input=1195m",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=668932",
     "https://www.news1.kr/society/general-society/6367986",
@@ -1960,11 +1954,11 @@
     "https://www.kado.net/news/articleView.html?idxno=2087783",
     "https://www.the-today.com/news/articleView.html?idxno=94221",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509132",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000087491"
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000087491",
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000087530",
+    "https://biz.sbs.co.kr/article_hub/20000349502?division=NAVER"
    ],
    "seen_titles": [
-    "공급망상생힘쓴SK인텔릭스,중소벤처기업부장관표창",
-    "코스피,반도체대형주약세에장초반하락전환…코스닥은3%대↑",
     "[특징주]제닉스로보틱스,삼성전자·SK하이닉스신규팹AMR도입확대...",
     "美중간선거에도통상압박여전…기업들,정부에지원촉구",
     "코스피,장초반보합권등락…코스닥상승폭커져3%대↑(종합)",
@@ -3462,10 +3456,12 @@
     "[속보]이재명대통령,강원도동해AIDC착공식참석…\"아시아최대규...",
     "노소영9440억소송…변호사보수도수백억추산",
     "국제유가움직이자시추업체도들썩…삼성중공업·한화오션에기회?",
-    "삼성전자3분기배당금30조원…개미들몫도5조원넘었다"
+    "삼성전자3분기배당금30조원…개미들몫도5조원넘었다",
+    "이재명대통령,강원동해AI인프라현장방문…GS데이터센터첫삽",
+    "[속보]李대통령,동해AI데이터센터착공식참석…\"아시아최대규모\""
    ],
    "initialized": true,
-   "last_run": "2026-11-28T11:45:25.948360+09:00"
+   "last_run": "2026-11-28T11:50:35.427523+09:00"
   }
  },
  "press_names": {
