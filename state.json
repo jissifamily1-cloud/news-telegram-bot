@@ -281,8 +281,6 @@
     ]
    ],
    "seen_urls": [
-    "http://www.weeklytoday.com/news/articleView.html?idxno=803727",
-    "https://www.asiaa.co.kr/news/articleView.html?idxno=273269",
     "https://www.the-today.com/news/articleView.html?idxno=94178",
     "https://biz.sbs.co.kr/article_hub/20000349249?division=NAVER",
     "https://www.goodkyung.com/news/articleView.html?idxno=293939",
@@ -1780,11 +1778,11 @@
     "http://www.breaknews.com/1255007",
     "https://www.maniareport.com/view.php?ud=202611281754462496dad9f33a29_19",
     "https://www.news1.kr/sports/soccer/6369226",
-    "https://www.dt.co.kr/article/12097714"
+    "https://www.dt.co.kr/article/12097714",
+    "https://www.sportsseoul.com/news/read/1652852",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8725173"
    ],
    "seen_titles": [
-    "민형배\"미통상논리로호남반도체판단하면안돼\"",
-    "코스닥4%대상승...보안·로봇주강세에안랩14%↑·코스모로보틱스상...",
     "[위클리오늘]ADT캡스,SK인텔릭스(11.27)",
     "SK증권,차기각자대표후보에박삼규·최창훈추천",
     "[반도체새질서,한국의세가지숙제(1부)]TSMC는AI칩공장,한국H...",
@@ -3282,10 +3280,12 @@
     "‘트럼프풋’약발다했나…코스피4900회복에도‘긴축·이익절벽’...",
     "'반둥원정피로도없었다'서울,귀국하루만에대전4-1완파...홈최...",
     "'조기우승'서울,2만7477명관중몰린대관식서대전4-1완파(종합)",
-    "韓총리,삼성·SK·네이버에“채용늘려달라”요청"
+    "韓총리,삼성·SK·네이버에“채용늘려달라”요청",
+    "승강PO앞둔광주FC기세무섭다,시즌첫연승+5G무패…포항원정서‘...",
+    "한총리,삼전·하이닉스에“채용많이해달라”…청년간담회도"
    ],
    "initialized": true,
-   "last_run": "2026-11-28T19:00:43.465578+09:00"
+   "last_run": "2026-11-28T19:05:21.622348+09:00"
   }
  },
  "press_names": {
